@@ -884,9 +884,10 @@ Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende am
 1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
 2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
 3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
-4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel;<br>
+5° vanaf 1 september 2023 het ambt van adjunct-directeur uit de categorie beleids- en ondersteunend personeel.<br>
 <br>
-De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies, 4sexies en 4novies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
 
 ## [ONDERAFDELING 1TER LESTIJDEN VOOR DE KERNTAAK VAN HET ONDERWIJZEND PERSONEEL (ing. BVR 22 april 2022, art. 15, I: 1 september 2021)]
 
@@ -1239,9 +1240,10 @@ Uit de punten die conform het eerste lid verkregen worden, kunnen de volgende am
 1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
 2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
 3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
-4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel;<br>
+5° vanaf 1 september 2023 het ambt van adjunct-directeur uit de categorie beleids- en ondersteunend personeel.<br>
 <br>
-De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
+De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies, 4sexies en 4novies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
 <br>
 § 5. Met toepassing van artikel 139undevicies, § 7, van het decreet worden de lestijden samen school maken aangewend op schoolniveau conform het afsprakenkader tussen de sociale partners.
 
@@ -1249,7 +1251,7 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 ### ART 20septies.
 
-Ter uitvoering van artikel 130, § 2, vijfde lid, van het decreet kunnen de lestijden, vermeld in artikel 130, § 2, tweede lid, van het decreet, in het gewoon basisonderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
+Ter uitvoering van artikel 130, §2, vijfde lid, van het decreet kunnen de vacante lestijden, vermeld in artikel 130, §2, tweede lid, van het decreet, en ter uitvoering van artikel 153viciessexies, vierde lid, van het decreet kunnen de niet-vacante lestijden, vermeld in artikel 153viciessexies, eerste lid, van het decreet, in het gewoon basisonderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
 <table border="1">
 	<tbody>
 		<tr>
@@ -1359,9 +1361,10 @@ Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende am
 1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
 2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
 3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
-4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel;<br>
+5° vanaf 1 september 2023 het ambt van adjunct-directeur uit de categorie beleids- en ondersteunend personeel.<br>
 <br>
-De punten worden omgerekend naar gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel conform artikel 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+De punten worden omgerekend naar gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel conform artikel 4quater, 4quinquies, 4sexies en 4novies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
 
 ## ONDERAFDELING 2 AANVULLENDE LESTIJDEN VOOR DE OPVANG VAN ANDERSTALIGE NIEUWKOMERS
 
@@ -1435,7 +1438,30 @@ Met toepassing van artikel 142, § 2, van het decreet kan het aantal   aanvullen
 
 ## [Onderafdeling 1. Aanwending van lestijden om een gastleraar in te zetten als vermeld in artikel 141, §4, van het decreet (ing. BVR 15 september 2023, art. 18, I: 1 september 2023)]
 
+### ART 23undecies.
+
+Een school kan tijdens de schooljaren 2023-2024 en 2024-2025 lestijden aanwenden om een gastleraar in te zetten als vermeld in artikel 141, §4, van het decreet, conform de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;als de school lestijden aanwendt om een gastleraar in te zetten, bezorgt de school de volgende gegevens aan het Agentschap voor Onderwijsdiensten:<br>
+a)&nbsp;&nbsp; &nbsp;het aantal lestijden van de wekelijkse lesopdracht waarvoor ze de voormelde lestijden wil aanwenden;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de periode van aanwending van de voormelde lestijden;<br>
+2°&nbsp;&nbsp; &nbsp;de lestijden, vermeld in punt 1°, a), worden door het Agentschap voor Onderwijsdiensten omgezet in een krediet dat wordt vastgesteld op 54,31 euro per omgezette lestijd van de wekelijkse lesopdracht. Het voormelde krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Het voormelde krediet wordt vanaf 1 januari 2023 gekoppeld aan de spilindex 123,14. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
+3°&nbsp;&nbsp; &nbsp;het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in punt 2°, toe aan de school in de vorm van een voorschot van 25% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75% in de loop van de maand juni die daarop volgt;<br>
+4°&nbsp;&nbsp; &nbsp;de school kan het krediet dat door het Agentschap voor Onderwijsdiensten toegekend wordt, vermeld in punt 3°, alleen aanwenden voor het inzetten van gastleraren conform punt 1°.
+
 ## [Onderafdeling 2. Aanwending van lestijden om een gastleraar in te zetten via een dienstverleningsovereenkomst met een onderneming of een organisatie als vermeld in artikel 130bis van het decreet (ing. BVR 15 september 2023, art. 18, I: 1 september 2023)]
+
+### ART 23duodecies.
+
+Een school kan lestijden aanwenden om een of meer gastleraren in te zetten als vermeld in artikel 130bis van het decreet, conform de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het schoolbestuur van de school sluit met een onderneming of een organisatie een dienstverleningsovereenkomst als vermeld in artikel 130bis van het decreet, met daarin de afspraken over de terbeschikkingstelling van een werknemer van de onderneming of de organisatie als gastleraar voor een welbepaalde opdracht en periode. Het schoolbestuur gebruikt het model dat is opgenomen in bijlage 2, die bij dit besluit is gevoegd, om de voormelde dienstverleningsovereenkomst te sluiten;<br>
+2°&nbsp;&nbsp; &nbsp;het schoolbestuur en de onderneming of de organisatie leggen op basis van de dienstverleningsovereenkomst, vermeld in punt 1°, de individuele lesopdracht van de werknemer vast in een deelovereenkomst conform het model van deelovereenkomst dat is opgenomen in het model van de dienstverleningsovereenkomst, vermeld in punt 1°;<br>
+3°&nbsp;&nbsp; &nbsp;als de school lestijden aanwendt voor een gastleraar als vermeld in artikel 130bis van het decreet, meldt de school aan het Agentschap voor Onderwijsdiensten de gegevens van het bedrijf of de organisatie waarmee ze een &nbsp;dienstverleningsovereenkomst heeft afgesloten en meldt de school aan het Agentschap voor Onderwijsdiensten het aantal lestijden en de periode van aanwending die zijn vastgelegd in de voormelde overeenkomst;<br>
+4°&nbsp;&nbsp; &nbsp;de lestijden die conform punt 3° worden gemeld, worden door het Agentschap voor Onderwijsdiensten omgezet in een krediet dat wordt vastgesteld op 54,31 euro per omgezette lestijd. Het voormelde krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Het voormelde krediet wordt vanaf 1 januari 2023 gekoppeld aan de spilindex 123,14. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
+5°&nbsp;&nbsp; &nbsp;het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in punt 4°, toe aan het bedrijf of de organisatie, zoals opgenomen in de dienstverleningsovereenkomst, vermeld in punt 1°.<br>
+<br>
+In het eerste lid wordt verstaan onder:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;onderneming: een onderneming uit de publieke of private profit- of non-profitsector;<br>
+2°&nbsp;&nbsp; &nbsp;organisatie: een organisatie uit de publieke of private profit- of non-profitsector.
 
 ## AFDELING C BIJZONDERE BEPALINGEN VOOR KLEUTER- EN LAGER ONDERWIJS
 
@@ -1581,7 +1607,7 @@ Met toepassing van artikel 153novies van het decreet wordt aan iedere autonome k
 
 § 1. Met toepassing van artikel 153sexies, § 1, van het decreet heeft elke school voor gewoon basisonderwijs recht op een basisenveloppe van negen punten voor administratieve en beleidsondersteuning.<br>
 <br>
-§ 2. Per school voor gewoon basisonderwijs wordt naast de punten, vermeld in paragraaf 1, een bijkomend aantal punten voor administratieve en beleidsondersteuning toegekend dat berekend wordt door het gewogen aantal regelmatige leerlingen dat ingeschreven is op de teldag, of het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde 0,28152 per leerling, waarbij de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636.<br>
+§ 2. Per school voor gewoon basisonderwijs wordt naast de punten, vermeld in paragraaf 1, een bijkomend aantal punten voor administratieve en beleidsondersteuning toegekend dat berekend wordt door het gewogen aantal regelmatige leerlingen dat ingeschreven is op de teldag, of het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde 0,31219 per leerling, waarbij de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636.<br>
 <br>
 De punten, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere gehele getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere gehele getal.
 
@@ -1591,7 +1617,7 @@ De punten, vermeld in het eerste lid, worden binnen een school afgerond naar het
 
 ### ART. 27quaterdecies.
 
-Uit de puntenenveloppe verkregen volgens de artikelen 27duodecies kunnen de ambten van administratief medewerker en beleidsondersteuner worden ingericht uit de categorie van beleids- en ondersteunend personeel.
+Uit de puntenenveloppe verkregen volgens de artikelen 27duodecies kunnen de ambten van administratief medewerker, beleidsondersteuner en adjunct-directeur worden ingericht uit de categorie van beleids- en ondersteunend personeel.
 
 ### ART. 27quindecies.
 
@@ -1599,316 +1625,356 @@ Uit de puntenenveloppe verkregen volgens de artikelen 27duodecies kunnen de ambt
 1° indien een betrekking wordt ingericht die de weddenschaal 202 genereert, wordt voor een voltijdse betrekking 63 punten in rekening gebracht;<br>
 2° indien een betrekking wordt ingericht die de weddenschaal 158 genereert, wordt voor een voltijdse betrekking 82 punten in rekening gebracht;<br>
 2° bis als een betrekking wordt ingericht die de weddeschaal 148 genereert, worden voor een voltijdse betrekking 85 punten in rekening gebracht;<br>
+2°ter als een betrekking wordt ingericht die de weddeschaal 413 genereert, worden voor een voltijdse betrekking 100 punten in rekening gebracht;<br>
 3° indien een betrekking wordt ingericht die de weddenschaal 542 genereert, wordt voor een voltijdse betrekking 120 punten in rekening gebracht;<br>
 3° bis als een betrekking wordt ingericht die de weddeschaal 501 genereert, worden voor een voltijdse betrekking 126 punten in rekening gebracht;<br>
 4° indien een betrekking wordt ingenomen door een personeelslid dat ingevolge een beslissing van de administratieve gezondheidsdienst ter beschikking is gesteld wegens ontstentenis van betrekking en wedertewerkgesteld wordt als administratieve medewerker, worden voor een voltijdse betrekking 63 punten in rekening gebracht.<br>
 <br>
-§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:
-<table border="1">
+§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:<br>
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>puntenwaarde</td>
-			<td>63</td>
-			<td>82</td>
-			<td>85</td>
-			<td>120</td>
-			<td>126</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">puntenwaarde</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">63</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">82</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222; vertical-align:top; width:52px">85</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222; vertical-align:top; width:52px">100</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222; width:51px">120</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222; vertical-align:top; width:54px">126</td>
 		</tr>
 		<tr>
-			<td>aantal uren</td>
-			<td>punten</td>
-			<td>punten</td>
-			<td>punten</td>
-			<td>punten</td>
-			<td>punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">aantal uren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">punten</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">punten</td>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>2</td>
-			<td>2</td>
-			<td>2</td>
-			<td>3</td>
-			<td>4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">4</td>
 		</tr>
 		<tr>
-			<td>2</td>
-			<td>4</td>
-			<td>5</td>
-			<td>5</td>
-			<td>7</td>
-			<td>7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">7</td>
 		</tr>
 		<tr>
-			<td>3</td>
-			<td>5</td>
-			<td>7</td>
-			<td>7</td>
-			<td>10</td>
-			<td>11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">11</td>
 		</tr>
 		<tr>
-			<td>4</td>
-			<td>7</td>
-			<td>9</td>
-			<td>9</td>
-			<td>13</td>
-			<td>14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">14</td>
 		</tr>
 		<tr>
-			<td>5</td>
-			<td>9</td>
-			<td>11</td>
-			<td>12</td>
-			<td>17</td>
-			<td>18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">18</td>
 		</tr>
 		<tr>
-			<td>6</td>
-			<td>11</td>
-			<td>14</td>
-			<td>14</td>
-			<td>20</td>
-			<td>21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">21</td>
 		</tr>
 		<tr>
-			<td>7</td>
-			<td>12</td>
-			<td>16</td>
-			<td>17</td>
-			<td>23</td>
-			<td>25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">25</td>
 		</tr>
 		<tr>
-			<td>8</td>
-			<td>14</td>
-			<td>18</td>
-			<td>19</td>
-			<td>27</td>
-			<td>28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">28</td>
 		</tr>
 		<tr>
-			<td>9</td>
-			<td>16</td>
-			<td>21</td>
-			<td>21</td>
-			<td>30</td>
-			<td>32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">30</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">32</td>
 		</tr>
 		<tr>
-			<td>10</td>
-			<td>18</td>
-			<td>23</td>
-			<td>24</td>
-			<td>33</td>
-			<td>35</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">33</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">35</td>
 		</tr>
 		<tr>
-			<td>11</td>
-			<td>19</td>
-			<td>25</td>
-			<td>26</td>
-			<td>37</td>
-			<td>39</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">26</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">31</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">37</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">39</td>
 		</tr>
 		<tr>
-			<td>12</td>
-			<td>21</td>
-			<td>27</td>
-			<td>28</td>
-			<td>40</td>
-			<td>42</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">33</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">40</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">42</td>
 		</tr>
 		<tr>
-			<td>13</td>
-			<td>23</td>
-			<td>30</td>
-			<td>31</td>
-			<td>43</td>
-			<td>46</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">31</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">36</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">43</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">46</td>
 		</tr>
 		<tr>
-			<td>14</td>
-			<td>25</td>
-			<td>32</td>
-			<td>33</td>
-			<td>47</td>
-			<td>49</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">33</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">39</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">47</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">49</td>
 		</tr>
 		<tr>
-			<td>15</td>
-			<td>26</td>
-			<td>34</td>
-			<td>35</td>
-			<td>50</td>
-			<td>53</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">35</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">42</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">50</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">53</td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>28</td>
-			<td>36</td>
-			<td>38</td>
-			<td>53</td>
-			<td>56</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">38</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">44</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">53</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">56</td>
 		</tr>
 		<tr>
-			<td>17</td>
-			<td>30</td>
-			<td>39</td>
-			<td>40</td>
-			<td>57</td>
-			<td>60</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">40</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">47</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">57</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">60</td>
 		</tr>
 		<tr>
-			<td>18</td>
-			<td>32</td>
-			<td>41</td>
-			<td>42</td>
-			<td>60</td>
-			<td>63</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">42</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">50</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">60</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">63</td>
 		</tr>
 		<tr>
-			<td>19</td>
-			<td>33</td>
-			<td>43</td>
-			<td>45</td>
-			<td>63</td>
-			<td>67</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">45</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">53</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">63</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">67</td>
 		</tr>
 		<tr>
-			<td>20</td>
-			<td>35</td>
-			<td>46</td>
-			<td>47</td>
-			<td>67</td>
-			<td>70</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">35</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">47</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">56</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">67</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">70</td>
 		</tr>
 		<tr>
-			<td>21</td>
-			<td>37</td>
-			<td>48</td>
-			<td>50</td>
-			<td>70</td>
-			<td>74</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">50</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">58</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">70</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">74</td>
 		</tr>
 		<tr>
-			<td>22</td>
-			<td>39</td>
-			<td>50</td>
-			<td>52</td>
-			<td>73</td>
-			<td>77</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">52</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">61</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">73</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">77</td>
 		</tr>
 		<tr>
-			<td>23</td>
-			<td>40</td>
-			<td>52</td>
-			<td>54</td>
-			<td>77</td>
-			<td>81</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">40</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">54</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">64</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">77</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">81</td>
 		</tr>
 		<tr>
-			<td>24</td>
-			<td>42</td>
-			<td>55</td>
-			<td>57</td>
-			<td>80</td>
-			<td>84</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">42</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">57</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">67</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">80</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">84</td>
 		</tr>
 		<tr>
-			<td>25</td>
-			<td>44</td>
-			<td>57</td>
-			<td>59</td>
-			<td>83</td>
-			<td>88</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">59</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">69</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">83</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">88</td>
 		</tr>
 		<tr>
-			<td>26</td>
-			<td>46</td>
-			<td>59</td>
-			<td>61</td>
-			<td>87</td>
-			<td>91</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">26</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">59</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">61</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">72</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">87</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">91</td>
 		</tr>
 		<tr>
-			<td>27</td>
-			<td>47</td>
-			<td>62</td>
-			<td>64</td>
-			<td>90</td>
-			<td>95</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">62</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">64</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">75</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">90</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">95</td>
 		</tr>
 		<tr>
-			<td>28</td>
-			<td>49</td>
-			<td>64</td>
-			<td>66</td>
-			<td>93</td>
-			<td>98</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">64</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">66</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">78</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">93</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">98</td>
 		</tr>
 		<tr>
-			<td>29</td>
-			<td>51</td>
-			<td>66</td>
-			<td>68</td>
-			<td>97</td>
-			<td>102</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">29</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">51</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">68</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">81</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">97</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">102</td>
 		</tr>
 		<tr>
-			<td>30</td>
-			<td>53</td>
-			<td>68</td>
-			<td>71</td>
-			<td>100</td>
-			<td>105</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">30</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">53</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">71</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">83</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">100</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">105</td>
 		</tr>
 		<tr>
-			<td>31</td>
-			<td>54</td>
-			<td>71</td>
-			<td>73</td>
-			<td>103</td>
-			<td>109</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">31</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">73</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">86</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">103</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">109</td>
 		</tr>
 		<tr>
-			<td>32</td>
-			<td>56</td>
-			<td>73</td>
-			<td>76</td>
-			<td>107</td>
-			<td>112</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">56</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">76</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">89</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">107</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">112</td>
 		</tr>
 		<tr>
-			<td>33</td>
-			<td>58</td>
-			<td>75</td>
-			<td>78</td>
-			<td>110</td>
-			<td>116</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">33</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">78</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">92</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">110</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">116</td>
 		</tr>
 		<tr>
-			<td>34</td>
-			<td>60</td>
-			<td>77</td>
-			<td>80</td>
-			<td>113</td>
-			<td>119</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">34</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">80</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">94</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">113</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">119</td>
 		</tr>
 		<tr>
-			<td>35</td>
-			<td>61</td>
-			<td>80</td>
-			<td>83</td>
-			<td>117</td>
-			<td>123</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">35</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">61</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">80</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">83</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">97</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">117</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">123</td>
 		</tr>
 		<tr>
-			<td>36</td>
-			<td>63</td>
-			<td>82</td>
-			<td>85</td>
-			<td>120</td>
-			<td>126</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">36</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">85</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:52px">100</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; width:51px">120</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none; vertical-align:top; width:54px">126</td>
 		</tr>
 	</tbody>
 </table>
@@ -2382,3 +2448,365 @@ Dit besluit treedt in werking op 1 september 1997, met uitzondering van de artik
 ### ART. 33.
 
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE 2
+
+Bijlage 2. Model van dienstverleningsovereenkomst als vermeld in artikel 23duodecies<br>
+<br>
+DIENSTVERLENINGSOVEREENKOMST TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Opdrachtgever voor een welbepaalde opdracht binnen de school [NAAM, INSTELLINGSNUMMER EN ADRES SCHOOL] snel een oplossing zoekt;<br>
+<br>
+De Opdrachtgever daarvoor bijstand nodig heeft van iemand met ervaring en deskundigheid en hij niet beschikt over de mogelijkheid om de opdracht met het eigen personeelsbestand onmiddellijk in te vullen en daarom een beroep wenst te doen op de Opdrachtnemer voor de levering van bepaalde diensten;<br>
+<br>
+De Partijen bereid zijn om voor een concrete opdracht samen te werken;<br>
+<br>
+De Partijen de levering van deze diensten onderworpen hebben aan de bepalingen en voorwaarden zoals opgenomen in deze overeenkomst van dienstverlening (hierna “de Dienstverleningsovereenkomst”), de Deelovereenkomst over de specifieke modaliteiten van de dienstverlening (hierna de “Deelovereenkomst”) en haar eventuele bijlage(n);<br>
+<br>
+De Dienstverleningsovereenkomst, de Deelovereenkomst en haar bijlagen samen de “Overeenkomst” tussen de Partijen vormen<br>
+<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+&nbsp;<br>
+Artikel 1. Voorwerp van de overeenkomst<br>
+<br>
+1.1.&nbsp;&nbsp; &nbsp;De Dienstverleningsovereenkomst heeft als voorwerp het leveren van bepaalde diensten tot uitvoering van een bepaalde opdracht, zoals beschreven in artikel 2, die in de Deelovereenkomst wordt geïndividualiseerd.<br>
+<br>
+Deze Dienstverleningsovereenkomst bevat de algemene voorwaarden waaronder de Opdrachtnemer voor rekening van de Opdrachtgever diensten zal leveren die nodig zijn om de Opdracht uit te voeren.<br>
+<br>
+1.2.&nbsp;&nbsp; &nbsp;De bepalingen van deze Dienstverleningsovereenkomst regelen de rechtsverhouding tussen de Opdrachtgever en de Opdrachtnemer. Bij tegenstrijdigheid of afwijking hebben de bepalingen van de Deelovereenkomst voorrang op die van de Dienstverleningsovereenkomst. Bovendien hebben de bepalingen van een recentere Deelovereenkomst steeds voorrang op die van een vorige Deelovereenkomst.<br>
+<br>
+Artikel 2. De Opdracht<br>
+<br>
+De Opdrachtgever bepaalt de opdracht die aan de Opdrachtnemer wordt toegewezen. Het betreft steeds een wekelijkse lesopdracht in een vak, die de volgende elementen omvat:<br>
+•&nbsp;&nbsp; &nbsp;de planning en voorbereiding van lessen;<br>
+•&nbsp;&nbsp; &nbsp;het lesgeven zelf;<br>
+•&nbsp;&nbsp; &nbsp;de klaseigen leerlingenbegeleiding;<br>
+•&nbsp;&nbsp; &nbsp;de evaluatie van de leerlingen;<br>
+•&nbsp;&nbsp; &nbsp;het overleg en de samenwerking met directie, collega’s, CLB, leersteuncentrum en ouders.<br>
+<br>
+Artikel 3. Uitvoering van de opdracht<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;De Partijen komen overeen en erkennen dat de rechtsverhouding die tussen hen tot stand wordt gebracht, een overeenkomst van dienstverlening is. Elke arbeidsovereenkomst tussen Partijen met toepassing van deze Overeenkomst is definitief uitgesloten. Evenmin kan er gedurende de uitvoering van de Opdracht een arbeidsovereenkomst ontstaan tussen de individuele werknemers van de Opdrachtnemer enerzijds en de Opdrachtgever anderzijds.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer duidt volledig autonoom en volgens eigen inzichten en bevindingen een of meer werknemers aan die hij de Opdracht laat uitoefenen. Die werknemers voldoen in elk geval aan voorwaarden die vermeld zijn in artikel 4.<br>
+<br>
+3.3.&nbsp;&nbsp; &nbsp;De Partijen bepalen in overleg en naargelang van de behoeften van de Opdracht de plaats waar de diensten gebruikelijk worden gepresteerd.<br>
+<br>
+De Opdrachtnemer kan op elk moment een beroep doen op de infrastructuur van de Opdrachtgever, zoals handboeken, lesmateriaal, ICT-voorzieningen en internettoegang. Deze opsomming is niet beperkend.<br>
+&nbsp;<br>
+De Partijen kunnen daarover zo nodig specifieke afspraken maken in de Deelovereenkomst bij deze Dienstverleningsovereenkomst.<br>
+<br>
+3.4.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verbindt zich ertoe om de toevertrouwde Opdracht naar best vermogen uit te (laten) voeren.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe alle tijd die nodig is voor de vervulling van de Opdracht aan de uitvoering ervan te laten besteden. De effectief te presteren dagen per week die nodig zijn voor de correcte uitvoering van de Opdracht worden in de Deelovereenkomst opgenomen.<br>
+<br>
+3.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan aan de Opdrachtnemer richtlijnen geven over de uitvoering van de Opdracht. Die hebben betrekking op de effectieve uitvoering van contractuele afspraken, zonder in te grijpen op de wijze van uitvoering van de Overeenkomst, aangezien de Opdrachtnemer daarover autonoom beslist.<br>
+<br>
+3.6.&nbsp;&nbsp; &nbsp;De Opdrachtgever verbindt zich ertoe dat de werknemers tijdens de uitvoering van de in artikel 2 bedoelde Opdracht recht hebben op aanvangsbegeleiding, coaching en ondersteuning, net zoals dat het geval is voor zijn andere personeelsleden.<br>
+<br>
+Artikel 4. &nbsp;Personeel van de opdrachtnemer<br>
+<br>
+4.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer is verantwoordelijk voor de correcte uitvoering van de in artikel 2 bedoelde Opdracht en de in de Deelovereenkomst opgesomde diensten en activiteiten ter uitvoering ervan. Dat houdt in dat hij volledig instaat voor het inzetten van de noodzakelijke arbeidskrachten, voor wier handelingen hij de volledige verantwoordelijkheid draagt.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe om voor de uitvoering van de Opdracht vakbekwame werknemers in te zetten die voorafgaandelijk aan de Opdrachtgever moeten worden voorgesteld om de vereiste vakbekwaamheid, ervaring en knowhow te kunnen verifiëren. Daarbij zorgt de Opdrachtnemer ervoor dat de door hem aangeduide werknemers in elk geval aan de volgende voorwaarden voldoen om de Opdracht uit te voeren:<br>
+•&nbsp;&nbsp; &nbsp;ze zijn minstens drie jaren in dienst bij de Opdrachtnemer;<br>
+•&nbsp;&nbsp; &nbsp;ze zijn van onberispelijk gedrag, zoals blijkt uit een uittreksel uit het strafregister dat niet langer dan een maand tevoren is afgegeven. Het uittreksel strafregister vermeldt de volgende finaliteit: 596.2 – model bestemd voor contacten met minderjarigen;<br>
+•&nbsp;&nbsp; &nbsp;ze hebben de vereiste kennis van het Nederlands als onderwijstaal. Ze beheersen het Nederlands op het niveau C1 van het Europees Referentiekader voor Talen;<br>
+•&nbsp;&nbsp; &nbsp;ze zijn in het bezit van een diploma dat minstens een voldoende geacht bekwaamheidsbewijs is voor het wervingsambt van het bestuurs- en onderwijzend personeel in het gewoon basisonderwijs waarvoor de Opdracht wordt afgesloten.<br>
+<br>
+4.2.&nbsp;&nbsp; &nbsp;De werknemers blijven in alle omstandigheden onder de exclusieve leiding en het hiërarchisch gezag van de Opdrachtnemer en alleen de Opdrachtnemer is bevoegd om hun richtlijnen en instructies te geven, tenzij anders is bepaald in de Deelovereenkomst.<br>
+<br>
+4.3.&nbsp;&nbsp; &nbsp;Op geen enkel ogenblik kunnen werknemers van de Opdrachtnemer als werknemer of aangestelde van de Opdrachtgever beschouwd worden. Evenmin kunnen werknemers van de Opdrachtgever als werknemer of aangestelde van de Opdrachtnemer beschouwd worden.<br>
+<br>
+4.4.&nbsp;&nbsp; &nbsp;Geen enkele bepaling van de Overeenkomst kan zo worden uitgelegd dat de Opdrachtnemer werknemers aan de Opdrachtgever op een verboden wijze ter beschikking stelt in de zin van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers. De Opdrachtgever onthoudt er zich van om ook maar enig gedeelte van het gezag over het personeel van de Opdrachtnemer uit te oefenen.<br>
+<br>
+Gelden niet als uitoefening van enig gedeelte van het werkgeversgezag:<br>
+•&nbsp;&nbsp; &nbsp;het naleven door de Opdrachtgever van de verplichtingen die op hem rusten in verband met het welzijn op het werk die gelden voor de plaats waar de opdracht wordt uitgeoefend;<br>
+•&nbsp;&nbsp; &nbsp;de instructies zoals bepaald in de Deelovereenkomst die de Opdrachtgever geeft voor de goede uitvoering van de Opdracht onder de Overeenkomst.<br>
+<br>
+4.5.&nbsp;&nbsp; &nbsp;Als een werknemer van de Opdrachtnemer vroeger werknemer is geweest bij de Opdrachtgever, meldt de Opdrachtnemer dat voordat hij die werknemer inzet voor de uitvoering van de Opdracht.<br>
+<br>
+Artikel 5. &nbsp;Financiële en sociale verplichtingen<br>
+<br>
+5.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer leeft alle wettelijke sociale, fiscale en handelsverplichtingen na die gelden voor de werknemers die hij ter beschikking stelt. De werknemers behouden hun salaris en alle daaraan verbonden financiële voordelen tijdens de terbeschikkingstelling.<br>
+<br>
+5.2.&nbsp;&nbsp; &nbsp;Als tegenprestatie voor de geleverde diensten betaalt de Opdrachtgever aan de Opdrachtnemer een vergoeding voor de prestaties van de werknemers zoals bepaald in de Deelovereenkomst. Die vergoeding bedraagt 54,31euro per gepresteerd lesuur van de overeengekomen wekelijkse lesopdracht.<br>
+<br>
+De Opdrachtnemer maakt op maandelijkse basis een factuur op. De Opdrachtgever betaalt die factuur uiterlijk de laatste dag van de daaropvolgende maand.<br>
+<br>
+5.3.&nbsp;&nbsp; &nbsp;De modaliteiten over de normale werkings- en verplaatsingskosten eigen aan de uitvoering van de Overeenkomst worden opgenomen in de Deelovereenkomst. Die kosten worden gedragen door de Opdrachtnemer.<br>
+<br>
+Artikel 6. Vertrouwelijkheid<br>
+<br>
+6.1.&nbsp;&nbsp; &nbsp;Zowel tijdens de duur van de Overeenkomst als na afloop ervan verbindt de Opdrachtnemer zich ertoe aan niemand enige informatie te geven van persoonlijke of vertrouwelijke aard over de Opdrachtgever, een leerling of personeel van de school van tewerkstelling, ongeacht het belang van die informatie of de omstandigheden waarin de Opdrachtnemer ze heeft verkregen.<br>
+<br>
+Hetzelfde geldt voor alle – zelfs niet vertrouwelijke – interne informatie, uitgezonderd de publieke informatie.<br>
+<br>
+De Opdrachtnemer maakt zich sterk dat ook zijn werknemers die voor de Opdracht worden ingezet, de hierboven vermelde verbintenis nakomen ten aanzien van de Opdrachtgever.<br>
+<br>
+6.2.&nbsp;&nbsp; &nbsp;Iedere inbreuk op deze verplichting tot vertrouwelijkheid tijdens de duur van de Overeenkomst, hoe gering ook, is een reden om de Overeenkomst te beëindigen, conform artikel 11, onverminderd het recht van de Opdrachtgever om schadevergoeding te eisen.<br>
+<br>
+Eveneens geeft iedere schending van deze verplichting tot vertrouwelijkheid aan de Opdrachtgever het recht de betaling van de schadevergoeding voor geleden schade te eisen.<br>
+<br>
+Alle door de Opdrachtnemer verwezenlijkte of hem toevertrouwde documenten met betrekking tot de prestaties omschreven in de Overeenkomst, zijn en blijven exclusieve eigendom van de Opdrachtgever. De Opdrachtnemer mag alleen een kopie van die documenten maken voor de doeleinden die omschreven zijn in de Overeenkomst.<br>
+<br>
+De Opdrachtgever kan op elk ogenblik de teruggave van de documenten en gegevens eisen. De documenten en gegevens worden in ieder geval aan de Opdrachtgever teruggegeven bij het einde van de Overeenkomst, ongeacht de reden van de beëindiging.<br>
+<br>
+Artikel 7. Intellectuele eigendom<br>
+<br>
+7.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verklaart exclusief, automatisch en van rechtswege aan de Opdrachtgever alle wettelijk overdraagbare auteurs- of andere intellectuele rechten op alle geheel of ten dele in het kader van de uitvoering van de Overeenkomst gecreëerde werken en uitgevoerde prestaties aan de Opdrachtgever over te dragen.<br>
+<br>
+De Overeenkomst slaat op alle werken, creaties en prestaties, uitvoeringen en dergelijke meer die door de Opdrachtnemer worden ontworpen of verwezenlijkt of waaraan hij heeft meegewerkt tijdens de duur van de Overeenkomst of in uitvoering ervan, met middelen of vanuit projecten van de Opdrachtgever, ongeacht of die creaties gerealiseerd werden door de Opdrachtnemer alleen of samen met andere personen.<br>
+<br>
+7.2.&nbsp;&nbsp; &nbsp;Al deze werken, creaties en prestaties worden zonder uitzondering onweerlegbaar vermoed te zijn gedaan door de Opdrachtnemer ingevolge de Opdracht van de Opdrachtgever. De Opdrachtnemer erkent en aanvaardt dat de Opdrachtgever wordt geacht automatisch en van rechtswege verkrijger te zijn van de hierboven gespecificeerde rechten.<br>
+&nbsp;<br>
+7.3.&nbsp;&nbsp; &nbsp;De exclusief overgedragen auteursrechten en andere intellectuele rechten omvatten het recht op reproductie. Dat omvat het recht op aanpassing, vertaling en distributie, het recht op publieke bekendmaking, het recht op ondergeschikt en afgeleid gebruik, zonder enige beperking.<br>
+<br>
+7.4.&nbsp;&nbsp; &nbsp;De hiervoor gedefinieerde overdracht wordt toegestaan aan de Opdrachtgever voor de volledige duur van de literaire en artistieke eigendom en voor elke ondersteuner en exploitatiewijze.<br>
+<br>
+7.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever en Opdrachtnemer kunnen afspraken maken over het gebruik van in 7.2 bekomen werken, creaties of prestaties door de Opdrachtnemer. De Opdrachtnemer verbindt er zich in dat geval uitdrukkelijk toe dat hij deze werken, creaties of prestaties niet zal commercialiseren of verspreiden.<br>
+<br>
+Artikel 8. Aansprakelijkheid<br>
+<br>
+8.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verzekert op zijn uitsluitende verantwoordelijkheid de goede uitvoering van de overeengekomen Opdracht.<br>
+Mogelijke fouten of tekortkomingen in de geleverde diensten die de Opdrachtnemer heeft gemaakt in het kader van, of met betrekking tot de uitvoering van de aanvaarde Opdracht kunnen alleen leiden tot aansprakelijkheid als wordt aangetoond dat ze het gevolg zijn van een grove nalatigheid, opzet of gebrek aan de normale deskundigheid die vereist is voor de dienst in kwestie.<br>
+<br>
+8.2.&nbsp;&nbsp; &nbsp;Als de Opdrachtnemer de diensten en activiteiten vermeld in de Deelovereenkomst niet kan uitvoeren door afwezigheid wegens ziekte of ongeval van de werknemer van de Opdrachtnemer, brengt de Opdrachtnemer de Opdrachtgever daarvan zo snel mogelijk op de hoogte.<br>
+<br>
+8.3.&nbsp;&nbsp; &nbsp;Als de Opdrachtnemer de hem toevertrouwde Opdracht niet kan voortzetten, brengt hij onmiddellijk de Opdrachtgever op de hoogte, zodat die laatste de nodige maatregelen kan nemen.<br>
+<br>
+8.4.&nbsp;&nbsp; &nbsp;De Opdrachtnemer kan alleen aansprakelijk worden gesteld voor bedrog of een zware fout gepleegd door hemzelf of door een van zijn werknemers. In dat laatste geval beperkt zijn aansprakelijkheid zich tot de herstelling van voorzienbare, directe, persoonlijke en zekere schade die de Opdrachtgever heeft geleden.<br>
+<br>
+8.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan op grond van de Overeenkomst alleen aansprakelijk worden gesteld voor opzet of grove nalatigheid. Die beperking geldt niet voor lichamelijke schade.<br>
+<br>
+De Opdrachtgever zorgt ervoor dat de werknemers van de Opdrachtnemer tijdens de uitvoering van de Opdracht verzekerd zijn via de verzekering burgerlijke aansprakelijkheid en rechtsbijstand die ook voor zijn andere personeelsleden geldt.<br>
+<br>
+Artikel 9. &nbsp;Welzijn op het werk<br>
+&nbsp;<br>
+9.1.&nbsp;&nbsp; &nbsp;Ter uitvoering van artikel 8 tot 10 van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, ziet de Opdrachtgever erop toe dat de werknemers van de Opdrachtnemer op de hoogte worden gesteld van alle bepalingen van de wet van 4 augustus 1996 over het welzijn van de werknemers bij de uitvoering van hun werk (Welzijnswet), haar uitvoeringsbesluiten en de bepalingen van het Algemeen Reglement op de Arbeidsbescherming (ARAB) die van toepassing zijn op de uitoefening van de Opdracht bij de Opdrachtgever.<br>
+<br>
+9.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer zet voor het uitvoeren van de Opdracht alleen werknemers in die goed geïnstrueerd en opgeleid zijn op het vlak van de te nemen preventie- en beschermingsmaatregelen.<br>
+<br>
+9.3.&nbsp;&nbsp; &nbsp;De Opdrachtgever informeert de Opdrachtnemer en zijn werknemers over:<br>
+•&nbsp;&nbsp; &nbsp;de beroepsrisico’s bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de beschermings- en preventiemiddelen bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de organisatie van de eerste hulp bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de brandbestrijding en de evacuatie van personen bij binnenwerken bij de Opdrachtgever.<br>
+<br>
+Hij doet dat zoals bepaald in de Welzijnswet en haar uitvoeringsbesluiten.<br>
+<br>
+9.4.&nbsp;&nbsp; &nbsp;De Opdrachtgever verbindt zich ertoe zijn verplichtingen inzake het welzijn van de werknemers bij de uitvoering van hun werk, die eigen zijn aan de inrichting waarin zijn werknemers werkzaamheden komen uitvoeren, na te leven.<br>
+<br>
+9.5.&nbsp;&nbsp; &nbsp;Als de Opdrachtgever de hiervoor bepaalde verplichtingen niet of gebrekkig naleeft, kan de Opdrachtnemer in alle gevallen zelf de nodige maatregelen treffen, op kosten van de Opdrachtgever.<br>
+<br>
+Artikel 10. Contactpersonen en volmachten<br>
+<br>
+10.1.&nbsp;&nbsp; &nbsp;De Opdrachtgever wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Overeenkomst betreft de volgende persoon aan: [NAAM], [FUNCTIE].<br>
+<br>
+10.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Overeenkomst betreft de volgende persoon aan: [NAAM], [FUNCTIE].<br>
+<br>
+10.3.&nbsp;&nbsp; &nbsp;De Opdrachtgever geeft volmacht aan de Opdrachtnemer om in zijn naam de handelingen te stellen die zijn opgenomen in de Deelovereenkomst.<br>
+<br>
+Artikel 11. Duurtijd van de Dienstverleningsovereenkomst<br>
+<br>
+11.1.&nbsp;&nbsp; &nbsp;Deze Dienstverleningsovereenkomst is gesloten voor [PERIODE OPNEMEN].<br>
+<br>
+11.2.&nbsp;&nbsp; &nbsp;Elk van de Partijen kan een einde aan de Overeenkomst, vermeld in artikel 12, stellen door middel van een opzegging via een per post aangetekende brief. Daarbij moet een opzeggingstermijn van één maand in acht worden genomen.<br>
+&nbsp;<br>
+De aangetekende brief moet op straffe van nietigheid verstuurd worden uiterlijk 7 kalenderdagen voor het verstrijken van de maand. De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de datum van verzending.<br>
+<br>
+Elke Partij heeft bovendien het recht om de Overeenkomst, vermeld in artikel 12, op gelijk welk ogenblik met onmiddellijke ingang te beëindigen, zonder een opzeggingstermijn na te leven. In dat geval moet ze aan de andere Partij een bedrag betalen dat gelijk is aan een maand vergoeding, berekend op basis van de gemiddelde vergoeding die de Opdrachtgever ter uitvoering van deze Overeenkomst voor één maand heeft betaald of betaald zou moeten hebben.<br>
+<br>
+Elke Partij heeft bovendien het recht de Overeenkomst, vermeld in artikel 12, te beëindigen zonder opzegging noch vergoeding, als een ernstige tekortkoming van de andere Partij de verdere professionele samenwerking tussen Partijen definitief onmogelijk maakt en als uitzonderlijke omstandigheden de verdere uitvoering van deze Overeenkomst definitief onmogelijk maken.<br>
+<br>
+Onder meer de volgende feiten worden als een ernstige tekortkoming beschouwd:<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 6 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 9 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een schending van de contractuele verplichtingen, als die niet wordt hersteld binnen tien kalenderdagen na de officiële kennisgeving.<br>
+<br>
+Deze opsomming is niet limitatief.<br>
+<br>
+De beëindiging zonder opzegging noch vergoeding wordt aan de andere Partij betekend via een per post aangetekende brief binnen tien kalenderdagen te rekenen vanaf de dag waarop de Partij die de beëindiging inroept, kennis heeft van de feiten die aan de grondslag liggen van de beëindiging.<br>
+<br>
+11.3.&nbsp;&nbsp; &nbsp;De Overeenkomst, vermeld in artikel 12, wordt van rechtswege en zonder ingebrekestelling, zonder enige vergoeding, als beëindigd beschouwd als een van de Partijen haar activiteiten stopzet, na liquidatie of faillissement.<br>
+<br>
+Artikel 12. Overeenkomst<br>
+<br>
+De volledige Overeenkomst tussen Partijen bestaat slechts uit deze Dienstverleningsovereenkomst, aangevuld door de Deelovereenkomst(en) en eventueel andere bijlagen. De andere algemene voorwaarden van de Partijen zijn niet van toepassing.<br>
+<br>
+Artikel 13. Bevoegdheid en toepasselijk recht<br>
+<br>
+13.1.&nbsp;&nbsp; &nbsp;De Overeenkomst wordt beheerst door het Belgisch recht.<br>
+<br>
+13.2.&nbsp;&nbsp; &nbsp;Partijen komen overeen dat eventuele vorderingen en geschillen over het bestaan, de interpretatie of de uitvoering van de Overeenkomst en de bijlagen zullen worden voorgelegd aan de bevoegde rechtbank.<br>
+&nbsp;<br>
+Gedaan te [PLAATS] op [DATUM] in zoveel exemplaren als er Partijen zijn<br>
+De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De Opdrachtgever<br>
+[NAAM EN RECHTSVORM]&nbsp;&nbsp; &nbsp;[NAAM EN RECHTSVORM]<br>
+&nbsp;<br>
+<br>
+<br>
+DEELOVEREENKOMST BIJ DE DIENSTVERLENINGSOVEREENKOMST VAN [DD/MM/YYYY]<br>
+TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen.<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Partijen een Dienstverleningsovereenkomst hebben gesloten;<br>
+<br>
+De Partijen zijn overeengekomen de gedetailleerde omschrijving van de Opdracht en de specifieke modaliteiten van de dienstverlening vast te leggen in een afzonderlijke Deelovereenkomst.<br>
+<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+<br>
+Artikel 1. Opdracht<br>
+<br>
+De Opdrachtnemer verleent de diensten / voert de activiteiten uit (hierna de “Diensten”/de “Activiteiten”) die vereist zijn om een wekelijkse lesopdracht van XX/YY [uren/prestatienoemer] uit te oefenen, die de taken omvat die vermeld zijn in artikel 2 van de Dienstverleningsovereenkomst.<br>
+<br>
+Artikel 2. Contactpersoon en vertegenwoordiger<br>
+<br>
+De Opdrachtgever wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Opdracht betreft de volgende persoon aan: [NAAM en FUNCTIE ].<br>
+<br>
+De Opdrachtnemer wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Opdracht betreft de volgende persoon aan: [NAAM en FUNCTIE].<br>
+<br>
+Die contactpersonen zijn verantwoordelijk voor de opvolging en de coördinatie van de Opdracht zoals geregeld door deze Deelovereenkomst.<br>
+&nbsp;<br>
+De communicatie tussen de Opdrachtgever en de Opdrachtnemer over de uitvoering van de Overeenkomst wordt in principe uitsluitend tussen de contactpersonen gevoerd, zonder afbreuk te doen aan het recht van de Opdrachtgever om richtlijnen en instructies aan het personeel van de Opdrachtnemer te geven zoals omschreven in de bijlage bij de Deelovereenkomst. Daarover zal echter voorafgaandelijk overleg worden gevoerd tussen de contactpersonen.<br>
+<br>
+Artikel 3. Duurtijd van de Opdracht<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;De Deelovereenkomst wordt van kracht op [DATUM] en wordt gesloten voor een periode van [AANVULLEN] OF loopt af op [DATUM].<br>
+<br>
+De Partijen bepalen één maand voor de vervaldag in gemeenschappelijk overleg of hun samenwerking wordt verlengd. Bij verlenging wordt een nieuwe Deelovereenkomst opgemaakt. Als er geen akkoord is op dat vlak, eindigt de Deelovereenkomst op de overeengekomen vervaldag.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;Elk van de Partijen kan een einde aan de Deelovereenkomst stellen door middel van een opzegging via een per post aangetekende brief. Daarbij wordt een opzeggingstermijn van één maand in acht genomen. De aangetekende brief wordt op straffe van nietigheid verstuurd uiterlijk zeven kalenderdagen voor het verstrijken van de maand. De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de datum van verzending.<br>
+<br>
+Als de opdracht een vacature betreft van een afwezige titularis en deze titularis komt terug vroegtijdig uit zijn afwezigheid, gaan de Partijen in overleg over de verdere uitvoering van de Deelovereenkomst. Als de Partijen besluiten de Deelovereenkomst omwille van de terugkomst van de titularis vroegtijdig te beëindigen, bepalen ze in overleg of er een opzeggingstermijn en vergoeding zal worden gehanteerd.<br>
+<br>
+Elke Partij heeft bovendien het recht om de Deelovereenkomst, op gelijk welk ogenblik met onmiddellijke ingang te beëindigen, zonder een opzeggingstermijn na te leven. In dat geval betaalt ze aan de andere Partij een bedrag dat gelijk is aan een maand vergoeding, die wordt berekend op basis van de gemiddelde vergoeding die de Opdrachtgever ter uitvoering van deze Overeenkomst voor één maand heeft betaald of zou hebben moeten betalen.<br>
+<br>
+Elke Partij heeft bovendien het recht de Deelovereenkomst te beëindigen zonder opzegging noch vergoeding, als een ernstige tekortkoming van de andere Partij de verdere professionele samenwerking tussen Partijen definitief onmogelijk maakt en als uitzonderlijke omstandigheden de verdere uitvoering van de Overeenkomst definitief onmogelijk maken.<br>
+<br>
+Onder meer de volgende feiten worden als een ernstige tekortkoming beschouwd:<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 6 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 9 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een schending van de contractuele verplichtingen, als die niet wordt hersteld binnen tien kalenderdagen na officiële kennisgeving.<br>
+&nbsp;<br>
+Die opsomming is niet limitatief.<br>
+<br>
+De beëindiging zonder opzegging noch vergoeding wordt aan de andere Partij betekend via een per post aangetekende brief binnen tien kalenderdagen te rekenen vanaf de dag waarop de Partij die de beëindiging inroept, kennis heeft van de feiten die aan de grondslag liggen van de beëindiging.<br>
+<br>
+Artikel 4. Prestatie-uren<br>
+<br>
+De Opdrachtnemer is beschikbaar voor de uitvoering van de Diensten en Activiteiten die nodig zijn voor de Opdracht gedurende de tijd nodig om te voldoen aan de verplichtingen die voor hem uit de Overeenkomst voortvloeien. Partijen komen overeen dat de prestaties die de Opdrachtnemer voor de Opdrachtgever zal leveren, ongeveer [AANTAL] uren per week zullen belopen.<br>
+<br>
+De prestaties vinden plaats op [DAG van de week].<br>
+<br>
+Artikel 5. Plaats van uitvoering<br>
+<br>
+Partijen bepalen in overleg en naargelang van de behoeften van de Opdracht de plaats waar de Diensten gebruikelijk worden gepresteerd. Bij deze Opdracht zullen de werkzaamheden worden uitgevoerd te [NAAM, INSTELLINGSNUMMER en ADRES SCHOOL].<br>
+<br>
+De Opdrachtnemer kan gebruik maken van de infrastructuur en documentatie van de Opdrachtgever om de Diensten te leveren en de Activiteiten te organiseren.<br>
+<br>
+De Opdrachtnemer heeft recht op aanvangsbegeleiding, coaching en ondersteuning door de Opdrachtgever tijdens de uitvoering van de Opdracht.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe om alle instructies over veiligheid en gezondheid die gelden binnen de gebouwen waar personeel van de Opdrachtgever werkzaam is, na te leven. Als de Opdrachtnemer die verplichtingen niet of gebrekkig naleeft, kan de Opdrachtgever zelf alle nodige maatregelen treffen in naam van de Opdrachtnemer en op zijn kosten.<br>
+<br>
+Artikel 6. Tarief en facturatie<br>
+<br>
+6.1.&nbsp;&nbsp; &nbsp;De forfaitaire prestatievergoeding bedraagt 54,31 euro per lesuur van de overeengekomen wekelijkse lesopdracht.<br>
+<br>
+6.2.&nbsp;&nbsp; &nbsp;Elke factuur van de Opdrachtnemer wordt opgesteld conform de gemaakte afspraken in artikel 5 van de Dienstverleningsovereenkomst.<br>
+<br>
+Alle toevoegingen of aanpassingen aan deze Deelovereenkomst zijn alleen geldig als ze schriftelijk zijn overeengekomen en rechtsgeldig ondertekend door beide Partijen.<br>
+<br>
+Gedaan te [PLAATS] op [dd/mm/yyyy] in zoveel exemplaren als er Partijen zijn.<br>
+&nbsp;De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De Opdrachtgever<br>
+Voor &nbsp;[naam en rechtsvorm]&nbsp;&nbsp; &nbsp;Voor [naam en rechtsvorm]<br>
+&nbsp;<br>
+<br>
+<br>
+BIJLAGE AAN DE DEELOVEREENKOMST VAN [DD/MM/YYYY] TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen.<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Partijen een Dienstverleningsovereenkomst hebben gesloten;<br>
+<br>
+De Partijen de gedetailleerde omschrijving van de opdracht en de specifieke modaliteiten van de dienstverlening hebben vastgelegd in een afzonderlijke Deelovereenkomst;<br>
+<br>
+Artikel 31, §1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers verbiedt in dienst genomen werknemers ter beschikking te stellen van derden die deze werknemers gebruiken en over hen enig gedeelte van het gezag uitoefenen dat normaal aan de werkgever toekomt;<br>
+<br>
+Artikel 31, §1, alinea 3, van deze wet bepaalt dat de instructies die de derde geeft aan de werknemers van de werkgever ter uitvoering van een geschreven overeenkomst tussen de derde en de werkgever, niet gelden als de uitoefening van enig gedeelte van het werkgeversgezag door de derde, op voorwaarde dat:<br>
+•&nbsp;&nbsp; &nbsp;in deze geschreven overeenkomst uitdrukkelijk en gedetailleerd is bepaald welke instructies precies door de derde kunnen worden gegeven aan de werknemers van de werkgever;<br>
+•&nbsp;&nbsp; &nbsp;dit instructierecht van de derde het werkgeversgezag van de werkgever op geen enkele wijze uitholt;<br>
+•&nbsp;&nbsp; &nbsp;de feitelijke uitvoering van deze overeenkomst tussen de derde en de werkgever volledig overeenstemt met de uitdrukkelijke bepalingen van de voormelde geschreven overeenkomst;<br>
+<br>
+De Partijen in deze Bijlage de instructies wensen op te lijsten die door de Opdrachtgever kunnen worden gegeven aan de werknemers van de Opdrachtnemer<br>
+&nbsp;<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+<br>
+Artikel 1. Toegelaten instructies<br>
+<br>
+1.1.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan aan de werknemers van de Opdrachtnemer in het kader van de uitvoering van de Overeenkomst onder meer instructies geven over: [AAN TE PASSEN IFV DE CONCRETE LESOPDRACHT]:<br>
+<br>
+•&nbsp;&nbsp; &nbsp;de naleving van de planning van de uit te voeren opdracht;<br>
+•&nbsp;&nbsp; &nbsp;het regelen van de toegang tot de locaties en/of de faciliteiten van de Opdrachtgever die noodzakelijk zijn voor het vervullen van de Opdracht (bijvoorbeeld badges, registratiesysteem);<br>
+•&nbsp;&nbsp; &nbsp;het respecteren van de omstandigheden, de procedures en de handelswijzen van de Opdrachtgever waarmee rekening moet gehouden worden voor het vervullen van de Opdracht (bijvoorbeeld bestaande veiligheidsvoorschriften, procedures in functie van het welzijn op het werk, vertrouwelijkheidsvereisten, principes van het pedagogisch project, afspraken betreffende deelname aan overleg en vergaderingen, ...);<br>
+•&nbsp;&nbsp; &nbsp;tussentijdse wijzigingen waarmee rekening gehouden moet worden bij de uitvoering van de opdracht (bijvoorbeeld aanpassing van planning, aanpassing uitvoeringsmodaliteiten).<br>
+<br>
+1.2.&nbsp;&nbsp; &nbsp;De Partijen komen overeen dat de bovenstaande instructies geenszins het werkgeversgezag van de Opdrachtnemer uithollen.<br>
+<br>
+Artikel 2. Verboden instructies<br>
+<br>
+De volgende elementen komen in elk geval toe aan de Opdrachtnemer als werkgever ten aanzien van zijn werknemers die verbonden zijn door een arbeidsovereenkomst, en kunnen in geen geval deel uitmaken van het instructierecht van de Opdrachtgever, vermeld in artikel 1:<br>
+•&nbsp;&nbsp; &nbsp;aanwervingsbeleid (processen, interviews, selectie- en aanwervingscriteria);<br>
+•&nbsp;&nbsp; &nbsp;beleid met betrekking tot loons- en arbeidsvoorwaarden;<br>
+•&nbsp;&nbsp; &nbsp;beleid inzake training, vorming en opleiding, uitgezonderd het beleid dat noodzakelijk is voor het vervullen van de opdracht en dat specifiek is aan de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;controle van de arbeidstijd en het bepalen van eventuele overuren, rustpauzes of inhaalrustdagen;<br>
+•&nbsp;&nbsp; &nbsp;toelating en rechtvaardiging van afwezigheden (ziekte, klein verlet,<br>
+vakantie …);<br>
+•&nbsp;&nbsp; &nbsp;beleid inzake disciplinaire sancties en ontslag;<br>
+•&nbsp;&nbsp; &nbsp;evaluatie- en functioneringsgesprekken;<br>
+•&nbsp;&nbsp; &nbsp;functiebepalingen.<br>
+<br>
+Artikel 3. Kennisgeving aan de ondernemingsraad van de Opdrachtgever<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;Met toepassing van artikel 31, §1, laatste alinea, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers brengt de Opdrachtgever<br>
+&nbsp;<br>
+onverwijld zijn ondernemingsraad op de hoogte van het bestaan van de Overeenkomst.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;De Opdrachtgever bezorgt aan de leden van zijn ondernemingsraad die daarom verzoeken een afschrift van deze Bijlage waarin de instructies zijn bepaald die door de Opdrachtgever aan de werknemers van de Opdrachtnemer kunnen worden gegeven.<br>
+Gedaan te [PLAATS] op [dd/mm/yyyy] in zoveel exemplaren als er Partijen zijn.<br>
+De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De Opdrachtgever<br>
+Voor [naam en rechtsvorm]&nbsp;&nbsp; &nbsp;Voor [naam en rechtsvorm]
+
+### Bijlage 2.
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/01_1.pdf#page=377">Bijlage 2</a>
