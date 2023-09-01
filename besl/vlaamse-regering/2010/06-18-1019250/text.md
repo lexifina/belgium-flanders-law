@@ -158,7 +158,7 @@ Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen 
 
 ### ART. 8.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligend verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 720 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2. Als een voorziening een erkenning heeft voor de typemodule veilig verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 720 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
 § 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
@@ -169,7 +169,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 
 ### ART. 9.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2. Als een voorziening een erkenning heeft voor de typemodule beveiligend verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 670 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2. Als een voorziening een erkenning heeft voor de typemodule veilig verblijf of de typemodule verblijf in een voorziening van categorie 8 als vermeld in bijlage 1 bij het besluit van 5 april 2019, wordt het voormelde basisbedrag vastgesteld op 670 euro per m2 voor de infrastructuur die betrekking heeft op die typemodule.<br>
 <br>
 § 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
