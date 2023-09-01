@@ -47,8 +47,8 @@ b) groenten en fruit die beschouwd kunnen worden als omschakelingsproducten als 
 3° groenten en fruit: de producten van de sector groenten en fruit en de sector bananen, vermeld in bijlage I, deel IX en XI, van de verordening;<br>
 4° indicatorschool: een onderwijsinstelling uit het buitengewoon lager onderwijs, het buitengewoon secundair onderwijs of een onderwijsinstelling uit het basisonderwijs waarvan minstens 15% van de ingeschreven leerlingen rechthebbende is van de indicator "schooltoelage" als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, in het tweede schooljaar voor het schooljaar waarvoor een deelnameverklaring als vermeld in artikel 7 van dit besluit, wordt ingediend;<br>
 5° melk: consumptiemelk en de lactosevrije versies daarvan als bedoeld in artikel 23, lid 3, b), van de verordening evenals dranken op basis van melk met cacao, of natuurlijk gearomatiseerd, als bedoeld in bijlage V van de verordening, die niets van het volgende bevatten: toegevoegde suiker, toegevoegd zout, toegevoegde vetten, toegevoegde zoetstoffen, toegevoegde kunstmatige smaakversterkers E620 tot en met E650 als omschreven in Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven.<br>
-6° ministers: de Vlaamse minister, bevoegd voor het gezondheidsbeleid en de Vlaamse minister, bevoegd voor de landbouw;<br>
-7° onderwijsinstelling: een instelling in het Vlaamse Gewest, die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd wordt voor basisonderwijs of buitengewoon secundair onderwijs;<br>
+6° ministers: de Vlaamse minister, bevoegd voor het gezondheidsbeleid, de Vlaamse minister, bevoegd voor onderwijs en vorming,&nbsp;en de Vlaamse minister, bevoegd voor de landbouw;<br>
+7° onderwijsinstelling: een instelling in het Vlaamse Gewest, die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd wordt voor basisonderwijs, inclusief onthaalonderwijs voor anderstalige nieuwkomers, of buitengewoon secundair onderwijs;<br>
 8° gedelegeerde verordening: de gedelegeerde verordening (EU) nr. 2017/40 van de Commissie van 3 november 2016 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad, met betrekking tot Uniesteun voor de verstrekking van groenten en fruit, bananen en melk in onderwijsinstellingen en tot wijziging van Gedelegeerde Verordening (EU) nr. 907/2014;<br>
 9° verordening: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
 10° schoolregeling: de schoolfruit- en groentenregeling, vermeld in artikel 23 van de verordening, en de schoolmelk- en zuivelproductenregeling, vermeld in artikel 26 van de verordening.
@@ -72,10 +72,13 @@ Om de erkenning te verkrijgen dient een onderwijsinstelling een erkenningsaanvra
 In de aanvraag verbindt de onderwijsinstelling zich er toe:<br>
 1° de verbintenissen, vermeld in artikel 6, lid 1, a), c), e) en f), van de gedelegeerde verordening, aan te gaan;<br>
 2° ...<br>
-3° de ouders van de leerlingen op de hoogte te brengen van de deelname van de onderwijsinstelling aan de schoolregeling;<br>
-4° de groenten en fruit en de melk die in het kader van de schoolregeling verstrekt worden alleen aan te bieden voor consumptie door leerlingen op schooldagen;<br>
+3° de ouders van de leerlingen op de hoogte te brengen van de deelname van de onderwijsinstelling aan de schoolregeling via de poster die hun door de bevoegde entiteit na de inschrijving wordt bezorgd;<br>
+4° de groenten en fruit en de melk die in het kader van de schoolregeling verstrekt worden zonder bijkomende voorwaarden aan te bieden aan alle leerlingen van de school in kwestie, voor consumptie door die leerlingen op schooldagen;<br>
 5° de onterecht uitbetaalde steun terug te betalen;<br>
-6° de groenten en fruit en de melk die in het kader van de schoolregeling verstrekt worden alleen aan te bieden buiten de schoolmaaltijden.<br>
+6° de groenten en fruit die in het kader van de schoolregeling verstrekt worden alleen aan te bieden buiten de schoolmaaltijden.<br>
+7° de melk die in het kader van de schoolregeling verstrekt wordt, aan te bieden buiten de schoolmaaltijden. De melk wordt alleen binnen de schoolmaaltijden aangeboden als ze voldoet aan al de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;ze wordt niet gebruikt in de bereiding van de schoolmaaltijden;<br>
+b)&nbsp;&nbsp; &nbsp;ze wordt niet gebruikt om producten te vervangen die deel uitmaken van de schoolmaaltijden waarvoor een financiële bijdrage is ontvangen door de onderwijsinstelling. De voormelde voorwaarde geldt niet als de onderwijsinstelling de schoolmaaltijd gratis distribueert.<br>
 <br>
 De ministers kunnen de uiterste indieningsdatum en de wijze waarop de erkenningsaanvraag ingediend wordt, bepalen.
 
@@ -98,46 +101,47 @@ De ministers kunnen:<br>
 
 ### ART 6.
 
-De steun, vermeld in artikel 5, is gelijk aan het bedrag dat de onderwijsstelling betaalt aan haar leverancier voor de levering van een portie biologische of niet-biologische groenten en fruit en melk, maar kan niet hoger zijn dan het maximale steunbedrag, vermeld in het tweede lid.<br>
+De steun, vermeld in artikel 5, eerste lid, bestaat uit een forfaitair steunbedrag per portie biologische of niet-biologische groenten en fruit, en melk.<br>
 <br>
-De ministers bepalen het maximale steunbedrag voor de verstrekking van een portie biologische groenten en fruit en melk per leerling en een portie niet-biologische groenten en fruit en melk per leerling. De ministers houden daarbij rekening met de evolutie van de marktprijzen.<br>
+De ministers bepalen de forfaitaire steunbedragen, vermeld in het eerste lid, en houden daarbij rekening met de evolutie van de marktprijzen.<br>
 <br>
-De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het steunbedrag voor niet-biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, als minstens een van die porties in de periode in kwestie, niet biologisch is.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het&nbsp;forfaitaire steunbedrag voor niet-biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, als minstens een van die porties in de periode in kwestie, niet biologisch is.<br>
 <br>
-De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het steunbedrag voor biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, alleen als alle verstrekte porties in de periode in kwestie biologisch zijn.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het forfaitaire steunbedrag voor biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, alleen als alle verstrekte porties in de periode in kwestie biologisch zijn.<br>
 <br>
 Er kan alleen steun worden toegekend voor het aantal leerlingen dat de onderwijsinstelling heeft doorgegeven in de deelnameverklaring, vermeld in artikel 7, of in de steunaanvraag, vermeld in artikel 9, tweede lid.<br>
 <br>
-Als de ministers de bevoegdheid, vermeld in artikel 5, vierde lid, 2°, gebruiken om het aantal weken in de eerste of tweede periode uit te breiden, kunnen ze de maximale steunbedragen, vermeld in het tweede lid, bepalen.<br>
-<br>
-De ministers kunnen bepalen met welke documenten het bedrag dat de onderwijsinstelling betaalt aan haar leverancier voor de levering van een portie biologische of niet-biologische groenten en fruit en melk, vermeld in het eerste lid, gestaafd wordt.
+De ministers kunnen bepalen met welke documenten de aankoop van de porties biologische of niet-biologische groenten en fruit en melk, vermeld in het eerste lid, en de hoeveelheid ervan, gestaafd wordt. De onderwijsinstelling dient de voormelde documenten in bij de steunaanvraag, vermeld in artikel 9.
 
 ### ART 7.
 
 Elk schooljaar dienen de erkende onderwijsinstellingen die willen deelnemen aan de schoolregeling een deelnameverklaring in bij de bevoegde entiteit.<br>
 <br>
-In deze deelnameverklaring geven de onderwijsinstellingen het aantal leerlingen door dat ingeschreven is voor het schooljaar in kwestie op de eerste officiële schooldag van dat schooljaar.<br>
+In deze deelnameverklaring geven de onderwijsinstellingen het aantal leerlingen door dat ingeschreven is voor het schooljaar in kwestie aan het begin van het schooljaar.<br>
 <br>
 In de deelnameverklaring verklaart de onderwijsinstelling dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform artikel 5.<br>
 <br>
 Bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, 2° en in afwijking van het derde lid, verklaart de onderwijsinstelling in de deelnameverklaring dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform de door de ministers bepaalde modaliteiten.<br>
 <br>
-De ministers kunnen de uiterste indieningsdatum en de wijze waarop de deelnameverklaring ingediend wordt, bepalen.
+De ministers kunnen de uiterste indieningsdatum en de wijze waarop de deelnameverklaring ingediend wordt, bepalen.<br>
+<br>
+De aanvragen tot deelname aan de schoolregeling worden behandeld volgens de datum van ontvangst en de beschikbare budgetten.
 
 ### ART 8.
 
-Als het beschikbare budget voor een schooljaar niet toereikend is om steun als vermeld in artikel 5, te verlenen aan alle onderwijsinstellingen die een deelnameverklaring als vermeld in artikel 7, ingediend hebben, voert de bevoegde entiteit een selectie uit op basis van volgende criteria:<br>
-1° indicatorscholen krijgen altijd voorrang op andere onderwijsinstellingen;<br>
-2° zonder afbreuk te doen aan het criterium, vermeld in punt 1°, krijgen onderwijsinstellingen waaraan in het voorgaande schooljaar geen steun als vermeld in artikel 5, verleend werd, voorrang op onderwijsinstellingen waaraan in het voorgaande schooljaar wel steun als vermeld in artikel 5 verleend is;<br>
-3° zonder afbreuk te doen aan de criteria, vermeld in punt 1° en 2°, worden de onderwijsinstellingen bij loting geselecteerd tot het beschikbare budget is opgebruikt.
+...
 
 ### ART 9.
 
 Voor de uitbetaling van de steun, vermeld in artikel 5, dienen de onderwijsinstellingen, voor de eerste en de tweede periode, vermeld in artikel 5, tweede lid, een afzonderlijke steunaanvraag in bij de bevoegde entiteit.<br>
 <br>
-De onderwijsinstellingen geven in de steunaanvraag voor de tweede periode, vermeld in artikel 5, tweede lid, 2° het aantal leerlingen door dat op de eerste schooldag van januari van het schooljaar in kwestie ingeschreven was en dat effectief heeft deelgenomen aan de schoolregeling.<br>
+De onderwijsinstellingen geven in de steunaanvraag voor de tweede periode, vermeld in artikel 5, tweede lid, 2° het aantal leerlingen door dat&nbsp;aan het begin van het tweede trimester van het schooljaar in kwestie ingeschreven was en dat effectief heeft deelgenomen aan de schoolregeling.<br>
 <br>
 De ministers kunnen de uiterste indieningsdatum, de wijze waarop de steunaanvraag ingediend wordt en de bijkomende gegevens die in de steunaanvraag opgenomen worden, bepalen.
+
+### ART 9/1.
+
+De kosten voor de groenten en fruit en melk die door de onderwijsinstelling worden verstrekt aan haar leerlingen en waarvoor ze al een financiële bijdrage of steun ontvangt, komen niet in aanmerking voor de steun, vermeld in artikel 5, eerste lid.
 
 ## HOOFDSTUK 4 Andere steunaanvragers
 
@@ -163,11 +167,37 @@ De ministers kunnen de uiterste indieningstermijn, de wijze waarop de steunaanvr
 
 ## [HOOFDSTUK 4/1. Sancties (ing. BVR 8 september 2023, art. 9, I: 1 september 2023)]
 
+### ART 12/1.
+
+§1. In de volgende gevallen heeft de onderwijsinstelling geen recht op de steun, vermeld in artikel 5, eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden, vermeld in 4, 5, 7, 9 en 9/1, zijn niet nageleefd;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de onderwijsinstelling beschikt niet over de bewijsstukken, vermeld in artikel 6, zesde lid, die correct en volledig zijn, of bezorgt de gevraagde bewijsstukken niet aan de bevoegde entiteit;<br>
+3°&nbsp;&nbsp; &nbsp;de controle wordt verhinderd;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de onderwijsinstelling heeft valse informatie verstrekt of kunstmatig voorwaarden gecreëerd om steun te ontvangen.<br>
+<br>
+§2. Als de onderwijsinstelling geen recht heeft op de steun conform paragraaf 1, en de steun is al uitbetaald, vordert de bevoegde entiteit de steun die al is uitbetaald, volledig of gedeeltelijk terug en kan ze in voorkomend geval conform artikel 8 van de gedelegeerde verordening, een administratieve sanctie opleggen die gelijk is aan het verschil tussen het initieel aangevraagde bedrag en het bedrag waarop de onderwijsinstelling recht heeft.<br>
+<br>
+De bedragen die conform het eerste lid worden ingevorderd, worden binnen maximaal dertig dagen betaald. De voormelde betalingstermijn wordt opgenomen in de invorderingsbrief.<br>
+<br>
+De rente over de bedragen, vermeld in het eerste lid, wordt berekend voor de periode tussen de datum waarop de betalingstermijn in de invorderingsbrief, vermeld in het tweede lid, verstrijkt, en de datum van de terugbetaling.<br>
+<br>
+Om de rente, vermeld in het derde lid, te berekenen, wordt de wettelijke rentevoet, vermeld in artikel 2 van de wet van 5 mei 1865 betreffende de lening tegen interest, toegepast.<br>
+<br>
+§3. Als een van de gevallen, vermeld in de paragraaf 1, zich voordoet, kan de bevoegde entiteit de erkenning, vermeld in artikel 4, intrekken.&nbsp;
+
+### ART 12/2.
+
+De bevoegde entiteit kan, met behoud van de toepassing van artikel 12/1, administratieve sancties opleggen conform artikel 56 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, als ze vaststelt dat een of meer van de verplichtingen, vermeld in dit besluit, niet of niet volledig worden nageleefd.
+
 ## HOOFDSTUK 5 Slotbepalingen
 
 ### ART 13.
 
-De onderwijsinstellingen en de andere steunaanvragers bewaren alle bewijsstukken in het kader van de schoolregeling ten minste vijf jaar. Tijdens deze periode houden ze de stukken ter beschikking van de personeelsleden die met het toezicht op de schoolregeling belast zijn.
+De onderwijsinstellingen en de andere steunaanvragers bewaren alle bewijsstukken in het kader van de schoolregeling ten minste tien jaar. Tijdens deze periode houden ze de stukken ter beschikking van de personeelsleden die met het toezicht op de schoolregeling belast zijn.<br>
+<br>
+De bevoegde entiteit kan op elk ogenblik de bewijsstukken, vermeld in het eerste lid, opvragen. In dat geval bezorgt de onderwijsinstelling de gevraagde bewijsstukken onmiddellijk aan de bevoegde entiteit.&nbsp;<br>
+<br>
+Als de onderwijsinstelling de gevraagde bewijsstukken niet bezorgt, of als de bewijsstukken onvolledig of foutief zijn, kan de bevoegde entiteit de steunaanvraag volledig of gedeeltelijk weigeren, of de erkenning intrekken.
 
 ### ART 14.
 
@@ -181,4 +211,4 @@ Dit besluit treedt in werking op 1 augustus 2017.
 
 ### ART 16.
 
-&nbsp;De Vlaamse minister, bevoegd voor het gezondheidsbeleid, en de Vlaamse minister, bevoegd voor de landbouw, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+&nbsp;De Vlaamse minister, bevoegd voor het gezondheidsbeleid, de Vlaamse minister, bevoegd voor onderwijs en vorming, en de Vlaamse minister, bevoegd voor de landbouw, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
