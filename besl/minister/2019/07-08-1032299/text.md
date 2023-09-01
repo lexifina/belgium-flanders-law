@@ -103,10 +103,7 @@ Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c), d) en e), va
 
 ### ART 6.
 
-De registratie van de gegevens, vermeld in artikel 29, § 2, 1°, van het besluit van 21 december 2018, gebeurt binnen een maand na de einddatum van de opleiding of na het examen als dat na de einddatum plaatsvindt.<br>
-<br>
-In afwijking van het eerste lid worden de gegevens voor de ondernemerschapstrajecten, vermeld in artikel 109, § 1, 1°, e), van de wet van 22 januari 1985, geregistreerd uiterlijk op 15 november van het schooljaar dat volgt op het schooljaar waarin de opleiding plaatsvindt.<br>
-&nbsp;
+De registratie van de gegevens, vermeld in artikel 29, § 2, 1°, van het besluit van 21 december 2018, gebeurt binnen drie maanden na de einddatum van de opleiding of na het examen als dat na de einddatum plaatsvindt.
 
 ### ART 7.
 
@@ -123,7 +120,7 @@ De registratie van de gegevens, vermeld in artikel 29, § 2, 3°, van het beslui
 
 ### ART 9.
 
-Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c), d) en e), van de wet van 22 januari 1985, gebeurt de registratie van de gegevens via elektronische gegevensuitwisseling. De gegevens worden maandelijks door het departement opgehaald.
+Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), b), c) en d), van de wet van 22 januari 1985, gebeurt de registratie van de gegevens via elektronische gegevensuitwisseling. De gegevens worden maandelijks door het departement opgehaald.
 
 ### ART 10.
 
