@@ -2,16 +2,16 @@
   "codex_id": 1037354,
   "title": "Decreet van 2022-07-15 over de instroom en het optimaliseren van de studie-efficiëntie in het hoger onderwijs en overige organisatorische aspecten van het hoger onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037354/VolledigDocument?datum=2023-03-01",
-  "source_sha256": "54ed8642214280c12d29339d544116812ff464d979b2055f68e68482ef258caf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037354/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "8f62ec8cf665070cd9511deab656d233339f11d541a3d429d4501694f54ed688",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037354&param=informatie",
-  "as_of": "2023-03-01",
+  "as_of": "2023-09-01",
   "made": "2022-07-15",
   "gazette": "2022-08-24",
   "numac": 2022041773,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2023-03-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

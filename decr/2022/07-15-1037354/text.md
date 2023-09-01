@@ -2,7 +2,17 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Wijziging van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
+
+### ART 2.
+
+In artikel 26 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, vervangen bij het decreet van 4 juli 2008, wordt paragraaf 2 vervangen door wat volgt:<br>
+" § 2. Het jokerkrediet omvat bij de eerste aanvraag voor een studietoelage zestig studiepunten. Het jokerkrediet wordt aangevuld met het aantal studiepunten dat aan een student die met een diplomacontract was ingeschreven werd teruggegeven conform de bepalingen, vermeld in artikel II.204, § 3, van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+Het jokerkrediet geldt voor de hele studieduur.".
 
 ## HOOFDSTUK 3. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
@@ -22,9 +32,59 @@ In artikel I.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewi
 6° aan punt 76° worden de volgende zinnen toegevoegd:<br>
 "Het programma beoogt de ontbrekende competenties van het diploma dat op rechtstreekse wijze toelating verleent bij te brengen. Indien meerdere diploma's rechtstreekse toelating verlenen, gaat het om de gemeenschappelijke ontbrekende competenties;".
 
+### ART 4.
+
+In artikel II.66/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 1 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 4° worden de woorden "het studiegebied Geneeskunde" vervangen door de woorden "de studiegebieden Geneeskunde en Tandheelkunde";<br>
+2° in punt 6° worden de woorden "het studiegebied Geneeskunde" vervangen door de woorden "de studiegebieden Geneeskunde en Tandheelkunde".
+
 ### ART 5.
 
 In artikel II.92, § 2, van dezelfde codex, ingevoegd bij het decreet van 25 april 2014 en vervangen bij het decreet van 4 mei 2018, wordt het woord "Diepenbeek" vervangen door het woord "Genk".
+
+### ART 6.
+
+In artikel II.153/5 van dezelfde codex, ingevoegd bij het decreet van 18 mei 2018, wordt de zinsnede "bij succesvolle voltooiing ervan leiden tot een gezamenlijk diploma als vermeld in artikel II.172, § 3," vervangen door de zinsnede "samen een geïntegreerd curriculum aanbieden dat bij succesvolle voltooiing ervan leidt tot multi- of gezamenlijke diplomering,".
+
+### ART 7.
+
+Aan artikel II.160 van dezelfde codex, gewijzigd bij de decreten van 19 juni 2015 en 18 mei 2018, wordt een paragraaf 9 toegevoegd, die luidt als volgt:<br>
+" § 9. De studieomvang van de volgende masteropleidingen wordt uitgebreid tot 180 studiepunten:<br>
+1° de masteropleiding in de klinische biologie;<br>
+2° de masteropleiding in de specialistische tandheelkunde;<br>
+3° de masteropleiding in de specialistische mondzorg.<br>
+De opleiding waarvan de studieomvang wordt uitgebreid wordt geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de nieuw bepaalde studieomvang voor de eerste keer geheel doorlopen werd.".
+
+### ART 8.
+
+In artikel II.164 van dezelfde codex, gewijzigd bij de decreten van 17 juni 2016 en 4 mei 2018, wordt een paragraaf 1/1 ingevoegd, die luidt als volgt:<br>
+" § 1/1. Studenten die ingeschreven waren in een masteropleiding klinische biologie, specialistische tandheelkunde of specialistische mondzorg in het academiejaar voorafgaand aan het academiejaar waarin de uitbreiding van de studieomvang van deze masteropleiding, vermeld in artikel II.160, § 9, wordt ingevoerd, kunnen deze masteropleiding voltooien binnen de twee daaropvolgende academiejaren of kunnen inschrijven voor de in studieomvang uitgebreide masteropleiding met behoud van de verworven creditbewijzen.".
+
+### ART 9.
+
+In artikel II.170/9, § 1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 18 mei 2018, wordt een punt 2° /1 ingevoegd, dat luidt als volgt:<br>
+"2° /1 voor de opleidingen, vermeld in artikel II.160, § 9, waarvan de studieomvang is uitgebreid;".
+
+### ART 10.
+
+In artikel II.170/12, vierde lid, van dezelfde codex, ingevoegd bij het decreet van 18 mei 2018, wordt de zinsnede "bij succesvolle voltooiing ervan leiden tot een gezamenlijk diploma als vermeld in artikel II.172, § 3," vervangen door de zinsnede "samen een geïntegreerd curriculum aanbieden dat bij succesvolle voltooiing ervan leidt tot multi- of gezamenlijke diplomering,".
+
+### ART 11.
+
+In artikel II.176, tweede lid, van dezelfde codex, gewijzigd bij het decreet van 4 mei 2018, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 1° /1 ingevoegd, dat luidt als volgt:<br>
+"1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 3, uitgereikt vanaf het schooljaar 2024-2025;";<br>
+2° aan punt 2° wordt een zinsnede toegevoegd, die luidt als volgt: ", uitgereikt tot en met het schooljaar 2024-2025;";<br>
+3° er wordt een punt 2° /1 ingevoegd, dat luidt als volgt:<br>
+"2° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;".
+
+### ART 12.
+
+In artikel II.178, eerste lid, van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° aan punt 1° wordt een zinsnede toegevoegd, die luidt als volgt: ", uitgereikt tot en met het schooljaar 2024-2025;";<br>
+2° er wordt een punt 1° /1 ingevoegd, dat luidt als volgt:<br>
+"1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;";<br>
+3° er wordt een punt 4° /1 ingevoegd, dat luidt als volgt: "4° /1 een diploma van bachelor of master;".
 
 ### ART 13.
 
@@ -145,9 +205,134 @@ De instellingsoverschrijdende reglementen worden jaarlijks opgesteld en gevalide
 <br>
 § 6. De deelname aan een starttoets is kosteloos. In voorkomend geval genereert ook de opgelegde verplichte remediëring voor de student geen extra kosten, met uitzondering van verschuldigd studiegeld en kosten voor het gebruikelijke cursusmateriaal.".
 
+### ART 15.
+
+In artikel II.190, § 2, eerste lid, van dezelfde codex, gewijzigd bij de decreten van 21 maart 2014 en 8 december 2017, worden de woorden "kan in het studiegebied Geneeskunde" vervangen door de woorden "kan in de studiegebieden Geneeskunde en Tandheelkunde".
+
+### ART 16.
+
+In artikel II.200 van dezelfde codex, gewijzigd bij de decreten van 21 maart 2014 en 1 maart 2019, worden een paragraaf 4, een paragraaf 5, een paragraaf 6 en een paragraaf 7 toegevoegd, die luiden als volgt:<br>
+<br>
+" § 4. Een student die zich voor de eerste keer inschrijft in een bepaalde bacheloropleiding in een bepaalde instelling schrijft zich in voor het modeltraject met een studieomvang van 54 tot 66 studiepunten per academiejaar.<br>
+<br>
+Deze verplichting geldt niet voor:<br>
+1° een student die op grond van zijn dossier een geïndividualiseerd traject als vermeld in paragraaf 2 verkreeg;<br>
+2° een student met een bijzonder statuut. De instelling kan voor de groep van studenten met dat bijzonder statuut een modeltraject aanbieden met een afwijkende studieomvang;<br>
+3° een student die reeds een bachelor- of masterdiploma heeft behaald of een diploma dat daarmee gelijkwaardig wordt erkend.<br>
+<br>
+§ 5. Voor bachelor- en masteropleidingen beperkt het instellingsbestuur volgtijdelijkheid tot het moeten gevolgd hebben van een opleidingsonderdeel of opleiding vooraleer een student een ander opleidingsonderdeel kan volgen en hierover een examen kan afleggen. In geval van risico of veiligheidsproblemen kan het instellingsbestuur daarenboven ook vastleggen dat een student moet geslaagd zijn voor een opleidingsonderdeel of een opleiding vooraleer een student een ander opleidingsonderdeel kan volgen en hierover een examen kan afleggen.<br>
+<br>
+§ 6. Onverminderd de regels rond het leerkrediet heeft een student aan wie in het kader van een bepaalde opleiding een bindende voorwaarde als vermeld in artikel II.246, § 1, derde lid, § 3, tweede lid, en § 4, tweede en derde lid, wordt opgelegd, het recht om binnen het academiejaar waarop de bindende voorwaarde betrekking heeft, minimaal 45 studiepunten in die opleiding op te nemen, tenzij volgtijdelijkheid als vermeld in paragraaf 5 dat niet toelaat.<br>
+<br>
+Een student aan wie in het kader van een bepaalde opleiding geen bindende voorwaarde als vermeld in artikel II.246, § 1, derde lid, § 3, tweede lid, en § 4, tweede en derde lid, wordt opgelegd en die in een vorig academiejaar niet voor alle opgenomen opleidingsonderdelen een creditbewijs of een deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, heeft het recht om jaarlijks 72 studiepunten in die opleiding op te nemen, tenzij volgtijdelijkheid als vermeld in paragraaf 5 dat niet toelaat.<br>
+<br>
+§ 7. Een student die niet voor alle opgenomen opleidingsonderdelen een creditbewijs of deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, schrijft zich bij een volgende inschrijving in die opleiding ten minste opnieuw in voor alle opleidingsonderdelen waarvoor hij geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet. Indien één van deze opleidingsonderdelen een keuzeopleidingsonderdeel is, kan de student opteren voor een vervangend keuzeopleidingsonderdeel binnen de geldende afspraken van de betreffende instelling.".
+
+### ART 17.
+
+In artikel II.201 van dezelfde codex, gewijzigd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 9°, wordt de zinsnede ", § 1" opgeheven;<br>
+2° in paragraaf 2, 9°, wordt de zinsnede ", § 1" opgeheven.
+
+### ART 18.
+
+In artikel II.204 van dezelfde codex, gewijzigd bij het decreet van 21 maart 2014, wordt paragraaf 3 vervangen door wat volgt:<br>
+<br>
+" § 3. Een student die zich in een overmachtssituatie bevond waardoor hij niet kon deelnemen aan alle of een gedeelte van de examens voor de opleidingsonderdelen waarvoor hij in een academiejaar studiepunten opgenomen heeft, kan een verzoek indienen om de opgenomen studiepunten waarover de student geen examen heeft kunnen afleggen, terug toe te voegen aan zijn leerkrediet.<br>
+<br>
+De student dient zijn verzoek in bij de Raad voor betwistingen inzake studievoortgangsbeslissingen. Het verzoek wordt ingediend uiterlijk binnen een termijn van drie jaar die ingaat op 1 september van het academiejaar waarop het verzoek betrekking heeft.".
+
+### ART 19.
+
+In artikel II.221, § 1, van dezelfde codex, gewijzigd bij de decreten van 21 maart 2014 en 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° aan punt 3°, c), wordt de zinsnede ", en in voorkomend geval de risico's of veiligheidsproblemen op basis waarvan die volgtijdelijkheid wordt opgelegd" toegevoegd;<br>
+2° punt 20° wordt vervangen door wat volgt:<br>
+"20° in voorkomend geval: de bijkomende inschrijvingsvoorwaarde van het afleggen van een starttoets en de verplichte remediëring, vermeld in artikel II.188/1, die wordt opgelegd met verwijzing naar het geldende instellingsoverschrijdend reglement;";<br>
+3° er worden een punt 21°, een punt 22°, een punt 23°, een punt 24° en een punt 25° toegevoegd, die luiden als volgt:<br>
+"21° de maatregelen van studievoortgangsbewaking die kunnen worden opgelegd conform artikel II.246;<br>
+22° de wijze waarop omgegaan wordt met overmacht en bijzondere individuele omstandigheden in het kader van de maatregelen van studievoortgangsbewaking, vermeld in artikel II.246;<br>
+23° de grens vanaf wanneer een inschrijving kan geweigerd worden in eenzelfde initiële bacheloropleiding, vermeld in artikel II.246, § 3, vierde lid;<br>
+24° de grens vanaf wanneer een instelling studieadvies geeft, vermeld in artikel II.246, § 10;<br>
+25° de bijzondere statuten toegekend aan een groep van studenten en de voorwaarden en modaliteiten voor de toekenning hiervan.".
+
+### ART 20.
+
+In artikel II.225 van dezelfde codex, gewijzigd bij het decreet van 21 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 3 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Het instellingsbestuur kan evenwel na verloop van vijf jaar, als het instellingsbestuur substantiële verschillen kan aantonen tussen de competenties die de student volgens het creditbewijs heeft verworven en de huidige beoogde competenties van een opleidingsonderdeel, de student opleggen om die substantiële verschillen te overbruggen door een of meer opleidingsonderdelen volledig of gedeeltelijk op te nemen. De voormelde termijn van vijf jaar wordt berekend vanaf de eerste dag van de maand oktober die volgt op het academiejaar waarin het creditbewijs is verworven.";<br>
+2° in paragraaf 4 wordt de zin "De hogeronderwijsinstellingen garanderen dat een student bij aanpassingen aan het curriculum zijn reeds verworven studiepunten kan valideren binnen het vernieuwde studieprogramma." vervangen door de zin "Met behoud van de toepassing van paragraaf 3, tweede lid, garanderen de hogeronderwijsinstellingen dat een student bij aanpassingen aan het curriculum zijn reeds verworven studiepunten kan valideren binnen het vernieuwde studieprogramma.".
+
+### ART 21.
+
+In artikel II.229 van dezelfde codex, vervangen bij het decreet van 21 maart 2014 en gewijzigd bij het decreet van 16 juni 2017, wordt het eerste lid vervangen door wat volgt:<br>
+"De examencommissie kan een student op gemotiveerde wijze voor het geheel van de opleiding geslaagd verklaren. De examencommissie toetst haar eindoordeel aan de doelstellingen van de opleiding en de eventuele verbijzondering die de student hiervan maakte door zijn opname van specifieke verbredings- of verdiepingskeuzes. De toepassing van dit artikel verwacht ten minste dat de student aangetoond heeft dat er sprake is van bijzondere persoonlijke of familiale omstandigheden en dat voornoemde doelstellingen bereikt werden.".
+
+### ART 22.
+
+Artikel II.246 van dezelfde codex, gewijzigd bij de decreten van 21 maart 2014, 19 juni 2015 en 3 juli 2020, wordt vervangen door wat volgt:<br>
+<br>
+"Art. II.246. § 1. Voor een student aan wie verplichte remediëring als vermeld in artikel II.188/1, § 3, tweede en derde lid, werd opgelegd, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede, het derde en het vierde lid.<br>
+<br>
+Als een student niet heeft deelgenomen aan de hem opgelegde verplichte remediëring, kan de instelling hiermee rekening houden bij zijn deliberatie.<br>
+<br>
+Als een student niet heeft deelgenomen aan de hem opgelegde verplichte remediëring, kan de instelling bindende voorwaarden opleggen.<br>
+<br>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van deze student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 2. Voor een student in het hoger beroepsonderwijs gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede en het derde lid.<br>
+<br>
+Als een student geen 60% van de ingeschreven studiepunten van een opleiding van het hoger beroepsonderwijs verworven heeft een vorig academiejaar, kan bij een nieuwe inschrijving in een opleiding van het hoger beroepsonderwijs aan eenzelfde of andere instelling de instelling een bindende voorwaarde opleggen.<br>
+<br>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van de student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 3. Voor een student die bij elke eerste inschrijving in een bepaalde initiële bacheloropleiding geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet voor alle opgenomen opleidingsonderdelen van die inschrijving, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede tot en met het vierde lid.<br>
+<br>
+Als een student na zijn eerste inschrijving geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet voor alle opgenomen opleidingsonderdelen moet hij deze bij zijn tweede inschrijving in een volgend academiejaar in dezelfde opleiding verwerven. Deze bepaling blijft gelden als een student een keuzeopleidingsonderdeel bij zijn tweede inschrijving heeft vervangen door een ander keuzeopleidingsonderdeel. Deze bepaling geldt niet wanneer een student van afstudeerrichting verandert.<br>
+<br>
+Als een student niet voldoet aan deze bindende voorwaarde, kan hij zich niet opnieuw inschrijven in de desbetreffende opleiding.<br>
+<br>
+Als een student na zijn eerste inschrijving een studierendement behaalt waaruit blijkt dat een volgende inschrijving in deze opleiding geen positief resultaat zal opleveren, kan de instelling de inschrijving in dezelfde initiële bacheloropleiding weigeren. De instelling bepaalt autonoom de grens vanaf wanneer een inschrijving kan geweigerd worden en legt dit vast in het onderwijsreglement.<br>
+<br>
+§ 4. Voor een student die niet in een opleiding van het hoger beroepsonderwijs is ingeschreven, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede tot en met het vierde lid.<br>
+<br>
+Als een student geen 60% van de ingeschreven studiepunten verworven heeft in een vorig academiejaar, kan bij een nieuwe inschrijving aan eenzelfde of andere instelling de instelling een bindende voorwaarde opleggen.<br>
+<br>
+Als een student na vier examenkansen geen creditbewijs of deliberatiecijfer verworven heeft of geen tolerantie ingezet heeft voor een opleidingsonderdeel waarvoor per academiejaar in twee examenkansen is voorzien, of na twee examenkansen voor een opleidingsonderdeel waarvoor per academiejaar in één examenkans is voorzien, kan een volgende inschrijving geweigerd worden of kan bij een nieuwe inschrijving in dezelfde opleiding aan dezelfde instelling de instelling een bindende voorwaarde opleggen.<br>
+<br>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van deze student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 5. Als uit de gegevens van het individueel dossier van een student blijkt dat een volgende inschrijving in het hoger onderwijs geen positief resultaat zal opleveren kan een instelling de inschrijving van de student op gemotiveerde wijze weigeren.<br>
+<br>
+§ 6. De bindende voorwaarden die een instelling kan opleggen overeenkomstig dit artikel, worden autonoom bepaald door de instelling. Een instelling kan afwijken van het opleggen van een bindende voorwaarde of van het weigeren van een inschrijving van een student overeenkomstig dit artikel indien een student overmacht of bijzondere individuele omstandigheden kan aantonen.<br>
+<br>
+§ 7. De maatregelen van studievoortgangsbewaking worden opgenomen in het onderwijsreglement, evenals de wijze waarop overmacht en bijzondere individuele omstandigheden kunnen worden ingeroepen.<br>
+<br>
+§ 8. De student van wie de inschrijving in een bepaalde opleiding geweigerd is overeenkomstig dit artikel, kan zich opnieuw inschrijven in dezelfde opleiding als hij na de weigering tot inschrijving een diploma van het hoger onderwijs heeft verworven of na een wachttijd van zes jaar.<br>
+<br>
+§ 9. De instelling kan in bijzondere gevallen en op objectieve gronden de stage of een ander praktisch opleidingsonderdeel vroegtijdig beëindigen, als een student door zijn gedragingen blijk heeft gegeven van ongeschiktheid voor de uitoefening van een beroep waartoe de opleiding die hij volgt, hem opleidt.<br>
+<br>
+De student van wie de stage of het praktische opleidingsonderdeel met toepassing van het eerste lid is beëindigd, heeft geen recht op een tweede examenkans als vermeld in artikel II.223.<br>
+<br>
+De beslissing om een stage of praktisch opleidingsonderdeel vroegtijdig te beëindigen, wordt omstandig gemotiveerd.<br>
+<br>
+§ 10. De instelling geeft een studieadvies aan iedere student die na zijn eerste examenperiode een beperkt aantal studiepunten verworven heeft. De instelling bepaalt autonoom de inhoud van dat advies, de grens vanaf wanneer en de wijze waarop dat advies wordt verleend.<br>
+<br>
+§ 11. Iedere student heeft het recht om een gesprek aan te gaan met een studie-of trajectbegeleider.<br>
+<br>
+§ 12. De bepalingen in dit artikel worden vijf jaar na de inwerkingtreding ervan geëvalueerd. De uitkomsten van de evaluatie worden samengebracht in een openbaar verslag.".
+
+### ART 23.
+
+In artikel II.285, tweede lid, van dezelfde codex, gewijzigd bij het decreet van 21 maart 2014, worden de woorden "en de instelling voor hen geen aangepaste examenregeling heeft geboden" opgeheven.
+
 ### ART 24.
 
 In artikel III.9, § 6, van dezelfde codex, wordt in de tabel het jaartal "2023" vervangen door de zinsnede "vanaf 2023".
+
+### ART 25.
+
+Aan artikel III.11 van dezelfde codex, gewijzigd bij het decreet van 4 mei 2018, wordt een paragraaf 9 toegevoegd, die luidt als volgt:<br>
+" § 9. Vanaf het begrotingsjaar 2026 wordt het aandeel in het variabele onderwijsdeel VOWun dat de opleidingen bachelor in de diergeneeskunde en master in de diergeneeskunde, aangeboden door de Universiteit Gent en de Universiteit Antwerpen, genereren, vastgelegd op een bepaald percentage, namelijk het procentuele aandeel dat die opleidingen in VOWun van het begrotingsjaar 2022 genereren. Dat percentage wordt verdeeld onder de Universiteit Antwerpen en de Universiteit Gent op basis van het aandeel van die universiteiten in het aantal uitgereikte diploma's in de bacheloropleiding en masteropleiding diergeneeskunde in de periode 20132014 tot en met 2017-2018.".
 
 ### ART 26.
 
@@ -162,3 +347,12 @@ In artikel III.14, § 4, derde lid, 3°, van dezelfde codex, toegevoegd bij het 
 In artikel III.22, § 3, van dezelfde codex, wordt in de tabel de zinsnede "2020 en 2021" vervangen door de zinsnede "vanaf 2020".
 
 ## HOOFDSTUK 4. Inwerkingtreding
+
+### ART 29.
+
+Dit decreet treedt in werking vanaf het academiejaar 2023-2024, met uitzondering van:<br>
+1° artikel 5, dat in werking treedt vanaf het academiejaar 2022-2023;<br>
+2° artikel 24, artikel 26 en artikel 27, die in werking treden op 1 januari 2023;<br>
+3° artikel 3, 2°, artikel 13 en artikel 14, die in werking treden op 1 maart 2023.<br>
+<br>
+Artikel 28 heeft uitwerking met ingang van 1 januari 2022.
