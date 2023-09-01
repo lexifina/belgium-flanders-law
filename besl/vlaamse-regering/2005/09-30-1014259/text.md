@@ -4,13 +4,14 @@
 
 § 1. De in artikel 4 bedoelde niet-verworven salarisschaal wordt toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn, in een betrekking en waarvoor het departement Onderwijs zijn/haar salaris uitbetaalt:<br>
 1° in een school of instelling of een afdeling voor buitengewoon onderwijs, met inbegrip van de opleidingsvorm 4;<br>
-2° in een door de Vlaamse Gemeenschap georganiseerd internaat gehecht aan een instelling voor buitengewoon onderwijs, tehuis voor buitengewoon onderwijs, semi-internaat en internaat van het Gemeenschapsonderwijs dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen.<br>
+2° in een semi-internaat;<br>
+3° in een leersteuncentrum als vermeld in artikel 20, §1, van het decreet van 5 mei 2023 over leersteun.<br>
 <br>
 § 2. De niet-verworven salarisschaal wordt eveneens toegekend aan de in paragraaf 1 vermelde personeelsleden die uiterlijk op 31 augustus 2018:<br>
 1° aangewezen geweest zijn om deel te nemen aan het experimenteel project betreffende de ondersteuning van kinderen met een matige of ernstige verstandelijke handicap in het gewoon lager onderwijs;<br>
 2° tewerkgesteld geweest zijn in het gewoon onderwijs op basis van lestijden, lesuren, uren of uren-leraar in het kader van het geïntegreerd onderwijs.<br>
 <br>
-§ 3. De niet-verworven salarisschaal wordt eveneens toegekend aan de zorgcoördinator in het gewoon en buitengewoon onderwijs.<br>
+§ 3. De niet-verworven salarisschaal wordt eveneens toegekend aan de zorgcoördinator en de beleidsondersteuner in het gewoon en buitengewoon onderwijs.<br>
 <br>
 § 4. Vastbenoemde personeelsleden die krachtens de bepalingen van dit artikel recht hebben op de in artikel 4 bedoelde niet-verworven salarisschaal, behouden ten persoonlijke titel deze niet-verworven salarisschaal als zij&nbsp;aangesteld worden in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs.<br>
 <br>
@@ -42,7 +43,8 @@ Om recht te hebben op deze niet-verworven salarisschaal moeten de in artikel 1, 
 5° het psychologisch personeel;<br>
 6° het medisch personeel;<br>
 7° het orthopedagogisch personeel;<br>
-8° het ambt van opvoeder in het ondersteunend personeel.
+8° het ambt van opvoeder in het ondersteunend personeel;<br>
+9° het leerondersteunend personeel.
 
 ### ART. 3.
 
