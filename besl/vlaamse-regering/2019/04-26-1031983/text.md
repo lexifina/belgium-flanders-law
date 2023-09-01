@@ -70,7 +70,7 @@ De oproep, vermeld in het eerste lid, omvat minstens de volgende elementen:<br>
 
 ### ART 5.
 
-§ 1. In duale structuuronderdelen van opleidingsvorm 4, behalve bij Se-n-Se, kunnen de volgende studiebewijzen uitgereikt worden:<br>
+§ 1. In duale structuuronderdelen van opleidingsvorm 4, behalve bij 7de leerjaren, kunnen de volgende studiebewijzen uitgereikt worden:<br>
 1° een diploma van secundair onderwijs;<br>
 2° een studiegetuigschrift van het tweede leerjaar van de derde graad;<br>
 3° een studiegetuigschrift van het derde leerjaar van de derde graad;<br>
@@ -78,7 +78,7 @@ De oproep, vermeld in het eerste lid, omvat minstens de volgende elementen:<br>
 5° een bewijs van beroepskwalificatie;<br>
 6° een bewijs van deelkwalificatie;.<br>
 <br>
-In voorkomend geval kunnen in duale structuuronderdelen van opleidingsvorm 4, Se-n-Se de studiebewijzen, vermeld in het eerste lid, 5° en 6°, uitgereikt worden.<br>
+In voorkomend geval kunnen in duale structuuronderdelen van opleidingsvorm 4, 7de leerjaren de studiebewijzen, vermeld in het eerste lid, 5° en 6°, uitgereikt worden.<br>
 <br>
 Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
 <br>
