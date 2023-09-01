@@ -25,14 +25,14 @@ Besluit :
 De hierna genoemde personeelsleden van de afdeling Handhaving van het Departement Omgeving verkrijgen met ingang van 12 december 2018 de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings:<br>
 1° De Roep Tom;<br>
 2° Dejonghe Lobke;<br>
-3° Dhondt Marion;<br>
+3° ...;<br>
 4° Giebens Joris;<br>
 5° Janssens Thierry;<br>
 6° Lathouwers Lennart;<br>
 7° Mellaerts Jan;<br>
 8° ...;<br>
 9° Ruysseveldt Geert;<br>
-10° Van Boeckel Krista;<br>
+10° ...;<br>
 11° Vercauteren Mart;<br>
 12° Verheyden Elke;<br>
 13° Uten Yorne;<br>
