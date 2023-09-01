@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038852,
+  "title": "Besluit van de Vlaamse Regering van 2023-08-31 over de transitie van sommige instellingen van Onderwijs naar Welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038852/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "44ae2d215f98c73937d88c7e5097a797c4050d8f1c5c813ec21c473ab91c5523",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038852&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-08-31",
+  "gazette": "2023-10-19",
+  "numac": 2023046107,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
