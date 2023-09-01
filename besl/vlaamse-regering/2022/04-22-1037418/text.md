@@ -46,330 +46,1280 @@ DE VLAAMSE REGERING BESLUIT:
 <br>
 De aanwending van de uren-leraar en lesuren samen school maken in ambten in de categorieën 1° tot en met 7° van het eerste lid, die worden ingericht op basis van punten, gebeurt op basis van criteria die bepaald worden via lokaal overleg. Deze omzetting moet alleszins steunen op een verhoudingsgewijze omzetting van het aantal uren-leraar of lesuren naar een opdracht van 36 uur.<br>
 <br>
-§ 2. Met toepassing van artikel 22/20, artikel 22/21, § 2 en artikel 314/9 van de Codex Secundair Onderwijs van 17 december 2010, en met toepassing van paragraaf 1, kunnen de uren-leraar of lesuren in wervingsambten van het ondersteunend personeel op de volgende wijze gebruikt worden:<br>
-1° in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs:<br>
-a) 11 uren-leraar = 31,5 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 22 uren-leraar = 63 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 11 uren-leraar = 41 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 22 uren-leraar = 82 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 10 uren-leraar = 60 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 20 uren-leraar = 120 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-2° in het buitengewoon secundair onderwijs:<br>
-a) 11 lesuren = 31,5 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 22 lesuren = 63 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 11 lesuren = 41 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 22 lesuren = 82 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 11 lesuren = 60 punten in geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 22 lesuren = 120 punten in geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel.<br>
-<br>
-De aanwending van de lesuren in wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel gebeurt op basis van de volgende omzettingstabellen:<br>
-1° voor arts, orthopedagoog en psycholoog:
-<table border="1">
+§2. Met toepassing van artikel 22/20 en 22/21, §2, van de Codex Secundair Onderwijs van 17 december 2010 kan een school in het voltijds gewoon secundair onderwijs en een centrum in het deeltijds beroepssecundair onderwijs uren-leraar op de volgende wijze omzetten voor de aanwending in wervingsambten van het ondersteunend personeel:<br>
+1° voor een betrekking met puntenwaarde 63:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
 		</tr>
 		<tr>
-			<td>2</td>
-			<td>3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
 		</tr>
 		<tr>
-			<td>3</td>
-			<td>4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
 		</tr>
 		<tr>
-			<td>4</td>
-			<td>6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
 		</tr>
 		<tr>
-			<td>5</td>
-			<td>7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
 		</tr>
 		<tr>
-			<td>6</td>
-			<td>9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">17</td>
 		</tr>
 		<tr>
-			<td>7</td>
-			<td>10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">20</td>
 		</tr>
 		<tr>
-			<td>8</td>
-			<td>12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
 		</tr>
 		<tr>
-			<td>9</td>
-			<td>13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
 		</tr>
 		<tr>
-			<td>10</td>
-			<td>15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
 		</tr>
 		<tr>
-			<td>11</td>
-			<td>16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31,5</td>
 		</tr>
 		<tr>
-			<td>12</td>
-			<td>18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
 		</tr>
 		<tr>
-			<td>13</td>
-			<td>19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
 		</tr>
 		<tr>
-			<td>14</td>
-			<td>21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">40</td>
 		</tr>
 		<tr>
-			<td>15</td>
-			<td>22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
 		</tr>
 		<tr>
-			<td>17</td>
-			<td>25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
 		</tr>
 		<tr>
-			<td>18</td>
-			<td>27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
 		</tr>
 		<tr>
-			<td>19</td>
-			<td>28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
 		</tr>
 		<tr>
-			<td>20</td>
-			<td>29</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
 		</tr>
 		<tr>
-			<td>21</td>
-			<td>31</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
 		</tr>
 		<tr>
-			<td>22</td>
-			<td>32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+	</tbody>
+</table>
+2° voor een betrekking met puntenwaarde 82:&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
 		</tr>
 		<tr>
-			<td>23</td>
-			<td>34</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
 		</tr>
 		<tr>
-			<td>24</td>
-			<td>35</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
 		</tr>
 		<tr>
-			<td>25</td>
-			<td>37</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
 		</tr>
 		<tr>
-			<td>26</td>
-			<td>38</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
 		</tr>
 		<tr>
-			<td>27</td>
-			<td>40</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">45</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">56</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">67</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+	</tbody>
+</table>
+3° voor een betrekking met puntenwaarde 85:&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">8</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">35</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">62</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">70</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">81</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">85</td>
+		</tr>
+	</tbody>
+</table>
+4° voor een betrekking met puntenwaarde 120:&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">24</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">42</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">72</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">84</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">90</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">96</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">102</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">108</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">114</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+	</tbody>
+</table>
+5° voor een betrekking met puntenwaarde 126:&nbsp;&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">13</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">69</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">76</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">88</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">95</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">101</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">107</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">113</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">126</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+Met toepassing van artikel 22/20, 22/21, §2, en artikel 314/9, §3, van de Codex Secundair Onderwijs van 17 december 2010 kan een school in het buitengewoon secundair onderwijs lesuren op de volgende wijze omzetten in punten voor de aanwending in wervingsambten van het ondersteunend personeel:<br>
+1° voor een betrekking met puntenwaarde 63:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">17</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">20</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31,5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">40</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+	</tbody>
+</table>
+2° voor een betrekking met puntenwaarde 82:&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">45</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">56</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">67</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+	</tbody>
+</table>
+3° voor een betrekking met puntenwaarde 85:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">8</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">35</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">54</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">62</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">70</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">81</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">85</td>
+		</tr>
+	</tbody>
+</table>
+4° voor een betrekking met puntenwaarde 120:&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">65</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">76</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">87</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">93</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">98</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">109</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+	</tbody>
+</table>
+5° voor een betrekking met puntenwaarde 126:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">17</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">23</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">40</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">69</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">74</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">80</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">86</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">92</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">97</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">103</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">109</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">126</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+Met toepassing van artikel 22/20, 22/21, §2, en artikel 314/9, §3, van de Codex Secundair Onderwijs van 17 december 2010 kan een school in het buitengewoon secundair onderwijs lesuren op de volgende wijze omzetten in uren voor de aanwending in wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel:<br>
+1° voor arts, orthopedagoog en psycholoog:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">uren</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">13</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">24</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">28</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">34</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">35</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">26</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">40</td>
 		</tr>
 	</tbody>
 </table>
 2° voor ergotherapeut, kinderverzorger, kinesitherapeut, maatschappelijk werker en verpleger:
 
-<table border="1">
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">uren</td>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1</td>
 		</tr>
 		<tr>
-			<td>2</td>
-			<td>3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
 		</tr>
 		<tr>
-			<td>3</td>
-			<td>4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
 		</tr>
 		<tr>
-			<td>4</td>
-			<td>6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
 		</tr>
 		<tr>
-			<td>5</td>
-			<td>7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
 		</tr>
 		<tr>
-			<td>6</td>
-			<td>9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
 		</tr>
 		<tr>
-			<td>7</td>
-			<td>10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
 		</tr>
 		<tr>
-			<td>8</td>
-			<td>12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
 		</tr>
 		<tr>
-			<td>9</td>
-			<td>13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">13</td>
 		</tr>
 		<tr>
-			<td>10</td>
-			<td>15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
 		</tr>
 		<tr>
-			<td>11</td>
-			<td>16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
 		</tr>
 		<tr>
-			<td>12</td>
-			<td>18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
 		</tr>
 		<tr>
-			<td>13</td>
-			<td>19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
 		</tr>
 		<tr>
-			<td>14</td>
-			<td>21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
 		</tr>
 		<tr>
-			<td>15</td>
-			<td>22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">24</td>
 		</tr>
 		<tr>
-			<td>17</td>
-			<td>25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
 		</tr>
 		<tr>
-			<td>18</td>
-			<td>27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
 		</tr>
 		<tr>
-			<td>19</td>
-			<td>28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">28</td>
 		</tr>
 		<tr>
-			<td>20</td>
-			<td>29</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
 		</tr>
 		<tr>
-			<td>21</td>
-			<td>31</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
 		</tr>
 		<tr>
-			<td>22</td>
-			<td>32</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
 		</tr>
 	</tbody>
 </table>
 3° voor logopedist:
 
-<table border="1">
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">uren</td>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1</td>
 		</tr>
 		<tr>
-			<td>2</td>
-			<td>3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
 		</tr>
 		<tr>
-			<td>3</td>
-			<td>4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
 		</tr>
 		<tr>
-			<td>4</td>
-			<td>6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">6</td>
 		</tr>
 		<tr>
-			<td>5</td>
-			<td>7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
 		</tr>
 		<tr>
-			<td>6</td>
-			<td>9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">9</td>
 		</tr>
 		<tr>
-			<td>7</td>
-			<td>10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
 		</tr>
 		<tr>
-			<td>8</td>
-			<td>12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">12</td>
 		</tr>
 		<tr>
-			<td>9</td>
-			<td>13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">13</td>
 		</tr>
 		<tr>
-			<td>10</td>
-			<td>15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
 		</tr>
 		<tr>
-			<td>11</td>
-			<td>16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
 		</tr>
 		<tr>
-			<td>12</td>
-			<td>18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
 		</tr>
 		<tr>
-			<td>13</td>
-			<td>19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
 		</tr>
 		<tr>
-			<td>14</td>
-			<td>21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
 		</tr>
 		<tr>
-			<td>15</td>
-			<td>22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>24</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">24</td>
 		</tr>
 		<tr>
-			<td>17</td>
-			<td>25</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
 		</tr>
 		<tr>
-			<td>18</td>
-			<td>27</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
 		</tr>
 		<tr>
-			<td>19</td>
-			<td>28</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">28</td>
 		</tr>
 		<tr>
-			<td>20</td>
-			<td>30</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ### ART 2.
 
@@ -377,13 +1327,516 @@ Met toepassing van artikel 22/25 van de Codex Secundair Onderwijs van 17 decembe
 
 ### ART 2/1.
 
-Conform artikel 308/3 van de Codex Secundair Onderwijs van 17 december 2010 kunnen lesuren als volgt in punten worden omgezet:<br>
-a) 12 uren-leraar of lesuren = 31,5 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 23 uren-leraar of lesuren = 63 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 12 uren-leraar of lesuren = 41 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 23 uren-leraar of lesuren = 82 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 12 uren-leraar of lesuren = 60 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 23 uren-leraar of lesuren = 120 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel.<br>
+Met toepassing van artikel 22/15, tweede lid, en artikel 308/3 van de Codex Secundair Onderwijs van 17 december 2010 kan een school in het buitengewoon secundair onderwijs lesuren op de volgende wijze omzetten in punten voor de aanwending in wervingsambten van het ondersteunend personeel:<br>
+1° voor een betrekking met puntenwaarde 63:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">8</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31,5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+	</tbody>
+</table>
+2° voor een betrekking met puntenwaarde 82:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">53</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">61</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">64</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+	</tbody>
+</table>
+3° voor een betrekking met puntenwaarde 85:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">59</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">67</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">70</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">74</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">81</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">85</td>
+		</tr>
+	</tbody>
+</table>
+4° voor een betrekking met puntenwaarde 120::
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">42</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">83</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">89</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">94</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+	</tbody>
+</table>
+5° voor een betrekking met puntenwaarde 126:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">lesuren</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">88</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">93</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">121</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">126</td>
+		</tr>
+	</tbody>
+</table>
 <br>
 De omzetting van lesuren in uren voor wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel gebeurt op basis van de volgende omzettingstabellen:<br>
 1° arts, orthopedagoog en psycholoog:
@@ -702,16 +2155,11 @@ Met toepassing van artikel 41/4 van het decreet van 27 april 2018 betreffende de
 
 ### ART 4.
 
-Met toepassing van artikel III.51 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 worden de uren Samen Internaat Maken aangewend op niveau van een instelling als vermeld in artikel III.49, § 2, van de voormelde codificatie conform het afsprakenkader tussen de sociale partners.
+Met toepassing van artikel 28 van het decreet van 16 juni 2023 over de onderwijsinternaten worden de ORE ‘Samen Internaat Maken’ aangewend op het niveau van een onderwijsinternaat conform het afsprakenkader tussen de sociale partners.&nbsp;
 
 ### ART 5.
 
-Dit artikel is van toepassing op:<br>
-1° de internaten, vermeld in artikel III.21 en III.35 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, voor hun openstelling op schooldagen;<br>
-2° de tehuizen en internaten, vermeld in artikel III.1, § 1, eerste lid, III.20, III.35, § 1, 2°, en artikel III.37 van de voormelde codificatie, voor hun openstelling op niet-schooldagen;<br>
-3° de internaten buitengewoon onderwijs, vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de voormelde codificatie;<br>
-4° de internaten met permanente openstelling, vermeld in deel III, hoofdstuk 6, van de voormelde codificatie;<br>
-5° de semi-internaten, vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen.<br>
+Dit artikel is van toepassing op de semi-internaten, vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen.<br>
 <br>
 Een personeelslid dat tijdelijk een personeelslid vervangt dat aangesteld is in een wervings-, selectie- of bevorderingsambt in een instelling als vermeld in het eerste lid, krijgt alleen een salaris of een salaristoelage als de vervanging voldoet aan al de volgende voorwaarden:<br>
 1° het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
