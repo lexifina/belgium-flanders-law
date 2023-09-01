@@ -2,16 +2,16 @@
   "codex_id": 1032138,
   "title": "Besluit van de Vlaamse Regering van 2019-07-19 betreffende de uitvoering van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032138/VolledigDocument?datum=2019-09-02",
-  "source_sha256": "b20b5a0839e8c22d25eda8bd253dcd622261e3efb1a458323a1dc11f2067f1ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032138/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "de2420e13dadc53e0fa1998ec97b71f070423d283346ff2b9b27260d298adebc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032138&param=informatie",
-  "as_of": "2019-09-02",
+  "as_of": "2023-09-01",
   "made": "2019-07-19",
   "gazette": "2019-08-23",
   "numac": 2019030826,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2019-09-02",
+  "in_force": "2023-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2019-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

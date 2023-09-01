@@ -66,7 +66,7 @@ Het kwaliteitskader, vermeld in artikel 7 van het decreet van 26 april 2019, wor
 
 ### ART 5.
 
-Zodra de update van een beroepskwalificatie erkend is door de Vlaamse Regering hebben opleidingsaanbieders één kalenderjaar de tijd om het traject aan te passen. Indien er een kwaliteitstoezicht plaatsvindt tijdens deze overgangsfase dan kunnen de toezichthouders zich indien nodig baseren op de laatste versie van de beroepskwalificatie voor de update. Nieuwe beroepskwalificerende trajecten moeten zich steeds baseren op de actuele versie van de beroepskwalificatie.
+Zodra de update van een beroepskwalificatie of deelkwalificatie erkend is door de Vlaamse Regering hebben opleidingsaanbieders één kalenderjaar de tijd om het traject aan te passen. Indien er een kwaliteitstoezicht plaatsvindt tijdens deze overgangsfase dan kunnen de toezichthouders zich indien nodig baseren op de laatste versie van de beroepskwalificatie of deelkwalificatie voor de update. Nieuwe beroepskwalificerende trajecten moeten zich steeds baseren op de actuele versie van de beroepskwalificatie of deelkwalificatie.
 
 ### ART 6.
 
@@ -95,9 +95,9 @@ Dit besluit treedt in werking op 2 september 2019.
 Bijlage 1. Gemeenschappelijk kwaliteitskader voor beroepskwalificerende opleidingen<br>
 <br>
 Kwaliteitsgebied 1: DOELSTELLINGEN<br>
-Descriptor 1: Het opleidingstraject stemt overeen met de inhoud en het beheersingsniveau van de competenties zoals vastgelegd in de beroepskwalificatie.<br>
+Descriptor 1: Het opleidingstraject stemt overeen met de inhoud en het beheersingsniveau van de competenties zoals vastgelegd in de beroepskwalificatie of deelkwalificatie.<br>
 <br>
-I.1 Het opleidingstraject bevat alle competenties zoals vastgelegd in de beroepskwalificatie. Het opleidingstraject is evenwichtig uitgewerkt en afgestemd op het verwachte beheersingsniveau. De aanbieders/partners die samen een opleidingstraject aanbieden, stemmen hierover af.<br>
+I.1 Het opleidingstraject bevat alle competenties zoals vastgelegd in de beroepskwalificatie of deelkwalificatie. Het opleidingstraject is evenwichtig uitgewerkt en afgestemd op het verwachte beheersingsniveau. De aanbieders/partners die samen een opleidingstraject aanbieden, stemmen hierover af.<br>
 <br>
 Kwaliteitsgebied 2: VORMGEVING<br>
 Descriptor 2: Het opleidingstraject is zodanig uitgewerkt, georganiseerd en afgestemd op de mogelijkheden van de lerende dat de competenties kunnen worden verworven.<br>
@@ -112,7 +112,7 @@ Materiële infrastructuur<br>
 I.5 De materiële infrastructuur en de leermiddelen ondersteunen het verwerven van de competenties en worden efficiënt ingezet.<br>
 <br>
 Kwaliteitsgebied 3: BEGELEIDING<br>
-Descriptor 3: De lerende wordt zodanig begeleid dat hij optimale kansen heeft om de competenties van de beroepskwalificatie te verwerven.<br>
+Descriptor 3: De lerende wordt zodanig begeleid dat hij optimale kansen heeft om de competenties van de beroepskwalificatie of deelkwalificatie te verwerven.<br>
 <br>
 Informatie<br>
 I.6 De lerende krijgt doelgerichte informatie over het opleidingstraject, de mogelijkheden op de arbeidsmarkt en de doorstroommogelijkheden naar opleidingen die tot een onderwijskwalificatie leiden en andere vervolgopleidingen.<br>
@@ -123,7 +123,7 @@ I.8 Het leerklimaat is positief en stimulerend. De lerende krijgt doelgericht en
 Kwaliteitsgebied 4: EVALUATIE<br>
 Descriptor 4: De te verwerven competenties worden valide en betrouwbaar geëvalueerd. De rapportering toont transparant aan of de competenties effectief verworven zijn.<br>
 <br>
-I.9 De evaluatie is representatief voor de inhoud en het beheersingsniveau van de competenties in de beroepskwalificatie.<br>
+I.9 De evaluatie is representatief voor de inhoud en het beheersingsniveau van de competenties in de beroepskwalificatie of deelkwalificatie.<br>
 I.10 De evaluatiecriteria zijn eenduidig, objectief en voor alle betrokkenen duidelijk. De evaluatieprocedures en -instrumenten garanderen een valide en betrouwbare evaluatie. De aanbieders/partners die samen een opleidingstraject aanbieden, stemmen af over de evaluatiepraktijk.<br>
 I.11 De evaluatieresultaten worden helder en tijdig gecommuniceerd aan de lerende. De aanbieder hanteert transparante beslissingsregels voor het toekennen van de kwalificatiebewijzen. De rapportering bevat de evaluatiegegevens die transparant de beslissing onderbouwen. De aanbieders/partners die samen een opleidingstraject aanbieden, stemmen af over de rapporteringspraktijk.<br>
 <br>
@@ -137,9 +137,9 @@ I.12 Werkpunten die worden vastgesteld in verband met de doelstellingen, vormgev
 Bijlage 2. Gemeenschappelijk kwaliteitskader voor beroepskwalificerende EVC-trajecten<br>
 <br>
 Kwaliteitsgebied 1: DOELSTELLINGEN<br>
-Descriptor 1: De beoordeling stemt overeen met de competenties zoals vastgelegd in de beroepskwalificatie.<br>
+Descriptor 1: De beoordeling stemt overeen met de competenties zoals vastgelegd in de beroepskwalificatie of deelkwalificatie.<br>
 <br>
-I.1 De EVC-beoordeling bevat alle competenties zoals vastgelegd in de beroepskwalificatie. De EVC-beoordeling is evenwichtig uitgewerkt en afgestemd op het verwachte beheersingsniveau. De aanbieders/partners die samen een EVC-traject beoordelen, stemmen hierover af.<br>
+I.1 De EVC-beoordeling bevat alle competenties zoals vastgelegd in de beroepskwalificatie of deelkwalificatie. De EVC-beoordeling is evenwichtig uitgewerkt en afgestemd op het verwachte beheersingsniveau. De aanbieders/partners die samen een EVC-traject beoordelen, stemmen hierover af.<br>
 <br>
 Kwaliteitsgebied 2: VORMGEVING<br>
 Descriptor 2: De EVC-beoordeling is zodanig vormgegeven en georganiseerd dat voor elke EVC-kandidaat de competenties evalueerbaar zijn.<br>
