@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039596,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-23 tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039596/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "45dc8c0a2569c2d73c91c059f56e1b6e2546c45118ad0d68f706925184f8da42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039596&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2024-02-23",
+  "gazette": "2024-04-12",
+  "numac": 2024003433,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
