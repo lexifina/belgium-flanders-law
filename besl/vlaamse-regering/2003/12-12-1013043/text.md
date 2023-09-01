@@ -230,7 +230,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=19">Afkortingen</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=169">1. Afkortingen</a></p>
 
 ## 2. Overzicht
 
@@ -240,13 +240,13 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=20">2.1. Directeur</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=170">2.1. Directeur</a></p>
 
 ## [2.2. Coordinator (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
 ### a
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=21">2.2. Coördinator</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=171">2.2. Coördinator</a>
 
 ## [... (opgeh. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -260,49 +260,49 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=22">3.1. Arts</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=172">3.1. Arts</a></p>
 
 ## 3.2. Consulent
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=24">3.2. Consulent</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=173">3.2. Consulent</a></p>
 
 ## 3.3. Psychopedagogisch consulent
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=25">3.3. Psychopedagogisch consulent</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=174">3.3. Psychopedagogisch consulent</a></p>
 
 ## 3.4. Maatschappelijk werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=26">3.4. Maatschappelijk werker</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=175">3.4. Maatschappelijk werker</a></p>
 
 ## 3.5. Psychopedagogisch werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=27">3.5. Psychopedagogisch werker</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=176">3.5. Psychopedagogisch werker</a></p>
 
 ## 3.6. Paramedisch werker
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=29">3.6. Paramedisch werker</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=177">3.6. Paramedisch werker</a></p>
 
 ## 3.7. Intercultureel bemiddelaar
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=31">3.7. Intercultureel bemiddelaar</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=179">3.7. Intercultureel bemiddelaar</a></p>
 
 ## 3.8. Ervaringsdeskundige
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=33">3.8. Ervaringsdeskundige</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=180">3.8. Ervaringsdeskundige</a></p>
 
 ## [Ondersteunend personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -310,4 +310,4 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=33">Administratief medewerker</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=181">7.1. Administratief medewerker</a></p>
