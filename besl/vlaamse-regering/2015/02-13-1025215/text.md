@@ -12,7 +12,12 @@ Dit   besluit is van toepassing op het basisonderwijs en op het secundair   onde
 
 ### ART. 2.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   attest: het attest, vermeld in artikel 15, § 3, van het decreet van 25 februari   1997 en in artikel 294, § 4, van de Codex Secundair Onderwijs van 17 december   2010;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   decreet van 25 februari 1997: het decreet basisonderwijs van 25 februari   1997;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   gemotiveerd verslag: het gemotiveerd verslag, vermeld in artikel 16 van het   decreet van 25 februari 1997 en in artikel 352 van de Codex Secundair Onderwijs   van 17 december 2010;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   verslag: het attest en het protocol ter verantwoording, vermeld in artikel 15   van het decreet van 25 februari 1997 en artikel 294 van de Codex Secundair   Onderwijs van 17 december 2010.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° attest: het attest, vermeld in artikel 15, § 3, van het decreet van 25 februari 1997 en in artikel 294, § 4, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+2° decreet van 25 februari 1997: het decreet basisonderwijs van 25 februari 1997;<br>
+3° GC-verslag: verslag gemeenschappelijk curriculum, een verslag dat toegang geeft tot leersteun bij een gemeenschappelijk curriculum, vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997 en artikel 352 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+4° IAC-verslag: verslag individueel aangepast curriculum, een verslag dat toegang geeft tot een individueel aangepast curriculum, vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997 en in artikel 294, §2, 1°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+5° OV4-verslag: het verslag, vermeld in artikel 294, §2, 2°, van de Codex Secundair Onderwijs van 17 december 2010.
 
 ## [HOOFDSTUK 2 IAC-Verslag en OV4-verslag (verv. BVR 5 mei 2023, art. 48, I: 1 september 2023)]
 
@@ -32,16 +37,19 @@ c) de ingangsdatum van de attestwijziging, die alleen betrekking kan hebben op h
 3) na een verblijf in een residentiële setting om medische of psychiatrische redenen of door een plaatsing, waarbij de onderwijsbehoeften zo gewijzigd zijn dat het CLB-team in afstemming met alle partners bepaalt dat een wijziging van type of opleidingsvorm noodzakelijk is;<br>
 4) de noodzaak aan opname in een residentiële setting of door een plaatsing, waarbij de onderwijsbehoeften zo gewijzigd zijn dat het CLB-team in afstemming met alle partners bepaalt dat een wijziging van type of opleidingsvorm of onderwijsniveau noodzakelijk is;<br>
 5) de overgang van een leerling met een verlengd verblijf in het buitengewoon basisonderwijs naar een school voor buitengewoon secundair onderwijs die bij de start van het schooljaar volzet was maar intussen een vrije plaats voor inschrijving heeft;<br>
+6) na het overleg in een school voor gewoon onderwijs met de ouders, de klassenraad en het centrum voor leerlingenbegeleiding over de aanpassingen die nodig zijn om de leerling in die school voor gewoon onderwijs mee te nemen in een gemeenschappelijk curriculum of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum, vermeld in artikel 37/11, §2 en §3 en artikel 37/48, §2 en §3 van het decreet basisonderwijs van 25 februari 1997 en artikel 253/6, §2 en §3 en artikel 253/37, §2 en §3 van de Codex Secundair Onderwijs van 17 december 2010;<br>
 d) de handtekening van de directeur van het centrum voor leerlingenbegeleiding;<br>
 6° de extern verkregen classificerende diagnose in geval van de opmaak van een attest voor een van de types, vermeld in artikel 10, § 1, eerste lid, 3°, 4°, 6°, 7° of 8°, van het decreet van 25 februari 1997, of van artikel 259, § 1, 3°, 4°, 6°, 7° of 8°, van de Codex Secundair Onderwijs van 17 december 2010. Dat gebeurt door vermelding van het opsommingsnummer of de opsommingsletter van het criterium of de criteria in kwestie, vermeld in de voormelde bepalingen van het decreet van 25 februari 1997 en de Codex Secundair Onderwijs van 17 december 2010. De concrete stoornis hoeft niet genoteerd te worden.
 
 ### ART. 4.
 
-<P>Het   verslag wordt bezorgd aan de ouders. In geval van een effectieve inschrijving in   een school voor gewoon of buitengewoon onderwijs is het verslag bestemd voor de   directeur van de onderwijsinstelling, ter staving van de inschrijving en wordt   het toegevoegd aan het leerlingendossier op school.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de leerling in de school voor gewoon onderwijs ingeschreven blijft, wordt het   verslag toegevoegd aan het leerlingendossier op school.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het IAC-verslag of OV4-verslag wordt bezorgd aan de ouders. In geval van een effectieve inschrijving in een school voor gewoon of buitengewoon onderwijs is het IAC-verslag of OV4-verslag bestemd voor de directeur van de onderwijsinstelling, ter staving van de inschrijving en wordt het toegevoegd aan het leerlingendossier op school.</p>
+
+<p>Als de leerling in de school voor gewoon onderwijs ingeschreven blijft, wordt het IAC-verslag of OV4-verslag toegevoegd aan het leerlingendossier op school.</p>
 
 ### ART. 5.
 
-Als de leerling de school voor gewoon of buitengewoon onderwijs verlaat, bezorgt de directeur van de school het verslag terug aan de ouders.
+Als de leerling de school voor gewoon of buitengewoon onderwijs verlaat, bezorgt de directeur van de school het&nbsp;IAC-verslag of OV4-verslag terug aan de ouders.
 
 ## [HOOFDSTUK 3 GC-verslag (verv. BVR 5 mei 2023, art. 53, I: 1 september 2023)]
 
@@ -51,14 +59,16 @@ Als de leerling de school voor gewoon of buitengewoon onderwijs verlaat, bezorgt
 1° de synthese van het handelingsgericht diagnostisch traject als onderdeel van de fase van uitbreiding van zorg, vermeld in artikel 3, 53° bis, van het decreet van 25 februari 1997, en artikel 3, 44° /1, van de Codex Secundair Onderwijs van 17 december 2010. De volgende elementen worden geregistreerd :<br>
 a) een beschrijving van de onderwijsbehoeften van de leerling en de ondersteuningsbehoeften van de ouders en het schoolteam. De school voor gewoon onderwijs formuleert die ondersteuningsbehoeften in overleg met de leerling, de ouders, het schoolteam en het centrum voor leerlingenbegeleiding;<br>
 b) een beschrijving van de maatregelen, met inbegrip van compenserende of dispenserende maatregelen, die voor de leerling al genomen zijn of nodig zijn;<br>
-c) de motivering dat de ondersteuning in het kader van het ondersteuningsmodel, in combinatie met de maatregelen, vermeld in punt b), nodig en voldoende is om de leerling in het gemeenschappelijk curriculum te laten participeren;<br>
+c) de motivering dat de leersteun in het kader van het leersteunmodel, in combinatie met de maatregelen, vermeld in punt b), nodig en voldoende is om de leerling in het gemeenschappelijk curriculum te laten participeren;<br>
 2° de aanduiding van het type door de omschrijving van de specifieke deskundigheid die vereist is vanuit een of meer van de types, vermeld in artikel 10, § 1, eerste lid, 1° tot en met 4° en 6° tot en met 8°, van het decreet basisonderwijs van 25 februari 1997 en artikel 259, § 1, 1° tot en met 4° en 6° tot en met 8°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
-3° een algemene omschrijving van de ondersteuning die de school voor gewoon onderwijs nodig heeft en de wijze waarop de school voor buitengewoon onderwijs daaraan tegemoet kan komen. Dat gebeurt in dialoog tussen de school voor gewoon onderwijs, de ouders, het CLB en de school voor buitengewoon onderwijs of het ondersteuningsnetwerk;<br>
+3° een algemene omschrijving van de leersteun die de school voor gewoon onderwijs nodig heeft. Dat gebeurt in dialoog tussen de school voor gewoon onderwijs, de ouders, het CLB en het leersteuncentrum. Als ouders niet akkoord gaan met de opmaak of inhoud van het GC-verslag, wordt dat vermeld in het GC-verslag, maar kan een inzet van leersteun die gericht is op de leerkracht of het schoolteam niet verhinderd worden;<br>
 4° de beschrijving van eventuele andere ondersteuning door onderwijsexterne diensten.<br>
 <br>
-Het gemotiveerd verslag neemt de vorm aan van het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in artikel 172quinquies en 172quinquies/1 van het decreet van 25 februari 1997 en artikel 314/8 en 314/9 van de Codex Secundair Onderwijs van 17 december 2010. Het handelingsgericht advies wordt geregistreerd in het multidisciplinair dossier van de leerling.<br>
+Indien geen handelingsgericht diagnostisch traject doorlopen werd, maar een GC-verslag wordt opgemaakt op basis van een handelingsgericht advies omdat het door het CLB reeds doorlopen traject met de school, de leerling en de ouders voldoende informatie biedt, worden de elementen vermeld in 1° beschreven op basis van de informatie uit het reeds doorlopen traject.<br>
 <br>
-De datum van registratie van het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel in het multidisciplinair dossier van de leerling geldt als datum van opmaak van het gemotiveerd verslag. Het handelingsgericht advies bevat ook een ingangsdatum.</p>
+Het GC-verslag voor leersteun bij een gemeenschappelijk curriculum, vermeld in hoofdstuk 3 van het decreet van 5 mei 2023 over leersteun, wordt geregistreerd in het multidisciplinair dossier van de leerling..<br>
+<br>
+De datum van registratie in het multidisciplinair dossier van de leerling geldt als datum van opmaak van het GC-verslag. Het GC-verslag bevat ook een ingangsdatum.</p>
 
 ### ART. 7.
 
@@ -74,7 +84,9 @@ De datum van registratie van het handelingsgericht advies voor ondersteuning van
 
 ### ART. 10.
 
-Het centrum voor leerlingenbegeleiding houdt de gegevens die de classificerende diagnose onderbouwen, vermeld in artikel 3, 6°,&nbsp;bij in het multidisciplinair dossier van de leerling.
+Het centrum voor leerlingenbegeleiding houdt de gegevens die de classificerende diagnose onderbouwen, vermeld in artikel 3, 6°,&nbsp;bij in het multidisciplinair dossier van de leerling.<br>
+<br>
+Met toepassing van artikel 23, vijfde lid van het decreet van 5 mei 2023 over leersteun en in het kader van de signaalfunctie, vermeld in artikel 2, 11°, a), van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, monitort elk CLB jaarlijks het aantal GC-verslagen, IAC-verslagen en OV4-verslagen in de scholen voor gewoon onderwijs die het begeleidt. De monitoring wordt jaarlijks toegelicht en besproken in de leersteunraad van het leersteuncentrum waarbij de scholen voor gewoon onderwijs aangesloten zijn.
 
 ## HOOFDSTUK 4 Slotbepalingen
 
