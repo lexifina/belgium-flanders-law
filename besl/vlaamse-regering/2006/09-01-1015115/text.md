@@ -27,27 +27,27 @@ Besluit :<br>
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Koeling en warmte, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I tot en met XIII, die als bijlagen bij dit besluit zijn gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br /><br />
+...
 
 ### ART. 3.
 
-De modulaire opleidingen « Monteur centrale verwarming BSO 3 », in combinatie met « Technieker centrale verwarming TSO 3 », « Monteur centrale verwarming BSO 3 », in combinatie met « Installateur individuele gasverwarming BSO 3 », « Monteur centrale verwarming BSO 3 », in combinatie met « Loodgieter BSO 3 », « Airco-technieker TSO 3 », « Koeltechnieker TSO 3 », « Loodgieter BSO 3 », in combinatie met « Dakdekker metalen dak BSO 3 », « Monteur klimatisatie BSO 3 » en « Sanitair installateur BSO 3 », leiden tot een diploma secundair onderwijs als aan de voorwaarden, vermeld in artikel 41, § 4, 2° of 3°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, is voldaan.<br /><br />
+...
 
 ### ART. 4.
 
-De hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema's kunnen bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden:<br />1° « Centrale verwarming BSO 3 », goedgekeurd op 22 december 2000;<br />2° « Installateur van gas voor individuele toestellen BSO 3 », goedgekeurd op 31 mei 2002;<br />3° « Sanitair installateur-loodgieter BSO 3 », goedgekeurd op 31 mei 2002.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2005.<br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ## Bijlagen
 
@@ -85,7 +85,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE IX.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_2.pdf#page=48">Bijlage IX</a>
+...
 
 ### BIJLAGE X.
 
@@ -93,7 +93,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XI.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_3.pdf#page=21">Bijlage XI</a>
+...
 
 ### BIJLAGE XII.
 
