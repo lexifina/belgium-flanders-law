@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de vastbenoemde, tot de proeftijd toegelaten en tijdelijke personeels-leden die geaffecteerd of aangesteld zijn in het lager onderwijs in het Brussels Hoofdstedelijk Gewest of in de rand- en taalgrensgemeenten in een ambt van het bestuurs- en onderwijzend personeel of in de ambten van zorgcoördinator en ICT-coördinator, en waarvoor de Vlaamse Gemeenschap een salaris financiert of subsidieert.
+Dit besluit is van toepassing op de vastbenoemde, tot de proeftijd toegelaten en tijdelijke personeels-leden die geaffecteerd of aangesteld zijn in het lager onderwijs in het Brussels Hoofdstedelijk Gewest of in de rand- en taalgrensgemeenten in een ambt van het bestuurs- en onderwijzend personeel of in de ambten van zorgcoördinator, ICT-coördinator en beleidsondersteuner, en waarvoor de Vlaamse Gemeenschap een salaris financiert of subsidieert.
 
 ### ART. 2.
 
