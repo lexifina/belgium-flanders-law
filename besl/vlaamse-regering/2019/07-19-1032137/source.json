@@ -2,16 +2,16 @@
   "codex_id": 1032137,
   "title": "Besluit van de Vlaamse Regering van 2019-07-19 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032137/VolledigDocument?datum=2019-09-02",
-  "source_sha256": "2b9417b5a5bbad1c409cd3fb55374dd04799929e6e8264b876503dcb96e75d6f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032137/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "03c25114ea5665fd3a78022f541be1605379594ac05666dd19e6dffffa5938cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032137&param=informatie",
-  "as_of": "2019-09-02",
+  "as_of": "2023-09-01",
   "made": "2019-07-19",
   "gazette": "2019-08-23",
   "numac": 2019014004,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2019-09-02",
+  "in_force": "2023-09-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2019-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

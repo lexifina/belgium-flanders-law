@@ -38,7 +38,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° bevoegde dienst: het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
-2° EVC-instrument: een uitwerking van de EVC-methode(s) als vermeld in 4° via een specifieke beschrijving van de wijze waarop de beoordeling van de verworven competenties uit een beroepskwalificatie gebeurt;<br>
+2° EVC-instrument: een uitwerking van de EVC-methode(s) als vermeld in 4° via een specifieke beschrijving van de wijze waarop de beoordeling van de verworven competenties uit een beroepskwalificatie of een deelkwalificatie gebeurt;<br>
 3° EVC-kandidaat: een persoon die zijn competenties wil laten beoordelen en certificeren in een EVC-testcentrum als vermeld in 6° ;<br>
 4° EVC-methode: een algemene beschrijving van de wijze waarop verworven competenties geïntegreerd beoordeeld worden zoals bijvoorbeeld een praktijkproef of een criteriumgericht interview;<br>
 5° EVC-standaard: de EVC-standaard vermeld in artikel 4, paragraaf 2 van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties;<br>
@@ -94,7 +94,7 @@ Als een EVC-standaard wordt geschrapt, legt de bevoegde dienst de schrapping ter
 
 ### ART 7.
 
-§ 1. Een organisatie die als EVC-testcentrum een EVC-traject wil aanbieden, gebruikt daarvoor een EVC-instrument dat is uitgewerkt op basis van de EVC-standaard. De organisatie kan daartoe zelf een EVC-instrument ontwikkelen of een eerder ontwikkeld EVC-instrument gebruiken dat al is opgenomen in de databank met EVC-instrumenten die door de bevoegde dienst wordt beheerd.<br>
+§ 1. Een organisatie die als EVC-testcentrum een EVC-traject wil aanbieden, gebruikt daarvoor een EVC-instrument dat is uitgewerkt op basis van de EVC-standaard. De organisatie kan daartoe zelf een EVC-instrument ontwikkelen of een eerder ontwikkeld EVC-instrument gebruiken dat al is opgenomen in de databank met EVC-instrumenten die door de bevoegde dienst wordt beheerd.&nbsp;Een EVC-instrument wordt uitgewerkt voor een volledige beroepskwalificatie of voor een deelkwalificatie.<br>
 <br>
 § 2. Een organisatie kan voor het EVC-traject dat ze wil aanbieden, toegang vragen tot de in paragraaf 1 vermelde databank. De bevoegde dienst verleent de toegang op voorwaarde dat de organisatie haar kwaliteit op organisatieniveau kan aantonen. De organisatie die toegang heeft, is gehouden aan de discretieplicht.<br>
 <br>
@@ -114,7 +114,7 @@ Een organisatie die geen door de Vlaamse gemeenschap erkende, gefinancierde of g
 
 § 1 Indien de organisatie als bepaald in artikel 8, eerste lid een eigen instrument ontwikkeld heeft, onderwerpt de bevoegde dienst het EVC-instrument aan een toetsing op basis van de EVC-standaarden. Voor een organisatie die geen door de Vlaamse gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling is, zal het betrokken beleidsdomein of -veld de bevoegde dienst informeren over het ontwikkelde instrument.<br>
 <br>
-De bevoegde dienst gaat na of het EVC-instrument alle competenties uit de beroepskwalificatie omvat en in overeenstemming is met de betreffende EVC-standaard.<br>
+De bevoegde dienst gaat na of het EVC-instrument alle competenties uit de beroepskwalificatie of deelkwalificatie omvat en in overeenstemming is met de betreffende EVC-standaard.<br>
 <br>
 De organisatie kan op haar vraag of die van de bevoegde dienst toelichting geven bij het ontwikkelde instrument. Het EVC-instrument kan hierna bijgestuurd worden.<br>
 <br>
@@ -183,7 +183,7 @@ Het overzicht van erkende EVC-trajecten en aanbiedende organisaties wordt gekopp
 
 ### ART 14.
 
-Een EVC-kandidaat kan zich enkel inschrijven voor een EVC-traject met het oog op het verwerven van een volledige beroepskwalificatie of, als dat van toepassing is, op het verwerven van een deelkwalificatie. De kandidaat doorloopt altijd alle onderdelen van de beoordeling.
+Een EVC-kandidaat kan zich enkel inschrijven voor een EVC-traject met het oog op het verwerven van een volledige beroepskwalificatie of, als dat van toepassing is, op het verwerven van een deelkwalificatie. De kandidaat doorloopt altijd alle onderdelen van de beoordeling van de beroepskwalificatie of deelkwalificatie in kwestie.
 
 ### ART 15.
 
