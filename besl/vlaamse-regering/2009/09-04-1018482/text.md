@@ -92,7 +92,7 @@ Verhaal tegen de toewijzing van een betrekking vermeld in paragraaf 1, wordt ing
 <br>
 § 3. Het verlof of de afwezigheid voor verminderde prestaties, of de terbeschikkingstelling wegens persoonlijke aangelegenheden van het personeelslid dat zich in het geval, vermeld in paragraaf1, 1° of 2°, bevindt, wordt geheel of gedeeltelijk opgeschort zodra op het personeelslid een beroep wordt gedaan.<br>
 <br>
-Een personeelslid kan tijdens de opschorting van het verlof, de afwezigheid of de terbeschikkingstelling opnieuw geheel of gedeeltelijk de betrekking opnemen waarvan het titularis is, of een andere betrekking opnemen waarbij de opdracht van de vervanger tijdelijk wordt opgeschort.<br>
+Een personeelslid kan tijdens de opschorting van het verlof, de afwezigheid of de terbeschikkingstelling opnieuw geheel of gedeeltelijk de betrekking opnemen waarvan het titularis is, of een andere betrekking opnemen waarbij de opdracht van de vervanger tijdelijk wordt opgeschort.&nbsp;De opschorting van een verlof voor verminderde prestaties om een andere betrekking op te nemen is beperkt tot maximaal drie opeenvolgende schooljaren.<br>
 &nbsp;
 
 ## Afdeling II Bezoldiging
@@ -129,7 +129,14 @@ De gepensioneerde krijgt het salaris of de salaristoelage waarop het aanspraak k
 
 ### ART. 17.
 
-Voor de toepassing van dit artikel wordt onder onderwijs verstaan : de   centra voor leerlingenbegeleiding, de permanente ondersteuningscel, het basis-   en secundair onderwijs in welke vorm ook, de internaten in welke vorm ook, de   tehuizen in welke vorm ook, de semi-internaten, de internaten van het   Gemeenschapsonderwijs die voorzien in verblijf en begeleiding tijdens   schoolvrije dagen, het deeltijds kunstonderwijs in welke vorm ook, het secundair   volwassenenonderwijs, de specifieke lerarenopleiding georganiseerd in een   centrum voor volwassenenonderwijs, de pedagogische begeleidingsdiensten, de   inspectie en het hoger beroepsonderwijs georganiseerd in een centrum voor   volwassenenonderwijs of in een instelling voor secundair onderwijs.<BR><BR>Met   behoud van de toepassing van andere meer beperkende reglementaire bepalingen   wordt, binnen het onderwijs, voor het personeelslid dat al een ambt met   volledige prestaties uitoefent, noch salaris noch salaristoelage toegekend voor   de gezamenlijke bijkomende prestaties die het levert in het door de Vlaamse   Gemeenschap ingericht of gesubsidieerd onderwijs die meer dan 40 % bedragen van   het minimum vereiste aantal uren voor een ambt met volledige prestaties in de   uitgeoefende opdracht of de opdrachten die overeenkomen met deze   prestaties.<BR><BR>Als de prestaties betrekking hebben op verschillende   opdrachten waarvoor de vereiste minima voor een ambt met volledige prestaties   verschillend zijn, wordt de ponderatieregel toegepast die geldt voor de   berekening van het salaris.<BR><BR>Voor de berekening van het toegestane maximum   wordt enkel rekening gehouden met prestaties waarvoor een bezoldiging wordt   toegekend. Het verkregen resultaat wordt altijd afgerond op de hogere   eenheid.<BR><BR>
+Voor de toepassing van dit artikel wordt onder onderwijs verstaan : de centra voor leerlingenbegeleiding, de permanente ondersteuningscel, het basis- en secundair onderwijs in welke vorm ook, de leersteuncentra, de onderwijsinternaten, de semi-internaten, het deeltijds kunstonderwijs in welke vorm ook, het secundair volwassenenonderwijs, de pedagogische begeleidingsdiensten, de inspectie en het hoger beroepsonderwijs georganiseerd in een centrum voor volwassenenonderwijs of in een instelling voor secundair onderwijs.<br>
+<br>
+Met behoud van de toepassing van andere meer beperkende reglementaire bepalingen wordt, binnen het onderwijs, voor het personeelslid dat al een ambt met volledige prestaties uitoefent, noch salaris noch salaristoelage toegekend voor de gezamenlijke bijkomende prestaties die het levert in het door de Vlaamse Gemeenschap ingericht of gesubsidieerd onderwijs die meer dan 40 % bedragen van het minimum vereiste aantal uren voor een ambt met volledige prestaties in de uitgeoefende opdracht of de opdrachten die overeenkomen met deze prestaties.<br>
+<br>
+Als de prestaties betrekking hebben op verschillende opdrachten waarvoor de vereiste minima voor een ambt met volledige prestaties verschillend zijn, wordt de ponderatieregel toegepast die geldt voor de berekening van het salaris.<br>
+<br>
+Voor de berekening van het toegestane maximum wordt enkel rekening gehouden met prestaties waarvoor een bezoldiging wordt toegekend. Het verkregen resultaat wordt altijd afgerond op de hogere eenheid.<br>
+&nbsp;
 
 ## HOOFDSTUK VII Wijzigingsbepalingen
 
