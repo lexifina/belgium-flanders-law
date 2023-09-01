@@ -12,7 +12,7 @@ De codificatie van de wettelijke en decretale bepalingen betreffende het secunda
 <br>
 In afwijking van het eerste lid:<br>
 1° ...<br>
-2° gelden artikel 96 tot en met 99, 115/1,&nbsp;en 116 tot en met 120 niet voor het deeltijds beroepssecundair onderwijs;<br>
+2° gelden artikel 96 tot en met 99, 115/1 en 116 tot en met 120 niet voor het deeltijds beroepssecundair onderwijs;<br>
 3° gelden artikel 110/1 tot en met 110/18, 111 en 112, 122/2 tot en met 122/6, 123/2 tot en met 123/4, 123/6 tot en met 123/25 ook voor de leertijd.<br>
 <br>
 § 2. De bepalingen van deel IV van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs.<br>
@@ -23,15 +23,15 @@ De artikelen 253/1 tot en met 253/31 zijn enkel van toepassing op de scholen gel
 <br>
 Artikel 253/1 tot en met 253/6, artikel 253/21 tot en met 253/37, en artikel 253/52 tot en met 253/61 gelden ook voor het deeltijds beroepssecundair onderwijs en de leertijd.<br>
 <br>
-Artikel 253/1 tot en met 253/61 zijn niet van toepassing op de opleiding verpleegkunde van het hoger beroepsonderwijs die wordt georganiseerd door scholen voor voltijds secundair onderwijs.<br>
+Artikel 253/1 tot en met 253/61 zijn niet van toepassing op de opleidingen van het hoger beroepsonderwijs die worden georganiseerd door scholen voor voltijds secundair onderwijs.<br>
 <br>
-§ 2/1. De bepalingen van deel III en deel IV van de codificatie zijn ook van toepassing op de opleiding verpleegkunde van het hoger beroepsonderwijs die wordt georganiseerd door scholen voor voltijds secundair onderwijs, tenzij uitdrukkelijk anders vermeld en met behoud van toepassing van de bepalingen van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+§ 2/1. De bepalingen van deel III en deel IV van de codificatie zijn ook van toepassing op de opleidingen van het hoger beroepsonderwijs die worden georganiseerd door scholen voor voltijds secundair onderwijs, tenzij uitdrukkelijk anders vermeld en met behoud van toepassing van de bepalingen van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
 § 3. De bepalingen van deel V van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd buitengewoon secundair onderwijs, met uitzondering van artikel 357, dat niet van toepassing is op het buitengewoon secundair onderwijs, maar enkel op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs.<br>
 <br>
 De artikelen 295/1 tot en met 295/15 zijn niet van toepassing op de ziekenhuisscholen.<br>
 <br>
-De artikelen 351 tot en met 356 gelden ook voor het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en de opleiding Verpleegkunde van het hoger beroepsonderwijs die wordt georganiseerd door scholen voor voltijds secundair onderwijs.<br>
+De artikelen 351 tot en met 356 gelden ook voor het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en de opleidingen van het hoger beroepsonderwijs die worden georganiseerd door scholen voor voltijds secundair onderwijs.<br>
 <br>
 § 3/1. De bepalingen van deel V/1 van deze codex zijn van toepassing op door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde scholen voor voltijds gewoon secundair onderwijs, centra voor deeltijds beroepssecundair onderwijs en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.<br>
 <br>
@@ -41,9 +41,9 @@ De bepalingen van deel V/2 van deze codex zijn van toepassing op door de Vlaamse
 <br>
 § 4. Deel VI bevat een overzicht van de uitwerkingsdatum van de artikelen van de codificatie en deel VII wijzigt de verwijzingen naar artikelen die opgenomen zijn in de codificatie betreffende het secundair onderwijs.<br>
 <br>
-§ 5. De codificatie is niet van toepassing op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde internaten en semi-internaten. (1)<br>
+§ 5. De codificatie is niet van toepassing op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde&nbsp;onderwijsinternaten en semi-internaten. (1)<br>
 <br>
-§ 6. Op duale structuuronderdelen en aanloopstructuuronderdelen, ingericht door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, zijn de volgende artikelen van toepassing: artikel 4 tot en met 10, artikel 12,&nbsp;artikel 14, § 1 en § 3, artikel 15, uitgezonderd paragraaf 1, 16°, artikel 35 tot en met 38, artikel 41 tot en met 43, artikel 47, 48, artikel 70, artikel 100 tot en met 103, artikel 106 tot en met 108, artikel 110/1 tot en met 110/18, artikel 111, 112, artikel 115 tot en met 117/1, artikel 122 tot en met 123/19, artikel 136 tot en met 136/6, artikel 150, artikel 157/1, artikel 169 tot en met 173, artikel 252, 252/1, 253, artikel 253/1 tot en met 253/6, artikel 253/21 tot en met 253/37, artikel 253/54 tot en met 253/63, 256/11, 314/8 en 314/9.<br>
+§ 6. Op duale structuuronderdelen en aanloopstructuuronderdelen, ingericht door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, zijn de volgende artikelen van toepassing: artikel 4 tot en met 10, artikel 12,&nbsp;artikel 14, § 1 en § 3, artikel 15, uitgezonderd paragraaf 1, 16°, artikel 35 tot en met 38, artikel 41 tot en met 43, artikel 47, 48, artikel 70, artikel 100 tot en met 103, artikel 106 tot en met 108, artikel 110/1 tot en met 110/18, artikel 111, 112, artikel 115 tot en met 117/1, artikel 122 tot en met 123/19, artikel 136 tot en met 136/6, artikel 150, artikel 157/1, artikel 169 tot en met 173, artikel 252, 252/1, 253, artikel 253/1 tot en met 253/6, artikel 253/21 tot en met 253/37, artikel 253/54 tot en met 253/63 en 256/11.<br>
 &nbsp;
 
 ## DEEL II. BEGRIPPEN
@@ -90,8 +90,10 @@ c) in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair 
 14° extra lesuren : een eenheid waarin de omkadering voor het voeren van een gelijke onderwijskansenbeleid in het buitengewoon secundair onderwijs uitgedrukt wordt;<br>
 14° /0 finaliteit: een begrip dat aangeeft waarop studierichtingen prioritair voorbereiden, namelijk op het hoger onderwijs, op de arbeidsmarkt of op beide;<br>
 14°/0/0 feedbackrapport: een rapport met de resultaten op de Vlaamse toetsen op het schoolniveau, het niveau van de leerlingengroep of het leerlingniveau;<br>
+14°/0/1 GC-verslag: een verslag gemeenschappelijk curriculum, een verslag dat toegang geeft tot leersteun bij een gemeenschappelijk curriculum als vermeld in artikel 352 van deze codex;<br>
 14° /1 gemeenschappelijk curriculum: de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen te bereiken of de ontwikkelingsdoelen na te streven en de schoolgebonden planning voor het nastreven van de vakoverschrijdende eindtermen en ontwikkelingsdoelen;<br>
-14° /2 gemotiveerd verslag: een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in artikel 314/8 en 314/9, dat een CLB-medewerker registreert in het multidisciplinair dossier van de leerling;<br>
+14° /2 ...;<br>
+14°/3 Gemeenschappelijk Europees Referentiekader voor Talen: de Nederlandstalige vertaling van het door de Raad van Europa gepubliceerde Common European Framework of Reference for Languages (CEFR).<br>
 15° hoofdvestigingsplaats : vestigingsplaats waar de administratieve zetel van de school wordt ondergebracht;<br>
 15° /1 huisonderwijs :<br>
 - het onderwijs dat verstrekt wordt aan leerplichtigen van wie de ouders beslist hebben om hen niet in te schrijven in een door de Vlaamse Gemeenschap, de Franse Gemeenschap of de Duitstalige Gemeenschap erkende, gefinancierde of gesubsidieerde school of centrum;<br>
@@ -99,7 +101,7 @@ c) in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair 
 &nbsp;&nbsp; 1° het besluit van de Vlaamse Regering van 27 juni 1990 waarbij de voorwaarden worden vastgesteld waaronder in bepaalde gemeenschapsinstellingen voor observatie en opvoeding en in onthaal- en oriëntatiecentra en in de observatiecentra, ressorterend onder de bijzondere jeugdbijstand aan de leerplicht kan worden voldaan;<br>
 &nbsp;&nbsp; 2° het koninklijk besluit van 1 maart 2002 tot oprichting van een Centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br>
 &nbsp;&nbsp; 3° het koninklijk besluit van 12 november 2009 tot oprichting van een gesloten federaal centrum voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br>
-15° /2 individueel aangepast curriculum : een curriculum waarbij leerdoelen op maat van de leerling met een verslag als vermeld in artikel 294, § 2 tot en met § 10, worden geformuleerd. De leerdoelen op maat van de leerling worden gekozen door de klassenraad in afstemming met de ouders, waar mogelijk de leerling, de CLB-medewerker en in voorkomend geval externe ondersteuners, vertrekkende van het geheel van de leerdoelen van de betrokken opleiding. Dit curriculum kan, indien dit noodzakelijk is voor de leerling, gebaseerd worden op de ontwikkelingsdoelen van het buitengewoon onderwijs of op de opleidingsprofielen van opleidingsvorm 3. Het curriculum wordt naargelang de studievoortgang van de leerling aangepast. Deze leerdoelen moeten worden nagestreefd, en beogen de maximale ontplooiing van de leerling en een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren in de school voor gewoon onderwijs. Daarnaast beoogt dit curriculum ook ofwel de participatie aan de maatschappij, eventueel in een omgeving waar in ondersteuning voorzien is, ofwel de arbeidsdeelname in een omgeving waar in ondersteuning voorzien is, ofwel de tewerkstelling in een werkomgeving waar in ondersteuning voorzien is, ofwel de tewerkstelling in het gewone arbeidsmilieu, ofwel de verdere studies. Leerlingen die een individueel aangepast curriculum volgen komen niet in aanmerking voor de reguliere studiebewijzen van het gewoon voltijds secundair onderwijs, behoudens wanneer voldaan is aan de voorwaarden van artikel 115, § 1, derde lid;<br>
+15°/2 IAC-verslag: een verslag individueel aangepast curriculum, een verslag dat toegang geeft tot een individueel aangepast curriculum, vermeld in artikel 294, §2, 1°, van deze codex;<br>
 16° inhaallessen : de lessen die facultatief kunnen georganiseerd worden met het oog op een bijkomende gedifferentieerde benadering van de leerling;<br>
 16° /2 kadastraal perceel : een deel van het Belgisch grondgebied dat door een kadastraal perceelnummer wordt geïdentificeerd zoals gedefinieerd in het koninklijk besluit van 20 september 2002 tot vaststelling van de vergeldingen en de nadere regels voor de afgifte van kadastrale uittreksels en inlichtingen;<br>
 17° Koninklijk besluit nummer 66 : het koninklijk besluit nummer 66 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het administratief personeel en het opvoedend hulppersoneel worden bepaald in de inrichtingen voor buitengewoon onderwijs met uitzondering van de internaten of semi-internaten;<br>
@@ -113,15 +115,19 @@ d) waarbij effectieve arbeid wordt verricht;<br>
 e) met de bedoeling beroepservaring op te doen;<br>
 17° /2/1 leerling met een zorgthuis:<br>
 a) een leerling die effectief gebruik maakt van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp voor:<br>
-- een verblijf bij een jeugdhulpaanbieder als vermeld in artikel 2, § 1, 27°, van hetzelfde decreet, met uitzondering van de schoolinternaten, vermeld in artikel 68, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp en met uitzondering van vrijwillige Jeugdhulpverlening in de multifunctionele centra, als bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- een verblijf bij een jeugdhulpaanbieder als vermeld in artikel 2, § 1, 27°, van hetzelfde decreet, met uitzondering van de onderwijsinternaten, vermeld in artikel 68, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp en met uitzondering van vrijwillige Jeugdhulpverlening in de multifunctionele centra, als bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 - contextbegeleiding in functie van autonoom wonen of begeleiding in een kleinschalige wooneenheid, overeenkomstig artikel 3 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
 b) een leerling die geplaatst is door de jeugdrechter of jeugdrechtbank in een gemeenschapsinstelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
-c) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in artikel 5 en 5/1 van hoofdstuk 6 van titel XIII van de Programmawet (I) van 24 december 2002, vervuld zijn;<br>
+c) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in artikel 5&nbsp;en 5/1 van hoofdstuk 6 van titel XIII van de Programmawet (I) van 24 december 2002, vervuld zijn;<br>
 17° /3 leertijd: de opleiding, vermeld in artikel 2, 15°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 17° /3 leerling met specifieke onderwijsbehoeften: leerling met langdurige en belangrijke participatieproblemen die te wijten zijn aan het samenspel tussen:<br>
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
 b) beperkingen bij het uitvoeren van activiteiten en;<br>
 c) persoonlijke en externe factoren;<br>
+17°/4/1 leerondersteuner: de leerondersteuner, vermeld in artikel 5, 9°, van<br>
+het decreet van 5 mei 2023 &nbsp;over leersteun;<br>
+17°/4/2 leersteun: ondersteuning als vermeld in artikel 6 van het decreet van 5 mei 2023 over leersteun;<br>
+17°/4/3 leersteunmodel: het leersteunmodel voor de organisatie van leersteun in scholen voor gewoon onderwijs, vermeld in hoofdstuk 3 van het decreet van 5 mei 2023 over leersteun;<br>
 17°/5 leerwinst: de verandering in de leerprestaties tussen twee metingen bij dezelfde leerlingen op dezelfde meetschaal. Leerwinst kan verwijzen naar diverse niveaus: het Vlaamse niveau, het schoolniveau, en het leerlingniveau;<br>
 18° lesuur : een prestatie van vijftig minuten;<br>
 19° lokaal comité : het inzake arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokaal overlegorgaan of onderhandelingsorgaan;<br>
@@ -142,18 +148,20 @@ c) persoonlijke en externe factoren;<br>
 28° opleiding : een geheel van onderwijs- en studieactiviteiten, erkend door de overheid en bestaande uit één of meer van volgende componenten : een algemeen vormende, een beroepsgerichte en een doorstroomgerichte component;<br>
 29° opleidingsprofiel : een geheel van vaardigheden, kennis en attitudes, geformuleerd als eindtermen, die binnen een opleiding verworven moeten worden;<br>
 30° opleidingsstructuur : het geheel van alle per studiegebied geordende opleidingen met bijhorende modules;<br>
-31° optie: de opleiding verpleegkunde van het hoger beroepsonderwijs;<br>
+31° ...;<br>
 32° ouders : de personen die het ouderlijk gezag uitoefenen of in recht of in feite de leerling onder hun bewaring hebben.<br>
 In het geval de leerling meerderjarig is, wordt onder dit begrip de meerderjarige leerling verstaan;<br>
+32°/1&nbsp;&nbsp; &nbsp;OV4-verslag: het verslag, vermeld in artikel 294, §2, 2;<br>
 33° ...<br>
 33° /0 pakket: een of meerdere vakken waarmee de doelen van de overeenstemmende basisoptie worden gerealiseerd;<br>
 33° /1 pedagogisch project : het geheel van de fundamentele uitgangspunten voor een school, een centrum voor deeltijds beroepssecundair onderwijs of, voor wat de opleiding in de leertijd betreft, een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, en haar werking;<br>
 34° plage-uren : uren die zich situeren boven het minimum maar binnen het maximum aantal uren van de opdracht zoals bepaald in de onderwijsreglementering;<br>
 34° /1 preventorium: medische instelling die onder meer in residentieel verband kuurmogelijkheden biedt aan jongeren waar buitengewoon onderwijs van type 5 gegeven wordt;<br>
-35° programmatie : een wijziging van het onderwijsaanbod door middel van :<br>
-a) hetzij de oprichting van een op 1 oktober van het voorafgaande schooljaar niet bestaande school, met de bedoeling die school in aanmerking te laten komen voor financiering of subsidiëring;<br>
-b) hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljaren niet georganiseerd structuuronderdeel (dat niet onder toepassing van c) valt), met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Voor wat betreft een optie, georganiseerd als Se-n-Se, wordt evenwel 1 oktober en 1 maart van de twee voorafgaande schooljaren als datum vooropgesteld; De heroprichting van een structuuronderdeel na onderbreking ten gevolge van een tijdelijk project als bedoeld in het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, wordt evenwel niet als programmatie beschouwd; De heroprichting van een niet-duaal structuuronderdeel, na onderbreking ten gevolge van de oprichting van een inhoudelijk verwant duaal structuuronderdeel, wordt ook niet als programmatie beschouwd;<br>
-c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component « topsport », met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, moet de betrokken school ten minste één sportdiscipline organiseren die eerder ook al aan die school werd toegewezen;<br>
+35° programmatie: een wijziging van het onderwijsaanbod door middel van:<br>
+a)&nbsp;&nbsp; &nbsp;hetzij de oprichting van een school die nog niet bestond op 1 oktober van het voorafgaande schooljaar, met de bedoeling die school in aanmerking te laten komen voor financiering of subsidiëring;<br>
+b)&nbsp;&nbsp; &nbsp;hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljaren niet georganiseerd structuuronderdeel dat niet onder toepassing van punt c) of d) valt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval, van de twee voorafgaande schooljaren;<br>
+c)&nbsp;&nbsp; &nbsp;hetzij de heroprichting op 1 oktober van een structuuronderdeel dat minstens drie schooljaren terug is opgeheven doordat de toepasbare leerlingennorm niet werd bereikt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval;<br>
+d)&nbsp;&nbsp; &nbsp;hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component ‘topsport’, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, organiseert de betrokken school ten minste één sportdiscipline die eerder ook al aan die school is toegewezen;<br>
 36° ...<br>
 36° /1 remediërende maatregelen: maatregelen waarbij de school effectieve vormen van aangepaste leerhulp verstrekt binnen het gemeenschappelijk curriculum;<br>
 37° secundair onderwijs : het voltijds gewoon en buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs;<br>
@@ -190,7 +198,7 @@ In afwijking van punt 1° geldt voor de bepalingen aangaande het `recht op insch
 47° voltijds secundair onderwijs :<br>
 - het onderwijs dat aan regelmatige leerlingen van het gewoon secundair onderwijs en van opleidingsvorm 4 van het buitengewoon secundair onderwijs wordt verstrekt naar rata van ten minste 28 wekelijkse lesuren gedurende hetzij 40 weken per jaar hetzij 20 weken per jaar in die structuuronderdelen waarvoor de duurtijd in semesters wordt uitgedrukt;<br>
 - het onderwijs dat aan regelmatige leerlingen van opleidingsvormen 1, 2 en 3 van het buitengewoon secundair onderwijs wordt verstrekt naar rata van ten minste 32 wekelijkse lesuren gedurende 40 weken per jaar en rekening houdende met het maximum aantal wekelijkse lesuren dat voor financiering of subsidiering in aanmerking komt;<br>
-- het onderwijs dat aan regelmatige cursisten van de opleiding verpleegkunde van het hoger beroepsonderwijs wordt verstrekt gedurende ten minste 36 wekelijkse lesuren en rekening houdende met het maximum aantal wekelijkse lesuren dat voor financiering of subsidiering in aanmerking komt;<br>
+- het onderwijs dat aan regelmatige cursisten van de opleidingen van het hoger beroepsonderwijs wordt verstrekt gedurende ten minste 36 wekelijkse lesuren en rekening houdende met het maximum aantal wekelijkse lesuren dat voor financiering of subsidiering in aanmerking komt;<br>
 47° /1 ziekenhuisschool: school voor buitengewoon secundair onderwijs van type 5, opleidingsvorm 4, verbonden aan een&nbsp;ziekenhuis of een residentiële setting of een preventorium;<br>
 47° /2 zorgcontinuüm: opeenvolging van de fasen in de organisatie van de onderwijsomgeving van brede basiszorg, verhoogde zorg en uitbreiding van zorg;<br>
 48° 1 februari : hetzij 1 februari, hetzij de eerstvolgende lesdag indien 1 februari een vrije dag is, waarbij een facultatieve verlofdag of een pedagogische studiedag ook als een lesdag wordt beschouwd;<br>
@@ -291,7 +299,7 @@ Deze paragraaf geldt niet voor een school die wordt opgericht.
 5° bepalingen naleven over de onderwijstaal en de taalkennis van het personeel;<br>
 6° een structuur aannemen zoals vastgesteld bij decreet. Onder structuur wordt begrepen de grote indelingen binnen een onderwijsniveau en de duur van die indelingen;<br>
 7° de reglementering betreffende verlofregeling en aanwending van de schooltijd in acht nemen;<br>
-8° beantwoorden aan de op het structuuronderdeel toepasbare decretale en reglementaire bepalingen inzake erkende onderwijskwalificaties, eindtermen, ontwikkelingsdoelen, specifieke eindtermen, erkende beroepskwalificaties, curriculumdossiers, leerplannen of individuele handelingsplannen;<br>
+8° beantwoorden aan de op het structuuronderdeel toepasbare decretale en reglementaire bepalingen inzake erkende onderwijskwalificaties, eindtermen, ontwikkelingsdoelen, specifieke eindtermen, erkende beroepskwalificaties, curriculumdossiers, leerplannen of individueel aangepaste curricula;<br>
 9° samenwerkingsafspraken maken met een centrum voor leerlingenbegeleiding en een beleid op leerlingenbegeleiding voeren;<br>
 10° ...<br>
 11° als school in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de rechten van de mens en van het kind in het bijzonder eerbiedigen;<br>
@@ -302,7 +310,7 @@ c) een schoolwerkplan, schoolreglement en schoolboeken gebruiken in overeenstemm
 d) begeleid worden door de begeleidingsdienst van het Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen vanaf een door de Vlaamse Regering te bepalen datum;<br>
 13° voldoen aan de reglementaire programmatie- of rationalisatienormen;<br>
 14° deelnemen aan en samenwerken binnen een lokaal overlegplatform, opgericht overeenkomstig artikel IV.2, § 2, eerste lid, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I. Onder samenwerken wordt verstaan de in artikel IV.4, eerste lid, 1°, van hetzelfde decreet vermelde gegevens leveren, en de in het kader van artikel IV.4, eerste lid, van hetzelfde decreet gemaakte afspraken naleven;<br>
-Dit punt is niet van toepassing op ziekenhuisscholen.<br>
+Dit punt is niet van toepassing op ziekenhuisscholen en op leersteuncentra die deel uitmaken van een school voor buitengewoon onderwijs als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun.<br>
 15° wat het gemeenschapsonderwijs betreft : de bevoegdheden van de schoolraad respecteren;<br>
 16° wat het gesubsidieerd onderwijs betreft : geen afbreuk doen aan de besluitvormingsprocedures, vermeld in artikelen 19 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad. Deze voorwaarde sluit tevens in dat de directeur met betrekking tot de hem door het schoolbestuur gedelegeerde bevoegdheden die voorwerp uitmaken van advies of overleg, voldoende gemandateerd wordt om in de verhouding tot de schoolraad autonoom te kunnen optreden;<br>
 17° ...;<br>
@@ -329,15 +337,21 @@ In een gefinancierd of gesubsidieerd structuuronderdeel, met inbegrip van voorlo
 <br>
 § 3. De in de financiering of subsidiëring opgenomen structuuronderdelen secundair onderwijs worden per schooljaar met een dienstbrief van het Agentschap voor Onderwijsdiensten bevestigd en meegedeeld aan het betrokken schoolbestuur. De dienstbrief bevat de vestigingsplaatsen waar de gefinancierde of gesubsidieerde structuuronderdelen kunnen worden georganiseerd.<br>
 <br>
-§ 4. Voor de ingebruikname van een nieuwe vestigingsplaats dient met ingang van het schooljaar 2021-2022 het schoolbestuur een gemotiveerde aanvraag in bij de bevoegde diensten van de Vlaamse Gemeenschap, met toevoeging van het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de aanvraag in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+§ 4. De ingebruikname van een nieuwe vestigingsplaats wordt door het schoolbestuur bij de bevoegde diensten van de Vlaamse Gemeenschap:<br>
+1° hetzij gemeld uiterlijk op het tijdstip van de ingebruikname: als de nieuwe vestigingsplaats in dezelfde of aangrenzende gemeente ligt van de bestaande hoofdvestigingsplaats van de school;<br>
+2° hetzij gemotiveerd aangevraagd: als de nieuwe vestigingsplaats niet in dezelfde of aangrenzende gemeente ligt van de bestaande hoofdvestigingsplaats van de school.<br>
 <br>
-In de aanvraag, waarvan het modelformulier door de Vlaamse Regering wordt vastgelegd, wordt verklaard dat:<br>
+In de melding of aanvraag, vermeld in het eerste lid, wordt verklaard dat:<br>
 1° de vestigingsplaats bij ingebruikname beantwoordt aan de voorwaarden voor de hygiëne, de veiligheid en de bewoonbaarheid;<br>
-2° het schoolbestuur op de hoogte is van aanbevelingen of tekorten die de onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd over de bewoonbaarheid, de veiligheid en de hygiëne van de betreffende gebouwen, als een vestigingsplaats in gebruik wordt genomen waar een andere onderwijsinstelling gevestigd is of voordien was. Het schoolbestuur vermeldt in dat geval ook het advies van de onderwijsinspectie over de bewoonbaarheid, de veiligheid en de hygiëne van de nieuwe vestigingsplaats.<br>
+2° het schoolbestuur op de hoogte is van aanbevelingen of tekorten die de onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd over de bewoonbaarheid, de veiligheid en de hygiëne van de betreffende gebouwen als een vestigingsplaats in gebruik wordt genomen waar een andere onderwijsinstelling gevestigd is of voordien was. Het schoolbestuur vermeldt in dat geval ook het advies van de onderwijsinspectie over de bewoonbaarheid, de veiligheid en de hygiëne van de nieuwe vestigingsplaats.<br>
 <br>
-De Vlaamse Regering neemt een beslissing uiterlijk drie maanden na indiening van de aanvraag en na advies van de bevoegde diensten van de Vlaamse Gemeenschap. Bij overschrijding van die termijn is de aanvraag van rechtswege goedgekeurd.<br>
+Bij de melding of aanvraag, vermeld in het eerste lid, worden de volgende documenten gevoegd:<br>
+1°&nbsp;&nbsp; &nbsp;het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2°&nbsp;&nbsp; &nbsp;als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de nieuwe vestigingsplaats in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
-Deze paragraaf geldt niet voor een school die, al dan niet als gevolg van een herstructurering van bestaande scholen, wordt opgericht.
+In geval van een aanvraag als vermeld in het eerste lid, 2°, beslist de Vlaamse Regering uiterlijk drie maanden na de indiening van die aanvraag en nadat ze het advies van de bevoegde diensten van de Vlaamse Gemeenschap heeft ontvangen. De voormelde beslissingstermijn geldt als ordetermijn.<br>
+<br>
+Deze paragraaf geldt niet voor het schooljaar waarin een school, al dan niet als gevolg van een herstructurering van bestaande scholen, wordt opgericht.
 
 ## Afdeling 2. Financiering en subsidiering van de personeelsleden
 
@@ -451,104 +465,101 @@ Indien een schoolbestuur van een school het vastbenoemd personeel van deze schoo
 
 De uren-leraar die worden berekend voor een erkende godsdienst, voor niet-confessionele zedenleer, voor cultuurbeschouwing respectievelijk voor eigen cultuur en religie, dienen voor de desbetreffende cursus te worden aangewend, hetzij als lesuren hetzij als uren die geen lesuren zijn doch ermee gelijkgesteld worden. Het principe van de aanwending voor de desbetreffende cursus geldt ook indien de uren-leraar het voorwerp uitmaken van herverdeling of overdracht. Uitsluitend indien de voor de betrokken cursus bevoegde onderwijsinspectie zich akkoord verklaart, kunnen de uren-leraar voor aanwending naar een andere levensbeschouwelijke cursus worden overgeheveld. (21)
 
-## [Onderafdeling 2/1 Onderwijzend personeel - lerarenplatform (ing. decr. 6 juli 2018, art. 28, I: 1 oktober 2018)]
+## ...
 
 ### ART 22/1.
 
-Deze onderafdeling is van toepassing op de wervingsambten van het bestuurs- en onderwijzend personeel, die worden vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsi-dieerd onderwijs van 27 maart 1991 en die worden tewerkgesteld in het secundair onderwijs.
+...
 
 ### ART 22/2.
 
-Voor de toepassing van deze onderafdeling wordt begrepen onder :<br>
-1° reguliere vervanging : een vervanging van een afwezigheid van minder dan een schooljaar die voldoet aan volgende voorwaarden :<br>
-- het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
-- het personeelslid dat afwezig is, kan worden vervangen volgens de gangbare financierings- en subsidiëringsregels;<br>
-2° samenwerkingsplatform :<br>
-- een scholengemeenschap of;<br>
-- meerdere scholengemeenschappen of;<br>
-- een scholengemeenschap en één of meer scholen die niet tot een scholengemeenschap behoren of;<br>
-- meerdere scholengemeenschappen en één of meer scholen die niet tot een scholengemeenschap behoren;<br>
-3° inzetbaarheidspercentage : de verhouding tussen de totale duur van de uitgeoefende reguliere vervangingen, uitgedrukt in kalenderdagen, en de totale duur van de aanstelling, uitgedrukt in kalenderdagen, telkens vermenigvuldigd met het volume van de opdracht.
+...
 
 ### ART 22/3.
 
-Tijdens het schooljaar 2018-2019 en het schooljaar 2019-2020&nbsp;wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
+...
 
 ### ART 22/4.
 
-In het secundair onderwijs kunnen een aantal projectscholen die deel uitmaken van een samenwerkingsplatform deelnemen binnen het voorziene aantal voltijdse equivalenten. De selectie van de samenwerkingsplatformen gebeurt door de Vlaamse Regering op voorstel van de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners op basis van volgende criteria :<br>
-- evenredige spreiding over de netten volgens lesurenpakket;<br>
-- geografische spreiding;<br>
-- grootte van het samenwerkingsplatform;<br>
-- de inhoud van de protocollen van de onderhandelingen.
+...
 
 ### ART 22/5.
 
-De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
-- de deelname aan het lerarenplatform;<br>
-- de criteria van aanstelling van de betrokken personeelsleden;<br>
-- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
-- de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.
+...
 
 ### ART 22/6.
 
-De totale som van de uren-leraar en lesuren zoals bepaald in artikel 22/8 van alle deelnemende scholen mag niet meer bedragen dan 167.448 uren-leraar/lesuren. Het aantal beschikbare voltijdse equivalenten bedraagt 394,69 voor het secundair onderwijs voor het totaal van alle deelnemende scholen. De omzetting van voltijds equivalenten naar lesuren of uren-leraar gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 21,47.
+...
 
 ### ART 22/7.
 
-Alle deelnemende scholen ontvangen lesuren of uren-leraar voor de aanstelling van personeelsleden in het lerarenplatform. Het volume van deze lesuren of uren-leraar per deelnemende school wordt berekend a rato van het aandeel van de lesuren of uren-leraar van vorig schooljaar van de betreffende school ten opzichte van het totaal aantal lesuren of uren-leraar van vorig schooljaar van alle deelnemende scholen samen waarbij onder het totaal aantal lesuren of uren-leraar wordt verstaan de som van het totale aantal :<br>
-- uren-leraar voor de levensbeschouwelijke en de niet-levensbeschouwelijke vakken;<br>
-- uren-leraar geïntegreerd ondersteuningsaanbod;<br>
-- lesuren voor levensbeschouwing en niet-levensbeschouwing;<br>
-- lesuren geïntegreerd ondersteuningsaanbod.
+...
 
 ### ART 22/8.
 
-De lesuren en uren-leraar voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lesuren en uren-leraar kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
-<br>
-Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het bestuurs- en onderwijzend personeel.<br>
-<br>
-De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.
+...
 
 ### ART 22/9.
 
-Het personeelslid wordt voor ten minste een halftijdse opdracht aangesteld in de scholen die deel uitmaken van het samenwerkingsplatform. De halftijdse opdracht kan bestaan uit lesuren en uren-leraar voor het lerarenplatform en andere lesuren en uren-leraar.
+...
 
 ### ART 22/10.
 
-Een personeelslid in het lerarenplatform wordt ingezet voor reguliere vervangingen.
+...
 
 ### ART 22/11.
 
-Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.
+...
 
 ### ART 22/12.
 
-De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
-<br>
-Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar vermeerderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.
+...
 
 ### ART 22/13.
 
-Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel.
+...
 
 ### ART 22/14.
 
-&nbsp;Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.
+...
 
 ## [Onderafdeling 2/2 Flexibilisering van de vervangingen (verv. decr. 14 juli 2023, art. 70, I: 1 september 2023)]
 
 ### ART 22/15.
 
-...
+Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2023-2024 en 2024-2025 in een school voor gewoon secundair onderwijs of in een centrum voor deeltijds onderwijs de uren-leraar van de betrekkingen in een wervingsambt van het bestuursen onderwijzend personeel in een school die in aanmerking komen voor een reguliere vervanging als vermeld in artikel 22/2, 1°, omzetten in punten voor de aanwending in de school of in het centrum in ambten van het ondersteunend personeel.<br>
+<br>
+Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2023-2024 en 2024-2025 in een school voor buitengewoon secundair onderwijs de lesuren van de betrekkingen in een wervingsambt van het bestuursen onderwijzend personeel die in aanmerking komen voor een reguliere vervanging als vermeld in artikel 22/2, 1°, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel of in uren voor de aanwending in ambten van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel.<br>
+<br>
+De omzetting, vermeld in het eerste en tweede lid, geldt altijd maximaal voor de duur van de afwezigheid van de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging als vermeld in artikel 22/2, 1°, en maximaal voor de duur van het lopende schooljaar.<br>
+<br>
+In afwijking van het derde lid eindigt de omzetting, vermeld in het eerste en tweede lid:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Het personeelslid dat tijdelijk aangesteld is in een betrekking die via voormelde omzetting werd ingericht in een ambt van het ondersteunend personeel of in een ambt van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel wordt bij de terugkeer van de titularis ontslagen volgens artikel 23, eerste lid, a), van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of volgens artikel 21, §1, eerste lid, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+2° als het personeelslid dat tijdelijk aangesteld is in een betrekking die via voormelde omzetting werd ingericht in een ambt van het ondersteunend personeel of in een ambt van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel, vrijwillig ontslag neemt volgens artikel 25 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of volgens artikel 26 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. In dit geval eindigt de omzetting voor het overeenkomend deel van de lestijden vanaf het ogenblik dat het ontslag ingaat.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de uren-leraar, vermeld in het eerste lid, kunnen worden omgezet in punten voor het ondersteunend personeel en de wijze waarop de lesuren, vermeld in het tweede lid, kunnen worden omgezet in punten voor het ondersteunend personeel en in uren voor het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel.<br>
+<br>
+De criteria om het tekort aan onderwijzend personeel te bepalen en de aanwending in ambten van het ondersteunend personeel als vermeld in het eerste lid, of in ambten van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel als vermeld in het tweede lid, worden vastgelegd na onderhandeling in het bevoegde lokale comité.<br>
+<br>
+De betrekkingen die opgericht worden in ambten van het ondersteunend personeel als vermeld in het eerste lid, of in ambten van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel als vermeld in het tweede lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.
 
 ### ART 22/16.
 
-...
+Een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs kan tijdens de schooljaren 2023-2024 en 2024-2025 de uren-leraar van een betrekking in een wervingsambt van het bestuursen onderwijzend personeel die in aanmerking komt voor een reguliere vervanging als vermeld in artikel 22/2, 1°, omzetten in een krediet voor de aanwending voor een gastleraar als vermeld in artikel 211, §3, of in artikel 211/1.<br>
+<br>
+Een school voor buitengewoon secundair onderwijs kan de lesuren van een betrekking in een wervingsambt van het bestuursen onderwijzend personeel die in aanmerking komt voor een reguliere vervanging als vermeld in artikel 22/2, 1°, omzetten in een krediet voor de aanwending voor een gastleraar als vermeld in artikel 308/4 of in artikel 308/5.<br>
+<br>
+De omzetting, vermeld in het eerste en tweede lid, geldt steeds maximaal voor de duur van de afwezigheid van de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging als vermeld in artikel 22/2, 1°, en maximaal voor de duur van het lopende schooljaar.<br>
+<br>
+In afwijking van het derde lid eindigt de omzetting, vermeld in het eerste en tweede lid:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de gastleraar;<br>
+2° &nbsp; als de gastleraar vrijwillig een einde maakt aan zijn aanstelling.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de wijze waarop de uren-leraar, vermeld in het eerste lid, en de lesuren, vermeld in het tweede lid, kunnen worden omgezet in een krediet, de wijze van melding van voormelde omzetting aan de bevoegde dienst die de Vlaamse Regering aanwijst, de grootte van het krediet per uur-leraar of per lesuur dat wordt omgezet en de wijze van toekenning van het krediet.
 
 ### ART 22/17.
 
-Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op 1 juli 2020.
+...
 
 ## [Onderafdeling 2/3 Aanvangsbegeleiding (ing. decr. 15 maart 2019, art. 38, I: 1 september 2019)]
 
@@ -698,7 +709,70 @@ In het secundair onderwijs wordt elk schooljaar aan een scholengemeenschap   res
 
 ### ART. 25.
 
-§ 1. De globale puntenenveloppe toegekend aan een scholengemeenschap is   samengesteld uit de onderdelen vermeld in § 2 tot en met § 12 hierna.<BR><BR>§   2. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor   elke school voor voltijds gewoon secundair onderwijs die ten minste 600   regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het   daaropvolgende schooljaar, ten minste 550 regelmatige leerlingen. Desbetreffend   aantal punten wordt vermenigvuldigd met 2, 3 dan wel 4 indien het minimum aantal   leerlingen respectievelijk 1.200 en 1.150, 1.800 en 1.750, of 2.400 en 2.350   bedraagt. Het aantal punten blijft gedurende twee opeenvolgende schooljaren   toegekend indien het minimum aantal leerlingen niet wordt bereikt. <BR><BR>§ 3.   Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk   centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en dat ten   minste 600 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf   het daaropvolgende schooljaar, ten minste 550 regelmatige leerlingen.   Desbetreffend aantal punten wordt vermenigvuldigd met 2, 3 dan wel 4 indien het   minimum aantal leerlingen respectievelijk 1.200 en 1.150, 1.800 en 1.750, of   2.400 en 2.350 bedraagt.<BR><BR>Het aantal punten blijft gedurende twee   opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet   wordt bereikt. <BR><BR>§ 4. Een door de Vlaamse Regering te bepalen aantal   punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs   die ten minste 300 regelmatige leerlingen telt op de gebruikelijke teldatum of,   vanaf het daaropvolgende schooljaar, ten minste 275 regelmatige leerlingen. Dit   aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien   het minimum aantal leerlingen niet wordt bereikt.<BR><BR>§ 5. Een door de   Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor   voltijds gewoon secundair onderwijs met een eerste graad, met technisch   secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde,   indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag   erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap   gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht   als praktische vakken of daaraan gelijkgesteld in die school 7 maal de   minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van   leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.   Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op   1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien   die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of   gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische   vakken of daaraan gelijkgesteld in die school niet lager ligt dan 6 maal de   minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar,   belast met het geven van praktische vakken of daaraan gelijkgesteld.<BR><BR>Het   in het eerste lid bedoeld aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6,   7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het   voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een   vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde   totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan   gelijkgesteld in die school 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50   (en zo verder per schijf van 7) maal de minimumprestaties bereikt die vereist   zijn voor een voltijdse betrekking van leraar, belast met het geven van   praktische vakken of daaraan gelijkgesteld.<BR><BR>Vanaf het daaropvolgende   schooljaar gebeurt de vermenigvuldiging van het in het eerste lid bedoeld aantal   punten met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1   februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien   die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of   gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische   vakken of daaraan gelijkgesteld in die school 14, 18, 21, 28, 30, 32, 35, 41   respectievelijk 47 (en zo verder per schijf van 6) maal de minimumprestaties   bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met   het geven van praktische vakken of daaraan gelijkgesteld.<BR><BR>Het aantal   punten blijft toegekend indien het minimum gedurende twee opeenvolgende   schooljaren niet wordt bereikt.<BR><BR>Voor de toepassing van deze bepalingen   :<BR>1° worden de volgende praktische vakken of daaraan gelijkgesteld niet in   aanmerking genomen : stage algemene verpleegkunde, stage medische wetenschappen,   stage psychiatrische verpleegkunde, stage sociale wetenschappen, stage   verzorging, stage ziekenhuisverpleegkunde; <BR>2° komen de ingerichte   uren-leraar praktische vakken of daaraan gelijkgesteld van een centrum voor   deeltijds beroepssecundair onderwijs dat verbonden is aan een school met   voltijds gewoon technisch of beroepssecundair onderwijs, in aanmerking in de   school voor voltijds gewoon secundair onderwijs waar ze worden ingericht. De   uren-leraar, aangewend voor voordrachtgevers, worden voor een derde als   praktische vakken of daaraan gelijkgesteld beschouwd; <BR>3° mogen de ingerichte   uren-leraar praktische vakken of daaraan gelijkgesteld van een school die   uitsluitend de eerste graad of de eerste en de tweede graad organiseert gevoegd   worden bij één school die tot dezelfde scholengemeenschap behoort en die geen   eerste graad organiseert.<BR><BR>§ 6. Een door de Vlaamse Regering te bepalen   aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair   onderwijs dat autonoom is, indien op 1 februari van het voorafgaand schooljaar   of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door   de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse   uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat   centrum 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse   betrekking van leraar, belast met het geven van praktische vakken of daar aan   gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten   toegekend indien op 1 februari van het voorafgaand schooljaar of de   eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de   Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse   uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat   centrum niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor   een voltijdse betrekking van leraar, belast met het geven van praktische vakken   of daaraan gelijkgesteld.<BR><BR>Het in het eerste lid bedoeld aantal punten   wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo   verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende   lesdag erna indien die datum op een vrije dag valt het door de Vlaamse   Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar   ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 15, 19,   22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per schijf van 7) maal   de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van   leraar, belast met het geven van praktische vakken of daaraan   gelijkgesteld.<BR><BR>Vanaf het daaropvolgende schooljaar gebeurt de   vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4,   5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het   voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een   vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde   totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan   gelijkgesteld in dat centrum 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47   (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist   zijn voor een voltijdse betrekking van leraar, belast met het geven van   praktische vakken of daaraan gelijkgesteld.<BR><BR>Het aantal punten blijft   toegekend indien het minimum gedurende twee opeenvolgende schooljaren niet wordt   bereikt.<BR><BR>Voor de toepassing van deze bepalingen worden de uren-leraar,   aangewend voor voordrachtgevers, voor een derde als praktische vakken of daaraan   gelijkgesteld beschouwd.<BR><BR>§ 7. Een door de Vlaamse Regering te bepalen   aantal punten wordt toegekend voor elke school voor buitengewoon secundair   onderwijs, indien op 1 februari van het voorafgaand schooljaar of de   eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de   Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse   lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan   gelijkgesteld in die school ten minste 210 bedraagt. Dat aantal punten wordt   vermenigvuldigd met 2, 4, 5, 6, 8, 9, 10 respectievelijk 12 (en zo telkens per 1   verder), indien het totaal aantal wekelijkse lesuren ingericht als   beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die   school ten minste 420, 630, 840, 1.050, 1.260, 1.470, 1.680, 1.890 (en zo verder   per schijf van 210) bedraagt. <BR><BR>§ 8. De door de Vlaamse Gemeenschap   gefinancierde of gesubsidieerde wekelijkse uren-leraar of lesuren, ingericht als   beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld, bedoeld in   § 5, § 6 en § 7, die in een school of centrum ontoereikend zijn om het door de   Vlaamse Regering te bepalen aantal punten, of een veelvoud daarvan, te   genereren, kunnen op het niveau van de scholengemeenschap samengevoegd worden om   alsnog tot desbetreffend aantal punten, of een veelvoud daarvan, te leiden.   <BR><BR>§ 9. Een aantal punten wordt toegekend dat als volgt wordt berekend   :<BR>1° de som van het aantal regelmatige leerlingen van de tot de   scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs op   de gebruikelijke teldatum vermenigvuldigd met een door de Vlaamse Regering te   bepalen coëfficiënt. Deze coëfficiënt ligt alleszins hoger voor een school die   in toepassing van de bepalingen inzake gelijke onderwijskansen recht heeft op   extra uren-leraar, dan voor een school die dat niet heeft. Het resultaat van   elke vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal;   en <BR>2° de som van het aantal wekelijkse uren-leraar van de tot de   scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs   van het betreffende schooljaar, berekend in uitvoering van de bepalingen van   artikel 209, vermenigvuldigd met een door de Vlaamse Regering te bepalen   coëfficiënt. Deze coëfficiënt ligt alleszins hoger voor een school die in   toepassing van de bepalingen inzake gelijke onderwijskansen recht heeft op extra   uren-leraar dan voor een school die dat niet heeft. Het resultaat van elke   vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal;   en<BR>3° de som van het aantal regelmatige leerlingen van de tot de   scholengemeenschap behorende scholen voor buitengewoon secundair onderwijs op de   gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te   bepalen coëfficiënt die varieert naargelang van de omvang van de   leerlingenpopulatie. Het resultaat van deze vermenigvuldiging wordt afgerond   naar het dichtstbijliggende gehele getal. <BR><BR>§ 10. Een aantal punten wordt   toegekend dat als volgt wordt berekend :<BR>1° de som van het aantal regelmatige   leerlingen van de tot de scholengemeenschap behorende scholen voor voltijds   gewoon secundair onderwijs op de gebruikelijke teldatum vermenigvuldigd met een   door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor   alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van de   vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal;   en<BR>2° de som van het aantal wekelijkse uren-leraar van de tot de   scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs   van het betreffende schooljaar, berekend in uitvoering van de bepalingen van   artikel 209, vermenigvuldigd met een door de Vlaamse Regering te bepalen   coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing   van deze bepaling vallen. Het resultaat van elke vermenigvuldiging wordt   afgerond naar het dichtstbijliggende gehele getal; en<BR>3° de som van het   aantal regelmatige leerlingen van de tot de scholengemeenschap behorende scholen   voor buitengewoon secundair onderwijs op de gebruikelijke teldatum,   vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De   coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling   vallen. Het resultaat van deze vermenigvuldiging wordt afgerond naar het   dichtstbijliggende gehele getal. <BR><BR>§ 11. Een aantal punten wordt toegekend   afhankelijk van het aantal regelmatige leerlingen van alle scholen van de   scholengemeenschap, met inbegrip van de centra voor deeltijds beroepssecundair   onderwijs,op de gebruikelijke teldatum, meer bepaald :<BR>a) tussen 900 en 3999   leerlingen : 120 punten;<BR>b) tussen 4.000 en 6.499 leerlingen : 180   punten;<BR>c) tussen 6.500 en 7.999 leerlingen : 240 punten;<BR>d) tussen 8.000   en 9.499 leerlingen : 300 punten;<BR>e) tussen 9.000 en 10.999 leerlingen : 360   punten;<BR>f) vanaf 11.000 leerlingen : 420 punten.<BR><BR>Het aantal van 120   punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het   minimum van 900 leerlingen niet meer wordt bereikt.<BR><BR>§ 12. Een door de   Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor   deeltijds beroepssecundair onderwijs dat verbonden is aan een school met   voltijds gewoon technisch of beroepssecundair onderwijs.<BR><BR>§ 13. Bij het   bepalen van de diverse coëfficiënten, zoals vermeld in § 9 en § 10, houdt de   Vlaamse Regering er rekening mee dat, op vergelijkbare basis, het eindresultaat   van de berekening van de globale puntenenveloppe voordeliger is voor   scholengemeenschappen dan voor scholen die niet tot een scholengemeenschap   behoren.<BR><BR>§ 14. De invoering van een globale puntenenveloppe per 1   september 2009 wordt niet geassocieerd met het programmatieprincipe, wat   betekent dat de toepassing, in voorkomend geval, van de meer voordelige normen   of het tijdelijk niet hanteren van normen zoals vermeld in § 2 tot en met § 6,   ook voor het schooljaar 2009-2010 gehandhaafd blijft. (24)
+§ 1. De globale puntenenveloppe toegekend aan een scholengemeenschap is samengesteld uit de onderdelen vermeld in § 2 tot en met § 12 hierna.<br>
+<br>
+§ 2. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor voltijds gewoon secundair onderwijs die ten minste 600 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 550 regelmatige leerlingen. Desbetreffend aantal punten wordt vermenigvuldigd met 2, 3 dan wel 4 indien het minimum aantal leerlingen respectievelijk 1.200 en 1.150, 1.800 en 1.750, of 2.400 en 2.350 bedraagt. Het aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
+<br>
+§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en dat ten minste 600 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 550 regelmatige leerlingen. Desbetreffend aantal punten wordt vermenigvuldigd met 2, 3 dan wel 4 indien het minimum aantal leerlingen respectievelijk 1.200 en 1.150, 1.800 en 1.750, of 2.400 en 2.350 bedraagt.<br>
+<br>
+Het aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
+<br>
+§ 4. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs die ten minste 300 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 275 regelmatige leerlingen. Dit aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
+<br>
+§ 5. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met hoger beroepsonderwijs, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het in het eerste lid bedoeld aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per schijf van 7) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Vanaf het daaropvolgende schooljaar gebeurt de vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47 (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het aantal punten blijft toegekend indien het minimum gedurende twee opeenvolgende schooljaren niet wordt bereikt.<br>
+<br>
+Voor de toepassing van deze bepalingen :<br>
+1° worden de volgende praktische vakken of daaraan gelijkgesteld niet in aanmerking genomen : stage algemene verpleegkunde, stage medische wetenschappen, stage psychiatrische verpleegkunde, stage sociale wetenschappen, stage verzorging, stage ziekenhuisverpleegkunde;<br>
+2° komen de ingerichte uren-leraar praktische vakken of daaraan gelijkgesteld van een centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan een school met voltijds gewoon technisch of beroepssecundair onderwijs, in aanmerking in de school voor voltijds gewoon secundair onderwijs waar ze worden ingericht. De uren-leraar, aangewend voor gastleraren, worden voor een derde als praktische vakken of daaraan gelijkgesteld beschouwd;<br>
+3° mogen de ingerichte uren-leraar praktische vakken of daaraan gelijkgesteld van een school die uitsluitend de eerste graad of de eerste en de tweede graad organiseert gevoegd worden bij één school die tot dezelfde scholengemeenschap behoort en die geen eerste graad organiseert.<br>
+<br>
+§ 6. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat autonoom is, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daar aan gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het in het eerste lid bedoeld aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per schijf van 7) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Vanaf het daaropvolgende schooljaar gebeurt de vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47 (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het aantal punten blijft toegekend indien het minimum gedurende twee opeenvolgende schooljaren niet wordt bereikt.<br>
+<br>
+Voor de toepassing van deze bepalingen worden de uren-leraar, aangewend voor gastleraren, voor een derde als praktische vakken of daaraan gelijkgesteld beschouwd.<br>
+<br>
+§ 7. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 210 bedraagt. Dat aantal punten wordt vermenigvuldigd met 2, 4, 5, 6, 8, 9, 10 respectievelijk 12 (en zo telkens per 1 verder), indien het totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 420, 630, 840, 1.050, 1.260, 1.470, 1.680, 1.890 (en zo verder per schijf van 210) bedraagt.<br>
+<br>
+In afwijking van het eerste lid van deze paragraaf, wordt voor de berekening van de globale puntenenveloppe voor schooljaar 2023-2024 geen rekening gehouden met de lesuren beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld waarin ondersteuners zijn aangesteld in schooljaar 2022-2023.<br>
+<br>
+§ 8. De door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde wekelijkse uren-leraar of lesuren, ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld, bedoeld in § 5, § 6 en § 7, die in een school of centrum ontoereikend zijn om het door de Vlaamse Regering te bepalen aantal punten, of een veelvoud daarvan, te genereren, kunnen op het niveau van de scholengemeenschap samengevoegd worden om alsnog tot desbetreffend aantal punten, of een veelvoud daarvan, te leiden.<br>
+<br>
+§ 9. Een aantal punten wordt toegekend dat als volgt wordt berekend :<br>
+1° de som van het aantal regelmatige leerlingen van de tot de scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs op de gebruikelijke teldatum vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. Deze coëfficiënt ligt alleszins hoger voor een school die in toepassing van de bepalingen inzake gelijke onderwijskansen recht heeft op extra uren-leraar, dan voor een school die dat niet heeft. Het resultaat van elke vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal; en<br>
+2° de som van het aantal wekelijkse uren-leraar van de tot de scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs van het betreffende schooljaar, berekend in uitvoering van de bepalingen van artikel 209, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. Deze coëfficiënt ligt alleszins hoger voor een school die in toepassing van de bepalingen inzake gelijke onderwijskansen recht heeft op extra uren-leraar dan voor een school die dat niet heeft. Het resultaat van elke vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal; en<br>
+3° de som van het aantal regelmatige leerlingen van de tot de scholengemeenschap behorende scholen voor buitengewoon secundair onderwijs op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt die varieert naargelang van de omvang van de leerlingenpopulatie. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal.<br>
+<br>
+§ 10. Een aantal punten wordt toegekend dat als volgt wordt berekend :<br>
+1° de som van het aantal regelmatige leerlingen van de tot de scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs op de gebruikelijke teldatum vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van de vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal; en<br>
+2° de som van het aantal wekelijkse uren-leraar van de tot de scholengemeenschap behorende scholen voor voltijds gewoon secundair onderwijs van het betreffende schooljaar, berekend in uitvoering van de bepalingen van artikel 209, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van elke vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal; en<br>
+3° de som van het aantal regelmatige leerlingen van de tot de scholengemeenschap behorende scholen voor buitengewoon secundair onderwijs op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal.<br>
+<br>
+§ 11. Een aantal punten wordt toegekend afhankelijk van het aantal regelmatige leerlingen van alle scholen van de scholengemeenschap, met inbegrip van de centra voor deeltijds beroepssecundair onderwijs,op de gebruikelijke teldatum, meer bepaald :<br>
+a) tussen 900 en 3999 leerlingen : 120 punten;<br>
+b) tussen 4.000 en 6.499 leerlingen : 180 punten;<br>
+c) tussen 6.500 en 7.999 leerlingen : 240 punten;<br>
+d) tussen 8.000 en 9.499 leerlingen : 300 punten;<br>
+e) tussen 9.000 en 10.999 leerlingen : 360 punten;<br>
+f) vanaf 11.000 leerlingen : 420 punten.<br>
+<br>
+Het aantal van 120 punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum van 900 leerlingen niet meer wordt bereikt.<br>
+<br>
+§ 12. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan een school met voltijds gewoon technisch of beroepssecundair onderwijs.<br>
+<br>
+§ 13. Bij het bepalen van de diverse coëfficiënten, zoals vermeld in § 9 en § 10, houdt de Vlaamse Regering er rekening mee dat, op vergelijkbare basis, het eindresultaat van de berekening van de globale puntenenveloppe voordeliger is voor scholengemeenschappen dan voor scholen die niet tot een scholengemeenschap behoren.<br>
+<br>
+§ 14. ...
 
 ### ART. 26.
 
@@ -708,7 +782,7 @@ In het secundair onderwijs wordt elk schooljaar aan een scholengemeenschap   res
 <br>
 Het aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
 <br>
-§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met hoger beroepsonderwijs, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
 <br>
 Het in het eerste lid bedoeld aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per schijf van 7) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar gebeurt de vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in die school 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47 (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
 <br>
@@ -716,7 +790,7 @@ Het aantal punten blijft toegekend indien het minimum gedurende twee opeenvolgen
 <br>
 Voor de toepassing van deze bepalingen :<br>
 1° worden de volgende praktische vakken of daaraan gelijkgesteld niet in aanmerking genomen : stage algemene verpleegkunde, stage medische wetenschappen, stage psychiatrische verpleegkunde, stage sociale wetenschappen, stage verzorging, stage ziekenhuisverpleegkunde;<br>
-2° komen de ingerichte uren-leraar praktische vakken of daaraan gelijkgesteld van een centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan een school met voltijds gewoon technisch of beroepssecundair onderwijs, in aanmerking in de school voor voltijds gewoon secundair onderwijs waar ze worden ingericht. De uren-leraar, aangewend voor voordrachtgevers, worden voor een derde als praktische vakken of daaraan gelijkgesteld beschouwd.<br>
+2° komen de ingerichte uren-leraar praktische vakken of daaraan gelijkgesteld van een centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan een school met voltijds gewoon technisch of beroepssecundair onderwijs, in aanmerking in de school voor voltijds gewoon secundair onderwijs waar ze worden ingericht. De uren-leraar, aangewend voor gastleraren, worden voor een derde als praktische vakken of daaraan gelijkgesteld beschouwd.<br>
 <br>
 § 4. Een aantal punten wordt toegekend dat als volgt wordt berekend :<br>
 1° de som van het aantal regelmatige leerlingen van de school op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. Deze coëfficiënt ligt alleszins hoger voor een school die in toepassing van de bepalingen inzake gelijke onderwijskansen recht heeft op extra uren-leraar dan voor een school die dat niet heeft. Het resultaat van elke vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal; en<br>
@@ -734,15 +808,57 @@ Voor de toepassing van deze bepalingen :<br>
 
 ### ART. 27.
 
-§ 1. De globale puntenenveloppe toegekend aan een school voor buitengewoon secundair onderwijs die niet tot een scholengemeenschap behoort is samengesteld uit de onderdelen vermeld in § 2 tot en met § 5 hierna.<br /><br />§ 2. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs die ten minste 300 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 275 regelmatige leerlingen. Dit aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br /><br />§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 210 bedraagt. Dat aantal punten wordt vermenigvuldigd met 2, 4, 5, 6, 8, 9, 10 respectievelijk 12 (en zo telkens per 1 verder), indien het totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 420, 630, 840, 1.050, 1.260, 1.470, 1.680, 1.890 (en zo verder per schijf van 210) bedraagt. <br /><br />§ 4. Een aantal punten wordt toegekend dat bestaat uit de som van het aantal regelmatige leerlingen van de school op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt die varieert naargelang van de omvang van de leerlingenpopulatie. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal. In afwijking hierop heeft een school voor buitengewoon secundair onderwijs van type 5 die beschouwd wordt als een ziekenhuisschool elk schooljaar recht op 82 punten. <br /><br />§ 5. Een aantal punten wordt toegekend dat bestaat uit de som van het aantal regelmatige leerlingen van de school op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal.<br /><br />§ 6. Bij het bepalen van de diverse coëfficiënten, zoals vermeld in § 4 en § 5, houdt de Vlaamse Regering er rekening mee dat, op vergelijkbare basis, het eindresultaat van de berekening van de globale puntenenveloppe voordeliger is voor scholengemeenschappen dan voor scholen die niet tot een scholengemeenschap behoren.<br /><br />§ 7. De invoering van een globale puntenenveloppe per 1 september 2009 wordt niet geassocieerd met het programmatieprincipe, wat betekent dat de toepassing, in voorkomend geval, van de meer voordelige normen of het tijdelijk niet hanteren van normen zoals vermeld in § 2, ook voor het schooljaar 2009-2010 gehandhaafd blijft. (26)
+§ 1. De globale puntenenveloppe toegekend aan een school voor buitengewoon secundair onderwijs die niet tot een scholengemeenschap behoort is samengesteld uit de onderdelen vermeld in § 2 tot en met § 5 hierna.<br>
+<br>
+§ 2. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs die ten minste 300 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 275 regelmatige leerlingen. Dit aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
+<br>
+§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elke school voor buitengewoon secundair onderwijs, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 210 bedraagt. Dat aantal punten wordt vermenigvuldigd met 2, 4, 5, 6, 8, 9, 10 respectievelijk 12 (en zo telkens per 1 verder), indien het totaal aantal wekelijkse lesuren ingericht als beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld in die school ten minste 420, 630, 840, 1.050, 1.260, 1.470, 1.680, 1.890 (en zo verder per schijf van 210) bedraagt.<br>
+<br>
+In afwijking van het eerste lid wordt voor de berekening van de globale puntenenveloppe voor schooljaar 2023-2024 geen rekening gehouden met de lesuren beroepsgerichte vorming, praktische vakken of daaraan gelijkgesteld waarin ondersteuners zijn aangesteld in schooljaar 2022-2023.<br>
+<br>
+§ 4. Een aantal punten wordt toegekend dat bestaat uit de som van het aantal regelmatige leerlingen van de school op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt die varieert naargelang van de omvang van de leerlingenpopulatie. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal. In afwijking hierop heeft een school voor buitengewoon secundair onderwijs van type 5 die beschouwd wordt als een ziekenhuisschool elk schooljaar recht op 82 punten.<br>
+<br>
+§ 5. Een aantal punten wordt toegekend dat bestaat uit de som van het aantal regelmatige leerlingen van de school op de gebruikelijke teldatum, vermenigvuldigd met een door de Vlaamse Regering te bepalen coëfficiënt. De coëfficiënt is dezelfde voor alle scholen die onder toepassing van deze bepaling vallen. Het resultaat van deze vermenigvuldiging wordt afgerond naar het dichtstbijliggende gehele getal.<br>
+<br>
+§ 6. Bij het bepalen van de diverse coëfficiënten, zoals vermeld in § 4 en § 5, houdt de Vlaamse Regering er rekening mee dat, op vergelijkbare basis, het eindresultaat van de berekening van de globale puntenenveloppe voordeliger is voor scholengemeenschappen dan voor scholen die niet tot een scholengemeenschap behoren.<br>
+<br>
+§ 7. ...
 
 ### ART. 28.
 
-§ 1. De globale puntenenveloppe toegekend aan een centrum voor deeltijds   beroepssecundair onderwijs dat autonoom is en dat niet tot een   scholengemeenschap behoort is samengesteld uit de onderdelen vermeld in § 2 en §   3 hierna.<BR><BR>§ 2. Een door de Vlaamse Regering te bepalen aantal punten   wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat   autonoom is en dat ten minste 600 regelmatige leerlingen telt op de   gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 550   regelmatige leerlingen. Desbetreffend aantal punten wordt vermenigvuldigd met 2,   3 dan wel 4 indien het minimum aantal leerlingen respectievelijk 1.200 en 1.150,   1.800 en 1.750, of 2.400 en 2.350 bedraagt. <BR><BR>Het aantal punten blijft   gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal   leerlingen niet wordt bereikt. <BR><BR>§ 3. Een door de Vlaamse Regering te   bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds   beroepssecundair onderwijs dat autonoom is, indien op 1 februari van het   voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een   vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde   totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan   gelijkgesteld in dat centrum 7 maal de minimumprestaties bereikt die vereist   zijn voor een voltijdse betrekking van leraar, belast met het geven van   praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar   blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand   schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag   valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal   aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan   gelijkgesteld in dat centrum niet lager ligt dan 6 maal de minimumprestaties die   vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van   praktische vakken of daaraan gelijkgesteld.<BR><BR>Het in het eerste lid bedoeld   aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk   10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de   eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de   Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse   uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat   centrum 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per   schijf van 7) maal de minimumprestaties bereikt die vereist zijn voor een   voltijdse betrekking van leraar, belast met het geven van praktische vakken of   daaraan gelijkgesteld.<BR><BR>Vanaf het daaropvolgende schooljaar gebeurt de   vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4,   5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het   voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een   vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde   totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan   gelijkgesteld in dat centrum 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47   (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist   zijn voor een voltijdse betrekking van leraar, belast met het geven van   praktische vakken of daaraan gelijkgesteld.<BR><BR>Het aantal punten blijft   toegekend indien het minimum gedurende twee opeenvolgende schooljaren niet wordt   bereikt. <BR><BR>Voor de toepassing van deze bepalingen worden de uren-leraar,   aangewend voor voordrachtgevers, voor een derde als praktische vakken of daaraan   gelijkgesteld beschouwd.<BR><BR>§ 4. De invoering van een globale   puntenenveloppe per 1 september 2009 wordt niet geassocieerd met het   programmatieprincipe, wat betekent dat de toepassing, in voorkomend geval, van   de meer voordelige normen of het tijdelijk niet hanteren van normen zoals   vermeld in § 2 en § 3, ook voor het schooljaar 2009-2010 gehandhaafd blijft.   (27)
+§ 1. De globale puntenenveloppe toegekend aan een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en dat niet tot een scholengemeenschap behoort is samengesteld uit de onderdelen vermeld in § 2 en § 3 hierna.<br>
+<br>
+§ 2. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en dat ten minste 600 regelmatige leerlingen telt op de gebruikelijke teldatum of, vanaf het daaropvolgende schooljaar, ten minste 550 regelmatige leerlingen. Desbetreffend aantal punten wordt vermenigvuldigd met 2, 3 dan wel 4 indien het minimum aantal leerlingen respectievelijk 1.200 en 1.150, 1.800 en 1.750, of 2.400 en 2.350 bedraagt.<br>
+<br>
+Het aantal punten blijft gedurende twee opeenvolgende schooljaren toegekend indien het minimum aantal leerlingen niet wordt bereikt.<br>
+<br>
+§ 3. Een door de Vlaamse Regering te bepalen aantal punten wordt toegekend voor elk centrum voor deeltijds beroepssecundair onderwijs dat autonoom is, indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 7 maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld. Vanaf het daaropvolgende schooljaar blijft dat aantal punten toegekend indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum niet lager ligt dan 6 maal de minimumprestaties die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het in het eerste lid bedoeld aantal punten wordt vermenigvuldigd met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 15, 19, 22, 29, 31, 33, 36, 43 respectievelijk 50 (en zo verder per schijf van 7) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Vanaf het daaropvolgende schooljaar gebeurt de vermenigvuldiging van het in het eerste lid bedoeld aantal punten met 2, 3, 4, 5, 6, 7, 8, 9 respectievelijk 10 (en zo verder), indien op 1 februari van het voorafgaand schooljaar of de eerstvolgende lesdag erna indien die datum op een vrije dag valt het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde totaal aantal wekelijkse uren-leraar ingericht als praktische vakken of daaraan gelijkgesteld in dat centrum 14, 18, 21, 28, 30, 32, 35, 41 respectievelijk 47 (en zo verder per schijf van 6) maal de minimumprestaties bereikt die vereist zijn voor een voltijdse betrekking van leraar, belast met het geven van praktische vakken of daaraan gelijkgesteld.<br>
+<br>
+Het aantal punten blijft toegekend indien het minimum gedurende twee opeenvolgende schooljaren niet wordt bereikt.<br>
+<br>
+Voor de toepassing van deze bepalingen worden de uren-leraar, aangewend voor gastleraren, voor een derde als praktische vakken of daaraan gelijkgesteld beschouwd.<br>
+<br>
+§ 4. ...
 
 ### ART. 29.
 
-§ 1. De scholengemeenschap verdeelt jaarlijks haar globale puntenenveloppe, bedoeld in artikel 25, over haar scholen op basis van criteria die worden onderhandeld in het bevoegde lokaal comité. Als in de scholengemeenschap geen akkoord wordt bereikt, verdeelt de scholengemeenschap de punten over haar scholen overeenkomstig de parameters die werden gebruikt voor de toekenning van de puntenenveloppe.<br /><br />Voordat de scholengemeenschap overgaat tot de verdeling van de punten, kan ze een aantal punten voorafnemen om haar beleid inzake taak- en functiedifferentiatie op niveau van de scholengemeenschap gestalte te geven. Deze voorafname bedraagt maximum 10% van de puntenenveloppe.<br /><br />Een overschrijding van de 10% voorafname is mogelijk :<br />1° als de voorafname minder bedraagt dan het aantal punten bedoeld in artikel 25, § 11. In dat geval kan de scholengemeenschap de 10% overschrijden tot het aantal punten overeenkomt met de punten die haar volgens artikel 25, § 11, toekomen op basis van het aantal leerlingen van de scholengemeenschap; <br />2° als zowel over de besteding van de punten als over de gevolgen hiervan op de personeelsleden, binnen het bevoegde lokaal comité van de scholengemeenschap een akkoord wordt bereikt.<br /><br />De scholengemeenschap verschaft ten aanzien van het lokaal comité van de scholengemeenschap en ten aanzien van het personeel van de scholen die tot de scholengemeenschap behoren, volledige klaarheid over de betrekkingen die ze op basis van voorafname van de puntenenveloppe creëert op het niveau van de scholengemeenschap. Tevens toont de scholengemeenschap aan dat de aldus ingerichte betrekkingen haar beleid inzake taak- en functiedifferentiatie op het niveau van de scholengemeenschap daadwerkelijk gestalte geven.<br /><br />De verdeling van de puntenenveloppe mag niet tot gevolg hebben dat bijkomend personeelsleden wegens ontstentenis van betrekking ter beschikking moeten worden gesteld, tenzij ze onmiddellijk kunnen gereaffecteerd of wedertewerkgesteld worden in een vacante of niet-vacante organieke betrekking in de scholengemeenschap en dit voor de duur van het volledige schooljaar. <br /><br />§ 2. In afwijking van § 1, eerste lid, kent de scholengemeenschap tot en met het schooljaar 2013-2014 aan elke instelling voor buitengewoon secundair onderwijs die op of na 1 september 2011 voor het eerst toetreedt tot een scholengemeenschap, ten minste het aantal punten toe dat zij voor deze instelling ontvangt volgens de parameters vastgelegd in artikel 25, § 9, 3°.
+§ 1. De scholengemeenschap verdeelt jaarlijks haar globale puntenenveloppe, bedoeld in artikel 25, over haar scholen op basis van criteria die worden onderhandeld in het bevoegde lokaal comité. Als in de scholengemeenschap geen akkoord wordt bereikt, verdeelt de scholengemeenschap de punten over haar scholen overeenkomstig de parameters die werden gebruikt voor de toekenning van de puntenenveloppe.<br>
+<br>
+Voordat de scholengemeenschap overgaat tot de verdeling van de punten, kan ze een aantal punten voorafnemen om haar beleid inzake taak- en functiedifferentiatie op niveau van de scholengemeenschap gestalte te geven. Deze voorafname bedraagt maximum 10% van de puntenenveloppe.<br>
+<br>
+Een overschrijding van de 10% voorafname is mogelijk :<br>
+1° als de voorafname minder bedraagt dan het aantal punten bedoeld in artikel 25, § 11. In dat geval kan de scholengemeenschap de 10% overschrijden tot het aantal punten overeenkomt met de punten die haar volgens artikel 25, § 11, toekomen op basis van het aantal leerlingen van de scholengemeenschap;<br>
+2° als zowel over de besteding van de punten als over de gevolgen hiervan op de personeelsleden, binnen het bevoegde lokaal comité van de scholengemeenschap een akkoord wordt bereikt.<br>
+<br>
+De scholengemeenschap verschaft ten aanzien van het lokaal comité van de scholengemeenschap en ten aanzien van het personeel van de scholen die tot de scholengemeenschap behoren, volledige klaarheid over de betrekkingen die ze op basis van voorafname van de puntenenveloppe creëert op het niveau van de scholengemeenschap. Tevens toont de scholengemeenschap aan dat de aldus ingerichte betrekkingen haar beleid inzake taak- en functiedifferentiatie op het niveau van de scholengemeenschap daadwerkelijk gestalte geven.<br>
+<br>
+De verdeling van de puntenenveloppe mag niet tot gevolg hebben dat bijkomend personeelsleden wegens ontstentenis van betrekking ter beschikking moeten worden gesteld, tenzij ze onmiddellijk kunnen gereaffecteerd of wedertewerkgesteld worden in een vacante of niet-vacante organieke betrekking in de scholengemeenschap en dit voor de duur van het volledige schooljaar.<br>
+<br>
+§ 2. ...
 
 ### ART. 30.
 
@@ -762,7 +878,7 @@ bevorderingsambt van directeur;<br>
 De school moet bij de aanwending van haar punten daarenboven rekening houden met volgende principes :<br>
 - ambten van het bestuurspersoneel kunnen alleen per halftijdse of voltijdse betrekking opgericht worden;<br>
 - als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;&nbsp;Voor het bepalen van dit percentage wordt geen rekening gehouden met de personeelsleden aangesteld in het ambt van ICT-coördinator.<br>
-- een betrekking in het ambt van technisch adviseur- coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht. De school verschaft ten aanzien van haar lokaal comité en ten aanzien van haar personeel volledige klaarheid over de betrekkingen die ze op basis van haar punten zal oprichten.<br>
+- een betrekking in het ambt van technisch adviseur- coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met hoger beroepsonderwijs, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht. De school verschaft ten aanzien van haar lokaal comité en ten aanzien van haar personeel volledige klaarheid over de betrekkingen die ze op basis van haar punten zal oprichten.<br>
 - als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
 <br>
 § 2.&nbsp;Als de scholengemeenschap, conform artikel 63/1, geen scholengemeenschapsinstelling heeft opgericht, kan ze de punten van de voorafname, bedoeld in artikel 29, § 1, als volgt en naar keuze aanwenden:<br>
@@ -821,7 +937,7 @@ De Vlaamse Regering bepaalt eveneens het aantal punten dat nodig is om een perso
 De school moet bij de aanwending van haar punten daarenboven rekening houden met volgende principes :<br>
 - ambten van het bestuurspersoneel kunnen alleen per halftijdse of voltijdse betrekking opgericht worden;<br>
 - als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;&nbsp;Voor het bepalen van dit percentage wordt geen rekening gehouden met de personeelsleden aangesteld in het ambt van ICT-coördinator.<br>
-- een betrekking in het ambt van technisch adviseur-coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht.<br>
+- een betrekking in het ambt van technisch adviseur-coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met hoger beroepsonderwijs, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht.<br>
 - als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
 <br>
 De school verschaft ten aanzien van haar lokaal comité en ten aanzien van haar personeel volledige klaarheid over de betrekkingen die ze op basis van haar punten zal oprichten.<br>
@@ -1037,19 +1153,21 @@ Een scholengemeenschap is qua inplanting van de hoofdvestigingsplaats van elk va
 
 Een scholengemeenschap organiseert een multisectoraal onderwijsaanbod, waaronder ten minste wordt verstaan :<br>
 1° de eerste graad bestaande uit : een eerste leerjaar A en B, een tweede leerjaar A en een tweede leerjaar B;<br>
-2° de tweede graad bestaande uit : een eerste en tweede leerjaar van het algemeen secundair onderwijs met drie opties, een eerste en tweede leerjaar van het technisch secundair onderwijs met twee studiegebieden en een eerste en tweede leerjaar van het beroepssecundair onderwijs met twee studiegebieden; de studiegebieden van het technisch en beroepssecundair onderwijs mogen dezelfde zijn;<br>
-3° de derde graad bestaande uit : een eerste en tweede leerjaar van het algemeen secundair onderwijs met drie opties, een eerste en tweede leerjaar van het technisch secundair onderwijs met twee studiegebieden en een eerste en tweede leerjaar van het beroepssecundair onderwijs met twee studiegebieden; de studiegebieden van het technisch en beroepssecundair onderwijs mogen dezelfde zijn.<br>
+2° de tweede graad, die bestaat uit een eerste en tweede leerjaar van de finaliteit doorstroom, met drie studierichtingen van het algemeen secundair onderwijs, een eerste en tweede leerjaar van de dubbele finaliteit met twee studiedomeinen en een eerste en tweede leerjaar van de finaliteit arbeidsmarkt met twee studiedomeinen. De studiedomeinen van de dubbele finaliteit en de finaliteit arbeidsmarkt mogen dezelfde zijn;<br>
+3° de derde graad, die bestaat uit een eerste en tweede leerjaar van de finaliteit doorstroom, met drie studierichtingen van het algemeen secundair onderwijs, een eerste en tweede leerjaar van de dubbele finaliteit met twee studiedomeinen en een eerste en tweede leerjaar van de finaliteit arbeidsmarkt met twee studiedomeinen. De studiedomeinen van de dubbele finaliteit en de finaliteit arbeidsmarkt mogen dezelfde zijn. Voor het schooljaar 2023-2024 bestaat het tweede leerjaar van de derde graad nog uit het algemeen secundair onderwijs, met drie opties, het technisch en het beroepssecundair onderwijs met elk twee studiegebieden. De studiegebieden van het technisch en beroepssecundair onderwijs mogen dezelfde zijn.<br>
+<br>
+Als een scholengemeenschap vanaf 1 september 2023 door de omschakeling van studiegebieden naar studiedomeinen niet meer voldoet aan de voorwaarden, vermeld in het eerste lid, 2° en 3°, wordt ze van rechtswege beschouwd te voldoen aan die voorwaarden tot en met het schooljaar 2025­2026.<br>
 <br>
 Na gemotiveerde aanvraag van het betrokken schoolbestuur, kan de Vlaamse Regering volgens de hierna vermelde criteria afwijking verlenen van de bepalingen van het eerste lid :<br>
-1° het niet-voldoen aan de voorwaarde van multisectoraliteit houdt in :<br>
-a) hetzij het niet of te weinig organiseren van opties in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van het algemeen secundair onderwijs;<br>
-b) hetzij het te weinig organiseren van studiegebieden in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van het technisch secundair onderwijs;<br>
-c) hetzij het te weinig organiseren van studiegebieden in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van het beroepssecundair onderwijs; en<br>
+1° het niet voldoen aan de voorwaarde van multisectoraliteit houdt in:<br>
+a)&nbsp;&nbsp; &nbsp;hetzij het niet of te weinig organiseren van studierichtingen in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van het algemeen secundair onderwijs;<br>
+b)&nbsp;&nbsp; &nbsp;hetzij het te weinig organiseren van studiedomeinen of studiegebieden in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van de dubbele finaliteit of het technisch secundair onderwijs;<br>
+c)&nbsp;&nbsp; &nbsp;hetzij het te weinig organiseren van studiedomeinen of studiegebieden in het eerste en tweede leerjaar van de tweede respectievelijk de derde graad van de finaliteit arbeidsmarkt of het beroepssecundair onderwijs; en<br>
 2° de scholengemeenschap werkt op het vlak van leerlingenoriëntering samen met één of meer andere aangrenzende scholengemeenschappen die het in de eerstbedoelde scholengemeenschap in het kader van de multisectoraliteit ontbrekend onderwijsaanbod, wèl organiseren.<br>
 <br>
 Na gemotiveerde aanvraag van het betrokken schoolbestuur, kan de Vlaamse Regering volgens het hierna vermeld criterium afwijking verlenen van de bepalingen van het eerste lid :<br>
 <br>
-De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarde de enige school van het gesubsidieerd vrij onderwijs te zijn in één der 44 onderwijszones vastgelegd in de bijlage I gevoegd bij de codificatie betreffende het secundair onderwijs, die een bepaalde erkende godsdienst organiseert of levensbeschouwing aanhangt. Bij de toepassing van de voorwaarde "enige school" worden de scholen die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseren, én enkel eigen leerplannen van het schoolbestuur hanteren die door de Vlaamse Regering zijn goedgekeurd, buiten beschouwing gelaten.<br>
+De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarde de enige school van het gesubsidieerd vrij onderwijs te zijn in één der 44 onderwijszones vastgelegd in bijlage I, die bij deze codex is gevoegd, die een bepaalde erkende godsdienst organiseert of levensbeschouwing aanhangt. Bij de toepassing van de voorwaarde "enige school" worden de scholen die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseren, én enkel eigen leerplannen van het schoolbestuur hanteren die door de Vlaamse Regering zijn goedgekeurd, buiten beschouwing gelaten.<br>
 <br>
 Na gemotiveerde aanvraag van het betrokken schoolbestuur, kan de Vlaamse Regering volgens het hierna vermeld criterium afwijking verlenen van de bepalingen van het eerste lid.<br>
 <br>
@@ -1100,7 +1218,9 @@ Zoals bepaald in artikel 191 wordt de gewone rationalisatienorm per school met 1
 
 ### ART. 62.
 
-De gewone leerlingencoëfficiënten tot vaststelling van het aantal wekelijkse uren-leraar voor scholen die behoren tot een scholengemeenschap en gelegen zijn in het administratief arrondissement Brussel-hoofdstad, worden verhoogd met :<br />1° 0,10 : voor de eerste graad;<br />2° 0,20 : voor de tweede, de derde en de vierde graad en het hoger beroepsonderwijs. (61)
+De gewone leerlingencoëfficiënten tot vaststelling van het aantal wekelijkse uren-leraar voor scholen die behoren tot een scholengemeenschap en gelegen zijn in het administratief arrondissement Brussel-hoofdstad, worden verhoogd met :<br>
+1° 0,10 : voor de eerste graad;<br>
+2° 0,20 : voor de tweede en de derde graad en het hoger beroepsonderwijs. (61)
 
 ### ART. 63.
 
@@ -1132,7 +1252,15 @@ In scholengemeenschappen die conform dit artikel een scholengemeenschapsinstelli
 
 ### ART. 66.
 
-Indien in een scholengemeenschap door een herstructurering van de school of van het onderwijsaanbod bepaalde infrastructuur niet langer gebruikt wordt voor het secundair onderwijs, dan kan het schoolbestuur deze gebouwen gebruiken voor het eigen niet-secundair onderwijs ofwel overdragen naar of ter beschikking stellen van een ander schoolbestuur van hetzelfde onderwijsnet die onderwijs van een ander niveau organiseert, een centrum voor leerlingenbegeleiding, of een internaat. <br /><br />Als hierbij de eigendom of het zakelijk recht dat noodzakelijk was om in aanmerking te komen voor een subsidie van het Agentschap voor Infrastructuur in het Onderwijs (Agion) overgaat naar het verkrijgende schoolbestuur of deze een zakelijk recht verwerft op het gebouw met een duur gelijk aan de resterende termijn van het zakelijk recht dat het vroeger schoolbestuur bezit, treedt deze laatste in de rechten en verplichtingen ten opzichte van Agion. In dit geval is artikel 19, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, niet van toepassing. <br /><br />Als de eigendom of het hiervoor vermelde zakelijk recht niet wordt overgedragen of gevestigd en het gebouw verder voor onderwijsdoeleinden wordt gebruikt, dan is artikel 19, § 2, van dezelfde wet, evenmin van toepassing. Het oorspronkelijke schoolbestuur blijft wel verantwoordelijk ten opzichte van Agion voor de naleving van de verplichtingen die werden aangegaan bij de toekenning van de subsidie. <br /><br />Indien de infrastructuur waarvoor Agion subsidie heeft toegekend, afgebroken wordt, dan is artikel 19, § 2, van dezelfde wet, evenmin van toepassing. <br /><br />Wordt de infrastructuur echter onttrokken aan één van de bestemmingen waarvoor een beroep kan worden gedaan op de tegemoetkoming van Agion zoals bepaald in artikel 13, § 1, van dezelfde wet, dan moet het schoolbestuur het gedeelte van de ontvangen subsidie, bedoeld in artikel 19, § 2, van dezelfde wet, terugbetalen. Een terugbetaling wordt evenwel niet opgelegd indien bij verkoop de opbrengst ten bedrage van de terug te betalen subsidie binnen een periode van twee jaar en met behoud van bestemming opnieuw wordt geïnvesteerd in subsidiabele infrastructuur voor het onderwijs, voor een centrum voor leerlingenbegeleiding, of een internaat. (65)
+Indien in een scholengemeenschap door een herstructurering van de school of van het onderwijsaanbod bepaalde infrastructuur niet langer gebruikt wordt voor het secundair onderwijs, dan kan het schoolbestuur deze gebouwen gebruiken voor het eigen niet-secundair onderwijs ofwel overdragen naar of ter beschikking stellen van een ander schoolbestuur van hetzelfde onderwijsnet die onderwijs van een ander niveau organiseert, een centrum voor leerlingenbegeleiding, of een onderwijsinternaat.<br>
+<br>
+Als hierbij de eigendom of het zakelijk recht dat noodzakelijk was om in aanmerking te komen voor een subsidie van het Agentschap voor Infrastructuur in het Onderwijs (Agion) overgaat naar het verkrijgende schoolbestuur of deze een zakelijk recht verwerft op het gebouw met een duur gelijk aan de resterende termijn van het zakelijk recht dat het vroeger schoolbestuur bezit, treedt deze laatste in de rechten en verplichtingen ten opzichte van Agion. In dit geval is artikel 19, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, niet van toepassing.<br>
+<br>
+Als de eigendom of het hiervoor vermelde zakelijk recht niet wordt overgedragen of gevestigd en het gebouw verder voor onderwijsdoeleinden wordt gebruikt, dan is artikel 19, § 2, van dezelfde wet, evenmin van toepassing. Het oorspronkelijke schoolbestuur blijft wel verantwoordelijk ten opzichte van Agion voor de naleving van de verplichtingen die werden aangegaan bij de toekenning van de subsidie.<br>
+<br>
+Indien de infrastructuur waarvoor Agion subsidie heeft toegekend, afgebroken wordt, dan is artikel 19, § 2, van dezelfde wet, evenmin van toepassing.<br>
+<br>
+Wordt de infrastructuur echter onttrokken aan één van de bestemmingen waarvoor een beroep kan worden gedaan op de tegemoetkoming van Agion zoals bepaald in artikel 13, § 1, van dezelfde wet, dan moet het schoolbestuur het gedeelte van de ontvangen subsidie, bedoeld in artikel 19, § 2, van dezelfde wet, terugbetalen. Een terugbetaling wordt evenwel niet opgelegd indien bij verkoop de opbrengst ten bedrage van de terug te betalen subsidie binnen een periode van twee jaar en met behoud van bestemming opnieuw wordt geïnvesteerd in subsidiabele infrastructuur voor het onderwijs, voor een centrum voor leerlingenbegeleiding, of een onderwijsinternaat. (65)
 
 ## HOOFDSTUK 5. Organen
 
@@ -1305,7 +1433,7 @@ Het lokaal comité heeft inzagerecht in de administratieve dossiers van de schol
 
 ### ART. 96.
 
-De bepalingen van dit hoofdstuk zijn niet van toepassing op :<br />1° het derde leerjaar van de derde graad van het algemeen en het kunstsecundair onderwijs, aangeduid als voorbereidend jaar op het hoger onderwijs;<br />2° de Se-n-Se van het technisch en het kunstsecundair onderwijs;<br />3° de vierde graad;<br />4° het hoger beroepsonderwijs. (95)
+De bepalingen van dit hoofdstuk zijn alleen van toepassing op structuuronderdelen met levensbeschouwelijk onderricht in de basisvorming.
 
 ### ART. 97.
 
@@ -1393,25 +1521,29 @@ De bepalingen in hoofdstuk 1/1 en 1/2 zijn van toepassing voor de inschrijvingen
 
 ### ART. 110/1.
 
-§ 1. Elke leerling heeft recht op inschrijving in de school of vestigingsplaats, gekozen door zijn ouders. Is de leerling twaalf jaar of ouder, dan gebeurt de schoolkeuze in samenspraak met de leerling. Bij de keuze van de vestigingsplaats wordt rekening gehouden met het aanwezige onderwijsaanbod.<br>
+§1. Elke leerling heeft recht op inschrijving in de school of vestigingsplaats, gekozen door zijn ouders. Is de leerling twaalf jaar of ouder, dan gebeurt de schoolkeuze in samenspraak met de leerling. Bij de keuze van de vestigingsplaats wordt rekening gehouden met het aanwezige onderwijsaanbod.<br>
 <br>
 De inschrijving wordt genomen na ondertekening voor akkoord van de ouders van het pedagogisch project en school- of centrumreglement.<br>
 <br>
-§ 2. Inschrijvingen voor een bepaald schooljaar kunnen ten vroegste starten :<br>
+§2. Inschrijvingen voor een bepaald schooljaar kunnen ten vroegste starten :<br>
 1° op de eerste schooldag van maart van het voorafgaande schooljaar in het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs en in het buitengewoon secundair onderwijs;<br>
 2° op de eerste schooldag na de paasvakantie van het voorafgaande schooljaar in het secundair onderwijs dat niet onder toepassing valt van 1° en in de leertijd.<br>
 <br>
 Een schoolbestuur maakt de start van de inschrijvingen bekend aan alle belanghebbenden. Een schoolbestuur dat deel uitmaakt van een LOP, maakt de start van de inschrijvingen alleszins via het LOP bekend.<br>
 <br>
-§ 3. Behoudens de bij decreet of besluit bepaalde gevallen van uitschrijving, geldt een inschrijving van een leerling in een school voor de duur van de hele schoolloopbaan in die school. Het behoud van de inschrijving geldt over de vestigingsplaatsen en de structuuronderdelen heen, tenzij in geval van overschrijding van de capaciteit of volzetverklaring als vermeld in artikel 110/9.<br>
+§3. Behoudens de bij decreet of besluit bepaalde gevallen van uitschrijving, geldt een inschrijving van een leerling in een school voor de duur van de hele schoolloopbaan in die school. Het behoud van de inschrijving geldt over de vestigingsplaatsen en de structuuronderdelen heen, tenzij in geval van overschrijding van de capaciteit of volzetverklaring als vermeld in artikel 110/9.<br>
 <br>
 Indien de voortgang van het leerproces, met inachtname van de studiebewijzen waarover de leerling beschikt en met inachtname van de regelgeving betreffende de toelatings- of instapvoorwaarden in het secundair onderwijs, het behoud of de verandering van vestigingsplaats of structuuronderdeel noodzakelijk maakt, dan kan die niet worden gestuit. Indien zich daarbij verschillende keuzemogelijkheden qua structuuronderdeel voordoen, dan kan de leerling niet tot een welbepaald structuuronderdeel worden gedwongen.<br>
 <br>
 Het verworven recht als ingeschreven leerling blijft behouden indien van de school een deel wordt afgesplitst en ondergebracht in een nieuwe school van hetzelfde schoolbestuur.<br>
 <br>
-§ 4. Een schoolbestuur met scholen waarvan één of meerdere vestigingsplaatsen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan, afzonderlijk in het gewoon en in het buitengewoon secundair onderwijs,&nbsp;ervoor opteren om bij de overgang van een leerling van de ene secundaire school naar de andere secundaire school de inschrijvingen te laten doorlopen. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
+§4. Een schoolbestuur met scholen waarvan één of meerdere vestigingsplaatsen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan, afzonderlijk in het gewoon en in het buitengewoon secundair onderwijs,&nbsp;ervoor opteren om bij de overgang van een leerling van de ene secundaire school naar de andere secundaire school de inschrijvingen te laten doorlopen. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
 <br>
-§ 5. Een school- of centrumbestuur met scholen of centra voor deeltijds beroepssecundair onderwijs waarvan één of meerdere vestigingsplaatsen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan ervoor opteren om voor de toepassing van de bepalingen van hoofdstuk 1/1 en 1/2 van deze codex, de desbetreffende vestigingsplaatsen als één school of centrum te beschouwen. Een school- of centrumbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn school- of centrumreglement.
+§5. Een school- of centrumbestuur met scholen of centra voor deeltijds beroepssecundair onderwijs waarvan één of meerdere vestigingsplaatsen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan ervoor opteren om voor de toepassing van de bepalingen van hoofdstuk 1/1 en 1/2 van deze codex, de desbetreffende vestigingsplaatsen als één school of centrum te beschouwen. Een school- of centrumbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn school- of centrumreglement.<br>
+<br>
+§6. Elke inschrijving vóór 1 september voor het daaropvolgende schooljaar voor een bepaalde administratieve groep in een bepaalde school voor buitengewoon secundair onderwijs maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep in hetzelfde schooljaar in een andere school voor buitengewoon onderwijs van rechtswege ongedaan.<br>
+<br>
+Elke inschrijving in de loop van het betrokken schooljaar voor een bepaalde administratieve groep in een school voor buitengewoon onderwijs, maakt de daaraan voorafgaande inschrijving voor dezelfde of een andere administratieve groep voor datzelfde schooljaar in een andere school voor buitengewoon onderwijs ongedaan vanaf de start van de effectieve lesbijwoning, behalve in geval van gewettigde afwezigheid.
 
 ## [Afdeling 2. Voorrangsregelingen (ing. decr. 25 november 2011, art. V.6., I: 1 september 2012)]
 
@@ -1439,10 +1571,7 @@ a) een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesu
 b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
 c) door het voorleggen van het bewijs van minstens voldoende kennis van het Nederlands na het afleggen van een taalexamen bij het selectiebureau van de federale overheid;<br>
 4°&nbsp;door het voorleggen van het bewijs dat hij negen jaar als regelmatige leerling onderwijs heeft gevolgd in het Nederlandstalige lager en secundair onderwijs. Dit gebeurt op basis van attesten daartoe uitgereikt door de betrokken schoolbesturen;<br>
-5° voor inschrijvingen die betrekking hebben op het schooljaar 2015-2016 of het schooljaar 2016-2017 of het schooljaar 2017-2018 door het voorleggen van het bewijs dat hij het Nederlands beheerst op minstens niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Talen. Dit gebeurt op basis van één van volgende stukken:<br>
-a) een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs of een daarmee gelijkwaardig Nederlandstalig studiebewijs, dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
-b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
-c) door het voorleggen van het bewijs van minstens voldoende kennis van het Nederlands na het afleggen van een taalexamen bij het selectiebureau van de federale overheid.<br>
+5° ...<br>
 <br>
 § 3. Een schoolbestuur bepaalt voor zijn scholen gelegen in het tweetalige gebied Brussel-Hoofdstad, een aantal leerlingen dat wordt vooropgesteld voor de inschrijving bij voorrang van leerlingen met minstens één ouder die het Nederlands in voldoende mate machtig is.<br>
 <br>
@@ -1501,7 +1630,6 @@ Als een schoolbestuur erom vraagt, stelt het Agentschap voor Onderwijsdiensten g
 <br>
 § 3. De indicatoren op basis waarvan voorrang verleend wordt, zijn:<br>
 1° het gezin, vermeld in artikel 3, § 1, 17°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, heeft in het schooljaar, dat voorafgaat aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één selectieve participatietoeslag leerling ontvangen, of het gezin heeft een beperkt inkomen.<br>
-Voor de schooljaren 2019-2020 en 2020-2021 komen eveneens in aanmerking voor voorrang: de leefeenheid, ontving in het schooljaar, voorafgaand aan het schooljaar waarop de inschrijving van de leerling betrekking heeft, of in het daaraan voorafgaande schooljaar, minstens één schooltoelage zoals bedoeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, of het gezin heeft een beperkt inkomen. Met leefeenheid wordt bedoeld, een of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook een of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel een of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;<br>
 2° de moeder is niet in het bezit van een diploma van het secundair onderwijs of een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs of van een daarmee gelijkwaardig studiebewijs.<br>
 <br>
 § 4. De Vlaamse Regering kan de wijze waarop het voldoen aan de in paragraaf 3 opgesomde indicatoren aangetoond wordt, bepalen en kan hiervoor een procedure vastleggen.
@@ -1561,7 +1689,7 @@ d) na de voorrangsperiode, vermeld in artikel 110/7.<br>
 § 6. Een schoolbestuur kan, ook bij overschrijding van een vastgelegde capaciteit toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen in het secundair onderwijs die:<br>
 a) hetzij geplaatst zijn door de jeugdrechter of door de comités voor bijzondere jeugdzorg;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 2° ...;<br>
 3° voor de toelating van leerlingen in het eerste leerjaar van de eerste graad van het voltijds gewoon secundair onderwijs en in het buitengewoon secundair onderwijs die behoren tot dezelfde leefentiteit, indien de ouders deze leerlingen wensen in te schrijven in hetzelfde niveau, vermeld in paragraaf 1 of 2, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de capaciteit.<br>
@@ -1586,7 +1714,7 @@ b) aan de school- en centrumbesturen van de andere scholen en centra gelegen in 
 § 8. Een schoolbestuur kan ook na volzetverklaring, vermeld in paragraaf 7, toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen in het secundair onderwijs die:<br>
 a) hetzij geplaatst zijn door de jeugdrechter of door de comités voor bijzondere jeugdzorg;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 2° ...;<br>
 3° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de ouders deze leerlingen wensen in te schrijven in hetzelfde structuuronderdeel, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de volzetverklaring.<br>
@@ -1653,7 +1781,7 @@ Indien het gaat om een niet-gerealiseerde inschrijving op basis van artikel 110/
 
 ### ART. 110/17.
 
-Voor de toepassing van de bemiddeling, vermeld in artikel 110/15, duidt de Vlaamse Regering per provincie een LOP-deskundige en een onderwijsinspecteur aan die voor de gemeenten buiten het werkingsgebied van een LOP de taken van het LOP opnemen.
+Voor de toepassing van de bemiddeling, vermeld in artikel 110/15, duidt de Vlaamse Regering per provincie een LOP-deskundige aan die voor de gemeenten buiten het werkingsgebied van een LOP de taken van het LOP opnemen.
 
 ### ART. 110/18.
 
@@ -1773,6 +1901,8 @@ Indien bij de inschrijving blijkt dat de leerling niet voldoet aan door de ouder
 Wanneer een via een aanmeldingsprocedure ingeschreven leerling alsnog wordt ingeschreven in een school van hogere keuze, mag de school van lagere keuze de eerder gerealiseerde inschrijving beëindigen.<br>
 <br>
 Leerlingen van wie het recht op inschrijving, overeenkomstig het zesde, zevende of achtste lid komt te vervallen, worden overeenkomstig artikel 110/12, § 2, vervangen. In het tweetalige gebied Brussel-Hoofdstad worden, in afwijking van artikel 110/12, § 2, leerlingen als vermeld in artikel 110/7 die eveneens beantwoorden aan de criteria, vermeld in artikel 110/5 wiens recht op inschrijving, overeenkomstig het zesde, zevende of achtste lid komt te vervallen, vervangen door de eerstvolgend gerangschikte leerlingen, als vermeld in artikel 110/7 die eveneens beantwoorden aan de criteria, vermeld in artikel 110/5, met behoud van artikel 110/3 en 110/4. Deze ouders krijgen binnen vier werkdagen na de nodige vaststellingen door het schoolbestuur of het LOP schriftelijk of via elektronische drager melding dat de aangemelde leerling alsnog is toegewezen. Deze melding bevat informatie over de periode waarbinnen de ouders de betrokken leerling kunnen inschrijven. Die periode duurt minimaal vijf schooldagen.<br>
+<br>
+In afwijking van het zevende lid, kunnen een schoolbestuur, meerdere schoolbesturen samen of het LOP beslissen om uiterlijk na de einddatum van de aanmeldingsperiode en voordat de resultaten van de aanmelding worden bekendgemaakt deze controle te doen.<br>
 <br>
 § 3. Indien de leerling in geen enkele school of vestigingsplaats gunstig gerangschikt kan worden, krijgen de aangemelde leerling en zijn ouders binnen vier werkdagen, schriftelijk of via elektronische drager melding over het niet kunnen toewijzen van de aangemelde leerling aan een door de ouders of leerling gekozen school of vestigingsplaats.<br>
 <br>
@@ -1930,7 +2060,7 @@ De artikelen 110/28 tot en met 110/32 zijn niet van toepassing op het huisonderw
 
 ### ART. 111.
 
-§ 1. Elk schoolbestuur maakt voor elk van zijn scholen een schoolreglement op waarin de rechten en plichten van elke leerling worden vastgelegd.<br>
+§ 1. Elk schoolbestuur maakt voor elk van zijn scholen, met uitzondering van de scholen van opleidingsvorm 4, type 5, die verbonden zijn aan een ziekenhuis of aan een residentiële setting, een schoolreglement op waarin de rechten en plichten van elke leerling worden vastgelegd.<br>
 <br>
 Elk centrumbestuur maakt voor elk van zijn centra voor deeltijds beroepssecundair onderwijs, na advies van de centrumraad, een centrumreglement op waarin de rechten en plichten van elke leerling worden vastgelegd. Elk centrumbestuur maakt voor zijn centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen een centrumreglement op waarin de rechten en plichten van elke leerling worden vastgelegd; dit reglement kan per vestigingsplaats verschillen.<br>
 <br>
@@ -1991,10 +2121,11 @@ c) de afspraken met betrekking tot het decretaal aan scholen en centra opgelegde
 12° de basisprincipes van het schoolbeleid met betrekking tot reclame en sponsoring;<br>
 13° een engagementsverklaring waarin wederzijdse afspraken worden opgenomen over oudercontact, regelmatige aanwezigheid en spijbelbeleid, vormen van individuele leerlingenbegeleiding en het positieve engagement ten aanzien van de onderwijstaal;<br>
 14° de vermelding dat bij schoolverandering leerlingengegevens worden overgedragen naar de nieuwe school tenzij, en voor zover de regelgeving de overdracht niet verplicht stelt, de betrokken personen er zich expliciet tegen verzetten na op hun verzoek deze gegevens te hebben ingezien;<br>
-15° de mededeling dat de school bij schoolverandering verplicht is het bestaan van een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel of een kopie van het eventuele verslag, vermeld in artikel 294, § 2 tot en met § 10, bekend te maken of over te dragen aan de nieuwe school;<br>
+15° de mededeling dat de school bij schoolverandering verplicht is de school waar nu wordt ingeschreven op de hoogte te brengen van het bestaan en de inhoud van een IAC-verslag, OV4-verslag of GC-verslag;<br>
 16° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school of het centrum voor deeltijds beroepssecundair onderwijs samenwerkt en de concrete afspraken over de dienstverlening van de leerlingenbegeleiding;<br>
 17° de krachtlijnen inzake de visie en werking van de school of het centrum van deeltijds beroepssecundair onderwijs binnen het gevoerde beleid op leerlingenbegeleiding;<br>
-18° de vermelding dat de betrokken personen, in voorkomend geval, de school onmiddellijk op de hoogte brengen van het feit dat de medische toestand van de leerling die is ingeschreven in een opleiding waar voedingsmiddelen worden verwerkt, een risico inhoudt op (on)rechtstreekse verontreiniging van levensmiddelen, met als gevolg dat na beslissing van de school de leerling hetzij tijdelijk bepaalde programmaonderdelen niet mag volgen, hetzij de opleiding in zijn geheel niet langer mag volgen en naar een andere opleiding moet overstappen. Daarbij wordt eveneens vermeld dat de gegevens over de medische toestand worden verwerkt onder de verantwoordelijkheid van de schooldirecteur en dat de schooldirecteur en de personeelsleden van de school die deze gegevens over de medische toestand verwerken, gehouden zijn tot geheimhouding over deze gegevens.<br>
+18° de vermelding dat de betrokken personen, in voorkomend geval, de school onmiddellijk op de hoogte brengen van het feit dat de medische toestand van de leerling die is ingeschreven in een opleiding waar voedingsmiddelen worden verwerkt, een risico inhoudt op (on)rechtstreekse verontreiniging van levensmiddelen, met als gevolg dat na beslissing van de school de leerling hetzij tijdelijk bepaalde programmaonderdelen niet mag volgen, hetzij de opleiding in zijn geheel niet langer mag volgen en naar een andere opleiding moet overstappen. Daarbij wordt eveneens vermeld dat de gegevens over de medische toestand worden verwerkt onder de verantwoordelijkheid van de schooldirecteur en dat de schooldirecteur en de personeelsleden van de school die deze gegevens over de medische toestand verwerken, gehouden zijn tot geheimhouding over deze gegevens;<br>
+19° dat er leersteun kan geboden worden voor leerlingen met een IAC-verslag, OV4-verslag of GC-verslag en bij welk leersteuncentrum de school aangesloten is.<br>
 <br>
 Met betrekking tot het positieve engagement van de betrokken personen ten aanzien van de onderwijstaal wordt alleszins vermeld dat leerlingen aangemoedigd worden om Nederlands te leren, maar kunnen andere bepalingen worden toegevoegd mits daarover een akkoord is bereikt in het bevoegde lokaal overlegplatform of, voor scholen en centra gelegen in een gemeente waar geen lokaal overlegplatform is opgericht, mits daarover een akkoord is bereikt met ten minste twee derde van de scholen en centra voor deeltijds beroepssecundair onderwijs.<br>
 <br>
@@ -2048,7 +2179,7 @@ De financiële bijdrage die de houder van een buitenlands studiebewijs moet beta
 
 ### ART. 115/5.
 
-Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren uiterlijk op 31 augustus van het schooljaar in kwestie. In afwijking hiervan is dat uiterlijk 15 februari van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se die eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de door het schoolbestuur omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld. Als die afwijkende beslissing door de betrokken personen omstreden is, kunnen ze beroep instellen, waarbij de bepalingen van artikel 123/15 tot en met 123/18 van toepassing zijn.
+Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren uiterlijk op 31 augustus van het schooljaar in kwestie. In afwijking hiervan is dat uiterlijk 15 februari van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een 7de leerjaar van het technisch of kunstsecundair onderwijs dat eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de door het schoolbestuur omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld. Als die afwijkende beslissing door de betrokken personen omstreden is, kunnen ze beroep instellen, waarbij de bepalingen van artikel 123/15 tot en met 123/18 van toepassing zijn.
 
 ### ART. 115/6.
 
@@ -2061,6 +2192,8 @@ In afwijking van het eerste lid kan de Vlaamse Regering:<br>
 2° de maximumduur bepalen van schorsing van lessen wegens examens, andere evaluatieopdrachten of evaluatiegebonden activiteiten;<br>
 3° bepalen onder welke voorwaarden een beslissing over het al dan niet geslaagd zijn, kan worden uitgesteld;<br>
 4° het slagen voor een structuuronderdeel afhankelijk stellen van het behalen van externe certificering. Onder externe certificering wordt verstaan: het toekennen aan leerlingen, voor zover ze geslaagd zijn voor bepaalde programmaonderdelen, van studiebewijzen die buiten de onderwijsregelgeving vallen en gerelateerd zijn aan beroepsuitoefeningvoorwaarden.<br>
+<br>
+Bij een evaluatiebeslissing van de klassenraad geldt steeds een vermoeden van deskundigheid.<br>
 <br>
 § 3. De betrokken personen nemen het evaluatieresultaat in ontvangst op een in het school- of centrumreglement vastgelegde datum en wijze. Het school- of centrumbestuur wijkt af van die datum voor individuele gevallen als de beslissing tot stand komt na uitstel of na beroep; in voorkomend geval stelt het school- of centrumbestuur de betrokken personen schriftelijk in kennis van de voorziene ontvangstdatum. Bij het niet in ontvangst nemen door de betrokken personen wordt het evaluatieresultaat geacht te zijn ontvangen op de voorziene ontvangstdatum.<br>
 <br>
@@ -2174,9 +2307,9 @@ De Vlaamse Regering zal een evaluatie doorvoeren die minstens uit volgende onder
 
 ### ART. 116.
 
-Voor de toepassing van artikel 116 tot en met 120 en artikel 122/1° wordt verstaan onder :<br>
+Voor de toepassing van artikel 116 tot en met 120 en artikel 122/1, tweede lid wordt verstaan onder :<br>
 1° secundair onderwijs : het secundair onderwijs met uitzondering van :<br>
-a) in het voltijds secundair onderwijs, het derde leerjaar van het algemeen en het kunstsecundair onderwijs aangeduid als voorbereidend jaar op het hoger onderwijs, de Se-n-Se van het technisch en het kunstsecundair onderwijs, de vierde graad van het secundair onderwijs, het hoger beroepsonderwijs;<br>
+a) de structuuronderdelen van het voltijds secundair onderwijs zonder basisvorming en het hoger beroepsonderwijs;<br>
 b) het deeltijds beroepssecundair onderwijs;<br>
 c) de alternerende beroepsopleiding in het buitengewoon secundair onderwijs;<br>
 De Vlaamse Regering kan beslissen de punten a, b of c toch te beschouwen als secundair onderwijs.<br>
@@ -2255,6 +2388,24 @@ Leerlingen hebben recht op moederschapsverlof, naar rata van maximaal één week
 <br>
 Onder de voorwaarden als bedoeld in artikel 117, hebben desbetreffende leerlingen recht op tijdelijk onderwijs aan huis. Onder de voorwaarden als bedoeld in artikel 117/1, hebben desbetreffende leerlingen recht op SIO.
 
+### ART 122/1/0.
+
+§1. Voor elke leerling met een IAC-verslag wordt, zowel in het gewoon als in het buitengewoon onderwijs, een individueel aangepast curriculum opgemaakt door de klassenraad in afstemming met de leerling tenzij dat niet mogelijk is, met de ouders, met in voorkomend geval de leerondersteuner en waar nodig de CLB-medewerker en andere externe ondersteuners.<br>
+<br>
+§2. Het individueel aangepaste curriculum bevat de doelen die nagestreefd of gerealiseerd zullen worden, volgens de onderwijsbehoeften en ondersteuningsbehoeften van de leerling. Het individueel aangepaste curriculum krijgt vorm op basis van een cyclisch proces van handelingsplanmatig werken.<br>
+<br>
+De klassenraad vertrekt voor de selectie van de doelen van de doelen die door of krachtens decreet- of regelgeving van toepassing zijn op het structuuronderdeel waarin de leerling is ingeschreven. Daarnaast kunnen ook andere doelen worden geselecteerd. De realisatie van de doelen is gericht op de maximale ontplooiing van en leerwinst bij de leerling en met het oog op een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren en maatschappelijke participatie zoals andere leeftijdsgenoten. Voor leerlingen in het buitengewoon onderwijs wordt actief gewerkt&nbsp; aan de mogelijkheid tot terugkeer naar het gewoon onderwijs.<br>
+<br>
+§3. In het individueel aangepaste curriculum opgenomen doelen met betrekking tot godsdienst, niet-confessionele zedenleer of cultuurbeschouwing zijn gebaseerd op de overeenkomstige leerplannen en zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder.<br>
+<br>
+§4. Het individueel aangepaste curriculum bepaalt hoe de doelen gerealiseerd zullen worden en hoe sociale, psychologische, orthopedagogische, medische of paramedische hulpverlening in het onderwijsaanbod wordt geïntegreerd. Daarbij wordt gebruikgemaakt van het netwerk en de ondersteunende partners die betrokken zijn naargelang de onderwijscontext waarin de leerling schoolloopt.<br>
+&nbsp;<br>
+§5. Alle betrokkenen werken samen om een optimaal leer- en ontwikkelingstraject voor de leerling te garanderen. De school is verantwoordelijk voor de opvolging, evaluatie en bijsturing van het traject en coördineert de afstemming tussen alle betrokken partners.<br>
+<br>
+§6. Een individueel handelingsplan of een individueel aangepast curriculum van een leerling met een IAC-verslag dat is opgemaakt voor 1 september 2023, wordt beschouwd als een individueel aangepast curriculum. Als er wijzigingen doorgevoerd moeten worden aan een dergelijk curriculum of handelingsplan, worden de wijzigingen doorgevoerd in een individueel aangepast curriculum conform pararaaf 1 tot en met 5.<br>
+<br>
+Als een leerling met een IAC-verslag die nog beschikt over een individueel aangepast curriculum of een individueel handelingsplan dat is opgemaakt voor 1 september 2023, van school verandert, maakt de school waar nu wordt ingeschreven een individueel aangepast curriculum op conform paragraaf 1 tot en met 5.
+
 ### ART 122/1/1.
 
 §1. Voor elke leerling met een OV4-verslag moet, zowel in het gewoon als het buitengewoon onderwijs, het gemeenschappelijke curriculum van het gewoon voltijds secundair onderwijs gevolgd worden. Daarbij wordt rekening gehouden met de onderwijsbehoeften en ondersteuningsbehoeften van de leerling.<br>
@@ -2292,7 +2443,7 @@ Interactief afstandsonderwijs kan per structuuronderdeel op schooljaarbasis voor
 <br>
 In een duaal opgericht structuuronderdeel hebben de percentages, vermeld in het vijfde lid, betrekking op de schoolcomponent.<br>
 <br>
-Voor de structuuronderdelen met in de benaming “topsport”, die vallen onder toepassing van het gesloten topsportconvenant, het structuuronderdeel Ballet en de opleiding Verpleegkunde van het hoger beroepsonderwijs, zijn de maxima niet van toepassing.&nbsp;<br>
+Voor de structuuronderdelen met in de benaming “topsport”, die vallen onder toepassing van het gesloten topsportconvenant, het structuuronderdeel Ballet en de de opleidingen van het hoger beroepsonderwijs, zijn de maxima niet van toepassing.&nbsp;<br>
 <br>
 De maxima zijn niet van toepassing op individueel interactief afstandsonderwijs voor een leerling.<br>
 &nbsp;
@@ -2358,9 +2509,9 @@ Bij verandering van onderwijsinstelling door een leerling worden tussen de betro
 1° de gegevens hebben enkel betrekking op de leerlingspecifieke onderwijsloopbaan, meer bepaald de essentiële gegevens die de studieresultaten en de studievoortgang van de leerling bevorderen, monitoren, evalueren en attesteren;<br>
 2° de overdracht gebeurt enkel in het belang van de persoon op wie de onderwijsloopbaan betrekking heeft;<br>
 3° tenzij de regelgeving de overdracht verplicht stelt, gebeurt de overdracht niet indien de betrokken personen er zich expliciet tegen verzetten na, op hun verzoek, de gegevens te hebben ingezien;<br>
-4° een kopie van het verslag wordt door de oude school overgedragen aan de nieuwe school of de oude school brengt de nieuwe school op de hoogte van het bestaan van een handelingsgericht advies van het CLB voor ondersteuning vanuit het ondersteuningsmodel. Het CLB dat verbonden is aan de oude school draagt een verslag over aan het CLB dat verbonden is met de nieuwe school of het CLB dat verbonden is aan de oude school brengt het CLB dat verbonden is met de nieuwe school op de hoogte van het handelingsgericht advies. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen die overdrachten niet verzetten;<br>
+4° de vorige school van inschrijving brengt de school waar nu wordt ingeschreven op de hoogte van het bestaan en de inhoud van een IAC-verslag, OV4-verslag of GC-verslag. Het CLB dat verbonden is aan de vorige school van inschrijving brengt het CLB dat verbonden is met de school waar nu wordt ingeschreven, op de hoogte van het bestaan en de inhoud van een IAC-verslag, OV4-verslag of GC-verslag. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen die overdrachten niet verzetten;<br>
 5° het schoolbestuur van de onderwijsinstelling of de gemandateerde is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens voor de looptijd dat deze bewaard dienen te worden;<br>
-6° het centrumbestuur van het CLB dat het verslag of het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in punt 4°, heeft opgesteld, is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel. Het centrumbestuur van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na de ontvangst van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel.<br>
+6° het centrumbestuur van het CLB dat het IAC-verslag, het OV4-verslag of het GC-verslag, vermeld in punt 4°, heeft opgesteld, is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het IAC-verslag, het OV4-verslag of het GC-verslag. Het centrumbestuur van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na de ontvangst van het IAC-verslag, het OV4-verslag of het GC-verslag.<br>
 <br>
 De Vlaamse Regering kan de regels bepalen omtrent de opslagperioden en de verwerkingsactiviteiten en procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking.
 
@@ -2371,6 +2522,24 @@ De betrokken leerling en de betrokken personen hebben een recht op inzage in en 
 Indien na de toelichting blijkt dat de betrokken leerling of de betrokken personen een kopie willen van de leerlingengegevens hebben ze kopierecht. Iedere kopie dient persoonlijk en vertrouwelijk behandeld te worden en mag enkel gebruikt worden in functie van de onderwijsloopbaan van de leerling.<br>
 <br>
 Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) wordt, in de gevallen waarin volledige inzage afbreuk zou doen aan de rechten van derden, inzage in de gegevens verleend in de vorm van een gesprek, gedeeltelijke inzage of rapportage.
+
+### ART 123/7/1.
+
+Een school registreert elke inschrijving binnen zeven kalenderdagen, uiterlijk op de eerste dag van de effectieve lesbijwoning, in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, met vermelding van de volgende informatie:<br>
+1° de datum en het tijdstip van de inschrijving;<br>
+2° de datum van de voorziene start van de lesbijwoning;<br>
+3° de administratieve groep waarvoor de leerling is ingeschreven.<br>
+<br>
+Om de leerlingen uniek te kunnen identificeren bij de registratie van de inschrijving in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, registreert een school de volgende gegevens van de leerling als die beschikbaar zijn:<br>
+1° de identificatiegegevens;<br>
+2° de nationaliteit;<br>
+3° het identificatienummer of rijksregisternummer.<br>
+<br>
+De bevoegde diensten van de Vlaamse Gemeenschap zijn de verwerkingsverantwoordelijke voor de gegevens, vermeld in het eerste en tweede lid.<br>
+<br>
+De maximale bewaartermijnen voor gegevens als vermeld in het eerste en tweede lid die worden bewaard conform artikel 5, lid 1, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels als vermeld in artikel III.81, §2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van die bewaartermijnen wordt rekening gehouden met het kunnen garanderen van een vlot schooltraject.<br>
+<br>
+Om een leerling te kunnen identificeren, kan een schoolbestuur de identiteitsfoto van een leerling op een identiteitskaart verzamelen. Een school kan die mogelijkheid toepassen na toestemming van de betrokken personen. Het schoolbestuur is verwerkingsverantwoordelijke. De foto wordt bewaard gedurende de periode dat de leerling schoolloopt op de school of ingeschreven is in de school. De identiteitsfoto kan alleen worden geraadpleegd door personeelsleden of stagiairs bij de uit- voering van de schoolopdracht van het personeelslid of de stagiair. De verzamelde foto’s mogen niet worden gebruikt voor automatische gelaatsherkenning.
 
 ## [HOOFDSTUK 7. Maatregelen bij schending van leefregels (ing. decr. 4 april 2014, art. V.14, I: 1 september 2014)]
 
@@ -2611,7 +2780,7 @@ Voor het begeleidingsdomein preventieve gezondheidszorg omvat dat voor de school
 
 De school ontwikkelt een beleid op leerlingenbegeleiding dat is afgestemd op het pedagogisch project, de noden van de leerlingenpopulatie en de context waarin de school zich bevindt. Het beleid op leerlingenbegeleiding omvat de begeleiding van de leerlingen, het ondersteunen van het handelen van het onderwijzend personeel en de coördinatie van alle leerlingbegeleidingsinitiatieven op niveau van de school. De school implementeert, evalueert en stuurt, zo nodig, dat beleid bij. Ter versterking van dat beleid voert de school een professionaliseringbeleid. De school wijst binnen haar personeelskader een of meer personeelsleden aan die geheel of gedeeltelijk met leerlingenbegeleiding worden belast.<br>
 <br>
-Bij de opmaak en evaluatie van het beleid op leerlingenbegeleiding betrekt de school relevante actoren. Voor bijkomende inhoudelijke expertise doet de school een beroep op het centrum voor leerlingenbegeleiding. Voor schoolondersteuning zoekt de school externe ondersteuning bij de pedagogische begeleidingsdienst of een andere externe dienst.<br>
+Bij de opmaak en evaluatie van het beleid op leerlingenbegeleiding betrekt de school relevante partners. Voor bijkomende inhoudelijke expertise doet de school een beroep op het centrum voor leerlingenbegeleiding. Voor schoolondersteuning zoekt de school externe ondersteuning bij de pedagogische begeleidingsdienst, eventueel in samenwerking met een externe dienst. Voor expertise met betrekking tot het onderwijs aan leerlingen met specifieke onderwijsbehoeften betrekt de school het leersteuncentrum.<br>
 <br>
 Een beleid op leerlingenbegeleiding beantwoordt aan de volgende principes:<br>
 1° het belang van elke leerling staat centraal;<br>
@@ -2624,7 +2793,11 @@ Een beleid op leerlingenbegeleiding beantwoordt aan de volgende principes:<br>
 
 Bij de leerlingenbegeleiding heeft de school een basisaanbod voor alle leerlingen en biedt zorg voor leerlingen voor wie dit niet volstaat.<br>
 <br>
-In de fase van de verhoogde zorg kan de school consultatieve leerlingenbegeleiding vragen aan het centrum voor leerlingenbegeleiding of wordt dit door het centrum voor leerlingenbegeleiding aangeboden waar het dat nodig acht.<br>
+In de fase van de verhoogde zorg betrekt de school het centrum voor leerlingenbegeleiding bij vragen of bij een stagnerende of negatieve evolutie. Dat kan aanleiding geven tot de inzet van consultatieve leerlingenbegeleiding of de start van de fase van uitbreiding van zorg.<br>
+<br>
+Het centrum voor leerlingenbegeleiding adviseert de school om de pedagogische begeleidingsdienst te betrekken wanneer ze inschat dat de school structurele versterking nodig heeft in de fase van de brede basiszorg en de fase van de verhoogde zorg.<br>
+<br>
+Elke school organiseert op structurele basis overleg met haar centrum voor leerlingenbegeleiding en haar pedagogische begeleidingsdienst om gezamenlijk begeleidings- en professionaliseringsnoden te bepalen op het vlak van het beleid op leerlingenbegeleiding. In overleg wordt bepaald wie welke rol opneemt om de school te versterken. De school kan hierbij andere partners zoals het leersteuncentrum betrekken.<br>
 <br>
 In de fase uitbreiding van zorg wisselen de school en het centrum voor leerlingenbegeleiding met elkaar de beschikbare relevante informatie uit om de afspraken over de bijkomende inzet van middelen, hulp of expertise te realiseren.<br>
 <br>
@@ -2654,48 +2827,66 @@ De samenwerking tussen een school en een centrum kan door de school of het centr
 
 ### ART 123/25.
 
-De bepalingen van deze afdeling houden progressief, leerjaar na leerjaar te beginnen met het eerste leerjaar van de eerste graad, op uitwerking te hebben met ingang van de progressieve uitrol van de modernisering van het secundair onderwijs vanaf 1 september 2019.
+De bepalingen van deze afdeling houden progressief, leerjaar na leerjaar, te beginnen met het eerste leerjaar van de eerste graad, op uitwerking te hebben met ingang van de progressieve uitrol van de modernisering van het secundair onderwijs vanaf 1 september 2019.
 
 ### ART. 124.
 
-Vanaf het schooljaar 2009-2010 bestaat het voltijds secundair onderwijs uit :<br>
-1° de eerste graad, opgebouwd uit :<br>
-a) een eerste leerjaar A;<br>
-b) een eerste leerjaar B, bestemd voor leerlingen die behoefte hebben aan een aangepast onderwijs;<br>
-c) een tweede leerjaar van de eerste graad, waarin basisopties worden onderscheiden;<br>
-d) een beroepsvoorbereidend leerjaar, waarin beroepenvelden worden onderscheiden;<br>
-2° de tweede graad, opgebouwd uit :<br>
-a) een eerste leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
-b) een tweede leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
-3° de derde graad, opgebouwd uit :<br>
-a) een eerste leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
-b) een tweede leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
-c) uitsluitend in het algemeen en het kunstsecundair onderwijs : een derde leerjaar aangeduid als voorbereidend jaar op het hoger onderwijs, waarin opties worden onderscheiden;<br>
-d) uitsluitend in het technisch en het kunstsecundair onderwijs : niet-leerjaar-gebonden opties aangeduid als secundair na secundair, afgekort Se-n-Se;<br>
-e) uitsluitend in het beroepssecundair onderwijs :<br>
-een derde leerjaar aangeduid als specialisatiejaar, waarin opties worden onderscheiden, en een derde leerjaar aangeduid als naamloos leerjaar;<br>
-4° uitsluitend in het beroepssecundair onderwijs :<br>
-de vierde graad, waarin de opties modevormgeving en plastische kunsten worden onderscheiden, opgebouwd uit :<br>
-a) een eerste leerjaar;<br>
-b) een tweede leerjaar.<br>
+Het voltijds secundair onderwijs bestaat uit:<br>
+1° ...;<br>
+2° ...;<br>
+3° de derde graad, opgebouwd uit:<br>
+a)&nbsp;&nbsp; &nbsp;een eerste leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
+b)&nbsp;&nbsp; &nbsp;een tweede leerjaar, waarin onderwijsvormen en opties worden onderscheiden;<br>
+c)&nbsp;&nbsp; &nbsp;uitsluitend in het algemeen en het kunstsecundair onderwijs: een derde leerjaar, dat wordt aangeduid als 7de leerjaar gericht op het hoger onderwijs, waarin opties worden onderscheiden;<br>
+d)&nbsp;&nbsp; &nbsp;uitsluitend in het technisch en het kunstsecundair onderwijs: een derde leerjaar, dat wordt aangeduid als 7de leerjaar, waarin opties worden onderscheiden;<br>
+e)&nbsp;&nbsp; &nbsp;uitsluitend in het beroepssecundair onderwijs: een derde leerjaar, dat wordt aangeduid als 7de leerjaar gericht op instroom arbeidsmarkt, waarin opties worden onderscheiden, en een derde leerjaar, dat wordt aangeduid als 7de leerjaar gericht op het hoger onderwijs;<br>
+4° ...<br>
 <br>
-Uiterlijk met ingang van het schooljaar 2012-2013 zet het betrokken schoolbestuur de optie modevormgeving respectievelijk de optie plastische kunsten progressief, leerjaar na leerjaar te beginnen met het eerste, om, naar keuze :<br>
-a) hetzij naar één optie van het derde leerjaar van de derde graad van het beroepssecundair onderwijs, aangeduid als specialisatiejaar, en naar één optie van de derde graad van het technisch of kunstsecundair onderwijs, aangeduid als Se-n-Se, en bestaande uit twee semesters, binnen het geheel van opties zoals door de Vlaamse Regering bepaald,<br>
-b) hetzij naar twee opties van het derde leerjaar van de derde graad van het beroepssecundair onderwijs, aangeduid als specialisatiejaar, binnen het geheel van opties zoals door de Vlaamse Regering bepaald,<br>
-c) hetzij naar een derde leerjaar van de derde graad van het beroepssecundair onderwijs, aangeduid als naamloos leerjaar, en naar één optie van de derde graad van het technisch of kunstsecundair onderwijs, aangeduid als Se-n-Se, en bestaande uit twee semesters, binnen het geheel van opties zoals door de Vlaamse Regering bepaald,<br>
-zonder dat deze omzetting er mag toe leiden dat in de school een niet-bestaand studiegebied wordt opgericht;<br>
-<br>
-Vanaf het schooljaar 2009-2010 wordt de opleiding verpleegkunde aangeduid als hoger beroepsonderwijs, behorend tot het niveau hoger onderwijs. Ze kan evenwel uitsluitend worden ingericht door scholen voor voltijds secundair onderwijs.<br>
-<br>
-Uiterlijk op 1 september 2014 zet het betrokken schoolbestuur het derde leerjaar van de derde graad van het beroepssecundair onderwijs aangeduid als naamloos leerjaar om, naar keuze, naar twee opties van het derde leerjaar van de derde graad van het beroepssecundair onderwijs, aangeduid als specialisatiejaar, binnen het geheel van opties zoals door de Vlaamse Regering bepaald en zonder dat deze omzetting er mag toe leiden dat in de school een niet-bestaand studiegebied wordt opgericht. De omzetting is voor het betrokken schoolbestuur geen verplichting indien de basisvorming uit ten minste achtentwintig wekelijkse lesuren algemene vakken bestaat, als vermeld in artikel 157, § 4.
+Vanaf het schooljaar 2009-2010 wordt de opleiding verpleegkunde aangeduid als hoger beroepsonderwijs, behorend tot het niveau hoger onderwijs. Ze kan evenwel uitsluitend worden ingericht door scholen voor voltijds secundair onderwijs.
 
 ### ART. 125.
 
-Teneinde overeenstemming te bereiken met de structuur, zoals vermeld in voorgaande artikel, wordt per 1 september 2009 :<br />1° de optie verpleegkunde van de vierde graad van het beroepssecundair onderwijs van rechtswege omgezet naar een gelijknamige opleiding van het hoger beroepsonderwijs met een duurtijd van zes semesters;<br />2° elke tot en met het schooljaar 2008-2009 bestaande optie van het derde leerjaar van de derde graad van het technisch of het kunstsecundair onderwijs aangeduid als specialisatiejaar, van rechtswege omgezet naar een gelijknamige optie aangeduid als Se-n-Se met een duurtijd van twee semesters en gerangschikt als specifiek. (124)
+...
 
 ### ART. 126.
 
-Het aanbod in het secundair onderwijs, met uitzondering van de eerste graad, wordt ingedeeld in studiegebieden.<br /><br />De studiegebieden zijn :<br />1) algemeen secundair onderwijs;<br />2) sport;<br />3) auto;<br />4) bouw;<br />5) chemie;<br />6) decoratieve technieken;<br />7) fotografie;<br />8) glastechnieken;<br />9) grafische communicatie en media;<br />10) handel;<br />11) hout;<br />12) juwelen;<br />13) koeling en warmte;<br />14) land- en tuinbouw;<br />15) lichaamsverzorging;<br />16) maatschappelijke veiligheid;<br />17) maritieme opleidingen;<br />18) mechanica-elektriciteit;<br />19) mode;<br />20) muziekinstrumentenbouw;<br />21) optiek;<br />22) orthopedische technieken;<br />23) personenzorg;<br />24) tandtechnieken;<br />25) textiel;<br />26) toerisme;<br />27) voeding;<br />28) ballet;<br />29) beeldende kunsten;<br />30) podiumkunsten.<br /><br />De Vlaamse Regering rangschikt elk structuuronderdeel in één van desbetreffende studiegebieden. <br /><br />Voor de toepassing van deze bepaling wordt met structuuronderdeel bedoeld : een optie van de tweede, derde of vierde graad en de opleiding verpleegkunde van het hoger beroepsonderwijs. (125)
+Het aanbod in het secundair onderwijs, met uitzondering van de eerste graad, wordt ingedeeld in studiegebieden.<br>
+<br>
+De studiegebieden zijn :<br>
+1) algemeen secundair onderwijs;<br>
+2) sport;<br>
+3) auto;<br>
+4) bouw;<br>
+5) chemie;<br>
+6) decoratieve technieken;<br>
+7) fotografie;<br>
+8) glastechnieken;<br>
+9) grafische communicatie en media;<br>
+10) handel;<br>
+11) hout;<br>
+12) juwelen;<br>
+13) koeling en warmte;<br>
+14) land- en tuinbouw;<br>
+15) lichaamsverzorging;<br>
+16) maatschappelijke veiligheid;<br>
+17) maritieme opleidingen;<br>
+18) mechanica-elektriciteit;<br>
+19) mode;<br>
+20) muziekinstrumentenbouw;<br>
+21) optiek;<br>
+22) orthopedische technieken;<br>
+23) personenzorg;<br>
+24) tandtechnieken;<br>
+25) textiel;<br>
+26) toerisme;<br>
+27) voeding;<br>
+28) ballet;<br>
+29) beeldende kunsten;<br>
+30) podiumkunsten.<br>
+<br>
+De Vlaamse Regering rangschikt elk structuuronderdeel in één van desbetreffende studiegebieden.<br>
+<br>
+Voor de toepassing van deze bepaling wordt met structuuronderdeel bedoeld : een optie van de derde graad en de opleiding verpleegkunde van het hoger beroepsonderwijs. (125)
 
 ### ART. 127.
 
@@ -2712,34 +2903,38 @@ De volgende bepalingen zijn niet van toepassing op structuuronderdelen met in de
 
 ### ART. 128.
 
-<P>De Vlaamse Regering kan beslissen om bestaande structuuronderdelen om te   zetten. De omzetting houdt in dat het structuuronderdeel hetzij wordt opgeheven,   hetzij wordt gewijzigd op één of meer van volgende onderdelen:<BR>a) de   benaming;<BR>b) de graad, de onderwijsvorm, het studiegebied of het   leerjaarniveau waarin het wordt ondergebracht;<BR>c) de duurtijd, doch   uitsluitend wat Se-n-Se betreft;<BR>d) de goedkeuring van   leerplannen.</P>
+<p>De Vlaamse Regering kan beslissen om bestaande structuuronderdelen om te zetten. De omzetting houdt in dat het structuuronderdeel hetzij wordt opgeheven, hetzij wordt gewijzigd op één of meer van volgende onderdelen:<br>
+a) de benaming;<br>
+b) de graad, de onderwijsvorm, het studiegebied of het leerjaarniveau waarin het wordt ondergebracht;<br>
+c) de duurtijd, doch uitsluitend wat 7de leerjaren van het technisch en kunstsecundair onderwijs betreft;<br>
+d) de goedkeuring van leerplannen.</p>
 
 ### ART. 129.
 
-§ 1. De Vlaamse Regering kan, afhankelijk van maatschappelijke,   onderwijskundige of technologische ontwikkelingen of afhankelijk van   arbeidsmarktbehoeften, nieuwe structuuronderdelen vastleggen. Ze kan hiertoe   zelf het initiatief nemen of onderbouwde voorstellen in overweging nemen die   door onderwijsverstrekkers of derden worden ingediend. Voor die voorstellen   bepaalt de Vlaamse Regering de indienings- en adviseringsprocedure.<BR><BR>Als   een nieuw structuuronderdeel wordt vastgelegd, dan bepaalt de Vlaamse Regering   :<BR>1° ...<BR>2° in welk studiegebied dit structuuronderdeel, voor zover het de   tweede of de derde graad betreft, wordt gerangschikt;<BR>3° voor wat betreft de   Se-n-Se : de duurtijd uitgedrukt in semesters.<BR><BR>Voor uitzonderlijke   gevallen kan de Vlaamse Regering bepalen dat tijdens het eerste schooljaar   waarin een geprogrammeerd structuuronderdeel wordt georganiseerd de telling van   regelmatige leerlingen of cursisten van dat structuuronderdeel, voor de   toepassing van de omkaderingsnormen voor de diverse personeelscategorieën   enerzijds en de bepaling van de werkingsmiddelen anderzijds, vastgesteld wordt   op een bepaalde datum of data in de loop van het betrokken schooljaar. Onder   uitzonderlijke gevallen worden programmaties van structuuronderdelen verstaan   die :<BR>a) rechtstreeks en onmiddellijk tegemoetkomen aan dringende of   onvoorziene lokale of regionale ontwikkelingen op socio-economisch,   maatschappelijk of onderwijskundig vlak, waarbij de betrokken schoolbesturen tot   een ingreep in het studieaanbod genoodzaakt zijn; en <BR>b) in de   aanvangsperiode van effectieve organisatie de inzet van een groter aantal   personele en materiële middelen vereisen dan in het gewone financierings- en   subsidiëringssysteem is voorzien.<BR><BR>§ 2. Voor de toepassing van § 1 wordt   met structuuronderdelen bedoeld : basisopties, beroepenvelden, opties van de   tweede of derde graad. (128)
+...
 
 ### ART. 130.
 
-§ 1. Se-n-Se van de derde graad van het technisch en kunstsecundair onderwijs hebben een duurtijd van een semester, twee aansluitende semesters of drie aansluitende semesters. Se-n-Se kunnen voor de leerlingen starten hetzij op 1 september hetzij op 1 februari.<br>
+§1. 7de leerjaren van het technisch en kunstsecundair onderwijs hebben een duurtijd van een semester, twee aansluitende semesters of drie aansluitende semesters en kunnen voor de leerlingen op 1 september of op 1 februari starten.<br>
 <br>
-Se-n-Se zijn sterk beroepsgericht, leiden tot een erkende onderwijskwalificatie van kwalificatieniveau 4 die bestaat uit minstens één erkende beroepskwalificatie van kwalificatieniveau 4, en worden bekrachtigd met een certificaat. Ze bevatten een relevant aandeel werkplekleren, zijnde leeractiviteiten die gericht zijn op het verwerven van algemene en/of beroepsgerichte competenties, waarbij de arbeidssituatie de leeromgeving is. Onder eenzelfde benaming van een optie kan een Se-n-Se slechts aan één welbepaalde duurtijd worden gekoppeld.<br>
+7de leerjaren van het technisch en kunstsecundair onderwijs zijn sterk beroepsgericht, bestaan uit minstens één erkende beroepskwalificatie van kwalificatieniveau 4, en worden bekrachtigd met een certificaat. Ze bevatten een relevant aandeel werkplekleren, namelijk leeractiviteiten die gericht zijn op het verwerven van algemene en/of beroepsgerichte competenties, waarbij de arbeidssituatie de leeromgeving is. Onder eenzelfde benaming kan een optie maar aan één welbepaalde duurtijd worden gekoppeld.<br>
 <br>
-§ 2. Voor de organisatie van een Se-n-Se kan een school voor voltijds secundair onderwijs samenwerken met :<br>
-1° één of meer andere scholen voor secundair onderwijs, centra voor volwassenenonderwijs of hogescholen;<br>
-2° één of meer publieke verstrekkers van beroepsopleidingen voor volwassenen;<br>
+§2. Voor de organisatie van een 7de leerjaar van het technisch of kunstsecundair onderwijs kan een school voor voltijds secundair onderwijs samenwerken met:<br>
+1° een of meer andere scholen voor secundair onderwijs, centra voor volwassenenonderwijs of hogescholen;<br>
+2° een of meer publieke verstrekkers van beroepsopleidingen voor volwassenen;<br>
 3° andere organisaties of bedrijven uit de publieke of private sector.<br>
 <br>
-Binnen dat samenwerkingsverband is de eerst vermelde school voor voltijds secundair onderwijs altijd de coördinerende school. Uitsluitend de coördinerende school is bevoegd en verantwoordelijk voor de inschrijving van leerlingen voor het geheel van de Se-n-Se, de programmatie, de evaluatie, de studiebekrachtiging en de kwaliteitszorg, terwijl op het vlak van de financiering of subsidiëring de vigerende decretale en regelgevende bepalingen enkel van toepassing zijn op de coördinerende school.<br>
+Binnen het samenwerkingsverband, vermeld in het eerste lid, is de eerst vermelde school voor voltijds secundair onderwijs altijd de coördinerende school. Alleen de coördinerende school is bevoegd en verantwoordelijk voor de inschrijving van een leerling voor het geheel van een optie van het 7de leerjaar van het technisch of kunstsecundair onderwijs, de programmatie, de evaluatie, de studiebekrachtiging en de kwaliteitszorg, terwijl op het vlak van de financiering of subsidiëring de geldende decretale en regelgevende bepalingen alleen van toepassing zijn op de coördinerende school.<br>
 <br>
-De samenwerking wordt vastgelegd in een overeenkomst waarin ten minste de volgende elementen worden opgenomen :<br>
+De samenwerking, vermeld in het eerste lid, wordt vastgelegd in een overeenkomst waarin ten minste de volgende elementen worden opgenomen:<br>
 1° de partners waarmee wordt samengewerkt;<br>
 2° de coördinerende school;<br>
 3° de invulling van de samenwerking;<br>
 4° de looptijd van de samenwerking;<br>
 5° de afspraken over de evaluatie en de kwaliteitszorg;<br>
-6° de afspraken over het inzetten van personeel. Het protocol van de onderhandelingen hierover in de lokale comités wordt als bijlage bij de samenwerkingsovereenkomst gevoegd.<br>
+6° de afspraken over het inzetten van personeel. Het protocol van de onderhandelingen ter zake in de bevoegde lokale comités wordt als bijlage bij de samenwerkingsovereenkomst gevoegd.<br>
 <br>
-Een coördinerende school kan, na onderhandeling in het lokale comité, uren-leraar overdragen aan een partner waarmee wordt samengewerkt. Tenzij die overdracht plaats vindt naar een andere school voor secundair onderwijs of naar een centrum voor volwassenenonderwijs, worden de betrokken uren-leraar beschouwd als uren-leraar aangewend voor voordrachtgevers en gelden de bepalingen van artikel 211, § 3.
+Een coördinerende school kan, na onderhandeling in het lokale comité, uren-leraar overdragen aan een partner waarmee wordt samengewerkt. Tenzij de voormelde overdracht plaatsvindt naar een andere school voor secundair onderwijs of naar een centrum voor volwassenenonderwijs, worden de betrokken uren-leraar beschouwd als uren-leraar aangewend voor gastleraren en gelden de bepalingen van artikel 211, §3.
 
 ### ART. 131.
 
@@ -2747,16 +2942,11 @@ Een coördinerende school kan, na onderhandeling in het lokale comité, uren-ler
 
 ### ART. 132.
 
-Hoger beroepsonderwijs, bestaande uit de opleiding verpleegkunde, is beroepsgericht onderwijs, leidt tot een erkende onderwijskwalificatie van kwalificatieniveau 5 die bestaat uit minstens één erkende beroepskwalificatie van kwalificatieniveau 5, en wordt bekrachtigd met een diploma van gegradueerde. Het hoger beroepsonderwijs heeft een duurtijd van zes semesters. Bij modulaire organisatie kan het hoger beroepsonderwijs voor de cursisten starten hetzij op 1 september hetzij op 1 februari, bij niet-modulaire organisatie enkel op 1 september.<br>
-<br>
-Het hoger beroepsonderwijs wordt georganiseerd enerzijds overeenkomstig de codificatie van de bepalingen betreffende het secundair onderwijs en anderzijds overeenkomstig de bepalingen van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
-<br>
-Met inachtname van de voorwaarde inzake studieomvang zoals bepaald in de richtlijn 2005/36/EG van het Europees Parlement en de Raad, dient de school, buiten de wekelijkse lessentabel, aan de cursisten verpleegkunde gedurende de volledige duur van de opleiding en naar rata van ten minste 4 wekelijkse lestijden, opleidingsgebonden persoonlijke activiteiten op te leggen. De klassenraad beslist autonoom over de vorm en inhoud van deze activiteiten. De resultaten van de door de cursist uitgevoerde activiteiten worden in aanmerking genomen bij zijn of haar evaluatie door de klassenraad. (131)<br>
-&nbsp;
+...
 
 ### ART. 133.
 
-De opties « elektronica militaire wapensystemen », « militaire en sociale wetenschappen » en « militaire bewapeningstechnieken » van het eerste en het tweede leerjaar van de derde graad van het technisch secundair onderwijs zijn voorbehouden voor de instellingen van de Krijgsmacht. Op deze opties zijn de bepalingen van artikelen 126, 127 en 128 niet van toepassing. (132)
+...
 
 ## [Afdeling 1/1. Structuur en organisatie op macroniveau (ing. decr. 20 april 2018, art. 8, I: 1 september 2019)]
 
@@ -2772,7 +2962,7 @@ De eerste graad omvat een eerste leerjaar A, een eerste leerjaar B, een tweede l
 <br>
 De tweede graad omvat een eerste leerjaar en een tweede leerjaar.<br>
 <br>
-De derde graad omvat een eerste leerjaar, een tweede leerjaar en een derde leerjaar, aangeduid als secundair-na-secundair, afgekort Se-n-Se.
+De derde graad omvat een eerste leerjaar, een tweede leerjaar en een derde leerjaar, aangeduid als 7de leerjaar.
 
 ### ART 133/3.
 
@@ -2825,15 +3015,16 @@ Binnen de finaliteit doorstroom zijn de studierichtingen van het algemeen secund
 <br>
 Sommige studierichtingen zijn niche-studierichtingen. Het aanbod ervan wordt aan beperkingen of voorwaarden gekoppeld vanuit macrodoelmatigheid.<br>
 <br>
-Het Se-n-Se bevat studierichtingen die een van de volgende zaken doen:<br>
-1° beroepsgericht specialiseren;<br>
-2° voorbereiden op het hoger onderwijs, met in elk geval één studierichting die volgt op studierichtingen met finaliteit arbeidsmarkt van het eerste en tweede leerjaar van de derde graad en die leidt tot een diploma dat toegang verleent tot een bacheloropleiding.<br>
-<br>
+De 7de leerjaren zijn studierichtingen die aan een van de volgende voorwaarden voldoen:<br>
+1° gericht zijn op instroom arbeidsmarkt;<br>
+2° gericht zijn op het hoger onderwijs, met in elk geval één studierichting die volgt op studierichtingen met finaliteit arbeidsmarkt van het eerste en tweede leerjaar van de derde graad en die leidt tot een diploma dat toegang verleent tot een bacheloropleiding.<br>
+&nbsp;<br>
 In de matrix:<br>
-1° worden ook het studieaanbod van het deeltijds beroepssecundair onderwijs en de leertijd en het studieaanbod van het buitengewoon secundair onderwijs, opleidingsvorm 3, opgenomen onder de finaliteit arbeidsmarkt;<br>
-2° wordt ook het buitengewoon secundair onderwijs, opleidingsvorm 1 en 2, opgenomen, maar buiten de ordening op basis van studiedomeinen, finaliteiten en onderwijsvormen;<br>
+1° wordt het studieaanbod van het buitengewoon secundair onderwijs, opleidingsvorm 3, opgenomen onder de finaliteit arbeidsmarkt;<br>
+2° wordt het buitengewoon secundair onderwijs, opleidingsvorm 1 en 2, opgenomen, maar buiten de ordening op basis van studiedomeinen, finaliteiten en onderwijsvormen;<br>
 3° wordt het onthaaljaar niet opgenomen;<br>
-4° wordt het Se-n-Se niet aan onderwijsvormen gekoppeld, behoudens bij financiering als die ook voor andere structuuronderdelen dan Se-n-Se op onderwijsvormen is gebaseerd.<br>
+4° worden de 7de leerjaren niet aan onderwijsvormen gekoppeld, behalve bij financiering als die ook voor andere structuuronderdelen dan de 7de leerjaren op onderwijsvormen is gebaseerd<br>
+.<br>
 <br>
 Met inachtname van het eerste tot en met het achtste lid legt de Vlaamse Regering de matrix vast.<br>
 <br>
@@ -2902,13 +3093,13 @@ De Vlaamse Regering rangschikt de studierichtingen, vermeld in het eerste lid, i
 <br>
 § 2. De studierichtingen van de finaliteit doorstroom en de dubbele finaliteit leiden in het tweede leerjaar van de derde graad tot een bewijs van onderwijskwalificatie niveau 4.<br>
 <br>
-Het Se-n-Se in het derde leerjaar van de derde graad waarmee een diploma behaald kan worden dat toegang verleent tot een bacheloropleiding, leidt tot een bewijs van onderwijskwalificatie niveau 4.<br>
+Het 7de leerjaar dat gericht is op het hoger onderwijs en waarmee een diploma behaald kan worden dat toegang verleent tot een bacheloropleiding, leidt tot een bewijs van onderwijskwalificatie niveau 4.<br>
 <br>
 De studierichtingen van de finaliteit arbeidsmarkt leiden in het tweede leerjaar van de derde graad tot een bewijs van onderwijskwalificatie niveau 3.<br>
 <br>
 De studierichtingen van de finaliteit arbeidsmarkt kunnen in het tweede leerjaar van de tweede graad tot een bewijs van onderwijskwalificatie niveau 2 leiden, op voorwaarde dat voldaan wordt aan de voorwaarden van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
-Het Se-n-Se in het derde leerjaar van de derde graad als beroepsgerichte specialisatie leidt tot een of meer bewijzen van beroepskwalificaties niveau 3 of 4, eventueel aangevuld met een of meer bewijzen van deelkwalificaties.
+Het 7de leerjaar dat gericht is op instroom arbeidsmarkt leidt tot een of meer bewijzen van beroepskwalificaties niveau 3 of 4, eventueel aangevuld met een of meer bewijzen van deelkwalificaties.
 
 ### ART 133/5.
 
@@ -2937,8 +3128,8 @@ Uiterlijk om de vijf schooljaren vanaf het tweede schooljaar van de progressieve
 
 Een leerjaar is gelijk aan een schooljaar, dat bestaat uit twee aansluitende semesters, en start op de eerste lesdag van september.<br>
 <br>
-In afwijking van het eerste lid kan een Se-n-Se als beroepsgerichte specialisatie:<br>
-1° een duurtijd hebben van één semester of drie aansluitende semesters, afhankelijk van de breedte en het niveau van competenties van de beroepskwalificaties waaruit het Se-n-Se is samengesteld, als de Vlaamse Regering dat zo bepaalt;<br>
+In afwijking van het eerste lid kan een 7de leerjaar gericht op instroom arbeidsmarkt:<br>
+1° een duurtijd hebben van één semester of drie aansluitende semesters, afhankelijk van de breedte en het niveau van competenties van de beroepskwalificaties waaruit het 7de leerjaar gericht op instroom arbeidsmarkt, is samengesteld, als de Vlaamse Regering dat zo bepaalt;<br>
 2° starten op de eerste lesdag van september of op de eerste lesdag van februari.
 
 ## Afdeling 2. Structuur en organisatie op schoolniveau
@@ -2969,7 +3160,7 @@ Aan domeinscholen of campusscholen kunnen bij decreet of besluit voordelen worde
 
 ### ART 134/2.
 
-Voor de organisatie van een Se-n-Se als beroepsgerichte specialisatie kan een school samenwerken met:<br>
+Voor de organisatie van een 7de leerjaar gericht op instroom arbeidsmarkt kan een school samenwerken met:<br>
 1° een of meer andere scholen voor secundair onderwijs, centra voor volwassenenonderwijs of hogescholen;<br>
 2° een of meer publieke verstrekkers van beroepsopleidingen voor volwassenen;<br>
 3° andere organisaties of bedrijven uit de publieke of private sector.<br>
@@ -2984,7 +3175,11 @@ De samenwerking wordt vastgelegd in een overeenkomst die ten minste de volgende 
 5° de afspraken over de evaluatie en de kwaliteitszorg;<br>
 6° de afspraken over de inzet van personeel. Het protocol van de onderhandelingen daarover in de lokale comités wordt als bijlage bij de samenwerkingsovereenkomst gevoegd.<br>
 <br>
-Een coördinerende school kan, na onderhandeling in het lokale comité, uren-leraar overdragen aan een partner waarmee ze samenwerkt. Tenzij die overdracht plaatsvindt naar een andere school voor secundair onderwijs of naar een centrum voor volwassenenonderwijs, worden de uren-leraar in kwestie beschouwd als uren-leraar die aangewend worden voor voordrachtgevers.
+Een coördinerende school kan, na onderhandeling in het lokale comité, uren-leraar overdragen aan een partner waarmee ze samenwerkt. Tenzij die overdracht plaatsvindt naar een andere school voor secundair onderwijs of naar een centrum voor volwassenenonderwijs, worden de uren-leraar in kwestie beschouwd als uren-leraar die aangewend worden voor gastleraren.
+
+### ART 134/3.
+
+Een school met een gepland studieaanbod van tweejarige structuuronderdelen met in de benaming ‘topsport’ in de tweede of derde graad kan de organisatie van het voormelde structuuronderdeel beperken tot een van beide leerjaren als in het andere leerjaar uitzonderlijk geen leerlingen op de eerste lesdag van oktober van het lopende schooljaar zijn ingeschreven. De voormelde regeling kan nooit de aanleiding vormen tot herprogrammatie van het structuuronderdeel in kwestie.
 
 ### ART. 135.
 
@@ -2992,7 +3187,13 @@ Naast het in artikel 134 gestelde, kan een school onthaalonderwijs organiseren. 
 
 ### ART. 136.
 
-Het schoolbestuur kan op grond van specifieke onderwijskundige of organisatorische argumenten en met het oog op het aanbieden van meer individuele leertrajecten, beslissen om voor een leerling of een leerlingengroep af te wijken van de voorwaarde, vermeld in artikel 252, § 1, a), 2), onder de modaliteiten vermeld in 1°, 2° of 3° hierna.<br />1° Het individueel vrijstellen van het volgen van bepaalde onderdelen van de vorming van een bepaald structuuronderdeel, mits enerzijds de leerling al geslaagd is voor diezelfde onderdelen binnen het secundair onderwijs en anderzijds de toelatingsklassenraad een gunstige beslissing neemt na kennisname van het advies van de delibererende klassenraad van het voorafgaand schooljaar.<br />In voorkomend geval :<br />a) bestaat de toelatingsklassenraad, voor wat het onderwijzend personeel betreft en in afwijking op de vigerende regelgeving, uit alle leden van het structuuronderdeel waarvoor de leerling opteert;<br />b) worden de vrijgekomen uren besteed aan een door de toelatingsklassenraad samengesteld individueel lesprogramma.<br />2° Het individueel vrijstellen van het volgen van bepaalde onderdelen van de vorming van een optie, aangeduid als Se-n-Se, mits de toelatingsklassenraad een gunstige beslissing neemt op basis van elders verworven competenties of kwalificaties.<br />3° Het spreiden van de vorming van een optie, aangeduid als Se-n-Se, over het dubbele van de gebruikelijke studieduur. In voorkomend geval wordt enerzijds bij het einde van de gebruikelijke studieduur slechts een attest van regelmatige lesbijwoning uitgereikt en anderzijds voor de toepassing van de omkaderingsnormen voor de diverse personeelscategorieën, de bepaling van de werkingsmiddelen en de toepassing van het programmatie- of rationalisatieplan, de regelmatige leerling niet meer in aanmerking genomen op de tellingsdata die vallen buiten de gebruikelijke studieduur. (135)
+Het schoolbestuur kan op grond van specifieke onderwijskundige of organisatorische argumenten en met het oog op het aanbieden van meer individuele leertrajecten, beslissen om voor een leerling of een leerlingengroep af te wijken van de voorwaarde, vermeld in artikel 252, § 1, a), 2), onder de modaliteiten vermeld in 1°, 2° of 3° hierna.<br>
+1° Het individueel vrijstellen van het volgen van bepaalde onderdelen van de vorming van een bepaald structuuronderdeel, mits enerzijds de leerling al geslaagd is voor diezelfde onderdelen binnen het secundair onderwijs&nbsp;of via de examencommissie, vermeld in artikel 256/1, en anderzijds de toelatingsklassenraad een gunstige beslissing neemt na kennisname van het advies van de delibererende klassenraad van het voorafgaand schooljaar.<br>
+In voorkomend geval :<br>
+a) bestaat de toelatingsklassenraad, voor wat het onderwijzend personeel betreft en in afwijking op de vigerende regelgeving, uit alle leden van het structuuronderdeel waarvoor de leerling opteert;<br>
+b) worden de vrijgekomen uren besteed aan een door de toelatingsklassenraad samengesteld individueel lesprogramma.<br>
+2° Het individueel vrijstellen van het volgen van bepaalde onderdelen van de vorming van een optie, aangeduid als 7de leerjaar van het technisch of kunstsecundair onderwijs, mits de toelatingsklassenraad een gunstige beslissing neemt op basis van elders verworven competenties of kwalificaties.<br>
+3° Het spreiden van de vorming van een optie, aangeduid als 7de leerjaar van het technisch of kunstsecundair onderwijs, over het dubbele van de gebruikelijke studieduur. In voorkomend geval wordt enerzijds bij het einde van de gebruikelijke studieduur slechts een attest van regelmatige lesbijwoning uitgereikt en anderzijds voor de toepassing van de omkaderingsnormen voor de diverse personeelscategorieën, de bepaling van de werkingsmiddelen en de toepassing van het programmatie- of rationalisatieplan, de regelmatige leerling niet meer in aanmerking genomen op de tellingsdata die vallen buiten de gebruikelijke studieduur. (135)
 
 ### ART. 136/1.
 
@@ -3012,7 +3213,9 @@ d) de afspraken over de evaluatie en kwaliteitszorg.<br>
 7° als het een leerling betreft van het buitengewoon secundair onderwijs die de lessen bijwoont in het gewoon secundair onderwijs, kan die maximaal op schooljaarbasis gemiddeld halftijds een deel van de vorming bijwonen in het gewoon onderwijs, maximaal op schooljaarbasis gemiddeld gedurende de helft van de wekelijkse lesuren van het structuuronderdeel van het buitengewoon onderwijs waarvoor hij is ingeschreven;<br>
 8° deze regeling is in hoofde van een leerling gedurende hetzelfde schooljaar niet combineerbaar met hetgeen in artikel 260/1 is opgenomen.<br>
 <br>
-De samenwerkingsovereenkomst ligt steeds in de scholen ter inzage met het oog op administratieve controle en externe kwaliteitscontrole.</p>
+De samenwerkingsovereenkomst ligt steeds in de scholen ter inzage met het oog op administratieve controle en externe kwaliteitscontrole.<br>
+<br>
+In afwijking van het eerste lid, 7°, kan een leerling uit het buitengewoon secundair onderwijs eenmalig, gedurende maximum twee schooljaren de lessen voltijds bijwonen in het gewoon secundair onderwijs, met het oog op een overstap naar het gewoon voltijds onderwijs. Een leerling die twee schooljaren in het gewoon voltijds onderwijs doorbrengt, heeft, in afwijking van artikel 253/6, §2, en artikel 253/37, §2, een onverkort recht op inschrijving in de school voor gewoon onderwijs. Als de betrokken personen en de leerling beslissen om de overstap te maken naar het gewoon onderwijs, overleggen de school voor gewoon onderwijs, de school voor buitengewoon onderwijs, het CLB en de betrokken personen, met betrokkenheid van de leerling, met het leersteuncentrum over de overname van de ondersteuning.</p>
 
 ### ART. 136/2.
 
@@ -3020,7 +3223,26 @@ De samenwerkingsovereenkomst ligt steeds in de scholen ter inzage met het oog op
 
 ### ART. 136/3.
 
-<P>§ 1. Het schoolbestuur kan op grond van specifieke onderwijskundige   argumenten en met het oog op het aanbieden van meer individuele leertrajecten,   beslissen om voor een leerling of leerlingengroep af te wijken van de   voorwaarde, vermeld in artikel 252, § 1, a), 2), onder de volgende modaliteiten   : <BR>1° het individueel vrijstellen van het volgen van bepaalde onderdelen van   de vorming van een bepaald structuuronderdeel gedurende een deel of het geheel   van het schooljaar voor een leerling met topkunstenstatuut teneinde, tijdens die   vrijgestelde periodes, zijn artistieke talenten verder te ontwikkelen, mits de   toelatings- of begeleidende klassenraad, naargelang van het geval, een gunstige   beslissing neemt én mits akkoord van de betrokken personen; <BR>2° in voorkomend   geval :<BR>a) bestaat de toelatingsklassenraad, voor wat het onderwijzend   personeel betreft en in afwijking op de vigerende regelgeving, uit alle leden   van het structuuronderdeel waarvoor de leerling opteert;<BR>b) moet   voorafgaandelijk een selectiecommissie aan de leerling   het&nbsp;topkunstenstatuut A, indien de leerling opteert voor een   structuuronderdeel van het kunstsecundair onderwijs, of   het&nbsp;topkunstenstatuut B, indien de leerling opteert voor een   structuuronderdeel van het algemeen, het technisch of het beroepssecundair   onderwijs, hebben toegekend; <BR>c) worden individuele vrijstellingen   schriftelijk en gemotiveerd vastgelegd; <BR>d) doen individuele vrijstellingen   geen afbreuk aan de studiebekrachtiging; <BR>e) vindt de talentontwikkeling   plaats :<BR>- bij&nbsp;topkunstenstatuut A : via individueel onderricht binnen   de school of in een artistieke leercontext buiten de school, verstrekt door een   aan de school externe deskundige lesgever die eventueel fungeert in het stelsel   van voordrachtgever of onderwijs; <BR>- bij&nbsp;topkunstenstatuut B : via   individueel onderricht in een artistieke leercontext buiten de school, verstrekt   door een aan de school externe deskundige lesgever die eventueel personeelslid   is van een instelling voor hoger kunstonderwijs of deeltijds   kunstonderwijs.<BR><BR>§ 2. Met het oog op de samenstelling van de   selectiecommissie leggen de ministers, bevoegd voor onderwijs en cultuur, een   pool aan van specialisten uit het hoger kunstonderwijs en het professionele   kunstenlandschap. <BR><BR>De selectiecommissie stelt een intern werkreglement op   en bepaalt de selectiecriteria die ze hanteert, waaronder alleszins het   talentenprofiel van de leerling en het kwalitatief niveau van de externe   lesgever of van de context. <BR><BR>De selectiecommissie komt eenmaal per jaar   samen om te beslissen over alle ingediende schriftelijke en gemotiveerde   aanvragen van de betrokken personen tot toekenning van het topkunstenstatuut.   Daartoe moeten de aanvragen uiterlijk 1 april van het voorafgaand schooljaar   worden ingediend. Onverminderd het in het eerste lid gestelde, gebeurt de   effectieve samenstelling van de selectiecommissie in functie van de aard van de   te beoordelen artistieke talenten van de leerling in kwestie.<BR><BR>§ 3. De   selectiecommissie kan bijkomend het recht verlenen aan de leerling om maximaal   90 halve lesdagen per schooljaar gewettigd afwezig te zijn op school, teneinde   deel te nemen aan wedstrijden, stages, masterclasses of andere   school-extramurale activiteiten die rechtstreeks aanleunen bij de artistieke   discipline van de leerling. <BR><BR>§ 4. Het&nbsp;topkunstenstatuut geldt voor   één schooljaar en is, na aanvraag, hernieuwbaar.</P>
+<p>§ 1. Het schoolbestuur kan op grond van specifieke onderwijskundige argumenten en met het oog op het aanbieden van meer individuele leertrajecten, beslissen om voor een leerling of leerlingengroep af te wijken van de voorwaarde, vermeld in artikel 252, § 1, a), 2), onder de volgende modaliteiten :<br>
+1° het individueel vrijstellen van het volgen van bepaalde onderdelen van de vorming van een bepaald structuuronderdeel gedurende een deel of het geheel van het schooljaar voor een leerling met topkunstenstatuut teneinde, tijdens die vrijgestelde periodes, zijn artistieke talenten verder te ontwikkelen, mits de toelatings- of begeleidende klassenraad, naargelang van het geval, een gunstige beslissing neemt én mits akkoord van de betrokken personen;<br>
+2° in voorkomend geval :<br>
+a) bestaat de toelatingsklassenraad, voor wat het onderwijzend personeel betreft en in afwijking op de vigerende regelgeving, uit alle leden van het structuuronderdeel waarvoor de leerling opteert;<br>
+b) moet voorafgaandelijk een selectiecommissie aan de leerling het&nbsp;topkunstenstatuut A, indien de leerling opteert voor een structuuronderdeel van het kunstsecundair onderwijs, of het&nbsp;topkunstenstatuut B, indien de leerling opteert voor een structuuronderdeel van het algemeen, het technisch of het beroepssecundair onderwijs, hebben toegekend;<br>
+c) worden individuele vrijstellingen schriftelijk en gemotiveerd vastgelegd;<br>
+d) doen individuele vrijstellingen geen afbreuk aan de studiebekrachtiging;<br>
+e) vindt de talentontwikkeling plaats :<br>
+- bij&nbsp;topkunstenstatuut A : via individueel onderricht binnen de school of in een artistieke leercontext buiten de school, verstrekt door een aan de school externe deskundige lesgever die eventueel fungeert in het stelsel van gastleraar&nbsp;of onderwijs;<br>
+- bij&nbsp;topkunstenstatuut B : via individueel onderricht in een artistieke leercontext buiten de school, verstrekt door een aan de school externe deskundige lesgever die eventueel personeelslid is van een instelling voor hoger kunstonderwijs of deeltijds kunstonderwijs.<br>
+<br>
+§ 2. Met het oog op de samenstelling van de selectiecommissie leggen de ministers, bevoegd voor onderwijs en cultuur, een pool aan van specialisten uit het hoger kunstonderwijs en het professionele kunstenlandschap.<br>
+<br>
+De selectiecommissie stelt een intern werkreglement op en bepaalt de selectiecriteria die ze hanteert, waaronder alleszins het talentenprofiel van de leerling en het kwalitatief niveau van de externe lesgever of van de context.<br>
+<br>
+De selectiecommissie komt eenmaal per jaar samen om te beslissen over alle ingediende schriftelijke en gemotiveerde aanvragen van de betrokken personen tot toekenning van het topkunstenstatuut. Daartoe moeten de aanvragen uiterlijk 1 april van het voorafgaand schooljaar worden ingediend. Onverminderd het in het eerste lid gestelde, gebeurt de effectieve samenstelling van de selectiecommissie in functie van de aard van de te beoordelen artistieke talenten van de leerling in kwestie.<br>
+<br>
+§ 3. De selectiecommissie kan bijkomend het recht verlenen aan de leerling om maximaal 90 halve lesdagen per schooljaar gewettigd afwezig te zijn op school, teneinde deel te nemen aan wedstrijden, stages, masterclasses of andere school-extramurale activiteiten die rechtstreeks aanleunen bij de artistieke discipline van de leerling.<br>
+<br>
+§ 4. Het&nbsp;topkunstenstatuut geldt voor één schooljaar en is, na aanvraag, hernieuwbaar.</p>
 
 ### ART. 136/4.
 
@@ -3140,7 +3362,9 @@ De eindtermen, de uitbreidingsdoelen Nederlands, de ontwikkelingsdoelen en de sp
 
 ### ART. 144.
 
-Specifieke eindtermen en erkende beroepskwalificaties zijn specifiek voor afzonderlijke structuuronderdelen.
+Specifieke eindtermen, beroepskwalificaties, deelkwalificaties en sets van competenties uit beroepskwalificaties zijn specifiek voor afzonderlijke structuuronderdelen. Met behoud van de toepassing van de bepalingen van deze onderafdeling en artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, selecteert de Vlaamse Regering, naargelang het geval, per afzonderlijk structuuronderdeel:<br>
+1° de toepasbare specifieke eindtermen binnen het geheel van de door het Vlaams Parlement goedgekeurde specifieke eindtermen;<br>
+2° de toepasbare beroepskwalificatie(s), deelkwalificatie(s) of set(s) van competenties binnen het geheel van de door de Vlaamse Regering erkende beroepskwalificaties en deelkwalificaties.
 
 ### ART. 145.
 
@@ -3250,7 +3474,7 @@ Leerplannen worden door de onderwijsverstrekkers ingediend bij de onderwijsinspe
 <br>
 § 2. In afwijking op paragraaf 1, vormen curriculumdossiers niet de basis voor het opstellen van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie en dienen deze leerplannen niet door de Vlaamse Regering te worden goedgekeurd. Deze leerplannen worden publiek bekendgemaakt.<br>
 <br>
-In afwijking van paragraaf 1, derde lid, mag in het schooljaar 2022-2023 een schoolbestuur leerplannen toepassen die, in voorkomend geval, aansluiten bij de door het Vlaams Parlement goedgekeurde vervangende eindtermen van de tweede graad, vermeld in artikel 146, § 5, zonder dat die leerplannen door de Vlaamse Regering zijn goedgekeurd.<br>
+In afwijking van paragraaf 1, derde lid, behoeven in het schooljaar 2023-2024 de leerplannen voor de leerjaren van de gemoderniseerde tweede en derde graad secundair onderwijs niet door de Vlaamse Regering te zijn goedgekeurd.<br>
 <br>
 § 3. Alle leerplannen, met inbegrip van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing of eigen cultuur en religie zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en respecteren de goedgekeurde eindtermen en ontwikkelingsdoelen. De leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie respecteren tevens de interlevensbeschouwelijke competenties.<br>
 <br>
@@ -3272,11 +3496,11 @@ De bepalingen van deze afdeling houden progressief, leerjaar na leerjaar te begi
 
 ### ART. 148.
 
-Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt gedurende een maximum aantal wekelijkse lestijden. (147)
+...
 
 ### ART. 149.
 
-Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt   gedurende een maximum aantal wekelijkse lestijden dat op 32 is vastgesteld, met   uitzondering van het onderwijs in :<BR>1° het tweede leerjaar van de eerste   graad met tenminste 4 wekelijkse lestijden praktische vakken en het   beroepsvoorbereidend leerjaar, waarvoor dit maximum 34 bedraagt;<BR>2° de derde   graad van het algemeen secundair onderwijs met tenminste 2 wekelijkse lestijden   lichamelijke opvoeding en tenminste 1 wekelijkse lestijd artistieke opvoeding of   esthetica, waarvoor dit maximum 33 bedraagt;<BR>3° het technisch, het kunst- en   het beroepssecundair onderwijs en het hoger beroepsonderwijs, waarvoor dit   maximum 36 bedraagt.<BR><BR>De hiervoor vermelde maxima kunnen worden   overschreden door
+...
 
 ### ART. 150.
 
@@ -3292,11 +3516,11 @@ Onverminderd de bepalingen inzake minimum lessenrooster stelt de Vlaamse   Reger
 
 ### ART. 153.
 
-§ 1. Zowel in het eerste leerjaar A als in het eerste leerjaar B worden ten minste zevenentwintig wekelijkse lesuren besteed aan de basisvorming.<br /><br />§ 2. Op voorwaarde dat hetzelfde studiepeil voor de basisvorming wordt gegarandeerd, kan de Vlaamse Regering aan scholen individuele afwijkingen verlenen van het in § 1 vermelde aantal wekelijkse lesuren. De afwijkingen dienen gebaseerd te zijn, op de aan de betrokken scholen, eigen programmatische, methodologische of pedagogische inzichten.<br /><br />§ 3. Voor het eerste leerjaar A bestaat de basisvorming, bedoeld in § 1, uit de volgende vakken :<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- Frans;<br />- wiskunde;<br />- geschiedenis;<br />- aardrijkskunde;<br />- natuurwetenschappen of fysica en/of biologie en vervangen vanaf 1 september 2010 door natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- technologische opvoeding en vervangen vanaf 1 september 2010 door techniek;<br />- eventueel Engels.<br /><br />Deze basisvorming dient georganiseerd te worden op grond van minstens een zelfde minimumleerplan dat door alle leerlingen van eenzelfde school dient gevolgd te worden.<br /><br />§ 4. Voor het eerste leerjaar B bestaat de basisvorming, bedoeld in § 1, uit volgende vakken :<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- wiskunde;<br />- maatschappelijke vorming of geschiedenis en aardrijkskunde;<br />- natuurwetenschappen of fysica en/of biologie en vervangen vanaf 1 september 2010 door natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- technologische opvoeding en vervangen vanaf 1 september 2010 door techniek;<br />- eventueel Frans en vervangen vanaf 1 september 2010 door Frans.<br /><br />Deze basisvorming dient georganiseerd te worden op grond van minstens een zelfde minimumleerplan dat door alle leerlingen van eenzelfde school, van het eerste leerjaar B dient gevolgd te worden.<br /><br />Twee of meer van deze vakken kunnen worden geïntegreerd onder "project algemene vakken". De integratie van het vak Frans onder project algemene vakken vergt vanaf 1 september 2010 altijd het akkoord van het betrokken personeelslid belast met project algemene vakken in het eerste leerjaar B.<br /><br />§ 5. Voor de gesubsidieerde vrije scholen is het eerste vak van de § 3 en § 4 :<br />« - godsdienstleer of niet-confessionele zedenleer of cultuurbeschouwing of eigen cultuur en religie;". (152)
+...
 
 ### ART. 154.
 
-§ 1. In het tweede leerjaar van de eerste graad worden ten minste vierentwintig wekelijkse lesuren besteed aan de basisvorming.<br /><br />§ 2. De basisvorming, bedoeld in § 1, bestaat uit volgende vakken :<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- Frans;<br />- Engels;<br />- wiskunde;<br />- geschiedenis;<br />- aardrijkskunde;<br />- natuurwetenschappen of fysica en/of biologie en/of wetenschappelijk werk en vervangen vanaf 1 september 2011 door natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- technologische opvoeding en vervangen vanaf 1 september 2010 door techniek.<br /><br />Deze basisvorming dient voor ten minste veertien wekelijkse lesuren georganiseerd te worden op grond van minstens een zelfde minimumleerplan dat door alle leerlingen van eenzelfde school dient gevolgd te worden.<br /><br />§ 3. In het beroepsvoorbereidend leerjaar worden ten minste zestien wekelijkse lesuren besteed aan de basisvorming die bestaat uit volgende vakken :<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- wiskunde;<br />- maatschappelijke vorming of geschiedenis en aardrijkskunde;<br />- natuurwetenschappen of fysica en/of biologie en/of wetenschappelijk werk en vervangen vanaf 1 september 2011 door natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- eventueel Frans en vervangen vanaf 1 september 2011 door Frans.<br /><br />Twee of meer van deze vakken kunnen worden geïntegreerd onder "project algemene vakken". De integratie van het vak Frans onder project algemene vakken vergt vanaf 1 september 2011 altijd het akkoord van het betrokken personeelslid belast met project algemene vakken in het beroepsvoorbereidende leerjaar.<br /><br />§ 4. Op voorwaarde dat hetzelfde studiepeil voor de basisvorming wordt gegarandeerd kan de Vlaamse Regering aan scholen individuele afwijkingen verlenen van het in § 1 en § 3 vermelde aantal wekelijkse lesuren. De afwijkingen dienen gebaseerd te zijn op de aan de betrokken scholen eigen programmatische, methodologische of pedagogische inzichten.<br /><br />§ 5. Voor de gesubsidieerde vrije scholen is het eerste vak van de § 2 en § 3 als volgt :<br />« - godsdienstleer of niet-confessionele zedenleer of cultuurbeschouwing of eigen cultuur en religie;". (153)
+...
 
 ### ART. 155.
 
@@ -3304,11 +3528,59 @@ Onverminderd de bepalingen inzake minimum lessenrooster stelt de Vlaamse   Reger
 
 ### ART. 156.
 
-§ 1. In het eerste en het tweede leerjaar van de tweede graad van het   algemeen secundair onderwijs bestaat de basisvorming uit volgende vakken :<BR>-   godsdienstleer of niet-confessionele zedenleer;<BR>- Nederlands;<BR>-   Frans;<BR>- Engels;<BR>- wiskunde;<BR>- geschiedenis;<BR>- aardrijkskunde;<BR>-   natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet   "toegepast", al of niet in een geïntegreerde vorm;<BR>- lichamelijke   opvoeding.<BR><BR>§ 2. In het eerste en het tweede leerjaar van de tweede graad   van het technisch en het kunstsecundair onderwijs bestaat de basisvorming uit   volgende vakken :<BR>- godsdienstleer of niet-confessionele zedenleer;<BR>-   Nederlands;<BR>- Frans of Engels en vervangen vanaf 1 september 2012 door Frans   en Engels in het eerste leerjaar van de tweede graad en vanaf 1 september 2013   in het tweede leerjaar van de tweede graad;<BR>- wiskunde;<BR>-   geschiedenis;<BR>- aardrijkskunde;<BR>- natuurwetenschappen of fysica en/of   chemie en/of biologie, al of niet "toegepast", al of niet in een geïntegreerde   vorm;<BR>- lichamelijke opvoeding.<BR><BR>§ 3. In het eerste en het tweede   leerjaar van de tweede graad van het beroepssecundair onderwijs bestaat de   basisvorming uit volgende vakken :<BR>- godsdienstleer of niet-confessionele   zedenleer;<BR>- Nederlands;<BR>- wiskunde en/of toegepaste natuurwetenschappen   en/of toegepaste fysica en/of toegepaste chemie en/of toegepaste biologie, al of   niet in een geïntegreerde vorm;<BR>- maatschappelijke vorming of   natuurwetenschappen en geschiedenis en/of aardrijkskunde;<BR>- lichamelijke   opvoeding.<BR>- Frans of Engels vanaf 1 september 2010 in het eerste leerjaar   van de tweede graad en vanaf 1 september 2011 in het tweede leerjaar van de   tweede graad.<BR><BR>Twee of meer van deze vakken kunnen worden geïntegreerd   onder "project algemene vakken". De integratie van het vak Frans of het vak   Engels onder project algemene vakken vergt vanaf 1 september 2010 altijd het   akkoord van het betrokken personeelslid belast met project algemene vakken in   het eerste en tweede leerjaar van de tweede graad van het beroepssecundair   onderwijs.<BR><BR>§ 4. Voor de gesubsidieerde vrije scholen is het eerste vak   van § 1 tot en met § 3 : <BR>« - godsdienstleer of niet-confessionele zedenleer   of cultuurbeschouwing of eigen cultuur en religie; ». (155)
+...
 
 ### ART. 157.
 
-§ 1. In het eerste en het tweede leerjaar van de derde graad van het   algemeen secundair onderwijs bestaat de basisvorming uit volgende vakken :<BR>-   godsdienstleer of niet-confessionele zedenleer;<BR>- Nederlands;<BR>- Frans;   <BR>- Engels of Duits;<BR>- wiskunde;<BR>- geschiedenis;<BR>-   aardrijkskunde;<BR>- natuurwetenschappen of fysica en/of chemie en/of   biologie;<BR>- lichamelijke opvoeding.<BR><BR>§ 2. In het eerste en het tweede   leerjaar van de derde graad van het technisch en het kunstsecundair onderwijs   bestaat de basisvorming uit volgende vakken :<BR>- godsdienstleer of   niet-confessionele zedenleer;<BR>- Nederlands;<BR>- Frans of Engels en vervangen   vanaf 1 september 2014 door Frans en Engels in het eerste leerjaar van de derde   graad en vanaf 1 september 2015 in het tweede leerjaar van de derde graad;<BR>-   wiskunde;<BR>- geschiedenis;<BR>- aardrijkskunde;<BR>- lichamelijke   opvoeding.<BR>- natuurwetenschappen of fysica en/of chemie en/of biologie, al of   niet "toegepast", al of niet in een geïntegreerde vorm, vanaf 1 september 2017   in het eerste leerjaar van de derde graad en vanaf 1 september 2018 in het   tweede leerjaar van de derde graad.<BR><BR>§ 3. In het eerste en het tweede   leerjaar van de derde graad van het beroepssecundair onderwijs bestaat de   basisvorming uit volgende vakken :<BR>- godsdienstleer of niet-confessionele   zedenleer;<BR>- Nederlands;<BR>- maatschappelijke vorming of natuurwetenschappen   en geschiedenis en/of aardrijkskunde;<BR>- lichamelijke opvoeding.<BR>- Frans of   Engels vanaf 1 september 2012 in het eerste leerjaar van de derde graad en vanaf   1 september 2013 in het tweede leerjaar van de derde graad;<BR><BR>Twee of meer   van deze vakken kunnen worden geïntegreerd als "project algemene vakken". De   integratie van het vak Frans of het vak Engels onder project algemene vakken   vergt altijd het akkoord van het betrokken personeelslid belast met project   algemene vakken vanaf 1 september 2012 in het eerste leerjaar en vanaf 1   september 2013 in het tweede leerjaar van de derde graad van het   beroepssecundair onderwijs.<BR><BR>§ 4. In een derde leerjaar in de derde graad   van het beroepssecundair onderwijs&nbsp;bestaat de basisvorming uit algemene   vakken, waaronder alleszins :<BR>- godsdienstleer of niet-confessionele   zedenleer;<BR>- Nederlands;<BR>- maatschappelijke vorming of geschiedenis en   aardrijkskunde;<BR>- lichamelijke opvoeding;<BR>- Frans of Engels vanaf 1   september 2014 in het derde leerjaar van de derde graad;<BR><BR>Twee of meer van   deze vakken kunnen worden geïntegreerd als "project algemene vakken". <BR><BR>De   integratie van het vak Frans of het vak Engels onder project algemene vakken   vergt altijd het akkoord vanaf 1 september 2014 van het betrokken personeelslid   belast met project algemene vakken in het derde leerjaar van de derde graad van   het beroepssecundair onderwijs.<BR><BR>Indien dit leerjaar wordt ingericht onder   de vorm van een specialisatiejaar worden ten minste twaalf wekelijkse lesuren   besteed aan de basisvorming. Indien dit leerjaar wordt ingericht onder de vorm   van een naamloos leerjaar worden ten minste achtentwintig wekelijkse lesuren   besteed aan de basisvorming. <BR><BR>Indien dit leerjaar wordt ingericht onder   de vorm van een specialisatiejaar worden ten minste veertien wekelijkse lesuren   besteed aan het onderricht in technische en/of praktische vakken.<BR><BR>§ 5.   Voor de gesubsidieerde vrije scholen is het eerste vak van § 1 tot en met § 4 :   <BR>« - godsdienstleer of niet-confessionele zedenleer of cultuurbeschouwing of   eigen cultuur en religie; ».<BR><BR>§ 6. Met behoud van de toepassing van   paragraaf 2 tot en met paragraaf 5, omvat het lessenrooster van het eerste en   het tweede leerjaar van de derde graad van het technisch secundair onderwijs en   het eerste, het tweede en het derde leerjaar van de derde graad van het   beroepssecundair onderwijs een aantal uren aangeduid als "leerlingenstage",   gevolgd door een of meer vakbenamingen.<BR><BR>De uren leerlingenstage komen,   omgerekend naar schooljaarbasis, overeen met minimaal achttien halve dagen. Die   halve dagen zijn al dan niet opeenvolgend.<BR><BR>Indien geen of onvoldoende   stageplaatsen, moet de school ten aanzien van de onderwijsinspectie kunnen   aantonen dat dit het gevolg is van factoren buiten haar wil om.<BR><BR>De   Vlaamse Regering bepaalt de datum van de inwerkingtreding van deze paragraaf,   met toepassing van de bepalingen van artikel 70. Deze datum kan verschillen   naargelang van de onderwijsvorm, het studiegebied, het structuuronderdeel of het   leerjaar.
+§ 1. In het eerste en het tweede leerjaar van de derde graad van het algemeen secundair onderwijs bestaat de basisvorming uit volgende vakken :<br>
+- godsdienstleer of niet-confessionele zedenleer;<br>
+- Nederlands;<br>
+- Frans;<br>
+- Engels of Duits;<br>
+- wiskunde;<br>
+- geschiedenis;<br>
+- aardrijkskunde;<br>
+- natuurwetenschappen of fysica en/of chemie en/of biologie;<br>
+- lichamelijke opvoeding.<br>
+<br>
+§ 2. In het eerste en het tweede leerjaar van de derde graad van het technisch en het kunstsecundair onderwijs bestaat de basisvorming uit volgende vakken :<br>
+- godsdienstleer of niet-confessionele zedenleer;<br>
+- Nederlands;<br>
+- Frans of Engels en vervangen vanaf 1 september 2014 door Frans en Engels in het eerste leerjaar van de derde graad en vanaf 1 september 2015 in het tweede leerjaar van de derde graad;<br>
+- wiskunde;<br>
+- geschiedenis;<br>
+- aardrijkskunde;<br>
+- lichamelijke opvoeding.<br>
+- natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet "toegepast", al of niet in een geïntegreerde vorm, vanaf 1 september 2017 in het eerste leerjaar van de derde graad en vanaf 1 september 2018 in het tweede leerjaar van de derde graad.<br>
+<br>
+§ 3. In het eerste en het tweede leerjaar van de derde graad van het beroepssecundair onderwijs bestaat de basisvorming uit volgende vakken :<br>
+- godsdienstleer of niet-confessionele zedenleer;<br>
+- Nederlands;<br>
+- maatschappelijke vorming of natuurwetenschappen en geschiedenis en/of aardrijkskunde;<br>
+- lichamelijke opvoeding.<br>
+- Frans of Engels vanaf 1 september 2012 in het eerste leerjaar van de derde graad en vanaf 1 september 2013 in het tweede leerjaar van de derde graad;<br>
+<br>
+Twee of meer van deze vakken kunnen worden geïntegreerd als "project algemene vakken". De integratie van het vak Frans of het vak Engels onder project algemene vakken vergt altijd het akkoord van het betrokken personeelslid belast met project algemene vakken vanaf 1 september 2012 in het eerste leerjaar en vanaf 1 september 2013 in het tweede leerjaar van de derde graad van het beroepssecundair onderwijs.<br>
+<br>
+§ 4. In een derde leerjaar in de derde graad van het beroepssecundair onderwijs&nbsp;bestaat de basisvorming uit algemene vakken, waaronder alleszins :<br>
+- godsdienstleer of niet-confessionele zedenleer;<br>
+- Nederlands;<br>
+- maatschappelijke vorming of geschiedenis en aardrijkskunde;<br>
+- lichamelijke opvoeding;<br>
+- Frans of Engels vanaf 1 september 2014 in het derde leerjaar van de derde graad;<br>
+<br>
+Twee of meer van deze vakken kunnen worden geïntegreerd als "project algemene vakken".<br>
+<br>
+De integratie van het vak Frans of het vak Engels onder project algemene vakken vergt altijd het akkoord vanaf 1 september 2014 van het betrokken personeelslid belast met project algemene vakken in het derde leerjaar van de derde graad van het beroepssecundair onderwijs.<br>
+<br>
+Indien dit leerjaar wordt ingericht onder de vorm van een 7de leerjaar gericht op instroom arbeidsmarkt worden ten minste twaalf wekelijkse lesuren besteed aan de basisvorming. Indien dit leerjaar wordt ingericht onder de vorm van een 7de leerjaar gericht op het hoger onderwijs worden ten minste achtentwintig wekelijkse lesuren besteed aan de basisvorming.<br>
+<br>
+Indien dit leerjaar wordt ingericht onder de vorm van een 7de leerjaar gericht op instroom arbeidsmarkt worden ten minste veertien wekelijkse lesuren besteed aan het onderricht in technische en/of praktische vakken.<br>
+<br>
+§ 5. Voor de gesubsidieerde vrije scholen is het eerste vak van § 1 tot en met § 4 :<br>
+« - godsdienstleer of niet-confessionele zedenleer of cultuurbeschouwing of eigen cultuur en religie; ».<br>
+<br>
+§ 6. ...
 
 ### ART. 157/1.
 
@@ -3366,6 +3638,32 @@ De lesuren differentiatie kunnen worden ingevuld als een verdieping of een remed
 <br>
 In het tweede leerjaar A en in het tweede leerjaar B kiest de leerling, binnen het aanbod van de school, een of meer verdiepende differentiatiepakketten, ermee rekening houdend dat de klassenraad bij het begin of in de loop van het schooljaar een of meer remediërende differentiatiepakketten aan de leerling kan opleggen. De lesuren differentiatie kunnen evenwel nooit volledig aan remediëring worden besteed.
 
+### ART 157/7/1.
+
+§1. In de volgende structuuronderdelen, met uitzondering van aanloop- en duale structuuronderdelen, omvat het lessenrooster een aantal uren leerlingenstage:<br>
+1° alle structuuronderdelen van het eerste en tweede leerjaar van de derde graad technisch secundair onderwijs van de dubbele finaliteit;<br>
+2° alle structuuronderdelen van het eerste en tweede leerjaar van de derde graad beroepssecundair onderwijs van de arbeidsmarktfinaliteit;<br>
+3° alle 7de leerjaren gericht op instroom arbeidsmarkt.<br>
+&nbsp;<br>
+De leerlingenstage wordt op het lessenrooster aangeduid met toepassing van artikel 157/4. Het aantal uren ervan komt, omgerekend naar schooljaarbasis, overeen met minimaal achttien halve dagen. Die halve dagen zijn al dan niet opeenvolgend.<br>
+<br>
+Als er geen of onvoldoende stageplaatsen beschikbaar zijn, moet de school maximaal inzetten op observatieactiviteiten in een organisatie of onderneming waarbij de leerling, zonder effectief aan het arbeidsproces te participeren, kennismaakt met een beroep of een specifieke werkplek.<br>
+<br>
+De school kan in uitzonderlijke gevallen afwijken van de stageverplichting. In dat geval is een goed onderbouwde motivering vereist. Deze motivering bevat minstens objectieve factoren die de stageverplichting onmogelijk maken. De onderwijsinspectie kan desgevallend deze motivering controleren.<br>
+<br>
+§2. Worden eveneens verstaan onder paragraaf 1, eerste lid:<br>
+1° in het schooljaar 2023-2024:<br>
+a)&nbsp;&nbsp; &nbsp;het technisch secundair onderwijs van het tweede leerjaar van de derde graad binnen het niet-gemoderniseerd secundair onderwijs waarvan de structuuronderdelen na concordantie overgaan naar de dubbele finaliteit of arbeidsmarktfinaliteit;<br>
+b)&nbsp;&nbsp; &nbsp;het technisch secundair onderwijs van het derde leerjaar van de derde graad, aangeduid als 7de leerjaar, binnen het niet-gemoderniseerd secundair onderwijs;<br>
+c)&nbsp;&nbsp; &nbsp;het beroepssecundair onderwijs van het tweede leerjaar van de derde graad binnen het niet­gemoderniseerd secundair onderwijs;<br>
+d)&nbsp;&nbsp; &nbsp;het beroepssecundair onderwijs van het derde leerjaar van de derde graad, aangeduid als 7de leerjaar gericht op instroom arbeidsmarkt, binnen het niet­gemoderniseerd secundair onderwijs;<br>
+2° in het schooljaar 2024-2025:<br>
+a)&nbsp;&nbsp; &nbsp;het technisch secundair onderwijs van het derde leerjaar van de derde graad, aangeduid als 7de leerjaar, binnen het niet-gemoderniseerd secundair onderwijs;<br>
+b)&nbsp;&nbsp; &nbsp;het beroepssecundair onderwijs van het derde leerjaar van derde graad, aangeduid als 7de leerjaar gericht op instroom arbeidsmarkt, binnen het niet-gemoderniseerd secundair onderwijs.<br>
+<br>
+§3. In afwijking van artikel 157/2 treden de bepalingen van paragraaf 1 in werking: 1° per 1 september 2023: in het tweede en derde leerjaar van de derde graad; 2° per 1 september 2024: in het eerste leerjaar van de derde graad.<br>
+&nbsp;
+
 ### ART 157/8.
 
 In elk structuuronderdeel kunnen, buiten het lessenrooster, facultatieve inhaallessen worden georganiseerd.
@@ -3410,7 +3708,7 @@ Voor de modulair georganiseerde leerinhouden van een opleiding worden   competen
 
 ### ART. 161.
 
-Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren. Een module kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren.<br /><br />In afwijking op deze bepaling kan de HBO5-opleiding verpleegkunde slechts starten hetzij op 1 september hetzij op 1 februari van een lopend schooljaar. (160)
+Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren. Een module kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren.
 
 ### ART. 162.
 
@@ -3418,15 +3716,45 @@ Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden 
 
 ### ART. 163.
 
-§ 1. In het modulair onderwijs, HBO5-opleiding verpleegkunde, gelden als gezamenlijke toelatingsvoorwaarden voor cursisten :<br />1° het voldaan hebben aan de leerplicht;<br />2° het bezit van een van de volgende studiebewijzen :<br />a) een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />b) een diploma van secundair onderwijs;<br />c) een certificaat van een opleiding van het secundair onderwijs voor sociale promotie van minimaal 900 lestijden;<br />d) een certificaat van een opleiding van het secundair volwassenenonderwijs van minimaal 900 lestijden;<br />e) een diploma van het hoger onderwijs voor sociale promotie;<br />f) een certificaat van het hoger beroepsonderwijs;<br />g) een diploma van het hoger beroepsonderwijs;<br />h) een diploma van het hoger onderwijs van het korte type met volledig leerplan;<br />i) een diploma van bachelor of master;<br />j) een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst wordt erkend als gelijkwaardig met een van de studiebewijzen, vermeld in a) tot en met i). Bij ontstentenis van een dergelijke erkenning kan de toelatingsklassenraad personen die in een land buiten de Europese Unie een studiebewijs hebben behaald dat toelating geeft tot het hoger onderwijs in dat land, toelaten tot de opleiding.<br /><br />§ 2. In afwijking van § 1 worden in het schoolreglement van de betrokken school afwijkende toelatingsvoorwaarden tot de HBO5-opleiding verpleegkunde opgenomen. De afwijkende toelatingsvoorwaarden kunnen enkel rekening houden met de volgende elementen :<br />1° humanitaire redenen;<br />2° medische, psychische of sociale redenen;<br />3° het algemene niveau van de cursist, getoetst met een toelatingsproef die wordt georganiseerd binnen de vijf lesdagen nadat de cursist met de opleiding is gestart. De organisatie van een toelatingsproef, op verzoek van de cursist, kan niet worden geweigerd. De proef wordt beoordeeld door de toelatingsklassenraad, die nagaat of de cursist over de kennis en vaardigheden beschikt die vereist zijn om de opleiding in kwestie aan te vangen. Van de beoordeling wordt een schriftelijk verslag gemaakt, dat wordt opgenomen in het dossier van de cursist.<br /><br />§ 3. Behoudens de toelatingsvoorwaarden als vermeld in § 1 en § 2, geldt voor toelating tot een sequentieel geordend onderdeel van de HBO5-opleiding verpleegkunde het voldoen aan een van de volgende voorwaarden :<br />1° het bezit van het deelcertificaat van een sequentieel voorafgaand onderdeel;<br />2° het bezit van een studiebewijs van een andere opleidings- of vormingsinstelling. De toelatingsklassenraad bepaalt welke studiebewijzen toegang geven tot sequentieel geordende onderdelen;<br />3° het bezit van een titel van beroepsbekwaamheid als vermeld in het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid en in het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid. De Vlaamse Regering bepaalt welke titels van beroepsbekwaamheid toegang geven tot sequentieel geordende onderdelen;<br />4° de toelatingsklassenraad oordeelt dat de cursist beschikt over een studiebewijs uit het onderwijs of uit een andere opleidings- of vormingsinstelling waaruit blijkt dat hij over voldoende kennis, vaardigheden en attitudes beschikt om het onderdeel aan te vangen;<br />5° de toelatingsklassenraad oordeelt op basis van een toelatingsproef dat de cursist de nodige ervaring heeft verworven die hem toelaat het onderdeel te volgen.<br /><br />§ 4. Een cursist kan slechts één module tezelfdertijd volgen.<br /><br />§ 5. De overstap van een cursist van het modulair naar het niet-modulair onderwijs vindt plaats op basis van een beslissing van de toelatingsklassenraad, tenzij wordt voldaan aan de reglementaire toelatingsvoorwaarden op basis van het bezit van een eindstudiebewijs.<br /><br />§ 6. De bepalingen van § 1 en § 2 gelden eveneens bij niet-modulaire organisatie van de HBO5-opleiding verpleegkunde. (162)
+...
 
 ### ART. 164.
 
-§ 1. De delibererende klassenraad beslist of een regelmatige leerling hetzij geslaagd is zonder beperkingen hetzij niet geslaagd is. Deze beslissing wordt genomen : <br />1° op het ogenblik dat de leerling een module heeft beëindigd. In voorkomend geval wordt, voor wat betreft het onderwijzend personeel, de klassenraad beperkt tot die leden die effectief aan de leerling in de desbetreffende module onderricht hebben verstrekt;<br />2° op het ogenblik dat de leerling aan alle opleidingsvoorwaarden voldoet die toelaten een beslissing te nemen over de toekenning van een getuigschrift van de tweede graad van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs ingericht onder de vorm van een specialisatiejaar, een diploma van secundair onderwijs of een diploma van gegradueerde, doch uitsluitend in de HBO5-opleiding verpleegkunde.<br /><br />In het modulair onderwijs worden geen geïntegreerde proeven ingericht.<br /><br />§ 2. Tegen beslissingen van delibererende klassenraden die door de betrokken personen worden betwist, kan beroep worden ingesteld overeenkomstig de procedure van toepassing in het niet-modulair onderwijs, met dien verstande dat het schoolbestuur van de betrokken school, rekening houdend met het principe van de redelijkheid, de termijnen bepaalt die inherent zijn aan deze procedure. (163)
+§ 1. De delibererende klassenraad beslist of een regelmatige leerling hetzij geslaagd is zonder beperkingen hetzij niet geslaagd is. Deze beslissing wordt genomen :<br>
+1° op het ogenblik dat de leerling een module heeft beëindigd. In voorkomend geval wordt, voor wat betreft het onderwijzend personeel, de klassenraad beperkt tot die leden die effectief aan de leerling in de desbetreffende module onderricht hebben verstrekt;<br>
+2° op het ogenblik dat de leerling aan alle opleidingsvoorwaarden voldoet die toelaten een beslissing te nemen over de toekenning van een getuigschrift van de tweede graad van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs ingericht onder de vorm van een 7de leerjaar gericht op instroom arbeidsmarkt, een diploma van secundair onderwijs.<br>
+<br>
+§ 2. Tegen beslissingen van delibererende klassenraden die door de betrokken personen worden betwist, kan beroep worden ingesteld overeenkomstig de procedure van toepassing in het niet-modulair onderwijs, met dien verstande dat het schoolbestuur van de betrokken school, rekening houdend met het principe van de redelijkheid, de termijnen bepaalt die inherent zijn aan deze procedure. (163)
 
 ### ART. 165.
 
-De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als volgt vastgesteld.<br />1° Attest van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding, met uitzondering van de opleiding verpleegkunde, niet met vrucht heeft gevolgd; het attest vermeldt die competenties die de jongere wel heeft bereikt.<br />2° Deelcertificaat : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding met vrucht heeft gevolgd.<br />3° Certificaat : wordt uitgereikt aan een regelmatige leerling die een opleiding met vrucht heeft gevolgd.<br />4° Getuigschrift van de tweede graad van het secundair onderwijs : wordt uitgereikt aan een regelmatige leerling die :<br />a) ten minste twee schooljaren secundair onderwijs heeft gevolgd, en<br />b) door de delibererende klassenraad als geslaagd voor de tweede graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de tweede graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br />5° Studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs : wordt uitgereikt aan de regelmatige leerling die :<br />a) ten minste vier schooljaren secundair onderwijs heeft gevolgd, en<br />b) door de delibererende klassenraad als geslaagd voor het tweede leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de eerste twee leerjaren van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br />6° Studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, ingericht onder de vorm van een specialisatiejaar : wordt, voor zover de leerling niet in aanmerking komt voor het diploma van secundair onderwijs, uitgereikt aan de regelmatige leerling die :<br />a) ten minste vijf schooljaren secundair onderwijs heeft gevolgd, en<br />b) door de delibererende klassenraad als geslaagd voor het derde leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br />7° Diploma van secundair onderwijs (derde graad) : wordt uitgereikt aan de regelmatige leerling die :<br />a) na het behalen van het getuigschrift van de tweede graad van het secundair onderwijs ten minste drie schooljaren secundair onderwijs heeft gevolgd, en<br />b) door de delibererende klassenraad als geslaagd voor de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br />8° Diploma van secundair onderwijs (hoger beroepsonderwijs) : wordt uitgereikt aan de cursist die :<br />a) houder is van het getuigschrift van de tweede graad van het secundair onderwijs;<br />en b) door de delibererende klassenraad als geslaagd voor het hoger beroepsonderwijs wordt beschouwd, wat het geslaagd zijn voor alle modules van de HBO5-opleiding verpleegkunde impliceert.<br />9° Diploma van gegradueerde : wordt uitgereikt aan de cursist die geslaagd is voor alle modules van de opleiding verpleegkunde en derhalve houder is van de deelcertificaten van alle modules van die opleiding.<br />Bij het diploma wordt een diplomasupplement uitgereikt. Dit is een document dat de inhoud van de studies van de cursist en de structuur van het onderwijs in het land waar de cursist gestudeerd heeft, verduidelijkt. De Vlaamse Regering bepaalt het model van het diplomasupplement en de nadere modaliteiten met betrekking tot de uitreiking ervan.<br />10° Getuigschrift over de basiskennis van het bedrijfsbeheer : wordt uitgereikt aan de regelmatige leerling die :<br />a) met uitzondering van de eerste graad, ten minste vier schooljaren secundair onderwijs heeft gevolgd, en<br />b) voldaan heeft aan de voorwaarden opgenomen in de federale wet- en regelgeving inzake de basiskennis van het bedrijfsbeheer. <br /><br />Voor de toepassing van deze bepalingen wordt een module waarvoor de leerling bij beslissing van de toelatingsklassenraad is vrijgesteld, geacht met vrucht gevolgd te zijn.<br /><br />Diegene aan wie overeenkomstig de codificatie betreffende het secundair onderwijs het diploma van gegradueerde (in het Engels vertaald als associate degree) is verleend met of zonder nadere specificatie, is gerechtigd tot het voeren van de overeenkomstige titel van gegradueerde met of zonder nadere specificatie.<br /><br />De Vlaamse Regering stelt de modellen en de invulonderrichtingen van de hiervoor vermelde studiebewijzen vast.<br /><br />Ook bij niet-modulaire organisatie van de HBO5-opleiding verpleegkunde wordt aan de cursist die geslaagd is voor de opleiding een diploma van gegradueerde, met diplomasupplement, toegekend, en is betrokkene gerechtigd tot het voeren van de overeenkomstige titel. Indien betrokkene daarenboven houder is van het getuigschrift van de tweede graad van het secundair onderwijs, dan wordt bij het slagen voor de opleiding ook het diploma van secundair onderwijs toegekend. (164)
+De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als volgt vastgesteld.<br>
+1° Attest van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding niet met vrucht heeft gevolgd; het attest vermeldt die competenties die de jongere wel heeft bereikt.<br>
+2° Deelcertificaat : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding met vrucht heeft gevolgd.<br>
+3° Certificaat : wordt uitgereikt aan een regelmatige leerling die een opleiding met vrucht heeft gevolgd.<br>
+4° Getuigschrift van de tweede graad van het secundair onderwijs : wordt uitgereikt aan een regelmatige leerling die :<br>
+a) ten minste twee schooljaren secundair onderwijs heeft gevolgd, en<br>
+b) door de delibererende klassenraad als geslaagd voor de tweede graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de tweede graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br>
+5° Studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs : wordt uitgereikt aan de regelmatige leerling die :<br>
+a) ten minste vier schooljaren secundair onderwijs heeft gevolgd, en<br>
+b) door de delibererende klassenraad als geslaagd voor het tweede leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de eerste twee leerjaren van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br>
+6° Studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, ingericht onder de vorm van een 7de leerjaar gericht op instroom arbeidsmarkt : wordt, voor zover de leerling niet in aanmerking komt voor het diploma van secundair onderwijs, uitgereikt aan de regelmatige leerling die :<br>
+a) ten minste vijf schooljaren secundair onderwijs heeft gevolgd, en<br>
+b) door de delibererende klassenraad als geslaagd voor het derde leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br>
+7° Diploma van secundair onderwijs (derde graad) : wordt uitgereikt aan de regelmatige leerling die :<br>
+a) na het behalen van het getuigschrift van de tweede graad van het secundair onderwijs ten minste drie schooljaren secundair onderwijs heeft gevolgd, en<br>
+b) door de delibererende klassenraad als geslaagd voor de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert.<br>
+8° ...<br>
+9° ...<br>
+10° Getuigschrift over de basiskennis van het bedrijfsbeheer : wordt uitgereikt aan de regelmatige leerling die :<br>
+a) met uitzondering van de eerste graad, ten minste vier schooljaren secundair onderwijs heeft gevolgd, en<br>
+b) voldaan heeft aan de voorwaarden opgenomen in de federale wet- en regelgeving inzake de basiskennis van het bedrijfsbeheer.<br>
+<br>
+Voor de toepassing van deze bepalingen wordt een module waarvoor de leerling bij beslissing van de toelatingsklassenraad is vrijgesteld, geacht met vrucht gevolgd te zijn.<br>
+<br>
+Diegene aan wie overeenkomstig de codificatie betreffende het secundair onderwijs het diploma van gegradueerde (in het Engels vertaald als associate degree) is verleend met of zonder nadere specificatie, is gerechtigd tot het voeren van de overeenkomstige titel van gegradueerde met of zonder nadere specificatie.<br>
+<br>
+De Vlaamse Regering stelt de modellen en de invulonderrichtingen van de hiervoor vermelde studiebewijzen vast .(164)
 
 ### ART. 166.
 
@@ -3434,23 +3762,57 @@ De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als v
 
 ### ART. 167.
 
-In zover het de vaststelling van het aantal regelmatige leerlingen met het oog op financiering, subsidiëring of normering betreft, worden voor de opleiding verpleegkunde twee teldata gehanteerd in het schooljaar voorafgaand aan het betrokken schooljaar : enerzijds 15 januari of de eerstvolgende lesdag erna indien voornoemde datum op een vrije dag valt en anderzijds 15 mei of de eerstvolgende lesdag erna indien voornoemde datum op een vrije dag valt. Op elke teldatum wordt een regelmatige leerling voor 2 leerling in aanmerking genomen. (166)
+...
 
 ### ART. 168.
 
 De onderwijsinspectie is belast met de evaluatie van het experiment. De scholen die aan het experiment deelnemen, zijn verplicht hun medewerking te verlenen aan de evaluatie. De evaluatie moet, inzonderheid wat de timing betreft, derwijze worden georganiseerd dat ze toelaat om beleidsconclusies te trekken met het oog op de geplande hervormingsmaatregelen voor het secundair onderwijs waarvan sprake in artikel 158. (167)
 
-## [Afdeling 6. Projecten (ing. decr. 1 juli 2011, art. III.24, I: 1 september 2011)]
+## Afdeling 6 ...
 
 ### ART. 168/1.
 
-§ 1. De instellingen voor secundair onderwijs die in toepassing van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisatie van CLIL-projecten in het secundair onderwijs, bekrachtigd bij het decreet van 4 juli 2008, gedurende het schooljaar 2009-2010 een dergelijk project organiseren, mogen gedurende het schooljaar 2010-2011 dit project verder zetten, overeenkomstig de bepalingen van het besluit in kwestie, met dien verstande dat de organisatie :<br />1° op één leerlingencohorte betrekking heeft;<br />2° zowel in het eerste als in het tweede leerjaar van een graad mag plaatsvinden;<br />3° niet aan een leerlingennorm is onderworpen;<br />4° geen extra middelen genereert.<br /><br />§ 2. De scholen voor secundair onderwijs die gedurende het schooljaar 2010-2011 een CLIL-project organiseren, behouden tot aan een datum te bepalen door de Vlaamse Regering de mogelijkheid tot het aanbieden van CLIL, onder de volgende voorwaarden : <br />1° CLIL wordt georganiseerd in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisatie van CLIL-projecten in het secundair onderwijs, maar met dien verstande dat het niet aan een leerlingennorm is onderworpen en geen extra middelen genereert;<br />2° over het behoud van de mogelijkheid tot organisatie van CLIL werd vooraf onderhandeld in het bevoegde lokale comité van de betrokken school.
+...
 
 ### ART. 168/2.
 
-De scholen die gedurende het schooljaar 2010-2011 deelnemen aan één van de tijdelijke projecten, vermeld in het decreet van 10 juli 2008 houdende verlenging van sommige van de tijdelijke projecten die zijn vermeld in het besluit van de Vlaamse Regering van 23 juni 2006 betreffende de organisatie van tijdelijke projecten in het basis- en secundair onderwijs, kunnen gedurende de schooljaren 2011-2012 en 2012-2013 :<br />1° structuuronderdelen organiseren die ze zonder normering hebben geprogrammeerd, op basis van een afwijking van de vigerende decretale en reglementaire bepalingen verkregen ingevolge hetzelfde decreet van 10 juli 2008, onder de volgende voorwaarden :<br />a) het structuuronderdeel komt niet voor in het regulier voltijds gewoon secundair onderwijs;<br />b) het structuuronderdeel werd door de betrokken school al georganiseerd tijdens het schooljaar 2010-2011;<br />c) het structuuronderdeel werd, na kennisname van een positieve evaluatie door de onderwijsinspectie en een expertenpanel, positief geadviseerd door de stuurgroep, vermeld in hetzelfde besluit van 23 juni 2006;<br />2° leerplannen hanteren die geen overheidsgoedkeuring behoeven, op basis van een afwijking van de vigerende decretale en reglementaire bepalingen verkregen ingevolge hetzelfde decreet van 10 juli 2008, onder de volgende voorwaarden :<br />a) de leerplannen worden enkel toegepast binnen de in 1° bedoelde structuuronderdelen;<br />b) de in a) bedoelde toepassing vond al in het schooljaar 2010-2011 plaats;<br />3° aspecten van modulaire onderwijsinrichting invoeren, op basis van een afwijking van de vigerende decretale en reglementaire bepalingen verkregen ingevolge hetzelfde decreet van 10 juli 2008, onder de volgende voorwaarden :<br />a) de aspecten van modulaire onderwijsinrichting worden enkel toegepast binnen de in 1° bedoelde structuuronderdelen;<br />b) de in a) bedoelde toepassing vond al in het schooljaar 2010-2011 plaats.
+...
 
 ## [HOOFDSTUK 1/1. Structuur en organisatie van het hoger beroepsonderwijs in scholen voor voltijds secundair onderwijs (ing. decr. 14 juli 2023, art. 16, I: 1 september 2023)]
+
+### ART 168/3.
+
+§1. Hoger beroepsonderwijs dat wordt ingericht door scholen voor voltijds secundair onderwijs:<br>
+1° wordt enerzijds georganiseerd overeenkomstig deze codex, en anderzijds overeenkomstig de bepalingen van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+2° is beroepsgericht onderwijs;<br>
+3° omvat de opleidingen Basisverpleegkunde en Verpleegkunde;<br>
+4° leidt tot een erkende onderwijskwalificatie van kwalificatieniveau 5, die bestaat uit minstens één erkende beroepskwalificatie van kwalificatieniveau 5;<br>
+5° wordt bekrachtigd met een diploma van gegradueerde.<br>
+<br>
+§2. Met ingang van het schooljaar 2023-2024 wordt in het hoger beroepsonderwijs de opleiding Basisverpleegkunde progressief, leerjaar per leerjaar, uitgebouwd.<br>
+<br>
+De opleiding Basisverpleegkunde van het hoger beroepsonderwijs kan alleen worden ingericht door de scholen voor voltijds secundair onderwijs die tijdens het schooljaar 2022-2023 de opleiding Verpleegkunde van het hoger beroepsonderwijs hebben ingericht.<br>
+<br>
+De opleiding Verpleegkunde van het hoger beroepsonderwijs wordt vanaf het schooljaar 2023-2024 in een uitdoofscenario alleen nog ingericht voor cursisten die uiterlijk in het schooljaar 2022-2023 al in die opleiding waren ingeschreven. Die cursisten hebben het recht om, zonder onderbreking, de opleiding te voltooien.<br>
+&nbsp;<br>
+<br>
+§3. De organisatie van de opleidingen, vermeld in paragraaf 1, is gebaseerd op een samenwerkingsverband tussen één hogeschool met onderwijsbevoegdheid voor de bacheloropleiding Verpleegkunde, en een of meer scholen van het voltijds secundair onderwijs. De organisatie en de opdrachten van het samenwerkingsverband worden geregeld conform artikel II.397 en artikel II.398 van de Codex Hoger Onderwijs van 11 oktober 2013.
+
+### ART 168/4.
+
+§1. De opleiding Basisverpleegkunde van het hoger beroepsonderwijs heeft een duurtijd van drie jaar, verdeeld over zes semesters, en kan starten op 1 september of op 1 februari. Die duurtijd komt overeen met 180 studiepunten. Een studiepunt is een binnen de Vlaamse Gemeenschap aanvaarde internationale eenheid die overeenstemt met ten minste 25 en ten hoogste 30 uren voorgeschreven onderwijs-, leeren evaluatieactiviteiten, en waarmee de studieomvang van elke opleiding of elk opleidingsonderdeel wordt uitgedrukt. De duur van het theoretisch onderwijs bedraagt ten minste een derde van de minimumduur van de opleiding en de duur van het klinisch onderwijs bedraagt ten minste de helft van de minimumduur van de opleiding.<br>
+<br>
+De opleiding Basisverpleegkunde van het hoger beroepsonderwijs leidt tot de titel van basisverpleegkundige, vermeld in de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.<br>
+<br>
+Bij de vaststelling van het opleidingsprogramma leeft het schoolbestuur de vastgelegde voorwaarden na die de toegang tot de titel van basisverpleegkundige reguleren.<br>
+<br>
+In afwijking van het derde lid bestaat tijdens het schooljaar 2023-2024 het opleidingsprogramma van de opleiding Basisverpleegkunde van het hoger beroepsonderwijs uit module 1 en module 2 van de opleiding Verpleegkunde van het hoger beroepsonderwijs. Een school kan de vastgestelde duurtijd van die modules verdubbelen om aan de specifieke opleidingsbehoeften van een bepaalde doelgroep tegemoet te komen. In dat geval worden de cursisten niet meer in aanmerking genomen op de tellingsdata die vallen buiten de gebruikelijke duurtijd.<br>
+<br>
+§2. De opleiding Verpleegkunde van het hoger beroepsonderwijs heeft een duurtijd van drie jaar, verdeeld over zes semesters, en kan starten op 1 september of op 1 februari.<br>
+<br>
+De opleiding Verpleegkunde van het hoger beroepsonderwijs wordt experimenteel modulair georganiseerd als vermeld in artikel 159 en 160.<br>
+<br>
+Met inachtneming van de voorwaarde voor de studieomvang, vermeld in richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties, legt de school, buiten de wekelijkse lessentabel, aan de cursisten Verpleegkunde gedurende de volledige duur van de opleiding en naar rata van ten minste vier wekelijkse lestijden, opleidingsgebonden persoonlijke activiteiten op. De klassenraad beslist autonoom over de vorm en de inhoud van die activiteiten. De resultaten van de door de cursist uitgevoerde activiteiten worden in aanmerking genomen bij evaluatie door de klassenraad.
 
 ## HOOFDSTUK 2. Teldata
 
@@ -3471,7 +3833,7 @@ Op elke datum wordt een regelmatige leerling of cursist voor een halve eenheid i
 
 ### ART. 170.
 
-Voor de toepassing van de omkaderingsnormen voor de diverse personeelscategorieën, de bepaling van het werkingsbudget en de toepassing van de reglementaire bepalingen inzake programmatie of rationalisatie, wordt, voor wat betreft een optie aangeduid als Se-n-Se, het hoogste aantal regelmatige leerlingen dat wordt geteld op één van beide teldata zoals bepaald in artikel 169, geacht ook het aantal regelmatige leerlingen te zijn op de andere teldatum. Deze bepaling geldt evenwel niet indien op laatstgenoemde datum geen regelmatige leerlingen kunnen worden geteld omdat de school ervoor heeft gekozen in het lopende semester de betrokken optie niet in het studieaanbod te voorzien, waardoor er geen inschrijvingen konden worden gerealiseerd. (169)
+Voor de toepassing van de omkaderingsnormen voor de diverse personeelscategorieën, de bepaling van het werkingsbudget en de toepassing van de reglementaire bepalingen inzake programmatie of rationalisatie, wordt, voor wat betreft een optie aangeduid als 7de leerjaar van het technisch of kunstsecundair onderwijs, het hoogste aantal regelmatige leerlingen dat wordt geteld op één van beide teldata zoals bepaald in artikel 169, geacht ook het aantal regelmatige leerlingen te zijn op de andere teldatum. Deze bepaling geldt evenwel niet indien op laatstgenoemde datum geen regelmatige leerlingen kunnen worden geteld omdat de school ervoor heeft gekozen in het lopende semester de betrokken optie niet in het studieaanbod te voorzien, waardoor er geen inschrijvingen konden worden gerealiseerd. (169)
 
 ### ART. 171.
 
@@ -3519,15 +3881,15 @@ Indien een schoolbestuur in één der bedoelde onderwijszones meer dan één sch
 2° alle bij de splitsing betrokken scholen moeten, in afwijking van § 1 en § 2, na de splitsing 100 % bereiken van de toepasbare rationalisatienorm;<br>
 3° de splitsing kan slechts één van de volgende vormen aannemen :<br>
 a) hetzij een afsplitsing van de eerste graad;<br>
-b) hetzij een afsplitsing van een of meer studiegebieden;<br>
+b) hetzij een afsplitsing van een of meer studiegebieden of studiedomeinen;<br>
 c) hetzij een combinatie van beide voorgaande;<br>
 4° de splitsing moet, voor een school die tot een scholengemeenschap behoort, in overeenstemming zijn met de afspraken die de scholengemeenschap maakt over de ordening van een rationeel onderwijsaanbod.<br>
 <br>
 § 4. Onder toepasbare rationalisatienorm, vermeld in § 1, § 2 en § 3, wordt verstaan :<br>
-a) hetzij, afhankelijk van de door de school georganiseerde graden, de norm vermeld in artikel 191, 2° en 195 : voor de scholen gelegen in het Brusselse Hoofdstedelijke Gewest of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven;<br>
+a) hetzij, afhankelijk van de door de school georganiseerde graden, de norm vermeld in artikel 191, 2° en 195 : voor de scholen gelegen in het Brusselse Hoofdstedelijke Gewest of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een onderwijsinternaat verblijven;<br>
 b) hetzij, afhankelijk van de door de school georganiseerde graden, de norm vermeld in artikel 191,1° en 195 : voor de scholen die niet onder toepassing van a) vallen.<br>
 <br>
-§ 5. De bepalingen van dit artikel zijn niet van toepassing op scholen met uitsluitend de opleiding Verpleegkunde van het hoger beroepsonderwijs.&nbsp;<br>
+§ 5. De bepalingen van dit artikel zijn niet van toepassing op scholen met uitsluitend de opleidingen van het hoger beroepsonderwijs.&nbsp;<br>
 <br>
 § 6. De programmatie van een school door splitsing van een bestaande school wordt door het schoolbestuur bij de bevoegde dienst van de Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 april van het voorafgaand schooljaar. Indien niet het gevolg van splitsing van een bestaande school, dan zijn voor de programmatie van de school de bepalingen van artikel 15, § 2, van toepassing.<br>
 <br>
@@ -3537,117 +3899,114 @@ Indien de school ontstaat door splitsing van een bestaande school, dan gaan bij 
 
 ### ART. 176.
 
-Bij de programmatie van structuuronderdelen, met uitzondering van het onthaaljaar, binnen het gemoderniseerd secundair onderwijs wordt een onderscheid gemaakt tussen vrij programmeerbaar en programmeerbaar na goedkeuring door de Vlaamse Regering. De programmatieregels, vermeld in artikel 177 tot en met 178/1, treden progressief in werking met ingang van 1 september 2019.<br>
+Bij de programmatie van een structuuronderdeel voldoet het structuuronderdeel aan de volgende voorwaarden:<br>
+1° het is in overeenstemming met de afspraken die, in voorkomend geval, de scholengemeenschap maakt met het oog op een rationeel geordend onderwijsaanbod;<br>
+2° het heeft betrekking op een of meer vestigingsplaatsen van de school, zoals opgegeven in, naargelang het geval, de melding of de aanvraag. De voormelde voorwaarde geldt niet voor het onthaaljaar voor anderstalige nieuwkomers;<br>
+3° &nbsp; het is niet toegelaten als het een van de volgende gevolgen heeft:<br>
+a)&nbsp;&nbsp; &nbsp;op dezelfde vestigingsplaats kunnen twee of meer officiële scholen hetzelfde structuuronderdeel organiseren;<br>
+b)&nbsp;&nbsp; &nbsp;op dezelfde vestigingsplaats kunnen twee of meer vrije scholen hetzelfde structuuronderdeel organiseren;<br>
+c)&nbsp;&nbsp; &nbsp;op dezelfde vestigingsplaats kunnen twee of meer scholen, die behoren tot dezelfde scholengemeenschap, hetzelfde structuuronderdeel organiseren;<br>
+4° als het een duaal structuuronderdeel is, heeft het betrekking op de school en het eventueel daaraan verbonden centrum voor deeltijds beroepssecundair onderwijs, ongeacht waar het duale structuuronderdeel wordt aangeboden;<br>
+5° als het een duaal structuuronderdeel is, heeft het ook betrekking op een of meer aanloopstructuuronderdelen die aansluiten bij het duale structuuronderdeel;<br>
+6° het heeft geen betrekking op pakketten in het tweede leerjaar A en het tweede leerjaar B;<br>
+7° het impliceert het recht om, naargelang het geval, na de melding of na de goedkeuring van de aanvraag het structuuronderdeel te organiseren met ingang van het eerste of het tweede daaropvolgende schooljaar.<br>
 <br>
-De programmatieregels, vermeld in artikel 179 tot en met 179/2, hebben zoals aangegeven een tijdelijk karakter.<br>
+In afwijking van het eerste lid, 3°, is de progressieve afbouw van een tweejarig structuuronderdeel door de ene school mogelijk als die, op dezelfde vestigingsplaats, samenvalt met de progressieve uitbouw van datzelfde structuuronderdeel door een andere school.<br>
 <br>
-Elke programmatie moet in overeenstemming zijn met de afspraken die de scholengemeenschap, in voorkomend geval, maakt met het oog op een rationeel geordend onderwijsaanbod.<br>
-<br>
-Als een programmatie van een structuuronderdeel een goedkeuring van de Vlaamse Regering vereist, kan het schoolbestuur dat de goedgekeurde programmatie voor een bepaald structuuronderdeel het eerste schooljaar na de aanvraag niet organiseert, zonder nieuwe aanvraag of goedkeuring het bijkomende aanbod van dat bepaalde structuuronderdeel pas organiseren vanaf 1 september het daaropvolgende schooljaar. Indien het een programmatie van een Se-n-Se betreft die van start gaat op 1 februari, kan het schoolbestuur dat de goedkeurde programmatie voor dat bepaalde structuuronderdeel op 1 februari dat onmiddellijk volgt na de aanvraag niet organiseert, zonder nieuwe aanvraag of goedkeuring het bijkomende aanbod van dat bepaalde structuuronderdeel pas organiseren het daaropvolgende schooljaar.
+Als de vestigingsplaats, vermeld in het eerste lid, 2°, een nieuwe, al dan niet bijkomende, vestigingsplaats is, wordt, naargelang het geval, in de melding of aanvraag van programmatie, alleen de gemeente als vestigingsplaats opgegeven als de exacte vestigingsplaats nog niet bekend of goedgekeurd is.
 
 ### ART 176/1.
 
-Vanaf het schooljaar 2021-2022:<br>
-1° heeft elke programmatie van een structuuronderdeel betrekking op een of meer vestigingsplaatsen van de school zoals opgegeven in, naargelang van het geval, de melding of aanvraag van programmatie bij de bevoegde diensten van de Vlaamse Gemeenschap;<br>
-2° wordt de uitbreiding door het schoolbestuur van een vóór het schooljaar 2021-2022 geprogrammeerd structuuronderdeel naar een of meer bestaande vestigingsplaatsen van de school niet als een nieuwe programmatie beschouwd indien alle vestigingsplaatsen van die school gelegen zijn binnen een gemeente die minder dan 70.000 inwoners telt;<br>
-3° wordt de uitbreiding door het schoolbestuur van een niet vóór het schooljaar 2021-2022 geprogrammeerd structuuronderdeel naar een of meer vestigingsplaatsen van de school die destijds niet bij de programmatie zijn opgegeven, als een nieuwe programmatie beschouwd;<br>
-4° kan in uitzonderlijke omstandigheden en zonder als programmatie te worden beschouwd het schoolbestuur een vóór het schooljaar 2021-2022 geprogrammeerd structuuronderdeel organiseren in een of meer andere vestigingsplaatsen, mits aan alle volgende voorwaarden is voldaan:<br>
-a) de uitzonderlijke omstandigheden houden verband met capaciteitsnoden, infrastructuurproblemen of verhuis;<br>
-b) het schoolbestuur dient een gemotiveerde aanvraag in bij de bevoegde diensten van de Vlaamse Gemeenschap, met toevoeging van het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de aanvraag in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt;<br>
-c) de aanvraag voor het structuuronderdeel gebeurt in voorkomend geval tezamen met de aanvraag voor de ingebruikname van een nieuwe vestigingsplaats als vermeld in artikel 15, § 4;<br>
-d) de Vlaamse Regering neemt een gunstige beslissing uiterlijk drie maanden na indiening van de aanvraag en na advies van de bevoegde diensten van de Vlaamse Gemeenschap. Bij overschrijding van die termijn is de aanvraag van rechtswege goedgekeurd;<br>
-5° kan in uitzonderlijke omstandigheden en zonder als programmatie te worden beschouwd het schoolbestuur een niet vóór het schooljaar 2021-2022 geprogrammeerd structuuronderdeel organiseren in een of meer vestigingsplaatsen die destijds niet bij de programmatie zijn opgegeven, mits aan alle volgende voorwaarden is voldaan:<br>
-a) de uitzonderlijke omstandigheden houden verband met capaciteitsnoden, infrastructuurproblemen of verhuis;<br>
-b) het schoolbestuur dient een gemotiveerde aanvraag in bij de bevoegde diensten van de Vlaamse Gemeenschap, met toevoeging van het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de aanvraag in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt;<br>
-c) de aanvraag voor het structuuronderdeel gebeurt in voorkomend geval tezamen met de aanvraag voor de ingebruikname van een nieuwe vestigingsplaats als vermeld in artikel 15, § 4;<br>
-d) de Vlaamse Regering neemt een gunstige beslissing uiterlijk drie maanden na indiening van de aanvraag en na advies van de bevoegde diensten van de Vlaamse Gemeenschap. Bij overschrijding van die termijn is de aanvraag van rechtswege goedgekeurd;<br>
-6° is de effectieve programmatie of organisatie van een structuuronderdeel in een nieuwe vestigingsplaats afhankelijk van het voldoen aan artikel 15, § 4.
+...
 
 ### ART. 177.
 
-De programmatie van de volgende structuuronderdelen is vrij:<br>
+Met behoud van de toepassing van artikel 176 is de programmatie vrij van:<br>
 1° het eerste leerjaar A;<br>
 2° het eerste leerjaar B;<br>
-3° een basisoptie van het tweede leerjaar A, onder de volgende voorwaarde: de basisoptie is geen niche-basisoptie;<br>
-4° een basisoptie van het tweede leerjaar B, onder de volgende voorwaarde: de basisoptie is geen niche-basisoptie;<br>
-5° een studierichting van een studiedomein, georganiseerd door een domeinschool, onder de volgende voorwaarde: de studierichting is geen niche-studierichting;<br>
-6° een of meer studierichtingen van een of meer studiedomeinen, onder de volgende voorwaarden:<br>
-a) de studierichtingen zijn geen niche-studierichtingen;<br>
-b) de programmatie is beperkt tot het strikt noodzakelijke om in een of meer studiedomeinen een domeinschool te worden;<br>
-c) de programmatie wordt door middel van één geïntegreerd dossier ingediend;<br>
-d) de programmatie kan in de verschillende leerjaren, graden of studierichtingen gelijktijdig dan wel progressief worden doorgevoerd;<br>
-7° een domeinoverschrijdende studierichting binnen de finaliteit doorstroom, georganiseerd door een domeinschool of campusschool.<br>
+3° een niet­niche basisoptie van het tweede leerjaar A;<br>
+4° een niet­niche basisoptie van het tweede leerjaar B;<br>
+5° een niet-niche structuuronderdeel van een studiedomein én onderwijsvorm dat de school al organiseert;<br>
+6° een niet-niche domeinoverschrijdend structuuronderdeel aso als de school al minstens één domeinoverschrijdend structuuronderdeel aso organiseert;<br>
+7° een duaal structuuronderdeel dat dezelfde naam heeft als een niet­duaal structuuronderdeel dat de school al organiseert of mag organiseren, en omgekeerd. Het voormelde geldt niet bij programmatie van een niet-duaal structuuronderdeel door een school voor voltijds secundair onderwijs als alleen het centrum voor deeltijds beroepssecundair onderwijs dat aan die school is verbonden, het gelijknamige duale structuuronderdeel al organiseert;<br>
+8° een of meer structuuronderdelen van een of meer studiedomeinen als al de volgende voorwaarden zijn vervuld:<br>
+a)&nbsp;&nbsp; &nbsp;de structuuronderdelen zijn geen niche­structuuronderdelen;<br>
+b)&nbsp;&nbsp; &nbsp;de programmatie is beperkt tot het strikt noodzakelijke om in een of meer studiedomeinen een domeinschool te worden;<br>
+c)&nbsp;&nbsp; &nbsp;de programmatie door middel van één geïntegreerd dossier wordt ingediend;<br>
+9° een domeinoverschrijdend structuuronderdeel aso op voorwaarde dat de school een domeinschool of campusschool is.<br>
 <br>
-Het schoolbestuur meldt de programmatie schriftelijk bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 1 april van het voorafgaande schooljaar en uiterlijk op 30 november van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Bij die melding gaan het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.
+Het schoolbestuur meldt de programmatie schriftelijk bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 1 april van het voorafgaande schooljaar. Bij de voormelde melding worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.
 
 ### ART. 178.
 
-Het schoolbestuur vraagt de programmatie van een structuuronderdeel dat niet onder de toepassing van artikel 177 valt, bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar en uiterlijk op 30 september van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Die termijn geldt als vervaltermijn. De motivering van de aanvraag houdt in elk geval rekening met de criteria, vermeld in het derde lid, 1° tot en met 6°. Bij de aanvraag gaan het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+Met behoud van de toepassing van artikel 176 vraagt het schoolbestuur de programmatie van een structuuronderdeel dat niet onder de toepassing van artikel 177 valt, bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar. De voormelde aanvraagtermijn geldt als vervaltermijn.<br>
 <br>
-De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
+De motivering van de aanvraag, vermeld in het eerste lid, houdt in elk geval rekening met de criteria, vermeld in het vierde lid, 1° tot en met 8°. Bij de voormelde aanvraag worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het<br>
+proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+<br>
+De Vlaamse Regering beslist over de programmatie na advies van de volgende instanties:<br>
 1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 2° de Vlaamse Onderwijsraad;<br>
-3° in geval van een studierichting met dubbele finaliteit of finaliteit arbeidsmarkt: de Sociaal-Economische Raad van Vlaanderen.<br>
+3° in geval van een structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt: de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
-De Vlaamse Regering houdt bij haar beslissing rekening met de volgende cumulatieve criteria:<br>
+De Vlaamse Regering houdt bij haar beslissing, vermeld in het derde lid, rekening met de volgende cumulatieve criteria:<br>
 1° de eventuele beperkingen of voorwaarden die vanuit macrodoelmatigheid aan het aanbod van het structuuronderdeel zijn gekoppeld;<br>
-2° de kwantitatieve en kwalitatieve behoeften op het vlak van het aanbod van secundair onderwijs in de onderwijszone in kwestie, met het oog op vervolgonderwijs of toetreding tot de arbeidsmarkt;<br>
-3° de keuzevrijheid van ouders en leerlingen;<br>
-4° de studiecontinuïteit van leerlingen binnen de school of de scholengemeenschap;<br>
-5° in geval van een studierichting met dubbele finaliteit of finaliteit arbeidsmarkt:<br>
-a) de getroffen voorbereidingen op het vlak van materiële infrastructuur en leermiddelen die voldoende en gepast zijn met het oog op de te verwerven competenties van het geprogrammeerde structuuronderdeel;<br>
-b) de aantoonbare samenwerkingsmogelijkheden met lokale arbeidsmarktactoren en de bedrijfswereld;<br>
-6° de afspraken die met andere lokale onderwijsinrichters binnen en buiten de betrokken scholengemeenschap zijn gemaakt over een rationeel en transparant studieaanbod.<br>
+2° de eventuele opheffing van een of meer bestaande structuuronderdelen die gelijktijdig met de programmatie doorgevoerd worden;<br>
+3° de kwantitatieve en kwalitatieve behoeften op het vlak van het aanbod van secundair onderwijs in de onderwijszone in kwestie, met het oog op vervolgonderwijs of toetreding tot de arbeidsmarkt;<br>
+4° de keuzevrijheid van ouders en leerlingen;<br>
+5° de studiecontinuïteit van leerlingen binnen de school of de scholengemeenschap;<br>
+6° in geval van een structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt:<br>
+a)&nbsp;&nbsp; &nbsp;de getroffen voorbereidingen op het vlak van materiële infrastructuur en leermiddelen die voldoende en gepast zijn met het oog op de te verwerven competenties van het geprogrammeerde structuuronderdeel;<br>
+b)&nbsp;&nbsp; &nbsp;de aantoonbare samenwerkingsmogelijkheden met lokale arbeidsmarktactoren en de bedrijfswereld;<br>
+7° de afspraken die met andere lokale onderwijsinrichters binnen en buiten de betrokken scholengemeenschap zijn gemaakt over een rationeel en transparant studieaanbod;<br>
+8° in geval van een duaal structuuronderdeel: de afstemming binnen het overlegforum, vermeld in artikel 357/32.<br>
 <br>
-De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaande schooljaar en uiterlijk op 15 december van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.
+De Vlaamse Regering beslist uiterlijk op 31 maart van het voorafgaande schooljaar. De voormelde beslissingstermijn geldt als ordetermijn.
 
 ### ART 178/1.
 
-Pakketten in het tweede leerjaar A en het tweede leerjaar B zijn geen structuuronderdelen en zijn bijgevolg niet onderworpen aan programmatieregels.
+...
 
 ### ART. 179.
 
-Tot en met het schooljaar 2020-2021 kan een structuuronderdeel van de tweede graad dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126 worden geprogrammeerd. Tot en met het schooljaar 2022-2023 kan een structuuronderdeel van de derde graad, met uitzondering van het derde leerjaar, dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126 worden geprogrammeerd. Vanaf het tweede schooljaar dat volgt op het schooljaar waarin de Vlaamse Regering de Se-n-Se opneemt in de matrix en de concordantie naar die Se-n-Se vastlegt en tot en met het schooljaar 2024-2025 kan een structuuronderdeel van het derde leerjaar van de derde graad, met uitzondering van het naamloos leerjaar BSO dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126 worden geprogrammeerd.<br>
+§1. Voor een structuuronderdeel dat is geprogrammeerd vanaf het schooljaar 2024­2025 of later op basis van artikel 177 of 178, geldt per afzonderlijke vestigingsplaats van de school een minimumnorm die is vastgesteld op vijf regelmatige leerlingen op de eerste lesdag van oktober van het schooljaar van programmatie. In de tweede graad en, uitgezonderd het derde leerjaar, de derde graad wordt de voormelde minimumnorm toegepast op het eerste leerjaar van de graad in kwestie.<br>
 <br>
-De programmatie wordt opgevat als een voorbereiding op de lokale invulling van het gemoderniseerd secundair studieaanbod. In de aanvraag vermeldt het schoolbestuur dan ook uitdrukkelijk de wijze waarop ze, met inachtname van de concordantiemogelijkheden zoals bepaald door de Vlaamse Regering in uitvoering van artikel 133/5, het geprogrammeerde structuuronderdeel zal concorderen op het tijdstip dat het leerjaar in kwestie wordt gemoderniseerd. Een eventuele gunstige beslissing van de Vlaamse Regering over de programmatie is onder voorwaarde van desbetreffende concordantie.<br>
+In afwijking van het eerste lid:<br>
+1° &nbsp;geldt geen minimumnorm voor de structuuronderdelen met in de benaming de component ‘topsport’;<br>
+2° wordt de minimumnorm toegepast op de niet-duale variant, de duale variant en de aanloopvariant van een gelijknamig structuuronderdeel samen;<br>
+3° wordt de minimumnorm toegepast op de eerste lesdag van oktober of op de eerste lesdag van maart, naargelang het geval, van het schooljaar van programmatie als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd.<br>
 <br>
-Per concordantie kan het schoolbestuur voor een school maar één programmatieaanvraag indienen.<br>
+§2. Als de minimumnorm, vermeld in paragraaf 1, noch in het schooljaar van programmatie, noch in het daaropvolgende schooljaar wordt bereikt, gelden vanaf 1 september daaropvolgend in de betrokken vestigingsplaats de volgende bepalingen:<br>
+1° in de eerste graad en het derde leerjaar van de derde graad: het structuuronderdeel wordt opgeheven;<br>
+2° in de tweede graad en, uitgezonderd het derde leerjaar, de derde graad: het structuuronderdeel wordt geleidelijk opgeheven, leerjaar na leerjaar te beginnen met het eerste leerjaar.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de structuuronderdelen die gericht zijn op knelpuntberoepen waarvoor, in afwijking van het eerste lid, de voorwaarde “in het daaropvolgend schooljaar” wordt vervangen door de voorwaarde “in de twee daaropvolgende schooljaren”.<br>
 <br>
-In voorkomend geval vraagt het schoolbestuur de programmatie bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar en uiterlijk op 30 september van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Die termijn geldt als vervaltermijn. De motivering van de aanvraag houdt in elk geval rekening met de criteria, vermeld in artikel 178, derde lid, 1° tot en met 6°. Bij de aanvraag gaan het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
-<br>
-De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
-1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
-2° de Vlaamse Onderwijsraad.<br>
-<br>
-De Vlaamse Regering houdt bij haar beslissing rekening met de criteria, vermeld in artikel 178, derde lid, 1° tot en met 6°.<br>
-<br>
-De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaande schooljaar en uiterlijk op 15 december van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.
+§3. Een school met een structuuronderdeel waarop in ten minste een van haar vestigingsplaatsen de bepalingen, vermeld in paragraaf 2, van toepassing zijn, kan gedurende drie schooljaren vanaf de volledige opheffing in geen enkele van haar vestigingsplaatsen dat structuuronderdeel opnieuw programmeren. Dat structuuronderdeel opnieuw organiseren door overheveling door een andere school kan niet.
 
 ### ART. 179/1.
 
-Tot en met het schooljaar 2022-2023 kan een structuuronderdeel van de derde graad, met uitzondering van het derde leerjaar, dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126, worden geprogrammeerd. Tot en met het schooljaar 2024-2025 kan een structuuronderdeel van het derde leerjaar van de derde graad bso, met uitzondering van het naamloos leerjaar, dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126, worden geprogrammeerd.<br>
+Met behoud van de toepassing van artikel 176, uitgezonderd de mogelijkheid om het structuuronderdeel te organiseren met ingang van het tweede daaropvolgende schooljaar, vermeld in artikel 176, eerste lid, 7°, kan tot en met het schooljaar 2024-2025 in het bso een structuuronderdeel van het derde leerjaar van de derde graad worden geprogrammeerd, met uitzondering van het 7de leerjaar gericht op het hoger onderwijs, dat door de Vlaamse Regering is vastgelegd in uitvoering van artikel 124 en 126.<br>
 <br>
-De programmatie wordt opgevat als noodzakelijk om, na verleende programmatie van een structuuronderdeel van de tweede graad of - doch enkel voor het bso - de derde graad, de studiecontinuïteit van de leerlingen te garanderen binnen de school of scholengemeenschap vanaf het schooljaar dat onmiddellijk volgt op de volledige uitbouw van het eerder geprogrammeerd structuuronderdeel. De studiecontinuïteit betreft dan het eerste en tweede leerjaar van de derde graad of - doch enkel voor het bso - het derde leerjaar van de derde graad, met het oog op het verwerven van het diploma van secundair onderwijs.<br>
+De programmatie wordt opgevat als noodzakelijk om, na de verleende programmatie van een structuuronderdeel van de derde graad bso, de studiecontinuïteit van de leerlingen te garanderen binnen de school of scholengemeenschap vanaf het schooljaar dat onmiddellijk volgt op de volledige uitbouw van het eerder geprogrammeerd structuuronderdeel. De studiecontinuïteit maakt het mogelijk om het diploma van secundair onderwijs te verwerven.<br>
 <br>
-In voorkomend geval vraagt het schoolbestuur de programmatie bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar. Die termijn geldt als vervaltermijn. Bij de aanvraag gaan het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+In voorkomend geval vraagt het schoolbestuur de programmatie bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar. De voormelde aanvraagtermijn geldt als vervaltermijn. Bij de voormelde aanvraag worden de volgende documenten gevoegd:<br>
+1° &nbsp; het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
-De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
-1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
-2° de Vlaamse Onderwijsraad.<br>
-<br>
-De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaande schooljaar. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.
+De Vlaamse Regering beslist over de programmatie na advies van enerzijds de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap en anderzijds de Vlaamse Onderwijsraad. De voormelde beslissing wordt genomen uiterlijk op 31 maart van het voorafgaande schooljaar. De voormelde beslissingstermijn geldt als ordetermijn.
 
 ### ART. 179/2.
 
-§ 1. Tot en met het schooljaar dat volgt op het schooljaar waarin de Vlaamse Regering de Se-n-Se opneemt in de matrix en de concordantie naar die Se-n-Se vastlegt, kan een structuuronderdeel van het derde leerjaar van de derde graad voorwaardelijk vrij worden geprogrammeerd zoals bepaald in bijlage 2 van het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs, zoals gewijzigd.<br>
-<br>
-Tot en met het schooljaar 2024-2025 kan het derde leerjaar van de derde graad BSO, ingericht als naamloos leerjaar, vrij worden geprogrammeerd. De programmatie wordt opgevat als een voorbereiding op de lokale invulling van het gemoderniseerd secundair studieaanbod.<br>
-<br>
-Het schoolbestuur meldt de programmatie schriftelijk bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 1 april van het voorafgaande schooljaar en uiterlijk op 30 november van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Bij die melding gaan het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
-<br>
-§ 2. Het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs wordt opgeheven:<br>
-1° met ingang van 1 september 2019: voor alle structuuronderdelen met uitzondering van de structuuronderdelen van het derde leerjaar van de derde graad;<br>
-2° met ingang van 1 september van het tweede schooljaar dat volgt op het schooljaar waarin de Vlaamse Regering de Se-n-Se opneemt in de matrix en de concordantie naar die Se-n-Se vastlegt: voor alle structuuronderdelen van het derde leerjaar van de derde graad.
+Met behoud van de toepassing van artikel 176 kan tot en met het schooljaar 2024-2025 in het bso het 7de leerjaar gericht op het hoger onderwijs, vrij worden geprogrammeerd. De programmatie wordt opgevat als een voorbereiding op de lokale invulling van het gemoderniseerde secundaire studieaanbod.<br>
+&nbsp;<br>
+Het schoolbestuur meldt de programmatie schriftelijk bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 1 april van het voorafgaande schooljaar. Bij de voormelde melding worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.
 
 ### ART. 179/3.
 
@@ -3664,11 +4023,7 @@ b) hetzij door het schoolbestuur per school die niet tot een scholengemeenschap 
 
 ### ART 179/4.
 
-Structuuronderdelen die zijn opgericht met toepassing van de volgende regelgeving, en vanaf 1 september 2018 ononderbroken georganiseerd blijven, zijn niet onderworpen aan programmatie:<br>
-1° het besluit van de Vlaamse Regering van 22 april 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in het secundair onderwijs, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding;<br>
-2° het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in de leertijd, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding.<br>
-<br>
-Een structuuronderdeel als vermeld in het eerste lid, blijft in voorkomend geval in het tweede leerjaar van de derde graad tijdens het schooljaar 2018-2019 georganiseerd op basis van het standaardtraject van het schooljaar 2017-2018.
+...
 
 ## Afdeling 4. Programmatie van scholen die niet tot een scholengemeenschap behoren
 
@@ -3716,15 +4071,40 @@ Een structuuronderdeel als vermeld in het eerste lid, blijft in voorkomend geval
 
 ### ART. 189.
 
-Voor de toepassing van de rationalisatienorm worden niet in aanmerking genomen :<br />1° de leerlingen van het onthaaljaar voor anderstalige nieuwkomers;<br />2° de leerlingen van het derde leerjaar van de derde graad, ingericht als een voorbereidend jaar op het hoger onderwijs;<br />3° de leerlingen van de Se-n-Se. (188)<br />
+Voor de toepassing van de rationalisatienorm worden niet in aanmerking genomen :<br>
+1° de leerlingen van het onthaaljaar voor anderstalige nieuwkomers;<br>
+2° de leerlingen van het derde leerjaar van de derde graad, ingericht als een 7de leerjaar gericht op het hoger onderwijs in het algemeen en kunstsecundair onderwijs;<br>
+3° de leerlingen van de 7de leerjaren van het technisch en kunstsecundair onderwijs. (188)
 
 ### ART. 190.
 
-§ 1.Voor elke school geldt een rationalisatienorm.<br /><br />§ 2. De rationalisatienorm wordt, op basis van de gradenstructuur van de school, als volgt vastgesteld :<br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met enkel een eerste graad : 111; <br />b) met een eerste + tweede graad : 200; <br />c) met een tweede + derde graad : 150; <br />d) met een eerste + tweede + derde graad : 261; <br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met enkel een eerste graad : 83; <br />b) met een eerste + tweede graad : 150; <br />c) met een tweede + derde graad : 113; <br />d) met een eerste + tweede + derde graad : 196. (189)
+§ 1.Voor elke school geldt een rationalisatienorm.<br>
+<br>
+§ 2. De rationalisatienorm wordt, op basis van de gradenstructuur van de school, als volgt vastgesteld :<br>
+1° voor de scholen die niet ressorteren onder 2° :<br>
+a) met enkel een eerste graad : 111;<br>
+b) met een eerste + tweede graad : 200;<br>
+c) met een tweede + derde graad : 150;<br>
+d) met een eerste + tweede + derde graad : 261;<br>
+2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een onderwijsinternaat verblijven :<br>
+a) met enkel een eerste graad : 83;<br>
+b) met een eerste + tweede graad : 150;<br>
+c) met een tweede + derde graad : 113;<br>
+d) met een eerste + tweede + derde graad : 196. (189)
 
 ### ART. 191.
 
-In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die tot een scholengemeenschap behoort met 15 % verminderd zoals hierna bepaald : <br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met enkel een eerste graad : 94; <br />b) met een eerste + tweede graad : 170; <br />c) met een tweede + derde graad : 129; <br />d) met een eerste + tweede + derde graad : 223; <br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met enkel een eerste graad : 71; <br />b) met een eerste + tweede graad : 128; <br />c) met een tweede + derde graad : 97; <br />d) met een eerste + tweede + derde graad : 168. (190)
+In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die tot een scholengemeenschap behoort met 15 % verminderd zoals hierna bepaald :<br>
+1° voor de scholen die niet ressorteren onder 2° :<br>
+a) met enkel een eerste graad : 94;<br>
+b) met een eerste + tweede graad : 170;<br>
+c) met een tweede + derde graad : 129;<br>
+d) met een eerste + tweede + derde graad : 223;<br>
+2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een onderwijsinternaat verblijven :<br>
+a) met enkel een eerste graad : 71;<br>
+b) met een eerste + tweede graad : 128;<br>
+c) met een tweede + derde graad : 97;<br>
+d) met een eerste + tweede + derde graad : 168. (190)
 
 ### ART. 192.
 
@@ -3732,7 +4112,7 @@ In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school 
 1° voor de scholen die niet ressorteren onder 2° :<br>
 a) met enkel een eerste graad : 74;<br>
 b) met een eerste + tweede graad : 133;<br>
-2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven :<br>
+2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een onderwijsinternaat verblijven :<br>
 a) met enkel een eerste graad : 55;<br>
 b) met een eerste + tweede graad : 99.<br>
 <br>
@@ -3740,18 +4120,16 @@ b) met een eerste + tweede graad : 99.<br>
 1° voor de scholen die niet ressorteren onder 2° :<br>
 a) met een tweede + derde graad : 100;<br>
 b) met een eerste + tweede + derde graad : 174;<br>
-2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven :<br>
+2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een onderwijsinternaat verblijven :<br>
 a) met een tweede + derde graad : 75;<br>
 b) met een eerste + tweede + derde graad : 130.<br>
 <br>
 § 3. Voor de vaststelling of een school binnen de in § 1 of § 2 vermelde afstand valt, wordt geen rekening gehouden met :<br>
 1° een school die slechts unieke structuuronderdelen aanbiedt; voor de toepassing van deze bepaling wordt bedoeld met :<br>
 a) uniek : per onderwijsnet slechts een keer georganiseerd per provincie dan wel in het administratief arrondissement Brussel-hoofdstad;<br>
-b) structuuronderdeel :<br>
-- een basisoptie;<br>
-- een optie van de tweede, derde of vierde graad van een bepaalde onderwijsvorm;<br>
-- het derde leerjaar van de derde graad van het beroepssecundair onderwijs, al dan niet georganiseerd als een specialisatiejaar;<br>
-- een opleiding van het hoger beroepsonderwijs;<br>
+b) structuuronderdeel:<br>
+1)&nbsp;&nbsp; &nbsp;alle structuuronderdelen van de eerste, tweede en derde graad, met uitzondering van het eerste leerjaar A en het eerste leerjaar B;<br>
+2)&nbsp;&nbsp; &nbsp;het hoger beroepsonderwijs;<br>
 2° een school van het gesubsidieerd vrij onderwijs :<br>
 a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en<br>
 b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd; en<br>
@@ -3767,7 +4145,9 @@ c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts 
 
 ### ART. 195.
 
-§ 1. De rationalisatienorm voor een school die enkel de vierde graad of hoger beroepsonderwijs organiseert, wordt vastgesteld op 100. <br /><br />§ 2. De respectieve rationalisatienormen vermeld in artikel 190 tot en met 194 worden verhoogd met 100 indien de school naast andere graden eveneens een vierde graad of hoger beroepsonderwijs organiseert. (194)
+§ 1. De rationalisatienorm voor een school die enkel hoger beroepsonderwijs organiseert, wordt vastgesteld op 100.<br>
+<br>
+§ 2. De respectieve rationalisatienormen vermeld in artikel 190 tot en met 194 worden verhoogd met 100 indien de school naast andere graden eveneens hoger beroepsonderwijs organiseert. (194)
 
 ### ART. 196.
 
@@ -3779,7 +4159,42 @@ In afwijking van artikel 190, § 1, geldt geen rationalisatienorm voor een schoo
 
 ### ART. 197/1.
 
-§ 1. Voor een instelling die aan al de volgende voorwaarden voldoet,   wordt, tenzij de instelling onder de toepassing valt van artikel 51, 52, § 1, of   52, § 2, van het decreet van 14 juli 1998 houdende diverse bepalingen met   betrekking tot het secundair onderwijs en tot wijziging van het decreet   basisonderwijs, de rationalisatienorm vastgesteld op de wijze, vermeld in het   tweede lid:<BR>1° tijdens het schooljaar 1997-1998 onder de toepassing vallen   van artikel 22 van het koninklijk besluit van 30 maart 1982 betreffende de   scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie-   en programmatieplan van het secundair onderwijs met volledig leerplan, gewijzigd   bij het besluit van de Vlaamse Regering van 29 juli 1989;<BR>2° de   rationalisatienorm op 1 februari 1998 effectief bereikt hebben;<BR>3° bij de   inwerkingtreding van titel VI van het decreet van 14 juli 1998 houdende diverse   bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het   decreet basisonderwijs niet onder de toepassing vallen van artikel 50 van het   voormelde decreet.<BR><BR>De rationalisatienorm, vermeld in het eerste lid,   wordt bepaald op de volgende wijze:<BR>1° voor een instelling in het   administratief arrondissement Brussel-Hoofdstad of in een gemeente met een   bevolkingsdichtheid van minder dan 250 inwoners per km<SUP>2</SUP> en voor een   instelling waarvan meer dan 75% van de regelmatige leerlingen in een internaat   verblijft:<BR>a) met alleen een eerste graad: 55;<BR>b) met een eerste en tweede   graad: 99;<BR>c) met een tweede en derde graad: 75;<BR>d) met een eerste, tweede   en derde graad: 130;<BR>2° voor een instelling die niet ressorteert onder punt   1° :<BR>a) met alleen een eerste graad: 74;<BR>b) met een eerste en tweede   graad: 133;<BR>c) met een tweede en derde graad: 100;<BR>d) met een eerste,   tweede en derde graad: 174.<BR><BR>§ 2. Voor een instelling die aan al de   volgende voorwaarden voldoet, wordt, tenzij de instelling onder de toepassing   valt van artikel 52, § 1, of 52, § 2, van het decreet van 14 juli 1998 houdende   diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging   van het decreet basisonderwijs, de rationalisatienorm als volgt vastgesteld op   de wijze, vermeld in het tweede lid:<BR>1° tijdens het schooljaar 1997-1998   onder de toepassing vallen van artikel 23 van het koninklijk besluit van 30   maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en   houdende het rationalisatie- en programmatieplan van het secundair onderwijs met   volledig leerplan, gewijzigd bij het besluit van de Vlaamse Regering van 29 juli   1989;<BR>2° de in 1° vermelde rationalisatienorm op 1 februari 1998 effectief   bereikt hebben;<BR>3° bij de inwerkingtreding van titel VI van het decreet van   14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair   onderwijs en tot wijziging van het decreet basisonderwijs niet onder de   toepassing vallen van artikel 51 van het voormelde decreet.<BR><BR>De   rationalisatienorm, vermeld in het eerste lid, wordt bepaald op de volgende   wijze:<BR>a) met alleen een eerste graad: 37;<BR>b) met een eerste en tweede   graad: 67;<BR>c) met een tweede en derde graad: 50;<BR>d) met een eerste, tweede   en derde graad: 87.<BR><BR>§ 3. Voor een instelling die:<BR>1° tijdens het   schooljaar 1997-1998 onder toepassing valt van artikel 24 van het koninklijk   besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair   onderwijs en houdende het rationalisatie- en programmatieplan van het secundair   onderwijs met volledig leerplan, gewijzigd bij het koninklijk besluit nr. 539   van 31 maart 1987;<BR>2° de in 1° vermelde rationalisatienorm op 1 februari 1998   effectief bereikt;<BR>3° bij de inwerkingtreding van titel VI van het decreet   van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair   onderwijs en tot wijziging van het decreet basisonderwijs, niet onder toepassing   valt van artikel 52, § 1, van hetzelfde decreet, wordt, tenzij de instelling   onder toepassing valt van artikel 51 of 52, § 2, van hetzelfde decreet, de   rationalisatienorm als volgt vastgesteld:<BR>a) met alleen een eerste graad:   37;<BR>b) met een eerste en tweede graad: 67;<BR>c) met een tweede en derde   graad: 50;<BR>d) met een eerste en tweede en derde graad: 87.
+§ 1. Voor een instelling die aan al de volgende voorwaarden voldoet, wordt, tenzij de instelling onder de toepassing valt van artikel 51, 52, § 1, of 52, § 2, van het decreet van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het decreet basisonderwijs, de rationalisatienorm vastgesteld op de wijze, vermeld in het tweede lid:<br>
+1° tijdens het schooljaar 1997-1998 onder de toepassing vallen van artikel 22 van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan, gewijzigd bij het besluit van de Vlaamse Regering van 29 juli 1989;<br>
+2° de rationalisatienorm op 1 februari 1998 effectief bereikt hebben;<br>
+3° bij de inwerkingtreding van titel VI van het decreet van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het decreet basisonderwijs niet onder de toepassing vallen van artikel 50 van het voormelde decreet.<br>
+<br>
+De rationalisatienorm, vermeld in het eerste lid, wordt bepaald op de volgende wijze:<br>
+1° voor een instelling in het administratief arrondissement Brussel-Hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km<sup>2</sup> en voor een instelling waarvan meer dan 75% van de regelmatige leerlingen in een onderwijsinternaat verblijft:<br>
+a) met alleen een eerste graad: 55;<br>
+b) met een eerste en tweede graad: 99;<br>
+c) met een tweede en derde graad: 75;<br>
+d) met een eerste, tweede en derde graad: 130;<br>
+2° voor een instelling die niet ressorteert onder punt 1° :<br>
+a) met alleen een eerste graad: 74;<br>
+b) met een eerste en tweede graad: 133;<br>
+c) met een tweede en derde graad: 100;<br>
+d) met een eerste, tweede en derde graad: 174.<br>
+<br>
+§ 2. Voor een instelling die aan al de volgende voorwaarden voldoet, wordt, tenzij de instelling onder de toepassing valt van artikel 52, § 1, of 52, § 2, van het decreet van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het decreet basisonderwijs, de rationalisatienorm als volgt vastgesteld op de wijze, vermeld in het tweede lid:<br>
+1° tijdens het schooljaar 1997-1998 onder de toepassing vallen van artikel 23 van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan, gewijzigd bij het besluit van de Vlaamse Regering van 29 juli 1989;<br>
+2° de in 1° vermelde rationalisatienorm op 1 februari 1998 effectief bereikt hebben;<br>
+3° bij de inwerkingtreding van titel VI van het decreet van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het decreet basisonderwijs niet onder de toepassing vallen van artikel 51 van het voormelde decreet.<br>
+<br>
+De rationalisatienorm, vermeld in het eerste lid, wordt bepaald op de volgende wijze:<br>
+a) met alleen een eerste graad: 37;<br>
+b) met een eerste en tweede graad: 67;<br>
+c) met een tweede en derde graad: 50;<br>
+d) met een eerste, tweede en derde graad: 87.<br>
+<br>
+§ 3. Voor een instelling die:<br>
+1° tijdens het schooljaar 1997-1998 onder toepassing valt van artikel 24 van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan, gewijzigd bij het koninklijk besluit nr. 539 van 31 maart 1987;<br>
+2° de in 1° vermelde rationalisatienorm op 1 februari 1998 effectief bereikt;<br>
+3° bij de inwerkingtreding van titel VI van het decreet van 14 juli 1998 houdende diverse bepalingen met betrekking tot het secundair onderwijs en tot wijziging van het decreet basisonderwijs, niet onder toepassing valt van artikel 52, § 1, van hetzelfde decreet, wordt, tenzij de instelling onder toepassing valt van artikel 51 of 52, § 2, van hetzelfde decreet, de rationalisatienorm als volgt vastgesteld:<br>
+a) met alleen een eerste graad: 37;<br>
+b) met een eerste en tweede graad: 67;<br>
+c) met een tweede en derde graad: 50;<br>
+d) met een eerste en tweede en derde graad: 87.
 
 ### ART. 198.
 
@@ -3836,7 +4251,20 @@ Ook een afbouw van een school, al dan niet als gevolg van het niet bereiken van 
 
 ### ART. 206.
 
-...
+Vanaf 1 september kunnen een of meer structuuronderdelen tussen scholen worden overgeheveld onder de volgende cumulatieve voorwaarden:<br>
+1° alle structuuronderdelen, met uitzondering van nichestructuuronderdelen, en het onthaaljaar voor anderstalige nieuwkomers komen voor overheveling in aanmerking;<br>
+2° in voorkomend geval impliceert de overheveling van een duaal structuuronderdeel ook de overheveling van het gelijknamige niet-duale structuuronderdeel en omgekeerd. De overheveling van een duaal structuuronderdeel impliceert ook de overheveling van het gelijknamige aanloopstructuuronderdeel;<br>
+3° de scholen behoren tot dezelfde scholengemeenschap of hetzelfde schoolbestuur;<br>
+4° de school waarnaar wordt overgeheveld, organiseert al het studiedomein of een domeinoverschrijdend aso-aanbod, naargelang het geval, waartoe het overgehevelde structuuronderdeel behoort;<br>
+5° de school waarnaar wordt overgeheveld, mag niet tot fusie of afbouw zijn verplicht doordat de toepasbare rationalisatienorm niet is bereikt;<br>
+6° het schoolbestuur dat overhevelt, communiceert de overheveling uiterlijk op 1 april voorafgaand aan de ouders en leerlingen;<br>
+7° de school die een structuuronderdeel overhevelt, kan dat structuuronderdeel niet gelijktijdig programmeren.<br>
+&nbsp;<br>
+De overheveling, vermeld in het eerste lid, wordt door het schoolbestuur bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk gemeld uiterlijk op 1 april van het voorafgaande schooljaar. Bij de voormelde melding worden de volgende documenten gevoegd:<br>
+1° per betrokken school, het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° in voorkomend geval, een uittreksel van het proces-verbaal waaruit moet blijken dat de overheveling in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+<br>
+Voor de toepassing van de omkaderingsnormen van het personeel, de toepassing van de minimale schoolbevolkingsnormen en de vaststelling van het werkingsbudget wordt de overheveling geacht al op 1 februari van het voorafgaande schooljaar te hebben plaatsgevonden.
 
 ## HOOFDSTUK 6. Financiering en subsidiëring
 
@@ -3846,7 +4274,11 @@ Ook een afbouw van een school, al dan niet als gevolg van het niet bereiken van 
 
 ### ART. 207.
 
-In het voltijds gewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 83 regelmatige leerlingen op de voorziene teldatum. <br /><br />In afwijking hierop wordt aan een school die enkel de eerste graad of de eerste en de tweede graad organiseert en die in de financierings- of subsidiëringsregeling werd opgenomen vanaf 1 september 1989, een voltijdse betrekking van directeur toegekend indien de school ten minste 120 regelmatige leerlingen telt op de voorziene teldatum.<br /><br />Indien het minimum aantal leerlingen niet wordt bereikt, wordt de directeur belast met een onderwijsopdracht die gelijk is aan een halve onderwijsopdracht, verminderd met vier uren-leraar of met een halftijdse opdracht van beheerder van het internaat verbonden aan een school voor zeevisserijonderwijs. De uren-leraar vallen binnen het urenpakket. Hij behoudt echter het recht op de salarisschaal van directeur met een volledige opdracht of op de overeenstemmende salaristoelage. (206)
+In het voltijds gewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 83 regelmatige leerlingen op de voorziene teldatum.<br>
+<br>
+In afwijking hierop wordt aan een school die enkel de eerste graad of de eerste en de tweede graad organiseert en die in de financierings- of subsidiëringsregeling werd opgenomen vanaf 1 september 1989, een voltijdse betrekking van directeur toegekend indien de school ten minste 120 regelmatige leerlingen telt op de voorziene teldatum.<br>
+<br>
+Indien het minimum aantal leerlingen niet wordt bereikt, wordt de directeur belast met een onderwijsopdracht die gelijk is aan een halve onderwijsopdracht, verminderd met vier uren-leraar. De uren-leraar vallen binnen het urenpakket. Hij behoudt echter het recht op de salarisschaal van directeur met een volledige opdracht of op de overeenstemmende salaristoelage. (206)
 
 ### ART. 208.
 
@@ -3861,11 +4293,7 @@ Van zodra de titularis van het ambt van directeur van een ingebouwde middenschoo
 Het aantal uren-leraar kan worden verhoogd voor de scholen gelegen in de gemeenten met een bevolkingsdichtheid van minder dan 125 inwoners/km2, voor de Nederlandstalige scholen gelegen in het arrondissement Brussel - Hoofdstad, voor de scholen die toepassing maken van de bepalingen van artikel 192 tot en met 195 inzake rationalisatienormen en voor de op basis van objectieve criteria aangeduide categorieën leerlingen of scholen;<br>
 2° een aantal uren-leraar, voorbehouden voor het onderwijzen van de vakken godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie.<br>
 <br>
-Deze bepaling is niet van toepassing op :<br>
-1° het derde leerjaar van de derde graad van het algemeen en het kunstsecundair onderwijs, aangeduid als voorbereidend jaar op het hoger onderwijs;<br>
-2° de Se-n-Se van het technisch en het kunstsecundair onderwijs;<br>
-3° de vierde graad;<br>
-4° het hoger beroepsonderwijs.<br>
+Deze bepaling is alleen van toepassing op de structuuronderdelen met levensbeschouwelijk onderricht in de basisvorming.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de berekeningswijze van het aantal wekelijkse uren-leraar dat aan een school kan worden toegekend.<br>
 <br>
@@ -3898,23 +4326,29 @@ Onder uren die geen lesuren zijn, wordt verstaan :<br>
 1° enerzijds opdrachten van het onderwijzend personeel die geen betrekking hebben op de realisatie van de wekelijkse lessenroosters, meer bepaald "interne pedagogische begeleiding", "bijzondere pedagogische taken", "nascholing", "aanvangsbegeleiding" "inhaallessen", "klassenraad" en "klassendirectie". Het organiseren van interne pedagogische begeleiding kan uitsluitend in een school met beroepssecundair onderwijs;<br>
 2° anderzijds opdrachten van het onderwijzend personeel die, zoals lesuren, wel betrekking hebben op de realisatie van de wekelijkse lessenroosters doch die niet binnen de context van vakken kunnen worden gevat, meer bepaald "seminaries". Seminaries kunnen uitsluitend worden georganiseerd buiten de basisvorming,&nbsp;de basisoptie en het fundamenteel gedeelte van de optie. Een opdracht seminaries moet steeds als een afzonderlijke betrekking worden aangeboden en vergt altijd het akkoord van het personeelslid dat er wordt mee belast.<br>
 <br>
-§ 3. De aanwending van uren-leraar kan in volgende structuuronderdelen ook plaatsvinden onder vorm van het inzetten van voordrachtgevers :<br>
+§ 3. Een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs kan het wekelijks aantal uren-leraar, vermeld in paragraaf 1, ook aanwenden voor het inzetten van een gastleraar in volgende structuuronderdelen:<br>
 1° alle structuuronderdelen van het studiegebied Ballet van de tweede en de derde graad kso;<br>
 2° alle structuuronderdelen van de derde graad tso;<br>
 3° alle structuuronderdelen van de derde graad bso;<br>
 4° hbo-verpleegkunde.<br>
 <br>
-Een voordrachtgever is een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de school. Een voordrachtgever geeft, hetzij in eigen naam hetzij in dienst van een organisatie of onderneming uit de publieke of private sector, voordrachten in de school of op een andere locatie in het kader van de realisatie van het onderwijsprogramma en vanuit zijn deskundigheid of ervaring met betrekking tot de arbeidsmarkt en de bedrijfswereld.<br>
+Het aantal lesuren van de wekelijkse lessentabel van het betrokken structuuronderdeel dat, omgerekend naar schooljaarbasis, aan gastleraren kan worden besteed, bedraagt maximum 2, uitgezonderd in de structuuronderdelen van het studiegebied Ballet en Integrale Veiligheid, waar het maximum 6 bedraagt.<br>
+&nbsp;<br>
+Een gastleraar als vermeld in het eerste lid, is een persoon die geen deel uitmaakt van het schoolbestuur of centrumbestuur of van het personeel van de school of het centrum. Een gastleraar als vermeld in het eerste lid, geeft in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, gastlessen in de school, in het centrum of op een andere locatie in het kader van de realisatie van het onderwijsprogramma en vanuit zijn deskundigheid of ervaring met betrekking tot de arbeidsmarkt en de bedrijfswereld.<br>
 <br>
-Het aantal lesuren van de wekelijkse lessentabel van het betrokken structuuronderdeel dat, omgerekend naar schooljaarbasis, aan voordrachtgevers kan worden besteed, bedraagt maximum 2, uitgezonderd in de structuuronderdelen van het studiegebied Ballet en Integrale veiligheid, waar het maximum 6 bedraagt.<br>
+Een gastleraar als vermeld in het eerste lid, is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van het voorleggen niet langer dan een maand tevoren is afgegeven. Daarnaast toont de voormelde gastleraar die gastlessen geeft in een school die of in een centrum dat in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, aan dat hij de kennis van het Nederlands als onderwijstaal beheerst op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De gastleraar bewijst die vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
 <br>
-Bij deze vorm van aanwending worden uren-leraar omgezet in een krediet. De Vlaamse Regering bepaalt de wijze van melding ervan aan de bevoegde dienst, de grootte van het krediet per uur-leraar dat wordt omgezet en de wijze van toekenning van het krediet.<br>
+Bij de wijze van aanwending, vermeld in het eerste lid, worden uren-leraar omgezet in een krediet ten belope van de lesopdracht van de gastleraar. De Vlaamse Regering bepaalt de wijze van melding van voormelde omzetting aan de bevoegde dienst die de Vlaamse Regering aanwijst, de grootte van het krediet per uur-leraar dat wordt omgezet en de wijze van toekenning van het krediet.<br>
 <br>
-De regeling in kwestie is dezelfde voor het voltijds secundair onderwijs en voor het deeltijds beroepssecundair onderwijs<br>
+§ 3bis. In afwijking van paragraaf 3, eerste en tweede lid, kan een schoolbestuur van 1 september 2023 tot en met 31 augustus 2025 in het voltijds secundair onderwijs in elk structuuronderdeel uren-leraar aanwenden voor van het inzetten van gastleraren en dit voor een maximum van een derde van de lesuren van de wekelijkse lessentabel van het betrokken structuuronderdeel.<br>
 <br>
-§ 3bis. In afwijking van paragraaf 3, eerste en derde lid, kan van 1 september 2020 tot 31 augustus 2025 in het voltijds secundair onderwijs de aanwending van uren-leraar onder de vorm van het inzetten van voordrachtgevers onder de hiernavolgende voorwaarden plaatsvinden. Het aantal lesuren van de wekelijkse lessentabel van het betrokken structuuronderdeel dat, omgerekend naar schooljaarbasis, aan voordrachtgevers kan worden besteed, bedraagt maximum 4, uitgezonderd in de structuuronderdelen van het studiegebied Ballet, het structuuronderdeel Defensie en veiligheid, en het structuuronderdeel Integrale veiligheid, waar het maximum 6 bedraagt.<br>
+Deze maatregel wordt geëvalueerd tijdens het schooljaar 2024-2025.<br>
 <br>
-§ 4. Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan de school toegekende uren-leraar, vermeld in artikel 209, § 1, 1°, 226, 227, 234 en 235, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel.<br>
+§ 4. Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan de school toegekende vacante uren-leraar, vermeld in artikel 209, § 1, 1°, 226, 227, 234 en 235, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel.<br>
 <br>
 De omzettingen, vermeld in het eerste lid, kunnen telkens gebeuren vanaf 1 oktober van het lopende schooljaar in kwestie en gelden voor de duur van het lopende schooljaar. In afwijking hiervan eindigt een omzetting van uren-leraar als het personeelslid dat aangesteld is in een betrekking die via voormelde omzetting werd opgericht in een ambt van het ondersteunend personeel, tijdens het schooljaar vrijwillig ontslag neemt volgens artikel 25 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of volgens artikel 26 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. In dit geval eindigt de omzetting voor het overeenkomend deel van de uren-leraar vanaf het ogenblik dat het ontslag ingaat.<br>
 <br>
@@ -3925,6 +4359,78 @@ De Vlaamse Regering bepaalt de wijze waarop de uren-leraar kunnen worden omgezet
 De criteria om het tekort aan onderwijzend personeel te bepalen en de aanwending in ambten van het ondersteunend personeel als vermeld in het eerste lid, worden vastgelegd na onderhandeling in het bevoegde lokale comité.<br>
 <br>
 De betrekkingen die opgericht worden in ambten van het ondersteunend personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.
+
+### ART 211/1.
+
+§1. Een schoolbestuur kan bij een tekort van onderwijzend personeel op de arbeidsmarkt een deel van zijn omkadering voor het onderwijzend personeel van een of meer van zijn scholen telkens voor maximaal één schooljaar aanwenden om via een overeenkomst van dienstverlening tussen het schoolbestuur en een organisatie of onderneming uit de publieke of private sector in die school of scholen een of meer werknemers van die organisatie of onderneming in dienst te nemen via een dienstverleningsovereenkomst. Het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn niet van toepassing op de voormelde werknemers.<br>
+<br>
+Bij de wijze van aanwending van de omkadering voor het onderwijzend personeel, vermeld in het eerste lid, kan het schoolbestuur dat het personeelslid in dienst neemt, uren-leraar van een of meer van zijn scholen, vermeld in het eerste lid, omzetten in een krediet ten belope van de lesopdracht of lesopdrachten die in de dienstverleningsovereenkomst zijn vastgelegd. Het voormelde krediet wordt aangewend als financiële tegemoetkoming voor de onderneming of de organisatie, vermeld in het eerste lid, die een of meer werknemers ter beschikking stelt van het schoolbestuur. Het schoolbestuur wendt voor de voormelde financiële tegemoetkoming uren-leraar aan uit het pakket wekelijkse uren-leraar, vermeld in artikel 209, §1, dat aan de school is toegekend.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag per uur-leraar dat een schoolbestuur kan omzetten in een krediet voor de financiële tegemoetkoming, vermeld in het tweede lid, en de wijze van melding van voormelde omzetting aan de bevoegde dienst die de Vlaamse Regering aanwijst. Het schoolbestuur machtigt de bevoegde dienst van de administratie om de voormelde financiële tegemoetkoming rechtstreeks uit te betalen aan de organisatie of onderneming, vermeld in het eerste lid, waarmee het schoolbestuur een dienstverleningsovereenkomst sluit.<br>
+<br>
+De Vlaamse Regering stelt een model van dienstverleningsovereenkomst op, waarbij ze rekening houdt met de voorwaarden, vermeld in van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers. In de voormelde dienstverleningsovereenkomst worden al de volgende elementen opgenomen:<br>
+1° de specifieke opdracht van de werknemer, vermeld in het eerste lid, in de school;<br>
+2° de aanstellingsen arbeidsvoorwaarden die gelden voor de werknemer, vermeld in het eerste lid, waarbij alvast het salaris en de financiële voordelen die de voormelde werknemer in zijn onderneming of organisatie geniet gegarandeerd blijven door de uitsturende onderneming of organisatie;<br>
+3° de opleiding die de werknemer, vermeld in het eerste lid, moet gevolgd hebben;<br>
+4° de plichten die de werknemer, vermeld in het eerste lid, moet naleven bij het uitoefenen van zijn opdracht. In de voormelde verplichtingen wordt alvast uitdrukkelijk bepaald dat de voormelde werknemer altijd onder het gezag blijft van zijn organisatie of onderneming, tenzij het gaat om plichten die betrekking hebben op het welzijn op het werk of over specifieke instructies die nodig zijn voor de goede uitvoering van de specifieke opdracht;<br>
+5° de duur van de dienstverleningsovereenkomst;<br>
+6° de mogelijkheden tot voortijdige beëindiging van de dienstverleningsovereenkomst.<br>
+&nbsp;<br>
+De werknemers, vermeld in het eerste lid, moeten voldoen aan de aanstellingsvoorwaarden die de Vlaamse Regering opneemt in het model van dienstverleningsovereenkomst, vermeld in het vierde lid. Werknemers als vermeld in het eerste lid, die ter beschikking worden gesteld van een school die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, tonen daarenboven aan dat ze de kennis van het Nederlands als onderwijstaal beheersen op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De werknemers bewijzen die vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
+<br>
+§2. Het tekort van onderwijzend personeel op de arbeidsmarkt, vermeld in paragraaf 1, eerste lid, blijkt uit het feit dat het schoolbestuur in de school waar het de werknemer van een organisatie of onderneming, vermeld in paragraaf 1, eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het bestuursen onderwijzend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+<br>
+Om de vacature, vermeld in het eerste lid, in te vullen, sluit het schoolbestuur van de school een dienstverleningsovereenkomst met de onderneming of organisatie, vermeld in paragraaf 1, eerste lid. In de voormelde dienstverleningsovereenkomst worden de afspraken over de terbeschikkingstelling van een werknemer van de onderneming of organisatie voor een welbepaalde opdracht en de periode van de terbeschikkingstelling opgenomen. De dienstverleningsovereenkomst regelt altijd een lesopdracht die de volgende taken omvat:<br>
+1° de planning en voorbereiding van lessen;<br>
+2° het lesgeven zelf;<br>
+3° de klaseigen leerlingenbegeleiding;<br>
+4° de evaluatie van de leerlingen;<br>
+5° het overleg en de samenwerking met directie, collega’s, en in voorkomend geval CLB, leersteuncentra en ouders.<br>
+<br>
+Het schoolbestuur en de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, sluiten een dienstverleningsovereenkomst als vermeld in paragraaf 1, af. De voormelde dienstverleningsovereenkomst bevat de volgende bepalingen en voorwaarden over de uitvoering van de opdracht, vermeld in het tweede lid:<br>
+1° de gegevens van het schoolbestuur dat als opdrachtgever optreedt en de gegevens van de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, die als opdrachtnemer optreedt;<br>
+2° de contactgegevens van de gemachtigden die de beide partijen aanwijzen;<br>
+3° de opdracht die wordt overeengekomen, de wijze van uitvoering van die op-<br>
+dracht en de ondersteuning waarop de werknemer recht heeft tijdens die uitvoering en die de school aanbiedt;<br>
+4° de voorwaarden waaraan de werknemer, vermeld in paragraaf 1, eerste lid, die de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, inschakelt, moet beantwoorden, waarbij uitdrukkelijk bepaald wordt dat de werknemer onder het gezag blijft van de onderneming of organisatie, tenzij het gaat om instructies die het schoolbestuur aan de werknemer geeft in het kader van de uitvoering van de opdracht en die in de deelovereenkomst worden opgenomen;<br>
+5° de financiële en sociale verplichtingen ten aanzien van de werknemer, vermeld in paragraaf 1, eerste lid, die ten laste van de onderneming of organisatie blijven;<br>
+6° de financiële tegemoetkoming die het schoolbestuur betaalt aan de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, en de modaliteiten van betaling;<br>
+7° bepalingen over de vertrouwelijkheid waartoe de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, zich verbindt met het oog op de uitvoering van de opdracht. In de voormelde bepalingen wordt in elk geval opgenomen dat de werknemer van de onderneming of organisatie het ambtsgeheim in onderwijs moet naleven;<br>
+8° bepalingen over de intellectuele eigendom waarbij de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, zich ermee akkoord verklaart dat alle auteursof andere intellectuele rechten op werken die in het kader van de uitvoering van de opdracht worden gerealiseerd, overgedragen worden aan het schoolbestuur en waarbij afspraken opgenomen kunnen worden over het eventuele interne gebruik van dit intellectuele eigendom in de onderneming of organisatie, vermeld in paragraaf 1, eerste lid;<br>
+9° bepalingen over de aansprakelijkheid bij de uitvoering van de opdracht, waarbij in elk geval wordt opgenomen dat het schoolbestuur ervoor zorgt dat de werknemer, vermeld in paragraaf 1, eerste lid, tijdens de uitvoering van de opdracht op dezelfde wijze is verzekerd als al zijn andere personeelsleden;<br>
+10° de bepalingen, vermeld in artikel 8 tot en met 10 van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk;<br>
+11° de duurtijd van de dienstverleningsovereenkomst.<br>
+<br>
+§3. De onderneming of organisatie, vermeld in paragraaf 1, eerste lid, selecteert een werknemer om de opdracht uit te oefenen die in de dienstverleningsovereenkomst, vermeld in paragraaf 2, is vastgelegd. De werknemer moet aan al de volgende voorwaarden voldoen:<br>
+1° de werknemer is minstens drie jaren in dienst bij de onderneming of de organisatie;<br>
+2° de werknemer is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van voorleggen niet langer dan een maand tevoren is afgegeven;<br>
+3° de werknemer die ter beschikking wordt gesteld van een school die in het Nederlandse taalgebied ligt met uitzondering van de faciliteitengemeenten, beschikt over de vereiste kennis van het Nederlands als onderwijstaal, wat blijkt uit het feit dat de werknemer het Nederlands beheerst op het niveau C1 van het Europees Referentiekader voor Talen. Die vereiste taalkennis blijkt uit het feit dat de werknemer minstens beschikt over een diploma dat in het Nederlands is behaald en dat toegang geeft tot een wervingsambt van het bestuursen onderwijzend personeel waarin hij een lesopdracht opneemt conform artikel 10 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs;<br>
+4° de werknemer beschikt over een diploma dat minstens een voldoende geacht bekwaamheidsbewijs is voor het wervingsambt van het bestuursen onderwijzend personeel waarin hij een lesopdracht opneemt conform artikel 10 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs.<br>
+&nbsp;<br>
+De onderneming of organisatie, vermeld in paragraaf 1, eerste lid, stelt de werknemer, vermeld in paragraaf 1, eerste lid, voor aan het schoolbestuur, dat controleert of de werknemer aan de voorwaarden, vermeld in het eerste lid, voldoet en dat vervolgens beslist om de opdracht al of niet toe te kennen aan de voormelde werknemer. Het schoolbestuur bewaart de gegevens van de voormelde werknemer, vermeld in het eerste lid, 2°, 3° en 4°, die het door de voormelde controle verkrijgt op de wijze en gedurende de termijnen die het schoolbestuur al hanteert voor de gegevens van al zijn personeelsleden, conform de algemene verordening gegevensbescherming (AVG).<br>
+<br>
+§4. De individuele opdracht van de werknemer, vermeld in paragraaf 3, in de school wordt opgenomen in een deelovereenkomst conform het model van deelovereenkomst dat is opgenomen in het model van dienstverleningsovereenkomst, vermeld in paragraaf 1.<br>
+<br>
+In de deelovereenkomst, vermeld in het eerste lid, worden ook de specifieke afspraken opgenomen over de aanvangsbegeleiding en ondersteuning waarop de werknemer, vermeld in het eerste lid, een beroep kan doen in de school waar hij zijn lesopdracht opneemt.<br>
+<br>
+De werknemer, vermeld in het eerste lid, blijft tijdens de uitvoering van de overeengekomen opdracht altijd onder het gezag van zijn onderneming of organisatie. Het schoolbestuur kan aan de voormelde werknemer in het kader van de uitvoering van de concrete lesopdracht instructies geven. De bepalingen over die instructies worden opgenomen in een bijlage bij de deelovereenkomst, vermeld in het eerste lid.<br>
+<br>
+De werknemer, vermeld in het eerste lid, behoudt tijdens de uitvoering van de opdracht in de school het salaris waar hij bij zijn onderneming of organisatie recht op heeft, en ook alle daarbij horende financiële en extralegale voordelen.<br>
+<br>
+De dienstverleningsovereenkomst, vermeld in paragraaf 2, derde lid, regelt de algemene rechtsverhouding tussen het schoolbestuur en de onderneming of organisatie voor de duur van de overeengekomen opdracht. Bij een tegenstrijdigheid of afwijking hebben de bepalingen van de deelovereenkomst, vermeld in het eerste lid, voorrang op de bepalingen van de dienstverleningsovereenkomst. De bepalingen van een recentere deelovereenkomst als vermeld in het eerste lid, hebben altijd voorrang op die van een vorige deelovereenkomst.<br>
+<br>
+De werknemer, vermeld in het eerste lid, is in het kader van de lesopdracht die hij in de school opneemt ambtshalve stemgerechtigd lid van de klassenraad. Tussen de school en de onderneming of organisatie, vermeld in paragraaf 1, worden praktische afspraken gemaakt over het functioneren van de voormelde werknemer in de klassenraad, met inbegrip van het al dan niet aanwezig zijn van de voormelde werknemer op klassenraadsvergaderingen. De voormelde afspraken worden opgenomen in de deelovereenkomst, vermeld in het eerste lid.<br>
+<br>
+In het zesde lid wordt verstaan onder klassenraad: de begeleidende klassenraad of de delibererende klassenraad in het voltijds gewoon secundair onderwijs.<br>
+<br>
+§5. De Vlaamse Regering kan subsidies toekennen aan een externe organisatie of bedrijf om in het kader van het lerarentekort tussen schoolbesturen en ondernemingen of organisaties een bemiddelende of coachende rol op te nemen.<br>
+<br>
+§6. De maatregelen, vermeld in dit artikel, worden geëvalueerd tijdens het schooljaar 2024-2025.<br>
+&nbsp;
 
 ### ART. 212.
 
@@ -3952,7 +4458,23 @@ Bij toewijzing aan titularissen van het onderwijzend personeel of aan hun tijdel
 
 ### ART. 216.
 
-§ 1. Het aantal organiseerbare plage-uren wordt gereduceerd volgens het hierna bepaalde. <br /><br />Voor de toepassing van dit artikel wordt verstaan onder :<br />a) aantal uren-leraar : de uren, verkregen in toepassing van de bepalingen inzake het aantal wekelijkse uren leraar dat aan elke school wordt toegekend, en, in voorkomend geval, in toepassing van de bepalingen inzake deeltijds beroepssecundair onderwijs, vermeerderd of verminderd met de uren-leraar ingevolge herverdeling van uren-leraar door het schoolbestuur van de school, door overname van uren-leraar van het voorgaande schooljaar, door overname van uren-leraar van een andere school, ingevolge fusie of door toetreding tot een scholengemeenschap;<br />b) plage-uren : de uren boven het minimum maar binnen het maximum aantal uren, vereist voor het ambt met volledige prestaties van leraar of godsdienstleraar, ongeacht het feit of deze uren wel of niet worden geput uit de uren, bedoeld onder a).<br /><br />§ 2. Scholen die behoren tot een scholengemeenschap : vanaf het schooljaar 2004-2005 : ten opzichte van de som van de aantallen uren-leraar van de individuele scholen mogen binnen de scholengemeenschap maximum 1,3 % plage-uren worden georganiseerd.<br /><br />Vanaf het schooljaar 2011-2012 : enerzijds mag ten opzichte van het aantal uren-leraar van de individuele school maximum 3 procent plage-uren worden georganiseerd en anderzijds mogen ten opzichte van de som van de aantallen uren-leraar van de individuele scholen binnen de scholengemeenschap maximum 1,3 procent plage-uren worden georganiseerd. <br /><br />§ 3. Scholen die niet behoren tot een scholengemeenschap : vanaf het schooljaar 2002-2003 mag het maximum % niet hoger liggen dan het % van het schooljaar 2001-2002.<br /><br />Vanaf het schooljaar 2011-2012 : het maximum procent plage-uren mag niet hoger liggen dan het procent van het schooljaar 2001-2002. Het maximum procent plage-uren wordt evenwel vastgelegd op 3 procent indien het procent van het schooljaar 2001-2002 meer dan 3 procent bedraagt. <br /><br />§ 4. De scholengemeenschappen en de scholen informeren de bevoegde onderhandelingsorganen over de verdeling en aanwending van de plage-uren. <br /><br />§ 5. Personeelsleden kunnen slechts met plage-uren worden belast als die plage-uren om organisatorische redenen noodzakelijk zijn en op een billijke en transparante wijze georganiseerd worden. Over de algemene regels die het schoolbestuur hierbij zal hanteren, wordt bij de voorbereiding van het schooljaar in elke school onderhandeld in de bevoegde organen. (215)
+§ 1. Het aantal organiseerbare plage-uren wordt gereduceerd volgens het hierna bepaalde.<br>
+<br>
+Voor de toepassing van dit artikel wordt verstaan onder :<br>
+a) aantal uren-leraar : de uren, verkregen in toepassing van de bepalingen inzake het aantal wekelijkse uren leraar dat aan elke school wordt toegekend, en, in voorkomend geval, in toepassing van de bepalingen inzake deeltijds beroepssecundair onderwijs, vermeerderd of verminderd met de uren-leraar ingevolge herverdeling van uren-leraar door het schoolbestuur van de school, door overname van uren-leraar van het voorgaande schooljaar, door overname van uren-leraar van een andere school, ingevolge fusie of door toetreding tot een scholengemeenschap;<br>
+b) plage-uren : de uren boven het minimum maar binnen het maximum aantal uren, vereist voor het ambt met volledige prestaties van leraar of godsdienstleraar, ongeacht het feit of deze uren wel of niet worden geput uit de uren, bedoeld onder a).<br>
+<br>
+§ 2. Scholen die behoren tot een scholengemeenschap.<br>
+<br>
+Vanaf het schooljaar 2011-2012 : enerzijds mag ten opzichte van het aantal uren-leraar van de individuele school maximum 3 procent plage-uren worden georganiseerd en anderzijds mogen ten opzichte van de som van de aantallen uren-leraar van de individuele scholen binnen de scholengemeenschap maximum 1,3 procent plage-uren worden georganiseerd.<br>
+<br>
+§ 3. Scholen die niet behoren tot een scholengemeenschap.<br>
+<br>
+Vanaf het schooljaar 2011-2012 : het maximum procent plage-uren mag niet hoger liggen dan het procent van het schooljaar 2001-2002. Het maximum procent plage-uren wordt evenwel vastgelegd op 3 procent indien het procent van het schooljaar 2001-2002 meer dan 3 procent bedraagt.<br>
+<br>
+§ 4. De scholengemeenschappen en de scholen informeren de bevoegde onderhandelingsorganen over de verdeling en aanwending van de plage-uren.<br>
+<br>
+§ 5. Personeelsleden kunnen slechts met plage-uren worden belast als die plage-uren om organisatorische redenen noodzakelijk zijn en op een billijke en transparante wijze georganiseerd worden. Over de algemene regels die het schoolbestuur hierbij zal hanteren, wordt bij de voorbereiding van het schooljaar in elke school onderhandeld in de bevoegde organen. (215)
 
 ## [Onderafdeling 3. Scholen met studierichting Binnenvaart en Beperkte Kustvaart (verv. decr. 20 april 2018, art. 45, I: 1 september 2019)]
 
@@ -3978,13 +4500,24 @@ Het personeelslid dat in een betrekking in een ambt van het varend personeel wor
 
 ### ART. 221.
 
-§ 1.&nbsp;Aan elke school voor voltijds secundair onderwijs met ten minste vijfentwintig regelmatige leerlingen op de toepasbare teldatum in structuuronderdelen met in de benaming "topsport" die onder toepassing valt van het gesloten topsportconvenant, wordt een gefinancierde of gesubsidieerde betrekking van topsportschoolcoordinator toegekend. Die betrekking wordt niet meer toegekend als de norm twee aansluitende schooljaren niet wordt bereikt.<br>
+§1.&nbsp;Aan elke school voor voltijds secundair onderwijs met ten minste vijfentwintig regelmatige leerlingen op de toepasbare teldatum in structuuronderdelen met in de benaming "topsport" die onder toepassing valt van het gesloten topsportconvenant, wordt een gefinancierde of gesubsidieerde betrekking van topsportschoolcoordinator toegekend. Die betrekking wordt niet meer toegekend als de norm twee aansluitende schooljaren niet wordt bereikt.<br>
 <br>
 Deze bijkomende betrekking is niet opdeelbaar; ze kan slechts door één personeelslid, dat exclusief en voltijds met topsportschoolcoördinatie is belast, worden uitgeoefend. De betrekking wordt ingericht in één van de volgende ambten, naar keuze van het betrokken schoolbestuur : adjunct-directeur, technisch adviseur-coördinator, technisch adviseur, leraar.<br>
 <br>
-§ 2. In geval de betrekking wordt ingericht in het ambt van leraar, dan wordt de opdracht uitgeoefend onder vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken.<br>
+§2. In geval de betrekking wordt ingericht in het ambt van leraar, dan wordt de opdracht uitgeoefend onder vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken.<br>
 <br>
-In voorkomend geval worden de desbetreffende uren niet verrekend bij toepassing van de bepaling dat maximum 3 % van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken, zoals vermeld in artikel 212. (220)
+In voorkomend geval worden de desbetreffende uren niet verrekend bij toepassing van de bepaling dat maximum 3 % van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken, zoals vermeld in artikel 212.<br>
+<br>
+§3. Aan elke school voor voltijds secundair onderwijs met ten minste één regelmatige leerling op de toepasbare teldatum in structuuronderdelen met in de benaming “topsport”, wordt een aantal specifieke uren-leraar toegekend onder de volgende modaliteiten:<br>
+1°&nbsp;&nbsp; &nbsp;het aantal uren-leraar bedraagt 0,2 uren-leraar per regelmatige leerling vanaf de 26e regelmatige leerling;<br>
+2°&nbsp;&nbsp; &nbsp;indien het aantal regelmatige leerlingen lager ligt dan 25, bedraagt het aantal uren-leraar 0,85 uren-leraar per regelmatige leerling;<br>
+3°&nbsp;&nbsp; &nbsp;het aantal toegekende uren-leraar bedraagt maximaal 22.<br>
+&nbsp;<br>
+De specifieke uren-leraar, vermeld in het eerste lid, worden ingericht onder de vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken.<br>
+<br>
+De desbetreffende uren worden niet verrekend bij toepassing van de bepaling dat maximum 3% van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken als vermeld in artikel 212.<br>
+<br>
+Voor de toepassing van deze paragraaf worden scholen van hetzelfde schoolbestuur als één school beschouwd. De specifieke uren-leraar worden in dat geval steeds toegekend aan de school die valt onder de toepassing van het gesloten topsportconvenant.
 
 ## Onderafdeling 5 : Onthaalonderwijs
 
@@ -4160,8 +4693,6 @@ c) ...;<br>
 d) de organisatie van neutraal onderwijs, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, hierna voorafname 1 (V1) te noemen;<br>
 e) het aanbod van de keuze tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, conform artikel 24, § 1, vierde lid, van de gecoördineerde Grondwet, hierna voorafname 2 (V2) te noemen.<br>
 <br>
-In afwijking van het eerste lid, 1°, b), wordt voor het begrotingsjaar 2020 voor de scholen die tellen conform artikel 169, onder leerlingenkenmerk 2 begrepen, het krijgen van een schooltoelage: er wordt een schooltoelage gegeven aan de leerling als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die alleen door ongewettigde afwezigheid geen recht op een schooltoelage hadden, ook meegerekend.<br>
-<br>
 § 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br>
 1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een school, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br>
 2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking en leerlingen met een zorgthuis worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br>
@@ -4178,15 +4709,13 @@ Leerlingenkenmerk 4 is enkel van toepassing voor leerlingen die in het Nederland
 
 ### ART. 243.
 
-§ 1. Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het startbedrag voor de werkingsmiddelen voor het gewoon voltijds secundair onderwijs en het deeltijds beroepssecundair onderwijs 394.419.000 euro.<br>
+§ 1. ...<br>
 <br>
-§ 2. 1° Vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het gewoon voltijds en deeltijds beroepssecundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br>
-2° Voor het begrotingsjaar 2016 wordt het werkingsbudget voor het gewoon voltijds en deeltijds secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br>
+§ 2. 1° ...<br>
+2° ...<br>
 3° Vanaf het begrotingsjaar 2017 wordt het werkingsbudget voor het gewoon voltijds en deeltijds secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br>
 <br>
-§ 3. Voor het begrotingsjaar 2009 wordt het bedrag van 394.419.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
-<br>
-Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
+§ 3.&nbsp;Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
 <br>
 De coëfficiënten A1 en A2 worden als volgt berekend :<br>
 1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij :<br>
@@ -4196,15 +4725,13 @@ b) punten 0 = het totale aantal punten voor schoolkenmerken, zoals berekend na d
 a) Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
 b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
 De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
-3° in afwijking van 2° is de A2-coëfficiënt voor het begrotingsjaar 2010 gelijk aan 1;<br>
-4° in afwijking van punt 2° is voor het begrotingsjaar 2012 de coëfficiënt A2= 0,6 (Cx-1/Cx-2) + 0,4.<br>
-5° in afwijking van punt 2° is voor het begrotingsjaar 2013 de coëfficiënt A2 = 0,6 (Cx-1/Cx-2) + 0,4.<br>
-6° in afwijking van punt 2° is voor het begrotingsjaar 2015 de coëfficiënt A2 = 0,6 (Cx-1/Cx-2) + 0,4;<br>
-7° het bedrag voor het begrotingsjaar 2015 verkregen na toepassing van § 3, 1° tot en met 6°, wordt in het begrotingsjaar 2015 met 17.127.000 euro verminderd.<br>
+3° ...;<br>
+4° ...<br>
+5° ...<br>
+6° ...;<br>
+7° ...<br>
 <br>
-§ 4. Het bedrag verkregen door toepassing van § 3 wordt voor de begrotingsjaren 2009, 2012, 2013, 2014 en 2015 verhoogd met de loonkosten die jaarlijks vrijkomen door de toepassing van artikel 192, § 2, en met 70 % van de loonkosten die vrijkomen door toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br>
-<br>
-Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar 2016 verhoogd met 40 % van de loonkosten die vrijkomen door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen. (242)
+§ 4. ...
 
 ### ART. 244.
 
@@ -4288,9 +4815,9 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>12</o:TotalTime><br>  <o:Created>2011-06-28T07:19:00Z</o:Created><br>  <o:LastSaved>2011-06-28T07:19:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>220</o:Words><br>  <o:Characters>1441</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>12</o:Lines><br>  <o:Paragraphs>3</o:Paragraphs><br>  <o:CharactersWithSpaces>1658</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-priority:59;<br>	mso-style-unhide:no;<br>	border:solid black 1.0pt;<br>	mso-border-themecolor:text1;<br>	mso-border-alt:solid black .5pt;<br>	mso-border-themecolor:text1;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid black;<br>	mso-border-insideh-themecolor:text1;<br>	mso-border-insidev:.5pt solid black;<br>	mso-border-insidev-themecolor:text1;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
 <p>B_SchK, vermeld in artikel 244, § 4, wordt als volgt verdeeld over de schoolkenmerken zoals bedoeld in artikel 242, § 1, met uitzondering van schoolkenmerk V1 en V2:<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° a) vóór de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:</span></span></span></p>
+1° a) vóór de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:</p>
 
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>eerste graad</td>
@@ -4317,7 +4844,7 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 			<td>18</td>
 		</tr>
 		<tr>
-			<td>hoger beroepsonderwijs verpleegkunde</td>
+			<td>hoger beroepsonderwijs</td>
 			<td>20</td>
 		</tr>
 		<tr>
@@ -4327,9 +4854,8 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">b) vanaf de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:</span></span></span>
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+b) vanaf de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:
+<table border="1">
 	<tbody>
 		<tr>
 			<td>Eerste graad</td>
@@ -4360,7 +4886,7 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 			<td>22</td>
 		</tr>
 		<tr>
-			<td>Hoger beroepsonderwijs verpleegkunde</td>
+			<td>Hoger beroepsonderwijs&nbsp;</td>
 			<td>20</td>
 		</tr>
 		<tr>
@@ -4370,9 +4896,9 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 	</tbody>
 </table>
 
-<p style="margin-left:0cm; margin-right:0cm">2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in 172, vermenigvuldigd met het overeenkomstige puntengewicht;</p>
+<p>2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in artikel 169 tot en met 172, vermenigvuldigd met het overeenkomstige puntengewicht;</p>
 
-<p style="margin-left:0cm; margin-right:0cm">3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen.&nbsp;</p>
+<p>3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen.&nbsp;</p>
 
 ### ART. 246.
 
@@ -4386,7 +4912,7 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>§ 1. Het budget leerlingenkenmerken, vermeld in artikel 244, § 3, wordt verdeeld in een bedrag per leerling geteld op de teldatum, vermeld in 172, per kenmerk volgens de volgende formules :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>§ 1. Het budget leerlingenkenmerken, vermeld in artikel 244, § 3, wordt verdeeld in een bedrag per leerling geteld op de teldatum, vermeld in artikel 169 tot en met 172, per kenmerk volgens de volgende formules :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 
 			<p>1° B_Clli<sub>Opl</sub>= B_lli<sub>Opl</sub>/Clli<sub>Opl</sub>;</p>
 
@@ -4580,7 +5106,7 @@ a) hetzij aan alle onderstaande voorwaarden voldoet :<br>
 2) van zodra met de effectieve lesbijwoning wordt gestart, de vorming van dit leerjaar volledig en daadwerkelijk volgen, behoudens in geval van gewettigde afwezigheid;<br>
 b) hetzij aan alle onderstaande voorwaarden voldoet :<br>
 1) voldoen aan de toelatingsvoorwaarden tot een eerste leerjaar van de eerste graad van het secundair onderwijs;<br>
-2) beschikken over een verslag, als bepaald in artikel 294, en het individueel aangepast curriculum dat voor hem of haar is bepaald door de klassenraad werkelijk en regelmatig volgen, behoudens in geval van gewettigde afwezigheid.<br>
+2) beschikken over een IAC-verslag en het individueel aangepast curriculum dat voor hem of haar is bepaald door de klassenraad werkelijk en regelmatig volgen, behoudens in geval van gewettigde afwezigheid.<br>
 3) ....<br>
 <br>
 § 1/1. In afwijking van paragraaf 1, a), 1), is ook regelmatige leerling, de leerling waarvoor aan volgende gezamenlijke voorwaarden is voldaan:<br>
@@ -4604,7 +5130,7 @@ Deze maximumleeftijd is evenwel niet van toepassing op :<br>
 2° de structuuronderdelen van het derde leerjaar van de derde graad;<br>
 3° andere dan in 2° vermelde structuuronderdelen die door de Vlaamse Regering kunnen worden vastgelegd en voor zover het betrokken schoolbestuur beslist om in een of meer van zijn scholen onderhavige bepaling voor alle leerlingen van het betrokken structuuronderdeel toe te passen.<br>
 <br>
-Voor de hbo5-opleiding Verpleegkunde geldt evenmin een maximumleeftijd.
+Voor de opleidingen van het hoger beroepsonderwijs geldt evenmin een maximumleeftijd.
 
 ### ART. 253.
 
@@ -4646,7 +5172,9 @@ De inschrijving wordt genomen na ondertekening voor akkoord van de betrokken per
 1° de administratieve groep waarvoor de leerling is ingeschreven;<br>
 2° de datum en het tijdstip van de inschrijving;<br>
 3° de datum van de voorziene start van de lesbijwoning;<br>
-4° de identificatiegegevens, de nationaliteit en het identificatienummer van de leerling als die gegevens beschikbaar zijn, om de leerling uniek te identificeren. De bevoegde diensten van de Vlaamse Gemeenschap zijn de ver- werkingsverantwoordelijke voor de voormelde gegevens. De voormelde gegevens worden dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject van de leerling.
+4° de identificatiegegevens, de nationaliteit en het identificatienummer van de leerling als die gegevens beschikbaar zijn, om de leerling uniek te identificeren. De bevoegde diensten van de Vlaamse Gemeenschap zijn de ver- werkingsverantwoordelijke voor de voormelde gegevens. De voormelde gegevens worden dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject van de leerling.<br>
+<br>
+De registratie gebeurt conform artikel 123/7/1.
 
 ### ART 253/4.
 
@@ -4664,7 +5192,7 @@ Het verworven recht van inschrijving blijft als van de school een deel wordt afg
 
 Elke inschrijving vóór 1 september voor het daaropvolgende schooljaar voor een bepaalde administratieve groep in een bepaalde school voor gewoon onderwijs maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep en hetzelfde schooljaar in een andere school van rechtswege ongedaan.<br>
 <br>
-Elke inschrijving vóór 1 februari voor een administratieve groep, ingericht als Se-n-Se dat op 1 februari start, in een bepaalde school maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep in een andere school voor gewoon onderwijs van rechtswege ongedaan.<br>
+Elke inschrijving vóór 1 februari voor een administratieve groep, ingericht als 7de leerjaar van het technisch of kunstsecundair onderwijs dat op 1 februari start, in een bepaalde school maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep in een andere school voor gewoon onderwijs van rechtswege ongedaan.<br>
 <br>
 Elke inschrijving in de loop van het schooljaar in kwestie voor een bepaalde administratieve groep maakt de daaraan voorafgaande inschrijving voor dezelfde administratieve groep of een andere administratieve groep voor datzelfde schooljaar in een andere school voor gewoon onderwijs ongedaan vanaf de start van de effectieve, tenzij gewettigde afwezigheid, lesbijwoning.
 
@@ -4672,19 +5200,25 @@ Elke inschrijving in de loop van het schooljaar in kwestie voor een bepaalde adm
 
 § 1. Het recht op inschrijving geldt onverkort voor leerlingen die een gemeenschappelijk curriculum kunnen volgen met toepassing van gepaste maatregelen, zoals remediërende, differentiërende, compenserende of dispenserende maatregelen, die proportioneel zijn. Leerlingen voor wie deze aanpassingen worden toegepast, blijven in aanmerking komen voor de gewone studiebekrachtiging.<br>
 <br>
-§ 2. Leerlingen die beschikken over een verslag als vermeld in artikel 294, worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Dit verslag maakt deel uit van de informatie die betrokken personen bij een vraag tot inschrijving aan de school overmaken. Het ter beschikking stellen van het verslag door de betrokken personen gaat samen met de verbintenis van de school tot het organiseren van overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding, binnen een redelijke termijn na de inschrijving over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook indien de school pas nadat de inschrijving reeds gerealiseerd werd, kennisneemt van een verslag, ten laatste gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
+§ 2. Leerlingen die beschikken over een IAC-verslag of OV4-verslag, worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Het IAC-verslag of OV4-verslag maakt deel uit van de informatie die betrokken personen bij een vraag tot inschrijving aan de school bezorgen. Het ter beschikking stellen van het IAC-verslag of OV4-verslag door de betrokken personen gaat samen met de verbintenis van de school tot het organiseren van overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding, binnen een redelijke termijn na de inschrijving over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeen- schappelijk curriculum, in geval van een OV4-verslag met inzet van intensieve ondersteuning als vermeld in artikel 294, of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook als de school pas na de inschrijving kennisneemt van een IAC-verslag of OV4-verslag, uiterlijk gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
 <br>
-Op basis van het overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding beslist de school binnen een redelijke termijn na de inschrijving en uiterlijk binnen zestig kalenderdagen na de effectieve start van de lesbijwoning of de aanpassingen die de leerling nodig heeft proportioneel dan wel disproportioneel zijn.&nbsp;Nadat de voormelde termijn van zestig kalenderdagen is verstreken, is de leerling definitief ingeschreven. Als de school pas kennisneemt van een verslag als vermeld in het eerste lid, nadat de leerling is ingeschreven, start die termijn van zestig kalenderdagen de dag van die kennisneming.<br>
+Op basis van het overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding beslist de school binnen een redelijke termijn na de inschrijving en uiterlijk binnen zestig kalenderdagen na de effectieve start van de lesbijwoning of de aanpassingen die de leerling nodig heeft proportioneel dan wel disproportioneel zijn.&nbsp;Als de voormelde termijn van zestig kalenderdagen is verstreken zonder dat de school een beslissing heeft genomen, is de leerling definitief ingeschreven. Als de school pas kennisneemt van een IAC-verslag of OV4-verslag als vermeld in het eerste lid, nadat de leerling is ingeschreven, start die termijn van zestig kalenderdagen de dag van die kennisneming.<br>
 <br>
-Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum, proportioneel acht, heft het centrum voor leerlingenbegeleiding het verslag op of maakt het een gemotiveerd verslag als vermeld in artikel 352 op. Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of studievoortgang te laten maken op basis van een individueel aangepast curriculum, disproportioneel acht, wordt de inschrijving ontbonden op het moment dat die leerling in een andere school is ingeschreven en uiterlijk een maand, vakantieperioden niet inbegrepen, na de kennisgeving van de bevestiging van de disproportionaliteit.<br>
+Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum, proportioneel acht, heft het centrum voor leerlingenbegeleiding het IAC-verslag of OV4-verslag op of maakt het een GC-verslag op. Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum met intensieve ondersteuning, vermeld in artikel 294, of studie- voortgang te laten maken op basis van een individueel aangepast curriculum, disproportioneel acht, wordt de inschrijving ontbonden op het moment dat die leerling in een andere school is ingeschreven en uiterlijk een maand, vakantieperioden niet inbegrepen, na de kennisgeving van de bevestiging van de disproportionaliteit.<br>
 <br>
-§ 3. Wanneer tijdens de schoolloopbaan de nood aan aanpassingen voor een leerling wijzigt en de vastgestelde onderwijsbehoeften van die aard zijn dat voor de leerling een verslag dan wel een wijziging van een verslag als vermeld in artikel 294 nodig is, organiseert de school een overleg met de klassenraad, de betrokken personen en het CLB en beslist op basis daarvan en nadat het verslag of het gewijzigd verslag werd afgeleverd, om de leerling op vraag van de betrokken personen studievoortgang te laten maken op basis van een individueel aangepast curriculum of om de inschrijving van de leerling voor een daaropvolgend schooljaar te ontbinden.<br>
+In afwijking van het derde lid kan een school kiezen om te ontbinden op een van de volgende momenten:<br>
+1°&nbsp;&nbsp; &nbsp;op het einde van het huidige schooljaar;<br>
+2°&nbsp;&nbsp; &nbsp;op het einde van het daaropvolgende schooljaar.<br>
+<br>
+§ 3. Als tijdens de schoolloopbaan de nood aan aanpassingen voor een leerling wijzigt en de vastgestelde onderwijsbehoeften van die aard zijn dat voor de leerling een IAC-verslag of OV4-verslag dan wel een wijziging van een IAC-verslag of OV4-verslag nodig is, organiseert de school een overleg met de klassenraad, de betrokken personen en het CLB.<br>
+<br>
+Als een IAC-verslag wordt opgemaakt of gewijzigd, beslist de school op basis van het overleg, vermeld in het eerste lid, om de leerling op vraag van de betrokken personen studievoortgang te laten maken op basis van een individueel aangepast curriculum of om de inschrijving van de leerling op het einde van het huidige schooljaar of op het einde van het daaropvolgende schooljaar te ontbinden.<br>
+<br>
+Als een OV4-verslag wordt opgemaakt of gewijzigd, beslist de school op basis van het overleg, vermeld in het eerste lid, om de leerling op vraag van de betrokken personen studievoortgang te laten maken binnen het gemeenschappelijk curriculum met intensieve ondersteuning, vermeld in artikel 294, of om de inschrijving van de leerling op het einde van het huidige schooljaar of op het einde van het daaropvolgende schooljaar te ontbinden.<br>
 <br>
 § 4. In afwijking van paragraaf 2 en 3 is studievoortgang op basis van een individueel aangepast curriculum niet mogelijk in de leertijd.<br>
 <br>
-§ 5. Voor leerlingen met een inschrijvingsverslag buitengewoon onderwijs dat opgemaakt werd in het kader van het geïntegreerd onderwijs, die van school veranderen binnen het gewoon secundair onderwijs, geldt een onverkort recht op inschrijving.<br>
-<br>
-Voor leerlingen met een inschrijvingsverslag buitengewoon onderwijs dat opgemaakt werd met het oog op de toegang tot of de inschrijving in het buitengewoon onderwijs, of met het oog op een individueel aangepast curriculum in het gewoon onderwijs, die van school veranderen binnen het gewoon secundair onderwijs of die overgaan van het buitengewoon naar het gewoon onderwijs, geldt een inschrijving onder ontbindende voorwaarde.
+§ 5. Elk schoolbestuur communiceert actief over het inschrijvingsrecht van leerlingen met een IAC-verslag of OV4-verslag in het gewoon onderwijs.
 
 ## [Afdeling 3. Organisatie van de inschrijvingen (ing. decr. 17 mei 2019, art. III.12, I: 1 september 2022)]
 
@@ -4718,7 +5252,9 @@ Een schoolbestuur dat door uitzonderlijke omstandigheden in de onmogelijkheid ve
 <br>
 De CLR beslist binnen een termijn van veertien kalenderdagen na het ontvangen van de aanvraag, vermeld in het eerste lid, of en onder welke voorwaarden weigeringen op basis van capaciteit, omwille van uitzonderlijke omstandigheden, toegestaan worden.<br>
 <br>
-Indien het schoolbestuur reeds leerlingen geweigerd heeft, voorafgaand aan de aanvraag bij de CLR of de beslissing door de CLR, worden deze alsnog ingeschreven indien de CLR beslist geen weigeringen op basis van capaciteit, omwille van uitzonderlijke omstandigheden, toe te staan.
+Indien het schoolbestuur reeds leerlingen geweigerd heeft, voorafgaand aan de aanvraag bij de CLR of de beslissing door de CLR, verwerven die leerlingen alsnog een onverkort recht op inschrijving indien de CLR beslist geen weigeringen op basis van capaciteit, omwille van uitzonderlijke omstandigheden, toe te staan.<br>
+<br>
+Als de CLR weigeringen op basis van capaciteit, omwille van uitzonderlijke omstandigheden toestaat, dan behandelt het schoolbestuur in voorkomend geval ook vragen over een erkenning van de uitzonderlijke situatie van een in te schrijven leerling als vermeld in artikel 253/11, §5.
 
 ## [Onderafdeling 3. Inschrijvingen voor het eerste leerjaar van de eerste graad met aanmeldingsprocedure (ing. decr. 17 mei 2019, art. III.19, I: 1 september 2022)]
 
@@ -4839,7 +5375,7 @@ Met personeelsleden als vermeld in het eerste lid, 2°, wordt bedoeld:<br>
 
 ### ART 253/15.
 
-§ 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit als vermeld in artikel 253/13, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, zijnde één of meer groepen van leerlingen die, op basis van één of meerdere objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie. De voorrang wordt toegepast tot maximaal 20% van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot één of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20% van de bepaalde capaciteit, vermeld in artikel 253/13.<br>
+§ 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit als vermeld in artikel 253/13, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, zijnde één of meer groepen van leerlingen die, op basis van één of meerdere objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie, waarbij in afwijking van dit principe leerlingen met een IAC-verslag of OV4-verslag in een school van het gewoon onderwijs altijd beschouwd mogen worden als een ondervertegenwoordigde groep, ongeacht de referentiepopulatie. De voorrang wordt toegepast tot maximaal 20% van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot één of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20% van de bepaalde capaciteit, vermeld in artikel 253/13.<br>
 <br>
 Als het LOP of een schoolbestuur opteert voor meer ondervertegenwoordigde groepen, bepaalt het LOP of een schoolbestuur ook telkens welke groep in de ordening voorrang heeft op welke andere groep.<br>
 <br>
@@ -4900,7 +5436,7 @@ Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen v
 <br>
 § 3. In voorkomend geval wordt aan een leerling die voor meerdere scholen of vestigingsplaatsen gunstig gerangschikt is, de hoogste school of vestigingsplaats van voorkeur toegewezen en wordt die leerling verwijderd in de scholen of vestigings plaatsen van lagere keuze.<br>
 <br>
-Het schoolbestuur, de schoolbesturen samen of het LOP kunnen beslissen dat na de definitieve toewijzing geen leerlingen kunnen zijn die elkaars hogere keuze hebben. Deze beslissing mag er niet toe leiden dat de voorrang van een geweigerde leerling geschonden zou worden.
+Het schoolbestuur, de schoolbesturen samen of het LOP kunnen beslissen om na de definitieve toewijzing het resultaat van de toewijzing te optimaliseren, zodat meer leerlingen een school van hogere voorkeur krijgen toegewezen. Deze beslissing mag er niet toe leiden dat de voorrang van een geweigerde leerling geschonden zou worden.
 
 ### ART 253/17.
 
@@ -4921,6 +5457,8 @@ Indien de aangemelde leerling en zijn ouders binnen de periode, vermeld in artik
 Aan de aangemelde leerling en de betrokken personen wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerlingen de aangemelde leerling heeft ingenomen in het aanmeldingsregister van de verschillende scholen of vestigingsplaatsen waarvoor de aangemelde leerling of de betrokken personen een hogere keuze gemaakt hadden dan de toegewezen school of vestigingsplaats.<br>
 <br>
 Indien bij de inschrijving blijkt dat de leerling niet voldoet aan door de betrokken personen opgegeven voorrangsgroepen die aanleiding gaven tot de gunstige rangschikking en toewijzing, dan vervalt het recht op inschrijving dat ze via de aanmeldingsprocedure hebben verworven, tenzij de behandeling van de klachten, de vaststellingen en de vragen, vermeld in artikel 253/11, § 3, leidt tot een andere beslissing.<br>
+<br>
+In afwijking van het zevende lid, kunnen een schoolbestuur, meerdere schoolbesturen samen of het LOP beslissen om uiterlijk na de einddatum van de aanmeldingsperiode en voordat de resultaten van de aanmelding worden bekendgemaakt deze controle te doen.<br>
 <br>
 Wanneer een via een aanmeldingsprocedure ingeschreven leerling alsnog wordt ingeschreven in een school van hogere keuze, mag de school van lagere keuze de eerder gerealiseerde inschrijving beëindigen.<br>
 <br>
@@ -4954,15 +5492,15 @@ De inschrijvingen en eventuele weigeringen van leerlingen die zich niet hebben a
 Een schoolbestuur kan, ook bij overschrijding van een vastgelegde capaciteit, toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen die:<br>
 a) hetzij beschikken over een jeugdhulpverleningsbeslissing voor de functie verblijf, namelijk aangepaste woon- en leefomgeving onder toezicht en begeleiding, bij een jeugdhulpaanbieder op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 d) hetzij geadopteerd zijn in een gezin dat beschikt over een verzoekschrift tot binnen- of buitenlandse adoptie dat ingediend is bij de bevoegde rechtbank, of, bij gebrek daaraan, een buitenlandse adoptiebeslissing of een buitenlandse beslissing tot plaatsing met het oog op adoptie;<br>
-e) hetzij beschikken over een verslag als vermeld in artikel 294;<br>
+e) hetzij beschikken over een IAC-verslag of OV4-verslag;<br>
 2° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de betrokken personen deze leerlingen wensen in te schrijven in hetzelfde niveau, vermeld in artikel 253/13, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de capaciteit;<br>
 3° van leerlingen waarvoor de ombudsdienst inschrijvingen of de CLR, vermeld in artikel 253/11, § 3 tot en met § 5, gunstig advies heeft verleend of de uitzonderlijke situatie heeft bevestigd voor een inschrijving in overcapaciteit;<br>
 4° voor de toelating van leerlingen die in het lopende schooljaar of na de eerste schooldag van maart van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijving wordt gevraagd, veranderd zijn van domicilieadres en veranderd zijn van gemeente.<br>
 <br>
-Een schoolbestuur moet, ook bij overschrijding van een vastgelegde capaciteit, toch overgaan tot een inschrijving voor de terugkeer van leerlingen in het gewoon secundair onderwijs die in het lopende, het voorafgaande schooljaar of daaraan voorafgaande schooljaar in de school ingeschreven waren en die gedurende die periode in het buitengewoon secundair onderwijs ingeschreven waren.<br>
+Een schoolbestuur moet, ook bij overschrijding van een vastgelegde capaciteit, toch overgaan tot een inschrijving voor de terugkeer van leerlingen in het gewoon secundair onderwijs die in het lopende, het voorafgaande schooljaar of daaraan voorafgaande schooljaar in de school ingeschreven waren en die gedurende die periode in het buitengewoon secundair onderwijs ingeschreven waren.&nbsp;Hetzelfde geldt voor leerlingen van het buitengewoon onderwijs die, met toepassing van artikel 136/1, tweede lid, gedurende twee schooljaren voltijds les hebben gevolgd in de school voor gewoon onderwijs en zich na twee schooljaren willen inschrijven in die school.<br>
 <br>
 In geen enkel structuuronderdeel waarvoor aan de school een minimumpakket is toegekend, kan tijdens het schooljaar van toekenning de inschrijving van een leerling worden geweigerd op basis van capaciteit als vermeld in artikel 253/13.
 
@@ -5003,7 +5541,7 @@ Met uitzondering van de inschrijvingen, vermeld in artikel 253/24, §§ 1 en 2, 
 § 1. Een school- of centrumbestuur kan ook na volzetverklaring als vermeld in artikel 253/22 toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen die:<br>
 a) hetzij beschikken over een jeugdhulpverleningsbeslissing voor de functie verblijf, namelijk aangepaste woon- en leefomgeving onder toezicht en begeleiding, bij een jeugdhulpaanbieder op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 2° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de betrokken personen deze leerlingen wensen in te schrijven in hetzelfde structuuronderdeel, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de volzetverklaring;<br>
 d) hetzij geadopteerd zijn in een gezin dat beschikt over een verzoekschrift tot binnen- of buitenlandse adoptie dat ingediend is bij de bevoegde rechtbank, of, bij gebrek daaraan, een buitenlandse adoptiebeslissing of een buitenlandse beslissing tot plaatsing met het oog op adoptie;<br>
@@ -5071,7 +5609,7 @@ In geval van weigeringen die niet behoren tot weigeringen bepaald in punt 2°, 3
 3° bij een ontbinding van de inschrijving als vermeld in artikel 253/27, § 1, eerste lid, 4° ;<br>
 4° bij een uitschrijving op basis van een inschrijving in een andere school als vermeld in artikel 253/5 en als vermeld in artikel 253/27 § 1, eerste lid, 3°.<br>
 <br>
-§ 2. Het LOP bemiddelt binnen tien kalenderdagen na het verzoek van de betrokken personen of na de afgifte van het weigeringsdocument, vermeld in artikel 253/26, § 1, tussen de leerling en de betrokken personen en de schoolbesturen van de scholen binnen het werkingsgebied, met het oog op een definitieve inschrijving van de leerling in een school. De bemiddeling schort de termijn van dertig kalenderdagen, vermeld in artikel 253/30, § 1, tweede lid, op.<br>
+§ 2. Het LOP bemiddelt binnen tien kalenderdagen na het verzoek van de betrokken personen of na de afgifte van het weigeringsdocument, vermeld in artikel 253/26, §1, tussen de leerling en de betrokken personen en de schoolbesturen van de schoen binnen het werkingsgebied, met het oog op een definitieve inschrijving van de leerling in een school. In geval van bemiddeling bij een ontbinding als vermeld in artikel 253/27, §1, 4°, betrekt het LOP ook de school die de weigering uitschreef. De bemiddeling schort de termijn van dertig kalenderdagen, vermeld in artikel 253/30, §1, tweede lid, op.<br>
 <br>
 § 3. Wanneer de bemiddeling van het LOP binnen de termijn, vermeld in paragraaf 2, niet resulteert in een definitieve inschrijving, wordt de CLR gevat om haar oordeel uit te spreken over de gegrondheid van de weigeringsbeslissing of de ontbinding van de inschrijving of de uitschrijving, conform artikel 253/30, § 2. De CLR formuleert dit oordeel binnen een termijn van eenentwintig kalenderdagen die ingaat de dag na het verstrijken van de termijn, vermeld in paragraaf 2.<br>
 <br>
@@ -5148,7 +5686,9 @@ De inschrijving wordt genomen na ondertekening voor akkoord van de betrokken per
 1° de administratieve groep waarvoor de leerling is ingeschreven;<br>
 2° de datum en het tijdstip van de inschrijving;<br>
 3° de datum van de voorziene start van de lesbijwoning;<br>
-4° de identificatiegegevens, de nationaliteit en het identificatienummer van de leerling, als die gegevens beschikbaar zijn, om de leerlingen uniek te identificeren. De bevoegde diensten van de Vlaamse Regering zijn verwerkingsverantwoordelijke voor de voormelde gegevens. De voormelde gegevens worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.
+4° de identificatiegegevens, de nationaliteit en het identificatienummer van de leerling, als die gegevens beschikbaar zijn, om de leerlingen uniek te identificeren. De bevoegde diensten van de Vlaamse Regering zijn verwerkingsverantwoordelijke voor de voormelde gegevens. De voormelde gegevens worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.<br>
+<br>
+De registratie gebeurt conform artikel 123/7/1.
 
 ### ART 253/35.
 
@@ -5166,7 +5706,7 @@ Het verworven recht van inschrijving blijft als van de school een deel wordt afg
 
 Elke inschrijving vóór 1 september voor het daaropvolgende schooljaar voor een bepaalde administratieve groep in een bepaalde school voor gewoon onderwijs maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep en hetzelfde schooljaar in een andere school van rechtswege ongedaan.<br>
 <br>
-Elke inschrijving vóór 1 februari voor een administratieve groep, ingericht als Se-n-Se dat op 1 februari start, in een bepaalde school, maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep in een andere school voor gewoon onderwijs van rechtswege ongedaan.<br>
+Elke inschrijving vóór 1 februari voor een administratieve groep, ingericht als 7de leerjaar van het technisch of kunstsecundair onderwijs dat op 1 februari start, in een bepaalde school, maakt de daaraan voorafgaande inschrijving voor diezelfde administratieve groep in een andere school voor gewoon onderwijs van rechtswege ongedaan.<br>
 <br>
 Elke inschrijving in de loop van het schooljaar in kwestie voor een bepaalde administratieve groep, maakt de daaraan voorafgaande inschrijving voor dezelfde of een andere administratieve groep voor datzelfde schooljaar in een andere school voor gewoon onderwijs ongedaan vanaf de start van de effectieve, tenzij gewettigde afwezigheid, lesbijwoning.
 
@@ -5174,19 +5714,25 @@ Elke inschrijving in de loop van het schooljaar in kwestie voor een bepaalde adm
 
 § 1. Het recht op inschrijving geldt onverkort voor leerlingen die een gemeenschappelijk curriculum kunnen volgen met toepassing van gepaste maatregelen, zoals remediërende, differentiërende, compenserende of dispenserende maatregelen, die proportioneel zijn. Leerlingen voor wie deze aanpassingen worden toegepast, blijven in aanmerking komen voor de gewone studiebekrachtiging.<br>
 <br>
-§ 2. Leerlingen die beschikken over een verslag als vermeld in artikel 294, worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Dit verslag maakt deel uit van de informatie die de betrokken personen bij een vraag tot inschrijving aan de school overmaken. Het ter beschikking stellen van het verslag door de betrokken personen gaat samen met de verbintenis van de school tot het organiseren van overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding, binnen een redelijke termijn na de inschrijving over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook indien de school pas nadat de inschrijving reeds gerealiseerd werd, kennisneemt van een verslag, ten laatste gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
+§ 2. Leerlingen die beschikken over een IAC-verslag of OV4-verslag, worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Het IAC-verslag of OV4-verslag maakt deel uit van de informatie die de betrokken personen bij een vraag tot inschrijving aan de school overmaken. Het ter beschikking stellen van het IAC-verslag of OV4-verslag door de betroken personen gaat samen met de verbintenis van de school tot het organiseren van overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding, binnen een redelijke termijn na de inschrijving over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum, in geval van een OV4-verslag met inzet van intensieve ondersteuning als vermeld in artikel 294, of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook als de school pas na de inschrijving kennisneemt van een IAC-verslag of OV4-verslag, uiterlijk gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
 <br>
-Op basis van het overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding beslist de school binnen een redelijke termijn na de inschrijving en uiterlijk binnen zestig kalenderdagen na de effectieve start van de lesbijwoning of de aanpassingen die de leerling nodig heeft proportioneel dan wel disproportioneel zijn.&nbsp;Nadat de voormelde termijn van zestig kalenderdagen is verstreken, is de leerling definitief ingeschreven. Als de school pas kennisneemt van een verslag, vermeld in het eerste lid, nadat de leerling is ingeschreven, start die termijn van zestig kalenderdagen de dag van die kennisneming.<br>
+Op basis van het overleg met de betrokken personen, de klassenraad en het centrum voor leerlingenbegeleiding beslist de school binnen een redelijke termijn na de inschrijving en uiterlijk binnen zestig kalenderdagen na de effectieve start van de lesbijwoning of de aanpassingen die de leerling nodig heeft proportioneel dan wel disproportioneel zijn.&nbsp;Als de voormelde termijn van zestig kalenderdagen is verstreken zonder dat de school een beslissing heeft genomen, is de leerling definitief ingeschreven. Als de school pas kennisneemt van een IAC-verslag of OV4-verslag, vermeld in het eerste lid, nadat de leerling is ingeschreven, start die termijn van zestig kalenderdagen de dag van die kennisneming.<br>
 <br>
-Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum, proportioneel acht, heft het centrum voor leerlingenbegeleiding het verslag op of maakt het een gemotiveerd verslag als vermeld in artikel 352 op. Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of studievoortgang te laten maken op basis van een individueel aangepast curriculum, disproportioneel acht, wordt de inschrijving ontbonden op het moment dat die leerling in een andere school is ingeschreven en uiterlijk een maand, vakantieperioden niet inbegrepen, na de kennisgeving van de bevestiging van de disproportionaliteit.<br>
+Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum, proportioneel acht, heft het centrum voor leerlingenbegeleiding het IAC-verslag of OV4-verslag op of maakt het een GC-verslag op. Als de school na het overleg de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum met intensieve ondersteuning, vermeld in artikel 294, of studievoortgang te laten maken op basis van een individueel aangepast curriculum, disproportioneel acht, wordt de inschrijving ontbonden op het moment dat die leerling in een andere school is ingeschreven en uiterlijk een maand, vakantieperioden niet inbegrepen, na de kennisgeving van de bevestiging van de disproportionaliteit.<br>
 <br>
-§ 3. Wanneer tijdens de schoolloopbaan de nood aan aanpassingen voor een leerling wijzigt en de vastgestelde onderwijsbehoeften van die aard zijn dat voor de leerling een verslag dan wel een wijziging van een verslag als vermeld in artikel 294 nodig is, organiseert de school een overleg met de klassenraad, de betrokken personen en het CLB en beslist op basis daarvan en nadat het verslag of het gewijzigd verslag werd afgeleverd, om de leerling op vraag van de betrokken personen studievoortgang te laten maken op basis van een individueel aangepast curriculum of om de inschrijving van de leerling voor een daaropvolgend schooljaar te ontbinden.<br>
+In afwijking van het derde lid kan een school kiezen om te ontbinden op een van de volgende momenten:<br>
+1°&nbsp;&nbsp; &nbsp;op het einde van het huidige schooljaar;<br>
+2°&nbsp;&nbsp; &nbsp;op het einde van het daaropvolgende schooljaar.<br>
+<br>
+§ 3. Als tijdens de schoolloopbaan de nood aan aanpassingen voor een leerling wijzigt en de vastgestelde onderwijsbehoeften van die aard zijn dat voor de leerling een IAC-verslag of OV4-verslag dan wel een wijziging van een IAC-verslag of OV4-verslag nodig is, organiseert de school een overleg met de klassenraad, de betrokken personen en het CLB.<br>
+<br>
+Als een IAC-verslag wordt opgemaakt of gewijzigd, beslist de school op basis van het overleg, vermeld in het eerste lid, om de leerling op verzoek van de betrokken personen studievoortgang te laten maken op basis van een individueel aangepast curriculum of om de inschrijving van de leerling op het einde van het huidige schooljaar of op het einde van het daaropvolgende schooljaar te ontbinden.<br>
+<br>
+Als een OV4-verslag wordt opgemaakt of gewijzigd, beslist de school op basis van het overleg, vermeld in het eerste lid, om de leerling op vraag van de betrokken personen studievoortgang te laten maken binnen het gemeenschappelijk curriculum met intensieve ondersteuning, vermeld in artikel 294, of om de inschrijving van de leerling op het einde van het huidige schooljaar of op het einde van het daaropvolgende schooljaar te ontbinden.<br>
 <br>
 § 4. In afwijking van paragraaf 2 en 3 is studievoortgang op basis van een individueel aangepast curriculum niet mogelijk in de leertijd.<br>
 <br>
-§ 5. Voor leerlingen met een inschrijvingsverslag buitengewoon onderwijs dat opgemaakt werd in het kader van het geïntegreerd onderwijs, die van school veranderen binnen het gewoon secundair onderwijs, geldt een onverkort recht op inschrijving.<br>
-<br>
-Voor leerlingen met een inschrijvingsverslag buitengewoon onderwijs dat opgemaakt werd met het oog op de toegang tot of de inschrijving in het buitengewoon onderwijs, of met het oog op een individueel aangepast curriculum in het gewoon onderwijs, die van school veranderen binnen het gewoon secundair onderwijs of die overgaan van het buitengewoon naar het gewoon onderwijs, geldt een inschrijving onder ontbindende voorwaarde.
+§ 5. Elk schoolbestuur communiceert actief over het inschrijvingsrecht van leerlingen met een IAC-verslag of OV4-verslag in het gewoon onderwijs.
 
 ## [Afdeling 3. Organisatie van de inschrijvingen (ing. decr. 17 mei 2019, art. VI.10, I: 1 september 2022)]
 
@@ -5349,7 +5895,7 @@ Het aantal leerlingen, vermeld in het eerste lid, kan door een schoolbestuur bep
 
 ### ART 253/46.
 
-§ 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit als vermeld in artikel 253/42, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, zijnde één of meer groepen van leerlingen die, op basis van één of meerdere objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie. De voorrang wordt toegepast tot maximaal 20 procent van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot een of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20 procent van de bepaalde capaciteit, vermeld in artikel 253/53.<br>
+§ 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit als vermeld in artikel 253/42, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, zijnde één of meer groepen van leerlingen die, op basis van één of meerdere objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie, waarbij leerlingen met een IAC-verslag of OV4-verslag in een school van het gewoon onderwijs altijd beschouwd mogen worden als een ondervertegenwoordigde groep, ongeacht de referentiepopulatie. De voorrang wordt toegepast tot maximaal 20 procent van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot een of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20 procent van de bepaalde capaciteit, vermeld in artikel 253/42.<br>
 <br>
 Als het LOP of een schoolbestuur opteert voor meerdere ondervertegenwoordigde groepen, bepaalt het LOP of een schoolbestuur ook telkens welke groep in de ordening voorrang heeft op welke andere groep.<br>
 <br>
@@ -5389,7 +5935,7 @@ Het schoolbestuur, de schoolbesturen of het LOP hanteren bij het ordenen van de 
 <br>
 § 3. In voorkomend geval wordt aan een leerling die voor meerdere scholen of vestigingsplaatsen gunstig gerangschikt is, de hoogste school of vestigingsplaats van voorkeur toegewezen en wordt die leerling verwijderd in de scholen of vestigingsplaatsen van lagere keuze.<br>
 <br>
-Het schoolbestuur, de schoolbesturen of het LOP kunnen beslissen dat na de definitieve toewijzing er geen leerlingen kunnen zijn die elkaars hogere keuze hebben. Deze beslissing mag er niet toe leiden dat de voorrang van een geweigerde leerling geschonden zou worden
+Het schoolbestuur, de schoolbesturen samen of het LOP kunnen beslissen om na de definitieve toewijzing het resultaat van de toewijzing te optimaliseren, zodat meer leerlingen een school van hogere voorkeur krijgen toegewezen. Deze beslissing mag er niet toe leiden dat de voorrang van een geweigerde leerling geschonden zou worden
 
 ### ART 253/48.
 
@@ -5410,6 +5956,8 @@ Indien de aangemelde leerling en zijn ouders binnen de periode, vermeld in artik
 Aan de aangemelde leerling en de betrokken personen wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerlingen de aangemelde leerling heeft ingenomen in het aanmeldingsregister van de verschillende scholen of vestigingsplaatsen waarvoor de aangemelde leerling of de betrokken personen een hogere keuze gemaakt hadden dan de toegewezen school of vestigingsplaats.<br>
 <br>
 Indien bij de inschrijving blijkt dat de leerling niet voldoet aan door de betrokken personen opgegeven voorrangsgroep die aanleiding gaven tot de gunstige rangschikking en toewijzing, dan vervalt het recht op inschrijving dat ze via de aanmeldingsprocedure hebben verworven, tenzij de behandeling van klachten, vaststellingen en vragen als vermeld in artikel 253/40, § 3, leidt tot een andere beslissing.<br>
+<br>
+In afwijking van het zevende lid, kunnen een schoolbestuur, meerdere schoolbesturen samen of het LOP beslissen om uiterlijk na de einddatum van de aanmeldingsperiode en voordat de resultaten van de aanmelding worden bekendgemaakt deze controle te doen.<br>
 <br>
 Wanneer een via een aanmeldingsprocedure ingeschreven leerling alsnog wordt ingeschreven in een school van hogere keuze, mag de school van lagere keuze de eerder gerealiseerde inschrijving beëindigen.<br>
 <br>
@@ -5442,15 +5990,15 @@ De inschrijvingen en eventuele weigeringen van leerlingen die zich niet hebben a
 § 1. Een schoolbestuur kan, ook bij overschrijding van een vastgelegde capaciteit toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen die:<br>
 a) hetzij beschikken over een jeugdhulpverleningsbeslissing voor de functie verblijf, namelijk aangepaste woonen leefomgeving onder toezicht en begeleiding, bij een jeugdhulpaanbieder op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 d) hetzij geadopteerd zijn in een gezin dat beschikt over een verzoekschrift tot binnenof buitenlandse adoptie, dat ingediend is bij de bevoegde rechtbank, of, bij gebrek daaraan, een buitenlandse adoptiebeslissing of een buitenlandse beslissing tot plaatsing met het oog op adoptie;<br>
-e) hetzij beschikken over een verslag, vermeld in artikel 294;<br>
+e) hetzij beschikken over een IAC-verslag of OV4-verslag;<br>
 2° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de betrokken personen deze leerlingen wensen in te schrijven in hetzelfde niveau, vermeld in artikel 253/42, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de capaciteit;<br>
 3° van leerlingen waarvoor de ombudsdienst inschrijvingen of de CLR, vermeld in artikel 253/40, § 3 tot en met § 5, gunstig advies heeft verleend of de uitzonderlijke situatie heeft bevestigd voor een inschrijving in overcapaciteit;<br>
 4° voor de toelating van leerlingen die in het lopende schooljaar of na de eerste schooldag van maart van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijving wordt gevraagd, veranderd zijn van domicilieadres en veranderd zijn van gemeente.<br>
 <br>
-§ 2. Een schoolbestuur moet, ook bij overschrijding van een vastgelegde capaciteit, toch overgaan tot een inschrijving voor de terugkeer van leerlingen in het gewoon secundair onderwijs die in het lopende, het voorafgaande schooljaar of daaraan voorafgaande schooljaar in de school ingeschreven waren en die gedurende die periode in het buitengewoon secundair onderwijs ingeschreven waren.<br>
+§ 2. Een schoolbestuur moet, ook bij overschrijding van een vastgelegde capaciteit, toch overgaan tot een inschrijving voor de terugkeer van leerlingen in het gewoon secundair onderwijs die in het lopende, het voorafgaande schooljaar of daaraan voorafgaande schooljaar in de school ingeschreven waren en die gedurende die periode in het buitengewoon secundair onderwijs ingeschreven waren.&nbsp;Hetzelfde geldt voor leerlingen van het buitengewoon onderwijs die, met toepassing van artikel 136/1, tweede lid, gedurende twee schooljaren voltijds les hebben gevolgd in de school voor gewoon onderwijs en zich na twee schooljaren willen inschrijven in die school.<br>
 <br>
 § 3. In geen enkel structuuronderdeel waarvoor aan de school een minimumpakket is toegekend, kan tijdens het schooljaar van toekenning de inschrijving van een leerling worden geweigerd op basis van capaciteit als vermeld in artikel 253/42.
 
@@ -5493,10 +6041,10 @@ Met uitzondering van de inschrijvingen, vermeld in artikel 253/55, §§ 1 en 2, 
 § 1. Een school- of centrumbestuur kan ook na het bereiken van de capaciteit zoals bepaald in artikel 253/53 toch in volgende situaties overgaan tot een inschrijving:<br>
 1° voor de toelating van leerlingen die:<br>
 a) hetzij beschikken over een jeugdhulpverleningsbeslissing voor de functie verblijf, namelijk aangepaste woonen leefomgeving onder toezicht en begeleiding, bij een jeugdhulpaanbieder op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
-b) hetzij als (semi-)internen verblijven in een (semi-)internaat verbonden aan de school;<br>
+b) hetzij als semi-internen verblijven in een semi-internaat dat verbonden is aan een school, of als internen verblijven in een onderwijsinternaat;<br>
 c) hetzij opgenomen zijn in een voorziening van residentiële opvang;<br>
 d) hetzij geadopteerd zijn in een gezin dat beschikt over een verzoekschrift tot binnenof buitenlandse adoptie, dat ingediend is bij de bevoegde rechtbank, of, bij gebrek daaraan, een buitenlandse adoptiebeslissing of een buitenlandse beslissing tot plaatsing met het oog op adoptie;<br>
-e) hetzij beschikken over een verslag, vermeld in artikel 294;<br>
+e) hetzij beschikken over een IAC-verslag of OV4-verslag;<br>
 2° voor de toelating van leerlingen die behoren tot dezelfde leefentiteit, indien de betrokken personen deze leerlingen wensen in te schrijven in hetzelfde structuuronderdeel, naargelang van het geval, en slechts een van de leerlingen ingeschreven kan worden omwille van de bereikte capaciteit;<br>
 3° voor de toelating van leerlingen die in het lopende schooljaar of na de eerste schooldag van maart van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijving wordt gevraagd, veranderd zijn van domicilieadres en veranderd zijn van gemeente.<br>
 <br>
@@ -5558,7 +6106,7 @@ Voor de toepassing van artikel 253/59 tot en met artikel 253/61 bepaalt de Vlaam
 3° bij een ontbinding van de inschrijving, vermeld in artikel 253/58, eerste lid, 4° ;<br>
 4° bij een uitschrijving op basis van een inschrijving in een andere school, vermeld in artikel 253/36 en vermeld in artikel 253/58, eerste lid, 3°..<br>
 <br>
-§ 2. Het LOP bemiddelt binnen tien kalenderdagen na het verzoek van de betrokken personen of na de afgifte van het weigeringsdocument, vermeld in artikel 253/57, § 1, tussen de leerling en de betrokken personen en de schoolbesturen van de scholen binnen het werkingsgebied, met het oog op een definitieve inschrijving van de leerling in een school. De bemiddeling schort de termijn van dertig kalenderdagen, vermeld in artikel 253/60, § 1, tweede lid, op.<br>
+§ 2. Het LOP bemiddelt binnen tien kalenderdagen na het verzoek van de betrokken personen of na de afgifte van het weigeringsdocument, vermeld in artikel 253/57, §1, tussen de leerling en de betrokken personen en de schoolbesturen van de scholen binnen het werkingsgebied, met het oog op een definitieve inschrijving van de leerling in een school. In geval van bemiddeling bij een ontbinding als vermeld in artikel 253/58, §1, 4°, betrekt het LOP ook de school die de weigering uitschreef. De bemiddeling schort de termijn van dertig kalenderdagen, vermeld in artikel 253/60, §1, tweede lid, op.<br>
 <br>
 § 3. Wanneer de bemiddeling van het LOP binnen de termijn, vermeld in paragraaf 2, niet resulteert in een definitieve inschrijving, wordt de CLR gevat om haar oordeel uit te spreken over de gegrondheid van de weigeringsbeslissing of de ontbinding van de inschrijving of de uitschrijving, conform artikel 253/60, § 2. De CLR formuleert dit oordeel binnen een termijn van eenentwintig kalenderdagen die ingaat de dag na het verstrijken van de termijn, vermeld in paragraaf 2.<br>
 <br>
@@ -5606,6 +6154,71 @@ Voorafgaandelijk aan het opleggen van een sanctie gaat de Vlaamse Regering na of
 § 4. Onverminderd de toepassing van paragrafen 1 tot en met 3, kan de CLR het dossier aanhangig maken bij het orgaan dat in toepassing van artikel 33, § 2, van het VN-verdrag van 13 december 2006 inzake de Rechten van Personen met een Handicap en in toepassing van artikel 40 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid het mandaat heeft van onafhankelijk mechanisme.
 
 ## [HOOFDSTUK 1/3. Specifieke bepalingen over cursisten van het hoger beroepsonderwijs in scholen voor voltijds secundair onderwijs (ing. decr. 14 juli 2023, art. 23, I: 1 september 2023)]
+
+### ART 253/62.
+
+§1. In de opleiding Basisverpleegkunde van het hoger beroepsonderwijs gelden voor cursisten de volgende gezamenlijke toelatingsvoorwaarden:<br>
+1° voldaan hebben aan de leerplicht;<br>
+2° in het bezit zijn van een van de volgende studiebewijzen:<br>
+a)&nbsp;&nbsp; &nbsp;een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, uitgereikt tot en met het schooljaar 20232024;<br>
+b)&nbsp;&nbsp; &nbsp;een diploma van secundair onderwijs, onderwijskwalificatie niveau 3, uitgereikt vanaf het schooljaar 2024-2025;<br>
+c)&nbsp;&nbsp; &nbsp;een diploma van het secundair onderwijs, uitgereikt tot en met het schooljaar 2024-2025;<br>
+d)&nbsp;&nbsp; &nbsp;een diploma van secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;<br>
+e)&nbsp;&nbsp; &nbsp;een certificaat van een opleiding van het secundair onderwijs voor sociale promotie van minimaal 900 lestijden;<br>
+f)&nbsp;&nbsp; &nbsp;een certificaat van een opleiding van het secundair volwassenenonderwijs van minimaal 900 lestijden;<br>
+g)&nbsp;&nbsp; &nbsp;een diploma van het hoger onderwijs voor sociale promotie;<br>
+h)&nbsp;&nbsp; &nbsp;een certificaat van het hoger beroepsonderwijs;<br>
+i)&nbsp;&nbsp; &nbsp;een diploma van het hoger beroepsonderwijs;<br>
+j)&nbsp;&nbsp; &nbsp;een diploma van het hoger onderwijs van het korte type met volledig leerplan;<br>
+k)&nbsp;&nbsp; &nbsp;een diploma van bachelor of master;<br>
+l)&nbsp;&nbsp; &nbsp;een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst wordt erkend als gelijkwaardig met een van de studiebewijzen, vermeld in punt a) tot en met i). Bij gebrek aan een dergelijke erkenning kan de klassenraad personen die in een land buiten de Europese Unie een studiebewijs hebben behaald dat toelating geeft tot het hoger onderwijs in dat land, toelaten tot de opleiding.<br>
+&nbsp;<br>
+<br>
+In afwijking van het eerste lid worden in het schoolreglement van de school in kwestie afwijkende toelatingsvoorwaarden voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs opgenomen. De afwijkende toelatingsvoorwaarden kunnen alleen rekening houden met de volgende elementen:<br>
+1° humanitaire redenen;<br>
+2° medische, psychische of sociale redenen;<br>
+3° het algemene niveau van de cursist, getoetst met een toelatingsproef die wordt georganiseerd binnen vijf lesdagen nadat de cursist met de opleiding is gestart.<br>
+<br>
+De organisatie op verzoek van de cursist van een toelatingsproef als vermeld in het tweede lid kan niet worden geweigerd. De proef wordt beoordeeld door de klassenraad, die nagaat of de cursist over de kennis en vaardigheden beschikt die vereist zijn om de opleiding in kwestie aan te vangen. Van de beoordeling wordt een schriftelijk verslag gemaakt, dat wordt opgenomen in het dossier van de cursist.<br>
+<br>
+§2. Om tot een sequentieel geordende module van de opleiding Verpleegkunde van het hoger beroepsonderwijs toegelaten te worden, voldoet de cursist aan een van de volgende voorwaarden:<br>
+1° het bezit van het deelcertificaat van een sequentieel voorafgaande module;<br>
+2° het bezit van een studiebewijs van een andere opleidingsof vormingsinstelling. De klassenraad bepaalt welke studiebewijzen toegang geven tot sequentieel geordende modules;<br>
+3° het bezit van een titel van beroepsbekwaamheid als vermeld in het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid en in het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid. De Vlaamse Regering bepaalt welke titels van beroepsbekwaamheid toegang geven tot sequentieel geordende modules;<br>
+4° de beoordeling van de klassenraad dat de cursist beschikt over een studiebewijs uit het onderwijs of uit een andere opleidingsof vormingsinstelling waaruit blijkt dat hij over voldoende kennis, vaardigheden en attitudes beschikt om de module aan te vangen;<br>
+5° de beoordeling van de klassenraad op basis van een toelatingsproef dat de cursist de nodige ervaring heeft verworven die toelaat om de module te volgen.<br>
+<br>
+Een cursist kan maar één module tezelfdertijd volgen.<br>
+&nbsp;
+
+### ART 253/63.
+
+§1. In de opleiding Basisverpleegkunde van het hoger beroepsonderwijs beslist de klassenraad of een cursist hetzij geslaagd is zonder beperkingen, hetzij niet geslaagd is.<br>
+<br>
+In aansluiting op artikel 168/4, §1, vierde lid, beslist de klassenraad in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs aan het einde van module 1 en van module 2 of een cursist hetzij geslaagd is zonder beperkingen, hetzij niet geslaagd is. Als de cursist geslaagd is, wordt een deelcertificaat toegekend.<br>
+<br>
+Het schoolbestuur kent de graad van gegradueerde in de basisverpleegkunde toe aan de cursist die geslaagd is voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs.<br>
+&nbsp;<br>
+Bij het diploma van gegradueerde in de basisverpleegkunde wordt een diplomasupplement uitgereikt. Dat is een document dat de inhoud van de studies van de cursist en de structuur van het onderwijs in het land waar de cursist gestudeerd heeft, verduidelijkt. De Vlaamse Regering bepaalt de vorm van het diploma, de inhoud van het diplomasupplement en, eventueel, nadere voorwaarden voor de uitreiking ervan.<br>
+<br>
+Aan cursisten die houder zijn van het getuigschrift van de tweede graad van het secundair onderwijs, kent het schoolbestuur naast het diploma van gegradueerde in de basisverpleegkunde, de volgende twee diploma’s toe:<br>
+1° uiterlijk in het schooljaar 2024-2025: het diploma van secundair onderwijs;<br>
+2° vanaf het schooljaar 2025-2026: het diploma van secundair onderwijs, onderwijskwalificatie niveau 4.<br>
+<br>
+§2. In de opleiding Verpleegkunde van het hoger beroepsonderwijs beslist de klassenraad aan het einde van een module of een cursist hetzij geslaagd is zonder beperkingen, hetzij niet geslaagd is. Als de cursist geslaagd is, wordt een deelcertificaat toegekend.<br>
+<br>
+Het schoolbestuur kent de graad van gegradueerde in de verpleegkunde toe aan de cursist die geslaagd is voor alle modules van de opleiding Verpleegkunde van het hoger beroepsonderwijs.<br>
+<br>
+Bij het diploma van gegradueerde in de verpleegkunde wordt een diplomasupplement uitgereikt. Dat is een document dat de inhoud van de studies van de cursist en de structuur van het onderwijs in het land waar de cursist gestudeerd heeft, verduidelijkt. De Vlaamse Regering bepaalt de inhoud van het diplomasupplement en, eventueel, nadere voorwaarden voor de uitreiking ervan.<br>
+<br>
+Aan cursisten die houder zijn van het getuigschrift van de tweede graad van het secundair onderwijs, kent het schoolbestuur naast het diploma van gegradueerde in de verpleegkunde, de volgende twee diploma’s toe:<br>
+1° uiterlijk in het schooljaar 2024-2025: het diploma van secundair onderwijs;<br>
+2° vanaf het schooljaar 2025-2026: het diploma van secundair onderwijs, onderwijskwalificatie niveau 4.<br>
+<br>
+§3. Tegen een beslissing van de klassenraad die door de betrokken cursist wordt betwist, kan beroep worden ingesteld overeenkomstig de procedure die is opgenomen in het schoolreglement, vermeld in artikel 112.<br>
+<br>
+§4. Iedereen die in het bezit is van het diploma van gegradueerde in de verpleegkunde blijft gerechtigd om de titel van ‘verpleegkundige verantwoordelijk voor algemene zorg’ te voeren.<br>
+&nbsp;
 
 ## [HOOFDSTUK 2. Diploma van secundair onderwijs (verv. decr. 4 april 2014, art. V.32, I: 1 september 2014)]
 
@@ -5775,26 +6388,20 @@ a) de autistische stoornis;<br>
 b) een pervasieve ontwikkelingsstoornis niet-anders-omschreven.<br>
 <br>
 § 2. Het buitengewoon secundair onderwijs wordt onderscheiden in de volgende opleidingsvormen, waarin telkens bepaalde types afzonderlijk of gezamenlijk kunnen worden georganiseerd:<br>
-1° opleidingsvorm 1, gericht op maatschappelijk functioneren en participeren in een omgeving waar in ondersteuning voorzien is en in voorkomend geval op arbeidsdeelname in een omgeving waar in ondersteuning voorzien is. Jongeren met een verslag voor type 2, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 1;<br>
-2° opleidingsvorm 2, gericht op maatschappelijk functioneren en participeren in een omgeving waar in ondersteuning voorzien is en op tewerkstelling in een werkomgeving waar in ondersteuning voorzien is. Jongeren met een verslag voor type 2, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 2;<br>
-3° opleidingsvorm 3, gericht op maatschappelijk functioneren en participeren en op tewerkstelling in het gewone arbeidsmilieu. Jongeren met een verslag voor type basisaanbod, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 3;<br>
-4° opleidingsvorm 4, gericht op maatschappelijk functioneren en participeren, al dan niet in een omgeving waar in ondersteuning voorzien is, en op het aanvatten, binnen de context van het gemeenschappelijk curriculum, van vervolgonderwijs of op tewerkstelling in het gewone arbeidsmilieu, al dan niet met ondersteuning. Jongeren met een verslag voor type 3, 4, 5, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 4.<br>
+1° opleidingsvorm 1, gericht op maatschappelijk functioneren en participeren in een omgeving waar in ondersteuning voorzien is en in voorkomend geval op arbeidsdeelname in een omgeving waar in ondersteuning voorzien is. Jongeren met een IAC-verslag voor type 2, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 1;<br>
+2° opleidingsvorm 2, gericht op maatschappelijk functioneren en participeren in een omgeving waar in ondersteuning voorzien is en op tewerkstelling in een werkomgeving waar in ondersteuning voorzien is. Jongeren met een IAC-verslag voor type 2, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 2;<br>
+3° opleidingsvorm 3, gericht op maatschappelijk functioneren en participeren en op tewerkstelling in het gewone arbeidsmilieu. Jongeren met een IAC-verslag voor type basisaanbod, 3, 4, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 3;<br>
+4° opleidingsvorm 4, gericht op maatschappelijk functioneren en participeren, al dan niet in een omgeving waar in ondersteuning voorzien is, en op het aanvatten, binnen de context van het gemeenschappelijk curriculum, van vervolgonderwijs of op tewerkstelling in het gewone arbeidsmilieu, al dan niet met ondersteuning. Jongeren met een OV4-verslag voor type 3, 4, 5, 6, 7 en 9 kunnen inschrijven in opleidingsvorm 4.<br>
 <br>
 § 3. De Vlaamse Regering legt diagnostische protocollen vast voor de oriëntering naar de types als vermeld in § 1, 2° tot 8°.<br>
 <br>
-§ 4. Een inschrijving in het type basisaanbod buitengewoon onderwijs wordt op het einde van de opleidingsfase geëvalueerd door de klassenraad en het centrum voor leerlingenbegeleiding. Het CLB informeert de ouders en de leerling op een actieve wijze over de onderstaande mogelijkheden.<br>
-<br>
-Als de klassenraad en het centrum voor leerlingenbegeleiding op basis van de evaluatie, vermeld in het eerste lid, en in overleg met de ouders en de leerling beslissen dat de aanpassingen, waaronder remediërende, differentiërende, compenserende of dispenserende maatregelen, proportioneel zijn om de leerling een gemeenschappelijk curriculum of een individueel aangepast curriculum te laten volgen in een school voor gewoon onderwijs, dan :<br>
-1° heft het centrum voor leerlingenbegeleiding, naargelang de situatie, het verslag op, maakt het een gemotiveerd verslag op of past het bestaande verslag aan op basis van de reële noden van de leerling. Deze aanpassing aan het verslag kan gebeuren met een addendum, voorzien van de datum van opmaak;<br>
-2° ondersteunen de school voor buitengewoon onderwijs en het centrum voor leerlingenbegeleiding de ouders bij het vinden van en bij de overstap naar een school voor gewoon onderwijs waar de leerling wordt ingeschreven in geval van een gemotiveerd verslag of onder ontbindende voorwaarde wordt ingeschreven in geval van een verslag met het oog op de afweging van redelijke aanpassingen;<br>
-3° maken de betrokken scholen, de centra voor leerlingenbegeleiding, de ouders en de leerling, afspraken met het oog op de eventuele ondersteuning, vermeld in artikel 314/8;<br>
-4° ontvangt de leerling een studieadvies van de klassenraad van de school voor buitengewoon secundair onderwijs.<br>
-<br>
-Als de klassenraad en het centrum voor leerlingenbegeleiding op basis van de evaluatie, vermeld in het eerste lid, en in overleg met de ouders en de leerling, beslissen dat de aanpassingen, waaronder remediërende, differentiërende, compenserende of dispenserende maatregelen, disproportioneel of onvoldoende zullen zijn om de leerling een gemeenschappelijk curriculum of een individueel aangepast curriculum te laten volgen in een school voor gewoon onderwijs, motiveert het centrum voor leerlingenbegeleiding dat in het verslag conform artikel 294, § 2 tot en met § 10. De motivering kan worden opgenomen in een addendum, voorzien van de datum van opmaak. De inschrijving in de school voor buitengewoon onderwijs kan dan verlengd worden.</p>
+§ 4. ...</p>
 
 ### ART. 260.
 
-<P>De klassenraad, bijgestaan door het centrum voor leerlingenbegeleiding,   brengt voor iedere leerling gemotiveerd advies uit bij de overgang van de ene   opleidingsvorm naar de andere, maar het centrum voor leerlingenbegeleiding   beslist over een eventuele wijziging van het verslag.<BR><BR>De klasvorming en   de vorming van de pedagogische eenheden gebeurt eveneens door de klassenraad,   bijgestaan door het centrum voor leerlingenbegeleiding, rekening houdend met de   mogelijkheden en de onderwijs- en opvoedingsbehoeften van de   leerlingen.</P>
+<p>De klassenraad, bijgestaan door het centrum voor leerlingenbegeleiding, brengt voor iedere leerling gemotiveerd advies uit bij de overgang van de ene opleidingsvorm naar de andere, maar het centrum voor leerlingenbegeleiding beslist over een eventuele wijziging van het IAC-verslag of OV4-verslag.<br>
+<br>
+De klasvorming en de vorming van de pedagogische eenheden gebeurt eveneens door de klassenraad, bijgestaan door het centrum voor leerlingenbegeleiding, rekening houdend met de mogelijkheden en de onderwijs- en opvoedingsbehoeften van de leerlingen.</p>
 
 ### ART 260/1.
 
@@ -5815,7 +6422,9 @@ c) de looptijd van de samenwerking;<br>
 d) de afspraken over de evaluatie en kwaliteitszorg.<br>
 De samenwerkingsovereenkomst ligt steeds in de scholen ter inzage met het oog op administratieve controle en externe kwaliteitscontrole;<br>
 7° de leerling kan maximaal halftijds een deel van de vorming bijwonen in de andere school van het buitengewoon secundair onderwijs, dit wil zeggen maximaal voor de helft van de wekelijkse lesuren van het structuuronderdeel van het buitengewoon onderwijs waar hij is ingeschreven, en dat gedurende maximum een gedeelte van één lopend schooljaar;<br>
-8° deze regeling is in hoofde van een leerling gedurende hetzelfde schooljaar niet combineerbaar met hetgeen in artikel 136/1 is opgenomen.
+8° deze regeling is in hoofde van een leerling gedurende hetzelfde schooljaar niet combineerbaar met hetgeen in artikel 136/1 is opgenomen.<br>
+<br>
+Leerlingen met een IAC-verslag of OV4-verslag die ingeschreven zijn in het gewoon secundair onderwijs, kunnen op schooljaarbasis gemiddeld gedurende maximaal de helft van de wekelijkse uren van het structuuronderdeel waarvoor de leerling is ingeschreven, lessen of activiteiten volgen in een school voor buitengewoon secundair onderwijs, die de opleidingsvorm aanbiedt volgens het IAC-verslag of OV4-verslag. Daarbij moet voldaan worden aan de voorwaarden, vermeld in het eerste lid, 1° tot en met 6°, en 8°, vastgelegd in het eerste lid. De inzet van omkadering vanuit het leersteunmodel is in de school voor buitengewoon secundair onderwijs niet mogelijk.
 
 ### ART 260/2.
 
@@ -5830,6 +6439,16 @@ Indien van deze mogelijkheid gebruik wordt gemaakt, zijn de volgende voorwaarden
 4° de leerling kan maximaal halftijds een deel van de vorming bijwonen in de andere administratieve groep van het buitengewoon secundair onderwijs, dit wil zeggen maximaal voor de helft van de wekelijkse lesuren van het structuuronderdeel van het buitengewoon onderwijs waar hij is ingeschreven, en dit gedurende maximum een gedeelte van 1 lopend schooljaar;<br>
 5° deze regeling is in hoofde van een leerling gedurende hetzelfde schooljaar niet combineerbaar met hetgeen in artikel 136/1 is opgenomen.
 
+### ART 260/3.
+
+§1. Scholen voor buitengewoon secundair onderwijs werken samen met leersteuncentra in functie van expertisedeling en gezamenlijke expertiseontwikkeling met betrekking tot leerlingen met specifieke onderwijsbehoeften.<br>
+<br>
+Scholen voor buitengewoon secundair onderwijs werken toe naar de mogelijkheid tot terugkeer van leerlingen naar het gewoon secundair onderwijs.<br>
+<br>
+§2. Op basis van het cyclisch proces van handelingsplanmatig werken geeft de school voor buitengewoon secundair onderwijs, in samenspraak met de ouders, jaarlijks aan het CLB door voor welke leerlingen een evaluatie over de inschrijving van de leerling in het buitengewoon secundair onderwijs aangewezen is. Ouders kunnen die evaluatie ook rechtstreeks aan het CLB vragen. De evaluatie gebeurt door het CLB op basis van een handelingsgericht diagnostisch traject samen met de ouders, de leerling en de school, waarbij samen wordt bekeken of de leerling kan terugkeren naar het gewoon secundair onderwijs binnen het gemeenschappelijk curriculum, of om een individueel aangepast curriculum te volgen.<br>
+<br>
+Als ouders voor een leerling beslissen om terug te keren naar het gewoon secundair onderwijs, ondersteunen de school voor buitengewoon secundair onderwijs en het CLB de ouders bij het vinden van en bij de overstap naar een school voor gewoon secundair onderwijs waar de leerling wordt ingeschreven in geval van een GC-verslag of onder ontbindende voorwaarde wordt ingeschreven in geval van een IAC-verslag of OV4-verslag met het oog op de afweging van redelijke aanpassingen.
+
 ## [Afdeling 2. Doelen (verv. decr. 26 januari 2018, art. 7, I: 19 maart 2018)][... (opgeh. decr. 5 mei 2023, art. 169, I: 1 september 2023)]
 
 ## [Onderafdeling 1. Doelen van opleidingsvormen 1, 2 en 3 (ing. decr. 26 januari 2018, art. 7, I: 19 maart 2018)]
@@ -5840,9 +6459,9 @@ De ontwikkelingsdoelen van opleidingsvorm 3 die tot stand komen in uitvoering va
 
 ### ART. 262.
 
-§ 1. Ontwikkelingsdoelen voor het buitengewoon secundair onderwijs zijn doelen op het vlak van kennis, inzicht, vaardigheden en attitudes die wenselijk zijn voor een bepaalde leerlingenpopulatie. Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes bij de leerlingen na te streven in zoverre deze zijn opgenomen in het handelingsplan, zoals bepaald in artikel 267. Daarnaast kan de school nog extra doelen met de leerlingen nastreven.<br>
+§ 1. Ontwikkelingsdoelen voor het buitengewoon secundair onderwijs zijn doelen op het vlak van kennis, inzicht, vaardigheden en attitudes die wenselijk zijn voor een bepaalde leerlingenpopulatie. Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes bij de leerlingen na te streven in zoverre deze zijn opgenomen in het individueel aangepast curriculum als vermeld in artikel 122/1/0,. Daarnaast kan de school nog extra doelen met de leerlingen nastreven.<br>
 <br>
-Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het buitengewoon secundair onderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen via de handelingsplanning.<br>
+Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het buitengewoon secundair onderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen via de individueel aangepaste curricula als vermeld in artikel 122/1/0.<br>
 <br>
 § 2. De ontwikkelingsdoelen van opleidingsvorm 3 worden geformuleerd in functie van volgende sleutelcompetenties:<br>
 1. competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op vlak van lichamelijke, geestelijke en emotionele gezondheid;<br>
@@ -5900,11 +6519,7 @@ Voor opleidingsvorm 4 van het buitengewoon secundair onderwijs zijn de bepalinge
 
 ### ART. 267.
 
-Voor één of meer leerlingen samen wordt op basis van hun opvoedings- en onderwijsbehoeften een in omvang beperkt handelingsplan opgemaakt. Dit plan bevat voor een bepaalde periode de pedagogisch-didactische planning.<br>
-<br>
-In de opleidingsvormen 1, 2 en 3 bevat het handelingsplan ook de doelen die de klassenraad voor die leerlingen wil nastreven, uitgaande van de doelen van de betrokken opleidingsvorm of structuuronderdeel. Andere doelen van het gewoon of buitengewoon basis- of secundair onderwijs kunnen eveneens worden opgenomen. De klassenraad kiest de doelen die het handelingsplan bevat in samenspraak met het centrum voor leerlingenbegeleiding en, zo mogelijk, in samenspraak met de ouders, de leerlingen en eventueel andere betrokkenen.<br>
-<br>
-Het handelingsplan geeft in voorkomend geval weer hoe het multidisciplinair teamwerk wordt gepland en hoe de sociale, psychologische, orthopedagogische, medische en paramedische hulpverlening in het opvoedings- en onderwijsaanbod wordt geïntegreerd.
+...
 
 ## Afdeling 3. Programmatie en rationalisatie
 
@@ -6097,7 +6712,7 @@ De programmatie van een school door splitsing van een bestaande school wordt doo
 
 § 1. Per 1 september kan een school worden opgenomen in de financiering of subsdiëring indien op de datum bepaald in artikel 271 aan de drie volgende voorwaarden wordt voldaan :<br>
 1° ten minste 2 opleidingsvormen organiseren;<br>
-2° voor elke opleidingsvorm afzonderlijk 150 % van de rationalisatienorm, bepaald in artikel 277 en 278 bereiken;<br>
+2° als verschillende opleidingsvormen worden georganiseerd, voor elke opleidingsvorm afzonderlijk 150% van de rationalisatienorm, vermeld in artikel 277 en 278, bereiken;<br>
 3° ten minste : het eerste jaar 200 %, het tweede jaar 250 %, en het derde jaar 300 %,<br>
 van het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278, voor elke gefinancierde of gesubsidieerde opleidingsvorm bereiken.<br>
 <br>
@@ -6105,7 +6720,7 @@ van het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278, v
 <br>
 § 3. Met ingang van het vierde schooljaar zijn uitsluitend de bepalingen van de rationalisatie van toepassing.<br>
 <br>
-§ 4. In afwijking van paragraaf 1 kan een schoolbestuur die een nieuwe school wil oprichten met enkel opleidingsvorm 4 dit eveneens doen.<br>
+§ 4. In afwijking van paragraaf 1, 1°, kan een schoolbestuur een nieuwe school oprichten met maar één opleidingsvorm. Dat is alleen mogelijk in regio’s waar er aantoonbaar een capaciteitstekort is voor leerlingen met een verslag voor die opleidingsvorm en als er wordt aangetoond dat het capaciteitstekort niet kan worden opgelost met een nieuwe vestigingsplaats van een bestaande school. Het capaciteitstekort wordt gemotiveerd in het oprichtingsdossier, vermeld in paragraaf 5. Een nieuwe school laten ontstaan door splitsing als vermeld in artikel 285/1, is alleen mogelijk met minstens twee opleidingsvormen.<br>
 <br>
 § 5. In aanvulling op paragraaf 1 tot en met paragraaf 4 moet een schoolbestuur dat een nieuwe school wil oprichten een oprichtingsdossier indienen. Dit oprichtingsdossier moet ten minste voldoen aan onderstaande kwaliteitsvoorwaarden:<br>
 1° het schoolbestuur is verantwoordelijk voor het indienen van het dossier;<br>
@@ -6134,7 +6749,7 @@ De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad
 
 ### ART. 288.
 
-<P>In afwijking van artikel 286 is de financiering of subsidiering van een   school voor buitengewoon secundair onderwijs van opleidingsvorm 4, type 5, op 1   september 2014 mogelijk, zonder een bijkomende programmatie of programmatienorm,   op voorwaarde dat deze school van opleidingsvorm 4, type 5:<BR>1° ofwel gehecht   is aan een universitair ziekenhuis, en daar tot 31 augustus 2014 een secundaire   afdeling was van een school voor buitengewoon basisonderwijs type 5;<BR>2° ofwel   gehecht is aan een residentiële setting, die valt onder toepassing van artikel   289/1.</P>
+<p>...</p>
 
 ### ART. 289.
 
@@ -6164,7 +6779,7 @@ De bepalingen van paragraaf 1, 1° en 2°,&nbsp;zijn tijdens de periode van prog
 <br>
 § 3. Een bestaande school die opleidingsvorm 3 organiseert die aan de rationalisatienorm voldoet, kan een of meer bijkomende&nbsp;structuuronderdelen inrichten.<br>
 <br>
-Om een programmatieaanvraag in te dienen voor de oprichting van een of meer bijkomende structuuronderdelen in opleidingsvorm 3, stelt het schoolbestuur een oprichtingsdossier samen, dat ten minste de volgende elementen bevat:<br>
+Om een programmatieaanvraag in te dienen voor een of meer bijkomende structuuronderdelen in scholen met opleidingsvorm 3, waar type 9 wordt aangeboden, stelt het schoolbestuur een oprichtingsdossier samen. Om een programmatieaanvraag in te dienen voor een of meer bijkomende structuuronderdelen in scholen met opleidingsvorm 3, ongeacht het aanbod van types, waar door de programmatie van een structuuronderdeel een nieuw studiedomein zal worden aangeboden, stelt het schoolbestuur een oprichtingsdossier samen. De voormelde oprichtingsdossiers bevatten al de volgende elementen:<br>
 1° de identificatiegegevens van het schoolbestuur, de school en de vestigingsplaats;<br>
 2° het schooljaar waarop de programmatie betrekking heeft;<br>
 3° de benaming van het structuuronderdeel of structuuronderdelen, bepaald door de Vlaamse Regering, waarop de programmatie betrekking heeft, samen met een grondige motivering waarom zij dit structuuronderdeel&nbsp;of&nbsp;structuuronderdelen wenst te programmeren;<br>
@@ -6192,9 +6807,19 @@ De Vlaamse Onderwijsraad, de Onderwijsinspectie en het Agentschap voor Onderwijs
 <br>
 De Vlaamse minister, bevoegd voor het onderwijs, legt een voorstel van beslissing voor aan de Vlaamse Regering.<br>
 <br>
-Een bijkomende opleiding kan op 1 september in een school alleen worden opgericht na een gunstige beslissing van de Vlaamse Regering. De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het schooljaar waarin de aanvraag is ingediend. Als die termijn wordt overschreden, is de programmatie van rechtswege goedgekeurd.<br>
+Een bijkomende opleiding kan op 1 september in een school alleen worden opgericht na een gunstige beslissing van de Vlaamse Regering. De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het schooljaar waarin de aanvraag is ingediend. De voormelde beslissingstermijn geldt als ordetermijn.<br>
 <br>
 Het Agentschap voor Onderwijsdiensten deelt de beslissing van de Vlaamse Regering binnen een periode van twee weken schriftelijk mee aan het schoolbestuur.<br>
+<br>
+In afwijking van het tweede tot en met het tiende lid kan:<br>
+1° een school een structuuronderdeel in de integratiefase vrij programmeren als de school hetzelfde structuuronderdeel al in de kwalificatiefase heeft ingericht of goedgekeurd krijgt;<br>
+2° een school een niet­duaal structuuronderdeel in de kwalificatiefase of de integratiefasefase vrij programmeren als de school het gelijknamige duale structuuronderdeel al heeft ingericht of goedgekeurd krijgt;<br>
+3° een school met opleidingsvorm 3, waar geen type 9 wordt aangeboden of geprogrammeerd, een of meer bijkomende structuuronderdelen van hetzelfde studiedomein dat ze al aanbiedt, vrij programmeren.<br>
+&nbsp;<br>
+Een vrije programmatie wordt bij de bevoegde diensten van de Vlaamse Gemeenschap gemeld uiterlijk op 1 april voorafgaand aan de oprichting. Bij de voormelde melding worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is<br>
+met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
 § 3/1. In aanvulling op artikel 286 moet een schoolbestuur bij de programmatie van een nieuwe school met opleidingsvorm 3 eveneens een programmatieaanvraag en een oprichtingsdossier indienen voor de oprichting van een of meer nieuwe&nbsp;structuuronderdelen in opleidingsvorm 3 en een gunstige beslissing van de Vlaamse Regering krijgen om deze te kunnen oprichten. Hierbij moeten de bepalingen van paragraaf 3 toegepast worden op de nieuwe&nbsp;structuuronderdelen in de nieuw op te richten opleidingsvorm 3 in een nieuwe school en niet op bijkomende structuuronderdelen in een opleidingsvorm 3 dat aan de rationalisatienorm voldoet in een bestaande school.<br>
 <br>
@@ -6209,7 +6834,7 @@ De Vlaamse Regering kan nadere regels bepalen over de inhoud en de vorm van het 
 <br>
 § 5. De oprichting vanaf 1 september van één of meer nieuwe opleidingsvormen kan pas na een gunstige beslissing van de Vlaamse Regering.<br>
 <br>
-Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad bezorgt. Dit advies wordt niet gevraagd aan de Vlaamse Onderwijsraad indien het pro- grammatievoorstel valt onder toepassing van paragraaf 2.&nbsp;<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad bezorgt. Dit advies wordt niet gevraagd aan de Vlaamse Onderwijsraad indien het pro- grammatievoorstel valt onder toepassing van paragraaf 2.&nbsp;De voormelde aanvraagtermijn geldt als vervaltermijn.<br>
 <br>
 In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
 <br>
@@ -6217,19 +6842,21 @@ De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad
 <br>
 § 6. In aanvulling op paragraaf 1, 5° en 6°, en paragrafen 2, 4 en 5, moet een schoolbestuur dat opleidingsvorm 3 wil oprichten eveneens een programmatieaanvraag en een oprichtingsdossier indienen voor de oprichting van een of meer nieuwe structuuronderdelen in opleidingsvorm 3 en een gunstige beslissing van de Vlaamse Regering krijgen om deze te kunnen oprichten. Hierbij moeten de bepalingen van paragraaf 3 toegepast worden op de nieuwe structuuronderdelen in de nieuw op te richten opleidingsvorm 3 in een bestaande school en niet op bijkomende structuuronderdelen&nbsp;in een opleidingsvorm 3 dat aan de rationalisatienorm voldoet in een bestaande school.<br>
 <br>
-§ 7. Structuuronderdelen die in het voltijds gewoon secundair onderwijs vrij programmeerbaar zijn, zijn ook in het buitengewoon secundair onderwijs, opleidingsvorm 4 vrij programmeerbaar. Structuuronderdelen die in het voltijds gewoon secundair onderwijs programmeerbaar zijn mits goedkeuring door de Vlaamse Regering, zijn ook in het buitengewoon secundair onderwijs, opleidingsvorm 4, programmeerbaar mits goedkeuring door de Vlaamse Regering. In afwijking hiervan is:<br>
+§ 7. Structuuronderdelen die in het voltijds gewoon secundair onderwijs vrij programmeerbaar zijn, zijn ook in scholen van het buitengewoon secundair onderwijs, opleidingsvorm 4, waar geen type 9 wordt aangeboden of geprogrammeerd, vrij programmeerbaar. Structuuronderdelen die in het voltijds gewoon secundair onderwijs programmeerbaar zijn na goedkeuring van de Vlaamse Regering, zijn ook in scholen van het buitengewoon secundair onderwijs, opleidingsvorm 4, waar geen type 9 wordt aangeboden of geprogrammeerd, programmeerbaar na goedkeuring van de Vlaamse Regering. Structuuronderdelen in scholen van het buitengewoon secundair onderwijs, waar opleidingsvorm 4, type 9 wordt aangeboden of geprogrammeerd, zijn programmeerbaar na goedkeuring van de Vlaamse Regering. In afwijking van de voormelde bepalingen is:<br>
 1° het onthaaljaar voor anderstalige nieuwkomers niet programmeerbaar in het buitengewoon secundair onderwijs;<br>
-2° het programmatieprincipe niet van toepassing op het buitengewoon secundair onderwijs, opleidingsvorm 4, type 5.<br>
+2° het programmatieprincipe niet van toepassing op het buitengewoon secundair onderwijs, opleidingsvorm 4, type 5;<br>
+3° een niet-duaal structuuronderdeel in opleidingsvorm 4 vrij programmeerbaar als de school het gelijknamige duale structuuronderdeel al heeft ingericht of geprogrammeerd, en, omgekeerd, is een duaal structuuronderdeel vrij programmeerbaar als de school het gelijknamige niet-duale structuuronderdeel al heeft ingericht of geprogrammeerd;<br>
+4° artikel 179 niet van toepassing op het buitengewoon secundair onderwijs, opleidingsvorm 4.<br>
 <br>
 Een vrije programmatie wordt bij de bevoegde diensten van de Vlaamse Gemeenschap gemeld uiterlijk bij de oprichting van het structuuronderdeel in kwestie.<br>
 <br>
-Een programmatie waarover de Vlaamse Regering beslist, wordt bij de bevoegde diensten van de Vlaamse Gemeenschap aangevraagd uiterlijk twee maanden, schoolvakanties niet meegerekend, vóór de oprichting van het structuuronderdeel in kwestie. Na advies van de bevoegde diensten van de Vlaamse Gemeenschap en de onderwijsinspectie beslist de Vlaamse Regering binnen een termijn van twee maanden na indiening van de aanvraag. De gestelde termijnen zijn vervaltermijnen: een laattijdige aanvraag is onontvankelijk, een laattijdige beslissing is van rechtswege gunstig. Zowel de motivering van de aanvraag als de beslissing houden rekening met de cumulatieve criteria, vermeld in artikel 178 voor niet-duale structuuronderdelen en in artikel 357/63 voor duale structuuronderdelen.<br>
+Een programmatie waarover de Vlaamse Regering beslist, wordt bij de bevoegde diensten van de Vlaamse Gemeenschap aangevraagd uiterlijk op 30 november of uiterlijk op 31 maart vóór de oprichting van het structuuronderdeel in kwestie. De voormelde aanvraagtermijn geldt als vervaltermijn. Na advies van de bevoegde diensten van de Vlaamse Gemeenschap en de onderwijsinspectie beslist de Vlaamse Regering binnen twee maanden na de respectieve uiterste indieningsdatum. De voormelde beslissingstermijn geldt als ordetermijn. De motivering van de voormelde aanvraag en de voormelde beslissing houden rekening met de cumulatieve criteria, vermeld in artikel 178, vierde lid, voor niet-duale structuuronderdelen en voor duale structuuronderdelen.<br>
 <br>
 Bij de melding of aanvraag gaan het protocol van de onderhandeling ter zake in het bevoegd lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.
 
 ### ART. 289/1.
 
-In afwijking van artikel 289 kan een op 31 augustus 2014 bestaande school   van buitengewoon secundair met opleidingsvorm 1, type 4, die verbonden is aan   een revalidatiecentrum, per 1 september 2014 de gehele opleidingsvorm 1, type 4,   omvormen tot een opleidingsvorm 4, type 5. Het schoolbestuur meldt dit uiterlijk   op 1 juli 2014 aan AgODi.
+...
 
 ### ART. 290.
 
@@ -6237,7 +6864,30 @@ In afwijking van artikel 289 kan een op 31 augustus 2014 bestaande school   van 
 
 ### ART. 290/1.
 
-§ 1. In afwijking van de artikelen 286 en 289 wordt de oprichting van een   nieuwe type ook als een programmatie beschouwd.<BR><BR>De school hertelt op de   datum, vermeld in artikel 271, indien er effectief leerlingen van het nieuwe   type zijn op die datum en voldaan is aan de voorwaarden bepaald in paragraaf   2.<BR><BR>Indien simultaan een nieuwe school wordt opgericht met dit nieuwe   type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de   voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de   school voldaan zijn aan de voorwaarden van artikel 286.<BR><BR>Indien simultaan   een nieuwe opleidingsvorm of een nieuwe opleiding wordt opgericht met dit nieuwe   type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de   voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de   opleidingsvorm en de opleiding voldaan zijn aan de voorwaarden van artikel   289.<BR><BR>§ 2. In een school of opleidingsvorm kan een nieuw type worden   opgericht als aan de volgende voorwaarden wordt voldaan:<BR>1° het schoolbestuur   dient een programmatiedossier in dat ten minste voldoet aan onderstaande   kwaliteitsvoorwaarden:<BR>a) het schoolbestuur dient het dossier in na overleg   binnen de schoolraad en in de wettelijk voorziene overlegorganen met het   personeel;<BR>b) het dossier bevat een omgevingsanalyse die de noodzaak, de   doelmatigheid en de leefbaarheid van het programmatievoorstel motiveert. Bij de   omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is,   de link met eventuele aangepaste verblijfmogelijkheden, met inbegrip van   schoolexterne begeleidingsmo- gelijkheden voor jongeren met bijkomende   zorgbehoeften, expliciet behandeld;<BR>c) de school moet beschikken over de   vereiste infrastructurele en materiële voorzieningen op gebied van   toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<BR>d) de reeds   bestaande expertise of de inspanningen rond professionalisering van het team met   betrekking tot het nieuwe type worden in het dossier weergegeven.<BR>De Vlaamse   Regering kan nadere regels bepalen over de inhoud en de vorm van het   programmatiedossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld;<BR>2° de oprichting vanaf 1 september van het nieuwe type kan pas na   een gunstige beslissing van de Vlaamse Regering.<BR><BR>Het schoolbestuur stuurt   daartoe uiterlijk op 30 november van het voorafgaande schooljaar een   gemotiveerde aanvraag met het programmatiedossier aan AgODi, dat de aanvraag   voor advies aan de Vlaamse Onderwijsraad bezorgt.<BR><BR>In afwijking van het   voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9   gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli   2014.<BR><BR>De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse   Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na   advies van AgODi en de onderwijsinspectie.<BR><BR>§ 3. De scholen voor   buitengewoon secundair onderwijs die tijdens het schooljaar 2014- 2015 een   aanbod type 1 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als   vermeld in artikel 259, § 1, 1°. Dit wordt niet beschouwd als een   herstructurering.<BR><BR>De oprichting van een type in het schooljaar 2015-2016   wordt niet beschouwd als een herstructurering.
+§ 1. In afwijking van de artikelen 286 en 289 wordt de oprichting van een nieuwe type ook als een programmatie beschouwd.<br>
+<br>
+De school hertelt op de datum, vermeld in artikel 271, indien er effectief leerlingen van het nieuwe type zijn op die datum en voldaan is aan de voorwaarden bepaald in paragraaf 2.<br>
+<br>
+Indien simultaan een nieuwe school wordt opgericht met dit nieuwe type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de school voldaan zijn aan de voorwaarden van artikel 286.<br>
+<br>
+Indien simultaan een nieuwe opleidingsvorm of een nieuwe opleiding wordt opgericht met dit nieuwe type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de opleidingsvorm en de opleiding voldaan zijn aan de voorwaarden van artikel 289.<br>
+<br>
+§ 2. In een school of opleidingsvorm kan een nieuw type worden opgericht als aan de volgende voorwaarden wordt voldaan:<br>
+1° het schoolbestuur dient een programmatiedossier in dat ten minste voldoet aan onderstaande kwaliteitsvoorwaarden:<br>
+a) het schoolbestuur dient het dossier in na overleg binnen de schoolraad en in de wettelijk voorziene overlegorganen met het personeel;<br>
+b) het dossier bevat een omgevingsanalyse die de noodzaak, de doelmatigheid en de leefbaarheid van het programmatievoorstel motiveert. Bij de omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is, de link met eventuele aangepaste verblijfmogelijkheden, met inbegrip van schoolexterne begeleidingsmo- gelijkheden voor jongeren met bijkomende zorgbehoeften, expliciet behandeld;<br>
+c) de school moet beschikken over de vereiste infrastructurele en materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<br>
+d) de reeds bestaande expertise of de inspanningen rond professionalisering van het team met betrekking tot het nieuwe type worden in het dossier weergegeven.<br>
+De Vlaamse Regering kan nadere regels bepalen over de inhoud en de vorm van het programmatiedossier en over de wijze waarop de kwaliteitsvoorwaarden worden beoordeeld;<br>
+2° de oprichting vanaf 1 september van het nieuwe type kan pas na een gunstige beslissing van de Vlaamse Regering.<br>
+<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het programmatiedossier aan AgODi, dat de aanvraag voor advies aan de Vlaamse Onderwijsraad bezorgt.<br>
+<br>
+In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
+<br>
+De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie.<br>
+<br>
+§ 3. De scholen voor buitengewoon secundair onderwijs die tijdens het schooljaar 2014- 2015 een aanbod type 1 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als vermeld in artikel 259, § 1, 1°. Dit wordt niet beschouwd als een herstructurering.
 
 ### ART 290/2.
 
@@ -6255,9 +6905,9 @@ Voor de toelating tot het buitengewoon secundair onderwijs komen in   aanmerking
 
 ### ART. 292.
 
-Kinderen en adolescenten kunnen als regelmatige leerling in een school voor buitengewoon secundair onderwijs worden toegelaten op basis van een verslag dat opgesteld is zoals bepaald in artikel 294 :<br>
+Kinderen en adolescenten kunnen als regelmatige leerling in een school voor buitengewoon secundair onderwijs worden toegelaten op basis van een IAC-verslag of OV4-verslag :<br>
 1° na de zomervakantie van het jaar waarin ze de leeftijd van dertien jaar bereiken;<br>
-2° op gemotiveerd advies,&nbsp;opgenomen in&nbsp;het verslag, na de zomervakantie van het jaar waarin ze de leeftijd van twaalf jaar bereiken;<br>
+2° op gemotiveerd advies,&nbsp;opgenomen in&nbsp;het IAC-verslag of OV4-verslag, na de zomervakantie van het jaar waarin ze de leeftijd van twaalf jaar bereiken;<br>
 3° als ze meer dan eenentwintig jaar zijn en voldoen aan de bepalingen van één van de paragrafen van artikel 293.<br>
 4° als ze beschikken over een getuigschrift basisonderwijs.
 
@@ -6274,58 +6924,72 @@ Een klassenraad kan ook beslissen om nooit verlengingen zoals hiervoor vermeld t
 2° een leerling, aangewezen op opleidingsvorm 1, 2, 3 of 4, die ingevolge ziekte of ongeval in de loop van het gewoon of het buitengewoon secundair onderwijs een handicap of een bijkomende handicap heeft opgelopen als gevolg waarvan zich een ernstige regressie heeft voorgedaan en waarvoor de termijn waarbinnen de studie zal beëindigd zijn duidelijk is aangegeven;<br>
 3° een persoon met een handicap van meer dan eenentwintig jaar die voor het eerst of opnieuw in het buitengewoon secundair onderwijs wenst ingeschreven te worden, als deze persoon door een ongeval of ziekte hem overkomen in aanmerking kan komen voor een beroepsopleiding of training in compenserende vaardigheden in het buitengewoon secundair onderwijs.<br>
 <br>
-§ 3. In afwijking van de voorgaande paragrafen kunnen de leerlingen, die toegelaten worden tot het gewoon onderwijs met ondersteuning vanuit het buitengewoon onderwijs, ook na de leeftijd van eenentwintig jaar van rechtswege genieten van de voordelen de voormelde ondersteuning met toepassing van artikel 314/8 en artikel 314/9.</p>
+§ 3. In afwijking van de voorgaande paragrafen kunnen de leerlingen die met een IAC-verslag of OV4-verslag worden toegelaten tot het gewoon onderwijs, ook na de leeftijd van eenentwintig jaar van rechtswege genieten van leersteun vanuit het leersteunmodel.</p>
 
 ## [Onderafdeling 2. [IAC-verslag en OV4-verslag (verv. decr. 5 mei 2023, art. 174, I: 1 september 2023)] [en attest (verv. decr. 21 maart 2014, art. III.46, I: 1 januari 2015)]
 
 ### ART. 294.
 
-<p>§ 1. Voor de toelating van een leerling tot een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde school voor buitengewoon onderwijs van opleidingsvorm 4, type 5, is een attest vereist, dat uitgereikt is ofwel door de behandelende&nbsp;arts van de medische of psychiatrische voorziening ofwel door de directeur van de residentiële setting. De Vlaamse Regering bepaalt wat het attest moet inhouden.<br>
+<p>§1. Voor de toelating van een leerling tot een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde school voor buitengewoon onderwijs van opleidingsvorm 4, type 5, is een attest vereist, dat uitgereikt is ofwel door de behandelende arts van de medische of psychiatrische voorziening ofwel door de directeur van de residentiële setting. De Vlaamse Regering bepaalt wat het attest moet inhouden.<br>
 <br>
-§ 2. Voor de toelating van een leerling tot een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde school voor buitengewoon secundair onderwijs of voor een individueel aangepast curriculum in het gewoon secundair onderwijs is het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een verslag door een centrum voor leerlingenbegeleiding vereist, opgesteld met inachtname van artikel 7 van het decreet van 27 april 2018 over de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, waaruit blijkt:<br>
-1° voor een inschrijving in opleidingsvorm 1, 2 of 3:<br>
-a) dat de fasen van het zorgcontinuüm voor de betreffende leerling werden doorlopen, tenzij de school in uitzonderlijke omstandigheden kan motiveren dat het doorlopen van een bepaalde fase niet relevant is;<br>
-b) dat met toepassing van de principes van artikel 136/2 de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen die nodig zijn om de leerling binnen een gemeenschappelijk curriculum te blijven meenemen, ofwel disproportioneel, ofwel onvoldoende zijn;<br>
-c) dat de onderwijsbehoeften van de leerling werden omschreven met toepassing van een classificatiesysteem dat wetenschappelijk onderbouwd is en gebaseerd is op een interactionele visie en een sociaal model van handicap;<br>
-d) dat de onderwijsbehoeften van de leerling niet louter toe te schrijven zijn aan een gelijkekansenindicator van de leerling als bepaald in artikel 225, § 1, 1°, 4° en 5° ;<br>
-e) welk type en welke opleidingsvorm voor de leerling van toepassing is, als bepaald in artikel 259, § 1, 1° tot 8°, en § 2, 1° tot 3° ;<br>
-2° voor een inschrijving in opleidingsvorm 4, met uitzondering van type 5:<br>
-a) dat de fasen van het zorgcontinuüm voor de betreffende leerling werden doorlopen, tenzij de school in uitzonderlijke omstandigheden kan motiveren dat het doorlopen van een bepaalde fase niet relevant is;<br>
-b) dat met toepassing van de principes van artikel 136/2 de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, die nodig zijn om de leerling binnen een gemeenschappelijk curriculum te blijven mee- nemen binnen de context van een gewone school disproportioneel zijn;<br>
-c) dat de inzet van paramedisch, sociaal, medisch, psychologisch of orthopedagogisch personeel in een gespecialiseerde onderwijsomgeving noodzakelijk is om de onderwijsdoelen te bereiken;<br>
-d) dat de onderwijsbehoeften van de leerling werden omschreven met toepassing van een classificatiesysteem dat wetenschappelijk onderbouwd is en gebaseerd is op een interactionele visie en een sociaal model van handicap;<br>
-e) dat de onderwijsbehoeften van de leerling niet louter toe te schrijven zijn aan een gelijkekansenindicator van de leerling als bepaald in artikel 225, § 1, 1°, 4° en 5° ;<br>
-f) welk type voor de leerling van toepassing is, als bepaald in artikel 259, § 1, 3° tot 8°, met uitzondering van 5°.<br>
+§2. Voor de toelating van een leerling tot een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde school voor buitengewoon secundair onderwijs, of voor een individueel aangepast curriculum of een gemeenschappelijk curriculum met intensieve ondersteuning in het gewoon onderwijs, is het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een IAC-verslag of OV4-verslag door een centrum voor leerlingenbegeleiding vereist, opgesteld met inachtname van artikel 7 van het decreet van 27 april 2018 over de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, waaruit blijkt:<br>
+1° &nbsp; voor een IAC-verslag voor opleidingsvorm 1, 2 of 3:<br>
+a)&nbsp;&nbsp; &nbsp;dat de fasen van het zorgcontinuüm voor de betreffende leerling zijn doorlopen, tenzij de school in uitzonderlijke omstandigheden kan motiveren dat het doorlopen van een bepaalde fase niet relevant is;<br>
+b)&nbsp;&nbsp; &nbsp;dat met toepassing van de principes van artikel 136/2 de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen die nodig zijn om de leerling binnen een gemeenschappelijk curriculum te blijven meenemen, ofwel disproportioneel, ofwel onvoldoende zijn;<br>
+c)&nbsp;&nbsp; &nbsp;dat de onderwijsbehoeften van de leerling zijn omschreven met toepassing van een classificatiesysteem dat wetenschappelijk onderbouwd is en gebaseerd is op een interactionele visie en een sociaal model van handicap;<br>
+d)&nbsp;&nbsp; &nbsp;dat de onderwijsbehoeften van de leerling niet louter toe te schrijven zijn aan een gelijkekansenindicator van de leerling als bepaald in artikel 225, §1, 1°, 4° en 5°;<br>
+e)&nbsp;&nbsp; &nbsp;welk type en welke opleidingsvorm voor de leerling van toepassing zijn als bepaald in artikel 259, §1, 1° tot en met 8°, en §2, 1° tot en met 3°;<br>
+2° &nbsp; voor een OV4-verslag voor opleidingsvorm 4, met uitzondering van type 5:<br>
+a)&nbsp;&nbsp; &nbsp;dat de fasen van het zorgcontinuüm voor de betreffende leerling zijn doorlopen, tenzij de school in uitzonderlijke omstandigheden kan motiveren dat het doorlopen van een bepaalde fase niet relevant is;<br>
+b)&nbsp;&nbsp; &nbsp;dat met toepassing van de principes van artikel 136/2 de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, alsook intensieve onderwijskundige en orthopedagogische of orthodidactische ondersteuning, en de inzet van paramedisch, sociaal, medisch, psychologisch of orthopedagogisch personeel noodzakelijk zijn om de leerling binnen het gemeenschappelijk curriculum te blijven meenemen en de doelen van het gemeenschappelijk curriculum en de bijkomende doelen te bereiken en de reguliere studiebekrachtiging te behalen;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;welke aanpassingen, met toepassing van handelingsplanmatig werken en op basis van de onderwijsbehoeften en ondersteuningsbehoeften van de leerling, er voor welke onderdelen van het gemeenschappelijk curriculum nodig zijn, alsook op welke manier de intensieve onderwijskundige, orthopedagogische en orthodidactische ondersteuning en de inzet van paramedisch, sociaal, medisch, psychologisch of orthopedagogisch personeel zal worden ingezet bij de realisatie van het gemeenschappelijk curriculum;<br>
+d)&nbsp;&nbsp; &nbsp;dat de onderwijsbehoeften van de leerling zijn omschreven met toepassing van een classificatiesysteem dat wetenschappelijk onderbouwd is en gebaseerd is op een interactionele visie en een sociaal model van handicap;<br>
+e)&nbsp;&nbsp; &nbsp;dat de onderwijsbehoeften van de leerling niet louter toe te schrijven zijn aan een gelijkekansenindicator van de leerling als bepaald in artikel 225, §1, 1°, 4° en 5°;<br>
+f)&nbsp;&nbsp; &nbsp;welk type voor de leerling van toepassing is als bepaald in artikel 259, §1, 3° tot en met 8°, met uitzondering van 5°.<br>
 <br>
-§ 3. Voor een leerling die overgaat van het buitengewoon basisonderwijs naar het buitengewoon secundair onderwijs of die voor het eerst naar school gaat en wil starten in het buitengewoon secundair onderwijs moet in afwijking van § 2, 1°, a) en b), en § 2, 2°, a) en b), worden aangetoond dat de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, disproportioneel of onvoldoende zullen zijn om de leerling mee te nemen in een gemeenschappelijk curriculum in een school voor gewoon onderwijs.<br>
+§3. Voor een leerling die overgaat van het buitengewoon basisonderwijs naar het buitengewoon secundair onderwijs of die voor het eerst naar school gaat en wil starten in opleidingsvorm 1, 2 of 3 van het buitengewoon secundair onderwijs wordt, in afwijking van paragraaf 2, 1°, a) en b), aangetoond dat de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, disproportioneel of onvoldoende zullen zijn om de leerling mee te nemen in een gemeenschappelijk curriculum in een school voor gewoon onderwijs.<br>
 <br>
-Voor een leerling die voor het eerst naar school gaat en met een individueel aangepast curriculum wil starten in het gewoon onderwijs moet in afwijking van paragraaf 2, 1°, a) en b), en 2°, a) en b), worden aangetoond dat de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, disproportioneel of onvoldoende zullen zijn om de leerling in het gemeenschappelijk curriculum mee te nemen en moet in afwijking van paragraaf 2, 1°, e), en 2°, f), bepaald worden welk type voor de leerling van toepassing is, als bepaald in artikel 259, § 1, 2°, 4°, 6° of 7°.<br>
+Voor een leerling die overgaat van het buitengewoon basisonderwijs naar het buitengewoon secundair onderwijs of die voor het eerst naar school gaat en wil starten in opleidingsvorm 4 van het buitengewoon secundair onderwijs, wordt, in afwijking van paragraaf 2°, a) en b), aangetoond dat aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, nodig zijn en intensieve onderwijskundige, orthopedagogische en orthodidactische ondersteuning en de inzet van paramedisch, sociaal, medisch, psychologisch of orthopedagogisch personeel noodzakelijk zijn om de leerling binnen het gemeenschappelijk curriculum te blijven meenemen en de doelen van het gemeenschappelijk curriculum te bereiken en de reguliere studiebekrachtiging te behalen.<br>
 <br>
-§ 4. Het verslag bestaat uit een attest en een protocol ter verantwoording. De Vlaamse Regering bepaalt wat het verslag moet inhouden. Het protocol ter verantwoording bevat de verantwoording van de elementen vermeld in paragraaf 2 en, in voorkomend geval, in paragraaf 3.<br>
+Voor een leerling die voor het eerst naar school gaat en met een individueel aangepast curriculum wil starten in het gewoon onderwijs, wordt, in afwijking van paragraaf 2, 1°, a) en b), aangetoond dat de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, disproportioneel of onvoldoende zullen zijn om de leerling in het gemeenschappelijk curriculum mee te nemen en wordt, in afwijking van paragraaf 2, 1°, e), bepaald welk type voor de leerling van toepassing is als bepaald in artikel 259, §1, 2°, 4°, 6° of 7°.<br>
 <br>
-§ 5. Een leerling kan alleen het buitengewoon onderwijs volgen van de opleidingsvorm en het type waarnaar hij in het verslag georiënteerd wordt, met uitzondering van de leerlingen van opleidingsvorm 4, type 5.<br>
+Voor een leerling die voor het eerst naar school gaat en met een OV4-verslag het gemeenschappelijk curriculum wil volgen in het gewoon secundair onderwijs, wordt, in afwijking van paragraaf 2, 2°, a) en b), aangetoond dat aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen, nodig zijn en intensieve onderwijskundige, orthopedagogische en orthodidactische ondersteuning en de inzet van paramedisch, sociaal, medisch, psychologisch of orthopedagogisch personeel noodzakelijk zijn om de leerling binnen het gemeenschappelijk curriculum te blijven meenemen en de doelen van het gemeenschappelijk curriculum te bereiken en de reguliere studiebekrachtiging te behalen, en wordt, in afwijking van paragraaf 2, 2°, f), bepaald welk type voor de leerling van toepassing is als bepaald in artikel 259, §1, 4°, 6° of 7°.<br>
+&nbsp;<br>
+§4. Het IAC-verslag en het OV4-verslag bestaan telkens uit een attest en een protocol ter verantwoording. De Vlaamse Regering bepaalt wat het IAC-verslag en het OV4-verslag moeten inhouden. Het protocol ter verantwoording bevat de verantwoording van de elementen, vermeld in paragraaf 2 en, in voorkomend geval, in paragraaf 3.<br>
 <br>
-§ 6. Voor leerlingen die tijdens het schooljaar 2014-2015 met een inschrijvingsverslag ingeschreven waren in een school voor buitengewoon of gewoon onderwijs geldt paragraaf 2 alleen bij wijziging van onderwijsniveau, van type of bij overgang van buitengewoon onderwijs naar gewoon onderwijs of omgekeerd.<br>
+Bij de opmaak van een IAC-verslag of OV4-verslag informeert het CLB de ouders en de leerling actief over het inschrijvingsrecht voor leerlingen met een IAC-verslag of OV4-verslag.<br>
 <br>
-§ 7. Als niet meer voldaan is aan de voorwaarden, vermeld in paragraaf 2, 1°, b), of 2°, b) en c), heft het centrum voor leerlingenbegeleiding het verslag op. Als een gemotiveerd verslag wordt opgemaakt voor een leerling die beschikt over een verslag, vervalt het verslag. Als een centrum voor leerlingenbegeleiding voor een leerling met een verslag, een gemotiveerd verslag of verslag opmaakt met het oog op een overgang van het basisonderwijs naar het secundair onderwijs, dan vervalt het verslag dat de leerling had in het basisonderwijs.<br>
+§5. Leerlingen kunnen alleen het buitengewoon onderwijs volgen van de opleidingsvorm en het type waarnaar ze in het IAC-verslag of het OV4-verslag georiënteerd worden, met uitzondering van de leerlingen van opleidingsvorm 4, type 5.<br>
 <br>
-§ 8. Bij onenigheid tussen ouders, school en centrum voor leerlingenbegeleiding over het afleveren van het verslag kan, op initiatief van een van de betrokken partijen, een beroep gedaan worden op een Vlaamse Bemiddelingscommissie.<br>
+§6. Voor leerlingen die tijdens het schooljaar 2014-2015 met een inschrijvingsverslag ingeschreven waren in een school voor buitengewoon onderwijs, geldt paragraaf 2 alleen bij wijziging van onderwijsniveau, van type of bij de overgang van buitengewoon onderwijs naar gewoon onderwijs.<br>
 <br>
-De Vlaamse Regering bepaalt de samenstelling, de bevoegdheden en de werkingsprincipes van deze commissie.<br>
+§7. Als niet meer voldaan is aan de voorwaarden, vermeld in paragraaf 2, 1°, b), of 2°, b) en c), heft het centrum voor leerlingenbegeleiding het IAC-verslag of OV4-verslag op.<br>
 <br>
-§ 9. Als een leerling, die met toepassing van paragraaf 6 nog beschikt over een inschrijvingsverslag, overgaat van het buitengewoon secundair onderwijs naar het gewoon secundair onderwijs of omgekeerd, dan heft het centrum voor leerlingenbegeleiding het inschrijvingsverslag op of maakt het, naargelang de situatie van de leerling, een gemotiveerd verslag of een verslag op. Voor een leerling met een verslag zal het CLB, naargelang de situatie, het verslag opheffen, een gemotiveerd verslag opmaken of het bestaande verslag aanpassen. Aanpassingen aan gemotiveerde verslagen en verslagen kunnen gebeuren met een addendum, voorzien van de datum van opmaak.<br>
+Als een GC-verslag, IAC-verslag of OV4-verslag wordt opgemaakt voor een leerling die al beschikt over een IAC-verslag of OV4-verslag, vervalt dat IAC-verslag of OV4-verslag.<br>
 <br>
-§ 10. Leerlingen met een verslag die een individueel aangepast curriculum volgen in het gewoon secundair onderwijs, komen in aanmerking voor ondersteuning met toepassing van artikel 314/8 en artikel 314/9.";<br>
+Als een centrum voor leerlingenbegeleiding voor een leerling met een IAC-verslag in het basisonderwijs, een GC-verslag, IAC-verslag of OV4-verslag opmaakt met het oog op een overgang van het basisonderwijs naar het secundair onderwijs, vervalt het IAC-verslag dat de leerling had in het basisonderwijs.<br>
 <br>
-§ 11. In afwijking van paragraaf 2, 1°, e), en 2°, f), kan voor leerlingen in het gewoon onderwijs voor wie een handelingsgericht diagnostisch traject is afgerond met een vermoeden van een emotionele of gedragsstoornis waarvoor een aanbod in type 3 nodig is, eenmalig een voorlopig verslag type 3 opgemaakt worden door het centrum voor leerlingenbegeleiding ook al is niet voldaan aan de voorwaarden betreffende diagnostiek, vermeld in artikel 259, § 1, 3°. Dit voorlopig verslag voldoet aan alle vereisten zoals bepaald in paragraaf 2, 1°, a) tot en met d), en 2°, a) tot en met e).<br>
+§8. Bij onenigheid tussen ouders, school en centrum voor leerlingenbegeleiding over het afleveren van het IAC-verslag of OV4-verslag kan, op initiatief van een van de betrokken partijen, een beroep gedaan worden op een Vlaamse Bemiddelingscommissie.<br>
 <br>
-De opmaak van een voorlopig verslag leidt tot de inschrijving van de leerling in een school voor buitengewoon onderwijs type 3. In geval van onenigheid kunnen ouders een beroep doen op de Vlaamse Bemiddelingscommissie, vermeld in paragraaf 8.<br>
+De Vlaamse Regering bepaalt de samenstelling, de bevoegdheden en de werkingsprincipes van die commissie.<br>
 <br>
-Een voorlopig verslag is geldig gedurende het lopende schooljaar. Als de diagnose, vermeld in artikel 259, § 1, 3°, nog niet beschikbaar is bij de start van het daaropvolgende schooljaar, kan het CLB het voorlopig verslag uitzonderlijk met maximaal een schooljaar verlengen.<br>
+§9. Als een leerling, die met toepassing van paragraaf 6 nog beschikt over een inschrijvingsverslag, overgaat van het buitengewoon secundair onderwijs naar het gewoon secundair onderwijs, heft het centrum voor leerlingenbegeleiding het inschrijvingsverslag op of maakt het, naargelang de situatie van de leerling, een GC-verslag, een IAC-verslag of een OV4-verslag op.<br>
 <br>
-Indien het handelingsgericht diagnostisch traject leidt tot een diagnose, als vermeld in artikel 259, § 1, 3°, wordt het voorlopig verslag opgeheven en wordt er een verslag opgesteld dat voldoet aan alle voorwaarden, zoals bepaald in paragraaf 2, 1°, a) tot en met e), of 2°, a) tot en met f).<br>
+Als een leerling met een IAC-verslag of OV4-verslag overgaat van het buitengewoon secundair onderwijs naar het gewoon secundair onderwijs, heft het CLB, naargelang de situatie, het IAC-verslag of OV4-verslag op, maakt het een GC-ver- slag op of past het bestaande IAC-verslag of OV4-verslag aan. Aanpassingen aan IAC-verslagen en OV4-verslagen kunnen gebeuren met een addendum, voor- zien van de datum van opmaak.<br>
 <br>
-Indien het handelingsgericht diagnostisch traject niet leidt tot een diagnose, als vermeld in artikel 259, § 1, 3°, wordt het voorlopig verslag opgeheven door het betrokken centrum voor leerlingenbegeleiding. Tenzij de ouders beslissen tot een inschrijving in een school voor gewoon onderwijs, behoudt de leerling het recht om in de school type 3 ingeschreven te blijven tot het einde van het lopende schooljaar</p>
+§10. Leerlingen met een IAC-verslag of OV4-verslag in het gewoon secundair onderwijs, komen in aanmerking voor leersteun vanuit het leersteunmodel.<br>
+<br>
+§11. In afwijking van paragraaf 2, 1°, e), en 2°, f), kan voor leerlingen in het gewoon onderwijs voor wie een handelingsgericht diagnostisch traject is afgerond met een vermoeden van een emotionele of gedragsstoornis waarvoor een aanbod in type 3 nodig is, eenmalig een voorlopig IAC-verslag type 3 of voorlopig OV4-verslag type 3 opgemaakt worden door het centrum voor leerlingenbegeleiding, ook al is niet voldaan aan de voorwaarden betreffende diagnostiek, vermeld in artikel 259, §1, 3°. Een voorlopig IAC-verslag voldoet aan alle vereisten, vermeld in para- graaf 2, 1°, a) tot en met d). Een voorlopig OV4-verslag voldoet aan alle vereisten, vermeld in paragraaf 2, 2°, a) tot en met e).<br>
+<br>
+De opmaak van een voorlopig IAC-verslag of voorlopig OV4-verslag leidt tot de inschrijving van de leerling in een school voor buitengewoon onderwijs type 3. In geval van onenigheid kunnen ouders een beroep doen op de Vlaamse Bemiddelingscommissie, vermeld in paragraaf 8.<br>
+<br>
+Een voorlopig IAC-verslag of voorlopig OV4-verslag is geldig gedurende het lopende schooljaar. Als de diagnose, vermeld in artikel 259, §1, 3°, nog niet beschikbaar is bij de start van het daaropvolgende schooljaar, kan het CLB het voorlopig IAC-verslag of voorlopig OV4-verslag uitzonderlijk met maximaal een schooljaar verlengen.<br>
+<br>
+Als het handelingsgericht diagnostisch traject leidt tot een diagnose als vermeld in artikel 259, §1, 3°, wordt het voorlopig IAC-verslag of voorlopig OV4-verslag opgeheven en wordt er een IAC-verslag opgesteld dat voldoet aan alle voorwaarden, vermeld in paragraaf 2, 1°, a) tot en met e), of een OV4-verslag dat voldoet aan alle voorwaarden, vermeld in paragraaf 2, 2°, a) tot en met f).<br>
+<br>
+Als het handelingsgericht diagnostisch traject niet leidt tot een diagnose als vermeld in artikel 259, §1, 3°, wordt het voorlopig IAC-verslag of voorlopig OV4-verslag opgeheven door het betrokken centrum voor leerlingenbegeleiding. Tenzij de ouders beslissen tot een inschrijving in een school voor gewoon onderwijs, behoudt de leerling het recht om in de school type 3 ingeschreven te blijven tot het einde van het lopende schooljaar.<br>
+<br>
+§12. Verslagen voor toegang tot een individueel aangepast curriculum in het gewoon onderwijs of tot het buitengewoon onderwijs die zijn opgemaakt voor 1 september 2023, worden gelijkgesteld aan IAC-verslagen of OV4-verslagen, naargelang de opleidingsvorm. Leerlingen die nog beschikken over een verslag van voor 1 september 2023, voldoen aan dezelfde voorwaarden en hebben dezelfde rechten als leerlingen met een IAC-verslag of OV4-verslag.</p>
 
 ## Onderafdeling 3. Type 5
 
@@ -6353,7 +7017,7 @@ Voor de toepassing van de termijnen bepaald in deze afdeling worden de door de V
 
 ### ART 295/2.
 
-§ 1. Elke leerling die beschikt over een verslag, zoals bepaald in artikel 294, of over een document opgemaakt door het CLB waaruit blijkt dat het handelingsgericht diagnostisch proces is doorlopen, heeft recht op inschrijving in de school of vestigingsplaats, gekozen door de betrokken personen, onder de opschortende voorwaarde dat de leerling op de eerste dag van de effectieve lesbijwoning aan de toelatingsvoorwaarden, vermeld in de artikelen 291 tot en met 294, voldoet voor het onderwijsaanbod in de betreffende vestigingsplaats.<br>
+§ 1. Elke leerling die beschikt over een IAC-verslag of OV4-verslag of over een document opgemaakt door het CLB waaruit blijkt dat het handelingsgericht diagnostisch proces is doorlopen, heeft recht op inschrijving in de school of vestigingsplaats, gekozen door de betrokken personen, onder de opschortende voorwaarde dat de leerling op de eerste dag van de effectieve lesbijwoning aan de toelatingsvoorwaarden, vermeld in de artikelen 291 tot en met 294, voldoet voor het onderwijsaanbod in de betreffende vestigingsplaats.<br>
 <br>
 De inschrijving wordt genomen na ondertekening voor akkoord van de betrokken personen van het pedagogisch project en schoolreglement.<br>
 <br>
@@ -6539,11 +7203,13 @@ Indien de CLR de klacht ongegrond acht, schrijft de leerling zich alsnog in de d
 
 ### ART. 296.
 
-In het buitengewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 72 regelmatige leerlingen op de gebruikelijke teldatum.<br>
+§1. In het buitengewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 72 regelmatige leerlingen op de gebruikelijke teldatum.<br>
 <br>
 Indien het minimum aantal leerlingen niet wordt bereikt, wordt de directeur belast met een onderwijsopdracht pro rata van 2 lesuren per volledige reeks van 9 leerlingen die ontbreken. De lesuren vallen binnen het lesurenpakket. Hij behoudt echter het recht op de salarisschaal van directeur met een volledige opdracht of op het overeenstemmende salaris of salaristoelage.<br>
 <br>
-Voor de toepassing van deze bepalingen worden enerzijds de regelmatige leerlingen van de opleidingsvormen 1 en 2 vermenigvuldigd met 1,33 en anderzijds in scholen die op de eerste schooldag van oktober van het schooljaar 2014-2015 minimaal 10 regelmatige leerlingen in het geïntegreerd onderwijs begeleidden, de leerlingen die in het kader van geïntegreerd onderwijs begeleid werden, in aanmerking genomen. (295)
+Voor de toepassing van deze bepalingen worden enerzijds de regelmatige leerlingen van de opleidingsvormen 1 en 2 vermenigvuldigd met 1,33 en anderzijds in scholen die op de eerste schooldag van oktober van het schooljaar 2014-2015 minimaal 10 regelmatige leerlingen in het geïntegreerd onderwijs begeleidden in schooljaar 2016-2017, deze leerlingen mee in aanmerking genomen. (295)<br>
+<br>
+§2. Als een leersteuncentrum deel uitmaakt van een school voor buitengewoon secundair onderwijs als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun, wordt de directie vrijgesteld van de gedeeltelijke lesopdracht als niet voldaan wordt aan de voorwaarde, vermeld in paragraaf 1, eerste lid.
 
 ## Onderafdeling 2. Onderwijzend personeel
 
@@ -6567,12 +7233,12 @@ In afwijking hiervan wordt 1 oktober van het lopende schooljaar de teldatum:<br>
 <br>
 Bij de opname in de financiering of de subsidiëring is de teldatum 1 oktober van het lopende schooljaar en van de twee daaropvolgende schooljaren.&nbsp;In afwijking van de voorgaande zin is met toepassing van artikel 290/2 voor de opname in de financiering of de subsidiering de teldatum 1 oktober van het lopende schooljaar en van de drie daaropvolgende schooljaren.<br>
 <br>
-In geval van oprichting van een nieuw type, met uitzondering van het schooljaar 2015-2016, alsook in geval van fusie, afschaffing van een opleidingsvorm of omvorming is de teldatum 1 oktober van het lopende schooljaar.&nbsp;Als het nieuwe type met toepassing van artikel 290/2 pas na de eerste lesdag van oktober wordt opgericht blijft de teldatum 1 februari van het voorafgaande schooljaar.<br>
+In geval van oprichting van een nieuw type, alsook in geval van fusie, afschaffing van een opleidingsvorm of omvorming is de teldatum 1 oktober van het lopende schooljaar.&nbsp;Als het nieuwe type met toepassing van artikel 290/2 pas na de eerste lesdag van oktober wordt opgericht blijft de teldatum 1 februari van het voorafgaande schooljaar.<br>
 <br>
 Deze teldatum geldt telkens voor de school in kwestie in haar geheel.<br>
 <br>
 2° in het type 5 het aantal bepaald door de gemiddelde aanwezigheid van de regelmatige leerlingen :<br>
-a) gedurende de periode van 12 maanden die voorafgaat aan 1 februari van het jaar waarin het betrokken schooljaar een aanvang neemt, indien het type gedurende heel deze duur georganiseerd was, of indien de school valt onder toepassing van artikel 288;<br>
+a) gedurende de periode van 12 maanden die voorafgaat aan 1 februari van het jaar waarin het betrokken schooljaar een aanvang neemt, indien het type gedurende heel deze duur georganiseerd was;<br>
 b) in andere gevallen, gedurende de eerste 30 dagen te rekenen vanaf de openstelling van het type, of gedurende een periode te bepalen door de Vlaamse Regering.
 
 ### ART. 300.
@@ -6637,7 +7303,7 @@ Het specifieke aantal lesuren, vermeld in het eerste lid, dat respectievelijk ov
 
 ### ART 308/3.
 
-Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan de school toegekende lesuren, vermeld in artikel 298, 318 en 319, omzetten in punten en uren voor de aanwending in ambten van het ondersteunend personeel of van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel.<br>
+Bij een tekort aan onderwijzend personeel kan het schoolbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan de school toegekende vacante lesuren, vermeld in artikel 298, 318 en 319, omzetten in punten en uren voor de aanwending in ambten van het ondersteunend personeel of van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel.<br>
 <br>
 De omzettingen, vermeld in het eerste lid, kunnen telkens gebeuren vanaf 1 oktober van het lopende schooljaar in kwestie en gelden voor de duur van het lopende schooljaar. In afwijking hiervan eindigt een omzetting van lesuren als het personeelslid dat aangesteld is in een betrekking die via voormelde omzetting werd opgericht in een ambt van het ondersteunend personeel of in een ambt van het paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel, tijdens het schooljaar vrijwillig ontslag neemt volgens artikel 25 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of volgens artikel 26 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. In dit geval eindigt de omzetting voor het overeenkomend deel van de lesuren vanaf het ogenblik dat het ontslag ingaat.<br>
 <br>
@@ -6648,6 +7314,93 @@ De Vlaamse Regering bepaalt de wijze waarop de lesuren kunnen worden omgezet in 
 De criteria om het tekort aan onderwijzend personeel te bepalen en de aanwending in ambten van het ondersteunend personeel of in ambten van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel als vermeld in het eerste lid, worden vastgelegd na onderhandeling in het bevoegde lokale comité.<br>
 <br>
 De betrekkingen die opgericht worden in ambten van het ondersteunend personeel of in ambten van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.
+
+### ART 308/4.
+
+§1. Een schoolbestuur kan bij een tekort van onderwijzend personeel op de arbeidsmarkt een deel van zijn omkadering voor het onderwijzend personeel van een of meer van zijn scholen telkens voor maximaal één schooljaar aanwenden om via een overeenkomst van dienstverlening tussen het schoolbestuur en een organisatie of onderneming uit de publieke of private sector in een die school of scholen een of meer werknemers van die organisatie of onderneming in dienst te nemen via een dienstverleningsovereenkomst. Het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn niet van toepassing op de voormelde werknemers.<br>
+<br>
+Bij de wijze van aanwending van de omkadering voor het onderwijzend personeel, vermeld in het eerste lid, kan het schoolbestuur dat het personeelslid in dienst neemt, lesuren van een of meer van haar scholen, vermeld in het eerste lid, omzetten in een krediet ten belope van de lesopdracht of lesopdrachten die in de dienstverleningsovereenkomst zijn vastgelegd. Het voormelde krediet wordt aangewend als financiële tegemoetkoming voor de onderneming of de organisatie, vermeld in het eerste lid, die een of meer werknemers ter beschikking stelt van het schoolbestuur. Het schoolbestuur wendt voor de voormelde financiële tegemoetkoming lesuren aan uit het lesurenpakket, vermeld in artikel 298 en 300, dat aan de school is toegekend.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag dat een schoolbestuur per lesuur kan omzetten in een krediet en de wijze van melding van voormelde omzetting aan de bevoegde dienst van de administratie. Het schoolbestuur machtigt de bevoegde dienst van de administratie om de voormelde financiële tegemoetkoming rechtstreeks uit te betalen aan de organisatie of onderneming, vermeld in het eerste lid, waarmee het schoolbestuur een dienstverleningsovereenkomst sluit.<br>
+<br>
+De Vlaamse Regering stelt een model van dienstverleningsovereenkomst op, waarbij ze rekening houdt met de voorwaarden, vermeld in de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers. In de voormelde dienstverleningsovereenkomst worden al de volgende elementen opgenomen:<br>
+1° de specifieke opdracht van de werknemer, vermeld in het eerste lid, in de school;<br>
+2° de aanstellingsen arbeidsvoorwaarden die gelden voor de werknemer, vermeld in het eerste lid, waarbij alvast het salaris en de financiële voordelen die de voormelde werknemer in zijn onderneming of organisatie geniet gegarandeerd blijven door de uitsturende onderneming of organisatie;<br>
+3° de opleiding die de werknemer, vermeld in het eerste lid, moet gevolgd hebben;<br>
+4° de plichten die de werknemer, vermeld in het eerste lid, moet naleven bij het uitoefenen van zijn opdracht. In de voormelde verplichtingen wordt alvast uitdrukkelijk bepaald dat de voormelde werknemer altijd onder het gezag blijft van zijn organisatie of onderneming, tenzij het gaat om plichten die betrekking hebben op het welzijn op het werk of over specifieke instructies die nodig zijn voor de goede uitvoering van de specifieke opdracht;<br>
+5° de duur van de dienstverleningsovereenkomst;<br>
+6° de mogelijkheden tot voortijdige beëindiging van de dienstverleningsovereenkomst.<br>
+&nbsp;<br>
+De werknemers, vermeld in het eerste lid, moeten voldoen aan de aanstellingsvoorwaarden die de Vlaamse Regering opneemt in het model van dienstverleningsovereenkomst, vermeld in het vierde lid. Werknemers als vermeld in het eerste lid, die ter beschikking worden gesteld van een school die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, tonen daarenboven aan dat ze de kennis van het Nederlands als onderwijstaal beheersen op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De werknemers bewijzen die vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
+<br>
+§2. Het tekort van onderwijzend personeel op de arbeidsmarkt, vermeld in paragraaf 1, eerste lid, blijkt uit het feit dat het schoolbestuur in de school waar het de werknemer van een organisatie of onderneming, vermeld in paragraaf 1, eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het bestuursen onderwijzend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+<br>
+Om de vacature, vermeld in het eerste lid, in te vullen, sluit het schoolbestuur van de school een dienstverleningsovereenkomst met de onderneming of organisatie, vermeld in paragraaf 1, eerste lid. In de voormelde dienstverleningsovereenkomst worden de afspraken over de terbeschikkingstelling van een werknemer van de onderneming of organisatie voor een welbepaalde opdracht en periode van de terbeschikkingstelling opgenomen. De dienstverleningsovereenkomst regelt altijd een lesopdracht die de volgende taken omvat:<br>
+1° de planning en voorbereiding van lessen;<br>
+2° het lesgeven zelf;<br>
+3° de klaseigen leerlingenbegeleiding;<br>
+4° de evaluatie van de leerlingen;<br>
+5° het overleg en de samenwerking met directie, collega’s, en in voorkomend geval CLB, leersteuncentra en ouders.<br>
+<br>
+Het schoolbestuur en de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, sluiten een dienstverleningsovereenkomst als vermeld in paragraaf 1, af. De dienstverleningsovereenkomst bevat de volgende bepalingen en voorwaarden over de uitvoering van de opdracht, vermeld in het tweede lid:<br>
+1° de gegevens van het schoolbestuur dat als opdrachtgever optreedt en de gegevens van de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, die als opdrachtnemer optreedt;<br>
+2° de contactgegevens van de gemachtigden die de beide partijen aanwijzen;<br>
+3° de opdracht die wordt overeengekomen, de wijze van uitvoering van die opdracht en de ondersteuning waarop de werknemer recht heeft tijdens die uitvoering en die de school aanbiedt;<br>
+4° de voorwaarden waaraan de werknemer, vermeld in paragraaf 1, eerste lid, die de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, inschakelt, moet beantwoorden, waarbij uitdrukkelijk bepaald wordt dat de werknemer onder het gezag blijft van de onderneming of organisatie, tenzij het gaat om instructies die het schoolbestuur aan de werknemer geeft in het kader van de uitvoering van de opdracht en die in de deelovereenkomst worden opgenomen;<br>
+5° de financiële en sociale verplichtingen ten aanzien van de werknemer, vermeld in paragraaf 1, eerste lid, die ten laste van de onderneming of organisatie blijven;<br>
+6° de financiële tegemoetkoming die het schoolbestuur betaalt aan de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, en de modaliteiten van betaling;<br>
+7° bepalingen over de vertrouwelijkheid waartoe de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, zich verbindt met het oog op de uitvoering van de opdracht. In de voormelde bepalingen wordt in elk geval opgenomen dat de werknemer van de onderneming of organisatie het ambtsgeheim in onderwijs moet naleven;<br>
+8° bepalingen over de intellectuele eigendom waarbij de onderneming of organisatie, vermeld in paragraaf 1, eerste lid, zich ermee akkoord verklaart dat alle auteursof andere intellectuele rechten op werken die in het kader van de uitvoering van de opdracht worden gerealiseerd, overgedragen worden aan het schoolbestuur en waarbij afspraken opgenomen kunnen worden over het eventuele interne gebruik van dit intellectuele eigendom in de onderneming of organisatie, vermeld in paragraaf 1, eerste lid;<br>
+9° bepalingen over de aansprakelijkheid bij de uitvoering van de opdracht, waarbij in elk geval wordt opgenomen dat het schoolbestuur ervoor zorgt dat de werknemer, vermeld in paragraaf 1, eerste lid, tijdens de uitvoering van de opdracht op dezelfde wijze is verzekerd als al zijn andere personeelsleden;<br>
+10° de bepalingen, vermeld in artikel 8 tot en met 10 van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk;<br>
+11° de duurtijd van de dienstverleningsovereenkomst.<br>
+<br>
+§3. De onderneming of organisatie, vermeld in paragraaf 1, eerste lid, selecteert een werknemer om de opdracht uit te oefenen die in de dienstverleningsovereenkomst, vermeld in paragraaf 2, derde lid, is vastgelegd. De werknemer moet aan al de volgende voorwaarden voldoen:<br>
+1° de werknemer is minstens drie jaren in dienst bij de onderneming of de organisatie;<br>
+2° de werknemer is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van voorleggen niet langer dan een maand tevoren is afgegeven;<br>
+3° de werknemer die ter beschikking wordt gesteld van een school die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, beschikt over de vereiste kennis van het Nederlands als onderwijstaal, wat blijkt uit het feit dat de werknemer het Nederlands beheerst op het niveau C1 van het Europees Referentiekader voor Talen. Die vereiste taalkennis blijkt uit het feit dat de werknemer minstens beschikt over een diploma dat in het Nederlands is behaald en dat toegang geeft tot een wervingsambt van het bestuursen onderwijzend personeel waarin hij een lesopdracht opneemt conform artikel 11 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs;<br>
+4° &nbsp; de werknemer beschikt over een diploma dat minstens een voldoende geacht bekwaamheidsbewijs is voor het wervingsambt van het bestuursen onderwijzend personeel waarin hij een lesopdracht opneemt conform artikel 11 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs.<br>
+&nbsp;<br>
+De onderneming of organisatie, vermeld in paragraaf 1, eerste lid, stelt de werknemer, vermeld in paragraaf 1, eerste lid, voor aan het schoolbestuur, dat controleert of de werknemer aan de voorwaarden, vermeld in het eerste lid, voldoet en dat vervolgens beslist om de opdracht al of niet toe te kennen aan de voormelde werknemer. Het schoolbestuur bewaart de gegevens van de voormelde werknemer, vermeld in het eerste lid, 2°, 3° en 4°, die het door de voormelde controle verkrijgt op de wijze en gedurende de termijnen die het schoolbestuur al hanteert voor de gegevens van al zijn personeelsleden, conform de algemene verordening gegevensbescherming (AVG).<br>
+<br>
+§4. De individuele opdracht van de werknemer, vermeld in paragraaf 3, in de school wordt opgenomen in een deelovereenkomst conform het model van deelovereenkomst dat is opgenomen in het model van dienstverleningsovereenkomst, vermeld in paragraaf 1.<br>
+<br>
+In de deelovereenkomst, vermeld in het eerste lid, worden ook de specifieke afspraken opgenomen over de aanvangsbegeleiding en de ondersteuning waarop de werknemer, vermeld in het eerste lid, een beroep kan doen in de school waar hij zijn lesopdracht opneemt.<br>
+<br>
+De werknemer, vermeld in het eerste lid, blijft tijdens de uitvoering van de overeengekomen opdracht altijd onder het gezag van zijn onderneming of organisatie. Het schoolbestuur kan aan de voormelde werknemer in het kader van de uitvoering van de concrete lesopdracht instructies geven. De bepalingen over die instructies worden opgenomen in een bijlage bij de deelovereenkomst, vermeld in het eerste lid.<br>
+<br>
+De werknemer, vermeld in het eerste lid, behoudt tijdens de uitvoering van de opdracht in de school het salaris waar hij bij zijn onderneming of organisatie recht op heeft, en ook alle daarbij horende financiële en extralegale voordelen.<br>
+<br>
+De dienstverleningsovereenkomst, vermeld in paragraaf 2, regelt de algemene rechtsverhouding tussen het schoolbestuur en de onderneming of organisatie voor de duur van de overeengekomen opdracht. Bij een tegenstrijdigheid of afwijking hebben de bepalingen van de deelovereenkomst, vermeld in het eerste lid, voorrang op de bepalingen van de dienstverleningsovereenkomst. De bepalingen van een recentere deelovereenkomst als vermeld in het eerste lid, hebben altijd voorrang op die van een vorige deelovereenkomst.<br>
+<br>
+De werknemer, vermeld in het eerste lid, is in het kader van de lesopdracht die hij in de school opneemt ambtshalve stemgerechtigd lid van de klassenraad. Tussen de school en de onderneming of organisatie, vermeld in paragraaf 1, worden praktische afspraken gemaakt over het functioneren van de voormelde werknemer in de klassenraad, met inbegrip van het al dan niet aanwezig zijn van de voormelde werknemer op klassenraadsvergaderingen. Die afspraken worden opgenomen in de deelovereenkomst.<br>
+<br>
+In het zesde lid wordt verstaan onder klassenraad: de begeleidende klassenraad of de delibererende klassenraad.<br>
+<br>
+§5. De Vlaamse Regering kan subsidies toekennen aan een externe organisatie of bedrijf om in het kader van het lerarentekort tussen schoolbesturen en ondernemingen of organisaties een bemiddelende of coachende rol op te nemen.<br>
+<br>
+§6. De maatregelen vervat in dit artikel worden geëvalueerd tijdens het schooljaar 2024-2025.<br>
+&nbsp;
+
+### ART 308/5.
+
+De aanwending van het wekelijks lesurenpakket, vermeld in deze afdeling, kan tijdens de schooljaren 2023-2024 en 2024-2025 ook plaatsvinden voor het inzetten van een gastleraar en dit voor een maximum van een derde van de lesuren van de wekelijkse lessentabel van de betrokken opleidingsvorm. Het aantal vacante lesuren dat aan gastleraren kan worden besteed, wordt door het schoolbestuur vastgelegd na onderhandeling in het lokaal comité.<br>
+<br>
+Een gastleraar als vermeld in het eerste lid, is een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de school. Een gastleraar als vermeld in het eerste lid, geeft in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, gastlessen in de school of op een andere locatie in het kader van de realisatie van het onderwijsprogramma en vanuit zijn deskundigheid of ervaring met betrekking tot de arbeidsmarkt en de bedrijfswereld.<br>
+<br>
+Een gastleraar als vermeld in het eerste lid, is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van voorleggen niet langer dan een maand tevoren is afgegeven. Daarnaast toont de voormelde gastleraar die gastlessen geeft in een school die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, aan dat hij de kennis van het Nederlands als onderwijstaal beheerst op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De voormelde gastleraar bewijst de voormelde vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
+<br>
+Bij de wijze van aanwending, vermeld in het eerste lid, worden lesuren omgezet in een krediet ten belope van de lesopdracht van de gastleraar. De Vlaamse Regering bepaalt de wijze van melding van voormelde omzetting aan de bevoegde dienst die de Vlaamse Regering aanwijst, de grootte van het krediet per lesuur dat wordt omgezet en de wijze van toekenning van het krediet.<br>
+<br>
+De maatregelen, vermeld in deze paragraaf, worden geëvalueerd tijdens het schooljaar 2024-2025.
 
 ## Onderafdeling 3. Paramedisch, sociaal, medisch, psychologisch en orthopedagogisch personeel
 
@@ -6679,7 +7432,7 @@ Deze teldatum geldt telkens voor de school in kwestie in haar geheel. (308)<br>
 
 In afwijking op artikel 309, § 3, komen niet in aanmerking de leerlingen, die hetzij :<br>
 a) ...;<br>
-b) huisonderwijs volgen;<br>
+b) ...;<br>
 c) in een medische instelling of ziekenhuis verblijven en buitengewoon onderwijs van type 5 volgen;<br>
 d) tijdens de schooluren revalidatie krijgen of therapeutische behandelingen ondergaan in één van de disciplines die binnen de personeelsformatie in het onderwijs voorkomen van personen van wie het ambt noch door onderwijs, noch door welzijn wordt gefinancierd of gesubsidieerd. (309)
 
@@ -6705,50 +7458,23 @@ d) tijdens de schooluren revalidatie krijgen of therapeutische behandelingen ond
 
 Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voor uren die geen lesuren zijn en georganiseerd worden als bijzondere pedagogische taken. Dit maximum geldt niet voor het buitengewoon secundair beroepsonderwijs dat georganiseerd is volgens een modulair stelsel of in de vorm van een alternerende beroepsopleiding. Het maximum kan worden overschreden bij akkoord van het lokaal comité, bevoegd inzake arbeidsvoorwaarden en personeelsaangelegenheden. (313)
 
-## [Onderafdeling 3/1. Omzetten van lesuren en uren naar middelen (ing. decr. 1 juli 2011, art. III.54, I: 1 september 2011)]
+## ...
 
 ### ART. 314/1.
 
-§ 1.&nbsp;Er wordt&nbsp;gedurende de schooljaren 2013-2014,&nbsp;2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 en 2021-2022 aan de scholen van het buitengewoon secundair onderwijs die voldoen aan de voorwaarden bepaald in deze onderafdeling toegestaan dat, in afwijking van het artikel 20, maximum 61 lesuren, die deel uitmaken van het lesurenpakket, vermeld in de artikelen 298, 301, 302 en 303, toegekend aan een school voor buitengewoon secundair onderwijs overgedragen kunnen worden aan een centrum voor deeltijdse vorming of aan een andere instelling met ervaring in het begeleiden van de doelgroep vermeld in artikel III.314/2 en omgezet kunnen worden in kredieten. In voorkomend geval beslist het schoolbestuur, na onderhandeling in het lokale comité, over de overdracht van maximum 61 lesuren naar een centrum voor deeltijdse vorming of een andere instelling voor realisatie van leerlinggebonden activiteiten voor de doelgroep vermeld in artikel III.314/2.<br>
-<br>
-§ 2. De omzetting van lesuren en uren van een school voor buitengewoon secundair onderwijs in een krediet voor een centrum voor deeltijdse vorming of voor een andere instelling, bestemd voor de organisatie van leerlinggebonden activiteiten voor de doelgroep vermeld in artikel 314/2 wordt als volgt vastgesteld :<br>
-1° het aantal lesuren en uren dat wordt omgezet in kredieten, wordt vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaarlesuren en een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Vlaams ministerie van Onderwijs en Vorming meegedeeld;<br>
-2° het bedrag dat wordt toegepast bij de omzetting van lesuren, wordt vastgesteld op 31,72 euro, het bedrag dat wordt toegepast bij de omzetting van uren wordt vastgelegd op 22,46 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat bedrag wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
-3° het product van het aantal jaarlesuren en jaaruren dat wordt overgedragen met het geïndexeerd bedrag vormt het krediet dat voorbehouden is voor de organisatie van leerlinggebonden activiteiten door het centrum voor deeltijdse vorming of door een andere instelling.<br>
-<br>
-Indien het krediet wordt toegekend aan een centrum voor deeltijdse vorming, wordt dit krediet toegekend, samen met de eerste schijf van de uitbetaling van de persoonlijke ontwikkelingstrajecten, vermeld in artikel 95 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
-<br>
-Indien het krediet wordt toegekend aan een andere instelling, wordt dit krediet toegekend in de loop van de maand februari van het schooljaar in kwestie.
+...
 
 ### ART. 314/2.
 
-§ 1. In de scholen van buitengewoon secundair onderwijs, bedoeld in deze onderafdeling wordt buitengewoon secundair onderwijs van opleidingsvorm 1, type 3 georganiseerd.<br>
-<br>
-De jongeren in de opleidingsvorm en het type vermeld in het vorig lid hebben ernstige gedrags- of emotionele stoornissen, vastgesteld door een psychiater. Deze jongeren functioneren daarenboven op het niveau van licht verstandelijke beperking. Door de complexiteit van hun problematiek zijn deze leerlingen niet in staat om voltijds onderwijs te lopen in het gewoon of buitengewoon secundair onderwijs en hebben zij een problematisch schoolverloop.<br>
-<br>
-§ 2. De scholen, bedoeld in deze onderafdeling, stellen zich open voor de doelgroep vermeld in paragraaf 1, en dit voor minimum 6 en maximum&nbsp;24 leerlingen.<br>
-<br>
-§ 3. De scholen, bedoeld in deze onderafdeling, werken samen met andere scholen van voltijds of centra van deeltijds gewoon secundair onderwijs voor de opvang van de doelgroep vermeld in paragraaf 1.<br>
-<br>
-§ 4. De scholen, bedoeld in deze onderafdeling, werken samen met internaten met een werking gericht op de ambulante begeleiding of opvang van de doelgroep vermeld in paragraaf 1.<br>
-<br>
-§ 5. De scholen, bedoeld in deze onderafdeling, werken samen met CLB's, voor de inschaling van de doelgroep vermeld in paragraaf 1.<br>
-<br>
-§ 6. De scholen, bedoeld in deze onderafdeling, werken samen met een centrum voor deeltijdse vorming of met een andere instelling met ervaring in het begeleiden van de doelgroep vermeld in paragraaf 1, die bereid zijn ondersteuning te bieden voor leerling-gebonden activiteiten voor de doelgroep vermeld in paragraaf 1.
+...
 
 ### ART. 314/3.
 
-§ 1. Een stuurgroep volgt de scholen, bedoeld in deze onderafdeling, op en evalueert hen. Deze stuurgroep bestaat uit ten minste één lid van de onderwijsinspectie, ten minste één afgevaardigde van het Vlaams ministerie van Onderwijs en Vorming, en ten minste één afgevaardigde per representatieve vakorganisatie en eveneens, naargelang de school, ten minste één afgevaardigde van ofwel het gemeenschapsonderwijs, ofwel de representatieve verenigingen van schoolbesturen van het gesubsidieerd officieel onderwijs ofwel van het gesubsidieerd vrij onderwijs.<br>
-<br>
-§ 2. Steeds vanuit de optiek om het onderwijs voor de doelgroep van gedragsmoeilijke leerlingen te bevorderen, moet de evaluatie, vermeld in paragraaf 1, resulteren in beleidsbeslissingen over eventuele decretale, reglementaire of andere maatregelen of acties op het vlak van optimalisering van het buitengewoon en gewoon secundair onderwijs voor leerlingen met ernstige gedrags- of emotionele stoornissen of een verlenging van deze maatregel.<br>
-<br>
-§ 3. De betrokken schoolbesturen, scholen, internaten, CLB's, centra en instellingen verlenen hun volledige medewerking aan de opvolging en evaluatie vermeld in paragraaf 1.<br>
-<br>
-De betrokken scholen brengen jaarlijks verslag uit bij de stuurgroep. Na de bespreking van het verslag op de stuurgroep, zijn er bijsturingen mogelijk. De inhoud van het verslag wordt bepaald door de stuurgroep. Dit verslag wordt uiterlijk op 30 juni ingediend bij de bevoegde dienst van de Vlaamse Gemeenschap
+...
 
 ### ART. 314/4.
 
-De bepalingen van deze onderafdeling treden in werking op 1 september 2011 en houden op van kracht te zijn op 31 augustus 2022.
+...
 
 ## [Onderafdeling 3/2. Waarborgregeling bij daling van het leerlingenaantal in het buitengewoon onderwijs (ing. decr. 21 maart 2014, art. III.56, I: 1 januari 2015)]
 
@@ -6777,164 +7503,11 @@ De bepalingen van deze onderafdeling treden in werking op 1 september 2011 en ho
 
 ### ART 314/8.
 
-§ 1. Met het oog op de invoering van ondersteuningsnetwerken in het basis- en secundair onderwijs kent de Vlaamse Regering jaarlijks binnen de beschikbare budgettaire ruimte personeelsomkadering onder de vorm van begeleidingseenheden, lestijden, lesuren en uren toe aan het buitengewoon onderwijs. Het betreft :<br>
-1° 18.013,5 begeleidingseenheden, waarvan 11.163 voor het basisonderwijs en 6850,5 voor het secundair onderwijs;<br>
-2° enerzijds de lestijden en uren, in toepassing van artikel 173septies van het decreet basisonderwijs en anderzijds de lesuren en uren in toepassing van artikel 314/5 van deze codex;<br>
-3° het extra budget ten belope van 2120 lestijden voor het basisonderwijs en 1410 lesuren voor het secundair onderwijs en 2188 uren, waarvan 1302 voor het basisonderwijs en 886 voor het secundair onderwijs.<br>
-<br>
-Begeleidingseenheden kunnen naargelang de aard van de ondersteuning die nodig is, omgezet worden in lestijden, lesuren en uren.<br>
-<br>
-De lestijden, respectievelijk de lesuren, en uren, inclusief de omgezette begeleidingseenheden, worden voor scholen buitengewoon basisonderwijs beschouwd als extra lestijden en extra uren, zoals bedoeld in artikel 3, 14° en 14° bis, van het decreet basisonderwijs, en voor scholen buitengewoon secundair onderwijs als extra lesuren en uren.<br>
-<br>
-De lestijden, respectievelijk de lesuren, en uren, inclusief de omgezette begeleidingseenheden, kunnen, in afwijking van artikel 20 en artikel 313, § 2, overgedragen worden binnen het onderwijsniveau, op voorwaarde dat daarover een protocol van akkoord wordt bereikt in het bevoegde onderhandelingscomité van de overdragende school van buitengewoon onderwijs. De lesuren, en uren, inclusief de omgezette begeleidingseenheden, kunnen, in afwijking van artikel 21 en artikel 313, § 1, niet overgedragen worden naar het daaropvolgende schooljaar.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 2/1. ...<br>
-<br>
-§ 3. Het budget, vermeld in paragraaf 1, wordt door de Vlaamse Regering toegewezen aan ondersteuningsnetwerken en volledig toegekend aan de scholen buitengewoon onderwijs, voor de ondersteuning in het gewoon basis- of secundair onderwijs van leerlingen met een inschrijvingsverslag waarover ze beschikken omdat ze, voor het basisonderwijs, vallen onder de toepassing van artikel 16, § 2, van het decreet basisonderwijs van 25 februari 1997 of, voor het secundair onderwijs, vallen onder de toepassing van artikel 352, § 2, van deze codex en leerlingen met een gemotiveerd verslag of een verslag type basisaanbod, 3 of 9, die voldoen aan de criteria, vermeld in artikel 10, § 1, eerste lid, 1°, 3° en 8°, van het decreet basisonderwijs van 25 februari 1997 of artikel 259, § 1, 1°, 3° en 8°, van deze codex, waarbij:<br>
-1° 70 % wordt verdeeld op basis van het leerlingenaantal op de eerste schooldag van februari van het voorafgaande schooljaar van de scholen en centra voor gewoon onderwijs van het ondersteuningsnetwerk;<br>
-2° 30 % wordt verdeeld op basis van het gemiddeld aantal leerlingen met een verslag, gemotiveerd verslag of inschrijvingsverslag in de scholen en centra voor gewoon onderwijs van het ondersteuningsnetwerk op de eerste schooldag van februari van de zes voorafgaande schooljaren;<br>
-3° in afwijking van punt 2° gelden als teldagen:<br>
-a) voor het schooljaar 2017-2018: de eerste schooldag van oktober van de schooljaren 2011-2012 tot en met 2016-2017;<br>
-b) voor het schooljaar 2018-2019: de eerste schooldag van oktober van de schooljaren 2012-2013 tot en met 2016-2017 en de eerste schooldag van februari van het schooljaar 2017-2018;<br>
-c) voor het schooljaar 2019-2020: de eerste schooldag van oktober van de schooljaren 2013-2014 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018 en 2018-2019.<br>
-d) voor het schooljaar 2020-2021: de eerste schooldag van oktober van de schooljaren 2014-2015 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019 en 2019-2020;<br>
-e) voor het schooljaar 2021-2022: de eerste schooldag van oktober van de schooljaren 2015-2016 en 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019, 2019-2020 en 2020-2021;<br>
-f) voor het schooljaar 2022-2023: de eerste schooldag van oktober van het schooljaar 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018, 2018-2019, 2019-2020, 2020-2021 en 2021-2022.<br>
-<br>
-Voor de middelen, vermeld in paragraaf 1, 2°, gebeurt deze verdeling afzonderlijk voor het basisonderwijs en voor het secundair onderwijs.<br>
-<br>
-Bij haar toewijzing aan de ondersteuningsnetwerken, vermeld in het eerste lid, garandeert de Vlaamse Regering jaarlijks 18.974 lestijden en 17.845 uren voor basisonderwijs en 10.761 lesuren en 3614 uren voor secundair onderwijs. De toepassing hiervan zal gemonitord worden en indien nodig in het schooljaar 2022-2023 bijgestuurd worden.<br>
-<br>
-Scholen voor gewoon en buitengewoon onderwijs delen uiterlijk op 30 juni 2017 aan het Agentschap voor Onderwijsdiensten mee met welke scholen zij op dit moment samenwerken in het kader van gon, ion en waarborg in functie van de ondersteuning van leerlingen met specifieke onderwijsbehoeften, en bij welk ondersteuningsnetwerk ze voor het schooljaar 2017-2018 aansluiten. Daarna moeten wijzigingen aan de samenstelling jaarlijks uiterlijk op 1 maart van het voorafgaande schooljaar worden meegedeeld.<br>
-<br>
-Voor de vorming van de ondersteuningsnetwerken wordt maximaal ingezet op samenwerking met scholen van andere netten. Deze samenwerking kan minimaal volgende vormen aannemen :<br>
-a) scholen kunnen indien ze dit wensen, opteren voor ondersteuning door een ondersteuningsnetwerk van een ander net;<br>
-b) het versterken van de internettensamenwerking.<br>
-<br>
-Voor het gesubsidieerd officieel onderwijs en het GO!-onderwijs van de Vlaamse Gemeenschap maken de inrichtende machten tegen 1 januari 2018 sluitende afspraken over logische regionale gebieden waarbinnen er slechts een ondersteuningsnetwerk actief is en waarbij binnen de regio alle officiële scholen zich aansluiten en die over ondersteuning en begeleiding in het kader van ondersteuning van kinderen met specifieke onderwijsbehoeften, afspraken kunnen maken met eender welk ander ondersteuningsnetwerk.<br>
-<br>
-In het kader van deze afspraken kunnen scholen van buitengewoon onderwijs middelen overdragen aan scholen buitengewoon onderwijs van een ondersteuningsnetwerk dat behoort tot een ander onderwijsnet.<br>
-<br>
-Aan één school voor buitengewoon onderwijs die behoort tot een ondersteuningsnetwerk worden middelen toegekend voor de coördinatie van dit ondersteuningsnetwerk. Deze middelen komen globaal overeen met het aantal voltijdse betrekkingen dat overeenkomt met het aantal bestaande ondersteuningsnetwerken in het schooljaar 2018-2019.<br>
-<br>
-De middelen voor coördinatie worden in mindering gebracht van de budgetten die de pedagogische begeleidingsdiensten ontvingen in toepassing van artikel 21/1 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. De Vlaamse Regering bepaalt de wijze waarop deze middelen in mindering worden gebracht en de wijze van toekenning van de lestijden, lesuren of uren voor de coördinatie van het ondersteuningsnetwerk.<br>
-<br>
-Middelen voor coördinatie van een ondersteuningsnetwerk van het overleg kleine onderwijsverstrekkers kunnen worden georganiseerd vanuit het begeleidingskorps dat aan de kleine onderwijsverstrekkers werd toegekend in toepassing van artikel VI.1, § 4, van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften<br>
-<br>
-§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in artikel 314/9, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de schooljaren 2017-2018 tot en met 2022-2023 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
-<br>
-De middelen die het dalende onderwijsnet op die wijze ontvangt, vallen onder de regie van dat onderwijsnet om de verliezen in het buitengewoon onderwijs te compenseren zodat er geen verlies is aan tewerkstelling en ondersteuning die vandaag bestaat. Deze middelen worden tijdens de transitieperiode ingezet voor de verdere ondersteuning van scholen en centra in het gewoon onderwijs van de onderwijsnetten.<br>
-<br>
-§ 5. Voor ondersteuningsnetwerken die netoverstijgend zijn samengesteld fungeert de gemeenschappelijke vergadering, vermeld in § 9, als commissie. Voor het gesubsidieerd vrij onderwijs, het gesubsidieerd officieel onderwijs en het GO!-onderwijs van de Vlaamse Gemeenschap, wordt telkens een commissie opgericht die in een gelijke vertegenwoordiging is samengesteld uit leden van het GO!-onderwijs van de Vlaamse Gemeenschap respectievelijk de representatieve verenigingen van inrichtende machten en de representatieve groeperingen van personeelsverenigingen aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie. In de schoot van de commissie voor het gesubsidieerd vrij onderwijs kan voor een of meer groepen binnen het gesubsidieerd vrij onderwijs anders dan het gesubsidieerd vrij katholiek onderwijs, een subcommissie opgericht worden. Bij de toewijzing wordt rekening gehouden met de volgende criteria : er mag geen verlies aan tewerkstelling en bestaande ondersteuning zijn zodat de verschuivingen zo maximaal mogelijk op een natuurlijke manier tot stand komen.<br>
-<br>
-De Vlaamse Regering wijst de omkadering, vermeld in paragraaf 3 en paragraaf 4, toe aan de ondersteuningsnetwerken op voorstel van de commissies, vermeld in het eerste lid, en kent de omkadering toe aan de scholen voor buitengewoon onderwijs. De commissies houden bij hun voorstellen tijdens de transitieperiode rekening met de beoogde ondersteuning van de ondersteuningsnetwerken, zoals bepaald overeenkomstig paragraaf 3.<br>
-<br>
-In afwijking hiervan worden de in paragraaf 1, 1°, vermelde 18.013,5 begeleidingseenheden door de Vlaamse Regering rechtstreeks terug verdeeld naar de scholen voor buitengewoon onderwijs die in het schooljaar 2016-2017 begeleidingen deden in het kader van het geïntegreerd onderwijs naar rato van:<br>
-1° 100 % in het schooljaar 2017-2018;<br>
-2° 66 % in het schooljaar 2018-2019;<br>
-3° 33 % in het schooljaar 2019-2020.<br>
-<br>
-Het aandeel begeleidingseenheden waarover de commissies in de schooljaren 2018-2019 en 2019-2020 bevoegd worden, worden uitgedrukt in lestijden, lesuren en uren.<br>
-<br>
-§ 6. Het personeelslid dat in een betrekking wordt aangesteld op basis van de lestijden, lesuren of uren als vermeld in het laatste lid van paragraaf 1 en het laatste lid van paragraaf 3, wordt steeds aangesteld als tijdelijk personeelslid voor bepaalde duur. De bepalingen van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs of het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs zijn, naargelang van het geval, van toepassing op deze aanstelling, met uitzondering van de volgende bepalingen :<br>
-1° de betrekking is niet onderworpen aan de reglementering betreffende terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur van de school waar de betrekking wordt opgericht, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid en is, naargelang van het geval, een reaffectatie, een wedertewerkstelling of een tewerkstelling. Indien deze aanstelling een tewerkstelling is, dan wordt ze beschouwd als een wedertewerkstelling;<br>
-2° het schoolbestuur van de school waaraan de betrekking wordt toegewezen, is niet verplicht om in de betrekking een personeelslid aan te stellen dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikelen 21 en 21bis van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs, naargelang van het geval;<br>
-3° de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in de betrekking.<br>
-<br>
-§ 7. De afspraken die samenwerkende scholen in dit project maken betreffende de inzetbaarheid van de personeelsleden, vallen onder de toepassing van artikel 12quater van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs en artikel 17quater van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs.<br>
-<br>
-§ 8. In afwijking van artikel 2, 7, 7bis, 7quater, 9, 11, 13 en 15 van het besluit van de Vlaamse Regering van 14 maart 2003 betreffende de vastlegging van de prestaties van een ambt in het buitengewoon secundair onderwijs en in afwijking van artikel 3, eerste lid, voor wat betreft het prestatiestelsel van het besluit van de Vlaamse Regering van 21 december 1994 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het buitengewoon secundair onderwijs van opleidingsvorm 4 geldt tijdens het schooljaar 2017-2018 tot en met schooljaar 2022-2023 een aangepaste prestatieregeling voor het personeelslid dat aangesteld wordt in een betrekking in het buitengewoon secundair onderwijs.<br>
-<br>
-De wekelijkse prestaties in een voltijdse betrekking bedragen 26 klokuren. Binnen die 26 klokuren presteert het personeelslid een opdracht van 22 lesuren als het personeelslid aangesteld is in een ambt van het onderwijzend personeel of in een ambt van het paramedisch personeel, en een opdracht van 22 uren als het personeelslid aangesteld is in een ambt van het medisch, sociaal, psychologisch en orthopedagogisch personeel.<br>
-<br>
-De opdracht van 22 lesuren of 22 uren, vermeld in het tweede lid, bestaat in de ondersteuning van het onderwijzend personeel en van de jongere die de ondersteuning nodig heeft in het gewoon onderwijs.<br>
-<br>
-De tijd die nodig is voor professionalisering, overleg en samenwerking, coördinatietaken en dienstverplaatsingen, maakt deel uit van de opdracht van 26 klokuren, vermeld in het tweede lid.<br>
-<br>
-De deelname aan oudercontacten en aan personeelsvergaderingen vallen buiten de wekelijkse opdracht van 26 klokuren. Deze opdrachten vallen niet noodzakelijk binnen de periode van normale aanwezigheid van de leerlingen.<br>
-<br>
-In het kader van de uitwerking van dit decreet zullen de competentiebegeleiders, vermeld in artikel VI.1 van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften, in hun taakstelling bijzondere aandacht besteden aan de opdracht, vermeld in paragraaf 2, 4°, door hen effectief in te zetten om in de ondersteuningsnetwerken te werken aan expertiseontwikkeling.<br>
-<br>
-§ 8/1. In elk ondersteuningsnetwerk wordt ten minste één personeelslid aangesteld in een school voor buitengewoon onderwijs, dat belast wordt met coördinerende taken. Een voltijdse betrekking wordt steeds toegekend hetzij aan één personeelslid, hetzij aan twee personeelsleden die elk met een halftijdse betrekking worden belast.<br>
-<br>
-Met behoud van de toegekende middelen voor coördinatie, vermeld in paragraaf 3, negende en tiende lid, kan tot een door de Vlaamse Regering te bepalen maximumpercentage van het totale budget van een ondersteuningsnetwerk aangewend worden voor coördinatieopdrachten voor het ondersteuningsnetwerk. Dit kan enkel wanneer het ondersteuningsnetwerk kan aantonen dat de toegekende middelen voor coördinatie ontoereikend zijn. Deze middelen mogen enkel ingezet worden voor coördinatietaken.<br>
-<br>
-Paragraaf 6, 7 en 8 zijn van toepassing op de personeelsleden, vermeld in het eerste en tweede lid.<br>
-<br>
-§ 9. Een stuurgroep die wordt opgericht in de schoot van deze gemeenschappelijke vergadering van het Sectorcomité X - Onderwijs (Vlaamse Gemeenschap), het Comité voor de provinciale en plaatselijke overheidsdiensten - afdeling 2 - onderafdeling `Vlaamse Gemeenschap' en het Overkoepelend onderhandelingscomité gesubsidieerd vrij onderwijs, staat in voor de voorbereiding, opvolging en aansturing van de invoering van ondersteuningsnetwerken. De onderwijsinspectie en administratie zullen toezicht houden op de toekenning en aanwending van de middelen voor personeelsomkadering, vermeld in paragraaf 1, op de werking van de ondersteuningsnetwerken, de coördinatie en de aansturing van de teams en op de kwaliteit van de ondersteuning op niveau van het effect voor leraren, lerarenteams en leerlingen. Een vertegenwoordiging vanuit de erkende ouderverenigingen en vanuit belangenorganisaties van ouders van leerlingen met specifieke onderwijsbehoeften kan worden uitgenodigd door de stuurgroep.<br>
-<br>
-§ 10. De overheid zal een grondige evaluatie en monitoring doorvoeren waarvan de resultaten op 1 september 2019 beschikbaar zijn. Deze evaluatie zal uitgevoerd worden in samenspraak met de stuurgroep, vermeld in paragraaf 9, door een onafhankelijke commissie van experten en academici en heeft onder meer betrekking op :<br>
-1° het gehanteerde verdelingsmechanisme;<br>
-2° de personeelseffecten;<br>
-3° de ondersteuning in de klas voor de leerling en de leerkracht en de leerlingenbewegingen;<br>
-4° de doelmatige aanwending van de middelen.<br>
-<br>
-§ 11. Voor de toepassing van dit artikel wordt school begrepen als een gefinancierde of gesubsidieerde school.
+...
 
 ### ART 314/9.
 
-§ 1. Scholen voor gewoon secundair onderwijs kunnen vanuit scholen buitengewoon onderwijs, die over de vereiste handicapspecifieke expertise beschikken, ondersteuning ontvangen voor:<br>
-1° leerlingen met een inschrijvingsverslag type 2, 4, 6 of 7, waarover deze leerlingen beschikken omdat ze vallen onder de toepassing van artikel 352, § 2;<br>
-2° leerlingen met een gemotiveerd verslag type 2, 4, 6 of 7, vermeld in artikel 352;<br>
-3° leerlingen met een verslag type 2, 4, 6 of 7, vermeld in artikel 294.<br>
-<br>
-§ 2. De school voor gewoon secundair onderwijs deelt per leerling, vermeld in paragraaf 1, die nood heeft aan ondersteuning en die geteld wordt op de teldagen vermeld in paragraaf 4, aan het agentschap voor onderwijsdiensten mee welke school voor buitengewoon onderwijs de ondersteuning opneemt voor het betrokken schooljaar. De school betrekt de ouders van de betrokken leerlingen en het CLB bij deze keuze. De school voor gewoon onderwijs is verantwoordelijk om voor de leerlingen, die al gekend zijn die keuze voor het einde van het voorafgaande schooljaar mee te delen aan de scholen voor buitengewoon onderwijs waarmee ze zal samenwerken.<br>
-<br>
-De scholen voor gewoon secundair onderwijs kunnen netoverschrijdende samenwerkingen aangaan met scholen voor buitengewoon onderwijs. De aangeduide scholen voor buitengewoon onderwijs zijn bepalend voor de toekenning van lesuren, uren en begeleidingseenheden aan die scholen.<br>
-<br>
-§ 3. De lesuren, uren en begeleidingseenheden worden als volgt bepaald:<br>
-1° voor leerlingen met een verslag type 2, 4, 6 en 7 in het gewoon secundair onderwijs en leerlingen met een inschrijvingsverslag type 2 in het gewoon secundair onderwijs:<br>
-a) type 2: 4 lesuren en 1,5 uren;<br>
-b) type 4: 3,420 lesuren en 3,5 uren;<br>
-c) type 6: 4,436 lesuren en 1,5 uren;<br>
-d) type 7: 3,850 lesuren en 1,6 uren;<br>
-2° voor leerlingen met een inschrijvingsverslag type 4, 6 of 7 in het gewoon secundair onderwijs of een gemotiveerd verslag type 2, 4, 6 of 7 in het gewoon secundair onderwijs:<br>
-a) type 2: 2 begeleidingseenheden;<br>
-b) type 4: 2 begeleidingseenheden;<br>
-c) type 6: 3,51 begeleidingseenheden;<br>
-d) type 7: 2,38 begeleidingseenheden.<br>
-<br>
-De lesuren, de uren en de begeleidingseenheden worden per school voor buitengewoon onderwijs telkens per type en afzonderlijk voor punt 1° en 2° opgeteld en in geval van een decimaal getal naar de hogere eenheid afgerond.<br>
-<br>
-In functie van extra ondersteuningsnoden voor leerlingen met een verslag type 2, 4, 6 of 7 of met een inschrijvingsverslag type 2 bovenop de lesuren die ze genereren in een school voor gewoon onderwijs of het behoud van expertise en tewerkstelling in een school voor buitengewoon onderwijs die het aanbod heeft voor leerlingen conform artikel 259, § 1, 2° en/of 4°, en/of 6°, en/of 7°, kan, met toepassing van omzettingstabellen voor aanwending in wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel die de Vlaamse Regering vastlegt, een omzetting gebeuren van lesuren naar uren of omgekeerd om voormelde leerlingen, indien de situatie het vereist, beter te ondersteunen. Deze omzetting is afhankelijk van het akkoord van de ouders en van de lokale onderhandelingscomités van de school voor gewoon en buitengewoon onderwijs.<br>
-<br>
-§ 4. De teldagen voor de toekenning van de lesuren, uren en begeleidingseenheden aan scholen voor buitengewoon onderwijs zijn:<br>
-1° de eerste schooldag van oktober van het lopende schooljaar;<br>
-2° de eerste schooldag van februari van het lopende schooljaar.<br>
-<br>
-De lesuren, uren en begeleidingseenheden toegekend op basis van de telling op de eerste schooldag van oktober van het lopende schooljaar vormt het gegarandeerde basispakket voor het volledige schooljaar.<br>
-<br>
-Als op basis van de berekening, vermeld in paragraaf 1, 2, en 3, op de eerste schooldag van februari een hoger aantal lesuren, uren of begeleidingseenheden per type gegenereerd wordt voor een school voor buitengewoon onderwijs in vergelijking met het aantal dat op de eerste schooldag van oktober werd toegekend, ontvangt deze school dit verschil aan lesuren, uren of begeleidingseenheden per type met ingang van de eerste schooldag van februari. In geval van een daling behoudt de school voor buitengewoon onderwijs de lesuren, uren en begeleidingseenheden per type berekend op basis van de eerste schooldag van oktober.<br>
-<br>
-§ 5. Scholen voor buitengewoon onderwijs ontvangen de lesuren, uren en begeleidingseenheden voor de leerlingen van de scholen voor gewoon secundair onderwijs waarmee ze samenwerken.<br>
-<br>
-In geval een school voor gewoon secundair onderwijs voor ondersteuning samenwerkt met een school voor buitengewoon basisonderwijs worden de lesuren, vermeld in paragraaf 3, 1°, door het agentschap voor onderwijsdiensten toegekend als lestijden.<br>
-<br>
-Begeleidingseenheden kunnen naargelang de aard van de ondersteuning die nodig is, omgezet worden in lesuren of uren.<br>
-<br>
-§ 6. De lesuren en uren, inclusief de omgezette begeleidingseenheden, worden voor scholen buitengewoon secundair onderwijs beschouwd als extra lesuren en extra uren en als extra lestijden en uren in scholen voor buitengewoon basisonderwijs, zoals bedoeld in artikel 3, 14° en 14° bis, van het decreet basisonderwijs van 25 februari 1997, indien de school voor gewoon secundair onderwijs voor ondersteuningen samenwerkt met een school voor buitengewoon basisonderwijs.<br>
-<br>
-De lesuren en uren, inclusief de omgezette begeleidingseenheden kunnen in afwijking van artikel 19, 20 en 313, § 2, netoverschrijdend en na 1 november overgedragen worden en in afwijking van artikel 2, § 3, overgedragen worden van een school van buitengewoon secundair onderwijs naar een school van buitengewoon basisonderwijs.<br>
-<br>
-De lesuren en uren, inclusief de omgezette begeleidingseenheden, kunnen, in afwijking van artikel 21 en artikel 313, § 1, niet overgedragen worden naar het daaropvolgende schooljaar.<br>
-<br>
-Paragraaf 6, 7 en 8 van artikel 314/8 zijn van toepassing op de personeelsleden die aangesteld worden in de extra lesuren en extra uren.<br>
-<br>
-§ 7. Scholen voor buitengewoon onderwijs werken netoverschrijdend samen om aan expertisedeling te doen in functie van hun ondersteunende opdracht naar scholen voor gewoon onderwijs.<br>
-<br>
-§ 8. De scholen voor gewoon secundair onderwijs hebben recht op ondersteuning van de scholen voor buitengewoon onderwijs. In onderling overleg en met betrokkenheid van de ouders, waar mogelijk de leerling en met het CLB wordt bepaald hoe de lesuren, uren en begeleidingseenheden die de leerlingen met toepassing van paragraaf 3 en op basis van de teldagen vermeld in paragraaf 4 inbrengen, worden ingezet naargelang de vastgestelde ondersteuningsnoden.<br>
-<br>
-De ondersteuning kan binnen de school voor gewoon secundair onderwijs en over scholen voor gewoon secundair onderwijs heen flexibel aangewend worden voor leerlinggerichte, leerkrachtgerichte of teamgerichte ondersteuning op basis van de ondersteuningsnoden die er zijn. Er kunnen geen lesuren, uren of begeleidingseenheden toegekend in toepassing van dit artikel aangewend worden voor ondersteuning in toepassing van artikel 314/8.<br>
-<br>
-De scholen voor buitengewoon onderwijs starten met ondersteuning vanaf de eerste schooldag van het lopende schooljaar en in voorkomend geval ook vanaf de eerste schooldag van februari voor de leerlingen met een inschrijvingsverslag, gemotiveerd verslag of verslag type 2, 4, 6 of 7 die al gekend zijn en waarvoor er nood is aan ondersteuning.<br>
-<br>
-§ 9. De onderwijsinspectie voert gerichte kwaliteitscontroles uit op de handelingsgerichte diagnostische trajecten die leiden tot de opmaak van verslagen en gemotiveerde verslagen type 2, 4, 6 en 7.<br>
-<br>
-§ 10. Het toezicht door de onderwijsinspectie en de administratie en de evaluatie en monitoring, als vermeld in artikel 314/8, § 9 en § 10, zijn ook van toepassing op de uitvoering van dit artikel.<br>
-<br>
-§ 11. Voor de toepassing van dit artikel wordt school begrepen als een gefinancierde of gesubsidieerde school.
+...
 
 ## Onderafdeling 4. Plage uren
 
@@ -6956,8 +7529,8 @@ Artikel 216, § 5, is eveneens van toepassing in de scholen van het buitengewoon
 
 Scholen kunnen jaarlijks extra lesuren krijgen voor zover ze aan alle onderstaande voorwaarden voldoen:<br>
 1° op 1 februari van het voorafgaande of daaraan voorafgaande schooljaar ten minste 40% regelmatige leerlingen type basisaanbod en type 3 tellen, die beantwoorden aan de in artikel 317, §1, 1°, bedoelde gelijkekansenindicator en die niet:<br>
-- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, §1, 40, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-- in een internaat buitengewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, §1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum als vermeld in artikel 10, §1, 1°, en §2, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- ...;<br>
 2° overeenkomstig de bepalingen van artikel 319 batig gerangschikt zijn onder de in punt 1° bedoelde scholen en ten minste 6 extra lesuren genereren.
 
 ### ART. 319.
@@ -7001,16 +7574,14 @@ e) het aanbod van de keuze tussen onderricht in een van de erkende godsdiensten 
 
 ### ART. 324.
 
-§ 1.Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het startbedrag voor de werkingsmiddelen voor het buitengewoon secundair onderwijs 23.865.000 euro.<br>
+§ 1.....<br>
 <br>
 § 2. De berekening van het werkingsbudget vanaf begrotingsjaar 2010 gebeurt als volgt :<br>
-1° vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het buitengewoon secundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar;<br>
-2° voor het begrotingsjaar 2016 wordt het werkingsbudget voor het buitengewoon secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar;<br>
+1° ...;<br>
+2° ...;<br>
 3°&nbsp;vanaf het begrotingsjaar 2017 wordt het werkingsbudget voor het buitengewoon secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br>
 <br>
-§ 3. Voor het begrotingsjaar 2009 wordt het bedrag van 23.865.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
-<br>
-Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
+§ 3.&nbsp;Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
 <br>
 De coëfficiënten A1 en A2 worden als volgt berekend :<br>
 1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij :<br>
@@ -7020,15 +7591,13 @@ b) punten 0 = het totale aantal punten voor schoolkenmerken, zoals berekend na d
 a) Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
 b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
 De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
-3° in afwijking van 2° is de A2-coëfficiënt voor het begrotingsjaar 2010 gelijk aan 1;<br>
-4° in afwijking van punt 2° is voor het begrotingsjaar 2012 de coëfficiënt A2= 0,6 (Cx-1/Cx-2) + 0,4.<br>
-5° in afwijking van punt 2° is voor het begrotingsjaar 2013 de coëfficiënt A2 = 0,6 (Cx-1/Cx-2) + 0,4.<br>
-6° in afwijking van punt 2° is voor het begrotingsjaar 2015 de coëfficiënt A2 = 0,6 (Cx-1/Cx-2) + 0,4;<br>
-7° het bedrag voor het begrotingsjaar 2015 verkregen na toepassing van § 3, 1° tot en met 6°, wordt in het begrotingsjaar 2015 met 1.119.000 euro verminderd.<br>
+3° ...;<br>
+4° ...<br>
+5° ...<br>
+6° ...;<br>
+7° ...<br>
 <br>
-§ 4. Het bedrag verkregen door toepassing van § 3 wordt voor de begrotingsjaren 2009, 2012, 2013, 2014 en 2015 verhoogd met de loonkosten die jaarlijks vrijkomen door de toepassing van artikel 192, § 2, en met 70 % van de loonkosten die vrijkomen door toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br>
-<br>
-Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar 2016 verhoogd met 40 % van de loonkosten die vrijkomen door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen. (323)
+§ 4. ...
 
 ### ART. 325.
 
@@ -7115,35 +7684,11 @@ Daarbij worden de middelen voor de schoolbesturen van het vrij gesubsidieerd ond
 
 ### ART 330/3.
 
-§ 1. Er worden jaarlijks werkingsmiddelen toegekend aan de schoolbesturen van scholen buitengewoon onderwijs die met toepassing van artikel 314/8 en 314/9 ondersteuning bieden.<br>
-<br>
-§ 2. Voor de leerlingen, vermeld in artikel 314/8 en 314/9, § 3, 2°, worden de voormelde werkingsmiddelen voor het schooljaar (X, X+1) berekend door het aantal aan de schoolbesturen toegekende begeleidingseenheden, extra lesuren, en extra uren in het kader van het ondersteuningsmodel, vermeld in artikel 314/8 en 314/9, § 3, 2°, in voorkomend geval na overdrachten, te vermenigvuldigen met een bedrag per begeleidingseenheid, lesuur of uur.<br>
-<br>
-Het bedrag, vermeld in het eerste lid, werd berekend door het budget dat op de onderwijsbegroting voor 2018 voorzien was voor de toekenning van werkingsmiddelen voor het ondersteuningsmodel te delen door het totaal aantal toegekende begeleidingseenheden, extra lestijden, extra lesuren en extra uren in het kader van het ondersteuningsmodel voor het schooljaar 2017-2018.<br>
-<br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule:<br>
-A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x- 2.<br>
-<br>
-§ 3. Voor de leerlingen, vermeld in artikel 314/9, § 3, 1°, die op een van de teldagen, vermeld in artikel 314/9, § 4, begeleid worden, krijgt de begeleidende school voor buitengewoon onderwijs de volgende werkingsmiddelen toegekend:<br>
-1° type 2, 6 of 7: 355,06 euro per leerling;<br>
-2° type 4: 529,26 euro per leerling.<br>
-<br>
-De werkingsmiddelen toegekend aan de school voor buitengewoon onderwijs op basis van de leerlingen op de eerste schooldag van oktober, worden gegarandeerd voor het volledige schooljaar.<br>
-<br>
-Als op basis van de telling op de eerste schooldag van februari van het lopende schooljaar en met toepassing van de bedragen, vermeld in het eerste lid, 1° en 2°, een hoger bedrag aan werkingsmiddelen wordt bekomen voor een school voor buitengewoon onderwijs in vergelijking met de werkingsmiddelen toegekend op basis van de telling van de eerste schooldag van oktober, dan ontvangt deze school dit verschil aan werkingsmiddelen. In geval van een daling behoudt de school voor buitengewoon onderwijs de werkingsmiddelen berekend op basis van de eerste schooldag van oktober.<br>
-<br>
-In geval een school voor gewoon secundair onderwijs voor ondersteuning samenwerkt met een school voor buitengewoon basisonderwijs, dan worden de werkingsmiddelen bepaald met toepassing van de bedragen, vermeld in het eerste lid, 1° en 2°, toegekend aan die school voor buitengewoon basisonderwijs.<br>
-<br>
-§ 4. De bedragen, vermeld in paragraaf 3, eerst lid, 1° en 2°, worden jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule:<br>
-A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x- 2
+...
 
 ### ART 330/4.
 
-Aan scholen voor buitengewoon secundair onderwijs die actief zijn in het ondersteuningsmodel, in toepassing van artikel 314/8 en 314/9, wordt voor het schooljaar 2021-2022 eenmalig een budget toegekend in functie van het professionaliseren van ondersteuners. Voor het begrotingsjaar 2021 gaat het om 475.716 euro en voor begrotingsjaar 2022 gaat het om 951.763 euro. De middelen worden ingezet om in het schooljaar 2021-2022 en in het eerste trimester van het schooljaar 2022-2023 personeelsleden aan te stellen die ondersteuners vervangen tijdens een periode van professionalisering. De Vlaamse Regering legt daartoe het verdelingsmechanisme over de scholen, de toepassingsmodaliteiten en de modaliteiten met betrekking tot het lokaal sociaal overleg vast.
+...
 
 ## Onderafdeling 6. Evaluatie
 
@@ -7208,7 +7753,15 @@ In het buitengewoon secundair onderwijs kunnen twee of meer vakken van de algeme
 
 ### ART. 334/2.
 
-§ 1. Opleidingsvorm 2 omvat twee fasen, elke fase duurt ten minste twee   leerjaren:<BR>1° de eerste fase geeft voorrang aan de algemene en sociale   vorming en waarborgt tevens de arbeidsgerichte vorming. Ten minste vijftien van   de wekelijkse lesuren worden voorbehouden aan de algemene en sociale   vorming;<BR>2° de tweede fase geeft voorrang aan de arbeidsgerichte vorming. Ten   minste negen van de wekelijkse lesuren worden voorbehouden aan de algemene en   sociale vorming.<BR><BR>§ 2. De klassenraad, in samenspraak met het centrum voor   leerlingenbegeleiding, bepaalt voor iedere leerling de respectieve duur van elke   fase.<BR><BR>§ 3. In deze opleidingsvorm kunnen leerlingenstages worden   ingericht, gedurende een beperkt aantal dagen. Deze worden georganiseerd   gedurende de tweede fase, tijdens het schooljaar. Uitzonderlijk kunnen deze   leerlingenstages georganiseerd worden tijdens de vakanties. Een leerling kan   tijdens het laatste jaar van de tweede fase op basis van individuele   handelingsplanning, na beslissing van de klassenraad, en zo mogelijk in   samenspraak met de ouders en de leerling, een leerlingenstage volgen onder een   alternerende vorm van leerlingenstage en vorming op school op   weekbasis.<BR><BR>§ 4. Iedere leerling die de school verlaat na de duur zoals   bepaald in paragraaf 2, heeft recht op een attest, waarvan het model wordt   bepaald door de Vlaamse Regering, uitgereikt door de directeur op het einde van   het schooljaar of in de loop van het schooljaar.
+§ 1. Opleidingsvorm 2 omvat twee fasen, elke fase duurt ten minste twee leerjaren:<br>
+1° de eerste fase geeft voorrang aan de algemene en sociale vorming en waarborgt tevens de arbeidsgerichte vorming. Ten minste vijftien van de wekelijkse lesuren worden voorbehouden aan de algemene en sociale vorming;<br>
+2° de tweede fase geeft voorrang aan de arbeidsgerichte vorming. Ten minste negen van de wekelijkse lesuren worden voorbehouden aan de algemene en sociale vorming.<br>
+<br>
+§ 2. De klassenraad, in samenspraak met het centrum voor leerlingenbegeleiding, bepaalt voor iedere leerling de respectieve duur van elke fase.<br>
+<br>
+§ 3. In deze opleidingsvorm kunnen leerlingenstages worden ingericht, gedurende een beperkt aantal dagen. Deze worden georganiseerd gedurende de tweede fase, tijdens het schooljaar. Uitzonderlijk kunnen deze leerlingenstages georganiseerd worden tijdens de vakanties. Een leerling kan tijdens het laatste jaar van de tweede fase op basis van het individueel aangepaste curriculum, vermeld in artikel 122/1/0, na beslissing van de klassenraad, en zo mogelijk in samenspraak met de ouders en de leerling, een leerlingenstage volgen onder een alternerende vorm van leerlingenstage en vorming op school op weekbasis.<br>
+<br>
+§ 4. Iedere leerling die de school verlaat na de duur zoals bepaald in paragraaf 2, heeft recht op een attest, waarvan het model wordt bepaald door de Vlaamse Regering, uitgereikt door de directeur op het einde van het schooljaar of in de loop van het schooljaar.
 
 ## HOOFDSTUK 2. Bepalingen betreffende de scholen van de opleidingsvorm 3
 
@@ -7327,9 +7880,9 @@ De onderwijsinspectie is belast met de evaluatie van het experiment. De scholen 
 
 ### ART. 350.
 
-Artikel 123/21, 124, 126, 128, 133/1 tot en met 133/7, 134, 134/1, 134/2, 136, 136/3 tot en met 136/6, 148, 149, 150, 151, 152, 153, 154, 156, 157 en 157/2 tot en met 157/9, zijn ook van toepassing voor opleidingsvorm 4 in de scholen met opleidingsvorm 4, behalve voor het onthaalonderwijs dat er niet kan worden georganiseerd.<br>
+Artikel 123/21, 124, 126, 128, 133/1 tot en met 133/7, 134, 134/1, 134/2, 136, 136/3 tot en met 136/6, 150, 151, 152, 157 en 157/2 tot en met 157/9, zijn ook van toepassing voor opleidingsvorm 4 in de scholen met opleidingsvorm 4, behalve voor het onthaalonderwijs dat er niet kan worden georganiseerd.<br>
 <br>
-In opleidingsvorm 4 moet een gemeenschappelijk curriculum van het gewoon voltijds secundair onderwijs gevolgd worden en moeten er eveneens, naargelang de noden van de leerlingen, gepaste en redelijke aanpassingen genomen worden, waaronder remediërende, differentiërende, compenserende of dispenserende maatregelen. De klassenraad werkt hiervoor op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding en de ouders.
+In opleidingsvorm 4 wordt een gemeenschappelijk curriculum van het gewoon voltijds secundair onderwijs gevolgd. Dat gemeenschappelijk curriculum wordt aangepast volgens de onderwijsbehoeften en ondersteuningsbehoeften van de leerlingen, rekening houdend met de bepalingen van artikel 122/1/1.
 
 ## [HOOFDSTUK 2. Bepalingen betreffende de scholen van opleidingsvorm 4, in de ziekenhuisscholen (ing. decr. 21 maart 2014, art. III.70, I: 1 september 2014)]
 
@@ -7339,9 +7892,9 @@ In opleidingsvorm 4 moet een gemeenschappelijk curriculum van het gewoon voltijd
 <br>
 § 2. In ziekenhuisscholen moeten er, naargelang de noden van de leerlingen, gepaste en redelijke aanpassingen genomen worden, waaronder het inzetten van remediërende, differentiërende, compenserende of dispenserende maatregelen. De ziekenhuisschool werkt hiervoor op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding en de ouders en de oorspronkelijke school, tenzij de leerling voor het verblijf in de ziekenhuisschool niet in een school ingeschreven was.<br>
 <br>
-§ 3. Op basis van de behoeften van de leerlingen mag men in de school van opleidingsvorm 4, type 5, verbonden aan het preventorium, op ieder tijdstip van het schooljaar een structuuronderdeel van het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs&nbsp;inrichten, ook indien de onderliggende structuuronderdelen niet ingericht zijn. De school kan op die wijze onderdelen van het volledig studieaanbod van het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs&nbsp;inrichten, met inbegrip van het onthaalonderwijs, Se-n-Se, de opleiding verpleegkunde van het hoger beroepsonderwijs, en de vierde graad. Naargelang de keuze van de ouders mag men in de school van opleidingsvorm 4, type 5, verbonden aan het Zeepreventorium verschillende leerplannen aanbieden.<br>
+§ 3. Op basis van de behoeften van de leerlingen mag men in de school van opleidingsvorm 4, type 5, verbonden aan het preventorium, op ieder tijdstip van het schooljaar een structuuronderdeel van het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs&nbsp;inrichten, ook indien de onderliggende structuuronderdelen niet ingericht zijn. De school kan op die wijze onderdelen van het volledig studieaanbod van het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs&nbsp;inrichten of onderdelen van de opleiding Verpleegkunde van het hoger beroepsonderwijs. Naargelang de keuze van de ouders mag men in de school van opleidingsvorm 4, type 5, verbonden aan het Zeepreventorium verschillende leerplannen aanbieden.<br>
 <br>
-§ 4. In de school van opleidingsvorm 4, type 5, verbonden aan het preventorium worden dezelfde studiebewijzen uitgereikt als in het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs. De school van opleidingsvorm 4, type 5, bij het preventorium staat zelf in voor de studiebekrachtiging.<br>
+§ 4. In de school van opleidingsvorm 4, type 5, verbonden aan het preventorium worden dezelfde studiebewijzen uitgereikt als in het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs of in de opleiding Verpleegkunde van het hoger beroepsonderwijs. De school van opleidingsvorm 4, type 5, bij het preventorium staat zelf in voor de studiebekrachtiging.<br>
 <br>
 &nbsp;§ 5. Voor zover de school van opleidingsvorm 4, type 5, verbonden aan het Zeepreventorium, die behoort tot het gemeenschapsonderwijs, leerplannen aanbiedt van het vrij onderwijs, gebeurt dit in afwijking van de voorwaarde, vermeld in artikel 15, § 1, 12°, b).
 
@@ -7355,17 +7908,22 @@ In opleidingsvorm 4 moet een gemeenschappelijk curriculum van het gewoon voltijd
 
 ### ART. 352.
 
-<p>§ 1. Om als school met toepassing van artikel 314/8 en artikel 314/9 voor gewoon secundair onderwijs in aanmerking te komen voor ondersteuning, is voor leerlingen het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een gemotiveerd verslag door een centrum voor leerlingenbegeleiding vereist, tenzij ze al beschikken over een verslag als vermeld in artikel 294, § 2 tot en met § 10. In dat gemotiveerd verslag wordt :<br>
-1° gemotiveerd dat met toepassing van de principes, vermeld in artikel 136/2, het inzetten van de ondersteuning, in combinatie met compenserende of dispenserende maatregelen, nodig en voldoende geacht wordt om de leerling een gemeenschappelijk curriculum te laten volgen;<br>
-2° de specifieke deskundigheid omschreven die vereist is vanuit een of meer van de types, vermeld in artikel 259, § 1, 1° tot en met 4°, en 6° tot en met 8°.<br>
+<p>§1. Om als school voor gewoon secundair onderwijs in aanmerking te komen voor leersteun vanuit het leersteunmodel, is voor leerlingen het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een GC-verslag door een centrum voor leerlingenbegeleiding vereist, tenzij ze al beschikken over een IAC-verslag of OV4-verslag. In een GC-verslag wordt:<br>
+1° gemotiveerd dat met toepassing van de principes, vermeld in artikel 136/2, de fasen van brede basiszorg en verhoogde zorg werden doorlopen en dat het inzetten van de leersteun, in combinatie met compenserende of dispenserende maatregelen, nodig en voldoende geacht wordt om de leerling een gemeenschappelijk curriculum te laten volgen;<br>
+2° omschreven welke specifieke deskundigheid vereist is vanuit een of meer van de types, vermeld in artikel 259, §1, 1° tot en met 4°, en 6° tot en met 8°.<br>
 <br>
-De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
+In afwijking van het eerste lid kan een CLB een GC-verslag opmaken op basis van een handelingsgericht advies indien het door het CLB reeds doorlopen traject met de school, de leerling en de ouders voldoende informatie biedt.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 wordt voor een leerling die toegelaten werd tot het geïntegreerd secundair onderwijs op basis van een inschrijvingsverslag slechts een gemotiveerd verslag opgemaakt bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°.<br>
+De Vlaamse Regering bepaalt de verdere inhoud en modaliteiten van het GC-verslag.<br>
 <br>
-&nbsp;§ 3. Bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°, wordt een nieuw gemotiveerd verslag opgesteld.&nbsp;<br>
+§2. Het GC-verslag wordt geregistreerd in het multidisciplinair dossier van de leerling.<br>
 <br>
-§ 4. Wanneer niet meer voldaan is aan de criteria, vermeld in paragraaf 1, 1° of 2°, heft het centrum voor leerlingenbegeleiding het gemotiveerd verslag op. Wanneer een centrum voor leerlingenbegeleiding voor een leerling met een gemotiveerd verslag, een gemotiveerd verslag of verslag opmaakt in functie van een overgang van het basisonderwijs naar het secundair onderwijs, dan vervalt het gemotiveerd verslag dat de leerling had in het basisonderwijs.</p>
+§3. Bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°, wordt een nieuw GC-verslag opgesteld.<br>
+<br>
+§4. Als niet meer voldaan is aan de criteria, vermeld in paragraaf 1, eerste lid, 1° of 2°, heft het centrum voor leerlingenbegeleiding het GC-verslag op. Als een centrum voor leerlingenbegeleiding voor een leerling met een GC-verslag, een GC-verslag of IAC-verslag opmaakt in functie van een overgang van het basisonderwijs naar het secundair onderwijs, vervalt het GC-verslag dat de leerling had in het basisonderwijs.<br>
+&nbsp;<br>
+§5. Gemotiveerde verslagen die zijn opgemaakt voor 1 september 2023, worden gelijkgesteld aan GC-verslagen. Leerlingen die nog beschikken over een gemotiveerd verslag van voor 1 september 2023, voldoen aan dezelfde voorwaarden en hebben dezelfde rechten als leerlingen met een GC-verslag.<br>
+&nbsp;</p>
 
 ### ART. 353.
 
@@ -7389,6 +7947,10 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 
 <p>§ 1. Aan regelmatige leerlingen met specifieke onderwijsbehoeften die gewoon gefinancierd of gesubsidieerd secundair onderwijs volgen, en voldoen aan de toelatingsvoorwaarden van het gewoon secundair onderwijs, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
 <br>
+In afwijking van het eerste lid, kunnen leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs en die, met toepassing van artikel 136/1, onderwijsactiviteiten volgen in het gewoon secundair onderwijs, tijdens die activiteiten speciale onderwijsmiddelen ter beschikking krijgen, als ze de vorm aannemen van tolken Vlaamse gebarentaal of een andere gebarentaal of schrijftolken.<br>
+<br>
+In afwijking van het eerste lid, kunnen leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs en die een stage of sociaal maatschappelijke training volgen, tijdens het werkplekleren speciale onderwijsmiddelen ter beschikking krijgen, als ze de vorm aannemen van tolken Vlaamse gebarentaal of een andere gebarentaal of schrijftolken.<br>
+<br>
 § 2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolkenVlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
 1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal of een andere gebarentaal bij het Agodi, het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
 2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal of een andere gebarentaal en schrijftolken;<br>
@@ -7400,6 +7962,10 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau..<br>
 <br>
 § 4. De procedure voor de aanvraag en toekenning en het intern beroep en de werking van het door de Vlaamse Regering te bepalen centraal tolkenbureau worden om de drie jaar geëvalueerd, de eerste evaluatie vindt plaats gedurende het schooljaar 2015-2016. Tijdens deze evaluatie wordt de betrokkenheid van de doelgroep verzekerd.<br>
+<br>
+§4/1. Als de speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van een omzetting van leermaterialen voor blinde en slechtziende leerlingen, kan de Vlaamse Regering daarvoor middelen ter beschikking stellen binnen de beschikbare begrotingskredieten.<br>
+<br>
+De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van een productiehuis voor omzetting van leermaterialen voor blinde en slechtziende leerlingen.<br>
 <br>
 § 5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, dan bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.</p>
 
@@ -7458,7 +8024,7 @@ Duale structuuronderdelen worden ongeacht de aanbieder duaal leren als voltijds 
 
 ### ART 357/6.
 
-Een aanbieder duaal leren kan een duaal structuuronderdeel opstarten tot en met de eerste lesdag van oktober. Een structuuronderdeel Se-n-Se kan ook opgestart worden op de eerste lesdag van februari van het lopende schooljaar. Als een aanbieder duaal leren ten minste één regelmatige leerling in een duaal structuuronderdeel of aanloopstructuuronderdeel als vermeld in 357/43, eerste lid, 1° of 2°, die zijn opgenomen in hetzelfde standaardtraject, heeft ingeschreven op de eerste lesdag van oktober, is de duale opleiding opgenomen in het studieaanbod van de aanbieder.<br>
+Een aanbieder duaal leren kan een duaal structuuronderdeel opstarten tot en met de eerste lesdag van oktober. Een structuuronderdeel 7de leerjaar van het technisch of kunstsecundair onderwijs kan ook opgestart worden op de eerste lesdag van februari van het lopende schooljaar. Als een aanbieder duaal leren ten minste één regelmatige leerling in een duaal structuuronderdeel of aanloopstructuuronderdeel als vermeld in 357/43, eerste lid, 1° of 2°, die zijn opgenomen in hetzelfde standaardtraject, heeft ingeschreven op de eerste lesdag van oktober, is de duale opleiding opgenomen in het studieaanbod van de aanbieder.<br>
 <br>
 In afwijking van het eerste lid kan een duaal structuuronderdeel ook opstarten na de eerste lesdag van oktober als de instroom in dat structuuronderdeel op dat moment al voorbehouden wordt voor leerlingen die bij dezelfde aanbieder duaal leren kunnen overstappen van een aanloopstructuuronderdeel als vermeld in deel V/2, naar een duaal structuuronderdeel dat aan dat aanloopstructuuronderdeel gekoppeld is. In voorkomend geval wordt de eerste lesdag van juni als tweede referentiedatum beschouwd voor de vaststelling of het aanloopstructuuronderdeel of het duale structuuronderdeel in het schooljaar in kwestie al dan niet in het studieaanbod van de aanbieder duaal leren in kwestie voorkomt.
 
@@ -7490,32 +8056,25 @@ b) de eindtermen 1.8, 1.9, 1.10 en 1.11 van de basisvorming van de derde graad a
 
 ### ART 357/8.
 
-Voor een voltijds secundaire school met een daaraan verbonden centrum voor deeltijds beroepssecundair onderwijs heeft elke programmatie van een duaal structuuronderdeel betrekking op zowel de school als het centrum, ongeacht waar het duale structuuronderdeel in kwestie of een of meer van de daaraan verbonden aanloopstructuuronderdelen wordt aangeboden. Op duale structuuronderdelen is artikel 176, vierde lid, van toepassing. Voor de toepassing van het vierde lid van artikel 176 wordt voor duale structuuronderdelen ook rekening gehouden met de aanloopstructuuronderdelen, vermeld in artikel 357/43, die daar eventueel aan gekoppeld zijn.<br>
+§1. Voor de programmatie van een duaal structuuronderdeel binnen het gemoderniseerde secundair onderwijs zijn de bepalingen van artikel 176 tot en met 179 van toepassing, met uitzondering van artikel 177 in geval van programmatie door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.<br>
 <br>
-De desbetreffende programmatie van een duaal structuuronderdeel wordt door het bestuur van de aanbieder duaal leren bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd uiterlijk op 30 november van het voorafgaand schooljaar en uiterlijk op 30 september van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op de eerste lesdag van februari van het daaropvolgende jaar. Die termijn geldt als vervaltermijn; aanvragen die later worden ingediend zijn onontvankelijk. De motivering van de aanvraag houdt in elk geval rekening met de criteria, vermeld in het vierde lid, 1° tot en met 8°. Bij de aanvraag zitten, in voorkomend geval, het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+§2. Voor de programmatie tot en met het schooljaar 2024-2025 van een duaal structuuronderdeel van het derde leerjaar van de derde graad binnen het niet-gemoderniseerde secundair onderwijs zijn het tweede tot en met het zesde lid van toepassing.<br>
 <br>
-De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
+Met behoud van de toepassing van artikel 176 vraagt het schoolbestuur de programmatie bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aan uiterlijk op 30 november van het voorafgaande schooljaar en uiterlijk op 30 september van het lopende schooljaar als het een 7de leerjaar betreft dat van start gaat op 1 februari daaropvolgend. De voormelde aanvraagtermijnen gelden als vervaltermijnen.<br>
+<br>
+De motivering van de aanvraag, vermeld in het tweede lid, houdt in elk geval rekening met de cumulatieve criteria, vermeld in artikel 178, vierde lid. Bij de voormelde aanvraag worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het<br>
+proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+<br>
+De Vlaamse Regering beslist over de programmatie na advies van de volgende instanties:<br>
 1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 2° de Vlaamse Onderwijsraad;<br>
 3° de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
-De Vlaamse Regering houdt bij haar beslissing rekening met al de volgende criteria:<br>
-1° de eventuele beperkingen of voorwaarden die vanuit macrodoelmatigheid aan het aanbod van het structuuronderdeel zijn gekoppeld;<br>
-2° de kwantitatieve en kwalitatieve behoeften voor het aanbod van secundair onderwijs in de onderwijszone in kwestie met het oog op vervolgonderwijs of toetreding tot de arbeidsmarkt;<br>
-3° de keuzevrijheid van ouders en leerlingen;<br>
-4° de studiecontinuïteit van leerlingen binnen de aanbieder duaal leren, of de scholengemeenschap;<br>
-5° de getroffen voorbereidingen op het vlak van materiële infrastructuur en leermiddelen die voldoende en gepast zijn met het oog op de te verwerven competenties van het geprogrammeerde structuuronderdeel;<br>
-6° de aantoonbare samenwerkingsmogelijkheden met lokale arbeidsmarktactoren en de bedrijfswereld;<br>
-7° de afspraken die met andere lokale onderwijsinrichters, binnen en buiten de scholengemeenschap in kwestie, zijn gemaakt over een rationeel en transparant studieaanbod;<br>
-8° de afstemming binnen het overlegforum vermeld in artikel 357/31.<br>
-<br>
-De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaand schooljaar en uiterlijk op 15 december van het lopende schooljaar als het een Se-n-Se betreft die van start gaat op de eerste lesdag van februari van het daaropvolgende jaar. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.<br>
-<br>
-Een aanbieder van een duaal structuuronderdeel dat in het schooljaar 2018-2019 experimenteel wordt ingericht, is vrijgesteld van programmatie zolang dit structuuronderdeel geen twee aansluitende schooljaren niet wordt ingericht.<br>
-<br>
-Op de programmaties, bedoeld in dit artikel, zijn vanaf het schooljaar 2021-2022 eveneens de bepalingen van artikel 176/1 van toepassing.<br>
-<br>
-In afwijking van artikel 3, 35°, hoeft een aanbieder die op 1 september 2020 de toelating had om de opleiding beveiligingstechnicus duaal te organiseren, geen nieuwe programmatieaanvraag in te dienen met het oog op een opstart op 1 september 2022, indien de opleiding in de schooljaren 2020-2021 en 2021-2022 niet is georganiseerd.
+De Vlaamse Regering houdt bij haar beslissing rekening met de cumulatieve criteria, vermeld in artikel 178, vierde lid.<br>
+&nbsp;<br>
+De Vlaamse Regering beslist uiterlijk op 31 maart van het voorafgaande schooljaar en uiterlijk op 15 december van het lopende schooljaar als het een 7de leerjaar betreft dat van start gaat op 1 februari daaropvolgend. De voormelde beslissingstermijnen gelden als ordetermijnen.
 
 ## [TITEL 5. LEERLINGEN (ing. decr. 30 maart 2018, art. 22, I: 1 september 2019)]
 
@@ -7684,7 +8243,7 @@ Het krediet voor de personeelsomkadering en het werkingsbudget worden aan een ce
 
 Met behoud van de aanwendingsmogelijkheden van het pakket uren-leraar, zoals respectievelijk bepaald in of krachtens deze codex en het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, gelden de volgende specifieke en deels afwijkende bepalingen voor duale structuuronderdelen:<br>
 1° een aantal uren-leraar wordt aangewend als uren die geen lesuren zijn in de vorm van trajectbegeleiding en aangeduid als "trajectbegeleiding duaal". De Vlaamse Regering kan voor de voormelde aanwending een minimum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
-2° uren-leraar kunnen in alle duale structuuronderdelen worden aangewend voor voordrachtgevers. De Vlaamse Regering kan voor de voormelde aanwending een maximum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
+2° uren-leraar kunnen in alle duale structuuronderdelen worden aangewend voor gastleraren. De Vlaamse Regering kan voor de voormelde aanwending een maximum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
 3° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen uren-leraar door een aanbieder aan een andere aanbieder, ook van een ander net, worden overgedragen voor de organisatie van een deel van duale structuuronderdelen.<br>
 Bij de overdracht van een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden de desbetreffende uren-leraar omgezet in een krediet volgens parameters die de Vlaamse Regering vastlegt. Dezelfde parameters worden toegepast indien een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen uren uitbesteedt aan een school voor voltijds gewoon secundair onderwijs of een centrum voor deeltijds beroepssecundair onderwijs;<br>
 4° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen uren-leraar door een aanbieder aan een centrum voor volwassenenonderwijs, ook van een ander net, worden overdragen voor de organisatie van een deel van duale structuuronderdelen.
@@ -7806,9 +8365,11 @@ Een aanloopstructuuronderdeel kan worden ingericht door elke aanbieder van de aa
 ### ART 357/41.
 
 De Vlaamse Regering:<br>
-1° legt de lijst van de aanloopstructuuronderdelen, vermeld in artikel 357/39 vast en deelt die structuuronderdelen in studiegebieden en onderwijsvormen van de tweede graad respectievelijk de derde graad in;<br>
+1° legt de lijst van de aanloopstructuuronderdelen, vermeld in artikel 357/39 van dit decreet, vast, koppelt die structuuronderdelen aan een of meer duale structuuronderdelen, en deelt die aanloopstructuuronderdelen in studiedomeinen, finaliteiten en onderwijsvormen in;<br>
 2° bepaalt de omzetting in aanloopstructuuronderdelen van opleidingen die zijn vastgelegd ter uitvoering van artikel 22 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
-3° bepaalt de kalender van de omzetting, vermeld in punt 2°.
+3° bepaalt de kalender van de omzetting, vermeld in punt 2°.<br>
+<br>
+In afwijking van de indeling, vermeld in het eerste lid, 1°, worden aanloopstructuuronderdelen op het niveau van het tweede leerjaar van de derde graad in schooljaar 2023­2024 niet ingedeeld in finaliteiten en studiedomeinen, maar in studiegebieden.
 
 ### ART 357/42.
 
@@ -7828,9 +8389,7 @@ Een aanloopstructuuronderdeel kan modulair worden georganiseerd.
 
 ### ART 357/44.
 
-Voor aanloopstructuuronderdelen als vermeld in artikel 357/43, eerste lid, 1° en 2°, volgt de programmatie van een aanloopstructuuronderdeel uit de goedkeuring tot programmatie van een duaal structuuronderdeel als vermeld in artikel 357/8.<br>
-<br>
-Op de programmaties, bedoeld in dit artikel, zijn eveneens de bepalingen van artikel 176/1 van toepassing.
+...
 
 ## [TITEL 5. LEERLINGEN (ing. decr. 30 maart 2018, art. 70, I: 1 september 2019)]
 
@@ -7892,8 +8451,6 @@ Bij de leerlingenevaluatie doet de klassenraad, naast de studievoortgang, evenee
 Studievoortgang binnen een aanloopstructuuronderdeel of tussen aanloopstructuuronderdelen van hetzelfde standaardtraject is van rechtswege mogelijk op basis van het behalen van een afgewerkte set van beroepsgerichte competenties, ongeacht de voortgang in de algemeenvormende competenties.<br>
 <br>
 Voor een regelmatige leerling die zijn aanloopstructuuronderdeel in de loop van of op het einde van het schooljaar beëindigt, beslist de klassenraad, na evaluatie, over de studiebekrachtiging. De studiebekrachtiging in aanloopstructuuronderdelen is gebaseerd op beroepskwalificaties of op onderdelen ervan.<br>
-<br>
-Voor leerlingen op niveau van de tweede graad, ingeschreven in een aanloopstructuuronderdeel als vermeld in artikel 357/43, eerste lid, 1°, waarvoor gedurende het traject in de aanloopfase blijkt dat de overstap naar het bovenliggende structuuronderdeel "duaal" 2e graad niet mogelijk is, kan de klassenraad beslissen om de doelen van het bovenliggende structuuronderdeel "duaal" 2e graad na te streven in een kwalificerend traject op maat. De school moet deze noodzaak kunnen aantonen. Dit moet voorgelegd kunnen worden aan de onderwijsinspectie bij een doorlichting als bedoeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Aan een leerling die voldoet aan de bepalingen uit dit lid, en die alle doelen behaalt van het bovenliggende structuuronderdeel "duaal" 2e graad, als vastgelegd in het standaardtraject, vermeld in artikel 357/7, kan de studiebekrachtiging uitgereikt worden zoals die is opgenomen in het standaardtraject van het duale structuuronderdeel.<br>
 <br>
 De Vlaamse Regering legt de lijst van studiebewijzen vast die uitgereikt kunnen worden in aanloopstructuuronderdelen.
 
@@ -8014,11 +8571,20 @@ De Vlaamse Regering houdt bij haar beslissing rekening met al de volgende criter
 7° de afspraken die met andere lokale onderwijsinrichters, binnen en buiten de scholengemeenschap in kwestie, zijn gemaakt over een rationeel en transparant studieaanbod;<br>
 8° de afstemming binnen het overlegforum, vermeld in artikel 357/32.<br>
 <br>
-De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaande schooljaar. Bij overschrijding van die termijn is de programmatie van rechtswege goedgekeurd.<br>
+De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaande schooljaar. De voormelde beslissingstermijn geldt als ordetermijn.<br>
 <br>
 In opleidingsvorm 3 is artikel 289, § 3, niet van toepassing bij de programmatie van een duale opleiding.<br>
 <br>
 Een aanbieder van een duaal structuuronderdeel dat in het schooljaar 2018-2019 experimenteel wordt ingericht, is vrijgesteld van programmatie zolang dit structuuronderdeel geen twee aansluitende schooljaren niet wordt ingericht.<br>
+<br>
+In afwijking van het eerste tot en met het zesde lid kan een bestuur van een aanbieder duaal leren:<br>
+1° een duaal structuuronderdeel van opleidingsvorm 3 in de integratiefase vrij programmeren als de aanbieder hetzelfde structuuronderdeel van opleidingsvorm 3 al in de kwalificatiefase heeft ingericht of goedgekeurd krijgt;<br>
+2° een duaal structuuronderdeel in de kwalificatiefase of de integratiefase vrij programmeren als de aanbieder het gelijknamige niet-duale structuuronderdeel al heeft ingericht of goedgekeurd krijgt.<br>
+<br>
+Een vrije programmatie wordt bij de bevoegde diensten van de Vlaamse Gemeenschap gemeld uiterlijk op 1 april voorafgaand aan de oprichting. Bij de voormelde melding worden de volgende documenten gevoegd:<br>
+1° het protocol van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
+2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
+<br>
 <br>
 Dit artikel is niet van toepassing op het buitengewoon secundair onderwijs, opleidingsvorm 4.
 
@@ -8083,7 +8649,7 @@ Artikel 357/22 is ook van toepassing op de duale structuuronderdelen van het bui
 <br>
 Artikel 357/23 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
 <br>
-Artikel 357/24 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, met dit verschil dat het opleidingsplan wordt opgenomen in het handelingsplan.
+Artikel 357/24 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, met dit verschil dat het opleidingsplan wordt opgenomen in het individueel aangepast curriculum, vermeld in artikel 122/1/0 of het gemeenschappelijke curriculum met intensieve ondersteuning, vermeld in artikel 122/1/1.
 
 ## [TITEL 7. FINANCIERING OF SUBSIDIËRING VAN DE AANBIEDERS (ing. decr. 30 november 2018, art. 24, I: 1 september 2019)]
 
@@ -8097,7 +8663,7 @@ De duale structuuronderdelen van het buitengewoon secundair onderwijs van opleid
 
 Met behoud van de aanwendingsmogelijkheden van het pakket lesuren en uren, zoals bepaald in of krachtens deze codex, gelden de volgende specifieke en deels afwijkende bepalingen voor duale structuuronderdelen:<br>
 1° een aantal lesuren en uren worden aangewend als uren die geen lesuren zijn in de vorm van trajectbegeleiding en aangeduid worden als "trajectbegeleiding duaal". De Vlaamse Regering kan voor de voormelde aanwending een minimum bepalen dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
-2° lesuren en uren kunnen in alle duale structuuronderdelen worden aangewend voor voordrachtgevers. De Vlaamse Regering bepaalt voor de voormelde aanwending een maximum dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
+2° lesuren en uren kunnen in alle duale structuuronderdelen worden aangewend voor gastleraren. De Vlaamse Regering bepaalt voor de voormelde aanwending een maximum dat kan variëren naargelang van het structuuronderdeel of de groep van structuuronderdelen;<br>
 3° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen lesuren en uren door een aanbieder aan een andere aanbieder, voor de lesuren ook van een ander net, worden overgedragen voor de organisatie van een deel van duale structuuronderdelen. Bij de overdracht van een school voor buitengewoon secundair onderwijs aan een centrum voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen worden de desbetreffende lesuren en uren omgezet in een krediet volgens parameters die de Vlaamse Regering vastlegt. Die parameters worden toegepast als een centrum voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen uren uitbesteedt aan een school voor buitengewoon secundair onderwijs;<br>
 4° onder de voorwaarden die de Vlaamse Regering bepaalt, kunnen lesuren door een aanbieder aan een centrum voor volwassenenonderwijs, ook van een ander net, worden overdragen voor de organisatie van een deel van de duale structuuronderdelen.
 
