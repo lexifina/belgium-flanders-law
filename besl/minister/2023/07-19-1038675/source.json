@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038675,
+  "title": "Ministerieel besluit van 2023-07-19 tot verlenging van het proefproject voor de nascholing met e-learning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038675/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "cf8222027590c2144d75f13e559ef26fd64359e72332338f2a477fbc6540c647",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038675&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-07-19",
+  "gazette": "2023-08-23",
+  "numac": 2023044334,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
