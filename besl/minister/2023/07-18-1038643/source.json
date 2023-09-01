@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038643,
+  "title": "Ministerieel besluit van 2023-07-18 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest, en tot wijziging van bijlage 1 bij het ministerieel besluit van 1 oktober 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038643/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "ef984ab5efab896c2fe6677c6100a8bcd907fab66b5b29e1fe57d70192d43b90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038643&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-07-18",
+  "gazette": "2023-08-23",
+  "numac": 2023044032,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
