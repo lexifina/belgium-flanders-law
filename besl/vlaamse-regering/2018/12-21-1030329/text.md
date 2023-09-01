@@ -45,6 +45,7 @@ In dit besluit wordt verstaan onder:<br>
 3° DmfA: de aangifte, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 4° minister: de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de professionele vorming;<br>
 5° module: een onderdeel van een arbeidsmarktgerichte opleiding waarbij een relevant geheel van competenties wordt aangeleerd en waarvoor afzonderlijk kan worden ingeschreven;<br>
+5°/0 opleidingsjaar: de periode van 1 september tot en met 31 augustus;<br>
 5° /1 opleiding via blended leren: een opleiding die gegeven wordt in een weloverwogen combinatie van contactleren en een onlinecomponent, waarvoor de opleidingsverstrekker gebruikmaakt van een learning management systeem om het leerproces te ondersteunen en de leerevolutie op te volgen;<br>
 6° studiepunt: een binnen de Vlaamse Gemeenschap aanvaarde internationale eenheid die overeenstemt met ten minste 25 en ten hoogste 30 uren voorgeschreven onderwijs-, leer- en evaluatieactiviteiten, waarmee de studieomvang van elke opleiding of elk opleidingsonderdeel wordt uitgedrukt als vermeld in artikel I.3, 67°, van de Codex Hoger Onderwijs;<br>
 7° werkplekleren: het aanleren en toepassen van beroepsspecifieke competenties in een reële arbeidsomgeving;<br>
@@ -66,7 +67,15 @@ c) algemene arbeidsmarktcompetenties;<br>
 4° ze is geregistreerd bij het departement volgens de procedure, vermeld in afdeling 3 van dit hoofdstuk;<br>
 5° in geval van blended leren heeft de opleidingsverstrekker bij de indiening van de aanvraag tot registratie meegedeeld welk learning management systeem hij voor de opleiding hanteert en hoe hij het doorlopen van het leerproces en het behalen van de vooropgezette leerdoelstellingen zal opvolgen.<br>
 <br>
-In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3°, 4° en 5°.<br>
+In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3°, 4° en 5° en qua opleidingsinhoud al de volgende voorwaarden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;technieken aanleren om het opleidingsplan te personaliseren;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;vaardigheden bijbrengen om personen die op een werkvloer een opleiding krijgen:<br>
+a)&nbsp;&nbsp; &nbsp;instructies te geven;<br>
+b)&nbsp;&nbsp; &nbsp;te motiveren;<br>
+c)&nbsp;&nbsp; &nbsp;hun vorderingen op te volgen;<br>
+d)&nbsp;&nbsp; &nbsp;bij te sturen;<br>
+e)&nbsp;&nbsp; &nbsp;te evalueren;<br>
+f)&nbsp;&nbsp; &nbsp;feedback te geven.<br>
 <br>
 Om te voldoen aan de voorwaarde, vermeld in het eerste lid, 2°, kunnen modules uit verschillende arbeidsmarktgerichte opleidingen van eenzelfde opleidingsverstrekker gecombineerd worden of moeten de aparte modules als arbeidsmarktgerichte opleidingen zijn geregistreerd.<br>
 <br>
@@ -179,7 +188,7 @@ De opleidingsverstrekker bezorgt die gegevens binnen een termijn van een maand v
 
 ### ART 13.
 
-Het departement brengt de opleidingsverstrekker op de hoogte van een negatieve evaluatie binnen een termijn van een maand na de publicatie van het rapport.
+Het departement brengt de opleidingsverstrekker op de hoogte van een negatieve evaluatie.
 
 ### ART 14.
 
@@ -189,7 +198,7 @@ Het departement brengt de opleidingsverstrekker op de hoogte van een negatieve e
 <br>
 Na de bijsturing van de opleiding meldt de opleidingsverstrekker de opleiding als nieuwe opleiding aan ter registratie in de opleidingsdatabank, volgens de procedure vermeld in artikel 5, § 2.<br>
 <br>
-De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof, op 31 december van het jaar na de negatieve evaluatie.
+De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof twee maanden na de kennisgeving van de negatieve evaluatie of in geval van een beroepsprocedure twee maanden na de kennisgeving van de negatieve evaluatie door de Beroeps- en Evaluatiecommissie van het departement Werk en Sociale Economie, vermeld in het eerste lid.
 
 ### ART 15.
 
@@ -263,9 +272,9 @@ Als de registratie van de opleiding ingetrokken wordt, verwijdert het departemen
 
 Het Vlaams opleidingsverlof kan worden toegekend aan een werknemer voor maximaal 125 uur per jaar.<br>
 <br>
-Aan de werknemer wordt een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand september van het opleidingsjaar, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.<br>
+Aan de werknemer wordt een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand maart die voorafgaat aan het opleidingsjaar, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.<br>
 <br>
-In afwijking van het tweede lid heeft de werknemer die in september geen contractuele tewerkstellingsbreuk heeft van minstens 50 %, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.
+In afwijking van het tweede lid heeft de werknemer die in de maand maart die voorafgaat aan het opleidingsjaar geen contractuele tewerkstellingsbreuk heeft van minstens 50 %, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.
 
 ### ART 23.
 
@@ -364,6 +373,7 @@ De werkgever krijgt een terugbetaling van de lonen en de sociale bijdragen in ka
 2° hij de uren Vlaams opleidingsverlof in de DmfA correct heeft geregistreerd;<br>
 3° de werknemer zijn maximum aantal uren niet heeft overschreden;<br>
 4° de werknemer de opleiding nauwgezet heeft gevolgd.<br>
+5° de werknemer akkoord is om de opleiding te volgen onder het stelsel van het Vlaams opleidingsverlof.<br>
 <br>
 Voor de terugbetaling van de uren Vlaams opleidingsverlof die opgenomen zijn door een werknemer die halftijds en met een vast uurrooster werkt, geldt als bijkomende voorwaarde dat de uren Vlaams opleidingsverlof samenvallen met de arbeidsuren van de werknemer volgens zijn dienstrooster.<br>
 <br>
@@ -390,7 +400,8 @@ Als de werkgever nalaat de inlichtingen te verstrekken binnen een maand, na herh
 Het departement beoordeelt de aanvraag tot terugbetaling op basis van:<br>
 1° de ontvangen attestering, vermeld in hoofdstuk 4, van de opleidingsverstrekker;<br>
 2° de registratie door de werkgever van het Vlaams opleidingsverlof in de DmfA;<br>
-3° het maximumaantal uren Vlaams opleidingsverlof waarop de werknemer recht heeft.
+3° het maximumaantal uren Vlaams opleidingsverlof waarop de werknemer recht heeft.<br>
+4° het akkoord van de werknemer om de opleiding te volgen onder het stelsel van het Vlaams opleidingsverlof, vermeld in artikel 32, eerste lid, 5°.
 
 ### ART 36.
 
