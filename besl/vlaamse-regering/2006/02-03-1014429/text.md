@@ -6,7 +6,7 @@ Voor de toepassing van dit besluit wordt onder 'schoolbestuur' verstaan: de scho
 
 ### ART. 2.
 
-De bepalingen van dit besluit zijn van toepassing op de schoolbesturen van de gesubsidieerde scholen en internaten die de toelagen genieten, vermeld in artikel 37 van de codificatie betreffende het secundair onderwijs, artikel 67 van het decreet Basisonderwijs van 25 februari 1997, en de artikelen II.44, II.45, III.18, III.19, III.20 van de Codificatie sommige bepalingen voor het onderwijs.
+De bepalingen van dit besluit zijn van toepassing op de schoolbesturen van de gesubsidieerde scholen die de toelagen genieten, vermeld in artikel 37 van de codificatie betreffende het secundair onderwijs, artikel 67 van het decreet Basisonderwijs van 25 februari 1997, en de artikelen II.44, II.45 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 3.
 
