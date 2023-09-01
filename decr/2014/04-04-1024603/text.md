@@ -13,8 +13,9 @@ In dit decreet wordt verstaan onder:<br>
 a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
 c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
+d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 2° Vlaamse bestuursrechtscolleges: alle instanties, vermeld in punt 1°, samen;<br>
-3° bestuursrechter: de effectieve, aanvullende of plaatsvervangende bestuursrechter;<br>
+3° bestuursrechter: de effectieve, aanvullende of plaatsvervangende bestuursrechter of de bijzitter;<br>
 4° voorzitter: de voorzitter van een Vlaams bestuursrechtscollege;<br>
 5° algemene vergadering: de effectieve bestuursrechters van de Vlaamse bestuursrechtscolleges, met uitzondering van de bestuursrechters, vermeld in artikel 91, § 4, maar met toevoeging van de voorzitter van de Raad voor Verkiezingsbetwistingen;<br>
 6° eerste voorzitter: de voorzitter van de algemene vergadering;<br>
@@ -40,7 +41,15 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 5.
 
-<P>De Vlaamse bestuursrechtscolleges bestaan uit ten minste acht   bestuursrechters, onder wie een eerste voorzitter, voorzitters en   kamervoorzitters.<BR></P>  <P>Bestuursrechters die benoemd of aangesteld zijn bij een Vlaams   bestuursrechtscollege, kunnen door de eerste voorzitter ten behoeve van de goede   werking van de Vlaamse bestuursrechtscolleges ter beschikking gesteld worden van   een ander Vlaams bestuursrechtscollege.<BR></P>  <P>Indien een bestuursrechter overeenkomstig het tweede lid wordt ter   beschikking gesteld, hoort de eerste voorzitter de betrokken bestuursrechter en   motiveert hij zijn beslissing.<BR></P>  <P>De terbeschikkingstelling van een bestuursrechter aan een Vlaams   bestuursrechtscollege kan enkel voor zover de bestuursrechter over voldoende   kennis beschikt in de domeinen waarvoor dat Vlaams bestuursrechtscollege bevoegd   is.<BR></P>  <P>De aanvullende bestuursrechters, vermeld in artikel 49, § 2, en 91, § 3, de   plaatsvervangende bestuursrechters, vermeld in artikel 91, § 1, en de   effectieve, aanvullende en plaatsvervangende bestuursrechters vermeld in artikel   91, § 4, zijn uitgesloten van de toepassing van het tweede   lid.<BR></P>
+<p>De Vlaamse bestuursrechtscolleges bestaan uit ten minste acht bestuursrechters, onder wie een eerste voorzitter, voorzitters en kamervoorzitters.</p>
+
+<p>Bestuursrechters die benoemd of aangesteld zijn bij een Vlaams bestuursrechtscollege, kunnen door de eerste voorzitter ten behoeve van de goede werking van de Vlaamse bestuursrechtscolleges ter beschikking gesteld worden van een ander Vlaams bestuursrechtscollege.</p>
+
+<p>Indien een bestuursrechter overeenkomstig het tweede lid wordt ter beschikking gesteld, hoort de eerste voorzitter de betrokken bestuursrechter en motiveert hij zijn beslissing.</p>
+
+<p>De terbeschikkingstelling van een bestuursrechter aan een Vlaams bestuursrechtscollege kan enkel voor zover de bestuursrechter over voldoende kennis beschikt in de domeinen waarvoor dat Vlaams bestuursrechtscollege bevoegd is.</p>
+
+<p>De aanvullende bestuursrechters, vermeld in artikel 49, § 2, en 91, § 3, de bijzitters, vermeld in artikel 49, §2, de plaatsvervangende bestuursrechters, vermeld in artikel 91, § 1, en de effectieve, aanvullende en plaatsvervangende bestuursrechters vermeld in artikel 91, § 4, zijn uitgesloten van de toepassing van het tweede lid.</p>
 
 ### ART. 6.
 
@@ -98,7 +107,7 @@ De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de opmaak, 
 
 ### ART. 10.
 
-<p>De voorzitter van een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), wordt aangesteld onder en door de effectieve bestuursrechters die benoemd of aangesteld zijn bij dat Vlaams bestuursrechtscollege.</p>
+<p>De voorzitter van een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a), b) en d), wordt aangesteld onder en door de effectieve bestuursrechters die benoemd of aangesteld zijn bij dat Vlaams bestuursrechtscollege.</p>
 
 <p>De voorzitter van een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, c), wordt aangesteld onder en door de effectieve, aanvullende en plaatsvervangende bestuursrechters die benoemd zijn bij dat Vlaams bestuursrechtscollege.</p>
 
@@ -132,7 +141,11 @@ De kamervoorzitter neemt de leiding van de kamer en is belast met de organisatie
 <br>
 De kamervoorzitter bewaakt de eenheid van rechtspraak of rechtsvorming in zijn kamer.<br>
 <br>
-De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij afwijken van de regels die zijn vastgesteld in het huishoudelijk reglement.</p>
+De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij afwijken van de regels die zijn vastgesteld in het huishoudelijk reglement.<br>
+<br>
+In afwijking van het derde lid stelt de eerste voorzitter alle kamers van het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), samen uit één kamervoorzitter en twee bijzitters.<br>
+<br>
+In afwijking van het vierde lid kan de eerste voorzitter de kamervoorzitters van het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), niet aanwijzen onder de bijzitters.</p>
 
 ## HOOFDSTUK 3 Rechtspleging
 
@@ -140,7 +153,18 @@ De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij afwijk
 
 ### ART. 13.
 
-<P>De partijen kunnen bestuursrechters die zich over het beroep of bezwaar   moeten uitspreken schriftelijk en op gemotiveerde wijze wraken voor de aanvang   van de zitting, tenzij de reden tot wraking later is ontstaan.<BR></P>  <P>De redenen, vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek, zijn   de redenen tot wraking, vermeld in het eerste lid.<BR></P>  <P>De eerste voorzitter of, als die wordt gewraakt, de oudste kamervoorzitter   doet zo spoedig mogelijk uitspraak over het verzoek tot wraking. Als het verzoek   wordt ingewilligd, wordt de gewraakte bestuursrechter vervangen.<BR></P>  <P>De bestuursrechter die weet dat er een reden tot wraking tegen hem bestaat,   onthoudt zich van de zaak en laat zich vervangen.<BR></P>
+<p>De partijen kunnen bestuursrechters die zich over het beroep of bezwaar moeten uitspreken schriftelijk en op gemotiveerde wijze wraken voor de aanvang van de zitting, tenzij de reden tot wraking later is ontstaan.</p>
+
+<p>De redenen, vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek, zijn de redenen tot wraking, vermeld in het eerste lid.</p>
+
+<p>De eerste voorzitter of, als die wordt gewraakt, de oudste kamervoorzitter doet zo spoedig mogelijk uitspraak over het verzoek tot wraking. Als het verzoek wordt ingewilligd, wordt de gewraakte bestuursrechter vervangen.</p>
+
+<p>De bestuursrechter die weet dat er een reden tot wraking tegen hem bestaat, onthoudt zich van de zaak en laat zich vervangen.<br>
+<br>
+Naast de redenen, vermeld in het tweede lid, gelden voor het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), de volgende bijkomende redenen tot wraking:<br>
+1° de redenen, vermeld in artikel 829, tweede lid, van het Gerechtelijk Wetboek;<br>
+2° de hoedanigheid van lid van een rechtspersoon als vermeld in artikel 24, §4, van de Grondwet, verantwoordelijk voor de universiteit of de hogeschool waaraan de kwestieuze beslissing werd genomen, of van een personeelslid van die universiteit of hogeschool;<br>
+3° de hoedanigheid, vermeld in punt 2°, hebben gehad in een periode van drie jaar die aan het ingestelde beroep voorafgaat.</p>
 
 ### ART. 14.
 
@@ -162,7 +186,7 @@ De Vlaamse Regering stelt de nadere regels vast voor de vormvereisten en   ontva
 
 ### ART. 18.
 
-De decreten, vermeld in artikel 2, 1°, a) en b), stellen de personen vast   die beroep kunnen instellen tegen een bestreden beslissing, alsook de daarvoor   geldende termijnen.<BR>
+De decreten, vermeld in artikel 2, 1°, a), b) en d), stellen de personen vast die beroep kunnen instellen tegen een bestreden beslissing, alsook de daarvoor geldende termijnen.
 
 ### ART. 19.
 
@@ -336,6 +360,20 @@ Als het rolrecht, vermeld in het eerste lid, niet op tijd is gestort, nodigt de 
 Als het bedrag van het rolrecht niet op tijd is gestort, is het beroep onontvankelijk.
 
 ## [Afdeling 6 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 19)]
+
+### ART 31/2.
+
+In afwijking van artikel 16 van dit decreet verloopt de procedure voor een rechtstreeks beroep betreffende de in artikel II.285, tweede lid, van de Codex Hoger Onderwijs van 11 oktober 2013 bedoelde aanpassing van het leerkrediet bij overmachtsituaties, na mededeling van een vereenvoudigde procedurekalender louter schriftelijk en volgt er geen concrete oproeping van de partijen tenzij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), van dit decreet, het noodzakelijk acht voor de behandeling van de zaak of tenzij een van de partijen uitdrukkelijk en gemotiveerd verzoekt om gehoord te worden.<br>
+<br>
+Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), oordeelt onverwijld bij beschikking van de kamervoorzitter of gevolg wordt gegeven aan het verzoek, vermeld in het eerste lid.
+
+### ART 31/3.
+
+Als er gewichtige, bepaalde en met elkaar overeenstemmende vermoedens bestaan dat een partij of een derde een stuk onder zich heeft dat het bewijs inhoudt van een ter zake dienend feit, kan de kamervoorzitter bevelen dat het stuk of een eensluidend verklaard afschrift ervan bij het dossier van de rechtspleging wordt gevoegd.<br>
+&nbsp;<br>
+De kamervoorzitter beslist ter zake bij beschikking. De beschikking vermeldt de identiteit van de partij of de derde die het stuk moet overleggen en de wijze waarop en de termijn waarbinnen dat moet gebeuren. De beschikking wordt via het meest gerede communicatiemiddel verzonden aan de partijen en bij beveiligde zending aan een derde.<br>
+<br>
+Als het verzoek een aanpassing van het leerkrediet betreft, kan het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), bij de betrokken instellingen van het hoger onderwijs informatie opvragen met het oog op de verificatie van de voorgelegde feiten.
 
 ## HOOFDSTUK 4 Arresten
 
@@ -563,6 +601,32 @@ Na gehele of gedeeltelijke vernietiging kan het handhavingscollege zelf een besl
 
 ## [Afdeling 5 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 23)]
 
+### ART 44/1.
+
+Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), beoordeelt of studievoortgangsbeslissingen in overeenstemming zijn met:<br>
+1° de decretale en reglementaire bepalingen en het onderwijs- en examenreglement;<br>
+2° de algemene administratieve beginselen.<br>
+<br>
+Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), stelt zijn appreciatie betreffende de waarde van een kandidaat niet in de plaats van die van het bestuur of enig orgaan dat werkt onder de verantwoordelijkheid van het bestuur.
+
+### ART 44/2.
+
+§1. De behandeling van het verzoekschrift door het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), leidt tot:<br>
+1° de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid of de ongegrondheid ervan; of<br>
+2° de gemotiveerde vernietiging van de onrechtmatig genomen studievoortgangsbeslissing, in welk geval het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), het bestuur kan bevelen een nieuwe beslissing te nemen, onder de door het Vlaamse bestuursrechtscollege te stellen voorwaarden. Deze voorwaarden kunnen inhouden dat:<br>
+a)&nbsp;&nbsp; &nbsp;een nieuwe examen(tucht)beslissing afhankelijk wordt gemaakt van de organisatie van een nieuw examen of een onderdeel daarvan. Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), kan de termijn en de materiële voorwaarden bepalen waaronder deze organisatie moet gebeuren;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een nieuwe beslissing houdende toekenning van een bewijs van bekwaamheid in voorkomend geval afhankelijk wordt gemaakt van de organisatie van een nieuw bekwaamheidsonderzoek of een onderdeel daarvan. Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), kan de termijn en de materiële voorwaarden bepalen waaronder deze organisatie moet gebeuren;<br>
+c)&nbsp;&nbsp; &nbsp;welbepaalde onregelmatige of onredelijke motieven bij de totstandkoming van de nieuwe beslissing niet worden betrokken;<br>
+d)&nbsp;&nbsp; &nbsp;welbepaalde regelmatige en redelijke motieven bij de totstandkoming van de nieuwe beslissing kennelijk in ogenschouw moeten worden genomen.<br>
+<br>
+De termijn voor het nemen van een nieuwe beslissing overeenkomstig het eerste lid, 2°, bedraagt ten minste zeven kalenderdagen.<br>
+<br>
+In het geval bedoeld onder het eerste lid, 2°, kan het Vlaamse bestuurs- rechtscollege, vermeld in artikel 2, 1°, d), zo het dit op grond van de aangedragen feiten kennelijk noodzakelijk acht, bevelen dat de verzoeker in afwachting van een nieuwe beslissing voorlopig ingeschreven wordt, alsof geen nadelige studievoortgangsbeslissing was genomen.<br>
+<br>
+§2. Bij de behandeling van een verzoekschrift dat als voorwerp een studievoortgangsbeslissing heeft zoals bepaald in artikel I.3, 69°, i), van de Codex Hoger Onderwijs van 11 oktober 2013, oordeelt het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), van dit decreet, of er in voorkomend geval al dan niet sprake is van een niet-remedieerbare overmacht en de onmogelijkheid om voor de betrokken student om organisatorische redenen een aangepaste examenregeling uit te werken.<br>
+<br>
+§3. Het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), antwoordt in de uitspraken op alle opmerkingen van de partijen die de aan het geschil te geven oplossing kunnen beïnvloeden.
+
 ## HOOFDSTUK 5 Uitvoering
 
 ### ART. 45.
@@ -573,7 +637,19 @@ De arresten van een Vlaams bestuursrechtscollege zijn van rechtswege   uitvoerba
 
 ### ART. 46.
 
-<P>Een Vlaams bestuursrechtscollege zorgt voor een publicatie van de arresten op   de website van de dienst van de Bestuursrechtscolleges.<BR></P>  <P>Bij de publicatie van het arrest kan de identiteit van natuurlijke personen,   op uitdrukkelijk verzoek van een natuurlijke persoon die partij is bij een   geschil voor een Vlaams bestuursrechtscollege, worden weggelaten. Dat verzoek   kan worden ingediend in het verzoekschrift of, in voorkomend geval, tot aan de   sluiting van de debatten. In het bepalend gedeelte van het arrest wordt   uitdrukkelijk melding gemaakt van de depersonalisatie.<BR></P>  <P>In uitzonderlijke omstandigheden kan een natuurlijke persoon die partij was   bij een geschil dat bij een Vlaams bestuursrechtscollege aanhangig was, op grond   van gegevens waarvan hij geen kennis had voor het indienen van het   verzoekschrift of de sluiting van de debatten, verzoeken dat de identiteit van   de natuurlijke personen die hij aanwijst, niet langer wordt vermeld in de   publicatie van de arresten in digitaal formaat.<BR></P>  <P>Een natuurlijke persoon die geen partij was in het geding, maar een belang   heeft bij de weglating van de identiteit bij de publicatie, kan ook een   dergelijk verzoek indienen, als dat belang wordt aangetoond.<BR></P>  <P>Het gemotiveerd verzoek wordt per beveiligde zending aan de eerste voorzitter   bezorgd.<BR></P>  <P>De eerste voorzitter beslist over het gemotiveerde   verzoek.<BR></P>
+<p>Een Vlaams bestuursrechtscollege zorgt voor een publicatie van de arresten op de website van de dienst van de Bestuursrechtscolleges.</p>
+
+<p>Bij de publicatie van het arrest kan de identiteit van natuurlijke personen, op uitdrukkelijk verzoek van een natuurlijke persoon die partij is bij een geschil voor een Vlaams bestuursrechtscollege, worden weggelaten. Dat verzoek kan worden ingediend in het verzoekschrift of, in voorkomend geval, tot aan de sluiting van de debatten. In het bepalend gedeelte van het arrest wordt uitdrukkelijk melding gemaakt van de depersonalisatie.</p>
+
+<p>In uitzonderlijke omstandigheden kan een natuurlijke persoon die partij was bij een geschil dat bij een Vlaams bestuursrechtscollege aanhangig was, op grond van gegevens waarvan hij geen kennis had voor het indienen van het verzoekschrift of de sluiting van de debatten, verzoeken dat de identiteit van de natuurlijke personen die hij aanwijst, niet langer wordt vermeld in de publicatie van de arresten in digitaal formaat.</p>
+
+<p>Een natuurlijke persoon die geen partij was in het geding, maar een belang heeft bij de weglating van de identiteit bij de publicatie, kan ook een dergelijk verzoek indienen, als dat belang wordt aangetoond.</p>
+
+<p>Het gemotiveerd verzoek wordt per beveiligde zending aan de eerste voorzitter bezorgd.</p>
+
+<p>De eerste voorzitter beslist over het gemotiveerde verzoek.<br>
+<br>
+In afwijking van het eerste lid worden de arresten die worden uitgesproken in uitvoering van artikel II.204, §3, van de Codex Hoger Onderwijs van 11 oktober 2013 slechts gepubliceerd door beslissing van de voorzitter van het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), van dit decreet, wanneer deze arresten een belang kunnen hebben voor de rechtspraak of het juridisch onderzoek, en onder voorbehoud van depersonalisatie.</p>
 
 ### ART. 47.
 
@@ -656,7 +732,13 @@ Het ambt van aanvullende bestuursrechter of bijzitter bij het Vlaamse bestuursre
 
 ### ART. 52.
 
-<P>De eerste voorzitter ontvangt een salaris in de schaal A311, een   mandaattoelage klasse B, alsook de andere toelagen, vergoedingen en sociale   voordelen, vermeld in het Vlaams personeelsstatuut van 13 januari 2006, met   uitzondering van de prestatietoelagen.<BR></P>  <P>De effectieve bestuursrechter ontvangt een salaris in de schaal A311, alsook   de toelagen, vergoedingen en sociale voordelen, vermeld in het Vlaams   personeelsstatuut van 13 januari 2006, met uitzondering van de   prestatietoelagen.<BR></P>  <P>De diensten en de ervaring van de eerste voorzitter en de effectieve   bestuursrechters worden in aanmerking genomen voor hun geldelijke anciënniteit   als vermeld in artikel VII 2 van het Vlaams personeelsstatuut van 13 januari   2006.<BR></P>  <P>De voorzitter van het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°,   c), ontvangt een forfaitaire vergoeding per zitting van de algemene vergadering   en de aanvullende bestuursrechter, vermeld in artikel 49, § 2, ontvangt een   forfaitaire vergoeding per zitting van het bestuursrechtscollege. Het bedrag   wordt door de Vlaamse Regering vastgesteld. Ze maken ook aanspraak op de   terugbetaling van reis- en verblijfkosten, vermeld in het Vlaams   personeelsstatuut van 13 januari 2006.<BR></P>
+<p>De eerste voorzitter ontvangt een salaris in de schaal A311, een mandaattoelage klasse B, alsook de andere toelagen, vergoedingen en sociale voordelen, vermeld in het Vlaams personeelsstatuut van 13 januari 2006, met uitzondering van de prestatietoelagen.</p>
+
+<p>De effectieve bestuursrechter ontvangt een salaris in de schaal A311, alsook de toelagen, vergoedingen en sociale voordelen, vermeld in het Vlaams personeelsstatuut van 13 januari 2006, met uitzondering van de prestatietoelagen.</p>
+
+<p>De diensten en de ervaring van de eerste voorzitter en de effectieve bestuursrechters worden in aanmerking genomen voor hun geldelijke anciënniteit als vermeld in artikel VII 2 van het Vlaams personeelsstatuut van 13 januari 2006.</p>
+
+<p>De voorzitter van het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, c), ontvangt een forfaitaire vergoeding per zitting van de algemene vergadering en de aanvullende bestuursrechter en de bijzitter, vermeld in artikel 49, § 2, ontvangt een forfaitaire vergoeding per zitting van het bestuursrechtscollege. Het bedrag wordt door de Vlaamse Regering vastgesteld. Ze maken ook aanspraak op de terugbetaling van reis- en verblijfkosten, vermeld in het Vlaams personeelsstatuut van 13 januari 2006.</p>
 
 ## Afdeling 3 Ontslag en opruststelling
 
@@ -724,7 +806,11 @@ De Vlaamse Regering bepaalt de nadere regels voor de tuchtprocedure,   waaronder
 
 ### ART. 63.
 
-<P>Met behoud van de toepassing van de bepalingen die in dit decreet zijn   opgenomen over de rechtspositieregeling van de bestuursrechter, bepaalt de   Vlaamse Regering de overige delen van de rechtspositieregeling van de   bestuursrechter, waaronder ten minste de deontologische rechten en plichten en   de verloven.<BR></P>  <P>De Vlaamse Regering stelt de deontologische code vast op voorstel van de   algemene vergadering.<BR></P>
+<p>De effectieve bestuursrechter kan gedurende zijn volledige loopbaan verlof voor deeltijdse prestaties krijgen als gunst. De arbeidsprestaties kunnen met toepassing van dat verlof ten hoogste worden verminderd tot 80% van een voltijdse betrekking. De effectieve bestuursrechter vraagt het verlof aan bij de voorzitter van het Vlaamse bestuursrechtscollege waarbij hij is benoemd. De voorzitter weigert het verlof als de goede werking van de dienst dit vereist.<br>
+<br>
+Met behoud van de toepassing van de bepalingen die in dit decreet zijn opgenomen over de rechtspositieregeling van de bestuursrechter, bepaalt de Vlaamse Regering de overige delen van de rechtspositieregeling van de bestuursrechter, waaronder ten minste de deontologische rechten en plichten, de verloven en de vereisten inzake beschikbaarheid van de bijzitters.</p>
+
+<p>De Vlaamse Regering stelt de deontologische code vast op voorstel van de algemene vergadering.</p>
 
 ## HOOFDSTUK 8 Wijzigingsbepalingen
 
