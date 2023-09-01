@@ -33,7 +33,7 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART Enig.
 
-In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 maart 2023 tot en met 31 augustus 2023 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid.<br>
+In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 september 2023 tot en met 29 februari 2024 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid.<br>
 <br>
 De schutkring wordt aangeduid voor de volgende gemeenten:<br>
 1° As;<br>
