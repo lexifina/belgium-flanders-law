@@ -56,7 +56,13 @@ Het politiek verlof vangt aan op de datum van de eedaflegging, 1 september, 1 ok
 
 ### ART. 7.
 
-§ 1. Het verlof wegens ziekte of gebrekkigheid met inbegrip van arbeidsongevallen, van ongevallen op weg naar het werk en naar huis, van beroepsziekten, de terbeschikkingstelling wegens ziekte of gebrekkigheid, het verlof wegens een bedreiging door een beroepsziekte en het verlof wegens moederschapsbescherming maken geen einde aan het politiek verlof.<br /><br />Het wachtgeld of de wachtgeldtoelage bij terbeschikkingstelling wegens ziekte of gebrekkigheid wordt vastgesteld op basis van de laatste activiteitswedde of activiteitsweddetoelage.<br /><br />§ 2. Het politiek verlof wordt opgeschort vanaf het ogenblik dat het personeelslid het recht doet gelden op een andere vorm van dienstonderbreking die door de inrichtende macht of het schoolbestuur niet kan worden geweigerd.<br />
+§ 1. Het verlof wegens ziekte of gebrekkigheid met inbegrip van arbeidsongevallen, van ongevallen op weg naar het werk en naar huis, van beroepsziekten, de terbeschikkingstelling wegens ziekte of gebrekkigheid, het verlof wegens een bedreiging door een beroepsziekte en het verlof wegens moederschapsbescherming maken geen einde aan het politiek verlof.<br>
+<br>
+Het wachtgeld of de wachtgeldtoelage bij terbeschikkingstelling wegens ziekte of gebrekkigheid wordt vastgesteld op basis van de laatste activiteitswedde of activiteitsweddetoelage.<br>
+<br>
+§ 2. Het politiek verlof wordt opgeschort vanaf het ogenblik dat het personeelslid het recht doet gelden op een andere vorm van dienstonderbreking die door de inrichtende macht of het schoolbestuur niet kan worden geweigerd.<br>
+<br>
+Op voorwaarde dat de inrichtende macht of het schoolbestuur ermee instemt, kan het politiek verlof &nbsp;voltijds of deeltijds worden opgeschort als het personeelslid tijdelijk een opdracht in het onderwijs wil opnemen in het kader van het lerarentekort. De opdracht in het onderwijs mag niet uitgeoefend worden bij een inrichtende macht of schoolbestuur waar het personeelslid zelf in het kader van het politiek verlof de bevoegdheid van bestuurder opneemt. De opschorting is niet mogelijk op of na 30 juni van het schooljaar.
 
 ### ART. 8.
 
