@@ -8,7 +8,9 @@ De artikelen 161, § 1, 162, 163, 164 en 165 van het decreet treden in werking o
 
 ### ART. 2.
 
-Dit besluit is van toepassing op het personeel van het gewoon en buitengewoon basisonderwijs gefi-nancierd of gesubsidieerd door de Vlaamse Gemeenschap.
+Dit besluit is van toepassing op het personeel van het gewoon en buitengewoon basisonderwijs gefi-nancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br>
+<br>
+Dit besluit is niet van toepassing op het leerondersteunend personeel in een leersteuncentrum als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun.
 
 ### ART. 3.
 
@@ -27,7 +29,7 @@ a) in het gewoon basisonderwijs: kinderverzorger;<br>
 b) in het buitengewoon basisonderwijs: logopedist, kinesitherapeut, ergotherapeut, verpleger en kinderverzorger;<br>
 9° psychologisch personeel: psycholoog;<br>
 10° sociaal personeel: maatschappelijk werker;<br>
-11° beleids- en ondersteunend personeel: administratief medewerker, [ICT-coördinator, zorgcoördinator en beleidsondersteuner.<br>
+11° beleids- en ondersteunend personeel: administratief medewerker, [ICT-coördinator, zorgcoördinator, beleidsondersteuner en adjunct-directeur.<br>
 12° personeel : administratief personeel bedoeld in artikel 192 van het decreet, onderwijzend, paramedisch, medisch, sociaal, psychologisch, orthopedagogisch en beleids- en ondersteunend personeel;<br>
 13° lokaal comité : het lokaal overlegorgaan of onderhandelingsorgaan bevoegd voor arbeidsvoorwaarden en personeelsaangelegenheden.
 
