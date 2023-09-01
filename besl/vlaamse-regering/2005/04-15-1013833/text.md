@@ -8,11 +8,29 @@ De in artikel 3, § 1, bedoelde niet-verworven salarisschaal wordt toegekend aan
 
 ### ART. 2.
 
-§ 1. De niet-verworven salarisschaal vermeld in artikel 3, § 1, 4°, 4bis en 5°, wordt toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in één van de volgende ambten en waarvoor de Vlaamse Gemeenschap zijn/haar salaris of salaristoelage uitbetaalt :<br />1° de directeur van een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs of de directeur van een medisch-pedagogisch-instituut;<br />2° de onderwijzer aan een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs;<br />3° de leermeester aan een kleuterschool, een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs.<br /><br />§ 2. De in artikel 3, § 1, 4° en 5° bedoelde niet-verworven salarisschaal wordt toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in één van de volgende ambten en waarvoor de Vlaamse Gemeenschap zijn/haar salaris uitbetaalt:<br />1° de directeur van een kleuterschool van het gewoon of het buitengewoon onderwijs;<br />2° de kleuteronderwijzer aan een kleuterschool of een basisschool van het gewoon of het buitengewoon onderwijs;<br />3° de ICT-coördinator en de zorgcoördinator in het basisonderwijs.
+§ 1. De niet-verworven salarisschaal vermeld in artikel 3, § 1, 4°, 4bis en 5°, wordt toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in één van de volgende ambten en waarvoor de Vlaamse Gemeenschap zijn/haar salaris of salaristoelage uitbetaalt :<br>
+1° de directeur van een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs of de directeur van een medisch-pedagogisch-instituut;<br>
+2° de onderwijzer aan een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs;<br>
+3° de leermeester aan een kleuterschool, een lagere school of een basisschool van het gewoon of het buitengewoon onderwijs.<br>
+<br>
+§ 2. De in artikel 3, § 1, 4° en 5° bedoelde niet-verworven salarisschaal wordt toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in één van de volgende ambten en waarvoor de Vlaamse Gemeenschap zijn/haar salaris uitbetaalt:<br>
+1° de directeur van een kleuterschool van het gewoon of het buitengewoon onderwijs;<br>
+2° de kleuteronderwijzer aan een kleuterschool of een basisschool van het gewoon of het buitengewoon onderwijs;<br>
+3° de ICT-coördinator, de zorgcoördinator en de beleidsondersteuner in het basisonderwijs.
 
 ### ART. 2bis.
 
 De in artikel 3, § 1, vermelde niet-verworven salarisschaal wordt eveneens toegekend aan de tijdelijke, tot de proeftijd toegelaten of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in een ambt bedoeld in artikel 1 en 58 van het besluit van de Vlaamse Regering van 17 juli 1991 tot uitvoering van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten of in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+
+### ART 2ter.
+
+De niet-verworven salarisschaal vermeld in artikel 3, § 1, 4°, 4bis en 5°, wordt toegekend aan de tijdelijke of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een leersteuncentrum als vermeld in artikel 20 van het decreet van 5 mei 2023 over leersteun, in het ambt van leerondersteuner, en waarvoor de Vlaamse Gemeenschap een salaris uitbetaalt.
+
+### ART 2quater.
+
+De niet-verworven salarisschaal 895 wordt toegekend aan de tijdelijke of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel in het basisonderwijs en in secundair onderwijs en die in dat ambt belast worden met het mandaat van leraar-specialist, vermeld in artikel 40sexies decies van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 36novies/6 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De niet-verworven salarisschaal, vermeld in het eerste lid, wordt toegekend voor het volume van de opdracht en voor de periode waarvoor het personeelslid belast is met het mandaat van leraar-specialist, vermeld in het eerste lid.
 
 ### ART. 3.
 
