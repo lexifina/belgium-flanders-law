@@ -8,7 +8,16 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 127 van de Grondwet.
 
 ### ART. 2.
 
-De bepalingen van dit decreet zijn van toepassing op:<br /><br />1° de vrije door de Vlaamse gemeenschap gesubsidieerde:<br /><br />- instellingen van het kleuteronderwijs, lager onderwijs, basisonderwijs en secundair onderwijs;<br /><br />- instellingen van het onderwijs voor sociale promotie;<br /><br />- instellingen van het deeltijds kunstonderwijs;<br /><br />- internaten;<br /><br />- [centra voor leerlingenbegeleiding;  <span class="reference">(verv. decr. 1 december 1998, art. 168, I: 1 september 2000)</span> ]<br /><br />2° de personeelsleden tewerkgesteld in de instellingen bedoeld in 1°.
+De bepalingen van dit decreet zijn van toepassing op:<br>
+1° de vrije door de Vlaamse gemeenschap gesubsidieerde:<br>
+- instellingen van het kleuteronderwijs, lager onderwijs, basisonderwijs en secundair onderwijs;<br>
+- centra voor volwassenenonderwijs;<br>
+- instellingen van het deeltijds kunstonderwijs;<br>
+- onderwijsinternaten;<br>
+- centra voor leerlingenbegeleiding;<br>
+- leersteuncentra als vermeld in artikel 20, §1, van het decreet van 5 mei 2023 &nbsp;over &nbsp;leersteun;<br>
+<br>
+2° de personeelsleden tewerkgesteld in de instellingen bedoeld in 1°.
 
 ### ART. 3.
 
@@ -54,7 +63,20 @@ De Vlaamse regering bepaalt de nadere regelen met betrekking tot de samenstellin
 
 ### ART. 12.
 
-§ 1. Iedere inrichtende macht richt voor elk van haar scholen een LOC op. [Iedere inrichtende macht richt voor elk van haar centra voor leerlingenbegeleiding een lokaal onderhandelingscomité op.  <span class="reference">(ing. decr. 18 mei 1999, art. 162, I: 15 mei 1999)</span> ]<br /><br />§ 2. In afwijking van § 1 kan de inrichtende macht na akkoord met de afgevaardigden van de representatieve vakorganisaties van elke betrokken school:<br /><br />- één LOC oprichten per pedagogische entiteit;<br /><br />- één LOC oprichten per maximum 5 scholen samen die behoren tot haar inrichtende macht;<br /><br />[- een LOC oprichten voor alle scholen van de inrichtende macht die tot dezelfde scholengemeenschap van het basisonderwijs of van het secundair onderwijs behoren.  <span class="reference">(verv. decr. 10 juli 2003, art. 78, I: 1 september 2003)</span> ]<br /><br />§ 3. De per school opgerichte LOC's kunnen overeenkomen een gemeenschappelijk LOC op te richten.<br /><br />Die overeenkomst geldt voor de duur van het mandaat van de samenstellende onderhandelingscomités en bevat de aangelegenheden waarvoor het gemeenschappelijk LOC bevoegd is, maar houdt niet in dat de samenstellende LOC's ophouden te bestaan.<br /><br />[§ 4. In afwijking van §§ 1, 2 en 3 wordt in de scholengemeenschap van het secundair onderwijs voor de scholen van eenzelfde pedagogische entiteit, één LOC opgericht.<br /><br />Dit LOC kan ook andere scholen omvatten, behorend tot diezelfde pedagogische entiteit, op voorwaarde dat de scholengemeenschap van het secundair onderwijs met deze scholen een samenwerkingsakkoord heeft gesloten en de afgevaardigden van de representatieve vakorganisaties van elke betrokken school hiermee akkoord gaan.  <span class="reference">(ing. decr. 18 mei 1999, art. 162, I: 15 mei 1999)</span> ]
+§1. Iedere inrichtende macht richt voor elk van haar scholen en centra een LOC op. Iedere inrichtende macht richt voor elk van haar centra voor leerlingenbegeleiding een LOC op. Iedere inrichtende macht richt voor elk van haar leersteuncentra een LOC op.<br>
+<br>
+§ 2. In afwijking van § 1 kan de inrichtende macht na akkoord met de afgevaardigden van de representatieve vakorganisaties van elke betrokken school:<br>
+- één LOC oprichten per pedagogische entiteit;<br>
+- één LOC oprichten per maximum 5 scholen samen die behoren tot haar inrichtende macht;<br>
+- een LOC oprichten voor alle scholen van de inrichtende macht die tot dezelfde scholengemeenschap van het basisonderwijs of van het secundair onderwijs behoren;<br>
+<br>
+§ 3. De per school opgerichte LOC's kunnen overeenkomen een gemeenschappelijk LOC op te richten.<br>
+<br>
+Die overeenkomst geldt voor de duur van het mandaat van de samenstellende onderhandelingscomités en bevat de aangelegenheden waarvoor het gemeenschappelijk LOC bevoegd is, maar houdt niet in dat de samenstellende LOC's ophouden te bestaan.<br>
+<br>
+§ 4. In afwijking van §§ 1, 2 en 3 wordt in de scholengemeenschap van het secundair onderwijs voor de scholen van eenzelfde pedagogische entiteit, één LOC opgericht.<br>
+<br>
+Dit LOC kan ook andere scholen omvatten, behorend tot diezelfde pedagogische entiteit, op voorwaarde dat de scholengemeenschap van het secundair onderwijs met deze scholen een samenwerkingsakkoord heeft gesloten en de afgevaardigden van de representatieve vakorganisaties van elke betrokken school hiermee akkoord gaan.
 
 ### ART. 13.
 
@@ -145,7 +167,15 @@ De LOC's hebben tenminste jaarlijks recht op inlichtingen in verband met de inri
 
 ### ART. 29.
 
-De LOC's hebben tenminste jaarlijks recht op inlichtingen in verband met het financieel beleid van de scho(o)l(en).<br /><br />Deze inlichtingen betreffen:<br /><br />1° de ontvangen toelagen;<br /><br />2° de inkomsten voortvloeiend uit initiatieven voor steun aan de scholen;<br /><br />3° kostgelden van internaten, maaltijdtickets, bij- en naschoolse activiteiten;<br /><br />4° alle andere inkomsten;<br /><br />5° de jaarrekeningen van het laatste kalenderjaar;<br /><br />6° de overeenkomsten en akkoorden die fundamentele en duurzame gevolgen hebben voor de toestand van de scho(o)l(en).
+De LOC's hebben tenminste jaarlijks recht op inlichtingen in verband met het financieel beleid van de scho(o)l(en).<br>
+<br>
+Deze inlichtingen betreffen:<br>
+1° de ontvangen toelagen;<br>
+2° de inkomsten voortvloeiend uit initiatieven voor steun aan de scholen;<br>
+3° de persoonlijke bijdrage in onderwijsinternaten, maaltijdtickets, bij- en naschoolse activiteiten;<br>
+4° alle andere inkomsten;<br>
+5° de jaarrekeningen van het laatste kalenderjaar;<br>
+6° de overeenkomsten en akkoorden die fundamentele en duurzame gevolgen hebben voor de toestand van de scho(o)l(en).
 
 ### ART. 30.
 
@@ -173,7 +203,7 @@ De afwezigheid van één of meer regelmatig opgeroepen leden maakt de onderhande
 <br>
 De leden van het (gemeenschappelijk) LOC hebben het recht om ontwerpen van arbeidsreglement of van wijziging in een bestaand arbeidsreglement voor te stellen aan het (gemeenschappelijk) LOC.<br>
 <br>
-Deze ontwerpen of voorstellen van wijzigingen worden door de voorzitter van het (gemeenschappelijk) LOC aan elk lid van het (gemeenschappelijk) LOC medegedeeld. Zij worden bovendien tegelijk ter kennis van de personeelsleden gebracht door aanplakking op een zichtbare en toegankelijke plaats binnen de school, het centrum of het internaat.<br>
+Deze ontwerpen of voorstellen van wijzigingen worden door de voorzitter van het (gemeenschappelijk) LOC aan elk lid van het (gemeenschappelijk) LOC medegedeeld. Zij worden bovendien tegelijk ter kennis van de personeelsleden gebracht door aanplakking op een zichtbare en toegankelijke plaats binnen de school, het centrum of het onderwijsinternaat.<br>
 <br>
 Deze ontwerpen of voorstellen van wijzigingen worden door de voorzitter van het (gemeenschappelijk) LOC op de agenda van het (gemeenschappelijk) LOC geplaatst. Het (gemeenschappelijk) LOC waarin de onderhandelingen over het arbeidsreglement plaatvinden wordt ten vroegste vijftien kalenderdagen en uiterlijk dertig kalenderdagen na de aanplakking bijeengeroepen.<br>
 <br>
@@ -191,7 +221,7 @@ Het arbeidsreglement dat berust op een akkoord of dat eventueel ingevolge een be
 <br>
 § 3. De procedure bepaald in paragraaf 2 is niet van toepassing indien gebruikgemaakt wordt van de bepalingen voor de wijzigingen opgenomen in van artikel 14 van de wet van 8 april 1965 en de wijziging van de namen van de leden van het lokaal onderhandelingscomité.<br>
 <br>
-§ 4. Afdeling 3 van de wet van 8 april 1965 tot instelling van de arbeidsreglementen is niet van toepassing op scholen, centra en internaten waar een (gemeenschappelijk) LOC werd opgericht.
+§ 4. Afdeling 3 van de wet van 8 april 1965 tot instelling van de arbeidsreglementen is niet van toepassing op scholen, centra en onderwijsinternaten waar een (gemeenschappelijk) LOC werd opgericht.
 
 ### ART. 35.
 
