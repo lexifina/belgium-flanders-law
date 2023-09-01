@@ -437,6 +437,26 @@ Op straffe van onontvankelijkheid wordt het beroep schriftelijk ingediend binnen
 <br>
 De beroepscommissie is bevoegd om de oorspronkelijke beslissing te bevestigen of te wijzigen en neemt een beslissing binnen een termijn van zestig dagen nadat ze het beroep heeft ontvangen.
 
+### ART 27/3.
+
+§ 1. Ter uitvoering van artikel 30, § 3, eerste lid, van het decreet van 7 juni 2013 betaalt de inburgeraar eenmalig een retributie van negentig euro aan het EVA of het stedelijk EVA om te kunnen deelnemen aan de cursus van het vormingspakket maatschappelijke oriëntatie.<br>
+<br>
+§ 2. Ter uitvoering van artikel 30, § 3, tweede lid, van het voormelde decreet betaalt de inburgeraar telkens een retributie van negentig euro aan het EVA of het stedelijk EVA om te kunnen deelnemen aan de test maatschappelijke oriëntatie of de vrijstellingstest.<br>
+<br>
+§ 3. De retributies, vermeld in paragraaf 1 en 2, komen toe aan het EVA of het stedelijk EVA.<br>
+<br>
+Het EVA en het stedelijk EVA maken gezamenlijk afspraken over de wijze waarop de retributies worden geïnd en delen die afspraken mee aan de inburgeraar in het betalingsverzoek.<br>
+<br>
+§ 4. In het geval van betalingsmoeilijkheden kan, in afwijking van paragraaf 1 en 2, de retributie betaald worden na de start van de cursus of na het afleggen van de test of vrijstellingstest van het vormingspakket maatschappelijke oriëntatie. De retributie moet worden betaald binnen dertig dagen na ontvangst van het betalingsverzoek. Het EVA en het stedelijk EVA maken gezamenlijk afspraken over wat begrepen wordt onder betalingsmoeilijkheden.<br>
+<br>
+Als de inburgeraar in gebreke blijft om de retributie te betalen, wordt deze retributie bij dwangbevel ingevorderd. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling. De personeelsleden van het agentschap Vlaamse Belastingdienst worden ermee belast het dwangbevel uit te vaardigen en de retributie in te vorderen.<br>
+<br>
+De retributie wordt uitvoerbaar verklaard en de betaling ervan wordt opgevolgd via de Kruispuntbank Inburgering.<br>
+<br>
+Alvorens het EVA of het stedelijk EVA het attest van inburgering, vermeld in artikel 34/3, eerste lid, van het decreet van 7 juni 2013 uitreikt, dienen de retributies, vermeld in paragraaf 1 en 2, betaald te zijn door de inburgeraar.<br>
+<br>
+§ 5. ...
+
 ## Onderafdeling 4 Het vormingspakket opleiding Nederlands als tweede taal
 
 ### ART. 28.
