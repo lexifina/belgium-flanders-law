@@ -131,15 +131,15 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### Bijlage XXVI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_5.pdf#page=67" title=" bijlage XXVI" target="_blank" class="pdf">bijlage XXVI</a>
+...
 
 ### Bijlage XXVII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_5.pdf#page=79" title=" bijlage XXVII" target="_blank" class="pdf">bijlage XXVII</a>
+...
 
 ### Bijlage XXVIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_5.pdf#page=89" title=" bijlage XXVIII" target="_blank" class="pdf">bijlage XXVIII</a>
+...
 
 ### Bijlage XXIX
 
@@ -151,15 +151,15 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### Bijlage XXXI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_6.pdf#page=30" title=" bijlage XXXI" target="_blank" class="pdf">bijlage XXXI</a>
+...
 
 ### Bijlage XXXII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_6.pdf#page=45" title=" bijlage XXXII" target="_blank" class="pdf">bijlage XXXII</a>
+...
 
 ### Bijlage XXXIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_6.pdf#page=58" title=" bijlage XXXIII" target="_blank" class="pdf">bijlage XXXIII</a>
+...
 
 ### Bijlage XXXIV
 
