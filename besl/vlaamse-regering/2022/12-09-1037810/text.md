@@ -74,7 +74,7 @@ In afwijking van artikel 5 en 6 van dit besluit wordt voor de personen die op 31
 ### ART 8.
 
 De maandelijkse ondersteuningstoeslag wordt geschorst als:<br>
-1° het kind ingeschreven is in een internaat met permanente openstelling van een medisch pedagogisch instituut van het Gemeenschapsonderwijs;<br>
+1° ...;<br>
 2° het kind een beroep doet op een persoonlijk assistentiebudget als vermeld in hoofdstuk IV/1 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 3° het kind een beroep doet op een multifunctioneel centrum voor minderjarige personen met een handicap, erkend door het Vlaams Agentschap voor Personen met een Handicap met toepassing van artikel 7 of 9, § 2, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, met uitzondering van het kind dat enkel ondersteuning geniet van een multifunctioneel centrum voor minderjarige personen met een handicap op basis van artikel 8, derde lid, van voormeld besluit;<br>
 4° het kind in een residentiële gehandicaptenvoorziening verblijft die in België door een andere overheid dan de Vlaamse overheid erkend is;<br>
