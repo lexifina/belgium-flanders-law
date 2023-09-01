@@ -54,6 +54,190 @@ Toekomststraat 75<br>
 Opleidingsfase Basis groenvoorziening &amp; -decoratie<br>
 Domein: Land- en tuinbouw
 
+### ART 2.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2023-2024 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Kwalificatiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+2° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Kwalificatiefase Medewerker fastfood<br>
+Domein: Voeding en horeca<br>
+3° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Kwalificatiefase Medewerker florist<br>
+Domein: Land- en tuinbouw<br>
+4° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Kwalificatiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+5° Buso Zaveldal<br>
+Nieuwland 198<br>
+1000 Brussel<br>
+Kwalificatiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+6° Buso Don Bosco<br>
+Lenniksesteenweg 2<br>
+1500 Halle<br>
+Kwalificatiefase Machinaal houtbewerker<br>
+Domein: STEM<br>
+7° Buso Don Bosco<br>
+Lenniksesteenweg 2<br>
+1500 Halle<br>
+Kwalificatiefase Samensteller<br>
+Domein: STEM<br>
+8° Buso Sint-Jozefinstituut<br>
+Kerkstraat 153<br>
+2060 Antwerpen<br>
+Kwalificatiefase Machinaal houtbewerker<br>
+Domein: STEM<br>
+9° Buso Sint-Jozefinstituut<br>
+Kerkstraat 153<br>
+2060 Antwerpen<br>
+Kwalificatiefase Voorbewerker carrosserie<br>
+Domein: STEM<br>
+10° De Leerexpert<br>
+Schoolstraat 2<br>
+2060 Antwerpen<br>
+Kwalificatiefase Samensteller<br>
+Domein: STEM<br>
+11° De Leerexpert<br>
+Schoolstraat 2<br>
+2060 Antwerpen<br>
+Kwalificatiefase Verpakker<br>
+Domein: Economie en organisatie<br>
+12° De Leerexpert Schotensestnwg 252<br>
+Schotensesteenweg 252<br>
+2100 Antwerpen<br>
+Kwalificatiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+13° De Leerexpert Schotensestnwg 252<br>
+Schotensesteenweg 252<br>
+2100 Antwerpen<br>
+Kwalificatiefase Medewerker fastfood<br>
+Domein: Voeding en horeca<br>
+14° De Leerexpert Schotensestnwg 252<br>
+Schotensesteenweg 252<br>
+2100 Antwerpen<br>
+Kwalificatiefase Medewerker Hout<br>
+Domein: STEM<br>
+15° De Leerexpert Schotensestnwg 252<br>
+Schotensesteenweg 252<br>
+2100 Antwerpen<br>
+Kwalificatiefase Bestuurder interne transportmiddelelen<br>
+Domein: Economie en organisatie<br>
+16° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Kwalificatiefase Assistent plantaardige productie<br>
+Domein: Land- en tuinbouw<br>
+17° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Kwalificatiefase Medewerker productielijn, kleding, confectie en meubelstoffering<br>
+Domein: Maatschappij en Welzijn<br>
+18° Buso Emmaüs<br>
+Leihoekstraat 7_B<br>
+9870 Zulte<br>
+Kwalificatiefase Hoeknaadlasser<br>
+Domein: STEM<br>
+19° RHIZO 7 BuSO De Lage Kouter<br>
+Beekstraat 113_B<br>
+8500 Kortrijk<br>
+Kwalificatiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+20° Buso VIBO De Ring<br>
+Steenweg op Mol 154_A<br>
+2360 Oud-Turnhout<br>
+Kwalificatiefase Assistent plantaardige productie<br>
+Domein: Voeding en horeca<br>
+21° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+22° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Medewerker textielverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+23° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Polyvalent administratief ondersteuner<br>
+Domein: Economie en organisatie<br>
+24° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+25° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Verpakker<br>
+Domein: Economie en organisatie<br>
+26° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Logistiek assistent in de zorg<br>
+Domein: Maatschappij en Welzijn<br>
+27° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Kwalificatiefase Medewerker productielijn, kleding, confectie en meubelstoffering<br>
+Domein: Maatschappij en Welzijn<br>
+28° Berkenbeek SO 2 (buso)<br>
+Nieuwmoerse Steenweg 113<br>
+2990 Wuustwezel<br>
+Kwalificatiefase Assistent plantaardige productie<br>
+Domein: Land- en tuinbouw<br>
+29° Buso Don Bosco<br>
+Lenniksesteenweg 2<br>
+1500 Halle<br>
+Kwalificatiefase Medewerker tegelzetwerken en dekvloeren<br>
+Domein: STEM<br>
+30° Buso Don Bosco<br>
+Lenniksesteenweg 2<br>
+1500 Halle<br>
+Kwalificatiefase Polyvalent administratief ondersteuner<br>
+Domein: Economie en organisatie<br>
+31° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Kwalificatiefase Medewerker kamerdienst<br>
+Domein: Voeding en horeca<br>
+32° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Kwalificatiefase Plaatser binnenschrijnwerk<br>
+Domein: STEM<br>
+33° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Kwalificatiefase Plaatser buitenschrijnwerk<br>
+Domein: STEM<br>
+34° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Kwalificatiefase Plaatser interieurprojecten<br>
+Domein: STEM<br>
+35° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Kwalificatiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+36° Berkenbeek SO 2 (buso)<br>
+Nieuwmoerse Steenweg 113<br>
+2990 Wuustwezel<br>
+Kwalificatiefase Medewerker florist<br>
+Domein: Land- en tuinbouw
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2022.
