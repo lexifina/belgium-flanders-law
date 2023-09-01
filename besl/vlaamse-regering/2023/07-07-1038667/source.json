@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038667,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-07 tot wijziging van diverse besluiten van de Vlaamse Regering, wat betreft de structuur, organisatie en financiering in het basisonderwijs, secundair onderwijs, volwassenenonderwijs en deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038667/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "dddedbf603e702d8e437e82f9db5e83b24bd24157b9adfffba683fc27b667664",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038667&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-07-07",
+  "gazette": "2023-08-24",
+  "numac": 2023044282,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
