@@ -2,16 +2,16 @@
   "codex_id": 1024524,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot bepaling van de kwaliteitsstandaard voor Content and Language Integrated Learning (CLIL) in het [...] secundair onderwijs en de leertijd en aanwijzing van de bevoegde dienst voor de goedkeuring van de CLIL-plannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024524/VolledigDocument?datum=2022-04-23",
-  "source_sha256": "4a4a45bf89b6517b9b7d5b5c8e489d77bf713daad33dbe4c5fb9289ec5bb9d57",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024524/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "de6fdc34489f701cca20232eaf60d6757b00147eb61a887f2b80ec6f8bd3fea9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024524&param=informatie",
-  "as_of": "2022-04-23",
+  "as_of": "2023-09-01",
   "made": "2014-05-09",
   "gazette": "2014-09-04",
   "numac": 2014035698,
   "document_start": "2014-02-15",
   "document_end": null,
-  "in_force": "2022-04-23",
+  "in_force": "2023-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2022-04-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

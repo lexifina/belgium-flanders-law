@@ -145,7 +145,7 @@ d) een certificaat dat het vereiste niveau van taalkennis aantoont en dat het pe
 4) een certificaat Duits uitgereikt door het Goethe Institut;<br>
 5) een certificaat Engels:<br>
 a. Aptis en International English Language Testing System (IELTS) van de British Council;<br>
-b. Test of English as a Foreign Language (TOEFL);<br>
+b. Test of English as a Foreign Language internet Based Test (TOEFL iBT Test);<br>
 c. Interuniversity Test of Academic English (ITACE).<br>
 <br>
 Andere elementen van het personeelsbeleid in de aanvraag:<br>
