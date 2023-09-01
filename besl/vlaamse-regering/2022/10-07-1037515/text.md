@@ -62,6 +62,10 @@ Aan artikel 27, §4, derde lid, van hetzelfde besluit, gewijzigd bij het besluit
 <br>
 “Er wordt bepaald welke onderdelen van de cursus van het vormingspakket maatschappelijke oriëntatie de verplichte inburgeraar moet volgen opdat de procedurele kennis, conceptuele kennis en attitudes, vermeld in artikel 24, van dit besluit, optimaal verworven worden.”.&nbsp;
 
+### ART 7.
+
+In artikel 27/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt paragraaf 5 opgeheven.&nbsp;
+
 ### ART 8.
 
 In artikel 33, §1, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
