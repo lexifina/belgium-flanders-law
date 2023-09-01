@@ -66,7 +66,7 @@ De minister bepaalt op welke wijze de gegevens voor de toepassing van dit beslui
 
 ### ART. 10bis.
 
-Dit hoofdstuk is van toepassing op de voltijds leerplichtige leerlingen in het gewoon en buitengewoon basisonderwijs.
+Dit hoofdstuk is van toepassing op de voltijds leerplichtige leerlingen&nbsp;en op leerlingen die niet leerplichtig zijn, maar ingeschreven zijn in het lager onderwijs in het gewoon en buitengewoon basisonderwijs.
 
 ### ART. 10ter.
 
@@ -97,10 +97,10 @@ a) gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, na een peri
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lestijden moet plaatsvinden;<br>
 2) een medisch attest waaruit de noodzakelijkheid, de frequentie en de duur van de revalidatie blijkt;<br>
-3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding, na overleg met de klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie tijdens de lestijden vereist is;<br>
+3) ...;<br>
 4) een toestemming van de directeur voor een periode die de duur van de behandeling, vermeld in het medisch attest, niet kan overschrijden;<br>
 b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, voor leerlingen met een specifieke onderwijsgerelateerde behoefte waarvoor een handelingsgericht advies is gegeven als vermeld in artikel 2, 11°, g), van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding. In uitzonderlijke omstandigheden kan de maximumduur van 150 minuten uitgebreid worden voor leerplichtige kleuters tot 200 minuten, verplaatsing inbegrepen na gunstig advies van het centrum voor leerlingenbegeleiding in overleg met de klassenraad en de ouders.<br>
-Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
+Voor leerlingen met een IAC-verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
 Het advies van het centrum voor leerlingenbegeleiding moet motiveren waarom de behandeling tijdens de lestijden noodzakelijk blijft en moet aantonen dat door die afwezigheid het leerproces van de leerling niet ernstig wordt benadeeld.<br>
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lestijden moet plaatsvinden;<br>
@@ -110,8 +110,8 @@ De school beschikt over een dossier dat ten minste de volgende elementen bevat :
 c) in het buitengewoon onderwijs gedurende maximaal 250 minuten per week, verplaatsing inbegrepen.<br>
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lestijden moet plaatsvinden;<br>
-2) een inschrijvingsverslag of een verslag&nbsp;als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
-3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding in overleg met de klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie voor die leerling vereist is;<br>
+2) een IAC-verslag&nbsp;als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
+3) ...;<br>
 4) een samenwerkingsovereenkomst tussen de school en de revalidatieverstrekker over de manier waarop de revalidatie het onderwijsaanbod voor de leerling in kwestie zal aanvullen en de manier waarop de informatie-uitwisseling zal verlopen. De revalidatieverstrekker bezorgt op het einde van elk schooljaar een evaluatieverslag aan de directie van de school en van het centrum voor leerlingenbegeleiding, met inachtneming van de privacywetgeving waaraan hij onderworpen is;<br>
 5) een toestemming van de directeur, die jaarlijks vernieuwd en gemotiveerd moet worden, rekening houdend met het evaluatieverslag waarvan sprake in punt 4).<br>
 6° de afwezigheid ten gevolge van een preventieve schorsing, een tijdelijke of definitieve uitsluiting als vermeld in artikel 32 van het decreet basisonderwijs van 25 februari 1997, op voorwaarde dat de school aan de ouders gemotiveerd heeft waarom de opvang op school niet haalbaar is.<br>
