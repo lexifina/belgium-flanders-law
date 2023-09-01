@@ -251,20 +251,20 @@ Bij de doorlichting van een centrum wordt ook de netoverstijgende regionale onde
 § 2/1. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021- 2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende omkadering, werkingsbudgetten of investeringsmiddelen toekennen aan de netoverstijgende regionale ondersteuningscellen. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
 <br>
 § 3. De centra maken netoverstijgend afspraken om onafhankelijke bemiddeling mogelijk te maken voor leerlingen of ouders over het ondersteuningsaanbod in functie van de leerling met specifieke onderwijsbehoeften.<br>
+&nbsp;<br>
+De onafhankelijke bemiddeling wordt ingezet op verzoek van leerlingen of ouders als ze klachten hebben over:<br>
+1°&nbsp;&nbsp; &nbsp;de redelijke aanpassingen door de school en in voorkomend geval de afweging van redelijke aanpassingen;<br>
+2°&nbsp;&nbsp; &nbsp;de leersteun vanuit het leersteuncentrum;<br>
+3°&nbsp;&nbsp; &nbsp;een GC-verslag, een IAC-verslag of een OV4-verslag.<br>
 <br>
-De bemiddeling wordt ingezet op verzoek van leerlingen of ouders als ze klachten hebben over:<br>
-1° redelijke aanpassingen door de school;<br>
-2° ondersteuning door het ondersteuningsnetwerk of een school voor buitengewoon onderwijs;<br>
-3° een gemotiveerd verslag of een verslag door het centrum.<br>
+De onafhankelijke bemiddeling kan alleen ingezet worden als de leerling of de ouders de klacht eerst rechtstreeks met de betrokken medewerkers van het centrum, van de school waar de leerling is ingeschreven, hebben besproken. Dat houdt het volgende in:<br>
+1° &nbsp;bij klachten over redelijke aanpassingen door de school wordt eerst de betroken school aangesproken, met ondersteuning van de betrokken medewerkers van het centrum van de school waar de leerling is ingeschreven. Bij klachten over de afweging van redelijke aanpassingen worden eerst de betrokken medewerkers van het centrum van de school waar de leerling is ingeschreven, aangesproken;<br>
+2° bij klachten over de leersteun van het leersteuncentrum wordt eerst het betrokken leersteuncentrum aangesproken, met ondersteuning van de betrokken medewerkers van het centrum van de school waar de leerling is ingeschreven;<br>
+3° bij klachten over een GC-verslag, een IAC-verslag of een OV4-verslag worden eerst de betrokken medewerkers van het centrum van de school waar de leerling is ingeschreven, aangesproken. Als dat niet leidt tot een gewenst resultaat, volgt de leerling of de ouders de klachtenprocedure van het centrum waarmee de school, waar de leerling is ingeschreven, samenwerkingsafspraken heeft.<br>
 <br>
-De bemiddeling kan alleen ingezet worden als de leerling of de ouders de klacht eerst rechtstreeks met de betrokken medewerker van het centrum hebben besproken:<br>
-1° bij klachten over redelijke aanpassingen wordt eerst de betrokken school voor gewoon onderwijs aangesproken, met ondersteuning van de betrokken medewerker van het centrum;<br>
-2° bij klachten over ondersteuning wordt eerst het betrokken ondersteuningsnetwerk en de school voor buitengewoon onderwijs aangesproken, met ondersteuning van de betrokken medewerker van het centrum;<br>
-3° bij klachten over een gemotiveerd verslag of een verslag wordt eerst de betrokken medewerker van het centrum aangesproken waarbij de klachtenprocedure van het centrum wordt gevolgd.<br>
+Een ander centrum voor leerlingenbegeleiding kan finaal optreden als onafhankelijke bemiddelaar.<br>
 <br>
-Een medewerker van een ander centrum die niet betrokken is bij de school waar de leerling ingeschreven is en de betrokken school voor buitengewoon onderwijs die voorziet in een ondersteuningsaanbod en de begeleiding van de leerling, treedt op als onafhankelijke bemiddelaar.<br>
-<br>
-Met behoud van de toepassing van het eerste, tweede en derde lid wordt vanaf 1 september 2023 bemiddeling opgenomen als bijkomend thema voor de netoverstijgende regionale ondersteuningscel.
+Met behoud van de toepassing van het eerste tot en met vierde lid wordt vanaf 1 september 2023 bemiddeling opgenomen als bijkomend thema voor de netoverstijgende regionale ondersteuningscel.
 
 ### ART 17.
 
@@ -276,12 +276,18 @@ Voor de samenwerking wisselen het centrum en de schoolexterne diensten waarmee h
 
 ### ART 18.
 
-De Vlaamse Regering kan binnen de beschikbare kredieten jaarlijks forfaitaire subsidies verlenen aan het gemeenschapsonderwijs en elke representatieve vereniging van de besturen van de centra voor leerlingenbegeleiding van het gesubsidieerd onderwijs. Hiermee kan de sector aan innovatie of digitalisering werken, steeds met het oog op het begeleiden, ondersteunen en versterken van centra in het uitvoeren van hun opdracht.<br>
+Vanaf het begrotingsjaar 2023 wordt jaarlijks per schooljaar, startend met het schooljaar 2023-2024, binnen de beschikbare begrotingskredieten een extra werkingsbudget van maximaal 1.000.000 euro toegekend aan de permanente ondersteuningscellen. Het werkingsbudget wordt toegekend aan de gefinancierde permanente ondersteuningscel, de gesubsidieerde vrije permanente ondersteuningscel, de permanente ondersteuningscel van de Onderwijsvereniging van Steden en Gemeenten en de permanente ondersteuningscel van het Provinciaal Onderwijs Vlaanderen verrekend conform hun personeelsomkadering, vermeld in artikel 40, §2, eerste lid, 1°, en tweede lid. Het extra werkingsbudget wordt netoverstijgend ingezet door alle permanente ondersteuningscellen samen.<br>
 <br>
-De Vlaamse Regering bepaalt:<br>
-1° de voorwaarden waaronder de subsidie kan worden toegekend;<br>
-2° de aanwendingsmogelijkheden van de subsidie, waaronder in elk geval de verplichting dat de diverse begunstigden van die subsidie de ontvangen middelen moeten samenleggen om ze optimaal en efficiënt te besteden;<br>
-3° de controle op de aanwending.
+De middelen worden ingezet voor netoverstijgende innovatieve digitaliseringsprojecten, met het oog op het kwaliteitsvol begeleiden van leerlingen, waaronder minstens:<br>
+1° de ontwikkeling, het onderhoud en de implementatie van een online hulpverleningsaanbod door alle centra voor leerlingenbegeleiding;<br>
+2° de ontwikkeling, het onderhoud en de implementatie van een digitaal multidisciplinair dossier voor de leerling als vermeld in artikel 10 en de gegevensoverdracht vanuit het digitaal multidisciplinair dossier van de leerling, vermeld in artikel 17;<br>
+3° de ontwikkeling, het onderhoud en de implementatie van een laagdrempelig toegankelijk digitaal platform voor leerlingen, ouders, scholen, leersteuncentra en netwerkpartners.<br>
+<br>
+Alle permanente ondersteuningscellen werken tegen 31 december 2023 netoverstijgend samen aan hun visie op digitalisering met doelstellingen die ze op korte en lange termijn willen bereiken en hoe ze deze doelstellingen op korte en langere termijn zullen realiseren. Hierbij worden ook de opdrachten, vermeld in het tweede lid, opgenomen, alsook de inzet van de middelen, vermeld in het eerste lid. De visie wordt door alle permanente ondersteuningcellen samen besproken met de bevoegde diensten van de Vlaamse Regering voor 31 januari 2024. Op het einde van elk schooljaar gaan alle permanente ondersteuningscellen samen in overleg met de bevoegde diensten van de Vlaamse Regering om te rapporteren over de realisatie van hun doelstellingen en de inzet van de middelen van het lopende schooljaar en de planning met inzet van de middelen voor het volgende schooljaar.<br>
+<br>
+Het extra werkingsbudget wordt ten laatste in december van het lopende schooljaar uitbetaald.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het extra werkingsbudget van maximaal 1.000.000 euro geïndexeerd conform de bepaling opgenomen in artikel 29, §1, vijfde lid.
 
 ## Afdeling 4. Erkennings-, financierings- of subsidiëringsvoorwaarden van de centra
 
@@ -444,6 +450,20 @@ De besturen van de centra kunnen voor elk van hun centra een beroep doen op de i
 
 Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
 
+### ART 32/2.
+
+Vanaf het begrotingsjaar 2023 wordt jaarlijks per schooljaar, startend met het schooljaar 2023-2024, binnen de beschikbare begrotingskredieten een extra werkingsbudget van maximaal 7.562.000 euro toegekend aan de centra. Het extra werkingsbudget wordt onder de centra verdeeld op basis van hun aandeel in de nieuwe omkadering, berekend conform artikel 40 en 41.<br>
+<br>
+De middelen worden ingezet voor de versterking van de leerlingenbegeleiding en laten de centra toe om:<br>
+1°&nbsp;&nbsp; &nbsp;meer in de scholen aanwezig te zijn en hierbij extra in te zetten op het verhogen van het psychosociaal functioneren van de leerlingen;<br>
+2°&nbsp;&nbsp; &nbsp;in te zetten op en mee te werken aan initiatieven inzake het voorkomen van vroegtijdig schoolverlaten en ongekwalificeerde uitstroom;<br>
+3°&nbsp;&nbsp; &nbsp;onderling samen te werken rond de thema’s, vermeld in artikel 16, §2, eerste lid, 1°, a) tot en met i).<br>
+&nbsp;<br>
+Het extra werkingsbudget wordt ten laatste in december van het lopende schooljaar uitbetaald.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het extra werkingsbudget van maximaal 7.562.000 euro geïndexeerd conform de bepaling opgenomen in artikel 29, §1, vijfde lid.<br>
+&nbsp;
+
 ## Afdeling 5. Programmatie en rationalisatie
 
 ### ART 33.
@@ -513,9 +533,10 @@ De teldag voor leerlingenkenmerk 1 en 3 is de eerste schooldag van februari van 
 § 3. Het aantal gewogen leerlingen wordt berekend op basis van het aantal regelmatige leerlingen dat begeleid wordt door het centrum. De telling vindt plaats op de geldende tellingsdata in het voorgaande kalenderjaar.<br>
 <br>
 Voor de weging van de leerlingen gelden de volgende coëfficiënten:<br>
-1° het aantal leerlingen met een verslag of inschrijvingsverslag met het oog op het volgen van een individueel aangepast curriculum of toegang tot het buitengewoon onderwijs wordt vermenigvuldigd met de coëfficiënt 3;<br>
-2° het aantal leerlingen met een gemotiveerd verslag of inschrijvingsverslag met het oog op ondersteuning in het gewoon onderwijs wordt vermenigvuldigd met de coëfficiënt 2;<br>
-3° het aantal leerlingen van het gewoon onderwijs wordt vermenigvuldigd met de coëfficiënt 1 met uitzondering van de leerlingen met een gemotiveerd verslag zoals opgenomen in punt 2°.
+1° het aantal leerlingen met een IAC-verslag of OV4-verslag wordt vermenigvuldigd met de coëfficiënt 3;<br>
+2° het aantal leerlingen met een GC-verslag wordt vermenigvuldigd met de coëfficiënt 2;<br>
+3° het aantal leerlingen van het gewoon onderwijs wordt vermenigvuldigd met de coëfficiënt 1 met uitzondering van de leerlingen met een GC-verslag zoals opgenomen in punt 2°;<br>
+4° het aantal leerlingen met een inschrijvingsverslag in het buitengewoon onderwijs wordt vermenigvuldigd met de coëfficiënt 3.
 
 ### ART 41.
 
@@ -1215,7 +1236,7 @@ Het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding
 
 ### ART 117.
 
-De beleidsplannen en de beleidscontracten die bij de inwerkingtreding van dit decreet lopen, worden op dat ogenblik geëvalueerd en ze worden aangepast als dat nodig is. Op het einde van de looptijd worden de voormelde beleidsplannen en beleidscontracten vervangen door samenwerkingsafspraken.
+...
 
 ### ART 118.
 
