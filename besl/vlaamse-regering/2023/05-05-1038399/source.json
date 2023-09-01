@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038399,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-05 over de uitvoering van een hulpprogramma geblokkeerde ontwikkelingstrajecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038399/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "5c592a60ff5a3c53eccc06988bcbf6de2abd5a3ec0d15c1f093306cbc7b21268",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038399&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-05-05",
+  "gazette": "2023-06-29",
+  "numac": 2023042719,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
