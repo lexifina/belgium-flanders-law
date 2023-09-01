@@ -12,13 +12,13 @@ Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffend
 3° bijlage VII en VIII voor het studiegebied huishoudelijke decoratie- en naaitechnieken.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor de volgende bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden voor het studiegebied huishoudhulp:<br>
-1° de opleiding Huishoudhulp Dienstencheques kan voor traag lerende cursisten 450 lestijden omvatten, waarbij de duurtijd van de module Schoonmaak 120 lestijden omvat;<br>
-2° de opleiding Huishoudhulp Zorg kan voor traag lerende cursisten 550 lestijden omvatten, waarbij de duurtijd van de module Schoonmaak 120 lestijden omvat en de duurtijd van de module Aangepast koken in de zorgberoepen 60 lestijden omvat;<br>
+1° de opleiding Huishoudhulp Dienstencheques kan voor traag lerende cursisten 510 lestijden omvatten, waarbij de modules Basisprincipes voor de huishoud- en zorgberoepen en Kennismaking met de huishoud- en zorgberoepen elk 40 lestijden omvatten, de module Basishoudingen in de huishoud- en zorgberoepen 60 lestijden omvat en de module Schoonmaak 120 lestijden omvat;<br>
+2° de opleiding Huishoudhulp Zorg kan voor traag lerende cursisten 630 lestijden omvatten, waarbij de modules Basisprincipes voor de huishoud- en zorgberoepen, EHBO en Kennismaking met de huishoud- en zorgberoepen elk 40 lestijden omvatten, de modules Basishoudingen in de huishoud- en zorgberoepen en Aangepast koken in de zorgberoepen elk 60 lestijden omvatten en de module Schoonmaak 120 lestijden omvat;<br>
 3° de opleiding Huishoudhulp Zorg kan voor snel lerende cursisten 478 lestijden omvatten, waarbij de duurtijd van de module EHBO 8 lestijden omvat.
 
 ### ART. 2.
 
-Het opleidingsprofiel, vastgelegd in bijlage VIII, wordt uiterlijk tijdens het schooljaar 2021-2022 geëvalueerd. Het opleidingsprofiel dat vastgelegd is in bijlage IX, wordt uiterlijk tijdens het schooljaar 2022-2023 geëvalueerd. De resultaten van die evaluatie worden besproken met de pedagogische begeleidingsdiensten en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.
+...
 
 ### ART. 3.
 
