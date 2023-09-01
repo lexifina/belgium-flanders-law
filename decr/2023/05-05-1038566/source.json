@@ -2,16 +2,16 @@
   "codex_id": 1038566,
   "title": "Decreet van 2023-05-05 over leersteun",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038566/VolledigDocument?datum=2023-08-03",
-  "source_sha256": "8175b42635b0915c3744f8c3194be8aa79e8e2cd3efaabbe45cef7916b6c57ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038566/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "f936c1697148e12a9389351a95967d93a79d02c39f189dab7da2132d992263d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038566&param=informatie",
-  "as_of": "2023-08-03",
+  "as_of": "2023-09-01",
   "made": "2023-05-05",
   "gazette": "2023-08-02",
   "numac": 2023043429,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2023-08-03",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2023-08-03; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 193,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
