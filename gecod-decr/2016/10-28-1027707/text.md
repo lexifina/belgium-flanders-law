@@ -287,61 +287,35 @@ De codificatie van sommige bepalingen voor het onderwijs regelt enkel gemeenscha
 
 ### ART III.1.
 
-§1. Het Gemeenschapsonderwijs richt internaten en tehuizen voor kinderen met ouders die geen vaste verblijfplaats hebben, van de Vlaams Gemeenschap op, waar daaraan behoefte bestaat.<br>
-&nbsp;<br>
-De Vlaamse Gemeenschap subsidieert de internaten en tehuizen, die aan de decretale normen beantwoorden en door provincies, gemeenten, verenigingen van gemeenten, andere publiekrechtelijke personen of private personen, zijn tot stand gebracht.<br>
-&nbsp;<br>
-§2. Er kunnen geen internaten en tehuizen in stand gehouden of opgericht worden indien zij niet beantwoorden aan de voorwaarden inzake rationalisatie en programmatie.<br>
-&nbsp;<br>
-De financiering of subsidiëring voor het bedoelde onderdeel wordt ingetrokken voor elke nieuwe oprichting van een internaat of tehuis of een onderdeel ervan, indien zij niet beantwoorden aan de voorwaarden inzake rationalisatie en programmatie.<br>
-&nbsp;<br>
-De Vlaamse Regering bepaalt de regels voor de toepassing van de hiervoor voorziene sancties.
+...
 
 ### ART III.2.
 
-De provincies en de gemeenten mogen internaten en tehuizen oprichten voor kinderen met ouders die geen vaste verblijfplaats hebben. De Vlaamse Regering kan de provincies, gemeentelijke en private internaten en tehuizen, welke zich aan haar toezicht onderwerpen, erkennen.
+...
 
 ### ART III.2/1.
 
-De overheveling van een internaat naar een andere inrichtende macht heeft ten aanzien van het Vlaams Ministerie van Onderwijs en Vorming uitwerking op 1 september.
+...
 
 ### ART III.3.
 
-Internaten en tehuizen kunnen enkel erkend worden indien zij in het geheel van hun werking de internationaalrechtelijke en &nbsp;grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder eerbiedigen.
+...
 
 ### ART III.4.
 
-Internaten en tehuizen kunnen in de financiering of subsidiering opgenomen worden op advies van de onderwijsinspectie, dat in ieder geval dient te worden uitgebracht vóór 15 juni van het schooljaar in kwestie, zoniet wordt dit advies geacht gunstig te zijn.<br>
-&nbsp;<br>
-§2. Een internaat of tehuis wordt gefinancierd of gesubsidieerd wanneer het zich gedraagt naar de wettelijke en reglementaire bepalingen inzake organisatie en wanneer ze de bepalingen over de taalregeling in onderwijs en de taalkennis van het personeel naleeft.<br>
-&nbsp;<br>
-Bovendien moet het internaat of tehuis :<br>
-1° een structuur aannemen vastgesteld door of krachtens een wet of decreet;<br>
-2° zich aan de door de Vlaamse Regering ingerichte controle en onderwijsinspectie onderwerpen. Deze inspectie heeft in het bijzonder betrekking op de studieomgeving en het studieklimaat en de middelen die ter beschikking staan om de leerstof in te oefenen en de toepassing van de taalwetten, met uitsluiting van de pedagogische methodes;<br>
-3° georganiseerd zijn onder de verantwoordelijkheid van een bestuur, zoals bedoeld in artikel 24, §4, van de Grondwet, zijnde een natuurlijke persoon of een rechtspersoon;<br>
-4° het minimum aantal leerlingen tellen, bepaald bij de regelgeving;<br>
-5° gevestigd zijn in lokalen die aan de voorwaarden inzake hygiëne en bewoonbaarheid voldoen;<br>
-6° beschikken over materieel en een uitrusting die beantwoorden aan de pedagogische vereisten;<br>
-7° ...<br>
-8° de regelgeving naleven die het verlenen van verlof aan het personeel zal regelen.&nbsp;<br>
-&nbsp;<br>
-§3. Wanneer een internaat of tehuis niet langer de gestelde voorwaarden vervult, zullen de financiering of subsidiering ingehouden worden, te rekenen van de datum van de ministeriële kennisgeving die steunt op de &nbsp;geconstateerde tekortkomingen. Ze zullen opnieuw verleend worden, wanneer al de voorwaarden tot financiering of subsidiëring opnieuw vervuld worden.
+...
 
 ### ART III.5.
 
-De Vlaamse Regering kan de erkenning van een internaat of tehuis&nbsp;opheffen met inachtname van artikel 35 tot artikel 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
+...
 
 ### ART III.6.
 
-De kosten van het internaat of tehuis tot stand gebracht door openbare of private personen, vallen ten laste van het bestuur.<br>
-&nbsp;<br>
-Voor de internaten en tehuizen die aan de bij het decreet en zijn uitvoeringsbesluiten gestelde voorwaarden voldoen, verleent de Vlaamse Gemeenschap, een salaris of een salaristoelage voor het personeel en een werkingsbudget.
+...
 
 ### ART III.7.
 
-Onverminderd de strafvervolging waartoe zij aanleiding zou geven, kan elke valse of onnauwkeurige verklaring, afgelegd met de bedoeling om de berekening van het bedrag van het salaris, de salaristoelage of het werkingsbudget te beïnvloeden, voor de betrokken internaten of tehuizen medebrengen dat de financiering of subsidiëring bij gemotiveerd besluit van de Vlaamse Regering wordt ingehouden gedurende een periode van niet meer dan zes maanden voor elke overtreding.<br>
-<br>
-De teruggave van de ten onrechte als financiering of subsidiëring gestorte bedragen wordt geëist tenzij de fout te wijten is aan de betalende overheid.
+...
 
 ## Hoofdstuk 2 [... (opgeh. decr. 16 juni 2023, art. 136, I: 1 september 2023)]
 
@@ -349,78 +323,33 @@ De teruggave van de ten onrechte als financiering of subsidiëring gestorte bedr
 
 ### ART III.8.
 
-§1. Deze afdeling is van toepassing op :<br>
-1° de door het Gemeenschapsonderwijs gefinancierde internaten en tehuizen, verbonden aan scholen van het gewoon basis- en secundair onderwijs en het hoger onderwijs;<br>
-2° de door het Gemeenschapsonderwijs gefinancierde autonome internaten en tehuizen;<br>
-3° de gesubsidieerde internaten en tehuizen verbonden aan gesubsidieerde scholen van het gewoon basis- of secundair onderwijs;<br>
-4° de gesubsidieerde autonome internaten en tehuizen.<br>
-&nbsp;<br>
-§2. Voor de toepassing van dit hoofdstuk wordt onder regelmatig ingeschreven leerling verstaan, de intern die ingeschreven is in een van de volgende scholen of centra :<br>
-1° een gefinancierde school voor basis- en/of gewoon en buitengewoon secundair onderwijs of voor hoger onderwijs;<br>
-2° een erkende of gesubsidieerde school voor basis- en/of gewoon en buitengewoon secundair onderwijs;<br>
-3° een gefinancierd, erkend of gesubsidieerd centrum voor deeltijds leren;<br>
-4° een Europese school opgericht overeenkomstig het Protocol ondertekend te Luxemburg op 13 april 1962, nopens de oprichting van Europese scholen vastgesteld onder verwijzing naar het te Luxemburg op 12 april 1957 ondertekende Statuut van de Europese school.
+...
 
 ### ART III.9.
 
-§1. De oprichtingsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt veertig regelmatig ingeschreven interne leerlingen op 1 september van het schooljaar van oprichting.<br>
-&nbsp;<br>
-Een internaat of tehuis kan eveneens worden opgericht in het kader van een herstructurering, zijnde een fusie van bestaande internaten of tehuizen onmiddellijk gevolgd door een afsplitsing van een of meer internaten of tehuizen, met dien verstande dat het oorspronkelijke aantal internaten of tehuizen niet wordt overschreden. In voorkomend geval bedraagt de oprichtingsnorm 30 regelmatig ingeschreven interne leerlingen op 1 september van het schooljaar van oprichting. Deze norm is van toepassing op alle internaten en tehuizen die uit de herstructurering voortvloeien.<br>
-&nbsp;<br>
-Een internaat of tehuis kan eveneens worden opgericht in het kader van een herstructurering, zijnde een afsplitsing van een bestaand internaat of tehuis, al dan niet na fusie, met dien verstande dat het oorspronkelijke aantal internaten of tehuizen wel wordt overschreden. In voorkomend geval bedraagt de oprichtingsnorm 40 regelmatig ingeschreven interne leerlingen op 1 september van het schooljaar van oprichting. Deze norm is van toepassing op alle internaten en tehuizen die uit de herstructurering voortvloeien.<br>
-&nbsp;<br>
-§2. De behoudsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt 30 regelmatig ingeschreven interne leerlingen op 1 februari van het voorafgaande schooljaar. Internaten en tehuizen die niet aan de behoudsnorm voldoen, blijven gefinancierd of gesubsidieerd als het internaat of tehuis op de vorige of daaraan voorafgaande&nbsp;teldag wel aan de geldende norm voldeed.<br>
-&nbsp;<br>
-§3. Indien 1 september of 1 februari een lesvrije dag is, dan wordt de eerstvolgende lesdag als teldatum genomen.
+...
 
 ### ART III.10.
 
-§1. Per school of per gebouwencomplex kan slechts één internaat of tehuis georganiseerd of gesubsidieerd worden.<br>
-&nbsp;<br>
-§2. De in de artikel III.9 vereiste normen van interne leerlingen wordt als volgt berekend :<br>
-&nbsp;<br>
-a) de interne leerlingen van verschillende vestigingsplaatsen van eenzelfde internaat of tehuis worden samengeteld. Een gebouw of een gebouwencomplex van een internaat of tehuis kan niet tezelfdertijd een vestigingsplaats zijn van een ander internaat of tehuis;<br>
-b) de interne leerlingen van de verschillende onderwijsniveaus die in een internaat of tehuis verblijven worden samengeteld;<br>
-c) de interne leerlingen, regelmatig ingeschreven in verschillende scholen en centra, die in eenzelfde internaat of tehuis verblijven worden samengeteld;<br>
-d) de leerlingen van het gesubsidieerd hoger onderwijs die in een internaat of tehuis verblijven, komen niet in aanmerking;<br>
-e) de studenten van een Vlaamse autonome hogeschool die in een internaat of tehuis van het Gemeenschapsonderwijs verblijven, komen enkel in aanmerking voor de toepassing van artikel III.9, §2.<br>
-&nbsp;<br>
-§3. Naar gelang van de beschikbare plaatsen en op voorwaarde dat het schoolbestuur van de betrokken school of centrum ermee instemt, kunnen de internaten of tehuizen leerlingen van scholen of centra uit een ander onderwijsnet opnemen.<br>
-&nbsp;<br>
-§4. De interne leerlingen waarvoor een werkingsbudget wordt toegekend, worden geteld op 1 februari van het voorafgaande schooljaar.<br>
-&nbsp;<br>
-§5. Voor de internaten of tehuizen die opgericht zijn met toepassing van&nbsp; artikel III.9 worden de interne leerlingen, waarvoor een werkingsbudget wordt toegekend gedurende het schooljaar van oprichting, geteld op 1 september van dat schooljaar.<br>
-&nbsp;<br>
-§6. In afwijking van §4, worden in een internaat of tehuis waaruit door afsplitsing een nieuw internaat of tehuis is ontstaan, het aantal interne leerlingen waarvoor een werkingsbudget wordt toegekend, gedurende het schooljaar van de afsplitsing, op 1 september van dat schooljaar geteld.<br>
-&nbsp;<br>
-§7. Uiterlijk in de loop van het schooljaar van ingebruikname van een nieuwe vestigingsplaats, en alleszins vóór 15 juni, zal de Vlaamse Regering, na kennisname van het advies van de onderwijsinspectie van de Vlaamse Gemeenschap, een beslissing nemen over de opname van deze vestigingsplaats in de financiering- of subsidieregeling.<br>
-Indien de onderwijsinspectie vóór 15 juni geen advies verstrekt heeft, wordt het advies geacht gunstig te zijn.
+...
 
 ### ART III.11.
 
-§1. De verificatie en onderwijsinspectie controleren :<br>
-1° of de in dit hoofdstuk gestelde voorwaarden nageleefd zijn;<br>
-2° of de door het decreet toegekende verhoogde werkingsbudget uitsluitend aangewend wordt voor het dekken van de uitgaven inherent aan de werking van het internaat of het tehuis.<br>
-&nbsp;<br>
-§2. De goedkeuring gegeven door de onderwijsinspectie inzake de voorwaarde bedoeld in artikel III.4,§2,5°, geldt voor een periode van 5 schooljaren.
+...
 
 ## Afdeling 2 [... (opgeh. decr. 16 juni 2023, art. 136, I: 1 september 2023)]
 
 ### ART III.12.
 
-Een internaat of tehuis dat verbonden is aan een door het Gemeenschapsonderwijs gefinancierde school voor gewoon onderwijs of een internaat of tehuis dat verbonden is aan een door het Gemeenschapsonderwijs gefinancierde school voor buitengewoon onderwijs, kan tot een autonoom internaat of tehuis worden omgevormd.
+...
 
 ### ART III.13.
 
-§1. In ieder internaat of tehuis is er een ambt van beheerder.<br>
-&nbsp;<br>
-§2. De rekenplichtigheid wordt waargenomen door één van de studiemeesters-opvoeders van het internaat of van het tehuis.<br>
-&nbsp;<br>
-In het kader van de wedertewerkstelling kan dit personeelslid vervangen worden door een lid van het bestuurs- en onderwijzend personeel of van het opvoedend hulppersoneel dat ter beschikking gesteld is bij ontstentenis van betrekking en dit in afwachting van zijn definitieve reaffectatie. De rekenplichtigheid kan ook worden waargenomen door een in afwachting van een definitieve reaffectatie bij ontstentenis van betrekking ter beschikking gesteld lid van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel of het administratief personeel.
+...
 
 ### ART III.14.
 
-De Vlaamse Regering is ertoe gemachtigd de bepalingen van dit hoofdstuk 2 te wijzigen, geheel of gedeeltelijk op te heffen en/of te vervangen.
+...
 
 ## Hoofdstuk 3 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
 
@@ -428,117 +357,39 @@ De Vlaamse Regering is ertoe gemachtigd de bepalingen van dit hoofdstuk 2 te wij
 
 ### ART III.15.
 
-§1. Het werkingsbudget wordt uitbetaald aan het bestuur van elk internaat of tehuis. Het kan worden aangewend ten behoeve van al de scholen, centra, internaten en tehuizen behorende tot hetzelfde bestuur. Bij deze aanwending dient het bestuur rekening te houden met een gelijke behandeling van haar scholen, centra, internaten en tehuizen en van de leerlingen of studenten die ertoe behoren.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering bepaalt :<br>
-1° de wijze waarop de internaten en tehuizen hun aanvraag tot financiering of subsidiëring indienen;<br>
-2° de controlemaatregelen inzonderheid wat de aanwending van de<br>
-financiering of subsidiering betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending.
+...
 
 ### ART III.16.
 
-§1. In geval van overname van een internaat of tehuis door een ander bestuur, wordt het bedrag van het werkingsbudget waarop het overgenomen internaat of tehuis recht had volgens de geldende bepalingen ter zake, voor het eerste schooljaar van de overname, aan het nieuwe bestuur toegekend.<br>
-<br>
-§2. Een internaat of tehuis kan aan een school die afhangt van een ander schoolbestuur worden verbonden op basis van een overeenkomst tussen de twee betrokken schoolbesturen.
+...
 
 ### ART III.17.
 
-§1. Jaarlijks wordt een forfaitair werkingsbudget verleend om de kosten te dekken die verbonden zijn aan de werking en uitrusting van het internaat of tehuis en aan de uitgaven voor investeringen.<br>
-&nbsp;<br>
-§2. Naast de bij toepassing van §1, toegekende werkingsbudget per interne leerling, ontvangen de scholen van het gesubsidieerd gewoon basis- of secundair onderwijs die een internaat hebben en de autonome internaten, jaarlijks een forfaitaire werkingsbudget van 15.283,94 euro.<br>
-Dit bedrag wordt jaarlijks geïndexeerd met de aanpassingscoëfficiënt A2, zoals bedoeld in het artikel III.18.<br>
-&nbsp;<br>
-§3. Naast de in de vorige paragraaf toegekende forfaitaire werkingsbudget ontvangen de gesubsidieerde internaten 2.915.000 euro bijkomend werkingsbudget.<br>
-<br>
-Dit bedrag wordt jaarlijks vermenigvuldigd met aanpassingscoëfficiënt A2, zoals bedoeld in het artikel III.18.<br>
-<br>
-Dit bedrag wordt verdeeld op basis van het aantal interne leerlingen per internaat in het secundair onderwijs die in het voorafgaande schooljaar een selectieve participatietoeslag leerling bekwamen.
+...
 
 ### ART III.18.
 
-§1. Dit artikel wordt vervangen door artikel III.19, §2 tot en met §3 van deze codificatie, op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Dit artikel is van toepassing op de gefinancierde en gesubsidieerde internaten en tehuizen.<br>
-<br>
-§3. Voor de toepassing van dit artikel wordt verstaan onder :<br>
-1° lln1 : het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs in de gemeenschapsinternaten respectievelijk gesubsidieerde internaten op 1 februari van het vorige schooljaar;<br>
-2° lln 0 : het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs in de gemeenschapsinternaten respectievelijk gesubsidieerde internaten op 1 februari van het voorlaatste schooljaar;<br>
-3° c1 : het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar;<br>
-4° c0 : het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
-5° lk1 : het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar;<br>
-6° lk0 : het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
-<br>
-Het werkingsbudget van de internaten worden jaarlijks berekend door de kredieten die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor het werkingsbudget bestemd zijn, te vermenigvuldigen met de coëfficiënten A1 en A2, die als volgt worden berekend :<br>
-A1 = 0,6 + 0,4 (lln1/lln0)<br>
-A2 = 0,4 (c1/c0) + 0,6 (lk1/lk0)<br>
-<br>
-§4. In de gesubsidieerde internaten is het werkingsbudget per internaat gelijk aan de vermenigvuldiging van de geldwaarde per punt met het puntengewicht van de internen en met het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs.<br>
-Het puntengewicht per leerling wordt door de Vlaamse Regering vastgesteld. Bij het vaststellen van het puntengewicht kan de Vlaamse Regering slechts rekening houden met het onderwijsniveau, de onderwijsvorm, de studierichting, het type en de benodigde middelen voor de organisatie van een internaat.<br>
-<br>
-De geldwaarde per punt is gelijk aan het quotiënt van de deling van het werkingsbudget voor de gesubsidieerde internaten die met toepassing van paragraaf 3 zijn verkregen en verminderd zijn met de som van de forfaitaire bedragen bedoeld in paragraaf 2, van artikel III.17, door het aantal te verdelen punten. Dit aantal wordt verkregen door in alle gesubsidieerde internaten het aantal internen met het overeenkomstige puntengewicht te vermenigvuldigen en van deze producten de som te maken.<br>
-<br>
-§5. In afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2012 gelijk aan 0,4 + 0,6 (lk1/lk0).<br>
-<br>
-§6. in afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2013 gelijk aan 0,4 + 0,6 (lk1/lk0).<br>
-§7. In afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2015 gelijk aan 0,4 + 0,6 (lk1/lk0).
+...
 
 ### ART III.19.
 
-§1. Dit artikel treedt in werking op een datum nader te bepalen door de Vlaamse Regering.<br>
-§2. De Vlaamse Regering bepaalt het werkingsbudget en de wijze van toekenning voor de volgende voorzieningen :<br>
-1° de gefinancierde en gesubsidieerde internaten voor buitengewoon onderwijs;<br>
-2° de gefinancierde en gesubsidieerde internaten;<br>
-3° de tehuizen van het gemeenschapsonderwijs voor kinderen met ouders die geen vaste verblijfplaats hebben, verder 'tehuizen' genoemd.<br>
-<br>
-§3. Bij het bepalen van het werkingsbudget voor de in §2 onderscheiden voorzieningen kan de Vlaamse Regering rekening houden met :<br>
-1° het onderwijsniveau waar de interne school loopt, met dien verstande dat er geen werkingsbudget bepaald wordt voor de interne ingeschreven in het hoger onderwijs;<br>
-2° het soort onderwijs, zijnde gewoon of buitengewoon onderwijs, van de school waar de interne school loopt, in het geval van buitengewoon onderwijs kan er een verder onderscheid gemaakt worden per type en/of opleidingsvorm;<br>
-3° de categorie van de voorziening zoals bedoeld in §2, waar de leerling intern is;<br>
-4° de leerlingenkenmerken zoals bedoeld in artikel 78, §1, 1°, van het decreet basisonderwijs van 25 februari 1997 en artikel 242, §1, 1°, van de Codex Secundair Onderwijs.
+...
 
 ## Afdeling 2 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
 
 ### ART III.20.
 
-§1. De vereniging zonder winstoogmerk Koninklijk Werk IBIS in Bredene, heeft :<br>
-1° als opdracht basisonderwijs en voltijds secundair zeevisserijonderwijs te organiseren voor jongeren die wezen zijn van vissers, zeelieden en binnenschippers of die kansarm zijn, en voor hen een internaat op te richten;<br>
-2° als bijzondere opdracht en in zoverre de ouders of de personen die in rechte of in feite de ouderlijke macht uitoefenen hierom verzoeken te zorgen voor de opvoeding en de verzorging, voeding en kleding inbegrepen, van die jongeren.<br>
-&nbsp;<br>
-§2. Onverminderd de gewone subsidiëring en binnen de perken van de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt aan het Koninklijk Werk IBIS per leerling een buitengewone subsidie van 12.460 euro per begrotingsjaar toegekend.<br>
-Dit bedrag wordt jaarlijks geïndexeerd door het bedrag van het voorgaande jaar te vermenigvuldigen met de aanpassingscoëfficiënt A = 0,4 (C1/C0) + 0,6 (Lkl/Lk0), waarbij :<br>
-1° Cl/C0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
-2° Lkl/Lk0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
-Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in aanmerking. Er komen niet meer dan 110 leerlingen voor subsidiëring in aanmerking;<br>
-3° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2012 gelijk aan 1;<br>
-4° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2013 gelijk aan 1;<br>
-5° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2015 gelijk aan 1.<br>
-&nbsp;<br>
-§3. ...<br>
-&nbsp;<br>
-§4. De subsidie wordt als volgt uitbetaald :<br>
-1° een voorschot van 2/3 van de totale subsidie voor het einde van het tweede kwartaal;<br>
-2° een saldo van 1/3 van de totale subsidie bij het begin van het vierde kwartaal.<br>
-&nbsp;<br>
-§5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.<br>
-<br>
-§ 6. De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de opdracht, vermeld in paragraaf 1.
+...
 
 ## Afdeling 3 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
 
 ### ART III.20/1.
 
-Deze afdeling is van toepassing op:<br>
-1° internaten als vermeld in artikel III.21 en III.35 voor wat betreft hun openstelling op schooldagen;<br>
-2° tehuizen als vermeld in artikel III.1, § 1, eerste lid, III.20 en III.35, § 1, 2°, voor wat betreft hun openstelling op schooldagen;<br>
-3° de internaten buitengewoon onderwijs, vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2.<br>
-<br>
-Verder in deze afdeling `instellingen' genoemd.
+...
 
 ### ART III.20/2
 
-Voor de instellingen wordt een budget van 1.000.000 euro aan bijkomende werkingsmiddelen voorzien.<br>
-<br>
-Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van het aantal internen&nbsp;ingeschreven op 1 februari 2022 die beschikken over een jeugdhulpverleningsbeslissing voor de typemodule specifieke actie of een vonnis van de jeugdrechtbank.
+...
 
 ## Hoofdstuk 4 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
@@ -548,188 +399,83 @@ Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van
 
 ### ART III.21.
 
-Het aantal betrekkingen in het ambt van studiemeester-opvoeder internaat wordt voor het geheel van de internaten verbonden aan een gemeenschapsschool voor basis- of secundair onderwijs en voor de autonome internaten van het gemeenschapsonderwijs, vastgesteld als volgt :<br>
-a) één betrekking per internaat; en<br>
-b) één betrekking per reeks van 21 internen uit het basis- en secundair onderwijs, ingeschreven op de decretaal toepasbare teldatum; en<br>
-c) het aantal organieke voltijdse betrekkingen, bedoeld in a) en b), dat wordt ingericht op de eerste schooldag van oktober van het lopende schooljaar, wordt vanaf het schooljaar 2009-2010 vermeerderd met een bijkomend urenpakket dat gelijk is aan voormeld aantal betrekkingen vermenigvuldigd met 3,768 uur en met afronding naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier. Dit bijkomend urenpakket wordt aangewend voor de compensatie van de nachtprestaties van de studiemeesters-opvoeder internaat, meer bepaald de permanente aanwezigheid gedurende de nacht tussen het slapengaan en het opstaan van de leerlingen, die met ingang van 1 september 2009 voor vier uur dienst geteld wordt, zonder dat vanaf die datum de duur van de nacht mag toenemen ten aanzien van de duur op 31 mei 2009. Met de uren die na desbetreffende compensatie overblijven, kunnen aanwervingen gebeuren met het oog op de verbetering van de arbeidsomstandigheden van de studiemeesters-opvoeder internaat.
+...
 
 ### ART III.22.
 
-Alleen op de leerlingen, waarvan de ouders of de personen, die ten hunne opzichte de ouderlijke macht uitoefenen, in België niet onderworpen zijn aan de personenbelasting als inwoner van het Koninkrijk en dit volgens het Wetboek der inkomstenbelastingen, wordt voor het vaststellen van het aantal regelmatige leerlingen de coëfficiënt 0,8 toegepast, rekening houdend met de Overeenkomst tussen België en Luxemburg tot het vermijden van dubbele belastingen en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en Slotprotocol, ondertekend te Luxemburg op 17 september 1970.<br>
-<br>
-Deze bepaling geldt voor de toepassing van artikel III.21.
+...
 
 ## Onderafdeling 2 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
 ### ART III.23.
 
-Deze onderafdeling is van toepassing op internaten van het buitengewoon onderwijs en tehuizen van het Gemeenschapsonderwijs.&nbsp;
+...
 
 ### ART III.24.
 
-Het volume van de betrekkingen van het paramedisch personeel en van het personeel, toegekend in het kader van het internaat of tehuis, wordt per internaat of tehuis en voor elk schooljaar bepaald volgens de norm bepaald in artikel III.25 tot en met III.34.
+...
 
 ### ART III.25.
 
-§1. Het urenpakket is de som van de producten bekomen door voor elk type en niveau van onderwijs, het aantal in aanmerking komende interne leerlingen te vermenigvuldigen met het overeenkomstig richtgetal.<br>
-&nbsp;<br>
-§2. In aanmerking komende interne leerlingen zijn die welke als regelmatige leerlingen dienen beschouwd te worden overeenkomstig de geldende regelgeving en die als interne leerlingen ingeschreven waren op 1 februari van het voorafgaande schooljaar en in een school voor buitengewoon onderwijs de lessen volgen.<br>
-&nbsp;<br>
-In aanmerking komende interne leerlingen zijn ook die leerlingen die als regelmatige leerlingen zijn ingeschreven op 1 februari van het voorafgaande schooljaar in een school voor gewoon onderwijs. Voor de bepaling van het urenpakket geldt voor die leerlingen het richtgetal 7 of, voor leerlingen met een attest voor het buitengewoon onderwijs, het richtgetal dat overeenstemt met het betrokken type en niveau in het buitengewoon onderwijs.<br>
-&nbsp;<br>
-In afwijking hiervan is voor de school waar een internaat of tehuis in de financiering of subsidiering wordt opgenomen, de teldatum voor het schooljaar van financiering of subsidiering, 1 oktober van dat schooljaar.
+...
 
 ### ART III.26.
 
-§1. Naast het berekende urenpakket vermeld in artikel III.25, wordt, vanaf het schooljaar 2009-2010, per schooljaar een bijkomend urenpakket toegekend.<br>
-&nbsp;<br>
-Dit bijkomend urenpakket wordt aangewend voor de compensatie van de nachtprestaties van de studiemeesters-opvoeders internaat, meer bepaald de permanente aanwezigheid gedurende de nacht tussen het slapengaan en het opstaan van de leerlingen, die voor vier uur dienst geteld wordt. Onder geen beding mag de duur van de nacht met ingang van 1 september 2009 toenemen ten aanzien van de duur ervan op 31 mei 2009. Met de overblijvende uren kunnen aanwervingen gebeuren met het oog op de verbetering van de arbeidsomstandigheden van de studiemeesters-opvoeders internaat.<br>
-&nbsp;<br>
-§2. Het bijkomende urenpakket, vermeld in §1, wordt als volgt bepaald :<br>
-Het aantal organieke voltijdse betrekkingen, georganiseerd in het ambt van studiemeester-opvoeder internaat, ingericht op de eerste schooldag van oktober van het lopende schooljaar binnen het urenpakket zoals bedoeld in artikel III.25, wordt vermenigvuldigd met 3,768 uur. Het product wordt afgerond naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier.
+...
 
 ### ART III.27.
 
-De richtgetallen worden als volgt vastgesteld :<br>
-&nbsp;
-<table border="1" cellspacing="0" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="width: 400px;">TYPE VAN ONDERWIJS</td>
-			<td style="width: 132px;">RICHTGETAL</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">basisaanbod lager onderwijs</td>
-			<td style="width: 132px;">7</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">6,5</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">2. basisonderwijs</td>
-			<td style="width: 132px;">12,9</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs (uitgez. opleidingsvorm 1)</td>
-			<td style="width: 132px;">8,5</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs opleidingsvorm 1</td>
-			<td style="width: 132px;">10,5</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">3. basisonderwijs</td>
-			<td style="width: 132px;">8,1</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">7,3</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">4. basisonderwijs</td>
-			<td style="width: 132px;">14</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">12,5</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">6. basisonderwijs</td>
-			<td style="width: 132px;">9,1</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">8,5</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">7. basisonderwijs</td>
-			<td style="width: 132px;">9,9</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">8,6</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">9. basisonderwijs</td>
-			<td style="width: 132px;">8,1</td>
-		</tr>
-		<tr>
-			<td style="width: 400px;">secundair onderwijs</td>
-			<td style="width: 132px;">7,3</td>
-		</tr>
-	</tbody>
-</table>
+...
 
 ### ART III.28.
 
-§1. In afwijking op de normen van artikel III.25 en met het oog op bijzondere omstandigheden kan de Vlaamse minister, bevoegd voor onderwijs, met ingang van 1 september 1982 extra lesuren of uren toekennen aan scholen, internaten en tehuizen.<br>
-&nbsp;<br>
-§2. Met ingang van 1 september 1989 kan het aantal lesuren of uren globaal niet meer bedragen dan 0,5 % van het totaal aantal lesuren en uren dat het voorgaand schooljaar werd toegekend aan respectievelijk het Gemeenschapsonderwijs, het officieel gesubsidieerd onderwijs en het vrij gesubsidieerd onderwijs. Voor de berekening van het aantal extra-lesuren of uren gebeurt de omrekening van de voltijdse ambten naar lesuren of uren op basis van de minimumprestaties eigen aan ieder ambt.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering zal het salarisequivalent van vijf procent van het totaal van deze extra lesuren en/of uren met ingang van 1 januari 1998 prioritair aanwenden om de integratietoelage voor het geïntegreerd onderwijs aan te passen.
+...
 
 ### ART III.29.
 
-§1. De scholen, internaten en tehuizen voor buitengewoon onderwijs die bezocht worden door de interne leerlingen, krijgen, voor de behandeling die hen door het paramedisch personeel worden verstrekt gedurende de openstellingsuren voor de externe leerlingen, een aantal uren ter beschikking, berekend volgens de richtgetallen die van toepassing zijn op de externe leerlingen van hetzelfde type en niveau van onderwijs.<br>
-&nbsp;<br>
-§2. De uren, bedoeld in §1, worden in mindering gebracht van het urenpakket zoals bepaald in artikel III.25, §1. Het saldo van deze bewerking is het urenpakket dat wordt toegekend aan het buitengewoon onderwijs in het kader van een internaat of van een tehuis.
+...
 
 ### ART III.30.
 
-Ongeacht het aantal interne leerlingen bedraagt het urenpakket na de aftrek, zoals voorzien in artikel IV.29, §2, per internaat of tehuis ten minste 140 uren.
+...
 
 ### ART III.30/1.
 
-De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de internaten buitengewoon onderwijs.
+...
 
 ## Onderafdeling 3 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
 ### ART III.31.
 
-Er wordt per internaat en per tehuis een ambt van internaatbeheerder opgericht. Dit ambt wordt niet op het urenpakket aangerekend.
+...
 
 ### ART III.32.
 
-Binnen het urenpakket van een internaat of tehuis kunnen in de categorie van het paramedisch personeel de ambten van kinderverzorger, verpleger, kinesitherapeut, logopedist en ergotherapeut worden ingericht.
+...
 
 ### ART III.33.
 
-Binnen het urenpakket van een internaat of tehuis kan in de categorie van het opvoedend hulppersoneel het ambt van studiemeester-opvoeder van een internaat worden ingericht.
+...
 
 ### ART III.34.
 
-Binnen het urenpakket van een internaat of tehuis kunnen in de categorie van het administratief personeel de ambten van klerk-typist en rekenplichtig-correspondent worden ingericht.
+...
 
 ## Onderafdeling 4. [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
 ### ART III.34/1.
 
-Met ingang van 1 september 2022 komt een betrekking in een wervings- of bevorderingsambt in een internaat buitengewoon onderwijs als vermeld in onderafdeling 2 niet in aanmerking voor een benoeming in vast verband.<br>
-<br>
-In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat gebruikmaakt van de mogelijkheid, vermeld in artikel 40ter, § 2, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991.<br>
-<br>
-In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat uiterlijk op 31 augustus 2022 is toegelaten tot de proeftijd in een bevorderingsambt.<br>
-<br>
-In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat uiterlijk op 1 september 2022 het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven.<br>
-<br>
-In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat niet voldoet aan de voorwaarden, vermeld in het tweede tot en met het vierde lid, en dat voor 1 september 2022 al diensten gepresteerd heeft in een wervings- of bevorderingsambt in een internaat buitengewoon onderwijs als vermeld in onderafdeling 2.
+...
 
 ## Afdeling 2 Gesubsidieerd onderwijs
 
 ### ART III.35.
 
-§1. In de gesubsidieerde internaten worden er een salaristoelage verleend voor volgende personeelsleden :<br>
-1° één betrekking in het ambt van beheerder;<br>
-2° twee of meer betrekkingen in het ambt van studiemeester-opvoeder internaat indien het internaat een tehuis is voor kinderen met ouders die geen vaste verblijfplaats hebben; het aantal betrekkingen wordt bepaald overeenkomstig de normen die voor de gemeenschapsinternaten gelden;<br>
-3° betrekkingen in het ambt van studiemeester-opvoeder internaat indien het internaat niet onder toepassing van 2° valt, op basis van volgende normen :<br>
-a) twee betrekkingen indien in het internaat uitsluitend internen uit het secundair onderwijs verblijven;<br>
-b) twee en een halve betrekkingen indien in het internaat ook internen uit het basisonderwijs verblijven;<br>
-c) het aantal organieke voltijdse betrekkingen, bedoeld in a) respectievelijk b) naargelang van het geval, dat wordt ingericht op de eerste schooldag van oktober van het lopende schooljaar, wordt vanaf het schooljaar 2009-2010 vermeerderd met een bijkomend urenpakket dat gelijk is aan 8 respectievelijk 9 uren. Dit bijkomend urenpakket wordt aangewend voor de compensatie van de nachtprestaties van de studiemeesters-opvoeder internaat, meer bepaald de permanente aanwezigheid gedurende de nacht tussen het slapengaan en het opstaan van de leerlingen, die met ingang van 1 september 2009 voor vier uur dienst geteld wordt, zonder dat vanaf die datum de duur van de nacht mag toenemen ten aanzien van de duur op 31 mei 2009. Met de uren die na desbetreffende compensatie overblijven, kunnen aanwervingen gebeuren met het oog op de verbetering van de arbeidsomstandigheden van de studiemeesters-opvoeder internaat.<br>
+§1....<br>
 &nbsp;<br>
-§2. Het opvoedend hulppersoneel en het ondersteunend personeel van de scholen, benoemd na 31 augustus 1985, mag echter geheel of gedeeltelijk tewerkgesteld worden in het gesubsidieerd internaat dat aan de school of scholengroep verbonden is, terwijl het opvoedend hulppersoneel van het internaat geheel of gedeeltelijk mag ingezet worden in de school of groep van scholen waaraan het verbonden is bijaldien het voldoet aan de vereiste voorwaarden.<br>
+§2. ...<br>
 &nbsp;<br>
-§3. De te subsidiëren prestaties worden vastgelegd overeenkomstig de normen die voor hetzelfde onderwijsniveau en hetzelfde onderwijstype in het gemeenschapsonderwijs gelden.<br>
+§3. ...<br>
 &nbsp;<br>
 §4. De Vlaamse Regering legt een regeling vast om de bestaande DAC-arbeidsplaatsen in de gesubsidieerde vrije internaten te regulariseren.
 
@@ -737,185 +483,95 @@ c) het aantal organieke voltijdse betrekkingen, bedoeld in a) respectievelijk b)
 
 ### ART III.36.
 
-§1. Een raad van bestuur van een scholengroep in het gemeenschapsonderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door VDAB, of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken personeel aanwerven in de internaten.<br>
-Een raad van bestuur kan voormeld principe aanwenden voor de personeelscategorieën van toepassing in deze internaten vermeld in artikel 2, §1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uit zondering van het statutaire meesters-, vak- en dienstpersoneel.<br>
-&nbsp;<br>
-De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
-&nbsp;<br>
-Het personeelslid dat door de raad van bestuur wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs is op hem van toepassing.<br>
-&nbsp;<br>
-Het Agentschap voor Onderwijsdiensten betaalt het salaris rechtstreeks aan de betrokken personeelsleden. Dezelfde dienst vordert het brutosalaris, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van de raad van bestuur terug.<br>
-&nbsp;<br>
-§2. Een bestuur in het gesubsidieerd onderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door VDAB, of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken personeel aanwerven in die internaten.<br>
-Een bestuur kan voormeld principe aanwenden voor de personeelscategorieën van toepassing in deze internaten vermeld in artikel 4, §1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
-&nbsp;<br>
-De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het bestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
-&nbsp;<br>
-Het personeelslid dat door een bestuur wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs is op hem van toepassing.<br>
-<br>
-Het Agentschap voor Onderwijsdiensten betaalt de salaristoelage rechtstreeks aan de betrokken personeelsleden. Diezelfde dienst vordert de brutosalaristoelage, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van het bestuur terug.
+...
 
 ## Hoofdstuk 5 [... (opgeh. decr. 16 juni 2023, art. 141, I: 1 september 2023)]
 
 ### ART III.37.
 
-De Vlaamse Regering bepaalt de regelen inzake de inrichting en de organisatie van een internaat van het gemeenschapsonderwijs, dat inzonderheid kan instaan voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, en dat als zodanig is gelijkgesteld met een in het kader van de bijzondere jeugdzorg erkende voorziening.<br>
-<br>
-De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit.
+...
 
 ## Hoofdstuk 6 [... (opgeh. decr. 16 juni 2023, art. 142, I: 1 september 2023)]
 
 ### ART III.38.
 
-Verblijf en begeleiding voor haar internen tijdens schoolvrije dagen wordt door het gemeenschapsonderwijs georganiseerd in minimaal acht medisch-pedagogische instituten van het gemeenschapsonderwijs, instituten voor buitengewoon secundair onderwijs van het gemeenschapsonderwijs en autonome internaten buitengewoon onderwijs van het gemeenschapsonderwijs.<br>
-&nbsp;<br>
-Op voorstel van de Raad van het Gemeenschapsonderwijs bepaalt de Vlaamse Regering welke van de vermelde instituten en internaten verblijf en begeleiding zullen organiseren. Verblijf en begeleiding tijdens schoolvrije dagen, vermeld in het eerste lid, omvat de modules verblijf en begeleiding, gemoduleerd conform het decreet betreffende de integrale jeugdhulp van 12 juli 2013 en respecteert het decreet van 17 oktober 2003 betreffende de kwaliteit van gezondheids- en welzijnsvoorzieningen en het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp.<br>
-&nbsp;<br>
-De Vlaamse Regering bepaalt de organisatie van en de ambten, de bekwaamheidsbewijzen en de prestatie-, verlof- en bezoldigingsregeling voor verblijf en begeleiding tijdens schoolvrije dagen. Ze bepaalt eveneens per ambt het totaal aantal uren dat moet worden georganiseerd om in verblijf en begeleiding tijdens schoolvrije dagen te kunnen voorzien. In afwachting hiervan blijven de bestaande wettelijke, decretale of reglementaire bepalingen van kracht.<br>
-<br>
-De Vlaamse Regering garandeert een personeelskader dat minimaal nodig is om verblijf en begeleiding te voorzien. De Vlaamse Regering stelt jaarlijks minimaal 7515 uren voor opvoedend hulppersoneel, paramedisch en sociaal personeel, psychologisch en medisch personeel, administratief personeel en minimaal 350.000 euro werkingsbudget ter beschikking voor een capaciteit van 265 plaatsen verblijf en begeleiding als vermeld in het tweede lid en sluit daartoe beheersovereenkomsten af met de scholengroep van de in het eerste lid vermelde instituten en internaten.<br>
-&nbsp;<br>
-De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie,&nbsp;en de onderwijsinspectie zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn gezamenlijk bevoegd voor de controle op de kwaliteit van het verblijf en de begeleiding, als vermeld in het tweede lid.
+...
 
 ### ART III.39.
 
-Met ingang van 1 september 2015 heeft een nieuwe vaste benoeming voor een personeelslid dat is aangesteld in een ambt van een internaat dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen, zoals bedoeld in artikel III.38, derde lid, geen uitwerking ten aanzien van de overheid.<br>
-&nbsp;<br>
-In afwijking van het eerste lid heeft een vaste benoeming op 1 juli 2016 wel uitwerking ten aanzien va n de overheid als het gaat om een personeelslid dat gebruikmaakt van artikel 40ter, §2, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs.<br>
-&nbsp;<br>
-In afwijking van het eerste lid heeft een vaste benoeming voor een personeelslid van een internaat dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat opgenomen is op de nominatieve lijst die op 30 april 2015 door de herplaatsingscommissie is vastgelegd en dat op 1 september 2015 het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven.<br>
-&nbsp;<br>
-In afwijking van het eerste lid heeft een vaste benoeming voor een personeelslid van een internaat dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat vóór 1 september 2015 werd toegelaten tot de proeftijd in het ambt van hoofdopvoeder in een opvangcentrum en is opgenomen op de nominatieve lijst die op 30 april 2015 door de herplaatsingscommissie is vastgelegd. In afwijking van artikel 48, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs moet het betrokken personeelslid tijdens zijn proeftijd effectief presteren in het ambt van hoofdopvoeder in een opvangcentrum of in een internaat dat in verblijf en begeleiding tijdens schoolvrije dagen voorziet voor het volume waarin het werd toegelaten tot de proeftijd.<br>
-&nbsp;<br>
-Vanaf 1 januari 2016 geldt dat in afwijking van het eerste lid een vaste benoeming voor een personeelslid van een internaat dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen, wel uitwerking heeft ten aanzien van de overheid als het gaat om een personeelslid dat vóór 1 september 2015 werd toegelaten tot de proeftijd in het ambt van hoofdopvoeder in een opvangcentrum en is opgenomen op de nominatieve lijst die op 30 april 2015 door de herplaatsingscommissie is vastgelegd. In afwijking van artikel 48, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs moet het betrokken personeelslid tijdens zijn proeftijd effectief presteren in het ambt van hoofdopvoeder in een opvangcentrum of in een internaat dat in verblijf en begeleiding tijdens schoolvrije dagen voorziet voor het volume waarin het werd toegelaten tot de proeftijd.
+...
 
 ### ART III.40.
 
-§1. In afwijking op de regelgeving inzake reaffectatiecommissies wordt er, ten gevolge van de reorganisatie van verblijf en begeleiding tijdens schoolvrije dagen, een herplaatsingscommissie opgericht die instaat voor de herplaatsing van de personeelsleden, bedoeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs die instaan voor verblijf en begeleiding tijdens schoolvrije dagen die vastbenoemd zijn, tot de proeftijd toegelaten zijn of tijdelijk aangesteld zijn in een vacante betrekking.<br>
-&nbsp;<br>
-§2. De herplaatsingscommissie herplaatst zowel de vastbenoemde, de tot de proeftijd toegelaten als de tijdelijke personeelsleden in vacante betrekkingen voor de volledige opdracht waarvan ze op 30 april 2015 titularis zijn.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de bevoegdheden, de samenstelling en de werkwijze van deze herplaatsingscommissie. Zij houdt daarbij minstens rekening met volgende criteria:<br>
-- de herplaatsing gaat in op 1 september, tenzij de betrekking vacant wordt in de loop van het schooljaar. In dat geval gaat de herplaatsing zo snel mogelijk in;<br>
-- het personeelslid kan zijn voorkeur uitspreken voor een plaats van tewerkstelling.<br>
-&nbsp;<br>
-§4. De herplaatsingscommissie treedt in werking op 30 april 2015 en houdt op te bestaan als de reorganisatie bedoeld in paragraaf 1 volledig afgerond is.
+...
 
 ### ART III.41.
 
-§1. Elke scholengroep is verplicht om de hem toegewezen personeelsleden in dienst te nemen.<br>
-&nbsp;<br>
-§2. De scholengroep kan tegen de herplaatsing geen bezwaar indienen.
+...
 
 ### ART III.42.
 
-§1. De herplaatste personeelsleden zijn verplicht om de toegewezen herplaatsing te aanvaarden en deze op te nemen op 1 september van elk schooljaar of op de datum waarop de vacante betrekking kan worden ingenomen.<br>
-&nbsp;<br>
-§2. Het personeelslid kan tegen de herplaatsing enkel bezwaar indienen op grond van het niet volgen van de criteria die de Vlaamse Regering vastlegt.
+...
 
 ### ART III.43.
 
-De personeelsleden verkrijgen door de definitieve herplaatsing de hoedanigheid van personeelslid van het internaat dat in verblijf en begeleiding tijdens schoolvrije dagen voorziet, ten belope van de opdracht waarvoor ze er tewerkgesteld worden. Deze personeelsleden gaan, al naargelang ze vastbenoemd, tot de proeftijd toegelaten of tijdelijk aangesteld zijn, over als vastbenoemde, tot de proeftijd toegelaten of tijdelijk aangestelde personeelsleden. De personeelsleden die voor de herplaatsing recht hadden op een tijdelijke aanstelling van doorlopende duur, zoals bedoeld in artikel 21, §3, en artikel 21bis, §3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs behouden dit recht na de herplaatsing.<br>
-&nbsp;<br>
-De diensten die het personeelslid volgens de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs heeft gepresteerd in een ambt of betrekking worden geacht na de herplaatsing ook gepresteerd te zijn in hetzelfde ambt of dezelfde betrekking.
+...
 
 ### ART III.44.
 
-Personeelsleden die geen keuze voor een plaats van tewerkstelling indienen of die een herplaatsing volgens de geldende regelgeving weigeren, worden ambtshalve ontslagen.
+...
 
 ## Hoofdstuk 7 [... (opgeh. decr. 16 juni 2023, art. 143, I: 1 september 2023)]
 
 ### ART III.45.
 
-Het kostgeld van een in een gemeenschapsinternaat opgenomen leerplichtig kind met ouders die geen vaste verblijfplaats hebben, valt ten laste van zijn ouders.<br>
-&nbsp;<br>
-De Vlaamse Gemeenschap draagt bij in het kostgeld. Deze bijdrage wordt toegevoegd bij het werkingsbudget van het Gemeenschapsonderwijs en wordt door het Gemeenschapsonderwijs in mindering gebracht op het kostgeld. Deze bijdrage is gelijk aan :<br>
-- voor het basisonderwijs : 546,18 euro;<br>
-- voor het secundair onderwijs : 677,57 euro.<br>
-Ze wordt geïndexeerd overeenkomstig het indexatiemechanisme A2, bedoeld in artikel III.18.
+...
 
 ## [Hoofdstuk 8. Aanvangsbegeleiding, beleidsondersteuning en professionalisering (verv. decr. 25februari 2022, art. 36, I: 1 september 2021)]
 
 ### ART III.46.
 
-§ 1. Aan instellingen voor residentiële en semiresidentiële opvang van leerlingen, hierna instellingen te noemen, worden uren toegekend voor aanvangsbegeleiding, beleidsondersteuning en professionalisering.<br>
+§1. Aan semi-internaten als vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen, worden uren toegekend voor aanvangsbegeleiding, beleidsondersteuning en professionalisering.<br>
 <br>
-§ 2. Voor de toepassing van dit hoofdstuk worden als instellingen beschouwd:<br>
-1° internaten als vermeld in de artikelen III.21 en III.35 voor wat betreft hun openstelling op schooldagen;<br>
-2° tehuizen als vermeld in de artikelen III.1, § 1, eerste lid, III.20, III.35, § 1, 2° en III.37, voor wat betreft hun openstelling op niet-schooldagen;<br>
-3° internaten buitengewoon onderwijs, vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2;<br>
-4° internaten met permanente openstelling als vermeld in hoofdstuk 6;<br>
-5° semi-internaten als vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen.
+§2. Het aantal uren voor aanvangsbegeleiding, beleidsondersteuning en professionalisering waarop het semi-internaat recht heeft, is 58 uur x B/C, waarbij:<br>
+1° B: het totale aantal toegekende uren van het semi-internaat van het vorige schooljaar;<br>
+2° C: het totale aantal toegekende uren van alle semi-internaten van het vorige schooljaar van alle instellingen samen.<br>
+<br>
+De uren, vermeld in het eerste lid, worden binnen een semi-internaat als volgt afgerond: als het eerste cijfer na de komma groter dan vier is, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§3. Om B en C te bepalen, worden de toegekende ambten in semi-internaten omgezet in uren, waarbij een voltijds ambt in 38 uren wordt omgezet.<br>
+<br>
+§4. De uren kunnen worden samengelegd.<br>
+<br>
+De semi-internaten die kiezen om de uren samen te leggen, richten daarvoor een of meer samenwerkingsverbanden aanvangsbegeleiding, beleidsondersteuning en professionalisering op, waar afspraken worden gemaakt over de aanwending van die uren.<br>
+<br>
+§5. De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in paragraaf 4, de volgende maatregelen vastleggen:<br>
+1° de duur van de samenwerking;<br>
+2° de vorm van overeenkomst, waarmee het samenwerkingsverband wordt opgericht; 3°&nbsp;&nbsp; &nbsp;de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.<br>
+<br>
+§6. Met de uren kunnen in elke instelling betrekkingen in wervingsambten worden opgericht overeenkomstig de bepalingen die gelden voor de toegekende omkadering, vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen.
 
 ### ART III.47.
 
-§ 1. Het totale aantal uren voor aanvangsbegeleiding, beleidsondersteuning en professionalisering bedraagt voor internaten en tehuizen 355 uren.<br>
-<br>
-§ 2. Het aantal uren voor aanvangsbegeleiding, beleidsondersteuning en professionalisering waarop een instelling recht heeft, is 355 X B/C, waarbij:<br>
-1° B: het totale aantal toegekende uren van de instelling van het vorige schooljaar;<br>
-2° C: het totale aantal toegekende uren van alle instellingen van het vorige schooljaar van alle instellingen samen.<br>
-<br>
-De uren, vermeld in het eerste lid, worden binnen een instelling als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
-<br>
-§ 3. Voor het bepalen van B en C:<br>
-1° worden de toegekende ambten van studiemeesters-opvoeders omgezet in uren, waarbij een voltijds ambt in 36 uren wordt omgezet;<br>
-2° worden de toegekende ambten in semi-internaten omgezet in uren, waarbij een voltijds ambt in 38 uren wordt omgezet;<br>
-3° wordt voor de toegekende omkadering van internaten buitengewoon onderwijs rekening gehouden met de toepassing van artikel III.29.<br>
-<br>
-§ 4. De uren, vermeld in het eerste lid, kunnen worden samengelegd.<br>
-<br>
-De instellingen die kiezen om de uren samen te leggen, richten daartoe een of meerdere samenwerkingsverbanden `aanvangsbegeleiding, beleidsondersteuning en professionalisering' op, waar afspraken worden gemaakt over de aanwending van deze uren.<br>
-<br>
-Een samenwerkingsverband `aanvangsbegeleiding, beleidsondersteuning en professionalisering' kan bestaan uit:<br>
-1° een of meerdere internaten als vermeld in artikel III.46, § 2, 1° ; en/of<br>
-2° een of meerdere tehuizen als vermeld in artikel III.46, § 2, 2° ; en/of<br>
-3° een of meerdere internaten buitengewoon onderwijs als vermeld in artikel III.46, § 2, 3° ; en/of<br>
-4° een of meerdere internaten met permanente openstelling als vermeld in artikel III.46, § 2, 4° ; en/of<br>
-5° een of meerdere semi-internaten als vermeld in artikel III.46, § 2, 5.<br>
-<br>
-De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in het tweede lid, volgende maatregelen vastleggen:<br>
-1° de duur van de samenwerking;<br>
-2° de vorm van overeenkomst waarmee het samenwerkingsverband wordt opgericht;<br>
-3° de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.
+...
 
 ### ART III.48.
 
-Met de uren kunnen in elke instelling betrekkingen in wervingsambten worden ingericht overeenkomstig de bepalingen die gelden voor de toegekende omkadering als vermeld in artikel III.47, § 2, voor die instelling.
+...
 
 ## Hoofdstuk 9. [... (opgeh. decr. 16 juni 2023, art. 147, I: 1 september 2023)]
 
 ### ART III.49.
 
-§ 1. Aan instellingen voor residentiële opvang van leerlingen, hierna instellingen te noemen, worden uren Samen Internaat Maken toegekend.<br>
-<br>
-§ 2. Voor de toepassing van dit hoofdstuk worden als instellingen beschouwd:<br>
-1° internaten als vermeld in artikel III.21 en III.35;<br>
-2° tehuizen als vermeld in artikel III.1, § 1, eerste lid, III.35, § 1, 2°, en III.37;<br>
-3° internaten buitengewoon onderwijs als vermeld in hoofdstuk 4, afdeling 1, onderafdeling 2.
+...
 
 ### ART III.50.
 
-§ 1. Aan elke instelling wordt één uur Samen Internaat Maken toegekend.<br>
-<br>
-§ 2. De uren, vermeld in paragraaf 1, kunnen worden samengelegd.<br>
-<br>
-De instellingen die kiezen om de uren samen te leggen, richten daartoe een of meerdere samenwerkingsverbanden `Samen Internaat Maken' op, waar afspraken worden gemaakt over de aanwending van deze uren.<br>
-<br>
-Een samenwerkingsverband 'Samen Internaat Maken' kan bestaan uit:<br>
-1° een of meerdere internaten als vermeld in artikel III.49, § 2, 1° ; en/of<br>
-2° een of meerdere tehuizen als vermeld in artikel III.49, § 2, 2° ; en/of<br>
-3° een of meerdere internaten buitengewoon onderwijs als vermeld in artikel III.49, § 2, 3°.<br>
-<br>
-De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in het tweede lid, volgende maatregelen vastleggen:<br>
-1° de duur van de samenwerking;<br>
-2° de vorm van overeenkomst waarmee het samenwerkingsverband wordt opgericht;<br>
-3° de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.
+...
 
 ### ART III.51.
 
-Met de uren, vermeld in artikel III.50, § 1, kunnen in elke instelling betrekkingen in wervingsambten worden ingericht overeenkomstig de bepalingen die gelden voor de toegekende omkadering.<br>
-<br>
-De Vlaamse Regering keurt het afsprakenkader goed tussen het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs en de representatieve vakorganisaties over de wijze van toekenning, de verdeling en de inzet van de uren, vermeld in artikel III.50, § 1.
+...
 
 ## DEEL IV SPECIFIEKE PROJECTEN OF INSTELLINGEN
 
@@ -1183,6 +839,23 @@ Om in aanmerking te komen voor subsidiëring voor een project cultuureducatie, m
 &nbsp;<br>
 De Vlaamse Regering bepaalt de nadere voorwaarden waaronder de subsidies toegekend kunnen worden, de wijze van selectie en de evaluatie van de projecten.
 
+### ART IV.33/1.
+
+Om de cultuureducatie binnen de onderwijssector te consolideren, verhogen en verbreden, subsidieert de Vlaamse Regering jaarlijks publiq vzw, met ondernemingsnummer 0475.250.609, op voorwaarde dat publiq de volgende strategische doelstellingen uitvoert:<br>
+1° publiq richt zich prioritair op een actieve exploitatie van een digitaal platform waarin diverse instrumenten geïntegreerd zijn die cultuureducatie bevorderen;<br>
+2° publiq zet in op informatie­ en communicatietechnologie in functie van de versterking van de cultuureducatie;<br>
+3° publiq richt zich prioritair en rechtstreeks tot bestaande en potentiële cultuureducatieve partners, naast lokale besturen en alle organisatoren van cultuuractiviteiten.<br>
+<br>
+Om de opdrachten, vermeld in het eerste lid, uit te voeren, kent de Vlaamse Regering voor een periode van maximaal vijf jaar een subsidie toe aan de vzw, waarvan ze het bedrag bepaalt. De subsidie wordt bepaald en jaarlijks geïndexeerd met inachtname van de beschikbare begrotingskredieten.<br>
+<br>
+De subsidie wordt toegekend om de personeels-, investerings- en werkingskosten te ondersteunen.<br>
+<br>
+De subsidie wordt toegekend op voorwaarde dat de Vlaamse Regering een beheersovereenkomst van maximaal vijf jaar sluit met publiq waarin de opdrachten die aan hen toegewezen zijn worden geconcretiseerd in strategische en operationele doelstellingen.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen om de beheersovereenkomst, vermeld in het vierde lid, op te stellen en goed te keuren. De Vlaamse Regering bepaalt de inhoud van de beheersovereenkomst nader.<br>
+<br>
+De administratie kan op regelmatige tijdstippen overleggen met publiq over de uitvoering van de beheersovereenkomst.
+
 ## Hoofdstuk 6 Leerlingenvervoer
 
 ### ART IV.34.
@@ -1238,6 +911,16 @@ Het werkplan, vermeld in het eerste en tweede lid, is minstens één schooljaar 
 <br>
 De overgangsregeling kan eerder beëindigd worden door de Vlaamse Regering indien er een nieuw regelgevend kader voor het leerlingenvervoer in werking treedt.
 
+### ART IV.35/2.
+
+De scholen die betrokken zijn bij de organisatie van het zonaal leerlingenvervoer georganiseerd krachtens de wet van 15 juli 1983 houdende oprichting van de Nationale Dienst voor Leerlingenvervoer, verlenen hun medewerking aan de organisatie van het collectief zonaal leerlingenvervoer.<br>
+<br>
+Zij stellen busbegeleiders aan en ontvangen hiervoor een toelage lastens de Vlaamse Gemeenschap. De Vlaamse Regering bepaalt het bedrag van die toelage, de wijze van toekenning en de controlemaatregelen, en bepaalt de minimale loon­ en arbeidsvoorwaarden voor de busbegeleiders.
+
+### ART IV.35/3.
+
+Aan het personeel dat door middel van een arbeidsovereenkomst tewerkgesteld is als busbegeleider bij een basisschool of een secundaire school kan tijdens de maanden juli en augustus een bestaanszekerheidsvergoeding worden toegekend. De Vlaamse Regering bepaalt hiervoor de modaliteiten.
+
 ## Hoofdstuk 7 Schoolboekhouding
 
 ### ART IV.36.
@@ -1286,7 +969,7 @@ l° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding
 
 ### ART IV.38.
 
-§1. Aan cursisten en leerlingen met specifieke onderwijsbehoeften die een opleiding in het gefinancierd of gesubsidieerd volwassenenonderwijs volgen en daar aan de toelatingsvoorwaarden voldoen, en aan studenten met een functiebeperking die in het gefinancierd of gesubsidieerd hoger onderwijs ingeschreven zijn in een graduaatsopleiding van het hoger beroepsonderwijs,&nbsp;in een &nbsp;bachelor-, een master-, een bachelor-na-bachelor - of een master-na-masteropleiding, of in een schakel- of voorbereidingsprogramma of in een specifieke lerarenopleiding, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
+§1. Aan cursisten en leerlingen met specifieke onderwijsbehoeften die een opleiding in het gefinancierd of gesubsidieerd volwassenenonderwijs volgen en daar aan de toelatingsvoorwaarden voldoen, en aan studenten met een functiebeperking die ingeschreven zijn in een ambtshalve geregistreerde instelling voor hoger onderwijs als vermeld in artikel II.1 tot en met II.3 van de Codex Hoger Onderwijs van 11 oktober 2013, of in een hoger instituut of andere instelling voor schone kunsten als vermeld in artikel III.119 van de voormelde codex, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
 &nbsp;<br>
 §2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of een andere gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
 1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal of een andere gebarentaal bij het Agentschap voor Onderwijsdiensten; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
@@ -1671,7 +1354,9 @@ De bepalingen van deze afdeling zijn niet van toepassing op de personeelsleden d
 
 ### ART V.27.
 
-§1. De Vlaamse Regering bepaalt de verlofregeling in de gefinancierde of&nbsp; gesubsidieerde scholen, centra, internaten en tehuizen voor het gewoon en buitengewoon basisonderwijs, het voltijds en deeltijds gewoon en het buitengewoon secundair onderwijs en het volwassenenonderwijs.<br>
+§1. De Vlaamse Regering bepaalt de verlofregeling voor:<br>
+1° de personeelsleden, vermeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br>
 &nbsp;<br>
 §2. De overtreding van deze regeling kan aanleiding geven tot sancties.<br>
 De bedoelde sanctie kan in het gesubsidieerd onderwijs een gedeeltelijke terugvordering zijn van het werkingsbudget.<br>
@@ -1752,12 +1437,7 @@ Tijdens deze periode bevindt het personeelslid zich in de stand non-activiteit. 
 
 ### ART V.36.
 
-De personeelsleden die op 1 januari 1993<br>
-- burgemeester waren van een gemeente met meer dan vijftigduizend en minder dan vijfenzestigduizend inwoners of<br>
-- schepen waren of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan tachtigduizend en minder dan honderddertigduizend inwoners<br>
-en op dezelfde datum in het door de Vlaamse Gemeenschap georganiseerd of gesubsidieerd onderwijs of PMS-centra effectief uitoefenden, mogen in afwijking van artikel V.30, na de eedaflegging voor één van bovenvermelde ambten na de eerstvolgende verkiezingen, het ambt in het onderwijs of centrum voor leerlingenbegeleiding verder blijven uitoefenen.<br>
-<br>
-Het ambt in het onderwijs of het centrum voor leerlingenbegeleiding mag echter niet meer dan één vierde bedragen van de prestaties vereist voor een ambt met volledige prestaties.
+...
 
 ### ART V.37.
 
@@ -1770,8 +1450,8 @@ In afwijking van voorgaand lid, kan echter het personeelslid dat een politiek ma
 ### ART V.38.
 
 Dit hoofdstuk is van toepassing op de contractuele personeelsleden ten laste van het Ministerie van Onderwijs en Vorming en de gesubsidieerde contractuele personeelsleden, bezoldigd door het Vlaams Ministerie van Onderwijs en Vorming, en die aangesteld zijn in :<br>
-1° een school, centrum, internaat of tehuis bedoeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
-2° een school, centrum, internaat of tehuis bedoeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.
+1° een instelling bedoeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° een instelling bedoeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.
 
 ### ART V.39.
 
@@ -1800,24 +1480,28 @@ Dit hoofdstuk is van toepassing op :<br>
 2° de personeelsleden, bedoeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 3° de leden van de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
 4° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
-5° de personeelsleden, bedoeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
+5° de personeelsleden, bedoeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+<br>
+Voor de toepassing van dit hoofdstuk worden als instellingen beschouwd:<br>
+1° een instelling als vermeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° een instelling als vermeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° een centrum voor basiseducatie.
 
 ### ART V.42.
 
-De besturen van de gesubsidieerde scholen, centra, internaten en tehuizen zijn gehouden aan hun personeel, dat aangeworven is volgens de voorziene decretale bepalingen, een salaristoelage toe te kennen, dat tenminste gelijk is aan het salaris dat voor het gemeenschapsonderwijs voor de betrokkenen wordt toegekend.
+De besturen van de gesubsidieerde instellingen zijn gehouden aan hun personeel, dat aangeworven is volgens de voorziene decretale bepalingen, een salaristoelage toe te kennen, dat tenminste gelijk is aan het salaris dat voor het gemeenschapsonderwijs voor de betrokkenen wordt toegekend.
 
 ### ART V.43.
 
-De Vlaamse Gemeenschap betaalt de salaristoelage rechtstreeks en maandelijks aan de leden van het personeel van de gesubsidieerde scholen, centra, internaten en tehuizen.
+De Vlaamse Gemeenschap betaalt de salaristoelage rechtstreeks en maandelijks aan de leden van het personeel van de gesubsidieerde instellingen.
 
 ### ART V.44.
 
-Een salaris of een salaristoelage wordt verleend voor de leden van het bestuurs- en onderwijzend personeel, de leden van de pedagogische begeleidingsdiensten en voor de leden van het opvoedend hulppersoneel en van het ondersteunend personeel.<br>
-Zij kunnen verleend worden aan de categorieën van de leden van het administratief personeel en van het ondersteunend personeel die in de regelgeving zijn vastgelegd.
+Een salaris of een salaristoelage wordt verleend aan de personeelsleden, vermeld in artikel V.41.
 
 ### ART V.45.
 
-Een school, centrum, internaat of tehuis of een onderdeel ervan, ontvangt slechts financiering of subsidiering voor haar personeelsleden :<br>
+Een instelling of een onderdeel ervan, ontvangt slechts financiering of subsidiering voor haar personeelsleden :<br>
 1° Die onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens door de Vlaamse Regering te verlenen vrijstelling;<br>
 2° Die de burgerlijke en politieke rechten genieten, behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br>
 3° Die in het bezit zijn van de bekwaamheidsbewijzen die in de regelgeving zijn vastgelegd;<br>
@@ -1903,43 +1587,29 @@ Tot de inwerkingtreding van de nieuwe bezoldigingsregeling is de Vlaamse Regerin
 
 ## Hoofdstuk 2 Bezoldiging in bijbetrekking
 
-## Afdeling 1 Bijbetrekking op 30 juni 1998
+## ...
 
 ### ART V.55.
 
-§1. Dit artikel is van toepassing op de personeelsleden die op 30 juni 1992 prestaties uitoefenden waarvoor zij bezoldigd werden op grond van de bepalingen van artikel 10, §3 of §5, van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
-Dit artikel is echter niet van toepassing op de personeelsleden bedoeld in artikel 2, §2, a), van hetzelfde besluit.<br>
-&nbsp;<br>
-§2. De in §1 bedoelde personeelsleden blijven voor de prestaties die op 30 juni 1998 nog werden beschouwd als bijbetrekking en waarvoor zij op dezelfde datum nog bezoldigd werden op grond van de bepalingen van artikel 10, §3 of §5 van voormeld koninklijk besluit nr. 63 van 20 juli 1982 verder als dusdanig bezoldigd, ongeacht de inkomsten die zij verwerven uit activiteiten buiten het onderwijs.<br>
-&nbsp;<br>
-§3. Het personeelslid bedoeld in §1, voor wie de bepalingen van artikel 10, §3 of §5, van voormeld koninklijk besluit van 20 juli 1982 niet meer gelden, kan vragen om, met ingang van 1 september 1998, zijn salaris of salaristoelage voor de prestaties die het uitoefende op 30 juni 1992 en waarmee het nog belast is op 1 september 1998, opnieuw vast te stellen volgens de voornoemde bepalingen.<br>
-Dit verzoek moet vóór 31 december 1998 bij aangetekend schrijven toegezonden worden aan de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde en meegedeeld worden aan het school- of centrumbestuur.<br>
-&nbsp;<br>
-§4. De personeelsleden op wie de bepalingen van de §2 en §3 werden toegepast, kunnen vragen dat wordt onderzocht of ze, rekening gehouden met de inkomsten die zij verwerven uit activiteiten buiten het onderwijs, aanspraak kunnen maken op een bezoldiging als hoofdambt. Dit verzoek moet, samen met de vereiste documenten tot staving ervan, bij aangetekend schrijven toegezonden worden aan de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde en meegedeeld worden aan het schoolbestuur. Tijdens het onderzoek blijven de prestaties van het personeelslid verder als bijbetrekking bezoldigd.<br>
-Als uit het onderzoek blijkt dat het personeelslid aanspraak kan maken op een bezoldiging als hoofdambt wordt zijn salaris of salaristoelage vastgesteld volgens de principes van het hoofdambt.<br>
-Het personeelslid op wie het voorgaand lid is toegepast, kan niet meer opnieuw de toepassing bekomen van de bepalingen van artikel 10, §3 of §5, van voormeld koninklijk besluit van 20 juli 1982.<br>
-&nbsp;<br>
-§5. Voor de toepassing van dit artikel gelden de bepalingen van artikel 10, §6, van voormeld koninklijk besluit nr. 63 van 20 juli 1982 niet.
+...
 
-## Afdeling 2 Terbeschikkingstelling
+## ...
 
 ### ART V.56.
 
-§1. Dit artikel is van toepassing op de personeelsleden die nà 7 augustus 1982 en vóór 1 september 1991 prestaties hebben uitgeoefend waarvoor ze bezoldigd werden op grond van de bepalingen van artikel 10, §5, van het koninklijk besluit nummer 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
-&nbsp;<br>
-§2. Het personeelslid, vermeld in §1, voor wie de bepalingen van artikel 10, §5, van voormeld koninklijk besluit van 20 juli 1982 door een terbeschikkingstelling wegens ontstentenis van betrekking niet meer gelden, kan vragen om, met ingang van 1 september 1991, zijn voor die periode toegekende salaris of salaristoelage opnieuw vast te stellen volgens de voornoemde bepalingen en zonder rekening te houden met de voormelde onderbreking van de uitgeoefende prestaties. Dit verzoek moet medegedeeld worden aan de bevoegde diensten van het Vlaams ministerie van Onderwijs en Vorming.
+...
 
-## Afdeling 3 Commissie beoordeling hoofdambt en bijambt
+## ...
 
 ### ART V.57.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming worden de verzoeken die, in de periode van 19 november 1976 tot 31 maart 1995 werden ingediend bij de commissie opgericht bij artikel 2 van de wet van 8 februari 1974 tot wijziging van het koninklijk besluit van 15 april 1958, gewijzigd door het koninklijk besluit van 10 maart 1965, houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, beschouwd als zijnde ingediend overeenkomstig de bepalingen van het koninklijk besluit van 12 oktober 1976 houdende samenstelling en de werking van de commissie opgericht bij artikel 2 van de wet van 8 februari 1974. De adviezen die in dezelfde periode door deze commissie over de bedoelde aanvragen werden uitgebracht, worden eveneens beschouwd als zijnde uitgebracht overeenkomstig de bepalingen van dit besluit.
+...
 
-## Afdeling 4 Combinatie hoger onderwijs en andere onderwijsniveaus
+## ...
 
 ### ART V.58.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming zijn de salarissen en salaristoelagen die in de periode van 1 januari 1996 tot 31 augustus 1999 werden uitgekeerd aan de personeelsleden die tegelijkertijd een bezoldiging bekwamen voor een opdracht in het hoger onderwijs en voor een opdracht in het gewoon of buitengewoon basis- of secundair onderwijs of in het aanvullend secundair beroepsonderwijs of in het deeltijds kunstonderwijs of in het onderwijs voor sociale promotie of met beperkt leerplan of in de psycho-medisch-sociale centra, in hoofde van deze personeelsleden definitief verworven, behoudens indien het betrokken personeelslid tewerkgesteld was in een niet-financierbare of niet-subsidieerbare betrekking.
+...
 
 ## Afdeling 5 Kunstonderwijs
 
@@ -1969,7 +1639,7 @@ Voor de berekening van het salaris of de salaristoelage worden de prestaties ver
 2° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 3° de personen tewerkgesteld als gesubsidieerde contractuelen in de onderwijsinstellingen en de centra voor leerlingenbegeleiding;<br>
 4° de contractuelen betaald ten laste van het departement Onderwijs, met uitzondering van deze van de centra voor basiseducatie;<br>
-5° de contractuelen, betaald met het werkingsbudget van de scholen, centra, internaten of tehuizen;<br>
+5° de contractuelen, betaald met het werkingsbudget van de instellingen;<br>
 6° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad;<br>
 7° de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie in de basiseducatie.<br>
 &nbsp;<br>
@@ -2094,8 +1764,8 @@ Met een universitair diploma worden gelijkgesteld de in overeenstemming met de b
 ### ART V.74.
 
 §1. De Vlaamse Regering kan de bepalingen van deze titel binnen door haar bepaalde grenzen van toepassing verklaren op :<br>
-1° de personeelsleden, scholen, centra, internaten, tehuizen en besturen op wie de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs van toepassing zijn;<br>
-2° de personeelsleden, scholen, centra, internaten en tehuizen en besturen op wie de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding van toepassing zijn;<br>
+1° de personeelsleden, instellingen en besturen op wie de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs van toepassing zijn;<br>
+2° de personeelsleden, instellingen en besturen op wie de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding van toepassing zijn;<br>
 3° de personeelsleden op wie de bepalingen van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken van toepassing zijn.<br>
 <br>
 §2. De in §1 bedoelde regeling geldt alleen voor de personeelsleden die op het ogenblik van de terbeschikkingstelling wegens ontstentenis van betrekking :<br>
@@ -2192,16 +1862,13 @@ In afwijking van voorgaand lid, kan een personeelslid er echter toe gemachtigd w
 - diegenen die ter beschikking gesteld zijn wegens volledige ontstentenis van betrekking en een reaffectatie of wedertewerkstelling hebben aanvaard voor een gedeelte van de opdracht waarvoor zij werden ter beschikking gesteld wegens ontstentenis van betrekking;<br>
 - diegenen die ter beschikking gesteld zijn wegens gedeeltelijke ontstentenis van betrekking.<br>
 <br>
-Zij blijven in de eerste plaats beschikbaar voor de directeur van de school, centrum, internaat, tehuis waarin zij voor hun terbeschikkingstelling waren tewerkgesteld of voor de inrichtende macht die hen heeft ter beschikking gesteld. Het uitoefenen van de pedagogische taken gebeurt pro rata van de prestaties waarvoor zij het voordeel van de terbeschikkingstelling wegens ontstentenis van betrekking bekomen.<br>
+Zij blijven in de eerste plaats beschikbaar voor de directeur van de instelling&nbsp;waarin zij voor hun terbeschikkingstelling waren tewerkgesteld of voor de inrichtende macht die hen heeft ter beschikking gesteld. Het uitoefenen van de pedagogische taken gebeurt pro rata van de prestaties waarvoor zij het voordeel van de terbeschikkingstelling wegens ontstentenis van betrekking bekomen.<br>
 <br>
 Indien de inrichtende macht geen beroep doet op het personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, moet zij schikkingen treffen om dit personeelslid de hierboven bedoelde taken te laten uitoefenen bij een andere inrichtende macht eveneens pro rata van de prestaties waarvoor hij dit voordeel geniet.<br>
 <br>
 Indien de inrichtende macht deze verplichting niet nakomt, wordt het wachtgeld, de wachtgeldtoelagen, het salaris of de salaristoelagen van het betrokken personeelslid van haar teruggevorderd. In uitzonderlijke omstandigheden waarin het vervullen van pedagogische taken onmogelijk of niet wenselijk is, kan de Vlaamse Regering individuele afwijkingen verlenen op de bepalingen van deze paragraaf. Deze beslissingen moeten met redenen omkleed zijn.<br>
 <br>
-§4. Elk personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking en dat niet kan gereaffecteerd of wedertewerkgesteld worden, kan onder de door de Vlaamse Regering te bepalen voorwaarden, zowel door de directeur of de inrichtende macht die het personeelslid ter beschikking heeft gesteld, als door een andere inrichtende macht, terug in dienst worden geroepen, op voorwaarde dat het personeelslid waarvan hij geheel of gedeeltelijk de prestaties overneemt, in dezelfde verhouding, met een andere opdracht in de school, centrum, internaat of tehuis wordt belast. De toepassing van deze bepaling mag niet tot gevolg hebben dat het totaal van de prestaties van de ten laste van de Vlaamse Gemeenschap bezoldigde personeelsleden verminderd wordt.<br>
-<br>
-<br>
-&nbsp;<br>
+§4. Elk personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking en dat niet kan gereaffecteerd of wedertewerkgesteld worden, kan onder de door de Vlaamse Regering te bepalen voorwaarden, zowel door de directeur of de inrichtende macht die het personeelslid ter beschikking heeft gesteld, als door een andere inrichtende macht, terug in dienst worden geroepen, op voorwaarde dat het personeelslid waarvan hij geheel of gedeeltelijk de prestaties overneemt, in dezelfde verhouding, met een andere opdracht in de instelling&nbsp;wordt belast. De toepassing van deze bepaling mag niet tot gevolg hebben dat het totaal van de prestaties van de ten laste van de Vlaamse Gemeenschap bezoldigde personeelsleden verminderd wordt.<br>
 &nbsp;<br>
 §5. Onder de door de Vlaamse Regering te bepalen voorwaarden behouden de personeelsleden het voordeel van de terbeschikkingstelling wegens ontstentenis van betrekking indien zij een tewerkstelling aanvaarden in een dienst van de Staat, van een Gemeenschap of een Gewest, in een andere openbare dienst, in een privaatrechtelijke instelling of onderneming.<br>
 <br>
@@ -2307,11 +1974,7 @@ Het samenwerkingsplatform kan worden stopgezet op 31 augustus 2021. Nieuwe samen
 
 ### ART VI.6.
 
-De middelen worden berekend door per school, academie&nbsp;of centrum, het aantal regelmatige leerlingen/cursisten op de gebruikelijke teldatum, respectievelijk het gemiddelde aantal gerealiseerde lesurencursist van de referteperiodes van 1 januari n-3 tot en met 31 december n-1, te vermenigvuldigen met een coëfficiënt en een wegingsfactor, bepaald door de Vlaamse Regering.<br>
-<br>
-In afwijking van het eerste lid wordt het gemiddelde van het aantal lesurencursist op de volgende wijze berekend:<br>
-1° voor het schooljaar 2020-2021 op basis van de lesurencursist gerealiseerd in de referteperiode 1 januari 2019 tot en met 31 december 2019;<br>
-2° voor het schooljaar 2021-2022 op basis van de lesurencursist gerealiseerd in de referteperiodes 1 januari 2019 tot en met 31 december 2020.
+De middelen worden berekend door per school, academie&nbsp;of centrum, het aantal regelmatige leerlingen/cursisten op de gebruikelijke teldatum, respectievelijk het gemiddelde aantal gerealiseerde lesurencursist van de referteperiodes van 1 januari n-3 tot en met 31 december n-1, te vermenigvuldigen met een coëfficiënt en een wegingsfactor, bepaald door de Vlaamse Regering.
 
 ### ART VI.7.
 
@@ -2340,6 +2003,29 @@ De Vlaamse Regering stelt de nadere regels vast voor die vervanging.<br>
 Elektronische kopieën die worden opgemaakt en bewaard conform het eerste lid, behouden dezelfde geldigheid als de originelen voor de toepassing van de wettelijke en reglementaire bepalingen, vermeld in het eerste lid.
 
 ## [Hoofdstuk 5. Unieke leerlingenaccounts (ing. decr. 7 juli 2023, art. 134, I: 1 september 2023)]
+
+### ART VI.10.
+
+§1. De Vlaamse Regering biedt een informaticatoepassing aan, die tot doel heeft dat leerlingen zich kunnen identificeren om digitale leermiddelen en toepassingen te gebruiken waarvoor identificatie nodig is. Via de voormelde informaticatoepassing melden leerlingen zich aan bij verschillende dienstenleveranciers met hetzelfde account. De school bepaalt welke leermiddelen of toepassingen de leerling gebruikt. De dienstenleveranciers vragen het gebruik van de informaticatoepassing aan bij de verwerkingsverantwoordelijke, vermeld in paragraaf 2. Tijdens die aanvraagprocedure en tijdens de uitvoering worden de verwerkingen beoordeeld die de dienstenleveranciers beogen of uitvoeren.<br>
+<br>
+§2. De entiteit die door de Vlaamse Regering wordt belast met de voorbereiding van het Vlaamse onderwijsbeleid, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming). De voormelde verwerkingsverantwoordelijke verwerkt de gegevens om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust.<br>
+<br>
+§3. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, gebruikt in de informaticatoepassing, vermeld in paragraaf 1, administratieve gegevens die beschikbaar zijn bij de entiteiten van het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+<br>
+§4. De volgende categorieën van persoonsgegevens worden verwerkt in de informaticatoepassing, vermeld in paragraaf 1:<br>
+1° het identificatienummer van de sociale zekerheid, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, namelijk het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank;<br>
+2° de volgende officiële persoonsgegevens, zoals bekend in het Rijksregister: de voor­ en achternaam en de geboortedatum;<br>
+3° de unieke identificator voor de informaticatoepassing;<br>
+4° de unieke identificator in de administratieve gegevens die beschikbaar zijn bij de entiteiten van het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+5° &nbsp; de inschrijvingsdatum en de begindatum;<br>
+6° de volgende inschrijvingsgegevens: de instellingen, het vestigingsplaatsnummer, het stamnummer, het soort onderwijs en de administratieve groep;<br>
+7° de gegevens waarmee de leerling bij de dienstenleverancier inlogt.<br>
+<br>
+De gegevens van de auditlogs en technische logs worden beheerd door de instantie die instaat voor het Vlaamse toegangsen gebruikersbeheer, als verwerker.<br>
+<br>
+§5. De betrokkenen zijn de leerlingen die het leermiddel of de toepassing moeten gebruiken in het kader van hun onderwijs. De dienstenleveranciers zijn de ontvangers van de gegevens die noodzakelijk zijn voor het doel van de identificatie van de gebruikers of de controle van de gebruiksvoorwaarden. De dienstenleveranciers ontvangen de voor­ en achternaam en de unieke identificator voor de informaticatoepassing, tenzij ze tijdens de aanvraagprocedure aantonen dat ze gerechtigd zijn om ook andere gegevens te ontvangen.<br>
+&nbsp;<br>
+§6. De gegevens worden door de verwerkingsverantwoordelijke niet langer bewaard dan twaalf jaar nadat het leerlingenaccount is aangemaakt. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, neemt de nodige maatregelen om de juistheid van de persoonsgegevens te garanderen. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren en neemt met het oog op transparantie en de garantie van de rechten van de betrokkenen, vermeld in paragraaf 5, in de communicatie met de voormelde betrokkenen of hun onderwijsinstelling een verwijzing op naar de vindplaats van de privacyverklaring.
 
 ## DEEL VII DE COMMISSIE ZORGVULDIG BESTUUR
 
@@ -2372,8 +2058,8 @@ De Commissie stelt binnen een maand na haar instelling haar reglement van orde o
 ### ART VII.5.
 
 De Commissie beslist over de gegrondheid van klachten van belanghebbenden inzake :<br>
-1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet basisonderwijs van 25 februari 1997, artikel 35 van de codificatie betreffende het secundair onderwijs, en artikel 6, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding en de bijdrageregeling bedoeld in artikel 27bis en 27ter, §1, van het decreet basisonderwijs van 25 februari 1997;<br>
-2° de bepalingen van artikel 51 van het decreet basisonderwijs van 25 februari 1997, van artikel 7 tot en met artikel 10 van de codificatie betreffende het secundair onderwijs, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikel II.48 tot en met II.52 van deze codificatie en van artikelen 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet basisonderwijs van 25 februari 1997, artikel 35 van de codificatie betreffende het secundair onderwijs, en artikel 6, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, de bijdrageregeling, bedoeld in artikel 27bis en 27ter, §1, van het decreet basisonderwijs van 25 februari 1997, en de regeling met betrekking tot persoonlijke bijdrage, bedoeld in artikel 38 tot en met 41 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+2° de bepalingen van artikel 51 van het decreet basisonderwijs van 25 februari 1997, van artikel 7 tot en met artikel 10 van de codificatie betreffende het secundair onderwijs, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikel II.48 tot en met II.52 van deze codificatie, van artikelen 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en van artikelen 48 tot en met 52 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
 3° de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluitvormingsprocedures bedoeld in artikel 18 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.<br>
 &nbsp;<br>
 Wanneer zij oordeelt dat een klacht gegrond is, kan zij beslissen om :<br>
