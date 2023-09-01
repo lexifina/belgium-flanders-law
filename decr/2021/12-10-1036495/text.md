@@ -125,6 +125,8 @@ Instellingen voor gewoon en buitengewoon basis- en secundair onderwijs, de inste
 
 § 1. De DBFM-toelage wordt berekend als een percentage van de beschikbaarheidsvergoeding die de inrichtende macht verschuldigd is conform de DBFM-overeenkomst.<br>
 <br>
+Het gedeelte van de beschikbaarheidsvergoeding, vermeld in het eerste lid, dat de beschikbaarheidsvergoeding gerekend aan een rentevoet van 2% overschrijdt, wordt voor alle onderwijsnetten aan 100% betoelaagd.<br>
+<br>
 § 2. De DBFM-toelage bedraagt 81,5% voor de instellingen van het gewoon en buitengewoon basisonderwijs in het gesubsidieerd onderwijs, en 71,5% voor de andere instellingen, internaten en centra voor leerlingenbegeleiding in het gesubsidieerd onderwijs.<br>
 <br>
 Voor de instellingen, de internaten en de centra, vermeld in artikel 4, in het gesubsidieerd onderwijs wordt de DBFM-toelage, die wordt berekend conform het eerste lid, verhoogd, zodat de daadwerkelijk verschuldigde onderhoudscomponent in de beschikbaarheidsvergoeding tegen 90% wordt betoelaagd.<br>
