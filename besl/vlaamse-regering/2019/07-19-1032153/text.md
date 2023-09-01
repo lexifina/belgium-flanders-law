@@ -171,7 +171,7 @@ Het erkenningsteam voert het inhoudelijk onderzoek uit binnen veertig dagen vana
 <br>
 Het erkenningsteam beoordeelt de erkenningsaanvraag volgens de kwaliteitsgebieden van het kwaliteitskader, vermeld in artikel 7 van het decreet van 26 april 2019.<br>
 <br>
-Het erkenningsteam controleert of het beroepskwalificerend traject gebaseerd is op de laatste versie van de overeenstemmende beroepskwalificatie en in het geval van een EVC-traject op de overeenstemmende EVC-standaard.<br>
+Het erkenningsteam controleert of het beroepskwalificerend traject gebaseerd is op de laatste versie van de overeenstemmende beroepskwalificatie of deelkwalificatie en in het geval van een EVC-traject op de overeenstemmende EVC-standaard.<br>
 <br>
 Als de organisatie gebruikmaakt van een eigen ontwikkeld EVC-instrument, toetst AHOVOKS het EVC-instrument aan de EVC-standaard. In dit geval wordt de termijn, vermeld in het eerste lid, verlengd met vijfenveertig dagen.<br>
 <br>
@@ -191,7 +191,7 @@ De Erkenningscommissie brengt de organisatie op de hoogte van haar beslissing bi
 
 ### ART 17.
 
-Vanaf het moment dat een beroepskwalificerend traject is erkend, kan de organisatie starten met het inrichten van het beroepskwalificerend traject en het uitreiken van bewijzen van beroepskwalificaties.<br>
+Vanaf het moment dat een beroepskwalificerend traject is erkend, kan de organisatie starten met het inrichten van het beroepskwalificerend traject en het uitreiken van bewijzen van beroepskwalificaties of deelkwalificaties.<br>
 <br>
 De organisatie brengt het departement binnen dertig dagen vanaf de start van het beroepskwalificerend traject op de hoogte van de start van het beroepskwalificerend traject.
 
@@ -201,7 +201,18 @@ Als het beroepskwalificerend traject waarvan de erkenning is goedgekeurd, niet w
 
 ### ART 19.
 
-Het beroepskwalificerend traject waarvoor een erkenningsaanvraag ingediend wordt, is altijd gebaseerd op de laatste versie van de overeenstemmende beroepskwalificatie en in het geval van een EVC-traject op de overeenstemmende EVC-standaard.
+Het beroepskwalificerend traject waarvoor een erkenningsaanvraag ingediend wordt, is altijd gebaseerd op de laatste versie van de overeenstemmende beroepskwalificatie of deelkwalificatie en in het geval van een EVC-traject op de overeenstemmende EVC-standaard.
+
+### ART 19/1.
+
+In al de volgende gevallen kan de Erkenningscommissie de erkenning van een beroepskwalificerend traject dat wordt aangeboden door een organisatie intrekken:<br>
+1°&nbsp;&nbsp; &nbsp;de organisatie leeft de bepalingen van dit besluit niet na;<br>
+2°&nbsp;&nbsp; &nbsp;de zaakvoerder, exploitant of verantwoordelijke van de organisatie of de aangestelden of lasthebbers ervan verhinderen het kwaliteitstoezicht, vermeld in artikel 20;<br>
+3°&nbsp;&nbsp; &nbsp;de organisatie heeft haar erkenning verkregen op basis van valse, onvolledige of onjuiste verklaringen;<br>
+4°&nbsp;&nbsp; &nbsp;de organisatie heeft de inlichtingen vervalst die ze ter uitvoering van de bepalingen van dit besluit moet leveren;<br>
+5°&nbsp;&nbsp; &nbsp;de organisatie heeft haar activiteiten stopgezet;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;de organisatie vraagt om haar erkenning in te trekken;<br>
+7°&nbsp;&nbsp; &nbsp;de organisatie komt de verplichtingen, vermeld in artikel 28, eerste en tweede lid, of artikel 30, eerste lid, niet na.
 
 ## HOOFDSTUK 4. Kwaliteitstoezicht ter plaatse op erkende beroepskwalificerende trajecten
 
@@ -241,12 +252,7 @@ De Erkenningscommissie brengt de organisatie binnen veertien dagen vanaf de besl
 
 ### ART 24.
 
-De Erkenningscommissie kan bijkomend de erkenning van een beroepskwalificerend traject dat wordt aangeboden door een organisatie, intrekken als wordt vastgesteld dat:<br>
-1° de organisatie de bepalingen van dit besluit niet naleeft;<br>
-2° de zaakvoerder, exploitant of verantwoordelijke van de organisatie of de aangestelden of lasthebbers ervan het kwaliteitstoezicht, vermeld in artikel 20, verhinderen;<br>
-3° de organisatie haar activiteiten heeft stopgezet;<br>
-4° de organisatie haar erkenning heeft verkregen op basis van valse, onvolledige of onjuiste verklaringen;<br>
-5° de organisatie de inlichtingen die ze ter uitvoering van de bepalingen van dit besluit moet leveren, vervalst.
+...
 
 ## HOOFDSTUK 5. Beroepsprocedure
 
@@ -271,15 +277,17 @@ Het departement coördineert het proces van het kwaliteitstoezicht. Het departem
 2° verzamelt de erkenningsbeslissingen van de erkenningscommissie en geeft ze door aan het register, vermeld in artikel 5, § 2, tweede lid, van het decreet van 26 april 2019;<br>
 3° bepaalt welke beroepskwalificerende trajecten op welk moment aan een kwaliteitstoezicht worden onderworpen, in samenspraak met de VDAB en gedurende de termijn, vermeld in artikel 22, tweede lid, de onderwijsinspectie;<br>
 4° monitort het proces en de procedure van kwaliteitstoezicht;<br>
-5° monitort het aantal lerenden of EVC-kandidaten die al dan niet een traject succesvol hebben doorlopen om een beroepskwalificatie te verwerven;<br>
+5° monitort het aantal lerenden of EVC-kandidaten die al dan niet een traject succesvol hebben doorlopen om een beroepskwalificatie of deelkwalificatie te verwerven;<br>
 6° verleent informatie over alle aspecten van het proces van kwaliteitstoezicht.
 
 ### ART 28.
 
-In het kader van de monitoring, vermeld in artikel 27, 5°, bezorgt de organisatie de volgende gegevens aan het departement:<br>
-1° de voor- en achternaam, de geboortedatum en de geboorteplaats van de lerende;<br>
-2° de begindatum van het beroepskwalificerend traject;<br>
-3° het door de lerende behaalde resultaat.<br>
+In het kader van de monitoring, vermeld in artikel 27, 5°, bezorgt de organisatie voor het einde van de maand januari per erkend beroepskwalificerend traject de volgende gegevens die betrekking hebben op het voorgaande kalenderjaar aan het departement:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam en het rijksregisternummer van de lerende;<br>
+2°&nbsp;&nbsp; &nbsp;de begindatum van het beroepskwalificerend traject;<br>
+3°&nbsp;&nbsp; &nbsp;de beroepskwalificatie, deelkwalificatie of competenties die de lerende heeft behaald of de vermelding dat de lerende geen beroeps- of deelkwalificatie of competenties heeft behaald.<br>
+<br>
+In het kader van beleidsmatige evaluatie van beroepskwalificerende trajecten kan het departement bijkomende gegevens, die geen persoonsgegevens zijn, opvragen. De organisatie bezorgt de voormelde gegevens aan het departement binnen dertig dagen nadat ze de voormelde vraag heeft ontvangen.<br>
 <br>
 De organisatie is in het geval, vermeld in het eerste lid, de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
@@ -289,13 +297,13 @@ De organisatie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang a
 
 ### ART 29.
 
-Het uitreiken van bewijzen van beroepskwalificatie door de organisatie, vermeld in artikel 5, § 3, van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties, gebeurt via modellen die dienen te voldoen aan de criteria zoals vermeld in hoofdstuk 4 van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties.
+Het uitreiken van bewijzen van beroepskwalificatie of deelkwalificatie door de organisatie, vermeld in artikel 5, § 3, van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties, gebeurt via modellen die dienen te voldoen aan de criteria zoals vermeld in hoofdstuk 4 van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties.
 
 ## HOOFDSTUK 7. Nadere modaliteiten voor het uitreiken van de bewijzen van beroepskwalificaties, deelkwalificaties en competenties
 
 ### ART 30.
 
-De bewijzen worden uiterlijk uitgereikt twee maanden nadat het beroepskwalificerend traject beëindigd is.<br>
+De bewijzen worden uiterlijk uitgereikt en geregistreerd in de databank, vermeld in artikel 31/1, eerste lid, twee maanden nadat het beroepskwalificerend traject beëindigd is.<br>
 <br>
 Een bewijs van deelkwalificatie en een bewijs van competenties kunnen tijdens een traject worden uitgereikt aan de lerende die ervoor in aanmerking komt, als de lerende erom vraagt.
 
@@ -303,7 +311,7 @@ Een bewijs van deelkwalificatie en een bewijs van competenties kunnen tijdens ee
 
 De organisatie registreert de volgende gegevens om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken aan de lerende:<br>
 1° de voor- en achternaam en het rijksregisternummer van de lerende;<br>
-2° de beroepskwalificatie die is beoordeeld;<br>
+2° de beroepskwalificatie of deelkwalificatie die is beoordeeld;<br>
 3° het resultaat van de beoordeling;<br>
 4° een overzicht van de bewezen competenties;<br>
 5° de beslissing om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken;<br>
@@ -317,9 +325,10 @@ De organisatie bewaart de gegevens, vermeld in het eerste lid, tot een jaar na d
 
 In dit artikel wordt verstaan onder leer- en ervaringsbewijzendatabank: de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
-In het kader van de registratie van de bewijzen van beroepskwalificatie, deelkwalificatie en competenties in de leer- en ervaringsbewijzendatabank bezorgt de organisatie de gegevens, vermeld in artikel 31, eerste lid, aan het departement.<br>
-<br>
-De dienst van het departement, bevoegd voor de registratie, registreert de gegevens, vermeld in het tweede lid, in de leer- en ervaringsbewijzendatabank.<br>
+De organisatie registreert de volgende gegevens in de leer- en ervaringsbewijzendatabank:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer van de lerende die een bewijs van beroepskwalificatie, een bewijs van deelkwalificatie of een bewijs van competenties heeft verworven;<br>
+2°&nbsp;&nbsp; &nbsp;de naam van het bewijs van beroepskwalificatie, deelkwalificatie of competenties;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de datum waarop het bewijs is uitgereikt aan de lerende.<br>
 <br>
 De uitwisselingen van persoonsgegevens met de leer- en ervaringsbewijzendatabank vindt plaats met tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br>
 <br>

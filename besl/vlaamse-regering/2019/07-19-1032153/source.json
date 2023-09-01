@@ -2,16 +2,16 @@
   "codex_id": 1032153,
   "title": "Besluit van de Vlaamse Regering van 2019-07-19 tot bepaling van de aanvraagprocedure, vermeld in artikel 5, § 2, eerste lid, van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader, tot bepaling van de verdere modaliteiten van het kwaliteitstoezicht, vermeld in artikel 6, § 1, vierde lid, van het voormelde decreet, tot oprichting van de commissies, vermeld in artikel 6, § 2, eerste en tweede lid, van het voormelde decreet, tot bepaling van de nadere modaliteiten van de medewerking van de onderwijsinspectie, vermeld in artikel 8, § 4, van het voormelde decreet en tot bepaling van het model van het bewijs van beroepskwalificatie, deelkwalificatie en competenties en de nadere modaliteiten, vermeld in artikel 5, § 3, derde lid, van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties [citeeropschrift: \"het Kwaliteitstoezichtbesluit voor de Beleidsvelden Werkgelegenheid en Professionele Vorming van 19 juli 2019\" ]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032153/VolledigDocument?datum=2021-10-17",
-  "source_sha256": "5e4d911394ee711705e5592a3ffbbba6a6ea1266f8e5f3d73495e3ccbcfc7609",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032153/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "af62872835910118b999d3d4995a8395a26873295136d84c134b34422413cf8d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032153&param=informatie",
-  "as_of": "2021-10-17",
+  "as_of": "2023-09-01",
   "made": "2019-07-19",
   "gazette": "2019-08-28",
   "numac": 2019030814,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2021-10-17",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2021-10-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
