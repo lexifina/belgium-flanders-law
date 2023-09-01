@@ -31,7 +31,7 @@ Dit besluit is van toepassing op de personeelsleden, vermeld in artikel 2 van he
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VIII.<br>
+Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlage I tot en met IX.<br>
 &nbsp;
 
 ### ART. 4.
@@ -98,7 +98,7 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/08/11_1.pdf#page=49">Bijlage V</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/10/19_1.pdf#page=49">Bijlage V</a>
 
 ## BIJLAGE VI
 
@@ -124,3 +124,33 @@ Bijlage VIII. Ambtshalve concordantie in het buitengewoon secundair onderwijs<br
 <br>
 In het buitengewoon secundair onderwijs:<br>
 1° worden met ingang van 1 september 2021 de ambten die uiterlijk zijn opgericht op 31 augustus 2021 met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator.
+
+### BIJLAGE IX
+
+Bijlage IX. Ambtshalve concordantie in de onderwijsinternaten:<br>
+<br>
+In de onderwijsinternaten:<br>
+1° worden met ingang van 1 september 2023 de ambten van studiemeester-opvoeder in de internaten gewoon onderwijs en de tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben, ambtshalve geconcordeerd naar het wervingsambt van internaatsmedewerker;<br>
+2° worden met ingang van 1 september 2023 de volgende ambten in de medisch-pedagogische instituten, internaten buitengewoon secundair onderwijs, internaten met permanente openstelling en het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling ambtshalve geconcordeerd naar het wervingsambt van internaatsmedewerker:<br>
+-&nbsp;&nbsp;a) ergotherapeut;<br>
+&nbsp;&nbsp;b) kinderverzorger;<br>
+&nbsp;&nbsp;c) kinesitherapeut;<br>
+&nbsp;&nbsp;d) logopedist;<br>
+&nbsp;&nbsp;e) verpleger;<br>
+&nbsp;&nbsp;&nbsp;f) studiemeester-opvoeder internaat;<br>
+&nbsp;&nbsp;g) maatschappelijk werker;<br>
+&nbsp;&nbsp;h) orthopedagoog;<br>
+&nbsp;&nbsp;i) psycholoog;<br>
+&nbsp;&nbsp;j) hoofdopvoeder.<br>
+Deze ambtshalve concordantie geldt enkel voor:<br>
+&nbsp;&nbsp;a) de vastbenoemde personeelsleden die niet zijn opgenomen in de nominatieve lijst zoals bepaald in artikel 5, §1, van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn;<br>
+&nbsp;&nbsp;b) de tijdelijke personeelsleden die op 1 september 2023 na de transitie nog een aanstelling in een onderwijsinternaat verkrijgen;<br>
+3° worden met ingang van 1 september 2023 de volgende ambten in de medisch-pedagogische instituten, internaten buitengewoon secundair onderwijs en internaten met permanente openstelling en het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling ambtshalve geconcordeerd naar het wervingsambt van administratief medewerker:<br>
+&nbsp;&nbsp;a) klerk-typist;<br>
+&nbsp;&nbsp;b) rekenplichtig correspondent;<br>
+&nbsp;&nbsp;c) eerstaanwezend rekenplichtig correspondent;<br>
+&nbsp;&nbsp;d) opsteller.<br>
+Deze ambtshalve concordantie geldt enkel voor:<br>
+&nbsp;&nbsp;a) de vastbenoemde personeelsleden die niet zijn opgenomen in de nominatieve lijst zoals bepaald in artikel 5, §1, van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn;<br>
+&nbsp;&nbsp;b) de tijdelijke personeelsleden die op 1 september 2023 na de transitie nog een aanstelling in een onderwijsinternaat verkrijgen;<br>
+4° wordt met ingang van 1 september 2023 het ambt van directeur van een medisch-pedagogisch instituut gefinancierd door de Vlaamse Gemeenschap in het buitengewoon basisonderwijs geconcordeerd naar het bevorderingsambt van directeur in het buitengewoon basisonderwijs.
