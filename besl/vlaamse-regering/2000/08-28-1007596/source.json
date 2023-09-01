@@ -2,16 +2,16 @@
   "codex_id": 1007596,
   "title": "Besluit van de Vlaamse Regering van 2000-08-28 houdende oprichting en samenstelling van de lokale comités voor de personeelsleden van het gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007596/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "1a180396029b101286ec5fb9c78e195293a4391739fd27eedbc130ca01a55df0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007596/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "dcfb9daea13582a5d42470d912c05f8ab461913e986873e7f5103e370e6c6030",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007596&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2023-09-01",
   "made": "2000-08-28",
   "gazette": "2000-10-26",
   "numac": 2000036043,
   "document_start": "2000-01-01",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
