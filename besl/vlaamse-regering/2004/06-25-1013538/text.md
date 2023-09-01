@@ -4,7 +4,12 @@
 
 ### ART. 1.
 
-De bepalingen van dit besluit zijn van toepassing op:<br /><br />1° de leden van het bestuurs- en onderwijzend personeel van de scholen voor het gewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse gemeenschap;<br /><br />2° de leden van het beleids- en ondersteunend personeel van de scholen voor het gewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse gemeenschap;<br /><br />3° de leden van het paramedisch personeel van het gewoon onderwijs;<br /><br />4° de leden van het opvoedend hulppersoneel van de internaten gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, de tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br /><br />5° de leden van het paramedisch, het sociaal en het opvoedend hulppersoneel van het Tehuis van het Gemeenschaps-onderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
+De bepalingen van dit besluit zijn van toepassing op:<br>
+1° de leden van het bestuurs- en onderwijzend personeel van de scholen voor het gewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse gemeenschap;<br>
+2° de leden van het beleids- en ondersteunend personeel van de scholen voor het gewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse gemeenschap;<br>
+3° de leden van het paramedisch personeel van het gewoon onderwijs;<br>
+4° ...;<br>
+5° ...
 
 ## HOOFDSTUK II AMBTEN IN DE INSTELLINGEN VAN HET GEWOON BASISONDERWIJS
 
@@ -20,7 +25,7 @@ a) administratief medewerker;<br>
 b) ICT-coördinator;&nbsp;<br>
 c) zorg-coördinator;&nbsp;<br>
 d) beleidsondersteuner;<br>
-2° selectieambten: nihil<br>
+2° selectieambten: adjunct-directeur<br>
 3° bevorderingsambten: nihil.
 
 ### ART. 4.
@@ -29,23 +34,23 @@ De ambten die de leden van het paramedisch personeel kunnen uitoefenen in het ge
 
 ### ART. 5.
 
-De ambten die de leden van het paramedisch personeel kunnen uitoefenen in het Tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) verpleger<br /><br />b) kinderverzorger<br /><br />c) ergotherapeut<br /><br />2° selectieambten: nihil<br /><br />3° bevorderingsambt: nihil.
+...
 
 ### ART. 6.
 
-De ambten die de leden van het sociaal personeel kunnen uitoefenen in het Tehuis van het Ge-meenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten: maatschappelijk werker<br /><br />2° selectieambten: nihil<br /><br />3° bevorderingsambt: nihil.
+...
 
 ### ART. 7.
 
-De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in de tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben en in de internaten gefinancierd door de Vlaamse Gemeenschap worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten: studiemeester-opvoeder in een internaat;<br /><br />2° selectieambten: nihil;<br /><br />3° bevorderingsambten: beheerder.
+...
 
 ### ART. 8.
 
-De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in het Tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling worden vastgesteld en ingedeeld als volgt:<br /><br />1° wervingsambten: studiemeester-opvoeder in een internaat;<br /><br />2° selectieambten: nihil;<br /><br />3° bevorderingsambten: hoofdopvoeder.
+...
 
 ### ART. 9.
 
-De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in de internaten gesubsidieerd door de Vlaamse Gemeenschap worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten: nihil;<br /><br />2° selectieambten: nihil;<br /><br />3° bevorderingsambten: beheerder.
+...
 
 ## HOOFDSTUK III SLOTBEPALINGEN
 
