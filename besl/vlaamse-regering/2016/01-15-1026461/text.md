@@ -11,7 +11,7 @@
 In dit besluit wordt verstaan onder:<br>
 1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° ...;<br>
-3° erkenningscommissie: de erkenningscommissies voor de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige;<br>
+3° erkenningscommissie: de erkenningscommissies&nbsp;voor de erkenning van de beoefenaars van de verpleegkunde,&nbsp;voor de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige;<br>
 4° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK 2 De erkenningscommissies
@@ -21,28 +21,30 @@ In dit besluit wordt verstaan onder:<br>
 ### ART. 2.
 
 <p>Bij de administratie worden de volgende erkenningscommissies opgericht:<br>
-1° één erkenningscommissie per bijzondere beroepstitel en één erkenningscommissie per bijzondere beroepsbekwaamheid, die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen om een erkenning te verkrijgen, waarbij de beoefenaar van de verpleegkunde gemachtigd wordt een bijzondere beroepstitel te dragen of zich te beroepen op een bijzondere bekwaamheid als vermeld in artikel 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
-2° in afwijking van punt 1° wordt alleen één gezamenlijke erkenningscommissie opgericht als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit voorkomen in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde;<br>
+1° één erkenningscommissie voor de bijzondere beroepstitels en bijzondere beroepsbekwaamheden, die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen om een erkenning te verkrijgen, waarbij de beoefenaar van de verpleegkunde gemachtigd wordt een bijzondere beroepstitel te dragen of zich te beroepen op een bijzondere beroepsbekwaamheid als vermeld in artikel 85 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
+2° één erkenningscommissie voor de erkenning als beoefenaar van de verpleegkunde, die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen om een erkenning te verkrijgen als beoefenaar van de verpleegkunde als vermeld in artikel 45 en 46 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
 3° één erkenningscommissie die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen tot registratie als zorgkundige, vermeld in artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.</p>
 
 <p>De erkenningscommissies kunnen de administratie machtigen om voor bepaalde categorieën van aanvragen een beslissing te nemen zonder daarover voorafgaandelijk het advies van de erkenningscommissies in te winnen.</p>
 
 ### ART. 3.
 
-<p>§ 1. De erkenningscommissies, vermeld in artikel 2, eerste lid, 1°, zijn samengesteld uit:<br>
-1°&nbsp;drie leden die de bijzondere beroepstitel in kwestie hebben of die gemachtigd zijn om zich te beroepen op de bijzondere beroepsbekwaamheid in kwestie;<br>
-2°&nbsp;drie leden die een van de diploma's, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.</p>
-
-<p>Als conform artikel 2, eerste lid, 2°, een gezamenlijke erkenningscommissie voor een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid wordt opgericht, is die samengesteld uit:<br>
-1°&nbsp;twee leden die de bijzondere beroepstitel in kwestie bezitten;<br>
-2°&nbsp;twee leden die gemachtigd zijn om zich te beroepen op de bijzondere beroepsbekwaamheid in kwestie;<br>
-3°&nbsp;twee leden die een van de diploma's, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.</p>
-
-<p>De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, is samengesteld uit:<br>
-1°&nbsp;drie leden, die over een definitieve registratie als zorgkundige beschikken;<br>
-2°&nbsp;drie leden die een van de diploma's, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, hebben.</p>
-
-<p>De leden van de erkenningscommissies worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen en de zorgkundigen.</p>
+<p>§1. De erkenningscommissie, vermeld in artikel 2, eerste lid, 1°, is samengesteld uit:<br>
+1°&nbsp;&nbsp; &nbsp;acht leden die houder zijn van een van de bijzondere beroepstitels in kwestie. Voor elke bijzondere beroepstitel zetelen maximaal twee leden in de erkenningscommissie;<br>
+2°&nbsp;&nbsp; &nbsp;vier leden die houder zijn van een van de bijzondere beroepstitels in kwestie of die gemachtigd zijn zich op een van de bijzondere beroepsbekwaamheden in kwestie te beroepen als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit voorkomt in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde. Voor elke specialiteit zetelen maximaal twee leden in de erkenningscommissie;<br>
+3°&nbsp;&nbsp; &nbsp;vier leden die gemachtigd zijn zich op een bijzondere beroepsbekwaamheid te beroepen. Voor elke bijzondere beroepsbekwaamheid zetelen maximaal twee leden in de erkenningscommissie.<br>
+<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, is samengesteld uit zes leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.<br>
+<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, is samengesteld uit:<br>
+1°&nbsp;&nbsp; &nbsp;drie leden die over een definitieve registratie als zorgkundige beschikken;<br>
+2°&nbsp;&nbsp; &nbsp;drie leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, hebben.<br>
+<br>
+§1/1. De erkenningscommissies, vermeld in paragraaf 1, kunnen uitgebreid worden met extra leden als bijkomende expertise nodig is of als de lijst vermeld in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde, wordt uitgebreid.<br>
+<br>
+§1/2. De leden van de erkenningscommissies, vermeld in paragraaf 1, eerste en tweede lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen.<br>
+<br>
+De leden van de erkenningscommissie, vermeld in paragraaf 1, derde lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen en de zorgkundigen.</p>
 
 <p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
@@ -66,7 +68,7 @@ In dit besluit wordt verstaan onder:<br>
 
 <p>§ 3. Het voorzitterscollege heeft als opdracht de problemen te bestuderen die regelmatig worden vastgesteld bij de behandeling van de aanvragen tot erkenning door de verschillende erkenningscommissies.</p>
 
-<p>Het voorzitterscollege kan een nota tot de secretaris-generaal richten met een advies en opmerkingen over de erkenningsprocedure voor bijzondere beroepstitels of bijzondere beroepsbekwaamheden of de registratieprocedure als zorgkundige, of over de werking van de erkenningscommissies.</p>
+<p>Het voorzitterscollege kan een nota tot de secretaris-generaal richten met een advies en opmerkingen over de erkenningsprocedure&nbsp;voor de beoefenaars van de verpleegkunde,&nbsp;voor bijzondere beroepstitels of bijzondere beroepsbekwaamheden of de registratieprocedure als zorgkundige, of over de werking van de erkenningscommissies.</p>
 
 <p>§ 4. De secretaris-generaal kan aan het voorzitterscollege advies vragen in het kader van de opdracht, vermeld in paragraaf 3.</p>
 
@@ -74,7 +76,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 5.
 
-<p>Als de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van de erkenningscommissies over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen en -organisaties, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan de administratie.</p>
+<p>Als de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van de erkenningscommissies over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen en -organisaties, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning van de beoefenaars van de verpleegkunde,&nbsp;de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan de administratie.</p>
 
 <p>de administratie kan voor de uitvoering van de adviserende bevoegdheid om het even welk personeelslid of om het even welke expert of organisatie raadplegen of belasten met een adviesopdracht. De uiteindelijke beslissing over het te verlenen advies behoort toe aan de administratie.</p>
 
@@ -84,11 +86,11 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 6.
 
-<p>De erkenningscommissies, vermeld in artikel 2, eerste lid, 1°, houden zitting en beraadslagen op geldige wijze als twee leden aanwezig zijn, onder wie een lid dat houder is van de bijzondere beroepstitel in kwestie of een lid dat gemachtigd is om zich te beroepen op de bijzondere beroepsbekwaamheid in kwestie.</p>
-
-<p>De gezamenlijke erkenningscommissies, vermeld in artikel 2, eerste lid, 2°, houden zitting en beraadslagen op geldige wijze als&nbsp;twee leden aanwezig zijn, onder wie een lid dat houder is van de bijzondere beroepstitel in kwestie en een lid dat gemachtigd is om zich te beroepen op de bijzondere beroepsbekwaamheid in kwestie.</p>
-
-<p>De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, houdt zitting en beraadslaagt op geldige wijze als twee leden aanwezig zijn, onder wie een lid dat over een definitieve registratie als zorgkundige beschikt.</p>
+<p>De erkenningscommissie, vermeld in artikel 2, eerste lid, 1°, houdt zitting en beraadslaagt op geldige wijze als minstens twee leden aanwezig zijn.<br>
+<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, houdt zitting en beraadslaagt op geldige wijze als minstens twee leden aanwezig zijn.<br>
+<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, houdt zitting en beraadslaagt op geldige wijze als minstens twee leden aanwezig zijn.</p>
 
 <p>Als de leden niet in voldoende aantal aanwezig zijn, organiseert de administratie een nieuwe vergadering met dezelfde agenda. De erkenningscommissie kan dan geldig vergaderen ongeacht het aantal aanwezige leden.</p>
 
@@ -132,11 +134,11 @@ De   voorzitter en de leden van de erkenningscommissies, de eventuele externe   
 
 ### ART. 10.
 
-<p>§ 1. De aanvrager die erkend wil worden als houder van een bijzondere beroepstitel of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te beroepen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
+<p>§ 1. De aanvrager die erkend wil worden&nbsp;als beoefenaar van de verpleegkunde,&nbsp;als houder van een bijzondere beroepstitel of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te beroepen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
 
 <p>De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
 
-<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
+<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van&nbsp;artikel 45, 46 en 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
 
 <p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
 
@@ -146,9 +148,9 @@ De   voorzitter en de leden van de erkenningscommissies, de eventuele externe   
 
 <p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
 
-<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de erkenning waarbij de beoefenaar van de verpleegkunde erkend wordt als houder van een bijzondere beroepstitel of gemachtigd wordt om zich op een bijzondere beroepsbekwaamheid te beroepen. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de erkenning van de beoefenaar van de verpleegkunde, de erkenning van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
 
-<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten die een erkenning als houder van een bijzondere beroepstitel willen of gemachtigd willen worden om zich op een bijzondere beroepsbekwaamheid te beroepen. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
+<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten die een erkenning&nbsp; als beoefenaar van de verpleegkunde of&nbsp;als houder van een bijzondere beroepstitel willen of gemachtigd willen worden om zich op een bijzondere beroepsbekwaamheid te beroepen. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
 
 ## Afdeling 2 De registratie als zorgkundige
 
@@ -206,7 +208,7 @@ De administratie bezorgt de definitieve beslissing van de minister aan de aanvra
 
 ### ART. 14.
 
-<p>Als de verpleegkundige niet meer aan de erkenningscriteria voldoet, kan de administratiede erkenning van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid intrekken.</p>
+<p>Als de verpleegkundige niet meer aan de erkenningscriteria voldoet, kan de administratiede erkenning van de beoefenaar van de verpleegkunde, van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid intrekken.</p>
 
 <p>de administratiekan een erkenning pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de verpleegkundige heeft bekendgemaakt.</p>
 
