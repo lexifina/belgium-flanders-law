@@ -15,7 +15,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 Dit decreet is van toepassing op alle vestigingsplaatsen van:<br>
 1° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde scholen voor basisonderwijs, scholen voor secundair onderwijs, academies deeltijds kunstonderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft, en centra voor deeltijdse vorming;<br>
 2° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde internaten en tehuizen;<br>
+3° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinternaat;<br>
 4° de andere scholen en centra voor onderwijs als die dezelfde vestigingsplaatsen in gebruik nemen als de vestigingsplaatsen, vermeld in punt 1°, 2° of 3°.
 
 ## HOOFDSTUK II. Gezondheidsbescherming en rookverbod
@@ -31,15 +31,15 @@ De instellingen brengen in hun vestigingsplaatsen rookverbodtekens aan zodanig d
 ### ART. 6.
 
 De bepalingen, vermeld in artikel 4, worden in voorkomend geval opgenomen in:<br>
-1° het school-, internaats- of centrumreglement; het betrokken school-, internaats- of centrumbestuur kan bijkomend aan leerlingen een rookverbod bij extra-murosactiviteiten opleggen;<br>
-2° het arbeidsreglement; het betrokken school-, internaats- of centrumbestuur kan bijkomend aan zijn personeelsleden een rookverbod opleggen bij de uitoefening van hun opdrachten buiten de vestigingsplaatsen, vermeld in artikel 3;<br>
+1° het school-, onderwijsinternaats- of centrumreglement; het betrokken school-,onderwijsinternaats- of centrumbestuur kan bijkomend aan leerlingen een rookverbod bij extra-murosactiviteiten opleggen;<br>
+2° het arbeidsreglement; het betrokken school-, onderwijsinternaats- of centrumbestuur kan bijkomend aan zijn personeelsleden een rookverbod opleggen bij de uitoefening van hun opdrachten buiten de vestigingsplaatsen, vermeld in artikel 3;<br>
 3° de reglementen en contractuele verbintenissen waarin de voorwaarden van de verhuur aan of het gebruik door derden van de vestigingsplaatsen, vermeld in artikel 3, worden vastgelegd.<br>
 <br>
 Hierbij geven de instellingen aan op welke wijze de overtreding van het rookverbod wordt gesanctioneerd.
 
 ### ART. 7.
 
-De instelling voert een doeltreffend beleid om het rookverbod te handhaven. Ze controleert de naleving van het verbod en treedt op tegen overtreders conform het eigen sanctiebeleid zoals vermeld in het school- of arbeidsreglement.
+De instelling voert een doeltreffend beleid om het rookverbod te handhaven. Ze controleert de naleving van het verbod en treedt op tegen overtreders conform het eigen sanctiebeleid zoals vermeld in het school-, onderwijsinternaats-, centrum- of arbeidsreglement.
 
 ### ART. 8.
 

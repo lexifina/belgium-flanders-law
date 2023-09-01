@@ -2,16 +2,16 @@
   "codex_id": 1016905,
   "title": "Decreet van 2008-06-06 houdende het instellen van een rookverbod in [onderwijsinstellingen, onderwijsinternaten en centra voor leerlingenbegeleiding]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016905/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "37483fb818bf971185b60e4887753acf78e9385439f094db51aaec53608fb982",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016905/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "5e41c2b1efe78adfe76ee2c84bd28861bf2d861ab218063cdad4d66f476c3d73",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016905&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2023-09-01",
   "made": "2008-06-06",
   "gazette": "2008-07-18",
   "numac": 2008202338,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
