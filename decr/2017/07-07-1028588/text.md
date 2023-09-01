@@ -106,6 +106,38 @@ Als het werk, vermeld in artikel 12, in de toekomst geëxploiteerd wordt volgens
 
 ## [HOOFDSTUK 7/1 Flexibele werkregeling (ing. decr. 7 juli 2023, art. 87, I: 1 september 2023)]
 
+### ART 14/1.
+
+Dit hoofdstuk voorziet in de gedeeltelijke omzetting van richtlijn 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad.
+
+### ART 14/2.
+
+Een personeelslid dat aan de voorwaarden voldoet om volgens de geldende regelgeving recht te hebben op loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor mantelzorg of voor palliatieve zorgen, heeft, ongeacht of dat personeelslid die loopbaanonderbreking al of niet opneemt, het recht om voor een aaneengesloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen voor zorgdoeleinden.<br>
+<br>
+Een flexibele werkregeling als vermeld in het eerste lid, is een aanpassing van het bestaande werkpatroon van het personeelslid.
+
+### ART 14/3.
+
+Het personeelslid dat een flexibele werkregeling wil voor zorgdoeleinden als vermeld in artikel 14/2, bezorgt daarvoor een schriftelijke aanvraag aan het centrumbestuur minstens twee maanden vóór de gewenste begindatum of, als het gaat om een aanvraag voor palliatieve zorgen, minstens twee weken vóór de gewenste begindatum. De voormelde termijnen kunnen in onderling akkoord tussen het centrumbestuur en het personeelslid worden ingekort. De voormelde aanvraag vermeldt de gewenste beginen einddatum en het ingeroepen zorgdoeleinde.<br>
+<br>
+Het centrumbestuur heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het eerste lid wordt ingeroepen.
+
+### ART 14/4.
+
+Het centrumbestuur kan de aanvraag, vermeld in artikel 14/3, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs en de dienstverlening inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt.<br>
+&nbsp;<br>
+Het centrumbestuur bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat het centrumbestuur de voormelde aanvraag heeft ontvangen. Als het centrumbestuur weigert, deelt het centrumbestuur de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+Het uitblijven van een antwoord van het centrumbestuur of een niet of onvoldoende gemotiveerde weigeringsbeslissing wordt gelijkgesteld met een akkoord.
+
+### ART 14/5.
+
+Het personeelslid heeft het recht om na afloop van de flexibele werkregeling, vermeld in artikel 14/2, zijn oorspronkelijke werkpatroon te hervatten.
+
+### ART 14/6.
+
+De flexibele werkregeling, vermeld in artikel 14/1, kan vervroegd worden stopgezet. Het centrumbestuur kan een opzeggingstermijn vastleggen voor de aanvraag van de stopzetting.
+
 ## HOOFDSTUK 8 Administratief statuut
 
 ## Afdeling 1 Gemeenschappelijke bepalingen
