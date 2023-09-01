@@ -23,7 +23,8 @@ In dit besluit wordt verstaan onder:<br>
 10° het digitaal loket: het loket van de Vlaamse bestuursrechtscolleges, vermeld in artikel 8/1, § 1;<br>
 11° gebruiker: iedere natuurlijke persoon die zich na authenticatie toegang heeft verleend tot het digitaal loket;<br>
 12° Verordening 2016/679: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
-13° omgevingsloket: het digitale loket, vermeld in artikel 147, derde lid, van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+13° omgevingsloket: het digitale loket, vermeld in artikel 147, derde lid, van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+14° Databank Hoger Onderwijs: de databank, vermeld in artikel IV.90 van de Codex Hoger Onderwijs van 11 oktober 2013.
 
 ### ART. 2.
 
@@ -43,7 +44,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 4.
 
-De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het Onroerenderfgoeddecreet van 12 juli 2013, het decreet van 25 april 2014 betreffende de omgevingsvergunning,het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid,&nbsp;het Vlaams Onteigeningsdecreet van 24 februari 2017 en dit besluit.
+De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het Onroerenderfgoeddecreet van 12 juli 2013,&nbsp;de Codex Hoger Onderwijs van 11 oktober 2013, het decreet van 25 april 2014 betreffende de omgevingsvergunning,het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid,&nbsp;het Vlaams Onteigeningsdecreet van 24 februari 2017 en dit besluit.
 
 ### ART. 5.
 
@@ -73,7 +74,7 @@ In geval van een vordering tot schorsing bij uiterst dringende noodzakelijkheid,
 <br>
 De processtukken die aan het College gericht zijn, bevatten een inventaris van de overtuigingsstukken, die overeenkomstig die inventaris genummerd zijn.<br>
 <br>
-De overtuigingsstukken die deel uitmaken van het administratief dossier dat via het verlenen van toegang tot het omgevingsloket is ingediend, worden ook in de inventaris van de overtuigingsstukken opgenomen. Met behoud van de toepassing van artikel 16, 1°, worden de voormelde overtuigingsstukken niet toegevoegd aan de processtukken.<br>
+De overtuigingsstukken die deel uitmaken van het administratief dossier dat via het verlenen van toegang tot het omgevingsloket&nbsp;of de Databank Hoger Onderwijs is ingediend, worden ook in de inventaris van de overtuigingsstukken opgenomen. Met behoud van de toepassing van artikel 16, 1°, worden de voormelde overtuigingsstukken niet toegevoegd aan de processtukken.<br>
 <br>
 Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, geeft die partij in de inventaris aan welke delen van de overtuigingsstukken ze wil onttrekken aan de terinzagelegging op de griffie en de redenen daarvoor. De onttrekking kan slechts voor de volgende delen :<br>
 1° de delen uit het project-MER of OVR die niet werden onderworpen aan het openbaar onderzoek;<br>
@@ -188,7 +189,9 @@ Het verzoekschrift bevat, minstens de volgende gegevens:<br>
 2° in voorkomend geval, de naam en het adres van de verweerder;<br>
 3° het voorwerp van het beroep of bezwaar;<br>
 4° een uiteenzetting van de feiten en de ingeroepen middelen;<br>
-5° een inventaris van de overtuigingsstukken.
+5° een inventaris van de overtuigingsstukken.<br>
+<br>
+In afwijking van het eerste lid, 4°, bevat het verzoekschrift voor de beroepen, vermeld in artikel 112/1, een feitelijke omschrijving en motivering van de ingeroepen bezwaren.
 
 ### ART. 16.
 
@@ -211,7 +214,7 @@ De verzoeker voegt in voorkomend geval de volgende documenten bij het   verzoeks
 <br>
 De griffier schrijft een verzoekschrift houdende vordering tot schorsing bij uiterst dringende noodzakelijkheid onmiddellijk in op het definitieve register.<br>
 <br>
-Behalve in geval van verkiezings- of mandaatgeschillen, stelt de griffier, in voorkomend geval, de verzoeker in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
+Behalve in geval van verkiezings- of mandaatgeschillen en behalve bij de beroepen, vermeld in artikel 112/1 van dit besluit, stelt de griffier, in voorkomend geval, de verzoeker in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
 <br>
 De verzoeker die zijn verzoekschrift tijdig regulariseert, wordt geacht het te hebben ingediend op de datum van de eerste verzending of neerlegging.<br>
 <br>
@@ -266,7 +269,13 @@ Bij een bemiddelingsopdracht, uitgevoerd door een externe bemiddelaar, wordt het
 
 ### ART. 21.
 
-<P>Aan iedere getuige, ook al verschijnt hij vrijwillig, wordt gevraagd of hij   getuigengeld wil.<BR></P>  <P>Het getuigengeld bedraagt maximaal 200 euro en wordt door de kamer begroot en   toegekend.<BR></P>  <P>De kosten voor het vervoer, berekend op de voordeligste wijze, moeten in het   getuigengeld begrepen zijn.<BR></P>
+<p>Aan iedere getuige, ook al verschijnt hij vrijwillig, wordt gevraagd of hij getuigengeld wil.</p>
+
+<p>Het getuigengeld bedraagt maximaal 200 euro en wordt door de kamer begroot en toegekend.</p>
+
+<p>De kosten voor het vervoer, berekend op de voordeligste wijze, moeten in het getuigengeld begrepen zijn.<br>
+<br>
+In afwijking van het tweede lid bedraagt het getuigengeld in de beroepen, vermeld in artikel 112/1, maximaal de kosten voor het vervoer, berekend op de voordeligste wijze.</p>
 
 ## Onderafdeling 3 Deskundigenonderzoek
 
@@ -1231,35 +1240,228 @@ De griffier stelt een proces-verbaal op van het verhoor van de getuige, dat hij 
 
 ## [HOOFDSTUK 1 Toepassingsgebied (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/1.
+
+Dit deel is van toepassing op de beroepen waarvoor de Raad voor betwistingen inzake studievoortgangsbeslissingen bevoegd is met toepassing van de Codex Hoger Onderwijs van 11 oktober 2013.
+
 ## [HOOFDSTUK 2 Rechtspleging (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
 ## [Afdeling 1. Het indienen van een verzoekschrift (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
+
+### ART 112/2.
+
+Gelijktijdig met de indiening van het verzoekschrift bezorgt de verzoeker met een beveiligde zending ter informatie een afschrift van het verzoekschrift aan de verweerder.<br>
+<br>
+Het toesturen van het afschrift, vermeld in het eerste lid, houdt geen definitieve aanwijzing van de verweerder in en stelt geen termijnen in werking.
+
+### ART 112/3.
+
+Een onontvankelijk verzoekschrift kan tijdens de beroepstermijn worden vervangen door een nieuw verzoekschrift, dat uitdrukkelijk de intrekking van het eerdere verzoekschrift bevestigt.
+
+### ART 112/4.
+
+De verzoeker kan aan het verzoekschrift de bewijsstukken toevoegen die hij nodig acht.<br>
+<br>
+De verzoeker kan na de indiening van het verzoekschrift alleen aanvullende, geïnventariseerde overtuigingsstukken aan het dossier toevoegen als hij nog niet over die stukken beschikte op het ogenblik waarop het verzoekschrift werd ingediend.<br>
+<br>
+De verzoeker bezorgt in voorkomend geval onmiddellijk een afschrift van de ingediende aanvullende, geïnventariseerde overtuigingsstukken aan de verweerder.
 
 ## [Afdeling 2. Verkorte procedure (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
 ## [Onderafdeling 1. Algemeen (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/5.
+
+Elk beroep wordt, zodra het is geregistreerd, aan de voorzitter van het College bezorgd.<br>
+<br>
+De voorzitter van het College of de bestuursrechter die hij heeft aangewezen, kan ambtshalve onderzoeken of het beroep volgens de vereenvoudigde procedure kan worden behandeld.
+
 ## [Onderafdeling 2. Vereenvoudigde procedure (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
+
+### ART 112/6.
+
+§ 1. Een beroep kan worden behandeld volgens de vereenvoudigde procedure als het College klaarblijkelijk onbevoegd is of zonder rechtsmacht om van het beroep kennis te nemen.<br>
+<br>
+§ 2. De voorzitter van het College of de bestuursrechter die hij heeft aangewezen, stelt vast dat op het eerste gezicht het College klaarblijkelijk onbevoegd is of zonder rechtsmacht om van het beroep kennis te nemen.<br>
+<br>
+De griffier betekent de vaststelling onmiddellijk aan de partijen, samen met een procedurekalender die de partijen een vervaltermijn van ten minste twee werkdagen verleent om daarover een verantwoordingsnota in te dienen.<br>
+<br>
+§ 3. Nadat de termijn voor het indienen van een verantwoordingsnota is verstreken, kan de voorzitter van het College of de bestuursrechter die hij heeft aangewezen, de zaak zonder verdere rechtspleging in beraad nemen.<br>
+<br>
+Als de voorzitter van het College of de bestuursrechter die hij heeft aangewezen, niet besluit dat het College klaarblijkelijk onbevoegd is of zonder rechtsmacht om van het beroep kennis te nemen, wordt de procedure voortgezet volgens de gewone rechtspleging, vermeld in dit besluit.
 
 ## [Afdeling 3. Vernietiging (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
 ## [Onderafdeling 1. De procedurekalender (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/7.
+
+§ 1. De griffier betekent de procedurekalender aan alle partijen. De procedurekalender bevat ten minste:<br>
+1° de vervaltermijnen voor de indiening van de procedurestukken, het administratieve dossier en de aanvullende overtuigingsstukken;<br>
+2° de termijn waarin ter griffie inzage kan worden genomen van het administratieve dossier en de overtuigingsstukken;<br>
+3° de plaats, de dag en het tijdstip van de zitting waarop de vordering tot vernietiging wordt behandeld;<br>
+4° de samenstelling van de bevoegde kamer.<br>
+<br>
+De vervaltermijnen, vermeld in punt 1°, bedragen ten minste 96 uur.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 betekent de griffier een vereenvoudigde procedurekalender aan alle partijen bij het rechtstreekse beroep over de aanpassing van het leerkrediet, vermeld in artikel II.285, tweede lid, van de Codex Hoger Onderwijs van 11 oktober 2013. De vereenvoudigde procedurekalender bevat ten minste:<br>
+1° de vervaltermijnen voor de indiening van de procedurestukken, het administratieve dossier en de aanvullende overtuigingsstukken;<br>
+2° de termijn waarin ter griffie inzage kan worden genomen van het administratieve dossier en de overtuigingsstukken;<br>
+3° de samenstelling van de bevoegde kamer.<br>
+<br>
+De vervaltermijnen, vermeld in punt 1°, bedragen ten minste 96 uur.<br>
+<br>
+§ 3. Gelijktijdig met de betekening, vermeld in paragraaf 1 en 2, betekent de griffier het afschrift van het verzoekschrift aan de verweerder overeenkomstig artikel 19.
+
 ## [Onderafdeling 2. Het vooronderzoek (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
 ## [Sectie 1. De antwoordnota van de verweerder (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/8.
+
+§ 1. De verweerder dient een antwoordnota, een administratief dossier en eventuele aanvullende en geïnventariseerde overtuigingsstukken in binnen de vervaltermijn die vastgesteld is in de procedurekalender, vermeld in artikel 112/7.<br>
+<br>
+Binnen dezelfde termijn, vermeld in het eerste lid, bezorgt de verweerder een afschrift van de ingediende antwoordnota, het ingediende administratieve dossier en, in voorkomend geval, de ingediende overtuigingsstukken aan de verzoeker via het meest gerede communicatiemiddel. De termijn om het afschrift aan de verzoeker te bezorgen, geldt niet op straffe van verval.<br>
+<br>
+§ 2. Het administratieve dossier, vermeld in paragraaf 1, bevat ten minste de volgende stukken:<br>
+1° een afschrift van de bestreden studievoortgangsbeslissing;<br>
+2° in voorkomend geval de examenkopieën of het stagerapport van de verzoeker of het verslag van het bekwaamheidsonderzoek met het oog op de verwerving van een bewijs van bekwaamheid;<br>
+3° het dossier dat samengesteld is naar aanleiding van het interne beroep, vermeld in artikel II.283, eerste lid, van de Codex Hoger Onderwijs van 11 oktober 2013, met inbegrip van het verzoekschrift over het interne beroep;<br>
+4° de reglementaire bepalingen die het bestuur heeft vastgelegd en die op de bestreden beslissing van toepassing waren, waaronder in elk geval het onderwijs- en examenreglement en, in voorkomend geval, andere teksten met reglementaire strekking, zoals de ECTS-fiche, het stagereglement, de studiegids en het vademecum.
+
 ## [Sectie 2. De wederantwoordnota of toelichtende nota van de verzoeker (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
+
+### ART 112/9.
+
+De verzoeker kan een wederantwoordnota indienen binnen de vervaltermijn die vastgesteld is in de procedurekalender, vermeld in artikel 112/7.<br>
+<br>
+Als de verweerder geen antwoordnota heeft ingediend, mag de verzoeker een toelichtende nota indienen binnen de vervaltermijn, vermeld in het eerste lid.<br>
+<br>
+Binnen dezelfde termijn, vermeld in het eerste lid, bezorgt de verzoeker een afschrift van de ingediende wederantwoordnota of de ingediende toelichtende nota aan de verweerder via het meest gerede communicatiemiddel. De termijn om het afschrift aan de verweerder te bezorgen, geldt niet op straffe van verval.
 
 ## [Onderafdeling 3. Getuigen (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/10.
+
+§ 1. De partij die wil dat een getuige wordt gehoord, dient tijdens het vooronderzoek een afzonderlijk verzoek in, dat gemotiveerd wordt.<br>
+<br>
+De kamer beslist over de noodzaak en relevantie om een getuige te horen.<br>
+<br>
+De kamer kan ook ambtshalve getuigen oproepen.<br>
+<br>
+§ 2. In voorkomend geval hoort de kamer de getuigen.
+
 ## [Onderafdeling 4. Deskundigen (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
+
+### ART 112/11.
+
+§ 1. De partijen kunnen, hetzij in het verzoekschrift waarbij het beroep wordt ingediend, hetzij in hun nota's die daarop volgen, op gemotiveerde wijze vragen om deskundigen aan te stellen. De kamer beslist bij arrest over het verzoek. De kamer kan ook ambtshalve bij arrest een deskundig onderzoek bevelen.<br>
+<br>
+Als een deskundig onderzoek wordt bevolen, vermeldt het arrest de opdracht van de deskundigen en de termijn waarin het deskundigenverslag bij de griffie wordt ingediend.<br>
+<br>
+De griffier betekent het arrest aan de partijen en, in voorkomend geval, aan de deskundigen die in het arrest zijn aangewezen.<br>
+<br>
+§ 2. De deskundigen beschikken over een termijn van vijftien dagen, die ingaat op de dag na de betekening van het arrest, vermeld in paragraaf 1, om de griffier te laten weten of ze hun opdracht aanvaarden.<br>
+<br>
+Als de deskundigen de opdracht aanvaarden, bezorgt de griffier hun een afschrift van het administratieve dossier.
+
+### ART 112/12.
+
+Binnen vijftien dagen na de dag waarop de deskundigen hun opdracht, vermeld in artikel 112/11, hebben aanvaard, delen ze aan de partijen met een beveiligde zending de plaats, de dag en het uur mee waar en waarop ze hun deskundige werkzaamheden zullen aanvangen.<br>
+<br>
+De griffier en, in voorkomend geval, de partijen bezorgen aan de deskundigen de stukken die noodzakelijk zijn voor de uitvoering van hun opdracht.
+
+### ART 112/13.
+
+De deskundigen bezorgen hun voorverslag aan de partijen vóór ze hun definitieve deskundigenverslag bij de griffie indienen. Gedurende een termijn van hoogstens dertig dagen, die ingaat op de dag na de bezorging van het voorverslag, kunnen de partijen aan de deskundigen met een gewone brief, een fax of een e-mail opmerkingen geven over dat voorverslag. De deskundigen nemen eventuele opmerkingen, alsook hun standpunten daarover, op in hun definitieve verslag. Ze begroten hun staat van kosten en erelonen op omstandige wijze en voegen die begroting als bijlage bij hun verslag.<br>
+<br>
+De deskundigen ondertekenen hun verslag.<br>
+<br>
+De deskundigen bezorgen het origineel van het definitieve deskundigenverslag aan de griffie en een kopie ervan aan de partijen.
+
+### ART 112/14.
+
+De kamer kan de deskundigen horen om toelichtingen en ophelderingen over hun verslag te krijgen.
+
+### ART 112/15.
+
+De kamer kan, om gewichtige redenen en bij arrest, een einde maken aan de opdracht van de deskundigen en in hun vervanging voorzien nadat hij hen heeft gehoord.<br>
+<br>
+De griffier betekent het arrest aan de deskundigen en aan de partijen.
 
 ## [Onderafdeling 5. Zitting (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/16.
+
+§ 1. De kamervoorzitter bepaalt, in voorkomend geval, bij beschikking:<br>
+1° de namen van de partijen die persoonlijk moeten verschijnen om toelichting te geven, en de feiten waarover ze zullen worden gehoord, als de kamer heeft beslist om een partij te horen;<br>
+2° de namen van de getuigen en de feiten waarover ze zullen worden gehoord, als de kamer heeft beslist een getuige te horen;<br>
+3° de namen van deskundigen die de kamer heeft opgeroepen;<br>
+4° de plaats, de dag en het tijdstip van de zitting waarop het rechtstreekse beroep over de aanpassing van het leerkrediet, vermeld in artikel II.285, tweede lid, van de Codex Hoger Onderwijs van 11 oktober 2013, wordt behandeld.<br>
+<br>
+Het eerste lid, 4°, betreft het geval, vermeld in artikel 31/2 van het decreet, dat het College de behandeling ter zitting noodzakelijk acht voor de behandeling van de zaak of dat een van de partijen uitdrukkelijk en gemotiveerd verzoekt om gehoord te worden.<br>
+<br>
+§ 2. De griffier brengt de partijen en, in voorkomend geval, de getuigen of deskundigen schriftelijk op de hoogte van de inhoud van de beschikking, vermeld in paragraaf 1.
+
+### ART 112/17.
+
+In afwijking van de procedurekalender, vermeld in artikel 112/7, kan de kamer de zaak in beraad nemen op het ogenblik dat de zaak in staat is als de partijen, overeenkomstig artikel 16, zesde lid, van het decreet, in onderling overleg afzien van de behandeling van het beroep ter zitting.
+
+### ART 112/18.
+
+§ 1. De kamervoorzitter verklaart de zitting voor geopend. Hij leidt de zitting.<br>
+<br>
+§ 2. De griffier vermeldt op het zittingsblad de datum, het aanvangsuur en het einduur van de behandeling van de zaak, de verrichte proceshandelingen, de namen van de partijen en hun raadsman en hun aan- of afwezigheid, de samenstelling van de kamer en de naam van de griffier. De kamervoorzitter, de bijzitters en de griffier ondertekenen het zittingsblad.<br>
+<br>
+§ 3. De kamervoorzitter sluit de debatten en neemt de zaak in beraad.
+
+### ART 112/19.
+
+De partij die aannemelijk maakt dat ze de taal van de rechtspleging onvoldoende beheerst, kan zich op de zitting laten bijstaan door een vertaler-tolk. Daarvan maakt de griffier proces-verbaal op.<br>
+<br>
+De kamervoorzitter wijst een vertaler-tolk aan uit de lijst van de beëdigde vertalers-tolken die ter beschikking ligt op de griffie van de rechtbank van eerste aanleg in Brussel.<br>
+<br>
+De kosten van de vertaler-tolk zijn ten laste van het College.
+
 ## [Onderafdeling 6. Beraadslaging en uitspraak (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
 
+### ART 112/20.
+
+Binnen een ordetermijn van twintig dagen, die ingaat op de dag na de dag waarop het beroep is ingeschreven in het definitieve register, vermeld in artikel 17, § 2, spreekt de kamer waarbij de zaak aanhangig is, een arrest uit.<br>
+<br>
+In afwijking van het eerste lid spreekt de kamer waarbij de zaak aanhangig is, in een beroep tegen een beslissing als vermeld in artikel I.3, 69°, h), van de Codex Hoger Onderwijs van 11 oktober 2013, een arrest uit binnen een ordetermijn van dertig kalenderdagen, die ingaat op de dag na de dag waarop het beroep is ingeschreven in het definitieve register, vermeld in artikel 17, § 2.
+
+### ART 112/21.
+
+Het arrest wordt met redenen omkleed overeenkomstig artikel 32, tweede lid, van het decreet en vermeldt de volgende gegevens:<br>
+1° de namen van de partijen, de woonplaats die ze gekozen hebben, en, in voorkomend geval, de naam en de hoedanigheid van de persoon die de partijen bijstaat of vertegenwoordigt;<br>
+2° de oproeping van partijen en van hun raadsmannen, alsook hun eventuele aanwezigheid op de zitting;<br>
+3° de uitspraak in openbare zitting, de datum daarvan en de namen van de bestuursrechters die erover hebben beraadslaagd.
+
+### ART 112/22.
+
+Het College kan ambtshalve middelen inroepen die niet in het verzoekschrift zijn opgenomen, of ambtshalve excepties opwerpen, als die betrekking hebben op de openbare orde.
+
+### ART 112/23.
+
+De griffier brengt op de uitgifte, na het beschikkende gedeelte van het arrest, de volgende uitvoeringsformule aan:<br>
+"De ministers en de besturen, ieder wat hen betreft, zorgen voor de uitvoering van dit arrest.".
+
+### ART 112/24.
+
+De griffier betekent een afschrift van het arrest aan de partijen.<br>
+<br>
+De griffier zendt onmiddellijk een afschrift aan de bevoegde dienst van de Vlaamse overheid, vermeld in artikel IV.91, § 1, van de Codex Hoger Onderwijs van 11 oktober 2013, van het arrest waarbij het rechtstreekse beroep tot aanpassing van het leerkrediet, vermeld in artikel II.285, tweede lid, van dezelfde codex, wordt ingewilligd.
+
 ## [Onderafdeling 7. Schorsing van de werkzaamheden (ing. BVR 12 mei 2023, art. 9, I: 1 september 2023)]
+
+### ART 112/25.
+
+Ten aanzien van beroepen die in juli of augustus worden ingeschreven in het definitieve register, vermeld in artikel 17, § 2, kan de verweerder het College verzoeken rekening te houden met een gestaafde onderbezetting van de instelling ten gevolge van de jaarlijkse vakantie van het personeel.<br>
+<br>
+Als het College de onderbezetting gestaafd acht, treft het College een van de volgende maatregelen:<br>
+1° de in artikel 112/20 bedoelde termijnen worden gedurende ten hoogste 21 kalenderdagen geschorst;<br>
+2° de overeenkomstig artikel 44/2, § 1, eerste lid, 2°, a), van het decreet door het College te bepalen termijn verstrijkt niet eerder dan op de dag na de dag waarop voldoende personeelsleden aanwezig zijn om een examencommissie opnieuw op rechtmatige wijze samen te stellen.
 
 ## DEEL 5 OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
@@ -1277,4 +1479,4 @@ Dit besluit treedt in werking op 1 januari 2015, met uitzondering van   artikel 
 
 ### ART. 116.
 
-De Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en   organisatieontwikkeling in de Vlaamse administratie, de Vlaamse minister,   bevoegd voor het leefmilieu en het waterbeleid en de Vlaamse minister, bevoegd   voor de ruimtelijke ordening, zijn ieder wat hem of haar betreft, belast met de   uitvoering van dit besluit.<BR>
+De Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie, de Vlaamse minister, bevoegd voor de bestuursrechtspraak, de Vlaamse minister, bevoegd voor de omgeving en de natuur, en de Vlaamse minister, bevoegd voor onderwijs en vorming, zijn ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
