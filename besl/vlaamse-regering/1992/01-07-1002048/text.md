@@ -6,7 +6,9 @@ Dit besluit is van toepassing op het door de Vlaamse Gemeenschap georganiseerd e
 
 ### ART. 2.
 
-§ 1. Voor de toepassing van de sancties, inzake reglementaire programmatie- en rationalisatienormen opgenomen in de codificatie betreffende het secundair onderwijs geschiedt de definitieve vaststelling dat een nieuwe instelling, vestigingsplaats, niveau, type, opleidingsvorm, cyclus, leerjaar, afdeling, basisoptie, beroepenveld, optie, studierichting, specialisatiejaar of vervolmakingsjaar werd opgericht in strijd met de rationalisatie- en programmatieregelen, slechts na onderzoek ter plaatse door twee ambtenaren van niveau 1 van de administratie van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap waaronder de betrokken onderwijsinstelling ressorteert. De Vlaamse minister van Onderwijs wijst die ambtenaren aan.<br /><br />§ 2. In afwijking op § 1, gebeurt het genoemde onderzoek niet ter plaatse als de oprichtingen, in strijd met voornoemde rationalisatie- en programmatieregelen, plaats hadden tussen 25 oktober 1981 en 31 augustus 1991, maar wel op basis van stukken.
+§ 1. Voor de toepassing van de sancties, inzake reglementaire programmatie- en rationalisatienormen opgenomen in de codificatie betreffende het secundair onderwijs geschiedt de definitieve vaststelling dat een nieuwe instelling, vestigingsplaats, niveau, type, opleidingsvorm, cyclus, leerjaar, afdeling, basisoptie, beroepenveld, optie, studierichting, 7de leerjaar gericht op instroom arbeidsmarkt of 7de leerjaar gericht op het hoger onderwijs werd opgericht in strijd met de rationalisatie- en programmatieregelen, slechts na onderzoek ter plaatse door twee ambtenaren van niveau 1 van de administratie van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap waaronder de betrokken onderwijsinstelling ressorteert. De Vlaamse minister van Onderwijs wijst die ambtenaren aan.<br>
+<br>
+§ 2. In afwijking op § 1, gebeurt het genoemde onderzoek niet ter plaatse als de oprichtingen, in strijd met voornoemde rationalisatie- en programmatieregelen, plaats hadden tussen 25 oktober 1981 en 31 augustus 1991, maar wel op basis van stukken.
 
 ### ART. 3.
 
