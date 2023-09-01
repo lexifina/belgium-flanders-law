@@ -24,7 +24,7 @@ De opleidingsvorm drie omvat drie fasen plus een facultatieve integratiefase:<br
 3° de kwalificatiefase: omvat ten minste twee schooljaren;<br>
 4° de facultatieve integratiefase: is bedoeld voor leerling die het getuigschrift van een opleiding hebben behaald. Deze fase omvat één volledig schooljaar in de vorm van een alternerende beroepsopleiding. Deze facultatieve integratiefase van één schooljaar kan bij wijze van uitzondering door de klassenraad verlengd worden tot een tweede schooljaar in volgende situaties:<br>
 a) als een leerling door omstandigheden een lange periode gewettigd afwezig was gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald;<br>
-b) als een leerling nood blijkt te hebben aan een tweede jaar van de integratiefase op basis van individuele handelingsplanning gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald.<br>
+b) als een leerling nood blijkt te hebben aan een tweede jaar van de integratiefase op basis van het individueel aangepast curriculum gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald.<br>
 <br>
 Bij wijze van uitzondering kan, op gemotiveerd advies van de klassenraad, een leerling die nog geen getuigschrift van de opleiding heeft behaald, toch worden toegelaten tot de integratiefase.
 
@@ -146,7 +146,7 @@ De toekenning van studiebewijzen kan om geen enkele reden worden ingehouden, ook
 
 ### ART. 14.
 
-§ 1. Op het einde van de opleidingsfase geeft de klassenraad aan leerlingen met een verslag van het type basisaanbod, die vallen onder de toepassing van artikel 259, § 4, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, een studieadvies dat minstens het vervolgtraject van de leerling in het gewoon secundair onderwijs bevat. Aan alle andere leerlingen kan de klassenraad op het einde van de opleidingsfase een studieadvies geven dat minstens het vervolgtraject van de leerling in het buitengewoon secundair onderwijs bevat.<br>
+§ 1. ...<br>
 <br>
 Aan alle leerlingen wordt op het einde van de opleidingsfase een bewijs van competenties toegekend. Op dat bewijs staan de competenties opgesomd die in de opleidingsfase al verworven zijn..<br>
 <br>
