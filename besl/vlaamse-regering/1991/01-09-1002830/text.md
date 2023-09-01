@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De bepalingen van dit besluit zijn van toepassing op de inrichtende machten van de onderwijsinstellingen en internaten die de toelagen genieten bedoeld in artikel 37 van de codificatie betreffende het secundair onderwijs.
+De bepalingen van dit besluit zijn van toepassing op de inrichtende machten van de onderwijsinstellingen die de toelagen genieten bedoeld in artikel 37 van de codificatie betreffende het secundair onderwijs.
 
 ### ART. 2.
 
