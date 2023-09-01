@@ -2,16 +2,16 @@
   "codex_id": 1016291,
   "title": "Besluit van de Vlaamse Regering van 2007-09-21 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016291/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "763f00c1fbac7e09dbf3f7e8cc963cde9cd3ebf4db3cf7032dca1c9a09b484a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016291/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "9664c43417d206901d4100fc3401d5c0eecb83d1681acf5f20d5c23afe30ec76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016291&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2023-09-01",
   "made": "2007-09-21",
   "gazette": "2007-10-29",
   "numac": 2007036836,
   "document_start": "2007-09-01",
   "document_end": null,
-  "in_force": "2019-09-01",
-  "article_versions": 27,
-  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
