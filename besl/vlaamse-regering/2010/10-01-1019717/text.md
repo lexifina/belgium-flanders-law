@@ -113,6 +113,8 @@ De aanvraag van een bespreking van het verslag schort de periode van dertig kale
 ### ART. 9.
 
 Er worden geen doorlichtingsbezoeken uitgevoerd tussen 10 juni en 15 september.<br>
+<br>
+In afwijking van de periode, vermeld in het eerste lid, kan een controle op de hygiëne, bewoonbaarheid en veiligheid plaatsvinden tussen 1 september en 30 juni.<br>
 &nbsp;
 
 ### ART. 10.
