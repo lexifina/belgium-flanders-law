@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder agentschap: het Agentschap voor   Onderwijsd
 
 ### ART. 3.
 
-<P>De formulieren die gebruikt moeten worden bij de opmaak van het   oprichtingsdossier zijn opgenomen in bijlage 1 en 2, die bij dit besluit zijn   gevoegd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse minister bevoegd voor onderwijs is bevoegd om binnen de regels van dit   besluit de formulieren aan te passen.</P>
+<p>...</p>
 
 ## Afdeling 2. Indienings- en adviseringsprocedure
 
@@ -108,11 +108,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast   met de uitvoering v
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/30_1.pdf#page=25">Model   voor aanvraag tot programmatie van een opleidingsvorm en type in het   buitengewoon secundair onderwijs</A>
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/30_1.pdf#page=28">Model   voor de aanvraag tot erkenning en subsidiëring of financiering van een school   voor buitengewoon secundair onderwijs</A>
+...
 
 ### BIJLAGE
 

@@ -2,16 +2,16 @@
   "codex_id": 1024606,
   "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot uitvoering van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften wat betreft programmatieaanvragen en tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de programmatie-, rationalisatie- en behoudsnormen in het buitengewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024606/VolledigDocument?datum=2014-06-01",
-  "source_sha256": "77ff7901a45707195c3cb7d2d9c48ad1d8669088a55470c52419df5252a80655",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024606/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "9449532cdac5924b38b01a642405f87ea9633abf038c3ef1997fd977be024cb9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024606&param=informatie",
-  "as_of": "2014-06-01",
+  "as_of": "2023-09-01",
   "made": "2014-05-23",
   "gazette": "2014-09-30",
   "numac": 2014035929,
   "document_start": "2014-06-01",
   "document_end": null,
-  "in_force": "2014-06-01",
+  "in_force": "2023-09-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2014-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
