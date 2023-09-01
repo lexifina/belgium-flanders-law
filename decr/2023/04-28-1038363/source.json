@@ -2,16 +2,16 @@
   "codex_id": 1038363,
   "title": "Decreet van 2023-04-28 tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, wat betreft het gebruik van persoonsgegevens in het basisonderwijs, het secundair onderwijs en het deeltijds kunstonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038363/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "ce602ab07e02b1ed28b01beab584672a1361033c5527aa06d3231026dac06a74",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038363/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "e0abfec5e157a396129b76ab33360fd3ea7eccc9934043b97ad985a07bce750b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038363&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2023-09-01",
   "made": "2023-04-28",
   "gazette": "2023-07-18",
   "numac": 2023042515,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
