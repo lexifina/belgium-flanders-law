@@ -588,7 +588,13 @@ De algemene vergadering keurt de jaarrekening goed en verleent kwijting aan de b
 
 ### ART. 47.
 
-De bestuursorganen van de VITO zijn :<br />1° de raad van bestuur;<br />2° de gedelegeerd bestuurder;<br />3° het directiecomité.<br /><br />Voor zover dat niet bepaald is in dit decreet, worden de bevoegdheid en de werking van die organen geregeld in de statuten.<br /><br />
+De bestuursorganen van de VITO zijn :<br>
+1° de raad van bestuur;<br>
+2° het ondernemingshoofd, dat als werknemer wordt tewerkgesteld;<br>
+3° ...<br>
+<br>
+Voor zover dat niet bepaald is in dit decreet, worden de bevoegdheid en de werking van die organen geregeld in de statuten.&nbsp;Het ondernemingshoofd neemt met raadgevende stem deel aan de raad van bestuur.<br>
+&nbsp;
 
 ### ART. 48.
 
