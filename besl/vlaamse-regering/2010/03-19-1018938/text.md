@@ -97,4 +97,80 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 	</tbody>
 </table>
 <br>
-&nbsp;
+<br>
+* Bij BVR van 31 augustus 2023, BS 19 oktober 2023, wordt met ingang van 1 september 2023 een punt 18° toegevoegd aan de bijlage dat luidt als volgt:<br>
+<br>
+18° Met ingang van 1 september 2023 kan:<br>
+a) de module die in de linkerkolom vermeld wordt, individueel geconcordeerd worden naar de module, die in de rechterkolom vermeld wordt:
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>module</td>
+			<td colspan="3">module</td>
+		</tr>
+		<tr>
+			<td>Hairstyling voor theater, film en tv</td>
+			<td colspan="3">Avant-garde kapsels</td>
+		</tr>
+		<tr>
+			<td>Hairstyling voor theater, film en tv</td>
+			<td colspan="3">Gevorderde technieken hairstyling</td>
+		</tr>
+		<tr>
+			<td>Hairstyling voor theater, film en tv</td>
+			<td colspan="3">Opsteekkapsels</td>
+		</tr>
+		<tr>
+			<td>Hairstyling voor theater, film en tv</td>
+			<td colspan="3">Voorbereidende omvormingstechnieken voor<br>
+			hairstyling</td>
+		</tr>
+		<tr>
+			<td>Initiatie hairstyling voor theater, film en tv</td>
+			<td colspan="3">Avant-garde kapsels</td>
+		</tr>
+		<tr>
+			<td>Initiatie hairstyling voor theater, film en tv</td>
+			<td colspan="3">Gevorderde technieken hairstyling</td>
+		</tr>
+		<tr>
+			<td>Initiatie hairstyling voor theater, film en tv</td>
+			<td colspan="3">Opsteekkapsels</td>
+		</tr>
+		<tr>
+			<td>Initiatie hairstyling voor theater, film en tv</td>
+			<td colspan="3">Voorbereidende omvormingstechnieken voor<br>
+			hairstyling</td>
+		</tr>
+	</tbody>
+</table>
+b) de opleiding die in de linkerkolom vermeld wordt, individueel geconcordeerd worden naar de module die hieronder in de rechterkolom vermeld wordt:&nbsp;
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>opleiding</td>
+			<td colspan="2">module</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hairstylist voor theater, film en tv</td>
+			<td colspan="2">Avant-garde kapsels</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hairstylist voor theater, film en tv</td>
+			<td colspan="2">Gevorderde technieken hairstyling</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hairstylist voor theater, film en tv</td>
+			<td colspan="2">Opsteekkapsels</td>
+		</tr>
+		<tr>
+			<td>Hairstylist voor theater, film en tv</td>
+			<td colspan="2">Voorbereidende omvormingstechnieken voor hairstyling”.</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
