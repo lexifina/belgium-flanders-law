@@ -546,7 +546,17 @@ De inburgeraar toont aan dat hij de doelstelling van het vormingspakket maatscha
 <br>
 Deelname aan de test, vermeld in paragraaf 2, tweede lid, is afhankelijk van de betaling van een retributie. De Vlaamse Regering stelt het bedrag van de retributie vast en bepaalt de nadere modaliteiten van die retributie.<br>
 <br>
-In afwijking van het eerste en tweede lid, kan de Vlaamse Regering een vrijstelling verlenen voor een inburgeraar die ingeschreven is in het Rijksregister in een gemeente van het tweetalige gebied Brussel-Hoofdstad voor de retributie, vermeld in het eerste en tweede lid.</p>
+In afwijking van het eerste en tweede lid worden de volgende categorieën van inburgeraars, die geen verplichte inburgeraars zijn, vrijgesteld van de retributies, vermeld in het eerste en tweede lid:<br>
+1° inburgeraars die ingeschreven zijn in het Rijksregister in een gemeente van het tweetalige gebied Brussel-Hoofdstad;<br>
+2° inburgeraars die geen houder zijn van een diploma van het secundair onderwijs en ingeschreven zijn voor geletterdheidsmodules Nederlands en Leren leren of Regie over het Eigen Leren, een opleiding in de leergebieden van de basiseducatie of een opleiding in de studiegebieden aanvullende algemene vorming of algemene vorming;<br>
+3° inburgeraars die een inkomen verwerven via maatschappelijke dienstverlening of een leefloon of die ten laste zijn van de voormelde categorieën;<br>
+4° inburgeraars die gedetineerd zijn zoals is bepaald in artikel 2, 16° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+5° inburgeraars die werkzoekend zijn, zoals bepaald in artikel 2, 47° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+6° inburgeraars die niet-werkende, verplicht ingeschreven werkzoekenden zijn en nog geen recht op een inschakelingsuitkering hebben verworven;<br>
+7° inburgeraars die ingeschreven zijn voor een opleiding zoals bedoeld in artikel 64bis van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+8° minderjarige inburgeraars als vermeld in artikel 26, § 1, eerste lid, 3°, van dit decreet.<br>
+<br>
+In afwijking van het tweede lid worden de inburgeraars, die al een inburgeringsattest hebben behaald dat is uitgereikt door de Duitstalige Gemeenschap, de Franse Gemeenschap, de Franse Gemeenschapscommissie of de Gemeenschappelijke Gemeenschapscommissie vrijgesteld van de retributie in het kader van het verkrijgen van een vrijstelling voor het vormingspakket maatschappelijke oriëntatie, vermeld in artikel 34/1, § 1, eerste lid, van dit decreet</p>
 
 ### ART. 31.
 
