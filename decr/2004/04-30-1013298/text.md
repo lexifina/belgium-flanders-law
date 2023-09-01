@@ -49,7 +49,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
 40° het Wijk-werkendecreet van 7 juli 2017;<br>
-41° titel IV, hoofdstuk XII, van de wet van 23 december 2005 betreffende het generatiepact;<br>
+41° het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding;<br>
 42° artikel 57quater, § 1, § 2 en § 4, 2°, 60, § 7, en 61, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 43° de verordening (EU) Nr. 516/2014 van het Europees Parlement en de Raad van 16 april 2014 tot oprichting van het Fonds voor asiel, migratie en integratie, tot wijziging van Beschikking 2008/381/EG van de Raad en tot intrekking van Beschikkingen nr. 573/2007/EG en nr. 575/2007/EG van het Europees Parlement en de Raad en Beschikking 2007/435/EG van de Raad;<br>
 44° de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, met uitzondering van afdeling 2 van hoofdstuk II;<br>
@@ -497,6 +497,26 @@ b) ze hebben een valse akte of een vals stuk gebruikt, terwijl ze wisten dat de 
 a) ze hebben bedrog gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
 b) ze hebben gegevens gebruikt waarvan ze wisten dat ze vals waren;<br>
 7° personen die, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, valse namen, valse hoedanigheden of valse adressen hebben gebruikt, of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming, of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
+
+### ART 13/9.
+
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan de personen die, door onjuiste of onvolledige verklaringen af te leggen of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken, de premie, vermeld in artikel 5 van het voormelde decreet, hebben verkregen of die op die manier een premie behouden waarop ze geen of maar gedeeltelijk recht hebben.<br>
+<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor straf vervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet, een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan:<br>
+1° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+2° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die wetens en willens de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+4° personen die, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, een van de volgende handelingen hebben gesteld:<br>
+a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
+1) door valse handtekeningen;<br>
+2) door namaking of vervalsing van geschriften of handtekeningen;<br>
+3) door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen;<br>
+4) door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) ze hebben een valse akte of een vals stuk gebruikt, terwijl ze wisten dat de gebruikte akte of het gebruikte stuk vals was;<br>
+5° personen die, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, een van de volgende handelingen hebben gesteld:<br>
+a) ze hebben bedrog gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
+b) ze hebben gegevens gebruikt waarvan ze wisten dat ze vals waren;<br>
+6° personen die, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of doen verkrijgen, te behouden of te doen behouden, valse namen, valse hoedanigheden of valse adressen hebben gebruikt of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
 
 ### ART. 14.
 
