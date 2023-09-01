@@ -2,16 +2,16 @@
   "codex_id": 1023369,
   "title": "Ministerieel besluit van 2013-10-01 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023369/VolledigDocument?datum=2022-10-03",
-  "source_sha256": "a70c69630248e6647cc1e9c051e977a678794a71361b51ab48aaa526cef1bde4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023369/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "87bb1d37eb334e6c9736ab7a6bc933be6cfbc46b081be12ed74867811c4912b3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023369&param=informatie",
-  "as_of": "2022-10-03",
+  "as_of": "2023-09-01",
   "made": "2013-10-01",
   "gazette": "2013-11-04",
   "numac": 2013035986,
   "document_start": "2013-10-01",
   "document_end": null,
-  "in_force": "2022-10-03",
+  "in_force": "2023-09-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2022-10-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

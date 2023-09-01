@@ -154,7 +154,49 @@ De subsidieverlening, de uitbetaling en de terugvordering van de subsidie verlop
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/10_1.pdf#page=35">Het beoordelingskader, vermeld in artikel 5</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/10_1.pdf#page=35">Het beoordelingskader, vermeld in artikel 5</a><br>
+<br>
+* Bij MB van 18 juli 2023, B.S. 23 augustus 2023, wordt met ingang van 1 september 2023 de volgende wijziging aangebracht:<br>
+<br>
+in de tabel wordt de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="" rowspan="3>">4. De mate waarin het project bijdraagt tot de verankering van de onderneming en de tewerkstelling en de algemene versterking van de onderneming in haar interne en externe waardeketen</td>
+			<td>KV</td>
+			<td>Neutraal</td>
+		</tr>
+		<tr>
+			<td>MV</td>
+			<td>Goed</td>
+		</tr>
+		<tr>
+			<td>GV</td>
+			<td>Goed</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+vervangen door de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="" rowspan="3>">4. De mate waarin het project bijdraagt tot de verankering van de onderneming en de tewerkstelling en de algemene versterking van de onderneming in haar interne en externe waardeketen</td>
+			<td>KV</td>
+			<td>Goed</td>
+		</tr>
+		<tr>
+			<td>MV</td>
+			<td>Goed</td>
+		</tr>
+		<tr>
+			<td>GV</td>
+			<td>Goed</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
 
 ### BIJLAGE 2.
 
