@@ -10,19 +10,21 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 Voor de toepassing van dit decreet wordt verstaan onder :<br>
 1° basisonderwijs : het gewoon en buitengewoon basisonderwijs;<br>
-2° bestuur : het orgaan dat voor de onderwijsinstelling of het CLB de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet, het bijzonder decreet of de statuten toegewezen bevoegdheden;<br>
+2° bestuur : het orgaan dat voor de onderwijsinstelling , het CLB of het leersteuncentrum de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet, het bijzonder decreet of de statuten toegewezen bevoegdheden;<br>
 3° CLB : een centrum voor leerlingenbegeleiding als vermeld in artikel 2, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 4° consortium : het consortium zoals vermeld in artikel 2, 8°, van het decreet van 15 juni 2007 betreffende het volwassenonderwijs;<br>
 5° competenties : de kennis, vaardigheden en attitudes die het personeelslid nodig heeft om zijn taken naar behoren te kunnen uitoefenen;<br>
-6° decretale en reglementaire bepalingen inzake minimumdoelen : de specifieke reglementering per onderwijsniveau inzake ontwikkelingsdoelen, eindtermen, basiscompetenties, leerplannen, handelingsplannen, minimumleerplannen en minimumlessenroosters;<br>
+6° decretale en reglementaire bepalingen inzake minimumdoelen : de specifieke reglementering per onderwijsniveau inzake ontwikkelingsdoelen, eindtermen, basiscompetenties, leerplannen, individueel aangepaste curricula, minimumleerplannen en minimumlessenroosters;<br>
 7° deeltijds kunstonderwijs : het deeltijds kunstonderwijs;<br>
 7° /1 doorlichting : elke vorm van kwaliteitstoezicht door de onderwijsinspectie die resulteert in een verslag en in een advies aan de Vlaamse Regering over de voorlopige erkenning of erkenning van de instelling of van afzonderlijke structuuronderdelen;<br>
-8° erkenningsvoorwaarden : de wettelijke of decretale voorwaarden waaraan een onderwijsinstelling moet voldoen om aan haar leerlingen of cursisten de van rechtswege geldende studiebewijzen toe te kennen;<br>
+8° erkenningsvoorwaarden : de wettelijke of decretale voorwaarden waaraan een onderwijsinstelling moet voldoen om aan haar leerlingen of cursisten de van rechtswege geldende studiebewijzen toe te kennen of de wettelijke of decretale voorwaarden waaraan een CLB of een leersteuncentrum moet voldoen;<br>
 9° gezondheidsindex : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994 houdende sociale bepalingen;<br>
 10° hoger beroepsonderwijs : het onderwijs zoals vermeld in de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-11° instelling : onderwijsinstelling of CLB;<br>
+11° instelling : onderwijsinstelling, onderwijsinternaat, CLB of leersteuncentrum;<br>
+11°/1 leersteuncentrum: een centrum als vermeld in artikel 5, 10°, van het decreet van 5 mei 2023 over leersteun;<br>
 12° nascholing : het geheel van vormingsactiviteiten die tot doel hebben de kennis, vaardigheden en attitudes die personeelsleden tijdens hun opleiding of tijdens hun werkervaring hebben verworven, te verbreden en te verdiepen met het oog op hun verdere professionalisering;<br>
 13° onderwijsinstelling : een pedagogisch geheel waar onderwijs georganiseerd wordt en waaraan een uniek instellingsnummer toegekend is;<br>
+13°/1 onderwijsinternaat: een onderwijsinternaat dat erkend is overeenkomstig artikel 6 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
 14° onderwijskoepels : een van volgende representatieve groeperingen van inrichtende machten van gesubsidieerde instellingen :<br>
 a) Onderwijsvereniging van Steden en Gemeenten;<br>
 b) Provinciaal Onderwijs Vlaanderen;<br>
@@ -34,14 +36,16 @@ g) Raad van Inrichtende Machten van het Protestants-Christelijk Onderwijs (IPCO)
 15° organieke betrekkingen : het geheel van organieke betrekkingen, omgerekend in voltijdse eenheden, waarop de instelling recht heeft bij toepassing van de bestaande reglementering voor de personeelscategorieën, vermeld in :<br>
 a) artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, met uitzondering van het personeel van de pedagogische begeleidingsdienst en het statutair meesters-, vak- en dienstpersoneel;<br>
 b) artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-16° pedagogische begeleiding : de externe professionele ondersteuning van onderwijsinstellingen en CLB's in hun zorg voor kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding ingebed in een duurzame instellingsnabije relatie;<br>
+16° pedagogische begeleiding: de externe professionele ondersteuning van onderwijsinstellingen, CLB’s en leersteuncentra in hun zorg voor kwaliteitsonderwijs, kwaliteitsvolle leerlingenbegeleiding en kwaliteitsvolle leersteun ingebed in een duurzame instellingsnabije relatie;<br>
 16° /1 referentiekader onderwijskwaliteit : het kader dat de verwachtingen voor kwaliteitsvol onderwijs door onderwijsinstellingen uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van de onderwijsinstelling;<br>
 16° /2 referentiekader CLB-kwaliteit : het kader dat de verwachtingen voor kwaliteitsvolle leerlingenbegeleiding door de CLB's uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van het CLB;<br>
+16°/3 referentiekader kwaliteitsvolle leersteun: het kader dat de verwachtingen voor kwaliteitsvolle leersteun door de leersteuncentra uitzet; het kader is opgebouwd rond de drie rubrieken: resultaten en effecten, ontwikkeling en beleid en het houdt rekening met context en input van het leersteuncentrum;<br>
+16°/4 referentiekader onderwijsinternaatskwaliteit: het kader dat de ver- wachtingen voor kwaliteitsvol verblijf en kwaliteitsvolle begeleiding uitzet. Het kader is opgebouwd rond de vier rubrieken: resultaten en effecten, ontwikkeling stimuleren, beleid en kwaliteitsontwikkeling en het houdt rekening met context en input van het onderwijsinternaat;<br>
 17° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen en die een werking ontplooit ten behoeve van de inspectie;<br>
 18° scholengemeenschap : de scholengemeenschap zoals bedoeld in artikel 3, 39°, van de codificatie betreffende het secundair onderwijs en de scholengemeenschap basisonderwijs zoals bedoeld in artikel 3, 52bis, van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br>
 19° secundair onderwijs : het gewoon voltijds secundair onderwijs, het buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs;<br>
 20° structuuronderdeel : onderverdeling in het onderwijsaanbod die afzonderlijk erkend kan worden;<br>
-20° /1 toezichtkader : kader dat de onderwijsinspectie gebruikt om haar doorlichtingsinstrumenten te ontwikkelen, gebaseerd op de referentiekaders zoals bedoeld in punt 16° /1 en 16° /2. Het toezichtkader heeft betrekking op de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling, en beleid en houdt rekening met context en input van de instelling;<br>
+20° /1 toezichtkader : kader dat de onderwijsinspectie gebruikt om haar doorlichtingsinstrumenten te ontwikkelen, gebaseerd op de referentiekaders zoals bedoeld in punt 16°/1, 16°/2, 16°/3 en 16°/4. Het toezichtkader heeft betrekking op de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling, en beleid en houdt rekening met context en input van de instelling;<br>
 21° volwassenenonderwijs : onderwijs dat erkend en gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap en dat georganiseerd wordt door de erkende centra voor volwassenenonderwijs en de erkende centra voor basiseducatie, vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
 22° leeftijdsgrens : na het einde van het jaar waarin een personeelslid de leeftijd van 65 heeft bereikt.
 
@@ -51,7 +55,7 @@ b) artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtsposit
 
 ### ART. 3.
 
-Dit deel is, tenzij uitdrukkelijk anders bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen van het basisonderwijs, het secundair onderwijs, het volwassenenonderwijs, het deeltijds kunstonderwijs en op de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding en op de pedagogische begeleidingsdiensten.
+Dit deel is, tenzij uitdrukkelijk anders bepaald, van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen van het basisonderwijs, het secundair onderwijs, het volwassenenonderwijs, het deeltijds kunstonderwijs, op de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding, op de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde leersteuncentra, op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinternaten en op de pedagogische begeleidingsdiensten.
 
 ## [TITEL II. Instellingen (verv. decr. 16 juni 2023, art. 112, I: 1 september 2023)]
 
@@ -63,13 +67,27 @@ Dit deel is, tenzij uitdrukkelijk anders bepaald, van toepassing op de door de V
 <br>
 Elk CLB is, rekening houdend met de eigen missie en het eigen begeleidingsproject, ervoor verantwoordelijk een kwaliteitsvolle leerlingenbegeleiding te verstrekken en de schoolinterne leerlingenbegeleiding te ondersteunen en te helpen optimaliseren.<br>
 <br>
+Elk leersteuncentrum is, rekening houdend met de eigen visie en het eigen beleid, ervoor verantwoordelijk kwaliteitsvolle leersteun te verstrekken aan de scholen voor gewoon onderwijs.<br>
+<br>
+Elk onderwijsinternaat zorgt, rekening houdend met de eigen missie en visie, voor kwaliteitsvol verblijf voor en begeleiding van internen, gericht op hun ontwikkeling en de realisatie van hun schoolloopbaan.<br>
+<br>
 § 2. Het verstrekken van kwaliteitsonderwijs, vermeld in paragraaf 1, eerste lid, houdt minimaal in dat de onderwijsinstelling :<br>
 1° de onderwijsreglementering respecteert;<br>
 2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd door de Vlaamse Regering, tegemoetkomt.<br>
 <br>
 Het verstrekken van kwaliteitsvolle leerlingenbegeleiding, vermeld in paragraaf 1, tweede lid, houdt minimaal in dat het CLB :<br>
 1° de CLB-reglementering respecteert;<br>
-2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vastgelegd door de Vlaamse Regering, tegemoetkomt.
+2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vastgelegd door de Vlaamse Regering, tegemoetkomt.<br>
+<br>
+Het verstrekken van kwaliteitsvolle leersteun, vermeld in paragraaf 1, derde lid, houdt minimaal in dat het leersteuncentrum:<br>
+1° de reglementering die van toepassing is op de leersteuncentra, respecteert;<br>
+2° tegemoetkomt aan de kwaliteitsverwachtingen die opgenomen zijn in het referentiekader kwaliteitsvolle leersteun, dat is vastgelegd door de Vlaamse Regering.<br>
+<br>
+Het verstrekken van een kwaliteitsvolle onderwijsinternaatswerking als vermeld in paragraaf 1, vierde lid, houdt minimaal in dat het onderwijsinternaat:<br>
+1° de onderwijsinternaatsreglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen tegemoetkomt die opgenomen zijn in het referentiekader onderwijsinternaatskwaliteit, vastgelegd door de Vlaamse Regering.<br>
+<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -115,7 +133,7 @@ Het professionaliseringsplan wordt goedgekeurd door ofwel het lokaal comité ofw
 <br>
 Onder lokaal comité wordt verstaan : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan.<br>
 <br>
-Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten laste van het schoolbestuur.
+Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten laste van het bestuur.
 
 ### ART. 9.
 
@@ -150,7 +168,15 @@ Nascholingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden
 
 ### ART. 12.
 
-§ 1. De Vlaamse Regering stelt voor scholen, centra, internaten en   instellingen beleidsprioriteiten vast voor de nascholingsinitiatieven die   noodzakelijk zijn om de implementatie van onderwijshervormingen te ondersteunen.   Ze bepaalt eveneens de doelgroepen die kunnen deelnemen aan deze   nascholingsinitiatieven.<BR><BR>Ze bepaalt de wijze waarop die   beleidsprioriteiten worden vastgesteld. Deze beleidsprioriteiten worden   meegedeeld aan het Vlaams Parlement.<BR><BR>§ 2. De Vlaamse Gemeenschap stelt   elk jaar een bedrag ter beschikking voor deze   nascholingsinitiatieven.<BR><BR>Voor het begrotingsjaar 2015 is dit bedrag   gelijk aan 614.000 euro. Vanaf het begrotingsjaar 2016 wordt dit bedrag   aangepast aan de evolutie van de gezondheidsindex. <BR><BR>§ 3. De Vlaamse   Regering wijst de uitvoering van de nascholingsinitiatieven projectmatig toe aan   nascholingsorganisaties volgens de regels die ze zelf vaststelt.
+§ 1. De Vlaamse Regering stelt voor scholen, centra,&nbsp;onderwijsinternaten en instellingen beleidsprioriteiten vast voor de nascholingsinitiatieven die noodzakelijk zijn om de implementatie van onderwijshervormingen te ondersteunen. Ze bepaalt eveneens de doelgroepen die kunnen deelnemen aan deze nascholingsinitiatieven.<br>
+<br>
+Ze bepaalt de wijze waarop die beleidsprioriteiten worden vastgesteld. Deze beleidsprioriteiten worden meegedeeld aan het Vlaams Parlement.<br>
+<br>
+§ 2. De Vlaamse Gemeenschap stelt elk jaar een bedrag ter beschikking voor deze nascholingsinitiatieven.<br>
+<br>
+Voor het begrotingsjaar 2015 is dit bedrag gelijk aan 614.000 euro. Vanaf het begrotingsjaar 2016 wordt dit bedrag aangepast aan de evolutie van de gezondheidsindex.<br>
+<br>
+§ 3. De Vlaamse Regering wijst de uitvoering van de nascholingsinitiatieven projectmatig toe aan nascholingsorganisaties volgens de regels die ze zelf vaststelt.
 
 ## [Afdeling IV. Databank Beleidsinformatie Onderwijs en Vorming (ing. Decr. 19 juni 2015, art. VII.25, I: 1 september 2015)]
 
@@ -188,7 +214,7 @@ De Vlaamse Regering kan de voorwaarden voor de raadpleging, het gebruik en de ve
 
 ### ART. 13.
 
-Deze titel, met uitzondering van artikel 14, § 3, eerste lid, van dit decreet, is niet van toepassing op de basiseducatie en de Centra voor Volwassenenonderwijs, die niet in rekening worden gebracht voor het vaststellen van de personeelsformatie van de pedagogische begeleidingsdiensten, vermeld in artikel 16.
+Deze titel, met uitzondering van artikel 14, § 3, eerste lid, van dit decreet, is niet van toepassing op de basiseducatie, de centra voor volwassenenonderwijs en de onderwijsinternaten, die niet in rekening worden gebracht voor het vaststellen van de personeelsformatie van de pedagogische begeleidingsdiensten, vermeld in artikel 16.
 
 ## HOOFDSTUK II. Oprichting en kerntaken van de pedagogische begeleidingsdiensten
 
@@ -206,15 +232,16 @@ Gesubsidieerde instellingen die wel deel uitmaken van een onderwijskoepel kunnen
 
 ### ART. 15.
 
-§ 1. De pedagogische begeleidingsdiensten begeleiden de onderwijsinstellingen en CLB's in kwestie en hun personeelsleden in het verstrekken van kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding, zoals bepaald in artikel 4, § 2.<br>
+§ 1. De pedagogische begeleidingsdiensten begeleiden de onderwijsinstellingen, de CLB’s en de leersteuncentra in kwestie en hun personeelsleden in het verstrekken van kwaliteitsonderwijs, kwaliteitsvolle leerlingenbegeleiding en kwaliteitsvolle leersteun, zoals bepaald in artikel 4, §2.<br>
 <br>
-Dit houdt in dat de pedagogische begeleidingsdiensten de volgende doelstellingen realiseren met de begeleiding die ze opzetten, waarbij ze vertrekken vanuit het pedagogisch, artistiek-pedagogisch of agogisch project van de onderwijsinstelling in kwestie of van de eigen missie en het eigen begeleidingsproject van het CLB in kwestie en ze steeds rekening houden met de noden en de vragen van de onder- wijsinstelling of het CLB in kwestie:<br>
-1° het versterken van de beroepsbekwaamheid van de personeelsleden van onderwijsinstellingen en de CLB's in kwestie, in rechtstreeks contact, met aandacht voor het versterken van hun pedagogische en didactische handelen en met het oog op de ontwikkeling van alle lerenden;<br>
-2° het versterken van de onderwijsinstellingen en CLB's in kwestie als professionele lerende organisatie. De pedagogische begeleidingsdiensten geven hierbij voorrang aan de onderwijsinstellingen of CLB's waar zich de grootste noden op deze vlakken situeren. Om deze onderwijsinstellingen of CLB's te identificeren kunnen de pedagogische begeleidingsdiensten gebruikmaken van verschillende bronnen zoals de gegevens van de pedagogische begeleidingsdienst zelf, de gegevens van de onderwijsinstelling of het CLB in kwestie, de gegevens uit doorlichtingstrajecten uitgevoerd door de onderwijsinspectie van de onderwijsinstelling of het CLB in kwestie, de gegevens die aan de basis liggen van het profiel van de onderwijsinstelling of het CLB zoals bepaald in artikel 38, § 4, of andere resultaten of gegevens die wijzen op een lage kwaliteit van onderwijs of leerlingenbegeleiding;<br>
-3° het ondersteunen van de onderwijsinstellingen in kwestie bij de realisatie van hun eigen pedagogisch, artistiek-pedagogisch of agogisch project en het ondersteunen van de CLB's in kwestie bij de realisatie van hun eigen missie en hun eigen begeleidingsproject;<br>
-4° het begeleiden van de implementatie van bepaalde beleidsprioriteiten van de Vlaamse Regering bij de onderwijsinstellingen en de CLB's in kwestie, zoals bepaald in artikel 19/2.<br>
+Dit houdt in dat de pedagogische begeleidingsdiensten de volgende doel stellingen realiseren met de begeleiding die ze opzetten, waarbij ze vertrek- ken vanuit het pedagogisch, artistiek-pedagogisch of agogisch project van de onderwijsinstelling in kwestie, van de eigen missie en het eigen begeleidings project van het CLB in kwestie of van de eigen visie en het beleid van de leersteuncentra in kwestie en ze steeds rekening houden met de noden en de vragen van de onderwijsinstelling, het CLB of het leersteuncentrum in kwestie:<br>
+1° het versterken van de beroepsbekwaamheid van de personeelsleden van onderwijsinstellingen, de CLB’s en de leersteuncentra in kwestie, in recht streeks contact, met aandacht voor het versterken van hun pedagogi sche en didactische handelen en met het oog op de ontwikkeling van alle<br>
+lerenden;<br>
+2° het versterken van de onderwijsinstellingen, CLB’s en leersteuncentra in kwestie als professionele lerende organisatie. De pedagogische begeleidingsdiensten geven hierbij voorrang aan de onderwijsinstellingen, CLB’s of leersteuncentra waar zich de grootste noden op deze vlakken situeren. Om deze onderwijsinstellingen, CLB’s of leersteuncentra te identificeren kunnen de pedagogische begeleidingsdiensten gebruikmaken van verschil- lende bronnen zoals de gegevens van de pedagogische begeleidingsdienst zelf, de gegevens van de onderwijsinstelling, het CLB of het leersteuncentrum in kwestie, de gegevens uit doorlichtingstrajecten uitgevoerd door de onderwijsinspectie van de onderwijsinstelling, het CLB of het leersteuncentrum in kwestie, de gegevens die aan de basis liggen van het profiel van de onderwijsinstelling, het CLB of het leersteuncentrum, vermeld in artikel 38, §4, of andere resultaten of gegevens die wijzen op een lage kwaliteit van onderwijs, leerlingenbegeleiding of leersteun;<br>
+3° het ondersteunen van de onderwijsinstellingen in kwestie bij de realisatie van hun eigen pedagogisch, artistiek-pedagogisch of agogisch project, het ondersteunen van de CLB’s in kwestie bij de realisatie van hun eigen missie en hun eigen begeleidingsproject en het ondersteunen van de leersteuncentra bij de realisatie van hun eigen visie en beleid;<br>
+4° het begeleiden van de implementatie van bepaalde beleidsprioriteiten van de Vlaamse Regering bij de onderwijsinstellingen, de CLB’s en de leersteuncentra in kwestie, zoals bepaald in artikel 19/2.<br>
 <br>
-De nadruk van de begeleiding van de pedagogische begeleidingsdiensten ligt steeds op de ontwikkeling van onderwijsinstellingen en CLB's in kwestie. Hiervoor is een duurzame relatie met de betrokken instellingen noodzakelijk.<br>
+De nadruk van de begeleiding van de pedagogische begeleidingsdiensten ligt steeds op de ontwikkeling van onderwijsinstellingen, CLB’s en leersteuncentra in kwestie. Hiervoor is een duurzame relatie met de betrokken instellingen noodzakelijk.<br>
 <br>
 § 2. Iedere pedagogische begeleidingsdienst stelt vijfjaarlijks een begeleidingsplan op voor de volgende vijf schooljaren. Zij dient dit uiterlijk in bij de bevoegde dienst op 1 april voorafgaand aan de start van het eerste schooljaar van de periode van in totaal vijf schooljaren waarop het begeleidingsplan betrekking heeft. In afwijking hiervan dient iedere pedagogische begeleidingsdienst uiterlijk op 30 september 2022 een begeleidingsplan in bij de bevoegde dienst voor een periode van drie schooljaren die betrekking heeft op de schooljaren 2022-2023, 2023-2024 en 2024-2025.<br>
 <br>
@@ -234,18 +261,18 @@ d) de wijze waarop doelgerichte samenwerking met andere actoren betrokken bij de
 e) de wijze waarop de wetenschappelijke onderbouwing van de begeleiding vorm krijgt;<br>
 f) de wijze waarop wordt omgegaan met onverwachte of nieuwe vragen en uitdagingen.<br>
 <br>
-De Vlaamse Regering bepaalt een sjabloon waarin de begeleidingsplannen worden opgesteld en de verdere procedure voor de goedkeuring van de begeleidingsplannen. De pedagogische begeleidingsdiensten delen de goedgekeurde begeleidingsplannen mee aan de onderwijsinstellingen en CLB's in kwestie.<br>
+De Vlaamse Regering bepaalt een sjabloon waarin de begeleidingsplannen worden opgesteld en de verdere procedure voor de goedkeuring van de begeleidingsplannen. De pedagogische begeleidingsdiensten delen de goedgekeurde begeleidingsplannen mee aan de onderwijsinstellingen , CLB’s en leersteuncentra in kwestie.<br>
 <br>
 Jaarlijks rapporteren de pedagogische begeleidingsdiensten aan de Vlaamse Regering over de activiteiten van het vorige schooljaar. Na de periode van vijf schooljaren waarop het begeleidingsplan betrekking heeft, rapporteren de pedagogische begeleidingsdiensten in hun jaarlijkse rapport over de activiteiten van de ganse periode van vijf schooljaren. De stukken ter verantwoording van de ingezette middelen worden op de zetel van de pedagogische begeleidingsdiensten bewaard, waar ze voor controle ter beschikking zijn van de bevoegde diensten.<br>
 <br>
 De Vlaamse Regering bepaalt welke elementen minimaal in de jaarlijkse rapporten worden opgenomen en bepaalt de procedure voor goedkeuring van de jaarlijkse rapporten.<br>
 <br>
-§ 3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die bekend bij de onderwijsinstellingen en CLB's in kwestie en hun personeelsleden.<br>
+§ 3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die bekend bij de onderwijsinstellingen , CLB’s en leersteuncentra in kwestie en hun personeelsleden.<br>
 <br>
 § 4. Elke pedagogische begeleidingsdienst onderzoekt en bewaakt op systematische wijze de kwaliteit van de geboden begeleiding. De pedagogische begeleidingsdienst kiest zelf de wijze waarop zij dit doet, waarbij ze er rekening mee houdt dat een kwaliteitsvolle begeleiding minimaal inhoudt dat de pedagogische begeleidingsdiensten:<br>
 1° zowel inhoudelijk als agogisch werken op een wetenschappelijk onderbouwde wijze en functioneren als professionele organisaties;<br>
-2° deelnemen aan overleg met de Vlaamse overheid en andere actoren over de kwaliteit van onderwijs en leerlingenbegeleiding;<br>
-3° doelgericht samenwerken, zowel onderling als met andere relevante actoren zoals de lerarenopleidingen, de instellingen hoger onderwijs en de onderwijsinspectie. Doelgericht betekent met het oog op het versterken van de voorbereiding, uitvoering en evaluatie van de begeleiding en kan voor de pedagogische begeleidingsdienst betekenen dat zij een makelaarsrol opneemt. In dit artikel wordt verstaan onder makelaarsrol, de rol die de pedagogische begeleidingsdiensten hebben om de onderwijsinstellingen of de CLB's in kwestie gericht te adviseren over het aanbod van een andere organisatie die expertise kan binnenbrengen die niet bij de pedagogische begeleidingsdiensten zelf aanwezig is. In dat geval voeren de pedagogische begeleidingsdiensten de begeleiding niet zelf uit, maar blijven ze wel de onderwijsinstellingen en CLB's in kwestie verder opvolgen.
+2° deelnemen aan overleg met de Vlaamse overheid en andere actoren over de kwaliteit van onderwijs, leerlingenbegeleiding en leersteun;<br>
+3° doelgericht samenwerken, zowel onderling als met andere relevante actoren zoals de lerarenopleidingen, de instellingen hoger onderwijs en de onderwijsinspectie. Doelgericht betekent met het oog op het versterken van de voorbereiding, uitvoering en evaluatie van de begeleiding en kan voor de pedagogische begeleidingsdienst betekenen dat zij een makelaarsrol opneemt. In dit artikel wordt verstaan onder makelaarsrol, de rol die de pedagogische begeleidingsdiensten hebben om de onderwijsinstellingen, de CLB’s of de leersteuncentra in kwestie gericht te adviseren over het aanbod van een andere organisatie die expertise kan binnenbrengen die niet bij de pedagogische begeleidingsdiensten zelf aanwezig is. In dat geval voeren de pedagogische begeleidingsdiensten de begeleiding niet zelf uit, maar blijven ze wel de onderwijsinstellingen , CLB’s en leersteuncentra in kwestie verder opvolgen.
 
 ## HOOFDSTUK III. Omkadering en werkingsmiddelen
 
@@ -256,13 +283,14 @@ De Vlaamse Regering bepaalt welke elementen minimaal in de jaarlijkse rapporten 
 § 1. De personeelsformatie van de pedagogische begeleidingsdiensten wordt per schooljaar vastgesteld, afzonderlijk voor :<br>
 1° het basisonderwijs;<br>
 2° het secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs samen;<br>
-3° de CLB's.<br>
+3° de CLB's;<br>
+4° de leersteuncentra.<br>
 <br>
 § 2. Per 350 organieke betrekkingen in een van de niveaus, vermeld in § 1, heeft een pedagogische begeleidingsdienst recht op een halftijdse betrekking van pedagogisch adviseur.<br>
 <br>
-Per pedagogische begeleidingsdienst die overeenkomstig het eerste lid over een personeelsformatie beschikt, wordt in een halftijdse betrekking van pedagogisch adviseur voor de centra voor leerlingenbegeleiding voorzien.<br>
+Per pedagogische begeleidingsdienst die overeenkomstig het eerste lid over een personeelsformatie beschikt, wordt in een halftijdse betrekking van pedagogisch adviseur voor de centra voor leerlingenbegeleiding&nbsp;en voor de leersteuncentra voorzien.<br>
 <br>
-§ 3. De berekening gebeurt op basis van het aantal organieke betrekkingen, vastgesteld op 1 februari van het voorafgaande schooljaar in de onderwijsinstellingen en CLB's die verbonden zijn aan de pedagogische begeleidingsdienst.<br>
+§ 3. De berekening gebeurt op basis van het aantal organieke betrekkingen, vastgesteld op 1 februari van het voorafgaande schooljaar in de onderwijsintellingen, CLB’s en leersteuncentra die verbonden zijn aan de pedagogische begeleidingsdienst. Voor de berekening kan een onderwijskoepel ervoor kiezen om de organieke betrekkingen van de leersteuncentra, vermeld in paragraaf 1, 4°, te laten meetellen bij de personeelsformatie, vermeld in paragraaf 1, 1° of 2°. In voorkomend geval meldt de onderwijskoepel dit aan AGODI uiterlijk op 31 januari 2024.<br>
 <br>
 § 4. Als een pedagogische begeleidingsdienst recht heeft op twintig halftijdse betrekkingen van pedagogisch adviseur, kunnen twee halftijdse betrekkingen van pedagogisch adviseur worden omgezet in één voltijdse of twee halftijdse betrekkingen van adviseur-coördinator. Per aanvullende schijf van 35 halftijdse betrekkingen van pedagogisch adviseur waarop een pedagogische begeleidingsdienst recht heeft, kan een halftijdse betrekking van pedagogisch adviseur worden omgezet in één bijkomende halftijdse betrekking van adviseur-coördinator.<br>
 <br>
@@ -272,7 +300,7 @@ Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halfti
 <br>
 § 6. Binnen iedere pedagogische begeleidingsdienst kan, met het oog op de uitoefening van bestuurlijke en organisatorische taken ten behoeve van deze pedagogische begeleidingsdienst, aan maximum drie voltijdse of zes halftijdse vastbenoemde pedagogische adviseurs een verlof wegens opdracht worden toegekend, zoals vermeld in artikel 51quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.<br>
 <br>
-§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016&nbsp;tot en met het schooljaar 2019-2020 niet over een personeelsformatie beschikken.
+§ 7. ...
 
 ## Afdeling II. Verloven wegens bijzondere opdracht
 
@@ -280,7 +308,7 @@ Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halfti
 
 § 1. De pedagogische begeleidingsdiensten kunnen beschikken over een aantal personeelsleden uit de instellingen aan wie een verlof wegens bijzondere opdracht, zoals vermeld in artikel 51quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, is toegekend.<br>
 <br>
-Dat verlof wegens bijzondere opdracht kan voor schooljaar 2021-2022 worden uitgeoefend in 150,5 voltijdse betrekkingen. Voor schooljaar 2022-2023 kan het verlof wegens bijzondere opdracht worden uitgeoefend in 106 voltijdse betrekkingen. Vanaf schooljaar 2023-2024 kunnen er 53,5 voltijdse betrekkingen verlof wegens bijzondere opdracht worden uitgeoefend.<br>
+Vanaf schooljaar 2023-2024 kunnen er 53,5 voltijdse betrekkingen verlof wegens bijzondere opdracht worden uitgeoefend.<br>
 <br>
 § 2. De pedagogische begeleidingsdiensten die niet beschikken over een personeelsformatie hebben samen elk schooljaar recht op 1,5 voltijdse betrekkingen verlof wegens bijzondere opdracht. De overige betrekkingen worden verdeeld over de pedagogische begeleidingsdiensten met personeelsformatie naar rato van het aandeel in de organieke betrekkingen in de onderwijsinstellingen die verbonden zijn aan die pedagogische begeleidingsdiensten.
 
@@ -288,7 +316,17 @@ Dat verlof wegens bijzondere opdracht kan voor schooljaar 2021-2022 worden uitge
 
 ### ART. 18.
 
-§ 1. De werkingsmiddelen van de pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, worden berekend als volgt :<br />1° het aantal halftijdse adviseurs of adviseurs-coördinatoren wordt vermenigvuldigd met een forfaitair bedrag van 1864,26 euro;<br />2° het aantal punten wordt vermenigvuldigd met een forfaitair bedrag van 5734,08 euro per punt.<br /><br />De berekening van het aantal punten per pedagogische begeleidingsdienst gebeurt als volgt :<br />- een eerste schijf van 20 halftijdse betrekkingen wordt vermenigvuldigd met een factor 2;<br />- een tweede schijf van 15 halftijdse betrekkingen wordt vermenigvuldigd met een factor 1,6;<br />- een derde schijf van 15 halftijdse betrekkingen wordt vermenigvuldigd met een factor 1,3;<br />- een laatste schijf met het resterende aantal halftijdse betrekkingen wordt vermenigvuldigd met 1.<br /><br />§ 2. De pedagogische begeleidingsdiensten die geen personeelsformatie hebben als vermeld in artikel 16, ontvangen een forfaitaire toelage van 139,50 euro per organieke betrekking in het basis- en secundair onderwijs.
+§ 1. De werkingsmiddelen van de pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, worden berekend als volgt :<br>
+1° het aantal halftijdse adviseurs of adviseurs-coördinatoren wordt vermenigvuldigd met een forfaitair bedrag van 1864,26 euro;<br>
+2° het aantal punten wordt vermenigvuldigd met een forfaitair bedrag van 5734,08 euro per punt.<br>
+<br>
+De berekening van het aantal punten per pedagogische begeleidingsdienst gebeurt als volgt :<br>
+- een eerste schijf van 20 halftijdse betrekkingen wordt vermenigvuldigd met een factor 2;<br>
+- een tweede schijf van 15 halftijdse betrekkingen wordt vermenigvuldigd met een factor 1,6;<br>
+- een derde schijf van 15 halftijdse betrekkingen wordt vermenigvuldigd met een factor 1,3;<br>
+- een laatste schijf met het resterende aantal halftijdse betrekkingen wordt vermenigvuldigd met 1.<br>
+<br>
+§ 2. De pedagogische begeleidingsdiensten die geen personeelsformatie hebben als vermeld in artikel 16, ontvangen een forfaitaire toelage van 139,50 euro per organieke betrekking in het basis- en secundair onderwijs en in de leersteuncentra.
 
 ### ART. 19.
 
@@ -349,7 +387,7 @@ Er kan een reserve worden opgebouwd ten bedrage van maximaal twintig procent van
 
 ### ART. 24.
 
-De pedagogische begeleidingsdiensten wenden de werkingsmiddelen, vermeld in deze afdeling, uitsluitend aan voor de begeleiding van de onderwijsinstellingen en de CLB's in kwestie, en dit overeenkomstig de goedgekeurde begeleidingsplannen. Indien uit de jaarlijkse rapporten, vermeld in artikel 15, § 2, blijkt, met toepassing van de procedure voor goedkeuring van de jaarlijkse rapporten, dat deze middelen niet worden aangewend voor de begeleiding overeenkomstig de goedgekeurde begeleidingsplannen, dan kan een gedeeltelijke terugbetaling van het werkingsbudget worden opgelegd. Deze terugbetaling kan maximaal tien procent van het werkingsbudget bedragen en wordt in mindering gebracht van de werkingsmiddelen van het daarop volgende werkingsjaar.<br>
+De pedagogische begeleidingsdiensten wenden de werkingsmiddelen, vermeld in deze afdeling, uitsluitend aan voor de begeleiding van de onderwijsinstellingen, de CLB’s en de leersteuncentra&nbsp;in kwestie, en dit overeenkomstig de goedgekeurde begeleidingsplannen. Indien uit de jaarlijkse rapporten, vermeld in artikel 15, § 2, blijkt, met toepassing van de procedure voor goedkeuring van de jaarlijkse rapporten, dat deze middelen niet worden aangewend voor de begeleiding overeenkomstig de goedgekeurde begeleidingsplannen, dan kan een gedeeltelijke terugbetaling van het werkingsbudget worden opgelegd. Deze terugbetaling kan maximaal tien procent van het werkingsbudget bedragen en wordt in mindering gebracht van de werkingsmiddelen van het daarop volgende werkingsjaar.<br>
 <br>
 Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden terugbetaald.<br>
 <br>
@@ -476,11 +514,11 @@ De Vlaamse Regering bezorgt aan het Vlaams Parlement jaarlijks een verslag van d
 
 § 1. Bij iedere aanvraag tot voorlopige erkenning van een nieuwe instelling onderzoekt de onderwijsinspectie of de decretaal vastgelegde voorwaarden voor een voorlopige erkenning, vervuld zijn.<br>
 <br>
-De inspecteur-generaal kan de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken belasten met een specifieke opdracht als vermeld in artikel 8 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken. De betrokken inspecteurs-adviseurs van de levensbeschouwelijke vakken maken een verslag op over die specifieke opdracht.<br>
+Voor scholen kan de inspecteur-generaal de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken belasten met een specifieke opdracht als vermeld in artikel 8 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken. De betrokken inspecteurs-adviseurs van de levensbeschouwelijke vakken maken een verslag op over die specifieke opdracht.<br>
 <br>
 Na het onderzoek bezorgt de onderwijsinspectie een rapport met een advies over de voorlopige erkenning aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering beslist uiterlijk op 31 augustus volgend op de aanvraag van de voorlopige erkenning.&nbsp;Dit is een termijn van orde.<br>
+De Vlaamse Regering beslist uiterlijk op 31 augustus volgend op de aanvraag van de voorlopige erkenning.&nbsp;Dit is een termijn van orde.&nbsp;Voor onderwijsinternaten geldt de termijn, vermeld in artikel 7 van het decreet van 16 juni 2023 over de onderwijsinternaten.<br>
 <br>
 § 2. Uiterlijk zes maanden na de start van het schooljaar onderzoekt de onderwijsinspectie, via een doorlichting, of de school voldoet aan de decretaal vastgelegde voorwaarden voor een erkenning.<br>
 <br>
@@ -488,7 +526,9 @@ De inspecteur-generaal kan de leden van de inspectie en begeleiding van de leven
 <br>
 Na de doorlichting bezorgt de onderwijsinspectie een rapport met een advies als vermeld in artikel 39, § 4, aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlopige erkenning over de erkenning.&nbsp;Dit is een termijn van orde.
+De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlopige erkenning over de erkenning.&nbsp;Dit is een termijn van orde.<br>
+<br>
+§3. In afwijking van paragraaf 1 wordt de voorlopige erkenning van de leersteuncentra geregeld in artikel 29 en 30 van het decreet van 5 mei 2023 over leersteun.
 
 ## Afdeling IIbis. [... (opgeh. decr. 23 maart 2018, art. 20, I; 1 september 2018)]
 
@@ -532,12 +572,23 @@ De betrokken inspecteurs-adviseurs maken een verslag op over die specifieke opdr
 1° de onderwijsreglementering respecteert;<br>
 2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vermeld in artikel 4, § 2, eerste lid, tegemoetkomt.<br>
 In het basis- en het secundair onderwijs, met uitzondering voor de nieuwe onderwijsinstellingen, spreekt de onderwijsinspectie ook een evaluatie uit over het gelijke onderwijskansenbeleid.<br>
-3° in het basis- en het secundair onderwijs een kwaliteitsvol beleid op leerlingenbegeleiding ontwikkelt, implementeert en evalueert, in toepassing van de reglementaire verplichtingen van instellingen op het vlak van leerlingenbegeleiding.<br>
+3° in het basis- en het secundair onderwijs een kwaliteitsvol beleid op leerlingenbegeleiding ontwikkelt, implementeert en evalueert, in toepassing van de reglementaire verplichtingen van instellingen op het vlak van leerlingenbegeleiding;<br>
+4° in het basis- en het secundair onderwijs voor leerlingen met een IAC-verslag kwaliteitsvolle individueel aangepaste curricula realiseert, waarbij er in het buitengewoon onderwijs bijkomende aandacht is voor de mogelijkheid tot terugkeer naar het gewoon onderwijs en er in het gewoon onderwijs bijkomende aandacht is voor de afweging van redelijke aanpassingen;<br>
+5° in het secundair onderwijs voor leerlingen met een OV4-verslag kwaliteitsvolle onderwijstrajecten realiseert, waarbij er in het buitengewoon onderwijs bijkomende aandacht is voor de mogelijkheid tot terugkeer naar het gewoon onderwijs en er in het gewoon onderwijs bijkomende aandacht is voor de afweging van redelijke aanpassingen.<br>
 <br>
 Tijdens een doorlichting van een CLB gaat de onderwijsinspectie na of het CLB :<br>
 1° de CLB-reglementering respecteert;<br>
 2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, tweede lid, tegemoetkomt.<br>
 3° de kernactiviteiten signaalfunctie en consultatieve leerlingenbegeleiding kwaliteitsvol uitvoert.<br>
+<br>
+Tijdens een doorlichting van een onderwijsinternaat gaat de onderwijsinspectie na of het internaat:<br>
+1° de onderwijsinternaatsreglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen die opgenomen zijn in het referentiekader onderwijsinternaatskwaliteit, vermeld in artikel 4, §2, vierde lid, tegemoetkomt.<br>
+<br>
+Tijdens een doorlichting van een leersteuncentrum gaat de onderwijsinspectie na of het leersteuncentrum:<br>
+1° de reglementering die van toepassing is op de leersteuncentra respecteert;<br>
+2° tegemoetkomt aan de kwaliteitsverwachtingen die opgenomen zijn in het referentiekader kwaliteitsvolle leersteun, vermeld in artikel 4, §2, tweede<br>
+lid.<br>
 <br>
 De inspectie onderzoekt daarbij ook de opdrachten die de instelling eventueel heeft toegewezen aan de scholengemeenschap of de scholengroep waartoe zij behoort. De scholengemeenschappen of de scholengroepen&nbsp;zijn ertoe gehouden de inspectie alle informatie hierover te verstrekken.<br>
 <br>
@@ -545,9 +596,11 @@ Als de inspectie tijdens een doorlichting tekorten vaststelt, onderzoekt ze of d
 <br>
 § 2. ...<br>
 <br>
-§ 3. De onderwijsinspectie stelt op basis van het referentiekader onderwijskwaliteit en op basis van het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, eerste en tweede lid, het toezichtkader en de doorlichtingsinstrumenten op en maakt die bekend. Het toezichtkader peilt in ieder geval vanuit het referentiekader onderwijskwaliteit naar de reglementaire verplichtingen van instellingen inzake de minimumdoelen, de erkenningsvoorwaarden en de financierings- en subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van instellingen op het vlak van :<br>
+§3. De onderwijsinspectie stelt op basis van het referentiekader onderwijskwaliteit, op basis van het referentiekader CLB-kwaliteit, op basis van het referentiekader kwaliteitsvolle leersteun en op basis van het referentiekader onderwijsinternaatskwaliteit, vermeld in artikel 4, §2, eerste tot en met vierde lid, het toezichtkader en de doorlichtingsinstrumenten op en maakt die bekend.<br>
+<br>
+Voor scholen peilt het toezichtkader in ieder geval vanuit het referentiekader onderwijskwaliteit naar de reglementaire verplichtingen van instellingen inzake de minimumdoelen, de erkenningsvoorwaarden en de financierings- en subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van instellingen op het vlak van:<br>
 1° het beleid inzake gelijke onderwijskansen;<br>
-2° het zorgbeleid en de leerlingenbegeleiding, met inbegrip van de ondersteuning van leerlingen met bijzondere noden vanuit de ondersteuningsnetwerken;<br>
+2° het zorgbeleid, de leerlingenbegeleiding en de leersteun;<br>
 3° het talenbeleid;<br>
 4° het beleid inzake de oriëntering van leerlingen;<br>
 5° het evaluatiebeleid met betrekking tot leerlingen en cursisten;<br>
@@ -556,7 +609,7 @@ Als de inspectie tijdens een doorlichting tekorten vaststelt, onderzoekt ze of d
 8° het beleid inzake participatie.<br>
 <br>
 § 4. De inspectie baseert zich voor de bepaling van de frequentie en de intensiteit van de doorlichting op het profiel van de instelling dat tot stand komt op basis van :<br>
-1° een reeks vooraf vastgestelde en meegedeelde gegevens met betrekking tot de instelling, waaronder de resultaten op de Vlaamse toetsen indien van toepassing. Die gegevens zijn te relateren aan elementen in het referentiekader onderwijskwaliteit of het referentiekader CLB-kwaliteit, vermeld in artikel 4, §2, eerste en tweede lid;<br>
+1° een reeks vooraf vastgestelde en meegedeelde gegevens over de instelling. Die gegevens zijn te relateren aan elementen in het referentiekader onderwijskwaliteit, het referentiekader CLB-kwaliteit, het referentiekader kwaliteitsvolle leersteun of het referentiekader onderwijsinternaatskwaliteit, vermeld in artikel 4, §2, eerste tot en met vierde lid;<br>
 2° het vorige doorlichtingsverslag en, in voorkomend geval, de opvolgingsverslagen.<br>
 <br>
 In afwijking van het eerste lid, kan de inspectie, naar aanleiding van ernstige klachten over een instelling, op vraag van de Vlaamse Regering een doorlichting uitvoeren.<br>
@@ -583,13 +636,23 @@ Het doorlichtingsteam, met inbegrip van de deelnemende externe deskundigen, stel
 3° advies "erkenning" : dit houdt in dat de nieuwe instelling met ingang van 1 september van het volgende schooljaar erkend is;<br>
 4° advies "geen erkenning" : dit houdt in dat de nieuwe instelling niet erkend wordt.<br>
 <br>
-§ 5. Voor de hele instelling of voor een afzonderlijk structuuronderdeel, en dit eventueel binnen een vestigingsplaats, zijn de volgende adviezen mogelijk:<br>
-1° gunstig advies : dit houdt in dat de erkenning van de instelling of van structuuronderdelen voortgezet wordt.<br>
-Een gunstig advies kan het bestuur verplichten zich te engageren om aan de tekorten te werken.<br>
-2° ongunstig advies : dit houdt in dat de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen opgestart wordt, met daarbij de vermelding van :<br>
-a) de mogelijkheid tot opschorting : dit houdt in dat het bestuur kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
-b) de onmogelijkheid tot opschorting : dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.<br>
-Een ongunstig advies voor een structuuronderdeel binnen een vestigingsplaats, kan nooit automatisch leiden tot de intrekking van de erkenning van dat structuuronderdeel als datzelfde structuuronderdeel ook aangeboden wordt op andere vestigingsplaatsen.<br>
+§ 5. Voor de hele instelling of voor een afzonderlijk structuuronderdeel, en dit eventueel binnen een vestigingsplaats, of voor een leersteuncentrum dat deel uit- maakt van een school voor buitengewoon onderwijs, zijn de volgende adviezen mogelijk:<br>
+1° gunstig advies: dit houdt in dat de erkenning van de instelling, of van structuuronderdelen, of van het leersteuncentrum dat deel uitmaakt van een school voor buitengewoon onderwijs, voortgezet wordt. Een gunstig advies kan het bestuur verplichten zich te engageren om aan de tekorten te werken;<br>
+2° ongunstig advies: dit houdt in dat de procedure tot intrekking van de erkenning van de instelling, of van structuuronderdelen, of van het leersteuncentrum dat deel uitmaakt van een school voor buitengewoon onderwijs, opgestart wordt, met daarbij de vermelding van:<br>
+a)&nbsp;&nbsp; &nbsp;de mogelijkheid tot opschorting: dit houdt in dat het bestuur kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
+b)&nbsp;&nbsp; &nbsp;de onmogelijkheid tot opschorting: dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.<br>
+&nbsp;<br>
+Een ongunstig advies voor een structuuronderdeel binnen een vestigingsplaats of van het leersteuncentrum dat deel uitmaakt van een school voor buitengewoon onderwijs, kan nooit automatisch leiden tot de intrekking van de erkenning van dat structuuronderdeel als datzelfde structuuronderdeel ook aangeboden wordt op andere vestigingsplaatsen.<br>
+<br>
+Een ongunstig advies voor een leersteuncentrum dat deel uitmaakt van een school voor buitengewoon onderwijs, heeft betrekking op het leersteuncentrum en kan nooit automatisch leiden tot de intrekking van de erkenning van de school voor buitengewoon onderwijs.<br>
+<br>
+Een ongunstig advies voor een school voor buitengewoon onderwijs waar een leersteuncentrum deel van uitmaakt, heeft betrekking op de school voor buitengewoon onderwijs en kan nooit automatisch leiden tot de intrekking van de erkenning van het leersteuncentrum.<br>
+<br>
+Een tekort op het vlak van het beleid op leerlingenbegeleiding, vermeld in artikel 38, §1, eerste lid, 3°, kan leiden tot de verplichting voor de school om zich extern te laten begeleiden.<br>
+<br>
+Een tekort op het vlak van de signaalfunctie en consultatieve leerlingenbegeleiding, vermeld in artikel 38, §1, tweede lid, 3°, kan leiden tot de verplichting voor het CLB om zich extern te laten begeleiden.<br>
+<br>
+Een tekort op het vlak van de kwaliteit van de leersteun, vermeld in artikel 38, §1, derde lid, kan leiden tot de verplichting voor het leersteuncentrum om zich extern te laten begeleiden.<br>
 <br>
 §6. Tijdens de eerste twee schooljaren van inwerkingtreding van bij decreet of besluit vastgelegde onderwijsdoelen, kan het niet of niet in voldoende mate bereiken of nastreven, naargelang van het geval, van die onderwijsdoelen, niet leiden tot een advies als vermeld in paragraaf 5, eerste lid, 2°.<br>
 :<br>
@@ -626,10 +689,10 @@ De beroepsprocedure in geval van een advies conform artikel 39, § 5, 2°, b), v
 ### ART. 42.
 
 § 1. De Vlaamse Regering bepaalt de verdere procedureregels voor de organisatie van de doorlichtingen. Daarbij wordt onder meer aandacht besteed aan :<br>
-1° de manier waarop personeelsleden van de instelling, ouders van leerlingen en leerlingen of cursisten worden gehoord bij de doorlichting;<br>
-2° de manier waarop personeelsleden van de instelling, ouders van leerlingen en leerlingen of cursisten worden geïnformeerd over het resultaat van de doorlichting.<br>
+1° de manier waarop personeelsleden van de instelling, ouders van leerlingen en internen, en leerlingen, internen of cursisten worden gehoord bij de doorlichting;<br>
+2° de manier waarop personeelsleden van de instelling, ouders van leerlingen en internen, en leerlingen, internen of cursisten worden geïnformeerd over het resultaat van de doorlichting.<br>
 <br>
-§ 2. Het bestuur en de personeelsleden van de instelling, de ouders van leerlingen en leerlingen of cursisten worden als eersten geïnformeerd over het resultaat van de doorlichting, vóór de verslagen openbaar worden, zoals bepaald door artikel 44 van dit decreet.<br>
+§ 2. Het bestuur en de personeelsleden van de instelling, de ouders van leerlingen en internen, en leerlingen, internen of cursisten worden als eersten geïnformeerd over het resultaat van de doorlichting, vóór de verslagen openbaar worden, zoals bepaald door artikel 44 van dit decreet.<br>
 <br>
 § 3. Bij het bepalen van de verdere procedureregels, vermeld in paragraaf 1, draagt de Vlaamse Regering er zorg voor dat de start van de doorlichting tijdig aangekondigd wordt door de onderwijsinspectie. In afwijking hiervan, kan de doorlichting of opvolgingsdoorlichting slechts zeven kalenderdagen op voorhand worden aangekondigd, indien de doorlichting&nbsp;beperkt is tot een controle van de bewoonbaarheid, veiligheid en hygiëne.
 
@@ -641,9 +704,9 @@ De beroepsprocedure in geval van een advies conform artikel 39, § 5, 2°, b), v
 
 ### ART. 43bis.
 
-§ 1. De onderwijsinspectie is belast met het kwaliteitstoezicht op de diagnostische praktijk van de centra voor leerlingenbegeleiding in functie van de opmaak van de verslagen, vermeld in de artikelen 15 en 16 van het decreet basisonderwijs van 25 februari 1997 en in de artikelen 294 en 352 van de Codex Secundair Onderwijs.<br>
+§ 1. De onderwijsinspectie is belast met het kwaliteitstoezicht op de diagnostische praktijk van de centra voor leerlingenbegeleiding in functie van de opmaak van de verslagen, vermeld in de artikelen 15 en 16 van het decreet basisonderwijs van 25 februari 1997 en in de artikelen 294 en 352 van de Codex Secundair Onderwijs.&nbsp;De onderwijsinspectie heeft daarbij bijzondere aandacht voor CLB’s die systematisch meer GC-verslagen, IAC-verslagen en OV4-verslagen opmaken in vergelijking met andere CLB’s.<br>
 <br>
-Dit kwaliteitstoezicht kan afzonderlijk van de doorlichting uitgevoerd worden. Als beide doorlichtingen ingepland zijn tijdens hetzelfde schooljaar, gebeuren ze geïntegreerd.<br>
+Dit kwaliteitstoezicht kan afzonderlijk van de doorlichting uitgevoerd worden en kan scholen die begeleid worden door het CLB meenemen in het toezicht. Als beide doorlichtingen ingepland zijn tijdens hetzelfde schooljaar, gebeuren ze geïntegreerd.<br>
 <br>
 De inspectie stemt voor de uitvoering van deze opdrachten af met de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
@@ -664,7 +727,7 @@ De doorlichtingsverslagen en de adviezen met betrekking tot de erkenning van de 
 
 ### ART 44bis.
 
-§1. De inspecteurs hebben het recht om voor de uitoefening van hun opdracht inzage te krijgen in of kopie te krijgen van persoonsgegevens. De persoonsgegevens hebben betrekking op leerlingen verbonden aan de onderwijsinstelling of begeleid door het centrum voor leerlingenbegeleiding en betreffen de gegevens die de onderwijsinstelling of het centrum voor leerlingenbegeleiding krachtens de onderwijsof CLB-reglementering in het dossier verwerken, zoals de administratieve gegevens, inschrijvingsgegevens, afwezigheden, studieresultaten en zorggegevens. De bevoegdheid heeft ook betrekking op gegevens die toegankelijk zijn via een informaticasysteem of via elk ander elektronisch apparaat.<br>
+§1. De inspecteurs hebben het recht om voor de uitoefening van hun opdracht inzage te krijgen in of kopie te krijgen van persoonsgegevens. De persoonsgegevens hebben betrekking op leerlingen die verbonden zijn aan de onderwijsinstelling, of begeleid worden door het centrum voor leerlingenbegeleiding, of ondersteund worden door een leersteuncentrum en op internen die ingeschreven zijn in een onderwijsinternaat. Het betreft de gegevens die de onderwijsinstelling, het centrum voor leerlingenbegeleiding, het leersteuncentrum of het onderwijsinternaat krachtens de onderwijs-, onderwijsinternaats- of CLB-reglementering of de reglementering over de leersteuncentra in het dossier verwerken, zoals de administratieve gegevens, inschrijvingsgegevens, afwezigheden, studieresultaten en zorggegevens. De bevoegdheid heeft ook betrekking op gegevens die toegankelijk zijn via een informaticasysteem of via elk ander elektronisch apparaat.<br>
 <br>
 Als anonieme gegevens beschikbaar en actueel zijn, vragen de inspecteurs in eerste instantie inzage in die gegevens. Als dat nodig is in het licht van de opdracht, kunnen de inspecteurs inzage vragen in persoonsgegevens, als daarvoor de Europese, federale en Vlaamse regels over het verwerken van die gegevens worden gevolgd. Onder anonieme gegevens wordt verstaan: gegevens die geen betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon of op persoonsgegevens die zodanig anoniem zijn gemaakt dat de betrokkene niet of niet meer identificeerbaar is.<br>
 <br>
@@ -690,7 +753,22 @@ Bij de Vlaamse Regering wordt een inspectie opgericht, onder leiding van   een i
 
 ### ART. 46.
 
-§ 1. De inspectie bestaat voor minstens 35 % uit personeelsleden afkomstig uit instellingen die behoren tot het gemeenschapsonderwijs of het gesubsidieerd officieel onderwijs, en voor minstens 35 % uit personeelsleden afkomstig uit de instellingen van het gesubsidieerd vrij onderwijs.<br /><br />De afkomst wordt bepaald door de laatste instelling waar de kandidaat functioneert voor hij aangesteld wordt tot inspecteur en door de instelling waar de kandidaat de grootste opdracht heeft. Bij gelijke opdracht telt de instelling waarin het personeelslid de meeste dienstanciënniteit heeft.<br /><br />§ 2. De inspectie bestaat voor : <br />1° minstens 40 % uit personeelsleden met relevante beroepservaring in het gewoon basisonderwijs;<br />2° minstens 26 % uit personeelsleden met relevante beroepservaring in het gewoon secundair onderwijs;<br />3° minstens 3 % uit personeelsleden met relevante beroepservaring in het volwassenenonderwijs of in de basiseducatie;<br />4° minstens 2 % van de personeelsleden met relevante beroepservaring inzake de coördinatie van leerlingenbegeleiding of in de CLB's;<br />5° minstens 2 % van de personeelsleden met relevante beroepservaring in het kunstonderwijs of in kunstvakken; <br />6° minstens 7 % van de personeelsleden met relevante beroepservaring in het buitengewoon onderwijs.<br /><br />§ 3. De Vlaamse Regering bepaalt wat moet verstaan worden onder relevante beroepservaring. <br /><br />De Vlaamse Regering kan nadere regels bepalen voor de samenstelling van de inspectie, rekening houdend met de bepalingen, vermeld in § 1 en § 2.
+§ 1. De inspectie bestaat voor minstens 35 % uit personeelsleden afkomstig uit instellingen die behoren tot het gemeenschapsonderwijs of het gesubsidieerd officieel onderwijs, en voor minstens 35 % uit personeelsleden afkomstig uit de instellingen van het gesubsidieerd vrij onderwijs.<br>
+<br>
+De afkomst wordt bepaald door de laatste instelling waar de kandidaat functioneert voor hij aangesteld wordt tot inspecteur en door de instelling waar de kandidaat de grootste opdracht heeft. Bij gelijke opdracht telt de instelling waarin het personeelslid de meeste dienstanciënniteit heeft.<br>
+<br>
+§ 2. De inspectie bestaat voor :<br>
+1° minstens 40 % uit personeelsleden met relevante beroepservaring in het gewoon basisonderwijs;<br>
+2° minstens 26 % uit personeelsleden met relevante beroepservaring in het gewoon secundair onderwijs;<br>
+3° minstens 3 % uit personeelsleden met relevante beroepservaring in het volwassenenonderwijs of in de basiseducatie;<br>
+4° minstens 2 % van de personeelsleden met relevante beroepservaring inzake de coördinatie van leerlingenbegeleiding of in de CLB's;<br>
+5° minstens 2 % van de personeelsleden met relevante beroepservaring in het kunstonderwijs of in kunstvakken;<br>
+6° minstens 7 % van de personeelsleden met relevante beroepservaring in het buitengewoon onderwijs;<br>
+7° minstens 3% uit personeelsleden met relevante beroepservaring in het onderwijsinternaatsgebeuren.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt wat moet verstaan worden onder relevante beroepservaring.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de samenstelling van de inspectie, rekening houdend met de bepalingen, vermeld in § 1 en § 2.
 
 ## Afdeling III. Financiering
 
@@ -795,7 +873,11 @@ De plichten worden nader toegelicht in een deontologische code, vastgesteld door
 
 ### ART. 59.
 
-Een mandaat bij een bestuur is onverenigbaar met de hoedanigheid van lid van de inspectie, tenzij het gaat om een politiek mandaat. De inspecteur die een politiek mandaat opneemt, dient dit onmiddellijk te melden.<br /><br />Een opdracht in een onderwijsinstelling of in een centrum voor leerlingenbegeleiding, waarover de inspectie toezicht houdt, is onverenigbaar met de hoedanigheid van lid van de inspectie.<br /><br />De uitoefening van een ambt bij de inspectie en de begeleiding van de levensbeschouwelijke vakken, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken, is onverenigbaar met de uitoefening van een ambt als lid van de inspectie.
+Een mandaat bij een bestuur is onverenigbaar met de hoedanigheid van lid van de inspectie, tenzij het gaat om een politiek mandaat. De inspecteur die een politiek mandaat opneemt, dient dit onmiddellijk te melden.<br>
+<br>
+Een opdracht in een onderwijsinstelling, in een centrum voor leerlingenbegeleiding of in een leersteuncentrum, waarover de inspectie toezicht houdt, is onverenigbaar met de hoedanigheid van lid van de inspectie.<br>
+<br>
+De uitoefening van een ambt bij de inspectie en de begeleiding van de levensbeschouwelijke vakken, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken, is onverenigbaar met de uitoefening van een ambt als lid van de inspectie.
 
 ### ART. 60.
 
@@ -806,6 +888,38 @@ Voor een personeelslid dat tijdelijk is aangesteld voor onbepaalde duur of vastb
 Voor een personeelslid dat tijdelijk is aangesteld voor bepaalde duur of een mandaat bekleedt, geldt de procedure voor ontslag om dringende redenen zoals bepaald in respectievelijk artikel 87, § 4, en artikelen 96 en 105.
 
 ## [HOOFDSTUK II/1. Flexibele werkregeling (ing. decr. 14 juli 2023, art. 61, I: 1 september 2023)]
+
+### ART 60/1.
+
+Dit hoofdstuk voorziet in de gedeeltelijke omzetting van richtlijn 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad.
+
+### ART 60/2.
+
+Een personeelslid dat aan de voorwaarden voldoet om volgens de geldende regelgeving recht te hebben op loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor mantelzorg of voor palliatieve zorgen, heeft, ongeacht of dat personeelslid die loopbaanonderbreking al of niet opneemt, het recht om voor een aaneengesloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen voor zorgdoeleinden.<br>
+<br>
+Een flexibele werkregeling als vermeld in het eerste lid, is een aanpassing van het bestaande werkpatroon van het personeelslid.
+
+### ART 60/3.
+
+Het personeelslid dat een flexibele werkregeling wil voor zorgdoeleinden als vermeld in artikel 60/2, bezorgt daarvoor een schriftelijke aanvraag aan de inspecteur-generaal minstens twee maanden vóór de gewenste begindatum of, als het gaat om een aanvraag voor palliatieve zorgen, minstens twee weken vóór de gewenste begindatum. De voormelde termijnen kunnen in onderling akkoord tussen de inspecteur-generaal en het personeelslid worden ingekort. De voormelde aanvraag vermeldt de gewenste beginen einddatum en het ingeroepen zorgdoeleinde.<br>
+<br>
+De inspecteur-generaal heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het eerste lid wordt ingeroepen.
+
+### ART 60/4.
+
+De inspecteur-generaal kan de aanvraag, vermeld in artikel 60/3, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs en de dienstverlening inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt.<br>
+<br>
+De inspecteur-generaal bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat hij de voormelde aanvraag heeft ontvangen. Als de inspecteur-generaal weigert, deelt hij de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+Het uitblijven van een antwoord van de inspecteur-generaal of een niet of onvoldoende gemotiveerde weigeringsbeslissing wordt gelijkgesteld met een akkoord.
+
+### ART 60/5.
+
+Het personeelslid heeft het recht om na afloop van de flexibele werkregeling, vermeld in artikel 60/2, zijn oorspronkelijke werkpatroon te hervatten.
+
+### ART 60/6.
+
+De flexibele werkregeling, vermeld in artikel 60/2, kan vervroegd worden stopgezet. De inspecteur-generaal kan een opzeggingstermijn vastleggen voor de aanvraag van de stopzetting.
 
 ## HOOFDSTUK III. Vaststelling van de ambten
 
@@ -1006,7 +1120,23 @@ Met behoud van toepassing van artikel 77, 78 en 79 van dit decreet zijn de bepal
 
 ### ART. 85.
 
-§ 1. Drie maanden voor het einde van het mandaat van een coördinerend inspecteur vindt een algemene eindevaluatie plaats door de evaluatoren, vermeld in artikel 109, § 2. Als die eindevaluatie niet resulteert in een eindconclusie onvoldoende, wordt het mandaat vernieuwd voor vier jaar. <br /><br />§ 2. De bepalingen van artikel 114 tot en met artikel 116 zijn van toepassing op de eindevaluatie van het mandaat van een coördinerend inspecteur. <br /><br />§ 3. Het personeelslid dat er niet mee kan instemmen dat de eindevaluatie wordt besloten met een eindconclusie onvoldoende, kan binnen twintig kalenderdagen na ontvangst van de ondertekende kopie van het evaluatieverslag met de eindconclusie onvoldoende, beroep aantekenen bij de raad van beroep vermeld in artikel 135, volgens de procedure vermeld in artikel 138. <br /><br />§ 4. De raad van beroep hoort het personeelslid en kan de betrokken evaluatoren horen.<br /><br />§ 5. De raad van beroep brengt een met redenen omkleed advies uit binnen dertig kalenderdagen na de ontvangst van het beroepschrift. Zo niet wordt het advies van de raad geacht eenparig gunstig te zijn. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.<br /><br />§ 6. Indien de raad van beroep geen eenparig advies uitbrengt, wordt het dossier van een coördinerend inspecteur binnen vijftien kalenderdagen voorgelegd aan de Vlaamse Regering die bevoegd is voor de definitieve beslissing over de toekenning van de eindconclusie onvoldoende. De Vlaamse Regering beslist binnen dertig kalenderdagen na ontvangst van het advies van de raad van beroep, zoniet wordt de beslissing geacht gunstig te zijn. <br /><br />§ 7. Als het personeelslid binnen de termijn, vermeld in § 3, geen beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief, nadat die termijn verstreken is. <br /><br />§ 8. Als het personeelslid binnen de termijn, vermeld in § 3, beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief als respectievelijk de raad van beroep of de Vlaamse Regering beslist om de eindconclusie onvoldoende te bevestigen.
+§ 1. Drie maanden voor het einde van het mandaat van een coördinerend inspecteur vindt een algemene eindevaluatie plaats door de evaluatoren, vermeld in artikel 109, § 2. Als die eindevaluatie niet resulteert in een eindconclusie onvoldoende, wordt het mandaat vernieuwd voor vier jaar.<br>
+<br>
+§ 2. De bepalingen van artikel 114 tot en met artikel 116 zijn van toepassing op de eindevaluatie van het mandaat van een coördinerend inspecteur.<br>
+<br>
+§ 3. Het personeelslid dat er niet mee kan instemmen dat de eindevaluatie wordt besloten met een eindconclusie onvoldoende, kan binnen twintig kalenderdagen na ontvangst van de ondertekende kopie van het evaluatieverslag met de eindconclusie onvoldoende, beroep aantekenen bij de raad van beroep vermeld in artikel 135, volgens de procedure vermeld in artikel 138.<br>
+<br>
+§ 4. De raad van beroep hoort het personeelslid en kan de betrokken evaluatoren horen.<br>
+<br>
+§ 5. De raad van beroep brengt een met redenen omkleed advies uit binnen dertig kalenderdagen na de ontvangst van het beroepschrift. Zo niet wordt het advies van de raad geacht eenparig gunstig te zijn. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.<br>
+<br>
+Als het einde van de termijn, vermeld in het eerste lid, valt binnen de herfst-, kerst­, krokus­, paas­ of zomervakantie, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of in artikel 7 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, wordt die termijn opgeschort gedurende de duur van de betrokken vakantie.<br>
+<br>
+§ 6. Indien de raad van beroep geen eenparig advies uitbrengt, wordt het dossier van een coördinerend inspecteur binnen vijftien kalenderdagen voorgelegd aan de Vlaamse Regering die bevoegd is voor de definitieve beslissing over de toekenning van de eindconclusie onvoldoende. De Vlaamse Regering beslist binnen dertig kalenderdagen na ontvangst van het advies van de raad van beroep, zoniet wordt de beslissing geacht gunstig te zijn.<br>
+<br>
+§ 7. Als het personeelslid binnen de termijn, vermeld in § 3, geen beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief, nadat die termijn verstreken is.<br>
+<br>
+§ 8. Als het personeelslid binnen de termijn, vermeld in § 3, beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief als respectievelijk de raad van beroep of de Vlaamse Regering beslist om de eindconclusie onvoldoende te bevestigen.
 
 ### ART. 86.
 
@@ -1243,7 +1373,19 @@ Een evaluatie kan leiden tot een evaluatieverslag met eindconclusie onvoldoende.
 
 ### ART. 117.
 
-§ 1. Een personeelslid van de inspectie dat er niet mee akkoord gaat dat zijn evaluatieverslag wordt besloten met de eindconclusie onvoldoende, kan binnen twintig kalenderdagen na ontvangst van de ondertekende kopie van het evaluatieverslag beroep aantekenen bij de raad van beroep, vermeld in artikel 135, volgens de procedure, vermeld in artikel 138.<br /><br />§ 2. De raad van beroep hoort het betrokken personeelslid en kan de betrokken evaluatoren horen.<br /><br />§ 3. De raad van beroep brengt een met redenen omkleed advies uit binnen dertig kalenderdagen na de ontvangst van het beroepschrift. Zo niet wordt het advies van de raad geacht eenparig gunstig te zijn. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.<br /><br />§ 4. Indien de raad van beroep geen eenparig advies uitbrengt, wordt het dossier, in het geval van een inspecteur of een coördinerend inspecteur, binnen vijftien kalenderdagen voorgelegd aan de Vlaamse Regering die bevoegd is voor de definitieve beslissing over de toekenning van de eindconclusie onvoldoende. De Vlaamse Regering beslist binnen dertig kalenderdagen na ontvangst van het advies van de raad van beroep, zoniet wordt de beslissing geacht gunstig te zijn.<br /><br />§ 5. Als het personeelslid binnen de termijn, vermeld in § 1, geen beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief nadat die termijn verstreken is.<br /><br />§ 6. Als het personeelslid binnen de termijn, vermeld in § 1, beroep aantekent is, de evaluatie definitief als respectievelijk de raad van beroep of de Vlaamse Regering beslist om de eindconclusie onvoldoende te bevestigen.
+§ 1. Een personeelslid van de inspectie dat er niet mee akkoord gaat dat zijn evaluatieverslag wordt besloten met de eindconclusie onvoldoende, kan binnen twintig kalenderdagen na ontvangst van de ondertekende kopie van het evaluatieverslag beroep aantekenen bij de raad van beroep, vermeld in artikel 135, volgens de procedure, vermeld in artikel 138.<br>
+<br>
+§ 2. De raad van beroep hoort het betrokken personeelslid en kan de betrokken evaluatoren horen.<br>
+<br>
+§ 3. De raad van beroep brengt een met redenen omkleed advies uit binnen dertig kalenderdagen na de ontvangst van het beroepschrift. Zo niet wordt het advies van de raad geacht eenparig gunstig te zijn. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.<br>
+<br>
+Als het einde van de termijn, vermeld in het eerste lid, valt binnen de herfst-, kerst­, krokus­, paas­ of zomervakantie, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of in artikel 7 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, wordt die termijn opgeschort gedurende de duur van de betrokken vakantie.<br>
+<br>
+§ 4. Indien de raad van beroep geen eenparig advies uitbrengt, wordt het dossier, in het geval van een inspecteur of een coördinerend inspecteur, binnen vijftien kalenderdagen voorgelegd aan de Vlaamse Regering die bevoegd is voor de definitieve beslissing over de toekenning van de eindconclusie onvoldoende. De Vlaamse Regering beslist binnen dertig kalenderdagen na ontvangst van het advies van de raad van beroep, zoniet wordt de beslissing geacht gunstig te zijn.<br>
+<br>
+§ 5. Als het personeelslid binnen de termijn, vermeld in § 1, geen beroep aantekent, is de evaluatie met eindconclusie onvoldoende definitief nadat die termijn verstreken is.<br>
+<br>
+§ 6. Als het personeelslid binnen de termijn, vermeld in § 1, beroep aantekent is, de evaluatie definitief als respectievelijk de raad van beroep of de Vlaamse Regering beslist om de eindconclusie onvoldoende te bevestigen.
 
 ### ART. 118.
 
@@ -1638,7 +1780,7 @@ In de bijlage I bij het koninklijk besluit van 28 september 1984, zoals gewijzig
 
 ### ART. 185.
 
-In afwijking van artikel 34 van het koninklijk besluit van 28 september 1984, zoals gewijzigd bij het koninklijk besluit van 20 juli 2007, wordt met betrekking tot de materies, bedoeld in artikel 11, § 1 en § 2, van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel, een onderhandelingscomité opgericht. De coördinerend inspecteur-generaal en met ingang van 1 september 2009 de inspecteur-generaal of zijn gemandateerde zit dit onderhandelingscomité voor.
+In afwijking van artikel 34 van het koninklijk besluit van 28 september 1984, zoals gewijzigd bij het koninklijk besluit van 20 juli 2007, wordt met betrekking tot de materies, bedoeld in artikel 11, § 1 en § 2, van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel, een onderhandelingscomité opgericht. De inspecteur-generaal of zijn gemandateerde zit dit onderhandelingscomité voor.
 
 ## TITEL III. Overige wijzigingsbepalingen
 
@@ -1818,7 +1960,9 @@ In afwijking van artikel 28, § 3 en § 4 van onderhavig decreet, wordt het   kr
 
 ### ART. 219.
 
-De personeelsleden van de inspectie die op 31 augustus 2009 tijdelijk zijn aangesteld, tot de proeftijd zijn toegelaten of vastbenoemd zijn in het ambt van inspecteur basisonderwijs, inspecteur secundair onderwijs, inspecteur kunstonderwijs, inspecteur volwassenenonderwijs of inspecteur van de centra op basis van het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden vanaf 1 september 2009 beschouwd als respectievelijk tijdelijk aangesteld, tot de proeftijd toegelaten of vastbenoemd in het ambt van inspecteur. Ze behouden hun salarisschaal en forfaitaire vergoeding voor reis-, verblijfs- en werkingskosten, tenzij de nieuwe bezoldigingsregeling gunstiger is. <br /><br />De diensten gepresteerd in het ambt van inspecteur basisonderwijs, inspecteur secundair onderwijs, inspecteur kunstonderwijs, inspecteur volwassenenonderwijs of inspecteur van de centra worden beschouwd als diensten gepresteerd in het ambt van inspecteur.
+De personeelsleden van de inspectie die op 31 augustus 2009 tijdelijk zijn aangesteld of vastbenoemd zijn in het ambt van inspecteur basisonderwijs, inspecteur secundair onderwijs, inspecteur kunstonderwijs, inspecteur volwassenenonderwijs of inspecteur van de centra op basis van het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden vanaf 1 september 2009 beschouwd als respectievelijk tijdelijk aangesteld of vastbenoemd in het ambt van inspecteur. Ze behouden hun salarisschaal en forfaitaire vergoeding voor reis-, verblijfs- en werkingskosten, tenzij de nieuwe bezoldigingsregeling gunstiger is.<br>
+<br>
+De diensten gepresteerd in het ambt van inspecteur basisonderwijs, inspecteur secundair onderwijs, inspecteur kunstonderwijs, inspecteur volwassenenonderwijs of inspecteur van de centra worden beschouwd als diensten gepresteerd in het ambt van inspecteur.
 
 ### ART. 220.
 
@@ -1826,7 +1970,9 @@ In afwijking van artikel 62, wordt, zolang er kandidaten zijn opgenomen op een l
 
 ### ART. 221.
 
-Personeelsleden van de Dienst voor Onderwijsontwikkeling die op 31 augustus 2009 vastbenoemd, tot de proeftijd zijn toegelaten of tijdelijk zijn aangesteld in het ambt van adviseur bij de Dienst voor Onderwijsontwikkeling of in het ambt van navorser bij de Dienst voor Onderwijsontwikkeling op basis van het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden vanaf 1 september 2009 beschouwd als respectievelijk vastbenoemd, tot de proeftijd toegelaten of tijdelijk aangesteld in het ambt van inspecteur. Ze behouden hun salarisschaal en forfaitaire vergoeding voor reis-, verblijfs- en werkingskosten, tenzij de nieuwe bezoldigingsregeling gunstiger is. <br /><br />De diensten gepresteerd in het ambt van adviseur bij de Dienst voor Onderwijsontwikkeling of navorser bij de Dienst voor Onderwijsontwikkeling worden beschouwd als diensten gepresteerd in het ambt van inspecteur.
+Personeelsleden van de Dienst voor Onderwijsontwikkeling die op 31 augustus 2009 vastbenoemd of tijdelijk zijn aangesteld in het ambt van adviseur bij de Dienst voor Onderwijsontwikkeling of in het ambt van navorser bij de Dienst voor Onderwijsontwikkeling op basis van het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden vanaf 1 september 2009 beschouwd als respectievelijk vastbenoemd of tijdelijk aangesteld in het ambt van inspecteur. Ze behouden hun salarisschaal en forfaitaire vergoeding voor reis-, verblijfs- en werkingskosten, tenzij de nieuwe bezoldigingsregeling gunstiger is.<br>
+<br>
+De diensten gepresteerd in het ambt van adviseur bij de Dienst voor Onderwijsontwikkeling of navorser bij de Dienst voor Onderwijsontwikkeling worden beschouwd als diensten gepresteerd in het ambt van inspecteur.
 
 ### ART. 222.
 
@@ -1834,15 +1980,15 @@ Het personeelslid dat op 31 augustus 2009 vastbenoemd is in het ambt van directe
 
 ### ART. 223.
 
-De personeelsleden die op 31 augustus 2009 een verlof wegens bijzondere opdracht of een verlof wegens opdracht uitoefenen bij de Dienst voor Onderwijsontwikkeling of bij de inspectie, krijgen op hun vraag, mits toestemming van hun inrichtende macht en mits instemming van de leidinggevende van een dienst van de Vlaamse Regering tot 31 augustus 2011 een verlof wegens opdracht bij die dienst.
+...
 
 ### ART. 224.
 
-In afwijking van artikel 10 van het besluit van de Vlaamse Regering van 17 juli 1991 tot uitvoering van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden de kandidaten die geslaagd zijn in de proef, vermeld in artikel 23 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, vanaf 1 mei 2009, ambtshalve toegelaten tot de proeftijd in het ambt van onderwijsadviseur bij de Dienst voor Onderwijsontwikkeling.<br /><br />De prestaties die door de personeelsleden, vermeld in het eerste lid, worden uitgeoefend binnen een door de Vlaamse Regering aangeduide dienst en die slaan op opdrachten die tot 31 augustus 2009 behoorden tot de opdrachten van de Dienst voor Onderwijsontwikkeling, vermeld in artikel 9, § 1, van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden beschouwd als effectieve prestaties tijdens de proeftijd in het ambt van inspecteur, zoals vermeld in artikel 70.
+...
 
 ### ART. 225.
 
-Er kunnen geen personeelsleden tot de proeftijd toegelaten of vastbenoemd worden in het ambt van inspecteur, zolang het percentage, vermeld in artikel 62, § 2, bereikt of overschreden is.<br /><br />In afwijking van het eerste lid kunnen de personeelsleden die op 31 augustus 2009 tot de proeftijd toegelaten zijn, vastbenoemd worden na het doorlopen van de proeftijd als de evaluatie van de proeftijd wordt afgesloten met het gemotiveerd voorstel tot benoeming in vast verband of als na toepassing van artikel 73 respectievelijk de raad van beroep of de Vlaamse Regering beslist heeft om het voorstel tot ontslag te verwerpen.
+Er kunnen geen personeelsleden vastbenoemd worden in het ambt van inspecteur, zolang het percentage, vermeld in artikel 62, § 2, bereikt of overschreden is.
 
 ## TITEL V. Slotbepaling
 
