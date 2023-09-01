@@ -100,7 +100,15 @@ Als de minister oordeelt dat de overtreding bestraft moet worden, heeft het cent
 
 ### ART. 6novies.
 
-§ 1. Met toepassing van artikel 85, § 3, van het decreet kan een centrum per schooljaar maximaal 5 procent van het beschikbare pakket VTE aanwenden voor de aanwerving van voordrachtgevers.<br /><br />§ 2. Het krediet voor voordrachtgevers wordt vastgesteld op 19,34 euro per 1/36 VTE. <br /><br />Het krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende de inrichting van een stelstel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk gekoppeld worden. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br /><br />§ 3. Het centrum deelt voor 1 oktober van het schooljaar in kwestie aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen het aantal VTE mee dat aangewend wordt voor de aanwerving van voordrachtgevers. Dit aantal kan in de loop van het schooljaar niet meer worden gewijzigd, behoudens vermindering bij overmacht. <br /><br />§ 4. Het product van het aantal VTE met het geïndexeerde krediet vormt het totale krediet dat voorbehouden is voor de aanwerving van de voordrachtgevers. Het wordt toegekend met een voorschot van 25 %,van het krediet in de loop van de maand november van het schooljaar in kwestie, en het resterende saldo van 75 % in de loop van de maand juni die daarop volgt.
+§ 1. Met toepassing van artikel 85, § 3, van het decreet kan een centrum per schooljaar VTE aanwenden voor de aanwerving van gastleraren.<br>
+<br>
+§ 2. Het krediet voor gastleraren wordt vastgesteld op 19,34 euro per 1/36 VTE.<br>
+<br>
+Het krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende de inrichting van een stelstel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk gekoppeld worden. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br>
+<br>
+§3. Het centrum meldt het aantal VTE dat het zal aanwenden voor gastleraren en de periode van aanwending aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. Het voormelde agentschap zet de voormelde VTE om in een krediet conform paragraaf 2.<br>
+<br>
+§4. Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in paragraaf 3, toe aan het centrum in de vorm van een voorschot van 25% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75% in de loop van de maand juni die daarop volgt. Het centrum kan dit krediet alleen aanwenden voor het inzetten van gastleraren conform paragraaf 3.
 
 ## [HOOFDSTUK IIIsexies ... (opgeh. BVR 15 maart 2019, art. 5, I: 1 september 2019)]
 
