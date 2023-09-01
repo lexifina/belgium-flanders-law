@@ -248,10 +248,10 @@ Elke medewerker van het centrum is ervoor verantwoordelijk het multidisciplinair
 ### ART 24/1.
 
 § 1. Ter uitvoering van artikel 17 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding registreren de centra op elektronische en gestandaardiseerde wijze activiteiten en gegevens in het multidisciplinaire dossier van de leerling, op basis van het rijksregisternummer of bisnummer van de leerling, die betrekking hebben op de volgende thema's:<br>
-1° verslag;<br>
-2° gemotiveerd verslag;<br>
+1° IAC-verslag of OV4-verslag;<br>
+2° GC-verslag;<br>
 3° problematische afwezigheden;<br>
-4° overstap naar het lager onderwijs;<br>
+4° ...;<br>
 5° overstap naar het secundair onderwijs;<br>
 6° revalidatie tijdens de lestijden;<br>
 7° definitieve uitsluiting;<br>
@@ -272,7 +272,7 @@ De bevoegde diensten van de Vlaamse minister, bevoegd voor het onderwijs, de bev
 <br>
 De bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, stellen voor de gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 15°, het formaat van de gegevensoverdracht vast. De gegevensoverdracht vindt jaarlijks plaats.<br>
 <br>
-§ 4. De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 1°, 2°, 4°, 5°, 6° en 8° aan het Agentschap voor Onderwijsdiensten met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling. Het Agentschap voor Onderwijsdiensten is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel de controle van de toelatingsvoorwaarden tot het onderwijs mogelijk te maken. De gegevens worden bewaard tot de beëindiging van de schoolloopbaan van de leerling.<br>
+§ 4. De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 1°, 2°, 5°, 6° en 8° aan het Agentschap voor Onderwijsdiensten met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling. Het Agentschap voor Onderwijsdiensten is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel de controle van de toelatingsvoorwaarden tot het onderwijs mogelijk te maken. De gegevens worden bewaard tot de beëindiging van de schoolloopbaan van de leerling.<br>
 <br>
 De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 3° en 7° aan het Departement Onderwijs en Vorming op een dergelijke wijze dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden. Het Departement Onderwijs en Vorming is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel beleidsondersteunende statistische analyses te kunnen formuleren. De bewaartermijn van de gegevens is onbeperkt.<br>
 <br>
@@ -329,11 +329,11 @@ b) de ouders, in eigen naam of namens de niet-bekwame leerling.<br>
 
 ### ART 28/1.
 
-In afwijking van artikel 28 hebben personeelsleden van de school waar de leerling met een verslag of een gemotiveerd verslag ingeschreven is of de lessen volgt, recht op inzage van het verslag of het gemotiveerde verslag uit het multidisciplinaire dossier van de leerling. Dat recht op inzage geldt ook voor de personeelsleden van de school voor buitengewoon onderwijs die in het kader van het ondersteuningsmodel instaan voor de begeleiding van de leerling met een verslag of een gemotiveerd verslag.<br>
+In afwijking van artikel 28 hebben personeelsleden van de school waar de leerling met een IAC-verslag, OV4-verslag of een GC-verslag ingeschreven is of de lessen volgt en die rechtstreeks betrokken zijn bij het onderwijs aan de leerling, recht op inzage van het IAC-verslag, het OV4-verslag of het GC-verslag uit het multidisciplinaire dossier van de leerling, zo lang ze rechtstreeks betrokken zijn bij het onderwijs van de leerling.<br>
 <br>
 De inzage kan op digitale wijze verlopen. Bij elke inzage wordt de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens toegepast.<br>
 <br>
-Aan de zijde van het centrum voor leerlingenbegeleiding dat instaat voor de begeleiding en de ondersteuning van de leerling met een verslag of gemotiveerd verslag is het centrum zelf verwerkingsverantwoordelijke. Aan de zijde van de school waar de leerling met een verslag of gemotiveerd verslag is ingeschreven, is het schoolbestuur van de school waar de leerling met een verslag of een gemotiveerd verslag is ingeschreven de verwerkingsverantwoordelijke.<br>
+Bij het centrum voor leerlingenbegeleiding dat instaat voor de begeleiding en de ondersteuning van de leerling met een IAC-verslag, OV4-verslagof GC-verslag, is het centrum zelf verwerkingsverantwoordelijke. Bij de school waar de leerling met een IAC-verslag, OV4-verslag of GC-verslag is ingeschreven, is het schoolbestuur van de school waar de leerling met een IAC-verslag, OV4-verslag of een GC-verslag is ingeschreven, de verwerkingsverantwoordelijke.<br>
 <br>
 In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen leerlingen en ouders zich niet verzetten tegen de inzage.
 
