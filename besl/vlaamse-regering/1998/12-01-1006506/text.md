@@ -31,7 +31,7 @@ Deze onderbrekingen van de ambtsvervulling worden met dienstactiviteit gelijkges
 <br>
 § 2. Dienstactiviteit is de toestand waarbij het academisch personeelslid effectieve prestaties verricht of zich in een hiermee gelijkgestelde toestand bevindt. Elk personeelslid wordt geacht in actieve dienst te zijn, tenzij het, met toepassing van uitdrukkelijke bepalingen, van rechtswege hetzij bij beslissing van het universiteitsbestuur in een andere stand is geplaatst.<br>
 <br>
-Gelijkgestelde toestanden met dienstactiviteit zijn de periodes van gewettigde afwezigheid onverminderd het bepaalde in § 1, jaarlijkse vakantie en omstandigheidsverlof.<br>
+Gelijkgestelde toestanden met dienstactiviteit zijn de periodes van gewettigde afwezigheid onverminderd het bepaalde in § 1, jaarlijkse vakantie, het zorgverlof en omstandigheidsverlof.<br>
 <br>
 Onder gewettigde afwezigheid moet worden verstaan:<br>
 1° ziekte en ongeval;<br>
@@ -39,7 +39,11 @@ Onder gewettigde afwezigheid moet worden verstaan:<br>
 Deze periodes van afwezigheid moeten gedekt zijn door een geneeskundig getuigschrift.<br>
 3° arbeidsongeval.<br>
 <br>
-Het universiteitsbestuur stelt regels vast omtrent de duur van de vakantie en het omstandigheidsverlof en hetgeen daarop betrekking heeft.<br>
+Het universiteitsbestuur stelt regels vast omtrent de duur van de vakantie en het omstandigheidsverlof en hetgeen daarop betrekking heeft.&nbsp;Het universiteitsbestuur kan regels vastleggen omtrent de duur van het verlof om dwingende redenen en hetgeen daarop betrekking heeft.<br>
+<br>
+§2/1. Het academisch personeelslid heeft ieder jaar recht op vijf dagen zorgverlof. Het universiteitsbestuur neemt hiertoe de nodige uitvoeringsmaatregelen.<br>
+<br>
+Het in het eerste lid vermelde zorgverlof is een verlof voor het personeelslid om persoonlijke zorg of steun te verlenen aan een persoon die met het personeelslid samenwoont, aan de echtgenoot van het personeelslid of de persoon met wie het personeelslid wettelijk samenwoont of aan een bloedverwant van het personeelslid in de eerste graad die om een gezondheidstoestand, al dan niet het gevolg van een ziekte of medische ingreep, behoefte heeft aan aanzienlijke zorg of steun.<br>
 <br>
 § 3. Het academisch personeelslid heeft recht op loopbaanonderbreking voor palliatieve zorgen, voor de bijstand aan of verzorging van een zwaar ziek gezins- of familielid en voor ouderschapsverlof volgens de regeling die opgenomen is in het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen en heeft recht op loopbaanonderbreking voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen.<br>
 <br>
