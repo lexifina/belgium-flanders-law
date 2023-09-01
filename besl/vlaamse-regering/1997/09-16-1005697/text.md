@@ -145,7 +145,7 @@ Wettiging van afwezigheden ingevolge laattijdige inschrijvingen:<br />1° de afw
 ### ART. 14septies.
 
 Afwezigheden die niet onder toepassing vallen van de artikelen 14ter en 14quinquies en voor zover niet bij decreet of uitvoeringsreglementering geregeld, kunnen worden gewettigd door de directeur van de instelling (of zijn afgevaardigde) of door de klassenraad, naargelang van het geval, die daartoe door de inrichtende macht bevoegd werd verklaard. Onder desbetreffende afwezigheden worden verstaan :<br>
-1° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet ingeschreven zijn in een instelling. In afwijking van deze bepaling zijn desbetreffende afwezigheden gedurende een bepaalde periode van het schooljaar evenwel van rechtswege gewettigd als ze er het rechtstreekse gevolg van zijn dat de door de leerling gekozen opleiding Se-n-Se of hoger beroepsonderwijs, verpleegkunde niet over een volledig schooljaar is gespreid;<br>
+1° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet ingeschreven zijn in een instelling. In afwijking van deze bepaling zijn desbetreffende afwezigheden gedurende een bepaalde periode van het schooljaar evenwel van rechtswege gewettigd als ze er het rechtstreekse gevolg van zijn dat het door de leerling gekozen 7de leerjaar of hoger beroepsonderwijs, verpleegkunde niet over een volledig schooljaar is gespreid;<br>
 2° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet volgen van het lessenprogramma;<br>
 3° afwezigheden die verband houden met het niet volgen van bepaalde onderdelen van het lessenprogramma, op voorwaarde dat de betrokken leerling bedoelde onderdelen eerder heeft gevolgd én reeds houder is van een eindstudiebewijs van het secundair onderwijs;<br>
 4° afwezigheden in de opleidingsvorm 4 van het buitengewoon secundair onderwijs die verband houden met een spreiding van het lessenprogramma over twee schooljaren.<br>
@@ -154,7 +154,7 @@ a) gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, na een peri
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lesuren moet plaatsvinden;<br>
 2) een medisch attest waaruit de noodzakelijkheid, de frequentie en de duur van de revalidatie blijkt;<br>
-3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding, na overleg met de begeleidende klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie tijdens de lesuren vereist is;<br>
+3) ...;<br>
 4) een toestemming van de directeur voor een periode die de duur van de behandeling, vermeld in het medisch attest, niet kan overschrijden.<br>
 b) in het gewoon onderwijs gedurende maximaal 150 minuten per week, verplaatsing inbegrepen, voor leerlingen met een specifieke onderwijsgerelateerde behoefte waarvoor een handelingsgericht advies is gegeven als vermeld in artikel 2, 11°, g), van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding. Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.<br>
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
@@ -166,7 +166,7 @@ c) in het buitengewoon onderwijs gedurende maximaal 250 minuten per week, verpla
 De school beschikt over een dossier dat ten minste de volgende elementen bevat :<br>
 1) een verklaring van de ouders waarom de revalidatie tijdens de lesuren moet plaatsvinden;<br>
 2) een inschrijvingsverslag of een verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs van 17 december 2010;<br>
-3) een advies, geformuleerd door het centrum voor leerlingenbegeleiding in overleg met de begeleidende klassenraad en de ouders. Dat advies moet motiveren waarom revalidatie voor die leerling vereist is;<br>
+3) ...;<br>
 4) een samenwerkingsovereenkomst tussen de school en de revalidatieverstrekker over de manier waarop de revalidatie het onderwijsaanbod voor de leerling in kwestie zal aanvullen en de manier waarop de informatie-uitwisseling zal verlopen. De revalidatieverstrekker bezorgt op het einde van elk schooljaar een evaluatieverslag aan de directie van de school en van het Centrum voor Leerlingenbegeleiding, met inachtneming van de privacywetgeving waaraan hij onderworpen is;<br>
 5) een toestemming van de directeur, die jaarlijks vernieuwd en gemotiveerd moet worden, rekening houdend met het evaluatieverslag waarvan sprake in punt 4).<br>
 <br>
