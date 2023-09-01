@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038816,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 13 juli 2018 houdende de vastlegging van de lijst van educatieve masteropleidingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038816/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "974ba61b0bfc5f2c9687294191e2e6406a81c7851d55e8c7373a2134d8f5c892",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038816&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-09-15",
+  "gazette": "2023-10-25",
+  "numac": 2023045797,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
