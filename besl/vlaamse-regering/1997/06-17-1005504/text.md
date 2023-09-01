@@ -604,7 +604,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 ### ART. 7.
 
-<P>Het formulier dat gebruikt moet worden bij de opmaak van het   oprichtingsdossier, vermeld in artikel 6, is opgenomen in de bijlage die bij dit   besluit is gevoegd.<BR><BR>De Vlaamse minister bevoegd voor onderwijs is bevoegd   om binnen de regels van dit besluit de formulieren aan te   passen.</P>
+<p>...</p>
 
 ## AFDELING 4 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
@@ -1040,4 +1040,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE Nieuwe versie
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/30_1.pdf#page=25">Bijlage</A>
+...
