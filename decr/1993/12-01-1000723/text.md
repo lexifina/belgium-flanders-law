@@ -24,7 +24,15 @@ De Vlaamse regering stelt de personeelsformatie vast voor de inspectie en   de b
 
 ### ART. 5.
 
-Per erkende godsdienst en voor de niet-confessionele gemeenschap wordt slechts één instantie of één vereniging erkend door de Vlaamse regering voor het uitvoeren van de in dit decreet vermelde opdrachten.<br /><br />De aanvragen tot erkenning worden vanaf 1 november 1993 voorgelegd aan de Vlaamse regering. De Vlaamse regering deelt haar beslissing mee binnen dertig dagen na ontvangst van de aanvraag. De erkenning wordt verleend voor een periode van 5 jaar en kan hernieuwd worden.<br /><br />Elke beslissing tot afwijzing van een erkenning of tot intrekking van een erkenning wordt door de Vlaamse regering omstandig gemotiveerd.<br /><br />Bij afwijzing van een erkenning of intrekking van een erkenning kan de instantie van de godsdienst of de vereniging van de niet-confessionele gemeenschap bezwaar aantekenen bij de Vlaamse regering binnen de dertig dagen na ontvangst van de beslissing.<br /><br />De Vlaamse regering deelt haar beslissing mee binnen de dertig dagen na ontvangst van het bezwaarschrift.
+Per erkende godsdienst en voor de niet-confessionele gemeenschap wordt slechts één instantie of één vereniging erkend door de Vlaamse regering voor het uitvoeren van de in dit decreet vermelde opdrachten.<br>
+<br>
+De aanvragen tot erkenning worden voorgelegd aan de Vlaamse regering. De Vlaamse regering deelt haar beslissing mee binnen dertig dagen na ontvangst van de aanvraag. De erkenning wordt verleend voor een periode van 5 jaar en kan hernieuwd worden.<br>
+<br>
+Elke beslissing tot afwijzing van een erkenning of tot intrekking van een erkenning wordt door de Vlaamse regering omstandig gemotiveerd.<br>
+<br>
+Bij afwijzing van een erkenning of intrekking van een erkenning kan de instantie van de godsdienst of de vereniging van de niet-confessionele gemeenschap bezwaar aantekenen bij de Vlaamse regering binnen de dertig dagen na ontvangst van de beslissing.<br>
+<br>
+De Vlaamse regering deelt haar beslissing mee binnen de dertig dagen na ontvangst van het bezwaarschrift.
 
 ### ART. 6.
 
@@ -47,6 +55,10 @@ De administratieve leiding van inspecteurs-adviseurs wordt waargenomen door de �
 § 1. Artikel 51 tot en met artikel 57 en artikel 59 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn van toepassing op de tijdelijke en vastbenoemde leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />§ 2. In afwijking van artikel 58 van hetzelfde decreet is een opdracht in een onderwijsinstelling of een centrum verenigbaar met het uitoefenen van een deeltijdse betrekking als lid van de inspectie en de begeleiding van de levensbeschouwelijke vakken, indien de opdracht wordt uitgeoefend in een onderwijsinstelling of een centrum gelegen buiten het ambtsgebied waar de inspectie- en begeleidingsopdracht wordt uitgeoefend.<br /><br />Indien aan een levensbeschouwelijk vak slechts een deeltijdse betrekking in de personeelsformatie toegewezen is, mag het toegewezen ambtsgebied waar de inspectie- en begeleidingsopdrachten uitgeoefend worden, de school of het centrum omvatten waar het lid van de inspectie tijdelijk aangesteld is of vastbenoemd is.<br /><br />§ 3. Het uitoefenen van een ambt als lid van de inspectie en de begeleiding van de levensbeschouwelijke vakken is onverenigbaar met het uitoefenen van een ambt als lid van de onderwijsinspectie van de Vlaamse Gemeenschap of als lid van de pedagogische begeleidingsdiensten, bedoeld in de artikelen 4 en 87 van hetzelfde decreet.<br /><br />§ 4. Elk mandaat bij een erkende instantie van een erkende godsdienst of bij de erkende vereniging van de niet-confessionele gemeenschap is onverenigbaar met de hoedanigheid van lid van de inspectie en begeleiding van de levensbeschouwelijke vakken. De leden van de inspectie en de begeleiding kunnen enkel een raadgevende functie uitoefenen bij de erkende instantie of de erkende vereniging.<br /><br />§ 5. Bovendien staan de in § 1 genoemde personeelsleden garant voor een positieve instelling ten opzichte van de andere levensbeschouwingen en bevorderen zij de samenwerking met de inspecteurs-adviseur van de andere levensbeschouwelijke vakken.
 
 ## [AFDELING 1/1 FLEXIBELE WERKREGELING (ing. decr. 14 juli 2023, art. 42, I: 1 september 2023)]
+
+### ART 9/1.
+
+Artikel 60/2 tot en met 60/6 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn van toepassing op de leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## AFDELING 2 VASTSTELLING VAN DE AMBTEN
 
@@ -148,7 +160,7 @@ De Vlaamse regering bepaalt het bedrag van de forfaitaire vergoeding die aan de 
 <br>
 § 2. Ze behouden de wedde-, dienst- en ambtsanciënniteit die zij verkregen zouden hebben indien zij in hun vorige dienst van herkomst hun ambt hadden blijven uitoefenen.<br>
 <br>
-§ 3. Indien de Vlaamse regering de erkenning van een bevoegde instantie van een erkende godsdienst of van een vereniging van de niet-confessionele gemeenschap goedkeurt na 1 januari 1994, vervullen de in § 1 bedoelde personeelsleden, vanaf 1 januari 1994 tot de datum van de erkenning, de in artikel 8 vermelde opdrachten onder de bevoegdheid van de Vlaamse regering.
+§ 3. ...
 
 ## AFDELING 11 VAKANTIE- EN PRESTATIEREGELING
 
