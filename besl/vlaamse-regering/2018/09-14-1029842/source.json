@@ -2,16 +2,16 @@
   "codex_id": 1029842,
   "title": "Besluit van de Vlaamse Regering van 2018-09-14 houdende uitvoeringsmaatregelen betreffende het duaal leren en de aanloopfase en diverse andere maatregelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029842/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "a631dbe2b9ea7a69256ffc29a5eb1369c4dcf6631474212c767aa5edc0a27195",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029842/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "4c52f692c182e48e19dd8bc1a8cd9d11811f74c499d36a9f229759824bed3b19",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029842&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-09-01",
   "made": "2018-09-14",
   "gazette": "2018-10-19",
   "numac": 2018014312,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

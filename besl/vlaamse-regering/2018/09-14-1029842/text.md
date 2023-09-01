@@ -109,7 +109,7 @@ De volgende organisatoren zijn organisatoren die instaan voor de organisatie van
 
 ### ART 8.
 
-§ 1. In duale structuuronderdelen, behalve bij Se-n-Se, kunnen de volgende studiebewijzen uitgereikt worden:<br>
+§ 1. In duale structuuronderdelen, behalve bij 7de leerjaren, kunnen de volgende studiebewijzen uitgereikt worden:<br>
 1° een diploma van secundair onderwijs;<br>
 2° een studiegetuigschrift van het tweede leerjaar van de derde graad;<br>
 3° een studiegetuigschrift van het derde leerjaar van de derde graad;<br>
@@ -118,7 +118,7 @@ De volgende organisatoren zijn organisatoren die instaan voor de organisatie van
 6° een bewijs van deelkwalificatie;<br>
 7° een bewijs van competenties.<br>
 <br>
-In duale structuuronderdelen Se-n-Se kunnen de studiebewijzen, vermeld in het eerste lid, 5° tot en met 7°, uitgereikt worden.<br>
+In duale structuuronderdelen 7de leerjaren kunnen de studiebewijzen, vermeld in het eerste lid, 5° tot en met 7°, uitgereikt worden.<br>
 <br>
 In aanloopstructuuronderdelen kunnen de studiebewijzen, vermeld in het eerste lid, 4° tot en met 7°, uitgereikt worden. Die studiebekrachtiging gebeurt met in acht name van het gegeven dat, zoals vastgelegd in het standaardtraject in kwestie, de inhoud van een aanloopstructuuronderdeel altijd een onderdeel is van de inhoud van het duaal structuuronderdeel waaraan het is gekoppeld.<br>
 <br>
@@ -160,7 +160,7 @@ In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6�
 
 § 1. Dit artikel is van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
 <br>
-§ 2. Per week kan gemiddeld maximaal twee uur van het aantal uren-leraar dat de schoolcomponent omvat, voor voordrachtgevers aangewend worden.<br>
+§ 2. Per week kan gemiddeld maximaal twee uur van het aantal uren-leraar dat de schoolcomponent omvat, voor gastleraren aangewend worden.<br>
 <br>
 § 3. Bij de overdracht van uren-leraar van een school voor voltijds gewoon secundair onderwijs aan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt elk overgedragen uur-leraar omgezet in een krediet van 34,27 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar.<br>
 <br>
@@ -395,7 +395,13 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 1° in het opschrift wordt de zinsnede "4° " vervangen door de zinsnede "3° ";<br>
 2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
 "De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.
+3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.<br>
+<br>
+* Bij BVR van 22 september 2023, BS 23 november 2023, worden met ingang van 1 september 2023 de&nbsp;volgende wijzigingen aangebracht aan bijlage 4:<br>
+1° in het opschrift wordt het woord “specialisatiejaar” vervangen door de zinsnede “7de leerjaar gericht op instroom arbeidsmarkt”;<br>
+2° het woord “specialisatiejaar” wordt telkens vervangen door de zinsnede “7de leerjaar gericht op instroom arbeidsmarkt”.<br>
+<br>
+&nbsp;
 
 ### BIJLAGE
 
