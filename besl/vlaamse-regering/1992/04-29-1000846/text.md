@@ -21,6 +21,8 @@ Dit besluit is van toepassing op de personeelsleden, de instellingen, de centra 
 4. het volwassenenonderwijs;<br>
 5. de centra voor leerlingenbegeleiding, hierna centra genoemd.<br>
 6. de pedagogische begeleidingsdiensten;<br>
+7. de onderwijsinternaten;<br>
+8. de leersteuncentra.<br>
 3°...;<br>
 4°...;<br>
 5° ...<br>
@@ -43,7 +45,9 @@ een betrekking is vanaf 1 september van het schooljaar in kwestie niet meer vatb
 14° puntenenveloppe voor de scholengemeenschap: de puntenenveloppe ter ondersteuning van de werking van de scholengemeenschap in het basisonderwijs, vermeld in artikel 125duodecies, § 1, van het decreet basisonderwijs van 25 februari 1997;<br>
 15° samengelegde punten: de punten van de puntenenveloppe voor ICT en voor administratieve en beleidsondersteuning die scholen in het basisonderwijs op het niveau van de scholengemeenschap kunnen samenleggen conform artikel 153sexies, § 4, van het decreet basisonderwijs van 25 februari 1997, en de punten voor het voeren van een zorgbeleid op het niveau van de scholengemeenschap, vermeld in artikel 125duodecies1, § 4, van het decreet basisonderwijs van 25 februari 1997;<br>
 16° ...;<br>
-17° "niet-organieke betrekking": een betrekking die niet wordt aangerekend op de personeelsomkadering van de instelling die door de overheid wordt toegekend, waarin conform artikel 47bis en artikel 52/1 van dit besluit een ter beschikking gesteld personeelslid kan worden toegewezen en waarin geen vervanging mogelijk is.<br>
+17° "niet-organieke betrekking": een betrekking die niet wordt aangerekend op de personeelsomkadering van de instelling die door de overheid wordt toegekend, waarin conform artikel 47bis en artikel 52/1 van dit besluit een ter beschikking gesteld personeelslid kan worden toegewezen en waarin geen vervanging mogelijk is;<br>
+18° leersteuncentrum: een leersteuncentrum als vermeld in artikel 20, §1, van het decreet van 5 mei 2023 over leersteun;<br>
+19° leersteuncentrum dat deel uitmaakt van een school: een leersteuncentrum dat deel uitmaakt van een school voor buitengewoon basisonderwijs of voor buitengewoon secundair onderwijs als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun.<br>
 <br>
 § 3. Voor de toepassing van dit besluit worden de begrippen hoofdambt en bijbetrekking begrepen zoals bedoeld in het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en in het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregeling van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
 <br>
@@ -61,9 +65,11 @@ Er wordt afgerond naar de hogere eenheid als de eerste decimaal vijf is of meer.
 <br>
 § 6. Voor de toepassing van dit besluit mag een leermeester godsdienst of niet-confessionele zedenleer van wie de lestijden werden vastgesteld volgens de schalen, niet ter beschikking gesteld worden om een onderwijzer aan te werven. Ook mag een onderwijzer niet ter beschikking gesteld worden om een leermeester godsdienst of niet-confessionele zedenleer aan te werven van wie de lestijden werden vastgesteld volgens de schalen.<br>
 <br>
-§ 6bis. Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als administratief medewerker in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking in het ambt van beleidsondersteuner, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
+§ 6bis. Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als administratief medewerker in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking in het ambt van adjunct-directeur of beleidsondersteuner, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.&nbsp;<br>
 <br>
-Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als beleidsondersteuner in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking van administratief medewerker, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
+Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als adjunct-directeur in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking van administratief medewerker of beleidsondersteuner, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
+<br>
+Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als beleidsondersteuner in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking van adjunct-directeur of administratief medewerker, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
 <br>
 § 6ter. Voor de toepassing van dit besluit mag de inrichtende macht van een scholengemeenschapsinstelling in het basisonderwijs een personeelslid dat in de scholengemeenschapsinstelling vastbenoemd is in een betrekking in een ambt die is opgericht met punten van de puntenenveloppe voor de scholengemeenschap en met de samengelegde punten, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking in een ander ambt in de scholengemeenschapsinstelling, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14ter toepast.<br>
 <br>
@@ -73,13 +79,13 @@ Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengew
 <br>
 Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon basisonderwijs bij een daling van het leerlingenaantal in een bepaald niveau, of een betrekking of betrekkingen in het afzonderlijk ambt van kleuteronderwijzer algemene en sociale vorming en onderwijzer algemene en sociale vorming niet meer kan of kunnen worden instandgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
 <br>
-§ 8. Voor de toepassing van dit besluit worden de autonome internaten beschouwd als instellingen van het gewoon voltijds secundair onderwijs die niet tot een scholengemeenschap behoren.<br>
+§ 8. ....<br>
 <br>
 § 9. Voor de toepassing van dit besluit beslist de inrichtende macht in het secundair onderwijs bij een vermindering van het aantal punten van de globale puntenenveloppe op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welke ambten binnen die personeelscategorie of -categorieën ze die vermindering zal toepassen.<br>
 <br>
 § 10. Voor de toepassing van dit besluit moet in het secundair onderwijs bij een vermindering van het aantal punten van de globale puntenenveloppe voor het ondersteunend personeel rekening worden gehouden met het feit dat in een instelling de personeelsleden van het ondersteunend personeel uit tenminste 50 % opvoeders moeten bestaan.&nbsp;Bij het vaststellen van het voormelde percentage opvoeders wordt geen rekening gehouden met de personeelsleden die aangesteld zijn in het ambt van ICT-coördinator.<br>
 <br>
-§ 11. Voor de toepassing van dit besluit wordt onder pedagogische entiteit verstaan: een entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede en derde graad en eventueel het hoger beroepsonderwijs, opleiding verpleegkunde van het secundair onderwijs, die behoort tot dezelfde inrichtende macht en die in hetzelfde gebouwencomplex is gelegen.<br>
+§ 11. Voor de toepassing van dit besluit wordt onder pedagogische entiteit verstaan: een entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede en derde graad en eventueel het hoger beroepsonderwijs van het secundair onderwijs, die behoort tot dezelfde inrichtende macht en die in hetzelfde gebouwencomplex is gelegen.<br>
 <br>
 § 12. Voor de toepassing van dit besluit beslist de inrichtende macht in het volwassenenonderwijs bij een vermindering van het aantal punten voor het bestuurs- en ondersteunend personeel welke betrekking of betrekkingen in de ambten van het bestuurs- en ondersteunend personeel door die vermindering nog in stand kunnen worden gehouden, op basis van de criteria waarover in het lokaal comité wordt onderhandeld.<br>
 <br>
@@ -90,6 +96,16 @@ Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengew
 § 14bis. Voor de toepassing van dit besluit beslist de inrichtende macht in het basisonderwijs bij een vermindering van het aantal punten van de puntenenveloppe voor administratieve en beleidsondersteuning op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welk ambt of welke ambten van het beleids- en ondersteunend personeel ze die vermindering zal toepassen.<br>
 <br>
 § 14ter. Voor de toepassing van dit besluit beslist de inrichtende macht van een scholengemeenschapsinstelling in het basisonderwijs bij een vermindering van het aantal punten van de puntenenveloppe voor de scholengemeenschap en van de samengelegde punten op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welk ambt of welke ambten binnen die personeelscategorie of -categorieën ze die vermindering zal toepassen.<br>
+<br>
+§14quater. Voor de toepassing van dit besluit beslist de inrichtende macht van een onderwijsinternaat bij een vermindering van het aantal omkaderingsrekeneenheden op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welke ambten binnen die personeelscategorie of personeelscategorieën ze die vermindering in het onderwijsinternaat zal toepassen.<br>
+<br>
+§14quinquies. In deze paragraaf wordt verstaan onder:<br>
+1° &nbsp;&nbsp; &nbsp;punten voor het organiseren van leersteun: de punten voor de aanwending voor leerondersteuners in een leersteuncentrum, vermeld in hoofdstuk 3, afdeling 5, van het decreet van 5 mei 2023 over leersteun;<br>
+2°&nbsp;&nbsp; &nbsp;punten voor secundaire processen: de punten voor de aanwending voor directie, administratie en coördinatie in een leersteuncentrum, vermeld in artikel 50 van het voormelde decreet.<br>
+<br>
+Voor de toepassing van dit besluit beslist de inrichtende macht van een leersteuncentrum of van een leersteuncentrum dat deel uitmaakt van een school, bij een vermindering van het aantal punten voor het organiseren van leersteun op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke betrekking of betrekkingen in wervingsambten van het leerondersteunend personeel ze die vermindering in het leersteuncentrum zal toepassen.<br>
+<br>
+Voor de toepassing van dit besluit beslist de inrichtende macht van een leersteuncentrum of van een leersteuncentrum dat deel uitmaakt van een school, bij een vermindering van het aantal punten voor secundaire processen op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welke ambten binnen die personeelscategorie of personeelscategorieën ze die vermindering in het leersteuncentrum zal toepassen.<br>
 <br>
 § 15. De criteria die een inrichtende macht in toepassing van dit artikel hanteert bij een vermindering van de jaarlijkse omkadering van een instelling worden telkens voor een periode van drie schooljaren onderhandeld in het lokaal comité.<br>
 <br>
@@ -115,7 +131,7 @@ Voor de toepassing van dit besluit hebben de personeelsleden en de   inrichtende
 
 § 1. Voor het gewoon secundair onderwijs wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
 <br>
-1° Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel en het ondersteunend personeel, het opvoedend hulp- en administratief personeel in het gewoon secundair onderwijs. Voor het ambt van directeur moet een onderscheid gemaakt worden tussen enerzijds het ambt van directeur van een instelling met een derde graad of met enkel hoger beroepsonderwijs, opleiding verpleegkunde en anderzijds het ambt van directeur van een instelling met alleen een eerste graad of alleen een eerste en tweede graad. Dit onderscheid geldt niet als het betrokken personeelslid over een vereist bekwaamheidsbewijs beschikt voor de beide ambten en op voorwaarde dat het personeelslid hierdoor niet in een lagere salarisschaal terechtkomt;<br>
+1° Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel en het ondersteunend personeel, het opvoedend hulp- en administratief personeel in het gewoon secundair onderwijs. Voor het ambt van directeur moet een onderscheid gemaakt worden tussen enerzijds het ambt van directeur van een instelling met een derde graad of met enkel hoger beroepsonderwijs en anderzijds het ambt van directeur van een instelling met alleen een eerste graad of alleen een eerste en tweede graad. Dit onderscheid geldt niet als het betrokken personeelslid over een vereist bekwaamheidsbewijs beschikt voor de beide ambten en op voorwaarde dat het personeelslid hierdoor niet in een lagere salarisschaal terechtkomt;<br>
 <br>
 2° Als het een ambt van leraar betreft:<br>
 a) een opdracht in hetzelfde vak of dezelfde specialiteiten en, voor technische vakken, kunstvakken of praktische vakken, in de vakken die behoren tot dezelfde specialiteit, waarvan het personeelslid titularis was op het einde van het voorgaande schooljaar en/of waarvoor het personeelslid ter beschikking is gesteld. Deze bepaling is enkel geldig als het personeelslid voor wie het begrip "hetzelfde ambt" moet worden toegepast, een vereist of voldoende geacht bekwaamheidsbewijs heeft of geacht wordt in het bezit te zijn van een vereist of van een voldoende geacht bekwaamheidsbewijs voor dit vak en eventueel voor deze specialiteit;<br>
@@ -132,10 +148,10 @@ a) de ambten van opvoeder vormen "hetzelfde ambt";<br>
 b) de ambten van administratief medewerker vormen "hetzelfde ambt";<br>
 c) de ambten van ICT-coördinator vormen "hetzelfde ambt";<br>
 <br>
-5° Voor de personeelsleden van de categorie van het bestuurs- en onderwijzend personeel van het beroepssecundair onderwijs of het hoger beroepsonderwijs, opleiding verpleegkunde is de overgang naar het algemeen, technisch en kunstsecundair onderwijs:<br>
-a) verplicht als de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat zowel in het beroepssecundair onderwijs of het hoger beroepsonderwijs, opleiding verpleegkunde als in de andere onderwijsvormen een vereist bekwaamheidsbewijs is voor dit ambt, vak of deze specialiteit;<br>
-b) verplicht als de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat een vereist of een voldoende geacht bekwaamheidsbewijs is in het beroepssecundair onderwijs of het hoger beroepsonderwijs, opleiding verpleegkunde en in de andere onderwijsvormen een voldoende geacht bekwaamheidsbewijs is voor dit ambt, vak of deze specialiteit;<br>
-c) niet mogelijk als het bekwaamheidsbewijs waarover de betrokken personeelsleden beschikken wel een vereist of een voldoende geacht bekwaamheidsbewijs is in het beroepssecundair onderwijs of het hoger beroepsonderwijs, opleiding verpleegkunde, maar niet in de andere onderwijsvormen.<br>
+5° Voor de personeelsleden van de categorie van het bestuurs- en onderwijzend personeel van het beroepssecundair onderwijs of het hoger beroepsonderwijs is de overgang naar het algemeen, technisch en kunstsecundair onderwijs:<br>
+a) verplicht als de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat zowel in het beroepssecundair onderwijs of het hoger beroepsonderwijs als in de andere onderwijsvormen een vereist bekwaamheidsbewijs is voor dit ambt, vak of deze specialiteit;<br>
+b) verplicht als de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat een vereist of een voldoende geacht bekwaamheidsbewijs is in het beroepssecundair onderwijs of het hoger beroepsonderwijs en in de andere onderwijsvormen een voldoende geacht bekwaamheidsbewijs is voor dit ambt, vak of deze specialiteit;<br>
+c) niet mogelijk als het bekwaamheidsbewijs waarover de betrokken personeelsleden beschikken wel een vereist of een voldoende geacht bekwaamheidsbewijs is in het beroepssecundair onderwijs of het hoger beroepsonderwijs maar niet in de andere onderwijsvormen.<br>
 <br>
 In afwijking van de bepaling onder b) kan de inrichtende macht na onderling akkoord met het betrokken personeelslid een onderscheid maken tussen het beroepssecundair onderwijs en de drie andere onderwijsvormen, behalve als het betrokken personeelslid reeds in één van deze drie onderwijsvormen fungeert als vastbenoemde in dit leervak.<br>
 <br>
@@ -153,7 +169,27 @@ In afwachting van de beslissing van de Vlaamse reaffectatiecommissie geldt de ve
 
 ### ART. 6.
 
-§ 1. Voor het buitengewoon basisonderwijs wordt "hetzelfde ambt" als volgt gedefinieerd: <br /><br />1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, het beleids- en ondersteunend personeel, het psychologisch personeel, het paramedisch personeel, het medisch personeel, het sociaal personeel, het orthopedagogisch personeel en administratief personeel in het buitengewoon basisonderwijs. De directeur die ter beschikking gesteld is in een school met enkel kleuteronderwijs heeft de keuze om de betrekking van directeur ingericht in een basisschool of lagere school al of niet op te nemen en de inrichtende macht kan in hetzelfde geval beslissen het desbetreffende personeelslid na een periode van één jaar niet meer aan te stellen. <br /><br />2. In het type 6 van het buitengewoon onderwijs wordt het ambt van leermeester ASV compensatietechniek-braille en het ambt van leraar ASV compensatietechniek-braille steeds als "hetzelfde ambt" beschouwd, ongeacht het onderwijsniveau: basis- of secundair onderwijs en ongeacht de opleidingsvorm in het secundair onderwijs.<br /><br />Deze bepaling is niet van toepassing indien hierdoor een lagere salarisschaal bekomen wordt;<br /><br />3. ... <br /><br />4. Voor de toepassing van hetzelfde ambt wordt evenwel geen onderscheid gemaakt tussen het ambt van directeur en het ambt van directeur van een medisch pedagogisch instituut.<br /><br />5. Voor de leden van het beleids- en ondersteunend personeel gelden voor de toepassing van « hetzelfde ambt » volgende bepalingen:<br />a) er wordt geen onderscheid gemaakt tussen het gewoon en buitengewoon basisonderwijs;<br />b) voor de toepassing van artikel 18 moet het ambt een zelfde puntengewicht en een zelfde salarisschaal opleveren. <br /><br />§ 2. ...<br /><br />§ 3. ...
+§ 1. Voor het buitengewoon basisonderwijs wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
+<br>
+1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, het beleids- en ondersteunend personeel, het leerondersteunend personeel, het psychologisch personeel, het paramedisch personeel, het medisch personeel, het sociaal personeel, het orthopedagogisch personeel en administratief personeel in het buitengewoon basisonderwijs. De directeur die ter beschikking gesteld is in een school met enkel kleuteronderwijs heeft de keuze om de betrekking van directeur ingericht in een basisschool of lagere school al of niet op te nemen en de inrichtende macht kan in hetzelfde geval beslissen het desbetreffende personeelslid na een periode van één jaar niet meer aan te stellen.<br>
+<br>
+2. In het type 6 van het buitengewoon onderwijs wordt het ambt van leermeester ASV compensatietechniek-braille en het ambt van leraar ASV compensatietechniek-braille steeds als "hetzelfde ambt" beschouwd, ongeacht het onderwijsniveau: basis- of secundair onderwijs en ongeacht de opleidingsvorm in het secundair onderwijs.<br>
+<br>
+Deze bepaling is niet van toepassing indien hierdoor een lagere salarisschaal bekomen wordt;<br>
+<br>
+3. ...<br>
+<br>
+4. Voor de toepassing van hetzelfde ambt wordt evenwel geen onderscheid gemaakt tussen het ambt van directeur en het ambt van directeur van een medisch pedagogisch instituut.<br>
+<br>
+5. Voor de leden van het beleids- en ondersteunend personeel gelden voor de toepassing van « hetzelfde ambt » volgende bepalingen:<br>
+a) er wordt geen onderscheid gemaakt tussen het gewoon en buitengewoon basisonderwijs;<br>
+b) voor de toepassing van artikel 18 moet het ambt een zelfde puntengewicht en een zelfde salarisschaal opleveren.<br>
+<br>
+6. Voor de leden van het leerondersteunend personeel moet voor de toepassing van “hetzelfde ambt” het ambt hetzelfde puntengewicht en dezelfde salarisschaal opleveren.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...
 
 ## ONDERAFDELING 2 BUITENGEWOON SECUNDAIR ONDERWIJS
 
@@ -161,7 +197,7 @@ In afwachting van de beslissing van de Vlaamse reaffectatiecommissie geldt de ve
 
 <p>§ 1. Voor het buitengewoon secundair onderwijs wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
 <br>
-1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, ondersteunend personeel, opvoedend hulp-, medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel van het buitengewoon secundair onderwijs;<br>
+1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, ondersteunend personeel, leerondersteunend personeel, opvoedend hulp-, medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel van het buitengewoon secundair onderwijs;<br>
 <br>
 2. Wanneer het een ambt van directeur betreft wordt een onderscheid gemaakt tussen het ambt van directeur van een instelling van buitengewoon secundair onderwijs zonder opleidingsvorm 4, het ambt van directeur van een instelling van buitengewoon secundair onderwijs met opleidingsvorm 4 zonder derde graad enerzijds en het ambt van directeur van een instelling van buitengewoon secundair onderwijs met opleidingsvorm 4 en met derde graad anderzijds. Dit onderscheid geldt niet wanneer het betrokken personeelslid een vereist bekwaamheidsbewijs heeft voor deze ambten;<br>
 <br>
@@ -422,6 +458,8 @@ a) de ambten van opvoeder vormen "hetzelfde ambt";<br>
 b) de ambten van administratief medewerker vormen "hetzelfde ambt";<br>
 c) de ambten van ICT-coördinator vormen "hetzelfde ambt";<br>
 <br>
+9. Voor de leden van het leerondersteunend personeel moet voor de toepassing van “hetzelfde ambt” het ambt hetzelfde puntengewicht en dezelfde salarisschaal opleveren.<br>
+<br>
 § 2. Voor het buitengewoon secundair onderwijs wordt het "ander ambt" als volgt gedefinieerd: elk ambt, met uitzondering van "hetzelfde ambt" in de verschillende onderwijsniveaus en centra waarvoor het betrokken personeelslid over het vereiste bekwaamheidsbewijs beschikt.<br>
 <br>
 Deze bepaling is niet van toepassing indien het het ambt van godsdienstleraar betreft. In het gemeenschapsonderwijs en in het gesubsidieerd officieel onderwijs kan de godsdienstleraar evenmin deze bepaling inroepen.<br>
@@ -517,17 +555,29 @@ Voor de pedagogische begeleidingsdiensten wordt "hetzelfde ambt" gedefinieerd al
 
 ## [AFDELING 9 DE ONDERWIJSINTERNATEN (ing. BVR 14 juli 2023, art. 4, I: 1 september 2023)]
 
+### ART 10ter.
+
+Voor de onderwijsinternaten wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
+1°&nbsp;&nbsp; &nbsp;het ambt zoals opgenomen in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel en het ondersteunend personeel;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;als het gaat om een ambt van het ondersteunend personeel, moet het ambt dezelfde omkaderingsrekeneenheid en dezelfde salarisschaal opleveren.
+
 ## [AFDELING 10 DE LEERSTEUNCENTRA (ing. BVR 14 juli 2023, art. 4, I: 1 september 2023)]
+
+### ART 10quater.
+
+Voor de leersteuncentra wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
+1°&nbsp;&nbsp; &nbsp;het ambt zoals opgenomen in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, het leerondersteunend personeel en het ondersteunend personeel;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;als het gaat om een ambt van het ondersteunend personeel en van het leerondersteunend personeel, moet het ambt hetzelfde aantal punten en dezelfde salarisschaal opleveren.
 
 ## HOOFDSTUK IV REAFFECTATIE EN WEDERTEWERKSTELLING
 
 ### ART. 11.
 
-TERBESCHIKKINGSTELLING<br>
-<br>
 § 1. Voor de toepassing van de bepalingen van dit besluit dient onder "reaffectatie" van een ter beschikking gesteld personeelslid te worden verstaan: de toewijzing aan een personeelslid van een betrekking in "hetzelfde ambt".<br>
 <br>
 Voor de toepassing van deze paragraaf wordt voor "hetzelfde ambt" geen onderscheid gemaakt tussen het gewoon en het buitengewoon onderwijs en tussen de verschillende onderwijsniveaus voor de leden van het ondersteunend personeel, het opvoedend hulppersoneel, het administratief personeel, het paramedisch personeel, het medisch personeel, het orthopedagogisch personeel, het sociaal personeel en het psychologisch personeel.<br>
+<br>
+Voor de toepassing van deze paragraaf wordt voor “hetzelfde ambt” voor de leden van het leerondersteunend personeel geen onderscheid gemaakt tussen het buitengewoon basisonderwijs, het buitengewoon secundair onderwijs en de leersteuncentra.<br>
 <br>
 § 2. Voor de toepassingen van de bepalingen van dit besluit dient onder "wedertewerkstelling" van een ter beschikking gesteld personeelslid te worden verstaan: de toewijzing aan een personeelslid van een betrekking in een "ander ambt".<br>
 <br>
@@ -537,43 +587,54 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 <br>
 De verplichting tot wedertewerkstelling geldt echter niet als aan een personeelslid dat ter beschikking is gesteld in een wervings-, selectie- of bevorderingsambt, een betrekking zou moeten worden toegewezen in een wervings-, selectie- of bevorderingsambt in een scholengemeenschapsinstelling van een scholengemeenschap van het basisonderwijs of van het secundair onderwijs.<br>
 <br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Vankeech</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>44</o:TotalTime><br>  <o:Created>2011-11-23T14:11:00Z</o:Created><br>  <o:LastSaved>2011-11-23T14:13:00Z</o:LastSaved><br>  <o:Pages>2</o:Pages><br>  <o:Words>592</o:Words><br>  <o:Characters>4306</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>35</o:Lines><br>  <o:Paragraphs>9</o:Paragraphs><br>  <o:CharactersWithSpaces>4889</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>90</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;false"e;<br>  DefSemiHidden="e;false"e; DefQFormat="e;false"e; LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Normal"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 2"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 3"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 4"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 5"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 6"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 7"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 8"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 9"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;caption"e;/><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Strong"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; Name="e;No List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e;<br>   Name="e;Placeholder Text"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; QFormat="e;true"e; Name="e;No Spacing"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; QFormat="e;true"e;<br>   Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; QFormat="e;true"e; Name="e;Quote"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; QFormat="e;true"e;<br>   Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; QFormat="e;true"e;<br>   Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; QFormat="e;true"e;<br>   Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; QFormat="e;true"e;<br>   Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; QFormat="e;true"e;<br>   Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; QFormat="e;true"e; Name="e;Book Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; Name="e;Bibliography"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; QFormat="e;true"e; Name="e;TOC Heading"e;/><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;,"e;serif"e;;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-unhide:no;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;,"e;serif"e;;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
-			</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">TERBESCHIKKINGSTELLING</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">WEDERTEWERKSTELLING</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">alle personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">wervingsambten van het:</p>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">alle personeelsleden die ter beschikking gesteld zijn in de<br>
+			categorie van het bestuurs- en onderwijzend personeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">wervingsambten van het:<br>
+			- bestuurs- en onderwijzend personeel<br>
+			- psychologisch personeel<br>
+			- paramedisch personeel<br>
+			- sociaal personeel<br>
+			- orthopedagogisch personeel<br>
+			- medisch personeel<br>
+			- technisch personeel</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
 
-			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
+<table cellspacing="0" style="border-collapse:collapse; width:597px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">TERBESCHIKKINGSTELLING</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">WEDERTEWERKSTELLING</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">de personeelsleden, ter beschikking gesteld in het basisonderwijs in het ambt van directeur</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">het ambt van:<br>
+			adjunct-directeur<br>
+			coördinator in een leersteuncentrum</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
 
-			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
-
-			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
-			</td>
+<table cellspacing="0" style="border-collapse:collapse; width:597px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">TERBESCHIKKINGSTELLING</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">WEDERTEWERKSTELLING</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">de personeelsleden, ter beschikking gesteld in de leersteuncentra in het ambt van directeur</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">het ambt van coördinator in een leersteuncentrum</td>
 		</tr>
 	</tbody>
 </table>
@@ -588,7 +649,7 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 		</tr>
 		<tr>
 			<td>de personeelsleden die ter beschikking gesteld zijn in het secundair onderwijs in het ambt van:<br>
-			directeur met een derde graad of met hoger beroepsonderwijs, opleiding verpleegkunde</td>
+			directeur met een derde graad of met hoger beroepsonderwijs</td>
 			<td>het ambt van:<br>
 			directeur met alleen een eerste graad of met alleen een eerste en tweede graad</td>
 		</tr>
@@ -665,42 +726,42 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 </table>
 &nbsp;&nbsp;
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
+			<p>TERBESCHIKKINGSTELLING</p>
 			</td>
 			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
+			<p>WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch/sociaal/</p>
+			<p>de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch/sociaal/</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">orthopedagogisch personeel</p>
+			<p>orthopedagogisch personeel</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">Wervingsambten van het:</p>
+			<p>Wervingsambten van het:</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
+			<p>- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
+			<p>- paramedisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
+			<p>- medisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
+			<p>- psychologisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
+			<p>- sociaal personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
+			<p>- orthopedagogisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
+			<p>- administratief personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
+			<p>- opvoedend hulppersoneel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- het technisch personeel</p>
+			<p>- het technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -746,65 +807,65 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 	</tbody>
 </table>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
+			<p>TERBESCHIKKINGSTELLING</p>
 			</td>
 			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
+			<p>WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het technisch personeel</p>
+			<p>de personeelsleden, ter beschikking gesteld in de categorie van het technisch personeel</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">wervingsambten van het:</p>
+			<p>wervingsambten van het:</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- bestuurs- en onderwijzend personeel</p>
+			<p>- bestuurs- en onderwijzend personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- opvoedend hulppersoneel</p>
+			<p>- opvoedend hulppersoneel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- administratief personeel</p>
+			<p>- administratief personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- psychologisch personeel</p>
+			<p>- psychologisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- paramedisch personeel</p>
+			<p>- paramedisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- medisch personeel</p>
+			<p>- medisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- sociaal personeel</p>
+			<p>- sociaal personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- orthopedagogisch personeel</p>
+			<p>- orthopedagogisch personeel</p>
 
-			<p style="margin-left:0cm; margin-right:0cm">- technisch personeel</p>
+			<p>- technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
+			<p>TERBESCHIKKINGSTELLING</p>
 			</td>
 			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
+			<p>WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel in het kader van taak- en functiedifferentiatie</p>
+			<p>de personeelsleden, ter beschikking gesteld in de categorie van het bestuurs- en onderwijzend personeel in het kader van taak- en functiedifferentiatie</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">- wervingsambten van het ondersteunend personeel<br>
+			<p>- wervingsambten van het ondersteunend personeel<br>
 			- wervingsambten in het kader van taak- en functiedifferentiatie van het :<br>
 			- bestuurs- en onderwijzend personeel<br>
 			- psychologisch personeel<br>
@@ -817,24 +878,24 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 	</tbody>
 </table>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">TERBESCHIKKINGSTELLING</p>
+			<p>TERBESCHIKKINGSTELLING</p>
 			</td>
 			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">WEDERTEWERKSTELLING</p>
+			<p>WEDERTEWERKSTELLING</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch /sociaal/orthopedagogisch personeel in het kader van taak- en functiedifferentiatie</p>
+			<p>de personeelsleden, ter beschikking gesteld in de categorieën van het paramedisch/medisch/psychologisch /sociaal/orthopedagogisch personeel in het kader van taak- en functiedifferentiatie</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
-			<p style="margin-left:0cm; margin-right:0cm">- wervingsambten van het ondersteunend personeel<br>
+			<p>- wervingsambten van het ondersteunend personeel<br>
 			- wervingsambten in het kader van taak- en functiedifferentiatie van het :<br>
 			- bestuurs- en onderwijzend personeel<br>
 			- psychologisch personeel<br>
@@ -865,6 +926,29 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 		</tr>
 	</tbody>
 </table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:597px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">TERBESCHIKKINGSTELLING</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:299px">WEDERTEWERKSTELLING</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">de personeelsleden die ter beschikking gesteld zijn in de categorie van het leerondersteunend personeel<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:299px">wervingsambten van het:<br>
+			- leerondersteunend personeel<br>
+			- bestuurs- en onderwijzend personeel<br>
+			- paramedisch personeel<br>
+			- medisch personeel<br>
+			- psychologisch personeel<br>
+			- sociaal personeel<br>
+			- orthopedagogisch personeel<br>
+			- technisch personeel</td>
+		</tr>
+	</tbody>
+</table>
 <br>
 § 3. Een vastbenoemd personeelslid van een centrum voor volwassenenonderwijs dat met toepassing van artikel V.79/1, § 1, artikel V.206/1 of artikel V.206/4 van de Codex Hoger Onderwijs van 11 oktober 2013 niet wordt overgenomen door een universiteit of door een hogeschool en aldus ter beschikking gesteld wordt wegens ontstentenis van betrekking bij de inrichtende macht van dat centrum voor volwassenenonderwijs, kan conform artikel V.79/4 of artikel V.206/7 van de Codex Hoger Onderwijs een tewerkstelling opnemen bij een hogeschool of bij een universiteit. Die tewerkstelling verloopt in wederzijdse toestemming tussen het ter beschikking gestelde personeelslid en de hogeschool of de universiteit en wordt als een wedertewerkstelling beschouwd voor de toepassing van dit besluit.
 
@@ -883,10 +967,11 @@ Voor de toepassing van deze bepaling worden de perioden die gelijkgesteld zijn m
 2° 21 jaar voor de leden van het bestuurs- en onderwijzend personeel van het basisonderwijs;<br>
 3° 23 jaar voor de leden van het bestuurs- en onderwijzend personeel die een wervingsambt bekleden op lager secundair niveau in het deeltijds kunstonderwijs;<br>
 4° 25 jaar voor de leden van het bestuurs- en onderwijzend personeel die een wervingsambt bekleden op hoger secundair niveau in het deeltijds kunstonderwijs en voor het psychologisch, het medisch en het orthopedagogisch personeel;<br>
-5° 24 jaar voor de leden van het bestuurs- en onderwijzend personeel in het secundair onderwijs en het volwassenenonderwijs;<br>
+5° 24 jaar voor de leden van het bestuurs- en onderwijzend personeel in het secundair onderwijs, de onderwijsinternaten, de leersteuncentra en het volwassenenonderwijs;<br>
 6° 23 jaar voor de leden van het technisch personeel die een ambt van maatschappelijk werker, paramedisch werker, of psycho-pedagogisch werker bekleden;<br>
 7° 25 jaar voor de leden van het technisch personeel die een ambt van arts, consulent of psycho-pedagogisch consulent of die een ambt in het bestuurs- en onderwijzend personeel in de centra bekleden.<br>
-8° 24 jaar voor de leden van een pedagogische begeleidingsdienst die een ambt van pedagogisch adviseur of van adviseur-coördinator bekleden.
+8° 24 jaar voor de leden van een pedagogische begeleidingsdienst die een ambt van pedagogisch adviseur of van adviseur-coördinator bekleden;<br>
+9° 21 jaar voor de leden van het leerondersteunend personeel van het basisonderwijs, van het secundair onderwijs en van de leersteuncentra.
 
 ## [HOOFDSTUK VBIS DE REAFFECTATIECOMMISSIE VAN DE SCHOLENGEMEENSCHAP (ing. B.V.R. 31 augustus 1999, art. 16)]
 
@@ -938,7 +1023,9 @@ In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie ge
 In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin de wedertewerkstellingen ook vanuit andere categorieën worden gerealiseerd.<br>
 5° in de reaffectatiecommissie van de scholengroep wordt eerst afzonderlijk gereaffecteerd voor de centra.<br>
 In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd;<br>
-6° Nadat de reaffectaties en wedertewerkstellingen, vermeld in 1° tot en met 5°, zijn gerealiseerd, wordt gereaffecteerd en weder tewerkgesteld volgens de bepalingen van dit besluit over de categorieën en onderwijsniveaus heen.<br>
+5°bis in de reaffectatiecommissie van de scholengroep wordt eerst afzonderlijk gereaffecteerd voor de onderwijsinternaten. In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd;<br>
+5°ter in de reaffectatiecommissie van de scholengroep wordt eerst afzonderlijk gereaffecteerd voor de leersteuncentra. In tweede instantie worden de wedertewerkstellingen binnen dezelfde categorie gerealiseerd. De voormelde bepalingen gelden ook voor de leersteuncentra die deel uitmaken van een school;<br>
+6° Nadat de reaffectaties en wedertewerkstellingen, vermeld in punt 1° tot en met punt 5°ter, zijn gerealiseerd, wordt gereaffecteerd en weder tewerkgesteld volgens de bepalingen van dit besluit over de categorieën en onderwijsniveaus heen.<br>
 7° ...<br>
 <br>
 De verplichtingen tot reaffectatie en wedertewerkstelling, vermeld in het eerste lid, gelden niet voor vacatures in een scholengemeenschapsinstelling in het basis- of secundair onderwijs. De personeelsleden die in een ambt in een scholengemeenschapsinstelling ter beschikking gesteld zijn wegens ontstentenis van betrekking, vallen wel onder de voormelde verplichtingen tot reaffectatie en wedertewerkstelling in een instelling, met uitzondering van een scholengemeenschapsinstelling.<br>
@@ -1013,13 +1100,10 @@ De bevoegdheden over de reaffectatie en de wedertewerkstelling, vermeld in het e
 
 ### ART. 18.
 
-§ 1. Bij het begin van het schooljaar verdeelt de inrichtende macht de betrekkingen over de vastbenoemde personeelsleden op de volgende manier: Als het in het secundair onderwijs om een personeelslid gaat dat titularis is van een betrekking die is opgericht met punten van de globale puntenenveloppe, houdt de inrichtende macht rekening met artikel 2, § 9. Als het om een personeelslid van het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, § 14.<br>
-<br>
-1. De inrichtende macht wijst per instelling en in "hetzelfde ambt" de betrekkingen toe aan de vastbenoemde personeelsleden voor eenzelfde gepondereerd volume van de opdracht waarvan de betrokken personeelsleden vastbenoemde titularis waren op het einde van het voorafgaand schooljaar en/of ter beschikking waren gesteld wegens ontstentenis van betrekking, rekening houdend met het begrip "hetzelfde ambt".<br>
-<br>
-2. De inrichtende macht is verplicht een dreigende terbeschikkingstelling wegens ontstentenis van betrekking ten laste te laten komen van de vastbenoemde titularis in "hetzelfde ambt" met de kleinste dienstanciënniteit. Als het om een personeelslid van het ondersteunend personeel in het secundair onderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 10. Als door de voormelde terbeschikkingstelling het aantal opvoeders onder de 50% van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. Als het om een personeelslid in het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, § 14.&nbsp;Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14ter.<br>
-<br>
-3. Wanneer voor één van de vastbenoemde titularissen een terbeschikkingstelling wegens ontstentenis van betrekking dreigt, moet de inrichtende macht vooraleer de terbeschikkingstelling wegens ontstentenis van betrekking uit te spreken de in artikel 20 vermelde maatregelen nemen voorafgaand aan de terbeschikkingstelling.&nbsp;Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14ter.<br>
+§ 1. Bij het begin van het schooljaar verdeelt de inrichtende macht de betrekkingen over de vastbenoemde personeelsleden op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;de inrichtende macht wijst per instelling en in "hetzelfde ambt" de betrekkingen toe aan de vastbenoemde personeelsleden voor hetzelfde gepondereerde volume van de opdracht waarvan de betrokken personeelsleden vastbenoemde titularis waren op het einde van het voorafgaande schooljaar of ter beschikking waren gesteld wegens ontstentenis van betrekking, rekening houdend met het begrip "hetzelfde ambt";<br>
+2°&nbsp;&nbsp; &nbsp;de inrichtende macht is verplicht een dreigende terbeschikkingstelling wegens ontstentenis van betrekking ten laste te laten komen van de vastbenoemde titularis in "hetzelfde ambt" met de kleinste dienstanciënniteit. Als het om een personeelslid van het ondersteunend personeel in het secundair onderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §10. Als door de voormelde terbeschikkingstelling het aantal opvoeders onder de 50% van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. Als het om een personeelslid in het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, §14. Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §14ter. Als het om een personeelslid van de onderwijsinternaten gaat, houdt de inrichtende macht rekening met artikel 2, §14quater. Als het gaat om een personeelslid van een leersteuncentrum of van een leersteuncentrum dat deel uitmaakt van een school, houdt de inrichtende macht rekening met artikel 2, §14quinquies;<br>
+3°&nbsp;&nbsp; &nbsp;als voor een van de vastbenoemde titularissen een terbeschikkingstelling wegens ontstentenis van betrekking dreigt, neemt de inrichtende macht voor ze de terbeschikkingstelling wegens ontstentenis van betrekking uitspreekt, de maatregelen, vermeld in artikel 20. Als het in het secundair onderwijs om een personeelslid gaat dat titularis is van een betrekking die is opgericht met punten van de globale puntenenveloppe, houdt de inrichtende macht rekening met artikel 2, §9. Als het om een personeelslid van het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, §14. Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, §14ter. Als het om een personeelslid van een onderwijsinternaat gaat, houdt de inrichtende macht rekening met artikel 2, §14quater. Als het gaat om een personeelslid van een leersteuncentrum of van een leersteuncentrum dat deel uitmaakt van een school, houdt de inrichtende macht rekening met artikel 2, §14quinquies.<br>
 <br>
 § 2. ...<br>
 <br>
@@ -1040,7 +1124,7 @@ Voor de toepassing van dit artikel houdt de inrichtende macht in het volwassenen
 Een inrichtende macht stelt een personeelslid pas ter beschikking nadat ze, in het gemeenschapsonderwijs onder alle personeelsleden die behoren tot dezelfde instelling en in het gesubsidieerd onderwijs onder alle personeelsleden die behoren tot dezelfde instelling of tot de instellingen die deze inrichtende macht tot stand gebracht heeft op het grondgebied van dezelfde gemeente, en die in voorkomend geval behoren tot eenzelfde scholengemeenschap, in de opgegeven volgorde en voorzover dat nodig is om een terbeschikkingstelling te vermijden:<br>
 1° de prestaties van haar personeelsleden die "hetzelfde ambt" uitoefenen in de instelling waar de vermindering van prestaties zich voordoet, verminderd heeft tot het minimumaantal prestatie-eenheden, vereist voor een betrekking met volledige prestaties;<br>
 2° de prestaties van haar personeelsleden die "hetzelfde ambt" in een andere instelling als hoofdambt uitoefenen, verminderd heeft tot het aantal prestatie-eenheden, vereist voor een betrekking met volledige prestaties;<br>
-3° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die "hetzelfde ambt" uitoefenen. In het secundair onderwijs moet daarbij voor de ambten, ingericht met punten van de globale puntenenveloppe, rekening gehouden worden met artikel 2, § 9 en voor het ondersteunend personeel daarenboven ook met artikel 2, § 10. Als door voormelde beëindiging van de tijdelijke aanstelling van een personeelslid het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling dreigt te dalen, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. In het volwassenenonderwijs moet hierbij rekening worden gehouden met artikel 2, § 12.&nbsp;In de centra voor leerlingenbegeleiding wordt daarbij rekening gehouden met artikel 2, § 14.&nbsp;In het basisonderwijs moet hierbij rekening worden gehouden met artikel 2, § 14bis. In een scholengemeenschapsinstelling van het basisonderwijs moet hierbij rekening gehouden met artikel 2, § 14ter;<br>
+3° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die "hetzelfde ambt" uitoefenen. In het secundair onderwijs moet daarbij voor de ambten, ingericht met punten van de globale puntenenveloppe, rekening gehouden worden met artikel 2, § 9 en voor het ondersteunend personeel daarenboven ook met artikel 2, § 10. Als door voormelde beëindiging van de tijdelijke aanstelling van een personeelslid het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling dreigt te dalen, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. In het volwassenenonderwijs moet hierbij rekening worden gehouden met artikel 2, § 12.&nbsp;In de centra voor leerlingenbegeleiding wordt daarbij rekening gehouden met artikel 2, § 14.&nbsp;In het basisonderwijs moet hierbij rekening worden gehouden met artikel 2, § 14bis. In een scholengemeenschapsinstelling van het basisonderwijs moet hierbij rekening gehouden met artikel 2, § 14ter. In de onderwijsinternaten moet hierbij rekening worden gehouden met artikel 2, §14quater. In een leersteuncentrum of in een leersteuncentrum dat deel uitmaakt van een school moet hierbij rekening worden gehouden met artikel 2, §14quinquies.;<br>
 4° een einde gesteld heeft aan de diensten van de vastbenoemde personeelsleden die "hetzelfde ambt" uitoefenen als bijbetrekking;<br>
 5° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die bij wijze van wedertewerkstelling of bij wijze van reaffectatie in dienst genomen werden in "hetzelfde ambt".<br>
 <br>
@@ -1131,7 +1215,7 @@ b) in het gesubsidieerd officieel onderwijs in de instelling waar de verminderin
 In instellingen die niet tot een scholengemeenschap behoren, gebeurt de terbeschikkingstelling naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel der instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
 Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
 Bij de terbeschikkingstelling in een ambt dat wordt ingericht met punten van de globale puntenenveloppe, moet de inrichtende macht rekening houden met artikel 2, § 9 en voor het ondersteunend personeel daarenboven ook met artikel 2, § 10.<br>
-Als door voormelde terbeschikkingstelling het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld;<br>
+Als door voormelde terbeschikkingstelling het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. Bij de terbeschikkingstelling in een ambt van het leerondersteunend personeel of van het ondersteunend personeel in een leersteuncentrum dat deel uitmaakt van een school, houdt de inrichtende macht rekening met artikel 2, §14quinquies;<br>
 3° In het deeltijds kunstonderwijs wordt:<br>
 a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
 b) in het gesubsidieerd officieel onderwijs: naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert: degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br>
@@ -1147,9 +1231,11 @@ b) in het gesubsidieerd officieel onderwijs diegene ter beschikking gesteld met 
 - voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
 - in de instelling waar de vermindering van prestaties zich voordoet of<br>
 - in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur. Bij de terbeschikkingstelling in een ambt dat wordt ingericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, houdt de inrichtende macht rekening met artikel 2, § 14bis. Bij de terbeschikkingstelling in een ambt dat in een scholengemeenschapsinstelling wordt ingericht met punten van de puntenenveloppe voor de scholengemeenschap en met samengelegde punten, houdt de inrichtende macht rekening met artikel 2, § 14ter;<br>
+Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur. Bij de terbeschikkingstelling in een ambt dat wordt ingericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, houdt de inrichtende macht rekening met artikel 2, § 14bis. Bij de terbeschikkingstelling in een ambt dat in een scholengemeenschapsinstelling wordt ingericht met punten van de puntenenveloppe voor de scholengemeenschap en met samengelegde punten, houdt de inrichtende macht rekening met artikel 2, § 14ter. Bij de terbeschikkingstelling in een ambt van het leerondersteunend personeel of van het beleids- en ondersteunend personeel in een leersteuncentrum dat deel uitmaakt van een school, houdt de inrichtende macht rekening met artikel 2, §14quinquies;<br>
 6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, § 14.<br>
-7° In de pedagogische begeleidingsdiensten wordt onder de personeelsleden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.
+7° In de pedagogische begeleidingsdiensten wordt onder de personeelsleden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
+8° In de onderwijsinternaten wordt in het onderwijsinternaat en in het ambt waar de vermindering van prestaties zich voordoet, de persoon ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, §14quater;<br>
+9° In de leersteuncentra wordt in het leersteuncentrum en in het ambt waar de vermindering van prestaties zich voordoet, de persoon ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, §14quinquies.
 
 ### ART. 23.
 
@@ -1200,8 +1286,8 @@ Als het personeelslid een professionaliseringstraject volgt als vermeld in artik
 6. Het volwassenenonderwijs vóór de vijftiende oktober;<br>
 7. Het buitengewoon secundair onderwijs: vóór de vijftiende september. In afwijking hiervan op de vijfde werkdag van oktober voor scholen die 1 oktober als teldag hebben.<br>
 8. Het deeltijds kunstonderwijs: vóór de vijftiende oktober;<br>
-9. ...<br>
-10. De internaten en semi-internaten: vóór de tiende werkdag van oktober;<br>
+9. In de leersteuncentra: voor 15 oktober.<br>
+10. De onderwijsinternaten en semi-internaten: vóór de tiende werkdag van oktober;<br>
 11. In de centra: vanaf 1 juli en vóór de vijftiende september.<br>
 12. In de pedagogische begeleidingsdiensten: vanaf 1 juli en voor 15 september.<br>
 <br>
@@ -1209,7 +1295,7 @@ Als het personeelslid een professionaliseringstraject volgt als vermeld in artik
 <br>
 In uitzonderlijke omstandigheden kan nochtans de Vlaamse minister, bevoegd voor het Onderwijs of zijn afgevaardigde hierop, op behoorlijk gemotiveerde aanvraag, afwijking verlenen.<br>
 <br>
-§ 4. Bij de aanvang van een terbeschikkingstelling wegens ontstentenis van betrekking overeenkomstig artikel 23, § 2 of § 3, moeten in afwijking van § 2 hiervoor, de gegevens en de aanvraag om wachtgeld of wachtgeldtoelage, zoals bepaald in § 1 hiervoor, ingediend worden binnen de 10 werkdagen na de ingangsdatum ervan.
+§ 4. Bij de aanvang van een terbeschikkingstelling wegens ontstentenis van betrekking conform artikel 23, §2, moeten in afwijking van § 2 hiervoor, de gegevens en de aanvraag om wachtgeld of wachtgeldtoelage, zoals bepaald in § 1 hiervoor, ingediend worden binnen de 10 werkdagen na de ingangsdatum ervan.
 
 ## AFDELING 2 MELDING VAN DE NOG NIET GEREAFFECTEERDE OF NIET WEDERTEWERKGE-STELDE PERSONEELSLEDEN EN VAN DE VACATURES VOOR DE WERKING VAN DE REAFFECTATIECOMMISSIES
 
@@ -1257,7 +1343,7 @@ De gegevens worden meegedeeld conform paragraaf 4.
 § 2. Met het oog op de reaffectatie en de wedertewerkstelling en de werking van de bevoegde reaffectatiecommissie moeten de inrichtende machten van de in § 1&nbsp;genoemde instellingen aan de bevoegde reaffectatiecommissie volgende gegevens verstrekken over hun terbeschikkinggestelde personeelsleden van de instellingen die niet behoren tot een scholengemeenschap:<br>
 de naam en voornamen, het geslacht, de geboortedatum, het adres, de bekwaamheidsbewijzen en de instellingen of de ju-ry's die ze hebben uitgereikt, de dienstanciënniteit, het ambt waarin de betrokkene ter beschikking gesteld is met vermelding van het aantal uren, of het aantal punten, de instelling die de betrokkene ter beschikking heeft gesteld, de instellingen waar hij eventueel een ambt blijft uitoefenen en de omvang van de prestaties die hij er verstrekt.<br>
 <br>
-Er moet eveneens worden meegedeeld of het personeelslid wenst te worden gereaffecteerd of wedertewerkgesteld in het buitengewoon onderwijs met vermelding van het type of de opleidingsvorm, in het deeltijds beroepssecundair onderwijs, in het experimenteel secundair onderwijs volgens een modulair stelsel, in het volwassenenonderwijs of in het deeltijds kunstonderwijs.<br>
+Er moet eveneens worden meegedeeld of het personeelslid wenst te worden gereaffecteerd of wedertewerkgesteld in het buitengewoon onderwijs met vermelding van het type of de opleidingsvorm, in het deeltijds beroepssecundair onderwijs, in het experimenteel secundair onderwijs volgens een modulair stelsel, in het volwassenenonderwijs, in het deeltijds kunstonderwijs of in de onderwijsinternaten.<br>
 <br>
 § 3. De inrichtende machten moeten tevens aan de bevoegde reaffectatiecommissie de betrekkingen meedelen, die worden uitgeofend of die vanaf 1 september zullen worden uitgeoefend door tijdelijke personeelsleden. Dat geldt niet als het gaat om de betrekkingen die zijn ingenomen door personeelsleden die bij wijze van reaffectatie of wedertewerkstelling door de inrichtende macht in het kader van de verplichtingen en vrijheden werden aangenomen. Dat geldt niet als het gaat om een betrekking die wordt ingenomen door een tijdelijk personeelslid dat op 30 juni 1998 titularis was van een betrekking van het opvoe-dend hulppersoneel en/of het administratief personeel in toepassing van artikel 98, 4°, van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs of de betrekkingen die zijn ingenomen door personeelsleden die bij wijze van reaffectatie of wedertewerkstelling door de inrichtende macht in het kader van de verplichtingen en vrijheden werden aangenomen.<br>
 <br>
@@ -1276,6 +1362,10 @@ c) voor het deeltijds kunstonderwijs en het volwassenenonderwijs voor de vijfde 
 d) voor de centra in de periode vanaf 1 augustus en in ieder geval voor 20 september.<br>
 <br>
 e) voor de pedagogische begeleidingsdiensten: in de periode vanaf 1 augustus en in ieder geval voor 15 september.<br>
+<br>
+f) voor de onderwijsinternaten: in de periode vanaf 1 augustus en in ieder geval voor 15 september. In afwijking van de voormelde data worden de voormelde gegevens meegedeeld op de vijfde werkdag van oktober voor de onderwijsinternaten die de eerste schooldag van oktober als teldag hebben.<br>
+<br>
+g) voor de leersteuncentra: in de periode vanaf 1 augustus en in ieder geval voor 15 oktober.<br>
 <br>
 § 5. De voorzitter van de bevoegde reaffectatiecommissie levert een ondertekend en gedateerd document af, dat in de in-stelling bewaard wordt en dat geldt als bewijs voor het tijdig indienen aan de bevoegde reaffectatiecommissie van de in § 2 en § 3 vermelde gegevens.<br>
 <br>
@@ -1299,7 +1389,14 @@ De toewijzingen door de reaffectatiecommissie van de scholengemeenschap, meegede
 
 ### ART. 27bis.
 
-De toewijzingen door de reaffectatiecommissie van de scholengroep in het gemeenschapsonderwijs, meegedeeld aan het personeelslid per aangetekende brief of tegen ontvangstbewijs, gaan in uiterlijk op de volgende data en in uitzonderlijke omstandigheden op een latere datum:<br />1° Het basisonderwijs: reaffectatie en wedertewerkstelling binnen hetzelfde niveau op 1 september. Wedertewerkstelling over de niveaus heen op 15 september;<br />2° Het secundair onderwijs: op 15 september;<br />3° ...<br />4° Het volwassenenonderwijs: op 1 oktober; <br />5° Het deeltijds kunstonderwijs: op  1 oktober; <br />6° De centra: op 15 september.
+De toewijzingen door de reaffectatiecommissie van de scholengroep in het gemeenschapsonderwijs, meegedeeld aan het personeelslid per aangetekende brief of tegen ontvangstbewijs, gaan in uiterlijk op de volgende data en in uitzonderlijke omstandigheden op een latere datum:<br>
+1° Het basisonderwijs: reaffectatie en wedertewerkstelling binnen hetzelfde niveau op 1 september. Wedertewerkstelling over de niveaus heen op 15 september;<br>
+2° Het secundair onderwijs: op 15 september;<br>
+3°&nbsp;De onderwijsinternaten: op 1 oktober;<br>
+4° Het volwassenenonderwijs: op 1 oktober;<br>
+5° Het deeltijds kunstonderwijs: op 1 oktober;<br>
+6° De centra: op 15 september;<br>
+7° De leersteuncentra: op 1 oktober.
 
 ### ART. 28.
 
@@ -1369,7 +1466,7 @@ Voor de toepassing van 1° en 2° geldt het volgende :<br>
 3° verplicht om en naar keuze, bij het toewijzen van een functie van adjunct-directeur, als vermeld in artikel 129 van het decreet basisonderwijs van 25 februari 1997, een van de directeurs van een basisschool in dienst te nemen die ten gevolge van de vrijwillige fusie ter beschikking zijn gesteld wegens ontstentenis van betrekking;<br>
 4° vrij om een van de ter beschikking gestelde personeelsleden van de instellingen van de inrichtende macht die tot dezelfde scholengemeenschap behoren, in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie in een instelling van de inrichtende macht die tot dezelfde scholengemeenschap behoort, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën kan plaatsvinden. Die wedertewerkstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid. De vrijwillige wedertewerkstelling kan ook plaatsvinden in een betrekking die wordt ingenomen door een personeelslid dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
 4bis° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van buitengewoon basisonderwijs van de inrichtende macht die tot dezelfde scholengemeenschap behoren in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De wedertewerkstelling vindt in eerste instantie plaats in de instelling waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een andere instelling van buitengewoon basisonderwijs&nbsp;van de inrichtende macht die tot dezelfde scholengemeenschap behoort. Als de inrichtende macht en het personeelslid akkoord gaan, kan van die volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt;<br>
-5° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie en wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen, een betrekking van directeur is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekking van directeur, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt niet als een betrekking moet worden aangeboden aan een ter beschikking gestelde directeur die met toepassing van artikel 129 van het decreet basisonderwijs van 25 februari 1997 belast is met de functie van adjunct-directeur in een instelling van een andere inrichtende macht;<br>
+5° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie en wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, van adjunct-directeur of van coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekking van directeur, van adjunct-directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt niet als een betrekking moet worden aangeboden aan een ter beschikking gestelde directeur die met toepassing van artikel 129 van het decreet basisonderwijs van 25 februari 1997 belast is met de functie van adjunct-directeur in een instelling van een andere inrichtende macht;<br>
 5°bis. ...<br>
 6° onverminderd de bepalingen van hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, in deze volgorde :<br>
 a) vrij om een mutatie of nieuwe affectatie door te voeren;<br>
@@ -1377,7 +1474,7 @@ b) verplicht om een personeelslid aan te stellen of in dienst te houden dat het 
 c) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij om een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°;<br>
 7° verplicht om in het gemeenschapsonderwijs de personeelsleden die ter beschikking gesteld zijn en die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen;<br>
-8° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van beheerder of van hoofdopvoeder in een internaat van het Gemeenschapsonderwijs dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+8° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van adjunct-directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 Als een scholengemeenschap een scholengemeenschapsinstelling bevat, gelden de verplichtingen vermeld in het eerste lid, ook voor die scholengemeenschapsinstelling en haar inrichtende macht. In afwijking daarvan is de inrichtende macht van de scholengemeenschapsinstelling niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in een andere instelling van de scholengemeenschap in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 5°, en is ze ook niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 7° en 8°.&nbsp;<br>
 <br>
@@ -1400,13 +1497,13 @@ Voor de toepassing van 1° en 2° geldt het volgende:<br>
 a) door de reaffectatiecommissie van de scholengroep voor wat het gemeenschapsonderwijs betreft;<br>
 b) door de Vlaamse reaffectatiecommissie voor wat het gesubsidieerd onderwijs betreft;<br>
 worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Dat geldt niet als de betrekking die moet worden toegewezen een betrekking is van directeur, op voorwaarde dat de inrichtende macht de betrekking toewijst aan één van haar personeelsleden.<br>
-Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur die door de inrichtende macht zijn toegewezen aan één van haar personeelsleden.<br>
+Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, van adjunct-directeur en van coördinator die door de inrichtende macht zijn toegewezen aan één van haar personeelsleden.<br>
 6° En onverminderd de bepalingen van hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, in volgende volgorde:<br>
 a) vrij een mutatie of nieuwe affectatie door te voeren;<br>
 b) verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
 c) vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°.<br>
-7° In het gemeenschapsonderwijs verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze vat reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van beheerder of van hoofdopvoeder in een internaat van het Gemeenschapsonderwijs dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+7° In het gemeenschapsonderwijs verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze vat reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van adjunct-directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 C. Instellingen van netoverschrijdende scholengemeenschappen<br>
 Elke inrichtende macht is:<br>
@@ -1422,7 +1519,7 @@ Voor de toepassing van 1° en 2° geldt het volgende :<br>
 3° verplicht om en naar keuze, bij het toewijzen van een functie van adjunct-directeur, als vermeld in artikel 129 van het decreet basisonderwijs van 25 februari 1997, een van de directeurs van een basisschool in dienst te nemen die ten gevolge van de vrijwillige fusie ter beschikking zijn gesteld wegens ontstentenis van betrekking.<br>
 4° vrij om een van de ter beschikking gestelde personeelsleden van de instellingen van de inrichtende macht die tot dezelfde scholengemeenschap behoren, in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie in een instelling van de inrichtende macht die tot dezelfde scholengemeenschap behoort, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën kan plaatsvinden. Die wedertewerkstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid. De vrijwillige wedertewerkstelling kan ook plaatsvinden in een betrekking die wordt ingenomen door een personeelslid dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
 4bis° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van buitengewoon basisonderwijs van de inrichtende macht die tot dezelfde scholengemeenschap behoren in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën kan plaatsvinden. De wedertewerkstelling vindt in eerste instantie plaats in de instelling waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een andere instelling van buitengewoon basisonderwijs van de inrichtende macht die tot dezelfde scholengemeenschap behoort. Als de inrichtende macht en het personeelslid akkoord gaan, kan van die volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt;<br>
-5° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie en wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekking van directeur, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt niet als een betrekking moet worden aangeboden aan een ter beschikking gestelde directeur die met toepassing van artikel 129 van het decreet basisonderwijs van 25 februari 1997 belast is met de functie van adjunct-directeur in een instelling van een andere inrichtende macht. Als de instelling waar het ter beschikking gestelde personeelslid geaffecteerd is, behoort tot een ander net dan de instelling waarnaar het personeelslid wordt gereaffecteerd of weder tewerkgesteld, is het personeelslid niet verplicht de reaffectatie of wedertewerkstelling te aanvaarden;<br>
+5° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie en wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, van adjunct-directeur of van coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekking van directeur, van adjunct-directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt niet als een betrekking moet worden aangeboden aan een ter beschikking gestelde directeur die met toepassing van artikel 129 van het decreet basisonderwijs van 25 februari 1997 belast is met de functie van adjunct-directeur in een instelling van een andere inrichtende macht. Als de instelling waar het ter beschikking gestelde personeelslid geaffecteerd is, behoort tot een ander net dan de instelling waarnaar het personeelslid wordt gereaffecteerd of weder tewerkgesteld, is het personeelslid niet verplicht de reaffectatie of wedertewerkstelling te aanvaarden;<br>
 5°bis. ...<br>
 6° onverminderd de bepalingen van hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, in deze volgorde :<br>
 a) vrij om een mutatie of nieuwe affectatie door te voeren;<br>
@@ -1430,7 +1527,7 @@ b) verplicht om een personeelslid aan te stellen of in dienst te houden dat het 
 c) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij om een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°;<br>
 7° verplicht om in het gemeenschapsonderwijs de personeelsleden die ter beschikking gesteld zijn en die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen;<br>
-8° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van beheerder of van hoofdopvoeder in een internaat van het Gemeenschapsonderwijs dat voorziet in verblijf en begeleiding tijdens schoolvrije dagen, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+8° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, van adjunct-directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 Als een netoverschrijdende scholengemeenschap een of meer scholengemeenschapsinstellingen bevat, gelden de verplichtingen vermeld in het eerste lid, ook voor de scholengemeenschapsinstelling en haar inrichtende macht. In afwijking daarvan is de inrichtende macht van de scholengemeenschapsinstelling niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in een andere instelling van de scholengemeenschap in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 5°, en is ze ook niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 7° en 8°.<br>
 <br>
@@ -1475,7 +1572,7 @@ Voor de toepassing van a en b geldt het volgende :<br>
 - als het gaat om een wervingsambt wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
 2° vrij om een van de ter beschikking gestelde personeelsleden van de instellingen van de inrichtende macht die tot dezelfde scholengemeenschap behoren, in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie in een instelling van de inrichtende macht die tot dezelfde scholengemeenschap behoort, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën kan plaatsvinden. Die wedertewerkstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid. De vrijwillige wedertewerkstelling kan ook plaatsvinden in een betrekking die wordt ingenomen door een personeelslid dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven.<br>
 2bis° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van buitengewoon secundair onderwijs van de inrichtende macht die tot dezelfde scholengemeenschap behoren in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De wedertewerkstelling vindt in eerste instantie plaats in de instelling waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een andere instelling van buitengewoon secundair onderwijs&nbsp;van de inrichtende macht die tot dezelfde scholengemeenschap behoort. Als de inrichtende macht en het personeelslid akkoord gaan, kan van die volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt;<br>
-3° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie of wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan een van haar personeelsleden. Als het gaat om ter beschikking gestelde personeelsleden van het ondersteunend personeel, moet de toewijzing bij voorrang plaatsvinden in een vacante betrekking met dezelfde puntenwaarde als die van het ter beschikking gestelde personeelslid. Als dat niet mogelijk is, gebeurt de toewijzing in een betrekking met een andere puntenwaarde;<br>
+3° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie of wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan een van haar personeelsleden. Als het gaat om ter beschikking gestelde personeelsleden van het ondersteunend personeel, moet de toewijzing bij voorrang plaatsvinden in een vacante betrekking met dezelfde puntenwaarde als die van het ter beschikking gestelde personeelslid. Als dat niet mogelijk is, gebeurt de toewijzing in een betrekking met een andere puntenwaarde;<br>
 3°bis. ...<br>
 4° onverminderd de bepalingen van hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, in deze volgorde :<br>
 a) vrij om een mutatie of nieuwe affectatie door te voeren;<br>
@@ -1483,7 +1580,7 @@ b) verplicht om een personeelslid in dienst te houden of aan te stellen dat het 
 c) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij om een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°;<br>
 5° verplicht om in het gemeenschapsonderwijs de personeelsleden die ter beschikking gesteld zijn en die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen;<br>
-6° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+6° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 Als een scholengemeenschap een scholengemeenschapsinstelling bevat, gelden de verplichtingen vermeld in het eerste lid, ook voor die scholengemeenschapsinstelling en haar inrichtende macht. In afwijking daarvan is de inrichtende macht van de scholengemeenschapsinstelling niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in een andere instelling van de scholengemeenschap in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 3°, en is ze ook niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 5° en 6°.&nbsp;<br>
 <br>
@@ -1499,13 +1596,13 @@ Voor de toepassing van a en b geldt het volgende :<br>
 3° Verplicht om de terbeschikkinggestelde personeelsleden die:<br>
 a) door de reaffectatiecommissie van de scholengroep voor wat het gemeenschapsonderwijs betreft;<br>
 b) door de Vlaamse reaffectatiecommissie voor wat het gesubsidieerd onderwijs betreft;<br>
-worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Dat geldt niet als de betrekking die moet worden toegewezen een betrekking is van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan één van haar personeelsleden. Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan één van haar personeelsleden.<br>
+worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Dat geldt niet als de betrekking die moet worden toegewezen een betrekking is van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan één van haar personeelsleden. Deze verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan één van haar personeelsleden.<br>
 4° En onverminderd de bepalingen van hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs hetzij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, in volgende volgorde:<br>
 a) vrij een mutatie of nieuwe affectatie door te voeren;<br>
 b) verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
 c) vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°.<br>
-5° In het gemeenschapsonderwijs verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+5° In het gemeenschapsonderwijs verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 C. Instellingen van netoverschrijdende scholengemeenschappen<br>
 Elke inrichtende macht is in deze volgorde :<br>
@@ -1516,7 +1613,7 @@ Voor de toepassing van 1° en 2° geldt het volgende :<br>
 - als het gaat om een wervingsambt wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang :<br>
 2° vrij om een van de terbeschikkinggestelde personeelsleden van de instellingen van de inrichtende macht die tot de scholengemeenschap behoren, in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie in een instelling van de inrichtende macht die tot dezelfde scholengemeenschap behoort, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën kan plaatsvinden. Die wedertewerkstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid. Deze vrijwillige wedertewerkstelling kan ook plaatsvinden in een betrekking die wordt ingenomen door een personeelslid dat tijdelijk aangesteld is voor doorlopende duur;<br>
 2bis° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van buitengewoon secundair onderwijs van de inrichtende macht die tot dezelfde scholengemeenschap behoren in dienst te nemen bij wijze van wedertewerkstelling binnen dezelfde categorie, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De wedertewerkstelling vindt in eerste instantie plaats in de instelling waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een andere instelling van buitengewoon secundair onderwijs&nbsp;van de inrichtende macht die tot dezelfde scholengemeenschap behoort. Als de inrichtende macht en het personeelslid akkoord gaan, kan van die volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt;<br>
-3° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te&nbsp;nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie of wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan een van haar personeelsleden.<br>
+3° verplicht om de ter beschikking gestelde personeelsleden van de instellingen van de scholengemeenschap die door de reaffectatiecommissie van de scholengemeenschap worden toegewezen bij wijze van reaffectatie of wedertewerkstelling binnen dezelfde categorie, in dienst te&nbsp;nemen, met uitzondering van de categorie van het bestuurs- en onderwijzend personeel waarin ook een wedertewerkstelling vanuit andere categorieën moet plaatsvinden. De verplichting tot reaffectatie of wedertewerkstelling geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden. Die verplichting geldt eveneens voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt, met uitzondering van de betrekkingen van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator die door de inrichtende macht zijn toegewezen aan een van haar personeelsleden.<br>
 Als het gaat om ter beschikking gestelde personeelsleden van het ondersteunend personeel, moet de toewijzing bij voorrang plaatsvinden in een vacante betrekking met dezelfde puntenwaarde als die van het ter beschikking gestelde personeelslid. Als dat niet mogelijk is, gebeurt de toewijzing in een betrekking met een andere puntenwaarde. Als de instelling waar het ter beschikking gestelde personeelslid geaffecteerd is, behoort tot een ander net dan de instelling waarnaar het personeelslid wordt gereaffecteerd of weder tewerkgesteld, is het personeelslid niet verplicht de reaffectatie of wedertewerkstelling te aanvaarden.<br>
 De gegevens van dat personeelslid worden dan gemeld aan de eerstvolgende bevoegde reaffectatiecommissie;<br>
 3°bis. ...<br>
@@ -1526,7 +1623,7 @@ b) verplicht om een personeelslid aan te stellen of in dienst te houden dat het 
 c) vrij om een ter beschikking gesteld personeelslid in dienst te nemen;<br>
 d) vrij om een personeelslid aan te stellen dat de voorwaarden vervult van artikel 2, § 2, 5°;<br>
 5° verplicht om in het gemeenschapsonderwijs de personeelsleden die ter beschikking gesteld zijn en die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen;<br>
-6° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, beheerder, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+6° verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt niet als de betrekking die moet worden toegewezen een betrekking van directeur, technisch adviseur-coördinator, adjunct-directeur of coördinator is, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
 <br>
 Als een netoverschrijdende scholengemeenschap een of meer scholengemeenschapsinstellingen bevat, gelden de verplichtingen vermeld in het eerste lid, ook voor de scholengemeenschapsinstelling en haar inrichtende macht. In afwijking daarvan is de inrichtende macht van de scholengemeenschapsinstelling niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in een andere instelling van de scholengemeenschap in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 3°, en is ze ook niet verplicht om een personeelslid dat ter beschikking is gesteld wegens ontstentenis van betrekking, in dienst te nemen bij wijze van reaffectatie of wedertewerkstelling als vermeld in het eerste lid, 5° en 6°.<br>
 <br>
@@ -1782,7 +1879,92 @@ Het eerste lid is niet van toepassing op het personeelslid dat een professionali
 
 ## [HOOFDSTUK Vter. DE ONDERWIJSINTERNATEN (ing. BVR 14 juli 2023, art. 16, I: 1 september 2023)]
 
+### ART 40ter.
+
+§1. Elke inrichtende macht is:<br>
+A. in het gemeenschapsonderwijs, in de volgende volgorde:<br>
+1°&nbsp;&nbsp; &nbsp;verplicht:<br>
+a)&nbsp;&nbsp; &nbsp;om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt" in een onderwijsinternaat van de inrichtende macht, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in dat onderwijsinternaat. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een bevorderingsambt;<br>
+b)&nbsp;&nbsp; &nbsp;om de personeelsleden die ter beschikking gesteld zijn in "hetzelfde ambt" in een van haar onderwijsinternaten, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in een van haar onderwijsinternaten. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een bevorderingsambt.<br>
+Als de inrichtende macht en het personeelslid akkoord gaan, kan van de volgorde vermeld in a) en b) worden afgeweken als het gaat om een wervingsambt. Als het gaat om een wervingsambt, wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2°&nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn, bij wijze van wedertewerkstelling binnen dezelfde categorie in dienst te nemen in het onderwijsinternaat waar ze ter beschikking gesteld zijn of in een van haar andere onderwijsinternaten. De wedertewerkstelling vindt in eerste instantie plaats in het onderwijsinternaat waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een ander onderwijsinternaat van de inrichtende macht. Als de inrichtende macht en het personeelslid akkoord gaan, kan van de voormelde volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een bevorderingsambt;<br>
+3°&nbsp;&nbsp; &nbsp;verplicht om de ter beschikking gestelde personeelsleden die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. Die verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, met uitzondering van het schooljaar 2023-2024 tijdens het welke deze verplichting niet geldt, en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een bevorderingsambt;<br>
+4°&nbsp;&nbsp; &nbsp;met behoud van de toepassing van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a)&nbsp;&nbsp; &nbsp;vrij een mutatie of nieuwe affectatie door te voeren;<br>
+b)&nbsp;&nbsp; &nbsp;verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
+c)&nbsp;&nbsp; &nbsp;vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+d)&nbsp;&nbsp; &nbsp;vrij een personeelslid aan te stellen dat de voorwaarden, vermeld in artikel 2, §2, 5°, van dit besluit, vervult;<br>
+5°&nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling in dienst te nemen. De voormelde verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+<br>
+B. in het gesubsidieerd onderwijs, in de volgende volgorde:<br>
+1°&nbsp;&nbsp; &nbsp;verplicht:<br>
+a)&nbsp;&nbsp; &nbsp;om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt" in een onderwijsinternaat van de inrichtende macht, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in dat onderwijsinternaat. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die tijdelijk zijn aangesteld in een bevorderingsambt;<br>
+b)&nbsp;&nbsp; &nbsp;om de personeelsleden die ter beschikking gesteld zijn in "hetzelfde ambt" in een van haar onderwijsinternaten, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in een van haar onderwijsinternaten. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die tijdelijk zijn aangesteld in een bevorderingsambt.<br>
+Als de inrichtende macht en het personeelslid akkoord gaan, kan van de volgorde vermeld in a) en b) worden afgeweken als het gaat om een wervingsambt. Als het gaat om een wervingsambt, wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2°&nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn, bij wijze van wedertewerkstelling binnen dezelfde categorie in dienst te nemen in het onderwijsinternaat waar ze ter beschikking gesteld zijn of in een van haar andere onderwijsinternaten. De wedertewerkstelling vindt in eerste instantie plaats in het onderwijsinternaat waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een ander onderwijsinternaat van de inrichtende macht. Als de inrichtende macht en het personeelslid akkoord gaan, kan van de voormelde volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een bevorderingsambt;<br>
+3°&nbsp;&nbsp; &nbsp;verplicht om personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, met uitzondering van het schooljaar 2023-2024 tijdens het welke deze verplichting niet geldt. De voormelde verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden;<br>
+4°&nbsp;&nbsp; &nbsp;met behoud van de toepassing van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a)&nbsp;&nbsp; &nbsp;vrij een mutatie of nieuwe affectatie door te voeren;<br>
+b)&nbsp;&nbsp; &nbsp;verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
+c)&nbsp;&nbsp; &nbsp;vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+d)&nbsp;&nbsp; &nbsp;vrij een personeelslid aan te stellen dat de voorwaarden, vermeld in artikel 2, §2, 5°, van dit besluit, vervult.<br>
+<br>
+§2. Als de inrichtende macht de verplichtingen, vermeld in paragraaf 1, naleeft, kan ze een salaris of salaristoelage krijgen voor een tijdelijk personeelslid dat een betrekking bekleedt die vatbaar is voor reaffectatie of wedertewerkstelling, op voorwaarde dat de betrekking aangegeven is conform de procedure die daarvoor is voorgeschreven. Het tijdelijke personeelslid behoudt het voormelde salaris of de voormelde salaristoelage tot de ingangsdatum van de reaffectatie of wedertewerkstelling door de reaffectatiecommissies.<br>
+<br>
+Als een ter beschikking gesteld personeelslid wordt toegewezen, moet de inrichtende macht het personeelslid in dienst nemen.<br>
+<br>
+§3. Als een inrichtende macht over meerdere vacatures in hetzelfde ambt beschikt, gebeurt elke reaffectatie en wedertewerkstelling eerst in vacante betrekkingen en vervolgens in niet-vacante betrekkingen. Bij vacante en bij niet-vacante betrekkingen gebeurt de toewijzing eerst in een betrekking die niet is ingenomen door een tijdelijk personeelslid dat aangesteld is voor doorlopende duur.<br>
+<br>
+§4. De personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking, die een andere vorm van terbeschikkingstelling of een verlof hebben of die een afwezig genieten, moeten, zelfs als ze niet onmiddellijk beschikbaar zijn, gereaffecteerd of wedertewerkgesteld worden.&nbsp;<br>
+<br>
+Het eerste lid is niet van toepassing op het personeelslid dat een professionaliseringstraject volgt als vermeld in artikel 47quinquies.<br>
+<br>
+§5. Een ter beschikking gesteld personeelslid dat al in drie instellingen werkt en dat ten minste vier vijfde van een volledige opdracht vervult, moet niet gereaffecteerd of wedertewerkgesteld worden in een andere instelling buiten de drie voormelde instellingen.
+
 ## [HOOFDSTUK Vquater. DE LEERSTEUNCENTRA (ing. BVR 14 juli 2023, art. 16, I: 1 september 2023)]
+
+### ART 40quater.
+
+§1. Elke inrichtende macht is:<br>
+A. in het gemeenschapsonderwijs in de volgende volgorde:<br>
+1° &nbsp;&nbsp; &nbsp;verplicht:<br>
+a)&nbsp;&nbsp; &nbsp;om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt" in een leersteuncentrum van de inrichtende macht, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in dat leersteuncentrum. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een selectie- of bevorderingsambt;<br>
+b)&nbsp;&nbsp; &nbsp;om de personeelsleden die ter beschikking gesteld zijn in "hetzelfde ambt" in een van haar leersteuncentra, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in een van haar leersteuncentra. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een selectie- of bevorderingsambt.<br>
+Als de inrichtende macht en het personeelslid akkoord gaan, kan van de volgorde vermeld in a) en b) worden afgeweken als het gaat om een wervingsambt. Als het gaat om een wervingsambt, wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2° &nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn, bij wijze van wedertewerkstelling binnen dezelfde categorie in dienst te nemen in het leersteuncentrum waar ze ter beschikking gesteld zijn, of in een van haar andere leersteuncentra. De wedertewerkstelling vindt in eerste instantie plaats in het leersteuncentrum waar het personeelslid ter beschikking is gesteld en, als dat niet mogelijk is, in een ander leersteuncentrum van de inrichtende macht. Als de inrichtende macht en het personeelslid akkoord gaan, kan van de voormelde volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een selectie- of bevorderingsambt;<br>
+3° &nbsp;&nbsp; &nbsp;verplicht om de ter beschikking gestelde personeelsleden die door de reaffectatiecommissie van de scholengroep worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur en door personeelsleden die waarnemend of tijdelijk aangesteld zijn in een selectie- of bevorderingsambt;<br>
+4° &nbsp;&nbsp; &nbsp;met behoud van de toepassing van decreet rechtspositie personeelseden gemeenschapsonderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a)&nbsp;&nbsp; &nbsp;vrij een mutatie of nieuwe affectatie door te voeren;<br>
+b)&nbsp;&nbsp; &nbsp;verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
+c)&nbsp;&nbsp; &nbsp;vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+d)&nbsp;&nbsp; &nbsp;vrij een personeelslid aan te stellen dat de voorwaarden, vermeld in artikel 2, §2, 5°, van dit besluit, vervult;<br>
+5° &nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen bij wijze van reaffectatie of wedertewerkstelling, in dienst te nemen. De voormelde verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden.<br>
+<br>
+B. in het gesubsidieerd onderwijs in de volgende volgorde:<br>
+1°&nbsp;&nbsp; &nbsp;verplicht:<br>
+a)&nbsp;&nbsp; &nbsp;om de personeelsleden die bij haar ter beschikking gesteld zijn in "hetzelfde ambt" in een leersteuncentrum van de inrichtende macht, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in dat leersteuncentrum. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die tijdelijk zijn aangesteld in een selectie- of bevorderingsambt;<br>
+b)&nbsp;&nbsp; &nbsp;om de personeelsleden die ter beschikking gesteld zijn in "hetzelfde ambt" in een van haar leersteuncentra, bij wijze van reaffectatie en beperkt tot de prestaties waarvoor de terbeschikkingstelling is uitgesproken, in dienst te nemen in een van haar leersteuncentra. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die tijdelijk zijn aangesteld in een selectie- of bevorderingsambt.<br>
+Als de inrichtende macht en het personeelslid akkoord gaan, kan van de volgorde vermeld in a) en b) worden afgeweken als het gaat om een wervingsambt.<br>
+Als het gaat om een wervingsambt, wordt het personeelslid met de grootste dienstanciënniteit eerst in dienst geroepen. Bij gelijke dienstanciënniteit heeft het personeelslid met de grootste ambtsanciënniteit voorrang;<br>
+2°&nbsp;&nbsp; &nbsp;verplicht om de personeelsleden die bij haar ter beschikking gesteld zijn, bij wijze van wedertewerkstelling binnen dezelfde categorie in dienst te nemen in het leersteuncentrum waar ze ter beschikking gesteld zijn of in een van haar andere leersteuncentra. De wedertewerkstelling vindt in eerste instantie plaats in het leersteuncentrum waar het personeelslid ter beschikking is gesteld, en, als dat niet mogelijk is, in een ander leersteuncentrum van de inrichtende macht. Als de inrichtende macht en het personeelslid akkoord gaan, kan van de voormelde volgorde worden afgeweken. De verplichting tot wedertewerkstelling geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur, en door personeelsleden die waarnemend of tijdelijk zijn aangesteld in een selectie- of bevorderingsambt;<br>
+3°&nbsp;&nbsp; &nbsp;verplicht om personeelsleden die ter beschikking gesteld zijn en die door de Vlaamse reaffectatiecommissie worden toegewezen, bij wijze van reaffectatie of wedertewerkstelling in dienst te nemen. De voormelde verplichting geldt ook voor betrekkingen die zijn ingenomen door tijdelijke personeelsleden die aangesteld zijn voor doorlopende duur. De voormelde verplichting geldt niet als de betrekking die moet worden toegewezen, een betrekking is van directeur of van coördinator, op voorwaarde dat de inrichtende macht de betrekking toewijst aan een van haar personeelsleden;<br>
+4°&nbsp;&nbsp; &nbsp;onverminderd de bepalingen van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, in de volgende volgorde:<br>
+a)&nbsp;&nbsp; &nbsp;vrij een mutatie of nieuwe affectatie door te voeren;<br>
+b)&nbsp;&nbsp; &nbsp;verplicht een personeelslid aan te stellen of in dienst te houden dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven;<br>
+c)&nbsp;&nbsp; &nbsp;vrij een ter beschikking gesteld personeelslid in dienst te nemen;<br>
+d)&nbsp;&nbsp; &nbsp;vrij een personeelslid aan te stellen dat de voorwaarden, vermeld in artikel 2, §2, 5°, van dit besluit, vervult.<br>
+<br>
+§2. Als de inrichtende macht de verplichtingen, vermeld in paragraaf 1, naleeft, kan ze een salaris of salaristoelage krijgen voor een tijdelijk personeelslid dat een betrekking bekleedt die vatbaar is voor reaffectatie of wedertewerkstelling, op voorwaarde dat de betrekking aangegeven is conform de procedure die daarvoor is voorgeschreven. Het tijdelijke personeelslid behoudt het voormelde salaris of de voormelde salaristoelage tot de ingangsdatum van de reaffectatie of wedertewerkstelling door de reaffectatiecommissies.<br>
+<br>
+Als een ter beschikking gesteld personeelslid wordt toegewezen, moet de inrichtende macht het personeelslid in dienst nemen.<br>
+<br>
+§3. Als een inrichtende macht over meerdere vacatures in hetzelfde ambt beschikt, gebeurt elke reaffectatie en wedertewerkstelling eerst in vacante betrekkingen en vervolgens in niet-vacante betrekkingen. Bij vacante en bij niet-vacante betrekkingen gebeurt de toewijzing eerst in een betrekking die niet is ingenomen door een tijdelijk personeelslid dat aangesteld is voor doorlopende duur.<br>
+<br>
+§4. De personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking, die een andere vorm van terbeschikkingstelling of een verlof hebben, of die een afwezigheid genieten, moeten, zelfs als ze niet onmiddellijk beschikbaar zijn, gereaffecteerd of wedertewerkgesteld worden.&nbsp;<br>
+<br>
+Het eerste lid is niet van toepassing op het personeelslid dat een professionaliseringstraject volgt als vermeld in artikel 47quinquies.<br>
+<br>
+§5. Een ter beschikking gesteld personeelslid dat al in drie instellingen werkt en dat ten minste vier vijfde van een volledige opdracht vervult, moet niet gereaffecteerd of wedertewerkgesteld worden in een andere instelling buiten de drie voormelde instellingen.
 
 ## HOOFDSTUK VI BESTENDIGHEID VAN REAFFECTATIE EN WEDERTEWERKSTELLING
 
@@ -1823,7 +2005,21 @@ Een waarneming van de functie van adjunct-directeur met toepassing van artikel 1
 
 ### ART. 42.
 
-§ 1. De inrichtende machten en wat betreft het gemeenschapsonderwijs eveneens de instellings-hoofden kunnen tegen:<br />1° de toewijzingen van de reaffectatiecommissie van de scholengemeenschap bij de voorzitter van de reaffectatiecommissie van de scholengemeenschap een bezwaarschrift indienen;<br />2° de toewijzingen van de reaffectatiecommissie van de scholengroep bij de voorzitter van de reaffectatiecommissie van de scholengroep een bezwaarschrift indienen; <br />3°  ... <br />4° de reaffectaties en de wedertewerkstellingen door de Vlaamse reaffectatiecommissie een bezwaarschrift indienen bij de voorzitter van de Vlaamse reaffectatiecommissie. <br /><br />De bezwaarschriften moeten per aangetekende brief of tegen ontvangstbewijs worden ingediend binnen een termijn van vijf werkdagen, te rekenen vanaf de ontvangst van de toewijzing. In het bezwaarschrift moet de inrichtende macht de redenen van haar bezwaar aanvoeren en omstandig motiveren. De inrichtende macht moet binnen dezelfde termijn eveneens een afschrift van het bezwaarschrift bezorgen aan het betrokken personeelslid.<br /><br />§ 2. Als een reaffectatiecommissie een bezwaarschrift aanvaardt, moet ze een vervangende reaffectatie of wedertewerkstelling aanbieden. Als dit niet mogelijk is, wordt het bezwaarschrift samen met haar advies doorgestuurd naar de voorzitter van de daaropvolgende reaffectatiecommissie, zoals bepaald in dit besluit.<br /><br />§ 3. De bevoegde administratie van het Ministerie van Onderwijs en Vorming, zal de bezwaar-schriften ingediend bij de Vlaamse reaffectatiecommissie samen met haar advies ter beoordeling voorleggen aan de Vlaamse reaffectatiecommissie.<br /><br />§ 4. Het indienen van een bezwaarschrift schort de reaffectatie of de wedertewerkstelling niet op, tenzij de voorzitter van de bevoegde reaffectatiecommissie anders beslist.
+§ 1. De inrichtende machten en wat betreft het gemeenschapsonderwijs eveneens de instellings-hoofden kunnen tegen:<br>
+1° de toewijzingen van de reaffectatiecommissie van de scholengemeenschap bij de voorzitter van de reaffectatiecommissie van de scholengemeenschap een bezwaarschrift indienen;<br>
+2° de toewijzingen van de reaffectatiecommissie van de scholengroep bij de voorzitter van de reaffectatiecommissie van de scholengroep een bezwaarschrift indienen;<br>
+3° ...<br>
+4° de reaffectaties en de wedertewerkstellingen door de Vlaamse reaffectatiecommissie een bezwaarschrift indienen bij de voorzitter van de Vlaamse reaffectatiecommissie.<br>
+<br>
+De bezwaarschriften moeten per aangetekende brief of tegen ontvangstbewijs worden ingediend binnen een termijn van vijf werkdagen, te rekenen vanaf de ontvangst van de toewijzing. In het bezwaarschrift moet de inrichtende macht de redenen van haar bezwaar aanvoeren en omstandig motiveren. De inrichtende macht moet binnen dezelfde termijn eveneens een afschrift van het bezwaarschrift bezorgen aan het betrokken personeelslid.<br>
+<br>
+§ 2. Als een reaffectatiecommissie een bezwaarschrift aanvaardt, moet ze een vervangende reaffectatie of wedertewerkstelling aanbieden. Als dit niet mogelijk is, wordt het bezwaarschrift samen met haar advies doorgestuurd naar de voorzitter van de daaropvolgende reaffectatiecommissie, zoals bepaald in dit besluit.<br>
+<br>
+§ 3. De bevoegde administratie van het Ministerie van Onderwijs en Vorming, zal de bezwaar-schriften ingediend bij de Vlaamse reaffectatiecommissie samen met haar advies ter beoordeling voorleggen aan de Vlaamse reaffectatiecommissie.<br>
+<br>
+§ 4. Het indienen van een bezwaarschrift schort de reaffectatie of de wedertewerkstelling niet op, tenzij de voorzitter van de bevoegde reaffectatiecommissie anders beslist.<br>
+<br>
+§5. In geval van een bezwaarschrift van een inrichtende macht van een leersteuncentrum houdt de bevoegde reaffectatiecommissie indien mogelijk rekening met de benodigde betrekkingen van het leersteuncentrum waar de bevoegde reaffectatiecommissie de toewijzing deed.
 
 ## TITEL V RECHTEN EN PLICHTEN VAN DE PERSONEELSLEDEN TER BESCHIKKING GESTELD WEGENS ONTSTENTENIS VAN BETREKKING
 
@@ -1832,6 +2028,8 @@ Een waarneming van de functie van adjunct-directeur met toepassing van artikel 1
 ### ART. 43.
 
 § 1. Het personeelslid dat ter beschikking gesteld is wegens ontstentenis van betrekking is verplicht naar rata van het gepondereerde volume van de opdracht waarvoor het ter beschikking gesteld is de betrekking waarin het gereaffecteerd of weder tewerkgesteld is onmiddellijk te aanvaarden en in dienst te treden op de aangeduide datum.<br>
+<br>
+Als het personeelslid zonder geldige reden, vermeld in artikel 45, de betrekking, vermeld in het eerste lid, niet aanvaardt en ook niet in dienst treedt op de aangeduide datum, wordt het wachtgeld of de wachtgeldtoelage waar het personeelslid recht op heeft volgens artikel 29 of artikel 30 opgeschort voor het gepondereerde volume van voormelde opdracht. Voormelde opschorting geldt voor de duur van het lopende schooljaar of tot op het ogenblik dat het personeelslid tijdens het lopende schooljaar een nieuwe toewijzing krijgt of vrijwillig een opdracht opneemt bij wijze van reaffectatie of wedertewerkstelling.<br>
 <br>
 § 2. Het ter beschikking gesteld personeelslid dat opnieuw in dienst wordt geroepen ingevolge de verplichtingen van de inrichtende macht of dat wordt aangeduid door de bevoegde reaffecta-tiecommissie, wordt geacht in dienstactiviteit te zijn vanaf de datum waarop het de betrekking opneemt.<br>
 <br>
@@ -1859,12 +2057,11 @@ Wanneer de instelling of het gesubsidieerd centrum opgeheven is en er bijgevolg 
 
 De geldige redenen voor het niet aanvaarden van een reaffectatie of wedertewerkstelling zijn de volgende :<br>
 1° wanneer het gereaffecteerde of weder te werk gesteld personeelslid de tewerkstellingsplaats niet kan bereiken binnen de grenzen vastgelegd in de reglementering van de Rijksdienst voor Arbeidsvoorziening.<br>
-Dit geldt niet als een personeelslid wordt gereaffecteerd of wedertewerkgesteld in de eigen instelling, met inbegrip van alle vestigingsplaatsen die deze instelling heeft. Met uitzondering van het volwassenenonderwijs geldt dit niet als een personeelslid wordt gereaffecteerd of wedertewerkgesteld in de eigen instelling, met inbegrip van alle vestigingsplaatsen van deze instelling.<br>
+Dit geldt niet als een personeelslid wordt gereaffecteerd of wedertewerkgesteld in de eigen instelling, met inbegrip van alle vestigingsplaatsen die deze instelling heeft. Met uitzondering van het volwassenenonderwijs en de onderwijsinternaten geldt dit niet als een personeelslid wordt gereaffecteerd of wedertewerkgesteld in de eigen instelling, met inbegrip van alle vestigingsplaatsen van deze instelling.<br>
 Dit geldt evenmin als een personeelslid wordt gereaffecteerd of wedertewerkgesteld in een instelling of vestigingsplaats gelegen in dezelfde gemeente als die waar het personeelslid op de vooravond van zijn terbeschikkingstelling tewerkgesteld was;<br>
 2° wanneer het bezwaarschrift aanvaard wordt;<br>
 3° als een betrekking aangeboden wordt door een andere inrichtende macht dan de inrichtende macht die het personeelslid ter beschikking heeft gesteld en als het personeelslid op het ogenblik van het aanbod binnen twee jaar zijn recht op een rustpensioen ten laste van de Schatkist kan laten gelden. In dat geval wordt het voordeel van het wachtgeld of de wachtgeldtoelage ingetrokken als de betrokkene de vroegst mogelijke pensioendatum bereikt. Die reden geldt evenwel niet als het personeelslid aan de voorwaarden voldoet om een terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen te genieten als vermeld in het besluit van de Vlaamse regering van 11 februari 2000 betreffende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding. Een gereaffecteerd of wedertewerkgesteld personeelslid dat binnen twee jaar zijn recht op een rustpensioen ten laste van de Schatkist kan laten gelden, blijft in dienst zolang de betrekking waarin het gereaffecteerd of wedertewerkgesteld is, voor salaris of salaristoelage in aanmerking komt;<br>
-4° als een betrekking wordt aangeboden in het deeltijds beroepssecundair onderwijs, in het buitengewoon secundair onderwijs, in het secundair onderwijs georganiseerd volgens het modulair stelsel, in het volwassenenonderwijs, in het deeltijds kunstonderwijs, in de internaten, in de semi-internaten of in de internaten van het Gemeenschapsonderwijs die voorzien in verblijf en begeleiding tijdens schoolvrije dagen, in betrekkingen en ambten als vermeld in artikel 4 van het besluit van de Vlaamse Regering van 28 augustus 2000 inzake het tehuis van het gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van hulp- en bijstandsregeling.<br>
-Deze bepaling geldt niet voor het ondersteunend personeel en ze geldt ook niet voor het personeelslid dat in de onderwijssector in kwestie fungeerde op de vooravond van de terbeschikkingstelling;<br>
+4° als een betrekking wordt aangeboden in het deeltijds beroepssecundair onderwijs, in het buitengewoon secundair onderwijs, in het secundair onderwijs dat georganiseerd is volgens het modulaire stelsel, in het volwassenenonderwijs, in het deeltijds kunstonderwijs, in de onderwijsinternaten of in de semi-internaten. De voormelde bepaling geldt niet voor het ondersteunend personeel en ze geldt ook niet voor het personeelslid dat in de onderwijssector in kwestie al eerder een opdracht heeft uitgeoefend;<br>
 5° als in het buitengewoon basisonderwijs een betrekking wordt aangeboden.<br>
 Deze reaffectatie of wedertewerkstelling moet alleen worden opgenomen als de betrokken personeelsleden, met uitzondering van die welke behoren tot het medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel, gevraagd hebben om te worden gereaffecteerd of wedertewerkgesteld in het buitengewoon basisonderwijs. Deze bepaling geldt niet voor de leden van het beleids- en ondersteunend personeel.<br>
 Deze bepaling geldt niet voor het personeelslid dat in het buitengewoon basisonderwijs fungeerde op de vooravond van de terbeschikkingstelling;<br>
