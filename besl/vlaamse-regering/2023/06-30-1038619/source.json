@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038619,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-30 tot registratie van NCOI N.V. als geregistreerde instelling voor hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038619/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "fb08caf6b188e5bcb0afdd7091a60715316f10d8f2cf4cf10a6e87764792e85a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038619&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-06-30",
+  "gazette": "2023-09-15",
+  "numac": 2023043814,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
