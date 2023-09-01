@@ -2,16 +2,16 @@
   "codex_id": 1013358,
   "title": "Decreet van 2004-05-07 betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013358/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "a14726161d380e52de76b1f8a316db819f9b49098fb5f7d28bbf73e57c4a03dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013358/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "7e6d7f65be5c60eace0c3c48eb8340b7f7c970703f3913b515528ab7d18781d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013358&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2023-09-01",
   "made": "2004-05-07",
   "gazette": "2004-08-31",
   "numac": 2004036378,
   "document_start": null,
   "document_end": "2023-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
