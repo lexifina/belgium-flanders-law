@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038472,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-26 tot vaststelling van het referentiekader kwaliteitsvolle leersteun",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038472/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "0a6aa8cd6e3960d00e622642cffd9a23734f240170ed9a494ebcb0f3583afac6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038472&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-05-26",
+  "gazette": "2023-07-06",
+  "numac": 2023042895,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
