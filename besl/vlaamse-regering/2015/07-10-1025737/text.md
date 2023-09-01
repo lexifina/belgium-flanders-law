@@ -64,7 +64,7 @@ De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro als de
 
 ### ART. 8.
 
-De   Commissie bemiddelt, op initiatief van de school, het CLB of de ouders, bij   onenigheid over het afleveren of over het niet afleveren of over de inhoud van   het verslag voor toegang tot het buitengewoon onderwijs.
+De Commissie bemiddelt, op initiatief van de school, het CLB of de ouders, bij onenigheid over het afleveren of over het niet afleveren of over de inhoud van het IAC- verslag of OV4-verslag.
 
 ### ART. 9.
 
