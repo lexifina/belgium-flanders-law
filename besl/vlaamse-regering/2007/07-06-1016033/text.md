@@ -44,7 +44,7 @@ De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming, legt het 
 
 ### ART. 6.
 
-De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming legt het voorstel van structuuronderdeel met advies, dat gebaseerd is op het advies, vermeld in artikel 4, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 31 december is ingediend, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse Regering uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen die bij decreet of besluit zijn vastgelegd.<br>
+De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming legt het voorstel van structuuronderdeel met advies, dat gebaseerd is op het advies, vermeld in artikel 4, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 1 oktober is ingediend, uiterlijk op 31 maart daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen die bij decreet of besluit zijn vastgelegd.<br>
 <br>
 Een voorstel wordt al dan niet voorwaardelijk of onder beding van beperkingen goedgekeurd.<br>
 <br>
@@ -63,13 +63,14 @@ De bevoegde dienst legt het voorstel tot actualisering voor aan de vertegenwoord
 2° rechtzettingen van onnauwkeurigheden, zonder afbreuk te doen aan de inhoudelijke omschrijving van de bepalingen van het structuuronderdeel;<br>
 3° wijzigingen in de naam van het structuuronderdeel of de naam van de beroepskwalificaties die onderdeel zijn van het structuuronderdeel, zonder afbreuk te doen aan de inhoudelijke omschrijving van de structuuronderdelen, zonder wijziging van de finaliteit en zonder wijziging van de competenties;<br>
 4° wijzigingen in de beroepskwalificaties die onderdeel zijn van het structuuronderdeel, die beperkt zijn tot het opsplitsen of samenvoegen van beroepskwalificaties zonder wijziging van de competenties;<br>
+4°/1 de schrapping uit de samenstelling van een structuuronderdeel van een door de Vlaamse Regering opgeheven beroepskwalificatie, een deelkwalificatie of sets van competenties daaruit, zonder dat die schrapping leidt tot een andere benaming van het structuuronderdeel of een wijziging van de competenties;<br>
 5° wijzigingen in de onderwijsdoelen, meer bepaald de onderdelen waaruit het structuuronderdeel is samengesteld, ten gevolge van een actualisatie van een beroepskwalificatie, zonder dat de wijzigingen van de beroepskwalificaties aanleiding geven tot de toekenning van een ander kwalificatieniveau aan de beroepskwalificaties en zonder wijziging van de finaliteit.
 
 ### ART 6/2.
 
 Als een voorstel tot actualisering van een structuuronderdeel alleen op een technische aanpassing betrekking heeft, legt de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming het geactualiseerde dossier, samen met een advies dat gebaseerd is op het advies, vermeld in artikel 6/1, tweede lid, ter beslissing voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming.<br>
 <br>
-De Vlaamse minister, bevoegd voor onderwijs en vorming, beslist over de actualisering van het structuuronderdeel. Indien de actualisering betrekking heeft op een wijziging als vermeld in artikel 6/1, § 2, 3° of 4°, dan wijzigt de Vlaamse minister, bevoegd voor onderwijs en vorming, in overeenstemming hiermee het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs. Over een voorstel dat uiterlijk op 31 december is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen die bij decreet of besluit zijn vastgelegd.
+De Vlaamse minister, bevoegd voor onderwijs en vorming, beslist over de actualisering van het structuuronderdeel. Als de actualisering betrekking heeft op een wijziging als vermeld in artikel 6/1, §2, 3° of 4°, wijzigt de Vlaamse minister, bevoegd voor onderwijs en vorming, in overeenstemming daarmee het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs. Over een voorstel dat uiterlijk op 1 oktober is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 31 maart daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen die bij decreet of besluit zijn vastgelegd.
 
 ### ART 6/3.
 
