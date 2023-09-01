@@ -2,16 +2,16 @@
   "codex_id": 1031716,
   "title": "Decreet van 2019-04-26 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031716/VolledigDocument?datum=2019-06-02",
-  "source_sha256": "f4a6a96b31802049f64200a88b902e7aba739ebe53d2d6ddc2ebade6f8205c59",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031716/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "2c864487c0b8947fae66060aa90ed6fca6561c83431358827e5bf30a20bc261f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031716&param=informatie",
-  "as_of": "2019-06-02",
+  "as_of": "2023-09-01",
   "made": "2019-04-26",
   "gazette": "2019-05-23",
   "numac": 2019012556,
   "document_start": "2019-06-02",
   "document_end": null,
-  "in_force": "2019-06-02",
+  "in_force": "2023-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }

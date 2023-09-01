@@ -24,13 +24,13 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART 3.
 
-Dit decreet is van toepassing op alle beroepskwalificerende trajecten, met uitzondering van de trajecten die leiden tot een bewijs van beroepskwalificatie die aangeboden wordt door een onderwijsinstelling die erkend, gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap.<br>
+Dit decreet is van toepassing op alle beroepskwalificerende trajecten, met uitzondering van de trajecten die leiden tot een bewijs van beroepskwalificatie of deelkwalificatie die aangeboden wordt door een onderwijsinstelling die erkend, gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap.<br>
 <br>
 Er kan niet worden voldaan aan de leerplicht door een erkend beroepskwalificerend traject te volgen dat onder het toepassingsgebied valt, vermeld in het eerste lid.
 
 ### ART 4.
 
-Door de erkenning van beroepskwalificerende trajecten is een organisatie bevoegd om bewijzen van beroepskwalificatie, deelkwalificatie of competenties uit te reiken voor die beroepskwalificerende trajecten.
+Door de erkenning van beroepskwalificerende trajecten is een organisatie bevoegd om bewijzen van beroepskwalificatie, deelkwalificatie of competenties uit te reiken voor die beroepskwalificerende trajecten.&nbsp;Een organisatie kan de bevoegdheid hebben om alleen erkende beroepskwalificerende trajecten op het niveau van de deelkwalificatie aan te bieden. De voormelde organisatie is alleen bevoegd om bewijzen van deelkwalificatie uit te reiken.
 
 ## HOOFDSTUK 2. Aanvraag om erkende beroepskwalificerende trajecten aan te bieden
 
@@ -52,7 +52,7 @@ Vanaf de dag van de schrapping uit het register mogen er geen nieuwe lerenden st
 
 ### ART 6.
 
-§ 1. Een organisatie die erkende beroepskwalificerende trajecten aanbiedt, laat een kwaliteitstoezicht op trajectniveau toe. Het kwaliteitstoezicht op trajectniveau gaat na of het beroepskwalificerende traject de lerenden effectief in staat stelt om de competenties van de beoogde beroepskwalificatie(s) op een kwaliteitsvolle manier te verwerven.<br>
+§ 1. Een organisatie die erkende beroepskwalificerende trajecten aanbiedt, laat een kwaliteitstoezicht op trajectniveau toe. Het kwaliteitstoezicht op trajectniveau gaat na of het beroepskwalificerende traject de lerenden effectief in staat stelt om de competenties van de beoogde beroepskwalificatie(s) of deelkwalificatie(s) op een kwaliteitsvolle manier te verwerven.<br>
 <br>
 Het kwaliteitstoezicht gebeurt neutraal en onafhankelijk. De uitvoerders van het kwaliteitstoezicht zijn niet betrokken bij het vormgeven, begeleiden of organiseren van de beroepskwalificerende trajecten die het voorwerp uitmaken van het kwaliteitstoezicht.<br>
 <br>
@@ -67,10 +67,10 @@ De Vlaamse Regering richt in het kader van het kwaliteitstoezicht van de beleids
 ### ART 7.
 
 Het kwaliteitstoezicht op trajectniveau gebeurt op basis van een kwaliteitskader, dat alle volgende kwaliteitsgebieden omvat:<br>
-1° de doelstellingen van het beroepskwalificerend traject stemmen overeen met de competenties van de beoogde beroepskwalificatie;<br>
-2° de vormgeving van het beroepskwalificerend traject is op die manier uitgewerkt en georganiseerd dat de lerenden de competenties van de beoogde beroepskwalificatie kunnen verwerven of zichtbaar maken;<br>
-3° de begeleiding van de lerenden in het kader van het beroepskwalificerend traject leidt ertoe dat aan hen optimale kansen worden geboden om de competenties van de beoogde beroepskwalificatie te verwerven of zichtbaar te maken;<br>
-4° de evaluatie van de lerenden in het kader van het beroepskwalificerend traject laat toe na te gaan dat ze de competenties van de beoogde beroepskwalificatie hebben verworven;<br>
+1° de doelstellingen van het beroepskwalificerend traject stemmen overeen met de competenties van de beoogde beroepskwalificatie of deelkwalificatie;<br>
+2° de vormgeving van het beroepskwalificerend traject is op die manier uitgewerkt en georganiseerd dat de lerenden de competenties van de beoogde beroepskwalificatie of deelkwalificatie kunnen verwerven of zichtbaar maken;<br>
+3° de begeleiding van de lerenden in het kader van het beroepskwalificerend traject leidt ertoe dat aan hen optimale kansen worden geboden om de competenties van de beoogde beroepskwalificatie of deelkwalificatie te verwerven of zichtbaar te maken;<br>
+4° de evaluatie van de lerenden in het kader van het beroepskwalificerend traject laat toe na te gaan dat ze de competenties van de beoogde beroepskwalificatie of deelkwalificatie hebben verworven;<br>
 5° de werkpunten die worden vastgesteld in verband met de doelstellingen, vormgeving, begeleiding en evaluatie worden omgezet in verbeteracties.<br>
 <br>
 De Vlaamse Regering werkt de kwaliteitsgebieden van het kwaliteitskader verder uit en maakt het bekend via publiek toegankelijke fora.
@@ -94,9 +94,9 @@ Indien een beroepskwalificatie of deelkwalificatie werd geactualiseerd of geschr
 
 ### ART 9.
 
-§ 1. Als het kwaliteitstoezicht op trajectniveau bevestigt dat het beroepskwalificerende traject de lerenden effectief in staat stelt om de competenties van de beoogde beroepskwalificatie(s) op een kwaliteitsvolle manier te verwerven, blijft het beroepskwalificerend traject erkend en blijft het traject opgenomen in het register, vermeld in artikel 5, § 2. De organisatie in kwestie blijft gemachtigd om bewijzen van beroepskwalificatie uit te reiken aan de lerenden die het beroepskwalificerend traject met vrucht beëindigen, met inbegrip van de onderliggende bewijzen van deelkwalificatie en competenties, vermeld in artikel 5, § 3, van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties.<br>
+§ 1. Als het kwaliteitstoezicht op trajectniveau bevestigt dat het beroepskwalificerende traject de lerenden effectief in staat stelt om de competenties van de beoogde beroepskwalificatie(s) of deelkwalificatie(s) op een kwaliteitsvolle manier te verwerven, blijft het beroepskwalificerend traject erkend en blijft het traject opgenomen in het register, vermeld in artikel 5, § 2. De organisatie in kwestie blijft gemachtigd om bewijzen van beroepskwalificatie of deelkwalificatie uit te reiken aan de lerenden die het beroepskwalificerend traject met vrucht beëindigen, met inbegrip van de onderliggende bewijzen van eventuele deelkwalificatie en competenties, vermeld in artikel 5, § 3, van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties.<br>
 <br>
-§ 2. Als het kwaliteitstoezicht op trajectniveau oordeelt dat het beroepskwalificerend traject de lerende niet in staat stelt om de competenties van de beoogde beroepskwalificatie(s) op een kwaliteitsvolle manier te verwerven, wordt het beroepskwalificerend traject niet langer erkend en wordt het traject geschrapt uit het register, vermeld in artikel 5, § 2. De organisatie in kwestie is niet langer bevoegd om voor dat beroepskwalificerende traject bewijzen van beroepskwalificatie uit te reiken, met inbegrip van de onderliggende bewijzen van deelkwalificatie en competenties.<br>
+§ 2. Als het kwaliteitstoezicht op trajectniveau oordeelt dat het beroepskwalificerend traject de lerende niet in staat stelt om de competenties van de beoogde beroepskwalificatie(s) of deelkwalificatie(s) op een kwaliteitsvolle manier te verwerven, wordt het beroepskwalificerend traject niet langer erkend en wordt het traject geschrapt uit het register, vermeld in artikel 5, § 2. De organisatie in kwestie is niet langer bevoegd om voor dat beroepskwalificerende traject bewijzen van beroepskwalificatie of deelkwalificatie uit te reiken, met inbegrip van de onderliggende bewijzen van eventuele deelkwalificatie en competenties.<br>
 <br>
 Bij de bepaling van de verdere modaliteiten van het kwaliteitstoezicht, vermeld in artikel 6, vierde lid, kan de Vlaamse Regering in voorkomend geval een procedure tot remediëring vastleggen.<br>
 <br>
