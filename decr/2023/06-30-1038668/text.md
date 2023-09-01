@@ -71,6 +71,14 @@ In artikel 46, §2, vijfde lid, van het decreet van 23 december 2011 betreffende
 
 ## Afdeling 1. Aanpassing aanvullende werkingsmiddelen voor centra voor volwassenenonderwijs in het kader van EVC-trajecten
 
+### ART 11.
+
+In artikel 108, §5, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 26 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “en daarvoor een financiële bijdrage van minder dan 96 euro heeft ontvangen” vervangen door de zinsnede “bij een specifieke doelgroep die recht heeft op een verminderde financiële bijdrage als vermeld in artikel 8 van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties”;<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+“De aanvullende werkingstoelage bedraagt de helft van de volledige financiële bijdrage voor een EVC-traject met het oog op het verwerven van een beroepskwalificatie of een deelkwalificatie als vermeld in het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties, zoals van kracht op de datum van de inwerkingtreding van artikel 11 van het programmadecreet van 30 juni 2023 houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023.”;<br>
+3° het vierde lid wordt opgeheven.
+
 ## Afdeling 2. Aanpassing asielmiddelen voor centra voor volwassenenonderwijs in het kader van zomeraanbod NT2
 
 ### ART 12.
@@ -147,7 +155,62 @@ Indien er minder leerlingen werden ingeschreven dan vooropgesteld in de aanvraag
 
 ## Afdeling 10. Ondersteuningsbeleid voor cognitief sterk functionerende leerlingen
 
+### ART 21.
+
+§1. Vanaf het begrotingsjaar 2023 kan de Vlaamse Regering jaarlijks per schooljaar, startend met het schooljaar 2023-2024 en telkens voor een periode van maximaal vijf schooljaren, binnen de beschikbare begrotingskredieten een financiële ondersteuning toekennen:<br>
+1° van maximaal 300.000 euro aan een interuniversitair expertisecentrum met wetenschappelijke kennis over het onderwijs aan cognitief sterk functionerende leerlingen;<br>
+2° van maximaal 35.000 euro aan maximaal 14 ankerscholen voor gewoon basisonderwijs elk en van maximaal 45.000 euro aan maximaal 6 ankerscholen voor gewoon secundair onderwijs elk die een passend beleid en een passende onderwijspraktijk hebben uitgebouwd voor cognitief sterk functionerende leerlingen en die per school expertise delen in een lerend netwerk met andere scholen die een dergelijk beleid en een dergelijke onderwijspraktijk willen ontwikkelen.<br>
+<br>
+De bedragen, vermeld in het eerste lid, 1° en 2°, worden, voor zover de begrotingskredieten dit toelaten, jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule:<br>
+A = (Cx-1/Cx-2), waarbij:<br>
+1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+§2. Het expertisecentrum neemt de volgende opdrachten op:<br>
+1° de coaching, ondersteuning en coördinatie van de lerende netwerken die de ankerscholen opzetten met de deelnemende scholen. Deze opdracht houdt ten minste de volgende taken in: het opnemen van vragen en waar nodig het dispatchen ervan, en het organiseren van werkgroepen en meetings met de ankerscholen;<br>
+2° het voorzien in intervisie en professionalisering voor de ankerscholen en scholen die deelnemen aan de lerende netwerken;<br>
+3° het bieden van wetenschappelijke input aan de ankerscholen en de deelnemende scholen aan de lerende netwerken ter ondersteuning van het evidence informed werken en het ter beschikking stellen van nieuwe wetenschappelijke inzichten op het gebied van onderwijs aan cognitief sterk functionerende leerlingen met vertaling ervan naar bruikbare materialen voor de onderwijspraktijk;<br>
+4° het wetenschappelijk onderbouwen van de praktijken in de ankerscholen en de deelnemende scholen aan de lerende netwerken en het verzekeren van de opvolging van de scholen op dit gebied;<br>
+5° het ontwikkelen en valideren van nieuwe praktijken en materialen en het actueel houden van bestaande praktijken en materialen en het breed beschikbaar stellen ervan voor alle onderwijsactoren via deling op een online kennisplatform;<br>
+6° het uitvoeren van onderzoek en reviewstudies en het formuleren van aanbevelingen voor onderwijsactoren over onderwijs aan cognitief sterk functionerende leerlingen binnen de context van een bredere leerlingenpopulatie en binnen de context van een schoolbeleid in functie van die brede leerlingenpopulatie;<br>
+7° het fungeren als aanspreekpunt voor scholen, ouders, leerlingen, ondersteunende diensten, waaronder centra voor leerlingenbegeleiding, pedagogische begeleidingsdiensten en leersteuncentra, en andere relevante actoren met betrekking tot het onderwijs aan cognitief sterk functionerende leerlingen;<br>
+8° het opnemen van de coördinatie, samen met de ankerscholen van de jaarlijkse rapportering over de uitvoering van de in paragraaf 2 en paragraaf 3 geformuleerde opdrachten;<br>
+9° het jaarlijks indienen van een aanvraag met een planning en begroting voorafgaand aan de start van het schooljaar.<br>
+<br>
+De Vlaamse Regering sluit een beheersovereenkomst af met het geselecteerde expertisecentrum. De beheersovereenkomst heeft maximaal een duurtijd van vijf schooljaren. Ze bevat minstens de doelstellingen, vermeld in het eerste lid, die het expertisecentrum in de genoemde termijn moet realiseren, geconcretiseerd in een plan van aanpak, en de rapporteringsverplichtingen die daarmee samengaan.<br>
+<br>
+§3. Scholen voor gewoon basisonderwijs en gewoon secundair onderwijs kunnen zich onder de volgende voorwaarden kandidaat stellen om een rol als ankerschool op te nemen:<br>
+1° de school heeft een voortraject doorlopen als ankerschool of als deelnemende school aan een lerend netwerk in het kader van het project ‘Voorbeeldscholen ter ondersteuning van cognitief sterk functionerende leerlingen’ met een looptijd van 1 november 2020 tot en met 31 oktober 2023 of heeft deelgenomen aan een lerend netwerk in het kader van het nieuwe project, vermeld in paragraaf 1, dat start vanaf het schooljaar 2023-2024;<br>
+2° de school toont aan al een wetenschappelijk onderbouwd beleid en een wetenschappelijk onderbouwde praktijk te hebben voor cognitief sterk functionerende leerlingen en engageert zich om met het expertisecentrum, vermeld in paragraaf 2, samen te werken om de schooleigen expertise te evalueren en verder te ontwikkelen;<br>
+3° de school engageert zich om in te zetten op aspecten van de werking van de eigen school ten aanzien van cognitief sterk functionerende leerlingen, inclusief het versterken van het evidence informed werken en dit binnen de context van de bredere leerlingenpopulatie en het algemene beleid op leerlingenbegeleiding in de school;<br>
+4° de school engageert zich om in te zetten voor de uitbouw van gedifferentieerde thematische lerende netwerken, werkgroepen en intervisie met de andere ankerscholen;<br>
+5° de school engageert zich om als netwerkcoach en ondersteuner een lerend netwerk aan te sturen met ten minste 12 scholen om expertise over beleid en onderwijspraktijk voor cognitief sterk functionerende leerlingen te delen met andere scholen en deze scholen te ondersteunen bij de eigen professionalisering op het gebied van wetenschappelijke onderbouwing en het evidence informed werken. Personeelsleden van ondersteunende diensten kunnen toegelaten worden tot deelname aan een lerend netwerk;<br>
+6° de school is aanspreekpunt voor de deelnemende scholen in het lerend netwerk voor onder andere vragen over implementatie van praktijken en materialen, intervisie bij individuele casuïstiek, inzage in of uitlenen van materialen;<br>
+7° de school is aanspreekpunt voor ondersteunende diensten, zoals centra voor leerlingenbegeleiding, pedagogische begeleidingsdiensten en leersteuncentra;<br>
+8° de school draagt bij tot expertisedeling en professionaliseringsinitiatieven in samenwerking met het expertisecentrum;<br>
+9° de school doet in samenwerking met andere ankerscholen en het expertisecentrum aan materiaalontwikkeling gebaseerd op wetenschappelijke inzichten;<br>
+10° de school rapporteert, onder coördinatie van het expertisecentrum, jaarlijks over de uitvoering van de opdrachten, vermeld in punt 2° tot en met 9°;<br>
+11° de school dient jaarlijks een aanvraag met een planning en begroting in voorafgaand aan de start van het schooljaar.<br>
+<br>
+§4. De Vlaamse Regering doet een oproep om te komen tot de aanduiding van een interuniversitair expertisecentrum en de selectie van de maximaal 20 ankerscholen voor gewoon basisonderwijs en gewoon secundair onderwijs. De oproep wordt ten minste herhaald na telkens een periode van vijf schooljaren en in geval het expertisecentrum zijn activiteiten wenst stop te zetten, of wanneer het contingent van maximaal 20 ankerscholen niet meer volledig opgevuld is.<br>
+<br>
+De beoordeling van de projectvoorstellen en de selectie van de scholen en het expertisecentrum gebeurt door een selectiecommissie, bestaande uit vertegenwoordigers van het Departement Onderwijs en Vorming en de Onderwijsinspectie.<br>
+<br>
+De Vlaamse Regering bepaalt de rapporterings- en uitbetalingsmodaliteiten van de financiële ondersteuning, vermeld in paragraaf 1.
+
 ## Afdeling 11. Tenlasteneming van juridische kosten van schoolbesturen
+
+### ART 22.
+
+§1. Binnen de perken van de begroting van de Vlaamse Gemeenschap neemt de Vlaamse Gemeenschap bepaalde juridische kosten in hoofde van de school- of centrumbesturen in de Vlaamse Gemeenschap ten laste.<br>
+<br>
+Deze tenlasteneming is onderworpen aan onderstaande voorwaarden:<br>
+1° de school- of centrumbesturen uit het basisonderwijs, secundair onderwijs of deeltijds beroepssecundair onderwijs hebben de juridische kosten (met inbegrip van advocatenkosten en de betaalde rechtsplegingsvergoeding) gemaakt voor:<br>
+&nbsp; a) hun externe verdediging in rechte als verweerder van hun beslissingen inzake deliberaties en tucht over leerlingen waarbij zij optreden als verdedigende partij; of<br>
+&nbsp; b) voor het in rechte optreden als eisende, benadeelde of burgerlijke partij tegen daders van onrechtmatig gedrag tegen hun personeelsleden, zoals bedoeld in artikel 32bis van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk;<br>
+2° als een school- of centrumbestuur een beroep kan doen op een rechtsbijstandsverzekering is de tenlasteneming beperkt tot de kosten die niet door de rechtsbijstandsverzekering betaald werden; als een school- of centrumbestuur geen beroep kan doen op een rechtsbijstandsverzekering en in elk ander geval is de tenlasteneming beperkt tot maximaal 10.000 euro per aangevochten tucht- of deliberatiebeslissing met toepassing van paragraaf 1, 1°, a), of per procedure inzake onrechtmatig gedrag met toepassing van paragraaf 1, 1°, b).<br>
+<br>
+§2. De tenlasteneming wordt aangevraagd bij de bevoegde diensten van de Vlaamse Gemeenschap. Een aanvraag is enkel ontvankelijk als bij de aanvraag de gerechtelijke uitspraak en de financiële verantwoording is gevoegd. De bevoegde diensten van de Vlaamse Gemeenschap kunnen de aanvrager om bijkomende informatie vragen om de ontvankelijkheid en gegrondheid van de aanvraag te beoordelen. De Vlaamse Regering beslist over de tenlasteneming bij elke aanvraag met toepassing van paragraaf 1, 1°, b).
 
 ## Afdeling 12. Extra werkingsbudget voor materiaalintensief studieaanbod in het secundair onderwijs
 
@@ -191,7 +254,39 @@ Met ingang van het begrotingsjaar 2023 wordt ieder jaar 1/7 van het bedrag bijzo
 
 ## Afdeling 14. Extra werkingsbudget digitalisering Centra voor Leerlingenbegeleiding
 
+### ART 25.
+
+Artikel 18 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding wordt vervangen door wat volgt:<br>
+<br>
+“Art. 18. Vanaf het begrotingsjaar 2023 wordt jaarlijks per schooljaar, startend met het schooljaar 2023-2024, binnen de beschikbare begrotingskredieten een extra werkingsbudget van maximaal 1.000.000 euro toegekend aan de permanente ondersteuningscellen. Het werkingsbudget wordt toegekend aan de gefinancierde permanente ondersteuningscel, de gesubsidieerde vrije permanente ondersteuningscel, de permanente ondersteuningscel van de Onderwijsvereniging van Steden en Gemeenten en de permanente ondersteuningscel van het Provinciaal Onderwijs Vlaanderen verrekend conform hun personeelsomkadering, vermeld in artikel 40, §2, eerste lid, 1°, en tweede lid. Het extra werkingsbudget wordt netoverstijgend ingezet door alle permanente ondersteuningscellen samen.<br>
+<br>
+De middelen worden ingezet voor netoverstijgende innovatieve digitaliseringsprojecten, met het oog op het kwaliteitsvol begeleiden van leerlingen, waaronder minstens:<br>
+1° de ontwikkeling, het onderhoud en de implementatie van een online hulpverleningsaanbod door alle centra voor leerlingenbegeleiding;<br>
+2° de ontwikkeling, het onderhoud en de implementatie van een digitaal multidisciplinair dossier voor de leerling als vermeld in artikel 10 en de gegevensoverdracht vanuit het digitaal multidisciplinair dossier van de leerling, vermeld in artikel 17;<br>
+3° de ontwikkeling, het onderhoud en de implementatie van een laagdrempelig toegankelijk digitaal platform voor leerlingen, ouders, scholen, leersteuncentra en netwerkpartners.<br>
+<br>
+Alle permanente ondersteuningscellen werken tegen 31 december 2023 netoverstijgend samen aan hun visie op digitalisering met doelstellingen die ze op korte en lange termijn willen bereiken en hoe ze deze doelstellingen op korte en langere termijn zullen realiseren. Hierbij worden ook de opdrachten, vermeld in het tweede lid, opgenomen, alsook de inzet van de middelen, vermeld in het eerste lid. De visie wordt door alle permanente ondersteuningcellen samen besproken met de bevoegde diensten van de Vlaamse Regering voor 31 januari 2024. Op het einde van elk schooljaar gaan alle permanente ondersteuningscellen samen in overleg met de bevoegde diensten van de Vlaamse Regering om te rapporteren over de realisatie van hun doelstellingen en de inzet van de middelen van het lopende schooljaar en de planning met inzet van de middelen voor het volgende schooljaar.<br>
+<br>
+Het extra werkingsbudget wordt ten laatste in december van het lopende schooljaar uitbetaald.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het extra werkingsbudget van maximaal 1.000.000 euro geïndexeerd conform de bepaling opgenomen in artikel 29, §1, vijfde lid.”.
+
 ## Afdeling 15. Extra werkingsbudget Centra voor Leerlingenbegeleiding
+
+### ART 26.
+
+Aan hoofdstuk 2, afdeling 4, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, gewijzigd bij het decreet van 20 december 2019 en de decreten van 9 juli 2021, wordt een artikel 32/2 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 32/2. Vanaf het begrotingsjaar 2023 wordt jaarlijks per schooljaar, startend met het schooljaar 2023-2024, binnen de beschikbare begrotingskredieten een extra werkingsbudget van maximaal 7.562.000 euro toegekend aan de centra. Het extra werkingsbudget wordt onder de centra verdeeld op basis van hun aandeel in de nieuwe omkadering, berekend conform artikel 40 en 41.<br>
+<br>
+De middelen worden ingezet voor de versterking van de leerlingenbegeleiding en laten de centra toe om:<br>
+1° meer in de scholen aanwezig te zijn en hierbij extra in te zetten op het verhogen van het psychosociaal functioneren van de leerlingen;<br>
+2° in te zetten op en mee te werken aan initiatieven inzake het voorkomen van vroegtijdig schoolverlaten en ongekwalificeerde uitstroom;<br>
+3° onderling samen te werken rond de thema’s, vermeld in artikel 16, §2, eerste lid, 1°, a) tot en met i).<br>
+&nbsp;<br>
+Het extra werkingsbudget wordt ten laatste in december van het lopende schooljaar uitbetaald.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het extra werkingsbudget van maximaal 7.562.000 euro geïndexeerd conform de bepaling opgenomen in artikel 29, §1, vijfde lid.”.
 
 ## Afdeling 16. Ondersteuning duaal leren door de regionale technologische centra (RTC’s)
 
@@ -214,6 +309,21 @@ Naast het actieplan, vermeld in artikel 4, §2, eerste lid, 3°, maken de vijf R
 De Vlaamse Regering bepaalt de rapporterings- en uitbetalingsmodaliteiten van de specifieke werkingstoelagen, vermeld in het eerste lid.”.
 
 ## Afdeling 17. Bijkomende omkadering voor de afstemming tussen school, internaat en sportfederatie voor topsportleerlingen
+
+### ART 29.
+
+Aan artikel 221 van de Codex Secundair Onderwijs, gewijzigd bij het decreet van 9 juli 2021, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+“§3. Aan elke school voor voltijds secundair onderwijs met ten minste één regelmatige leerling op de toepasbare teldatum in structuuronderdelen met in de benaming “topsport”, wordt een aantal specifieke uren-leraar toegekend onder de volgende modaliteiten:<br>
+1° het aantal uren-leraar bedraagt 0,2 uren-leraar per regelmatige leerling vanaf de 26e regelmatige leerling;<br>
+2° indien het aantal regelmatige leerlingen lager ligt dan 25, bedraagt het aantal uren-leraar 0,85 uren-leraar per regelmatige leerling;<br>
+3° het aantal toegekende uren-leraar bedraagt maximaal 22.<br>
+&nbsp;<br>
+De specifieke uren-leraar, vermeld in het eerste lid, worden ingericht onder de vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken.<br>
+<br>
+De desbetreffende uren worden niet verrekend bij toepassing van de bepaling dat maximum 3% van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken als vermeld in artikel 212.<br>
+<br>
+Voor de toepassing van deze paragraaf worden scholen van hetzelfde schoolbestuur als één school beschouwd. De specifieke uren-leraar worden in dat geval steeds toegekend aan de school die valt onder de toepassing van het gesloten topsportconvenant.”.
 
 ## Afdeling 18. Aanpassing van de nascholingsmiddelen voor de instellingen om het nascholingsplan uit te voeren in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
