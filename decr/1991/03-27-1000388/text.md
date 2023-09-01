@@ -30,11 +30,13 @@ a) de gesubsidieerde leden van:<br>
 - het ondersteunend personeel;<br>
 - het beleids- en ondersteunend personeel;<br>
 - het administratief personeel;<br>
+- het leerondersteunend personeel;<br>
 <br>
-tewerkgesteld in de gesubsidieerde<br>
+tewerkgesteld in de volgende gesubsidieerde instellingen:<br>
 - scholen van het basisonderwijs, instellingen voor secundair onderwijs, academies voor deeltijds kunstonderwijs en centra voor volwassenenonderwijs;<br>
-- tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben;<br>
-- internaten;<br>
+- ...;<br>
+- onderwijsinternaten;<br>
+- de leersteuncentra;<br>
 - de centra voor leerlingenbegeleiding en in voorkomend geval hun permanente ondersteuningscellen, verder CLB's genoemd.<br>
 <br>
 Deze titel is eveneens van toepassing op de gesubsidieerde personeelsleden van de pedagogische begeleidingsdiensten zoals bedoeld in artikel 14 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
@@ -64,7 +66,7 @@ Hetzelfde geldt binnen het provinciaal onderwijs.
 ### ART. 5.
 
 Voor de toepassing van deze titel wordt verstaan onder:<br>
-1° de instelling: de scholen van het basisonderwijs,&nbsp;de scholen en de centra voor deeltijds beroepssecundair onderwijs van het secundair onderwijs, de scholengemeenschapsinstellingen, de academies voor deeltijds kunstonderwijs, de centra voor volwassenenonderwijs, de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben en de internaten. Het internaat toegevoegd aan een school maakt deel uit van die school;<br>
+1° de instelling: de scholen van het basisonderwijs,&nbsp;de scholen en de centra voor deeltijds beroepssecundair onderwijs van het secundair onderwijs, de scholengemeenschapsinstellingen, de academies voor deeltijds kunstonderwijs, de centra voor volwassenenonderwijs, de leersteuncentra en de onderwijsinternaten;<br>
 2° de centra: de gesubsidieerde centra voor leerlingenbegeleiding en in voorkomend geval hun permanente ondersteuningscellen en pedagogische begeleidingsdiensten;<br>
 3° het net :<br>
 - het gemeenschapsonderwijs : het onderwijs van de Vlaamse Gemeenschap zoals bedoeld in artikel 2 van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
@@ -72,14 +74,14 @@ Voor de toepassing van deze titel wordt verstaan onder:<br>
 - het gesubsidieerd vrij onderwijs : het onderwijs ingericht door natuurlijke personen of privaatrechtelijke rechtspersonen en dat in aanmerking komt voor subsidiëring door de Vlaamse Gemeenschap;<br>
 4° de aanvullende regels van het bevoegd paritair comité: de regels die door de in titel I bedoelde paritaire comités met betrekking tot de rechtspositie van de aan dit decreet onderworpen personeelsleden van het gesubsidieerd vrij onderwijs zijn vastgesteld en waaraan bij besluit van de Vlaamse regering algemeen verbindende kracht is gegeven;<br>
 5° de vacante betrekking: betrekking die niet is toegewezen aan een in de zin van dit decreet vastbenoemd personeelslid. Met het oog op een vaste benoeming is dit ook een betrekking die vacant wordt verklaard volgens artikel 33, § 1, 4°, 5° en 6°, artikel 84undevicies of artikel 84vicies sexies, § 1, 4°, 5° en 6;<br>
-6° het schooljaar: de periode van 1 september tot 31 augustus van het daaropvolgend jaar voor het voorschools, lager en secundair onderwijs; het academiejaar voor het hoger kunstonderwijs en het hoger onderwijs van het korte type en het dienstjaar voor de CLB's;<br>
+6° het schooljaar: de periode van 1 september tot en met 31 augustus van het daaropvolgende jaar;<br>
 7° de titularis: het personeelslid dat in een vacante betrekking vastbenoemd of tijdelijk aangesteld is, met uitzondering van wie voor een tijd de tijdelijke titularis vervangt;<br>
 8° de bekwaamheidsbewijzen: de door de Vlaamse regering voor het ambt bepaalde bekwaamheidsbewijzen;<br>
 9° de godsdienst: één van de erediensten bedoeld in de reglementaire bepalingen inzake levensbeschouwelijk onderricht;<br>
 10° godsdienstleerkracht: de leermeester godsdienst en de godsdienstleraar;<br>
 11° een ambt: een functie die in de onderwijssector wordt uitgeoefend en door de Gemeenschap wordt gefinancierd.<br>
 De Vlaamse regering stelt de verschillende ambten vast en maakt een indeling in wervings-, selectie- en bevorderingsambten. Zolang de Vlaamse regering geen uitvoering heeft verleend aan deze bepaling blijft de bestaande reglementering van kracht;<br>
-12° een betrekking: de concrete werkgelegenheid in een bepaald ambt in een instelling of centrum, uitgedrukt in een door de inrichtende macht bepaald aantal prestatie-eenheden per week. Als het gaat om een onderwijsopdracht vermeldt de inrichtende macht eveneens het onderwijsniveau, de opleiding, de module, het vak en de specialiteit ervan of de met het vak of specialiteit gelijkgestelde activiteit, de graad en voor het voor het voltijds secundair onderwijs eventueel het HBO5, de onderwijsvorm of de opleidingsvorm. Als het gaat om een opdracht in een ambt van het beleids- en ondersteunend personeel of in een ambt van het ondersteunend personeel dan vermeldt de inrichtende macht eveneens het vereiste opleidingsniveau en - uitgezonderd voor de CLB's - de puntenwaarde.<br>
+12° een betrekking: de concrete werkgelegenheid in een bepaald ambt in een instelling of centrum, uitgedrukt in een door de inrichtende macht bepaald aantal prestatie-eenheden per week. Als het gaat om een onderwijsopdracht vermeldt de inrichtende macht eveneens het onderwijsniveau, de opleiding, de module, het vak en de specialiteit ervan of de met het vak of specialiteit gelijkgestelde activiteit, de graad en voor het voor het voltijds secundair onderwijs eventueel het HBO5, de onderwijsvorm of de opleidingsvorm. Als het gaat om een opdracht in een ambt van het beleids- en ondersteunend personeel, van het leerondersteunend personeel of in een ambt van het ondersteunend personeel dan vermeldt de inrichtende macht eveneens het vereiste opleidingsniveau en - uitgezonderd voor de CLB's - de puntenwaarde.<br>
 Een betrekking kan volledig of onvolledig zijn. Een volledige betrekking stemt overeen met het aantal prestatie-eenheden vereist voor een ambt met volledige prestaties.<br>
 Een personeelslid dat deeltijds werkt, heeft het recht dat deze prestaties maximaal over een proportioneel aantal halve dagen per week worden gespreid;<br>
 13° opdracht van een personeelslid: aantal prestatieeenheden per week door een personeelslid verricht in een bepaald ambt in een instelling of centrum en, indien het een onderwijsopdracht betreft, in een bepaald onderwijsniveau, in een bepaalde opleiding of in een bepaalde module of in een bepaald vak en de specialiteit ervan of een ermede gelijkgestelde activiteit, en in voorkomend geval, de graad en voor het voltijds secundair onderwijs eventueel het HBO5, en de onderwijsvorm of de opleidingsvorm. De prestatie-eenheid is de basiseenheid die voor een bepaald ambt door de Vlaamse regering wordt vastgesteld;<br>
@@ -97,18 +99,20 @@ Een personeelslid dat deeltijds werkt, heeft het recht dat deze prestaties maxim
 25° HBO5 : het hoger beroepsonderwijs met kwalificatieniveau 5 in het voltijds secundair onderwijs.<br>
 26° leraar : leraar in het secundair onderwijs, in het deeltijds kunstonderwijs en in het secundair volwassenenonderwijs.<br>
 27° leeftijdsgrens : het einde van het schooljaar waarin een personeelslid de leeftijd van 65 jaar heeft bereikt.<br>
-28° de inrichtende macht : de schoolbesturen van het basisonderwijs en van het voltijds secundair onderwijs, de centrumbesturen van de centra voor deeltijds beroepssecundair onderwijs, de rechtspersonen die bevoegdheid dragen voor de scholengemeenschapsinstellingen, de centrumbesturen van de centra voor volwassenenonderwijs en de centra voor leerlingenbegeleiding, de schoolbesturen van het deeltijds kunstonderwijs, van de internaten en de besturen van tehuizen voor kinderen met ouders die geen vaste verblijfplaats hebben, van de autonome internaten en van de pedagogische begeleidingsdiensten;<br>
+28° de inrichtende macht : de schoolbesturen van het basisonderwijs en van het voltijds secundair onderwijs, de besturen van de leersteuncentra, de centrumbesturen van de centra voor deeltijds beroepssecundair onderwijs, de rechtspersonen die bevoegdheid dragen voor de scholengemeenschapsinstellingen, de centrumbesturen van de centra voor volwassenenonderwijs en de centra voor leerlingenbegeleiding, de schoolbesturen van het deeltijds kunstonderwijs, de besturen van de pedagogische begeleidingsdiensten en de onderwijsinternaatsbesturen van de onderwijsinternaten;<br>
 29° leerkracht levensbeschouwelijk onderricht: de godsdienstleerkracht, de leermeester niet-confessionele zedenleer en de leraar niet-confessionele zedenleer;<br>
 30° MEDEX: de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, Medische Expertise, cel Pensioenen;<br>
 31° preventieadviseur-arbeidsgeneesheer: de preventieadviseur deskundig in arbeidsgeneeskunde verbonden aan de externe Dienst voor Preventie en Bescherming op het werk zoals bepaald in het koninklijk besluit van 27 maart 1998 betreffende de externe diensten voor preventie en bescherming op het werk;<br>
 32° regionale ondersteuningscel: de netoverstijgende regionale ondersteuningscel of de regionale ondersteuningscel, vermeld in artikel 16 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
-33° aanvangsbegeleiding: de structureel verankerde ondersteuning van een tijdelijk personeelslid dat aangesteld is voor bepaalde duur. De aanvangsbegeleiding ondersteunt het tijdelijke personeelslid in het leren beheersen van zijn kerntaken, in het zichzelf verder leren ontwikkelen als persoon en professional en in het leren vinden van zijn weg in zijn instelling als werkplek en lerende organisatie.
+33° aanvangsbegeleiding: de structureel verankerde ondersteuning van een tijdelijk personeelslid dat aangesteld is voor bepaalde duur. De aanvangsbegeleiding ondersteunt het tijdelijke personeelslid in het leren beheersen van zijn kerntaken, in het zichzelf verder leren ontwikkelen als persoon en professional en in het leren vinden van zijn weg in zijn instelling als werkplek en lerende organisatie;<br>
+34° een leersteuncentrum: een centrum als vermeld in artikel 20, §1, van het decreet van 5 mei 2023 over leersteun;<br>
+35° onderwijsinternaten: de onderwijsinternaten die erkend zijn overeenkomstig artikel 6 van het decreet van 16 juni 2023 over de onderwijsinternaten;
 
 ### ART. 6.
 
-§ 1. Voor het berekenen van de dienstanciënniteit:<br>
+§1. Voor het berekenen van de dienstanciënniteit:<br>
 <br>
-a) bestaat het aantal dagen, gepresteerd als tijdelijk aangesteld personeelslid in een betrekking met volledige dienstprestaties, uit al de kalenderdagen gerekend van het begin tot het einde van de ononderbroken activiteitsperiode, met inbegrip van alle vakantieperioden met uitzondering van de zomervakantie, als ze in die activiteitsperiode vallen. Dat aantal wordt vermenigvuldigd met 1,2. In afwijking hiervan bestaat voor het administratief personeel, de administratief medewerker van het beleids- en ondersteunend personeel, de administratief medewerker van het ondersteunend personeel en voor de personeelsleden van de CLB's, de semi-internaten en de opvangcentra, het aantal dagen gepresteerd als tijdelijk aangesteld personeelslid in een betrekking met volledige dienstprestaties, uit al de kalenderdagen van het begin tot het einde van een ononderbroken activiteitsperiode, met inbegrip van alle vakantieperioden. Dit aantal wordt niet vermenigvuldigd met 1,2.<br>
+a) bestaat het aantal dagen, gepresteerd als tijdelijk aangesteld personeelslid in een betrekking met volledige dienstprestaties, uit al de kalenderdagen gerekend van het begin tot het einde van de ononderbroken activiteitsperiode, met inbegrip van alle vakantieperioden met uitzondering van de zomervakantie, als ze in die activiteitsperiode vallen. Dat aantal wordt vermenigvuldigd met 1,2. In afwijking hiervan bestaat voor het administratief personeel, de administratief medewerker van het beleids- en ondersteunend personeel, de administratief medewerker van het ondersteunend personeel en voor de personeelsleden van de CLB's het aantal dagen gepresteerd als tijdelijk aangesteld personeelslid in een betrekking met volledige dienstprestaties, uit al de kalenderdagen van het begin tot het einde van een ononderbroken activiteitsperiode, met inbegrip van alle vakantieperioden. Dit aantal wordt niet vermenigvuldigd met 1,2.<br>
 <br>
 De dagen, gepresteerd in een andere hoedanigheid dan die van tijdelijk personeelslid in een betrekking met volledige dienstprestaties, worden gerekend vanaf het begin tot het einde van een ononderbroken periode van dienstactiviteit, met inbegrip van alle vakantieperioden;<br>
 <br>
@@ -128,21 +132,23 @@ f) worden als diensten in het gesubsidieerd onderwijs en de centra beschouwd, de
 <br>
 Als diensten worden eveneens beschouwd, de perioden tijdens dewelke het personeelslid zich in de administratieve stand van terbeschikkingstelling bevindt zoals bepaald in artikel 56, a en b;<br>
 <br>
-g) kan gedurende een schooljaar een dienstanciënniteit van maximaal 360 dagen worden verworven.<br>
+g) kan gedurende een schooljaar een dienstanciënniteit van maximaal 360 dagen worden verworven;<br>
 <br>
-§ 2. Voor de berekening van de dienstanciënniteit komen de hiervoor bedoelde diensten enkel in aanmerking indien ze gepresteerd werden in hoofdambt.<br>
+h) tellen de kalenderdagen die gepresteerd zijn als tijdelijk personeelslid tussen 1 juli en 31 augustus in een betrekking van het zomeraanbod, vermeld in artikel 130quater van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, mee om de dienstanciënniteit te berekenen, vermeld in punt a), eerste lid.<br>
 <br>
-§ 3. De regering bepaalt op welke wijze de volgende diensten mee in aanmerking worden genomen voor het berekenen van de dienstanciënniteit in de CLB's in het gesubsidieerd onderwijs:<br>
+§2. Voor de berekening van de dienstanciënniteit komen de hiervoor bedoelde diensten enkel in aanmerking indien ze gepresteerd werden in hoofdambt.<br>
+<br>
+§3. De regering bepaalt op welke wijze de volgende diensten mee in aanmerking worden genomen voor het berekenen van de dienstanciënniteit in de CLB's in het gesubsidieerd onderwijs:<br>
 1° contractueel personeelslid bij een PMS-centrum;<br>
 2° contractueel personeelslid bij een equipe voor medisch schooltoezicht;<br>
 3° gesubsidieerde contractueel;<br>
 4° personeelslid bij een consultatiebureau voor gehandicapten.<br>
 <br>
-§ 4. Voor de toepassing van hoofdstuk III in het deeltijds kunstonderwijs worden de diensten, gepresteerd in het ambt van studiemeester-opvoeder, ook beschouwd als zijnde gepresteerd in het ambt van administratief medewerker.<br>
+§4. Voor de toepassing van hoofdstuk III in het deeltijds kunstonderwijs worden de diensten, gepresteerd in het ambt van studiemeester-opvoeder, ook beschouwd als zijnde gepresteerd in het ambt van administratief medewerker.<br>
 <br>
 Voor de toepassing van hoofdstuk III in het basisonderwijs en in het secundair onderwijs kan de inrichtende macht de diensten die een personeelslid gepresteerd heeft in een wervingsambt in het buitengewoon basis- of buitengewoon secundair onderwijs beschouwen als zijnde gepresteerd in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs. De inrichtende macht kan hierbij voor een personeelslid diensten in aanmerking nemen ten belope van maximaal 290 dagen, berekend volgens paragraaf 1.<br>
 <br>
-§ 5. De prestaties die een personeelslid levert in een betrekking die wordt ingericht op basis van artikel 154, § 2, van het decreet basisonderwijs van 25 februari 1997, artikel 251/1 of artikel 332/1 van de Codex Secundair Onderwijs, artikel 48, § 2, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, artikel 130ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel 82 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs en artikel III.36 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, komen in aanmerking voor de berekening van de dienstanciënniteit volgens de bepalingen van dit artikel.
+§5. De prestaties die een personeelslid levert in een betrekking die wordt ingericht op basis van artikel 154, §2, van het decreet basisonderwijs van 25 februari 1997, artikel 251/1 of 332/1 van de Codex Secundair Onderwijs, artikel 48, §2, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, artikel 130ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel 82 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, artikel 52, §2, van het decreet van 5 mei 2023 over leersteun en artikel 43, §2, van het decreet van 16 juni 2023 over de onderwijsinternaten komen in aanmerking voor de berekening van de dienstanciënniteit volgens de bepalingen van dit artikel.
 
 ### ART. 7.
 
@@ -230,7 +236,11 @@ Dit hoofdstuk geldt voor de personeelsleden vermeld in artikel 4, § 1, met uitz
 
 ### ART. 17sexies.
 
-De inrichtende macht stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br /><br />Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de inrichtende macht deze onkosten vergoeden op voorwaarde dat de directeur of de beheerder van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br /><br />De middelen waarvoor de kosten gedragen worden door de inrichtende macht, blijven eigendom van de inrichtende macht.
+De inrichtende macht stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br>
+<br>
+Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de inrichtende macht deze onkosten vergoeden op voorwaarde dat de directeur van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br>
+<br>
+De middelen waarvoor de kosten gedragen worden door de inrichtende macht, blijven eigendom van de inrichtende macht.
 
 ### ART. 17septies.
 
@@ -238,7 +248,7 @@ De inrichtende macht stelt aan haar personeelsleden de middelen ter beschikking 
 <br>
 Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken met het openbaar vervoer genieten, bij de inlevering van het vervoerbewijs, de volledige betaling van de erop vermelde bedragen. De verplaatsingen per trein worden terugbetaald aan het tarief van een standaardbiljet 2e klas.<br>
 <br>
-§ 2. In afwijking op paragraaf 1 mag de inrichtende macht van 1 januari 2011 tot en met 31 december 2011 het bedrag van de kilometervergoeding beperken tot 70 procent van de kilometervergoeding die jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten en van 1 januari 2012 tot en met 31 december 2012 tot 85 procent van voormelde kilometervergoeding.<br>
+§ 2. ...<br>
 <br>
 § 3. De bepalingen van dit artikel gelden niet als de inrichtende macht een systeem van kilometervergoeding voor dienstverplaatsingen hanteert, dat gunstiger is dan dit vermeld in paragraaf 1 en 2.
 
@@ -249,6 +259,36 @@ Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken me
 Het personeelslid dat in uitvoering van zijn aanstelling werken tot stand   brengt die vallen binnen het toepassingsgebied van zijn ambt of opdracht,   behoudt alle morele rechten op die werken en draagt zijn vermogensrechten over   aan het schoolbestuur.<BR><BR>De vermogensrechten worden zonder specifieke   vergoeding overgedragen, in hun meest volledige wettelijke omvang, voor alle   gekende exploitatievormen en voor de volledige beschermingsduur van de werken.   De inrichtende macht kan deze werken vrij naar eigen inzichten exploiteren en is   niet verplicht tot exploitatie over te gaan.<BR><BR>Indien het werk in de   toekomst geëxploiteerd wordt volgens exploitatievormen die momenteel onbekend   zijn, zal het winstaandeel van het personeelslid gelijk zijn aan het   winstaandeel dat volgens de marktvoorwaarden die gelden op het ogenblik van   exploitatie, toegekend wordt aan auteurs die hun werk volgens dezelfde   exploitatievormen in het gewone commerciële circuit uitgeven.
 
 ## [HOOFDSTUK IISEPTIES FLEXIBELE WERKREGELING (ing. decr. 14 juli 2023, art. 23, I: 1 september 2023)]
+
+### ART 17novies.
+
+Dit hoofdstuk voorziet in de gedeeltelijke omzetting van richtlijn 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad.
+
+### ART 17decies.
+
+Een personeelslid dat aan de voorwaarden voldoet om volgens de geldende regelgeving recht te hebben op loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor mantelzorg of voor palliatieve zorgen, heeft, ongeacht of dat personeelslid die loopbaanonderbreking al of niet opneemt, het recht om voor een aaneengesloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen voor zorgdoeleinden.<br>
+<br>
+Een flexibele werkregeling als vermeld in het eerste lid, is een aanpassing van het bestaande werkpatroon van het personeelslid.
+
+### ART 17undecies.
+
+Het personeelslid dat een flexibele werkregeling wil voor zorgdoeleinden als vermeld in artikel 17novies, bezorgt daarvoor een schriftelijke aanvraag aan de inrichtende macht minstens twee maanden vóór de gewenste begindatum of, als het gaat om een aanvraag voor palliatieve zorgen, minstens twee weken vóór de gewenste begindatum. De voormelde termijnen kunnen in onderling akkoord tussen de inrichtende macht en het personeelslid worden ingekort. De voormelde aanvraag vermeldt de gewenste beginen einddatum en het ingeroepen zorgdoeleinde.<br>
+<br>
+De inrichtende macht heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het eerste lid wordt ingeroepen.
+
+### ART 17duodecies.
+
+De inrichtende macht kan de aanvraag, vermeld in artikel 17undecies, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs en de dienstverlening inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt.<br>
+&nbsp;<br>
+De inrichtende macht bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat de inrichtende macht de voormelde aanvraag heeft ontvangen. Als de inrichtende macht weigert, deelt de inrichtende macht de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid. Het uitblijven van een antwoord van de inrichtende macht of een niet of onvoldoende gemotiveerde weigeringsbeslissing wordt gelijkgesteld met een akkoord.
+
+### ART 17ter decies.
+
+Het personeelslid heeft het recht om na afloop van de flexibele werkregeling, vermeld in artikel 17decies, zijn oorspronkelijke werkpatroon te hervatten.
+
+### ART 17quater decies.
+
+De flexibele werkregeling, vermeld in artikel 17decies, kan vervroegd worden stopgezet. De inrichtende macht kan een opzeggingstermijn vastleggen voor de aanvraag van de stopzetting.
 
 ## HOOFDSTUK III WERVING
 
@@ -262,7 +302,7 @@ Het personeelslid dat in uitvoering van zijn aanstelling werken tot stand   bren
 
 ### ART. 19.
 
-§ 1. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld, als hij op het ogenblik van de aanstelling niet voldoet aan de voorwaarden van&nbsp;artikel V.46, §1, 1°, 2° en 4°, van de Codificatie sommige bepalingen voor het onderwijs en artikel 18, § 1, 1°, 2°, 4°, van de codificatie betreffende het secundair onderwijs, artikel 73, § 1, 1°, 2° en 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, artikel 66, 1°, 2° en 6°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, artikel 24 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding of van artikel 106, § 1, 1°, a), b) en d), van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en daarenboven :<br>
+§ 1. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld, als hij op het ogenblik van de aanstelling niet voldoet aan de voorwaarden van artikel V.45, 1° en 2°, van de Codificatie sommige bepalingen voor het onderwijs, artikel 18, §1, 1° en 2°, van de Codex Secundair Onderwijs van 17 december 2010, artikel 73, §1, 1° en 2°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, artikel 35, §1, 1° en 2°, van het decreet van 16 juni 2023 over de onderwijsinternaten, artikel 66, 1°, 2° en 6°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, artikel 33, eerste lid, 1°, a) en b), van het decreet van 5 mei 2023 over leersteun, artikel 24 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding of van artikel 106, §1, 1°, a) en b), van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en daarenboven :<br>
 1° houder is van een bekwaamheidsbewijs voor het ambt, zoals bedoeld in artikel 5, 8°;<br>
 2° voldoet aan de taalvereisten zoals bepaald in artikel 19bis tot en met 19quinquies;<br>
 3° van onberispelijk gedrag is, zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan een maand tevoren werd afgegeven.<br>
@@ -279,7 +319,7 @@ Een personeelslid voldoet aan de taalvereisten voor de onderwijstaal als zijn aa
 
 § 1. Een personeelslid dat niet in het bezit is van een bekwaamheidsbewijs bedoeld in artikel 19bis, moet met betrekking tot de taalvereisten voor de onderwijstaal voldoen aan de bepalingen van dit artikel.<br>
 <br>
-§ 2. Een personeelslid dat behoort tot het bestuurs- en onderwijzend personeel of tot een pedagogische begeleidingsdienst moet de onderwijstaal minstens beheersen op niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
+§ 2. Een personeelslid dat behoort&nbsp;tot het bestuurs- en onderwijzend personeel, tot het leerondersteunend personeel of tot een pedagogische begeleidingsdienst moet de onderwijstaal minstens beheersen op niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
 <br>
 § 3. Een personeelslid dat behoort tot een andere personeelscategorie dan deze bedoeld in § 2 moet de onderwijstaal minstens beheersen op niveau B2 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
 <br>
@@ -304,7 +344,7 @@ Een personeelslid dat de wettelijk of decretaal verplichte tweede taal onderwijs
 <br>
 § 2. Indien een inrichtende macht moeilijkheden ondervindt om een kandidaat aan te werven die de vereiste taalbekwaamheid bezit, kan ze een kandidaat aanwerven die niet over de vereiste taalbekwaamheid beschikt. Op aanvraag kent de minister bevoegd voor onderwijs aan deze kandidaat een tijdelijke afwijking toe die geldt voor een termijn van 3 jaar, te rekenen vanaf de datum van de eerste aanstelling in een ambt in een personeelscategorie bedoeld in de artikelen 19ter tot en met 19quinquies.<br>
 <br>
-Tijdens voormelde periode van 3 jaar komt het personeelslid dat voormelde afwijking heeft gekregen, niet in aanmerking voor een vaste benoeming of voor een tijdelijke aanstelling van doorlopende duur, tenzij het personeelslid voor het einde van deze periode aan de voorwaarden inzake taalvereisten, bedoeld in artikel 19ter tot en met 19quinquies, voldoet. Voor het personeelslid dat tijdens het schooljaar 2009-2010 op basis van een hiervoor vermelde taalafwijking werd aangesteld in een wervingsambt van het bestuurs- en onderwijzend personeel om een taal te onderwijzen in een opleiding Arabisch richtgraad 1 en 2, Chinees richtgraad 1 en 2, Grieks richtgraad 1 en 2, Japans richtgraad 1 en 2, Pools richtgraad 1 en 2, Russisch richtgraad 1 en 2 of Turks richtgraad 1 en 2 in het studiegebied talen richtgraad 1 en 2, wordt de hiervoor vermelde termijn van 3 jaar met 1 jaar verlengd.
+Tijdens voormelde periode van 3 jaar komt het personeelslid dat voormelde afwijking heeft gekregen, niet in aanmerking voor een vaste benoeming of voor een tijdelijke aanstelling van doorlopende duur, tenzij het personeelslid voor het einde van deze periode aan de voorwaarden inzake taalvereisten, bedoeld in artikel 19ter tot en met 19quinquies, voldoet.&nbsp;
 
 ### ART. 20.
 
@@ -593,7 +633,19 @@ De Vlaamse Regering wordt gemachtigd om specifieke bepalingen uit te werken omtr
 
 ### ART. 24.
 
-§ 1. De inrichtende macht kan een personeelslid dat tijdelijk aangesteld is voor bepaalde duur met een opzeggingstermijn van dertig kalenderdagen ontslaan. De redenen van dit ontslag kunnen enkel en alleen verband houden met een tekortkoming aan zijn plichten.<br /><br />Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27.<br /><br />§ 1bis. Onverminderd § 1 en tot en met 31 augustus 2009 kan een inrichtende macht in het basisonderwijs, het deeltijds kunstonderwijs, de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben en de internaten een personeelslid dat tijdelijk aangesteld is voor bepaalde duur met een opzeggingstermijn van dertig kalenderdagen ontslaan om redenen die verband houden met zijn geschiktheid.<br /><br />Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27.<br /><br />§ 2. Wanneer het personeelslid wiens aanstelling met toepassing van § 1 en § 1bis wordt beëindigd, reeds eerder bij tuchtmaatregel was teruggezet tot de tijdelijke aanstelling, wordt, zo nodig, de duur van de opzeggingstermijn verlengd afhankelijk van het aantal arbeidsdagen die nodig zijn om aanspraak te hebben op de uitkeringen van de werkloosheids- en de verplichte ziekte- en invaliditeitsverzekering. Tijdens deze opzeggingstermijn is artikel 21, § 1, b en f, niet van toepassing.<br /><br />Tijdens deze opzeggingstermijn geniet het personeelslid het brutosalaris van het ambt waarin het, voor zijn terugzetting, vastbenoemd was.<br /><br />Het personeelslid kan geheel of gedeeltelijk afstand doen van deze opzeggingstermijn.
+§ 1. De inrichtende macht kan een personeelslid dat tijdelijk aangesteld is voor bepaalde duur met een opzeggingstermijn van dertig kalenderdagen ontslaan. De redenen van dit ontslag kunnen enkel en alleen verband houden met een tekortkoming aan zijn plichten.<br>
+<br>
+Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27.<br>
+<br>
+§ 1bis. ...<br>
+<br>
+Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27.<br>
+<br>
+§ 2. Wanneer het personeelslid wiens aanstelling met toepassing van § 1 en § 1bis wordt beëindigd, reeds eerder bij tuchtmaatregel was teruggezet tot de tijdelijke aanstelling, wordt, zo nodig, de duur van de opzeggingstermijn verlengd afhankelijk van het aantal arbeidsdagen die nodig zijn om aanspraak te hebben op de uitkeringen van de werkloosheids- en de verplichte ziekte- en invaliditeitsverzekering. Tijdens deze opzeggingstermijn is artikel 21, § 1, b en f, niet van toepassing.<br>
+<br>
+Tijdens deze opzeggingstermijn geniet het personeelslid het brutosalaris van het ambt waarin het, voor zijn terugzetting, vastbenoemd was.<br>
+<br>
+Het personeelslid kan geheel of gedeeltelijk afstand doen van deze opzeggingstermijn.
 
 ### ART. 25.
 
@@ -714,16 +766,9 @@ De vaste benoeming gaat in 1 januari volgend op de vacantverklaring, voor zover 
 <br>
 § 2. De Vlaamse regering kan voor de categorieën van personeelsleden die ze aanwijst, de vaste benoeming afhankelijk maken van een onderwijsopdracht waarvan zij het minimum bepaalt. Bij de vaststelling van de categorieën zal de Vlaamse regering zich inzonderheid laten leiden door de situatie op de arbeidsmarkt en door het aantal wegens ontstentenis van betrekking in deze categorie ter beschikking gestelde vastbenoemde personeelsleden en de specifieke kenmerken van sommige ambten, opleidingen, modules, vakken en specialiteiten.<br>
 <br>
-§ 3. Met ingang van 1 februari 1994 en tot een door de Vlaamse regering te bepalen datum kan een vaste benoeming geen uitwerking hebben ten aanzien van de overheid indien ze wordt uitgesproken:<br>
-- in het voltijds secundair onderwijs in het ambt van leraar met de specialiteit huishoudkunde, de specialiteit kleding en de specialiteit verpleegkunde, ongeacht de graad van de onderwijsvorm en ongeacht of het een technisch of een praktisch vak betreft;<br>
-- in het buitengewoon secundair onderwijs van de opleidingsvormen 1, 2 en 3 in het ambt van leraar algemene en sociale vorming, specialiteit lichamelijke opvoeding;<br>
-- in het buitengewoon secundair onderwijs van de opleidingsvorm 3 in de ambten van leraar beroepsgerichte vorming met de specialiteit gezinstechnieken, de specialiteit kleding en de specialiteit textiel;<br>
-- in het buitengewoon secundair onderwijs van de opleidingsvorm 4 in het ambt van leraar met de specialiteit kleding, de specialiteit gezinstechnieken en de specialiteit textiel, ongeacht of het een technisch of een praktisch vak betreft;<br>
-- in het buitengewoon secundair onderwijs van de opleidingsvorm 4 in het ambt van leraar in het algemeen vak lichamelijke opvoeding, ongeacht de graad en de onderwijsvorm. (Met ingang van 1 februari 1998 heeft de vaste benoeming terug uitwerking t.a.v. de overheid; zie: B.V.R. 9 maart 1999, B.S., 7 mei 1999)<br>
+§ 3. ..<br>
 <br>
-De bepalingen van voorgaand lid zijn niet van toepassing op de wegens ontstentenis van betrekking ter beschikking gestelde personeelsleden die voor een vaste benoeming in aanmerking komen.<br>
-<br>
-§ 4.&nbsp;In afwijking van paragraaf 1, eerste lid, bepaalt de inrichtende macht afzonderlijk voor haar Centra voor Volwassenenonderwijs en voor haar academies voor deeltijds kunstonderwijs jaarlijks op basis van een beleidsplan en na onderhandelingen in het bevoegde lokale onderhandelingscomité welke vacante betrekkingen ze meedeelt in respectievelijk de centra voor volwassenenonderwijs en de academies voor deeltijds kunstonderwijs.<br>
+§ 4.&nbsp;In afwijking van paragraaf 1, eerste lid, bepaalt de inrichtende macht afzonderlijk voor haar centra voor volwassenenonderwijs, voor haar academies voor deeltijds kunstonderwijs en voor haar leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun, jaarlijks op basis van een beleidsplan en na onderhandelingen in het bevoegde lokaal comité welke vacante betrekkingen ze meedeelt in respectievelijk de centra voor volwassenenonderwijs, de academies voor deeltijds kunstonderwijs en de leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 &nbsp;over leersteun.<br>
 <br>
 De inrichtende macht moet de vacante betrekkingen waarover in het bevoegde lokale onderhandelingscomité geen akkoord wordt bereikt, meedelen als het gaat om vacante betrekkingen die gedurende de drie aan het betrokken schooljaar voorafgaande schooljaren ook vacant waren. De inrichtende macht moet alleszins jaarlijks de betrekkingen, vermeld in paragraaf 1, eerste lid, 4°, 5° en 6°, meedelen.
 
@@ -783,7 +828,7 @@ Die vaste benoeming heeft steeds 1&nbsp;januari als ingangsdatum.</p>
 
 ### ART. 36bis.
 
-Deze onderafdeling geldt voor het gewoon en buitengewoon secundair onderwijs, met uitzondering van de internaten.
+Deze onderafdeling geldt voor het gewoon en buitengewoon secundair onderwijs.
 
 ### ART. 36ter.
 
@@ -799,7 +844,13 @@ Deze onderafdeling geldt voor het gewoon en buitengewoon secundair onderwijs, me
 
 ### ART. 36quinquies.
 
-§ 1. De personeelscategorie beleids- en ondersteunend personeel bestaat   uit de wervingsambten die door de Vlaamse Regering worden vastgelegd. <BR><BR>§   2. De ambten bedoeld in § 1 kunnen via voltijdse of deeltijdse betrekkingen   worden ingevuld.<BR><BR>§ 3. ...<BR><BR>§ 4. ...
+§ 1. De personeelscategorie beleids- en ondersteunend personeel bestaat uit de wervings- en selectieambten die door de Vlaamse Regering worden vastgelegd.<br>
+<br>
+§ 2. De ambten bedoeld in § 1 kunnen via voltijdse of deeltijdse betrekkingen worden ingevuld.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. ...
 
 ### ART. 36sexies.
 
@@ -811,7 +862,7 @@ In afwachting dat de Vlaamse regering nieuwe uitvoeringsbesluiten vastlegt voor 
 - de jaarlijkse vakantieregeling;<br>
 - de verlofregeling;<br>
 - de bezoldiging;<br>
-2° de ICT-coördinator, de beleidsondersteuner en de zorgcoördinator de bepalingen die van toepassing zijn voor het onderwijzend personeel met betrekking tot:<br>
+2° de ICT-coördinator, de beleidsondersteuner, de adjunct-directeur en de zorgcoördinator de bepalingen die van toepassing zijn voor het onderwijzend personeel met betrekking tot:<br>
 - de jaarlijkse vakantieregeling;<br>
 - de verlofregeling.
 
@@ -879,7 +930,73 @@ De bepalingen over de inzetbaarheid en de standplaats, vermeld in het eerste en 
 
 ## [AFDELING 9 INZETBAARHEID VAN DE PERSONEELSLEDEN DIE AANGESTELD ZIJN IN EEN AMBT VAN LEERONDERSTEUNEND PERSONEEL IN EEN LEERSTEUNCENTRUM OF EEN LEERSTEUNCENTRUM ALS VERMELD IN ARTIKEL 20, §2, VAN HET DECREET VAN 5 MEI 2023 OVER LEERSTEUN (ing. decr. 5 mei 2023, art. 77, I: 1 september 2023)]
 
+### ART 36novies/3.
+
+Zonder afbreuk te doen aan het principe dat een personeelslid wordt aangesteld in of geaffecteerd aan een instelling, kunnen de personeelsleden die zijn aangesteld in een ambt van het leerondersteunend personeel in een leersteuncentrum of een leersteuncentrum als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun, worden ingezet voor de vervulling van hun opdracht voor en in scholen voor gewoon onderwijs als vermeld in artikel 5, 14°, van het decreet van &nbsp; 5 mei 2023 &nbsp;over leersteun.<br>
+<br>
+Bij de toepassing van het eerste lid worden minstens de volgende principes gehanteerd:<br>
+1°&nbsp;&nbsp; &nbsp;het personeelslid wordt altijd aangesteld in of geaffecteerd aan de instelling waar de betrekking reglementair wordt ingericht;<br>
+2°&nbsp;&nbsp; &nbsp;er wordt altijd rekening gehouden met de statutaire toestand van het personeelslid die conform dit decreet is bepaald.<br>
+<br>
+De bepalingen over de inzetbaarheid, vermeld in het eerste en het tweede lid, worden, met behoud van de toepassing van artikel 20 en 45, opgenomen in de overeenkomst of het besluit waarin de aanstelling wordt vastgesteld, alsook in de functiebeschrijving, vermeld in titel II, hoofdstuk Vbis.
+
 ## [AFDELING 10 ONDERWIJSINTERNATEN (ing. decr. 16 juni 2023, art. 82, I: 1 september 2023)]
+
+### ART 36novies/4.
+
+Met behoud van de toepassing van de principes dat een personeelslid wordt aangesteld of geaffecteerd aan het onderwijsinternaat waar zijn betrekking reglementair wordt opgericht, kan een personeelslid van het ondersteunend personeel ingezet worden in het onderwijsinternaat en in alle vestigingsplaat- sen van dit onderwijsinternaat.<br>
+<br>
+Bij de toepassing van het eerste lid moeten alleszins de volgende principes worden gehanteerd:<br>
+1° de inzetbaarheid van een personeelslid wordt steeds bepaald vanuit de standplaats van het personeelslid;<br>
+2° de standplaats van een personeelslid wordt bepaald in onderling overleg tussen het personeelslid en de inrichtende macht. De standplaats kan enkel worden gewijzigd na een nieuw overleg;<br>
+3° de afstand over de openbare weg tussen de standplaats van het personeelslid en de vestigingsplaats waar het personeelslid bij een wijziging van zijn opdracht wordt ingezet, mag nooit meer dan 25 km bedragen. Dit geldt niet als het personeelslid instemt om over een grotere afstand ingezet te worden of als het personeelslid al een opdracht uitoefent in de vestigingsplaats waar de wijziging plaatsvindt.<br>
+<br>
+De bepalingen over de inzetbaarheid en de standplaats, vermeld in het eerste en het tweede lid, worden, met behoud van de toepassing van artikel 20 en 45, opgenomen in de overeenkomst of het besluit waarin de aanstelling wordt vastgesteld, alsook in de functiebeschrijving, vermeld in titel II, hoofdstuk Vbis, van dit decreet.
+
+## AFDELING 11 MANDAAT VAN LERAAR-SPECIALIST
+
+### ART 36novies/5.
+
+In afwijking van artikel 5, 26°, wordt in deze afdeling verstaan onder leraar: een wervingsambt van het bestuursen onderwijzend personeel in het basisonderwijs en in het secundair onderwijs.<br>
+<br>
+In deze afdeling wordt verstaan onder lesomkadering:<br>
+1° in het gewoon voltijds secundair onderwijs: het totaal van de uren-leraar waar de school dat schooljaar recht op heeft conform artikel 22/19, 22/22, 22/24, 65, 209, 210, 222, 226, 227, 234 en 235 van de Codex Secundair Onderwijs<br>
+van 17 december 2010;<br>
+2° in het buitengewoon secundair onderwijs: het totaal van de lesuren waar de school dat schooljaar recht op heeft conform artikel 22/19, 22/22, 22/24, 65, 298, 318 en 319 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+3° in de centra voor deeltijds onderwijs: het totaal van de uren-leraar waar het centrum dat schooljaar recht op heeft conform artikel 89 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap en conform artikel 22/19, 22/22, 22/24 en 65 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+4° in het gewoon basisonderwijs: het totaal van de lestijden waar de school dat schooljaar recht op heeft conform artikel 132, 134 en 135, artikel 138, §1, eerste lid, 1°, 3°, 3°bis, 8°, 9° en 10°, artikel 141, §2, artikel 173quater, 173quinquies/1 en 146, §2, van het decreet basisonderwijs van 25 februari 1997;<br>
+5° in het buitengewoon basisonderwijs: het totaal van de lestijden waar de school dat schooljaar recht op heeft conform artikel 137bis, 138, §1, eerste lid, 1°, 4°, 6°, 7°, 8°, 9° en 10°, en artikel 146, §2, van het decreet basisonderwijs<br>
+van 25 februari 1997.
+
+### ART 36novies/6.
+
+§1. De inrichtende macht kan een mandaat van leraar-specialist toekennen aan een of meer personeelsleden die aangesteld zijn in een ambt van leraar.<br>
+<br>
+De inrichtende macht kan een opdracht in het mandaat van leraar-specialist, vermeld in het eerste lid, toekennen aan een of meer personeelsleden van een school voor gewoon basisonderwijs, voor buitengewoon basisonderwijs, voor voltijds gewoon secundair onderwijs of voor buitengewoon secundair onderwijs, of van een centrum voor deeltijds onderwijs tot een maximum van 5% van de lesomkadering waar die school of dat centrum dat schooljaar recht op heeft. De opdracht die een personeelslid in het mandaat van leraar-specialist toegewezen krijgt, moet minstens een derde van een voltijdse lesopdracht bedragen. Als het maximum van 5% van de lesomkadering van de school of het centrum minder bedraagt dan een derde van een voltijdse lesopdracht, kan de inrichtende macht in die school of dat centrum aan één personeelslid een mandaat van leraar-specialist toewijzen dat kleiner is dan een derde van een voltijdse lesopdracht en tot een maximum van 5% van de voormelde lesomkadering.<br>
+<br>
+De inrichtende macht onderhandelt over de criteria en de specifieke taken voor de toekenning van het mandaat van leraar-specialist, vermeld in het eerste lid, in het bevoegde lokaal comité. Bij het vaststellen van die criteria en specifieke taken houdt de inrichtende macht rekening met de volgende voorwaarden:<br>
+1° het personeelslid heeft minstens tien jaar dienstanciënniteit verworven in het ambt van leraar waarin het personeelslid het mandaat van leraar-specialist krijgt;<br>
+2° het personeelslid bezit aantoonbare expertise in functie van de specifieke taak of taken die hij toegewezen krijgt of het personeelslid zal die expertise verwerven;<br>
+3° het personeelslid heeft in het ambt van leraar als laatste evaluatie geen evaluatie met eindconclusie “onvoldoende” verkregen.<br>
+<br>
+§2. Het mandaat van leraar-specialist, vermeld in paragraaf 1, wordt toegekend voor drie schooljaren en kan worden verlengd.
+
+### ART 36novies/7.
+
+De inrichtende macht kan een eind maken aan een mandaat van leraar-specialist als vermeld in artikel 36novies/6 met een gemotiveerde opzeg van drie maanden.<br>
+<br>
+In de volgende gevallen maakt de inrichtende macht een eind aan een mandaat van leraar-specialist als vermeld in artikel 36novies/6:<br>
+1° na een definitieve evaluatie met de eindconclusie “onvoldoende” voor het mandaat;<br>
+2° &nbsp; met toepassing van artikel 21, §1, eerste lid, d), g), h), i) en j), en artikel 86. Als met toepassing van artikel 21, §1, eerste lid, d), bij de start van het schooljaar de opdrachten die al zijn toegekend in een mandaat van leraar-specialist als vermeld in artikel 36novies/6, in de school of in het centrum het maximum van 5% van de toegekende lesomkadering van dat schooljaar overschrijden door een daling in de lesomkadering, onderhandelt de inrichtende macht in het lokaal comité over de criteria die gehanteerd zullen worden om te bepalen op welke wijze de voormelde daling wordt toegepast ten aanzien van de personeelsleden die een mandaat van leraar-specialist hebben.<br>
+<br>
+Een personeelslid dat belast is met een mandaat van leraar-specialist als vermeld in artikel 36novies/6, kan op 1 september vrijwillig afzien van dat mandaat. Het personeelslid deelt dat met een aangetekende brief mee aan de inrichtende macht vóór 1 april van hetzelfde jaar. In onderling overleg kan van beide van de voormelde data worden afgeweken.<br>
+&nbsp;
+
+### ART 36novies/8.
+
+Het personeelslid dat het mandaat van leraar-specialist, vermeld in artikel 36novies/6, uitoefent, heeft recht op een niet-verworven salarisschaal voor de opdracht waarvoor het personeelslid met dat mandaat is belast.<br>
+<br>
+De Vlaamse Regering bepaalt de niet-verworven salarisschaal en de voorwaarden voor de toekenning ervan.
 
 ## HOOFDSTUK IV SELECTIE EN BEVORDERING
 
@@ -893,7 +1010,18 @@ De artikelen 38, 39, 40 en 42 van dit hoofdstuk zijn niet van toepassing op het 
 
 ### ART. 37bis.
 
-§ 1. Een volledige betrekking in een selectie- of bevorderingsambt wordt steeds toegekend hetzij aan één personeelslid, hetzij aan twee personeelsleden die elk met een halftijdse betrekking worden belast.<br /><br />§ 2. In afwijking van § 1 kan in het volwassenenonderwijs en in het deeltijds kunstonderwijs een betrekking in een selectieambt worden toegekend aan één of meerdere personeelsleden en een betrekking in een bevorderingsambt aan één of twee personeelsleden.
+§1. Een volledige betrekking in een selectie- of bevorderingsambt wordt steeds toegekend hetzij aan één personeelslid, hetzij aan twee personeelsleden die elk met een halftijdse betrekking worden belast.<br>
+<br>
+§2. In afwijking van § 1 kan in het volwassenenonderwijs en in het deeltijds kunstonderwijs een betrekking in een selectieambt worden toegekend aan één of meerdere personeelsleden en een betrekking in een bevorderingsambt aan één of twee personeelsleden.<br>
+<br>
+§3. Een halftijdse betrekking in een bevorderingsambt in een leersteuncentrum wordt steeds toegekend aan één personeelslid.<br>
+<br>
+In afwijking van paragraaf 1 kan in een leersteuncentrum of een leersteun- centrum als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun een betrekking in een selectieambt worden toegekend aan een of meerdere personeelsleden.<br>
+<br>
+§4. Een halftijdse betrekking in een bevorderingsambt in een onderwijsinternaat wordt steeds toegekend aan één personeelslid.<br>
+<br>
+§5. In afwijking van paragraaf 1 kan in het basisonderwijs een betrekking in een selectieambt worden toegekend aan een of meer personeelsleden.<br>
+&nbsp;
 
 ### ART. 38.
 
@@ -911,9 +1039,9 @@ Een betrekking in de pedagogische begeleidingsdienst komt niet in aanmerking voo
 
 ### ART. 39bis.
 
-§ 1. Dit artikel is van toepassing op een vastbenoemde directeur die titularis is van een volledige betrekking en die gedurende minstens drie opeenvolgende schooljaren voor zijn volledige betrekking gebruik maakt van een of meerdere verlofstelsels zoals vermeld in § 4.<br>
+§1. Dit artikel is van toepassing op een vastbenoemde directeur die titularis is van een volledige betrekking en die gedurende minstens drie opeenvolgende schooljaren voor zijn volledige betrekking gebruik maakt van een of meerdere verlofstelsels zoals vermeld in § 4.<br>
 <br>
-§ 2. Als een vastbenoemde directeur gebruik maakt van een verlofstelsel zoals vermeld in § 4, dan moet de inrichtende macht vóór de aanvang van dat verlofstelsel aan de vastbenoemde directeur meedelen of zij de volledige betrekking waarvan hij titularis is, in de loop van zijn verlof al dan niet als een vacante betrekking zal beschouwen en, desgevallend, na welke tijdsspanne dat zal gebeuren.<br>
+§2. Als een vastbenoemde directeur gebruik maakt van een verlofstelsel zoals vermeld in § 4, dan moet de inrichtende macht vóór de aanvang van dat verlofstelsel aan de vastbenoemde directeur meedelen of zij de volledige betrekking waarvan hij titularis is, in de loop van zijn verlof al dan niet als een vacante betrekking zal beschouwen en, desgevallend, na welke tijdsspanne dat zal gebeuren.<br>
 <br>
 Met de aanvang van een verlofstelsel wordt zowel de aanvang van de eerste aanvraag van een verlofstelsel als de aanvang van een verlenging bedoeld.<br>
 <br>
@@ -923,15 +1051,9 @@ Bij gebrek aan schriftelijke mededeling kan de inrichtende macht de volledige be
 <br>
 Het beschouwen als een vacante betrekking bedoeld in het eerste lid kan slechts plaatsvinden als de betrokken directeur voor een periode van minstens drie opeenvolgende schooljaren voltijds afwezig is geweest omwille van een of meerdere verlofstelsels zoals vermeld in § 4. Om de duur van de betrokken periode te bepalen, wordt alleen rekening gehouden met ononderbroken perioden van afwezigheid vanaf de voor kennisgeving ondertekende mededeling.<br>
 <br>
-§ 3. In afwijking op § 2, en tot en met 1 september 2012, gelden volgende bepalingen voor de vastbenoemde directeur die op 1 september 2009 al afwezig is, omdat hij gebruik maakt van een of meerdere verlofstelsels zoals vermeld in § 4.<br>
+§3. ...<br>
 <br>
-Als een vastbenoemde directeur op 1 september 2009 minstens gedurende de twee voorgaande volledige schooljaren ononderbroken afwezig was, omdat hij gebruik maakte van een of meerdere verlofstelsels zoals vermeld in § 4 en hij ook gedurende het volledige schooljaar 2009-2010 ononderbroken gebruikt maakt van één of meerdere verlofstelsels vermeld in § 4, dan kan de inrichtende macht zijn volledige betrekking vanaf 1 september 2010 als een vacante betrekking beschouwen, maar enkel en alleen als de betrokken directeur daarmee uitdrukkelijk akkoord is. Dat akkoord moet ondubbelzinnig blijken uit een document dat door de betrokken directeur voor akkoord ondertekend wordt.<br>
-<br>
-Als een directeur op 1 september 2009 slechts gedurende het volledige voorgaande schooljaar ononderbroken afwezig was omdat hij gebruik maakte van een of meerdere verlofstelsels zoals vermeld in § 4 en hij ook gedurende de volledige schooljaren 2009-2010 en 2010-2011 ononderbroken gebruikt maakt van een of meerdere verlofstelsels vermeld in § 4, dan kan de inrichtende macht zijn volledige betrekking als een vacante betrekking beschouwen vanaf 1 september 2011 maar enkel en alleen als de betrokken directeur daarmee uitdrukkelijk akkoord is. Dat akkoord moet ondubbelzinnig blijken uit een document dat door de betrokken directeur voor akkoord ondertekend wordt.<br>
-<br>
-Als de in deze paragraaf bedoelde vastbenoemde directeur ook op 1 september 2012 afwezig is of blijft omwille van een of meerdere verlofstelsels zoals vermeld in § 4, dan kan de inrichtende macht vanaf dat ogenblik gebruik maken van de bepalingen van § 2.<br>
-<br>
-§ 4. De in § 1 bedoelde verlofstelsels zijn :<br>
+§4. De in § 1 bedoelde verlofstelsels zijn :<br>
 a) verlof om tijdelijk een andere opdracht uit te oefenen zoals bepaald in het besluit van de Vlaamse Regering van 28 april 1998 tot regeling van de administratieve en geldelijke toestand van bepaalde vastbenoemde personeelsleden van het onderwijs, de psycho-medisch-sociale centra, de pedagogische begeleidingsdiensten, de inspectie en de dienst voor onderwijsontwikkeling, tijdelijk aangesteld of tijdelijk belast met een opdracht waarvoor ze niet vastbenoemd zijn;<br>
 b) verlof voor het uitoefenen van een mandaat dat toegekend wordt aan de algemeen directeur of coördinerend directeur vermeld in het besluit van de Vlaamse Regering van 26 januari 2001 betreffende de mandaten van directeur, algemeen directeur en coördinerend directeur in het niet-tertiair onderwijs;<br>
 c) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater, van dit decreet;<br>
@@ -941,11 +1063,13 @@ f) verlof om een ambt uit te oefenen in een ministerieel kabinet zoals bepaald i
 g) verlof erkende politieke groepen zoals bepaald in het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de staat en van de gemeenschappen en of de gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
 h) politiek verlof zoals bepaald in artikel V.29 en volgende van de Codificatie sommige bepalingen voor het onderwijs;<br>
 i) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
-j) een terbeschikkingstelling wegens persoonlijke aangelegenheden als vermeld in het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs, die een personeelslid tot en met 31 augustus 2017 heeft opgenomen.<br>
+j) ...<br>
 <br>
-§ 5. De directeur wiens betrekking in toepassing van dit artikel als vacant werd beschouwd, blijft na de vacantverklaring van die betrekking in de administratieve en geldelijke toestand die verbonden is aan zijn verlof of terbeschikkingstelling.<br>
+§5. De directeur wiens betrekking in toepassing van dit artikel als vacant werd beschouwd, blijft na de vacantverklaring van die betrekking in de administratieve en geldelijke toestand die verbonden is aan zijn verlof of terbeschikkingstelling.<br>
 <br>
-Op het ogenblik dat de betrokken directeur geen gebruik meer maakt van de in § 4 bedoelde verlofstelsels, wordt hij ter beschikking gesteld wegens ontstentenis van betrekking, tenzij de betrekking waarvan hij titularis was nog niet werd ingenomen door een andere vastbenoemde titularis. In dat geval wordt hij opnieuw titularis van de betrokken betrekking.
+Op het ogenblik dat de betrokken directeur geen gebruik meer maakt van de in § 4 bedoelde verlofstelsels, wordt hij ter beschikking gesteld wegens ontstentenis van betrekking, tenzij de betrekking waarvan hij titularis was nog niet werd ingenomen door een andere vastbenoemde titularis. In dat geval wordt hij opnieuw titularis van de betrokken betrekking.<br>
+<br>
+§6. In afwijking van paragraaf 2 geldt volgende bepaling voor de vastbenoemde directeur in een onderwijsinternaat. Als een vastbenoemde directeur in een onderwijsinternaat op 1 september 2023 minstens gedurende de drie voorgaande volledige schooljaren ononderbroken afwezig was in het ambt van beheerder in een internaat, omdat hij gebruikmaakte van een of meerdere verlofstelsels als vermeld in paragraaf 4, kan de inrichtende macht zijn volledige betrekking vanaf 1 september 2023 als een vacante betrekking beschouwen, maar enkel en alleen als de betrokken directeur daarmee uitdrukkelijk akkoord is. Dat akkoord moet ondubbelzinnig blijken uit een document dat door de betrokken directeur voor akkoord ondertekend wordt.
 
 ### ART. 40.
 
@@ -968,8 +1092,7 @@ c) in afwachting van een vaste benoeming in het selectie- of bevorderingsambt in
 Wanneer het personeelslid tijdelijk in een selectie- of bevorderingsambt wordt aangesteld in een instelling in afwachting van een vaste benoeming, neemt de inrichtende macht uiterlijk op het einde van het tweede volledige schooljaar, een beslissing houdende hetzij vaste benoeming van het personeelslid in het selectie- of bevorderingsambt, indien het op dat ogenblik aan alle voorwaarden van artikel 40 voldoet, hetzij de terugkeer van het personeelslid naar zijn vorig ambt. Indien de inrichtende macht geen beslissing neemt vóór het einde van die periode wordt het personeelslid dat aan alle voorwaarden van artikel 40 voldoet, geacht van ambtswege vast benoemd te zijn in het selectie- of bevorderingsambt, tenzij het voordien schriftelijk te kennen geeft deze benoeming niet te wensen.<br>
 De termijn van twee volledige schooljaren kan worden verlengd wanneer het gaat om :<br>
 1° de bevorderingsambten in éénklassige kleuter-, lagere en bassisscholen, voor zover personeelsleden van de inrichtende macht die aan de benoemingsvoorwaarden voldoen, hiervoor niet hebben gekandideerd;<br>
-2° de bevorderingsambten van beheerder-internaat, voor zover de titularis van dit ambt niet aan de voorwaarden voor benoeming voldoet.<br>
-In afwachting van de vaste benoeming blijft het personeelslid in voorkomend geval titularis van het ambt waarin het vast benoemd is;<br>
+2° ...;<br>
 d) in een vacante betrekking in de pedagogische begeleidingsdienst.<br>
 <br>
 § 1bis. Om tegemoet te komen aan een tekort op de arbeidsmarkt, kan de inrichtende macht een definitief gepensioneerde na de leeftijdsgrens bedoeld in artikel 21, § 1, g), tijdelijk aanstellen in een betrekking in een selectie- of bevorderingsambt bedoeld in § 1, a), b) en d). Deze aanstelling gebeurt met behoud van de toepassing van de bepalingen van dit decreet. Het personeelslid kan niet vast benoemd worden in deze betrekking. De Vlaamse Regering bepaalt de nadere voorwaarden.<br>
@@ -1196,8 +1319,7 @@ Een nieuwe vaste benoeming zoals bepaald in artikel 44quinquies decies/6   is ev
 
 § 1. De mutatie bestaat in het toewijzen bij een andere inrichtende macht van een andere betrekking van het ambt waarin het personeelslid vastbenoemd is. Een mutatie geschiedt niet dan op verzoek van een personeelslid.<br>
 <br>
-§ 2. De nieuwe affectatie bestaat in het toewijzen van een personeelslid aan een instelling of centrum ingericht door dezelfde inrichtende macht in een betrekking van het ambt waarin het personeelslid<br>
-vastbenoemd is. In de instellingen en centra van het gesubsidieerd vrij onderwijs geschiedt de nieuwe affectatie niet dan met akkoord van het personeelslid. Dit akkoord is niet vereist wanneer de nieuwe affectatie geschiedt binnen een pedagogische entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede, en derde graad en eventueel het HBO5 van het secundair onderwijs, die behoort tot dezelfde inrichtende macht en die in hetzelfde gebouwencomplex is gelegen. De criteria en modaliteiten van deze affectatie worden onderhandeld in het bevoegde onderhandelingscomité.<br>
+§ 2. De nieuwe affectatie bestaat in het toewijzen van een personeelslid aan een instelling of centrum ingericht door dezelfde inrichtende macht in een betrekking van het ambt waarin het personeelslid vastbenoemd is. In de instellingen en centra van het gesubsidieerd vrij onderwijs geschiedt de nieuwe affectatie niet dan met akkoord van het personeelslid. Dit akkoord is niet vereist wanneer de nieuwe affectatie geschiedt binnen een pedagogische entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede, en derde graad en eventueel het HBO5 van het secundair onderwijs, die behoort tot dezelfde inrichtende macht en die in hetzelfde gebouwencomplex is gelegen. De criteria en modaliteiten van deze affectatie worden onderhandeld in het bevoegde onderhandelingscomité.<br>
 <br>
 § 3. In afwijking van paragraaf 1 kan een inrichtende macht een personeelslid dat vast benoemd is in het ambt van onderwijzer, in één van de ambten van het beleids- en ondersteunend personeel, in het ambt van kinderverzorger, in het ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester godsdienst of in het ambt van leermeester niet-confessionele zedenleer, op zijn verzoek een mutatie toewijzen in een vacante betrekking in het ambt van kleuteronderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van kleuteronderwijzer.<br>
 <br>
@@ -1211,34 +1333,21 @@ In afwijking van paragraaf 2 kan een inrichtende macht een personeelslid dat vas
 <br>
 In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat vast benoemd is in een wervingsambt in het buitengewoon basisonderwijs of in het buitengewoon secundair onderwijs, mits zijn akkoord een nieuwe affectatie toewijzen in een vacante betrekking in een wervingsambt van het gewoon basisonderwijs of in het gewoon secundair onderwijs, op voorwaarde dat het personeelslid beschikt over een vereist bekwaamheidsbewijs voor dat ambt.<br>
 <br>
-&nbsp;§ 5. In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 1 september 2017 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs en op diezelfde datum belast is met een coördinatieopdracht, mits zijn akkoord op 1 september 2019 een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, behoudt het personeelslid voor het volume van de coördinatieopdracht waarvoor hij op 1 september 2017 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.<br>
+&nbsp;§ 5. ...<br>
 <br>
-In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 1 september 2017 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs en op diezelfde datum belast is met een coördinatieopdracht, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, behoudt het personeelslid voor het volume van de coördinatieopdracht waarvoor hij op 1 september 2017 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.<br>
+§ 6. ...<br>
 <br>
-In afwijking van paragraaf 1 kan de inrichtende macht op 1 september 2020 of op 1 september 2021 een personeelslid op zijn verzoek een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs als het personeelslid aan volgende voorwaarden voldoet :<br>
-1° het personeelslid is op 1 september 2019 overgegaan naar een hogeschool overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-2° het personeelslid was uiterlijk op 1 september 2017 vast benoemd in het ambt van lector in een centrum voor volwassenenonderwijs en was op diezelfde datum belast met een coördinatieopdracht;<br>
-3° het personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor het ambt van leraar secundair volwassenenonderwijs.<br>
-<br>
-Als het personeelslid deze mutatie opneemt, heeft het personeelslid voor het volume van de coördinatieopdracht waarvoor hij op 1 september 2017 vast benoemd was in het ambt van lector in het ambt van leraar secundair volwassenenonderwijs recht op de salarisschaal die verbonden was aan het ambt van lector.<br>
-<br>
-§ 6. In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs en op diezelfde datum belast is met een coördinatieopdracht, mits zijn akkoord op 1 september 2019 een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van stafmedewerker, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt.<br>
-<br>
-In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs en op diezelfde datum belast is met een coördinatieopdracht, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van stafmedewerker, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt.<br>
-<br>
-§ 7. In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs, mits zijn akkoord op 1 september 2019 een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
-<br>
-In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs voor een opdracht van maximum 10 procent van een voltijdse betrekking, mits zijn akkoord op 1 september 2019 een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, behoudt het personeelslid voor het volume van de opdracht waarvoor hij op 31 augustus 2019 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.<br>
-<br>
-In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
-<br>
-In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs voor een opdracht van maximum 10 procent van een voltijdse betrekking, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, behoudt het personeelslid voor het volume van de opdracht waarvoor hij op 31 augustus 2019 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.<br>
+§ 7. ...<br>
 <br>
 § 8. In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat als vermeld in artikel III.20 van de Codificatie sommige bepalingen voor het onder- wijs van 28 oktober 2016 of een internaat gewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 2, van de voormelde codificatie, mits zijn akkoord op 1 september 2023 een nieuwe affectatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitengewoon secundair onderwijs of in een internaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
 <br>
 In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat als vermeld in artikel III.20 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 of een internaat gewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 2, van de voormelde codificatie, op zijn verzoek op 1 september 2023 een mutatie toewijzen in een vacante betrekking in een wervings- ambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitenge- woon secundair onderwijs of in een internaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
 <br>
-Een personeelslid dat niet in het bezit is van een bekwaamheidsbewijs van ten minste hoger secundair onderwijs (ten minste hso) wordt geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor het ambt van administratief medewerker in het basisonderwijs of het secundair onderwijs. Voor het personeelslid blijft de salarisschaal gelden die hem op grond van de reglementering die gold op 31 augustus 2023 werd verleend voor het ambt waarin hij was aangesteld.
+Een personeelslid dat niet in het bezit is van een bekwaamheidsbewijs van ten minste hoger secundair onderwijs (ten minste hso) wordt geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor het ambt van administratief medewerker in het basisonderwijs of het secundair onderwijs. Voor het personeelslid blijft de salarisschaal gelden die hem op grond van de reglementering die gold op 31 augustus 2023 werd verleend voor het ambt waarin hij was aangesteld.<br>
+<br>
+§9. In afwijking van paragraaf 2 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat als vermeld in artikel III.35 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, mits zijn akkoord op 1 september 2023 een nieuwe affectatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitengewoon secundair onderwijs of in een onderwijsinternaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
+<br>
+In afwijking van paragraaf 1 kan de inrichtende macht een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat als vermeld in artikel III.35 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, op zijn verzoek op 1 september 2023 een mutatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitengewoon secundair onderwijs of in een onderwijsinternaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.
 
 ### ART. 46.
 
@@ -1278,14 +1387,14 @@ Mutatie [of een nieuwe affectatie  <span class="reference">(ing. decr. 21 decemb
 <br>
 Een functiebeschrijving moet gezien worden als een constructief en positief beleidsinstrument dat het mogelijk maakt een autonoom personeelsbeleid te voeren gericht op het verstrekken van kwaliteitsvol onderwijs.<br>
 <br>
-&nbsp;§ 2. Een functiebeschrijving is verplicht voor elk personeelslid en wordt door de eerste evaluator ondertekend. Voor de beheerder van een internaat, de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator wordt de functiebeschrijving ondertekend door de inrichtende macht. Voor de directeur, belast met de functie directeur coördinatie-scholengemeenschap, wordt de functiebeschrijving ondertekend door de evaluator aangeduid door de scholengemeenschap. De functiebeschrijving wordt bij de aanstelling overhandigd. Het betrokken personeelslid ondertekent de functiebeschrijving voor kennisname.<br>
+§ 2. Een functiebeschrijving is verplicht voor elk personeelslid en wordt door de eerste evaluator ondertekend. Voor de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB, het leersteuncentrum of het leersteuncentrum, vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun, - de coördinator wordt de functiebeschrijving ondertekend door de inrichtende macht. Voor de directeur, belast met de functie directeur coördinatie-scholengemeenschap, wordt de functiebeschrijving ondertekend door de evaluator aangeduid door de scholengemeenschap. De functiebeschrijving wordt bij de aanstelling overhandigd. Het betrokken personeelslid ondertekent de functiebeschrijving voor kennisname.<br>
 <br>
 § 3. De inrichtende macht of de scholengemeenschap, indien de instelling tot een scholengemeenschap behoort, onderhandelt de algemene afspraken inzake functiebeschrijvingen in het lokaal comité, met dien verstande dat rekening moet worden gehouden met de principes vermeld in dit hoofdstuk.&nbsp;De kerntaken die moeten worden opgenomen in de functiebeschrijvingen kunnen op deze manier per ambt, en desgevallend binnen het ambt per functie, worden vastgelegd.<br>
 <br>
 De inrichtende machten van de CLB's die een regionale ondersteuningscel vormen, maken algemene afspraken over de functiebeschrijvingen, waarbij ze rekening houden met de principes, vermeld in dit hoofdstuk. Over deze afspraken wordt onderhandeld in de respectieve lokale comités van de betrokken CLB's of desgevallend in het lokaal onderhandelingscomité van de netoverstijgende regionale ondersteuningscel als vermeld in artikel 50 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.&nbsp;De kerntaken die moeten worden opgenomen in de functiebeschrijvingen kunnen op deze manier per ambt, en desgevallend binnen het ambt per functie worden vastgelegd.<br>
 <br>
 § 4. De inrichtende macht duidt voor ieder personeelslid twee evaluatoren aan en houdt daarbij rekening met volgende principes :<br>
-1° voor personeelsleden tewerkgesteld in wervingsambten moet één van beide evaluatoren steeds een directeur, een adjunct-directeur of - voor het CLB - een coördinator zijn. Wordt het wervingsambt evenwel uitgeoefend in een internaat, dan moet één van beide evaluatoren steeds de beheerder van dat internaat zijn;<br>
+1° voor personeelsleden tewerkgesteld in wervingsambten moet één van beide evaluatoren steeds een directeur, een adjunct-directeur of - voor het CLB - een coördinator zijn;<br>
 2° voor de eerste evaluator gelden volgende bepalingen :<br>
 - de eerste evaluator moet een personeelslid zijn van de inrichtende macht waarbij het betrokken personeelslid is tewerkgesteld. Deze bepaling is evenwel niet van toepassing voor personeelsleden die tewerkgesteld zijn&nbsp;in een scholengemeenschapsinstelling of ter ondersteuning van of op het niveau van de scholengemeenschap. In dat geval kan de eerste evaluator wel een personeelslid zijn van een andere inrichtende macht van de scholengemeenschap. Deze bepaling is eveneens niet van toepassing voor personeelsleden die tewerkgesteld zijn ter ondersteuning van of op het niveau van de regionale ondersteuningscel. In dat geval kan de eerste evaluator een personeelslid zijn van een andere inrichtende macht van de regionale ondersteuningscel;<br>
 - voor een personeelslid dat aangesteld is in een wervingsambt, moet de eerste evaluator aangesteld zijn in een selectie- of bevorderingsambt. Voor een personeelslid dat aangesteld is in een selectieambt, moet de eerste evaluator aangesteld zijn in een bevorderingsambt. Voor een personeelslid dat aangesteld is in een bevorderingsambt, is de eerste evaluator de directeur;<br>
@@ -1296,7 +1405,11 @@ De inrichtende machten van de CLB's die een regionale ondersteuningscel vormen, 
 - voor een personeelslid dat aangesteld is in het ambt van pedagogisch adviseur is de tweede evaluator een lid van de inrichtende macht;<br>
 - de rol van de tweede evaluator wordt bepaald binnen de algemene afspraken bedoeld in § 3 en in artikel 47novies, maar deze afspraken mogen geen afbreuk doen aan de rol en de taken van de eerste evaluator zoals vastgelegd in dit artikel en in artikel 47decies. Deze afspraken moeten minstens inhouden dat het personeelslid en de eerste evaluator op hun verzoek tijdens de in hoofdstuk Vbis en Vter bedoelde procedure steeds een beroep kunnen doen op de tweede evaluator;<br>
 <br>
-§ 5. In afwijking van paragraaf 4 worden de beheerder van een internaat, de directeur en de adviseur-coördinator van de pedagogische begeleidingsdienst geëvalueerd door de inrichtende macht. De inrichtende macht heeft als voornaamste taak het personeelslid voldoende coaching en begeleiding te bezorgen. Er kan daarbij in delegatie of externe hulp voorzien worden voor de opname van het concrete begeleidingstraject. De inrichtende macht moet regelmatig functioneringsgesprekken houden met het personeelslid. Bovendien heeft het personeelslid op diens verzoek recht op een functioneringsgesprek. Van het functioneringsgesprek kan een verslag worden opgemaakt waarin eventueel persoonsen ontwikkelingsgerichte doelstellingen worden opgenomen.<br>
+§ 5. In afwijking van paragraaf 4 worden de directeur en de adviseur-coördinator van de pedagogische begeleidingsdienst geëvalueerd door de inrichtende macht. De inrichtende macht heeft als voornaamste taak het personeelslid voldoende coaching en begeleiding te bezorgen. Er kan daarbij in delegatie of externe hulp voorzien worden voor de opname van het concrete begeleidingstraject. De inrichtende macht moet regelmatig functioneringsgesprekken houden met het personeelslid. Bovendien heeft het personeelslid op diens verzoek recht op een functioneringsgesprek. Van het functioneringsgesprek kan een verslag worden opgemaakt waarin eventueel persoonsen ontwikkelingsgerichte doelstellingen worden opgenomen.<br>
+<br>
+Als een inrichtende macht in een onderwijsinternaat slechts een halftijdse betrekking in het ambt van directeur opricht, en het betrokken personeelslid deze betrekking van directeur combineert met een betrekking in een wervings- of selectieambt in dezelfde instelling, dan wordt het personeelslid in afwijking van paragraaf 4 voor beide ambten geëvalueerd door de inrichtende macht. Het personeelslid heeft geen tweede evaluator.<br>
+<br>
+Als een inrichtende macht in een leersteuncentrum slechts een halftijdse betrekking van directeur opricht, en het betrokken personeelslid deze betrekking van directeur combineert met een betrekking in een wervings- of selectieambt in dezelfde instelling, wordt het personeelslid in afwijking van paragraaf 4 voor beide ambten geëvalueerd door de inrichtende macht. Het personeelslid heeft geen tweede evaluator.<br>
 <br>
 In afwijking van het eerste lid wordt de directeur, belast met de functie directeur coördinatie-scholengemeenschap, geëvalueerd door de evaluator die in overleg wordt aangeduid door de scholengemeenschap. Hij heeft als voornaamste taak het personeelslid voldoende coaching en begeleiding te bezorgen. Er kan daarbij in delegatie of externe hulp voorzien worden voor de opname van het concrete begeleidingstraject. De evaluator moet regelmatig functioneringsgesprekken houden met het personeelslid. Bovendien heeft het personeelslid op diens verzoek recht op een functioneringsgesprek. Van het functioneringsgesprek kan een verslag worden opgemaakt waarin eventueel persoonsen ontwikkelingsgerichte doelstellingen worden opgenomen.<br>
 <br>
@@ -1308,7 +1421,7 @@ In afwijking van paragraaf 4 wordt het personeelslid dat belast is met het manda
 <br>
 Wie na deze termijn niet aan deze voorwaarde voldoet kan niet evalueren.<br>
 <br>
-§ 8. De functiebeschrijving, die moet vastgelegd worden per ambt en per instelling, bevat de kerntaken van het personeelslid. De kerntaken omvatten de taken eigen aan de functie, de professionalisering, en het overleg en de samenwerking met directie, collega's en desgevallend CLB en ouders. Wanneer zijn kerntaken wijzigen, krijgt het personeelslid een nieuwe functiebeschrijving. Daarbij wordt rekening gehouden met de algemene afspraken die in uitvoering van paragraaf 3 zijn vastgelegd met de bepalingen van het arbeidsreglement en, in het gesubsidieerd vrij onderwijs, met de bepalingen van de arbeidsovereenkomst.<br>
+§ 8. De functiebeschrijving, die moet vastgelegd worden per ambt en per instelling, bevat de kerntaken van het personeelslid. De kerntaken omvatten de taken eigen aan de functie, de professionalisering, en het overleg en de samenwerking met directie, collega's en desgevallend CLB, ouders en leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun. Wanneer zijn kerntaken wijzigen, krijgt het personeelslid een nieuwe functiebeschrijving. Daarbij wordt rekening gehouden met de algemene afspraken die in uitvoering van paragraaf 3 zijn vastgelegd met de bepalingen van het arbeidsreglement en, in het gesubsidieerd vrij onderwijs, met de bepalingen van de arbeidsovereenkomst.<br>
 <br>
 § 9. De functiebeschrijving van de de leerkracht levensbeschouwelijk onderricht moet voor de vakinhoudelijke en vaktechnische aspecten ook het akkoord wegdragen van de bevoegde instantie van de betrokken eredienst of de niet-confessionele zedenleer. Dit akkoord blijkt uit de ondertekening van dit deel van de betrokken functiebeschrijving door een afgevaardigde van de bevoegde instantie.
 
@@ -1329,7 +1442,9 @@ Bij het toewijzen van instellingsgebonden opdrachten aan personeelsleden moet de
 - het opnemen van verantwoordelijkheden die het lesof klasgebeuren overschrijden;<br>
 - het opnemen van een of andere specifieke rol of opdracht;<br>
 - het vervangen van afwezige leraars en aanvullend toezicht houden;<br>
-- vertegenwoordiging in schoolexterne organen.
+- vertegenwoordiging in schoolexterne organen.<br>
+<br>
+§4. Dit artikel is niet van toepassing op personeelsleden aangesteld in een wervingsambt van het leerondersteunend personeel in de leersteuncentra of de leersteuncentra, vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun.
 
 ### ART. 47quater.
 
@@ -1347,7 +1462,7 @@ De kerntaak van de leraar is het lesgeven, in de brede zin van het woord. Het ga
 - de klaseigen leerlingenbegeleiding;<br>
 - de evaluatie van de leerlingen en cursisten;<br>
 - de professionalisering;<br>
-- het overleg en de samenwerking met directie, collega's, en desgevallend CLB en ouders.<br>
+- het overleg en de samenwerking met directie, collega’s, en in voor- komend geval CLB, leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun en ouders.<br>
 <br>
 § 2. Een personeelslid in een wervingsambt van het bestuursen onderwijzend personeel kan belast worden met een specifieke functie op voorwaarde dat de inrichtende macht daarvoor omkaderingsmiddelen aanwendt. In dat geval worden voor dit personeelslid in afwijking van paragraaf 1 - of aanvullend op paragraaf 1 indien het personeelslid belast wordt met zowel een lesopdracht als een specifieke functiespecifieke taken opgenomen in de functiebeschrijving.<br>
 <br>
@@ -1358,7 +1473,13 @@ De criteria die worden gebruikt om voor die specifieke taken al dan niet omkader
 - de klaseigen leerlingenbegeleiding;<br>
 - de evaluatie van de leerlingen;<br>
 - de professionalisering;<br>
-- het overleg en de samenwerking met directie, collega's, CLB en ouders.
+- het overleg en de samenwerking met directie, collega’s, CLB, leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun en &nbsp;ouders.<br>
+<br>
+§4. Voor de wervingsambten van het leerondersteunend personeel wordt bij het vastleggen van de functiebeschrijvingen, onverminderd artikel 47ter, rekening gehouden met het volgende principe: de kerntaak van de leerondersteuner is het bieden van leersteun als vermeld in artikel 7 van het decreet van 5 mei 2023 &nbsp;over &nbsp;leersteun. Hiertoe behoren taken zoals:<br>
+–&nbsp;&nbsp; &nbsp;de planning, voorbereiding en nazorg van leersteun;<br>
+–&nbsp;&nbsp; &nbsp;de leersteun zelf;<br>
+–&nbsp;&nbsp; &nbsp;de professionalisering;<br>
+–&nbsp;&nbsp; &nbsp;het overleg en de samenwerking met directie, collega’s, schoolteams in de scholen voor gewoon onderwijs, ouders en in voorkomend geval CLB, welzijnspartners, andere leersteuncentra of leersteuncentra als vermeld in artikel 20, §2, van het decreet van 5 mei 2023 over leersteun, en andere relevante partners.
 
 ### ART. 47sexies.
 
@@ -1380,6 +1501,8 @@ De criteria die worden gebruikt om voor die specifieke taken al dan niet omkader
 <br>
 Een personeelslid moet geëvalueerd worden op diens volledige functioneren op basis van zijn functiebeschrijving en van de persoonsen ontwikkelingsgerichte doelstellingen in de verslagen van de functioneringsgesprekken.<br>
 <br>
+De resultaten van de Vlaamse toetsen, vermeld in artikel 3, 56°bis, van het decreet basisonderwijs van 25 februari 1997 en in artikel 3, 46°/1, van de Codex Secundair Onderwijs van 17 december 2010, kunnen niet als element gebruikt worden bij de evaluatie van een individueel personeelslid.<br>
+<br>
 § 2. Een personeelslid voor wie geen functiebeschrijving werd opgesteld volgens de bepalingen van hoofdstuk Vbis, voor wie geen persoonsen ontwikkelingsgerichte doelstellingen werden opgenomen in de verslagen van zijn functioneringsgesprekken of voor wie niet in voldoende mate kan aangetoond worden dat de nodige coaching en begeleiding werd voorzien, kan niet worden geëvalueerd. Als aan een personeelslid het verslag van het eerste formele functioneringsgesprek werd overhandigd met daarin de persoonsen ontwikkelingsgerichte doelstellingen van het personeelslid en een duidelijke weergave van de tekortkomingen die zich stellen, moet een termijn van minimum 120 dagen effectieve prestaties gerespecteerd worden - waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, met uitzondering van de zomervakantie - vooraleer een evaluatieverslag met als eindconclusie "onvoldoende" kan overhandigd worden.<br>
 <br>
 § 3. Evaluatoren doen met het oog op de evaluatie zelf een aantal vaststellingen, en kunnen bijkomend een beroep doen op informatie die zij verkregen hebben van derden.
@@ -1392,15 +1515,15 @@ De inrichtende machten van de CLB's die een regionale ondersteuningscel vormen, 
 
 ### ART. 47decies.
 
-§ 1. Met het oog op de evaluatie, zoals bedoeld in artikel 47octies, wordt er een evaluatiegesprek gehouden tussen de eerste evaluator, of de inrichtende macht voor de beheerder van een internaat, de directeur , de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator, en het betrokken personeelslid.<br>
+§ 1. Met het oog op de evaluatie, zoals bedoeld in artikel 47octies, wordt er een evaluatiegesprek gehouden tussen de eerste evaluator, of de inrichtende macht voor de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator, en het betrokken personeelslid.<br>
 <br>
 Het evaluatiegesprek heeft als eerste doel het functioneren van het personeelslid te verbeteren daar waar dit nodig is en het te ondersteunen. Het is niet louter op het verleden gericht. Na het gesprek moeten niet enkel de goede en sterke punten, maar ook de eventueel te verbeteren punten van het personeelslid duidelijk zijn. Het evaluatiegesprek kan bijgevolg aanleiding geven tot het bijsturen naar de toekomst toe en het kan leiden tot nieuwe, duidelijke persoonsen ontwikkelingsgerichte doelstellingen.<br>
 <br>
 § 2. Het evaluatiegesprek, vermeld in § 1, leidt steeds tot een evaluatieverslag.<br>
 <br>
-Dit evaluatieverslag, opgesteld door de eerste evaluator of de inrichtende macht voor de beheerder van een internaat, de directeur , de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator,&nbsp;door de evaluator aangeduid door de scholengemeenschap voor de directeur belast met de functie van directeur coördinatie-scholengemeenschap of door de instantie die met de evaluatie belast is voor het personeelslid belast met het mandaat van coördinerend directeur, beschrijft op zorgvuldige wijze het volledig functioneren van het personeelslid ten opzichte van de functiebeschrijving, met inbegrip van de voor de betrokken evaluatieperiode afgesproken persoons- en ontwikkelingsgerichte doelstellingen en bevat steeds een eindconclusie.<br>
+Dit evaluatieverslag, opgesteld door de eerste evaluator of de inrichtende macht voor de directeur , de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator,&nbsp;door de evaluator aangeduid door de scholengemeenschap voor de directeur belast met de functie van directeur coördinatie-scholengemeenschap of door de instantie die met de evaluatie belast is voor het personeelslid belast met het mandaat van coördinerend directeur, beschrijft op zorgvuldige wijze het volledig functioneren van het personeelslid ten opzichte van de functiebeschrijving, met inbegrip van de voor de betrokken evaluatieperiode afgesproken persoons- en ontwikkelingsgerichte doelstellingen en bevat steeds een eindconclusie.<br>
 <br>
-De eerste evaluator, of de inrichtende macht voor de beheerder van een internaat, de directeur , de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator, ondertekent en dateert het evaluatieverslag en legt het voor aan het betrokken personeelslid. Het personeelslid ondertekent en dateert ter kennisneming en bezorgt het onmiddellijk terug aan de eerste evaluator of de inrichtende macht voor de beheerder van een internaat, de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator. De eerste evaluator bezorgt onmiddellijk een kopie van dit evaluatieverslag aan het personeelslid. De eerste evaluator bezorgt eveneens een kopie van het evaluatieverslag ter kennisneming aan de tweede evaluator en aan de inrichtende macht.<br>
+De eerste evaluator, of de inrichtende macht voor de directeur , de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator, ondertekent en dateert het evaluatieverslag en legt het voor aan het betrokken personeelslid. Het personeelslid ondertekent en dateert ter kennisneming en bezorgt het onmiddellijk terug aan de eerste evaluator of de inrichtende macht voor de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en in voorkomend geval de adjunct-directeur of - voor het CLB - de coördinator. De eerste evaluator bezorgt onmiddellijk een kopie van dit evaluatieverslag aan het personeelslid. De eerste evaluator bezorgt eveneens een kopie van het evaluatieverslag ter kennisneming aan de tweede evaluator en aan de inrichtende macht.<br>
 <br>
 Als het evaluatieverslag de eindconclusie 'onvoldoende' bevat, moet het steeds de beroepsmogelijkheden bevatten.<br>
 <br>
@@ -1473,10 +1596,11 @@ De Vlaamse Regering benoemt de voorzitter en bepaalt de vergoedingen waarop hij 
 § 4. De Vlaamse Regering bepaalt de nadere regelen inzake het secretariaat en de werkingskosten van het college van beroep.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt de nadere regelen betreffende beroepsprocedure en betreffende de werking van de kamers van het college van beroep in het procedurereglement, met dien verstande dat :<br>
-1° op straffe van verval het beroep dient ingesteld te worden binnen een termijn van twintig kalenderdagen volgend op de overhandiging van de kopie van het evaluatieverslag met eindconclusie 'onvoldoende' door de eerste evaluator of door de inrichtende macht voor de beheerder van een internaat, de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en desgevallend de adjunct-directeur of door de evaluator aangeduid door de scholengemeenschap voor de directeur belast met de functie van directeur coördinatie-scholengemeenschap. Als de laatste dag van de voormelde termijn een zondag of een wettelijke feestdag is, wordt de termijn verlengd tot de eerstvolgende werkdag. De voormelde termijn van twintig kalenderdagen kan worden opgeschort tijdens een vakantieperiode.&nbsp;Indien de beroepsmogelijkheden in strijd met artikel 47decies, § 2, niet vermeld zijn in het evaluatieverslag, dan neemt de termijn van twintig kalenderdagen een aanvang vier maanden nadat aan de betrokkene de kopie van het evaluatieverslag met eindconclusie "onvoldoende" werd overhandigd;<br>
+1° op straffe van verval het beroep dient ingesteld te worden binnen een termijn van twintig kalenderdagen volgend op de overhandiging van de kopie van het evaluatieverslag met eindconclusie 'onvoldoende' door de eerste evaluator of door de inrichtende macht voor de directeur, de adviseur-coördinator van de pedagogische begeleidingsdienst en desgevallend de adjunct-directeur of door de evaluator aangeduid door de scholengemeenschap voor de directeur belast met de functie van directeur coördinatie-scholengemeenschap. Als de laatste dag van de voormelde termijn een zondag of een wettelijke feestdag is, wordt de termijn verlengd tot de eerstvolgende werkdag. De voormelde termijn van twintig kalenderdagen kan worden opgeschort tijdens een vakantieperiode.&nbsp;Indien de beroepsmogelijkheden in strijd met artikel 47decies, § 2, niet vermeld zijn in het evaluatieverslag, dan neemt de termijn van twintig kalenderdagen een aanvang vier maanden nadat aan de betrokkene de kopie van het evaluatieverslag met eindconclusie "onvoldoende" werd overhandigd;<br>
 2° het beroep de evaluatie met eindconclusie 'onvoldoende' opschort;<br>
 3° voor het vaststellen van de redenen tot wraking van de voorzitter en de leden zal worden uitgegaan van het bepaalde in artikel 828 van het Gerechtelijk Wetboek;<br>
-4° de rechten van de verdediging tijdens de procedure worden gewaarborgd.
+4° de rechten van de verdediging tijdens de procedure worden gewaarborgd;<br>
+5° een beroep kan worden behandeld volgens de vereenvoudigde procedure als het beroep zonder voorwerp of klaarblijkelijk onontvankelijk is, of als het college van beroep klaarblijkelijk onbevoegd is om van het beroep kennis te nemen.
 
 ## HOOFDSTUK VI ADMINISTRATIEVE STANDEN
 
@@ -1502,7 +1626,7 @@ Het personeelslid verkrijgt onder de door de Vlaamse regering bepaalde voorwaard
 
 ### ART. 51bis.
 
-[De terbeschikkingstellingen wegens bijzondere opdracht toegekend aan de personeelsleden worden omgezet in een verlof wegens opdracht in het belang van het onderwijs op voorwaarde dat<br /><br />- deze terbeschikkingstellingen worden toegekend vóór 1 september 1998; en<br /><br />- dat in het ministerieel besluit dat hen deze terbeschikkingstelling toestond, werd gestipuleerd dat hen een wachtgeld of wachtgeldtoelage zou worden toegekend, die gelijk is aan de activiteitswedde of activiteitstoelage, die ze zouden genoten hebben indien ze in dienst waren gebleven.  <span class="reference">(ing. decr. 18 mei 1999, art. 134, I: 1 september 1998)</span> ]
+...
 
 ### ART. 51ter.
 
@@ -1715,7 +1839,7 @@ Voor de vastbenoemde personeelsleden en voor de tijdelijken met een aanstelling 
 3° het ontslag of de afzetting als gevolg van een tuchtmaatregel volgens artikel 64, 6° of 7°;<br>
 4° de definitieve pensionering;<br>
 5° het einde van de verlenging van de aanstelling zoals voorzien in het tweede lid van dit artikel;<br>
-6° de weigering van een vastbenoemde lector van een centrum voor volwassenenonderwijs om op 1 september 2019 over te gaan naar een hogeschool, zoals bedoeld in artikel 84vicies semel;<br>
+6° ...;<br>
 7° de weigering van een vastbenoemd personeelslid van een internaat om opgenomen te worden in het transitiekader en om aldus op 1 september 2023 over te gaan naar een voorziening conform de regeling, vermeld in artikel 5, §2, van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.<br>
 <br>
 In afwijking van punt 2° geeft het bereiken van de leeftijdsgrens geen aanleiding tot definitieve ambtsneerlegging als het betrokken personeelslid en zijn inrichtende macht overeenkomen de aanstelling te verlengen.<br>
@@ -1853,7 +1977,8 @@ De Vlaamse regering bepaalt de nadere regelen betreffende de werkwijze van de ka
 2° het beroep de tuchtmaatregel opschort;<br>
 3° de aangevatte preventieve schorsing tijdens de beroepsprocedure kan worden verlengd, ook na het verstrijken van de in artikel 67 bedoelde termijn;<br>
 4° voor het vaststellen van de redenen tot wraking van de voorzitter en de leden zal worden uitgegaan van het bepaalde in artikel 828 van het Gerechtelijk Wetboek;<br>
-5° de rechten van de verdediging tijdens de procedure worden gewaarborgd.
+5° de rechten van de verdediging tijdens de procedure worden gewaarborgd;<br>
+6° een beroep kan worden behandeld volgens de vereenvoudigde procedure als het beroep zonder voorwerp of klaarblijkelijk onontvankelijk is, of als de kamer van beroep klaarblijkelijk onbevoegd is om van het beroep kennis te nemen.
 
 ## AFDELING 6 DOORHALING VAN DE TUCHTSTRAFFEN
 
@@ -1884,7 +2009,7 @@ De Vlaamse regering bepaalt de nadere regelen betreffende de werkwijze van de ka
 § 1. Voor de toepassing van dit artikel wordt verstaan onder :<br>
 1° overheveling van een vestigingsplaats :<br>
 a) in het basisonderwijs : een herstructurering zoals vermeld in artikel 3, 22°, van het decreet van 25 februari 1997 basisonderwijs, waarbij een school een vestigingsplaats, zijnde een gedeelte van een school, zoals vermeld in artikel 3, 56°, van hetzelfde decreet, afschaft en een andere school tegelijkertijd op dezelfde locatie een vestigingsplaats opricht;<br>
-b)...;<br>
+b) bij de onderwijsinternaten: een overheveling als vermeld in artikel 46 van het decreet van 16 juni 2023 over de onderwijsinternaten, waarbij een onderwijsinternaat een vestigingsplaats, namelijk een gedeelte van een onderwijsinternaat, afschaft en een ander onderwijsinternaat tegelijkertijd op dezelfde locatie een vestigingsplaats opricht;<br>
 c) in het volwassenenonderwijs : de overheveling van het geheel van het onderwijsaanbod georganiseerd in een vestigingsplaats zoals vermeld in artikel 2, 33°, 40° en 44°, en artikel 65 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 d) in het deeltijds kunstonderwijs: de overheveling van een of meer structuuronderdelen in een bepaalde vestigingsplaats als vermeld in artikel 131 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs;<br>
 2° ...;<br>
@@ -1918,7 +2043,22 @@ Een kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur, die 
 
 ### ART. 74quater.
 
-§ 1. De Vlaamse Regering kan bij het wijzigen van een personeelscategorie, een ambt, een opleiding, een module, een vak, een specialiteit of de classificatie van een vak of specialiteit, ambtshalve concordanties opstellen. Een ambtshalve concordantie is de omzetting van de bestaande benaming van een personeelscategorie, een ambt, een opleiding, een module, een vak. een specialiteit of een classificatie van een vak of specialiteit naar een nieuwe benaming.<br /><br />§ 2. Voor de toepassing van dit artikel kan de Vlaamse Regering de nadere administratieve en geldelijke bepalingen voor de betrokken personeelsleden vastleggen. <br /><br />Het betreft bepalingen inzake : <br />- de prestaties geleverd als tijdelijk personeelslid; <br />- de rechten met betrekking tot de tijdelijke aanstelling van doorlopende duur; <br />- de mededeling van vacante betrekkingen met het oog op een vaste benoeming; <br />- de kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur of een vaste benoeming; <br />- de draagwijdte van de vaste benoeming; <br />- de terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling; <br />- de bekwaamheidsbewijzen; <br />- de salarisschalen;<br />- de nuttige ervaring.<br /><br />§ 3. Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming worden de concordanties die voor 1 september 2005 werden vastgelegd, beschouwd als zijnde vastgelegd overeenkomstig dit artikel.
+§ 1. De Vlaamse Regering kan bij het wijzigen van een personeelscategorie, een ambt, een opleiding, een module, een vak, een specialiteit of de classificatie van een vak of specialiteit, ambtshalve concordanties opstellen. Een ambtshalve concordantie is de omzetting van de bestaande benaming van een personeelscategorie, een ambt, een opleiding, een module, een vak. een specialiteit of een classificatie van een vak of specialiteit naar een nieuwe benaming.<br>
+<br>
+§ 2. Voor de toepassing van dit artikel kan de Vlaamse Regering de nadere administratieve en geldelijke bepalingen voor de betrokken personeelsleden vastleggen.<br>
+<br>
+Het betreft bepalingen inzake :<br>
+- de prestaties geleverd als tijdelijk personeelslid;<br>
+- de rechten met betrekking tot de tijdelijke aanstelling van doorlopende duur;<br>
+- de mededeling van vacante betrekkingen met het oog op een vaste benoeming;<br>
+- de kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur of een vaste benoeming;<br>
+- de draagwijdte van de vaste benoeming;<br>
+- de terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<br>
+- de bekwaamheidsbewijzen;<br>
+- de salarisschalen;<br>
+- de nuttige ervaring.<br>
+<br>
+§ 3. ...
 
 ### ART. 74quinquies
 
@@ -1932,19 +2072,19 @@ Een kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur, die 
 
 ### ART. 76.
 
-§ 1. Bij wijze van overgangsmaatregel:<br /><br />1° worden de voor de datum van inwerkingtreding van dit decreet vast benoemde en daarmee gelijkgestelde gesubsidieerde personeelsleden en, in de gevallen waar de erkenning bestaat, de vastbenoemde en erkende gesubsidieerde personeelsleden, beschouwd als zijnde in vast verband benoemd in de zin van dit decreet;<br /><br />2° worden de gesubsidieerde personeelsleden waarvoor de erkenning van benoeming werd aangevraagd voor de datum van inwerkingtreding van dit decreet beschouwd als definitief erkend en bijgevolg als zijnde in vast verband benoemd in de zin van dit decreet, op voorwaarde dat ze voldeden aan de voorwaarden tot erkenning van hun benoeming en dat de betrekking, waarin de benoeming gedaan werd, op grond van de ter zake geldende reglementering niet langer vatbaar was voor reaffectatie of wedertewerkstelling van een in het gesubsidieerd onderwijs wegens ontstentenis van betrekking ter beschikking gesteld personeelslid. [Deze vaste benoeming heeft uitwerking op de datum waarop de vaste benoeming werd verleend door de inrichtende macht;  <span class="reference">(ing. decr. 21 december 1994, art.24, I: 26 maart 1995)</span> ]<br /><br />3° [...  <span class="reference">(opgeh. decr. 14 februari 2003, art. IX. 82, I: 1 september 2003)</span> ]<br /><br />4° kunnen de gesubsidieerde personeelsleden, die vóór de datum van inwerkingtreding van dit decreet tijdelijk een vacante betrekking in een selectieambt bekleedden, in vast verband benoemd worden in dit ambt indien ze aan de voorwaarden van artikel 40, § 1, 2°, voldoen. Deze benoeming is slechts mogelijk in een betrekking die, op grond van de terzake geldende reglementering, niet vatbaar is voor reaffectatie of wedertewerkstelling van een in het gesubsidieerd onderwijs of in een centrum wegens ontstentenis van betrekking ter beschikking gesteld personeelslid. In afwachting van een benoeming als bedoeld in het vorige lid mogen deze personeelsleden de betrekking die zij in tijdelijk verband bekleedden, verder blijven uitoefenen;<br /><br />5° kunnen de gesubsidieerde personeelsleden, die vóór de datum van inwerkingtreding van dit decreet tijdelijk een vacante betrekking in een bevorderingsambt bekleedden, in vast verband benoemd worden in dit ambt indien ze voldoen aan de voorwaarden van artikel 40, § 1, 2°. Deze benoeming is slechts mogelijk in een betrekking die, op grond van de terzake geldende reglementering, niet vatbaar is voor reaffectatie of wedertewerkstelling van een in het gesubsidieerd onderwijs of in een centrum wegens ontstentenis van betrekking ter beschikking gesteld personeelslid. In afwachting van een benoeming als bedoeld in het vorig lid mogen deze personeelsleden de betrekking die zij in tijdelijk verband bekleedden, verder blijven uitoefenen.<br /><br />§ 2. Het bepaalde van § 1, 3°, 4° en 5° is niet van toepassing op de personeelsleden die een betrekking bekleden die hetzij deel uitmaakt van een instelling, afdeling, vestigingsplaats, graad, cyclus of andere onderverdeling die ingevolge de toepassing van de rationalisatiemaatregelen in progressieve opheffing is, hetzij slechts voor een beperkte duur kan worden gesubsidieerd.<br /><br />§ 3. De personeelsleden voor wie bij de inwerkingtreding van dit decreet weddetoelagen worden uitgekeerd doch die voor een toepassing van het bepaalde in § 1 niet in aanmerking komen worden als tijdelijken in de zin van dit decreet beschouwd, met dien verstande dat na 1 september 1985 gepresteerde gesubsidieerde diensten mede in aanmerking komen voor de berekening van de anciënniteit bedoeld in de artikelen 6, 7, 23, 23bis, 31, § 1, 1° en 35, § 2.  <span class="reference">(verv. decr. 14 februari 2003, art. IX. 82, I: 1 september 2003)</span>
+...
 
 ### ART. 76bis.
 
-<P>De personeelsleden die in het basisonderwijs aangesteld zijn als leermeester   godsdienst belast met anglicaanse godsdienst hebben tot en met 31 augustus 2013   recht op de salarisschaal 121. </P>
+<p>...</p>
 
 ### ART. 76ter.
 
-<P>De personeelsleden die in het gewoon of het buitengewoon secundair onderwijs   aangesteld zijn als godsdienstleerkracht belast met anglicaanse godsdienst,   hebben tot en met 31 augustus 2013 :<BR>1° in de eerste graad en in de tweede   graad van het beroepssecundair onderwijs recht op de salarisschaal 300;<BR>2° in   de tweede graad van het algemeen, technisch en kunstsecundair onderwijs en in de   derde en vierde graad van het beroepssecundair onderwijs recht op de   salarisschaal 384;<BR>3° in de derde graad van het algemeen, technisch en   kunstsecundair onderwijs recht op de salarisschaal 301;<BR>4° in opleidingsvorm   1, 2 en 3 van het buitengewoon secundair onderwijs, recht op de salarisschaal   300;<BR>5° in opleidingsvorm 4 van het buitengewoon secundair onderwijs recht op   dezelfde salarisschaal als in de overeenkomende graad en onderwijsvorm van het   gewoon secundair onderwijs.</P>
+<p>...</p>
 
 ### ART. 76quater.
 
-<P>Onverminderd de krachtens artikel 146 van de Grondwet door de wet   georganiseerde rechtsbescherming zijn de salaristoelagen die op basis van   diensten gepresteerd tot en met 31 augustus 2013, overeenkomstig artikel 76bis   of artikel 76ter van dit decreet, werden uitgekeerd aan godsdienstleerkrachten   belast met anglicaanse godsdienst in het gewoon en buitengewoon basisonderwijs   en het gewoon en buitengewoon secundair onderwijs in hoofde van deze   personeelsleden definitief verworven.</P>
+<p>...</p>
 
 ### ART. 77.
 
@@ -1992,7 +2132,7 @@ b) voor een tijdelijke aanstelling van doorlopende duur in een scholengemeenscha
 
 ### ART 77bis.
 
-§ 1. In afwijking van artikel 23, § 3, heeft een personeelslid op of na 1 september 2019 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als het personeelslid uiterlijk op 30 juni 2019 in dat ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
+§1. In afwijking van artikel 23, § 3, heeft een personeelslid op of na 1 september 2019 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als het personeelslid uiterlijk op 30 juni 2019 in dat ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor betrekkingen in alle instellingen of CLB's van de inrichtende macht waarbij het recht is verworven.<br>
 <br>
@@ -2002,7 +2142,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 2.&nbsp;In afwijking van paragraaf 1, 3, 4, 5, 6, 7 en 9 en van artikel 23, § 3,&nbsp;heeft een personeelslid op of na 1 september 2020 het recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als het personeelslid:<br>
+§2.&nbsp;In afwijking van paragraaf 1, 3, 4, 5, 6, 7 en 9 en van artikel 23, § 3,&nbsp;heeft een personeelslid op of na 1 september 2020 het recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als het personeelslid:<br>
 1° tijdens het schooljaar 2019-2020 in het betrokken ambt aangesteld is in een of meer instellingen of CLB's van dezelfde inrichtende macht;<br>
 2° uiterlijk op 30 juni 2020 in een of meer instellingen of CLB's van dezelfde inrichtende macht in het betrokken ambt gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
 <br>
@@ -2014,7 +2154,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 3.&nbsp;In afwijking van paragraaf 1, 2, 4, 5, 6, 7 en 9 en van artikel 23, § 3,&nbsp;heeft een personeelslid op 1 september recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
+§3.&nbsp;In afwijking van paragraaf 1, 2, 4, 5, 6, 7 en 9 en van artikel 23, § 3,&nbsp;heeft een personeelslid op 1 september recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
 1° na 31 augustus 2019 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht;<br>
 2° uiterlijk op 30 juni 2019 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen en ten hoogste 719 dagen, waarvan 400 effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 3° voor het betrokken ambt geen beoordeling met werkpunten als vermeld in het tweede lid, gekregen hebben van de eerste evaluator. Als het personeelslid uiterlijk op 30 juni van het schooljaar waarin hij tijdelijk is aangesteld geen beoordeling heeft gekregen, wordt die voorwaarde geacht vervuld te zijn.<br>
@@ -2033,7 +2173,7 @@ Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 4. In afwijking van paragraaf 1, 2, 3, 5, 6, 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
+§4. In afwijking van paragraaf 1, 2, 3, 5, 6, 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2020 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt uiterlijk op 30 juni 2020 geen beoordeling met werkpunten, als vermeld in het tweede lid, gekregen hebben van de eerste evaluator. Als het personeelslid uiterlijk op 30 juni 2020 geen beoordeling heeft gekregen, wordt die voorwaarde geacht vervuld te zijn;<br>
 3° tijdens het schooljaar 2020-2021 of later in het betrokken ambt niet tijdelijk aangesteld zijn voor doorlopende duur in een of meer instellingen of CLB's van dezelfde inrichtende macht.<br>
@@ -2044,7 +2184,7 @@ Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 5. In afwijking van paragraaf 1, 2, 3, 4, 6, 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
+§5. In afwijking van paragraaf 1, 2, 3, 4, 6, 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
 1° na 1 september 2019 en uiterlijk op 30 juni 2021 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt na 1 september 2019 en uiterlijk op 30 juni 2021 geen beoordeling met werkpunten gekregen hebben van de eerste evaluator. Als het personeelslid na 1 september 2019 en uiterlijk op 30 juni 2021 geen beoordeling heeft gekregen, wordt deze voorwaarde geacht vervuld te zijn.<br>
 <br>
@@ -2054,7 +2194,7 @@ Om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 6. In afwijking van paragraaf 1 tot en met 5, van paragraaf 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur, zoals bepaald in het tweede lid, voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
+§6. In afwijking van paragraaf 1 tot en met 5, van paragraaf 7 en 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur, zoals bepaald in het tweede lid, voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2021 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt en uiterlijk op 30 juni 2021 een beoordeling met werkpunten gekregen hebben waarin de eerste evaluator oordeelde dat het personeelslid nog niet voldoet om het recht op een tijdelijke aanstelling van doorlopende duur te verwerven;<br>
 3° na 31 augustus 2021 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht.<br>
@@ -2073,7 +2213,7 @@ De inrichtende macht deelt de mogelijkheden van mededeling van de kandidaatstell
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 7. In afwijking van paragraaf 1 tot en met 6, van paragraaf 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
+§7. In afwijking van paragraaf 1 tot en met 6, van paragraaf 9 en van artikel 23, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23, § 5, als hij in een of meer instellingen of CLB's van dezelfde inrichtende macht voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2021 in het betrokken ambt een dienstanciënniteit verworven hebben van ten minste 290 dagen en ten hoogste 579 dagen;<br>
 2° na 31 augustus 2021 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht;<br>
 3° op 30 juni 2022 of later in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
@@ -2097,13 +2237,16 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 8. Het tijdelijke personeelslid dat voor 31 augustus 2021 in een of meer instellingen of CLB's van dezelfde inrichtende macht die niet tot een scholengemeenschap behoren in een ambt reeds dienstanciënniteit heeft verworven en niet voldoet aan de voorwaarden van paragraaf 1 tot en met 7 of van paragraaf 9, kan voor het betrokken ambt het recht op een tijdelijke aanstelling van doorlopende duur enkel verwerven als het personeelslid op of na 1 september 2021 een nieuwe tijdelijke aanstelling krijgt in het betrokken ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht die niet tot een scholengemeenschap behoren en op 30 juni daaropvolgend beantwoordt aan de voorwaarden van artikel 23, § 3. De voormelde dienstanciënniteit die het tijdelijke personeelslid voor 31 augustus 2021 al heeft verworven, geldt daarbij vanaf 1 september 2021 voor de toepassing van artikel 23, § 3.<br>
+§8. Het tijdelijke personeelslid dat voor 31 augustus 2021 in een of meer instellingen of CLB's van dezelfde inrichtende macht die niet tot een scholengemeenschap behoren in een ambt reeds dienstanciënniteit heeft verworven en niet voldoet aan de voorwaarden van paragraaf 1 tot en met 7 of van paragraaf 9, kan voor het betrokken ambt het recht op een tijdelijke aanstelling van doorlopende duur enkel verwerven als het personeelslid op of na 1 september 2021 een nieuwe tijdelijke aanstelling krijgt in het betrokken ambt in een of meer instellingen of CLB's van dezelfde inrichtende macht die niet tot een scholengemeenschap behoren en op 30 juni daaropvolgend beantwoordt aan de voorwaarden van artikel 23, § 3. De voormelde dienstanciënniteit die het tijdelijke personeelslid voor 31 augustus 2021 al heeft verworven, geldt daarbij vanaf 1 september 2021 voor de toepassing van artikel 23, § 3.<br>
 <br>
-§ 9. In afwijking van de paragrafen 1 tot en met 8 en van artikel 23, § 3, verwerft het tijdelijke personeelslid dat op 1 juli 2021 door een inrichtende macht vast benoemd wordt in een ambt volgens artikel 84vicies septies, § 2, 3° of 4°, vanaf 1 september 2021 in dat ambt het recht op een tijdelijke aanstelling van doorlopende duur. Dat recht op een tijdelijke aanstelling van doorlopende duur geldt voor alle instellingen en CLB's van de inrichtende macht die niet behoren tot een scholengemeenschap.
+§9. In afwijking van de paragrafen 1 tot en met 8 en van artikel 23, § 3, verwerft het tijdelijke personeelslid dat op 1 juli 2021 door een inrichtende macht vast benoemd wordt in een ambt volgens artikel 84vicies septies, § 2, 3° of 4°, vanaf 1 september 2021 in dat ambt het recht op een tijdelijke aanstelling van doorlopende duur. Dat recht op een tijdelijke aanstelling van doorlopende duur geldt voor alle instellingen en CLB's van de inrichtende macht die niet behoren tot een scholengemeenschap.<br>
+<br>
+§10. Als een personeelslid in toepassing van paragraaf 1 tot en met 9 in het ambt van leraar het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven en het personeelslid daarna in hetzelfde ambt van leraar dit recht ook wil laten gelden voor een opleiding, een module, een vak of een specialiteit waarvoor hij een voldoend geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan moet dit personeelslid voor die opleiding, die module, dit vak of die specialiteit een dienstanciënniteit verwerven van ten minste 290 dagen, waarvan 200 dagen effectief gepresteerd zijn, als vermeld in artikel 23, §3.<br>
+&nbsp;
 
 ### ART 77ter.
 
-§ 1. In afwijking van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2019 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als het personeelslid uiterlijk op 30 juni 2019 in dat ambt in een of meer instellingen van dezelfde scholengemeenschap gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
+§1. In afwijking van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2019 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als het personeelslid uiterlijk op 30 juni 2019 in dat ambt in een of meer instellingen van dezelfde scholengemeenschap gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
 <br>
 Als het personeelslid het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven in een of meer instellingen van een scholengemeenschap, dan geldt dat recht voor betrekkingen in alle instellingen van die scholengemeenschap.<br>
 <br>
@@ -2115,7 +2258,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 2.&nbsp;In afwijking van paragraaf 1, 3, 4, 5, 6, 7 en 9 en van artikel 23bis, § 3,&nbsp;heeft een personeelslid op of na 1 september 2020 het recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als het personeelslid:<br>
+§2.&nbsp;In afwijking van paragraaf 1, 3, 4, 5, 6, 7 en 9 en van artikel 23bis, § 3,&nbsp;heeft een personeelslid op of na 1 september 2020 het recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als het personeelslid:<br>
 1° tijdens het schooljaar 2019-2020 in het betrokken ambt aangesteld is in een of meer instellingen van dezelfde scholengemeenschap;<br>
 2° uiterlijk op 30 juni 2020 in een of meer instellingen van dezelfde scholengemeenschap gespreid over ten minste drie schooljaren een dienstanciënniteit heeft verworven van ten minste 720 dagen, waarvan 600 effectief gepresteerd, waarbij eveneens worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voorzover deze binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 210 dagen meegerekend als effectief gepresteerde dagen voorzover die dagen binnen de aanstellingsperiode vallen.<br>
 <br>
@@ -2129,7 +2272,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 3.&nbsp;In afwijking van 1, 2, 4, 5, 6, 7 en 9 en van artikel 23bis, § 5,&nbsp;heeft een personeelslid recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
+§3.&nbsp;In afwijking van 1, 2, 4, 5, 6, 7 en 9 en van artikel 23bis, § 5,&nbsp;heeft een personeelslid recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
 1° na 31 augustus 2019 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen van dezelfde scholengemeenschap;<br>
 2° uiterlijk op 30 juni 2019 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen of ten hoogste 719 dagen, waarvan 400 effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 3° voor het betrokken ambt geen beoordeling met werkpunten als vermeld in het tweede lid, gekregen hebben van de eerste evaluator. Als het personeelslid uiterlijk op 30 juni van het schooljaar waarin hij tijdelijk is aangesteld geen beoordeling heeft gekregen, wordt die voorwaarde geacht vervuld te zijn.<br>
@@ -2152,7 +2295,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 4. In afwijking van paragraaf 1, 2, 3, 5, 6, 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
+§4. In afwijking van paragraaf 1, 2, 3, 5, 6, 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2020 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt uiterlijk op 30 juni 2020 geen beoordeling met werkpunten, als vermeld in het tweede lid, gekregen hebben van de eerste evaluator. Als het personeelslid uiterlijk op 30 juni 2020 geen beoordeling heeft gekregen, wordt die voorwaarde geacht vervuld te zijn;<br>
 3° tijdens het schooljaar 2020-2021 of later in het betrokken ambt niet tijdelijk aangesteld zijn voor doorlopende duur in een of meer instellingen van dezelfde scholengemeenschap.<br>
@@ -2167,7 +2310,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 5. In afwijking van paragraaf 1, 2, 3, 4, 6, 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
+§5. In afwijking van paragraaf 1, 2, 3, 4, 6, 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2021 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
 1° na 1 september 2019 en uiterlijk op 30 juni 2021 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt na 1 september 2019 en uiterlijk op 30 juni 2021 geen beoordeling met werkpunten gekregen hebben van de eerste evaluator. Als het personeelslid na 1 september 2019 en uiterlijk op 30 juni 2021 geen beoordeling heeft gekregen, wordt deze voorwaarde geacht vervuld te zijn.<br>
 <br>
@@ -2181,7 +2324,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 6. In afwijking van paragraaf 1 tot en met 5, van paragraaf 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur, zoals bepaald in het tweede lid, voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
+§6. In afwijking van paragraaf 1 tot en met 5, van paragraaf 7 en 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur, zoals bepaald in het tweede lid, voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2021 in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
 2° voor het betrokken ambt en uiterlijk op 30 juni 2021 een beoordeling met werkpunten gekregen hebben waarin de eerste evaluator oordeelde dat het personeelslid nog niet voldoet om het recht op een tijdelijke aanstelling van doorlopende duur te verwerven;<br>
 3° na 31 augustus 2021 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen van dezelfde scholengemeenschap.<br>
@@ -2202,7 +2345,7 @@ Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt
 <br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 7. In afwijking van paragraaf 1 tot en met 6, van paragraaf 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
+§7. In afwijking van paragraaf 1 tot en met 6, van paragraaf 9 en van artikel 23bis, § 3, heeft een personeelslid op of na 1 september 2022 recht op een tijdelijke aanstelling van doorlopende duur voor een ambt, vermeld in artikel 23bis, § 5, als hij in een of meer instellingen van dezelfde scholengemeenschap voldoet aan de volgende voorwaarden:<br>
 1° uiterlijk op 30 juni 2021 in het betrokken ambt een dienstanciënniteit verworven hebben van ten minste 290 dagen en ten hoogste 579 dagen;<br>
 2° na 31 augustus 2021 tijdelijk aangesteld worden in het betrokken ambt in een of meer instellingen van dezelfde scholengemeenschap;<br>
 3° op 30 juni 2022 of later in het betrokken ambt gespreid over ten minste twee schooljaren een dienstanciënniteit verworven hebben van ten minste 580 dagen, waarvan 400 dagen effectief gepresteerd zijn, waarbij de volgende dagen ook worden beschouwd als effectief gepresteerde dagen: zaterdagen, zondagen, wettelijke verlofdagen en schoolvakanties, voor zover die binnen de aanstellingsperiode vallen. Het zwangerschapsverlof en de periode van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte en/of moederschapsbescherming worden tot een maximum van 140 dagen meegerekend als effectief gepresteerde dagen voor zover die dagen binnen de aanstellingsperiode vallen;<br>
@@ -2227,11 +2370,13 @@ Als het personeelslid diensten heeft gepresteerd bij een andere inrichtende mach
 Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, dan geldt dat vanaf dat ogenblik als een over de schooljaren doorlopende kandidatuur voor dat ambt.<br>
 Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de personeelsleden, vermeld in hoofdstuk IVbis, voor wat betreft het volume van hun vastbenoemde opdracht, waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen.<br>
 <br>
-§ 8. Het tijdelijke personeelslid dat in een of meer instellingen van dezelfde scholengemeenschap voor 31 augustus 2021 in een ambt reeds dienstancienniteit heeft verworven en niet voldoet aan de voorwaarden van paragraaf 1 tot en met 7 of van paragraaf 9, kan voor het betrokken ambt het recht op een tijdelijke aanstelling van doorlopende duur enkel verwerven als het personeelslid op of na 1 september 2021 een nieuwe tijdelijke aanstelling krijgt in het betrokken ambt in een of meer instellingen van dezelfde scholengemeenschap en op 30 juni daaropvolgend beantwoordt aan de voorwaarden van artikel 23bis, § 3. De voormelde dienstanciënniteit die het tijdelijke personeelslid voor 31 augustus 2021 al heeft verworven, geldt daarbij vanaf 1 september 2021 voor de toepassing van artikel 23bis, § 3.<br>
+§8. Het tijdelijke personeelslid dat in een of meer instellingen van dezelfde scholengemeenschap voor 31 augustus 2021 in een ambt reeds dienstancienniteit heeft verworven en niet voldoet aan de voorwaarden van paragraaf 1 tot en met 7 of van paragraaf 9, kan voor het betrokken ambt het recht op een tijdelijke aanstelling van doorlopende duur enkel verwerven als het personeelslid op of na 1 september 2021 een nieuwe tijdelijke aanstelling krijgt in het betrokken ambt in een of meer instellingen van dezelfde scholengemeenschap en op 30 juni daaropvolgend beantwoordt aan de voorwaarden van artikel 23bis, § 3. De voormelde dienstanciënniteit die het tijdelijke personeelslid voor 31 augustus 2021 al heeft verworven, geldt daarbij vanaf 1 september 2021 voor de toepassing van artikel 23bis, § 3.<br>
 <br>
-§ 9. In afwijking van de paragrafen 1 tot en met 8 en van artikel 23bis, § 3, verwerft het tijdelijke personeelslid dat op 1 juli 2021 door een inrichtende macht vast benoemd wordt in een ambt volgens artikel 84vicies septies, § 2, 3° of 4°, vanaf 1 september 2021 in dat ambt het recht op een tijdelijke aanstelling van doorlopende duur. Dat recht op een tijdelijke aanstelling van doorlopende duur geldt voor alle instellingen van de scholengemeenschap.<br>
+§9. In afwijking van de paragrafen 1 tot en met 8 en van artikel 23bis, § 3, verwerft het tijdelijke personeelslid dat op 1 juli 2021 door een inrichtende macht vast benoemd wordt in een ambt volgens artikel 84vicies septies, § 2, 3° of 4°, vanaf 1 september 2021 in dat ambt het recht op een tijdelijke aanstelling van doorlopende duur. Dat recht op een tijdelijke aanstelling van doorlopende duur geldt voor alle instellingen van de scholengemeenschap.<br>
 <br>
-§ 10. Voor de toepassing van artikel 31, § 1, 1°, kan een personeelslid dat op 1 januari 2021 door de inrichtende macht deeltijds benoemd is in een ambt, voor een uitbreiding van zijn vaste benoeming op 1 januari 2022 in dat ambt bij deze inrichtende macht, beroep doen op alle prestaties die hij in het ambt heeft verworven bij de betrokken inrichtende macht en op de prestaties die hij in dat ambt heeft verworven bij een andere inrichtende macht, beide voor wat de instellingen betreft die tot dezelfde scholengemeenschap behoren. Dit geldt enkel op voorwaarde dat de betrokken inrichtende macht op 1 januari 2021 geen gebruik heeft gemaakt van de bepaling dat er bij haar een dienstanciënniteit van ten minste 360 dagen, waarvan 240 effectief gepresteerd, moest verworven zijn.
+§10. Voor de toepassing van artikel 31, § 1, 1°, kan een personeelslid dat op 1 januari 2021 door de inrichtende macht deeltijds benoemd is in een ambt, voor een uitbreiding van zijn vaste benoeming op 1 januari 2022 in dat ambt bij deze inrichtende macht, beroep doen op alle prestaties die hij in het ambt heeft verworven bij de betrokken inrichtende macht en op de prestaties die hij in dat ambt heeft verworven bij een andere inrichtende macht, beide voor wat de instellingen betreft die tot dezelfde scholengemeenschap behoren. Dit geldt enkel op voorwaarde dat de betrokken inrichtende macht op 1 januari 2021 geen gebruik heeft gemaakt van de bepaling dat er bij haar een dienstanciënniteit van ten minste 360 dagen, waarvan 240 effectief gepresteerd, moest verworven zijn.<br>
+<br>
+§11. Als een personeelslid in toepassing van paragraaf 1 tot en met 9 in het ambt van leraar het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven en het personeelslid daarna in hetzelfde ambt van leraar dit recht ook wil laten gelden voor een opleiding, een module, een vak of een specialiteit waarvoor hij een voldoend geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan moet dit personeelslid voor die opleiding, die module, dit vak of die specialiteit een dienstanciënniteit verwerven van ten minste 290 dagen, waarvan 200 dagen effectief gepresteerd zijn, als vermeld in artikel 23bis, §3.
 
 ### ART. 78.
 
@@ -2243,15 +2388,15 @@ Het recht op een tijdelijke aanstelling van doorlopende duur geldt niet voor de 
 
 ### ART. 80.
 
-In afwijking op artikel 5, 11°,  <span class="reference">(verv. decr. 28 april 1993, art. 14, I: 1 juni 1991)</span>  en in afwachting dat voor het normaalonderwijs en het middelbaar technisch normaalonderwijs uitvoering wordt verleend aan artikel 10, afdeling 2, van de wet van 7 juli 1970 worden voor de toepassing van dit decreet de selectieambten van het onderwijzend personeel in deze onderwijssectoren als wervingsambten gerangschikt.
+...
 
 ### ART. 81.
 
-Op het ogenblik dat ter uitvoering van het artikel 16, § 2, van de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs, de onderwijsinstellingen van het hoger kunstonderwijs worden ingedeeld onder het hoger onderwijs van het lange type en op het ogenblik dat de rechtspositieregeling voor de personeelsleden van deze onderwijsinstellingen van kracht wordt, worden deze onderwijsinstellingen en hun personeelsleden onttrokken aan het toepassingsgebied van titel II.
+...
 
 ### ART. 82.
 
-In afwachting dat er een statuut voor de personeelsleden van de instellingen van het hoger onderwijs van het lange type wordt uitgevaardigd zijn de bepalingen van titel II van toepassing op de administratieve personeelsleden van deze onderwijsinstellingen.<br /><br />In afwijking van artikel 37 gelden voor de toegang tot de bevorderingsambten van deze personeelsleden eveneens de artikelen 38, 39, 40, §3 en § 4, en 42.  <span class="reference">(ing. decr. 28 april 1993, art. 15, I: 1 januari 1992)</span>
+...
 
 ### ART. 83.
 
@@ -2263,7 +2408,7 @@ In afwachting dat er een statuut voor de personeelsleden van de instellingen van
 
 ### ART. 84bis.
 
-§ 1. De bepalingen inzake functiebeschrijving gelden vanaf 1 september 2007.<br /><br />§ 2. De bepalingen inzake evaluatie gelden voor de personeelsleden van het gewoon en buitengewoon secundair onderwijs, het volwassenenonderwijs en de CLB's vanaf 1 september 2007. Voor de personeelsleden van het basisonderwijs, het deeltijds kunstonderwijs, de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben en de internaten gelden ze vanaf 1 september 2009.
+...
 
 ### ART. 84ter.
 
@@ -2271,7 +2416,7 @@ In afwachting dat er een statuut voor de personeelsleden van de instellingen van
 
 ### ART. 84quater.
 
-In het buitengewoon secundair onderwijs, met uitzondering van de internaten, kunnen vanaf het schooljaar 2006-2007 geen personeelsleden meer tijdelijk worden aangesteld of worden vastbenoemd in betrekkingen in de categorie van het opvoedend hulppersoneel of het administratief personeel. <br />
+...
 
 ### ART. 84quinquies.
 
@@ -2303,15 +2448,15 @@ De Vlaamse regering kan maatregelen nemen ter uitvoering van de overgangsbepalin
 
 ### ART. 84duodecies.
 
-84duodecies. Onverminderd de bepalingen van dit decreet en in afwijking op artikel 30 en artikel 33, § 1, laatste lid, kan een inrichtende macht eenmalig op 1 september 2004 een vaste benoeming uitspreken in een betrekking die wordt ingericht in uren-leraar, lesuren of lestijden die worden toegekend in het kader van het geïntegreerd onderwijs in het basis- en secundair onderwijs en het onthaalonderwijs voor anderstalige nieuwkomers in het gewoon basis- en secundair onderwijs.<br /><br />Deze vaste benoeming kan slechts worden uitgesproken als de inrichtende macht de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstellingen heeft nageleefd tot op het niveau van de instelling waar de vaste benoeming wordt uitgesproken.  <span class="reference">(ing. decr. 7 mei 2004, art. 16, I: 1 april 2004)</span> ]
+...
 
 ### ART. 84terdecies.
 
-§ 1. De prestaties die een personeelslid tussen 1 september 2002 en 31 augustus 2006 geleverd heeft in de specifieke uren-leraar onthaalonderwijs die gebruikt werden voor lesuren Nederlands, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 24 mei 2002 inzake de organisatie van onthaalonderwijs voor anderstalige nieuwkomers in het gewoon secundair onderwijs, kunnen beschouwd worden als gepresteerd in het algemeen vak Nederlands voor nieuwkomers. Hiertoe pleegt de inrichtende macht of haar afgevaardigde overleg met ieder van de betrokken personeelsleden. <br /><br />Als de inrichtende macht of haar afgevaardigde en een personeelslid overeenkomen dat de verrichte prestaties beschouwd worden als prestaties in het algemeen vak Nederlands voor nieuwkomers, dan wordt een individueel concordantieformulier opgesteld. Dit formulier, waaruit ook gedetailleerd blijkt welke prestaties beschouwd worden als prestaties in het algemeen vak Nederlands voor nieuwkomers, wordt ondertekend door de inrichtende macht of haar afgevaardigde en door het betrokken personeelslid. De concordantie heeft dan uitwerking met ingang van 1 september 2006 en moet ingediend worden ten laatste op 15 september 2006. De concordantie is persoonsgebonden en eenmalig. <br /><br />§ 2. Als de inrichtende macht of haar afgevaardigde en een personeelslid terzake geen overeenkomst bereiken, dan deelt de inrichtende macht of haar afgevaardigde de reden hiervan schriftelijk mee aan het betrokken personeelslid. Het personeelslid kan dan bij de Commissie Bezwaarschriften, hierna commissie genoemd, tot uiterlijk twintig kalenderdagen nadat de beslissing van de inrichtende macht hem werd meegedeeld een gemotiveerd bezwaarschrift neerleggen. Het personeelslid kan zich ook tot de commissie wenden als de inrichtende macht nalaat om een beslissing te nemen. In dat geval dient het bezwaarschrift uiterlijk op 5 oktober bij de commissie ingediend te worden. <br /><br />Dat bezwaarschrift houdt in dat het personeelslid een eigen voorstel indient tot concordantie naar het algemeen vak Nederlands voor nieuwkomers op grond van § 1 of dat het personeelslid een voorstel indient om geen concordantie te verkrijgen.<br /><br />De commissie hoort de betrokken partijen. Ze houdt bij haar uitspraak eveneens rekening met de bepalingen van § 1. <br /><br />Als de commissie het bezwaarschrift van het betrokken personeelslid niet aanvaardt, is de door de inrichtende macht gemaakte keuze in hoofde van het personeelslid bindend en definitief vanaf 1 september 2006.<br /><br />Als de commissie het bezwaarschrift van het betrokken personeelslid aanvaardt, is deze beslissing ten aanzien van de inrichtende macht bindend en definitief vanaf 1 september 2006. <br /><br />De commissie bestaat uit de administrateur-generaal van het Agentschap voor Onderwijsdiensten of zijn afgevaardigde en de bevoegde leden van het college van inspecteurs-generaal of hun afgevaardigden. <br /><br />§ 3. De individuele concordantie bedoeld in § 1 heeft voor gevolg dat : <br />1° de diensten, gepresteerd in de specifieke uren-leraar onthaalonderwijs die gebruikt werden voor lesuren Nederlands, worden geacht ook te zijn gepresteerd in het algemeen vak Nederlands voor nieuwkomers; <br />2° voor personeelsleden die vastbenoemd zijn, de draagwijdte van hun vaste benoeming zoals bedoeld in artikel 40bis, § 1, wordt uitgebreid met het algemeen vak Nederlands voor nieuwkomers; <br />3° het recht op een tijdelijke aanstelling van doorlopende duur in de specifieke uren-leraar onthaalonderwijs die gebruikt werden voor lesuren Nederlands, wordt geacht ook te zijn verworven voor het algemeen vak Nederlands voor nieuwkomers; <br />4° een tijdelijke aanstelling van doorlopende duur verworven voor de specifieke uren-leraar onthaalonderwijs die gebruikt werden voor lesuren Nederlands, ook geldt voor het algemeen vak Nederlands voor nieuwkomers; <br />5° een reaffectatie of wedertewerkstelling in de specifieke uren-leraar onthaalonderwijs die gebruikt werden voor lesuren Nederlands, ook blijft gelden als reaffectatie of wedertewerkstelling in het algemeen vak Nederlands voor nieuwkomers. <br /><br />§ 4.De kandidaatstellingen die in toepassing van dit decreet plaatsvonden voor de specifieke uren-leraar onthaalonderwijs voor het schooljaar 2006-2007, worden - waar nodig - geacht gebeurd te zijn voor het algemeen vak Nederlands voor nieuwkomers. <br /><br />§ 5. In afwijking van artikel 33, § 1, deelt de inrichtende macht tijdens het schooljaar 2006-2007 de vacante betrekkingen in de specifieke uren-leraar onthaalonderwijs mee na 15 september 2006 en vóór 15 oktober 2006. De vacante betrekkingen worden vastgesteld op basis van de toestand op 15 september 2006. <br /><br />De vacante betrekkingen in de specifieke uren-leraar onthaalonderwijs die werden meegedeeld vóór 15 mei 2006 op basis van de toestand op 15 april 2006, hebben geen uitwerking. <br />
+...
 
 ### ART. 84quaterdecies.
 
-§ 1. Voor de personeelsleden die in juni 2008 in dienst zijn in een gesubsidieerd internaat als contractueel personeelslid worden de diensten gepresteerd als contractueel personeelslid in een functie van studiemeester-opvoeder in een gesubsidieerd internaat beschouwd als dienstanciënniteit zoals bepaald in artikelen 6, 23, 31, 35, 74 en 77. Deze diensten worden beschouwd alsof zij gepresteerd werden in het ambt van studiemeester-opvoeder in de personeelscategorie van het opvoedend hulppersoneel in een internaat.<br /><br />Een personeelslid kan op basis van deze diensten een dienstanciënniteit van maximaal 720 dagen verwerven.<br /><br />De bepalingen van deze paragraaf zijn niet van toepassing op het contractueel personeelslid dat vóór juni 2008 werd ontslagen, tenzij dit personeelslid na dit ontslag opnieuw wordt aangeworven door de inrichtende macht die het ontslag heeft gegeven.<br /><br />§ 2. Voor de personeelsleden die in juni 2008 in dienst zijn in een gesubsidieerd internaat van het gesubsidieerd officieel onderwijs als tijdelijk personeelslid ten laste van de inrichtende macht worden de diensten gepresteerd als tijdelijk personeelslid ten laste van de inrichtende macht in een functie van studiemeester-opvoeder in een gesubsidieerd internaat beschouwd als dienstanciënniteit zoals bepaald in artikelen 6, 23, 31, 35, 74 en 77. Deze diensten worden beschouwd alsof zij gepresteerd werden in het ambt van studiemeester-opvoeder in de personeelscategorie van het opvoedend hulppersoneel in een internaat.<br /><br />Een personeelslid kan op basis van deze diensten een dienstanciënniteit van maximaal 720 dagen verwerven.<br /><br />De bepalingen van deze paragraaf zijn niet van toepassing op het tijdelijk personeelslid ten laste van de inrichtende macht dat vóór juni 2008 werd ontslagen, tenzij dit personeelslid na dit ontslag opnieuw wordt aangeworven door de inrichtende macht die het ontslag heeft gegeven.<br /><br />§ 3. In afwijking van de bepalingen van hoofdstuk III deelt de inrichtende macht vóór 15 oktober 2008 aan de personeelsleden die de voorwaarden voor vaste benoeming vervullen de vacante betrekkingen mee van studiemeester-opvoeder, die kunnen worden ingericht op basis van artikel 27, § 1, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving en artikel 17, § 1, van de codificatie betreffende het secundair onderwijs. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 september 2008. In een vacante betrekking die op deze wijze werd meegedeeld, kan op 1 januari 2009 worden vastbenoemd.<br /><br />§ 4. In afwijking van de bepalingen van artikel 23, kan het personeelslid bedoeld in § 1 dat een beroep wenst te doen op het recht van een tijdelijke aanstelling van doorlopende duur, op straffe van verlies van zijn recht voor schooljaar 2008-2009, vóór 15 augustus 2008 bij de inrichtende macht kandideren met een ter post aangetekende brief.
+...
 
 ### ART. 84quinquies decies.
 
@@ -2327,35 +2472,11 @@ De salarisschaal, het bekwaamheidsbewijs en de geldelijke anciënniteit die tuss
 
 ### ART. 84octiesdecies.
 
-De vastbenoemde personeelsleden van het Hoger Instituut voor Readaptatiewetenschappen Leuven die bij de overname van de opleiding Sociale readaptatiewetenschappen door de Katholieke Hogeschool Leuven onder de voorwaarden vallen van artikel 307sexies van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap en geen gebruik wensen te maken van dit artikel, blijven personeelslid van het CVO HIRL en worden op het ogenblik van de overdracht van deze opleiding ter beschikking gesteld wegens ontstentenis van betrekking.
+...
 
 ### ART. 84undevicies.
 
-§ 1. Met het oog op een vaste benoeming op 1 oktober 2018 deelt de inrichtende macht volgende betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel mee als vacante betrekkingen :<br>
-1° het deel van de betrekking van een vastbenoemd personeelslid waarvoor dat personeelslid op 1 mei 2018 een verlof wegens verminderde prestaties vanaf de leeftijd van 55 jaar geniet als vermeld in artikel 5, § 1, 3°, van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
-2° het deel van de betrekking van een vastbenoemd personeelslid waarvoor dat personeelslid op 1 mei 2018 een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar geniet als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br>
-<br>
-De mededeling van deze vacante betrekkingen gebeurt voor 10 september 2018.<br>
-<br>
-§ 2. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2021 bijkomend ook betrekkingen als vacante betrekkingen meedelen die beantwoorden aan de volgende voorwaarden :<br>
-1° de betrekking is ingericht in een wervingsambt van het bestuurs- en onderwijzend personeel;<br>
-2° de vastbenoemde titularis van de betrekking, vermeld in punt 1°, is voor zijn volledige opdracht of voor een deel van zijn opdracht voor een volledig schooljaar afwezig omwille van een of meer van volgende verlofstelsels :<br>
-a) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
-b) verlof wegens opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
-c) verlof voor vakbondsopdrachten zoals bepaald in artikel 53 van het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs of zoals bepaald in het koninklijk besluit van 16 december 1981 betreffende het syndicaal verlof in het Gesubsidieerd onderwijs;<br>
-d) verlof om een ambt uit te oefenen in een ministerieel kabinet zoals bepaald in het besluit van de Vlaamse Regering van 28 juli 1995 betreffende het verlof om een ambt uit te oefenen in een ministerieel kabinet van een lid van een gemeenschaps- of gewestregering, van een lid van de Federale Regering of van een gewestelijk staatssecretaris, en bij een secretariaat, de cel algemene beleidscoördinatie en een cel algemeen beleid bij een lid van de Federale Regering door personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;<br>
-e) verlof erkende politieke groepen zoals bepaald in het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de Gemeenschappen en of de Gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
-f) politiek verlof zoals bepaald in artikel 29 tot en met 36bis van het decreet van 28 april 1993 betreffende het onderwijs IV;<br>
-g) verlof voor verminderde prestaties zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
-h) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties.<br>
-<br>
-Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkingen, vermeld in artikel 33, § 1.<br>
-<br>
-§ 3. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2021 bijkomend ook betrekkingen als vacante betrekkingen meedelen die uiterlijk op 15 november 2020 beantwoorden aan de volgende voorwaarden:<br>
-1° betrekkingen in het gewoon secundair onderwijs die de school inricht met uren-leraar die de school in toepassing van artikel 21 van de Codex Secundair Onderwijs van 17 december 2010 of van artikel 90, § 1, 9°, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap tijdens het schooljaar 2019-2020 heeft overgedragen;<br>
-2° betrekkingen die een school voor gewoon secundair onderwijs inricht met uren-leraar die ze heeft ontvangen van een andere school van hetzelfde schoolbestuur of van een ander schoolbestuur binnen hetzelfde net, of volgens artikel 19 of volgens artikel 20 van de Codex Secundair Onderwijs van 17 december 2010.<br>
-<br>
-De inrichtende macht deelt de vacante betrekkingen uiterlijk voor 30 november 2020 mee op de wijze die vermeld is in artikel 33, § 1.
+...
 
 ### ART 84vicies.
 
@@ -2371,114 +2492,27 @@ In afwijking van het eerste lid blijft een personeelslid dat geaffecteerd is aan
 
 ### ART 84viciesbis.
 
-De hierna volgende personeelsleden die op 31 december 2018 aangesteld zijn in een betrekking in een specifieke lerarenopleiding en na de stopzetting van die opleiding overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, naar een hogeschool overgaan, delen uiterlijk op 1 januari 2019 aan de raad van bestuur van het centrum voor volwassenenonderwijs mee of zij na de stopzetting van de specifieke lerarenopleiding aan de hogeschool of de universiteit willen werken die de financiering voor die opleiding overneemt :<br>
-1° de vastbenoemde lector, voor het deel van zijn opdracht waarvoor hij niet ter beschikking is gesteld wegens ontstentenis van betrekking;<br>
-2° de lector die tijdelijk aangesteld is voor doorlopende duur in een vacante betrekking.
+...
 
 ### ART 84viciester.
 
-§ 1. De bevoegde dienst van het Ministerie van Onderwijs en Vorming bezorgt ieder centrum voor volwassenenonderwijs dat een hbo5-opleiding of een specifieke lerarenopleiding aanbiedt, uiterlijk op 1 januari 2019 een nominatieve lijst van de volgende personeelsleden van het centrum :<br>
-1° de lectoren die aan de hbo5-opleiding verbonden zijn;<br>
-2° de lectoren die aan de specifieke lerarenopleiding verbonden zijn;<br>
-3° de leden van het bestuurs- en ondersteunend personeel.<br>
-<br>
-In afwijking van het eerste lid worden de personeelsleden met een terbeschikkingstelling voorafgaand aan het rustpensioen niet op de personeelslijst opgenomen.<br>
-<br>
-Er wordt voor elk van de in het eerste lid vermelde groepen een aparte personeelslijst opgemaakt. Voor de in het eerste lid, 1° en 2°, vermelde groepen worden twee deellijsten gemaakt, met name :<br>
-1° een deellijst voor de personeelsleden die overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, overgenomen worden door een hogeschool;<br>
-2° een deellijst voor de personeelsleden die overeenkomstig de regeling, vermeld in artikel V.206/4 van de Codex Hoger Onderwijs van 11 oktober 2013, zonder openbare vacature en vergelijkende selectieprocedure door een hogeschool kunnen overgenomen worden. De vastbenoemde personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking in het ambt van lector worden op de tweede deellijst opgenomen.<br>
-<br>
-§ 2. Een in paragraaf 1 vermelde lijst bevat de volgende gegevens :<br>
-1° de voor- en achternaam;<br>
-2° het stamboeknummer;<br>
-3° het ambt en de daaraan verbonden salarisschaal;<br>
-4° het statuut (vastbenoemd, terbeschikking gesteld wegens ontstentenis van betrekking, tijdelijk aangesteld voor doorlopende duur, tijdelijk aangesteld voor bepaalde duur);<br>
-5° de aanduiding `titularis' of `vervanger van een titularis';<br>
-6° de omvang van de opdracht in de opleiding op 31 december 2018;<br>
-7° de werkelijk uitgeoefende omvang van de betrekking op 31 december 2018 met vermelding van het eventuele verlofstelsel.
+...
 
 ### ART 84viciesquater.
 
-Ieder centrum voor volwassenenonderwijs verifieert de door het Ministerie van Onderwijs en Vorming bezorgde lijst. Het centrum stuurt de lijst voor 1 februari 2019 naar het Ministerie van Onderwijs en Vorming terug met de volgende vermeldingen :<br>
-1° rechtzettingen van administratieve onjuistheden van de bezorgde gegevens;<br>
-2° de vastbenoemde personeelsleden die niet naar een hogeschool willen overgaan overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-3° de dienstanciënniteit van de personeelsleden;<br>
-4° op de lijst met de vastbenoemde lectoren en lectoren met een tijdelijke aanstelling van doorlopende duur in een vacante betrekking aan een specifieke lerarenopleiding : de voorkeur van het personeelslid om over te gaan naar de hogeschool of de universiteit die de financiering van de specifieke lerarenopleiding overneemt.
+...
 
 ### ART 84viciesquinquies.
 
-De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een hbo5-opleiding aanbiedt en aan de hogeschool waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 1° en 3°, vermelde personeelsleden.<br>
-<br>
-De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een specifieke lerarenopleiding aanbiedt en aan de hogeschool en universiteit waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 2° en 3°, vermelde personeelsleden.
+...
 
 ### ART 84viciessexies.
 
-§ 1. In afwijking van artikel 33, moet de inrichtende macht met het oog op een vaste benoeming op 1 juli 2021, voor 15 juni 2021 aan de personeelsleden van haar instellingen de vacante betrekkingen meedelen. Behoort een instelling tot een scholengemeenschap dan deelt de inrichtende macht van die instelling de vacante betrekkingen in haar instellingen die behoren tot die scho- lengemeenschap mee aan de personeelsleden van de scholengemeenschap. De mededeling van de vacante betrekkingen omvat:<br>
-1° alle vacante betrekkingen in de betrokken instelling of instellingen op 15 mei 2021;<br>
-2° eventueel de betrekkingen die in de periode van 15 mei tot en met 1 juli 2021 vacant zullen worden ten gevolge van de pensionering of de terbeschikkingstelling voorafgaand aan het rustpensioen van de titularis. De inrichtende macht kan deze betrekkingen eveneens meedelen als vacante betrekking met het oog op een vaste benoeming;<br>
-3° de betrekking van een vastbenoemd personeelslid dat uiterlijk op 15 mei 2021 in toepassing van artikel V.75, § 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ter beschikking wordt gesteld wegens ontstentenis van betrekking. Op het ogenblik van deze terbeschikkingstelling wordt de betrekking waar het personeelslid titularis van is een vacante betrekking;<br>
-4° het deel van de betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 een verlof wegens verminderde prestaties vanaf de leeftijd van 55 jaar geniet als vermeld in artikel 5, § 1, 3°, van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
-5° het deel van de betrekking in een wervingsambt van het bestuurs- en onder- wijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar geniet als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingen- begeleiding;<br>
-6° de betrekking of het deel van de betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel van een vastbenoemd personeelslid waarvoor dat personeelslid op 15 mei 2021 van dat schooljaar voor een volledig schooljaar afwezig is omwille van een of meer van volgende verlofstelsels:<br>
-a) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
-b) verlof wegens opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
-c) verlof voor vakbondsopdrachten zoals bepaald in artikel 53 van het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs of zoals bepaald in het koninklijk besluit van 16 december 1981 betreffende het syndicaal verlof in het Gesubsidieerd onderwijs;<br>
-d) verlof om een ambt uit te oefenen in een ministerieel kabinet zoals bepaald in het besluit van de Vlaamse Regering van 28 juli 1995 betreffende het verlof om een ambt uit te oefenen in een ministerieel kabinet van een lid van een Gemeenschaps- of Gewestregering, van een lid van de Federale Regering of van een gewestelijk staatssecretaris, en bij een secretariaat, de cel algemene beleidscoördinatie en een cel algemeen beleid bij een lid van de Federale Regering door personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;<br>
-e) verlof erkende politieke groepen zoals bepaald in het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de Gemeenschappen en of de Gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
-f) politiek verlof zoals bepaald in artikel 29 tot en met artikel 36bis van het decreet van 28 april 1993 betreffende het onderwijs IV;<br>
-g) verlof voor verminderde prestaties zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
-h) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties.<br>
-<br>
-De mededeling van de vacante betrekkingen bevat een duidelijke omschrijving van de aangeboden betrekkingen en vermeldt de vorm waarin en de termijn waarbinnen een personeelslid moet kandideren, evenals de voorwaarden om in aanmerking te komen voor een vaste benoeming. Dit bericht wordt aan alle in het eerste lid bedoelde personeelsleden meegedeeld en openbaar gemaakt.<br>
-<br>
-§ 2. In afwijking van paragraaf 1, eerste lid, bepaalt de inrichtende macht afzonder- lijk voor haar centra voor volwassenenonderwijs jaarlijks op basis van een beleids- plan en na onderhandelingen in het bevoegde lokale onderhandelingscomité welke vacante betrekkingen ze meedeelt.<br>
-<br>
-De inrichtende macht moet de vacante betrekkingen waarover in het bevoegde lokale onderhandelingscomité geen akkoord wordt bereikt, meedelen als het gaat om vacante betrekkingen die gedurende de drie aan het betrokken schooljaar voorafgaande schooljaren ook vacant waren. De inrichtende macht moet met het oog op de vaste benoeming op 1 juli 2021 alleszins de betrekkingen, vermeld in paragraaf 1, eerste lid, 4°, 5° en 6°, meedelen.
+...
 
 ### ART 84viciessepties.
 
-§ 1. In afwijking van artikel 31 kan een inrichtende macht een personeelslid op 1 juli 2021 vast benoemen in een ambt in een vacant ver- klaarde betrekking als vermeld in artikel 84vicies sexies, als dat personeelslid op het ogenblik van de vaste benoeming voldoet aan de voorwaarden van artikel 19 en hij, rekening houdend met artikel 77, daarenboven:<br>
-1° op 31 mei 2021 ten minste 360 dagen dienstanciënniteit heeft verworven in het bedoelde ambt in een of meer instellingen van de inrichtende macht. Als het een leraar betreft in het bezit van een voldoend geacht bekwaamheidsbewijs moeten de 360 dagen gepresteerd zijn in het vak of de specialiteit van de vacant verklaarde betrekking;<br>
-2° zich kandidaat heeft gesteld in de vorm en binnen de termijn, vermeld in de oproep tot de kandidaten;<br>
-3° op 30 juni 2021 in een instelling van de inrichtende macht waar hij de in punt 1° vereiste dienstanciënniteit heeft verworven, tijdelijk is aangesteld in het ambt waarvoor hij zich kandidaat heeft gesteld. Behoort de instelling waar het personeelslid tijdelijk is aangesteld niet tot een scholengemeenschap, dan vervult het personeelslid deze voorwaarde voor alle instellingen van de inrichtende macht die niet tot een scholengemeenschap behoren. Behoort de instelling waar het personeelslid tijdelijk is aangesteld tot een scholengemeenschap, dan vervult het personeelslid deze voorwaarde voor alle instellingen van de inrichtende macht in de scholengemeenschap. Is het personeelslid op 30 juni 2021 aangesteld in het ambt van leraar met een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, dan geldt dit als een aanstelling in dat ambt voor alle opleidingen, modules of vakken en specialiteiten waarvoor dat vereiste bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, geldt. Is het personeelslid op<br>
-30 juni 2021 aangesteld in het ambt van leraar met een voldoend geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, in een opleiding, module, vak of specialiteit dan geldt dit als een aanstelling in dat ambt voor die opleiding, die module, dat vak of die specialiteit en daarenboven ook voor alle opleidingen, modules, vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. Voor het personeelslid dat werd aangesteld bij wijze van reaffectatie of wedertewerkstelling en voor het personeelslid bedoeld in hoofdstuk IVbis voor wat betreft het volume van zijn opdracht waarvoor hij is vast benoemd en waarvoor hij een verlof heeft verkregen om tijdelijk een andere opdracht uit te oefenen, moeten, voor zover hij het ambt van leraar uitoefent, de 360 dagen dienstanciënniteit verworven zijn in de opleiding, de module, het vak of de specialiteit van de vacant verklaarde betrekking;<br>
-4° als laatste evaluatie in het betrokken ambt geen evaluatie met de eindconclusie "onvoldoende" verkregen heeft bij de inrichtende macht waar de vacante betrekking zich situeert. Als het personeelslid de evaluatie met eindconclusie "onvoldoende" kreeg in een instelling van de inrichtende macht die behoort tot een scholengemeenschap, dan geldt deze bepaling voor alle instellingen van deze inrichtende macht die behoren tot deze scholengemeenschap. Als het personeelslid de evaluatie met eindconclusie "onvoldoende" kreeg in een instelling van de inrichtende macht die niet behoort tot een scholengemeenschap, dan geldt deze bepaling voor alle instellingen van deze inrichtende macht die niet behoren tot een scholengemeenschap. Als het personeelslid niet werd geëvalueerd, wordt deze voorwaarde geacht voldaan te zijn.<br>
-<br>
-De vaste benoeming is slechts mogelijk als het personeelslid de betrekking in hoofdambt uitoefent.<br>
-<br>
-§ 2.Als er meerdere personeelsleden zijn die zich kandidaat stellen voor vaste benoeming in eenzelfde betrekking moet de inrichtende macht, onverminderd artikel 35, § 2 en § 3, bij de toewijzing van de vaste benoeming in die betrekking de volgende volgorde respecteren:<br>
-1° de personeelsleden die bij de inrichtende macht deeltijds benoemd zijn in het ambt;<br>
-2° de tijdelijke personeelsleden die bij de inrichtende macht uiterlijk op 30 juni 2021 in het ambt tijdelijk aangesteld zijn voor doorlopende duur;<br>
-3° de tijdelijke personeelsleden die uiterlijk op 31 mei 2021 in het ambt ten minste 580 dagen dienstanciënniteit hebben verworven in een of meer instellingen van de inrichtende macht of desgevallend in een of meer instellingen van dezelfde scholengemeenschap. Voor het bepalen van deze 580 dagen dienstanciënniteit wordt, in afwijking van artikel 6, § 1, a), het aantal gepresteerde dagen niet met 1,2 vermenigvuldigd. De inrichtende macht kan beslissen om een tijdelijk personeelslid dat voldoet aan deze voorwaarde niet vast te benoemen, als het personeelslid in het ambt uiterlijk op 30 juni 2021 van de eerste evaluator een beoordeling met werkpunten heeft gekregen. De inrichtende macht deelt de weigering via een schriftelijke motivatie mee aan het personeelslid. Dit geldt ook als het tijdelijk personeelslid de enige kandidaat is voor de vacant verklaarde betrekking;<br>
-4° de tijdelijke personeelsleden die uiterlijk op 31 mei 2021 in het ambt waarvoor ze zich kandidaat stellen ten minste 360 dagen dienstanciënniteit hebben verworven in een of meer instellingen van de inrichtende macht. De inrichtende macht kan beslissen om een tijdelijk personeelslid dat voldoet aan deze voorwaarde niet vast te benoemen, op voorwaarde dat het personeelslid dan een schriftelijke motivatie krijgt waarin de inrichtende macht opneemt om welke redenen ze de vaste benoeming weigert. Dit geldt ook als het tijdelijk personeelslid de enige kandidaat is voor de vacant verklaarde betrekking.<br>
-<br>
-De inrichtende macht kan binnen elke groep, vermeld in het eerste lid, bij- komende criteria bepalen om een vaste benoeming toe te kennen. Deze criteria worden onderhandeld in het daartoe bevoegde lokaal onderhandelingscomité.<br>
-<br>
-§ 3. In de instellingen van het gesubsidieerd vrij onderwijs wordt elke benoeming in een wervingsambt en elke wijziging ervan schriftelijk vastgesteld. De overeenkomst vermeldt ten minste:<br>
-1° de benaming en het adres van de inrichtende macht en van de instelling waarin het personeelslid tewerkgesteld wordt;<br>
-2° de identiteit van het personeelslid;<br>
-3° het uit te oefenen ambt en de omvang van de opdracht;<br>
-4° in voorkomend geval, het pedagogisch project, de aanvullende verplichtingen en onverenigbaarheden.<br>
-<br>
-De overeenkomst van benoeming wordt opgemaakt in ten minste twee exemplaren, waarvan één bestemd voor het personeelslid.<br>
-<br>
-§ 4. In de instellingen van het gesubsidieerd officieel onderwijs wordt elke benoeming in een wervingsambt en elke wijziging ervan vastgesteld bij besluit van de inrichtende macht. Het besluit vermeldt ten minste:<br>
-1° de benaming en het adres van de inrichtende macht en van de instelling waarin het personeelslid tewerkgesteld wordt;<br>
-2° de identiteit van het personeelslid;<br>
-3° het uit te oefenen ambt en de omvang van de opdracht;<br>
-4° in voorkomend geval, het pedagogisch project, de aanvullende verplichtingen en onverenigbaarheden.<br>
-<br>
-Een afschrift van dit besluit wordt meegedeeld aan het betrokken personeelslid.<br>
-<br>
-§ 5. Bij ontstentenis van hetzij de schriftelijke overeenkomst bedoeld in paragraaf 3, hetzij het besluit bedoeld in paragraaf 4, wordt het personeelslid geacht vast benoemd te zijn voor het ambt, voor de opdracht en in de betrekking die het werkelijk uitoefent.<br>
-<br>
-§ 6. Het personeelslid wordt benoemd bij een inrichtende macht en geaffecteerd aan een instelling van deze inrichtende macht.<br>
-<br>
-§ 7. De Vlaamse Regering bepaalt de regels volgens welke de vaste benoeming, de nieuwe affectatie en de mutatie worden meegedeeld aan het Departement Onderwijs opdat zij zouden uitwerking hebben ten aanzien van de overheid.<br>
-<br>
-§ 8. De Vlaamse Regering bepaalt de gevolgen van een nieuwe vaste benoeming ten aanzien van de door het betrokken personeelslid voorheen reeds verkregen vaste benoeming, met dien verstande dat een personeelslid slechts vast benoemd kan zijn ten belope van maximaal één voltijdse betrekking in hoofdambt. Het voltijds karakter wordt bepaald in functie van de prestaties vereist voor een voltijdse betrekking in het ambt van de nieuwe benoeming.<br>
-<br>
-§ 9. In afwijking van artikel 33, § 1, gaat de vaste benoeming in op 1 juli 2021 volgend op de vacantverklaring, voor zover de betrekking op die datum nog vacant is.
+...
 
 ### ART 84duodetricies.
 
@@ -2509,6 +2543,34 @@ De inrichtende macht van de school voor buitengewoon onderwijs waar het personee
 §3. Onverminderd paragraaf 2, eerste lid, 1°, kan een inrichtende macht ook kandidaten toevoegen aan de lijst of lijsten, vermeld in paragraaf 2, tweede lid, 2°, en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, die diensten hebben gepresteerd in een betrekking van ondersteuner vóór het schooljaar 2022-2023, in het tijdelijke project van de prewaarborgregeling of waarborgregeling of in het geïntegreerd onderwijs of het project inclusief onderwijs voor leerlingen met een verstandelijke beperking. De toevoeging van een kandidaat aan deze lijst gebeurt uitsluitend op vraag van de kandidaat zelf.<br>
 &nbsp;
 
+### ART 84undetricies.
+
+§1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° een leersteuncentrum: een centrum als vermeld in artikel 20 van het decreet<br>
+van [...] over leersteun;<br>
+2° &nbsp;een betrekking van ondersteuner: een betrekking die is opgericht op basis van de personeelsomkadering, vermeld in artikel 172quinquies en 172quinquies/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 314/8 en 314/9 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+3° een betrekking in het tijdelijke project van de prewaarborgregeling of waarborgregeling: een betrekking die is opgericht in het schooljaar 2015-2016 of 2016-2017 op basis van de personeelsomkadering, vermeld in artikel 172ter van het decreet basisonderwijs van 25 februari 2017 en artikel 314/6 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+§2. De diensten die een personeelslid gepresteerd heeft in een betrekking van ondersteuner of in het tijdelijke project van de prewaarborgregeling of waarborgregeling, gelden vanaf 1 september 2023 als diensten die zijn gepresteerd in een ambt van het leerondersteunend personeel in een leersteuncentrum.<br>
+<br>
+§3. Met behoud van de toepassing van paragraaf 2 geldt voor een personeelslid dat uiterlijk op 30 juni 2023 aangesteld was in een betrekking van ondersteuner, en dat vanaf 1 september 2023 en uiterlijk op 15 november 2023 aangesteld wordt in een betrekking van het ambt van leerondersteuner in een leersteuncentrum, het volgende:<br>
+1° wie uiterlijk op 30 juni 2023 vastbenoemd is voor een ambt, is voor hetzelfde volume vastbenoemd voor het ambt van leerondersteuner, voor zover het leersteuncentrum dat ambt binnen de hem toegekende omkadering kan oprichten;<br>
+2° een tijdelijke aanstelling van doorlopende duur in een ambt die het personeelslid uiterlijk op 30 juni 2023 heeft, geldt voor ten minste hetzelfde volume voor het ambt van leerondersteuner waarin het personeelslid aangesteld wordt in een leersteuncentrum, voor zover het leersteuncentrum dat ambt binnen de hem toegekende omkadering kan oprichten.<br>
+<br>
+Het personeelslid, vermeld in het eerste lid, 1°, moet op het ogenblik dat hij in een ambt van leerondersteuner vast benoemd wordt, voor het overeenkomstig volume van opdracht ontslag nemen in de school in het ambt van vaste benoeming.<br>
+&nbsp;
+
+### ART 84tricies.
+
+In afwijking van artikel 36 kan de inrichtende macht een personeelslid op 1 januari 2024 vast benoemen in het ambt van leerondersteuner in een vacant verklaarde betrekking als vermeld in artikel 33, als dat personeelslid op het ogenblik van de vaste benoeming voldoet aan de bepalingen van artikel 19 en daarenboven:<br>
+1° op 15 november 2023 minstens 360 dagen dienstanciënniteit heeft verworven in het betrokken ambt in het leersteuncentrum van de inrichtende macht;<br>
+2° zich kandidaat heeft gesteld in de vorm en binnen de termijn, vermeld in de oproep tot de kandidaten;<br>
+3° op 31 december 2023 voor doorlopende duur is aangesteld in het ambt waarvoor het personeelslid zich kandidaat heeft gesteld. De bepalingen van dit punt zijn niet van toepassing op personeelsleden die zijn aangesteld bij wijze van reaffectatie of wedertewerkstelling of op personeelsleden als vermeld in hoofdstuk IVbis voor wat betreft het volume van hun opdracht waarvoor ze vastbenoemd zijn en waarvoor ze een verlof hebben verkregen om tijdelijk een andere opdracht uit te oefenen. Die personeelsleden moeten 360 dagen dienstanciënniteit hebben verworven in het ambt van de vacant verklaarde betrekking;<br>
+4° als laatste evaluatie in het ambt in kwestie geen evaluatie met eindconclusie ‘onvoldoende’ heeft verkregen bij de inrichtende macht waar de betrekking vacant is. Als het personeelslid niet is geëvalueerd, wordt die voorwaarde geacht vervuld te zijn.<br>
+<br>
+De vaste benoeming is alleen mogelijk als het personeelslid de betrekking in hoofdambt uitoefent.<br>
+&nbsp;
+
 ### ART 84triciessemel
 
 §1. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als contractueel personeelslid in een functie van opvoeder en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten, worden de diensten die ze gepresteerd hebben als contractueel personeelslid in een functie van opvoeder, beschouwd als dienstanciënniteit als vermeld in artikel 6, 23, 31 en<br>
@@ -2530,6 +2592,10 @@ Voor het bepalen van de dienstanciënniteit, bedoeld in punt 2°, wordt, in afwi
 §3. In afwijking van artikel 31, §1, 1°, wordt voor het personeelslid, vermeld in paragraaf 1, voor een vaste benoeming op 1 januari 2024 de dienstanciënniteit in het ambt van internaatsmedewerker vastgesteld op 1 september 2023.<br>
 <br>
 §4. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als con- tractueel personeelslid en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten wordt de geldelijke anciënniteit die uiterlijk op 31 augustus 2023 door de inrichtende macht was toegekend aan hen als contractueel personeelslid meegenomen.
+
+### ART 84triciesbis.
+
+De vastbenoemde beheerders die op 31 augustus 2023 titularis zijn van een betrekking en die op 1 september 2023 niet als directeur in een onderwijsinternaat worden aangesteld, worden, voor het volume van de opdracht waarvan ze op 31 augustus 2023 titularis zijn, aangesteld in het ambt van internaatsmedewerker in de personeelscategorie van het ondersteunend personeel binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten. Ze behouden de salarisschaal die ze hebben op 31 augustus 2023, tenzij ze door het besluit van de Vlaamse Regering dat de salarisschalen regelt, recht hebben op een gunstiger salaris.
 
 ## TITEL III ANDERE BEPALINGEN
 
