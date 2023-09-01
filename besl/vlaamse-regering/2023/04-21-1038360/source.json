@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038360,
+  "title": "Besluit van de Vlaamse Regering van 2023-04-21 tot goedkeuring van de programmaties van nieuwe types in het buitengewoon basisonderwijs en nieuwe types en opleidingsvormen in het buitengewoon secundair onderwijs, en tot goedkeuring van de oprichting van nieuwe scholen in het buitengewoon onderwijs, voor het schooljaar 2023-2024",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038360/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "7b05e7fed9b8d260e06f2921d9722f33a8d2a48a30c4fae77236db15ef924b4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038360&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-04-21",
+  "gazette": "2023-10-11",
+  "numac": 2023042510,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
