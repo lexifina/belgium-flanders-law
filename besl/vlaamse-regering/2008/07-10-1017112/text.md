@@ -57,7 +57,11 @@ ab) de opleiding Hulpbarman kan voor snel lerende cursisten 60 lestijden omvatte
 ac) de opleiding Hulpkelner kan voor traag lerende cursisten 240 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
 ad) de opleiding Hulpkelner kan voor snel lerende cursisten 80 lestijden omvatten, waarbij alle modules 40 lestijden omvatten;<br>
 ae) de opleiding Kelner kan voor traag lerende cursisten 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
-af) de opleiding Kelner kan voor snel lerende cursisten 200 lestijden omvatten, waarbij alle modules 40 lestijden omvatten.
+af) de opleiding Kelner kan voor snel lerende cursisten 200 lestijden omvatten, waarbij alle modules 40 lestijden omvatten.<br>
+ag) de opleiding Visfileerder-bewerker kan voor traag lerende cursisten 240 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+ah) de opleiding Visfileerder-bewerker kan voor snel lerende cursisten 80 lestijden omvatten, waarbij alle modules 40 lestijden omvatten;<br>
+ai) de opleiding Bereider van Visproducten kan voor traag lerende cursisten 360 lestijden omvatten, waarbij de module Panklaar maken en opslaan/bewaren verse vis 120 lestijden omvat;<br>
+aj) de opleiding Bereider van Visproducten kan voor snel lerende cursisten 280 lestijden omvatten, waarbij de module Panklaar maken en opslaan/bewaren verse vis 40 lestijden omvat.
 
 ### ART. 2.
 
@@ -161,7 +165,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XIX
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_6.pdf#page=33">Bijlage   XIX</A>
+...
 
 ### BIJLAGE XX
 
@@ -169,23 +173,23 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XXI
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_6.pdf#page=60">Bijlage   XXI</A>
+...
 
 ### BIJLAGE XXII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_6.pdf#page=89">Bijlage   XXII deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_7.pdf#page=1">Bijlage   XXII deel 2</A>
+...
 
 ### BIJLAGE XXIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_7.pdf#page=21">Bijlage   XXIII</A>
+...
 
 ### BIJLAGE XXIV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_7.pdf#page=45">Bijlage   XXIV</A>
+...
 
 ### BIJLAGE XXV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_7.pdf#page=61">Bijlage   XXV</A>
+...
 
 ### BIJLAGE XXVI
 
@@ -193,11 +197,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XXVII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_7.pdf#page=97">Bijlage   XXVII deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_8.pdf#page=1">Bijlage   XXVII deel 2</A>
+...
 
 ### BIJLAGE XXVIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_8.pdf#page=18">Bijlage   XXVIII</A>
+...
 
 ### BIJLAGE XXIX
 
@@ -213,7 +217,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### ART. XXXII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_9.pdf#page=31">Bijlage XXXII</a>
+...
 
 ### ART. XXXIII
 
@@ -221,11 +225,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XXXIV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_9.pdf#page=76">Bijlage   XXXIV</A>
+...
 
 ### BIJLAGE XXXV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_9.pdf#page=86">Bijlage   XXXV deel 1</A><BR><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_10.pdf#page=1">Bijlage   XXXV deel 2</A>
+...
 
 ### BIJLAGE XXXVI
 
@@ -233,11 +237,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XXXVII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_10.pdf#page=33">Bijlage   XXXVII</A>
+...
 
 ### BIJLAGE XXXVIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_10.pdf#page=43">Bijlage   XXXVIII</A>
+...
 
 ### BIJLAGE XXXIX
 
@@ -319,7 +323,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE LVIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=171">Bijlage LVIII</a>
+...
 
 ### BIJLAGE LIX
 
