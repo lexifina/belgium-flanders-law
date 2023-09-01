@@ -104,6 +104,7 @@ De hogescholen kunnen, in het kader van een School of Arts, de volgende educatie
 2° Algemene vakdidactiek Beeldende Kunst;<br>
 3° Algemene vakdidactiek Dans;<br>
 4° Algemene vakdidactiek Drama;<br>
+4°/1 Algemene vakdidactiek Musical;<br>
 5° Algemene vakdidactiek Muziek;<br>
 6° Algemene vakdidactiek Productdesign;<br>
 7° Domeinoverschrijdende vakdidactiek Kunsten;<br>
@@ -116,6 +117,10 @@ De hogescholen kunnen, in het kader van een School of Arts, de volgende educatie
 14° Specifieke vakdidactiek Dans: Klassieke dans;<br>
 15° Specifieke vakdidactiek Drama: Spelen;<br>
 16° Specifieke vakdidactiek Drama: Tekst en creatie;<br>
+16°/1 Specifieke vakdidactiek Musical: Atelier;<br>
+16°/2 Specifieke vakdidactiek Musical: Drama;<br>
+16°/3 Specifieke vakdidactiek Musical: Dans;<br>
+16°/4 Specifieke vakdidactiek Musical: Zang;<br>
 17° Specifieke vakdidactiek Muziek: Creatie;<br>
 18° Specifieke vakdidactiek Muziek: Directie;<br>
 19° Specifieke vakdidactiek Muziek: Groepsmusiceren;<br>
