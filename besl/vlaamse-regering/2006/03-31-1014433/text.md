@@ -363,6 +363,14 @@ Een personeelslid dat in verschillende hogescholen werkt, neemt het verlof voor 
 
 § 1. Het hogeschoolbestuur kan een personeelslid, op zijn verzoek, een afwezigheid voor verminderde prestaties toestaan. Die afwezigheid kan voltijds of deeltijds zijn.<br>
 <br>
+In afwijking van het eerste lid heeft het personeelslid per kalenderjaar recht op vijf dagen afwezigheid voor verminderde prestaties voor zorgdoeleinden. De afwezigheid voor verminderde prestaties voor zorgdoeleinden is de afwezigheid voor verminderde prestaties om persoonlijke zorg of steun te verlenen aan een gezinslid of een familielid dat om een ernstige medische reden behoefte heeft aan aanzienlijke zorg of steun.&nbsp;<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;gezinslid: elke persoon die samenwoont met het personeelslid;<br>
+2°&nbsp;&nbsp; &nbsp;familielid: de echtgenoot van het personeelslid of de persoon met wie het personeelslid wettelijk samenwoont, en de bloedverwanten tot de eerste graad van het personeelslid;<br>
+3°&nbsp;&nbsp; &nbsp;een ernstige medische reden als gevolg waarvan men behoefte heeft aan aanzienlijke zorg of steun: een gezondheidstoestand, al dan niet het gevolg van een ziekte of medische ingreep, waarbij er behoefte is aan aanzienlijke zorg of steun;<br>
+4°&nbsp;&nbsp; &nbsp;zorg of steun: elke vorm van sociale, familiale of emotionele bijstand of verzorging.<br>
+<br>
 § 2. Bij een deeltijdse afwezigheid ontvangt het personeelslid een salaris dat gebaseerd is op zijn effectieve prestaties. Bij een voltijdse afwezigheid ontvangt het personeelslid geen salaris, salaristoelage, wachtgeld of wachtgeldtoelage.
 
 ### ART. 20.
@@ -371,11 +379,13 @@ De totale duur van de afwezigheid voor verminderde prestaties mag over de hele l
 <br>
 Bij de berekening van de maximale duur van de afwezigheid voor verminderde prestaties, vermeld in het eerste lid, wordt alleen rekening gehouden met de volledige onderbreking of de vermindering van de prestaties vanaf 1 september 2017. Bij de berekening van die termijnen wordt ook rekening gehouden met de duur van de afwezigheden voor verminderde prestaties die opgenomen zijn aan andere hogescholen, andere onderwijsinstellingen of centra voor leerlingenbegeleiding, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft.<br>
 <br>
-In afwijking van het eerste lid kan de totale duur van zestig maanden worden overschreden als een andere onderbreking van de beroepsloopbaan, ander verlof of een andere afwezigheid ambtshalve wordt omgezet in een afwezigheid voor verminderde prestaties.
+In afwijking van het eerste lid kan de totale duur van zestig maanden worden overschreden als een andere onderbreking van de beroepsloopbaan, ander verlof of een andere afwezigheid ambtshalve wordt omgezet in een afwezigheid voor verminderde prestaties of als het personeelslid het recht laat gelden op een afwezigheid voor verminderde prestaties voor zorgdoeleinden als vermeld in artikel 19, §1, tweede lid.
 
 ### ART 20/1.
 
 Het volume, de aanvangsdatum en de duur van de afwezigheid voor verminderde prestaties worden bepaald in een overeenkomst tussen het hogeschoolbestuur en het personeelslid.<br>
+<br>
+In afwijking van het eerste lid hoeft geen overeenkomst gesloten te worden over het volume, de aanvangsdatum en de duur van de afwezigheid voor verminderde prestaties als het personeelslid het recht laat gelden op een afwezigheid voor verminderde prestaties voor zorgdoeleinden als vermeld in artikel 19, §1, tweede lid. De afwezigheid voor verminderde prestaties voor zorgdoeleinden, vermeld in artikel 19, §1, tweede lid, wordt opgenomen in volledige dagen.<br>
 <br>
 De afwezigheid voor verminderde prestaties eindigt altijd op het einde van een academiejaar, de zomervakantie inbegrepen, tenzij het hogeschoolbestuur een afwijking daarvan toestaat.<br>
 <br>
