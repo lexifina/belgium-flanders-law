@@ -24,15 +24,15 @@ Het minimum en het maximum aantal lesuren voor een ambt met volledige prestaties
 
 ### ART. 5.
 
-Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het opvoedend hulppersoneel wordt vastgesteld als volgt :<br />1° wervingsambten :<br />a) studiemeester-opvoeder internaat : 36 uren van 60 minuten. <br />
+...
 
 ### ART. 5bis.
 
-Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de wervingsambten van het ondersteunend personeel wordt vastgesteld als volgt :<br />a) administratief medewerker : 36 uren van 60 minuten;<br />b) opvoeder : 36 uren van 60 minuten.<br />
+...
 
 ### ART. 6.
 
-§ 1. Voor de toepassing van artikel 41, § 2, van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, is de deler voor een ambt met onvolledige prestaties als genoemd in artikel 5, gelijk aan 36.<br /><br />§ 2. Voor de toepassing van artikel 44ter , § 2, van hetzelfde koninklijk besluit, is de deler voor een bijbetrekking in een ambt als genoemd in artikel 5, gelijk aan 42.
+...
 
 ## HOOFDSTUK IV HET PARAMEDISCH PERSONEEL
 
