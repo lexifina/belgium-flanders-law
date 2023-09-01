@@ -437,4 +437,11 @@ De Vlaamse minister, bevoegd voor Economie, is belast met de uitvoering   van di
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/10_1.pdf#page=46">De sectoren, vermeld in artikel 11, eerste lid, en artikel 26, eerste lid.</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/10_1.pdf#page=46">De sectoren, vermeld in artikel 11, eerste lid, en artikel 26, eerste lid.</a><br>
+<br>
+* Bij MB van 18 juli 2023, B.S. 23 augustus 2023, wordt met ingang van 1 september 2023 de volgende wijziging aangebracht:<br>
+<br>
+-&nbsp;&nbsp;tussen de zin “De onderstaande activiteiten komen in aanmerking voor steun als ze niet uitgeoefend worden door overheidsbedrijven.” en de zin “Al de volgende codes zijn aanvaardbaar voor opleidingssteun, zowel voor kmo’s als voor grote ondernemingen.”&nbsp; wordt de zin “De activiteit moet opgenomen zijn als activiteit in de Kruispuntbank van Ondernemingen onder de RSZ- of btw-NACE-code.” ingevoegd.<br>
+<br>
+<br>
+&nbsp;</p>
