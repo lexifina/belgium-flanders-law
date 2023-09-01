@@ -72,9 +72,9 @@ In dit decreet wordt verstaan onder :<br>
 - de tweede graad van het domein beeldende en audiovisuele kunsten ingevuld met een bepaalde optie;<br>
 - de tweede graad van het domein muziek ingevuld met een bepaald muziekinstrument;<br>
 - de derde graad van het domein beeldende en audiovisuele kunsten, dans of woordkunst-drama ingevuld met een bepaalde optie;<br>
-- de derde graad van het domein muziek ingevuld met een bepaalde optie in combinatie met een bepaald muziekinstrument;<br>
+- de derde graad van het domein muziek ingevuld met een bepaalde optie en in voorkomend geval in combinatie met een bepaald muziekinstrument;<br>
 - de vierde graad van een studierichting in het domein beeldende en audiovisuele kunsten, dans of woordkunst-drama ingevuld met een bepaalde optie;<br>
--&nbsp;de vierde graad van een studierichting in het domein muziek ingevuld met een bepaalde optie in combinatie met een bepaald muziekinstrument;<br>
+-&nbsp;de vierde graad van een studierichting in het domein muziek ingevuld met een bepaalde optie en in voorkomend geval in combinatie met een bepaald muziekinstrument;<br>
 - de kortlopende studierichting beeldende en audiovisuele cultuur;<br>
 - de kortlopende studierichting specialisatie beeldende en audiovisuele kunsten ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting danscultuur;<br>
@@ -82,8 +82,8 @@ In dit decreet wordt verstaan onder :<br>
 - de kortlopende studierichting woordkunst- en dramacultuur;<br>
 -de kortlopende studierichting schrijver ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting specialisatie woordkunst-drama ingevuld met een bepaalde optie;<br>
-- de kortlopende studierichting muziekcultuur;<br>
-- de kortlopende studierichting muziekgeschiedenis;<br>
+- de kortlopende studierichting muziekcultuur ingevuld met een bepaalde optie;<br>
+- de kortlopende studierichting muziekgeschiedenis ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting specialisatie muziek ingevuld met een bepaalde optie in combinatie met een bepaald muziekinstrument;<br>
 49° optie : de inhoudelijke invulling van een studierichting die het karakteristieke van de opleiding bepaalt en die bestaat uit een of meer vakken, vastgelegd door de Vlaamse Regering;<br>
 50° overheveling : de overbrenging van een of meer structuuronderdelen op een bepaalde vestigingsplaats van de ene naar de andere academie, al dan niet op grond van onderlinge uitwisseling;<br>
@@ -447,8 +447,6 @@ Het Samenwerkingsforum :<br>
 5° optimaliseert de dienstverlening voor de leerlingen in de academies;<br>
 6° stimuleert en ondersteunt alle mogelijke vormen van samenwerking tussen de academies.<br>
 <br>
-Het Samenwerkingsforum stelt bij gewone meerderheid van de totaal uitgebrachte stemmen een huishoudelijk reglement op en legt dit ter bekrachtiging voor aan de Vlaamse Regering.<br>
-<br>
 § 2. Het Samenwerkingsforum oefent tenminste de volgende opdrachten uit :<br>
 1° de realisatie van de doelstellingen, vermeld in paragraaf 1;<br>
 2° een met redenen omkleed advies aan de Vlaamse Regering verlenen over de aanvragen van de academies voor de programmatie van domeinen en structuuronderdelen, conform de voorwaarden, vermeld in artikel 115 tot en met 118, en de aanvragen van de academies voor onderwijsbevoegdheid, vermeld in artikel 130;<br>
@@ -456,9 +454,7 @@ Het Samenwerkingsforum stelt bij gewone meerderheid van de totaal uitgebrachte s
 <br>
 § 3. Het Samenwerkingsforum kan nooit zelf over onderwijsbevoegdheid beschikken.<br>
 <br>
-§ 4. Het Samenwerkingsforum legt jaarlijks uiterlijk op 1 april een werkingsverslag voor aan de Vlaamse Regering, die bijsturingen kan voorstellen. Bovendien bezorgt het Samenwerkingsforum jaarlijks uiterlijk op 1 april een zelfevaluatierapport aan de bevoegde administratie van het Ministerie van Onderwijs en Vorming. In dit rapport komen minstens de volgende elementen aan bod :<br>
-1° een beschrijving van de evolutie van het deeltijds kunstonderwijs in het tweetalige gebied Brussel-Hoofdstad sinds het schooljaar van de opstart van het Samenwerkingsforum;<br>
-2° een beschrijving en beoordeling van de sterke en de te verbeteren punten, de kansen en de moeilijkheden van de werking van het Samenwerkingsforum.<br>
+§ 4. ...<br>
 &nbsp;
 
 ## Afdeling 9 Overleg fundamentele onderwijshervormingen
@@ -562,11 +558,13 @@ Met behoud van toepassing van de toelatingsvoorwaarden, vermeld in artikel 29&nb
 
 § 1. Elke persoon heeft, met behoud van de toepassing van de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36, recht op inschrijving in de academie en opleiding van zijn keuze, rekening houdend met het aanwezige onderwijsaanbod. Een leerling schrijft zich voor elk leerjaar van de opleiding opnieuw in.<br>
 <br>
-Als een academie voor een bepaalde opleiding verschillende trajecten aanbiedt, kan de leerling kiezen in welk traject hij de opleiding volgt. Een leerling kan na toestemming van de directeur van traject veranderen. Als de leerling daardoor de globale studieomvang, vermeld in artikel 12 tot en met 20, overschrijdt, wordt dat beschouwd als een verlenging van het leertraject, vermeld in artikel 62, tweede lid.<br>
+Als een academie voor een bepaalde opleiding verschillende trajecten aanbiedt, kan de leerling kiezen in welk traject hij de opleiding volgt. Een leerling kan na toestemming van de directeur&nbsp;uiterlijk op de eerste lesdag na de kerstvakantie van traject veranderen. Als de leerling daardoor de globale studieomvang, vermeld in artikel 12 tot en met 20, overschrijdt, wordt dat beschouwd als een verlenging van het leertraject, vermeld in artikel 62, tweede lid.<br>
+<br>
+Leerlingen die veranderd zijn van traject en op het einde van hun laatste traject daardoor minder lestijden gevolgd hebben dan de globale studieomvang, vermeld in artikel 12 tot en met 20, kunnen een bijkomend leerjaar volgen. Het voormelde bijkomende leerjaar wordt niet beschouwd als een verlenging van het leertraject.<br>
 <br>
 Een leerling die in een bepaalde opleiding is ingeschreven kan zich niet meer opnieuw inschrijven voor dezelfde opleiding in dezelfde of een andere academie. Een leerling die in een bepaalde opleiding is afgestudeerd, kan zich niet meer opnieuw in dezelfde opleiding inschrijven.<br>
 <br>
-Een leerling die voor de inwerkingtreding van dit decreet is afgestudeerd in een opleiding van de oude structuur, kan zich niet meer opnieuw inschrijven in de overeenkomstige opleiding van de nieuwe structuur, tenzij de leerling bijkomende competenties verwerft. De Vlaamse Regering bepaalt de overeenstemming tussen de opleidingen van de oude en de nieuwe structuur.<br>
+Een leerling die voor de inwerkingtreding van dit decreet is afgestudeerd in een opleiding van de oude structuur, kan zich niet meer opnieuw inschrijven in de overeenkomstige opleiding van de nieuwe structuur. De Vlaamse Regering bepaalt de overeenstemming tussen de opleidingen van de oude en de nieuwe structuur.<br>
 <br>
 § 2. Inschrijvingen voor een bepaald schooljaar kunnen ten vroegste starten op de eerste schooldag van maart van het voorafgaande schooljaar. Het schoolbestuur maakt de start van zijn inschrijvingen bekend aan alle belanghebbenden.<br>
 <br>
@@ -578,12 +576,12 @@ Inschrijvingen kunnen uiterlijk tot 30 september van het lopende schooljaar plaa
 ### ART 38.
 
 De leerlingen worden ingeschreven in de volgorde dat ze zich bij de academie aanmelden en voldoen aan al de volgende voorwaarden :<br>
-1° zich akkoord verklaard hebben met het academiereglement;<br>
-2° zich akkoord verklaard hebben met het eigen artistiek-pedagogische project van de academie.
+1° zich digitaal of schriftelijk akkoord verklaard hebben met het academiereglement;<br>
+2° zich digitaal of schriftelijk akkoord verklaard hebben met het eigen artistiek-pedagogische project van de academie.
 
 ### ART 39.
 
-In afwijking van artikel 38 heeft elke leerling die al les volgt in een academie voorrang op alle nieuwe leerlingen voor het vervolg op de opleiding die hij volgt, in diezelfde academie, als hij zich vóór&nbsp;15 juli van het voorafgaande schooljaar waarop de inschrijving betrekking heeft, inschrijft.<br>
+In afwijking van artikel 38 heeft elke leerling die al les volgt in een academie voorrang op alle nieuwe leerlingen voor het vervolg van de opleiding die hij volgt en de opleiding die erop volgt, in diezelfde academie, als hij zich vóór 5 juli van het voorafgaande schooljaar waarop de inschrijving betrekking heeft, inschrijft.<br>
 &nbsp;
 
 ### ART 40.
@@ -693,8 +691,8 @@ Tijdelijke en definitieve uitsluitingen kunnen alleen uitgevoerd worden na een p
 ### ART 52.
 
 Een leerling kan een individueel aangepast curriculum volgen als de directeur en de betrokken leerkrachten na overleg met de leerling en de betrokken personen motiveren dat de leerling ondanks redelijke aanpassingen onvoldoende leerwinst kan boeken in het gemeenschappelijke curriculum, als de leerling voldoet aan een van de volgende voorwaarden:<br>
-1° beschikken over een verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
-2° beschikken over een verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs;<br>
+1° beschikken over een IAC-verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
+2° beschikken over een IACverslag als vermeld in artikel 294 van de Codex Secundair Onderwijs;<br>
 3° erkend zijn als persoon met een handicap met toepassing van een Vlaamse, een andere Belgische of buitenlandse wetgeving;<br>
 4° een medisch attest kunnen voorleggen waaruit blijkt dat de leerling een aandoening heeft die de leerling verhindert om alle leeractiviteiten in het lessenrooster te volgen. Het attest is ondertekend door een arts, psycholoog of lid van een multidisciplinair team dat erkend is door het Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
@@ -714,10 +712,12 @@ De onderwijsinspectie en het Agentschap voor Onderwijsdiensten kunnen het indivi
 ### ART 53.
 
 Een leerling kan na overleg met de directeur en de betrokken leerkrachten, binnen het gemeenschappelijke curriculum afwijken van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20 en de bepalingen over de evaluaties, vermeld in artikel 61 en 62, als de leerling voldoet aan een van de volgende voorwaarden:<br>
-1° beschikken over een gemotiveerd verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997;<br>
-2° beschikken over een gemotiveerd verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs;<br>
+1° beschikken over een GC-verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997;<br>
+2° beschikken over een GC-verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs van 17 december 2010 of over een OV-4 verslag als vermeld in artikel 294, §2, 2°, van de voormelde codex;<br>
 3° erkend zijn als persoon met een handicap met toepassing van een Vlaamse, een andere Belgische of buitenlandse wetgeving;<br>
 4° een medisch attest kunnen voorleggen waaruit blijkt dat de leerling een aandoening heeft die de leerling verhindert om alle leeractiviteiten in het lessenrooster te volgen. Het attest is ondertekend door een arts, psycholoog of lid van een multidisciplinair team dat erkend is door het Vlaams Agentschap voor Personen met een Handicap.<br>
+5° beschikken over een IAC-verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
+6° beschikken over een IAC-verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs.<br>
 <br>
 In het eerste lid wordt onder gemeenschappelijk curriculum verstaan de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de basiscompetenties, de beroepskwalificaties of de specifieke eindtermen te bereiken.<br>
 <br>
@@ -766,7 +766,7 @@ De academie informeert de leerlingen over de mogelijkheid om les te volgen in ee
 
 ### ART 58.
 
-Een schoolbestuur stelt voor elk van zijn academies een academiereglement op.<br>
+Een schoolbestuur stelt voor elk van zijn academies een academiereglement op.&nbsp;Bij elke wijziging van het academiereglement informeert het schoolbestuur de leerlingen en de betrokken personen schriftelijk of via een elektronische drager over die wijziging. Het schoolbestuur geeft toelichting over de wijziging als de leerlingen en de betrokken personen dat willen. De leerlingen of betrokken personen verklaren zich daarna opnieuw digitaal of schriftelijk akkoord.<br>
 <br>
 Het academiereglement bevat de volgende elementen :<br>
 1° het reglement over de tucht en de schending van de leefregels van de leerlingen, met inbegrip van een tijdelijke of een definitieve uitsluiting, en over de beroepsprocedure, vermeld in artikel 50 en 51, met inbegrip van het hanteren van redelijke en haalbare termijnen;<br>
@@ -782,7 +782,7 @@ Het academiereglement bevat de volgende elementen :<br>
 11° informatie over extramurosactiviteiten;<br>
 12° de vermelding dat bij verandering van academie leerlingengegevens worden overgedragen naar de nieuwe academie tenzij daar door de leerling of de betrokken personen expliciet verzet tegen wordt gepleegd nadat ze op hun verzoek die gegevens hebben ingezien;<br>
 13° het toetsingsinstrument als vermeld in artikel 57 met betrekking tot de relevante alternatieve leercontext;<br>
-14° de uiterste datum waarop de leerling het inschrijvingsgeld betaalt conform artikel 90 en in voorkomend geval de mogelijkheden tot gespreide betaling.<br>
+14° de uiterste datum waarop de leerling het inschrijvingsgeld betaalt conform artikel 90 en in voorkomend geval de mogelijkheden tot gespreide betaling, de uitschrijvingsregeling en de terugbetaling van het inschrijvingsgeld bij uitschrijving conform artikel 90 van dit decreet.<br>
 <br>
 Als na de toelichting, vermeld in het tweede lid, 10°, blijkt dat de leerling of de betrokken personen een kopie van de leerlingengegevens willen, hebben ze kopierecht.<br>
 Iedere kopie moet persoonlijk en vertrouwelijk behandeld worden, mag niet verspreid worden noch publiek gemaakt worden en mag alleen gebruikt worden in het kader van de leerloopbaan van de leerling. Als bepaalde gegevens ook een derde betreffen en volledige inzage in de gegevens door de leerling of de betrokken personen afbreuk zou doen aan het recht van de derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot die gegevens verstrekt via een gesprek, gedeeltelijke inzage of rapportage.<br>
@@ -928,7 +928,7 @@ Per traject in een structuuronderdeel worden de leerlingen altijd afzonderlijk g
 <br>
 § 2. In afwijking van paragraaf 1 worden de lestijden voor de kortlopende studierichtingen specialisatie als volgt berekend :<br>
 1° als in een domein in een academie het aantal leerlingen dat de specialisatie volgt op 1 februari van het voorafgaande schooljaar kleiner dan of gelijk is aan 25% van het aantal leerlingen dat de vierde graad volgt op 1 februari van het voorafgaande schooljaar, wordt het aantal leerlingen van de specialisatie op 1 februari van het voorafgaande schooljaar vermenigvuldigd met de omkaderingscoëfficiënt en de solidariteitsfactor, berekend conform artikel 71.<br>
-2° als in een academie en domein het aantal leerlingen dat de specialisatie volgt op 1 februari van het voorafgaande schooljaar groter is dan 25% van het aantal leerlingen in de vierde graad op 1 februari van het voorafgaande schooljaar, wordt 25% van het aantal leerlingen van de vierde graad op 1 februari van het voorafgaande schooljaar in dat domein vermenigvuldigd met de omkaderingscoëfficiënt en de solidariteitsfactor, berekend conform artikel 71.<br>
+2° als in een domein in een academie het aantal leerlingen dat de specialisatie volgt op 1 februari van het voorafgaande schooljaar groter is dan 25% van het aantal leerlingen in de vierde graad op 1 februari van het voorafgaande schooljaar, wordt 25% van het aantal leerlingen van de vierde graad op 1 februari van het voorafgaande schooljaar in dat domein vermenigvuldigd met de omkaderingscoëfficiënt en de solidariteitsfactor, berekend conform artikel 71.<br>
 <br>
 § 3. De resultaten van de berekeningen, vermeld in paragraaf 1 en 2, worden afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier en naar het lagere geheel getal als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier.<br>
 <br>
@@ -1161,27 +1161,41 @@ De Vlaamse Regering kan, met in achtname van de beschikbare begrotingskredieten,
 
 § 1. Het schoolbestuur beslist, met toepassing van de reglementering over overleg en onderhandeling, over de aanwending van de lestijden.<br>
 <br>
-Het schoolbestuur kan het totale aantal toegekende lestijden aanwenden voor de organisatie van leeractiviteiten, muzikaal begeleiden en leeractiviteiten op maat. Het schoolbestuur kan maximaal drie percent van het aantal toegekende lestijden aanwenden voor pedagogische coördinatie. Dat percentage kan worden overschreden, mits hierover een akkoord wordt bereikt in het lokale comité.<br>
+Het schoolbestuur kan het totale aantal toegekende lestijden aanwenden voor de organisatie van leeractiviteiten, muzikaal begeleiden en leeractiviteiten op maat. Het schoolbestuur kan maximaal 5 % van het aantal toegekende lestijden aanwenden voor pedagogische coördinatie.&nbsp;<br>
 <br>
 § 2. Elke lestijd die voor leeractiviteiten aangewend wordt resulteert elke week van het schooljaar in een leeractiviteit van minstens vijftig minuten voor het domein beeldende en audiovisuele kunsten en ministens zestig minuten voor de domeinen dans, woordkunst-drama en muziek, of minstens vijftig of zestig minuten voor de domeinoverschrijdende initiatieopleiding, rekening houdend met de bepalingen over de organisatie van het schooljaar, vermeld in artikel 63 en 64.<br>
 <br>
 In afwijking van het eerste lid bepaalt de Vlaamse Regering de voorwaarden waaronder een academie de wekelijkse leeractiviteiten kan clusteren in grotere gehelen, verplaatsen of vervangen door extra-murosactiviteiten.<br>
 <br>
-§ 3. Maximaal vijf percent van de lestijden berekend volgens de bepalingen, vermeld in artikel 69 tot en met 72, kunnen aangewend worden om voordrachtgevers in te zetten. Dat percentage kan worden overschreden, mits hierover een akkoord wordt bereikt in het lokale comité.<br>
+§ 3. Een schoolbestuur kan de lestijden die worden berekend conform artikel 69 tot en met 72, ook aanwenden om gastleraren in te zetten. Het aantal vacante lestijden dat aan gastleraren kan worden besteed, wordt door het schoolbestuur vastgelegd na onderhandeling in het lokaal comité.<br>
+&nbsp;<br>
+Een gastleraar als vermeld in het eerste lid, is een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de academie. Een gastleraar als vermeld in het eerste lid, geeft, in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, gastlessen in de academie of op een andere locatie in het kader van de realisatie van de basiscompetenties, specifieke eindtermen en beroepskwalificaties vanuit zijn deskundigheid of ervaring in de amateurkunsten, de professionele kunsten, de creatieve industrie of het cultureel erfgoed. Als de capaciteit dat toelaat, kunnen naast leerlingen van de academie ook andere geïnteresseerden de gastlessen bijwonen.<br>
 <br>
-In het eerste lid wordt verstaan onder voordrachtgever : een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de academie. Een voordrachtgever geeft, in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, voordrachten in de academie of op een andere locatie in het kader van de realisatie van de basiscompetenties, specifieke eindtermen en beroepskwalificaties vanuit zijn deskundigheid of ervaring in de amateurkunsten, de professionele kunsten, de creatieve industrie of het cultureel erfgoed.&nbsp;Als de capaciteit dat toelaat, kunnen naast leerlingen van de academie ook andere geïnteresseerden de voordrachten bijwonen.<br>
+Een gastleraar als vermeld in het eerste lid, is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van voorleggen niet langer dan een maand tevoren is afgegeven. Daarnaast toont de voormelde gastleraar die gastlessen geeft in een academie die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, aan dat hij de kennis van het Nederlands als onderwijstaal beheerst op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De voormelde gastleraar bewijst de voormelde vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
 <br>
-Bij de aanwending van lestijden voor voordrachtgevers worden lestijden omgezet in een krediet. De Vlaamse Regering bepaalt de wijze van melding ervan aan het Agentschap voor Onderwijsdiensten, de grootte van het krediet per lestijd dat wordt omgezet en de wijze van toekenning van het krediet.<br>
+In het vierde lid wordt verstaan onder Gemeenschappelijk Europees Referentiekader voor Talen: de Nederlandstalige vertaling van het door de Raad van Europa gepubliceerde Common European Framework of Reference for Languages.<br>
 <br>
-De aanwending van lestijden voor voordrachtgevers maakt voorwerp uit van onderhandeling in het lokaal comité.<br>
+Bij de wijze van aanwending, vermeld in het eerste lid, worden lestijden omgezet in een krediet ten belope van de lesopdracht van de gastleraar. De Vlaamse Regering bepaalt de wijze van melding van voormelde omzetting aan de dienst van de administratie die de Vlaamse Regering aanwijst, de grootte van het krediet per lestijd dat wordt omgezet en de wijze van toekenning van het krediet.<br>
+<br>
+De maatregelen vervat in deze paragraaf worden geëvalueerd tijdens het schooljaar 2024-2025.<br>
 <br>
 § 4. Maximaal vijf percent van de lestijden, berekend volgens de bepalingen, vermeld in artikel 69 tot en met 72, kunnen aangewend worden om leeractiviteiten op maat, vermeld in artikel 4, derde lid, te organiseren. Leeractiviteiten op maat kunnen alleen ingezet worden voor de doelstellingen, vermeld in artikel 4, derde lid.<br>
 <br>
 Het schoolbestuur kan de leeractiviteiten op maat vrij inplannen in de loop van het schooljaar.<br>
 <br>
-Een schoolbestuur kan lestijden voor leeractiviteiten op maat omzetten in een krediet om experten te vergoeden die deskundig zijn in een of meer van de doelstellingen, vermeld in artikel 4, derde lid. De rechtspositieregeling in het onderwijs is niet van toepassing.<br>
+Een schoolbestuur kan lestijden voor leeractiviteiten op maat omzetten in een krediet om experten te vergoeden die deskundig zijn in een of meer van de doelstellingen, vermeld in artikel 4, derde lid. Het decreet rechtspositie personeelsleden gemeenschapsonderwijs onderwijs van 27 maart 1991 en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs 27 maart 1991 zijn niet van toepassing op deze experten.<br>
+&nbsp;<br>
+Een expert als vermeld in het derde lid, is van onberispelijk gedrag. Het voormelde blijkt uit een uittreksel uit het strafregister met de finaliteit 596.2 – model bestemd voor contacten met minderjarigen, dat op het ogenblik van voorleggen niet langer dan een maand tevoren is afgegeven. Daarnaast toont de voormelde expert in een academie die in het Nederlands taalgebied ligt met uitzondering van de faciliteitengemeenten, aan dat hij de kennis van het Nederlands als onderwijstaal beheerst op het niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen. De voormelde expert bewijst de voormelde vereiste taalkennis op een van de volgende wijzen:<br>
+1° met een bekwaamheidsbewijs dat de Vlaamse Regering vastlegt voor een wervingsambt van het bestuursen onderwijzend personeel en dat behaald is in de onderwijstaal;<br>
+2° met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs dat het vereiste niveau van taalkennis aantoont;<br>
+3° met een studiebewijs dat gelijkwaardig is met een studiebewijs van door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs en dat het vereiste niveau van taalkennis aantoont;<br>
+4° met een getuigschrift, een certificaat of een attest dat het vereiste niveau C1 van het Gemeenschappelijk Europees Referentiekader voor Talen aantoont.<br>
 <br>
-In het derde lid wordt verstaan onder rechtspositieregeling in het onderwijs: het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991.<br>
+In het derde lid wordt verstaan onder Gemeenschappelijk Europees Referentiekader voor Talen: de Nederlandstalige vertaling van het door de Raad van Europa gepubliceerde Common European Framework of Reference for Languages.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop een academie aan het Agentschap voor Onderwijsdiensten de omzetting meldt, de grootte van het krediet per lestijd dat wordt omgezet en de wijze van toekenning van het krediet<br>
 &nbsp;
@@ -1290,10 +1304,6 @@ waarbij;<br>
 a) A : de omkadering berekend volgens artikel 69;<br>
 b) B : de omkadering berekend volgens artikel 69, maar in afwijking van artikel 67, § 3, vijfde lid, worden de betrokken leerlingen aan 1 gewogen.<br>
 Y wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier en naar het lagere geheel getal als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier.<br>
-<br>
-Als de betrokken academie, conform artikel 155, recht heeft op additionele lestijden voor de eerste, tweede en derde graad dan wordt de helft van Y, voor de betrokken academie, afgetrokken van de lestijden bekomen voor de eerste, tweede en derde graad volgens artikel 155. Als het hierdoor bekomen aantal lestijden negatief is dan wordt het aantal lestijden volgens artikel 155 voor de betrokken academie voor de eerste, tweede en derde graad gelijkgesteld met nul.<br>
-<br>
-Als de betrokken academie, conform artikel 155, recht heeft op additionele lestijden voor de vierde graad en de kortlopende studierichtingen dan wordt de helft van Y, voor de betrokken academie, afgetrokken van de lestijden bekomen voor de vierde graad en de kortlopende studierichtingen, conform artikel 155. Als het hierdoor bekomen aantal lestijden negatief is, wordt het aantal lestijden, conform artikel 155, voor de betrokken academie voor vierde graad en de kortlopende studierichtingen gelijkgesteld met nul.<br>
 &nbsp;
 
 ### ART 76/1.
@@ -1491,7 +1501,9 @@ De Vlaamse Regering bepaalt de verdere regels voor de vaststelling van de overtr
 
 ### ART 90.
 
-Een regelmatige leerling betaalt inschrijvingsgeld voor elk domein waarvoor hij zich inschrijft. Het volledige inschrijvingsgeld wordt betaald vóór 1 november van het betrokken schooljaar.<br>
+Een regelmatige leerling betaalt inschrijvingsgeld voor elk domein waarvoor hij zich inschrijft. Het volledige inschrijvingsgeld wordt betaald vóór 1 november van het betrokken schooljaar.&nbsp;De leerling die het volledige inschrijvingsgeld niet betaald heeft vóór 1 november wordt als een niet-regelmatige leerling beschouwd waarvan het schoolbestuur de inschrijving ongedaan kan maken.<br>
+<br>
+Als de leerling zich voor 1 oktober van het schooljaar in kwestie uitschrijft, betaalt het schoolbestuur het inschrijvingsgeld volledig terug. Na de voormelde datum betaalt het schoolbestuur het inschrijvingsgeld volledig, gedeeltelijk of niet terug conform de bepalingen in het academiereglement. Het Agentschap voor Onderwijsdiensten kan geen inschrijvingsgeld terugbetalen van leerlingen die op 1 oktober nog ingeschreven waren.<br>
 <br>
 Voor de toepassing van het eerste lid wordt de domeinoverschrijdende initiatieopleiding als een opleiding in een afzonderlijk domein beschouwd.<br>
 &nbsp;
@@ -2663,7 +2675,7 @@ Het lokale samenwerkingsinitiatief gebruikt de puntenenveloppe en het werkingsbu
 <br>
 Het schoolbestuur van de academie organiseert daartoe tijdelijke betrekkingen in het ambt van leraar in om de opdracht, vermeld in het eerste lid, te vervullen.<br>
 <br>
-De leeractiviteiten vinden, wat betreft de samenwerkingsinitiatieven met het basisonderwijs of het secundair onderwijs, plaats tijdens de lessen van het basisonderwijs, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap op grond van artikel 48 van het decreet basisonderwijs van 25 februari 1997 en artikel 12 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+De leeractiviteiten vinden, wat betreft de samenwerkingsinitiatieven met het basisonderwijs of het secundair onderwijs, plaats tijdens de lessen van het basisonderwijs, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap op grond van artikel 48 van het decreet basisonderwijs van 25 februari 1997 en artikel 12 van de Codex Secundair Onderwijs van 17 december 2010 of tijdens de lessen van het secundair onderwijs, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs.<br>
 &nbsp;
 
 ## Afdeling 3 Ondersteuning
@@ -2677,13 +2689,13 @@ In een samenwerkingsinitiatief dat in 2019 of 2020 is goedgekeurd, maar omwille 
 
 ### ART 140.
 
-§ 1. Voor de door de Vlaamse Regering goedgekeurde lokale samenwerkingsinitiatieven wordt in het schooljaar 2019-2020 een totaal volume van 2938 punten en 100.333 euro werkingsmiddelen ter beschikking gesteld.<br>
+§1. Voor de door de Vlaamse Regering goedgekeurde lokale samenwerkingsinitiatieven wordt in het schooljaar 2019-2020 een totaal volume van 2938 punten en 100.333 euro werkingsmiddelen ter beschikking gesteld.<br>
 <br>
-§ 2. In het schooljaar 2020-2021 bedraagt dit maximale volume 6303 punten en 200.667 euro werkingsmiddelen.<br>
+§2. In het schooljaar 2020-2021 bedraagt dit maximale volume 6303 punten en 200.667 euro werkingsmiddelen.<br>
 <br>
-§ 3. In het schooljaar 2021-2022 bedraagt dit maximale volume 9686 punten en 301.000 euro werkingsmiddelen.<br>
+§3. In het schooljaar 2021-2022 bedraagt dit maximale volume 9686 punten en 301.000 euro werkingsmiddelen.<br>
 <br>
-§ 4. Vanaf het schooljaar 2022-2023 wordt het totale volume punten berekend aan de hand van de volgende formule :<br>
+§4. Voor het schooljaar 2022-2023 wordt het totale volume punten berekend aan de hand van de volgende formule :<br>
 P(X/X+1) = P(X-1/X) x y,<br>
 waarbij :<br>
 1° P(X/X+1) = het totale volume punten voor lokale samenwerkingsinitiatieven in het schooljaar waarin het aangewend wordt;<br>
@@ -2695,7 +2707,7 @@ b) B : de omkadering voor het deeltijds kunstonderwijs voor het schooljaar (X-2/
 <br>
 Daarbij wordt de omkadering telkens berekend conform artikel 68 tot en met 75.<br>
 <br>
-§ 5. Vanaf het schooljaar 2022-2023 wordt het globale volume werkingsmiddelen berekend aan de hand van de volgende formule :<br>
+§5. Voor het schooljaar 2022-2023 wordt het globale volume werkingsmiddelen berekend aan de hand van de volgende formule :<br>
 W(X/X+1) = W(X-1/X) x z,<br>
 waarbij :<br>
 1° W(X/X+1) : het globale volume werkingsmiddelen voor lokale samenwerkingsinitiatieven in het schooljaar waarin ze aangewend worden;<br>
@@ -2709,20 +2721,25 @@ Daarbij worden de werkingsmiddelen telkens berekend conform de bepalingen in art
 <br>
 De totaliteit van het volume aan punten wordt berekend conform artikel 140, § 4.<br>
 <br>
-§ 6. Vanaf het begrotingsjaar 2020 worden de werkingsmiddelen, vermeld in de paragrafen 2 en 3, verminderd met 13.000 euro.<br>
-&nbsp;
+§6. Vanaf het begrotingsjaar 2020 worden de werkingsmiddelen, vermeld in de paragrafen 2 en 3, verminderd met 13.000 euro.<br>
+<br>
+§7. Vanaf het schooljaar 2023-2024 bedraagt het totale volume van de lokale samenwerkingsinitiatieven die de Vlaamse Regering goedkeurt, 9690 punten. Vanaf het voormelde schooljaar stelt de Vlaamse Regering jaarlijks maximaal 3230 punten van het voormelde totale volume ter beschikking voor nieuwe samenwerkingsinitiatieven.<br>
+<br>
+§8. Het totale volume van het werkingsbudget voor het schooljaar 2023­2024 wordt vastgelegd op 289.000 euro.<br>
+&nbsp;<br>
+Vanaf het schooljaar 2024-2025 wordt het bedrag van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die als volgt berekend wordt: A = (CX­1/CX­2), waarbij:<br>
+1° CX­1: de gezondheidsindex van de maand januari van het begrotingsjaar X­1;<br>
+2° CX­2: de gezondheidsindex van de maand januari van het begrotingsjaar X-2.<br>
+<br>
+De A­coëfficiënt, vermeld in het tweede lid, wordt voor 100% in rekening gebracht.
 
 ### ART 141.
 
-§ 1. Het puntenvolume per samenwerkingsinitiatief wordt bepaald door het aantal deelnemende leerlingen aan de leeractiviteiten te vermenigvuldigen met 0,6682.<br>
+§ 1. Het puntenvolume per samenwerkingsinitiatief bedraagt 35 punten als er minstens 53 leerlingen gewoon basis- of secundair onderwijs of studenten hoger onderwijs aan deelnemen. Als er minder leerlingen deelnemen, wordt het puntenaantal pro rata verminderd.<br>
 <br>
-Voor de berekening van het werkingsbudget per samenwerkingsinitiatief wordt het aantal deelnemende leerlingen vermenigvuldigd met 20,8 euro.<br>
+Het werkingsbudget per samenwerkingsinitiatief wordt bepaald door het aantal punten dat conform het eerste lid wordt toegekend, te vermenigvuldigen met de factor w, die jaarlijks berekend wordt door het totale volume van het werkingsbudget, dat wordt berekend conform artikel 140, §8, te delen door 9690<br>
 <br>
 § 2. Het maximale puntenvolume per samenwerkingsinitiatief bedraagt 35 punten.<br>
-<br>
-Het maximale werkingsbudget per samenwerkingsinitiatief bedraagt&nbsp;995 euro.<br>
-<br>
-Het globale volume aan werkingsmiddelen wordt berekend conform artikel 140, § 5.<br>
 &nbsp;
 
 ### ART 142.
@@ -2818,73 +2835,15 @@ De Vlaamse Regering bepaalt welke opleidingen in de nieuwe structuur overeenkome
 
 ### ART 153.
 
-In afwijking van artikel 69 heeft een academie voor de structuuronderdelen van de eerste, tweede en derde graad voor het schooljaar 2018-2019 recht op het aantal lestijden berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de lagere en middelbare graad en het aantal financierbare leerlingen in die graden op 1 februari 2018.<br>
-<br>
-In afwijking van artikel 69 heeft een academie voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen voor het schooljaar 2018-2019 recht op het aantal lestijden berekend volgens de omkaderingsreglementering die in het schooljaar 2017-2018 van toepassing was op de hogere en specialisatiegraad en het aantal financierbare leerlingen in die graden op 1 februari 2018.<br>
-<br>
-In afwijking van het eerste en tweede lid is de teldag voor domeinen in oprichting, waarvan de programmatie vóór 31 augustus 2018 van start is gegaan, 1 oktober 2018, als die teldag een hogere omkadering oplevert dan de teldag 1 februari 2018.<br>
-<br>
-De omkadering toegekend volgens het eerste, tweede en derde&nbsp;lid kan aangewend worden overeenkomstig de bepalingen in artikel 74, eerste en tweede lid.<br>
-&nbsp;
+...
 
 ### ART 154.
 
-Er worden voor de schooljaren 2019-2020, 2020-2021 en 2021-2022 additionele lestijden toegekend aan de academies die voldoen aan de voorwaarden, vermeld in artikel 155.<br>
-<br>
-Voor de berekening van de additionele lestijden bepaalt de Vlaamse Regering welke opleidingen in de nieuwe structuur vanaf 1 september 2018 overeenkomen met welke opleidingen in de oude structuur voor 1 september 2018.<br>
-<br>
-De betrekkingen die worden georganiseerd op basis van de additionele lestijden, vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.<br>
-&nbsp;
+...
 
 ### ART 155.
 
-§ 1. Voor het schooljaar 2019-2020 zijn er 783 additionele lestijden beschikbaar voor het geheel van de structuuronderdelen van de eerste, tweede en derde graad, hierna L genoemd, en 775 additionele lestijden voor het geheel van de structuuronderdelen van de vierde graad en de kortlopende studierichtingen, hierna H genoemd.<br>
-<br>
-§ 2. De additionele lestijden voor het schooljaar 2019-2020 worden toegekend aan academies die voldoen aan de volgende voorwaarden :<br>
-1° voor het geheel van de structuuronderdelen van de eerste, tweede en derde graad :<br>
-A - B &gt; 0 lestijden,<br>
-waarbij :<br>
-1) A : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de eerste, tweede en derde graad berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de lagere en middelbare graad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-2) B : het aantal lestijden van de betrokken academie voor de eerste, tweede en derde graad, berekend volgens artikel 69 op 1 februari 2019;<br>
-2° voor het geheel van de structuuronderdelen van de vierde graad en de kortlopende studierichtingen :<br>
-C- D &gt; 0 lestijden,<br>
-waarbij :<br>
-1) C : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de hogere en specialisatiegraad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-2) D : het aantal lestijden voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen, berekend conform artikel 69 op 1 februari 2019.<br>
-<br>
-§ 3. Een academie die voldoet aan de voorwaarden, vermeld in paragraaf 2, 1°, voor de eerste, tweede en derde graad, heeft voor het schooljaar 2019-2020 recht op Z lestijden. Z wordt berekend volgens de formule :<br>
-Z = q x w,<br>
-waarbij :<br>
-1° q : A - B,<br>
-waarbij :<br>
-a) A : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de eerste, tweede en derde graad berekend volgens de omkaderingsreglementering die in het schooljaar 2017-2018 van toepassing was op de lagere en middelbare graad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-b) B : het aantal lestijden van de betrokken academie voor de eerste, tweede en derde graad, berekend conform artikel 69 op 1 februari 2019;<br>
-2° w = L/y,<br>
-waarbij :<br>
-y : de som van de resultaten van A - B voor alle academies waarvoor A - B &gt; 0, waarbij :<br>
-1) A : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de eerste, tweede en derde graad berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de lagere en middelbare graad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-2) B : het aantal lestijden van de betrokken academie voor de eerste, tweede en derde graad, berekend volgens artikel 69 op 1 februari 2019;<br>
-3° Z gelijk wordt gesteld met q, als Z groter is dan q.<br>
-<br>
-§ 4. Een academie die voldoet aan de voorwaarden in § 2, 2°, heeft voor het schooljaar 2019-2020 recht op Z lestijden. Z wordt berekend volgens de formule :<br>
-Z = q x w,<br>
-waarbij :<br>
-1° q = C - D,<br>
-waarbij :<br>
-a) C : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de hogere en specialisatiegraad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-b) D : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen, berekend conform artikel 69 op 1 februari 2019;<br>
-2° waarbij w= H/y,<br>
-waarbij :<br>
-y : de som van de resultaten van C - D voor alle academies waarvoor C - D &gt; 0, waarbij :<br>
-1) C : het aantal lestijden van de betrokken academie voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen berekend volgens de omkaderingreglementering die in het schooljaar 2017-2018 van toepassing was op de hogere en specialisatiegraad en het aantal financierbare leerlingen in die graden op 1 februari 2019;<br>
-2) D : het aantal lestijden voor de structuuronderdelen van de vierde graad en de kortlopende studierichtingen, berekend conform artikel 69 op 1 februari 2019;<br>
-3° Z gelijk wordt gesteld met q, als Z groter is dan q.<br>
-<br>
-§ 5. Een academie die voldoet aan de voorwaarden in paragraaf 2 heeft voor het schooljaar 2020-2021 recht op 50/100 van Z lestijden, berekend conform paragraaf 3 en 4.<br>
-Een academie die voldoet aan de voorwaarden, vermeld in paragraaf 2, heeft voor het schooljaar 2021-2022 recht op 7/100 van Z lestijden berekend conform paragraaf 3 en 4.<br>
-<br>
-§ 6. De resultaten van de berekeningen, vermeld in paragraaf 3, 4 en 5, worden afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier en naar het lagere geheel getal als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier.<br>
-&nbsp;
+...
 
 ### ART 156.
 
@@ -2905,12 +2864,7 @@ Op programmaties die vóór 31 augustus 2018 van start gegaan zijn, blijven de t
 
 ### ART 158.
 
-§ 1. De tijdelijke projecten regionale netwerken voor expertise-uitwisseling inzake kunst- en cultuureducatie worden onder dezelfde voorwaarden als vermeld in artikel II.54 van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, verlengd tot 31 augustus 2019.<br>
-<br>
-§ 2. De tijdelijke projecten, vermeld in artikel II.55, 3° en 10°, van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, worden met ongewijzigde voorwaarden verlengd tot 31 augustus 2019.<br>
-<br>
-§ 3. De tijdelijke projecten inzake kunstinitiatie voor kansarme en/of allochtone minderjarigen die de onderwijsinspectie in haar eindevaluatie gunstig beoordeelt worden onder dezelfde voorwaarden als vermeld in artikel IV.46 tot en met IV.51 van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, verlengd tot 31 augustus 2019.<br>
-&nbsp;
+...
 
 ## Afdeling 2 Opheffingsbepalingen
 
