@@ -183,11 +183,14 @@ De indienende academie kan de leeractiviteiten vrij inplannen in de loop van het
 
 De academie kan de puntenenveloppe uitsluitend aanwenden voor de opdracht, vermeld in artikel 138 van het decreet van 9 maart 2018.<br>
 <br>
-De academie kan het werkingsbudget aanwenden voor:<br>
-1° materiaalkosten;<br>
-2° vervoerskosten en uitrustingskosten voor het lokale samenwerkingsinitiatief;<br>
-3° een vergoeding voor externe partners;<br>
-4° toegangsgelden.<br>
+De academie kan het werkingsbudget uitsluitend aanwenden voor de organisatie van culturele leeractiviteiten, vermeld in artikel 136, eerste lid, 3°, van het voormelde decreet, tijdens de looptijd van het lokale samenwerkingsinitiatief. Dat werkingsbudget kan aangewend worden voor de vergoeding van de volgende kosten:<br>
+1°&nbsp;&nbsp; &nbsp;de kosten van verbruiksmaterialen;<br>
+2°&nbsp;&nbsp; &nbsp;de kosten van duurzame materialen;<br>
+3°&nbsp;&nbsp; &nbsp;de vervoerskosten;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;een vergoeding voor externe partners;<br>
+5°&nbsp;&nbsp; &nbsp;de toegangsgelden.<br>
+<br>
+De schoolbesturen van de academie en de school nemen in de samenwerkingsovereenkomst, vermeld in artikel 137, tweede lid, van het voormelde decreet, bepalingen op over het eigendomsrecht van de duurzame materialen bij afloop van het lokale samenwerkingsinitiatief.<br>
 &nbsp;
 
 ## Hoofdstuk 4 Kwaliteitszorg
