@@ -38,36 +38,19 @@ In dit besluit wordt verstaan onder AGODI: het Agentschap voor Onderwijsdiensten
 
 ### ART 2.
 
-Aan de schoolbesturen van het buitengewoon secundair onderwijs, de centrumbesturen van de centra voor deeltijds beroepssecundair onderwijs en de centrumbesturen van de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat betreft het duaal leren en de Leertijd, worden extra ICT-middelen gegeven voor een totaalbedrag van 10.228.008 euro (tien miljoen tweehonderdachtentwintigduizend en acht euro).<br>
-<br>
-De middelen worden aangewend voor ICT-infrastructuur in de ruime zin en ICT-toestellen voor de leerlingen.<br>
-<br>
-De middelen worden op de volgende wijze verdeeld:<br>
-1° 4.544.616 euro voor ICT-infrastructuur in de ruime zin en ICT-toestellen voor de opleidingsvormen 1 en 2 van het buitengewoon secundair onderwijs;<br>
-2° 4.950.888 euro voor ICT-infrastructuur in de ruime zin en ICT-toestellen voor de centra voor deeltijds beroepssecundair onderwijs;<br>
-3° 732.504 euro voor ICT-infrastructuur in de ruime zin en ICT-toestellen voor de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat betreft het duaal leren en de Leertijd.
+...
 
 ### ART 3.
 
-Het bedrag per leerling voor de toelage, vermeld in artikel 2, wordt vastgesteld op 552 euro.<br>
-<br>
-De bedragen worden tussen de schoolbesturen en centrumbesturen van de centra voor deeltijds beroepssecundair onderwijs verdeeld op basis van de leerlingenaantallen die in aanmerking worden genomen voor de extra ICT-middelen op de teldag voor de berekening van de werkingsmiddelen voor het schooljaar 2020-2021.<br>
-<br>
-De bedragen worden tussen de centrumbesturen van de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen verdeeld op basis van de leerlingenaantallen die in aanmerking worden genomen voor de extra ICT-middelen in duale opleidingen of Leertijd, op teldag 1 februari 2020.
+...
 
 ### ART 4.
 
-Het totaal van de middelen die de schoolbesturen en centrumbesturen conform artikel 2 krijgen, gebruiken ze voor de doelstellingen vermeld in dit artikel 2, uiterlijk in het schooljaar 2022-2023.<br>
-<br>
-Wanneer schoolbesturen en centrumbesturen inzetten op ICT-toestellen kunnen zij deze aankopen, leasen of huren. De schoolbesturen en centrumbesturen bepalen dan autonoom welk type ICT-toestel ze aankopen, huren of leasen.<br>
-<br>
-Wordt ook als huur beschouwd: het model waarbij het schoolbestuur of centrumbestuur kiest voor een systeem waar leerlingen gebruik maken van een eigen ICT-toestel. In dit geval wordt op de schoolrekening op advies van de schoolraad een af te spreken bedrag in mindering van de schoolrekening gebracht.<br>
-<br>
-Wanneer zij reeds in het schooljaar 2020-2021 werkten met een huur, huurkoop of aankoopprogramma kunnen zij, in afwijking van het eerste lid, de middelen uiterlijk tot en met het schooljaar 2023-2024 aanwenden.
+...
 
 ### ART 5.
 
-Bij de aankopen houden de schoolbesturen en centrumbesturen rekening met de wet van 17 juni 2016 inzake de overheidsopdrachten.
+...
 
 ### ART 6.
 

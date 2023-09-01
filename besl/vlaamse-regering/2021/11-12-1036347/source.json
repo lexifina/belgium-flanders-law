@@ -2,16 +2,16 @@
   "codex_id": 1036347,
   "title": "Besluit van de Vlaamse Regering van 2021-11-12 tot vaststelling van de regels voor de toekenning van extra ICT-middelen 2021 voor de scholen in het buitengewoon secundair onderwijs OV1 en OV2 ,de centra voor deeltijds beroepssecundair onderwijs en de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, tot toekenning van extra middelen aan de Centra voor Leerlingenbegeleiding, in het kader van de uitvoering van het plan \"Van kwetsbaar naar weerbaar\" en tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs, wat betreft de verhoging van het aantal uur kinderverzorging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036347/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "0580ff4b244c9eb3ad8eb5e0a21b2662b7484a2ef5c4c0e6006ea1cf074779fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036347/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "3780037e6b421f044bd138f6a4977ecb6141172095fd9c2d1410112fe04a0179",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036347&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2023-09-01",
   "made": "2021-11-12",
   "gazette": "2021-12-20",
   "numac": 2021043347,
   "document_start": "2021-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
