@@ -73,6 +73,10 @@ Dit artikel heeft slechts uitwerking op voorwaarde dat uiterlijk 30 september 20
 3° de federale ministers, bevoegd voor de diverse veiligheidssectoren;<br>
 4° de vertegenwoordigers van de schoolbesturen in het secundair onderwijs.
 
+### ART 6sexies.
+
+De optie Thuis- en bejaardenzorg/zorgkundige is in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
+
 ### ART. 7.
 
 ...
@@ -167,7 +171,7 @@ Derde graad aso : eerste en tweede leerjaar<br>
 14. Rudolf Steinerpedagogie<br>
 15. Wetenschappen-wiskunde<br>
 16. Yeshiva<br>
-Derde graad aso : voorbereidend leerjaar op het hoger onderwijs<br>
+Derde graad aso : 7de leerjaar gericht op het hoger onderwijs<br>
 1. Bijzonder wetenschappelijke vorming<br>
 STUDIEGEBIED SPORT<br>
 Tweede graad aso : eerste en tweede leerjaar<br>
@@ -184,25 +188,25 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 Derde graad tso: eerste en tweede leerjaar<br>
 1. Lichamelijke opvoeding en sport<br>
 2. Topsport<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Sportclub- en fitnessbegeleider<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
 1. Topsport-sportinitiatie<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Topsport-sportinitiatie (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Topsport-sportbegeleider (ST)<br>
 STUDIEGEBIED AUTO<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Autotechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Toegepaste autotechnieken<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Auto (ST2)<br>
 2. Carrosserie (ST2)<br>
 3. Tweewielers en lichte verbrandingsmotoren (ST2)<br>
 4. Vrachtwagenchauffeur (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Auto-elektriciteit (ST)<br>
 2. Bedrijfsvoertuigen (ST)<br>
 3. Bijzonder transport (ST)<br>
@@ -217,7 +221,7 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Bouw- en houtkunde<br>
 2. Bouwtechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Bouw constructie- en planningstechnieken<br>
 2. Industriële bouwtechnieken<br>
 3. Weg- en waterbouwtechnieken<br>
@@ -233,7 +237,7 @@ Derde graad bso : eerste en tweede leerjaar<br>
 4. Ruwbouwafwerking (ST2)<br>
 5. Schilderwerk en decoratie (ST2)<br>
 6. Steen- en marmerbewerking (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Bedrijfsvloeren en waterdichte bekuipingen (ST)<br>
 2. Bio-ecologische bouwafwerking (ST)<br>
 3. Dakwerken (ST)<br>
@@ -249,7 +253,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 1. Chemie<br>
 2. Farmaceutisch-technisch assistent (ST2)<br>
 3. Techniek-wetenschappen<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Apotheekassistent<br>
 2. Biochemie<br>
 3. Chemische procestechnieken<br>
@@ -261,7 +265,7 @@ Tweede graad bso : eerste en tweede leerjaar<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Etalage en standendecoratie (ST2)<br>
 2. Publiciteitsgrafiek (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Decor- en standenbouw (ST)<br>
 2. Publiciteit en illustratie (ST)<br>
 STUDIEGEBIED FOTOGRAFIE<br>
@@ -276,7 +280,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 1. Glastechnieken<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Glasinstrumentenbouw (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Labo-glasinstrumentenbouw (ST)<br>
 STUDIEGEBIED GRAFISCHE COMMUNICATIE EN MEDIA<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
@@ -286,7 +290,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 1. Grafische communicatie<br>
 2. Multimedia<br>
 3. Printmedia<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Gestandaardiseerde en geprogrammeerde druktechnieken<br>
 2. Interactieve multimediatechnieken<br>
 3. Rotatiedruktechnieken<br>
@@ -296,7 +300,7 @@ Tweede graad bso : eerste en tweede leerjaar<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Drukken en afwerken (ST2)<br>
 2. Drukvoorbereiding (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Bedrijfsgrafiek (ST)<br>
 2. Grafische opmaaksystemen (ST)<br>
 3. Meerkleurendruk-drukwerkveredeling (ST)<br>
@@ -310,7 +314,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 2. Handel<br>
 3. Informaticabeheer<br>
 4. Secretariaat-talen<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Administratie vrije beroepen<br>
 2. Commercieel webverkeer<br>
 3. Immobiliënbeheer<br>
@@ -326,7 +330,7 @@ Tweede graad bso : eerste en tweede leerjaar<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Kantoor (ST2)<br>
 2. Verkoop (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Kantooradministratie en gegevensbeheer (ST)<br>
 2. Logistiek (ST)<br>
 3. Verkoop en vertegenwoordiging (ST)<br>
@@ -336,14 +340,14 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 1. Houttechnieken<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Houttechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Hout constructie- en planningstechnieken<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
 1. Hout<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Houtbewerking (ST2)<br>
 2. Houtbewerking-snijwerk (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Bijzondere schrijnwerkconstructies (ST)<br>
 2. Industriële houtbewerking (ST)<br>
 3. Interieurinrichting (ST)<br>
@@ -361,20 +365,20 @@ Derde graad bso : eerste en tweede leerjaar<br>
 1. Diamantbewerking (ST2)<br>
 2. Goud en juwelen (ST2)<br>
 3. Uurwerkmaken (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Geautomatiseerde diamantbewerking en kwaliteitsanalyse (ST)<br>
 2. Juwelencreatie (ST)<br>
 3. Uurwerkherstelling (ST)<br>
 STUDIEGEBIED KOELING EN WARMTE<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Koel- en warmtechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Industriële koeltechnieken<br>
 2. Industriële warmtetechnieken<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Centrale verwarming en sanitaire installaties (ST2)<br>
 2. Koelinstallaties (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Koeltechnische installaties (ST)<br>
 2. Non-ferro metalen dakbedekkingen (ST)<br>
 3. Verwarmingsinstallaties (ST)<br>
@@ -387,7 +391,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 2. Dier- en landbouwtechnische wetenschappen<br>
 3. Natuur- en groentechnische wetenschappen<br>
 4. Planttechnische wetenschappen<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Agro- en groenbeheer<br>
 2. Agro- en groenmechanisatie<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
@@ -399,7 +403,7 @@ Derde graad bso : eerste en tweede leerjaar<br>
 3. Landbouw (ST2)<br>
 4. Paardrijden en -verzorgen (ST2)<br>
 5. Tuinbouw en groenvoorziening (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Agromanagement (ST)<br>
 2. Bloemsierkunst (ST)<br>
 3. Bosbouw en bosbeheer (ST)<br>
@@ -414,19 +418,19 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 1. Bio-esthetiek<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Schoonheidsverzorging (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Esthetische lichaamsverzorging<br>
 2. Grime<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
 1. Haarzorg<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Haarzorg (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Haarstilist (ST)<br>
 STUDIEGEBIED MAATSCHAPPELIJKE VEILIGHEID<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Integrale veiligheid<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Veiligheidsberoepen (ST)<br>
 Derde graad tso: eerste en tweede leerjaar<br>
 1. Defensie en veiligheid (onverminderd artikel 6quinquies, tweede lid, van dit besluit)<br>
@@ -443,7 +447,7 @@ Tweede graad bso : eerste en tweede leerjaar<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Maritieme vorming (ST2)<br>
 2. Rijn- en binnenvaart (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Beperkte kustvaart (ST)<br>
 2. Schipper-motorist (ST)<br>
 STUDIEGEBIED MECHANICA-ELEKTRICITEIT<br>
@@ -464,7 +468,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 8. Mechanische vormgevingstechnieken (ST2)<br>
 9. Podiumtechnieken (ST2)<br>
 10. Vliegtuigtechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Audio-video en teletechnieken<br>
 2. Automotive<br>
 3. Computergestuurde mechanische productietechnieken<br>
@@ -488,7 +492,7 @@ Derde graad bso : eerste en tweede leerjaar<br>
 4. Mechanisch onderhoud (ST2)<br>
 5. Productieoperator (ST2)<br>
 6. Werktuigmachines (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Composietverwerking (ST)<br>
 2. Computergestuurde werktuigmachines (ST)<br>
 3. Fotolassen (ST)<br>
@@ -502,31 +506,31 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 1. Creatie en mode<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Creatie en mode<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Creatie en patroonontwerpen<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
 1. Moderealisatie en -presentatie<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Moderealisatie en -verkoop (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Mode- en maatkleding heren (ST)<br>
 2. Mode-verkoop (ST)<br>
 3. Modespecialisatie en trendstudie (ST)<br>
 STUDIEGEBIED MUZIEKINSTRUMENTENBOUW<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Muziekinstrumentenbouw (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Bouw historische muziekinstrumenten (ST)<br>
 2. Restauratie muziekinstrumenten (ST)<br>
 STUDIEGEBIED OPTIEK<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Optiektechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Contactologie-optometrie<br>
 STUDIEGEBIED ORTHOPEDISCHE TECHNIEKEN<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Orthopedietechnieken<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Orthopedische instrumenten<br>
 STUDIEGEBIED PERSONENZORG<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
@@ -535,7 +539,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 1. Gezondheids- en welzijnswetenschappen<br>
 2. Jeugd- en gehandicaptenzorg (ST2)<br>
 3. Sociale en technische wetenschappen<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Animatie in de ouderenzorg<br>
 2. Internaatswerking<br>
 3. Leefgroepenwerking<br>
@@ -546,7 +550,7 @@ Tweede graad bso : eerste en tweede leerjaar<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Organisatiehulp (ST2)<br>
 2. Verzorging (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Kinderzorg (ST)<br>
 2. Organisatie-assistentie (ST)<br>
 3. Thuis- en bejaardenzorg/zorgkundige (ST)<br>
@@ -555,7 +559,7 @@ Hoger beroepsonderwijs<br>
 STUDIEGEBIED TANDTECHNIEKEN<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Tandtechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Dentaaltechnieken en supra-structuren<br>
 STUDIEGEBIED TEXTIEL<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
@@ -565,14 +569,14 @@ Derde graad tso : eerste en tweede leerjaar<br>
 1. Textiel- en chemische technieken (ST2)<br>
 2. Textiel- en designtechnieken (ST2)<br>
 3. Textielproductietechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Textielveredeling en breikunde<br>
 2. Textielvormgevingstechnieken<br>
 Tweede graad bso : eerste en tweede leerjaar<br>
 1. Textiel<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Textiel (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Instellen van textielmachines (ST)<br>
 STUDIEGEBIED TOERISME<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
@@ -580,13 +584,13 @@ Tweede graad tso : eerste en tweede leerjaar<br>
 Derde graad tso : eerste en tweede leerjaar<br>
 1. Onthaal en public relations (ST2)<br>
 2. Toerisme (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Public relations<br>
 2. Toerisme en organisatie<br>
 3. Toerisme en recreatie<br>
 Derde graad bso : eerste en tweede leerjaar<br>
 1. Onthaal en recreatie (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Gespecialiseerd recreatiemedewerker (ST)<br>
 STUDIEGEBIED VOEDING<br>
 Tweede graad tso : eerste en tweede leerjaar<br>
@@ -600,7 +604,7 @@ Derde graad tso : eerste en tweede leerjaar<br>
 3. Hotel (ST2)<br>
 4. Slagerij en vleeswaren (ST2)<br>
 5. Voedingstechnieken (ST2)<br>
-Derde graad tso : Se-n-Se<br>
+Derde graad tso : 7de leerjaar<br>
 1. Assistent voedingsindustrie<br>
 2. Bakkerijtechnieken<br>
 3. Butler-intendant<br>
@@ -615,7 +619,7 @@ Derde graad bso : eerste en tweede leerjaar<br>
 2. Grootkeuken (ST2)<br>
 3. Restaurant en keuken (ST2)<br>
 4. Slagerij en verkoopsklare gerechten (ST2)<br>
-Derde graad bso : specialisatiejaar<br>
+Derde graad bso : 7de leerjaar gericht op instroom arbeidsmarkt<br>
 1. Banketaannemer-traiteur (ST)<br>
 2. Banketbakkerij-chocoladebewerking (ST)<br>
 3. Dieetbakkerij (ST)<br>
@@ -646,9 +650,9 @@ Derde graad kso : eerste en tweede leerjaar<br>
 6. Industriële kunst<br>
 7. Toegepaste beeldende kunst<br>
 8. Vrije beeldende kunst<br>
-Derde graad kso : voorbereidend leerjaar op het hoger onderwijs<br>
+Derde graad kso : 7de leerjaar gericht op het hoger onderwijs<br>
 1. Bijzondere beeldende vorming<br>
-Derde graad kso : Se-n-Se<br>
+Derde graad kso : 7de leerjaar<br>
 1. Architecturale vormgeving<br>
 2. Audiovisuele vormgeving<br>
 3. Grafische vormgeving<br>
@@ -663,7 +667,7 @@ Derde graad kso : eerste en tweede leerjaar<br>
 1. Dans<br>
 2. Muziek<br>
 3. Woordkunst-drama<br>
-Derde graad kso : voorbereidend leerjaar op het hoger onderwijs<br>
+Derde graad kso : 7de leerjaar gericht op het hoger onderwijs<br>
 1. Bijzondere muzikale vorming<br>
 2. Bijzondere vorming dans<br>
 3. Bijzondere vorming woordkunst-drama</p>
