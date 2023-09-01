@@ -110,12 +110,10 @@ Het verlof voor verminderde prestaties, dat het personeelslid genoten heeft tijd
 <br>
 Het eerste lid is niet van toepassing op :<br>
 1° de personeelsleden van het meesters-, vak- en dienstpersoneel;<br>
-2° de personeelsleden van de categorie van het administratief personeel van de medisch-pedagogische instituten van het Gemeenschapsonderwijs, van de semi-internaten of van de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben;<br>
+2° de personeelsleden van het administratief personeel van de semi-internaten;<br>
 3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
 4° de personeelsleden van de Centra voor Basiseducatie;<br>
-5° de personeelsleden van :<br>
-a) de internaten met permanente openstelling;<br>
-b) het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
+5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.
 
 ### ART. 7.
 
@@ -141,7 +139,15 @@ Om de totale duur te berekenen van het verlof voor verminderde prestaties dat ee
 
 De personeelsleden, vermeld in artikel 1, kunnen een afwezigheid voor verminderde prestaties aanvragen.<br>
 <br>
-Voor tijdelijk of contractueel aangestelde personeelsleden geldt dit enkel voor zover de afwezigheid binnen hun aanstellingsperiode valt.
+Voor tijdelijk of contractueel aangestelde personeelsleden geldt dit enkel voor zover de afwezigheid binnen hun aanstellingsperiode valt.<br>
+<br>
+In afwijking van het eerste lid heeft het personeelslid per kalenderjaar recht op vijf dagen afwezigheid voor verminderde prestaties voor zorgdoeleinden. De afwezigheid voor verminderde prestaties voor zorgdoeleinden is de afwezigheid voor verminderde prestaties om persoonlijke zorg of steun te verlenen aan een gezinslid of een familielid dat om een ernstige medische reden behoefte heeft aan aanzienlijke zorg of steun.&nbsp;<br>
+<br>
+In het derde lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;gezinslid: elke persoon die samenwoont met het personeelslid;<br>
+2°&nbsp;&nbsp; &nbsp;familielid: de echtgenoot van het personeelslid of de persoon met wie het personeelslid wettelijk samenwoont, en de bloedverwanten tot de eerste graad van het personeelslid;<br>
+3°&nbsp;&nbsp; &nbsp;een ernstige medische reden als gevolg waarvan men behoefte heeft aan aanzienlijke zorg of steun: een gezondheidstoestand, al dan niet het gevolg van een ziekte of medische ingreep, waarbij er behoefte is aan aanzienlijke zorg of steun;<br>
+4°&nbsp;&nbsp; &nbsp;zorg of steun: elke vorm van sociale, familiale of emotionele bijstand of verzorging.
 
 ### ART. 11.
 
@@ -157,6 +163,8 @@ De afwezigheid voor verminderde prestaties kan worden toegestaan voor al de pres
 <br>
 In afwijking van het eerste lid wordt er voor de personeelsleden vermeld in artikel 1, 5° geen onderscheid gemaakt of zij voor bepaalde of onbepaalde duur zijn aangesteld.<br>
 <br>
+In afwijking van het eerste lid wordt de afwezigheid voor verminderde prestaties voor zorgdoeleinden, vermeld in artikel 10, derde lid, opgenomen in volledige dagen.<br>
+<br>
 Het aantal prestatie-eenheden waarvoor het personeelslid op basis van het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage, ter beschikking is gesteld wegens ontstentenis van betrekking en waarvoor het niet gereaffecteerd of wedertewerkgesteld is, kan zowel in aanmerking worden genomen als prestatie-eenheden waarop de afwezigheid voor verminderde prestaties genomen kan worden, als prestatie-eenheden die het personeelslid nog moet blijven uitoefenen.<br>
 <br>
 Als het personeelslid ter beschikking gesteld is wegens gedeeltelijke ontstentenis van betrekking op het ogenblik dat het de arbeidsprestaties vermindert, worden eerst de prestatie-eenheden in aanmerking genomen waarvoor het personeelslid ter beschikking gesteld is wegens ontstentenis van betrekking en waarvoor het niet gereaffecteerd of wedertewerkgesteld is, en vervolgens de prestatie-eenhedenwaarvoor het wel gereaffecteerd of wedertewerkgesteld is in een niet-organieke betrekking.
@@ -171,7 +179,8 @@ Om de totale duur te berekenen van de afwezigheid voor verminderde prestaties di
 1° het verlof van een personeelslid dat zijn beroepsloopbaan heeft onderbroken, maar geen recht heeft op een onderbrekingsuitkering, ambtshalve wordt omgezet in een afwezigheid voor verminderde prestaties als vermeld in artikel 20, § 3, 2°, van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding;<br>
 2° het opvangverlof van een personeelslid ambtshalve wordt omgezet in afwezigheid voor verminderde prestaties omdat bij de terugkeer uit het buitenland blijkt dat geen adoptie heeft plaatsgehad, zoals vermeld in artikel 5 van het besluit van de Vlaamse Regering van 9 november 1994 betreffende het opvangverlof voor de personeelsleden van het onderwijs en de psycho-medisch-sociale centra met het oog op adoptie en pleegvoogdij;<br>
 3° een personeelslid gebruik maakt van de overgangsmaatregelen, als vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 11 februari 2000 betreffende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;<br>
-4° de afwezigheid van een personeelslid dat zorgkrediet heeft genomen, maar geen recht heeft op een onderbrekingsuitkering, wordt omgezet in afwezigheid voor verminderde prestaties.
+4° de afwezigheid van een personeelslid dat zorgkrediet heeft genomen, maar geen recht heeft op een onderbrekingsuitkering, wordt omgezet in afwezigheid voor verminderde prestaties.<br>
+5° het personeelslid het recht laat gelden op een afwezigheid voor verminderde prestaties voor zorgdoeleinden als vermeld in artikel 10, derde lid, van dit besluit.
 
 ### ART. 14.
 
@@ -183,12 +192,10 @@ Een afwezigheid voor verminderde prestaties die het personeelslid genoten heeft 
 <br>
 Het eerste lid is niet van toepassing op :<br>
 1° de personeelsleden van het meesters-, vak- en dienstpersoneel;<br>
-2° de personeelsleden van de categorie van het administratief personeel van de medisch-pedagogische instituten van het Gemeenschapsonderwijs, van de semi-internaten of van de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben;<br>
+2° de personeelsleden van het administratief personeel van de semi-internaten;<br>
 3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
 4° de personeelsleden van de Centra voor Basiseducatie;<br>
-5° de personeelsleden van :<br>
-a) de internaten met permanente openstelling;<br>
-b) het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
+5° de vastbenoemde personeelsleden in het transitiekader, vermeld in artikel 4 van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.
 
 ## HOOFDSTUK IV [GEMEENSCHAPPELIJKE BEPALINGEN (verv. BVR 30 augustus 2016, art. 14, I: 1 september 2017)]
 
