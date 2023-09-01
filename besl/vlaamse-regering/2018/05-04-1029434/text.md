@@ -32,7 +32,8 @@ Dit besluit is van toepassing op de Beiaardschool.
 
 In dit besluit wordt verstaan onder:<br>
 1° Beiaardschool: de Koninklijke Beiaardschool Jef Denyn te Mechelen;<br>
-2° besluit van 4 mei 2018: het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs.
+2° besluit van 4 mei 2018: het besluit van de Vlaamse Regering van 4 mei 2018 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs;<br>
+3° decreet van 9 maart 2018: het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs.
 
 ## HOOFDSTUK 2. Structuur en indeling van het opleidingsaanbod in vakken
 
@@ -40,15 +41,17 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 3.
 
-§ 1. De Beiaardschool organiseert een opleiding beiaard.<br>
+§ 1. De Beiaardschool kan alleen een langlopende studierichting beiaardier en een kortlopende studierichting specialisatie: optie beiaardier organiseren.<br>
 <br>
 § 2. Het aantal wekelijkse lestijden dat de Beiaardschool in de verschillende graden over heel de graad bekeken organiseert als ze de graad in kwestie organiseert, bedraagt:<br>
 1° in de twee leerjaren van de eerste graad: 2 lestijden;<br>
-2° in de vier leerjaren van de tweede graad: 14 lestijden;<br>
+2° in de vier leerjaren van de tweede graad voor volwassenen: 14 lestijden;<br>
 3° in de drie of vier leerjaren van de derde graad: 12 lestijden;<br>
 4° in de drie leerjaren van de vierde graad: 15 lestijden.<br>
 <br>
-§ 3. In afwijking van § 2 kan de Beiaardschool de opleiding ook organiseren in intensievere lespakketten van minimaal tweehonderd jaarlijkse lestijden op een kortere termijn dan een leerjaar in het lineaire traject.<br>
+Als de Beiaardschool de kortlopende studierichting specialisatie: optie beiaardier organiseert, bedraagt de studieomvang vier wekelijkse lestijden over het geheel van de twee leerjaren bekeken.<br>
+<br>
+§ 3. In afwijking van § 2 kan de Beiaardschool de studierichtingen ook organiseren in intensievere lespakketten van minimaal tweehonderd jaarlijkse lestijden op een kortere termijn dan een leerjaar in het lineaire traject.<br>
 <br>
 § 4. De volgende beroepskwalificatie geldt voor de vierde graad van de langlopende studierichting beiaardier, vermeld in artikel 18 § 1, 1° van het decreet van 9 maart 2018: beiaardier.
 
@@ -107,11 +110,13 @@ Vanaf het begrotingsjaar 2020 wordt het bedrag, vermeld in het eerste lid, vermi
 
 ### ART 9.
 
-Op basis van het aantal ingeschreven leerlingen ontvangt de Beiaardschool jaarlijks een pakket lestijden. Dat pakket lestijden bedraagt per ingeschreven leerling twee lestijden. De Beiaardschool kan dat urenpakket vrij aanwenden.<br>
+Op basis van het aantal financierbare leerlingen ontvangt de Beiaardschool jaarlijks een pakket lestijden. Dat pakket lestijden bedraagt per financierbare leerling twee lestijden. De Beiaardschool kan dat urenpakket vrij aanwenden.<br>
 <br>
 De Beiaardschool heeft recht op het ambt van directeur naar rato van 1/20 per volledige reeks van tien leerlingen.<br>
 <br>
-Als de Beiaardschool het aantal van vijf leerlingen niet bereikt, gaat ze over tot de geleidelijke sluiting van iedere graad, leerjaar per leerjaar, te beginnen met het laagste, tenzij ze op de vorige teldag voldeed aan de voorwaarden, vermeld in artikel 125 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs. In dat aantal zijn ook de studenten inbegrepen die de opleiding, vermeld in artikel 4, § 1, 3°, volgen. In dat geval worden de werkingsmiddelen en het aantal lestijden proportioneel aangepast.
+Als de Beiaardschool het aantal van vijf leerlingen niet bereikt, gaat ze over tot de geleidelijke sluiting van iedere graad, leerjaar per leerjaar, te beginnen met het laagste, tenzij ze op de vorige teldag voldeed aan de voorwaarden, vermeld in artikel 125 van het decreet van 9 maart 2018. In dat aantal zijn ook de studenten inbegrepen die de opleiding, vermeld in artikel 4, § 1, 3°, volgen. In dat geval worden de werkingsmiddelen en het aantal lestijden proportioneel aangepast.<br>
+<br>
+Behalve de norm, vermeld in het derde lid, zijn geen rationalisatie- of programmatienormen van toepassing op de Beiaardschool.
 
 ## HOOFDSTUK 5. Personeel
 
