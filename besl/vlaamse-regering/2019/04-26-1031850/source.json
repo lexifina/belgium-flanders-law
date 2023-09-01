@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031850,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-26 tot regioafbakening van de netoverstijgende regionale ondersteuningscellen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031850/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "9d92e315f5f7b596317f1d5998420cc83447f15ae3fb35414221eb7e89fc7224",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031850&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2019-04-26",
+  "gazette": "2019-06-27",
+  "numac": 2019013304,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
