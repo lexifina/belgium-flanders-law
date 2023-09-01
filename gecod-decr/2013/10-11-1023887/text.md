@@ -114,7 +114,9 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>19°...;<br>
 <br>
-19° /1 Databank Hoger Onderwijs: de databank, vermeld in artikel IV.90;</p>
+19° /1 Databank Hoger Onderwijs: de databank, vermeld in artikel IV.90;<br>
+<br>
+19° /2 deliberatiecijfer: een resultaat verworven na het examen op een opleidingsonderdeel waarvoor een student geen creditbewijs verwerft, maar waarvoor een examencommissie beslist dat dit opleidingsonderdeel niet hernomen moet worden;</p>
 
 <p>20°diplomacontract : een contract, aangegaan door een instellingsbestuur met de student die zich inschrijft met het oog op het behalen van een graad of diploma van een opleiding of die zich inschrijft voor een schakel- of voorbereidingsprogramma;</p>
 
@@ -128,7 +130,7 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>25°examencontract : een contract, aangegaan door een instellingsbestuur met de student die zich onder de door het instellingsbestuur bepaalde voorwaarden inschrijft voor het afleggen van examens met het oog op het behalen van :</p>
 
-<p style="text-align:justify">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een graad of een diploma van een opleiding, of</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een graad of een diploma van een opleiding, of</p>
 
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een creditbewijs voor 1 of meer opleidingsonderdelen;</p>
 
@@ -182,15 +184,15 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>42°onderwijsbevoegdheid :</p>
 
-<p style="text-align:justify">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de studiegebieden,</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de studiegebieden,</p>
 
-<p style="text-align:justify">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de delen van studiegebieden,</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de delen van studiegebieden,</p>
 
-<p style="text-align:justify">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden,</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden,</p>
 
-<p style="text-align:justify">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van delen van studiegebieden,</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van delen van studiegebieden,</p>
 
-<p style="text-align:justify">e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden met delen van studiegebieden,</p>
+<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden met delen van studiegebieden,</p>
 
 <p>waarin de ambtshalve geregistreerde instellingen krachtens deze codificatie opleidingen kunnen aanbieden;</p>
 
@@ -261,13 +263,16 @@ b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een examentuchtbeslissing, zijnde een sanctie o
 c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de toekenning van een bewijs van bekwaamheid, dat aangeeft dat een student op grond van eerder verworven competenties of eerder verworven kwalificaties bepaalde competenties heeft verworven;<br>
 d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de toekenning van een vrijstelling, zijnde de opheffing van de verplichting om over een opleidingsonderdeel, of een deel ervan, examen af te leggen;<br>
 e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een beslissing waarbij het volgen van een schakel- en/of voorbereidingsprogramma wordt opgelegd en waarbij de studieomvang van dergelijk programma wordt vastgesteld;<br>
-f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het opleggen van een maatregel van studievoortgangsbewaking, bedoeld in artikel II.246;<br>
+f) het opleggen van een individuele maatregel van studievoortgangsbewaking, bedoeld in artikel II.246, § 1 tot en met § 6, § 8 en § 9;<br>
 g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het weigeren van het opnemen van een bepaald opleidingsonderdeel in het contract waarvoor de student die een geïndividualiseerd traject volgt, zich nog niet eerder heeft ingeschreven;<br>
 h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een beslissing inzake gelijkwaardigheid van een buitenlands diploma van hoger onderwijs met een Vlaams diploma van hoger onderwijs genomen krachtens artikel II.256;<br>
 i) een individuele beslissing houdende de weigering tot inschrijving op basis van ontoereikend leerkrediet of een leerkrediet lager dan of gelijk aan 0, indien niet het gevolg van een algemene reglementaire bepaling;<br>
-j) een individuele beslissing houdende de weigering tot inschrijving op basis van het niet naleven van een opgelegde maatregel van studievoortgangsbewaking, bedoeld in artikel II.246;</p>
+j) een individuele beslissing houdende de weigering tot inschrijving op basis van het niet naleven van een opgelegde maatregel van studievoortgangsbewaking, bedoeld in artikel II.246;<br>
+k) een beslissing over substantiële verschillen in competenties als een creditbewijs meer dan vijf jaar geleden is verworven als vermeld in artikel II.225, § 3, tweede lid;</p>
 
-<p>70°toetredingsovereenkomst : de overeenkomst tussen instellingsbestuur en student bedoeld in artikel II.273;</p>
+<p>70°toetredingsovereenkomst : de overeenkomst tussen instellingsbestuur en student bedoeld in artikel II.273;<br>
+<br>
+70° /1: tolerantie: regeling in examenreglement van een instelling hoger onderwijs waarbij de student geen credits verwerft maar voor een beperkt aantal studiepunten toch het vak niet moet hernemen en waarbij de student zelf&nbsp;of de instelling hoger onderwijs beslist voor welke vakken hij dit inzet;</p>
 
 <p>71°verworven studiepunten : studiepunten, verbonden aan de opleidingsonderdelen, waarvoor een student een creditbewijs heeft ontvangen;</p>
 
@@ -283,7 +288,7 @@ j) een individuele beslissing houdende de weigering tot inschrijving op basis va
 
 <p>75°volstrekte meerderheid van stemmen : het feit dat het aantal voorstemmen het aantal tegenstemmen overtreft.</p>
 
-<p>76°voorbereidingsprogramma : een programma dat kan worden opgelegd aan een student die niet in het bezit is van een diploma dat op rechtstreekse wijze toelating verleent tot de opleiding waarvoor hij zich wenst in te schrijven;</p>
+<p>76°voorbereidingsprogramma : een programma dat kan worden opgelegd aan een student die niet in het bezit is van een diploma dat op rechtstreekse wijze toelating verleent tot de opleiding waarvoor hij zich wenst in te schrijven. Het programma beoogt de ontbrekende competenties van het diploma dat op rechtstreekse wijze toelating verleent bij te brengen. Indien meerdere diploma's rechtstreekse toelating verlenen, gaat het om de gemeenschappelijke ontbrekende competenties;</p>
 
 <p>77°vrijstelling : de opheffing van de verplichting om over een opleidingsonderdeel, of een deel ervan, examen af te leggen;<br>
 77° /1 werkplekleren : leeractiviteiten die gericht zijn op het verwerven van algemene of beroepsgerichte competenties, waarbij de arbeidssituatie de leeromgeving is;</p>
@@ -479,7 +484,37 @@ Op het ogenblik dat de partners beslissen tot fusie in de vereniging   zonder wi
 
 ### ART. II.11.
 
-<P style="LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt" class=CM14>Associaties hebben ten minste als   opdracht: <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM16>1°&nbsp;&nbsp; de organisatie van de samenwerking en   het aanhalen van de banden tussen de professionele bachelors en de academische   opleidingen met inbegrip van de overgangsmogelijkheden en de ontwikkeling van   leerlijnen; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM14>2°&nbsp;&nbsp; de bevordering van de coördinatie van   het onderzoek en meer bepaald van de translatieketen van fundamenteel naar   toegepast onderzoek en omgekeerd, en van innovatie; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM14>3°&nbsp;&nbsp; logistieke coördinatie in het   algemeen; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM14>4°&nbsp;&nbsp; als forum de evolutie naar een   geïntegreerde hogeronderwijsruimte voorbereiden. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>Om die opdrachten te vervullen, dragen   de partners ten minste de volgende bevoegdheden over aan de associatie:   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM6>1°&nbsp;&nbsp; de ordening van een rationeel   onderwijsaanbod binnen de onderwijsbevoegdheid van de instellingen, vermeld in   artikel II.78 tot en met II.101; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM6>2°&nbsp;&nbsp; het structureren van de   opleidingstrajecten en een verbetering van de doorstromingsmogelijkheden;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM6>3°&nbsp;&nbsp; de organisatie van trajectbegeleiding   voor studenten; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM6>4°&nbsp;&nbsp; de afstemming van de interne   reglementen inzake het personeelsbeleid; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM6>5°&nbsp;&nbsp; het opstellen van een meerjarenplan   voor onderwijsvernieuwing en onderwijsverbetering; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM16>6°&nbsp;&nbsp; het opstellen van een meerjarenplan   voor het onderzoek en de maatschappelijke en wetenschappelijke dienstverlening;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM29>7°&nbsp;&nbsp; het opstellen van een meerjarenplan   voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en   documentatievoorzieningen; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=CM29>8°&nbsp;&nbsp; het uitbrengen van een advies over het   aanbieden van nieuwe bachelor-of masteropleidingen in een instelling,   overeenkomstig de bepalingen van artikel II.152, tweede lid, 1°, a);   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>9°&nbsp;&nbsp; het uitbrengen van een advies   over rationalisatieplannen.</P>
+<p>Associaties hebben ten minste als opdracht: <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>1°&nbsp;&nbsp; de organisatie van de samenwerking en het aanhalen van de banden tussen de professionele bachelors en de academische opleidingen met inbegrip van de overgangsmogelijkheden en de ontwikkeling van leerlijnen;</p>
+
+<p>2°&nbsp;&nbsp; de bevordering van de coördinatie van het onderzoek en meer bepaald van de translatieketen van fundamenteel naar toegepast onderzoek en omgekeerd, en van innovatie;</p>
+
+<p>3°&nbsp;&nbsp; logistieke coördinatie in het algemeen;</p>
+
+<p>4°&nbsp;&nbsp; als forum de evolutie naar een geïntegreerde hogeronderwijsruimte voorbereiden.</p>
+
+<p>&nbsp;</p>
+
+<p>Om die opdrachten te vervullen, dragen de partners ten minste de volgende bevoegdheden over aan de associatie:</p>
+
+<p>1°&nbsp;&nbsp; de ordening van een rationeel onderwijsaanbod binnen de onderwijsbevoegdheid van de instellingen, vermeld in artikel II.78 tot en met II.101;</p>
+
+<p>2°&nbsp;&nbsp; het structureren van de opleidingstrajecten en een verbetering van de doorstromingsmogelijkheden;</p>
+
+<p>3°&nbsp;&nbsp; de organisatie van trajectbegeleiding voor studenten;</p>
+
+<p>4°&nbsp;&nbsp; de afstemming van de interne reglementen inzake het personeelsbeleid;</p>
+
+<p>5°&nbsp;&nbsp; het opstellen van een meerjarenplan voor onderwijsvernieuwing en onderwijsverbetering;</p>
+
+<p>6°&nbsp;&nbsp; het opstellen van een meerjarenplan voor het onderzoek en de maatschappelijke en wetenschappelijke dienstverlening;</p>
+
+<p>7°&nbsp;&nbsp; het opstellen van een meerjarenplan voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en documentatievoorzieningen;</p>
+
+<p>8°&nbsp;&nbsp; ...;</p>
+
+<p>9°&nbsp;&nbsp; het uitbrengen van een advies over rationalisatieplannen.</p>
 
 ### ART. II.12.
 
@@ -816,7 +851,7 @@ Aan voorstellen of adviezen van de Raad kunnen minderheidsnota's worden toegevoe
 
 ### ART. II.58.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§ 1. Het hoger beroepsonderwijs is hoger onderwijs dat beroepsgericht is, dat gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap en dat georganiseerd wordt door instellingen voor voltijds secundair onderwijs, centra voor volwassenenonderwijs en hogescholen.<br>
+<p>§ 1. Het hoger beroepsonderwijs is hoger onderwijs dat beroepsgericht is, dat gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap en dat georganiseerd wordt door instellingen voor voltijds secundair onderwijs en hogescholen.<br>
 <br>
 Een opleiding van het hoger beroepsonderwijs leidt tot een erkende onderwijskwalificatie van kwalificatieniveau 5, die bestaat uit minstens één erkende beroepskwalificatie van kwalificatieniveau 5.<br>
 <br>
@@ -902,9 +937,9 @@ De studieomvang van een afstudeerrichting bedraagt:<br>
 a) al aangeboden worden vóór het academiejaar 2018-2019: ten minste 60 studiepunten en ten hoogste 150 studiepunten;<br>
 b) nieuw aangeboden worden vanaf het academiejaar 2019-2020: ten minste 60 studiepunten en ten hoogste 120 studiepunten;<br>
 3° voor de bachelor-na-bacheloropleidingen van het hoger professioneel onderwijs: ten minste 30 studiepunten;<br>
-4° voor de bachelor- en masteropleidingen van het academisch onderwijs, met uitzondering van de bachelor- en de masteropleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten en van de masteropleidingen in het studiegebied Geneeskunde : ten minste 30 studiepunten en ten hoogste 120 studiepunten;<br>
+4° voor de bachelor- en masteropleidingen van het academisch onderwijs, met uitzondering van de bachelor- en de masteropleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten en van de masteropleidingen in de studiegebieden Geneeskunde en Tandheelkunde : ten minste 30 studiepunten en ten hoogste 120 studiepunten;<br>
 5° voor de bachelor- en masteropleidingen van het hoger professioneel en academisch onderwijs in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten: ten minste 30 studiepunten;<br>
-6° voor de masteropleidingen in het studiegebied Geneeskunde : ten minste 30 studiepunten.<br>
+6° voor de masteropleidingen in de studiegebieden Geneeskunde en Tandheelkunde : ten minste 30 studiepunten.<br>
 <br>
 De Vlaamse Regering maakt uiterlijk tegen 31 december 2023 een evaluatie waaruit moet blijken of de maximumgrens van 120 studiepunten, vermeld in het eerste lid, 2°, b), veralgemeend kan worden voor alle initiële professionele-bacheloropleidingen.
 
@@ -1725,6 +1760,7 @@ De Vlaamse Regering bepaalt de basiscompetenties op advies van de Vlaamse Onderw
 
 § 1. In dit hoofdstuk wordt verstaan onder :<br>
 1° inservicetraining : de praktijkcomponent van de lerarenopleiding die de kandidaat-leraar vervult als een personeelslid van een centrum, instelling of school;<br>
+1°/1 LIO-baan: een leraar-in-opleidingbaan;<br>
 2° preservicetraining : de praktijkcomponent van de lerarenopleiding die de student zonder een statutaire relatie met een centrum, instelling of school vervult.<br>
 <br>
 § 2. Het opleidingsprogramma van een lerarenopleiding vormt een geïntegreerd geheel van een of meer vakinhouden en het aspect leraarschap, met inbegrip van een luik vakdidactiek en klasmanagement, en bestaat uit een combinatie van theoretisch en praktisch onderwijs dat inspeelt op actuele maatschappelijke thema's en ontwikkelingen.<br>
@@ -1733,11 +1769,20 @@ De praktijkcomponent van het opleidingsprogramma, waarbij de student in hoofdzaa
 <br>
 § 3. De preservicetraining wordt begeleid door een personeelslid van de instelling die de lerarenopleiding aanbiedt, de stagebegeleider genaamd, en een personeelslid van het centrum, de instelling of de school, dat belast is met het mentorschap. De instellingen die de lerarenopleidingen aanbieden, sluiten een overeenkomst met de centra, instellingen of scholen. Die overeenkomst bevat onder meer : de verantwoordelijkheidsverdeling tussen het centrum, de instelling of de school, de student en de instelling die de lerarenopleiding aanbiedt, waarbij de rol van het centrum, de instelling of de school bij de evaluatie van de student wordt vastgelegd, de periode van het schooljaar waarin die preservicetraining plaatsvindt en de opdrachten die de stagiair moet opnemen.<br>
 <br>
-De inservicetraining gebeurt in de vorm van een leraar-in-opleidingsbaan, hierna de LIO-baan genoemd, en wordt uitgeoefend in een of meer onderwijsinstellingen. De leraar-in-opleiding wordt begeleid door een personeelslid van een of meer onderwijsinstellingen dat belast is met het mentorschap. De instellingen die de lerarenopleidingen aanbieden, sluiten een overeenkomst met de betrokken onderwijsinstellingen. Die overeenkomst bevat onder meer : de verantwoordelijkheidsverdeling tussen de onderwijsinstelling, de leraar-in-opleiding en de instelling die de lerarenopleiding aanbiedt, waarbij de rol van de onderwijsinstelling bij de opleiding, begeleiding en evaluatie van de leraar-in-opleiding wordt vastgelegd. De LIO-baan moet op jaarbasis ten minste vijfhonderd uren-leraar, lesuren, leraarsuren of lestijden bedragen. De LIO-baan in een centrum voor basiseducatie bedraagt op jaarbasis ten minste 0,6 vte. Indien de leraar-in-opleiding er niet in slaagt deze vijfhonderd uren te presteren, kan hij dit tekort aanvullen met preservicetraining. De LIO-baan kan hoogstens dertig studiepunten praktijkcomponent vervangen.<br>
+De inservicetraining gebeurt in de vorm van een LIO-baan.<br>
 <br>
-Onverminderd het tweede lid van deze paragraaf is een LIO-baan in het basisonderwijs enkel mogelijk voor :<br>
-1° de leraar-in-opleiding die wordt aangesteld in het ambt van leermeester lichamelijke opvoeding of in het ambt van leermeester algemene en sociale vorming, specialiteit : lichamelijke opvoeding; of<br>
-2° de leraar-in-opleiding die voldoet aan de bepalingen van artikel 11, tweede tot en met zesde lid, van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, en de bezoldigingsregeling in het gewoon basisonderwijs.
+§4. De LIO-baan voldoet aan al de volgende voorwaarden:<br>
+1° de LIO-baan wordt uitgeoefend in een of meer erkende, gefinancierde of gesubsidieerde onderwijsinstellingen van het gewoon of buitengewoon basisonderwijs, het gewoon of buitengewoon secundair onderwijs of deeltijds beroepssecundair onderwijs, het deeltijds kunstonderwijs, het volwassenenonderwijs of de basiseducatie;<br>
+2° de leraar in opleiding is aangesteld in een ambt van het onderwijzend personeel en volgt een lerarenopleiding die opleiding biedt voor hetzelfde onderwijsniveau als waar het ambt wordt uitgeoefend;<br>
+3° de leraar in opleiding wordt begeleid door een personeelslid van een of meer onderwijsinstellingen, dat belast is met het mentorschap;<br>
+4° de instellingen die de lerarenopleidingen aanbieden, sluiten een overeenkomst met de betrokken onderwijsinstellingen. Die overeenkomst bevat onder meer de verantwoordelijkheidsverdeling tussen de onderwijsinstelling, de leraar in opleiding en de instelling die de lerarenopleiding aanbiedt, waarbij de rol van de onderwijsinstelling bij de opleiding, begeleiding en evaluatie van de leraar in opleiding wordt vastgelegd;<br>
+5° een LIO-baan die op jaarbasis ten minste vijfhonderd uren-leraar, lesuren, leraarsuren of lestijden bedraagt, kan maximaal dertig studiepunten praktijkcomponent vervangen. In een centrum voor basiseducatie kan een LIO-baan die ten minste 0,6 vte bedraagt, maximaal dertig studiepunten praktijkcomponent vervangen. Een LIO-baan die op jaarbasis minder dan vijfhonderd uren-leraar, lesuren, leraarsuren of lestijden bedraagt, wordt aangevuld met preservicetraining. Een LIO-baan in een centrum voor basiseducatie die op jaarbasis minder dan 0,6 vte bedraagt, wordt aangevuld met preservicetraining;<br>
+6° de LIO-baan kan nooit meer dan dertig studiepunten praktijkcomponent vervangen.<br>
+<br>
+Met behoud van de toepassing van het eerste lid is een LIO-baan in het basisonderwijs alleen mogelijk voor:<br>
+1° de leraar in opleiding die wordt aangesteld in een ambt als vermeld in artikel 2, 1°, a) tot en met d), van het besluit van de Vlaamse Regering van 24 januari 2003 tot vaststelling en indeling van de ambten in het buitengewoon onderwijs;<br>
+2° de leraar in opleiding die wordt aangesteld in een ambt als vermeld in artikel 2, 1°, a) tot en met c), van het besluit van de Vlaamse Regering van 25 juni 2004 tot vaststelling en indeling van de ambten in de instellingen van het gewoon basisonderwijs.<br>
+&nbsp;
 
 ### ART. II.109.
 
@@ -1797,7 +1842,7 @@ In afwijking van artikel II.108, § 2, tweede lid, bedraagt de praktijkcomponent
 2° een bewijs van pedagogische bekwaamheid, als vermeld in artikel 3 van het besluit van de Vlaamse Regering 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, in combinatie met een bachelorof masterdiploma;<br>
 3° een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig met een van de voorgaande diploma's wordt erkend;<br>
 <br>
-§ 4. Een student die al beschikt over een bachelordiploma kan, in afwijking van paragraaf 2, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken. Tot en met het academiejaar 2022-2023 kan ook een student die beschikt over een diploma dat gelijkgeschakeld is met de graad van master, vermeld in artikel II.377 en in artikel II.378, § 1, tweede en derde lid, in afwijking van paragraaf 2 van dit artikel, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken.<br>
+§ 4. Een student die al beschikt over een bachelordiploma kan, in afwijking van paragraaf 2, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken. In afwijking van paragraaf 2 kan ook een student die beschikt over een diploma van master of een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst wordt erkend als gelijkwaardig met een diploma van master, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken.<br>
 <br>
 De hogescholen die de educatieve bacheloropleiding voor secundair onderwijs aanbieden, bieden de component leraarschap, met inbegrip van een cluster vakdidactiek, aan als een verkort traject van die opleiding.<br>
 <br>
@@ -2387,7 +2432,7 @@ De in het eerste lid vermelde beoordelingskaders toets nieuwe opleiding worden, 
 
 ### ART II.153/5.
 
-Gezamenlijke opleidingen, georganiseerd door een Vlaamse instelling voor hoger onderwijs samen met een of meer buitenlandse instellingen voor hoger onderwijs die bij succesvolle voltooiing ervan leiden tot een gezamenlijk diploma als vermeld in artikel II.172, § 3, worden beoordeeld aan de hand van de European Approach for Quality Assurance of Joint Programmes, goedgekeurd door de ministers van de Europese Hogeronderwijsruimte. Instellingen kunnen voor de organisatie van die externe beoordeling een beroep doen op een evaluatieorgaan dat bij het European Quality Assurance Register for Higher Education is geregistreerd. Instellingen vragen de toets nieuwe opleiding aan bij de accreditatieorganisatie binnen twee maanden na de publicatie van de externe beoordeling van de opleiding.
+Gezamenlijke opleidingen, georganiseerd door een Vlaamse instelling voor hoger onderwijs samen met een of meer buitenlandse instellingen voor hoger onderwijs die samen een geïntegreerd curriculum aanbieden dat bij succesvolle voltooiing ervan leidt tot multi- of gezamenlijke diplomering, worden beoordeeld aan de hand van de European Approach for Quality Assurance of Joint Programmes, goedgekeurd door de ministers van de Europese Hogeronderwijsruimte. Instellingen kunnen voor de organisatie van die externe beoordeling een beroep doen op een evaluatieorgaan dat bij het European Quality Assurance Register for Higher Education is geregistreerd. Instellingen vragen de toets nieuwe opleiding aan bij de accreditatieorganisatie binnen twee maanden na de publicatie van de externe beoordeling van de opleiding.
 
 ## [Onderafdeling 4. Beoordelingsrapport en besluit (ing. decr. 18 mei 2018, art. 37, I: 1 september 2019)]
 
@@ -2453,7 +2498,7 @@ Als de bevoegde dienst van de Vlaamse Regering adviseert dat er voor een bestaan
 <br>
 De hogescholen kunnen de opleiding pas aanbieden nadat ze met positief gevolg de toets nieuwe opleiding bij het accreditatieorgaan hebben ondergaan volgens de procedure, vermeld in artikel II.395. Ze dienen daarvoor een dossier in uiterlijk op 30 november 2024.<br>
 <br>
-§ 3. Als een hogeschool voor een opleiding van het hoger beroepsonderwijs, met uitzondering van de hbo5-opleiding Verpleegkunde, uiterlijk op 30 november 2024 nog nooit een toets nieuwe opleiding heeft aangevraagd bij de accreditatieorganisatie, verliest de hogeschool de onderwijsbevoegdheid voor die opleiding.
+§ 3. Als een hogeschool voor een opleiding van het hoger beroepsonderwijs, met uitzondering van de opleidingen Verpleegkunde en Basisverpleegkunde, uiterlijk op 30 november 2024 nog nooit een toets nieuwe opleiding heeft aangevraagd bij de accreditatieorganisatie, verliest de hogeschool de onderwijsbevoegdheid voor die opleiding.
 
 ## Afdeling 4 Wijzigingen aan de studieomvang van opleidingen
 
@@ -2492,23 +2537,15 @@ c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een doorgedreven vakinhoudelijke specialisatie;
 
 ### ART. II.160.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De Vlaamse Regering neemt vóór 1 december van het jaar waarin de aanvraag werd ingediend, een beslissing betreffende de uitbreiding van de studieomvang op basis van het advies van de accreditatieorganisatie en het ingediende dossier.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">In afwijking van het eerste lid neemt de Vlaamse Regering over de aanvragen, ingediend in 2013, een beslissing vóór 15 maart 2014.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. Indien de Vlaamse Regering de ingediende aanvraag heeft goedgekeurd, kan de masteropleiding starten ten vroegste het vierde academiejaar na het academiejaar waarin de Vlaamse Regering de beslissing heeft genomen.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§3. Een goedgekeurde onderzoeksmaster kan ten vroegste starten het academiejaar na het academiejaar waarin de Vlaamse Regering de beslissing heeft genomen, tenzij de Vlaamse Regering een andere startdatum heeft bepaald.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. In afwijking van hetgeen bepaald is in paragraaf 2, kan de Vlaamse Regering een vroegere startdatum bepalen op gemotiveerd verzoek van de instellingen, en op voorwaarde dat de studenten die in het academiejaar waarin de Vlaamse Regering de aanvraag heeft goedgekeurd, de bacheloropleiding waarop de masteropleiding aansluit zijn begonnen, de masteropleiding van 60 studiepunten kunnen afronden.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. De Vlaamse Regering neemt vóór 1 december van het jaar waarin de aanvraag werd ingediend, een beslissing betreffende de uitbreiding van de studieomvang op basis van het advies van de accreditatieorganisatie en het ingediende dossier.<br>
+<br>
+In afwijking van het eerste lid neemt de Vlaamse Regering over de aanvragen, ingediend in 2013, een beslissing vóór 15 maart 2014.<br>
+<br>
+§2. Indien de Vlaamse Regering de ingediende aanvraag heeft goedgekeurd, kan de masteropleiding starten ten vroegste het vierde academiejaar na het academiejaar waarin de Vlaamse Regering de beslissing heeft genomen.<br>
+<br>
+§3. Een goedgekeurde onderzoeksmaster kan ten vroegste starten het academiejaar na het academiejaar waarin de Vlaamse Regering de beslissing heeft genomen, tenzij de Vlaamse Regering een andere startdatum heeft bepaald.<br>
+<br>
+§4. In afwijking van hetgeen bepaald is in paragraaf 2, kan de Vlaamse Regering een vroegere startdatum bepalen op gemotiveerd verzoek van de instellingen, en op voorwaarde dat de studenten die in het academiejaar waarin de Vlaamse Regering de aanvraag heeft goedgekeurd, de bacheloropleiding waarop de masteropleiding aansluit zijn begonnen, de masteropleiding van 60 studiepunten kunnen afronden.<br>
 <br>
 In geval van de afwijking, vermeld in het eerste lid, bieden de instellingen de bestaande masteropleiding van 60 studiepunten en de masteropleiding met een uitgebreide studieomvang gelijktijdig aan gedurende een periode van 5 jaar. Na die termijn wordt de masteropleiding van 60 studiepunten stopgezet.<br>
 <br>
@@ -2526,7 +2563,14 @@ Ingeval de instelling die samenwerking niet kan realiseren, wordt de opleiding s
 <br>
 Een onderzoeksmaster in de studiegebieden Audiovisuele en beeldende kunst, Muziek en podiumkunsten, Nautische wetenschappen kan enkel door een hogeschool worden georganiseerd en aangeboden in samenwerking met een universiteit.<br>
 <br>
-§ 8. De studieomvang van de master in de huisartsgeneeskunde en van de master in de specialistische geneeskunde wordt uitgebreid tot 180 studiepunten. Deze uitgebreide studieomvang geldt voor alle studenten die zich voor de eerste keer inschrijven in deze masteropleidingen vanaf het academiejaar 2018-2019 na het voltooien van een masteropleiding in de geneeskunde met een studieomvang van 180 studiepunten.</p>
+§ 8. De studieomvang van de master in de huisartsgeneeskunde en van de master in de specialistische geneeskunde wordt uitgebreid tot 180 studiepunten. Deze uitgebreide studieomvang geldt voor alle studenten die zich voor de eerste keer inschrijven in deze masteropleidingen vanaf het academiejaar 2018-2019 na het voltooien van een masteropleiding in de geneeskunde met een studieomvang van 180 studiepunten.<br>
+<br>
+§ 9. De studieomvang van de volgende masteropleidingen wordt uitgebreid tot 180 studiepunten:<br>
+1° de masteropleiding in de klinische biologie;<br>
+2° de masteropleiding in de specialistische tandheelkunde;<br>
+3° de masteropleiding in de specialistische mondzorg.<br>
+<br>
+De opleiding waarvan de studieomvang wordt uitgebreid wordt geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de nieuw bepaalde studieomvang voor de eerste keer geheel doorlopen werd.</p>
 
 ### ART. II.161.
 
@@ -2547,6 +2591,8 @@ Een onderzoeksmaster in de studiegebieden Audiovisuele en beeldende kunst, Muzie
 Instellingen moeten door middel van de organisatie van specifieke studietrajecten met een studieomvang van ten hoogste 60 studiepunten studenten die een masteropleiding van 60 studiepunten hebben voltooid, de mogelijkheid bieden om de graad van master te behalen van de in studieomvang uitgebreide masteropleiding.<br>
 <br>
 Studenten die ingeschreven waren in een masteropleiding van 90 of 120 studiepunten in het academiejaar voorafgaand aan het academiejaar waarin de vermindering van de studieomvang van de masteropleiding wordt ingevoerd, kunnen hun masteropleiding voltooien binnen de 2 daaropvolgende academiejaren.<br>
+<br>
+§ 1/1. Studenten die ingeschreven waren in een masteropleiding klinische biologie, specialistische tandheelkunde of specialistische mondzorg in het academiejaar voorafgaand aan het academiejaar waarin de uitbreiding van de studieomvang van deze masteropleiding, vermeld in artikel II.160, § 9, wordt ingevoerd, kunnen deze masteropleiding voltooien binnen de vijf daaropvolgende academiejaren of kunnen inschrijven voor de in studieomvang uitgebreide masteropleiding met behoud van de verworven creditbewijzen.<br>
 <br>
 § 2. In het academiejaar dat de uitbreiding van de studieomvang van een bacheloropleiding wordt ingevoerd en in de drie academiejaren die daarop volgen kunnen studenten nog het diploma behalen van de bacheloropleiding op basis van de studieomvang van voor de uitbreiding. Deze mogelijkheid bestaat voor :<br>
 1° studenten die reeds in de bacheloropleiding ingeschreven waren vóór het academiejaar waarin de uitbreiding van de studieomvang wordt ingevoerd;<br>
@@ -2817,6 +2863,7 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 § 1. De instellingen, vermeld in artikel II.2 en II.3, vragen de opleidingsaccreditatie op maat van de eigen regie aan bij de accreditatieorganisatie voor al de volgende opleidingen :<br>
 1° voor de opleidingen die erkend zijn als nieuwe opleiding conform artikel II.152;<br>
 2° voor de opleidingen waarvan de studieomvang uitgebreid is of die erkend zijn als onderzoeksmaster, conform hoofdstuk 9, afdeling 4;<br>
+2° /1 voor de opleidingen, vermeld in artikel II.160, § 9, waarvan de studieomvang is uitgebreid;<br>
 3° voor de opleidingen die geacht geaccrediteerd te zijn conform artikel II.151;<br>
 4° voor de opleidingen die een positief accreditatiebesluit met een beperkte geldigheidsduur hebben ontvangen als vermeld in artikel II.170/13, § 4, 2° ;<br>
 5° na een negatief besluit instellingsreview, voor de opleidingen waarvan de accreditatietermijn vervalt, vermeld in artikel II.170/8, § 1, 3° ;<br>
@@ -2862,7 +2909,7 @@ Het dossier bevat de resultaten en uitkomsten van de regie die het mogelijk maak
 <br>
 Het beoordelingskader wordt, voor het toegepast kan worden, door de Vlaamse Regering, goedgekeurd na advies van de VLUHR als koepelorganisatie en de studentenkoepelverenigingen.<br>
 <br>
-Gezamenlijke opleidingen, die georganiseerd worden door een Vlaamse instelling voor hoger onderwijs samen met een of meer buitenlandse instellingen voor hoger onderwijs en die bij succesvolle voltooiing ervan leiden tot een gezamenlijk diploma als vermeld in artikel II.172, § 3, worden beoordeeld aan de hand van de European Approach for Quality Assurance of Joint Programmes, goedgekeurd door de ministers van de Europese Hogeronderwijsruimte. Instellingen kunnen voor de organisatie van die externe beoordeling een beroep doen op een evaluatieorgaan dat bij het European Quality Assurance Register for Higher Education is geregistreerd. Instellingen vragen de accreditatie aan bij de accreditatieorganisatie binnen twee maanden na de publicatie van de externe beoordeling van de opleiding.
+Gezamenlijke opleidingen, die georganiseerd worden door een Vlaamse instelling voor hoger onderwijs samen met een of meer buitenlandse instellingen voor hoger onderwijs en die samen een geïntegreerd curriculum aanbieden dat bij succesvolle voltooiing ervan leidt tot multi- of gezamenlijke diplomering, worden beoordeeld aan de hand van de European Approach for Quality Assurance of Joint Programmes, goedgekeurd door de ministers van de Europese Hogeronderwijsruimte. Instellingen kunnen voor de organisatie van die externe beoordeling een beroep doen op een evaluatieorgaan dat bij het European Quality Assurance Register for Higher Education is geregistreerd. Instellingen vragen de accreditatie aan bij de accreditatieorganisatie binnen twee maanden na de publicatie van de externe beoordeling van de opleiding.
 
 ## [Onderafdeling 4 Beoordelingsrapport en besluit (ing. decr. 18 mei 2018, art. 66, I: 1 september 2019)]
 
@@ -3010,7 +3057,15 @@ Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in
 
 ### ART. II.173.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Hogescholen en universiteiten   kunnen met 1 of meer instellingen van hoger onderwijs een overeenkomst sluiten   omtrent de gezamenlijke organisatie van onderwijs- en studieactiviteiten,   onderzoek, dienstverlening, kwaliteitszorg, en het gebruik van infrastructuur.   Hogescholen en universiteiten kunnen met derden samenwerkingsovereenkomsten   sluiten inzake de gezamenlijke organisatie van permanente vorming, het   praktijkgericht wetenschappelijk onderzoek, de maatschappelijke en de   wetenschappelijke dienstverlening met inachtneming van de bepalingen in deel 4,   titel 2, hoofdstuk 2, 3, 4 en 5.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De in paragraaf 1 bedoelde   overeenkomst bepaalt ten minste de aard en de vorm van de samenwerking en   desgevallend de termijn van de overeenkomst en de financiële en andere   engagementen van de betrokken partijen. In geval de samenwerking de gezamenlijke   organisatie van onderwijs- en andere studieactiviteiten betreft, vermeldt de   overeenkomst ook de nadere regels inzake de bekrachtiging van de studies met   inachtneming van de voorschriften inzake onderwijsbevoegdheid van de   instellingen van hoger onderwijs.</P>
+<p>§1. Hogescholen en universiteiten kunnen met een of meer instellingen van hoger onderwijs een overeenkomst sluiten over de gezamenlijke organisatie van onderwijs­ en studieactiviteiten, onderzoek, dienstverlening, kwaliteitszorg, en het gebruik van infrastructuur en apparatuur.<br>
+<br>
+Hogescholen en universiteiten kunnen met derden samenwerkingsovereenkomsten sluiten over de gezamenlijke organisatie van onderwijs­ en studieactiviteiten, infrastructuur en apparatuur, het praktijkgericht wetenschappelijk onderzoek, en de maatschappelijke en de wetenschappelijke dienstverlening met inachtneming van de bepalingen, vermeld in deel 4, titel 2, hoofdstuk 2, 3 en 4.<br>
+&nbsp;<br>
+§2. De overeenkomst, vermeld in paragraaf 1, bepaalt ten minste de aard en de vorm van de samenwerking en in voorkomend geval de termijn van de overeenkomst en de financiële en andere engagementen van de betrokken partijen.<br>
+<br>
+Als de samenwerking de gezamenlijke organisatie van onderwijsactiviteiten en andere studieactiviteiten met een instelling van hoger onderwijs betreft, vermeldt de overeenkomst ook de nadere regels voor de bekrachtiging van de studies met inachtneming van de voorschriften over de onderwijsbevoegdheid van de instellingen van hoger onderwijs.<br>
+<br>
+Als de samenwerking de gezamenlijke organisatie van onderwijsactiviteiten en andere studieactiviteiten met een derde betreft, wordt in de overeenkomst een bepaling opgenomen waaruit de regie op kwaliteitsborging van de hogeschool of universiteit blijkt.</p>
 
 ## TITEL 4 Organisatie van de opleidingen
 
@@ -3032,11 +3087,13 @@ Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in
 
 ### ART. II.176.
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Om als regelmatige student toegelaten te worden tot een opleiding van het hoger beroepsonderwijs, georganiseerd door een hogeschool, moet de student voldaan hebben aan de leerplicht.<br>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Om als regelmatige student toegelaten te worden tot een opleiding van het hoger beroepsonderwijs, georganiseerd door een hogeschool, moet de student voldaan hebben aan de leerplicht.<br>
 <br>
 Daarenboven moet de student beschikken over 1 van de volgende studiebewijzen:<br>
 1°&nbsp;&nbsp; een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, dat minstens 3 jaar behaald is;<br>
-2°&nbsp;&nbsp; een diploma van het secundair onderwijs;<br>
+1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 3, uitgereikt vanaf het schooljaar 2024-2025;<br>
+2°&nbsp;&nbsp; een diploma van het secundair onderwijs, uitgereikt tot en met het schooljaar 2024-2025;<br>
+2° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;<br>
 3°&nbsp;&nbsp; een certificaat van een opleiding van het secundair onderwijs voor sociale promotie van minimaal 900 lestijden;<br>
 4°&nbsp;&nbsp; een certificaat van een opleiding van het secundair volwassenenonderwijs van minimaal 900 lestijden;<br>
 5°&nbsp;&nbsp; een diploma van het hoger onderwijs voor sociale promotie;<br>
@@ -3063,7 +3120,16 @@ De voorwaarden om een toelatingsproef als vermeld in het eerste lid, punt 3°, t
 
 ### ART. II.178.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Als algemene   toelatingsvoorwaarden voor een bacheloropleiding gelden:<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; een diploma van het secundair   onderwijs;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; een diploma van het hoger   onderwijs van het korte type met volledig leerplan;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>3°&nbsp;&nbsp; een diploma van het hoger   onderwijs voor sociale promotie, met uitzondering van het Getuigschrift   Pedagogische Bekwaamheid, of </P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>4°&nbsp;&nbsp; een diploma of certificaat,   uitgereikt in het kader van het hoger beroepsonderwijs;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>5°&nbsp;&nbsp; een studiebewijs dat krachtens   een wettelijke norm, een Europese richtlijn of een internationale overeenkomst   als gelijkwaardig met 1 van de voorgaande diploma’s wordt erkend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het instellingsbestuur kan personen toelaten die in een land buiten de   Europese Unie een diploma of certificaat hebben behaald dat niet als   gelijkwaardig is erkend zoals bepaald in punt 5° van lid 1. Dit kan enkel op   voorwaarde dat dit document toegang verleent tot een bacheloropleiding in het   land waar het is uitgereikt die vergelijkbaar is met een Vlaamse   bacheloropleiding én op voorwaarde dat aan de authenticiteitscontrole van de   betreffende diploma’s of certificaten is voldaan, voor zover door de Vlaamse   overheid maatregelen zijn uitgevaardigd.</P>
+<p style="margin-left:0cm; margin-right:0cm">Als algemene toelatingsvoorwaarden voor een bacheloropleiding gelden:<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /--><br>
+1°&nbsp;&nbsp; een diploma van het secundair onderwijs, uitgereikt tot en met het schooljaar 2024-2025;<br>
+1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;<br>
+2°&nbsp;&nbsp; een diploma van het hoger onderwijs van het korte type met volledig leerplan;<br>
+3°&nbsp;&nbsp; een diploma van het hoger onderwijs voor sociale promotie, met uitzondering van het Getuigschrift Pedagogische Bekwaamheid, of<br>
+4°&nbsp;&nbsp; een diploma of certificaat, uitgereikt in het kader van het hoger beroepsonderwijs;<br>
+4° /1 een diploma van bachelor of master;<br>
+5°&nbsp;&nbsp; een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig met 1 van de voorgaande diploma’s wordt erkend.<br>
+<br>
+Het instellingsbestuur kan personen toelaten die in een land buiten de Europese Unie een diploma of certificaat hebben behaald dat niet als gelijkwaardig is erkend zoals bepaald in punt 5° van lid 1. Dit kan enkel op voorwaarde dat dit document toegang verleent tot een bacheloropleiding in het land waar het is uitgereikt die vergelijkbaar is met een Vlaamse bacheloropleiding én op voorwaarde dat aan de authenticiteitscontrole van de betreffende diploma’s of certificaten is voldaan, voor zover door de Vlaamse overheid maatregelen zijn uitgevaardigd.</p>
 
 ### ART. II.179.
 
@@ -3165,7 +3231,7 @@ Het aantal kandidaten dat jaarlijks gunstig gerangschikt kan worden, bedraagt vo
 <br>
 Afhankelijk van de door de kandidaten behaalde examenresultaten kan het startquotum overschreden worden. De cesuur wordt principieel getrokken tussen de kandidaten met een verschillend examenresultaat.<br>
 <br>
-Jaarlijks stelt de Vlaamse Regering per opleiding uiterlijk tegen 1 januari het aantal effectieve starters in het lopende academiejaar vast. Indien dit aantal afwijkt van het startquotum dat voor deze opleiding voor dat academiejaar vooropgesteld was, corrigeert de Vlaamse Regering het startquotum voor het volgende academiejaar met dat verschil.<br>
+Jaarlijks stelt de Vlaamse Regering per opleiding uiterlijk tegen 1 maart het aantal effectieve starters in het lopende academiejaar vast. Indien dit aantal afwijkt van het startquotum dat voor deze opleiding voor dat academiejaar vooropgesteld was, corrigeert de Vlaamse Regering het startquotum voor het volgende academiejaar met dat verschil.<br>
 <br>
 Bijkomend kan de Vlaamse Regering bij deze aanpassing van de startquota rekening houden met een of meer van de volgende beroeps- en opleidingsgerelateerde criteria:<br>
 1° het aantal afgestudeerden in de masteropleiding;<br>
@@ -3174,7 +3240,7 @@ Bijkomend kan de Vlaamse Regering bij deze aanpassing van de startquota rekening
 4° de opleidingscapaciteit.<br>
 <br>
 § 5. Het toelatingsexamen arts en het toelatingsexamen tandarts omvatten toetsen die betrekking hebben op:<br>
-1° wetenschappelijke kennis en inzicht in de vakken biologie, fysica, chemie en wiskunde, afgestemd op de tweede en de derde graad van het algemeen secundair onderwijs;<br>
+1° wetenschappelijke kennis en inzicht in de vakken biologie, fysica, chemie en wiskunde, afgestemd op de tweede en de derde graad van het algemeen secundair onderwijs voor de toelatingsexamens georganiseerd tot en met 2024 en afgestemd op de tweede en de derde graad van de doorstroomfinaliteit van het secundair onderwijs voor de toelatingsexamens georganiseerd vanaf 2025;<br>
 2° generieke competenties die aansluiten bij themata uit respectievelijk de beroepspraktijk van artsen en de beroepspraktijk van tandartsen.<br>
 <br>
 De Vlaamse Regering legt de nadere regels vast voor de indeling, de wegings- en evaluatiecriteria, met inbegrip van de afrondingsregels, de toetsmethoden en de inhoud van het examen.<br>
@@ -3193,21 +3259,22 @@ c) is verantwoordelijk voor de kwaliteit van het examen;<br>
 d) maakt vooraf het examenprogramma bekend en publiceert na afloop van het examen een representatief staal van de examenvragen en antwoorden;<br>
 5° de voorzitter van de examencommissie, vermeld in paragraaf 7, maakt de resultaten en de lijst, vermeld in paragraaf 3, bekend.<br>
 <br>
-§ 7. De toelatingsexamens, vermeld in paragraaf 1 en 2, worden georganiseerd door dezelfde examencommissie.<br>
+§ 7. De toelatingsexamens, vermeld in paragraaf 1 en 2, en in artikel II.187/1, worden georganiseerd door dezelfde examencommissie.<br>
 <br>
 De Vlaamse Regering benoemt de voorzitter, de secretaris en de leden van de examencommissie.<br>
 <br>
-De examencommissie telt, voorzitter en secretaris uitgezonderd, minimaal tien en maximaal vijftien leden.<br>
+De examencommissie telt, voorzitter en secretaris uitgezonderd, minimaal tien en maximaal twintig leden.<br>
 <br>
-De leden van de examencommissie worden op zodanige wijze aangeduid uit de leden van het zelfstandig academisch personeel van de universiteiten dat de nodige expertise aanwezig is op het vlak van de medische praktijk, de inhoud van de vakken, de onderwijskunde en de psychologie.<br>
+De leden van de examencommissie worden op zodanige wijze aangeduid uit de leden van het zelfstandig academisch personeel van de universiteiten dat de nodige expertise aanwezig is op het vlak van de medische, de tandheelkundige en de diergeneeskundige praktijk, de inhoud van de vakken, de onderwijskunde en de psychologie<br>
+.<br>
 <br>
-§ 8. De examens worden op zodanige wijze georganiseerd dat studenten per academiejaar aan de beide toelatingsexamens, vermeld in paragraaf 1 en 2, kunnen deelnemen.<br>
+§ 8. De examens worden op zodanige wijze georganiseerd dat studenten per academiejaar aan de toelatingsexamens, vermeld in paragraaf 1 en 2, en in artikel II.187/1, kunnen deelnemen.<br>
 <br>
-Kandidaten voor beide toelatingsexamens melden bij hun inschrijving uitdrukkelijk voor welke opleiding ze een voorkeur hebben.<br>
+Kandidaten voor beide toelatingsexamens, vermeld in paragraaf 1 en 2, melden bij hun inschrijving uitdrukkelijk voor welke opleiding ze een voorkeur hebben.<br>
 <br>
 De keuze, vermeld in het tweede lid, is bindend. Door die keuze worden kandidaten als ze voor een dubbele gunstige rangschikking in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 3, zesde lid, voor de opleiding van hun keuze.<br>
 <br>
-§ 9. Het slagen voor het toelatingsexamen arts en het toelatingsexamen tandarts in een bepaald burgerlijk jaar wordt alleen aanvaard voor het voldoen aan de bijkomende toelatingsvoorwaarde als de student uiterlijk op 30 september van dat burgerlijk jaar in het bezit is van het diploma secundair onderwijs of van een daarmee gelijkwaardig of gelijkgesteld studiebewijs.<br>
+§ 9. Het slagen voor het toelatingsexamen arts en het toelatingsexamen tandarts in een bepaald burgerlijk jaar wordt alleen aanvaard voor het voldoen aan de bijkomende toelatingsvoorwaarde als de student uiterlijk op 30 september van dat burgerlijk jaar voldoet aan de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178.<br>
 <br>
 § 10. De bijkomende toelatingsvoorwaarde gunstig gerangschikt zijn voor het toelatingsexamen arts of het toelatingsexamen tandarts, vermeld in paragraaf 1 en 2, geldt ook voor de inschrijving in een bachelor- of masteropleiding in het studiegebied Geneeskunde of in het studiegebied Tand-heelkunde als de student vrijstelling heeft verkregen van sommige opleidingsonderdelen, of vermindering van de studieomvang, op grond van een diploma dat behaald is na een opleiding waarvoor de voormelde bijkomende toelatingsvoorwaarde niet van toepassing is. De voormelde bijkomende toelatingsvoorwaarde geldt ook in geval van een rechtstreekse diplomering als vermeld in artikel II.245.<br>
 <br>
@@ -3339,11 +3406,11 @@ De instellingsoverschrijdende reglementen worden jaarlijks opgesteld en gevalide
 
 ### ART. II.190.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het instellingsbestuur kan bepalen dat de inschrijving voor sommige masteropleidingen, verder “master-na-masteropleidingen” genoemd, enkel rechtstreeks openstaat voor personen die reeds in het bezit zijn van een diploma van een masteropleiding.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Het instellingsbestuur kan bepalen dat de inschrijving voor sommige masteropleidingen, verder “master-na-masteropleidingen” genoemd, enkel rechtstreeks openstaat voor personen die reeds in het bezit zijn van een diploma van een masteropleiding.<br>
 <br>
 Het instellingsbestuur kan de toelating tot een master-na-masteropleiding beperken tot afgestudeerden van masteropleidingen met specifieke opleidingskenmerken.<br>
 <br>
-§2. Op grond van paragraaf 1, tweede lid, wijst het instellingsbestuur voor elke master-na-masteropleiding ten minste 1 masteropleiding aan waarop die master-na-masteropleiding rechtstreeks volgt. Het instellingsbestuur kan de inschrijving wel afhankelijk maken van een onderzoek naar de bekwaamheid van de student om de master-na-masteropleiding te volgen. Een instelling kan in het studiegebied Geneeskunde daarenboven het aantal inschrijvingen voor een master-na-masteropleiding, rekening houdend met de resultaten van het bekwaamheidsonderzoek, kwantitatief beperken in relatie tot de beschikbare opleidingscapaciteit, waarbij steeds wordt gewerkt op basis van objectieve parameters. Het instellingsbestuur legt de bijkomende inschrijvingsvoorwaarden vast in haar onderwijsreglement, conform artikel II.221, § 1, 5°, b). De beperking van het aantal inschrijvingen in een bepaalde master-na-masteropleiding kan er niet toe leiden dat een student na het behalen van het diploma van master in de geneeskunde geen enkele master-na-masteropleiding in het studiegebied Geneeskunde kan aanvatten.<br>
+§2. Op grond van paragraaf 1, tweede lid, wijst het instellingsbestuur voor elke master-na-masteropleiding ten minste 1 masteropleiding aan waarop die master-na-masteropleiding rechtstreeks volgt. Het instellingsbestuur kan de inschrijving wel afhankelijk maken van een onderzoek naar de bekwaamheid van de student om de master-na-masteropleiding te volgen. Een instelling kan in de studiegebieden Geneeskunde en Tandheelkunde daarenboven het aantal inschrijvingen voor een master-na-masteropleiding, rekening houdend met de resultaten van het bekwaamheidsonderzoek, kwantitatief beperken in relatie tot de beschikbare opleidingscapaciteit, waarbij steeds wordt gewerkt op basis van objectieve parameters. Het instellingsbestuur legt de bijkomende inschrijvingsvoorwaarden vast in haar onderwijsreglement, conform artikel II.221, § 1, 5°, b). De beperking van het aantal inschrijvingen in een bepaalde master-na-masteropleiding kan er niet toe leiden dat een student na het behalen van het diploma van master in de geneeskunde geen enkele master-na-masteropleiding in het studiegebied Geneeskunde kan aanvatten.<br>
 <br>
 Het instellingsbestuur kan voor afgestudeerden van soortgelijke masteropleidingen als de masteropleiding, vermeld in het eerste lid, die gevolgd werden aan een andere onderwijsinstelling, het programma van de master-na-masteropleiding differentiëren naargelang van de graad van inhoudelijke verwantschap, zonder dat de studieomvang aangepast wordt.<br>
 <br>
@@ -3403,7 +3470,7 @@ Alle beslissingen van instellingsbesturen die voor 1 januari 2013 zijn genomen e
 
 ### ART. II.200.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. In het kader van een in artikel II.199, eerste lid, bedoeld contract wordt overeenstemming bereikt over het studietraject op grond waarvan een graad of diploma van een opleiding, respectievelijk een creditbewijs kan worden behaald.<br>
+<p>§1. In het kader van een in artikel II.199, eerste lid, bedoeld contract wordt overeenstemming bereikt over het studietraject op grond waarvan een graad of diploma van een opleiding, respectievelijk een creditbewijs kan worden behaald.<br>
 <br>
 De overeenstemming kan tot stand komen via elektronische weg.<br>
 <br>
@@ -3417,11 +3484,26 @@ De opportuniteit van het doorlopen van een geïndividualiseerd traject wordt op 
 <br>
 Die verplichting geldt niet voor de bachelor-na-bacheloropleidingen en de master-na-masteropleidingen.<br>
 <br>
-De instellingen bieden voor de graduaatsopleidingen ten minste één modeltraject aan. De studieomvang ervan per academiejaar kan, in functie van de doelgroep van de opleiding, kleiner zijn dan de omvang vermeld in het eerste lid.</p>
+De instellingen bieden voor de graduaatsopleidingen ten minste één modeltraject aan. De studieomvang ervan per academiejaar kan, in functie van de doelgroep van de opleiding, kleiner zijn dan de omvang vermeld in het eerste lid.<br>
+<br>
+§ 4. Een student die zich voor de eerste keer inschrijft in een bepaalde bacheloropleiding in een bepaalde instelling schrijft zich in voor het modeltraject met een studieomvang van 54 tot 66 studiepunten per academiejaar.<br>
+<br>
+Deze verplichting geldt niet voor:<br>
+1° een student die op grond van zijn dossier een geïndividualiseerd traject als vermeld in paragraaf 2 verkreeg;<br>
+2° een student met een bijzonder statuut. De instelling kan voor de groep van studenten met dat bijzonder statuut een modeltraject aanbieden met een afwijkende studieomvang;<br>
+3° een student die reeds een bachelor- of masterdiploma heeft behaald of een diploma dat daarmee gelijkwaardig wordt erkend.<br>
+<br>
+§ 5. Voor bachelor- en masteropleidingen beperkt het instellingsbestuur volgtijdelijkheid tot het moeten gevolgd hebben van een opleidingsonderdeel of opleiding vooraleer een student een ander opleidingsonderdeel kan volgen en hierover een examen kan afleggen. In geval van risico of veiligheidsproblemen kan het instellingsbestuur daarenboven ook vastleggen dat een student moet geslaagd zijn voor een opleidingsonderdeel of een opleiding vooraleer een student een ander opleidingsonderdeel kan volgen en hierover een examen kan afleggen.<br>
+<br>
+§ 6. Onverminderd de regels rond het leerkrediet heeft een student aan wie in het kader van een bepaalde opleiding een bindende voorwaarde als vermeld in artikel II.246, § 1, derde lid, § 3, tweede lid, en § 4, tweede en derde lid, wordt opgelegd, het recht om binnen het academiejaar waarop de bindende voorwaarde betrekking heeft, minimaal 45 studiepunten in die opleiding op te nemen, tenzij volgtijdelijkheid als vermeld in paragraaf 5 dat niet toelaat.<br>
+<br>
+Onverminderd de regels rond het leerkrediet heeft een student aan wie in het kader van een bepaalde opleiding geen bindende voorwaarde als vermeld in artikel II.246, §1, derde lid, §3, tweede lid, en §4, tweede en derde lid, wordt opgelegd en die in een vorig academiejaar niet voor alle opgenomen opleidingsonderdelen een creditbewijs of een deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, het recht om jaarlijks 72 studiepunten in die opleiding op te nemen, tenzij volgtijdelijkheid als vermeld in paragraaf 5, dat niet toelaat.<br>
+<br>
+§ 7. Een student die niet voor alle opgenomen opleidingsonderdelen een creditbewijs of deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, schrijft zich bij een volgende inschrijving in die opleiding ten minste opnieuw in voor alle opleidingsonderdelen waarvoor hij geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet. Als het gaat om een keuzeopleidingsonderdeel of om de opleidingsonderdelen van een bepaalde afstudeerrichting of van een onderwijsvak als vermeld in artikel II.113, kan de student opteren voor een vervangend keuzeopleidingsonderdeel of voor de opleidingsonderdelen van een andere afstudeerrichting of de opleidingsonderdelen van een ander onderwijsvak, binnen de geldende afspraken van de instelling in kwestie.</p>
 
 ### ART. II.201.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het diplomacontract omvat ten minste volgende vermeldingen, desgevallend onder verwijzing naar de toepasselijke bepalingen van het onderwijs- en examenreglement:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Het diplomacontract omvat ten minste volgende vermeldingen, desgevallend onder verwijzing naar de toepasselijke bepalingen van het onderwijs- en examenreglement:<br>
 1°&nbsp;&nbsp; het diploma dat de student wil behalen en de doelstellingen van het opleidingsprogramma;<br>
 2°&nbsp;&nbsp; de studieomvang van de opleiding;<br>
 3°&nbsp;&nbsp; de opleidingsonderdelen die in het traject moeten of kunnen worden opgenomen en de studieomvang en volgtijdelijkheid van deze opleidingsonderdelen;<br>
@@ -3430,7 +3512,7 @@ De instellingen bieden voor de graduaatsopleidingen ten minste één modeltrajec
 6°&nbsp;&nbsp; in voorkomend geval : de verkregen studieomvangvermindering ten gevolge van (een) vrijstelling(en);<br>
 7°&nbsp;&nbsp; het aantal examenkansen;<br>
 8°&nbsp;&nbsp; de evaluatie- en deliberatieregels;<br>
-9°&nbsp;&nbsp; de mogelijke maatregelen van studievoortgangsbewaking bedoeld in artikel II.246, §1.<br>
+9°&nbsp;&nbsp; de mogelijke maatregelen van studievoortgangsbewaking bedoeld in artikel II.246.<br>
 <br>
 §2. Het creditcontract omvat ten minste volgende vermeldingen, desgevallend onder verwijzing naar de toepasselijke bepalingen van het onderwijs- en examenreglement:<br>
 1°&nbsp;&nbsp; het/de opleidingsonderde(e)l(en) waarvoor de student een inschrijving neemt;<br>
@@ -3441,7 +3523,7 @@ De instellingen bieden voor de graduaatsopleidingen ten minste één modeltrajec
 6°&nbsp;&nbsp; in voorkomend geval : de verkregen studieomvangvermindering ten gevolge van (een) vrijstelling(en);<br>
 7°&nbsp;&nbsp; het aantal examenkansen;<br>
 8°&nbsp;&nbsp; de evaluatieregels;<br>
-9°&nbsp;&nbsp; de mogelijke maatregelen van studievoortgangsbewaking bedoeld in artikel II.246, §1.<br>
+9°&nbsp;&nbsp; de mogelijke maatregelen van studievoortgangsbewaking bedoeld in artikel II.246.<br>
 <br>
 §3. Het examencontract omvat ten minste volgende vermeldingen, desgevallend onder verwijzing naar de toepasselijke bepalingen van het onderwijs- en examenreglement:<br>
 1°&nbsp;&nbsp; de in het eerste of het tweede lid bedoelde elementen, naar gelang het gaat om een contract met het oog op het behalen van een graad of een diploma dan wel een contract met het oog op het behalen van een creditbewijs;<br>
@@ -3478,7 +3560,9 @@ De eerste 60 verworven studiepunten door een student onder diplomacontract worde
 2°&nbsp;&nbsp; de helft van het aantal opgenomen studiepunten, afgerond naar het bovenliggende geheel getal, opnieuw toegevoegd aan het individuele leerkrediet als de student verandert tussen 1 december en 15 maart van het desbetreffende academiejaar;<br>
 3°&nbsp;&nbsp; het aantal opgenomen studiepunten afgetrokken van het leerkrediet als de student verandert na 15 maart van het desbetreffende academiejaar.<br>
 <br>
-§3. Het leerkrediet van een student die zich bevindt in een overmachtssituatie en waarvoor een aangepaste examenregeling geen oplossing biedt zoals vastgesteld in het kader van een procedure voor de Raad voor betwistingen inzake studievoortgangsbeslissingen, wordt teruggegeven voor de opgenomen studiepunten die betrekking hebben op de opleidingsonderdelen waarover de student geen examen heeft kunnen afleggen.</p>
+§ 3. Een student die zich in een overmachtssituatie bevond waardoor hij niet kon deelnemen aan alle of een gedeelte van de examens voor de opleidingsonderdelen waarvoor hij in een academiejaar studiepunten opgenomen heeft, kan een verzoek indienen om de opgenomen studiepunten waarover de student geen examen heeft kunnen afleggen, terug toe te voegen aan zijn leerkrediet.<br>
+<br>
+De student dient zijn verzoek in bij de Raad voor betwistingen inzake studievoortgangsbeslissingen. Het verzoek wordt ingediend uiterlijk binnen een termijn van drie jaar die ingaat op 1 september van het academiejaar waarop het verzoek betrekking heeft.</p>
 
 <p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
@@ -3617,7 +3701,7 @@ De referentiedatum voor de jaarlijkse aanpassing is 1 september 2003.</p>
 
 ### ART. II.221.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het instellingsbestuur stelt een onderwijsreglement op. Dit omvat ten minste:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Het instellingsbestuur stelt een onderwijsreglement op. Dit omvat ten minste:<br>
 1°&nbsp;&nbsp; voor elke bachelor- en masteropleiding : de graad waartoe de opleiding leidt, de kwalificatie van de graad en desgevallend de specificatie van de graad;<br>
 2°&nbsp;&nbsp; voor elke opleiding van het hoger beroepsonderwijs :<br>
 a)&nbsp;&nbsp;&nbsp; het diploma waartoe de opleiding leidt;<br>
@@ -3625,7 +3709,7 @@ b)&nbsp;&nbsp;&nbsp; de bacheloropleidingen die erop volgen;<br>
 3°&nbsp;&nbsp; voor elke opleiding :<br>
 a)&nbsp;&nbsp;&nbsp; de inhoud en de doelstellingen van de opleiding, het opleidingsprogramma en de indeling in opleidingsonderdelen;<br>
 b)&nbsp;&nbsp;&nbsp; in voorkomend geval : de afstudeerrichtingen;<br>
-c)&nbsp;&nbsp;&nbsp; de volgtijdelijkheid van de onderscheiden opleidingsonderdelen;<br>
+c)&nbsp;&nbsp;&nbsp; de volgtijdelijkheid van de onderscheiden opleidingsonderdelen, en in voorkomend geval de risico's of veiligheidsproblemen op basis waarvan die volgtijdelijkheid wordt opgelegd;<br>
 d)&nbsp;&nbsp;&nbsp; de organisatie van de opleiding in de vorm van modeltrajecten en geïndividualiseerde trajecten;<br>
 4°&nbsp;&nbsp; voor elk opleidingsonderdeel : de doelstellingen van het opleidingsonderdeel (aard, inhoud, profiel) ;<br>
 5°&nbsp;&nbsp; voor elke opleiding en voor elk opleidingsonderdeel :<br>
@@ -3672,7 +3756,12 @@ d)&nbsp;&nbsp;&nbsp; het opleggen van een in artikel II.246 bedoelde maatregel v
 17°de procedure ter behandeling van klachten van de studenten met betrekking tot de onderwijsverzorging;<br>
 18°de regelen inzake de organisatie van informatiesessies voor studenten die zich voor de eerste maal inschrijven aan de instelling;<br>
 19°de procedure die studenten met functiebeperkingen dienen te volgen om redelijke aanpassingen aan te vragen en de wijze waarop ze binnen de instelling beroep kunnen aantekenen tegen een weigering van aanpassingen;<br>
-20° in voorkomend geval: de bijkomende inschrijvingsvoorwaarde tot het afleggen van een verplichte, niet-bindende toelatingsproef als vermeld in artikel II.188/1, de modaliteiten waarbinnen dat moet gebeuren, de mogelijke afwijkingen op de verplichte deelname, en, in voorkomend geval de remediëring die wordt opgelegd.<br>
+20° in voorkomend geval: de bijkomende inschrijvingsvoorwaarde van het afleggen van een starttoets en de verplichte remediëring, vermeld in artikel II.188/1, die wordt opgelegd met verwijzing naar het geldende instellingsoverschrijdend reglement;<br>
+21° de maatregelen van studievoortgangsbewaking die kunnen worden opgelegd conform artikel II.246;<br>
+22° de wijze waarop omgegaan wordt met overmacht en bijzondere individuele omstandigheden in het kader van de maatregelen van studievoortgangsbewaking, vermeld in artikel II.246;<br>
+23° de grens vanaf wanneer een inschrijving kan geweigerd worden in eenzelfde initiële bacheloropleiding, vermeld in artikel II.246, § 3, vierde lid;<br>
+24° de grens vanaf wanneer een instelling studieadvies geeft, vermeld in artikel II.246, § 10;<br>
+25° de bijzondere statuten toegekend aan een groep van studenten en de voorwaarden en modaliteiten voor de toekenning hiervan<br>
 <br>
 §2. De in paragraaf 1, 19° vermelde interne beroepsprocedure beantwoordt minimaal aan de volgende voorwaarden :<br>
 1°&nbsp;&nbsp; het beroep wordt behandeld door personen die onafhankelijk zijn van de partijen en die niet rechtstreeks betrokken waren bij de beslissing tot weigering van de gevraagde aanpassingen;<br>
@@ -3718,7 +3807,9 @@ Een student kan niet verzaken aan een creditbewijs.<br>
 <br>
 §3. Een creditbewijs blijft onbeperkt geldig binnen de betrokken opleiding aan de instelling waar dit werd behaald.<br>
 <br>
-§ 4. De hogeronderwijsinstellingen garanderen dat een student bij aanpassingen aan het curriculum zijn reeds verworven studiepunten kan valideren binnen het vernieuwde studieprogramma. De instellingen voorzien hiertoe in de noodzakelijke overgangsmaatregelen in het onderwijs- en examenreglement als vermeld in artikel II.222, 13°.</p>
+Het instellingsbestuur kan evenwel na verloop van vijf jaar, als het instellingsbestuur substantiële verschillen kan aantonen tussen de competenties die de student volgens het creditbewijs heeft verworven en de huidige beoogde competenties van een opleidingsonderdeel, de student opleggen om die substantiële verschillen te overbruggen door een of meer opleidingsonderdelen volledig of gedeeltelijk op te nemen. De voormelde termijn van vijf jaar wordt berekend vanaf de eerste dag van de maand oktober die volgt op het academiejaar waarin het creditbewijs is verworven.<br>
+<br>
+§ 4.Met behoud van de toepassing van paragraaf 3, tweede lid, garanderen de hogeronderwijsinstellingen dat een student bij aanpassingen aan het curriculum zijn reeds verworven studiepunten kan valideren binnen het vernieuwde studieprogramma.&nbsp;De instellingen voorzien hiertoe in de noodzakelijke overgangsmaatregelen in het onderwijs- en examenreglement als vermeld in artikel II.222, 13°.</p>
 
 ### ART. II.226.
 
@@ -3736,7 +3827,7 @@ Een student kan niet verzaken aan een creditbewijs.<br>
 
 ### ART. II.229.
 
-<p>De student wordt door de examencommissie voor het geheel van de opleiding geslaagd verklaard als die op gemotiveerde wijze van oordeel is dat de doelstellingen van het opleidingsprogramma globaal verwezenlijkt zijn. De toepassing van dit artikel verwacht dat de student kan aantonen dat er sprake is van bijzondere omstandigheden en dat hij kan aantonen dat hij de doelstellingen globaal genomen behaald heeft.<br>
+<p>De examencommissie kan een student op gemotiveerde wijze voor het geheel van de opleiding geslaagd verklaren. De examencommissie toetst haar eindoordeel aan de doelstellingen van de opleiding en de eventuele verbijzondering die de student hiervan maakte door zijn opname van specifieke verbredings- of verdiepingskeuzes. De toepassing van dit artikel verwacht ten minste dat de student aangetoond heeft dat er sprake is van bijzondere persoonlijke of familiale omstandigheden en dat voornoemde doelstellingen bereikt werden.<br>
 <br>
 Het feit dat een student globaal geslaagd wordt verklaard, betekent niet dat hij in aanmerking komt voor een creditbewijs voor die opleidingsonderdelen waarvoor hij niet is geslaagd.</p>
 
@@ -3830,19 +3921,55 @@ De voorschriften zijn een nadere uitwerking van de volgende algemene beginselen:
 
 ### ART. II.246.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§ 1. Het instellingsbestuur kan maatregelen van studievoortgangsbewaking nemen:<br>
-1° als een student de cesuur voor de proef niet behaalt als vermeld in artikel 188/1, tweede lid, of niet aan de voorwaarde tot verplichte deelname aan die proef heeft voldaan, kan de instelling een remediëring opleggen;<br>
-1° /1 als een student geen 60% van de ingeschreven studiepunten verworven heeft een vorig academiejaar kan bij een nieuwe inschrijving aan eenzelfde of andere instelling een bindende voorwaarde opgelegd worden.<br>
-Deze bindende voorwaarden betreffen in beginsel geen evaluatieen/of deliberatiecriteria die strenger zijn dan de regels die in de instelling algemeen gelden.<br>
-Het instellingsbestuur kan de studievoortgang van de student wel afhankelijk maken van een deliberatie door het orgaan of de persoon die verantwoordelijk is voor de bepaling van de studievoortgang;<br>
-1° /2 als een student een opgelegde bindende voorwaarde niet naleeft kan de inschrijving van de student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd;<br>
-2° indien uit de gegevens van het dossier blijkt dat een volgende inschrijving in het hoger onderwijs geen positief resultaat zal opleveren kan de inschrijving van de student geweigerd worden.<br>
+<p>§ 1. Voor een student aan wie verplichte remediëring als vermeld in artikel II.188/1, § 3, tweede en derde lid, werd opgelegd, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede, het derde en het vierde lid.<br>
 <br>
-§ 2. Het instellingsbestuur kan in bijzondere gevallen en op objectieve gronden de stage of een ander praktisch opleidingsonderdeel vroegtijdig beëindigen, als de student door zijn gedragingen blijk heeft gegeven van ongeschiktheid voor de uitoefening van een beroep waartoe de opleiding die hij volgt, hem opleidt.<br>
+Als een student niet heeft deelgenomen aan de hem opgelegde verplichte remediëring, kan de instelling hiermee rekening houden bij zijn deliberatie.<br>
 <br>
-De student van wie de stage of het praktische opleidingsonderdeel met toepassing van het eerste lid is beëindigd, heeft geen recht op een tweede examenkans als vermeld in artikel II.223, tenzij aan de opgelegde bindende voorwaarden is voldaan.<br>
+Als een student niet heeft deelgenomen aan de hem opgelegde verplichte remediëring, kan de instelling bindende voorwaarden opleggen.<br>
 <br>
-De beslissing om een stage of praktisch opleidingsonderdeel vroegtijdig te beëindigen, wordt omstandig gemotiveerd.</p>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van deze student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 2. Voor een student in het hoger beroepsonderwijs gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede en het derde lid.<br>
+<br>
+Als een student geen 60% van de ingeschreven studiepunten van een opleiding van het hoger onderwijs verworven heeft in een vorig academiejaar, kan bij een inschrijving in een opleiding van het hoger beroepsonderwijs aan dezelfde of een andere instelling de instelling aan die student een bindende voorwaarde opleggen.<br>
+<br>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van de student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 3. Voor een student die bij elke eerste inschrijving in een bepaalde initiële bacheloropleiding geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet voor alle opgenomen opleidingsonderdelen van die inschrijving, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede tot en met het vierde lid.<br>
+<br>
+Als een student na zijn eerste inschrijving geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet voor alle opgenomen opleidingsonderdelen moet hij deze bij zijn tweede inschrijving in een volgend academiejaar in dezelfde opleiding verwerven. Deze bepaling blijft gelden als een student een keuzeopleidingsonderdeel bij zijn tweede inschrijving heeft vervangen door een ander keuzeopleidingsonderdeel. Deze bepaling geldt niet als een student van afstudeerrichting of van onderwijsvak als vermeld in artikel II.113, verandert.<br>
+<br>
+Als een student niet voldoet aan deze bindende voorwaarde, kan hij zich niet opnieuw inschrijven in de desbetreffende opleiding.<br>
+<br>
+Als een student na zijn eerste inschrijving een studierendement behaalt waaruit blijkt dat een volgende inschrijving in deze opleiding geen positief resultaat zal opleveren, kan de instelling de inschrijving in dezelfde initiële bacheloropleiding weigeren. De instelling bepaalt autonoom de grens vanaf wanneer een inschrijving kan geweigerd worden en legt dit vast in het onderwijsreglement.<br>
+<br>
+§ 4. Voor een student die niet in een opleiding van het hoger beroepsonderwijs is ingeschreven, gelden de maatregelen van studievoortgangsbewaking, vermeld in het tweede tot en met het vierde lid.<br>
+<br>
+Als een student geen 60% van de ingeschreven studiepunten verworven heeft in een vorig academiejaar, kan bij een nieuwe inschrijving aan eenzelfde of andere instelling de instelling een bindende voorwaarde opleggen.<br>
+<br>
+Als een student na twee inschrijvingen voor een opleidingsonderdeel geen creditbewijs of deliberatiecijfer verworven heeft of geen tolerantie ingezet heeft voor het betrokken opleidingsonderdeel, kan een volgende inschrijving geweigerd worden of kan bij een nieuwe inschrijving in dezelfde opleiding aan dezelfde instelling de instelling aan die student een bindende voorwaarde opleggen.<br>
+<br>
+Als een student een opgelegde bindende voorwaarde niet naleeft, kan de inschrijving van deze student een volgend academiejaar geweigerd worden door dezelfde instelling waar de bindende voorwaarde is opgelegd.<br>
+<br>
+§ 5. Als uit de gegevens van het individueel dossier van een student blijkt dat een volgende inschrijving in het hoger onderwijs geen positief resultaat zal opleveren kan een instelling de inschrijving van de student op gemotiveerde wijze weigeren.<br>
+<br>
+§ 6. De bindende voorwaarden die een instelling kan opleggen overeenkomstig dit artikel, worden autonoom bepaald door de instelling. Een instelling kan afwijken van het opleggen van een bindende voorwaarde of van het weigeren van een inschrijving van een student overeenkomstig dit artikel indien een student overmacht of bijzondere individuele omstandigheden kan aantonen.<br>
+<br>
+§ 7. De maatregelen van studievoortgangsbewaking worden opgenomen in het onderwijsreglement, evenals de wijze waarop overmacht en bijzondere individuele omstandigheden kunnen worden ingeroepen.<br>
+<br>
+§ 8. De student van wie de inschrijving in een bepaalde opleiding is geweigerd conform paragraaf 3, derde lid, kan zich opnieuw inschrijven in dezelfde opleiding als hij na de weigering tot inschrijving een diploma van het hoger onderwijs heeft verworven, of na een wachttijd van zes academiejaren die volgen op het academiejaar waarin de inschrijving is geweigerd.<br>
+<br>
+§ 9. De instelling kan in bijzondere gevallen en op objectieve gronden de stage of een ander praktisch opleidingsonderdeel vroegtijdig beëindigen, als een student door zijn gedragingen blijk heeft gegeven van ongeschiktheid voor de uitoefening van een beroep waartoe de opleiding die hij volgt, hem opleidt.<br>
+<br>
+De student van wie de stage of het praktische opleidingsonderdeel met toepassing van het eerste lid is beëindigd, heeft geen recht op een tweede examenkans als vermeld in artikel II.223.<br>
+<br>
+De beslissing om een stage of praktisch opleidingsonderdeel vroegtijdig te beëindigen, wordt omstandig gemotiveerd.<br>
+<br>
+§ 10. De instelling geeft een studieadvies aan iedere student die na zijn eerste examenperiode een beperkt aantal studiepunten verworven heeft. De instelling bepaalt autonoom de inhoud van dat advies, de grens vanaf wanneer en de wijze waarop dat advies wordt verleend.<br>
+<br>
+§ 11. Iedere student heeft het recht om een gesprek aan te gaan met een studie-of trajectbegeleider.<br>
+<br>
+§ 12. De bepalingen in dit artikel worden vijf jaar na de inwerkingtreding ervan geëvalueerd. De uitkomsten van de evaluatie worden samengebracht in een openbaar verslag.</p>
 
 ## Hoofdstuk 5 Bekrachtiging van de studies
 
@@ -3981,7 +4108,7 @@ Een anderstalige intiële masteropleiding is een initiële masteropleiding waarv
 
 ### ART. II.263.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Als een instelling een anderstalige initiële bachelor- of masteropleiding wil aanbieden, dient ze een aanvraag in bij de Commissie Hoger Onderwijs.<br>
+<p>§1. Als een instelling een anderstalige initiële bachelor- of masteropleiding wil aanbieden, dient ze een aanvraag in bij de Commissie Hoger Onderwijs.<br>
 <br>
 De aanvragen en het bijbehorende dossier worden ingediend:<br>
 1° in het geval het een bestaande initiële bachelor- of masteropleiding betreft, uiterlijk op 1 oktober van het academiejaar dat voorafgaat aan het academiejaar waarin de anderstalige initiële bachelor- of master georganiseerd zal worden;<br>
@@ -3991,7 +4118,7 @@ De aanvragen en het bijbehorende dossier worden ingediend:<br>
 1° binnen de Vlaamse Gemeenschap wordt een equivalente initiële bachelor- of masteropleiding aangeboden als vermeld in artikel II.262, § 2, tenzij er een positief oordeel is van de Commissie Hoger Onderwijs of een positieve beslissing van de Vlaamse Regering over de vrijstelling van de equivalentievoorwaarde, vermeld in artikel II.264;<br>
 2°&nbsp;&nbsp; de aanwezigheid van voldoende garanties inzake kwaliteit en democratisering, vermeld in artikel II.270 en II.271;<br>
 3°&nbsp;&nbsp; de aanwezigheid van een verantwoording die de meerwaarde voor de student en het afnemende veld en de functionaliteit voor de opleiding aantoont;<br>
-4°&nbsp;&nbsp; de naleving van het maximumpercentage van 6% c.q 35%, vermeld in artikel II.266, op basis van het overzicht van de anderstalige initiële bachelor- c.q masteropleidingen die in het lopende academiejaar worden aangeboden.<br>
+4°&nbsp;&nbsp; de naleving van de maximumpercentages van 9% c.q. 35%, vermeld in artikel II.266, op basis van het overzicht van de anderstalige initiële bachelor- c.q masteropleidingen die in het lopende academiejaar worden aangeboden.<br>
 <br>
 § 3. De Commissie Hoger Onderwijs brengt haar oordeel uit:<br>
 1° in het geval het een bestaande initiële bachelor- of masteropleiding betreft, uiterlijk op 31 januari van hetzelfde academiejaar;<br>
@@ -4007,7 +4134,7 @@ Bij een positief oordeel van de Commissie Hoger Onderwijs, tenzij de Vlaamse Reg
 <br>
 Indien de Commissie Hoger Onderwijs geen oordeel velt uiterlijk op de data vermeld in deze paragraaf of indien de Vlaamse Regering geen beslissing neemt naar aanleiding van een beroepschrift op de in deze paragraaf vastgestelde momenten, wordt het oordeel of de beslissing geacht negatief te zijn.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. Als het aantal positieve beoordelingen zou kunnen leiden tot een overschrijding van de maximumpercentages, vermeld in artikel II.266, legt de Commissie Hoger Onderwijs de beoordeelde dossiers voor aan de Vlaamse Regering, samen met een ranglijst. De Vlaamse Regering neemt in voorkomend geval de beslissing. In geval de Vlaamse Regering afwijkt van de ranglijst voorgesteld door de Commissie Hoger Onderwijs, geeft ze in haar beslissing de redenen daarvoor aan.<br>
+<p>§4. Als het aantal positieve beoordelingen zou kunnen leiden tot een overschrijding van de maximumpercentages, vermeld in artikel II.266, legt de Commissie Hoger Onderwijs de beoordeelde dossiers voor aan de Vlaamse Regering, samen met een ranglijst. De Vlaamse Regering neemt in voorkomend geval de beslissing. In geval de Vlaamse Regering afwijkt van de ranglijst voorgesteld door de Commissie Hoger Onderwijs, geeft ze in haar beslissing de redenen daarvoor aan.<br>
 <br>
 § 5. Een positief oordeel van de Commissie Hoger Onderwijs of een positieve beslissing door de Vlaamse Regering over de aanvraag van een anderstalige initiële bachelorof masteropleiding vervalt automatisch als de instelling de anderstalige opleiding niet start in het derde academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
 <br>
@@ -4266,9 +4393,9 @@ De in het eerste lid bedoelde beslissingen worden aan de student ter kennis gebr
 
 ### ART. II.285.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Er wordt een Raad voor betwistingen inzake studievoortgangsbeslissingen, verder "de Raad" genoemd, opgericht bij de bevoegde dienst van de Vlaamse Gemeenschap.<br>
+<p style="margin-left:0cm; margin-right:0cm">Er wordt een Raad voor betwistingen inzake studievoortgangsbeslissingen, verder "de Raad" genoemd, opgericht bij de bevoegde dienst van de Vlaamse Gemeenschap.<br>
 <br>
-De Raad doet als administratief rechtscollege uitspraak over de beroepen die door studenten of personen op wie de beslissing betrekking heeft, worden ingesteld tegen studievoortgangsbeslissingen, na uitputting van de in afdeling 2 bedoelde interne beroepsprocedure. De Raad doet als administratief rechtscollege uitspraak over de verzoeken die studenten in uitvoering van artikel II.204 rechtstreeks bij hem indienen om hun leerkrediet aan te passen omdat ze zich in een overmachtsituatie bevonden en de instelling voor hen geen aangepaste examenregeling heeft geboden.<br>
+De Raad doet als administratief rechtscollege uitspraak over de beroepen die door studenten of personen op wie de beslissing betrekking heeft, worden ingesteld tegen studievoortgangsbeslissingen, na uitputting van de in afdeling 2 bedoelde interne beroepsprocedure. De Raad doet als administratief rechtscollege uitspraak over de verzoeken die studenten in uitvoering van artikel II.204 rechtstreeks bij hem indienen om hun leerkrediet aan te passen omdat ze zich in een overmachtsituatie bevonden.<br>
 <br>
 De beslissingen genomen door het instellingsbestuur en&nbsp;door de Vlaamse overheid en de instellingen in het gestructureerd overleg op grond van de procedure bedoeld in artikel IV.93, kunnen worden aangevochten voor de Raad. De Raad beoordeelt of de bestreden vermeldingen in overeenstemming zijn met de decretale en reglementaire bepalingen en, desgevallend, met de van toepassing zijnde onderwijs- en examenreglementen. De behandeling van een verzoekschrift ter zake door de Raad leidt tot de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid of ongegrondheid ervan, of tot de gemotiveerde vernietiging van de onrechtmatig genomen beslissing. In dat laatste geval brengt het instellingsbestuur of de door de&nbsp;Vlaamse overheid en de instellingen in het gestructureerd overleg aangewezen persoon de bestreden vermelding onverwijld in overeenstemming met de dragende redenen die hebben geleid tot de uitspraak van de Raad.<br>
 <br>
@@ -4276,75 +4403,42 @@ Personen die nog niet ingeschreven zijn aan een instelling voor hoger onderwijs 
 
 ### ART. II.286.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering bepaalt de   zetel van de Raad.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>De Raad behandelt de beroepen conform de regels, vermeld in deze afdeling, en conform de regels die zijn bepaald bij of krachtens het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges.<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Onderafdeling 2 [... (opgeh. decr. 17 maart 2023, art. 3, I: 1 september 2023)]
 
 ### ART. II.287.
 
-<p>§1. De Raad is samengesteld uit volgende leden:<br>
-1°&nbsp;&nbsp; één werkend en minimaal 2 plaatsvervangende voorzitters;<br>
-2°&nbsp;&nbsp; twee werkende en minimaal 4 plaatsvervangende bijzitters.<br>
-<br>
-Elk van de plaatsvervangende bijzitters mag elk van de werkende bijzitters vervangen. In functie van de werkbelasting van de Raad kan de Vlaamse Regering bijkomende plaatsvervangende leden benoemen<br>
-<br>
-§2. De voorzitter is een jurist met een grondige kennis van het hoger onderwijs.<br>
-<br>
-De bijzitters zijn op het ogenblik van hun benoeming ten minste 5 jaar belast met een opdracht als lid van het academisch of onderwijzend personeel van een instelling.</p>
+<p>...</p>
 
 ### ART. II.288.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De Vlaamse Regering benoemt de leden.<br>
-<br>
-De bijzitters worden benoemd op gezamenlijke voordracht van de Vlaamse Interuniversitaire Raad en de Vlaamse Hogescholenraad. Deze voordracht voorziet in een billijk evenwicht tussen de universiteiten en de hogescholen en tussen de officiële en de vrije instellingen.<br>
-<br>
-§2. Het mandaat van de leden heeft een duur van 6 jaar. Het is hernieuwbaar.<br>
-<br>
-§3. Ten hoogste twee derden van de door de Vlaamse Regering benoemde leden mag van hetzelfde geslacht zijn. Dit quotum wordt berekend op het totaal aantal leden voorzitters en bijzitters&nbsp;afzonderlijk en zonder onderscheid op de werkende en plaatsvervangende leden van de Raad. Ingeval de in paragraaf 1 bepaalde voordrachtprocedure het niet mogelijk maakt om aan de verplichting te voldoen binnen een periode van drie maanden na het vacantverklaren van het mandaat dan kan de Vlaamse Regering, op voordracht van de minister onder wiens bevoegdheid de Raad functioneert, zelf een lid benoemen of op basis van de motivering van de voordrachtinstantie een afwijking toestaan op grond van de aanspraken en verdiensten van de voorgedragen kandidaat van het andere geslacht.<br>
-<br>
-Bij een hernieuwing van 1 of meer mandaten wordt, zolang het quotum niet gerealiseerd is, een kandidaat van het ondervertegenwoordigde geslacht aangewezen.<br>
-<br>
-Ingeval leden verhinderd zijn om effectief te zetelen volgens de vooropgestelde quota omwille van niet beschikbaarheid of andere onverenigbaarheden, kan de zitting van de Raad wel doorgaan om de continuïteit en een snelle rechtsbedeling niet te verhinderen.<br>
-<br>
-§ 4. De werkend voorzitter, vermeld in artikel II.287, § 1, eerste lid, 1°, neemt zijn ambt op nadat hij in handen van de Vlaamse minister bevoegd voor het onderwijs, de volgende eed heeft afgelegd : "Ik zweer de verplichtingen van mijn ambt na te komen.".<br>
-<br>
-De andere leden van de Raad, vermeld in artikel II.287, § 1, eerste lid, 1° en 2°, en de secretarissen, vermeld in artikel II.29, nemen hun ambt op nadat ze in handen van de werkend voorzitter van de Raad de volgende eed hebben afgelegd : "Ik zweer de verplichtingen van mijn ambt na te komen."</p>
+<p>...</p>
 
 ### ART. II.289.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De leden kunnen op ieder   moment ontslag nemen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering kan een   lid slechts ontslaan in geval van grove nalatigheid of kennelijk   wangedrag.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Totdat in hun vervanging   is voorzien blijven de leden hun functie uitoefenen, behoudens in het geval van   een door de Vlaamse Regering gegeven   ontslag.</P>
+<p>...</p>
 
 ### ART. II.290.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering stelt   onder de ambtenaren van de bevoegde dienst van de Vlaamse Gemeenschap de   secretaris van de Raad aan.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>...<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Onderafdeling 3 Bevoegdheid
 
 ### ART. II.291.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Raad beoordeelt of   studievoortgangsbeslissingen in overeenstemming zijn met: <?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; de decretale en reglementaire   bepalingen en het onderwijs- en examenreglement;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; de algemene administratieve   beginselen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Raad stelt zijn appreciatie   betreffende de waarde van een kandidaat niet in de plaats van die van het   bestuur of enig orgaan dat werkt onder de verantwoordelijkheid van het   bestuur.</P>
+<p>...</p>
 
 ### ART. II.292.
 
-<p>§1. De behandeling van het verzoekschrift door de Raad leidt tot:<br>
-1°&nbsp;&nbsp; de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid of de ongegrondheid ervan, of;<br>
-2°&nbsp;&nbsp; de gemotiveerde vernietiging van de onrechtmatig genomen studievoortgangsbeslissing, in welk geval de Raad het bestuur kan bevelen een nieuwe beslissing te nemen, onder door de Raad te stellen voorwaarden. Deze voorwaarden kunnen inhouden dat :<br>
-a)&nbsp;&nbsp;&nbsp; een nieuwe examen(tucht)beslissing afhankelijk wordt gemaakt van de organisatie van een nieuw examen of een onderdeel daarvan. De Raad kan de termijn en de materiële voorwaarden bepalen waaronder deze organisatie moet gebeuren;<br>
-b)&nbsp;&nbsp;&nbsp; een nieuwe beslissing houdende toekenning van een bewijs van bekwaamheid in voorkomend geval afhankelijk wordt gemaakt van de organisatie van een nieuw bekwaamheidsonderzoek of een onderdeel daarvan. De Raad kan de termijn en de materiële voorwaarden bepalen waaronder deze organisatie moet gebeuren,<br>
-c)&nbsp;&nbsp;&nbsp; welbepaalde onregelmatige of onredelijke motieven bij de totstandkoming van de nieuwe beslissing niet worden betrokken;<br>
-d)&nbsp;&nbsp;&nbsp; welbepaalde regelmatige en redelijke motieven bij de totstandkoming van de nieuwe beslissing kennelijk in ogenschouw moeten worden genomen.<br>
-<br>
-In het geval bedoeld onder het eerste lid, 2°, kan de Raad, zo hij dit op grond van de aangedragen feiten kennelijk noodzakelijk acht, bevelen dat de verzoeker in afwachting van een nieuwe beslissing voorlopig ingeschreven wordt, alsof geen nadelige studievoortgangsbeslissing was genomen.<br>
-<br>
-Bij de behandeling van een verzoekschrift dat als voorwerp een studievoortgangsbeslissing heeft zoals bepaald in artikel I.3, 67°, i), oordeelt de Raad of er in voorkomend geval al dan niet sprake is van een niet remedieerbare overmacht en de onmogelijkheid om voor de betrokken student om organisatorische redenen een aangepaste examenregeling uit te werken.<br>
-<br>
-De termijn voor het nemen van een nieuwe beslissing overeenkomstig het eerste lid, 2°, bedraagt ten minste 7 kalenderdagen.<br>
+<p>§1. ...<br>
 <br>
 §2. Na vernietiging van de onrechtmatig genomen studievoortgangsbeslissing door de Raad vervalt de verplichting om bij de aanvechting van een nieuwe ongunstige studievoortgangsbeslissing genomen in opvolging van de uitspraak van de Raad de interne beroepsprocedure uit te putten vooraleer een beroep in te stellen bij de Raad.</p>
 
 ### ART. II.293.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering vermag aan   de leden van de Raad op geen enkele wijze enige instructie te geven omtrent de   wijze waarop zij de in deze onderafdeling bedoelde bevoegdheden   uitoefenen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>...<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Onderafdeling 4 Procedureverloop
 
@@ -4358,8 +4452,6 @@ De beroepen tegen een beslissing als vermeld in artikel I.3, 69°, h), worden bi
 <br>
 Bij het uitblijven van een tijdige beslissing van de interne beroepsinstantie binnen de termijn zoals bepaald in artikel II.284, tweede lid, dient in voorkomend geval het beroep bij de Raad binnen de vervaltermijn van&nbsp;7 kalenderdagen na het verstrijken van deze termijn te worden ingesteld, tenzij vóór het verstrijken van de termijn waarover de interne beroepsinstantie beschikt, deze aan de student meedeelt op welke latere datum zij uitspraak zal doen. In dat geval gaat de vervaltermijn van&nbsp;7 kalenderdagen voor het beroep bij de Raad in de dag na die datum.<br>
 <br>
-Indien de zevende of dertigste dag van de in het eerste lid respectievelijk tweede lid bedoelde termijn een zaterdag, zondag of wettelijke feestdag is, wordt de termijn verlengd tot de eerstvolgende werkdag waarop de postdiensten open zijn.<br>
-<br>
 Op de initiële studievoortgangsbeslissing vermeldt het instellingsbestuur naast de interne beroepsmodaliteiten de beroepstermijn van&nbsp;7 kalenderdagen om een extern beroep in te stellen die ingaat na het uitblijven van een tijdige interne beroepsbeslissing zoals in het derde lid bepaald.<br>
 <br>
 Voor de toepassing van het eerste lid, wordt voor wat betreft de transnationale Universiteit Limburg verstaan onder :<br>
@@ -4368,168 +4460,105 @@ a)&nbsp;&nbsp;&nbsp; bij ontstentenis van een interne beroepsprocedure : de dag 
 b)&nbsp;&nbsp;&nbsp; indien een interne beroepsprocedure openstaat : de dag van kennisgeving van een beslissing na enig intern beroep.<br>
 2°&nbsp;&nbsp; "het verstrijken van de in artikel II.284, tweede lid bedoelde termijn" : het verstrijken van een redelijke termijn om een beslissing na intern beroep te nemen, zo een interne beroepsprocedure openstaat.<br>
 <br>
-§2. De beroepen worden ingesteld bij wijze van verzoekschrift, waarin ten minste een feitelijke omschrijving is opgenomen van de ingeroepen bezwaren.<br>
+§2. De beroepen worden ingesteld conform de regels, vermeld in deze afdeling, en conform de regels die zijn bepaald bij of krachtens het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges.<br>
 <br>
-Het verzoekschrift wordt gedagtekend en, op straffe van onontvankelijkheid, ondertekend door de verzoeker of zijn raadsman.<br>
-<br>
-Het verzoekschrift vermeldt:<br>
-1°&nbsp;&nbsp; de naam en de woonplaats van de verzoeker. Wanneer woonplaatskeuze wordt gedaan bij de raadsman van de verzoeker, wordt dit in het verzoekschrift aangegeven;<br>
-2°&nbsp;&nbsp; de naam en de zetel van het bestuur;<br>
-3°&nbsp;&nbsp; het voorwerp van het beroep;<br>
-4° een feitelijke omschrijving en motivering van de ingeroepen bezwaren.<br>
-<br>
-De student kan in de procedure voor de Raad voor betwistingen inzake studievoortgangsbeslissingen geen nieuwe bezwaren aanvoeren, tenzij de grondslag ervan pas tijdens of na afhandeling van de interne beroepsprocedure aan het licht is gekomen, tenzij het bezwaar betrekking heeft op de wijze waarop het intern beroep werd behandeld of tenzij het bezwaar raakt aan de openbare orde.<br>
-<br>
-§3. Het verzoekschrift wordt bij aangetekend schrijven overgemaakt aan de Raad. Een kopie van het verzoekschrift wordt tezelfdertijd bij aangetekend schrijven overgemaakt aan het bestuur.<br>
-<br>
-Als datum van het beroep geldt de datum van postmerk.</p>
+De student kan in de procedure voor de Raad voor betwistingen inzake studievoortgangsbeslissingen geen nieuwe bezwaren aanvoeren, tenzij de grondslag ervan pas tijdens of na afhandeling van de interne beroepsprocedure aan het licht is gekomen, tenzij het bezwaar betrekking heeft op de wijze waarop het intern beroep werd behandeld of tenzij het bezwaar raakt aan de openbare orde.</p>
 
 ### ART. II.295.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De verzoeker kan aan het   verzoekschrift de overtuigingsstukken toevoegen die hij nodig   acht.<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De verzoeker kan naderhand   slechts bijkomende overtuigingsstukken aan het dossier laten toevoegen, voor   zover deze bij de opmaak van het verzoekschrift nog niet aan de verzoeker bekend   waren. De verzoeker bezorgt in dat geval onverwijld een kopie van de bijkomende   overtuigingsstukken aan het bestuur.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De overtuigingsstukken   worden door de verzoeker gebundeld en op een inventaris   ingeschreven.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>...</p>
+
+<p>&nbsp;</p>
 
 ### ART. II.296.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een onontvankelijk   verzoekschrift kan lopende de beroepstermijn worden vervangen door een nieuw   verzoekschrift, dat uitdrukkelijk de intrekking van het eerdere verzoekschrift   bevestigt.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>...<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. II.297.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De secretaris schrijft elk   inkomend beroep in op een register.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>...<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Sectie 2 [... (opgeh. decr. 17 maart 2023, art. 9, I: 1 september 2023)]
 
 ### ART. II.298.
 
-&nbsp;§ 1. Het administratief dossier dat door het bestuur uiterlijk samen met de antwoordnota aan de Raad en aan de verzoekende partij wordt bezorgd, bevat ten minste de volgende stukken:<br>
-1° een afschrift van de bestreden studievoortgangsbeslissing;<br>
-2° in voorkomend geval de examenkopij(en) van of het stagerapport van de verzoeker, of het verslag van het bekwaamheidsonderzoek met het oog op de verwerving van een bewijs van bekwaamheid;<br>
-3° het dossier dat samengesteld is naar aanleiding van het intern beroep, vermeld in artikel II.283, eerste lid, met inbegrip van het verzoekschrift op intern beroep;<br>
-4° de door het bestuur vastgelegde reglementaire bepalingen die op de bestreden beslissing van toepassing waren, waaronder in elk geval het onderwijs- en examenreglement en in voorkomend geval andere teksten met reglementaire strekking zoals de ECTS-fiche, het stagereglement, de studiegids en het vademecum.<br>
-<br>
-De stukken worden door het bestuur gebundeld en op een inventaris ingeschreven.<br>
-<br>
-§ 2. Als er gewichtige, bepaalde en met elkaar overeenstemmende vermoedens bestaan dat een partij of een derde een stuk onder zich heeft dat het bewijs inhoudt van een ter zake dienend feit, kan de rechter bevelen dat het stuk of een eensluidend verklaard afschrift ervan bij het dossier van de rechtspleging wordt gevoegd.<br>
-<br>
-De voorzitter beslist ter zake bij beschikking. De beschikking vermeldt de identiteit van de partij of de derde die het stuk moet overleggen en de wijze waarop en de termijn waarbinnen dat moet gebeuren. De beschikking wordt via het meest gerede communicatiemiddel verzonden aan de partijen en bij aangetekend schrijven aan een derde.<br>
-<br>
-§ 3. Als het verzoek een aanpassing van het leerkrediet betreft, kan de Raad bij de betrokken instellingen van het hoger onderwijs informatie opvragen met het oog op de verificatie van de voorgelegde feiten.
+...
 
 ### ART. II.299.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De secretaris is onder het   gezag van de voorzitter belast met de samenstelling van het dossier, dat naast   de in artikel II.298, §1, bedoelde stukken tevens de overtuigingsstukken omvat   die door de verzoeker bij het verzoekschrift werden gevoegd.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>...<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. II.300.
 
-Het dossier van de rechtspleging kan door de partijen en/of hun raadsman worden geraadpleegd op het secretariaat van de Raad. Ze nemen daartoe vooraf contact op met de secretaris.
+...
 
 ## Sectie 3 [... (opgeh. decr. 17 maart 2023, art. 9, I: 1 september 2023)]
 
 ### ART. II.301.
 
-§ 1. Elk beroep wordt, zodra het is geregistreerd, aan de voorzitter overgemaakt.<br>
-<br>
-Indien de voorzitter overweegt dat de Raad kennelijk niet bevoegd is of zonder rechtsmacht, worden de partijen daarvan door het secretariaat onmiddellijk in kennis gesteld, samen met een procedurekalender die de partijen een termijn van ten minste twee werkdagen verleent om daarover desgewenst schriftelijk standpunt in te nemen.<br>
-<br>
-De voorzitter doet vervolgens zo spoedig mogelijk bij gemotiveerd arrest uitspraak zonder dat de partijen voor een terechtzitting worden opgeroepen.<br>
-<br>
-Het arrest wordt onmiddellijk ter kennis gebracht van de partijen en sluit, zo tot de onontvankelijkheid wordt besloten, de procedure onherroepelijk af.<br>
-<br>
-§ 2. In de beroepen die niet met toepassing van paragraaf 1 onontvankelijk zijn verklaard, betekent de secretaris via het meest gerede communicatiemiddel aan de partijen:<br>
-1° een procedurekalender;<br>
-2° de datum, het uur en de plaats van de zitting van de Raad; 3° de samenstelling van de Raad.<br>
-<br>
-De betekening gaat, wat de verwerende partij betreft, vergezeld van een kopie van het verzoekschrift.
+...
 
 ### ART. II.302.
 
-§ 1. De procedurekalender, vermeld in artikel II.301, eerste lid, 1°, stelt de termijn vast waarbinnen:<br>
-1° het bestuur in staat wordt gesteld een antwoordnota en het administratief dossier aan de Raad en aan de verzoeker voor te leggen;<br>
-2° de verzoeker in staat wordt gesteld een wederantwoordnota aan de Raad en aan het bestuur voor te leggen.<br>
-<br>
-De termijn, vermeld in het eerste lid, bedraagt voor elke partij ten minste 96 uur.<br>
-<br>
-§ 2. De antwoordnota en de wederantwoordnota worden aan de Raad en aan de tegenpartij bezorgd via het meest gerede communicatiemiddel.<br>
-<br>
-Een buiten de gestelde termijn aan de Raad bezorgde antwoordnota of wederantwoordnota wordt uit de verdere procedure geweerd.
+...
 
 ### ART. II.303.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De partijen kunnen 1 of meer leden schriftelijk en op gemotiveerde wijze wraken vóór de aanvang van de zitting, tenzij de reden tot wraking later is ontstaan. De voorzitter, of, zo deze wordt gewraakt, de plaatsvervangende voorzitter, doet onmiddellijk uitspraak over het verzoek tot wraking. Zo het verzoek wordt ingewilligd, neemt de plaatsvervanger de plaats in van het gewraakte lid.<br>
-<br>
-Het lid dat weet dat er een reden tot wraking tegen hem bestaat, moet zich van de zaak onthouden.<br>
-<br>
-§2. De redenen tot wraking zijn de volgende:<br>
-1°&nbsp;&nbsp; de redenen bedoeld in artikel 828, 829, tweede lid en 830 van het Gerechtelijk Wetboek;<br>
-2° de hoedanigheid van lid van een rechtspersoon als vermeld in artikel 24, § 4, van de Grondwet, verantwoordelijk voor de universiteit of de hogeschool waaraan de kwestieuze beslissing werd genomen, of van een personeelslid van die universiteit of hogeschool;<br>
-3° de hoedanigheid, vermeld in punt 2°, hebben gehad in een periode van drie jaar die aan het ingestelde beroep voorafgaat.</p>
+<p>...</p>
 
 ### ART. II.304.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De partijen kunnen   schriftelijk en op gemotiveerde wijze vragen dat bepaalde getuigen door de Raad   worden ondervraagd. De Raad beslist soeverein over de toelaatbaarheid van een   getuigenverhoor en maakt van zijn beslissing melding in de   uitspraak.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>...<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Sectie 4 [... (opgeh. decr. 17 maart 2023, art. 9, I: 1 september 2023)]
 
 ### ART. II.305.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De voorzitter leidt de   zitting.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De zittingen zijn openbaar,   behoudens indien de voorzitter, al dan niet op verzoek van de partijen of 1   ervan, oordeelt dat gewichtige redenen aanwezig zijn die zich tegen de   openbaarheid van de hoorzitting verzetten.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het verzoek wordt op   tegenspraak behandeld. De partijen pleiten in elkaars   aanwezigheid.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De voorzitter ondervraagt   desgevallend de door de partijen opgeroepen getuigen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De voorzitter sluit de   debatten na de pleidooien en in voorkomend geval na de   wederantwoorden.</P>
+<p>...</p>
 
 ### ART. II.306.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij regelmatige oproeping belet   de afwezigheid van de partijen of 1 ervan de geldigheid van een zitting   niet.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§ 2. In afwijking van artikel   II.301, artikel II.302 en artikel II.305 verloopt de procedure voor een   rechtstreeks beroep betreffende de in artikel II.285, tweede lid bedoelde   aanpassing van het leerkrediet bij overmachtsituaties, na mededeling van een   vereenvoudigde procedurekalender louter schriftelijk en volgt er geen concrete   oproeping van de partijen tenzij de raad het noodzakelijk acht voor de   behandeling van de zaak of tenzij één van de partijen uitdrukkelijk en   gemotiveerd verzoekt om gehoord te worden.<BR><BR>De raad oordeelt onverwijld   bij beschikking van de voorzitter of gevolg moet gegeven worden aan het   verzoek.</P>
+<p>...</p>
 
 ### ART. II.307.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">De Raad beraadslaagt en beslist achter gesloten deuren over zijn uitspraken.<br>
-<br>
-De uitspraken van de Raad zijn openbaar.<br>
-<br>
-De Raad antwoordt in de uitspraken op alle opmerkingen van de partijen die de aan het geschil te geven oplossing kunnen beïnvloeden.<br>
-<br>
-De uitspraak van de Raad wordt met een aangetekende zending aan de partijen bezorgd.</p>
+<p>...</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
 ### ART. II.308.
 
-<p>De uitspraken van de Raad wordt uitgebracht binnen een ordetermijn van&nbsp;20 kalenderdagen, die ingaat de dag na die waarop het beroep is ingeschreven op het in artikel II.297 bedoelde register.<br>
-<br>
-In afwijking van het bepaalde in het eerste lid worden de uitspraken van de Raad in beroepen tegen een beslissing bedoeld in artikel I.3, 67°, h), uitgebracht binnen een ordetermijn van 30 kalenderdagen.</p>
+<p>...</p>
 
 ## Onderafdeling 5 [... (opgeh. decr. 17 maart 2023, art. 10, I: 1 september 2023)]
 
 ### ART. II.309.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De partijen kunnen zich bij   een procedure voor de Raad laten bijstaan door een raadsman.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De raadsman legt ten laatste   ter zitting een schriftelijke machtiging voor, behoudens   indien:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; de raadsman ingeschreven is   als advocaat of als advocaat-stagiair, of</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; de raadsman samen met de   betrokken partij ter zitting verschijnt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>...</p>
+
+<p>&nbsp;</p>
 
 ## Onderafdeling 6 [... (opgeh. decr. 17 maart 2023, art. 10, I: 1 september 2023)]
 
 ### ART. II.310.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Ten aanzien van beroepen die   in juli of augustus worden ingeschreven op het in artikel II.297 bedoelde   register, kan een bestuur de Raad verzoeken rekening te houden met een gestaafde   onderbezetting van de instelling ten gevolge van de jaarlijkse vakantie van het   personeel.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Zo de Raad de onderbezetting   gestaafd acht:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; schorst hij gedurende ten   hoogste 21 kalenderdagen de in artikel II.308 bedoelde termijn,   of</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; verstrijkt de overeenkomstig   artikel II.292, §1, eerste lid, 2°, a) door de Raad te bepalen termijn niet   eerder dan op de dag na deze waarop voldoende personeelsleden aanwezig zijn om   een examencommissie opnieuw op rechtmatige wijze samen te   stellen.</P>
+<p>...</p>
 
 ## Onderafdeling 7 [... (opgeh. decr. 17 maart 2023, art. 10, I: 1 september 2023)]
 
 ### ART. II.311.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering bepaalt de   wijze waarop de leden van de Raad en de secretaris worden   vergoed.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Zij kan nadere regelen bepalen   omtrent de formaliteiten die door de partijen bij procedures voor de Raad moeten   worden vervuld, zonder dat deze op enigerlei wijze kunnen leiden tot de   onontvankelijkheid van een beroep.</P>
+<p>...</p>
 
 ### ART. II.312.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De nadere werkingsregelen van   de Raad worden vastgelegd in een huishoudelijk reglement.<?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>...<!--?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ## Onderafdeling 8 [... (opgeh. decr. 17 maart 2023, art. 10, I: 1 september 2023)]
 
 ### ART. II.313.
 
-§ 1. Onder het gezag van de Raad voorziet de bevoegde dienst van de Vlaamse Gemeenschap in de publicatie van de uitspraken op de website van de dienst en in een jaarlijks verslagboek, met uitzondering van de arresten die worden uitgesproken in uitvoering van artikel II.204, § 3, van de Codex Hoger Onderwijs.<br>
-<br>
-Bij de publicatie van de uitspraak wordt de identiteit van de student als procespartij, op diens uitdrukkelijk verzoek, weggelaten. Dit verzoek kan in het verzoekschrift of in voorkomend geval tot aan de sluiting van de debatten worden ingediend.<br>
-<br>
-§ 2. In afwijking van paragraaf 1, eerste lid, kunnen de in uitvoering van artikel II.204, § 3, van de Codex Hoger Onderwijs uitgesproken arresten onder voorbehoud van depersonalisatie worden gepubliceerd door beslissing van de voorzitter van de Raad wanneer deze arresten een belang kunnen hebben voor de rechtspraak of het juridisch onderzoek.<br>
-<br>
-§ 3. In uitzonderlijke omstandigheden kan een natuurlijke persoon die partij was bij een geschil dat bij de Raad aanhangig was, op grond van gegevens waarvan hij geen kennis had vóór het indienen van het verzoekschrift of in voorkomend geval vóór de sluiting van de debatten, verzoeken dat de identiteit van de natuurlijke personen die hij aanwijst voortaan niet langer wordt vermeld in de publicatie van de arresten in digitaal formaat.<br>
-<br>
-Een natuurlijke persoon die geen partij was in het geding, maar een belang heeft bij de weglating van de identiteit bij de publicatie, kan eveneens een dergelijk verzoek indienen, mits dit belang wordt aangetoond. Het gemotiveerd verzoek wordt aan de voorzitter van de Raad gezonden. De voorzitter van de Raad beslist over het gemotiveerd verzoek.
+...
 
 ## Hoofdstuk 4 Studentenraad
 
@@ -4674,13 +4703,13 @@ Het participatiereglement kan aan de studentenraad bijkomende bevoegdheden toeke
 
 ### ART. II.338.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">De studenten die met een diploma- of creditcontract ingeschreven zijn hebben binnen de bepalingen van dit hoofdstuk toegang tot de studentenvoorzieningen van de hogeschool of universiteit waar ze hun opleiding volgen.<br>
+<p>De studenten die met een diploma- of creditcontract ingeschreven zijn hebben binnen de bepalingen van dit hoofdstuk toegang tot de studentenvoorzieningen van de hogeschool of universiteit waar ze hun opleiding volgen.<br>
 <br>
 De studenten die in het kader van internationale mobiliteit en uitwisselingen, een deel van hun opleiding in een Vlaamse universiteit of hogeschool volgen, maar daar niet ingeschreven zijn, hebben toegang tot studentenvoorzieningen die verbonden zijn aan de plaats waar ze dat onderdeel van hun opleiding volgen.<br>
 <br>
-De leerlingen in een hbo5-opleiding Verpleegkunde, georganiseerd door een instelling voor secundair onderwijs, kunnen toegang hebben tot de sociale voorzieningen van de hogeschool, waarmee de betrokken instelling voor secundair onderwijs een samenwerkingsovereenkomst met betrekking tot de betreffende hbo5-opleiding heeft afgesloten. Deze overeenkomst legt ten minste de afspraken vast over de afstemming op het vlak van curriculumontwikkeling, de inzet van personeel, de infrastructuur en de kwaliteitszorg in die hbo5-opleidingen.</p>
+De cursisten in een opleiding Basisverpleegkunde of Verpleegkunde van het hoger beroepsonderwijs, georganiseerd door een secundaire school, kunnen toegang hebben tot de sociale voorzieningen van de hogeschool waarmee de betrokken secundaire school een samenwerkingsovereenkomst met betrekking tot die opleidingen heeft gesloten. Die overeenkomst legt ten minste de afspraken vast over de afstemming op het vlak van curriculumontwikkeling, de inzet van personeel, de infrastructuur en de kwaliteitszorg in die opleidingen.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
 ### ART. II.339.
 
@@ -5135,21 +5164,23 @@ De Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, kan na 19 novembe
 
 ### ART II.396.
 
-Vanaf het academiejaar 2019-2020 behoren de volgende opleidingen tot de opleidingen van het hoger beroepsonderwijs :<br>
-1° de opleidingen van het hoger beroepsonderwijs, vastgelegd in de lijst, vermeld in artikel II.170;<br>
-2° de opleiding Verpleegkunde van het hoger beroepsonderwijs in het secundair onderwijs, die samen met een hogeschool georganiseerd wordt in het kader van een samenwerkingsverband.<br>
+De volgende opleidingen behoren tot het hoger beroepsonderwijs:<br>
+1° vanaf het academiejaar 2019-2020:<br>
+a)&nbsp;&nbsp; &nbsp;de opleidingen van het hoger beroepsonderwijs die zijn vastgelegd in de lijst, vermeld in artikel II.170;<br>
+b)&nbsp;&nbsp; &nbsp;de opleiding Verpleegkunde van het hoger beroepsonderwijs die door een secundaire school georganiseerd wordt samen met een hogeschool in het kader van een samenwerkingsverband;<br>
+2° vanaf het academiejaar 2023-2024: de opleiding Basisverpleegkunde van het hoger beroepsonderwijs die door een secundaire school georganiseerd wordt samen met een hogeschool in het kader van een samenwerkingsverband.<br>
 <br>
-De financiering voor een hbo5-opleiding Verpleegkunde kan alleen toegekend worden aan een secundaire school en wordt berekend conform de bepalingen van deel III, titel 1, hoofdstuk 3, van de Codex Secundair Onderwijs van 17 december 2010.
+De financiering van de opleidingen van het hoger beroepsonderwijs die worden georganiseerd door een secundaire school, wordt uitsluitend toegekend aan de secundaire school en berekend met toepassing van de Codex Secundair Onderwijs van 17 december 2010 en de uitvoeringsregelgeving ervan.
 
 ### ART II.397.
 
-§ 1. Voor de organisatie van de opleiding Verpleegkunde van het hoger beroepsonderwijs wordt een samenwerkingsverband opgericht tussen één hogeschool, met onderwijsbevoegdheid voor de bacheloropleiding Verpleegkunde, en een of meer scholen van het voltijds secundair onderwijs.<br>
+§ 1. Voor de organisatie van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs wordt een samenwerkingsverband opgericht tussen één hogeschool, met onderwijsbevoegdheid voor de bacheloropleiding Verpleegkunde, en een of meer scholen van het voltijds secundair onderwijs.<br>
 <br>
-§ 2. Eén onderwijsinstelling kan maar participeren in één samenwerkingsverband. Binnen het samenwerkingsverband wordt afgesproken welke onderwijsinstelling de inhoudelijke coördinatie op zich neemt.<br>
+§ 2. Elke onderwijsinstelling kan maar participeren in één samenwerkingsverband. Binnen het samenwerkingsverband wordt afgesproken welke onderwijsinstelling de inhoudelijke coördinatie op zich neemt.<br>
 <br>
-De inhoudelijk coördinerende instelling heeft als taak om de gezamenlijke organisatie van de hbo5-opleiding Verpleegkunde binnen een samenwerkingsverband te coördineren. Binnen het samenwerkingsverband wordt afgesproken welke onderwijsinstellingen een deel of het geheel van de gemeenschappelijk georganiseerde hbo5-opleiding aanbieden.<br>
+De inhoudelijk coördinerende instelling heeft als taak om de gezamenlijke organisatie van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs in een samenwerkingsverband te coördineren. In het samenwerkingsverband wordt afgesproken welke onderwijsinstellingen een deel of het geheel van de gemeenschappelijk georganiseerde opleidingen aanbieden.<br>
 <br>
-De administratief beherende instelling is altijd een secundaire school. De cursist schrijft zich in aan de administratief beherende instelling voor het totaal van de hbo5-opleiding. Op het vlak van financiering, subsidiëring en inschrijvingsgelden gelden de vigerende decretale en regelgevende bepalingen van de administratief beherende instelling.<br>
+De administratief beherende instelling is altijd een secundaire school. De cursist schrijft zich in aan de administratief beherende instelling voor de volledige opleiding. Voor de financiering, de subsidiëring en het inschrijvingsgeld gelden de vigerende decretale en regelgevende bepalingen van de administratief beherende instelling.<br>
 <br>
 § 3. Binnen het samenwerkingsverband reiken de onderwijsinstellingen gezamenlijk het diploma van gegradueerde met bijbehorende kwalificatie en de deelcertificaten uit.<br>
 <br>
@@ -5158,7 +5189,7 @@ De administratief beherende instelling is altijd een secundaire school. De cursi
 2° een of meer sectoren van het beroep waartoe de opleiding leidt;<br>
 3° bedrijven en organisaties.<br>
 <br>
-§ 5. Als een onderwijsinstelling uit een samenwerkingsverband stapt, behoudt ze, voor hbo5-opleidingen, alleen de onderwijsbevoegdheid die ze had op 31 augustus 2013 of, in voorkomend geval, de onderwijsbevoegdheid van de graduaatsopleidingen die uit de omvorming, vermeld in artikel II.150/1, zijn voortgekomen.<br>
+§ 5. Als een onderwijsinstelling uit een samenwerkingsverband stapt, behoudt ze, voor opleidingen van het hoger beroepsonderwijs, alleen de onderwijsbevoegdheid die ze had op 31 augustus 2013 of, in voorkomend geval, de onderwijsbevoegdheid van de graduaatsopleidingen die uit de omvorming, vermeld in artikel II.150/1, zijn voortgekomen.<br>
 <br>
 § 6. Als twee of meer hogescholen fuseren, fuseren ook de samenwerkingsverbanden waarvan ze lid zijn.<br>
 <br>
@@ -5173,9 +5204,9 @@ De betrekking die een school voor het voltijds gewoon secundair onder wijs organ
 ### ART II.398.
 
 Een samenwerkingsverband vervult de volgende opdrachten :<br>
-1° de gezamenlijke organisatie van de opleiding Verpleegkunde van het hoger beroepsonderwijs;<br>
+1° de gezamenlijke organisatie van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs;<br>
 2° het vastleggen van een gezamenlijke onderwijs- en examenregeling en evaluatiereglement voor deze opleidingen;<br>
-3° het ontwikkelen van een gemeenschappelijk intern kwaliteitszorgsysteem voor de opleiding Verpleegkunde van het hoger beroepsonderwijs;<br>
+3° het ontwikkelen van een gemeenschappelijk intern kwaliteitszorgsysteem voor de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs;<br>
 4° de ontwikkeling van het curriculum met inbegrip van het uittekenen van vervolgtrajecten in inhoudelijk aansluitende professionele bacheloropleidingen;<br>
 5° de optimalisering van de dienstverlening voor de leerlingen;<br>
 6° de programmatie van het aanbod met als doelstelling dat de verschillende participerende instellingen - elk vanuit hun sterkte - zoveel mogelijk verschillende doelgroepen bereiken;<br>
@@ -5184,12 +5215,12 @@ Een samenwerkingsverband vervult de volgende opdrachten :<br>
 9° de uitbouw van een leerlingenbegeleiding;<br>
 10° het beschikbaar maken van de sociale voorzieningen voor de cursisten;<br>
 11° het uitwerken en evalueren van een kwaliteitsvolle EVC-procedure;<br>
-12° het uitwerken van de communicatie(strategie) over het aanbod van de opleiding Verpleegkunde van het hoger beroepsonderwijs;<br>
+12° het uitwerken van de communicatie(strategie) over het aanbod van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs;<br>
 13° de organisatie van de toelatingsproef, vermeld in artikel 163, § 2, 3°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
-De inspectie, vermeld in titel IV van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, beoordeelt in samenwerking met de accreditatieorganisatie de kwaliteit van de opleiding Verpleegkunde van het hoger beroepsonderwijs georganiseerd door het samenwerkingsverband.<br>
+De inspectie, vermeld in titel IV van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, beoordeelt in samenwerking met de accreditatieorganisatie de kwaliteit van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs georganiseerd door het samenwerkingsverband.<br>
 <br>
-De inspectie en de accreditatieorganisatie leggen hiervoor een beoordelingskader vast. Dit beoordelingskader is gebaseerd op de kwaliteitskenmerken, vermeld in artikel II.170/1, eerste lid, en het referentiekader onderwijskwaliteit, vermeld in artikel 2, 16° /1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+De inspectie en de accreditatieorganisatie leggen hiervoor een beoordelingskader vast. Dit beoordelingskader is gebaseerd op de kwaliteitskenmerken, vermeld in artikel II.170/1 en het referentiekader onderwijskwaliteit, vermeld in artikel 2, 16° /1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
 <br>
 Het beoordelingskader moet, voor het toegepast kan worden, door de Vlaamse Regering goedgekeurd worden.<br>
 <br>
@@ -6163,85 +6194,85 @@ Vanaf het begrotingsjaar 2008 wordt dit bedrag geïndexeerd volgens de bepalinge
 
 ### ART. III.11.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Voor de berekening van het variabel onderwijsdeel van een hogeschool of universiteit (VOWi) worden de bedragen, vermeld in artikel III.5, omgeslagen over de verschillende hogescholen of universiteiten op basis van het aantal financieringspunten overeenkomstig de volgende formule:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de berekening van het variabel onderwijsdeel van een hogeschool of universiteit (VOWi) worden de bedragen, vermeld in artikel III.5, omgeslagen over de verschillende hogescholen of universiteiten op basis van het aantal financieringspunten overeenkomstig de volgende formule:<br>
 1°&nbsp;&nbsp; voor de hogescholen VOWi = VOWi-prof + VOWi-ac + VOWi-hko</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">waarbij :</p>
+<p style="margin-left:18pt; margin-right:0cm">waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">a)&nbsp;&nbsp;&nbsp; VOWi-prof = FPi-prof x VOWprof / Σi FPI-prof</p>
+<p style="margin-left:36pt; margin-right:0cm">a)&nbsp;&nbsp;&nbsp; VOWi-prof = FPi-prof x VOWprof / Σi FPI-prof</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">b)&nbsp;&nbsp;&nbsp; VOWi-ac = FPi-ac x (VOWac - VWOhko) / Σi FPI-ac</p>
+<p style="margin-left:36pt; margin-right:0cm">b)&nbsp;&nbsp;&nbsp; VOWi-ac = FPi-ac x (VOWac - VWOhko) / Σi FPI-ac</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">c)&nbsp;&nbsp;&nbsp; VOWi-hko = FPi-hko x VOWhko / Σi FPi-hko</p>
+<p style="margin-left:36pt; margin-right:0cm">c)&nbsp;&nbsp;&nbsp; VOWi-hko = FPi-hko x VOWhko / Σi FPi-hko</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">waarbij :</p>
+<p style="margin-left:18pt; margin-right:0cm">waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">1)&nbsp;&nbsp;&nbsp; VOWi gelijk is aan het variabel onderwijsdeel voor hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">1)&nbsp;&nbsp;&nbsp; VOWi gelijk is aan het variabel onderwijsdeel voor hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">2)&nbsp;&nbsp;&nbsp; VOWi-prof gelijk is aan het variabel onderwijsdeel voor de professioneel gerichte opleidingen in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">2)&nbsp;&nbsp;&nbsp; VOWi-prof gelijk is aan het variabel onderwijsdeel voor de professioneel gerichte opleidingen in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">3)&nbsp;&nbsp;&nbsp; VOWi-ac gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen, met uitzondering van de academisch gerichte kunstopleidingen, in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">3)&nbsp;&nbsp;&nbsp; VOWi-ac gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen, met uitzondering van de academisch gerichte kunstopleidingen, in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">4)&nbsp;&nbsp;&nbsp; VOWi-hko gelijk is aan het variabel onderwijsdeel voor de academisch gerichte kunstopleidingen in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">4)&nbsp;&nbsp;&nbsp; VOWi-hko gelijk is aan het variabel onderwijsdeel voor de academisch gerichte kunstopleidingen in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">5)&nbsp;&nbsp;&nbsp; FPi-prof gelijk is aan het totale aantal financieringspunten voor de professioneel gerichte opleidingen in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">5)&nbsp;&nbsp;&nbsp; FPi-prof gelijk is aan het totale aantal financieringspunten voor de professioneel gerichte opleidingen in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">6)&nbsp;&nbsp;&nbsp; VOWprof gelijk is aan het variabel onderwijsdeel voor de professioneel gerichte opleidingen in de hogescholen, vermeld in artikel III.5;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">6)&nbsp;&nbsp;&nbsp; VOWprof gelijk is aan het variabel onderwijsdeel voor de professioneel gerichte opleidingen in de hogescholen, vermeld in artikel III.5;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">7)&nbsp;&nbsp;&nbsp; FPi-ac gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen, met uitzondering van de kunstopleidingen in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">7)&nbsp;&nbsp;&nbsp; FPi-ac gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen, met uitzondering van de kunstopleidingen in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">8)&nbsp;&nbsp;&nbsp; VOWac gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen in de hogescholen, vermeld in artikel III.5;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">8)&nbsp;&nbsp;&nbsp; VOWac gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen in de hogescholen, vermeld in artikel III.5;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">9)&nbsp;&nbsp;&nbsp; FPi-hko gelijk is aan het totale aantal financieringspunten voor de academisch gerichte kunstopleidingen in hogeschool i;</p>
+<p style="margin-left:53.4pt; margin-right:0cm">9)&nbsp;&nbsp;&nbsp; FPi-hko gelijk is aan het totale aantal financieringspunten voor de academisch gerichte kunstopleidingen in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 53.4pt;">10) VOWhko gelijk is aan het variabel onderwijsdeel voor de academisch gerichte kunstopleidingen in de hogescholen, vermeld in artikel III.5.</p>
+<p style="margin-left:53.4pt; margin-right:0cm">10) VOWhko gelijk is aan het variabel onderwijsdeel voor de academisch gerichte kunstopleidingen in de hogescholen, vermeld in artikel III.5.</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">De sommatie Σi loopt over het aantal hogescholen die respectievelijk professioneel of academisch gerichte opleidingen aanbieden;</p>
+<p style="margin-left:18pt; margin-right:0cm">De sommatie Σi loopt over het aantal hogescholen die respectievelijk professioneel of academisch gerichte opleidingen aanbieden;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; voor de universiteiten VOWi-un = FPi-un x VWOun / ∑i FPi-un</p>
+<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; voor de universiteiten VOWi-un = FPi-un x VWOun / ∑i FPi-un</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">waarbij :</p>
+<p style="margin-left:18pt; margin-right:0cm">waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">a)&nbsp;&nbsp;&nbsp; VOWi-un gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen in universiteit i;</p>
+<p style="margin-left:36pt; margin-right:0cm">a)&nbsp;&nbsp;&nbsp; VOWi-un gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen in universiteit i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">b)&nbsp;&nbsp;&nbsp; FPi-un gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen in universiteit i;</p>
+<p style="margin-left:36pt; margin-right:0cm">b)&nbsp;&nbsp;&nbsp; FPi-un gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen in universiteit i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">c)&nbsp;&nbsp;&nbsp; VOWun gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten, vermeld in artikel III.5.</p>
+<p style="margin-left:36pt; margin-right:0cm">c)&nbsp;&nbsp;&nbsp; VOWun gelijk is aan het variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten, vermeld in artikel III.5.</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">De sommatie Σi loopt over het aantal universiteiten.</p>
+<p style="margin-left:18pt; margin-right:0cm">De sommatie Σi loopt over het aantal universiteiten.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van het variabele onderwijsdeel van een hogeschool de volgende formule toegepast:</p>
+<p style="margin-left:0cm; margin-right:0cm">§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van het variabele onderwijsdeel van een hogeschool de volgende formule toegepast:</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">VOWi = VOWi-prof2014 + VOWi-hko2014, waarbij:</p>
+<p style="margin-left:0cm; margin-right:0cm">VOWi = VOWi-prof2014 + VOWi-hko2014, waarbij:</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; VOWi gelijk is aan het variabele onderwijsdeel voor hogeschool i;</p>
+<p style="margin-left:18pt; margin-right:0cm">1°&nbsp;&nbsp; VOWi gelijk is aan het variabele onderwijsdeel voor hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; VOWi-prof2014 = FPi-prof2014 x VOWprof2014 / Σi FPi-prof2014;</p>
+<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; VOWi-prof2014 = FPi-prof2014 x VOWprof2014 / Σi FPi-prof2014;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">waarbij:</p>
+<p style="margin-left:18pt; margin-right:0cm">waarbij:</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">a)&nbsp;&nbsp;&nbsp; VOWi-prof2014 gelijk is aan het variabele onderwijsdeel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in hogeschool i;</p>
+<p style="margin-left:36pt; margin-right:0cm">a)&nbsp;&nbsp;&nbsp; VOWi-prof2014 gelijk is aan het variabele onderwijsdeel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">b)&nbsp;&nbsp;&nbsp; FPi-prof2014 gelijk is aan het totale aantal financieringspunten voor de professioneel gerichte opleidingen, met uitzondering van financieringspunten voor de professioneel gerichte kunstopleidingen, in hogeschool i;</p>
+<p style="margin-left:36pt; margin-right:0cm">b)&nbsp;&nbsp;&nbsp; FPi-prof2014 gelijk is aan het totale aantal financieringspunten voor de professioneel gerichte opleidingen, met uitzondering van financieringspunten voor de professioneel gerichte kunstopleidingen, in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">c)&nbsp;&nbsp;&nbsp; VOWprof2014 gelijk is aan het variabele onderwijsdeel voor de professioneel gerichte opleidingen in de hogescholen, vermeld in of berekend overeenkomstig artikel III.5;</p>
+<p style="margin-left:36pt; margin-right:0cm">c)&nbsp;&nbsp;&nbsp; VOWprof2014 gelijk is aan het variabele onderwijsdeel voor de professioneel gerichte opleidingen in de hogescholen, vermeld in of berekend overeenkomstig artikel III.5;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp; VOWi-hko2014 = FPi-hko2014 x VOWhko2014 / Σi FPi-hko2014;</p>
+<p style="margin-left:18pt; margin-right:0cm">3°&nbsp;&nbsp; VOWi-hko2014 = FPi-hko2014 x VOWhko2014 / Σi FPi-hko2014;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">waarbij:</p>
+<p style="margin-left:18pt; margin-right:0cm">waarbij:</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">a)&nbsp;&nbsp;&nbsp; VOWi-hko2014 gelijk is aan het variabele onderwijsdeel voor de kunstopleidingen in de Schools of Arts in hogeschool i;</p>
+<p style="margin-left:36pt; margin-right:0cm">a)&nbsp;&nbsp;&nbsp; VOWi-hko2014 gelijk is aan het variabele onderwijsdeel voor de kunstopleidingen in de Schools of Arts in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">b)&nbsp;&nbsp;&nbsp; FPi-hko2014 gelijk is aan het totale aantal financieringspunten voor de kunstopleidingen in de Schools of Arts in hogeschool i;</p>
+<p style="margin-left:36pt; margin-right:0cm">b)&nbsp;&nbsp;&nbsp; FPi-hko2014 gelijk is aan het totale aantal financieringspunten voor de kunstopleidingen in de Schools of Arts in hogeschool i;</p>
 
-<p style="margin-right: 0cm; margin-left: 36pt;">c)&nbsp;&nbsp;&nbsp; VOWhko2014 gelijk is aan het variabele onderwijsdeel voor de kunstopleidingen in de Schools of Arts, vermeld in of berekend overeenkomstig artikel III.5.<br>
+<p style="margin-left:36pt; margin-right:0cm">c)&nbsp;&nbsp;&nbsp; VOWhko2014 gelijk is aan het variabele onderwijsdeel voor de kunstopleidingen in de Schools of Arts, vermeld in of berekend overeenkomstig artikel III.5.<br>
 <br>
 De sommatie Σi loopt over het aantal hogescholen die professioneel gerichte opleidingen of kunstopleidingen aanbieden.<br>
 &nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§ 2/1. Vanaf het begrotingsjaar 2022 wordt voor de berekening van het variabele onderwijsdeel van een hogeschool de volgende formule toegepast : VOWi = VOWi-prof2014 + VOWi-hko2014 + VOWi-hbo, waarbij :<br>
+<p style="margin-left:0cm; margin-right:0cm">§ 2/1. Vanaf het begrotingsjaar 2022 wordt voor de berekening van het variabele onderwijsdeel van een hogeschool de volgende formule toegepast : VOWi = VOWi-prof2014 + VOWi-hko2014 + VOWi-hbo, waarbij :<br>
 1° VOWi gelijk is aan het variabele onderwijsdeel voor hogeschool i;<br>
 2° VOWi-prof2014 = FPi-prof2014 x VOWprof2014 / Σi FPi-prof2014, waarbij :<br>
 a) VOWi-prof2014 gelijk is aan het variabele onderwijsdeel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in hogeschool i;<br>
@@ -6260,59 +6291,59 @@ De sommatie Σi loopt over het aantal hogescholen die professioneel gerichte opl
 <br>
 §3. Vanaf het begrotingsjaar 2014 wordt voor de berekening van het variabele onderwijsdeel van een universiteit de volgende formule toegepast:</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">VOWi-un = FPi-un2014 x VOWun2014 /Σi FPi-un2014,</p>
+<p style="margin-left:0cm; margin-right:0cm">VOWi-un = FPi-un2014 x VOWun2014 /Σi FPi-un2014,</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">waarbij:</p>
+<p style="margin-left:0cm; margin-right:0cm">waarbij:</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; VOWi-un gelijk is aan het variabele onderwijsdeel voor de academisch gerichte opleidingen in universiteit i;</p>
+<p style="margin-left:18pt; margin-right:0cm">1°&nbsp;&nbsp; VOWi-un gelijk is aan het variabele onderwijsdeel voor de academisch gerichte opleidingen in universiteit i;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; FPi-un2014 gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen in universiteit i;</p>
+<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; FPi-un2014 gelijk is aan het totale aantal financieringspunten voor de academisch gerichte opleidingen in universiteit i;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp; VOWun2014 gelijk is aan het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten, vermeld in of berekend overeenkomstig artikel III.9.</p>
+<p style="margin-left:18pt; margin-right:0cm">3°&nbsp;&nbsp; VOWun2014 gelijk is aan het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten, vermeld in of berekend overeenkomstig artikel III.9.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">De sommatie Σi loopt over het aantal universiteiten.</p>
+<p style="margin-left:0cm; margin-right:0cm">De sommatie Σi loopt over het aantal universiteiten.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. Het bedrag, berekend voor de financiering van de onderzoeksmasters als vermeld in paragraaf 6, wordt in afwijking van paragraaf 3 voorafgenomen van het variabel onderwijsdeel VOWun2014, voor dit bedrag verdeeld wordt overeenkomstig paragraaf 3.</p>
+<p style="margin-left:0cm; margin-right:0cm">§4. Het bedrag, berekend voor de financiering van de onderzoeksmasters als vermeld in paragraaf 6, wordt in afwijking van paragraaf 3 voorafgenomen van het variabel onderwijsdeel VOWun2014, voor dit bedrag verdeeld wordt overeenkomstig paragraaf 3.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§5. De financieringspunten, vermeld in paragraaf 1, worden als volgt berekend:</p>
+<p style="margin-left:0cm; margin-right:0cm">§5. De financieringspunten, vermeld in paragraaf 1, worden als volgt berekend:</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">FPi = FPi-input + FPi-output + FPi-diploma + FPi-credit</p>
+<p style="margin-left:0cm; margin-right:0cm">FPi = FPi-input + FPi-output + FPi-diploma + FPi-credit</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">waarbij :</p>
+<p style="margin-left:0cm; margin-right:0cm">waarbij :</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; FPi gelijk is aan het totale aantal financieringspunten voor het desbetreffende variabel onderwijsdeel in instelling i;</p>
+<p style="margin-left:18pt; margin-right:0cm">1°&nbsp;&nbsp; FPi gelijk is aan het totale aantal financieringspunten voor het desbetreffende variabel onderwijsdeel in instelling i;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; FPi-input gelijk is aan het aantal financieringspunten, gebaseerd op het aantal opgenomen studiepunten voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.12;</p>
+<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; FPi-input gelijk is aan het aantal financieringspunten, gebaseerd op het aantal opgenomen studiepunten voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.12;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp; FPi-output gelijk is aan het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.13;</p>
+<p style="margin-left:18pt; margin-right:0cm">3°&nbsp;&nbsp; FPi-output gelijk is aan het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.13;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">4°&nbsp;&nbsp; FPi-diploma gelijk is aan het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.14;</p>
+<p style="margin-left:18pt; margin-right:0cm">4°&nbsp;&nbsp; FPi-diploma gelijk is aan het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's voor het desbetreffende variabel onderwijsdeel in instelling i, zoals bepaald in artikel III.14;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">5°&nbsp;&nbsp; FPi-credit gelijk is aan het aantal financieringspunten in instelling i, gebaseerd op het aantal verworven studiepunten door studenten onder creditcontract, zoals bepaald in artikel III.17.</p>
+<p style="margin-left:18pt; margin-right:0cm">5°&nbsp;&nbsp; FPi-credit gelijk is aan het aantal financieringspunten in instelling i, gebaseerd op het aantal verworven studiepunten door studenten onder creditcontract, zoals bepaald in artikel III.17.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§6. Voor de financiering van de onderzoeksmasters, aangeboden in het academiejaar t-l/t, wordt in het begrotingsjaar t+1 een bedrag vooraf genomen van VOWun2014 dat gelijk is aan het aantal aangeboden onderzoeksmasters vermenigvuldigd met 30.798 euro en dat ten hoogste gelijk is aan 1.231.920 euro. Van dit maximale bedrag voor de financiering van de onderzoeksmasters kunnen de universiteiten ten hoogste het volgende bedrag ontvangen :</p>
+<p style="margin-left:0cm; margin-right:0cm">§6. Voor de financiering van de onderzoeksmasters, aangeboden in het academiejaar t-l/t, wordt in het begrotingsjaar t+1 een bedrag vooraf genomen van VOWun2014 dat gelijk is aan het aantal aangeboden onderzoeksmasters vermenigvuldigd met 30.798 euro en dat ten hoogste gelijk is aan 1.231.920 euro. Van dit maximale bedrag voor de financiering van de onderzoeksmasters kunnen de universiteiten ten hoogste het volgende bedrag ontvangen :</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; de Katholieke Universiteit Leuven : 458.994,28 euro;</p>
+<p style="margin-left:18pt; margin-right:0cm">1°&nbsp;&nbsp; de Katholieke Universiteit Leuven : 458.994,28 euro;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; de Universiteit Hasselt en de transnationale Universiteit Limburg : 53.037,92 euro;</p>
+<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; de Universiteit Hasselt en de transnationale Universiteit Limburg : 53.037,92 euro;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp; de Universiteit Antwerpen : 170.545,96 euro;</p>
+<p style="margin-left:18pt; margin-right:0cm">3°&nbsp;&nbsp; de Universiteit Antwerpen : 170.545,96 euro;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">4°&nbsp;&nbsp; de Universiteit Gent : 405.628,14 euro;</p>
+<p style="margin-left:18pt; margin-right:0cm">4°&nbsp;&nbsp; de Universiteit Gent : 405.628,14 euro;</p>
 
-<p style="margin-right: 0cm; margin-left: 18pt;">5°&nbsp;&nbsp; de Vrije Universiteit Brussel : 143.713,70 euro.</p>
+<p style="margin-left:18pt; margin-right:0cm">5°&nbsp;&nbsp; de Vrije Universiteit Brussel : 143.713,70 euro.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Deze verdeling geldt tot en met het begrotingsjaar 2023.<br>
+<p style="margin-left:0cm; margin-right:0cm">Deze verdeling geldt tot en met het begrotingsjaar 2023.<br>
 <br>
 §7. Voor de financiering van een onderzoeksmaster, aangeboden in het academiejaar t-l/t, ontvangt een universiteit een bedrag van 30.798 euro in het begrotingsjaar t+1.<br>
 <br>
@@ -6320,7 +6351,9 @@ Daarbij kan de financiering van alle onderzoeksmasters samen voor de betrokken i
 <br>
 In afwijking van het eerste lid kan de Vlaamse Regering het bedrag voor een onderzoeksmaster aanpassen tot maximum 92.394 euro op basis van een gemotiveerd verzoek van de betrokken instelling. Het in paragraaf 6 vastgestelde maximaal bedrag per universiteit kan hierbij niet overschreden worden.<br>
 <br>
-§8. Vanaf het begrotingsjaar 2017 wordt het aandeel in het onderwijsvariabel deel VOWun dat de opleidingen bachelor in de geneeskunde, master in de geneeskunde, master in de huisartsgeneeskunde van de 4 universiteiten die zowel de bacheloropleiding als masteropleiding in de geneeskunde en masteropleiding in de huisartsgeneeskunde aanbieden, genereren, vastgelegd op een bepaald percentage, zijnde het gemiddeld procentueel aandeel dat die opleidingen in VOWun van de begrotingsjaren 2012, 2013, 2014, 2015 en 2016 genereren. Dit bedrag wordt dan verdeeld onder de 4 universiteiten op basis van het aandeel dat elke universiteit (Universiteit Gent, Universiteit Antwerpen, Vrije Universiteit Brussel en Katholieke Universiteit Leuven) in het aantal uitgereikte diploma’s in de bacheloropleiding geneeskunde en de masteropleidingen – master in de geneeskunde, master in de huisartsgeneeskunde en master in de specialistische geneeskunde – genereert.</p>
+§8. Vanaf het begrotingsjaar 2017 wordt het aandeel in het onderwijsvariabel deel VOWun dat de opleidingen bachelor in de geneeskunde, master in de geneeskunde, master in de huisartsgeneeskunde van de 4 universiteiten die zowel de bacheloropleiding als masteropleiding in de geneeskunde en masteropleiding in de huisartsgeneeskunde aanbieden, genereren, vastgelegd op een bepaald percentage, zijnde het gemiddeld procentueel aandeel dat die opleidingen in VOWun van de begrotingsjaren 2012, 2013, 2014, 2015 en 2016 genereren. Dit bedrag wordt dan verdeeld onder de 4 universiteiten op basis van het aandeel dat elke universiteit (Universiteit Gent, Universiteit Antwerpen, Vrije Universiteit Brussel en Katholieke Universiteit Leuven) in het aantal uitgereikte diploma’s in de bacheloropleiding geneeskunde en de masteropleidingen – master in de geneeskunde, master in de huisartsgeneeskunde en master in de specialistische geneeskunde – genereert.<br>
+<br>
+§ 9. Vanaf het begrotingsjaar 2026 wordt het aandeel in het variabele onderwijsdeel VOWun dat de opleidingen bachelor in de diergeneeskunde en master in de diergeneeskunde, aangeboden door de Universiteit Gent en de Universiteit Antwerpen, genereren, vastgelegd op een bepaald percentage, namelijk het procentuele aandeel dat die opleidingen in VOWun van het begrotingsjaar 2022 genereren. Dat percentage wordt verdeeld onder de Universiteit Antwerpen en de Universiteit Gent op basis van het aandeel van die universiteiten in het aantal uitgereikte diploma's in de bacheloropleiding en masteropleiding diergeneeskunde in de periode 20132014 tot en met 2017-2018.</p>
 
 ### ART. III.12.
 
@@ -9181,7 +9214,7 @@ Het bedrag, vermeld in het eerste lid, op prijsniveau 2020, wordt jaarlijks aang
 
 <p>§ 1. Om voor de financiering van de investeringen in aanmerking te komen moet de hogeschool eigenaar zijn van het onroerend goed, ofwel een zakelijk recht bezitten op het onroerend goed dat haar het genot waarborgt voor ten minste een periode van dertig jaar. Deze voorwaarde geldt niet bij de aankoop van een gebouw, van grond of van zware didactische en wetenschappelijke apparatuur.<br>
 <br>
-§ 2. In de schoot van de associatie wordt een advies gegeven over de meerjarenplanning en over de besteding van de investeringsmiddelen. Dit advies is gebaseerd op het in artikel II.11, tweede lid, 7°, bedoelde meerjarenplan voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en documentatievoorzieningen.</p>
+§ 2. ...</p>
 
 <p>&nbsp;</p>
 
