@@ -41,17 +41,17 @@ b) ICT-coördinator;<br>
 c) zorg-coördinator;&nbsp;<br>
 d) beleidsondersteuner<br>
 2° selectieambten:<br>
-nihil;<br>
+adjunct-directeur;<br>
 3° bevorderingsambten<br>
 nihil.
 
 ### ART. 8.
 
-De ambten die de leden van het paramedisch personeel kunnen uitoefenen in de medisch-pedagogische instituten, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) ergotherapeut;<br /><br />b) kinderverzorger;<br /><br />c) kinesitherapeut;<br /><br />d) logopedist;<br /><br />e) verpleger;<br /><br />2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten:<br /><br />nihil.
+...
 
 ### ART. 9.
 
-De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in de medisch-peda-gogische instituten worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) studiemeester-opvoeder internaat;<br /><br />2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten:<br /><br />a) beheerder.
+...
 
 ### ART. 10.
 
@@ -89,7 +89,7 @@ De ambten die de leden van het medisch personeel in het buitengewoon secundair o
 
 ### ART. 18.
 
-De ambten die de leden van het opvoedend hulppersoneel in de internaten in het buitengewoon secundair onderwijs kunnen uitoefenen, worden als volgt vastgelegd en ingedeeld :<br />1° wervingsambten :<br />a) studiemeester-opvoeder internaat;<br />2° selectieambten :<br />a) nihil;<br />3° bevorderingsambten :<br />a) beheerder.<br />
+...
 
 ### ART. 19.
 
