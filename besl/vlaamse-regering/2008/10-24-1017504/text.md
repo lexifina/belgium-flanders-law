@@ -39,7 +39,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2022-2023 opgenomen in bijlage III, die bij dit besluit is gevoegd.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2023-2024 opgenomen in bijlage III, die bij dit besluit is gevoegd.
 
 ### ART 6/1.
 
@@ -47,7 +47,9 @@ Voor de experimenteel modulaire opleidingen van het deeltijds beroepssecundair o
 1° de centra die deze opleidingen mogen organiseren uiterlijk tot en met het schooljaar 2024-2025;<br>
 2° de opleidingen;<br>
 3° de opleidingenstructuur;<br>
-4° de doelen voor de beroepsgerichte vorming.
+4° de doelen voor de beroepsgerichte vorming.<br>
+<br>
+De organisatie van de experimenteel modulaire opleiding Verzorgende/Zorgkundige is aan de volgende voorwaarde verbonden: is in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
 
 ### ART. 7.
 
@@ -57,12 +59,12 @@ Voor de experimenteel modulaire opleidingen van het deeltijds beroepssecundair o
 
 ### ART. 8.
 
-<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2022-2023 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
+<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2023-2024 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
 3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
 <br>
-In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2022-2023 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
+In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2023-2024 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.</p>
 
@@ -75,7 +77,9 @@ b) aangezien een zorgvuldige monitoring van de kwaliteit van de opleiding en de 
 2° voor de component werkplekleren :<br>
 a) jongeren beneden de achttien jaar kunnen in de kinderopvang alleen als logistiek personeelslid werken;<br>
 b) jongeren boven de achttien jaar kunnen als begeleider in de kinderopvang werken, maar niet binnen de verplichte personeelsformatie;<br>
-c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelfstandige kinderopvangsector die beschikt over de minimale financiële ondersteuning, in aanmerking.
+c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelfstandige kinderopvangsector die beschikt over de minimale financiële ondersteuning, in aanmerking.<br>
+<br>
+De organisatie van de opleiding Verzorgende/Zorgkundige is aan de volgende voorwaarde verbonden: is in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
 
 ### ART 8ter.
 
@@ -88,7 +92,7 @@ De opleidingen van het deeltijds beroepssecundair onderwijs en de leertijd worde
 2° een opleiding uit een cluster als vermeld in bijlage XXI die bij dit besluit is gevoegd, is vrij programmeerbaar als het centrum uit diezelfde cluster al een of meer andere opleidingen organiseert;<br>
 3° een opleiding is programmeerbaar na goedkeuring door de Vlaamse Regering als:<br>
 a) het centrum uit een cluster als vermeld in bijlage XXI, die bij dit besluit is gevoegd, nog geen andere opleidingen organiseert;<br>
-b) de opleiding is opgenomen in de lijst, vermeld in punt 30 van bijlage XXI die bij dit besluit is gevoegd.
+b) de opleiding is opgenomen in de lijst, vermeld in punt 18 van bijlage XXI die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK VI. Toelating
 
@@ -210,10 +214,12 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART. 18.
 
-§ 1. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet bestemd voor voordrachtgevers, vermeld in artikel 90, § 1, 3°, van het decreet, wordt als volgt vastgesteld :<br>
-1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat wordt voorbehouden voor voordrachtgevers, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat wordt voor 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld. Dat resultaat kan in de loop van het schooljaar niet meer worden gewijzigd, behoudens vermindering bij overmacht;<br>
-2° het krediet voor voordrachtgevers wordt vastgesteld op 29,63 euro per omgezet uur-leraar. Dat krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
-3° het product van het aantal jaaruren met het geïndexeerde krediet vormt het totale krediet dat voorbehouden is voor de aanwerving van voordrachtgevers. Het wordt toegekend door middel van een voorschot van 25 % van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75 % in de loop van de maand juni die daarop volgt.<br>
+§1. Een centrum voor deeltijds beroepssecundair onderwijs kan uren-leraar aanwenden om een gastleraar in te zetten conform de volgende voorwaarden:<br>
+1° het centrum kan een of meer gastleraren inzetten in een vacante betrekking als vermeld in artikel 90, §1, 3°, van het decreet of tijdens de schooljaren 2023-2024 en 2024-2025 in een niet-vacante betrekking conform artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+2°&nbsp; als het centrum voor deeltijds beroepssecundair onderwijs wekelijkse uren-leraar aanwendt voor een vacante betrekking van gastleraar als vermeld in artikel 90, §1, 3°, van het decreet, meldt het centrum het aantal uren-leraar en de periode van aanwending aan het Agentschap voor Onderwijsdiensten. Als het centrum de uren-leraar van een niet-vacante betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komt voor een reguliere vervanging, aanwendt voor een gastleraar als vermeld in artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010, meldt het centrum het aantal uren-leraar en de periode van aanwending aan het Agentschap voor Onderwijsdiensten;<br>
+3°&nbsp; de uren-leraar die conform punt 2° worden gemeld, worden door het Agentschap voor Onderwijsdiensten omgezet in een krediet dat wordt vastgesteld op 68,93 euro per omgezet uur-leraar. Het voormelde krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Het voormelde krediet wordt vanaf 1 januari 2023 gekoppeld aan de spilindex 123,14. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
+4°&nbsp; het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in punt 3°, toe aan het centrum in de vorm van een voorschot van 25% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75% in de loop van de maand juni die daarop volgt;<br>
+5°&nbsp; het centrum kan het krediet dat door het Agentschap voor Onderwijsdiensten toegekend wordt, vermeld in punt 4°, alleen aanwenden voor het inzetten van gastleraren conform punt 2°.<br>
 <br>
 § 2. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet voor een organisatie die in het schooljaar 2018-2019 erkend was als centrum voor deeltijdse vorming, en die bestemd is om een les- of lesvervangend aanbod te realiseren voor de ondersteuning van de leerling als vermeld in artikel 90, § 1, 4°, van het decreet, wordt als volgt vastgesteld :<br>
 1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat als dusdanig wordt omgezet, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br>
@@ -224,13 +230,529 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART 18bis.
 
-Conform artikel 90, § 2 van het decreet kunnen uren-leraar als volgt in punten worden omgezet:<br>
-a) 12 uren-leraar = 31,5 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 23 uren-leraar = 63 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 12 uren-leraar = 41 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 23 uren-leraar = 82 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 12 uren-leraar = 60 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 23 uren-leraar = 120 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel.
+Met toepassing van artikel 90, §2, van het decreet en artikel 22/15, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010 kan een centrum voor deeltijds beroepssecundair onderwijs uren-leraar op de volgende wijze omzetten in punten voor de aanwending in wervingsambten van het ondersteunend personeel:<br>
+1° voor een betrekking met puntenwaarde 63:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">8</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31,5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+	</tbody>
+</table>
+2° voor een betrekking met puntenwaarde 82::
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">53</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">61</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">64</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+	</tbody>
+</table>
+3° voor een betrekking met puntenwaarde 85:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">59</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">67</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">70</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">74</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">81</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">85</td>
+		</tr>
+	</tbody>
+</table>
+4° voor een betrekking met puntenwaarde 120::
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">42</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">83</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">89</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">94</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
+		</tr>
+	</tbody>
+</table>
+6° voor een betrekking met puntenwaarde 126:
+
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">88</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">93</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">121</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">126</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 18ter.
+
+Een centrum kan uren-leraar aanwenden om een gastleraar in te zetten als vermeld in artikel 90bis van het decreet of artikel 22/16, eerste lid van de Codex Secundair Onderwijs van 17 december 2010 conform de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het centrumbestuur van het centrum sluit met een onderneming of een organisatie een dienstverleningsovereenkomst als vermeld in artikel 90bis van het decreet, met daarin de afspraken over de terbeschikkingstelling van een werknemer van de onderneming of de organisatie als gastleraar voor een welbepaalde opdracht en periode. Het centrumbestuur gebruikt het model dat is opgenomen in bijlage XXII, die bij dit besluit is gevoegd, om de voormelde dienstverleningsovereenkomst af te sluiten;<br>
+2°&nbsp;&nbsp; &nbsp;het centrumbestuur en de onderneming of de organisatie leggen op basis van de dienstverleningsovereenkomst, vermeld in punt 1°, de individuele lesopdracht van de werknemer vast in een deelovereenkomst conform het model van deelovereenkomst dat is opgenomen in het model van de dienstverleningsovereenkomst, vermeld in punt 1°;<br>
+3°&nbsp;&nbsp; &nbsp;als het centrum wekelijkse uren-leraar aanwendt voor een vacante betrekking van gastleraar als vermeld in artikel 90bis van het decreet, meldt het centrum aan het Agentschap voor Onderwijsdiensten de gegevens van het bedrijf of de organisatie waarmee het een &nbsp;dienstverleningsovereenkomst heeft afgesloten, en meldt het centrum aan het Agentschap voor Onderwijsdiensten het aantal uren-leraar en de periode van aanwending die zijn vastgelegd in de voormelde overeenkomst. Als het centrum de uren-leraar van een niet-vacante betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komt voor een reguliere vervanging, aanwendt voor een gastleraar als vermeld in artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010, meldt het centrum aan het Agentschap voor Onderwijsdiensten de gegevens van het bedrijf of de organisatie waarmee het een &nbsp;dienstverleningsovereenkomst heeft afgesloten en meldt het centrum aan het Agentschap voor Onderwijsdiensten het aantal uren-leraar en de periode van aanwending die zijn vastgelegd in de voormelde overeenkomst;<br>
+4°&nbsp;&nbsp; &nbsp;de uren-leraar die conform punt 3° worden gemeld, worden door het Agentschap voor Onderwijsdiensten omgezet in een krediet dat wordt vastgesteld op 68,93 euro per omgezet uur-leraar. Het voormelde krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Het voormelde krediet wordt vanaf 1 januari 2023 gekoppeld aan de spilindex 123,14. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
+5°&nbsp;&nbsp; &nbsp;het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in punt 4°, toe aan het bedrijf of de organisatie, zoals opgenomen in de dienstverleningsovereenkomst, vermeld in punt 1°.<br>
+<br>
+In het eerste lid wordt verstaan onder&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;onderneming: een onderneming uit de publieke of private profit- of non-profitsector;<br>
+2°&nbsp;&nbsp; &nbsp;organisatie: een organisatie uit de publieke of private profit- of non-profitsector.
 
 ## HOOFDSTUK XII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
@@ -384,11 +906,1033 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=125">Lijst van opleidingen voor wat betreft het schooljaar 2022-2023</a>
+Bijlage III. Lijst van opleidingen voor wat betreft het schooljaar 2023-2024<br>
+<br>
+1° Deeltijds beroepssecundair onderwijs:<br>
+<br>
+Categorie 1: Opleidingen modulair georganiseerd op basis van een beroepskwalificatie<br>
+Kapper-salonverantwoordelijke<br>
+Tuinaanlegger/groenbeheerder<br>
+<br>
+Categorie 2: Opleidingen modulair georganiseerd na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap<br>
+Administratief medewerker kmo<br>
+Basisoperator proceschemie<br>
+Bekister<br>
+Bestuurder mobiele kraan<br>
+Buitenschrijnwerker<br>
+Callcentermedewerker<br>
+Carrosseriehersteller<br>
+Chocoladebewerker<br>
+Dakafdichter<br>
+Dakdekker<br>
+Dakdekker leien en pannen<br>
+Daktimmerman<br>
+Decor- &amp; standenbouwer<br>
+Glaswerker<br>
+Grootkeukenkok<br>
+IJsbereider<br>
+IJzervlechter<br>
+Industrieel elektrotechnisch installateur<br>
+Industrieel maaltijdbereider<br>
+Industrieel vleesbewerker<br>
+Industrieel vleesproductenbereider<br>
+Installateur fotovoltaïsche systemen<br>
+Kok<br>
+Kunststofbewerker<br>
+Machineregelaar extrusie<br>
+Machineregelaar spuitgieten<br>
+Machineregelaar thermisch vormen<br>
+Meubelmaker<br>
+Meubelstoffeerder<br>
+Natuursteenbewerker<br>
+Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
+Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
+Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
+Pc-technicus<br>
+Pijpfitter<br>
+Plaatser buitenschrijnwerk<br>
+Plaatser natuursteen<br>
+Plaatser parket<br>
+Podiumtechnicus<br>
+Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen<br>
+Polyvalent mecanicien zware bedrijfsvoertuigen<br>
+Slager/bereider verkoopklare gerechten<br>
+Slager/spekslager<br>
+Spuiter carrosserie<br>
+Stellingbouwer<br>
+Technicus domotica<br>
+Technicus elektrische zwembaduitrustingen<br>
+Technicus immotica<br>
+Technicus inbraakbeveiligingssystemen<br>
+Tertiair elektrotechnisch installateur<br>
+Torenkraanbestuurder<br>
+Verhuizer-drager<br>
+Verhuizer-inpakker<br>
+Voeger<br>
+Werkplaatsschrijnwerker aluminium<br>
+Werkplaatsschrijnwerker kunststoffen<br>
+<br>
+Categorie 3: alle opleidingen (niet-modulair georganiseerd) die niet onder categorie 1 en 2 vallen<br>
+<br>
+Rubriek KLEDING EN CONFECTIE<br>
+Patronenmaker<br>
+<br>
+Rubriek LAND- EN TUINBOUW<br>
+Assistent-hoefsmid<br>
+Hoefsmid<br>
+<br>
+Rubriek PERSONENZORG<br>
+Begeleider in de kinderopvang<br>
+Verzorgende<br>
+Verzorgende/zorgkundige<br>
+<br>
+Rubriek SPORT EN VRIJE TIJD<br>
+Animator in de evenementensector<br>
+Buurtsportwerker<br>
+Sportbegeleider<br>
+<br>
+Rubriek ZEEVISSERIJ<br>
+Motorist 221 kW<br>
+Schipper beperkt vaargebied<br>
+<br>
+2° Leertijd:<br>
+<br>
+Categorie 1: Opleidingen op basis van een beroepskwalificatie<br>
+Kapper-salonverantwoordelijke<br>
+Tuinaanlegger/groenbeheerder<br>
+<br>
+Categorie 2: Opleidingen na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap<br>
+Administratief medewerker kmo<br>
+Basisoperator proceschemie<br>
+Bekister<br>
+Bestuurder mobiele kraan<br>
+Buitenschrijnwerker<br>
+Callcentermedewerker<br>
+Carrosseriehersteller<br>
+Chocoladebewerker<br>
+Dakafdichter<br>
+Dakdekker<br>
+Dakdekker leien en pannen<br>
+Daktimmerman<br>
+Decor- &amp; standenbouwer<br>
+Glaswerker<br>
+Grootkeukenkok<br>
+IJsbereider<br>
+IJzervlechter<br>
+Industrieel elektrotechnisch installateur<br>
+Industrieel maaltijdbereider<br>
+Industrieel vleesbewerker<br>
+Industrieel vleesproductenbereider<br>
+Installateur fotovoltaïsche systemen<br>
+Kok<br>
+Kunststofbewerker<br>
+Machineregelaar extrusie<br>
+Machineregelaar spuitgieten<br>
+Machineregelaar thermisch vormen<br>
+Meubelmaker<br>
+Meubelstoffeerder<br>
+Natuursteenbewerker<br>
+Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
+Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
+Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
+Pc-technicus<br>
+Pijpfitter<br>
+Plaatser buitenschrijnwerk<br>
+Plaatser natuursteen<br>
+Plaatser parket<br>
+Podiumtechnicus<br>
+Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen<br>
+Polyvalent mecanicien zware bedrijfsvoertuigen<br>
+Restauratievakman meubelen<br>
+Slager/bereider verkoopklare gerechten<br>
+Slager/spekslager<br>
+Spuiter carrosserie<br>
+Stellingbouwer<br>
+Technicus domotica<br>
+Technicus elektrische zwembaduitrustingen<br>
+Technicus immotica<br>
+Technicus inbraakbeveiligingssystemen<br>
+Tertiair elektrotechnisch installateur<br>
+Torenkraanbestuurder<br>
+Verhuizer-drager<br>
+Verhuizer-inpakker<br>
+Voeger<br>
+Werkplaatsschrijnwerker aluminium<br>
+Werkplaatsschrijnwerker kunststoffen<br>
+<br>
+Categorie 3: alle opleidingen die niet onder categorie 1 en 2 vallen<br>
+<br>
+Rubriek GRAFISCHE NIJVERHEID<br>
+Fotograaf<br>
+<br>
+Rubriek KUNST EN AMBACHTEN<br>
+Glazenier<br>
+<br>
+Rubriek LAND- EN TUINBOUW<br>
+Florist<br>
+Hoefsmid<br>
+Paardenhouder<br>
+<br>
+Rubriek PERSONENZORG<br>
+Begeleider in de kinderopvang<br>
+Verzorgende<br>
+Verzorgende/zorgkundige<br>
+<br>
+Rubriek SCHOONHEIDSZORG<br>
+Orthopedie-schoentechnicus<br>
+Schoonheidsspecialiste<br>
+Tandprothesetechnicus<br>
+<br>
+Rubriek SPORT EN VRIJE TIJD<br>
+Animator in de evenementensector<br>
+Sportbegeleider<br>
+<br>
+<strong>Aandacht</strong>: leerlingen die in het schooljaar 2022-2023 een opleiding volgen die in bovenstaande lijst niet is opgenomen, kunnen deze opleiding binnen een normaal tijdsbestek en zonder onderbreking verder zetten.
 
 ### BIJLAGE III/1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=29">Experimenteel modulair deeltijds beroepssecundair onderwijs</a>
+Bijlage III/1. Experimenteel modulair deeltijds beroepssecundair onderwijs<br>
+<br>
+Hieronder worden respectievelijk weergegeven:<br>
+1° de centra die deze opleidingen kunnen organiseren uiterlijk tot en met het schooljaar 2024-2025; 2° de opleidingen (+ administratieve groepsnummers) vanaf 1 september 2023;<br>
+3° de opleidingenstructuur vanaf 1 september 2023;<br>
+4° de doelen voor de beroepsgerichte vorming vanaf 1 september 2023.<br>
+<br>
+Centra:<br>
+1)GO! SO De Vesten Herentals<br>
+Augustijnenlaan 32<br>
+2200 Herentals<br>
+2)Regionaal centrum voor leren en werken<br>
+Zandstraat 85<br>
+2300 Turnhout<br>
+3)Don Bosco Technisch Instituut<br>
+Salesianenlaan 1<br>
+2660 Hoboken<br>
+4)CLW Kortrijk<br>
+Scheutistenlaan 8<br>
+8500 Kortrijk<br>
+<br>
+Opleidingen:<br>
+38604 Begeleider in de kinderopvang<br>
+38608 Thuis- en bejaardenzorg/zorgkundige<br>
+38607 Verzorgende<br>
+<br>
+Opleidingenstructuur<br>
+<br>
+<br>
+<br>
+<br>
+In de hierboven vermelde modules verwijst het cijfer naar het aantal weken als duurtijd van de module binnen het voltijds gewoon secundair onderwijs. Voor het deeltijds beroepssecundair onderwijs is de duurtijd louter indicatief.<br>
+<br>
+Samenhang<br>
+<br>
+<br>
+In de hierboven vermelde modules verwijst het cijfer naar het aantal weken als duurtijd van de module binnen het voltijds gewoon secundair onderwijs. Voor het deeltijds beroepssecundair onderwijs is de duurtijd louter indicatief.<br>
+<br>
+Doelen voor de beroepsgerichte vorming<br>
+<br>
+Module Basis communicatie<br>
+<br>
+In deze module worden sociale vaardigheden aangebracht die nodig zijn voor het eigen functioneren. De eigen identiteit, communiceren en zich informeren, met anderen omgaan en andere samenlevingsvormen en culturen staan centraal. Daarnaast is er ook aandacht voor de eigen expressieve mogelijkheden.<br>
+<br>
+met zichzelf omgaan<br>
+➢ met eigen mogelijkheden en beperkingen omgaan<br>
+➢ met eigen ervaringen omgaan<br>
+➢ met eigen gevoelens, emoties, waarden en normen omgaan<br>
+<br>
+met anderen omgaan<br>
+➢ zichzelf voorstellen<br>
+➢ gericht luisteren<br>
+➢ gericht waarnemen<br>
+➢ vragen stellen<br>
+➢ zich informeren<br>
+➢ reflecteren<br>
+➢ empathisch zijn<br>
+➢ anderen respecteren<br>
+➢ conflicten hanteren<br>
+➢ zich expressief uiten<br>
+➢ met diversiteit omgaan<br>
+➢ met anderen communiceren<br>
+➢ met zijn sociaal netwerk contact nemen<br>
+➢ met problemen en moeilijkheden omgaan<br>
+<br>
+Module Basis gezondheid<br>
+<br>
+In deze module worden de basiselementen van gezondheid, hygiëne en zorg aangebracht. Er wordt eveneens een eerste inzicht in de sector meegegeven.<br>
+Al deze aspecten hebben betrekking op zelfzorg en mantelzorg.<br>
+<br>
+de gezondheids- en welzijnszorg verkennen<br>
+➢ regionale diensten en hulpverleners inventariseren<br>
+➢ informatie over diensten en hulpverleners inwinnen<br>
+<br>
+methodisch werken<br>
+➢ economisch werken<br>
+➢ ecologisch werken<br>
+➢ ergonomisch werken<br>
+➢ hygiënisch werken<br>
+➢ planmatig werken<br>
+➢ veilig werken<br>
+<br>
+voor de gezondheid van zichzelf en anderen zorgen<br>
+➢ behoeften van de mens inventariseren<br>
+➢ gezondheidsproblemen inventariseren<br>
+➢ zich over gezondheidsproblemen informeren<br>
+➢ een zorgproces opstellen<br>
+➢ huismiddeltjes en volksremedies kritisch bevragen<br>
+➢ eigen waarden formuleren<br>
+<br>
+voor veiligheid, preventie en EHBO instaan<br>
+➢ preventieve aanwijzingen geven<br>
+➢ basisprincipes van EHBO toepassen<br>
+➢ dringende eerste hulp verlenen<br>
+➢ veiligheidsvoorschriften naleven<br>
+<br>
+Module Basis huishouding<br>
+<br>
+In deze module wordt de zorg voor de eigen leef- en woonsituatie aangeleerd. De nadruk ligt in deze module op maaltijden bereiden, textiel onderhouden, een woning onderhouden en administratie in functie van een huishouding. Er is ook aandacht voor methodisch, ergonomisch en hygiënisch werken. Al deze aspecten hebben betrekking op zelfzorg en mantelzorg.<br>
+<br>
+methodisch werken<br>
+➢ economisch werken<br>
+➢ ecologisch werken<br>
+➢ ergonomisch werken<br>
+➢ hygiënisch werken<br>
+➢ planmatig werken<br>
+➢ veilig werken<br>
+<br>
+eenvoudige en evenwichtige maaltijden verzorgen<br>
+➢ eenvoudige maaltijden bereiden<br>
+➢ voedingsmiddelen bewaren<br>
+➢ de vaat doen en opruimen<br>
+➢ de tafel dekken en afruimen<br>
+➢ evenwichtige maaltijden samenstellen<br>
+<br>
+textiel en schoeisel onderhouden<br>
+➢ wastechnieken toepassen<br>
+➢ het gereinigde textiel kastklaar maken<br>
+➢ eenvoudige herstellingen uitvoeren<br>
+➢ schoeisel onderhouden<br>
+<br>
+een woning inrichten en onderhouden<br>
+➢ een woning sfeervol inrichten<br>
+➢ bloemen en planten verzorgen<br>
+➢ schoonmaaktechnieken toepassen<br>
+<br>
+administratieve taken verrichten<br>
+➢ elementaire computervaardigheden toepassen<br>
+➢ briefwisseling verzorgen<br>
+➢ financiële verrichtingen uitvoeren<br>
+➢ een klassement bijhouden<br>
+➢ een voorraad op peil houden<br>
+➢ diensten contacteren<br>
+<br>
+Module Begeleiding van het jonge kind<br>
+<br>
+In deze module ligt het zwaartepunt op de gespecialiseerde vaardigheden die nodig zijn om als begeleider van het kind van 0-3 jaar te functioneren. Volgende elementen komen daarbij aan bod: pedagogische visie, teamwerk, het leef- en woonklimaat, spelactiviteiten, omgaan met kinderen en hun ouders, de ontwikkeling stimuleren, een opvoedende houding aannemen. Hierbij wordt ook aandacht besteed aan de integratie van de begeleider in het werkveld.<br>
+<br>
+een visie op kinderopvang toepassen<br>
+➢ de wettelijke reglementering in verband met de kinderopvang verduidelijken<br>
+➢ de rol van Kind en Gezin omschrijven<br>
+➢ de conventie van de rechten van het kind verwoorden<br>
+➢ pedagogisch verantwoord handelen<br>
+➢ aan kwaliteitsbevorderende initiatieven meewerken<br>
+➢ beroepsgeheim respecteren<br>
+<br>
+methodisch handelen<br>
+➢ een begeleidingsplan uitvoeren<br>
+➢ ecologisch, economisch, ergonomisch, hygiënisch en veilig werken<br>
+➢ bij noodsituaties de verantwoordelijke verwittigen<br>
+<br>
+observeren en rapporteren<br>
+➢ observeren<br>
+➢ schriftelijk en mondeling rapporteren<br>
+<br>
+in team werken<br>
+➢ met collega’s, verantwoordelijken en andere hulpverleners constructief samenwerken<br>
+➢ in team overleggen<br>
+➢ klachten, vragen, suggesties aan de verantwoordelijke(n) signaleren<br>
+<br>
+voor de dagelijkse verzorging van het kind instaan<br>
+➢ het kind bij de hygiënische zorgen begeleiden<br>
+➢ hygiënische zorgen uitvoeren<br>
+➢ basisregels van hygiëne toepassen<br>
+➢ zelfredzaamheid stimuleren<br>
+➢ til- en verplaatsingstechnieken toepassen<br>
+➢ gezonde voeding bereiden<br>
+➢ de eetsituaties begeleiden<br>
+➢ met de voedingsgewoonten van de kinderen rekening houden<br>
+➢ op de voeding- en vochtinname van de kinderen toezien<br>
+➢ rustmomenten organiseren<br>
+➢ over slapende en rustende kinderen toezicht houden<br>
+➢ ernstig zieke kinderen in afzonderlijke ruimte opvangen<br>
+➢ informatie over het zieke kind inwinnen<br>
+➢ het zieke kind verzorgen<br>
+➢ in opdracht medicijnen toedienen<br>
+➢ medicijngebruik registeren<br>
+➢ medicijnen bewaren<br>
+➢ ziekteverloop opvolgen<br>
+<br>
+met het kind in dagelijkse situaties omgaan<br>
+➢ voor een warm onthaal zorgen<br>
+➢ voor afhaalmoment van de kinderen instaan<br>
+➢ structuur aanbieden<br>
+➢ sensitief en responsief met de kinderen omgaan<br>
+➢ de ontwikkeling van de kinderen opvolgen<br>
+➢ met frequent voorkomende problemen in de opvoeding omgaan<br>
+➢ kinderen stimuleren<br>
+➢ met diversiteit omgaan<br>
+➢ een huiselijke sfeer creëren<br>
+➢ voor een gepaste groepssfeer zorgen<br>
+➢ voor een basissfeer van veiligheid en geborgenheid zorgen<br>
+➢ ruimte laten en met de gevoelens en gewoontes van het kind rekening houden<br>
+➢ met conflicten bij kinderen omgaan<br>
+➢ met kinderen met specifieke behoeften omgaan<br>
+➢ met observatie- en stimuleringsprogramma's werken<br>
+➢ opvoedingsmethoden en opvoedingsmiddelen hanteren<br>
+<br>
+activiteiten plannen, organiseren en begeleiden<br>
+➢ mogelijkheden tot vrij spel scheppen<br>
+➢ spelimpulsen geven<br>
+➢ het spelaanbod op het individuele kind afstemmen<br>
+➢ het spelaanbod op de groep afstemmen<br>
+➢ het spelaanbod op de omstandigheden afstemmen<br>
+➢ spelmateriaal kiezen<br>
+➢ speltechnieken en spelvormen toepassen<br>
+➢ activiteiten organiseren en coördineren<br>
+➢ een groep begeleiden<br>
+➢ activiteiten voor het zieke kind organiseren<br>
+<br>
+met de ouders en externen omgaan<br>
+➢ sensitief en responsief met de ouders omgaan<br>
+➢ met de ouders en externen informatie en ervaringen uitwisselen<br>
+➢ de autonomie en de opvoedingsstijl van de ouders respecteren<br>
+➢ met de ouders een vertrouwensrelatie opbouwen<br>
+➢ moeilijke gesprekken voeren<br>
+➢ voor nieuwe ouders en hun kind een ‘wen-periode’ inlassen<br>
+➢ afhaalpersonen van de kinderen herkennen<br>
+➢ bij niet gemachtigd afhalen van een kind de verantwoordelijke verwittigen<br>
+➢ afspraken naleven en laten naleven<br>
+➢ met opvoedingsvragen van ouders omgaan<br>
+➢ aan ouderparticipatie meewerken<br>
+➢ met informatie in verband met de opvangvoorziening omgaan<br>
+<br>
+met gevaar en onverwachte situaties omgaan<br>
+➢ eerstehulpdiensten en/of bevoegde personen oproepen<br>
+➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
+➢ bij verstikking maatregelen nemen<br>
+➢ bij verbranding maatregelen nemen<br>
+➢ bij bloedingen maatregelen nemen<br>
+➢ kleine wonden verzorgen<br>
+➢ met medicatie omgaan<br>
+➢ gevaarlijke situaties inschatten<br>
+➢ bij onverwachte situaties initiatief nemen<br>
+<br>
+het leef- en woonklimaat verzorgen<br>
+➢ leefruimten gepast inrichten<br>
+➢ de kinderen bij de zorg voor leef- en woonklimaat betrekken<br>
+➢ veiligheid waarborgen<br>
+➢ defecten en problemen in verband met de infrastructuur detecteren en signaleren<br>
+➢ de openings- en sluitingsprocedure van een opvangvoorziening toepassen<br>
+<br>
+administratieve taken uitvoeren<br>
+➢ registratiesystemen toepassen<br>
+➢ eenvoudige administratieve taken uitvoeren<br>
+<br>
+voor het eigen functioneren instaan<br>
+➢ informatiebronnen raadplegen<br>
+➢ vakliteratuur raadplegen<br>
+➢ het eigen functioneren bespreken<br>
+<br>
+Module Begeleiding van het schoolgaande kind<br>
+<br>
+In deze module ligt het zwaartepunt op de gespecialiseerde vaardigheden die nodig zijn om als begeleider van het schoolgaande kind te functioneren. Een pedagogische visie, teamwerk, het leef- en woonklimaat, spelactiviteiten, omgaan met kinderen en hun ouders, de ontwikkeling stimuleren, een opvoedende houding aannemen en pedagogisch omgaan met kinderen bij huiswerk- en spelbegeleiding komen daarbij aan bod. Er wordt ook aandacht besteed aan de integratie van de begeleid(st)er in het werkveld.<br>
+<br>
+een visie op kinderopvang toepassen<br>
+➢ de wettelijke reglementering i.v.m. de buitenschoolse kinderopvang verduidelijken<br>
+➢ de rol van Kind en Gezin ten aanzien van de opvangvoorzieningen omschrijven<br>
+➢ de conventie van de rechten van het kind verwoorden<br>
+➢ pedagogisch verantwoord handelen<br>
+➢ aan kwaliteitsbevorderende initiatieven meewerken<br>
+➢ het beroepsgeheim respecteren<br>
+<br>
+methodisch handelen<br>
+➢ een begeleidingsplan uitvoeren<br>
+➢ ecologisch, economisch, ergonomisch, hygiënisch en veilig werken<br>
+➢ bij noodsituaties de verantwoordelijke verwittigen<br>
+<br>
+observeren en rapporteren<br>
+➢ observeren<br>
+➢ schriftelijk en mondeling rapporteren<br>
+<br>
+in team werken<br>
+➢ met collega’s, verantwoordelijken en andere hulpverleners constructief samenwerken<br>
+➢ aan teamoverleg deelnemen<br>
+➢ klachten, vragen, suggesties aan verantwoordelijke signaleren<br>
+<br>
+voor de dagelijkse verzorging van het kind instaan<br>
+➢ het kind bij de hygiënische zorgen begeleiden<br>
+➢ basisregels van hygiëne toepassen<br>
+➢ gezonde voeding bereiden<br>
+➢ de eetsituaties begeleiden<br>
+➢ met de voedingsgewoonten van de kinderen rekening houden<br>
+➢ op de voeding- en vochtinname van de kinderen toezien<br>
+➢ rustmomenten organiseren<br>
+<br>
+met het kind in dagelijkse situaties omgaan<br>
+➢ voor een warm onthaal zorgen<br>
+➢ voor het afhaalmoment van de kinderen instaan<br>
+➢ een huiselijke sfeer creëren<br>
+➢ voor een basissfeer van veiligheid en geborgenheid zorgen<br>
+➢ voor een gepaste groepssfeer zorgen<br>
+➢ sensitief en responsief met de kinderen omgaan<br>
+➢ ruimte laten en met de gevoelens en gewoontes van het kind rekening houden<br>
+➢ met diversiteit omgaan<br>
+➢ kinderen stimuleren<br>
+➢ structuur aanbieden<br>
+➢ met conflicten bij kinderen omgaan<br>
+➢ de ontwikkeling van de kinderen opvolgen<br>
+➢ met frequent voorkomende problemen bij de ontwikkeling omgaan<br>
+➢ met kinderen met specifieke behoeften omgaan<br>
+➢ opvoedingsmethoden en opvoedingsmiddelen hanteren<br>
+➢ met observatie- en stimuleringsprogramma’s werken<br>
+<br>
+activiteiten plannen, organiseren en begeleiden<br>
+➢ mogelijkheden tot vrij spel scheppen<br>
+➢ spelimpulsen geven<br>
+➢ spelaanbod op het individuele kind afstemmen<br>
+➢ spelaanbod op de groep afstemmen<br>
+➢ spelaanbod op de omstandigheden afstemmen<br>
+➢ spelmateriaal kiezen<br>
+➢ speltechnieken en spelvormen toepassen<br>
+➢ spelactiviteiten organiseren en coördineren<br>
+➢ een groep begeleiden<br>
+<br>
+met de ouders en externen contact nemen<br>
+➢ sensitief en responsief met de ouders omgaan<br>
+➢ met de ouders en externen informatie en ervaringen uitwisselen<br>
+➢ de autonomie en de opvoedingsstijl van de ouders respecteren<br>
+➢ met de ouders een vertrouwensrelatie opbouwen<br>
+➢ moeilijke gesprekken voeren<br>
+➢ afhaalpersonen van de kinderen herkennen<br>
+➢ bij niet gemachtigd afhalen van een kind de verantwoordelijke verwittigen<br>
+➢ afspraken naleven en laten naleven<br>
+➢ met opvoedingsvragen van ouders omgaan<br>
+➢ aan ouderparticipatie meewerken<br>
+➢ met informatie in verband met de opvangvoorziening omgaan<br>
+<br>
+met gevaar en onverwachte situaties omgaan<br>
+➢ eerstehulpdiensten en/of bevoegde personen oproepen<br>
+➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
+➢ bij verstikking maatregelen nemen<br>
+➢ bij verbranding maatregelen nemen<br>
+➢ bij bloedingen maatregelen nemen<br>
+➢ kleine wonden verzorgen<br>
+➢ met medicatie omgaan<br>
+➢ gevaarlijke situaties inschatten<br>
+➢ bij onverwachte situaties initiatief nemen<br>
+<br>
+het leef- en woonklimaat verzorgen<br>
+➢ leefruimten gepast inrichten<br>
+➢ de kinderen bij de zorg voor leef- en woonklimaat betrekken<br>
+➢ de veiligheid waarborgen<br>
+➢ defecten en problemen in verband met de infrastructuur detecteren en signaleren<br>
+➢ een openings- en sluitingsprocedure van de opvangvoorziening toepassen<br>
+<br>
+administratieve taken uitvoeren<br>
+➢ registratiesystemen toepassen<br>
+➢ eenvoudige administratieve taken uitvoeren<br>
+<br>
+voor het eigen functioneren instaan<br>
+➢ informatiebronnen raadplegen<br>
+➢ vakliteratuur raadplegen<br>
+➢ het eigen functioneren bespreken<br>
+<br>
+Module Complexe zorg in residentiële situaties<br>
+<br>
+Het zwaartepunt ligt in deze module op de gespecialiseerde vaardigheden in complexe zorgsituaties in residentiële situaties. Volgende elementen komen daarbij aan bod: zorgvisie, teamwerk, leef- en woonklimaat, langdurig zieke en terminale zorgvragers.<br>
+<br>
+de organisatie van de voorzieningen voor ouderen in complexe zorgsituaties in de gezondheids- en welzijnszorg beschrijven<br>
+➢ het begrip complexe zorgsituatie uitleggen<br>
+➢ de plaats van de voorzieningen voor ouderen in complexe zorgsituaties in de gezondheids- en welzijnszorg beschrijven<br>
+➢ de taak en verantwoordelijkheid van een verzorgende beschrijven<br>
+➢ kenmerken van zorgvragers beschrijven<br>
+<br>
+binnen de zorgverlening functioneren<br>
+➢ het effect van complexe zorgsituaties op het zorgproces beschrijven<br>
+➢ het effect van veranderingen in de zorgvisie op het zorgproces beschrijven<br>
+➢ een zorgvisie toepassen<br>
+➢ zich ivm zijn werkzaamheden informeren<br>
+➢ na overleg een werkplan opstellen en uitvoeren<br>
+➢ een zorgplan mee uitvoeren<br>
+➢ prioriteiten stellen<br>
+➢ zelfstandig werken<br>
+➢ observeren en rapporteren<br>
+➢ in overeenstemming met het beroepsgeheim handelen<br>
+<br>
+in een multidisciplinair team werken<br>
+➢ de eigen plaats binnen een team bepalen<br>
+➢ overdracht geven<br>
+➢ in team aan een zorgplan werken<br>
+➢ met conflicten omgaan<br>
+➢ zich aan wisselende werkomstandigheden aanpassen<br>
+➢ onder supervisie werken<br>
+➢ het eigen functioneren bespreken<br>
+➢ collega's raadplegen<br>
+<br>
+de zorgvrager verzorgen<br>
+➢ de zorgvrager verzorgen<br>
+➢ preventief handelen<br>
+➢ prothesen afnemen, aandoen en onderhouden<br>
+➢ basisprincipes van comfortzorg verwoorden<br>
+➢ volgens de principes van comfortzorg handelen<br>
+➢ het uitvoeren van therapeutische oefeningen stimuleren<br>
+➢ hulpmiddelen gebruiken<br>
+➢ de preventie van en de voorgeschreven zorg bij smetten toepassen<br>
+➢ de preventie van en de voorgeschreven zorg bij drukletsels (1ste graad) toepassen<br>
+<br>
+het leef- en woonklimaat verzorgen<br>
+➢ voor de huishoudelijke activiteiten zorg dragen<br>
+➢ een huislijke sfeer scheppen<br>
+➢ voor het maaltijdgebeuren instaan<br>
+➢ de tijdsbesteding in functie van de noden van de zorgvrager helpen invullen<br>
+<br>
+met de zorgvrager omgaan<br>
+➢ zich in de belevingswereld van de zorgvrager inleven<br>
+➢ structuur in de dagindeling en tijdsbeleving aanbrengen<br>
+➢ de zorgvrager tot sociale contacten stimuleren<br>
+➢ de zorgvrager naar activiteiten begeleiden<br>
+➢ zich aan de communicatievormen van de zorgvrager aanpassen<br>
+➢ moeilijke gesprekken voeren<br>
+➢ met probleemgedrag omgaan<br>
+➢ de zorgvrager in veranderingsprocessen begeleiden<br>
+➢ de zorgvrager bij verwerkingsprocessen steunen<br>
+<br>
+met langdurig en/of terminaal zieke zorgvragers omgaan<br>
+➢ principes van palliatieve zorgen beschrijven<br>
+➢ verwerkingsprocessen van de zorgvrager en zijn sociaal netwerk beschrijven<br>
+➢ met langdurig en/of terminaal zieke zorgvragers omgaan<br>
+➢ met elementen van lijden en verwerkingsprocessen omgaan<br>
+➢ communicatie- en omgangsvormen aan de evolutie van de ziekte aanpassen<br>
+<br>
+met het sociale netwerk van de zorgvrager contact onderhouden<br>
+➢ de eigen plaats binnen het sociale netwerk bewaken<br>
+➢ met de belevingswereld van het sociale netwerk rekening houden<br>
+➢ voor de participatie van het sociale netwerk aandacht hebben<br>
+<br>
+Module Complexe zorg in thuissituaties<br>
+<br>
+In deze module worden de vaardigheden aangeleerd om als professionele zorgverlener de thuiszorg op zich te nemen. Daarbij staat zelfstandig de huishouding, voor en met de zorgvrager, organiseren en doen centraal. Er wordt ook aandacht besteed aan de verschillende actoren en het werken in specifieke situaties die zich kunnen voordoen in de thuiszorg<br>
+<br>
+de organisatie van de thuiszorg in de gezondheids- en welzijnszorg beschrijven<br>
+➢ de plaats van de thuiszorg in de gezondheids- en welzijnszorg beschrijven<br>
+➢ de organisatie van de thuiszorg beschrijven<br>
+➢ de taak, plaats en verantwoordelijkheid van de verzorgende beschrijven<br>
+➢ de werking van mantelzorg en zelfhulpgroepen, beschrijven<br>
+➢ complexe probleemsituaties beschrijven<br>
+<br>
+binnen de zorgverlening functioneren<br>
+➢ specifieke aspecten van een zorgvisie in de thuiszorg beschrijven<br>
+➢ het effect van veranderingen in de zorgvisie op het zorgproces beschrijven<br>
+➢ een zorgvisie toepassen<br>
+➢ zich ivm zijn werkzaamheden informeren<br>
+➢ na overleg een werkplan opstellen en uitvoeren<br>
+➢ een zorgplan mee uitvoeren<br>
+➢ prioriteiten stellen<br>
+➢ zelfstandig werken<br>
+➢ observeren en rapporteren<br>
+➢ in overeenstemming met het beroepsgeheim handelen<br>
+➢ bij noodsituaties gepast reageren<br>
+➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
+<br>
+in een multidisciplinair team werken<br>
+➢ de eigen plaats binnen een team bepalen<br>
+➢ de werking van een multidisciplinair team beschrijven<br>
+➢ overdracht geven<br>
+➢ in team aan een zorgplan werken<br>
+➢ met conflicten omgaan<br>
+➢ zich aan wisselende werkomstandigheden aanpassen<br>
+➢ onder supervisie werken<br>
+➢ het eigen functioneren bespreken<br>
+➢ collega's raadplegen<br>
+<br>
+de zorgvrager verzorgen<br>
+➢ de zorgvrager verzorgen<br>
+<br>
+voor de opvang van het zieke kind instaan<br>
+➢ voor de opvang van het zieke kind instaan<br>
+➢ de meest voorkomende symptomen benoemen<br>
+➢ in crisissituaties hulp vragen<br>
+➢ met het zieke kind omgaan<br>
+➢ met ouders informatie en ervaringen uitwisselen<br>
+<br>
+het leef- en woonklimaat verzorgen<br>
+➢ het huishouden zelfstandig doen<br>
+➢ de huishoudelijke activiteiten en zorgactiviteiten op elkaar afstemmen<br>
+➢ een huiselijke sfeer scheppen<br>
+➢ de tijdsbesteding in functie van de noden van de zorgvrager helpen invullen<br>
+➢ op vraag van de zorgvrager administratieve taken uitvoeren<br>
+<br>
+met de zorgvrager en zijn sociaal netwerk omgaan<br>
+➢ voor de participatie van het sociale netwerk aandacht hebben<br>
+➢ problematische gezinssituaties beschrijven<br>
+➢ zich in de belevingswereld van de zorgvrager en zijn sociaal netwerk inleven<br>
+➢ de eigen plaats binnen het sociale netwerk bewaken<br>
+➢ met principes van gezinsgericht werken rekening houden<br>
+<br>
+interculturele aspecten in het werk opnemen<br>
+➢ interculturele aspecten in het werk opnemen<br>
+➢ met verschillen in taal en gewoonten omgaan<br>
+➢ met verschillende vormen van wonen en leven rekening houden<br>
+<br>
+Module Initiatie zorg<br>
+<br>
+In deze module komt vooral de introductie tot het beroep van verzorgende aan bod. De klemtoon ligt op algemene principes van zorgvisie, de omgang met de zorgvrager en elementaire hulp bieden. Daarnaast maakt ook het systematisch werken deel uit van deze module. Deze module richt zich zowel naar de oudere zorgvrager als naar het jonge kind.<br>
+<br>
+een visie op zorg en gezondheid toepassen<br>
+➢ de taak, plaats en verantwoordelijkheid van de verzorgende binnen verschillende werkvelden situeren<br>
+➢ een zorgvisie toepassen<br>
+<br>
+methodisch werken<br>
+➢ planmatig werken<br>
+➢ ecologisch werken<br>
+➢ economisch werken<br>
+➢ ergonomisch werken<br>
+➢ hygiënisch werken<br>
+➢ veilig werken<br>
+➢ procedures opvolgen<br>
+<br>
+observeren en rapporteren<br>
+➢ observatieopdrachten uitvoeren<br>
+➢ uitgevoerde observaties rapporteren<br>
+<br>
+in team werken<br>
+➢ in een team werken<br>
+➢ met feedback omgaan<br>
+<br>
+met de zorgvrager en zijn netwerk omgaan<br>
+➢ met de instellingscultuur rekening houden<br>
+➢ omgangsvormen hanteren<br>
+➢ assertief reageren<br>
+➢ zich flexibel opstellen<br>
+➢ met anderen respectvol omgaan<br>
+➢ de eigen grenzen en die van anderen respecteren<br>
+➢ basisvaardigheden van multicultureel werken toepassen<br>
+➢ het beroepsgeheim respecteren<br>
+<br>
+andere zorgverstrekkers bij de zorgverlening helpen<br>
+➢ zorgvragen herkennen<br>
+➢ onder toezicht van andere zorgverstrekkers bij het verzorgen, eten, de toiletgang, het rusten en de slaap hulp bieden<br>
+➢ onder toezicht van andere zorgverstrekkers hulpmiddelen gebruiken<br>
+<br>
+de zorgvrager bij het bewegen helpen<br>
+➢ de zorgvrager bij het bewegen en verplaatsen ondersteunen<br>
+➢ de zorgvrager een goede houding geven<br>
+➢ hulpmiddelen gebruiken<br>
+<br>
+het woon- en leefklimaat verzorgen<br>
+➢ voor huishoudelijke activiteiten zorg dragen<br>
+➢ voor een huiselijke sfeer zorgen<br>
+➢ de leefruimte onderhouden<br>
+➢ maaltijden bereiden in functie van de zorgvrager<br>
+➢ levensmiddelen inmaken en bewaren in functie van gezinsverbruik<br>
+➢ textiel onderhouden<br>
+<br>
+elementaire hulp bieden en inroepen<br>
+➢ de eerstehulpdiensten en/of bevoegde personen oproepen<br>
+➢ basisprincipes van EHBO toepassen<br>
+➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
+➢ bij levensbedreigende situaties hulp bieden<br>
+<br>
+Module Logistiek werk in ziekenhuizen en zorginstellingen<br>
+<br>
+In deze module worden alle vaardigheden aangebracht die men als logistiek assistent verbonden aan een ziekenhuis of zorginstelling nodig heeft. De aandacht gaat vooral naar ‘begeleidende taken’ zoals maaltijden bedelen, de kamer schoon en op orde houden, boodschappen doen voor de zorgvrager, elementaire ondersteuning bieden bij het bewegen van de zorgvrager. Naast de concrete taken gaat de aandacht ook naar omgangsvaardigheden en houdingen, nodig voor dit beroep.<br>
+<br>
+in een organisatie functioneren<br>
+➢ de organisatie van een ziekenhuis en een zorginstelling verduidelijken<br>
+➢ de werkorganisatie van een afdeling en een verpleegkundig departement verduidelijken<br>
+➢ de taak en plaats van de logistiek assistent in een ziekenhuis en een zorginstelling situeren<br>
+➢ specifieke doelgroepen herkennen<br>
+<br>
+methodisch werken<br>
+➢ het toegewezen takenpakket plannen<br>
+➢ het nodige materiaal verzamelen<br>
+➢ de eigen werkruimte organiseren<br>
+➢ volgens een voorgeschreven procedure de taken uitvoeren<br>
+➢ planmatig werken<br>
+➢ de werkplanning aanpassen<br>
+➢ het eigen werk controleren en bijsturen<br>
+➢ ecologisch werken<br>
+➢ economisch werken<br>
+➢ ergonomisch werken<br>
+➢ hygiënisch werken<br>
+➢ veilig werken<br>
+➢ procedures opvolgen<br>
+➢ met de dagindeling en activiteiten van anderen rekening houden<br>
+<br>
+waarnemen en rapporteren<br>
+➢ gericht waarnemen<br>
+➢ mondeling en schriftelijk rapporteren<br>
+<br>
+met anderen communiceren<br>
+➢ omgangsvormen hanteren<br>
+➢ met anderen en de werkomgeving respectvol omgaan<br>
+➢ zich flexibel opstellen<br>
+➢ assertief reageren<br>
+➢ de eigen grenzen en die van anderen respecteren<br>
+➢ het beroepsgeheim respecteren<br>
+➢ met de instellingscultuur rekening houden<br>
+➢ basisvaardigheden van multicultureel werken toepassen<br>
+<br>
+in team werken<br>
+➢ opdrachten van anderen aanvaarden<br>
+➢ in team overleggen<br>
+➢ met collega’s en zorgverstrekkers samenwerken<br>
+➢ met anderen samenwerken<br>
+<br>
+elementaire hulp bieden en inroepen<br>
+➢ de eerstehulpdiensten en/of bevoegde personen oproepen<br>
+➢ basisprincipes van EHBO toepassen<br>
+➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
+➢ bij levensbedreigende situaties hulp bieden<br>
+<br>
+aan animatieactiviteiten meewerken<br>
+➢ animatieactiviteiten ondersteunen<br>
+➢ de zorgvrager begeleiden<br>
+<br>
+maaltijden voorbereiden, bedelen, toedienen en afruimen<br>
+➢ maaltijden op een afdeling verzorgen<br>
+➢ menukeuzes invullen<br>
+➢ maaltijden en dranken bedienen<br>
+➢ maaltijden voorbereiden<br>
+➢ tussendoortjes bereiden<br>
+➢ dieetmaaltijden herkennen<br>
+➢ de vaat doen<br>
+➢ tafels dekken en afruimen<br>
+➢ de keuken in orde houden<br>
+➢ de keukenvoorraad bijhouden<br>
+<br>
+onderhoudstaken uitvoeren<br>
+➢ onderhoudstaken verbonden aan een afdeling uitvoeren<br>
+➢ de lokalen onderhouden<br>
+➢ het interieur van kamers en leefruimten verzorgen<br>
+➢ schoonmaakmaterialen en toestellen gebruiken<br>
+➢ schoonmaakmaterialen en toestellen onderhouden<br>
+➢ schoonmaaktechnieken voor het onderhoud van verschillende ruimten toepassen<br>
+➢ verzorgingsmateriaal reinigen en ontsmetten<br>
+➢ patiëntenkamers desinfecteren<br>
+➢ bedden opmaken<br>
+➢ afval sorteren en verwijderen<br>
+➢ klein onderhoud aan materialen uitvoeren<br>
+<br>
+de linnenkamer beheren<br>
+➢ de linnenwagen en verzorgingswagen aanvullen<br>
+➢ textielgoed verzamelen<br>
+➢ textielgoed sorteren<br>
+➢ textielgoed verdelen<br>
+<br>
+voor de persoonlijke bezittingen van de zorgvrager zorg dragen<br>
+➢ kleine herstellingen uitvoeren<br>
+➢ de bezittingen van de zorgvrager verzorgen<br>
+➢ voor of met de zorgvrager boodschappen doen<br>
+<br>
+administratieve taken uitvoeren<br>
+➢ gegevens invoeren<br>
+➢ telefonische oproepen doorverbinden<br>
+➢ de post, documenten wegbrengen<br>
+➢ verzorgingsmateriaal, farmaceutische producten, stalen en apparaten transporteren<br>
+➢ de voorraad formulieren bijhouden<br>
+➢ klasseringsprincipes toepassen<br>
+<br>
+bij tillen, verplaatsen en vervoeren hulp bieden<br>
+➢ samen met de andere zorgverstrekkers de zorgvrager tillen en verplaatsen<br>
+➢ de zorgvrager die geen bestendig toezicht nodig heeft, met behulp van rolstoel, ziekenhuisbed vervoeren<br>
+➢ de zorgvrager bij het bewegen en verplaatsen ondersteunen<br>
+<br>
+Module Zorg in de kinderopvang<br>
+<br>
+In deze module worden de elementaire taken van de verzorgende bij kinderen aangeleerd.<br>
+De aandacht gaat vooral naar de dagelijkse verzorging en dagelijkse omgang met kinderen, de eigen beroepsrelaties en houdingen. Ook het methodisch werken en omgangsvaardigheden maken deel uit van deze module. Hierbij wordt ook aandacht besteed aan de integratie in het werkveld.<br>
+<br>
+in een organisatie functioneren<br>
+➢ de verschillende opvangvormen voor kinderen situeren<br>
+➢ de functie van kinderopvang in de samenleving verduidelijken<br>
+➢ de taak en verantwoordelijkheid van de begeleider binnen de voorziening situeren<br>
+<br>
+een visie op kinderopvang toepassen<br>
+➢ pedagogische verantwoord handelen<br>
+<br>
+methodisch werken<br>
+➢ een zorgplan uitvoeren<br>
+➢ de verschillende werkzaamheden op elkaar afstemmen<br>
+➢ ecologisch werken<br>
+➢ economisch werken<br>
+➢ ergonomisch werken<br>
+➢ hygiënisch werken<br>
+➢ veilig werken<br>
+➢ het beroepsgeheim respecteren<br>
+<br>
+observeren en rapporteren<br>
+➢ observatieopdrachten uitvoeren<br>
+➢ uitgevoerde observaties rapporteren<br>
+<br>
+in team werken<br>
+➢ met de verantwoordelijke en collega’s overleggen<br>
+➢ in team aan een zorgplan werken<br>
+<br>
+voor de dagelijkse verzorging van het kind instaan<br>
+➢ het kind bij de hygiënische zorgen begeleiden<br>
+➢ hygiënische zorgen uitvoeren<br>
+➢ zelfredzaamheid stimuleren<br>
+➢ bij het innemen van medicatie helpen<br>
+➢ kinder-, baby- en dieetvoeding bereiden<br>
+➢ maaltijden aangepast aan de noden van het kind verzorgen<br>
+➢ de veiligheid en het comfort van het kind waarborgen<br>
+➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
+➢ parameters controleren<br>
+➢ eerste signalen van ziek zijn herkennen<br>
+➢ over slapende en rustende kinderen toezicht houden<br>
+➢ til- en verplaatsingstechnieken toepassen<br>
+➢ hulpmiddelen gebruiken<br>
+<br>
+met het kind in dagelijkse situaties omgaan<br>
+➢ met de algemene ontwikkeling van het kind rekening houden<br>
+➢ de meest voorkomende problemen en gedragingen bij de dagelijkse omgang observeren<br>
+➢ de structuur in de dagindeling en de tijdsbeleving helpen aanhouden<br>
+➢ sensitief en responsief met kinderen omgaan<br>
+<br>
+activiteiten begeleiden<br>
+➢ spelmaterialen gebruiken<br>
+➢ spelactiviteiten uitvoeren<br>
+<br>
+met de ouders en het sociaal netwerk omgaan<br>
+➢ met ouders en sociaal netwerk contact nemen<br>
+➢ met een andere cultuur en/of leefomgeving rekening houden<br>
+<br>
+lokalen, speel- en werkmateriaal onderhouden<br>
+➢ speel- en werkmateriaal ontsmetten<br>
+➢ lokalen en ruimtes opruimen en onderhouden<br>
+➢ huishoudelijke activiteiten uitvoeren<br>
+<br>
+voor het eigen functioneren aandacht hebben<br>
+➢ aan de hand van een stramien op eigen functioneren reflecteren<br>
+<br>
+Module Zorg in residentiële en thuissituaties<br>
+<br>
+In deze module worden de taken van de verzorgende bij de zorgvrager in de verschillende leeftijdsfases aangeleerd.<br>
+De aandacht gaat vooral naar het zelfstandig uitvoeren van de taken van het beroep in welzijnssituaties(niet complexe zorgsituaties) in residentiële en semi-residentiële settingen (PVT, RVT, rusthuizen, diensten voor beschut wonen voor zorgvragers met een psychiatrische problematiek en thuiszorgvoorzieningen) en in de gezinszorg.<br>
+<br>
+in een organisatie functioneren<br>
+➢ de plaats van de verschillende residentiële en thuiszorgvoorzieningen in de gezondheids- en welzijnszorg situeren<br>
+➢ de organisatie en functie van de voorzieningen verduidelijken<br>
+➢ de taak en verantwoordelijkheid van de verzorgende beschrijven<br>
+➢ met informatie in verband met de voorziening omgaan<br>
+➢ termen in verband met de voorziening gebruiken<br>
+➢ de functie van het personeel verduidelijken<br>
+➢ kenmerken van specifieke doelgroepen benoemen<br>
+<br>
+binnen de zorgverlening functioneren<br>
+➢ een zorgvisie toepassen<br>
+➢ kwaliteitsvol werken<br>
+➢ een zorgplan mee uitvoeren<br>
+➢ zich in verband met zijn werkzaamheden informeren<br>
+➢ de verschillende werkzaamheden op elkaar afstemmen<br>
+➢ in overeenstemming met het beroepsgeheim handelen<br>
+➢ zich aan wisselende werkomstandigheden aanpassen<br>
+➢ met feedback omgaan<br>
+➢ administratie met betrekking tot de organisatie verrichten<br>
+➢ in het evalueren en verbeteren van de dienstverlening participeren<br>
+<br>
+observeren en rapporteren<br>
+➢ gericht observeren<br>
+➢ hulpvragen benoemen<br>
+➢ problemen en veranderingen in de toestand van de zorgvrager aan bevoegde personen signaleren<br>
+➢ mondeling en schriftelijk rapporteren<br>
+<br>
+in een team werken<br>
+➢ onder supervisie werken<br>
+➢ in team aan een zorgplan werken<br>
+➢ zich aan wisselende werkomstandigheden aanpassen<br>
+➢ het eigen functioneren bespreken<br>
+➢ op een professionele wijze met collega’s, verantwoordelijken en andere hulpverleners samenwerken<br>
+➢ met de verantwoordelijke, collega’s en/of de zorgvrager overleggen<br>
+<br>
+een beroepsrelatie met de zorgvrager en zijn sociaal netwerk aangaan, onderhouden en beëindigen<br>
+➢ respect tonen<br>
+➢ initiatief nemen<br>
+➢ zich assertief gedragen<br>
+➢ contacten aangaan, onderhouden en beëindigen<br>
+➢ discreet zijn<br>
+➢ empathisch communiceren<br>
+➢ met conflicten en probleemgedrag omgaan<br>
+➢ inspraak geven<br>
+➢ met diversiteit omgaan<br>
+➢ met regels en afspraken omgaan<br>
+➢ werk en privé gescheiden houden<br>
+➢ met de mantelzorg samenwerken<br>
+➢ met de belevingswereld van het sociale netwerk rekening houden<br>
+➢ de eigen plaats binnen het sociale netwerk bewaken<br>
+➢ de eigen communicatievaardigheden en omgangsvaardigheden aan de zorgvrager en zijn sociaal netwerk aanpassen<br>
+➢ op professionele wijze informatie verstrekken<br>
+➢ een professionele vertrouwensrelatie opbouwen<br>
+<br>
+voor de eigen persoonlijkheid in zijn werkzaamheden aandacht hebben<br>
+➢ voor eigen waarden en normen aandacht hebben<br>
+➢ eigen emoties en gevoelens herkennen<br>
+➢ eigen handelen en houdingen evalueren<br>
+➢ met ongewenste intimiteiten omgaan<br>
+➢ zich over zijn rechten en plichten informeren<br>
+➢ aan de hand van een stramien op eigen functioneren reflecteren<br>
+➢ eigen deskundigheid opbouwen<br>
+<br>
+de zorgvrager begeleiden<br>
+➢ met elementen van de belevingswereld van de zorgvrager omgaan<br>
+➢ het belang van aandachtspersonen beschrijven<br>
+➢ de structuur in de dagindeling en de tijdsbeleving helpen aanhouden<br>
+➢ het dagprogramma helpen invullen en ondersteunen<br>
+➢ tijdsbesteding in functie van noden stimuleren<br>
+➢ welzijns- en gezondheidsbevorderend werken<br>
+➢ bij verplaatsingen de zorgvrager begeleiden<br>
+<br>
+animatieactiviteiten begeleiden<br>
+➢ een animatieve grondhouding aannemen<br>
+➢ groepsactiviteiten helpen begeleiden<br>
+➢ tot deelname aan animatieactiviteiten stimuleren<br>
+<br>
+voor de dagelijkse verzorging bij de zorgvrager instaan<br>
+➢ de zorgvrager bij hygiënische zorgen en uiterlijke verzorging hulp bieden<br>
+➢ hygiënische zorgen uitvoeren<br>
+➢ verzorgingsmaterialen gebruiken<br>
+➢ de zorgvrager bij aan- en uitkleden helpen<br>
+➢ zelfredzaamheid en zelfstandigheid stimuleren<br>
+➢ de veiligheid en het comfort, autonomie en de fysieke integriteit van de zorgvrager waarborgen<br>
+➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
+➢ hulpmiddelen hanteren<br>
+➢ til- en verplaatsingstechnieken toepassen<br>
+➢ een evenwichtig waak- en slaapritme bevorderen<br>
+➢ dagritme bevorderen en ondersteunen<br>
+➢ het slaapcomfort van de zorgvrager bevorderen<br>
+➢ voor voldoende voedsel- en vochtinname aandacht hebben<br>
+<br>
+voor de specifieke verzorging instaan<br>
+➢ prothesen, steunkousen, warmwaterkruiken en ijszakken hanteren<br>
+➢ urinecollector ledigen<br>
+➢ voedingsproblemen en vochtbalans signaleren<br>
+➢ bij verslikken gepast reageren<br>
+➢ preventie van kleine huidletsels en drukletsels toepassen<br>
+➢ bij een genezen stoma een stomazakje verwijderen en aanbrengen<br>
+➢ opgelegde maatregelen ter preventie van infecties toepassen<br>
+➢ bij orale medicatie-inname toezien en helpen<br>
+➢ niet-steriele opname van urine en faeces uitvoeren<br>
+➢ bij de zindelijkheidstraining en mictietraining helpen<br>
+<br>
+voor huishoudelijke activiteiten instaan<br>
+➢ in samenspraak met de zorgvrager een evenwichtig weekmenu opstellen<br>
+➢ maaltijden bereiden in functie van de zorgvrager<br>
+➢ naar zorg in de kinderopvang<br>
+➢ de levensmiddelenvoorraad beheren<br>
+➢ boodschappen doen met en voor de zorgvrager<br>
+<br>
+bij de administratie van de zorgvrager helpen<br>
+➢ courante formulieren voor de zorgvrager invullen
 
 ### BIJLAGE III/2
 
@@ -408,7 +1952,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE V
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=132">Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2022-2023</a></p>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/11/23_2.pdf#page=60">Bijlage V. Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2023-2024 </a>
 
 ### BIJLAGE V/1
 
@@ -448,7 +1992,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VI
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=887">Invulling van opleidingen leertijd voor wat betreft het schooljaar 2022-2023</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/11/23_2.pdf#page=467">Invulling van opleidingen leertijd voor wat betreft het schooljaar 2023-2024</a></p>
 
 ### BIJLAGE VI/1
 
@@ -521,4 +2065,507 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XXI
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1258">Lijst van opleidingen deeltijds beroepssecundair onderwijs en leertijd, opgedeeld in clusters in het kader van programmatie</a>
+Bijlage XXI. Lijst van opleidingen deeltijds beroepssecundair onderwijs en leertijd, opgedeeld in clusters in het kader van programmatie<br>
+<br>
+1° Administratie;<br>
+&nbsp; a) Administratief medewerker; (schrapping per 1 september 23)<br>
+&nbsp; b) Administratief medewerker expeditie; (schrapping per 1 september 23)<br>
+&nbsp; c) Administratief medewerker kmo;<br>
+&nbsp; d) Callcentermedewerker;<br>
+<br>
+2° Auto;<br>
+&nbsp; a) Carrosseriehersteller;<br>
+&nbsp; b) Demonteur/monteur carrosserie; (schrapping per 1 september 23)<br>
+&nbsp; c) Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen;<br>
+&nbsp; d) Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen;<br>
+&nbsp; e) Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen; (schrapping per 1 september 23)<br>
+&nbsp; f) Onderhoudsmecanicien zware bedrijfsvoertuigen;<br>
+&nbsp; g) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen;<br>
+&nbsp; h) Polyvalent mecanicien zware bedrijfsvoertuigen;<br>
+&nbsp; i) Plaatwerker carrosserie; (schrapping per 1 september 23)<br>
+&nbsp; j) Spuiter carrosserie;<br>
+<br>
+3° Bakkerij;<br>
+&nbsp; a) Banketbakker; (schrapping per 1 september 23)<br>
+&nbsp; b) Brood- en banketbakker; (schrapping per 1 september 23)<br>
+&nbsp; c) Broodbakker; (schrapping per 1 september 23)<br>
+&nbsp; d) Chocoladebewerker;<br>
+&nbsp; e) IJsbereider;<br>
+<br>
+4° Dakwerken;<br>
+&nbsp; a) Dakafdichter;<br>
+&nbsp; b) Dakdekker;<br>
+&nbsp; c) Dakdekker leien en pannen;<br>
+<br>
+5° Elektriciteit;<br>
+&nbsp; a) Industrieel elektrotechnisch installateur;<br>
+&nbsp; b) Residentieel elektrotechnisch installateur; (schrapping per 1 september 23)<br>
+&nbsp; c) Technicus domotica;<br>
+&nbsp; d) Technicus immotica;<br>
+&nbsp; e) Tertiair elektrotechnisch installateur;<br>
+<br>
+6° Hoefsmederij;<br>
+&nbsp; a) Assistent-hoefsmid;<br>
+&nbsp; b) Hoefsmid;<br>
+<br>
+7° Horeca;<br>
+&nbsp; a) Grootkeukenhulpkok; (schrapping per 1 september 23)<br>
+&nbsp; b) Grootkeukenkok;<br>
+&nbsp; c) Hulpkok; (schrapping per 1 september 23)<br>
+&nbsp; d) Kelner; (schrapping per 1 september 23)<br>
+&nbsp; e) Kok;<br>
+<br>
+8° Kapper;<br>
+&nbsp; a) Kapper; (schrapping per 1 september 23)<br>
+&nbsp; b) Kapper-salonverantwoordelijke;<br>
+<br>
+9° Meubel, interieur en schrijnwerk;<br>
+&nbsp; a) Binnenschrijnwerker; (schrapping per 1 september 23)<br>
+&nbsp; b) Buitenschrijnwerker;<br>
+&nbsp; c) Daktimmerman;<br>
+&nbsp; d) Decor- &amp; standenbouwer;<br>
+&nbsp; e) Interieurbouwer;(schrapping per 1 september 23)<br>
+&nbsp; f) Meubelmaker;<br>
+&nbsp; g) Meubelstoffeerder;<br>
+&nbsp; h) Plaatser binnenschrijnwerk; (schrapping per 1 september 23)<br>
+&nbsp; i) Plaatser buitenschrijnwerk;<br>
+&nbsp; j) Plaatser interieurelementen; (schrapping per 1 september 23)<br>
+&nbsp; k) Plaatser parket;<br>
+&nbsp; l) Productiemedewerker interieurbouw; (schrapping per 1 september 23)<br>
+&nbsp; m) Restauratievakman meubelen;<br>
+&nbsp; n) Werkplaatsbinnenschrijnwerker hout; (schrapping per 1 september 23)<br>
+&nbsp; o) Werkplaatsbuitenschrijnwerker hout; (schrapping per 1 september 23)<br>
+<br>
+10° Podiumtechniek;<br>
+&nbsp; a) Assistent podiumtechnicus; (schrapping per 1 september 23)<br>
+&nbsp; b) Podiumtechnicus;<br>
+<br>
+11° Productie-industrie;<br>
+&nbsp; a) Assistent productieoperator hout; (schrapping per 1 september 23)<br>
+&nbsp; b) Assistent productieoperator metaal; (schrapping per 1 september 23)<br>
+&nbsp; c) Assistent productieoperator voeding; (schrapping per 1 september 23)<br>
+&nbsp; d) Basisoperator proceschemie;<br>
+&nbsp; e) Kunststofbewerker;<br>
+&nbsp; f) Machineregelaar extrusie;<br>
+&nbsp; g) Machineregelaar spuitgieten;<br>
+&nbsp; h) Machineregelaar thermisch vormen;<br>
+&nbsp; i) Productieoperator hout; (schrapping per 1 september 23)<br>
+&nbsp; j) Productieoperator metaal; (schrapping per 1 september 23)<br>
+&nbsp; k) Productieoperator voeding; (schrapping per 1 september 23)<br>
+<br>
+12° Ruwbouw;<br>
+&nbsp; a) Bekister;<br>
+&nbsp; b) IJzervlechter;<br>
+&nbsp; c) Metselaar; (schrapping per 1 september 23)<br>
+&nbsp; d) Voeger;<br>
+<br>
+13° Slagerij;<br>
+&nbsp; a) Slager; (schrapping per 1 september 23)<br>
+&nbsp; b) Slager/bereider verkoopklare gerechten;<br>
+&nbsp; c) Slager/spekslager;<br>
+<br>
+14° Verhuis;<br>
+&nbsp; a) Verhuizer-drager;<br>
+&nbsp; b) Verhuizer-inpakker;<br>
+<br>
+15° Zeevisserij;<br>
+&nbsp; a) Motorist 221 kW;<br>
+&nbsp; b) Roerganger; (schrapping per 1 september 23)<br>
+&nbsp; c) Schipper beperkt vaargebied;<br>
+<br>
+16° Zorg;<br>
+&nbsp; a) Begeleider in de kinderopvang;<br>
+&nbsp; b) Logistiek assistent in de ziekenhuizen; (schrapping per 1 september 23)<br>
+&nbsp; c) Logistiek helper in de zorginstellingen; (schrapping per 1 september 23)<br>
+&nbsp; d) Thuishelper; (schrapping per 1 september 23)<br>
+&nbsp; e) Verzorgende;<br>
+&nbsp; f) Verzorgende/zorgkundige;<br>
+<br>
+17° Zorg (experiment modulair) ;<br>
+&nbsp; a) Basismedewerker in organisaties; (schrapping per 1 september 23)<br>
+&nbsp; b) Begeleider in de kinderopvang;<br>
+&nbsp; c) Logistiek assistent in ziekenhuizen en zorginstellingen; (schrapping per 1 september 23)<br>
+&nbsp; d) Onderhoudswerker; (schrapping per 1 september 23)<br>
+&nbsp; e) Schoonmaakhulp in de thuiszorg;(schrapping per 1 september 23)<br>
+&nbsp; f) Schoonmaakhulp in instellingen en diensten; (schrapping per 1 september 23)<br>
+&nbsp; g) Thuis- en bejaardenzorg/zorgkundige;<br>
+&nbsp; h) Verzorgende;<br>
+<br>
+18° Andere (uitsluitend via programmatieaanvraag) ;<br>
+&nbsp; a) Animator in de evenementensector;<br>
+&nbsp; b) Bestuurder mobiele kraan;<br>
+&nbsp; c) Florist;<br>
+&nbsp; d) Glaswerker;<br>
+&nbsp; e) Glazenier;<br>
+&nbsp; f) Industrieel maaltijdbereider;<br>
+&nbsp; g) Industrieel vleesbewerker;<br>
+&nbsp; h) Industrieel vleesproductenbereider;<br>
+&nbsp; i) Installateur fotovoltaïsche systemen;<br>
+&nbsp; j) Natuursteenbewerker;<br>
+&nbsp; k) Paardenhouder;<br>
+&nbsp; l) Patronenmaker;<br>
+&nbsp; m) Pijpfitter;<br>
+&nbsp; n) Plaatser natuursteen;<br>
+&nbsp; o) Stellingbouwer;<br>
+&nbsp; p) Technicus elektrische zwembaduitrustingen;<br>
+&nbsp; q) Technicus inbraakbeveiligingssystemen;<br>
+&nbsp; r) Torenkraanbestuurder;<br>
+&nbsp; s) Tuinaanlegger/groenbeheerder;<br>
+&nbsp; t) Werkplaatsschrijnwerker aluminium;<br>
+&nbsp; u) Werkplaatsschrijnwerker kunststoffen.
+
+### BIJLAGE XXII
+
+Bijlage XXII. Model van Dienstverleningsovereenkomst als vermeld in artikel 18ter<br>
+<br>
+DIENSTVERLENINGSOVEREENKOMST TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Opdrachtgever voor een welbepaalde opdracht binnen het centrum [NAAM, INSTELLINGSNUMMER EN ADRES CENTRUM] snel een oplossing zoekt;<br>
+<br>
+De Opdrachtgever daarvoor bijstand nodig heeft van iemand met ervaring en deskundigheid en hij niet beschikt over de mogelijkheid om de opdracht met het eigen personeelsbestand onmiddellijk in te vullen en daarom een beroep wenst te doen op de Opdrachtnemer voor de levering van bepaalde diensten;<br>
+<br>
+De Partijen bereid zijn om voor een concrete opdracht samen te werken;<br>
+<br>
+De Partijen de levering van deze diensten onderworpen hebben aan de bepalingen en voorwaarden zoals opgenomen in deze overeenkomst van dienstverlening (hierna “de Dienstverleningsovereenkomst”), de Deelovereenkomst over de specifieke modaliteiten van de dienstverlening (hierna de “Deelovereenkomst”) en haar eventuele bijlage(n);<br>
+<br>
+De Dienstverleningsovereenkomst, de Deelovereenkomst en haar bijlagen samen de “Overeenkomst” tussen de Partijen vormen<br>
+&nbsp;<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+<br>
+Artikel 1. Voorwerp van de overeenkomst<br>
+<br>
+1.1.&nbsp;&nbsp; &nbsp;De Dienstverleningsovereenkomst heeft als voorwerp het leveren van bepaalde diensten tot uitvoering van een bepaalde opdracht, zoals beschreven in artikel 2, die in de Deelovereenkomst wordt geïndividualiseerd.<br>
+<br>
+Deze Dienstverleningsovereenkomst bevat de algemene voorwaarden waaronder de Opdrachtnemer voor rekening van de Opdrachtgever diensten zal leveren die nodig zijn om de Opdracht uit te voeren.<br>
+<br>
+1.2.&nbsp;&nbsp; &nbsp;De bepalingen van deze Dienstverleningsovereenkomst regelen de rechtsverhouding tussen de Opdrachtgever en de Opdrachtnemer. Bij tegenstrijdigheid of afwijking hebben de bepalingen van de Deelovereenkomst voorrang op die van de Dienstverleningsovereenkomst. Bovendien hebben de bepalingen van een recentere Deelovereenkomst steeds voorrang op die van een vorige Deelovereenkomst.<br>
+<br>
+Artikel 2. De Opdracht<br>
+<br>
+De Opdrachtgever bepaalt de opdracht die aan de Opdrachtnemer wordt toegewezen. Het betreft steeds een wekelijkse lesopdracht in een vak, die de volgende elementen omvat:<br>
+•&nbsp;&nbsp; &nbsp;de planning en voorbereiding van lessen;<br>
+•&nbsp;&nbsp; &nbsp;het lesgeven zelf;<br>
+•&nbsp;&nbsp; &nbsp;de klaseigen leerlingenbegeleiding;<br>
+•&nbsp;&nbsp; &nbsp;de evaluatie van de leerlingen;<br>
+•&nbsp;&nbsp; &nbsp;het overleg en de samenwerking met directie, collega’s, CLB, leersteuncentrum en ouders.<br>
+<br>
+Artikel 3. Uitvoering van de opdracht<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;De Partijen komen overeen en erkennen dat de rechtsverhouding die tussen hen tot stand wordt gebracht, een overeenkomst van dienstverlening is. Elke arbeidsovereenkomst tussen Partijen met toepassing van deze Overeenkomst is definitief uitgesloten. Evenmin kan er gedurende de uitvoering van de Opdracht een arbeidsovereenkomst ontstaan tussen de individuele werknemers van de Opdrachtnemer enerzijds en de Opdrachtgever anderzijds.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer duidt volledig autonoom en volgens eigen inzichten en bevindingen een of meer werknemers aan die hij de Opdracht laat uitoefenen. Die werknemers voldoen in elk geval aan voorwaarden die vermeld zijn in artikel 4.<br>
+<br>
+3.3.&nbsp;&nbsp; &nbsp;De Partijen bepalen in overleg en naargelang van de behoeften van de Opdracht de plaats waar de diensten gebruikelijk worden gepresteerd.<br>
+&nbsp;<br>
+De Opdrachtnemer kan op elk moment een beroep doen op de infrastructuur van de Opdrachtgever, zoals handboeken, lesmateriaal, ICT-voorzieningen en internettoegang. Deze opsomming is niet beperkend.<br>
+<br>
+De Partijen kunnen daarover zo nodig specifieke afspraken maken in de Deelovereenkomst bij deze Dienstverleningsovereenkomst.<br>
+<br>
+3.4.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verbindt zich ertoe om de toevertrouwde Opdracht naar best vermogen uit te (laten) voeren.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe alle tijd die nodig is voor de vervulling van de Opdracht aan de uitvoering ervan te laten besteden. De effectief te presteren dagen per week die nodig zijn voor de correcte uitvoering van de Opdracht worden in de Deelovereenkomst opgenomen.<br>
+<br>
+3.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan aan de Opdrachtnemer richtlijnen geven over de uitvoering van de Opdracht. Die hebben betrekking op de effectieve uitvoering van contractuele afspraken, zonder in te grijpen op de wijze van uitvoering van de Overeenkomst, aangezien de Opdrachtnemer daarover autonoom beslist.<br>
+<br>
+3.6.&nbsp;&nbsp; &nbsp;De Opdrachtgever verbindt zich ertoe dat de werknemers tijdens de uitvoering van de in artikel 2 bedoelde Opdracht recht hebben op aanvangsbegeleiding, coaching en ondersteuning, net zoals dat het geval is voor zijn andere personeelsleden.<br>
+<br>
+Artikel 4. &nbsp;Personeel van de opdrachtnemer<br>
+<br>
+4.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer is verantwoordelijk voor de correcte uitvoering van de in artikel 2 bedoelde Opdracht en de in de Deelovereenkomst opgesomde diensten en activiteiten ter uitvoering ervan. Dat houdt in dat hij volledig instaat voor het inzetten van de noodzakelijke arbeidskrachten, voor wier handelingen hij de volledige verantwoordelijkheid draagt.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe om voor de uitvoering van de Opdracht vakbekwame werknemers in te zetten die voorafgaandelijk aan de Opdrachtgever moeten worden voorgesteld om de vereiste vakbekwaamheid, ervaring en knowhow te kunnen verifiëren. Daarbij zorgt de Opdrachtnemer ervoor dat de door hem aangeduide werknemers in elk geval aan de volgende voorwaarden voldoen om de Opdracht uit te voeren:<br>
+•&nbsp;&nbsp; &nbsp;ze zijn minstens drie jaren in dienst bij de Opdrachtnemer;<br>
+•&nbsp;&nbsp; &nbsp;ze zijn van onberispelijk gedrag, zoals blijkt uit een uittreksel uit het strafregister dat niet langer dan een maand tevoren is afgegeven. Het uittreksel strafregister vermeldt de volgende finaliteit: 596.2 – model bestemd voor contacten met minderjarigen;<br>
+•&nbsp;&nbsp; &nbsp;ze hebben de vereiste kennis van het Nederlands als onderwijstaal. Ze beheersen het Nederlands op het niveau C1 van het Europees Referentiekader voor Talen;<br>
+•&nbsp;&nbsp; &nbsp;ze zijn in het bezit van een diploma dat minstens een voldoende geacht bekwaamheidsbewijs is voor het wervingsambt van het bestuurs- en onderwijzend personeel in het gewoon secundair onderwijs waarvoor de Opdracht wordt afgesloten.<br>
+&nbsp;<br>
+4.2.&nbsp;&nbsp; &nbsp;De werknemers blijven in alle omstandigheden onder de exclusieve leiding en het hiërarchisch gezag van de Opdrachtnemer en alleen de Opdrachtnemer is bevoegd om hun richtlijnen en instructies te geven, tenzij anders is bepaald in de Deelovereenkomst.<br>
+<br>
+4.3.&nbsp;&nbsp; &nbsp;Op geen enkel ogenblik kunnen werknemers van de Opdrachtnemer als werknemer of aangestelde van de Opdrachtgever beschouwd worden. Evenmin kunnen werknemers van de Opdrachtgever als werknemer of aangestelde van de Opdrachtnemer beschouwd worden.<br>
+<br>
+4.4.&nbsp;&nbsp; &nbsp;Geen enkele bepaling van de Overeenkomst kan zo worden uitgelegd dat de Opdrachtnemer werknemers aan de Opdrachtgever op een verboden wijze ter beschikking stelt in de zin van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers. De Opdrachtgever onthoudt er zich van om ook maar enig gedeelte van het gezag over het personeel van de Opdrachtnemer uit te oefenen.<br>
+<br>
+Gelden niet als uitoefening van enig gedeelte van het werkgeversgezag:<br>
+•&nbsp;&nbsp; &nbsp;het naleven door de Opdrachtgever van de verplichtingen die op hem rusten in verband met het welzijn op het werk die gelden voor de plaats waar de opdracht wordt uitgeoefend;<br>
+•&nbsp;&nbsp; &nbsp;de instructies zoals bepaald in de Deelovereenkomst die de Opdrachtgever geeft voor de goede uitvoering van de Opdracht onder de Overeenkomst.<br>
+<br>
+4.5.&nbsp;&nbsp; &nbsp;Als een werknemer van de Opdrachtnemer vroeger werknemer is geweest bij de Opdrachtgever, meldt de Opdrachtnemer dat voordat hij die werknemer inzet voor de uitvoering van de Opdracht.<br>
+<br>
+Artikel 5. &nbsp;Financiële en sociale verplichtingen<br>
+<br>
+5.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer leeft alle wettelijke sociale, fiscale en handelsverplichtingen na die gelden voor de werknemers die hij ter beschikking stelt. De werknemers behouden hun salaris en alle daaraan verbonden financiële voordelen tijdens de terbeschikkingstelling.<br>
+<br>
+5.2.&nbsp;&nbsp; &nbsp;Als tegenprestatie voor de geleverde diensten betaalt de Opdrachtgever aan de Opdrachtnemer een vergoeding voor de prestaties van de werknemers zoals bepaald in de Deelovereenkomst. Die vergoeding bedraagt 68,93 euro per gepresteerd lesuur van de overeengekomen wekelijkse lesopdracht.<br>
+<br>
+De Opdrachtnemer maakt op maandelijkse basis een factuur op. De Opdrachtgever betaalt die factuur uiterlijk de laatste dag van de daaropvolgende maand.<br>
+<br>
+5.3.&nbsp;&nbsp; &nbsp;De modaliteiten over de normale werkings- en verplaatsingskosten eigen aan de uitvoering van de Overeenkomst worden opgenomen in de Deelovereenkomst. Die kosten worden gedragen door de Opdrachtnemer.<br>
+<br>
+Artikel 6. Vertrouwelijkheid<br>
+&nbsp;<br>
+6.1.&nbsp;&nbsp; &nbsp;Zowel tijdens de duur van de Overeenkomst als na afloop ervan verbindt de Opdrachtnemer zich ertoe aan niemand enige informatie te geven van persoonlijke of vertrouwelijke aard over de Opdrachtgever, een leerling of personeel van het centrum van tewerkstelling, ongeacht het belang van die informatie of de omstandigheden waarin de Opdrachtnemer ze heeft verkregen.<br>
+<br>
+Hetzelfde geldt voor alle – zelfs niet vertrouwelijke – interne informatie, uitgezonderd de publieke informatie.<br>
+<br>
+De Opdrachtnemer maakt zich sterk dat ook zijn werknemers die voor de Opdracht worden ingezet, de hierboven vermelde verbintenis nakomen ten aanzien van de Opdrachtgever.<br>
+<br>
+6.2.&nbsp;&nbsp; &nbsp;Iedere inbreuk op deze verplichting tot vertrouwelijkheid tijdens de duur van de Overeenkomst, hoe gering ook, is een reden om de Overeenkomst te beëindigen, conform artikel 11, onverminderd het recht van de Opdrachtgever om schadevergoeding te eisen.<br>
+<br>
+Eveneens geeft iedere schending van deze verplichting tot vertrouwelijkheid aan de Opdrachtgever het recht de betaling van de schadevergoeding voor geleden schade te eisen.<br>
+<br>
+Alle door de Opdrachtnemer verwezenlijkte of hem toevertrouwde documenten met betrekking tot de prestaties omschreven in de Overeenkomst, zijn en blijven exclusieve eigendom van de Opdrachtgever. De Opdrachtnemer mag alleen een kopie van die documenten maken voor de doeleinden die omschreven zijn in de Overeenkomst.<br>
+<br>
+De Opdrachtgever kan op elk ogenblik de teruggave van de documenten en gegevens eisen. De documenten en gegevens worden in ieder geval aan de Opdrachtgever teruggegeven bij het einde van de Overeenkomst, ongeacht de reden van de beëindiging.<br>
+<br>
+Artikel 7. Intellectuele eigendom<br>
+<br>
+7.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verklaart exclusief, automatisch en van rechtswege aan de Opdrachtgever alle wettelijk overdraagbare auteurs- of andere intellectuele rechten op alle geheel of ten dele in het kader van de uitvoering van de Overeenkomst gecreëerde werken en uitgevoerde prestaties aan de Opdrachtgever over te dragen.<br>
+<br>
+De Overeenkomst slaat op alle werken, creaties en prestaties, uitvoeringen en dergelijke meer die door de Opdrachtnemer worden ontworpen of verwezenlijkt of waaraan hij heeft meegewerkt tijdens de duur van de Overeenkomst of in uitvoering ervan, met middelen of vanuit projecten van de Opdrachtgever, ongeacht of die creaties gerealiseerd werden door de Opdrachtnemer alleen of samen met andere personen.<br>
+<br>
+7.2.&nbsp;&nbsp; &nbsp;Al deze werken, creaties en prestaties worden zonder uitzondering onweerlegbaar vermoed te zijn gedaan door de Opdrachtnemer ingevolge de<br>
+&nbsp;<br>
+Opdracht van de Opdrachtgever. De Opdrachtnemer erkent en aanvaardt dat de Opdrachtgever wordt geacht automatisch en van rechtswege verkrijger te zijn van de hierboven gespecificeerde rechten.<br>
+<br>
+7.3.&nbsp;&nbsp; &nbsp;De exclusief overgedragen auteursrechten en andere intellectuele rechten omvatten het recht op reproductie. Dat omvat het recht op aanpassing, vertaling en distributie, het recht op publieke bekendmaking, het recht op ondergeschikt en afgeleid gebruik, zonder enige beperking.<br>
+<br>
+7.4.&nbsp;&nbsp; &nbsp;De hiervoor gedefinieerde overdracht wordt toegestaan aan de Opdrachtgever voor de volledige duur van de literaire en artistieke eigendom en voor elke ondersteuner en exploitatiewijze.<br>
+<br>
+7.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever en Opdrachtnemer kunnen afspraken maken over het gebruik van in 7.2 bekomen werken, creaties of prestaties door de Opdrachtnemer. De Opdrachtnemer verbindt er zich in dat geval uitdrukkelijk toe dat hij deze werken, creaties of prestaties niet zal commercialiseren of verspreiden.<br>
+<br>
+Artikel 8. Aansprakelijkheid<br>
+<br>
+8.1.&nbsp;&nbsp; &nbsp;De Opdrachtnemer verzekert op zijn uitsluitende verantwoordelijkheid de goede uitvoering van de overeengekomen Opdracht.<br>
+Mogelijke fouten of tekortkomingen in de geleverde diensten die de Opdrachtnemer heeft gemaakt in het kader van, of met betrekking tot de uitvoering van de aanvaarde Opdracht kunnen alleen leiden tot aansprakelijkheid als wordt aangetoond dat ze het gevolg zijn van een grove nalatigheid, opzet of gebrek aan de normale deskundigheid die vereist is voor de dienst in kwestie.<br>
+<br>
+8.2.&nbsp;&nbsp; &nbsp;Als de Opdrachtnemer de diensten en activiteiten vermeld in de Deelovereenkomst niet kan uitvoeren door afwezigheid wegens ziekte of ongeval van de werknemer van de Opdrachtnemer, brengt de Opdrachtnemer de Opdrachtgever daarvan zo snel mogelijk op de hoogte.<br>
+<br>
+8.3.&nbsp;&nbsp; &nbsp;Als de Opdrachtnemer de hem toevertrouwde Opdracht niet kan voortzetten, brengt hij onmiddellijk de Opdrachtgever op de hoogte, zodat die laatste de nodige maatregelen kan nemen.<br>
+<br>
+8.4.&nbsp;&nbsp; &nbsp;De Opdrachtnemer kan alleen aansprakelijk worden gesteld voor bedrog of een zware fout gepleegd door hemzelf of door een van zijn werknemers. In dat laatste geval beperkt zijn aansprakelijkheid zich tot de herstelling van voorzienbare, directe, persoonlijke en zekere schade die de Opdrachtgever heeft geleden.<br>
+<br>
+8.5.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan op grond van de Overeenkomst alleen aansprakelijk worden gesteld voor opzet of grove nalatigheid. Die beperking geldt niet voor lichamelijke schade.<br>
+<br>
+De Opdrachtgever zorgt ervoor dat de werknemers van de Opdrachtnemer tijdens de uitvoering van de Opdracht verzekerd zijn via de verzekering burgerlijke aansprakelijkheid en rechtsbijstand die ook voor zijn andere personeelsleden geldt.<br>
+<br>
+Artikel 9. &nbsp;Welzijn op het werk<br>
+<br>
+9.1.&nbsp;&nbsp; &nbsp;Ter uitvoering van artikel 8 tot 10 van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, ziet de Opdrachtgever erop toe dat de werknemers van de Opdrachtnemer op de hoogte worden gesteld van alle bepalingen van de wet van 4 augustus 1996 over het welzijn van de werknemers bij de uitvoering van hun werk (Welzijnswet), haar uitvoeringsbesluiten en de bepalingen van het Algemeen Reglement op de Arbeidsbescherming (ARAB) die van toepassing zijn op de uitoefening van de Opdracht bij de Opdrachtgever.<br>
+<br>
+9.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer zet voor het uitvoeren van de Opdracht alleen werknemers in die goed geïnstrueerd en opgeleid zijn op het vlak van de te nemen preventie- en beschermingsmaatregelen.<br>
+<br>
+9.3.&nbsp;&nbsp; &nbsp;De Opdrachtgever informeert de Opdrachtnemer en zijn werknemers over:<br>
+•&nbsp;&nbsp; &nbsp;de beroepsrisico’s bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de beschermings- en preventiemiddelen bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de organisatie van de eerste hulp bij de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;de brandbestrijding en de evacuatie van personen bij binnenwerken bij de Opdrachtgever.<br>
+<br>
+Hij doet dat zoals bepaald in de Welzijnswet en haar uitvoeringsbesluiten.<br>
+<br>
+9.4.&nbsp;&nbsp; &nbsp;De Opdrachtgever verbindt zich ertoe zijn verplichtingen inzake het welzijn van de werknemers bij de uitvoering van hun werk, die eigen zijn aan de inrichting waarin zijn werknemers werkzaamheden komen uitvoeren, na te leven.<br>
+<br>
+9.5.&nbsp;&nbsp; &nbsp;Als de Opdrachtgever de hiervoor bepaalde verplichtingen niet of gebrekkig naleeft, kan de Opdrachtnemer in alle gevallen zelf de nodige maatregelen treffen, op kosten van de Opdrachtgever.<br>
+<br>
+Artikel 10. Contactpersonen en volmachten<br>
+<br>
+10.1.&nbsp;&nbsp; &nbsp;De Opdrachtgever wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Overeenkomst betreft de volgende persoon aan: [NAAM], [FUNCTIE].<br>
+<br>
+10.2.&nbsp;&nbsp; &nbsp;De Opdrachtnemer wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Overeenkomst betreft de volgende persoon aan: [NAAM], [FUNCTIE].<br>
+<br>
+10.3.&nbsp;&nbsp; &nbsp;De Opdrachtgever geeft volmacht aan de Opdrachtnemer om in zijn naam de handelingen te stellen die zijn opgenomen in de Deelovereenkomst.<br>
+<br>
+Artikel 11. Duurtijd van de Dienstverleningsovereenkomst<br>
+<br>
+11.1.&nbsp;&nbsp; &nbsp;Deze Dienstverleningsovereenkomst is gesloten voor [PERIODE OPNEMEN].<br>
+&nbsp;<br>
+11.2.&nbsp;&nbsp; &nbsp;Elk van de Partijen kan een einde aan de Overeenkomst, vermeld in artikel 12, stellen door middel van een opzegging via een per post aangetekende brief. Daarbij moet een opzeggingstermijn van één maand in acht worden genomen. De aangetekende brief moet op straffe van nietigheid verstuurd worden uiterlijk 7 kalenderdagen voor het verstrijken van de maand. De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de datum van verzending.<br>
+<br>
+Elke Partij heeft bovendien het recht om de Overeenkomst, vermeld in artikel 12, op gelijk welk ogenblik met onmiddellijke ingang te beëindigen, zonder een opzeggingstermijn na te leven. In dat geval moet ze aan de andere Partij een bedrag betalen dat gelijk is aan een maand vergoeding, berekend op basis van de gemiddelde vergoeding die de Opdrachtgever ter uitvoering van deze Overeenkomst voor één maand heeft betaald of betaald zou moeten hebben.<br>
+<br>
+Elke Partij heeft bovendien het recht de Overeenkomst, vermeld in artikel 12, te beëindigen zonder opzegging noch vergoeding, als een ernstige tekortkoming van de andere Partij de verdere professionele samenwerking tussen Partijen definitief onmogelijk maakt en als uitzonderlijke omstandigheden de verdere uitvoering van deze Overeenkomst definitief onmogelijk maken.<br>
+<br>
+Onder meer de volgende feiten worden als een ernstige tekortkoming beschouwd:<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 6 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 9 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een schending van de contractuele verplichtingen, als die niet wordt hersteld binnen tien kalenderdagen na de officiële kennisgeving.<br>
+<br>
+Deze opsomming is niet limitatief.<br>
+<br>
+De beëindiging zonder opzegging noch vergoeding wordt aan de andere Partij betekend via een per post aangetekende brief binnen tien kalenderdagen te rekenen vanaf de dag waarop de Partij die de beëindiging inroept, kennis heeft van de feiten die aan de grondslag liggen van de beëindiging.<br>
+<br>
+11.3.&nbsp;&nbsp; &nbsp;De Overeenkomst, vermeld in artikel 12, wordt van rechtswege en zonder ingebrekestelling, zonder enige vergoeding, als beëindigd beschouwd als een van de Partijen haar activiteiten stopzet, na liquidatie of faillissement.<br>
+<br>
+Artikel 12. Overeenkomst<br>
+<br>
+De volledige Overeenkomst tussen Partijen bestaat slechts uit deze Dienstverleningsovereenkomst, aangevuld door de Deelovereenkomst(en) en eventueel andere bijlagen. De andere algemene voorwaarden van de Partijen zijn niet van toepassing.<br>
+<br>
+Artikel 13. Bevoegdheid en toepasselijk recht<br>
+<br>
+13.1.&nbsp;&nbsp; &nbsp;De Overeenkomst wordt beheerst door het Belgisch recht.<br>
+&nbsp;<br>
+13.2.&nbsp;&nbsp; &nbsp;Partijen komen overeen dat eventuele vorderingen en geschillen over het bestaan, de interpretatie of de uitvoering van de Overeenkomst en de bijlagen zullen worden voorgelegd aan de bevoegde rechtbank.<br>
+<br>
+Gedaan te [PLAATS] op [DATUM] in zoveel exemplaren als er Partijen zijn<br>
+De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De Opdrachtgever<br>
+[NAAM EN RECHTSVORM]&nbsp;&nbsp; &nbsp;[NAAM EN RECHTSVORM]<br>
+&nbsp;<br>
+<br>
+<br>
+DEELOVEREENKOMST BIJ DE DIENSTVERLENINGSOVEREENKOMST VAN [DD/MM/YYYY]<br>
+TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen.<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Partijen een Dienstverleningsovereenkomst hebben gesloten;<br>
+<br>
+De Partijen zijn overeengekomen de gedetailleerde omschrijving van de Opdracht en de specifieke modaliteiten van de dienstverlening vast te leggen in een afzonderlijke Deelovereenkomst.<br>
+<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+<br>
+Artikel 1. Opdracht<br>
+<br>
+De Opdrachtnemer verleent de diensten / voert de activiteiten uit (hierna de “Diensten”/de “Activiteiten”) die vereist zijn om een wekelijkse lesopdracht van XX/YY [uren/prestatienoemer] in het vak XXXXX uit te oefenen, die de taken omvat die vermeld zijn in artikel 2 van de Dienstverleningsovereenkomst.<br>
+<br>
+Artikel 2. Contactpersoon en vertegenwoordiger<br>
+<br>
+De Opdrachtgever wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Opdracht betreft de volgende persoon aan: [NAAM en FUNCTIE ].<br>
+<br>
+De Opdrachtnemer wijst als zijn contactpersoon en vertegenwoordiger voor wat de uitvoering van de Opdracht betreft de volgende persoon aan: [NAAM en FUNCTIE].<br>
+<br>
+Die contactpersonen zijn verantwoordelijk voor de opvolging en de coördinatie van de Opdracht zoals geregeld door deze Deelovereenkomst.<br>
+&nbsp;<br>
+De communicatie tussen de Opdrachtgever en de Opdrachtnemer over de uitvoering van de Overeenkomst wordt in principe uitsluitend tussen de contactpersonen gevoerd, zonder afbreuk te doen aan het recht van de Opdrachtgever om richtlijnen en instructies aan het personeel van de Opdrachtnemer te geven zoals omschreven in de bijlage bij de Deelovereenkomst. Daarover zal echter voorafgaandelijk overleg worden gevoerd tussen de contactpersonen.<br>
+<br>
+Artikel 3. Duurtijd van de Opdracht<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;De Deelovereenkomst wordt van kracht op [DATUM] en wordt gesloten voor een periode van [AANVULLEN] OF loopt af op [DATUM].<br>
+<br>
+De Partijen bepalen één maand voor de vervaldag in gemeenschappelijk overleg of hun samenwerking wordt verlengd. Bij verlenging wordt een nieuwe Deelovereenkomst opgemaakt. Als er geen akkoord is op dat vlak, eindigt de Deelovereenkomst op de overeengekomen vervaldag.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;Elk van de Partijen kan een einde aan de Deelovereenkomst stellen door middel van een opzegging via een per post aangetekende brief. Daarbij wordt een opzeggingstermijn van één maand in acht genomen. De aangetekende brief wordt op straffe van nietigheid verstuurd uiterlijk zeven kalenderdagen voor het verstrijken van de maand. De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de datum van verzending.<br>
+<br>
+Als de opdracht een vacature betreft van een afwezige titularis en deze titularis komt terug vroegtijdig uit zijn afwezigheid, gaan de Partijen in overleg over de verdere uitvoering van de Deelovereenkomst. Als de Partijen besluiten de Deelovereenkomst omwille van de terugkomst van de titularis vroegtijdig te beëindigen, bepalen ze in overleg of er een opzeggingstermijn en vergoeding zal worden gehanteerd.<br>
+<br>
+Elke Partij heeft bovendien het recht om de Deelovereenkomst, op gelijk welk ogenblik met onmiddellijke ingang te beëindigen, zonder een opzeggingstermijn na te leven. In dat geval betaalt ze aan de andere Partij een bedrag dat gelijk is aan een maand vergoeding, die wordt berekend op basis van de gemiddelde vergoeding die de Opdrachtgever ter uitvoering van deze Overeenkomst voor één maand heeft betaald of zou hebben moeten betalen.<br>
+<br>
+Elke Partij heeft bovendien het recht de Deelovereenkomst te beëindigen zonder opzegging noch vergoeding, als een ernstige tekortkoming van de andere Partij de verdere professionele samenwerking tussen Partijen definitief onmogelijk maakt en als uitzonderlijke omstandigheden de verdere uitvoering van de Overeenkomst definitief onmogelijk maken.<br>
+<br>
+Onder meer de volgende feiten worden als een ernstige tekortkoming beschouwd:<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 6 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een inbreuk op het artikel 9 van de Dienstverleningsovereenkomst;<br>
+•&nbsp;&nbsp; &nbsp;een schending van de contractuele verplichtingen, als die niet wordt hersteld binnen tien kalenderdagen na officiële kennisgeving.<br>
+&nbsp;<br>
+Die opsomming is niet limitatief.<br>
+<br>
+De beëindiging zonder opzegging noch vergoeding wordt aan de andere Partij betekend via een per post aangetekende brief binnen tien kalenderdagen te rekenen vanaf de dag waarop de Partij die de beëindiging inroept, kennis heeft van de feiten die aan de grondslag liggen van de beëindiging.<br>
+<br>
+Artikel 4. Prestatie-uren<br>
+<br>
+De Opdrachtnemer is beschikbaar voor de uitvoering van de Diensten en Activiteiten die nodig zijn voor de Opdracht gedurende de tijd nodig om te voldoen aan de verplichtingen die voor hem uit de Overeenkomst voortvloeien. Partijen komen overeen dat de prestaties die de Opdrachtnemer voor de Opdrachtgever zal leveren, ongeveer [AANTAL] uren per week zullen belopen.<br>
+<br>
+De prestaties vinden plaats op [DAG van de week].<br>
+<br>
+Artikel 5. Plaats van uitvoering<br>
+<br>
+Partijen bepalen in overleg en naargelang van de behoeften van de Opdracht de plaats waar de Diensten gebruikelijk worden gepresteerd. Bij deze Opdracht zullen de werkzaamheden worden uitgevoerd te [NAAM, INSTELLINGSNUMMER en ADRES CENTRUM].<br>
+<br>
+De Opdrachtnemer kan gebruik maken van de infrastructuur en documentatie van de Opdrachtgever om de Diensten te leveren en de Activiteiten te organiseren.<br>
+<br>
+De Opdrachtnemer heeft recht op aanvangsbegeleiding, coaching en ondersteuning door de Opdrachtgever tijdens de uitvoering van de Opdracht.<br>
+<br>
+De Opdrachtnemer verbindt zich ertoe om alle instructies over veiligheid en gezondheid die gelden binnen de gebouwen waar personeel van de Opdrachtgever werkzaam is, na te leven. Als de Opdrachtnemer die verplichtingen niet of gebrekkig naleeft, kan de Opdrachtgever zelf alle nodige maatregelen treffen in naam van de Opdrachtnemer en op zijn kosten.<br>
+<br>
+Artikel 6. Tarief en facturatie<br>
+<br>
+6.1.&nbsp;&nbsp; &nbsp;De forfaitaire prestatievergoeding bedraagt 68,93 euro per lesuur van de overeengekomen wekelijkse lesopdracht.<br>
+<br>
+6.2.&nbsp;&nbsp; &nbsp;Elke factuur van de Opdrachtnemer wordt opgesteld conform de gemaakte afspraken in artikel 5 van de Dienstverleningsovereenkomst.<br>
+<br>
+Alle toevoegingen of aanpassingen aan deze Deelovereenkomst zijn alleen geldig als ze schriftelijk zijn overeengekomen en rechtsgeldig ondertekend door beide Partijen.<br>
+<br>
+Gedaan te [PLAATS] op [dd/mm/yyyy] in zoveel exemplaren als er Partijen zijn.<br>
+&nbsp;De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De Opdrachtgever<br>
+Voor &nbsp;[naam en rechtsvorm]&nbsp;&nbsp; &nbsp;Voor [naam en rechtsvorm]<br>
+<br>
+<br>
+&nbsp;<br>
+BIJLAGE AAN DE DEELOVEREENKOMST VAN [DD/MM/YYYY] TUSSEN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE],<br>
+hierna “de Opdrachtgever” te noemen, enerzijds;<br>
+EN<br>
+De [NAAM EN RECHTSVORM], met maatschappelijke zetel te [PLAATS], ondernemingsnummer [NUMMER], ingeschreven in het rechtspersonenregister te [PLAATS],<br>
+rechtsgeldig vertegenwoordigd door [NAAM] in de hoedanigheid van [FUNCTIE], hierna “de Opdrachtnemer” te noemen, anderzijds;<br>
+<br>
+Hierna eveneens apart, “de Partij” en gezamenlijk, “de Partijen” te noemen.<br>
+<br>
+OVERWEGENDE DAT<br>
+<br>
+De Partijen een Dienstverleningsovereenkomst hebben gesloten;<br>
+<br>
+De Partijen de gedetailleerde omschrijving van de opdracht en de specifieke modaliteiten van de dienstverlening hebben vastgelegd in een afzonderlijke Deelovereenkomst;<br>
+<br>
+Artikel 31, §1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers verbiedt in dienst genomen werknemers ter beschikking te stellen van derden die deze werknemers gebruiken en over hen enig gedeelte van het gezag uitoefenen dat normaal aan de werkgever toekomt;<br>
+<br>
+Artikel 31, §1, alinea 3, van deze wet bepaalt dat de instructies die de derde geeft aan de werknemers van de werkgever ter uitvoering van een geschreven overeenkomst tussen de derde en de werkgever, niet gelden als de uitoefening van enig gedeelte van het werkgeversgezag door de derde, op voorwaarde dat:<br>
+•&nbsp;&nbsp; &nbsp;in deze geschreven overeenkomst uitdrukkelijk en gedetailleerd is bepaald welke instructies precies door de derde kunnen worden gegeven aan de werknemers van de werkgever;<br>
+•&nbsp;&nbsp; &nbsp;dit instructierecht van de derde het werkgeversgezag van de werkgever op geen enkele wijze uitholt;<br>
+•&nbsp;&nbsp; &nbsp;de feitelijke uitvoering van deze overeenkomst tussen de derde en de werkgever volledig overeenstemt met de uitdrukkelijke bepalingen van de voormelde geschreven overeenkomst;<br>
+<br>
+De Partijen in deze Bijlage de instructies wensen op te lijsten die door de Opdrachtgever kunnen worden gegeven aan de werknemers van de Opdrachtnemer<br>
+&nbsp;<br>
+WORDT OVEREENGEKOMEN WAT VOLGT<br>
+<br>
+Artikel 1. Toegelaten instructies<br>
+<br>
+1.1.&nbsp;&nbsp; &nbsp;De Opdrachtgever kan aan de werknemers van de Opdrachtnemer in het kader van de uitvoering van de Overeenkomst onder meer instructies geven over: [AAN TE PASSEN IFV DE CONCRETE LESOPDRACHT]:<br>
+•&nbsp;&nbsp; &nbsp;de naleving van de planning van de uit te voeren opdracht;<br>
+•&nbsp;&nbsp; &nbsp;het regelen van de toegang tot de locaties en/of de faciliteiten van de Opdrachtgever die noodzakelijk zijn voor het vervullen van de Opdracht (bijvoorbeeld badges, registratiesysteem);<br>
+•&nbsp;&nbsp; &nbsp;het respecteren van de omstandigheden, de procedures en de handelswijzen van de Opdrachtgever waarmee rekening moet gehouden worden voor het vervullen van de Opdracht (bijvoorbeeld bestaande veiligheidsvoorschriften, procedures in functie van het welzijn op het werk, vertrouwelijkheidsvereisten, principes van het pedagogisch project, afspraken betreffende deelname aan overleg en vergaderingen, ...);<br>
+•&nbsp;&nbsp; &nbsp;tussentijdse wijzigingen waarmee rekening gehouden moet worden bij de uitvoering van de opdracht (bijvoorbeeld aanpassing van planning, aanpassing uitvoeringsmodaliteiten).<br>
+<br>
+1.2.&nbsp;&nbsp; &nbsp;De Partijen komen overeen dat de bovenstaande instructies geenszins het werkgeversgezag van de Opdrachtnemer uithollen.<br>
+<br>
+Artikel 2. Verboden instructies<br>
+<br>
+De volgende elementen komen in elk geval toe aan de Opdrachtnemer als werkgever ten aanzien van zijn werknemers die verbonden zijn door een arbeidsovereenkomst, en kunnen in geen geval deel uitmaken van het instructierecht van de Opdrachtgever, vermeld in artikel 1:<br>
+•&nbsp;&nbsp; &nbsp;aanwervingsbeleid (processen, interviews, selectie- en aanwervingscriteria);<br>
+•&nbsp;&nbsp; &nbsp;beleid met betrekking tot loons- en arbeidsvoorwaarden;<br>
+•&nbsp;&nbsp; &nbsp;beleid inzake training, vorming en opleiding, uitgezonderd het beleid dat noodzakelijk is voor het vervullen van de opdracht en dat specifiek is aan de Opdrachtgever;<br>
+•&nbsp;&nbsp; &nbsp;controle van de arbeidstijd en het bepalen van eventuele overuren, rustpauzes of inhaalrustdagen;<br>
+•&nbsp;&nbsp; &nbsp;toelating en rechtvaardiging van afwezigheden (ziekte, klein verlet,<br>
+vakantie …);<br>
+•&nbsp;&nbsp; &nbsp;beleid inzake disciplinaire sancties en ontslag;<br>
+•&nbsp;&nbsp; &nbsp;evaluatie- en functioneringsgesprekken;<br>
+•&nbsp;&nbsp; &nbsp;functiebepalingen.<br>
+<br>
+Artikel 3. Kennisgeving aan de ondernemingsraad van de Opdrachtgever<br>
+<br>
+3.1.&nbsp;&nbsp; &nbsp;Met toepassing van artikel 31, §1, laatste alinea, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers brengt de Opdrachtgever onverwijld zijn ondernemingsraad op de hoogte van het bestaan van de Overeenkomst.<br>
+<br>
+3.2.&nbsp;&nbsp; &nbsp;De Opdrachtgever bezorgt aan de leden van zijn ondernemingsraad die daarom verzoeken een afschrift van deze Bijlage waarin de instructies zijn bepaald die door de Opdrachtgever aan de werknemers van de Opdrachtnemer kunnen worden gegeven.<br>
+<br>
+Gedaan te [PLAATS] op [dd/mm/yyyy] in zoveel exemplaren als er Partijen zijn.<br>
+De Opdrachtnemer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De Opdrachtgever<br>
+Voor [naam en rechtsvorm]&nbsp;&nbsp; &nbsp;Voor [naam en rechtsvorm]<br>
+&nbsp;
