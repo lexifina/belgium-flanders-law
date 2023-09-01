@@ -2,16 +2,16 @@
   "codex_id": 1036537,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, tot wijziging van de regelgeving over het Vlaamse integratie- en inburgeringsbeleid en tot bepaling van de inwerkingtreding van artikel 3 van het decreet van 22 december 2017 houdende bepalingen tot begeleiding van de begroting 2018",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036537/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "d2738e60ca6d3690c61a05808dada9e9066777890b7b0fc99dd52baeff14478e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036537/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "5855aadc33977da307514e61882547c534fec7edfe3e94490416a138f3816868",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036537&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-09-01",
   "made": "2021-12-17",
   "gazette": "2022-02-28",
   "numac": 2022030677,
   "document_start": "2022-03-01",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 67,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 68,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
