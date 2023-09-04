@@ -55,6 +55,7 @@ a) 97 euro per groenestroomcertificaat voor de berekening van de bandingfactor v
 b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor voor de toekenning van warmte-krachtcertificaten;<br>
 13° /2 bandingfactor : onrendabele top gedeeld door de bandingdeler;<br>
 13° /3 beheerder van een gesloten distributienet: iedere natuurlijke persoon of rechtspersoon die exploitant is van een gesloten distributienet;<br>
+13°/4 beheerder van het vervoersnet: de instantie die overeenkomstig de federale Gaswet als beheerder van het vervoersnet is aangewezen;<br>
 14° beschermd volume : het beschermde volume van het gebouw zoals dat gedefinieerd is in de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 15° ...<br>
 16° bevrachter : rechtspersoon die een contract heeft afgesloten met een vervoeronderneming met betrekking tot het vervoer van aardgas tussen een of meer injectiepunten en afnamepunten op het vervoernet;<br>
@@ -133,6 +134,7 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 50° /1 extern signaal: een dynamisch signaal, waaronder een activatiesignaal en een desactivatiesignaal, of een financiële prikkel, zoals een dynamisch prijssignaal, met als doel flexibiliteit in het elektriciteitssysteem te veroorzaken;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
+51°/0 federale Gaswet: de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen;<br>
 51° /1 flexibiliteit: de wijziging van het profiel van productie, injectie, verbruik of afname van elektriciteit door afnemers, producenten of natuurlijke personen of rechtspersonen die elektriciteitsopslagfaciliteiten exploiteren, ten opzichte van hun normale of bestaande verbruiks- of productiepatronen in reactie op een extern signaal of lokaal gemeten netgerelateerde grootheid, zoals de frequentie of de spanning, of in reactie op de aanvaarding van het bod van de eindafnemer of producent, individueel of via aggregatie, enerzijds om vraag- of productievermindering of vraag- of productieverhoging voor een bepaalde prijs te verkopen op een elektriciteitsmarkt, de markt voor lokale congestie of op de georganiseerde markt, vermeld in artikel 2.4 van uitvoeringsverordening (EU) nr. 1348/2014 van de Commissie van 17 december 2014 inzake de informatieverstrekking overeenkomstig artikel 8, leden 2 en 6, van verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad betreffende de integriteit en transparantie van de groothandelsmarkt voor energie, of anderzijds om een dienst in het energiesysteem te verlenen;<br>
 51° /2 flexibiliteitsactivatieregister: een register met alle toegangspunten of allocatiepunten die deelnemen aan flexibiliteit waarin voor ieder toegangspunt of allocatiepunt de relevante parameters van de activatie van flexibiliteit worden vermeld;<br>
 52° flexibiliteitstoegangsregister: een register met alle toegangspunten of allocatiepunten van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit die deelnemen aan flexibiliteit, waarin voor ieder toegangspunt of allocatiepunt van het net in kwestie de deelnemer aan flexibiliteit wordt vermeld en op welke dienstverleners van flexibiliteit die deelnemer een beroep doet;<br>
@@ -330,6 +332,7 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, beheerder van het transmissienet of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br>
 124° toegangsregister voor het warmte- of koudenet: register met alle toegangspunten voor thermische energie van een bepaald warmte- of koudenet, dat opgesteld en beheerd wordt door de betrokken warmte- of koudenetbeheerder, waarin onder meer voor ieder toegangspunt voor thermische energie de titularis van het toegangspunt voor thermische energie en de toegangshouder voor thermische energie worden vermeld;<br>
 125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de federale Elektriciteitswet;<br>
+125°/1 transmissienetbeheerder: de instantie die overeenkomstig de federale Elektriciteitswet als beheerder van het transmissienet is aangewezen;<br>
 126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br>
 126°/0 tussenpersoon bij de levering van thermische energie: elke natuurlijke persoon of rechtspersoon die thermische energie koopt met het oog op de doorverkoop aan een eindgebruiker van thermische energie;<br>
 126/1° uitbating volgens de regels van de kunst : een uitbating overeenkomstig het « goede-huisvader »-beginsel en waarbij bovendien het potentieel aan energie-opwekking of energie-besparing ten aanzien van het vermogen van de installatie niet significant wordt onderbenut voor langdurige periodes door de expliciete of impliciete wil van de exploitant en/of eigenaar, en waarbij louter contractuele en/of commerciële overwegingen niet kunnen gelden als verschoning voor een langdurige onderbenutting van het potentieel van deze installatie. Kortdurende onderbenutting met het oog op een betere afstemming van elektriciteitsproductie en marktvraag of met het oog op een ondersteuning van het netbeheer beantwoordt wel aan het « goede-huisvader »-beginsel;<br>
@@ -339,8 +342,8 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 126° /4 verordening 2016/1388/EU: verordening 2016/1388/EU van de Commissie van 17 augustus 2016 tot vaststelling van een netcode voor aansluiting van verbruikers;<br>
 126° /5 verordening (EU) 2019/943: verordening (EU) 2019/943 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de interne markt voor elektriciteit;<br>
 127° verslaggever: de natuurlijke persoon of de rechtspersoon die in het kader van de energieprestatieregelgeving energieadvies aan de aangifteplichtige verstrekt en die instaat voor de decretaal verplichte rapporteringen, vermeld in titel XI, hoofdstuk I;<br>
-128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
-129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
+128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de federale Gaswet;<br>
+129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de federale Gaswet;<br>
 130° ...;<br>
 131° Vlaamse Belastingdienst: het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst;<br>
 131°/1 vloeibare biomassa : vloeibare brandstof voor energiedoeleinden andere dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;<br>
@@ -954,9 +957,7 @@ De maximale tijdsperiode waarbinnen de distributienetbeheerder, zijn werkmaatsch
 
 Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten inzake het aanbieden van commerciële energiediensten of het optreden als aggregator, deelnemer aan flexibiliteit of dienstverlener van flexibiliteit.<br>
 <br>
-Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij diensten aanbieden aan aandeelhouders/vennoten of op grond van een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten worden opgelegd, of die voortvloeien uit de gunning van overheidsopdrachten, uitgeschreven door een andere aanbestedende overheid dan de overheden die aandeelhouder/vennoot zijn en voor zover die gunning betrekking heeft op energiediensten die rechtstreeks ten gunste komen van die aandeelhouders/vennoten.<br>
-<br>
-Met het oog op het aanbieden van energiediensten, vermeld in het tweede lid, kan de netbeheerder en zijn werkmaatschappij samenwerken met het extern verzelfstandigd agentschap NV Vlaams Energiebedrijf voor wat betreft het gezamenlijk ontwikkelen van energieboekhoudingssoftware en het gezamenlijk ontwikkelen van besparingsmaatregelen als onderdeel van energiezorgsystemen. De Vlaamse Regering kan nadere regels bepalen met betrekking tot het gezamenlijk ontwikkelen van energieboekhoudingssoftware. De Vlaamse Regering bepaalt de voorwaarden waaraan die samenwerking op het vlak van het gezamenlijk ontwikkelen van besparingsmaatregelen als onderdeel van energiezorgsystemen moet voldoen.
+Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij tot uiterlijk 31 december 2024 diensten aanbieden aan aandeelhouders/vennoten of op grond van een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten worden opgelegd, of die voortvloeien uit de gunning van overheidsopdrachten, uitgeschreven door een andere aanbestedende overheid dan de overheden die aandeelhouder/vennoot zijn en voor zover die gunning betrekking heeft op energiediensten die rechtstreeks ten gunste komen van die aandeelhouders/vennoten.&nbsp;De netbeheerder of zijn werkmaatschappij kan de uitvoering van de voormelde diensten die uiterlijk op 31 december 2024 al zijn opgestart, voortzetten tot uiterlijk 31 december 2027.
 
 ### ART 4.1.8/1/1.
 
@@ -1040,7 +1041,25 @@ De netbeheerder en zijn werkmaatschappij kunnen de gegevens verkregen bij de uit
 
 ## [Onderafdeling IV. Andere activiteiten van de netbeheerders (ing. decr. 2 april 2021, art. 20, I: 7 juni 2021)]
 
+### ART 4.1.8/6.
+
+Distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij verrichten de activiteiten, vermeld in dit decreet en de bijbehorende uitvoeringsbesluiten en vermeld in verordening (EU) 2019/943.<br>
+<br>
+De distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen andere activiteiten dan die, vermeld in het eerste lid, verrichten, als die activiteiten nodig zijn om aan hun voormelde verplichtingen en hun verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld. Met behoud van de toepassing van artikel 4.1.8/5 kan die beoordeling van de noodzaak geen betrekking hebben op het bezitten, ontwikkelen, beheren of exploiteren van netwerken die geen elektriciteitsdistributienetten of aardgasdistributienetten zijn.<br>
+<br>
+De Vlaamse Regering bepaalt op basis van de beoordeling door de VREG, vermeld in het tweede lid, welke activiteiten als vermeld in het tweede lid de distributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen uitvoeren.
+
 ## [Onderafdeling V. Andere activiteiten van de transmissienetbeheerder en van de beheerder van het vervoersnet (ing. decr. 14 juli 2023, art. 5, I: 4 september 2023)]
+
+### ART 4.1.8/7.
+
+De transmissienetbeheerder en de beheerder van het vervoersnet verrichten de activiteiten die behoren tot de gewestelijke bevoegdheden, vermeld in dit decreet en de bijbehorende uitvoeringsbesluiten.<br>
+<br>
+De transmissienetbeheerder kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die nodig zijn om aan zijn voormelde verplichtingen en zijn verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
+&nbsp;<br>
+De beheerder van het vervoersnet kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die activiteiten nodig zijn om aan zijn voormelde verplichtingen te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
+<br>
+De Vlaamse Regering bepaalt op basis van de beoordeling door de VREG, vermeld in het tweede en derde lid, welke activiteiten als vermeld in het tweede en derde lid de transmissienetbeheerder en de beheerder van het vervoersnet kunnen uitvoeren.
 
 ## Afdeling IV. Vertrouwelijkheid en non-discriminatieverplichtingen, opgelegd aan de netbeheerder en diens werkmaatschappij
 
@@ -3106,7 +3125,7 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 
 ### ART. 7.5.1.
 
-De Vlaamse Regering kan, na advies van de VREG, de leveranciers en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
+De Vlaamse Regering kan, na advies van de VREG, de leveranciers, de transmissienetbeheerder, de beheerder van het vervoersnet en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
 <br>
 In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.
 
@@ -4939,7 +4958,7 @@ Voor wat betreft de productie-installaties waarvoor reeds groenestroomcertificat
 
 ### ART. 15.3.4.
 
-...
+Met behoud van de toepassing van artikel 4.1.8/1, tweede lid, en bij gebrek aan een beslissing van de Vlaamse Regering als vermeld in artikel 4.1.8/6, derde lid, kunnen de distributienetbeheerders en hun werkmaatschappij in afwijking van artikel 4.1.8/6, tweede en derde lid, nog andere activiteiten dan die, vermeld in artikel 4.1.8/6, eerste lid, verrichten tot en met 31 december 2024, op voorwaarde dat die activiteiten op het moment van de inwerkingtreding van deze bepaling al effectief worden uitgevoerd.
 
 ### ART. 15.3.5.
 
