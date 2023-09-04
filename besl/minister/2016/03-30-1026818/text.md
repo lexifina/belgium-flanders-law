@@ -62,7 +62,7 @@ Ter uitvoering van artikel 9, derde lid, van het besluit van 26 februari 2016 wo
 
 ### ART 4/3.
 
-Ter uitvoering van artikel 9, derde lid, en artikel 12/1, van het besluit van 26 februari 2016 wordt het toepassingsgebied van het thema beroepsspecifieke competenties beperkt tot de ondernemerschapsbevorderende diensten, vermeld in bijlage 2 die bij dit besluit is gevoegd.
+Ter uitvoering van artikel 9, derde lid, en artikel 12/1, van het besluit van 26 februari 2016 wordt het toepassingsgebied van het thema beroepsspecifieke competenties beperkt tot de ondernemerschapsbevorderende diensten die zijn opgenomen in de lijst, vermeld in artikel 7/1, eerste lid, van dit besluit.
 
 ## HOOFDSTUK 3 Registratie van de dienstverleners
 
@@ -82,23 +82,23 @@ Als   een dienstverlener de registratie wil stopzetten voor het einde van de   g
 
 ### ART 7/1.
 
+Het Agentschap Innoveren en Ondernemen beheert de lijst met ondernemerschapsbevorderende diensten gericht op de beroepsspecifieke competenties, vermeld in artikel 12/1 van het besluit van 26 februari 2016, en maakt deze bekend op zijn website.<br>
+<br>
 De geregistreerde dienstverlener meldt de dienst, die voldoet aan de voorwaarden vermeld in artikel 12/1 van het besluit van 26 februari 2016, aan ter registratie op de lijst met ondernemerschapsbevorderende diensten gericht op de beroepsspecifieke competenties.<br>
 <br>
-De dienst, vermeld in het eerste lid, wordt aangemeld via de procedure toegelicht op de website van het Agentschap Innoveren en Ondernemen. De geregistreerde dienstverlener vermeldt daarbij de gevraagde gegevens over haar onderneming en de dienst die ter registratie wordt aangeboden.
+De dienst, vermeld in het tweede lid, wordt aangemeld via de procedure toegelicht op de website van het Agentschap Innoveren en Ondernemen. De geregistreerde dienstverlener vermeldt daarbij de gevraagde gegevens over haar onderneming en de dienst die ter registratie wordt aangeboden.
 
 ### ART 7/2.
 
-Na de correcte en volledige aanmelding ter registratie van de dienst controleert het Agentschap Innoveren en Ondernemen of de dienst voldoet aan de voorwaarden vermeld in het decreet van 16 maart 2012, het besluit van 26 februari 2016 en de uitvoeringsbesluiten. Het Agentschap Innoveren en Ondernemen bezorgt hierover haar advies aan de minister.<br>
+Na de correcte en volledige aanmelding ter registratie van de dienst controleert het Agentschap Innoveren en Ondernemen of de dienst voldoet aan de voorwaarden vermeld in het decreet van 16 maart 2012, het besluit van 26 februari 2016 en de uitvoeringsbesluiten. Het Agentschap Innoveren en Ondernemen beslist over de registratie van de dienst op de lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties.<br>
 <br>
-Ter uitvoering van artikel 26/1, 4° van het besluit van 26 februari 2016 kan de minister tevens het advies verzoeken van de kwaliteitskamer over de ter registratie aangemelde dienst.<br>
+Conform artikel 26/1, 1°, van het besluit van 26 februari 2016 kan het Agentschap Innoveren en Ondernemen advies vragen aan de kwaliteitskamer over de dienst die voor registratie is aangemeld.<br>
 <br>
-Ter uitvoering van artikel 12/1 van het besluit van 26 februari 2016 beslist de minister over de registratie van de dienst op de lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties.<br>
-<br>
-Het Agentschap Innoveren en Ondernemen deelt de beslissing, vermeld in het derde lid, mee aan de geregistreerde dienstverlener.
+Het Agentschap Innoveren en Ondernemen deelt de beslissing, vermeld in het eerste lid, mee aan de geregistreerde dienstverlener.
 
 ### ART 7/3.
 
-Als de geregistreerde dienstverlener de beslissing van de minister, vermeld in artikel 7/2, tweede lid, betwist, kan hij op gemotiveerde wijze beroep instellen bij het Agentschap Innoveren en Ondernemen.<br>
+Als de geregistreerde dienstverlener de beslissing, vermeld in artikel 7/2, eerste lid, betwist, stelt hij op gemotiveerde wijze beroep in bij het Agentschap Innoveren en Ondernemen.<br>
 <br>
 De minister beslist over het beroep en kan hiervoor het advies van het Agentschap Innoveren en Ondernemen en de kwaliteitskamer, als vermeld in artikel 26/1 van het besluit van 26 februari 2016, inwinnen.<br>
 <br>
@@ -309,6 +309,8 @@ De   annulatie of stopzetting van de subsidieaanvraag is   onherroepelijk.
 2° de subsidieaanvraag te annuleren en stop te zetten;<br>
 3° een dienstverlener te registreren;<br>
 4° een registratie aan een dienstverlener te weigeren;<br>
+4°/1 een ondernemerschapsbevorderende dienst die gericht is op de beroepsspecifieke competenties, te registreren;<br>
+4°/2 de registratie van een ondernemerschapsbevorderende dienst die gericht is op de beroepsspecifieke competenties, te weigeren;<br>
 5° een dienstverlener te schorsen of uit te sluiten en de modaliteiten van de schorsing en de uitsluiting vast te stellen;<br>
 6° de betaling van subsidieaanvragen te blokkeren;<br>
 7° de subsidie terug te vorderen.</p>
@@ -351,4 +353,4 @@ Dit   besluit treedt in werking op 1 april 2016.
 
 ### BIJLAGE 2
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/09/08_1.pdf#page=650">De lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties, vermeld in artikel 4/3.</a>
+...
