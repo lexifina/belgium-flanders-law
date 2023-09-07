@@ -31,7 +31,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 Conform artikel 12.6.1, § 1 van het Energiedecreet van 8 mei 2009 en artikel 5.75/1, § 1 van de Vlaamse Codex Wonen van 2021 wordt een uniek loket opgericht om de aanvraag, de behandeling, de verwerking en de uitbetaling te faciliteren van de volgende premies of tegemoetkomingen:<br>
 1° de tegemoetkoming, vermeld in Boek 5, Deel 5, Titel 3, hoofdstuk 1 van het besluit Vlaamse Codex Wonen van 2021;<br>
-2° de premies, vermeld in artikel 6.4.1/1, 6.4.1/1/1, 6.4.1/5 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010.
+2° de premies, vermeld in artikel 6.4.1/6, §1, van het Energiebesluit van 19 november 2010.
 
 ### ART 2.
 
