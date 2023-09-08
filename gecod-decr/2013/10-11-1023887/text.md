@@ -9721,6 +9721,23 @@ Deze bedragen gelden als basis voor de berekeningen, vermeld in paragraaf 1.<br>
 <br>
 § 3. De opgenomen studiepunten, vermeld in dit artikel, zijn de studiepunten, berekend overeenkomstig artikel III.7 van deze codex, met behoud van artikel III.30, § 1.</p>
 
+### ART III.70/1.
+
+Ter versterking van de studentenvoorzieningen kan de Vlaamse Regering binnen de perken van de begroting van de Vlaamse Gemeenschap aan de hogescholen en universiteiten een bijkomende toelage toekennen in de volgende gevallen:<br>
+1° bij een onvoorziene stijgende financiële hulpvraag van studenten die aanwijs- baar leidt tot een tekort van de toegekende sociale toelage, vermeld in artikel<br>
+III.67 en III.68;<br>
+2° bij een onvoorziene stijging van de kosten voor het uitvoeren van de activiteiten in een van de werkvelden, vermeld in artikel II.348, ten opzichte van de toegekende toelage, vermeld in artikel III.67 en III.68.<br>
+<br>
+Het vaststellen van het bedrag van de bijkomende toelage per hogeschool of universiteit gebeurt als volgt:<br>
+1° het aandeel van elke hogeschool of universiteit in de bijkomende toelage wordt berekend op basis van het aandeel van elke hogeschool en universiteit in het totale aantal opgenomen studiepunten van alle hogescholen en universiteiten samen;<br>
+2° de bijkomende toelage voor een hogeschool of een universiteit kan nooit hoger zijn dan:<br>
+a) het bedrag berekend overeenkomstig punt 1°; en<br>
+b) de aangetoonde tekorten en de aangetoonde stijging van de kosten, vermeld in het eerste lid.<br>
+<br>
+De opgenomen studiepunten, vermeld in het tweede lid, 1°, in een hogeschool of universiteit voor het begrotingsjaar t zijn het gemiddelde aantal studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een graduaatsopleiding of een initiële bachelor- of masteropleiding in de desbetreffende instelling.<br>
+<br>
+De Vlaamse Regering legt de modaliteiten vast hoe de universiteiten en hogescholen hun tekorten of hun stijging van de kosten, vermeld in het eerste lid, kunnen aantonen.
+
 ### ART. III.71.
 
 <p>...</p>
