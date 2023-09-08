@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038343,
+  "title": "Ministerieel besluit van 2023-03-07 tot uitvoering van het besluit van de Vlaamse Regering tot regeling van de organisatie, de samenstelling en de werking van de IBH van 25 november 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038343/VolledigDocument?datum=2023-09-08",
+  "source_sha256": "ad854e93e7a56099ba71a595f40bf72c042deddc81e4856aa49332b10debbb47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038343&param=informatie",
+  "as_of": "2023-09-08",
+  "made": "2023-03-07",
+  "gazette": "2023-08-29",
+  "numac": 2023042352,
+  "document_start": "2023-09-08",
+  "document_end": null,
+  "in_force": "2023-09-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
