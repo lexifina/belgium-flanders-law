@@ -2,16 +2,16 @@
   "codex_id": 1031663,
   "title": "Decreet van 2019-03-22 Kaderdecreet betreffende de bestuurlijke handhaving",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031663/VolledigDocument?datum=2019-05-23",
-  "source_sha256": "15f07be50aa335bc2fb2e9928427dd83b95b9b72c1759e715f2583e2adafc3b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031663/VolledigDocument?datum=2023-09-08",
+  "source_sha256": "1d7c82751cfc905a8382b3da18436a282191adb37b6eae3656546b352134073e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031663&param=informatie",
-  "as_of": "2019-05-23",
+  "as_of": "2023-09-08",
   "made": "2019-03-22",
   "gazette": "2019-05-13",
   "numac": 2019040957,
   "document_start": "2019-05-23",
   "document_end": "2023-09-07",
-  "in_force": "2019-05-23",
+  "in_force": "2023-09-08",
   "article_versions": 83,
-  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-08; future article versions excluded; article text as the API gives it"
 }
