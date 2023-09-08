@@ -1270,6 +1270,23 @@ In artikel 4 van hetzelfde decreet, gewijzigd bij het decreet van 23 maart 2018,
 
 In artikel 8, vijfde lid, van hetzelfde decreet, ingevoegd bij het decreet van 9 juli 2021, wordt het woord “schoolbestuur” vervangen door het woord “bestuur”.
 
+### ART 132.
+
+In artikel 9 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 25 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt vervangen door wat volgt:<br>
+“§2. De nascholingsmiddelen per niveau bedragen vanaf het begrotingsjaar 2024:<br>
+1°...;<br>
+2° voor het secundair onderwijs: 6.251.000 euro;<br>
+3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 418.000 euro;<br>
+4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
+5° voor de CLB’s: 178.000 euro;<br>
+6° voor de basiseducatie: 77.500 euro;<br>
+7° voor de leersteuncentra: 167.000 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2025 worden die bedragen aangepast aan de evolutie van de gezondheidsindex.”;<br>
+2° er wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+“§4. In afwijking van paragraaf 3 worden voor de telling op 1 februari 2023 de ondersteuners die zijn aangesteld in scholen voor buitengewoon onderwijs, niet meegeteld, en wordt voor de leersteuncentra in het jaar 2024 het aandeel in de middelen, bepaald in paragraaf 2, 7°, waarop elk leersteuncentrum recht heeft, pro rata berekend op basis van het aantal organieke betrekkingen in het leersteuncentrum op 1 oktober 2023.”.
+
 ### ART 133.
 
 In artikel 15 van hetzelfde decreet, vervangen bij het decreet van 23 december 2021, worden de volgende wijzigingen aangebracht:<br>
