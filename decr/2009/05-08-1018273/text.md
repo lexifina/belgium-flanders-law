@@ -142,7 +142,7 @@ Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten 
 § 2. De volgende bedragen worden per begrotingsjaar en met ingang vanaf begrotingsjaar 2023 toegekend, met uitzondering van de leersteuncentra waarvoor het toe te kennen bedrag vanaf het begrotingsjaar 2024 wordt vermeld:<br>
 1° voor het basisonderwijs: 5.342.667 euro in begrotingsjaar 2023 en 7.931.000 euro vanaf begrotingsjaar 2024;<br>
 2° voor het secundair onderwijs: 7.307.000 euro in begrotingsjaar 2023 en 9.419.000 euro vanaf begrotingsjaar 2024;<br>
-3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 418.000 euro;<br>
+3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 354.000 euro;<br>
 4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
 5° voor de CLB's: 178.000 euro;<br>
 6° voor de basiseducatie: 77.500 euro;<br>
