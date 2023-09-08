@@ -18,7 +18,7 @@ e) de verzekeringskosten en een eventuele risico- en winstpremie;<br>
 2° DBFM-overeenkomst: de overeenkomst die een inrichtende macht met een DBFM-vennootschap sluit voor een scholenbouwproject in het kader van een DBFM-programma Scholen van Vlaanderen;<br>
 3° DBFM-programma Scholen van Vlaanderen: één van de eenmalige programma's waarmee de Vlaamse overheid de schoolinfrastructuur in Vlaanderen wil verbeteren door een DBFM-vennootschap te laten instaan voor het ontwerp (Design), de bouw (Build), financiering (Finance) en onderhoud (Maintain);<br>
 4° DBFM-toelage: de financiële bijdrage aan de beschikbaarheidsvergoeding, vermeld in hoofdstuk 4;<br>
-5° DBFM-vennootschap: een private vennootschap die instaat voor de uitvoering van een DBFM-programma Scholen van Vlaanderen. De inrichtende machten kunnen rechtstreeks noch onrechtstreeks belangen nemen in de vennootschap. De inrichtende machten en de Vlaamse Gemeenschap kunnen de financiële verbintenissen van de vennootschap niet waarborgen;<br>
+5° DBFM-vennootschap: een private vennootschap die instaat voor de uitvoering van een DBFM-programma Scholen van Vlaanderen. De inrichtende machten kunnen rechtstreeks noch onrechtstreeks belangen nemen in de vennootschap. De inrichtende machten en de Vlaamse Gemeenschap kunnen de financiële verbintenissen van de vennootschap niet waarborgen. School Invest nv kan maximaal 10% van de aandelen van de DBFM-vennootschap aanhouden, mits akkoord van de Vlaamse Regering;<br>
 6° kaderovereenkomst: de kaderovereenkomst die met een DBFM-vennootschap gesloten is en die de modaliteiten en ook de wederzijdse rechten en verplichtingen van de betrokken partijen bevat bij de uitvoering van een DBFM-programma Scholen van Vlaanderen;<br>
 7° reguliere subsidiëring of reguliere financiering:<br>
 a) reguliere subsidiëring is de reeds bestaande wijze waarop de inrichtende macht in het gesubsidieerd onderwijs beroep kan doen op de financiële middelen voor investeringen in schoolinfrastructuur conform de geldende onderwijsregelgeving;<br>
@@ -97,7 +97,7 @@ Op basis van de selectiecriteria, vermeld in artikel 9, geeft AGION in een schri
 <br>
 Het GO! dient een aanvraag in bij de Vlaamse minister van Onderwijs, met inachtneming van de selectiecriteria, vermeld in artikel 9.<br>
 <br>
-De verdeling van de totale budgettaire investeringsruimte tussen de onderwijsnetten met het oog op de realisatie van de DBFM-programma's Scholen van Vlaanderen gebeurt op basis van de toepassing van artikel IX.1 van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs.
+De verdeling van de totale budgettaire investeringsruimte tussen de onderwijsnetten met het oog op de realisatie van de DBFM-programma's Scholen van Vlaanderen gebeurt in principe op basis van de toepassing van artikel IX.1 van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, voor zover de ingediende en geselecteerde scholenbouwprojecten per onderwijsnet voormelde verdeling mogelijk maken.
 
 ### ART 11.
 
@@ -140,7 +140,9 @@ AGION wordt er toe gemachtigd om in het kader van de DBFM-programma's Scholen va
 Vanaf het tweede jaar en tot en met het dertigste jaar van de dertigjarige beschikbaarheidstermijn mag de beschikbaarheidsvergoeding voor elk project jaarlijks geïndexeerd worden onder de volgende voorwaarden:<br>
 1° alleen het gedeelte van de beschikbaarheidsvergoeding dat betrekking heeft op de eigen werkingskosten van de DBFM-vennootschap, het onderhoud en de verzekeringen, komt in aanmerking voor indexering op basis van parameters die de reële kosten vertegenwoordigen;<br>
 2° het indexeerbare gedeelte van de beschikbaarheidsvergoeding bedraagt maximaal 35%;<br>
-3° de jaarlijkse indexatie leidt er in geen geval toe dat in een bepaalde periode de beschikbaarheidsvergoeding meer bedraagt dan als de oorspronkelijke beschikbaarheidsvergoeding jaarlijks aangepast zou worden aan de evolutie van het indexcijfer van de consumptieprijzen.
+3° de jaarlijkse indexatie leidt er in geen geval toe dat in een bepaalde periode de beschikbaarheidsvergoeding meer bedraagt dan als de oorspronkelijke beschikbaarheidsvergoeding jaarlijks aangepast zou worden aan de evolutie van het indexcijfer van de consumptieprijzen.<br>
+<br>
+AGION is er toe gemachtigd om verbintenissen aan te gaan die meebrengen dat het maximum zoals bedoeld in het eerste lid wordt overschreden, in dit geval wordt de reguliere begrotingsmachtiging van AGION of het Gemeenschapsonderwijs, naargelang het geval, geblokkeerd ten belope van het bedrag van de overschrijding
 
 ### ART 17.
 

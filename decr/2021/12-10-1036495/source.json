@@ -2,16 +2,16 @@
   "codex_id": 1036495,
   "title": "Decreet van 2021-12-10 over DBFM-Scholen van Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036495/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "1063f485aad5e927229c44050f9df1e98fa1b8644ce4fc605e19e447dcd6abfe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036495/VolledigDocument?datum=2023-09-08",
+  "source_sha256": "4c54b64107fdf2e464c083789df2b39f0deb98bacc6b222f671050c1ff231135",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036495&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2023-09-08",
   "made": "2021-12-10",
   "gazette": "2022-02-17",
   "numac": 2022030008,
   "document_start": "2022-02-27",
   "document_end": null,
-  "in_force": "2023-09-01",
+  "in_force": "2023-09-08",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-08; future article versions excluded; article text as the API gives it"
 }
