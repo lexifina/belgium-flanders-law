@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038742,
+  "title": "Decreet van 2023-07-14 KADERDECREET over de handhaving van Vlaamse regelgeving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038742/VolledigDocument?datum=2023-09-08",
+  "source_sha256": "1835a5cef553bc33a64fa60d5d7f502ebd6c298d151327a8673eaa59d8e53865",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038742&param=informatie",
+  "as_of": "2023-09-08",
+  "made": "2023-07-14",
+  "gazette": "2023-08-29",
+  "numac": 2023044829,
+  "document_start": "2023-09-08",
+  "document_end": null,
+  "in_force": "2023-09-08",
+  "article_versions": 103,
+  "record_form": "consolidated version as in force on 2023-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
