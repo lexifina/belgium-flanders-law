@@ -2,6 +2,10 @@
 
 ## Hoofdstuk 1. Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
+
 ## Hoofdstuk 2. Cultuur, Jeugd, Sport en Media
 
 ## Afdeling 1. Opheffing artikel 14, negende lid, van het decreet van 11 februari 2022 tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme
@@ -11,6 +15,10 @@
 In artikel 14 van het decreet van 11 februari 2022 tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt het negende lid opgeheven.
 
 ## Afdeling 2. Opheffing Eigen Vermogen Koninklijk Museum voor Schone Kunsten Antwerpen
+
+### ART 3.
+
+De saldi op de rekeningen van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten te Antwerpen, alsook de rechten en verplichtingen die eraan verbonden zijn, worden uiterlijk voor 31 december 2023 overgedragen aan het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk, opgericht bij het decreet van 26 januari 2018 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk.
 
 ## Afdeling 3. Subsidies aan de vzw Centrum voor de Bibliografie van de Neerlandistiek
 
@@ -56,6 +64,11 @@ De Vlaamse Regering kan voor de vereniging, vermeld in artikel 6, de nadere rege
 
 ## Afdeling 1. Betaalbevoegdheid geconventioneerde huur
 
+### ART 9.
+
+Aan artikel 4.17, eerste lid, van de Vlaamse Codex Wonen van 2021, vervangen bij het decreet van 3 juni 2022, wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° de subsidies, vermeld in artikel 4.42, §4, en in artikel 5.52/1, tweede lid, uitbetalen.”.
+
 ## Afdeling 2. Decreet van 23 december 2011 betreffende het duurzaam beheer van materialenkringlopen en afvalstoffen - OVAM-heffingen
 
 ### ART 10.
@@ -89,6 +102,10 @@ Aan artikel 196sexies, §1, van het decreet van 15 juni 2007 betreffende het vol
 
 ## Afdeling 3. Technische correctie van het bedrag van de nascholingsmiddelen voor de centra voor volwassenenonderwijs in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
+### ART 13.
+
+In artikel 9, §2, eerste lid, 3°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, vervangen bij het decreet van 19 december 2014, wordt het bedrag “418.000 euro” vervangen door het bedrag “354.000 euro”.
+
 ## Afdeling 4. Invoegen mogelijkheid tot reserve-opbouw voor de accreditatieorganisatie voor het hoger onderwijs
 
 ### ART 14.
@@ -109,9 +126,33 @@ Aan artikel III.119, §1, van de Codex Hoger Onderwijs van 11 oktober 2013, verv
 
 ## Afdeling 6. Projectspecifieke DBFM en DBFM-Scholen van Vlaanderen - Overschrijding machtiging
 
+### ART 16.
+
+Aan artikel 15 van het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten, gewijzigd bij het decreet van 22 december 2017, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+“§3. AGION is er toe gemachtigd om verbintenissen aan te gaan die meebrengen dat het maximum zoals bedoeld in paragraaf 1 wordt overschreden, in dit geval wordt de reguliere begrotingsmachtiging van AGION of het Gemeenschapsonderwijs, naargelang het geval, geblokkeerd ten belope van het bedrag van de overschrijding.”.
+
+### ART 17.
+
+Aan artikel 16 van het decreet van 10 december 2021 over DBFM-Scholen van Vlaanderen wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“AGION is er toe gemachtigd om verbintenissen aan te gaan die meebrengen dat het maximum zoals bedoeld in het eerste lid wordt overschreden, in dit geval wordt de reguliere begrotingsmachtiging van AGION of het Gemeenschapsonderwijs, naargelang het geval, geblokkeerd ten belope van het bedrag van de overschrijding.”.
+
 ## Afdeling 7. DBFM-Scholen van Vlaanderen - Aandelenparticipatie
 
+### ART 18.
+
+Aan artikel 2, 5°, van het decreet van 10 december 2021 over DBFM-Scholen van Vlaanderen wordt de volgende zin toegevoegd:<br>
+<br>
+“School Invest nv kan maximaal 10% van de aandelen van de DBFM-vennootschap aanhouden, mits akkoord van de Vlaamse Regering;”.
+
 ## Afdeling 8. DBFM-Scholen van Vlaanderen – ODII-verdeling
+
+### ART 19.
+
+In artikel 10, derde lid, van het decreet van 10 december 2021 over DBFM-Scholen van Vlaanderen worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord “gebeurt” en de woorden “op basis van” worden de woorden “in principe” ingevoegd;<br>
+2° de zinsnede “, voor zover de ingediende en geselecteerde scholenbouwprojecten per onderwijsnet voormelde verdeling mogelijk maken” wordt toegevoegd.
 
 ## Afdeling 9. Extra werkingsbudget voor bijkomende capaciteit voor leerlingen met een verslag
 
@@ -213,6 +254,39 @@ Deze tenlasteneming is onderworpen aan onderstaande voorwaarden:<br>
 §2. De tenlasteneming wordt aangevraagd bij de bevoegde diensten van de Vlaamse Gemeenschap. Een aanvraag is enkel ontvankelijk als bij de aanvraag de gerechtelijke uitspraak en de financiële verantwoording is gevoegd. De bevoegde diensten van de Vlaamse Gemeenschap kunnen de aanvrager om bijkomende informatie vragen om de ontvankelijkheid en gegrondheid van de aanvraag te beoordelen. De Vlaamse Regering beslist over de tenlasteneming bij elke aanvraag met toepassing van paragraaf 1, 1°, b).
 
 ## Afdeling 12. Extra werkingsbudget voor materiaalintensief studieaanbod in het secundair onderwijs
+
+### ART 23.
+
+§1. Naast het extra werkingsbudget, bedoeld in artikel 95 van het programmadecreet van 16 december 2022 bij de begroting 2023, wordt voor het begrotingsjaar 2023 een extra werkingsbudget van 10.000.000 euro toegekend aan de scholen voor het voltijds gewoon secundair onderwijs, de scholen voor buitengewoon secundair onderwijs, de centra voor deeltijds beroepssecundair onderwijs en de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor materiaalintensieve structuuronderdelen.<br>
+<br>
+Met materiaalintensieve structuuronderdelen wordt bedoeld:<br>
+1° groep 1:<br>
+&nbsp; a) alle niet-duale structuuronderdelen van de finaliteit arbeidsmarkt, behalve binnen het studiedomein Taal en Cultuur en het studiedomein Economie en Organisatie;<br>
+&nbsp; b) alle niet-duale structuuronderdelen van de onderwijsvorm bso, behalve de studiegebieden Toerisme, Handel en Maatschappelijke Veiligheid;<br>
+&nbsp; c) alle niet-duale structuuronderdelen van de opleidings-, kwalificatie- en integratiefase van opleidingsvorm 3 van het buitengewoon secundair onderwijs;<br>
+2° groep 2:<br>
+&nbsp; a) alle niet-duale structuuronderdelen van de dubbele finaliteit, behalve binnen het studiedomein Economie en Organisatie, het studiedomein Maatschappij en Welzijn, het studiedomein Taal en Cultuur en de niet-duale structuuronderdelen Ballet, Creatie en Mode en Fotografie binnen het studiedomein Kunst en Creatie;<br>
+&nbsp; b) alle niet-duale structuuronderdelen binnen het studiegebied Beeldende Kunsten van de onderwijsvorm kso;<br>
+&nbsp; c) alle niet-duale structuuronderdelen van de onderwijsvorm tso, behalve de studiegebieden Handel, Personenzorg, Toerisme en Maatschappelijke Veiligheid;<br>
+3° groep 3:<br>
+&nbsp; a) alle duale structuuronderdelen, behalve binnen het studiedomein Economie en Organisatie, het studiegebied Handel, het studiegebied Personenzorg tso en het studiegebied Toerisme;<br>
+&nbsp; b) alle opleidingen binnen het deeltijds beroepssecundair onderwijs.<br>
+<br>
+§2. Een basisbedrag per gewogen regelmatige leerling wordt bekomen door het extra werkingsbudget, vermeld in paragraaf 1, te delen door het aantal gewogen regelmatige leerlingen op de teldatum voor de berekening van de werkingsbudgetten voor het schooljaar 2022-2023, vermeld in artikel 169 tot en met 172 en artikel 357/26 van de Codex Secundair Onderwijs van 17 december 2010, en in artikel 86, §1, 2°, van het decreet van 10 juli 2008 betreffende het stelsel voor leren en werken in de Vlaamse Gemeenschap.<br>
+<br>
+De regelmatige leerlingen, vermeld in het eerste lid, worden als volgt gewogen:<br>
+1° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 1, vermeld in paragraaf 1, tweede lid, 1°, worden gewogen aan factor 1;<br>
+2° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 2, vermeld in paragraaf 1, tweede lid, 2°, worden gewogen aan factor 0,75;<br>
+3° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 3, vermeld in paragraaf 1, tweede lid, 3°, worden gewogen aan factor 0,50.<br>
+&nbsp;<br>
+§3. Het extra werkingsbudget per school of centrum is het resultaat van de vermenigvuldiging van het basisbedrag per gewogen regelmatige leerling, vermeld in paragraaf 2, met het aantal gewogen regelmatige leerlingen in de school of het centrum op de reguliere teldatum voor de berekening van de werkingsbudgetten voor het schooljaar 2022-2023, vermeld in artikel 169 tot en met 172 en artikel 357/26 van de Codex Secundair Onderwijs van 17 december 2010, en in artikel 86, §1, 2°, van het decreet van 10 juli 2008 betreffende het stelsel voor leren en werken in de Vlaamse Gemeenschap.<br>
+<br>
+De regelmatige leerlingen, vermeld in het eerste lid, worden als volgt gewogen:<br>
+1° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 1, vermeld in paragraaf 1, tweede lid, 1°, worden gewogen aan factor 1;<br>
+2° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 2, vermeld in paragraaf 1, tweede lid, 2°, worden gewogen aan factor 0,75;<br>
+3° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 3, vermeld in paragraaf 1, tweede lid, 3°, worden gewogen aan factor 0,50.<br>
+<br>
+§4. Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 oktober 2023.
 
 ## Afdeling 13. Herziening verdeling bedrag bijzondere salarisschalen
 
@@ -352,7 +426,29 @@ In artikel 9, §2, tweede lid, van hetzelfde decreet, vervangen bij het decreet 
 
 Aan artikel 10, eerste lid, van hetzelfde decreet wordt de zin “Indien het decreet houdende de aanpassing van de algemene uitgavenbegroting of het programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing, van het begrotingsjaar waarin de nascholingsmiddelen voor het betrokken begrotingsjaar zijn opgenomen, aanleiding geeft tot meer nascholingsmiddelen voor de instellingen, dan worden deze bijkomende middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse Regering van betrokken decreet.” toegevoegd.
 
+### ART 36.
+
+In artikel 132 van het decreet van 5 mei 2023 over leersteun wordt punt 1° opgeheven.
+
 ## Afdeling 19. Tijdelijke bijkomende steun aan hogescholen en universiteiten ter versterking van studentenvoorzieningen
+
+### ART 37.
+
+In de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewijzigd bij het decreet van 16 december 2022, wordt een artikel III.70/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. III.70/1. Ter versterking van de studentenvoorzieningen kan de Vlaamse Regering binnen de perken van de begroting van de Vlaamse Gemeenschap aan de hogescholen en universiteiten een bijkomende toelage toekennen in de volgende gevallen:<br>
+1° bij een onvoorziene stijgende financiële hulpvraag van studenten die aanwijsbaar leidt tot een tekort van de toegekende sociale toelage, vermeld in artikel III.67 en III.68;<br>
+2° bij een onvoorziene stijging van de kosten voor het uitvoeren van de activiteiten in een van de werkvelden, vermeld in artikel II.348, ten opzichte van de toegekende toelage, vermeld in artikel III.67 en III.68.<br>
+<br>
+Het vaststellen van het bedrag van de bijkomende toelage per hogeschool of universiteit gebeurt als volgt:<br>
+1° het aandeel van elke hogeschool of universiteit in de bijkomende toelage wordt berekend op basis van het aandeel van elke hogeschool en universiteit in het totale aantal opgenomen studiepunten van alle hogescholen en universiteiten samen;<br>
+2° de bijkomende toelage voor een hogeschool of een universiteit kan nooit hoger zijn dan:<br>
+&nbsp; a) het bedrag berekend overeenkomstig punt 1°; en<br>
+&nbsp; b) de aangetoonde tekorten en de aangetoonde stijging van de kosten, vermeld in het eerste lid.<br>
+<br>
+De opgenomen studiepunten, vermeld in het tweede lid, 1°, in een hogeschool of universiteit voor het begrotingsjaar t zijn het gemiddelde aantal studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een graduaatsopleiding of een initiële bachelor- of masteropleiding in de desbetreffende instelling.<br>
+<br>
+De Vlaamse Regering legt de modaliteiten vast hoe de universiteiten en hogescholen hun tekorten of hun stijging van de kosten, vermeld in het eerste lid, kunnen aantonen.”.
 
 ## Hoofdstuk 5. Vangnetbepaling ontbrekende CO2-waarden volgens WLTP
 
@@ -567,3 +663,20 @@ Een voertuig op aardgas is een voertuig waarvan de motor, ook al is het maar ged
 &nbsp;
 
 ## Hoofdstuk 6. Inwerkingtreding
+
+### ART 40.
+
+Dit decreet treedt in werking de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van:<br>
+1° artikel 27 en 28, die in werking treden op 1 augustus 2023;<br>
+2° artikel 11, 21, 22, 25, 26 en 29, die in werking treden op 1 september 2023;<br>
+3° artikel 4 en 5, die in werking treden op 31 december 2023.<br>
+<br>
+Artikel 10 heeft uitwerking met ingang van 1 juli 2023.<br>
+<br>
+Artikel 12, 15 en 20 hebben uitwerking vanaf 1 juni 2023.<br>
+<br>
+Artikel 2, 6 tot en met 8, 14 en 30 tot en met 35 hebben uitwerking vanaf 1 januari 2023.<br>
+<br>
+Artikel 24 heeft uitwerking vanaf 1 januari 2022.<br>
+<br>
+Artikel 38 en 39 hebben uitwerking vanaf 1 januari 2021.
