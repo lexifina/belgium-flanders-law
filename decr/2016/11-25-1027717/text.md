@@ -130,12 +130,14 @@ Voor de instellingen, de internaten en de centra, vermeld in artikel 3, in het g
 
 ### ART 15.
 
-§ 1. AGION wordt er toe gemachtigd om in het kader van het projectspecifiek DBFM-programma gedurende de dertigjarige beschikbaarheidsperiode verbintenissen aan te gaan ten belope van maximaal 36,5 miljoen euro per jaar. Die verbintenissen mogen voorzien in een indexering conform paragraaf 2.<br>
+§1. AGION wordt er toe gemachtigd om in het kader van het projectspecifiek DBFM-programma gedurende de dertigjarige beschikbaarheidsperiode verbintenissen aan te gaan ten belope van maximaal 36,5 miljoen euro per jaar. Die verbintenissen mogen voorzien in een indexering conform paragraaf 2.<br>
 <br>
-§ 2. Vanaf het tweede jaar en tot en met het dertigste jaar van de dertigjarige beschikbaarheidstermijn mag de beschikbaarheidsvergoeding voor elk project jaarlijks geïndexeerd worden onder de volgende voorwaarden:<br>
+§2. Vanaf het tweede jaar en tot en met het dertigste jaar van de dertigjarige beschikbaarheidstermijn mag de beschikbaarheidsvergoeding voor elk project jaarlijks geïndexeerd worden onder de volgende voorwaarden:<br>
 1° slechts het gedeelte van de beschikbaarheidsvergoeding dat betrekking heeft op de eigen werkingskosten van de projectvennootschap, het onderhoud en de verzekeringen, komt in aanmerking voor indexering op basis van parameters die de reële kosten vertegenwoordigen;<br>
 2° het indexeerbaar gedeelte van de beschikbaarheidsvergoeding bedraagt maximaal 35%;<br>
 3° in geen geval mag de jaarlijkse indexatie ertoe leiden dat in enige periode de beschikbaarheidsvergoeding meer bedraagt dan wanneer de oorspronkelijke beschikbaarheidsvergoeding jaarlijks zou aangepast worden aan de evolutie van het indexcijfer der consumptieprijzen.<br>
+<br>
+§3. AGION is er toe gemachtigd om verbintenissen aan te gaan die meebrengen dat het maximum zoals bedoeld in paragraaf 1 wordt overschreden, in dit geval wordt de reguliere begrotingsmachtiging van AGION of het Gemeenschapsonderwijs, naargelang het geval, geblokkeerd ten belope van het bedrag van de overschrijding.<br>
 &nbsp;
 
 ### ART 16.
