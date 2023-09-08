@@ -1529,12 +1529,13 @@ De vergoeding, vermeld in artikel 6.3/2, tweede lid, kan ter beschikking worden 
 
 ### ART 4.17.
 
-<p style="margin-left:0cm; margin-right:0cm">De VMSW heeft de volgende opdrachten:<br>
+<p>De VMSW heeft de volgende opdrachten:<br>
 1° de ICT-activiteiten die verband houden met de taken van de VMSW, op zich nemen;<br>
 2° zorgen voor het beheer van de financiële middelen van de woonmaatschappijen die niet noodzakelijk zijn voor hun dagelijkse werking, overeenkomstig een regeling die de Vlaamse Regering vaststelt na overleg met de VMSW en de woonmaatschappijen;<br>
 3° wooninfrastructuur aanleggen als vermeld in artikel 5.23;<br>
 4° zelf woonprojecten realiseren die ofwel vernieuwend of experimenteel zijn, ofwel noodzakelijk zijn ter uitvoering van het investeringsprogramma, vermeld in artikel 2.22, § 1, bij gebrek aan initiatieven van actoren als vermeld in artikel 4.13, of van initiatiefnemers als vermeld in artikel 5.29;<br>
-5° grondbeleidsmaatregelen uitvoeren die noodzakelijk worden geacht om in de door de Vlaamse Regering te bepalen gebieden een hoogwaardige woonkwaliteit te behouden of te bevorderen.<br>
+5° grondbeleidsmaatregelen uitvoeren die noodzakelijk worden geacht om in de door de Vlaamse Regering te bepalen gebieden een hoogwaardige woonkwaliteit te behouden of te bevorderen;<br>
+6° de subsidies, vermeld in artikel 4.42, §4, en in artikel 5.52/1, tweede lid, uitbetalen.<br>
 <br>
 De Vlaamse Regering legt een nadere omschrijving vast van het begrip "grondbeleidsmaatregelen die noodzakelijk worden geacht om een hoogwaardige woonkwaliteit te behouden of te bevorderen", vermeld in het eerste lid, 5°.&nbsp;</p>
 
