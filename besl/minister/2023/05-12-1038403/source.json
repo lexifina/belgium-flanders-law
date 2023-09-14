@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038403,
+  "title": "Ministerieel besluit van 2023-05-12 houdende indeling bij de gemeentewegen van de gewestweg Beverhoek op het grondgebied van de stad Harelbeke",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038403/VolledigDocument?datum=2023-09-14",
+  "source_sha256": "f90605ac91fa813892447f2eb7d58c4b1a7a2a0c33d12048ead486b76efb6a00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038403&param=informatie",
+  "as_of": "2023-09-14",
+  "made": "2023-05-12",
+  "gazette": "2023-09-04",
+  "numac": 2023042740,
+  "document_start": "2023-09-14",
+  "document_end": null,
+  "in_force": "2023-09-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
