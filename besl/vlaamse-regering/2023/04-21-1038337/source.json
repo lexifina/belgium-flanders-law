@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038337,
+  "title": "Besluit van de Vlaamse Regering van 2023-04-21 tot herverdeling van het begrotingsartikel JB0-1JBB2AB-PR naar begrotingsartikelen JB0-1JAB2ZZ-LO en JB0-1JAB2ZZ-WT van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038337/VolledigDocument?datum=2023-09-14",
+  "source_sha256": "ad078f171b7759182a2d98635307d27c5ecd79ee791fedb0ba51159f9c9aeccb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038337&param=informatie",
+  "as_of": "2023-09-14",
+  "made": "2023-04-21",
+  "gazette": "2023-09-04",
+  "numac": 2023042391,
+  "document_start": "2023-09-14",
+  "document_end": null,
+  "in_force": "2023-09-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
