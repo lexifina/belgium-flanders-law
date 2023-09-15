@@ -2,16 +2,16 @@
   "codex_id": 1033955,
   "title": "Ministerieel besluit van 2020-11-26 houdende regels voor het invullen van technische verslagen van het onderzoek van de kwaliteit van woningen door een woningcontroleur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033955/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "9f3b92a5a30b758688ea00e385be6bbdb357931c8e2ea40b0fde4e9747148a19",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033955/VolledigDocument?datum=2023-09-15",
+  "source_sha256": "d9c5b526d16ea0a9d8a9d323d564001b90cea06a062f3308d7f630c6b0839b2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033955&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-09-15",
   "made": "2020-11-26",
   "gazette": "2020-12-16",
   "numac": 2020044011,
   "document_start": "2021-01-01",
   "document_end": "2023-09-14",
-  "in_force": "2021-01-01",
+  "in_force": "2023-09-15",
   "article_versions": 127,
-  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-15; future article versions excluded; article text as the API gives it"
 }
