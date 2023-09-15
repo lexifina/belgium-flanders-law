@@ -2,16 +2,16 @@
   "codex_id": 1026462,
   "title": "Besluit van de Vlaamse Regering van 2016-01-15 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026462/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "9a05e6209c495639a6a02c73f3350752a02fb1059a47896fb54b5c3383f42227",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026462/VolledigDocument?datum=2023-09-15",
+  "source_sha256": "3259cf8566c28d3d6194d6711d11b6262a46a60a38c98ccfe8af64a344a3bf8d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026462&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-09-15",
   "made": "2016-01-15",
   "gazette": "2016-02-11",
   "numac": 2016035127,
   "document_start": "2015-12-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2023-09-15",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-15; future article versions excluded; article text as the API gives it"
 }

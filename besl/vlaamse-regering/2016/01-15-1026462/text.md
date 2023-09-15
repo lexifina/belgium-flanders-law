@@ -60,15 +60,20 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 
 ### ART. 7.
 
-<p>§ 1. De ten laste genomen dienstverlening wordt uitgevoerd door tolken&nbsp;Gebarentaal en schrijftolken die ingeschreven zijn bij het centraal tolkenbureau.</p>
-
-<p>§ 2. Een tolk Gebarentaal is in het bezit van een diploma Tolk Vlaamse Gebarentaal of Tolk voor Doven, behaald aan een onderwijsinstelling die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd is.</p>
-
-<p>De schrijftolk is in het bezit van een A1-diploma of van een bachelordiploma.</p>
-
-<p>In afwijking van het eerste lid kunnen de tolken die op 1 januari 2004 een erkenning hadden overeenkomstig artikel 15 van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, zoals van toepassing op 1 januari 2004, ook ten laste genomen tolkuren uitvoeren.</p>
-
-<p>§ 3. Een tolk Gebarentaal die een tolkdiploma behaald heeft aan een onderwijsinstelling die door de Franstalige Gemeenschap of de Duitstalige Gemeenschap erkend, gefinancierd of gesubsidieerd is, kan de ten laste genomen tolkuren uitvoeren, op voorwaarde dat de tolk een verklaring van het Ministerie van Onderwijs van de Franstalige Gemeenschap of van de Duitstalige Gemeenschap kan voorleggen waaruit blijkt dat het diploma erkend is.<br>
+<p>§ 1. De ten laste genomen dienstverlening wordt uitgevoerd door tolken&nbsp;Gebarentaal en schrijftolken die ingeschreven zijn bij het centraal tolkenbureau.<br>
+<br>
+§2. Een tolk Gebarentaal is in het bezit van een van de volgende diploma’s die zijn behaald aan een onderwijsinstelling die door de Vlaamse Gemeenschap is erkend, gefinancierd of gesubsidieerd, of van een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig wordt erkend:<br>
+1°&nbsp; master in het tolken met de taalmodule Vlaamse Gebarentaal;<br>
+2°&nbsp; postgraduaat Tolken Vlaamse Gebarentaal;<br>
+3°&nbsp; graduaat Tolk Vlaamse Gebarentaal (of Tolk voor doven).<br>
+<br>
+In afwijking van het eerste lid kunnen de ten laste genomen tolkuren ook uitgevoerd worden door de volgende tolken:<br>
+1°&nbsp; tolken die het getuigschrift tolk Vlaamse Gebarentaal voor dove tolken hebben behaald, dat is uitgereikt door de Katholieke Universiteit Leuven, nadat ze de opleiding Tolk Vlaamse Gebarentaal hebben gevolgd, die liep van 10 januari 2022 tot en met 30 juni 2023;<br>
+2°&nbsp; tolken die op 1 januari 2004 een erkenning hadden conform artikel 15 van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste neemt, zoals van toepassing op 1 januari 2004.<br>
+<br>
+De schrijftolk is in het bezit van een bachelordiploma of van een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig wordt erkend.<br>
+<br>
+§ 3. Een tolk Gebarentaal die een tolkdiploma behaald heeft aan een onderwijsinstelling die door de Franstalige Gemeenschap of de Duitstalige Gemeenschap erkend, gefinancierd of gesubsidieerd is, kan de ten laste genomen tolkuren uitvoeren, op voorwaarde dat de tolk een verklaring van het Ministerie van Onderwijs van de Franstalige Gemeenschap of van de Duitstalige Gemeenschap kan voorleggen waaruit blijkt dat het diploma erkend is.<br>
 <br>
 In afwijking van het eerste lid kunnen de tolken Gebarentaal die erkend zijn door AVIQ, PHARE of de daartoe bevoegde instantie van de Duitstalige Gemeenschap, ook ten laste genomen tolkuren uitvoeren.<br>
 <br>
