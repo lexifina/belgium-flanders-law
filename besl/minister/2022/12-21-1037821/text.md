@@ -422,7 +422,12 @@ In de periode van 1 juli 2023 tot en met 31 oktober 2023 is het in het ICES-gebi
 <br>
 §4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 &nbsp;&nbsp; &nbsp;<br>
-Vanaf 1 februari 2023 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 210 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 februari 2023 tot en met 15 september 2023 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 210 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 16 september 2023 is het in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 360 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Van zodra 80% van het quotum aan zeeduivel in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium, inclusief quotaruilen, is opgebruikt, is het verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 210 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. De reders zullen, van zodra de 80% is bereikt, per e-mail op de hoogte worden gebracht.<br>
+<br>
 &nbsp;
 
 ## Afdeling 5. Rog
