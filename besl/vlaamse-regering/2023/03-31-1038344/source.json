@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038344,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-31 tot goedkeuring van de wijziging van de regeling van de rechtspositie van het personeel van de Koninklijke Academie voor Nederlandse Taal en Letteren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038344/VolledigDocument?datum=2023-09-16",
+  "source_sha256": "b0e6ccce43d14a226f3c51fd3d570d4dce9e3165900ae41c6a80627da1285455",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038344&param=informatie",
+  "as_of": "2023-09-16",
+  "made": "2023-03-31",
+  "gazette": "2023-09-06",
+  "numac": 2023042410,
+  "document_start": "2023-09-16",
+  "document_end": null,
+  "in_force": "2023-09-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
