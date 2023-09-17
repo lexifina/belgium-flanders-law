@@ -20,7 +20,12 @@ Binnen de kredieten die daarvoor jaarlijks worden uitgetrokken op de begroting, 
 
 ### ART. 3.
 
-De minister stelt tweejaarlijks ter ondersteuning en implementatie van   onderwijshervormingen eigen beleidsprioriteiten voor nascholingsinitiatieven   vast.<BR><BR>De door de minister gekozen beleidsprioriteiten worden via een   oproep tot nascholingsinitiatieven vóór 1 mei van jaar X in het Belgisch   Staatsblad gepubliceerd.<BR><BR>De minister bepaalt in de oproep wie kan   deelnemen aan deze nascholingsinitiatieven.<BR><BR>
+De minister stelt tweejaarlijks ter ondersteuning en implementatie van onderwijshervormingen eigen beleidsprioriteiten voor nascholingsinitiatieven vast.<br>
+<br>
+De minister bepaalt de beleidsprioriteiten, vermeld in het eerste lid, in een oproep tot nascholingsinitiatieven. De oproep wordt vóór 15 oktober van jaar X op de website van het Vlaams Ministerie van Onderwijs en Vorming bekendgemaakt.<br>
+<br>
+De minister bepaalt in de oproep wie kan deelnemen aan deze nascholingsinitiatieven.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -39,7 +44,7 @@ De oproep bevat :<br>
 
 ### ART. 6.
 
-De nascholingsvoorstellen worden op elektronische wijze ingediend vóór 15 september van jaar X in de vorm van een projectfiche waarvan het model samen met de oproep ter beschikking wordt gesteld.<br>
+De nascholingsvoorstellen worden op elektronische wijze ingediend vóór 1 december van jaar X in de vorm van een projectfiche waarvan het model samen met de oproep ter beschikking wordt gesteld.<br>
 <br>
 De administratie verbindt zich ertoe om de indiener binnen twee werkdagen na de ontvangst van de projectfiche een ontvangstbewijs te bezorgen.<br>
 <br>
@@ -52,15 +57,41 @@ De ingediende voorstellen worden beoordeeld op basis van de volgende criteria :<
 
 ### ART. 7.
 
-De projectvoorstellen worden per thema beoordeeld door een commissie die samengesteld is uit :<br />1° minstens één externe onafhankelijke deskundige;<br />2° minstens twee afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming.<br /><br />De commissie brengt vóór 15 november van jaar X een advies uit aan de hand van een gemotiveerde rangschikking van de nascholingsprojecten die in aanmerking komen voor subsidiëring op grond van de criteria, vermeld in artikel 6. De projecten worden gerangschikt in vijf niveaus :<br />1° zeer goed (niveau A);<br />2° goed (niveau B);<br />3° voldoende (niveau C);<br />4° onvoldoende (niveau D);<br />5° onvoldoende ingevuld of onvoldoende aansluiting bij het thema (niveau E).<br /><br />De commissie heeft de bevoegdheid om de projectvoorstellen van niveau A en B zowel inhoudelijk als financieel te laten bijsturen.<br /><br />Daaropvolgend worden de bijgestuurde projectvoorstellen op elektronische wijze ingediend. De commissie beoordeelt deze bijsturingen. Indien deze bijgestuurde projectvoorstellen tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten opgenomen worden in de gemotiveerde rangschikking die overgemaakt wordt aan de minister. Indien de bijsturingen niet tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten niet opgenomen worden in de rangschikking.<br /><br />De commissie bezorgt de gemotiveerde rangschikking aan de minister.<br /><br />
+De projectvoorstellen worden per thema beoordeeld door een commissie die samengesteld is uit :<br>
+1° minstens één externe onafhankelijke deskundige;<br>
+2° minstens twee afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming.<br>
+<br>
+De commissie brengt vóór&nbsp;15 februari van jaar X+1 een advies uit aan de hand van een gemotiveerde rangschikking van de nascholingsprojecten die in aanmerking komen voor subsidiëring op grond van de criteria, vermeld in artikel 6. De projecten worden gerangschikt in vijf niveaus :<br>
+1° zeer goed (niveau A);<br>
+2° goed (niveau B);<br>
+3° voldoende (niveau C);<br>
+4° onvoldoende (niveau D);<br>
+5° onvoldoende ingevuld of onvoldoende aansluiting bij het thema (niveau E).<br>
+<br>
+De commissie heeft de bevoegdheid om de projectvoorstellen van niveau A en B zowel inhoudelijk als financieel te laten bijsturen.<br>
+<br>
+Daaropvolgend worden de bijgestuurde projectvoorstellen op elektronische wijze ingediend. De commissie beoordeelt deze bijsturingen. Indien deze bijgestuurde projectvoorstellen tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten opgenomen worden in de gemotiveerde rangschikking die overgemaakt wordt aan de minister. Indien de bijsturingen niet tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten niet opgenomen worden in de rangschikking.<br>
+<br>
+De commissie bezorgt de gemotiveerde rangschikking aan de minister.<br>
+&nbsp;
 
 ### ART. 8.
 
-Op basis van de gemotiveerde rangschikking van de commissie beslist de   minister vóór 15 januari van het jaar X + 1 bij ministerieel besluit welke   projecten voor subsidiëring in aanmerking komen.<BR><BR>De subsidiëring gebeurt   voor de duur van een jaar en kan mits een positieve evaluatie worden verlengd   met een jaar.<BR><BR>Daartoe moet voor het gesubsidieerde project een   verlengingsdossier voor 1 april van jaar X+2 ingediend worden. Dit dossier bevat   minstens een volledig ingevuld aanvraagformulier, waarvan het model ter   beschikking wordt gesteld.<BR><BR>Het voorstel tot verlenging wordt op basis van   de criteria kwaliteit en kostenefficiëntie beoordeeld door een commissie   bestaande uit minstens twee afgevaardigden van het Vlaams Ministerie van   Onderwijs en Vorming en minstens één externe onafhankelijke   deskundige.<BR><BR>
+Op basis van de gemotiveerde rangschikking van de commissie beslist de minister vóór 1 mei van het jaar X + 1 bij ministerieel besluit welke projecten voor subsidiëring in aanmerking komen.<br>
+<br>
+De subsidiëring gebeurt voor de duur van een jaar en kan mits een positieve evaluatie worden verlengd met een jaar.<br>
+<br>
+Daartoe moet voor het gesubsidieerde project een verlengingsdossier voor 1 april van jaar X+2 ingediend worden. Dit dossier bevat minstens een volledig ingevuld aanvraagformulier, waarvan het model ter beschikking wordt gesteld.<br>
+<br>
+Het voorstel tot verlenging wordt op basis van de criteria kwaliteit en kostenefficiëntie beoordeeld door een commissie bestaande uit minstens twee afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming en minstens één externe onafhankelijke deskundige.<br>
+&nbsp;
 
 ### ART. 9.
 
-De nascholingsorganisaties die projectvoorstellen hebben ingediend, worden   vóór 31 januari van jaar X + 1 op een gemotiveerde wijze op de hoogte gebracht   van de beslissing.<BR><BR>In het geval van een verlengingsdossier worden de   nascholingsorganisaties voor 1 juni van jaar X+2 op de hoogte gebracht van de   beslissing.<BR><BR>
+De nascholingsorganisaties die projectvoorstellen hebben ingediend, worden vóór 15 mei van jaar X + 1 op een gemotiveerde wijze op de hoogte gebracht van de beslissing.<br>
+<br>
+In het geval van een verlengingsdossier worden de nascholingsorganisaties voor 1 juni van jaar X+2 op de hoogte gebracht van de beslissing.<br>
+&nbsp;
 
 ### ART 9/1.
 
@@ -75,12 +106,14 @@ Van het totale budget voor de nascholing op initiatief van de Vlaamse Regering i
 ### ART. 11.
 
 § 1. Bij de goedkeuring van de nascholingsprojecten worden per project op basis van de aanvraag en de bijbehorende ingediende budgettering de volgende bedragen vastgelegd :<br>
-1° het maximumbedrag dat besteed kan worden aan valorisatie, namelijk maximaal 10% van het aangevraagde budget;<br>
+1° het maximumbedrag dat besteed kan worden aan valorisatie, namelijk maximaal 40% van het aangevraagde budget;<br>
 2° de standaardprijs per sessie.<br>
 <br>
 De bedragen, vermeld in het eerste lid, 1° en 2°, en het aantal geplande sessies worden in een ministerieel besluit vastgelegd. Als er in de aangevraagde budgettering sprake is van btw, worden ook die bedragen verrekend in de bedragen, vermeld in het eerste lid, 1° en 2°.<br>
 <br>
-§ 2. Het bedrag dat ieder schooljaar voor nascholingsprojecten wordt uitgetrokken, wordt in drie keer uitbetaald. Een eerste schijf van 50% wordt uitbetaald tegen eind september van het jaar X + 1. De tweede schijf van 40% wordt betaald tegen eind januari van het jaar X + 2 en de derde schijf van 10% na de goedkeuring van het jaarlijks verslag.<br>
+Het bedrag dat ieder jaar voor nascholingsprojecten wordt uitgetrokken, wordt op de volgende wijze in twee keer uitbetaald:<br>
+1°&nbsp;&nbsp; &nbsp;een eerste schijf van 80% wordt uitbetaald uiterlijk op 30 september van het jaar X + 1;<br>
+2°&nbsp;&nbsp; &nbsp;het saldo van 20% wordt uitbetaald na de goedkeuring van het jaarlijkse verslag, vermeld in paragraaf 3.<br>
 <br>
 § 3. Uiterlijk op 30 september van elk jaar van de looptijd van het project dient de nascholingsorganisatie een jaarlijks verslag in over het toegekende nascholingsproject bij het Vlaams Ministerie van Onderwijs en Vorming.<br>
 <br>
@@ -92,7 +125,7 @@ Het jaarlijks verslag bevat ook een projectoverzicht, dat bestaat uit de volgend
 3° eventueel bijkomende documenten, zoals opgenomen in de richtlijnen voor het kostendossier.<br>
 <br>
 De volgende documenten liggen ter inzage en kunnen ter plaatse gecontroleerd worden door de administratie :<br>
-1° de getekende deelnemerslijsten per sessie;<br>
+1° bij fysieke sessies de getekende deelnemerslijsten per sessie en bij onlinesessies een deelnemerslijst;<br>
 2° de evaluatie aan de hand van een instrument door de organisatie opgesteld en de resultaten ervan.<br>
 <br>
 § 4. Het saldo voor elk nascholingsproject wordt uitbetaald na de goedkeuring van het inhoudelijk en financieel jaarlijks verslag en op basis van het projectoverzicht dat aantoont hoeveel sessies hebben plaatsgevonden.<br>
@@ -113,13 +146,11 @@ Controle ter plaatse door de daartoe gemachtigde ambtenaren van het Vlaams Minis
 
 ### ART. 13.
 
-In afwijking van artikel 3 wordt voor schooljaar 2017-2018 geen oproep met prioritaire nascholingsthema's gelanceerd.<br>
-<br>
-In afwijking van artikel 4 blijft het thema van de schooljaren 2015-2016 en 2016-2017 behouden voor het schooljaar 2017-2018.
+...
 
 ### ART. 14.
 
-De nascholingsprojecten die tijdens de schooljaren 2015-2016 en 2016-2017 voor gesubsidieerd zijn, worden ook in het schooljaar 2017-2018 gesubsidieerd.
+...
 
 ### ART. 15.
 
