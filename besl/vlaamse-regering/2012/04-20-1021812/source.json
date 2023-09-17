@@ -2,16 +2,16 @@
   "codex_id": 1021812,
   "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot erkenning van de beroepskwalificatie residentieel elektrotechnisch installateur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021812/VolledigDocument?datum=2012-06-22",
-  "source_sha256": "3e508e5e4ea1a8b4910699f898d61751aa22d7b94c9187090bdaee1c65df663b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021812/VolledigDocument?datum=2023-09-17",
+  "source_sha256": "21186b6924409fb6a649881116f1a7fee5bed812fdb049b7f15e3acdf63c5bf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021812&param=informatie",
-  "as_of": "2012-06-22",
+  "as_of": "2023-09-17",
   "made": "2012-04-20",
   "gazette": "2012-06-12",
   "numac": 2012035555,
   "document_start": "2012-06-22",
   "document_end": "2099-12-31",
-  "in_force": "2012-06-22",
+  "in_force": "2023-09-17",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2012-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-17; future article versions excluded; article text as the API gives it"
 }
