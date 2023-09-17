@@ -2,16 +2,16 @@
   "codex_id": 1036895,
   "title": "Ministerieel besluit van 2022-03-29 tot vaststelling van de praktische modaliteiten ter uitvoering van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036895/VolledigDocument?datum=2022-04-23",
-  "source_sha256": "b8c10d12513acf8df3fb71b26ace7ce1bc801f569c487a30a1b0d2ddc7ca8df1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036895/VolledigDocument?datum=2023-09-17",
+  "source_sha256": "8bb3a68881fd587edd7af3fb76a7427f87990260568d7da4f580f75260715fd2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036895&param=informatie",
-  "as_of": "2022-04-23",
+  "as_of": "2023-09-17",
   "made": "2022-03-29",
   "gazette": "2022-04-13",
   "numac": 2022020696,
   "document_start": "2022-04-23",
   "document_end": "2023-09-16",
-  "in_force": "2022-04-23",
+  "in_force": "2023-09-17",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2022-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-17; future article versions excluded; article text as the API gives it"
 }
