@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038564,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-16 tot opheffing van de Watering van Melden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038564/VolledigDocument?datum=2023-09-17",
+  "source_sha256": "039a405e7ddf94c539b024b1ed6c2dcce150203f29ce5d0b6275701f8e626877",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038564&param=informatie",
+  "as_of": "2023-09-17",
+  "made": "2023-06-16",
+  "gazette": "2023-09-07",
+  "numac": 2023043425,
+  "document_start": "2023-09-17",
+  "document_end": null,
+  "in_force": "2023-09-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
