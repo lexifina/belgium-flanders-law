@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038526,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-02 tot aanwijzing van een bevoegde instantie als vermeld in artikel 3 van verordening (EU) nr. 598/2014 van het Europees Parlement en de Raad van 16 april 2014 inzake de vaststelling van regels en procedures voor de invoering van geluidsgerelateerde exploitatiebeperkingen op luchthavens in de Unie binnen het kader van een evenwichtige aanpak, en tot intrekking van Richtlijn 2002/30/EG",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038526/VolledigDocument?datum=2023-09-17",
+  "source_sha256": "0e4112e224021607724e0000b546ef87ca2f5b104531bf6fd8d5ead975a71092",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038526&param=informatie",
+  "as_of": "2023-09-17",
+  "made": "2023-06-02",
+  "gazette": "2023-09-07",
+  "numac": 2023043348,
+  "document_start": "2023-09-17",
+  "document_end": null,
+  "in_force": "2023-09-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
