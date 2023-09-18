@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038600,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-16 tot vaststelling van de noodzaak tot verplichte wijziging van de ligging van de installaties voor het vervoer van aardgas door middel van een leiding van de nv Fluxys Belgium met codificatie 3.41530 genaamd “Gent (Sint-Amandsberg) - Destelbergen (Scheldekant)” onder vervoersvergunning A323-3900A van 15 september 2014 en van de twee daarmee verbonden glasvezelkabels die ernaast liggen in het openbaar domein op het grondgebied van de gemeente Destelbergen en de stad Gent in de ondergrond van de Scheldekant, voor een fiets- en voetgangersbrug die daar wordt gebouwd en die ingrepen vereist aan de waterweg en het jaagpad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038600/VolledigDocument?datum=2023-09-18",
+  "source_sha256": "ddf84f4f173b6a2635a3aeab3a3d436fe92462cd705abc635005ac04f911aa40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038600&param=informatie",
+  "as_of": "2023-09-18",
+  "made": "2023-06-16",
+  "gazette": "2023-09-08",
+  "numac": 2023043645,
+  "document_start": "2023-09-18",
+  "document_end": null,
+  "in_force": "2023-09-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
