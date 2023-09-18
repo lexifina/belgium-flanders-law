@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038552,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-23 tot herverdeling van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038552/VolledigDocument?datum=2023-09-18",
+  "source_sha256": "f640e92843d6c5e550bd234e6c6d63afbb6d8e493b7c4e46accf00b49d63e358",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038552&param=informatie",
+  "as_of": "2023-09-18",
+  "made": "2023-06-23",
+  "gazette": "2023-09-08",
+  "numac": 2023043364,
+  "document_start": "2023-09-18",
+  "document_end": null,
+  "in_force": "2023-09-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
