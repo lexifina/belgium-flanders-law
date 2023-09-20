@@ -63,7 +63,7 @@ Grote ondernemingen, als gedefinieerd punt 36 van de richtsnoeren van de Europes
 ### ART 4.
 
 De exploitant komt in aanmerking voor een stopzettingsvergoeding als vermeld in artikel 2, 1°, van dit besluit, als al de volgende voorwaarden zijn vervuld:<br>
-1° de exploitatie waartoe de stal behoort waarvoor de stopzettingsvergoeding wordt aangevraagd, heeft een impactscore die hoger dan 0,5% is;&nbsp;<br>
+1° de exploitatie waartoe de stal behoort waarvoor de stopzettingsvergoeding wordt aangevraagd, heeft een impactscore die hoger dan 0,025% is;&nbsp;<br>
 2° op het moment van de indiening van de aanvraag voor de stopzettingsvergoeding is het houden van varkens nog niet stopgezet en is er nog niet gestart met de sloopwerken;<br>
 3° de productiecapaciteit van de stal in kwestie is gedurende vijf jaar vóór de indiening van de aanvraag van de stopzettingsvergoeding onafgebroken benut conform punt 426 van de richtsnoeren, vermeld in artikel 3;<br>
 4° de exploitatie in kwestie beschikt over de vereiste vergunningen en die vergunningen zijn niet vervallen, geschorst of opgeheven op het moment van de aanvraag;<br>
