@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038763,
+  "title": "Besluit van de Vlaamse Regering van 2023-08-31 tot wijziging van het besluit van de Vlaamse Regering van 31 maart 2023 betreffende de vrijwillige stopzetting van varkensstallen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038763/VolledigDocument?datum=2023-09-20",
+  "source_sha256": "05dbcddc6bbfdd549fc5a5544c06b1bce92eb5989388b025219d3b947164f65b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038763&param=informatie",
+  "as_of": "2023-09-20",
+  "made": "2023-08-31",
+  "gazette": "2023-09-15",
+  "numac": 2023045089,
+  "document_start": "2023-09-20",
+  "document_end": null,
+  "in_force": "2023-09-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
