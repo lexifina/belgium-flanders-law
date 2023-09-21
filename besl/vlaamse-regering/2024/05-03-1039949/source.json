@@ -2,16 +2,16 @@
   "codex_id": 1039949,
   "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot wijziging van diverse besluiten van de sectorale landbouw- en zeevisserijregelgeving",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039949/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "d573be1709d333ee992c03ce97d09272b808a3449809b9abf49cbcfe8e4dd256",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039949/VolledigDocument?datum=2023-09-21",
+  "source_sha256": "f57386cbc17d6981c2c37e4df257c264cec3c8aacbd664378e469f5f84b3ab36",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039949&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-09-21",
   "made": "2024-05-03",
   "gazette": "2024-07-31",
   "numac": 2024006963,
   "document_start": "2024-08-10",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-21; future article versions excluded; article text as the API gives it"
 }

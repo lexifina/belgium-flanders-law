@@ -33,3 +33,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel 2, lid 2, van hetzelfde besluit wordt punt 6° vervangen door wat volgt:<br>
 “6° het niet-nakomen van de verplichtingen om gegevens met betrekking tot visserijactiviteiten te registreren, op te slaan en te melden, met inbegrip van gegevens die door volgsystemen voor vaartuigen moeten worden doorgestuurd, evenals gegevens over voorafgaande kennisgevingen, vangstaangiften, aangiften van overlading, visserijlogboeken, aangiften van aanlanding, weeggegevens, aangiften van overname, vervoersdocumenten of verkoopdocumenten.”.
+
+### ART 66/1.
+
+In artikel 26, §4, van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“In afwijking van het eerste lid is de financiële bijdrage vanuit EFMZVA voor een project als vermeld in dit artikel waarvan de steunaanvraag wordt ingediend voor 31 december 2023, begrensd op 480.000 euro per project.”.
