@@ -469,13 +469,23 @@ In juni 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/
 
 ### ART 16/15/1.
 
-Uiterlijk in maart 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+§1. Uiterlijk in maart 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat in juni 2022 conform artikel 16/14, tweede lid, aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat in juni 2022 conform artikel 16/14, tweede lid, aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+§2. Uiterlijk in september 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een voorschot op het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort is gelijk aan het bedrag dat in juni 2023 conform artikel 16/15, §2, aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
 
 ### ART 16/15/2.
 
-In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;
+§1. In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
+<br>
+§2. In juni 2024 wordt het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2023, aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+In september 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in september 2024 aan de administratie meegedeeld wordt en het bedrag dat de administratie op basis van artikel 16/15/1, §2, betaald heeft.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/15/1, §2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2023.
 
 ### ART 16/15/3.
 
