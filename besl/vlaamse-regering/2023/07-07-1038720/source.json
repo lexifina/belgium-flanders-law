@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038720,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-07 tot wijziging van het besluit van de Vlaamse Regering van 6 juni 2014 betreffende de landinrichting en tot bepaling van de datum van de inwerkingtreding van artikel 101 van het Instrumentendecreet van 26 mei 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038720/VolledigDocument?datum=2023-09-22",
+  "source_sha256": "dbdd907c46431a42a58eaafe6a9dc6075a558dfbc4667bc31091c05f540cd686",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038720&param=informatie",
+  "as_of": "2023-09-22",
+  "made": "2023-07-07",
+  "gazette": "2023-09-12",
+  "numac": 2023044696,
+  "document_start": "2023-09-22",
+  "document_end": null,
+  "in_force": "2023-09-22",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2023-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
