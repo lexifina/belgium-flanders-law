@@ -26,127 +26,216 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 Lijst van sociaalrechtelijke inspecteurs als vermeld in artikel 3<br>
 <br>
-De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:&nbsp;<br>
-&nbsp;
-<table border="1">
+De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>Aerts Lorette</td>
-			<td>Marchand Thalassa</td>
-		</tr>
-		<tr>
-			<td>Beckers Mieke</td>
-			<td>Mariën Lieven</td>
-		</tr>
-		<tr>
-			<td>Botteldoorn Kristof</td>
-			<td>Martens Evi</td>
-		</tr>
-		<tr>
-			<td>Buysse Jan</td>
-			<td>Matthys David</td>
-		</tr>
-		<tr>
-			<td>Caestecker Nicky</td>
-			<td>Mertens Laura</td>
-		</tr>
-		<tr>
-			<td>Carlier Sofie</td>
-			<td>Mikaeli Hewa</td>
-		</tr>
-		<tr>
-			<td>Cauwels Koen</td>
-			<td>Nolens Farah</td>
-		</tr>
-		<tr>
-			<td>Chaïbi Abdellah</td>
-			<td>Nollet Bart</td>
-		</tr>
-		<tr>
-			<td>Costermans Cornelia</td>
-			<td>Paternoster Johanna</td>
-		</tr>
-		<tr>
-			<td>Crals Myriam</td>
-			<td>Peeraer Hans</td>
-		</tr>
-		<tr>
-			<td>Cretskens Luc</td>
-			<td>Rossie Thomas</td>
-		</tr>
-		<tr>
-			<td>Cuypers Ines</td>
-			<td>Schietecatte Maarten</td>
-		</tr>
-		<tr>
-			<td>De Saedeleir Inge</td>
-			<td>Schoeters Patrice</td>
-		</tr>
-		<tr>
-			<td>De Schaepmeester Sybille</td>
-			<td>Schouteet Nathalie</td>
-		</tr>
-		<tr>
-			<td>De Wit Jurgen</td>
-			<td>Segers Tom</td>
-		</tr>
-		<tr>
-			<td>Decraene Evelien</td>
-			<td>Smits Elke</td>
-		</tr>
-		<tr>
-			<td>Dehondt Eric</td>
-			<td>Tanghe Katlijn</td>
-		</tr>
-		<tr>
-			<td>Dhondt Nathalie</td>
-			<td>Van der Velde Petra</td>
-		</tr>
-		<tr>
-			<td>Dumeez Nele</td>
-			<td>Van Duppen Nick</td>
-		</tr>
-		<tr>
-			<td>Feremans David</td>
-			<td>Van Neygen Elke</td>
-		</tr>
-		<tr>
-			<td>Gijsel Lize</td>
-			<td>Van Osselaer Koenraad</td>
-		</tr>
-		<tr>
-			<td>Haerinck Frank</td>
-			<td>Van Parys Willem</td>
-		</tr>
-		<tr>
-			<td>Haerinck Jana</td>
-			<td>Vandaele Chris</td>
-		</tr>
-		<tr>
-			<td>Herman Katrien</td>
-			<td>Vandenameele Vincent</td>
-		</tr>
-		<tr>
-			<td>Hooft Helen</td>
-			<td>Vandenbussche Stefanie</td>
-		</tr>
-		<tr>
-			<td>Jacobs Pascal</td>
-			<td>Vanhove Bianca</td>
-		</tr>
-		<tr>
-			<td>Joosten Guy</td>
-			<td>Velghe Wim</td>
-		</tr>
-		<tr>
-			<td>Lambrechts Ann</td>
-			<td>Verhaegen Jelle</td>
-		</tr>
-		<tr>
-			<td>Lasure Sabien</td>
-			<td>Verstraaten Katty</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">
+			<table cellspacing="0" style="border-collapse:collapse; width:277px">
+				<tbody>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Aerts Lorette</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Beckers Mieke</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Botteldoorn Kristof</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Buysse Jan</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Caestecker Nicky</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Carlier Sofie</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Cauwels Koen</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Chaïbi Abdellah</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Costermans Cornelia</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Crals Myriam</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Cretskens Luc</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Cuypers Ines</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Saedeleir Inge</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Schaepmeester Sybille</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Smedt Monique</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Smet Deborah</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Wit Jurgen</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Decraene Evelien</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dehondt Eric</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dhondt Nathalie</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dumeez Nele</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Feremans David</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Gijsel Lize</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Haerinck Frank</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Haerinck Jana</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Herman Katrien</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Hooft Helen</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Jacobs Pascal</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Joosten Guy</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lambrechts Ann</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lasure Sabien</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">
+			<table cellspacing="0" style="border-collapse:collapse; width:266px">
+				<tbody>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:266px">
+						<table cellspacing="0" style="border-collapse:collapse; width:277px">
+							<tbody>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Marchand Thalassa</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Mariën Lieven</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Martens Evi</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Matthys David</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Mertens Laura</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Mikaeli Hewa</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Nolens Farah</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Nollet Bart</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Paternoster Johanna</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Peeraer Hans</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Rijnders Laura</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Rossie Thomas</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Schietecatte Maarten</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Schoeters Patrice</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Schouteet Nathalie</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Segers Tom</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Smits Elke</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Tanghe Katlijn</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van der Velde Petra</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van Duppen Nick</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van Neygen Elke</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van Osselaer Koenraad</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van Parys Willem</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vandaele Chris</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vandenameele Vincent</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vandenbussche Stefanie</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Velghe Wim</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Verhaegen Jelle</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Verstraaten Katty</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vossen Floriaan</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
