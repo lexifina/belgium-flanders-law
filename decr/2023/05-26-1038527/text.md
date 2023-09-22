@@ -117,6 +117,32 @@ In artikel 2.2.1 van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 20
 6° het opmaken van een meerwaarderapport als vermeld in artikel 2.6.10, §2, van de Vlaamse Codex Ruimtelijke Ordening;<br>
 7° het opmaken van een meerwaarderamingsrapport als vermeld in artikel 2.6.10, §2/1, van de Vlaamse Codex Ruimtelijke Ordening.”.
 
+### ART 101.
+
+Artikel 2.2.2 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 2.2.2. §1. Een landcommissie is samengesteld uit de volgende leden:<br>
+1° de voorzitter, die wordt voorgedragen door de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud;<br>
+2° de secretaris, die wordt voorgedragen door het agentschap;<br>
+3° een lid dat wordt voorgedragen door de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+4° een lid dat wordt voorgedragen door de Vlaamse minister, bevoegd voor de financiën en de begroting;<br>
+5° een lid dat wordt voorgedragen door de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+6° een lid dat wordt voorgedragen door de Vlaamse minister, bevoegd voor de openbare werken;<br>
+7° een lid dat deskundig is op het vlak van de waardebepaling van onroerende goederen en dat wordt voorgedragen door het Agentschap voor Natuur en Bos;<br>
+8° een lid dat deskundig is op het vlak van de waardebepaling van onroerende goederen en dat wordt voorgedragen door het Departement Landbouw en Visserij.<br>
+<br>
+De Vlaamse Regering kan de landcommissies uitbreiden met maximaal drie leden.<br>
+<br>
+Voor de leden, vermeld in het eerste en tweede lid, worden op dezelfde wijze plaatsvervangende leden aangewezen.<br>
+<br>
+De leden en de plaatsvervangende leden van de landcommissies zijn personeelslid bij de Vlaamse administratie. De voorzitter, vermeld in het eerste lid, 1°, is een personeelslid of, op voorwaarde van een bijzondere motivering, een gewezen personeelslid bij de Vlaamse administratie.<br>
+<br>
+De voorzitter van de vijf landcommissies is altijd dezelfde persoon. De plaatsvervangende voorzitter van de vijf landcommissies is altijd dezelfde persoon.<br>
+<br>
+§2. De Vlaamse Regering benoemt de leden en de plaatsvervangende leden van de landcommissies.<br>
+<br>
+§3. De Vlaamse Regering stelt nadere regels vast voor de werking, de organisatie en de taken van de landcommissies.”.
+
 ### ART 102.
 
 Artikel 2.2.4 van hetzelfde decreet wordt vervangen door wat volgt:<br>
