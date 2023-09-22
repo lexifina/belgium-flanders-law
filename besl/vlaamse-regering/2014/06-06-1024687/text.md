@@ -40,7 +40,19 @@ b) een rechtspersoon die als hoofdactiviteit en als doel het uitbaten van een la
 
 ### ART. 1.2.1.1.
 
-<P>Voor de volgende taken die het agentschap uitoefent ter voorbereiding of ter   uitvoering van een inrichtingsnota of een beheervisie overeenkomstig de   artikelen 2.1.7, eerste lid, 2.1.10, eerste lid, en artikel 4.2.8 van het   decreet van 28 maart 2014, worden werkingsmiddelen aangerekend conform artikel   1.2.1.2 en 1.2.1.3:<BR>1° de opmaak van inrichtingsnota's, voorbereidende   studies, beheervisies en procesbegeleiding;<BR>2° de uitvoering van   inrichtingswerken en het vestigen van erfdienstbaarheden;<BR>3° het sluiten,   uitbetalen en opvolgen van beheerovereenkomsten en het uitbetalen en opvolgen   van dienstenvergoedingen;<BR>4° de uitvoering van taken bij vrijwillige   herverkaveling, als dat instrument deel uitmaakt van een vastgestelde   inrichtingsnota;<BR>5° de uitvoering van taken voor de landcommissie ter   uitvoering van de volgende instrumenten:<BR>a) de herverkaveling uit kracht van   wet;<BR>b) de herverkaveling uit kracht van wet met planologische ruil;<BR>c) de   vergoeding voor waardeverlies van gronden;<BR>d) de vrijwillige   bedrijfsverplaatsing, bedrijfsstopzetting en bedrijfsreconversie;<BR>6° de   uitoefening van een recht van voorkoop, de koopplicht en het inzetten van een   lokale grondenbank.<BR></P>  <P>De Vlaamse Regering kan de hoogte van de werkingsmiddelen, vermeld in het   eerste lid, vaststellen.<BR></P>
+<p>Voor de volgende taken die het agentschap uitoefent ter voorbereiding of ter uitvoering van een inrichtingsnota of een beheervisie overeenkomstig de artikelen 2.1.7, eerste lid, 2.1.10, eerste lid, en artikel 4.2.8 van het decreet van 28 maart 2014, worden werkingsmiddelen aangerekend conform artikel 1.2.1.2 en 1.2.1.3:<br>
+1° de opmaak van inrichtingsnota's, voorbereidende studies, beheervisies en procesbegeleiding;<br>
+2° de uitvoering van inrichtingswerken en het vestigen van erfdienstbaarheden;<br>
+3° het sluiten, uitbetalen en opvolgen van beheerovereenkomsten en het uitbetalen en opvolgen van dienstenvergoedingen;<br>
+4° de uitvoering van taken bij vrijwillige herverkaveling, als dat instrument deel uitmaakt van een vastgestelde inrichtingsnota;<br>
+5° de uitvoering van taken voor de landcommissie ter uitvoering van de volgende instrumenten:<br>
+a) de herverkaveling uit kracht van wet;<br>
+b) de herverkaveling uit kracht van wet met planologische ruil;<br>
+c) de vergoeding voor waardeverlies van gronden;<br>
+d) de vrijwillige bedrijfsverplaatsing, bedrijfsstopzetting en bedrijfsreconversie;<br>
+6° de uitoefening van een recht van voorkoop, een recht van voorkeur, de koopplicht en het inzetten van een lokale grondenbank.</p>
+
+<p>De Vlaamse Regering kan de hoogte van de werkingsmiddelen, vermeld in het eerste lid, vaststellen.</p>
 
 ### ART. 1.2.1.2.
 
@@ -205,6 +217,15 @@ A = B + C - D, waarbij:<br>
 <P>&nbsp;Het landinrichtingsplan of de inrichtingsnota bevat de zones met de   kadastrale gegevens van de percelen waarop het recht van voorkoop aangeboden   moet worden, alsook de termijn waarin het recht van voorkoop geldt.<BR></P>  <P>De inwerkingtreding van het recht van voorkoop wordt bekendgemaakt in het   Belgisch Staatsblad conform de bepalingen van artikel 3.3.1.6, 4.2.1.6, § 2,   artikel 4.2.2.6, § 2 of artikel 4.2.3.6, § 2 van dit besluit.<BR></P>  <P>De termijn waarin het recht van voorkoop geldt, gaat in bij de   inwerkingtreding van het recht van voorkoop. Na het verstrijken van die termijn   kan het recht van voorkoop niet meer uitgeoefend worden, en hoeft de   instrumenterende ambtenaar het recht van voorkoop niet meer aan te   bieden.<BR></P>
 
 ## [Afdeling 1/1 Recht van voorkeur (ing. BVR 7 juli 2023, art. 2, I: 22 september 2023]
+
+### ART 2.1.3.1/1.
+
+Het landinrichtingsplan of de inrichtingsnota die de Vlaamse Regering vaststelt conform artikel 4.2.1.6 van dit besluit, bevat de zones met de kadastrale gegevens van de percelen waarop het recht van voorkeur, vermeld in artikel 2.1.66/1 van het decreet van 28 maart 2014, geldt, en ook de termijn waarin het recht van voorkeur geldt.<br>
+<br>
+De kadastrale gegevens van de percelen waarop het recht van voorkeur geldt en de termijn waarin het recht van voorkeur geldt, worden bekendgemaakt in het Belgisch Staatsblad conform artikel 3.3.1.6 en 4.2.1.6, §2.<br>
+<br>
+Nadat de termijn waarin het recht van voorkeur geldt, is verstreken, kan het recht van voorkeur niet meer uitgeoefend worden en hoeft het recht van voorkeur niet meer worden aangeboden.<br>
+&nbsp;
 
 ## Afdeling 2 Herverkaveling uit kracht van wet
 
@@ -444,7 +465,19 @@ In afwijking van het zesde lid kan het percentage, vermeld in het zesde lid, met
 
 ### ART. 2.2.1.1.
 
-<P>Binnen de grenzen van de provincie in kwestie voert de landcommissie de door   haar te vervullen opdrachten uit. Elke landcommissie wordt genoemd naar de   provincie in kwestie.<BR></P>  <P>Als het project, plan of programma of het landinrichtingsproject betrekking   heeft op verschillende provincies, voert de landcommissie van de provincie   waarin het grootste deel van het project, plan of programma of het   landinrichtingsproject ligt, de door haar te vervullen opdrachten uit.<BR></P>  <P>De landcommissie kan voor het vervullen van haar opdrachten het advies van   deskundigen vragen.<BR></P>  <P>De minister richt de landcommissies op en benoemt de leden en   plaatsvervangende leden van de landcommissies.<BR></P>
+<p>Binnen de grenzen van de provincie in kwestie voert de landcommissie de door haar te vervullen opdrachten uit. Elke landcommissie wordt genoemd naar de provincie in kwestie.</p>
+
+<p>Als het project, plan of programma of het landinrichtingsproject betrekking heeft op verschillende provincies, voert de landcommissie van de provincie waarin het grootste deel van het project, plan of programma of het landinrichtingsproject ligt, de door haar te vervullen opdrachten uit.</p>
+
+<p>De landcommissie kan voor het vervullen van haar opdrachten het advies van deskundigen vragen.</p>
+
+<p>De minister richt de landcommissies op en benoemt de leden en plaatsvervangende leden van de landcommissies.<br>
+<br>
+De landcommissies worden, conform artikel 2.2.2, §1, tweede lid van het decreet van 28 maart 2014, uitgebreid met de volgende leden:<br>
+1° een lid dat deskundig is op het vlak van de waardebepaling van onroerende goederen, voorgedragen door het Departement Financiën en Begroting, vermeld in artikel 19, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° een lid dat deskundig &nbsp;is op het vlak van de waardebepaling van onroerende goederen, voorgedragen door het Agentschap Innoveren en Ondernemen, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen;<br>
+3° een lid dat deskundig is op het vlak van de waardebepaling van onroerende goederen, voorgedragen door Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen.<br>
+&nbsp;</p>
 
 ### ART. 2.2.1.2.
 
@@ -546,7 +579,27 @@ Het Departement Omgeving bezorgt de volgende stukken aan de minister:<br>
 
 ### ART. 3.3.1.6.
 
-<P>Het besluit tot vaststelling van het landinrichtingsplan wordt door het   agentschap bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de   vaststelling als de inzet van een of meer van de volgende instrumenten mogelijk   wordt gemaakt:<BR>1° de herverkaveling uit kracht van wet;<BR>2° het recht van   voorkoop;<BR>3° de inrichtingswerken uit kracht van wet;<BR>4° de   erfdienstbaarheden tot openbaar nut;<BR></P>  <P>Het besluit tot vaststelling van het landinrichtingsplan bevat ten minste de   volgende gegevens:<BR>1° als herverkaveling uit kracht van wet als instrument is   opgenomen in het landinrichtingsplan: de bepaling over de duur van   jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart   2014, met aanduiding van de kadastrale gegevens van de percelen waar die   bepaling geldt;<BR>2° als recht van voorkoop als instrument is opgenomen in het   landinrichtingsplan: de kadastrale gegevens van de percelen waarop het recht van   voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de   vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse   Grondenbank;<BR>3° als inrichtingswerken uit kracht van wet als instrument zijn   opgenomen in het landinrichtingsplan: de kadastrale gegevens van de percelen   waarop inrichtingswerken uit kracht van wet worden uitgevoerd, met de   beschrijving van de uit te voeren werken;<BR>4° als de vestiging van   erfdienstbaarheden van openbaar nut als instrument is opgenomen in het   landinrichtingsplan en die erfdienstbaarheid niet gericht is op de   instandhouding van inrichtingswerken uit kracht van wet: de kadastrale gegevens   van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd, met   de beschrijving van de erfdienstbaarheid die wordt gevestigd.<BR></P>  <P>Het landinrichtingsplan treedt in werking veertien dagen na de bekendmaking   van het besluit tot vaststelling van het landinrichtingsplan.<BR></P>  <P>In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het   tweede lid, 2°, uitwerking vanaf het moment, vermeld in artikel 10 van het   decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten.<BR></P>
+<p>Het besluit tot vaststelling van het landinrichtingsplan wordt door het agentschap bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de vaststelling als de inzet van een of meer van de volgende instrumenten mogelijk wordt gemaakt:<br>
+1° de herverkaveling uit kracht van wet;<br>
+2° het recht van voorkoop;<br>
+3° de inrichtingswerken uit kracht van wet;<br>
+4° de erfdienstbaarheden tot openbaar nut;<br>
+5° het recht van voorkeur.<br>
+<br>
+Het besluit tot vaststelling van het landinrichtingsplan bevat ten minste de volgende gegevens:<br>
+1° als herverkaveling uit kracht van wet als instrument is opgenomen in het landinrichtingsplan: de bepaling over de duur van jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart 2014, met aanduiding van de kadastrale gegevens van de percelen waar die bepaling geldt;<br>
+2° als recht van voorkoop als instrument is opgenomen in het landinrichtingsplan: de kadastrale gegevens van de percelen waarop het recht van voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse Grondenbank;<br>
+3° als inrichtingswerken uit kracht van wet als instrument zijn opgenomen in het landinrichtingsplan: de kadastrale gegevens van de percelen waarop inrichtingswerken uit kracht van wet worden uitgevoerd, met de beschrijving van de uit te voeren werken;<br>
+4° als de vestiging van erfdienstbaarheden van openbaar nut als instrument is opgenomen in het landinrichtingsplan en die erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd, met de beschrijving van de erfdienstbaarheid die wordt gevestigd;<br>
+5° als recht van voorkeur als instrument is opgenomen in het landinrichtingsplan:&nbsp;<br>
+a) de kadastrale gegevens van de percelen waarop het recht van voorkeur van toepassing is;<br>
+b) de termijn waarin het recht van voorkeur geldt;<br>
+c) de vermelding dat het recht van voorkeur aangeboden moet worden aan de Vlaamse Grondenbank.<br>
+<br>
+<br>
+Het landinrichtingsplan treedt in werking veertien dagen na de bekendmaking van het besluit tot vaststelling van het landinrichtingsplan.<br>
+<br>
+In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het tweede lid, 2°, uitwerking vanaf het moment, vermeld in artikel 10 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.</p>
 
 ### ART. 3.3.1.7.
 
@@ -870,7 +923,35 @@ De Vlaamse initiatiefnemer bezorgt de volgende stukken aan de   minister:<BR>1°
 
 ### ART. 4.2.1.6.
 
-<P>§ 1. De Vlaamse Regering stelt de inrichtingsnota vast en belast de   instanties en de personen, vermeld in de inrichtingsnota, met de uitvoering van   de inrichtingsnota of gedeelten ervan.<BR></P>  <P>§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de   Vlaamse initiatiefnemer bekendgemaakt in het Belgisch Staatsblad binnen zestig   dagen na de vaststelling als een of meerdere van de volgende instrumenten   mogelijk worden gemaakt:<BR>1° de herverkaveling uit kracht van wet;<BR>2° het   recht van voorkoop;<BR>3° de inrichtingswerken uit kracht van wet;<BR>4° de   erfdienstbaarheden tot openbaar nut.<BR></P>  <P>Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de   volgende gegevens:<BR>1° als herverkaveling uit kracht van wet als instrument is   opgenomen in de inrichtingsnota: de bepaling over de duur van   jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart   2014, met aanduiding van de kadastrale gegevens van de percelen waar die   bepaling geldt;<BR>2° als recht van voorkoop als instrument is opgenomen in de   inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van   voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de   vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse   Grondenbank;<BR>3° als inrichtingswerken uit kracht van wet als instrument zijn   opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop   inrichtingswerken uit kracht van wet worden uitgevoerd met de beschrijving van   de uit te voeren werken;<BR>4° als de vestiging van erfdienstbaarheden van   openbaar nut als instrument is opgenomen in de inrichtingsnota en die   erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit   kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden   tot openbaar nut worden gevestigd met de beschrijving van de erfdienstbaarheid   die wordt gevestigd.<BR></P>  <P>De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van   het besluit tot vaststelling van de inrichtingsnota.<BR></P>  <P>In afwijking van het derde lid, heeft het recht van voorkoop, vermeld in het   tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van   het decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten.<BR></P>  <P>§ 3. De Vlaamse initiatiefnemer bezorgt de inrichtingsnota en het besluit tot   vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het   Belgisch Staatsblad, aan:<BR>1° de instanties en personen die belast zijn met de   uitvoering van de inrichtingsnota;<BR>2° de gemeenten en de provincies waarop de   inrichtingsnota betrekking heeft;<BR>3° het agentschap.<BR></P>  <P>De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota   kunnen worden ingezien bij elke gemeente waarop de inrichtingsnota betrekking   heeft.<BR></P>
+<p>§ 1. De Vlaamse Regering stelt de inrichtingsnota vast en belast de instanties en de personen, vermeld in de inrichtingsnota, met de uitvoering van de inrichtingsnota of gedeelten ervan.</p>
+
+<p>§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de Vlaamse initiatiefnemer bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de vaststelling als een of meerdere van de volgende instrumenten mogelijk worden gemaakt:<br>
+1° de herverkaveling uit kracht van wet;<br>
+2° het recht van voorkoop;<br>
+3° de inrichtingswerken uit kracht van wet;<br>
+4° de erfdienstbaarheden tot openbaar nut;<br>
+5° het recht van voorkeur.<br>
+<br>
+Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de volgende gegevens:<br>
+1° als herverkaveling uit kracht van wet als instrument is opgenomen in de inrichtingsnota: de bepaling over de duur van jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart 2014, met aanduiding van de kadastrale gegevens van de percelen waar die bepaling geldt;<br>
+2° als recht van voorkoop als instrument is opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse Grondenbank;<br>
+3° als inrichtingswerken uit kracht van wet als instrument zijn opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop inrichtingswerken uit kracht van wet worden uitgevoerd met de beschrijving van de uit te voeren werken;<br>
+4° als de vestiging van erfdienstbaarheden van openbaar nut als instrument is opgenomen in de inrichtingsnota en die erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd met de beschrijving van de erfdienstbaarheid die wordt gevestigd;<br>
+5° als recht van voorkeur als instrument is opgenomen in de inrichtingsnota:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de kadastrale gegevens van de percelen waarop het recht van voorkeur van toepassing is;<br>
+b)&nbsp;&nbsp; &nbsp;de termijn waarin het recht van voorkeur geldt;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de vermelding dat het recht van voorkeur aangeboden moet worden aan de Vlaamse Grondenbank.<br>
+<br>
+De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van het besluit tot vaststelling van de inrichtingsnota.<br>
+<br>
+In afwijking van het derde lid, heeft het recht van voorkoop, vermeld in het tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.<br>
+<br>
+§ 3. De Vlaamse initiatiefnemer bezorgt de inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het Belgisch Staatsblad, aan:<br>
+1° de instanties en personen die belast zijn met de uitvoering van de inrichtingsnota;<br>
+2° de gemeenten en de provincies waarop de inrichtingsnota betrekking heeft;<br>
+3° het agentschap.<br>
+<br>
+De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota kunnen worden ingezien bij elke gemeente waarop de inrichtingsnota betrekking heeft.</p>
 
 ### ART. 4.2.1.7.
 
@@ -900,15 +981,43 @@ De Vlaamse initiatiefnemer bezorgt de volgende stukken aan de   minister:<BR>1°
 
 ### ART. 4.2.2.5.
 
-<P>Als de door het agentschap goedgekeurde ontwerp inrichtingsnota in de   toepassing voorziet van de instrumenten, vermeld in artikel 4.1.1, tweede lid,   van het decreet van 28 maart 2014, bezorgt het agentschap de ontwerp   inrichtingsnota aan de Vlaamse Regering. De Vlaamse Regering kan een machtiging   verlenen om de instrumenten, vermeld in artikel 4.1.1, tweede lid, van het   decreet van 28 maart 2014, toe te passen.<BR></P>  <P>Het agentschap brengt de deputatie op de hoogte van de beslissing van de   Vlaamse Regering.<BR></P>
+<p>Als de door het agentschap goedgekeurde ontwerp inrichtingsnota in de toepassing voorziet van de instrumenten, vermeld in artikel 4.1.1, tweede lid, van het decreet van 28 maart 2014, bezorgt het agentschap de ontwerp inrichtingsnota aan de Vlaamse Regering.&nbsp;<br>
+<br>
+Het agentschap brengt de deputatie op de hoogte van de beslissing van de Vlaamse Regering.</p>
 
 ### ART. 4.2.2.6.
 
-<P>§ 1. Na de goedkeuring van de ontwerp inrichtingsnota door het agentschap en,   in voorkomend geval, na de machtiging van de Vlaamse Regering stelt de   provincieraad de inrichtingsnota vast.<BR></P>  <P>§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de   provincieraad bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de   vaststelling als een of meer van de volgende instrumenten mogelijk worden   gemaakt:<BR>1° de herverkaveling uit kracht van wet;<BR>2° het recht van   voorkoop;<BR>3° de inrichtingswerken uit kracht van wet;<BR>4° de   erfdienstbaarheden tot openbaar nut.<BR></P>  <P>Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de   volgende gegevens:<BR>1° als herverkaveling uit kracht van wet als instrument is   opgenomen in de inrichtingsnota: de bepaling over de duur van   jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart   2014, met aanduiding van de kadastrale gegevens van de percelen waar die   bepaling geldt;<BR>2° als recht van voorkoop als instrument is opgenomen in de   inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van   voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de   vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse   Grondenbank;<BR>3° als inrichtingswerken uit kracht van wet als instrument zijn   opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop   inrichtingswerken uit kracht van wet worden uitgevoerd, met de beschrijving van   de uit te voeren werken;<BR>4° als de vestiging van erfdienstbaarheden van   openbaar nut als instrument is opgenomen in de inrichtingsnota en die   erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit   kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden   tot openbaar nut worden gevestigd met de beschrijving van de erfdienstbaarheid   die wordt gevestigd.<BR></P>  <P>De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van   het besluit tot vaststelling van de inrichtingsnota.<BR></P>  <P>In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het   tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van   het decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten.<BR></P>  <P>§ 3. De provincieraad bezorgt de inrichtingsnota en het besluit tot   vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het   Belgisch Staatsblad, aan:<BR>1° de instanties en de personen die belast zijn met   de uitvoering van de inrichtingsnota;<BR>2° de gemeenten waarop de   inrichtingsnota betrekking heeft;<BR>3° het agentschap.<BR></P>  <P>De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota   kunnen worden ingezien bij elke gemeente waarop de inrichtingsnota betrekking   heeft.<BR></P>
+<p>§ 1. Na de goedkeuring van de ontwerp inrichtingsnota door het agentschap stelt de provincieraad de inrichtingsnota vast.</p>
+
+<p>§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de provincieraad bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de vaststelling als een of meer van de volgende instrumenten mogelijk worden gemaakt:<br>
+1° de herverkaveling uit kracht van wet;<br>
+2° het recht van voorkoop;<br>
+3° de inrichtingswerken uit kracht van wet;<br>
+4° de erfdienstbaarheden tot openbaar nut.</p>
+
+<p>Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de volgende gegevens:<br>
+1° als herverkaveling uit kracht van wet als instrument is opgenomen in de inrichtingsnota: de bepaling over de duur van jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart 2014, met aanduiding van de kadastrale gegevens van de percelen waar die bepaling geldt;<br>
+2° als recht van voorkoop als instrument is opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse Grondenbank;<br>
+3° als inrichtingswerken uit kracht van wet als instrument zijn opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop inrichtingswerken uit kracht van wet worden uitgevoerd, met de beschrijving van de uit te voeren werken;<br>
+4° als de vestiging van erfdienstbaarheden van openbaar nut als instrument is opgenomen in de inrichtingsnota en die erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd met de beschrijving van de erfdienstbaarheid die wordt gevestigd.</p>
+
+<p>De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van het besluit tot vaststelling van de inrichtingsnota.</p>
+
+<p>In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.</p>
+
+<p>§ 3. De provincieraad bezorgt de inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het Belgisch Staatsblad, aan:<br>
+1° de instanties en de personen die belast zijn met de uitvoering van de inrichtingsnota;<br>
+2° de gemeenten waarop de inrichtingsnota betrekking heeft;<br>
+3° het agentschap.</p>
+
+<p>De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota kunnen worden ingezien bij elke gemeente waarop de inrichtingsnota betrekking heeft.</p>
 
 ### ART. 4.2.2.7.
 
-In afwijking van artikel 4.2.2.1 tot en met 4.2.2.6 kan de inrichtingsnota   geïntegreerd worden in de besluitvorming van het project, plan of programma als   voldaan is aan al de volgende voorwaarden:<BR>1° de inrichtingsnota, vermeld in   artikel 4.2.2 van het decreet van 28 maart 2014, vormt een herkenbaar onderdeel   in het project, plan of programma;<BR>2° in het kader van de besluitvorming van   het project, plan of programma, wordt de inrichtingsnota onderworpen aan een   openbaar onderzoek;<BR>3° in het kader van de besluitvorming van het project,   plan of programma wordt de inrichtingsnota vastgesteld door de provincieraad   nadat het agentschap de inrichtingsnota heeft goedgekeurd en, in voorkomend   geval nadat de Vlaamse Regering een machtiging heeft verleend om de   instrumenten, vermeld in artikel 4.1.1, tweede lid, van het decreet van 28 maart   2014, toe te passen.<BR>
+In afwijking van artikel 4.2.2.1 tot en met 4.2.2.6 kan de inrichtingsnota geïntegreerd worden in de besluitvorming van het project, plan of programma als voldaan is aan al de volgende voorwaarden:<br>
+1° de inrichtingsnota, vermeld in artikel 4.2.2 van het decreet van 28 maart 2014, vormt een herkenbaar onderdeel in het project, plan of programma;<br>
+2° in het kader van de besluitvorming van het project, plan of programma, wordt de inrichtingsnota onderworpen aan een openbaar onderzoek;<br>
+3° in het kader van de besluitvorming van het project, plan of programma wordt de inrichtingsnota vastgesteld door de provincieraad nadat het agentschap de inrichtingsnota heeft goedgekeurd.
 
 ### ART. 4.2.2.8.
 
@@ -934,15 +1043,43 @@ In afwijking van artikel 4.2.2.1 tot en met 4.2.2.6 kan de inrichtingsnota   ge�
 
 ### ART. 4.2.3.5.
 
-<P>Als de door het agentschap goedgekeurde ontwerp inrichtingsnota in de   toepassing voorziet van de instrumenten, vermeld in artikel 4.1.1, derde lid,   van het decreet van 28 maart 2014, bezorgt het agentschap de ontwerp   inrichtingsnota aan de Vlaamse Regering. De Vlaamse Regering kan een machtiging   verlenen om de instrumenten, vermeld in artikel 4.1.1, derde lid, van het   decreet van 28 maart 2014, toe te passen.<BR></P>  <P>Het agentschap brengt het college van burgemeester en schepenen op de hoogte   van de beslissing van de Vlaamse Regering<BR></P>
+<p>Als de door het agentschap goedgekeurde ontwerp inrichtingsnota in de toepassing voorziet van de instrumenten, vermeld in artikel 4.1.1, derde lid, van het decreet van 28 maart 2014, bezorgt het agentschap de ontwerp inrichtingsnota aan de Vlaamse Regering.&nbsp;<br>
+<br>
+Het agentschap brengt het college van burgemeester en schepenen op de hoogte van de beslissing van de Vlaamse Regering</p>
 
 ### ART. 4.2.3.6.
 
-<P>§ 1. Na de goedkeuring van de ontwerp inrichtingsnota door het agentschap en,   in voorkomend geval, na de machtiging van de Vlaamse Regering stelt de   gemeenteraad de inrichtingsnota vast.<BR></P>  <P>§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de   gemeenteraad bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de   vaststelling als een of meer van volgende instrumenten mogelijk worden   gemaakt:<BR>1° de herverkaveling uit kracht van wet;<BR>2° het recht van   voorkoop;<BR>3° de inrichtingswerken uit kracht van wet;<BR>4° de   erfdienstbaarheden tot openbaar nut.<BR></P>  <P>Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de   volgende gegevens:<BR>1° als herverkaveling uit kracht van wet als instrument is   opgenomen in de inrichtingsnota: de bepaling over de duur van   jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart   2014, met aanduiding van de kadastrale gegevens van de percelen waar die   bepaling geldt;<BR>2° als recht van voorkoop als instrument is opgenomen in de   inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van   voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de   vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse   Grondenbank;<BR>3° als inrichtingswerken uit kracht van wet als instrument zijn   opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop   inrichtingswerken uit kracht van wet worden uitgevoerd, met de beschrijving van   de uit te voeren werken;<BR>4° als de vestiging van erfdienstbaarheden van   openbaar nut als instrument is opgenomen in de inrichtingsnota en die   erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit   kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden   tot openbaar nut worden gevestigd, met de beschrijving van de erfdienstbaarheid   die wordt gevestigd.<BR></P>  <P>De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van   het besluit tot vaststelling van de inrichtingsnota.<BR></P>  <P>In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het   tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van   het decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten.<BR></P>  <P>§ 3. De gemeenteraad bezorgt de inrichtingsnota en het besluit tot   vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het   Belgisch Staatsblad, aan:<BR>1° de instanties en de personen die belast zijn met   de uitvoering van de inrichtingsnota;<BR>2° de provincie waarop de   inrichtingsnota betrekking heeft;<BR>3° het agentschap.<BR></P>  <P>De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota   kunnen worden ingezien bij de gemeente waarop de inrichtingsnota betrekking   heeft.<BR></P>
+<p>§ 1. Na de goedkeuring van de ontwerp inrichtingsnota door het agentschap stelt de gemeenteraad de inrichtingsnota vast.<br>
+<br>
+§ 2. Het besluit tot vaststelling van de inrichtingsnota wordt door de gemeenteraad bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de vaststelling als een of meer van volgende instrumenten mogelijk worden gemaakt:<br>
+1° de herverkaveling uit kracht van wet;<br>
+2° het recht van voorkoop;<br>
+3° de inrichtingswerken uit kracht van wet;<br>
+4° de erfdienstbaarheden tot openbaar nut.<br>
+<br>
+Het besluit tot vaststelling van de inrichtingsnota bevat ten minste de volgende gegevens:<br>
+1° als herverkaveling uit kracht van wet als instrument is opgenomen in de inrichtingsnota: de bepaling over de duur van jachtovereenkomsten, vermeld in artikel 2.1.36 van het decreet van 28 maart 2014, met aanduiding van de kadastrale gegevens van de percelen waar die bepaling geldt;<br>
+2° als recht van voorkoop als instrument is opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop het recht van voorkoop van toepassing is, de termijn waarin het recht van voorkoop geldt en de vermelding dat het recht van voorkoop aangeboden moet worden aan de Vlaamse Grondenbank;<br>
+3° als inrichtingswerken uit kracht van wet als instrument zijn opgenomen in de inrichtingsnota: de kadastrale gegevens van de percelen waarop inrichtingswerken uit kracht van wet worden uitgevoerd, met de beschrijving van de uit te voeren werken;<br>
+4° als de vestiging van erfdienstbaarheden van openbaar nut als instrument is opgenomen in de inrichtingsnota en die erfdienstbaarheid niet gericht is op de instandhouding van inrichtingswerken uit kracht van wet: de kadastrale gegevens van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd, met de beschrijving van de erfdienstbaarheid die wordt gevestigd.<br>
+<br>
+De inrichtingsnota treedt in werking veertien dagen na de bekendmaking van het besluit tot vaststelling van de inrichtingsnota.<br>
+<br>
+In afwijking van het derde lid heeft het recht van voorkoop, vermeld in het tweede lid, 2°, echter uitwerking vanaf het moment, vermeld in artikel 10 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.<br>
+<br>
+§ 3. De gemeenteraad bezorgt de inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota, voorafgaandelijk aan de bekendmaking in het Belgisch Staatsblad, aan:<br>
+1° de instanties en de personen die belast zijn met de uitvoering van de inrichtingsnota;<br>
+2° de provincie waarop de inrichtingsnota betrekking heeft;<br>
+3° het agentschap.<br>
+<br>
+De inrichtingsnota en het besluit tot vaststelling van de inrichtingsnota kunnen worden ingezien bij de gemeente waarop de inrichtingsnota betrekking heeft.</p>
 
 ### ART. 4.2.3.7.
 
-In afwijking van artikel 4.2.3.1 tot en met 4.2.3.6 van dit besluit kan de   inrichtingsnota geïntegreerd worden in de besluitvorming van het project, plan   of programma als voldaan is aan al de volgende voorwaarden:<BR>1° de   inrichtingsnota, vermeld in artikel 4.2.2 van het decreet van 28 maart 2014,   vormt een herkenbaar onderdeel in het project, plan of programma;<BR>2° in het   kader van de besluitvorming van het project, plan of programma, wordt de   inrichtingsnota onderworpen aan een openbaar onderzoek;<BR>3° in het kader van   de besluitvorming van het project, plan of programma wordt de inrichtingsnota   vastgesteld door de gemeenteraad nadat het agentschap de inrichtingsnota heeft   goedgekeurd, en in voorkomend geval, nadat de Vlaamse Regering een machtiging   heeft verleend om de instrumenten, vermeld in artikel 4.1.1, derde lid, van het   decreet van 28 maart 2014, toe te passen.<BR>
+In afwijking van artikel 4.2.3.1 tot en met 4.2.3.6 van dit besluit kan de inrichtingsnota geïntegreerd worden in de besluitvorming van het project, plan of programma als voldaan is aan al de volgende voorwaarden:<br>
+1° de inrichtingsnota, vermeld in artikel 4.2.2 van het decreet van 28 maart 2014, vormt een herkenbaar onderdeel in het project, plan of programma;<br>
+2° in het kader van de besluitvorming van het project, plan of programma, wordt de inrichtingsnota onderworpen aan een openbaar onderzoek;<br>
+3° in het kader van de besluitvorming van het project, plan of programma wordt de inrichtingsnota vastgesteld door de gemeenteraad nadat het agentschap de inrichtingsnota heeft goedgekeurd.
 
 ### ART. 4.2.3.8.
 
