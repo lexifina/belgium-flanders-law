@@ -2,16 +2,16 @@
   "codex_id": 1037753,
   "title": "Decreet van 2022-12-02 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037753/VolledigDocument?datum=2023-08-21",
-  "source_sha256": "5138c6695df3033205ef14eb36dd4f9a9a0e07cb089b23218c820d729d0c3ef9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037753/VolledigDocument?datum=2023-09-24",
+  "source_sha256": "457752ddb347f9a8b009c72a6dbb4e21dd0f499cbf0e404ab4de67c1d534ca23",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037753&param=informatie",
-  "as_of": "2023-08-21",
+  "as_of": "2023-09-24",
   "made": "2022-12-02",
   "gazette": "2022-12-14",
   "numac": 2022034593,
   "document_start": "2022-12-15",
   "document_end": null,
-  "in_force": "2023-08-21",
+  "in_force": "2023-09-24",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2023-08-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-24; future article versions excluded; article text as the API gives it"
 }
