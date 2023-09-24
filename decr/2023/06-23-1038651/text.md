@@ -476,6 +476,11 @@ De besluiten die krachtens dit artikel worden vastgesteld, worden geacht nooit g
 In artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018 wordt punt f) vervangen door wat volgt:<br>
 “f) de interlokale onderwijsvereniging, vermeld in het decreet van 28 november 2008 betreffende de interlokale onderwijsvereniging (ILOV);”.
 
+### ART 55.
+
+In artikel I.4 van hetzelfde decreet wordt een punt 7°/1 ingevoegd, dat luidt als volgt:<br>
+“7°/1 Datagovernanceverordening: verordening (EU) 2022/868 van het Europees Parlement en de Raad van 30 mei 2022 betreffende Europese datagovernance en tot wijziging van Verordening (EU) 2018/1724 (Datagovernanceverordening);”.
+
 ## Afdeling 2. Wijzigingen van hoofdstuk 1 van titel II, wat betreft de communicatie tussen burgers en de overheid
 
 ### ART 56.
@@ -607,6 +612,10 @@ In artikel II.62/8 van hetzelfde decreet, ingevoegd bij het decreet van 2 juli 2
 2° aan de inleidende zin wordt de zinsnede “de overheidsinstanties, vermeld in artikel II.53, §1, 1° tot en met 4°, met uitzondering van onderwijsinstellingen, onderzoeksinstellingen en organisaties die onderzoek financieren.” toegevoegd;<br>
 3° punt 1° en 2° worden opgeheven.
 
+### ART 74.
+
+In artikel II.63, 4°, van hetzelfde decreet, gewijzigd bij het decreet van 2 juli 2021, worden de woorden “op basis waarvan de instantie kan oordelen of ze de nodige rechten heeft om het beoogde hergebruik voor commerciële of niet-commerciële doeleinden toe te staan” opgeheven.
+
 ### ART 75.
 
 In artikel II.64 van hetzelfde decreet, gewijzigd bij het decreet van 2 juli 2021, wordt de zinsnede “II.53, §1” vervangen door de zinsnede “II.62/8”.<br>
@@ -648,6 +657,92 @@ In hetzelfde decreet wordt voor artikel II.69, dat artikel II.69/1 wordt, een ni
 ### ART 83.
 
 In artikel II.72, eerste lid, van hetzelfde decreet wordt de zinsnede “II.53, §1” vervangen door de zinsnede “II.69”.
+
+### ART 84.
+
+In hetzelfde decreet wordt een hoofdstuk 4/1, dat bestaat uit artikel II.73/1 tot en met II.73/2, ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk 4/1. Hergebruik van bepaalde categorieën beschermde gegevens die in het bezit zijn van overheidsinstanties”.
+
+### ART 85.
+
+In hetzelfde decreet wordt in hoofdstuk 4/1, ingevoegd bij artikel 84, een artikel II.73/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/1. Dit hoofdstuk is van toepassing op de volgende overheidsinstanties:<br>
+1° de Vlaamse overheid;<br>
+2° de lokale overheden;<br>
+3° de instellingen met een publieke taak, wat hun publieke taak betreft;<br>
+4° de milieu-instanties wat hun milieuverantwoordelijkheden, -functies of -diensten betreft.<br>
+<br>
+In afwijking van het eerste lid is dit hoofdstuk niet van toepassing op de overheidsinstanties, vermeld in artikel 3, lid 2, van de Datagovernanceverordening.”.
+
+### ART 86.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/2. De overheidsinstanties, vermeld in artikel II.73/1, kunnen het hergebruik toestaan van de gegevens die in hun bezit zijn en die overeenkomstig artikel 3, lid 1, van de Datagovernanceverordening beschermd zijn op grond van:<br>
+1° het handelsgeheim, waaronder het bedrijfs- of beroepsgeheim;<br>
+2° het statistisch geheim;<br>
+3° de bescherming van de intellectuele eigendomsrechten van derden;<br>
+4° de bescherming van persoonsgegevens.<br>
+<br>
+In voorkomend geval is hoofdstuk II van de Datagovernanceverordening van toepassing.”.
+
+### ART 87.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/3. §1. De verzoeker tot hergebruik van gegevens, vermeld in artikel II.73/2, kan beroep instellen tegen:<br>
+1° een beslissing over een verzoek;<br>
+2° het uitblijven van een beslissing nadat de termijn waarin de beslissing over een verzoek moest worden genomen, vermeld in artikel 9, lid 1, van de Datagovernanceverordening, verstreken is.<br>
+<br>
+Hij stelt dat beroep in bij de beroepsinstantie, vermeld in artikel III.90.<br>
+<br>
+§2. De verzoeker dient het beroep in met een brief, met een e-mail of, in voorkomend geval, met een webformulier binnen een termijn van dertig kalenderdagen die ingaat op de dag nadat de beslissing verstuurd is als beroep wordt ingesteld tegen de beslissing over het verzoek.<br>
+<br>
+Als in de kennisgeving van de beslissing niet is vermeld dat beroep kan worden ingesteld bij de beroepsinstantie, vermeld in artikel III.90, binnen de voormelde termijn, start de termijn om een beroep in te dienen pas vier maanden na de kennisgeving.<br>
+<br>
+De termijn om beroep in te stellen neemt geen aanvang bij ontstentenis van een beslissing.<br>
+<br>
+§3. Het beroep bevat al de volgende informatie:<br>
+1° de voor- en achternaam van de verzoeker;<br>
+2° het adres van de verzoeker;<br>
+3° een afschrift van het oorspronkelijke verzoek;<br>
+4° een afschrift van de beslissing van de betrokken overheidsinstantie waartegen beroep wordt ingesteld, als er een beslissing is genomen.<br>
+<br>
+Als het beroep onvolledig is, wordt de behandelingstermijn, vermeld in artikel II.73/5, §1, opgeschort tot de beroepsinstantie in het bezit is van de vereiste informatie.”.
+
+### ART 88.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/4. De beroepsinstantie bevestigt de ontvangst van het beroep zo snel mogelijk en uiterlijk binnen tien kalenderdagen.<br>
+<br>
+De beroepsinstantie brengt de betrokken overheidsinstantie tegelijkertijd op de hoogte van het ingestelde beroep.”.
+
+### ART 89.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/5 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/5. §1. De beroepsinstantie spreekt zich uit over het beroep en brengt de aanvrager en de betrokken overheidsinstantie per brief, per e-mail of, in voorkomend geval, per webformulier binnen een termijn van dertig kalenderdagen op de hoogte van haar beslissing.<br>
+<br>
+§2. Als de beroepsinstantie oordeelt dat ze de aanvraag moeilijk tijdig kan toetsen aan de Datagovernanceverordening, deelt ze aan de indiener van het beroep mee dat de termijn van dertig kalenderdagen verlengd wordt tot een termijn van vijfenveertig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen van het uitstel.<br>
+<br>
+§3. Als het oorspronkelijke verzoek tot hergebruik is afgewezen omdat het kennelijk onredelijk is of op een te algemene wijze is geformuleerd, zonder dat de overheidsinstantie om specificatie of vervollediging heeft gevraagd, beschikt de beroepsinstantie zelf over de mogelijkheid om de verzoeker te vragen om zijn verzoek te specificeren of te vervolledigen. De termijn van dertig kalenderdagen, vermeld in paragraaf 1, begint in dat geval te lopen vanaf het moment dat de verzoeker zijn verzoek gespecificeerd of vervolledigd heeft.”.
+
+### ART 90.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/6 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/6. De overheidsinstantie, vermeld in artikel II.73/1, verricht, voor het individuele verzoek tot hergebruik, de nieuwe noodzakelijke bestuurshandelingen die in overeenstemming zijn met de elementen waarover de beroepsinstantie zich uitgesproken heeft, binnen vijftien kalenderdagen na de ontvangst van de beslissing van de beroepsinstantie.”.
+
+### ART 91.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk 4/1 een artikel II.73/7 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.73/7. Als er een beroep aanhangig wordt gemaakt, kan de beroepsinstantie alle bestuursdocumenten ter plaatse inzien of een afschrift ervan opvragen bij de betrokken overheidsinstantie.<br>
+<br>
+De beroepsinstantie kan alle betrokken partijen en deskundigen horen en de personeelsleden van de betrokken overheidsinstantie om extra inlichtingen vragen.”.
 
 ## Afdeling 6. Wijzigingen van hoofdstuk 3 van titel III, wat betreft het elektronische bestuurlijke gegevensverkeer
 
@@ -748,6 +843,10 @@ De Vlaamse Regering kan de instanties, vermeld in paragraaf 1, verplichten om ge
 In artikel III.90, eerste lid, 2°, wordt de zinsnede “II.69” vervangen door de zinsnede “II.69/1 en het hergebruik van gegevens als vermeld in artikel II.73/2”.
 
 ## HOOFDSTUK 5. Wijzigingen van het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap
+
+### ART 105.
+
+In artikel 5, §1, 2°, van het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap wordt tussen de woorden “niet verplicht” en de woorden “Een burger” de zin “Een datakluis kan geïdentificeerd worden aan de hand van het identificatienummer van het Rijksregister.” ingevoegd.
 
 ### ART 106.
 
