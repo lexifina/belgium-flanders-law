@@ -116,6 +116,7 @@ In dit decreet wordt verstaan onder:<br>
 5° bonus: de extra bezoldiging die toegekend is aan de lijnmanager, boven op het jaarsalaris, omdat de vooraf afgesproken doelstellingen behaald zijn;<br>
 6° centrale website van de Vlaamse overheid: het webplatform Vlaanderen.be;<br>
 7° burgers: alle natuurlijke personen, groeperingen van natuurlijke personen, rechtspersonen of groeperingen van rechtspersonen;<br>
+7°/1 Datagovernanceverordening: verordening (EU) 2022/868 van het Europees Parlement en de Raad van 30 mei 2022 betreffende Europese datagovernance en tot wijziging van Verordening (EU) 2018/1724 (Datagovernanceverordening);<br>
 8° gebruikers: burgers, andere overheidsinstanties, externe overheden of instellingen met een publieke taak, in de mate dat ze in contact staan met de overheidsinstanties bij de toepassing van wettelijke of reglementaire bepalingen;<br>
 9° jaarlijkse bezoldiging: het geïndexeerde jaarsalaris, inclusief toelagen en bonussen, maar uitgezonderd de sociale voordelen, voordelen van alle aard en onkostenvergoedingen;<br>
 10° jaarsalaris: het geïndexeerde jaarsalaris, exclusief toelagen en bonussen;<br>
@@ -923,7 +924,7 @@ De aanvraag tot hergebruik wordt ingediend met een brief, met een e-mail of, in 
 1° de voor- en achternaam van de aanvrager;<br>
 2° het adres van de aanvrager;<br>
 3° de informatie die nodig is om het gevraagde bestuursdocument te identificeren;<br>
-4° een beschrijving van het beoogde hergebruik op basis waarvan de instantie kan oordelen of ze de nodige rechten heeft om het beoogde hergebruik voor commerciële of niet-commerciële doeleinden toe te staan;<br>
+4° een beschrijving van het beoogde hergebruik;<br>
 5° de vorm waarin het bestuursdocument bij voorkeur ter beschikking wordt gesteld.<br>
 <br>
 Als de aanvraag wordt ingediend bij een overheidsinstantie die het bestuursdocument niet bezit, stuurt de overheidsinstantie de aanvraag zo snel mogelijk door naar de overheidsinstantie die het document vermoedelijk bezit. De aanvrager wordt daarvan onmiddellijk op de hoogte gebracht.
@@ -1060,6 +1061,72 @@ Als er een beroep aanhangig wordt gemaakt, kan de beroepsinstantie alle bestuurs
 De beroepsinstantie kan alle betrokken partijen en deskundigen horen en de personeelsleden van de betrokken overheidsinstantie om extra inlichtingen vragen.
 
 ## [HOOFDSTUK 4/1. Hergebruik van bepaalde categorieën beschermde gegevens die in het bezit zijn van overheidsinstanties (ing. decr. 23 juni 2023, art. 84, I: 24 september 2023)]
+
+### ART II.73/1.
+
+Dit hoofdstuk is van toepassing op de volgende overheidsinstanties:<br>
+1°&nbsp;&nbsp; &nbsp;de Vlaamse overheid;<br>
+2°&nbsp;&nbsp; &nbsp;de lokale overheden;<br>
+3°&nbsp;&nbsp; &nbsp;de instellingen met een publieke taak, wat hun publieke taak betreft;<br>
+4°&nbsp;&nbsp; &nbsp;de milieu-instanties wat hun milieuverantwoordelijkheden, -functies of -diensten betreft.<br>
+<br>
+In afwijking van het eerste lid is dit hoofdstuk niet van toepassing op de overheidsinstanties, vermeld in artikel 3, lid 2, van de Datagovernanceverordening.
+
+### ART II.73/2.
+
+De overheidsinstanties, vermeld in artikel II.73/1, kunnen het hergebruik toestaan van de gegevens die in hun bezit zijn en die overeenkomstig artikel 3, lid 1, van de Datagovernanceverordening beschermd zijn op grond van:<br>
+1°&nbsp;&nbsp; &nbsp;het handelsgeheim, waaronder het bedrijfs- of beroepsgeheim;<br>
+2°&nbsp;&nbsp; &nbsp;het statistisch geheim;<br>
+3°&nbsp;&nbsp; &nbsp;de bescherming van de intellectuele eigendomsrechten van derden;<br>
+4°&nbsp;&nbsp; &nbsp;de bescherming van persoonsgegevens.<br>
+<br>
+In voorkomend geval is hoofdstuk II van de Datagovernanceverordening van toepassing.
+
+### ART II.73/3.
+
+§1. De verzoeker tot hergebruik van gegevens, vermeld in artikel II.73/2, kan beroep instellen tegen:<br>
+1° &nbsp; een beslissing over een verzoek;<br>
+2° het uitblijven van een beslissing nadat de termijn waarin de beslissing over een verzoek moest worden genomen, vermeld in artikel 9, lid 1, van de Datagovernanceverordening, verstreken is.<br>
+<br>
+Hij stelt dat beroep in bij de beroepsinstantie, vermeld in artikel III.90.<br>
+<br>
+§2. De verzoeker dient het beroep in met een brief, met een e-mail of, in voorkomend geval, met een webformulier binnen een termijn van dertig kalenderdagen die ingaat op de dag nadat de beslissing verstuurd is als beroep wordt ingesteld tegen de beslissing over het verzoek.<br>
+<br>
+Als in de kennisgeving van de beslissing niet is vermeld dat beroep kan worden ingesteld bij de beroepsinstantie, vermeld in artikel III.90, binnen de voormelde termijn, start de termijn om een beroep in te dienen pas vier maanden na de kennisgeving.<br>
+<br>
+De termijn om beroep in te stellen neemt geen aanvang bij ontstentenis van een beslissing.<br>
+<br>
+§3. Het beroep bevat al de volgende informatie:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam van de verzoeker;<br>
+2°&nbsp;&nbsp; &nbsp;het adres van de verzoeker;<br>
+3°&nbsp;&nbsp; &nbsp;een afschrift van het oorspronkelijke verzoek;<br>
+4°&nbsp;&nbsp; &nbsp;een afschrift van de beslissing van de betrokken overheidsinstantie waartegen beroep wordt ingesteld, als er een beslissing is genomen.<br>
+<br>
+Als het beroep onvolledig is, wordt de behandelingstermijn, vermeld in artikel II.73/5, §1, opgeschort tot de beroepsinstantie in het bezit is van de vereiste informatie.
+
+### ART II.73/4.
+
+De beroepsinstantie bevestigt de ontvangst van het beroep zo snel mogelijk en uiterlijk binnen tien kalenderdagen.<br>
+<br>
+De beroepsinstantie brengt de betrokken overheidsinstantie tegelijkertijd op de hoogte van het ingestelde beroep.
+
+### ART II.73/5.
+
+§1. De beroepsinstantie spreekt zich uit over het beroep en brengt de aanvrager en de betrokken overheidsinstantie per brief, per e-mail of, in voorkomend geval, per webformulier binnen een termijn van dertig kalenderdagen op de hoogte van haar beslissing.<br>
+<br>
+§2. Als de beroepsinstantie oordeelt dat ze de aanvraag moeilijk tijdig kan toetsen aan de Datagovernanceverordening, deelt ze aan de indiener van het beroep mee dat de termijn van dertig kalenderdagen verlengd wordt tot een termijn van vijfenveertig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen van het uitstel.<br>
+<br>
+§3. Als het oorspronkelijke verzoek tot hergebruik is afgewezen omdat het kennelijk onredelijk is of op een te algemene wijze is geformuleerd, zonder dat de overheidsinstantie om specificatie of vervollediging heeft gevraagd, beschikt de beroepsinstantie zelf over de mogelijkheid om de verzoeker te vragen om zijn verzoek te specificeren of te vervolledigen. De termijn van dertig kalenderdagen, vermeld in paragraaf 1, begint in dat geval te lopen vanaf het moment dat de verzoeker zijn verzoek gespecificeerd of vervolledigd heeft.
+
+### ART II.73/6.
+
+De overheidsinstantie, vermeld in artikel II.73/1, verricht, voor het individuele verzoek tot hergebruik, de nieuwe noodzakelijke bestuurshandelingen die in overeenstemming zijn met de elementen waarover de beroepsinstantie zich uitgesproken heeft, binnen vijftien kalenderdagen na de ontvangst van de beslissing van de beroepsinstantie.
+
+### ART II.73/7.
+
+Als er een beroep aanhangig wordt gemaakt, kan de beroepsinstantie alle bestuursdocumenten ter plaatse inzien of een afschrift ervan opvragen bij de betrokken overheidsinstantie.<br>
+<br>
+De beroepsinstantie kan alle betrokken partijen en deskundigen horen en de personeelsleden van de betrokken overheidsinstantie om extra inlichtingen vragen.
 
 ## HOOFDSTUK 5. Klachten, meldingen en voorstellen
 
