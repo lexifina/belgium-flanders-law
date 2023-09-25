@@ -65,7 +65,8 @@ Het agentschap heeft de volgende taken:<br>
 13° een beleidsdomeinoverschrijdend juridisch kader voor de bestuurlijke handhaving van de georganiseerde criminaliteit ontwikkelen en implementeren;<br>
 14° beleidsdomeinoverschrijdende databanken en IT-toepassingen ontwikkelen en implementeren om de actoren te ondersteunen die bij justitie, de bestuurlijke en strafrechtelijke handhaving en de bestuursrechtspraak zijn betrokken;<br>
 15° het overleg met het College van procureurs-generaal, vermeld in het samenwerkingsakkoord van 7 januari 2014 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid, faciliteren, voorbereiden en opvolgen;<br>
-16° de gecoördineerde uitwisseling van gegevens met federale inlichtingen-, veiligheids- en politiediensten.
+16° de gecoördineerde uitwisseling van gegevens met federale inlichtingen-, veiligheids- en politiediensten;<br>
+17° het Vlaams Meldpunt voor Grensoverschrijdend Gedrag organiseren, in samenwerking met het Vlaams Mensenrechteninstituut, vermeld in artikel 4 van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut.
 
 ### ART 5.
 
