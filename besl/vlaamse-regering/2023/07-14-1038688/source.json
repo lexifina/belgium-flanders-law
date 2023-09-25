@@ -2,16 +2,16 @@
   "codex_id": 1038688,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de VIA-subsidie en de tegemoetkoming voor te bouwen, te renoveren, te verbeteren of aan te passen woning en tot wijziging van het besluit van de Vlaamse Regering van 17 december 2021 tot wijziging van verschillende besluiten over wonen, wat betreft de afbakening van de nieuwe werkingsgebieden en het recht op huursubsidie en huurpremie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038688/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "9a30f8672fb317b45326e888b37b76cfa316f6c4f7dc6c14643b843c694d41d1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038688/VolledigDocument?datum=2023-09-25",
+  "source_sha256": "c0110832491202703b15938c785e23b44c5c7e8d709057ab62f2322554b4d80c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038688&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-09-25",
   "made": "2023-07-14",
   "gazette": "2023-09-15",
   "numac": 2023044480,
   "document_start": "2023-09-25",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-25",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-09-25; future article versions excluded; article text as the API gives it"
 }
