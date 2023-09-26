@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038829,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-22 over de onbeschikbaarheid van het interne digitale dossierbehandelingssysteem in de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038829/VolledigDocument?datum=2023-09-26",
+  "source_sha256": "2b06e91daf6689bb123f1375a2161bbe00c23f55af03f5fe958ee28a3674f3ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038829&param=informatie",
+  "as_of": "2023-09-26",
+  "made": "2023-09-22",
+  "gazette": "2023-10-03",
+  "numac": 2023045854,
+  "document_start": "2023-09-26",
+  "document_end": null,
+  "in_force": "2023-09-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
