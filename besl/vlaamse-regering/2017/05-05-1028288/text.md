@@ -117,12 +117,12 @@ De projecten van kleinschalige zuivering, met uitzondering van individuele water
 De projecten voor de aanleg van een individuele waterzuiveringsinstallatie worden door de Vlaamse Milieumaatschappij beoordeeld om opgenomen te worden in het ontwerp van subsidiëringsprogramma op basis van de criteria, vermeld in artikel 32duodecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging evenals de volgende criteria:<br>
 1° de individuele waterzuiveringsinstallatie saneert huishoudelijk afvalwater, afkomstig van hoofdzakelijk vergunde gebouwen;<br>
 2° de individuele waterzuiveringsinstallatie wordt geplaatst na 1 januari 2008;<br>
-3° de individuele waterzuiveringsinstallatie wordt geïnstalleerd conform de bepalingen van artikel 6.2.2.1.1, § 2, artikel 6.2.2.1.2, § 1, en artikel 6.2.2.4.1 van titel II van VLAREM;<br>
-4° de individuele waterzuiveringsinstallatie is niet opgenomen op een eerder subsidiëringsprogramma, tenzij de gemotiveerde niet-plaatsing van de individuele waterzuiveringsinstallatie door de ambtelijke commissie is aanvaard.
+3° de individuele waterzuiveringsinstallatie wordt geïnstalleerd in het individueel te optimaliseren buitengebied of in een zone die niet is opgenomen in de zuiveringszones van het zoneringsplan. Individuele waterzuiveringsinstallaties in het centraal gebied, het collectief geoptimaliseerd buitengebied of het collectief te optimaliseren buitengebied komen in aanmerking voor opname in het ontwerp van subsidiëringsprogramma als de uitzondering op de aansluitplicht op riolering op basis van artikel 6.2.2.1.2, §1, van titel II van Vlarem aangetoond kan worden of als een herziening naar het individueel te optimaliseren buitengebied principieel is goedgekeurd door de Vlaamse Milieumaatschappij;<br>
+4° de individuele waterzuiveringsinstallatie is niet opgenomen op een eerder subsidiëringsprogramma, tenzij de gemotiveerde niet-plaatsing van de individuele waterzuiveringsinstallatie door de Vlaamse Milieumaatschappij is aanvaard.
 
 ### ART 8.
 
-De Vlaamse Milieumaatschappij maakt op basis van de ingediende voorstellen, rekening houdend met het beschikbare budget en na overleg met de rioolbeheerders, een subsidiëringsprogramma op. De projecten voor de aanleg van een individuele waterzuiveringsinstallatie worden door de Vlaamse Milieumaatschappij per subsidiëringsprogramma ondergebracht in één aanvraagdossier per rioolbeheerder.<br>
+De Vlaamse Milieumaatschappij maakt op basis van de ingediende voorstellen, rekening houdend met het beschikbare budget en na overleg met de rioolbeheerders, een subsidiëringsprogramma op.&nbsp;<br>
 <br>
 De criteria voor de opmaak van het subsidiëringsprogramma worden, in overeenstemming met de criteria, vermeld in artikel 2.6.1.3.1, § 2, artikel 2.6.1.2.2, § 1, tweede lid, artikel 2.6.1.2.2., § 2 en artikel 2.6.1.2.3 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, bepaald door de minister op voorstel van de Vlaamse Milieumaatschappij na overleg met de ambtelijke commissie en de bekkenbesturen, vermeld in artikel 1.5.3.1, eerste lid, van het voormelde decreet.<br>
 <br>
@@ -136,7 +136,7 @@ Het subsidiëringsprogramma wordt vastgesteld door de minister.
 
 ### ART 9.
 
-De gewestbijdrage, vermeld in artikel 2 en 3, wordt toegekend aan projecten die zijn opgenomen in het subsidiëringsprogramma en waarbij de procedure, vermeld in artikel 10 tot en met 23, wordt gevolgd. De ambtelijke commissie kan, als dat de voorspoedige realisatie van de rioleringsprojecten ten goede komt, gemotiveerde afwijkingen van de bepalingen, vermeld in artikel 19, eerste en tweede lid, aanvaarden.
+De gewestbijdrage, vermeld in artikel 2 en 3, wordt toegekend aan projecten die zijn opgenomen in het subsidiëringsprogramma en waarbij de procedure, vermeld in artikel 10 tot en met 23, wordt gevolgd. Afwijkingen van de procedurevolgorde kunnen alleen aanvaard worden als dat de voorspoedige realisatie van de rioleringsprojecten ten goede komt en als de publicatie niet plaatsgevonden heeft voor de goedkeuring van het voorontwerpdossier door de ambtelijke commissie.
 
 ## Afdeling 2 Het voorontwerpdossier
 
@@ -145,10 +145,10 @@ De gewestbijdrage, vermeld in artikel 2 en 3, wordt toegekend aan projecten die 
 Het voorontwerpdossier van een rioleringsproject bevat de volgende stukken:<br>
 1° een beschrijving van het toegepaste concept op het gebied van de afvoer van afvalwater en de bronmaatregelen voor hemelwater;<br>
 2° de verantwoordingsnota van het onmiddellijke en toekomstige aantal aan te sluiten inwonersequivalenten volgens de onderscheiden toestanden, vermeld in de code van goede praktijk;<br>
-3° een aanduiding van het geplande tracé op een stafkaart, een stratenatlas, een kadasterplan en het gewestplan, alsook een aanduiding van de leidingen van het project op een schema op basis van het uitvoeringsplan;<br>
+3° een aanduiding van de leidingen van het project op een schema op basis van het uitvoeringsplan;<br>
 4° een grondplan op schaal 1/500 van het leidingenproject, waarbij wordt aangegeven of de gegevens uit het hydraulisch plan, namelijk de hydronautstudie, stroken met de bestaande toestand. Op het plan wordt ook aangegeven of (geen) oppervlaktewateren, zoals grachten, beken, sloten en dergelijke, worden aangesloten en of het bronbeleid ten aanzien van verharde en onverharde oppervlakten maximaal is nagevolgd. Er wordt op het plan ook een onderscheid gemaakt tussen de gekende subsidieerbare en niet-subsidieerbare projectzones;<br>
 5° een hydraulische berekening conform de code van goede praktijk, inclusief een verantwoordingsnota over de toepassing van de bronmaatregelen voor hemelwater;<br>
-6° een aanduiding op de kadasterplannen van de erfdienstbaarheden en de vereiste grondinnemingen in functie van de rioleringswerken;<br>
+6° ...;<br>
 7° de globale kostenraming van de werken, opgesplitst in:<br>
 a) de kosten die in aanmerking komen voor een gewestbijdrage conform artikel 2;<br>
 b) de overige kosten van het project, inclusief wegenwerken;<br>
@@ -173,7 +173,7 @@ Het voorontwerpdossier voor een project van kleinschalige zuivering bevat de vol
 a) de kosten, verbonden aan de bouw en de verbetering van kleinschalige rioolwaterzuiveringsinstallaties, met uitzondering van de aanleg van individuele waterzuiveringsinstallaties;<br>
 b) de overige kosten van het project, inclusief wegenwerken;<br>
 9° een kostprijsanalyse van de optie kleinschalige waterzuivering in vergelijking met de optie aansluiting van het gecentraliseerde lozingspunt op een bovengemeentelijke rioolwaterzuiveringsinstallatie, rekening houdend met de afschrijvingstermijn van de onderdelen van de installatie;<br>
-10° een aanduiding van het geplande project op een stafkaart, stratenplan en gewestplan.<br>
+10° een grondplan op schaal 1/500, aangevuld met een overzichtsplan van de aansluitende riolering als die aansluitende riolering niet heraangelegd wordt.<br>
 <br>
 In het geval, vermeld in het eerste lid, 1°, wordt voor de aanduiding van de in de toekomst voorziene toename van de vuilvracht gebruikgemaakt van de onderscheiden toestanden, vermeld in de code van goede praktijk.
 
@@ -217,7 +217,7 @@ b) de overige posten van het project inclusief wegenwerken;<br>
 
 ### ART 16.
 
-Uiterlijk twee jaar na de kennisgeving van de goedkeuring van het voorontwerp door de ambtelijke commissie en voor hij de publicatie aanvat, dient de rioolbeheerder een aanbestedingsdossier in bij de Vlaamse Milieumaatschappij. Die termijn kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de rioolbeheerder, verlengd worden.<br>
+Na de kennisgeving van de goedkeuring van het voorontwerp door de ambtelijke commissie dient de rioolbeheerder een aanbestedingsdossier in bij de Vlaamse Milieumaatschappij.<br>
 <br>
 De Vlaamse Milieumaatschappij bezorgt binnen een termijn van zeven kalenderdagen na de ontvangst van het aanbestedingsdossier een exemplaar ervan aan de nv Aquafin.
 
@@ -235,7 +235,7 @@ Bij niet-conformiteit van het aanbestedingsdossier met het goedgekeurde voorontw
 
 ### ART 19.
 
-De kennisgeving aan de rioolbeheerder door de Vlaamse Milieumaatschappij van de goedkeuring van het aanbestedingsdossier geeft de rioolbeheerder het recht het werk te publiceren, te gunnen en uit te voeren.<br>
+De rioolbeheerder kan ervoor opteren om het werk al te publiceren, te gunnen en uit te voeren voor de kennisgeving van de goedkeuring van het aanbestedingsdossier door de Vlaamse Milieumaatschappij. De rioolbeheerder moet het project tijdens de verdere uitvoering steeds aanpassen aan de gemaakte opmerkingen.<br>
 <br>
 De rioolbeheerder bezorgt binnen dertig kalenderdagen na de kennisgeving van het aanvangsbevel van de werken een kopie ervan aan de Vlaamse Milieumaatschappij.
 
@@ -257,9 +257,11 @@ b) de overige kosten van het project, inclusief wegenwerken.
 
 ### ART 22.
 
-De rioolbeheerder dient het gunningsdossier, binnen dertig kalenderdagen na sluiting, in bij de Vlaamse Milieumaatschappij.<br>
+De rioolbeheerder dient het gunningsdossier, binnen dertig kalenderdagen na sluiting, in bij de Vlaamse Milieumaatschappij en uiterlijk binnen vijf jaar na de bekendmaking van het subsidiëringsprogramma.<br>
 <br>
-De Vlaamse Milieumaatschappij controleert binnen dertig kalenderdagen na de ontvangst van het gunningsdossier de correctheid van de opsplitsing van de meetstaat in de kosten die in aanmerking komen voor een gewestbijdrage, zoals bepaald bij de goedkeuring van het aanbestedingsdossier conform artikel 18, en de overige kosten van het project. De aldus gecontroleerde meetstaat vormt, al of niet aangepast, de basis voor de vastlegging van de gewestbijdrage.
+De Vlaamse Milieumaatschappij controleert binnen dertig kalenderdagen na de ontvangst van het gunningsdossier de correctheid van de opsplitsing van de meetstaat in de kosten die in aanmerking komen voor een gewestbijdrage, zoals bepaald bij de goedkeuring van het aanbestedingsdossier conform artikel 18, en de overige kosten van het project. De aldus gecontroleerde meetstaat vormt, al of niet aangepast, de basis voor de vastlegging van de gewestbijdrage.<br>
+<br>
+Bij overschrijding van de termijn van vijf jaar tussen de bekendmaking van het subsidiëringsprogramma, vermeld in het eerste lid en de indiening van het gunningsdossier daalt het subsidiepercentage waar de rioolbeheerder recht op heeft, met 5% per begonnen jaar na de voormelde termijn van vijf jaar, tenzij het gunningsdossier niet ingediend kon worden binnen de voormelde termijn door een beroepsprocedure in het kader van een omgevingsvergunning of een gerechtelijke procedure in het kader van grondverwerving. In dat geval wordt de termijn verlengd met de duurtijd van de procedure in kwestie. De rioolbeheerder bezorgt aan de Vlaamse milieumaatschappij de nodige bewijsstukken om de overschrijding van de voormelde termijn van vijf jaar te rechtvaardigen. De ambtelijke commissie beslist of de motivatie betreffende de overschrijding van de termijn van vijf jaar gegrond is.
 
 ### ART 23.
 
@@ -291,7 +293,7 @@ Het eindafrekeningsdossier bevat:<br>
 1° het proces-verbaal van voorlopige oplevering;<br>
 2° de cumulatieve eindstaat;<br>
 3° de eventuele verrekeningen, bijakten en bijwerken voor de subsidieerbare werken, alsook een verantwoording daarvoor;<br>
-4° de facturen van alle vorderingsstaten en alle betaalbewijzen;<br>
+4° een lijst met de vermelding van de factuurnummers van alle vorderingsstaten en de datum van de betaling per factuur door de begunstigde. De eigenlijke facturen en betaalbewijzen worden ter beschikking gehouden voor een eventuele controle;<br>
 5° een overzicht per vorderingsstaat, met vermelding van het bedrag, de eventuele herziening, de btw, de eventuele rafacties en de eventuele boetes;<br>
 6° een overzichtstabel van de gebruikte materialen en een overzicht van de afgeleverde attesten en keuringsverslagen;<br>
 7° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen;<br>
@@ -300,7 +302,7 @@ Het eindafrekeningsdossier bevat:<br>
 a) of het hemelwater van het gebouw wel of niet conform artikel 4.2.1.3, 5bis.15.5.4.3.2, 5bis.19.8.4.5.2 en 6.2.2.1.2, § 3, van titel II, van VLAREM afgekoppeld is;<br>
 b) in geval van niet-afkoppeling conform artikel 4.2.1.3, 5bis.15.5.4.3.2, 5bis.19.8.4.5.2 en 6.2.2.1.2, § 3, van titel II, van VLAREM de reden waarom niet afgekoppeld kon worden en in desbetreffend geval de stappen die de rioolbeheerder ondernomen heeft;<br>
 10° een as-builtplan met aanduiding van de uitgevoerde riolering in Lambert 72-coördinaten en TAW-peilen, en met aanduiding van de huisaansluitingen en de aard van het afgevoerde water per huisaansluiting;<br>
-11° een schematisch overzichtsplan met aanduiding van de subsidieerbare en niet-subsidieerbare projectzones.<br>
+11° de intekening van het uitgevoerde project in de AWIS-rioolinventaris. Dit is de rioolinventaris van AWIS, de Vlaamse gebiedsdekkende, gecentraliseerde infrastructuurdatabank ontwikkeld en beheerd door de Vlaamse Milieumaatschappij.<br>
 <br>
 § 2. De Vlaamse Milieumaatschappij bezorgt binnen zeven kalenderdagen na de ontvangst ervan een eindafrekeningsdossier aan de nv Aquafin voor advisering.<br>
 <br>
@@ -314,9 +316,7 @@ Als de kostprijs van de uitgevoerde subsidieerbare werken lager is dan de voor s
 
 ### ART 26.
 
-De gewestbijdrage wordt gedeeltelijk teruggevorderd ten belope van het deel van de bijdrage dat niet is aangewend voor het doel waarvoor ze is toegekend.<br>
-<br>
-De gewestbijdrage kan beperkt worden tot het voorschotbedrag als blijkt dat de procedure niet gevolgd werd en dat niet gebruikgemaakt werd van de mogelijkheid tot afwijking van de procedure.
+De gewestbijdrage wordt gedeeltelijk teruggevorderd ten belope van het deel van de bijdrage dat niet is aangewend voor het doel waarvoor ze is toegekend.
 
 ## HOOFDSTUK 6 Voorwaarden voor de toekenning van een gewestbijdrage voor de aanleg van individuele waterzuiveringsinstallaties
 
@@ -331,13 +331,13 @@ Uiterlijk een jaar na de bekendmaking door de Vlaamse Milieumaatschappij aan de 
 ### ART 29.
 
 Het subsidiedossier omvat:<br>
-1° een overzicht van de individuele waterzuiveringsinstallaties waarvoor een gewestbijdrage wordt aangevraagd, met vermelding van het adres, het kadastraal perceel, de datum van indienstneming en de kosten, verbonden aan de aanleg van de individuele waterzuiveringsinstallatie voor de woongelegenheden waarvan het afvalwater wordt gezuiverd;<br>
+1° een overzicht van de individuele waterzuiveringsinstallaties waarvoor een gewestbijdrage wordt aangevraagd, met vermelding van het adres, de datum van indienstneming en de kosten, verbonden aan de aanleg van de individuele waterzuiveringsinstallatie voor de woongelegenheden waarvan het afvalwater wordt gezuiverd;<br>
 2° een verklaring dat alle gesubsidieerde waterzuiveringsinstallaties voldoen aan de criteria, vermeld in artikel 7 van dit besluit, en aan de lozingsvoorwaarden, vermeld in artikel 6.2.2.4.1, § 1, van titel II, van VLAREM, waarmee de rioolbeheerder het engagement aangaat om de goede werking van de individuele waterzuiveringsinstallaties te blijven garanderen;<br>
-3° de factuur en alle betaalbewijzen per individuele waterzuiveringsinstallatie;<br>
+3° de factuur per individuele waterzuiveringsinstallatie en alle betaalbewijzen voor deze facturen of een lijst met de datum van betaling per factuur door de rioolbeheerder. De eigenlijke betaalbewijzen worden ter beschikking gehouden voor een eventuele controle;<br>
 4° een motivatie als een of meer individuele waterzuiveringsinstallaties uit het subsidiedossier niet geplaatst zijn.<br>
 <br>
 De Vlaamse Milieumaatschappij voert een technische controle van het subsidiedossier uit. Die controle omvat:<br>
-1° een toetsing van het subsidiedossier aan het definitieve gemeentelijke zoneringsplan en het uitvoeringsplan die van kracht zijn op het moment van de plaatsing van de individuele waterzuiveringsinstallatie;<br>
+1° een toetsing van het subsidiedossier aan het definitieve gemeentelijke zoneringsplan en het uitvoeringsplan;<br>
 2° een evaluatie van de motivatie voor de reden tot niet-plaatsing van de individuele waterzuiveringsinstallatie.<br>
 <br>
 De Vlaamse Milieumaatschappij geeft binnen zestig kalenderdagen na de ontvangst van het subsidiedossier haar beoordeling over het subsidiedossier. Het goedgekeurde subsidiedossier, al of niet aangepast, vormt de basis voor de bepaling van de gewestbijdrage.<br>
@@ -371,11 +371,19 @@ Het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de su
 De projecten die zijn ingediend onder gelding van de volgende besluiten, worden behandeld volgens de bepalingen van dit besluit:<br>
 1° het besluit van de Vlaamse regering van 30 maart 1996 houdende vaststelling van de voorwaarden onder dewelke, alsook van de verhouding in dewelke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de aanleg en de verbetering door de gemeenten van openbare riolen, andere dan prioritaire rioleringen, evenals houdende de vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma, zoals van kracht vóór de inwerkingtreding van het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de subsidiëring van de aanleg van openbare rioleringen, andere dan prioritaire rioleringen, de bouw van kleinschalige rioolwaterzuiveringsinstallaties met inbegrip van de aanleg van individuele waterzuiveringsinstallaties door de gemeenten, gemeentebedrijven, intercommunales, intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening;<br>
 2° het besluit van de Vlaamse regering van 15 juli 1997 houdende vaststelling van de voorwaarden waaronder, alsook van de verhouding in de welke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de bouw door de gemeenten van rioolwaterzuiveringsinstallaties met een capaciteit van maximum 500 inwonerequivalenten, evenals houdende vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma's, zoals van kracht vóór de inwerkingtreding van het voormelde besluit van 1 februari 2002;<br>
-3° het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit.<br>
+3° het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit.
+
+### ART 33/1.
+
+Voor de lopende rioleringsprojecten en de projecten voor de bouw van kleinschalige waterzuiveringsinstallaties waarvoor de vastlegging van de gewestbijdrage nog niet heeft plaatsgevonden op de datum van de inwerkingtreding van het besluit van de Vlaamse Regering van 7 juli 2023 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2017 betreffende de subsidiëring van de werken, vermeld in artikel 2.6.1.3.1, § 1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wordt het gunningsdossier uiterlijk binnen vijf jaar na voormelde datum ingediend.<br>
 <br>
-In afwijking van het eerste lid kan er voor de lopende rioleringsprojecten en de projecten voor de bouw van kleinschalige waterzuiveringsinstallaties waarvoor het voorontwerp goedgekeurd is na de inwerkingtreding van dit besluit, maar vóór één jaar verstreken is na de inwerkingtreding van dit besluit, voor geopteerd worden dat:<br>
-1° artikel 2 tot en met 4 van het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit, van toepassing zijn voor het bepalen van de verhouding van de gewestbijdrage. Daarvoor wordt bij de indiening van het voorontwerp een kostenraming als vermeld in artikel 9, 7°, of artikel 10, 8°, van het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit, en een verantwoording van de materiaalkeuze als vermeld in artikel 9, 6°, of artikel 10, 7°, van het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit, toegevoegd;<br>
-2° de gewestbijdrage wordt vastgelegd op basis van het goedgekeurde voorontwerp conform artikel 13 van het voormelde besluit van 1 februari 2002, zoals van kracht vóór de inwerkingtreding van dit besluit.
+Bij overschrijding van de termijn van vijf jaar tussen de bekendmaking van het subsidiëringsprogramma en de indiening van het gunningsdossier daalt het subsidiepercentage waar de rioolbeheerder recht op heeft, met 5% per begonnen jaar na de voormelde termijn van vijf jaar, tenzij het gunningsdossier niet ingediend kon worden binnen de voormelde termijn door een beroepsprocedure in het kader van een omgevingsvergunning of een gerechtelijke procedure in het kader van grondverwerving. In dat geval wordt de voormelde termijn verlengd met de duurtijd van de procedure in kwestie. De rioolbeheerder bezorgt aan de Vlaamse milieumaatschappij de nodige bewijsstukken om de overschrijding van de voormelde termijn van vijf jaar te rechtvaardigen. De ambtelijke commissie beslist of de motivatie betreffende de overschrijding van de termijn van vijf jaar gegrond is.”.&nbsp;<br>
+<br>
+Voor projecten die zijn opgedragen op de programma’s van 2020 tot en met 2023, blijven de voorwaarden van toepassing die gesteld zijn bij de goedkeuring van dat programma.
+
+### ART 33/2.
+
+Voor lopende rioleringsprojecten en projecten voor kleinschalige zuivering waarvoor het saldo nog niet is uitbetaald op de datum van de inwerkingtreding van onderhavig besluit en waarvoor de gewestbijdrage al is beperkt tot het voorschotbedrag doordat de procedure niet gevolgd is, wordt de voormelde beperking opgeheven.
 
 ### ART 34.
 
@@ -426,9 +434,9 @@ De Vlaamse Milieumaatschappij spreekt zich binnen een termijn van vijftig kalend
 
 ### ART 40.
 
-De kennisgeving door de Vlaamse Milieumaatschappij aan de rioolbeheerder van de goedkeuring van het ontwerpdossier, vermeld in artikel 36, geeft de rioolbeheerder het recht het werk aan te besteden, te gunnen en uit te voeren.<br>
+De rioolbeheerder kan ervoor opteren om het werk al te publiceren, te gunnen en uit te voeren voor de kennisgeving van de goedkeuring van het ontwerpdossier door de Vlaamse Milieumaatschappij. De rioolbeheerder moet het project tijdens de verdere uitvoering steeds aanpassen aan de gemaakte opmerkingen.&nbsp;<br>
 <br>
-De rioolbeheerder bezorgt binnen veertien kalenderdagen na de kennisgeving van het aanvangsbevel van de werken een kopie daarvan aan de Vlaamse Milieumaatschappij.
+De rioolbeheerder bezorgt binnen dertig dagen na de kennisgeving van het aanvangsbevel van de werken een kopie daarvan aan de Vlaamse Milieumaatschappij.
 
 ### ART 41.
 
@@ -440,7 +448,7 @@ Het gewijzigde dossier kan echter geen aanleiding geven tot verhoging van het va
 
 ### ART 42.
 
-Bij lopende projecten voor de bouw van individuele waterzuiveringsinstallaties die opgenomen waren in een subsidiëringsprogramma op de datum van de inwerkingtreding van dit besluit, wordt de gewestbijdrage bepaald conform artikel 3bis van het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de subsidiëring van de aanleg van openbare rioleringen, andere dan prioritaire rioleringen, de bouw van kleinschalige rioolwaterzuiveringsinstallaties met inbegrip van de aanleg van individuele waterzuiveringsinstallaties door de gemeenten, gemeentebedrijven, intercommunales, intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening, zoals van kracht vóór de inwerkingtreding van dit besluit.
+...
 
 ## Afdeling 5 Uitvoeringsbepaling
 

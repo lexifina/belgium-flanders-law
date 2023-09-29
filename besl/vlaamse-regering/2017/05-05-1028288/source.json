@@ -2,16 +2,16 @@
   "codex_id": 1028288,
   "title": "Besluit van de Vlaamse Regering van 2017-05-05 betreffende de subsidiëring van de werken, vermeld in [artikel 2.6.1.3.1, § 1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028288/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "6ed99db83ef54dd26e228c46fba9de9e0e423f3eb4da119097ff70712f589fe8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028288/VolledigDocument?datum=2023-09-29",
+  "source_sha256": "27dde12e8c9abb8e5a56da73974c5c131ea27ea100ef6e74cd11f224b0b8f0c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028288&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2023-09-29",
   "made": "2017-05-05",
   "gazette": "2017-06-06",
   "numac": 2017012309,
   "document_start": "2017-06-16",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 44,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-29",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2023-09-29; future article versions excluded; article text as the API gives it"
 }
