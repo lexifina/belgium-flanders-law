@@ -3792,15 +3792,27 @@ De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat 
 <br>
 § 2. De personen die een energieprestatiecertificaat uitreiken, sturen de in § 1 vermelde gegevens elektronisch door naar de energieprestatiecertificatendatabank. Deze personen worden in deze databank uniek geïdentificeerd. De Vlaamse Regering bepaalt de voorwaarden voor het elektronisch indienen van die gegevens en kan nadere regels vastleggen met betrekking tot de unieke identificatie.<br>
 <br>
+§ 2/1. Volgende categorieën van persoonsgegevens uit de energieprestatiecertificaten die opgenomen zijn in de energieprestatiecertificatendatabank worden actief openbaar gemaakt:<br>
+1° de identificatiegegevens van het gebouw of de gebouweenheid;<br>
+2° de geldigheidsdatum en de datum van indienen van het energieprestatiecertificaat;<br>
+3° het label en de energiescore van het energieprestatiecertificaat;<br>
+4° het type gebouw;<br>
+5° het erkenningsnummer van de energiedeskundige of de verslaggever.<br>
+<br>
+De betrokkenen bij de verwerking van de persoonsgegevens, vermeld in het eerste lid, zijn:<br>
+1° de houder van een zakelijk recht op het gebouw;<br>
+2° de bewoner of gebruiker van het gebouw;<br>
+3° de energiedeskundige of verslaggever.<br>
+<br>
 § 3. De gegevens in de energieprestatiecertificatendatabank zijn enkel toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente en de instrumenterende ambtenaar. De energiedeskundige en de eigenaar van een gebouw waarvoor een energieprestatiecertificaat is opgesteld hebben alleen toegang tot de gegevens van hun eigen dossiers. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiecertificatendatabank. Teneinde hun informerende rol ten volle te kunnen spelen om bij te dragen aan de verbetering van de energiezuinigheid van de woningen hebben kredietgevers in het kader van een kredietaanvraag met onroerende bestemming of voor energiebesparende renovaties, toegang tot de gegevens uit de energieprestatiecertificatendatabank van het gebouw waarop de kredietaanvraag slaat. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
 <br>
 In afwijking van het eerste lid kan het VEKA in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiecertificatendatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
 In het kader van monitoring van de energieprestaties van gebouwen kan het VEKA de gegevens uit de energieprestatiecertificatendatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn dan in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.<br>
 <br>
-In afwijking van het eerste lid kan het&nbsp;Vlaams Energieagentschap&nbsp;in het kader van wetenschappelijk onderzoek geanonimiseerde gegevens uit de energieprestatiecertificatendatabank ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden deze gegevens mogen worden gebruikt.<br>
+In afwijking van het eerste lid kan&nbsp;het VEKA in het kader van wetenschappelijk onderzoek geanonimiseerde gegevens uit de energieprestatiecertificatendatabank ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden deze gegevens mogen worden gebruikt.<br>
 <br>
-Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse Regering, een opgemaakt energieprestatiecertificaat aanpassen of wijzigen.</p>
+Het&nbsp;VEKA kan, onder de voorwaarden bepaald door de Vlaamse Regering, een opgemaakt energieprestatiecertificaat aanpassen of wijzigen.</p>
 
 ## [HOOFDSTUK II/1. Renovatieadvies (ing. decr. 16 november 2018, art. 44, I: te bepalen door de Vlaamse Regering)]
 
