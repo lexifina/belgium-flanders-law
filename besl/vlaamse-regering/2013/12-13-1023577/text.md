@@ -74,7 +74,7 @@ Het coördinatieteam zorgt voor de organisatie van het hulp- en   dienstverlenin
 
 ### ART. 9.
 
-<p>§ 1.In elke gevangenis oefenen een of meer personeelsleden van het centrum voor algemeen welzijnswerk de opdracht ondersteuning uit, vermeld in artikel 12, tweede lid, 3°, van het decreet van 8 maart 2013.</p>
+<p>§1.In elke gevangenis oefenen een of meer personeelsleden van het centrum voor algemeen welzijnswerk de opdracht ondersteuning uit, vermeld in artikel 12, tweede lid, 3°, van het decreet van 8 maart 2013.</p>
 
 <p>Binnen de beschikbare begrotingskredieten wordt voor de uitoefening van de opdracht, vermeld in het eerste lid, aan elk erkend centrum voor algemeen welzijnswerk een jaarlijks subsidiebedrag toegekend voor de inzet van een halve voltijdse equivalent per gevangenis die in het werkingsgebied van het centrum gelegen is.</p>
 
@@ -90,9 +90,9 @@ Om de subsidies, vermeld in het tweede en derde lid, te berekenen, is het forfai
 <br>
 De subsidies, vermeld in het tweede en derde lid, worden uitbetaald voor het einde van de maand februari van het jaar waarop de subsidie betrekking heeft.<br>
 <br>
-§ 2. De personen, vermeld in paragraaf 1, eerste lid, fungeren als centraal aanspreekpunt voor de praktische organisatie van de hulp- en dienstverlening voor de actoren en voor het bewakend personeel van Justitie. Ze maken steeds deel uit van het coördinatieteam.</p>
+§2. De personen, vermeld in paragraaf 1, eerste lid, fungeren als centraal aanspreekpunt voor de praktische organisatie van de hulp- en dienstverlening voor de actoren en voor het bewakend personeel van Justitie. Ze maken steeds deel uit van het coördinatieteam.</p>
 
-<p>§ 3. De personen, vermeld in paragraaf 1, eerste lid, nemen de volgende taken op zich met betrekking tot de praktische organisatie van de hulp- en dienstverlening :<br>
+<p>§3. De personen, vermeld in paragraaf 1, eerste lid, nemen de volgende taken op zich met betrekking tot de praktische organisatie van de hulp- en dienstverlening :<br>
 1° de organisatorische planning van het hulp- en dienstverleningsaanbod;<br>
 2° de bekendmaking van het hulp- en dienstverleningsaanbod aan gedetineerden en het stimuleren van gedetineerden tot deelname aan de activiteiten;<br>
 3° het beheer van de registratie in het kader van de activiteiten en de participatie daaraan;<br>
@@ -104,9 +104,15 @@ De subsidies, vermeld in het tweede en derde lid, worden uitbetaald voor het ein
 
 <p>Voor de taken, vermeld in het eerste lid, wordt een afsprakennota opgemaakt die de onderlinge taakverdeling van de leden van het coördinatieteam verduidelijkt.</p>
 
-<p>§ 4. De personen vermeld in paragraaf 1, eerste lid, bezorgen adviezen met betrekking tot de organisatie van het aanbod aan het coördinatieteam. Ze bezorgen informatie over het aanbod aan de personeelsleden van het centrum voor algemeen welzijnswerk, die de functie van trajectbegeleiding, vermeld in artikel 12, tweede lid, 2°, van het decreet van 8 maart 2013, uitoefenen en aan de andere actoren die zorgen voor de toeleiding van gedetineerden naar de hulp- en dienstverlening.</p>
+<p>§4. De personen vermeld in paragraaf 1, eerste lid, bezorgen adviezen met betrekking tot de organisatie van het aanbod aan het coördinatieteam. Ze bezorgen informatie over het aanbod aan de personeelsleden van het centrum voor algemeen welzijnswerk, die de functie van trajectbegeleiding, vermeld in artikel 12, tweede lid, 2°, van het decreet van 8 maart 2013, uitoefenen en aan de andere actoren die zorgen voor de toeleiding van gedetineerden naar de hulp- en dienstverlening.</p>
 
-<p>§ 5. In paragraaf 2 en 4 wordt verstaan onder actoren : de organisaties die in het kader van de uitvoering van het decreet van 8 maart 2013 hulp- en dienstverlening aanbieden in de gevangenissen.</p>
+<p>§5. In paragraaf 2 en 4 wordt verstaan onder actoren : de organisaties die in het kader van de uitvoering van het decreet van 8 maart 2013 hulp- en dienstverlening aanbieden in de gevangenissen.<br>
+<br>
+§6. De begunstigden van de subsidies, vermeld in paragraaf 1, tweede en derde lid, dienen uiterlijk op 1 mei van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft, op elektronische wijze een functionele en financiële verantwoording als vermeld in artikel 74, eerste lid, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019, in bij het Agentschap Justitie en Handhaving.&nbsp;<br>
+<br>
+Als uit de financiële verantwoording, vermeld in het eerste lid, blijkt dat de toegekende subsidie de verantwoorde kosten overstijgt, kan het niet-gebruikte deel van de subsidie worden gebruikt voor de aanleg van reserves conform artikel 72 van het voormelde besluit.&nbsp;<br>
+<br>
+§7. De subsidies, vermeld in paragraaf 1, tweede en derde lid, worden toegekend door de administrateur-generaal van het Agentschap Justitie en Handhaving. Een voorafgaande controle door de Inspectie van Financiën bij de toekenning van de subsidies is niet vereist.</p>
 
 ## Afdeling 5 Coördinatie
 
