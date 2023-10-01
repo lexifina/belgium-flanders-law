@@ -21,11 +21,33 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° Commissie: de Vlaamse Adviescommissie voor Volksraadplegingen, vermeld in artikel 308 van het decreet van 22 december 2017;<br>
 2° decreet van 22 december 2017: het decreet van 22 december 2017 over het lokaal bestuur;<br>
-3° minister: de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden.
+3° minister: de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden;<br>
+4° beveiligde zending: een van de volgende wijzen van bezorging waarbij het tijdstip van verzending en aflevering van de communicatie en de integriteit van de gegevens kunnen worden vastgesteld:<br>
+a)&nbsp;&nbsp; &nbsp;met een aangetekende zending;<br>
+b)&nbsp;&nbsp; &nbsp;via een elektronische weg om berichten uit te wisselen met gebruikers, voorzien door de betrokken lokale overheid conform artikel II.22 tot en met II.23/1 van het Bestuursdecreet van 7 december 2018;<br>
+c)&nbsp;&nbsp; &nbsp;via elk ander digitaal systeem dan het digitaal systeem, vermeld in punt b), waarvan de minister de specificaties bepaalt;<br>
+d)&nbsp;&nbsp; &nbsp;via afgifte tegen ontvangstbewijs.<br>
+&nbsp;
 
 ## [TITEL 1/1. Opmaak van het verzoek (ing. BVR 14 juli 2023, art. 2, I: 1 oktober 2023)]
 
+### ART 1/1.
+
+Het verzoekschrift en de petitielijst of -lijsten, vermeld in de artikelen 310 en 311 van het decreet van 22 december 2017 over het lokaal bestuur, kunnen op om het even welke drager opgemaakt en bezorgd worden, zolang al de volgende voorwaarden zijn vervuld:<br>
+1° het gemeentebestuur heeft op elk ogenblik toegang tot de gegevens, vermeld in artikel 311, tweede en derde lid van het decreet van 22 december 2017 over het lokaal bestuur, en kan er op elk ogenblik over beschikken;<br>
+2° de integriteit, authenticiteit, onweerlegbaarheid en vertrouwelijkheid van de gegevens, vermeld in artikel 311, tweede en derde lid van het decreet van 22 december 2017 over het lokaal bestuur, is gegarandeerd;<br>
+3° de handtekeningen voldoen aan de definitie, vermeld in artikel 8.1, 2° en 3°, van het Burgerlijk Wetboek.<br>
+&nbsp;
+
+### ART 1/2.
+
+Het verzoekschrift vermeldt het aantal petitielijsten en in voorkomend geval de vindplaats ervan.
+
 ## [TITEL 1/2. Indiening van het verzoek (ing. BVR 14 juli 2023, art. 2, I: 1 oktober 2023)]
+
+### ART 1/3.
+
+De indiening van het verzoek, vermeld in artikel 310 en 311 van het decreet van 22 december 2017 over het lokaal bestuur, gebeurt via beveiligde zending.
 
 ## TITEL 2. Organisatie van een gemeentelijke volksraadpleging en een volksraadpleging in het district
 
@@ -357,9 +379,7 @@ Artikel 1 tot en met 26 zijn van toepassing op de districten, met dien verstande
 
 ### ART 29.
 
-Het verzoek om een gemeentelijke volksraadpleging te houden, op initiatief van de inwoners, wordt ingediend met een formulier dat is opgemaakt conform het model, opgenomen in bijlage 1 (a en b), die bij dit besluit is gevoegd.<br>
-<br>
-Het verzoek om een volksraadpleging in het district te houden, op initiatief van de inwoners, wordt ingediend met een formulier dat is opgemaakt conform het model, opgenomen in bijlage 2 (a en b), die bij dit besluit is gevoegd.
+...
 
 ## Afdeling 2. Modellen van attesten die vereist zijn om een andere potentiële deelnemer aan een volksraadpleging te machtigen
 
