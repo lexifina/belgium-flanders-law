@@ -144,11 +144,15 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>30°gesubsidieerde officiële hogeschool : een hogeschool met een publiekrechtelijk karakter tot 1 oktober 2013, die opgericht is door een provincie, een gemeente of een OCMW;</p>
 
-<p>31°gesubsidieerde vrije hogeschool : een hogeschool met een privaatrechtelijk karakter;</p>
+<p>31°gesubsidieerde vrije hogeschool : een hogeschool met een privaatrechtelijk karakter;<br>
+<br>
+31°/1 geweld: elke feitelijkheid waarbij een student of personeelslid psychisch of fysiek wordt bedreigd of aangevallen binnen een werksituatie of onderwijscontext in het hoger onderwijs;</p>
 
 <p>32°gezondheidsindex : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ’s lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994 houdende sociale bepalingen;</p>
 
 <p>33°graad : aanduiding van gegradueerde,&nbsp;bachelor, master of doctor verleend op het einde van een opleiding c.q. na promotie met de uitreiking van een diploma;<br>
+<br>
+33°/0 grensoverschrijdend gedrag: elke aantasting van de integriteit van een persoon, waaronder machtsmisbruik, ongewenst seksueel gedrag, geweld en pesterijen;<br>
 <br>
 33° /1 hbo5-opleiding: een opleiding van het hoger beroepsonderwijs die buiten de context van deze codex werd of wordt aangeboden, met name door een cvo of een secundaire school;</p>
 
@@ -164,7 +168,9 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 <br>
 34° /1 Hogeronderwijsregister: het register, vermeld in artikel II.170;</p>
 
-<p>35° integratiekader : het geheel van de personeelsleden die door een hogeschool met behoud van hun rechtspositieregeling als personeel van de hogeschool, aan een universiteit zijn overgedragen, voor zover ze niet opgenomen zijn in de rechtspositieregeling van de universiteiten;</p>
+<p>35° integratiekader : het geheel van de personeelsleden die door een hogeschool met behoud van hun rechtspositieregeling als personeel van de hogeschool, aan een universiteit zijn overgedragen, voor zover ze niet opgenomen zijn in de rechtspositieregeling van de universiteiten;<br>
+<br>
+35°/1 intern meldpunt voor meldingen van grensoverschrijdend gedrag: de meldpunten die binnen de instellingen hoger onderwijs zijn opgericht waar grensoverschrijdend gedrag kan worden gemeld;</p>
 
 <p>36°jaar : kalenderjaar;</p>
 
@@ -197,9 +203,12 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 <p>waarin de ambtshalve geregistreerde instellingen krachtens deze codificatie opleidingen kunnen aanbieden;</p>
 
 <p>43°onderwijs- en examenreglement : het reglement bedoeld in deel 2, titel 4, hoofdstuk 3;<br>
+<br>
 43° /1 onderwijskwalificatie : een afgerond en ingeschaald geheel van competenties dat noodzakelijk is om maatschappelijk te functioneren en te participeren, waarmee verdere studies in het secundair of in het hoger onderwijs aangevat kunnen worden of waarmee beroepsactiviteiten uitgeoefend kunnen worden als vermeld in artikel 9 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur;</p>
 
-<p>44°onderzoeksmaster : een initiële masteropleiding zoals vermeld in artikel II.157;</p>
+<p>44°onderzoeksmaster : een initiële masteropleiding zoals vermeld in artikel II.157;<br>
+<br>
+44°/1 ongewenst seksueel gedrag: elke vorm van ongewenst verbaal, non-verbaal of lichamelijk gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van een persoon wordt aangetast of een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd;</p>
 
 <p>45°opgenomen studiepunten : studiepunten, verbonden aan de opleidingsonderdelen, waarvoor een student zich heeft ingeschreven in een bepaald academiejaar;</p>
 
@@ -217,7 +226,9 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>49°opleidingsonderdeel : een afgebakend geheel van onderwijs-, leer- en evaluatieactiviteiten dat gericht is op het verwerven van welomschreven competenties inzake kennis, inzicht, vaardigheden en attitudes;</p>
 
-<p>50°partners bij een associatie : de in artikel II.8 bedoelde leden van de associatie;</p>
+<p>50°partners bij een associatie : de in artikel II.8 bedoelde leden van de associatie;<br>
+<br>
+50°/1 pesterijen: een onrechtmatig geheel van meerdere, gelijkaardige of uiteenlopende gedragingen buiten of binnen de hogeronderwijsinstelling, die plaatshebben gedurende een bepaalde tijd, die tot doel of gevolg hebben dat de persoonlijkheid, de waardigheid of de fysieke of psychische integriteit van een student of een personeelslid wordt aangetast of dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd;</p>
 
 <p>51°postinitieel onderwijs : de opleidingen die leiden tot een graad van master en waarvoor de inschrijving primair openstaat voor personen die reeds in het bezit zijn van een graad van master. Personen die niet in het bezit zijn van een graad van master kunnen toegelaten worden na een intakegesprek waarin de instelling peilt naar de motivatie en de wetenschappelijke affiniteit van de student en naar de aard van de beroepservaring;</p>
 
@@ -3777,7 +3788,21 @@ De criteria voor de afweging van disproportionaliteit zijn conform artikel 2, §
 
 ### ART. II.222.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het instellingsbestuur stelt   een examenreglement op. Dit omvat ten minste:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; de wijze waarop de vorm van de   examens wordt bepaald en bekendgemaakt;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; de periodes waarbinnen de   examens worden afgelegd;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>3°&nbsp;&nbsp; de wijze waarop de   openbaarheid van zowel de mondelinge als schriftelijke examens wordt   gewaarborgd;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>4°&nbsp;&nbsp; de wijze van samenstelling van   de examencommissies en de wijze waarop de representativiteit van die commissies   wordt gegarandeerd; </P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>5°&nbsp;&nbsp; de aanstelling en de   taakomschrijving van de ombudsman;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>6°&nbsp;&nbsp; de wijze van bekendmaking van   de resultaten van de examens en van de proclamatie van de afgestudeerden van een   opleiding;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>7°&nbsp;&nbsp; de procedure en voorwaarden om   te slagen en om vermeldingen toe te kennen aan geslaagde   studenten;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>8°&nbsp;&nbsp; de procedure waarbij   geschillen tussen de studenten en de examinatoren voor of na het bekend maken   van de examenresultaten worden behandeld. Deze procedure vermeldt eveneens de   interne en externe beroepsmogelijkheden voor de betrokken   studenten;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>9°&nbsp;&nbsp; de volgtijdelijkheid van de   onderscheiden examens; </P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>10°de algemene regels en de   modaliteiten van deliberatie; </P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>11°de wijze waarop omgegaan wordt   met overmacht of met onregelmatigheden tijdens het examenverloop;   </P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>12°de wijze waarop   examenbeslissingen, aangetast door materiële vergissingen, worden   herzien;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>13°of het mogelijk is om van   opleidingsonderdelen waarvan het examen uit 2 of meer onderdelen bestaat, de   resultaten voor bepaalde examenonderdelen te behouden in een volgend   academiejaar en de voorwaarden waaronder dit kan gebeuren;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>14°de procedure die studenten met   functiebeperkingen dienen te volgen om redelijke aanpassingen aan te vragen met   betrekking tot de examens en de wijze waarop ze binnen de instelling beroep   kunnen aantekenen tegen een weigering van aanpassingen, in zoverre deze   verschillen van de procedures, vermeld in artikel II.221, §1, 19° en §2.   </P>
+<p>Het instellingsbestuur stelt een examenreglement op. Dit omvat ten minste:<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+1° de wijze waarop de vorm van de examens wordt bepaald en bekendgemaakt;<br>
+2° de periodes waarbinnen de examens worden afgelegd;<br>
+3° de wijze waarop de openbaarheid van zowel mondelinge als schriftelijke examens wordt gewaarborgd en de wijze waarop studenten die dit wensen hun mondelinge examens kunnen laten bijwonen door een waarnemer;<br>
+4° de wijze van samenstelling van de examencommissies en de wijze waarop de representativiteit van die commissies wordt gegarandeerd;<br>
+5° de aanstelling en de taakomschrijving van de ombudsman;<br>
+6° de wijze van bekendmaking van de resultaten van de examens en van de proclamatie van de afgestudeerden van een opleiding;<br>
+7° de procedure en voorwaarden om te slagen en om vermeldingen toe te kennen aan geslaagde studenten;<br>
+8° de procedure waarbij geschillen tussen de studenten en de examinatoren voor of na het bekend maken van de examenresultaten worden behandeld. Deze procedure vermeldt eveneens de interne en externe beroepsmogelijkheden voor de betrokken studenten;<br>
+9° de volgtijdelijkheid van de onderscheiden examens;<br>
+10° de algemene regels en de modaliteiten van deliberatie;<br>
+11° de wijze waarop omgegaan wordt met overmacht of met onregelmatigheden tijdens het examenverloop;<br>
+12° de wijze waarop examenbeslissingen, aangetast door materiële vergissingen, worden herzien;<br>
+13° of het mogelijk is om van opleidingsonderdelen waarvan het examen uit 2 of meer onderdelen bestaat, de resultaten voor bepaalde examenonderdelen te behouden in een volgend academiejaar en de voorwaarden waaronder dit kan gebeuren;<br>
+14° de procedure die studenten met functiebeperkingen dienen te volgen om redelijke aanpassingen aan te vragen met betrekking tot de examens en de wijze waarop ze binnen de instelling beroep kunnen aantekenen tegen een weigering van aanpassingen, in zoverre deze verschillen van de procedures, vermeld in artikel II.221, §1, 19° en §2.</p>
 
 ## Hoofdstuk 4 Studievoortgang
 
@@ -4345,11 +4370,11 @@ Voor wat betreft de examens houdt de openbaarheid van bestuur in dat studenten e
 
 ### ART. II.279.
 
-<p>Het bestuur stelt een ombudsdienst in die onder de voorwaarden bepaald in het onderwijs- en examenreglement een bemiddelende rol opneemt bij geschillen tussen een student en 1 of meerdere personeelsleden.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<p>Het bestuur richt een ombudsdienst op die onder de voorwaarden bepaald in het onderwijs- en examenreglement een bemiddelende rol opneemt bij geschillen tussen een student en 1 of meerdere personeelsleden.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
 <br>
 De geschillen houden verband met:<br>
 1°&nbsp;&nbsp; de toepassing van het onderwijs- en examenreglement en/of de rechtspositieregeling van de student;<br>
-2°&nbsp;&nbsp; als onbillijk ervaren handelingen en toestanden.</p>
+2°&nbsp;&nbsp; als onbillijk ervaren handelingen en toestanden die betrekking hebben op de studieloopbaan van de student.</p>
 
 ### ART. II.280.
 
@@ -4828,6 +4853,82 @@ De aansprakelijkheid van de vader en de moeder in de zin van artikel 1384, tweed
 De stagegever is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.<br>
 <br>
 Alle met de bepalingen van dit artikel strijdige bedingen zijn nietig.
+
+## TITEL 6 Grensoverschrijdend gedrag
+
+### ART II.355/2.
+
+De personeelsleden en studenten van de hogeronderwijsinstellingen respecteren de instelling en iedereen die aan de voormelde instelling werkt of studeert. De personeelsleden en studenten respecteren daarbij de internationale en grondwettelijke beginselen over de rechten van de mens. De personeelsleden en studenten gedragen zich in hun onderlinge betrekkingen op een correcte wijze.
+
+### ART II.355/3.
+
+§1. Het bestuur stelt samen met de vertegenwoordigers van de studenten en het personeel een gedragscode op over grensoverschrijdend gedrag. De voormelde gedragscode wordt opgenomen in het arbeidsreglement en in het onderwijs- en examenreglement van de instelling.<br>
+<br>
+Het bestuur werkt samen met de vertegenwoordigers van de studenten en van het personeel een procedure uit voor de meldingen over grensoverschrijdend gedrag en de opvolging ervan binnen de instelling, met inbegrip van de te respecteren termijnen.<br>
+<br>
+Studenten die een melding doen, kunnen desgewenst gebruikmaken van de mogelijkheid om hun examen te laten bijwonen door een waarnemer als vermeld in artikel II.222, 3°.<br>
+<br>
+§2. Het bestuur richt binnen de instelling minstens één intern meldpunt voor meldingen van grensoverschrijdend gedrag door studenten of personeelsleden op. Dit meldpunt bestaat uit de vertrouwenspersoon voor studenten en de vertrouwenspersoon voor personeel. Het bestuur garandeert de onafhankelijke en toegankelijke werking van het interne meldpunt of de interne meldpunten voor meldingen van grensoverschrijdend gedrag.<br>
+<br>
+§3. Het bestuur zorgt ervoor dat er per instelling een centraal register bijgehouden wordt waarin alle meldingen van grensoverschrijdend gedrag bij het meldpunt, de vertrouwenspersoon voor studenten en de vertrouwenspersoon personeel zoals bedoeld in de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, van de instelling worden geregistreerd. Het doel van dit centrale register bestaat erin om alle meldingen die binnen de instelling worden gedaan te verzamelen op één digitale plek. Dit moet de instelling in staat stellen om een beter overzicht te krijgen over meldingen met gemeenschappelijke kenmerken, om deze meldingen beter en accurater op te volgen en om ten aanzien van de betrokken personen sneller en beter gepaste maatregelen uit te werken en te implementeren. Daarnaast stelt het de instellingen in staat om kwaliteitscontrole en opvolging te organiseren rond wat er met de meldingen gebeurt.<br>
+<br>
+In het centrale register worden met inachtneming van de wetgeving op de bescherming van de persoonsgegevens en met het oog op het bereiken van het doel, vermeld in het eerste lid, volgende gegevens opgenomen per registratie:<br>
+1° de identificatiegegevens van de melder: naam en voornaam;<br>
+2° de identificatiegegevens van iedere persoon die volgens de melder direct of indirect betrokken is bij het grensoverschrijdend gedrag, in welke hoedanigheid dan ook: naam, voornaam, functie en hoedanigheid;<br>
+3° een beschrijving van de verklaring van de melder inzake grensoverschrijdend gedrag: de aard van het grensoverschrijdend gedrag, tijdstip van het grensoverschrijdend gedrag, een feitelijke weergave van het grensoverschrijdend gedrag.<br>
+<br>
+Het gaat om meldingen over grensoverschrijdend gedrag tussen studenten, verbonden aan de instelling, onderling binnen de onderwijscontext en tussen studenten en personeel, verbonden aan de instelling binnen de onderwijscontext of buiten de onderwijscontext indien er een hiërarchische relatie bestaat tussen de student en het personeelslid. Ook de meldingen in het kader van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, komen in dit register.<br>
+<br>
+Alleen de preventieadviseur psychosociale aspecten, de vertrouwenspersonen voor personeel zoals bedoeld in de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, en de vertrouwenspersoon voor studenten hebben toegang tot het centrale register.<br>
+<br>
+Indien een melder wenst dat de naam van de melder niet in het register wordt opgenomen, dan zorgt de vertrouwenspersoon waar mogelijk voor een geanonimiseerde registratie. De vertrouwenspersoon informeert de melder dat dit gevolgen heeft voor de opvolging van het dossier.<br>
+<br>
+De instelling bewaart de verklaringen inzake de feiten die in het register zijn opgenomen gedurende vijf jaar indien de betrokkenen allemaal studenten zijn, tien jaar indien een personeelslid betrokken partij is, dertig jaar indien de melding om strafbare feiten gaat, dit steeds te rekenen vanaf de dag dat het personeelslid of de student deze verklaringen heeft laten optekenen. Indien er een nieuwe melding wordt gedaan omtrent een betrokken partij die eerder in het register werd vermeld, dan wordt de bewaartermijn van de oorspronkelijke verklaring in overeenstemming gebracht met de nieuwe bewaartermijn.
+
+### ART II.355/4.
+
+§1. Het bestuur stelt minstens één vertrouwenspersoon voor studenten aan waar een student terecht kan voor meldingen over grensoverschrijdend gedrag tussen studenten, verbonden aan de instelling, onderling binnen de onderwijscontext en tussen studenten en personeel, verbonden aan de instelling binnen de onderwijscontext of buiten de onderwijscontext indien er een hiërarchische relatie bestaat tussen de student en het personeelslid.<br>
+&nbsp;<br>
+Het bestuur garandeert dat de vertrouwenspersoon voor studenten de opdracht, vermeld in het eerste lid, volledig autonoom kan uitoefenen. Geen enkele persoon mag druk uitoefenen op de vertrouwenspersoon bij de uitoefening van diens functie. Vertrouwenspersonen mogen geen nadeel ondervinden van hun activiteiten als vertrouwenspersoon en kunnen in hun functie van niemand bevelen ontvangen.<br>
+<br>
+§2. De vertrouwenspersoon voor studenten onderneemt in overleg met de melder één of meerdere van onderstaande acties:<br>
+1° &nbsp; gesprekken die het onthaal en het actief luisteren omvatten;<br>
+2° een bemiddeling tussen de betrokken personen als alle betrokken personen daarmee akkoord gaan;<br>
+3° een melding of interventie bij een andere student of bij een personeelslid, of de hiërarchische lijn van dat personeelslid, na uitdrukkelijke toestemming van de melder;<br>
+4° &nbsp; een gerichte doorverwijzing;<br>
+5° het in kaart brengen van andere mogelijke interne en externe acties en het ondersteunen bij die acties die de melder kan ondernemen als de melder de acties, vermeld in punt 1° tot en met 4°, als onvoldoende beschouwt.<br>
+<br>
+§3. De vertrouwenspersoon voor studenten of de vertrouwenspersoon voor personeel kan, als er ten aanzien van een bepaalde betrokken persoon meerdere meldingen zijn ontvangen, ambtshalve initiatief nemen om vervolgstappen te nemen. Daarbij houdt de vertrouwenspersoon steeds rekening met de eventuele vraag van een of meerdere melders om anoniem te blijven.<br>
+<br>
+Als er zich een situatie voordoet die een acuut risico inhoudt voor studenten of personeelsleden, neemt de vertrouwenspersoon voor studenten of de vertrouwenspersoon voor personeel een initiatief met inachtneming van de regels van het beroepsgeheim, vermeld in artikel 458 van het Strafwetboek.<br>
+<br>
+Het nemen van initiatief kan bestaan uit de acties opgenomen in paragraaf 2, het op de hoogte brengen van de tuchtoverheid en/of het parket informeren.<br>
+<br>
+De vertrouwenspersoon voor studenten of personeel kan de bevoegde tuchtoverheid op de hoogte brengen van een melding over grensoverschrijdend gedrag als er ten aanzien van een bepaalde persoon meerdere meldingen zijn ontvangen. Hierbij worden in een eerste fase enkel die gegevens doorgegeven die de tuchtoverheid toelaten te beslissen of ze al dan niet een tuchtonderzoek wil opstarten.<br>
+<br>
+Het tuchtreglement legt procedures vast waaronder vastgelegde termijnen voor het geven van een ontvangstbevestiging en de verschillende stappen die de tuchtoverheid kan ondernemen.<br>
+<br>
+§4. Het bestuur zorgt ervoor dat de vertrouwenspersoon voor studenten beschikt over de nodige tijd en over de vaardigheden en kennis die nodig zijn voor de uitoefening van de opdracht als vertrouwenspersoon voor studenten.<br>
+<br>
+Desgevallend zorgt de instelling zo snel mogelijk voor de nodige opleiding en professionalisering. De vertrouwenspersoon voor studenten volgt uiterlijk binnen zes maanden nadat die is aangesteld een basisopleiding van ten minste vijf dagen.<br>
+<br>
+De vertrouwenspersoon voor studenten volgt minstens één keer per jaar een intervisie of supervisie voor vertrouwenspersonen voor studenten. Vertrouwenspersonen voor studenten die zonder geldige reden niet jaarlijks een intervisie of supervisie volgen, verliezen het statuut van vertrouwenspersoon voor studenten en kunnen niet meer als vertrouwenspersoon voor studenten functioneren.<br>
+<br>
+§5. De vertrouwenspersoon voor studenten werkt binnen de regels van het beroepsgeheim, vermeld in artikel 458 van het Strafwetboek.<br>
+&nbsp;<br>
+De vertrouwenspersoon voor studenten, de vertrouwenspersoon personeel en de preventieadviseur psychosociale aspecten zoals bedoeld in de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, hebben het recht en de plicht om waar nodig contact op te nemen met elkaar zodat het mogelijk wordt om alle meldingen die gedaan worden binnen de instelling op één digitale plek te verzamelen. Zij maken gezamenlijke afspraken over het centraal register en kunnen pertinente informatie uitwisselen met het oog op de uitoefening van hun functie. De verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) wordt hierbij in acht genomen. De persoonsgegevens worden verwerkt op basis van de rechtvaardigheidsgrond in artikel 6.1, c), van de algemene verordening gegevensbescherming.<br>
+<br>
+Vertrouwenspersonen voor studenten houden per melding een individueel dossier bij. Het gaat om een weergave van de gebeurtenissen inzake het grensoverschrijdend gedrag zoals beschreven door de melder en identificatiegegevens van alle personen die volgens de melder direct of indirect zijn betrokken bij het grensoverschrijdend gedrag, in welke hoedanigheid dan ook. In het dossier wordt ook opgenomen welke acties uit paragraaf 2 zijn ondernomen.<br>
+<br>
+Indien een melder wenst dat de naam van de melder niet in het individueel dossier wordt opgenomen, dan zorgt de vertrouwenspersoon waar mogelijk voor een geanonimiseerde registratie. De vertrouwenspersoon informeert de melder dat dit gevolgen heeft voor de opvolging van het dossier.<br>
+<br>
+§6. Vertrouwenspersonen voor studenten rapporteren jaarlijks aan het bestuur over hun werking.<br>
+<br>
+§7. Minstens de helft van de vertrouwenspersonen voor studenten behoort niet tot het zelfstandig academisch personeel of onderwijspersoneel.<br>
+<br>
+§8. Personen die binnen de hogeronderwijsinstelling als vrijwilliger werkzaam zijn, extern gefinancierde onderzoekers en doctoraatsstudenten die werkzaam zijn in een hogeronderwijsinstelling kunnen grensoverschrijdend gedrag melden bij een intern meldpunt als vermeld in artikel II.355/3, §2. Ze worden met betrekking tot de verdere afhandeling van hun melding gelijkgesteld met een personeelslid.<br>
+<br>
+§9. De bepalingen van paragraaf 3 tot en met 5 zijn onverminderd de bepalingen van de federale wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk eveneens van toepassing op de vertrouwenspersonen voor personeel.
 
 ## TITEL 7 Bestuursstructuur van de hogescholen
 
@@ -11378,7 +11479,15 @@ Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, d
 
 ### ART. V.63.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij   ontstentenis van een regeling opgenomen in een collectieve arbeids-overeenkomst   of vastgesteld na onderhandeling in het bevoegde sectorcomité, is de regeling   met betrekking tot de tucht, de administratieve standen, de toelaatbare   onderbrekingen van de ambtsuitoefening op verzoek van het betreffende   personeelslid wegens persoonlijke dan wel sociale redenen, en de definitieve   ambtsneerlegging van het personeel van de diensten van de Vlaamse overheid van   toepassing.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Als   de universiteiten een eigen tuchtregeling uitwerken, voorzien zij daarin in de   mogelijkheid van een preventieve schorsing van het personeelslid in het belang   van de dienst. Ten minste in de volgende gevallen kan daarbij een deel van het   salaris worden ingehouden:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; wanneer het personeelslid strafrechtelijk vervolgd   wordt;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; wanneer het personeelslid tuchtrechtelijk vervolgd wordt wegens een   ernstig vergrijp waarbij het personeelslid op heterdaad betrapt is of waarvoor   er afdoende aanwijzingen zijn.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   inhouding van het salaris bij preventieve schorsing mag niet meer bedragen dan   1/5 van de nettobezoldiging.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   regeling inzake preventieve schorsing waarborgt maximaal de rechten van het   personeelslid en bevat een   beroepsmogelijkheid.</P>
+<p>Bij ontstentenis van een regeling opgenomen in een collectieve arbeidsovereenkomst of vastgesteld na onderhandeling in het bevoegde centraal onderhandelingscomité, is de regeling met betrekking tot de tucht, de administratieve standen, de toelaatbare onderbrekingen van de ambtsuitoefening op verzoek van het betreffende personeelslid wegens persoonlijke dan wel sociale redenen, en de definitieve ambtsneerlegging van het personeel van de diensten van de Vlaamse overheid van toepassing.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+Als de universiteiten een eigen tuchtregeling uitwerken, voorzien zij daarin in de mogelijkheid van een preventieve schorsing van het personeelslid in het belang van de dienst.&nbsp;Indien de universiteit na een melding van grensoverschrijdend gedrag formeel een onderzoek heeft opgestart, kan de betrokkene door het universiteitsbestuur preventief geschorst worden bij wijze van ordemaatregel. Ten minste in de volgende gevallen kan daarbij een deel van het salaris worden ingehouden:<br>
+1°&nbsp;&nbsp; wanneer het personeelslid strafrechtelijk vervolgd wordt;<br>
+2°&nbsp;&nbsp; wanneer het personeelslid tuchtrechtelijk vervolgd wordt wegens een ernstig vergrijp waarbij het personeelslid op heterdaad betrapt is of waarvoor er afdoende aanwijzingen zijn.<br>
+<br>
+De inhouding van het salaris bij preventieve schorsing mag niet meer bedragen dan 1/5 van de nettobezoldiging.<br>
+<br>
+De regeling inzake preventieve schorsing waarborgt maximaal de rechten van het personeelslid en bevat een beroepsmogelijkheid.</p>
 
 ### ART V.63/2.
 
@@ -11676,7 +11785,11 @@ Wanneer er tijdens de mandaatstermijn een einde komt aan het mandaat van een eff
 
 ### ART. V.102.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Wanneer er tegen een personeelslid een strafrechtelijk onderzoek is   ingesteld of wanneer een personeelslid strafrechtelijk of tuchtrechtelijk wordt   vervolgd, en zijn aanwezigheid onverenigbaar is met het belang van het onderwijs   of van de hogeschool, kan de betrokkene door het hogeschoolbestuur preventief   worden geschorst bij wijze van ordemaatregel. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De preventieve schorsing is een bewarende maatregel. Het personeelslid   blijft tijdens deze schorsing in de administratieve stand waarin het zich bevond   de dag voor de preventieve schorsing. Tijdens de preventieve schorsing wordt het   personeelslid ontheven van de verplichting om dienstprestaties te   leveren.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
+<p>Wanneer er tegen een personeelslid een strafrechtelijk onderzoek is ingesteld of wanneer een personeelslid strafrechtelijk of tuchtrechtelijk wordt vervolgd of als de hogeronderwijsinstelling na een melding van grensoverschrijdend gedrag formeel een onderzoek heeft opgestart, en zijn aanwezigheid onverenigbaar is met het belang van het onderwijs of van de hogeschool, kan de betrokkene door het hogeschoolbestuur preventief worden geschorst bij wijze van ordemaatregel.<br>
+<br>
+De preventieve schorsing is een bewarende maatregel. Het personeelslid blijft tijdens deze schorsing in de administratieve stand waarin het zich bevond de dag voor de preventieve schorsing. Tijdens de preventieve schorsing wordt het personeelslid ontheven van de verplichting om dienstprestaties te leveren.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.103.
 
