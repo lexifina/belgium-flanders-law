@@ -2,16 +2,16 @@
   "codex_id": 1037441,
   "title": "Decreet van 2022-10-03 tot beperking van de indexatie van de huurprijzen om de gevolgen van de energiecrisis te verlichten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037441/VolledigDocument?datum=2022-10-14",
-  "source_sha256": "8c42cb4a4707a75afd326b03b9f61118479979f185e296665f573d5ff2c2d49a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037441/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "b4b3e3f924aba5493b6b0191c61e525d1b43eb107ad95240faf5946dd9724189",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037441&param=informatie",
-  "as_of": "2022-10-14",
+  "as_of": "2023-10-01",
   "made": "2022-10-03",
   "gazette": "2022-10-04",
   "numac": 2022033702,
   "document_start": "2022-10-14",
   "document_end": null,
-  "in_force": "2022-10-14",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-10-14; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }
