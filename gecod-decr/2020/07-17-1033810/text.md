@@ -18,6 +18,10 @@
 <p>§1. In deze codex en de besluiten genomen ter uitvoering ervan wordt verstaan onder:<br>
 1° aanpassing: de uitvoering van specifieke werkzaamheden om een woning te doen beantwoorden aan de woningbezetting, de gezinssamenstelling of aan de fysieke mogelijkheden van bejaarden en personen met een handicap;<br>
 1° /1 algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG;<br>
+1°/2 arbeidskracht: een persoon die:<br>
+a)&nbsp;&nbsp; &nbsp;ofwel uitsluitend gedurende en wegens zijn effectieve tewerkstelling in<br>
+het Vlaamse Gewest verblijft en er gehuisvest is;<br>
+b)&nbsp;&nbsp; &nbsp;ofwel gewoonlijk zijn inschrijving in de bevolkingsregisters in het Vlaamse Gewest heeft, maar gedurende en wegens zijn tewerkstelling in het Vlaamse Gewest dermate ver van zijn domicilie gehuisvest is, dat hij onmogelijk dagelijks naar zijn domicilie kan terugkeren<br>
 2° ...;<br>
 3° bescheiden woonaanbod: het aanbod aan huurwoningen, koopwoningen en kavels, met uitsluiting van het sociaal woonaanbod, dat met behoud van de toepassing van artikel 5.94, §1, tweede lid en artikel 5.96, tweede lid, bestaat uit:<br>
 a) kavels met een oppervlakte van ten hoogste 500 m²;<br>
@@ -87,7 +91,7 @@ a) de VMSW of een woonmaatschappij;<br>
 b) ...<br>
 c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een welzijnsvereniging, voor zover er voor die woning een van de volgende subsidies werd verleend:<br>
 1) een subsidie met toepassing van artikel 38, tweede lid, 5°, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970, bekrachtigd bij de wet van 2 juli 1971;<br>
-2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, artikel 4.16, eerste lid, of in boek 5, deel 2, titel 1, 2, 3, 4, 5 of 6;<br>
+2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992,&nbsp;artikel 4.16, eerste lid, of in boek 5, deel 2, titel 1, 2, 3, 4, 5 of 6;<br>
 d) een gemeente, een OCMW of een sociale woonorganisatie, met uitzondering van de huurdersorganisaties, voor zover op de woning het sociaal beheersrecht, vermeld in artikel 5.82, wordt uitgeoefend of voor zover het een woning als vermeld in artikel 3.30, §2, betreft;<br>
 e) een gemeente of een OCMW, voor zover de woning verworven werd met toepassing van het recht van voorkoop, vermeld in artikel 5.76;<br>
 f) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er toepassing gemaakt wordt van artikel 2.8;<br>
@@ -136,7 +140,7 @@ b) hun werking is rechtstreeks of onrechtstreeks onderworpen aan enig toezicht i
 68° woongebied: de gebieden die:<br>
 a) ofwel geordend worden door een ruimtelijk uitvoeringsplan en sorteren onder de categorie van gebiedsaanduiding “wonen”;<br>
 b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen;<br>
-69° wooninspecteur: het personeelslid van de dienst die door de Vlaamse Regering belast is met het woonbeleid en die belast is met de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3, deel 9, die met toepassing van artikel 1.8, § 2, eerste lid, door de Vlaamse Regering aangewezen wordt als wooninspecteur;<br>
+69° wooninspecteur:&nbsp;het personeelslid van de dienst die door de Vlaamse Regering belast is met het woonbeleid en die belast is met de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3, deel 9, die met toepassing van artikel 1.8, § 2, eerste lid, door de Vlaamse Regering aangewezen wordt als wooninspecteur;<br>
 70° woonproject: een sociaal woonproject of een ander woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of alleenstaanden of om hun woonsituatie te verbeteren.<br>
 Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen en bescheiden huurwoningen betreft.<br>
 Een sociaal woonproject is gemengd wanneer aan minstens één van de volgende voorwaarden is voldaan:<br>
@@ -788,13 +792,21 @@ Er wordt een beoordelingscommissie opgericht. De beoordelingscommissie neemt bes
 1° het conformiteitsattest, vermeld in artikel 3.6, verplicht stellen en bepalen dat zolang niet aan die verplichting is voldaan, een jaarlijks terugkerende verplichting wordt opgelegd om dat attest aan te vragen;<br>
 2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §2;<br>
 3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;<br>
-4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.<br>
+4° opleggen dat kamers in hetzelfde gebouw verhuurd, ter beschikking gesteld of te huur gesteld worden voor de huisvesting van hetzij studenten, hetzij niet-studenten. De gemeenteraad kan eveneens opleggen dat kamers in hetzelfde gebouw exclusief verhuurd, ter beschikking gesteld of te huur gesteld mogen worden voor de huisvesting van arbeidskrachten;<br>
+5° bepalen dat er een voorafgaande vergunning afgeleverd kan worden voor het verhuren, ter beschikking stellen of te huur stellen van een kamerwoning voor de huisvesting van arbeidskrachten waardoor de specifieke vereisten en normen voor kamers voor arbeidskrachten gelden, zoals vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §3.<br>
 <br>
 De gemeenteraad kan een verordening als vermeld in het eerste lid wijzigen of herzien nadat hij een advies heeft ingewonnen als vermeld in het eerste lid. Als de verordening opgeheven wordt, brengt de gemeente de dienst, vermeld in het eerste lid, daarvan op de hoogte.<br>
 <br>
 De gemeente mag voorbijgaan aan de adviesverplichting, vermeld in het eerste en tweede lid, als de dienst, vermeld in het eerste lid, het gevraagde advies niet verstrekt binnen zestig dagen na ontvangst van de adviesvraag.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid, voor de adviesverplichting, vermeld in het eerste en tweede lid, en voor het voorbijgaan aan de adviesverplichting, vermeld in het derde lid.</p>
+De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid, voor de adviesverplichting, vermeld in het eerste en tweede lid, en voor het voorbijgaan aan de adviesverplichting, vermeld in het derde lid.<br>
+<br>
+Een vergunning voor de huisvesting van arbeidskrachten als vermeld in het eerste lid, 5°, voldoet aan de volgende voorwaarden:<br>
+1° ze kan pas worden afgeleverd als voor alle kamers in de kamerwoning een conformiteitsattest werd afgegeven dat maximaal één jaar oud is;<br>
+2° ze is maximaal vijf jaar geldig;<br>
+3° ze kan vernieuwd worden als voldaan is aan de voowaarden voor het verkrijgen van de vergunning.<br>
+<br>
+In dit artikel wordt verstaan onder kamerwoning: elk gebouw of deel ervan dat bestaat uit een of meer kamers en gemeenschappelijke ruimten.</p>
 
 ## Deel 2. Conformiteitsonderzoek
 
@@ -878,7 +890,8 @@ Met behoud van de toepassing van artikel 3.17, tweede lid, wordt een besluit als
 3° de woning onbewoonbaar verklaard wordt met toepassing van artikel 135 van de Nieuwe Gemeentewet;<br>
 4° er voor de woning een proces-verbaal wordt opgesteld voor de misdrijven, vermeld in artikel 3.34 tot en met 3.36;<br>
 5° er een termijn van tien jaar of een termijn die vastgesteld wordt door de gemeenteraad, met een maximum van tien jaar, verstreken is na de afgifte van het conformiteitsattest.<br>
-6° in een aanmaning, proces-verbaal of een verslag van vaststelling wordt vastgesteld dat de kamer waarvoor het conformiteitsattest is afgegeven, gecreëerd is zonder te voldoen aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, en de kamer na de afgifte van het conformiteitsattest bewoond werd door een persoon die op het adres van het pand waarin de kamer zich bevindt ingeschreven was in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten.<br>
+6° in een aanmaning, proces-verbaal of een verslag van vaststelling wordt vastgesteld dat de kamer waarvoor het conformiteitsattest is afgegeven, gecreëerd is zonder te voldoen aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, en de kamer na de afgifte van het conformiteitsattest bewoond werd door een persoon die op het adres van het pand waarin de kamer zich bevindt ingeschreven was in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten;<br>
+7° de geldigheidstermijn van een vergunning als vermeld in artikel 3.2, eerste lid, 5°, verstreken is of er geen vergunning als vermeld in artikel 3.2, eerste lid, 5°, wordt afgeleverd binnen een jaar na de afgifte van een conformiteitsattest voor kamerwoningen bestemd voor de huisvesting van arbeidskrachten.<br>
 <br>
 De Vlaamse Regering kan de termijn van tien jaar, vermeld in het eerste lid, 5°, beperken voor conformiteitsattesten die afgegeven worden nadat beperkte gebreken vastgesteld zijn bij het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.<br>
 <br>
