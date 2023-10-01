@@ -89,6 +89,10 @@ In artikel 2 van hetzelfde ministerieel besluit, gewijzigd bij het ministerieel 
 “8° beroepen vermeld in artikel 3.54 van de Vlaamse Codex Wonen van 2021 over de verzegeling en de weigering tot opheffing ervan te behandelen;”;<br>
 4° in punt 9° wordt de zinsnede “artikel 26, § 2, vierde lid, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode” vervangen door de zinsnede “artikel 6.27, §2, vierde lid, van het Besluit Vlaamse Codex Wonen van 2021”.
 
+### ART 11.
+
+In artikel 2, 9°, van hetzelfde ministerieel besluit, gewijzigd bij artikel 10, 4°, van dit ministerieel besluit, wordt de zinsnede “artikel 6.27, §2, vierde lid” vervangen door de zinsnede “artikel 6.22, §3, derde lid”.
+
 ## Hoofdstuk 4. Wijziging van het ministerieel besluit van 5 september 2017 houdende vaststelling van het kader voor de renovatietoets en de lokale woontoets en van het financiële kader ter uitvoering van artikel 4.11, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021
 
 ### ART 12.

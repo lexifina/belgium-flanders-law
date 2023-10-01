@@ -2,16 +2,16 @@
   "codex_id": 1038252,
   "title": "Ministerieel besluit van 2023-03-09 tot wijziging van verschillende ministeriële besluiten over wonen naar aanleiding van de herstructurering van het beleidsveld wonen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038252/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "5b8ff717fcda4d2bfa5bf36f6000a48895eaf90f5415a2378ffcd87a5daac60d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038252/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "a6b696a7a94fbeb4810485095ac77cde32c7110c59a1cca3e3299d6d6bb82ba2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038252&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-10-01",
   "made": "2023-03-09",
   "gazette": "2023-07-28",
   "numac": 2023041645,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 20,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }
