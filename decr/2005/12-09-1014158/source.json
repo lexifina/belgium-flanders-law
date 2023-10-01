@@ -2,16 +2,20 @@
   "codex_id": 1014158,
   "title": "Decreet van 2005-12-09 Provinciedecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014158/VolledigDocument?datum=2022-12-11",
-  "source_sha256": "6ed1d1b9462ab73c1b87faaa8b4b50456490810472d12b8ae84ed36c937ffc19",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014158/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "e22d8dc679fb98bc7252a5c2f46a42cee33486bcd25d3cc161079cb488ba1ede",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014158&param=informatie",
-  "as_of": "2022-12-11",
+  "as_of": "2023-10-01",
   "made": "2005-12-09",
   "gazette": "2005-12-29",
   "numac": 2005036605,
   "document_start": "2006-12-01",
   "document_end": null,
-  "in_force": "2022-12-11",
-  "article_versions": 303,
-  "record_form": "consolidated version as in force on 2022-12-11; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 305,
+  "table_of_contents_notes": [
+    "article version 1477285 (Art. 111bis., start 2023-10-01, no end date) is not in the table of contents, which lists a later version of Art. 111bis.: not placed",
+    "article version 1477287 (Art. 111ter., start 2023-10-01, no end date) is not in the table of contents, which lists a later version of Art. 111ter.: not placed"
+  ],
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }
