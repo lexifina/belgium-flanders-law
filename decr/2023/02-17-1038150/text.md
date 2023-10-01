@@ -385,6 +385,21 @@ De gegevens, vermeld in het zesde lid, worden bewaard overeenkomstig de regeling
 <br>
 De Vlaamse Regering regelt de nadere uitvoering van dit artikel.”.
 
+### ART 60.
+
+In artikel 310 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“De Vlaamse Regering bepaalt de wijze van communicatie tussen de indieners van het verzoek en de gemeente.”.
+
+### ART 61.
+
+In artikel 311 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “een formulier dat bestaat uit” opgeheven en worden de woorden “een petitielijst” vervangen door de woorden “een of meerdere petitielijsten”;<br>
+2° in het tweede lid, 4°, wordt de zinsnede “de naam, de voornamen, de geboortedatum en de woonplaats” vervangen door de zinsnede “de voornaam, de achternaam, de geboortedatum, het rijksregisternummer en het adres”;<br>
+3° in het derde lid wordt de zinsnede “naam, voornamen, geboortedatum en woonplaats” vervangen door de zinsnede “voornaam, de achternaam, de geboortedatum, het rijksregisternummer en het adres”;<br>
+4° het vierde lid wordt vervangen door wat volgt:<br>
+“De Vlaamse Regering kan nadere regels vaststellen waaraan het verzoekschrift of de petitielijst, vermeld in het eerste lid, moet voldoen.”.
+
 ### ART 62.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 16 juli 2021, wordt aan deel 2, titel 7, hoofdstuk 1, een artikel 329/1 ingevoegd, dat luidt als volgt:<br>
