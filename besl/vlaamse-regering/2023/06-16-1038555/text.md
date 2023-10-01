@@ -25,6 +25,37 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 2 juli 2021, wordt een punt 4°/1 ingevoegd, dat luidt als volgt:<br>
+“4°/1 speedpedelec: elk tweewielig voertuig met pedalen, met uitsluiting van de gemotoriseerde rijwielen, vermeld in artikel 2.15.3 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, met een hulpaandrijving met als hoofddoel trapondersteuning waarvan de aandrijfkracht wordt onderbroken bij een voertuigsnelheid van maximum 45 km per uur, en met een van de volgende kenmerken:<br>
+&nbsp; a) een cilinderinhoud van ten hoogste 50 cm³ met een netto-maximumvermogen van ten hoogste 4 kW als het een motor met inwendige verbranding betreft;<br>
+&nbsp; b) een nominaal continu maximumvermogen van ten hoogste 4 kW als het een elektrische motor betreft;”.
+
+### ART 2.
+
+In artikel 2, §1, 1°, van hetzelfde besluit, vervangen bij het koninklijk besluit van 28 april 2011 en gewijzigd bij het koninklijk besluit 29 januari 2014, wordt de bepaling&nbsp;<br>
+“Categorie AM :<br>
+- bromfietsen met een maximumsnelheid van meer dan 25 km/uur;<br>
+- lichte vierwielers.”&nbsp;<br>
+vervangen door de bepaling<br>
+“Categorie AM: een van de volgende voertuigen:<br>
+a) bromfietsen met een maximumsnelheid van meer dan 25 km/uur;<br>
+b) lichte vierwielers;<br>
+c) speedpedelecs.”.
+
+### ART 3.
+
+Aan artikel 35, 3°, van hetzelfde besluit wordt de zinsnede “, behalve als het examenvoertuig een speedpedelec is” toegevoegd.
+
+### ART 4.
+
+Aan artikel 38, §1, van hetzelfde besluit, vervangen bij het koninklijk besluit van 15 juli 2004 en gewijzigd bij het koninklijk besluit van 28 april 2011, worden een vierde en een vijfde lid toegevoegd, die luiden als volgt:&nbsp;<br>
+<br>
+“De kandidaat die het examen met een bromfiets met een maximumsnelheid van meer dan 25 km/uur aflegt, is uitgerust met een bromfietshelm.<br>
+<br>
+De kandidaat die het examen met een speedpedelec aflegt, is uitgerust met een bromfietshelm of een fietshelm.”.
+
 ### ART 5.
 
 In artikel 63, §2, van hetzelfde besluit, gewijzigd bij het koninklijk besluit van 10 juli 2006 en bij de besluiten van de Vlaamse Regering van 10 juli 2015, 20 januari 2017 en 2 juli 2021, worden de volgende wijzigingen aangebracht:<br>
