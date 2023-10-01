@@ -833,7 +833,7 @@ De Vlaamse Regering kan bij het sluiten, wijzigen of beëindigen van revalidatie
 
 ### ART 76.
 
-De Vlaamse Regering bepaalt de regels en voorwaarden voor de financiële en administratieve betrekkingen tussen de rechthebbenden en de verzekeringsinstellingen, tussen de rechthebbenden en de revalidatievoorzieningen en tussen de revalidatievoorzieningen en de verzekeringsinstellingen.
+...
 
 ### ART 77.
 
@@ -845,41 +845,23 @@ De Vlaamse Regering bepaalt de regels en voorwaarden voor de financiële en admi
 
 ### ART 78.
 
-§ 1. De Vlaamse Regering bepaalt de regels en voorwaarden betreffende de samenstelling, berekening, wijziging en vereffening van de tegemoetkomingen voor revalidatieverstrekkingen. Deze regels en voorwaarden worden door de minister verder geconcretiseerd en uitgewerkt in de revalidatieovereenkomst die gesloten wordt met elke revalidatievoorziening.<br>
-<br>
-In afwijking van het eerste lid, kan de Vlaamse Regering via de revalidatieovereenkomsten het bedrag van de tegemoetkoming per revalidatieverstrekking en het maximumaantal revalidatieverstrekkingen per kalenderjaar dat in aanmerking komt voor een tegemoetkoming bepalen voor elke revalidatievoorziening.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt het bedrag van de tegemoetkomingen voor reiskosten, die verband houden met de revalidatieverstrekkingen.<br>
-<br>
-De Vlaamse Regering kan regels en voorwaarden bepalen voor de samenstelling, de berekening en de vereffening van deze tegemoetkomingen.
+...
 
 ### ART 79.
 
-De revalidatieverstrekkingen worden vergoed in de vorm van een tegemoetkoming als ze in een revalidatieovereenkomst zijn opgenomen en worden verleend onder de voorwaarden die daarin worden vermeld.<br>
-<br>
-De tegemoetkoming wordt verleend aan de revalidatievoorziening.
+...
 
 ### ART 80.
 
-De reiskosten, vermeld in artikel 78, kunnen worden vergoed in de vorm van een tegemoetkoming.<br>
-<br>
-Conform de door de Vlaamse Regering vastgelegde voorwaarden, wordt de tegemoetkoming voor reiskosten, naargelang het geval, verleend aan de rechthebbende of de vervoerder.
+...
 
 ### ART 81.
 
-De Vlaamse Regering legt de regels en voorwaarden vast waaronder de tegemoetkomingen, vermeld in artikel 79 en 80, worden verleend.
+...
 
 ### ART 82.
 
-§ 1. Aan de rechthebbende aan wie zorg wordt verleend in een revalidatievoorziening kan een eigen bijdrage worden aangerekend.<br>
-<br>
-De eigen bijdrage ten laste van de rechthebbende kan bestaan uit een persoonlijk aandeel en extra vergoedingen.<br>
-<br>
-De Vlaamse Regering bepaalt de samenstelling en de omvang van de eigen bijdrage ten laste van de rechthebbende.<br>
-<br>
-§ 2. De Vlaamse Regering kan sociale correcties toepassen op de rechthebbenden met recht op een verhoogde tegemoetkoming in de ziekteverzekering, vermeld in artikel 37, § 19, van de wet gecoördineerd op 14 juli 1994.<br>
-<br>
-§ 3. De verminderingen van de inkomstenbronnen van de revalidatievoorzieningen door de toepassing van sanctiebepalingen of andere financiële maatregelen, kunnen niet aan de rechthebbenden worden aangerekend.
+...
 
 ## Afdeling 4. Overeenkomsten met een experimenteel karakter
 
