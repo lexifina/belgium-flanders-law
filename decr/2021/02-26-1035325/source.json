@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035325,
+  "title": "Decreet van 2021-02-26 tot wijziging van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden, wat betreft de bepalingen over gegevensverwerking en informatie-uitwisseling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035325/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "bf0c114dc6025cf573a45d19cc931f9d3d8b445c1e8781e70e80fb6c7825138e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035325&param=informatie",
+  "as_of": "2023-10-01",
+  "made": "2021-02-26",
+  "gazette": "2021-03-17",
+  "numac": 2021040874,
+  "document_start": "2023-10-01",
+  "document_end": null,
+  "in_force": "2023-10-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
