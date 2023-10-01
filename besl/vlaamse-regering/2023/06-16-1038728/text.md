@@ -1271,11 +1271,23 @@ Aan artikel 9.3.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 <br>
 “§5. In afwijking van paragraaf 1, paragraaf 2 en paragraaf 4, moet, voor een niet-residentieel gebouw of een niet-residentiële eenheid waarvoor op het moment van het verlijden van de authentieke akte reeds een geldig energieprestatiecertificaat beschikbaar is waaruit blijkt dat aan alle eisen, vermeld in paragraaf 1, eerste en tweede lid, paragraaf 2, en paragraaf 4, is voldaan binnen vijf jaar vanaf de datum van de authentieke akte geen energieprestatiecertificaat worden opgemaakt. Die eigenaar, opstalhouder of erfpachter van het niet-residentieel gebouw of de niet-residentiële eenheid in kwestie mag echter de in het energieprestatiecertificaat vermelde installaties of constructies alleen wijzigen of vervangen voor zover die wijzigingen of vervangingen elk op zich minstens dezelfde prestaties leveren die in het energieprestatiecertificaat of haar bijlagen vermeld werden.”.
 
+### ART 97.
+
+In artikel 9.3.2, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 juli 2021, worden volgende wijzigingen aangebracht:<br>
+1° de zinsnede “beschermd cultuurhistorisch landschap,” wordt opgeheven;<br>
+2° tussen de woorden “voorkomt op de” en de woorden “inventaris van bouwkundig erfgoed” wordt het woord “vastgestelde” ingevoegd.
+
 ### ART 98.
 
 Aan artikel 9.3.4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juli 2022, wordt een lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “In afwijking van het tweede lid moet voor een residentieel gebouw of een residentiële eenheid waarvoor op het moment van het verlijden van de authentieke akte reeds een geldig energieprestatiecertificaat beschikbaar is met een label waardoor op dat moment reeds aan de verplichting, vermeld in het eerste lid, is voldaan binnen vijf jaar vanaf de datum van de authentieke akte geen energieprestatiecertificaat worden opgemaakt. Die eigenaar, opstalhouder of erfpachter van het residentieel gebouw of de residentiële eenheid in kwestie mag echter de in het energieprestatiecertificaat vermelde installaties of constructies alleen wijzigen of vervangen voor zover die wijzigingen of vervangingen elk op zich minstens dezelfde prestaties leveren die in het energieprestatiecertificaat of haar bijlagen vermeld werden.”.
+
+### ART 99.
+
+Aan artikel 9.3.5 van hetzelfde besluit, ingevoegd bij het besluit van 8 juli 2022, worden volgende wijzigingen aangebracht:<br>
+1° de zinsnede “deel uitmaakt van een beschermd cultuurhistorisch landschap,” wordt opgeheven;<br>
+2° tussen de woorden “voorkomt op de” en de woorden “inventaris van bouwkundig erfgoed” wordt het woord “vastgestelde” ingevoegd.
 
 ### ART 100.
 

@@ -2,16 +2,16 @@
   "codex_id": 1038728,
   "title": "Besluit van de Vlaamse Regering van 2023-06-16 tot wijziging van het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Energiebesluit van 19 november 2010 en het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038728/VolledigDocument?datum=2023-09-07",
-  "source_sha256": "2353b2c833c724210d26540844ce1c66f69863618e41eb71fa895b64c9870d08",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038728/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "d4916c452d7d82e7d887b58e39ab2fa3746aa98babea46dbcd2d8193c3e78a35",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038728&param=informatie",
-  "as_of": "2023-09-07",
+  "as_of": "2023-10-01",
   "made": "2023-06-16",
   "gazette": "2023-08-28",
   "numac": 2023044728,
   "document_start": "2023-09-07",
   "document_end": null,
-  "in_force": "2023-09-07",
-  "article_versions": 105,
-  "record_form": "consolidated version as in force on 2023-09-07; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 107,
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }
