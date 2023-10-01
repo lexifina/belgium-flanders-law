@@ -70,6 +70,22 @@ Aan artikel 11.2.1, § 2, gewijzigd bij het decreet van 18 november 2011, wordt 
 <br>
 "De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat aangebracht worden op een opvallende plaats die duidelijk zichtbaar is voor het publiek.".
 
+### ART 12.
+
+In artikel 11.2.3 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 4 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+" § 2/1. Volgende categorieën van persoonsgegevens uit de energieprestatiecertificaten die opgenomen zijn in de energieprestatiecertificatendatabank worden actief openbaar gemaakt:<br>
+1° de identificatiegegevens van het gebouw of de gebouweenheid;<br>
+2° de geldigheidsdatum en de datum van indienen van het energieprestatiecertificaat;<br>
+3° het label en de energiescore van het energieprestatiecertificaat;<br>
+4° het type gebouw;<br>
+5° het erkenningsnummer van de energiedeskundige of de verslaggever.<br>
+De betrokkenen bij de verwerking van de persoonsgegevens, vermeld in het eerste lid, zijn:<br>
+1° de houder van een zakelijk recht op het gebouw;<br>
+2° de bewoner of gebruiker van het gebouw;<br>
+3° de energiedeskundige of verslaggever.";<br>
+2° in paragraaf 3, vierde en vijfde lid, worden de woorden "het Vlaams Energieagentschap" vervangen door de woorden "het VEKA".
+
 ### ART 13.
 
 In artikel 11.2/2.1 van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020, worden volgende wijzigingen aangebracht:<br>
