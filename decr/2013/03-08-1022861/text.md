@@ -14,8 +14,9 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 3° beleidsdomein : een homogeen beleidsdomein als vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, of een onderdeel ervan;<br>
 4° gedetineerde : een verdachte, veroordeelde of geïnterneerde die zich voltijds of deeltijds in een gevangenis bevindt;<br>
 5° gevangenis : een door de Federale Staat aangewezen inrichting die bestemd is voor de tenuitvoerlegging van veroordelingen tot een vrijheidsstraf en van vrijheidsbenemende maatregelen, als de inrichting in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad ligt, of als de inrichting elders ligt en het voorwerp is van een overeenkomst met de bevoegde overheid;<br>
-6° gevangenisdirectie : de personeelsleden van de Federale Staat, die belast zijn met het lokaal bestuur van een gevangenis;<br>
-7° hulp- en dienstverlening : alle hulp- en dienstverlening die door de Vlaamse Gemeenschap en het Vlaamse Gewest wordt georganiseerd of verstrekt en die relevant is voor de gedetineerden.</p>
+6° gevangenisdirectie : de personeelsleden van de penitentiaire administratie, die belast zijn met het lokaal bestuur van een gevangenis;<br>
+7° hulp- en dienstverlening : alle hulp- en dienstverlening die door de Vlaamse Gemeenschap en het Vlaamse Gewest wordt georganiseerd of verstrekt en die relevant is voor de gedetineerden;<br>
+8° penitentiaire administratie: de penitentiaire administratie, vermeld in artikel 2, 11°, van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden.</p>
 
 <p>Een gesloten federaal centrum voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd, als vermeld in artikel 606 van het Wetboek van Strafvordering, wordt gelijkgesteld met een gevangenis, als het centrum in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad ligt, of als het centrum elders ligt en het voorwerp is van een overeenkomst met de bevoegde overheid.</p>
 
@@ -73,11 +74,11 @@ Voor de opvolging van de uitvoering van het actieplan, vermeld in artikel   10, 
 
 ### ART. 14.
 
-<p>Met het oog op de organisatie en de opvolging van de hulp- en dienstverlening, geregeld bij of krachtens dit decreet, en om die hulp- en dienstverlening op maat van elke gedetineerde te verstrekken, verwerken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de persoonsgegevens van de gedetineerden, met inachtneming van de bepalingen van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.</p>
+<p>Met het oog op de organisatie en de opvolging van de hulp- en dienstverlening, geregeld bij of krachtens dit decreet, en om die hulp- en dienstverlening op maat van elke gedetineerde te verstrekken, verwerken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de persoonsgegevens van de gedetineerden, met inachtneming van de bepalingen van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.&nbsp;Die persoonsgegevens bevatten ook persoonsgegevens als vermeld in artikel 4, 1), artikel 9, lid 1, en artikel 10 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
 
 <p>Voor de realisatie van de doelstellingen, vermeld in het eerste lid, kunnen de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren onder elkaar persoonsgegevens van een gedetineerde uitwisselen, met behoud van de verplichtingen en beperkingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens of uit de regelgeving van de sectoren waartoe de actoren behoren.</p>
 
-<p>Met behoud van de toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, bepaalt de Vlaamse Regering de nadere regels voor de verwerking en uitwisseling van persoonsgegevens, vermeld in het eerste en tweede lid.<br>
+<p>Met behoud van de toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, bepaalt de Vlaamse Regering de nadere regels voor de verwerking en uitwisseling van persoonsgegevens, vermeld in het eerste en tweede lid, en concretiseert de Vlaamse Regering de persoonsgegevens die worden verwerkt en uitgewisseld in het kader van het eerste en tweede lid.<br>
 <br>
 Voor de gegevensuitwisseling, vermeld in het tweede lid, gebruiken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de volgende identificatiemiddelen:<br>
 1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
@@ -89,15 +90,35 @@ De personen die belast zijn met de coördinatie, de trajectbegeleiding of de ond
 <br>
 De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit voor de verwerking van persoonsgegevens, de voorwaarden en modaliteiten van de gegevensverwerking, vermeld in het eerste lid, nader.
 
+### ART 15/1.
+
+Het coördinatieteam, vermeld in artikel 11, bezorgt deelnemerslijsten voor het groepsaanbod en het individuele aanbod aan de penitentiaire administratie om de deelname van gedetineerden aan dat aanbod praktisch te kunnen organiseren. Het coördinatieteam bezorgt aanwezigheidslijsten voor het opleidingsaanbod aan de penitentiaire administratie, zodat die gedetineerden kan vergoeden voor hun deelname aan dat opleidingsaanbod.<br>
+<br>
+Met betrekking tot de deelnemerslijsten worden volgende categorieën van persoonsgegevens verwerkt:<br>
+1° identificatiegegevens van de gedetineerde;<br>
+2° gegevens met betrekking tot de concrete verblijfplaats van de gedetineerde in de gevangenis;<br>
+3° gegevens met betrekking tot het aanbod.<br>
+<br>
+Met betrekking tot de aanwezigheidslijsten worden volgende categorieën van persoonsgegevens verwerkt:<br>
+1° identificatiegegevens van de gedetineerde;<br>
+2° gegevens met betrekking tot het aanbod;<br>
+3° de aanwezigheidsstatus van de gedetineerde.<br>
+<br>
+De Vlaamse Regering concretiseert de gegevens die vermeld worden op de deelnemers- en aanwezigheidslijsten, vermeld in het tweede en derde lid.
+
 ### ART. 16.
 
-<p>De Vlaamse Regering stelt aan de personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren een digitaal systeem ter beschikking ter ondersteuning van de gegevensverwerking en -uitwisseling, vermeld in artikelen 14 en 15, met uitzondering voor de taken van trajectbegeleiding.</p>
+<p>De Vlaamse Regering stelt aan de personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren een digitaal systeem ter beschikking ter ondersteuning van de gegevensverwerking en -uitwisseling in het kader van de praktische organisatie van het groepsaanbod.</p>
 
 <p>De entiteit die verantwoordelijk is voor de coördinatie en ondersteuning van de organisatie van de hulp- en dienstverlening is verwerkingsverantwoordelijke in het kader van de organisatie van het digitaal systeem vermeld in het eerste lid.<br>
 <br>
 In het tweede lid wordt verstaan onder verwerkingsverantwoordelijke : de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 <br>
 De personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren zijn verantwoordelijk voor de inhoud die ze ter beschikking stellen via het digitale systeem en voor het zorgvuldige gebruik van de gegevens, al dan niet persoonsgegevens, die ze verkregen hebben via het digitale systeem.</p>
+
+### ART 16/1.
+
+De gegevens over een gedetineerde in het digitale systeem, vermeld in artikel 16 van dit decreet, worden bewaard tot één jaar na de laatste deelname aan het aanbod.
 
 ## HOOFDSTUK 5 Slotbepalingen
 

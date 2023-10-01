@@ -2,16 +2,16 @@
   "codex_id": 1022861,
   "title": "Decreet van 2013-03-08 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022861/VolledigDocument?datum=2022-05-23",
-  "source_sha256": "d5a6bfcd43edba262460075eae0917055f5b9b67c508b5db9cc6b479948daf7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022861/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "06b43450a3eb7675f9a03e2e535dde3ab21c8906040a57b089b779eb8fc2ce7e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022861&param=informatie",
-  "as_of": "2022-05-23",
+  "as_of": "2023-10-01",
   "made": "2013-03-08",
   "gazette": "2013-04-11",
   "numac": 2013035311,
   "document_start": "2013-04-21",
   "document_end": null,
-  "in_force": "2022-05-23",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2022-05-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }
