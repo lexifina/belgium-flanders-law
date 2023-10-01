@@ -98,6 +98,10 @@ In artikel 15, § 3, tweede lid, 2°, van hetzelfde decreet wordt de zinsnede "i
 
 In artikel 18, eerste lid, 2°, van hetzelfde decreet wordt het woord "Ziekteverzekeringswet" vervangen door de zinsnede "wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994".
 
+### ART 13.
+
+In artikel 28/1, § 2, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 3 mei 2019, wordt tussen het woord "gebruiker" en het woord "die" de zinsnede "of, wat tegemoetkomingen voor reiskosten betreft, per vervoerder" ingevoegd.
+
 ### ART 14.
 
 In artikel 34, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -774,6 +778,10 @@ In artikel 75, § 1, van hetzelfde decreet worden de volgende wijzigingen aangeb
 1° het tweede lid wordt vervangen door wat volgt:<br>
 "De Vlaamse Regering kan bij het sluiten, wijzigen of beëindigen van revalidatieovereenkomsten, vermeld in het eerste lid, het advies van de Expertencommissie inwinnen.";<br>
 2° het derde en het vierde lid worden opgeheven.
+
+### ART 112.
+
+Artikel 76 van hetzelfde decreet wordt opgeheven.
 
 ### ART 114.
 
