@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038823,
+  "title": "Ministerieel besluit van 2023-09-25 tot actualisering van de minimale rente bij het toekennen van de overbruggingslening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038823/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "04fcaab51287b649ecde6717d2cc752777735d8d04dd4cd1bbbdf5b81d6087e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038823&param=informatie",
+  "as_of": "2023-10-01",
+  "made": "2023-09-25",
+  "gazette": "2023-10-03",
+  "numac": 2023045825,
+  "document_start": "2023-10-01",
+  "document_end": null,
+  "in_force": "2023-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
