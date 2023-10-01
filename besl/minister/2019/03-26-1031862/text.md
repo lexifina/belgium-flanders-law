@@ -30,9 +30,10 @@ De vergoeding voor een vaststelling die de MDT-arts uitvoert conform artikel 17,
 
 De vergoeding van de evaluerende arts bedraagt:<br>
 1° voor de opdrachten, vermeld in artikel 25, eerste lid, 1°, van het besluit van 7 december 2018:<br>
-a) voor een evaluatie in een spreekkamer: 83,29 euro;<br>
-b) voor een evaluatie aan huis: 83,29 euro;<br>
-c) voor een evaluatie onder begeleiding van een mentorarts: 41,65 euro;<br>
+a) voor een evaluatie alleen op grond van de bezorgde informatie: 49,97 euro;<br>
+b) voor een evaluatie aan huis: 66,63 euro;<br>
+c) voor een evaluatie onder begeleiding van een mentorarts: 33,32 euro;<br>
+d) voor een evaluatie met een observationeel onderzoek: 66,63 euro;<br>
 2° voor de opdrachten die hij in het kader van een beroepsprocedure voor de arbeidsrechtbank heeft uitgevoerd, vermeld in artikel 25, derde lid, van het voormelde besluit:<br>
 a) voor het opstellen van een omstandig verslag in het kader van een tegenexpertise: 87,06 euro;<br>
 b) voor de aanwezigheid op de gerechtelijke zitting van de arbeidsrechtbank: 87,04 euro;<br>
@@ -41,7 +42,7 @@ b) voor de aanwezigheid op de gerechtelijke zitting van de arbeidsrechtbank: 87,
 
 ### ART 4.
 
-De vergoeding van de evaluerende arts die optreedt als mentorarts, als vermeld in artikel 32 van het besluit van 7 december 2018, bedraagt 124,93 euro voor het begeleiden van een evaluatie als mentorarts.
+De vergoeding van de evaluerende arts die optreedt als mentorarts, als vermeld in artikel 32 van het besluit van 7 december 2018, bedraagt 99,94 euro voor het begeleiden van een evaluatie als mentorarts.
 
 ### ART 5.
 
