@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038684,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot wijziging van het besluit van de Vlaamse Regering van 18 mei 2018 betreffende de organisatie van een gemeentelijke volksraadpleging en een volksraadpleging in het district, en betreffende de samenstelling en de werking van de Vlaamse Adviescommissie voor Volksraadplegingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038684/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "3d5a9445e20a8039f8bf61dd6d07b909510aade69356891a6c349fa489031311",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038684&param=informatie",
+  "as_of": "2023-10-01",
+  "made": "2023-07-14",
+  "gazette": "2023-09-15",
+  "numac": 2023044448,
+  "document_start": "2023-10-01",
+  "document_end": null,
+  "in_force": "2023-10-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
