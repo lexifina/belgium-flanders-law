@@ -158,7 +158,7 @@ Artikel 9 van dit besluit heeft uitwerking met ingang van 1 januari 2022.<br>
 <br>
 Artikel 4, 15 tot en met 17 van dit besluit hebben uitwerking met ingang van 1 januari 2023.<br>
 &nbsp;&nbsp; &nbsp;<br>
-Artikel 7 en 11 van dit besluit treden in werking op 1 oktober 2023.<br>
+Artikel 7 en 11 van dit besluit treden in werking op 1 januari 2024.<br>
 <br>
 Artikel 1, 2, 3 en 18 treden in werking op de datum die de minister, bevoegd voor het woonbeleid, vaststelt.&nbsp;<br>
 <br>
