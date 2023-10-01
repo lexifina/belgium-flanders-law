@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038507,
+  "title": "Decreet van 2023-06-16 tot wijziging van het Provinciedecreet van 9 december 2005 en het decreet van 22 december 2017 over het lokaal bestuur, wat betreft de beëindiging van de hoedanigheid van het statutaire personeelslid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038507/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "471f290434079b91bee312f006f0a471f553f420ba44d89cdb144a47f6844dd5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038507&param=informatie",
+  "as_of": "2023-10-01",
+  "made": "2023-06-16",
+  "gazette": "2023-07-10",
+  "numac": 2023043281,
+  "document_start": "2023-10-01",
+  "document_end": null,
+  "in_force": "2023-10-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
