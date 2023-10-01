@@ -354,7 +354,7 @@ In de periode van 1 januari 2023 tot en met 30 juni 2023 is het in het ICES-gebi
 <br>
 In de periode van 1 juli 2023 tot en met 31 oktober 2023 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS met vismachtiging conform artikel 11, § 2, verboden een totale tongvangst te realiseren die groter is dan 2000 kg.<br>
 <br>
-Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf, g, is het in het ICES-gebied VIIe verboden een hoeveelheid te overschrijden van 300 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied.
+Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf, g, is het in het ICES-gebied VIIe verboden een hoeveelheid te overschrijden van 150 kg, gerealiseerd tijdens die zeereis in dat ICES-gebied.
 
 ## Afdeling 2. Tong Zuidwest-Ierland, zijnde ICES-gebieden VIIh, j, k
 
@@ -412,9 +412,11 @@ Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor ee
 <br>
 Vanaf 16 augustus 2023 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§2. Van 1 januari 2023 tot 28 februari 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 1 maart 2023 worden de hierboven vermelde hoeveelheden voor die vaartuigen terug verminderd tot de hoeveelheden vermeld in paragraaf 1.<br>
+§2. Van 1 januari 2023 tot 28 februari 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.&nbsp;In de periode van 1 maart 2023 tot en met 15 augustus 2023 worden de hierboven vermelde hoeveelheden voor die vaartuigen terug verminderd tot de hoeveelheden vermeld in paragraaf 1.<br>
 <br>
-Vanaf 16 augustus 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 16 augustus 2023 tot en met 30 september 2023&nbsp;worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 oktober 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 §3. In de periode van 1 januari 2023 tot en met 30 juni 2023 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
 <br>
@@ -462,11 +464,9 @@ Het is in de ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verb
 
 ### ART 25.
 
-§1. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
+§1. Het is voor een vissersvaartuig in de ICES-gebieden II, IV en VII, verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
-Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust zijn met de zegen en die per zeereis minder dan 10 kg Noordzeetong aanlanden, bedraagt 50 ton. Zolang dat quotum niet is opgebruikt, geldt de beperking, vermeld in het eerste lid, niet.<br>
-<br>
-Het in het eerste lid vermelde dagplafond wordt voor de vaartuigen die uitgerust zijn met planken, binnen een gereserveerde hoeveelheid van 50 ton, verdubbeld naar 100kg. Zodra het plafond is bereikt, valt het dagplafond terug op 50 kg.<br>
+Van zodra 80% van het quotum aan makreel in de ICES-gebieden II, IV, of VII, inclusief quotaruilen, is opgebruikt, is het verboden bij een makreelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in het betreffende ICES-gebied of ICES-gebieden. De reders zullen, van zodra de 80% is bereikt in ICES-gebied II, IV of VII , hiervan per e-mail op de hoogte worden gebracht.<br>
 <br>
 §1/1. Voor de ICES-gebieden VII is het voor een vissersvaartuig verboden bij de makreelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -520,7 +520,9 @@ Er worden geen vangstbeperkingen voor schelvisvangst in het ICES-gebied VIIa ing
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
-§13. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+§13. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Van zodra 80% van het quotum in de ICES-gebieden IVb-c en VIId is opgevist, is het voor een vissersvaartuig verboden bij de horsmakreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. De reders zullen, van zodra de 80% is bereikt in de ICES-gebieden IVb-c of VIId, hiervan per e-mail op de hoogte worden gebracht.
 
 ## Hoofdstuk 3. Inruilen van dagen
 
