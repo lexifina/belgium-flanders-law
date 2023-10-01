@@ -19,14 +19,6 @@ Dit besluit is gebaseerd op het volgende motief:<br>
 <br>
 DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW BESLUIT:
 
-### ART 1.
-
-Met toepassing van artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen, wordt de rente, vermeld in artikel 13, eerste lid, van hetzelfde besluit, voor de periode 1 juli 2023 tot en met 30 september 2023 bepaald als volgt:<br>
-1° 4,14% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
-2° 4,64% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
-3° 4,64% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden;<br>
-4° 5,64% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden.
-
 ### ART 2.
 
 De rente, vermeld in artikel 1, wordt toegepast op steunaanvragen die het &nbsp;Agentschap Innoveren en Ondernemen ontvangt in de periode van 1 juli 2023 tot en met 30 september 2023.<br>
