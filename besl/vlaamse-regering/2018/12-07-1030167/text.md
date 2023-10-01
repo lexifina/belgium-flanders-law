@@ -124,9 +124,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 1/1.
 
-Dit besluit is niet van toepassing op de tegemoetkomingen voor revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.72, en op de tegemoetkomingen voor geplande revalidatieverstrekkingen in het buitenland die behoren tot het zorgaanbod van de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.72.<br>
-<br>
-In afwijking van het eerste lid is dit besluit van toepassing op de tegemoetkomingen voor de reiskosten die verband houden met de revalidatieverstrekkingen, vermeld in het eerste lid.
+Dit besluit is van toepassing op de tegemoetkomingen voor revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90 of 7.76.7.
 
 ## Titel 2. Organisatie
 
@@ -406,7 +404,7 @@ De verzekeringsinstellingen controleren per kwartaal en maandelijks of de uitbet
 ### ART 22.
 
 § 1. De verzekeringsinstelling wordt belast met de betaling van:<br>
-1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1, 194 en 196, 324 en 327;<br>
+1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1 en 196, 324 en 327;<br>
 2° ...<br>
 <br>
 De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, rechtstreeks aan de zorgvoorziening.<br>
@@ -1144,6 +1142,46 @@ Het psychiatrisch verzorgingstehuis bezorgt de administratie jaarlijks de gegeve
 In ieder psychiatrisch verzorgingstehuis wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan de administratie en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen. Deze gegevens bieden de mogelijkheid om tot beleidsmatige inzichten te komen en maatregelen te rechtvaardigen.<br>
 <br>
 De bewaartermijn van de in het eerste lid vermelde gegevens is één jaar na het bezorgen van de gegevens.
+
+### ART 88/1.
+
+§1. Elk psychiatrisch verzorgingstehuis voert een eigen boekhouding conform de regels, die opgenomen zijn in bijlage 1, die bij het koninklijk besluit van 14 augustus 1987 tot bepaling van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen is gevoegd.<br>
+<br>
+§2. Voor de rekeningen en onderverdelingen die niet voorkomen in de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen worden de rekeningen en onderverdelingen van rekeningen overgenomen die voorkomen in de minimumindeling van het rekeningstelsel voor de verenigingen &nbsp;dat is opgenomen in de bijlage 3, die bij het koninklijk besluit van 21 &nbsp;oktober 2018 tot uitvoering van de artikelen III.82 tot en met III.95 van het wetboek van Economisch recht is gevoegd.<br>
+<br>
+§3. De rekeningen die opgenomen zijn in de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen en die voor een psychiatrisch verzorgingstehuis niet dienstig zijn, hoeven in het rekeningenstelsel niet voor te komen.<br>
+<br>
+§4. De kosten en opbrengsten van psychiatrische verzorgingstehuizen worden geboekt op grond van hun aard, namelijk algemene boekhouding, klasse 6 en 7 van de rekeningen, en op basis van de volgende bestanddelen van de kostprijs:<br>
+1°&nbsp;&nbsp; &nbsp;de afschrijvingen;<br>
+2°&nbsp;&nbsp; &nbsp;de financiële lasten;<br>
+3°&nbsp;&nbsp; &nbsp;de algemene kosten;<br>
+4°&nbsp;&nbsp; &nbsp;het onderhoud;<br>
+5°&nbsp;&nbsp; &nbsp;de verwarming;<br>
+6°&nbsp;&nbsp; &nbsp;de administratie;<br>
+7°&nbsp;&nbsp; &nbsp;de was en het linnen;<br>
+8°&nbsp;&nbsp; &nbsp;de voeding;<br>
+9°&nbsp;&nbsp; &nbsp;het internaat;<br>
+10°&nbsp;&nbsp; &nbsp;de medische kosten.<br>
+<br>
+Elke verrichting die tot een kost of een opbrengst leidt, is het voorwerp van een codecijfer dat bestaat uit de volgende twee delen:<br>
+1°&nbsp;&nbsp; &nbsp;het eerste deel bestaat uit ten minste vijf cijfers en verwijst naar de kosten- of opbrengstenrekening volgens de aard waarmee de verrichting overeenstemt;<br>
+2°&nbsp;&nbsp; &nbsp;het tweede deel bestaat uit een cijfer dat overeenstemt met het bestanddeel van de kostprijs, vermeld in het eerste lid.<br>
+<br>
+§5. De volgende rekening van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen wordt aangepast voor de psychiatrische verzorgingstehuizen. Rekening 700 wordt onderverdeeld in:<br>
+1°&nbsp;&nbsp; &nbsp;7001: tegemoetkoming van de verzekeringsinstellingen en zorgkassen;<br>
+2°&nbsp;&nbsp; &nbsp;7002: tegemoetkoming van het agentschap;<br>
+3°&nbsp;&nbsp; &nbsp;7003: tegemoetkoming van de zorggebruikers.<br>
+<br>
+§6. De volgende inlichtingen worden meegedeeld aan het agentschap op zijn verzoek en op de wijze die het agentschap bepaalt:<br>
+1°&nbsp;&nbsp; &nbsp;de eindbalans, de resultatenrekening voor het psychiatrisch verzorgingstehuis, de staten en de inlichtingen waarvan de modellen bij het koninklijk besluit van 19 juni 2007 betreffende de jaarrekeningen van de ziekenhuizen zijn vastgesteld;<br>
+2°&nbsp;&nbsp; &nbsp;het aantal dagen dat gerealiseerd is gedurende het beschouwde boekjaar, &nbsp;en de uitsplitsing van die dagen per maand, per betalingsinstelling en volgens een van de volgende categorieën:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;zorggebruiker met een verstandelijke beperking;<br>
+b)&nbsp;&nbsp; &nbsp;zorggebruiker zonder verstandelijke beperking;<br>
+3°&nbsp;&nbsp; &nbsp;de inlichtingen over het personeel, vermeld in artikel 89, per kalenderjaar.
+
+### ART 88/2.
+
+De beheerinstantie van het psychiatrisch verzorgingstehuis gaat binnen dertig dagen in op de vragen naar informatie van het agentschap en deelt aan het agentschap alle inlichtingen en documenten mee die het agentschap noodzakelijk acht om toezicht uit te oefenen op de uitvoering van dit besluit.
 
 ## HOOFDSTUK 5. Personeelsnormen
 
@@ -2160,13 +2198,13 @@ Bij onmiddellijk, reëel en ernstig gevaar voor de gezondheid en de veiligheid v
 2° jaarenveloppe: het maximale totaalbedrag dat een revalidatievoorziening per kalenderjaar mag aanrekenen aan de verzekeringsinstellingen, dat wordt bepaald in de revalidatieovereenkomst;<br>
 3° theoretisch aantal eenheidsverstrekkingen: het maximumaantal eenheidsverstrekkingen dat een revalidatievoorziening per kalenderjaar kan verrichten, als een bezettingsgraad van 100 % wordt gerealiseerd, dat wordt geconcretiseerd in de revalidatieovereenkomst.<br>
 <br>
-§ 2. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.71, 7.73, 7.74, 7.76 of 9.69, wordt bepaald volgens de volgende formule: jaarenveloppe = (eenheidsprijs x 90 % van het theoretische aantal eenheidsprestaties) + (50 % van de eenheidsprijs x 8 % van het theoretische aantal eenheidsprestaties).<br>
+§ 2. ...<br>
 <br>
-§ 3. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 9.53 of 9.65, wordt bepaald volgens de volgende formule: jaarenveloppe = (eenheidsprijs x 90 % van het theoretische aantal eenheidsprestaties) + (50 % van de eenheidsprijs x 2 % van het theoretische aantal eenheidsprestaties).<br>
+§ 3. ...<br>
 <br>
-§ 4. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.74.6, wordt bepaald volgens de volgende formule: jaarenveloppe = eenheidsprijs x het theoretische aantal eenheidsprestaties.<br>
+§ 4. ...<br>
 <br>
-§ 5. Voor revalidatievoorzieningen die verschillende soorten revalidatieverstrekkingen kunnen leveren, wordt in de revalidatieovereenkomst bepaald hoe de verschillende soorten revalidatieverstrekkingen zich verhouden tot de eenheidsverstrekking. Bij alle revalidatieverstrekkingen, waarvoor een tegemoetkoming kan worden aangerekend, wordt in voorkomend geval een mathematische waarde ten opzichte van de eenheidsverstrekking bepaald. De grenzen van de jaarenveloppes worden daarbij gerespecteerd.<br>
+§ 5. ...<br>
 <br>
 § 6. Voor de revalidatieovereenkomsten waarvan het erkenningsnummer begint met het nummer 7.90, wordt geen maximum aantal revalidatieverstrekkingen per kalenderjaar bepaald.<br>
 <br>
@@ -2260,19 +2298,11 @@ In september 2022 maakt de administratie een eindafrekening voor het compenseren
 
 ### ART 194.
 
-Aan een zorggebruiker die jonger dan achttien jaar is en aan wie een revalidatieverstrekking wordt verleend in een revalidatievoorziening wordt een forfaitaire tegemoetkoming voor reiskosten toegekend als voldaan is aan al de volgende voorwaarden:<br>
-1° de revalidatievoorziening heeft een erkenningsnummer dat begint met het nummer 7.74.6 of 9.69;<br>
-2° de zorggebruiker komt in aanmerking voor een tegemoetkoming voor revalidatieverstrekkingen, verleend in het kader van de revalidatieovereenkomsten, vermeld in punt 1° ;<br>
-3° de zorggebruiker verblijft niet in een ziekenhuis of een revalidatieziekenhuis, waarin een revalidatieovereenkomst als vermeld in punt 1°, is gesitueerd;<br>
-4° de zorggebruiker wordt niet in zijn werkelijke verblijfplaats behandeld.<br>
-<br>
-De revalidatievoorziening attesteert de dagen waarop, conform de voorwaarden, vermeld in het eerste lid, een revalidatieverstrekking aan de zorggebruiker is verleend. Ze bezorgt dat attest aan de zorggebruiker.
+...
 
 ### ART 195.
 
-De tegemoetkoming voor reiskosten, vermeld in artikel 194, bedraagt 17,5 euro per dag waarop minstens een ambulante revalidatieverstrekking aan de zorggebruiker wordt verleend.<br>
-<br>
-De tegemoetkoming voor reiskosten, vermeld in artikel 194, wordt door de verzekeringsinstellingen, waarbij de zorggebruiker is aangesloten of ingeschreven, automatisch betaald op basis van het attest, vermeld in artikel 194, tweede lid, dat wordt afgeleverd door de zorggebruiker.
+...
 
 ## Afdeling 2. Tegemoetkomingen voor reiskosten voor zorggebruikers die worden vervoerd in een voertuig dat is aangepast voor het vervoer in een rolstoel
 
@@ -2282,9 +2312,7 @@ Voor het vervoer van een zorggebruiker aan wie een revalidatieverstrekking wordt
 1° de zorggebruiker komt in aanmerking voor een tegemoetkoming voor een ambulante revalidatieverstrekking op dezelfde dag;<br>
 2° de zorggebruiker kan wegens de aard en de ernst van zijn aandoening alleen worden vervoerd in een rolstoel in een voertuig dat is aangepast voor het vervoer in een rolstoel;<br>
 3° de zorggebruiker verblijft niet in een ziekenhuis of een revalidatieziekenhuis, waarin een revalidatieovereenkomst is gesitueerd;<br>
-4° de zorggebruiker wordt niet in zijn werkelijke verblijfplaats behandeld.<br>
-<br>
-In afwijking van het eerste lid moet in de gevallen, waarin een verlenging van de revalidatieperiode als vermeld in artikel 214, wordt toegekend en de zorggebruiker al voorheen aanspraak maakte op de tegemoetkoming voor reiskosten, vermeld in dit artikel, niet voldaan zijn aan de voorwaarde, vermeld in het eerste lid, 2°.
+4° de zorggebruiker wordt niet in zijn werkelijke verblijfplaats behandeld.
 
 ### ART 197.
 
@@ -2330,7 +2358,7 @@ De tegemoetkoming voor reiskosten, vermeld in artikel 196, is afhankelijk van de
 
 ### ART 202.
 
-De bedragen, vermeld in artikel 195 en 197, worden, tenzij het anders vermeld is, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
+De bedragen, vermeld in artikel 197, worden, tenzij het anders vermeld is, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
 <br>
 De bedragen, vermeld in het eerste lid, worden aangepast conform de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
 <br>
@@ -2358,7 +2386,7 @@ In dit hoofdstuk wordt verstaan onder:<br>
 1° aanvraag: de aanvraag van de tegemoetkoming voor revalidatieverstrekkingen, waarbij, in voorkomend geval, de aanvraag wordt toegevoegd van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, die verband houden met die revalidatieverstrekkingen;<br>
 2° ontvangstdatum: de datum waarop de volledige aanvraag is ontvangen. Bij verzending met een aangetekende zending is dat de postdatum van de brief waarmee de volledige aanvraag is verzonden. Als de postdatum ontbreekt, is het de datum waarop de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een volledige aanvraag heeft ontvangen. Een aanvraag wordt in de volgende gevallen als volledig beschouwd:<br>
 a) deel 1 en 2, vermeld in artikel 209, 1° en 2°, zijn ondertekend en gedagtekend en deel 3, vermeld in artikel 209, 3°, is ondertekend en gedagtekend. Een aanvraag voor reiskosten kan gedaan worden door deel 1, 2 en 3 aan te vullen in de aanvraag, vermeld in artikel 209, 1° tot en met 3°, met deel 4, vermeld in artikel 209, 4°, of door een afzonderlijke aanvraag in te dienen waarin deel 1 en 2, vermeld in artikel 209, 1° en 2°, ondertekend en gedagtekend zijn, en deel 4 ingevuld en onderbouwd is met het verslag conform artikel 209, 4°, waarbij de reiskosten gekoppeld zijn aan een revalidatieverstrekking waarvoor een tegemoetkoming door de verzekeringsinstelling is toegekend;<br>
-b) in afwijking van punt a) wordt een aanvraag voor reiskosten die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen met het erkenningsnummer 7.72, als volledig beschouwd als deel 1 en 2, vermeld in artikel 209, 1° en 2°, ondertekend en gedagtekend zijn voor de reiskosten, en deel 4 ingevuld en onderbouwd is met het verslag conform artikel 209, 4°, waarbij de reiskosten gekoppeld zijn aan een revalidatieverstrekking waarvoor een tegemoetkoming is toegekend conform artikel 534/117 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+b) ....
 
 ### ART 205.
 
@@ -2369,8 +2397,6 @@ Een tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de re
 De revalidatievoorziening, waartoe de zorggebruiker zich wendt, verstuurt de aanvraag naar de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, voordat de revalidatieverstrekkingen worden verleend.<br>
 <br>
 De revalidatievoorziening stelt de revalidatieovereenkomst ter beschikking van de zorggebruiker of zijn wettelijke vertegenwoordiger voordat de aanvraag wordt ingediend.<br>
-<br>
-Als het een aanvraag voor de reiskosten betreft die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen met het erkenningsnummer 7.72, vermeld in artikel 204, 2°, b), verstuurt de revalidatievoorziening de aanvraag naar de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, voordat de verplaatsingen plaatsvinden waarop de reiskosten betrekking hebben.<br>
 <br>
 De aanvraag wordt ingediend met een aangetekende zending of om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.<br>
 <br>
@@ -2450,7 +2476,7 @@ De beslissing tot weigering van de aanvraag van de verzekeringsinstelling waarbi
 
 ### ART 214.
 
-De verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, kan een beslissing tot gehele of gedeeltelijke goedkeuring van een aanvraag verlengen in een nieuwe beslissing.
+...
 
 ### ART 215.
 
@@ -2478,64 +2504,31 @@ Een a posteriori controle van de conformiteit van de medische gegevens, die word
 
 ### ART 217.
 
-In de revalidatievoorzieningen kan een persoonlijk aandeel worden aangerekend aan de zorggebruiker. Het persoonlijk aandeel is een financiële bijdrage van de zorggebruiker in de zorgkosten.<br>
-<br>
-Een persoonlijk aandeel kan alleen worden aangerekend als aan de zorggebruiker aan wie een tegemoetkoming voor revalidatieverstrekkingen wordt toegekend in het kader van een revalidatieovereenkomst.<br>
-<br>
-In afwijking van het eerste lid kan geen persoonlijk aandeel worden aangerekend aan een zorggebruiker in de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90.
+...
 
 ### ART 218.
 
-In de revalidatievoorzieningen kunnen extra vergoedingen worden aangerekend aan de zorggebruiker. Extra vergoedingen zijn kosten voor de zorggebruiker voor diensten en goederen, die verricht of geleverd worden door de revalidatievoorziening, en die niet worden vergoed door de tegemoetkoming voor revalidatieverstrekkingen, noch door het persoonlijk aandeel.<br>
-<br>
-Extra vergoedingen kunnen alleen worden aangerekend aan de zorggebruiker aan wie een tegemoetkoming voor revalidatieverstrekkingen wordt toegekend in het kader van een revalidatieovereenkomst voor zover die extra vergoedingen limitatief vermeld worden in de revalidatieovereenkomst.<br>
-<br>
-In afwijking van het eerste lid kunnen geen extra vergoedingen worden aangerekend aan de zorggebruiker in de volgende revalidatievoorzieningen:<br>
-1° 7.74.601.41 - Expertisecentrum voor ASS UZ Leuven Gasthuisberg;<br>
-2° 7.74.604.38 - Referentiecentrum Autismespectrumstoornissen Antwerpen;<br>
-3° 7.74.605.37 - Referentiecentrum Autismespectrumstoornissen UZ Gent;<br>
-4° 7.74.606.36 - Referentiecentrum Autismespectrumstoornissen UZ Brussel;<br>
-5° de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90.
+...
 
 ### ART 219.
 
-Voor ambulante revalidatie bedraagt het persoonlijk aandeel 1,80 euro per revalidatieverstrekking.<br>
-<br>
-In afwijking van het eerste lid zijn de zorggebruikers met recht op een verhoogde tegemoetkoming voor ambulante revalidatie geen persoonlijk aandeel verschuldigd.
+...
 
 ### ART 220.
 
-Voor een verblijf in een revalidatievoorziening, bedraagt het persoonlijk aandeel voor de eerste dag van het verblijf 43,20 euro. Vanaf de tweede dag van het verblijf bedraagt het persoonlijk aandeel 15,93 euro per dag.<br>
-<br>
-In afwijking van het eerste lid bedraagt het persoonlijk aandeel vanaf de eerste dag 15,93 euro per dag in de volgende gevallen:<br>
-1° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008;<br>
-2° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een revalidatieziekenhuis als vermeld in artikel 2, 17°, van het decreet van 6 juli 2018;<br>
-3° als het verblijf begint binnen zes maanden na ontslag uit een psychiatrisch ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008;<br>
-4° als het verblijf begint binnen negentig dagen na de dag waarop een opname voor residentiële revalidatie in dezelfde of een andere revalidatievoorziening is beëindigd.
+...
 
 ### ART 221.
 
-In afwijking van artikel 220 bedraagt het persoonlijk aandeel voor een verblijf in een revalidatievoorziening de eerste dag van het verblijf 32,93 euro en vanaf de tweede dag van het verblijf 5,66 euro per dag voor de volgende categorieën van zorggebruikers:<br>
-1° kinderen die de hoedanigheid hebben van persoon ten laste, conform artikel 32, eerste lid, 20° en 23°, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
-2° zorggebruikers die minstens twaalf maanden de hoedanigheid hebben van volledig uitkeringsgerechtigde werkloze, alleenstaande of met een gezin ten laste, of ten laste zijn van een persoon die aan de voormelde voorwaarden voldoet, conform artikel 32, eerste lid, 3°, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.<br>
-<br>
-In afwijking van het eerste lid bedraagt het persoonlijk aandeel voor de categorieën van zorggebruikers, vermeld in het eerste lid, vanaf de eerste dag 5,66 euro per dag in de volgende gevallen:<br>
-1° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008;<br>
-2° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een revalidatieziekenhuis als vermeld in artikel 2, 27°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-3° als het verblijf begint binnen zes maanden na een ontslag uit een psychiatrisch ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008;<br>
-4° als het verblijf begint binnen negentig dagen na de dag waarop een opname voor residentiële revalidatie in dezelfde of een andere revalidatievoorziening met een revalidatieovereenkomst is beëindigt.
+...
 
 ### ART 222.
 
-In afwijking van artikel 220 bedraagt het persoonlijk aandeel van de zorggebruikers met recht op een verhoogde tegemoetkoming voor een verblijf in een revalidatievoorziening vanaf de eerste dag 5,66 euro per dag.
+...
 
 ### ART 223.
 
-De bedragen, vermeld in artikel 219 tot en met 222, worden, tenzij het anders is vermeld, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden op 1 januari van elk jaar aangepast aan de evolutie van het indexcijfer, vermeld in het derde lid.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+...
 
 ## Titel 3. Tegemoetkomingen voor geplande revalidatieverstrekkingen in het buitenland en reiskosten die daarmee verband houden
 
@@ -3780,1196 +3773,502 @@ De overeenkomsten, voor 1 januari 2019 gesloten tussen de zorggebruikers en de p
 ### ART 371.
 
 Zolang de minister, conform artikel 212, niet heeft bepaald in welke gevallen de vereenvoudigde procedure, vermeld in artikel 212, van toepassing is, bepaalt de onderstaande tabel in welke gevallen de standaardprocedure, vermeld in artikel 211, en in welke gevallen de vereenvoudigde procedure, vermeld in artikel 212, van toepassing is. In afwijking van de onderstaande tabel, verlopen de aanvragen van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, altijd conform de standaard aanvraagprocedure, vermeld in artikel 211.<br>
+<br>
 &nbsp;
-<table border="1" style="width:900px">
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>Erkenningsnummer dat begint<br>
-			met het nummer</td>
-			<td>Revalidatie- voorzieningen</td>
-			<td>Aard<br>
-			van de aanvraag</td>
-			<td>Aanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:229px">Erkenningsnummer dat begint met het nummer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:150px">Aard van de aanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:172px">Aanvraagprocedure</td>
 		</tr>
 		<tr>
-			<td colspan="" rowspan="3>">7.71</td>
-			<td>Inkendaal NAH Turnhout</td>
-			<td>eerste aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:229px">7.76.702.74</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:150px">eerste aanvraag<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px">vereenvoudigde aanvraagprocedure</td>
 		</tr>
 		<tr>
-			<td>andere centra</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:229px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:150px">verlengingsaanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px">vereenvoudigde aanvraagprocedure</td>
 		</tr>
 		<tr>
-			<td>alle centra</td>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:229px">7.76.703.73</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:150px">eerste aanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px">vereenvoudigde aanvraagprocedure</td>
 		</tr>
 		<tr>
-			<td colspan="" rowspan="2>">7.73</td>
-			<td rowspan="2">alle centra</td>
-			<td>eerste aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:229px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:150px">verlengingsaanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px">vereenvoudigde aanvraagprocedure</td>
 		</tr>
 		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="3>">7.74</td>
-			<td>Appelboom/GAUZZ/<br>
-			De Dauw/COT</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>De Dauw/COT</td>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>Appelboom/GAUZZ</td>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">7.74.5</td>
-			<td rowspan="2">&nbsp;</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">7.74.6</td>
-			<td rowspan="2">&nbsp;</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">7.76.5</td>
-			<td rowspan="2">&nbsp;</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">7.76.7</td>
-			<td rowspan="2">&nbsp;</td>
-			<td>eerste aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>7.90</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;elke aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="4>">9.53 en 9.65</td>
-			<td>Aanvangsbilans doelgroep 8 en 9</td>
-			<td>eerste aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>herhalingsbilans<br>
-			andere doelgroepen dan 8 of 9</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>alle doelgroepen</td>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>herhaling herhalingsbilans</td>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">9.69</td>
-			<td rowspan="2">&nbsp;</td>
-			<td>eerste aanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td>verlengingsaanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:229px">7.90</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:150px">elke aanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px">vereenvoudigde aanvraagprocedure</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ### ART 372.
 
 § 1. De minister sluit, ter uitvoering van artikel 110 van het decreet van 6 juli 2018, een revalidatieovereenkomst met de revalidatievoorzieningen, vermeld in de onderstaande tabel. Het erkenningsnummer, zoals van toepassing voor de inwerkingtreding van dit besluit, blijft ongewijzigd van toepassing.<br>
+<br>
 &nbsp;
-<table style='width: 900px; text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:641px">
 	<tbody>
 		<tr>
-			<td>Erkennings- nummer</td>
-			<td>Naam</td>
-			<td>Straat en nummer</td>
-			<td>Postcode en gemeente</td>
+			<td style="height:27px; width:141px">Erkenningsnummer</td>
+			<td style="height:27px; width:241px">Naam</td>
+			<td style="height:27px; width:163px">Straat en nummer</td>
+			<td style="height:27px">Postcode en gemeente</td>
 		</tr>
 		<tr>
-			<td>7.71.011.42</td>
-			<td>Nationaal Mutiple Sclerose Centrum vzw</td>
-			<td>Vanheylenstraat 16</td>
-			<td>1820 Melsbroek</td>
+			<td style="height:27px; width:141px">7.90.002.63</td>
+			<td style="height:27px; width:241px">AZ Sint-Blasius - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Kroonveldlaan 50</td>
+			<td style="height:27px">9200 Dendermonde</td>
 		</tr>
 		<tr>
-			<td>7.71.018.35</td>
-			<td>Ziekenhuis Inkendaal</td>
-			<td>Inkendaalstraat 1</td>
-			<td>1602 Vlezenbeek</td>
+			<td style="height:26px; width:141px">7.90.003.62</td>
+			<td style="height:26px; width:241px">AZ Delta Stadscampus</td>
+			<td style="height:26px; width:163px">Brugsesteenweg 90</td>
+			<td style="height:26px">8800 Roeselare</td>
 		</tr>
 		<tr>
-			<td>7.71.020.33</td>
-			<td>Revalidatiecentrum NAH</td>
-			<td>Renier Sniederstraat 20</td>
-			<td>2300 Turnhout</td>
+			<td style="height:27px; width:141px">7.90.004.61</td>
+			<td style="height:27px; width:241px">Ziekenhuis Inkendaal - dienst Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Inkendaalstraat 1</td>
+			<td style="height:27px">1602 Vlezenbeek</td>
 		</tr>
 		<tr>
-			<td>7.71.023.30</td>
-			<td>Transmuraal Multiple Sclerose Team (TMST - MS Centrum)</td>
-			<td>Vanheylenstraat 16</td>
-			<td>1820 Melsbroek</td>
+			<td style="height:14px; width:141px">7.90.005.60</td>
+			<td style="height:14px; width:241px">vzw AZ Sint-Lucas en Volkskliniek</td>
+			<td style="height:14px; width:163px">Groenebriel 1</td>
+			<td style="height:14px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.72.011.12</td>
-			<td>Tsedek</td>
-			<td>Bist 90</td>
-			<td>2180 Ekeren</td>
+			<td style="height:26px; width:141px">7.90.007.58</td>
+			<td style="height:26px; width:241px">GZA Ziekenhuizen - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:26px; width:163px">Oosterveldlaan 22</td>
+			<td style="height:26px">2610 Wilrijk</td>
 		</tr>
 		<tr>
-			<td>7.72.020.03</td>
-			<td>Revalidatiecentrum Inghelburch</td>
-			<td>Sint-Jansstraat 11</td>
-			<td>8000 Brugge</td>
+			<td style="height:27px; width:141px">7.90.008.57</td>
+			<td style="height:27px; width:241px">Ziekenhuis Maas en Kempen - Sp dienst Locomotorische Revalidatie</td>
+			<td style="height:27px; width:163px">Mgr. Koningsstraat 10</td>
+			<td style="height:27px">3680 Maaseik</td>
 		</tr>
 		<tr>
-			<td>7.72.026.94</td>
-			<td>Revalidatiecentrum Hasselt (Reval-Hasselt)</td>
-			<td>Ilgatlaan 11 bus 1</td>
-			<td>3500 Hasselt</td>
+			<td style="height:27px; width:141px">7.90.009.56</td>
+			<td style="height:27px; width:241px">Regionaal Ziekenhuis Yperman, dienst Revalidatie</td>
+			<td style="height:27px; width:163px">Briekestraat 12</td>
+			<td style="height:27px">8900 Ieper</td>
 		</tr>
 		<tr>
-			<td>7.72.027.93</td>
-			<td>vzw Validag</td>
-			<td>Adelberg 62</td>
-			<td>3920 Lommel</td>
+			<td style="height:27px; width:141px">7.90.010.55</td>
+			<td style="height:27px; width:241px">Imeldaziekenhuis - dienst voor Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Imeldalaan 9</td>
+			<td style="height:27px">2820 Bonheide</td>
 		</tr>
 		<tr>
-			<td>7.72.029.91</td>
-			<td>Psychosociaal revalidatiecentrum TG De Evenaar</td>
-			<td>Sint-Jozefstraat 9-11</td>
-			<td>2018 Antwerpen</td>
+			<td style="height:26px; width:141px">7.90.012.53</td>
+			<td style="height:26px; width:241px">dienst Fysische Geneeskunde en revalidatie ZNA St.-Elisabeth - ZNA Jan</td>
+			<td style="height:26px; width:163px">Leopoldstraat 26</td>
+			<td style="height:26px">2000 Antwerpen</td>
 		</tr>
 		<tr>
-			<td>7.72.031.89</td>
-			<td>vzw Walden (SONAR)</td>
-			<td>Naamsesteenweg 91</td>
-			<td>3001 Leuven</td>
+			<td style="height:27px; width:141px">7.90.015.50</td>
+			<td style="height:27px; width:241px">UZ Gent - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">De Pintelaan 185</td>
+			<td style="height:27px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.72.032.88</td>
-			<td>Psychosociaal Revalidatiecentrum Mirabello</td>
-			<td>Stapelplein 70/103</td>
-			<td>9000 Gent</td>
+			<td style="height:27px; width:141px">7.90.018.47</td>
+			<td style="height:27px; width:241px">H.-Hartziekenhuis vzw - dienst Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Mechelsestraat 24</td>
+			<td style="height:27px">2500 Lier</td>
 		</tr>
 		<tr>
-			<td>7.72.033.87</td>
-			<td>Route 11 (psychosicaal revalidatiecentrum Kempen)</td>
-			<td>Gasthuisstraat 22/2</td>
-			<td>2300 Turnhout</td>
+			<td style="height:27px; width:141px">7.90.020.45</td>
+			<td style="height:27px; width:241px">AZ Jan Palfijn Gent AV - dienst Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Henri Dunantlaan 5</td>
+			<td style="height:27px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.72.036.84</td>
-			<td>Centrum voor psychische revalidatie Hedera</td>
-			<td>Rijselstraat 85</td>
-			<td>8900 Ieper</td>
+			<td style="height:13px; width:141px">7.90.022.43</td>
+			<td style="height:13px; width:241px">ASZ - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:13px; width:163px">Merestraat 80</td>
+			<td style="height:13px">9300 Aalst</td>
 		</tr>
 		<tr>
-			<td>7.72.037.83</td>
-			<td>Psychosociaal revalidatiecenrum De Mare</td>
-			<td>Condédreef 59</td>
-			<td>8500 Kortrijk</td>
+			<td style="height:27px; width:141px">7.90.023.42</td>
+			<td style="height:27px; width:241px">AZ Maria Middelares - dienst Fysiotherapie en Revalidatie</td>
+			<td style="height:27px; width:163px">Kortrijksesteenweg 1026</td>
+			<td style="height:27px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.72.038.82</td>
-			<td>RC De Keerkring</td>
-			<td>Vredebaan 77b</td>
-			<td>2640 Mortsel</td>
+			<td style="height:27px; width:141px">7.90.024.41</td>
+			<td style="height:27px; width:241px">Koningin Elisabeth Instituut - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Dewittelaan 1</td>
+			<td style="height:27px">8670 Oostduinkerke</td>
 		</tr>
 		<tr>
-			<td>7.72.041.79</td>
-			<td>Psychosociaal revalidatiecentrum Perron 70</td>
-			<td>Stationsstraat 70</td>
-			<td>1730 Asse</td>
+			<td style="height:13px; width:141px">7.90.025.40</td>
+			<td style="height:13px; width:241px">Revalidatieziekenhuis RevArte</td>
+			<td style="height:13px; width:163px">Drie Eikenstraat 659</td>
+			<td style="height:13px">2650 Edegem</td>
 		</tr>
 		<tr>
-			<td>7.72.042.78</td>
-			<td>Revalidatiecentrum TOV</td>
-			<td>Kloosterstraat 3</td>
-			<td>8800 Roeselare</td>
+			<td style="height:14px; width:141px">7.90.026.39</td>
+			<td style="height:14px; width:241px">Sint-Jozefskliniek vzw</td>
+			<td style="height:14px; width:163px">Roeselaarsestraat 47</td>
+			<td style="height:14px">8870 Izegem</td>
 		</tr>
 		<tr>
-			<td>7.72.043.77</td>
-			<td>Psychosociaal revalidatiecentrum Pastel</td>
-			<td>Liersesteenweg 473/1</td>
-			<td>2800 Mechelen</td>
+			<td style="height:26px; width:141px">7.90.027.38</td>
+			<td style="height:26px; width:241px">AZ Herentals - dienst Fysische Geneeskunde</td>
+			<td style="height:26px; width:163px">Nederrij 133</td>
+			<td style="height:26px">2200 Herentals</td>
 		</tr>
 		<tr>
-			<td>7.72.045.75</td>
-			<td>Psychosociaal revalidatiecentrum Parcoer</td>
-			<td>Brusselsestraat 90</td>
-			<td>9200 Dendermonde</td>
+			<td style="height:27px; width:141px">7.90.028.37</td>
+			<td style="height:27px; width:241px">Regionaal Ziekenhuis Heilig Hart vzw - dienst Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Naamsestraat 105</td>
+			<td style="height:27px">3000 Leuven</td>
 		</tr>
 		<tr>
-			<td>7.73.007.83</td>
-			<td>Antwerps Drug Interventie Centrum (ADIC)</td>
-			<td>Venusstraat 11</td>
-			<td>2000 Antwerpen</td>
+			<td style="height:27px; width:141px">7.90.029.36</td>
+			<td style="height:27px; width:241px">AZ Sint-Augustinus Veurne - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Ieperse Steenweg 100</td>
+			<td style="height:27px">8630 Veurne</td>
 		</tr>
 		<tr>
-			<td>7.73.008.82</td>
-			<td>De Sleutel internaatsafdelingen</td>
-			<td>Jozef Guislainstraat 43 a</td>
-			<td>9000 Gent</td>
+			<td style="height:27px; width:141px">7.90.030.35</td>
+			<td style="height:27px; width:241px">Algemeen Ziekenhuis Sint-Maria vzw - dienst Kinesitherapie en Fysiotherapie</td>
+			<td style="height:27px; width:163px">Ziekenhuislaan 100</td>
+			<td style="height:27px">1500 Halle</td>
 		</tr>
 		<tr>
-			<td>7.73.009.81</td>
-			<td>Katarsis vzw</td>
-			<td>Hasseltweg 439</td>
-			<td>3600 Genk</td>
+			<td style="height:26px; width:141px">7.90.031.34</td>
+			<td style="height:26px; width:241px">AZ Sint-Jan Brugge-Oostende - Campus H. Serruys</td>
+			<td style="height:26px; width:163px">Kairostraat 84</td>
+			<td style="height:26px">8400 Oostende</td>
 		</tr>
 		<tr>
-			<td>7.73.011.79</td>
-			<td>Kompas vzw</td>
-			<td>Minister Vanden Peereboomlaan 86</td>
-			<td>8500 Kortrijk</td>
+			<td style="height:27px; width:141px">7.90.032.33</td>
+			<td style="height:27px; width:241px">Algemeen Ziekenhuis Oudenaarde vzw</td>
+			<td style="height:27px; width:163px">Minderbroederstraat 3</td>
+			<td style="height:27px">9700 Oudenaarde</td>
 		</tr>
 		<tr>
-			<td>7.73.014.76</td>
-			<td>De Kiem</td>
-			<td>Vluchtenboerstraat 7A</td>
-			<td>9890 Gavere</td>
+			<td style="height:27px; width:141px">7.90.033.32</td>
+			<td style="height:27px; width:241px">ZNA Stuivenberg - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Lange Beeldekensstraat 267</td>
+			<td style="height:27px">2060 Antwerpen</td>
 		</tr>
 		<tr>
-			<td>7.73.015.75</td>
-			<td>Dagcentra De Sleutel Antwerpen-Mechelen-Gent-Brugge</td>
-			<td>Jozef Guislainstraat 43 a</td>
-			<td>9000 Gent</td>
+			<td style="height:27px; width:141px">7.90.034.31</td>
+			<td style="height:27px; width:241px">Sint-Rembertziekenhuis - dienst Fysische Geneeskunde</td>
+			<td style="height:27px; width:163px">Sint-Rembertlaan 21</td>
+			<td style="height:27px">8820 Torhout</td>
 		</tr>
 		<tr>
-			<td>7.73.030.60</td>
-			<td>MSOC Oostende</td>
-			<td>Perronstraat 1</td>
-			<td>8400 Oostende</td>
+			<td style="height:26px; width:141px">7.90.035.30</td>
+			<td style="height:26px; width:241px">AZ Klina - dienst Fysische Geneeskunde</td>
+			<td style="height:26px; width:163px">Augustijnslei 100</td>
+			<td style="height:26px">2930 Brasschaat</td>
 		</tr>
 		<tr>
-			<td>7.73.020.70</td>
-			<td>De Spiegel vzw</td>
-			<td>pellenbergstraat 160</td>
-			<td>3010 Kessel-Lo</td>
+			<td style="height:27px; width:141px">7.90.036.29</td>
+			<td style="height:27px; width:241px">Universitaire Ziekenhuizen Leuven - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Weligerveld 1</td>
+			<td style="height:27px">3212 Pellenberg</td>
 		</tr>
 		<tr>
-			<td>7.73.021.69</td>
-			<td>MSOC voor druggebruikers Gent</td>
-			<td>Gewad 13</td>
-			<td>9000 Gent</td>
+			<td style="height:27px; width:141px">7.90.037.28</td>
+			<td style="height:27px; width:241px">Sint-Trudoziekenhuis vzw - dienst Fysische Geneeskunde en Revalidatie</td>
+			<td style="height:27px; width:163px">Diestersteenweg 100</td>
+			<td style="height:27px">3800 Sint-Truiden</td>
 		</tr>
 		<tr>
-			<td>7.73.022.68</td>
-			<td>MSOC Free Clinic vzw</td>
-			<td>Schijnpoortweg 14</td>
-			<td>2060 Antwerpen</td>
+			<td style="height:27px; width:141px">7.90.042.23</td>
+			<td style="height:27px; width:241px">AZ Salvator St.-Ursula Hasselt - Jessa Ziekenhuis campus St.-Ursula</td>
+			<td style="height:27px; width:163px">Diestsesteenweg 8</td>
+			<td style="height:27px">3540 Herk-de-Stad</td>
 		</tr>
 		<tr>
-			<td>7.73.023.67</td>
-			<td>MSOC Limburg</td>
-			<td>Salvatorstraat 25</td>
-			<td>3500 Hasselt</td>
+			<td style="height:13px; width:141px">7.90.044.21</td>
+			<td style="height:13px; width:241px">AZ Groeningecampus Maria Voorzienigheid Kortrijk</td>
+			<td style="height:13px; width:163px">Reepkaai 4</td>
+			<td style="height:13px">8500 Kortrijk</td>
 		</tr>
 		<tr>
-			<td>7.73.032.58</td>
-			<td>MSOC Vlaams Brabant</td>
-			<td>Maria Theresiastraat 109</td>
-			<td>3000 Leuven</td>
+			<td style="height:27px; width:141px">7.90.046.19</td>
+			<td style="height:27px; width:241px">AZ Vesalius</td>
+			<td style="height:27px; width:163px">Hazelereik 51</td>
+			<td style="height:27px">3700 Tongeren</td>
 		</tr>
 		<tr>
-			<td>7.73.034.56</td>
-			<td>Residentieel Kortdurend Jongerenprogramma van De Sleutel</td>
-			<td>Jozef Guislainstraat 43 a</td>
-			<td>9000 Gent</td>
+			<td style="height:40px; width:141px">7.90.049.16</td>
+			<td style="height:40px; width:241px">Sint-Franciscusziekenhuis - dienst Fysische Geneeskunde</td>
+			<td style="height:40px; width:163px">Pastoor Paquaylaan 129</td>
+			<td style="height:40px">3550 Heusden-Zolder</td>
 		</tr>
 		<tr>
-			<td>7.73.036.54</td>
-			<td>vzw 't KADER (Kempense Aanpak Drugs En Rehabilitatie)</td>
-			<td>Antwerpsesteenweg 1 A bus 1</td>
-			<td>2440 Geel</td>
+			<td style="height:13px; width:141px">7.90.050.15</td>
+			<td style="height:13px; width:241px">AZ Groeninghe campus O.L.V. Kortrijk</td>
+			<td style="height:13px; width:163px">Reepkaai 4</td>
+			<td style="height:13px">8500 Kortrijk</td>
 		</tr>
 		<tr>
-			<td>7.74.003.57</td>
-			<td>De Appelboom vzw</td>
-			<td>Arbeidsstraat 64</td>
-			<td>3600 Genk</td>
+			<td style="height:14px; width:141px">7.90.053.12</td>
+			<td style="height:14px; width:241px">RZ Tienen - dienst Fysische Geneeskunde</td>
+			<td style="height:14px; width:163px">Kliniekstraat 45</td>
+			<td style="height:14px">3300 Tienen</td>
 		</tr>
 		<tr>
-			<td>7.74.004.56</td>
-			<td>De Dauw vzw</td>
-			<td>Moregemplein 3</td>
-			<td>9790 Wortegem-Petegem</td>
+			<td style="height:27px; width:141px">7.90.054.11</td>
+			<td style="height:27px; width:241px">MPI Sint-Lodewijk vzw</td>
+			<td style="height:27px; width:163px">Kwatrechtsteenweg 168</td>
+			<td style="height:27px">9230 Wetteren</td>
 		</tr>
 		<tr>
-			<td>7.74.017.43</td>
-			<td>Centrum voor Ontwikkelingstherapie (COT)</td>
-			<td>Jules Lagaelaan 18</td>
-			<td>8800 Roeselare</td>
+			<td style="height:26px; width:141px">7.90.055.10</td>
+			<td style="height:26px; width:241px">MPI Sint-Jozef</td>
+			<td style="height:26px; width:163px">Galjoenstraat 2</td>
+			<td style="height:26px">2030 Antwerpen</td>
 		</tr>
 		<tr>
-			<td>7.74.051.09</td>
-			<td>GAUZZ</td>
-			<td>Leuvensesteenweg 517</td>
-			<td>3070 Kortenberg</td>
+			<td style="height:14px; width:141px">7.90.056.09</td>
+			<td style="height:14px; width:241px">Dominiek Savio Instituut vzw Gits</td>
+			<td style="height:14px; width:163px">Koolskampstraat 24</td>
+			<td style="height:14px">8830 Gits</td>
 		</tr>
 		<tr>
-			<td>7.74.503.42</td>
-			<td>Moeder-babyéénheid PZ Bethaniënhuis</td>
-			<td>Andreas Vesaliuslaan 39</td>
-			<td>2980 Zoersel</td>
+			<td style="height:27px; width:141px">7.90.057.08</td>
+			<td style="height:27px; width:241px">MFC Ten Dries vzw</td>
+			<td style="height:27px; width:163px">Poeldendries 32</td>
+			<td style="height:27px">9850 Landegem</td>
 		</tr>
 		<tr>
-			<td>7.74.504.41</td>
-			<td>Moeder-babyéénheid PZ Sint-Camillus</td>
-			<td>Beukenlaan 20</td>
-			<td>9051 Sint-Denijs-Westrem</td>
+			<td style="height:26px; width:141px">7.90.060.05</td>
+			<td style="height:26px; width:241px">AZ Monica vzw - APRA Revalidatiecentum</td>
+			<td style="height:26px; width:163px">Harmoniestraat 68</td>
+			<td style="height:26px">2018 Antwerpen</td>
 		</tr>
 		<tr>
-			<td>7.74.601.41</td>
-			<td>Expertisecentrum voor ASS UZ Leuven Gasthuisberg</td>
-			<td>Herestraat 49</td>
-			<td>3000 Leuven</td>
+			<td style="height:14px; width:141px">7.90.061.04</td>
+			<td style="height:14px; width:241px">UZ Brussel</td>
+			<td style="height:14px; width:163px">Laarbeeklaan 101</td>
+			<td style="height:14px">1090 Brussel</td>
 		</tr>
 		<tr>
-			<td>7.74.604.38</td>
-			<td>Referentiecentrum Autismespectrumstoornissen Antwerpen</td>
-			<td>Lindendreef 1</td>
-			<td>2020 Antwerpen</td>
+			<td style="height:27px; width:141px">7.90.101.61</td>
+			<td style="height:27px; width:241px">Bundeling Zorginitiatieven Oostende</td>
+			<td style="height:27px; width:163px">Zeedijk 286 - 288</td>
+			<td style="height:27px">8400 Oostende</td>
 		</tr>
 		<tr>
-			<td>7.74.605.37</td>
-			<td>Referentiecentrum Autismespectrumstoornissen UZ Gent</td>
-			<td>De Pintelaan 185 2k5</td>
-			<td>9000 Gent</td>
+			<td style="height:13px; width:141px">7.90.102.60</td>
+			<td style="height:13px; width:241px">AZ Sint-Jan Brugge-Oostende av</td>
+			<td style="height:13px; width:163px">Ruddershove 10</td>
+			<td style="height:13px">8000 Brugge</td>
 		</tr>
 		<tr>
-			<td>7.74.606.36</td>
-			<td>Referentiecentrum voor Autismespectrumstoornissen UZ Brussel</td>
-			<td>Laarbeeklaan 101</td>
-			<td>1090 Jette</td>
+			<td style="height:14px; width:141px">7.90.111.51</td>
+			<td style="height:14px; width:241px">AZ Sint-Lucas Brugge vzw</td>
+			<td style="height:14px; width:163px">Sint-Lucaslaan 29</td>
+			<td style="height:14px">8310 Brugge</td>
 		</tr>
 		<tr>
-			<td>7.76.502.80</td>
-			<td>Pulderbos - Revalidatiecentrum voor kinderen en jongeren</td>
-			<td>Reebergenlaan 4</td>
-			<td>2242 Zandhoven</td>
+			<td style="height:13px; width:141px">7.90.115.47</td>
+			<td style="height:13px; width:241px">AZ Sint-Maarten - Campus Rooienberg</td>
+			<td style="height:13px; width:163px">Rooienberg 25</td>
+			<td style="height:13px">2570 Duffel</td>
 		</tr>
 		<tr>
-			<td>7.76.702.74</td>
-			<td>Villa Rozerood vzw</td>
-			<td>Fazantenlaan 28</td>
-			<td>8660 De Panne</td>
+			<td style="height:27px; width:141px">7.90.116.46</td>
+			<td style="height:27px; width:241px">AZ Delta Campus Wilgenstraat</td>
+			<td style="height:27px; width:163px">Wilgenstraat 2</td>
+			<td style="height:27px">8800 Roeselare</td>
 		</tr>
 		<tr>
-			<td>7.76.703.73</td>
-			<td>Revalidatiecentrum Puldebos Respijteenheid Limmerik</td>
-			<td>Reebergenlaan 4</td>
-			<td>2242 Zandhoven</td>
+			<td style="height:27px; width:141px">7.90.117.45</td>
+			<td style="height:27px; width:241px">vzw AZ Damiaan</td>
+			<td style="height:27px; width:163px">Gouwelozestraat 100</td>
+			<td style="height:27px">8400 Oostende</td>
 		</tr>
 		<tr>
-			<td>7.90.002.63</td>
-			<td>AZ Sint-Blasius - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Kroonveldlaan 50</td>
-			<td>9200 Dendermonde</td>
+			<td style="height:27px; width:141px">7.90.119.43</td>
+			<td style="height:27px; width:241px">AZ Sint-Elisabeth Zottegem</td>
+			<td style="height:27px; width:163px">Godveerdegemstraat 69</td>
+			<td style="height:27px">9620 Zottegem</td>
 		</tr>
 		<tr>
-			<td>7.90.003.62</td>
-			<td>AZ Delta Stadscampus</td>
-			<td>Brugsesteenweg 90</td>
-			<td>8800 Roeselare</td>
+			<td style="height:26px; width:141px">7.90.120.42</td>
+			<td style="height:26px; width:241px">ZNA Antwerpen Middelheim</td>
+			<td style="height:26px; width:163px">Lindendreef 1</td>
+			<td style="height:26px">2020 Antwerpen</td>
 		</tr>
 		<tr>
-			<td>7.90.004.61</td>
-			<td>Ziekenhuis Inkendaal - dienst Fysische Geneeskunde</td>
-			<td>Inkendaalstraat 1</td>
-			<td>1602 Vlezenbeek</td>
+			<td style="height:27px; width:141px">7.90.123.39</td>
+			<td style="height:27px; width:241px">vzw Jessa Ziekenhuis - Campus St.-Ursula Revalidatiecentrum</td>
+			<td style="height:27px; width:163px">Diestsesteenweg 8</td>
+			<td style="height:27px">3540 Herk-de-Stad</td>
 		</tr>
 		<tr>
-			<td>7.90.005.60</td>
-			<td>vzw AZ Sint-Lucas &amp; Volkskliniek</td>
-			<td>Groenebriel 1</td>
-			<td>9000 Gent</td>
+			<td style="height:14px; width:141px">7.90.124.38</td>
+			<td style="height:14px; width:241px">AZ Sint-Dimpna - Revalidatiecentrum Kempen</td>
+			<td style="height:14px; width:163px">J.B. Stessensstraat 2</td>
+			<td style="height:14px">2440 Geel</td>
 		</tr>
 		<tr>
-			<td>7.90.007.58</td>
-			<td>GZA Ziekenhuizen - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Oosterveldlaan 22</td>
-			<td>2610 Wilrijk</td>
+			<td style="height:13px; width:141px">7.90.125.37</td>
+			<td style="height:13px; width:241px">Revalidatiecentrum Ziekenhuis Oost-Limburg</td>
+			<td style="height:13px; width:163px">Bessemerstraat 478</td>
+			<td style="height:13px">3620 Lanaken</td>
 		</tr>
 		<tr>
-			<td>7.90.008.57</td>
-			<td>Ziekenhuis Maas en Kempen - Sp dienst Locomotorische Revalidatie</td>
-			<td>Mgr. Koningsstraat 10</td>
-			<td>3680 Maaseik</td>
+			<td style="height:14px; width:141px">7.90.127.35</td>
+			<td style="height:14px; width:241px">O.L.V.-ziekenhuis Aalst</td>
+			<td style="height:14px; width:163px">Moorselbaan 164</td>
+			<td style="height:14px">9300 Aalst</td>
 		</tr>
 		<tr>
-			<td>7.90.009.56</td>
-			<td>REGIONAAL ZIEKENHUIS JAN YPERMAN, dienst Revalidatie</td>
-			<td>Briekestraat 12</td>
-			<td>8900 Ieper</td>
+			<td style="height:27px; width:141px">7.90.128.34</td>
+			<td style="height:27px; width:241px">Universitaire Ziekenhuizen Leuven - Campus Gasthuisberg</td>
+			<td style="height:27px; width:163px">Herestraat 49</td>
+			<td style="height:27px">3000 Leuven</td>
 		</tr>
 		<tr>
-			<td>7.90.010.55</td>
-			<td>Imeldaziekenhuis - dienst voor Fysische Geneeskunde</td>
-			<td>Imeldalaan 9</td>
-			<td>2820 Bonheide</td>
+			<td style="height:13px; width:141px">7.90.129.33</td>
+			<td style="height:13px; width:241px">AZ Glorieux Ronse</td>
+			<td style="height:13px; width:163px">Glorieuxlaan 55</td>
+			<td style="height:13px">9600 Ronse</td>
 		</tr>
 		<tr>
-			<td>7.90.012.53</td>
-			<td>dienst Fysische Geneeskunde &amp; revalidatie ZNA St. Elisabeth - ZNA Jan</td>
-			<td>Leopoldstraat 26</td>
-			<td>2000 Antwerpen</td>
+			<td style="height:27px; width:141px">7.90.130.32</td>
+			<td style="height:27px; width:241px">AZ Turnhout - Campus Sint-Jozef</td>
+			<td style="height:27px; width:163px">Steenweg op Merksplas 44</td>
+			<td style="height:27px">2300 Turnhout</td>
 		</tr>
 		<tr>
-			<td>7.90.015.50</td>
-			<td>UZ Gent - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>De Pintelaan 185</td>
-			<td>9000 Gent</td>
+			<td style="height:14px; width:141px">7.90.131.31</td>
+			<td style="height:14px; width:241px">AZ Groeninge vzw</td>
+			<td style="height:14px; width:163px">President Kennedylaan 4</td>
+			<td style="height:14px">8500 Kortrijk</td>
 		</tr>
 		<tr>
-			<td>7.90.018.47</td>
-			<td>H.-Hartziekenhuis vzw - dienst Fysische Geneeskunde</td>
-			<td>Mechelsestraat 24</td>
-			<td>2500 Lier</td>
+			<td style="height:26px; width:141px">7.90.132.30</td>
+			<td style="height:26px; width:241px">AZ Alma - Campus Sijsele</td>
+			<td style="height:26px; width:163px">Gentse Steenweg 132</td>
+			<td style="height:26px">8340 Sijsele-Damme</td>
 		</tr>
 		<tr>
-			<td>7.90.020.45</td>
-			<td>AZ Jan Palfijn Gent AV - dienst Fysische Geneeskunde</td>
-			<td>Henri Dunantlaan 5</td>
-			<td>9000 Gent</td>
+			<td style="height:27px; width:141px">7.90.133.29</td>
+			<td style="height:27px; width:241px">Universitaire Ziekenhuizen Leuven - Campus Gasthuisberg</td>
+			<td style="height:27px; width:163px">Herestraat 49</td>
+			<td style="height:27px">3000 Leuven</td>
 		</tr>
 		<tr>
-			<td>7.90.022.43</td>
-			<td>ASZ - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Merestraat 80</td>
-			<td>9300 Aalst</td>
+			<td style="height:27px; width:141px">7.90.134.28</td>
+			<td style="height:27px; width:241px">Universitaire Ziekenhuizen Leuven - Campus Pellenberg</td>
+			<td style="height:27px; width:163px">Weligerveld 1</td>
+			<td style="height:27px">3212 Pellenberg</td>
 		</tr>
 		<tr>
-			<td>7.90.023.42</td>
-			<td>AZ Maria Middelares - dienst Fysiotherapie en Revalidatie</td>
-			<td>Kortrijksesteenweg 1026</td>
-			<td>9000 Gent</td>
+			<td style="height:13px; width:141px">7.90.135.27</td>
+			<td style="height:13px; width:241px">UZ Antwerpen</td>
+			<td style="height:13px; width:163px">Wilrijkstraat 10</td>
+			<td style="height:13px">2650 Edegem</td>
 		</tr>
 		<tr>
-			<td>7.90.024.41</td>
-			<td>Koningin Elisabeth Instituut - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Dewittelaan 1</td>
-			<td>8670 Oostduinkerke</td>
+			<td style="height:14px; width:141px">7.90.136.26</td>
+			<td style="height:14px; width:241px">Revalidatie- en MS-centrum vzw</td>
+			<td style="height:14px; width:163px">Boemerangstraat 2</td>
+			<td style="height:14px">3900 Overpelt</td>
 		</tr>
 		<tr>
-			<td>7.90.025.40</td>
-			<td>Revalidatieziekenhuis RevArte</td>
-			<td>Drie Eikenstraat 659</td>
-			<td>2650 Edegem</td>
+			<td style="height:13px; width:141px">7.90.138.24</td>
+			<td style="height:13px; width:241px">Sint-Andriesziekenhuis vzw</td>
+			<td style="height:13px; width:163px">Bruggestraat 84</td>
+			<td style="height:13px">8700 Tielt</td>
 		</tr>
 		<tr>
-			<td>7.90.026.39</td>
-			<td>Sint-Jozefskliniek vzw</td>
-			<td>Roeselaarsestraat 47</td>
-			<td>8870 Izegem</td>
+			<td style="height:27px; width:141px">7.90.139.23</td>
+			<td style="height:27px; width:241px">AZ Zeno</td>
+			<td style="height:27px; width:163px">Graaf Jansdijk 162</td>
+			<td style="height:27px">8300 Knokke-Heist</td>
 		</tr>
 		<tr>
-			<td>7.90.027.38</td>
-			<td>AZ Herentals - dienst Fysische Geneeskunde</td>
-			<td>Nederrij 133</td>
-			<td>2200 Herentals</td>
+			<td style="height:14px; width:141px">7.90.140.22</td>
+			<td style="height:14px; width:241px">AZ Maria Middelares Gent</td>
+			<td style="height:14px; width:163px">Buitenring Sint-Denijs 30</td>
+			<td style="height:14px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.90.028.37</td>
-			<td>Regionaal Ziekenhuis Heilig Hart vzw - dienst Fysische Geneeskunde</td>
-			<td>Naamsestraat 105</td>
-			<td>3000 Leuven</td>
+			<td style="height:26px; width:141px">7.90.142.20</td>
+			<td style="height:26px; width:241px">AZ Turnhout - Campus Sint-Elisabeth</td>
+			<td style="height:26px; width:163px">Steenweg op Merksplas 44</td>
+			<td style="height:26px">2300 Turnhout</td>
 		</tr>
 		<tr>
-			<td>7.90.029.36</td>
-			<td>AZ Sint-Augustinus Veurne - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Ieperse Steenweg 100</td>
-			<td>8630 Veurne</td>
+			<td style="height:27px; width:141px">7.90.143.19</td>
+			<td style="height:27px; width:241px">Revalidatiecentrum AZ Nikolaas</td>
+			<td style="height:27px; width:163px">Moerlandstraat 1</td>
+			<td style="height:27px">9100 Sint-Niklaas</td>
 		</tr>
 		<tr>
-			<td>7.90.030.35</td>
-			<td>Algemeen Ziekenhuis Sint-Maria vzw - dienst Kinesitherapie en Fysiotherapie</td>
-			<td>Ziekenhuislaan 100</td>
-			<td>1500 Halle</td>
+			<td style="height:14px; width:141px">7.90.145.17</td>
+			<td style="height:14px; width:241px">AZ Alma</td>
+			<td style="height:14px; width:163px">Moeie 18</td>
+			<td style="height:14px">9900 Eeklo</td>
 		</tr>
 		<tr>
-			<td>7.90.031.34</td>
-			<td>AZ Sint-Jan Brugge-Oostende - Campus H. Serruys</td>
-			<td>Kairostraat 84</td>
-			<td>8400 Oostende</td>
+			<td style="height:40px; width:141px">7.90.201.58</td>
+			<td style="height:40px; width:241px">Referentiecentrum voor neuromusculaire ziekten van UZ Brussel en Inkendaal (vroegere naam: De Bijtjes)</td>
+			<td style="height:40px; width:163px">Laarbeeklaan 101</td>
+			<td style="height:40px">1090 Brussel</td>
 		</tr>
 		<tr>
-			<td>7.90.032.33</td>
-			<td>Algemeen Ziekenhuis Oudenaarde VZW</td>
-			<td>Minderbroederstraat 3</td>
-			<td>9700 Oudenaarde</td>
+			<td style="height:26px; width:141px">7.90.202.57</td>
+			<td style="height:26px; width:241px">Neuromusculair Referentiecentrum UZ Leuven Campus Gasthuisberg</td>
+			<td style="height:26px; width:163px">Herestraat 49</td>
+			<td style="height:26px">3000 Leuven</td>
 		</tr>
 		<tr>
-			<td>7.90.033.32</td>
-			<td>ZNA Stuivenberg - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Lange Beeldekensstraat 267</td>
-			<td>2060 Antwerpen</td>
+			<td style="height:14px; width:141px">7.90.204.55</td>
+			<td style="height:14px; width:241px">UZ Gent</td>
+			<td style="height:14px; width:163px">C. Heymanslaan 10</td>
+			<td style="height:14px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.90.034.31</td>
-			<td>Sint-Rembertziekenhuis - dienst Fysische Geneeskunde</td>
-			<td>Sint-Rembertlaan 21</td>
-			<td>8820 Torhout</td>
+			<td style="height:13px; width:141px">7.90.206.53</td>
+			<td style="height:13px; width:241px">UZ Antwerpen NMRC</td>
+			<td style="height:13px; width:163px">Wilrijkstraat 10</td>
+			<td style="height:13px">2650 Edegem</td>
 		</tr>
 		<tr>
-			<td>7.90.035.30</td>
-			<td>AZ Klina - dienst Fysische Geneeskunde</td>
-			<td>Augustijnslei 100</td>
-			<td>2930 Brasschaat</td>
+			<td style="height:27px; width:141px">7.90.209.50</td>
+			<td style="height:27px; width:241px">Nationaal Multiple Sclerose Centrum vzw</td>
+			<td style="height:27px; width:163px">Vanheylenstraat 16</td>
+			<td style="height:27px">1820 Melsbroek</td>
 		</tr>
 		<tr>
-			<td>7.90.036.29</td>
-			<td>Universitaire Ziekenhuizen Leuven - dienst Fysische Geneeskunde en Revalidatie</td>
-			<td>Weligerveld 1</td>
-			<td>3212 Pellenberg</td>
+			<td style="height:27px; width:141px">7.90.210.49</td>
+			<td style="height:27px; width:241px">UZ Gent - Centrum voor Locomotorische en Neurologische Revalidatie</td>
+			<td style="height:27px; width:163px">De Pintelaan 185</td>
+			<td style="height:27px">9000 Gent</td>
 		</tr>
 		<tr>
-			<td>7.90.037.28</td>
-			<td>Sint-Trudoziekenhuis vzw - dienst Fysische Geneeskunden en Revalidatie</td>
-			<td>Diestersteenweg 100</td>
-			<td>3800 Sint-Truiden</td>
-		</tr>
-		<tr>
-			<td>7.90.042.23</td>
-			<td>AZ Salvator St.-Ursula Hasselt - Jessa Ziekenhuis campus St.-Ursula</td>
-			<td>Diestsesteenweg 8</td>
-			<td>3540 Herk-de-Stad</td>
-		</tr>
-		<tr>
-			<td>7.90.044.21</td>
-			<td>AZ Groeningecampus Maria Voorzienigheid Kortrijk</td>
-			<td>Reepkaai 4</td>
-			<td>8500 Kortrijk</td>
-		</tr>
-		<tr>
-			<td>7.90.046.19</td>
-			<td>AZ Vesalius</td>
-			<td>Hazelereik 51</td>
-			<td>3700 Tongeren</td>
-		</tr>
-		<tr>
-			<td>7.90.049.16</td>
-			<td>Sint-Franciscusziekenhuis - dienst Fysische Geneeskunde</td>
-			<td>Pastoor Paquaylaan 129</td>
-			<td>3550 Heusden-Zolder</td>
-		</tr>
-		<tr>
-			<td>7.90.050.15</td>
-			<td>AZ Groeninghe campus OLV Kortijk</td>
-			<td>Reepkaai 4</td>
-			<td>8500 Kortrijk</td>
-		</tr>
-		<tr>
-			<td>7.90.053.12</td>
-			<td>RZ Tienen - dienst Fysische Geneeskunde</td>
-			<td>Kliniekstraat 45</td>
-			<td>3300 Tienen</td>
-		</tr>
-		<tr>
-			<td>7.90.054.11</td>
-			<td>MPI Sint-Lodewijk vzw</td>
-			<td>Kwatrechtsteenweg 168</td>
-			<td>9230 Wetteren</td>
-		</tr>
-		<tr>
-			<td>7.90.055.10</td>
-			<td>MPI Sint-Jozef</td>
-			<td>Galjoenstraat 2</td>
-			<td>2030 Antwerpen</td>
-		</tr>
-		<tr>
-			<td>7.90.056.09</td>
-			<td>Dominiek Savio Instituut vzw Gits</td>
-			<td>Koolskampstraat 24</td>
-			<td>8830 Gits</td>
-		</tr>
-		<tr>
-			<td>7.90.057.08</td>
-			<td>MFC Ten Dries vzw</td>
-			<td>Poeldendries 32</td>
-			<td>9850 Landegem</td>
-		</tr>
-		<tr>
-			<td>7.90.060.05</td>
-			<td>AZ Monica vzw - APRA Revalidatiecentum</td>
-			<td>Harmoniestraat 68</td>
-			<td>2018 Antwerpen</td>
-		</tr>
-		<tr>
-			<td>7.90.061.04</td>
-			<td>UZ Brussel</td>
-			<td>Laarbeeklaan 101</td>
-			<td>1090 Brussel</td>
-		</tr>
-		<tr>
-			<td>7.90.101.61</td>
-			<td>Bundeling Zorginitiatieven Oostende</td>
-			<td>Zeedijk 286 - 288</td>
-			<td>8400 Oostende</td>
-		</tr>
-		<tr>
-			<td>7.90.102.60</td>
-			<td>AZ Sint-Jan Brugge-Oostende av</td>
-			<td>Ruddershove 10</td>
-			<td>8000 Brugge</td>
-		</tr>
-		<tr>
-			<td>7.90.111.51</td>
-			<td>AZ Sint-Lucas Brugge vzw</td>
-			<td>Sint-Lucaslaan 29</td>
-			<td>8310 Brugge</td>
-		</tr>
-		<tr>
-			<td>7.90.115.47</td>
-			<td>AZ Sint-Maarten - Campus Rooienberg</td>
-			<td>Rooienberg 25</td>
-			<td>2570 Duffel</td>
-		</tr>
-		<tr>
-			<td>7.90.116.46</td>
-			<td>AZ Delta Campus Wilgenstraat</td>
-			<td>Wilgenstraat 2</td>
-			<td>8800 Roeselare</td>
-		</tr>
-		<tr>
-			<td>7.90.117.45</td>
-			<td>vzw AZ Damiaan</td>
-			<td>Gouwelozestraat 100</td>
-			<td>8400 Oostende</td>
-		</tr>
-		<tr>
-			<td>7.90.119.43</td>
-			<td>AZ Sint-Elisabeth Zottegem</td>
-			<td>Godveerdegemstraat 69</td>
-			<td>9620 Zottegem</td>
-		</tr>
-		<tr>
-			<td>7.90.120.42</td>
-			<td>ZNA Antwerpen Middelheim</td>
-			<td>Lindendreef 1</td>
-			<td>2020 Antwerpen</td>
-		</tr>
-		<tr>
-			<td>7.90.123.39</td>
-			<td>vzw Jessa Ziekenhuis - Campus St.-Ursula Revalidatiecentrum</td>
-			<td>Diestsesteenweg 8</td>
-			<td>3540 Herk-de-Stad</td>
-		</tr>
-		<tr>
-			<td>7.90.124.38</td>
-			<td>AZ Sint-Dimpna - Revalidatiecentrum Kempen</td>
-			<td>J.B. Stessensstraat 2</td>
-			<td>2440 Geel</td>
-		</tr>
-		<tr>
-			<td>7.90.125.37</td>
-			<td>Revalidatiecentrum Ziekenhuis Oost-Limburg</td>
-			<td>Bessemerstraat 478</td>
-			<td>3620 Lanaken</td>
-		</tr>
-		<tr>
-			<td>7.90.127.35</td>
-			<td>O.L.V.-ziekenhuis Aalst</td>
-			<td>Moorselbaan 164</td>
-			<td>9300 Aalst</td>
-		</tr>
-		<tr>
-			<td>7.90.128.34</td>
-			<td>Universitaire Ziekenhuizen Leuven - Campus Gasthuisberg</td>
-			<td>Herestraat 49</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>7.90.129.33</td>
-			<td>AZ Glorieux Ronse</td>
-			<td>Glorieuxlaan 55</td>
-			<td>9600 Ronse</td>
-		</tr>
-		<tr>
-			<td>7.90.130.32</td>
-			<td>AZ Turnhout - Campus Sint-Jozef</td>
-			<td>Steenweg op Merksplas 44</td>
-			<td>2300 Turnhout</td>
-		</tr>
-		<tr>
-			<td>7.90.131.31</td>
-			<td>AZ Groeninge vzw</td>
-			<td>President Kennedylaan 4</td>
-			<td>8500 Kortrijk</td>
-		</tr>
-		<tr>
-			<td>7.90.132.30</td>
-			<td>AZ Alma - Campus Sijsele</td>
-			<td>Gentse Steenweg 132</td>
-			<td>8340 Sijsele-Damme</td>
-		</tr>
-		<tr>
-			<td>7.90.133.29</td>
-			<td>Universitaire Ziekenhuizen Leuven - Campus Gasthuisberg</td>
-			<td>Herestraat 49</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>7.90.134.28</td>
-			<td>Universitaire Ziekenhuizen Leuven - Campus Pellenberg</td>
-			<td>Weligerveld 1</td>
-			<td>3212 Pellenberg</td>
-		</tr>
-		<tr>
-			<td>7.90.135.27</td>
-			<td>UZ Antwerpen</td>
-			<td>Wilrijkstraat 10</td>
-			<td>2650 Edegem</td>
-		</tr>
-		<tr>
-			<td>7.90.136.26</td>
-			<td>Revalidatie- en MS-centrum vzw</td>
-			<td>Boemerangstraat 2</td>
-			<td>3900 Overpelt</td>
-		</tr>
-		<tr>
-			<td>7.90.138.24</td>
-			<td>Sint-Andriesziekenhuis vzw</td>
-			<td>Bruggestraat 84</td>
-			<td>8700 Tielt</td>
-		</tr>
-		<tr>
-			<td>7.90.139.23</td>
-			<td>AZ Zeno</td>
-			<td>Graaf Jansdijk 162</td>
-			<td>8300 Knokke-Heist</td>
-		</tr>
-		<tr>
-			<td>7.90.140.22</td>
-			<td>AZ Maria Middelares Gent</td>
-			<td>Buitenring Sint-Denijs 30</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>7.90.142.20</td>
-			<td>AZ Turnhout - Campus Sint-Elisabeth</td>
-			<td>Steenweg op Merksplas 44</td>
-			<td>2300 Turnhout</td>
-		</tr>
-		<tr>
-			<td>7.90.143.19</td>
-			<td>Revalidatiecentrum AZ Nikolaas</td>
-			<td>Moerlandstraat 1</td>
-			<td>9100 Sint-Niklaas</td>
-		</tr>
-		<tr>
-			<td>7.90.145.17</td>
-			<td>AZ Alma</td>
-			<td>Moeie 18</td>
-			<td>9900 Eeklo</td>
-		</tr>
-		<tr>
-			<td>7.90.201.58</td>
-			<td>Referentiecentrum voor neuromusculaire ziekten van UZ Brussel en Inkendaal (vroegere naam: De Bijtjes)</td>
-			<td>Laarbeeklaan 101</td>
-			<td>1090 Brussel</td>
-		</tr>
-		<tr>
-			<td>7.90.202.57</td>
-			<td>Neuromusculair Referentiecentrum UZ Leuven Campus Gasthuisberg</td>
-			<td>Herestraat 49</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>7.90.204.55</td>
-			<td>UZ Gent</td>
-			<td>C. Heymanslaan 10</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>7.90.206.53</td>
-			<td>UZ Antwerpen NMRC</td>
-			<td>Wilrijkstraat 10</td>
-			<td>2650 Edegem</td>
-		</tr>
-		<tr>
-			<td>7.90.209.50</td>
-			<td>Nationaal Multiple Sclerose Centrum vzw</td>
-			<td>Vanheylenstraat 16</td>
-			<td>1820 Melsbroek</td>
-		</tr>
-		<tr>
-			<td>7.90.210.49</td>
-			<td>UZ Gent - Centrum voor Locomotorische en Neurologische Revalidatie</td>
-			<td>De Pintelaan 185</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>7.90.215.44</td>
-			<td>vzw Pulderbos Zandhoven</td>
-			<td>Reebergenlaan 4</td>
-			<td>2242 Zandhoven</td>
-		</tr>
-		<tr>
-			<td>9.53.015.10</td>
-			<td>UZ Gent Centrum voor Gehoor- en Spraakrevalidatie</td>
-			<td>De Pintelaan 185</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>9.53.069.53</td>
-			<td>CAR Sint-Lievenspoort</td>
-			<td>Sint-Lievenspoortstraat 129</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>9.53.073.49</td>
-			<td>Elora Centrum voor Ambulante Revalidatie</td>
-			<td>Duinkerkestraat 40</td>
-			<td>8620 Nieuwpoort</td>
-		</tr>
-		<tr>
-			<td>9.53.081.41</td>
-			<td>Revalidatie- en Hoorcentrum Spermalie</td>
-			<td>Rudderhove 6</td>
-			<td>8000 Brugge</td>
-		</tr>
-		<tr>
-			<td>9.53.082.40</td>
-			<td>UZ Gasthuisberg - Revalidatiecentrum voor Gehoor- en Spraakgestoorden</td>
-			<td>Herestraat 49</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>9.53.104.18</td>
-			<td>vzw CAR Brussel</td>
-			<td>Leopold-II-Laan 53</td>
-			<td>1080 Sint-Jans-Molenbeek (Brussel)</td>
-		</tr>
-		<tr>
-			<td>9.53.237.79</td>
-			<td>CAR Ter Kouter vzw</td>
-			<td>Aaltersesteenweg 2</td>
-			<td>9800 Deinze</td>
-		</tr>
-		<tr>
-			<td>9.53.245.71</td>
-			<td>CAR Wegwijs vzw</td>
-			<td>Welzijnstraat 75-77</td>
-			<td>9620 Zottegem</td>
-		</tr>
-		<tr>
-			<td>9.53.253.63</td>
-			<td>CAR Hasselt</td>
-			<td>Ilgatlaan 11 bus 2</td>
-			<td>3500 Hasselt</td>
-		</tr>
-		<tr>
-			<td>9.53.265.51</td>
-			<td>Antwerps Revalidatiecentrum vzw</td>
-			<td>Lange Elzenstraat 52-54</td>
-			<td>2018 Antwerpen</td>
-		</tr>
-		<tr>
-			<td>9.53.334.79</td>
-			<td>CAR Oostakker</td>
-			<td>Wolfputstraat 110</td>
-			<td>9041 Oostakker</td>
-		</tr>
-		<tr>
-			<td>9.53.356.57</td>
-			<td>CAR Genk</td>
-			<td>Welzijnscampus 23 bus 1</td>
-			<td>3600 Genk</td>
-		</tr>
-		<tr>
-			<td>9.53.361.52</td>
-			<td>Vlaamse Gemeenschapscommissie Revalidatiecentrum De Poolster</td>
-			<td>Poolsterstraat 20</td>
-			<td>1082 Brussel (Sint-Agatha-Berchem)</td>
-		</tr>
-		<tr>
-			<td>9.53.365.48</td>
-			<td>C.A.R. NOK-centrum</td>
-			<td>Glorieuxlaan 55</td>
-			<td>9600 Ronse</td>
-		</tr>
-		<tr>
-			<td>9.53.406.07</td>
-			<td>Het Veer Revalidatiecentrum vzw</td>
-			<td>Kazernestraat 35A</td>
-			<td>9100 Sint-Niklaas</td>
-		</tr>
-		<tr>
-			<td>9.53.416.94</td>
-			<td>CAR Stappie vzw</td>
-			<td>Koninginnelaan 55-57</td>
-			<td>8400 Oostende</td>
-		</tr>
-		<tr>
-			<td>9.53.421.89</td>
-			<td>Universitair Revalidatiecentrum voor Communicatiestoornissen UZA</td>
-			<td>Wilrijkstraat 10</td>
-			<td>2650 Edegem</td>
-		</tr>
-		<tr>
-			<td>9.53.464.46</td>
-			<td>CAR Therapeutisch Zorgpunt N</td>
-			<td>Gasthuisstraat 10</td>
-			<td>8800 Roeselare</td>
-		</tr>
-		<tr>
-			<td>9.53.467.43</td>
-			<td>CAR Horizon</td>
-			<td>Oudenaardsestraat 215</td>
-			<td>9500 Geraardsbergen</td>
-		</tr>
-		<tr>
-			<td>9.53.494.16</td>
-			<td>Centrum voor Spraak- en Taalpathologie</td>
-			<td>St.-Jobstraat 43</td>
-			<td>3960 Bree</td>
-		</tr>
-		<tr>
-			<td>9.53.495.15</td>
-			<td>CAR Noordhoek (St.-Rembert)</td>
-			<td>Aartrijksestraat 62</td>
-			<td>8820 Torhout</td>
-		</tr>
-		<tr>
-			<td>9.53.516.91</td>
-			<td>CAR De Klinker</td>
-			<td>Heistlaan 123</td>
-			<td>8301 Knokke-Heist</td>
-		</tr>
-		<tr>
-			<td>9.53.518.89</td>
-			<td>Revalidatiecentrum voor Taal- en Ontwikkelingsproblemen</td>
-			<td>Jules Lagaelaan 17</td>
-			<td>8800 Roeselare</td>
-		</tr>
-		<tr>
-			<td>9.53.579.28</td>
-			<td>CAR De Klinker vzw</td>
-			<td>Cartonstraat 53</td>
-			<td>8900 Ieper</td>
-		</tr>
-		<tr>
-			<td>9.53.593.14</td>
-			<td>CAR Vijfhoek</td>
-			<td>Vijfhoek 1A</td>
-			<td>2800 Mechelen</td>
-		</tr>
-		<tr>
-			<td>9.53.991.04</td>
-			<td>Zeplin CAR Woluwe</td>
-			<td>Georges Henrilaan 278</td>
-			<td>1200 Brussel (Sint-Lambrechts-Woluwe)</td>
-		</tr>
-		<tr>
-			<td>9.53.992.03</td>
-			<td>Revalidatiecentrum Overleie vzw</td>
-			<td>Overleiestraat 57</td>
-			<td>8500 Kortrijk</td>
-		</tr>
-		<tr>
-			<td>9.53.606.01</td>
-			<td>CAR Antenne 3000 vzw</td>
-			<td>St. Geertruiabdij 6</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>9.53.607.97</td>
-			<td>CAR DAT</td>
-			<td>Houtemstraat 115B</td>
-			<td>3300 Tienen</td>
-		</tr>
-		<tr>
-			<td>9.53.608.96</td>
-			<td>CAR Medische Sociale Instellingen Midden-Vlaanderen</td>
-			<td>Melkerij 25</td>
-			<td>9900 Eeklo</td>
-		</tr>
-		<tr>
-			<td>9.65.062.88</td>
-			<td>CAR Turnhout</td>
-			<td>Schoolstraat 27/1</td>
-			<td>2300 Turnhout</td>
-		</tr>
-		<tr>
-			<td>9.65.088.62</td>
-			<td>Zeplin CAR Lovenjoel</td>
-			<td>Stationsstraat 25</td>
-			<td>3360 Lovenjoel-Bierbeek</td>
-		</tr>
-		<tr>
-			<td>9.65.105.45</td>
-			<td>CAR De Hert vzw</td>
-			<td>Botermelkstraat 201</td>
-			<td>9300 Aalst</td>
-		</tr>
-		<tr>
-			<td>9.65.181.66</td>
-			<td>CAR Kapelhof vzw</td>
-			<td>Koevliet 2A</td>
-			<td>9240 Zele</td>
-		</tr>
-		<tr>
-			<td>9.65.182.65</td>
-			<td>CAR BOLT vzw</td>
-			<td>Kloosterstraat 6a</td>
-			<td>9031 Baarle-Drongen</td>
-		</tr>
-		<tr>
-			<td>9.65.192.55</td>
-			<td>CAR De Schakel vzw</td>
-			<td>Hoenderstraat 51</td>
-			<td>9230 Wetteren</td>
-		</tr>
-		<tr>
-			<td>9.65.244.03</td>
-			<td>Revalidatiecentrum Noorderkempen</td>
-			<td>Nieuwmoerse Steenweg 113A</td>
-			<td>2990 Wuustwezel</td>
-		</tr>
-		<tr>
-			<td>9.65.246.01</td>
-			<td>CAR 't Vlot</td>
-			<td>Kallobaan 5</td>
-			<td>9120 Beveren</td>
-		</tr>
-		<tr>
-			<td>9.65.248.96</td>
-			<td>CAR Accent vzw</td>
-			<td>Lagaeplein 12/14</td>
-			<td>8501 Kortrijk - Heule</td>
-		</tr>
-		<tr>
-			<td>9.65.263.81</td>
-			<td>CAR De Kindervriend</td>
-			<td>Tombroekstraat 4</td>
-			<td>8510 Rollegem</td>
-		</tr>
-		<tr>
-			<td>9.65.264.80</td>
-			<td>CAR 't Veld vzw</td>
-			<td>Ichtegemsestraat 32</td>
-			<td>8211 Aartrijke</td>
-		</tr>
-		<tr>
-			<td>9.65.292.52</td>
-			<td>CAR Buggenhout</td>
-			<td>Klaverveld 3</td>
-			<td>9255 Buggenhout</td>
-		</tr>
-		<tr>
-			<td>9.65.304.40</td>
-			<td>CAR De Steijger vzw</td>
-			<td>Kerkham 3</td>
-			<td>9070 Destelbergen</td>
-		</tr>
-		<tr>
-			<td>9.65.415.26</td>
-			<td>CAR Impuls vzw</td>
-			<td>Karel Lodewijk Dierickxstraat 30</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>9.65.423.18</td>
-			<td>Waas Revalidatiecentrum vzw</td>
-			<td>Luikstraat 109</td>
-			<td>9160 Lokeren</td>
-		</tr>
-		<tr>
-			<td>9.65.496.42</td>
-			<td>Centrum voor Functionele Revalidatie vzw</td>
-			<td>Stationsstraat 40</td>
-			<td>9060 Zelzate</td>
-		</tr>
-		<tr>
-			<td>9.65.572.63</td>
-			<td>CAR Land van Halle &amp; Asse vzw</td>
-			<td>Ziekenhuislaan 100</td>
-			<td>1500 Halle</td>
-		</tr>
-		<tr>
-			<td>9.65.583.52</td>
-			<td>Revalidatiecentrum Ter Linde vzw</td>
-			<td>Kapelstraat 12</td>
-			<td>2880 Bornem</td>
-		</tr>
-		<tr>
-			<td>9.65.603.32</td>
-			<td>Revalidatiecentrum Ter Eecken</td>
-			<td>Vlaanderenstraat 2</td>
-			<td>9700 Oudenaarde</td>
-		</tr>
-		<tr>
-			<td>9.65.608.27</td>
-			<td>CAR Zuiderkempen</td>
-			<td>Diestsebaan 60/1</td>
-			<td>2431 Veerle (Laakdal)</td>
-		</tr>
-		<tr>
-			<td>9.69.004.26</td>
-			<td>U.Z. Leuven Revalidatiecentrum voor Slechtzienden - Stadscampus</td>
-			<td>Brusselsestraat 69</td>
-			<td>3000 Leuven</td>
-		</tr>
-		<tr>
-			<td>9.69.006.24</td>
-			<td>Centrum voor Visuele Revalidatie De Markgrave</td>
-			<td>Markgravelei 81</td>
-			<td>2018 Antwerpen</td>
-		</tr>
-		<tr>
-			<td>9.69.008.22</td>
-			<td>Centrum voor Visuele Revalidatie en Low-Vision UZ Gent</td>
-			<td>De Pintelaan 185</td>
-			<td>9000 Gent</td>
-		</tr>
-		<tr>
-			<td>9.69.009.21</td>
-			<td>Visuele Revalidatie en Low vision UZ Antwerpen</td>
-			<td>Wilrijkstraat 10</td>
-			<td>2650 Edegem</td>
+			<td style="height:27px; width:141px">7.90.215.44</td>
+			<td style="height:27px; width:241px">vzw Pulderbos Zandhoven</td>
+			<td style="height:27px; width:163px">Reebergenlaan 4</td>
+			<td style="height:27px">2242 Zandhoven</td>
 		</tr>
 	</tbody>
 </table>
