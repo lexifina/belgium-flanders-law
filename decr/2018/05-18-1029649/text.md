@@ -427,7 +427,7 @@ De Vlaamse Regering bepaalt wat moet worden verstaan onder niet tijdig rapporter
 <br>
 §2. Het bedrag van de administratieve geldboete die kan worden opgelegd in de gevallen, vermeld in paragraaf 1, eerste lid, 1° en 2°, bedraagt minstens 500 euro en maximaal 5000 euro.<br>
 <br>
-Het bedrag van de administratieve geldboete die kan worden opgelegd in het geval, vermeld in paragraaf 1, eerste lid, 3°, bedraagt 125 euro per gebruiker die getroffen is door de fout bij de toekenning van het persoonsvolgend budget.<br>
+Het bedrag van de administratieve geldboete die kan worden opgelegd in het geval, vermeld in paragraaf 1, eerste lid, 3°, bedraagt 125 euro per gebruiker&nbsp;of, wat tegemoetkomingen voor reiskosten betreft, per vervoerder die getroffen is door de fout bij de toekenning van het persoonsvolgend budget.<br>
 <br>
 Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het eerste lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het eerste lid, en het bedrag, vermeld in het tweede lid.<br>
 <br>
@@ -546,9 +546,11 @@ Elke overtreding van deze paragraaf wordt gestraft met een geldboete van honderd
 
 De Expertencommissie wordt onder meer belast met de volgende taken:<br>
 1° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen aan gebruikers conform de verordening (EG) nr. 883/2004;<br>
-2° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
+2° een&nbsp; advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
 3° een advies verlenen met het oog op de door de zorgkas te nemen beslissingen over vragen om tegemoetkomingen voor buitengewone zorg, vermeld in artikel 55 van dit decreet;<br>
-4° advies verlenen over het sluiten, wijzigen en beëindigen van de revalidatieovereenkomsten.<br>
+4° advies verlenen over het sluiten, wijzigen en beëindigen van de revalidatieovereenkomsten;<br>
+5° advies verlenen over het sluiten van in de tijd beperkte overeenkomsten met een experimenteel karakter als vermeld in artikel 83 van het decreet van 6 juli 2018;<br>
+6° advies verlenen over het sluiten, wijzigen en beëindigen van overeenkomsten met multidisciplinaire begeleidingsequipes voor palliatieve verzorging als vermeld in artikel 91 van het decreet van 6 juli 2018.<br>
 <br>
 De Vlaamse Regering kan de Expertencommissie belasten met bijkomende taken.
 
@@ -727,8 +729,6 @@ Met behoud van de toepassing van andersluidende regelgeving hebben de gegevens d
 2° toegangspoort: de toegangspoort, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
 <br>
 § 2. De persoonsgegevens worden in het kader van de Vlaamse sociale bescherming verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, lid 1, c), van de voormelde verordening en, wat gegevens over gezondheid betreft, op artikel 9, lid 2, h), van de voormelde verordening.<br>
-<br>
-De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de voormelde verordening, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
 <br>
 § 3. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens over de gezondheid, verwerkt door:<br>
 1° het VAPH;<br>
@@ -2036,6 +2036,18 @@ Artikel 103 en 104 zijn van overeenkomstige toepassing op de toekenning van tege
 Reiskosten die verband houden met revalidatieverstrekkingen en met indicatiestellingen als vermeld in artikel 108, § 2, eerste lid, worden vergoed in de vorm van een tegemoetkoming in de gevallen en onder de voorwaarden die de Vlaamse Regering bepaalt.<br>
 <br>
 De Vlaamse Regering bepaalt in voorkomend geval het bedrag van de tegemoetkoming, vermeld in het eerste lid, en kan voorwaarden en procedures bepalen voor de samenstelling, de berekening en de uitbetaling van de tegemoetkoming. De tegemoetkoming wordt uitbetaald aan de gebruiker, behalve in de gevallen bepaald door de Vlaamse Regering, waarin de tegemoetkoming wordt uitbetaald aan de vervoerder, de revalidatievoorziening of de indicatiesteller.
+
+### ART 154/21.
+
+Gebruikers die op basis van een valse verklaring die ze hebben afgelegd of op basis van een vals document dat ze hebben opgemaakt ten onrechte rechtstreeks een tegemoetkoming voor reiskosten hebben gekregen, betalen de waarde ervan terug. Die verplichting geldt ook als de tegemoetkoming wordt uitbetaald aan de vervoerder, de revalidatievoorziening of de indicatiesteller.<br>
+<br>
+Vervoerders, revalidatievoorzieningen of indicatiestellers die een tegemoetkoming voor reiskosten hebben gekregen op basis van een vals document die ze hebben opgemaakt of op basis van een valse verklaring die de gebruiker heeft afgelegd, betalen de waarde ervan terug.<br>
+<br>
+Naast de terugbetaling, vermeld in het eerste en het tweede lid, en op voorwaarde dat het Openbaar Ministerie oordeelt dat er geen strafvervolging moet worden ingesteld of ze geen toepassing maakt van de mogelijkheden, vermeld in artikel 216bis en 216ter van het Wetboek van Strafvordering, kan de ambtenaar die de Vlaamse Regering daarvoor aanwijst bijkomend de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller, vermeld in het eerste en het tweede lid, een administratieve geldboete opleggen, die niet meer kan bedragen dan 100% van het terug te betalen bedrag. Die administratieve geldboete kan ook volledig of gedeeltelijk met uitstel van de uitvoering ervan worden opgelegd. Het uitstel kan toegestaan worden gedurende een termijn van twee jaar vanaf de datum van de beslissing als bij het uitspreken van een administratieve geldboete is vastgesteld dat aan de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller in kwestie geen administratieve geldboete is opgelegd in het voorgaande jaar. Als de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller gedurende de voormelde termijn van twee jaar een nieuwe inbreuk pleegt, worden de uitgestelde en de nieuwe sanctie samengevoegd. In geval van herhaling van dezelfde inbreuk binnen een tijdspanne van drie jaar na de beslissing, kan het bedrag van de boete worden verdubbeld.<br>
+<br>
+Artikel 68, § 2 tot en met § 5, is van overeenkomstige toepassing.<br>
+<br>
+Het bedrag van de administratieve geldboete bedraagt maximaal 500 euro. Het Openbaar Ministerie bezorgt aan de bevoegde administratie een kennisgeving van zijn beslissing om al dan niet strafvervolging in te stellen, een minnelijke schikking bedoeld in artikel 216bis van het Wetboek van Strafvordering of een bemiddeling in strafzaken bedoeld in artikel 216ter van hetzelfde wetboek voor te stellen.
 
 ## Deel 5. Wijzigingsbepalingen
 
