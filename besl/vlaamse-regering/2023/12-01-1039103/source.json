@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039103,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-01 tot wijziging van artikel 8 van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039103/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "d61bc12791b6c88e0aa24f58d4310d597c2f845694e5c9a147be628122dda961",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039103&param=informatie",
+  "as_of": "2023-10-01",
+  "made": "2023-12-01",
+  "gazette": "2023-12-12",
+  "numac": 2023048119,
+  "document_start": "2023-10-01",
+  "document_end": null,
+  "in_force": "2023-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
