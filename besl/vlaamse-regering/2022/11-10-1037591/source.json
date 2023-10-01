@@ -2,16 +2,16 @@
   "codex_id": 1037591,
   "title": "Besluit van de Vlaamse Regering van 2022-11-10 tot uitvoering van het decreet van 3 juni 2022 houdende diverse maatregelen inzake de herstructurering van het beleidsveld Wonen en tot wijziging van verschillende besluiten over wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037591/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "841501ad9895d0d94ff40d05e9302a6c8514e0ca541a783fcfabcb1063c9e4a4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037591/VolledigDocument?datum=2023-10-01",
+  "source_sha256": "fb3fc5207ecdd637ead170bdca721abca4f4e55433290bc77310a90a5364aa13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037591&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-10-01",
   "made": "2022-11-10",
   "gazette": "2022-11-23",
   "numac": 2022042788,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 140,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-01",
+  "article_versions": 142,
+  "record_form": "consolidated version as in force on 2023-10-01; future article versions excluded; article text as the API gives it"
 }

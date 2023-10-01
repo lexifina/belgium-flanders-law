@@ -1373,6 +1373,17 @@ In artikel 6.11 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse 
 
 In artikel 6.12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de woorden "de VMSW" vervangen door de woorden "het agentschap".
 
+### ART 111.
+
+In artikel 6.24, §1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het tweede en derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"In afwijking van het tweede lid kan de woonmaatschappij een vast aantal toewijzingen bepalen voor een aantal toekomstige jaren met een maximum van vijf jaar. Ze baseert zich daarvoor op de volgende aspecten:<br>
+1° het gemiddelde van het aantal toewijzingen tijdens de vijf jaar die voorafgaan aan het eerste jaar van het aantal gekozen jaren waarin de versnelde toewijzingen plaatsvinden. De toewijzingen die gebeurden ten gevolge van sloop-, renovatie- of aanpassingswerkzaamheden of verkoop van sociale huurwoningen worden daarbij niet in aanmerking genomen;<br>
+2° een raming van het gemiddelde van de toewijzingen die in het aantal gekozen jaren zullen plaatsvinden ten gevolge van:<br>
+a) sloop-, renovatie- of aanpassingswerkzaamheden of verkoop van sociale huurwoningen;<br>
+b) de terbeschikkingstelling van nieuwe sociale huurwoningen.";<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, wordt tussen de zinsnede "2°, a)," en het woord "worden" de zinsnede "en het derde lid, 2°, a)," ingevoegd en wordt tussen de zinsnede "2°, b)," en het woord "worden" de zinsnede "en het derde lid, 2°, b)," ingevoegd.
+
 ### ART 112.
 
 In artikel 6.39 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, wordt het derde lid opgeheven.
@@ -1405,6 +1416,10 @@ Aan artikel 7.29 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse
 ."In dit artikel wordt verstaan onder:<br>
 1° appartement: woning in een gebouw waarin zich minimaal twee woningen in verschillende bouwlagen boven elkaar bevinden, die geen duplex is;<br>
 2° duplex: woning in een gebouw waarin zich twee woningen in verschillende bouwlagen boven elkaar bevinden, waarvan iedere woning toegankelijk is via een gescheiden ingang of trap die uitkomtop het openbare domein op het gelijkvloerse niveau.".
+
+### ART 118.
+
+In artikel 7.49 van hetzelfde besluit wordt de zinsnede "en 6.29" opgeheven.
 
 ### ART 119.
 
