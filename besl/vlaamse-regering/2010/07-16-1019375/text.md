@@ -74,10 +74,10 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 5° afsluitingen tot een hoogte van twee meter in de zijtuin en achtertuin;<br>
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
-8° de plaatsing van niet-overdekte constructies in zijtuin en achtertuin, ingeplant tot op 1 meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur, voor zover de gezamenlijke oppervlakte van dergelijke constructies, met inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin, 80 vierkante meter niet overschrijdt;<br>
-9° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;;<br>
+8° de plaatsing van niet-overdekte constructies in zijtuin en achtertuin, ingeplant tot op 1 meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur, voor zover de gezamenlijke oppervlakte van dergelijke constructies, met inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin, 80 vierkante meter niet overschrijdt en voor zover het hemelwater dat op de niet-overdekte constructies valt, op natuurlijke wijze op het eigen goed in de bodem infiltreert;<br>
+9° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen, voor zover het hemelwater dat erop valt, op natuurlijke wijze op het eigen goed in de bodem infiltreert. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 10° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen, barbecues en speeltoestellen;<br>
-11° van het hoofdgebouw vrijstaande niet voor verblijf bestemde bijgebouwen, met inbegrip van carports, in de zijtuin tot op 3 meter van de perceelsgrenzen of in de achtertuin tot op 1 meter van de perceelsgrenzen. De vrijstaande bijgebouwen kunnen in de achtertuin ook op of tegen de perceelsgrens geplaatst worden als ze tegen een bestaande scheidingsmuur opgericht worden en als de bestaande scheidingsmuur niet gewijzigd wordt. De totale oppervlakte blijft beperkt tot maximaal 40 vierkante meter per goed, met inbegrip van alle bestaande vrijstaande bijgebouwen. De maximale hoogte is beperkt tot 3,5 meter;<br>
+11° van het hoofdgebouw vrijstaande niet voor verblijf bestemde bijgebouwen, met inbegrip van carports, in de zijtuin tot op 3 meter van de perceelsgrenzen of in de achtertuin tot op 1 meter van de perceelsgrenzen. De vrijstaande bijgebouwen kunnen in de achtertuin ook op of tegen de perceelsgrens geplaatst worden als ze tegen een bestaande scheidingsmuur opgericht worden en als de bestaande scheidingsmuur niet gewijzigd wordt. De totale oppervlakte blijft beperkt tot maximaal 40 vierkante meter per goed, met inbegrip van alle bestaande vrijstaande bijgebouwen. De maximale hoogte is beperkt tot 3,5 meter;&nbsp;Het hemelwater dat op de bijgebouwen valt, infiltreert op natuurlijke wijze op het eigen goed in de bodem;<br>
 12° het opslaan van allerhande bij de woning horende materialen en materieel met een totaal maximaal volume van 10 kubieke meter, niet zichtbaar vanaf de openbare weg;<br>
 13° het plaatsen van één verplaatsbare inrichting die voor bewoning kan worden gebruikt, zoals één woonwagen, kampeerwagen of tent, niet zichtbaar vanaf de openbare weg, zonder er effectief te wonen.<br>
 14° gebruikelijke constructies zoals ventilatiebuizen, airco's, schoorsteenpijpen, schoorstenen, dakgoten en hemelwaterafvoerbuizen aan of op een woning, op voorwaarde dat ze niet meer dan drie meter boven de nok van de woning uitsteken;<br>
@@ -108,7 +108,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
 7° /1. open afsluitingen en toegangspoorten tot een hoogte van drie meter in een afgebakend zeehavengebied;<br>
-8° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
+8° de strikt noodzakelijke toegangen tot en opritten naar het gebouw of de gebouwen, voor zover het hemelwater dat erop valt, op natuurlijke wijze op het eigen goed in de bodem infiltreert. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 9° de plaatsing van seizoensgebonden, niet-overdekte terrassen bij horecazaken.<br>
 10° gebruikelijke constructies zoals ventilatiebuizen, airco's, schoorsteenpijpen, schoorstenen, dakgoten en hemelwaterafvoerbuizen aan of op een gebouw, op voorwaarde dat ze niet meer dan drie meter boven de nok van het gebouw uitsteken;<br>
 11° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen en barbecues;<br>
@@ -185,7 +185,8 @@ De vrijstellingen, vermeld in de artikelen 4.1, 4.2, en 4.3, gelden alleen als d
 2° ze liggen niet voor de rooilijn;<br>
 3° ze liggen niet in een zone uit het netwerk voor ecologische infrastructuur zoals aangeduid in een managementplan of soortenbeschermingsprogramma opgesteld ter uitvoering van de artikelen 50septies of 51 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 4° ze gaan niet gepaard met een ontbossing;<br>
-5° ze zijn niet strijdig met stedenbouwkundige voorschriften.
+5° ze zijn niet strijdig met stedenbouwkundige voorschriften.<br>
+6° het hemelwater dat op de constructies valt, infiltreert op natuurlijke wijze op het eigen goed in de bodem.
 
 ## HOOFDSTUK 5 [Land- en tuinbouw (verv. BVR 17 januari 2014, art. 4, I: 28 februari 2014)]
 
@@ -215,7 +216,7 @@ b) de drainagewerken worden niet uitgevoerd in de volgende gebieden of zones :<b
 2) de Ramsargebieden;<br>
 3) ruimtelijk kwetsbare gebieden of een gebied met middelgrote kans op overstromingen, of op minder dan 50 meter van die gebieden;<br>
 c) voor de drainagewerken is geen milieueffectrapport vereist;<br>
-3° de strikt noodzakelijke toegangen tot en opritten naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
+3° de strikt noodzakelijke toegangen tot en opritten naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning, voor zover het hemelwater dat erop valt, op natuurlijke wijze op het eigen goed in de bodem infiltreert. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 4° bijenstallen of bijenkorven;<br>
 5° jachtkansels.<br>
 6° sleufsilo's op voorwaarde dat ze worden opgericht binnen een straal van vijftig meter van het gebouwencomplex van het landbouwbedrijf en er geen afvoer wordt voorzien naar de openbare riolering;<br>
@@ -352,8 +353,7 @@ De vrijstelling, vermeld in artikel 8.1, geldt alleen als de handelingen voldoen
 4° de handelingen betreffen niet het slopen of verwijderen van gebouwen, met uitzondering van het slopen of verwijderen, vermeld in hoofdstuk 13;<br>
 5° de handelingen zijn niet gesitueerd in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied;<br>
 6° de handelingen gaan niet gepaard met een ontbossing, een aanmerkelijke reliëfwijziging of een wijziging van waterlichamen;<br>
-7° ...<br>
-8° ...
+7° het hemelwater dat op de gebouwen, constructies en verhardingen valt, infiltreert op natuurlijke wijze op het eigen goed in de bodem.
 
 ### ART. 8.3.
 
@@ -449,7 +449,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 11.7.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van de strikt noodzakelijke toegangen tot en opritten naar installaties van algemeen belang.&nbsp;Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten.<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van de strikt noodzakelijke toegangen tot en opritten naar installaties van algemeen belang voor zover het hemelwater dat erop valt, op natuurlijke wijze op het eigen goed in de bodem infiltreert.&nbsp;Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten.<br>
 &nbsp;
 
 ### ART. 11.8.
