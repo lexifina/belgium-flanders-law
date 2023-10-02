@@ -2,16 +2,16 @@
   "codex_id": 1001258,
   "title": "Besluit van de Vlaamse Regering van 1993-04-07 tot verlening van een vaarvergunning in de vorm van een waterwegenvignet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001258/VolledigDocument?datum=2014-01-02",
-  "source_sha256": "9b986241eb3dbf4286cc207c0eb6629c2ddff3473d3e097078103b9cd6428ac6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001258/VolledigDocument?datum=2023-10-02",
+  "source_sha256": "e89dadd118af84363005b6f23fb6c6e468a8c6f32649828741418b7f8535cead",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001258&param=informatie",
-  "as_of": "2014-01-02",
+  "as_of": "2023-10-02",
   "made": "1993-04-07",
   "gazette": "1993-06-24",
   "numac": 1993035731,
   "document_start": "1993-06-24",
   "document_end": "2023-10-01",
-  "in_force": "2014-01-02",
+  "in_force": "2023-10-02",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-01-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-02; future article versions excluded; article text as the API gives it"
 }
