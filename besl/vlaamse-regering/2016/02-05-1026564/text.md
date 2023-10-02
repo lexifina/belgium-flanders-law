@@ -52,11 +52,12 @@ In dit besluit wordt verstaan onder:<br>
 4° de onderbouwing van de capaciteitsvergoeding, indien van toepassing;<br>
 5° het resultaat van de consultatie over het tariefplan bij de abonnees;<br>
 6° de goedkeuring van de vennoten;<br>
-7° het conformiteitsattest van een revisor.</p>
+7° het verslag van een revisor volgens een auditstandaard;<br>
+8° de onderbouwing van de kosten en tarieven voor aanvullende diensten.</p>
 
 <p>§ 2. Het tariefpad is over de tarifaire periode kostendekkend ten opzichte van de verantwoorde redelijke middelen die de exploitant nodig heeft voor de drinkwateractiviteit.</p>
 
-<p>Ter verantwoording van T worden minstens de volgende kosten en uitgaven, opgesplitst in subactiviteitenproductie, toevoer en distributie, verantwoord in het tariefplan:<br>
+<p>Ter verantwoording van T worden minstens de volgende kosten en opbrengsten, opgesplitst in subactiviteiten productie, toevoer en distributie, verantwoord in het tariefplan:<br>
 1° handelsgoederen, grond- en hulpstoffen;<br>
 2° diensten en diverse goederen;<br>
 3° bezoldigingen en sociale lasten;<br>
@@ -66,11 +67,15 @@ In dit besluit wordt verstaan onder:<br>
 7° uitzonderlijke kosten;<br>
 8° belastingen op het resultaat.</p>
 
-<p>De exploitant neemt in de budgettering voor de komende jaren de voorgenomen kostenbesparingen en productiviteitsverhogingen mee, alsook de maatregelen die genomen zullen worden om duurzaam watergebruik bij de abonnees te bevorderen, aan te moedigen en te realiseren. De kostenbesparingen en productiviteitsverhogingen moeten significant, meetbaar en auditeerbaar opgenomen zijn in het tariefplan.</p>
-
-<p>Voor de verantwoording van T, voor de uittekening van het tariefpad, voor de bepaling van Td en voor de omzetting naar de maximumtarieven om de variabele prijs van de drinkwatercomponent te bepalen,&nbsp;wordt gebruik gemaakt van een verplicht rapporteringssjabloon.</p>
-
-<p>§ 3. De minister legt, op voorstel van de WaterRegulator, de nadere regels vast voor de inhoud van elk verplicht onderdeel van het tariefplan en het rapporteringssjabloon.</p>
+<p>De exploitant onderbouwt in de budgettering voor de komende jaren de efficiëntie en effectiviteit in zijn reguliere en strategische prestaties door de volgende elementen te rapporteren:<br>
+1°&nbsp;&nbsp; &nbsp;de voorgenomen doelstellingen en KPI’s die daaraan zijn gekoppeld;<br>
+2°&nbsp;&nbsp; &nbsp;de investeringsprogramma’s of -projecten ter uitvoering van de doelstellingen, vermeld in punt 1°, en de KPI’s en uitgaven die daaraan gekoppeld zijn.<br>
+<br>
+In het derde lid wordt verstaan onder KPI: kritieke prestatie-indicator. Dat is een variabele waarmee de prestaties van het bedrijf ten aanzien van de gekoppelde doelstelling gemeten kunnen worden.<br>
+<br>
+Voor de verantwoording van T, voor de uittekening van het tariefpad, voor de bepaling van Td en voor de omzetting naar de maximumtarieven om de variabele prijs van de drinkwatercomponent te bepalen,&nbsp;wordt gebruik gemaakt van een verplicht rapporteringssjabloon.<br>
+<br>
+§ 3. De minister legt, op voorstel van de WaterRegulator, de nadere regels vast voor de inhoud van elk verplicht onderdeel van het tariefplan en de rapporteringssjabloon.</p>
 
 ### ART. 5.
 
@@ -111,15 +116,13 @@ Het definitieve tariefpad en de Td en maximumtarieven die eruit voortvloeien, zi
 ### ART. 9.
 
 <p>De Td voor het betreffende jaar (= jaar x) wordt elk jaar op 1 januari van dat jaar aangepast aan de evolutie van een gewogen index op basis van de volgende formule:<br>
-Tdi = Td (jaar x)*( 0,2 + 0,2*(index cpi maand.x-1/maand.jaar r) + 0,5 *(referteloonindex maand.x-1/maand.jaar r) + 0,1* materiaalindex maand.x-1/maand.jaar r), waarbij:<br>
-1° Tdi = de geïndexeerde Td;<br>
-2° jaar r = het startjaar van de tarifaire periode - 2;<br>
-3° cpi = de index van de consumptieprijzen;<br>
-4° referteloonindex= het landsgemiddelde voor de Agoria-referteloonkosten voor bedrijven met meer dan tien werknemers (contracten na 11 juli 1981);<br>
-5° materiaalindex= de Agoria-index I voor openbare werken.<br>
-6° maand: voor elk van de indexen afzonderlijk, de maand waarvoor op de eerste werkdag van december van het jaar x-1 de meest recente index gepubliceerd is. Onder werkdag wordt verstaan de eerste dag van december die geen zaterdag of zondag is.</p>
-
-<p>Voor alle indexen, vermeld in het eerste lid, geldt dat de meest recente basis wordt genomen.</p>
+Tdi = Td (jaar x)*( 0,2 + 0,2*(index cpi maand.x-1/november.jaar r) + 0,5 *(referteloonindex maand.x-1/november.jaar r) + 0,1* materiaalindex maand.x-1/november.jaar r), waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;Tdi = de geïndexeerde Td;<br>
+2°&nbsp;&nbsp; &nbsp;jaar r: het startjaar van de tarifaire periode - 2;<br>
+3°&nbsp;&nbsp; &nbsp;cpi: de index van de consumptieprijzen;<br>
+4°&nbsp;&nbsp; &nbsp;referteloonindex: het landsgemiddelde voor de Agoria-referteloonkosten voor bedrijven met meer dan tien werknemers met contracten na 11 juli 1981;<br>
+5°&nbsp;&nbsp; &nbsp;materiaalindex: de mercuriale index I 2021 voor openbare werken;<br>
+6°&nbsp;&nbsp; &nbsp;maand.x-1: voor elk van de indexen afzonderlijk de maand waarvoor op de eerste werkdag van december van het jaar x-1 de meest recente index gepubliceerd is. Onder de voormelde eerste werkdag van december wordt de eerste dag van december die geen zaterdag of zondag is, verstaan.</p>
 
 <p>De WaterRegulator berekent de geïndexeerde Td en de maximumtarieven die eruit voortvloeien en die vanaf 1 januari van kracht zijn. Hij bezorgt die uiterlijk op 5 december aan de exploitanten of binnen vijf dagen nadat de WaterRegulator over het definitieve tariefpad beschikt.</p>
 
@@ -131,9 +134,9 @@ Tdi = Td (jaar x)*( 0,2 + 0,2*(index cpi maand.x-1/maand.jaar r) + 0,5 *(referte
 
 <p>Jaarlijks monitort de WaterRegulator de realisaties van de exploitanten met betrekking tot de in het tariefplan vooropgestelde evoluties aan de hand van een opvolgingsrapportering die de exploitanten uiterlijk op 30 september indienen bij de WaterRegulator.</p>
 
-<p>De exploitanten rapporteren&nbsp;met de opvolgingsrapportering, vermeld in het eerste lid, jaarlijks een geactualiseerde versie van de relevante delen van het tariefplan, aangevuld met een materialiteitstoets waarbij de effectief gerealiseerde T vergeleken wordt met het in het goedgekeurde tariefpad vooropgestelde T. De relevante delen omvatten minstens:<br>
-1° de voorgenomen kostenbesparingen of productiviteitsverhogingen;<br>
-2° de budgettering.</p>
+<p>De exploitanten rapporteren met de opvolgingsrapportering, vermeld in het eerste lid, een geactualiseerde versie van de relevante delen van het tariefplan, aangevuld met een materialiteitstoets waarbij de effectief gerealiseerde Tko vergeleken wordt met de Tko uit het tariefplan. De relevante delen van het tariefplan omvatten minstens:<br>
+1°&nbsp;&nbsp; &nbsp;in het derde jaar en laatste jaar van de tarifaire periode de doelstellingen en investeringen zonder rollende forecast;<br>
+2°&nbsp;&nbsp; &nbsp;ieder jaar de budgettering met rollende forecast.</p>
 
 <p>Jaarlijks bezorgen de exploitanten met de opvolgingsrapportering, vermeld in het eerste lid,&nbsp;ook een rollende forecast. Onder een rollende forecast wordt begrepen dat de exploitant in het eerste jaar van de tarifaire periode voor het eerstvolgende jaar na die periode een forecast voor T meegeeft. In het tweede jaar wordt een forecast gegeven voor het tweede jaar na de tarifaire periode enzovoort.</p>
 
@@ -152,8 +155,8 @@ In afwijking van de bepalingen van artikel 8 kan de exploitant, als uit de mater
 <p>De exploitant bezorgt op eenvoudig verzoek van de WaterRegulator kosteloos alle beschikbare gegevens en inlichtingen die de WaterRegulator nodig heeft voor de evaluatie.</p>
 
 <p>De WaterRegulator kan, op zijn vroegst halverwege de tarifaire periode, de exploitanten opleggen om het tariefpad en de eruit voortvloeiende Td en maximumtarieven, voor de resterende jaren aan te passen als uit de evaluatie blijkt dat aan een van de volgende voorwaarden is voldaan:<br>
-1° de situatie zodanig veranderd is dat de gerealiseerde T of T<sub><span style="font-size: small;">ko</span></sub>&nbsp;sterk afwijkt van de voor dat jaar in het definitieve tariefplan gebudgetteerde T of T<sub><span style="font-size: small;">ko</span></sub>;<br>
-2° de voorgenomen kostenbesparingen of productiviteitsverhogingen niet voldoende gemotiveerd niet gerealiseerd worden;<br>
+1° de situatie zodanig veranderd is dat de gerealiseerde T of T<sub>ko</sub>&nbsp;sterk afwijkt van de voor dat jaar in het definitieve tariefplan gebudgetteerde T of T<sub>ko</sub>;<br>
+2° de voorgenomen doelstellingen worden niet bereikt;<br>
 3° er een sprong van Td van minstens 10% na de tarifaire periode komt.</p>
 
 <p>De WaterRegulator kan bij een bijsturing van het tariefpad bijkomende eisen voorschrijven zoals te behalen prestatienormen.</p>
