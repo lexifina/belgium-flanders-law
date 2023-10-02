@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038465,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-26 over de waterwegenvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038465/VolledigDocument?datum=2023-10-02",
+  "source_sha256": "922393d5e61a7c88cc677aa615a5c9ca19d0c39e076e14e6ca68eda1cd20471a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038465&param=informatie",
+  "as_of": "2023-10-02",
+  "made": "2023-05-26",
+  "gazette": "2023-09-22",
+  "numac": 2023042827,
+  "document_start": "2023-10-02",
+  "document_end": null,
+  "in_force": "2023-10-02",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
