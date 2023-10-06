@@ -2,16 +2,16 @@
   "codex_id": 1017147,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende de voorwaarden en procedure voor het verkrijgen van een licentie voor het aanbieden van een radio- of televisieomroepnetwerk en de bijbehorende zendvergunningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017147/VolledigDocument?datum=2021-08-14",
-  "source_sha256": "4a1b6f541fba0b4d575ced0fc00f73dce81219e4d9b62a3379077d1aefd6f8f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017147/VolledigDocument?datum=2023-10-06",
+  "source_sha256": "4670bba9c0003111f39ee520d458e6a70816fcd8a2332f1d0a774deb3f2d76f4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017147&param=informatie",
-  "as_of": "2021-08-14",
+  "as_of": "2023-10-06",
   "made": "2008-07-18",
   "gazette": "2008-10-14",
   "numac": 2008036216,
   "document_start": "2008-10-24",
   "document_end": "2026-10-11",
-  "in_force": "2021-08-14",
+  "in_force": "2023-10-06",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2021-08-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-06; future article versions excluded; article text as the API gives it"
 }

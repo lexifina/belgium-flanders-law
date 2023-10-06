@@ -116,7 +116,7 @@ De verlenging van de licentie en de bijbehorende zendvergunning of zendvergunnin
 <br>
 De Regulator beoordeelt de aanvraag tot verlenging op basis van de criteria vermeld in artikel 6 van dit besluit, en doet uitspraak binnen 60 dagen na het indienen van het verzoek tot verlenging.<br>
 <br>
-De verlengingsmogelijkheid, vermeld in het eerste tot en met het derde lid, geldt niet voor licenties die uitgereikt worden voor het aanbieden van een radio-omroepnetwerk.<br>
+De verlengingsmogelijkheid, vermeld in het eerste tot en met het derde lid, geldt niet voor licenties die uitgereikt worden voor het aanbieden van een radio-omroepnetwerk.&nbsp;Voor de voormelde licenties wordt een nieuwe vergelijkende toets georganiseerd conform dit besluit. De voormelde licenties lopen af op 31 december 2027.<br>
 &nbsp;
 
 ### ART. 18.
