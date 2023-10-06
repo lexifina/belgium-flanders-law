@@ -40,6 +40,29 @@ Aan artikel 7 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013 
 
 ## Afdeling 2. Wijzigingen van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid
 
+### ART 7.
+
+Artikel 12 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid wordt vervangen door wat volgt:<br>
+<br>
+"Art. 12. In het kader van de landbouwvorming kunnen naschoolse activiteiten worden georganiseerd.<br>
+<br>
+De Vlaamse Regering kan de doelgroepen van de naschoolse activiteiten, vermeld in het eerste lid, en de doelen waartoe die activiteiten moeten bijdragen, bepalen.<br>
+<br>
+In het kader van de naschoolse activiteiten, vermeld in het eerste lid, kunnen examens georganiseerd worden en getuigschriften en attesten uitgereikt worden.".
+
+### ART 8.
+
+Artikel 14 van hetzelfde decreet, gewijzigd bij de decreten van 30 juni 2017 en 26 april 2019, wordt opgeheven.
+
+### ART 9.
+
+In artikel 15, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt het woord "centra" vervangen door het woord "begunstigden";<br>
+2° er wordt een punt 2° /1 ingevoegd, dat luidt als volgt:<br>
+"2° /1 dat de begunstigden erkend of geregistreerd moeten worden om voor subsidiëring in aanmerking te komen en aan welke voorwaarden ze in voorkomend geval moeten voldoen;";<br>
+3° punt 6° wordt vervangen door wat volgt:<br>
+"6° op welke wijze examens georganiseerd worden, en onder welke voorwaarden een attest of getuigschrift verkregen kan worden.".
+
 ### ART 10.
 
 Artikel 16 van hetzelfde decreet wordt vervangen door wat volgt:<br>
