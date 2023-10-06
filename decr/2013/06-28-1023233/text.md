@@ -126,7 +126,11 @@ De entiteiten van het beleidsdomein Landbouw en Visserij kunnen de gegevens die 
 
 ### ART. 12.
 
-&nbsp;In het kader van de landbouwvorming kunnen naschoolse activiteiten   die inhoudelijk gericht zijn op vorming op het vlak van de landbouwactiviteit en   primaire verwerking, worden georganiseerd met als doel : <BR>1° de   beroepsopleiding bevorderen van personen die een landbouwactiviteit of   activiteit in de primaire verwerking uitoefenen of zullen uitoefenen door hen   via naschoolse vorming in staat te stellen vakbekwaamheid en deskundigheid te   verwerven of die te verbeteren voor landbouwactiviteiten of de primaire   verwerking en de daaraan verbonden activiteiten en voor de omschakeling van   landbouwactiviteiten; <BR>2° de personen die landbouwactiviteiten of   activiteiten in de primaire verwerking uitoefenen of zullen uitoefenen   voorbereiden op een kwalitatieve heroriëntering van de productie en op de   toepassing van productiemethoden die verenigbaar zijn met landschapsbehoud,   landschapsverbetering, milieubescherming, hygiënische normen en dierenwelzijn,   alsook hen de vaardigheden laten verwerven die nodig zijn om een economisch   levensvatbaar landbouwbedrijf te beheren;<BR>3° de opleiding vervolmaken van de   lesgevers die in de naschoolse landbouwvorming actief zijn of willen   worden.<BR>
+In het kader van de landbouwvorming kunnen naschoolse activiteiten worden georganiseerd.<br>
+<br>
+De Vlaamse Regering kan de doelgroepen van de naschoolse activiteiten, vermeld in het eerste lid, en de doelen waartoe die activiteiten moeten bijdragen, bepalen.<br>
+<br>
+In het kader van de naschoolse activiteiten, vermeld in het eerste lid, kunnen examens georganiseerd worden en getuigschriften en attesten uitgereikt worden.
 
 ### ART. 13.
 
@@ -134,21 +138,24 @@ De Vlaamse Regering kan een vergoeding voor sociale promotie toekennen aan   per
 
 ### ART. 14.
 
-<p>Een vereniging kan als centrum voor landbouwvorming erkend worden als ze aan de volgende voorwaarden voldoet :<br>
-1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van naschoolse vormingsactiviteiten als vermeld in artikel 12;<br>
-2° ze stelt op eenvoudig verzoek alle gegevens ter beschikking die nodig zijn voor de controle op en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
-3° ze biedt alle waarborgen voor een adequate organisatie en planning van de verschillende types vormingsactiviteiten, bepaald door de Vlaamse Regering;<br>
-4° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
-
-<p>De Vlaamse Regering kan nadere regels bepalen voor de voorwaarden, vermeld in het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de gevolgen van de erkenning.</p>
-
-<p>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden, vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen bepalen die leiden tot schorsing of opheffing van de erkenning als centrum.</p>
-
-<p>De erkenning wordt geschorst als het centrum ook andere subsidiëring aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering van deze afdeling.</p>
+<p>...</p>
 
 ### ART. 15.
 
-<P>Binnen de grenzen van de jaarlijks toegestane begrotingskredieten kunnen   subsidies worden toegekend voor de organisatie van de naschoolse   vormingsactiviteiten, vermeld in artikel 12, als aan de voorwaarden, bepaald   door de Vlaamse Regering, is voldaan.<BR></P>  <P>Met betrekking tot de subsidies, vermeld in het eerste lid, kan de Vlaamse   Regering bepalen : <BR>1° wie in aanmerking komt voor subsidiëring; <BR>2° aan   welke regels de centra moeten voldoen;<BR>3° wat de aard is van de naschoolse   activiteiten; <BR>4° aan welke kwaliteitseisen de begeleiding moet voldoen;   <BR>5° aan welke kwaliteitseisen de lesgevers moeten voldoen;<BR>6° hoe de   installatieproeven die afgelegd moeten worden om een installatieattest te   krijgen, moeten worden georganiseerd.<BR></P>  <P>De subsidiëring van de organisatie van naschoolse vormingsactiviteiten,   vermeld in artikel 12, kan afhankelijk gesteld worden van het type centrum, het   type vormingsactiviteit of de kwalificaties van de lesgever.<BR></P>  <P>Om voor subsidie in aanmerking te komen, mogen de deelnemers aan de   naschoolse vormingsactiviteiten, vermeld in artikel 12, bij de aanvang van de   activiteiten niet meer leerplichtig zijn, overeenkomstig de wet van 29 juni 1983   betreffende de leerplicht.<BR></P>
+<p>Binnen de grenzen van de jaarlijks toegestane begrotingskredieten kunnen subsidies worden toegekend voor de organisatie van de naschoolse vormingsactiviteiten, vermeld in artikel 12, als aan de voorwaarden, bepaald door de Vlaamse Regering, is voldaan.</p>
+
+<p>Met betrekking tot de subsidies, vermeld in het eerste lid, kan de Vlaamse Regering bepalen :<br>
+1° wie in aanmerking komt voor subsidiëring;<br>
+2° aan welke regels de begunstigden moeten voldoen;<br>
+2° /1 dat de begunstigden erkend of geregistreerd moeten worden om voor subsidiëring in aanmerking te komen en aan welke voorwaarden ze in voorkomend geval moeten voldoen;<br>
+3° wat de aard is van de naschoolse activiteiten;<br>
+4° aan welke kwaliteitseisen de begeleiding moet voldoen;<br>
+5° aan welke kwaliteitseisen de lesgevers moeten voldoen;<br>
+6° op welke wijze examens georganiseerd worden, en onder welke voorwaarden een attest of getuigschrift verkregen kan worden.</p>
+
+<p>De subsidiëring van de organisatie van naschoolse vormingsactiviteiten, vermeld in artikel 12, kan afhankelijk gesteld worden van het type centrum, het type vormingsactiviteit of de kwalificaties van de lesgever.</p>
+
+<p>Om voor subsidie in aanmerking te komen, mogen de deelnemers aan de naschoolse vormingsactiviteiten, vermeld in artikel 12, bij de aanvang van de activiteiten niet meer leerplichtig zijn, overeenkomstig de wet van 29 juni 1983 betreffende de leerplicht.</p>
 
 ## Afdeling 4 Sensibiliseringsacties ter bevordering van een duurzame landbouw
 
