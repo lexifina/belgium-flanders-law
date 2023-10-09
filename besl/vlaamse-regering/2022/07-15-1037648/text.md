@@ -30,21 +30,21 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Midden, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-- gemeente Affligem: 4,61%&nbsp;<br>
-- gemeente Asse: 18,05%<br>
-- gemeente Bever: 0,61%<br>
-- gemeente Dilbeek: 26,10%<br>
-- gemeente Galmaarden: 3,60%<br>
-- gemeente Gooik: 3,39%<br>
-- gemeente Herne: 2,01%<br>
-- gemeente Lennik: 2,08%<br>
-- gemeente Liedekerke: 7,18%<br>
-- gemeente Merchtem: 6,73%<br>
-- gemeente Opwijk: 5,37%<br>
-- gemeente Roosdaal: 5,29%<br>
-- gemeente Ternat: 10,35%<br>
-- gemeente Wemmel: 4,63%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Midden, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Affligem: 4,59%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Asse: 18,04%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Bever: 0,76%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Dilbeek: 26,09%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Galmaarden: 3,60%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Gooik: 3,81%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Herne: 2,18%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Lennik: 2,64%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Liedekerke: 5,46%;<br>
+10°&nbsp;&nbsp; &nbsp;gemeente Merchtem: 6,76%;<br>
+11°&nbsp;&nbsp; &nbsp;gemeente Opwijk: 5,48%;<br>
+12°&nbsp;&nbsp; &nbsp;gemeente Roosdaal: 5,21%;<br>
+13°&nbsp;&nbsp; &nbsp;gemeente Ternat: 10,32%;<br>
+14°&nbsp;&nbsp; &nbsp;gemeente Wemmel: 5.06%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
