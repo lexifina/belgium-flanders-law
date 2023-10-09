@@ -2,16 +2,16 @@
   "codex_id": 1037637,
   "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot vaststelling van de verhouding van de stemrechten tussen de gemeenten en OCMW'S die in het werkingsgebied voor woonmaatschappijen \"Halle-Vilvoorde-Zuid\" liggen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037637/VolledigDocument?datum=2022-12-01",
-  "source_sha256": "8ba6de64293ff2d7dedd588b93c556c725430f9ea9ee2e69b9142becbe1cfd70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037637/VolledigDocument?datum=2023-10-09",
+  "source_sha256": "998e9eddf5fd1db260870a075978a704900af21699374e167b51821bcc11f7c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037637&param=informatie",
-  "as_of": "2022-12-01",
+  "as_of": "2023-10-09",
   "made": "2022-07-15",
   "gazette": "2022-11-21",
   "numac": 2022041834,
   "document_start": "2022-12-01",
   "document_end": null,
-  "in_force": "2022-12-01",
+  "in_force": "2023-10-09",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-09; future article versions excluded; article text as the API gives it"
 }

@@ -33,14 +33,14 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°gemeente Beersel: 20,18%<br>
-2° gemeente Drogenbos: 4,12%<br>
-3° gemeente Halle: 38,69%<br>
-4°gemeente Linkebeek: 1,19%<br>
-5° gemeente Pepingen: 1,23%<br>
-6° gemeente Sint-Genesius-Rode: 6,34%<br>
-7° gemeente Sint-Pieters-Leeuw: 28,25%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Beersel: 19,70%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Drogenbos: 4,11%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Halle: 39,06%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Linkebeek: 1,24%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Pepingen: 1,53%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Sint-Genesius-Rode: 6,26%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Sint-Pieters-Leeuw: 28,10%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
