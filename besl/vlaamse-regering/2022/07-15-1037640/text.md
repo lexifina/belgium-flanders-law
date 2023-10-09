@@ -30,14 +30,14 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Grimbergen: 27,21%<br>
-2°gemeente Kampenhout: 7,34%<br>
-3° gemeente Kapelle-op-den-Bos: 10,22%<br>
-4° gemeente Londerzeel: 12,71%<br>
-5° gemeente Meise: 15,19%<br>
-6° gemeente Steenokkerzeel: 10,42%<br>
-7° gemeente Zemst: 16,91%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Grimbergen: 23,36%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Kampenhout: 9,18%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Kapelle-op-den-Bos: 13,15%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Londerzeel: 11,39%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Meise: 13,81%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Steenokkerzeel: 13,01%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Zemst: 16,10%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
