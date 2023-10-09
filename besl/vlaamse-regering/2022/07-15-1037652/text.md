@@ -29,11 +29,11 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Zuid-West-Vlaanderen-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°gemeente Avelgem: 18,90%<br>
-2° gemeente Kuurne: 25,85%<br>
-3° gemeente Spiere-Helkijn: 5,77%<br>
-4° gemeente Zwevegem: 49,48%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Zuid-West-Vlaanderen-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1° gemeente Avelgem: 19,08%;<br>
+2° gemeente Kuurne: 26,03%;&nbsp;<br>
+3° gemeente Spiere-Helkijn: 5,72%;<br>
+4° gemeente Zwevegem: 49,17%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 

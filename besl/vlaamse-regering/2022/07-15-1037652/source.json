@@ -2,16 +2,16 @@
   "codex_id": 1037652,
   "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot vaststelling van de verhouding van de stemrechten tussen de gemeenten en OCMW'S die in het werkingsgebied voor woonmaatschappijen \"Zuid-West-Vlaanderen-Zuid\" liggen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037652/VolledigDocument?datum=2022-12-01",
-  "source_sha256": "2e7f3fb0707530ddee95c86031b8eda285697989b91523fd5769c5af3854db94",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037652/VolledigDocument?datum=2023-10-09",
+  "source_sha256": "1278944f36f533daab2865f81ddf9f0c05a10cadae89a139409218f0ac5614c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037652&param=informatie",
-  "as_of": "2022-12-01",
+  "as_of": "2023-10-09",
   "made": "2022-07-15",
   "gazette": "2022-11-21",
   "numac": 2022041849,
   "document_start": "2022-12-01",
   "document_end": null,
-  "in_force": "2022-12-01",
+  "in_force": "2023-10-09",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-09; future article versions excluded; article text as the API gives it"
 }
