@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038404,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-05 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 15 juli 2022 tot vaststelling van de verhouding van de stemrechten tussen de gemeenten en OCMW’S die in het werkingsgebied voor woonmaatschappijen “Kortrijk-regio” liggen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038404/VolledigDocument?datum=2023-10-09",
+  "source_sha256": "b538939be15b1ce3fdddb29477f3c26d6eba668b20afbd3bf15edb48f3831cac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038404&param=informatie",
+  "as_of": "2023-10-09",
+  "made": "2023-05-05",
+  "gazette": "2023-09-29",
+  "numac": 2023031194,
+  "document_start": "2023-10-09",
+  "document_end": null,
+  "in_force": "2023-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
