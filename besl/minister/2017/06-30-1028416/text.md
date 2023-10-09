@@ -20,45 +20,45 @@ Besluit :
 
 De volgende personen worden benoemd tot leden en plaatsvervangers in de gewestelijke overleginstantie, vermeld in artikel 50quinquies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu:<br>
 1° voor het Agentschap voor Natuur en Bos:<br>
-a) als leden: Mevr. Marleen Evenepoel, de heer Thomas Defoort en de heer Jos Rutten;<br>
-b) als plaatsvervangers : de heer Filiep Cardoen en Mevr. Inge Serbruyns;<br>
+a) als leden: Goedele Van der Spiegel, Thomas Defoort en Jos Rutten;<br>
+b) als plaatsvervangers: Filiep Cardoen en Inge Serbruyns;<br>
 2° voor de Vlaamse Landmaatschappij:<br>
-a) als lid: Mevr. Griet Celen;<br>
-b) als plaatsvervanger: Mevr. Ria Gielis;<br>
+a) als lid: Griet Celen;<br>
+b) als plaatsvervanger: Dirk Van Gijseghem;<br>
 3° voor de Vlaamse Milieumaatschappij:<br>
-a) als lid: de heer Michel Boucneau;<br>
-b) als plaatsvervanger: Mevr. Barbara Vael;<br>
+a) als lid: Michel Boucneau;<br>
+b) als plaatsvervanger: Barbara Vael;<br>
 4° voor het Instituut voor Natuur- en Bosonderzoek:<br>
-a) als lid: de heer Desiré Paelinckx;<br>
-b) als plaatsvervanger: Mevr. Lieve Vriens;<br>
+a) als lid: Patrik Oosterlynck;<br>
+b) als plaatsvervanger: Lieve Vriens;<br>
 5° voor het Algemeen Boerensyndicaat:<br>
-a) als lid: de heer Lieven De Stoppeleire;<br>
-b) als plaatsvervanger: de heer Mark Wulfrancke;<br>
+a) als lid: Mark Wulfrancke;<br>
+b) als plaatsvervanger: Matthias D’Haese;<br>
 6° voor de Boerenbond:<br>
-a) als lid: de heer Nick François;<br>
-b) als plaatsvervanger: de heer Bart Beliën;<br>
+a) als lid: Nick François;<br>
+b) als plaatsvervanger: Bart Beliën;<br>
 7° voor het Aanspreekpunt Privaat Beheer Natuur en Bos:<br>
-a) als lid: Mevr. Valerie Vandenabeele en de heer Jurgen Tack;<br>
-b) als plaatsvervanger: de heer Eric Smeets en de heer Gert Michiels;<br>
+a) als lid: Valérie Vandenabeele en Gert Michiels;<br>
+b) als plaatsvervanger: Eric Smeets en Guido Mulier;<br>
 8° voor Natuurpunt:<br>
-a) als lid: Mevr. Anke Geeraerts en de heer Wim Van Gils;<br>
-b) als plaatsvervangers: de heer Peter Symens en de heer Diemer Vercayie;<br>
+a) als lid: Anja Delief en Jos Ramaekers;<br>
+b) als plaatsvervangers: Peter Symens en Diemer Vercayie;<br>
 9° voor UNIZO:<br>
-a) als lid: de heer Piet Vanden Abeele;<br>
-b) als plaatsvervanger: Mevr. Nele Cattoor;<br>
+a) als lid: Piet Vanden Abeele;<br>
+b) als plaatsvervanger: Noémi Van Bogaert;<br>
 10° voor VOKA/Aquaflanders:<br>
-a) als lid: de heer Steven Betz;<br>
-b) als plaatsvervanger: Mevr. Sofie Coppens;<br>
+a) als lid: Robin Verbeke;<br>
+b) als plaatsvervanger: Sofie Coppens;<br>
 11° voor het departement Landbouw en Visserij van de Vlaamse overheid:<br>
-a) als lid: Mevr. Nicole Van Duyse;<br>
-b) als plaatsvervanger: de heer Tuur Jena;<br>
+a) als lid: Nicole Van Duyse;<br>
+b) als plaatsvervanger: Tuur Jena;<br>
 12° voor het departement Mobiliteit en Openbare Werken van de Vlaamse overheid:<br>
-a) als lid: Mevr. Astrid Van Vosselen;<br>
-b) als plaatsvervanger: Mevr. Valerie Vandeurzen;<br>
+a) als lid: Astrid Van Vosselen;<br>
+b) als plaatsvervanger: Ina Comhaire;<br>
 13° voor het departement Omgeving van de Vlaamse overheid:<br>
-a) als lid: de heer Robin De Smedt;<br>
-b) als plaatsvervanger: Mevr. Jana Van Hoyweghe.<br>
+a) als lid: Robin De Smedt;<br>
+b) als plaatsvervanger: Jana Van Hoyweghe.<br>
 <br>
-Mevr. Marleen Evenepoel, administrateur-generaal van het Agentschap voor Natuur en Bos, vermeld in het eerste lid, 1°, treedt op als voorzitter van de gewestelijke overleginstantie ter uitvoering van de organiserende en sturende taak die conform artikel 50quinquies, derde lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu is toegewezen aan het Agentschap voor Natuur en Bos.<br>
+Goedele Van Der Spiegel, administrateur-generaal van het Agentschap voor Natuur en Bos, vermeld in het eerste lid, 1°, treedt op als voorzitter van de gewestelijke overleginstantie ter uitvoering van de organiserende en sturende taak die conform artikel 50quinquies, derde lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu is toegewezen aan het Agentschap voor Natuur en Bos.<br>
 <br>
-Mevrouw Natalia Padovan van het Agentschap voor Natuur en Bos functioneert als secretaris van de gewestelijke overleginstantie ter ondersteuning van de organiserende en sturende taak die conform artikel 50quinquies, derde lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu is toegewezen aan het Agentschap voor Natuur en Bos.
+Fred Jonker van het Agentschap voor Natuur en Bos functioneert als secretaris van de gewestelijke overleginstantie ter ondersteuning van de organiserende en sturende taak die conform artikel 50quinquies, derde lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu is toegewezen aan het Agentschap voor Natuur en Bos.
