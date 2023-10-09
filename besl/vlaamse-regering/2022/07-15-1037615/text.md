@@ -29,10 +29,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Westhoek-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Ieper: 65,28%<br>
-2° gemeente Heuvelland: 21,15%<br>
-3° gemeente Mesen: 13,57%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Westhoek-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Ieper: 65,25%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Heuvelland: 21,16%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Mesen: 13,59%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
