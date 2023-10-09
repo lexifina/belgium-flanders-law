@@ -33,20 +33,20 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Oost-Brabant-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Bertem: 6,03%<br>
-2° gemeente Boortmeerbeek: 3,51%<br>
-3° gemeente Haacht: 2,92%<br>
-4° gemeente Herent: 12,25%<br>
-5° gemeente Hoeilaart: 2,44%<br>
-6° gemeente Huldenberg: 3,52%<br>
-7° gemeente Keerbergen: 3,46%<br>
-8°gemeente Kortenberg: 9,18%<br>
-9° gemeente Kraainem: 5,29%<br>
-10° gemeente Overijse: 7,95%<br>
-11°gemeente Tervuren: 13,88%<br>
-12° gemeente Wezembeek-Oppem: 11,33%<br>
-13° gemeente Zaventem: 18,24%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Oost-Brabant-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1° gemeente Bertem: 5,39%;<br>
+2° gemeente Boortmeerbeek: 3,40%;<br>
+3° gemeente Haacht: 8,37%;<br>
+4° gemeente Herent: 11,00%;<br>
+5° gemeente Hoeilaart: 5,97%;<br>
+6° gemeente Huldenberg: 3,41%;<br>
+7° gemeente Keerbergen: 3,47%;<br>
+8° gemeente Kortenberg: 8,29%;<br>
+9° gemeente Kraainem: 4,78%;<br>
+10° gemeente Overijse: 7,46%;<br>
+11° gemeente Tervuren: 12,24%;<br>
+12° gemeente Wezembeek-Oppem: 9,80%;<br>
+13° gemeente Zaventem: 16,42%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
