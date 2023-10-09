@@ -32,18 +32,18 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Gent-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Aalter: 14,52%<br>
-2° gemeente Deinze: 21,41%<br>
-3° gemeente De Pinte: 2,98%<br>
-4° gemeente Destelbergen: 5,64%<br>
-5°gemeente Gavere: 4,77%<br>
-6° gemeente Lievegem: 16,93%<br>
-7° gemeente Melle: 6,18%<br>
-8°gemeente Merelbeke: 10,64%<br>
-9° gemeente Nazareth: 5,44%<br>
-10° gemeente Sint-Martens-Latem: 3,07%<br>
-11° gemeente Zulte: 8,42%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Gent-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Aalter: 13,46%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Deinze: 20,55%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente De Pinte: 5,00%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Destelbergen: 6,09%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Gavere: 5,07%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Lievegem: 15,33%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Melle: 5,86%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Merelbeke: 10,32%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Nazareth: 5,42%;<br>
+10°&nbsp;&nbsp; &nbsp;gemeente Sint-Martens-Latem: 5,00%;<br>
+11°&nbsp;&nbsp; &nbsp;gemeente Zulte: 7,90%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
