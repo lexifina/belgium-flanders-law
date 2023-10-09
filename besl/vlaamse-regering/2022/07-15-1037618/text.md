@@ -29,10 +29,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Waasland-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Lokeren: 71,95%<br>
-2° gemeente Moerbeke: 11,70%<br>
-3° gemeente Waasmunster: 16,35%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Waasland-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Lokeren: 72,14%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Moerbeke: 11,55%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Waasmunster: 16,31%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
