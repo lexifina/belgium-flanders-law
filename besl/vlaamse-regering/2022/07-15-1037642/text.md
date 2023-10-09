@@ -32,14 +32,14 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Gent-Meetjesland, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Assenede: 9,19%<br>
-2° gemeente Eeklo: 24,19%<br>
-3° gemeente Evergem: 23,11%<br>
-4°gemeente Kaprijke: 3,78%<br>
-5° gemeente Maldegem: 14,44%<br>
-6° gemeente Sint-Laureins: 3,40%<br>
-7° gemeente Zelzate: 21,89%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Gent-Meetjesland, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Assenede: 9,30%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Eeklo: 24,84%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Evergem: 22,58%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Kaprijke: 3,70% ;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Maldegem: 14,75%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Sint-Laureins: 3,73%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Zelzate: 21,10%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
