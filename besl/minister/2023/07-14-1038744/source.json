@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038744,
+  "title": "Ministerieel besluit van 2023-07-14 tot wijziging van het ministerieel besluit van 30 juni 2017 tot aanduiding van de gewestelijke overleginstantie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038744/VolledigDocument?datum=2023-10-09",
+  "source_sha256": "a78925dc2703116ba4398463edb7fe1f2f29489d5f397273f03058064dd52eb4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038744&param=informatie",
+  "as_of": "2023-10-09",
+  "made": "2023-07-14",
+  "gazette": "2023-09-29",
+  "numac": 2023044854,
+  "document_start": "2023-10-09",
+  "document_end": null,
+  "in_force": "2023-10-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2023-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
