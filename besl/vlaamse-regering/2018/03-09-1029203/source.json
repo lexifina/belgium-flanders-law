@@ -2,16 +2,16 @@
   "codex_id": 1029203,
   "title": "Besluit van de Vlaamse Regering van 2018-03-09 tot bepaling van aanvullende programmatienormen voor bijkomende diensten waarin een magnetische resonantie tomograaf wordt opgesteld",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029203/VolledigDocument?datum=2018-04-16",
-  "source_sha256": "31026e76a07a9aca0812d61542d24ac98dedce8cfe7c3fc2c07b05b97163a938",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029203/VolledigDocument?datum=2023-10-09",
+  "source_sha256": "6610fd810a7891c68aa33ec4218ed689a9e823959453d3d6e4b2f1ab896c12df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029203&param=informatie",
-  "as_of": "2018-04-16",
+  "as_of": "2023-10-09",
   "made": "2018-03-09",
   "gazette": "2018-04-06",
   "numac": 2018030716,
   "document_start": "2018-04-16",
   "document_end": "2023-10-08",
-  "in_force": "2018-04-16",
+  "in_force": "2023-10-09",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2018-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-09; future article versions excluded; article text as the API gives it"
 }
