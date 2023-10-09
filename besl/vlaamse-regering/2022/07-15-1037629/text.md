@@ -35,21 +35,21 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Midwest-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Ardooie: 3,66%<br>
-2° gemeente Hooglede: 3,27%<br>
-3° gemeente Ingelmunster: 3,33%<br>
-4° gemeente Izegem: 11,72%<br>
-5°gemeente Langemark-Poelkapelle: 3,65%<br>
-6° gemeente Ledegem: 4,14%<br>
-7° gemeente Lichtervelde: 3,31%<br>
-8° gemeente Moorslede: 4,98%<br>
-9° gemeente Poperinge: 9,60%<br>
-10° gemeente Roeselare: 33,26%<br>
-11° gemeente Staden: 4,66%<br>
-12° gemeente Torhout: 7,07%<br>
-13°gemeente Vleteren: 1,66%<br>
-14° gemeente Zonnebeke: 5,69%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Midwest-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Ardooie: 3,87%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Hooglede: 3,68%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Ingelmunster: 3,82%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Izegem: 12,34%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Langemark-Poelkapelle: 3,90%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Ledegem: 4,35%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Lichtervelde: 3,55%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Moorslede: 4,97%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Poperinge: 8,69%;<br>
+10° gemeente Roeselare: 32,02%;<br>
+11° gemeente Staden: 4,69%;<br>
+12° gemeente Torhout: 6,43%;<br>
+13° gemeente Vleteren: 2,38%;<br>
+14° gemeente Zonnebeke: 5,31%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
