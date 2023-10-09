@@ -30,15 +30,15 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Dender-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Aalst: 37,40%<br>
-2° gemeente Denderleeuw: 9,68%<br>
-3° gemeente Erpe-Mere: 7,32%<br>
-4° gemeente Geraardsbergen: 11,33%<br>
-5°gemeente Haaltert: 5,25%<br>
-6° gemeente Lede: 6,65%<br>
-7° gemeente Ninove: 18,67%<br>
-8°gemeente Wichelen: 3,70%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Dender-Zuid, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Aalst: 29,67%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Denderleeuw: 9,50%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Erpe-Mere: 7,50%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Geraardsbergen: 16,30%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Haaltert: 5,10%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Lede: 6,08%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Ninove: 21,13%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Wichelen: 4,72%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
