@@ -29,16 +29,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Vlaamse Ardennen-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Brakel: 7,95%<br>
-2°gemeente Horebeke: 0,47%<br>
-3° gemeente Kluisbergen: 6,49%<br>
-4° gemeente Kruisem: 8,95%<br>
-5°gemeente Lierde: 4,81%<br>
-6° gemeente Maarkedal: 3,40%<br>
-7° gemeente Oudenaarde: 33,57%<br>
-8°gemeente Ronse: 31,19%<br>
-9° gemeente Wortegem-Petegem: 3,17%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Vlaamse Ardennen-West, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Brakel: 8,05%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Horebeke: 0,48%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Kluisbergen: 5,57%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Kruisem: 9,30%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Lierde: 4,68%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Maarkedal: 3,12%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Oudenaarde: 30,74%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Ronse: 30,02%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Wortegem-Petegem: 8,04%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
