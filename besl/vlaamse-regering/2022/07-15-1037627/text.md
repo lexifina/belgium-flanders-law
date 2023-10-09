@@ -30,25 +30,25 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Oost-Brabant-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Aarschot: 14,89%<br>
-2° gemeente Begijnendijk: 2,52%<br>
-3° gemeente Bekkevoort: 1,95%<br>
-4° gemeente Diest: 17,62%<br>
-5°gemeente Geetbets: 1,85%<br>
-6° gemeente Glabbeek: 0,98%<br>
-7° gemeente Hoegaarden: 1,46%<br>
-8°gemeente Holsbeek: 2,36%<br>
-9° gemeente Kortenaken: 1,82%<br>
-10° gemeente Landen: 10,87%<br>
-11°gemeente Linter: 1,83%<br>
-12° gemeente Lubbeek: 2,86%<br>
-13° gemeente Rotselaar: 4,47%<br>
-14°gemeente Scherpenheuvel-Zichem: 6,13%<br>
-15° gemeente Tielt-Winge: 3,22%<br>
-16° gemeente Tienen: 17,48%<br>
-17° gemeente Tremelo: 4,86%<br>
-18° gemeente Zoutleeuw: 2,83%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Oost-Brabant-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Aarschot: 14,35%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Begijnendijk: 2,48%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Bekkevoort: 2,12%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Diest: 16,48%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Geetbets: 1,93%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Glabbeek: 1,18%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Hoegaarden: 1,45%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Holsbeek: 2,81%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Kortenaken: 1,87%;<br>
+10° gemeente Landen: 10,03%;<br>
+11° gemeente Linter: 1,88%;<br>
+12° gemeente Lubbeek: 3,12%;<br>
+13° gemeente Rotselaar: 4,43%;<br>
+14° gemeente Scherpenheuvel-Zichem: 6,58%;<br>
+15° gemeente Tielt-Winge: 3,60%;<br>
+16° gemeente Tienen: 17,88%;<br>
+17° gemeente Tremelo: 4,92%;<br>
+18° gemeente Zoutleeuw: 2,89%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
