@@ -29,12 +29,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Kempen-Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Arendonk: 19,99%<br>
-2° gemeente Hoogstraten: 20,97%<br>
-3° gemeente Merksplas: 19,06%<br>
-4°gemeente Ravels: 20,14%<br>
-5° gemeente Rijkevorsel: 19,84%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Kempen-Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Arendonk: 20,03%:<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Hoogstraten: 20,93%:<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Merksplas: 19,07%:<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Ravels: 20,15%:<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Rijkevorsel: 19,82%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
