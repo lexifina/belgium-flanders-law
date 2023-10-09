@@ -30,12 +30,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Antwerpen-Rupel, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Boom: 35,77%<br>
-2° gemeente Hemiksem: 17,33%<br>
-3° gemeente Niel: 14,81%<br>
-4° gemeente Rumst: 18,21%<br>
-5° gemeente Schelle: 13,88%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Antwerpen-Rupel, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Boom: 33,19%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Hemiksem: 16,49%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Niel: 14,69%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Rumst: 17,30%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Schelle: 18,33%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
