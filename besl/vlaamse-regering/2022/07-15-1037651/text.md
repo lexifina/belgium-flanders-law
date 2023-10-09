@@ -32,22 +32,22 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Antwerpen-Midden/Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°gemeente Brasschaat: 14,66%;<br>
-2° gemeente Brecht: 12,05%;<br>
-3° gemeente Essen: 8,21%;<br>
-4°gemeente Kalmthout: 4,03%;<br>
-5° gemeente Kapellen: 5,21%;<br>
-6° gemeente Malle: 8,98%;<br>
-7°gemeente Ranst: 2,90%;<br>
-8° gemeente Schilde: 3,09%;<br>
-9° gemeente Schoten: 10,52%;<br>
-10°gemeente Stabroek: 6,22%;<br>
-11° gemeente Wijnegem: 1,87%;<br>
-12° gemeente Wommelgem: 2,34%;<br>
-13° gemeente Wuustwezel: 11,64%;<br>
-14° gemeente Zandhoven: 2,95%;<br>
-15°gemeente Zoersel: 5,33%.<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Antwerpen-Midden-Noord, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Brasschaat: 14,26%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Brecht: 11,21%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Essen: 8,49%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Kalmthout: 4,18%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Kapellen: 5,90%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Malle: 8,40%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Ranst: 3,05%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Schilde: 3,79%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Schoten: 10,49%;<br>
+10°&nbsp;&nbsp; &nbsp;gemeente Stabroek: 6,50%;<br>
+11°&nbsp;&nbsp; &nbsp;gemeente Wijnegem: 2,02% (afgerond);<br>
+12°&nbsp;&nbsp; &nbsp;gemeente Wommelgem: 2,23%;<br>
+13°&nbsp;&nbsp; &nbsp;gemeente Wuustwezel: 10,91%;<br>
+14°&nbsp;&nbsp; &nbsp;gemeente Zandhoven: 3,06%;<br>
+15°&nbsp;&nbsp; &nbsp;gemeente Zoersel: 5,51%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
