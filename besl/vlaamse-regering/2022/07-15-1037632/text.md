@@ -36,49 +36,49 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Limburg, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Alken: 0,79%<br>
-2° gemeente As: 0,79%<br>
-3° gemeente Beringen: 6,01%<br>
-4° gemeente Bilzen: 2,81%<br>
-5° gemeente Bocholt: 1,53%<br>
-6° gemeente Borgloon: 0,81%<br>
-7° gemeente Bree: 1,82%<br>
-8° gemeente Diepenbeek: 1,55%<br>
-9° gemeente Dilsen-Stokkem: 3,28%<br>
-10° gemeente Genk: 12,17%<br>
-11°gemeente Gingelom: 0,67%<br>
-12° gemeente Halen: 0,78%<br>
-13° gemeente Ham: 1,29%<br>
-14°gemeente Hamont-Achel: 1,57%<br>
-15° gemeente Hasselt: 8,72%<br>
-16° gemeente Hechtel-Eksel: 1,03%<br>
-17° gemeente Heers: 0,46%<br>
-18° gemeente Herk-de-Stad: 0,90%<br>
-19° gemeente Herstappe: 0,01%<br>
-20° gemeente Heusden-Zolder: 3,75%<br>
-21° gemeente Hoeselt: 1,08%<br>
-22°gemeente Houthalen-Helchteren: 4,17%<br>
-23° gemeente Kinrooi: 1,80%<br>
-24° gemeente Kortessem: 0,94%<br>
-25° gemeente Lanaken: 1,94%<br>
-26° gemeente Leopoldsburg: 1,94%<br>
-27° gemeente Lommel: 3,19%<br>
-28° gemeente Lummen: 1,15%<br>
-29° gemeente Maaseik: 4,28%<br>
-30°gemeente Maasmechelen: 6,10%<br>
-31° gemeente Nieuwerkerken: 0,44%<br>
-32° gemeente Oudsbergen: 1,68%<br>
-33° gemeente Peer: 1,55%<br>
-34° gemeente Pelt: 3,17%<br>
-35° gemeente Riemst: 0,92%<br>
-36° gemeente Sint-Truiden: 5,76%<br>
-37° gemeente Tessenderlo: 2,08%<br>
-38°gemeente Tongeren: 4,20%<br>
-39° gemeente Voeren: 0,20%<br>
-40° gemeente Wellen: 0,54%<br>
-41°gemeente Zonhoven: 1,47%<br>
-42° gemeente Zutendaal: 0,67%<br>
+Voor de woonmaatschappij die erkend is voor het werkingsgebied Limburg, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Alken: 0,80%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente As: 0,82%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Beringen: 6,02%;<br>
+4°&nbsp;&nbsp; &nbsp;gemeente Bilzen: 2,98%;<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Bocholt: 1,57%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Borgloon: 0,83%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Bree: 1,83%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Diepenbeek: 1,60%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Dilsen-Stokkem: 3,15%;<br>
+10°&nbsp;&nbsp; &nbsp;gemeente Genk: 11,88%;<br>
+11°&nbsp;&nbsp; &nbsp;gemeente Gingelom: 0,66%;<br>
+12°&nbsp;&nbsp; &nbsp;gemeente Halen: 0,74%;<br>
+13°&nbsp;&nbsp; &nbsp;gemeente Ham: 1,26%;<br>
+14°&nbsp;&nbsp; &nbsp;gemeente Hamont-Achel: 1,58%;<br>
+15°&nbsp;&nbsp; &nbsp;gemeente Hasselt: 8,83%;<br>
+16°&nbsp;&nbsp; &nbsp;gemeente Hechtel-Eksel: 1,04%;<br>
+17°&nbsp;&nbsp; &nbsp;gemeente Heers: 0,52%;<br>
+18°&nbsp;&nbsp; &nbsp;gemeente Herk-de Stad: 0,98%;<br>
+19°&nbsp;&nbsp; &nbsp;gemeente Herstappe: 0,02%;<br>
+20°&nbsp;&nbsp; &nbsp;gemeente Heusden-Zolder: 3,72%;<br>
+21°&nbsp;&nbsp; &nbsp;gemeente Hoeselt: 1,09%;<br>
+22°&nbsp;&nbsp; &nbsp;gemeente Houthalen-Helchteren: 4,05%;<br>
+23°&nbsp;&nbsp; &nbsp;gemeente Kinrooi: 1,72%;<br>
+24°&nbsp;&nbsp; &nbsp;gemeente Kortessem: 0,93%;<br>
+25°&nbsp;&nbsp; &nbsp;gemeente Lanaken: 1,98%;<br>
+26°&nbsp;&nbsp; &nbsp;gemeente Leopoldsburg: 2,04%;<br>
+27°&nbsp;&nbsp; &nbsp;gemeente Lommel: 3,19%;<br>
+28°&nbsp;&nbsp; &nbsp;gemeente Lummen: 1,17%;<br>
+29°&nbsp;&nbsp; &nbsp;gemeente Maaseik: 4,10%;<br>
+30°&nbsp;&nbsp; &nbsp;gemeente Maasmechelen: 5,95%;<br>
+31°&nbsp;&nbsp; &nbsp;gemeente Nieuwerkerken: 0,43%;<br>
+32°&nbsp;&nbsp; &nbsp;gemeente Oudsbergen: 1,64%;<br>
+33°&nbsp;&nbsp; &nbsp;gemeente Peer: 1,56%;<br>
+34°&nbsp;&nbsp; &nbsp;gemeente Pelt: 3,16%;<br>
+35°&nbsp;&nbsp; &nbsp;gemeente Riemst: 1,01%;<br>
+36°&nbsp;&nbsp; &nbsp;gemeente Sint-Truiden: 5,66%;<br>
+37°&nbsp;&nbsp; &nbsp;gemeente Tessenderlo: 2,10%;<br>
+38°&nbsp;&nbsp; &nbsp;gemeente Tongeren: 4,32%;<br>
+39°&nbsp;&nbsp; &nbsp;gemeente Voeren: 0,23%;<br>
+40°&nbsp;&nbsp; &nbsp;gemeente Wellen: 0,52%;<br>
+41°&nbsp;&nbsp; &nbsp;gemeente Zonhoven: 1,63%;<br>
+42°&nbsp;&nbsp; &nbsp;gemeente Zutendaal: 0,69%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
