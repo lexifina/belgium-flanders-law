@@ -83,7 +83,7 @@ a) de zaakvoerder, exploitant of verantwoordelijke van de onderneming of haar aa
 b) de onderneming legt een visie voor over hoe loopbaanbegeleiding strookt met de beleidsdoelstelling en past die toe; de onderneming waarborgt dat de visie van de onderaannemers ook strookt met de beleidsdoelstellingen en dat de onderaannemers die ook toepassen;<br>
 c) de onderneming licht toe hoe ze de expertise over loopbaanbegeleiding, alsook de kennis van de aanpak en methodiek van haar eigen personeelsleden en van onderaannemers systematisch waarborgt;<br>
 6° de onderneming onderschrijft de bepalingen van de gedragscode, opgenomen in de bijlage die bij dit besluit is toegevoegd en de praktische onderrichtingen, uitgevaardigd door de VDAB;<br>
-7° &nbsp;het mandaat van de onderneming werd in de vijf jaar vóór de aanvraag, niet ingetrokken met toepassing van artikel 18;<br>
+7° &nbsp;...;<br>
 8° de bestuurders, zaakvoerders, lasthebbers, of andere personen die bevoegd zijn om de onderneming te verbinden of te vertegenwoordigen, of de hoofdaandeelhouders van de onderneming, in zoverre zij in de feiten de bevoegdheden van bestuurder uitoefenen, werden tijdens een periode van vijf jaar voorafgaand aan de datum van mandaataanvraag niet :<br>
 a) veroordeeld wegens faillissement, bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
 b) aansprakelijk gesteld voor de verbintenissen of de schulden van een gefailleerde vennootschap met toepassing van artikelen 229, 5°, 265, 315, 456, 4°, en 530, van het Wetboek van Vennootschappen of een gelijkaardige wetgeving in de lidstaat van vestiging of hebben meermaals een functie van zaakvoerder of gemachtigde uitgeoefend in een gefailleerde vennootschap;<br>
@@ -231,7 +231,7 @@ Informatiegegevens die betrekking hebben op de naleving van de voorwaarden   van
 
 ### ART. 18.
 
-§ 1.&nbsp;De raad van bestuur van de VDAB kan het mandaat schorsen of het mandaat intrekken als wordt vastgesteld dat :<br>
+§1.&nbsp;De raad van bestuur van de VDAB kan het mandaat, na voorstel van de VDAB, intrekken als wordt vastgesteld dat:<br>
 1° de gemandateerde onderneming de bepalingen van dit besluit niet naleeft;<br>
 2° de zaakvoerder, exploitant of verantwoordelijke van de gemandateerde onderneming of haar aangestelden of lasthebbers, het toezicht en de controle, vermeld in artikel 16 verhinderen;<br>
 3° de gemandateerde onderneming haar activiteiten stopzet;<br>
@@ -245,24 +245,36 @@ c) herhaaldelijk in overtreding gesteld op het gebied van de fiscale, sociale ve
 d) onderworpen aan een exploitatieverbod met bedrijfssluiting, of aan een beroepsverbod met bedrijfssluiting;<br>
 e) ontheven van hun burgerrechten en politieke rechten.<br>
 <br>
-§ 2. De beslissing is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van vijftien dagen, in geval van een voornemen tot schorsing van het mandaat, en een vervaltermijn van dertig dagen, in geval van een voornemen tot intrekking van het mandaat.<br>
+§2. De beslissing tot intrekking van het mandaat is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van dertig dagen. De voormelde termijn begint op de derde dag nadat het voornemen tot intrekking van het mandaat aan de gemandateerde onderneming ter kennisgeving is bezorgd met een aangetekende brief.<br>
 <br>
-De termijnen, vermeld in het eerste lid, vangen aan de dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.<br>
+§3. Bij de beslissing tot intrekking van het mandaat deelt&nbsp;de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of aan de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.<br>
 <br>
-§ 3. Bij de beslissing tot intrekking van het mandaat deelt&nbsp;de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of aan de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.<br>
+Als de gemandateerde onderneming of de zaakvoerder zelf zijn mandaat stopzet voor de raad van bestuur van de VDAB een beslissing tot intrekking heeft genomen, deelt de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.<br>
 <br>
-Als de gemandateerde onderneming of de zaakvoerder zelf zijn mandaat stopzet voor de raad van bestuur van de VDAB een beslissing tot intrekking heeft genomen, deelt de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.
+§4. In de volgende gevallen kan de VDAB beslissen om het mandaat van een gemandateerde onderneming te schorsen:<br>
+1°&nbsp;&nbsp; &nbsp;een onderzoek als gevolg van de niet-naleving van de bepalingen van dit besluit door de gemandateerde onderneming vereist dat om de belangen van de professioneel actieve persoon te vrijwaren. De schorsing loopt maximaal dertig dagen;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;er loopt een procedure tot intrekking van het mandaat. De schorsing duurt tot de raad van bestuur van de VDAB beslist heeft om het mandaat al of niet in te trekken;<br>
+3°&nbsp;&nbsp; &nbsp;er wordt vastgesteld dat de gemandateerde onderneming niet meer voldoet aan de voorwaarden, vermeld in artikel 5 of 6. In afwijking van de termijn, vermeld in punt 1°, blijft het mandaat geschorst tot de gemandateerde onderneming aantoont dat ze opnieuw aan alle voorwaarden voldoet. Als de schorsing langer dan zes maanden duurt, zet de raad van bestuur van VDAB de schorsing automatisch om in een intrekking. De raad van bestuur van de VDAB deelt mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen. De raad van bestuur van de VDAB kan aan de gemandateerde onderneming of de zaakvoerder voorwaarden opleggen om de kwaliteit van de loopbaanbegeleiding te waarborgen.<br>
+<br>
+De beslissing, vermeld in het eerste lid, heeft de volgende gevolgen:<br>
+1°&nbsp;&nbsp; &nbsp;de gemandateerde onderneming wordt verwijderd uit de zoekrobot op de VDAB-website;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de gemandateerde onderneming kan zich niet meer profileren als een loopbaancentrum dat door de VDAB gemandateerd is;<br>
+3°&nbsp;&nbsp; &nbsp;de gemandateerde onderneming kan niet meer registreren als vermeld in artikel 10;<br>
+4°&nbsp;&nbsp; &nbsp;de gemandateerde onderneming kan geen nieuwe begeleidingen starten die worden vergoed met de loopbaancheques;<br>
+5°&nbsp;&nbsp; &nbsp;lopende begeleidingen kunnen worden voortgezet na het akkoord van de VDAB. De registratie die leidt tot uitbetaling, gebeurt dan door de VDAB, na controle.<br>
+<br>
+De beslissing, vermeld in het eerste lid, is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van zeven dagen. De voormelde termijn begint op de derde dag nadat het voornemen tot schorsing van het mandaat van een gemandateerde onderneming aan de gemandateerde onderneming ter kennisgeving is bezorgd met een aangetekende brief.
 
 ### ART. 19.
 
-§ 1. Met behoud van de toepassing van artikel 18, § 1, kan de loopbaanvergoeding worden verminderd of teruggevorderd door de VDAB als :<br>
+§ 1. Met behoud van de toepassing van artikel 18 kan de loopbaanvergoeding worden verminderd of teruggevorderd door de VDAB als :<br>
 1° de gemandateerde onderneming de bepalingen van dit besluit niet naleeft;<br>
 2° de gemandateerde onderneming nog vergoedingen ontvangt nadat haar mandaat geschorst of ingetrokken is;<br>
 3° ...<br>
 <br>
 § 2. De beslissing is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van vijftien dagen, behalve als ze haar verweermiddelen al heeft kunnen voorleggen met toepassing van artikel 18.<br>
 <br>
-De termijn, vermeld in het eerste lid, vangt aan de dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.
+De termijn, vermeld in het eerste lid, begint op de derde dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.
 
 ## HOOFDSTUK 8. Evaluatie en klachtenprocedure
 
