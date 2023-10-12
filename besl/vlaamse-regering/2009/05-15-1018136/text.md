@@ -17,7 +17,7 @@ In dit besluit wordt verstaan onder :<br>
 5° permanent armoedeoverleg : het instrument om in alle beleidsdomeinen het armoedebestrijdingsbeleid op elkaar af te stemmen, te bewaken en te evalueren;<br>
 6° Vlaams Netwerk : het Vlaams Netwerk van verenigingen waar armen het woord nemen;<br>
 7° vereniging : een vereniging waar armen het woord nemen;<br>
-8° meerjarenplan : het document waarin het Vlaams Netwerk beschrijft hoe het zijn opdrachten zal uitvoeren;<br>
+8° meerjarenplan : het document waarin de organisatie beschrijft hoe het zijn opdrachten zal uitvoeren;<br>
 9° ervaringsdeskundige : een opgeleide ervaringsdeskundige in de armoede en de sociale uitsluiting;<br>
 10° project : een planmatig opgezet en samenhangend geheel van activiteiten, gericht op het realiseren van nieuwe benaderingen en oplossingen in de bestrijding van armoede en bestaansonzekerheid, en in de bevordering van sociale inclusie. Een project heeft concrete doelstellingen, is afgebakend in de tijd en wordt uitgevoerd met betrokkenheid van de armen;<br>
 11° Algemeen Verslag over de Armoede : het verslag, opgesteld in 1994 in opdracht van de minister van Sociale Integratie en in samenwerking met de doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en voorstellen inzake armoedebestrijding formuleert;<br>
@@ -40,7 +40,9 @@ f) programmatieregio Brussel omvat het tweetalige gebied Brussel-Hoofdstad;<br>
 22° Vlaamse beleidsprioriteit: een Vlaamse beleidsprioriteit als vermeld in artikel 2, 1° van het decreet van 15 juli 2011;<br>
 23° VGC: de Vlaamse Gemeenschapscommissie;<br>
 24° VGC-beleidscyclus: een beleidscyclus van vijf jaar die gekoppeld is aan de VGC-bestuursperiode en die begint het tweede jaar na de verkiezingen van het Brussels Hoofdstedelijk Parlement en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
-25° gezin: de primaire leefvormen of samenlevingsvormen, waarin verschillende personen min of meer duurzame relaties onderhouden.
+25° gezin: de primaire leefvormen of samenlevingsvormen, waarin verschillende personen min of meer duurzame relaties onderhouden;<br>
+26° ervaringskennis: de kennis van mensen op het vlak van armoede en sociale uitsluiting die, gebaseerd op ervaring, op een procesmatige manier ondersteund, verruimd en gekaderd is;&nbsp;<br>
+27° ervaringsdeskundigheid: de deskundigheid die iemand heeft als hij de vaardigheden heeft verworven om ervaringskennis professioneel in te zetten.
 
 ## HOOFDSTUK II Coördinatie en organisatie
 
@@ -98,7 +100,18 @@ Het permanent armoedeoverleg bezorgt voor de opmaak van het voortgangsrapport, v
 
 ### ART. 10.
 
-Het Vlaams Netwerk beantwoordt aan de volgende voorwaarden : <br />1° het netwerk is opgericht als een vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921; <br />2° het netwerk staat open voor alle verenigingen en andere organisaties die de doelstellingen van het netwerk onderschrijven; <br />3° in de raad van bestuur van het netwerk zijn de erkende verenigingen voor minstens de helft en hoogstens drie vierde vertegenwoordigd; <br />4° in alle bestuursorganen en -structuren van het netwerk mag niet meer dan twee derde van de leden van hetzelfde geslacht zijn; <br />5° het netwerk zorgt voor de ondersteuning van verenigingen die lid zijn van het netwerk; <br />6° het netwerk bepaalt in zijn statuten : <br />a) hoe verenigingen en organisaties kunnen toetreden tot het netwerk; <br />b) hoe verenigingen en organisaties die tot het netwerk toegetreden zijn of die gevraagd hebben om toe te treden, ondersteuning kunnen krijgen;<br />7° het netwerk heeft minstens de helft van de erkende verenigingen als lid.<br /><br />
+Het Vlaams Netwerk beantwoordt aan de volgende voorwaarden :<br>
+1° het netwerk is opgericht als een vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921;<br>
+2° het netwerk staat open voor alle verenigingen en andere organisaties die de doelstellingen van het netwerk onderschrijven;<br>
+3° in de raad van bestuur van het netwerk zijn de erkende verenigingen voor minstens de helft en hoogstens drie vierde vertegenwoordigd;<br>
+4° in alle bestuursorganen en -structuren van het netwerk mag niet meer dan twee derde van de leden van hetzelfde geslacht zijn;<br>
+5° het netwerk zorgt voor de ondersteuning van verenigingen die lid zijn van het netwerk;<br>
+6° het netwerk bepaalt in zijn statuten :<br>
+a) hoe verenigingen en organisaties kunnen toetreden tot het netwerk;<br>
+b) hoe verenigingen en organisaties die tot het netwerk toegetreden zijn of die gevraagd hebben om toe te treden, ondersteuning kunnen krijgen;<br>
+7° het netwerk heeft minstens de helft van de erkende verenigingen als lid;<br>
+8° het netwerk erkent in zijn werking het belang van het gebruik van de Nederlandse taal.&nbsp;<br>
+&nbsp;
 
 ### ART. 11.
 
@@ -106,19 +119,51 @@ Het Vlaams Netwerk beantwoordt aan de volgende voorwaarden : <br />1° het netwe
 
 ### ART. 12.
 
-Het Vlaams Netwerk dient bij de minister een meerjarenplan in voor 15 mei van het jaar dat voorafgaat aan de periode waarop dat plan slaat. Het meerjarenplan wordt minstens afgestemd op de meerjarenplannen van de organisaties voor samenlevingsopbouw en de centra voor algemeen welzijnswerk.<br /><br />De minister beslist voor 1 oktober van hetzelfde jaar over de goedkeuring van het ingediende meerjarenplan.<br /><br />
+Het Vlaams Netwerk dient bij de administratie een meerjarenplan in voor 15 mei van het jaar dat voorafgaat aan de periode waarop dat plan slaat. Het meerjarenplan wordt minstens afgestemd op de meerjarenplannen van de organisaties voor samenlevingsopbouw en op de meerjarenplannen van de opleidingsorganisatie en van de vormingsorganisaties die in het kader van dit decreet zijn erkend.<br>
+<br>
+De administratie&nbsp;beslist voor 1 oktober van hetzelfde jaar over de goedkeuring van het ingediende meerjarenplan.<br>
+&nbsp;
 
 ### ART. 13.
 
-Het meerjarenplan bevat minstens : <br />1° een omgevingsanalyse;<br />2° de opgave van de partners in het participatieproces; <br />3° het ondersteuningsaanbod voor de verenigingen; <br />4° de beschrijving van de strategische doelstellingen in relatie tot de opdrachten van de verenigingen, vermeld in artikel 8, tweede lid, van het decreet, en de basisrechten, opgesomd in artikel 2, § 1, van dit besluit; <br />5° de beoogde resultaten; <br />6° de ontwikkeling ten opzichte van het vorige meerjarenplan;<br />7° het tijdstip en de wijze waarop de resultaten geëvalueerd zullen worden; <br />8° de opgave van de interne organisatiestructuur; <br />9° de personeelsformatie en de toepasselijke salarisschalen; <br />10° een overzicht van de externe samenwerkingsverbanden; <br />11° de begroting voor de volledige periode van het meerjarenplan; <br />12° de ledenlijst;<br />13° voor het eerste werkjaar : een jaarplan waarvan de inhoud beantwoordt aan artikel 15, eerste lid van dit besluit.<br /><br />
+Het meerjarenplan bevat minstens :<br>
+1° een omgevingsanalyse;<br>
+2° de opgave van de partners in het participatieproces;<br>
+3° het ondersteuningsaanbod voor de verenigingen;<br>
+4° de beschrijving van de strategische doelstellingen in relatie tot de opdrachten van de verenigingen, vermeld in artikel 8, tweede lid, van het decreet, en de basisrechten, opgesomd in artikel 2, § 1, van dit besluit;<br>
+5° de beoogde resultaten;<br>
+5/1° de criteria die worden gehanteerd om de resultaten te beoordelen;<br>
+6° de ontwikkeling ten opzichte van het vorige meerjarenplan;<br>
+7° het tijdstip en de wijze waarop de resultaten geëvalueerd zullen worden;<br>
+8° de opgave van de interne organisatiestructuur;<br>
+9° de personeelsformatie en de toepasselijke salarisschalen;<br>
+10° een overzicht van de externe samenwerkingsverbanden;<br>
+11° de begroting voor de volledige periode van het meerjarenplan;<br>
+12° de ledenlijst;<br>
+13° voor het eerste werkjaar : een jaarplan waarvan de inhoud beantwoordt aan artikel 15, eerste lid van dit besluit.<br>
+&nbsp;
 
 ### ART. 14.
 
-De Vlaamse Regering sluit uiterlijk drie maanden na de goedkeuring van het meerjarenplan een overeenkomst met het Vlaams Netwerk. Met behoud van de toepassing van artikel 11, tweede lid, van het decreet omvat die overeenkomst de volgende elementen : <br />1° het door de minister goedgekeurde meerjarenplan; <br />2° de wijze waarop het Vlaams Netwerk de middelen die de Vlaamse Regering ter beschikking stelt, zal inzetten om het meerjarenplan te realiseren;<br />3° de wijze waarop de voortgang van de realisatie van de strategische en operationele doelstellingen wordt gemeten; <br />4° het geraamde subsidiebedrag voor de volledige periode van het meerjarenplan, de subsidie-enveloppe voor het eerste werkjaar op basis van het jaarplan, vermeld in artikel 13, 13° van dit besluit, en de wijze waarop de subsidie-enveloppe voor de volgende werkjaren wordt toegekend met toepassing van artikelen 15 en 16 van dit besluit; <br />5° de wijze waarop het Vlaams Netwerk verantwoording aflegt over de uitvoering van de overeenkomst en de aanwending van de subsidie-enveloppe, alsook de wijze waarop toezicht op de realisatie van de overeenkomst uitgeoefend wordt, met behoud van de toepassing van artikelen 17 tot en met 19 van dit besluit; <br />6° de sancties bij niet-naleving van de overeenkomst.<br /><br />
+De secretaris-generaal sluit uiterlijk drie maanden na de goedkeuring van het meerjarenplan een overeenkomst met het Vlaams Netwerk. Met behoud van de toepassing van artikel 11, tweede lid, van het decreet omvat die overeenkomst de volgende elementen :<br>
+1° het door de minister goedgekeurde meerjarenplan;<br>
+2° de wijze waarop het Vlaams Netwerk de middelen die de Vlaamse Regering ter beschikking stelt, zal inzetten om het meerjarenplan te realiseren;<br>
+3° de wijze waarop de voortgang van de realisatie van de strategische en operationele doelstellingen wordt gemeten;<br>
+4° het geraamde subsidiebedrag voor de volledige periode van het meerjarenplan, de subsidie-enveloppe voor het eerste werkjaar op basis van het jaarplan, vermeld in artikel 13, 13° van dit besluit, en de wijze waarop de subsidie-enveloppe voor de volgende werkjaren wordt toegekend met toepassing van artikelen 15 en 16 van dit besluit;<br>
+5° de wijze waarop het Vlaams Netwerk verantwoording aflegt over de uitvoering van de overeenkomst en de aanwending van de subsidie-enveloppe, alsook de wijze waarop toezicht op de realisatie van de overeenkomst uitgeoefend wordt, met behoud van de toepassing van artikelen 17 tot en met 19 van dit besluit;<br>
+6° de sancties bij niet-naleving van de overeenkomst.<br>
+&nbsp;
 
 ### ART. 15.
 
-Op basis van het goedgekeurde meerjarenplan dient het Vlaams Netwerk bij de secretaris-generaal jaarlijks voor 1 november een jaarplan in voor het volgende werkjaar, het eerste werkjaar uitgezonderd. Dat jaarplan bevat de volgende elementen : <br />1° de operationele doelstellingen; <br />2° de concrete activiteiten voor de realisatie van de opdrachten van het Vlaams Netwerk; <br />3° de concrete begroting voor de uitvoering van het jaarplan.<br /><br />De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het jaarplan over de goedkeuring van dat plan.<br /><br />
+Op basis van het goedgekeurde meerjarenplan dient het Vlaams Netwerk bij de secretaris-generaal jaarlijks voor 1 november een jaarplan in voor het volgende werkjaar, het eerste werkjaar uitgezonderd. Dat jaarplan bevat de volgende elementen :<br>
+1° de operationele doelstellingen;<br>
+2° de concrete activiteiten voor de realisatie van de opdrachten van het Vlaams Netwerk;<br>
+2/1° de criteria die gehanteerd worden om de resultaten te beoordelen;<br>
+3° de concrete begroting voor de uitvoering van het jaarplan.<br>
+<br>
+De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het jaarplan over de goedkeuring van dat plan.<br>
+&nbsp;
 
 ### ART. 16.
 
@@ -135,15 +180,45 @@ Het Vlaams Netwerk stelt een lid van het Instituut van de Bedrijfsrevisoren aan 
 
 ### ART. 19.
 
-De stavingsstukken moeten uiterlijk op 1 mei van het jaar dat volgt op het werkjaar waarvoor de subsidie-enveloppe werd verleend, bij de administratie ingediend worden overeenkomstig het besluit van 13 januari 2006.<br /><br />Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag wordt 5 % van de toegekende subsidie-enveloppe niet uitbetaald.<br /><br />
+Het Vlaams Netwerk verantwoordt de aanwending van de subsidie-enveloppe tijdens een kalenderjaar in een inhoudelijk en een financieel verslag, dat het vóór 1 mei van het volgende kalenderjaar bij de administratie indient.&nbsp;<br>
+<br>
+Het inhoudelijke verslag, vermeld in het eerste lid, heeft de vorm van een opvolgingsrapport. In het voormelde opvolgingsrapport wordt onder meer aan de hand van de elementen, vermeld in het jaarplan, vermeld in artikel 15, beschreven op welke wijze de doelstellingen en activiteiten uit het voormelde jaarplan zijn gerealiseerd.<br>
+<br>
+Het financiële verslag, vermeld in het eerste lid, bevat alle documenten, vermeld in artikel 13 van het besluit van 13 januari 2006.&nbsp;<br>
+<br>
+Als het financiële verslag of het inhoudelijke verslag, vermeld in het eerste tot en met het derde lid, niet op tijd is ingediend, kan 5% van de toegekende subsidie-enveloppe worden ingehouden.
 
 ### ART. 20.
 
-Het Vlaams Netwerk wendt de subsidie-enveloppe aan voor : <br />1° huisvestingskosten; <br />2° personeelskosten; <br />3° werkingskosten; <br />4° overeenkomsten met derden.<br /><br />Ten minste 70 % van de jaarlijkse subsidie-enveloppe wordt aangewend voor personeelskosten. Als minder dan 70 % van de subsidie-enveloppe aan personeelskosten wordt besteed, wordt de enveloppe voor het jaar in kwestie verminderd in evenredigheid tot het deel dat niet aan personeelskosten werd besteed.<br /><br />
+Het Vlaams Netwerk wendt de subsidie-enveloppe aan voor :<br>
+1° huisvestingskosten;<br>
+2° personeelskosten;<br>
+3° werkingskosten;<br>
+4° overeenkomsten met derden.<br>
+<br>
+Ten minste 70 % van de jaarlijkse subsidie-enveloppe wordt aangewend voor personeelskosten. Als minder dan 70 % van de subsidie-enveloppe aan personeelskosten wordt besteed, wordt de enveloppe voor het jaar in kwestie verminderd in evenredigheid tot het deel dat niet aan personeelskosten werd besteed.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+&nbsp;
+
+### ART 20/1.
+
+De subsidie wordt uitbetaald in de volgende twee schijven van 50%:<br>
+1° een eerste schijf wordt uitbetaald in de loop van de maand februari van het jaar waarop de subsidie betrekking heeft;<br>
+2° een tweede schijf wordt uitbetaald in de loop van de maand juli van het jaar waarop de subsidie betrekking heeft.&nbsp;
+
+### ART 20/2.
+
+Het Vlaams Netwerk kan de resultaten van de gesubsidieerde activiteiten openbaar maken.
 
 ### ART. 21.
 
-Als het Vlaams Netwerk de subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 20, eerste lid, te dekken, legt het reserves aan met het niet aangewende gedeelte. Het Vlaams Netwerk wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van zijn taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br /><br />Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe, stort het Vlaams Netwerk ten belope van de som die de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br /><br />
+Als het Vlaams Netwerk de subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 20, eerste lid, te dekken, legt het reserves aan met het niet aangewende gedeelte tot maximaal 20% van de subsidie-enveloppe, met uitzondering van het sociaal passief. Het Vlaams Netwerk wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van zijn taken.<br>
+<br>
+Reserves die op het ogenblik van het afsluiten van het boekjaar, met uitzondering van het sociaal passief,&nbsp;meer bedragen dan de jaarlijkse subsidie-enveloppe, stort het Vlaams Netwerk ten belope van de som die de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.<br>
+&nbsp;
 
 ### ART. 22.
 
@@ -172,7 +247,9 @@ c) op jaarbasis minimaal drie informatie- of vormingsactiviteiten over armoede o
 d) op jaarbasis rond minimaal één beleidsthema werken met toepassing van de zes criteria, vermeld in artikel 8, eerste lid, 4°, van het decreet van 21 maart 2003, en daarover in dialoog gaan met de samenleving door er minimaal twee actoren bij te betrekken, waarvan minstens één actor een bijdrage kan leveren aan een oplossing voor de ervaren problemen;<br>
 e) in de vereniging een kwaliteitsbeleid uitwerken rond het werken overeenkomstig de zes criteria, vermeld in artikel 8, eerste lid, 4°, van het decreet van 21 maart 2003;<br>
 3° ze minstens bereid is om samen te werken met andere verenigingen, met de centra voor algemeen welzijnswerk en met de instituten voor maatschappelijk opbouwwerk;<br>
-4° er voldoende begrotingskredieten beschikbaar zijn.<br>
+4° er voldoende begrotingskredieten beschikbaar zijn;<br>
+5° ze in haar werking het belang van het gebruik van de Nederlandse taal erkent;<br>
+6° ze het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers toepast, behalve voor de medewerkers die aangesteld zijn conform de wet van 3 juli 2005 betreffende de rechten van vrijwilligers bij activiteiten voor of door de jeugd van drie tot en met dertig jaar, in de vrije tijd en om de algemene en integrale ontwikkeling te bevorderen van de jeugd die eraan deelneemt op vrijwillige basis.<br>
 <br>
 De minister kan de wijze waarop en de mate waarin een vereniging haar werking aantoont conform het eerste lid, 2°, nader bepalen.<br>
 <br>
@@ -217,7 +294,10 @@ Als een vereniging niet meer voldoet aan één of meer erkenningsvoorwaarden, ve
 
 ### ART. 30.
 
-Om de opdrachten vermeld in artikel 8, tweede lid, van het decreet van 21 maart 2003, te vervullen, ontvangen erkende verenigingen, binnen de beschikbare begrotingskredieten, een jaarlijkse subsidie voor hun personeels-, werkings- en huisvestingskosten.<br /><br />
+Om de opdrachten vermeld in artikel 8, tweede lid, van het decreet van 21 maart 2003, te vervullen, ontvangen erkende verenigingen, binnen de beschikbare begrotingskredieten, een jaarlijkse subsidie voor hun personeels-, werkings- en huisvestingskosten.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+&nbsp;
 
 ### ART. 31.
 
@@ -247,13 +327,27 @@ De secretaris-generaal kent aan de erkende verenigingen de subsidie toe binnen d
 <br>
 § 3. De subsidie wordt uitbetaald in twee schijven van 50 %. Een eerste schijf wordt uitbetaald in de loop van de maand februari van het jaar waarop de subsidie betrekking heeft, de tweede schijf wordt uitbetaald in de loop van de maand juli van dat jaar.
 
+### ART 34/1.
+
+§1. Jaarlijks kent de secretaris-generaal, naast de subsidie bepaald in artikel 34 §1, binnen de beschikbare begrotingskredieten en na goedkeuring van een activiteitenplanning en jaarbegroting, aan vzw De Keeting, een extra bedrag van 96.128,61 euro op 1 januari 2023 toe voor werkings- en personeelskosten. Artikel 34 §3, artikel 35 en artikel 35/1 zijn van toepassing op deze subsidie.<br>
+<br>
+§2. VZW De Keeting dient de stavingsstukken uiterlijk op 1 mei van het jaar dat volgt op het werkjaar waarvoor de subsidie werd verleend, bij de administratie in overeenkomstig het besluit van 13 januari 2006.<br>
+<br>
+Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag wordt 5 % van de toegekende subsidie-enveloppe niet uitbetaald.
+
 ### ART. 35.
 
 <P>De subsidie aan de verenigingen wordt geïndexeerd op de wijze, vermeld in   artikel 22.</P>  <P>Binnen de perken van de begrotingskredieten wordt de subsidie&nbsp; aangepast   met toepassing van de Vlaamse Intersectorale Akkoorden voor de   Socialprofitsector, ook voor de personeelsleden met een gesco- en   sociale-maribelstatuut.<BR><BR></P>
 
 ### ART. 35/1.
 
-Als de vereniging de subsidie in het jaar waarvoor die wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 30, te dekken, legt ze reserves aan met het niet-aangewende gedeelte. De vereniging wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen. <br /><br />Van reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie, stort de vereniging de som die de jaarlijkse subsidie overschrijdt, terug aan de Vlaamse overheid.<br /><br />Wanneer de activiteit waarvoor een reserve werd aangelegd niet verder gesubsidieerd wordt, dient het gecumuleerde bedrag aan reserves opgebouwd met middelen van de Vlaamse overheid, aan de Vlaamse overheid teruggestort te worden.
+Als de vereniging de subsidie in het jaar waarvoor die wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 30, te dekken, legt ze reserves aan met het niet-aangewende gedeelte, met uitzondering van het sociaal passief. De vereniging wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br>
+<br>
+Van reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie, met uitzondering van het sociaal passief stort de vereniging de som die de jaarlijkse subsidie overschrijdt, terug aan de Vlaamse overheid.<br>
+<br>
+Wanneer de activiteit waarvoor een reserve werd aangelegd niet verder gesubsidieerd wordt, dient het gecumuleerde bedrag aan reserves opgebouwd met middelen van de Vlaamse overheid, aan de Vlaamse overheid teruggestort te worden.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.
 
 ### ART. 36.
 
@@ -277,7 +371,19 @@ Elke Vlaamse minister neemt binnen zijn beleidsdomein initiatieven met betrekkin
 
 ### ART. 39.
 
-Een organisatie kan erkend worden als opleidingsorganisatie als ze voldoet aan de volgende voorwaarden : <br />1° ze is opgericht als een vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921; <br />2° in haar bestuursorganen en -structuren is een voldoende mix van deskundigheid en ervaring aanwezig; <br />3° ze is actief op het grondgebied van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad; <br />4° ze voert de opdrachten uit als vermeld in artikel 40; <br />5° ze beschikt over een personeelsformatie als vermeld in artikel 41. <br /><br />De minister kan de voorwaarde, vermeld in het eerste lid, 3°, nader regelen. <br /><br />
+Een organisatie kan erkend worden als opleidingsorganisatie als ze voldoet aan de volgende voorwaarden :<br>
+1° ze is opgericht als een vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921;<br>
+2° in haar bestuursorganen en -structuren is een voldoende mix van deskundigheid en ervaring aanwezig;<br>
+3° ze is actief op het grondgebied van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
+4° ze voert de opdrachten uit als vermeld in artikel 40;<br>
+5° ze beschikt over een personeelsformatie als vermeld in artikel 41;<br>
+6° in de raad van bestuur van de organisatie is minstens één ervaringsdeskundige in armoede en sociale uitsluiting vertegenwoordigd;<br>
+7° in alle bestuursorganen en -structuren van de organisatie is niet meer dan twee derde van de leden van hetzelfde geslacht;<br>
+8° ze in haar werking het belang van het gebruik van de Nederlandse taal erkent.<br>
+<br>
+<br>
+De minister kan de voorwaarde, vermeld in het eerste lid, 3°, nader regelen.<br>
+&nbsp;
 
 ### ART. 40.
 
@@ -301,7 +407,7 @@ De administratie onderzoekt de ontvankelijke aanvraag en kan een controle ter pl
 
 ### ART. 45.
 
-Er kunnen maximaal twee opleidingsorganisaties erkend worden.<br /><br />
+Er kan maximaal één opleidingsorganisatie erkend worden.
 
 ### ART. 46.
 
@@ -311,23 +417,71 @@ Als een erkende opleidingsorganisatie niet meer voldoet aan één of meer erkenn
 
 ### ART. 47.
 
-Jaarlijks kan de secretaris-generaal, binnen de beschikbare begrotingskredieten en na goedkeuring van de activiteitenplanning, vermeld in artikel 48, 1°, aan een erkende opleidingsorganisatie een subsidie-enveloppe toekennen voor infrastructuur-, werkings- en personeelskosten.<br /><br />
+De erkende opleidingsorganisatie ontvangt, binnen de beschikbare begrotingskredieten, een jaarlijkse subsidie als ze voldoet aan de bepalingen van deze afdeling. De jaarlijkse subsidie bedraagt 477.137,30 euro op 1 januari 2023.
 
 ### ART. 48.
 
-Om in aanmerking te komen voor de subsidie vermeld in artikel 47, moet een opleidingsorganisatie, uiterlijk op 1 november van het jaar dat voorafgaat aan het jaar waarop de subsidie betrekking heeft, bij de administratie een subsidieaanvraag indienen. Die aanvraag bevat minstens : <br />1° een activiteitenplanning met duidelijke opgave van de wijze waarop de opdrachten uitgevoerd worden; <br />2° de jaarbegroting voor de uitvoering van die activiteiten, opgemaakt overeenkomstig het besluit van 13 januari 2006.<br /><br />
+De opleidingsorganisatie die bij de administratie een meerjarenplan indient voor 15 mei van het jaar dat voorafgaat aan de periode waarop dat plan betrekking heeft, komt in aanmerking voor de subsidie, vermeld in artikel 47. Het voormelde meerjarenplan wordt opgemaakt voor een periode van vijf jaar. Het voormelde meerjarenplan wordt minstens afgestemd op de meerjarenplannen van de organisaties voor samenlevingsopbouw, het Vlaams Netwerk van verenigingen waar armen het woord nemen en de vormingsorganisaties die in het kader van dit decreet zijn erkend.&nbsp;<br>
+<br>
+De secretaris-generaal beslist voor 1 oktober van hetzelfde jaar over de goedkeuring van het ingediende meerjarenplan, vermeld in het eerste lid.
+
+### ART 48/1.
+
+§1. Het meerjarenplan, vermeld in artikel 48, bevat al de volgende elementen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een omgevingsanalyse;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de beschrijving van de strategische doelstellingen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de beoogde resultaten;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de criteria die worden gehanteerd om de resultaten te beoordelen;<br>
+5°&nbsp;&nbsp; &nbsp;de ontwikkeling ten opzichte van het vorige meerjarenplan;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;het tijdstip en de wijze waarop de resultaten geëvalueerd worden;<br>
+7°&nbsp;&nbsp; &nbsp;de opgave van de interne organisatiestructuur;<br>
+8°&nbsp;&nbsp; &nbsp;de personeelsformatie en de toepasselijke salarisschalen;<br>
+9°&nbsp;&nbsp; &nbsp;een overzicht van de externe samenwerkingsverbanden;<br>
+10°&nbsp;&nbsp; &nbsp;de begroting voor de volledige periode van het meerjarenplan;<br>
+11°&nbsp;&nbsp; &nbsp;voor het eerste werkjaar: een jaarplan waarvan de inhoud beantwoordt aan artikel 48/1, §2.<br>
+<br>
+§2. Op basis van het meerjarenplan, vermeld in artikel 48, dat is goedgekeurd, dient de opleidingsorganisatie bij de secretaris-generaal jaarlijks voor 1 november een jaarplan in voor het volgende werkjaar, het eerste werkjaar uitgezonderd. Het voormelde jaarplan bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de operationele doelstellingen;<br>
+2°&nbsp;&nbsp; &nbsp;de concrete activiteiten om de opdrachten van de erkende opleidingsorganisatie te realiseren;<br>
+3°&nbsp;&nbsp; &nbsp;de criteria die worden gehanteerd om de resultaten te beoordelen;<br>
+4°&nbsp;&nbsp; &nbsp;de concrete begroting voor de uitvoering van het jaarplan.<br>
+<br>
+De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het jaarplan, vermeld in het eerste lid, over de goedkeuring van dat jaarplan.<br>
+&nbsp;
 
 ### ART. 49.
 
-De stavingsstukken moeten uiterlijk op 1 mei van het jaar dat volgt op het werkjaar waarvoor de subsidie-enveloppe werd verleend, bij de administratie ingediend worden overeenkomstig het besluit van 13 januari 2006.<br /><br />Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag wordt 5 % van de toegekende subsidie-enveloppe niet uitbetaald.<br /><br />
+De opleidingsorganisatie verantwoordt de aanwending van de subsidie-enveloppe tijdens een kalenderjaar in een inhoudelijk en een financieel verslag, dat ze vóór 1 mei van het volgende kalenderjaar bij de administratie indient.&nbsp;<br>
+<br>
+Het inhoudelijke verslag, vermeld in het eerste lid, heeft de vorm van een opvolgingsrapport. In het voormelde opvolgingsrapport wordt onder meer aan de hand van de elementen, vermeld in het jaarplan, vermeld in artikel 48/1, §2, op beschreven welke wijze de doelstellingen en activiteiten uit het voormelde jaarplan zijn gerealiseerd.<br>
+<br>
+Het financiële verslag, vermeld in eerste lid, bevat alle documenten, vermeld in artikel 13 van het besluit van 13 januari 2006.&nbsp;<br>
+<br>
+Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag, vermeld in het eerste tot en met het derde lid, kan 5% van de toegekende subsidie-enveloppe worden ingehouden.&nbsp;<br>
+<br>
+De opleidingsorganisatie kan de resultaten van de gesubsidieerde activiteiten openbaar maken.
 
 ### ART. 50.
 
-Ten minste 75 % van de jaarlijkse subsidie-enveloppe wordt aangewend voor personeelskosten. Als minder dan 75 % van de subsidie-enveloppe aan personeelskosten wordt besteed, wordt de enveloppe voor het jaar in kwestie verminderd in evenredigheid tot het deel dat niet aan personeelskosten werd besteed.<br /><br />
+De opleidingsorganisatie wendt de subsidie-enveloppe aan voor al de volgende aspecten:<br>
+1°&nbsp;&nbsp; &nbsp;huisvestingskosten;<br>
+2°&nbsp;&nbsp; &nbsp;personeelskosten;<br>
+3°&nbsp;&nbsp; &nbsp;werkingskosten;<br>
+4°&nbsp;&nbsp; &nbsp;overeenkomsten met derden.<br>
+<br>
+Ten minste 75 % van de jaarlijkse subsidie-enveloppe wordt aangewend voor personeelskosten. Als minder dan 75 % van de subsidie-enveloppe aan personeelskosten wordt besteed, wordt de enveloppe voor het jaar in kwestie verminderd in evenredigheid tot het deel dat niet aan personeelskosten werd besteed.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+&nbsp;
 
 ### ART. 51.
 
-Als de opleidingsorganisatie de subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 47, te dekken, legt het reserves aan met het niet aangewende gedeelte. De opleidingsorganisatie wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br /><br />Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe, stort de opleidingsorganisatie ten belope van de som die de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br /><br />
+Als de opleidingsorganisatie de subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 47, te dekken, legt het reserves aan met het niet aangewende gedeelte, met uitzondering van het sociaal passief. De opleidingsorganisatie wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br>
+<br>
+Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe , met uitzondering van het sociaal passief, stort de opleidingsorganisatie ten belope van de som die de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.<br>
+&nbsp;
 
 ### ART. 52.
 
@@ -359,27 +513,58 @@ De minister regelt de procedure van aanvraag en beoordeling. Hij bepaalt de rege
 
 ### ART. 57/1.
 
-Om voor subsidiëring in aanmerking te komen, ontwikkelen en implementeren   de lokale besturen, als onderdeel van hun lokaal sociaal beleid, een integraal   lokaal kinderarmoedebestrijdingsbeleid in afstemming met de Vlaamse   beleidsprioriteit kinderarmoedebestrijding en met als doel de structurele   terugdringing van kinderarmoede in Vlaanderen en de volledige ontplooiing van   elk kind.
+De Vlaamse Gemeenschapscommissie komt in aanmerking voor een subsidie als vermeld in artikel 57/3, als ze als onderdeel van haar lokaal sociaal beleid een integraal lokaal kinderarmoedebestrijdingsbeleid ontwikkelt en implementeert met de volgende doelstellingen:<br>
+1°&nbsp;&nbsp; &nbsp;de kinderarmoede in het tweetalige gebied Brussel-Hoofdstad structureel terugdringen;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de volledige ontplooiing van elk kind.<br>
+<br>
+Het integraal lokaal kinderarmoedebestrijdingsbeleid, vermeld in het eerste lid, omvat de ontwikkeling en implementatie van geïntegreerde, duurzame en proactieve strategieën en acties om kinderarmoede te bestrijden, met een focus op kinderen tot en met drie jaar en hun gezin, op basis van de volgende drie beleidsprioriteiten:<br>
+1°&nbsp;&nbsp; &nbsp;toegang tot adequate middelen;<br>
+2°&nbsp;&nbsp; &nbsp;toegang tot betaalbare hoogwaardige diensten;<br>
+3°&nbsp;&nbsp; &nbsp;het recht van kinderen en gezinnen om te participeren.<br>
+<br>
+De coördinerende minister kan uiterlijk op 15 januari van het kalenderjaar dat volgt op het jaar waarin de Nederlandse taalgroep van het Brussels Hoofdstedelijk Parlement, vermeld in artikel 60, tweede lid, van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse Instellingen, voor het eerst in zijn nieuwe samenstelling bijeenkomt, naast de beleidsprioriteiten, vermeld in het tweede lid, bijkomende beleidsprioriteiten bepalen.<br>
+<br>
+De Vlaamse Gemeenschapscommissie neemt een regierol voor de lokale kinderarmoedebestrijding vanuit een lokaal netwerk. Ze wijst daarvoor een lokaal aanspreekpunt aan. De acties worden ontwikkeld, geïmplementeerd en geëvalueerd in coproductie met de relevante lokale actoren, in het bijzonder met volwaardige participatie van de kinderen en de gezinnen en de actoren die op basis van het decreet van 21 maart 2003 erkend en ondersteund worden.&nbsp;
 
 ### ART. 57/2.
 
-...
+De Vlaamse Gemeenschapscommissie geeft uitwerking aan de beleidsprioriteiten, vermeld in artikel 57/1, tweede en derde lid, van dit besluit, in haar meerjarenplan, vermeld in artikel 7 tot en met 13 van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie. De Vlaamse Gemeenschapscommissie licht de voormelde uitwerking vooraf toe in een overleg met de administratie.
 
 ### ART. 57/3.
 
-De subsidies die met toepassing van hoofdstuk V/1 worden uitgekeerd, mogen   niet aangewend worden voor investeringen.<BR>
+De Vlaamse Gemeenschapscommissie ontvangt, binnen de grenzen van de kredieten die daarvoor op de begroting van de Vlaamse Gemeenschap worden ingeschreven, jaarlijks 220.500 euro als ze de beleidsprioriteiten, vermeld in artikel 57/1, tweede en derde lid, opneemt in haar meerjarenplan.<br>
+<br>
+De Vlaamse Gemeenschapscommissie kan de subsidie-enveloppe aanwenden voor al de volgende aspecten:<br>
+1°&nbsp;&nbsp; &nbsp;personeelskosten;<br>
+2°&nbsp;&nbsp; &nbsp;werkingskosten;<br>
+3°&nbsp;&nbsp; &nbsp;overeenkomsten met derden.<br>
+<br>
+De subsidie wordt niet aangewend voor investeringen.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.
 
 ### ART. 57/4.
 
-De Vlaamse beleidsprioriteit kinderarmoedebestrijding omvat de   ontwikkeling en implementatie van geïntegreerde, duurzame en proactieve   strategieën en acties ter bestrijding van kinderarmoede, met een focus op   kinderen tot en met drie jaar en hun gezin, op basis van de volgende drie   pijlers:<BR>1° toegang tot adequate middelen;<BR>2° toegang tot betaalbare   hoogwaardige diensten;<BR>3° het recht van kinderen en gezinnen om te   participeren.<BR><BR>Overeenkomstig artikel 18/1, tweede lid, van het decreet   van 21 maart 2003 worden de acties, vermeld in het eerste lid, in afstemming met   het Vlaamse beleid, toegevoegd aan het reguliere beleid in de sectoren die   relevant zijn voor kinderarmoedebestrijding.<BR><BR>Het lokale bestuur neemt een   regierol op met betrekking tot de lokale kinderarmoedebestrijding vanuit een   lokaal netwerk. Het wijst daarvoor een lokaal aanspreekpunt aan. De acties   worden ontwikkeld, geïmplementeerd en geëvalueerd in coproductie met de   relevante lokale actoren, in het bijzonder met volwaardige participatie van de   kinderen en gezinnen en de actoren die door het decreet erkend en ondersteund   worden.
+Het subsidiebedrag dat toegekend is voor een bepaald jaar, wordt uitgekeerd in twee gelijke delen, uiterlijk op 30 juni en 30 november van elk jaar.
 
 ### ART. 57/5.
 
-Binnen de beschikbare begrotingskredieten wordt jaarlijks een subsidie van 220.500 euro toegekend aan de VGC voor het ontwikkelen en implementeren van een kinderarmoedebestrijdingsbeleid.
+In al de volgende gevallen dient de secretaris-generaal uiterlijk drie maanden nadat hij de rapportering, vermeld in het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie, heeft ontvangen, met een aangetekende brief bezwaar in bij de Vlaamse Gemeenschapscommissie:<br>
+1°&nbsp;&nbsp; &nbsp;als de Vlaamse Gemeenschapscommissie niet voldoet aan de rapporteringsverplichtingen, vermeld in het voormelde besluit;<br>
+2°&nbsp;&nbsp; &nbsp;als de rapportering, vermeld in het voormelde besluit, onduidelijk is;<br>
+3°&nbsp;&nbsp; &nbsp;als de Vlaamse Gemeenschapscommissie onvoldoende aantoont dat ze de vooropgestelde doelstellingen heeft nagestreefd.&nbsp;<br>
+<br>
+De Vlaamse Gemeenschapscommissie bezorgt, binnen twee maanden nadat ze het bezwaar, vermeld in het eerste lid, heeft ontvangen, aan de secretaris-generaal een aangepaste rapportering of een motiverende nota waarom bepaalde engagementen niet zijn nagekomen. De secretaris-generaal bezorgt daaropvolgend zijn beslissing aan de Vlaamse Gemeenschapscommissie binnen twee maanden nadat hij de aangepaste rapportering of de motiverende nota heeft ontvangen.<br>
+<br>
+Als uit de aangepaste rapportering of uit de motiverende nota blijkt dat de subsidie niet aangewend is voor het doel waarvoor ze is verleend, keert de administratie verdere toegezegde subsidies niet uit.
 
 ### ART. 57/6
 
-§ 1. De kinderarmoedebarometer van een gemeente wordt bepaald op basis van   de volgende zeven indicatoren:<BR>1° het aantal personen met voorkeursregeling   in de ziekteverzekering van nul tot en met vier jaar ten opzichte van het totaal   aantal inwoners van nul tot en met vier jaar;<BR>2° het aantal eenoudergezinnen   met kinderen van nul tot en met drie jaar ten opzichte van het totaal aantal   huishoudens met kinderen van nul tot en met drie jaar;<BR>3° de   kansarmoede-index van Kind en Gezin;<BR>4° de onderwijs kansarmoede-indicator   voor het kleuteronderwijs;<BR>5° het aantal begunstigden van het leefloon   (categorie gezinslast), samengeteld met het aantal begunstigden van   equivalent-leefloon (categorie gezinslast), ten opzichte van het aantal   huishoudens met kinderen van nul tot en met zeventien jaar;<BR>6° het aantal   huishoudens met kinderen van nul tot en met twee jaar waarbij de   referentiepersoon in het huishouden en, indien aanwezig, zijn partner niet   werken, ten opzichte van het totale aantal huishoudens met kinderen van nul tot   en met twee jaar;<BR>7° het aantal huishoudens met kinderen van nul tot en met   drie jaar waarbij een of beide ouders niet de EU-nationaliteit bezitten, ten   opzichte van het totaal aantal huishoudens met kinderen van nul tot en met drie   jaar.<BR><BR>De bijlage, die bij dit besluit is gevoegd, omvat een omschrijving   van elke indicator met vermelding van de bron en de referentieperiode.<BR><BR>§   2. Gemeenten die voor een indicator een score halen boven het 75e percentiel,   krijgen een risicoscore 1 op de indicator in kwestie. De andere gemeenten   krijgen een risicoscore 0 op de indicator in kwestie. De som van de risicoscores   voor alle indicatoren vormt de kinderarmoedebarometer van een gemeente.<BR><BR>§   3. Om in aanmerking te komen voor een subsidie voor lokale   kinderarmoedebestrijding moet de kinderarmoedebarometer vier of meer   bedragen.<BR><BR>§ 4. De coördinerende minister maakt uiterlijk op 30 oktober   van het jaar waarin de lokale verkiezingen plaatsvinden, een lijst bekend met de   kinderarmoedebarometer van elke gemeente en de gemeenten die in aanmerking komen   voor subsidiëring, waarbij wordt gebruik gemaakt van de meest recente   cijferreeksen waarover de Studiedienst van de Vlaamse Regering   beschikt.
+Als de Vlaamse Gemeenschapscommissie de subsidie, vermeld in artikel 57/3, eerste lid, in het jaar waarvoor de subsidie wordt toegekend, niet volledig aanwendt voor de kosten, vermeld in artikel 57/3, tweede lid, legt ze reserves aan met het niet-aangewende gedeelte, tot maximaal 20% van de voormelde subsidie-enveloppe, met uitzondering van het sociaal passief. De Vlaamse Gemeenschapscommissie wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.&nbsp;<br>
+<br>
+Van reserves die op het ogenblik dat het boekjaar wordt afgesloten meer bedragen dan de jaarlijkse subsidie, met uitzondering van het sociaal passief, stort de Vlaamse Gemeenschapscommissie het bedrag dat de jaarlijkse subsidie overschrijdt, terug aan de Vlaamse overheid.&nbsp;<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.
 
 ## [HOOFDSTUK V/2 Vormingsorganisaties over armoede (ing. BVR 30 juni 2023, art. 27)]
 
@@ -387,53 +572,129 @@ Binnen de beschikbare begrotingskredieten wordt jaarlijks een subsidie van 220.5
 
 ### ART. 57/7.
 
-§ 1. Het bedrag van de subsidie voor lokale kinderarmoedebestrijding per   gemeente opgenomen in de lijst vermeld in artikel 57/6, § 4, wordt als volgt   berekend:<BR>1° per gemeente wordt in een minimum subsidie voorzien van 25.000   euro;<BR>2° de resterende middelen worden verdeeld overeenkomstig het aantal   kinderen van nul tot en met drie in de gemeente en worden gecorrigeerd als   volgt:<BR>a) het aantal kinderen tot en met 500 krijgt een gewicht van 0;<BR>b)   het aantal kinderen tussen 501 en 2500 krijgt een gewicht van 1;<BR>c) het   aantal kinderen tussen 2501 en 5000 krijgt een gewicht van 0,75;<BR>d) het   aantal kinderen boven 5000 krijgt een gewicht van 0,5.<BR><BR>Het getal dat   verkregen is met toepassing van artikel 57/6, § 1, eerste lid, 2°, wordt   vermenigvuldigd met de kinderarmoedebarometer van de gemeenten in kwestie en   wordt gedeeld door zeven. Het verkregen resultaat geldt als basis voor de   verdeling van de resterende middelen over de geselecteerde gemeenten.<BR><BR>§   2. De coördinerende minister maakt uiterlijk op 30 oktober van het jaar waarin   de lokale verkiezingen plaatsvinden, een lijst bekend met de bedragen van de   subsidie voor lokale kinderarmoedebestrijding per gemeente, waarbij wordt   gebruik gemaakt van de meest recente cijferreeksen waarover de Studiedienst van   de Vlaamse Regering beschikt.
+Een organisatie kan als vormingsorganisatie over armoede worden erkend als ze voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;ze is opgericht als een vereniging zonder winstoogmerk conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen en het Wetboek van vennootschappen en verenigingen van 23 maart 2019;<br>
+2°&nbsp;&nbsp; &nbsp;in de bestuursstructuren van haar vormingswerking zoals bedoeld in dit besluit is een voldoende mix van ervaringsdeskundigheid en ervaringskennis aanwezig;<br>
+3°&nbsp;&nbsp; &nbsp;in de bestuursstructuren van haar vormingswerking zoals bedoeld in dit besluit is niet meer dan twee derde van de leden van hetzelfde geslacht;<br>
+4°&nbsp;&nbsp; &nbsp;ze is actief op het grondgebied van het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;<br>
+5°&nbsp;&nbsp; &nbsp;ze voert de opdrachten uit, vermeld in artikel 57/8 van dit besluit;<br>
+6°&nbsp;&nbsp; &nbsp;ze erkent in haar werking het belang van het gebruik van de Nederlandse taal.
 
 ### ART. 57/8.
 
-Het subsidiebedrag, vermeld in artikel 57/7, § 1, eerste lid, 1°, kan   worden verminderd, rekening houdend met de beschikbare   begrotingskredieten.
+De vormingsorganisatie over armoede voert al de volgende opdrachten uit:<br>
+1°&nbsp;&nbsp; &nbsp;vormings-, coachings-, advies- en ondersteuningsactiviteiten opzetten in een proces op maat en in dialoog met de aanvrager. De vorming maakt deel uit van een ruimer traject;<br>
+2°&nbsp;&nbsp; &nbsp;haar aanbod in een participatief proces met mensen in armoede ontwikkelen vanuit hun ervaringskennis en ervaringsdeskundigheid, en in de nodige omkadering en ondersteuning voorzien voor de betrokken mensen in armoede;<br>
+3°&nbsp;&nbsp; &nbsp;inbrengers van ervaringskennis en ervaringsdeskundigheid een passende vergoeding geven;<br>
+4°&nbsp;&nbsp; &nbsp;de ingebrachte ervaringskennis met wetenschappelijke en praktijkkennis kruisen;<br>
+5°&nbsp;&nbsp; &nbsp;een krachtgerichte kijk hanteren en krachtgerichte interventies opzetten;<br>
+6°&nbsp;&nbsp; &nbsp;procesmatig en duurzame verbindingen leggen in de vormingsactiviteiten;<br>
+7°&nbsp;&nbsp; &nbsp;het effect van haar activiteiten in kaart brengen;<br>
+8°&nbsp;&nbsp; &nbsp;een proces doorlopen met eventuele andere erkende vormingsorganisaties, de erkende opleidingsorganisatie en het Vlaams Netwerk van verenigingen waar armen het woord nemen, minstens op het vlak van:<br>
+a)&nbsp;&nbsp; &nbsp;verduidelijking en afstemming van het aanbod;<br>
+b)&nbsp;&nbsp; &nbsp;bekendmaking van het aanbod;<br>
+c)&nbsp;&nbsp; &nbsp;gezamenlijke visie op en beleid rond inschakelen van ervaringskennis en -deskundigheid.<br>
+9°&nbsp;&nbsp; &nbsp;een duidelijk en transparant prijsbeleid voeren.
 
 ### ART. 57/9.
 
-&nbsp;Deze onderafdeling is van toepassing op de lokale besturen, met uitzondering van de VGC.
+Een aanvraag tot erkenning als vormingsorganisatie over armoede is ontvankelijk als de organisatie die aanvraag met een aangetekende brief bij de administratie indient tussen 1 januari en 15 mei van het jaar dat voorafgaat aan de erkenning, en als de aanvraag een dossier bevat dat is samengesteld uit de organisatiegebonden gegevens, vermeld in artikel 57/7, en een meerjarenplan als vermeld in artikel 57/15.
 
 ### ART. 57/10.
 
-De bedragen van de subsidie voor lokale kinderarmoedebestrijding die met   toepassing van artikel 57/7, § 2, toegewezen zijn per gemeente, kunnen   aangevraagd worden conform artikel 7 van het decreet van 15 juli 2011, zowel   door een gemeente als door een OCMW, het hele bedrag of een deel ervan.   Gemeenten en OCMW's spreken onderling af wie welk deel van het toegewezen bedrag   aanvraagt.
+Als de aanvraag niet ontvankelijk is conform artikel 57/9, deelt de administratie dat uiterlijk op 15 juni mee aan de aanvragende organisatie. Ze vermeldt waarom de aanvraag niet ontvankelijk is.
 
 ### ART. 57/11.
 
-Conform artikel 8 van het decreet van 15 juli 2011 brengt de coördinerende   minister de lokale besturen op de hoogte van het al dan niet aanvaarden van de   subsidieaanvraag en van de hoogte van het principieel toe te kennen jaarlijkse   subsidiebedrag.
+De administratie onderzoekt de aanvraag die conform artikel 57/9 ontvankelijk is en kan een controle ter plaatse uitvoeren. De secretaris-generaal beslist over de erkenning van de organisatie.<br>
+<br>
+De beslissing van de secretaris-generaal tot erkenning of het voornemen van de secretaris-generaal om de erkenning te weigeren, wordt uiterlijk op 1 oktober met aangetekende brief aan de organisatie meegedeeld.<br>
+<br>
+De brief waarin het voornemen, vermeld in het tweede lid, aan de organisatie wordt meegedeeld vermeldt ook de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen. Artikel 27 is van overeenkomstige toepassing.
 
 ### ART. 57/12.
 
-Conform artikel 9 van het decreet van 15 juli 2011 keert de administratie   het voor een bepaald jaar toegekende subsidiebedrag voor de uitvoering van de   Vlaamse beleidsprioriteit kinderarmoedebestrijding uit.
+Er kunnen maximaal vier vormingsorganisaties over armoede erkend worden.
 
 ### ART. 57/13.
 
-Conform artikel 11 van het decreet van 15 juli 2011 wordt de coördinerende   minister gemachtigd bezwaar aan te tekenen en indien nodig de beslissing uit te   voeren.
+Als een erkende vormingsorganisatie niet meer voldoet aan een of meer van de erkenningsvoorwaarden, vermeld in artikel 57/7, of als ze niet meewerkt aan de uitoefening van het toezicht, vermeld in artikel 58, is artikel 29 van overeenkomstige toepassing.
 
 ## [Afdeling 2 Subsidiëring (ing. BVR 30 juni 2023, art. 27)]
 
 ### ART. 57/14.
 
-Uiterlijk op 15 januari van het tweede jaar van de VGC-beleidscyclus dient   de VGC haar subsidieaanvraag in bij de administratie om tijdens de   VGC-beleidscyclus gesubsidieerd te worden voor de uitvoering van de Vlaamse   beleidsprioriteit kinderarmoedebestrijding.<BR><BR>De subsidieaanvraag bestaat   uit een kinderarmoedebestrijdingsplan en omvat het meerjarenplan met betrekking   tot een integrale kinderarmoedebestrijding dat goedgekeurd is door de   Nederlandse taalgroep van het Brusselse Hoofdstedelijk Parlement en dat voldoet   aan de bepalingen van het decreet van 21 maart 2003 en dit besluit.<BR><BR>Het   kinderarmoedebestrijdingsplan bevat minstens de volgende elementen in het kader   van de Vlaamse beleidsprioriteit kinderarmoedebestrijding:<BR>1° de visie op   kinderarmoede en kinderarmoedebestrijding;<BR>2° de doelstellingen en geplande   acties in het kader van een integraal kinderarmoedebestrijdingsbeleid, met per   actie de vermelding van het plan van aanpak, de timing en de financiële   prognose;<BR>3° de wijze waarop het kinderarmoedebestrijdingsplan tot stand is   gekomen met alle relevante lokale actoren, in het bijzonder de meest kwetsbare   doelgroepen en de actoren die met toepassing van het decreet van 21 maart 2003   erkend en ondersteund worden.
+De secretaris-generaal kent aan de erkende vormingsorganisaties over armoede, binnen de beschikbare begrotingskredieten, een jaarlijkse subsidie toe conform artikel 18/2 van het decreet van 21 maart 2003 en dit besluit.
 
 ### ART. 57/15.
 
-Uiterlijk op 30 april van het tweede jaar van de VGC-beleidscyclus brengt   de coördinerende minister de VGC op de hoogte van het al dan niet aanvaarden van   de subsidieaanvraag en van de hoogte van het principieel toe te kennen   jaarlijkse subsidiebedrag voor de volledige periode van de   VGC-beleidscyclus.
+De vormingsorganisatie over armoede dient bij de administratie een meerjarenplan in voor 15 mei van het jaar dat voorafgaat aan de periode waarop het voormelde meerjarenplan betrekking heeft. Het voormelde meerjarenplan wordt opgemaakt voor een periode van vijf jaar.<br>
+<br>
+Het meerjarenplan, vermeld in het eerste lid, wordt minstens afgestemd op de meerjarenplannen van het Vlaams Netwerk van verenigingen waar armen het woord nemen en van de opleidingsorganisatie en andere vormingsorganisaties die in het kader van dit decreet erkend zijn.<br>
+<br>
+De secretaris-generaal beslist voor 1 oktober van hetzelfde jaar over de goedkeuring van het meerjarenplan, vermeld in het eerste lid.
 
 ### ART. 57/16.
 
-Het subsidiebedrag dat toegekend is voor een bepaald jaar wordt uitgekeerd in twee gelijke delen, uiterlijk op 30 juni en 30 november van elk jaar.
+Het meerjarenplan, vermeld in artikel 57/15, vertrekt van de wijze waarop ervaringskennis ingezet wordt bij de uitvoering van de opdrachten, vermeld in artikel 57/8. Het bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een beknopte, toegespitste omgevingsanalyse;<br>
+2°&nbsp;&nbsp; &nbsp;een overzicht en omschrijving van de partners waarmee wordt samengewerkt;<br>
+3°&nbsp;&nbsp; &nbsp;het vormingsaanbod;<br>
+4°&nbsp;&nbsp; &nbsp;de beschrijving van de doelstellingen;<br>
+5°&nbsp;&nbsp; &nbsp;de beoogde resultaten;<br>
+6°&nbsp;&nbsp; &nbsp;de criteria die worden gehanteerd om de resultaten te beoordelen;<br>
+7°&nbsp;&nbsp; &nbsp;de ontwikkelingen ten opzichte van het vorige meerjarenplan;<br>
+8°&nbsp;&nbsp; &nbsp;het tijdstip en de wijze waarop de resultaten geëvalueerd worden;<br>
+9°&nbsp;&nbsp; &nbsp;de opgave van de interne organisatiestructuur;<br>
+10°&nbsp;&nbsp; &nbsp;de begroting voor de volledige periode van het meerjarenplan;<br>
+11°&nbsp;&nbsp; &nbsp;voor het eerste werkjaar: een jaarplan waarvan de inhoud beantwoordt aan artikel 57/17, eerste lid.
 
 ### ART. 57/17.
 
-Uiterlijk op 31 juli van elk jaar rapporteert de VGC via een jaarlijks   verslag aan de coördinerende minister over de effectieve invulling van de   Vlaamse beleidsprioriteit kinderarmoedebestrijding in het voorafgaande jaar. Het   jaarlijkse verslag wordt goedgekeurd door het college van de VGC.<BR><BR>Het   jaarlijkse verslag bestaat uit:<BR>1° in voorkomend geval, de gewijzigde   onderdelen van het kinderarmoedebestrijdingsplan;<BR>2° een inhoudelijk   overzicht van de voortgang en realisatie van de acties en de timing er van,   opgenomen in het kinderarmoedebestrijdingsplan;<BR>3° de financiële middelen die   besteed zijn aan de Vlaamse beleidsprioriteit kinderarmoedebestrijding;<BR>4°   een uittreksel uit de boekhouding voor het activiteitencentrum en een bijhorende   financiële nota op basis waarvan de uitgaven, vermeld in punt 3°, gestaafd   worden.
+Op basis van het meerjarenplan, vermeld in artikel 57/15, dat is goedgekeurd, dient de vormingsorganisatie over armoede bij de secretaris-generaal jaarlijks voor 1 november een jaarplan in voor het volgende werkjaar, het eerste werkjaar uitgezonderd. Het voormelde jaarplan bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de concrete activiteiten om de opdrachten van de vormingsorganisatie te realiseren;<br>
+2°&nbsp;&nbsp; &nbsp;de criteria die worden gehanteerd om de resultaten te beoordelen;<br>
+3°&nbsp;&nbsp; &nbsp;de concrete begroting voor de uitvoering van het jaarplan.<br>
+<br>
+De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het jaarplan, vermeld in het eerste lid, over de goedkeuring van dat jaarplan.
 
 ### ART. 57/18.
 
-Als de VGC niet voldoet aan de rapporteringsverplichtingen, als het   jaarlijks verslag onduidelijk is of als de VGC onvoldoende aantoont dat het de   vooropgestelde doelstellingen heeft nagestreefd, maakt de coördinerende minister   uiterlijk drie maanden na de ontvangst van de rapportering per aangetekende   brief bezwaar bij de VGC. De VGC bezorgt, binnen twee maanden na de ontvangst   van het bezwaar, aan de coördinerende minister een aangepast jaarlijks verslag   en/of een motiverende nota waarom bepaalde engagementen niet zijn nagekomen. De   coördinerende minister bezorgt daaropvolgend zijn beslissing aan de VGC binnen   twee maanden na de ontvangst van het aangepaste jaarlijkse verslag of de   motiverende nota.<BR><BR>Als uit het aangepaste jaarlijkse verslag of uit de   motiverende nota blijkt dat de subsidie niet aangewend is voor het doel waarvoor   ze is verleend, en meer bepaald dat de Vlaamse beleidsprioriteit   kinderarmoedebestrijding onvoldoende is nagestreefd, keert de coördinerende   minister verdere toegezegde subsidies niet uit en vordert reeds toegekende   subsidies terug.
+Op basis van het jaarplan, dat conform artikel 57/17 is goedgekeurd, kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, aan de vormingsorganisatie over armoede een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft.&nbsp;
+
+### ART 57/19.
+
+De vormingsorganisatie over armoede verantwoordt de aanwending van de subsidie-enveloppe tijdens een kalenderjaar in een inhoudelijk en een financieel verslag, dat ze vóór 1 mei van het volgende kalenderjaar bij de administratie indient.&nbsp;<br>
+<br>
+Het inhoudelijke verslag, vermeld in het eerste lid, heeft de vorm van een opvolgingsrapport. In het voormelde opvolgingsrapport wordt onder meer aan de hand van de elementen, vermeld in het jaarplan, vermeld in artikel 57/17, beschreven op welke wijze de doelstellingen en activiteiten uit het voormelde jaarplan zijn gerealiseerd.<br>
+<br>
+Het financiële verslag, vermeld in het eerste lid, bevat alle documenten, vermeld in artikel 13 van het besluit van 13 januari 2006.&nbsp;<br>
+<br>
+Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag, vermeld in het eerste tot en met het derde lid, kan 5% van de toegekende subsidie-enveloppe worden ingehouden.<br>
+<br>
+De vormingsorganisatie kan de resultaten van de gesubsidieerde activiteiten openbaar maken.
+
+### ART 57/20.
+
+De organisatie wendt de subsidie-enveloppe aan voor al de volgende kosten:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;huisvestings-, personeels- en werkingskosten voor de inzet van ervaringskennis in de opdrachten, vermeld in artikel 57/8;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;huisvestings-, personeels- en werkingskosten voor de participatieve ontwikkeling van nieuwe methodieken.&nbsp;<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteiten dubbel worden gesubsidieerd.
+
+### ART 57/21.
+
+Als de organisatie de subsidie-enveloppe, vermeld in artikel 57/18, in het jaar waarvoor de voormelde subsidie-enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 57/20, eerste lid, te dekken, legt ze reserves aan met het niet-aangewende gedeelte tot maximaal 20% van de voormelde subsidie-enveloppe, met uitzondering van het sociaal passief. De organisatie wendt de voormelde reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br>
+<br>
+Van reserves die op het ogenblik dat het boekjaar wordt afgesloten, met uitzondering van het sociaal passief, meer bedragen dan de jaarlijkse subsidie-enveloppe, stort de organisatie het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.
+
+### ART 57/22.
+
+De subsidie-enveloppe aan de vormingsorganisatie wordt geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.&nbsp;<br>
+<br>
+De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ’s lands concurrentievermogen.
 
 ## HOOFDSTUK VI Toezicht
 
@@ -465,27 +726,28 @@ Voor de verenigingen die op de datum van de inwerkingtreding van artikel 28/1 al
 
 ### ART. 61/3.
 
-Voor de subsidiëring van de lokale besturen, met uitzondering van de VGC, voor de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding gelden, voor de lokale beleidsperiode 2014-2019, de volgende afwijkende bepalingen:<br>
-1° in afwijking van de datum, vermeld in artikel 57/6, § 4, maakt de coördinerende minister uiterlijk op 14 februari 2014 een lijst bekend met de kinderarmoedebarometer per gemeente en de gemeenten die in aanmerking komen voor subsidiëring;<br>
-2° in afwijking van de datum, vermeld in artikel 57/7, § 2, maakt de coördinerende minister uiterlijk op 14 februari 2014 een lijst bekend met de bedragen van de subsidie voor lokale kinderarmoedebestrijding per gemeente;<br>
-3° in afwijking van artikel 57/10, 57/11, 57/12 en 57/13 verloopt de subsidiëringsprocedure voor de lokale besturen, met uitzondering van de VGC, als volgt:<br>
-a) de lokale besturen dienen uiterlijk op 31 mei 2014 een subsidieaanvraag in bij de coördinerende minister. De subsidieaanvraag sluit zo nauw mogelijk aan bij de structuur van de strategische meerjarenplanning en bevat de doelstellingen en geplande acties in het kader van een integraal kinderarmoedebestrijdingsbeleid, met per actie de vermelding van het plan van aanpak, de timing en, voor de acties waarvoor een subsidie wordt aangevraagd, de financiële prognose;<br>
-b) het lokale bestuur neemt uiterlijk op 31 december 2014 de doelstellingen en acties vermeld in de subsidieaanvraag, vermeld in punt a), op in een wijziging van de strategische meerjarenplanning die het heeft ingediend met toepassing van artikel 7 van het decreet van 15 juli 2011;<br>
-c) de coördinerende minister deelt uiterlijk op 31 augustus 2014 de beslissing om de subsidieaanvraag al dan niet te aanvaarden, mee aan het lokale bestuur;<br>
-d) in 2014 keert de administratie uiterlijk op 30 september 2014 aan het lokale bestuur het eerste deel uit van het subsidiebedrag dat toegekend is voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor 2014. Het tweede deel van het subsidiebedrag dat toegekend is voor 2014, alsook de toegekende subsidiebedragen vanaf 2015 worden uitgekeerd conform artikel 9 van het decreet van 15 juli 2011;<br>
-e) in 2015 rapporteert het lokale bestuur over de uitvoering van zijn engagementen op het vlak van kinderarmoedebestrijding in het jaar 2014 door een verantwoording in te dienen bij de coördinerende minister. Die sluit zo nauw mogelijk aan bij de structuur van de strategische meerjarenplanning en bevat de relevante onderdelen van de door de raad goedgekeurde jaarrekening van 2014. In zijn rapportering geeft het lokale bestuur aan welke activiteiten en prestaties zijn verricht of welke effecten zijn bereikt in het kader van de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding;<br>
-4° in afwijking van artikel 57/6 en 57/7, wordt aan een lokaal bestuur voor elk van de jaren 2016 tot en met 2019 eenzelfde subsidiebedrag toegekend als voor het jaar 2015.<br>
-<br>
-Vanaf het jaar 2016 rapporteert het lokale bestuur conform artikel 10 van het decreet van 15 juli 2011.<br>
-<br>
-In het eerste lid, 3°, wordt verstaan onder strategische meerjarenplanning: de meerjarenplanning van de gemeenten en openbare centra voor maatschappelijk welzijn, vermeld in het Gemeentedecreet van 15 juli 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
-<br>
 Voor de subsidiëring van de VGC voor de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding gelden tijdens de overgangsjaren 2014 en 2015 de volgende afwijkende bepalingen:<br>
 1° in afwijking van artikel 57/14, eerste lid, dient de VGC, uiterlijk op 31 mei 2014 een subsidieaanvraag in bij de administratie om tijdens 2014 en 2015 gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding;<br>
 2° in afwijking van artikel 57/14, eerste lid, omvat deze aanvraag de resterende jaren van de lopende VGC-beleidscyclus;<br>
 3° in afwijking van artikel 57/14, tweede lid, wordt het kinderarmoedebestrijdingsplan goedgekeurd door het college van de VGC;<br>
 4° in afwijking van artikel 57/15 deelt de administratie uiterlijk op 31 augustus 2014 de beslissing van de minister mee aan de VGC om de subsidieaanvraag al dan niet te aanvaarden, en de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag voor 2014 en 2015;<br>
 5° in 2014 keert, in afwijking van de datum, vermeld in artikel 57/16, de administratie uiterlijk op 30 september 2014 aan de VGC het eerste deel uit van het subsidiebedrag dat toegekend is voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor 2014.
+
+### ART 61/4.
+
+§1. In afwijking van artikel 48 dient de erkende opleidingsorganisatie voor 1 juli 2023 het eerste meerjarenplan in, met uitzondering van het jaarplan voor het eerste werkjaar, dat ingediend wordt op uiterlijk 15 september 2023.<br>
+<br>
+In afwijking van artikel 48 start de uitvoering van het eerste meerjarenplan op 1 januari 2024 en loopt af op 31 december 2025.<br>
+<br>
+§2. Alleen de organisaties die op 1 januari 2023 gesubsidieerd zijn voor hun vormingsactiviteiten over armoede en die voldoen aan de voorwaarden, vermeld in artikel 18/2 van het decreet van 21 maart 2003, en artikel 57/9 en 57/10 van dit besluit, kunnen in 2023 een aanvraag indienen voor een erkenning als vormingsorganisatie over armoede, die ingaat vanaf 1 januari 2024.<br>
+<br>
+In afwijking van artikel 57/9 kan de erkenningsaanvraag, vermeld in het eerste lid, ingediend worden tot en met 1 juli 2023. Als de aanvraag niet ontvankelijk is, deelt de administratie dat, in afwijking van artikel 57/12, voor 1 augustus 2023 mee.<br>
+<br>
+In afwijking van artikel 57/15 dient de vormingsorganisatie voor 1 juli 2023 het eerste meerjarenplan in, met uitzondering van het jaarplan voor het eerste werkjaar, dat ingediend wordt op uiterlijk 15 september 2023.<br>
+<br>
+In afwijking van artikel 57/15 start de uitvoering van het eerste meerjarenplan op 1 januari 2024 en loopt af op 31 december 2025.<br>
+<br>
+Artikels 57/21 tot en met 57/24 zijn van toepassing.
 
 ### ART. 62.
 
@@ -503,4 +765,4 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 
 ### BIJLAGE
 
-De bron en referentieperiode van de indicatoren, vermeld in artikel 57/6,   § 1.<BR>1° indicator 1:<BR>a) teller: het aantal personen met recht op de   voorkeursregeling in de ziekteverzekering van nul tot en met vier jaar:<BR>1)   bron: Kruispuntenbank van de Sociale Zekerheid;<BR>2) periode: voortschrijdend   gemiddelde van de laatste drie beschikbare jaren;<BR>b) noemer: het aantal   inwoners van nul tot en met vier jaar:<BR>1) bron: FOD Economie, Algemene   Directie Statistiek en Economische Informatie (ADSEI);<BR>2) periode:   voortschrijdend gemiddelde van de laatste drie beschikbare jaren;<BR>2°   indicator 2:<BR>a) teller: het aantal eenoudergezinnen met kinderen van nul tot   en met drie jaar:<BR>1) bron: FOD Economie, Algemene Directie Statistiek en   Economische Informatie (ADSEI);<BR>2) periode: voortschrijdend gemiddelde van de   laatste drie beschikbare jaren;<BR>b) noemer: het totaal aantal huishoudens met   kinderen van nul tot en met drie jaar:<BR>1) bron: FOD Economie, Algemene   Directie Statistiek en Economische Informatie (ADSEI);<BR>2) periode:   voortschrijdend gemiddelde van de laatste drie beschikbare jaren;<BR>3°   indicator 3:<BR>a) teller: de kansarmoede-index van Kind en Gezin:<BR>1) bron:   Kind en Gezin;<BR>2) periode: laatste beschikbare jaargang;<BR>b) noemer:   geen;<BR>4° indicator 4:<BR>a) teller: de onderwijs kansarmoede-indicator   volgens woonplaats van de leerling voor het kleuteronderwijs vermenigvuldigd met   het aantal leerlingen in het kleuteronderwijs volgens woonplaats van de   leerling:<BR>1) bron: Departement Onderwijs en Vorming;<BR>2) periode:   voortschrijdend gemiddelde van de laatste drie beschikbare schooljaren;<BR>b)   noemer: het aantal leerlingen voor het kleuteronderwijs volgens woonplaats van   de leerling:<BR>1) bron: Departement Onderwijs en Vorming;<BR>2) periode:   voortschrijdend gemiddelde van de laatste drie beschikbare schooljaren;<BR>5°   indicator 5:<BR>a) teller: de som van het aantal begunstigden van het leefloon   met categorie gezinslast (categorie E: persoon woont met gezin ten laste en   &gt;= één minderjarig ongehuwd kind) en het aantal begunstigden van het   equivalent-leefloon met categorie gezinslast (categorie E: persoon woont met   gezin ten laste en &gt;= één minderjarig ongehuwd kind):<BR>1) bron: POD   Maatschappelijke Integratie, Armoedebestrijding, Sociale Economie en   Grootstedenbeleid;<BR>2) periode: voortschrijdend gemiddelde van het   jaargemiddelde van de laatste drie beschikbare jaren;<BR>b) noemer: het aantal   huishoudens met kinderen van nul tot en met zeventien jaar:<BR>1) bron: FOD   Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<BR>2)   periode: voortschrijdend gemiddelde van de laatste drie beschikbare jaren;<BR>6°   indicator 6:<BR>a) teller: het aantal huishoudens met kinderen van nul tot en   met twee jaar waarbij de referentiepersoon in het huishouden en indien aanwezig   diens partner niet werken:<BR>1) bron: Kruispuntenbank Sociale Zekerheid,   datawarehouse arbeidsmarkt, basistoepassingen;<BR>2) periode: laatste   beschikbare jaargang van de basistoepassing datawarehouse arbeidmarkt   (momentopname per 31 december);<BR>b) noemer: het totaal aantal huishoudens met   kinderen van nul tot en met twee jaar:<BR>1) bron: Kruispuntenbank Sociale   Zekerheid, datawarehouse arbeidsmarkt, basistoepassingen;<BR>2) periode: laatste   beschikbare jaargang van de basistoepassing datawarehouse arbeidmarkt   (momentopname per 31 december);<BR>7° indicator 7:<BR>a) teller: het aantal   huishoudens met kinderen van nul tot en met drie jaar waarbij een of beide   ouders niet over de EU-nationaliteit beschikken:<BR>1) bron: FOD Economie,   Algemene Directie Statistiek en Economische Informatie (ADSEI);<BR>2) periode:   voortschrijdend gemiddelde van de laatste drie beschikbare jaren;<BR>b) noemer:   het totaal aantal huishoudens met kinderen van nul tot en met drie jaar:<BR>1)   bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie   (ADSEI);<BR>2) periode: voortschrijdend gemiddelde van de laatste drie   beschikbare jaren.
+...
