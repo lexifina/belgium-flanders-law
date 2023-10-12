@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038634,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-07 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023 in het kader van een subsidie aan de NAVO",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038634/VolledigDocument?datum=2023-10-12",
+  "source_sha256": "37738e3f5c6622a3fbf34213e1a7267fa924d4e3372d1ba73ebb1d6958ba6de6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038634&param=informatie",
+  "as_of": "2023-10-12",
+  "made": "2023-07-07",
+  "gazette": "2023-10-02",
+  "numac": 2023043923,
+  "document_start": "2023-10-12",
+  "document_end": null,
+  "in_force": "2023-10-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
