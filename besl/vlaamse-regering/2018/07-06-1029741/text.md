@@ -145,7 +145,7 @@ De uittredingsvergoeding van de lokale uitvoerende mandataris is gelijk aan een 
 <br>
 Onder ander beroepsinkomen als vermeld in het eerste lid, 1°, wordt ook het vervangingsinkomen wegens werkloosheid, pensionering en arbeidsongeschiktheid verstaan.<br>
 <br>
-In afwijking van het eerste lid, 1°, kan de betrokkene vragen om het verschil bij te passen als dat ander beroepsinkomen lager is dan de uittredingsvergoeding.<br>
+In afwijking van het eerste lid, 1°, kan de betrokkene vragen om het verschil bij te passen als dat ander beroepsinkomen, met uitzondering van het vervangingsinkomen wegens werkloosheid, lager is dan de uittredingsvergoeding.<br>
 <br>
 § 3. De uittredingsvergoeding wordt maandelijks uitbetaald.<br>
 <br>
@@ -452,7 +452,7 @@ De volgende mandatarissen die hun ambt gedurende een bestuursperiode of gedurend
 1° een aftredende burgemeester;<br>
 2° een aftredende waarnemend burgemeester;<br>
 3° een aftredende voorzitter van de raad voor maatschappelijk welzijn van de gemeente Voeren en de gemeenten, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
-4° een aftredende districtsburgemeester.
+4° ....
 
 ### ART 54.
 
@@ -468,7 +468,7 @@ De uitoefening van een ambt of mandaat in een gemeente die later samengevoegd wo
 
 De betrokkene dient het verzoek tot verlening van een eretitel, vermeld in artikel 53, schriftelijk in bij de Vlaamse Regering.<br>
 <br>
-Met instemming van de betrokkene kan de gemeenteraad, de districtsraad of de raad voor maatschappelijk welzijn het verzoek ook indienen.<br>
+Met instemming van de betrokkene kan de gemeenteraad of de raad voor maatschappelijk welzijn het verzoek ook indienen.<br>
 <br>
 Als de betrokkene overleden is, kunnen de rechtsopvolgers van de betrokkene of de raad, vermeld in het tweede lid, het verzoek indienen met instemming van de rechtsopvolgers.
 
@@ -480,7 +480,7 @@ Behalve in geval van de toepassing van artikel 56, derde lid, wordt bij het verz
 
 ### ART 58.
 
-De eretitel van het ambt van burgemeester of waarnemend burgemeester en van het mandaat van districtsburgemeester of voorzitter van de raad voor maatschappelijk welzijn, vermeld in artikel 53, 3°, mag niet worden gevoerd:<br>
+De eretitel van het ambt van burgemeester of waarnemend burgemeester en van het mandaat van voorzitter van de raad voor maatschappelijk welzijn, vermeld in artikel 53, 3°, mag niet worden gevoerd:<br>
 1° gedurende de periode dat het mandaat werkelijk wordt uitgeoefend;<br>
 2° door een persoon die betaald wordt door een gemeente of een openbaar centrum voor maatschappelijk welzijn.<br>
 <br>
