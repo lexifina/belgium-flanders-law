@@ -2,16 +2,16 @@
   "codex_id": 1036803,
   "title": "Besluit van de Vlaamse Regering van 2022-03-11 betreffende het Vlaams Beschermingsmechanisme voor ondernemingen die een omzetdaling hebben ten gevolge van de coronavirusmaatregelen van 28 oktober 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036803/VolledigDocument?datum=2022-12-09",
-  "source_sha256": "89636de8ba2542efc012af9ceb27f1875e8cc8bf490596970a2e81e2ea049d5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036803/VolledigDocument?datum=2023-10-13",
+  "source_sha256": "fbc4e1beafd1713b8944f8f7611516c2948ab9e02387d843b3e09c84262a4058",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036803&param=informatie",
-  "as_of": "2022-12-09",
+  "as_of": "2023-10-13",
   "made": "2022-03-11",
   "gazette": "2022-03-31",
   "numac": 2022031466,
   "document_start": "2022-03-31",
   "document_end": null,
-  "in_force": "2022-12-09",
+  "in_force": "2023-10-13",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2022-12-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
 }
