@@ -20,7 +20,7 @@ DE VLAAMSE MINISTER VAN FINANCIËN EN BEGROTING, WONEN EN ONROEREND ERFGOED BESL
 
 ### ART 1.
 
-De minister verleent erkenning als woonmaatschappij aan de besloten vennootschap “Woonstart”, met zetel te 8700 Tielt, Sint-Michielstraat 1 A, ondernemingsnummer 0405.220.9637, voorheen erkende sociale huisvestingsmaatschappij Tieltse Bouwmaatschappij.
+De minister verleent erkenning als woonmaatschappij aan de besloten vennootschap “Woonstart”, met zetel te 8700 Tielt, Sint-Michielstraat 1 A, ondernemingsnummer 0405.220.963, voorheen erkende sociale huisvestingsmaatschappij Tieltse Bouwmaatschappij.
 
 ### ART 2.
 
