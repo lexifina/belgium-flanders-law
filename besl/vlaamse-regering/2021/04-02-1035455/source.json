@@ -2,16 +2,16 @@
   "codex_id": 1035455,
   "title": "Besluit van de Vlaamse Regering van 2021-04-02 betreffende het Vlaams Beschermingsmechanisme voor ondernemingen die een omzetdaling hebben ten gevolge van de aanhoudende coronavirusmaatregelen van 28 oktober 2020, tot invoeging van artikel 9/1 in het besluit van de Vlaamse Regering van 20 maart 2020 over de corona hinderpremie en tot wijziging van artikel 9 en 11 van het besluit van de Vlaamse Regering van 10 april 2020 over de corona compensatiepremie, van artikel 9 en 11 van het besluit van de Vlaamse Regering van 12 juni 2020 over de corona ondersteuningspremie, van artikel 7 en 9 van het besluit van de Vlaamse Regering van 7 augustus 2020 over het Vlaamse Beschermingsmechanisme, van artikel 8 van het besluit van de Vlaamse Regering van 23 oktober 2020 over het Vlaamse Beschermingsmechanisme, van artikel 8 van het besluit van de Vlaamse Regering van 13 november 2020 over het Vlaamse Beschermingsmechanisme en van artikel 7 en 8 van het besluit van de Vlaamse Regering van 5 februari 2021 over het Vlaamse Beschermingsmechanisme",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035455/VolledigDocument?datum=2022-12-09",
-  "source_sha256": "9ef4501f258eb4c033a3f89c79556fe7ba8d5873d161106510a895daedab6e78",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035455/VolledigDocument?datum=2023-10-13",
+  "source_sha256": "d95037f456146906d4dbc2a5ecc5639550d9b5facc33edafe6d6d8e967f3a4f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035455&param=informatie",
-  "as_of": "2022-12-09",
+  "as_of": "2023-10-13",
   "made": "2021-04-02",
   "gazette": "2021-04-16",
   "numac": 2021020788,
   "document_start": "2021-04-16",
   "document_end": null,
-  "in_force": "2022-12-09",
+  "in_force": "2023-10-13",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2022-12-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
 }
