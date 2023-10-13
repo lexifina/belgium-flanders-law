@@ -35,3 +35,37 @@ In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 “5° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.”;<br>
 4° aan het vierde lid wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
 “5° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.”.
+
+### ART 3.
+
+In artikel 53 van hetzelfde besluit wordt punt 4° opgeheven.
+
+### ART 4.
+
+In artikel 54 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° tussen de zinsnede “artikel 53” en de zinsnede “, te berekenen” worden de woorden “van dit besluit” ingevoegd;<br>
+2° de zinsnede “, de districtsraadsverkiezingen” wordt opgeheven;<br>
+3° de woorden “gemeenteraads- of districtsraadsverkiezingen” worden vervangen door het woord “gemeenteraadsverkiezingen”;<br>
+4° de zinsnede “vermeld in artikel 51” wordt vervangen door de zinsnede “vermeld in artikel 53 van dit besluit”.
+
+### ART 5.
+
+In artikel 56 van hetzelfde besluit wordt de zinsnede “, de districtsraad” opgeheven.
+
+### ART 6.
+
+In artikel 58 van hetzelfde besluit worden de woorden “districtsburgemeester of” opgeheven.
+
+### ART 7.
+
+Artikel 1, 1°, treedt, met het oog op de algehele vernieuwing van de bestuursorganen in december 2024 na de verkiezing, georganiseerd op 13 oktober 2024, in werking op 13 oktober 2024.<br>
+<br>
+In afwijking van het eerste lid treedt artikel 1, 1°, van dit besluit, in werking op:<br>
+1° de dag van de indiening van de constructieve motie van wantrouwen als vermeld in artikel 46 van het decreet van 22 december 2017 over het lokaal bestuur, in een gemeente waar voor 13 oktober 2024 een collectieve constructieve motie van wantrouwen als vermeld in artikel 46 van het voormelde decreet, wordt ingediend;<br>
+2° de dag van de indiening van een collectieve constructieve motie van wantrouwen als vermeld in artikel 124/1 van het voormelde decreet, in een district waar voor 13 oktober 2024 een collectieve constructieve motie van wantrouwen als vermeld in artikel 124/1 van het voormelde decreet, wordt ingediend.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 2 maart 2023.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid, is belast met de uitvoering van dit besluit.
