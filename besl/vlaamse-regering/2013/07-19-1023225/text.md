@@ -387,11 +387,21 @@ Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis v
 
 Met toepassing van artikel 39 van het decreet van 16 maart 2012 worden de aanvragen tot uitbetaling ingediend binnen&nbsp;twaalf maanden na het beëindigen van het totale transformatieproject voor de basissteun.
 
+## HOOFDSTUK 4/1. Controle
+
+### ART 42/1.
+
+Het Agentschap Innoveren en Ondernemen kan vanaf de indiening van de steunaanvraag op elk moment controleren, op basis van de opgevraagde stukken of ter plaatse, of de voorwaarden van het decreet van 16 maart 2012, van dit besluit en de uitvoeringsbesluiten ervan worden nageleefd.<br>
+<br>
+De controle, vermeld in het eerste lid, heeft afhankelijk van het feit of de steun al dan niet is toegekend, één van de volgende beslissingen tot gevolg:<br>
+1°&nbsp;&nbsp; &nbsp;weigering van de subsidie;<br>
+2°&nbsp;&nbsp; &nbsp;niet-uitbetaling of terugvordering van de toegekende subsidie.
+
 ## HOOFDSTUK 5 Terugvordering
 
 ### ART. 43.
 
-De steun wordt teruggevorderd binnen tien jaar na de indieningsdatum van de steunaanvraag, in geval van :<br>
+De steun wordt teruggevorderd in geval van :<br>
 1° faillissement, vereffening, boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het kader van een sociaaleconomische herstructureringsoperatie met tewerkstellingsafbouw tot gevolg binnen zeven jaar na het beëindigen van de investeringen en opleidingen;<br>
 2° vervreemding of wijziging van de oorspronkelijke bestemming of het gebruik van de investeringen binnen vijf jaar na het beëindigen van de investeringen, met behoud van de toepassing van artikel 14, punt 5, van de algemene vrijstellingsverordening;<br>
 3° niet-naleving van de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen zeven jaar na het beëindigen van de investeringen en opleidingen;<br>
