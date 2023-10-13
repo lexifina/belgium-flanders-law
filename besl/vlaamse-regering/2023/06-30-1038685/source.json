@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038685,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-30 tot vaststelling van de regels voor de thematische oproep voor circulaire economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038685/VolledigDocument?datum=2023-10-13",
+  "source_sha256": "b3af471f6cfde7c80169232dee41d914c1a0c5ff8dfd995cf1ea205a84d62d60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038685&param=informatie",
+  "as_of": "2023-10-13",
+  "made": "2023-06-30",
+  "gazette": "2023-10-03",
+  "numac": 2023044450,
+  "document_start": "2023-10-13",
+  "document_end": null,
+  "in_force": "2023-10-13",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
