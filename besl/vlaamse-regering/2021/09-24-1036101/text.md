@@ -150,7 +150,7 @@ De subsidie wordt alleen uitbetaald op een Belgisch rekeningnummer op naam van d
 
 Het agentschap kan de waarachtigheid controleren van de gegevens die de onderneming rapporteert op basis van alle relevante stukken en dat voorafgaandelijk aan en tot vijf jaar nadat de subsidie is uitbetaald. Die informatie kan ook opgevraagd worden bij federale of Vlaamse gegevensbronnen.<br>
 <br>
-Met toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de subsidieaanvraag als de onderneming de voorwaarden die zijn opgelegd bij of krachtens het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten ervan, niet heeft nageleefd.<br>
+Met toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd als de onderneming de voorwaarden die zijn opgelegd bij of krachtens het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten ervan, niet heeft nageleefd.<br>
 <br>
 Ondernemingen moeten de steun die ten onrechte ontvangen werd terugbetalen aan het Agentschap Innoveren en Ondernemen. Indien de onterecht ontvangen steun meer dan 300 euro bedraagt wordt een administratieve kost van 100 euro aangerekend.<br>
 <br>
