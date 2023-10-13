@@ -558,7 +558,7 @@ Alle wijzigingen van de subsidieaanvraag worden vooraf bij het agentschap gemoti
 
 ### ART 50.
 
-De administrateur-generaal vordert de subsidie geheel of gedeeltelijk terug binnen tien jaar nadat het subsidiedossier afgesloten is in geval van niet-naleving van de voorwaarden, vermeld in het decreet van 13 juli 2012, dit besluit, de uitvoeringsbesluiten ervan en de beslissing tot toekenning van de subsidie.<br>
+De administrateur-generaal vordert de subsidie geheel of gedeeltelijk terug in geval van niet-naleving van de voorwaarden, vermeld in het decreet van 13 juli 2012, dit besluit, de uitvoeringsbesluiten ervan en de beslissing tot toekenning van de subsidie.<br>
 <br>
 De minister kan de nadere regels van de terugvordering bepalen.<br>
 <br>
