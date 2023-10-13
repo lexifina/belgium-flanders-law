@@ -423,7 +423,15 @@ b) een gebied, aangewezen door het Waalse Gewest, het Brusselse Hoofdstedelijke 
 c) een gebied, aangewezen door de Vlaamse Regering met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn, of, in afwachting van die aanwijzing, een gebied dat met toepassing van de Habitatrichtlijn door de Vlaamse Regering definitief is vastgesteld met toepassing van artikel 36bis, § 6, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of dat geacht wordt definitief te zijn vastgesteld met toepassing van artikel 36bis, § 12, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu ;<br>
 d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijke Gewest of door een andere lidstaat van de Europese Unie met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn of, in afwachting van die aanwijzing, een gebied dat voorgesteld is door één van beide gewesten of door een andere lidstaat, met toepassing van artikel 4, eerste lid, van de Habitatrichtlijn, dat door de Europese Commissie van communautair belang is verklaard met toepassing van artikel 4, tweede lid, van de Habitatrichtlijn;<br>
 9° waterbeheerder: de instantie die aangewezen is in artikel 7, eerste lid, van de wet van 28 december 1967;<br>
-10° wet van 28 december 1967: de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;
+10° wet van 28 december 1967: de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
+11° peilbeheer: het uitoefenen van invloed op de waterstanden van het oppervlaktewater en onrechtstreeks ook op de grondwaterstanden in een afgebakend gebied door het peil van de onbevaarbare waterlopen en grachten te sturen via regelbare en vaste constructies of via de inrichting en het beheer van waterlopen en grachten door een waterbeheerder;<br>
+12° bandbreedte: de bovengrens en benedengrens waarbinnen het peil in een onbevaarbare waterloop of gracht mag variëren;<br>
+13° peilregeling: de bandbreedtes in een onbevaarbare waterloop of gracht en de periodes waarin de voormelde bandbreedtes door de waterbeheerder ingesteld en bewaakt worden;<br>
+14° peilzone: een gebied waarin een uniforme peilregeling ingesteld wordt;<br>
+15° regelbare constructie: een beweegbare installatie waarmee het peil van een waterloop gestuurd wordt, zoals een pompgemaal of een stuw;<br>
+16° kwaliteitsbeoordeling : de kwaliteitsbeoordeling van de effectrapportages door de dienst, bevoegd voor milieueffectrapportage, waarin wordt beoordeeld of de effectrapportage voldoet aan de essentiële kenmerken, vermeld in artikel 4.1.4, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, door:<br>
+a) vast te stellen dat geen milieueffectrapport vereist is;<br>
+b) de inhoudsafbakening van het milieueffectrapport te bepalen en het milieueffectrapport daaraan te toetsen.
 
 ## Afdeling 2. Digitale atlas
 
@@ -776,6 +784,158 @@ De waterbeheerder kan gebruikers of eigenaars van gemachtigde constructies op on
 De waterbeheerder legt de verplichting vermeld in het eerste lid op aan de gebruikers of eigenaars van gemachtigde constructies door middel van een beveiligde zending. De waterbeheerder motiveert zijn beslissing op basis van de noodwendigheden van het beheer van de betrokken waterloop en de relevante doelstellingen van het integraal waterbeleid.<br>
 <br>
 Het is verboden de peilschalen, peilspijkers of andere merktekens die aangebracht zijn in opdracht van de waterbeheerder, te verwijderen, onherkenbaar te maken of iets aan de stand of plaats ervan te veranderen.
+
+### ART 26/1.
+
+§1. De waterbeheerder voert een peilbeheer in overeenstemming met de doelstellingen van het integraal waterbeleid, vermeld in artikel 1.2.2 van het gecoördineerd decreet van 15 juni 2018.<br>
+<br>
+§2. De waterbeheerder houdt bij het peilbeheer rekening met onder andere de behoeften inzake milieu, natuur, landschap, economie, landbouw en waterveiligheid die er bestaan in de peilzones.
+
+### ART 26/2.
+
+§1. De waterbeheerder kan de nodige initiatieven nemen om te beschikken over een goedgekeurd peilbesluit voor alle gebieden waar het oppervlaktewaterpeil kunstmatig geregeld wordt.<br>
+<br>
+De minister bepaalt de gebieden waar een peilbesluit prioritair opgemaakt moet worden. De minister houdt hierbij minstens rekening met de volgende criteria:<br>
+-&nbsp;&nbsp; &nbsp;de aanwezigheid van regelbare constructies;<br>
+-&nbsp;&nbsp; &nbsp;het belang van het peilbeheer om de doelstellingen te halen van het integraal waterbeleid, vermeld in artikel 1.2.2 van het gecoördineerd decreet van 15 juni 2018, te realiseren;<br>
+-&nbsp;&nbsp; &nbsp;het belang van het peilbeheer om de doelstellingen te halen van het natuurbeleid, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+-&nbsp;&nbsp; &nbsp;het belang van peilbeheer voor milieu, natuur, landschap, economie, landbouw en waterveiligheid in het gebied;<br>
+-&nbsp;&nbsp; &nbsp;de vaststelling van verdroging en het risico op waterschaarste.<br>
+<br>
+Voor de waterlopen en grachten gelegen in een prioritair gebied moeten de waterbeheerders binnen een termijn van 2 jaar na de aanduiding van het prioritaire gebied een ontwerp van peilbesluit aan de minister voorleggen. De waterbeheerders kunnen binnen de termijn van 2 jaar een gemotiveerd verzoek tot verlenging van deze termijn aan de minister voorleggen. De minister beslist binnen een termijn van 3 maand na ontvangst van het gemotiveerd verzoek of deze verlenging aanvaard kan worden.<br>
+<br>
+De minister evalueert 2-jaarlijks of de aanduiding van bijkomende prioritaire gebieden nodig is.<br>
+<br>
+§2. Waterbeheerders kunnen voor een bepaald gebied samen het initiatief nemen om een peilbesluit als vermeld in paragraaf 1, op te stellen. De waterbeheerders maken in een overeenkomst de noodzakelijke afspraken over de uitvoering van de verschillende taken die nodig zijn om een peilbesluit als vermeld in paragraaf 1, op te stellen, en over de kostenverdeling. De voormelde waterbeheerders wijzen een van de betrokken waterbeheerders aan als coördinerende waterbeheerder om het voormelde peilbesluit op te stellen. De voormelde afspraken kunnen gewijzigd of opgezegd worden op de wijze die in de voormelde overeenkomst bepaald is.&nbsp;<br>
+<br>
+§3. Als de waterbeheerders niet tijdig een peilbesluit als vermeld in paragraaf 1, aan de minister voorleggen, kan de minister een instantie aanwijzen die het voormelde peilbesluit opstelt conform de procedure, vermeld in dit besluit.&nbsp;<br>
+<br>
+§4. Een peilbesluit als vermeld in paragraaf 1, bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de peilregeling voor de peilzones in het gebied waarop het peilbesluit van toepassing is, rekening houdend met de behoeften, vermeld in artikel 26/1, § 2, van dit besluit, waarmee in het gebied rekening moet worden gehouden;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;in voorkomend geval de wijze waarop de peilregeling veranderd is ten opzichte van een vorige versie;<br>
+3°&nbsp;&nbsp; &nbsp;een peilkaart met daarop de begrenzing van het gebied waarop het peilbesluit betrekking heeft, en met de peilzones waarin de verschillende peilregelingen gelden die met het peilbesluit ingesteld worden;<br>
+4°&nbsp;&nbsp; &nbsp;een toelichting bij het besluit die al de volgende elementen bevat:<br>
+a)&nbsp;&nbsp; &nbsp;een overzicht van de onbevaarbare waterlopen en de grachten in het gebied én de regelbare en vaste constructies op de voormelde waterlopen en grachten en inrichtings- en beheermaatregelen die de waterbeheerder kan inzetten om de peilregeling te realiseren;<br>
+b)&nbsp;&nbsp; &nbsp;een overzicht van de verbindingen met de bevaarbare waterwegen;<br>
+c)&nbsp;&nbsp; &nbsp;de wetgeving die voor het peilbeheer in het gebied in kwestie relevant is, en de wijze waarop daarmee is omgegaan;<br>
+d)&nbsp;&nbsp; &nbsp;de geïdentificeerde behoeften, vermeld in artikel 26/1, § 2, van dit besluit, waarmee in het gebied rekening moet worden gehouden;<br>
+e)&nbsp;&nbsp; &nbsp;een grondige motivering van de peilregeling, waarbij rekening gehouden wordt met de verschillende belangen in het gebied;<br>
+f)&nbsp;&nbsp; &nbsp;de peilinstellingen voor de regelbare constructies die ingezet worden om de peilregeling te realiseren;<br>
+g)&nbsp;&nbsp; &nbsp;de meetpunten die in het gebied aanwezig zijn of aangebracht worden om de peilregeling te monitoren;<br>
+5° de kwaliteitsbeoordeling en, in voorkomend geval, de verklaring, vermeld in artikel 4.2.11, § 7, eerste lid, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en, in voorkomend geval, een overzicht van de conclusies van de volgende effectbeoordelingen waarbij aangegeven wordt hoe die geïntegreerd zijn in het plan:<br>
+a)&nbsp;&nbsp; &nbsp;het planmilieueffectrapport;<br>
+b)&nbsp;&nbsp; &nbsp;de passende beoordeling;<br>
+c)&nbsp;&nbsp; &nbsp;andere verplicht voorgeschreven of gemaakte effectenrapporten;<br>
+d)&nbsp;&nbsp; &nbsp;in voorkomend geval de monitoringsmaatregelen in het kader van de uitgevoerde effectbeoordelingen.<br>
+<br>
+§5. Een peilbesluit als vermeld in paragraaf 1, is bindend voor de waterbeheerders, vermeld in paragraaf 1 en 2, en de eigenaars en gebruikers van de onroerende goederen die in het gebied liggen waarop het voormelde peilbesluit betrekking heeft.&nbsp;
+
+### ART 26/3.
+
+§1. In dit artikel wordt verstaan onder afdeling, bevoegd voor milieueffectrapportage: de subentiteit van het Departement Omgeving die bevoegd is voor de milieueffectrapportage.<br>
+<br>
+§2. De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, van dit besluit, stelt een oriëntatienota op via een participatief traject met lokale actoren, eigenaars en gebruikers die al de volgende elementen bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de peilregeling die actueel is ingesteld met een kaart van het gebied waarop die peilregeling betrekking heeft, en, in voorkomend geval, de zones waarin de verschillende bestaande peilregelingen gelden;<br>
+2°&nbsp;&nbsp; &nbsp;de aanwezige regelbare en vaste constructies om de actuele peilregeling te realiseren, en de gehanteerde peilinstellingen van de voormelde regelbare constructies;<br>
+3°&nbsp;&nbsp; &nbsp;de huidige inrichting en het actueel gehanteerde beheer van de waterlopen en grachten met het oog op de peilregeling;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de wetgeving die relevant is voor het peilbeheer in het gebied in kwestie;<br>
+5°&nbsp;&nbsp; &nbsp;de relevante info uit de bodemkaart van het gebied;<br>
+6°&nbsp;&nbsp; &nbsp;de geïdentificeerde behoeften, vermeld in artikel 26/1, § 2, van dit besluit;&nbsp;<br>
+7°&nbsp;&nbsp; &nbsp;een kaart met daarop de begrenzing van het gebied waarvoor de waterbeheerder of de coördinerende waterbeheerder een peilbesluit als vermeld in artikel 26/2, §4, van dit besluit, wil opmaken;<br>
+8°&nbsp;&nbsp; &nbsp;in voorkomend geval de kennisgeving van het voorgenomen plan-milieueffectrapport, vermeld in artikel 4.2.8, §1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+§3. De waterbeheerder of de coördinerende waterbeheerder vraagt advies aan de volgende instanties over de oriëntatienota, vermeld in paragraaf 2:<br>
+1°&nbsp;&nbsp; &nbsp;het college van burgemeester en schepenen van de gemeenten waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft;<br>
+2°&nbsp;&nbsp; &nbsp;de overige waterbeheerders die waterlopen of publieke grachten beheren in het gebied in kwestie;<br>
+3°&nbsp;&nbsp; &nbsp;het Agentschap voor Natuur en Bos;<br>
+4°&nbsp;&nbsp; &nbsp;het Departement Landbouw en Visserij;<br>
+5°&nbsp;&nbsp; &nbsp;het Agentschap Onroerend Erfgoed als een cultuurhistorisch landschap als vermeld in artikel 2.1, 22°, van het Onroerenderfgoeddecreet van 12 juli 2013, deel uitmaakt van het gebied waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft, of daaraan paalt;<br>
+6°&nbsp;&nbsp; &nbsp;in voorkomend geval de afdeling, bevoegd voor milieueffectrapportage;<br>
+7°&nbsp;&nbsp; &nbsp;de deputatie van de provincie(s) waarin het grondgebied ligt waarop het peilbesluit betrekking heeft;<br>
+8°&nbsp;&nbsp; &nbsp;de Vlaamse Milieumaatschappij;<br>
+9°&nbsp;&nbsp; &nbsp;de exploitant van een openbaar waterdistributienetwerk als het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, van toepassing is op waterlopen die gebruikt worden voor de onttrekking van de productie van water, bestemd voor menselijke consumptie;<br>
+10°&nbsp;&nbsp; &nbsp;de CIW;<br>
+11°&nbsp;&nbsp; &nbsp;in voorkomend geval een ander gewest, een andere lidstaat van de Europese Unie of de federale overheid als uit de aanmelding, vermeld in paragraaf 2, 8°, blijkt dat het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken.<br>
+<br>
+De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, bezorgt de oriëntatienota, vermeld in , §2, aan de adviesinstanties, vermeld in het eerste lid. De adviesinstanties, vermeld in het eerste lid, met uitzondering van punt 6°, geven advies binnen zestig dagen nadat ze de adviesvraag, vermeld in het eerste lid, hebben ontvangen. Als er geen advies wordt verleend binnen de voormelde termijn, wordt het advies geacht gunstig te zijn.&nbsp;<br>
+<br>
+De afdeling, bevoegd voor milieueffectrapportage, neemt een beslissing over de opstellers van het plan-MER, vermeld in artikel 4.2.9. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en deelt haar beslissing mee aan de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, van dit besluit, binnen zestig dagen nadat ze de adviesvraag heeft ontvangen.<br>
+<br>
+§4. Op basis van de adviezen, vermeld in paragraaf 3, wordt de oriëntatienota, vermeld in paragraaf 2, aangepast waar dat nodig is. Op basis van de voormelde oriëntatienota maakt de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, een ontwerp van peilbesluit op.<br>
+<br>
+Voor de goedkeuringsprocedure van het peilbesluit worden de volgende documenten opgesteld:<br>
+1°&nbsp;&nbsp; &nbsp;een ontwerp van peilregeling, een peilkaart en een toelichting bij het peilbesluit als vermeld in artikel 26/2, §4, tweede lid, 4°, van dit besluit, dat gebaseerd is op de oriëntatienota, vermeld in paragraaf 2, en een gemotiveerde afweging van de behoeften, vermeld in artikel 26/1, § 2, van dit besluit. Er wordt een overzicht toegevoegd van de knelpunten die met de bestaande inrichting van het gebied, met de bestaande regelbare of vaste constructies en de huidige inrichting en het beheer van de waterlopen en grachten niet of niet volledig opgelost kunnen worden;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een actieplan om de knelpunten, vermeld in punt 1°, te remediëren, met daarin de maatregelen die daarvoor nodig zijn, de vermelding welke waterbeheerder of andere instantie de voormelde maatregelen neemt en binnen welke termijn dat gebeurt;<br>
+3°&nbsp;&nbsp; &nbsp;een passende beoordeling als vermeld in artikel 36ter, §3, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of een VEN-toets als vermeld in artikel 26bis van het voormelde decreet;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;een ontwerp van plan-milieueffectrapport, of een gemotiveerd verzoek tot ontheffing van de rapportageverplichting als vermeld in artikel 4.2.3, §3bis, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, of een m.e.r.-screeningsnota als vermeld in artikel 4.2.3, §2 2°, van het voormelde decreet.<br>
+<br>
+In voorkomend geval wordt het gemotiveerde verzoek tot ontheffing van de rapportageverplichting, vermeld in het tweede lid, 4°, ingediend bij de afdeling, bevoegd voor milieueffectrapportage. De definitieve beslissing over de voormelde ontheffing wordt toegevoegd aan het ontwerp van peilbesluit.<br>
+<br>
+§5. Over het ontwerp van peilbesluit, vermeld in paragraaf 4, en, in voorkomend geval, over het ontwerp plan-MER wordt een openbaar onderzoek georganiseerd door de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2.&nbsp;<br>
+<br>
+De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, en de betrokken gemeenten maken het openbaar onderzoek uiterlijk de dag voor de begindatum van het openbaar onderzoek bekend op een opvallende plaats op hun website(s) die voor bekendmakingen geëigend is.<br>
+<br>
+Het gemeentebestuur hangt minstens aan het gemeentehuis gedurende zestig dagen vanaf de dag voor de begindatum van het openbaar onderzoek een bekendmaking op die al de volgende gegevens bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de begindatum en de einddatum van het openbaar onderzoek;<br>
+2°&nbsp;&nbsp; &nbsp;een korte omschrijving van het doel van het openbaar onderzoek;<br>
+3°&nbsp;&nbsp; &nbsp;de website waar het ontwerp van peilbesluit, vermeld in paragraaf 4, raadpleegbaar is;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de termijn waarin opmerkingen over de documenten die ter inzage gelegd zijn, ingediend kunnen worden, en de wijze waarop dat gebeurt.<br>
+<br>
+§6. Bezwaren en opmerkingen over het ontwerp van peilbesluit en het ontwerp van plan-MER, vermeld in paragraaf 4, kunnen uiterlijk de laatste dag van de termijn van het openbaar onderzoek, vermeld in paragraaf 5, digitaal ingediend worden via het inspraakformulier op de website van de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, of analoog met een beveiligde zending op het gemeentehuis.<br>
+<br>
+De algemeen directeur of zijn gemachtigde stelt binnen vijftien dagen na de laatste dag van het openbaar onderzoek een proces-verbaal op van het openbaar onderzoek, vermeld in paragraaf 5. Het proces-verbaal bevat een inventaris van de bezwaren en opmerkingen die ingediend zijn tijdens het voormelde openbaar onderzoek.<br>
+<br>
+De algemeen directeur of zijn gemachtigde bezorgt zo snel mogelijk het proces-verbaal en de ontvangen bezwaren en opmerkingen aan de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2.<br>
+<br>
+De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, bezorgt de processen-verbaal van het openbaar onderzoek en de ontvangen bezwaren, opmerkingen en adviezen aan de afdeling, bevoegd voor milieueffectrapportage.<br>
+<br>
+§7. Over het ontwerp van peilbesluit, vermeld in paragraaf 4, wordt advies gevraagd aan de adviesinstanties, vermeld in paragraaf 3, eerste lid.<br>
+<br>
+De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, bezorgt de documenten, vermeld in paragraaf 4, aan de adviesinstanties, vermeld in paragraaf 3, eerste lid.<br>
+<br>
+De adviesinstanties, vermeld in paragraaf 3, eerste lid, met uitzondering van punt 6°, geven advies binnen zestig dagen nadat ze de adviesvraag, vermeld in het eerste lid, hebben ontvangen. Als er geen advies wordt verleend binnen de voormelde termijn, wordt het advies geacht gunstig te zijn.<br>
+<br>
+§8. Als het ontwerp van peilbesluit, vermeld in paragraaf 4, een ontwerp van plan-MER omvat, beslist de afdeling, bevoegd voor milieueffectrapportage, over de goedkeuring of afkeuring van het plan-MER met toepassing van artikel 4.2.11, §4, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.&nbsp;<br>
+<br>
+De afdeling, bevoegd voor milieueffectrapportage, bezorgt haar beslissing over de plan-MER aan de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, binnen dertig dagen na de indiening van het verslag van het openbaar onderzoek en van de adviesronde, vermeld in het §6.&nbsp;<br>
+<br>
+Als de afdeling, bevoegd voor milieueffectrapportage, het milieueffectrapport afkeurt, wordt de goedkeuringsprocedure van het ontwerp van peilbesluit van rechtswege stopgezet.<br>
+<br>
+§9. De waterbeheerder past het ontwerp van peilbesluit, vermeld in paragraaf 4, aan de resultaten van het openbaar onderzoek aan, vermeld in paragraaf 5 en 6, en aan de adviezen, vermeld in paragraaf 7, binnen negentig dagen na het einde van het openbaar onderzoek en de adviesronde, vermeld in paragraaf 5 en 7.&nbsp;<br>
+<br>
+Aan de documenten, vermeld in paragraaf 4, tweede lid, kunnen alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de adviezen, vermeld in paragraaf 7, en de vragen, opmerkingen en bezwaren uit het openbaar onderzoek, vermeld in paragraaf 5 en 6.<br>
+<br>
+De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, bezorgen de volgende stukken aan de minister:<br>
+1°&nbsp;&nbsp; &nbsp;het aangepaste peilbesluit, vermeld in het eerste lid;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de documenten, vermeld in paragraaf 4, tweede lid;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de ontvangen bezwaren en opmerkingen van het openbaar onderzoek, vermeld in paragraaf 6;<br>
+4°&nbsp;&nbsp; &nbsp;de goedkeuringsbeslissing van de afdeling bevoegd voor milieueffectrapportage.&nbsp;<br>
+<br>
+De minister houdt bij de beslissing onder meer rekening met de resultaten van het openbaar onderzoek, vermeld in paragraaf 5 en 6, en met de inhoud van de adviezen, vermeld in paragraaf 7 en met de beslissing van de afdeling bevoegd voor milieueffectrapportage, vermeld in paragraaf 8.<br>
+<br>
+De minister neemt binnen een termijn van 90 dagen een gemotiveerde beslissing omtrent het peilbesluit.<br>
+<br>
+§10. Het goedgekeurde peilbesluit wordt tegelijkertijd bekendgemaakt op de website van de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, en op een digitaal platform over geografische informatie van de Vlaamse overheid.<br>
+<br>
+Het ministerieel besluit tot goedkeuring van het peilbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§11. In voorkomend geval wordt de beslissing tot afkeuring van het plan-milieueffectrapportage of de beslissing tot afkeuring van het peilbesluit bekendgemaakt op de dezelfde wijze als §10.
+
+### ART 26/4.
+
+§1. Een peilbesluit als vermeld in artikel 26/2, §4 blijft van kracht tot de minister de wijziging ervan goedkeurt.&nbsp;<br>
+<br>
+§2. Ten minste om de zes jaar evalueert de waterbeheerder of de coördinerende waterbeheerder in overleg met de andere betrokken waterbeheerders het peilbesluit, vermeld in 26/2, § 4.<br>
+<br>
+Bij de evaluatie worden ten minste de gerealiseerde peilen in relatie tot de beoogde peilen beoordeeld en wordt een stand van zaken van het actieplan, vermeld in artikel 26/3, §4 opgemaakt.&nbsp;<br>
+<br>
+§3. Over de stukken die deel uitmaken van de evaluatie, vermeld in paragraaf 2, wordt het advies ingewonnen van de adviesinstanties, vermeld in artikel 26/3. §3, eerste lid.&nbsp;<br>
+<br>
+De voormelde adviesinstanties geven advies binnen zestig dagen nadat ze de adviesvraag, vermeld in het eerste lid, hebben ontvangen. Als er geen advies wordt verleend binnen de voormelde termijn, kan aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+Nadat de waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, de ontvangen adviezen verwerkt hebben, worden de definitieve evaluatie en de stand van zaken van het actieplan, vermeld in artikel 26/3, §4, aan de minister bezorgd.<br>
+<br>
+§4. Als uit de evaluatie van het peilbesluit, vermeld in paragraaf 2, blijkt dat een wijziging van het peilbesluit nodig is, wordt de procedure, vermeld in artikel 26/3, §4 tot en met §9, toegepast.
 
 ## Afdeling 7. Onttrekken van water uit onbevaarbare waterlopen en publieke grachten
 
