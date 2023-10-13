@@ -322,7 +322,7 @@ Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend
 
 ### ART 31.
 
-De hinderpremie wordt pro rata temporis teruggevorderd binnen vijf jaar na de datum van de aanvraag als de voorwaarden van het decreet van 15 juli 2016 en de uitvoeringsbesluiten ervan niet worden nageleefd, tenzij de niet-naleving het gevolg is van overmacht.
+De hinderpremie wordt pro rata temporis teruggevorderd als de voorwaarden van het decreet van 15 juli 2016 en de uitvoeringsbesluiten ervan niet worden nageleefd, tenzij de niet-naleving het gevolg is van overmacht.
 
 ### ART 32.
 

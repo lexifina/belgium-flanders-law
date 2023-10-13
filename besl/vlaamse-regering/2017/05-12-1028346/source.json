@@ -2,16 +2,16 @@
   "codex_id": 1028346,
   "title": "Besluit van de Vlaamse Regering van 2017-05-12 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028346/VolledigDocument?datum=2023-01-16",
-  "source_sha256": "8b3bbff3aa0a97aa984123d30d03e7e95017af212aa65c7454f6ee7d9290e2c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028346/VolledigDocument?datum=2023-10-13",
+  "source_sha256": "caae4a60c84f296d14ce37e8813348b4ed93ec2370bba63db989583171b8d124",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028346&param=informatie",
-  "as_of": "2023-01-16",
+  "as_of": "2023-10-13",
   "made": "2017-05-12",
   "gazette": "2017-06-20",
   "numac": 2017012614,
   "document_start": "2017-07-01",
   "document_end": null,
-  "in_force": "2023-01-16",
+  "in_force": "2023-10-13",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2023-01-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
 }
