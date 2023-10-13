@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038678,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-30 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038678/VolledigDocument?datum=2023-10-13",
+  "source_sha256": "9c76d0d776e68fab837cafb16088636c9f6d1756a8d3355cb6a8bcfb12832993",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038678&param=informatie",
+  "as_of": "2023-10-13",
+  "made": "2023-06-30",
+  "gazette": "2023-10-03",
+  "numac": 2023044396,
+  "document_start": "2023-10-13",
+  "document_end": null,
+  "in_force": "2023-10-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
