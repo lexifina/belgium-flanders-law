@@ -323,7 +323,10 @@ De aanvraag tot uitbetaling wordt door de onderneming ingediend via de website e
 
 ### ART. 27.
 
-De subsidie wordt teruggevorderd binnen tien jaar na de indieningsdatum   van de steunaanvraag in geval van :<BR>1° faillissement, vereffening,   boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het   kader van een sociaaleconomische herstructureringsoperatie met   tewerkstellingsafbouw tot gevolg, als die feiten zich voordoen binnen vijf jaar   na de beëindiging van de ecologie-investeringen;<BR>2° niet-naleving van de   wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen   vijf jaar na de beëindiging van de ecologie-investeringen;<BR>3° niet-naleving   van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit   besluit of de uitvoeringsbesluiten binnen een periode van vijf jaar na de   beëindiging van de ecologie-investeringen.
+De subsidie wordt teruggevorderd in geval van :<br>
+1° faillissement, vereffening, boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het kader van een sociaaleconomische herstructureringsoperatie met tewerkstellingsafbouw tot gevolg, als die feiten zich voordoen binnen vijf jaar na de beëindiging van de ecologie-investeringen;<br>
+2° niet-naleving van de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen vijf jaar na de beëindiging van de ecologie-investeringen;<br>
+3° niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten binnen een periode van vijf jaar na de beëindiging van de ecologie-investeringen.
 
 ### ART. 28.
 
