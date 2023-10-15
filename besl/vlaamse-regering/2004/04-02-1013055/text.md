@@ -126,4 +126,12 @@ De Vlaamse minister, bevoegd voor het leefmilieu, is belast met de uitvoering va
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/03/02_2.pdf#page=3" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a> <br /><br />[nvdr: de deelformulieren « Afvalstoffen » en « Ingevoerde afvalstoffen door verwerkers » werden vervangen door de deelformulieren « Afvalstoffenmelding voor producenten » en « Ingevoerde afvalstoffen door verwerkers » bij BVR 17 februari 2012, art.10.4.4., met ingang van 1 juni 2012:<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/23_1.pdf#page=142" title=" bijlage" target="_blank" class="pdf">bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/03/02_2.pdf#page=3" target="_blank">Bijlage 1</a><br>
+<br>
+* de deelformulieren « Afvalstoffen » en « Ingevoerde afvalstoffen door verwerkers » werden vervangen door de deelformulieren « Afvalstoffenmelding voor producenten » en « Ingevoerde afvalstoffen door verwerkers » bij BVR 17 februari 2012, art.10.4.4., met ingang van 1 juni 2012:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/23_1.pdf#page=142" target="_blank">bijlage</a><br>
+<br>
+* bij artikel 5 van hte BVR van 23 juni 2023 wordt een deelformulier "productievolumes" toegevoegd:<br>
+<br>
+<a href="https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038677&amp;param=inhoud&amp;AID=1325782">deelformulier productievolumes</a>
