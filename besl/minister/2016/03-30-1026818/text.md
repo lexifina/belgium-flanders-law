@@ -13,7 +13,7 @@ In dit besluit wordt verstaan onder :<br>
 2° Agentschap Innoveren en Ondernemen : het intern verzelfstandigd agentschap, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 18 december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van zijn activiteiten aan het Agentschap Innoveren en Ondernemen;<br>
 3° besluit van 26 februari 2016 : het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
 4° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
-5° dienstverlener : de dienstverlener, vermeld in artikel 9, eerste lid, 1°, van het besluit van 26 februari 2016;<br>
+5° dienstverlener : de dienstverlener, vermeld in artikel 9, eerste lid, 1°/1, van het besluit van 26 februari 2016;<br>
 6° eigen aandeel : het deel van de in aanmerking komende kosten dat de kleine of middelgrote onderneming moet dragen met toepassing van artikel 18 van het besluit van 26 februari 2016;<br>
 7° financieel beheerder : de instelling die belast is met het financiële beheer van het webplatform kmo-portefeuille;<br>
 8° in aanmerking komende kosten : de kosten, vermeld in artikel 31;<br>
@@ -108,7 +108,9 @@ Het Agentschap Innoveren en Ondernemen stelt de geregistreerde dienstverlener in
 
 De minister kan om gemotiveerde redenen een dienst schrappen uit de lijst met ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties bij vaststelling dat deze dienst niet voldoet aan de voorwaarden vermeld in het decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de overige uitvoeringsbesluiten.<br>
 <br>
-De minister kan hiervoor het advies van het Agentschap Innoveren en Ondernemen en de kwaliteitskamer, als vermeld in artikel 26/1 van het besluit van 26 februari 2016, inwinnen.
+De minister kan hiervoor het advies van het Agentschap Innoveren en Ondernemen en de kwaliteitskamer, als vermeld in artikel 26/1 van het besluit van 26 februari 2016, inwinnen.<br>
+<br>
+Het Agentschap Innoveren en Ondernemen schrapt een dienst uit de lijst, vermeld in het eerste lid, als de dienstverlener daar schriftelijk om vraagt.
 
 ## HOOFDSTUK 4 Voorwaarden en verplichtingen van de dienstverleners
 
