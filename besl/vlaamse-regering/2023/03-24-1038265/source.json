@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038265,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-24 tot goedkeuring van de programmatie van structuuronderdelen in het gewoon voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038265/VolledigDocument?datum=2023-10-19",
+  "source_sha256": "64080c38a8c93f49b74916155a0bebebe92e7fa3276f140f1d7d684ed7c37309",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038265&param=informatie",
+  "as_of": "2023-10-19",
+  "made": "2023-03-24",
+  "gazette": "2023-10-09",
+  "numac": 2023041847,
+  "document_start": "2023-10-19",
+  "document_end": null,
+  "in_force": "2023-10-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
