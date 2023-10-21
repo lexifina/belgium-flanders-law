@@ -11,7 +11,7 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 <p>In dit besluit wordt verstaan onder :<br>
 1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
 2° ILVO : het Instituut voor Landbouw- en Visserijonderzoek;<br>
-3° koper : een levensmiddelenbedrijf dat over een toelating beschikt met toepassing van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere regels van de erkenningen, toelatingen en voorafgaande registraties afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
+3° koper: een onderneming die rauwe melk koopt bij een melkproductiebedrijf om die rauwe melk in het kader van een contract in te zamelen, te verpakken, op te slaan, te koelen of te verwerken, of door te verkopen aan een of meer ondernemingen die melk of andere zuivelproducten behandelen of verwerken;<br>
 4° ladingsverrichting : de fysieke overbrenging van een hoeveelheid melk vanuit een koeltank van de producent naar een erkende RMO met behulp van een pompsysteem dat op de RMO geplaatst is;<br>
 5° melk : het product dat verkregen wordt door een of meer koeien te melken;<br>
 6° melklevering : de hoeveelheid melk, geregistreerd per ladingsverrichting en geleverd door de producent aan de koper;<br>
@@ -31,12 +31,12 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART 1/2.
 
-Iedere koper die als onderneming rauwe melk wil kopen bij een melkproductiebedrijf om die rauwe melk in het kader van een contract in te zamelen, te verpakken, op te slaan, te koelen of te verwerken, of door te verkopen aan een of meer ondernemingen die melk of andere zuivelproducten behandelen of verwerken, moet erkend zijn door de bevoegde entiteit of door de bevoegde overheid van het Waalse Gewest.<br>
+Iedere koper moet erkend zijn door de bevoegde entiteit of door de bevoegde overheid van het Waalse Gewest.<br>
 <br>
 Een koper kan erkend worden in het Vlaamse Gewest als hij aan al de volgende voorwaarden voldoet:<br>
 1° hij beschikt over een ondernemingsnummer in de Kruispuntbank van Ondernemingen bij de FOD Economie;<br>
 2° zijn maatschappelijke zetel ligt in het Vlaamse Gewest;<br>
-3° hij voldoet aan de definitie van koper, vermeld in artikel 1, 3°.
+3° ...
 
 ### ART 1/3.
 
