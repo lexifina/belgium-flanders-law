@@ -18,6 +18,12 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 29, tweede lid, van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers worden punt 3° en 4° vervangen door wat volgt:<br>
+“3° een bekwaamheidsattest van verzorgende-zorgkundige als vermeld in artikel 3, §1, eerste lid, van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige;<br>
+4° een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen die leiden tot een bekwaamheidsattest als vermeld in punt 3°;”.
+
 ### ART 2.
 
 In bijlage 2 bij hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, wordt een artikel 65/1 ingevoegd, dat luidt als volgt:<br>
@@ -47,3 +53,11 @@ In artikel 65/1, §3, van bijlage 2 bij hetzelfde besluit, ingevoegd bij artikel
 ### ART 4.
 
 In artikel 69, eerste lid, van bijlage 2 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 11 februari 2022, wordt tussen de zinsnede “artikel 52, eerste en derde lid,” en de woorden “van deze bijlage” de zinsnede “en artikel 65/1, §2, tweede lid,” ingevoegd.
+
+### ART 5.
+
+Artikel 2 en 4 hebben uitwerking met ingang van 1 januari 2023, en artikel 3 heeft uitwerking met ingang van 1 juni 2023.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, is belast met de uitvoering van dit besluit.
