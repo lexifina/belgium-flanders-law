@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038967,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-20 tot goedkeuring van de lokale ontwikkelingsstrategieën en de toekenning van de Vlaamse cofinanciering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038967/VolledigDocument?datum=2023-10-23",
+  "source_sha256": "a80acd4ea36722885262cf7e84e54e612183bbc2650214150a179d6a528a6892",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038967&param=informatie",
+  "as_of": "2023-10-23",
+  "made": "2023-10-20",
+  "gazette": "2023-11-22",
+  "numac": 2023046984,
+  "document_start": "2023-10-23",
+  "document_end": null,
+  "in_force": "2023-10-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
