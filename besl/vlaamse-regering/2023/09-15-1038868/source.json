@@ -2,16 +2,16 @@
   "codex_id": 1038868,
   "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de subsidiëring en financiering van sociale huurwoningen en tot wijziging van de programmatiecyclus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038868/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "14eec12d55d912c6ed5b63c974aef4eca311cfeea7e2dcf157e1b4e3eb8dac6a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038868/VolledigDocument?datum=2023-10-23",
+  "source_sha256": "477b94b4ffc41e32bf9d2fa599c2f0d188748856de474d334fc6dec49a5e0c8a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038868&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-10-23",
   "made": "2023-09-15",
   "gazette": "2023-10-13",
   "numac": 2023046234,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-10-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-10-23; future article versions excluded; article text as the API gives it"
 }

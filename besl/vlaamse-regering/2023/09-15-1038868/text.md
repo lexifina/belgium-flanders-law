@@ -21,3 +21,13 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 14.
 
 In artikel 5.76, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021 en 10 november 2022, wordt punt 14° opgeheven.
+
+### ART 23.
+
+Artikel 14 heeft uitwerking met ingang van 1 januari 2023.<br>
+<br>
+Artikel 1 tot en met 13 en artikel 15 tot en met 22 treden in werking op 1 november 2023.
+
+### ART 24.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
