@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038801,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het besluit van de Vlaamse Regering van 9 juni 2023 betreffende de exploitatievoorwaarden voor het individueel bezoldigd personenvervoer, wat betreft de emissienormen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038801/VolledigDocument?datum=2023-10-27",
+  "source_sha256": "04d8f904bf2862c16016cb72a40796cee986fa93d8886a9e4ce5b6fb7dd4c2f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038801&param=informatie",
+  "as_of": "2023-10-27",
+  "made": "2023-09-08",
+  "gazette": "2023-10-17",
+  "numac": 2023045616,
+  "document_start": "2023-10-27",
+  "document_end": null,
+  "in_force": "2023-10-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
