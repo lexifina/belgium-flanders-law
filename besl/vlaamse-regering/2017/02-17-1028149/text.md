@@ -183,15 +183,13 @@ De maatwerkafdeling bezorgt het duurzaamheidsverslag jaarlijks uiterlijk op 31 j
 
 Personen die beschikken over een advies collectief maatwerk komen in aanmerking voor ondersteuning als doelgroepwerknemer.<br>
 <br>
-De VDAB kent het advies collectief maatwerk toe aan de persoon die aan een van de volgende voorwaarden voldoet:<br>
-1° de persoon behoort tot een van de categorieën, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap, en heeft behoefte aan werkondersteunende maatregelen;<br>
-2° de persoon heeft een arbeidsbeperking, op grond van een indicering op basis van de indicaties, vermeld in artikel 13 van dit besluit, uitgevoerd door de VDAB of door een door de VDAB aangewezen dienstverlener, die een behoefte aan werkondersteunende maatregelen aangeeft.<br>
+De VDAB kent een advies collectief maatwerk toe aan de persoon die aan een van de volgende voorwaarden voldoet:<br>
+1°&nbsp;&nbsp; &nbsp;de persoon behoort tot een van de categorieën, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap, en heeft behoefte aan werkondersteunende maatregelen;<br>
+2°&nbsp;&nbsp; &nbsp;de persoon heeft een arbeidsbeperking, op grond van een indicering op basis van de indicaties, vermeld in artikel 13 van dit besluit, die de VDAB of een dienstverlener die de VDAB heeft aangewezen, heeft uitgevoerd, die een behoefte aan werkondersteunende maatregelen aangeeft.<br>
 <br>
-De VDAB kent het advies collectief maatwerk toe aan een uiterst kwetsbare persoon die aan de volgende voorwaarden voldoet:<br>
-1° de persoon is minimaal 24 maanden niet-werkend werkzoekend, als vermeld in artikel 1, eerste lid, 8°, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-2° de persoon heeft een arbeidsbeperking, op grond van een indicering op basis van de indicaties bedoeld in artikel 13, uitgevoerd door de VDAB of een door de VDAB aangewezen dienstverlener, die gedurende maximaal twee jaar een behoefte aan werkondersteunende maatregelen aangeeft.<br>
+Het advies collectief maatwerk, vermeld in het tweede lid, vervalt na vijf jaar als de persoon nog werkzoekend is. De VDAB stelt in voorkomend geval opnieuw de behoefte aan werkondersteunende maatregelen vast van de voormelde persoon.<br>
 <br>
-Het advies collectief maatwerk vervalt na vijf jaar als de persoon nog werkzoekend is. De VDAB stelt in voorkomend geval opnieuw zijn behoefte aan werkondersteunende maatregelen vast.
+Met behoud van de toepassing van het tweede en derde lid kent de VDAB een advies collectief maatwerk toe aan de uiterst kwetsbare persoon, vermeld in artikel 3, 2°, c), van het decreet van 12 juli 2013, die op grond van een indicering op basis van de indicaties, vermeld in artikel 13 van dit besluit, die de VDAB of een dienstverlener die de VDAB heeft aangewezen, heeft uitgevoerd, gedurende maximaal twee jaar een behoefte aan werkondersteunende maatregelen heeft.
 
 ### ART 13.
 
@@ -221,7 +219,7 @@ In afwijking van het eerste lid, kan de VDAB op verzoek van de doelgroepwerkneme
 <br>
 § 2. De VDAB bezorgt aan het maatwerkbedrijf of de maatwerkafdeling en de doelgroepwerknemer een evaluatieformulier.<br>
 <br>
-Het maatwerkbedrijf en de maatwerkafdeling registreren hun evaluatieformulier minimaal tien dagen voor de aanvang van het evaluatiegesprek in de databank die de VDAB daarvoor beheert.<br>
+Het maatwerkbedrijf en de maatwerkafdeling registreren hun evaluatieformulier en het persoonlijk ontwikkelingsplan minimaal tien dagen voor de aanvang van het evaluatiegesprek in de databank die de VDAB daarvoor beheert.<br>
 <br>
 De evaluatie, vermeld in paragraaf 1, vindt minimaal plaats aan de hand van:<br>
 1° het persoonlijk ontwikkelingsplan;<br>
@@ -279,7 +277,7 @@ De termijn, vermeld in het eerste lid, wordt geschorst zolang het departement de
 
 Het departement legt zijn advies voor aan de Adviescommissie Sociale Economie.<br>
 <br>
-De aanvraag wordt op de eerstvolgende adviescommissie na voorlegging van het advies geagendeerd.<br>
+De Adviescommissie Sociale Economie organiseert een overleg binnen zestig dagen na de datum waarop de aanvrager de beslissing over de ontvankelijkheid, vermeld in artikel 18, heeft ontvangen.<br>
 <br>
 De onderneming die haar aanvraag wil toelichten voor de Adviescommissie Sociale Economie ontvangt minimaal veertien kalenderdagen voor de zitting een uitnodiging van het departement.
 
@@ -329,7 +327,7 @@ Het departement beoordeelt de ontvankelijkheid van de aanvraag binnen zeven kale
 
 ### ART 28.
 
-Het departement onderzoekt de aanvragen binnen veertien kalenderdagen na de ontvankelijkheidsverklaring.
+Het departement onderzoekt de aanvragen binnen dertig kalenderdagen na de ontvankelijkheidsverklaring.
 
 ### ART 29.
 
@@ -456,24 +454,21 @@ De kosten die in aanmerking komen zoals vermeld in artikel 35, punt 2, a) en b),
 
 § 1. Het maatwerkbedrijf en de maatwerkafdeling maken conform artikel 15, tweede lid, 1° en 3°, van het decreet van 12 juli 2013 in overleg met de doelgroepwerknemer een persoonlijk ontwikkelingsplan op dat tot doel heeft de competenties van de doelgroepwerknemer op te volgen en te ontwikkelen met het oog op zijn functioneren op de werkvloer en zijn kansen om door te stromen.<br>
 <br>
-Het persoonlijk ontwikkelingsplan omvat een actieplan op maat van de doelgroepwerknemer met daarin minimaal:<br>
-1° zijn persoonsgegevens;<br>
-2° zijn huidige generieke en technische competenties;<br>
-3° zijn toekomstige generieke en technische competenties;<br>
-4° de opgave van een verbeteractie voor zijn generieke competenties;<br>
-5° de opgave van een verbeteractie voor zijn technische competenties.<br>
+Het persoonlijk ontwikkelingsplan omvat een actieplan op maat van de doelgroepwerknemer dat al de volgende elementen bevat:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens van de doelgroepwerknemer;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de huidige generieke en technische competenties van de doelgroepwerknemer;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de toekomstige generieke en technische competenties van de doelgroepwerknemer;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;minimaal twee verbeteracties voor de generieke of technische competenties van de doelgroepwerknemer.<br>
 <br>
 In het tweede lid, 2°, wordt verstaan onder generieke competenties: de competenties die betrekking hebben op de wijze waarop de doelgroepwerknemer omgaat met informatie, taken, relaties, en het eigen functioneren op de werkvloer in een concrete dagelijkse werksituatie.<br>
 <br>
 In het tweede lid, 3°, wordt verstaan onder technische competenties: de noodzakelijke competenties om verwachte resultaten op de werkvloer die eigen zijn aan een welbepaalde functie te realiseren.<br>
 <br>
-§ 2. Het departement bezorgt aan het maatwerkbedrijf en de maatwerkafdeling een model van persoonlijk ontwikkelingsplan.<br>
-<br>
-§ 3. Het maatwerkbedrijf en de maatwerkafdeling registeren het persoonlijk ontwikkelingsplan, alsook elke wijziging ervan, in de databank die de VDAB daarvoor beheert. De VDAB kan het persoonlijk ontwikkelingsplan raadplegen met het oog op de evaluatie, vermeld in artikel 15, § 1.
+§ 2. Het departement bezorgt aan het maatwerkbedrijf en de maatwerkafdeling een model van persoonlijk ontwikkelingsplan.
 
 ### ART 42.
 
-Het maatwerkbedrijf en de maatwerkafdeling richten de verbeteracties, vermeld in artikel 41, § 1, tweede lid, 4° en 5°, op doorstroom bij doelgroepwerknemers met een lage begeleidingsbehoefte.
+Het maatwerkbedrijf en de maatwerkafdeling richten de verbeteracties, vermeld in artikel 41, §1, tweede lid, 4°, op doorstroom bij doelgroepwerknemers met een lage begeleidingsbehoefte.
 
 ### ART 43.
 
@@ -558,6 +553,7 @@ Bij aanwerving door het maatwerkbedrijf en de maatwerkafdeling bedraagt de onder
 3° een loonpremie van 45% als vermeld in artikel 34, eerste lid, 2°, en een hoge intensiteit van begeleiding op de werkvloer voor de doelgroepwerknemer, vermeld in artikel 12, tweede lid, 1° en 2°, met een geattesteerde of geïndiceerde hoge begeleidingsbehoefte;<br>
 4° een loonpremie van 45% als vermeld in artikel 34, eerste lid, 2°, en een gemiddelde intensiteit van begeleiding op de werkvloer voor de doelgroepwerknemer, vermeld in artikel 12, tweede lid, 1° en 2°, met een geattesteerde of geïndiceerde gemiddelde begeleidingsbehoefte;<br>
 5° een loonpremie van 45% als vermeld in artikel 34, tweede lid, en een lage intensiteit van begeleiding op de werkvloer, voor de doelgroepwerknemer, vermeld in artikel 12, derde lid.<br>
+6° een loonpremie van 45% als vermeld in artikel 34, eerste lid, 2°, en een gemiddelde intensiteit van begeleiding op de werkvloer voor de doelgroepwerknemer, vermeld in artikel 12, tweede lid, 1° en 2°, die wordt wedertewerkgesteld als vermeld in artikel 57/1.<br>
 <br>
 Het departement evalueert uiterlijk om de twee jaar de ondersteuningsgraad in functie van de tewerkstellingskansen van de doelgroepwerknemers met de hoogste ondersteuningsbehoefte.
 
@@ -588,7 +584,9 @@ De minister brengt de Vlaamse Regering op de hoogte van de attesten en indicatie
 
 De steun voor sociale dienstverlening voor de doelgroepwerknemer, vermeld in artikel 19, tweede lid, 3°, van het decreet van 12 juli 2013, moet aan de volgende voorwaarden voldoen:<br>
 1° de sociale dienstverlening is duidelijk zichtbaar binnen het organigram van de onderneming;<br>
-2° minimaal één werknemer met een bachelordiploma sociaal werk of gelijkwaardig bekleedt de functie van de sociale dienstverlening binnen het maatwerkbedrijf.
+2° minimaal één werknemer met een bachelordiploma sociaal werk bekleedt de functie van de sociale dienstverlening binnen het maatwerkbedrijf.<br>
+<br>
+De minister kan de diplomavoorwaarde, vermeld in het eerste lid, 2°, uitbreiden met diplomavoorwaarden of werkervaringen die de minister gelijkwaardig acht.
 
 ### ART 55.
 
@@ -933,6 +931,7 @@ De Adviescommissie Sociale Economie is samengesteld uit:<br>
 7° een vertegenwoordiger van het departement;<br>
 8° een vertegenwoordiger van de VDAB;<br>
 9° een vertegenwoordiger van de SERV.<br>
+10° een vertegenwoordiger van de uitzendsector.<br>
 <br>
 In het eerste lid, 4°, wordt verstaan onder Commissie Sociale Economie: de Commissie Sociale Economie, vermeld in hoofdstuk 3 van het voormelde decreet.
 
@@ -942,7 +941,7 @@ De leden van de Adviescommissie Sociale Economie worden door de minister na voor
 
 ### ART 84.
 
-De Adviescommissie Sociale Economie organiseert maandelijks een overleg met het oog op de adviesopdracht, vermeld in artikel 35, eerste lid, 1°, van het decreet van 12 juli 2013.
+...
 
 ### ART 85.
 
@@ -1088,7 +1087,7 @@ Met toepassing van artikel 59, tweede lid van het decreet van 12 juli 2013 blijv
 
 ### ART 107.
 
-&nbsp;De beschutte werkplaatsen en de sociale werkplaatsen blijven elk hun erkenning behouden zolang de minister dat noodzakelijk acht met het oog op de succesvolle transitie ervan naar een maatwerkbedrijf als vermeld in dit besluit.
+De beschutte werkplaatsen en de sociale werkplaatsen blijven elk hun erkenning behouden tot uiterlijk 30 juni 2028.
 
 ### ART 108.
 
