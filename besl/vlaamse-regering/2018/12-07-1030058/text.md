@@ -228,6 +228,8 @@ Voor de voorzieningen die de voorwaarden, vermeld in artikel 5, §2, naleven, wo
 <br>
 In afwijking van het eerste lid, zijn aanvullende gegevens of correcties van gegevens die eerder zijn meegedeeld over de periode van 1 juli 2017 tot en met 30 juni 2018 nog ontvankelijk tot 10 januari 2019.<br>
 <br>
+In afwijking van het eerste lid geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2022 tot en met 30 juni 2023 dat als de voorziening de gegevens, vermeld in artikel 5, §1, heeft meegedeeld, de voorziening die gegevens nog kan wijzigen tot dertig dagen na de dag waarop de voorziening van het agentschap de berekening heeft ontvangen. Het agentschap bezorgt de berekening aan de voorziening tussen 16 oktober 2023 en 31 december 2023.<br>
+<br>
 In afwijking van het eerste lid geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2023 tot en met 30 juni 2024:<br>
 1°&nbsp;&nbsp; &nbsp;op 30 september 2024 gaat de administratie na of voor alle trimesters de elektronische vragenlijst, vermeld in artikel 5, §2, eerste lid, is ingediend. Uiterlijk op 7 oktober 2024 verstuurt de administratie een laatste herinnering aan de voorzieningen die geen elektronische vragenlijst, vermeld in artikel 5, §2, van dit besluit, voor een of meer trimesters hebben ingediend;<br>
 2°&nbsp;&nbsp; &nbsp;voor trimesters waarvoor op 16 oktober 2024 geen elektronische vragenlijst, vermeld in artikel 5, §2, van dit besluit, is ingediend, dient de administratie de elektronische vragenlijsten in;<br>
