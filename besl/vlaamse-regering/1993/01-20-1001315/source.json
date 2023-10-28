@@ -2,16 +2,16 @@
   "codex_id": 1001315,
   "title": "Besluit van de Vlaamse Regering van 1993-01-20 tot vaststelling van regelen betreffende de aanwijzing of erkenning en het beheer van de bosreservaten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001315/VolledigDocument?datum=2009-09-03",
-  "source_sha256": "fbf63afda43ff4a02d716f3b6e7203cd452198408826e2613b0fe9ee4e0aa8e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001315/VolledigDocument?datum=2023-10-28",
+  "source_sha256": "1c5f9d902e075300734be17769d64aa704fb7cdaff06e933915c3650c62b77c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001315&param=informatie",
-  "as_of": "2009-09-03",
+  "as_of": "2023-10-28",
   "made": "1993-01-20",
   "gazette": "1993-05-27",
   "numac": 1993035527,
   "document_start": null,
   "document_end": "2023-10-27",
-  "in_force": "2009-09-03",
+  "in_force": "2023-10-28",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2009-09-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-28; future article versions excluded; article text as the API gives it"
 }
