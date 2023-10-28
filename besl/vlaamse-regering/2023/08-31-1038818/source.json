@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038818,
+  "title": "Besluit van de Vlaamse Regering van 2023-08-31 tot erkenning van de beroepskwalificatie installateur energiemanagementsystemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038818/VolledigDocument?datum=2023-10-28",
+  "source_sha256": "6b5b75c748b283472dc1c99bd30e995ed10ebe219118ee348eb7d8ed036640dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038818&param=informatie",
+  "as_of": "2023-10-28",
+  "made": "2023-08-31",
+  "gazette": "2023-10-18",
+  "numac": 2023045789,
+  "document_start": "2023-10-28",
+  "document_end": null,
+  "in_force": "2023-10-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
