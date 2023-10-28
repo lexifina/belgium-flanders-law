@@ -2,16 +2,16 @@
   "codex_id": 1011560,
   "title": "Besluit van de Vlaamse Regering van 2003-06-27 betreffende de subsidiëring van beheerders van openbare en privé-bossen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011560/VolledigDocument?datum=2015-11-30",
-  "source_sha256": "7f6fc1f77be75ba1e1a6513ec57b3d3af74b5f5996fc7b2ed2a017223256d503",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011560/VolledigDocument?datum=2023-10-28",
+  "source_sha256": "5b26db408b6960294ef571164953daff449bcd972c5b2a5b9b339ea912c5ee05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011560&param=informatie",
-  "as_of": "2015-11-30",
+  "as_of": "2023-10-28",
   "made": "2003-06-27",
   "gazette": "2003-09-10",
   "numac": 2003035991,
   "document_start": null,
   "document_end": "2023-10-27",
-  "in_force": "2015-11-30",
+  "in_force": "2023-10-28",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2015-11-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-28; future article versions excluded; article text as the API gives it"
 }
