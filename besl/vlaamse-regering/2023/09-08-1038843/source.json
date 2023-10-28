@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038843,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038843/VolledigDocument?datum=2023-10-28",
+  "source_sha256": "bb65ac845ad4edaaf1d3b4fecc8177e88b4fa5ad917b386da6020ed647406e99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038843&param=informatie",
+  "as_of": "2023-10-28",
+  "made": "2023-09-08",
+  "gazette": "2023-10-18",
+  "numac": 2023046059,
+  "document_start": "2023-10-28",
+  "document_end": null,
+  "in_force": "2023-10-28",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2023-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
