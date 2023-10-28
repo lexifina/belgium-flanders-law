@@ -1657,6 +1657,13 @@ De begunstigden van subsidies voor de aankoop van grond, vermeld in titel 2, hoo
 
 ## TITEL 4. Slotbepalingen
 
+### ART 60.
+
+Met behoud van toepassing van artikel 61 worden de volgende regelingen opgeheven zes jaar na de datum van de inwerkingtreding van dit besluit:<br>
+1° het besluit van de Vlaamse Regering van 20 januari 1993 tot vaststelling van regelen betreffende de aanwijzing of erkenning en het beheer van de bosreservaten, gewijzigd bij de besluiten van de Vlaamse Regering van 14 september 2001, 7 maart 2008 en 29 mei 2009;<br>
+2° het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de subsidiëring van beheerders van openbare en privé-bossen, gewijzigd bij de besluiten van de Vlaamse Regering van 7 maart 2008, 10 juni 2011 en 2 oktober 2015,<br>
+3° het besluit van de Vlaamse Regering van 27 juni 2003 tot vaststelling van de voorwaarden voor de erkenning van natuurreservaten en van terreinbeherende natuurverenigingen en houdende toekenning van subsidies, gewijzigd bij de besluiten van de Vlaamse Regering van 23 april 2004, 21 april 2006, 7 maart 2008, 3 juli 2009, 10 juni 2011 en 10 januari 2013, met uitzondering van artikel 5 tot en met 9 en artikel 21, die onmiddellijk worden opgeheven.
+
 ### ART 61.
 
 § 1. Voor beheerplannen als vermeld in artikel 107 van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos, die zijn vastgesteld vóór de inwerkingtreding van dat artikel, gelden de volgende overgangsregels:<br>
