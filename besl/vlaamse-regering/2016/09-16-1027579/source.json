@@ -2,16 +2,16 @@
   "codex_id": 1027579,
   "title": "Besluit van de Vlaamse Regering van 2016-09-16 tot uitvoering van [titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018, betreffende het hergebruik van overheidsinformatie en tot bepaling van de kosteloze uitwisseling van bestuursdocumenten tussen instanties, vermeld in artikel III.72 van het bestuursdecreet van 7 december 2018]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027579/VolledigDocument?datum=2021-05-10",
-  "source_sha256": "0464a53cc0152efc62b57637700d5b82387622a17df246ea80091ecaac4fc23e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027579/VolledigDocument?datum=2023-10-29",
+  "source_sha256": "92830e461512dce21387b876e8b7f0fd1cd52ed3ca7da1bdab44d50060c8733b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027579&param=informatie",
-  "as_of": "2021-05-10",
+  "as_of": "2023-10-29",
   "made": "2016-09-16",
   "gazette": "2016-11-18",
   "numac": 2016036531,
   "document_start": "2016-11-28",
   "document_end": null,
-  "in_force": "2021-05-10",
+  "in_force": "2023-10-29",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-29; future article versions excluded; article text as the API gives it"
 }

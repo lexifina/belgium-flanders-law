@@ -92,19 +92,16 @@ In het geval, vermeld in artikel II.59, vierde lid, van het bestuursdecreet van 
 1° kosten voor het archiefbeheer : de kosten voor het bewaren van bestuursdocumenten;<br>
 2° kosten in verband met de rechtenvereffening : de tijd en de mankracht die wordt ingezet voor het identificeren van derden bij wie rechten berusten en het verkrijgen van de toestemming van die rechthebbenden.<br>
 <br>
-Die kosten mogen door de instantie worden vermeerderd met een redelijk rendement op de investering conform artikel 5, tweede lid.<br>
+Die kosten mogen door de instantie worden vermeerderd met een redelijk rendement op de investering als vermeld in artikel II.59, vijfde lid, 1°, van het Bestuursdecreet van 7 december 2018.<br>
 &nbsp;
 
 ### ART 5.
 
-Het redelijke rendement op de investering, vermeld in artikel II.59, derde lid, van het bestuursdecreet van 7 december 2018, ligt niet meer dan vijf procent boven de referentie-interestvoet, vermeld in artikel 2, 4, van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties.<br>
-<br>
-Bij het berekenen van een redelijk rendement op de investering, vermeld in artikel II.59, vierde lid, van het voormelde decreet, kunnen de bibliotheken, met inbegrip van bibliotheken van instellingen voor hoger onderwijs, musea en archieven, rekening houden met tarieven die de particuliere sector in rekening brengt voor het hergebruik van identieke of soortgelijke documenten.<br>
-&nbsp;
+...
 
 ### ART 6.
 
-De minister kan, als dat nodig is, de berekening van de vergoeding, vermeld in artikel 2, 3 en 4, en de berekening van het redelijk rendement, vermeld in artikel 5, verder verduidelijken.<br>
+De minister kan, als dat nodig is, de berekening van de vergoeding, vermeld in artikel 2, 3 en 4, verder verduidelijken.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 De modellicenties
@@ -114,6 +111,7 @@ De minister kan, als dat nodig is, de berekening van de vergoeding, vermeld in a
 In geval van hergebruik als vermeld in artikel II.55, derde lid, van het bestuursdecreet van 7 december 2018, hanteert de instantie een van de volgende modellicenties :<br>
 1° de CC0-verklaring, opgenomen in bijlage 1, die bij dit besluit is gevoegd;<br>
 2° de modellicentie voor gratis hergebruik, opgenomen in bijlage 2, die bij dit besluit is gevoegd;<br>
+2°/1 de Creative Commons – Naamsvermelding 4.0. Internationaal licentie, vermeld in artikel 4, lid 3, van de uitvoeringsverordening (EU) 2023/138 van de Commissie van 21 december 2022 tot vaststelling van een lijst met specifieke hoogwaardige datasets en de regelingen voor publicatie en hergebruik van die gegevens;<br>
 3° de modellicentie voor hergebruik tegen vergoeding, opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
 &nbsp;
 
@@ -131,26 +129,25 @@ Na een wijziging van de modellicenties kunnen bestaande licentienemers de instan
 
 ### ART 10.
 
-De overheidsinstanties, vermeld in art. II.53, § 1, van het bestuursdecreet van 7 december 2018, publiceren overzichtslijsten met de relevante metagegevens, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, met betrekking tot de bestuursdocumenten die in een open en machinaal leesbaar formaat via elektronische weg voor hergebruik beschikbaar zijn, op de portaalsite overeenkomstig de richtlijnen die op de website van Digitaal Vlaanderen worden gepubliceerd.<br>
+§1. De overzichtslijsten, vermeld in artikel II.62, eerste lid, van het Bestuursdecreet van 7 december 2018, worden gepubliceerd in het centrale register van de Vlaamse overheid, vermeld in artikel III.82, §2, van het voormelde decreet. Het voormelde centrale register is raadpleegbaar via een portaalsite en wordt beheerd door het agentschap Facilitair Bedrijf, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap “agentschap Facilitair Bedrijf”.<br>
 <br>
-Die portaalsite staat ook ter beschikking van de andere instanties die de overzichtslijsten met de relevante metagegevens met betrekking tot hun bestuursdocumenten in een open en machinaal leesbaar formaat online toegankelijk willen maken.<br>
-&nbsp;
+§2. Digitaal Vlaanderen beheert conform artikel II.62, derde lid, van het Bestuursdecreet van 7 december 2018 één enkel toegangspunt voor de geleidelijke beschikbaarstelling van geschikte datasets die in het bezit zijn van instanties, vermeld in artikel II.53, §1, van het voormelde decreet, voor de bestuursdocumenten die voor hergebruik in aanmerking komen. De voormelde datasets zijn raadpleegbaar aan de hand van een portaalsite.&nbsp;<br>
+<br>
+De portaalsite, vermeld in het eerste lid, staat ook ter beschikking van de andere instanties die geschikte datasets over bestuursdocumenten die voor hergebruik in aanmerking komen, beschikbaar willen stellen.
 
 ### ART 11.
 
-De prioriteiten met betrekking tot de belangrijkste bestuursdocumenten, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, zijn bestuursdocumenten die betrekking hebben op geografie, milieu, mobiliteit, economie en statistiek. De minister kan, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de prioriteitenlijst van de belangrijkste documenten aanpassen.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 5 Evaluatie
 
 ### ART 12.
 
-Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert driejaarlijks de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder die informatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel II.59 van het bestuursdecreet van 7 december 2018 met betrekking tot vergoedingen die de marginale kosten overstijgen. Dat evaluatieverslag wordt aan de Vlaamse Regering bezorgd.<br>
-&nbsp;
+...
 
 ### ART 13.
 
-Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert&nbsp;in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, en met betrekking tot welke belangrijkste documenten als vermeld in artikel 11, de overzichtslijsten met de relevante metadata op de portaalsite worden gepubliceerd.<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert&nbsp;in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, §2, eerste lid, en welke hoogwaardige datasets, vermeld in de uitvoeringsverordening (EU) 2023/138 van de Commissie van 21 december 2022 tot vaststelling van een lijst met specifieke hoogwaardige datasets en de regelingen voor publicatie en hergebruik van die gegevens, op de voormelde portaalsite”.&nbsp;<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Uitwisseling van bestuursdocumenten tussen instanties onderling
@@ -281,7 +278,7 @@ Artikel 2. Deﬁnities<br>
 &nbsp;<br>
 Product: het bestuursdocument dat onder deze licentie door de licentiegever aan de licentienemer ter beschikking wordt gesteld.<br>
 &nbsp;<br>
-Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, of de milieu-instantie, vermeld in artikel I.3, 7°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen;<br>
+Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, de milieu-instantie, vermeld in artikel I.3, 7°, van het voormelde decreet of een overheidsonderneming als vermeld in artikel I.3, 9°, van het voormelde decreet, die voldoet aan een van de voorwaarden, vermeld in artikel II.53, §1, eerste lid, 5°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen;<br>
 &nbsp;<br>
 Verstrekker: de natuurlijke persoon, rechtspersoon of groepering ervan aan wie door de licentiegever het recht werd verleend om het product te verspreiden en ter beschikking te stellen voor hergebruik;<br>
 &nbsp;<br>
@@ -350,7 +347,7 @@ Artikel 2. Deﬁnities<br>
 &nbsp;<br>
 Product: bestuursdocument dat onder deze licentie door de licentiegever aan de licentienemer ter beschikking wordt gesteld.<br>
 &nbsp;<br>
-Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, of de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen.<br>
+Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet of een overheidsonderneming als vermeld in artikel I.3, 9°, van het voormelde decreet, die voldoet aan een van de voorwaarden, vermeld in artikel II.53, §1, eerste lid, 5°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen.<br>
 &nbsp;<br>
 Verstrekker: de natuurlijke persoon, rechtspersoon of groepering ervan aan wie door de licentiegever het recht werd verleend om het product te verspreiden en ter beschikking te stellen voor hergebruik;<br>
 &nbsp;<br>
