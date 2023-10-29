@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038822,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot uitvoering van het decreet van 23 juni 2023 over het gecoördineerd Vlaams vrijwilligersbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038822/VolledigDocument?datum=2023-10-29",
+  "source_sha256": "d21647d8a8c49f0f610cbd6303e9c1cece76024ee02c39c02e0bc820a7ae5e84",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038822&param=informatie",
+  "as_of": "2023-10-29",
+  "made": "2023-09-08",
+  "gazette": "2023-10-19",
+  "numac": 2023045820,
+  "document_start": "2023-10-29",
+  "document_end": null,
+  "in_force": "2023-10-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-10-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
