@@ -53,7 +53,7 @@ d) wanneer in eenzelfde jaar meerdere monsternemingen werden uitgevoerd, moet vo
 5° de monsters voor contra-analyse moeten op het exploitatieadres van het laboratorium dat de monsterneming uitvoert gedurende vijf werkdagen bewaard worden na het etmaal waarin bemonsterd werd;<br>
 6° alle bij de debietmeting en bij de bemonstering gebruikte apparatuur moet door het erkende laboratorium verzegeld worden.<br>
 <br>
-§ 2. De ambtenaren van de Vlaamse Milieumaatschappij mogen, mits voorlegging van hun legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden, te allen tijde op de plaats van de monsterneming komen. Indien zij zaken vaststellen bij de debietmeting en/of bij de monsterneming die in strijd zijn met de bepalingen van de wet van 26 maart 1971 of met de bepalingen van dit besluit, kunnen zij dit opnemen in een vaststellingsverslag.<br>
+§ 2. De ambtenaren van de Vlaamse Milieumaatschappij mogen, mits voorlegging van hun legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden, te allen tijde op de plaats van de monsterneming komen. Indien zij zaken vaststellen bij de debietmeting en/of bij de monsterneming die in strijd zijn met de bepalingen van&nbsp;het decreet of met de bepalingen van dit besluit, kunnen zij dit opnemen in een vaststellingsverslag.<br>
 <br>
 De ambtenaar kan bij zijn onderzoek, in aanwezigheid van de heffingsplichtige of zijn afgevaardigde, de verzegeling van de meet- en bemonsteringsapparatuur verbreken.<br>
 <br>
@@ -106,11 +106,11 @@ Deze debieten moeten gemeten zijn met behulp van meetapparatuur die geïnstallee
 
 ### ART. 8.
 
-&nbsp;§ 1. De aangifte, vermeld in artikel 4.2.2.3.1 van het decreet, wordt elektronisch ingediend via een internetloket dat de Vlaamse Milieumaatschappij ter beschikking stelt. Als de aangifte ingevuld en bezorgd is overeenkomstig de richtlijnen in het elektronische platform, heeft ze voor de toepassing van hoofdstuk IIIbis van de wet van 26 maart 1971 en de uitvoeringsbesluiten ervan dezelfde rechtskracht als een ondertekende aangifte op papier.<br>
+&nbsp;§ 1. De aangifte, vermeld in artikel 4.2.2.3.1 van het decreet, wordt elektronisch ingediend via een internetloket dat de Vlaamse Milieumaatschappij ter beschikking stelt. Als de aangifte ingevuld en bezorgd is overeenkomstig de richtlijnen in het elektronische platform, heeft ze voor de toepassing van&nbsp;titel IV, hoofdstuk II, van het decreet en de uitvoeringsbesluiten ervan dezelfde rechtskracht als een ondertekende aangifte op papier.<br>
 <br>
 In de elektronische aangifte, vermeld in het eerste lid, worden de identificatiegegevens van de meet- en bemonsteringscampagnes van het afvalwater dat geloosd is in het jaar dat voorafgaat aan het heffingsjaar, opgegeven op straffe van verval van het recht een beroep te kunnen doen op de berekeningsmethode, vermeld in artikel 4.2.2.3.1 van het decreet. Door de identificatiegegevens op te geven worden de overeenstemmende meet- en bemonsteringsgegevens geacht deel uit te maken van de aangifte.<br>
 <br>
-§ 2. De in artikel 4.2.2.3.1 van het decreet bedoelde melding moet gebeuren door middel van een formulier, waarvan het model is vastgesteld in bijlage 2, gevoegd bij dit besluit.<br>
+§ 2. ...<br>
 <br>
 &nbsp;§ 3. De eis tot het in mindering brengen van de vuilvracht van het gebruikte oppervlaktewater N0, vermeld in artikel 4.2.2.4.3 van het decreet, wordt samen ingediend met de aangifte, vermeld in paragraaf 1.<br>
 <br>
@@ -118,13 +118,13 @@ In de aangifte, vermeld in paragraaf 1, worden de identificatiegegevens van de m
 <br>
 § 4. De opgepompte en gewonnen hoeveelheid grondwater die niet bestemd is voor de openbare drinkwatervoorziening, waarop conform artikelen 4.2.1.2.1 en 4.2.1.2.2 van het decreet een heffing verschuldigd is, wordt opgegeven met de aangifte, vermeld in paragraaf 1.<br>
 <br>
-De aangifte, vermeld in het eerste lid, wordt voor de toepassing van hoofdstuk IVbis van het voormelde decreet en de uitvoeringsbesluiten ervan gelijkgesteld met een ondertekende aangifte op papier.<br>
+De aangifte, vermeld in het eerste lid, wordt voor de toepassing van&nbsp;titel IV, hoofdstuk II, van het decreet en de uitvoeringsbesluiten ervan gelijkgesteld met een ondertekende aangifte op papier.<br>
 <br>
-§ 5. De heffingsplichtigen, vermeld in artikel 35octies, § 1, van de wet van 26 maart 1971 of in artikel 28sexies, § 1, van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, of, in voorkomend geval, de personen die gemachtigd zijn de aangifte, vermeld in paragraaf 1, namens hen in te dienen, kunnen, als ze niet over de nodige geïnformatiseerde middelen beschikken om aan die verplichting te voldoen, een beroep doen op de nodige infrastructuur die de Vlaamse Milieumaatschappij op haar buitendiensten ter beschikking stelt, en ze kunnen zich daarvoor laten bijstaan door de ambtenaren die conform artikel 9 van dit besluit zijn aangewezen voor de vestiging van de heffing op de waterverontreiniging en op de winning van grondwater.
+§ 5. De heffingsplichtigen, vermeld in artikel 4.2.4.1, §1, van het decreet, of, in voorkomend geval, de personen die gemachtigd zijn de aangifte, vermeld in paragraaf 1, namens hen in te dienen, kunnen, als ze niet over de nodige geïnformatiseerde middelen beschikken om aan die verplichting te voldoen, een beroep doen op de nodige infrastructuur die de Vlaamse Milieumaatschappij op haar buitendiensten ter beschikking stelt, en ze kunnen zich daarvoor laten bijstaan door de ambtenaren die conform artikel 9 van dit besluit zijn aangewezen voor de vestiging van de heffing op de waterverontreiniging en op de winning van grondwater.
 
 ### ART. 9.
 
-§ 1. Onverminderd de in de wet van 26 maart 1971 en de in §§ 2 en 3 van dit artikel voorbehouden bevoegdheden, wijst het afdelingshoofd Heffingen van de Vlaamse Milieumaatschappij de ambtenaren aan die voor rekening van het fonds voor preventie en sanering inzake leefmilieu en natuur belast zijn met de vestiging, de inning en de invordering van de heffing op de waterverontreiniging bedoeld in 5.4.1.2., § 1, van het decreet. Deze ambtenaren zijn tevens bevoegd voor controle en onderzoek in verband met de toepassing van de heffing bedoeld in artikel 5.4.1.2, § 1 van het decreet.<br>
+§ 1. Onverminderd de in&nbsp;het decreet en de in §§ 2 en 3 van dit artikel voorbehouden bevoegdheden, wijst het afdelingshoofd Heffingen van de Vlaamse Milieumaatschappij de ambtenaren aan die voor rekening van het fonds voor preventie en sanering inzake leefmilieu en natuur belast zijn met de vestiging, de inning en de invordering van de heffing op de waterverontreiniging bedoeld in 5.4.1.2., § 1, van het decreet. Deze ambtenaren zijn tevens bevoegd voor controle en onderzoek in verband met de toepassing van de heffing bedoeld in artikel 5.4.1.2, § 1 van het decreet.<br>
 <br>
 Als erom verzocht wordt, maken de in deze paragraaf bedoelde ambtenaren zich bij de uitoefening van hun ambt tegenover derden bekend door een legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.<br>
 <br>
@@ -152,12 +152,12 @@ De Vlaamse minister, bevoegd voor het Leefmilieu, is belast met de uitvoering va
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/05/03_1.pdf#page=124...">Bijlage 1</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2002/08/01_1S.pdf#page=27">Bijlage 2</a>
+...
 
 ### BIJLAGE 3.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2004/03/02_1.pdf#page=72">Bijlage 3</a>
+...
