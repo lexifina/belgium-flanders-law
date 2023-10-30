@@ -2,16 +2,16 @@
   "codex_id": 1020930,
   "title": "Besluit van de Vlaamse Regering van 2011-10-14 houdende de erkenning van de bedrijven Coralius NV, PwC Enterprice Advisory cvba en SYSQA B.V. (NL) als adviesorgaan voor digitale stemsystemen en de digitale aspecten van de verwerking van de kiesverrichtingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020930/VolledigDocument?datum=2011-11-21",
-  "source_sha256": "c1beeb21bcc3bdf7c2e4d9a24bc6acda63e5ceda93e1d96b43ea47f5139996ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020930/VolledigDocument?datum=2023-10-30",
+  "source_sha256": "688840e4dc772504a304cc8f5610cb3d73c2414e77d45c652591e13dbf73279a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020930&param=informatie",
-  "as_of": "2011-11-21",
+  "as_of": "2023-10-30",
   "made": "2011-10-14",
   "gazette": "2011-11-21",
   "numac": 2011205609,
   "document_start": "2011-11-21",
   "document_end": "2099-12-31",
-  "in_force": "2011-11-21",
+  "in_force": "2023-10-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2011-11-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-10-30; future article versions excluded; article text as the API gives it"
 }

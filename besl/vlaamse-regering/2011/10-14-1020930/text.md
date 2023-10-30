@@ -22,12 +22,12 @@ Besluit :
 
 ### ART. 1.
 
-De volgende bedrijven worden erkend als adviesorgaan voor digitale stemsystemen en de digitale aspecten van de verwerking van de kiesverrichtingen : <br />1° Coralius nv waarvan de zetel gevestigd is Interleuvenlaan 62, 3001 Leuven;<br />2° PwC Enterprice Advisory cvba waarvan de zetel gevestigd is Woluwedal 18, 1932 Sint-Stevens-Woluwe;<br />3° SYSQA B.V. waarvan de zetel gevestigd is Kabelstraat 5, 1322 AD Almere (Nederland).
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.
+...
