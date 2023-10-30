@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038840,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot uitvoering van het decreet van 23 juni 2023 tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038840/VolledigDocument?datum=2023-10-30",
+  "source_sha256": "abc209a4a0f2bc94357a33235aa431f5c1c13573d1a9c2924597f2cf6ab74a4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038840&param=informatie",
+  "as_of": "2023-10-30",
+  "made": "2023-09-08",
+  "gazette": "2023-10-20",
+  "numac": 2023046047,
+  "document_start": "2023-10-30",
+  "document_end": null,
+  "in_force": "2023-10-30",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
