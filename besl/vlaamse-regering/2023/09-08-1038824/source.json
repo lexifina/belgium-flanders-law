@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038824,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2002 tot uitvoering van het Titel IV, hoofdstuk II en Titel V, hoofdstuk IV van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038824/VolledigDocument?datum=2023-10-30",
+  "source_sha256": "e255b6b0153a63dcccb29ad8f564bf50dcf23e76bde5d06bce61077d8349acd1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038824&param=informatie",
+  "as_of": "2023-10-30",
+  "made": "2023-09-08",
+  "gazette": "2023-10-20",
+  "numac": 2023045841,
+  "document_start": "2023-10-30",
+  "document_end": null,
+  "in_force": "2023-10-30",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2023-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
