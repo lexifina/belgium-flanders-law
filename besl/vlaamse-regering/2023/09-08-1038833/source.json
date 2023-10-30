@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038833,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot erkenning van een adviesorgaan voor de digitale systemen en processen voor de kiesverrichtingen, wat betreft de lokale en provinciale verkiezingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038833/VolledigDocument?datum=2023-10-30",
+  "source_sha256": "aa05b96b4fd58ac4bf536490e539b8a027ae1d5b8c64121f08bd1f5921640516",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038833&param=informatie",
+  "as_of": "2023-10-30",
+  "made": "2023-09-08",
+  "gazette": "2023-10-20",
+  "numac": 2023045942,
+  "document_start": "2023-10-30",
+  "document_end": null,
+  "in_force": "2023-10-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
