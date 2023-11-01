@@ -316,7 +316,13 @@ De activeringsheffing wordt niet geheven op percelen die voldoen aan beide hiern
 
 ### ART. 3.2.10.
 
-De activeringsheffing wordt niet geheven op bouwgronden en kavels die tijdens het heffingsjaar niet voor bebouwing kunnen worden bestemd :<br />1° ingevolge hun inrichting als collectieve voorzieningen, met inbegrip van hun aanhorigheden;<br />2° ingevolge de Pachtwet van 4 november 1969, waarbij het bewijs van de pacht door alle middelen rechtens mag worden geleverd;<br />3° ingevolge hun werkelijke en volledige aanwending voor land- of tuinbouw, gedurende het hele jaar;<br />4° ingevolge een bouwverbod of enige andere erfdienstbaarheid tot openbaar nut die woningbouw onmogelijk maakt;<br />5° ingevolge een vreemde oorzaak die de heffingsplichtige niet kan worden toegerekend, zoals de beperkte omvang van de bouwgronden of kavels, of hun ligging, vorm of fysieke toestand.<br /><br />
+De activeringsheffing wordt niet geheven op bouwgronden en kavels die tijdens het heffingsjaar niet voor bebouwing kunnen worden bestemd :<br>
+1° ingevolge hun inrichting als collectieve voorzieningen, met inbegrip van hun aanhorigheden;<br>
+2° ingevolge het Vlaams Pachtdecreet van 13 oktober 2023, waarbij het bewijs van de pacht door alle middelen rechtens mag worden geleverd;<br>
+3° ingevolge hun werkelijke en volledige aanwending voor land- of tuinbouw, gedurende het hele jaar;<br>
+4° ingevolge een bouwverbod of enige andere erfdienstbaarheid tot openbaar nut die woningbouw onmogelijk maakt;<br>
+5° ingevolge een vreemde oorzaak die de heffingsplichtige niet kan worden toegerekend, zoals de beperkte omvang van de bouwgronden of kavels, of hun ligging, vorm of fysieke toestand.<br>
+&nbsp;
 
 ### ART. 3.2.11.
 
