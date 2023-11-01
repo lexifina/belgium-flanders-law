@@ -28,7 +28,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 1° Carolien Allebosch;<br>
 2° ...;<br>
 3° ...;<br>
-4° Kathleen Derbaix;<br>
+4° ...;<br>
 5° ...;<br>
 6° ...;<br>
 7° Karola Imbrechts;<br>
@@ -47,7 +47,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 1° Carolien Allebosch;<br>
 2° ...;<br>
 3° ...;<br>
-4° Kathleen Derbaix;<br>
+4° ...;<br>
 5° ...;<br>
 6° ...;<br>
 7° Karola Imbrechts;<br>
@@ -70,14 +70,15 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 5° Ingeborg Dils;<br>
 6° Christel Gernay;<br>
 7° Nele Loos;<br>
-8° Ingrid Roels;<br>
+8° ...;<br>
 9° Philip Tanghe;<br>
 10° ...;<br>
 11° Wilfried Van den Acker;<br>
 12° Marc Van Kerckvoorde;<br>
 13° Bart Boschmans;<br>
 14° Ivo Broekmans;<br>
-15° Iris Castel.
+15° Iris Castel;<br>
+16° Gwenny Vanhaecke.
 
 ### ART 5.
 
