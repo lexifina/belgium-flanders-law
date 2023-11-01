@@ -89,7 +89,7 @@ d) de echtgenoot, de afstammelingen of geadopteerde kinderen van de mede-eigenaa
 e) de afstammelingen of geadopteerde kinderen van de echtgenoot van de mede-eigenaar;<br>
 f) de echtgenoten van voormelde afstammelingen of geadopteerde kinderen.<br>
 Voor de toepassing van 1° worden onder echtgenoot van de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind, eveneens begrepen, de persoon die met de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind wettelijk samenwoont of er ten minste één jaar ononderbroken mee samenwoont en er een gemeenschappelijke huishouding mee voert;<br>
-2° wanneer de pachter zijn recht van voorkoop overeenkomstig de pachtwet uitoefent;<br>
+2° wanneer de pachter zijn recht van voorkoop overeenkomstig het Vlaams Pachtdecreet van 13 oktober 2023 uitoefent;<br>
 3° in geval van verkoop aan de huidige pachter op voorwaarde dat deze kan bewijzen dat hij reeds minstens één kalenderjaar pachter is, te rekenen tot de datum waarop de definitieve verkoopovereenkomst vaste datum heeft verkregen.
 
 ### ART. 9.
@@ -170,7 +170,7 @@ Indien de begunstigde geen bericht van uitoefening door middel van het -e-voorko
 
 ### ART 14/2.
 
-Als de verkoop wordt gehouden door middel van een gedematerialiseerde openbare verkoop bezorgt de instrumenterende ambtenaar na het sluiten van de biedingen en vóór de toewijzing het aanbod aan het e-voorkooploket. Het -e-voorkooploket bezorgt het aanbod aan de begunstigden. Deze aanbieding gebeurt zonder het recht van voorkoop van de pachter, zoals bepaald in artikel 47 tot en met 55 van de Pachtwet van 4 november 1969, te miskennen.<br>
+Als de verkoop wordt gehouden door middel van een gedematerialiseerde openbare verkoop bezorgt de instrumenterende ambtenaar na het sluiten van de biedingen en vóór de toewijzing het aanbod aan het e-voorkooploket. Het -e-voorkooploket bezorgt het aanbod aan de begunstigden. Bij een recht van voorkoop van de pachter als vermeld in artikel 59 tot en met 68 van het Vlaams Pachtdecreet wordt het aanbod gedaan aan het e-voorkooploket en gebeurt de uitoefening door de begunstigde onder opschortende voorwaarde van het niet uitoefenen van het voorkooprecht van de pachter.<br>
 <br>
 Als de begunstigden het aanbod aanvaarden, brengen zij het e-voorkooploket op de hoogte uiterlijk de eerste werkdag die volgt op de kennisgeving van het aanbod.<br>
 <br>
