@@ -37,7 +37,7 @@ De begunstigden voldoen aan al de volgende voorwaarden:<br>
 
 ### ART 5.
 
-§ 1. De jobbonus voor de begunstigden, vermeld in artikel 3, bedraagt op jaarbasis bij voltijdse tewerkstelling gedurende het volledige refertejaar:<br>
+§1. De jobbonus voor de begunstigden, vermeld in artikel 3, bedraagt op jaarbasis bij voltijdse tewerkstelling gedurende het volledige refertejaar:<br>
 1° 600 euro bij een gemiddeld maandelijks brutoloon van maximaal 1800 euro;<br>
 2° 0 euro bij een gemiddeld maandelijks brutoloon hoger dan 2499,99 euro;<br>
 3° een bedrag dat degressief afneemt van 600 euro tot 20 euro bij een gemiddeld maandelijks brutoloon tussen 1800 euro en 2499,99 euro volgens een formule die de Vlaamse Regering bepaalt.<br>
@@ -46,15 +46,19 @@ De jobbonus wordt berekend op kwartaalbasis en toegekend in verhouding tot de ge
 <br>
 De Vlaamse Regering bepaalt de jobbonus voor de begunstigden, vermeld in het eerste lid, die in het kwartaal op basis waarvan de jobbonus wordt berekend de leeftijd, vermeld in artikel 4, 3°, bereiken.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt het bedrag en de berekeningswijze van de jobbonus voor de begunstigden, die behoren tot meer dan één categorie van de begunstigden, vermeld in artikel 3.<br>
+§2. De Vlaamse Regering bepaalt het bedrag en de berekeningswijze van de jobbonus voor de begunstigden, die behoren tot meer dan één categorie van de begunstigden, vermeld in artikel 3.<br>
 <br>
-§ 3. De Vlaamse Regering bepaalt wat wordt verstaan onder gemiddeld maandelijks brutoloon als vermeld in paragraaf 1. De Vlaamse Regering kan bepalen dat sommige inkomsten of delen van het loon, onder de voorwaarden die ze bepaalt, niet of maar gedeeltelijk in aanmerking worden genomen en kan daarbij een onderscheid maken op basis van de bron van het inkomen.<br>
+§3. De Vlaamse Regering bepaalt wat wordt verstaan onder gemiddeld maandelijks brutoloon als vermeld in paragraaf 1. De Vlaamse Regering kan bepalen dat sommige inkomsten of delen van het loon, onder de voorwaarden die ze bepaalt, niet of maar gedeeltelijk in aanmerking worden genomen en kan daarbij een onderscheid maken op basis van de bron van het inkomen.<br>
 <br>
-§ 4. In de volgende gevallen is de jobbonus niet opeisbaar:<br>
+§4. In de volgende gevallen is de jobbonus niet opeisbaar:<br>
 1° als de jobbonus bij voltijdse prestaties op jaarbasis minder dan 20 euro bedraagt;<br>
 2° als de jobbonus bij deeltijdse prestaties op jaarbasis minder dan 10 euro bedraagt.<br>
 <br>
-§5. Voor het refertejaar 2021 wordt de jobbonus, vermeld in paragraaf 1 tot en met 4, eenmalig verhoogd met een vast, onveranderlijk bedrag van 100 euro voor de begunstigden voor wie de jobbonus opeisbaar is en die niet tot de categorieën, vermeld in paragraaf 4, behoren.
+§5. Voor het refertejaar 2021 wordt de jobbonus, vermeld in paragraaf 1 tot en met 4, eenmalig verhoogd met een vast, onveranderlijk bedrag van 100 euro voor de begunstigden voor wie de jobbonus opeisbaar is en die niet tot de categorieën, vermeld in paragraaf 4, behoren.<br>
+<br>
+Voor het refertejaar 2022 wordt de jobbonus, vermeld in paragraaf 1 tot en met 4, eenmalig verhoogd met een vast, onveranderlijk bedrag van 50 euro voor de begunstigden voor wie de jobbonus opeisbaar is en die niet behoren tot de categorieën, vermeld in artikel 2, §6, tweede lid, van het besluit van de Vlaamse Regering van 1 juli 2022 tot uitvoering van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus.<br>
+<br>
+§6. De Vlaamse Regering kan bepalen dat de jobbonus voor een bepaald refertejaar vanaf het refertejaar 2023 wordt verhoogd met een vast, onveranderlijk bedrag.
 
 ### ART 6.
 
