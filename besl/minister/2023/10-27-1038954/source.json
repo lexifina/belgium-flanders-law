@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038954,
+  "title": "Ministerieel besluit van 2023-10-27 tot wijziging van het ministerieel besluit van 8 november 2021 tot uitvoering van het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038954/VolledigDocument?datum=2023-11-01",
+  "source_sha256": "e4ad093d6e75c91012ed53a33b5d096f47c2341fc019e9c086c00abe610a4ca5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038954&param=informatie",
+  "as_of": "2023-11-01",
+  "made": "2023-10-27",
+  "gazette": "2023-11-28",
+  "numac": 2023047350,
+  "document_start": "2023-11-01",
+  "document_end": null,
+  "in_force": "2023-11-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2023-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
