@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038946,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-13 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de tegemoetkoming in de huurprijs voor woonbehoeftige huurders en de tegemoetkoming voor kandidaat-huurders en tot wijziging van artikel 44/1 van het besluit van de Vlaamse Regering van 4 februari 2022 tot oprichting van een uniek loket voor de aanvraag en de behandeling van bepaalde woon- en energiepremies en tot wijziging van het Energiebesluit van 19 november 2010 en het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038946/VolledigDocument?datum=2023-11-01",
+  "source_sha256": "d35da720a100a802e061908a9c6880578d8b8ff34b632de207a8658f4a7ac976",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038946&param=informatie",
+  "as_of": "2023-11-01",
+  "made": "2023-10-13",
+  "gazette": "2023-11-10",
+  "numac": 2023046891,
+  "document_start": "2023-11-01",
+  "document_end": null,
+  "in_force": "2023-11-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2023-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
