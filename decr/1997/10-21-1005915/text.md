@@ -951,7 +951,27 @@ Wordt deze beslissing genomen in het kader van een vergunningverlening of het ve
 
 ### ART. 37.
 
-§ 1. De Vlaamse grondenbank heeft het recht van voorkoop bij verkoop van   onroerende goederen :<BR>1° in het VEN, met uitzondering van de onroerende   goederen uitgesloten door de Vlaamse Regering;<BR>2° binnen de groen- en   bosgebieden en de bosuitbreidingsgebieden en de met al deze gebieden   vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de   ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, gelegen   binnen de speciale beschermingszones;<BR>3° in een door de Vlaamse Regering   afgebakende perimeter binnen de groen- en bosgebieden en de   bosuitbreidingsgebieden en de met al deze gebieden vergelijkbare   bestemmingsgebieden aangewezen op de plannen van aanleg of de ruimtelijke   uitvoeringsplannen van kracht in de ruimtelijke ordening gelegen binnen het   IVON;<BR>4° in de afbakening van een natuurinrichtingsproject.<BR>5° in de   terreinen waar het agentschap het beheer heeft overgenomen met toepassing van   artikel 16decies, § 1 en § 2;<BR>6° in een zoekzone afgebakend conform artikel   50septies, § 4, eerste lid, ongeacht de planologische bestemming in de   goedgekeurde plannen van aanleg of ruimtelijke uitvoeringsplannen. Van zodra een   dergelijke zoekzone is afgebakend wordt het voorkooprecht dat conform punt 2°   bestaat, opgeheven binnen de speciale beschermingszone of -zones in   kwestie.<BR><BR>Onverminderd artikel 8 van het decreet van 25 mei 2007 houdende   de harmonisering van de procedures van voorkooprechten geldt dit voorkooprecht   niet in geval van verkoop van het goed aan leden van erkende bos-groeperingen   die voor 20 januari 1998 overeenkomstig artikel 85 van het bosdecreet van 13   juni 1990 werden erkend, voor zover het bovenvermelde goed deel uitmaakt van de   kadastrale percelen waarop de erkenning betrekking heeft en de koper reeds   onroerende goederen in eigendom of mede-eigendom heeft binnen de omschrijving   van de bosgroepering.<BR><BR>§ 2. ...<BR><BR>§ 3. ...<BR><BR>§ 4. De Vlaamse   regering kan de nodige maatregelen nemen om in geval het voorkooprecht wordt   uitgeoefend op een verpacht perceel een vrijwillige grondruil mogelijk te   maken.<BR><BR>Voor voormelde gronden kan slechts een einde gemaakt aan de   lopende pacht bij het verstrijken van elke pachtperiode zoals voorzien in   artikel 7, 9° van de pachtwet tenzij de pachter vroeger afstand doet van zijn   pachtrecht. <BR><BR>§ 5. De bepalingen van titel IV, hoofdstukken I, II en VI,   van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse   Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op   dit recht van voorkoop.<BR><BR>§ 6. Het decreet van 25 mei 2007 houdende de   harmonisering van de procedures van voorkooprechten is van toepassing op dit   recht van voorkoop.
+§ 1. De Vlaamse grondenbank heeft het recht van voorkoop bij verkoop van onroerende goederen :<br>
+1° in het VEN, met uitzondering van de onroerende goederen uitgesloten door de Vlaamse Regering;<br>
+2° binnen de groen- en bosgebieden en de bosuitbreidingsgebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, gelegen binnen de speciale beschermingszones;<br>
+3° in een door de Vlaamse Regering afgebakende perimeter binnen de groen- en bosgebieden en de bosuitbreidingsgebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening gelegen binnen het IVON;<br>
+4° in de afbakening van een natuurinrichtingsproject.<br>
+5° in de terreinen waar het agentschap het beheer heeft overgenomen met toepassing van artikel 16decies, § 1 en § 2;<br>
+6° in een zoekzone afgebakend conform artikel 50septies, § 4, eerste lid, ongeacht de planologische bestemming in de goedgekeurde plannen van aanleg of ruimtelijke uitvoeringsplannen. Van zodra een dergelijke zoekzone is afgebakend wordt het voorkooprecht dat conform punt 2° bestaat, opgeheven binnen de speciale beschermingszone of -zones in kwestie.<br>
+<br>
+Onverminderd artikel 8 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten geldt dit voorkooprecht niet in geval van verkoop van het goed aan leden van erkende bos-groeperingen die voor 20 januari 1998 overeenkomstig artikel 85 van het bosdecreet van 13 juni 1990 werden erkend, voor zover het bovenvermelde goed deel uitmaakt van de kadastrale percelen waarop de erkenning betrekking heeft en de koper reeds onroerende goederen in eigendom of mede-eigendom heeft binnen de omschrijving van de bosgroepering.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De Vlaamse regering kan de nodige maatregelen nemen om in geval het voorkooprecht wordt uitgeoefend op een verpacht perceel een vrijwillige grondruil mogelijk te maken.<br>
+<br>
+Voor voormelde gronden kan slechts een einde gemaakt aan de lopende pacht bij het verstrijken van elke pachtperiode zoals voorzien in artikel 11, 9°, van het Vlaams Pachtdecreet van 13 oktober 2023 tenzij de pachter vroeger afstand doet van zijn pachtrecht.<br>
+<br>
+§ 5. De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van voorkoop.<br>
+<br>
+§ 6. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
 
 ### ART. 38.
 
