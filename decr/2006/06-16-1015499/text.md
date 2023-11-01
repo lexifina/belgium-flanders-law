@@ -83,7 +83,16 @@ De Vlaamse Grondenbank voert de taken zoals beschreven in artikel 5, § 1, 2°, 
 
 ### ART. 12/1.
 
-&nbsp;§ 1. Ten gevolge van een ruil als vermeld in artikel 5, § 2, 5°, en   artikel 5, § 3, 1°, kunnen de rechten die de pachter op zijn vroegere perceel   bezat, worden overgedragen op zijn nieuwe perceel. Als die rechten worden   overgedragen, kunnen wijzigingen worden aangebracht aan de pacht, inzonderheid   met betrekking tot:<BR>1° de pachtprijs;<BR>2° de duur van de pacht;<BR>3° de   vergoedingen die overeenkomstig de Pachtwet verschuldigd zijn aan de pachter die   de kosten heeft gedragen voor aanplantingen, bouwwerken en alle werken die   noodzakelijk zijn voor de bewoonbaarheid van het gepachte goed of die dienstig   zijn voor de exploitatie van dat goed en die stroken met de bestemming   ervan.<BR><BR>Als wijzigingen aan de pacht worden aangebracht, roept de Vlaamse   Grondenbank de partijen op en doet hen zodanige voorstellen dat ze ermee   instemmen. Als een overeenkomst wordt bereikt, stelt de Vlaamse Grondenbank dat   schriftelijk vast.<BR><BR>De bepalingen van het eerste lid gelden in afwijking   van de gemeenrechtelijke regeling.<BR><BR>§ 2. De bepalingen, vermeld in   paragraaf 1, zijn van overeenkomstige toepassing op de erfpacht, het recht van   opstal en het recht van gebruik en bewoning.
+&nbsp;§ 1. Ten gevolge van een ruil als vermeld in artikel 5, § 2, 5°, en artikel 5, § 3, 1°, kunnen de rechten die de pachter op zijn vroegere perceel bezat, worden overgedragen op zijn nieuwe perceel. Als die rechten worden overgedragen, kunnen wijzigingen worden aangebracht aan de pacht, inzonderheid met betrekking tot:<br>
+1° de pachtprijs;<br>
+2° de duur van de pacht;<br>
+3° de vergoedingen die overeenkomstig het Vlaams Pachtdecreet van 13 oktober 2023 verschuldigd zijn aan de pachter die de kosten heeft gedragen voor aanplantingen, bouwwerken en alle werken die noodzakelijk zijn voor de bewoonbaarheid van het gepachte goed of die dienstig zijn voor de exploitatie van dat goed en die stroken met de bestemming ervan.<br>
+<br>
+Als wijzigingen aan de pacht worden aangebracht, roept de Vlaamse Grondenbank de partijen op en doet hen zodanige voorstellen dat ze ermee instemmen. Als een overeenkomst wordt bereikt, stelt de Vlaamse Grondenbank dat schriftelijk vast.<br>
+<br>
+De bepalingen van het eerste lid gelden in afwijking van de gemeenrechtelijke regeling.<br>
+<br>
+§ 2. De bepalingen, vermeld in paragraaf 1, zijn van overeenkomstige toepassing op de erfpacht, het recht van opstal en het recht van gebruik en bewoning.
 
 ## HOOFDSTUK II VERWERVEN
 
@@ -95,7 +104,12 @@ De Vlaamse Grondenbank kan, overeenkomstig artikel 10, verwerven via een onderha
 
 ### ART. 14.
 
-§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving, vermeld in artikel 13, tot de overdracht, vermeld in artikel 15. Op verzoek van een administratieve overheid van het Vlaamse Gewest, kan de Vlaamse Grondenbank ook de onroerende goederen beheren waarop de administratieve overheid zakelijke rechten heeft.<br /><br />In het kader van het beheer, vermeld in het eerste lid, en in afwachting dat de goederen worden overgedragen, kunnen de onroerende goederen die vrij van gebruik zijn, in voorkomend geval na akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na één jaar maar die hernieuwd kan worden. Die verpachtingen zijn niet onderworpen aan de bepalingen van afdeling 3 van boek III, titel VIII, van het Burgerlijk Wetboek betreffende de pacht. <br /><br />§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br /><br />
+§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving, vermeld in artikel 13, tot de overdracht, vermeld in artikel 15. Op verzoek van een administratieve overheid van het Vlaamse Gewest, kan de Vlaamse Grondenbank ook de onroerende goederen beheren waarop de administratieve overheid zakelijke rechten heeft.<br>
+<br>
+In het kader van het beheer, vermeld in het eerste lid, en in afwachting dat de goederen worden overgedragen, kunnen de onroerende goederen die vrij van gebruik zijn, in voorkomend geval na akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na één jaar maar die hernieuwd kan worden. Die verpachtingen zijn niet onderworpen aan de bepalingen van het Vlaams Pachtdecreet van 13 oktober 2023.<br>
+<br>
+§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br>
+&nbsp;
 
 ## HOOFDSTUK IV OVERDRAGEN
 
