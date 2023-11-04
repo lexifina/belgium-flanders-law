@@ -1173,7 +1173,7 @@ Als uit het inhoudelijk eindverslag blijkt dat de begunstigde de voorwaarden, ve
 
 ### ART 28.
 
-De begunstigde van een subsidie die toegekend is in het kader van het LIFE-programma, kan een restfinancieringssubsidie verkrijgen, op voorwaarde dat:<br>
+De begunstigde van een subsidie die toegekend is in het kader van het LIFE- of Interreg-programma, kan een restfinancieringssubsidie verkrijgen, binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest beschikbaar zijn, op voorwaarde dat:<br>
 1° het project uitvoering geeft aan de instandhoudingsdoelstellingen;<br>
 2° het project voor de indiening bij de Europese Commissie is afgestemd met het agentschap;<br>
 3° in voorkomend geval het project in overeenstemming is met de bepalingen van het managementplan Natura 2000, vermeld in artikel 50septies van het decreet van 21 oktober 1997, en met de natuurbeheerplannen die uitvoering geven aan dat managementplan;<br>
@@ -1183,28 +1183,29 @@ De begunstigde van een subsidie die toegekend is in het kader van het LIFE-progr
 ### ART 29.
 
 Om een restfinancieringssubsidie te verkrijgen, verbindt de aanvrager zich ertoe:<br>
-1° voor de beëindiging van het project dat wordt gefinancierd in het kader van het LIFE-programma, een aanvraag tot goedkeuring van een natuurbeheerplan van type twee, drie of vier voor het terrein waarbinnen het werk wordt uitgevoerd, in te dienen bij het agentschap als er bij de aanvraag nog geen natuurbeheerplan was goedgekeurd. Hierbij worden het project en de hiermee beoogde natuurstreefbeelden integraal opgenomen in de aanvraag tot goedkeuring of wijziging van het natuurbeheerplan;<br>
-2° de rapportage die verplicht is op basis van het LIFE-programma, vermeld in punt 1°, en alle relevante communicatie met de Europese Commissie aan het agentschap te bezorgen;<br>
-3° er zorg voor te dragen dat er over de realisatie van het project waarvoor de restfinancieringssubsidie wordt aangevraagd, wordt gecommuniceerd op de wijze die door de minister of door de door de minister gevolmachtigde ambtenaar wordt bepaald.
+1° voor de beëindiging van het project dat wordt gefinancierd in het kader van het LIFE- of Interreg-programma, een aanvraag tot goedkeuring van een natuurbeheerplan van type twee, drie of vier voor het terrein waarbinnen het werk wordt uitgevoerd, in te dienen bij het agentschap als er bij de aanvraag nog geen natuurbeheerplan was goedgekeurd. Hierbij worden het project en de hiermee beoogde natuurstreefbeelden integraal opgenomen in de aanvraag tot goedkeuring of wijziging van het natuurbeheerplan;<br>
+2° de rapportage die verplicht is op basis van het LIFE- of Interreg-programma, vermeld in punt 1°, en alle relevante communicatie met de Europese Commissie aan het agentschap te bezorgen;<br>
+3° er zorg voor te dragen dat er over de realisatie van het project waarvoor de restfinancieringssubsidie wordt aangevraagd, wordt gecommuniceerd op de wijze die door de minister of door de door de minister gevolmachtigde ambtenaar wordt bepaald;<br>
+4° voor het Interreg-programma staan projectindieners in voor minstens 15% van de projectfinanciering.
 
 ### ART 30.
 
 Het bedrag van de restfinancieringssubsidie bedraagt 100% van de subsidieerbare kosten, die volgens de volgende stappen worden berekend:<br>
 1° stap 1: bepalen van de subsidieerbare kosten in het project: totale kosten van het project, verminderd met de niet-subsidieerbare kosten, namelijk:<br>
-a) aankopen van grond en kapitaalinvesteringen als vermeld in het project dat wordt gefinancierd in het kader van het LIFE-programma;<br>
+a) aankopen van grond en kapitaalinvesteringen als vermeld in het project dat wordt gefinancierd in het kader van het LIFE- of Interreg-programma;<br>
 b) de kosten van de werken die deel uitmaken van het project en die worden gefinancierd door een overheid, behalve als ze worden gefinancierd door besturen;<br>
-2° stap 2: bepalen van de subsidieerbare kosten in het kader van de Europese financiering op basis van het LIFE-programma, vermeld in punt 1°, a): het Europese cofinancieringspercentage, vermenigvuldigd met het resultaat uit stap 1 als vermeld in punt 1° ;<br>
+2° stap 2: bepalen van de subsidieerbare kosten in het kader van de Europese financiering op basis van het LIFE- of Interreg-programma, vermeld in punt 1°, a): het Europese cofinancieringspercentage, vermenigvuldigd met het resultaat uit stap 1 als vermeld in punt 1° ;<br>
 3° stap 3: bepalen van de restfinancieringssubsidie: resultaat van stap 1 als vermeld in punt 1°, verminderd met het resultaat van stap 2 als vermeld in punt 2°.
 
 ### ART 31.
 
-§ 1. Met behoud van de verplichtingen, vermeld in artikel 6, § 2, bevat de aanvraag van de restfinancieringssubsidie het projectvoorstel zoals het is goedgekeurd in het kader van het LIFE-programma, met inbegrip van een gedetailleerd overzicht en een gedetailleerde berekening van de totale kosten van het project, en de gunningsbeslissing die is genomen in het kader van dat programma.<br>
+§ 1. Met behoud van de verplichtingen, vermeld in artikel 6, § 2, bevat de aanvraag van de restfinancieringssubsidie het projectvoorstel zoals het is goedgekeurd in het kader van het LIFE- of Interreg-programma, met inbegrip van een gedetailleerd overzicht en een gedetailleerde berekening van de totale kosten van het project, en de gunningsbeslissing die is genomen in het kader van dat programma.<br>
 <br>
-De aanvraag wordt ingediend in de loop van de maand januari die volgt op het jaar van de gunningsbeslissing die is genomen in het kader van het LIFE-programma, vermeld in het eerste lid.<br>
+De aanvraag wordt ingediend in de loop van de maand januari die volgt op het jaar van de gunningsbeslissing die is genomen in het kader van het LIFE- of Interreg-programma, vermeld in het eerste lid.<br>
 <br>
-§ 2. De restfinancieringssubsidie wordt betaald nadat de begunstigde van de subsidie de betaling heeft ontvangen in het kader van de Europese cofinanciering op basis van het LIFE-programma, vermeld in paragraaf 1, eerste lid. De restfinancieringssubsidie wordt betaald volgens dezelfde percentages als de percentages die worden toegepast in het kader van de Europese financiering.<br>
+§ 2. De restfinancieringssubsidie wordt betaald nadat de begunstigde van de subsidie de betaling heeft ontvangen in het kader van de Europese cofinanciering op basis van het LIFE- of Interreg-programma, vermeld in paragraaf 1, eerste lid. De restfinancieringssubsidie wordt betaald volgens dezelfde percentages als de percentages die worden toegepast in het kader van de Europese financiering.<br>
 <br>
-De restfinancieringssubsidie wordt betaald in schijven, zoals bepaald in het kader van de Europese financiering. Bij de schuldvordering, vermeld in artikel 7, § 4, tweede lid, wordt een bewijs gevoegd van de betaling die is uitgevoerd in het kader van de Europese cofinanciering op basis het LIFE-programma, vermeld in paragraaf 1, eerste lid.
+De restfinancieringssubsidie wordt betaald in schijven, zoals bepaald in het kader van de Europese financiering. Bij de schuldvordering, vermeld in artikel 7, § 4, tweede lid, wordt een bewijs gevoegd van de betaling die is uitgevoerd in het kader van de Europese cofinanciering op basis het LIFE- of Interreg-programma, vermeld in paragraaf 1, eerste lid.
 
 ## HOOFDSTUK 4. Aankoopsubsidies
 
