@@ -36,13 +36,21 @@ In dit besluit wordt verstaan onder:<br>
 5° kernactor: het openbaar centrum voor maatschappelijk welzijn, het erkende centrum voor algemeen welzijnswerk, vermeld in artikel 7 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk, en de erkende diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 14 van het Woonzorgdecreet van 13 maart 2009, die samenwerken binnen het samenwerkingsverband geïntegreerd breed onthaal;<br>
 6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 7° samenwerkingsverband geïntegreerd breed onthaal: het samenwerkingsverband, vermeld in artikel 9, tweede lid, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
-8° verwerken: het uitvoeren van een verwerking, zoals gedefinieerd in artikel 4, 2) van de algemene verordening gegevensbescherming.
+8° verwerken: het uitvoeren van een verwerking, zoals gedefinieerd in artikel 4, 2) van de algemene verordening gegevensbescherming;<br>
+9° secretaris-generaal: het personeelslid dat belast is met de leiding van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+10° administratie: de administratie van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 2. Lokaal sociaal beleid in Brussel-Hoofdstad
 
 ### ART 2.
 
-Om de doelstellingen van het decreet van 9 februari 2018 te realiseren in het tweetalige gebied Brussel-Hoofdstad sluit de minister een convenant met de Vlaamse Gemeenschapscommissie voor de duurtijd van vijf jaar. Het convenant begint op 1 januari van het tweede jaar van de bestuursperiode van het College van de Vlaamse Gemeenschapscommissie en eindigt op het einde van het eerste jaar van de daaropvolgende bestuursperiode.
+Om de doelstellingen van het decreet van 9 februari 2018&nbsp;en de bijbehorende Vlaamse beleidsprioriteiten te realiseren in het tweetalige gebied Brussel-Hoofdstad sluit de minister een convenant met de Vlaamse Gemeenschapscommissie voor de duurtijd van vijf jaar. Het convenant begint op 1 januari van het tweede jaar van de bestuursperiode van het College van de Vlaamse Gemeenschapscommissie en eindigt op het einde van het eerste jaar van de daaropvolgende bestuursperiode.
+
+### ART 2/1.
+
+Binnen de perken van de begrotingskredieten wordt jaarlijks door de secretaris-generaal een subsidie van 154.600 euro toegekend aan de Vlaamse Gemeenschapscommissie voor de uitvoering van het convenant, vermeld in artikel 2, op basis van een goedgekeurd jaarplan.<br>
+<br>
+Het basisbedrag, vermeld in het eerste lid, wordt aangepast aan de gezondheidsindex, vermeld in artikel 2 van het koninklijk besluit ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, in overeenstemming met de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De basisindex is die van 1 januari 2023.
 
 ## HOOFDSTUK 3. Toegankelijke sociale hulp- en dienstverlening en onderbescherming aanpakken
 
@@ -150,6 +158,82 @@ De minister kan, binnen de perken van de begrotingskredieten, een subsidie verle
 ### ART 8.
 
 De minister kan, binnen de perken van de begrotingskredieten, een subsidie verlenen aan de lokale besturen voor de uitvoering van de Vlaamse beleidsprioriteiten of aan initiatieven of organisaties die de lokale besturen bijstaan en ondersteunen bij de uitvoering van de Vlaamse beleidsprioriteiten.
+
+### ART 8/12.
+
+Binnen de perken van de begrotingskredieten wordt jaarlijks een subsidie van 468.000 euro toegekend aan Lus vzw voor de uitvoering van de overeenkomst, vermeld in artikel 8/11, op basis van een goedgekeurd jaarplan.<br>
+<br>
+Binnen de perken van de begrotingskredieten wordt jaarlijks een subsidie van 315.000 euro toegekend aan Trefpunt Zelfhulp vzw voor de uitvoering van de overeenkomst, vermeld in artikel 8/11, op basis van een goedgekeurd jaarplan.<br>
+<br>
+Het basisbedrag, vermeld in het eerste en tweede lid, wordt aangepast aan de gezondheidsindex, vermeld in artikel 2 van het koninklijk besluit ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, in overeenstemming met de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De basisindex is die van 1 januari 2023.
+
+### ART 8/13.
+
+De organisaties, vermeld in artikel 8/12, wenden de subsidie-enveloppe, vermeld in artikel 8/12, aan voor al de volgende aspecten:<br>
+1° personeelskosten;<br>
+2° werkingskosten;<br>
+3° overeenkomsten met derden.<br>
+<br>
+De subsidies worden niet aangewend voor investeringen.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+<br>
+De subsidies kunnen alleen verleend worden als de organisaties, vermeld in artikel 8/12 van dit besluit, het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers toepassen.
+
+### ART 8/14.
+
+Uiterlijk op 30 oktober van het eerste jaar van de lokale beleidscyclus dienen de organisaties, vermeld in artikel 8/12, hun subsidieaanvraag in bij de administratie.<br>
+<br>
+De subsidieaanvraag, vermeld in het eerste lid, bestaat uit een meerjarenplan dat voldoet aan de bepalingen, vermeld in het decreet van 9 februari 2018, en dit besluit. Het meerjarenplan heeft een duurtijd van zes jaar.<br>
+<br>
+Het meerjarenplan, vermeld in het tweede lid, bevat al de volgende elementen:<br>
+1° de visie op lokaal sociaal beleid;<br>
+2° de doelstellingen en geplande acties in het kader van lokaal sociaal beleid, met per actie de vermelding van het plan van aanpak, de timing en de financiële prognose;<br>
+3° de criteria die worden gehanteerd om de resultaten te beoordelen.
+
+### ART 8/15.
+
+Uiterlijk op 30 april van het tweede jaar van de lokale beleidscyclus brengt de administratie de organisaties, vermeld in artikel 8/12, op de hoogte van het al dan niet aanvaarden van de subsidieaanvraag.
+
+### ART 8/16.
+
+Het subsidiebedrag wordt uitgekeerd in twee gelijke delen, uiterlijk op 30 juni en 30 november van elk jaar.
+
+### ART 8/17.
+
+Uiterlijk op 31 juli van elk jaar rapporteren de organisaties, vermeld in artikel 8/12, via een jaarlijks verslag aan de administratie over de daadwerkelijke uitvoering van het meerjarenplan in het voorafgaande jaar.<br>
+<br>
+Het jaarlijkse verslag, vermeld in het eerste lid, bevat de volgende elementen:<br>
+1° in voorkomend geval, de gewijzigde onderdelen van het meerjarenplan;<br>
+2° het inhoudelijke overzicht van de voortgang en de realisatie van de acties aan de hand van de voorgestelde criteria, en de timing ervan, opgenomen in het meerjarenplan;<br>
+3° de financiële middelen die besteed zijn aan de uitvoering van het meerjarenplan;<br>
+4° een uittreksel uit de boekhouding voor het activiteitencentrum en een bijbehorende financiële nota op basis waarvan de uitgaven, vermeld in punt 3°, gestaafd worden.<br>
+<br>
+De organisaties, vermeld in artikel 8/12, kunnen de resultaten van de gesubsidieerde activiteiten openbaar maken.
+
+### ART 8/18.
+
+In al de volgende gevallen dient de secretaris-generaal uiterlijk drie maanden nadat hij de rapportering, vermeld in artikel 8/17, heeft ontvangen, met een aangetekende brief bezwaar in bij de organisaties, vermeld in artikel 8/12:<br>
+1° als de organisaties, vermeld in artikel 8/12, niet voldoen aan de rapporteringsverplichtingen, vermeld in artikel 8/17;<br>
+2° als het jaarlijkse verslag, vermeld in artikel 8/17, onduidelijk is;<br>
+3° als de organisaties, vermeld in artikel 8/12, onvoldoende aantonen dat ze de vooropgestelde doelstellingen hebben nagestreefd.<br>
+<br>
+De organisaties, vermeld in artikel 8/12, bezorgen, binnen twee maanden nadat ze het bezwaar, vermeld in het eerste lid, hebben ontvangen, aan de secretaris-generaal een aangepast jaarlijks verslag of een motiverende nota waarom bepaalde engagementen niet zijn nagekomen.<br>
+De secretaris-generaal bezorgt daaropvolgend zijn beslissing aan de organisaties, vermeld in artikel 8/12, binnen twee maanden nadat hij het aangepaste jaarlijkse verslag of de motiverende nota heeft ontvangen.<br>
+<br>
+Als uit het aangepaste jaarlijkse verslag of uit de motiverende nota blijkt dat de subsidie niet aangewend is voor het doel waarvoor ze is verleend, keert de administratie verdere toegezegde subsidies niet uit en vordert ze de subsidies terug die al zijn toegekend.
+
+### ART 8/19.
+
+Als de organisaties, vermeld in artikel 8/12, de subsidie in het jaar waarvoor de subsidie-enveloppe, vermeld in artikel 8/13, wordt toegekend, niet volledig aanwenden om de kosten, vermeld in artikel 8/13, te dekken, leggen ze reserves aan met het niet-aangewende gedeelte, tot maximaal 20% van de subsidie-enveloppe.<br>
+<br>
+De organisaties, vermeld in artikel 8/12, wenden de reserves, vermeld in het eerste lid, aan om uitgaven te financieren die bijdragen tot de realisatie van hun taken in uitvoering van de doelstellingen van het decreet van 9 februari 2018 en dit besluit, en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br>
+<br>
+Van reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie stort de organisatie het bedrag dat de jaarlijkse subsidie overschrijdt, terug aan de Vlaamse overheid.
+
+### ART 8/20.
+
+De organisaties, vermeld in artikel 8/12, erkennen in hun werking het belang van het gebruik van de Nederlandse taal.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
