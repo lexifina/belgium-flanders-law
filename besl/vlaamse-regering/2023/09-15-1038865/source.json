@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038865,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 betreffende lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038865/VolledigDocument?datum=2023-11-05",
+  "source_sha256": "ac40eab6a4ac82749190361ce74bf5299e89e9451799b533057bbeb62e6dbf9e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038865&param=informatie",
+  "as_of": "2023-11-05",
+  "made": "2023-09-15",
+  "gazette": "2023-10-26",
+  "numac": 2023046141,
+  "document_start": "2023-11-05",
+  "document_end": null,
+  "in_force": "2023-11-05",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2023-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
