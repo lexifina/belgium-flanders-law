@@ -206,11 +206,9 @@ De vergoeding voor de aanvullende bestuursrechter van de Raad voor   Verkiezings
 
 ### ART. 34/1.
 
-<p>§ 1. De vergoeding voor de aanvullende bestuursrechter, vermeld in artikel 52, vierde lid, van het decreet, die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, bedraagt forfaitair 125 euro (100%) per rechtstreeks beroep tot aanpassing van het leerkrediet, vermeld in artikel II.285, tweede lid, van de Codex Hoger Onderwijs van 11 oktober 2013, dat wordt behandeld tijdens die zitting.<br>
+<p>§1. De vergoeding voor de aanvullende bestuursrechter, vermeld in artikel 52, vierde lid, van het decreet, die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, bedraagt forfaitair 1000 euro (100%) per zitting.<br>
 <br>
-Voor alle andere beroepen ontvangt de aanvullende bestuursrechter die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, een forfaitaire vergoeding van 375 euro (100%) per beroep dat wordt behandeld tijdens die zitting.<br>
-<br>
-§ 2. De vergoeding voor de bijzitter, vermeld in artikel 52, vierde lid, van het decreet, die deelneemt aan een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen bedraagt forfaitair 75 euro (100%) per beroep dat wordt behandeld tijdens die zitting.<br>
+§ 2. De vergoeding voor de bijzitter, vermeld in artikel 52, vierde lid, van het decreet, die deelneemt aan een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen bedraagt forfaitair 200 euro (100%) per zitting.<br>
 <br>
 § 3. Als een beroep wordt verdaagd of tijdens verschillende zittingen wordt behandeld, wordt maar één zitting in aanmerking genomen om de vergoedingen, vermeld in paragraaf 1 en 2, vast te stellen.<br>
 <br>
