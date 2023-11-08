@@ -2,16 +2,16 @@
   "codex_id": 1032376,
   "title": "Besluit van de Vlaamse Regering van 2019-10-02 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032376/VolledigDocument?datum=2023-06-23",
-  "source_sha256": "5077e1e18dcddcfd28d81327cfd3b5bb9fb637e7691d29be23045e1df4d53923",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032376/VolledigDocument?datum=2023-11-08",
+  "source_sha256": "19fb56654df125c2026d49a5d5b9edb8b3ec7050612b45ba8f74d299e8b568a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032376&param=informatie",
-  "as_of": "2023-06-23",
+  "as_of": "2023-11-08",
   "made": "2019-10-02",
   "gazette": "2019-10-18",
   "numac": 2019014947,
   "document_start": "2019-10-02",
   "document_end": "2024-09-29",
-  "in_force": "2023-06-23",
+  "in_force": "2023-11-08",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2023-06-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-11-08; future article versions excluded; article text as the API gives it"
 }

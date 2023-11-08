@@ -77,15 +77,15 @@ Zij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 
 ### ART 4.
 
-§ 1. De heer Bart Somers, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+§1. Mevrouw Gwendolyn Rutten, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
 1° het beleidsveld Binnenlands Bestuur en Stedenbeleid, vermeld in artikel 3 van het organisatiebesluit;<br>
 2° het beleidsveld Gelijke Kansen en Integratie en Inburgering, vermeld in artikel 3 van het organisatiebesluit;<br>
 3° de HR en de audit van de Vlaamse overheid vermeld in artikel 3 van het organisatiebesluit.<br>
 <br>
-Hij draagt de titel "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen".<br>
+Zij draagt de titel "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen".<br>
 <br>
-§ 2. De heer Bart Somers is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
-1° het agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd en Media;<br>
+§2. Mevrouw Gwendolyn Rutten is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
+1° het agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd, Media en Armoedebestrijding;<br>
 2° Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap "Audit Vlaanderen" en tot wijziging van diverse besluiten;<br>
 3° Toegankelijk Vlaanderen;<br>
 4° het agentschap Integratie en Inburgering;<br>
