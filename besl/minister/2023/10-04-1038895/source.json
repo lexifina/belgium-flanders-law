@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038895,
+  "title": "Ministerieel besluit van 2023-10-04 tot bepaling van de hoogte van de compensatie voor een uitvallende omvormer voor het jaar 2023",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038895/VolledigDocument?datum=2023-11-10",
+  "source_sha256": "43b48cfe8a289b737cc498206a60afdfc886dd7cb4eb176d86b3ce2a90043054",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038895&param=informatie",
+  "as_of": "2023-11-10",
+  "made": "2023-10-04",
+  "gazette": "2023-10-31",
+  "numac": 2023046351,
+  "document_start": "2023-11-10",
+  "document_end": null,
+  "in_force": "2023-11-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
