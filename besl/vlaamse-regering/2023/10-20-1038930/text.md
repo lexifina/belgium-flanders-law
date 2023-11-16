@@ -33,3 +33,14 @@ In artikel 473, §3, eerste lid, van het besluit van de Vlaamse Regering van 30 
 ### ART 3.
 
 Het ministerieel besluit van 13 januari 2021 tot vaststelling van de aanpassingscoëfficiënt in de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf wordt opgeheven.
+
+### ART 4.
+
+Artikel 1, 2°, en artikel 3 hebben uitwerking met ingang van 1 oktober 2023.<br>
+<br>
+Artikel 1, 1° en 3°, en artikel 2 treden in werking op 1 januari 2024.<br>
+&nbsp;
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor de sociale bescherming, is belast met de uitvoering van dit besluit.
