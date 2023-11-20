@@ -14,7 +14,9 @@ In dit besluit wordt verstaan onder :<br>
 3° voorzieningen in de jeugdhulp: de erkende voorzieningen, vermeld in artikel 2 van het besluit van 5 april 2019;<br>
 4° vergunde diensten voor pleegzorg: de vergunde diensten, vermeld in artikel 10 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
 5° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
-6° besluit van 5 april 2019: het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp.
+6° besluit van 5 april 2019: het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+7° OverKophuis: de locatie waar het aanbod wordt georganiseerd, vermeld in hoofdstuk 3 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning;<br>
+8° gebruiker: een natuurlijke persoon of een rechtspersoon die, al dan niet vrijwillig, een beroep doet op een gezondheids-of welzijnsvoorziening als vermeld in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.
 
 ## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
 
@@ -80,6 +82,31 @@ Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastruc
 Als een voorziening in de jeugdhulp als vermeld in het eerste lid, voorziet in een spelruimte, heeft die een minimum nettovloeroppervlakte van 20 m<sup><span style="font-size:small">2</span></sup>.<br>
 <br>
 De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in de voorgaande leden. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder die afwijking kan worden toegestaan</p>
+
+### ART 5/0.
+
+Een OverKophuis waaraan 0 tot 3 voltijds equivalente personeelsleden verbonden zijn, zoals aanvaard door het Agentschap Opgroeien regie, komt voor een investeringssubsidie in aanmerking als de basisinfrastructuur ten minste bestaat uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn:<br>
+1°&nbsp;&nbsp; &nbsp;een sanitaire ruimte van 10 m², met gescheiden toilet voor mannen en vrouwen en met minstens één rolstoeltoegankelijk toilet;<br>
+2°&nbsp;&nbsp; &nbsp;een archief- en bergruimte van 10 m²;<br>
+3°&nbsp;&nbsp; &nbsp;een gespreksruimte van 16 m²;<br>
+4°&nbsp;&nbsp; &nbsp;voldoende buitenruimte voor gebruikers, bezoekers en personeel;<br>
+5°&nbsp;&nbsp; &nbsp;een activiteitenruimte van 60 m², die opdeelbaar is afhankelijk van de behoeften.<br>
+<br>
+Een OverKophuis waaraan 3 tot 6 voltijds equivalente personeelsleden verbonden zijn, zoals aanvaard door het Agentschap Opgroeien regie, komt voor een investeringssubsidie in aanmerking als het ten minste bestaat uit de basisinfrastructuur die nodig is voor een OverKophuis met 0 tot 3 vte, aangevuld met de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn:<br>
+1°&nbsp;&nbsp; &nbsp;een ontmoetingsruimte van 90 m², die aan al de volgende voorwaarden voldoet:<br>
+a)&nbsp;&nbsp; &nbsp;de ruimte is aangepast ingericht en voldoende groot om activiteiten voor gebruikers te organiseren;<br>
+b)&nbsp;&nbsp; &nbsp;de ruimte is opdeelbaar afhankelijk van de behoeften van de doelgroep;<br>
+2°&nbsp;&nbsp; &nbsp;een bureauruimte van 12 m².<br>
+<br>
+Een OverKophuis waaraan 6 of meer voltijds equivalente personeelsleden verbonden zijn, zoals aanvaard door het Agentschap Opgroeien regie, komt voor een investeringssubsidie in aanmerking als het ten minste bestaat uit de ruimtes die nodig zijn voor een OverKophuis met 3 tot 6 vte, aangevuld met minstens extra 100 m². Het OverKophuis vult de voormelde 100 m² in met een of meer van de ruimtes, vermeld in het eerste lid, 1°, 2°, 3° en 5° of het tweede lid, 1° en 2° of met een uitbreiding van de oppervlakte van een of meer van de voormelde ruimtes of met een combinatie van beide.<br>
+<br>
+Het Fonds kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste, tweede en derde lid.
+
+### ART 5/0/1.
+
+Een netwerkpartner als vermeld in artikel 14, zesde lid, van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning, en een actor die voldoet aan al de voorwaarden, vermeld in artikel 18, eerste lid, van het voormelde besluit, kunnen een investeringssubsidie aanvragen.<br>
+<br>
+Het gebouw van een OverKophuis, dat door het Fonds wordt gesubsidieerd, wordt minstens 80% per week gebruikt door het OverKophuis zelf of een netwerkpartner als vermeld in artikel 14, zesde lid, van het voormelde besluit. Het OverKophuis voegt een engagementsverklaring over de voormelde voorwaarde toe aan de aanvraag voor een investeringssubsidie. De voormelde engagementsverklaring wordt opgesteld op basis van een model dat het Fonds ter beschikking stelt.
 
 ### ART 5/1.
 
@@ -150,7 +177,11 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 4° voor een dienst voor herstelgerichte en constructieve afhandeling als vermeld in artikel 7 van het voormelde besluit, en voor een vergunde dienst voor pleegzorg: 20 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt;<br>
 5° voor een centrum voor ontwikkelingsstoornissen: 65 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt.<br>
 6° voor een centrum voor integrale gezinszorg, met behoud van de toepassing van punt 2° en 3° : 65 m2 per gebruiker die het centrum volgens zijn erkenning kan opnemen;<br>
-7° voor een voorziening in de jeugdhulp die erkend is voor de typemodule begeleiding in een kleinschalige wooneenheid, vermeld in de voormelde bijlage: 65 m2 per erkende module begeleiding in een kleinschalige wooneenheid.<br>
+7° voor een voorziening in de jeugdhulp die erkend is voor de typemodule begeleiding in een kleinschalige wooneenheid, vermeld in de voormelde bijlage: 65 m2 per erkende module begeleiding in een kleinschalige wooneenheid;<br>
+8° voor een OverKophuis:<br>
+a)&nbsp;&nbsp; &nbsp;met minder dan 3 vte van de personeelsformatie die het Agentschap Opgroeien regie vaststelt: 150 m² per OverKophuis;<br>
+b)&nbsp;&nbsp; &nbsp;met 3 tot 6 vte van de personeelsformatie die het Agentschap Opgroeien regie vaststelt: 300 m² per OverKophuis;<br>
+c)&nbsp;&nbsp; &nbsp;met 6 of meer vte van de personeelsformatie die het Agentschap Opgroeien regie vaststelt: 450 m² per OverKophuis.<br>
 <br>
 Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
 
