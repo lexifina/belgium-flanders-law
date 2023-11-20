@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038960,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-27 waarbij de hevige regenval die heeft plaatsgevonden op 5 en 6 juni 2022 als een ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038960/VolledigDocument?datum=2023-11-20",
+  "source_sha256": "3065e409d0e3d095997b7e55c1dad3a3f7a3a08e7bf22899b008ca6843372aaf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038960&param=informatie",
+  "as_of": "2023-11-20",
+  "made": "2023-10-27",
+  "gazette": "2023-11-10",
+  "numac": 2023046960,
+  "document_start": "2023-11-20",
+  "document_end": null,
+  "in_force": "2023-11-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
