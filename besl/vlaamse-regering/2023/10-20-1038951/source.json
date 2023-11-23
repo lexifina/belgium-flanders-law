@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038951,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-20 tot opheffing van het besluit van de Vlaamse Regering van 24 januari 2020 tot erkenning van de beroepskwalificatie labotechnische medewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038951/VolledigDocument?datum=2023-11-23",
+  "source_sha256": "2f6c7e77ef2c421277d06b517493ece2468877afba0e01c84f034e523afe0a05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038951&param=informatie",
+  "as_of": "2023-11-23",
+  "made": "2023-10-20",
+  "gazette": "2023-11-13",
+  "numac": 2023046913,
+  "document_start": "2023-11-23",
+  "document_end": null,
+  "in_force": "2023-11-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
