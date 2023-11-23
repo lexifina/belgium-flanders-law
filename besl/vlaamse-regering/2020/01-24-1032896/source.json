@@ -2,16 +2,16 @@
   "codex_id": 1032896,
   "title": "Besluit van de Vlaamse Regering van 2020-01-24 tot erkenning van de beroepskwalificatie labotechnische medewerker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032896/VolledigDocument?datum=2020-05-04",
-  "source_sha256": "ad86887aea0ece89965357b5de08e00770930bfbdc88f632e787d6f424ff38e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032896/VolledigDocument?datum=2023-11-23",
+  "source_sha256": "fee26841bc24c5e28b62a3f029c3e20522b912f93d5af184c15aa176ebc66db6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032896&param=informatie",
-  "as_of": "2020-05-04",
+  "as_of": "2023-11-23",
   "made": "2020-01-24",
   "gazette": "2020-04-24",
   "numac": 2020030571,
   "document_start": "2020-05-04",
   "document_end": "2099-12-31",
-  "in_force": "2020-05-04",
+  "in_force": "2023-11-23",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-11-23; future article versions excluded; article text as the API gives it"
 }
