@@ -1714,7 +1714,7 @@ De huurder die vóór de inwerkingtreding van artikel 158, 1° en 2°, van dit d
 
 ### ART 218.
 
-Voor de toepassing van de voorwaarde, vermeld in artikel 6.8, § 1, eerste lid, 4°, van de Vlaamse Codex Wonen van 2021, zoals van kracht na de inwerkingtreding van artikel 166 van dit decreet, worden alleen de beëindigingen van de huurovereenkomsten die plaatsvinden vanaf de inwerkingtreding van artikel 166 van dit decreet, in aanmerking genomen.
+...
 
 ### ART 219.
 
