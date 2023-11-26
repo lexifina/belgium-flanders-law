@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038969,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-20 tot uitvoering van het decreet van 8 juli 2022 tot oprichting van het platform Vitalink",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038969/VolledigDocument?datum=2023-11-26",
+  "source_sha256": "b9b2fb32a3ea9dd8e14c1fe3410af697adaf71a57b92864c145b501e66037778",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038969&param=informatie",
+  "as_of": "2023-11-26",
+  "made": "2023-10-20",
+  "gazette": "2023-11-16",
+  "numac": 2023046992,
+  "document_start": "2023-11-26",
+  "document_end": null,
+  "in_force": "2023-11-26",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
