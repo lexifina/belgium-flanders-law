@@ -2,16 +2,16 @@
   "codex_id": 1038944,
   "title": "Besluit van de Vlaamse Regering van 2023-10-06 tot wijziging van diverse besluiten van de Vlaamse Regering, wat betreft bijkomende flexibiliteit in de personeelsinzet in woonzorgcentra en centra voor kortverblijf",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038944/VolledigDocument?datum=2022-07-01",
-  "source_sha256": "53d869a97bbc4493660e3f91cbf7c9bde0d0dfa93ad26da4899c04d66b2b9d25",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038944/VolledigDocument?datum=2023-11-26",
+  "source_sha256": "32883c5e0ccedbd70726758b849fb6f544d14fbb002212547e47dac2b9c9965a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038944&param=informatie",
-  "as_of": "2022-07-01",
+  "as_of": "2023-11-26",
   "made": "2023-10-06",
   "gazette": "2023-11-16",
   "numac": 2023046889,
   "document_start": "2022-07-01",
   "document_end": null,
-  "in_force": "2022-07-01",
-  "article_versions": 20,
-  "record_form": "consolidated version as in force on 2022-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-11-26",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2023-11-26; future article versions excluded; article text as the API gives it"
 }

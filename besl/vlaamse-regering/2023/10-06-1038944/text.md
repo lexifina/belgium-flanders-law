@@ -159,9 +159,28 @@ De minister kan bijkomende opdrachten en beleidsprioriteiten van de BelRAI-coör
 
 In artikel 488 van hetzelfde besluit wordt het woord “zorgkundigen” vervangen door de woorden “zorgkundigen en zijinstroomzorgkundigen”.
 
+### ART 18.
+
+Artikel 667/2 en 667/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 oktober 2022, worden opgeheven.
+
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten
 
+### ART 19.
+
+Artikel 19 en 19/1 van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, ingevoegd bij het besluit van de Vlaamse Regering van 14 oktober 2022, worden opgeheven.
+
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 14 oktober 2022 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft bijkomende flexibiliteit in de personeelsinzet in woonzorgcentra en centra voor kortverblijf
+
+### ART 20.
+
+Artikel 3 van het besluit van de Vlaamse Regering van 14 oktober 2022 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft bijkomende flexibiliteit in de personeelsinzet in woonzorgcentra en centra voor kortverblijf wordt opgeheven.
+
+### ART 21.
+
+In artikel 24 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt de datum “1 januari 2024” vervangen door de datum “1 januari 2025”;<br>
+2° in punt 3° wordt de zinsnede “3,” opgeheven;<br>
+3° in punt 3° wordt de datum “1 januari 2025” vervangen door de datum “1 januari 2027”.
 
 ## Hoofdstuk 4. Slotbepalingen
 
