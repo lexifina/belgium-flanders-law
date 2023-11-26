@@ -84,6 +84,10 @@ In artikel 432, vierde lid, van hetzelfde besluit worden de volgende wijzigingen
 2° de volgende zin wordt toegevoegd:<br>
 "Voor de factureringsperiode van 1 januari 2023 tot en met 31 december 2024 worden ook het zelfstandig verpleegkundig personeel, vermeld in artikel 475, §3, tweede lid, 1°, het verpleegkundig personeel, vermeld in artikel 475, §3, tweede lid, 2°, de zorgkundige uitzendkrachten, vermeld in artikel 475, §3, derde lid, 1° en het zelfstandig zorgkundig personeel, vermeld in artikel 475, §3, derde lid, 2° in aanmerking genomen.".&nbsp;
 
+### ART 3.
+
+...
+
 ### ART 4.
 
 Aan artikel 433, §6, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -253,8 +257,8 @@ Artikel 19/1. In afwijking van artikel 8, §3, eerste lid, geldt voor het meedel
 
 Dit besluit heeft uitwerking met ingang van 1 juli 2021, met uitzondering van:<br>
 1° artikel 4, 4° en artikel 11, die in werking treden op 1 januari 2023;<br>
-2° artikel 14, 17 en 19, die in werking treden op 1 januari 2024;<br>
-3° artikel 3, 6, 8, 12 en 21, die in werking treden op 1 januari 2025.
+2° artikel 14, 17 en 19, die in werking treden op 1 januari 2025;<br>
+3° artikel&nbsp; 6, 8, 12 en 21, die in werking treden op 1 januari 2027.
 
 ### ART 25.
 
