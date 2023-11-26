@@ -579,11 +579,11 @@ De bedragen vermeld in dit besluit en in de bijlage die bij dit besluit is gevoe
 
 ### ART 19.
 
-In afwijking van artikel 5, §2, derde lid, gaat de administratie, nadat de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 is afgelopen, op 17 oktober 2022 na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op uiterlijk 30 oktober 2022 nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
+...
 
 ### ART 19/1.
 
-In afwijking van artikel 8, §3, eerste lid, geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 dat als de voorziening de gegevens, vermeld in artikel 5, §1, heeft meegedeeld, de voorziening die gegevens nog kan wijzigen tot dertig dagen na de dag waarop de voorziening van de administratie de berekening heeft ontvangen. De administratie bezorgt de berekening aan de voorziening tussen 31 oktober 2022 en 14 november 2022.
+...
 
 ### ART 19/2.
 
