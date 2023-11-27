@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038981,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-15 over de regeling voor de toekenning van investeringssubsidies voor strategische cultuur- en jeugdinfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038981/VolledigDocument?datum=2023-11-27",
+  "source_sha256": "870fb135c3d03134fbdaa75cf2f1e6eabb1e18fc955176e06fba31e5873a636b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038981&param=informatie",
+  "as_of": "2023-11-27",
+  "made": "2023-09-15",
+  "gazette": "2023-11-17",
+  "numac": 2023047181,
+  "document_start": "2023-11-27",
+  "document_end": null,
+  "in_force": "2023-11-27",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2023-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
