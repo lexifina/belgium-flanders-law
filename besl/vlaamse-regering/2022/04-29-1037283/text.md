@@ -94,7 +94,8 @@ De volgende kosten komen in aanmerking voor sectorale investeringssubsidies:<br>
 De volgende werken, investeringen en kosten worden uitgesloten van subsidiëring:<br>
 1° horecavoorzieningen;<br>
 2° investeringen in kantoorruimtes;<br>
-3° de belasting over de toegevoegde waarde, met uitzondering van de niet-aftrekbare belasting over de toegevoegde waarde.
+3° de belasting over de toegevoegde waarde, met uitzondering van de niet-aftrekbare belasting over de toegevoegde waarde;<br>
+4° kosten die reeds door andere inkomsten of subsidies worden gedekt, kunnen niet worden ingebracht als aanvaardbare kosten.
 
 ### ART 7.
 
@@ -255,7 +256,9 @@ Voor de werken gegund worden, legt de subsidieontvanger het resultaat van de gun
 <br>
 De administratie betaalt de subsidie uit op basis van de vorderingsstaten, eventuele noodzakelijke bewijsstukken en de bijbehorende facturen op naam van de subsidieontvanger die goedgekeurd zijn door de administratie.<br>
 <br>
-De aanvraag tot uitbetaling kan ingediend worden tot zes jaar na de datum van de subsidiebeslissing.
+De aanvraag tot uitbetaling kan ingediend worden tot zes jaar na de datum van de subsidiebeslissing.<br>
+<br>
+De administratie kan op gemotiveerd verzoek van de begunstigde uitstel verlenen op de termijn voor de aanvraag tot uitbetaling, vermeld in het vijfde lid.
 
 ## Afdeling 4. Toezicht
 
@@ -290,7 +293,9 @@ In afwijking van artikel 14, vierde lid, beslist de Vlaamse minister, bevoegd vo
 
 ### ART 21.
 
-Het besluit van de Vlaamse Regering van 16 november 2012 betreffende het verlenen van investeringssubsidies voor culturele infrastructuur met bovenlokaal belang, blijft van toepassing op de sectorale investeringssubsidies waarvoor een beslissing is genomen op basis van het voormelde besluit.
+Het besluit van de Vlaamse Regering van 16 november 2012 betreffende het verlenen van investeringssubsidies voor culturele infrastructuur met bovenlokaal belang, blijft van toepassing op de sectorale investeringssubsidies waarvoor een beslissing is genomen op basis van het voormelde besluit.<br>
+<br>
+De administratie kan op gemotiveerd verzoek van de begunstigde uitstel verlenen op de termijn voor de aanvraag tot uitbetaling, vermeld in artikel 10, derde lid van het voormelde besluit.
 
 ### ART 22.
 
