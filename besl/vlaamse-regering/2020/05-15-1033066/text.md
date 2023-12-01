@@ -234,6 +234,10 @@ Indien het aantal dieren die aanwezig zijn op het bedrijf op de datum van inwerk
 
 ## HOOFSTUK 4. Slotbepalingen
 
+### ART 22.
+
+Het koninklijk besluit van 25 april 1994 houdende uitvoering van artikel 36, 10°, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, gewijzigd bij het koninklijk besluit van 8 december 2010 en het besluit van de Vlaamse Regering van 23 november 2018, wordt opgeheven.
+
 ### ART 23.
 
 Artikel 22 treedt in werking op 1 december 2023.
