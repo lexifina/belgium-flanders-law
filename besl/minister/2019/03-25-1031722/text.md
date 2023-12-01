@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder het decreet van 7 juli 2017: het decreet van
 
 ### ART 2.
 
-Dit besluit is van toepassing op de private uitbetalingsactoren, vermeld in artikel 2, 8°, van het decreet van 7 juli 2007, zijnde:<br>
+Dit besluit is van toepassing op de private uitbetalingsactoren, vermeld in artikel 2, 8°, van het decreet van 7 juli 2017, zijnde:<br>
 1° Infino Vlaanderen vzw;<br>
 2° vzw Kidslife Vlaanderen;<br>
 3° Parentia Vlaanderen vzw;<br>
