@@ -2,16 +2,16 @@
   "codex_id": 1039107,
   "title": "Besluit van de Vlaamse Regering van 2023-11-17 tot wijziging van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp, wat betreft de gezinshuizen en tot uitvoering van het zesde Vlaams Intersectoraal Akkoord voor de social- en non-profitsectoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039107/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "34c998a35eb7920040f399ed95c6474251ef3730951168eb596b1d286b6f5b8b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039107/VolledigDocument?datum=2023-12-01",
+  "source_sha256": "04321f61e3b1f4a86196bcd95a55744839e7b787618f9577c2c0117c1632364e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039107&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-12-01",
   "made": "2023-11-17",
   "gazette": "2023-12-15",
   "numac": 2023048210,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-12-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-12-01; future article versions excluded; article text as the API gives it"
 }

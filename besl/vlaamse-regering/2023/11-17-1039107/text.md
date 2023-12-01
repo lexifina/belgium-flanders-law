@@ -51,6 +51,44 @@ In artikel 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 “De administrateur-generaal kan bepalen dat modules waarvoor aan een organisatie voor bijzondere jeugdzorg erkenning is verleend, uitsluitend ingezet kunnen worden voor niet-begeleide minderjarige vreemdelingen.<br>
 In het zesde lid wordt verstaan onder niet-begeleide minderjarige vreemdeling: iedere persoon die voldoet aan de voorwaarden, vermeld in artikel 5 van titel XIII, hoofdstuk 6, van de programmawet (I) van 24 december 2002.”.
 
+### ART 4.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 6 november 2023, wordt een artikel 15/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 15/2. §1. Een voorziening van categorie 1 die erkend is om de typemodule verblijf in een gezinshuis aan te bieden, voldoet, met behoud van de toepassing van artikel 13, aan de volgende bijzondere voorwaarden:<br>
+1° de voorziening biedt aan de gezinshuisouder en al zijn gezinsleden een kwaliteitsvolle ondersteuning en begeleiding zodat de opvang en begeleiding in een gezinshuis daadwerkelijk inspeelt op de behoeften van de minderjarige en bijdraagt tot continuïteit in relaties, veiligheid en welzijn van alle betrokkenen;&nbsp;<br>
+2° de voorziening staat in voor een correcte en passende informatieverstrekking aan gezinshuisouders over het individueel functioneren van de minderjarigen en de samenwerking met de ouders in functie van een kwaliteitsvolle handelingsplanning en evaluatie;<br>
+3° de voorziening ondersteunt de samenwerkingsrelatie van de gezinshuisouder met de ouders en alle relevante betrokkenen uit het gezins- en opvoedingsmilieu van de minderjarige en maakt daarvoor de nodige afspraken, in voorkomend geval rekening houdend met de beslissing van de verwijzende instantie;<br>
+4° de voorziening voorziet, al dan niet via structurele samenwerking met andere voorzieningen binnen het werkingsgebied waaraan een erkenning voor de typemodule verblijf of de typemodule verblijf in een gezinshuis is verleend, in een residentiële terugvalmogelijkheid voor de minderjarigen die in een gezinshuis verblijven;<br>
+5° de voorziening werkt, minimaal rond de volgende opdrachten, structureel samen met de dienst voor pleegzorg uit het werkingsgebied en ook met andere voorzieningen uit het werkingsgebied waaraan een erkenning voor de typemodule verblijf in een gezinshuis is verleend:<br>
+&nbsp; a) haar gezinshuis of gezinshuizen bekendmaken;<br>
+&nbsp; b) gezinshuisouders werven en screenen aan de hand van de bijzondere voorwaarden, vermeld in paragraaf 3;<br>
+&nbsp; c) minderjarigen naar een gezinshuis oriënteren;<br>
+&nbsp; d) vorming voor gezinshuisouders organiseren;<br>
+&nbsp; e) professionaliserings-, uitwisselings- en intervisiemogelijkheden voor gezinshuisouders organiseren.<br>
+<br>
+In het eerste lid, 5°, wordt verstaan onder dienst voor pleegzorg: de dienst voor pleegzorg, vermeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.<br>
+<br>
+§2. Een gezinshuis voldoet aan de volgende bijzondere voorwaarden:<br>
+1° in een gezinshuis worden maximaal zes minderjarigen begeleid en opgevangen, met inbegrip van eigen kinderen en pleegkinderen. Per bezoldigde gezinshuisouder worden maximaal drie minderjarigen begeleid en opgevangen. Voormelde beperkingen gelden niet voor broers of zussen. De administrateur-generaal kan afwijkingen toestaan van het maximale aantal minderjarigen per gezinshuis en per gezinshuisouder na een gemotiveerde schriftelijke aanvraag van de moederorganisatie;<br>
+2° een gezinshuis werkt aantoonbaar volgens de volgende principes:<br>
+&nbsp; a) er wordt een positief en ondersteunend gezinsklimaat aangeboden waarin alle minderjarigen onvoorwaardelijk en evenwaardig ondersteund worden;&nbsp;<br>
+&nbsp; b) er wordt structuur en continuïteit aangeboden, met weloverwogen regels en afspraken en met het oog op zo weinig mogelijk repressie;&nbsp;<br>
+&nbsp; c) de ouders en andere relevante betrokkenen uit het gezins- en opvoedingsmilieu van de minderjarige worden betrokken bij het dagelijks leven van het gezinshuis;<br>
+&nbsp; d) er wordt samengewerkt met actoren die universele diensten en activiteiten aanbieden en met eerstelijnsactoren en vrijetijdsactoren in de buurt om het gewone leven binnen te brengen in de bijzondere situatie van de plaatsing;<br>
+&nbsp; e) vanuit het dagelijkse leven wordt in voorkomend geval bij specifieke zorgbehoeften bijgeschakeld naar een meer gespecialiseerd aanbod;<br>
+3° alle meerderjarige gezinsleden van een gezinshuis voldoen aan de verplichting, vermeld in artikel 3 van het decreet van 3 juni 2022.<br>
+<br>
+§3. Een gezinshuisouder voldoet aan de volgende bijzondere voorwaarden:<br>
+1° een gezinshuisouder beschikt over een menswetenschappelijk diploma, minimaal van bachelorniveau, of kan aantonen over voldoende relevante competenties te beschikken om op dat niveau te functioneren;&nbsp;<br>
+2° een gezinshuisouder wordt geselecteerd op basis van een onderbouwd screeningsproces, waarbij rekening gehouden wordt met al de volgende elementen:<br>
+&nbsp; a) de pedagogische draagkracht om de opgevangen minderjarigen een stabiel leefklimaat te bieden;<br>
+&nbsp; b) de materiële mogelijkheden;<br>
+&nbsp; c) de nodige competenties en persoonlijkheidskenmerken om adequaat om te gaan met complexe opvoedingssituaties in een gezinshuis;<br>
+&nbsp; d) de gezinssituatie en sociale context van het gezin.<br>
+<br>
+Bij de toetsing van de kenmerken van een minderjarige aan het profiel van de gezinshuisouder en zijn gezin wordt in voorkomend geval rekening gehouden met bevindingen uit voorgaande hulpverlening. Ook waakt de voorziening erover dat de ideologische, filosofische en godsdienstige overtuiging van de minderjarige en het gezin van oorsprong gerespecteerd worden.”.
+
 ### ART 6.
 
 In artikel 23, 5°, van hetzelfde besluit wordt het bedrag “6,70 euro” vervangen door het bedrag “7,85 euro” en wordt de zinsnede “index van de consumptieprijzen, die van toepassing is op 1 januari 2019” vervangen door de zinsnede “spilindex die van toepassing is op 1 januari 2023”.
@@ -64,6 +102,48 @@ In artikel 35, §5, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaa
 ### ART 9.
 
 In artikel 42, derde lid, van hetzelfde besluit wordt het bedrag “202,39 euro” vervangen door het bedrag “219,07 euro” en wordt de zinsnede “index van de consumptieprijzen, die van toepassing is op 1 januari 2019” vervangen door de zinsnede “spilindex die van toepassing is op 1 januari 2023”.
+
+### ART 10.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 maart 2020, 5 februari 2021, 12 maart 2021 en 17 december 2021, wordt een artikel 42/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 42/1. Aan voorzieningen van categorie 1 die erkend zijn voor de typemodule verblijf in een gezinshuis, wordt per minderjarige en per verblijfsdag in een gezinshuis een subsidie toegekend als forfaitaire kostenvergoeding conform de volgende tabel:
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">Leeftijd minderjarige</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">Kostenvergoeding (in euro)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:302px">0-6</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:302px">29,48</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:302px">7-12</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:302px">29,97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">13-15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">32,22</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">16-17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">33,97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">18 en ouder</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">35,70</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De minister kan bepaalde dagen afwezigheid gelijkstellen met werkelijke aanwezigheid.<br>
+<br>
+De forfaitaire kostenvergoeding, vermeld in het eerste lid, is uitsluitend bestemd als tegemoetkoming in de uitgaven die een gezinshuisouder maakt voor het verblijf en de zorg van de minderjarigen.<br>
+<br>
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
+<br>
+De forfaitaire kostenvergoeding, vermeld in het eerste lid, wordt in maandelijkse voorschotten uitgekeerd aan de voorzieningen die erkend zijn voor de typemodule verblijf in een gezinshuis. Ze storten de voormelde kostenvergoeding onmiddellijk door aan de gezinshuisouder.”.
 
 ### ART 11.
 
