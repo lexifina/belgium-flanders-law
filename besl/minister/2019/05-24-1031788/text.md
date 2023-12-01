@@ -67,7 +67,9 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 46° Eric Van Tilburgh;<br>
 47° Els Vanautryve;<br>
 48° Feline Geukens;<br>
-49° Greta De Maesschalck.
+49° Greta De Maesschalck;<br>
+50° Jolien Goddé;<br>
+51° Laura Van Herzele.
 
 ### ART 2.
 
