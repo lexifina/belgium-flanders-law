@@ -668,6 +668,54 @@ In artikel 6.5.17 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 In artikel 6.5.24, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juli 2022, wordt tussen het woord “onderneming” en de woorden “van wie de vestiging” de zinsnede “, niet-commerciële instelling of publiekrechtelijke rechtspersoon” ingevoegd.
 
+### ART 41.
+
+In titel VI, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018, wordt het opschrift van hoofdstuk VI vervangen door wat volgt:<br>
+<br>
+“Hoofdstuk VI. Beperking van het op ondernemings- of vestigingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie en warmte-krachtkoppeling ontstane kosten voor ondernemingen die deel uitmaken van een sector die risico loopt op delokalisatie of ondernemingen die deel uitmaken van een sector die een aanzienlijk risico loopt op delokalisatie”.
+
+### ART 42.
+
+In artikel 6.6.1 van het hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018 en gewijzigd bij de besluiten van de Vlaamse Regering van 28 juni 2019 en 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:&nbsp;<br>
+“§1. Als voldaan wordt aan de voorwaarden vermeld in dit hoofdstuk wordt het bedrag van de door financieringssteun voor hernieuwbare energie en warmte-krachtkoppeling ontstane kosten dat door een onderneming op ondernemingsniveau of vestigingsniveau verschuldigd is, beperkt tot 1% van de bruto toegevoegde waarde van de onderneming indien de onderneming behoort tot een van de sectoren die risico loopt op delokalisatie, zoals vermeld in deel 2 van bijlage IV/1 of zoals bepaald door de minister.<br>
+De minister kan bepalen dat een sector of subsector die niet wordt vermeld in deel 2 van bijlage IV/1, een sector die risico loopt op delokalisatie is, voor zover de aanduiding van deze sector voldoet aan elk van de volgende voorwaarden:<br>
+1° het betreft een sector waarvoor de vermenigvuldiging van de handelsintensiteit en de elektriciteitsintensiteit op Unieniveau ten minste 0,6 % bedraagt;<br>
+2° het betreft een sector waarvan de handelsintensiteit en de elektriciteitsintensiteit op Unieniveau respectievelijk ten minste 4 % en 5 % bedragen.<br>
+De voorwaarden, vermeld in het tweede lid, 1° en 2°, worden aangetoond met gegevens die representatief zijn voor de sector of subsector op het niveau van de Unie, zijn gebaseerd op een periode van ten minste drie opeenvolgende jaren die niet eerder dan 2013 begint en zijn geverifieerd door een onafhankelijke deskundige.”;<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+“§2. Als voldaan wordt aan de voorwaarden vermeld in dit hoofdstuk wordt het bedrag van de door financieringssteun voor hernieuwbare energie en warmte-krachtkoppeling ontstane kosten dat door een onderneming op ondernemingsniveau of vestigingsniveau verschuldigd is, beperkt tot 0,5 % van de bruto toegevoegde waarde van de onderneming indien de onderneming behoort tot een van de sectoren die een aanzienlijk risico loopt op delokalisatie, zoals vermeld in deel 1 van bijlage IV/1 of zoals bepaald door de minister.<br>
+De minister kan bepalen dat een sector of subsector die niet wordt vermeld in deel 1 van bijlage IV/1, een sector die aanzienlijk risico loopt op delokalisatie is, voor zover de aanduiding van deze sector voldoet aan elk van de volgende voorwaarden:<br>
+1° het betreft een sector waarvoor de vermenigvuldiging van de handelsintensiteit en de elektriciteitsintensiteit op Unieniveau ten minste 2 % bedraagt;<br>
+2° het betreft een sector waarvan de handelsintensiteit en de elektriciteitsintensiteit op Unieniveau voor elke indicator 5 % bedraagt;<br>
+De voorwaarden, vermeld in het tweede lid, 1° en 2° worden aangetoond met gegevens die representatief zijn voor de sector of subsector op het niveau van de Unie, zijn gebaseerd op een periode van ten minste drie opeenvolgende jaren die niet eerder dan 2013 begint, en zijn geverifieerd door een onafhankelijke deskundige.”;<br>
+3° in paragraaf 3, eerste lid, 2°, wordt tussen het woord “energieplan” en de zinsnede “, als vermeld in titel VI, hoofdstuk V” de woorden “of energieaudit onderneming” ingevoegd;<br>
+4° in paragraaf 4 worden het eerste en tweede lid opgeheven;<br>
+5° er wordt een paragraaf 7 toegevoegd, dat luidt als volgt:&nbsp;<br>
+“§7. Het bedrag van de bijdrage, vermeld in paragraaf 1 en 2, mag nooit lager zijn dan een bedrag dat overeenstemt met een heffing van minder dan 0,5 euro per MWh voor wat betreft de door financieringssteun voor hernieuwbare energie en warmte-krachtkoppeling ontstane kosten die door de betreffende onderneming op ondernemingsniveau of vestigingsniveau verschuldigd zouden zijn.”.
+
+### ART 43.
+
+In titel VI, hoofdstuk VI, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018 wordt in het opschrift van afdeling II het woord “elektro-intensieve” opgeheven.
+
+### ART 44.
+
+In artikel 6.6.2 van het hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord “elektro-intensieve” opgeheven;<br>
+2° in paragraaf 1, tweede lid, wordt punt 2° vervangen door wat volgt:&nbsp;<br>
+“2° de elektriciteitskosten van de onderneming of vestigingseenheid, alsook een gedetailleerde toelichting over de wijze waarop deze berekend werden conform artikel 6.6.1, § 4, met hierin inbegrepen een expliciete vermelding van het bedrag dat overeenstemt met de door financieringssteun voor hernieuwbare energie en warmte-krachtkoppeling ontstane kosten die door de betreffende onderneming op ondernemingsniveau of vestigingsniveau verschuldigd zouden zijn;”;<br>
+3° in paragraaf 1, tweede lid, 7°, wordt tussen het woord “energieplan” en de zinsnede “: de maatregelen inzake energie-efficiëntie” de woorden “of energieaudit onderneming” ingevoegd.&nbsp;
+
+### ART 45.
+
+In artikel 6.6.4 van het hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt het woord “elektriciteitsintensiteit” vervangen door het woord “elektriciteitskosten”.
+
+### ART 46.
+
+Aan titel VI, hoofdstuk VI, afdeling III van hetzelfde besluit, het laatst gewijzigd bij het besluit van 19 oktober 2022, wordt een artikel 6.6.5 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 6.6.5. Als het VEKA vaststelt dat een onderneming, die geen lid is van een energiebeleidsovereenkomst, de verplichte maatregelen in het kader van het energieplan of de energie-audit onderneming, vermeld in artikel 6.6.1, §3, 2°, niet uitvoert conform de voorziene timing in artikel 6.5.5, §2 en artikel 6.5.13, §4, kan het bedrag van de beperking die in toepassing van dit hoofdstuk werd toegestaan aan de betreffende onderneming worden teruggevorderd en wordt de onderneming in de toekomst uitgesloten van verdere toepassing van dit hoofdstuk totdat de verplichte maatregelen werden uitgevoerd.”.
+
 ### ART 47.
 
 Aan artikel 6.7.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 februari 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -1307,6 +1355,10 @@ In artikel 12.3.22 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaam
 ### ART 103.
 
 In artikel 12.3.27, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 mei 2022 en gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2022, worden de woorden “in de jaren 2022 en 2023” vervangen door de woorden “vanaf 1 januari 2022” en worden tussen de woorden “vanaf 1 juli 2022” en de woorden “worden de premies” de woorden “tot en met 31 december 2025” ingevoegd.
+
+### ART 104.
+
+Bijlage IV/1 bij het hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 februari 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 18 december 2020, wordt vervangen door bijlage 1, die bij dit besluit is gevoegd.
 
 ### ART 105.
 
