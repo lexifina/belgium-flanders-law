@@ -25,9 +25,9 @@ In dit besluit wordt verstaan onder:<br>
 2° besluit van 13 juli 2018: het besluit van de Vlaamse Regering van 13 juli 2018 houdende de nadere regels over het toezicht, de nalevingsondersteuning en de handhaving ten aanzien van de burgers en de private uitbetalingsactoren, wat betreft de toelagen in het kader van het gezinsbeleid;<br>
 3° besluit van 21 september 2018: het besluit van de Vlaamse Regering van 21 september 2018 tot regeling van sommige aspecten van de organisatie en werking van het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid;<br>
 4° decreet van 7 juli 2017: het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
-5° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+5° ...;<br>
 6° fraude: fraude als vermeld in artikel 1, 2°, van het besluit van 13 juli 2018;<br>
-7° gezinsinspecteur: de gezinsinspecteur, vermeld in artikel 3, § 3, 4°, van het decreet van 27 april 2018;<br>
+7° gezinsinspecteur: de gezinsinspecteur, vermeld in artikel 3, § 3, 4°, van het Groeipakketdecreet van 2018;<br>
 8° sociale inspectie- en begeleidingsdienst: de sociale inspectie- en begeleidingsdienst, vermeld in artikel 22 van het decreet van 7 juli 2017.
 
 ## HOOFDSTUK 2. Controles door de gezinsinspecteurs
@@ -38,7 +38,7 @@ De dringende controle op initiatief van een uitbetalingsactor, vermeld in artike
 1° de uitbetalingsactor vermoedt dat de werkelijke situatie van de begunstigden niet of niet meer overeenstemt met de officiële situatie of heeft twijfel over de gezinssituatie;<br>
 2° de uitbetalingsactor heeft ernstige en eensluidende aanwijzingen van fraude;<br>
 3° de uitbetalingsactor heeft, na uitputting van alle administratieve mogelijkheden, onvoldoende of tegenstrijdige gegevens gekregen via de gegevensstromen binnen het gegevensnetwerk of van de betrokken begunstigden, waardoor hij geen beslissing kan nemen;<br>
-4° de uitbetalingsactor wil de situatie controleren van het kind dat niet kan bewijzen dat het toegelaten of gemachtigd is om in het Rijk te verblijven of er zich te vestigen als vermeld in artikel 8, § 1, eerste lid, 1°, van het decreet van 27 april 2018, met toepassing van artikel 2 van het ministerieel besluit van 13 maart 2019 houdende de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen;<br>
+4° de uitbetalingsactor wil de situatie controleren van het kind dat niet kan bewijzen dat het toegelaten of gemachtigd is om in het Rijk te verblijven of er zich te vestigen als vermeld in artikel 8, § 1, eerste lid, 1°, van het Groeipakketdecreet van 2018, met toepassing van artikel 2 van het ministerieel besluit van 13 maart 2019 houdende de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen;<br>
 5° de uitbetalingsactor vraagt een onderzoek van de solvabiliteit van de begunstigde in geval van terugvordering van ten onrechte verrichte betalingen van toelagen in het kader van het gezinsbeleid;<br>
 6° de uitbetalingsactor wil nagaan of de jongste begunstigde in de onmogelijkheid is om te reageren op de keuze van de uitbetalingsactor of van de bankrekening. Het bewijs dat de oudste begunstigde moet aanleveren, ontbreekt of biedt onvoldoende zekerheid;<br>
 7° de uitbetalingsactor wil bij de terugkeer van de vermoedelijk afwezige ouder de datum van terugkeer vastleggen, als die datum niet op een andere wijze vastgesteld kan worden;<br>
@@ -56,7 +56,7 @@ De dringende systematische controle, vermeld in artikel 4, § 1, eerste lid, 2°
 5° volgens het Rijksregister wonen de begunstigden die op basis van hun inkomen recht hebben op een sociale toeslag, op hetzelfde adres, maar zijn er twee aparte gezinskernen;<br>
 6° een kind wordt geboren en staat ingeschreven in het Rijksregister en beide ouders studeren of verblijven in het buitenland;<br>
 7° een kind wordt geboren in een gezin dat op basis van het Rijksregister als alleenstaand wordt beschouwd en dat op basis van het inkomen een sociale toeslag ontvangt of kan ontvangen;<br>
-8° twee maanden na elkaar blijven de uitgegeven cheques ongeïnd als vermeld in artikel 14, § 2, van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid.
+8° de betaling van de toelagen in het kader van het gezinsbeleid werd geschorst als vermeld in artikel 14, § 2, van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid.
 
 ### ART 4.
 
