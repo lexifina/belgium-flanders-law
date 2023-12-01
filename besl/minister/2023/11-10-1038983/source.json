@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038983,
+  "title": "Ministerieel besluit van 2023-11-10 tot wijziging van diverse besluiten met betrekking tot de toelagen in het kader van het gezinsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038983/VolledigDocument?datum=2023-12-01",
+  "source_sha256": "f994b8acd6b25b5eaca30f8c0f18b8c90a252f6c5af26f48fff25a739c6dacb8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038983&param=informatie",
+  "as_of": "2023-12-01",
+  "made": "2023-11-10",
+  "gazette": "2023-11-21",
+  "numac": 2023047211,
+  "document_start": "2023-12-01",
+  "document_end": null,
+  "in_force": "2023-12-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
