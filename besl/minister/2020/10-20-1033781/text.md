@@ -24,7 +24,7 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap, vermeld in artikel 3, § 1, 4°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+1° agentschap: het agentschap, vermeld in artikel 3, § 1, 4°, van het Groeipakketdecreet van 2018;<br>
 2° besluit van 5 oktober 2018: het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen.
 
 ## HOOFDSTUK 2. Verificatie prestaties rechtgevend kind
@@ -84,7 +84,7 @@ Het attest van de vrijwilligersorganisatie, van de Rijksdienst voor Arbeidsvoorz
 1° de voor- en achternaam en de geboortedatum van het kind;<br>
 2° de woonplaats van het kind;<br>
 3° de periode en de plaats van het verblijf van het kind buiten België;<br>
-4° de hoedanigheid van het kind tijdens de periode van verblijf buiten België als schoolverlater met mogelijk recht op gezinsbijslag gedurende twaalf maanden conform artikel 8, § 2, eerste lid, 3°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, en artikel 40 van het besluit van 5 oktober 2018;<br>
+4° de hoedanigheid van het kind tijdens de periode van verblijf buiten België als schoolverlater met mogelijk recht op gezinsbijslag gedurende twaalf maanden conform artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018, en artikel 40 van het besluit van 5 oktober 2018;<br>
 5° de reden van het verblijf van het kind buiten België tijdens de periode van twaalf maanden, vermeld in artikel 40 van het besluit van 5 oktober 2018: vrijwilligerswerk verrichten, opleiding of stage volgen;<br>
 6° de erkenning van de toestemming voor het verblijf van het kind buiten België tijdens die periode door de vrijwilligersorganisatie, door de Rijksdienst voor Arbeidsvoorziening of door de Vlaamse Dienst voor Arbeidsbemiddeling;<br>
 7° de naam en het adres van de vrijwilligersorganisatie, van de Rijksdienst voor Arbeidsvoorziening of van de Vlaamse Dienst voor Arbeidsbemiddeling;<br>
