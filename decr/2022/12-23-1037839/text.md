@@ -216,6 +216,10 @@ In artikel 7.1.11, §2, eerste lid, van hetzelfde decreet, vervangen bij het dec
 “15° 0,129 als het jaar n gelijk is aan 2026 tot en met 2031;<br>
 16° 0,112 als het jaar n gelijk is aan 2032 en daarna.”.
 
+### ART 31.
+
+In artikel 7.1.11/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020, worden de zinnen “Het op ondernemingsniveau of vestigingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmte-krachtkoppeling ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Voor ondernemingen of vestigingen met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging.” vervangen door de zin “Het op ondernemingsniveau of vestigingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie en kwalitatieve warmte-krachtkoppeling ontstane kosten wordt beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging, wanneer deze deel uitmaakt van een sector die een aanzienlijk risico loopt op delokalisatie, en tot 1% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging, wanneer deze deel uitmaakt van een sector die risico loopt op delokalisatie.”.
+
 ### ART 32.
 
 Aan artikel 7.1/1.4 van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2012 en vervangen bij het decreet van 26 april 2019, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
