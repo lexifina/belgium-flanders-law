@@ -19,7 +19,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap, vermeld in artikel 3, § 1, 4°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+1° ...;<br>
 2° besluit van 5 oktober 2018: het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslag, de startbedragen geboorte en adoptie en de universele participatietoeslagen.
 
 ### ART 2.
@@ -37,7 +37,7 @@ Het eerste lid, 1° en 2°, zoals gewijzigd bij het ministerieel besluit van 31 
 
 ### ART 3.
 
-Het onderzoek, vermeld in artikel 20, § 1, tweede lid, artikel 20, § 4, tweede lid, artikel 26, § 1, tweede lid, artikel 26, § 4, tweede lid, artikel 35, § 1, tweede lid, en artikel 35, § 3, tweede lid, van het besluit van 5 oktober 2018, wordt uitgevoerd door de evaluerende arts van Kind en Gezin, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag.
+Het onderzoek, vermeld in artikel 20, § 1, tweede lid, artikel 20, § 4, tweede lid, artikel 26, § 1, tweede lid, artikel 26, § 4, tweede lid, artikel 35, § 1, tweede lid, en artikel 35, § 3, tweede lid, van het besluit van 5 oktober 2018, wordt uitgevoerd door de evaluerend arts van het agentschap Opgroeien of Opgroeien regie, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag.
 
 ### ART 4.
 
