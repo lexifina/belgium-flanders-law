@@ -21,6 +21,7 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° centrum voor kortverblijf: een ouderenvoorziening als vermeld in artikel 30 en 32 van het Woonzorgdecreet van 13 maart 2009, die erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
+2°/1 centrum voor kortverblijf type 3: een centrum waarin respijtzorg voor ernstig zieke kinderen en jongeren tot en met 21 jaar aangeboden wordt, als vermeld in artikel 26, §1, tweede lid, 3°, van het Woonzorgdecreet van 15 februari 2019;<br>
 3° dagverzorgingscentrum: het dagverzorgingscentrum, vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, dat een bijkomende erkenning heeft conform artikel 10/5 van het besluit van de Vlaamse Regering van 24 juli 2009;<br>
 4° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 4° /1 deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf: het deel van de basistegemoetkoming voor zorg in de woonzorgcentra en centra voor kortverblijf dat de voorzieningen tussen 1 januari 2020 en 31 december 2021 verkregen op basis van artikel 504/3 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
@@ -46,6 +47,7 @@ c) de dagverzorgingscentra, met uitzondering van de dagverzorgingscentra die erk
 d) de centra voor kortverblijf;<br>
 e) de psychiatrische verzorgingstehuizen;<br>
 f) de multidisciplinaire begeleidingsequipes voor palliatieve zorg;<br>
+g) de centra voor kortverblijf type 3;<br>
 2° personeelsleden:<br>
 a) het verpleegkundig personeel, met inbegrip van de ziekenhuisassistenten en de sociaal verpleegkundigen, en het zorgkundig personeel;<br>
 b) de medewerkers patiëntenvervoer;<br>
@@ -212,7 +214,7 @@ Als met toepassing van het vifde lid 'Sigma'2 &gt; 'Sigma'1, wordt het te financ
 
 ### ART 7.
 
-In afwijking van artikel 6, § 2, wordt de tegemoetkoming begrensd tot 13 uur per week als een revalidatievoorziening een nieuwe werknemer heeft aangeworven om de uren van vrijstelling van arbeidsprestaties, die effectief zijn toegekend aan haar personeelsleden en waarvan de som minder dan 13 uur per week bedraagt, te compenseren.
+In afwijking van artikel 6, § 2, wordt de tegemoetkoming begrensd tot 13 uur per week als een revalidatievoorziening of een centrum voor kortverblijf type 3 een nieuwe werknemer heeft aangeworven om de uren van vrijstelling van arbeidsprestaties, die effectief zijn toegekend aan haar personeelsleden en waarvan de som minder dan 13 uur per week bedraagt, te compenseren.
 
 ### ART 8.
 
