@@ -303,6 +303,34 @@ Het agentschap verdeelt vanaf 1 november 2021 in 2021 over de erkende zorgkassen
 <br>
 Het agentschap betaalt het saldo uit nadat de jaarrekening en het boekhoudkundig verslag van de zorgkassen over de aanwending van de subsidie door het agentschap zijn goedgekeurd.
 
+### ART 13/7.
+
+§1. Het agentschap kent aan de erkende zorgkassen voor de jaren 2023 en 2024 een bijkomende subsidie toe voor werkingskosten voor investeringen in ICT-toepassingen voor de tegemoetkomingen voor:<br>
+1°&nbsp;&nbsp; &nbsp;revalidatieziekenhuizen;<br>
+2°&nbsp;&nbsp; &nbsp;revalidatieconventies;<br>
+3°&nbsp;&nbsp; &nbsp;de psychiatrische verzorgingstehuizen;<br>
+4°&nbsp;&nbsp; &nbsp;de initiatieven van beschut wonen;<br>
+5°&nbsp;&nbsp; &nbsp;de multidisciplinaire begeleidingsequipes voor palliatieve verzorging.&nbsp;<br>
+<br>
+De bijkomende subsidie, vermeld in het eerste lid, wordt aangewend voor de ontwikkeling en het onderhoud van de ICT-toepassingen binnen de Vlaamse sociale bescherming, vermeld in het eerste lid. De voormelde bijkomende subsidie bedraagt 71.536,97 euro.<br>
+<br>
+Het agentschap verdeelt vanaf 1 december 2023 over de erkende zorgkassen een voorschot van 80% van het bedrag, vermeld in het tweede lid. Het voormelde bedrag wordt op de volgende wijze verdeeld:<br>
+1°&nbsp;&nbsp; &nbsp;Christelijke Mutualiteit - Zorgkas Vlaanderen: 22.359,60 euro;<br>
+2°&nbsp;&nbsp; &nbsp;Neutrale Zorgkas Vlaanderen: 3359,38 euro;<br>
+3°&nbsp;&nbsp; &nbsp;Solidaris Zorgkas: 14.507,70 euro;<br>
+4°&nbsp;&nbsp; &nbsp;Zorgkas van de Liberale Ziekenfondsen: 4441,02 euro;<br>
+5°&nbsp;&nbsp; &nbsp;Helan, Zorgkas van de Onafhankelijke Ziekenfondsen: 12.561,89 euro.<br>
+<br>
+§2. Het agentschap verdeelt het saldo van 20% van het bedrag, vermeld in paragraaf 1, tweede lid, op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;Christelijke Mutualiteit - Zorgkas Vlaanderen: 5589,90 euro;<br>
+2°&nbsp;&nbsp; &nbsp;Neutrale Zorgkas Vlaanderen: 839,84 euro;<br>
+3°&nbsp;&nbsp; &nbsp;Solidaris Zorgkas: 3626,92 euro;<br>
+4°&nbsp;&nbsp; &nbsp;Zorgkas van de Liberale Ziekenfondsen: 1110,25 euro;<br>
+5°&nbsp;&nbsp; &nbsp;Helan, Zorgkas van de Onafhankelijke Ziekenfondsen: 3140,47 euro.<br>
+<br>
+Het agentschap betaalt het saldo uit nadat het agentschap het kostenoverzicht en de achterliggende bewijsstukken van de zorgkassen over de aanwending van de subsidie heeft goedgekeurd.<br>
+&nbsp;
+
 ## [Afdeling 5. Definitieve vaststelling van de subsidies en verrekening van de voorschotten (verv. BVR 14 december 2018, art. 23)]
 
 ### ART 14.
@@ -404,6 +432,31 @@ Het agentschap verdeelt vanaf 1 november 2021 in 2021 tussen de verzekeringsinst
 7° Kas der Geneeskundige Verzorging van HR Rail: 48.180 euro.<br>
 <br>
 § 3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat de jaarrekening en het boekhoudkundig verslag van de verzekeringsinstellingen over de aanwending van de subsidie door het Departement Zorg zijn goedgekeurd.
+
+### ART 15/4.
+
+§1. Het agentschap kent aan de verzekeringsinstellingen voor de jaren 2023 en 2024 een bijkomende subsidie toe voor werkingskosten voor investeringen in ICT-toepassingen. De voormelde bijkomende subsidie wordt aangewend voor de ontwikkeling en het onderhoud van alle ICT-toepassingen die nodig zijn voor de opdrachten conform het overnamedecreet. De voormelde bijkomende subsidie bedraagt 517.888,23 euro.<br>
+<br>
+Het agentschap verdeelt vanaf 1 oktober 2023 tussen de verzekeringsinstellingen een voorschot van 80% van het bedrag, vermeld in het eerste lid. Het voormelde bedrag wordt op de volgende wijze verdeeld:<br>
+1°&nbsp;&nbsp; &nbsp;Landsbond der Christelijke Mutualiteiten: 121.393 euro;<br>
+2°&nbsp;&nbsp; &nbsp;Landsbond van de Neutrale Ziekenfondsen: 18.685,41 euro;<br>
+3°&nbsp;&nbsp; &nbsp;Nationaal Verbond van Socialistische Mutualiteiten: 87.750,98 euro;<br>
+4°&nbsp;&nbsp; &nbsp;Landsbond van Liberale Mutualiteiten: 23.657,13 euro;<br>
+5°&nbsp;&nbsp; &nbsp;Landsbond van de Onafhankelijke Ziekenfondsen: 72.545,78 euro;<br>
+6°&nbsp;&nbsp; &nbsp;Hulpkas voor Ziekte- en Invaliditeitsverzekering: 44.911,27 euro;<br>
+7°&nbsp;&nbsp; &nbsp;Kas der Geneeskundige Verzorging van HR Rail: 45.367,01 euro.<br>
+<br>
+§2. Het agentschap verdeelt het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, op de volgende wijze tussen de verzekeringsinstellingen:<br>
+1°&nbsp;&nbsp; &nbsp;Landsbond der Christelijke Mutualiteiten: 30.348,25 euro;<br>
+2°&nbsp;&nbsp; &nbsp;Landsbond van de Neutrale Ziekenfondsen: 4.671,35 euro;<br>
+3°&nbsp;&nbsp; &nbsp;Nationaal Verbond van Socialistische Mutualiteiten: 21.937,75 euro;<br>
+4°&nbsp;&nbsp; &nbsp;Landsbond van Liberale Mutualiteiten: 5.914,28 euro;<br>
+5°&nbsp;&nbsp; &nbsp;Landsbond van de Onafhankelijke Ziekenfondsen: 18.136,45 euro;<br>
+6°&nbsp;&nbsp; &nbsp;Hulpkas voor Ziekte- en Invaliditeitsverzekering: 11.227,82 euro;<br>
+7°&nbsp;&nbsp; &nbsp;Kas der Geneeskundige Verzorging van HR Rail: 11.341,75 euro.<br>
+<br>
+§3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat het agentschap het kostenoverzicht en de achterliggende bewijsstukken van de verzekeringsinstellingen over de aanwending van de subsidie heeft goedgekeurd.<br>
+&nbsp;
 
 ## [HOOFDSTUK 5. Koppeling van de index van de subsidie of begrotingskredieten voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 29, I: 1 januari 2019)]
 
