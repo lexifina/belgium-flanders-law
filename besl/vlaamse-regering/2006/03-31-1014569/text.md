@@ -44,7 +44,8 @@ g) zorgen voor het uitbouwen en onderhouden van internationale sectorale contact
 h) beheren van het Vlaams Cultureel Centrum Voeren;<br>
 i) coördineren van het jeugd- en kinderrechtenbeleid;<br>
 j) uitlenen van kampeermateriaal voor de jeugd;<br>
-7° het beheren van de eigen cultuur- en jeugdinfrastructuur en het verlenen van subsidies voor cultuur- en jeugdinfrastructuur.<br>
+7° het beheren van de eigen cultuur- en jeugdinfrastructuur en het verlenen van subsidies voor cultuur- en jeugdinfrastructuur;<br>
+8° de manier en de nadere inhoud bepalen van de toegang van de burger tot, en de verstrekking van, de gegevens over rechtspersonen en groeperingen van natuurlijke personen in hun hoedanigheid van vereniging als vermeld in artikel 4, tweede lid, 1°, van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer, in overleg met de betrokken overheidsinstanties en externe overheden als vermeld in artikel II.7, negende lid, van het Bestuursdecreet van 7 december 2018.<br>
 &nbsp;
 
 ### ART. 4.
