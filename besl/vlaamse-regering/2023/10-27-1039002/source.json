@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039002,
+  "title": "Besluit van de Vlaamse Regering van 2023-10-27 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039002/VolledigDocument?datum=2023-12-04",
+  "source_sha256": "865a9443100bcf0fb42313390e479f911d55d1a076d935cd8a51449c9ec1f1ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039002&param=informatie",
+  "as_of": "2023-12-04",
+  "made": "2023-10-27",
+  "gazette": "2023-11-24",
+  "numac": 2023047314,
+  "document_start": "2023-12-04",
+  "document_end": null,
+  "in_force": "2023-12-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-12-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
