@@ -159,6 +159,12 @@ De minister kan, binnen de perken van de begrotingskredieten, een subsidie verle
 
 De minister kan, binnen de perken van de begrotingskredieten, een subsidie verlenen aan de lokale besturen voor de uitvoering van de Vlaamse beleidsprioriteiten of aan initiatieven of organisaties die de lokale besturen bijstaan en ondersteunen bij de uitvoering van de Vlaamse beleidsprioriteiten.
 
+### ART 8/2.
+
+Binnen de perken van de begrotingskredieten wordt jaarlijks een subsidie van 300.800 euro toegekend aan de Vereniging van Vlaamse Steden en Gemeenten voor de uitvoering van het convenant, vermeld in artikel 8/1, op basis van een goedgekeurd jaarplan.<br>
+<br>
+Het basisbedrag, vermeld in het eerste lid, wordt aangepast aan de gezondheidsindex, vermeld in artikel 2 van het koninklijk besluit ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, in overeenstemming met de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De basisindex is die van 1 januari 2023.
+
 ### ART 8/12.
 
 Binnen de perken van de begrotingskredieten wordt jaarlijks een subsidie van 468.000 euro toegekend aan Lus vzw voor de uitvoering van de overeenkomst, vermeld in artikel 8/11, op basis van een goedgekeurd jaarplan.<br>
