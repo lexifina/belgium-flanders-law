@@ -78,13 +78,15 @@ De kosten, verbonden aan het plaatsen, onderhouden en vernieuwen van de verkeers
 
 ### ART. 10/1.
 
-Wanneer de Vlaamse Regering of de gemeente een aanvullend reglement vaststellen dat betrekking heeft op het parkeren voor een beperkte tijd, het betalend parkeren en het parkeren op plaatsen voorbehouden aan houders van een gemeentelijke parkeerkaart, kunnen zij parkeerretributies of -belastingen bepalen die van toepassing zijn op motorvoertuigen, hun aanhangwagens of onderdelen.<br /><br />Deze bepaling geldt niet voor het halfmaandelijks beurtelings parkeren en de beperking van het langdurig parkeren.
+Wanneer de Vlaamse Regering of de gemeente een aanvullend reglement vaststellen dat betrekking heeft op het parkeren voor een beperkte tijd, het betalend parkeren en het parkeren op plaatsen voorbehouden aan houders van een gemeentelijke parkeerkaart of -vergunning, kunnen zij parkeerretributies of -belastingen bepalen die van toepassing zijn op motorvoertuigen, hun aanhangwagens of onderdelen.<br>
+<br>
+Deze bepaling geldt niet voor het halfmaandelijks beurtelings parkeren en de beperking van het langdurig parkeren.
 
 ### ART. 10/2.
 
-Met het oog op het innen van de parkeerretributies of -belastingen kunnen concessies of beheersovereenkomsten worden afgesloten.<br>
+Met het oog op het innen van de parkeerretributies of -belastingen en voor het uitreiken en het beheer van parkeerkaarten en -vergunningen, kunnen concessies of beheersovereenkomsten worden afgesloten.<br>
 <br>
-Voor de inning van de parkeerretributies of -belastingen, in het kader van de handhaving van het parkeerbeleid als taak van algemeen belang, worden de volgende persoonsgegevens verwerkt door de door de Vlaamse Regering aangeduide instantie, de steden en gemeenten en hun concessiehouders, en de gemeentelijke verzelfstandigde agentschappen:<br>
+Voor de inning van de parkeerretributies of -belastingen en voor het uitreiken en het beheer van parkeerkaarten en -vergunningen, in het kader van de uitvoering en de handhaving van het parkeerbeleid als taak van algemeen belang, worden de volgende persoonsgegevens verwerkt door de door de Vlaamse Regering aangeduide instantie, de steden en gemeenten en hun concessiehouders, en de gemeentelijke verzelfstandigde agentschappen:<br>
 1° de kentekenplaten;<br>
 2° de identificatiegegevens van de houders van de kentekenplaten;<br>
 3° de volgende technische kenmerken van de voertuigen:<br>
@@ -94,18 +96,23 @@ c) de maximaal toegelaten massa;<br>
 d) het merk;<br>
 e) het type;<br>
 f) de kleur.<br>
+4° de identificatiegegevens van de gebruikelijke bestuurder van het motorvoertuig dat op naam van een rechtspersoon is ingeschreven, als die rechtspersoon de gebruikelijke bestuurder heeft laten registreren in de Kruispuntbank van de voertuigen.<br>
 <br>
-De instanties, vermeld in het tweede lid, verzamelen en verwerken alleen de persoonsgegevens die noodzakelijk zijn om de overtreder te identificeren en die nodig zijn voor de controle en de bestraffing van de inbreuken op de aanvullende reglementen, vermeld in artikel 10/1.<br>
+De instanties, vermeld in het tweede lid, verzamelen en verwerken alleen de persoonsgegevens die noodzakelijk zijn om de overtreder te identificeren en die nodig zijn voor de controle en de bestraffing van de inbreuken op de aanvullende reglementen, vermeld in artikel 10/1, en voor het uitreiken en het beheer van parkeerkaarten en -vergunningen.<br>
 <br>
-De Vlaamse Regering en de gemeenten treden op als de verwerkingsverantwoordelijke voor hun respectievelijk ingevoerde parkeerretributie of belasting, in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) en voldoen aan de verplichtingen, vermeld in artikel 26 van de voormelde verordening, die in dat verband op hen rusten.<br>
+De Vlaamse Regering en de gemeenten treden op als de verwerkingsverantwoordelijke voor hun respectievelijk ingevoerde parkeerretributie of belasting en voor het uitreiken en het beheer van parkeerkaarten en -vergunningen, in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) en voldoen aan de verplichtingen, vermeld in artikel 26 van de voormelde verordening, die in dat verband op hen rusten.<br>
 <br>
 De gemeentelijke verzelfstandigde agentschappen en de concessiehouders treden op als verwerker in de zin van artikel 4, 7), van de voormelde verordening.<br>
 <br>
-De instanties, vermeld in het tweede lid, kunnen de gegevens, vermeld in het tweede lid, opvragen bij de overheid die belast is met de inschrijving van de voertuigen. Ze houden die gegevens gedurende maximaal tien jaar bij.
+De instanties, vermeld in het tweede lid, kunnen de gegevens, vermeld in het tweede lid, opvragen bij de overheid die belast is met de inschrijving van de voertuigen. Ze doen dat met tussenkomst van de bevoegde dienstenintegratoren, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br>
+<br>
+De instanties, vermeld in het tweede lid, moeten de gegevens wissen zodra die niet meer nodig zijn. Voor het innen van de parkeerretributies of -belastingen mogen de instanties de gegevens in ieder geval niet langer bewaren in een vorm die de identificatie van de betrokkenen toelaat zodra de verschuldigde som voor de inning van de parkeerretributies of -belastingen werd ontvangen, tenzij de bewaring verplicht zou zijn op basis van vigerende regelgeving. Ze houden die gegevens nooit langer dan tien jaar bij.
 
 ### ART. 10/3.
 
-De in artikel 10/1 bedoelde retributies of belastingen worden ten laste gelegd van de houder van de nummerplaat.
+De in artikel 10/1 bedoelde retributies of belastingen worden ten laste gelegd van de houder van de nummerplaat.<br>
+<br>
+In afwijking van het eerste lid worden de retributies of belastingen, vermeld in artikel 10/1, ten laste gelegd van de gebruikelijke bestuurder van het motorvoertuig dat op naam van een rechtspersoon is ingeschreven, als die rechtspersoon de gebruikelijke bestuurder heeft laten registreren in de Kruispuntbank van de voertuigen.
 
 ## HOOFDSTUK VI. Gegevensbank van de aanvullende reglementen
 

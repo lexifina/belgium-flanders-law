@@ -2,16 +2,16 @@
   "codex_id": 1016816,
   "title": "Decreet van 2008-05-16 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016816/VolledigDocument?datum=2021-12-03",
-  "source_sha256": "3493566c678064f927d6fca86affcaf20d56e2e4a660bbdb4a980fb29b40d47f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016816/VolledigDocument?datum=2023-12-07",
+  "source_sha256": "2ffe3052d5b22d142f343a7964a07c87246f91df3adb03ef29bce3b1f28483c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016816&param=informatie",
-  "as_of": "2021-12-03",
+  "as_of": "2023-12-07",
   "made": "2008-05-16",
   "gazette": "2008-06-10",
   "numac": 2008201887,
   "document_start": "2009-04-05",
   "document_end": null,
-  "in_force": "2021-12-03",
+  "in_force": "2023-12-07",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2021-12-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-12-07; future article versions excluded; article text as the API gives it"
 }
