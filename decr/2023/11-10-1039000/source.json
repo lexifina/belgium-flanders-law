@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039000,
+  "title": "Decreet van 2023-11-10 tot wijziging van het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens, wat het ten laste leggen van parkeerretributies en -belastingen aan de gebruikelijke bestuurder van het motorvoertuig en de uitreiking van parkeerkaarten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039000/VolledigDocument?datum=2023-12-07",
+  "source_sha256": "1ac679b36fc42fabb0b49356486ad7a5464f41e584d1dada0edbf2a45a8d1f08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039000&param=informatie",
+  "as_of": "2023-12-07",
+  "made": "2023-11-10",
+  "gazette": "2023-11-27",
+  "numac": 2023047308,
+  "document_start": "2023-12-07",
+  "document_end": null,
+  "in_force": "2023-12-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
