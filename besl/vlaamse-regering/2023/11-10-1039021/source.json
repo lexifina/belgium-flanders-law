@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039021,
+  "title": "Besluit van de Vlaamse Regering van 2023-11-10 tot uitvoering van het decreet van 26 mei 2023 over de subsidiëring in het kader van de lokale energie- en klimaatpacten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039021/VolledigDocument?datum=2023-12-08",
+  "source_sha256": "88697cf902fefe9d7269e9160b66311a18e7f5b9acd9729749d4b6fe348bf44a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039021&param=informatie",
+  "as_of": "2023-12-08",
+  "made": "2023-11-10",
+  "gazette": "2023-11-28",
+  "numac": 2023047475,
+  "document_start": "2023-12-08",
+  "document_end": "2026-12-31",
+  "in_force": "2023-12-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
