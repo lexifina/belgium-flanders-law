@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039005,
+  "title": "Decreet van 2023-10-27 tot wijziging van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers, het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039005/VolledigDocument?datum=2023-12-10",
+  "source_sha256": "afa52d0f507f2f41413d13f4ff14e268fa928f6a301d7f0910f7a703875edabc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039005&param=informatie",
+  "as_of": "2023-12-10",
+  "made": "2023-10-27",
+  "gazette": "2023-11-30",
+  "numac": 2023047351,
+  "document_start": "2023-12-10",
+  "document_end": null,
+  "in_force": "2023-12-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2023-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
