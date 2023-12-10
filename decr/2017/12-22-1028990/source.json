@@ -2,16 +2,16 @@
   "codex_id": 1028990,
   "title": "Decreet van 2017-12-22 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028990/VolledigDocument?datum=2018-03-15",
-  "source_sha256": "238bf531f65cce4da30b2570a171880db83e335eaa85ba953522dea327c86560",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028990/VolledigDocument?datum=2023-12-10",
+  "source_sha256": "8488d742327c7cf296a945f33cc3cd07beded5155e9723483984219715fc57ac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028990&param=informatie",
-  "as_of": "2018-03-15",
+  "as_of": "2023-12-10",
   "made": "2017-12-22",
   "gazette": "2018-02-09",
   "numac": 2018010227,
   "document_start": "2018-03-15",
   "document_end": null,
-  "in_force": "2018-03-15",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2018-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-12-10",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2023-12-10; future article versions excluded; article text as the API gives it"
 }
