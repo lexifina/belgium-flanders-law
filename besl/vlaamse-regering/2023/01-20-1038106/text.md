@@ -89,7 +89,8 @@ In afwijking van het eerste lid, 1°, 5° en 6°, worden op het personeel van ee
 2° het kabinets- of fractiepersoneel, vermeld in artikel 184, §3, van het decreet van 22 december 2017, en artikel 100, §3, van het Provinciedecreet van 9 december 2005;<br>
 3° het personeel van de door de hogere overheid erkende, vergunde of gesubsidieerde zorginstellingen, dat is ingestapt in de functieclassificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren;<br>
 4° het personeel dat ter beschikking wordt gesteld aan een federaal gefinancierde gezondheidsinstelling of entiteit, en dat is ingestapt in de functieclassificatie ter uitvoering van het sociaal akkoord van 7 juli 2020 voor de federale gezondheidssectoren, zoals bekrachtigd door de federale regering op 12 november 2020;<br>
-5° de personen die activiteiten verrichten als bedoeld in artikel 17 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.<br>
+5° de personen die activiteiten verrichten als bedoeld in artikel 17 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
+6° de personen die tewerkgesteld worden met een flexi-jobarbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
 <br>
 §3. Dit besluit is niet van toepassing op de volgende personeelscategorieën:<br>
 1° de cliënten van het openbaar centrum voor maatschappelijk welzijn die tijdelijk in een functie werken bij het openbaar centrum voor maatschappelijk welzijn of ter beschikking gesteld worden van een derde met toepassing van artikel 60, §7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
@@ -280,7 +281,7 @@ De raad stelt in de rechtspositieregeling de procedure voor de toepassing van de
 
 ### ART 18.
 
-§1. In dit artikel wordt verstaan onder externe personeelsmobiliteit: de procedure waarbij personeelsleden van andere lokale en provinciale overheden, die niet hetzelfde werkingsgebied hebben, en van de diensten van de Vlaamse overheid zich kandidaat stellen voor deelname aan de procedure van interne personeelsmobiliteit, vermeld in artikel 17, §1, of voor deelname aan een bevorderingsprocedure, vermeld in artikel 19, §1, voor een functie bij die overheden.<br>
+§1. In dit artikel wordt verstaan onder externe personeelsmobiliteit: de procedure waarbij personeelsleden van andere lokale en provinciale overheden, die niet hetzelfde werkingsgebied hebben, van de diensten van de Vlaamse overheid en van de federale overheidsdiensten zich kandidaat stellen voor deelname aan de procedure van interne personeelsmobiliteit, vermeld in artikel 17, §1, of voor deelname aan een bevorderingsprocedure, vermeld in artikel 19, §1, voor een functie bij die overheden.<br>
 <br>
 §2. Alleen de personeelsleden van de overheden, vermeld in paragraaf 1, die in hun bestuur zijn aangesteld na een selectieprocedure als vermeld in artikel 6, 2°, en die voldoen aan de voorwaarden, vermeld in artikel 17, §3, kunnen zich kandidaat stellen voor een procedure van externe personeelsmobiliteit.<br>
 <br>
@@ -450,7 +451,7 @@ De geldelijke anciënniteit die met toepassing van het eerste en tweede lid verk
 <br>
 §2. Met behoud van de toepassing van artikel 47, §2, vierde lid, worden de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, meegerekend bij de vaststelling van de geldelijke anciënniteit tijdens het verdere verloop van de loopbaan bij hetzelfde bestuur.<br>
 <br>
-In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°, in de rechtspositieregeling bepalen dat die periodes niet meerekenbaar zijn.&nbsp;<br>
+In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13°, 14° en 17°, in de rechtspositieregeling bepalen dat die periodes niet meegerekend kunnen worden.&nbsp;<br>
 <br>
 §3. In dit artikel wordt verstaan onder hetzelfde bestuur: de gemeente en het openbaar centrum voor maatschappelijk welzijn dat die gemeente bedient.
 
@@ -488,7 +489,7 @@ De gemeenteraad stelt in de rechtspositieregeling de salarisschaal van de adjunc
 2° in gemeenten van 6.001 tot 15.000 inwoners: 37.016,16 – 54.671,90;<br>
 3° in gemeenten van 15.001 tot 20.000 inwoners: 40.133 – 58.567,98;<br>
 4° in gemeenten van 20.001 tot 25.000 inwoners: 42.429,66 – 62.464,30;<br>
-5° in gemeenten van 25.001 tot 35.000 inwoners: 45.074,95 – 66.330,72;<br>
+5° in gemeenten van 25.001 tot 35.000 inwoners: 45.074,95 – 66.564,72;<br>
 6° in gemeenten van 35.001 tot 50.000 inwoners: 47.822,67 – 70.460,94;<br>
 7° in gemeenten van 50.001 tot 80.000 inwoners: 51.124,10 – 74.767,52;<br>
 8° in gemeenten van 80.001 tot 150.000 inwoners: 54.138,41 – 78.868,63;<br>
@@ -544,7 +545,7 @@ De raad bepaalt in de rechtspositieregeling ten minste de uitbetalingsmodaliteit
 
 ### ART 35.
 
-§1. Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, met uitzondering van de periodes gelijkgesteld met dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°, in aanmerking om het bedrag van het vakantiegeld publiek stelsel te berekenen.<br>
+§1. Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, met uitzondering van de periodes die gelijkgesteld zijn met de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13°, 14° en 17°, in aanmerking om het bedrag van het vakantiegeld publiek stelsel te berekenen.<br>
 <br>
 In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 1°, 2°, 3°, 4°, 5°, 15° en 16°, in de rechtspositieregeling bepalen dat die periodes niet in aanmerking komen om het bedrag van het vakantiegeld publiek stelsel te berekenen.<br>
 <br>
@@ -570,7 +571,7 @@ Als een personeelslid, werkzaam in een erkende, en eventueel vergunde of gesubsi
 
 ### ART 37.
 
-Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, met uitzondering van de periodes die gelijkgesteld zijn met dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 12°, 13° en 14°, in aanmerking om het bedrag van de eindejaarstoelage te berekenen.<br>
+Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, met uitzondering van de periodes die gelijkgesteld zijn met de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 12°, 13°, 14° en 17°, in aanmerking om het bedrag van de eindejaarstoelage te berekenen.<br>
 <br>
 In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 1°, 2°, 3°, 4°, 5°, 15° en 16°, en die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, in de rechtspositieregeling bepalen dat die periodes niet in aanmerking worden genomen om het bedrag van de eindejaarstoelage te berekenen.
 
@@ -750,7 +751,8 @@ Naast het geval, vermeld in het eerste lid, zijn personeelsleden in dienstactivi
 13° het onbezoldigde verlof als recht als vermeld in artikel 66, §1, van dit besluit;<br>
 14° het onbezoldigde verlof als gunstmaatregel als vermeld in artikel 66, §2, van dit besluit;<br>
 15° een tijdelijke afwezigheid van statutaire personeelsleden die hun functie niet kunnen uitoefenen wegens overmacht als vermeld in artikel 68 van dit besluit;<br>
-16° een periode van tijdelijke werkloosheid met recht op een uitkering in het kader van de werkloosheidsverzekering.<br>
+16° een periode van tijdelijke werkloosheid met recht op een uitkering in het kader van de werkloosheidsverzekering;<br>
+17° een periode van afwezigheid wegens dwingende redenen en wegens het zorgverlof als vermeld in artikel 66/1 van dit besluit.<br>
 <br>
 In het tweede lid, 15°, wordt verstaan onder overmacht: een plotse en onvoorziene gebeurtenis die zich voordoet buiten de wil van het personeelslid en het bestuur, die tijdelijk van aard is en die de verdere uitvoering van de prestaties volledig onmogelijk maakt.<br>
 <br>
@@ -885,7 +887,7 @@ De raad bepaalt in de rechtspositieregeling:<br>
 <br>
 §2. Statutaire personeelsleden hebben recht op verlof wegens arbeidsongeschiktheid met behoud van hun salaris volgens een stelsel van ziektekredietdagen. &nbsp;<br>
 <br>
-De ziektekredietdagen behelzen een krediet van 21 werkdagen per jaar voltijdse prestaties. De raad bepaalt in de rechtspositieregeling de andere regels.&nbsp;<br>
+De ziektekredietdagen worden toegekend in de vorm van een krediet van eenentwintig werkdagen per jaar volledige dienstactiviteit als vermeld in artikel 47, §2, eerste lid, artikel 49 en 66,§1. De raad kan bepalen dat periodes van disponibiliteit en de periodes, vermeld in artikel 47, §2, tweede lid, ook volledig of gedeeltelijk in aanmerking komen voor de vaststelling van het jaarlijkse aantal ziektekredietdagen.&nbsp;<br>
 <br>
 Bij aanvang krijgt een voltijds statutair personeelslid onmiddellijk een krediet van 63 werkdagen. Het verwerft bijkomende ziektekredietdagen vanaf het vierde jaar.
 
@@ -897,7 +899,7 @@ Bij aanvang krijgt een voltijds statutair personeelslid onmiddellijk een krediet
 <br>
 Het statutaire personeelslid krijgt tijdens een periode van deeltijdse prestaties wegens arbeidsongeschiktheid het salaris voor de effectief geleverde prestaties, vermeerderd met 37,5% van het salaris dat verschuldigd zou zijn voor de prestaties die niet worden geleverd, met dien verstande dat het salaris van het statutaire personeelslid dat deeltijds herneemt nooit minder kan zijn dan het wachtgeld dat het zou krijgen als het in disponibiliteit wegens arbeidsongeschiktheid zou worden gesteld overeenkomstig paragraaf 3.<br>
 <br>
-§3. Als de ziektekredietdagen opgebruikt zijn, kan het statutaire personeelslid in disponibiliteit wegens arbeidsongeschiktheid worden gesteld. Het krijgt een wachtgeld voor het afwezigheidspercentage dat gelijk is aan 60% van het laatste activiteitssalaris en de fictieve ontwikkeling daarvan, berekend volgens de regels die van toepassing zouden zijn geweest als het personeelslid nog in effectieve actieve dienst was gebleven. De disponibiliteit wegens arbeidsongeschiktheid maakt geen einde aan de stelsels van loopbaanonderbreking of zorgkrediet zoals vermeld in artikel 47, §2, tweede lid, 1° tot 5°, noch aan het onbetaalde verlof vermeld in artikel 66.<br>
+§3. Als de ziektekredietdagen opgebruikt zijn, kan het statutaire personeelslid in disponibiliteit wegens arbeidsongeschiktheid worden gesteld. Het krijgt een wachtgeld voor het afwezigheidspercentage dat gelijk is aan 60% van het laatste activiteitssalaris en de fictieve ontwikkeling daarvan, berekend volgens de regels die van toepassing zouden zijn geweest als het personeelslid nog in effectieve actieve dienst was gebleven. De disponibiliteit wegens arbeidsongeschiktheid maakt geen einde aan de stelsels van loopbaanonderbreking of zorgkrediet zoals vermeld in artikel 47, §2, tweede lid, 1° tot 5°, noch aan het onbezoldigde verlof vermeld in artikel 66.<br>
 <br>
 In afwijking van het eerste lid kan de raad in de rechtspositieregeling bepalen dat het wachtgeld gelijk is aan het laatste activiteitssalaris als de disponibiliteit wegens arbeidsongeschiktheid het gevolg is van een aandoening die de bevoegde medische instantie, aangeduid door de raad in de rechtspositieregeling, erkent als ernstig en langdurig.<br>
 <br>
@@ -925,6 +927,11 @@ Om het salaris als voorschot conform het eerste lid te kunnen verkrijgen, laten 
 
 ## Afdeling 6. Onbezoldigd verlof
 
+### ART 65/1.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019<br>
+betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad.
+
 ### ART 66.
 
 §1. Personeelsleden hebben het recht om tijdens de loopbaan twaalf maanden voltijds de loopbaan te onderbreken in periodes van minimaal een maand. Zodra personeelsleden 55 jaar zijn, verwerven ze een bijkomend recht om twaalf maanden voltijds de loopbaan te onderbreken in periodes van minimaal een maand.<br>
@@ -933,7 +940,7 @@ Personeelsleden hebben het recht om tijdens de loopbaan gedurende zestig maanden
 <br>
 §2. Personeelsleden kunnen onbezoldigd verlof als gunst krijgen om de prestaties volledig of gedeeltelijk te onderbreken, als de goede werking van de dienst daardoor niet in het gedrang komt.<br>
 <br>
-Het onbezoldigde verlof, vermeld in het eerste lid, kan worden toegestaan voor minimaal de volgende periodes:<br>
+Het onbezoldigde verlof, vermeld in het eerste lid, kan worden toegestaan voor de volgende periodes:<br>
 1° twintig dagen per kalenderjaar, die in volledige of halve dagen en al dan niet in aaneensluitende perioden worden opgenomen;<br>
 2° twee jaar gedurende de loopbaan die in al dan niet aaneensluitende perioden van minimaal een maand wordt opgenomen.<br>
 <br>
@@ -942,6 +949,14 @@ Het onbezoldigde verlof, vermeld in het eerste lid, kan worden toegestaan voor m
 §4. Paragraaf 1 is niet van toepassing op de algemeen directeur, de adjunct-algemeendirecteur en de financieel directeur.&nbsp;<br>
 <br>
 De raad kan in de rechtspositieregeling bepalen in welke gevallen en voor welke personeelsleden of categorieën van personeelsleden het verlof waarvan sprake in paragraaf 1, niet van toepassing is.
+
+### ART 66/1.
+
+§1. Het statutaire personeelslid heeft het recht om onbezoldigd van het werk afwezig te zijn om dwingende redenen conform artikel 30bis, §1, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en artikel 2 tot en met 6 van het koninklijk besluit van 11 oktober 1991 tot vaststelling van de nadere regelen voor de uitoefening van het recht op een verlof om dwingende reden.<br>
+<br>
+Het statutaire personeelslid heeft recht op onbezoldigd zorgverlof conform artikel 30bis, §2, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
+<br>
+§2. Als het personeelslid onbezoldigd verlof, vermeld in het eerste en tweede lid, opneemt, wordt het onbezoldigd verlof als vermeld in artikel 66, §2, tweede lid, 1°, in het betrokken kalenderjaar met een gelijk aantal dagen verminderd.
 
 ## Afdeling 7. Andere verloven en afwezigheden
 
@@ -968,26 +983,30 @@ De raad kan in de rechtspositieregeling nog andere dienstvrijstellingen regelen 
 <br>
 §3. Personeelsleden hebben recht op volgende omstandigheidsverloven:<br>
 1° huwelijk van het personeelslid of het afleggen van een verklaring van wettelijke samenwoning door het personeelslid, vermeld in artikel 1475 tot en met 1479 van het Burgerlijk Wetboek, met uitzondering van het afleggen van een verklaring van samenwoning van bloed- of aanverwanten: 4 werkdagen;<br>
-2° bevalling van de echtgenote of samenwonende partner, of ter gelegenheid van de geboorte van een kind dat wettelijk afstamt van de werknemer: 20 werkdagen;<br>
+2° bevalling van de echtgenote of samenwonende partner, of ter gelegenheid van de geboorte van een kind dat wettelijk afstamt van het personeelslid: 20 werkdagen;<br>
 3° overlijden van de samenwonende of huwelijkspartner, van een kind van het personeelslid, de samenwonende of huwelijkspartner, of van een pleegkind in het kader van langdurige pleegzorg op het moment van het overlijden of in het verleden: 10 werkdagen;<br>
 4° overlijden van de vader, moeder, stiefvader, stiefmoeder, schoonzoon of schoondochter van het personeelslid, de samenwonende of huwelijkspartner: 4 werkdagen;<br>
 5° overlijden van de pleegvader of pleegmoeder van het personeelslid in het kader van langdurige pleegzorg op het moment van het overlijden: 4 werkdagen;<br>
 6° overlijden van een pleegkind in het kader van kortdurende pleegzorg op het moment van het overlijden: 1 werkdag;<br>
-7° huwelijk van een kind van het personeelslid, van de samenwonende of huwelijkspartner: 2 werkdagen;<br>
+7° huwelijk van een kind van het personeelslid, van de samenwonende of huwelijkspartner, of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van het huwelijk: 2 werkdagen;<br>
 8° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in om het even welke graad, die onder hetzelfde dak woont als het personeelslid of de samenwonende partner: 2 werkdagen;<br>
 9° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind, niet onder hetzelfde dak wonend als het personeelslid of de samenwonende partner: 1 werkdag;<br>
+9°/1 overlijden van de ouder van een pleegouder of een kind van het pleegkind, in het kader van langdurige pleegzorg op het moment van het overlijden, waarbij die ouder of dat kind niet onder hetzelfde dak woont als het personeelslid of de samenwonende partner: 1 werkdag;<br>
 10° huwelijk van een bloed- of aanverwant:&nbsp;<br>
 a) in de eerste graad, die geen kind is: de dag van het huwelijk;<br>
 b) in de tweede graad, van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
-11° priesterwijding of intrede in het klooster van een kind van de werknemer, van de samenwonende of huwelijkspartner, of van een broer, zuster, schoonbroer of schoonzuster van de werknemer: de dag van de rooms-katholieke plechtigheid of een daarmee overeenstemmende plechtigheid bij een andere erkende eredienst;<br>
-12° plechtige communie van een kind van de werknemer of van de samenwonende of huwelijkspartner: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
-13° deelneming van een kind van de werknemer of van de samenwonende of huwelijkspartner aan het feest van de vrijzinnige jeugd: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
-14° deelneming van een kind van de werknemer of van de samenwonende of huwelijkspartner aan een plechtigheid in het kader van een erkende eredienst die overeenstemt met de rooms-katholieke plechtige communie: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
+10°/1 huwelijk van een:<br>
+a)&nbsp;&nbsp; &nbsp;pleegouder van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
+b)&nbsp;&nbsp; &nbsp;bloed- of aanverwant in de eerste en tweede graad van de pleegouder of het pleegkind van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
+11° priesterwijding of intrede in het klooster van een kind van het personeelslid, van de samenwonende of huwelijkspartner, van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de priesterwijding, of van een broer, zuster, schoonbroer of schoonzuster van het personeelslid: de dag van de rooms-katholieke plechtigheid of een daarmee overeenstemmende plechtigheid bij een andere erkende eredienst;<br>
+12° plechtige communie van een kind van het personeelslid of van de samenwonende of huwelijkspartner of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de plechtige communie: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
+13° deelneming van een kind van het personeelslid of van de samenwonende of huwelijkspartner&nbsp;of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van het feest, aan het feest van de vrijzinnige jeugd: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
+14° deelneming van een kind van het personeelslid of van de samenwonende of huwelijkspartner of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de plechtigheid, aan een plechtigheid in het kader van een erkende eredienst die overeenstemt met de rooms-katholieke plechtige communie: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
 15° gehoord worden door de vrederechter in het kader van de organisatie van de voogdij over een minderjarige: de nodige tijd, maximaal één dag;<br>
 16° deelneming aan een assisenjury, oproeping als getuige voor de rechtbank of persoonlijke verschijning op aanmaning van de arbeidsrechtbank: de nodige tijd.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
-1° langdurige pleegzorg: de pleegzorg waarbij het kind is ingeschreven als deel uitmakend van het gezin van het personeelslid in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft;<br>
+1° langdurige pleegzorg: de pleegzorg waarbij het kind is ingeschreven als deel uitmakend van het gezin van het personeelslid in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft voor minstens zes maanden of de pleegzorg waarbij het kind in het verleden voor minstens zes maanden was ingeschreven als deel uitmakend van het gezin van het personeelslid in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, of de pleegzorg waarvan bij aanvang duidelijk is dat het pleegkind voor minstens zes maanden deel zal uitmaken van het gezin van het personeelslid, in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft;<br>
 2° kortdurende pleegzorg: alle vormen van pleegzorg die niet voldoen aan de voorwaarden van langdurige pleegzorg, vermeld in punt 1°.&nbsp;<br>
 <br>
 De raad bepaalt in de rechtspositieregeling de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof met dien verstande dat het personeelslid het omstandigheidsverlof, vermeld in het eerste lid, 3°, op de volgende wijze opneemt:&nbsp;<br>
