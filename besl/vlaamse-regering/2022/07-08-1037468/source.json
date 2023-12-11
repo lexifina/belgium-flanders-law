@@ -2,16 +2,16 @@
   "codex_id": 1037468,
   "title": "Besluit van de Vlaamse Regering van 2022-07-08 over een nieuwe functieclassificatie bij lokale besturen en over aangepaste salarisschalen ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037468/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "deed907f22fbfd35d8f0235daa68ba811efb1f705f3409549d536eb9c4ca56d0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037468/VolledigDocument?datum=2023-12-11",
+  "source_sha256": "e3ab3623c4b1a963f621313ce5efaf29e815fd5fb36255d347abb43c6bf74fc7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037468&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-12-11",
   "made": "2022-07-08",
   "gazette": "2022-10-14",
   "numac": 2022041778,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2023-12-11",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-12-11; future article versions excluded; article text as the API gives it"
 }

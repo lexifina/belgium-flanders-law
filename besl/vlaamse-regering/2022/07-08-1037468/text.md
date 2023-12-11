@@ -24,8 +24,8 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° besluit van 7 december 2007: het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn;<br>
-2° besluit van 12 november 2010: het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn;<br>
+1° besluit van 20 januari 2023: het besluit van de Vlaamse Regering van 20 januari 2023 tot vaststelling van de minimale voorwaarden van de rechtspositieregeling van het personeel van lokale en provinciale besturen;<br>
+2° ...;<br>
 3° Vlaamse dienst in de ouderenzorg:<br>
 a) woonzorgcentra als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
 b) dagverzorgingscentra als vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019;<br>
@@ -38,7 +38,7 @@ c) initiatieven voor beschut wonen als vermeld in artikel 55 van het decreet van
 6° kinderopvang:<br>
 a) vergunde groepsopvang baby's en peuters: de kinderopvang, vermeld in artikel 4, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 b) erkende geattesteerde of toegestemde diensten buitenschoolse opvang: de opvang, vermeld in artikel 2, 1° /1, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten, die beschikt over een attest van toezicht of erkenning als vermeld in artikel 8 en artikel 12 van het overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021;<br>
-7° personeelsleden: de personeelsleden, vermeld in artikel 1 van het besluit van 7 december 2007, of de personeelsleden, vermeld in artikel 2 en 27 van het besluit van 12 november 2010;<br>
+7° personeelsleden: de personeelsleden, vermeld in artikel 1, 13°, van het besluit van 20 januari 2023;<br>
 8° raad: de gemeenteraad voor de gemeente, de provincieraad voor de provincie, de raad voor maatschappelijk welzijn voor het openbaar centrum voor maatschappelijk welzijn, of het orgaan waaraan de bevoegdheid voor het vaststellen van de rechtspositieregeling is toevertrouwd, elk voor de rechtspositie van het eigen personeel.
 
 ## HOOFDSTUK 2. Nieuwe functieclassificaties bij lokale besturen
@@ -51,15 +51,7 @@ Personeelsleden die op 31 december 2021 werken in een erkende, vergunde of gesub
 <br>
 Personeelsleden die vanaf 1 januari 2022 in dienst treden in een erkende, vergunde of gesubsidieerde publieke Vlaamse dienst in de ouderenzorg, vallen onder de functieclassificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren op voorwaarde dat de sectorale referentiefunctie die aan hen toegewezen is, in dit stelsel geïmplementeerd is en het bijbehorende barema geactiveerd is.<br>
 <br>
-De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijken van de bepalingen in het besluit van 7 december 2007 en het besluit van 12 november 2010 over:<br>
-1° de personeelsformatie als vermeld in titel II van het besluit van 7 december 2007, en hoofdstuk 2, deel 2, van het besluit van 12 november 2010;<br>
-2° de aanwerving als vermeld in hoofdstuk II, titel III, van het besluit van 7 december 2007, en hoofdstuk 2, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-3° de administratieve anciënniteiten als vermeld in hoofdstuk VII, titel III, van het besluit van 7 december 2007, en hoofdstuk 6, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-4° de functionele loopbaan als vermeld in hoofdstuk VIII, titel III, van het besluit van 7 december 2007, en hoofdstuk 7, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-5° de bevordering als vermeld in hoofdstuk IX, titel III, van het besluit van 7 december 2007, en hoofdstuk 8, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-6° de vervulling van een vacature door interne personeelsmobiliteit als vermeld in hoofdstuk X, titel III, van het besluit van 7 december 2007, en hoofdstuk 9, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-7° de ambtshalve herplaatsing als vermeld in titel V van het besluit van 7 december 2007, en hoofdstuk 10, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-8° het salaris als vermeld in titel VII van het besluit van 7 december 2007, en titel 4, deel 3, van het besluit van 12 november 2010.<br>
+De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijkingen vaststellen in overeenstemming met artikel 2, §1, tweede lid, van het besluit van 20 januari 2023.<br>
 <br>
 De afwijkingen, vermeld in het derde lid, worden vastgesteld in overeenstemming met de functieclassificatie, vermeld in het eerste en het tweede lid.
 
@@ -87,15 +79,7 @@ Personeelsleden die op 31 december 2021 werken in een erkende, vergunde of gesub
 <br>
 Personeelsleden die vanaf 1 januari 2022 in dienst treden in een erkende, vergunde of gesubsidieerde publieke geregionaliseerde instelling, vallen onder de functieclassificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren op voorwaarde dat de sectorale referentiefunctie die aan hen toegewezen is, in dit stelsel geïmplementeerd is en het bijbehorende barema geactiveerd is.<br>
 <br>
-De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijken van de bepalingen in het besluit van 7 december 2007 en het besluit van 12 november 2010 over:<br>
-1° de personeelsformatie als vermeld in titel II van het besluit van 7 december 2007, en hoofdstuk 2, deel 2, van het besluit van 12 november 2010;<br>
-2° de aanwerving als vermeld in hoofdstuk II, titel III, van het besluit van 7 december 2007, en hoofdstuk 2, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-3° de administratieve anciënniteiten als vermeld in hoofdstuk VII, titel III, van het besluit van 7 december 2007, en hoofdstuk 6, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-4° de functionele loopbaan als vermeld in hoofdstuk VIII, titel III, van het besluit van 7 december 2007, en hoofdstuk 7, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-5° de bevordering als vermeld in hoofdstuk IX, titel III, van het besluit van 7 december 2007, en hoofdstuk 8, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-6° de vervulling van een vacature door interne personeelsmobiliteit als vermeld in hoofdstuk X, titel III, van het besluit van 7 december 2007, en hoofdstuk 9, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-7° de ambtshalve herplaatsing als vermeld in titel V van het besluit van 7 december 2007, en hoofdstuk 10, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-8° het salaris als vermeld in titel VII van het besluit van 7 december 2007, en titel 4, deel 3, van het besluit van 12 november 2010.<br>
+De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijkingen vaststellen in overeenstemming met artikel 2, §1, tweede lid, van het besluit van 20 januari 2023.<br>
 <br>
 De afwijkingen, vermeld in het derde lid, worden vastgesteld in overeenstemming met de functieclassificatie, vermeld in het eerste en het tweede lid.
 
@@ -105,15 +89,7 @@ Personeelsleden die op 31 december 2021 ter beschikking worden gesteld in een er
 <br>
 Personeelsleden die vanaf 1 januari 2022 ter beschikking worden gesteld in een erkende, vergunde of gesubsidieerde private geregionaliseerde instelling, vallen onder de functieclassificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren op voorwaarde dat de sectorale referentiefunctie die aan hen toegewezen is, in dit stelsel geïmplementeerd is en het bijbehorende barema geactiveerd is.<br>
 <br>
-De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijken van de bepalingen in het besluit van 7 december 2007 en het besluit van 12 november 2010 over:<br>
-1° de personeelsformatie als vermeld in titel II van het besluit van 7 december 2007, en hoofdstuk 2, deel 2, van het besluit van 12 november 2010;<br>
-2° de aanwerving als vermeld in hoofdstuk II, titel III, van het besluit van 7 december 2007, en hoofdstuk 2, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-3° de administratieve anciënniteiten als vermeld in hoofdstuk VII, titel III, van het besluit van 7 december 2007, en hoofdstuk 6, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-4° de functionele loopbaan als vermeld in hoofdstuk VIII, titel III, van het besluit van 7 december 2007, en hoofdstuk 7, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-5° de bevordering als vermeld in hoofdstuk IX, titel III, van het besluit van 7 december 2007, en hoofdstuk 8, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-6° de vervulling van een vacature door interne personeelsmobiliteit als vermeld in hoofdstuk X, titel III, van het besluit van 7 december 2007, en hoofdstuk 9, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-7° de ambtshalve herplaatsing als vermeld in titel V van het besluit van 7 december 2007, en hoofdstuk 10, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-8° het salaris als vermeld in titel VII van het besluit van 7 december 2007, en titel 4, deel 3, van het besluit van 12 november 2010.<br>
+De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijkingen vaststellen in overeenstemming met artikel 2, §1, tweede lid, van het besluit van 20 januari 2023.<br>
 <br>
 De afwijkingen, vermeld in het derde lid, worden vastgesteld in overeenstemming met de functieclassificatie, vermeld in het eerste en het tweede lid.
 
@@ -123,16 +99,7 @@ De afwijkingen, vermeld in het derde lid, worden vastgesteld in overeenstemming 
 
 Personeelsleden, vermeld in artikel 186, § 2, 3°, van het decreet van 22 december 2017 over het lokaal bestuur, die ter beschikking worden gesteld vanuit een lokaal bestuur in een federaal gefinancierde gezondheidsinstelling of -entiteit, kunnen vrijwillig instappen in de functieclassificatie ter uitvoering van het sociaal akkoord van 7 juli 2020 voor de federale gezondheidssectoren, zoals bekrachtigd door de federale regering op 12 november 2020, op voorwaarde dat de sectorale referentiefunctie die aan hen toegewezen is, in dit stelsel geïmplementeerd is en het bijbehorende barema geactiveerd wordt. Als het personeelslid beslist in te stappen, is de instap met terugwerkende kracht van toepassing vanaf 1 juli 2021.<br>
 <br>
-De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste lid, afwijken van de bepalingen in het besluit van 7 december 2007 en het besluit van 12 november 2010 over:<br>
-1° de personeelsformatie als vermeld in titel II van het besluit van 7 december 2007, en hoofdstuk 2, deel 2, van het besluit van 12 november 2010;<br>
-2° de aanwerving als vermeld in hoofdstuk II, titel III, van het besluit van 7 december 2007, en hoofdstuk 2, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-3° de administratieve anciënniteit als vermeld in hoofdstuk VII, titel III, van het besluit van 7 december 2007, en hoofdstuk 6, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-4° de functionele loopbaan als vermeld in hoofdstuk VIII, titel III, van het besluit van 7 december 2007, en hoofdstuk 7, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-5° de bevordering als vermeld in hoofdstuk IX, titel III, van het besluit van 7 december 2007, en hoofdstuk 8, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-6° de vervulling van een vacature door interne personeelsmobiliteit als vermeld in hoofdstuk X, titel III, van het besluit van 7 december 2007, en hoofdstuk 9, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-7° de ambtshalve herplaatsing als vermeld in titel V van het besluit van 7 december 2007, en hoofdstuk 10, titel 2, deel 3, van het besluit van 12 november 2010;<br>
-8° het salaris als vermeld in titel VII van het besluit van 7 december 2007, en titel 4, deel 3, van het besluit van 12 november 2010;<br>
-9° de toelagen, vergoedingen en sociale voordelen als vermeld in titel VIII van het besluit van 7 december 2007, en titel 5, deel 3, van het besluit van 12 november 2010.<br>
+De raad stelt de functieclassificatie vast in de rechtspositieregeling en kan voor de personeelsleden, vermeld in het eerste en het tweede lid, afwijkingen vaststellen in overeenstemming met artikel 2, §1, tweede lid, van het besluit van 20 januari 2023.<br>
 <br>
 De afwijkingen, vermeld in het tweede lid, worden vastgesteld in overeenstemming met de functieclassificatie, vermeld in het eerste lid.
 
@@ -574,7 +541,7 @@ De salarisschaal, vermeld in het vierde lid, volgt het verloop van het indexcijf
 
 In dit artikel wordt verstaan onder zorgkundige: de zorgkundige, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 8 juli 2016 tot erkenning van de beroepskwalificatie zorgkundige.<br>
 <br>
-De zorgkundigen die overeenkomstig artikel 2, eerste en tweede lid, instappen in de functieclassificatie, vermeld in artikel 2, eerste en tweede lid, en vóór hun instap ofwel de functionele loopbaan D1-D3, ofwel de functionele loopbaan C1-C2, als vastgesteld in bijlage II bij het besluit van de Vlaams Regering van 7 december 2007 en in bijlage 1 bij het besluit van de Vlaamse Regering van 12 november 2010, ofwel de salarisschaal zoals vermeld in artikel 8 genoten, genieten de C2-salarisschaal ook na de plaatselijke uitvoering van dit besluit, zodra die regeling gunstiger is dan de salarisschaal die zij met toepassing van artikel 2 van dit besluit zouden krijgen. De raad neemt de salarisschaal van de zorgkundige in de overgangsregeling op in de plaatselijke rechtspositieregeling, evenals de organieke salarisschaal waarin het personeelslid ingeschaald werd.
+De zorgkundigen die overeenkomstig artikel 2, eerste en tweede lid, instappen in de functieclassificatie, vermeld in artikel 2, eerste en tweede lid, en vóór hun instap ofwel de functionele loopbaan D1-D3, ofwel de functionele loopbaan C1-C2, als vastgesteld in bijlage II bij het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn en in bijlage 1 bij het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn, ofwel de salarisschaal zoals vermeld in artikel 8 genoten, genieten de C2-salarisschaal ook na de plaatselijke uitvoering van dit besluit, zodra die regeling gunstiger is dan de salarisschaal die zij met toepassing van artikel 2 van dit besluit zouden krijgen. De raad neemt de salarisschaal van de zorgkundige in de overgangsregeling op in de plaatselijke rechtspositieregeling, evenals de organieke salarisschaal waarin het personeelslid ingeschaald werd.
 
 ## Afdeling 2. Inwerkingtredingsbepaling
 
