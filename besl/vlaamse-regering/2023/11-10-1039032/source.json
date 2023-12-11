@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039032,
+  "title": "Besluit van de Vlaamse Regering van 2023-11-10 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039032/VolledigDocument?datum=2023-12-11",
+  "source_sha256": "3e55fd55a0b7110c2b43a492b0a2b882e66b7c1e3c3da9f757e3414da3469195",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039032&param=informatie",
+  "as_of": "2023-12-11",
+  "made": "2023-11-10",
+  "gazette": "2023-12-01",
+  "numac": 2023047597,
+  "document_start": "2023-12-11",
+  "document_end": null,
+  "in_force": "2023-12-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
