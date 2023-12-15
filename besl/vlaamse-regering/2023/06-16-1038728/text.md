@@ -1446,7 +1446,7 @@ Als de premie, vermeld in artikel 6.4.1/1/4 van het Energiebesluit, voor 1 april
 
 ### ART 115.
 
-Artikel 6.4.1/8, van het Energiebesluit van 19 november 2010, in de lezing voorafgaand aan de wijziging ervan bij artikel 28 van dit besluit, blijft van toepassing op de ondersteuning die bij de elektriciteitsdistributienetbeheerders is aangevraagd voor een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum en uiterlijk op 1 juli 2024.&nbsp;
+Artikel 6.4.1/8, van het Energiebesluit van 19 november 2010, in de lezing voorafgaand aan de wijziging ervan bij artikel 28 van dit besluit, blijft van toepassing op de ondersteuning die bij de elektriciteitsdistributienetbeheerders is aangevraagd voor een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.&nbsp;
 
 ### ART 116.
 
@@ -1480,15 +1480,19 @@ Artikelen 12, 1°, en 27 treden in werking op 1 januari 2024.<br>
 <br>
 Bijlagen V en VI bij het Energiebesluit van 19 november 2010, zoals van kracht vanaf de datum van inwerkingtreding van respectievelijk artikel 105 en 106 van dit besluit, zijn voor het eerst van toepassing op dossiers waarbij de melding of de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen wordt ingediend vanaf 1 januari 2024.<br>
 <br>
-Artikel 21, artikel 25, 1° en 3°, en artikel 112 treden in werking op 1 april 2024.&nbsp;<br>
+Artikel 25, 1° en 3°, en artikel 112 treden in werking op 1 april 2024.&nbsp;<br>
 <br>
-Artikel 6.4.1/4, tweede lid, 1° en 2°, derde en zevende lid, van het Energiebesluit, zoals ingevoegd bij artikel 22 van dit besluit, artikel 7.9.2/1, §1, eerste lid, 5° en 6° en tweede tot en met zevende lid van het Energiebesluit, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 3° en 4°, vijfde lid en zesde lid, paragraaf 4/1 en paragraaf 4/3 van het Energiebesluit, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum en uiterlijk op 1 juli 2024.&nbsp;<br>
+Artikel 6.4.1/4, tweede lid, 1° en 2°, derde en zevende lid, van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 22 van dit besluit, artikel 7.9.2/1, §1, eerste lid, 5° en tweede en derde lid van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 3°, vijfde lid, paragraaf 4/1 van het &nbsp;Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.&nbsp;<br>
+<br>
+Artikel 7.9.2/1, §1, eerste lid, 6° en vierde tot en met zevende lid van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 4°, zesde lid, en paragraaf 4/3 van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.<br>
 <br>
 Artikel 12, 2° en 3°, treedt in werking op 1 juli 2024.<br>
 <br>
-Artikelen 28 tot en met 30 treden in werking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum en uiterlijk op 1 juli 2024.<br>
+Artikelen 28 tot en met 30 treden in werking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.<br>
 <br>
-Artikel 31 treedt in werking op een datum door de minister, bevoegd voor het Woonbeleid, te bepalen datum.
+Artikel 31 treedt in werking op een datum door de minister, bevoegd voor het Woonbeleid, te bepalen datum.<br>
+<br>
+Artikel 21 treedt in werking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.
 
 ### ART 120.
 
