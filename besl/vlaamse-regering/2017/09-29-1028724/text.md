@@ -32,8 +32,8 @@ Besluit :<br>
 In dit besluit wordt verstaan onder:<br>
 1° activiteitenlijst: de lijst die wordt vastgesteld door de raad van bestuur van de VDAB met toepassing van artikel 27 van het Wijk-werkendecreet van 7 juli 2017, met inbegrip van de gemeentelijke afwijkingen van de lijst;<br>
 2° platform: het platform wijk-werken, vermeld in hoofdstuk 2, afdeling 9, van het Wijk-werkendecreet van 7 juli 2017;<br>
-3° uitgiftemaatschappij: de maatschappij die is aangewezen voor de uitgifte van wijk-werkcheques overeenkomstig de wetgeving over de overheidsopdrachten;<br>
-4° vzw: een vereniging zonder winstoogmerk als vermeld in titel I van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen;<br>
+3° verstrekker: de onderneming die na mededinging wordt aangewezen, of als er geen onderneming wordt aangewezen, de VDAB of een andere Vlaamse overheidsinstelling die door de raad van bestuur van de VDAB belast wordt met de uitgifte van de wijk-werkcheques;<br>
+4° vzw: een vereniging zonder winstoogmerk als vermeld in het Wetboek vennootschappen en verenigingen;<br>
 5° coronavirusmaatregelen: de maatregelen van de Nationale Veiligheidsraad van 12 maart 2020 inzake het coronavirus en de daaruit voortvloeiende maatregelen van de bevoegde autoriteiten inzake burgerlijke veiligheid.<br>
 &nbsp;
 
@@ -122,6 +122,10 @@ De schorsing van de wijk-werkovereenkomst verlengt de duurtijd niet.<br>
 De wijk-werker verricht maximaal zestig uur wijk-werkprestaties per maand en maximaal 630 uur wijk-werkprestaties per jaar. Prestaties die worden verricht boven dat maximum, worden niet vergoed.<br>
 &nbsp;
 
+### ART 11/1.
+
+De wijk-werker is geen bloed- of aanverwant tot in de tweede graad van de gebruiker en heeft niet dezelfde verblijfplaats als de gebruiker. De wijkwerker verricht geen activiteiten voor eigen rekening.
+
 ### ART 12.
 
 De wijk-werker die activiteiten verricht, vult voor de aanvang van de activiteit het prestatieformulier in. De wijk-werker noteert op dat prestatieformulier de dag en het uur van de activiteit waarvoor hij een cheque ontvangt.<br>
@@ -133,10 +137,7 @@ Het model van prestatieformulier wordt bepaald door de raad van bestuur van de V
 
 ### ART 13.
 
-De wijk-werker dient de wijk-werkcheques die hij ontvangt, in bij de organisator. Per geldige cheque ontvangt hij 4,10 euro.<br>
-<br>
-Een cheque wordt als geldig beschouwd als aan alle voorwaarden, vermeld in artikel 36, is voldaan, en als de cheque tijdig is ingediend.<br>
-&nbsp;
+De wijk-werker ontvangt 4,10 euro voor elke wijk-werkcheque die op zijn naam is geregistreerd.
 
 ### ART 13bis.
 
@@ -150,7 +151,7 @@ Als de afstand tussen de plaats van de activiteit en de woonplaats van de wijk-w
 
 ### ART 15.
 
-De gemeente bepaalt voor haar grondgebied de afwijkingen van de activiteitenlijst door een beslissing van de gemeenteraad, of door een beslissing van het intergemeentelijk samenwerkingsverband of de OCMW-vereniging, vermeld in artikel 13, § 2, van het Wijk-werkendecreet van 7 juli 2017. De VDAB wordt van die beslissing met een gewone brief of op elektronische wijze op de hoogte gebracht.<br>
+De gemeente bepaalt voor haar grondgebied de afwijkingen van de activiteitenlijst door een beslissing van de gemeenteraad, of door een beslissing van het intergemeentelijk samenwerkingsverband , de interlokale vereniging of de vereniging of vennootschap voor maatschappelijk welzijn, vermeld in artikel 13, § 2, van het Wijk-werkendecreet van 7 juli 2017. De VDAB wordt van die beslissing met een gewone brief of op elektronische wijze op de hoogte gebracht.<br>
 <br>
 De afwijking van de activiteitenlijst heeft op zijn vroegst uitwerking vanaf de datum van publicatie op het platform door de VDAB.<br>
 &nbsp;
@@ -172,16 +173,16 @@ De organisatoren die opgericht zijn met toepassing van artikel 14, § 1, eerste 
 ### ART 18.
 
 De organisatoren die opgericht zijn met toepassing van artikel 14, § 1, eerste lid, 2°, van het Wijk-werkendecreet van 7 juli 2017, hebben een van de volgende vormen:<br>
-1° een projectvereniging als vermeld in hoofdstuk III, afdeling 2, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
-2° een dienstverlenende vereniging als vermeld in hoofdstuk III, afdeling 3, van het voormelde decreet van 6 juli 2001;<br>
-3° een opdrachthoudende vereniging als vermeld in hoofdstuk III, afdeling 3, van het voormelde decreet van 6 juli 2001;<br>
-4° een samenwerkingsverband zonder rechtspersoonlijkheid als vermeld in hoofdstuk II van het voormelde decreet van 6 juli 2001, als de overeenkomst bepaalt dat een van de deelnemende gemeenten aangesteld wordt als beherende gemeente;<br>
-5° een OCMW-vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+1° een projectvereniging als vermeld in deel 3, titel 3, hoofdstuk 3, afdeling 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
+2° een dienstverlenende vereniging als vermeld in deel 3, titel 3, hoofdstuk 3, afdeling 3, van het voormelde decreet van 22 december 2017;<br>
+3° een opdrachthoudende vereniging als vermeld in deel 3, titel 3, hoofdstuk 3, afdeling 3, van het voormelde decreet van 22 december 2017;<br>
+4° een interlokale vereniging als vermeld in deel 3, titel 3, hoofdstuk 2, van het voormelde decreet van 22 december 2017, als een van de deelnemende gemeenten aangesteld wordt als beherende gemeente die de vereniging vertegenwoordigt;<br>
+5° een vereniging of vennootschap voor maatschappelijk welzijn als vermeld in deel 3, titel 4, van het voormelde decreet van 22 december 2017.<br>
 &nbsp;
 
 ### ART 19.
 
-De gemeente richt een organisator op door een beslissing van de gemeenteraad, of door een beslissing van het intergemeentelijk samenwerkingsverband of de OCMW-vereniging, vermeld in artikel 14 van het Wijk-werkendecreet van 7 juli 2017. De VDAB wordt van die beslissing met een aangetekende brief op hoogte gebracht.<br>
+De gemeente richt een organisator op door een beslissing van de gemeenteraad, of door een beslissing van het intergemeentelijk samenwerkingsverband, de interlokale vereniging of de vereniging of vennootschap voor maatschappelijk welzijn, vermeld in artikel 14 van het Wijk-werkendecreet van 7 juli 2017. De VDAB wordt van die beslissing met een aangetekende brief op hoogte gebracht.<br>
 &nbsp;
 
 ### ART 20.
@@ -212,20 +213,21 @@ De organisator is geregistreerd als dienstverlener conform artikel 4 van het dec
 
 ### ART 22.
 
-Alle geldige gebruikte cheques worden binnen twee maanden na de prestatie ingediend bij de organisator van het domicilie van de wijk-werker. De organisator controleert of de prestatie geleverd is tijdens de geldigheidsduur van de cheque en of de cheque binnen twee maanden na de prestatie is ingediend.<br>
-&nbsp;
+Na de prestatie van de wijk-werker registreert de gebruiker op elektronische wijze de wijk-werkcheque voor die prestatie.&nbsp;<br>
+<br>
+De gebruiker doet de registratie, vermeld in het eerste lid, uiterlijk vijf dagen na het einde van de maand waarin de wijk-werker de prestatie heeft geleverd.<br>
+<br>
+De organisator controleert of de prestatie geleverd is tijdens de geldigheidsduur van de cheque en of de cheque is geregistreerd binnen de termijn, vermeld in het tweede lid.
 
 ### ART 23.
 
-De organisator ontvangt de gebruikte wijk-werkcheques van de wijk-werker. Voor elektronische cheques wordt de elektronische registratie van de cheque op het platform als ontvangst beschouwd.<br>
-&nbsp;
+...
 
 ### ART 24.
 
 De wijk-werker geeft maandelijks het ingevulde prestatieformulier af bij de organisator van zijn domicilie. De organisator controleert de prestatie van de wijk-werker aan de hand van het ingevulde prestatieformulier.<br>
 <br>
-De organisator registreert de prestatie op het platform. De registratie van de prestatie en de ingediende cheque geven aanleiding tot de uitbetaling van de vergoedingen, vermeld in artikel 13, 14 en 40.<br>
-&nbsp;
+De registratie van de wijk-werkcheque door de gebruiker geeft aanleiding tot de uitbetaling van de vergoeding, vermeld in artikel 13, 14 en 40.
 
 ## Afdeling 3 Financiering
 
@@ -275,7 +277,9 @@ De volgende categorieën kunnen als gebruiker gebruikmaken van het wijk-werken:<
 3° OCMW's;<br>
 4° vzw's en andere niet-commerciële verenigingen, met inbegrip van feitelijke verenigingen;<br>
 5° onderwijsinstellingen;<br>
-6° land- of tuinbouwbedrijven.<br>
+6° land- of tuinbouwbedrijven;<br>
+7° &nbsp;politiezones;<br>
+8° &nbsp;hulpverleningszones.<br>
 &nbsp;
 
 ### ART 31.
@@ -307,7 +311,7 @@ De gebruiker mag de activiteit pas laten verrichten als hij in het bezit is van 
 
 ### ART 35.
 
-De gebruiker die in het bezit is van een gebruikersovereenkomst, kan wijk-werkcheques aankopen bij de uitgiftemaatschappij.<br>
+De gebruiker die in het bezit is van een gebruikersovereenkomst, kan wijk-werkcheques aankopen bij de verstrekker.<br>
 &nbsp;
 
 ## HOOFDSTUK 7 Wijk-werkcheque
@@ -316,33 +320,20 @@ De gebruiker die in het bezit is van een gebruikersovereenkomst, kan wijk-werkch
 
 ### ART 36.
 
-De vorm van de wijk-werkcheque wordt bepaald door het model dat de raad van bestuur van de VDAB heeft vastgelegd. Een ingevulde cheque bevat ten minste de volgende gegevens:<br>
-1° de naam van de gebruiker;<br>
-2° de naam en het identificatienummer van de wijk-werker;<br>
-3° de datum van de prestatie;<br>
-4° de geldigheidsduur van de cheque;<br>
-5° de uiterste indieningstermijn na de prestatie;<br>
-6° het unieke chequenummer.<br>
-<br>
-De wijk-werkcheque wordt als geldig beschouwd als hij al de gegevens, vermeld in het eerste lid, bevat op het moment dat de wijk-werker de cheque indient bij de organisator.<br>
-&nbsp;
+De wijk-werkcheque is een elektronische cheque.
 
 ### ART 37.
 
 De wijk-werkcheque heeft een geldigheidsduur van twaalf maanden. De cheque moet gebruikt worden tijdens de geldigheidsduur.<br>
 <br>
-In afwijking van het eerste lid heeft een geldige wijk-werkcheque met een uitgiftedatum tot en met 29 maart 2021 een geldigheidsduur van vijftien maanden.<br>
-<br>
-Met behoud van toepassing van artikel 42 en onder voorbehoud van het tweede lid, wordt de geldigheidsduur van een wijk-werkcheque met een vervaldatum vanaf 29 maart 2021 tot en met 1 juni 2021 verlengd met drie maanden.<br>
-<br>
-De Vlaamse minister, bevoegd voor werk, kan de uitgifte- en vervaldatum alsook de termijnen van verlenging, zoals vermeld in lid twee en drie, aanpassen.<br>
+De Vlaamse minister, bevoegd voor werk, kan de uitgifte- en&nbsp;vervaldatum van de wijk-werkcheques aanpassen.<br>
 &nbsp;
 
 ## Afdeling 2 Aankoop
 
 ### ART 38.
 
-§ 1. De gebruiker koopt wijk-werkcheques aan bij de uitgiftemaatschappij. De aanschafprijs bedraagt minimaal 5,95 euro.<br>
+§ 1. De gebruiker koopt wijk-werkcheques aan bij de verstrekker. De aanschafprijs bedraagt minimaal 5,95 euro.<br>
 <br>
 Elke gemeente of samenwerkingsverband kan beslissen om een hogere aanschafprijs te vragen aan de gebruiker, op voorwaarde dat de aanschafprijs wordt verhoogd met een veelvoud van 0,50 euro en dat de aanschafprijs ten hoogste 7,45 euro bedraagt. De afwijking treedt in werking op 1 januari van het jaar nadat de gemeente de beslissing heeft genomen.<br>
 <br>
@@ -350,30 +341,23 @@ Als de organisator wordt aangewezen door een samenwerkingsverband of groep van g
 <br>
 Bij het bepalen van de aanschafprijs kan de gemeente of de groep van gemeenten geen onderscheid maken per type gebruiker of per type activiteit.<br>
 <br>
-§ 2. Vanaf 1 juli 2018 kunnen gebruikers die geen natuurlijke personen zijn, alleen elektronische cheques aankopen.<br>
+§ 2. ....<br>
 &nbsp;
 
 ### ART 39.
 
-Wijk-werkcheques worden aangekocht per veelvoud van tien cheques en ze worden op voorhand betaald. De cheques worden opgesteld op naam van de gebruiker.<br>
-<br>
-In afwijking van het eerste lid kunnen elektronische wijk-werkcheques aangekocht worden in hoeveelheden die geen veelvoud van tien zijn.<br>
-&nbsp;
+...
 
 ## Afdeling 3 Verwerking
 
 ### ART 40.
 
 De aanschafprijs wordt als volgt verdeeld:<br>
-1° de uitgiftemaatschappij ontvangt het bedrag dat haar toekomt ter dekking van de administratiekosten;<br>
+1° de verstrekker ontvangt het bedrag dat haar toekomt ter dekking van de administratiekosten;<br>
 2° de VDAB ontvangt het bedrag dat hem toekomt ter dekking van de kosten voor de verzekeringen, vermeld in artikel 21 en 22 van het Wijk-werkendecreet van 7 juli 2017;<br>
 3° de VDAB houdt een bedrag in van 0,10 euro per cheque ter dekking van de verplaatsingsvergoeding, vermeld in artikel 14 van dit besluit;<br>
 4° de wijk-werker ontvangt 4,10 euro;<br>
 5° de organisator ontvangt het saldo na aftrek van de bedragen, vermeld in punt 1° tot en met 4°.<br>
-<br>
-Aan het saldo, vermeld in het eerste lid, 5°, wordt eenmalig een toelage toegekend per organisator die is opgericht conform artikel 14, § 1, eerste lid, 1°, van het Wijk-werkendecreet van 7 juli 2017.<br>
-<br>
-Per organisator die is opgericht conform artikel 14, § 1, eerste lid, 1°, van het Wijk-werkendecreet van 7 juli 2017, is de toelage gelijk aan het verschil tussen het saldo voor het inkomstenjaar 2019 en het saldo voor het inkomstenjaar 2019 met de administratiekosten, vermeld in het eerste lid, 1°, zoals van toepassing in het inkomstenjaar 2022.<br>
 <br>
 De VDAB voert de betalingen, vermeld in het eerste lid, uit.<br>
 &nbsp;
@@ -385,10 +369,17 @@ De VDAB betaalt de vergoedingen voor de wijk-werker, vermeld in hoofdstuk 2, afd
 
 ### ART 42.
 
-De gebruiker brengt de ongebruikte cheques waarvan de geldigheid niet is verstreken, terug naar de uitgiftemaatschappij. De uitgiftemaatschappij betaalt de aanschafprijs terug aan de gebruiker, na aftrek van administratiekosten, die 30 % van de aanschafprijs bedragen.<br>
+§1. Gedurende veertien kalenderdagen vanaf de dag na de dag waarop de gebruiker de wijk-werkcheques heeft aangekocht, kan de gebruiker de voormelde aankoop herroepen.<br>
 <br>
-De uitgiftemaatschappij maakt jaarlijks aan de gebruikers een fiscaal attest over, met de vermelding van de aanschafprijs van de cheques die aangekocht werden tijdens het voorafgaande kalenderjaar.<br>
-&nbsp;
+Het herroepingsrecht, vermeld in het eerste lid, bestaat alleen voor de aankoop in kwestie in zijn geheel.<br>
+<br>
+Als de gebruiker de aankoop herroept conform het eerste lid, wordt de gebruiker voor 100% van de totale waarde terugbetaald door de verstrekker.&nbsp;<br>
+<br>
+§2. De gebruiker kan aan de verstrekker de terugbetaling vragen van de wijk-werkcheques die hij heeft aangekocht, maar die nog niet zijn gebruikt en die nog geldig zijn.&nbsp;<br>
+<br>
+De verstrekker betaalt aan de gebruiker die de terugbetaling vraagt, vermeld in het eerste lid, de aanschafprijs van de wijk-werkcheques terug, na aftrek van de administratiekosten ten bedrage van 10%.&nbsp;<br>
+<br>
+§3. De verstrekker bezorgt jaarlijks vóór 1 maart aan de gebruiker, vermeld in artikel 30, 1°, van dit besluit, een fiscaal attest met de vermelding van de aanschafprijs van de wijk-werkcheques die zijn aangekocht tijdens het voorafgaande kalenderjaar. Van het voormelde bedrag wordt de aanschafprijs van de wijk-werkcheques, die de verwerker conform paragraaf 2 tijdens hetzelfde kalenderjaar aan de gebruiker heeft terugbetaald, in mindering gebracht. De gegevens, vermeld in de voormelde fiscale attesten, worden door de verstrekker ook vóór 1 maart bezorgd aan de dienst die bevoegd is voor de inkomstenbelastingen.
 
 ## HOOFDSTUK 8 Platform en gegevensuitwisseling
 
@@ -408,7 +399,7 @@ Het OCMW heeft toegang tot alle gegevens betreffende de wijk-werkers die door he
 
 ### ART 45.
 
-De uitgiftemaatschappij ontvangt identificatiegegevens van de wijk-werkers en de gebruikers en controleert of de gebruiker cheques mag aankopen.<br>
+De verstrekker ontvangt identificatiegegevens van de wijk-werkers en de gebruikers en controleert of de gebruiker cheques mag aankopen.<br>
 &nbsp;
 
 ### ART 46.
@@ -442,7 +433,7 @@ De VDAB en het OCMW die toegang hebben tot het platform, kunnen alle gegevens re
 
 ### ART 50.
 
-De uitgiftemaatschappij registreert alle gegevens over de aangekochte cheques op het platform.<br>
+De verstrekker registreert alle gegevens over de aangekochte cheques op het platform.<br>
 &nbsp;
 
 ### ART 51.
@@ -494,7 +485,7 @@ De VDAB kan aanvullende informatie of toelichting vragen aan de organisator.<br>
 
 ### ART 57.
 
-Als de VDAB bij de uitoefening van de controle vaststelt dat er te veel of ten onrechte bedragen zijn toegekend aan de wijk-werker, de gebruiker, de organisator of de uitgiftemaatschappij, kan hij die bedragen terugvorderen.<br>
+Als de VDAB bij de uitoefening van de controle vaststelt dat er te veel of ten onrechte bedragen zijn toegekend aan de wijk-werker, de gebruiker, de organisator of de verstrekker, kan hij die bedragen terugvorderen.<br>
 &nbsp;
 
 ### ART 58.
