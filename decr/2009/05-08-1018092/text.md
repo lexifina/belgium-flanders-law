@@ -131,7 +131,7 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw, een technisch bouwsysteem of de constructieonderdelen inzake energetische prestaties, thermische isolatie, binnenklimaat, systeemeisen en ventilatie moet voldoen;<br>
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling;<br>
 49° /1 ESCO: een natuurlijk persoon of rechtspersoon die in de inrichtingen of gebouwen van een netgebruiker energiediensten of andere maatregelen ter verbetering van de energie-efficiëntie levert waarbij de terugbetaling van de investering gebeurt op basis van de terugverdientijd van de investering;<br>
-50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
+50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de transmissienetbeheerder met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 50° /1 extern signaal: een dynamisch signaal, waaronder een activatiesignaal en een desactivatiesignaal, of een financiële prikkel, zoals een dynamisch prijssignaal, met als doel flexibiliteit in het elektriciteitssysteem te veroorzaken;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 51°/0 federale Gaswet: de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen;<br>
@@ -213,7 +213,7 @@ a) 31 juli;<br>
 b) ...;<br>
 80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br>
 80° /1 marktdeelnemer: een natuurlijke persoon of rechtspersoon die elektriciteit aankoopt, verkoopt of produceert, flexibiliteits- of aggregatiediensten verleent of energieopslagdiensten exploiteert, met inbegrip van het plaatsen van handelsorders op een of meer elektriciteitsmarkten of op de markt voor lokale congestie, inclusief op balanceringsmarkten;<br>
-81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, aanbieder van energiediensten, leverancier, tussenpersoon, intermediair bij de aankoop van energie, energiegemeenschap van burgers, hernieuwbare-energiegemeenschap, bevrachter, dienstverleners van flexibiliteit, aanvrager van flexibiliteit, aggregatoren of evenwichtsverantwoordelijke;<br>
+81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, transmissienetbeheerder, de beheerder van het vervoernet, werkmaatschappij, aanbieder van energiediensten, leverancier, tussenpersoon, intermediair bij de aankoop van energie, energiegemeenschap van burgers, hernieuwbare-energiegemeenschap, bevrachter, dienstverleners van flexibiliteit, aanvrager van flexibiliteit, aggregatoren of evenwichtsverantwoordelijke;<br>
 82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br>
 82° /1 meetgegevens: gegevens die verkregen worden door of gebaseerd zijn op een telling of meting door middel van een meetinrichting;<br>
 83° melding : de verplichte melding van de handelingen aan het college van burgemeester en schepenen, vermeld in artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
@@ -244,7 +244,7 @@ b) tijdelijke gebouwen die in principe niet langer dan twee jaar worden gebruikt
 c) gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;<br>
 d) industriële gebouwen;<br>
 e) werkplaatsen;<br>
-f) opslagplaatsen voor niet-industrieel gebruik;<br>
+f) ...;<br>
 g) gebouwen van een landbouwgebouw die niet voor bewoning bestemd zijn;<br>
 92° /1/1 nieuwe groenestroominstallatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk elektriciteit uit hernieuwbare energiebronnen opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een groenestroominstallatie;<br>
 92° /1/2 nieuwe productie-installatie: een nieuwe groenestroominstallatie of een nieuwe warmte-krachtinstallatie;<br>
@@ -253,9 +253,17 @@ a) 31 juli;<br>
 b) ...;<br>
 92° /2/1 nieuwe warmtekracht-installatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk in één proces thermische warmte en elektrische of mechanische energie opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een warmtekracht-installatie;<br>
 92° /3 noodgroep: generatoren die uitsluitend tot bedoeling hebben om kritische belasting te voeden bij netuitval, en die verder enkel netgekoppeld worden om te testen of om een aanzienlijk of systematisch onevenwicht in de Belgische regelzone op te vangen zoals onder de tertiaire reserve omschreven in het koninklijk besluit van 19 december 2002 houdende een technisch reglement voor het beheer van het transmissienet van elektriciteit en de toegang ertoe;<br>
+92°/3/1 noodkoopwoning: een woning die uitsluitend door één of meer noodkopers en hun inwonende gezinsleden, die met de noodkopers een gemeenschappelijke huishouding voeren, als hoofdverblijfplaats gebruikt wordt zoals blijkt uit de inschrijvingen in het bevolkingsregister en die gekenmerkt wordt door structurele problemen op het vlak van veiligheid, gezondheid en/of kwaliteit en waaraan belang- rijke werkzaamheden moeten worden uitgevoerd:<br>
+a)&nbsp;&nbsp; &nbsp;die gericht zijn op een verbetering van de energieprestaties, gecombineerd met structurele en bouwfysische ingrepen en die tot doel hebben om het goed te laten beantwoorden aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021; en<br>
+b)&nbsp;&nbsp; &nbsp;waarvan de financiering middels een marktconforme lening aanleiding zou geven tot afbetalingsproblemen voor de eigenaar(s)-bewoner(s), zoals blijkt uit een solvabiliteitsonderzoek door het openbaar centrum voor maatschappelijk welzijn;<br>
+92°/3/2 noodkoper: de natuurlijke persoon die aan de volgende twee voorwaarden voldoet:<br>
+a)&nbsp;&nbsp; &nbsp;de noodkoper is:<br>
+1)&nbsp;&nbsp; &nbsp;hetzij alleen of samen met andere noodkopers voor de geheelheid volle eigenaar van een noodkoopwoning;<br>
+2)&nbsp;&nbsp; &nbsp;hetzij voor 100 procent de vruchtgebruiker van de noodkoopwoning en minstens ook gedeeltelijk de naakte eigenaar van die noodkoopwoning;<br>
+b)&nbsp;&nbsp; &nbsp;de noodkoper gebruikt de noodkoopwoning als hoofdverblijfplaats zoals blijkt uit de inschrijvingen in het bevolkingsregister;<br>
 92°/4 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de federale Elektriciteitswet;<br>
 92° /5 onafhankelijke dienstverlener van flexibiliteit: een dienstverlener van flexibiliteit die niet is aangesloten bij de leverancier van de afnemer of die een afzonderlijke evenwichtsverantwoordelijke heeft die geen evenwichtsverantwoordelijke van de afnemer is;<br>
-93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
+93° ondernemingen : elke natuurlijke persoon die een zelfstandig beroep uitoefent, de vennootschappen met rechtspersoonlijkheid, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
 93° /1 onderneming in moeilijkheden: een onderneming die zich in één van de volgende situaties bevindt:<br>
 a) in het geval van een vennootschap met beperkte aansprakelijkheid: meer dan de helft van haar geplaatste aandelenkapitaal is verdwenen door de opgebouwde verliezen. Dit is het geval wanneer het in mindering brengen van de opgebouwde verliezen op de reserves en alle andere elementen die doorgaans worden beschouwd als een onderdeel van het eigen vermogen van de onderneming, een negatief cumulatief bedrag oplevert dat hoger is dan de helft van het geplaatste aandelenkapitaal;<br>
 b) in het geval van een onderneming waarin ten minste een aantal van de vennoten onbeperkt aansprakelijk zijn voor de schulden van de onderneming: meer dan de helft van het kapitaal van de onderneming zoals dat in de boeken van de onderneming is vermeld, is door de gecumuleerde verliezen verdwenen;<br>
@@ -283,7 +291,18 @@ e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee j
 102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint, met uitsluiting van prosumenten;<br>
 103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om gebouwen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br>
 104° prosument: elektriciteitsdistributienetgebruiker met toegangspunt voor afname, al dan niet rechtstreeks op een transformator aangesloten, en met een decentrale productie-eenheid met een maximaal AC-vermogen kleiner dan of gelijk aan 10 kVA die hem in staat stelt elektriciteit te injecteren op het elektriciteitsdistributienet;<br>
-104°/1 publieke organisatie: de federale overheid, inclusief de parastatalen, de Vlaamse overheid, inclusief de intern en extern verzelfstandigde agentschappen, de provinciale overheden, de gemeentelijke overheden, inclusief de openbare centra voor maatschappelijk welzijn, de overheidsbedrijven, de onderwijsinstellingen en de welzijns- of gezondheidsvoorzieningen;<br>
+104°/1 publieke organisatie:<br>
+a)&nbsp;&nbsp; &nbsp;de federale overheid, inclusief de parastatalen;<br>
+b)&nbsp;&nbsp; &nbsp;de Vlaamse overheid, inclusief de intern en extern verzelfstandigde agentschappen;<br>
+c)&nbsp;&nbsp; &nbsp;de provinciale overheden, inclusief de autonome provinciebedrijven en de extern verzelfstandigde agentschappen;<br>
+d)&nbsp;&nbsp; &nbsp;de gemeentelijke overheden, inclusief de openbare centra voor maatschappelijk welzijn, de autonome gemeentebedrijven, de extern verzelfstandigde agentschappen, en verenigingen en vennootschappen voor maatschappelijk welzijn;<br>
+e)&nbsp;&nbsp; &nbsp;de intergemeentelijke samenwerkingsverbanden;<br>
+f)&nbsp;&nbsp; &nbsp;de politiezones;<br>
+g)&nbsp;&nbsp; &nbsp;de hulpverleningszones;<br>
+h)&nbsp;&nbsp; &nbsp;de overheidsbedrijven;<br>
+i)&nbsp;&nbsp; &nbsp;de onderwijsinstellingen;<br>
+j)&nbsp;&nbsp; &nbsp;de welzijnsvoorzieningen;<br>
+k)&nbsp;&nbsp; &nbsp;de gezondheidsvoorzieningen;<br>
 105° rationeel energiebeheer : het geheel van handelingen die ondernomen worden om het energiegebruik te meten, te analyseren, te verminderen en te volgen met het oog op het verkrijgen van een rationeel energiegebruik, met inbegrip van het volgen van vormingsactiviteiten rond rationeel energiegebruik en het ondernemen van haalbaarheidsstudies voor de installatie van een energiezuinig product, systeem of een energiezuinige techniek;<br>
 106° rationeel energiegebruik : het zo efficiënt mogelijke gebruik van energie;<br>
 107° reconciliatie : onderlinge verrekening tussen marktpartijen op basis van het verschil tussen gealloceerde en werkelijk gemeten energiehoeveelheden;<br>
@@ -327,11 +346,11 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 120° titularis van een toegangspunt : natuurlijke persoon of rechtspersoon die in het toegangsregister bekend staat als afnemer of producent op het toegangspunt in kwestie;<br>
 120°/1 toegang tot het net : de mogelijkheid tot injectie of afname van actieve energie op één of meer toegangspunten, met inbegrip van het gebruik van het net en de aansluitingsinstallaties die door de beheerder van het betrokken net worden beheerd, en van diens ondersteunende diensten;<br>
 120° /2 toegang tot het warmte- of koudenet: de mogelijkheid tot injectie of afname van thermische energie op een of meer toegangspunten voor thermische energie, met inbegrip van het gebruik van het warmte- of koudenet en de aansluitingsinstallaties die door de beheerder van het warmte- of koudenet in kwestie worden beheerd, en van zijn ondersteunende diensten;<br>
-121° toegangshouder : natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een netbeheerder, beheerder van het transmissienet of beheerder van het vervoersnet met betrekking tot de toegang tot diens net op een bepaald toegangspunt;<br>
+121° toegangshouder : natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een netbeheerder, transmissienetbeheerder of beheerder van het vervoersnet met betrekking tot de toegang tot diens net op een bepaald toegangspunt;<br>
 121° /1 toegangshouder voor thermische energie: natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een warmte- of koudenetbeheerder voor de toegang tot zijn warmte- of koudenet op een bepaald toegangspunt voor thermische energie;<br>
 122° toegangspunt : afnamepunt of injectiepunt;<br>
 122° /1 toegangspunt voor thermische energie: afnamepunt voor thermische energie of injectiepunt voor thermische energie;<br>
-123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, beheerder van het transmissienet of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br>
+123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, transmissienetbeheerder of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br>
 124° toegangsregister voor het warmte- of koudenet: register met alle toegangspunten voor thermische energie van een bepaald warmte- of koudenet, dat opgesteld en beheerd wordt door de betrokken warmte- of koudenetbeheerder, waarin onder meer voor ieder toegangspunt voor thermische energie de titularis van het toegangspunt voor thermische energie en de toegangshouder voor thermische energie worden vermeld;<br>
 125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de federale Elektriciteitswet;<br>
 125°/1 transmissienetbeheerder: de instantie die overeenkomstig de federale Elektriciteitswet als beheerder van het transmissienet is aangewezen;<br>
@@ -366,7 +385,7 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 135° warmtekrachtcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode een hoeveelheid primaire energiebesparing heeft gerealiseerd door gebruik te maken van kwalitatieve warmtekrachtkoppeling ten opzichte van een moderne referentiecentrale en een moderne referentieketel;<br>
 136° warmtekrachtinstallatie : installatie die in één proces thermische warmte en elektrische of mechanische energie opwekt;<br>
 137° warmtekrachtkoppeling : gelijktijdige opwekking in één proces van thermische warmte en elektrische of mechanische energie;<br>
-137/1° warmtepomp: voor wat de toepassing van de titels X en XI betreft, een machine, toestel of installatie dat/die warmte uit de natuurlijke omgeving, zoals de lucht, het water of de bodem overdraagt aan gebouwen of industriële installaties door de natuurlijke warmtestroming om te keren van een lagere naar een hogere temperatuur of waar bij omkeerbare warmtepompen de warmtestroming ook van het gebouw naar de natuurlijke omgeving kan plaatsvinden;<br>
+137/1° warmtepomp: voor wat de toepassing van titel VII, hoofdstuk VII, en titel X en XI betreft, een machine, toestel of installatie dat/die warmte uit de natuurlijke omgeving, zoals de lucht, het water of de bodem overdraagt aan gebouwen of industriële installaties door de natuurlijke warmtestroming om te keren van een lagere naar een hogere temperatuur of waar bij omkeerbare warmtepompen de warmtestroming ook van het gebouw naar de natuurlijke omgeving kan plaatsvinden;<br>
 137° /2 welzijnsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de mindervaliden, de bejaarden, de jeugdbescherming en de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br>
 138° /0 Wonen-Vlaanderen: het intern verzelfstandigd agentschap dat is opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
@@ -572,7 +591,7 @@ De algemeen directeur van de VREG woont de raad van bestuur bij met raadgevende 
 ### ART. 3.1.7.
 
 § 1. Het mandaat van bestuurder van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de transmissienetbeheerder, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
 2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, vermeld in punt 1°,&nbsp; of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
 3° het lidmaatschap van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
 4° de functie of het ambt van minister, staatssecretaris, het lidmaatschap van een gewest- of gemeenschapsregering, het lidmaatschap van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, het lidmaatschap van de bestendige deputatie van de provincieraden en het lidmaatschap van het college van burgemeester en schepenen van een gemeente;<br>
@@ -669,7 +688,7 @@ De bestuurders, de algemeen directeur en de personeelsleden van de VREG zijn geb
 ### ART. 3.1.12/1.
 
 Het uitoefenen van een Functie als algemeen directeur of personeelslid van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de transmissienetbeheerder, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
 2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij,&nbsp;vermeld in punt 1°, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
 3° het lid zijn van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
 4° de functie of het ambt van minister, staatssecretaris, lid van gewest- of gemeenschapsregering, lid van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, lid van de bestendige deputatie van de provincieraden en lid van het college van burgemeester en schepenen van een gemeente;<br>
@@ -917,7 +936,7 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 1° het beheren van het toegangsregister van zijn net;<br>
 2° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
 3° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
-4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, de aggregatoren, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
+4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de transmissienetbeheerder, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, de aggregatoren, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
 5° het verzamelen, berekenen en verwerken van de gegevens in het kader van de flexibiliteitsdiensten of ondersteunende diensten die hij verleent;<br>
 6° het beheer van het flexibiliteitstoegangsregister en het flexibiliteitsactivatieregister voor zijn net.
 
@@ -1002,7 +1021,7 @@ e) verrekeningen van de verkoop van groene stroom conform artikel 7.2.3;<br>
 2° het beheren van het toegangsregister;<br>
 3° het beheren, verwerken, beveiligen en bewaren van de technische, relationele en meetgegevens met betrekking tot de toegangspunten van het distributienet, en het instaan voor de waarachtigheid en nauwkeurigheid ervan;<br>
 4° de bepaling en de validatie van de injectie en de afname van de producenten en afnemers die aangesloten zijn op het distributienet;<br>
-5° het verstrekken van de nodige gegevens aan andere netbeheerders, de beheerder van het transmissienet, de vervoeronderneming en de beheerder van het plaatselijk vervoernet in het kader van netbeheer en operationele veiligheid;<br>
+5° het verstrekken van de nodige gegevens aan andere netbeheerders, de transmissienetbeheerder, de vervoeronderneming en de beheerder van het plaatselijk vervoernet in het kader van netbeheer en operationele veiligheid;<br>
 6° het faciliteren van de ontwikkeling van innovatieve diensten en producten als dat conform de regelgeving met betrekking tot de verwerking van persoonsgegevens is;<br>
 7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen, de afnemers en de VREG, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
 8° het verstrekken van de nodige gegevens aan overheden voor het uitoefenen van hun taak;<br>
@@ -1140,7 +1159,7 @@ De netbeheerder wordt in de rechten van de betrokkene gesteld ten opzichte van d
 
 ### ART 4.1.11/7.
 
-De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2, eerste lid, 7°, om de plaatsing van een digitale meter heeft verzocht, een vergoeding verschuldigd van 100 euro bij overschrijding van de termijn, vastgesteld door de Vlaamse Regering, conform artikel 4.1.22/2, vierde lid, voor het aanleveren van de offerte of het plaatsen van de digitale meter.
+De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2, eerste lid, 7°, om de plaatsing van een digitale meter heeft verzocht, een vergoeding verschuldigd van 100 euro bij overschrijding van de termijn, vastgesteld door de Vlaamse Regering, conform artikel 4.1.22/2, vierde lid, voor het plaatsen van de digitale meter.
 
 ## Afdeling V. Aansluiting op een distributienet of het plaatselijk vervoernet van elektriciteit
 
@@ -1395,7 +1414,7 @@ De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk ve
 
 ### ART 4.1.18/2.
 
-Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen installateurs van hernieuwbare energiesystemen maandelijks aan elke netbeheerder in wiens gebied ze gedurende de voorgaande maand werken hebben uitgevoerd een lijst met hernieuwbare energie-installaties voor elektriciteitsproductie die door hen werden geïnstalleerd over te maken. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de vorm en de inhoud van deze meldingen.
+Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen installateurs van hernieuwbare energiesystemen en installateurs van elektriciteitsopslagfaciliteiten maandelijks aan elke netbeheerder in wiens gebied ze gedurende de voorgaande maand werken hebben uitgevoerd een lijst met hernieuwbare energie-installaties voor elektriciteitsproductie en elektriciteitsopslagfaciliteiten die door hen werden geïnstalleerd over te maken. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de vorm en de inhoud van deze meldingen.
 
 ## Afdeling VII. Investeringsplannen
 
@@ -1520,7 +1539,7 @@ De betrokkene behoudt de zeggenschap over zijn persoonsgegevens uit de digitale 
 De netbeheerder of zijn werkmaatschappij verleent, met inachtneming van het tweede lid en hetgeen bepaald is in artikel 4.1.8/2, aan de volgende partijen toegang tot de gegevens verzameld uit de digitale, elektronische of analoge meter:<br>
 1° de overheden voor de gegevens die ze gemachtigd zijn te kennen uit hoofde van een wet, een decreet of een ordonnantie;<br>
 2° de instellingen en de natuurlijke personen of rechtspersonen voor de informatie die ze nodig hebben om de opdrachten van algemeen belang te vervullen die hun zijn toevertrouwd door of krachtens een wet, een decreet of een ordonnantie;<br>
-3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de beheerder van het transmissienet, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters,&nbsp;dienstverleners van flexibiliteit, aggregatoren, evenwichtsverantwoordelijken en de VREG;<br>
+3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de transmissienetbeheerder, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters,&nbsp;dienstverleners van flexibiliteit, aggregatoren, evenwichtsverantwoordelijken en de VREG;<br>
 4° de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt;<br>
 5° een andere partij, op voorwaarde dat de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt, toestemming heeft gegeven aan die partij;<br>
 6° elke partij voor zover de gegevens die worden verwerkt volledig geanonimiseerd zijn.<br>
@@ -1578,6 +1597,29 @@ De instellingen en de natuurlijke personen of rechtspersonen, vermeld in artikel
 Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
 <br>
 De instellingen en de natuurlijke personen of rechtspersonen, vermeld in artikel 4.1.22/5, eerste lid, 2°, zijn de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, bij de verwerking van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid.
+
+### ART 4.1.22/11/1.
+
+Conform artikel 4.1.22/11 van dit decreet verleent de netbeheerder aan openbare centra voor maatschappelijk welzijn in de volgende gevallen toegang tot technische gegevens, relationele gegevens en meetgegevens van afnemers om de taken uit te voeren die aan de openbare centra voor maatschappelijk welzijn worden opgelegd door of krachtens dit decreet of de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn:<br>
+1° een afnemer voert gedurende een maand geen opladingen in de digitale aardgasmeter in voorafbetaling uit en dreigt binnen een termijn van tien dagen zonder aardgaslevering te vallen in de periode van november tot en met maart;&nbsp;<br>
+2° een elektriciteitsafnemer met een digitale elektriciteitsmeter in voorafbetaling waarbij de vermogensbegrenzer is uitgeschakeld, voert gedurende een maand geen opladingen uit en dreigt binnen een termijn van tien dagen zonder elektriciteitslevering te vallen in de periode van november tot en met maart;<br>
+3° een afnemer is begin september van de elektriciteits- of aardgastoevoer afgesloten wegens wanbetaling;<br>
+4° een afnemer wordt beleverd via een digitale elektriciteits- of aardgasmeter in voorafbetaling;<br>
+5° voor een afnemer is een positief advies van de lokale adviescommissie verkregen en de afnemer in kwestie kan in de komende periode mogelijk afgesloten worden van de energietoevoer;<br>
+6° voor een afnemer is een positief advies van de lokale adviescommissie verkregen en de afnemer in kwestie is in de loop van de voorgaande week afgesloten van de energietoevoer;<br>
+7° voor een afnemer is een positief advies van de lokale adviescommissie verkregen en de afnemer in kwestie is in de loop van de voorgaande week opnieuw aangesloten aan de energietoevoer.<br>
+<br>
+Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, geeft de netbeheerder het openbaar centrum voor maatschappelijk welzijn toegang tot al de volgende persoonsgegevens van de afnemer:<br>
+1°&nbsp;&nbsp; &nbsp;de naam;<br>
+2°&nbsp;&nbsp; &nbsp;het adres;<br>
+3°&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+4°&nbsp;&nbsp; &nbsp;het EAN-nummer;<br>
+5°&nbsp;&nbsp; &nbsp;de energiedrager;<br>
+6°&nbsp;&nbsp; &nbsp;het sociaal of standaardtarieftype.<br>
+<br>
+De openbare centra voor maatschappelijk welzijn verwerken de gegevens, vermeld in het eerste en het derde lid, om de taken uit te voeren die hun worden opgelegd door of krachtens dit decreet of de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. Voor de verwerkingen van persoonsgegevens in het kader van de voormelde doeleinden is het openbaar centrum voor maatschappelijk welzijn de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming. Voormelde persoonsgegevens worden bewaard gedurende 24 maanden.
 
 ### ART 4.1.22/12.
 
@@ -1826,7 +1868,7 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 § 2. De technische reglementen, vermeld in § 1, bevatten voor het beheer, de toegang tot en de aansluiting op het net in ieder geval :<br>
 1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in artikel 4.1.6;<br>
 2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,&nbsp;dienstverleners van flexibiliteit, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
-3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
+3° de regels voor de uitwisseling van gegevens tussen de transmissienetbeheerder, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
 4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1,&nbsp;de verkoop van groene stroom conform artikel 7.2.3, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
 6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
@@ -1973,19 +2015,37 @@ De VREG brengt de aanvrager van de toelating en de netbeheerder in wiens geograf
 <br>
 De VREG publiceert op zijn website een actuele lijst van de directe lijnen en de directe leidingen, waarvoor conform deze paragraaf een toelating is verleend, alsook van de beheerders van die directe lijnen en directe leidingen.<br>
 <br>
+De beslissing tot toelating van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt, vervalt, bij gebrek aan indienststelling, van rechtswege vijf jaar na datum van de beslissing tot toelating.<br>
+&nbsp;<br>
+De VREG heft de beslissing op tot toelating van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt, in de volgende gevallen:<br>
+1° in een van de gevallen, vermeld in het derde lid;<br>
+2° als de directe lijn of directe leiding de grenzen van de eigen site niet meer overschrijdt;<br>
+3° bij buitendienststelling van de directe lijn of directe leiding.<br>
+<br>
+In afwijking van het eerste lid is een directe lijn of directe leiding die voorheen is toegelaten, maar waarvan de beslissing tot toelating conform het achtste lid, 2°, is opgeheven, en die, zonder enige andere wijziging te hebben ondergaan, opnieuw de grenzen van de eigen site overschrijdt, van rechtswege toegelaten.<br>
+<br>
 § 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein&nbsp; of een gemeenteweg daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de VREG, vermeld in paragraaf 2, gekregen heeft.
 
 ### ART. 4.5.2.
 
-De taken van de beheerder van een directe lijn of leiding omvatten onder meer :<br />1° het beheer en het onderhoud van de directe lijn of leiding;<br />2° het verstrekken van de nodige meetgegevens en andere gegevens aan de producent, de afnemer en de VREG; <br />3° het verstrekken van de nodige inlichtingen aan de beheerder van het net waarop de directe lijn of leiding is aangesloten om een veilige en efficiënte uitbating en ontwikkeling van dat net te waarborgen.
+De taken van de beheerder van een directe lijn of leiding omvatten onder meer :<br>
+1° het beheer en het onderhoud van de directe lijn of leiding;<br>
+2° het verstrekken van de nodige meetgegevens en andere gegevens aan de producent, de afnemer en de VREG;<br>
+3° het verstrekken van de nodige inlichtingen aan de beheerder van het net waarop de directe lijn of leiding is aangesloten om een veilige en efficiënte uitbating en ontwikkeling van dat net te waarborgen;<br>
+4° het informeren van de VREG over de datum van indienststelling en buitendienststelling van een directe lijn of leiding die de grenzen van de eigen site overschrijdt binnen dertig dagen na de indienststelling, respectievelijk buitendienststelling ervan;<br>
+5° &nbsp; het informeren van de VREG, binnen dertig dagen, over:<br>
+a)&nbsp;&nbsp; &nbsp;elke wijziging aan de eigendom of het beheer van de directe lijn of leiding die de grenzen van de eigen site overschrijdt;<br>
+b)&nbsp;&nbsp; &nbsp;elke wijziging aan de eigendom of het beheer van de kadastrale percelen waarop de directe lijn of leiding ligt;<br>
+c)&nbsp;&nbsp; &nbsp;elke wijziging van de aangesloten afnemers op de directe lijn of leiding die de grenzen van de eigen site overschrijdt;<br>
+d)&nbsp;&nbsp; &nbsp;elke wijziging in de verbinding met het net.
 
 ## [HOOFDSTUK VI. De aanleg en het beheer van een gesloten distributienet (ing. decr. 8 juli 2011, art. 33, I: 26 augustus 2011)]
 
 ### ART. 4.6.1.
 
-§ 1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de VREG.<br>
+§1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de VREG.<br>
 <br>
-§ 2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe het advies van de betrokken netbeheerder inwint. De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de VREG oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de VREG aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.<br>
+§2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe het advies van de betrokken netbeheerder inwint. De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de VREG oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de VREG aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.<br>
 <br>
 De VREG hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en houdt ook rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br>
 <br>
@@ -1993,15 +2053,20 @@ De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de c
 <br>
 Als door de aanleg van een gesloten distributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
 <br>
-§ 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
+§3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
 <br>
-§ 4. De VREG kan de beheerders van een gesloten distributienet van elektriciteit ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van elektriciteit voldoet aan de voorwaarden van artikel 1.1.3, 56° /2:<br>
+§4. De VREG kan de beheerders van een gesloten distributienet van elektriciteit ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van elektriciteit is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
 1° de vereiste om de energie die ze gebruiken om energieverliezen te dekken en om in de niet-frequentiegerelateerde ondersteunende diensten in hun systeem te voorzien, te kopen volgens transparante, niet-discriminerende en marktgebaseerde procedures, vermeld in artikel 4.6.3, eerste lid, 14° ;<br>
 2° de vereiste dat de VREG de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
 3° de vereiste om flexibiliteitsdiensten te kopen, vermeld in artikel 4.6.3, eerste lid, 15° ;<br>
 4° de vereiste om het gesloten distributienet te ontwikkelen op basis van een investeringsplan, vermeld in artikel 4.6.3, eerste lid, 16° ;<br>
 5° de vereiste om geen oplaadpunten voor elektrische voertuigen te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, derde lid;<br>
-6° de vereiste om geen elektriciteitsopslagfaciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, tweede lid.
+6° de vereiste om geen elektriciteitsopslagfaciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, tweede lid.<br>
+<br>
+§5. De VREG kan de beheerders van een gesloten distributienet van aardgas ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van aardgas is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
+1° de vereiste dat de VREG de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
+2° de vereiste om het gesloten distributienet te ontwikkelen op basis van een investeringsplan, vermeld in artikel 4.6.3, eerste lid, 16°.<br>
+&nbsp;
 
 ### ART. 4.6.2.
 
@@ -2333,7 +2398,7 @@ De warmte- of koudenetbeheerders kunnen voor de unieke identificatie van warmte-
 
 § 1. De warmte- of koudenetbeheerder heeft het recht het openbaar domein&nbsp;en de gemeentewegen te gebruiken voor de aanleg en het onderhoud van leidingen boven of onder het openbaar domein, de gemeentewegen, en de bijbehorende uitrustingen als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
 <br>
-§ 2. In afwijking van de procedure, vermeld in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf 1, zowel een domeintoelating als een stedenbouwkundige vergunning nodig is, de aanvraag van een domeintoelating samengevoegd met de aanvraag van een stedenbouwkundige vergunning. Beide aanvragen worden samen ingediend bij het vergunningverlenende bestuursorgaan.<br>
+§ 2. In afwijking van de procedure, vermeld in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf 1, zowel een domeintoelating als een omgevingsvergunning voor stedenbouwkundige handelingen nodig is, de aanvraag van een domeintoelating samengevoegd met de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen. Beide aanvragen worden samen ingediend bij het vergunningverlenende bestuursorgaan.<br>
 <br>
 Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke domeinbeheerder&nbsp;van de gemeentewegen of elke domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de werkzaamheden gepland zijn, om een domeintoelating als vermeld in paragraaf 1, te verlenen of af te wijzen. De domeinbeheerders op wie het verzoek betrekking heeft, brengen het vergunningverlenende bestuursorgaan op de hoogte van hun beslissing en ze houden daarbij rekening met de volgende regelingen:<br>
 1° als de vergunningsaanvraag onderworpen is aan een openbaar onderzoek als vermeld in de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wordt het vergunningverlenende bestuursorgaan op de hoogte gebracht van de beslissing binnen een termijn van dertig dagen, die ingaat op de dag nadat het openbaar onderzoek is afgesloten;<br>
@@ -2341,7 +2406,7 @@ Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvang
 <br>
 Als de domeinbeheerder binnen de termijn, vermeld in het tweede lid, geen beslissing neemt, wordt de aanvraag van de domeintoelating geacht te zijn toegestaan.<br>
 <br>
-Het vergunningverlenende bestuursorgaan brengt de aanvrager op de hoogte van de beslissingen over het verlenen van de domeintoelatingen en de stedenbouwkundige vergunning met een aangetekende brief of met een andere beveiligde zending als vermeld in artikel 1.1.2, 3°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+Het vergunningverlenende bestuursorgaan brengt de aanvrager op de hoogte van de beslissingen over het verlenen van de domeintoelatingen en de omgevingsvergunning voor stedenbouwkundige handelingen met een aangetekende brief of met een andere beveiligde zending als vermeld in artikel 1.1.2, 3°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
 <br>
 § 3. De Vlaamse Regering kan nadere regels bepalen voor de na te leven voorwaarden, de dossiersamenstelling en de te volgen procedure.
 
@@ -2438,11 +2503,11 @@ De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de
 
 ### ART 5.1.3.
 
-§ 1. Onverminderd de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, onderneemt de netbeheerder of beheerder van het transmissienet met toepassing van dit hoofdstuk voor de uitbetaling van groenestroomcertificaten, warmtekrachtkoppelingscertificaten, vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet de volgende handelingen:<br>
+§ 1. Onverminderd de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, onderneemt de netbeheerder of transmissienetbeheerder met toepassing van dit hoofdstuk voor de uitbetaling van groenestroomcertificaten, warmtekrachtkoppelingscertificaten, vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet de volgende handelingen:<br>
 1° als een vermoeden bestaat dat er energiefraude als vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet wordt gepleegd, wordt de uitbetaling tijdelijk opgeschort totdat vastgesteld is of er al dan niet energiefraude is gepleegd;<br>
 2° als vaststaat dat er energiefraude als vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, wordt gepleegd of is gepleegd, wordt de uitbetaling definitief stopgezet en wordt de steun teruggevorderd die onterecht is uitgekeerd.<br>
 <br>
-De kosten die de netbeheerder of beheerder van het transmissienet heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering, van het onrechtmatig verkregen voordeel en de intresten zijn ten laste van de betreffende netgebruiker. De netbeheerder of zijn gemandateerde zal deze kosten, en ook het onrechtmatig verkregen voordeel en de interesten, rechtstreeks invorderen bij de netgebruiker.<br>
+De kosten die de netbeheerder of transmissienetbeheerder heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering, van het onrechtmatig verkregen voordeel en de intresten zijn ten laste van de betreffende netgebruiker. De netbeheerder of zijn gemandateerde zal deze kosten, en ook het onrechtmatig verkregen voordeel en de interesten, rechtstreeks invorderen bij de netgebruiker.<br>
 <br>
 De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.<br>
 <br>
@@ -2577,7 +2642,7 @@ Het aantal groenestroomcertificaten dat wordt toegekend voor elke 1 000 kWh elek
 <br>
 De Vlaamse Regering kan de toekenning van groenestroomcertificaten ook beperken op basis van het aantal vollasturen die gehanteerd worden in de berekeningsmethodiek van de onrendabele top voor die hernieuwbare energietechnologie. De Vlaamse Regering kan daarnaast voor nieuwe installaties en verlengingsaanvragen met betrekking tot de periodes, vermeld in artikel 7.1.1, § 1, vierde en vijfde lid, van bestaande installaties het aantal groenestroomcertificaten begrenzen tot een bepaalde hoeveelheid groenestroomcertificaten.<br>
 <br>
-Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 5 MW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt.<br>
+Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 tot en met 31 december 2022 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 5 MW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt.<br>
 <br>
 § 3. De Vlaamse Regering kan, in afwijking van § 2, derde lid, bepalen dat aan installaties waaraan groenestroomcertificaten werden toegekend, na afloop van de periode waarin de installatie voor steun in aanmerking komt op grond van § 2, derde lid, extra groenestroomcertificaten worden toegekend. Installaties die als brandstof gebruikmaken van biomassa komen echter niet in aanmerking voor een dergelijke verlenging.<br>
 <br>
@@ -2807,7 +2872,7 @@ Vanaf het jaar 2015 verrekenen de netbeheerders, met uitzondering van de netbehe
 
 ### ART. 7.1.10.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of beheerder van het transmissienet, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 30 april&nbsp;van het jaar n, bij de VREG het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
+<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 30 april&nbsp;van het jaar n, bij de VREG het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
 
 <p>§ 2. Het aantal groenestroomcertificaten dat in een bepaald jaar n moet worden ingediend, wordt tot en met 31 maart 2012 vastgesteld met de formule :<br>
 C = G x Ev, waarbij :<br>
@@ -2823,12 +2888,12 @@ G gelijk is aan :<br>
 8° 0,0525 als het jaar n gelijk is aan 2010;<br>
 9° 0,0600 als het jaar n gelijk is aan 2011;<br>
 10° 0,0700 als het jaar n gelijk is aan 2012;<br>
-Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of beheerder van het transmissienet. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder.<br>
+Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of transmissienetbeheerder. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder.<br>
 <br>
 Het aantal groenestroomcertificaten dat in een bepaald jaar n moet worden ingediend, wordt vanaf 31 maart 2013 vastgesteld met de formule :<br>
 C = Gr x Ev, waarbij :<br>
 C gelijk is aan het aantal in het jaar in te dienen groenestroomcertificaten door een bepaalde toegangshouder;<br>
-Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of beheerder van het transmissienet. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder;<br>
+Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of transmissienetbeheerder. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder;<br>
 Gr gelijk is aan :<br>
 1° 0,14 in 2013;<br>
 2° 0,155 in 2014;<br>
@@ -2838,10 +2903,13 @@ Gr gelijk is aan :<br>
 6° 0,205 in 2018;<br>
 7° 0,215 in 2019 tot 2023;<br>
 8° 0,18 in 2024;<br>
-9° 0,17 in 2025;<br>
-10° 0,16 in 2026;<br>
-11° 0,15 in 2027;<br>
-12° 0,14 in 2028 en daarna.<br>
+9° 0,11 in 2025;<br>
+10° 0,11 in 2026;<br>
+11° 0,11 in 2027;<br>
+12° 0,11 in 2028;<br>
+13° 0,10 in 2029;<br>
+14° 0,09 in 2030;<br>
+15° 0,08 in 2031 en daarna.<br>
 <br>
 Wanneer een bandingfactor wordt vastgelegd voor een installatie voor de productie van groene stroom met een nominaal elektrisch vermogen van meer dan 20 MW, wordt het aantal in te dienen groenestroomcertificaten geëvalueerd en eventueel verhoogd door de Vlaamse Regering.<br>
 <br>
@@ -2881,7 +2949,7 @@ Indien de Vlaamse Regering certificaten aanvaardt voor groene stroom die niet is
 
 ### ART. 7.1.11.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of beheerder van het transmissienet, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 30 april van het jaar n, bij de VREG het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
+<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 30 april van het jaar n, bij de VREG het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
 <br>
 § 2. Het aantal warmte-krachtcertificaten dat in een bepaald jaar n moet worden ingediend, wordt vastgesteld met de formule :<br>
 <br>
@@ -2901,10 +2969,10 @@ Cw gelijk is aan het aantal in het jaar n in te dienen warmte-krachtcertificaten
 11° 0,112 als het jaar n gelijk is aan 2016;<br>
 12° 0,112 als het jaar n gelijk is aan 2017;<br>
 13° 0,112 als het jaar n gelijk is aan 2018;<br>
-14° 0,112 als het jaar n gelijk is aan 2019 tot en met 2025;<br>
-15° 0,129 als het jaar n gelijk is aan 2026 tot en met 2031; 16° 0,112 als het jaar n gelijk is aan 2032 en daarna.<br>
+14° 0,112 als het jaar n gelijk is aan 2019 tot en met 2024;<br>
+15° 0,14 als het jaar n gelijk is aan 2025 tot en met 2031<br>
 <br>
-Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of beheerder van het transmissienet. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder.<br>
+Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of transmissienetbeheerder. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder.<br>
 <br>
 Wanneer een bandingfactor wordt vastgelegd voor een warmte-krachtinstallatie met een nominaal elektrisch vermogen van meer dan 50 MW, wordt het aantal in te dienen warmte-krachtcertificaten geëvalueerd en eventueel verhoogd door de Vlaamse Regering.<br>
 <br>
@@ -3129,7 +3197,10 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 
 De Vlaamse Regering kan, na advies van de VREG, de leveranciers, de transmissienetbeheerder, de beheerder van het vervoersnet en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
 <br>
-In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.
+In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.&nbsp;De voormelde gegevens omvatten minstens:<br>
+1° de identificatie- en contactgegevens van afnemers;<br>
+2° de EAN-code;<br>
+3° de categorie van afnemer.
 
 ### ART 7.5.2.
 
@@ -3188,15 +3259,17 @@ De verplichting, vermeld in het eerste lid, is dan van toepassing op de eigenaar
 <br>
 In afwijking van het tweede lid is de verplichting, vermeld in het eerste lid, van toepassing op gebouwen van publieke organisaties met op jaarbasis een afgenomen brutohoeveelheid elektriciteit met een drempelwaarde van minimaal 500 MWh. Tussen 1 januari 2023 en 31 december 2025 kan de Vlaamse Regering deze drempel waarde verlagen naar minimaal 250 MWh. Vanaf 1 januari 2026 geldt een drempel waarde van minimaal 100 MWh.<br>
 <br>
-De Vlaamse Regering kan hierbij bepalen dat de verplichting, vermeld in het eerste lid, niet van toepassing is als het gemiddelde elektriciteitsverbruik van de drie voorafgaande kalenderjaren meer dan 10 procent lager is dan de verbruiken, vermeld in het tweede en derde lid.<br>
+De Vlaamse Regering kan hierbij bepalen dat de verplichting, vermeld in het eerste lid, niet van toepassing is als het gemiddelde elektriciteitsverbruik van de drie voorafgaande kalenderjaren meer dan 10 procent lager is dan de verbruiken, vermeld in het tweede en derde lid.&nbsp;De Vlaamse Regering kan in afwijking hiervan bepalen dat de verplichting, vermeld in het eerste lid en tweede lid, van toepassing blijft als er in minstens een van de voorgaande drie kalenderjaren op het afnamepunt geen elektriciteitsverbruik is.<br>
 &nbsp;<br>
-De Vlaamse Regering kan de voorwaarden bepalen waaronder andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject ook in aanmerking worden genomen voor het voldoen aan de verplichting, vermeld in het eerste lid.<br>
+De Vlaamse Regering kan de voorwaarden bepalen waaronder fotovoltaïsche zonnepanelen niet in dienst genomen op de dakoppervlakte, andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject ook in aanmerking worden genomen voor het voldoen aan de verplichting, vermeld in het eerste lid.<br>
 <br>
-De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen die zullen worden gesloopt of waarvan het dak zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het uitstel kan nooit meer bedragen dan vijf jaar vanaf het ingaan van het uitstel dat aan de aanvrager is toegekend. Het voormelde uitstel vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen.<br>
+De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen, of delen van gebouwen, die zullen worden gesloopt of waarvan het dak, of een deel van het dak, zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het uitstel kan nooit meer bedragen dan vijf jaar vanaf het ingaan van het uitstel dat aan de aanvrager is toegekend. Het voormelde uitstel vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen, voor zover een omgevingsvergunning voor sloop is vereist, of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen. Het voormelde uitstel vervalt ook als binnen vijf jaar na het ingaan van het uitstel dat aan de aanvrager is toegekend, het gebouw niet is gesloopt of het dak niet is vervangen.<br>
+<br>
+Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunning voor sloop, vermeld in het zesde lid, schorst de termijnen, vermeld in het zesde lid, tweede, derde en vierde zin, voor zover een omgevingsvergunning voor sloop vereist is.<br>
 <br>
 §2. De Vlaamse Regering kan aan de eigenaar, erfpachter of opstalhouder van een gebouw als vermeld in paragraaf 1 een meldingsplicht opleggen met betrekking tot de dakoppervlakte, de elektriciteitsafname, de geïnstalleerde en operationele fotovoltaïsche zonnepanelen en andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject als vermeld in paragraaf 1, vijfde lid.<br>
 <br>
-§3. De Vlaamse Regering kan aan de netbeheerders, de beheerder van het transmissienet, de beheerders van een gesloten distributienet, en de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet, een meldingsplicht opleggen met betrekking tot de elektriciteitsafname en het bij hen aangemelde piekvermogen van geïnstalleerde en operationele fotovoltaïsche zonnepanelen met betrekking tot de EAN-codes van de gebouwen, vermeld in paragraaf 1, en het nominaal vermogen van andere vormen van hernieuwbare energie, vermeld in paragraaf 1, vijfde lid, alsook wat betreft de identificatie van de daarbij horende afnemers.<br>
+§3. De Vlaamse Regering kan aan de netbeheerders, de transmissienetbeheerder, de beheerders van een gesloten distributienet, en de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet, een meldingsplicht opleggen met betrekking tot de elektriciteitsafname en het bij hen aangemelde piekvermogen van geïnstalleerde en operationele fotovoltaïsche zonnepanelen met betrekking tot de EAN-codes van de gebouwen, vermeld in paragraaf 1, en het nominaal vermogen van andere vormen van hernieuwbare energie, vermeld in paragraaf 1, vijfde lid, alsook wat betreft de identificatie van de daarbij horende afnemers.<br>
 <br>
 §4. De Vlaamse Regering kan aan de afnemers met op jaarbasis een afgenomen brutohoeveelheid elektriciteit die de drempels, vermeld in paragraaf 1, overschrijdt, een meldingsplicht opleggen met betrekking tot de identificatie van de eigenaar, erfpachter of opstalhouder van een gebouw, de dakoppervlakte, de elektriciteitsafname, en de geïnstalleerde en operationele fotovoltaïsche zonnepanelen, en andere vormen van hernieuwbare energie of participatie in een hernieuwbare- energieproject, vermeld in paragraaf 1, vijfde lid.<br>
 <br>
@@ -3217,7 +3290,9 @@ De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verpli
 De Vlaamse Regering kan aan de openbare centra voor maatschappelijk welzijn rechtstreeks of onrechtstreeks taken opdragen ter stimulering van:<br>
 1° de toepassing van energiezuinige producten, technieken en systemen;<br>
 2° een rationeel energiebeheer;<br>
-3° de toepassing van hernieuwbare energietechnologieën.
+3° de toepassing van hernieuwbare energietechnologieën.<br>
+<br>
+De taken ter stimulering van een rationeel energiebeheer kunnen de vorm aannemen van toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen. In dat geval beschikt het openbaar centrum voor maatschappelijk welzijn die de steun heeft toegekend voor de energetische renovatie van een noodkoopwoning, over een recht van voorkoop op die woning gedurende de duur van de leningsovereenkomst. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
 
 ## TITEL VIII. TEGEMOETKOMINGEN TER BEVORDERING VAN HET RATIONEEL ENERGIEGEBRUIK, HET RATIONEEL ENERGIEBEHEER, HET GEBRUIK VAN HERNIEUWBARE ENERGIEBRONNEN [... (geschr. Decr. 14 februari 2014, art. 36, I: 6 mei 2014)]
 
@@ -3387,7 +3462,7 @@ De Vlaamse Regering beperkt de tegemoetkomingen in elk individueel geval dusdani
 
 ### ART 8.8.1.
 
-De Vlaamse Regering kan voor de toekenning van tegemoetkomingen als vermeld in deze titel, persoonsgegevens van natuurlijke personen opvragen die verband houden met de voorwaarden die de Vlaamse Regering krachtens dit decreet vaststelt en die noodzakelijk zijn om de tegemoetkoming toe te kennen aan de aanvrager. Met behoud van de toepassing van artikel 12.6.1, §3, omvat dit minstens identiteitsgegevens van de aanvrager, adresgegevens, het rekeningnummer waarop de premie wordt uitbetaald en andere gegevens die noodzakelijk zijn om aan de inhoudelijke premievoorwaarden te voldoen.<br>
+De Vlaamse Regering kan voor de toekenning van tegemoetkomingen als vermeld in deze titel of groenestroomcertificaten en warmte-krachtcertificaten als vermeld in titel VII, persoonsgegevens van natuurlijke personen opvragen die verband houden met de voorwaarden die de Vlaamse Regering krachtens dit decreet vaststelt en die noodzakelijk zijn om de tegemoetkoming of certificaten toe te kennen aan de aanvrager. Met behoud van de toepassing van artikel 12.6.1, §3, omvat dit minstens identiteitsgegevens van de aanvrager, adresgegevens, het rekeningnummer waarop de premie wordt uitbetaald en andere gegevens die noodzakelijk zijn om aan de inhoudelijke voorwaarden te voldoen.<br>
 <br>
 De Vlaamse Regering kan de medewerking van de diensten van de Vlaamse overheid, van de distributienetbeheerder of zijn werkmaatschappij of van de energiehuizen opleggen voor taken krachtens dit decreet voor de verwerking van de persoonsgegevens, vermeld in het eerste lid.<br>
 <br>
@@ -3422,7 +3497,7 @@ Onverminderd het eerste lid voldoet elk energiehuis om als kredietbemiddelaar of
 
 <p>§1. In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 1°, van dit decreet, kunnen de energiehuizen de volgende persoonsgegevens of categorieën van persoonsgegevens opvragen en verwerken:<br>
 1° &nbsp; de volgende gegevens over de kredietnemer:<br>
-a)&nbsp;&nbsp; &nbsp;het huidige adres en de contactgegevens;<br>
+a)&nbsp;&nbsp; &nbsp;het huidige adres en de vorige adressen en de contactgegevens;<br>
 b)&nbsp;&nbsp; &nbsp;de gezinssamenstelling, de personen ten laste en de personen die samenwonen met de kredietnemer;<br>
 c)&nbsp;&nbsp; &nbsp;de handicap van de persoon van de kredietnemer, of van de personen die samenwonen met de kredietnemer;<br>
 d)&nbsp;&nbsp; &nbsp;de burgerlijke staat;<br>
@@ -3475,7 +3550,21 @@ De Vlaamse Regering kan bepalen voor welk type lening die persoonsgegevens aan W
 <br>
 Voor de verdere verwerking van de persoonsgegevens, vermeld in het eerste lid, in het kader van de controle op de naleving van de leningsvoorwaarden die de Vlaamse Regering krachtens de Vlaamse Codex Wonen van 2021 vaststelt, is Wonen-Vlaanderen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
 &nbsp;<br>
-De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de energiehuizen en Wonen-Vlaanderen.</p>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de energiehuizen en Wonen-Vlaanderen.<br>
+<br>
+§4. In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 2°, 3° en 4°, kunnen de energiehuizen van hun klanten in hun werkingsgebied de volgende persoonsgegevens of categorieën van persoonsgegevens opvragen en verwerken:<br>
+1° &nbsp;&nbsp; &nbsp;de gegevens over een aansluiting op het elektriciteitsdistributienet met toepassing van het uitsluitend nachttarief;<br>
+2° &nbsp;&nbsp; &nbsp;de gegevens over toegekende premies voor werkzaamheden aan gebouwen of voor energieopwekkingsinstallaties, namelijk de categorieën van werkzaamheden waarvoor de premie is toegekend;<br>
+3° &nbsp; de EAN-code en de gebouweenheids-ID van de woning;<br>
+4° &nbsp;&nbsp; &nbsp;de gegevens over het energieverbruik op maandbasis van hun woning gedurende de laatste vijf jaar;<br>
+5° &nbsp; de gegevens over het behoren tot een van de volgende doelgroepen:<br>
+a)&nbsp;&nbsp; &nbsp;beschermde klant;<br>
+b)&nbsp;&nbsp; &nbsp;budgetmeter;<br>
+c)&nbsp;&nbsp; &nbsp;advies van de lokale adviescommissie over afsluiting of heraansluiting van elektriciteit, aardgas of water.<br>
+<br>
+Voor de verwerking van de persoonsgegevens, vermeld in het eerste lid, zijn de energiehuizen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De gegevens, vermeld in het eerste lid, 1°, 2° en 5°, worden gedurende een periode van vijf jaar bewaard. De gegevens, vermeld in het eerste lid, 3° en 4°, worden gedurende een periode van vijftien jaar bewaard. Na de voormelde periode van vijftien jaar worden de persoonsgegevens geanonimiseerd.</p>
 
 ## TITEL X. [ERKENNING VAN ENERGIEDESKUNDIGEN, VERSLAGGEVERS EN OPLEIDINGSINSTELLINGEN EN DE CERTIFICERING VAN AANNEMERS (verv. decr. 14 maart 2014, art. 4, I: 28 maart 2014)]
 
@@ -3743,7 +3832,7 @@ De Vlaamse Regering kan voor bepaalde gebouwen die voldoen aan de voorwaarden, v
 
 Het is verboden om een stookolieketel te plaatsen in zowel residentiële als niet-residentiële gebouwen waarvoor de omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot nieuwbouw of de ingrijpende energetische renovatie wordt aangevraagd vanaf 1 januari 2022.<br>
 <br>
-Met behoud van de toepassing van het eerste lid mag bij bestaande residentiële gebouwen en bij niet-residentiële gebouwen vanaf 1 januari 2022 alleen nog een stookolieketel of een ketellichaam worden vervangen door een andere stookolieketel of een ander ketellichaam, of een andere verwarmingstechnologie dan een stookolieketel worden vervangen door een stookolieketel, als er geen aardgasnet in de straat beschikbaar is.
+Met behoud van de toepassing van het eerste lid mag bij bestaande residentiële gebouwen en bij niet-residentiële gebouwen vanaf 1 januari 2022 alleen nog een stookolieketel of een ketellichaam worden vervangen door een andere stookolieketel of een ander ketellichaam, of een andere verwarmingstechnologie dan een stookolieketel worden vervangen door een stookolieketel, als er ter hoogte van het gebouw geen aardgasnet in de straat beschikbaar is of als het gebouw niet door een onderboring op de aardgasleiding aan de overkant van de straat kan worden aangesloten.
 
 ### ART 11.1/1.4.
 
@@ -3806,7 +3895,7 @@ De betrokkenen bij de verwerking van de persoonsgegevens, vermeld in het eerste 
 2° de bewoner of gebruiker van het gebouw;<br>
 3° de energiedeskundige of verslaggever.<br>
 <br>
-§ 3. De gegevens in de energieprestatiecertificatendatabank zijn enkel toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente en de instrumenterende ambtenaar. De energiedeskundige en de eigenaar van een gebouw waarvoor een energieprestatiecertificaat is opgesteld hebben alleen toegang tot de gegevens van hun eigen dossiers. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiecertificatendatabank. Teneinde hun informerende rol ten volle te kunnen spelen om bij te dragen aan de verbetering van de energiezuinigheid van de woningen hebben kredietgevers in het kader van een kredietaanvraag met onroerende bestemming of voor energiebesparende renovaties, toegang tot de gegevens uit de energieprestatiecertificatendatabank van het gebouw waarop de kredietaanvraag slaat. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
+§ 3. De gegevens in de energieprestatiecertificatendatabank zijn enkel toegankelijk voor de diensten van de Vlaamse overheid, het betrokken energiehuis, de betrokken gemeente en de instrumenterende ambtenaar. De energiedeskundige en de eigenaar van een gebouw waarvoor een energieprestatiecertificaat is opgesteld hebben alleen toegang tot de gegevens van hun eigen dossiers. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiecertificatendatabank. Teneinde hun informerende rol ten volle te kunnen spelen om bij te dragen aan de verbetering van de energiezuinigheid van de woningen hebben kredietgevers in het kader van een kredietaanvraag met onroerende bestemming of voor energiebesparende renovaties, toegang tot de gegevens uit de energieprestatiecertificatendatabank van het gebouw waarop de kredietaanvraag slaat. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
 <br>
 In afwijking van het eerste lid kan het VEKA in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiecertificatendatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
@@ -3833,6 +3922,8 @@ In geval een rechtspersoon wordt gesplitst of indien een rechtspersoon fusioneer
 Als er in het kader van echtscheiding of de beëindiging van een al dan niet wettelijke samenwoning een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van het residentieel gebouw en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.<br>
 <br>
 Als een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van één residentieel gebouw in kwestie, en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.<br>
+<br>
+De verplichting, vermeld in het eerste lid, is niet van toepassing op authentieke akten met een declaratieve werking.<br>
 <br>
 § 2. Iedereen die een residentieel gebouw of een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt of overdraagt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
 <br>
@@ -3956,11 +4047,11 @@ De databank heeft de volgende doelstellingen:<br>
 8° het volgen en handhaven van verplichtingen die aan installateurs, gebouweigenaars, huurders en houders van een zakelijk recht worden opgelegd voor de verwarmingsinstallaties in het gebouw;<br>
 8°/1 het volgen en handhaven van verplichtingen die aan afnemers, gebouweigenaars, erfpachters of opstalhouders worden opgelegd door of krachtens artikel 7.7.3;<br>
 9° energiefraude opsporen en detecteren;<br>
-10° de evolutie van hernieuwbaar en niet-hernieuwbaar energiegebruik van het niet-residentiële gebouwenpark volgen;<br>
-11° de evolutie van hernieuwbare energieproductie van het niet-residentiële gebouwenpark volgen;<br>
-12° gegevens ter beschikking stellen voor het opmaken van een energieprestatiecertificaat voor niet-residentiële gebouwen;<br>
-13° de renovatieverplichting die aan gebouweigenaars, erfpachters of opstalhouders van niet-residentiële gebouwen wordt opgelegd, volgen en handhaven;<br>
-14° de minimale eis voor het energieprestatielabel die aan gebouweigenaars, erfpachters of opstalhouders van niet-residentiële gebouwen wordt opgelegd, bijsturen.<br>
+10° de evolutie van hernieuwbaar en niet-hernieuwbaar energiegebruik van het residentiële en niet-residentiële gebouwenpark volgen;<br>
+11° de evolutie van hernieuwbare energieproductie van het residentiële en niet-residentiële gebouwenpark volgen;<br>
+12° gegevens ter beschikking stellen voor het opmaken van een energieprestatiecertificaat voor residentiële en niet-residentiële gebouwen;<br>
+13° de renovatieverplichting die aan gebouweigenaars, erfpachters of opstalhouders van residentiële en niet-residentiële gebouwen wordt opgelegd, volgen en handhaven;<br>
+14° de minimale eis voor het energieprestatielabel die aan gebouweigenaars, erfpachters of opstalhouders van residentiële en niet-residentiële gebouwen wordt opgelegd, bijsturen.<br>
 <br>
 § 2. De gegevens in de databank voor energiegebruik en energieproductie zijn alleen toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente, de gebouweigenaar en de betrokken houder van een zakelijk recht. Elke houder van een zakelijk recht kan een derde machtigen om de gegevens in de databank te raadplegen en aan te vullen.<br>
 <br>
@@ -4120,7 +4211,7 @@ Een marktpartij, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warm
 <br>
 § 2. De personeelsleden van de VREG zijn bevoegd om toezicht uit te oefenen op de naleving van titels IV, IV/1, V, VI en hoofdstuk II tot en met IV van titel VII van dit decreet en de uitvoeringsbepalingen ervan en de niet-naleving hiervan vast te stellen in een proces-verbaal.<br>
 <br>
-Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de VREG bij iedere marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren,&nbsp;warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
+Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de VREG bij iedere marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren,&nbsp;warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
 2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br>
 <br>
@@ -4418,7 +4509,7 @@ Als deze persoon bij het verstrijken van de termijn, vermeld in het eerste lid i
 
 ### ART. 13.4.6.
 
-Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1, niet werden gerespecteerd, legt het VEKA, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br>
+§1. Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1, niet werden gerespecteerd, legt het VEKA, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br>
 1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in 1.1.1 en 1.1.2 van de bijlage bij dit decreet;<br>
 2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in 1.2 van de bijlage bij dit decreet;<br>
 3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in 1.3 van de bijlage bij dit decreet;<br>
@@ -4435,7 +4526,8 @@ Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1,
 14° 1,75 euro per afwijking van 1 W op het maximaal equivalente specifiek geïnstalleerd vermogen van verlichtingssystemen, bepaald op de wijze, vermeld in punt 1.7.8 van de bijlage bij dit decreet;<br>
 15° 2,5 euro per afwijking van 1 m<sup>2</sup>&nbsp;op de eis betreffende de energieverbruiksmeters, bepaald op de wijze, vermeld in punt 1.7.9 van de bijlage bij dit decreet;<br>
 16° 100 euro per afwijking van 1 m<sup>2</sup>&nbsp;op de systeemfactor van systemen van externe warmtelevering en systemen met andere opwekkers (andere dan ketels op gasvormige en vloeibare brandstof, elektrische bodem/water warmtepompen, elektrische water/water warmtepompen, elektrische lucht/water warmtepompen, elektrische lucht/lucht warmtepompen en systemen van externe warmtelevering), bepaald op de wijze, vermeld in punt 1.7.10 van de bijlage bij dit decreet;<br>
-17° 1,5 euro per afwijking van 1 kWh op vlak van het S-peil, bepaald conform punt 1.8 van de bijlage bij dit decreet.<br>
+17° 1,5 euro per afwijking van 1 kWh op vlak van het S-peil, bepaald conform punt 1.8 van de bijlage bij dit decreet;<br>
+18° 100 euro per afwijking van 1 m<sup>2</sup> op het installatierendement van opwekkers voor centrale verwarming, bepaald op de wijze, vermeld in punt 1.7.11 van de bijlage bij dit decreet, en afgetopt op 25 euro per m<sup>2</sup> brutovloeroppervlakte.<br>
 <br>
 Het VEKA vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br>
 <br>
@@ -4469,7 +4561,8 @@ De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume en 1
 21° 10 euro per afwijking van 1 m<sup>2</sup>&nbsp;voor elke eis voor technische installaties die niet gerapporteerd is, met een maximum van 1000 euro per eis voor technische installaties, bepaald op de wijze, vermeld in punt 2.10 van de bijlage bij dit decreet;<br>
 22° 50 euro per afwijking van 1 m voor een circulatieleiding of combilus die niet gerapporteerd is, met een maximum van 1000 euro, bepaald op de wijze, vermeld in punt 2.11 van de bijlage bij dit decreet;<br>
 23° 1,5 euro per afwijking van 1 kWh op vlak van het S-peil, bepaald conform punt 2.12 van de bijlage bij dit decreet;<br>
-24° 150 euro per niet-gerapporteerde ruimte waarvoor ventilatie-eisen gelden.<br>
+24° 150 euro per niet-gerapporteerde ruimte waarvoor ventilatie-eisen gelden;<br>
+25° 100 euro per afwijking van 1 m<sup>2</sup> op het installatierendement van opwekkers voor centrale verwarming, bepaald op de wijze, vermeld in punt 2.7.11 van de bijlage bij dit decreet, en afgetopt op 25 euro per m<sup>2</sup>&nbsp; brutovloeroppervlakte.<br>
 <br>
 Een in de EPB-aangifte vergeten schildeel kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3°, 5° en 21°.<br>
 <br>
@@ -4503,7 +4596,7 @@ Als het VEKA vaststelt dat de indeling van het bouwproject in EPB-eenheden in de
 <br>
 De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor het herindienen van de EPB-aangifte zijn volledig ten laste van de verslaggever.<br>
 <br>
-&nbsp;§ 5. Als een overtreding van de verplichting, vermeld in paragraaf 3, eerste lid, of in paragraaf 4, eerste en tweede lid, wordt vastgesteld, maant het VEKA de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het VEKA een administratieve geldboete van 500 euro op. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd.<br>
+&nbsp;§ 5. Als een overtreding van de verplichting, vermeld in paragraaf 3, eerste lid, of in paragraaf 4, eerste en tweede lid, wordt vastgesteld, maant het VEKA de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het VEKA een administratieve geldboete van 500 euro op voor elke nieuwe EPB-aangifte die niet of te laat is ingediend. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd.<br>
 <br>
 Als de verslaggever bij het verstrijken van de termijn, vermeld in het&nbsp;eerste lid, in fine,&nbsp;in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.</p>
 
@@ -4581,7 +4674,11 @@ De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 <br>
 Het VEKA verplicht de energiedeskundige om binnen de dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Indien het gebouw wordt verhuurd, dan bezorgt de eigenaar tevens een kopie van het nieuwe energieprestatiecertificaat aan de huurder.&nbsp;De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br>
 <br>
-Als een overtreding van het tweede lid wordt vastgesteld, maant het VEKA de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige bij het verstrijken van die termijn in gebreke blijft, legt het VEKA de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de vastgelegde termijn wordt overschreden.<br>
+§1/0. Als het VEKA vaststelt dat het energieprestatiecertificaat niet in overeenstemming is met de werkelijkheid of met de gemaakte controlevaststellingen, verplicht het VEKA de energiedeskundige om binnen dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Als het voormelde gebouw wordt verhuurd, bezorgt de eigenaar ook een kopie van het nieuwe energieprestatiecertificaat aan de huurder. De kosten voor de opmaak van het energieprestatiecertificaat zijn volledig ten laste van de energiedeskundige.<br>
+<br>
+§1/0/1. Als een overtreding van de verplichting, vermeld in paragraaf 1, tweede lid, of paragraaf 1/0, wordt vastgesteld, maant het VEKA de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige in gebreke blijft als de voormelde termijn is verstreken, legt het VEKA een administratieve geldboete van 500 euro op. Het VEKA legt ook een nieuwe termijn vast waarin de verplichting, vermeld in paragraaf 1, tweede lid, of paragraaf 1/0, moet worden nageleefd.<br>
+<br>
+Als de energiedeskundige in gebreke blijft als de termijn, vermeld in het eerste lid, in fine, is verstreken, legt het VEKA de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, in fine, wordt overschreden.<br>
 <br>
 § 1/1. Als het VEKA vaststelt dat een geschorste energiedeskundige in strijd met de schorsingsvoorwaarden toch actief optreedt als energiedeskundige, legt het VEKA hem een boete op van 500 euro per ingediend energieprestatiecertificaat.<br>
 <br>
@@ -4601,11 +4698,21 @@ In afwijking van het eerste lid legt het VEKA een administratieve geldboete op a
 <br>
 Die administratieve geldboete kan voor de eigenaar of gebruiker niet worden gecumuleerd met de sanctie, vermeld in paragraaf 2 of 3.<br>
 <br>
+§3/1/1. Als zou blijken dat de eigenaar, de houder van een zakelijk recht of de gebruiker van een gebouw dat krachtens artikel 11.2.1, §1, vierde lid, een<br>
+&nbsp;<br>
+minimaal energieprestatielabel moet behalen, niet over een geldig energieprestatiecertificaat met het vereiste energielabel beschikt, legt het VEKA een administratieve geldboete op die niet lager dan 500 euro, en niet hoger dan 200.000 euro is, op voorwaarde dat de eigenaar of gebruiker is gehoord of naar behoren is opgeroepen.<br>
+<br>
+Het VEKA legt ook een nieuwe termijn vast waarin de voormelde eigenaar of gebruiker alsnog over een geldig energieprestatiecertificaat met het vereiste energielabel moet beschikken.<br>
+<br>
+Als de natuurlijke persoon of de rechtspersoon nog altijd in gebreke blijft als de termijn, vermeld in het tweede lid, is verstreken, kan het VEKA hem of haar een nieuwe administratieve geldboete opleggen als vermeld in het eerste lid. Het VEKA legt ook een nieuwe termijn vast waarin de verplichting, vermeld in het eerste lid, alsnog moet worden nageleefd. De voormelde procedure wordt herhaald tot aan de op grond van artikel 11.2.1, §1, vierde lid, vastgestelde verplichting is voldaan.<br>
+<br>
+Die administratieve geldboete kan niet worden gecumuleerd met de sancties, vermeld in paragraaf 2 of artikel 13.4.9/1.<br>
+<br>
 § 3/2. Indien blijkt dat de instrumenterende ambtenaar of een derde de hem op grond van artikel 11.2.2, § 3, opgelegde verplichtingen niet heeft nageleefd, en de betrokkene werd gehoord of naar behoren opgeroepen, dan kan het VEKA hem een administratieve geldboete opleggen die niet lager is dan 250 euro en niet hoger dan 5000 euro.<br>
 <br>
 § 4. De procedure in artikel 13.4.8 is van overeenkomstige toepassing.
 
-## [Afdeling V. Procedure en administratieve geldboete bij niet-naleving van verplichtingen in het kader van het netbeheer (ing. decr. 24 februari 2017, art. 24, I: 1 juni 2017)]
+## Afdeling V. Procedure en administratieve geldboete bij energiefraude
 
 ### ART 13.4.11.
 
@@ -4686,6 +4793,30 @@ Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting
 Als die onderneming, niet-commerciële instelling of publiekrechtelijke rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, nog steeds in gebreke blijft, kan het VEKA hem of haar een nieuwe administratieve geldboete opleggen als bedoeld in het eerste lid. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd. Deze procedure wordt herhaald tot aan de op grond van artikel 7.7.2 vastgestelde verplichting is voldaan.<br>
 <br>
 § 2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
+### ART 13.4.15.
+
+§1. Als het VEKA vaststelt dat niet is voldaan aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechts- persoon op wie de voormelde verplichting rust, een administratieve geldboete op van 400 euro per kilowattpiek vermogen dat ontbreekt op het moment dat aan de verplichting, vermeld in artikel 7.7.3, §1, moet zijn voldaan.<br>
+<br>
+Als de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, binnen twee jaar nadat de termijn is verstreken waarin de verplichting, vermeld in artikel 7.7.3, §1, moet worden uitgevoerd, niet voldoet aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, een nieuwe administratieve geldboete op als vermeld in het eerste lid. Het VEKA past ook een nieuwe termijn van twee jaar toe waarin de &nbsp; &nbsp;voormelde verplichting alsnog moet worden nageleefd. De voormelde procedure wordt herhaald tot de verplichting, vermeld in artikel 7.7.3, §1, is nagekomen.<br>
+<br>
+§2. Als het VEKA vaststelt dat de meldingen, vermeld in artikel 7.7.3, §2, §3 of §4, niet zijn uitgevoerd, maant het VEKA de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, aan om binnen een vastgestelde termijn de voormelde meldingsplicht na te leven.<br>
+<br>
+Als de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, in gebreke blijft als de termijn, vermeld in het eerste lid, is verstreken, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 100 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+&nbsp;<br>
+§3. Paragraaf 1 en 2 zijn niet van toepassing op natuurlijke of rechtspersonen die de bestaande exploitatie in de gebouwen verplicht stopzetten.<br>
+<br>
+§4. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
+## Afdeling IX. Administratieve sancties wegens niet-naleving van de verplichtingen inzake het publiek beschikbaar stellen van gegevens door publieke organisaties
+
+### ART 13.4.16.
+
+Als het VEKA vaststelt dat in strijd met artikel 12.3.2 de daarin vermelde gegevens niet of niet waarheidsgetrouw publiek beschikbaar zijn gesteld, kan het VEKA de publieke organisatie aanmanen om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+<br>
+Als de publieke organisatie in gebreke blijft als de termijn, vermeld in het eerste lid, is verstreken, kan het VEKA de publieke organisatie een administratieve geldboete opleggen die niet lager dan 250 euro en niet hoger dan 20.000 euro is. Het VEKA kan ook een nieuwe termijn vastleggen waarin de verplichtingen, vermeld in het eerste lid, moeten worden nageleefd.<br>
+<br>
+Als de publieke organisatie in gebreke blijft als de termijn, vermeld in het tweede lid, is verstreken, kan het VEKA de publieke organisatie een administratieve geldboete opleggen in de vorm van een dwangsom. De voormelde dwangsom bedraagt 25 euro per kalenderdag dat de termijn, vermeld in het tweede lid, wordt overschreden.
 
 ## HOOFDSTUK V. [Administratieve sancties opgelegd door de Vlaamse Belastingdienst (verv. decr. 23 december 2016, art. 8, I: 8 januari 2017)]
 
@@ -5010,7 +5141,7 @@ Groenestroomcertificaten en warmte-krachtcertificaten, afgeleverd voor 1 januari
 
 ### ART. 15.3.5/7.
 
-De elektriciteitsdistributienetbeheerders in wiens geografisch gebied op de datum van de inwerkingtreding van dit artikel al toegelaten directe lijnen als vermeld in artikel 4.5.1 liggen, zorgen ervoor dat die lijnen uiterlijk op 31 december 2018 uitgerust zijn met een meter die toelaat de hoeveelheid elektriciteit die in de directe lijn geïnjecteerd wordt, te meten voor de berekening van de heffing, vermeld in titel XIV, hoofdstuk III. De VREG bezorgt de elektriciteitsdistributienetbeheerders de nodige informatie om die installatie mogelijk te maken. De kost van deze meter en de plaatsing ervan is ten laste van de beheerder van de directe lijn.
+In afwijking van artikel 4.5.1, §2, zevende lid, vervalt de beslissing tot toelating van een directe lijn of een directe leiding die op grond van artikel 4.5.1, §2, is verleend voor de datum van de inwerkingtreding van dit artikel, vijf jaar na de datum van de inwerkingtreding van dit artikel, bij gebrek aan indienststelling van de directe lijn of directe leiding.
 
 ### ART. 15.3.5/8.
 
@@ -5089,6 +5220,10 @@ Als de Vlaamse Regering beslist om de schorsing van de geldigheidsduur van de st
 ### ART 15.3.5/23.
 
 In afwijking van artikel 4.1.30, § 4, kan de VREG eenmalig de tariefmethodologie en de elektriciteitsdistributietarieven met terugwerkende kracht aanpassen om te verhinderen dat aan prosumenten tweemaal elektriciteits- distributienettarieven worden aangerekend voor hetzelfde gebruik van het elektriciteitsdistributienet, zoals is ontstaan als gevolg van arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof.
+
+### ART 15.3.5/24.
+
+Aan netgebruikers die uiterlijk voor 1 januari 2025 een aansluiting bij de aardgasdistributienetbeheerder aanvragen voor een aansluitbare of niet-aansluitbare woning of wooneenheid als bedoeld in artikel 4.1.13 is de begrenzing van de aansluitingsprijs tot 250 euro, vermeld in artikel 4.1.13, enkel van toepassing als de netgebruiker die aansluiting binnen zes maanden na plaatsing van de aansluiting daadwerkelijk in gebruik neemt.
 
 ### ART. 15.3.6.
 
@@ -5573,7 +5708,15 @@ Als in de EPB-aangifte gerapporteerd is dat niet voldaan is aan de eis betreffen
 waarbij:<br>
 1° f<sub>sys,eis&nbsp;</sub>: de minimaal vereiste waarde van de systeemfactor, (-);<br>
 2° f<sub>sys,aangifte</sub>&nbsp;: de waarde van de systeemfactor die in de EPB-aangifte vermeld is, (-);<br>
-3° A<sub>sys,heat,net,aangifte</sub>&nbsp;: de netto vloeroppervlakte die in de EPB-aangifte vermeld is en die bediend wordt door de verwarmingsinstallatie, uitgedrukt in m<sup>2</sup>. Dit is de som van de vloeroppervlaktes in m<sup>2</sup>&nbsp;van alle ruimtes waarin minstens één warmteafgifte-element of inblaasmond van warme lucht aangesloten is op de verwarmingsinstallatie in kwestie.</p>
+3° A<sub>sys,heat,net,aangifte</sub>&nbsp;: de netto vloeroppervlakte die in de EPB-aangifte vermeld is en die bediend wordt door de verwarmingsinstallatie, uitgedrukt in m<sup>2</sup>. Dit is de som van de vloeroppervlaktes in m<sup>2</sup>&nbsp;van alle ruimtes waarin minstens één warmteafgifte-element of inblaasmond van warme lucht aangesloten is op de verwarmingsinstallatie in kwestie.<br>
+<br>
+1.7.11. Opwekkers voor centrale verwarming<br>
+Als in de EPB-aangifte gerapporteerd is dat niet voldaan is aan de eis betreffende het minimale installatierendement, wordt de overeenkomstige afwijking op het vlak van het installatierendement, uitgedrukt in m2, op de volgende wijze bepaald:<br>
+(η<sub>inst,eis</sub> – η<sub>inst,aangifte</sub>). A<sub>f,gross</sub> waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;η<sub>inst,eis</sub>: de minimaal vereiste waarde van het installatierendement, (-);<br>
+2°&nbsp;&nbsp; &nbsp;η<sub>inst,aangifte</sub>: de waarde van het installatierendement die in de EPB-aangifte vermeld is, (-);<br>
+3° A<sub>f,gross</sub>: de in de EPB-aangifte vermelde brutovloeroppervlakte, in m<sup>2</sup>.<br>
+&nbsp;</p>
 
 <p>1.8. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van het S-peil<br>
 <br>
@@ -5634,7 +5777,6 @@ Het beschermd volume wordt overgenomen uit de ingediende startverklaring met voo
 2.1.1 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de thermische isolatie van constructie-elementen<br>
 <br>
 Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van een of meer constructie-elementen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:
-<div>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5648,9 +5790,7 @@ Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van 
 	</tbody>
 </table>
 <br>
-Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer constructie-elementen kleiner blijkt dan in de EPB-aangifte is vermeld, wordt voor elk dergelijk constructie-element de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
-
-<div>
+Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer constructie-elementen kleiner blijkt dan in de EPB-aangifte is vermeld, wordt voor elk dergelijk constructie-element de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5666,9 +5806,7 @@ Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer c
 <br>
 2.1.2 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de globale thermische isolatie (K-peil)<br>
 <br>
-Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
-
-<div>
+Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5682,9 +5820,7 @@ Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmi
 	</tbody>
 </table>
 In afwijking van het eerste lid wordt voor een gebouw dat meerdere EPB-eenheden bevat, (met uitzondering van « aangrenzende onverwarmde ruimten » en de « gemeenschappelijke delen ») de boete verdeeld pro rata van het aandeel van de warmteverliesoppervlakte elk EPB-eenheid in de warmteverliesoppervlakte van het totale K-peilvolume exclusief « gemeenschappelijke delen ». De som van alle effectieve individuele boeten is dan gelijk aan de totale boete berekend voor het geheel.<br>
-Voor elke overschrijding van het K-peil wordt de overeenkomstige afwijking op het vlak van thermische isolatie voor elk EPB-eenheid dat deel uitmaakt van hetzelfde K- peilvolume, uitgedrukt in W/K, als volgt bepaald :</div>
-
-<div>
+Voor elke overschrijding van het K-peil wordt de overeenkomstige afwijking op het vlak van thermische isolatie voor elk EPB-eenheid dat deel uitmaakt van hetzelfde K- peilvolume, uitgedrukt in W/K, als volgt bepaald :
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5726,9 +5862,7 @@ Het verkeerd rapporteren van de grens van het beschermd volume wordt gecorrigeer
 <br>
 2.1.3 Afwijkingen bij de berekening van koudebruggen<br>
 <br>
-Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wordt bepaald aan de hand van een numerieke berekening of de methode van de EPB-aanvaarde bouwknopen, wordt vastgesteld dat de invloed van een of meer bouwknopen foutief werd bepaald of vergeten, dan wordt de invloed per foutieve of ontbrekende bouwknoop voor de berekening van Kvaststelling bepaald aan de hand van de waarden bij ontstentenis voor psie of X) zoals bepaald door de Vlaamse Regering</div>
-
-<div>
+Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wordt bepaald aan de hand van een numerieke berekening of de methode van de EPB-aanvaarde bouwknopen, wordt vastgesteld dat de invloed van een of meer bouwknopen foutief werd bepaald of vergeten, dan wordt de invloed per foutieve of ontbrekende bouwknoop voor de berekening van Kvaststelling bepaald aan de hand van de waarden bij ontstentenis voor psie of X) zoals bepaald door de Vlaamse Regering
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5784,9 +5918,7 @@ Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wo
 &nbsp;<br>
 2.2 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de globale energetische prestatie<br>
 <br>
-Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:</div>
-
-<div>
+Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5801,9 +5933,7 @@ Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere be
 <br>
 2.3 Afwijking&nbsp;door niet correct te rapporteren op het vlak van het risico op oververhitting<br>
 <br>
-Als bij controle de vastgestelde waarde voor het risico op oververhitting groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:</div>
-
-<div>
+Als bij controle de vastgestelde waarde voor het risico op oververhitting groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5821,9 +5951,7 @@ Als bij controle de vastgestelde waarde voor het risico op oververhitting groter
 <br>
 2.4.1 Bepaling van de eisen<br>
 <br>
-Als bij controle vastgesteld wordt dat voor een ruimte het geëiste minimale debiet in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking voor die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
-
-<div>
+Als bij controle vastgesteld wordt dat voor een ruimte het geëiste minimale debiet in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking voor die ruimte, uitgedrukt in m3/h, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5835,9 +5963,8 @@ Als bij controle vastgesteld wordt dat voor een ruimte het geëiste minimale deb
 		</tr>
 	</tbody>
 </table>
-Als bij controle vastgesteld wordt dat voor een afvoerkanaal de geëiste minimale sectie in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking, uitgedrukt in m3/h, als volgt bepaald:</div>
+Als bij controle vastgesteld wordt dat voor een afvoerkanaal de geëiste minimale sectie in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking, uitgedrukt in m3/h, als volgt bepaald:
 
-<div>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5852,9 +5979,7 @@ Als bij controle vastgesteld wordt dat voor een afvoerkanaal de geëiste minimal
 <br>
 2.4.2 Toevoervoorzieningen<br>
 <br>
-Als bij controle vastgesteld wordt dat het totale toevoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
-
-<div>
+Als bij controle vastgesteld wordt dat het totale toevoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5871,9 +5996,7 @@ Bij de vaststelling bij controle van het totale toevoerdebiet voor een ruimte ge
 ° Als het toevoerdebiet met buitenlucht gerealiseerd moet worden, wordt er echter alleen gesommeerd over de toevoervoorzieningen die buitenlucht binnenbrengen.<br>
 ° Als de regelkarakteristieken van een regelbare toevoeropening niet voldoen aan de gestelde eisen, dan wordt het toevoerdebiet gelijkgesteld aan nul voor de opening.<br>
 ° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
-° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:</div>
-
-<div>
+° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5889,9 +6012,7 @@ Bij de vaststelling bij controle van het totale toevoerdebiet voor een ruimte ge
 <br>
 2.4.3 Afvoervoorzieningen<br>
 <br>
-Als bij controle vastgesteld wordt dat het totale afvoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
-
-<div>
+Als bij controle vastgesteld wordt dat het totale afvoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5911,9 +6032,7 @@ Bij de vaststelling bij controle van het totale toevoerdebiet voor een ruimte ge
 • Als de regelkarakteristieken van de regelbare afvoeropening niet voldoen aan de gestelde eisen, dan wordt het afvoerdebiet gelijkgesteld aan nul.<br>
 • Zoniet dient het minimum genomen te worden van volgende debieten:<br>
 - enerzijds het vastgestelde nominale debiet van de regelbare afvoeropening<br>
-- anderzijds het vastgestelde debiet van het bijbehorende afvoerkanaal, berekend als</div>
-
-<div>
+- anderzijds het vastgestelde debiet van het bijbehorende afvoerkanaal, berekend als
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5925,9 +6044,7 @@ Bij de vaststelling bij controle van het totale toevoerdebiet voor een ruimte ge
 	</tbody>
 </table>
 ° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
-° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:</div>
-
-<div>
+° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5945,9 +6062,7 @@ Bij de vaststelling bij controle van het totale toevoerdebiet voor een ruimte ge
 <br>
 Als bij controle de vastgestelde waarde van de brutovloeroppervlakte meer dan 5 procent kleiner blijkt te zijn dan in de EPB-aangifte vermeld is, dan wordt de afwijking, uitgedrukt in m2, als volgt bepaald :<br>
 Abruto aangifte - Abruto vaststelling<br>
-waarin :</div>
-
-<div>
+waarin :
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -5970,9 +6085,8 @@ waarin :</div>
 		</tr>
 	</tbody>
 </table>
-&nbsp;
-
-<div>&nbsp;</div>
+&nbsp;<br>
+&nbsp;<br>
 2.6. Afwijkingen op het vlak van de netto-energiebehoefte voor verwarming<br>
 Als bij controle wordt vastgesteld dat de netto-energiebehoefte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking op het vlak van de netto-energiebehoefte voor verwarming, uitgedrukt in kWh/jaar, als volgt bepaald :<br>
 (Q <sub>heat net spec, vastgesteld</sub> - Q<sub>heat net spec, aangifte)</sub> A<sub>f,gross vastgesteld</sub><br>
@@ -6061,6 +6175,13 @@ waarbij:<br>
 1° f<sub>sys,aangifte</sub>: de waarde van de systeemfactor die in de EPB-aangifte vermeld is, (-);<br>
 2° f<sub>sys,vaststelling</sub>: de waarde van de systeemfactor die bij controle vastgesteld is, (-);<br>
 3° A<sub>sys,net,vaststelling</sub>: de waarde van de netto vloeroppervlakte die bij controle vastgesteld is en die bediend wordt door de verwarmingsinstallatie, uitgedrukt in m<sup>2</sup>. Dit is de som van de vloeroppervlaktes in m<sup>2</sup>&nbsp;van alle ruimtes waarin minstens één mechanische toevoerof afvoeropening aangesloten is op de verwarmingsinstallatie in kwestie.<br>
+<br>
+2.7.11. Opwekkers voor centrale verwarming<br>
+Als bij controle de vastgestelde waarde van het installatierendement kleiner blijkt dan in de EPB-aangifte is vermeld, wordt de overeenkomstige afwijking op het vlak van het installatierendement, uitgedrukt in m2, op de volgende wijze bepaald:<br>
+(η<sub>inst,aangifte</sub> – η<sub>inst,vaststelling</sub>). A<sub>f,gross</sub> waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;η<sub>inst,aangifte</sub>: de waarde van het installatierendement die in de EPB-aangifte vermeld is, (-);<br>
+2°&nbsp;&nbsp; &nbsp;η<sub>inst,vaststelling</sub>: de waarde van het installatierendement die bij controle vastgesteld is, (-);<br>
+3°&nbsp;&nbsp; &nbsp;A<sub>f,gross</sub>: de in de EPB-aangifte vermelde brutovloeroppervlakte, in m<sup>2</sup>.<br>
 <br>
 2.8. Afwijkingen bij het bepalen van de oppervlakten van de ruimtes waarin de eisen voor technische installaties gelden<br>
 <br>
@@ -6152,7 +6273,6 @@ Als bij controle de vastgestelde waarde van het S-peil voor een of meer bestemmi
 		</tr>
 	</tbody>
 </table>
-</div>
 
 ### deel 3.
 
