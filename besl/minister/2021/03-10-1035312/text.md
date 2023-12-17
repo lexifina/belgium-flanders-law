@@ -173,7 +173,9 @@ De kleine of middelgrote onderneming deelt tevens de wijziging van de naam, juri
 
 ### ART 18.
 
-Per zesendertig maanden, te rekenen vanaf de beslissing tot subsidietoekenning, kan een kleine of middelgrote onderneming maximaal één kmo-groeisubsidie of één subsidie voor de uitvoering van een digitaal transformatieproject in het kader van de projectoproep Digitale Transformatieprojecten toegekend krijgen. Elke subsidieaanvraag voor een kmo-groeisubsidie heeft betrekking op een apart kmo-groeitraject.
+Een kleine of middelgrote onderneming die een kmo-groeisubsidie toegekend krijgt, kan gedurende vierentwintig maanden, te rekenen vanaf de beslissing tot subsidietoekenning vermeld in artikel 27, geen nieuwe steunaanvraag indienen.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Elke subsidieaanvraag voor een kmo-groeisubsidie heeft betrekking op een apart kmo-groeitraject.
 
 ### ART 19.
 
