@@ -2,16 +2,16 @@
   "codex_id": 1037104,
   "title": "Besluit van de Vlaamse Regering van 2022-05-20 tot uitvoering van het decreet van 11 februari 2022 tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037104/VolledigDocument?datum=2022-06-01",
-  "source_sha256": "8af6dcb82c01350c2e5cd5087bb8d7fc79e1e5983ab2b8e3d9d5d52d0e44504c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037104/VolledigDocument?datum=2023-12-17",
+  "source_sha256": "69f003f0d3259c95335112d22dfa71e8648e1f2049299b21f306dc31f121ae68",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037104&param=informatie",
-  "as_of": "2022-06-01",
+  "as_of": "2023-12-17",
   "made": "2022-05-20",
   "gazette": "2022-05-31",
   "numac": 2022032230,
   "document_start": "2022-06-01",
   "document_end": null,
-  "in_force": "2022-06-01",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2022-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-12-17",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2023-12-17; future article versions excluded; article text as the API gives it"
 }
