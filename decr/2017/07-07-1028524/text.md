@@ -24,7 +24,7 @@ In dit hoofdstuk wordt verstaan onder:<br>
 5° partnerorganisaties: de partnerorganisaties, vermeld in artikel 1, eerste lid, 25°, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
 6° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 7° werkzoekende: de werkzoekende, vermeld in artikel 1, eerste lid, 7°, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-8° wijk-werkcheques: de papieren of elektronische cheques die gebruikt worden om wijk-werkers te vergoeden voor de activiteiten die ze in het kader van wijk-werken verrichten;<br>
+8° wijk-werkcheques: de cheques die gebruikt worden om wijk-werkers te vergoeden voor de activiteiten die ze in het kader van wijk-werken verrichten;<br>
 9° wijk-werken: een maatregel met als doel het opdoen van werkervaring door het uitvoeren van activiteiten bij gebruikers in het kader van een traject naar werk;<br>
 10° wijk-werker: de natuurlijke persoon die activiteiten in het wijk-werken uitvoert.
 
@@ -283,7 +283,7 @@ De wijk-werker ontvangt voor elk begonnen uur wijk-werken een wijk-werkcheque va
 <br>
 De Vlaamse Regering bepaalt de vergoeding die de wijk-werker ontvangt per cheque en de wijze waarop de wijk-werker de wijk-werkcheque kan indienen bij de organisator.<br>
 <br>
-De Vlaamse Regering kan bepalen dat elektronische wijk-werkcheques afgegeven kunnen worden, en kan nadere regels bepalen in verband met de wijk-werkcheques.
+De Vlaamse Regering kan de wijze van uitgifte en andere modaliteiten in verband met de wijk-werkcheques bepalen.
 
 ### ART 35.
 
@@ -303,7 +303,7 @@ De Vlaamse Regering kan de wijze bepalen waarop de gebruiker de wijk-werkcheque 
 
 ### ART 37.
 
-De raad van bestuur van de VDAB wijst conform de regelgeving over de overheidsopdrachten de uitgiftemaatschappij aan die instaat voor de uitgifte van de wijk-werkcheques.
+De raad van bestuur van de VDAB wijst de verstrekker aan die instaat voor de uitgifte van de wijk-werkcheques.
 
 ### ART 38.
 
@@ -334,7 +334,7 @@ De volgende personen hebben toegang tot het platform:<br>
 4° de gebruiker;<br>
 5° de wijk-werker;<br>
 6° het OCMW;<br>
-7° de uitgiftemaatschappij.<br>
+7° de verstrekker.<br>
 <br>
 De Vlaamse Regering stelt nadere regels vast met betrekking tot de toegang tot het platform.
 
@@ -358,7 +358,7 @@ De Vlaamse Regering bepaalt nadere regels omtrent de controle, de sanctionering 
 
 ### ART 44.
 
-De Vlaamse Regering kan nadere regels bepalen omtrent de financiering van de organisator en de financiering van de uitgiftemaatschappij.
+De Vlaamse Regering kan nadere regels bepalen omtrent de financiering van de organisator en de financiering van de verstrekker.
 
 ### ART 45.
 
