@@ -160,6 +160,22 @@ Het multidisciplinaire dossier omvat:<br>
 3° in voorkomend geval de dossiers die de PMS- en MST-centra hebben overgedragen;<br>
 4° een chronologisch overzicht van alle contacten met en tussenkomsten bij de betrokken leerling, met vermelding van de aard van de tussenkomst en de naam van de betrokken medewerker van het centrum.<br>
 <br>
+De persoonsgegevens die in het multidisciplinaire dossier kunnen worden verwerkt zijn:<br>
+1° het rijksregisternummer of bisnummer van de leerling en van zijn vertegenwoordiger;<br>
+2° de naam, het adres, het geslacht en de geboortedatum van de leerling;<br>
+3° de gegevens over de tussenkomsten en begeleiding door het centrum, inclusief de verslagen;<br>
+4° de gegevens over de onderwijsloopbaan van de leerling, in het bijzonder de<br>
+aanwezigheden of definitieve uitsluiting in de school;<br>
+5° de gegevens over de leer­ en studievaardigheden van de leerling;<br>
+6° de gegevens over de zorgbehoeften van de leerling;<br>
+7° de testresultaten van de leerling en gegevens over zijn fysieke ontwikkeling; 8° de gegevens over het gedrag en de context van de leerling die een invloed<br>
+kunnen hebben op zijn lichamelijke, seksuele of socio­emotionele gezondheid;<br>
+9° de gezinssamenstelling en de gegevens over de ouders, de voogden of de opvoedingsverantwoordelijken van de leerling.<br>
+<br>
+Het centrum bewaart het multidisciplinaire dossier van de leerling maximaal tien jaar na de datum van het laatst uitgevoerde systematische contact of de laatst uitgevoerde vaccinatie.<br>
+<br>
+In afwijking van het vierde lid worden de gegevens van leerlingen die hun onderwijsloopbaan beëindigd hebben in het buitengewoon onderwijs, bewaard tot op het ogenblik dat de betrokkenen de leeftijd van 30 jaar bereikt hebben.<br>
+<br>
 De opmaak, de bewaring en het gebruik van persoonsgegevens en van de persoonsgegevens die op de gezondheid betrekking hebben in het multidisciplinaire dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de&nbsp;regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens ten opzichte van de verwerking van persoonsgegevens en betreffende de rechten van de patiënt.<br>
 <br>
 Zodra een leerplichtige die huisonderwijs volgt zich aanmeldt bij een centrum of zodra zijn ouders zich aanmelden bij een centrum, maakt het centrum één multidisciplinair dossier aan indien er voor de leerling nog geen dossier is.<br>
