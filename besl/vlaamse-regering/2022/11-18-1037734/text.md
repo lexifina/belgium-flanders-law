@@ -134,7 +134,7 @@ Bijlage. Bedragen van de vergoedingen als vermeld in artikel 1, §1
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:none; vertical-align:top; width:45px">3°</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:397px">individuele goedkeuring en wijziging (uitbreiding, herziening of correctie) van die aanvraag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:397px">individuele goedkeuring of een attest conform artikel 23duodevicies, §4, tweede lid, van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen of artikel 8ter, vijfde lid, van het koninklijk besluit van 10 oktober 1974 houdende algemeen reglement op de technische eisen waaraan de bromfietsen, de motorfietsen en hun aanhangwagens moeten voldoen en wijziging (uitbreiding, herziening of correctie) van die aanvragen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:right; vertical-align:top; width:95px">&nbsp;</td>
 		</tr>
 		<tr>

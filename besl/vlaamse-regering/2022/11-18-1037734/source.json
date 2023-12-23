@@ -2,16 +2,16 @@
   "codex_id": 1037734,
   "title": "Besluit van de Vlaamse Regering van 2022-11-18 om het bedrag en de betalingswijze vast te stellen van de vergoedingen voor de goedkeuring van motorvoertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037734/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "91b9ad1e011154132dc02a5e4a5a0d45d71cd9d2828f94f1d7f5830ed52b9be1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037734/VolledigDocument?datum=2023-12-23",
+  "source_sha256": "cd025299e6ee765e6b31a8d09152979d0aeca27c1ef4939a18e49230449854a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037734&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-12-23",
   "made": "2022-11-18",
   "gazette": "2022-12-13",
   "numac": 2022034549,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-12-23",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-12-23; future article versions excluded; article text as the API gives it"
 }
