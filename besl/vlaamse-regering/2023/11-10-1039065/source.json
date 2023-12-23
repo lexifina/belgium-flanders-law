@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039065,
+  "title": "Besluit van de Vlaamse Regering van 2023-11-10 tot wijziging van de regelgeving over de verbouwing van een voertuig met een verbrandingsmotor tot een elektrisch voertuig",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039065/VolledigDocument?datum=2023-12-23",
+  "source_sha256": "edaa502357306ad08e4f3b58d0ca0ee9de4fa5be810db58447a2be0b261fb7fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039065&param=informatie",
+  "as_of": "2023-12-23",
+  "made": "2023-11-10",
+  "gazette": "2023-12-13",
+  "numac": 2023047876,
+  "document_start": "2023-12-23",
+  "document_end": null,
+  "in_force": "2023-12-23",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2023-12-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
