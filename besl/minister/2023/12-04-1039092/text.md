@@ -13,6 +13,16 @@ Dit besluit is gebaseerd op het volgende motief:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN BESLUIT:
 
+### ART 1.
+
+Het besluit van de administrateur-generaal van 30 november 2023 tot uitvoering van artikel 57 van het Procedurebesluit van 9 mei 2014 wat betreft de algemene oproep, met inbegrip van het beslissingskader, voor de programmatie en toekenning van subsidiebeloftes in 2023 voor de subsidie voor ruimere openingsmomenten, dat is opgenomen in de bijlagen 1 tot en met 3 die bij dit besluit zijn gevoegd, wordt goedgekeurd.
+
+### ART 2.
+
+Tegen deze beslissing kan binnen zestig dagen na de bekendmaking een beroep tot nietigverklaring worden ingediend bij de Raad van State.<br>
+<br>
+Het verzoekschrift moet worden ondertekend door de verzoekende partij of door haar advocaat en dient aangetekend te worden bezorgd aan de griffie van de Raad van State, Wetenschapsstraat 33, 1040 Brussel. (meer informatie:&nbsp;<a href="http://www.raadvst-consetat.be">www.raadvst-consetat.be</a>). De verzoekende partij moet het verzoekschrift bezorgen samen met drie door de ondertekenaar eensluidend verklaarde afschriften en bovendien zoveel afschriften als er tegenpartijen zijn. Bevat het verzoekschrift tot nietigverklaring tevens een vordering tot schorsing van de tenuitvoerlegging van de bestreden akte, dan bevat het verzoekschrift negen door de ondertekenaar eensluidend verklaarde afschriften.
+
 ### BIJLAGE 1
 
 Besluit van de administrateur-generaal tot uitvoering van artikel 57 van het Procedurebesluit van 9 mei 2014 wat betreft de algemene oproep, met inbegrip van het beslissingskader, voor de programmatie en toekenning van subsidiebeloftes in 2023 voor de subsidie voor ruimere openingsmomenten<br>
