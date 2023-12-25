@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:<br>
 8° contextbegeleiding: de breedsporige ondersteuning van de minderjarige en alle relevante betrokkenen uit zijn gezins- en opvoedingsmilieu en andere belangrijke levensdomeinen;<br>
 9° dagbegeleiding: de breedsporige ondersteuning van de minderjarige gedurende een bepaald deel van de dag in een aangepaste omgeving;<br>
 10° decreet van 17 oktober 2003: het decreet van 17 oktober 2003 betreffende de kwaliteit van gezondheids- en welzijnsvoorzieningen;<br>
-11° decreet van 7 mei 2004: het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+11° decreet van 7 mei 2004: het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 12° decreet van 15 februari 2019: het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 13° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende integrale jeugdhulp ;<br>
 13°/1 decreet van 3 juni 2022: het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers;<br>
@@ -58,6 +58,8 @@ In dit besluit wordt verstaan onder:<br>
 19° gemeenschapsinstelling: een door de overheid ingerichte instelling met een gesloten aanbod, als vermeld in artikel 2, 4° van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 19° /1 GES+: ernstig externaliserend of internaliserend storend gedrag, in combinatie met een handicap, waarvan de impact dermate groot is dat er nood is aan continue, hoofdzakelijke residentiële ondersteuning met een semi-gesloten karakter;<br>
 19° /2 gezinsbegeleiding: de breedsporige ondersteuning van een gezin en alle relevante betrokkenen, met als finaliteit het verbeteren van de opvoedingscontext en van de relationele, individuele, familiale en maatschappelijke context en gericht op maatschappelijke integratie;<br>
+19°/2/1 gezinshuis: een kleinschalige vorm van residentiële ondersteuning, waarbij een gezinshuisouder minderjarigen in het eigen gezin opvangt en begeleidt, die zich richt op minderjarigen met complexe problematieken die de draagkracht van het doorsneepleeggezin overstijgen;<br>
+19°/2/2 gezinshuisouder: een personeelslid dat bezoldigd en in voltijds dienstverband minderjarigen in het eigen gezin opvangt en begeleidt;<br>
 19° /3 gezinsverblijf: gezinsbegeleiding waarbij een gezin in residentieel verband opgevangen worden;<br>
 20° handelingsplan: een document als vermeld in artikel 58 van het decreet van 12 juli 2013, dat wordt opgemaakt door een jeugdhulpaanbieder;<br>
 21° herstelgericht groepsoverleg: het overleg, vermeld in artikel 2, 6°, van het decreet van 15 februari 2019;<br>
@@ -86,6 +88,7 @@ e) gebruikersdossier;<br>
 38° opvoedingsverantwoordelijken: andere natuurlijke personen dan de ouders die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br>
 39° outputgebieden: de resultaatgerichte aandachtsgebieden die betrekking hebben op de verschillende aspecten van de organisatievoering;<br>
 40° personeelsleden: personen die, al dan niet bezoldigd en al dan niet in beroepsverband, prestaties leveren in een voorziening;<br>
+40°/1 pleeggezin: een pleeggezin als vermeld in artikel 2, §1, 45°, van het decreet van 12 juli 2013;<br>
 41° positief project: een project als vermeld in artikel 2,16 ° van het decreet van 15 februari 2019.<br>
 42° sociale dienst: de sociale dienst Jeugdrechtbank, vermeld in artikel 56, van het decreet van 12 juli 2013;<br>
 43° toegangspoort: de toegangspoort, vermeld in artikel 17 van het decreet van 12 juli 2013;<br>
@@ -119,7 +122,11 @@ Een organisatie voor bijzondere jeugdzorg organiseert haar aanbod op basis van d
 <br>
 Een organisatie voor bijzondere jeugdzorg die erkend is om modules contextbegeleiding en modules contextbegeleiding in functie van autonoom wonen aan te bieden, kan, op basis van de reële noden van de gebruikers, zelf de verhouding tussen het effectieve aantal ingezette modules contextbegeleiding en contextbegeleiding in functie van autonoom wonen bepalen.<br>
 <br>
-De administrateur-generaal kan bepalen dat een organisatie voor bijzondere jeugdzorg op jaarbasis een welbepaald aantal minderjarigen die in een gemeenschapsinstelling verblijven of die toegewezen zijn aan een typemodule veilig verblijf, moet begeleiden of opvangen.
+De administrateur-generaal kan bepalen dat een organisatie voor bijzondere jeugdzorg op jaarbasis een welbepaald aantal minderjarigen die in een gemeenschapsinstelling verblijven of die toegewezen zijn aan een typemodule veilig verblijf, moet begeleiden of opvangen.<br>
+<br>
+De administrateur-generaal kan bepalen dat modules waarvoor aan een organisatie voor bijzondere jeugdzorg erkenning is verleend, uitsluitend ingezet kunnen worden voor niet-begeleide minderjarige vreemdelingen.<br>
+<br>
+In het zesde lid wordt verstaan onder niet-begeleide minderjarige vreemdeling: iedere persoon die voldoet aan de voorwaarden, vermeld in artikel 5 van titel XIII, hoofdstuk 6, van de programmawet (I) van 24 december 2002.
 
 ### ART 4.
 
@@ -200,9 +207,8 @@ Om erkend te worden en te blijven, moet een voorziening aan al de volgende algem
 1° de voorziening mag uitsluitend minderjarigen opnemen en begeleiden. Die beperking is niet van toepassing op een centrum voor integrale gezinszorg voor wat de opname en begeleiding van meerderjarige ouders en meerderjarige aanstaande ouders betreft;<br>
 2° alleen als door de individuele situatie van een minderjarige een opname of een begeleiding door de voorziening pedagogisch wenselijk is en als de materiële mogelijkheden van een voorziening die opname of begeleiding toelaten, mag een voorziening minderjarigen opnemen of begeleiden boven haar totaal erkende capaciteit. Die opname van minderjarigen boven haar totaal erkende capaciteit verleent geen aanspraak op een aanpassing van de subsidie, met uitzondering van de subsidie, vermeld in de artikel 42 en 43;<br>
 3° alleen als het door de individuele situatie van een minderjarige pedagogisch wenselijk is, mag een voorziening een minderjarige, van wie de leeftijd en het geslacht niet in overeenstemming is met haar erkenning, opnemen of begeleiden. Een dergelijke opname of begeleiding geeft geen aanspraak op een aanpassing van de subsidie;<br>
-4° de voorziening waakt erover dat haar personeelsleden van goed zedelijk gedrag zijn en dat hun gezondheidstoestand geen gevaar inhoudt voor de minderjarigen met wie ze in contact komen. Ze vraagt daarvoor minstens bij de aanwerving van elke nieuwe medewerker een attest van medische geschiktheid en een uittreksel uit het strafregister dat een model als vermeld in artikel 596, tweede lid van het Wetboek van Strafvordering omvat. Een gelijkwaardig document als het voormelde uittreksel uit het strafregister dat is verleend door andere lidstaten van de Europese Unie of door staten die ermee gelijkgesteld zijn op het vlak van de toegang tot het uitoefenen van beroepswerkzaamheden, wordt ook in aanmerking genomen;<br>
-5° de voorziening maakt op basis van de gegevens waarover ze beschikt, binnen vijfenveertig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding, een handelingsplan op met de betrokken partijen.<br>
-Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 4 tot en met 6;&nbsp;Voorzieningen van categorieën 3 en 7 maken een handelingsplan op binnen negentig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding.<br>
+4° de voorziening past de verplichting van artikel 3 van het decreet van 3 juni 2022 toe;<br>
+5° de voorziening maakt op basis van de gegevens waarover ze beschikt, binnen vijfenveertig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding, een handelingsplan op met de betrokken partijen.&nbsp;Deze verplichting is niet van toepassing voor trajecten die korter duren dan 45 dagen. Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 4 tot en met 6;&nbsp;Voorzieningen van categorieën 3 en 7 maken een handelingsplan op binnen negentig dagen na de opname van de minderjarige in de voorziening of vanaf de begeleiding.<br>
 6° het handelingsplan, dat de leidraad vormt voor het pedagogisch handelen door de voorziening, bevat de volgende delen:<br>
 a) de identiteit van de minderjarige en van de andere partijen die betrokken zijn bij de hulpverlening;<br>
 b) de tussentijdse en concrete doelstellingen, in voorkomend geval ter uitvoering van de algemene doelstellingen die geformuleerd zijn in het jeugdhulpverleningsplan;<br>
@@ -210,10 +216,9 @@ c) de aandachtspunten en de klemtonen die in de hulpverlening gelegd moeten word
 d) de acties die individueel aangewend zullen worden om de doelstellingen, gelet op de aandachtspunten en klemtonen, te realiseren;<br>
 e) de afspraken over de bezoekregeling, de briefwisseling en het opvoedingsregime, rekening houdend met hetgeen in voorkomend geval werd beslist door de gemandateerde voorziening of door de jeugdrechtbank;<br>
 f) de taakverdeling en de samenwerkingsafspraken tussen de betrokken partijen;<br>
-7° een kopie van het handelingsplan wordt gecommuniceerd aan de minderjarige, rekening houdend met de bepalingen in het decreet van 7 mei 2004 en wordt, als hij jonger dan 18 jaar is, bezorgd aan zijn ouders of opvoedingsverantwoordelijken. In voorkomend geval wordt een kopie van het handelingsplan onmiddellijk opgestuurd naar de gemandateerde voorziening of naar de jeugdrechtbank en de sociale dienst;<br>
+7° een kopie van het handelingsplan wordt gecommuniceerd aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004. In voorkomend geval wordt een kopie van het handelingsplan opgestuurd naar de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;<br>
 8° het handelingsplan kan binnen de voorziening, na evaluatie en samenspraak met de betrokken partijen, worden bijgestuurd. Die bijsturing wordt schriftelijk vastgelegd. Punt 7° is van overeenkomstige toepassing;<br>
-9° de voorziening maakt minstens om de zes maanden een evolutieverslag op, dat aan de minderjarige gecommuniceerd wordt, rekening houdend met de bepalingen in het decreet van 7 mei 2004 en bezorgt het verslag aan de ouders of opvoedingsverantwoordelijken indien de minderjarige jonger is dan achttien jaar. In voorkomend geval wordt het evolutieverslag verstuurd naar de gemandateerde voorziening of naar de jeugdrechter of de jeugdrechtbank en de sociale dienst.<br>
-Deze verplichting is niet van toepassing op de voorzieningen van de categorieën 3 tot en met 6, en in situaties waarin alleen een module contextbegeleiding kortdurend krachtgericht&nbsp;of een module delictgerichte contextbegeleiding wordt ingezet in de voorzieningen van de categorie 1;<br>
+9° de voorziening maakt minstens om de zes maanden een evolutieverslag op, dat gecommuniceerd wordt aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004. In voorkomend geval wordt het evolutieverslag verstuurd naar de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;<br>
 10° de voorziening zorgt ervoor dat de minderjarigen de gelegenheid hebben om zich moreel te verdiepen en hun eventuele godsdienst te beoefenen volgens de voorschriften en de verplichtingen ervan;<br>
 11° sancties worden aangepast aan de persoonlijkheid van de minderjarige. Ze zijn er altijd op gericht de opvoeding te bevorderen en hebben geen traumatische uitwerking. Lichamelijke straffen en geestelijk geweld, alsook onthouding van maaltijden, zijn verboden;<br>
 12° de voorziening legt over elke minderjarige en eventueel over het gezin waartoe hij behoort, een dossier aan dat alle nuttige gegevens voor de hulp- en dienstverlening bevat. In dat dossier worden de volgende gegevens en documenten opgenomen:<br>
@@ -398,7 +403,7 @@ b) de wijze van registratie van elke afzondering;<br>
 c) de duur van de afzondering;<br>
 d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
 6° elke minderjarige die in residentieel verband wordt opgevangen wordt na zijn opname in de voorziening medisch onderzocht;<br>
-7° de oriëntatie- en observatieverslagen bevatten een oriëntatievoorstel en een leidraad voor begeleiding of behandeling. Die verslagen worden bij afsluiten van de diagnostische opdracht bezorgd, in voorkomend geval, aan de gemandateerde voorziening, de toegangspoort, de jeugdrechter of de jeugdrechtbank en de sociale dienst. Het handelingsplan kan geïntegreerd worden in het oriëntatie- en observatieverslag.
+7° de oriëntatie- en observatieverslagen bevatten een oriëntatievoorstel en een leidraad voor begeleiding of behandeling. Die verslagen worden bij afsluiten van de diagnostische opdracht aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken gecommuniceerd, overeenkomstig de bepalingen van het decreet van 7 mei 2004 en bezorgd, in voorkomend geval, aan de gemandateerde voorziening, de toegangspoort, de jeugdrechter of de jeugdrechtbank en de sociale dienst. Het handelingsplan kan geïntegreerd worden in het oriëntatie- en observatieverslag.
 
 ## Onderafdeling 4. Diensten voor crisishulp aan huis
 
@@ -553,7 +558,9 @@ a) de inrichting van de afzonderingskamer;<br>
 b) de wijze van registratie van elke afzondering;<br>
 c) de duur van de afzondering;<br>
 d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
-6° elke minderjarige die in residentieel verband wordt opgevangen, wordt na zijn opname in de voorziening medisch onderzocht.
+6° elke minderjarige die in residentieel verband wordt opgevangen, wordt na zijn opname in de voorziening medisch onderzocht;<br>
+7° de voorziening stelt binnen zes maanden na de opstart van de begeleiding een beeldvormingsverslag en behandelplan op en bezorgt die documenten aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004, en, in voorkomend geval, aan de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;<br>
+8° de voorziening maakt op het einde van de behandeling een afrondingsverslag op waarin, als dat gewenst is, een advies voor vervolghulp is opgenomen. Ze bezorgt dat verslag aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004, en, in voorkomend geval, aan de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst.
 
 ## [Onderafdeling 8. Centra voor ernstige gedrags- en emotionele stoornissen (ing. BVR 20 maart 2020, art. 60, I: 1 januari 2020)]
 
