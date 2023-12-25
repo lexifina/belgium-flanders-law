@@ -51,6 +51,16 @@ In artikel 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 “De administrateur-generaal kan bepalen dat modules waarvoor aan een organisatie voor bijzondere jeugdzorg erkenning is verleend, uitsluitend ingezet kunnen worden voor niet-begeleide minderjarige vreemdelingen.<br>
 In het zesde lid wordt verstaan onder niet-begeleide minderjarige vreemdeling: iedere persoon die voldoet aan de voorwaarden, vermeld in artikel 5 van titel XIII, hoofdstuk 6, van de programmawet (I) van 24 december 2002.”.
 
+### ART 3.
+
+In artikel 11, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 maart 2020 en 6 november 2023, worden de volgende wijzigingen aangebracht:<br>
+1° punt 4° wordt vervangen door wat volgt:<br>
+“4° de voorziening past de verplichting van artikel 3 van het decreet van 3 juni 2022 toe;”;<br>
+2° punt 7° wordt vervangen door wat volgt:&nbsp;<br>
+“7° een kopie van het handelingsplan wordt gecommuniceerd aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004. In voorkomend geval wordt een kopie van het handelingsplan opgestuurd naar de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;”;<br>
+3° punt 9° wordt vervangen door wat volgt:<br>
+“9° de voorziening maakt minstens om de zes maanden een evolutieverslag op, dat gecommuniceerd wordt aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004. In voorkomend geval wordt het evolutieverslag verstuurd naar de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;”.
+
 ### ART 4.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 6 november 2023, wordt een artikel 15/2 ingevoegd, dat luidt als volgt:<br>
@@ -89,9 +99,19 @@ In het eerste lid, 5°, wordt verstaan onder dienst voor pleegzorg: de dienst vo
 <br>
 Bij de toetsing van de kenmerken van een minderjarige aan het profiel van de gezinshuisouder en zijn gezin wordt in voorkomend geval rekening gehouden met bevindingen uit voorgaande hulpverlening. Ook waakt de voorziening erover dat de ideologische, filosofische en godsdienstige overtuiging van de minderjarige en het gezin van oorsprong gerespecteerd worden.”.
 
+### ART 5.
+
+In artikel 19, 7°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt tussen de woorden “diagnostische opdracht” en de zinsnede “bezorgd,” de zinsnede “aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken gecommuniceerd, overeenkomstig de bepalingen van het decreet van 7 mei 2004 en” ingevoegd.
+
 ### ART 6.
 
 In artikel 23, 5°, van hetzelfde besluit wordt het bedrag “6,70 euro” vervangen door het bedrag “7,85 euro” en wordt de zinsnede “index van de consumptieprijzen, die van toepassing is op 1 januari 2019” vervangen door de zinsnede “spilindex die van toepassing is op 1 januari 2023”.
+
+### ART 7.
+
+Aan artikel 27/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 maart 2020, worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt:<br>
+“7° de voorziening stelt binnen zes maanden na de opstart van de begeleiding een beeldvormingsverslag en behandelplan op en bezorgt die documenten aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004, en, in voorkomend geval, aan de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst;<br>
+8° de voorziening maakt op het einde van de behandeling een afrondingsverslag op waarin, als dat gewenst is, een advies voor vervolghulp is opgenomen. Ze bezorgt dat verslag aan de minderjarige en zijn ouders of opvoedingsverantwoordelijken, overeenkomstig de bepalingen van het decreet van 7 mei 2004, en, in voorkomend geval, aan de gemandateerde voorziening, de jeugdrechter of de jeugdrechtbank en de sociale dienst.”.
 
 ### ART 8.
 
