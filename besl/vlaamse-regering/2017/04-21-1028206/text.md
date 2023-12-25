@@ -399,6 +399,12 @@ Het deel van de invulling van het Nederlandstalige en Vlaamse profiel of muzieka
 
 ## Afdeling 1/1. Herverdeling van vrijgekomen FM-frequenties
 
+### ART 2/1.
+
+De herverdeling van vrijgekomen FM-frequenties, vermeld in artikel 134, §5, van het decreet van 27 maart 2009, is alleen mogelijk binnen dezelfde categorie van radio-omroeporganisaties.<br>
+<br>
+De optimalisatie van de ontvangst van de bestaande erkenningen vereist dat de oorspronkelijke dekkingsgraad van de erkende radio-omroeporganisatie wordt vergroot.
+
 ## Afdeling 2. Aanvullende kwalificatiecriteria voor de netwerkradio-omroeporganisaties
 
 ### ART 3.
