@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039131,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-22 over de overdracht van rechten en plichten door de Vlaamse Gemeenschap, het Vlaamse Gewest en het Eigen Vermogen Digitaal Vlaanderen aan het Vlaams Datanutsbedrijf",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039131/VolledigDocument?datum=2023-12-28",
+  "source_sha256": "854471e66626d7dc646f7a00d25a681e27a9390a9f1befa8d8e387a47c79e501",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039131&param=informatie",
+  "as_of": "2023-12-28",
+  "made": "2023-12-22",
+  "gazette": "2023-12-28",
+  "numac": 2023048411,
+  "document_start": "2023-12-28",
+  "document_end": null,
+  "in_force": "2023-12-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
