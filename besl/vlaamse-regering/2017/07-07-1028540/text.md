@@ -19,13 +19,13 @@ Besluit :
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder minister: de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden.
+In dit besluit wordt verstaan onder minister: de Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid.
 
 ## HOOFDSTUK 2. Algemene delegatiebepaling
 
 ### ART 2.
 
-De minister stelt de onderrichtingen voor de hoofdbureaus en voor de gemeentebesturen, en de modellen en formulieren die nodig zijn voor de organisatie van de verkiezingen, vermeld in artikel 3 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vast.
+De minister stelt de onderrichtingen voor de hoofdbureaus en voor de gemeente- en provinciebesturen, en de modellen en formulieren die nodig zijn voor de organisatie van de verkiezingen, vermeld in artikel 3 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vast.
 
 ## HOOFDSTUK 3. Delegatie ter uitvoering van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011
 
@@ -49,7 +49,7 @@ Ter uitvoering van artikel 54, tweede lid, van het Lokaal en Provinciaal Kiesdec
 
 Ter uitvoering van artikel 56, § 2, 3°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister het model van het attest waaruit de uitoefening van het beroep van schipper, marktkramer of kermisreiziger blijkt.<br>
 <br>
-Ter uitvoering van artikel 56, § 2, 7°, van hetzelfde decreet bepaalt de minister het model van de verklaring op erewoord en van het attest dat de burgemeester moet afgeven.<br>
+Ter uitvoering van artikel 56, § 2, 7°, van hetzelfde decreet bepaalt de minister het model van het attest dat de burgemeester moet afgeven.<br>
 <br>
 Ter uitvoering van artikel 56, § 3, van hetzelfde decreet bepaalt de minister het model van de volmacht.
 
@@ -73,7 +73,7 @@ Ter uitvoering van artikel 64, eerste lid, van het Lokaal en Provinciaal Kiesdec
 
 ### ART 12.
 
-Ter uitvoering van artikel 70, tweede lid, artikel 83, 3°, en artikel 84, 3°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de wijze waarop de kandidatenlijsten worden ingediend.
+...
 
 ### ART 13.
 
@@ -115,7 +115,7 @@ Ter uitvoering van artikel 171, derde lid, van het Lokaal en Provinciaal Kiesdec
 
 ### ART 22.
 
-Ter uitvoering van artikel 174 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de modaliteiten van de opslag, de organisatie en de vernietiging van de stukken die betrekking hebben op de gemeenteraads- en stadsdistrictsraadsverkiezingen.
+Ter uitvoering van artikel 174 en 175 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de modaliteiten van de opslag, de organisatie en de vernietiging van de stukken die betrekking hebben op de gemeenteraads- en stadsdistrictsraadsverkiezingen.
 
 ### ART 23.
 
@@ -139,11 +139,11 @@ Ter uitvoering van artikel 192 van het Lokaal en Provinciaal Kiesdecreet van 8 j
 
 ### ART 28.
 
-Ter uitvoering van artikel 196, § 2, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 stelt de minister de formulieren voor de aangifte van de verkiezingsuitgaven van de politieke partijen en voor de aangifte van de herkomst van de geldmiddelen ter beschikking.
+...
 
 ### ART 29.
 
-Ter uitvoering van artikel 197, § 2, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, stelt de minister de formulieren voor de aangifte van de verkiezingsuitgaven van de lijsten en de kandidaten en voor de aangifte van de herkomst van de geldmiddelen ter beschikking.
+...
 
 ### ART 30.
 

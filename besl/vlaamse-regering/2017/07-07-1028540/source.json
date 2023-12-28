@@ -2,16 +2,16 @@
   "codex_id": 1028540,
   "title": "Besluit van de Vlaamse Regering van 2017-07-07 houdende de delegatie van diverse bevoegdheden inzake de organisatie van de gemeenteraadsverkiezingen, de stadsdistrictsraadsverkiezingen, de verkiezingen van de raad voor maatschappelijk welzijn en de provincieraadsverkiezingen aan de Vlaamse minister, bevoegd voor [het binnenlands bestuur en het stedenbeleid]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028540/VolledigDocument?datum=2017-08-11",
-  "source_sha256": "7a5586b4f1bf96564cf631f3f1063241a3341d2bbbb8665e0f2d34b69f66e49d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028540/VolledigDocument?datum=2023-12-28",
+  "source_sha256": "2eaa4d3c2e2631246409a20a626de618dad87b9d7efe5efda6571501db16cce1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028540&param=informatie",
-  "as_of": "2017-08-11",
+  "as_of": "2023-12-28",
   "made": "2017-07-07",
   "gazette": "2017-08-10",
   "numac": 2017020590,
   "document_start": "2017-08-11",
   "document_end": null,
-  "in_force": "2017-08-11",
+  "in_force": "2023-12-28",
   "article_versions": 41,
-  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-12-28; future article versions excluded; article text as the API gives it"
 }
