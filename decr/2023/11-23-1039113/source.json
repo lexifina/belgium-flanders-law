@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039113,
+  "title": "Decreet van 2023-11-23 tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039113/VolledigDocument?datum=2023-12-29",
+  "source_sha256": "a66adb132a08204685214334c1380a9d826c71e2f3a80d8c1a95c75848f08c78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039113&param=informatie",
+  "as_of": "2023-12-29",
+  "made": "2023-11-23",
+  "gazette": "2023-12-19",
+  "numac": 2023048284,
+  "document_start": "2023-12-29",
+  "document_end": null,
+  "in_force": "2023-12-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
