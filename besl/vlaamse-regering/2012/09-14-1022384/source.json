@@ -2,16 +2,16 @@
   "codex_id": 1022384,
   "title": "Besluit van de Vlaamse Regering van 2012-09-14 tot erkenning van de beroepskwalificatie departementsverantwoordelijke groot verkooppunt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022384/VolledigDocument?datum=2012-10-26",
-  "source_sha256": "5be0d4419ee49c80c9de9a75585f0a80c299d0c6806db59f63404dd089f0813b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022384/VolledigDocument?datum=2023-12-29",
+  "source_sha256": "9441099942b318996aaff8161c3186d9ac4b5e30e76380baf7f1003ecc2b7c1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022384&param=informatie",
-  "as_of": "2012-10-26",
+  "as_of": "2023-12-29",
   "made": "2012-09-14",
   "gazette": "2012-10-16",
   "numac": 201236072,
   "document_start": "2012-10-26",
   "document_end": "2023-12-28",
-  "in_force": "2012-10-26",
+  "in_force": "2023-12-29",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2012-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-12-29; future article versions excluded; article text as the API gives it"
 }
