@@ -236,7 +236,9 @@ Het decreet van 7 juli 2017 houdende wijziging van het decreet van 3 mei 2013 be
 
 Dit besluit treedt in werking op 1 januari 2018 en treedt buiten werking op 31 december 2024.<br>
 <br>
-In afwijking van het eerste lid treedt artikel 23 in werking op 1 juli 2018.
+In afwijking van het eerste lid treedt artikel 23 in werking op 1 juli 2018.<br>
+<br>
+In afwijking van het eerste lid, kan de minister, rekening houdende met de resultaten van de evaluatie, vermeld in artikel 21, de datum waarop dit besluit buiten werking treedt, verlengen tot uiterlijk 30 juni 2026.
 
 ### ART 26.
 
