@@ -11,7 +11,7 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 In dit decreet wordt verstaan onder:<br>
 1° Vlaams bestuursrechtscollege: een van de volgende instanties:<br>
 a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
+b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, artikel 45 van het decreet van 25 april 2014 betreffende complexe projecten en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
 c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
 d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 2° Vlaamse bestuursrechtscolleges: alle instanties, vermeld in punt 1°, samen;<br>
@@ -25,7 +25,8 @@ a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.<br>
 9° vergunninghouder: de vergunninghouder, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-10° de persoon die de melding heeft verricht: de persoon die de melding heeft verricht, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+10° de persoon die de melding heeft verricht: de persoon die de melding heeft verricht, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+12° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);
 
 ### ART. 3.
 
@@ -53,7 +54,7 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 6.
 
-<p>De functie van beheerder, hoofd van het coördinatiebureau, hoofdgriffier, griffier, griffiemedewerker, coördinatiejurist en referendaris wordt opgenomen door personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
+<p>De functies die de eerste voorzitter met toepassing van artikel 9, tweede lid, bepaalt, worden opgenomen door personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
 
 <p>Deze personeelsleden kunnen hun functie bij de dienst van de Bestuursrechtscolleges niet cumuleren met een andere functie bij de diensten van de Vlaamse overheid.</p>
 
@@ -65,7 +66,7 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 7.
 
-<p>De hoofdgriffier, het hoofd van het coördinatiebureau en de beheerder zetelen met raadgevende stem in de algemene vergadering, wat hun respectieve bevoegdheden betreft.</p>
+<p>De algemene vergadering bepaalt welke personeelsleden van de dienst van de Bestuursrechtscolleges met raadgevende stem in de algemene vergadering zetelen.</p>
 
 <p>De algemene vergadering beslist onder meer over de volgende aangelegenheden:<br>
 1° de aanstelling van de eerste voorzitter;<br>
@@ -83,9 +84,9 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 <p>De eerste voorzitter is belast met de algemene en dagelijkse leiding van de Vlaamse bestuursrechtscolleges.</p>
 
-<p>De eerste voorzitter is tevens hoofd van de dienst van de Bestuursrechtscolleges.</p>
+<p>De eerste voorzitter is tevens hoofd van de dienst van de Bestuursrechtscolleges.&nbsp;De eerste voorzitter stelt de organisatiestructuur van de dienst van de Bestuursrechtscolleges vast en bepaalt de functies die binnen de dienst van de Bestuursrechtscolleges worden opgenomen.</p>
 
-<p>De eerste voorzitter kan bevoegdheden inzake het dagelijks beheer delegeren aan de beheerder.</p>
+<p>De eerste voorzitter kan bevoegdheden inzake het dagelijks beheer delegeren aan personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
 
 <p>Het dagelijks beheer omvat het technisch en financieel beheer, het beheer van de infrastructuur, de communicatie en het personeelsmanagement van de bestuursrechters en van de personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
 
@@ -153,18 +154,26 @@ In afwijking van het vierde lid kan de eerste voorzitter de kamervoorzitters van
 
 ### ART. 13.
 
-<p>De partijen kunnen bestuursrechters die zich over het beroep of bezwaar moeten uitspreken schriftelijk en op gemotiveerde wijze wraken voor de aanvang van de zitting, tenzij de reden tot wraking later is ontstaan.</p>
-
-<p>De redenen, vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek, zijn de redenen tot wraking, vermeld in het eerste lid.</p>
-
-<p>De eerste voorzitter of, als die wordt gewraakt, de oudste kamervoorzitter doet zo spoedig mogelijk uitspraak over het verzoek tot wraking. Als het verzoek wordt ingewilligd, wordt de gewraakte bestuursrechter vervangen.</p>
-
-<p>De bestuursrechter die weet dat er een reden tot wraking tegen hem bestaat, onthoudt zich van de zaak en laat zich vervangen.<br>
+<p>§1. Een bestuursrechter van een Vlaams bestuursrechtscollege die weet dat er een reden tot wraking tegen hem bestaat als vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek onthoudt zich van de zaak en laat zich vervangen.<br>
 <br>
-Naast de redenen, vermeld in het tweede lid, gelden voor het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), de volgende bijkomende redenen tot wraking:<br>
-1° de redenen, vermeld in artikel 829, tweede lid, van het Gerechtelijk Wetboek;<br>
-2° de hoedanigheid van lid van een rechtspersoon als vermeld in artikel 24, §4, van de Grondwet, verantwoordelijk voor de universiteit of de hogeschool waaraan de kwestieuze beslissing werd genomen, of van een personeelslid van die universiteit of hogeschool;<br>
-3° de hoedanigheid, vermeld in punt 2°, hebben gehad in een periode van drie jaar die aan het ingestelde beroep voorafgaat.</p>
+§2. De partijen kunnen bestuursrechters die zich over het beroep of bezwaar moeten uitspreken en tegen wie een reden tot wraking bestaat, schriftelijk en op gemotiveerde wijze wraken tot de zaak in beraad genomen wordt, tenzij de reden tot wraking later is ontstaan.<br>
+<br>
+De redenen, vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek, zijn redenen tot wraking als vermeld in het eerste lid.<br>
+<br>
+§3. Het besluit van de gewraakte bestuursrechter om niet in te gaan op het ingestelde wrakingsverzoek, wordt vastgesteld in een beschikking die de beweegredenen voor de afwijzing van het verzoek uitdrukkelijk weergeeft.<br>
+<br>
+De griffier betekent de beschikking, vermeld in het eerste lid, samen met het wrakingsverzoek aan de partijen. De partijen kunnen hierover een nota indienen binnen een vervaltermijn van vijf dagen, die ingaat op de dag na de betekening van de voormelde beschikking.<br>
+<br>
+Als de partij die het wrakingsverzoek heeft ingesteld, geen nota als vermeld in het tweede lid indient binnen de termijn, vermeld in het tweede lid, wordt zij geacht te berusten in de afwijzing ervan.<br>
+&nbsp;<br>
+Als de partij die het wrakingsverzoek heeft ingesteld, volhardt in haar wrakingsverzoek, worden de partijen uitgenodigd om te verschijnen op een zitting waarop het wrakingsverzoek wordt behandeld door de voorzitter van het Vlaams bestuursrechtscollege of, als die wordt gewraakt, door de oudste kamervoorzitter van het bestuursrechtscollege. Nadat de partijen zijn gehoord, wordt zonder verwijl bij tussenarrest uitspraak gedaan over het wrakingsverzoek.<br>
+<br>
+§4. Bij inwilliging van een wrakingsverzoek wordt de gewraakte bestuursrechter vervangen.<br>
+<br>
+§5. Naast de redenen, vermeld in paragraaf 2, tweede lid, gelden voor het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), de volgende bijkomende redenen tot wraking:<br>
+1°&nbsp;&nbsp; &nbsp;de redenen, vermeld in artikel 829, tweede lid, van het Gerechtelijk Wetboek;<br>
+2°&nbsp;&nbsp; &nbsp;het lidmaatschap van een rechtspersoon als vermeld in artikel 24, §4, van de Grondwet, die verantwoordelijk is voor de universiteit of de hogeschool waaraan de kwestieuze beslissing is genomen, of van een personeelslid van die universiteit of hogeschool;<br>
+3°&nbsp;&nbsp; &nbsp;een lid als vermeld in punt 2° zijn geweest in een periode van drie jaar die aan het ingestelde beroep voorafgaat.</p>
 
 ### ART. 14.
 
@@ -299,7 +308,7 @@ De Raad voor Verkiezingsbetwistingen doet uitspraak over het bezwaar binnen vijf
 
 <p>Van de beslissing van de Raad voor Verkiezingsbetwistingen waarbij de verkiezingen geheel of gedeeltelijk ongeldig worden verklaard of de zetelverdeling wordt gewijzigd, wordt tegelijkertijd naar de eerste voorzitter van de Raad van State een eensluidend verklaard afschrift van de uitspraak, van het administratief dossier en van de procedurestukken gestuurd.</p>
 
-<p>Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de betrokkenen binnen acht dagen nadat is kennisgegeven van de beslissingen van de Raad voor Verkiezingsbetwistingen, op de griffie inzage nemen in het dossier.</p>
+<p>Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming kunnen de betrokkenen binnen acht dagen nadat is kennisgegeven van de beslissingen van de Raad voor Verkiezingsbetwistingen, op de griffie inzage nemen in het dossier.</p>
 
 ### ART. 27.
 
@@ -307,7 +316,7 @@ De Raad voor Verkiezingsbetwistingen doet uitspraak over het bezwaar binnen vijf
 
 ### ART. 28.
 
-<p>De personen die op de hoogte moeten worden gebracht van de beslissing van de Raad voor Verkiezingsbetwistingen, kunnen, met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), binnen acht dagen na de kennisgeving of de mededeling van het feit dat de termijn van veertig dagen is verstreken inzage nemen in het dossier op de griffie en binnen diezelfde termijn beroep instellen bij de Raad van State.<br>
+<p>De personen die op de hoogte moeten worden gebracht van de beslissing van de Raad voor Verkiezingsbetwistingen, kunnen, met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming, binnen acht dagen na de kennisgeving of de mededeling van het feit dat de termijn van veertig dagen is verstreken inzage nemen in het dossier op de griffie en binnen diezelfde termijn beroep instellen bij de Raad van State.<br>
 <br>
 De Raad van State doet uitspraak binnen een termijn van zestig dagen. De verkiezing kan door de Raad van State alleen geheel of gedeeltelijk ongeldig worden verklaard op grond van onregelmatigheden die de zetelverdeling tussen de verschillende lijsten kunnen beïnvloeden.</p>
 
@@ -381,7 +390,9 @@ Als het verzoek een aanpassing van het leerkrediet betreft, kan het Vlaamse best
 
 ### ART. 32.
 
-<P>Een Vlaams bestuursrechtscollege spreekt zijn arresten uit in openbare   zitting.<BR></P>  <P>Elk arrest van een Vlaams bestuursrechtscollege wordt met redenen   omkleed.<BR></P>  <P>De arresten van een Vlaams bestuursrechtscollege worden ondertekend door de   kamervoorzitter en de griffier.<BR></P>
+<p>Elk arrest van een Vlaams bestuursrechtscollege wordt met redenen omkleed en wordt openbaar bekendgemaakt op de wijze bepaald bij artikel 46, eerste lid.</p>
+
+<p>De arresten van een Vlaams bestuursrechtscollege worden ondertekend door de kamervoorzitter en de griffier.</p>
 
 ### ART. 33.
 
@@ -658,6 +669,45 @@ Elk arrest vermeldt in voorkomend geval de beslissing dat het arrest wordt   bek
 ### ART. 48.
 
 De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams Parlement en aan de Vlaamse Regering. Het jaarverslag omvat een overzicht   van de activiteiten van de Vlaamse bestuursrechtscolleges gedurende het   voorgaande jaar.<BR>
+
+## HOOFDSTUK 6/1 Verwerking van persoonsgegevens
+
+### ART 48/1.
+
+§1. Conform de bepalingen van dit decreet verwerken de Vlaamse bestuursrechtscolleges, vermeld in artikel 2, 1°, en de dienst van de Bestuursrechtscolleges de persoonsgegevens, vermeld in paragraaf 3, als afzonderlijke verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De verwerking van de persoonsgegevens, vermeld in paragraaf 3, is noodzakelijk om te voldoen aan een wettelijke verplichting in de zin van artikel 6, lid 1, c), van de algemene verordening gegevensbescherming, namelijk de decretale taken die krachtens en overeenkomstig de bepalingen van dit decreet worden uit- geoefend door de Vlaamse bestuursrechtscolleges, vermeld in artikel 2, 1°, en waaraan ook de dienst van de Bestuursrechtscolleges uitvoering verleent. De verwerkingen die plaatsvinden in het kader van de rechtspleging in dit verband, zijn eveneens noodzakelijk voor het vervullen van een taak van algemeen belang die aan de verwerkingsverantwoordelijken is opgedragen, in de zin van artikel 6, lid 1, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, of de dienst van de Bestuursrechtscolleges kan de persoonsgegevens, vermeld in paragraaf 3, verwerken van de volgende categorieën van betrokken personen:<br>
+1° &nbsp; de natuurlijke personen die als partij optreden in een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege of die worden geïdentificeerd als belanghebbende of betrokkene in het kader van de goede en zorgvuldige behandeling van een dergelijk beroep;<br>
+2° de natuurlijke personen die als vertegenwoordiger van een partij optreden in een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege of die als bemiddelaar, deskundige of getuige betrokken zijn bij de behandeling van een dergelijk beroep;<br>
+3° de natuurlijke personen die rechtstreeks of onrechtstreeks betrokken zijn bij de bestuurlijke besluitvormingsprocedure, beroepsprocedure of verkiezingsproces die voorafgaat aan een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege;<br>
+4° de natuurlijke personen van wie persoonsgegevens worden aangeleverd door de partijen in het kader van de procesvoering in een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege of waarvan de verwerking van persoonsgegevens noodzakelijk is voor de zorgvuldige afhandeling van een dergelijk beroep.<br>
+<br>
+§3. De volgende categorieën van persoonsgegevens van de betrokken personen, vermeld in paragraaf 2, kunnen worden verwerkt in het kader van het doeleinde, vermeld in paragraaf 1, tweede lid:<br>
+1° de identiteitsgegevens;<br>
+2° de contactgegevens;<br>
+3° het rijksregisternummer;<br>
+4° de beroepsgegevens en de gegevens over professionele activiteiten;<br>
+5° de financiële identificatiegegevens en de gegevens over de financiële situatie van een natuurlijke persoon;<br>
+6° de woningkenmerken;<br>
+7° de informatie over de studievoortgang en examenbekwaamheidsresultaten;<br>
+8° de bijzondere categorieën van persoonsgegevens, vermeld in artikel 9 en 10 van de algemene verordening gegevensbescherming, waaronder medische gegevens, gezondheidsgegevens, gegevens over de politieke voorkeur of opvatting en gerechtelijke gegevens, met inbegrip van informatie over strafrechtelijke vervolging of veroordelingen en strafbare feiten;<br>
+9° alle andere categorieën van persoonsgegevens die de partijen aanleveren of die noodzakelijk zijn voor de zorgvuldige afhandeling van een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°.<br>
+<br>
+Als de verwerkingen van de persoonsgegevens, vermeld in het eerste lid, betrekking hebben op bijzondere categorieën van gevoelige persoonsgegevens, zijn de voormelde verwerkingen toegelaten op grond van artikel 9, lid 2, f), van de algemene verordening gegevensbescherming.<br>
+&nbsp;<br>
+§4. Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, en de dienst van de Bestuursrechtscolleges kunnen alleen mededeling of toegang tot de persoonsgegevens, vermeld in paragraaf 3, verlenen aan:<br>
+1° de natuurlijke personen, rechtspersonen en overheidsinstanties die als partij optreden in een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege of die worden geïdentificeerd als belanghebbende of betrokkene in het kader van de goede en zorgvuldige behandeling van een dergelijk beroep;<br>
+2° de natuurlijke personen of rechtspersonen en hun medewerkers die als vertegenwoordiger van een partij optreden in een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege;<br>
+3° de natuurlijke personen die als bemiddelaar, deskundige of getuige betrokken zijn bij de behandeling van een jurisdictioneel beroep bij een Vlaams bestuursrechtscollege;<br>
+4° het personeel of de vertegenwoordigers van bepaalde overheidsinstanties en gerechtelijke instanties in het kader van de wettelijke of decretale bevoegdheden van de voormelde instanties die verband houden met de opdrachten van de Vlaamse bestuursrechtscolleges. De toegang is in dit verband beperkt tot de persoonsgegevens die noodzakelijk zijn in het kader van de uitoefening van de voormelde wettelijke of decretale bevoegdheden.<br>
+<br>
+§5. De bestuursrechters en het personeel van de dienst van de Bestuursrechtscolleges die toegang tot of doorgifte van de persoonsgegevens, vermeld in paragraaf 3, hebben verkregen, nemen het vertrouwelijke karakter van de voormelde gegevens in acht.<br>
+<br>
+§6. De persoonsgegevens die conform dit artikel worden verwerkt en die vereist zijn voor de authenticatie van de gebruiker op het digitale platform, en voor het gebruik ervan, worden vijf jaar bewaard.<br>
+<br>
+De maximale bewaringstermijnen voor de andere persoonsgegevens dan de persoonsgegevens, vermeld in het eerste lid, die overeenkomstig dit artikel worden verwerkt, worden, conform artikel 5, lid 1, e), van de algemene verordening gegevensbescherming, vastgelegd op twintig jaar.
 
 ## HOOFDSTUK 7 Rechtspositieregeling van de bestuursrechters
 
