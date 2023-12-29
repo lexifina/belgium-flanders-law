@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039120,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-08 tot opheffing van het besluit van de Vlaamse Regering van 14 september 2012 tot erkenning van de beroepskwalificatie departementsverantwoordelijke groot verkooppunt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039120/VolledigDocument?datum=2023-12-29",
+  "source_sha256": "ddfc9c66fd8220ad3d348105f4b6d65f47c3fcdc651e197494c3680acc7e7c22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039120&param=informatie",
+  "as_of": "2023-12-29",
+  "made": "2023-12-08",
+  "gazette": "2023-12-19",
+  "numac": 2023048335,
+  "document_start": "2023-12-29",
+  "document_end": null,
+  "in_force": "2023-12-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
