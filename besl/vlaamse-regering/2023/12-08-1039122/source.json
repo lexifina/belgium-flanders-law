@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039122,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-08 houdende de herverdeling van begrotingsartikel CB0-1CBG2AM-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039122/VolledigDocument?datum=2023-12-30",
+  "source_sha256": "56d4dac2d8d096824c99630e594b638cd652028f8e310a955d07f597c6a32871",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039122&param=informatie",
+  "as_of": "2023-12-30",
+  "made": "2023-12-08",
+  "gazette": "2023-12-20",
+  "numac": 2023048350,
+  "document_start": "2023-12-30",
+  "document_end": null,
+  "in_force": "2023-12-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-12-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
