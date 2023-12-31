@@ -173,77 +173,63 @@ De beheersovereenkomsten die de Vlaamse Regering sluit met organisaties uit het 
 
 ### ART 19.
 
-Het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten te Antwerpen, opgericht bij het koninklijk besluit van 22 september 1931 betreffende het Koninklijk Museum voor Schone Kunsten te Antwerpen - rechtspersoonlijkheid, dat rechtspersoonlijkheid geniet bij wet van 27 juni 1930, wordt geregeld overeenkomstig de bepalingen van dit hoofdstuk.
+...
 
 ### ART 20.
 
-Het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten te Antwerpen wordt bestuurd door een beheerscommissie.<br>
-<br>
-De beheerscommissie is samengesteld uit:<br>
-1° de voorzitter, de ondervoorzitter en het onafhankelijk bestuurslid aangeduid als secretaris, van de raad van bestuur van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
-2° één afgevaardigde van de stad Antwerpen.
+...
 
 ### ART 21.
 
-De leden van de beheerscommissie, vermeld in artikel 20, tweede lid, 1°, worden door hun aanstelling in de raad van bestuur van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen van rechtswege benoemd als lid van de commissie, voor de termijn van hun bestuursmandaat bij dat agentschap.<br>
-<br>
-Het lid van de beheerscommissie, vermeld in artikel 20, tweede lid, 2°, wordt door de stad Antwerpen benoemd. De stad Antwerpen kan op elk moment een nieuwe afgevaardigde benoemen.
+...
 
 ### ART 22.
 
-De leden van de beheerscommissie oefenen hun mandaat onbezoldigd uit. Aan de leden kan evenwel een vergoeding voor reis- en verblijfkosten worden toegekend.
+...
 
 ### ART 23.
 
-De voorzitter, de ondervoorzitter en de secretaris van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen zijn van rechtswege voorzitter, ondervoorzitter en secretaris van de beheerscommissie.
+...
 
 ### ART 24.
 
-In geval van afwezigheid of ontslag van de voorzitter wordt zijn functie waargenomen door de ondervoorzitter of, bij zijn ontslag of afwezigheid, door de oudste van de aanwezige bestuurders.<br>
-<br>
-De beheerscommissie kan slechts een geldige beslissing nemen wanneer de meerderheid van de leden aanwezig is. Bij staking van stemmen, is de stem van de voorzitter beslissend.
+...
 
 ### ART 25.
 
-De beheerscommissie vergadert na bijeenroeping door de voorzitter of, bij diens afwezigheid, door de ondervoorzitter. De beheerscommissie wordt schriftelijk bijeengeroepen en, behoudens in dringende gevallen, minstens zeven kalenderdagen voor de datum van de geplande vergadering. De bijeenroeping vermeldt de agenda, de datum en het uur van de vergadering.
+...
 
 ### ART 26.
 
-De beslissingen van de beheerscommissie worden opgenomen in de notulen die worden ondertekend door de voorzitter en de secretaris. Zij worden van kracht na goedkeuring in de eerstvolgende vergadering. De notulen worden opgestuurd aan alle leden van de beheerscommissie.<br>
-<br>
-De beheerscommissie vertegenwoordigt het eigen vermogen in en buiten rechte. Het eigen vermogen wordt in alle handelingen in en buiten rechte rechtsgeldig vertegenwoordigd door de gezamenlijke handtekening van de voorzitter en de secretaris.
+...
 
 ### ART 27.
 
-De beheerscommissie staat in voor het beheer van het eigen vermogen.<br>
-<br>
-De beheerscommissie zal de engagementen en verplichtingen nakomen die zijn aangegaan door de commissie Eigen Vermogen conform het koninklijk besluit van 22 september 1931 Koninklijk Museum voor Schone Kunsten te Antwerpen - rechtspersoonlijkheid.
+...
 
 ### ART 28.
 
-De beheerscommissie stelt een huishoudelijk reglement op voor haar leden.
+...
 
 ### ART 29.
 
-De beheerscommissie mag werken laten uitvoeren in het belang van de vereniging zonder winstoogmerk Koninklijk Museum voor Schone Kunsten Antwerpen en de kunstwerken die deze vereniging zonder winstoogmerk beheert.
+...
 
 ### ART 30.
 
-Ieder jaar maakt de beheerscommissie het ontwerp van begroting op van haar ontvangsten en uitgaven.<br>
-<br>
-Ieder jaar stelt de beheerscommissie de rekening van het vorige begrotingsjaar op.
+...
 
 ### ART 31.
 
-Uiterlijk op 1 april van elk jaar zal de beheerscommissie aan de Vlaamse Regering verslag uitbrengen over haar activiteiten gedurende het vorige werkingsjaar.
+...
 
 ### ART 32.
 
-De Vlaamse Regering mag voorschrijven dat de rekeningen van het vermogen op geregelde tijdstippen zullen worden nagezien.
+...
 
 ### ART 33.
 
-Het koninklijk besluit van 22 september 1931 Koninklijk Museum voor Schone Kunsten te Antwerpen - rechtspersoonlijkheid, gewijzigd bij de besluiten van de Vlaamse Regering van 15 juli 2011 en 4 juli 2014, wordt opgeheven, met uitzondering van artikel 1.
+...
 
 ## HOOFDSTUK 7. Studiecentrum voor Vlaamse Muziek
 
