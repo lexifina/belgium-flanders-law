@@ -69,17 +69,7 @@ Binnen de maximumcapaciteit, vermeld in artikel 1, 3°, wordt de volgende voorbe
 
 ### ART 5.
 
-Binnen de maximumcapaciteit, vermeld in artikel 1, 1° a) tot en met c) en 2° a) tot en met d), en tot het bereiken van de maximumcapaciteit van de afdeling gesloten oriëntatie, wordt respectievelijk de volgende capaciteit georganiseerd voor kortverblijf voor een periode van minimum vijf dagen en maximum veertien dagen:&nbsp;<br>
-1° in campus De Markt: 10 plaatsen gesloten begeleiding voor jongens;<br>
-2° in campus Wingene: 10 plaatsen gesloten begeleiding voor jongens;<br>
-<br>
-De capaciteit voor kortverblijf kan uitsluitend in de volgende gevallen worden ingezet voor een jeugddelict gepleegd vóór 1 maart 2023:<br>
-1° in geval van een vervangende maatregel wegens het niet-naleven van voorwaarden, na feiten die, als ze door een meerderjarige zouden zijn gepleegd, in de zin van het Strafwetboek of de bijzondere wetten, een straf van vijf tot tien jaar opsluiting of een zwaardere straf tot gevolg hebben;<br>
-2° in geval van een vervangende sanctie wegens het niet-naleven van een positief project, ambulante sanctie of voorwaarden, na feiten die, als ze door een meerderjarige zouden zijn gepleegd in de zin van het Strafwetboek of de bijzondere wetten, een straf van vijf tot tien jaar opsluiting of een zwaardere straf tot gevolg hebben.<br>
-<br>
-De capaciteit voor kortverblijf kan uitsluitend in de volgende gevallen worden ingezet voor een jeugddelict gepleegd vanaf 1 maart 2023:<br>
-1° in geval van een vervangende maatregel als vermeld in artikel 25, §8, derde, vierde en vijfde lid, van het decreet van 15 februari 2019, wegens het niet-naleven van voorwaarden, na feiten die, als ze door een meerderjarige zouden zijn gepleegd, in de zin van het Strafwetboek of de bijzondere wetten, een correctionele hoofdgevangenisstraf van drie jaar of een zwaardere straf tot gevolg kunnen hebben;<br>
-2° in geval van een vervangende sanctie als vermeld in artikel 32, derde lid, artikel 33, derde lid, en artikel 34, §1, derde lid, van het decreet van 15 februari 2019, wegens het niet- naleven van een positief project, ambulante sanctie of voorwaarden, na feiten die, als ze door een meerderjarige zouden zijn gepleegd, in de zin van het Strafwetboek of de bijzondere wetten, een correctionele hoofdgevangenisstraf van drie jaar of een zwaardere straf tot gevolg kunnen hebben.
+...
 
 ## Hoofdstuk 2. De afdelingen, de organisatie en de maximumcapaciteit van het Vlaams detentiecentrum
 
