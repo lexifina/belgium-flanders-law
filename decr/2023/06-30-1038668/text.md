@@ -20,6 +20,14 @@ In artikel 14 van het decreet van 11 februari 2022 tot vaststelling van de regel
 
 De saldi op de rekeningen van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten te Antwerpen, alsook de rechten en verplichtingen die eraan verbonden zijn, worden uiterlijk voor 31 december 2023 overgedragen aan het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk, opgericht bij het decreet van 26 januari 2018 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk.
 
+### ART 4.
+
+Artikel 1 van het koninklijk besluit van 22 september 1931 betreffende het Koninklijk Museum voor Schone Kunsten te Antwerpen - rechtspersoonlijkheid wordt opgeheven.
+
+### ART 5.
+
+In het decreet van 29 maart 2019 houdende diverse bepalingen in het beleidsveld cultuur wordt hoofdstuk 6, dat bestaat uit artikel 19 tot en met 33, opgeheven.
+
 ## Afdeling 3. Subsidies aan de vzw Centrum voor de Bibliografie van de Neerlandistiek
 
 ### ART 6.

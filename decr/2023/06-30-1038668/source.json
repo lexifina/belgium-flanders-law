@@ -2,16 +2,16 @@
   "codex_id": 1038668,
   "title": "Decreet van 2023-06-30 Programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038668/VolledigDocument?datum=2023-09-08",
-  "source_sha256": "be008e66d119cc5aa1d1c699ee5874ee0b3b0c88a3c91e12b621dc49fb5a41b9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038668/VolledigDocument?datum=2023-12-31",
+  "source_sha256": "d6c807eb538c35b47aa44e35fe3bf911747527fe27445b6e92919ef7a0b6aa37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038668&param=informatie",
-  "as_of": "2023-09-08",
+  "as_of": "2023-12-31",
   "made": "2023-06-30",
   "gazette": "2023-08-29",
   "numac": 2023044295,
   "document_start": "2023-09-08",
   "document_end": null,
-  "in_force": "2023-09-08",
-  "article_versions": 38,
-  "record_form": "consolidated version as in force on 2023-09-08; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-12-31",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2023-12-31; future article versions excluded; article text as the API gives it"
 }
