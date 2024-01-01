@@ -1281,7 +1281,7 @@ In afwijking van artikel 5.191, § 1, tweede lid, 1°, van het Besluit Vlaamse C
 
 ### ART 44/1.
 
-In afwijking van artikel 5.191, § 3 van het besluit Vlaamse Codex Wonen van 2021, bedraagt het percentage van het in aanmerking te nemen investeringsbedrag voor de aanvragen die worden ingediend voor 1 januari 2024:<br>
+In afwijking van artikel 5.191, § 3 van het besluit Vlaamse Codex Wonen van 2021, bedraagt het percentage van het in aanmerking te nemen investeringsbedrag voor de aanvragen die worden ingediend voor 1 januari 2025:<br>
 1° 50% voor de verhuurder;<br>
 2° 50% voor de bewoner als het inkomen dat conform artikel 5.187, eerste lid van het Besluit Vlaamse Codex Wonen van 2021 is bepaald, voldoet aan de inkomensgrenzen, vermeld in artikel 5.187, derde lid van het Besluit Vlaamse Codex Wonen van 2021;<br>
 3° 35% in alle andere gevallen.
