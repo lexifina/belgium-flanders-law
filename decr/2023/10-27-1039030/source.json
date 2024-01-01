@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039030,
+  "title": "Decreet van 2023-10-27 tot wijziging van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, het Digitaal Kiesdecreet van 25 mei 2012 en het decreet van 22 december 2017 over het lokaal bestuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039030/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "af9a72dd5cff4a5b01e284f3c7fce69aaeff4ce1de8628edaf1fb33d858f71d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039030&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-10-27",
+  "gazette": "2023-12-05",
+  "numac": 2023047576,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 93,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
