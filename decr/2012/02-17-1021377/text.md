@@ -151,11 +151,23 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART. 18.
 
-Met behoud van de toepassing van artikelen 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 125 euro tot 1.250 euro, of met een van die straffen alleen :<br />1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br />2° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br /><br />
+...
 
 ### ART. 19.
 
-Met behoud van de toepassing van artikelen 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2.500 euro, of met een van die straffen alleen :<br />1° personen die wetens en willens een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br />2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br />3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br />4° personen die wetens en willens een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br />5° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden : <br />a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br />b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br />6° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden : <br />a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van dergelijke gegevens verandert;<br />b) hebben gebruik gemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br />7° personen die, om ten onrechte een subsidie te verkrijgen of doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictief persoon, een fictieve onderneming of een andere fictieve gebeurtenis, of om op andere wijze misbruik te maken van het vertrouwen.<br /><br />
+Met behoud van de toepassing van artikelen 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2.500 euro, of met een van die straffen alleen :<br>
+1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+5° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
+6° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van dergelijke gegevens verandert;<br>
+b) hebben gebruik gemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
+7° personen die, om ten onrechte een subsidie te verkrijgen of doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictief persoon, een fictieve onderneming of een andere fictieve gebeurtenis, of om op andere wijze misbruik te maken van het vertrouwen.<br>
+&nbsp;
 
 ### ART. 20.
 
@@ -175,7 +187,10 @@ Als de benadeelde derden zich geen burgerlijke partij hebben gesteld, veroordeel
 
 ### ART. 24.
 
-Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de bij dit decreet vastgestelde overtredingen. In geval van herhaling is artikel 85 van het Strafwetboek niet van toepassing.<br /><br />Inbreuken op de bepalingen van dit decreet en de uitvoeringsbesluiten ervan verjaren na verloop van vijf jaar, na het feit waaruit de vordering is ontstaan.<br /><br />
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.<br>
+<br>
+Inbreuken op de bepalingen van dit decreet en de uitvoeringsbesluiten ervan verjaren na verloop van vijf jaar, na het feit waaruit de vordering is ontstaan.<br>
+&nbsp;
 
 ### ART. 25.
 
