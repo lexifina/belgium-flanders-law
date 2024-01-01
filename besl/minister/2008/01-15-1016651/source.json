@@ -2,16 +2,16 @@
   "codex_id": 1016651,
   "title": "Ministerieel besluit van 2008-01-15 tot definitieve erkenning van het Vlaams betaalorgaan voor het Europees Landbouwgarantiefonds (ELGF) en voor het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016651/VolledigDocument?datum=2015-08-23",
-  "source_sha256": "a1b7dca3fb9845e3a3fbcc8b2804f60675acbfa968d87b03861c5742c95e6ffc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016651/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0aa11cdb8a38baebd8ed7ce9ae6de32addeb06e4b3fc2a03a2316cc184e4c714",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016651&param=informatie",
-  "as_of": "2015-08-23",
+  "as_of": "2024-01-01",
   "made": "2008-01-15",
   "gazette": "2008-03-13",
   "numac": 2008200737,
   "document_start": "2008-03-13",
   "document_end": null,
-  "in_force": "2015-08-23",
+  "in_force": "2024-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-08-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
