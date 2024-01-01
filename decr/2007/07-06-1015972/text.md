@@ -16,7 +16,7 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 3.
 
-<p>Bij de SERV wordt de strategische adviesraad opgericht. De strategische adviesraad behoort tot het beleidsdomein Landbouw en Visserij.<br>
+<p>Bij de SERV wordt de strategische adviesraad opgericht. De strategische adviesraad behoort tot het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 De strategische adviesraad heeft geen rechtspersoonlijkheid.<br>
 <br>
@@ -79,6 +79,10 @@ De Vlaamse Regering bepaalt de minimale omvang en samenstelling van het secretar
 
 ## HOOFDSTUK V Landbouw- en visserijrapport
 
+### ART 7/1.
+
+In dit hoofdstuk wordt verstaan onder agentschap: het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023.
+
 ### ART. 8.
 
 Het landbouw- en visserijrapport, hierna het rapport te noemen, bestaat uit :<br />1° een beschrijving, analyse en evaluatie van de toestand van de landbouw en de visserij in Vlaanderen;<br />2° een beschrijving, analyse en evaluatie van het door het beleidsdomein gevoerde landbouw- en visserijbeleid;<br />3° een beschrijving van de verwachte ontwikkelingen van de Vlaamse landbouw en visserij.<br /><br />
@@ -89,11 +93,18 @@ Om de twee jaar wordt het rapport opgesteld.<br /><br />Met behoud van de toepas
 
 ### ART. 10.
 
-Het departement Landbouw en Visserij, hierna het departement te noemen, is belast met het opstellen van het rapport.<br /><br />Een stuurgroep zal het departement bijstaan bij de opmaak van het rapport. Afgevaardigden van de strategische adviesraad maken deel uit van de stuurgroep.<br /><br />
+Het agentschap is belast met het opstellen van het rapport.<br>
+<br>
+Een stuurgroep zal het agentschap bijstaan bij de opmaak van het rapport. Afgevaardigden van de strategische adviesraad maken deel uit van de stuurgroep.<br>
+&nbsp;
 
 ### ART. 11.
 
 Aan het rapport wordt ruime bekendheid gegeven.<br /><br />
+
+### ART 11/1.
+
+De door het agentschap beheerde cijferwebsite beschrijft de toestand van de landbouw- en visserijsector op basis van de meest recente cijfers en bestaande en nieuwe relevante indicatoren.
 
 ## HOOFDSTUK VI Slotbepalingen
 
