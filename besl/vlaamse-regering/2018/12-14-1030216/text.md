@@ -68,7 +68,7 @@ In afwijking van het derde lid wordt de uitvoering van de beslissing tot toewijz
 <br>
 § 2. In afwijking van artikel 3 van het besluit van 27 november 2015 kunnen de geïnterneerde personen die verblijven in een inrichting als vermeld in artikel 2, 5°, van dit besluit, of die een individuele dienstverleningsovereenkomst hebben afgesloten als vermeld in artikel 9 van dit besluit, ten vroegste een budget aanvragen met toepassing van het besluit van 27 november 2015 vanaf de eerste dag van de zevende maand na de maand waarin ze zijn opgenomen in een inrichting als vermeld in artikel 2, 5°, van dit besluit, of waarin de individuele dienstverleningsovereenkomst is gestart.<br>
 <br>
-In afwijking van artikel 22 van het besluit van 27 november 2015 wordt het dossier niet voorgelegd aan de regionale prioriteitencommissie. Er wordt van rechtswege prioriteitengroep 1 toegekend. De vraag naar een budget wordt binnen de prioriteitengroep 1 gerangschikt met de datum van de aanvraag, vermeld in artikel 5 van het besluit van 27 november 2015.<br>
+In afwijking van artikel 22 van het besluit van 27 november 2015 wordt het dossier niet voorgelegd aan de Vlaamse toeleidingscommissie. Er wordt van rechtswege prioriteitengroep 1 toegekend. De vraag naar een budget wordt binnen de prioriteitengroep 1 gerangschikt met de datum van de aanvraag, vermeld in artikel 5 van het besluit van 27 november 2015.<br>
 <br>
 § 3. Als een geïnterneerde persoon met een handicap die verblijft in een inrichting als vermeld in artikel 2, 5°, een aanvraag van ondersteuning als vermeld in artikel 4, indient bij het agentschap, wordt de aanvraag van een budget waarover het agentschap nog geen beslissing heeft genomen op de datum van de aanvraag van ondersteuning als vermeld in artikel 4, van rechtswege stopgezet. De beslissing van het agentschap tot toewijzing van een budget vervalt vanaf de datum van de aanvraag van ondersteuning als vermeld in artikel 4.<br>
 <br>
@@ -119,13 +119,13 @@ Het agentschap controleert of de aanvraag conform het eerste tot en met het vijf
 
 ### ART 6.
 
-§ 1. Als de persoon die zorg en ondersteuning, als vermeld in artikel 4, vraagt of voor wie die zorg en ondersteuning wordt gevraagd, nog niet erkend is als een persoon met een handicap, legt het agentschap het dossier voor aan de provinciale evaluatiecommissie, vermeld in artikel 12 van het besluit van 24 juli 1991.<br>
+§ 1. Als de persoon die zorg en ondersteuning, als vermeld in artikel 4, vraagt of voor wie die zorg en ondersteuning wordt gevraagd, nog niet erkend is als een persoon met een handicap, legt het agentschap het dossier voor aan de Vlaamse toeleidingscommissie, vermeld in artikel 12 van het besluit van 24 juli 1991.<br>
 <br>
-De provinciale evaluatiecommissie, vermeld in het eerste lid, bepaalt of de persoon getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004. De provinciale evaluatiecommissie steunt haar beoordeling op het verslag, vermeld in artikel 5, eerste lid, 2°, van dit besluit.<br>
+De Vlaamse toeleidingscommissie, vermeld in het eerste lid, bepaalt of de persoon getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004. De Vlaamse toeleidingscommissie steunt haar beoordeling op het verslag, vermeld in artikel 5, eerste lid, 2°, van dit besluit.<br>
 <br>
-De aanvrager kan vragen om te worden gehoord door de provinciale evaluatiecommissie, vermeld in het eerste lid.<br>
+De aanvrager kan vragen om te worden gehoord door de Vlaamse toeleidingscommissie, vermeld in het eerste lid.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 wordt het dossier niet voorgelegd aan de provinciale evaluatiecommissie, vermeld in artikel 12 van het besluit van 24 juli 1991, als de persoon zich in een van de situaties bevindt, vermeld in artikel 2, § 2bis, van het voormelde besluit. De persoon die zich bevindt in een van de situaties, vermeld in het voormelde artikel 2, § 2bis, wordt automatisch erkend als een persoon met een handicap.<br>
+§ 2. In afwijking van paragraaf 1 wordt het dossier niet voorgelegd aan de Vlaamse toeleidingscommissie, vermeld in artikel 12 van het besluit van 24 juli 1991, als de persoon zich in een van de situaties bevindt, vermeld in artikel 2, § 2bis, van het voormelde besluit. De persoon die zich bevindt in een van de situaties, vermeld in het voormelde artikel 2, § 2bis, wordt automatisch erkend als een persoon met een handicap.<br>
 <br>
 § 3. Het agentschap onderzoekt of is voldaan aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004.<br>
 <br>
@@ -214,7 +214,7 @@ Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 De werkingsmiddelen, vermeld in het eerste lid, mogen niet aangewend worden voor reservevorming, voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
-In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden overeenkomstig artikel 8, §1, van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden overeenkomstig artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
 Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de volgende formule: (basisbedrag x index december 20../index december 2017).<br>
 <br>
