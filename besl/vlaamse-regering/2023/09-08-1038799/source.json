@@ -2,16 +2,16 @@
   "codex_id": 1038799,
   "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huurprijsberekening en huursubsidie voor huurders van ingehuurde sociale woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038799/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "cd5467396887b7ed378e208025376aa6648d04e80a8a4eb85fa71030ef26ed04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038799/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "df22aad69bf99be02578d994190fb6772ee44a811507ad09228a0add0cf2cd98",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038799&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "2023-09-08",
   "gazette": "2023-10-18",
   "numac": 2023045613,
   "document_start": "2024-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
