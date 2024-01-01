@@ -37,7 +37,7 @@ b) van varkens : de fysieke persoon of rechtspersoon aan wie het klopnummer is t
 17° uitvoeringsverordening (EU) nr. 2017/1184: de uitvoeringsverordening (EU) 2017/1184 van de Commissie van 20 april 2017 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de schema's van de Unie voor de indeling van runder-, varkens- en schapenkarkassen en wat betreft de mededeling van marktprijzen voor bepaalde categorieën karkassen en levende dieren;<br>
 18° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
 
-<p>Het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij wordt aangewezen als bevoegde autoriteit in de zin van dit besluit.</p>
+<p>Het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, wordt aangewezen als bevoegde autoriteit in de zin van dit besluit.</p>
 
 ## [HOOFDSTUK 2 Aanbiedingsvorm en ontvetting van en in te delen runderen (verv. BVR 18 oktober 2019, art. 2, I: 7 december 2019)]
 
@@ -212,6 +212,14 @@ Tijdens de testprocedure, vermeld in het eerste lid, worden minimaal de volgende
 De minister kan de voorwaarden waaraan de elementen, vermeld in het tweede lid, moeten voldoen, vastleggen en kan ook bijkomende elementen vastleggen die tijdens de testprocedure moeten worden nagegaan.<br>
 <br>
 Als uit de testprocedure, vermeld in het eerste lid, blijkt dat het afgeschermde registratiesysteem niet correct werkt, of dat niet meer voldaan is aan de voorwaarden vermeld in artikel 6/1 tot en met artikel 6/4, stelt de bevoegde autoriteit de inrichting daarvoor verantwoordelijk en kunnen de sancties, vermeld in artikel 56 en volgende van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, worden opgelegd.
+
+### ART 6/6.
+
+In afwijking van het gebruik van een afgeschermd registratiesysteem, vermeld in artikel 6/1 tot en met 6/5, kan de inrichting er ook voor kiezen om te werken met een checksum.&nbsp;<br>
+<br>
+De checksum, vermeld in het eerste lid, wordt door de constructeur van een weegtoestel of van een erkende indelingsmethode geprogrammeerd, en gecertificeerd ten aanzien van de bevoegde autoriteit.&nbsp;<br>
+<br>
+De constructeur, vermeld in het tweede lid, is verplicht om de nodige checksumsoftware aan de bevoegde autoriteit te bezorgen om de databestanden te controleren.
 
 ### ART. 7.
 
@@ -626,6 +634,27 @@ De kosten die verbonden zijn aan de mededeling van de gegevens, kunnen, na goedk
 <br>
 De minister bepaalt de wijze waarop de gegevens meegedeeld moeten worden voor de actoren die aangewezen worden met toepassing van paragraaf 2, tweede lid, en paragraaf 3, tweede lid.</p>
 
+## HOOFDSTUK 7/1 Stamboekverwerkingen
+
+### ART 42/1.
+
+Stamboekverenigingen van runderen, vermeld in artikel 2, 5), van verordening (EU) 2016/1012 van het Europees Parlement en de Raad van 8 juni 2016 betreffende de zoötechnische en genealogische voorwaarden voor het fokken van, de handel in en de binnenkomst in de Unie van raszuivere fokdieren, hybride fokvarkens en levende producten daarvan en tot wijziging van Verordening (EU) nr. 652/2014, de Richtlijnen 89/608/EEG en 90/425/EEG van de Raad en tot intrekking van bepaalde handelingen op het gebied van dierfokkerij (“Fokkerijverordening”), zijn de verwerkingsverantwoordelijken, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van persoonsgegevens om te voldoen aan de wettelijke verplichting die op de verwerkingsverantwoordelijken rust, vermeld in artikel 25 en bijlage III van de voormelde verordening (EU) 2016/1012, conform artikel 6, lid 1, c), van de voormelde verordening (EU) 2016/679.&nbsp;<br>
+<br>
+Om de fokwaarden te berekenen, kunnen de volgende categorieën van gegevens, die direct of indirect gekoppeld zijn aan persoonsgegevens, verwerkt worden:<br>
+1° het oormerknummer van het rund, inclusief landcode;&nbsp;<br>
+2° het beslagnummer van het rund, inclusief landcode;&nbsp;<br>
+3° het nummer van het slachthuis in gecodeerde vorm;&nbsp;<br>
+4° de slachtdatum;&nbsp;<br>
+5° het nummer van de classificeerder in gecodeerde vorm;&nbsp;<br>
+6° de categorie;&nbsp;<br>
+7° de klasse en eventueel de subklasse van bevleesdheid;&nbsp;<br>
+8° de klasse en eventueel subklasse van vetheid;&nbsp;<br>
+9° de code aanbiedingsvorm;&nbsp;<br>
+10° het niet gecorrigeerd warm karkasgewicht;&nbsp;<br>
+11° het naar standaard aanbiedingsvorm omgerekend warm karkasgewicht.&nbsp;<br>
+<br>
+De verwerkingsverantwoordelijken, vermeld in het eerste lid, kunnen de gegevens, vermeld in het tweede lid, alleen gebruiken voor die dieren die bij hen ingeschreven staan in de hoofdsectie van het stamboek, vermeld in artikel 2, 12), a), van de voormelde verordening (EU) 2016/1012.
+
 ## HOOFDSTUK 8 Indelingsverantwoordelijken en classificeerders
 
 ## Afdeling 1 Indelingsverantwoordelijken
@@ -636,7 +665,7 @@ De minister bepaalt de wijze waarop de gegevens meegedeeld moeten worden voor de
 
 <p>De indelingsverantwoordelijken kunnen door de inrichting pas aangewezen worden nadat ze :<br>
 1° een vorming over de indelingsmethode in kwestie hebben gevolgd bij de CBKc;<br>
-2° een uittreksel uit het strafregister hebben voorgelegd aan de bevoegde autoriteit;<br>
+2° ...;<br>
 3° ten aanzien van de bevoegde autoriteitbewezen hebben dat ze over de nodige kennis van de indelingsmethode in kwestie beschikken;<br>
 4° ten aanzien van de bevoegde autoriteit bewezen hebben dat ze over de nodige kennis van de wetgeving inzake de indeling van runderen of varkens beschikken.<br>
 <br>
@@ -695,7 +724,7 @@ De minister kan de verdere invulling van de aanvraag tot erkenning bepalen.</p>
 ### ART. 46.
 
 Om erkend te kunnen worden moet een classificeerder aan de volgende voorwaarden voldoen :<br>
-1° een uittreksel uit het strafregister voorleggen aan de bevoegde autoriteit;<br>
+1° ...;<br>
 2° de vorming, vermeld in artikel 47, gevolgd hebben bij de CBKc;<br>
 3° slagen voor het examen, vermeld in artikel 48;<br>
 4° ten aanzien van de bevoegde autoriteit bewezen hebben dat hij op de hoogte is van de wetgeving inzake de indeling van geslachte&nbsp;runderen of geslachte varkens;<br>
