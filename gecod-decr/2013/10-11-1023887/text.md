@@ -3232,7 +3232,7 @@ De geslaagde kandidaten worden gerangschikt in volgorde van de behaalde numeriek
 <br>
 De geslaagde kandidaten met de hoogste behaalde scores worden gunstig gerangschikt, rekening houdend met de quota, vermeld in paragraaf 4.<br>
 <br>
-Dubbel gerangschikte kandidaten die voor beide toelatingsexamens in aanmerking komen voor een gunstige rangschikking, worden uitsluitend gunstig gerangschikt voor de opleiding van hun keuze, vermeld in paragraaf 8.<br>
+Kandidaten die voor meerdere toelatingsexamens in aanmerking komen voor een gunstige rangschikking, worden uitsluitend gunstig gerangschikt voor de opleiding met de hoogste voorkeur, vermeld in paragraaf 8.<br>
 <br>
 De lijst met de gunstig gerangschikte kandidaten wordt definitief bekendgemaakt uiterlijk vóór 1 augustus van het lopende jaar.<br>
 <br>
@@ -3277,13 +3277,12 @@ De Vlaamse Regering benoemt de voorzitter, de secretaris en de leden van de exam
 De examencommissie telt, voorzitter en secretaris uitgezonderd, minimaal tien en maximaal twintig leden.<br>
 <br>
 De leden van de examencommissie worden op zodanige wijze aangeduid uit de leden van het zelfstandig academisch personeel van de universiteiten dat de nodige expertise aanwezig is op het vlak van de medische, de tandheelkundige en de diergeneeskundige praktijk, de inhoud van de vakken, de onderwijskunde en de psychologie<br>
-.<br>
 <br>
 § 8. De examens worden op zodanige wijze georganiseerd dat studenten per academiejaar aan de toelatingsexamens, vermeld in paragraaf 1 en 2, en in artikel II.187/1, kunnen deelnemen.<br>
 <br>
-Kandidaten voor beide toelatingsexamens, vermeld in paragraaf 1 en 2, melden bij hun inschrijving uitdrukkelijk voor welke opleiding ze een voorkeur hebben.<br>
+Kandidaten voor meerdere toelatingsexamens als vermeld in paragraaf 1 en 2, en in artikel II.187/1, melden bij hun inschrijving uitdrukkelijk hun voorkeursvolgorde van de opleidingen.<br>
 <br>
-De keuze, vermeld in het tweede lid, is bindend. Door die keuze worden kandidaten als ze voor een dubbele gunstige rangschikking in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 3, zesde lid, voor de opleiding van hun keuze.<br>
+De volgorde, vermeld in het tweede lid, is bindend. Door die volgorde worden kandidaten als ze voor meerdere rangschikkingen in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 3, zesde lid, voor de opleiding met de hoogste voorkeur.<br>
 <br>
 § 9. Het slagen voor het toelatingsexamen arts en het toelatingsexamen tandarts in een bepaald burgerlijk jaar wordt alleen aanvaard voor het voldoen aan de bijkomende toelatingsvoorwaarde als de student uiterlijk op 30 september van dat burgerlijk jaar voldoet aan de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178.<br>
 <br>
@@ -3307,7 +3306,7 @@ Het toelatingsexamen dierenarts beoogt het toetsen van de bekwaamheid van de stu
 <br>
 De kandidaten die ten minste de helft van de punten behalen op elk examenonderdeel, voldoen aan de voorwaarde voor rangschikking. Kandidaten die aan deze voorwaarde voldoen, worden gerangschikt in de volgorde van de behaalde numerieke totaalscore.<br>
 <br>
-De gerangschikte kandidaten met de hoogst behaalde scores worden gunstig gerangschikt, rekening houdend met het startquotum, vermeld in paragraaf 3.<br>
+De gerangschikte kandidaten met de hoogst behaalde scores worden gunstig gerangschikt, rekening houdend met het startquotum, vermeld in paragraaf 3.&nbsp;Kandidaten die voor meerdere toelatingsexamens in aanmerking komen voor een gunstige rangschikking, worden uitsluitend gunstig gerangschikt voor de opleiding met de hoogste voorkeur, vermeld in paragraaf 7.<br>
 <br>
 De lijst met de gunstig gerangschikte kandidaten wordt definitief bekendgemaakt uiterlijk vóór 1 augustus van het jaar waarin het toelatingsexamen dierenarts is georganiseerd.<br>
 <br>
@@ -3345,6 +3344,10 @@ d) maakt vooraf het examenprogramma bekend en publiceert na afloop van de examen
 § 6. De toelatingsexamens, vermeld in dit artikel en in artikel II.187, worden georganiseerd door dezelfde examencommissie, zoals omschreven in artikel II.187, § 7.<br>
 <br>
 § 7. De toelatingsexamens worden op zodanige wijze georganiseerd dat studenten per academiejaar aan de toelatingsexamens, vermeld in paragraaf 1, en in artikel II.187, §1 en §2, kunnen deelnemen.<br>
+<br>
+Kandidaten voor meerdere toelatingsexamens als vermeld in paragraaf 1 en 2 en in artikel II.187/1, melden bij hun inschrijving uitdrukkelijk hun voorkeursvolgorde van de opleidingen.<br>
+<br>
+De volgorde, vermeld in het tweede lid, is bindend. Door die volgorde worden kandidaten als ze voor meerdere gunstige rangschikkingen in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 2, vijfde lid, voor de opleiding met de hoogste voorkeur.<br>
 <br>
 § 8. De gunstige rangschikking voor het toelatingsexamen dierenarts in een bepaald burgerlijk jaar wordt alleen aanvaard voor het voldoen aan de bijkomende toelatingsvoorwaarde als de student uiterlijk op 30 september van dat burgerlijk jaar voldoet aan de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178.<br>
 <br>
@@ -6603,7 +6606,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 <br>
 1°&nbsp;&nbsp;&nbsp;voor de professioneel gerichte opleidingen aan de hogescholen :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
@@ -6737,7 +6740,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>2°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de hogescholen :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
@@ -6824,7 +6827,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>3°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de universiteiten :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
@@ -7109,7 +7112,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 <p>4°&nbsp;&nbsp; voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Architectuur, Industriële wetenschappen en technologie, Biotechniek, Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht als volgt:</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; height:12.3pt">
@@ -7511,7 +7514,7 @@ Doctoraten die over de studiegebieden heen gerangschikt worden, worden voor de b
 <br>
 §2. Opleidingen die over de studiegebieden heen gerangschikt worden, worden voor de bepaling van het puntengewicht gerangschikt in het studiegebied met het laagste puntengewicht dat in de combinatie voorkomt.<br>
 <br>
-§3. In afwijking van paragraaf 1, punt 1°, d), bedraagt vanaf het begrotingsjaar 2014 het puntengewicht voor de bacheloropleiding “bachelor in de audiovisuele kunsten” 1,00.<br>
+§3. In afwijking van paragraaf 1, punt 1°, d), bedraagt vanaf het begrotingsjaar 2014 het puntengewicht voor de bacheloropleiding “bachelor in de audiovisuele kunsten” 1,00 en bedraagt vanaf het begrotingsjaar 2024 het puntengewicht voor de bacheloropleiding “bachelor in visual design” 1,00.<br>
 <br>
 §4. In de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten wordt een bijkomend puntengewicht toegekend overeenkomstig het volgende schema:
 <p>1°&nbsp;&nbsp; studiegebied Audiovisuele en beeldende kunst :</p>
@@ -7522,7 +7525,9 @@ Doctoraten die over de studiegebieden heen gerangschikt worden, worden voor de b
 
 <p>c)&nbsp;&nbsp;&nbsp; tot en met het begrotingsjaar 2013 wordt voor de organisatie van de academische bachelor- en masteropleiding in de conservatie-restauratie samen, de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 6.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</p>
 
-<p>d)&nbsp;&nbsp;&nbsp; vanaf het begrotingsjaar 2014 wordt voor de organisatie van de professionele bacheloropleiding “bachelor in de audiovisuele kunsten” de som van het aantal opgenomen studiepunten, vermeld in artikel III. 12, §2, en het aantal verworven studiepunten, vermeld in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 12.000 studiepunten, vermenigvuldigd met een puntengewicht 2.</p>
+<p>d)&nbsp;&nbsp;&nbsp; vanaf het begrotingsjaar 2014 wordt voor de organisatie van de professionele bacheloropleiding “bachelor in de audiovisuele kunsten” de som van het aantal opgenomen studiepunten, vermeld in artikel III. 12, §2, en het aantal verworven studiepunten, vermeld in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 12.000 studiepunten, vermenigvuldigd met een puntengewicht 2.<br>
+<br>
+e) vanaf het begrotingsjaar 2024 wordt voor de organisatie van de professionele bacheloropleiding “bachelor in visual design” de som van het aantal opgenomen studiepunten, vermeld in artikel III.12, §2, en het aantal verworven studiepunten, vermeld in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 9.000 studiepunten, vermenigvuldigd met een puntengewicht 2.</p>
 
 <p>2°&nbsp;&nbsp; studiegebied Muziek en podiumkunsten :</p>
 
@@ -7532,11 +7537,13 @@ Doctoraten die over de studiegebieden heen gerangschikt worden, worden voor de b
 
 <p>c)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de dans wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 1.500 studiepunten, vermenigvuldigd met een puntengewicht 4;</p>
 
-<p>d)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de pop- en rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 9.000 studiepunten, vermenigvuldigd met een puntengewicht 2,5.</p>
-
-<p>&nbsp;</p>
-
-<p>Voor de berekening van het aantal financieringspunten FPi-diploma-initieel, vermeld in artikel III.14, is voor de opleidingen vermeld in het eerste lid, het puntengewicht gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
+<p>d)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de pop- en rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 9.000 studiepunten, vermenigvuldigd met een puntengewicht 2,5.<br>
+<br>
+e) voor de organisatie van de masteropleiding “master in de dans” wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 600 studiepunten, vermenigvuldigd met een puntengewicht 3;<br>
+<br>
+f)&nbsp;&nbsp; &nbsp;voor de organisatie van de masteropleiding “master in musical” wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 900 studiepunten, vermenigvuldigd met een puntengewicht 3.<br>
+<br>
+Voor de berekening van het aantal financieringspunten FPi-diploma-initieel, vermeld in artikel III.14, is voor de opleidingen vermeld in het eerste lid, het puntengewicht gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
 
 <p>&nbsp;</p>
 
@@ -8069,6 +8076,12 @@ Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, ge�
 §13. Vanaf het begrotingsjaar 2023 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) en de universiteiten met 7.941.650 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
 <br>
 Vanaf het begrotingsjaar 2024 wordt het bedrag, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+§14. Vanaf het begrotingsjaar 2024 worden de totale werkingsmiddelen van de hogescholen, inclusief de Hogere Zeevaartschool, met 8 miljoen euro vermeerderd. Van dit bedrag wordt 683.000 euro toegevoegd aan het variabel onderwijs- deel voor de kunstopleidingen in de Schools of Arts (VOWhko2014). Het resterende bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
+<br>
+Vanaf het begrotingsjaar 2024 worden de totale werkingsmiddelen van de universiteiten met 20 miljoen euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
+<br>
+De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2024 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
 &nbsp;
 
 ### ART. III.25.
@@ -8081,15 +8094,40 @@ Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en 
 
 ### ART III.25/2.
 
-In het kader van een verhoging van de quota, vermeld in artikel II.187, §4, kan de Vlaamse Regering vanaf het begrotingsjaar 2023 binnen de beschikbare budgettaire ruimte een bijkomende werkingstoelage toekennen voor de universiteiten die een bacheloropleiding aanbieden in het studiegebied Geneeskunde en/of Tandheelkunde.<br>
+§1. In het kader van een verhoging van de quota, vermeld in artikel II.187, §4, kan de Vlaamse Regering vanaf het begrotingsjaar 2023 binnen de beschikbare budgettaire ruimte een bijkomende werkingstoelage toekennen voor de universiteiten die een bacheloropleiding aanbieden in het studiegebied Geneeskunde en/of Tandheelkunde.<br>
 <br>
-De universiteiten kunnen de bijkomende middelen, vermeld in het eerste lid, enkel aanwenden voor werking of infrastructuur investeringen. Deze bijkomende middelen voor het begrotingsjaar t worden verdeeld over de desbetreffende universiteiten op basis van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een bacheloropleiding in het studiegebied Geneeskunde en/of Tandheelkunde.
+De universiteiten kunnen de bijkomende middelen, vermeld in het eerste lid, enkel aanwenden voor werking of infrastructuur investeringen. Deze bijkomende middelen voor het begrotingsjaar t worden verdeeld over de desbetreffende universiteiten op basis van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een bacheloropleiding in het studiegebied Geneeskunde en/of Tandheelkunde.<br>
+<br>
+§2. Vanaf het begrotingsjaar 2024 wordt de totale werkingsuitkering voor de universiteiten vermeerderd met 10 miljoen euro. Dit bedrag wordt als volgt verdeeld over de universiteiten die een bacheloropleiding aanbieden in het studiegebied Geneeskunde of Tandheelkunde:<br>
+1° &nbsp; een sokkel van 200.000 euro voor elk van de desbetreffende universiteiten; 2° een variabel deel voor elk van de desbetreffende universiteiten op basis van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een of meer van de volgende opleidingen:<br>
+a)&nbsp;&nbsp; &nbsp;bachelor in de geneeskunde;<br>
+b)&nbsp;&nbsp; &nbsp;master in de geneeskunde;<br>
+c)&nbsp;&nbsp; &nbsp;master in de huisartsengeneeskunde;<br>
+d)&nbsp;&nbsp; &nbsp;master in de specialistische geneeskunde;<br>
+e)&nbsp;&nbsp; &nbsp;bachelor in de tandheelkunde;<br>
+f)&nbsp;&nbsp; &nbsp;master in de tandheelkunde.<br>
+<br>
+Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.
 
 ### ART III.25/3.
 
 In het kader van de verplichte remediëring, vermeld in artikel II.188/1, kent de Vlaamse Regering vanaf het begrotingsjaar 2023 een bijkomende werkingstoelage van 1.100.567 euro toe aan de hogescholen en 1.034.927 euro aan de universiteiten. Deze toelage voor het begrotingsjaar t wordt over de instellingen verdeeld op basis van het gemiddelde aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor de bacheloropleidingen waarvoor deelname aan een starttoets een voorwaarde voor inschrijving is in academiejaar t/t+1.<br>
 <br>
 De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2023 jaarlijks geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, §9.
+
+### ART III.25/4.
+
+Ter versterking van de lerarenopleidingen wordt vanaf het begrotingsjaar 2024 de totale werkingsuitkering van de hogescholen en de universiteiten vermeerderd met 15 miljoen euro. Dit totale bedrag wordt als volgt verdeeld over de hogescholen en universiteiten die een lerarenopleiding als vermeld in artikel II.111 aanbieden:<br>
+1° &nbsp;een sokkel van 150.000 euro voor elk van de desbetreffende universiteiten en hogescholen;<br>
+2° een variabel deel voor elk van de desbetreffende universiteiten of hogescholen op basis van het aantal opgenomen studiepunten waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een lerarenopleiding als vermeld in artikel II.111. Voor het begrotingsjaar 2024 worden de opgenomen studiepunten van het academiejaar 2021-2022 in aanmerking genomen. Voor het begrotingsjaar 2025 wordt het gemiddeld aantal opgenomen studiepunten over de academiejaren 2021-2022 en 2022-2023 in aanmerking genomen. Vanaf het begrotingsjaar 2026 wordt het gemiddeld aantal opgenomen studiepunten over de academiejaren t-5/t-4 tot en met t-3/t-2 in aanmerking genomen, waarbij t slaat op het begrotingsjaar.<br>
+<br>
+Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.
+
+### ART III.25/5.
+
+In het begrotingsjaar 2024 wordt eenmalig de totale werkingsuitkering van de hogescholen en universiteiten vermeerderd met 706.680 euro.<br>
+<br>
+Dit bedrag wordt verdeeld over de hogescholen die in het academiejaar 2023- 2024 een procedure voor opleidingsaccreditatie doorlopen hebben voor de educatieve graduaatsopleidingen en over de universiteiten die in het academiejaar 2022-2023 een procedure voor opleidingsaccreditatie doorlopen hebben voor de educatieve masteropleidingen a rato van het aantal educatieve graduaatsopleidingen en het aantal educatieve masteropleidingen per instelling.
 
 ### ART. III.26.
 
@@ -9772,7 +9810,7 @@ In het begrotingsjaar 2017 wordt in het kader van artikel II.117 een bedrag van 
 <br>
 In het begrotingsjaar 2019 wordt een bedrag van 163.719 euro toegevoegd aan het bedrag van de sociale toelage van de universiteiten en een bedrag van 803.211 euro aan het bedrag van de sociale toelage van de hogescholen. Vanaf het begrotingsjaar 2020 worden deze bedragen verhoogd tot respectievelijk 491.157 euro jaarlijks toe te voegen aan het bedrag van de sociale toelage van de universiteiten en 2.409.632 euro, jaarlijks toe te voegen aan het bedrag van de sociale toelage van de hogescholen.<br>
 <br>
-In het begrotingsjaar 2024 evalueert de Vlaamse Regering of de bedragen van de sociale toelage aan de universiteiten en de hogescholen nog in overeenstemming zijn met de evoluties van het aantal en het profiel van de studenten. Deze evaluatie zal de Vlaamse Regering elke vier jaar uitvoeren.<br>
+Vanaf het begrotingsjaar 2024 wordt een bedrag van 2,8 miljoen euro toegevoegd aan het bedrag van de sociale toelage voor de universiteiten en een bedrag van 3,2 miljoen euro aan het bedrag van de sociale toelage van de hogescholen.<br>
 <br>
 § 2. De bedragen, berekend overeenkomstig dit artikel, worden binnen de perken van de jaarlijkse begrotingskredieten jaarlijks geïndexeerd aan de hand van de volgende formule : I = 0,50 x (L1/L0) + 0,50 x (Cl/CO), waarbij<br>
 1° I : de indexformule;<br>
@@ -9970,6 +10008,21 @@ De loonkosten voor in artikel V.228 bedoelde personeelsleden worden vooraf genom
 ### ART. III.98.
 
 <P style="MARGIN: 0cm 0cm 0pt">Onder de voorwaarden bepaald door de Vlaamse Regering draagt de Vlaamse   Gemeenschap bij in het dekken van de kosten van projecten van internationale   samenwerking op het vlak van het hogescholenonderwijs.<?xml:namespace prefix = o ns   = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
+
+### ART III.98/0.
+
+De Vlaamse Regering kan vanaf het begrotingsjaar 2024 een beheersovereenkomst met een looptijd van vijf jaar afsluiten met een via oproep geselecteerde partner voor de monitoring en de bevordering van het welbevinden van de studenten, waarin ten minste de volgende elementen voorkomen en worden afgesproken:<br>
+a)&nbsp;&nbsp; &nbsp;een begroting en beleidsplan voor de looptijd van de beheersovereenkomst;<br>
+b)&nbsp;&nbsp; &nbsp;de kwantiteit en de kwaliteit van de te leveren prestaties;<br>
+c)&nbsp;&nbsp; &nbsp;de jaarlijkse monitorings- en rapporteringsafspraken.<br>
+<br>
+De jaarlijkse financiële ondersteuning die in de beheersovereenkomst wordt afgesproken, bedraagt maximaal 300.000 euro.<br>
+<br>
+De Vlaamse Regering kan de hoogte van de basissubsidie herzien afhankelijk van de mate waarin de in de beheersovereenkomst afgesproken doelstellingen worden gehaald.<br>
+<br>
+De Vlaamse Regering kan een deel van de financiële ondersteuning inhouden en zo nodig terugvorderen indien de Vlaamse Regering vaststelt dat de partner de beheersovereenkomst niet naleeft.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het bedrag, vermeld in het tweede lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.
 
 ## [Hoofdstuk 9 Steunpunt Inclusief Hoger Onderwijs (SIHO) (ing. decr. 25 april 2014, art. VI.28, I: 1 juli 2014)]
 
