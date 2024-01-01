@@ -27,7 +27,7 @@ In dit besluit wordt verstaan onder :<br>
 2° erkende brede weersverzekering : verzekering die de schade dekt veroorzaakt door ongunstige weersomstandigheden en die door de bevoegde entiteit als subsidiabel erkend wordt conform de voorwaarden van dit besluit;<br>
 3° ongunstige weersomstandigheden : vorst, stormen, hagel, ijs, hevige of aanhoudende regen of ernstige droogte, die met een natuurramp kunnen worden gelijkgesteld;<br>
 4° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
-5° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+5° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 6° open teelt : alle niet permanent overkapte teelten van de gewasgroepen akkerbouw, grasland, fruitteelt, vollegrondsgroenten, sierteelt en boomkwekerij;<br>
 7° landbouwgrond : het landbouwareaal, vermeld in artikel 4, lid 1, (e), van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
 8° verzekeraar : een verzekeraar als vermeld in artikel 5, 1°, van de wet van 4 april 2014 betreffende de verzekeringen.
