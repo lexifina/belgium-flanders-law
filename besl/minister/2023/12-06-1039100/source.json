@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039100,
+  "title": "Ministerieel besluit van 2023-12-06 tot wijziging van het ministerieel besluit van 26 maart 2015 tot delegatie van specifieke bevoegdheden aan het hoofd van het Departement Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039100/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "64fed0f87147c8502578ef2d80f53679b7a55fd85e832cf5782ce3c725fd8eb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039100&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-06",
+  "gazette": "2023-12-14",
+  "numac": 2023048105,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
