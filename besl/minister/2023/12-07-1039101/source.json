@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039101,
+  "title": "Ministerieel besluit van 2023-12-07 tot wijziging van het ministerieel besluit van 29 november 2019 houdende vaststelling van de verboden lijst, vermeld in artikel 9 van het Antidopingdecreet van 25 mei 2012, wat de Verboden Lijst 2024 betreft",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039101/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "fe5b659dc173ed55360839b678f55e84f094e4427bfd19a7b9284e1e9aabc56d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039101&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-07",
+  "gazette": "2023-12-13",
+  "numac": 2023048106,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
