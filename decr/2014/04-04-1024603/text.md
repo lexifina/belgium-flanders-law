@@ -396,7 +396,9 @@ Als het verzoek een aanpassing van het leerkrediet betreft, kan het Vlaamse best
 
 ### ART. 33.
 
-<p>Een Vlaams bestuursrechtscollege legt in zijn arrest het geheel of een deel van de kosten ten laste van de partij die ten gronde in het ongelijk gesteld wordt.<br>
+<p>Een Vlaams bestuursrechtscollege legt in zijn arrest het geheel of een deel van de kosten ten laste van de partij die in het ongelijk gesteld wordt.<br>
+<br>
+Een Vlaams bestuursrechtscollege spreekt zich in zijn arrest meteen uit over de kosten van de vordering waarop het arrest betrekking heeft.<br>
 <br>
 Indien toepassing wordt gemaakt van artikel 34 dan legt een Vlaams bestuursrechtscollege de kosten geheel of gedeeltelijk ten laste van de verwerende partij.<br>
 <br>
@@ -588,7 +590,7 @@ De bemiddelaar kan ook derden bij de bemiddeling betrekken.<br>
 <br>
 § 3. Als de bemiddeling tot een bemiddelingsakkoord leidt, kunnen de partijen of een van hen de Raad voor Vergunningsbetwistingen verzoeken dat akkoord te bekrachtigen.<br>
 <br>
-Als het bemiddelingsakkoord wordt bekrachtigd, worden in afwijking van artikel 33, eerste lid, de kosten zoals vermeld in artikel 33, derde en vierde lid, gelijk verdeeld over de partijen, tenzij anders bepaald wordt in het bemiddelingsakkoord.<br>
+Als het bemiddelingsakkoord wordt bekrachtigd, worden in afwijking van artikel 33, eerste lid, de kosten zoals vermeld in artikel 33, vierde en vijfde lid, gelijk verdeeld over de partijen, tenzij anders bepaald wordt in het bemiddelingsakkoord.<br>
 <br>
 De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als het akkoord strijdig is met de openbare orde, de regelgeving of stedenbouwkundige voorschriften.<br>
 <br>
