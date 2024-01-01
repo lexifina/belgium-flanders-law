@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039162,
+  "title": "Decreet van 2023-12-22 over het Vastgoedinformatieplatform",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039162/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "38b5652c16da4ef0bf592d1b8ce7e33dbcae8bda485bd88f89dd1d4aed055b27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039162&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-22",
+  "gazette": "2023-12-29",
+  "numac": 2023048665,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
