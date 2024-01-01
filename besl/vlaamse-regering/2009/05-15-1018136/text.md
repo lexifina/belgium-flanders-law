@@ -167,7 +167,7 @@ De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het ja
 
 ### ART. 16.
 
-Op basis van het goedgekeurde jaarplan kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, jaarlijks aan het Vlaams Netwerk een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft. De jaarlijkse subsidie-enveloppe bedraagt 874.281,39 euro op 1 januari 2023.<br>
+Op basis van het goedgekeurde jaarplan kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, jaarlijks aan het Vlaams Netwerk een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft. De jaarlijkse subsidie-enveloppe bedraagt 953.892,74 euro op 1 januari 2024.<br>
 &nbsp;
 
 ### ART. 17.

@@ -2,16 +2,16 @@
   "codex_id": 1018136,
   "title": "Besluit van de Vlaamse Regering van 2009-05-15 [betreffende de armoedebestrijding]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018136/VolledigDocument?datum=2023-10-12",
-  "source_sha256": "4a21e715dab4ca9c369fe95311b09d50ef7931ff37534af30778458e1d95745e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018136/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0d0557dd2523c68c55771d2873dda57cc6c7bf127314e922b92084a852396de0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018136&param=informatie",
-  "as_of": "2023-10-12",
+  "as_of": "2024-01-01",
   "made": "2009-05-15",
   "gazette": "2009-07-16",
   "numac": 2009203091,
   "document_start": "2009-07-16",
   "document_end": null,
-  "in_force": "2023-10-12",
+  "in_force": "2024-01-01",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2023-10-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
