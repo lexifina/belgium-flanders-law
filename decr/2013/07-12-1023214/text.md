@@ -302,33 +302,37 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART. 37.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 50 euro tot 500 euro, of met een van die straffen alleen :<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een geldboete van 50 euro tot 500 euro :<br>
 1° het maatwerkbedrijf, zijn lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan of competentieprofiel op te stellen en hen jaarlijks te evalueren;<br>
 2° ...
 
 ### ART. 38.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 125 euro tot 1.250 euro, of met een van die straffen alleen :<br>
-1° personen die de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
-2° personen die een subsidie hebben verkregen of die een subsidie behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een geldboete van 100 tot 1000 euro:<br>
+1° ...;<br>
+2° ...;<br>
 3° het maatwerkbedrijf, zijn lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van dit decreet;<br>
 4° ...<br>
-5° het maatwerkbedrijf, zijn lasthebbers of aangestelden die de bepalingen van artikel 32 tot en met 34 van dit decreet niet naleven.
+5° het maatwerkbedrijf, zijn lasthebbers of aangestelden die de bepalingen van artikel 32 tot en met 34 van dit decreet niet naleven.<br>
+<br>
+De geldboete die wordt opgelegd met toepassing van het eerste lid, 5°, wordt vermenigvuldigd met het aantal doelgroepwerknemers dat in de enclavewerking werkt waarop de vastgestelde inbreuk betrekking heeft. De vermenigvuldigde geldboete mag evenwel niet meer bedragen dan het honderdvoud van de maximumgeldboete.
 
 ### ART. 39.
 
 Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2.500 euro, of met een van die straffen alleen :<br>
-1° personen die wetens en willens de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
-2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-4° personen die wetens en willens de subsidie ten onrechte hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+1° personen die de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die de subsidie ten onrechte hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 5° personen die, om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
 a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
 b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
 6° personen die, om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
 a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
 b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
-7° personen die, om de subsidie ten onrechte te verkrijgen of doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
+7° personen die, om de subsidie ten onrechte te verkrijgen of doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.<br>
+<br>
+Voor de inbreuken, vermeld in het eerste lid, die de werkgever, zijn lasthebbers of aangestelden hebben gepleegd, wordt de geldboete vermenigvuldigd met het aantal doelgroepwerknemers voor wie onterecht een subsidie is aangevraagd, verkregen of behouden. De vermenigvuldigde geldboete mag even- wel niet meer bedragen dan het honderdvoud van de maximumgeldboete.
 
 ### ART. 40.
 
@@ -352,7 +356,7 @@ De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboete
 
 ### ART. 44.
 
-Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de bij dit decreet vastgestelde overtredingen. In geval van herhaling is artikel 85 van het Strafwetboek niet van toepassing.
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.
 
 ### ART. 45.
 
