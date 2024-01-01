@@ -29,7 +29,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 2° plantgoed: volledige planten en plantendelen, waaronder voor geënte planten de enten inbegrepen die bestemd zijn om te worden uitgeplant voor de productie van groentegewassen;<br>
 3° leverancier: elke natuurlijke persoon of rechtspersoon die beroepshalve teeltmateriaal of volledige planten: vermeerdert, produceert, beschermt, behandelt of in de handel brengt;<br>
 4° in de handel brengen: het ter beschikking of in voorraad houden, tentoonstellen of te koop aanbieden, verkopen of leveren aan een andere persoon, in gelijk welke vorm, van teeltmateriaal of plantgoed;<br>
-5° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+5° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 5° /1 controleorgaan: een publiek- of privaatrechtelijke rechtspersoon die door de minister erkend wordt om de toepassing van dit besluit te controleren;<br>
 6° partij: een aantal eenheden van een product, dat identificeerbaar is door zijn homogene samenstelling en oorsprong;<br>
 7° laboratorium: een door de minister erkende publiek- of privaatrechtelijke dienst die analyses uitvoert en adequate diagnoses stelt aan de hand waarvan de leverancier de kwaliteit van de productie kan controleren;<br>
