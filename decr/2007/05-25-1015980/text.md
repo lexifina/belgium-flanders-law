@@ -19,7 +19,7 @@ a) afbakening bij of in uitvoering van een decreet van de zone, het gebied, de p
 b) opname in, een uitvoering van een decreet, een lijst, een inventaris, een register of ieder ander bestand waarin de percelen zijn opgenomen;<br>
 c) een decretale bepaling, die vaststelt onder welke modaliteiten aan een onroerend goed een Vlaams voorkooprecht wordt toegekend;<br>
 7° e-voorkooploket : uniek elektronisch loket met betrekking tot alle bestaande en toekomstige Vlaamse voorkooprechten;<br>
-8° geografisch themabestand 'Vlaamse voorkooprechten' : bestand dat geselecteerde geografische informatie bevat over de Vlaamse voorkooprechten en dat wordt ontwikkeld, aangemaakt, beheerd, bijgehouden en bekendgemaakt wordt door het agentschap;<br>
+8° geografisch themabestand 'Vlaamse voorkooprechten' : bestand dat geselecteerde geografische informatie bevat over de Vlaamse voorkooprechten en dat wordt ontwikkeld, aangemaakt, beheerd, bijgehouden en bekendgemaakt&nbsp;of ontsloten wordt door het agentschap;<br>
 9° bekendmaking: digitaal openbaar maken door het agentschap van de informatie die opgenomen is in het geografisch themabestand `Vlaamse Voorkooprechten'. Die bekendmaking vindt plaats om middernacht;<br>
 10° begunstigde : rechtspersoon aan wie bij of in uitvoering van een decreet een voorkooprecht is toegekend of zijn gemachtigde;<br>
 11° ruimtelijk geheel : twee of meer kadastrale percelen of delen van kadastrale percelen, die samen een gemeenschappelijke grens hebben;<br>
@@ -30,7 +30,11 @@ c) een decretale bepaling, die vaststelt onder welke modaliteiten aan een onroer
 
 ### ART. 3.
 
-Het agentschap wordt belast met de ontwikkeling, het aanmaken, het   bijhouden en het bekendmaking van het Geografisch themabestand 'Vlaamse   voorkooprechten' ten behoeve van de werking van het e-voorkooploket.<BR><BR>De   toegang tot de informatie opgenomen in het Geografisch themabestand 'Vlaamse   voorkooprechten' is gratis.<BR><BR>De Vlaamse Grondenbank wordt belast met het   ontwikkelen, beheren en openstellen van een e-voorkooploket.<BR>
+Het agentschap wordt belast met de ontwikkeling, het aanmaken, het bijhouden en het bekendmaking van het Geografisch themabestand 'Vlaamse voorkooprechten' ten behoeve van de werking van het e-voorkooploket en met de ontsluiting van het geografisch themabestand ‘Vlaamse voorkooprechten’ via het VIP, vermeld in artikel 2, 20°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform.<br>
+<br>
+De toegang tot de informatie opgenomen in het Geografisch themabestand 'Vlaamse voorkooprechten' is gratis.<br>
+<br>
+De Vlaamse Grondenbank wordt belast met het ontwikkelen, beheren en openstellen van een e-voorkooploket.
 
 ## HOOFDSTUK III. E-voorkooploket
 
@@ -48,10 +52,7 @@ De Vlaamse Regering kan een procedure uitwerken in geval van   onbeschikbaarheid
 
 <p>§ 1. Iedere begunstigde meldt aan het agentschap de Vlaamse voorkooprechten die hem zijn toegekend en waarvoor hij aanbiedingen via het e-voorkooploket wil ontvangen.<br>
 <br>
-Voor de voorkooprechten, vermeld in boek 5, deel 6, van de Vlaamse Codex Wonen van 2021, geldt de volgende regeling:<br>
-1° voor de voorkooprechten, vermeld in artikel 5.76, § 1, eerste lid, van de voormelde codex, moet elke begunstigde zelf de melding doen aan het agentschap;<br>
-2° voor de voorkooprechten, vermeld in artikel 5.76, § 1, tweede lid, 1° en 2°, van de voormelde codex, volstaat de melding door de administratieve eenheid die met de afbakening belast is;<br>
-3° voor de voorkooprechten, vermeld in artikel 5.76, § 1, tweede lid, 3°, van de voormelde codex, volstaat de melding door de Vlaamse Regering of zijn gemachtigde.<br>
+Voor de voorkooprechten, vermeld in artikel 5.76, §1, van de Vlaamse Codex Wonen van 2021, volstaat de melding door de gemeente die de zone heeft afgebakend overeenkomstig artikel 5.76, §1, van de voormelde codex.<br>
 <br>
 § 2. De melding, vermeld in paragraaf 1, wordt digitaal gedaan en bevat:<br>
 1° de aanwijzing van de begunstigden;<br>
@@ -72,7 +73,9 @@ Het agentschap verwerkt de ontvangen informatie en neemt ze op in het   geografi
 
 ### ART. 7.
 
-Het geografisch themabestand 'Vlaamse voorkooprechten' wordt bekend   gemaakt door het agentschap.<BR>
+Het geografisch themabestand 'Vlaamse voorkooprechten' wordt bekend gemaakt door het agentschap.<br>
+<br>
+Het agentschap kan de informatie die is opgenomen in het geografische themabestand ‘Vlaamse voorkooprechten’, ontsluiten via het VIP, vermeld in artikel 2, 20°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform.
 
 ## HOOFDSTUK V. Regels betreffende de Vlaamse voorkooprechten
 
