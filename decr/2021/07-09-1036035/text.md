@@ -1341,6 +1341,149 @@ Aan boek 6, deel 1, van dezelfde codex wordt een artikel 6.3/2 toegevoegd, dat l
 <br>
 Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, een vergoeding betalen aan de verhuurder die een beroep doet op de private partners die aangeduid zijn in de raamovereenkomst, vermeld in het eerste lid.".
 
+### ART 162.
+
+Artikel 6.4 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.4. De Vlaamse Regering voert een centraal woningregister in met betrekking tot de sociale huurwoningen.<br>
+<br>
+De verhuurder bezorgt de gegevens die de Vlaamse Regering vaststelt aan de entiteit die de Vlaamse Regering aanduidt.<br>
+<br>
+De Vlaamse Regering bepaalt de vorm en de inhoud van het centraal woningregister, vermeld in het eerste lid, de wijze waarop dat register wordt bijgehouden en periodiek wordt bijgewerkt, en de wijze waarop het toezicht erop wordt georganiseerd.".
+
+### ART 163.
+
+Artikel 6.5 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.5. De Vlaamse Regering voert een centraal inschrijvingsregister in voor kandidaat-huurders en duidt de entiteit aan die het centraal inschrijvingsregister bijhoudt.<br>
+<br>
+De verhuurder wijst een woning toe aan een kandidaat-huurder op basis van de gegevens uit het centraal inschrijvingsregister. De verhuurder kan de gegevens uit het centraal inschrijvingsregister gebruiken voor de eigen werking.<br>
+<br>
+Voor de werking van het centraal inschrijvingsregister legt de Vlaamse Regering de volgende regels vast:<br>
+1° regels over de vorm en de inhoud van het centraal inschrijvingsregister;<br>
+2° regels over de verantwoordelijkheid om gegevens aan te vullen, aan te passen, te verwijderen, bij te houden en te verwerken in het centraal inschrijvingsregister;<br>
+3° regels over het formaat en de techniek van data-uitwisseling met het centraal inschrijvingsregister;<br>
+4° regels over de toegang tot het centraal inschrijvingsregister en de identificatie daarvoor;<br>
+5° regels over de actualisering van het centraal inschrijvingsregister;<br>
+6° regels over de wijze waarop het toezicht op de werking van het centraal inschrijvingsregister wordt georganiseerd.".
+
+### ART 164.
+
+Artikel 6.6 van dezelfde codex wordt opgeheven.
+
+### ART 165.
+
+Artikel 6.7 van dezelfde codex wordt opgeheven.
+
+### ART 166.
+
+Artikel 6.8 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.8. § 1. De kandidaat-huurder voldoet aan de volgende voorwaarden:<br>
+1° minstens 18 jaar zijn;<br>
+2° voldoen aan de voorwaarden over het onroerend bezit en het inkomen die de Vlaamse Regering vaststelt;<br>
+3° ingeschreven zijn in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten, of ingeschreven zijn op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet;<br>
+4° geen huurovereenkomst hebben gehad met een verhuurder van een sociale huurwoning die tijdens de drie jaar die voorafgaan aan de datum waarop de kandidaat-huurder zich wil inschrijven, beëindigd is door rechterlijke tussenkomst wegens het veroorzaken van ernstige overlast of ernstige verwaarlozing van de sociale huurwoning. De beëindiging van de huurovereenkomst hoeft niet uitsluitend te wijten te zijn aan die wanprestatie.<br>
+<br>
+Echtgenoten, wettelijke samenwoners of feitelijke partners die samen de sociale huurwoning willen gaan bewonen, zijn verplicht zich samen in te schrijven als kandidaat-huurder. Als meer personen, andere dan echtgenoten, wettelijke samenwoners of feitelijke partners, samen de sociale huurwoning willen gaan bewonen, kan maar één persoon zich inschrijven als kandidaat-huurder.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen bepalen op de voorwaarde, vermeld in het eerste lid, 1°.<br>
+<br>
+De verhuurder kan om billijkheidsredenen beslissen om de inschrijvingsvoorwaarde, vermeld in het eerste lid, 4°, buiten toepassing te stellen. In dat geval kan de verhuurder de inschrijving afhankelijk maken van een begeleidingsovereenkomst tussen de kandidaat-huurder en een welzijnsof gezondheidsvoorziening.<br>
+<br>
+§ 2. Als de sociale huurwoning een sociale assistentiewoning is als bepaald door de Vlaamse Regering, is de kandidaat-huurder minstens 65 jaar. Als de kandidaat-huurder twee personen zijn, volstaat het dat een van die personen minstens 65 jaar is.<br>
+<br>
+Als de sociale huurwoning een woning als vermeld in artikel 5.40 is, sluit de kandidaat-huurder een zorgen dienstverleningsovereenkomst met de zorgaanbieder van de nabijgelegen voorziening onder de voorwaarden die de Vlaamse Regering bepaalt. Als de kandidaat-huurder twee personen zijn, volstaat het dat een van die personen de bovenvermelde zorgen dienstverleningsovereenkomst sluit.<br>
+<br>
+§ 3. In afwijking van paragraaf 1, eerste lid, hoeft de kandidaat-huurder niet te voldoen aan de inschrijvingsvoorwaarden als hij op het moment van de kandidaatstelling al huurder is van een andere sociale huurwoning.".
+
+### ART 167.
+
+In artikel 6.9 van dezelfde codex wordt het eerste lid opgeheven.
+
+### ART 168.
+
+Artikel 6.10 van dezelfde codex wordt vervangen door wat volgt:<br>
+"Art. 6.10. Met behoud van de toepassing van artikel 6.12, tweede lid, duidt de kandidaat-huurder bij zijn inschrijving de ligging, het type, de maximale huurprijs en vaste huurlasten aan van de sociale huurwoningen waarvoor hij in aanmerking wil komen.".
+
+### ART 169.
+
+In artikel 6.11 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan het eerste lid wordt de zinsnede ", § 1, eerste lid, 1°, 2° en 3° " toegevoegd;<br>
+<br>
+2° het tweede tot en met het vierde lid worden vervangen door wat volgt:<br>
+<br>
+"In afwijking van het eerste lid hoeft de kandidaat-huurder niet te voldoen aan de toelatingsvoorwaarden als hij op het moment van de toewijzing al huurder is van een andere sociale huurwoning.<br>
+<br>
+De echtgenoot of wettelijke samenwoner van de huurder, vermeld in artikel 6.1, 1°, a), kan alleen met die huurder gaan samenwonen in de sociale huurwoning na de aanvang van de huurovereenkomst, als die samen met die huurder voldoet aan de voorwaarden, vermeld in het eerste lid, en als de bijwoonst niet leidt tot een onaangepaste woning of een woning die niet voldoet aan de normen, vermeld in artikel 3.1, § 1, vierde lid. Als die voorwaarden zijn vervuld, wordt de echtgenoot of wettelijke samenwoner van rechtswege huurder.<br>
+<br>
+De feitelijke partner van de huurder, vermeld in artikel 6.1, 1°, a), die na de aanvang van de huurovereenkomst in de sociale huurwoning is komen bijwonen, kan na een jaar met die huurder te hebben samengewoond, de woning alleen blijven bewonen als de feitelijke partner samen met die huurder voldoet aan de voorwaarden, vermeld in het eerste lid. Als die voorwaarden zijn vervuld, wordt de feitelijke partner van rechtswege huurder.".<br>
+&nbsp;
+
+### ART 170.
+
+Artikel 6.12 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.12. De sociale huurwoningen worden toegewezen door het beslissingsorgaan van de verhuurder of door de persoon of de personen die de verhuurder daartoe aanstelt, rekening houdend met:<br>
+1° de keuze van de kandidaat-huurder van een sociale huurwoning qua type, ligging, maximale huurprijs en vaste huurlasten van de woning;<br>
+2° de rationele bezetting;<br>
+3° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, § 2;<br>
+4° in voorkomend geval het toewijzingsreglement, vermeld in artikel 6.14, dat een lokale invulling geeft aan de toewijzingsregels die de Vlaamse Regering vaststelt.<br>
+<br>
+De voorkeur van de kandidaat-huurder, vermeld in het eerste lid, 1°, mag niet leiden tot een te beperkte keuze, tenzij de kandidaat-huurder daarvoor gegronde redenen aanvoert.<br>
+<br>
+Als een sociale huurwoning die ingehuurd wordt door de verhuurder, wordt toegewezen, kan de verhuurder de toewijzing weigeren als die vaststelt dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de huurprijs. De Vlaamse Regering kan nadere regels bepalen voor de wijze waarop de verhuurder die weigering kan toepassen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van het eerste lid en besteedt bij de vaststelling van de toewijzingsregels extra aandacht aan de kandidaat-huurder die behoort tot de meest behoeftige gezinnen of alleenstaanden, en aan bewoners van een sociale huurwoning die willen of moeten verhuizen naar een aangepaste woning.<br>
+<br>
+Er wordt een toewijzingsraad per werkingsgebied van de woonmaatschappij opgericht. Onder de voorwaarden die de Vlaamse Regering bepaalt, kan het werkingsgebied opgedeeld worden in deelgebieden waarin telkens een eigen toewijzingsraad werkzaam is. De toewijzingsraad is samengesteld uit vertegenwoordigers van de verhuurders, de lokale besturen en de relevante huisvestingsen welzijnsactoren uit het werkingsgebied van de woonmaatschappij. De Vlaamse Regering stelt nadere regels vast voor de opdrachten, de samenstelling, de werking en de besluitvormingsprocedure van de toewijzingsraad. Het mandaat van de leden van de toewijzingsraad is onbezoldigd.<br>
+<br>
+De entiteit, vermeld in artikel 6.5, eerste lid, zorgt ervoor dat de verhuurder actuele toewijzingslijsten kan genereren uit het centraal inschrijvingsregister, vermeld in artikel 6.5. De Vlaamse Regering legt de regels vast over het genereren van die lijsten.".
+
+### ART 171.
+
+In artikel 6.13 van dezelfde codex, waarvan de bestaande tekst paragraaf 1 zal vormen, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden tussen de woorden "Een verhuurder" en het woord "kan" de woorden "of een toewijzingsraad" gevoegd;<br>
+<br>
+2° het derde lid wordt opgeheven;<br>
+<br>
+3° er wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 2. Een verhuurder kan een toewijzing weigeren op grond van zwaarwichtige redenen en als hij een begeleiding of ondersteuning als vermeld in paragraaf 1 niet succesvol acht. De Vlaamse Regering bepaalt de nadere regels.".
+
+### ART 172.
+
+In boek 6, deel 4, titel 2, van dezelfde codex wordt het opschrift van hoofdstuk 2 vervangen door wat volgt:<br>
+"Hoofdstuk 2. Toewijzingsreglement".
+
+### ART 173.
+
+Artikel 6.14 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.14. § 1. De toewijzingsraad, vermeld in artikel 6.12, vijfde lid, stelt onder de voorwaarden die de Vlaamse Regering bepaalt, een ontwerp van het toewijzingsreglement, vermeld in artikel 6.12, eerste lid, 4°, op. De gemeente die deel uitmaakt van de toewijzingsraad kan het ontwerp amenderen wat betreft de toewijzingsregels voor de sociale huurwoningen op haar grondgebied.<br>
+<br>
+De woonmaatschappij bezorgt het toewijzingsreglement en het administratief dossier aan de Vlaamse Regering met een beveiligde zending in de gevallen die de Vlaamse Regering vaststelt.<br>
+<br>
+De Vlaamse Regering beschikt over een termijn van 45 kalenderdagen, die volgt op de datum van de kennisgeving van het toewijzingsreglement en het administratief dossier, om het toewijzingsreglement geheel of gedeeltelijk te vernietigen als ze het toewijzingsreglement in strijd acht met de wetten, decreten en de uitvoeringsbesluiten ervan of het algemeen belang. Als het toewijzingsreglement per aangetekende brief wordt bezorgd, gaat de termijn in vanaf de derde werkdag na de datum waarop het toewijzingsreglement is afgegeven op de post.<br>
+<br>
+De Vlaamse Regering kan de termijn, vermeld in het derde lid, eenmalig verlengen met vijftien kalenderdagen. Ze geeft daarvan kennis aan de woonmaatschappij voordat de oorspronkelijke termijn afloopt.<br>
+<br>
+Voor de berekening van de termijn, vermeld in het derde en vierde lid, is de vervaldag in de termijn begrepen. Als de vervaldag een zaterdag, een zondag, een wettelijke of decretale feestdag is, wordt die verplaatst naar de eerstvolgende werkdag.<br>
+<br>
+De Vlaamse Regering bezorgt de vernietigingsbeslissing met een beveiligde zending aan de woonmaatschappij. De woonmaatschappij brengt de toewijzingsraad daarvan op de hoogte.<br>
+<br>
+§ 2. Als het toewijzingsreglement conform paragraaf 1, tweede lid, bezorgd wordt aan de Vlaamse Regering, treedt het in werking een maand na het verstrijken van de termijn, vermeld in paragraaf 1, derde lid, of de verlengde termijn, vermeld in paragraaf 1, vierde lid, tenzij het toewijzingsreglement een latere datum bepaalt.<br>
+<br>
+§ 3. De woonmaatschappij bezorgt een afschrift van het toewijzingsreglement aan de toezichthouder als de termijn, vermeld in paragraaf 1, derde of vierde lid, is verstreken en er geen vernietiging is uitgesproken. Ook als het toewijzingsreglement, vermeld in artikel 6.12, eerste lid, 4°, conform paragraaf 1, tweede lid, niet bezorgd hoeft te worden aan de Vlaamse Regering, bezorgt de woonmaatschappij een afschrift van het toewijzingsreglement aan de toezichthouder.".
+
+### ART 174.
+
+Artikel 6.15 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.15. De Vlaamse Regering stelt een verhaalprocedure vast voor de potentiële kandidaat-huurder en de kandidaat-huurder die menen dat ze benadeeld zijn door een beslissing van de verhuurder. Die procedure bepaalt de termijn en de vorm waarin de vermelde personen het verhaal moeten indienen, alsook de mogelijkheid om gehoord te worden en de behandeling van het verhaal.".
+
 ### ART 175.
 
 In artikel 6.16, eerste lid, 2°, van dezelfde codex wordt tussen het woord "huurder" en het woord "en" de zinsnede ", van de personen die op duurzame wijze de sociale huurwoning mee gaan bewonen" ingevoegd.
