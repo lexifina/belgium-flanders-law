@@ -110,7 +110,10 @@ h) de vreemdeling die een zelfstandige beroepsactiviteit uitoefent.<br>
 10° sociaalrechtelijke inspecteurs : de beëdigde ambtenaren van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie;<br>
 11° Internationaal Verdrag nr. 81: het Internationaal Verdrag nr. 81 betreffende de arbeidsinspectie in de industrie en de handel, aangenomen te Genève op 11 juli 1947, goedgekeurd bij de wet van 29 maart 1957;<br>
 12° informatiedragers : eender welke informatiedragers in welke vorm ook, zoals boeken, registers, documenten, numerieke of digitale informatiedragers, schijven, banden, met inbegrip van die welke bereikt kunnen worden door een informaticasysteem of door een ander apparaat.<br>
-13° subsidie: elk voordeel, elke vergoeding, toelage, steun of elke andere financiële tegemoetkoming die verleend of toegekend wordt door of op grond van de regelgeving waarop de sociaalrechtelijke inspecteurs toezicht en controle uitoefenen.
+13° subsidie: elk voordeel, elke vergoeding, toelage, steun of elke andere financiële tegemoetkoming die verleend of toegekend wordt door of op grond van de regelgeving waarop de sociaalrechtelijke inspecteurs toezicht en controle uitoefenen;<br>
+14° e-pv: het proces-verbaal tot vaststelling van inbreuken dat door de sociaalrechtelijk inspecteurs wordt aangemaakt en opgeslagen overeenkomstig het in artikel 100/2 van het Sociaal Strafwetboek bedoelde model via de daartoe ontworpen informaticatoepassing;<br>
+15° databank e-PV: de databank, vermeld in artikel 100/6 van het Sociaal Strafwetboek waarin de gegevens van de e-pv’s en de gegevens van de bijlagen bij die e-pv’s opgenomen en bewaard worden;<br>
+16° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ## HOOFDSTUK II DE SOCIAALRECHTELIJKE INSPECTIE
 
@@ -175,13 +178,44 @@ Die kopie wordt hem onmiddellijk of binnen een maand overhandigd of toegezonden.
 <br>
 Het proces-verbaal van verhoor geeft de tekst van dit artikel weer.
 
+### ART 6/3.
+
+Met het oog op een betere elektronische informatie-uitwisseling tussen de verschillende actoren die betrokken zijn bij de strijd tegen de illegale arbeid en de sociale fraude worden de e-pv’s aangemaakt en opgeslagen overeenkomstig het in artikel 100/2 van het Sociaal Strafwetboek bedoelde model via de daartoe ontworpen informaticatoepassing.<br>
+<br>
+De elektronische informatie-uitwisseling in het kader van het e-pv verloopt conform de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid.<br>
+<br>
+Bij de verwerking van de persoonsgegevens met toepassing van dit hoofdstuk worden de identificatienummers, vermeld in artikel 8, §1, van de voormelde wet, gebruikt.<br>
+<br>
+De Vlaamse Sociale Inspectie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens.
+
+### ART 6/4.
+
+§1. Met het oog op de elektronische informatie-uitwisseling, vermeld in artikel 6/3, kunnen de sociaalrechtelijke inspecteurs hun processen-verbaal tot vaststelling van inbreuken elektronisch aanmaken via de informaticatoepassing die daarvoor is ontworpen.<br>
+&nbsp;<br>
+§2. De in paragraaf 1 bedoelde processen-verbaal worden aangemaakt aan de hand van de volgende persoonsgegevens van de volgende instanties:<br>
+1° de identificatie­ en contactgegevens, waaronder het INSZ­nummer, van het Rijksregister van de natuurlijke personen of het BIS-nummer van de Kruispuntbank van de Sociale Zekerheid;<br>
+2° &nbsp; de identificatie­ en contactgegevens van de onderneming.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden uitgewisseld met tussenkomst van de bevoegde dienstenintegratoren als dat van toepassing is.<br>
+<br>
+In het tweede lid wordt verstaan onder dienstenintegrator: een dienstenintegrator als vermeld in artikel 2, 3°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.
+
+### ART 6/5.
+
+Het e-pv wordt door de sociaalrechtelijke inspecteurs elektronisch ondertekend met de gekwalificeerde elektronische handtekening, vermeld in artikel 3, punt 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richt- lijn 1999/93/EG.<br>
+<br>
+Voor de toepassing van dit hoofdstuk wordt, onverminderd artikel 8.18 en volgende van het Burgerlijk Wetboek, het e-pv dat door de sociaalrechtelijke inspecteurs elektronisch is ondertekend conform het eerste lid, gelijkgesteld met een proces-verbaal op papieren drager dat is ondertekend met een handgeschreven handtekening.<br>
+<br>
+De afgeleide, bedoeld in artikel 4, §3, van het kaderdecreet van 14 juli 2023 over de handhaving van de Vlaamse regelgeving, van een door de sociaalrechtelijk inspecteur opgesteld e-pv, wordt voor de opname in de databank e-PV gelijkgesteld met het origineel.
+
 ### ART. 7.
 
 De sociaalrechtelijke inspecteurs hebben bij de uitoefening van hun opdracht het recht om:<br>
 1° zich bij dag en bij nacht, zonder voorafgaande waarschuwing, toegang te verschaffen tot alle werkplaatsen en opleidingscentra die aan hun toezicht onderworpen zijn of tot lokalen waarvan zij redelijkerwijze kunnen vermoeden dat er personen werken of er een opleiding volgen, die onderworpen zijn aan de bepalingen van de regelgeving waarop zij toezicht en controle uitoefenen.<br>
 Tot de bewoonde lokalen hebben zij alleen toegang in één van de volgende gevallen :<br>
 a) de rechter in de politierechtbank heeft daartoe vooraf machtiging tot visitatie verleend;<br>
-b) de persoon die het werkelijke genot heeft van de plaats heeft er voorafgaandelijk en uitdrukkelijk om verzocht of heeft er toestemming voor gegeven. Dat verzoek of die toestemming moet schriftelijk en voorafgaand aan het inspectiebezoek worden gegeven.<br>
+b) de persoon die het werkelijke genot heeft van de plaats heeft er voorafgaandelijk en uitdrukkelijk om verzocht of heeft er toestemming voor gegeven. Dat verzoek of die toestemming moet schriftelijk en voorafgaand aan het inspectiebezoek worden gegeven;<br>
+c) tot vaststelling op heterdaad van een inbreuk.<br>
 De sociaalrechtelijke inspecteurs kunnen de toegang tot bewoonde lokalen na 21 uur en voor 5 uur verkrijgen als zij die vraag bijzonder motiveren voor de politierechter.<br>
 De machtiging tot visitatie die wordt verleend door de rechter in de politierechtbank kan worden betwist voor de bevoegde rechter die een uitspraak doet ten gronde.<br>
 Met uitzondering van de gegevens waaruit de identiteit van de auteur van een eventuele klacht of aangifte kan worden afgeleid, en met behoud van de toepassing van artikel 8, § 2, wordt het geheel van de motiveringsstukken tot het bekomen van de machtiging tot visitatie toegevoegd aan het dossier voor de bevoegde rechter die een uitspraak doet ten gronde;<br>
@@ -223,17 +257,17 @@ Als dat nodig is voor het toezicht, kunnen de sociaalrechtelijke inspecteurs een
 
 § 1. Zonder afbreuk te doen aan de regelgeving over de bescherming van de persoonlijke levenssfeer zoals onder meer voorzien door artikel 8 van het Europees Verdrag voor de Rechten van de Mens&nbsp;en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens nemen de sociaalrechtelijke inspecteurs de nodige maatregelen om het vertrouwelijk karakter te respecteren van de gegevens waarvan ze kennis hebben gekregen in de uitoefening van hun opdracht. Zij kunnen deze gegevens uitsluitend aanwenden voor de uitoefening van hun toezichts- en controleopdrachten.<br>
 <br>
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de sociaalrechtelijke inspecteurs beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het derde tot en met het elfde lid.<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de algemene verordening gegevensbescherming kunnen de sociaalrechtelijke inspecteurs&nbsp;en de aangewezen ambtenaren, vermeld in artikel 15, tweede lid, van dit decreet, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek of een procedure om een administratieve geldboete aan een welbepaalde natuurlijke persoon op te leggen, als voldaan is aan de voorwaarden, vermeld in het derde tot en met het elfde lid.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het tweede lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de sociaalrechtelijke inspecteurs, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+De afwijkingsmogelijkheid, vermeld in het tweede lid, geldt alleen voor de verwerkingen die de voorbereiding, de organisatie, het beheer en de opvolging van een onderzoek of procedure, als vermeld in het tweede lid, tot doel hebben. Deze afwijkingsmogelijkheid geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek, de voorbereidende werkzaamheden die daarmee verband houden, of een procedure voor de eventuele oplegging van een administratieve geldboete in het kader van de decretale en reglementaire opdrachten van de sociaalrechtelijke inspecteurs en de aangewezen ambtenaren, vermeld in artikel 15, tweede lid, van dit decreet, op voorwaarde dat het voor het goede verloop van het onderzoek of de procedure voor de eventuele oplegging van een administratieve geldboete noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
 <br>
 De persoonsgegevens, vermeld in het tweede lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het tweede lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het tweede lid, rechtvaardigt.<br>
+De afwijkingsmogelijkheid, vermeld in het tweede lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat, de controle die, of de procedure voor de eventuele oplegging van een administratieve geldboete die de weigering of beperking van de rechten, vermeld in het tweede lid, rechtvaardigt.<br>
 <br>
 Als de betrokkene in het geval, vermeld in het tweede lid, tijdens de periode, vermeld in het derde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
 <br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het tweede lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de sociaalrechtelijke inspecteurs zou ondermijnen, met behoud van de toepassing van het negende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
+De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het tweede lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de sociaalrechtelijke inspecteurs&nbsp;en de aangewezen ambtenaren, vermeld in artikel 15, tweede lid, zou ondermijnen, met behoud van de toepassing van het negende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
 <br>
 De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
 <br>
@@ -246,6 +280,76 @@ Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar 
 § 2. Behoudens uitdrukkelijke en schriftelijke machtiging van de indiener van een klacht of van een aangifte betreffende een inbreuk op de regelgeving waarop zij toezicht en controle uitoefenen, mogen de sociaalrechtelijke inspecteurs in geen enkel geval de identiteit van de klager bekend maken.<br>
 <br>
 Het is hen eveneens ten strengste verboden om aan het opleidingscentrum, de gebruiker, de werkgever of aan zijn vertegenwoordiger, aangestelde of lasthebber te onthullen dat ingevolge een klacht of een aangifte een onderzoek werd ingesteld.
+
+### ART 8/1.
+
+In dit artikel wordt verstaan onder datawarehouse: een datasysteem met een grote hoeveelheid digitale gegevens die zich lenen voor analyse.<br>
+<br>
+Onverminderd de verwerking van persoonsgegevens met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van de algemene verordening gegevensbescherming, kunnen de Vlaamse Sociale Inspectie en de aangewezen ambtenaren, vermeld in artikel 15, tweede lid, van dit decreet, elk voor zich of samen, met het oog op de preventie, de vaststelling, de vervolging en de bestraffing van de inbreuken op de regelgeving waarvoor ze bevoegd zijn, in voorkomend geval na beraadslaging van de bevoegde gegevensbeschermingsautoriteit, alle gegevens die nodig zijn voor de toepassing van de regelgeving waarvoor ze bevoegd zijn, verzamelen, verwerken en samenvoegen in een datawarehouse waarmee ze in staat worden gesteld om processen van datamining en datamatching, met inbegrip van profile- ring als vermeld in artikel 4, 4), van de algemene verordening gegevensbescherming, uit te voeren.<br>
+<br>
+De Vlaamse Sociale Inspectie kan de processen van datamining en datamatching uitsluitend uitvoeren om profielen met een verhoogd risico op te sporen.<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1° datamining: het gericht zoeken naar verbanden in gegevensverzamelingen met als doel profielen op te stellen voor meer diepgaand onderzoek;<br>
+2° datamatching: het vergelijken van twee sets verzamelde data met elkaar.<br>
+&nbsp;<br>
+De verwerkingsverantwoordelijken voor de gegevensverwerking, vermeld in het tweede lid, zijn de Vlaamse Sociale Inspectie en de Cel Administratieve Geldboeten, waartoe de aangewezen ambtenaren, vermeld in artikel 15, tweede lid behoren, die, elk voor hun respectieve bevoegdheden, voor de verwerking in het datawarehouse in kwestie instaan.<br>
+<br>
+Onverminderd artikel III.87 en volgende van het Bestuursdecreet van 7 december 2018 en, in voorkomend geval, de Archiefwet van 24 juni 1955 en het Archiefdecreet van 9 juli 2010, worden de persoonsgegevens die ondergebracht worden en voortkomen uit de verwerkingen in het datawarehouse, niet langer bewaard dan noodzakelijk is voor de doeleinden waarvoor ze worden verwerkt, met inbegrip van de vereisten voor de toepassing van herhaling en de herroeping van een toegekend uitstel met een maximale bewaartermijn die drie maanden na de verjaring van alle vorderingen die tot de bevoegdheid van de verwerkingsverantwoordelijke behoren, niet mag overschrijden.<br>
+<br>
+De verwerkingsverantwoordelijke stelt een lijst op van de categorieën van personen die de persoonsgegevens in het datawarehouse kunnen raadplegen, met een beschrijving van hun hoedanigheid ten opzichte van de verwerking van de beoogde gegevens. De voormelde lijst wordt ter beschikking gehouden van de bevoegde gegevensbeschermingsautoriteit.<br>
+<br>
+De verwerkingsverantwoordelijke waakt erover dat de aangewezen personen door een wettelijke of statutaire verplichting, of door een evenwaardige contractuele bepaling, ertoe verplicht zijn het vertrouwelijke karakter van de gegevens in kwestie in acht te nemen.<br>
+&nbsp;
+
+### ART 8/2.
+
+Onverminderd de verwerking van persoonsgegevens met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van de algemene verordening gegevensbescherming, kunnen de Vlaamse Sociale Inspectie en de aangewezen ambtenaren, vermeld in artikel 15, tweede lid, van dit decreet, met inachtneming van dit decreet, ieder voor de verwerkingen van persoonsgegevens waarvoor ze de verwerkingsverantwoordelijke zijn, alle gegevens die nodig zijn om de regelgeving toe te passen waarvoor ze bevoegd zijn, verder verwerken wanneer en voor zover de initiële verwerking en de verdere verwerking worden verricht met het oog op de preventie, de vaststelling, de vervolging en de bestraffing van de inbreuken op de regelgeving die tot hun respectieve bevoegdheden behoren.<br>
+<br>
+Onverminderd artikel III.87 en volgende van het Bestuursdecreet van 7 december 2018 en, in voorkomend geval, de Archiefwet van 24 juni 1955 en het Archiefdecreet van 9 juli 2010, worden de persoonsgegevens die voortkomen uit de verdere verwerkingen, vermeld in het eerste lid, niet langer bewaard dan noodzakelijk is voor de doeleinden waarvoor ze worden verwerkt, met inbegrip van de vereisten voor de toepassing van herhaling en de herroeping van een toegekend uitstel, met een maximale bewaartermijn die drie maanden na de verjaring van alle vorderingen die tot de bevoegdheid van de verwerkingsverantwoordelijke behoren, niet mag overschrijden.
+
+### ART 8/3.
+
+De volgende categorieën van persoonsgegevens worden in het kader van de toepassing van artikel 8/1 en 8/2 verwerkt:<br>
+1° de identificatie­ en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, de leeftijd, de nationaliteit en de woonplaats van de werknemer;<br>
+2° de identificatie­ en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, de leeftijd en de woonplaats van de gebruiker van dienstencheques;<br>
+3° de identificatie­ en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, van de bestuurders, zaakvoerders, personen die de onderneming vertegenwoordigen en andere contactpersonen van de onderneming;<br>
+4° de identificatiegegevens en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, de nationaliteit en de woonplaats van de buitenlandse zelfstandige;<br>
+5° de gegevens met betrekking tot de verblijfstitel van de buitenlandse werknemer en zelfstandige;<br>
+6° de identificatie­ en contactgegevens van de onderneming; 7° de tewerkstellingsgegevens van de werknemer;<br>
+8° de tewerkstellingsgegevens van de buitenlandse werknemer, en de activiteiten van de buitenlandse zelfstandige en van de buitenlandse onderneming in het kader van de Limosameldingsplicht;<br>
+9° de gegevens met betrekking tot de toelating tot arbeid of de arbeidskaart van de buitenlandse werknemer;<br>
+10° de gegevens met betrekking tot de beroepskaart van de buitenlandse zelfstandige;<br>
+11° de start- en einddatum van de beroepsbezigheid van de buitenlandse zelfstandige;<br>
+12° de gegevens met betrekking tot de sociale verzekering van de buitenlandse zelfstandige;<br>
+13° de gegevens met betrekking tot de uitgevoerde buurtwerken of -diensten, de aangekochte en terugbetaalde dienstencheques;<br>
+14° de financiële en contactgegevens van de gebruiker van dienstencheques;<br>
+15° de financiële en contactgegevens van de onderneming die dienstencheque­ activiteiten uitoefent;<br>
+16° de gegevens met betrekking tot uitgevoerde activiteiten van private arbeidsbemiddeling;<br>
+17° de gegevens met betrekking tot vastgestelde inbreuken.<br>
+&nbsp;
+
+### ART 8/4.
+
+In het kader van de toepassing van artikel 8/1, 8/2 en 8/3 wisselt de Vlaamse Sociale Inspectie persoonsgegevens uit met de volgende instanties:<br>
+1° de identificatie­ en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, de leeftijd, de nationaliteit en de woonplaats van de werknemer, met het Rijksregister van de natuurlijke personen, met de Kruispuntbank van de Sociale Zekerheid en met de Rijksdienst voor Sociale Zekerheid;<br>
+2° de identificatie­ en contactgegevens waaronder het INSZ­nummer en het BIS-nummer, de leeftijd, en de woonplaats van de gebruiker van dienstencheques, met het Rijksregister van de natuurlijke personen, en met de Kruispuntbank van de Sociale Zekerheid, en met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en<br>
+-banen;<br>
+3° de identificatie­ en contactgegevens waaronder het INSZ­nummer en het BIS-nummer, van de bestuurders, zaakvoerders, personen die de onderneming vertegenwoordigen en andere contactpersonen van de onderneming, met het Rijksregister van de natuurlijke personen, met de Kruispuntbank van de Sociale Zekerheid en met de Kruispuntbank van Ondernemingen;<br>
+4° de identificatie­ en contactgegevens, waaronder het INSZ­nummer en het BIS-nummer, de nationaliteit en de woonplaats van de buitenlandse zelfstandige met het Rijksregister van de natuurlijke personen, met de Kruispuntbank van de Sociale Zekerheid, met de Kruispuntbank van Ondernemingen en met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
+5° de identificatie­ en contactgegevens van de onderneming met de Kruispuntbank van Ondernemingen en met de Rijksdienst voor Sociale Zekerheid;<br>
+6° de gegevens met betrekking tot de verblijfstitel van de buitenlandse werknemer en zelfstandige met het Rijksregister van de natuurlijke personen;<br>
+7° de tewerkstellingsgegevens van de werknemer met de Rijksdienst voor Sociale Zekerheid;<br>
+8° de tewerkstellingsgegevens van de buitenlandse werknemer, en de activiteiten van de buitenlandse zelfstandige en van de buitenlandse onderneming in het kader van de Limosameldingsplicht met de Rijksdienst voor Sociale Zekerheid en met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
+9° de start- en einddatum van de beroepsbezigheid van de buitenlandse zelfstandige met de Kruispuntbank van Ondernemingen en met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
+10° de gegevens met betrekking tot sociale verzekering van de buitenlandse zelfstandige met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
+11° de gegevens met betrekking tot de uitgevoerde buurtwerken of -diensten en de aangekochte en terugbetaalde dienstencheques met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
+12° de financiële en contactgegevens van de gebruiker van dienstencheques met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
+13° de financiële en contactgegevens van de onderneming die dienstenchequeactiviteiten uitoefent met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden uitgewisseld met tussenkomst van de bevoegde dienstenintegrator als dat van toepassing is.<br>
+<br>
+In het tweede lid wordt verstaan onder dienstenintegrator: de Vlaamse dienstenintegrator, vermeld in artikel 2, 9°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.
 
 ### ART. 9.
 
@@ -282,7 +386,8 @@ c) statistieken met betrekking tot de bezochte werkgevers en opleidingscentra, h
 d) statistieken met betrekking tot de verrichte inspecties;<br>
 e) statistieken met betrekking tot de gegeven verwittigingen, opgelegde regularisaties en bewijsvoering;<br>
 f) statistieken met betrekking tot de aard en het aantal van de vastgestelde inbreuken;<br>
-g) statistieken met betrekking tot de opgelegde administratieve geldboeten.<br>
+g) statistieken met betrekking tot de opgestelde e­pv’s alsmede de doeltreffendheid van de verwerkingen;<br>
+h) statistieken met betrekking tot de opgelegde administratieve geldboeten.<br>
 <br>
 Het aldus gepubliceerde jaarverslag wordt binnen de 3 maanden overgemaakt aan het directoraat-generaal van de Internationale Arbeidsorganisatie.
 
@@ -292,9 +397,9 @@ Het aldus gepubliceerde jaarverslag wordt binnen de 3 maanden overgemaakt aan he
 
 ### ART. 13.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en voor zover de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 100 euro tot 1000 euro aan :<br>
+§ 1. Onder de voorwaarden, vermeld in dit decreet, en voor zover de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 25 euro tot 250 euro aan :<br>
 1° iedere persoon, zijn lasthebbers of aangestelden, die een bureau exploiteren via een rechtspersoon die niet regelmatig werd opgericht volgens de regels van de lidstaat van vestiging;<br>
-2° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die verboden zijn krachtens Verdrag nr. 9 op de arbeidsbemiddeling van de zeelieden, aangenomen op 10 juli 1920 door de Algemene Conferentie van de Internationale Arbeidsorganisatie en goedgekeurd bij de wet van 6 september 1924;<br>
+2° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die verboden zijn conform het verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006;<br>
 3° het uitzendbureau, zijn lasthebbers of aangestelden die diensten verrichten die verband houden met een staking, uitsluiting of een schorsing van een arbeidsovereenkomst als vermeld in artikel 50 en 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
 4° het bureau, zijn lasthebbers of aangestelden die weigeren inzage te verlenen aan de opdrachtgever en de werknemer betreffende de over hen opgeslagen gegevens, of hen na beëindiging van de opdracht weigeren een afschrift van hun dossier te bezorgen;<br>
 5° het bureau, zijn lasthebbers of aangestelden die de opdrachtgever en de werknemer onjuiste, onvolledige of niet-tijdige informatie verstrekken over de bemiddelingsdiensten of over de aard van de tewerkstelling;<br>
@@ -306,11 +411,11 @@ Het aldus gepubliceerde jaarverslag wordt binnen de 3 maanden overgemaakt aan he
 11° het uitzendbureau, zijn lasthebbers of aangestelden die bij exclusiviteit personen ter beschikking te stellen van één gebruikende onderneming;<br>
 12° het uitzendbureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële uitzendkrachten kan misleiden;<br>
 13° het uitzendbureau, zijn lasthebbers of aangestelden die in personeelsadvertenties niet duidelijk vermelden dat ze de aanwerving van uitzendkrachten beogen, of die geen correcte, volledige en objectieve informatie geven;<br>
-14° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
-15° iedere persoon als vermeld in artikel 24 die zich schuldig maakt aan een inbreuk als vermeld in artikel 24;<br>
+14° het bureau dat middelen, mechanismen of lijsten gebruikt om vissers te verhinderen werk te vinden;<br>
+15° het bureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële betaalde sportbeoefenaars kan misleiden;<br>
 16° de werkgever die zich schuldig maakt aan een inbreuk op het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers alsmede op de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen.<br>
 <br>
-§ 2. Onder de voorwaarden, vermeld in dit decreet, en voor zover de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 250 euro tot 2.500 euro aan :<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en voor zover de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan :<br>
 1° iedere persoon, zijn lasthebbers of aangestelden, die een bureau exploiteren als natuurlijke persoon zonder de burgerrechten en politieke rechten te genieten;<br>
 2° iedere persoon, zijn lasthebbers of aangestelden die, buiten de in artikel 47 van de Faillissementwet van 8 augustus 1997 of een gelijkaardige wetgeving in de lidstaat van vestiging toegelaten gevallen, diensten van private arbeidsbemiddeling verrichten op het moment dat het bureau in staat van faillissement of in staat van kennelijk onvermogen verkeert, of dat het bureau het voorwerp uitmaakt van een procedure tot faillietverklaring;<br>
 3° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die leiden tot tewerkstelling als vermeld in artikel 5, 5°, van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<br>
@@ -326,42 +431,70 @@ d) aan wie tijdens een periode van vijf jaar, voor de start of tijdens de uitoef
 e) tijdens de periode van vijf jaar, voor de aanvang van of gedurende de uitoefening van diensten inzake private arbeidsbemiddeling ontheven zijn van hun burgerrechten en politieke rechten;<br>
 9° het bureau, zijn lasthebbers of aangestelden die activiteiten van private arbeidsbemiddeling uitvoeren in strijd met de sociale of fiscale wetgeving;<br>
 10° het bureau, zijn lasthebbers of aangestelden die de reglementering inzake de tewerkstelling van vreemde arbeidskrachten die in België van toepassing is, overtreden;<br>
-11° het uitzendbureau, zijn lasthebbers of aangestelden die een erkenning verkrijgen op basis van valse, onvolledige of onjuiste verklaringen;<br>
-12° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking van de erkenning nog nieuwe overeenkomsten afsluiten, deze wijzigen, vernieuwen of verlengen;<br>
-13° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking of schrapping van de erkenning nog uitzendactiviteiten uitvoeren;<br>
-14° iedere persoon, zijn lasthebbers of aangestelden, die een uitzendbureau exploiteren zonder in het bezit te zijn van een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
-15° de gebruiker die wetens en willens een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+11° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+12° de gebruiker, zijn lasthebbers of aangestelden die het bureau aanzetten of opdracht geven om bij de bemiddeling discriminerende criteria te gebruiken;<br>
+13° ...;<br>
+14° ...n lasthebbers of aangestelden, die een uitzendbureau exploiteren zonder in het bezit te zijn van een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
+15° ...;<br>
 16° het bureau, zijn lasthebbers of aangestelden die enige vergoeding, commissielonen, bijdragen, toelatings- of inschrijvingsgelden vragen of ontvangen, buiten de door het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling bepaalde voorwaarden;<br>
 17° het uitzendbureau dat achterstallige belastingen, boeten of interesten verschuldigd is, socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten verschuldigd is aan de Rijksdienst voor Sociale Zekerheid of bijdragen, boeten of interesten verschuldigd is aan de fondsen voor bestaanszekerheid;<br>
 18° het uitzendbureau dat de wettelijke voorwaarden inzake de uitzendarbeid niet naleeft;<br>
 19° het bureau, zijn lasthebbers of aangestelden die de werknemer niet behandelen op een objectieve, respectvolle en niet-discriminerende wijze.<br>
-20° iedere persoon, zijn lasthebbers of aangestelden, die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+20° ...;<br>
 21° het bureau, zijn lasthebbers of aangestelden, die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars samenwerken met een bureau dat niet voorafgaandelijk geregistreerd is;<br>
-22° het bureau, zijn lasthebbers of aangestelden die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
-23° de werkgever die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.
+22° ...;<br>
+23° ..;<br>
+24° iedere persoon, vermeld in artikel 24, eerste lid, 1° en 2°, van dit decreet, die zich schuldig maakt aan een inbreuk als vermeld in artikel 24, eerste lid, 1° en 2°, van dit decreet;<br>
+25° het bureau, zijn lasthebbers of aangestelden die sportbeoefenaars jonger dan vijftien jaar direct of indirect benaderen om een overeenkomst te sluiten om diensten van private arbeidsbemiddeling voor sportbeoefenaars te verrichten;<br>
+26° het bureau, zijn lasthebbers of aangestelden die een vergoeding vragen om diensten van private arbeidsbemiddeling te verrichten voor een minderjarige sportbeoefenaar.<br>
+<br>
+§3. Onder de voorwaarden, vermeld in dit decreet, en op voorwaarde dat de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 150 tot 1500 euro aan:<br>
+1° iedere persoon, zijn lasthebbers of aangestelden die een uitzendbureau exploiteren zonder in het bezit te zijn van een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
+2° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking van de erkenning nog nieuwe overeenkomsten sluiten, die overeenkomsten wijzigen, vernieuwen of verlengen;<br>
+3° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking of schrapping van de erkenning nog uitzendactiviteiten uitvoeren;<br>
+4° iedere persoon, zijn lasthebbers of aangestelden die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+5° het bureau, zijn lasthebbers of aangestelden die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
+6° het uitzendbureau, zijn lasthebbers of aangestelden die een erkenning verkrijgen op basis van valse, onvolledige of onjuiste verklaringen;<br>
+7° de gebruiker die wetens en willens een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+8° de werkgever die voor de arbeidsbemiddeling met het oog op het sluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.
 
 ### ART. 13/1.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, een administratieve geldboete opgelegd worden van 250 euro tot 2.500 euro aan :<br />1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br />2° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br /><br />§ 2. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, een administratieve geldboete opgelegd worden van 500 euro tot 5.000 euro aan :<br />1° personen die wetens en willens een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br />2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br />3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br />4° personen die wetens en willens een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br />5° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden : <br />a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br />b) zich bediend hebben van een valse akte of een vals stuk;<br />6° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden : <br />a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van dergelijke gegevens verandert;<br />b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br />7° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen, of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictief persoon, een fictieve onderneming, of een andere fictieve gebeurtenis of om op andere wijze misbruik te maken van het vertrouwen.
+§ 1. ...<br>
+<br>
+§ 2. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro aan :<br>
+1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+5° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) zich bediend hebben van een valse akte of een vals stuk;<br>
+6° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
+a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van dergelijke gegevens verandert;<br>
+b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
+7° personen die, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen, of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictief persoon, een fictieve onderneming, of een andere fictieve gebeurtenis of om op andere wijze misbruik te maken van het vertrouwen.
 
 ### ART. 13/2.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 100 euro tot 1.000 euro aan :<br>
+§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 25 euro tot 250 euro aan :<br>
 1° het maatwerkbedrijf, zijn lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan en competentieprofiel op te stellen en hen jaarlijks te evalueren;<br>
 2° ...<br>
 <br>
-§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 250 euro tot 2.500 euro aan :<br>
-1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
-2° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan :<br>
+1° ...;<br>
+2° ...;<br>
 3° het maatwerkbedrijf, zijn lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 4° ...<br>
 5° het maatwerkbedrijf, zijn lasthebbers of aangestelden die de bepalingen van artikel 32 tot en met 34 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling niet naleven.<br>
 <br>
-§ 3. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 500 euro tot 5.000 euro aan :<br>
-1° personen die wetens en willens de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
-2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-4° personen die wetens en willens een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan de werkgever, zijn lasthebber of aangestelde als hij in strijd met de bepalingen van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan de arbeidsovereenkomst van de buitenlandse onderdaan verbreekt of een betekenisvolle wijziging aan de arbeidsvoorwaarden doorvoert, en moedwillig nalaat de bevoegde overheid hiervan schriftelijk te verwittigen.<br>
+<br>
+§ 3. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro aan :<br>
+1° personen die de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 5° personen die, om de subsidie ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
 a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
 b) zich bediend hebben van een valse akte of een vals stuk;<br>
@@ -372,52 +505,66 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 
 ### ART. 13/3.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 100 euro tot 1000 euro aan:<br>
+§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 25 euro tot 250 euro aan:<br>
 1°...;<br>
 2° ...;<br>
-3° de werkgever, zijn lasthebbers of aangestelden die een werknemer, die tijdens zijn deeltijdse tewerkstelling een werkloosheidsuitkering, een leefloon of financiële sociale hulp geniet, geen voorrang geven tot het verkrijgen van een voltijdse betrekking of van een andere, al dan niet bijkomende, deeltijdse dienstbetrekking waardoor hij een nieuwe deeltijdse arbeidsregeling verkrijgt waarvan de wekelijkse arbeidsduur hoger is dan die van de deeltijdse arbeidsregeling waarin hij al werkt;<br>
-4° de werkgever, zijn lasthebbers of aangestelden die de gebruiker vertegenwoordigen voor de toepassing van artikel 3, § 2, eerste lid, en van artikel 6 van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, of de werknemer vertegenwoordigen om de dienstencheques te ondertekenen;<br>
+3° ...;<br>
+4° ...;<br>
 5° de werkgever, zijn lasthebbers of aangestelden die de dienstencheques niet gegroepeerd per maand waarin de prestaties effectief verricht zijn, ter betaling aan het uitgiftebedrijf bezorgen;<br>
-6° de gebruiker of de werknemer die wetens en willens heeft deelgenomen aan de inbreuken, vermeld in punt 1° tot en met 5°.<br>
+6° ...<br>
 <br>
-§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan:<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan:<br>
 1° de werkgever, zijn lasthebbers of aangestelden die dienstencheques van de gebruiker aanvaarden als de buurtwerken of -diensten nog niet zijn uitgevoerd;<br>
 2° de werkgever, zijn lasthebbers of aangestelden die buurtwerken of diensten laten uitvoeren door een werknemer die niet werd aangeworven voor de uitvoering van die buurtwerken of -diensten;<br>
 3° de werkgever, zijn lasthebbers of aangestelden die de registratie van de dienstenchequeactiviteiten niet op dergelijke wijze organiseren dat het mogelijk is exact na te gaan wat het verband is tussen de maandelijkse prestaties van elke individuele dienstenchequewerknemer, de gebruiker en de overeenkomstige dienstencheques;<br>
-4° de werkgever, zijn lasthebbers of aangestelden die buurtwerken of diensten leveren zonder te beschikken over een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
-5° de werkgever, zijn lasthebbers of aangestelden die een andere activiteit uitvoeren dan de activiteiten waarvoor een erkenning werd verleend op grond van deze wet en in hun schoot geen ``sui-generisafdeling'' hebben die zich specifiek inlaat met de tewerkstelling in het kader van het stelsel van dienstencheques, vermeld in artikel 2, § 2, eerste lid, a), van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
-6° de werkgever, zijn lasthebbers of aangestelden die werken of diensten die worden gefinancierd met dienstencheques in onderaanneming laten uitvoeren door een andere onderneming of instelling;<br>
+4° ...;<br>
+5° ...;<br>
+6° ...;<br>
 7° de werkgever, zijn lasthebbers of aangestelden die een ander dan het vanaf hun erkenning bijkomende arbeidsvolume van activiteiten van thuishulp van huishoudelijke aard met dienstencheques laten betalen;<br>
 8° de gebruiker of de werknemer die wetens en willens heeft deelgenomen aan de inbreuken, vermeld in punt 1° tot en met 7°, en in artikel 10sexies van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
-9° de werkgever, zijn lasthebbers of aangestelden die de werknemer of klant niet behandelen op een respectvolle en niet-discriminerende wijze als vermeld in artikel 2, § 2, eerste lid, i en j, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen<br>
+9° de werkgever, zijn lasthebbers of aangestelden die de werknemer of klant niet behandelen op een respectvolle en niet-discriminerende wijze als vermeld in artikel 2, § 2, eerste lid, i en j, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
+10° de werkgever, zijn lasthebbers of de aangestelden die de gebruiker vertegenwoordigen voor de toepassing van artikel 3, §2, eerste lid, en artikel 6 van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, of de werknemer vertegenwoordigen om de diensten- cheques te ondertekenen;<br>
+11° de personen die dienstencheques aanwenden voor andere doeleinden dan de doeleinden waarvoor ze die hebben verkregen;<br>
+12° de personen die dienstencheques hebben verkregen, behouden of aanwenden op basis van onjuiste of onvolledige verklaringen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br>
 <br>
-§ 3. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro aan:<br>
-1° de werkgever, zijn lasthebbers of aangestelden die in het kader van de buurtwerken of -diensten activiteiten uitvoeren die niet toegelaten zijn in de beslissing tot erkenning;<br>
-2° de werkgever, zijn lasthebbers of aangestelden die dienstencheques aannemen ter betaling van activiteiten die geen buurtwerken of -diensten zijn;<br>
-3° de werkgever, zijn lasthebbers of aangestelden die meer dienstencheques voor betaling aanvaarden en overzenden aan het uitgiftebedrijf voor verrichte prestaties van buurtwerken of -diensten in een bepaald kwartaal, dan het aantal bij de RSZ aangegeven arbeidsuren voor verrichte prestaties van buurtwerken of -diensten dat voor datzelfde kwartaal is gepresteerd door werknemers met een arbeidsovereenkomst dienstencheques.<br>
+§2/1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen een administratieve geldboete opgelegd worden van 150 tot 1500 euro aan:<br>
+1° de werkgever, zijn lasthebbers of aangestelden die buurtwerken of diensten leveren zonder te beschikken over een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
+2° de werkgever, zijn lasthebbers of aangestelden die een andere activiteit uitvoeren dan de activiteiten waarvoor een erkenning is verleend op grond van de voormelde wet, en die niet over een sui-generisafdeling beschikken die zich specifiek bezighoudt met de tewerkstelling in het kader van het stelsel van dienstencheques, vermeld in artikel 2, §2, eerste lid, a, van de voormelde wet;<br>
+3° de werkgever, zijn lasthebbers of aangestelden die werken of diensten die worden gefinancierd met dienstencheques, in onderaanneming laten uitvoeren door een andere onderneming of instelling;<br>
+4° de werkgever, zijn lasthebbers of aangestelden die in het kader van de buurtwerken of -diensten activiteiten uitvoeren die niet zijn toegelaten in de beslissing tot erkenning;<br>
+5° de werkgever, zijn lasthebbers of aangestelden die dienstencheques aannemen om activiteiten te betalen die geen buurtwerken of -diensten zijn;<br>
+6° de werkgever, zijn lasthebbers of aangestelden die meer dienstencheques voor betaling aanvaarden en overzenden aan het uitgiftebedrijf voor verrichte prestaties van buurtwerken of -diensten in een bepaald kwartaal dan het aantal arbeidsuren dat bij de RSZ is aangegeven voor verrichte prestaties van buurtwerken of -diensten dat voor datzelfde kwartaal is gepresteerd door werknemers met een arbeidsovereenkomst dienstencheques.<br>
 <br>
-§ 4. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro aan:<br>
-1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-2° de personen die wetens en willens hebben nagelaten of geweigerd om nood-zakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° de personen die wetens en willens dienstencheques ten onrechte hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
-4° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden:<br>
+§3. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen een administratieve geldboete opgelegd worden van 300 tot 3000 euro aan:<br>
+1° de werkgever, zijn lasthebbers of aangestelden die in het kader van de buurtwerken of -diensten wetens en willens activiteiten uitvoeren die niet toegelaten zijn in de beslissing tot erkenning;<br>
+2° de werkgever, zijn lasthebbers of aangestelden die wetens en willens dienstencheques aannemen om activiteiten te betalen die geen buurtwerken of -diensten zijn;<br>
+3° de werkgever, zijn lasthebbers of aangestelden die wetens en willens meer dienstencheques voor betaling aanvaarden en overzenden aan het uitgiftebedrijf voor verrichte prestaties van buurtwerken of -diensten in een bepaald kwartaal dan het aantal arbeidsuren dat bij de RSZ is aangegeven voor verrichte prestaties van buurtwerken of -diensten dat voor datzelfde kwartaal is gepresteerd door werknemers met een arbeidsovereenkomst dienstencheques;<br>
+4° de werkgever, zijn lasthebbers of aangestelden die wetens en willens de inbreuk, vermeld in artikel 10quinquies, eerste lid, 10°, van de voormelde wet, hebben gepleegd;<br>
+5° de werkgever, zijn lasthebbers of aangestelden die de registratie van de dienstenchequeactiviteiten op een dergelijke wijze organiseren zodat het voor de inspectiediensten onmogelijk is om exact na te gaan wat het verband is tussen de maandelijkse prestaties van elke individuele dienstenchequewerknemer, de gebruiker en de overeenkomstige dienstencheques.<br>
+<br>
+§4. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan:<br>
+1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, aan te wenden, te behouden of te doen behouden;<br>
+2° de personen die wetens en willens hebben nagelaten of geweigerd om nood-zakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, aan te wenden, te behouden of te doen behouden;<br>
+3° de personen die wetens en willens dienstencheques ten onrechte hebben verkregen, behouden of aanwenden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+4° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, aan te wenden, te behouden of te doen behouden:<br>
 a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
 b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
-5° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden:<br>
+5° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, aan te wenden, te behouden of te doen behouden:<br>
 a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
 b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
-6° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
+6° de personen die, om dienstencheques ten onrechte te verkrijgen of te doen verkrijgen, aan te wenden, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen;<br>
+7° de gebruiker of de werknemer die wetens en willens heeft deelgenomen aan de inbreuken, vermeld in punt 1° tot en met 6°, en artikel 10sexies van de voormelde wet.
 
 ### ART 13/4.
 
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan aan de buitenlandse onderdaan een administratieve geldboete van 500 tot 5000 euro opgelegd worden:<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan aan de buitenlandse onderdaan een administratieve geldboete van 150 tot 1500 euro opgelegd worden:<br>
 1° hij oefent een zelfstandige beroepsactiviteit uit zonder in het bezit te zijn van een beroepskaart;<br>
 2° hij oefent een zelfstandige beroepsactiviteit uit zonder de grenzen of de voorwaarden van de beroepskaart te respecteren;<br>
 3° hij oefent een zelfstandige beroepsactiviteit uit niettegenstaande de staking van de bedrijvigheid is gelast of de sluiting van de geëxploiteerde zaak is bevolen.
 
 ### ART 13/5.
 
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kunnen voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan de volgende personen een administratieve geldboete van 1800 euro tot 18.000 euro krijgen:<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kunnen voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan de volgende personen een administratieve geldboete van 300 euro tot 3000 euro krijgen:<br>
 1° een buitenlandse onderdaan die in strijd met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan een zelfstandige beroepsactiviteit uitoefent zonder toegelaten of gemachtigd te zijn tot een verblijf van meer dan drie maanden of tot vestiging in België;<br>
 2° een buitenlandse onderdaan die een beroepskaart onrechtmatig verkrijgt of in zijn bezit heeft;<br>
 3° eenieder die onjuiste of onvolledige verklaringen heeft afgelegd of onjuiste documenten heeft bezorgd, om een beroepskaart ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
@@ -425,18 +572,18 @@ Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafver
 
 ### ART 13/6.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan aan de werkgever, zijn lasthebber of aangestelde voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro als hij :<br>
+§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan aan de werkgever, zijn lasthebber of aangestelde voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro als hij :<br>
 1° een buitenlandse onderdaan arbeid heeft doen of laten verrichten zonder dat hij een arbeidsvergunning heeft verkregen, of als de buitenlandse onderdaan niet over een arbeidskaart beschikt;<br>
 2° een buitenlandse onderdaan arbeid heeft doen of laten verrichten zonder de grenzen of de voorwaarden van de arbeidsvergunning of arbeidskaart te respecteren;<br>
 3° de arbeidskaart niet heeft teruggegeven aan de buitenlandse werknemer of hem die heeft bezorgd tegen betaling van een bedrag of tegen vergoeding in welke vorm ook.<br>
 <br>
-§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro aan de werkgever, zijn lasthebber of aangestelde als hij in strijd met de bepalingen van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een buitenlandse onderdaan arbeid heeft doen of laten verrichten die niet is toegelaten of gemachtigd tot een verblijf van meer dan drie maanden of tot vestiging in België.<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan de werkgever, zijn lasthebber of aangestelde als hij in strijd met de bepalingen van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een buitenlandse onderdaan arbeid heeft doen of laten verrichten die niet is toegelaten of gemachtigd tot een verblijf van meer dan drie maanden of tot vestiging in België.<br>
 <br>
-§ 3. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan aan de werkgever, zijn lasthebber of aangestelde voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro als hij op het ogenblik van de tewerkstelling van een onderdaan van een derde land :<br>
+§ 3. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan aan de werkgever, zijn lasthebber of aangestelde voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro als hij op het ogenblik van de tewerkstelling van een onderdaan van een derde land :<br>
 1° niet vooraf nagegaan heeft of hij over een geldige verblijfsvergunning of een andere machtiging tot verblijf beschikt;<br>
 2° niet, ten minste voor de duur van de tewerkstelling, een afschrift of de gegevens van zijn verblijfsvergunning of van zijn andere machtiging tot verblijf beschikbaar gehouden heeft voor de bevoegde inspectiediensten.<br>
 <br>
-§ 4. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro aan eenieder die :<br>
+§ 4. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan eenieder die :<br>
 1° een buitenlandse onderdaan België heeft laten binnenkomen om er te worden tewerkgesteld, of daartoe heeft bijgedragen, tenzij de buitenlandse onderdaan in het bezit is van een geldige arbeidskaart en met uitzondering van de buitenlandse onderdaan voor wie de werkgever na zijn aankomst in België een arbeidsvergunning kan verkrijgen om er te worden tewerkgesteld;<br>
 2° een buitenlandse onderdaan heeft beloofd, tegen betaling van welke vergoeding ook, hetzij een betrekking voor hem te zoeken, hetzij hem een betrekking te bezorgen, hetzij formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
 3° van een buitenlandse onderdaan een vergoeding in welke vorm ook heeft gevraagd of aangenomen, hetzij om voor hem een betrekking te zoeken, hetzij om hem een betrekking te bezorgen, hetzij om formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
@@ -445,7 +592,7 @@ a)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en een werkgever;<br>
 b)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en de autoriteiten die zijn belast met de toepassing van deze wet of de uitvoeringsbesluiten ervan of de controle en het toezicht op de wet of de uitvoeringsbesluiten ervan;<br>
 c)&nbsp;&nbsp; &nbsp;een werkgever en de vermelde autoriteiten en waarbij daden zijn gesteld die hetzij die buitenlandse onderdaan, hetzij de werkgever, hetzij de vermelde autoriteiten op een dwaalspoor kunnen brengen.<br>
 <br>
-§ 5. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 1800 euro tot 18.000 euro aan :<br>
+§ 5. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan :<br>
 1° een aannemer, buiten het kader van een keten van onderaannemers, of een intermediaire aannemer, in het kader van een dergelijke keten, als hun rechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt;<br>
 2° een hoofdaannemer en intermediaire aannemer, in het kader van een keten van onderaannemers, als hun onrechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt, als ze, voorafgaand aan de door hen gepleegde inbreuk, op de hoogte zijn van het feit dat hun onrechtstreekse onderaannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
 3° de opdrachtgever, buiten het kader van een onderaanneming, als zijn aannemer een van de inbreuken, vermeld in artikel 12/2 van de voormelde wet, pleegt, als de opdrachtgever, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat zijn aannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
@@ -453,12 +600,12 @@ c)&nbsp;&nbsp; &nbsp;een werkgever en de vermelde autoriteiten en waarbij daden 
 
 ### ART 13/7.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan de personen die onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet.<br>
+§ 1. ...<br>
 <br>
-§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan :<br>
-1° de personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet;<br>
-2° de personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° de personen die wetens en willens de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+§ 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro aan :<br>
+1° de personen die onjuiste of onvolledige verklaringen hebben afgelegd met het oog op de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet;<br>
+2° de personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° de personen die de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 4° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden :<br>
 a) valsheid in geschrifte hebben gepleegd, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
 b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat de gebruikte akte of het gebruikte stuk vals is;<br>
@@ -469,13 +616,13 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 
 ### ART 13/8.
 
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, een administratieve geldboete opgelegd worden van 100 euro tot 1000 euro aan:<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, een administratieve geldboete opgelegd worden van 25 tot 250 euro aan:<br>
 1° de werkgever, zijn lasthebbers of aangestelden die nalaten om voor werknemers met een arbeidsbeperking een ondersteuningsplan te doen opstellen of te doen actualiseren conform artikel 23, eerste lid, van het voormelde decreet van 14 januari 2022;<br>
 2° de werkgever, zijn lasthebbers of aangestelden die voor de coaching van werknemers met een arbeidsbeperking werknemers inzetten die niet beantwoor den aan de voorwaarden, vastgesteld krachtens artikel 24, tweede lid, van het voormelde decreet van 14 januari 2022.<br>
 <br>
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan:<br>
-1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
-2° personen die een of meer van de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, hebben verkregen of die een premie behouden waarop ze geen of maar gedeeltelijk recht hebben,<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 50 tot 500 euro aan:<br>
+1°...;<br>
+2° ...,<br>
 door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 3° de werkgever, zijn lasthebbers of aangestelden die in strijd met de behoefte aan werkondersteunende maatregelen, vastgesteld conform artikel 32, eerste lid, van het voormelde decreet van 14 januari 2022 niet voorzien in een begeleiding op de werkvloer;<br>
 4° de werkgever, zijn lasthebbers of aangestelden die niet voorzien in een begeleiding en coaching die overeenstemmen met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022;<br>
@@ -485,10 +632,10 @@ door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om n
 8° de externe dienstverlener die, al dan niet met medeweten van of op verzoek van de werkgever in kwestie, niet voorziet in begeleiding die volledig in overeenstemming is met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022, of die de begeleiding niet correct of onvolledig uitvoert.<br>
 <br>
 Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan:<br>
-1° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
-2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-4° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die&nbsp; hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 5° personen die de volgende handelingen hebben gesteld om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden:<br>
 a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
 1) door valse handtekeningen;<br>
@@ -503,12 +650,10 @@ b) ze hebben gegevens gebruikt waarvan ze wisten dat ze vals waren;<br>
 
 ### ART 13/9.
 
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan de personen die, door onjuiste of onvolledige verklaringen af te leggen of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken, de premie, vermeld in artikel 5 van het voormelde decreet, hebben verkregen of die op die manier een premie behouden waarop ze geen of maar gedeeltelijk recht hebben.<br>
-<br>
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor straf vervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet, een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan:<br>
-1° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-2° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor straf vervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding, een administratieve geldboete opgelegd worden van 150 tot 1500 euro aan:<br>
+1° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+2° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 4° personen die, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, een van de volgende handelingen hebben gesteld:<br>
 a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
 1) door valse handtekeningen;<br>
@@ -521,6 +666,10 @@ a) ze hebben bedrog gepleegd door gegevens die worden opgeslagen, verwerkt of ov
 b) ze hebben gegevens gebruikt waarvan ze wisten dat ze vals waren;<br>
 6° personen die, om de premie, vermeld in artikel 5 van het voormelde decreet, ten onrechte te verkrijgen of doen verkrijgen, te behouden of te doen behouden, valse namen, valse hoedanigheden of valse adressen hebben gebruikt of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
 
+### ART 13/10.
+
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 300 tot 3000 euro aan al wie het toezicht verhindert dat krachtens hoofdstuk II van dit decreet en de uitvoeringsbesluiten ervan is geregeld.
+
 ### ART. 14.
 
 Wanneer de inbreuk door zijn aangestelde of lasthebber is begaan, is de administratieve geldboete alleen op het opleidingscentrum, de werkgever of, in voorkomend geval, de gebruiker, van toepassing.<br>
@@ -529,7 +678,13 @@ De rechtspersoon is hoofdelijk gehouden tot het betalen van de administratieve g
 
 ### ART. 15.
 
-De inbreuk op de regelgeving als bedoeld in artikel 13 wordt strafrechtelijk vervolgd ofwel wordt een administratieve geldboete opgelegd onder de voorwaarden zoals bepaald in artikel 17.<br /><br />De administratieve geldboete wordt opgelegd door de door de Vlaamse regering aangewezen ambtenaar of ambtenaren.<br /><br />De door de Vlaamse Regering aangewezen ambtenaren oefenen hun bevoegdheid uit onder de voorwaarden die hun onafhankelijkheid en onpartijdigheid waarborgen.<br /><br />Die ambtenaren mogen geen beslissingen nemen in dossiers waarin zij al zijn opgetreden in een andere hoedanigheid, noch enig belang hebben in ondernemingen die betrokken zijn in de procedure.
+De inbreuk op de regelgeving, vermeld in artikel 13 tot en met 13/10, wordt strafrechtelijk vervolgd ofwel wordt een administratieve geldboete opgelegd onder de voorwaarden zoals bepaald in artikel 17.<br>
+<br>
+De administratieve geldboete wordt opgelegd door de door de Vlaamse regering aangewezen ambtenaar of ambtenaren.<br>
+<br>
+De door de Vlaamse Regering aangewezen ambtenaren oefenen hun bevoegdheid uit onder de voorwaarden die hun onafhankelijkheid en onpartijdigheid waarborgen.<br>
+<br>
+Die ambtenaren mogen geen beslissingen nemen in dossiers waarin zij al zijn opgetreden in een andere hoedanigheid, noch enig belang hebben in ondernemingen die betrokken zijn in de procedure.
 
 ### ART. 16.
 
@@ -550,7 +705,7 @@ De aangewezen ambtenaar brengt de overtreder met een aangetekende brief op de ho
 <br>
 Als de overtreder verzuimd heeft om de aangetekende brief bij de post af te halen binnen de vastgestelde termijn, kan de bevoegde administratie hem met een gewone brief, ter informatie, nog een tweede uitnodiging sturen om zijn verweermiddelen in te dienen. De termijn, vermeld in het tweede lid, 1°, kan in dat geval eenmalig met 30 dagen worden verlengd.<br>
 <br>
-De aangewezen ambtenaar beschikt over acht maanden om een administratieve geldboete op te leggen. Die termijn begint te lopen vanaf de kennisneming van de beslissing, vermeld in paragraaf 1, of, als die kennisgeving ontbreekt, vanaf het einde van de termijn, vermeld in paragraaf 1.<br>
+De aangewezen ambtenaar beschikt over twaalf maanden om een administratieve geldboete op te leggen. Die termijn begint te lopen vanaf de kennisneming van de beslissing, vermeld in paragraaf 1, of, als die kennisgeving ontbreekt, vanaf het einde van de termijn, vermeld in paragraaf 1.<br>
 <br>
 § 3. Indien de aangewezen ambtenaar beslist een administratieve geldboete op te leggen, vermeldt zijn beslissing met in achtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshande-lingen, het bedrag, de tekst van § 5 en de termijn waarbinnen en de manier waarop de administratieve geldboete betaald wordt.<br>
 <br>
@@ -588,11 +743,23 @@ Wanneer de krachtens artikel 15, tweede lid, van dit decreet aangewezen ambtenaa
 
 ### ART. 18/1.
 
-Onder dezelfde voorwaarden als voorzien voor strafrechtelijke geldboeten,   worden administratieve geldboeten vermenigvuldigd met het aantal betrokken   werknemers.<BR><BR>De vermenigvuldigde geldboete mag evenwel niet meer dan het   honderdvoud van de maximumgeldboete bedragen.
+Onder dezelfde voorwaarden als voorzien voor strafrechtelijke geldboeten, worden administratieve geldboeten vermenigvuldigd met het aantal werknemers en gebruikers op wie de inbreuk betrekking heeft.<br>
+<br>
+De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.
+
+### ART 18/2.
+
+De opdeciemen, vermeld in artikel 1, eerste lid, van de wet van 5 maart 1952 betreffende de opdeciemen op strafrechtelijke geldboeten zijn ook van toe- passing op de administratieve geldboeten, vermeld in artikel 13 tot en met 13/10 van dit decreet.<br>
+<br>
+De aangewezen ambtenaren, vermeld in artikel 15, tweede lid, van dit decreet, vermelden in de beslissing, vermeld in artikel 17, §2, eerste lid, de vermenigvuldiging krachtens artikel 1, eerste lid, van de voormelde wet, en vermelden het getal dat het gevolg is van die verhoging.
 
 ### ART. 19.
 
-<p>Als binnen vijf jaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in artikel 13 tot en met 13/7, verdubbeld. Het bedrag, vermeld in artikel 18, mag in dat geval evenwel 40.000 euro niet overschrijden of het viervoud van de hoogste administratieve geldboete als dat bedrag hoger is.</p>
+<p>Bij herhaling binnen vijf jaar na een strafrechtelijke veroordeling of na een administratieve beslissing om een administratieve geldboete op te leggen als vermeld in artikel 13 tot en met 13/10, kan het bedrag van de administratieve geldboete op het dubbele van het maximum worden gebracht.<br>
+<br>
+Met toepassing van artikel 18 mag het bedrag niet hoger zijn dan 40.000 euro, of het viervoud van de hoogste administratieve geldboete als dat bedrag hoger is.<br>
+<br>
+De termijn van vijf jaar, vermeld in het eerste lid, begint op de dag waarop de administratieve beslissing niet langer vatbaar is voor beroep, of op de dag dat de gerechtelijke beslissing in kracht van gewijsde is gegaan.</p>
 
 ### ART. 20.
 
@@ -602,23 +769,29 @@ Onder dezelfde voorwaarden als voorzien voor strafrechtelijke geldboeten,   word
 
 ### ART. 21.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende   inbreuken op het decreet van 10 december 2010 betreffende de private   arbeidsbemiddeling, een administratieve geldboete worden opgelegd van 50 tot 500   euro aan het bureau, vermeld in artikel 3, 3°, a) tot en met d), van dit   decreet, dat:<BR>1° bemiddelingsdiensten, zoals bepaald in artikel 3, 1°, b) en   c), van het decreet van 10 december 2010 betreffende de private   arbeidsbemiddeling, verricht voor vacatures waar geen reëel jobaanbod tegenover   staat;<BR>2° productieve praktische proeven organiseert in het kader van een   selectieprocedure, die langer duren dan noodzakelijk is om de bekwaamheid van de   sollicitant te onderzoeken;<BR>3° geen document waarin de rechten en   verplichtingen van de werknemer en de werkgever overhandigt aan de gegadigden of   in extenso aanplakt in de voor het publiek toegankelijke lokalen van het   bureau;<BR>4° bij externe communicatie, ongeacht onder welke vorm, geen melding   maakt van het erkenningsnummer;<BR>5° de benaming niet vermeldt waaronder het is   erkend;<BR>6° niet voldoet aan de criteria inzake kwaliteit en deskundigheid,   vermeld in artikel 5, 17°, van het decreet van 10 december 2010 betreffende de   private arbeidsbemiddeling.
+Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende inbreuken op het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling, een administratieve geldboete worden opgelegd van 10 tot 100 euro aan het bureau, vermeld in artikel 3, 3°, a) tot en met d), van dit decreet, dat:<br>
+1° bemiddelingsdiensten, zoals bepaald in artikel 3, 1°, b) en c), van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling, verricht voor vacatures waar geen reëel jobaanbod tegenover staat;<br>
+2° productieve praktische proeven organiseert in het kader van een selectieprocedure, die langer duren dan noodzakelijk is om de bekwaamheid van de sollicitant te onderzoeken;<br>
+3° geen document waarin de rechten en verplichtingen van de werknemer en de werkgever overhandigt aan de gegadigden of in extenso aanplakt in de voor het publiek toegankelijke lokalen van het bureau;<br>
+4° bij externe communicatie, ongeacht onder welke vorm, geen melding maakt van het erkenningsnummer of registratienummer;<br>
+5° de benaming niet vermeldt waaronder het is erkend;<br>
+6° niet voldoet aan de criteria inzake kwaliteit en deskundigheid, vermeld in artikel 5, 17°, van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling.
 
 ### ART. 21/1.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de opleiding niet nauwgezet volgt en die meer opleidingsverlof opneemt dan de uren waarop de werknemer recht heeft volgens artikel 111 en 116 van de herstelwet van 22 januari 1985 houdende sociale bepalingen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
+Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de opleiding niet nauwgezet volgt en die meer opleidingsverlof opneemt dan de uren waarop de werknemer recht heeft volgens artikel 111 en 116 van de herstelwet van 22 januari 1985 houdende sociale bepalingen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
 
 ### ART 21/2.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan aan eenieder die onjuiste inlichtingen verschaft met het oog op de toepassing van een transitiepremie voor ondernemers als vermeld in het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
+Onder de voorwaarden, vermeld in deze afdeling, kan aan eenieder die onjuiste inlichtingen verschaft met het oog op de toepassing van een transitiepremie voor ondernemers als vermeld in het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
 
 ### ART 21/3.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de premie, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
+Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de premie, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
 
 ### ART 21/4.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de jobbonus plus, vermeld in het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
+Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de jobbonus plus, vermeld in het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
 
 ### ART. 22.
 
@@ -626,23 +799,146 @@ Artikel 14 van dit decreet is van overeenkomstige toepassing met betrekking tot 
 
 ### ART. 23.
 
-§ 1. De administratieve geldboete wordt opgelegd door de krachtens artikel 15, tweede lid, aangewezen ambtenaar.<br>
+§1. De administratieve geldboete wordt opgelegd door de krachtens artikel 15, tweede lid, aangewezen ambtenaar.<br>
 <br>
-§ 2. Met uitzondering van de tussenkomst van het Openbaar Ministerie en de gevolgen hiervan op de bevoegdheid van de aangewezen ambtenaar en de verzachtende omstandigheden die niet kunnen weerhouden worden is artikel 17 van dit decreet van overeenkomstige toepassing.<br>
+§2. Met uitzondering van de tussenkomst van het Openbaar Ministerie en de gevolgen hiervan op de bevoegdheid van de aangewezen ambtenaar en de verzachtende omstandigheden die niet kunnen weerhouden worden is artikel 17 van dit decreet van overeenkomstige toepassing.<br>
 <br>
-§ 3. Artikel 18 is van overeenkomstige toepassing op het bepalen van de hoogte van de administratieve geldboete.<br>
+§3. Artikel 18 e, 18/2 zijn van overeenkomstige toepassing op het bepalen van de hoogte van de administratieve geldboete.<br>
 <br>
-§ 4. Indien binnen&nbsp;vijf jaar, te rekenen vanaf de datum van het proces-verbaal, eenzelfde inbreuk wordt vastgesteld, worden de in artikel 21 en 21/1&nbsp;genoemde bedragen verdubbeld.<br>
+§4. Als dezelfde inbreuk wordt vastgesteld binnen vijf jaar nadat een administratieve geldboete is opgelegd conform artikel 21 tot en met 21/4, kan het bedrag van de administratieve geldboete op het dubbele van het maximum worden gebracht.<br>
 <br>
-§ 5. De in § 2 bedoelde beslissing kan niet meer worden genomen na een jaar te rekenen vanaf het plegen van het feit dat een in artikel 21 bedoelde inbreuk uitmaakt.<br>
+De termijn van vijf jaar, vermeld in het eerste lid, begint op de dag waarop de administratieve beslissing niet langer vatbaar is voor beroep.<br>
 <br>
-§ 6. De daden van onderzoek of vervolging, met inbegrip van de door artikel 17, § 2, geregelde kennisgeving aan de werkgever of, in voorkomend geval, aan de gebruiker, om zijn verweermiddelen naar voren te brengen, verricht binnen de in § 5 gestelde termijn, stuiten de loop ervan. Met die daden begint een nieuwe termijn van gelijke duur te lopen, zelfs ten aanzien van personen die niet het voorwerp uitmaakten van de kennisgeving, noch bij de daden van onderzoek betrokken waren.
+§5. De in § 2 bedoelde beslissing kan niet meer worden genomen na een jaar te rekenen vanaf het plegen van het feit dat een in artikel 21 bedoelde inbreuk uitmaakt.<br>
+<br>
+§6. De daden van onderzoek of vervolging, met inbegrip van de door artikel 17, § 2, geregelde kennisgeving aan de werkgever of, in voorkomend geval, aan de gebruiker, om zijn verweermiddelen naar voren te brengen, verricht binnen de in § 5 gestelde termijn, stuiten de loop ervan. Met die daden begint een nieuwe termijn van gelijke duur te lopen, zelfs ten aanzien van personen die niet het voorwerp uitmaakten van de kennisgeving, noch bij de daden van onderzoek betrokken waren.
+
+## AFDELING 3 BIJZONDERE BEPALINGEN OVER DE GRENSOVERSCHRIJDENDE HANDHAVING VAN ADMINISTRATIEVE GELDBOETEN
+
+### ART 23/1.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van hoofdstuk VI van de richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van verordening (EU) nr. 1024/2012 betreffende de administratieve samen- werking via het informatiesysteem interne markt (‘de IMI-verordening’).
+
+### ART 23/2.
+
+§1. De in artikel 15, tweede lid, aangewezen ambtenaar kan, overeenkomstig de bepalingen van hoofdstuk VI van voormelde richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014, bij de bevoegde instantie van een andere EU-lidstaat een verzoek tot kennisgeving van een beslissing tot oplegging van een administratieve geldboete indienen. Het moet hierbij gaan om een administratieve geldboete die:<br>
+1° door de aangewezen ambtenaar overeenkomstig de bepalingen van dit decreet is opgelegd of, in voorkomend geval, door de arbeidsgerechten is bevestigd;<br>
+2° door de aangewezen ambtenaar niet ter kennis kan worden gebracht aan de in een andere EU-lidstaat gevestigde dienstverrichter overeenkomstig artikel 17, §4, van dit decreet.<br>
+&nbsp;<br>
+§2. De in artikel 15, tweede lid, aangewezen ambtenaar dient geen verzoek tot kennisgeving van een beslissing tot oplegging van een administratieve geldboete in, indien en zo lang als de beslissing tot oplegging van een administratieve geldboete in België wordt betwist of aangevochten.<br>
+<br>
+§3. De in artikel 15, tweede lid, aangewezen ambtenaar doet het verzoek tot kennisgeving via het IMI-systeem door middel van een uniform instrument en verstrekt daarin ten minste de volgende gegevens:<br>
+1° de naam en het bekende adres van de geadresseerde en alle andere relevante gegevens of informatie voor de identificatie van de geadresseerde;<br>
+2° een samenvatting van de feiten en de omstandigheden van de inbreuk, de aard van de inbreuk en de toepasselijke regelgeving;<br>
+3° het instrument dat de handhaving in België toelaat en alle andere relevante gegevens of documenten met betrekking tot de onderliggende vordering en de administratieve geldboete, met inbegrip van gegevens of documenten van juridische aard;<br>
+4° de naam, het adres en andere contactgegevens van de aangewezen ambtenaar; 5° het doel van de kennisgeving en de termijn waarbinnen de kennisgeving moet<br>
+worden gedaan.<br>
+&nbsp;
+
+### ART 23/3.
+
+§1. De in artikel 15, tweede lid, aangewezen ambtenaar kan, overeenkomstig de bepalingen van hoofdstuk VI van voormelde richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014, bij de bevoegde instantie van een andere EU-lidstaat een verzoek tot invordering van een beslissing tot op- legging van een administratieve geldboete indienen. Het moet hierbij gaan om een administratieve geldboete die:<br>
+1° door de aangewezen ambtenaar overeenkomstig de bepalingen van dit decreet is opgelegd of, in voorkomend geval, door de arbeidsgerechten is bevestigd;<br>
+2° &nbsp; waartegen geen beroep meer kan worden ingesteld;<br>
+3° door de in artikel 17, §8, eerste lid, van dit decreet aangewezen ambtenaar niet kan worden ingevorderd van de in een andere EU-lidstaat gevestigde dienstverrichter.<br>
+<br>
+§2. De in artikel 15, tweede lid, aangewezen ambtenaar dient geen verzoek tot invordering van een beslissing tot oplegging van een administratieve geldboete in, indien en zo lang de beslissing tot oplegging van een administratieve geldboete, evenals de onderliggende vordering of het instrument dat de handhaving in België toelaat, in België kan worden betwist of aangevochten.<br>
+<br>
+§3. De in artikel 15, tweede lid, aangewezen ambtenaar doet het verzoek tot invordering via het IMI-systeem door middel van een uniform instrument en verstrekt daarin ten minste de volgende gegevens:<br>
+1° de naam en het bekende adres van de geadresseerde en alle andere relevante gegevens of informatie voor de identificatie van de geadresseerde;<br>
+2° een samenvatting van de feiten en de omstandigheden van de inbreuk, de aard van de inbreuk en de toepasselijke regelgeving;<br>
+3° het instrument dat de handhaving in België toelaat en alle andere relevante gegevens of documenten met betrekking tot de onderliggende vordering en de administratieve geldboete, met inbegrip van gegevens of documenten van juridische aard;<br>
+4° de naam, het adres en andere contactgegevens van de aangewezen ambtenaar;<br>
+5° de datum waarop het vonnis of arrest of de beslissing voor tenuitvoerlegging vatbaar of definitief is geworden;<br>
+6° een beschrijving van de aard en het bedrag van de administratieve geldboete;<br>
+7° alle gegevens die voor het handhavingsproces relevant zijn, met inbegrip van het feit of het vonnis of arrest of de beslissing aan de verweerder(s) betekend is en/of bij verstek is gewezen, alsmede een bevestiging van de aangewezen ambtenaar dat tegen de geldboete geen beroep meer kan worden aangetekend, evenals de onderliggende vordering op basis waarvan het verzoek wordt ingediend en de verschillende componenten ervan.<br>
+&nbsp;
+
+## AFDELING 4 BIJZONDERE BEPALINGEN OVER DE GRENSOVERSCHRIJDENDE HANDHAVING VAN ADMINISTRATIEVE FINANCIËLE SANCTIES OF BOETES OPGELEGD DOOR EEN ANDERE EU-LIDSTAAT AAN EEN IN HET VLAAMSE GEWEST GEVESTIGDE DIENTSVERRICHTER
+
+### ART 23/4.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van hoofdstuk VI van de richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het informatiesysteem interne markt (‘de IMI-verordening’).
+
+### ART 23/5.
+
+§1. De in artikel 15, tweede lid, aangewezen ambtenaar neemt, overeenkomstig de bepalingen van hoofdstuk VI van voormelde richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014, kennis van ieder verzoek van een bevoegde instantie van een andere EU-lidstaat tot kennisgeving van een beslissing tot oplegging van een administratieve financiële sanctie en/of boete opgelegd aan een in het Vlaamse Gewest gevestigde dienstverrichter wegens het niet­naleven van de in de betreffende lidstaat geldende regels inzake detachering van werknemers. Het moet hierbij gaan om een administratieve financiële sanctie of boete die:<br>
+1° overeenkomstig de wetten en procedures van de verzoekende lidstaat door een bevoegde instantie is opgelegd of door een administratieve of gerechtelijke instantie of, in voorkomend geval, door arbeidsgerechten is bevestigd;<br>
+2° door de verzoekende instantie van een andere EU-lidstaat niet ter kennis kan worden gebracht aan de in het Vlaamse Gewest gevestigde dienstverrichter overeenkomstig de in die EU-lidstaat geldende nationale wettelijke en bestuursrechtelijke bepalingen en administratieve gebruiken.<br>
+<br>
+§2. De in artikel 15, tweede lid, aangewezen ambtenaar gaat na of:<br>
+1° het via het IMI-systeem ontvangen verzoek vergezeld is van de relevante documenten, desgevallend met inbegrip van het vonnis of arrest of de onherroepelijke beslissing of een gewaarmerkt afschrift daarvan;<br>
+2° deze administratieve financiële sanctie of boete onder de toepassing valt van voormelde richtlijn;<br>
+3° het verzoek volledig is, strookt met de onderliggende beslissing en de in artikel 16, leden 1 en 2, van voormelde richtlijn vermelde gegevens bevat en met name:<br>
+a) de naam en het bekende adres van de geadresseerde en alle andere relevante gegevens of informatie voor de identificatie van de geadresseerde;<br>
+b) een samenvatting van de feiten en de omstandigheden van de inbreuk, de aard van de inbreuk en de toepasselijke regelgeving;<br>
+c) het instrument dat de handhaving in de verzoekende lidstaat toelaat en alle andere relevante gegevens of documenten met betrekking tot de onderliggende vordering en de administratieve financiële sanctie of boete, met inbegrip van gegevens of documenten van juridische aard;<br>
+d) de naam, het adres en andere contactgegevens van de voor de beoordeling van de administratieve financiële sanctie of boete bevoegde instantie en van de bevoegde instantie waar nadere informatie kan worden verkregen over de administratieve financiële sanctie of boete of over de mogelijkheden om de betalingsverplichting of de beslissing tot betalings- verplichting te betwisten;<br>
+e) het doel van de kennisgeving en de termijn waarbinnen de kennisgeving moet worden gedaan.<br>
+<br>
+§3. Als aan de voorwaarden, vermeld in paragraaf 2, is voldaan, gaat de in artikel 15, tweede lid, aangewezen ambtenaar binnen de maand na ontvangst van het verzoek over tot de kennisgeving van de beslissing, alsmede van de desbetreffende documenten, aan de in het Vlaamse Gewest gevestigde dienstverrichter. Deze kennisgeving gebeurt per aangetekende brief.<br>
+<br>
+De kennisgeving, vermeld in het eerste lid, heeft uitvoerbare kracht en wordt geacht hetzelfde effect te hebben als wanneer de kennisgeving door de verzoekende lidstaat was gedaan.<br>
+<br>
+§4. De in artikel 15, tweede lid, aangewezen ambtenaar kan weigeren om gevolg te geven aan het verzoek tot kennisgeving, als:<br>
+1° het verzoek de gegevens, vermeld in §2, 3°, a) tot en met e), niet bevat;<br>
+2° het verzoek onvolledig is;<br>
+3° het verzoek onmiskenbaar niet strookt met de onderliggende beslissing.<br>
+<br>
+§5. De in artikel 15, tweede lid, aangewezen ambtenaar stelt de verzoekende instantie van de andere EU-lidstaat in kennis van:<br>
+1° de maatregelen die hij naar aanleiding van het verzoek tot kennisgeving heeft genomen en de datum waarop de geadresseerde in kennis werd gesteld;<br>
+2° de weigeringsgronden, als hij de kennisgeving weigert overeenkomstig paragraaf 4.
+
+### ART 23/6.
+
+§1. De in artikel 15, tweede lid, aangewezen ambtenaar neemt, overeenkomstig de bepalingen van hoofdstuk VI van voormelde richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014, kennis van ieder verzoek van een bevoegde instantie van een andere EU-lidstaat tot invordering van een administratieve financiële sanctie of boete opgelegd aan een in het Vlaamse Gewest gevestigde dienstverrichter wegens het niet­naleven van de in de betreffende lid- staat geldende regels inzake detachering van werknemers. Het moet hierbij gaan om een administratieve financiële sanctie of boete die:<br>
+1° overeenkomstig de wetten en procedures van de verzoekende lidstaat door een bevoegde instantie is opgelegd of door een administratieve of gerechtelijke instantie of, in voorkomend geval, door arbeidsgerechten is bevestigd;<br>
+2° waartegen geen beroep meer kan worden ingesteld;<br>
+3° door de verzoekende instantie van een andere EU-lidstaat niet kan worden ingevorderd van de in het Vlaamse Gewest gevestigde dienstverrichter overeenkomstig de in die EU-lidstaat geldende nationale wettelijke en bestuursrechtelijke bepalingen en administratieve gebruiken.<br>
+&nbsp;<br>
+§2. De in artikel 15, tweede lid, aangewezen ambtenaar gaat na of:<br>
+1° het via het IMI-systeem ontvangen verzoek vergezeld is van de relevante documenten in verband met de invordering van die administratieve financiële sanctie of boete, desgevallend met inbegrip van het vonnis of arrest of de definitieve beslissing of een gewaarmerkt afschrift daarvan, die de wettelijke basis en titel vormt voor de tenuitvoerlegging van het invorderingsverzoek;<br>
+2° de in te vorderen financiële sanctie of boete onder de toepassing valt van voormelde richtlijn;<br>
+3° het verzoek volledig is, strookt met de onderliggende beslissing en de in artikel 16, leden 1 en 2, van voormelde richtlijn vermelde gegevens bevat en met name:<br>
+a)&nbsp; de naam en het bekende adres van de geadresseerde en alle andere relevante gegevens of informatie voor de identificatie van de geadresseerde;<br>
+b)&nbsp; een samenvatting van de feiten en de omstandigheden van de inbreuk, de aard van de inbreuk en de toepasselijke regelgeving;<br>
+c)&nbsp; het instrument dat de handhaving in de verzoekende lidstaat toelaat en alle andere relevante gegevens of documenten met betrekking tot de onderliggende vordering en de administratieve financiële sanctie of boete, met inbegrip van gegevens of documenten van juridische aard;<br>
+d)&nbsp; de naam, het adres en andere contactgegevens van de voor de beoordeling van de administratieve sanctie of boete bevoegde instantie en van de bevoegde instantie waar nadere informatie kan worden verkregen over de administratieve financiële sanctie of boete of over de mogelijkheden om de betalingsverplichting of de beslissing tot betalingsverplichting te betwisten;<br>
+e)&nbsp; de datum waarop het vonnis of arrest of de beslissing voor tenuitvoerlegging vatbaar of definitief is geworden;<br>
+f)&nbsp; &nbsp;een beschrijving van de aard en het bedrag van de administratieve financiële sanctie of boete;<br>
+g)&nbsp; alle gegevens die voor het handhavingsproces relevant zijn, met inbegrip van het feit of het vonnis of arrest of de beslissing aan de verweerder(s) betekend is en/of bij verstek is gewezen, alsmede een bevestiging van de verzoekende instantie dat tegen de administratieve financiële sanctie en/ of boete geen beroep meer kan worden aangetekend, evenals de onderliggende vordering op basis waarvan het verzoek wordt ingediend en de verschillende componenten ervan;<br>
+4° de in te vorderen administratieve financiële sanctie of boete minstens 350 euro bedraagt of het equivalent van dat bedrag.<br>
+<br>
+§3. Als aan de voorwaarden, vermeld in paragraaf 2, is voldaan, vordert de in artikel 17, §8, eerste lid, aangewezen ambtenaar de administratieve financiële sanctie of boete in.<br>
+<br>
+§4. De in artikel 15, tweede lid, aangewezen ambtenaar doet de kennisgeving van het verzoek tot invordering van een administratieve financiële sanctie of boete, alsmede van de desbetreffende documenten, aan de in het Vlaamse Gewest gevestigde dienstverrichter binnen de maand na ontvangst van het verzoek daartoe van een bevoegde instantie van de andere EU-lidstaat.<br>
+<br>
+§5. De in artikel 15, tweede lid, aangewezen ambtenaar kan weigeren om gevolg te geven aan het invorderingsverzoek als:<br>
+1° het verzoek de gegevens, vermeld in §2, 3°, a) tot en met g), niet bevat;<br>
+2° het verzoek onvolledig is;<br>
+3° het verzoek onmiskenbaar niet strookt met de onderliggende beslissing;<br>
+4° de in te vorderen administratieve financiële sanctie of boete minder bedraagt dan 350 euro of het equivalent van dat bedrag;<br>
+5° uit onderzoek duidelijk blijkt dat de verwachte kosten of middelen van de invordering van de boete niet in verhouding staan tot het in te vorderen bedrag of grote moeilijkheden zouden opleveren;<br>
+6° de in de Belgische Grondwet opgenomen grondrechten en vrijheden van verweerders en de rechtsbeginselen die op hen van toepassing zijn, niet zijn nageleefd.<br>
+<br>
+§6. De in artikel 15, tweede lid, aangewezen ambtenaar stelt de verzoekende instantie van de andere EU-lidstaat in kennis van:<br>
+1° de maatregelen die hij naar aanleiding van het verzoek tot invordering heeft genomen en de datum waarop de geadresseerde in kennis werd gesteld;<br>
+2° de weigeringsgronden, als hij de uitvoering van een verzoek tot invordering weigert overeenkomstig paragraaf 5.<br>
+&nbsp;
 
 ## HOOFDSTUK IV STRAFBEPALINGEN
 
 ### ART. 24.
 
-Onverminderd de strafbepalingen van de artikelen 269 tot 274 van het Strafwetboek:<br />1° worden gestraft met een gevangenisstraf van acht dagen tot drie maanden en met geldboete van 26 tot 500 euro of met één van die straffen alleen het opleidingscentrum, de werkgever en in voorkomend geval de gebruiker, zijn aangestelden of lasthebbers, die binnen de door de sociaalrechtelijke inspecteurs bepaalde termijn, het door deze laatsten gegeven bevel tot aanplakking en/of overhandiging van documenten waarvan het bestaan krachtens de bestaande regelgeving zeker is, bedoeld bij artikel 7, 3°, van dit decreet, niet nakomen;<br />2° wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met geldboete van 26 tot 500 euro of met één van die straffen alleen het opleidingscentrum, de werkgever en in voorkomend geval de gebruiker, zijn aangestelden of lasthebbers, die een inbreuk, waarvoor een administratieve geldboete werd opgelegd overeenkomstig afdeling 2 van hoofdstuk III van dit decreet, niet regulariseert voor de datum zoals vermeld in de beslissing waarvan sprake in artikel 6, § 3;<br />3° wordt gestraft met een gevangenisstraf van acht dagen tot één jaar en met een geldboete van 1.000 tot 5.000 euro of met één van die straffen alleen, al wie het krachtens hoofdstuk II van dit decreet en de uitvoeringsbesluiten ervan geregelde toe-zicht verhindert.<br /><br />De strafbepalingen, vermeld in het eerste lid, punt 3°, zijn niet van toepassing op de inbreuken op artikel 7, 2°, c/1).
+Onverminderd de strafbepalingen van de artikelen 269 tot 274 van het Strafwetboek:<br>
+1° worden gestraft met een geldboete van 100 tot 1000 euro het opleidingscentrum, de werkgever en in voorkomend geval de gebruiker, zijn aangestelden of lasthebbers, die binnen de door de sociaalrechtelijke inspecteurs bepaalde termijn, het door deze laatsten gegeven bevel tot aanplakking en/of overhandiging van documenten waarvan het bestaan krachtens de bestaande regelgeving zeker is, bedoeld bij artikel 7, 3°, van dit decreet, niet nakomen;<br>
+2° worden gestraft met een geldboete van 100 tot 1000 euro het opleidingscentrum, de werkgever en, in voorkomend geval, de gebruiker, zijn aangestelden of lasthebbers, die binnen de termijn die de sociaalrechtelijke inspecteurs bepalen, het bevel van de sociaalrechtelijke inspecteurs tot het opmaken of overhandigen van elk document ter vervanging van de documenten, vermeld in de reglementeringen waarvoor de sociaalrechtelijke inspecteurs bevoegd zijn, vermeld in artikel 7, 4°, van dit decreet, niet nakomen;<br>
+3° wordt gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 600 tot 6000 euro of met één van die straffen alleen, al wie het krachtens hoofdstuk II van dit decreet en de uitvoeringsbesluiten ervan geregelde toe-zicht verhindert;<br>
+4° worden gestraft met een geldboete van 100 tot 1000 euro, de personen die zich niet houden aan de beslissing van de voorzitter van de arbeidsrechtbank, vermeld in artikel 7/5 van dit decreet.<br>
+<br>
+De strafbepalingen, vermeld in het eerste lid, punt 3°, zijn niet van toepassing op de inbreuken op artikel 7, 2°, c/1).<br>
+<br>
+Bij herhaling binnen vijf jaar kan de straf, vermeld in het eerste lid, 1° tot en met 4°, op het dubbele van het maximum worden gebracht.
 
 ### ART. 25.
 
@@ -651,6 +947,15 @@ De opleidingscentra, werkgevers of de gebruikers zijn burgerrechtelijk aansprake
 ### ART. 26.
 
 In geval van herhaling van een in artikel 24 bedoeld misdrijf, is artikel 85 van het Strafwetboek niet van toepassing.
+
+## HOOFDSTUK IV/1 UITSLUITING VAN HET RECHT OP SUBSIDIE
+
+### ART 26/1.
+
+De volgende personen kunnen door de Vlaamse Regering gedurende een periode van maximaal twaalf maanden worden uitgesloten van het recht op subsidie:<br>
+1° de persoon die een in kracht van gewijsde gegane strafrechtelijke veroordeling heeft opgelopen wegens een inbreuk die conform dit decreet of conform de in artikel 2, eerste lid, van dit decreet vermelde regelgeving wordt bestraft met een strafrechtelijke geldboete van 300 tot 3000 euro of met een strafrechtelijke boete van 600 tot 6000 euro;<br>
+2° de persoon die conform dit decreet een niet langer voor beroep vatbare administratieve beslissing heeft opgelopen wegens een inbreuk die conform dit decreet wordt bestraft met een administratieve geldboete van 150 tot 1500 euro of een administratieve geldboete van 300 tot 3000 euro;<br>
+3° de persoon die een in kracht van gewijsde gegane strafrechtelijke veroordeling of een niet langer voor beroep vatbare administratieve beslissing heeft opgelopen wegens een inbreuk op de sociale wetgeving die wordt bestraft met een sanctie van niveau 4 als vermeld in artikel 101 van het Sociaal Strafwetboek.
 
 ## HOOFDSTUK V WIJZIGINGSBEPALINGEN
 
