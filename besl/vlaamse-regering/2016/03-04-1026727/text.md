@@ -12,12 +12,12 @@ In dit besluit wordt verstaan onder :<br>
 1° agentschap : het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 1° /1 besluit van 27 november 2015: het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget;<br>
 1° /2 besluit van 10 juni 2016: het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering.<br>
-2° bijstandsorganisatie : een organisatie die personen met een handicap aan wie een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning is toegewezen, bijstaat bij de besteding van het cashbudget, de aanwending van de voucher en de organisatie van zorg en ondersteuning als vermeld in artikel 14 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+2° ...;<br>
 3° budget voor niet rechtstreeks toegankelijke zorg en ondersteuning : een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
 4° budgethouder : de persoon met een handicap die gebruikmaakt van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning, of zijn wettelijke vertegenwoordiger;<br>
 5° bovengebruikelijke zorg : de zorg die in samenspraak met de persoon met een handicap geboden wordt door gezinsleden binnen hetzelfde huishouden aan een gezinslid met een handicap, en die de gebruikelijke zorg overstijgt;<br>
 6° coördinatiepunt : het coördinatiepunt, vermeld in artikel 8 van het besluit van 17 maart 2006;<br>
-7° dienst Ondersteuningsplan : een dienst Ondersteuningsplan als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
+7° ...;<br>
 8° gebruikelijke zorg : de normale, dagelijkse zorg die partners of ouders en inwonende kinderen geacht worden elkaar onderling te bieden omdat ze als leefeenheid een gezamenlijk huishouden voeren en op die grond een gezamenlijke verantwoordelijkheid hebben voor het functioneren van dat huishouden;<br>
 9° grootte van de ondersteuningskloof : de grootte van de discrepantie tussen de ondersteuning die een persoon met een handicap nodig heeft en de huidige ondersteuning van die persoon, zoals hulpmiddelen, ondersteuning door mantelzorgers, ondersteuning door het sociale netwerk, reguliere diensten en het gebruik van rechtstreeks en niet rechtstreeks toegankelijke ondersteuning, gesubsidieerd door het agentschap;<br>
 10° multidisciplinair team : een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren als vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap, en die een multidisciplinair verslag opmaakt in het kader van een aanvraag van budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
@@ -26,86 +26,33 @@ In dit besluit wordt verstaan onder :<br>
 12° zorgaanbieder : de natuurlijke persoon of de rechtspersoon die niet rechtstreeks toegankelijke zorg of ondersteuning aanbiedt aan een budgethouder;<br>
 13° besluit van 17 maart 2006 : het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap.
 
-## Hoofdstuk 2 De regionale prioriteitencommissie en de toekenning van prioriteitengroepen
+## Hoofdstuk 2 De toekenning van een prioriteitengroep en de rangschikking binnen prioriteitengroepen
 
-## Afdeling 1 Samenstelling, opdrachten en werking van de regionale prioriteitencommissie
+## Afdeling 1 ...
 
 ### ART. 2.
 
-<p>§ 1. Er wordt in elke provincie een regionale prioriteitencommissie opgericht.<br>
-De regionale prioriteitencommissie heeft de volgende opdrachten :<br>
-1° de toekenning van een prioriteitengroep, als vermeld in artikel 23 van het besluit van de Vlaamse Regering over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, aan de vraag van personen met een handicap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
-2° ...</p>
-
-<p>§ 2. De regionale prioriteitencommissie van een provincie is bevoegd voor de behandeling van dossiers van personen met een handicap die in de provincie gedomicilieerd zijn.</p>
-
-<p>In afwijking van het eerste lid is de regionale prioriteitencommissie in de provincie Vlaams-Brabant bevoegd voor de behandeling van dossiers van personen met een handicap die in de provincie gedomicilieerd zijn, en voor de afhandeling van de dossiers van personen met een handicap die gedomicilieerd zijn in het tweetalig gebied Brussel-Hoofdstad.</p>
+<p>...</p>
 
 ### ART. 3.
 
-<p>§ 1. De regionale prioriteitencommissies samengesteld uit :<br>
-1° ervaringsdeskundigen;<br>
-2° professionele deskundigen;<br>
-3° ambtenaren van het agentschap.</p>
-
-<p>De regionale prioriteitencommissie zetelt met vijf leden waarvan minstens één ervaringsdeskundige, minstens één professionele deskundige en één ambtenaar van het agentschap.</p>
-
-<p>De regionale prioriteitencommissie kan nooit zo samengesteld zijn dat professionele deskundigen, die tewerkgesteld zijn bij een zorgaanbieder die vergund is door het agentschap de meerderheid vormen van de stemgerechtigde leden.</p>
-
-<p>Om als lid van de regionale prioriteitencommissie te kunnen worden benoemd tot ervaringsdeskundige als vermeld in het eerste lid, 1°, moet het kandidaat-lid aantonen dat hij aan de volgende voorwaarden voldoet :<br>
-1° door dagelijkse, doorleefde en persoonlijke ervaring een affiniteit opgebouwd hebben met de welzijnssector in het algemeen en met de sector van personen met een handicap in het bijzonder;<br>
-2° over een ruim empathisch vermogen beschikken ten aanzien van verschillende doelgroepen, leeftijdscategorieën en sociale situaties;<br>
-3° vanuit een brede maatschappelijke kijk in staat zijn de eigen ervaring te overstijgen;<br>
-4° bereid zijn om gemotiveerde keuzes te maken binnen het regelgevend kader opgenomen in dit besluit.</p>
-
-<p>Om als lid van de regionale prioriteitencommissie te kunnen worden benoemd tot professionele deskundige als vermeld in het eerste lid, 2°, of als ambtenaar van het agentschap moet het kandidaat-lid aantonen dat hij voldoet aan de volgende voorwaarden :<br>
-1° vanuit de werkervaring of de levenservaring een affiniteit opgebouwd hebben met de welzijnssector in het algemeen en met de sector van personen met een handicap in het bijzonder;<br>
-2° de voorwaarden, vermeld in het derde lid, punt 2° tot en met 4° ;<br>
-3° beschikken over een bachelor- of masterdiploma in de gedrags-, psychosociale, sociale of paramedische wetenschappen.<br>
-<br>
-Het lidmaatschap van een regionale prioriteitencommissie is onverenigbaar met het lidmaatschap van het raadgevend comité van het agentschap of van de adviescommissie, vermeld in hoofdstuk IV van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap.<br>
-<br>
-§ 2. De regionale prioriteitencommissie wordt voorgezeten door een voorzitter die geen stemrecht heeft.</p>
+<p>...</p>
 
 ### ART. 4.
 
-<p>§ 1. De Vlaamse minister, bevoegd voor de bijstand aan personen, benoemt de leden, voorzitters en plaatsvervangende voorzitters van de regionale prioriteitencommissie. De leden die geen ambtenaar zijn van het agentschap, de voorzitters en de plaatsvervangende voorzitters worden voorgedragen door het raadgevend comité bij het agentschap. De ambtenaren van het agentschap worden voorgedragen door de leidend ambtenaar van het agentschap.</p>
-
-<p>De Vlaamse minister, bevoegd voor de bijstand aan personen, benoemt in elke provincie een pool van leden die geen ambtenaar zijn, meer bepaald:<br>
-1° vijftien leden in de provincie West-Vlaanderen, Vlaams-Brabant en Limburg;<br>
-2° achttien leden in de provincie Oost-Vlaanderen;<br>
-3° eenentwintig leden in de provincie Antwerpen.</p>
-
-<p>De leden, voorzitters en plaatsvervangende voorzitters worden benoemd voor een periode van vijf jaar.</p>
-
-<p>§ 2. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan aan het mandaat van de leden een einde stellen :<br>
-1° op verzoek van de betrokkene;<br>
-2° ambtshalve, als de betrokkene :<br>
-a) niet meer beantwoordt aan de benoemingsvoorwaarden;<br>
-b) zes keer na elkaar, hetzij drie keer na elkaar zonder schriftelijke verontschuldiging de vergaderingen niet bijwoont;<br>
-c) op een andere ernstige wijze tekortschiet in de uitoefening van zijn mandaat.</p>
+<p>...</p>
 
 ### ART. 5.
 
-<p>De voorzitters, de plaatsvervangende voorzitters en de leden niet-ambtenaren van de regionale prioriteitencommissie ontvangen presentiegelden en vergoedingen voor reiskosten en verblijfskosten conform het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren.</p>
-
-<p>Voor de toepassing van het voormelde besluit wordt de regionale prioriteitencommissie ingedeeld in categorie III als vermeld in artikel 3, § 1, c), van het voormelde besluit.<br>
-<br>
-De forfaitaire jaarlijkse toelage, vermeld in artikel 6, van het voormelde besluit, kan worden verdeeld tussen de voorzitter en de plaatsvervangende voorzitters van een regionale prioriteitencommissie naargelang het aantal dat elk van hen effectief heeft voorgezeten.</p>
-
-<p>De presentiegelden en vergoedingen zijn ten laste van het agentschap.</p>
+<p>...</p>
 
 ### ART. 6.
 
-<p>Het&nbsp;agentschap staat in voor de administratieve en logistieke ondersteuning van de regionale prioriteitencommissie.</p>
-
-<p>De regionale prioriteitencommissie werkt met geanonimiseerde dossiers.</p>
-
-<p>De leidend ambtenaar van het agentschap stelt het huishoudelijk reglement van de regionale prioriteitencommissie vast.</p>
+<p>...</p>
 
 ### ART. 7.
 
-&nbsp;De persoon met een handicap of zijn   wettelijke vertegenwoordiger kunnen vragen om door de regionale   prioriteitencommissie te worden gehoord.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## Afdeling 2 De toekenning van een prioriteitengroep
 
@@ -175,9 +122,9 @@ Als conform artikel 9, derde lid, geen score wordt toegekend voor het criterium,
 
 <p>In dit artikel wordt verstaan onder basisondersteuningsbudget : het basisondersteuningsbudget, vermeld in hoofdstuk 4 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.</p>
 
-<p>Als de budgethouder die het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning dat het agentschap ter beschikking heeft gesteld, stopzet omdat hij de ondersteuning die hij nodig heeft, wil organiseren met een basisondersteuningsbudget, eventueel aangevuld met rechtstreeks toegankelijke hulp, gesubsidieerd door het agentschap, binnen een periode van twee jaar vanaf de datum van de stopzetting van het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning die de budgethouder heeft meegedeeld, aan het agentschap vraagt om het hem toegewezen budget voor niet rechtstreeks toegankelijke zorg en ondersteuning opnieuw ter beschikking te stellen, hoeft het dossier niet te worden voorgelegd aan de regionale prioriteitencommissie. Aan het verzoek om ter beschikkingstelling van het toegewezen budget wordt ambtshalve prioriteitengroep 1 toegekend.</p>
+<p>Als de budgethouder die het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning dat het agentschap ter beschikking heeft gesteld, stopzet omdat hij de ondersteuning die hij nodig heeft, wil organiseren met een basisondersteuningsbudget, eventueel aangevuld met rechtstreeks toegankelijke hulp, gesubsidieerd door het agentschap, binnen een periode van twee jaar vanaf de datum van de stopzetting van het gebruik van het budget voor niet rechtstreeks toegankelijke zorg en ondersteuning die de budgethouder heeft meegedeeld, aan het agentschap vraagt om het hem toegewezen budget voor niet rechtstreeks toegankelijke zorg en ondersteuning opnieuw ter beschikking te stellen, hoeft het dossier niet te worden voorgelegd aan de Vlaamse toeleidingscommissie. Aan het verzoek om ter beschikkingstelling van het toegewezen budget wordt ambtshalve prioriteitengroep 1 toegekend.</p>
 
-<p>Als de budgethouder aanspraak wil maken op een hogere budgetcategorie dan de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, moet hij een aanvraag om herziening indienen conform artikel 35 van het besluit van 27 november 2015. Het dossier moet voorgelegd worden aan de regionale prioriteitencommissie voor de toekenning van een prioriteitengroep, voor het gedeelte dat de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, overschrijdt. Aan het gedeelte van de budgetcategorie dat overeenstemt met de budgetcategorie waarvan de budgethouder het gebruik heeft stopgezet, wordt ambtshalve prioriteitengroep 1 toegekend.</p>
+<p>Als de budgethouder aanspraak wil maken op een hogere budgetcategorie dan de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, moet hij een aanvraag om herziening indienen conform artikel 35 van het besluit van 27 november 2015. Het dossier moet voorgelegd worden aan de Vlaamse toeleidingscommissie voor de toekenning van een prioriteitengroep, voor het gedeelte dat de budgetcategorie van het budget waarvan de budgethouder het gebruik heeft stopgezet, overschrijdt. Aan het gedeelte van de budgetcategorie dat overeenstemt met de budgetcategorie waarvan de budgethouder het gebruik heeft stopgezet, wordt ambtshalve prioriteitengroep 1 toegekend.</p>
 
 ## [Afdeling 3 Rangschikking binnen een prioriteitengroep (ing. BVR 8 juni 2018, art. 30, I: 27 augustus 2018)]
 
@@ -188,8 +135,8 @@ Binnen elke prioriteitengroep worden de vragen naar een budget voor niet rechtst
 ### ART 15/2.
 
 Als een herziening wordt gevraagd van een budgetcategorie en de prioriteitengroep die is toegewezen, of van een prioriteitengroep die is toegekend met toepassing van hoofdstuk 2 en 3 van het besluit van 27 november 2015 of met toepassing van artikel 3 tot en met 14 van het besluit van 10 juni 2016, of als herziening wordt gevraagd met toepassing van artikel 27/1, § 2, tweede lid en § 3, eerste lid, van besluit van 10 juni 2016, wordt de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning na herziening binnen elke prioriteitengroep als volgt chronologisch gerangschikt:<br>
-1° als de regionale prioriteitencommissie in het kader van de aanvraag van herziening een hogere prioriteitengroep toekent dan de prioriteitengroep die eerder is toegekend, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep, rekening houdend met de datum van de aanvraag van herziening, die wordt vastgesteld conform artikel 5 van het besluit van 27 november 2015, of rekening houdend met de datum waarop het multidisciplinair team de informatie over de dringendheid, vermeld in artikel 35, § 2, van het besluit van 27 november 2015, bezorgt aan het agentschap, als alleen een herziening van de toegekende prioriteitengroep wordt gevraagd;<br>
-2° als de regionale prioriteitencommissie in het kader van de aanvraag van herziening dezelfde of een lagere prioriteitengroep toekent dan de eerder toegekende prioriteitengroep, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep met dezelfde datum waarmee de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning waarop de aanvraag van herziening betrekking heeft, was gerangschikt.<br>
+1° als de Vlaamse toeleidingscommissie in het kader van de aanvraag van herziening een hogere prioriteitengroep toekent dan de prioriteitengroep die eerder is toegekend, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep, rekening houdend met de datum van de aanvraag van herziening, die wordt vastgesteld conform artikel 5 van het besluit van 27 november 2015, of rekening houdend met de datum waarop het multidisciplinair team de informatie over de dringendheid, vermeld in artikel 35, § 2, van het besluit van 27 november 2015, bezorgt aan het agentschap, als alleen een herziening van de toegekende prioriteitengroep wordt gevraagd;<br>
+2° als de Vlaamse toeleidingscommissie in het kader van de aanvraag van herziening dezelfde of een lagere prioriteitengroep toekent dan de eerder toegekende prioriteitengroep, gebeurt de chronologische rangschikking binnen de toegekende prioriteitengroep met dezelfde datum waarmee de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning waarop de aanvraag van herziening betrekking heeft, was gerangschikt.<br>
 <br>
 Als herziening wordt gevraagd van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning budget dat ter beschikking gesteld is, wordt de vraag naar een budget na herziening binnen elke prioriteitengroep chronologisch gerangschikt, rekening houdend met de datum van de aanvraag van herziening, die wordt vastgesteld conform artikel 5 van het besluit van 27 november 2015.
 
