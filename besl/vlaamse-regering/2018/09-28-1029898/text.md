@@ -90,7 +90,7 @@ De beslissing wordt meegedeeld aan de aanvrager.
 
 § 1. Het agentschap stelt, na de ontvangst en in voorkomend geval de goedkeuring van het ondersteuningsplan persoonsvolgende financiering, conform artikel 21, tweede tot en met vierde lid, van het besluit van 27 november 2015, een budgetcategorie vast en beslist dat :<br>
 1° een budget wordt toegewezen ten bedrage van de budgetcategorie die conform artikel 21, tweede tot en met vierde lid, van het besluit van 27 november 2015, is vastgesteld;<br>
-2° ambtshalve prioriteitengroep 1 als vermeld in hoofdstuk 2, afdeling 2, van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een regionale prioriteitencommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering, wordt toegekend;<br>
+2° ambtshalve prioriteitengroep 1 als vermeld in hoofdstuk 2, afdeling 2, van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een Vlaamse toeleidingscommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering, wordt toegekend;<br>
 3° de vraag naar het toegewezen budget binnen prioriteitengroep 1 ambtshalve gerangschikt wordt met de datum van de aanvraag behalve als het agentschap reeds eerder een budget heeft toegewezen waaraan prioriteitengroep 1 werd toegekend, in welk geval de vraag naar het toegewezen budget wordt gerangschikt met dezelfde datum als de datum waarmee het eerder toegewezen budget was gerangschikt.<br>
 <br>
 De beslissing, vermeld in het eerste lid, wordt meegedeeld aan de aanvrager.<br>
@@ -151,7 +151,7 @@ Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 De werkingsmiddelen, vermeld in het eerste lid, mogen niet aangewend worden voor reservevorming, voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
-In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
 Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
 <br>
