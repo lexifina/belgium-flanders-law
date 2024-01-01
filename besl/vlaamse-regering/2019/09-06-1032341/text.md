@@ -180,11 +180,11 @@ De aanvraag, vermeld in het eerste lid, wordt ingediend conform artikel 5 van de
 
 § 1. Het VEKA controleert conform artikel 5 van de gedelegeerde verordening (EU) 2019/331 of de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van voormelde verordening en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
 <br>
-Als de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van de voormelde verordening, keurt het VEKA conform artikel 5 van de voormelde verordening de aanvraag en de aanvang van de normale werking goed en beslist de minister conform artikel 18 van voormelde verordening over de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
+Als de aanvraag tot kosteloze toewijzing van emissierechten voor een nieuwkomer voldoet aan de bepalingen van de voormelde verordening, keurt het VEKA conform artikel 5 van de voormelde verordening de aanvraag en de aanvang van de normale werking goed en berekent het VEKA conform artikel 18 van voormelde verordening de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
 <br>
-§ 2. Het VEKA brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de gemotiveerde beslissing over het al of niet goedkeuren van de aanvraag tot kosteloze toewijzing van emissierechten voor de nieuwkomer en van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
+§ 2. Het VEKA brengt de exploitant van een nieuwkomer op elektronische wijze op de hoogte van de gemotiveerde beslissing over het al of niet goedkeuren van de aanvraag tot kosteloze toewijzing van emissierechten voor de nieuwkomer en van het resultaat van de berekening zoals vermeld in de eerste paragraaf.<br>
 <br>
-Bij niet goedkeuring van de aanvraag of de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister beslist over dit beroep binnen de 30 dagen.<br>
+Bij niet goedkeuring van de aanvraag of bij niet aanvaarding van de berekening door het VEKA zoals vermeld in de eerste paragraaf kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister beslist over dit beroep binnen de 30 dagen.<br>
 <br>
 § 3. Het VEKA brengt de Europese Commissie onmiddellijk op de hoogte van de voorlopige jaarlijkse hoeveelheid kosteloos toegewezen emissierechten voor de nieuwkomer.<br>
 <br>
@@ -210,24 +210,28 @@ De minister kan nadere regels en procedures opstellen voor de aanpassing van de 
 
 ### ART 16.
 
-§ 1. De kosteloze toewijzing van emissierechten wordt stopgezet, als aan een van de volgende voorwaarden is voldaan:<br>
+§1. De kosteloze toewijzing van emissierechten wordt stopgezet, als aan een van de volgende voorwaarden is voldaan:<br>
 1° de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit wordt ingetrokken of de inrichting verliest haar hoedanigheid van BKG-installatie;<br>
 2° de BKG-installatie is niet meer in bedrijf en het is technisch onmogelijk om haar opnieuw op te starten;<br>
 3° de BKG-installatie is niet meer in bedrijf en de exploitant van de BKG-installatie kan niet aantonen dat de activiteiten binnen een concrete en redelijke termijn opnieuw zullen worden opgestart.<br>
 <br>
 De omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, vermeld in het eerste lid, 1°, betreft de volledige omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit of het deel van de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit dat betrekking heeft op de BKG-installatie.<br>
 <br>
-§ 2. De exploitant van een BKG-installatie meldt elk geval, vermeld in paragraaf 1, eerste lid, onverwijld aan het VEKA.<br>
+§2. De exploitant van een BKG-installatie meldt elk geval, vermeld in paragraaf 1, eerste lid, onverwijld aan het VEKA.<br>
 <br>
 De minister kan nadere regels en procedures opstellen voor de melding.<br>
 <br>
-§ 3. Als de exploitant van een BKG-installatie de melding, vermeld in paragraaf 2, niet bezorgt aan het VEKA conform de regels opgesteld door de minister, kan het VEKA vaststellen dat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan op basis van een gemotiveerd advies van het verificatiebureau.<br>
+§3. Het VEKA beslist na de melding, zoals bepaald in paragraaf 2, op basis van een gemotiveerd advies van het verificatiebureau, of voldaan is aan de voorwaarden, vermeld in paragraaf 1, en over de datum van stopzetting van de BKG-installatie. Indien de exploitant van de BKG-installatie de melding, vermeld in paragraaf 2, niet heeft bezorgd aan het VEKA, kan het VEKA vaststellen dat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan op basis van een gemotiveerd advies van het verificatiebureau.&nbsp;<br>
 <br>
-In het eerste lid wordt verstaan onder verificatiebureau: de organisatie die is aangesteld om de correcte uitvoering van de energiebeleidsovereenkomst te bewaken, en daarover adviezen te verstrekken en verslag uit te brengen, vermeld in artikel 4 van de energiebeleidsovereenkomst voor de verankering van en voor blijvende energie-efficiëntie in de Vlaamse energie-intensieve industrie (VER-bedrijven), goedgekeurd door de Vlaamse Regering op 4 april 2014.<br>
+Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de beslissing.<br>
 <br>
-§ 4. Met behoud van de toepassing van artikel 11 en 15 stelt de minister in alle gevallen, vermeld in paragraaf 1, eerste lid, de kosteloze toewijzing van emissierechten vast op nul voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030. De vaststelling van de kosteloze toewijzing van emissierechten op nul start in het jaar nadat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan.<br>
+Bij een weigering van een aanvraag kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister behandelt dit beroep binnen de 30 dagen.<br>
 <br>
-§ 5. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de stopzetting van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten.
+In het eerste lid wordt verstaan onder verificatiebureau: de organisatie die is aangesteld om de correcte uitvoering van de energiebeleidsovereenkomst te bewaken, en daarover adviezen te verstrekken en verslag uit te brengen, vermeld in artikel 6 van de energiebeleidsovereenkomst voor Vlaamse energie-intensieve ondernemingen (VER-bedrijven), zoals goedgekeurd door de Vlaamse Regering op 10 november 2022.<br>
+<br>
+§4. Met behoud van de toepassing van artikel 11 en 15 stelt de minister in alle gevallen, vermeld in paragraaf 1, eerste lid, de kosteloze toewijzing van emissierechten vast op nul voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030. De vaststelling van de kosteloze toewijzing van emissierechten op nul start in het jaar nadat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan.<br>
+<br>
+§5. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de stopzetting van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten.
 
 ## Afdeling 5. Openbaarmaking van informatie en confidentiële bedrijfsinformatie
 
@@ -241,9 +245,9 @@ Informatie die onder het beroepsgeheim valt, wordt niet openbaar gemaakt aan and
 
 ### ART 18.
 
-Tijdens de periode 2021-2030 wordt jaarlijks, uiterlijk op 28 februari, de hoeveelheid kosteloos toegewezen emissierechten voor het kalenderjaar in kwestie verleend aan de exploitant van een BKG-installatie.<br>
+Tijdens de periode 2021-2030 wordt jaarlijks, uiterlijk op 30 juni, de hoeveelheid kosteloos toegewezen emissierechten voor het kalenderjaar in kwestie verleend aan de exploitant van een BKG-installatie.<br>
 <br>
-Het VEKA geeft de eerste opdracht om emissierechten te verlenen aan nieuwkomers nadat de kosteloze toewijzing van emissierechten voor de nieuwkomer conform artikel 13, § 4, van dit besluit, is vastgesteld. De emissierechten die voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030 zijn toegewezen, worden uiterlijk op 28 februari van het kalenderjaar in kwestie verleend.
+Het VEKA geeft de eerste opdracht om emissierechten te verlenen aan nieuwkomers nadat de kosteloze toewijzing van emissierechten voor de nieuwkomer conform artikel 13, § 4, van dit besluit, is vastgesteld. De emissierechten die voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030 zijn toegewezen, worden uiterlijk op 30 juni van het kalenderjaar in kwestie verleend.
 
 ### ART 19.
 
