@@ -33,7 +33,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:<br>
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° beschermde geografische aanduiding: een geografische aanduiding die geregistreerd is door de Europese Commissie overeenkomstig artikel 30 van verordening (EU) 2019/787 en die beschermd is als vermeld in artikel 21 van verordening (EU) 2019/787;<br>
 3° enig document: het enig document, vermeld in artikel 23, lid 1, c), van verordening (EU) 2019/787;<br>
 4° geografische aanduiding: een geografische aanduiding als vermeld in artikel 3, lid 4, van verordening (EU) 2019/787;<br>
