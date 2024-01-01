@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038828,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, wat betreft de oprichting van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038828/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "89927565c39b0d30f266f843420a3abe90561b1e5a62401ca2074b506df82b52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038828&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-09-15",
+  "gazette": "2023-10-25",
+  "numac": 2023045853,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
