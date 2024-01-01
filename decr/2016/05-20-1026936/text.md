@@ -10,37 +10,23 @@
 
 ### ART 2.
 
-De Vlaamse Regering is gemachtigd om deel te nemen aan een vereniging zonder winstoogmerk met als doel dragers te digitaliseren en de digitale culturele content, te ontsluiten en duurzaam te archiveren, om de toegankelijkheid van de digitale content te verwezenlijken en te bestendigen voor bepaalde doelgroepen, zoals het onderwijs, het wetenschappelijk onderzoek en het nationale en internationale publiek, en ter beschikking te stellen voor professioneel hergebruik. De organisatie stelt in haar werking digitale objecten en metadata centraal, inclusief de daaraan verbonden werkprocessen en gebruikersplatformen. Ze ondersteunt culturele actoren, media organisaties en overheden met haar expertise in deze domeinen.
+...
 
 ### ART 2/1.
 
-§ 1. De Vlaamse Regering kent binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten, aan de vereniging, vermeld in artikel 2, gedurende een subsidieperiode van vijf jaar, een jaarlijkse werkingssubsidie toe waarvan ze het bedrag bepaalt. De subsidie bestaat uit een kern van personeelsleden, een jaarlijkse basistoelage voor de werking en een subsidie op grond van werkelijk gepresteerde activiteiten. Die subsidie houdt een erkenning in. De erkenning en subsidie worden verleend op voorwaarde dat de vereniging de volgende strategische doelstellingen uitvoert:<br>
-1° de digitalisering van materiaal, dat aanwezig is bij organisaties waartoe de vereniging zich richt, met een prioriteit voor bedreigd materiaal;<br>
-2° de duurzame archivering van gedigitaliseerd materiaal en bij uitbreiding van al bestaand digitaal of digitaal geboren materiaal;<br>
-3° inzetten op toegankelijkheid en maatschappelijke valorisatie van het digitale materiaal en dat gericht op bepaalde doelgroepen, inclusief de mededeling, als wetenschappelijke instelling, aan het publiek van werken en prestaties ter illustratie bij onderwijs of voor wetenschappelijk onderzoek;<br>
-4° de expertiseopbouw, de kennisdeling en het uitbouwen van samenwerkingsverbanden voor de ondersteuning en versterking van de activiteiten op het vlak van digitalisering, archivering en ontsluiting.<br>
-<br>
-§ 2. Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, wordt binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten, de werkingssubsidie, vermeld in paragraaf 1, jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-Voor het gedeelte werkingskosten van de werkingssubsidie wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt.<br>
-<br>
-§ 3. Voor de toepassing van de ontvankelijkheidsvoorwaarden, vermeld in artikel 70, eerste lid, artikel 73 en artikel 76, eerste lid, van het Cultureelerfgoeddecreet van 24 februari 2017, wordt de vereniging, vermeld in artikel 2, gelijk gesteld met een organisatie die een werkingssubsidie ontvangt op het Cultureelerfgoeddecreet van 24 februari 2017.
+...
 
 ### ART 2/2.
 
-Om het subsidiebedrag en de ermee verbonden opdrachten te kunnen bepalen, dient de vereniging, vermeld in artikel 2, uiterlijk op 30 juni voor het begin van de vijfjarige subsidieperiode een beleidsplan met een inhoudelijke en financiële planning voor de komende subsidieperiode in bij de administratie.<br>
-De Vlaamse Regering beslist uiterlijk op 1 oktober voor het begin van de vijfjarige subsidieperiode over de subsidie. De subsidie wordt toegekend op voorwaarde van het sluiten van een beheersovereenkomst voor de duur van de subsidieperiode. Die beheersovereenkomst bevat de concrete uitwerking, op praktisch vlak, van de bij dit hoofdstuk vastgestelde regels, zoals de missie, de invulling van de kerntaken en de strategische en operationele doelstellingen en de modaliteiten voor de werking en de evaluatie. De beheersovereenkomst wordt afgesloten uiterlijk op 31 december van het jaar dat voorafgaat aan de subsidieperiode.<br>
-Als de Vlaamse Regering niet uiterlijk op 1 oktober voor het begin van de vijfjarige subsidieperiode beslist over de toekenning van de subsidie, wordt de duur van de vorige subsidieperiode telkens met één jaar verlengd en de aanvang van de volgende vijfjarige subsidieperiode met één jaar uitgesteld. Met behoud van de toepassing van het tweede lid is het voor dat jaar toegekende subsidiebedrag gelijk aan het subsidiebedrag in het vorige werkjaar. In dat geval wordt voor 31 december een aangepaste beheersovereenkomst afgesloten.
+...
 
 ### ART 2/3.
 
-De subsidie, vermeld in artikel 2/1, § 1, wordt als volgt beschikbaar gesteld:<br>
-1° voor het eerste en tweede tertiaal een voorschot van 35 % van het subsidiebedrag dat voor dat jaar toegekend wordt, en voor het derde tertiaal een voorschot van 25 % van het subsidiebedrag dat voor dat jaar toegekend wordt;<br>
-2° een saldo van maximaal 5 % van het subsidiebedrag dat voor dat jaar toegekend wordt. Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde jaar nadat de administratie de financiële afrekening en het jaarverslag van het voorbije gesubsidieerde jaar goedgekeurd heeft.
+...
 
 ### ART 2/4.
 
-Met de subsidie, vermeld in artikel 2/1, § 1, kan een reserve worden aangelegd conform artikel 75 en 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+...
 
 ## HOOFDSTUK 3. - Wijziging van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995
 
