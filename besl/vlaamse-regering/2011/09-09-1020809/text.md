@@ -10,8 +10,8 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 1698/2005 van de R
 
 In dit besluit wordt verstaan onder :<br>
 1° besluit van 29 oktober 2021: het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten;<br>
-2° minister : de Vlaamse minister, bevoegd voor de landbouw en de zeevisserij;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° controleorgaan: het controleorgaan dat erkend is conform artikel 24 en 25 van het besluit van 29 oktober 2021;<br>
 5° <strong><em>...</em></strong><br>
 6° ...<br>
@@ -29,7 +29,11 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 2.
 
-Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daartoe goedgekeurd zijn, kan de minister steun verlenen aan : <BR>1°   Landbouwers die deelnemen aan communautaire voedselkwaliteitsregelingen;<BR>2°   ...<BR><BR>De steunregeling, vermeld in dit besluit, wordt verleend onder de   voorwaarden, vermeld in verordening (EU) nr. 1408/2013 van de Commissie van 18   december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag   betreffende de werking van de Europese Unie op de-minimissteun in de   landbouwsector, gepubliceerd in het Publicatieblad van de Europese Unie L 352   van 24 december 2013.
+Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die daartoe goedgekeurd zijn, kan de minister steun verlenen aan :<br>
+1° Landbouwers die deelnemen aan communautaire voedselkwaliteitsregelingen;<br>
+2° ...<br>
+<br>
+De steunregeling, vermeld in dit besluit, wordt verleend onder de voorwaarden, vermeld in verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector, gepubliceerd in het Publicatieblad van de Europese Unie L 352 van 24 december 2013, en de latere wijzigingen ervan.
 
 ## HOOFDSTUK 2. Steunverlening voor deelname aan communautaire voedselkwaliteitsregelingen
 

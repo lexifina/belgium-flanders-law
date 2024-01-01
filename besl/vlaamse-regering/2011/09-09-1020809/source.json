@@ -2,16 +2,16 @@
   "codex_id": 1020809,
   "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot het verlenen van steun [...] voor deelname aan Europees erkende voedselkwaliteitsregelingen [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020809/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "3bb49a41a7cfebeeb3468692026aad99e2f9a3201af46b24bbfd2ab814ca7a9d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020809/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "62f081372ad0929c900944d971a4164d98edffa8618da37a6183f51fee01f192",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020809&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2024-01-01",
   "made": "2011-09-09",
   "gazette": "2011-10-03",
   "numac": 2011204836,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
