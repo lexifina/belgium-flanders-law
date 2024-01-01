@@ -15,7 +15,7 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 4° plantaardige producten : producten van plantaardige oorsprong die al dan niet een verwerking of bewerking hebben ondergaan, voorzover het geen planten betreft;<br>
 5° visserijproducten : producten van de visvangst op zee en in de binnenwateren en van de aquacultuur die al dan niet een verwerking of bewerking hebben ondergaan;<br>
 6° Vlaams Landbouwfonds : Vlaams Fonds voor Landbouw en Visserij;<br>
-7° minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br>
+7° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
 8° Vlaams Klimaatfonds: het Vlaams Klimaatfonds, vermeld in artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012, het laatst gewijzigd bij het decreet van 18 december 2020.<br>
 &nbsp;
 
