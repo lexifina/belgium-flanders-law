@@ -18,8 +18,8 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de vzw ZwarteBij.org, Leeuwerikstraat 7 te 3910 Pelt, erkend als een gewestelijk centrum onder het nummer LG/19413.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de dag van de ondertekening ervan.
+...
