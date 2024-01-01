@@ -158,7 +158,7 @@ De bevoegde entiteit onderzoekt of de steunaanvragen, vermeld in artikel 10, ont
 
 ### ART 14.
 
-De ontvankelijke steunaanvragen, vermeld in artikel 13 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt uit personeelsleden van het beleidsdomein Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.&nbsp;<br>
+De ontvankelijke steunaanvragen, vermeld in artikel 13 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt uit personeelsleden van het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.&nbsp;<br>
 <br>
 De bevoegde entiteit kan bij de samenstelling van de beoordelingscommisie een beroep doen op externe experten.<br>
 <br>
