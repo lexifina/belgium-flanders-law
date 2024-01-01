@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039372,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-02 tot wijziging van bijlage I van het besluit van de Vlaamse Regering van 12 mei 2023 over het combineren van agromilieuklimaatmaatregelen, ecoregelingen en beheerovereenkomsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039372/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "7aa6e7700cfa06c79fcf5eb94e85da91a48bfbc07904d25d0dae5b8d3bc15f4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039372&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-02-02",
+  "gazette": "2024-02-28",
+  "numac": 2024001850,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
