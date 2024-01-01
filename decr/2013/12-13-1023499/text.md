@@ -79,6 +79,7 @@ In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
 <br>
 In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
 1° EURO-emissieklasse : de klasse gedefinieerd op basis van de emissiegrenswaarden, vermeld in bijlage 0 van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen;<br>
+1°/0 emissievrij voertuig: een voertuig dat beantwoordt aan de voorwaarden als bepaald in artikel 3, punt 11, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad.<br>
 2° gegarandeerde betaalmiddel : het betaalmiddel waarmee de dienstverlener, vermeld in artikel 1.1.0.0.2, eerste lid, 7° /1, de kilometerheffing en, in voorkomend geval, de aan de houder van het voertuig gefactureerde inningskosten op het eerste verzoek kan innen, zonder verdere toelating van de houder van het voertuig en zonder dat die de betaling die met het betaalmiddel is verricht, kan annuleren;<br>
 3° kilometer : elke kilometer, afgerond op het hogere of lagere duizendste, naargelang het cijfer van de tienduizendsten al of niet vijf bereikt;<br>
 4° niet-geconcedeerde weg : de weg of het gedeelte van de weg waarvan het beheer niet in concessie is gegeven;<br>
@@ -2897,7 +2898,14 @@ Het tarief Tz, vermeld in het eerste lid, wordt&nbsp;met ingang van 1 juli 2017 
 <br>
 Als de factor F, vermeld in het eerste lid, 1°, gelijk is aan 1, mag het tarief nooit lager zijn dan nul eurocent..<br>
 <br>
-Voor de toepassing van dit artikel worden de voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof, beschouwd als behorend tot de EURO-emissieklasse 6.<br>
+Emissievrije voertuigen met een maximaal toegestane totaalgewicht (MTT) lager dan of gelijk aan 4,25 ton zijn vanaf 1 januari 2024 tot en met 31 december 2029 vrijgesteld van de verplichting om de kilometerheffing te betalen.<br>
+<br>
+Voor de overige emissievrije voertuigen, andere dan deze vermeld in het vijfde lid, is de toeslag Ex tot en met 31 december 2029 gelijk aan nul. Het overige gedeelte van de kilometerheffing wordt voor deze voertuigen verminderd met:<br>
+ñ&nbsp;&nbsp; &nbsp;100% vanaf 1 januari 2024 tot en met 31 december 2025;<br>
+ñ&nbsp;&nbsp; &nbsp;80% vanaf 1 januari 2026 tot en met 31 december 2026;<br>
+ñ&nbsp;&nbsp; &nbsp;60% vanaf 1 januari 2027 tot en met 31 december 2027;<br>
+ñ&nbsp;&nbsp; &nbsp;40% vanaf 1 januari 2028 tot en met 31 december 2028;<br>
+ñ&nbsp;&nbsp; &nbsp;20% vanaf 1 januari 2029 tot en met 31 december 2029.<br>
 &nbsp;
 
 ### ART. 2.4.4.0.3.
@@ -14258,270 +14266,497 @@ Tabel 5. Koninklijk besluit van 8 juli 1970 houdende de algemene verordening bet
 
 ### BIJLAGE 2.
 
-De wegen die onder een wegtype als vermeld in artikel 2.4.4.0.2, 3°, vallen zijn de volgende, voor zover ze zich situeren op het grondgebied van het Vlaamse Gewest :<br>
-1) Autosnelwegen, inclusief bretelwegen, autosnelwegenringen en op- en afritten:<br>
+De wegen die onder een wegtype als vermeld in artikel 2.4.4.0.2, 3°, vallen zijn de volgende, voor zover ze zich situeren op het grondgebied van het Vlaamse Gewest:<br>
+<br>
+1)&nbsp;&nbsp; &nbsp;Autosnelwegen, inclusief bretelwegen, autosnelwegenringen en op- en afritten:<br>
 Autosnelwegen:<br>
 &nbsp;
-<table border="1">
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>A1</td>
-			<td>E19</td>
-			<td>Brussel - Mechelen - Antwerpen - grens NL (Breda)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:47px">A1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:59px">E19</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:1px solid black; height:19px; vertical-align:top; width:446px">Brussel–Mechelen–Antwerpen–grens NL (Breda)</td>
 		</tr>
 		<tr>
-			<td>A2</td>
-			<td>E314</td>
-			<td>Leuven - Lummen - grens NL (Heerlen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E314</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Leuven–Lummen–grens NL (Heerlen)</td>
 		</tr>
 		<tr>
-			<td>A3</td>
-			<td>E40</td>
-			<td>Brussel - Leuven - grens Wallonië (Luik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E40</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel–Leuven–grens Wallonië (Luik)</td>
 		</tr>
 		<tr>
-			<td>A4</td>
-			<td>E411</td>
-			<td>Brussel - grens Wallonië (Namen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E411</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel–grens Wallonië (Namen)</td>
 		</tr>
 		<tr>
-			<td>A7</td>
-			<td>E19</td>
-			<td>Brussel (R0) - grens Wallonië (Bergen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E19</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel (R0)–grens Wallonië (Bergen)</td>
 		</tr>
 		<tr>
-			<td>A8</td>
-			<td>E429</td>
-			<td>Halle (Ring om Halle inclusief N203a) - grens Wallonië (Doornik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A8</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E429</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Halle (Ring om Halle inclusief N203a)–grens Wallonië (Doornik)</td>
 		</tr>
 		<tr>
-			<td>A10</td>
-			<td>E40</td>
-			<td>Brussel - Gent - Brugge - Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A10</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E40</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel–Gent–Brugge–Oostende</td>
 		</tr>
 		<tr>
-			<td>A11</td>
-			<td>E34</td>
-			<td>Antwerpen - Zelzate, tot en met de kruising met de R4-West</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A11</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brugge (N31)–Knokke-Heist (N49) – Zelzate–Antwerpen</td>
 		</tr>
 		<tr>
-			<td>A11</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brugge (N31) - Knokke-Heist (N49)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A12</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel–Boom–Antwerpen–grens NL (Bergen-op-Zoom)</td>
 		</tr>
 		<tr>
-			<td>A12</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Boom - Antwerpen - grens NL (Bergen-op-Zoom)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A13</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E313</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Antwerpen–Hasselt–grens Wallonië (Luik)</td>
 		</tr>
 		<tr>
-			<td>A13</td>
-			<td>E313</td>
-			<td>Antwerpen - Hasselt - grens Wallonië (Luik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A14</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Antwerpen–Gent–Grens FR (Lille)</td>
 		</tr>
 		<tr>
-			<td>A14</td>
-			<td>E17</td>
-			<td>Antwerpen - Gent - Grens FR (Lille)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E403</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Brugge–Kortrijk–grens Wallonië (Doornik)</td>
 		</tr>
 		<tr>
-			<td>A17</td>
-			<td>E403</td>
-			<td>Brugge - Kortrijk - grens Wallonië (Doornik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A18</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E40</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Jabbeke–Veurne–grens FR (Duinkerken)</td>
 		</tr>
 		<tr>
-			<td>A18</td>
-			<td>E40</td>
-			<td>Jabbeke - Veurne - grens FR (Duinkerken)</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A19</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Kortrijk–Ieper</td>
 		</tr>
 		<tr>
-			<td>A19</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Kortrijk - Ieper</td>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A21</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">E34</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:446px">Antwerpen (Ranst)–grens NL (Eindhoven)</td>
 		</tr>
 		<tr>
-			<td>A21</td>
-			<td>E34</td>
-			<td>Antwerpen (Ranst) - grens NL (Eindhoven)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:47px">A25</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:59px">E25</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:446px">Luik (Wallonië)–Maastricht (NL) thv Voeren (op- en afrit- ten-complex N602)</td>
 		</tr>
 		<tr>
-			<td>A25</td>
-			<td>E25</td>
-			<td>Luik (Wallonië) - Maastricht (NL) thv Voeren (op- en afritten-complex N602)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A112</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">(N186)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:446px">Antwerpen/Jan de Voslei</td>
 		</tr>
 		<tr>
-			<td>A112</td>
-			<td>(N186)</td>
-			<td>Antwerpen/Jan de Voslei</td>
-		</tr>
-		<tr>
-			<td>A201</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Zaventem</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">A201</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:59px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:446px">Brussel–Zaventem</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-Autosnelwegringen<br>
+Autosnelwegringen:<br>
 &nbsp;
-<table border="1">
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>R0</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Ring om Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:47px">R0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:457px">Ring om Brussel</td>
 		</tr>
 		<tr>
-			<td>R1</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Ring om Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">R1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:457px">Ring om Antwerpen</td>
 		</tr>
 		<tr>
-			<td>R4</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Ring om Gent, exclusief de R4-Oost tussen de kruising met de E34 en de kruising met de N70</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:47px">R2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:457px">Ring om Antwerpen, excl. Liefkenshoektunnel (van op/afrit 11 Waaslandhaven-Noord tot N101)</td>
 		</tr>
 		<tr>
-			<td>R8</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Ring om Kortrijk</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">R4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:457px">Ring om Gent</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">R8</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:457px">Ring om Kortrijk</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-2) Overige gewestwegen met een tarief hoger dan nul eurocent:<br>
+2)&nbsp;&nbsp; &nbsp;Overige gewestwegen met een tarief hoger dan nul eurocent:<br>
 &nbsp;
-<table border="1">
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>N1</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Antwerpen - grens NL (Breda)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:55px">N1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:439px">Brussel–Antwerpen–grens NL (Breda)</td>
 		</tr>
 		<tr>
-			<td>N2</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Hasselt - grens NL (Maastricht)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–Hasselt–grens NL (Maastricht)</td>
 		</tr>
 		<tr>
-			<td>N3</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - grens Wallonië (Luik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–grens Wallonië (Luik)</td>
 		</tr>
 		<tr>
-			<td>N4</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - grens Wallonië (Namen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–grens Wallonië (Namen)</td>
 		</tr>
 		<tr>
-			<td>N5</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - grens Wallonië (Charleroi)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–grens Wallonië (Charleroi)</td>
 		</tr>
 		<tr>
-			<td>N6</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - grens Wallonië (Bergen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N6</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–grens Wallonië (Bergen)</td>
 		</tr>
 		<tr>
-			<td>N7</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Halle - grens Wallonië (Doornik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Halle–grens Wallonië (Doornik)</td>
 		</tr>
 		<tr>
-			<td>N8</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Ninove - Oudenaarde - Kortrijk - Ieper - Koksijde</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N8</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–Ninove–Oudenaarde–Kortrijk–Ieper–Koksijde</td>
 		</tr>
 		<tr>
-			<td>N9</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brussel - Gent - Brugge - Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N9</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brussel–Gent–Brugge–Oostende</td>
 		</tr>
 		<tr>
-			<td>N10</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Mortsel - Diest</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N10</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Mortsel–Diest</td>
 		</tr>
 		<tr>
-			<td>N14</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Vanaf (de kruising met) R16 - (de kruising met) E34</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N12</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Antwerpen – (kruising met) R13 Turnhout</td>
 		</tr>
 		<tr>
-			<td>N20</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Hasselt - grens Wallonië (Luik)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N13</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Lier – (kruising met) E313 Herentals-West</td>
 		</tr>
 		<tr>
-			<td>N31</td>
-			<td>(E403)</td>
-			<td>Brugge - Zeebrugge, exclusief N31 Zeebrugge tot en met de kruising met de N348</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:55px">N14</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:439px">Mechelen (kruising met R6) – grens NL (met uitzondering van zone binnen R16 Lier)</td>
 		</tr>
 		<tr>
-			<td>N35</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Deinze - N37 (Tielt)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Mechelen – N19</td>
 		</tr>
 		<tr>
-			<td>N35</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Pittem (de kruising met N50) - (de kruising met) N330</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N16</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Vanaf A14 (E17)–Mechelen</td>
 		</tr>
 		<tr>
-			<td>N36</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;R32 (Roeselare) tot N35 (Zarren)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N19</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Tussen A13 (E313) en A21 (E34)</td>
 		</tr>
 		<tr>
-			<td>N42</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Vanaf (de kruising met) N8 - grens met Wallonië</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N19g</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">N19 (Kasterlee)–R14 (Geel)</td>
 		</tr>
 		<tr>
-			<td>N43</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Vanaf (de kruising met) R8 - (de kruising met) R4</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N20</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Hasselt–grens Wallonië (Luik)</td>
 		</tr>
 		<tr>
-			<td>N49</td>
-			<td>(E34)</td>
-			<td>Antwerpen - Zelzate - Maldegem - Knokke (Knokke-Heist), exclusief N49 van Westkapelle tot aan de kruising met de R4-West</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N28</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">N6 (Halle) – N8 (Ninove)</td>
 		</tr>
 		<tr>
-			<td>N50</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Brugge - Ingelmunster - Kortrijk - grens Wallonië (Bergen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N31</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">(E403)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brugge–Zeebrugge</td>
 		</tr>
 		<tr>
-			<td>N60</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Gent - Oudenaarde - Ronse - grens Wallonië (Leuze)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N32</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Brugge – grens FR</td>
 		</tr>
 		<tr>
-			<td>N70</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Gent - Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N34</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Hendrik van Minderhoutstraat (Zeebrugge) – N31</td>
 		</tr>
 		<tr>
-			<td>N73</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Heppen - Kinrooi (kruising met de N762)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:55px">N34a</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:439px">Kustlaan (Zeebrugge) tussen Hendrik van Minderhoutstraat en Zeegeulstraat</td>
 		</tr>
 		<tr>
-			<td>N80</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Hasselt - grens Wallonië (Namen)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N34f</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Slijkensesteenweg (Oostende)</td>
 		</tr>
 		<tr>
-			<td>N186</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Antwerpen (Jan de Voslei)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N34i</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Zeesluisstraat (Zeebrugge)</td>
 		</tr>
 		<tr>
-			<td>N722</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;Vanaf N80 (Hasselt) tot N718 (St-Truiden)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N35</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Deinze–N37 (Tielt)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N35</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Pittem (de kruising met N50)–(de kruising met) N330</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:55px">N36</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:439px">Van R32 (Roeselare) tot N35 (Zarren) en van A14 (E17) tot N8 (Avelgem)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N37</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Aalter (E40) – Roeselare (R32)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N38</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">A19 – grens FR</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N42</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Vanaf (de kruising met) N8–grens met Wallonië</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N43</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Vanaf (de kruising met) R8–(de kruising met) R4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N44</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Aalter–Maldegem</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">N9–A14 (E17)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N49</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">(E34)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Antwerpen–Zelzate–Maldegem–Knokke (Knokke-Heist)</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:55px">N50</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:top; width:439px">Brugge–Ingelmunster–Kortrijk–grens Wallonië (Bergen)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:55px">N58</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:439px">Van grens Wallonië tot A14 (E17) en van A19 tot grens Wallonië</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N60</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Gent–Oudenaarde–Ronse–grens Wallonië (Leuze)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N70</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Gent–Antwerpen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N71</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">R14 – N74</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N73</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Heppen N78 (Kinrooi)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N74</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N715 – grens NL</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N75</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">A2 (E314) – N78 (Dilsen-Stokkem)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N76</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N20 (Kortessem) – N71 (Hamont-Achel)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N80</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Hasselt–grens Wallonië (Namen)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N101</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">A12 – R2 – N180 (Noorderlaan)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N101a</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Oudendijkweg (incl. Oudendijkbrug en Frederik-Hendrikbrug)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N101b</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Kruisschansweg</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N111</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N180 (Noorderlaan) – A12</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N101 (Scheldelaan) – N111</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N186</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">Antwerpen (Jan de Voslei)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N223</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N2 (Tielt-Winge) – N3 (Tienen)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N320</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N358 – N9</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N320a</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N320 – N9</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N350</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N34 – A11</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N358</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N320 – N9</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N376</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N49 (Knokke-Heist) – grens NL</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N382</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N36 (Anzegem) – A14 (E17)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N424</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N456 – R4 Oost</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N450</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">A11 (E34)–Melseledijk nr 68</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N456</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N424 – R4 West</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px dashed black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N458</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px dashed black; border-top:none; height:19px; vertical-align:top; width:439px">N456 – Langerbrugge-Eiland</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:55px">N474</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:439px">Van Langerbrugge-Eiland tot Vasco da Gamalaan en van Ter- donkkaai tot A11 (E34)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N713</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">N71 – N712b</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N715</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">A2 (E314) – N74 (Lommel)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">N722</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Vanaf N80 (Hasselt) tot N718 (St-Truiden)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">R14</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Ring om Geel</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">R31</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Ring om Oostende (deel tussen A10 en N9)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">R32</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Ring om Roeselare (deel tussen A17 (E403) en de N37)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:55px">R33</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:439px">Ring om Poperinge tussen beide delen van N38</td>
 		</tr>
 	</tbody>
 </table>
