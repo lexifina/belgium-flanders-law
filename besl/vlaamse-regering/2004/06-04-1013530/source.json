@@ -2,16 +2,16 @@
   "codex_id": 1013530,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013530/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "cb99d2c65c479164090e920071da0397d63733c0d51d12d8fabf8df517264cb0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013530/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "4e69c5dd14e797abfb00e2ec4cb8c13fed7d53975bf34f346d18233c96c36615",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013530&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2024-01-01",
   "made": "2004-06-04",
   "gazette": "2004-11-16",
   "numac": 2004036504,
   "document_start": "2005-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
