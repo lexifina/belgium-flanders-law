@@ -2,16 +2,16 @@
   "codex_id": 1029065,
   "title": "Besluit van de Vlaamse Regering van 2018-01-26 betreffende het in de handel brengen van teeltmateriaal van siergewassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029065/VolledigDocument?datum=2018-03-05",
-  "source_sha256": "7dbd6a7192b97020f10c91ddf0ed3767ab0f774aa6ef55cf061e576dc9f95b04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029065/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "39f2a59763d59dc4387a15e5c6570ad7818d8879ef8913eb394c75b9a3f20d7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029065&param=informatie",
-  "as_of": "2018-03-05",
+  "as_of": "2024-01-01",
   "made": "2018-01-26",
   "gazette": "2018-02-23",
   "numac": 2018010879,
   "document_start": "2018-03-05",
   "document_end": null,
-  "in_force": "2018-03-05",
+  "in_force": "2024-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2018-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

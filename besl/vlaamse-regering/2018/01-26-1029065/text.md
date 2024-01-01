@@ -28,7 +28,7 @@ b) de productie van siergewassen;<br>
 3° leverancier: elke natuurlijke of rechtspersoon die beroepshalve teeltmateriaal in de handel brengt of invoert;<br>
 4° in de handel brengen: het verkopen of leveren door een leverancier aan een andere persoon. Die verkoop omvat het ter beschikking of in voorraad houden, het tentoonstellen met het oog op de verkoop en het te koop aanbieden;<br>
 5° minister: de Vlaamse minister, bevoegd voor landbouw;<br>
-6° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+6° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 7° partij: een aantal eenheden van één product, identificeerbaar door de homogene samenstelling en oorsprong;<br>
 8° koninklijk besluit van 10 augustus 2005: het koninklijk besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen;<br>
 9° algemeen controlereglement siergewassen: de praktische richtsnoeren voor het uitvoeren van de controles op de kwaliteit van het teeltmateriaal van siergewassen, die gebaseerd zijn op dit besluit en haar uitvoeringsbesluiten en die gepubliceerd worden op de website van Landbouw en Visserij (www.vlaanderen.be/landbouw).<br>
