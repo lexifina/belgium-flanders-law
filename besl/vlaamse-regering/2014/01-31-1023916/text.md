@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° minister: de Vlaamse minister bevoegd voor het landbouwbeleid en   de zeevisserij;<BR>3° Verordening (EU) nr. 1308/2013: de Verordening (EU) nr.   1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot   vaststelling van een gemeenschappelijke ordening van de markten voor   landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG)   nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de   Raad.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° minister: de Vlaamse minister bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+3° Verordening (EU) nr. 1308/2013: de Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad.
 
 ### ART. 1/1.
 
@@ -92,7 +95,7 @@ c) de wijze van bestuur en democratische besluitvorming;<br>
 d)&nbsp;de doelstellingen&nbsp;van de producentenorganisatie of de unie van producentenorganisaties;<br>
 e) het adres van de hoofdzetel van de producentenorganisatie of van de unie van producentenorganisaties;<br>
 f) ...;<br>
-g) de voorwaarde dat een bepaald bedrijf dat lid is van de producentenorganisatie voor de productie van een bepaald product uit een sector of deelsector als vermeld in artikel 2, met uitzondering van de sector melk en zuivelproducten, bij niet meer dan een producentenorganisatie is aangesloten;<br>
+g) de voorwaarde dat een aangesloten producent voor elk door hem geproduceerd product, met uitzondering van de producten binnen de sector melk en zuivelproducten, bij niet meer dan één producentenorganisaties is aangesloten;<br>
 3° het huishoudelijk reglement;<br>
 4° een geactualiseerde ledenlijst van de leden van de producentenorganisatie met de geproduceerde hoeveelheden tijdens het afgelopen kalenderjaar;<br>
 5° een plan van aanpak;<br>
@@ -138,7 +141,13 @@ De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewi
 
 ### ART. 15.
 
-&nbsp;De brancheorganisatie die een erkenningsaanvraag indient, legt een   verantwoordingsdossier voor aan de bevoegde entiteit dat bestaat uit:<BR>1° een   duidelijke identificatie van de partners, die bestaat uit de naam, het adres en   een omschrijving van de activiteit van die partners;<BR>2° het toepassingsgebied   van de samenwerking;<BR>3° een omschrijving van de doelstellingen van de   samenwerking.<BR>
+De brancheorganisatie die een erkenningsaanvraag indient, legt een verantwoordingsdossier voor aan de bevoegde entiteit dat bestaat uit:<br>
+1° een duidelijke identificatie van de partners, die bestaat uit de naam, het adres en een omschrijving van de activiteit van die partners;<br>
+2° het toepassingsgebied van de samenwerking;<br>
+3° een omschrijving van de doelstellingen van de samenwerking;<br>
+4° een bewijs van een evenwichtige vertegenwoordiging van de organisaties van de toeleveringsketen;<br>
+5° een kopie van de statuten;<br>
+6° een bewijs dat de brancheorganisatie een aanzienlijk deel van de economische activiteiten vertegenwoordigd.
 
 ### ART. 16.
 
@@ -184,7 +193,9 @@ Met behoud van de toepassing van de voorwaarden, vermeld in artikel 158 van vero
 
 ### ART. 22.
 
-Als de voorschriften van een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie die werkzaam is in het Vlaamse Gewest en die erkend is in het Vlaamse Gewest, of in het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest, worden uitgebreid naar niet-leden, met toepassing van afdeling 1, en de activiteiten waarop die voorschriften van toepassing zijn, van algemeen economisch belang zijn voor de personen van wie de activiteiten verband houden met de producten in kwestie, kan de Vlaamse Regering, op vraag van de betrokken organisatie die de uitbreiding van de regels voor niet-leden vraagt en na consultatie van alle belanghebbenden, besluiten dat ook niet bij de organisatie of de unie aangesloten personen of groepen die voordeel hebben bij de activiteiten, de volle financiële bijdrage die de leden betalen of een gedeelte daarvan aan de organisatie of de unie moeten betalen, voor zover die financiële bijdragen bestemd zijn voor de kosten die rechtstreeks uit de betrokken activiteiten voortvloeien.
+Als de voorschriften van een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie die werkzaam is in het Vlaamse Gewest en die erkend is in het Vlaamse Gewest, of in het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest, worden uitgebreid naar niet-leden, met toepassing van afdeling 1, en de activiteiten waarop die voorschriften van toepassing zijn, van algemeen economisch belang zijn voor de personen van wie de activiteiten verband houden met de producten in kwestie, kan de Vlaamse Regering, op vraag van de betrokken organisatie die de uitbreiding van de regels voor niet-leden vraagt en na consultatie van alle belanghebbenden, besluiten dat ook niet bij de organisatie of de unie aangesloten personen of groepen die voordeel hebben bij de activiteiten, de volle financiële bijdrage die de leden betalen of een gedeelte daarvan aan de organisatie of de unie moeten betalen, voor zover die financiële bijdragen bestemd zijn voor de kosten die rechtstreeks uit de betrokken activiteiten voortvloeien.<br>
+<br>
+Elke organisatie die met toepassing van dit artikel bijdragen van niet-leden ontvangt, stelt op verzoek van een lid of een niet-lid dat financieel bijdraagt aan de activiteiten van de organisatie, de delen van haar jaarlijkse begroting beschikbaar die betrekking hebben op de uitoefening van de activiteiten, vermeld in afdeling 1.
 
 ### ART. 23.
 
