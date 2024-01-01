@@ -36,9 +36,21 @@ b) voor de leerlingen die voldoen aan artikel 3, 28°/1, c), het INSZ-nummer en 
 c) voor de leerlingen die voldoen aan paragraaf 1, 6°, c), het INSZ-nummer van de leerling en indien van toepassing de begin- en einddatum van het voldoen aan de betrokken indicator.<br>
 De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de berekening van de omkadering en werkingsmiddelen van de scholen. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens. De maximale bewaartermijn voor deze gegevens is 30 jaar.”.
 
+### ART 34.
+
+In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van [...], wordt de zinsnede “, vermeld in artikel 76, artikel 87bis, artikel 172sexies, artikel 173quinquies/2, artikel 173quinquies/3 of artikel 173quinquies/4,” vervangen door de zinsnede “, vermeld in artikel 76 of artikel 87quinquies,”.
+
 ### ART 35.
 
 In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
+
+### ART 54.
+
+In artikel 42 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de woorden “de inspectie” vervangen door de zinsnede “het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen”.
+
+### ART 55.
+
+In artikel 72quater, §1, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009 en gewijzigd bij het decreet van 19 december 2014, wordt punt 1° opgeheven.
 
 ### ART 60.
 
@@ -47,6 +59,15 @@ In artikel 128bis/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decree
 ### ART 63.
 
 In artikel 130ter, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij de decreten van 16 maart 2018 en 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of van andere middelen” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
+
+### ART 76.
+
+In artikel 6, vierde lid, van hetzelfde decreet, vervangen bij het decreet van 1 juli 2011 en gewijzigd bij het decreet van 4 december 2015, worden punt 3°,<br>
+5°, 8°, 9°, 11°, 12° en 13° opgeheven.
+
+### ART 84.
+
+In artikel 48/3, vierde lid, 2°, van dezelfde codex, ingevoegd bij het decreet van 22 december 2023, wordt de zinsnede “de eerste graad B-stroom,” opgeheven.
 
 ### ART 107.
 
@@ -68,6 +89,10 @@ b) voor de leerlingen die voldoen aan artikel 3, 17°/2/1, c), het INSZ-nummer, 
 <br>
 De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de berekening van de omkadering van de scholen. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens. De maximale bewaartermijn voor deze gegevens is 30 jaar.”.
 
+### ART 109.
+
+In artikel 251/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij het decreet van 8 juli 2022, wordt de zinsnede “vermeld in artikel 249,” vervangen door de zinsnede “vermeld in artikel 249, 48/2 of 48/3,”.
+
 ### ART 110.
 
 In artikel 251/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij het decreet van 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
@@ -75,6 +100,26 @@ In artikel 251/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 
 ### ART 118.
 
 In artikel 332/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij het decreet van 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
+
+### ART 147.
+
+In artikel II.187 van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij de decreten van 1 maart 2019, 5 april 2019 en 7 juli 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3, vijfde lid, worden de woorden “dubbel gerangschikte” opgeheven;<br>
+2° in paragraaf 3, vijfde lid, wordt het woord “beide” vervangen door het woord “meerdere”;<br>
+3° in paragraaf 3, vijfde lid, worden de woorden “van hun keuze” vervangen door de woorden “met de hoogste voorkeur”;<br>
+4° in paragraaf 8 wordt het tweede lid vervangen door wat volgt:<br>
+“Kandidaten voor meerdere toelatingsexamens als vermeld in paragraaf 1 en 2, en in artikel II.187/1, melden bij hun inschrijving uitdrukkelijk hun voorkeursvolgorde van de opleidingen.”;<br>
+5° in paragraaf 8 wordt het derde lid vervangen door wat volgt:<br>
+“De volgorde, vermeld in het tweede lid, is bindend. Door die volgorde worden kandidaten als ze voor meerdere rangschikkingen in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 3, zesde lid, voor de opleiding met de hoogste voorkeur.”.
+
+### ART 148.
+
+In artikel II.187/1 van dezelfde codex, ingevoegd bij het decreet van 15 juli 2022, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 2, derde lid, wordt een zin toegevoegd, die luidt als volgt:<br>
+“Kandidaten die voor meerdere toelatingsexamens in aanmerking komen voor een gunstige rangschikking, worden uitsluitend gunstig gerangschikt voor de opleiding met de hoogste voorkeur, vermeld in paragraaf 7.”;<br>
+2° aan paragraaf 7 worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
+"Kandidaten voor meerdere toelatingsexamens als vermeld in paragraaf 1 en 2 en in artikel II.187/1, melden bij hun inschrijving uitdrukkelijk hun voorkeursvolgorde van de opleidingen.<br>
+De volgorde, vermeld in het tweede lid, is bindend. Door die volgorde worden kandidaten als ze voor meerdere gunstige rangschikkingen in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 2, vijfde lid, voor de opleiding met de hoogste voorkeur.”.
 
 ### ART 168.
 
@@ -117,6 +162,12 @@ In artikel 48, §2, eerste lid, van het decreet van 27 april 2018 betreffende de
 ### ART 194.
 
 In artikel 52, §2, eerste lid, van het decreet van 5 mei 2023 over leersteun wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
+
+### ART 197.
+
+In artikel 15, tweede lid, 6°, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord “een” en het woord “interne” wordt het woord “leerplichtige” ingevoegd;<br>
+2° de woorden “als vermeld in” worden vervangen door het woord “overeenkomstig”.
 
 ### ART 205.
 
