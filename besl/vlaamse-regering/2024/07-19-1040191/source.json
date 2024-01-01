@@ -2,16 +2,16 @@
   "codex_id": 1040191,
   "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van bepaalde zorgvoorzieningen in de Vlaamse sociale bescherming en de financiering van sociale akkoorden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040191/VolledigDocument?datum=2023-07-01",
-  "source_sha256": "7bdce98587845b64dcd049bb829cccd7e7189699712e27fc85778bc4231edb7a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040191/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0c7ce6b6d20cc85052334fd9ef993a388b8d776877a615091696633117963b78",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040191&param=informatie",
-  "as_of": "2023-07-01",
+  "as_of": "2024-01-01",
   "made": "2024-07-19",
   "gazette": "2024-09-05",
   "numac": 2024008148,
   "document_start": "2024-09-15",
   "document_end": null,
-  "in_force": "2023-07-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

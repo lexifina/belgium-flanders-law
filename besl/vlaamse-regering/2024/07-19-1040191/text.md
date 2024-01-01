@@ -162,6 +162,15 @@ Aan artikel 534/7, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit 
 <br>
 “Bij een gemiddelde bezettingsgraad van minder dan 50% van de capaciteit met een bijkomende erkenning wordt het totaal aan verminderingen dat het woonzorgcentrum voor het betreffende jaar met toepassing van artikel 527, derde lid, heeft toegekend op de gebruikersfactuur van de gebruikers binnen de bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie, verminderd met het bedrag dat wordt teruggevorderd.”.
 
+### ART 22.
+
+In artikel 663/5, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018, worden de volgende wijzigingen aangebracht:<br>
+1° punt 6° wordt vervangen door wat volgt:<br>
+“6° voor het jaar 2024: het maximale bedrag van de aanvullende financiering wordt geplafonneerd tot 7,84 euro maal het aantal gefactureerde dagen in de referentieperiode van 1 juli 2016 tot en met 30 juni 2017;”;<br>
+2° er worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt:<br>
+“7° voor het jaar 2025: het maximale bedrag van de aanvullende financiering wordt geplafonneerd tot 7,84 euro maal het aantal gefactureerde dagen in de referentieperiode van 1 juli 2016 tot en met 30 juni 2017;<br>
+8° vanaf 2026 wordt het bedrag van de aanvullende financiering mee opgenomen bij de integratie van de IFIC-financiering in de basistegemoetkoming voor zorg.”.
+
 ### ART 25.
 
 Aan artikel 2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 mei 2023 en 20 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
