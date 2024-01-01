@@ -626,6 +626,28 @@ Aan artikel 6.4.1/6/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vl
 <br>
 “In afwijking van het eerste lid is de verhoging voor beschermde afnemers niet meer van toepassing op aanvragen voor de uitbetaling van de premie, vermeld in artikel 6.4.1/1/4, die worden ingediend vanaf 1 april 2024.”.
 
+### ART 27.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 oktober 2022, wordt een artikel 6.4.1/6/3 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 6.4.1/6/3. In dit artikel wordt verstaan onder:&nbsp;<br>
+1° inkomen: het inkomen, vermeld in artikel 5.186, eerste lid, 6°, van het Besluit Vlaamse Codex Wonen van 2021. Voor de bepaling van het inkomen wordt rekening gehouden met het inkomen van de begunstigde, de gehuwde of wettelijk samenwonende partner en het aantal personen ten laste. Om het gezamenlijk belastbaar inkomen te berekenen, wordt rekening gehouden met de reële eigen beroepsinkomsten;<br>
+2° persoon ten laste: de persoon ten laste, vermeld in artikel 5.186, eerste lid, 7°, derde en vierde lid, van het Besluit Vlaamse Codex Wonen van 2021.<br>
+<br>
+Om in aanmerking te komen voor de premie, vermeld in artikel, 6.4.1/4, tweede lid, 1° en 2°, mag het inkomen van de afnemer niet meer bedragen dan:<br>
+1° 23.304 euro voor een alleenstaande;<br>
+2° 34.956 euro voor een alleenstaande met één persoon ten laste, te verhogen met 4.160 euro per bijkomende persoon ten laste;<br>
+3° 34.956 euro voor andere personen, te verhogen met 4.160 euro per persoon ten laste.<br>
+<br>
+Om in aanmerking te komen voor de tegemoetkomingen, vermeld in het artikel 6.4.1/8, mag het inkomen van de afnemer niet meer bedragen dan:<br>
+1° 28.105 euro voor een alleenstaande;<br>
+2° 42.156 euro voor een alleenstaande met één persoon ten laste, te verhogen met 4.160 euro per bijkomende persoon ten laste;<br>
+3° 42.156 euro voor andere personen, te verhogen met 4.160 euro per persoon ten laste.&nbsp;<br>
+<br>
+De bedragen vermeld in het tweede en derde lid, worden gekoppeld aan het gezondheidsindexcijfer 127,92 van oktober 2022 (basisjaar 2013). Ze worden jaarlijks op 1 januari aangepast aan het gezondheidsindexcijfer van de maand oktober die voorafgaat aan de aanpassing en afgerond naar het hogere tiental.<br>
+<br>
+In het vierde lid wordt verstaan onder gezondheidsindexcijfer: het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.”.
+
 ### ART 32.
 
 In artikel 6.5.1 van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 8 juli 2022, wordt tussen het woord “ondernemingen” en de woorden “met een totaal finaal energiegebruik” de zinsnede “, niet-commerciële instellingen of publiekrechtelijke rechtspersonen” ingevoegd.
