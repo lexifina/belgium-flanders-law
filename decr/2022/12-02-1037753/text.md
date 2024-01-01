@@ -15,7 +15,7 @@ In dit decreet wordt verstaan onder:<br>
 4° burger: een burger als vermeld in artikel I.4, 7°, van het Bestuursdecreet van 7 december 2018;<br>
 5° metagegevens: de documentatie die beschrijft wat de inhoud en de frequentie van actualisering van een gegevensbron is, en op welke technische wijze die bron benaderd en ontsloten kan worden;<br>
 6° elektronische dienst: de verwerking van de gegevens die zich in gegevensbronnen bevinden of de verwerking van de aanverwante metagegevens met een computertoepassing;<br>
-7° &nbsp;gegevens: de gegevens in een gegevensbron die informatie bevatten over een burger, inclusief persoonsgegevens, metagegevens of gegevens van een elektronische dienst;<br>
+7° &nbsp;gegevens: de gegevens in een gegevensbron, inclusief persoonsgegevens, metagegevens of gegevens van een elektronische dienst;<br>
 8° persoonsgegevens: de persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
 9° verwerking: een verwerking als vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming;<br>
 10° toestemming: een toestemming als vermeld in artikel 4, 11), van de algemene verordening gegevensbescherming;<br>
@@ -59,10 +59,12 @@ In het kader van die doelstellingen, vermeld in het eerste en tweede lid, is het
 
 §1. Het Vlaams Datanutsbedrijf heeft de volgende beleidsuitvoerende taken:<br>
 1° haalbaarheidsstudies uitvoeren over de ontwikkeling en het beheer van toepassingen die de gegevensdeling in een datagedreven ecosysteem ondersteunen;<br>
-2° een platform voor datakluizen voor burgers ontwikkelen en beheren. De datakluizen worden ter beschikking gesteld aan burgers. Het gebruik van een datakluis is voor burgers niet verplicht.&nbsp;Een datakluis kan geïdentificeerd worden aan de hand van het identificatie-nummer van het Rijksregister.&nbsp;Een burger kan uitsluitend op zijn uitdrukkelijk verzoek zijn datakluis activeren en in voorkomend geval deactiveren, zijn gegevens daarin opslaan, aanpassen of verwijderen en de mededeling van die gegevens beheren op zijn verzoek, en in geval van mededeling van persoonsgegevens, op voorwaarde dat de burger zijn toestemming verleent als vermeld in artikel 29 van dit decreet;<br>
-3° een platform ontwikkelen en beheren om metagegevens van overheidsinstanties geïntegreerd te delen en te raadplegen;<br>
-4° een platform ontwikkelen en beheren om metagegevens van burgers geïntegreerd te delen en te raadplegen;<br>
-5° een platform ontwikkelen en beheren dat zorg draagt voor de veilige en gewaarborgde afhandeling van de transacties tussen de betrokken burgers of overheidsinstanties en dat de eventuele verschuldigde vergoeding verwerkt die volgt uit de toegang van de betrokken burgers of overheidsinstanties tot de platformen, vermeld in deze paragraaf;<br>
+2° een platform voor datakluizen voor burgers ontwikkelen en beheren en diensten in dat verband verlenen. De datakluizen worden ter beschikking gesteld aan burgers. Het gebruik van een datakluis is voor burgers niet verplicht.&nbsp;Een datakluis kan geïdentificeerd worden aan de hand van het identificatie-nummer van het Rijksregister.&nbsp;Een burger kan uitsluitend op zijn uitdrukkelijk verzoek zijn datakluis activeren en in voorkomend geval deactiveren, zijn gegevens daarin opslaan, aanpassen of verwijderen en de mededeling van die gegevens beheren op zijn verzoek, en in geval van mededeling van persoonsgegevens, op voorwaarde dat de burger zijn toestemming verleent als vermeld in artikel 29 van dit decreet;<br>
+3° platformen ontwikkelen en beheren en diensten verlenen om metagegevens van overheidsinstanties geïntegreerd te delen en te raadplegen;<br>
+4° platformen ontwikkelen en beheren en diensten verlenen om metagegevens van burgers geïntegreerd te delen en te raadplegen;<br>
+5° platformen ontwikkelen en beheren en diensten verlenen die zorg dragen voor de veilige en gewaarborgde afhandeling van de transacties tussen de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 &nbsp;over het Vastgoedinformatieplatform, en die de eventuele verschuldigde vergoeding verwerken die volgt uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
+5°/1 de eventuele verschuldigde retributies aanrekenen en innen die volgen uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform. De Vlaamse Regering kan het bedrag van de retributie en nadere voorwaarden en regels voor de retributie vastleggen;<br>
+5°/2 de eventuele verschuldigde vergoedingen bepalen, aanrekenen en innen die volgen uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
 6° de taken, vermeld in artikel 4 van het KLIP-decreet van 14 maart 2008, uitvoeren;<br>
 7° de taken, vermeld in artikel 5 van het GIPOD-decreet van 4 april 2014, uitvoeren;<br>
 8° bijzondere opdrachten uitvoeren die aansluiten bij de doelstellingen, vermeld in artikel 4, §1, van dit decreet, of bij de beleidsuitvoerende taken, vermeld in punt 1° tot en met 7°, en die bij of krachtens een decreet worden toegewezen aan het Vlaams Datanutsbedrijf.<br>
@@ -147,7 +149,9 @@ De Vlaamse Regering kan de nadere samenstelling en werking van het adviescomité
 1° het ontwerp van beleid voor het gebruikers- en toegangsbeheer voor de peroonsgegevens die via het Vlaams Datanutsbedrijf worden meegedeeld;<br>
 2° het ontwerp van gecoördineerd veiligheidsbeleid en -beheer van het Vlaams Datanutsbedrijf;<br>
 3° het ontwerp van procedure, in het bijzonder de vereiste inhoud van het aan vraagdossier en de criteria om de aanvraag voor de toegang tot een toepassing van het Vlaams Datanutsbedrijf als de vraag tot toegang de verwerking van persoonsgegevens betreft, te beoordelen;<br>
-4° de aanvragen, de nadere voorwaarden en de nodige afspraken voor de toegang tot een toepassing van het Vlaams Datanutsbedrijf als de aanvraag tot de toegang de verwerking van persoonsgegevens betreft. Het adviescomité verleent het advies op basis van het aanvraagdossier en, in voorkomend geval, op basis van de gegevensbeschermingseffectbeoordeling die de aanvrager heeft opgesteld.<br>
+3°/1&nbsp; het ontwerp van procedure, in het bijzonder de criteria om de controle, de schorsing en de opheffing van de toegang tot een toepassing van het Vlaams Datanutsbedrijf, als de aanvraag tot toegang de verwerking van persoonsgegevens betreft, te beoordelen, als de toegang niet of niet langer in overeenstemming is met de bepalingen van dit decreet of andere toepasselijke wetgeving. De Vlaamse Regering kan de regels over de toegang tot een toepassing van het Vlaams Datanutsbedrijf, en de controle, schorsing en opheffing ervan nader bepalen<br>
+4° de aanvragen, de nadere voorwaarden en de nodige afspraken voor de toegang tot een toepassing van het Vlaams Datanutsbedrijf als de aanvraag tot de toegang de verwerking van persoonsgegevens betreft. Het adviescomité verleent het advies op basis van het aanvraagdossier en, in voorkomend geval, op basis van de gegevensbeschermingseffectbeoordeling die de aanvrager heeft opgesteld;<br>
+5° de nadere voorwaarden en de nodige afspraken voor de controle, de schorsing en de opheffing van de toegang tot een toepassing van het Vlaams Datanutsbedrijf als de aanvraag tot toegang de verwerking van persoonsgegevens betreft.<br>
 <br>
 In het advies, vermeld in het eerste lid, komen alle aspecten met betrekking tot alle deskundigheden, vermeld in paragraaf 1, eerste lid, aan bod.<br>
 <br>
@@ -241,7 +245,8 @@ Deze afdeling geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 3° het ondernemingsnummer, als de gegevens betrekking hebben op een onderneming die is opgenomen in de Kruispuntbank van Ondernemingen;<br>
 4° de identificator, vermeld in artikel 2, 9°, van het CRAB-decreet van 8 mei 2009, als de gegevens betrekking hebben op adressen als vermeld in artikel 6 van het voormelde decreet;<br>
 5° het kadastraal perceelsnummer, als de gegevens betrekking hebben op percelen;<br>
-6° de identificatoren van de geografische objecten van het Grootschalig Refe- rentie Bestand, vermeld in de bijlage bij het ministerieel besluit van 11 maart 2005 houdende goedkeuring van de GRB-specificaties in uitvoering van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand, als de gegevens betrekking hebben op of verwijzen naar exemplaren van het GRB.<br>
+6° de identificatoren van de geografische objecten van het Grootschalig Refe- rentie Bestand, vermeld in de bijlage bij het ministerieel besluit van 11 maart 2005 houdende goedkeuring van de GRB-specificaties in uitvoering van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand, als de gegevens betrekking hebben op of verwijzen naar exemplaren van het GRB;<br>
+7° de identificatiesleutel van de datakluis.<br>
 <br>
 §4. Voor de gegevens die niet onder de toepassing van paragraaf 2 vallen, kan de Vlaamse Regering het gebruik van andere identificatiemiddelen opleggen.<br>
 &nbsp;
@@ -306,7 +311,12 @@ Dit hoofdstuk geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 8° kadastrale gegevens.<br>
 9° gegevens over vrijetijdsbesteding;<br>
 10° mobiliteitsgegevens;<br>
-11° gezondheidsgegevens.<br>
+11° gezondheidsgegevens;<br>
+12° vastgoedinformatie als vermeld in artikel 2, 19°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
+13° gegevens in het kader van stedenbouwkundige misdrijven, milieumisdrijven en milieu-inbreuken;<br>
+14° woning-, gebouw- of grondkenmerken;<br>
+15° geografische gegevens;<br>
+16° energiegegevens.<br>
 <br>
 §2. De persoonsgegevens die door het Vlaams Datanutsbedrijf worden verwerkt, hebben betrekking op de natuurlijke personen die hun datakluis, vermeld in artikel 5, §1, 2°, hebben geactiveerd.
 
@@ -358,7 +368,7 @@ De inhoud van de toestemming van de burger blijft ongewijzigd in de loop van de 
 
 ### ART 30.
 
-§1. Er geldt een principieel kopieerverbod voor de ontvangende entiteit van persoonsgegevens. Als dat nodig is, kan de raad van bestuur, in overleg met de aanleverende entiteit, vermeld in artikel 13, §1 tot en met §3, na advies van het adviescomité vermeld in artikel 10, §1, ermee instemmen dat de ontvangende entiteit een kopie maakt van de persoonsgegevens, louter met de bedoeling de latere terbeschikkingstelling van die persoonsgegevens efficiënter te doen verlopen, op voorwaarde dat de ontvangende entiteit:<br>
+§1. Er geldt een principieel kopieerverbod voor de ontvangende entiteit van persoonsgegevens, opgeslagen in datakluizen. Als dat nodig is, kan de raad van bestuur, in overleg met de aanleverende entiteit, vermeld in artikel 13, §1 tot en met §3, na advies van het adviescomité vermeld in artikel 10, §1, ermee instemmen dat de ontvangende entiteit een kopie maakt van de persoonsgegevens, louter met de bedoeling de latere terbeschikkingstelling van die persoonsgegevens efficiënter te doen verlopen, op voorwaarde dat de ontvangende entiteit:<br>
 1° de persoonsgegevens niet wijzigt;<br>
 2° de persoonsgegevens bijwerkt conform de regels die bepaald zijn in overleg met de betrokken aanleverende entiteit;<br>
 3° onmiddellijk de verwerkte persoonsgegevens verwijdert of de toegang ertoe onmogelijk maakt in een van de volgende gevallen:<br>
@@ -375,6 +385,15 @@ b) zodra een administratieve of gerechtelijke autoriteit heeft bevolen de gegeve
 §3. Elke burger heeft het recht om te weten welke ontvangende entiteiten gedurende de laatste zes maanden persoonsgegevens over hem via het Vlaams Datanutsbedrijf hebben geraadpleegd of bijgewerkt. Het Vlaams Datanutsbedrijf voorziet daarvoor in de gepaste middelen conform de voorwaarden en regels waarover het adviescomité, vermeld in artikel 10, §1, advies heeft gegeven conform artikel 10, §2.
 
 ## Hoofdstuk 12. Wijzigingen van het KLIP-decreet van 14 maart 2008
+
+### ART 31.
+
+In artikel 2, §1, van het KLIP-decreet van 14 maart 2008, gewijzigd bij de decreten van 17 januari 2014, 10 november 2017 en 2 april 2021, wordt punt 14° vervangen door wat volgt:<br>
+“14° het agentschap: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf, opgericht krachtens het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap;”.
+
+### ART 32.
+
+In artikel 5, §1, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van 17 januari 2014 en 2 april 2021, wordt de zinsnede “het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen” vervangen door de woorden “het agentschap”.
 
 ## Hoofdstuk 13. Wijzigingen van het GIPOD-decreet van 4 april 2014
 
