@@ -145,7 +145,7 @@ De wijk-werker ontvangt 4,10 euro voor elke wijk-werkcheque die op zijn naam is 
 
 ### ART 14.
 
-Als de afstand tussen de plaats van de activiteit en de woonplaats van de wijk-werker meer bedraagt dan vijf kilometer, heeft de wijk-werker per prestatie recht op een forfaitaire verplaatsingsvergoeding van 0,15 euro per kilometer, ten laste van de VDAB.
+Als de afstand tussen de plaats van de activiteit en de woonplaats van de wijk-werker meer bedraagt dan vijf kilometer, heeft de wijk-werker per prestatie recht op een forfaitaire verplaatsingsvergoeding van 0,17 euro per kilometer, ten laste van de VDAB.&nbsp;Het bedrag van de voormelde forfaitaire verplaatsingsvergoeding wordt jaarlijks op 1 januari verhoogd met 2%.
 
 ## HOOFDSTUK 3 Regie en werkingsprincipes
 
