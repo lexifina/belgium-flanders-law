@@ -1427,17 +1427,27 @@ Als private televisieomroeporganisaties journaals en duidingsprogramma's brengen
 
 ### ART. 166.
 
-<p>§ 1. De regionale televisieomroeporganisaties mogen pas programma's verzorgen nadat ze daartoe door de Vlaamse Regering zijn erkend.<br>
+<p>§1. De regionale televisieomroeporganisaties mogen pas programma's verzorgen nadat ze daartoe door de Vlaamse Regering zijn erkend.<br>
 <br>
-De Vlaamse Regering bepaalt de procedure voor het verkrijgen van de erkenning, alsook mogelijke nadere maatregelen bij de bepaling van het verzorgingsgebied.</p>
+De Vlaamse Regering bepaalt de procedure voor het verkrijgen van de erkenning en de verlenging van de erkenning, alsook mogelijke nadere maatregelen bij de bepaling van het verzorgingsgebied.</p>
 
-<p>§ 2. De Vlaamse Regering sluit met de erkende regionale televisieomroeporganisaties een samenwerkingsovereenkomst voor de duur van vijf jaar. Deze samenwerkingsovereenkomst heeft betrekking op de ondertitelingsopdracht en de uitvoering van de decretale opdrachten, vermeld in artikel 151 en 165, en bepaalt de criteria en modaliteiten voor het verkrijgen en aanwenden van subsidies. Als bij het verstrijken van de samenwerkingsovereenkomst geen nieuwe samenwerkingsovereenkomst in werking is getreden, wordt de samenwerkingsovereenkomst van rechtswege verlengd tot het ogenblik dat een nieuwe samenwerkingsovereenkomst in werking is getreden.</p>
+<p>§2. De Vlaamse Regering sluit met de erkende regionale televisieomroeporganisaties een samenwerkingsovereenkomst voor de duur van vijf jaar. De samenwerkingsovereenkomst treedt in werking op het ogenblik dat de erkenning ingaat en verstrijkt na vijf jaar.<br>
+<br>
+Nadat de samenwerkingsovereenkomst, vermeld in het eerste lid, is verstreken, sluit de Vlaamse Regering een nieuwe samenwerkingsovereenkomst met de erkende regionale televisieomroeporganisaties voor de duur van opnieuw vijf jaar. De samenwerkingsovereenkomst treedt in werking nadat de eerste samenwerkingsovereenkomst, vermeld in het eerste lid, is verstreken en verstrijkt op het ogenblik dat de erkenning afloopt.<br>
+<br>
+Als de samenwerkingsovereenkomst, vermeld in het eerste lid, is verstreken en geen nieuwe samenwerkingsovereenkomst in werking is getreden, wordt de samenwerkingsovereenkomst van rechtswege verlengd tot het ogenblik dat voor de resterende duur van de periode van de tweede samenwerkingsovereenkomst een nieuwe samenwerkingsovereenkomst in werking is getreden en uiterlijk tot het ogenblik waarop de erkenning afloopt.<br>
+<br>
+De samenwerkingsovereenkomst, vermeld in het eerste en tweede lid, neemt in elk geval van rechtswege een einde op het ogenblik dat de erkenning van de regionale televisieomroeporganisatie voortijdig vervalt. In dat geval sluit de Vlaamse Regering een samenwerkingsovereenkomst met de regionale televisieomroeporganisatie die conform artikel 170, §4, is erkend voor de resterende duur van de initiële samenwerkingsovereenkomst en, als de erkenning vervalt in de eerste periode van vijf jaar, opeenvolgend een tweede samenwerkingsovereenkomst voor de duur van vijf jaar. De samenwerkingsovereenkomst die wordt gesloten voor de resterende duur van de initiële samenwerkingsovereenkomst kan onder de voorwaarden, vermeld in het derde lid, van rechtswege verlengd worden.<br>
+&nbsp;<br>
+De samenwerkingsovereenkomst, vermeld in het eerste en tweede lid, heeft betrekking op de ondertitelingsopdracht en de uitvoering van de opdrachten, vermeld in artikel 151 en 165, en bepaalt de criteria en modaliteiten voor het verkrijgen en aanwenden van subsidies.<br>
+<br>
+§3. Als een lopende samenwerkingsovereenkomst vóór 1 januari 2029 wordt beëindigd doordat de erkenning voortijdig vervalt, sluit de Vlaamse Regering een samenwerkingsovereenkomst met de regionale televisieomroeporganisatie die conform artikel 170, §4, is erkend voor de resterende duur van de initiële samenwerkingsovereenkomst.</p>
 
 ### ART. 166/1.
 
 <p>&nbsp;§ 1. Voor de commerciële exploitatie van haar omroepprogramma of de verzorging van het omroepprogramma door de exploitatiemaatschappij, onverminderd de redactionele verantwoordelijkheid van de regionale televisieomroeporganisatie,&nbsp;kan de regionale televisieomroeporganisatie een overeenkomst sluiten met een exploitatiemaatschappij. Onder commerciële exploitatie wordt verstaan: het geheel van commerciële activiteiten die bijdragen aan de financiering van het omroepprogramma van de regionale televisieomroeporganisatie.<br>
 <br>
-Een exploitatiemaatschappij verzorgt de commerciële exploitatie van het omroepprogramma of, onverminderd de redactionele verantwoordelijkheid van de regionale televisieomroeporganisatie, het omroepprogramma van één of meer regionale televisieomroeporganisaties. Het aandeelhouderschap van een exploitatiemaatschappij kan voor maximaal 25% plus één aandeel in handen zijn van een of meer regionale televisieomroeporganisaties.<br>
+Een exploitatiemaatschappij verzorgt de commerciële exploitatie van het omroepprogramma of, onverminderd de redactionele verantwoordelijkheid van de regionale televisieomroeporganisatie, het omroepprogramma van één of meer regionale televisieomroeporganisaties.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere voorwaarden waaraan een exploitatiemaatschappij moet voldoen en bepaalt de minimumvereisten die in de exploitatieovereenkomst tussen de regionale televisieomroeporganisatie en de exploitatiemaatschappij worden opgenomen. Die minimumvereisten omvatten minstens de plicht om, als de verzorging van het omroepprogramma aan de exploitatiemaatschappij wordt overgedragen, in de exploitatieovereenkomst een regeling op te nemen over de redactionele onafhankelijkheid, de naleving van het redactiestatuut en de verantwoordelijkheid van de regionale televisieomroeporganisatie voor de inhoud van de programma's.<br>
 <br>
@@ -1467,15 +1477,15 @@ De Vlaamse Regulator voor de Media berekent voor elke regionale televisieomroepo
 <br>
 Met ingang van 1 januari 2016 zullen regionale televisieomroeporganisaties, waarvan het gemiddeld procentueel dagbereik in het laatste kwartaal van elk jaar vanaf 2015 met meer dan 20% gedaald is ten opzichte van het gemiddeld procentueel dagbereik van het laatste kwartaal van 2014, om recht te hebben op de vergoeding conform deze paragraaf, met toepassing van paragraaf 1 een overeenkomst sluiten met een exploitatiemaatschappij. De Vlaamse Regering bepaalt de nadere modaliteiten voor toepassing van dit lid.<br>
 <br>
-§ 3. In afwijking van artikel 169, eerste lid, 4°, kan de Vlaamse Regering in individuele gevallen toestemming verlenen aan een vereniging die een exploitatieovereenkomst heeft gesloten, om meer dan één omroepprogramma te verzorgen.<br>
+§ 3. ...<br>
 <br>
 § 4. De organen van regionale televisieomroeporganisaties die een exploitatieovereenkomst hebben gesloten als vermeld in paragraaf 1, voldoen bovendien aan de volgende voorwaarden:<br>
 1° de algemene vergadering en de raad van bestuur worden representatief samengesteld uit personen die wonen in het betrokken verzorgingsgebied van de regionale omroeporganisatie;<br>
 2° maximaal twee derde van de leden van de algemene vergadering en van de raad van bestuur is van hetzelfde geslacht, en minimaal één van de leden van die organen heeft een etnisch-cultureel diverse achtergrond. De algemene vergadering en de raad van bestuur moeten in hun samenstelling een evenwichtige en evenredige leeftijdsdiversiteit die de demografische realiteit van onze meerderjarige bevolking volgt, weerspiegelen;<br>
 3° één werkend lid van de algemene vergadering wordt aangewezen door de exploitatiemaatschappij waarmee de regionale televisieomroeporganisatie een exploitatieovereenkomst heeft gesloten;<br>
-4° de mandaten in de raad van bestuur gelden voor vier jaar. Elke vier jaar wordt minstens de helft van de leden van de raad van bestuur vervangen. Een individuele bestuurder kan nooit langer zetelen dan twaalf jaar.<br>
+4° de mandaten in de raad van bestuur gelden voor vier jaar. Een individuele bestuurder kan nooit langer zetelen dan twaalf jaar.<br>
 <br>
-§ 5. Onverminderd de toepassing van artikel 169 en 170 ontvangen de regionale televisieomroeporganisaties die een exploitatieovereenkomst hebben gesloten als vermeld in paragraaf 1, en die voldoen aan de overige bepalingen van dit artikel, van de Vlaamse Regering een nieuwe erkenning waarin wordt vermeld dat de exploitatieovereenkomst is gesloten.<br>
+§ 5. Onverminderd de toepassing van artikel 169 en 170 ontvangen de regionale televisieomroeporganisaties die een exploitatieovereenkomst hebben gesloten als vermeld in paragraaf 1, en die voldoen aan de overige bepalingen van dit artikel, van de Vlaamse Regering een nieuwe erkenning voor de resterende duur van de initiële erkenningsperiode waarin wordt vermeld dat de exploitatieovereenkomst is gesloten.<br>
 <br>
 § 6. Dit artikel is niet van toepassing in het tweetalige gebied Brussel-Hoofdstad.</p>
 
@@ -1487,7 +1497,11 @@ Na de erkenning moet elke fundamentele wijziging van de informatie, vermeld in h
 
 ### ART. 168.
 
-De Vlaamse Regering bakent de verzorgingsgebieden van de regionale   televisieomroeporganisaties af, waaronder het tweetalige gebied   Brussel-Hoofdstad. Binnen een verzorgingsgebied kan door de Vlaamse Regering   slechts aan een regionale televisieomroeporganisatie een erkenning worden   verleend.<BR><BR>De Vlaamse Regering bepaalt waar het omroepprogramma en de   programma's van de regionale televisieomroeporganisaties verspreid kunnen   worden, en onder welke voorwaarden. De journaals van de regionale   televisieomroeporganisaties kunnen verspreid worden in de ganse Vlaamse   Gemeenschap.
+De Vlaamse Regering bakent de verzorgingsgebieden van de regionale televisieomroeporganisaties af, waaronder het tweetalige gebied Brussel-Hoofdstad. Binnen een verzorgingsgebied kan door de Vlaamse Regering slechts aan een regionale televisieomroeporganisatie een erkenning worden verleend.<br>
+<br>
+De Vlaamse Regering bepaalt waar het omroepprogramma en de programma's van de regionale televisieomroeporganisaties verspreid kunnen worden, en onder welke voorwaarden. De journaals van de regionale televisieomroeporganisaties kunnen verspreid worden in de ganse Vlaamse Gemeenschap.<br>
+<br>
+De regionale omroeporganisaties kunnen in hetzelfde omroepprogramma ontkoppelde journaals brengen.
 
 ### ART. 169.
 
@@ -1500,24 +1514,43 @@ Om erkend te worden en te blijven, moeten de regionale televisieomroeporganisati
 6° de regionale televisieomroeporganisaties zenden uit in het Nederlands, behoudens afwijkingen die door de Vlaamse Regering worden toegestaan;<br>
 7° de regionale televisieomroeporganisaties zenden eigen programma's uit. In de eigen programma's streven de regionale televisieomroeporganisaties ernaar om de uitdrukkingsmogelijkheden van de plaatselijke bevolking te ontwikkelen en haar deelname eraan aan te moedigen. Met eigen programma's worden programma's of programmaonderdelen bedoeld die ofwel door eigen personeel ofwel in opdracht en onder eindverantwoordelijkheid van het personeel van de regionale televisieomroeporganisatie worden uitgewerkt en gerealiseerd ofwel ter uitvoering van de exploitatieovereenkomst, vermeld in artikel 166/1, § 1, worden uitgewerkt en gerealiseerd, onverminderd de redactionele eindverantwoordelijkheid van de regionale televisieomroeporganisaties;<br>
 8° het omroepprogramma van de regionale televisieomroeporganisaties heeft voor ten minste tachtig procent betrekking op het eigen regionale verzorgingsgebied;<br>
-9° voor de journaals is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd. Voor zijn nieuwsvoorziening kan de regionale televisieomroeporganisatie een beroep doen op samenwerkingsverbanden. De voorwaarden daarvoor worden door de Vlaamse Regering bepaald;<br>
-10° de regionale televisieomroeporganisaties bezorgen jaarlijks een werkingsverslag en een financieel verslag. De Vlaamse Regulator voor de Media en meer bepaald de daartoe aangestelde ambtenaren kunnen alle noodzakelijke documenten opvragen en ter plaatse onderzoeken of de erkenningsvoorwaarden worden nageleefd.<br>
+9° voor de journaals is een hoofdredacteur verantwoordelijk. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd. Voor zijn nieuwsvoorziening kan de regionale televisieomroeporganisatie een beroep doen op samenwerkingsverbanden;<br>
+10° de regionale televisieomroeporganisaties bezorgen jaarlijks tegen 30 juni een werkingsverslag en een financieel verslag over het voorbije kalenderjaar aan de Vlaamse Regulator voor de Media;<br>
+11° voor de erkenningen die ingaan vanaf 1 januari 2029:<br>
+a)&nbsp;&nbsp; &nbsp;de regionale televisieomroeporganisaties volgen een crossmediale strategie en spelen in op een gedifferentieerd mediagebruik. De digitale mogelijkheden worden aangewend;<br>
+b)&nbsp;&nbsp; &nbsp;de regionale televisieomroeporganisaties organiseren hun werking en activiteiten volgens de volgende principes:<br>
+1)&nbsp;&nbsp; &nbsp;een gezond en efficiënt financieel beleid voeren;<br>
+2)&nbsp;&nbsp; &nbsp;de bestuursorganen op een deugdelijke manier organiseren.<br>
+<br>
+De ambtenaren van de Vlaamse Regulator voor de Media die daarvoor zijn aangesteld, kunnen alle noodzakelijke documenten opvragen en ter plaatse onderzoeken of de erkenningsvoorwaarden worden nageleefd.<br>
+<br>
+De Vlaamse Regering kan de erkenningsvoorwaarden, vermeld in het eerste lid, 9° en 11°, nader bepalen.<br>
 <br>
 De bepaling van lid 1, 3°, geldt niet voor de regionale televisieomroeporganisatie met als verzorgingsgebied het tweetalige gebied Brussel-Hoofdstad. Deze regionale televisieomroeporganisatie kan, naast de vervulling van haar opdracht zoals bepaald in artikel 165, ook een lokale radio-omroeporganisatie met als lokaliteit Brussel exploiteren.<br>
 <br>
 In afwijking van lid 1, 4°, kan de Vlaamse Regering in individuele gevallen toestemming verlenen aan een vereniging die een exploitatieovereenkomst heeft gesloten, om meer dan één omroepprogramma te verzorgen.<br>
 <br>
-Met behoud van de toepassing van lid 1, 5°, kan een regionale televisieomroeporganisatie een exploitatieovereenkomst sluiten als bedoeld in artikel 166/1, § 1.
+Met behoud van de toepassing van lid 1, 5°, kan een regionale televisieomroeporganisatie een exploitatieovereenkomst sluiten als bedoeld in artikel 166/1, § 1 en aandeelhouder zijn in een exploitatiemaatschappij.
 
 ### ART. 170.
 
-§ 1. De duur van de erkenning als regionale televisieomroeporganisatie bedraagt negen jaar. De erkenning kan worden verlengd met perioden van negen jaar op verzoek van de aanvrager. Dat verzoek wordt conform artikel 219 uiterlijk zes maanden voor het verstrijken van de lopende erkenningstermijn ingediend.<br>
+§1. Erkenningen als regionale televisieomroeporganisatie die aflopen vóór 31 december 2028, worden van rechtswege verlengd tot en met 31 december 2028, met behoud van de mogelijkheid tot toepassing van paragraaf 2 tot en met 4.<br>
 <br>
-De Vlaamse Regering moet, als ze de erkenning niet wil verlengen, uiterlijk een jaar voor het verstrijken van de erkenningstermijn de regionale televisieomroeporganisatie daarvan op de hoogte brengen met een aangetekende brief, die gericht is aan de voorzitter van de raad van bestuur op het adres van de maatschappelijke zetel.<br>
+Erkenningen die aflopen na 31 december 2028, vervallen van rechtswege op 31 december 2028 met behoud van de mogelijkheid tot toepassing van paragraaf 2 tot en met 4.<br>
 <br>
-§ 2. De Vlaamse Regulator voor de Media kan op ieder ogenblik de erkenning als regionale televisieomroeporganisatie schorsen of opheffen, als de bepalingen van deze afdeling of de uitvoeringsbepalingen ervan niet worden nageleefd.<br>
+Met ingang van 1 januari 2029 bedraagt de duur van de erkenning als regionale televisieomroeporganisatie tien jaar.<br>
 <br>
-§ 3. De Vlaamse Regering kan, als de regionale televisieomroeporganisatie daarom verzoekt, de behandeling van de opschorting of opheffing van de erkenning maximaal drie maanden schorsen om de omroeporganisatie in kwestie de kans te geven aan alle voorschriften te voldoen. Na verloop van die periode wordt de behandeling van het dossier hervat als de grond daartoe nog voorhanden is.
+De erkenningen die vervallen op 31 december 2028 en de erkenningen uitgereikt na die datum kunnen op verzoek van de aanvrager verlengd worden met perioden van tien jaar. Dat verzoek wordt uiterlijk anderhalf jaar voor het verstrijken van de lopende erkenningstermijn ingediend. Alleen als het verzoek tot verlenging van de erkenning niet voldoet aan de erkenningsvoorwaarden, vermeld in artikel 169, weigert de Vlaamse Regering de verlenging van de erkenning uiterlijk één jaar voor het verstrijken van de erkenning.<br>
+<br>
+De Vlaamse Regering kan de nadere voorwaarden bepalen.<br>
+<br>
+§2. De Vlaamse Regulator voor de Media kan op ieder ogenblik de erkenning als regionale televisieomroeporganisatie schorsen of opheffen, als de bepalingen van deze afdeling of de uitvoeringsbepalingen ervan niet worden nageleefd.<br>
+<br>
+§3. De Vlaamse Regering kan, als de regionale televisieomroeporganisatie daarom verzoekt, de behandeling van de opschorting of opheffing van de erkenning maximaal drie maanden schorsen om de omroeporganisatie in kwestie de kans te geven aan alle voorschriften te voldoen. Na verloop van die periode wordt de behandeling van het dossier hervat als de grond daartoe nog voorhanden is.<br>
+<br>
+§4. Als de erkenning vervalt of voortijdig opgeheven wordt met toepassing van paragraaf 2 en 3, kan opnieuw een erkenning worden toegekend conform de bepalingen van deze afdeling.<br>
+&nbsp;<br>
+In het geval, vermeld in het eerste lid, wordt de erkenning alleen toegekend voor de resterende duur van de initiële erkenningsperiode, onverminderd de mogelijkheid om de erkenning overeenkomstig paragraaf 1 te verlengen.
 
 ### ART. 171.
 
