@@ -33,14 +33,14 @@ In dit besluit wordt verstaan onder:<br>
 3° besluit van 24 oktober 2014: het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
 4° besluit van 29 oktober 2021: het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten;<br>
 5° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit;<br>
-6° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+6° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 7° blijvende teelten: de teelten van gewassen die geen blijvend grasland zijn en die niet in de vruchtwisseling zijn opgenomen. Blijvende teelten nemen het land gedurende ten minste vijf jaar in beslag. Blijvende teelten zijn teelten die geregeld een oogst kunnen opleveren, met inbegrip van producten van kwekerijen en hakhout met korte omlooptijd;<br>
 8° blijvend grasland: land dat wordt gebruikt voor een natuurlijke of ingezaaide vegetatie van grassen of andere kruidachtige voedergewassen en dat minimaal vijf jaar niet in de vruchtwisseling van het bedrijf is opgenomen;<br>
 9° bomenrij: een lijnvormig vrijstaand landschapselement dat bestaat uit minstens drie bomen in één rij met maximaal twintig meter tussen de stammen;<br>
 10° bouwland:&nbsp;<br>
 &nbsp; a) land dat niet voldoet aan de definitie van blijvende teelten of blijvend grasland en dat voor de teelt van gewassen wordt gebruikt of dat daarvoor beschikbaar is, maar braak ligt;<br>
 &nbsp; &nbsp;b) land dat is braakgelegd overeenkomstig artikel 31 of 70 van verordening (EU) 2021/2115 of de GLMC-norm 8, vermeld in bijlage III bij verordening (EU) 2021/2115;<br>
-11° braakliggend land: bouwland waarop geen landbouwproductie plaatsvindt, maar waarop een spontane vegetatie tot ontwikkeling komt of een maatregel wordt genomen om de biodiversiteitsvoordelen te vergroten en waarbij geen landbouwproducten worden geoogst;<br>
+11° braakliggend land: bouwland waarop geen landbouwproductie plaatsvindt, maar waarop een spontane vegetatie tot ontwikkeling komt of een maatregel wordt genomen om de biodiversiteitsvoordelen te vergroten en waarbij geen landbouwproducten worden geoogst. Percelen blijvend grasland uit de voorgaande campagne kunnen niet als braakliggend land beschouwd worden;;<br>
 12° bufferstroken en akkerranden: onder bufferstroken en akkerranden vallen alle bufferstroken en akkerranden, met inbegrip van de bufferstroken langs waterlopen die vereist zijn in het kader van GLMC 4, RBE 1, RBE 2 of RBE 7 als bedoeld in bijlage III bij Verordening (EU) nr. 2021/2115, en de akkerranden die beschermd zijn in het kader van GLMC 8, RBE 3 of RBE 4 als bedoeld in die bijlage, met een minimumbreedte van minstens 1 meter. Bufferstroken en akkerranden moeten ofwel bedekt zijn door de ontwikkeling van een spontane vegetatie, ofwel door de inzaai van een gewas, zonder dat er landbouwproductie op mag plaatsvinden. Als de bufferstroken of akkerranden kunnen worden onderscheiden van de aangrenzende teelt, mogen ze worden begraasd of gemaaid;<br>
 13° conditionaliteit: beheerseisen die voortvloeien uit Europese verordeningen en richtlijnen over klimaat en milieu, volksgezondheid, gezondheid van planten en dierenwelzijn, en normen voor het in goede landbouw- en milieuconditie (GLMC) houden van landbouwgrond volgens de thema’s klimaatverandering, water, bodem, biodiversiteit en landschap, vermeld in bijlage III van verordening (EU) 2021/2115;<br>
 14° controleorgaan biologische productie en etikettering biologische producten: het controleorgaan dat erkend is conform artikel 24 en 25 van het besluit van 29 oktober 2021;<br>
@@ -50,6 +50,7 @@ In dit besluit wordt verstaan onder:<br>
 18° gedelegeerde verordening (EU) 2022/126: gedelegeerde Verordening (EU) 2022/126 van de Commissie van 7 december 2021 tot aanvulling van Verordening (EU) 2021/2115 van het Europees Parlement en de Raad met aanvullende eisen voor bepaalde interventietypes die de lidstaten in het kader van die verordening in hun strategisch GLB-plan voor de periode 2023-2027 uitwerken, alsmede regels voor het aandeel in het kader van norm 1 inzake een goede landbouw- en milieuconditie (GLMC);<br>
 19° gedelegeerde verordening (EU) 2022/1172: gedelegeerde Verordening (EU) 2022/1172 van de Commissie van 4 mei 2022 tot aanvulling van Verordening (EU) 2021/2116 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem van het gemeenschappelijk landbouwbeleid en de toepassing en berekening van administratieve conditionaliteitssancties;<br>
 20° grassen of andere kruidachtige voedergewassen: alle kruidachtige planten die in België traditioneel in natuurlijk grasland voorkomen of normaliter in zaadmengsels voor grasland worden opgenomen, ongeacht of het grasland in kwestie voor het weiden van dieren wordt gebruikt;<br>
+20/1° groenbedekker: gewas dat ingezaaid wordt met als hoofddoel de bodem bedekt te houden in de periode na de oogst van de hoofdteelt;<br>
 21° groep van bomen: bomen in groep met overlappende kruinen en vrijstaand. Een groep van bomen heeft een maximale oppervlakte van 0,30 hectare;<br>
 22° haag of heg: een rij bomen of struiken die vlak naast elkaar staan en aaneengesloten zijn. Een haag of heg is overal minder dan twee meter breed;<br>
 23° hakhout met korte omlooptijd: meerjarige dicht bij elkaar staande houtgewassen van boomsoorten van de gecombineerde nomenclatuurcode van de Europese Unie GN-code 0602 90 41, zoals vastgesteld overeenkomstig artikel 10 van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief, waarvan de wortelstokken of stronken na de oogst in de grond blijven en die in het daaropvolgende seizoen nieuwe scheuten vormen. Hakhout met korte omlooptijd heeft een maximale omlooptijd van acht jaar;<br>
@@ -138,7 +139,10 @@ Bij de verzamelaanvraag worden de gevraagde bewijsstukken gevoegd die aantonen d
 <br>
 §2. Rechtstreekse betalingen kunnen uitsluitend toegekend worden aan actieve landbouwers, ongeacht het bedrag aan rechtstreekse betalingen dat de landbouwer het voorgaande jaar ontvangen heeft. De landbouwer die aan al de volgende voorwaarden voldoet, wordt beschouwd als actieve landbouwer:<br>
 1° de landbouwer is geregistreerd met een ondernemingsnummer in de Kruispuntbank van Ondernemingen van de FOD Economie, K.M.O., Middenstand en Energie en heeft een NACEBEL-code voor de btw-activiteiten die betrekking heeft op een landbouwactiviteit;<br>
-2° de verhouding tussen de btw-verkoophandelingen als gevolg van de landbouwactiviteit ten opzichte van de btw-verkoophandelingen van alle economische activiteiten van de betrokken onderneming, zonder rekening te houden met de met de actieve landbouwer verbonden ondernemingen, is groter dan of gelijk aan een één derde;<br>
+2° de verhouding tussen de btw-verkoophandelingen als gevolg van de landbouwactiviteit en als gevolg van de verkoop van de volgende producten ten opzichte van de btw-verkoophandelingen van alle economische activiteiten van de onderneming in kwestie, zonder rekening te houden met de met de actieve landbouwer verbonden ondernemingen, is groter dan of gelijk aan een derde: &nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;bier, dat gemaakt is met graan dat voor minstens 75% afkomstig is van eigen teelt;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;gedistilleerde dranken die gemaakt zijn met granen, noten of fruit die voor minstens 75% afkomstig zijn van eigen teelt&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;consumptie-ijs en yoghurt die gemaakt zijn met melk die voor minstens 75% afkomstig is van eigen dieren;<br>
 3° de landbouwer heeft een standaardverdiencapaciteit die groter is dan of gelijk is aan het minimaal factorinkomen van 7.500 euro;<br>
 4° de landbouwer of een aan de landbouwer verbonden onderneming is geen overheidsinstelling, erkende terreinbeherende natuurvereniging, hogeschool of universiteit;<br>
 5° binnen de landbouwer is er minstens één bedrijfshoofd, zaakvoerder, lid, vennoot of bestuurder dat of die geen rustpensioen ontvangt.<br>
@@ -157,7 +161,7 @@ De minister kan:<br>
 &nbsp; d) voorzien in een vrijstelling voor:&nbsp;<br>
 &nbsp; &nbsp; 1) landbouwers die opteren voor een door de minister bepaalde bijzondere regeling;&nbsp;<br>
 &nbsp; &nbsp; 2) landbouwers die enkel onderhoud op landbouwareaal als landbouwactiviteit uitvoeren, op ten minste 75% van hun totale landbouwareaal;<br>
-&nbsp; &nbsp; 3) landbouwers waarvan de btw-verkoopshandelingen niet gekend zijn omdat ze recent gestart zijn ;&nbsp;<br>
+&nbsp; &nbsp; 3) landbouwers waarvan de btw-verkoophandelingen niet gekend zijn omdat ze recent gestart zijn ;&nbsp;<br>
 3° voor de voorwaarde, vermeld in het eerste lid, 3°:<br>
 &nbsp; a) nadere regels bepalen om de standaardverdiencapaciteit vast te stellen;<br>
 &nbsp; b) nadere regels bepalen voor de procedures die de landbouwer kan volgen als zijn standaardverdiencapaciteit lager is dan het vereiste minimale factorinkomen;<br>
@@ -188,7 +192,7 @@ De minister bepaalt de boomsoorten voor de toepassing van de definitie van hakho
 
 ### ART 6.
 
-Onderhoud van braakliggend land bestaat uit het beperken van opslag van houtige planten en verruiging zodat beweiding of teelt mogelijk is zonder dat daarvoor voorbereidende activiteiten nodig zijn die verder gaan dan het gebruik van de gebruikelijke landbouwmethoden en -machines. Braakliggend land &nbsp;wordt jaarlijks gemaaid voor 1 oktober van het campagnejaar in kwestie, waarbij het maaisel ter plaatse blijft liggen.<br>
+Onderhoud van braakliggend land bestaat uit het beperken van opslag van houtige planten en verruiging zodat beweiding of teelt mogelijk is zonder dat daarvoor voorbereidende activiteiten nodig zijn die verder gaan dan het gebruik van de gebruikelijke landbouwmethoden en -machines. Braakliggend land wordt jaarlijks gemaaid.<br>
 <br>
 Onderhoud van natuurlijke graslanden bestaat uit het beperken van verruiging zodat beweiding of maaien mogelijk is zonder dat daarvoor voorbereidende activiteiten nodig zijn die verder gaan dan het gebruik van de gebruikelijke landbouwmethoden en -machines. Het onderhoud bestaat uit een van de volgende maatregelen:<br>
 1° het jaarlijks maaien voor 1 oktober van het campagnejaar in kwestie;<br>
@@ -360,7 +364,7 @@ De minister kan:<br>
 2° bepalen welke bewijzen de aanvrager van de overdracht moet aanleveren aan de bevoegde entiteit;<br>
 3° de regels voor de aangifte van landbouwpercelen in de verzamelaanvraag bepalen.
 
-## Onderafdeling 5. Reserve
+## Onderafdeling 4. Reserve
 
 ### ART 28.
 
@@ -420,7 +424,7 @@ De minister kan de nadere regels bepalen voor de aanvraagprocedure, de inhoud va
 
 ### ART 32.
 
-De waarde van betalingsrechten toegekend uit de reserve in een bepaald jaar stemt overeen met de gemiddelde waarde van de betalingsrechten, vermeld in artikel 26, lid 8, van verordening (EU) 2021/2115, welke bepaald wordt door de som van de waarden van alle betalingsrechten te delen door het aantal betalingsrechten in dat jaar. De waarde van bestaande rechten na verhoging wordt op dezelfde manier bepaald.
+Per campagnejaar wordt de waarde van de betalingsrechten die toegekend worden uit de reserve, bepaald bij de eerste toekenning van de rechten uit de reserve. De waarde van de betalingsrechten die toegekend worden uit de reserve in een bepaald jaar, stemt overeen met de gemiddelde waarde van de betalingsrechten, vermeld in artikel 26, lid 8, van verordening (EU) 2021/2115, die bepaald wordt door de som van de waarden van alle betalingsrechten te delen door het aantal betalingsrechten in dat jaar. De waarde van de bestaande rechten na verhoging wordt op dezelfde manier bepaald.
 
 ### ART 33.
 
@@ -685,34 +689,29 @@ De bevoegde entiteit kan voor een aanvraag als vermeld in het eerste lid, de toe
 
 ### ART 58.
 
-De landbouwer neemt op minstens 80% van het totale bouwlandareaal van het bedrijf een van de volgende maatregelen en houdt die minstens aan tot en met 31 januari:<br>
-1° als de hoofdteelt uiterlijk op 31 augustus is geoogst: uiterlijk op 15 september een groenbedekker inzaaien, tenzij er een nateelt wordt ingezaaid die voor een bedekking in de winter zorgt. Tot aan de inzaai ervan neemt de landbouwer een van de volgende maatregelen:<br>
-&nbsp; a) de stoppels en opslag behouden;<br>
-&nbsp; b) de plantenresten aan de oppervlakte laten liggen om voor een bedekking van de bodem te zorgen.<br>
-2° als de hoofdteelt na 31 augustus geoogst wordt neemt de landbouwer een van de volgende maatregelen:<br>
-&nbsp; a) een groenbedekker of een nateelt inzaaien. Tot aan de inzaai ervan worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen om voor een bedekking van de bodem te zorgen;<br>
-&nbsp; b) de stoppels en de opslag behouden;<br>
-&nbsp; c) de plantenresten aan de oppervlakte laten liggen om voor een bedekking van de bodem te zorgen.<br>
-3° als de hoofdteelt op 1 december nog niet geoogst is: de teelt behouden of de plantenresten na de oogst laten liggen, tot de inzaai van de volgende teelt.<br>
+De landbouwer neemt op minstens 80% van het totale bouwlandareaal van het bedrijf een van de volgende maatregelen en houdt die minstens aan vanaf 1 december van het jaar N tot en met 31 januari van het jaar N+1:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een groenbedekker of een nateelt inzaaien. Tot aan de start van de veldwerkzaamheden voor de inzaai van de groenbedekker of nateelt worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen om voor een bedekking van de bodem te zorgen;<br>
+2°&nbsp;&nbsp; &nbsp;de stoppels en de opslag behouden na de oogst van de hoofdteelt;<br>
+3°&nbsp;&nbsp; &nbsp;de plantenresten aan de oppervlakte laten liggen om voor een bedekking van de bodem te zorgen na de oogst van de hoofdteelt;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de teelt behouden tijdens de winter.&nbsp;<br>
 <br>
-Op percelen met een zware bodemtextuur, namelijk met een klei- of leembodem, is winter-voorploegen toegestaan vanaf 15 oktober op de kleigronden en vanaf 1 december op de leemgronden. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door een van de volgende acties te ondernemen:<br>
-1° een groenbedekker of een nateelt inzaaien;&nbsp;<br>
-2° de stoppels en de opslag behouden;&nbsp;<br>
-3° de plantenresten aan de oppervlakte laten liggen.<br>
+Op percelen met een zware bodemtextuur, namelijk met een klei- of leembodem, is winterploegen toegestaan vanaf 15 oktober op andere kleibodems dan deze gelegen in de landbouwstreek Polders en Duinen, vermeld in het Koninklijk besluit van 24 februari 1951 houdende grensbepaling van de landbouwstreken van het Rijk, gewijzigd door de Koninklijke besluiten van 15 juli 1953, 8 maart 1968 en 15 februari 1974, en vanaf 1 december op leembodems. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door een van de volgende acties te ondernemen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een groenbedekker of een nateelt inzaaien;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de stoppels en de opslag behouden;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de plantenresten aan de oppervlakte laten liggen om voor een bedekking van de bodem te zorgen.&nbsp;<br>
 <br>
-Op percelen met een hoge en zeer hoge erosiegevoeligheid gelden de volgende verplichtingen in het kader van het basispakket, vermeld in bijlage 1 en 2 bij dit besluit, in combinatie met de verplichtingen op basis van de norm voor minimale bodembedekking, zoals bepaald in het eerste en het tweede lid:<br>
-1° als de hoofdteelt uiterlijk op 31 augustus geoogst wordt: uiterlijk op 15 september wordt een groenbedekker ingezaaid, tenzij er een nateelt wordt ingezaaid die voor een bedekking in de winter zorgt. Tot aan de inzaai ervan worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen;<br>
-2° als de hoofdteelt na 31 augustus maar vóór 15 oktober geoogst wordt, wordt er een groenbedekker of een nateelt ingezaaid vóór 1 december. Tot aan de inzaai ervan worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen;<br>
-3° als de hoofdteelt na 15 oktober geoogst wordt, wordt minstens een van de volgende maatregelen toegepast:<br>
-&nbsp; a) een groenbedekker of een andere teelt wordt vóór 1 december ingezaaid, waarbij tot de inzaai ervan de stoppels en opslag behouden worden of de plantenresten aan de oppervlakte blijven liggen;<br>
-&nbsp; b) de plantenresten aan de oppervlakte laten liggen;<br>
-&nbsp; c) winter-voorploegen wordt toegepast op percelen met een leem- en kleibodem, op basis van de bodemkaart of bodemstaal. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door een van de volgende maatregelen te nemen:<br>
-&nbsp; &nbsp; 1) na de oogst van de hoofdteelt een groenbedekker inzaaien,&nbsp;<br>
-&nbsp; &nbsp; 2) de stoppels en de opslag behouden,&nbsp;<br>
-&nbsp; &nbsp; 3) de plantenresten aan de oppervlakte laten liggen;<br>
-4° als de hoofdteelt niet geoogst is op 1 december, minstens een van de volgende maatregelen nemen:<br>
-&nbsp; a) tot de inzaai van de volgende teelt de teelt of de plantenresten behouden;<br>
-&nbsp; b) winter-voorploegen toepassen op percelen met een leem- of een kleibodem. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door de stoppels te behouden en de plantenresten te laten liggen.
+Op percelen met een hoge en zeer hoge erosiegevoeligheid gelden de volgende verplichtingen in het kader van het basispakket, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, in combinatie met de verplichtingen op basis van de norm voor minimale bodembedekking, vermeld in het eerste en tweede lid:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;als de hoofdteelt vóór 15 oktober geoogst wordt, wordt er een groenbedekker of een nateelt ingezaaid vóór 1 december. Tot aan de start van de veldwerkzaamheden voor de inzaai van de groenbedekker of de nateelt worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;als de hoofdteelt na 15 oktober geoogst wordt, wordt minstens een van de volgende maatregelen toegepast:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een groenbedekker of een andere teelt wordt vóór 1 december ingezaaid, waarbij tot de start van de veldwerkzaamheden voor de inzaai van de groenbedekker of de andere teelt de stoppels en de opslag behouden worden of de plantenresten aan de oppervlakte blijven liggen;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;bij teelt van korrelmaïs, spruiten of andere koolsoorten: de plantenresten aan de oppervlakte laten liggen tot de inzaai van de volgende teelt;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;winterploegen wordt toegepast op percelen met een leem- of een kleibodem, op basis van de bodemkaart of een bodemstaal. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door een van de volgende maatregelen te nemen:&nbsp;<br>
+1)&nbsp;&nbsp; &nbsp;na de oogst van de hoofdteelt een groenbedekker inzaaien;&nbsp;<br>
+2)&nbsp;&nbsp; &nbsp;de stoppels en de opslag behouden;<br>
+3)&nbsp;&nbsp; &nbsp;de plantenresten aan de oppervlakte laten liggen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;als de hoofdteelt niet geoogst is op 1 december, minstens een van de volgende maatregelen nemen:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;tot de inzaai van de volgende teelt de teelt of de plantenresten behouden;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;winterploegen toepassen op percelen met een leem- of een kleibodem. Daarbij wordt de bodem na de oogst van de hoofdteelt tot de aanvang van het ploegen bedekt gehouden door de stoppels te behouden en de plantenresten te laten liggen.
 
 ## Onderafdeling 7. Gewasrotatie op bouwland
 
@@ -734,12 +733,26 @@ Ter uitvoering van artikel 1, lid 1, van uitvoeringsverordening (EU) 2022/1317 g
 <br>
 De landbouwers die aangesloten zijn bij een controleorgaan biologische productie en etikettering biologische producten, worden geacht te voldoen aan de norm voor gewasrotatie voor de percelen die onder controle van &nbsp;het voormelde controleorgaan staan en die niet gedeclasseerd zijn.<br>
 <br>
-Voor de volgende percelen geldt ook een vrijstelling van de verplichting, vermeld in het eerste lid:<br>
-1° percelen met teelten in volle grond onder vaste overkapping;<br>
-2° percelen met een vast irrigatiesysteem voor de teelt van knolbegonia;<br>
-3° percelen die besmet zijn met knolcyperus (Cyperus esculentus) op een klei- en leembodem waarop het niet mogelijk is om een secundaire teelt in te zaaien na de oogst van de mais door het winterploegen waarbij mais na mais geteeld wordt met het oog op de bestrijding van knolcyperus, op voorwaarde dat het perceel in de verzamelaanvraag bekend is als een perceel dat besmet is met knolcyperus. De vrijstelling voor de voormelde percelen geldt tot &nbsp;het perceel vrij is van knolcyperus.<br>
+Voor de volgende percelen geldt ook een vrijstelling van de verplichting, vermeld in het eerste lid:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;percelen met teelten in volle grond onder vaste overkapping;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;percelen met knolbegonia of met sierteelten in containers op en in volle grond;<br>
+3°&nbsp;&nbsp; &nbsp;percelen die besmet zijn met knolcyperus (Cyperus esculentus) op een zandbodem, op voorwaarde dat het perceel in de verzamelaanvraag bekend is als een perceel dat besmet is met knolcyperus. De vrijstelling voor de voormelde percelen geldt tot het perceel vrij is van knolcyperus.<br>
 <br>
-§2. De teelt van aardappelen kan niet in een rotatie die sneller is dan een op de drie jaar. Voor de teelt van gecertificeerd pootgoed geldt een rotatie van een op de vier jaar.
+In het derde lid wordt verstaan onder zandbodem: bodem die op grond van de bodemkaart gekarakteriseerd wordt met de codes P (licht zandleem), S (lemig zand) of Z (zand), zoals vermeld in het Compendium voor de monsterneming, meting en analyse in het kader van de bodembescherming, goedgekeurd bij het ministerieel besluit van 12 oktober 2017 houdende goedkeuring van het compendium voor monsterneming, meting en analyse in het kader van de bodembescherming (BOC), versie 2.1, of een combinatie van de code P, S, Z.&nbsp;<br>
+<br>
+De landbouwer die in het kader van educatieve demonstraties of in het kader van wetenschappelijke proefnemingen een gewasrotatie wil toepassen die afwijkt van de bepalingen in paragraaf 1, eerste lid, dient daarvoor een gemotiveerde aanvraag in bij de bevoegde entiteit.&nbsp;<br>
+<br>
+Een aanvraag als vermeld in het vijfde lid, bevat al de volgende gegevens:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam of de benaming van de aanvrager;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de teelt en het perceel waarvoor de aanvrager de afwijking wil verkrijgen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de tijdsduur waarvoor de afwijking wordt aangevraagd;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;een omschrijving van de geplande educatieve demonstratie of wetenschappelijke proefneming, met vermelding van de bepalingen van het eerste lid waarvan de aanvrager wil afwijken.&nbsp;<br>
+<br>
+De aanvrager dient een aanvraag als vermeld in het vijfde lid, in bij de bevoegde entiteit minimaal dertig werkdagen voor het begin van de periode waarvoor de aanvrager de afwijking wil verkrijgen. Als de voormelde aanvraag conform het zesde lid onvolledig is of onvoldoende informatie bevat, kan de bevoegde entiteit aanvullende gegevens opvragen.<br>
+<br>
+De bevoegde entiteit kan voor een aanvraag als vermeld in het vijfde lid, de toelating geven om van de bepalingen in het eerste lid af te wijken en beslist binnen twintig werkdagen nadat ze de voormelde aanvraag heeft ontvangen. Als de bevoegde entiteit bijkomende gegevens opvraagt conform het zevende lid, wordt de lopende beslissingstermijn gestuit en begint een nieuwe beslissingstermijn te lopen vanaf de dag waarop de bevoegde entiteit de bijkomende gegevens ontvangt.<br>
+<br>
+§2. De teelt van aardappelen, met uitzondering van de teelt van aardappelen onder niet-verplaatsbare serres, kan niet in een rotatie die sneller is dan een op de drie jaar. Voor de teelt van gecertificeerd pootgoed geldt een rotatie van een op de vier jaar.
 
 ### ART 61.
 
@@ -751,7 +764,8 @@ De minister bepaalt welke teelten beschouwd worden als een aparte gewasgroep om 
 
 In de volgende gevallen zijn landbouwbedrijven vrijgesteld van de &nbsp;norm voor niet-productieve elementen:<br>
 1° meer dan 75% van het bouwland dat wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of voor de teelt van vlinderbloemige gewassen, ligt braak of wordt gebruikt wordt voor een combinatie daarvan;<br>
-2° meer dan 75% van het subsidiabele landbouwareaal is blijvend grasland en wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of wordt gedurende een aanzienlijk deel van het jaar of een aanzienlijk deel van de gewascyclus beteeld met gewassen die onder water staan, of wordt gebruikt wordt voor een combinatie daarvan.
+2° meer dan 75% van het subsidiabele landbouwareaal is blijvend grasland en wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of wordt gedurende een aanzienlijk deel van het jaar of een aanzienlijk deel van de gewascyclus beteeld met gewassen die onder water staan, of wordt gebruikt wordt voor een combinatie daarvan;<br>
+3° niet meer dan 10 hectare van het areaal is bouwland, waarvan minstens 50% bouwlandareaal onder vaste overkappingen is.
 
 ### ART 63.
 
@@ -772,14 +786,18 @@ In de volgende gevallen is de norm voor niet-productieve elementen vervuld:<br>
 1° liggen in groengebieden, parkgebieden, buffergebieden, bosgebieden of in bestemmingsgebieden die vergelijkbaar zijn met die gebieden;<br>
 2° aangewezen zijn als één van de gebieden vermeld in punt 1° op de plannen van aanleg of de ruimtelijke uitvoeringsplannen die van kracht zijn in de ruimtelijke ordening.<br>
 <br>
-Wanneer op braakliggend land conform het eerste lid groenten en graangewassen geteeld worden, kunnen voor die percelen geen verbintenissen afgesloten worden voor het toepassen van een maatregel zoals beschreven in artikel 3, 6° of 7° van het besluit van 21 april 2023.
+Wanneer op braakliggend land conform het eerste lid groenten en graangewassen geteeld worden, kunnen voor die percelen geen verbintenissen afgesloten worden voor het toepassen van een maatregel zoals beschreven in artikel 3, 6° of 7° van het besluit van 21 april 2023.<br>
+<br>
+§3. Ter uitvoering van artikel 1, lid 1, van uitvoeringsverordening (EU) 2024/587 van de Commissie van 12 februari 2024 tot vaststelling van een afwijking, voor claimjaar 2024, van Verordening (EU) 2021/2115 van het Europees Parlement en de Raad wat betreft de toepassing van norm 8 voor een goede landbouw- en milieuconditie van grond (GLMC), de datums voor de subsidiabiliteit van de uitgaven voor een bijdrage uit het ELGF en de regels inzake wijzigingen van de strategische GLB-plannen met het oog op wijzigingen van bepaalde ecoregelingen, en in afwijking van artikel 63 van dit besluit is de norm voor niet-productieve elementen in 2024 ook vervuld als minstens 4% van het bouwland wordt gebruikt voor niet-productieve elementen en arealen als vermeld in paragraaf 1, of vanggewassen die worden geteeld zonder gewasbeschermingsmiddelen te gebruiken, of een combinatie hiervan.<br>
+<br>
+In afwijking van artikel 19 van het ministerieel besluit van 23 juni 2023 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid, voor wat de rechtstreekse betalingen betreft, geldt voor de vanggewassen die worden geteeld ter uitvoering van het eerste lid, een wegingsfactor van 1.
 
 ### ART 65.
 
 De minister kan:<br>
-1° de vereiste minimale of maximale afmetingen bepalen van de elementen, vermeld in artikel 64, en ook handelingen die erop verboden zijn;<br>
+1° de vereiste minimale of maximale afmetingen bepalen van de elementen en arealen, vermeld in artikel 64, en ook handelingen die erop verboden zijn;<br>
 2° specifieke regels bepalen voor de inzaai van vanggewassen, meer bepaald voor de inzaai- en aanhoudperiode;<br>
-3° de afmetingen van en de toegestane activiteiten op bufferstroken en akkerranden bepalen;<br>
+3°de toegestane activiteiten op&nbsp;braakliggend land, bufferstroken en akkerranden bepalen;<br>
 4° de omzettingsfactoren en wegingsfactoren bepalen voor het berekenen van het totale areaal aan niet-productieve elementen en arealen.
 
 ### ART 66.
@@ -917,7 +935,7 @@ De bevoegde entiteit is verantwoordelijk voor de coördinatie en voor de uitvoer
 <br>
 De controles, vermeld in het eerste lid, bestaan uit administratieve controles, uit opvolging door monitoringstechnieken, met inbegrip van het areaalmonitoringssysteem vermeld in artikel 65, lid 4, b), van verordening (EU) 2021/2116 en uit controles ter plaatse.&nbsp;<br>
 <br>
-De bevoegde entiteit controleert de subsidiabiliteitsvoorwaarden en de conditionaliteitsverplichtingen om de rechtstreekse betalingen te verkrijgen, vermeld in dit besluit en de uitvoeringsbesluiten ervan en in verordening (EU) 2021/2115 en verordening (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan, en doet de nodige vaststellingen over de nakoming van de voormelde subsidiabiliteitsvoorwaarden en de conditionaliteitsverplichtingen.<br>
+De bevoegde entiteit controleert de subsidiabiliteitsvoorwaarden en de conditionaliteitsverplichtingen om de rechtstreekse betalingen te verkrijgen, vermeld in dit besluit en de uitvoeringsbesluiten ervan en in verordening (EU) 2021/2115 en verordening (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan, en doet de nodige vaststellingen over de nakoming van de voormelde subsidiabiliteitsvoorwaarden en de conditionaliteitsverplichtingen.&nbsp;De bevoegde entiteit kan de uiteindelijke begunstigden, vermeld in artikel 4, 27° van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten, van de landbouwer controleren.<br>
 <br>
 De bevoegde entiteit kan de uitvoering van de controles overdragen aan derden.&nbsp;<br>
 <br>
