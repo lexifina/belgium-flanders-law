@@ -40,7 +40,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° andere steunaanvragers: de steunaanvragers, vermeld in artikel 5, lid 2, c), d) en e), van de gedelegeerde verordening;<br>
-2° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° /1° biologische groenten en fruit en melk:<br>
 a) groenten en fruit en melk die beschouwd kunnen worden als biologische producten als vermeld in artikel 3, punt 2, van de verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
 b) groenten en fruit die beschouwd kunnen worden als omschakelingsproducten als vermeld in artikel 3, punt 7, van de voormelde verordening;<br>
