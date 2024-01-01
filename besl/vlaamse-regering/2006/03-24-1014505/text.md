@@ -10,9 +10,7 @@
 3° het verstrekken van technisch ondersteunende diensten ten behoeve van het beleidsdomein. Het departement Mobiliteit en Openbare Werken is gemachtigd om technisch ondersteunende diensten te verlenen aan andere beleidsdomeinen en derden. De samenwerking tussen het departement Mobiliteit en Openbare Werken als aanbieder van technisch ondersteunende diensten en het agentschap als aanvrager ervan, wordt vastgelegd in samenwerkingsakkoorden tussen het departement en de agentschappen. De technische ondersteuning houdt geen overdracht in van bevoegdheid, noch verantwoordelijkheid van de aanvrager naar de aanbieder van deze diensten;<br>
 4° het beheer en de exploitatie van de maritieme toegangswegen tot de Vlaamse zeehavens;<br>
 5° de supervisie over de uitrusting en de uitbating van de Vlaamse regionale luchthavens;<br>
-6° het beheer van het Vlaams Infrastructuurfonds.<br>
-<br>
-De leidend ambtenaar van het departement Mobiliteit en Openbare Werken treedt op als ordonnateur van het Vlaams Infrastructuurfonds.<br>
+6° ....<br>
 <br>
 § 2. Het departement Mobiliteit en Openbare Werken is overeenkomstig artikel III.2 van het bestuursdecreet van 7 december 2018 ook belast met de taken van beleidsuitvoering die niet werden toevertrouwd aan een agentschap van het desbetreffende beleidsdomein.
 
