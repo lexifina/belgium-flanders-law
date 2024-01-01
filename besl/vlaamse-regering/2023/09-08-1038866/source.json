@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038866,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot regeling van de leerjobs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038866/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "3ac650dc9e88115567a0aceef8da98c2f361f37e365fe651fa420b025ff24a17",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038866&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-09-08",
+  "gazette": "2023-10-25",
+  "numac": 2023046169,
+  "document_start": "2024-01-01",
+  "document_end": "2027-04-30",
+  "in_force": "2024-01-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
