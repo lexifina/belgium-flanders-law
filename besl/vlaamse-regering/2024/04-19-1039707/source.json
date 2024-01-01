@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039707,
+  "title": "Besluit van de Vlaamse Regering van 2024-04-19 tot wijziging van het besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid en de VLAREME van 28 oktober 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039707/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "d70f847b5292bd521dd51bdd8d3fb417b89ab8d6d7fd227fab59166e31546d9f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039707&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-04-19",
+  "gazette": "2024-07-15",
+  "numac": 2024006515,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
