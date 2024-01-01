@@ -9,15 +9,18 @@
 ### ART. 1.
 
 <p>In dit besluit wordt verstaan onder :<br>
-1° buitenschoolse opvang : de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan;<br>
+1° agentschap: het agentschap, vermeld in artikel 2 van het decreet van 20 april 2012;<br>
+1/1° buitenschoolse opvang : de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan;<br>
 2° contracthouder : de persoon uit het gezin waarmee de organisator een schriftelijke overeenkomst voor kinderopvang heeft;<br>
+2/1° crisis: een situatie waarbij de fysieke of psychische integriteit van een kind tijdens de kinderopvang in gevaar of geschonden is;<br>
 3° decreet van 20 april 2012 : het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 4° gezin : de persoon of de personen in het thuismilieu van het opgevangen kind die verantwoordelijkheid voor dat kind dragen;<br>
+4/1° grensoverschrijdend gedrag: een situatie waarin een kind het slachtoffer is of dreigt te worden van onterende handelingen, bedreigingen of geweld door een persoon die aanwezig is in de kinderopvang;<br>
 5° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 6° 's nachts : tussen 20 uur en 6 uur;<br>
 7° vergunning : een vergunning voor gezinsopvang of een vergunning voor groepsopvang als vermeld in artikel 4, eerste lid, 1° en 2°, van het decreet van 20 april 2012;<br>
 8° wennen : het geleidelijk aan laten verlopen van de overgang van het thuismilieu van het kind naar de kinderopvanglocatie waarbij er extra aandacht is voor de wisselwerking tussen de kinderen, de gezinnen en de kinderbegeleiders en voor de uitwisseling met de gezinnen;<br>
-9° agentschap: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.</p>
+9° ...</p>
 
 <p>De naleving van de startvoorwaarden, vermeld in dit besluit, heeft betrekking op het toekennen van een vergunning door het agentschap, en de naleving van de werkingsvoorwaarden, vermeld in dit besluit, heeft betrekking op het behouden van een vergunning.</p>
 
@@ -50,7 +53,7 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 
 ### ART. 5.
 
-<P>De organisator heeft de integriteit en geschiktheid om op een rechtmatige   manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle   kinderopvang te organiseren. Dat blijkt onder meer uit het document, vermeld in   artikel 49, § 2.</P>
+<p>De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle kinderopvang te organiseren. Dat blijkt onder meer uit het document, vermeld in artikel 49, § 2.</p>
 
 ### ART. 6.
 
@@ -78,7 +81,7 @@ De organisator van gezinsopvang heeft een kinderbegeleider als vermeld in   arti
 
 ### ART. 11.
 
-De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider een traject gezinsopvang met succes heeft doorlopen.<br>
+De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider een traject gezinsopvang heeft doorlopen.<br>
 <br>
 Een traject gezinsopvang als vermeld in het eerste lid, focust op inzicht in de specifieke context van gezinsopvang.<br>
 <br>
@@ -103,6 +106,29 @@ Het voldoen aan de startvoorwaarde, vermeld in het eerste lid, 1°, blijkt uit e
 ## HOOFDSTUK 3 Werkingsvoorwaarden
 
 ## [Afdeling 1 Beleidsvoerend vermogen (ing. BVR 17 maart 2023, art. 5, I: 1 januari 2024)]
+
+### ART 13/0.
+
+De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met de geldende normen en waarden, kwaliteitsvolle en duurzame kinderopvang te organiseren.&nbsp;<br>
+<br>
+De naleving van de voorwaarde, vermeld in het eerste lid, blijkt uit de manier waarop de volgende aspecten in de vergunde werking aanwezig zijn:<br>
+1°&nbsp;&nbsp; &nbsp;duidelijk leiderschap, met een gestructureerde werkomgeving, waar de bevoegdheden en verantwoordelijkheden duidelijk worden toebedeeld en waarbij de organisator ervoor zorgt dat alle medewerkers minstens de geïntegreerde aanpak, vermeld in punt 2°, kennen en toepassen;<br>
+2°&nbsp;&nbsp; &nbsp;een geïntegreerde aanpak van al de volgende thema’s:<br>
+a)&nbsp;&nbsp; &nbsp;infrastructuur als vermeld in artikel 13/1 tot en met artikel 21;<br>
+b)&nbsp;&nbsp; &nbsp;veiligheid en gezondheid als vermeld in artikel 22 tot en met artikel 29;<br>
+c)&nbsp;&nbsp; &nbsp;omgang met de kinderen en de gezinnen als vermeld in artikel 30 tot en met artikel 38;<br>
+d)&nbsp;&nbsp; &nbsp;personen die in de kinderopvanglocatie werken als vermeld in artikel 39 tot en met artikel 45;<br>
+e)&nbsp;&nbsp; &nbsp;organisatorisch management als vermeld in artikel 46 tot en met artikel 58;<br>
+f)&nbsp;&nbsp; &nbsp;samenwerking als vermeld in artikel 59 tot en met artikel 62;<br>
+3°&nbsp;&nbsp; &nbsp;een reflectieve, proactieve en reactieve houding met het oog op een voortdurende verbetering van de eigen werking, rekening houdend met de feedback en input van gezinnen, medewerkers en relevante expertise van externe organisaties;<br>
+4°&nbsp;&nbsp; &nbsp;een innovatieve houding, waarbij er oog is voor vernieuwing, rekening houdend met ontwikkelingen in de omgeving, de samenleving en de regelgeving;<br>
+5°&nbsp;&nbsp; &nbsp;doeltreffende communicatie en transparantie, waarbij erop gelet wordt dat de nodige en correcte informatie tijdig en duidelijk bij de juiste mensen terechtkomt, waaronder de personen die werken in de kinderopvanglocatie en de gezinnen van de opgevangen kinderen;<br>
+6°&nbsp;&nbsp; &nbsp;samenwerking en transparante communicatie met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners.<br>
+<br>
+De organisator zorgt voor ondersteuning voor zichzelf en voor zijn medewerkers voor alle voorwaarden, vermeld in het eerste en tweede lid.<br>
+<br>
+De organisator kan de naleving van alle voorwaarden, vermeld in het eerste, tweede en derde lid, aantonen op basis van onder meer documentatie.<br>
+&nbsp;
 
 ## [Afdeling 1/1 (verv. BVR 17 maart 2023, art. 5, I: 1 januari 2024)] Infrastructuur
 
@@ -166,7 +192,24 @@ De organisator van gezinsopvang zorgt voor de mogelijkheid tot veilige   evacuat
 
 ### ART. 24.
 
-<P>§ 1. De organisator zorgt voor een veilige en gezonde omgeving. Daarvoor   maakt de organisator een risicoanalyse, met inbegrip van een plan van aanpak met   tijdspad om de risico's te beheersen.<BR></P>  <P>De risicoanalyse wordt uitgevoerd binnen een cyclus van maximaal twee jaar en   gaat minimaal over :<BR>1° de veiligheid en het voorkomen van verwondingen,   ongevallen, levensbedreigende situaties en het verdwijnen van kinderen;<BR>2° de   gezondheid en het voorkomen van ziekte, besmetting en verontreiniging.<BR></P>  <P>§ 2. Een kind dat jonger is dan één jaar, wordt op de rug te slapen gelegd.   De organisator kan een uitzondering daarop toestaan op basis van een attest van   een arts vanwege medische tegenindicatie of op basis van een attest van de   contracthouder volgens het model dat door de minister wordt vastgesteld. Een   kind dat jonger is dan één jaar, krijgt in bed geen kussens of   dekbed.<BR></P>
+<p>De organisator zorgt voor een omgeving die gezond is en zo veilig als nodig. Om deze omgeving te realiseren maakt de organisator een risicoanalyse.&nbsp;<br>
+<br>
+De risicoanalyse, vermeld in het eerste lid, gaat over al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de voorkoming van verwondingen, ongevallen, crisissen, levensbedreigende situaties en het verdwijnen van kinderen;<br>
+2°&nbsp;&nbsp; &nbsp;de voorkoming van ziekte, besmetting en verontreiniging.<br>
+<br>
+In de risicoanalyse, vermeld in het eerste lid, houdt de organisator rekening met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een permanente begeleiding van de kinderen en een actief, auditief en visueel toezicht, ook tijdens de slaapsituatie;<br>
+2°&nbsp;&nbsp; &nbsp;de draagkracht bij de medewerkers;<br>
+3°&nbsp;&nbsp; &nbsp;het kwaliteitsvol en integer handelen van medewerkers.</p>
+
+### ART 24/1.
+
+Een kind dat jonger dan één jaar is, wordt op de rug te slapen gelegd, zowel binnen als buiten.&nbsp;<br>
+<br>
+De organisator kan een uitzondering toestaan op de verplichting, vermeld in het eerste lid, op basis van een attest van een arts van medische tegenindicatie of op basis van een attest van de contracthouder volgens het model dat door de minister wordt vastgesteld.&nbsp;<br>
+<br>
+Een kind dat jonger dan één jaar is, krijgt geen kussens of dekbed tijdens het slapen, zowel binnen als buiten.
 
 ## Onderafdeling 3 Voeding
 
@@ -184,19 +227,13 @@ De organisator van gezinsopvang zorgt voor de mogelijkheid tot veilige   evacuat
 
 ### ART. 27.
 
-<p>De organisator heeft een crisisprocedure en meldt elke crisis zo snel mogelijk aan het agentschap.</p>
-
-<p>In het eerste lid wordt verstaan onder crisis : een acute noodsituatie waarbij de fysieke of psychische integriteit van een kind tijdens de kinderopvang in gevaar is en waarbij acuut hulp vereist is.</p>
-
-<p>De crisisprocedure legt de opeenvolgende stappen en de manier van communiceren vast die gevolgd moeten worden in geval van crisis. Er is daarbij minstens één persoon aangewezen op wie een beroep kan worden gedaan.</p>
+<p>De organisator zorgt ervoor dat elke medewerker de aanpak kent in verband met het correct en accuraat handelen in geval van crisis, grensoverschrijdend gedrag en verontrusting en in staat is om deze aanpak toe te passen.<br>
+<br>
+In het eerste lid wordt verstaan onder verontrusting: een bezorgdheid, ook buiten de kinderopvang, over de fysieke of psychische integriteit van een kind.</p>
 
 ### ART. 28.
 
-<p>De organisator heeft een procedure grensoverschrijdend gedrag en meldt elke situatie van grensoverschrijdend gedrag zo snel mogelijk aan het agentschap.</p>
-
-<p>In het eerste lid wordt verstaan onder grensoverschrijdend gedrag : een situatie waarin een kind in relatie tot een persoon die aanwezig is tijdens de kinderopvang, slachtoffer is of dreigt te worden van bedreigingen of geweld.</p>
-
-<p>De procedure grensoverschrijdend gedrag legt vast hoe grensoverschrijdend gedrag gedetecteerd wordt, hoe er gepast op gereageerd kan worden en hoe aan preventie kan worden gedaan.</p>
+<p>...</p>
 
 ## Onderafdeling 6 Verzekering
 
@@ -216,40 +253,49 @@ De organisator heeft een verzekering voor : <BR>1° de burgerlijke   aansprakeli
 
 ### ART. 31.
 
-<P>§ 1. De organisator realiseert een pedagogisch beleid met het oog op :<BR>1°   het stimuleren van de ontwikkeling van de kinderen op lichamelijk, cognitief,   sociaal-emotioneel, communicatief, creatief en moreel vlak;<BR>2° het bevorderen   van het welbevinden en de betrokkenheid van de kinderen.<BR></P>  <P>In het eerste lid wordt verstaan onder welbevinden : kunnen genieten,   spontaan en zichzelf kunnen zijn, ontspannen zijn, zich open opstellen,   levenslust uitstralen, zelfvertrouwen hebben, weerbaar en assertief zijn en in   contact zijn met zijn gevoelens.<BR></P>  <P>In het eerste lid wordt verstaan onder betrokkenheid : geconcentreerd en   tijdvergeten bezig zijn, gemotiveerd bezig zijn, een open houding hebben voor   wat de omgeving te bieden heeft, intens mentaal actief zijn, exploratiedrang   hebben en zich bewegen aan de grens van de eigen mogelijkheden.<BR></P>  <P>De organisator houdt bij de realisatie van het pedagogisch beleid, vermeld in   het eerste lid, rekening met het aantal, het ontwikkelingsniveau, het ritme, de   interesses, de behoeften en de eigenheid van de kinderen.<BR></P>  <P>§ 2. Het pedagogisch beleid, vermeld in paragraaf 1, bevat minstens de   volgende aspecten :<BR>1° het wennen;<BR>2° een gevarieerd aanbod aan   spelmateriaal, bewegings- en andere activiteiten, zowel voor binnen als voor   buiten; <BR>3° regelmaat in de dagindeling;<BR>4° een methode om het welbevinden   en de betrokkenheid van de kinderen na te gaan;<BR>5° een taalbeleid dat de   Nederlandse taalverwerving van elk kind stimuleert, met daarnaast positieve   aandacht voor de taal die het kind in zijn thuismilieu spreekt;<BR>6° het   bevorderen van een onderling respectvolle houding;<BR>7° de continuïteit in de   begeleiding van de kinderen, zodat een relatie opgebouwd kan worden tussen de   kinderen en de kinderbegeleiders;<BR>8° een actief, auditief en visueel   toezicht, ook tijdens de slaapsituatie, en een permanente begeleiding van de   kinderen. <BR></P>  <P>§ 3. De organisator zorgt ervoor dat de pedagogische kwaliteit voldoet aan   een norm die met betrekking tot het welbevinden en de betrokkenheid van het   kind, de aanpak van het kind, het pedagogisch handelen en de pedagogische   condities, een kader oplegt. De minister stelt de nadere regels   vast.<BR></P>
+<p>§1. De organisator realiseert een pedagogisch beleid dat minstens betrekking heeft op al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de systematische screening en bevordering van het welbevinden van elk kind;<br>
+2°&nbsp;&nbsp; &nbsp;de systematische screening en bevordering van de betrokkenheid van elk kind;<br>
+3°&nbsp;&nbsp; &nbsp;de emotionele ondersteuning van elk kind door de kinderbegeleider;<br>
+4°&nbsp;&nbsp; &nbsp;de educatieve ondersteuning van elk kind door de kinderbegeleider;<br>
+5°&nbsp;&nbsp; &nbsp;de omgeving;<br>
+6°&nbsp;&nbsp; &nbsp;gezinnen en diversiteit.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;welbevinden: kunnen genieten, spontaan en zichzelf kunnen zijn, ontspannen zijn, zich openstellen, levenslust uitstralen, zelfvertrouwen hebben, weerbaar en assertief zijn en in contact zijn met zijn gevoelens;<br>
+2°&nbsp;&nbsp; &nbsp;betrokkenheid: geconcentreerd en tijdvergeten bezig zijn, gemotiveerd bezig zijn, een open houding hebben voor wat de omgeving te bieden heeft, intens mentaal actief zijn, exploratiedrang hebben en zich bewegen aan de grens van de eigen mogelijkheden;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;emotionele ondersteuning: warm, respectvol en enthousiast omgaan met de kinderen met aandacht voor hun emotionele behoeften;<br>
+4°&nbsp;&nbsp; &nbsp;educatieve ondersteuning: het leren en de ontwikkeling van de kinderen stimuleren met aandacht voor de ideeën, de initiatieven en het standpunt van de kinderen zelf en met het gebruik van een rijke en gevarieerde taal;<br>
+5°&nbsp;&nbsp; &nbsp;omgeving: een toegankelijke en stimulerende indeling van de opvangruimtes voor de kinderen met een gevarieerd aanbod aan materialen en activiteiten en een doeltreffende organisatie van tijd en personeel voor de kinderen;<br>
+6°&nbsp;&nbsp; &nbsp;gezinnen en diversiteit: het samenwerken en communiceren met gezinnen, inspraak geven aan en ondersteunen van gezinnen met respect voor de eigenheid van elk gezin.<br>
+<br>
+In het pedagogische beleid realiseert de organisator:<br>
+1°&nbsp;&nbsp; &nbsp;regelmaat in de dagindeling;<br>
+2°&nbsp;&nbsp; &nbsp;continuïteit in de begeleiding;<br>
+3°&nbsp;&nbsp; &nbsp;het wennen;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;het buitenspel;<br>
+5°&nbsp;&nbsp; &nbsp;een taalbeleid dat de Nederlandse taalverwerving van elk kind stimuleert, met daarnaast positieve aandacht voor de taal die het kind in zijn thuismilieu spreekt;<br>
+6°&nbsp;&nbsp; &nbsp;het bevorderen van een onderlinge respectvolle houding.<br>
+<br>
+§2. Aansluitend bij de realisatie van het pedagogische beleid, vermeld in paragraaf 1, voldoet de organisator aan een pedagogische norm die betrekking heeft op dimensies die overeenkomen met de elementen, vermeld in paragraaf 1, eerste lid. De minister stelt de nadere regels vast.<br>
+&nbsp;</p>
 
 ### ART. 32.
 
-De organisator zorgt voor pedagogische ondersteuning bij het pedagogisch beleid, vermeld in artikel 31, en toont de volgende elementen aan :<br>
-1° de keuze om die ondersteuning intern dan wel extern te organiseren;<br>
-2° de manier waarop die ondersteuning de organisator versterkt binnen een competent systeem, is afgestemd op de noden van de kinderopvanglocatie en deel uitmaakt van een geïntegreerde ondersteuning op een of meer van de volgende onderling samenhangende thema's :<br>
-a) infrastructuur;<br>
-b) veiligheid en gezondheid;<br>
-c) omgang met kinderen en gezinnen;<br>
-d) medewerkers;<br>
-e) organisatorisch management;<br>
-f) samenwerking met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners;<br>
-g) opnamebeleid, met bijzondere aandacht voor kwetsbare gezinnen;<br>
-h) inclusieve opvang van kinderen met een specifieke zorgbehoefte;<br>
-i) flexibele opvang.<br>
-<br>
-Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, c), wordt rekening gehouden met het pedagogische raamwerk, ontwikkeld in september 2014 door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van het agentschap.<br>
-<br>
-Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, d), wordt rekening gehouden met het opvolgen van de draagkracht van medewerkers.<br>
-<br>
-Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, e), wordt rekening gehouden met het ondernemen in de kinderopvang en de financiële werking.<br>
-<br>
-De organisator kan aantonen dat hij voldoet aan de voorwaarde, vermeld in het eerste lid, door middel van de zelfevaluatie, vermeld in artikel 51, eerste lid, of het kwaliteitshandboek, vermeld in artikel 57.
+...
 
 ## Onderafdeling 3 Betrokkenheid en participatie van de gezinnen
 
 ### ART. 33.
 
-De organisator zorgt voor betrokkenheid en participatie van de gezinnen door :<br>
-1° minstens de werking en tevredenheid te laten evalueren door elk gezin in de periode dat hun kind opgevangen wordt;<br>
-2° regelmatig overleg te plegen en te communiceren met het gezin, minimaal over de pedagogische aanpak en omgang met het kind en als er problemen zijn met het kind;<br>
-3° de vergunningsbeslissing, en op verzoek van het agentschap, de eventuele schriftelijke aanmaningen, en een beslissing tot schorsing of opheffing van de vergunning, kenbaar te maken aan het gezin aansluitend op de ontvangst ervan;<br>
-4° het gezin toegang te geven tot alle ruimtes waar het kind wordt opgevangen.
+De organisator zorgt voor betrokkenheid en participatie van de gezinnen door:<br>
+1°&nbsp;&nbsp; &nbsp;met de gezinnen individueel en collectief in dialoog te gaan over al de volgende aspecten:<br>
+a)&nbsp;&nbsp; &nbsp;de opvang van hun kind, waaronder de pedagogische aanpak, de omgang met het kind en als er problemen zijn;<br>
+b)&nbsp;&nbsp; &nbsp;de werking, waaronder de opvolging van een eventuele crisis of de opvolging van eventuele klachten, en de evaluatie van de werking door de gezinnen;<br>
+2°&nbsp;&nbsp; &nbsp;transparant te zijn over al de volgende aspecten:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de inspectierapporten van Zorginspectie;<br>
+b)&nbsp;&nbsp; &nbsp;de aanmaningen en elke bestuurlijke maatregel van het agentschap ten aanzien van de organisator;<br>
+c)&nbsp;&nbsp; &nbsp;de aanpak waarin de organisator voorziet en die de organisator hanteert naar aanleiding van de inspecties, aanmaningen en bestuurlijke maatregelen, vermeld in punt a) en b).
 
 ## Onderafdeling 4 Huishoudelijk reglement en schriftelijke overeenkomst
 
@@ -277,14 +323,14 @@ i) de afwezigheid van een kind;<br>
 3° het recht van het gezin :<br>
 a) op wennen;<br>
 b) op toegang tot alle ruimtes waar het kind wordt opgevangen;<br>
-c) om klachten te uiten, bij voorkeur eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 58, en bij het agentschap via de Klachtendienst van het agentschap. Het adres, e-mailadres en het telefoonnummer van de Klachtendienst van het agentschap worden daarbij vermeld;<br>
+c) om klachten te uiten, eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 58, en pas nadien via het agentschap, met uitzondering van klachten over een crisis, die direct tot het agentschap gericht kunnen worden. Het adres, e-mailadres en het telefoonnummer van het agentschap worden daarbij vermeld;<br>
 d) op respect voor de privacy en de bescherming van natuurlijke personen bij de verwerking van hun gegevens, meer bepaald met betrekking tot de verwerking van persoonsgegevens als vermeld in verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). Daarbij zijn de volgende bepalingen opgenomen :<br>
 1) een bepaling over kennisgeving, meer bepaald dat de persoonsgegevens van de kinderen en de gezinnen alleen gebruikt worden in het kader van kinderopvang, en dat die gegevens op elk moment kunnen worden ingekeken en verbeterd door de betrokkenen, en dat die gegevens worden vernietigd wanneer deze niet meer noodzakelijk zijn in functie van de naleving van toepasselijke regelgeving;<br>
 2) een vertrouwelijkheidsverklaring, meer bepaald dat de organisator zich ertoe verbindt om de veiligheid en het vertrouwelijke karakter van de persoonsgegevens te waarborgen;<br>
-4° de verwijzing naar :<br>
-a) de verzekeringen, vermeld in artikel 29, met de naam en het adres van de verzekeringsmaatschappij en het polisnummer;<br>
-b) de inlichtingenfiche, vermeld in artikel 37, en het aanwezigheidsregister, vermeld in artikel 38;<br>
-c) indien van toepassing, het kwaliteitshandboek, vermeld in artikel 57, en de manier waarop dat kan worden geraadpleegd;<br>
+4° de verwijzing naar:&nbsp;<br>
+a) de vergunning en de bijbehorende beslissing, en de duidelijke bekendmaking ervan;<br>
+b) de link naar de website van het agentschap over de status van handhaving;&nbsp;<br>
+c) de verzekeringen, vermeld in artikel 29, met de naam en het adres van de verzekeringsmaatschappij en het polisnummer;<br>
 5° de modaliteiten bij wijziging van het huishoudelijk reglement als vermeld in het tweede lid.</p>
 
 ### ART. 35.
@@ -362,7 +408,7 @@ c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, 
 4° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;<br>
 5° een kwalificatiebewijs dat door de minister wordt vastgesteld.<br>
 <br>
-Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere kinderopvanglocatie van de organisator. Het document, vermeld in het eerste lid, 4°, wordt om de drie jaar hernieuwd.<br>
+Het document, vermeld in het eerste lid, 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere kinderopvanglocatie van de organisator. Het document, vermeld in het eerste lid, 1° en 4°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de kennis over de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
@@ -372,7 +418,7 @@ De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het
 
 ### ART. 41.
 
-De organisator zorgt voor een jaarlijkse analyse van de vormingsbehoeften   van de verantwoordelijke en voorziet in een aanbod aan vorming dat tegemoetkomt   aan de behoeften. <BR>
+...
 
 ## Onderafdeling 2 De kinderbegeleider
 
@@ -408,7 +454,7 @@ b) een bewijs van actieve deelname aan een kwalificerend traject dat de minister
 1)&nbsp;&nbsp; &nbsp;per kinderbegeleider in een kwalificerend traject werken er drie voltijdsequivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;&nbsp;<br>
 2)&nbsp;&nbsp; &nbsp;er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie.<br>
 <br>
-Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.<br>
+Het document, vermeld in het eerste lid,&nbsp; 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 1° en 3°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
@@ -420,20 +466,20 @@ De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het
 
 ### ART. 44.
 
-De organisator zorgt voor een jaarlijkse analyse van de vormingsbehoeften   voor de kinderbegeleiders en voorziet in een aanbod aan vorming dat tegemoetkomt   aan de behoeften. <BR>
+...
 
 ## Onderafdeling 3 Andere personen met regelmatig direct contact
 
 ### ART. 45.
 
-<p>De organisator heeft de volgende documenten over de andere personen die in de kinderopvanglocatie direct contact hebben met de opgevangen kinderen :<br>
+<p>De organisator heeft de volgende documenten over de andere personen die in de kinderopvanglocatie regelmatig direct contact hebben met de opgevangen kinderen :<br>
 1° een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012;<br>
 2° een attest van medische geschiktheid overeenkomstig artikel 6, § 4, tweede lid, van het decreet van 20 april 2012. Uit dat attest blijkt dat de meerderjarige persoon met regelmatig direct contact en de minderjarige persoon die werkt in de kinderopvang of er stage loopt, geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen, meer bepaald :<br>
 a) een attest A van medische geschiktheid, opgemaakt door de betrokken persoon, volgens het model dat door de minister wordt vastgesteld;<br>
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
 c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, vermeld in punt a) en b), vervangen.<br>
 <br>
-Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de persoon stage loopt, moet het document dateren uit het lopende schooljaar.<br>
+Het document, vermeld in het eerste lid, 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de persoon stage loopt, moet het document dateren uit het lopende schooljaar.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document<br>
 te vernieuwen.<br>
@@ -446,11 +492,17 @@ De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het
 
 ### ART. 46.
 
-<P>De organisator met meer dan achttien vergunde kinderopvangplaatsen zorgt voor   een organisatorische structuur waarbij de bevoegdheden en verantwoordelijkheden   worden toebedeeld voor de voorwaarden, vermeld in dit besluit.<BR></P>  <P>De organisatorische structuur wordt duidelijk gecommuniceerd aan alle   personen werkzaam in de kinderopvanglocatie en aan de gezinnen van de opgevangen   kinderen. <BR></P>
+<p>De organisator zorgt voor een actualisatie van de kennis die aan bod komt in het starterstraject, vermeld in artikel 8.</p>
 
 ### ART. 47.
 
-De organisator zorgt voor een planning en registratie van de aanwezigheid   van de kinderbegeleiders, minimaal voor de toepassing van artikel   42.<BR>
+De organisator realiseert een medewerkersbeleid en zorgt voor goede werkomstandigheden.<br>
+<br>
+De organisator screent de competenties van zijn medewerkers en analyseert hun vormings- en ondersteuningsbehoeften.<br>
+<br>
+De organisator heeft een specifiek beleid rond kinderbegeleiders in een kwalificerend traject als vermeld in artikel 43, §2, eerste lid, 4°, b).<br>
+<br>
+Voor de aanwezigheid van de kinderbegeleiders zorgt de organisator voor een planning en een registratie, minimaal voor de toepassing van het nodige aantal kinderbegeleiders, vermeld in artikel 42. De voormelde registratie is voor de afgelopen twaalf maanden ter beschikking in de kinderopvanglocatie.
 
 ### ART. 48.
 
@@ -460,13 +512,11 @@ De organisator zorgt voor een planning en registratie van de aanwezigheid   van 
 
 ### ART. 49.
 
-<p>§ 1. De organisator, hetzij de natuurlijke persoon, hetzij een of meer personen die handelingsbekwaam zijn om de rechtspersoon te vertegenwoordigen, is minstens 21 jaar oud. De organisator heeft de integriteit en geschiktheid om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle kinderopvang te organiseren.<br>
+<p>§ 1. De organisator, hetzij de natuurlijke persoon, hetzij een of meer personen die handelingsbekwaam zijn om de rechtspersoon te vertegenwoordigen, is minstens 21 jaar oud.&nbsp;<br>
 <br>
 § 2. De organisator heeft het volgende uittreksel :<br>
 1° voor de organisator die een natuurlijke persoon is, met inbegrip van de persoon of personen, vermeld in artikel 53, 2° : een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012, waaronder voor de organisator ook verstaan wordt dat hij in staat is om een kinderopvanglocatie organisatorisch te beheren;<br>
 2° voor de organisator die een rechtspersoon is : een uittreksel uit het centraal strafregister op naam van de rechtspersoon, of een gelijkwaardig attest, uitgereikt door een bevoegde buitenlandse instantie, voor wie niet in België gedomicilieerd is, waaruit blijkt dat de organisator van onberispelijk gedrag is om met kinderen om te gaan, waaronder voor de organisator ook verstaan wordt dat hij in staat is om een kinderopvanglocatie organisatorisch te beheren.<br>
-<br>
-Het uittreksel, vermeld in het eerste lid, is bij de aanvraag van de vergunning maximaal drie maanden oud, tenzij de organisator al een vergunning heeft.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip dat uittreksel te vernieuwen.<br>
 <br>
@@ -474,11 +524,11 @@ De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het
 
 ### ART. 50.
 
-De organisator met meer dan achttien vergunde kinderopvangplaatsen zorgt,   binnen een cyclus van vijf jaar, voor een evaluatie door de personen die in de   kinderopvanglocatie werken. <BR>
+...
 
 ### ART. 51.
 
-<P>De organisator zorgt, binnen een cyclus van vijf jaar, voor een zelfevaluatie   van de werking en de evaluatie van de klachtenbehandeling, vermeld in artikel   58. Hij past de werking indien nodig aan. <BR></P>  <P>De organisator met meer dan achttien vergunde kinderopvangplaatsen evalueert   hiervoor minstens het kwaliteitsbeleid, vermeld in artikel 57, 1°, en het   kwaliteitsmanagementsysteem, vermeld in artikel 57, 2°. Indien nodig past hij   naast de werking ook het kwaliteitshandboek, vermeld in artikel 57,   aan.<BR></P>
+<p>...</p>
 
 ### ART. 52.
 
@@ -486,24 +536,13 @@ De organisator heeft een ondernemingsnummer. Als de organisator   georganiseerd 
 
 ### ART. 53.
 
-De organisator zorgt voor bestuurlijke weerbaarheid en transparantie.<br>
-<br>
-De organisator die georganiseerd is als feitelijke vereniging of maatschap, heeft in het kader van de verplichting, vermeld in het eerste lid, de opdracht om een samenwerkingsovereenkomst te sluiten.<br>
-<br>
-De organisator met meer dan achttien vergunde kinderopvangplaatsen heeft in het kader van de verplichting, vermeld in het eerste lid, minstens de volgende opdrachten:<br>
-1° de kennis, vermeld in artikel 8, actueel houden en in de praktijk brengen;<br>
-2° problemen of ontwikkelingen die een impact kunnen hebben op de continuïteit van de kinderopvang voor de gezinnen aan het agentschap melden.<br>
-<br>
-De organisator met meer dan vijfhonderd vergunde kinderopvangplaatsen heeft, naast de opdrachten, vermeld in het tweede en het derde lid, ook de volgende opdrachten:<br>
-1° zorgen voor voldoende controlemechanismes tussen de raad van bestuur, de algemene vergadering en de directie waardoor elkaars werking en beslissingen op onafhankelijke en kritische wijze beoordeeld kunnen worden;<br>
-2° zorgen voor een evenwichtige samenstelling van die organen waarbij de leden complementair zijn ten opzichte van elkaar wat competentie en expertise betreft;<br>
-3° belangrijke strategische beslissingen over de structuur, de werking en het bestuur van de organisator aan het agentschap te melden.<br>
-<br>
-De verplichtingen, vermeld in het vierde lid, 1° en 2°, zijn niet van toepassing op lokale besturen.
+De organisator met meer dan vijfhonderd vergunde kinderopvangplaatsen zorgt voor:<br>
+1°&nbsp;&nbsp; &nbsp;voldoende controlemechanismen tussen de raad van bestuur, de algemene vergadering en de directie waardoor ze elkaars werking en beslissingen op onafhankelijke en kritische wijze kunnen beoordelen;<br>
+2°&nbsp;&nbsp; &nbsp;een evenwichtige samenstelling van die organen, waarbij de leden complementair zijn ten opzichte van elkaar wat competentie en expertise betreft.
 
 ### ART. 54.
 
-De organisator volgt de financiële werking van de   kinderopvanglocatie.<BR>
+De organisator voert een financieel beleid dat erop gericht is continuïteit en kwaliteit in de organisatie van de kinderopvang te realiseren.
 
 ## Onderafdeling 3 Leefgroepindeling en gebruik ruimtes
 
@@ -515,15 +554,27 @@ De organisator volgt de financiële werking van de   kinderopvanglocatie.<BR>
 
 De organisator zorgt ervoor dat hij de nettovloeroppervlakte per   kinderopvangplaats, vermeld in artikel 16, ook effectief gebruikt voor alle   aanwezige kinderen.<BR>
 
-## Onderafdeling 4 Kwaliteitsbeleid en klachtenbehandeling
+## Onderafdeling 4 Klachtenbehandeling
 
 ### ART. 57.
 
-<P>Een organisator met meer dan achttien vergunde kinderopvangplaatsen heeft een   kwaliteitshandboek als vermeld in artikel 5 van het decreet van 17 oktober 2003   betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. Het   kwaliteitshandboek van de organisator bevat :<BR>1° het kwaliteitsbeleid, dat   minstens de missie, visie, doelstellingen en strategie van de organisator bevat   over het pedagogisch beleid, vermeld in artikel 31, en over de betrokkenheid en   participatie van de gezinnen, vermeld in artikel 33;<BR>2° het   kwaliteitsmanagementsysteem, dat minstens de organisatorische structuur, de   bevoegdheden en de verantwoordelijkheden, vermeld in artikel 46, bevat, alsook   de procedures voor en de processen over :<BR>a) de crisis en het   grensoverschrijdend gedrag, vermeld in artikel 27 en 28;<BR>b) het pedagogisch   beleid, vermeld in artikel 31;<BR>c) de betrokkenheid en participatie van   gezinnen, vermeld in artikel 33, 1° en 2° ;<BR>d) de vormingsanalyse en het   vormingsaanbod, vermeld in artikel 41 en 44;<BR>e) de evaluatie en de   zelfevaluatie, vermeld in artikel 50 en 51;<BR>3° de resultaten van de evaluatie   en zelfevaluatie, vermeld in artikel 51, en de realisatie van de norm voor de   pedagogische kwaliteit, vermeld in artikel 31, § 3. <BR></P>  <P>De voorwaarde, vermeld in het eerste lid, 2°, b), c), d) en e), en 3°, geldt   uiterlijk twee jaar na de toekenning van de vergunning.<BR></P>
+<p>...</p>
 
 ### ART. 58.
 
-De organisator heeft een procedure voor klachtenbehandeling waarin   minstens een ontvangstmelding, een onderzoek en een schriftelijke mededeling van   het resultaat aan de klager is opgenomen, alsook binnen welke termijnen dat   gebeurt. Daarnaast registreert de organisator de klachten waarbij minstens de   volgende gegevens worden opgenomen :<BR>1° een omschrijving of samenvatting van   de klacht;<BR>2° het resultaat van de klachtenbehandeling in termen van gegrond,   ongegrond of onduidelijk.<BR>
+De organisator behandelt klachten van gezinnen en derden en hanteert daarvoor een procedure.<br>
+<br>
+De procedure, vermeld in het eerste lid, bevat:<br>
+1°&nbsp;&nbsp; &nbsp;een ontvangstmelding van de klacht;<br>
+2°&nbsp;&nbsp; &nbsp;het onderzoek van de klacht;<br>
+3°&nbsp;&nbsp; &nbsp;een schriftelijke mededeling van het resultaat aan de klager;<br>
+4°&nbsp;&nbsp; &nbsp;de wijze waarop over de klachtopvolging transparantie wordt verleend aan de gezinnen, vermeld in artikel 33, 1°, b).<br>
+<br>
+Bij de procedure worden de termijnen vermeld voor de stappen, vermeld in het tweede lid, 1°, 2° en 3°.<br>
+<br>
+De organisator registreert de klachten. In de voormelde registratie worden minstens de volgende gegevens opgenomen:<br>
+1°&nbsp;&nbsp; &nbsp;een omschrijving of samenvatting van de klacht;<br>
+2°&nbsp;&nbsp; &nbsp;het resultaat van de klachtenbehandeling in termen van gegrond, ongegrond of onduidelijk.
 
 ## Afdeling 6 Samenwerking
 
@@ -531,7 +582,14 @@ De organisator heeft een procedure voor klachtenbehandeling waarin   minstens ee
 
 ### ART. 59.
 
-<P>...</P>
+<p>De organisator meldt de volgende situaties onmiddellijk aan het agentschap:<br>
+1°&nbsp;&nbsp; &nbsp;een crisis en grensoverschrijdend gedrag;<br>
+2°&nbsp;&nbsp; &nbsp;een klacht over een crisis;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;als de organisator zelf of een van zijn medewerkers het voorwerp uitmaakt van een strafonderzoek of een veroordeling voor feiten ten aanzien van minderjarigen die een impact heeft op het goed gedrag en zeden van de persoon in kwestie en meer bepaald op zijn onberispelijke gedrag in de omgang met minderjarigen;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;problemen of ontwikkelingen die een impact kunnen hebben op de continuïteit van de kinderopvang;<br>
+5°&nbsp;&nbsp; &nbsp;belangrijke wijzigingen in het bestuur van de organisator.<br>
+<br>
+De organisator geeft bij de melding, vermeld in het eerste lid, aan op welke wijze hij gevolg heeft gegeven aan de voormelde melding en in de toekomst preventief zal optreden.</p>
 
 ### ART. 60.
 
@@ -585,27 +643,25 @@ De afwijking, vermeld in het eerste lid, 3°, geldt alleen zolang er een erkend 
 
 ### ART. 64.
 
-<p>De personen die werkten als verantwoordelijke in een kinderopvanglocatie die een erkenning, een toestemming of een attest van toezicht van het agentschap had, kunnen afwijken van de voorwaarden over de kwalificatie, vermeld in artikel 40, § 2, eerste lid, 5°, en in artikel 43, § 2, eerste lid, 4°, als een van de volgende voorwaarden vervuld is :<br>
-1° het gaat om een tewerkstelling van minstens drie jaar, binnen vijf jaar die voorafgaan aan 1 april 2014;<br>
-2° het gaat om een tewerkstelling waarbij ervaring binnen een kwaliteitsvolle werking waarvoor de persoon de verantwoordelijke was, aangetoond kan worden.<br>
+<p>Personen die een attest tot afwijking of een bewijs van kennis hebben op basis van voorheen geldend artikel 64 tot en met artikel 66/1, voor de toepassing van de voorwaarden, vermeld in artikel 8, 11, 40, §2, eerste lid, 3° en 5°, en §3, en artikel 43, §2, eerste lid, 4°, behouden hun recht op de voormelde afwijking.<br>
 <br>
-De personen die werkten als kinderbegeleider in een kinderopvanglocatie die een erkenning, een toestemming of een attest van toezicht van het agentschap had, kunnen afwijken van de voorwaarden over de kwalificatie, vermeld in artikel 43, § 2, eerste lid, 4°, als een van de volgende voorwaarden vervuld is :<br>
-1° het gaat om een tewerkstelling van minstens drie jaar, binnen vijf jaar die voorafgaan aan 1 april 2014;<br>
-2° het gaat om een tewerkstelling waarbij ervaring binnen een kwaliteitsvolle werking waar de persoon kinderbegeleider was, aangetoond kan worden.<br>
+Er geldt een overgangsperiode tot en met 31 maart 2024 om te voldoen aan de voorwaarde, vermeld in artikel 43, §2, eerste lid, 4°.<br>
 <br>
-Het agentschap geeft een attest op aanvraag.</p>
+De organisator van groepsopvang met kinderbegeleiders die in het specifieke sociaal statuut voor onthaalouders werken, kan, zolang de kinderbegeleiders in dat statuut werken, geen vergunning krijgen voor meer dan achttien kinderopvangplaatsen voor die kinderopvanglocatie.<br>
+<br>
+Als de kinderbegeleider in de gezinsopvang, die ook als verantwoordelijke werkt, zich tussen 1 januari 2019 en 31 december 2023 laat ondersteunen door een pool gezinsopvang als vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, geldt voor die persoon de kwalificatie, vermeld in artikel 43, §2, eerste lid, 4°, a), van dit besluit, in afwijking van de werkingsvoorwaarde over de kwalificatie, vermeld in artikel 40, §2, eerste lid, 5°, van dit besluit, uiterlijk tot en met 31 maart 2024.</p>
 
 ### ART. 65.
 
-<p>De kinderbegeleiders die vóór de datum van de inwerkingtreding van het decreet van 20 april 2012 al gewerkt hebben binnen de gezinsopvang als gemelde onthaalouder, als onthaalouder met een attest van toezicht of als aangesloten onthaalouder, en de kinderbegeleiders die gewerkt hebben in een vergunde kinderopvanglocatie gezinsopvang, kunnen afwijken van de voorwaarde over de module "kennismaken met de gezinsopvang", vermeld in artikel 11 van dit besluit, en van de voorwaarde over de module "werken in de kinderopvang", vermeld in artikel 73, tweede lid, van dit besluit. Het agentschap geeft daarvoor een attest op aanvraag.</p>
+<p>...</p>
 
 ### ART. 66.
 
-De organisator van kinderopvanglocaties, vermeld in artikel 68, kan afwijken van de voorwaarde over de kennis om een kinderopvanglocatie organisatorisch te beheren, vermeld in artikel 8. Het agentschap geeft daarvoor een attest op aanvraag.
+...
 
 ### ART. 66/1.
 
-De personen die voor de datum van de inwerkingtreding van het decreet van 20 april 2012 een bewijs van kennis van het Nederlands bezorgd hebben aan het agentschap dat aanvaard is door het agentschap met toepassing van het besluit van de Vlaamse Regering van 13 februari 2009 houdende de regeling van het attest van toezicht voor zelfstandige opvangvoorzieningen, of dat aanvaard is door het agentschap op basis van een bewijs van een Huis van het Nederlands dat een behaald taalniveau 2.3 aantoont, kunnen afwijken van de voorwaarde over de kennis van het Nederlands, vermeld in artikel 40, § 2, eerste lid, 3°, en § 3.
+...
 
 ## HOOFDSTUK 5 Slotbepalingen
 
@@ -613,14 +669,7 @@ De personen die voor de datum van de inwerkingtreding van het decreet van 20 apr
 
 ### ART. 67.
 
-De volgende regelingen worden opgeheven :<br>
-1° het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 oktober 2011;<br>
-2° het besluit van de Vlaamse Regering van 14 december 2001 houdende de toekenning van een verzekering persoonlijke ongevallen aan opvanggezinnen, gewijzigd bij het besluit van de Vlaamse Regering van 28 maart 2003;<br>
-3° het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang, gewijzigd bij het decreet van 23 december 2010 en de besluiten van de Vlaamse Regering van 20 maart 2009, 15 mei 2009, 24 september 2010 en 14 december 2012;<br>
-4° het besluit van de Vlaamse Regering van 19 september 2008 houdende de normen van preventie van brand in de voorzieningen voor kinderopvang, gewijzigd bij het besluit van de Vlaamse Regering van 5 juni 2009;<br>
-5° het besluit van de Vlaamse Regering van 13 februari 2009 houdende de regeling van de melding aan het agentschap van opvang op bestendige wijze, gewijzigd bij het besluit van de Vlaamse Regering van 24 september 2010;<br>
-6° het besluit van de Vlaamse Regering van 13 februari 2009 houdende de regeling van het attest van toezicht voor zelfstandige opvangvoorzieningen, gewijzigd bij de besluiten van de Vlaamse Regering van 15 mei 2009, 24 september 2010 en 21 oktober 2011;<br>
-7° het besluit van de Vlaamse Regering van 6 mei 2011 tot regeling van het kwaliteitsbeleid in de erkende kinderopvangvoorzieningen.
+...
 
 ## Afdeling 2 [... (opgeh. BVR 17 maart 2023, art. 36, I: 1 januari 2024)]
 
@@ -628,69 +677,39 @@ De volgende regelingen worden opgeheven :<br>
 
 ### ART. 68.
 
-<p>Overeenkomstig artikel 36 van het decreet van 20 april 2012, wordt voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning, een toestemming of een attest van toezicht hebben van het agentschap, die erkenning, die toestemming of dat attest van toezicht omgezet in een vergunning van het agentschap. Meer bepaald wordt de erkenning, de toestemming of het attest van toezicht van het agentschap voor kinderopvang van baby's en peuters op basis van de besluiten, vermeld in artikel 67, 1°, 3° en 6°, omgezet in een vergunning van het agentschap, toegekend aan de organisator. De omzetting heeft betrekking op hetzelfde aantal kinderopvangplaatsen.</p>
-
-<p>Voor erkende diensten voor onthaalouders zal de erkenning omgezet worden in een vergunning per kinderopvanglocatie waar de aangesloten onthaalouder werkzaam is. Voor de bij hen aangesloten alleenwerkende onthaalouders is het aantal vergunde kinderopvangplaatsen maximum acht. Voor de bij hen aangesloten samenwerkende onthaalouders is het aantal vergunde kinderopvangplaatsen maximum achttien. De organisator bepaalt het aantal vergunde kinderopvangplaatsen onder meer rekening houdend met de draagkracht en de infrastructuur en deelt dit mee aan het agentschap volgens de administratieve richtlijnen van het agentschap.</p>
+<p>...</p>
 
 ### ART. 69.
 
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 gemeld zijn bij het agentschap voor kinderopvang van baby's en peuters op basis van het besluit, vermeld in artikel 67, 5°, geldt de volgende overgangsregeling :<br>
-1° de organisator vraagt een vergunning aan bij het agentschap binnen negen maanden vanaf de inwerkingtreding van het decreet van 20 april 2012;<br>
-2° tijdens de periode, vermeld in punt 1°, en tot aan de beslissing over de vergunning kan de gemelde kinderopvanglocatie haar kinderopvangactiviteit voortzetten;<br>
-3° bij de aanvraag van de vergunning hoeft niet voldaan te zijn aan de startvoorwaarden die verwijzen naar de werkingsvoorwaarden waarvoor een overgangsperiode als vermeld in artikel 70, geldt.
+...
 
 ### ART. 70.
 
-<p>Vanaf de inwerkingtreding van het decreet van 20 april 2012 gelden de volgende overgangsperiodes voor de kinderopvanglocaties, vermeld in artikel 68 en 69 :<br>
-1° één jaar om te voldoen aan de werkingsvoorwaarden over het huishoudelijk reglement en de schriftelijke overeenkomst, vermeld in artikel 34, 35 en 36;<br>
-2° twee jaar om te voldoen aan de werkingsvoorwaarden over de pedagogische ondersteuning en het attest draagkracht, vermeld in artikel 32;<br>
-2° /1 drie jaar om te voldoen aan de werkingsvoorwaarde over het kwaliteitshandboek, vermeld in artikel 57;<br>
-3° drie jaar om te voldoen aan de werkingsvoorwaarden over :<br>
-a) de circulatieruimte, vermeld in artikel 14, eerste lid, 3° ;<br>
-b) de minimaal te behalen nettovloeroppervlakte van 3 m² in de leefruimte, vermeld in artikel 16;<br>
-c) voldoende daglicht als vermeld in artikel 21, 1°;<br>
-d) de evacuatie en de maatregelen betreffende brandpreventie, vermeld in artikel 22;<br>
-e) de leefgroepindeling, vermeld in artikel 55;<br>
-4° drie jaar voor de organisator van gezinsopvang en één jaar voor de organisator van groepsopvang, om te voldoen aan de werkingsvoorwaarde over de kennis van de Nederlandse taal voor de kinderbegeleider, vermeld in artikel 43, § 3;<br>
-5° zes jaar om te voldoen aan de werkingsvoorwaarde over de kwalificatie voor de verantwoordelijke, vermeld in artikel 40, § 2, eerste lid, 5°, die gestart is met werken in de kinderopvanglocatie voor 1 april 2015;<br>
-6° acht jaar om te beschikken over een brandveiligheidsattest A of B als vermeld in artikel 23, als ze al beschikken over een geldig brandweerverslag. Als het brandweerverslag minder lang geldig is dan acht jaar, moeten ze zodra het brandweerverslag niet meer geldig is, beschikken over een brandveiligheidsattest als vermeld in artikel 23;<br>
-7° tien jaar om te voldoen aan de werkingsvoorwaarde over de kwalificatie voor de kinderbegeleider, vermeld in artikel 43, § 2, eerste lid, 4°.<br>
-<br>
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning hebben van het agentschap, geldt geen overgangsperiode als vermeld in het eerste lid, 5°.<br>
-<br>
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning als kinderdagverblijf hebben van het agentschap, geldt geen overgangsperiode als vermeld in het eerste lid, 7°.<br>
-<br>
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 gemeld zijn bij het agentschap, geldt geen overgangsperiode als vermeld in het eerste lid, 3°, b), en d).<br>
-<br>
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning of een attest van toezicht hebben van het agentschap, en op die datum exclusief peuters opvangen, geldt een overgangsperiode van zes jaar om te voldoen aan de werkingsvoorwaarde over het aantal tegelijk aanwezige kinderen per aanwezige kinderbegeleider, vermeld in artikel 42, eerste lid, 2°, op voorwaarde dat er exclusief peuters worden opgevangen en op voorwaarde dat er niet meer dan tien tegelijk aanwezige kinderen worden opgevangen per aanwezige kinderbegeleider. Onder peuters wordt verstaan, kinderen ouder dan achttien maanden.<br>
-<br>
-Voor de aangesloten onthaalouders, vermeld in artikel 68, tweede lid, geldt een overgangsperiode van vijf jaar om te voldoen aan de werkingsvoorwaarde over de kennis van de Nederlandse taal, vermeld in artikel 40, § 3, voor de persoon, vermeld in artikel 39, eerste lid, 2°.<br>
-<br>
-Als de verantwoordelijke of de kinderbegeleider bij de inwerkingtreding van het decreet al een attest van medische geschiktheid heeft, hoeft dat attest pas hernieuwd te worden volgens het model, vermeld in artikel 40, § 2, eerste lid, 2°, of artikel 43, § 2, eerste lid, 2°, zodra het bestaande attest niet meer geldig is of drie jaar oud is.</p>
+<p>...</p>
 
 ### ART. 71.
 
-<P>De organisator die na de inwerkingtreding van het decreet, met betrekking tot   een kinderopvanglocatie, vermeld in artikel 68 of 69, hetzij een verhoging van   het aantal vergunde kinderopvangplaatsen aanvraagt, hetzij deze   kinderopvanglocatie verhuist, kan zich voor die kinderopvanglocatie niet meer   beroepen op de volgende overgangsbepalingen :<BR>1° in geval van een verhoging   van het aantal vergunde kinderopvangplaatsen : de overgangsbepalingen, vermeld   in artikel 70, eerste lid, 3° en 6°, en artikel 70, vijfde lid;<BR>2° in geval   van een verhuis : de overgangsbepalingen, vermeld in artikel 70, eerste lid, 3°   en 6°. <BR></P>  <P>De organisator die na de inwerkingtreding van het decreet de ondernemingsvorm   wijzigt, kan zich voor de kinderopvanglocaties, vermeld in artikel 68 en 69,   blijven beroepen op alle overgangsbepalingen, vermeld in dit besluit die op hem   van toepassing waren.<BR></P>  <P>De organisator die de vergunning verliest voor een kinderopvanglocatie,   vermeld in artikel 68 of 69, kan zich bij de toekenning van een nieuwe   vergunning niet langer beroepen op de overgangsbepalingen, vermeld in artikel   70. <BR></P>
+<p>...</p>
 
 ### ART. 72.
 
-Voor de kinderopvanglocaties, vermeld in artikel 68 en 69 van dit besluit,   geldt dat voor de kinderen die al ingeschreven zijn op de datum van de   inwerkingtreding van het decreet van 20 april 2012, de organisator niet hoeft te   voldoen aan de voorwaarde over de schriftelijke overeenkomst, vermeld in artikel   36 van dit besluit.<BR>
+...
 
 ## Onderafdeling 2 [... (opgeh. BVR 17 maart 2023, art. 36, I: 1 januari 2024)]
 
 ### ART. 73.
 
-<P>Vanaf de inwerkingtreding van het decreet van 20 april 2012 gelden de   volgende overgangsperiodes voor de kinderopvanglocaties die starten met   kinderopvang van baby's en peuters na de inwerkingtreding van het decreet van 20   april 2012 :<BR>1° één jaar om te voldoen aan de werkingsvoorwaarden over het   huishoudelijk reglement en de schriftelijke overeenkomst, vermeld in artikel 34,   35 en 36;<BR>2° twee jaar om te voldoen aan de startvoorwaarde en de   werkingsvoorwaarde over de pedagogische ondersteuning en het attest draagkracht,   vermeld in artikel 2, tweede lid, 2°, 12 en 32;<BR>3° zes jaar om te voldoen aan   de startvoorwaarde en aan de werkingsvoorwaarde over de kwalificatie voor de   verantwoordelijke, vermeld in artikel 4 en 40, § 2, eerste lid, 5°, die gestart   is met werken in de kinderopvanglocatie voor 1 april 2015;<BR>4° tien jaar om te   voldoen aan de startvoorwaarde en aan de werkingsvoorwaarde over de kwalificatie   voor de kinderbegeleider, vermeld in artikel 10 en 43, § 2, eerste lid, 4°.   <BR></P>  <P>De organisator van gezinsopvang die gebruikmaakt van de overgangsregeling   voor de kinderbegeleider, vermeld in het eerste lid, 4°, moet als   startvoorwaarde wel beschikken over een attest, vastgesteld door de minister,   die bepaalt wie de uitreikende instanties en wat de leerinhouden zijn, waaruit   blijkt dat de kinderbegeleider de module « werken in de kinderopvang » van   twintig uur gevolgd heeft. Die module geeft inzicht in veiligheidsaspecten,   pedagogische aspecten en samenwerkingsaspecten, zodat het professionele handelen   van de kinderbegeleider versterkt wordt.<BR></P>  <P>De organisator van groepsopvang met kinderbegeleiders die werken in het   specifiek sociaal statuut voor onthaalouders, kan, zolang de kinderbegeleiders   werken in dit statuut, geen vergunning krijgen voor meer dan achttien   kinderopvangplaatsen voor die kinderopvanglocatie.<BR></P>
+<p>...</p>
 
 ## Onderafdeling 3 [... (opgeh. BVR 17 maart 2023, art. 36, I: 1 januari 2024)]
 
 ### ART. 73/1.
 
-Voor de kinderopvanglocaties, vermeld in artikel 68, 69 en 73, geldt een   overgangsperiode tot en met 31 december 2014 om te voldoen aan:<BR>1° de   startvoorwaarde, vermeld in artikel 8;<BR>2° de startvoorwaarde, vermeld in   artikel 11, en de overgangsvoorwaarde, vermeld in artikel 73, tweede lid, op   voorwaarde dat de kinderbegeleider geen attest kan voorleggen omdat er binnen   drie maanden na de aanvraag bij de uitreikende instantie geen aanbod beschikbaar   is.
+...
 
 ### ART. 74.
 
-Als de kinderbegeleider in de gezinsopvang die ook als verantwoordelijke werkt, zich tussen 1 januari 2019 en 31 december 2023 laat ondersteunen door een pool gezinsopvang als vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, geldt voor die persoon de kwalificatie van kinderbegeleider, vermeld in artikel 43, § 2, eerste lid, 4°, a), in afwijking van de werkingsvoorwaarde over de kwalificatie voor verantwoordelijke, vermeld in artikel 40, § 2, eerste lid, 5°, en dit mogelijks tot 1 april 2024.
+...
 
 ## Afdeling 3 Inwerkingtredingsbepaling en uitvoeringsbepaling
 
