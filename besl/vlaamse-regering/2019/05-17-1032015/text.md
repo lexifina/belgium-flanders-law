@@ -1934,6 +1934,16 @@ Als de bepalingen, vermeld in het eerste lid, niet worden nageleefd, is de besli
 
 ## [HOOFDSTUK 8/1. De rol van het Departement Financiën en Begroting binnen het evaluatiebeleid (ing. BVR 28 oktober 2022, art. 28, I: 1 januari 2024)]
 
+### ART 77/1.
+
+Het Departement Financiën en Begroting ondersteunt het evaluatiebeleid binnen de Vlaamse overheid vanuit de principes van prestatiegeïnformeerd begroten.
+
+### ART 77/2.
+
+Het Departement Financiën en Begroting heeft, onverminderd artikel 77/1, tevens de volgende rollen:<br>
+1° de rol, vermeld in artikel 3/1, §2, eerste lid, 4°;<br>
+2° het waken over het horizontaal beleid inzake periodieke beleidsevaluatie van subsidies en subsidiekaders, door toe te zien op de naleving van de periodieke evaluatieverplichting, bij te dragen aan kennisopbouw terzake bij de inhoudelijk bevoegde beleidsdomeinen, en periodiek te zorgen voor een meta-analyse en leerlessen van de uitgevoerde evaluaties.
+
 ## HOOFDSTUK 9. Giften en prijzen
 
 ### ART 78.
