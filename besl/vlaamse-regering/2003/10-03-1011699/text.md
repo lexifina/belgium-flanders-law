@@ -6,8 +6,7 @@
 
 <p>§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° oliehoudende planten en vezelgewassen : planten van de volgende geslachten en soorten :<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -189,7 +188,7 @@ a) door autoriteiten van een staat;<br>
 b) door publiekrechtelijke of privaatrechtelijke rechtspersonen handelend onder de verantwoordelijkheid van een lid-Staat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregel;<br>
 c) voor hulpwerkzaamheden, door beÙdigde natuurlijke personen handelend onder het toezicht van een lid-Staat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregel;<br>
 16° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
-17° de bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+17° de bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 18° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden met het oog op commercieel gebruik, al of niet tegen vergoeding.<br>
 <br>
 Onder "in de handel brengen" wordt niet verstaan de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals het beschikbaar stellen van zaaizaad aan officiële onderzoeks- en controle-instanties of de levering van zaaizaad aan verleners van diensten voor verwerking of verpakking, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft.<br>
