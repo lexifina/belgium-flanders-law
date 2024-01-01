@@ -173,6 +173,31 @@ De tegemoetkoming van de VDAB dekt alleen de aanpassingskosten van het arbeidsge
 
 ## [Afdeling II/4. Tegemoetkoming in de kosten van arbeidsgereedschap en -kledij voor deelnemers arbeidsmatige activiteiten in de sociale economie, vermeld in hoofdstuk 5 van het decreet van 8 juli 2022 over de werk- en zorgtrajecten (ing. BVR 18 november 2022, art. 71, I: 1 januari 2024)]
 
+### ART 8/10.
+
+Conform artikel 8/11 en 8/12 komt de VDAB tijdens de duur van de deelname in de arbeidsmatige activiteiten in de sociale economie tegemoet in de kosten van de aankoop van het arbeidsgereedschap en de arbeidskledij voor de personen met een arbeidshandicap.<br>
+<br>
+De VDAB blijft eigenaar van het arbeidsgereedschap dat en de arbeidskledij die ter beschikking is gesteld.&nbsp;<br>
+<br>
+De VDAB kan tijdens de duur van de deelname aan arbeidsmatige activiteiten in de sociale economie ook een tegemoetkoming verlenen in bijkomende kosten voor het gebruik van het persoonlijk materiaal op de werkplek.
+
+### ART 8/11.
+
+Om aanspraak te maken op de tegemoetkoming, vermeld in artikel 8/10, toont de persoon met een arbeidshandicap aan dat:<br>
+1° het arbeidsgereedschap of de -kledij niet courant gebruikt wordt in de beroepstak waarin hij opgeleid wordt, en rechtstreeks noodzakelijk is of zal zijn voor de uitoefening van zijn professionele activiteit;<br>
+2° de werkgever er niet toe gehouden is de kosten voor de aankoop van het arbeidsgereedschap of de arbeidskledij te dragen, of dat hij van de werkgever het nodige gereedschap of arbeidskledij niet kan krijgen, noch de tegenwaarde in speciën voor de aankoop ervan;<br>
+3° de noodzaak, de gebruiksfrequentie, de werkzaamheid en de doelmatigheid van het arbeidsgereedschap of de arbeidskledij betrekking hebben op de arbeidshandicap, en in verhouding staan tot de gevraagde ondersteuning;<br>
+4° hij zich in een van de volgende gevallen bevindt:<br>
+a) hij woont op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+b) hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest.<br>
+&nbsp;
+
+### ART 8/12.
+
+Met behoud van de toepassing van artikel 15 en 16 dekt de tegemoetkoming alleen de bijkomende kosten die de persoon met een arbeidshandicap door zijn handicap moet dragen, ten opzichte van de kosten die een persoon zonder arbeidshandicap voor zijn arbeidsgereedschap en -kledij moet dragen.<br>
+<br>
+De tegemoetkoming van de VDAB dekt alleen de aanpassingskosten van het arbeidsgereedschap als die volstaan om te kunnen voldoen aan de specifieke behoeften van de persoon met een arbeidshandicap.
+
 ## Afdeling III. [Tegemoetkoming in de kosten voor de aanpassing van de arbeidspost van werknemers met een arbeidshandicap en van personen met een arbeidshandicap die een IBO of K-IBO volgen (verv. BVR 26 oktober 2018, art. 12, I: 1 januari 2019)]
 
 ### ART. 9.
