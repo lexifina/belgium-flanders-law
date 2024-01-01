@@ -203,7 +203,7 @@ b) eerstelijnszorgactoren;<br>
 c) lokale besturen;<br>
 d) vertegenwoordigers van personen met een zorg- en ondersteuningsvraag, mantelzorgers en vrijwilligers;<br>
 9° voor 15 oktober van het eerste erkenningsjaar voldoen aan de voorwaarde van artikel 9, § 2, betreffende de samenstelling van het bestuursorgaan van de zorgraad of aan de voorwaarde van artikel 9, § 3, betreffende de samenstelling van de stuurgroep als de zorgraad het tweetalige gebied Brussel-Hoofdstad als werkgebied heeft en hiervan het bewijs aan de administratie bezorgen;<br>
-10° hun personeelsadministratie, de ondersteuning van het personeelsmanagement, hun boekhoudkundige verplichtingen en de ondersteuning om hun verenigingsrechtelijke verplichtingen na te komen uitbesteden aan de partnerorganisatie, die daarvoor, wegens zijn deskundigheid in die materie, wordt aangewezen door de Vlaamse Regering.<br>
+10° ...<br>
 <br>
 Als de zorgraad als werkgebied het tweetalige gebied Brussel-Hoofdstad heeft, wordt, in afwijking van het eerste lid, 8°, binnen de stuurgroep, vermeld in artikel 9, § 3, eerste lid, beslist met een meerderheid van elk van de drie groepen die in de stuurgroep vertegenwoordigd zijn: welzijnsactoren, eerstelijnszorgactoren en vertegenwoordigers van personen met een zorg en ondersteuningsvraag, mantelzorgers en vrijwilligers.
 
