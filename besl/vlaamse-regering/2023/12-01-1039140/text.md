@@ -37,6 +37,16 @@ In artikel 1 van hetzelfde besluit worden de woorden “de binnenlandse aangeleg
 
 In artikel 2 van hetzelfde besluit wordt het woord “gemeentebesturen” vervangen door de woorden “gemeente- en provinciebesturen”.
 
+### ART 4.
+
+In hetzelfde besluit wordt een artikel 4/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 4/1. Ter uitvoering van artikel 16, §1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 verzoekt de minister aan de federale overheidsdienst, vermeld in artikel 16, §1, eerste lid, van het voormelde decreet, om de lijst, vermeld in artikel 16, §1, eerste lid, van het voormelde decreet, aan de gemeente ter beschikking te stellen.”.
+
+### ART 5.
+
+In artikel 6 van hetzelfde besluit wordt het woord “oproepingsbrief” vervangen door het woord “uitnodigingsbrief”.
+
 ### ART 6.
 
 In artikel 7, tweede lid, van hetzelfde besluit worden de woorden “van de verklaring op erewoord en” opgeheven.
@@ -45,13 +55,41 @@ In artikel 7, tweede lid, van hetzelfde besluit worden de woorden “van de verk
 
 Artikel 12 van hetzelfde besluit wordt opgeheven.
 
+### ART 8.
+
+In artikel 18 van hetzelfde besluit wordt het woord “harmonica-enveloppen” vervangen door de woorden “de verzegelbare verpakkingen”.
+
+### ART 9.
+
+Aan artikel 21 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Ter uitvoering van artikel 171, vierde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de stemgegevens van de telbureaus publiek bekend.”.
+
 ### ART 10.
 
 In artikel 22 van hetzelfde besluit wordt tussen de zinsnede “artikel 174” en de woorden “van het Lokaal” de zinsnede “en 175” ingevoegd.
 
+### ART 11.
+
+Aan artikel 23 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Ter uitvoering van artikel 186, vierde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de stemgegevens van de telbureaus publiek bekend.”.
+
+### ART 12.
+
+Aan artikel 26 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Ter uitvoering van artikel 191, §4, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 verzoekt de minister aan de federale overheidsdienst, vermeld in artikel 191, §4, van het voormelde decreet, om de extractie, vermeld in artikel 191, §4, van het voormelde decreet, uit te voeren.”.
+
 ### ART 13.
 
 Artikel 28 en 29 van hetzelfde besluit worden opgeheven.
+
+### ART 14.
+
+Aan hoofdstuk 4 van hetzelfde besluit wordt een artikel 37/1 toegevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 37/1. Ter uitvoering van artikel 22, derde lid, van het Digitaal Kiesdecreet van 25 mei 2012 maakt de minister de stemgegevens bekend van de individuele stembureaus waar minstens vijfhonderd kiezers hun stem hebben uitgebracht.”.
 
 ### ART 15.
 
