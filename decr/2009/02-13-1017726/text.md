@@ -36,7 +36,28 @@ De subsidieovereenkomst, vermeld in artikel 3, § 1, 3°, wordt gesloten voor vi
 
 ### ART. 6.
 
-De voortgangscontrole van de inhoudelijke werking van de vereniging wordt   toevertrouwd aan een opvolgingsgroep die opgericht is door de Vlaamse   Regering.<BR><BR>De voortgangscontrole bestaat uit een nauwe opvolging en   eventuele bijsturing van de bepalingen zoals opgenomen in de   subsidieovereenkomst, de jaarplannen en de jaarverslagen.<BR><BR>De   opvolgingsgroep brengt advies uit aan de Vlaamse Regering over de ingediende   jaarplannen en de jaarverslagen.<BR><BR>De opvolgingsgroep is als volgt   samengesteld :<BR>1° een vertegenwoordiger voor de Vlaamse minister bevoegd voor   het Onderwijs;<BR>2° een vertegenwoordiger voor de Vlaamse minister bevoegd voor   Sport;<BR>3° een vertegenwoordiger voor de Vlaamse minister bevoegd voor   Begroting;<BR>4° een vertegenwoordiger voor het Departement Onderwijs en   Vorming;<BR>5° een afgevaardigde voor de Vlaamse minister bevoegd voor   Mobiliteit;<BR>6° een vertegenwoordiger voor het Agentschap voor Kwaliteitszorg   in Onderwijs en Vorming;<BR>7° een vertegenwoordiger voor het agentschap Sport   Vlaanderen;<BR>8° een vertegenwoordiger voor de sectorraad Sport van de Raad   voor Cultuur, Jeugd, Sport en Media;<BR>9° een vertegenwoordiger voor de Vlaamse   Onderwijsraad;<BR>10° twee vertegenwoordigers voor de vereniging die   overeenkomstig dit decreet gesubsidieerd wordt;<BR>11° een expert op vlak van   schoolsport die wordt voorgedragen door het Departement Onderwijs en   Vorming;<BR>12° een expert op vlak van schoolsport die wordt voorgedragen door   het agentschap Sport Vlaanderen;<BR>13° een afgevaardigde voor de Vlaamse   minister bevoegd voor Volksgezondheid; <BR><BR>De opvolgingsgroep kan verder   aangevuld worden met experten inzake schoolsport.
+De voortgangscontrole van de inhoudelijke werking van de vereniging wordt toevertrouwd aan een opvolgingsgroep die opgericht is door de Vlaamse Regering.<br>
+<br>
+De voortgangscontrole bestaat uit een nauwe opvolging en eventuele bijsturing van de bepalingen zoals opgenomen in de subsidieovereenkomst, de jaarplannen en de jaarverslagen.<br>
+<br>
+De opvolgingsgroep brengt advies uit aan de Vlaamse Regering over de ingediende jaarplannen en de jaarverslagen.<br>
+<br>
+De opvolgingsgroep is als volgt samengesteld :<br>
+1° een vertegenwoordiger voor de Vlaamse minister bevoegd voor het Onderwijs;<br>
+2° een vertegenwoordiger voor de Vlaamse minister bevoegd voor Sport;<br>
+3° ...;<br>
+4° een vertegenwoordiger voor het Departement Onderwijs en Vorming;<br>
+5° ...;<br>
+6° een vertegenwoordiger voor het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming;<br>
+7° een vertegenwoordiger voor het agentschap Sport Vlaanderen;<br>
+8° ...;<br>
+9° ...;<br>
+10° twee vertegenwoordigers voor de vereniging die overeenkomstig dit decreet gesubsidieerd wordt;<br>
+11° ...;<br>
+12° ...;<br>
+13° ...;<br>
+<br>
+De opvolgingsgroep kan verder aangevuld worden met experten inzake schoolsport.
 
 ### ART. 7.
 
