@@ -647,7 +647,7 @@ De personen, genoemd onder 11°, b) en c), mogen geen bijzonder voordeel ontlene
 <br>
 12° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br>
 <br>
-13° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+13° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 <br>
 14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik. Onder in de handel brengen, wordt niet verstaan:<br>
 a) de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals de volgende handelingen:<br>
