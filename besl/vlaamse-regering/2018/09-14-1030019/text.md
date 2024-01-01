@@ -1215,7 +1215,7 @@ In artikel 1 van het besluit van de Vlaamse Regering van 3 oktober 2014 tot uitv
 <br>
 1° in punt 6° worden de woorden "het landbouw- en visserijbeleid" vervangen door de woorden "de landbouw".<br>
 <br>
-2° punt 7° en punt 8° worden opgeheven.
+2° ...
 
 ### ART 146.
 
@@ -1604,7 +1604,7 @@ De erkenning van de controleorganen die erkend zijn conform artikel 3 van het be
 
 Artikel 85 heeft uitwerking met ingang van 1 januari 2018.<br>
 <br>
-Artikel 116, 117, 118, 119, 135 en artikel 145, 2°, treden in werking op een datum die wordt vastgesteld door de Vlaamse minister, bevoegd voor de landbouw.<br>
+Artikel 116, 117, 118, 119, en 135, treden in werking op een datum die wordt vastgesteld door de Vlaamse minister, bevoegd voor de landbouw.<br>
 <br>
 Artikel 148 en 150 treden in werking op 1 januari 2019.
 
