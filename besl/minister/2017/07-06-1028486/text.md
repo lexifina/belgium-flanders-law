@@ -26,6 +26,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 3° Bowling Vlaanderen vzw, Kolonel Bourgstraat 123-125/16, 1140 Evere, met ondernemingsnummer 0538.720.875;<br>
 4° Cricket Vlaanderen vzw, Zuiderlaan 13,9000 Gent, met ondernemingsnummer 0887.415.188;<br>
 5° Danssport Vlaanderen vzw, Kempenlaan 27, bus 1, 2300 Turnhout, met ondernemingsnummer 0419.848.464;<br>
+5°/1 Duiken.Vlaanderen vzw, August Vermeylenlaan 23 bus 36, 2050 Antwerpen, met ondernemingsnummer 0479.545.828;<br>
 6° Federatie Disco, Show en Freestyle vzw, Sint-Benedictusstraat 2, 3020 Herent, met ondernemingsnummer 0861.389.791;<br>
 7° Federatie van Amateurs Motorcrossbonden van Vlaanderen vzw, Acacialaan 21, 2630 Aartselaar 0455.029.473;<br>
 7° /1 Flemish American Football League vzw, H. Pauwelslaan 1/11, 1200 Brussel, met ondernemingsnummer 0449.232.437;<br>
@@ -90,7 +91,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 60° Vlaamse Volleybalbond vzw, Beneluxlaan 22, 1800 Vilvoorde, met ondernemingsnummer 0417.414.853;<br>
 61° Vlaamse Wielrijdersbond vzw, Bosstraat 101, 9255 Buggenhout, met ondernemingsnummer 0417.758.511;<br>
 62° Vlaamse Wushu Federatie vzw, Frans Van Schoorstraat 5, 9200 Dendermonde, met ondernemingsnummer 0442.206.766;<br>
-63° Vlaamse Zaalvoetbalbond vzw, Wilselsesteenweg 307, 3010 Kessel-Lo, met ondernemingsnummer 0418.255.288;<br>
+63° ...;<br>
 64° Vlaamse Zwemfederatie vzw, Burg. Maenhautstraat 100-102, 9820 Merelbeke, met ondernemingsnummer 0417.958.944;<br>
 65° Voetbal Vlaanderen vzw, Houba de Strooperlaan 145, 1020 Brussel, met ondernemingsnummer 0808.165.002;<br>
 66° Wandelsport Vlaanderen vzw, Industrielaan 11, bus 3, 9990 Maldegem, met ondernemingsnummer 0643.481.073;<br>
