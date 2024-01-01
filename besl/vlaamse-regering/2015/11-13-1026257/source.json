@@ -2,16 +2,16 @@
   "codex_id": 1026257,
   "title": "Besluit van de Vlaamse Regering van 2015-11-13 tot regeling van de samenstelling en de werking van de Vlaamse Raad voor Dierenwelzijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026257/VolledigDocument?datum=2019-01-25",
-  "source_sha256": "157621a78514f3c6b9bce5c9ccb7ee016814aa80261c0c8e646743602dc3ab41",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026257/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "6498e069ec6b6191ddb35559ba6af75f7c66dc1ee7fe6892d9a1b1c5c5a14654",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026257&param=informatie",
-  "as_of": "2019-01-25",
+  "as_of": "2024-01-01",
   "made": "2015-11-13",
   "gazette": "2015-12-29",
   "numac": 2015036598,
   "document_start": "2016-01-08",
   "document_end": null,
-  "in_force": "2019-01-25",
+  "in_force": "2024-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2019-01-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
