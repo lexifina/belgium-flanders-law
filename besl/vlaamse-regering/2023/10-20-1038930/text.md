@@ -30,6 +30,10 @@ In artikel 473, §3, eerste lid, van het besluit van de Vlaamse Regering van 30 
 “21° aanpassingscoëfficiënt: vanaf 1 oktober 2023 tot en met 31 december 2023 bedraagt de aanpassingscoëfficiënt 1,013398. Bij een overschrijding van het spilindexcijfer met toepassing van artikel 511 in de periode vanaf 1 september 2023 tot en met 30 november 2023 bedraagt de aanpassingscoëfficiënt vanaf de eerste dag van de maand die volgt op de maand waarin het spilindexcijfer wordt overschreden, tot en met 31 december 2023 1,013135.”;<br>
 3° punt 21° wordt opgeheven.
 
+### ART 2.
+
+In artikel 663/7, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 28 december 2019, worden de woorden “in eerste instantie gebruikt ter compensatie van de aanpassingscoëfficiënt en in tweede instantie worden deze” opgeheven.
+
 ### ART 3.
 
 Het ministerieel besluit van 13 januari 2021 tot vaststelling van de aanpassingscoëfficiënt in de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf wordt opgeheven.

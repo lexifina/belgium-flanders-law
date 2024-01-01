@@ -2,16 +2,16 @@
   "codex_id": 1038930,
   "title": "Besluit van de Vlaamse Regering van 2023-10-20 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wat betreft de wijziging en de opheffing van de aanpassingscoëfficiënt in de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038930/VolledigDocument?datum=2023-11-16",
-  "source_sha256": "19e644c2495700296eb5d0d5ac753b24f6fdeceb47a3488d8fafe767dfdd3a81",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038930/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0fb4ec1a64d8aff025d1ace7cb7fe96dd61d0a82b23e530b6988aed3298caf88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038930&param=informatie",
-  "as_of": "2023-11-16",
+  "as_of": "2024-01-01",
   "made": "2023-10-20",
   "gazette": "2023-11-06",
   "numac": 2023046804,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-11-16",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2023-11-16; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
