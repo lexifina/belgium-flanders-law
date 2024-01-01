@@ -343,21 +343,72 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 § 3. In elk geval neemt de Vlaamse regering het initiatief:<br>
 1° tot het bepalen van de door biotische factoren veroorzaakte infecties die gemeld moeten worden om maatregelen te kunnen nemen om uitbreiding van infecties tegen te gaan;<br>
 2° tot aanduiding van de ambtenaren-artsen die bevoegd zijn tot het nemen van maatregelen om uitbreiding van infecties tegen te gaan, onder voorbehoud van de verantwoordelijkheden van partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders;<br>
-3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 3, artikel 47 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie.
+3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 1, artikel 47 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie.
 
 ### ART. 45.
 
-§ 1. De Vlaamse regering bepaalt, na advies van de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de procedure van melding, de inhoud en de vorm van de melding, alsook de wijze van verwerking van de melding.<br>
+§1. Een verplichting tot melding van de infecties die door biotische factoren worden veroorzaakt, vermeld in artikel 44, §3, 1°, geldt voor de behandelende arts, het hoofd van een laboratorium van klinische biologie en de arts die belast is met het medisch toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, en residentiële zorginstellingen.<br>
 <br>
-In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op de uitvoering van artikel 44, § 2, bepaalt de Vlaamse regering, na advies van de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de omstandigheden waarin, de identiteit moet worden meegedeeld.<br>
+In het eerste lid wordt verstaan onder residentiële zorginstellingen:<br>
+1° de woonzorgcentra, vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
+2° de residentiële voorzieningen die erkend, vergund of gesubsidieerd worden door het Vlaams Agentschap voor Personen met een Handicap;<br>
+3° de revalidatieziekenhuizen, vermeld in artikel 2, 17°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging.<br>
 <br>
-§ 2. De gemelde gegevens worden aangewend met het oog op het nemen van initiatieven, als bedoeld in artikel 44, § 2, en in het bijzonder met het oog op het nemen van de maatregelen, als bedoeld in artikel 44, § 3, 2°.<br>
+§2. De melding, vermeld in paragraaf 1, kan al de volgende gegevens bevatten:<br>
+1°&nbsp;&nbsp; &nbsp;het identificatienummer van de sociale zekerheid van de geïnfecteerde persoon, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de voornamen en de achternaam van de geïnfecteerde persoon;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum van de geïnfecteerde persoon;<br>
+4°&nbsp;&nbsp; &nbsp;het geslacht van de geïnfecteerde persoon;<br>
+5°&nbsp;&nbsp; &nbsp;de vermoede of bevestigde diagnose van de meldingsplichtige infectie;<br>
+6°&nbsp;&nbsp; &nbsp;de identiteit en de contactgegevens van de melder;<br>
+7°&nbsp;&nbsp; &nbsp;de datum van de melding;<br>
+8°&nbsp;&nbsp; &nbsp;het land van geboorte van de geïnfecteerde persoon;<br>
+9°&nbsp;&nbsp; &nbsp;de nationaliteit van de geïnfecteerde persoon;<br>
+10° het domicilieadres van de geïnfecteerde persoon;<br>
+11° de gezinssamenstelling van de geïnfecteerde persoon;<br>
+12° het adres waar de geïnfecteerde persoon daadwerkelijk verblijft. Als de geinfecteerde persoon in een voorziening verblijft: de vermelding van de soort voorziening;<br>
+13° de gegevens die nodig zijn om contact te kunnen opnemen met de geïnfecteerde persoon, met inbegrip van het telefoonnummer en het e-mailadres van de betrokkene en van de persoon of wettelijke vertegenwoordiger die in geval van nood gecontacteerd moet worden, en de vermelding van de relatie van die persoon tot de betrokkene;<br>
+14° het beroep van de geïnfecteerde persoon;<br>
+15° de werkplaats van de geïnfecteerde persoon;<br>
+16° de activiteiten, contacten en aanwezigheden op plaatsen tijdens de maximale incubatieperiode en tijdens de ziekteperiode;<br>
+17° de volgende informatie over de ziekte:<br>
+a)&nbsp;&nbsp; &nbsp;de startdatum van de symptomen;<br>
+b)&nbsp;&nbsp; &nbsp;de datum en de resultaten van klinisch, technisch en labotechnisch onderzoek en medische beeldvorming;<br>
+c)&nbsp;&nbsp; &nbsp;de ingestelde therapie;<br>
+d)&nbsp;&nbsp; &nbsp;de outcome (sequellen, overleden, genezen) na acuut ziektestadium;<br>
+18° informatie over onderliggend lijden, therapie en antecedenten;<br>
+19° de vaccinatiestatus van de geïnfecteerde persoon;<br>
+20° in voorkomend geval de zwangerschap van de geïnfecteerde persoon;<br>
+21° de coördinaten van de behandelende arts en, in voorkomend geval, van de arts-specialist en van het ziekenhuis;<br>
+22° de vermoede bron van besmetting;<br>
+23° de dossierreferentie van de melder.<br>
 <br>
-Deze gegevens kunnen ook worden verwerkt voor statistische of beleidsondersteunende doeleinden voorzover de betrokkenen niet of niet meer identificeerbaar zijn.<br>
+Als de melder op de hoogte is van de gegevens, vermeld in het eerste lid, 1° tot en met 7°, is de melder verplicht deze gegevens op te nemen in de melding. De gegevens, vermeld in het eerste lid, 8° tot en met 23°, kunnen door de melder worden opgenomen in de melding. Op verzoek van de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, deelt de melder de opgevraagde gegevens, vermeld in het eerste lid, 8° tot en met 23°, mee als de melder op de hoogte is van deze gegevens.<br>
 <br>
-Deze gegevens worden voor geen andere doeleinden gebruikt dan voor die welke vermeld zijn in het eerste en tweede lid.<br>
+De melding, vermeld in het eerste lid, wordt gedaan aan een ambtenaar-arts als vermeld in artikel 44, §3, 2°.<br>
 <br>
-§ 3. De verplichting tot melding geldt voor de behandelende arts, het hoofd van een laboratorium van klinische biologie en de arts, belast met het medisch toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, rust- en verzorgingstehuizen en rustoorden voor bejaarden.
+In afwijking van het derde lid kan de Vlaamse Regering vaststellen in welke specifieke gevallen de melding, vermeld in paragraaf 1, aan andere personen dan de ambtenaar-arts, vermeld in artikel 44, §3, 2°, kan worden gedaan.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de termijn waarin de melding wordt gedaan, en de vorm en de wijze van de melding.<br>
+<br>
+§3. De gegevens, vermeld in paragraaf 2, eerste lid, worden verwerkt met het oog op het nemen van initiatieven als vermeld in artikel 44, §2, en in het bijzonder met het oog op het nemen van de maatregelen, vermeld in artikel 44, §3, 2°.<br>
+<br>
+De gegevens, vermeld in paragraaf 2, eerste lid, kunnen ook worden verwerkt voor statistische, wetenschappelijke en beleidsondersteunende doeleinden, op voorwaarde dat de personen niet of niet meer identificeerbaar zijn.<br>
+<br>
+§4. De ambtenaar-arts, vermeld in artikel 44, §3, 2°, legt over elke infectieziekte die gemeld wordt, een dossier aan. Dat dossier wordt aangevuld met alle informatie die ingewonnen wordt met toepassing van artikel 46, 3°, a), en artikel 48, en kan worden aangevuld met alle verdere informatie die daarvoor noodzakelijk is.<br>
+&nbsp;<br>
+Het dossier, vermeld in het eerste lid, wordt in zijn geheel maximaal dertig jaar bewaard in geval van tuberculose en maximaal tien jaar als het een andere infectieziekte betreft.<br>
+<br>
+In afwijking van het tweede lid kan het dossier langer dan respectievelijk dertig of tien jaar bewaard worden als het dossier deel uitmaakt van een gerechtelijk onderzoek of als het vermoeden bestaat dat het dossier aanleiding kan geven tot een gerechtelijk onderzoek. In voorkomend geval wordt het dossier bewaard tot het gerechtelijk onderzoek gesloten wordt of tot er geen redelijk vermoeden meer is dat het dossier aanleiding kan geven tot een gerechtelijk onderzoek.<br>
+<br>
+De Vlaamse Regering kan de volgende aspecten nader regelen:<br>
+1° &nbsp; de wijze waarop het dossier bewaard wordt, vermeld in het eerste lid;<br>
+2° de wijze waarop de gegevens van het dossier, vermeld in het eerste lid, worden geanonimiseerd na afloop van de bewaartermijn, vermeld in het tweede of derde lid;<br>
+3° de wijze waarop de geanonimiseerde gegevens van het dossier worden bewaard.<br>
+<br>
+§5. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke, in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming, voor het dossier, vermeld in paragraaf 4, eerste lid.<br>
+<br>
+§6. De Vlaamse Regering kan technische en organisatorische maatregelen opleggen voor de verwerking van de persoonsgegevens, vermeld in dit artikel.
 
 ### ART. 46.
 
@@ -395,7 +446,7 @@ Iedere betrokkene heeft de plicht de aangeduide ambtenaren-artsen, bedoeld in ar
 
 ### ART. 49.
 
-§ 1. Als de verplichtingen, vermeld in artikel 45, § 3, artikel 47, § 1 en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
+§ 1. Als de verplichtingen, vermeld in artikel 45, § 1, artikel 47, § 1 en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
 <br>
 § 2. Ten aanzien van natuurlijke personen zie zich bevinden op het grondgebied van het tweetalig gebied Brussel-Hoofdstad, zijn de artikelen 46 tot en met 49, § 1, enkel van toepassing op deze personen die vrijwillig beroep hebben gedaan op een voorziening die wegens haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van Vlaamse Gemeenschap.
 
@@ -560,7 +611,7 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 3° ...<br>
 4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36 en in artikel 75bis, § 2;<br>
 5° meewerken aan het registratiesysteem, zoals bedoeld in artikel 43, § 3;<br>
-6° infectieziekten melden, zoals bedoeld in artikel 45, § 3;<br>
+6° infectieziekten melden als vermeld in artikel 45, §1;<br>
 7° aanvullende informatie meedelen aan de ambtenaar-arts en de ambtenaar, zoals bedoeld in artikel 48.<br>
 <br>
 § 2. Het bedrag van de opgelegde administratieve geldboete wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de inbreuken op de bepalingen.<br>
