@@ -61,7 +61,7 @@ De bepalingen van dit besluit zijn van toepassing op:<br>
 HOOFDSTUK 10, - afdeling 1, is ook van toepassing op:<br>
 1° de voorzieningen voor vrijetijdszorg;<br>
 2° de centra voor ontwikkelingsstoornissen;<br>
-3° de centra voor revalidatie;<br>
+3° ...;<br>
 4° het centraal tolkenbureau;<br>
 5° de bijstandsorganisaties;<br>
 6° het steunpunt voor kennisbeheer en netwerkvorming;<br>
@@ -232,7 +232,7 @@ De individuele dienstverleningsovereenkomst wordt verder geconcretiseerd in een 
 <br>
 Het handelingsplan wordt door beide partijen voor akkoord ondertekend en maakt integraal deel uit van de individuele dienstverleningsovereenkomst.<br>
 <br>
-Het handelingsplan wordt op regelmatige tijdstippen geëvalueerd en zo nodig bijgestuurd in overleg met de persoon met een handicap. Het overleg voldoet aan de vereisten, vermeld in artikel 10, eerste lid.<br>
+Het handelingsplan wordt voor meerderjarige gebruikers minstens om de drie jaar en voor minderjarige gebruikers minstens elk jaar geëvalueerd en zo nodig bijgestuurd in overleg met de persoon met een handicap. Het overleg voldoet aan de vereisten, vermeld in artikel 10, eerste lid.<br>
 <br>
 De individuele dienstverleningsovereenkomst bepaalt de frequentie, het tijdstip en de wijze van evalueren van het handelingsplan. De persoon met een handicap kan altijd bijkomend een evaluatie van het handelingsplan vragen. Als wijzigingen van het handelingsplan resulteren in wijzigingen van de duur of frequentie van de verschillende ondersteuningsfuncties van de individuele dienstverleningsovereenkomst, wordt die overeenkomst aangepast.
 
@@ -320,7 +320,7 @@ Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan d
 
 ### ART. 24.
 
-In het dossier worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+In het dossier worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de wet van 3 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
 &nbsp;
 
 ### ART. 25.
@@ -389,7 +389,7 @@ Als verschillende voorzieningen tot dezelfde inrichtende macht behoren, wijzen d
 
 ### ART. 30.
 
-De voorzieningen die met toepassing van artikel 27 geen collectief overlegorgaan hoeven op te richten, organiseren collectieve inspraak voor de gebruikers of hun vertegenwoordigers.<br>
+De voorzieningen die met toepassing van artikel 27 geen collectief overlegorgaan hoeven op te richten, organiseren minstens collectieve inspraak voor de gebruikers of hun vertegenwoordigers voor de punten, vermeld in artikel 29, §1, eerste lid, 1° tot en met 3°.<br>
 <br>
 In&nbsp;de collectieve rechten en plichten wordt de wijze bepaald waarop die collectieve inspraak georganiseerd wordt.<br>
 <br>
@@ -435,7 +435,20 @@ De gebruiker of zijn vertegenwoordiger kan steeds een schriftelijke klacht indie
 
 ### ART. 35.
 
-§ 1. Als de afhandeling van de klacht overeenkomstig de bij artikel 34 vastgestelde procedure de indiener geen voldoening schenkt, kan die zich schriftelijk wenden tot een bij elke voorziening op te richten interne klachtencommissie.<br /><br />Die klachtencommissie bestaat uit een vertegenwoordiger van de inrichtende macht van de voorziening en een persoon die is aangewezen door het collectief overlegorgaan of, bij ontstentenis daarvan, door de gebruikers of hun vertegenwoordigers in het collectief overleg.<br /><br />§ 2. De klachtencommissie behandelt de klacht, hoort alle betrokken partijen en poogt ze te verzoenen. <br /><br />De indiener van de klacht kan zich laten bijstaan door een derde.<br /><br />De klachtencommissie deelt binnen dertig dagen nadat ze de klacht ter behandeling voorgelegd heeft gekregen, haar oordeel over de klacht schriftelijk mee aan de indiener en aan de voorziening.<br /><br />Als beide leden van de klachtencommissie het niet eens zijn over het uit te brengen oordeel, worden beide standpunten meegedeeld.<br /><br />§ 3. Als de klacht gegrond wordt bevonden, moet de voorziening binnen dertig dagen na de mededeling van het oordeel van de klachtencommissie aan de indiener schriftelijk meedelen welk gevolg eraan gegeven wordt.<br /><br />
+§ 1. Als de afhandeling van de klacht overeenkomstig de bij artikel 34 vastgestelde procedure de indiener geen voldoening schenkt, kan die zich schriftelijk wenden tot een bij elke voorziening op te richten interne klachtencommissie.<br>
+<br>
+Die klachtencommissie bestaat uit een vertegenwoordiger van de inrichtende macht van de voorziening en een persoon die is aangewezen door het collectief overlegorgaan of, bij ontstentenis daarvan, door de gebruikers of hun vertegenwoordigers in het collectief overleg.&nbsp;De voormelde vertegenwoordiger van de inrichtende macht kan niet dezelfde persoon zijn die de klacht conform artikel 34 heeft behandeld.<br>
+<br>
+§ 2. De klachtencommissie behandelt de klacht, hoort alle betrokken partijen en poogt ze te verzoenen.<br>
+<br>
+De indiener van de klacht kan zich laten bijstaan door een derde.<br>
+<br>
+De klachtencommissie deelt binnen dertig dagen nadat ze de klacht ter behandeling voorgelegd heeft gekregen, haar oordeel over de klacht schriftelijk mee aan de indiener en aan de voorziening.<br>
+<br>
+Als beide leden van de klachtencommissie het niet eens zijn over het uit te brengen oordeel, worden beide standpunten meegedeeld.<br>
+<br>
+§ 3. Als de klacht gegrond wordt bevonden, moet de voorziening binnen dertig dagen na de mededeling van het oordeel van de klachtencommissie aan de indiener schriftelijk meedelen welk gevolg eraan gegeven wordt.<br>
+&nbsp;
 
 ### ART. 36.
 
@@ -445,43 +458,59 @@ Als de afhandeling van de klacht overeenkomstig de procedure, vastgesteld in art
 
 ### ART. 37.
 
-§ 1. De voorziening verbindt er zich toe de zorg of ondersteuning van de gebruiker niet eenzijdig te beëindigen, tenzij om een van de volgende redenen:<br>
-1° in geval van overmacht;<br>
-2° ...;<br>
-3° als de gebruiker niet meer aan de bijzondere opnamevoorwaarden, vermeld in de collectieve rechten en plichten, voldoet;<br>
-4° als de lichamelijke of geestelijke toestand van de gebruiker dermate gewijzigd is dat het zorgaanbod van de voorziening niet meer kan beantwoorden aan de noden en zorgvragen van de gebruiker;<br>
-5° als de gebruiker of zijn wettelijke vertegenwoordiger de verplichtingen, vastgelegd in&nbsp;de individuele dienstverleningsovereenkomst of&nbsp;de collectieve rechten en plichten niet nakomt;<br>
-6° als de gebruiker of zijn vertegenwoordiger bedrieglijke gegevens heeft verstrekt over de verklaring op erewoord, vermeld in punt 9 van bijlage 1, die bij dit besluit is gevoegd;<br>
-7° als de gebruiker of zijn vertegenwoordiger geen overeenkomst sluit met het agentschap als hij een vergoeding voor hulp van derden of ondersteuning door een voorziening heeft ontvangen, om die vergoeding voor de ondersteuning aan te wenden of de verplichtingen van die overeenkomst niet nakomt.<br>
+§1. De voorziening beëindigt de zorg of ondersteuning van de gebruiker niet eenzijdig, tenzij om een van de volgende redenen:<br>
+1° wegens overmacht;<br>
+2° als de gebruiker niet meer aan de bijzondere opnamevoorwaarden, vermeld in de collectieve rechten en plichten, voldoet;<br>
+3° als de lichamelijke of geestelijke toestand van de gebruiker in die mate is gewijzigd dat het zorgaanbod van de voorziening niet meer kan beantwoorden aan de behoeften en zorgvragen van de gebruiker;<br>
+4° als de gebruiker of zijn wettelijke vertegenwoordiger de verplichtingen, vermeld in de individuele dienstverleningsovereenkomst, of de collectieve rechten en plichten niet nakomt;<br>
+5° als de gebruiker of zijn vertegenwoordiger bedrieglijke gegevens heeft verstrekt over de verklaring op erewoord, vermeld in punt 12° van bijlage 1, die bij dit besluit is gevoegd;<br>
+6° als de gebruiker of zijn vertegenwoordiger geen overeenkomst sluit met het agentschap als hij een vergoeding voor hulp van derden of ondersteuning door een voorziening heeft ontvangen, om die vergoeding voor de ondersteuning aan te wenden, of de verplichtingen van die overeenkomst niet nakomt.<br>
 <br>
-De voorziening motiveert schriftelijk het eenzijdige ontslag of de beëindiging van de ondersteuning.<br>
+§2. De voorziening gaat bij een eenzijdige beëindiging van de zorg en ondersteuning samen met de gebruiker op zoek naar een oplossing zodat de continuïteit van de zorg of ondersteuning verzekerd kan worden. Als dat nodig is, wordt onderzocht of in samenwerking met een andere voorziening de continuïteit van de zorg of ondersteuning verzekerd kan worden.<br>
 <br>
-§ 2. Een voorziening kan nooit de beëindiging of schorsing van een arbeidsovereenkomst van een tewerkgestelde gebruiker inroepen als reden voor het ontslag of voor het beëindigen van de ondersteuning.<br>
-&nbsp;
+De voorziening bezorgt een voornemen om over te gaan tot een eenzijdige beëindiging van de zorg en ondersteuning aan de gebruiker of zijn wettelijke vertegenwoordiger. De voorziening motiveert in het voormelde voornemen uitvoerig de redenen van het ontslag en vermeldt de mogelijkheid om het voornemen te betwisten conform artikel 38.<br>
+<br>
+§3. Voor gebruikers van voorzieningen als vermeld in artikel 4, eerste lid, 2°, van dit besluit kan de voorziening pas overgaan tot een eenzijdige beëindiging van de zorg en ondersteuning, nadat al de volgende stappen zijn ondernomen:<br>
+1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn wettelijke vertegenwoordiger;<br>
+2° er is een beroep gedaan op hoogdrempelige individuele bijstand als vermeld in artikel 12, eerste lid, 8°, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering;<br>
+3° er is een beroep gedaan op intensieve bemiddeling als vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap.<br>
+<br>
+Voor gebruikers van voorzieningen als vermeld in artikel 4, eerste lid, 3°, van dit besluit, kan de voorziening pas overgaan tot een eenzijdige beëindiging van de zorg en ondersteuning, nadat al de volgende stappen zijn ondernomen:<br>
+1° er is een overleg geweest tussen de voorziening en de gebruiker of zijn wettelijke vertegenwoordiger;<br>
+2° er heeft bemiddeling als vermeld in artikel 30, tweede lid, 3°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, plaatsgehad.<br>
+<br>
+§4. Als een van de stappen, vermeld in paragraaf 3, niet is gevolgd, motiveert de voorziening omstandig waarom die stap niet is gevolgd.<br>
+<br>
+Een voorziening kan nooit de beëindiging of schorsing van een arbeidsovereenkomst van een tewerkgestelde gebruiker inroepen als reden voor het ontslag of voor het beëindigen van de ondersteuning.
 
 ### ART. 38.
 
-§ 1. In geval van betwisting van&nbsp;de eenzijdige beëindiging van de zorg of ondersteuning, kan de gebruiker of zijn vertegenwoordiger die betwisting binnen dertig dagen voorleggen aan de klachtencommissie, vermeld in artikel 35.<br>
+§ 1. In geval van het voornemen om over te gaan tot de eenzijdige beëindiging van de zorg of ondersteuning, vermeld in artikel 37, §2, tweede lid, kan de gebruiker of zijn vertegenwoordiger die betwisting binnen dertig dagen voorleggen aan de klachtencommissie, vermeld in artikel 35.<br>
 <br>
 In afwijking van artikel 35, § 1, moet vooraf geen schriftelijke klacht bij de directie van de voorziening ingediend worden.<br>
 <br>
-§ 2. Voor de behandeling van de betwisting van de eenzijdige beëindiging van de zorg of ondersteuning, wordt de klachtencommissie uitgebreid met een onafhankelijke derde.<br>
+§ 2. Voor de behandeling van het voornemen om over te gaan tot de eenzijdige beëindiging van de zorg of ondersteuning, vermeld in artikel 37, §2, tweede lid, wordt de klachtencommissie uitgebreid met een onafhankelijke derde.<br>
 <br>
 De onafhankelijke derde, die bij voorkeur een expert in bemiddeling is, wordt aangewezen in onderling overleg door de voorziening en het collectief overlegorgaan, of bij ontstentenis daarvan, in overleg met de gebruikers of hun vertegenwoordigers door middel van de collectieve inspraak, vermeld in artikel 30. Het mandaat van de onafhankelijke derde heeft een termijn van vier jaar en is hernieuwbaar.<br>
 <br>
-§ 3. De klachtencommissie hoort alle betrokken partijen en poogt ze te verzoenen binnen dertig dagen nadat ze de betwisting van&nbsp;de eenzijdige&nbsp;beëindiging van de zorg of ondersteuning ter behandeling voorgelegd heeft gekregen. Het resultaat van een verzoening wordt opgenomen in de individuele dienstverleningsovereenkomst.<br>
+§ 3. De klachtencommissie hoort alle betrokken partijen, gaat na of de stappen overeenkomstig artikel 37, §3, gevolgd zijn, en poogt ze te verzoenen binnen dertig dagen nadat ze het voornemen om over te gaan tot de eenzijdige beëindiging van de zorg of ondersteuning, vermeld in artikel 37, §2, tweede lid, ter behandeling voorgelegd heeft gekregen. Het resultaat van een verzoening wordt opgenomen in de individuele dienstverleningsovereenkomst.<br>
 <br>
-Als dat nodig is, wordt onderzocht of in samenwerking met een andere voorziening de continuïteit van de zorg of ondersteuning verzekerd kan worden. Die samenwerking wordt opgenomen in de individuele dienstverleningsovereenkomst.<br>
-<br>
-§ 4. Als de bemiddeling van de klachtencommissie niet resulteert in een gepaste oplossing binnen de voorziening, verbindt de voorziening er zich toe mee te werken bij het zoeken naar een gepaste oplossing.<br>
+§ 4. ...<br>
 &nbsp;
+
+### ART 38/1.
+
+De voorziening kan pas overgaan tot ontslag nadat de termijn, vermeld in artikel 38, §1, verstreken is of nadat de klachtenprocedure, vermeld in artikel 38, §2 en §3, volledig is doorlopen.<br>
+<br>
+De voorziening motiveert schriftelijk en uitvoerig de reden of redenen van het ontslag.<br>
+<br>
+De voorziening bezorgt het ontslag met een aangetekende brief aan de gebruiker of zijn vertegenwoordiger.
 
 ### ART. 39.
 
 De opzegtermijn voor beëindiging van de schriftelijke overeenkomst bedraagt drie maanden, tenzij bij de opzegging tussen de partijen een kortere termijn overeengekomen wordt.<br>
 <br>
-Als met toepassing van artikel 38 de opzegging voorgelegd wordt aan de klachtencommissie, wordt de opzegtermijn geschorst voor de duur van de bemiddeling.<br>
-&nbsp;
+De opzegtermijn, vermeld in het eerste lid, begint op de dag waarop de voorziening de gebruiker of zijn vertegenwoordiger schriftelijk op de hoogte heeft gebracht van het ontslag conform artikel 38/1.
 
 ### ART. 40.
 
@@ -493,17 +522,26 @@ De verbrekingsvergoeding is het equivalent van de vergoeding die verschuldigd zo
 
 De voorziening waarborgt in overleg met de gebruiker of zijn vertegenwoordiger een verantwoorde overdracht van relevante informatie aan de nieuwe voorziening met betrekking tot de ondersteuning.<br /><br />
 
+### ART 41/1.
+
+De voorziening bekijkt na de onderbreking van de ondersteuning waarbij de individuele dienstverleningsovereenkomst is beëindigd of aangepast, of ze de oorspronkelijke ondersteuning opnieuw kan opnemen of gaat samen met de gebruiker of zijn wettelijke vertegenwoordiger op zoek naar een oplossing zodat de continuïteit van de zorg of ondersteuning verzekerd kan worden.
+
 ## HOOFDSTUK 8 Bescherming van de integriteit
 
 ## Afdeling 1 Grensoverschrijdend gedrag
 
 ### ART. 42.
 
-De voorziening ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van de gebruikers.<br /><br />De voorziening hanteert een procedure voor preventie, detectie van en gepast reageren op grensoverschrijdend gedrag ten aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen, dat voldoet aan de verplichtingen die voortvloeien uit de wetgeving betreffende de verwerking van persoonsgegevens.<br /><br />
+De voorziening ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van de gebruikers of medewerkers.<br>
+<br>
+De voorziening hanteert een procedure voor preventie, detectie van en gepast reageren op grensoverschrijdend gedrag ten aanzien van de gebruikers of medewerkers. In die procedure is een registratiesysteem opgenomen, dat voldoet aan de verplichtingen die voortvloeien uit de wetgeving betreffende de verwerking van persoonsgegevens.<br>
+&nbsp;
 
 ### ART. 43.
 
-Grensoverschrijdend gedrag ten aanzien van de gebruikers wordt gemeld aan het agentschap.<br>
+Grensoverschrijdend gedrag ten aanzien van de gebruikers wordt&nbsp;binnen dertig dagen nadat die is geregistreerd door de voorziening, gemeld aan het agentschap<br>
+<br>
+Het agentschap bepaalt de wijze waarop de melding, vermeld in het eerste lid, gebeurt.<br>
 &nbsp;
 
 ## Afdeling 2 Afzonderingsmaatregelen
@@ -529,6 +567,14 @@ De procedure beschrijft ten minste de wijze waarop :<br>
 3° toezicht gehouden wordt op de gebruiker tijdens de tijdelijke afzondering.<br>
 &nbsp;
 
+## Afdeling 3. Ernstige gebeurtenissen
+
+### ART 45/1.
+
+Ernstige gebeurtenissen die de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de integriteit van de gebruikers in het gedrang kunnen brengen, of die daarop een ernstige impact hebben, worden onmiddellijk aan het agentschap gemeld.<br>
+<br>
+Het agentschap bepaalt de wijze waarop de melding, vermeld in het eerste lid, gebeurt.
+
 ## HOOFDSTUK 9 Kwaliteitszorg
 
 ## Afdeling 1 Kwaliteitshandboek
@@ -541,11 +587,46 @@ De procedure beschrijft ten minste de wijze waarop :<br>
 
 ### ART. 47.
 
-De zelfevaluatie die de voorziening uitvoert, bevat minstens : <br />1° een evaluatie van de gebruikersgerichte processen;<br />2° een evaluatie van de organisatiegerichte processen en ingezette middelen.<br /><br />Die zelfevaluatie gebeurt in samenspraak met de gebruikers en de medewerkers.<br /><br />Bij de evaluatie, vermeld in punt 1° en 2°, wordt in het bijzonder aandacht geschonken aan de doeltreffendheid en doelmatigheid van de processen.<br /><br />Onder doeltreffendheid wordt verstaan, de mate waarin de doelstellingen gerealiseerd worden. Onder doelmatigheid wordt verstaan, de mate waarin de resultaten zich verhouden tot de middelen. Met middelen worden onder meer bedoeld : personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden.<br /><br />
+De zelfevaluatie die de voorziening uitvoert, bevat minstens :<br>
+1° een evaluatie van de gebruikersgerichte processen;<br>
+2° een evaluatie van de organisatiegerichte processen en ingezette middelen;<br>
+3° de evaluatie van het beleidsplan, vermeld in artikel 48/1.<br>
+<br>
+Die zelfevaluatie gebeurt in samenspraak met de gebruikers en de medewerkers.<br>
+<br>
+Bij de evaluatie, vermeld in punt 1° en 2°, wordt in het bijzonder aandacht geschonken aan de doeltreffendheid en doelmatigheid van de processen.<br>
+<br>
+Onder doeltreffendheid wordt verstaan, de mate waarin de doelstellingen gerealiseerd worden. Onder doelmatigheid wordt verstaan, de mate waarin de resultaten zich verhouden tot de middelen. Met middelen worden onder meer bedoeld : personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden.<br>
+&nbsp;
 
 ### ART. 48.
 
 Bij elk van de evaluaties, vermeld in artikel 47, worden de vijf stappen die omschreven worden in artikel 5, § 3, tweede lid, 1° tot en met 5°, van het decreet van 17 oktober 2003 doorlopen, telkens gedurende een periode van maximaal vijf jaar.<br /><br />
+
+### ART 48/1.
+
+In dit artikel wordt verstaan onder beleidsplan: een plan dat de directie van de voorzieningen, vermeld in artikel 4, eerste lid, 1°, 2°, 3°, en 5°, na een overleg met de werknemersvertegenwoordigers in de sociale overlegorganen en de gebruikers uitwerkt om een kwaliteitsvolle inzet van het personeel te garanderen.<br>
+<br>
+De directie van de voorzieningen, vermeld in het eerste lid, maakt het beleidsplan op na een overleg met de werknemersvertegenwoordiging en kan dat aantonen.<br>
+<br>
+Het beleidsplan bevat al de volgende doelstellingen:<br>
+1° de voorzieningen, vermeld in het eerste lid, versterken de interne werking om continuïteit in zorg en ondersteuning te bieden;<br>
+2° de voorzieningen, vermeld in het eerste lid, beschikken over competente medewerkers;<br>
+3° de voorzieningen, vermeld in het eerste lid, dragen via hun werking en hun zorg- en ondersteuningsaanbod bij tot een versterking van de levenskwaliteit van de persoon met een handicap en vertrekken van de behoefte van de persoon met een handicap en van zelfregie;<br>
+4° de infrastructuur die de voorzieningen, vermeld in het eerste lid, inzetten, is kwaliteitsvol;<br>
+5° de voorzieningen, vermeld in het eerste lid, spelen in op het veranderende zorglandschap;<br>
+6° de voorzieningen, vermeld in het eerste lid, zijn financieel leefbaar.<br>
+<br>
+Per doelstelling, vermeld in het derde lid, wordt na een overleg met de relevante stakeholders door de voorzieningen, vermeld in het eerste lid, minimaal één indicator bepaald waaraan een streefdoel wordt gekoppeld.<br>
+<br>
+Per indicator, vermeld in het vierde lid, worden aan de sociale overlegorganen jaarlijks relevante gegevens bezorgd en geduid. Op basis van de voormelde gegevens kunnen de voorzieningen, vermeld in het eerste lid, nieuwe indicatoren en streefdoelen formuleren.<br>
+<br>
+Het eerste beleidsplan is afgewerkt uiterlijk binnen een jaar nadat de eerste individuele dienstverleningsovereenkomst is ingegaan.<br>
+<br>
+In de volgende gevallen stellen de voorzieningen, vermeld in het eerste lid, een beleidsplan op conform het model van beleidsplan, dat is opgenomen in bijlage 6, die bij dit besluit is gevoegd:<br>
+1° er is geen beleidsplan;<br>
+2° er worden geen relevante gegevens als vermeld in vijfde lid, bezorgd en geduid;<br>
+3° alle indicatoren en streefdoelen wijken in sterke mate af van de doelstellingen.
 
 ## Afdeling 3 Kwaliteitsindicatoren
 
@@ -584,14 +665,15 @@ De personeelsleden van Zorginspectie zijn belast met het toezicht op het naleven
 
 ### ART. 54.
 
-De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
-&nbsp;
+De voorziening stelt verslagen van het toezicht, vermeld in artikel 53, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
+<br>
+Verslagen van toezicht naar aanleiding van een klacht of melding kunnen opgevraagd worden bij Zorginspectie.
 
 ### ART. 55.
 
 § 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van Zorginspectie dat vast in het verslag van het toezicht. Dat&nbsp;verslag geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br>
 <br>
-§ 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.<br>
+§ 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.&nbsp;De voorziening brengt het agentschap binnen de voormelde termijn op de hoogte van de manier waarop de inbreuk is weggewerkt. Als de voormelde termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de wijze waarop en de termijn waarin de inbreuk wel weggewerkt zal zijn.<br>
 <br>
 De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termijn schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar de vraag om de nodige maatregelen te treffen.<br>
 &nbsp;
@@ -600,42 +682,42 @@ De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termi
 
 § 1. Na afloop van de opgelegde termijn, vermeld in artikel 55, § 2, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht.<br>
 <br>
-De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
+De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
 <br>
-§ 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening begeleidende maatregelen opleggen, zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.<br>
+§ 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening begeleidende maatregelen opleggen, zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.&nbsp;De voorziening brengt het agentschap, binnen de voormelde termijn, ervan op de hoogte op welke wijze de inbreuk is weggewerkt. Als de voormelde termijn niet gehaald kan worden, bezorgt de voorziening aan het agentschap een plan over de wijze waarop en de termijn waarin de inbreuk wel weggewerkt zal zijn.<br>
 <br>
 De voorziening heeft het recht om tegen die begeleidende maatregelen schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of ontkracht de leidend ambtenaar de maatregel.<br>
 <br>
-§ 3. De voorziening brengt binnen veertien dagen na de betekening van de maatregel, vermeld in paragraaf 2, de gebruikers of hun vertegenwoordigers daarvan op de hoogte via het collectief overleg van de voorziening of, bij ontstentenis daarvan de gebruikers individueel.<br>
+§ 3. De voorziening brengt binnen veertien dagen na de betekening van de maatregel, vermeld in paragraaf 2, de gebruikers of hun vertegenwoordigers daarvan op de hoogte via het collectief overleg van de voorziening of, bij ontstentenis daarvan de gebruikers individueel en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
 &nbsp;
 
 ### ART. 57.
 
-§ 1. Na afloop van de opgelegde termijn,vermeld in artikel 56, § 2, tweede lid, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht.<br>
+§ 1. Na afloop van de opgelegde termijn,vermeld in artikel 56, § 2, tweede lid, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht en de begeleidende maatregelen die zijn opgelegd.<br>
 <br>
-De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
+De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
 <br>
-§ 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening een administratieve geldboete van 100 tot 100.000 euro opleggen. Het bedrag van de opgelegde administratieve geldboete wordt vastgesteld met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan. De administratieve geldboete wordt aan de voorziening betekend. De leidend ambtenaar zal tevens de voorziening gelasten binnen een termijn van hoogstens twaalf maanden de nodige maatregelen te treffen om aan de verplichtingen te voldoen.<br>
+§ 2. Als blijkt dat de begeleidende maatregelen niet zijn uitgevoerd of de maatregelen die zijn genomen, niet voldoen om de tekortkomingen weg te werken, kan de leidend ambtenaar de voorziening een administratieve geldboete van 100 tot 100.000 euro opleggen.&nbsp;Het bedrag van de opgelegde administratieve geldboete wordt vastgesteld met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan. De administratieve geldboete wordt aan de voorziening betekend. De leidend ambtenaar zal tevens de voorziening gelasten binnen een termijn van hoogstens twaalf maanden de nodige maatregelen te treffen om aan de verplichtingen te voldoen.<br>
 <br>
 De voorziening heeft het recht schriftelijk bezwaar in te dienen bij de minister, bevoegd voor de bijstand aan personen, op straffe van verval binnen veertien dagen na ontvangst van de betekening. Na onderzoek van de bezwaren bevestigt of ontkracht de minister de administratieve geldboete of de vraag om de nodige maatregelen te treffen.<br>
 <br>
-§ 3. De voorziening brengt binnen veertien dagen na de betekening van de geldboete de gebruikers daarvan op de hoogte via het collectief overleg van de voorziening, of bij ontstentenis daarvan de gebruikers individueel.<br>
+§ 3. De voorziening brengt binnen veertien dagen na de betekening van de geldboete de gebruikers daarvan op de hoogte via het collectief overleg van de voorziening, of bij ontstentenis daarvan de gebruikers individueel en aan hun medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
 &nbsp;
 
 ### ART. 58.
 
 § 1. Zorginspectie voert één jaar na de termijn, vermeld in artikel 57, § 2, eerste lid, een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden.<br>
 <br>
-De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers en de medewerkers.<br>
+De voorziening stelt het verslag van het toezicht, vermeld in het eerste lid, ter beschikking van de gebruikers of hun vertegenwoordigers, via het collectief overleg van de voorziening of, als er geen collectief overleg heeft plaatsgevonden, raadpleegbaar voor haar gebruikers op een toegankelijke wijze en de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordigers.<br>
 <br>
-§ 2. De leidend ambtenaar legt, met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan, de voorziening een nieuwe termijn op van minstens&nbsp;drie en hoogstens twaalf maanden om aan de verplichtingen te voldoen. Voor het verstrijken van die termijn legt de voorziening de bewijzen voor van de genomen maatregelen. De leidend ambtenaar kan Zorginspectie een onderzoek van de genomen maatregelen gelasten.<br>
+§ 2. De leidend ambtenaar legt, met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan, de voorziening een nieuwe termijn op van minstens&nbsp;drie en hoogstens twaalf maanden om aan de verplichtingen te voldoen.&nbsp;De leidend ambtenaar kan de voorziening begeleidende maatregelen opleggen zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Voor het verstrijken van die termijn legt de voorziening de bewijzen voor van de genomen maatregelen. De leidend ambtenaar kan Zorginspectie een onderzoek van de genomen maatregelen gelasten.<br>
 &nbsp;
 
 ### ART. 59.
 
 Als de voorziening na toepassing van de procedure, vermeld in artikel 58, niet voldoet aan de gestelde voorwaarden, kan de leidend ambtenaar de erkenning of vergunning van de voorziening opschorten of intrekken. Het agentschap brengt de voorziening schriftelijk op de hoogte van zijn gemotiveerde beslissing.<br>
 <br>
-De voorziening brengt de gebruikers van de voorziening of hun vertegenwoordigers via het collectief overlegorgaan van de voorziening onverwijld schriftelijk op de hoogte gebracht van die beslissing. Bij ontstentenis van een collectief overlegorgaan van de voorziening wordt elke gebruiker of zijn vertegenwoordiger individueel schriftelijk van de beslissing op de hoogte gebracht.<br>
+De voorziening brengt de gebruikers van de voorziening of hun vertegenwoordigers via het collectief overlegorgaan van de voorziening onverwijld schriftelijk op de hoogte gebracht van die beslissing. Bij ontstentenis van een collectief overlegorgaan van de voorziening wordt elke gebruiker of zijn vertegenwoordiger individueel schriftelijk van de beslissing op de hoogte gebracht.&nbsp;De voorziening brengt de medewerkers via de sociale overlegorganen met de werknemersvertegenwoordiger op de hoogte van die beslissing.<br>
 <br>
 De voorziening kan tegen de opschorting of intrekking van de erkenning beroep aantekenen overeenkomstig artikel 15 tot en met 17 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.<br>
 &nbsp;
@@ -720,7 +802,12 @@ De individuele dienstverleningsovereenkomst, vermeld in artikel 9 bevat de volge
 11° de elementen die aanleiding geven tot een afzonderlijke vergoeding, voor zover die niet vermeld zijn in of afwijken van de collectieve rechten en plichten;<br>
 12° een verklaring op erewoord van de gebruiker dat hij geen vergoeding voor hulp van derden of ondersteuning door een voorziening heeft ontvangen of dat hij geen aanspraak kan maken op een dergelijke vergoeding. Als de gebruiker een dergelijke vergoeding heeft ontvangen of mogelijk aanspraak op een dergelijke vergoeding kan maken, brengt hij het agentschap en de voorziening daarvan onmiddellijk op de hoogte;<br>
 13° als het beheer van gelden of goederen van de gebruiker aan personeelsleden of beheerders van de voorziening wordt toevertrouwd, een rubriek "Beheer van gelden en goederen" in de individuele dienstverleningsovereenkomst, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap;<br>
-14° de wijze waarop de individuele dienstverleningsovereenkomst en handelingsplan kunnen worden aangepast of gewijzigd.
+14° de wijze waarop de individuele dienstverleningsovereenkomst en handelingsplan kunnen worden aangepast of gewijzigd;<br>
+15° een afsprakenkader bij niet-afgesproken afwezigheid dat de volgende gegevens bevat:<br>
+a) als de gebruiker zorggebonden kosten betaalt: afspraken over de betaling van de zorggebonden kosten bij afwezigheid;<br>
+b) als de gebruiker woon- en leefkosten betaalt: afspraken over de betaling van de woon- en leefkosten bij afwezigheid;<br>
+c) afspraken over het inhalen van de ondersteuning bij afwezigheid;<br>
+d) afspraken over de terugkeer van de gebruiker bij onderbreking van de ondersteuning conform artikel 41/1.
 
 ### BIJLAGE 2
 
@@ -742,7 +829,8 @@ De&nbsp;collectieve rechten en plichten bevat ten minste de volgende vermeldinge
 14° de plaats en de wijze waarop het kwaliteitshandboek ingezien kan worden;<br>
 15° een overzicht van de risico's die de voorziening in het belang van gebruiker verzekert;<br>
 16° de wijze waarop de collectieve rechten en plichten in overleg kan worden aangepast;<br>
-17° de tarieven van de woon- en leefkosten.<br>
+17° de tarieven van de woon- en leefkosten;<br>
+18° een algemeen afsprakenkader rond afwezigheden.<br>
 &nbsp;
 
 ### BIJLAGE 3
@@ -766,6 +854,8 @@ f) de gebruikersgerichte processen, meer bepaald :<br>
 5) het afhandelen van klachten van gebruikers;<br>
 6) het voorkómen, detecteren van en gepast reageren op grensoverschrijdend gedrag ten aanzien van gebruikers;<br>
 7) de tijdelijke afzonderingsmaatregelen;<br>
+8) het registreren van feiten en incidenten die zich voordoen in het kader van de geleverde ondersteuning die aanleiding geven tot schending of mogelijke schending van de integriteit, gezondheid, veiligheid en waardigheid van de gebruiker of medewerker;<br>
+9) het voorkomen van en remediëren van de feiten en incidenten, vermeld in punt 8).<br>
 g) de organisatiegerichte processen;<br>
 5° de zelfevaluatie, vermeld in artikel 47.<br>
 &nbsp;
@@ -878,3 +968,241 @@ Bijlage 5. Tabel voor de bepaling van de financiële bijdrage voor personen met 
 De bedragen, vermeld in de tabel, zijn gekoppeld aan de spilindex van de consumptieprijzen, daarvoor berekend en benoemd in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
 <br>
 De bedragen, vermeld in het eerste lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.
+
+### BIJLAGE 6
+
+Bijlage. Model van beleidsplan als vermeld in artikel 48/1, zevende lid<br>
+<br>
+De vergunde zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de gebruikers heeft plaatsgevonden.<br>
+<br>
+De vergunde zorgaanbieder verduidelijkt op welke manier het participatieve proces over het beleidsplan met de werknemers heeft plaatsgevonden.<br>
+<br>
+De voorziening versterkt de interne werking om continuïteit in zorg en ondersteuning te bieden.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:85px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:263px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:202px">voorbeelden van gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:85px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:263px">percentage contracten van onbepaalde duur</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:202px">inventaris van de lopende contracten</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:85px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:263px">percentage ziekteverzuim</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:202px">gegevens over ziekteverzuim</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:85px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:263px">percentage verloop</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:202px">gegevens over verloop binnen de organisatie</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:85px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:263px">termijn waarin contracten van onbepaalde duur worden aangeboden</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:202px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:85px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:263px">mate waarin bepaalde taken worden uitbesteed (onderhoud, keuken, verzorging ...)</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:202px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De vergunde zorgaanbieder beschikt over competente medewerkers (personeel en vrijwilligers).<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:78px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:259px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:214px">voorbeelden van gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">percentage van de medewerkers dat vorming heeft gevolgd</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">inventaris van de gevolgde vorming (door wie + aard van de vorming)</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">oog voor alle personeelscategorieën bij vorming</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">interne krijtlijnen rond werken met vrijwilligers binnen de organisatie (wie doet wat)</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">percentage van de medewerkers dat geëvalueerd is</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">inventaris van de uitgevoerde evaluatiegesprekken</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">aanwervingsvoorwaarden voor nieuwe medewerkers</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">opleidingsniveau/elders verworven competenties van de medewerkers per functie</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">inventaris van diploma en competenties</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:78px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:259px">voldoende ervaring op het vlak van zorg die nodig is binnen de organisatie</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:214px">inventaris van anciënniteit/<br>
+			beroepservaring</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De voorziening draagt via haar werking en het zorg- en ondersteuningsaanbod bij tot een versterking van de levenskwaliteit van de budgethouders en vertrekt van de behoefte van de personen met een handicap en van zelfregie.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:76px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:282px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:193px">voorbeelden gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">mate waarin het medewerkersteam multidisciplinair is samengesteld</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">diploma van medewerkers</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">de aanwezigheid van medewerkers op cruciale momenten om een normaal dagverloop (1) te garanderen</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">- De bewoners zijn uit bed en aangekleed tegen x uur.<br>
+			- De gebruikers krijgen hun maaltijden op de gebruikelijke uren.<br>
+			- De bewoners gaan op een normaal uur slapen.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">de oproepbaarheid van medewerkers bij crisissituaties</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">de verdeling van medewerkers over de woningen, leefeenheden en activiteitencentra</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">percentage van de tijd voor zorggebonden functies dat aan rechtstreekse ondersteuning van de gebruikers wordt besteed</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">manier waarop de verzorgings- en begeleidingsmomenten georganiseerd worden</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">- manier waarop de nachtpermanentie georganiseerd wordt (slapende/wakende nacht, aantal ingezette medewerkers, oproepbare nacht ...)<br>
+			- mate van technische ondersteuning 's nachts (oproepsystemen, toezichtsystemen ...)<br>
+			- nabijheid van de nachtpermanentie (te overbruggen afstand ...)</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:76px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:282px">- interne afspraken over medicatieverdeling (wie kan medicatie klaarzetten, wat bij problemen ...)<br>
+			- intern toezicht daarop</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:193px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De ingezette infrastructuur is kwaliteitsvol.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:83px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:284px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:184px">voorbeelden van gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:83px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:284px">afspraken over dagelijks onderhoud infrastructuur (inzet logistieke krachten ...) en de uitvoering ervan</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:184px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:83px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:284px">De infrastructuur ondersteunt de medewerkers bij de uitvoering van hun taken.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:184px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De voorziening speelt in op het veranderende zorglandschap.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:77px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:307px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:167px">voorbeelden van gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">Medewerkers zijn op de hoogte van de persoonsvolgende financiering.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">Er is een methodiek die toelaat om te anticiperen op de golfbeweging van de veranderende in- en uitstroom van budgethouders.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">vastgelegde langetermijndoelstellingen, waarvan minstens een deel opgemaakt wordt op basis van gegevens over de levenskwaliteit</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">vastgelegde kortetermijndoelstellingen, waarvan minstens een deel opgemaakt wordt op basis van gegevens over de levenskwaliteit</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">bespreking en goedkeuring van de planningen door de raad van bestuur, medewerkersoverleg/<br>
+			ondernemersraad en gebruikersraad</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">Alle processen in het kader van interne zelfevaluatie komen aan bod.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:77px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:307px">(inter)sectorale samenwerking onderzoeken en ervoor openstaan</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:167px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De situatie van de voorziening is financieel leefbaar.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:551px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:81px">streefdoel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:218px">voorbeelden van mogelijke indicatoren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:252px">voorbeelden gegevensverzameling</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:81px">zelf te definiëren</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:218px">Voor een aantal indicatoren haalt de vergunde zorgaanbieder een minimale score.</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:252px">dashboard jaarrekeningen Departement Zorg (voor neergelegde jaarrekeningen)</td>
+		</tr>
+	</tbody>
+</table>
