@@ -21,7 +21,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° decreet van 28 juni 2013: het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 3° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 4° samenwerkingsverband: twee of meer natuurlijke of rechtspersonen die, ongeacht de juridische vorm van hun samenwerking, het engagement aangaan om samen aan wetenschappelijk en praktijkgericht onderzoek te doen in de sectoren, vermeld in artikel 3, § 1, eerste lid, van het decreet van 28 juni 2013.

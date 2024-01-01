@@ -2,16 +2,16 @@
   "codex_id": 1028027,
   "title": "Besluit van de Vlaamse Regering van 2017-02-10 houdende de erkenning van samenwerkingsverbanden in het wetenschappelijk en praktijkgericht onderzoek over de sectoren en de activiteiten, vermeld in artikel 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028027/VolledigDocument?datum=2017-03-30",
-  "source_sha256": "8a5a2c6bc6e7c46eb02e3924b6c81ad3d4406751ef1c436af074fd65af7e6fec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028027/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "419f8a493edaccf24ab97daeb586a39026a133745877f5d1cfe215bfab3c826c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028027&param=informatie",
-  "as_of": "2017-03-30",
+  "as_of": "2024-01-01",
   "made": "2017-02-10",
   "gazette": "2017-03-20",
   "numac": 2017011137,
   "document_start": "2017-03-30",
   "document_end": null,
-  "in_force": "2017-03-30",
+  "in_force": "2024-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2017-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
