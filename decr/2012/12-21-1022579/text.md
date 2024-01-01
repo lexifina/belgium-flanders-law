@@ -293,19 +293,11 @@ Het besluit van de Vlaamse Regering van 14 september 2012 tot wijziging   van bi
 
 &nbsp;De akte houdende ruiling van percelen grond, eigendom van het   Vlaamse Gewest, gelegen te Gent, 24ste afdeling (Zwijnaarde), sectie B met een   gezamenlijke kadastrale oppervlakte van om en bij de 9 ha 90 a 11 ca, met   percelen grond, eigendom van de nv Eiland Zwijnaarde, gelegen te Gent, 24ste   afdeling (Zwijnaarde), sectie B met een gezamenlijke oppervlakte volgens meting   van 7 ha 90 a 17 ca, tegen betaling van een opleg van 2.010.000 euro door het   Vlaamse Gewest, wordt goedgekeurd.<BR>
 
-## HOOFDSTUK 15 Fonds Administratieve Toeristische Boeten
+## ...
 
 ### ART. 57.
 
-<p>§ 1. Er wordt een Fonds Administratieve Toeristische boeten opgericht, hierna genoemd « het fonds ».</p>
-
-<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
-
-<p>§ 3. Het fonds wordt gespijsd door de invordering van de administratieve boeten bepaald in artikel 22 van het decreet van 10 juli 2008 betreffende de toeristische logies.</p>
-
-<p>§ 4. Het fonds wordt aangewend voor de uitvoering en handhaving van de Vlaamse toeristische vergunningenregelgeving en voor initiatieven om de Vlaamse toeristische sector te sensibiliseren van het nut en de kwaliteit van een toeristische vergunning.</p>
-
-<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
+<p>...</p>
 
 ## HOOFDSTUK 16 Kas-, schuld- en waarborgbeheer
 
