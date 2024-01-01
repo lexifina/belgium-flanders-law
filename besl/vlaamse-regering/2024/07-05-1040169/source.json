@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040169,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-05 tot wijziging van verschillende besluiten, over de subsidiëring van variabele prestaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040169/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "c49868008ca5a493124b8c6df83b8a7d05fdaaf5a95bc8d266d17f4165ab5c13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040169&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-07-05",
+  "gazette": "2024-08-28",
+  "numac": 2024007986,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
