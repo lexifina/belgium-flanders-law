@@ -2,16 +2,16 @@
   "codex_id": 1024857,
   "title": "Besluit van de Vlaamse Regering van 2014-12-05 houdende de toepassing van geïntegreerde gewasbescherming door professionele gebruikers van gewasbeschermingsmiddelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024857/VolledigDocument?datum=2021-03-05",
-  "source_sha256": "37d4f22fa66184ea572845180f93ecaec2b3dda66ff4578581a7ca8edf986b5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024857/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0decc2764e54d0bd6eb9a6fda91d3f7d79ffd24656ad9373f24529f8f87380f7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024857&param=informatie",
-  "as_of": "2021-03-05",
+  "as_of": "2024-01-01",
   "made": "2014-12-05",
   "gazette": "2015-01-13",
   "numac": 2014036952,
   "document_start": "2015-01-14",
   "document_end": null,
-  "in_force": "2021-03-05",
+  "in_force": "2024-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2021-03-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

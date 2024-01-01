@@ -14,11 +14,11 @@ Dit   besluit voorziet in de gedeeltelijke omzetting van richtlijn 2009/128/EG v
 
 ### ART. 3.
 
-&nbsp;Het Departement Landbouw en Visserij   wordt aangewezen als bevoegde entiteit vermeld in dit besluit. Het hoofd van het   Departement Landbouw en Visserij kan de aangelegenheden die conform dit besluit   en de uitvoeringsbepalingen ervan onder de bevoegdheid van het departement   vallen, subdelegeren aan personeelsleden van het departement die onder zijn   hiërarchisch gezag staan, tot op het meest functionele   niveau.
+Het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, wordt aangewezen als bevoegde entiteit, vermeld in dit besluit.
 
 ### ART. 4.
 
-Dit   besluit is alleen van toepassing op pesticiden die gewasbeschermingsmiddelen   zijn. Dit besluit is niet van toepassing op de biologische productiemethode die   is geregeld bij Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007   inzake de biologische productie en de etikettering van biologische producten en   tot intrekking van Verordening (EEG) nr. 2092/91.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Dit besluit is alleen van toepassing op pesticiden die gewasbeschermingsmiddelen zijn. Dit besluit is niet van toepassing op de biologische productiemethode die is geregeld bij verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad.
 
 ### ART. 5.
 
