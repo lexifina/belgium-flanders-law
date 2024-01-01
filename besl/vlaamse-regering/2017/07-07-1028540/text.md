@@ -37,13 +37,17 @@ Ter uitvoering van artikel 4 van het Lokaal en Provinciaal Kiesdecreet van 8 jul
 
 Ter uitvoering van artikel 15, § 5, vijfde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de manier waarop de gemeentebesturen de berichten, vermeld in artikel 15, § 5, vijfde lid, van het voormelde decreet, behandelen, bewaren en, in geval van verandering van verblijfplaats, doorzenden.
 
+### ART 4/1.
+
+Ter uitvoering van artikel 16, §1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 verzoekt de minister aan de federale overheidsdienst, vermeld in artikel 16, §1, eerste lid, van het voormelde decreet, om de lijst, vermeld in artikel 16, §1, eerste lid, van het voormelde decreet, aan de gemeente ter beschikking te stellen.
+
 ### ART 5.
 
 Ter uitvoering van artikel 51 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 laat de minister in het Belgisch Staatsblad een bericht verschijnen waarin de dag van de stemming, de uren van opening en sluiting van het stemlokaal en de mogelijkheid voor elke kiezer om bezwaar aan te tekenen, worden meegedeeld.
 
 ### ART 6.
 
-Ter uitvoering van artikel 54, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 stelt de minister het model van de oproepingsbrief vast.
+Ter uitvoering van artikel 54, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 stelt de minister het model van de uitnodigingsbrief vast.
 
 ### ART 7.
 
@@ -99,7 +103,7 @@ Ter uitvoering van artikel 134, tweede lid, van het Lokaal en Provinciaal Kiesde
 
 ### ART 18.
 
-Ter uitvoering van artikel 149 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de modaliteiten waaraan de processen-verbaal, vermeld in deel 3, titel 3, van het voormelde decreet, de lijsten, harmonica-enveloppen, enveloppen, formulieren, verzegelingen en stembussen moeten voldoen.
+Ter uitvoering van artikel 149 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 bepaalt de minister de modaliteiten waaraan de processen-verbaal, vermeld in deel 3, titel 3, van het voormelde decreet, de lijsten, de verzegelbare verpakkingen, enveloppen, formulieren, verzegelingen en stembussen moeten voldoen.
 
 ### ART 19.
 
@@ -111,7 +115,9 @@ Ter uitvoering van artikel 161, eerste lid, van het Lokaal en Provinciaal Kiesde
 
 ### ART 21.
 
-Ter uitvoering van artikel 171, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de uitslag van de algemene telling van de stemmen en de namen van de kandidaten die tot gemeenteraadslid of opvolger gekozen zijn, en die tot stadsdistrictsraadslid of opvolger gekozen zijn, publiek bekend.
+Ter uitvoering van artikel 171, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de uitslag van de algemene telling van de stemmen en de namen van de kandidaten die tot gemeenteraadslid of opvolger gekozen zijn, en die tot stadsdistrictsraadslid of opvolger gekozen zijn, publiek bekend.<br>
+<br>
+Ter uitvoering van artikel 171, vierde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de stemgegevens van de telbureaus publiek bekend.
 
 ### ART 22.
 
@@ -119,7 +125,9 @@ Ter uitvoering van artikel 174 en 175 van het Lokaal en Provinciaal Kiesdecreet 
 
 ### ART 23.
 
-Ter uitvoering van artikel 186, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de uitslag van de algemene telling van de stemmen en de namen van de kandidaten die tot provincieraadslid of opvolger gekozen zijn, publiek bekend.
+Ter uitvoering van artikel 186, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de uitslag van de algemene telling van de stemmen en de namen van de kandidaten die tot provincieraadslid of opvolger gekozen zijn, publiek bekend.<br>
+<br>
+Ter uitvoering van artikel 186, vierde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 maakt de minister de stemgegevens van de telbureaus publiek bekend.
 
 ### ART 24.
 
@@ -131,7 +139,9 @@ Ter uitvoering van artikel 190, derde lid, van het Lokaal en Provinciaal Kiesdec
 
 ### ART 26.
 
-Ter uitvoering van artikel 191, § 1, tweede lid, en § 2, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 kan de minister de bedragen, vermeld in artikel 191, § 1, eerste lid, en § 2, eerste lid, van het voormelde decreet, indexeren.
+Ter uitvoering van artikel 191, § 1, tweede lid, en § 2, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 kan de minister de bedragen, vermeld in artikel 191, § 1, eerste lid, en § 2, eerste lid, van het voormelde decreet, indexeren.<br>
+<br>
+Ter uitvoering van artikel 191, §4, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 verzoekt de minister aan de federale overheidsdienst, vermeld in artikel 191, §4, van het voormelde decreet, om de extractie, vermeld in artikel 191, §4, van het voormelde decreet, uit te voeren.
 
 ### ART 27.
 
@@ -192,6 +202,10 @@ Ter uitvoering van artikel 10, derde lid, van het Digitaal Kiesdecreet van 25 me
 Ter uitvoering van artikel 12, § 2, eerste lid, van het Digitaal Kiesdecreet van 25 mei 2012 bezorgt de minister aan het college van deskundigen, vermeld in artikel 12, § 1, van het voormelde decreet, het materiaal, alsook alle gegevens, inlichtingen en informatie die nodig zijn om die opdracht uit te voeren.<br>
 <br>
 Ter uitvoering van artikel 12, § 3, van het Digitaal Kiesdecreet van 25 mei 2012 neemt de minister het verslag van het college van deskundigen in ontvangst.
+
+### ART 37/1.
+
+Ter uitvoering van artikel 22, derde lid, van het Digitaal Kiesdecreet van 25 mei 2012 maakt de minister de stemgegevens bekend van de individuele stembureaus waar minstens vijfhonderd kiezers hun stem hebben uitgebracht.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
