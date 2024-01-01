@@ -62,12 +62,9 @@ In afwijking van het eerste lid stelt het agentschap geen bedrag voor de vergoed
 <br>
 § 3. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk te gebruiken als een voucher, heeft de vergunde zorgaanbieder recht op organisatiegebonden personeelspunten.<br>
 <br>
-Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het aantal organisatiegebonden personeelspunten, vermeld in het eerste lid. Het agentschap berekent daarvoor het gemiddelde van het totale aantal zorggebonden punten die de vergunde zorgaanbieder voor de twee voorafgaande kalenderjaren conform artikel 13, tweede lid, heeft geregistreerd bij het agentschap.<br>
+Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het aantal organisatiegebonden personeelspunten, vermeld in het eerste lid.&nbsp;Het agentschap berekent daarvoor het totaal aantal zorggebonden punten die de vergunde zorgaanbieder voor het kalenderjaar waarop de organisatiegebonden personeelspunten betrekking hebben, conform artikel 13, tweede lid, heeft geregistreerd bij het agentschap.<br>
 <br>
-Het jaarlijks aantal organisatiegebonden personeelspunten, vermeld in het tweede lid bedraagt:<br>
-1° voor het jaar 2020: 19,40% van het gemiddelde aantal zorggebonden punten, vermeld in het tweede lid;<br>
-2° voor het jaar 2021: 17,85% van het gemiddelde aantal zorggebonden punten, vermeld in het tweede lid;<br>
-3° vanaf het jaar 2022: 16,18 % van het gemiddelde aantal zorggebonden punten, vermeld in het tweede lid.<br>
+Het jaarlijks aantal organisatiegebonden personeelspunten, vermeld in het tweede lid bedraagt 16,18% van de zorggebonden punten, vermeld in het tweede lid.<br>
 <br>
 Het bedrag per punt bedraagt 864 euro (achthonderdvierenzestig euro).<br>
 <br>
@@ -80,12 +77,9 @@ Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, r
 <br>
 § 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een vergunde zorgaanbieder, heeft de vergunde zorgaanbieder recht op een vergoeding voor organisatiegebonden kosten.<br>
 <br>
-Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in het eerste lid. Het agentschap berekent daarvoor het gemiddelde van de totale bedragen van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders conform artikel 17, § 1, eerste lid, voor de twee voorafgaande kalenderjaren hebben geregistreerd bij het agentschap.<br>
+Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in het eerste lid.&nbsp;Het agentschap berekent daarvoor het totaal bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders conform artikel 17, § 1, eerste lid, voor het kalenderjaar waarvoor de organisatiegebonden kosten worden betaald, hebben geregistreerd bij het agentschap.<br>
 <br>
-De vergoeding voor organisatiegebonden kosten, vermeld in het tweede lid, bedraagt:<br>
-1° voor het jaar 2020: 19,40% van het gemiddelde bedrag, vermeld in het tweede lid;<br>
-2° voor het jaar 2021: 17,85% van het gemiddelde bedrag, vermeld in het tweede lid;<br>
-3° vanaf het jaar 2022: 16,18 % van het gemiddelde bedrag, vermeld in het tweede lid.<br>
+De vergoeding voor organisatiegebonden kosten, vermeld in het tweede lid, bedraagt 16,18% van het bedrag, vermeld in het tweede lid.<br>
 <br>
 De vergoeding voor organisatiegebonden kosten die is bepaald conform het derde lid, 3°, wordt verhoogd met 3,9%.<br>
 <br>
@@ -93,15 +87,11 @@ De vergunde zorgaanbieder mag de vergoeding, vermeld in het eerste lid, omzetten
 <br>
 De vergunde zorgaanbieder ontvangt van het agentschap jaarlijks voor de bedragen van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders dat jaar conform artikel 17, §1, eerste lid, hebben geregistreerd bij het agentschap, een vergoeding van 3,9% op het totaal van de voormelde bedragen.<br>
 <br>
-§ 5. In afwijking van paragraaf 3, tweede lid, wordt het aantal organisatiegebonden personeelspunten, vermeld in paragraaf 3, eerste lid, voor een zorgaanbieder die conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap wordt vergund door het agentschap, voor het kalenderjaar waarin de vergunning wordt verleend, vastgesteld op basis van het totale aantal zorggebonden punten die voor dat kalenderjaar conform artikel 13, tweede lid, van dit besluit, zijn geregistreerd bij het agentschap. De vergoeding voor organisatiegebonden kosten wordt in afwijking van paragraaf 4, tweede lid, vastgesteld op basis van het totale bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders voor dat kalenderjaar conform artikel 17, § 1, eerste lid, van dit besluit hebben geregistreerd bij het agentschap.<br>
-<br>
-Voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend, worden de organisatiegebonden personeelspunten, vermeld in paragraaf 3, eerste lid, berekend op basis van het gemiddelde van het totale aantal zorggebonden punten die conform artikel 13, tweede lid, zijn geregistreerd bij het agentschap voor het kalenderjaar waarin de vergunning is verleend en voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend.<br>
-<br>
-De vergoeding van de organisatiegebonden personeelspunten wordt berekend op basis van het gemiddelde van het totale bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders voor het kalenderjaar waarin de vergunning is verleend en voor het daaropvolgende kalenderjaar conform artikel 17, § 1, eerste lid, hebben geregistreerd bij het agentschap.<br>
+§ 5. ...<br>
 <br>
 § 5/1. De werkingsmiddelen, vermeld in paragraaf 3, vijfde lid, mogen niet worden aangewend voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
 <br>
-In afwijking van het eerste lid kan het bedrag, vermeld paragraaf 3, vijfde lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+In afwijking van het eerste lid kan het bedrag, vermeld paragraaf 3, vijfde lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
 De besteding van het bedrag, vermeld in paragraaf 3, vijfde lid, kan gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
@@ -138,15 +128,15 @@ c) individuele ondersteuningsfuncties:<br>
 
 ### ART 5.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">Het budget kan niet besteed worden aan:</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">1° de aankoop van hulpmiddelen of voor het financieren van aanpassingen;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">2° het financieren van medische en paramedische behandelingen, onderzoeken of therapieën die tot de bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren en waarvoor in de nomenclatuur van de geneeskundige verstrekkingen een vergoeding is voorzien;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon onderwijs of het geïntegreerd onderwijs aanbieden;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">4° de kosten voor zorg en ondersteuning die al door het agentschap, door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd.</span><br>
+Het budget kan niet besteed worden aan:<br>
+1° de aankoop van hulpmiddelen of voor het financieren van aanpassingen;<br>
+2° het financieren van medische en paramedische behandelingen, onderzoeken of therapieën die tot de bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren en waarvoor in de nomenclatuur van de geneeskundige verstrekkingen een vergoeding is voorzien;<br>
+3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon onderwijs of het geïntegreerd onderwijs aanbieden;<br>
+4° de kosten voor zorg en ondersteuning die al door het agentschap, door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">In afwijking van het eerste lid, 2°, kunnen medische en paramedische behandelingen, onderzoekingen of therapieën vergoed worden bij het gebruik van het budget bij een zorgaanbieder die vergund is door het agentschap als het gaat om activiteiten in het kader van een medisch of paramedisch team in een handicapspecifieke context, als ze niet terugbetaald worden krachtens de wetgeving over de verplichte verzekering voor geneeskundige verzorging en uitkeringen.<br>
+In afwijking van het eerste lid, 2°, kunnen medische en paramedische behandelingen, onderzoekingen of therapieën vergoed worden bij het gebruik van het budget bij een zorgaanbieder die vergund is door het agentschap als het gaat om activiteiten in het kader van een medisch of paramedisch team in een handicapspecifieke context, als ze niet terugbetaald worden krachtens de wetgeving over de verplichte verzekering voor geneeskundige verzorging en uitkeringen.<br>
 <br>
-Het budget dat besteed wordt aan dagondersteuning als vermeld in artikel 4, 1°, b), van dit besluit, of begeleid werken als vermeld in artikel 9/1 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, kan niet gecombineerd worden met de arbeidsmatige activiteiten, vermeld in artikel 44 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.</span><br>
+Het budget dat besteed wordt aan dagondersteuning als vermeld in artikel 4, 1°, b), van dit besluit, of begeleid werken als vermeld in artikel 9/1 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, kan niet gecombineerd worden met de arbeidsmatige activiteiten, vermeld in hoofdstuk 3 van het besluit van de Vlaamse Regering van 18 november 2022 houdende de uitvoering van het decreet van 8 juli 2022 over de werk- en zorgtrajecten.<br>
 &nbsp;
 
 ### ART 6.
