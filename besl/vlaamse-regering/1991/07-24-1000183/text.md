@@ -1,18 +1,28 @@
 # Besluit van de Vlaamse Regering van 1991-07-24 betreffende de [indiening en afhandeling van de aanvraag tot ondersteuning] bij het Vlaams Agentschap voor Personen met een Handicap
 
-## HOOFDSTUK I MODALITEITEN VOOR HET INDIENEN EN BEHANDELEN VAN DE AANVRAGEN
+## HOOFDSTUK I ALGEMENE BEPALINGEN OVER HET INDIENEN EN BEHANDELEN VAN DE AANVRAGEN
 
 ## [AFDELING 1. TOEPASSINGSGEBIED (ing. BVR 27 november 2015, art. 38, I: 1 april 2016)]
 
 ### ART. 1.
 
-Dit hoofdstuk is van toepassing op de indiening en afhandeling van een   aanvraag van ondersteuning en van een aanvraag van herziening, met uitzondering   van een aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en   ondersteuning als vermeld in artikel 8 van het decreet van 25 april 2014   houdende de persoonsvolgende financiering voor personen met een handicap en tot   hervorming van de wijze van financiering van de zorg en de ondersteuning voor   personen met een handicap, en een aanvraag van herziening van dat budget, met   uitzondering van de ondersteuning die valt onder het toepassingsgebied van het   decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
+Dit hoofdstuk is van toepassing op de indiening en afhandeling van een aanvraag van ondersteuning met uitzondering van de ondersteuning die valt onder het toepassingsgebied van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en op een aanvraag van herziening.
 
 ## [AFDELING 1 bis (verv. BVR 27 november 2015, art. 38] [HET INDIENEN VAN DE AANVRAAG TOT ONDERSTEUNING OF VAN DE AANVRAAG TOT HERZIENING (verv. BVR 20 juli 2012, art. 2)]
 
 ### ART. 1bis.
 
-§ 1. Personen met een handicap die voldoen aan de voorwaarden, vermeld in   artikel 20 en 21 van het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap, of hun wettelijke vertegenwoordiger kunnen bij het   Vlaams Agentschap voor Personen met een Handicap, hierna agentschap te noemen,   een aanvraag tot ondersteuning , evenals een aanvraag tot herziening van een   beslissing indienen.<BR><BR>Als de persoon met een handicap rechtelijk beschermd   is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen   inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die   strookt met de menselijke waardigheid, kan de aanvraag van ondersteuning, alsook   de aanvraag van herziening, worden ingediend door de bewindvoerder als de   persoon volledig onbekwaam is verklaard, zowel wat betreft de persoon als wat   betreft de goederen, en als de bewindvoerder vertegenwoordigingsbevoegdheid   heeft gekregen, en in de andere gevallen door de persoon met een handicap samen   met de bewindvoerder.<BR><BR>§ 2. De aanvraag tot ondersteuning evenals de   aanvraag tot herziening van een beslissing wordt ingediend bij de provinciale   afdeling van het agentschap, die bevoegd is uit hoofde van de woonplaats van de   persoon met een handicap.<BR><BR>§ 3. Voor de aanvragers die in   Brussel-Hoofdstad wonen, wordt de aanvraag ingediend bij de provinciale afdeling   Vlaams- Brabant van het agentschap en wordt de aanvraag mede-ondertekend door de   verantwoordelijke van een instantie die door het agentschap wordt erkend om een   multidisciplinair verslag af te leveren of door de verantwoordelijke van een   voorziening die door het agentschap is erkend, met vestigingsplaats in   Brussel-Hoofdstad.<BR><BR>§ 4. De aanvragen tot bijstand in Wallonië, ingediend   krachtens het samenwerkingsakkoord van 20 oktober 1998 tussen de Vlaamse   Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een   handicap, worden ingediend bij de provinciale afdeling Vlaams- Brabant van het   agentschap.<BR><BR>§ 5. De provinciale afdeling waar de aanvraag tot   ondersteuning of tot herziening van een beslissing werd ingediend, stuurt aan de   aanvrager een ontvangstmelding.
+§ 1. Personen met een handicap die voldoen aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of hun wettelijke vertegenwoordiger kunnen bij het Vlaams Agentschap voor Personen met een Handicap, hierna agentschap te noemen, een aanvraag tot ondersteuning , evenals een aanvraag tot herziening van een beslissing indienen.<br>
+<br>
+Als de persoon met een handicap rechtelijk beschermd is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, kan de aanvraag van ondersteuning, alsook de aanvraag van herziening, worden ingediend door de bewindvoerder als de persoon volledig onbekwaam is verklaard, zowel wat betreft de persoon als wat betreft de goederen, en als de bewindvoerder vertegenwoordigingsbevoegdheid heeft gekregen, en in de andere gevallen door de persoon met een handicap samen met de bewindvoerder.<br>
+<br>
+§ 2. De aanvraag tot ondersteuning evenals de aanvraag tot herziening van een beslissing wordt ingediend bij het provinciaal kantoor van het agentschap, dat bevoegd is uit hoofde van de woonplaats van de persoon met een handicap.<br>
+<br>
+§ 3. Voor de aanvragers die in Brussel-Hoofdstad wonen, wordt de aanvraag ingediend bij het provinciaal kantoor Leuven van het agentschap.<br>
+<br>
+§ 4. De aanvragen tot bijstand in Wallonië, ingediend krachtens het samenwerkingsakkoord van 20 oktober 1998 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap, worden ingediend bij het provinciaal kantoor Leuven van het agentschap.<br>
+<br>
+§ 5. ...
 
 ### ART. 2.
 
@@ -20,20 +30,16 @@ Dit hoofdstuk is van toepassing op de indiening en afhandeling van een   aanvraa
 <br>
 § 2. De aanvraag vermeldt:<br>
 1° de naam, voornamen, geboorteplaats en -datum, adres, nationaliteit en desgevallend het identificatienummer bij het Rijksregister van natuurlijke personen van de persoon met een handicap voor wie de aanvraag tot ondersteuning wordt ingediend;<br>
-2° desgevallend de naam, voornamen, hoedanigheid, adres en identificatienummer bij het Rijksregister van natuurlijke personen van de wettelijke vertegenwoordiger van de aanvrager;<br>
-3° dat de aanvrager of, in voorkomend geval, de wettelijke vertegenwoordiger werkelijk in België verblijft en dat de aanvrager of de wettelijke vertegenwoordiger, als het een niet-ontvoogde minderjarige, een verlengd minderjarige of een onbekwaam verklaarde betreft gedurende een ononderbroken termijn van vijf jaar of gedurende een niet-aaneengesloten termijn van tien jaar in België verblijft;<br>
-4° dat de aanvrager geen aanspraak maakt op ondersteuning geheel of gedeeltelijk verstrekt op kosten van de Franse of Duitstalige Gemeenschap.<br>
+2° desgevallend de naam, voornamen, hoedanigheid, adres en identificatienummer bij het Rijksregister van natuurlijke personen van de wettelijke vertegenwoordiger van de persoon met een handicap;<br>
+3° dat de persoon met een handicap of, in voorkomend geval, de wettelijke vertegenwoordiger werkelijk in België verblijft en dat de persoon met een handicap of de wettelijke vertegenwoordiger, als het een niet-ontvoogde minderjarige, een verlengd minderjarige of een onbekwaam verklaarde betreft gedurende een ononderbroken termijn van vijf jaar of gedurende een niet-aaneengesloten termijn van tien jaar in België verblijft;<br>
+4° dat de persoon met een handicap geen aanspraak maakt op ondersteuning geheel of gedeeltelijk verstrekt op kosten van de Franse of Duitstalige Gemeenschap.<br>
 <br>
-De aanvraag omvat eveneens een multidisciplinair verslag houdende de omschrijving van de handicap en de voorgestelde ondersteuning, dat werd opgemaakt door een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
+De aanvraag omvat eveneens een multidisciplinair verslag dat is opgemaakt door een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren en dat de elementen bevat, vermeld in artikel 24, §1, 1°, a) en &nbsp;b) als de aanvrager nog niet erkend is als persoon met een handicap bij het agentschap en dat de elementen bevat, vermeld in artikel 24, §1, 1°, b) als de aanvrager reeds erkend is als persoon met een handicap bij het agentschap.<br>
 <br>
-§ 2bis. Indien de aanvrager zich in één van de hierna vermelde situaties bevindt en de toepassing vraagt van artikel 6 bis, dient de aanvraag vergezeld te zijn van:<br>
-1° voor de personen met een handicap die krachtens artikel 47 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders of krachtens artikel 20, § 2 of § 2bis, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen recht geven op bijkomende kinderbijslag en minstens vier punten krijgen bij de evaluatie van de zelfredzaamheid overeenkomstig de bepalingen van artikel 3 van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies en 63, van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen of minstens achttien punten behalen als eindresultaat van de vaststelling van de gevolgen van de aandoening overeenkomstig de bepalingen van artikel 6 van het koninklijk besluit van 28 maart 2003 tot uitvoering van artikelen 47, 56septies en 63, van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet van 24 december 2002 en van artikel 5 van het koninklijk besluit van 25 januari 2004 tot uitvoering van de artikelen 20, 26 en 35, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van de zelfstandigen:<br>
-een attest van de uitbetalingsdienst van de kinderbijslag dat de aanvrager aan de boven vermelde voorwaarden voldoet;<br>
-2° voor de personen met een handicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming, en van wie de graad van zelfredzaamheid op tenminste 12 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming: een attest of kopie van de beslissing van de dienst voor Tegemoetkomingen aan Gehandicapten, waaruit blijkt dat de aanvrager aan de hiervoor vermelde voorwaarden voldoet;<br>
-3° voor de personen met een handicap die buitengewoon kleuteronderwijs, buitengewoon lager onderwijs, type 2, 4, 5, 6 of 7 , of buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 volgen of in de periode van 3 jaar, voorafgaand aan de aanvraag, gevolgd hebben:<br>
-een attest of verklaring van de laatst bezochte buitengewone onderwijsinstelling of een kopie van het inschrijvingsverslag, bedoeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997 en artikel 294 van de Codex Secundair Onderwijs<br>
-4° voor de personen met een handicap die verlengd minderajrig of onbekwaam verklaard zijn:<br>
-een kopie van de gerechtelijke beslissing die de verlengde minderjarigheid of onbekwaamverklaring uitspreekt, of van een uittreksel uit het bevolkingsregister waarin deze beslissing aangetekend is. (ing. B.V.R. 23 juli 1993, art. 1, I: 1 september 1993)<br>
+§ 2bis. Als de persoon met een handicap zich in een van de volgende situaties bevindt en de toepassing vraagt van artikel 6 bis, is de aanvraag vergezeld van:<br>
+1° voor de personen met een handicap die krachtens artikel 47 van de algemene kinderbijslagwet van 19 december 1939 &nbsp;recht geven op bijkomende kinderbijslag of krachtens artikel 16 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, recht geven op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte en minstens achttien punten behalen als eindresultaat van de vaststelling van de gevolgen van de aandoening overeenkomstig artikel 6 van het koninklijk besluit van 28 maart 2003 tot uitvoering van artikelen 47, 56septies en 63, van de : een attest van de uitbetaler van het groeipakket waaruit blijkt dat het eindresultaat van de vaststelling van de gevolgen van de aandoening voor de persoon met een handicap conform artikel 6 van het koninklijk besluit van 28 maart 2003 minstens achttien punten bedraagt;<br>
+2° voor de personen met een handicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming, en van wie de graad van zelfredzaamheid voor onbepaalde duur op tenminste 12 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming: een attest of kopie van de beslissing van de dienst voor Tegemoetkomingen aan Gehandicapten, waaruit blijkt dat de graad van zelfredzaamheid van de persoon met een handicap voor onbepaalde duur op ten minste 12 punten werd vastgesteld;<br>
+3° voor de personen met een handicap tot en met de leeftijd van 25 jaar die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 volgen of gevolgd hebben: een bewijs van toegang tot het buitengewoon onderwijs opleidingsvorm 1 of 2.<br>
 <br>
 § 3. De aanvraag tot herziening vermeldt daarenboven:<br>
 1° nummer van het dossier bij het agentschap en, in voorkomend geval, datum of nummer van inschrijving in het Rijksfonds voor Sociale Reclassering van de Minder-validen en in het Fonds voor Medische, Sociale en Pedagogische Zorg voor Gehandicapten;<br>
@@ -49,31 +55,33 @@ een kopie van de gerechtelijke beslissing die de verlengde minderjarigheid of on
 
 ### ART. 4.
 
-De administratie van de provinciale afdeling van het agentschap behandelt het aanvraagdossier. Ze onderzoekt of de ingediende aanvraag ontvankelijk is en vult het dossier, samengesteld volgens artikel 24, eventueel aan door extra inlichtingen in te winnen bij de aanvrager, bij de instantie, die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren, bij de openbare instellingen en besturen, die ressorteren onder de Vlaamse Gemeenschap en het Vlaamse Gewest of bij sociaalrechtelijke organen.
+De administratie van het provinciaal kantoor van het agentschap behandelt het aanvraagdossier. Ze onderzoekt of de ingediende aanvraag ontvankelijk en volledig is. In voorkomend geval kan bijkomende informatie worden opgevraagd bij de persoon met een handicap of zijn wettelijke vertegenwoordiger, bij de instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren, bij de openbare instellingen en besturen die ressorteren onder de Vlaamse Gemeenschap en het Vlaamse Gewest of bij sociaalrechtelijke organen.
 
 ### ART. 5.
 
-Wanneer het aanvraagdossier volledig is, legt de administratie van de provinciale afdeling van het agentschap het voor aan de provinciale evaluatiecommissie.
+Wanneer het aanvraagdossier volledig is, legt de administratie van deprovinciaal kantoor van het agentschap het voor aan de Vlaamse toeleidingscommissie.
 
 ### ART. 5bis
 
-De provinciale evaluatiecommissie bepaalt of de aanvrager getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+De Vlaamse toeleidingscommissie bepaalt of de aanvrager getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
-De provinciale evaluatiecommissie steunt haar beoordeling op het multidisciplinaire verslag van een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
+De Vlaamse toeleidingscommissie steunt haar beoordeling op het multidisciplinaire verslag van een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
 <br>
-De provinciale evaluatiecommissie kan daarnaast aanvullende onderzoeken verrichten of laten verrichten. Ze kan de persoon met een handicap horen.<br>
+Als een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning wordt gevraagd, kent de Vlaamse toeleidingscommissie een prioriteitengroep toe als vermeld in hoofdstuk 2, afdeling 2, van het besluit van de Vlaamse Regering van 4 maart 2016 over de toekenning van prioriteitengroepen. De Vlaamse toeleidingscommissie baseert zich daarbij op de informatie over de dringendheid van de vraag die wordt aangeleverd door de instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
 <br>
-De provinciale evaluatiecommissie bezorgt haar beoordeling en haar beslissing over de vereiste ondersteuning aan het agentschap binnen twee maanden na het indienen van de aanvraag.
+De Vlaamse toeleidingscommissie kan de persoon met een handicap horen.<br>
+<br>
+De Vlaamse toeleidingscommissie bezorgt haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap binnen twee maanden te rekenen vanaf de datum waarop de administratie van het provinciaal kantoor van het agentschap heeft vastgesteld dat de aanvraag volledig is.
 
 ### ART. 6.
 
-Voor de toepassing van artikel 5bis, vierde lid, geldt de poststempel of de datum van het ontvangstbewijs van de aanvraag tot ondersteuning of tot herziening van de ondersteuning als datum van de indiening van de aanvraag.<br /><br />De termijn van twee maanden, vermeld in artikel 5bis, vierde lid, wordt opgeschort gedurende de tijd die verloopt tussen de mededeling van onontvankelijkheid of onvolledigheid aan de aanvrager en het ogenblik waarop de aanvraag beantwoordt aan de voorwaarden, vermeld in artikel 2, en tijdens de periode van drie maanden die verloopt tussen de gemotiveerde vraag tot aanvullend onderzoek door de provinciale evaluatiecommissie en het ogenblik waarop de gegevens aan de aanvraag worden toegevoegd.<br /><br />De termijn kan, in geval van overmacht, worden overschreden.
+...
 
 ## AFDELING 3 AFWIJKENDE PROCEDURE VAN BEHANDELING VAN DE AANVRAGEN
 
 ### ART. 6 bis.
 
-In de in artikel 2, § 2 bis, vermelde gevallen beslist de provinciale evaluatiecommissie binnen de 30 dagen na het indienen van de aanvraag tot ondersteuning overeenkomstig de gegevens vervat in de bij artikel 2, § 2 bis bedoelde bescheiden, en over de vereiste ondersteuning op basis van de gegevens vervat in het multidisciplinair verslag.
+Als de aanvraag vergezeld wordt van een van de documenten, vermeld in artikel 2, § 2bis, wordt de persoon die ondersteuning vraagt of voor wie ondersteuning gevraagd wordt, automatisch erkend als een persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
 
 ### ART. 7.
 
@@ -99,27 +107,27 @@ In de in artikel 2, § 2 bis, vermelde gevallen beslist de provinciale evaluatie
 
 ### ART. 10.
 
-Het agentschap beslist over de toewijzing op grond van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap, rekening houdend met de reglementering die van toepassing is op de gevraagde ondersteuning en met de bepalingen van artikel 14 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
+Het agentschap beslist over de toewijzing op grond van de door de Vlaamse toeleidingscommissie meegedeelde beoordeling van de handicap, rekening houdend met de reglementering die van toepassing is op de gevraagde ondersteuning en met de bepalingen van artikel 14 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
 
 ### ART. 10bis
 
-§ 1. Binnen dertig dagen na de ontvangst van de beoordeling van de handicap van de provinciale evaluatiecommissie&nbsp; formuleert het agentschap zijn voornemen met betrekking tot de toewijzing. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, betekent het agentschap onmiddellijk een beslissing over de toewijzing aan de aanvrager of zijn wettelijke vertegenwoordiger.<br>
+§1. Het agentschap bezorgt een gemotiveerd voornemen van beslissing over de toewijzing aan de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen dertig dagen nadat de Vlaamse toeleidingscommissie haar beoordeling over de handicap en in voorkomend geval haar beslissing over de prioriteitengroep aan het agentschap heeft bezorgd. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, kan het agentschap onmiddellijk een beslissing over de toewijzing meedelen aan de persoon met een handicap of zijn wettelijke vertegenwoordiger.<br>
 <br>
-§ 2. Als het door het agentschap geformuleerde voornemen de aanvraag weigert of ervan afwijkt, geeft het agentschap aan de aanvrager of zijn wettelijke vertegenwoordiger onmiddellijk kennis van zijn gemotiveerde voornemen om de aanvraag niet of niet volledig ten laste te nemen. Bij die kennisgeving voegt het agentschap een kopie van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap.<br>
+De beoordeling van de Vlaamse toeleidingscommissie van de handicap wordt opgenomen in het voornemen van beslissing of in de beslissing tot toewijzing.<br>
 <br>
-Binnen dertig dagen na de dag waarop de aanvrager of zijn wettelijke vertegenwoordiger de kennisgeving, vermeld in het eerste lid, heeft ontvangen, kan de aanvrager of zijn wettelijke vertegenwoordiger met een gemotiveerd verzoekschrift aan het agentschap vragen om zijn voornemen in heroverweging te nemen. In dat verzoekschrift kan de aanvrager of zijn wettelijke vertegenwoordiger vragen om door de adviescommissie, vermeld in artikel 29, gehoord te worden. De aanvrager of zijn wettelijke vertegenwoordiger bezorgt het gemotiveerde verzoekschrift aan het agentschap met de post of elektronisch op de wijze die het agentschap bepaalt. Als het verzoekschrift met de post bezorgd wordt, ondertekent de aanvrager of zijn wettelijke vertegenwoordiger dat verzoekschrift en wordt het aangetekend verstuurd.<br>
+§2. Binnen vijfenveertig dagen te rekenen vanaf de dag waarop het agentschap het voornemen van beslissing heeft verzonden, kan de persoon met een handicap of zijn wettelijke vertegenwoordiger met een gemotiveerd verzoekschrift aan het agentschap vragen om zijn voornemen in heroverweging te nemen. In dat verzoekschrift kan de persoon met een handicap of zijn wettelijke vertegenwoordiger vragen om door de adviescommissie, vermeld in artikel 29, gehoord te worden. De persoon met een handicap of zijn wettelijke vertegenwoordiger bezorgt het gemotiveerde verzoekschrift aan het agentschap met de post of elektronisch op de wijze die het agentschap bepaalt. Als het verzoekschrift met de post bezorgd wordt, ondertekent de persoon met een handicap of zijn wettelijke vertegenwoordiger dat verzoekschrift en wordt het aangetekend verstuurd.<br>
 <br>
-De termijn, vermeld in het tweede lid, begint pas te lopen op het ogenblik dat de aanvrager of zijn wettelijke vertegenwoordiger effectief kennis heeft kunnen nemen van het voornemen van het agentschap, in geval hij overmacht aantoont of omstandigheden buiten zijn wil.<br>
+Als de persoon met een handicap of zijn wettelijke vertegenwoordiger overmacht aantoont of omstandigheden buiten zijn wil, begint de termijn, vermeld in het eerste lid, pas te lopen op het ogenblik dat de persoon met een handicap of zijn wettelijke vertegenwoordiger effectief kennis heeft kunnen nemen van het voornemen van het agentschap.<br>
 <br>
-Als de aanvrager of zijn wettelijke vertegenwoordiger binnen die termijn niet een dergelijk verzoekschrift aan het agentschap heeft gericht, wordt hij geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en betekent het agentschap hem onmiddellijk de beslissing.<br>
+Als de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in het eerste lid, geen verzoekschrift aan het agentschap heeft gericht, wordt hij geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en bezorgt het agentschap de beslissing tot toewijzing.<br>
 <br>
-§ 3. Als de aanvrager of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in § 2, tweede lid, aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk aan de adviescommissie voor advies. Als de aanvrager of zijn wettelijke vertegenwoordiger dat in het verzoekschrift heeft gevraagd, wordt hij door de adviescommissie gehoord binnen zestig dagen na de ontvangst van het dossier.<br>
+§3. Als de persoon met een handicap of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in § 2, tweede lid, aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk aan de adviescommissie voor advies. Als de persoon met een handicap of zijn wettelijke vertegenwoordiger dat in het verzoekschrift heeft gevraagd, wordt hij door de adviescommissie gehoord binnen zestig dagen na de ontvangst van het dossier.<br>
 <br>
-De aanvrager of zijn wettelijke vertegenwoordiger kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling van zijn keuze.<br>
+De persoon met een handicap of zijn wettelijke vertegenwoordiger kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling van zijn keuze.<br>
 <br>
-§ 4. Binnen dertig dagen na de dag waarop de aanvrager of zijn vertegenwoordiger door de adviescommissie werd gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de aanvrager al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br>
+§4. Binnen dertig dagen na de dag waarop de persoon met een handicap of zijn vertegenwoordiger door de adviescommissie werd gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de persoon met een handicap al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br>
 <br>
-Binnen dertig dagen na de ontvangst van het advies van de adviescommissie betekent het agentschap zijn gemotiveerde beslissing en het advies van de adviescommissie aan de aanvrager of zijn wettelijke vertegenwoordiger, en eventueel aan de voorziening die aan de persoon met een handicap ondersteuning verleent.
+Binnen dertig dagen na de ontvangst van het advies van de adviescommissie betekent het agentschap zijn gemotiveerde beslissing en het advies van de adviescommissie aan de persoon met een handicap of zijn wettelijke vertegenwoordiger.
 
 ### ART. 11.
 
@@ -135,63 +143,99 @@ De datum van de aanvraag is de datum van de poststempel of de datum van het ontv
 
 ### ART. 11bis.
 
-Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap noodzakelijk blijkt, en betrokkene zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, leidt het agentschap bij de uit hoofde van de woonplaats van de persoon met een handicap bevoegde provinciale evaluatiecommissie de aanvraag tot herziening in.<br>
+Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap noodzakelijk blijkt, en betrokkene zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, leidt het agentschap bij de Vlaamse toeleidingscommissie de aanvraag tot herziening in.<br>
 <br>
 Deze aanvraag wordt geformuleerd bij gewone brief ondertekend door de administrateur- generaal van het agentschap of een daartoe door hem gemachtigd ambtenaar, met de vermeldingen bedoeld in artikel 2, § 3, en de motieven en argumenten die het agentschap ertoe aanzetten de herziening aan te vragen.<br>
 <br>
-De behandeling van de aanvraag geschiedt overeenkomstig de bepalingen van de artikelen 17 tot en met 21.
+De behandeling van de aanvraag geschiedt overeenkomstig de bepalingen van de artikelen 4 tot en met 6.
 
-## HOOFDSTUK II DE PROVINCIALE EVALUATIECOMMISSIES
+## HOOFDSTUK II DE VLAAMSE TOELEIDINGSCOMMISSIE
 
 ### ART. 12.
 
-Er wordt in elke provincie een evaluatiecommissie opgericht. Deze evaluatiecommissie bepaalt de handicap.<br>
+§1. Er wordt een Vlaamse toeleidingscommissie opgericht, die de volgende opdrachten heeft:<br>
+1° beoordelen of de persoon die ondersteuning vraagt of voor wie ondersteuning wordt gevraagd, getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° beslissen over de toekenning van een prioriteitengroep conform artikel 8 tot en met artikel 13 van het besluit van de Vlaamse Regering van 4 maart 2016 over de regionale prioriteitencommissie, de toekenning van prioriteitengroepen, en de rangschikking binnen prioriteitengroepen.<br>
 <br>
-De provinciale evaluatiecommissie maakt bij de uitvoering van haar opdrachten gebruik van de instrumenten voor diagnose en indicatiestelling die door de Vlaamse minister, bevoegd voor de bijstand aan personen, worden vastgesteld.<br>
+§2. De Vlaamse toeleidingscommissie is samengesteld uit:<br>
+1° professionele deskundigen;<br>
+2° ervaringsdeskundigen;<br>
+3° personeelsleden van het agentschap;<br>
+4° personen met een diploma van doctor in de genees-, heel- en verloskunde of een diploma van master in de geneeskunde;<br>
+5° personen met een diploma van bachelor of master in de gedrags-, sociale, psychosociale of paramedische wetenschappen.<br>
 <br>
-De zetel van elke evaluatiecommissie is gevestigd in de hoofdplaats van de provincie.<br>
+Om als ervaringsdeskundige als vermeld in het eerste lid, 2°, te kunnen worden benoemd, toont het kandidaat-lid aan dat het aan al de volgende voorwaarden voldoet:<br>
+1° door dagelijkse, doorleefde en persoonlijke ervaring een affiniteit opgebouwd hebben met de welzijnssector in het algemeen en met de sector van personen met een handicap in het bijzonder;<br>
+2° over een ruim empathisch vermogen beschikken ten aanzien van verschillende doelgroepen, leeftijdscategorieën en sociale situaties;<br>
+3° vanuit een brede maatschappelijke kijk in staat zijn de eigen ervaring te overstijgen;<br>
+4° bereid zijn om gemotiveerde keuzes te maken binnen het regelgevende kader dat van toepassing is.<br>
 <br>
-De provinciale evaluatiecommissie Vlaams-Brabant onderzoekt de aanvragen die ingediend zijn door de personen met een handicap die wonen in het arrondissement Leuven en in het administratief arrondissement Halle-Vilvoorde, alsmede door de personen met een handicap die wonen in Brussel-Hoofdstad en hun aanvraag indienden overeenkomstig de bepalingen van artikel 1, §3. Diezelfde evaluatiecommissie onderzoekt de aanvragen, bedoeld in artikel 1, § 4.
-
-## AFDELING 1 SAMENSTELLING
+Om als professionele deskundige als vermeld in het eerste lid, 1°, of als personeelslid van het agentschap als vermeld in het eerste lid, 3°, te kunnen worden benoemd, toont het kandidaat-lid aan dat het aan al de volgende voorwaarden voldoet:<br>
+1° vanuit de werkervaring een affiniteit opgebouwd hebben met de welzijnssector in het algemeen en met de sector van personen met een handicap in het bijzonder;<br>
+2° voldoen aan de voorwaarden, vermeld in het tweede lid, 2° tot en met 4°.<br>
+<br>
+Dezelfde persoon kan tegelijkertijd benoemd worden als ervaringsdeskundige als vermeld in het eerste lid, 2°, als professionele deskundige als vermeld in het eerste lid, 1°, als personeelslid van het agentschap als vermeld in het eerste lid, 3°, en als een persoon met een diploma als vermeld in het eerste lid, 4° of 5°.<br>
+<br>
+§3. De Vlaamse toeleidingscommissie wordt voorgezeten door een voorzitter die geen stemrecht heeft. De rol van voorzitter kan beurtelings worden opgenomen door de verschillende personen die als voorzitter van de Vlaamse toeleidingscommissie zijn benoemd.<br>
+<br>
+De voorzitters worden benoemd onder de leden die benoemd zijn als professionele deskundigen als vermeld in paragraaf 2, eerste lid, 1°, of als ervaringsdeskundigen als vermeld in paragraaf 2, eerste lid, 2°.
 
 ### ART. 13.
 
-§ 1. De evaluatiecommissie bestaat uit tien leden en tien plaatsvervangende leden.<br /><br />De volgende diplomavereisten moeten door minimaal 5 leden worden gewaarborgd:<br />1° doctor in de genees-, heel- en verloskunde;<br />2° licentiaat in de psychologische of pedagogische wetenschappen;<br />3° licentiaat in de sociale of economische wetenschappen, of licentiaat of doctor in de rechten;<br />4° houder van een diploma van het sociaal hoger onderwijs van het korte type;<br />5° houder van een diploma van het paramedisch hoger onderwijs van het korte type, of licentiaten in de motorische revalidatie of in de kinesitherapie.<br /><br />In elke evaluatiecommissie zit daarenboven minstens één ervaringsdeskundige, en de domeinen opvang, behandeling en begeleiding van personen met een handicap en individuele materiële bijstand zijn vertegenwoordigd. <br /><br />§ 2. Onder de leden en de plaatsvervangende leden van de provinciale evaluatiecommissie Vlaams-Brabant dient minstens één lid woonachtig te zijn in het Brussels Hoofdstedelijk Gewest.<br /><br />§ 3. Onder de leden en de plaatsvervangende leden van elke provinciale evaluatiecommissie worden minstens één ambtenaar en ten hoogste twee ambtenaren ambtshalve door de Vlaamse minister, bevoegd voor de bijstand aan personen, aangewezen.<br /><br />§ 4. Elk lid van een evaluatiecommissie dient ten minste 3 jaar nuttige ervaring in verband met gehandicaptenproblematiek voor te leggen.
+§1. De Vlaamse minister, bevoegd voor de personen met een beperking, benoemt de leden en de voorzitters van de Vlaamse toeleidingscommissie.<br>
+<br>
+De leden die geen personeelslid van het agentschap zijn, en de voorzitters worden voorgedragen door het raadgevend comité bij het agentschap. De personeelsleden van het agentschap worden voorgedragen door de leidend ambtenaar van het agentschap.<br>
+<br>
+§2. De Vlaamse minister, bevoegd voor de personen met een beperking, kan in de volgende gevallen het mandaat van de leden en van de voorzitters beëindigen:<br>
+1° op verzoek van de betrokkene;<br>
+2° ambtshalve, als de betrokkene aan een van de volgende voorwaarden voldoet:<br>
+a) de betrokkene beantwoordt niet meer aan de benoemingsvoorwaarden;<br>
+b) de betrokkene schiet op een andere ernstige wijze dan de wijze, vermeld in punt a), te kort in de uitoefening van het mandaat.
 
 ### ART. 14.
 
-§ 1. De leden en plaatsvervangende leden niet ambtenaren van de evaluatiecommissie worden benoemd door de Vlaamse minister, bevoegd voor de bijstand aan personen, op grond van hun deskundigheid inzake de opdrachten van het agentschap op grond van hun deskundigheid inzake de taken van het agentschap, vermeld in artikelen 5 en 6 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap Vlaams Agentschap voor Persoenen met een handicap. <br /><br />§ 2. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan aan het mandaat van de leden niet-ambtenaren een einde stellen:<br /><br />1° op verzoek van de betrokkene;<br /><br />2° ambtshalve, indien de betrokkene:<br /><br />a) niet meer beantwoordt aan de benoemingsvoorwaarden;<br /><br />b) zesmaal na elkaar hetzij driemaal na elkaar zonder schiftelijke verontschuldiging, de vergaderingen niet bijwoont;<br /><br />c) of op een andere ernstige wijze tekort komt in de uitoefening van zijn mandaat.<br /><br />Indien de Vlaamse minister, bevoegd voor de bijstand aan personen, overweegt ambtshalve een einde te stellen aan een mandaat, wordt dit bij een ter post aangetekende brief ter kennis gebracht van de betrokkene. Deze beschikt, vanaf de datum van ontvangst van de brief over een termijn van vijftien dagen om te vragen door de Leidend Ambtenaar te worden gehoord. In dat geval wordt de betrokkene door de Leidend Ambtenaar schriftelijk opgeroepen binnen een termijn van vijftien dagen vanaf de datum van ontvangst van zijn brief. Nadat de betrokkene werd gehoord of indien hij binnen een termijn van vijftien dagen vanaf de datum van ontvangst van de oproepingsbrief aan die oproeping geen passend gevolg heeft gegeven, kan aan zijn mandaat door de Vlaamse minister, bevoegd voor de bijstand aan personen, een einde worden gesteld.<br /><br />§ 3. Bij de samenstelling van de evaluatiecommissie duidt de Vlaamse minister, bevoegd voor de bijstand aan personen, voor elke commissie onder de leden een voorzitter en een plaatsvervangend voorzitter aan.
+De voorzitters en de leden van de Vlaamse toeleidingscommissie, met uitzondering van de leden die personeelslid van het agentschap zijn, ontvangen presentiegelden en vergoedingen voor reiskosten en verblijfkosten conform het besluit van de Vlaamse regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse regering behoren.<br>
+<br>
+Voor de toepassing van het voormelde besluit wordt de Vlaamse toeleidingscommissie ingedeeld in categorie III als vermeld in artikel 3, §1, c), van het voormelde besluit.<br>
+<br>
+In afwijking van artikel 6 van het voormelde besluit, ontvangen de voorzitters een forfaitaire toelage van 158,33 euro per vergadering die ze hebben voorgezeten.<br>
+<br>
+Het bedrag, vermeld in het derde lid, wordt geïndexeerd conform artikel 13 van het besluit, vermeld in het eerste lid.<br>
+<br>
+De presentiegelden en vergoedingen zijn ten laste van het agentschap.
 
 ### ART. 15.
 
-Het secretariaat van de evaluatiecommissie wordt waargenomen door een personeelslid van het agentschap hiertoe aangeduid door de Leidend Ambtenaar.
+Het agentschap staat in voor de administratieve en logistieke ondersteuning van de Vlaamse toeleidingscommissie.<br>
+<br>
+De leidend ambtenaar van het agentschap stelt het huishoudelijk reglement van de Vlaamse toeleidingscommissie vast.
 
 ### ART. 16.
 
-Het lidmaatschap van een evaluatiecommissie is onverenigbaar met de uitoefening van een mandaat bij het raadgevend comité van het agentschap  of bij de adviescommissie, bedoeld in hoofdstuk IV. <br /><br />De functie van Voorzitter of plaatsvervangend Voorzitter van een evaluatiecommissie is daarenboven onverenigbaar met de hoedanigheid van lid van het raadgevend comité van het agentschap en van personeelslid van een door het agentschap erkende of gesubsidieerde voorziening of van personeelslid van het agentschap.<br /><br />Maximum twee leden kunnen lid of voorzitter van de Raad van Bestuur of personeelslid zijn van een door het agentschap erkende of gesubsidieerde voorziening.
-
-## AFDELING 2 WERKING
+De persoon met een handicap of zijn wettelijke vertegenwoordiger kunnen vragen om door de Vlaamse toeleidingscommissie te worden gehoord.
 
 ### ART. 17.
 
-§ 1. Bij ontstentenis van consensus worden de beslissingen bij gewone meerderheid der stemmen genomen. Bij staking van stemmen is de stem van de Voorzitter doorslaggevend.<br /><br />§ 2. [...  <span class="reference">(opgeh. B.V.R. 19 januari 2001, art. 6, I: 1 september 2000)</span> ]
+Om rechtsgeldig te beraadslagen, zetelt de Vlaamse toeleidingscommissie met een voorzitter en met minstens drie leden, van wie:<br>
+1° minstens één ervaringsdeskundige is. Als er voor een zitting geen ervaringsdeskundige gevonden kan worden, is er minstens een professionele deskundige aanwezig;<br>
+2° minstens één lid een diploma heeft van master of bachelor in de psychologie of in de pedagogische wetenschappen of een sociaal diploma master of bachelor in de gedrags-, sociale, psychosociale of paramedische wetenschappen;<br>
+3° minstens één lid een diploma heeft van doctor in de genees-, heel- en verloskunde of van master in de geneeskunde, als de commissie oordeelt over de aanwezigheid van een handicap als vermeld in artikel 12, 1°, van dit besluit.
 
 ### ART. 18.
 
-Het agentschap stelt het huishoudelijk reglement van de evaluatiecommissie op.<br /><br />Dit huishoudelijk reglement voorziet inzonderheid de wijze van bijeenroepen van de evaluatiecommissies, de plaats en de frequentie van hun vergaderingen, die tenminste eens per maand moeten plaatshebben.
+...
 
 ### ART. 19.
 
-Op verzoek van de aanvrager of van zijn wettelijke vertegenwoordiger of op initiatief van de evaluatiecommissie kan de aanvrager van ondersteuning worden gehoord. Indien de evaluatie-commissie beslist de aanvrager te horen, stelt zij hiervoor dag en uur vast en verwittigt zij betrokkene of zijn wettelijke vertegenwoordiger bij aangetekend schrijven.<br /><br />De aanvrager of zijn wettelijke vertegenwoordiger kan zich laten bijstaan door een persoon of organisatie naar keuze.<br /><br />Op initiatief van de evaluatiecommissie kan de instantie die multidisciplinaire verslagen aflevert, worden gehoord. Hiertoe stelt de evaluatiecommissie dag en uur vast en verwittigt de instantie bij aangetekend schrijven.
+...
 
 ### ART. 20.
 
-Als de evaluatiecommissie beslist bijkomende onderzoeken te laten verrichten, verwittigt zij de aanvrager van ondersteuning of zijn wettelijke vertegenwoordiger bij aangetekend schrijven met vermelding van de voorziening(en) en tot dewelke hij zich hiertoe kan richten.<br /><br />De maximale vergoeding die voor een bijkomend onderzoek ten laste van het agentschap kan worden gelegd, is gelijk aan het bedrag van de door de regering vastgelegde vergoeding die wordt toegekend aan de instanties belast met het opstellen van het multidisciplinair verslag.
+...
 
 ### ART. 21.
 
-Het agentschap bepaalt de verplaatsingsvergoeding voor de aanvrager of zijn wettelijke vertegen-woordiger die op initiatief van de evaluatiecommissie wordt gehoord.
+...
 
 ## HOOFDSTUK III DE INSTANTIES, BEVOEGD OM HET MULTIDISCIPLINAIR VERSLAG AF TE LEVEREN
 
@@ -322,7 +366,7 @@ Bij de combinatie van een vraag naar individuele materiële bijstand met een vra
 
 Bij het agentschap wordt een adviescommissie opgericht die tot taak heeft advies te verlenen over de verzoeken tot heroverweging, vermeld in artikel 10bis, § 3, en over de verzoeken tot heroverweging van het voornemen van beslissingen van het agentschap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
 <br>
-Het agentschap maakt jaarlijks een verslag van de werking van de adviescommissie met specifieke aandacht voor die adviezen die verschillen van de beoordelingen van de provinciale evaluatiecommissie, en van de regionale prioriteitencommissie, vermeld in artikel 16, derde lid, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering en tot hervorming van de wijze van financiering van de zorg en ondersteuning voor personen met een handicap.
+Het agentschap maakt jaarlijks een verslag van de werking van de adviescommissie met specifieke aandacht voor de adviezen die verschillen van de beoordeling van de Vlaamse toeleidingscommissie, vermeld in artikel 12.
 
 ### ART. 30.
 
@@ -346,13 +390,11 @@ Elk lid heeft ten minste vijf jaar nuttige ervaring in de welzijnssector in het 
 <br>
 In elke kamer zijn de specialisaties handicap, objectivering van de ondersteuningsnood als vermeld in artikel 8, eerste lid, 2°, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering en tot hervorming van de wijze van financiering van de zorg en ondersteuning voor personen met een handicap, prioritering als vermeld in artikel 16, vierde lid, van het voormelde decreet, en individuele materiële bijstand, verenigd, waarbij een lid ten hoogste twee specialisaties kan vertegenwoordigen.<br>
 <br>
-Een lid kan in verschillende kamers zetelen.<br>
-<br>
-Het lidmaatschap van een adviescommissie is onverenigbaar met het lidmaatschap van een provinciale evaluatiecommissie.
+Een lid kan in verschillende kamers zetelen.
 
 ### ART. 31.
 
-Voor elke kamer van de adviescommissie wordt een voorzitter aangeduid uit de leden bedoeld in artikel 30, § 2, eerste lid, 1°, 2°, 3° of 6° van dit besluit. [ <span class="reference">(verv. B.V.R. 16 september 1997, art. 4, I: 18 november 1997)</span> ]
+Voor elke kamer van de adviescommissie wordt een voorzitter aangeduid uit de leden, vermeld in artikel 30, §2, eerste lid, met uitzondering van het lid, vermeld in punt 7°.
 
 ### ART. 32.
 
