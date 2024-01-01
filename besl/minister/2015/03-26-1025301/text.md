@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   departement: het Departement Landbouw en Visserij van het Vlaams Ministerie van   Landbouw en Visserij;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   hoofd van het departement: het personeelslid dat belast is met de leiding van   het departement;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   minister: de Vlaamse minister, bevoegd voor de landbouw;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   Vlaams betaalorgaan: het Vlaams betaalorgaan, vermeld in het besluit van de   Vlaamse Regering van 28 maart 2003 tot oprichting van een Vlaams betaalorgaan   voor het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees   Landbouwgarantiefonds.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° hoofd van het departement: het personeelslid dat belast is met de leiding van het agentschap;<br>
+3° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
+4° Vlaams betaalorgaan: het Vlaams betaalorgaan, vermeld in het besluit van de Vlaamse Regering van 28 maart 2003 tot oprichting van een Vlaams betaalorgaan voor het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Landbouwgarantiefonds.
 
 ### ART. 2.
 
@@ -33,13 +37,15 @@ De   bij dit besluit verleende delegaties hebben zowel betrekking op de   appara
 
 ### ART. 6.
 
-&nbsp;Het hoofd van het departement heeft   delegatie om:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de dagelijkse briefwisseling die verband houdt met zijn opdracht te   ondertekenen, met behoud van de toepassing van de bijzondere regeling die geldt   voor de antwoorden op brieven aan het Rekenhof over de door het Rekenhof   geformuleerde opmerkingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   uittreksels en afschriften van documenten die verband houden met de taken van   het departement, eensluidend te verklaren en uit te reiken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het hoofd van het agentschap heeft delegatie om:<br>
+1° de dagelijkse briefwisseling die verband houdt met zijn opdracht te ondertekenen, met behoud van de toepassing van de bijzondere regeling die geldt voor de antwoorden op brieven aan het Rekenhof over de door het Rekenhof geformuleerde opmerkingen;<br>
+2° uittreksels en afschriften van documenten die verband houden met de taken van het agentschap, eensluidend te verklaren en uit te reiken.
 
 ## HOOFDSTUK 3 Delegatie inzake subsidies
 
 ### ART. 7.
 
-Het hoofd van het departement heeft delegatie om inzake subsidies in het kader van het landbouw- en visserijbeleid:<br>
+Het hoofd van het agentschap heeft delegatie om inzake subsidies in het kader van het landbouw- en visserijbeleid:<br>
 1° de begunstigden op de hoogte te brengen van de beslissingen over de aangevraagde steun;<br>
 2° in voorkomend geval beslissingen te nemen over de verlenging van de uitvoeringstermijn onder de volgende voorwaarden:<br>
 a) er is een gemotiveerde aanvraag op schriftelijke of elektronische wijze ingediend voor het verstrijken van de periode;<br>
@@ -53,19 +59,19 @@ c)...;<br>
 
 ### ART. 8.
 
-&nbsp;Het hoofd van het departement heeft   delegatie inzake het landbouw- en visserijbeleid om binnen de perken van de   uitvoerende opdracht de Vlaamse Gemeenschap en het Vlaamse Gewest te   vertegenwoordigen in federale, Europese en internationale instellingen en   organen, alsook in technische comités en werkgroepen, zowel in binnen- als   buitenland.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het hoofd van het agentschap heeft delegatie inzake het landbouw- en visserijbeleid om binnen de perken van de uitvoerende opdracht de Vlaamse Gemeenschap en het Vlaamse Gewest te vertegenwoordigen in federale, Europese en internationale instellingen en organen, alsook in technische comités en werkgroepen, zowel in binnen- als buitenland.
 
 ## HOOFDSTUK 5 Delegatie inzake Landbouwbureau en Coördinerende Instantie
 
 ### ART. 9.
 
-Het   hoofd van het departement heeft delegatie om de briefwisseling van het   Landbouwbureau en de Vlaamse cel van de Intergewestelijke Coördinerende   Instantie te ondertekenen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft delegatie om de briefwisseling van het Landbouwbureau en de Vlaamse cel van de Intergewestelijke Coördinerende Instantie te ondertekenen.
 
 ## HOOFDSTUK 6 Delegatie inzake het Vlaams Programma voor Plattelandsontwikkeling
 
 ### ART. 10.
 
-Het hoofd van het departement heeft inzake het Strategisch Plan delegatie om:<br>
+Het hoofd van het agentschap heeft inzake het Strategisch Plan delegatie om:<br>
 1° acties te ondernemen om het Strategisch Plan&nbsp; en de bijbehorende strategische richtlijnen op te stellen en daarover met de diensten van de Europese Commissie te onderhandelen;<br>
 2° alle noodzakelijke stappen te zetten om een Strategisch Plan op te zetten, erover te onderhandelen, het uit te voeren en op te volgen;<br>
 3° alle noodzakelijke stappen te zetten voor een efficiënte werking van het programmasecretariaat, zoals de informatiedoorstroming, de afstemming van de financiële behoeften van de maatregelen in kwestie op de beschikbare EU-cofinanciering, de organisatie van de voorgeschreven evaluaties en de voorbereiding van eventuele wijzigingen en het inleiden van de daaraan gekoppelde procedures, met het oog op een goed beheer van het Strategisch Plan.
@@ -74,29 +80,29 @@ Het hoofd van het departement heeft inzake het Strategisch Plan delegatie om:<br
 
 ### ART. 11.
 
-Het hoofd van het departement heeft delegatie om contracten te sluiten met geselecteerde organisaties conform&nbsp;verordening (EU) nr. 1144/2014 van het Europees Parlement en de Raad van 22 oktober 2014 inzake voorlichtings- en afzetbevorderingsacties betreffende landbouwproducten uitgevoerd op de interne markt en in derde landen en tot intrekking van Verordening (EG) nr. 3/2008 van de Raad en de uitvoeringsbepalingen ervan.
+Het hoofd van het agentschap heeft delegatie om contracten te sluiten met geselecteerde organisaties conform&nbsp;verordening (EU) nr. 1144/2014 van het Europees Parlement en de Raad van 22 oktober 2014 inzake voorlichtings- en afzetbevorderingsacties betreffende landbouwproducten uitgevoerd op de interne markt en in derde landen en tot intrekking van Verordening (EG) nr. 3/2008 van de Raad en de uitvoeringsbepalingen ervan.
 
 ## HOOFDSTUK 8 Delegatie inzake het Fonds voor het Landbouwinformatienetwerk
 
 ### ART. 12.
 
-Het   hoofd van het departement heeft delegatie om beslissingen te nemen over de   inkomsten en uitgaven van het Fonds voor het   Landbouwinformatienetwerk.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft delegatie om beslissingen te nemen over de inkomsten en uitgaven van het Fonds voor het Landbouwinformatienetwerk.
 
 ### ART. 13.
 
-Het   hoofd van het departement heeft delegatie om namens het Vlaamse Gewest   overeenkomsten over deelname aan het landbouwmonitoringsnetwerk met   correspondenten en overeenkomsten met derden voor de terbeschikkingstelling van   data en gegevens aan het landbouwmonitoringsnetwerk te sluiten, te wijzigen en   op te zeggen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft delegatie om namens het Vlaamse Gewest overeenkomsten over deelname aan het landbouwmonitoringsnetwerk met correspondenten en overeenkomsten met derden voor de terbeschikkingstelling van data en gegevens aan het landbouwmonitoringsnetwerk te sluiten, te wijzigen en op te zeggen.
 
 ## HOOFDSTUK 9 Delegatie inzake het Vlaams Fonds voor Landbouw en Visserij
 
 ### ART. 14.
 
-Het   hoofd van het departement heeft delegatie om beslissingen te nemen over de   inkomsten en uitgaven van het Vlaams Fonds voor Landbouw en Visserij als het   gaat om bedragen tot 200.000 euro.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft delegatie om beslissingen te nemen over de inkomsten en uitgaven van het Vlaams Fonds voor Landbouw en Visserij als het gaat om bedragen tot 200.000 euro.
 
 ## HOOFDSTUK 10 Delegatie inzake het FIVA en het Europees Fonds voor maritieme zaken en visserij
 
 ### ART. 15.
 
-Het hoofd van het departement heeft voor de toepassing van het besluit van de Vlaamse Regering van 5 februari 2016 houdende vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun in aanmerking komen, delegatie om inzake steunmaatregelen in uitvoering van het decreet van 13 mei 1997 houdende oprichting van een Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector:<br>
+Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 5 februari 2016 houdende vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun in aanmerking komen, delegatie om inzake steunmaatregelen in uitvoering van het decreet van 13 mei 1997 houdende oprichting van een Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector:<br>
 1° beslissingen te nemen over de toekenning van steun tot een bedrag van 150.000 euro per dossier aan Vlaamse middelen met uitzondering van de dossiers waarbij overheidswaarborg wordt toegekend;<br>
 2° alle beslissingen tot toekenning van steun te herzien als de nieuwe totale toegekende steun niet meer bedraagt dan 150.000 euro en als de toegekende waarborg niet stijgt;<br>
 3° beslissingen te nemen over de onderhandse verkoop van onroerende goederen die als zekerheid zijn ingebracht voor kredieten met FIVA-waarborg waarbij de prijs niet lager mag zijn dan de schatting door het Comité tot Aankoop van Onroerende Goederen of door de Ontvanger Der Domeinen en Penale Boeten;<br>
@@ -105,13 +111,16 @@ Het hoofd van het departement heeft voor de toepassing van het besluit van de Vl
 
 ### ART. 16.
 
-&nbsp;Het hoofd van het departement heeft   delegatie om voor de toepassing van verordening (EG) nr. 1198/2006 van de Raad   van 27 juli 2006 inzake het Europees Visserijfonds en verordening (EU) nr.   508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het   Europees Fonds voor maritieme zaken en visserij en tot intrekking van de   Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG)   nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees   Parlement en de Raad:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   beslissingen te nemen tot toekenning van de aanvullende Europese steun voor de   dossiers, vermeld in artikel 15, 1° ;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de opdracht te geven tot uitbetaling van de steun;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de beslissingen over de toegekende Europese steun te herzien zonder de   toegekende steun te verhogen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het hoofd van het agentschap heeft delegatie om voor de toepassing van verordening (EG) nr. 1198/2006 van de Raad van 27 juli 2006 inzake het Europees Visserijfonds en verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad:<br>
+1° beslissingen te nemen tot toekenning van de aanvullende Europese steun voor de dossiers, vermeld in artikel 15, 1° ;<br>
+2° de opdracht te geven tot uitbetaling van de steun;<br>
+3° de beslissingen over de toegekende Europese steun te herzien zonder de toegekende steun te verhogen.
 
 ## HOOFDSTUK 11 Delegatie inzake het VLIF
 
 ### ART. 17.
 
-Het hoofd van het departement heeft&nbsp;inzake VLIF-steun, voor dossiers die zijn ingediend tot en met 31 december 2022,&nbsp;delegatie om:<br>
+Het hoofd van het agentschap heeft&nbsp;inzake VLIF-steun, voor dossiers die zijn ingediend tot en met 31 december 2022,&nbsp;delegatie om:<br>
 1° beslissingen te nemen over de toekenning van VLIF-steun tot een verbintenis van 75.000 euro per dossier, met uitzondering van dossiers voor afzetcoöperaties en dossiers waarbij overheidswaarborg wordt toegekend;<br>
 2° alle beslissingen tot toekenning van VLIF-steun te herzien als de nieuwe totale toegekende steun niet meer bedraagt dan 75.000 euro en als de toegekende waarborg niet stijgt;<br>
 3° alle beslissingen te nemen die noodzakelijk zijn in het kader van de voortgangscontrole van de VLIF-dossiers;<br>
@@ -123,23 +132,23 @@ Het hoofd van het departement heeft&nbsp;inzake VLIF-steun, voor dossiers die zi
 
 ### ART. 18.
 
-Het   hoofd van het departement heeft voor de toepassing van het besluit van de   Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en   de keuring van zaaizaad van oliehoudende planten en vezelgewassen delegatie om   de erkenningen van keurmeesters, monsternemers en laboratoria onder officieel   toezicht in te trekken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen delegatie om de erkenningen van keurmeesters, monsternemers en laboratoria onder officieel toezicht in te trekken.
 
 ### ART. 19.
 
-Het   hoofd van het departement heeft voor de toepassing van het besluit van de   Vlaamse Regering van 18 maart 2005 houdende het in de handel brengen van   teeltmateriaal en plantgoed van groentegewassen, met uitzondering van   groentezaad delegatie om beslissingen te nemen over de erkenning van   laboratoria.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 18 maart 2005 houdende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van groentezaad delegatie om beslissingen te nemen over de erkenning van laboratoria.
 
 ### ART. 20.
 
-&nbsp;Het hoofd van het departement heeft   voor de toepassing van het besluit van de Vlaamse Regering van 25 maart 2005   houdende reglementering van de handel in en de keuring van zaaizaad van   groenvoedergewassen delegatie om erkenningen van keurmeesters, monsternemers en   laboratoria onder officieel toezicht in te trekken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 25 maart 2005 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen delegatie om erkenningen van keurmeesters, monsternemers en laboratoria onder officieel toezicht in te trekken.
 
 ### ART. 21.
 
-Het   hoofd van het departement heeft voor de toepassing van het besluit van de   Vlaamse Regering van 19 mei 2006 betreffende de loontriage van zaden van   bepaalde soorten van landbouwgewassen die bestemd zijn om te worden ingezaaid   delegatie om beslissingen te nemen over de erkenning van   loontrieerders.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 19 mei 2006 betreffende de loontriage van zaden van bepaalde soorten van landbouwgewassen die bestemd zijn om te worden ingezaaid delegatie om beslissingen te nemen over de erkenning van loontrieerders.
 
 ### ART. 22.
 
-Het   hoofd van het departement heeft voor de toepassing van het besluit van de   Vlaamse Regering van 3 december 2010 betreffende de certificering van hop en   hopproducten delegatie om beslissingen te nemen over de erkenning van   certificeringscentra.
+Het hoofd van het agentschap heeft voor de toepassing van het besluit van de Vlaamse Regering van 3 december 2010 betreffende de certificering van hop en hopproducten delegatie om beslissingen te nemen over de erkenning van certificeringscentra.
 
 ## HOOFDSTUK 13 Delegatie inzake het Vlaams betaalorgaan
 
@@ -147,38 +156,40 @@ Het   hoofd van het departement heeft voor de toepassing van het besluit van de 
 
 ### ART. 23.
 
-Het hoofd van het departement heeft inzake het Vlaams betaalorgaan delegatie om de Europese Commissie onverwijld op de hoogte te brengen van elke bepaling of significante wijziging inzake de accreditering van het betaalorgaan:<br>
+Het hoofd van het agentschap heeft inzake het Vlaams betaalorgaan delegatie om de Europese Commissie onverwijld op de hoogte te brengen van elke bepaling of significante wijziging inzake de accreditering van het betaalorgaan:<br>
 1° de benaming en het statuut van het betaalorgaan;<br>
 2° de administratieve, boekhoudkundige en op de interne controle betrekking hebbende voorwaarden, waaronder de betalingen worden verricht;<br>
 3° het accreditatiebesluit van het betaalorgaan.
 
 ### ART 23/1.
 
-Het hoofd van het departement adviseert de minister over het voortdurend voldoen van het Vlaams betaalorgaan aan de accrediteringscriteria en organiseert het toezicht op het voldoen aan de accrediteringscriteria van het Vlaams betaalorgaan.<br>
+Het hoofd van het agentschap adviseert de minister over het voortdurend voldoen van het Vlaams betaalorgaan aan de accrediteringscriteria en organiseert het toezicht op het voldoen aan de accrediteringscriteria van het Vlaams betaalorgaan.<br>
 <br>
-Het hoofd van het departement organiseert het toezicht op het voldoen aan de accrediteringscriteria van de coördinerende instantie.
+Het hoofd van het agentschap organiseert het toezicht op het voldoen aan de accrediteringscriteria van de coördinerende instantie.
 
 ### ART 23/2.
 
-Het hoofd van het departement staat in voor het laten uitvoeren van de certificeringsaudit op de jaarrekeningen van het Vlaams betaalorgaan door een onafhankelijke auditorganisatie als vermeld in artikel 12 van verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013.
+Het hoofd van het agentschap staat in voor het laten uitvoeren van de certificeringsaudit op de jaarrekeningen van het Vlaams betaalorgaan door een onafhankelijke auditorganisatie als vermeld in artikel 12 van verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013.
 
 ## [Afdeling 2 Delegatie inzake de taken van de directeur van het Vlaams betaalorgaan (ing. MB 25 mei 2023, art. 9, I: 1 januari 2023)]
 
 ### ART. 24.
 
-<P>Het   hoofd van het departement heeft delegatie om de bevoegdheden van de directeur   van het Vlaams betaalorgaan te bepalen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder directeur van het Vlaams betaalorgaan: het   personeelslid dat belast is met de leiding van het Vlaams   betaalorgaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het hoofd van het agentschap heeft delegatie om de bevoegdheden van de directeur van het Vlaams betaalorgaan te bepalen.</p>
+
+<p>In het eerste lid wordt verstaan onder directeur van het Vlaams betaalorgaan: het personeelslid dat belast is met de leiding van het Vlaams betaalorgaan.</p>
 
 ## [HOOFDSTUK 13/1 Delegatie inzake rechtsgedingen (ing. MB 15 maart 2017, art. 4, I: 16 april 2017)]
 
 ### ART 24/1.
 
-Het hoofd van het departement heeft delegatie om beslissingen te nemen over het instellen van een hoger beroep of een voorziening in cassatie in de rechtsgedingen voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof.
+Het hoofd van het agentschap heeft delegatie om beslissingen te nemen over het instellen van een hoger beroep of een voorziening in cassatie in de rechtsgedingen voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof.
 
 ## [HOOFDSTUK 13/2 Delegatie inzake invoer-, uitvoer en restitutiecertificaten (ing. MB 20 september 2017, art. 3, I: 20 oktober 2017)]
 
 ### ART 24/2.
 
-Het hoofd van het departement heeft delegatie om het beheer en de administratieve controle van de invoer-, uitvoer en restitutiecertificaten te verzekeren.
+Het hoofd van het agentschap heeft delegatie om het beheer en de administratieve controle van de invoer-, uitvoer en restitutiecertificaten te verzekeren.
 
 ## HOOFDSTUK 14 Slotbepalingen
 
