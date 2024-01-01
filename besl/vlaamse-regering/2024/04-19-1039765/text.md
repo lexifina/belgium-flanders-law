@@ -56,6 +56,10 @@ In artikel 2, §11, van het besluit van de Vlaamse Regering van 29 april 1992 be
 
 In artikel 5, §1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 31 augustus 1999 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 3 september 2021, wordt de zinsnede “, opleiding verpleegkunde” telkens opgeheven.
 
+### ART 5.
+
+In artikel 10, 2°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 1 juni 2018, worden de woorden “of het ambt van coördinator” vervangen door de woorden “of van het bestuurs- en onderwijzend personeel”.
+
 ### ART 6.
 
 In artikel 11, §2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 juli 2023, wordt de zinsnede “, opleiding verpleegkunde” opgeheven.
@@ -74,6 +78,80 @@ In artikel 6 van het besluit van de Vlaamse regering van 7 oktober 1997 betreffe
 ## Hoofdstuk 5. Wijziging van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding
 
 ## Hoofdstuk 6. Wijziging van het besluit van de Vlaamse Regering van 15 juni 2018 betreffende de vastlegging en indeling van de ambten, de prestatieregeling, de vaststelling van het recht op een salaris en de aanwending van de omkaderingsgewichten in een centrum voor leerlingenbegeleiding
+
+### ART 10.
+
+In artikel 8 van het besluit van de Vlaamse Regering van 15 juni 2018 betreffende de vastlegging en indeling van de ambten, de prestatieregeling, de vaststelling van het recht op een salaris en de aanwending van de omkaderingsgewichten in een centrum voor leerlingenbegeleiding wordt punt 1° vervangen door wat volgt:<br>
+“1° voor een voltijdse betrekking
+<table cellspacing="0" style="border-collapse:collapse; width:596px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; text-align:center; vertical-align:middle; width:410px">ambt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:186px">omkaderingsgewicht</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">directeur met salarisschaal 525 of 599</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,6</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">directeur met salarisschaal 464</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">arts</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,6</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">coördinator met salarisschaal 540</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">coördinator met salarisschaal 413</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">consulent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,3</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">psycho-pedagogisch consulent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,3</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 200 of 202</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">0,7</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 333</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 542</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1,2</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">maatschappelijk werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">paramedisch werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">psycho-pedagogisch werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">ervaringsdeskundige</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">0,5</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">intercultureel bemiddelaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:186px">0,7</td>
+		</tr>
+	</tbody>
+</table>
+”.
 
 ## Hoofdstuk 7. Wijzigingen van het besluit van de Vlaamse Regering van 9 september 2022 over de lerarenbonus
 
