@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° actieve landbouwer: de actieve landbouwer, vermeld in artikel 4, §2, van het besluit van 21 april 2023;<br>
 2° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° e-loket: het elektronisch loket dat ontwikkeld en beheerd wordt door de bevoegde entiteit;<br>
 5° factorinkomen: het factorinkomen, vermeld in artikel 4, §1, 3°, van het besluit van 21 april 2023;<br>
 6° innovatie: de implementatie van nieuwe of significant verbeterde producten, diensten, processen, technieken, wijzen van vermarkten of organisatiestructuren voor de eerste keer in het Vlaamse Gewest voor een bepaalde deelsector die het potentieel hebben de economische, ecologische en sociale kracht van de landbouwsector te versterken en waarvoor investeringen vereist zijn;<br>
@@ -122,7 +122,7 @@ Investeringen die hernieuwbare energie opleveren, komen alleen in aanmerking voo
 
 De minister kan jaarlijks een of meer oproepen lanceren voor de subsidiëring van innovatieve investeringen op landbouwbedrijven.<br>
 <br>
-Naast de elementen, vermeld in artikel 6, 2°, artikel 13, tweede lid, artikel 15, zesde lid, artikel 19, eerste en derde lid, en artikel 21, tweede lid, kan de minister bij elke oproep het volgende bepalen:<br>
+Naast de elementen, vermeld in artikel 6, 2°, artikel 13, tweede lid, artikel 15, zesde lid, artikel 19, eerste en vierde lid, en artikel 21, tweede lid, kan de minister bij elke oproep het volgende bepalen:<br>
 1° het totale beschikbare steunbedrag;<br>
 2° het maximaal subsidiabel investeringsbedrag per kandidaat-begunstigde of per aanvraag;<br>
 3° de minimale en de maximale investeringsuitgaven per kandidaat-begunstigde of per aanvraag;<br>
@@ -166,7 +166,7 @@ De bevoegde entiteit onderzoekt of de steunaanvragen, vermeld in artikel 11, ont
 
 ### ART 15.
 
-De ontvankelijke steunaanvragen, vermeld in artikel 14 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt uit personeelsleden van het beleidsdomein Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+De ontvankelijke steunaanvragen, vermeld in artikel 14 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt uit personeelsleden van het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 De bevoegde entiteit kan bij de samenstelling van de beoordelingscommissie een beroep doen op externe milieuexperten in functie van de noodzaak aan expertise voor een bepaald thema.<br>
 <br>
@@ -218,6 +218,11 @@ De begunstigden voeren het project uit zoals het is goedgekeurd in het toekennin
 
 Tenzij het anders bepaald is in de oproep, vermeld in artikel 10, dient de begunstigde uiterlijk op de laatste dag van de zesendertigste maand na de laatste dag van de maand waarin de steunaanvraag, vermeld in artikel 11, kon ingediend worden, via het e-loket een betalingsaanvraag in.<br>
 <br>
+Een verlenging van de indieningstermijn van de betalingsaanvraag, vermeld in het eerste lid, is alleen toegelaten als al de volgende voorwaarden zijn vervuld:<br>
+1° de kandidaat-begunstigde heeft een gemotiveerde aanvraag ingediend voor de periode, vermeld in het eerste lid, is verstreken;<br>
+2° de verlenging brengt geen budgettaire meerkosten teweeg;<br>
+3° de bevoegde entiteit keurt de verlenging van de periode goed.<br>
+<br>
 De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° een eindrapport waarin de projectresultaten beschreven worden;<br>
 2° een projectboekhouding met aangifte van facturen van de uitgevoerde investeringen;&nbsp;<br>
@@ -237,8 +242,8 @@ De betalingsaanvraag, vermeld in het eerste lid, wordt ingediend conform de inst
 Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 3, als al de volgende voorwaarden zijn vervuld op het moment dat de betalingsaanvraag, vermeld in artikel 19, wordt ingediend:<br>
 1° de investering is uitgevoerd conform de omschrijving in de steunaanvraag, vermeld in artikel 11;<br>
 2° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning als de investering dat vereist;<br>
-3° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest;<br>
-4° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest;<br>
+3° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest, in het geval van een samenwerkingsverband, als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest;<br>
+4° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest, in het geval van een samenwerkingsverband, als vermeld in artikel 4, eerste lid, 2°, komt de realisatie van roerende investeringen ten goede aan het samenwerkingsverband;<br>
 5° de uitvoering van de investering is op zijn vroegst van start gegaan op de dag na de periode waarin de steunaanvraag, vermeld in artikel 11, ingediend kon worden. Voorbereidende acties zoals de aankoop van grond, de aanvraag van een omgevingsvergunning, een omgevingsvergunning of de aanvraag van advies of een prijsofferte, worden niet beschouwd als de start van de investering;<br>
 6° de investering is operationeel en wordt gebruikt;<br>
 7° de begunstigde die de betalingsaanvraag, vermeld in artikel 19, indient, is een actieve landbouwer of een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°;<br>
