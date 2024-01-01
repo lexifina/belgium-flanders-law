@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039139,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-01 tot uitvoering van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, wat betreft de indiening van de voordrachtsakten van kandidaten voor de lokale en provinciale verkiezingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039139/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "d391e9e6138642061e6e69146f253e35a0bed41a1b77985557c0973c4b2986cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039139&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-01",
+  "gazette": "2023-12-28",
+  "numac": 2023048438,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
