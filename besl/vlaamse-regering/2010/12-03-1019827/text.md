@@ -7,7 +7,7 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 1234/2007 van de R
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+1° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° hop: de producten, vermeld in bijlage I, deel VI van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad, en nader omschreven in de definities, vermeld in bijlage II, deel III, van de voormelde verordening;<br>
 3° hopproducten : de producten die vervaardigd zijn uit hop die in de Europese Unie is geoogst of die uit derde landen is ingevoerd, overeenkomstig de bepalingen van Verordening (EG) nr. 1295/2008 van de Commissie van 18 december 2008 betreffende de invoer van hop uit derde landen;<br>
 3° aanvrager : de producent van hop of de exploitant van het certificeringscentrum die de certificering bij de bevoegde entiteit aanvraagt;<br>
