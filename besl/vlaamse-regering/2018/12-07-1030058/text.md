@@ -19,12 +19,20 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
-2° centrum voor kortverblijf: een ouderenvoorziening als vermeld in artikel 30 en 32 van het Woonzorgdecreet van 13 maart 2009, die erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
+1° administratie: het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+1°/1 besluit van 28 juni 2019: het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
+2° centrum voor kortverblijf:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een centrum voor kortverblijf type 1 vermeld in artikel 26, §1, tweede lid, 1°, van het Woonzorgdecreet van 15 februari 2019, met uitsluiting van het centrum voor kortverblijf dat uitgebaat wordt in de daartoe bestemde lokalen van een erkend centrum voor herstelverblijf;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een centrum voor kortverblijf met een bijkomende erkenning vermeld in artikel 26, §2, van het Woonzorgdecreet van 15 februari 2019:<br>
+een centrum voor kortverblijf dat gebruikers die thuis wonen tijdelijk en op een multidisciplinaire wijze een intensief observatie- en begeleidingstraject aanreikt met als doel de gebruikers te oriënteren naar het meest passende woonzorgaanbod, en dat daardoor een bijkomende erkenning als oriënterend kortverblijf heeft verkregen;<br>
 2°/1 centrum voor kortverblijf type 3: een centrum waarin respijtzorg voor ernstig zieke kinderen en jongeren tot en met 21 jaar aangeboden wordt, als vermeld in artikel 26, §1, tweede lid, 3°, van het Woonzorgdecreet van 15 februari 2019;<br>
-3° dagverzorgingscentrum: het dagverzorgingscentrum, vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, dat een bijkomende erkenning heeft conform artikel 10/5 van het besluit van de Vlaamse Regering van 24 juli 2009;<br>
+3° centrum voor dagverzorging:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een centrum voor dagverzorging als vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019, dat een bijkomende erkenning heeft conform artikel 6, §2, eerste lid, 1°, en tweede lid, van het besluit van 28 juni 2019;<br>
+b)&nbsp;&nbsp; &nbsp;een centrum voor dagverzorging voor personen met een ernstige ziekte: een centrum voor dagverzorging met een bijkomende erkenning als centrum voor dagverzorging voor personen die lijden aan een ernstige ziekte als vermeld in artikel 6, §2, eerste lid, 1°, en tweede lid, van het besluit van 28 juni 2019;<br>
+c)&nbsp;&nbsp; &nbsp;een centrum voor dagverzorging voor zorgafhankelijke personen: een centrum voor dagverzorging met een bijkomende erkenning als centrum voor dagverzorging voor zorgafhankelijke personen als vermeld in artikel 6, §2, eerste lid, 1°, en tweede lid, van het besluit van 28 juni 2019;<br>
 4° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 4° /1 deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf: het deel van de basistegemoetkoming voor zorg in de woonzorgcentra en centra voor kortverblijf dat de voorzieningen tussen 1 januari 2020 en 31 december 2021 verkregen op basis van artikel 504/3 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+4°/2 initiatief van beschut wonen: een initiatief van beschut wonen als vermeld in artikel 2, 9°, van het decreet van 6 juli 2018;<br>
 5° multidisciplinaire begeleidingsequipes voor palliatieve zorg: een begeleidingsequipes als vermeld in artikel 2, 11° van het decreet van 6 juli 2018, die erkend zijn door de Vlaamse Regering conform artikel 96 van het voormelde decreet;<br>
 6° openbare dienst: de plaatselijke of provinciale overheid waar de openbare voorziening van afhangt;<br>
 7° psychiatrisch verzorgingstehuis: een psychiatrisch verzorgingstehuis als vermeld in artikel 2, 12° van het decreet van 6 juli 2018, dat erkend is door de Vlaamse Regering conform artikel 56 van het voormelde decreet;<br>
@@ -32,8 +40,16 @@ In dit besluit wordt verstaan onder:<br>
 9° revalidatieziekenhuis: een revalidatieziekenhuis als vermeld in artikel 2, 17° van het decreet van 6 juli 2018;<br>
 10° RSZ: de Rijksdienst voor Sociale Zekerheid, vermeld in artikel 5, 5/1 en 5/2 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 10° /1 vijfde Vlaams Intersectoraal Akkoord: vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/-non profitsectoren (VIA5) voor de periode 2018 tot 2020;<br>
-11° woonzorgcentrum: een ouderenvoorziening als vermeld in artikel 37 van het Woonzorgdecreet van 13 maart 2009, dat erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
+11° woonzorgcentrum: een woonzorgcentrum als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019, dat erkend is conform artikel 4 van het besluit van 28 juni 2019;<br>
 12° zesde Vlaams Intersectoraal Akkoord: zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/-non profitsectoren (VIA6) voor de periode 2021 tot 2025.
+
+### ART 1/1.
+
+In dit artikel wordt verstaan onder vestiging: een of meer gebouwen die op dezelfde plaats liggen en die als woonzorgcentrum, centrum voor kortverblijf type 1 of centrum voor dagverzorging worden uitgebaat.<br>
+<br>
+Als meerdere vestigingen als één woonzorgcentrum, al dan niet met centrum voor kortverblijf of centrum voor kortverblijf met een bijkomende erkenning zijn erkend met toepassing van artikel 2 of 3 van het besluit van 9 mei 2014 houdende de regels voor de erkenning van meerdere vestigingen van een woonzorgcentrum, een centrum voor kortverblijf, een dagverzorgingscentrum of een dagverzorgingscentrum met bijkomende erkenning als één woonzorgcentrum, één centrum voor kortverblijf, één dagverzorgingscentrum of één dagverzorgingscentrum met bijkomende erkenning, wordt elk van die vestigingen als een afzonderlijk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf of centrum voor kortverblijf met een bijkomende erkenning beschouwd voor de toepassing van dit besluit.<br>
+<br>
+Als meerdere vestigingen als één centrum voor dagverzorging, één centrum voor dagverzorging voor personen met een ernstige ziekte of één centrum voor dagverzorging voor zorgafhankelijke personen zijn erkend met toepassing van artikel 5/1 en 5/2 van het voormelde besluit, wordt elk van die vestigingen als een afzonderlijk centrum voor dagverzorging, centrum voor dagverzorging voor personen met een ernstige ziekte of centrum voor dagverzorging voor zorgafhankelijke personen beschouwd voor de toepassing van dit besluit.
 
 ## HOOFDSTUK 2. Maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan in bepaalde gezondheidsinrichtingen en -diensten
 
@@ -43,11 +59,12 @@ In dit hoofdstuk wordt verstaan onder:<br>
 1° voorziening: een van de volgende instellingen als zij vallen onder het toepassingsgebied van de collectieve arbeidsovereenkomst of een protocol zoals voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en in de uitvoeringsbesluiten bij deze wet, vermeld in artikel 3 van dit besluit:<br>
 a) de revalidatievoorzieningen<br>
 b) de woonzorgcentra;<br>
-c) de dagverzorgingscentra, met uitzondering van de dagverzorgingscentra die erkend zijn voor zorg- en dienstverlening uitsluitend aan gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verleend, als vermeld in artikel 51 van bijlage IX van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
+c) de dagverzorgingscentra;<br>
 d) de centra voor kortverblijf;<br>
 e) de psychiatrische verzorgingstehuizen;<br>
 f) de multidisciplinaire begeleidingsequipes voor palliatieve zorg;<br>
 g) de centra voor kortverblijf type 3;<br>
+h) de initiatieven van beschut wonen;<br>
 2° personeelsleden:<br>
 a) het verpleegkundig personeel, met inbegrip van de ziekenhuisassistenten en de sociaal verpleegkundigen, en het zorgkundig personeel;<br>
 b) de medewerkers patiëntenvervoer;<br>
@@ -115,8 +132,8 @@ De volgende werknemers geven geen recht op een tegemoetkoming voor vervangende t
 7° de personeelsleden die tewerkgesteld zijn met toepassing van het koninklijk besluit van 19 december 2001 tot bevordering van de tewerkstelling van langdurig werkzoekenden;<br>
 8° de personeelsleden die tewerkgesteld zijn met toepassing van het besluit van 19 december 2002 van de Waalse Regering tot uitvoering van het decreet van 25 april 2002 betreffende de tegemoetkomingen ter bevordering van de indienstneming van niet-werkende werkzoekenden door de plaatselijke, gewestelijke en gemeenschapsoverheden, door bepaalde werkgevers in de niet-commerciële sector, het onderwijs en van andere wetsbepalingen;<br>
 9° de vervangers van de werknemers van minstens vijftig jaar, die niet van de maatregelen van vrijstelling van arbeidsprestaties en eindeloopbaan genieten, maar die een bijkomend verlof genieten zoals dit is voorzien in het akkoord voor de gezondheidssector van 26 april 2005, afgesloten tussen de federale regering en de representatieve organisaties van de private non-profit sector, of in het protocol nr. 148/2 van het Gemeenschappelijk Comité voor alle overheidsdiensten van 29 juni, 5 juli en 18 juli 2005;<br>
-10° de personeelsleden die andere personeelsleden vervangen die een opleiding tot verpleegkundige volgen, met toepassing van alle collectieve arbeidsovereenkomsten, gesloten in het Paritair Comité voor de gezondheidsinrichtingen en -diensten, betreffende het vormingsproject tot verpleegkundigen;<br>
-11° de personeelsleden die andere personeelsleden vervangen die een opleiding tot verpleegkundige volgen, met toepassing van de raamakkoorden over het opleidingsproject tot verpleegkundige in de federale gezondheidssector;<br>
+10° de personeelsleden die andere personeelsleden vervangen die een opleiding tot verpleegkundige of zorgkundige volgen, met toepassing van alle collectieve arbeidsovereenkomsten, gesloten in het Paritair Comité voor de gezondheidsinrichtingen en -diensten, betreffende het vormingsproject tot verpleegkundigen;<br>
+11° de personeelsleden die andere personeelsleden vervangen die een opleiding tot verpleegkundige of zorgkundige volgen, met toepassing van de raamakkoorden over het opleidingsproject tot verpleegkundige in de federale gezondheidssector;<br>
 12° de personeelsleden die gefinancierd worden in het kader van het koninklijk besluit van 2 juli 2009 tot vaststelling van de voorwaarden waaronder het Verzekeringscomité met toepassing van artikel 56, § 2, eerste lid, 3°, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, overeenkomsten kan sluiten voor de financiering van alternatieve en ondersteunende zorg voor kwetsbare ouderen;<br>
 13° de personeelsleden die gefinancierd worden in het kader van de overeenkomsten gesloten met toepassing van artikel 22 van de gecoördineerde ziekteverzekeringswet;<br>
 14° de personeelsleden die gefinancierd worden in het kader van het koninklijk besluit van 27 april 2007 houdende de algemene uitvoeringsbepalingen van de maatregelen ten gunste van de tewerkstelling van jongeren in socialprofitsector voortspruitend uit de wet van 23 december 2005 betreffende het generatiepact;<br>
@@ -126,40 +143,51 @@ De volgende werknemers geven geen recht op een tegemoetkoming voor vervangende t
 18° de personeelsleden in de centra voor dagverzorging die gefinancierd worden op basis van de bepalingen van boek 3, deel 1, titel 1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 19° de personeelsleden die gefinancierd worden in het kader van artikel 60, § 7 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 20° de personeelsleden die werken onder het statuut van een leercontract of een overeenkomst inzake inschakeling in het maatschappelijk en beroepsleven, vermeld in het besluit van de Regering van de Franse Gemeenschap van 28 juli 1998 betreffende de overeenkomst inzake inschakeling in het maatschappelijk en beroepsleven van de centra voor alternerende opleiding en onderwijs;<br>
-21° het aandeel vte waarin de prestaties van de loontrekkende kinesitherapeut via de nomenclatuur worden gefactureerd.
+21° het aandeel vte waarin de prestaties van de loontrekkende kinesitherapeut via de nomenclatuur worden gefactureerd;<br>
+22° de logistieke medewerkers in de zorg;<br>
+23° de zijinstroomzorgkundigen, vermeld in artikel 1,58°/1, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+24° de BelRAI-coördinator voor het deel dat gefinancierd wordt in deel A2 op basis van artikel 487 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+25° de personeelsleden die een opleiding volgen tot verpleegkundige of zorgkundige in het kader van het federaal project #kiesvoordezorg;<br>
+26° de personeelsleden die gefinancierd worden krachtens andere wetten, decreten, ordonnanties, reglementaire bepalingen of krachtens een individueel of collectief gesloten overeenkomst.
 
 ### ART 5.
 
-§ 1. De voorzieningen delen aan de administratie de volgende gegevens per trimester mee:<br>
+§1. De voorzieningen delen aan de administratie de volgende gegevens per trimester mee:<br>
 1° de volgende gegevens over de voorziening:<br>
 a) het statuut;<br>
 b) het sociale zekerheidsnummer;<br>
 c) de gemiddelde wekelijkse arbeidsduur voor voltijdse prestaties;<br>
 2° de volgende gegevens per personeelslid in een bepaalde functie. Het betreft de personeelsleden die in het jaar waarvoor de tegemoetkoming wordt bepaald, minstens 44 jaar zijn geworden:<br>
 a) de voor- en achternaam;<br>
-b) het inschrijvingsnummer in het Rijksregister;<br>
+b) het INSZ-nummer;<br>
 c) het aantal te presteren uren per week, zoals blijkt uit de arbeidsovereenkomst of de individuele benoemingsakte, in de functie die het voordeel van de maatregel, vermeld in artikel 3 van dit besluit, verantwoordt met begin- en einddatum waarop dat aantal uren van toepassing is;<br>
 d) als het gaat om een nieuw personeelslid of als een einde is gesteld aan de tewerkstelling: de begin- of einddatum;<br>
 e) het aantal gepresteerde en gelijkgestelde dagen en voor de periode van deeltijdse tewerkstelling het aantal gepresteerde en gelijkgestelde uren;<br>
 f) de optie voor vrijstelling van arbeidsprestaties of het behoud van de arbeidsduur met het recht op een premie als tegenwaarde en de periode waarvoor die optie van toepassing is;<br>
-g) de beroepskwalificatie en de geldelijke anciënniteit;<br>
+g) de beroepskwalificatie;<br>
 h) voor de gelijkgestelde personeelsleden: de gegevens waaruit blijkt dat die personeelsleden voldoen aan de voorwaarden, vermeld in artikel 3, § 4, van dit besluit;<br>
 i) het aantal niet-gelijkgestelde dagen of uren;<br>
 3° de volgende gegevens over de compensatie van vrijstelling van arbeidsprestaties waaruit blijkt dat de vrijstelling van arbeidsprestaties gecompenseerd is door een nieuwe aanwerving of door een verhoging van de wekelijkse arbeidsduur van een andere werknemer:<br>
 a) de voornaam, de achternaam en de beroepskwalificatie van de werknemer;<br>
-b) het inschrijvingsnummer van de werknemer in het Rijksregister;<br>
+b) het INSZ-nummer van de werknemer;<br>
 c) het aantal uren van de nieuwe of bijkomende tewerkstelling en de aanvangsdatum en eventueel de einddatum ervan;<br>
 d) als de administratie erom verzoekt, een afschrift van de arbeidsovereenkomst of een afschrift van de benoemingsakte van de inrichtende macht als het om een openbare dienst gaat. Uit dat afschrift moet blijken dat de nieuwe of bijkomende tewerkstelling, vermeld in punt c), het gevolg is van de compensatie van de vrijstelling van arbeidsprestaties;<br>
 e) als de administratie erom verzoekt, een kopie van de RSZ-aangifte waarin het personeelsbestand is opgenomen;<br>
 f) als de administratie erom verzoekt, het bewijs dat de voordelen, vermeld in artikel 3 van dit besluit, worden toegepast.<br>
 <br>
-§ 2. De voorziening bezorgt aan de administratie over ieder trimester een elektronisch ingevulde vragenlijst waarvan de administratie het model bepaalt.<br>
+Op basis van het INSZ-nummer dat wordt meegedeeld conform het eerste lid, haalt de administratie de volgende gegevens zelf op uit het Rijksregister of uit de Kruispuntbankregisters, vermeld in artikel 4 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid<br>
+1°&nbsp;&nbsp; &nbsp;voor- en achternaam;<br>
+2°&nbsp;&nbsp; &nbsp;geboortedatum.<br>
+<br>
+§2. De voorziening bezorgt aan de administratie over ieder trimester een elektronisch ingevulde vragenlijst waarvan de administratie het model bepaalt.<br>
 <br>
 De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
 <br>
-§ 3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
+§3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
 <br>
-Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.
+Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.<br>
+<br>
+§4. De administratie bewaart de persoonsgegevens, vermeld in paragraaf 1, gedurende maximaal tien jaar nadat de voorziening de gegevens in kwestie heeft bezorgd.
 
 ### ART 5/2.
 
@@ -288,7 +316,7 @@ Het bedrag, vermeld in artikel 13, tweede lid, wordt gestort op voorwaarde dat u
 
 ### ART 15.
 
-De administratie stort de tegemoetkoming, vermeld in artikel 13, tweede lid, uiterlijk op 31 januari van het jaar na het referentiejaar aan de vzw Syndicaal Fonds Non-Profit, met vermelding van het referentiejaar.
+De administratie stort de tegemoetkoming, vermeld in artikel 13, tweede lid, uiterlijk op 30 juni van het jaar na het referentiejaar aan de vzw Syndicaal Fonds Non-Profit, met vermelding van het referentiejaar.
 
 ### ART 16.
 
@@ -319,11 +347,13 @@ De toewijzing van bijkomende tewerkstelling kan niet op de Vlaamse overheid word
 
 ### ART 16/3.
 
-Het dagverzorgingscentrum kan aan de administratie de premies factureren voor titels en beroepskwalificaties die de voorziening betaald heeft aan de rechthebbende verpleegkundige met toepassing van artikel 1, § 1 en § 2, van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties.<br>
+De administratie berekent voor het centrum voor dagverzorging een tegemoetkoming voor de premies voor titels en beroepskwalificaties die de voorziening betaald heeft aan de rechthebbende verpleegkundige met toepassing van artikel 1, §1 en §2, van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties. De voormelde tegemoetkoming wordt op de volgende wijze berekend:<br>
+1° &nbsp;&nbsp; &nbsp;voor de rechthebbende op de premie, vermeld in artikel 1, §1, van het voormelde koninklijk besluit, conform de volgende formule: (1656,02 euro x het aantal te financieren voltijdsequivalenten van verpleegkundigen in de voorziening dat beschikt over een beroepsbekwaamheid van geriatrisch verpleegkundige of een beroepsbekwaamheid van verpleegkundige met een bijzondere deskundigheid in de palliatieve zorg);<br>
+2°&nbsp;&nbsp; &nbsp;voor de rechthebbende voor de premie, vermeld in artikel 1, §2, van het voormelde koninklijk besluit, conform de volgende formule: (4968,07 euro x het aantal te financieren voltijdsequivalenten van verpleegkundigen in de voorziening die beschikken over een beroepstitel van geriatrisch verpleegkundige).<br>
 <br>
-De voorziening, vermeld in het eerste lid, levert voor 31 oktober van het jaar waarin de premie is uitbetaald aan de rechthebbende, het bewijs dat de premie, waarvoor ze een factuur heeft ingediend, aan die rechthebbende is uitbetaald.<br>
+De administratie stort de tegemoetkoming, vermeld in het eerste lid, aan de rechthebbende uiterlijk op 31 december van het jaar waarin het centrum voor dagverzorging die tegemoetkoming heeft uitbetaald.&nbsp;<br>
 <br>
-In afwijking van het eerste lid kan het dagverzorgingscentrum de premies, vermeld in het eerste lid, niet factureren als het bedrag van de uitbetaalde premie opgenomen is in de tegemoetkoming voor zorg in een woonzorgcentrum of centrum voor kortverblijf conform artikel 499 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+De administratie kan de facturen, en eventuele bijkomende informatie, van de voorziening opvragen ter controle.
 
 ## [HOOFDSTUK 3/2. ... (opgeh. BVR 7 februari 2020, art. 1, I: 1 oktober 2019)]
 
@@ -483,7 +513,7 @@ Het bedrag dat aan de voorzieningen wordt gestort is gelijk aan het bedrag dat i
 
 ### ART 16/15/2.
 
-§1. In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
+§1. In augustus 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in juli 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
 <br>
 §2. In juni 2024 wordt het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2023, aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -494,6 +524,37 @@ Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze 
 ### ART 16/15/3.
 
 Het totaal van de bedragen die aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, worden gestort conform artikel 16/13, 16/14, 16/15, 16/15/1 en 16/15/2, is niet hoger dan het totaal van de bedragen die daarvoor op basis van het vijfde en zesde Vlaams intersectoraal akkoord zijn vastgelegd in de begroting van 2022 en 2023.
+
+### ART 16/15/4
+
+Uiterlijk op 31 mei 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2024.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan 90% van het bedrag dat conform artikel 16/15, §1, tweede lid, in mei 2023 of conform artikel 16/15, §2, eerste lid, in juni 2023 aan de administratie is meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+&nbsp;
+
+### ART 16/15/5
+
+Uiterlijk op 31 december 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 2° tot en met 4° en uiterlijk op 30 april 2025 aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10°, het saldo van het bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen voor de rechten 2024 of vordert de administratie het te veel betaalde bedrag terug. Het &nbsp;saldo is het verschil tussen de volgende bedragen:<br>
+1°&nbsp; het bedrag dat een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 30 november 2024 aan de administratie meedeelt voor de voorzieningen, vermeld in artikel 16/10, eerste lid, 2° tot en met 4°, en uiterlijk op 31 maart 2025 voor de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10°;<br>
+2°&nbsp; het bedrag dat de administratie op basis van artikel 16/15/4 betaalt.&nbsp;<br>
+<br>
+De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/15/4 is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2024.
+
+### ART 16/15/6
+
+Uiterlijk op 31 maart 2025 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2025.<br>
+<br>
+Het bedrag dat aan de voorzieningen vermeld in artikel 16/10, eerste lid, 2° tot en met 4° wordt gestort, is gelijk aan 90% van het bedrag dat conform artikel 16/15/5, eerste lid, 1°, uiterlijk op 30 november 2024 aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.&nbsp;<br>
+<br>
+Het bedrag dat aan de voorzieningen vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10° wordt gestort, is gelijk aan 90% van het bedrag dat conform artikel 16/15/5, eerste lid, 1°, uiterlijk op 31 maart 2025 aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit. &nbsp;
+
+### ART 16/15/7
+
+Uiterlijk op 31 december 2025 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 2° tot en met 4° en uiterlijk op 30 april 2026 aan de voorzieningen vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2025, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen de volgende bedragen:<br>
+1°&nbsp; het bedrag dat een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 30 november 2025 aan de administratie meedeelt voor de voorzieningen vermeld in artikel 16/10, eerste lid, 2° tot en met 4°, en uiterlijk op 31 maart 2026 voor de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10°;<br>
+2°&nbsp; het bedrag dat de administratie op basis van artikel 16/15/6 betaalt.<br>
+<br>
+De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/15/6, is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2025.
 
 ### ART 16/16.
 
@@ -549,9 +610,38 @@ Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan
 
 ### ART 16/21/2.
 
-In juni 2024 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/21/1 betaald heeft.<br>
+In augustus 2024 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in juli 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/21/1 betaald heeft.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/21/1, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
+
+### ART 16/21/3
+
+Uiterlijk op 31 mei 2024 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2024.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan 90% van het bedrag dat conform artikel 16/21, tweede lid, uiterlijk in mei 2023 aan de administratie is meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+
+### ART 16/21/4
+
+Uiterlijk op 31 december 2024 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2024 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen de volgende bedragen:<br>
+1°&nbsp; het bedrag dat een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 30 november 2024 aan de administratie meedeelt;<br>
+2°&nbsp; het bedrag dat de administratie op basis van artikel 16/21/3 betaalt.<br>
+<br>
+De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/21/3, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2024.<br>
+&nbsp;
+
+### ART 16/21/5
+
+Uiterlijk op 31 maart 2025 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2025.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan 90% van het bedrag dat conform artikel 16/21/4, eerste lid, 1°, uiterlijk op 30 november 2024 aan de administratie is meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+
+### ART 16/21/6
+
+Uiterlijk op 31 december 2025 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2025 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen de volgende bedragen:<br>
+1°&nbsp;&nbsp; &nbsp;het bedrag dat een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 30 november 2025 aan de administratie meedeelt;<br>
+2°&nbsp;&nbsp; &nbsp;het bedrag dat de administratie op basis van artikel 16/21/5 betaalt.<br>
+<br>
+De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/21/5, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2025.
 
 ### ART 16/22.
 
@@ -605,10 +695,10 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoe
 ### BIJLAGE
 
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage. Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan (tegen spilindexcijfer 103,04 (1 juni 2017; basis 2013 = 100)) als vermeld in artikel 6.</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Aanduiding categorie per functie:</span></span></span><br>
+Bijlage. Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan (tegen spilindexcijfer 103,04 (1 juni 2017; basis 2013 = 100)) als vermeld in artikel 6.<br>
+Aanduiding categorie per functie:<br>
 &nbsp;
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>functie</td>
@@ -661,9 +751,8 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoe
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan op 1 juni 2017 (tegen spilindexcijfer 103,04 (basis 2013 = 100)):</span></span></span>
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan op 1 juni 2017 (tegen spilindexcijfer 103,04 (basis 2013 = 100)):
+<table border="1">
 	<tbody>
 		<tr>
 			<td>categorie</td>
@@ -715,4 +804,61 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoe
 	</tbody>
 </table>
 <br>
-&nbsp;
+Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan (tegen spilindexcijfer 103,04 (1 juni 2017; basis 2013 = 100)) als vermeld in artikel 6, specifiek voor de initiatieven voor beschut wonen.<br>
+<br>
+Aanwijzing categorie per functie:
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:453px">functie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:98px">categorie</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:453px">de verpleegkundigen, de sociaal verpleegkundigen en de assistenten in de ziekenhuisverzorging</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:98px">i</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:453px">de kinesitherapeuten, de ergotherapeuten, de logopedisten, de diëtisten, de opvoeders-begeleiders, geïntegreerd in de zorgteams, de maatschappelijk assistenten en de psychologisch assistenten in de zorgteams of geïntegreerd in het therapeutische programma, de psychologen, de orthopedagogen en de pedagogen in de zorgteams of geïntegreerd in het therapeutische programma</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:98px">ii</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:453px">de verzorgenden en de werknemers, vermeld in artikel 152 en 153 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:98px">iii</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:453px">het gelijkgestelde personeel en de logistieke assistenten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:98px">iv</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Bedrag van de jaarlijkse loonkosten in het kader van de financiering van de eindeloopbaan op 1 juni 2017 (tegen spilindexcijfer 103,04 (basis 2013 = 100)), specifiek voor de initiatieven voor beschut wonen:
+<table cellspacing="0" style="border-collapse:collapse; width:538px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">categorie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:231px">premie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:231px">vervanging</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:76px">i</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">68.719,04</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">50.286,36</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:76px">ii</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">68.719,04</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">50.286,36</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:76px">iii</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">51.179,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">40.592,66</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:76px">iv</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">46.245,61</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:231px">40.554,10</td>
+		</tr>
+	</tbody>
+</table>
