@@ -79,9 +79,10 @@ b) het statuut van natuurlijke persoon die beschikt over burgerrechten en politi
 3° de onderneming is geen achterstallige belastingen, boeten of intresten verschuldigd, noch socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten, verschuldigd aan de Rijksdienst voor Sociale Zekerheid;<br>
 4° de onderneming is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 5° de onderneming toont haar professionele deskundigheid op het vlak van loopbaanbegeleiding aan. Ze voldoet daarvoor aan al de volgende voorwaarden:<br>
-a) de zaakvoerder, exploitant of verantwoordelijke van de onderneming of haar aangestelden of lasthebbers beschikken over een beroepservaring van ten minste drie jaar in de sector van loopbaanbegeleiding, loopbaanoriëntatie of -coaching, outplacement of werkzoekendenbegeleiding;<br>
+a) de zaakvoerder, exploitant of verantwoordelijke van de onderneming of haar aangestelden of lasthebbers beschikken over een beroepservaring van ten minste drie jaar in de sector van loopbaanbegeleiding, loopbaanoriëntatie of -coaching, outplacement of werkzoekendenbegeleiding en beschikken over een beroepskwalificatie van loopbaanbegeleider;<br>
 b) de onderneming legt een visie voor over hoe loopbaanbegeleiding strookt met de beleidsdoelstelling en past die toe; de onderneming waarborgt dat de visie van de onderaannemers ook strookt met de beleidsdoelstellingen en dat de onderaannemers die ook toepassen;<br>
 c) de onderneming licht toe hoe ze de expertise over loopbaanbegeleiding, alsook de kennis van de aanpak en methodiek van haar eigen personeelsleden en van onderaannemers systematisch waarborgt;<br>
+d) de eigen personeelsleden, de personeelsleden van onderaannemers en de zelfstandig ondernemers die de dienstverlening uitvoeren, beschikken over een beroepskwalificatie van loopbaanbegeleider;<br>
 6° de onderneming onderschrijft de bepalingen van de gedragscode, opgenomen in de bijlage die bij dit besluit is toegevoegd en de praktische onderrichtingen, uitgevaardigd door de VDAB;<br>
 7° &nbsp;...;<br>
 8° de bestuurders, zaakvoerders, lasthebbers, of andere personen die bevoegd zijn om de onderneming te verbinden of te vertegenwoordigen, of de hoofdaandeelhouders van de onderneming, in zoverre zij in de feiten de bevoegdheden van bestuurder uitoefenen, werden tijdens een periode van vijf jaar voorafgaand aan de datum van mandaataanvraag niet :<br>
@@ -141,7 +142,7 @@ De minister kan nadere voorwaarden bepalen op het vlak van de wijze van aanvraag
 
 ### ART. 8.
 
-De professioneel actieve persoon, of een door hem aangestelde derde,   betaalt een tegemoetkoming in de kosten van zijn loopbegeleiding van veertig   euro per loopbaancheque.
+De professioneel actieve persoon, of een door hem aangestelde derde, betaalt een tegemoetkoming in de kosten van zijn loopbegeleiding van vijfenveertig euro per loopbaancheque.
 
 ### ART. 9.
 
@@ -161,7 +162,7 @@ De loopbaancheque wordt door de gemandateerde onderneming uiterlijk negen maande
 
 Binnen de perken van de goedgekeurde jaarlijkse begroting en volgens de voorwaarden, vermeld in dit besluit, krijgt de gemandateerde onderneming een vergoeding voor de loopbaanbegeleiding, verstrekt aan de professioneel actieve persoon.<br>
 <br>
-De vergoeding per uur loopbaanbegeleiding bedraagt 140,25 euro exclusief btw en vertegenwoordigt:<br>
+De vergoeding per uur loopbaanbegeleiding bedraagt 150,07 euro exclusief btw en vertegenwoordigt:<br>
 1° de personeelskosten van de loopbaanbegeleider voor de loopbaanbegeleiding, vermeld in artikel 4;<br>
 2° werkingskosten die maximaal 25 procent van de personeelskosten bedragen;<br>
 3° een winstaandeel van maximaal 6 procent van de loon- en werkingskosten.<br>
