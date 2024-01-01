@@ -159,6 +159,75 @@ In artikel 4.1.1 van hetzelfde decreet worden de volgende wijzigingen aangebrach
 1° in het tweede lid wordt de zin “Voor de toepassing van de instrumenten inrichtingswerken uit kracht van wet, vrijwillige bedrijfsverplaatsing, bedrijfsreconversie, bedrijfsstopzetting, recht van voorkoop, vestigen van erfdienstbaarheden tot openbaar nut, herverkaveling uit kracht van wet, herverkaveling uit kracht van wet met planologische ruil en vergoeding voor waardeverlies van gronden, is een machtiging van de Vlaamse Regering vereist.” opgeheven;<br>
 2° in het derde lid wordt de zin “Voor de toepassing van de instrumenten inrichtingswerken uit kracht van wet, vrijwillige bedrijfsverplaatsing, bedrijfsreconversie, bedrijfsstopzetting, recht van voorkoop, vestigen van erfdienstbaarheen tot openbaar nut, herverkaveling uit kracht van wet, herverkaveling uit kracht van wet met planologische ruil en vergoeding voor waardeverlies van gronden, is een machtiging van de Vlaamse Regering vereist.” opgeheven.
 
+### ART 104.
+
+Artikel 75 van het decreet van 25 april 2014 betreffende de omgevings vergunning, gewijzigd bij de decreten van 8 december 2017 en 3 mei 2019 en bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 75. §1. De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden.<br>
+<br>
+De bevoegde overheid neemt de volgende lasten op bij een omgevingsvergunning:<br>
+1° de lasten die de gemeenteraad heeft opgelegd bij de beslissing over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, vermeld in artikel 31;<br>
+2° de lasten met het oog op de verwezenlijking van een bescheiden woonaanbod als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 5.100 van de Vlaamse Codex Wonen van 2021;<br>
+3° de lasten die de gemeenteraad met toepassing van artikel 5.6.11, §4, van de Vlaamse Codex Ruimtelijke Ordening heeft opgelegd bij de volledige of gedeeltelijke vrijgave van een woonreservegebied;<br>
+4° de lasten bij toepassing van de volgende afwijkingsregels van stedenbouwkundige voorschriften van titel 4, hoofdstuk 4, van de Vlaamse Codex Ruimtelijke Ordening:<br>
+&nbsp; a) de afwerkingsregel conform artikel 4.4.3 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+&nbsp; b) de basisrechten voor zonevreemde constructies conform artikel 4.4.10 tot 4.4.20 van dezelfde codex;<br>
+&nbsp; c) de zonevreemde functiewijzigingen conform artikel 4.4.23 van dezelfde codex.<br>
+<br>
+§2. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich neemt.<br>
+<br>
+De lasten zijn redelijk in verhouding tot het vergunde project. Ze kunnen worden verwezenlijkt door toedoen van de aanvrager.<br>
+<br>
+De bevoegde overheid kan een gefaseerde uitvoering van de lasten voorschrijven.<br>
+<br>
+§3. De lasten, vermeld in paragraaf 1, kunnen betrekking hebben op:<br>
+1° de verwezenlijking of de renovatie van groene ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur om de mobiliteit, nutsvoorzieningen of woningen op kosten van de vergunninghouder te verbeteren. Vóór er lasten voor nutsvoorzieningen worden opgelegd, vraagt de bevoegde overheid, de ambtenaar die ze gemachtigd heeft of in voorkomend geval de gemeentelijke omgevingsambtenaar advies aan de nutsmaatschappijen die actief zijn in de gemeente waarin het voorwerp van de vergunning ligt. Daarbij wordt gestreefd naar het gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van die aanleg zo veel mogelijk wordt beperkt;<br>
+2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt;<br>
+3° de gratis, vrij en onbelaste grondafstand bij eigendomsoverdracht van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd;<br>
+4° de storting van een geldwaarde, bestemd voor het ruimtelijk beleid, op voorwaarde dat dit geregeld wordt in een stedenbouwkundige verordening als vermeld in artikel 2.3.1 en 2.3.2 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+§4. De lasten in natura, vermeld in paragraaf 3, 1° tot en met 3°, bevinden zich in of in de nabijheid van projecten die de lasten doen ontstaan. Ze worden in de vergunning bepaald op basis van de aard en de te verwachten gevolgen van het project.<br>
+<br>
+De inkomsten van de financiële lasten, vermeld in paragraaf 3, 4°, worden door de bevoegde overheid aangewend voor het ruimtelijk beleid. De bevoegde overheid bewerkstelligt bij de opmaak van haar begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten bestemd wordt binnen het ruimtelijke beleid, zoals in het bijzonder het voldoen van planschadevergoedingen en de aanwending van het instrument planologische ruil. Onder planologische ruil wordt verstaan: de omwisseling van gebiedsbestemmingen vanuit een samenhangende visie op de duurzame ruimtelijke ordening van het volledige plangebied.<br>
+<br>
+De bevoegde overheid kan beslissen om de bedragen van de lasten van meerdere vergunningen aan te wenden om gelijke handelingen en werken te verwezenlijken, als geen enkele bijdrage afzonderlijk zou volstaan om de verwezenlijking ervan volledig te financieren.<br>
+<br>
+§5. Bij een overdracht van een omgevingsvergunning blijft de overdragende partij gehouden tot de goede uitvoering van de lasten totdat de overdracht gerealiseerd is, waarop de nieuwe vergunninghouder vervolgens gehouden is de lasten uit te voeren.”.
+
+### ART 105.
+
+Artikel 76 van hetzelfde decreet wordt opgeheven.
+
+### ART 106.
+
+Artikel 77 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+“Art. 77. §1. Voor de lasten in natura, vermeld in artikel 75, §3, 1° tot en met 3°, verleent de houder van de vergunning die daarop betrekking heeft, een financiële waarborg vóór er met de werken gestart wordt.<br>
+<br>
+De waarborg dekt de volledige geraamde kostprijs van de lasten, vermeld in het eerste lid, behalve als kan worden vastgesteld dat de financiële toestand van de begunstigde van de vergunning dat niet toelaat. De bevoegde overheid kan die dekking verminderen tot een niveau dat aanvaardbaar is voor de financiële toestand van de begunstigde van de vergunning, maar de waarborg mag niet kleiner zijn dan de helft van de geraamde kosten van de lasten.<br>
+&nbsp;<br>
+De waarborg kan worden geleverd met een borgstelling via een overschrijving op de Deposito- en Consignatiekas of door een financiële instelling borg te laten staan voor het bedrag van het project.<br>
+<br>
+De waarborg kan worden vrijgemaakt naarmate de als lasten opgelegde handelingen en werken worden uitgevoerd, in verhouding tot de investeringen die in het kader van de lasten al zijn verricht, tegen maximaal 60% van de totale waarde, waarbij het saldo pas wordt vrijgemaakt als de bevoegde overheid of haar gemachtigde die handelingen en werken voorlopig opgeleverd heeft.<br>
+<br>
+§2. Als de uitvoering van diverse lasten financieel wordt gewaarborgd, hanteert de bevoegde overheid één waarborg voor de totaliteit van de lasten in kwestie, waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elke last afzonderlijk.<br>
+<br>
+§3. Bij een overdracht van een vergunning blijft de overdragende partij ertoe gehouden borg te staan voor de goede uitvoering van de lasten totdat de nieuwe houder van de vergunning de bevoegde overheid een financiële waarborg heeft geleverd die gelijk is aan de waarborg, vermeld in paragraaf 1.<br>
+<br>
+§4. De waarborg is in de volgende gevallen opeisbaar of van rechtswege door de bevoegde overheid verworven ten belope van de waarde van de lasten die nog niet uitgevoerd zijn:<br>
+1° bij niet-naleving van de uitvoeringstermijnen voor de lasten, vermeld in de definitief uitvoerbare vergunning, waartegen geen beroep meer mogelijk is bij de Raad voor Vergunningsbetwistingen;<br>
+2° als de vergunning waarvoor lasten werden opgelegd, vervalt na gedeeltelijk te zijn uitgevoerd.<br>
+<br>
+§5. De waarborg kan zonder uitvoering van de lasten alleen worden vrijgemaakt als de vergunning waarvoor de lasten werden opgelegd, vervallen is en het project niet of zelfs niet gedeeltelijk werd uitgevoerd.”.
+
+### ART 107.
+
+Aan artikel 99, §1, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 2016 en 8 december 2017, wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° als de lasten die in de omgevingsvergunning zijn opgelegd, niet zijn uitgevoerd:<br>
+a) binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+b) binnen tien jaar na het verlenen van de definitieve omgevingsvergunning om te verkavelen zonder wegenaanleg;<br>
+c) binnen vijftien jaar na het verlenen van de definitieve omgevingsvergunning om te verkavelen met wegenaanleg.”.
+
 ### ART 115.
 
 De Vlaamse Regering bepaalt de data van inwerkingtreding van dit decreet, met uitzondering van artikel 41 tot en met 43, artikel 82, artikel 89 tot en met 96, artikel 100, 1°, artikel 102 en artikel 103.<br>
