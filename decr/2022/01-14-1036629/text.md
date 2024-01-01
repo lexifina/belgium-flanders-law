@@ -416,15 +416,15 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART 42.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 50 euro tot 500 euro, of met een van die straffen alleen:<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een strafrechtelijke geldboete van 50 tot 500 euro:<br>
 1° de werkgever, zijn lasthebbers of aangestelden die nalaten om voor werknemers met een arbeidsbeperking een ondersteuningsplan te doen opstellen of te doen actualiseren conform artikel 23, eerste lid, van dit decreet;<br>
 2° de werkgever, zijn lasthebbers of aangestelden die voor de coaching van werknemers met een arbeidsbeperking werknemers inzetten die niet beantwoorden aan de voorwaarden vastgesteld krachtens artikel 24 van dit decreet.
 
 ### ART 43.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 125 euro tot 1250 euro, of met een van die straffen alleen:<br>
-1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
-2° personen die een of meer van de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, hebben verkregen of die een premie behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een strafrechtelijke geldboete van 100 tot 1000 euro:<br>
+1° ...;<br>
+2° ...;<br>
 3° de werkgever, zijn lasthebbers of aangestelden die in strijd met de behoefte aan werkondersteunende maatregelen, vastgesteld conform artikel 32, eerste lid, van dit decreet, niet voorzien in een begeleiding op de werkvloer;<br>
 4° de werkgever, zijn lasthebbers of aangestelden die niet voorzien in een begeleiding en coaching die overeenstemmen met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van dit decreet;<br>
 5° de werkgever, zijn lasthebbers of aangestelden die de correcte uitvoering van de begeleiding en coaching, vermeld in hoofdstuk 4, afdeling 3, van dit decreet, verhinderen;<br>
@@ -436,11 +436,11 @@ De geldboete die wordt opgelegd met toepassing van het eerste lid, 3° tot en me
 
 ### ART 44.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2500 euro, of met een van die straffen alleen:<br>
-1° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
-2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-4° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 300 tot 3000 euro, of met een van die straffen alleen:<br>
+1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
+2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 5° personen die, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, een van de volgende handelingen hebben gesteld:<br>
 a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
 1) door valse handtekeningen;<br>
@@ -475,7 +475,7 @@ Als er geen afrekening is voor de premies, vermeld in het eerste lid, of als de 
 
 ### ART 49.
 
-Alle bepalingen van boek 1 van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de overtredingen, vermeld in dit decreet. Bij herhaling is artikel 85 van het Strafwetboek niet van toepassing.
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.
 
 ### ART 50.
 
