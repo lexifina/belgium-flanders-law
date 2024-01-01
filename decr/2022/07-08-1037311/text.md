@@ -331,6 +331,45 @@ De Vlaamse Regering kan de beslissing, vermeld in het eerste lid, alleen nemen n
 
 ## HOOFDSTUK 5. Arbeidsmatige activiteiten
 
+### ART 28.
+
+Het aanbod van arbeidsmatige activiteiten en de invulling van de begeleiding wordt door de Vlaamse Regering nader gedefinieerd.<br>
+<br>
+De Vlaamse Regering bepaalt de minimale kwaliteitsvoorwaarden voor het aanbod van arbeidsmatige activiteiten.
+
+### ART 29.
+
+Deelname aan arbeidsmatige activiteiten is mogelijk voor onbepaalde duur tenzij de evaluatie uitwijst dat deelname niet meer nodig of opportuun is.<br>
+<br>
+De Vlaamse Regering bepaalt de doelgroep voor deelname aan arbeidsmatige activiteiten nader en kan de toegangsvoorwaarden bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de deelname aan arbeidsmatige activiteiten wordt geëvalueerd.
+
+### ART 30.
+
+De Vlaamse Regering bepaalt erkennings- en subsidiëringsvoorwaarden, het subsidiebedrag en de subsidieperiode voor het aanbod van arbeidsmatige activiteiten.<br>
+<br>
+De Vlaamse Regering wijst de dienst of de diensten van de Vlaamse administratie aan die zijn belast met de subsidiëring van de arbeidsmatige activiteiten.
+
+### ART 31.
+
+De dienst of de diensten die de Vlaamse Regering conform artikel 30 van dit decreet aanwijst om arbeidsmatige activiteiten te subsidiëren, treden op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens van de deelnemers arbeidsmatige activiteiten om de deelname aan de arbeidsmatige activiteiten en de evaluatie op te volgen. De begeleiders arbeidsmatige activiteiten, en in voorkomend geval de organisaties die deelnemers toeleiden, bezorgen hiertoe de gegevens, vermeld in artikel 32, eerste lid.
+
+### ART 32.
+
+De volgende persoonsgegevens worden verwerkt voor de subsidiëring van de arbeidsmatige activiteiten:<br>
+1° de identificatiegegevens van de deelnemers arbeidsmatige activiteiten, met inbegrip van de eventuele evaluatie voor deelname;<br>
+2° de identificatiegegevens van de begeleiders arbeidsmatige activiteiten;<br>
+3° de start- en einddatum van de arbeidsmatige activiteiten.<br>
+<br>
+Voor de gegevensuitwisseling, vermeld in het eerste lid, gebruiken de diensten de volgende identificatiemiddelen:<br>
+1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.
+
+### ART 33.
+
+Met behoud van de toepassing van de noodzakelijke bewaring van de persoonsgegevens voor de latere verwerking met het oog op archivering in het algemeen belang, voor wetenschappelijk of historisch onderzoek of voor statistische doeleinden, vermeld in artikel 89 van de algemene verordening gegevensbescherming, worden de persoonsgegevens, vermeld in artikel 32, eerste lid, bewaard gedurende de noodzakelijke duur voor de beoogde doeleinden, vermeld in artikel 32 van dit decreet, met een maximale bewaartermijn die niet meer mag bedragen dan tien jaar na de verjaring van alle vorderingen die tot de bevoegdheid van de verwerkingsverantwoordelijke behoren, en in voorkomend geval, de definitieve beëindiging van de gerechtelijke, administratieve en buitengerechtelijke procedures en beroepen die voortvloeien uit de verwerking van die gegevens.
+
 ## HOOFDSTUK 6. Toezicht en handhaving
 
 ### ART 34.
