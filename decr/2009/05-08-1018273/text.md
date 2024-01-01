@@ -137,20 +137,22 @@ Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten 
 
 ### ART. 9.
 
-<p>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter beschikking van de instellingen om het nascholingsplan uit te voeren.<br>
+<p>§1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter beschikking van de instellingen om het nascholingsplan uit te voeren.<br>
 <br>
-§ 2. De volgende bedragen worden per begrotingsjaar en met ingang vanaf begrotingsjaar 2023 toegekend, met uitzondering van de leersteuncentra waarvoor het toe te kennen bedrag vanaf het begrotingsjaar 2024 wordt vermeld:<br>
+§2.&nbsp;&nbsp;De volgende bedragen worden per begrotingsjaar en met ingang vanaf begrotingsjaar 2023 toegekend, met uitzondering van de leersteuncentra waar- voor het toe te kennen bedrag vanaf het begrotingsjaar 2024 wordt vermeld:<br>
 1° voor het basisonderwijs: 5.342.667 euro in begrotingsjaar 2023 en 7.931.000 euro vanaf begrotingsjaar 2024;<br>
 2° voor het secundair onderwijs: 7.307.000 euro in begrotingsjaar 2023 en 9.419.000 euro vanaf begrotingsjaar 2024;<br>
 3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 354.000 euro;<br>
 4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
-5° voor de CLB's: 178.000 euro;<br>
+5° voor de CLB’s: 178.000 euro;<br>
 6° voor de basiseducatie: 77.500 euro;<br>
 7° voor de leersteuncentra: 167.000 euro.<br>
 <br>
-Vanaf het begrotingsjaar 2025 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex..<br>
+Vanaf het begrotingsjaar 2025 worden die bedragen aangepast aan de evolutie van de gezondheidsindex.<br>
 <br>
-§ 3. Het aandeel in de middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis van het aantal organieke betrekkingen in de instelling op 1 februari van het voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de middelen, vermeld in § 2, bestemd zijn.</p>
+§3. Het aandeel in de middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis van het aantal organieke betrekkingen in de instelling op 1 februari van het voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de middelen, vermeld in § 2, bestemd zijn.<br>
+<br>
+§4. In afwijking van paragraaf 3 worden voor de telling op 1 februari 2023 de ondersteuners die zijn aangesteld in scholen voor buitengewoon onderwijs, niet meegeteld, en wordt voor de leersteuncentra in het jaar 2024 het aandeel in de middelen, bepaald in paragraaf 2, 7°, waarop elk leersteuncentrum recht heeft, pro rata berekend op basis van het aantal organieke betrekkingen in het leersteuncentrum op 1 oktober 2023.</p>
 
 ### ART. 10.
 
