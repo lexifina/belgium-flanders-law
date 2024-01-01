@@ -27,7 +27,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° actieve landbouwer: de actieve landbouwer, vermeld in artikel 4, §2, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
-2° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° EIP: het Europees Innovatiepartnerschap voor productiviteit en duurzaamheid in de landbouw, vermeld in artikel 127 van verordening (EU) 2021/2115;<br>
 4° e-loket: het elektronisch loket dat ontwikkeld en beheerd wordt door de bevoegde entiteit;<br>
 5° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
@@ -215,8 +215,8 @@ De bevoegde entiteit onderzoekt of de steunaanvragen, vermeld in artikel 13, eer
 ### ART 17.
 
 De ontvankelijke steunaanvragen, vermeld in artikel 16 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt en die minimaal uit de volgende leden bestaat:<br>
-1° drie personeelsleden van het beleidsdomein Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° één vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie, vermeld in artikel 21, §1, van het voormelde besluit.<br>
+1° drie personeelsleden van de bevoegde entiteit;<br>
+2° één vertegenwoordiger van het Agentschap Innoveren en Ondernemen, vermeld in artikel 29/1, eerste lid, 1°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, van het voormelde besluit.<br>
 <br>
 De bevoegde entiteit kan bij de samenstelling van de beoordelingscommissie een beroep doen op externe experten in functie van de noodzaak aan expertise voor een bepaald subthema.<br>
 <br>
