@@ -32,99 +32,74 @@ Besluit :<br>
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder besluit van 2 februari 2018 : het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.
+...
 
 ## HOOFDSTUK 2 Mandatering van de casemanager Zorg
 
 ### ART 2.
 
-Het model van aanvraagformulier, vermeld in artikel 8, derde lid, van het besluit van 2 februari 2018, wordt opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Het aanvraagformulier, vermeld in artikel 2, wordt op digitale wijze ingediend bij het Departement Zorg.<br>
-&nbsp;
+...
 
 ### ART 4.
 
-Het bewijs, vermeld in artikel 9, eerste lid, 2°, van het besluit van 2 februari 2018, wordt verstrekt door een verklaring op erewoord van de rechtsgeldige vertegenwoordiger in het aanvraagformulier, vermeld in artikel 2 van dit besluit.
+...
 
 ### ART 5.
 
-Het Departement Zorg brengt de mandaataanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 11, eerste lid, van het besluit van 2 februari 2018.<br>
-&nbsp;
+...
 
 ### ART 6.
 
-De mandaten van de casemanagers Zorg, vermeld in artikel 12, eerste lid, van het besluit van 2 februari 2018, eindigen op 30 juni 2023.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 3 De erkenning, opdrachten en subsidiëring van de begeleider arbeidsmatige activiteiten
 
 ### ART 7.
 
-Het model van aanvraagformulier, vermeld in artikel 46, § 2, derde lid, van het besluit van 2 februari 2018, wordt opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ### ART 8.
 
-Het aanvraagformulier, vermeld in artikel 7, wordt op digitale wijze ingediend bij het Departement Zorg.<br>
-&nbsp;
+...
 
 ### ART 9.
 
-Het bewijs, vermeld in artikel 46, § 2, vierde lid, 2°, van het besluit van 2 februari 2018, wordt verstrekt door een verklaring op erewoord van de rechtsgeldige vertegenwoordiger in het aanvraagformulier, vermeld in artikel 7 van dit besluit.
+...
 
 ### ART 10.
 
-Het Departement Zorg brengt de aanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 46, § 2, zesde lid, van het besluit van 2 februari 2018.<br>
-&nbsp;
+...
 
 ### ART 11.
 
-De begeleider arbeidsmatige activiteiten die initieel erkend is voor een periode van vijf jaar, vraagt de verlenging van de erkenning ten minste acht maanden voor het verstrijken van de erkenningsduur aan bij het Departement Zorg. Op voorwaarde dat aan alle erkenningsvoorwaarden voldaan is, wordt een verlenging van de erkenning voor een periode van vijf jaar als begeleider arbeidsmatige activiteiten toegekend.<br>
-<br>
-Een ontvankelijke aanvraag tot verlenging bevat de gegevens en stukken, vermeld in artikel 46, § 2, vierde lid, van het besluit van 2 februari 2018.<br>
-<br>
-Voor de procedure tot verlenging van de erkenning zijn artikel 46, § 2, vijfde lid, zesde lid en negende lid, van het besluit van 2 februari 2018 en artikel 7, 8, 9 en 10 van dit besluit van overeenkomstige toepassing.<br>
-&nbsp;
+...
 
 ### ART 12.
 
-De begeleiding door de erkende begeleider arbeidsmatige activiteiten houdt naast de opdrachten, vermeld in artikel 47 van het besluit van 2 februari 2018, ook de opdracht in om een ontwerp van de overeenkomst, vermeld in artikel 49 van het besluit van 2 februari 2018, op te stellen.<br>
-&nbsp;
+...
 
 ### ART 13.
 
-Om in aanmerking te komen voor subsidiëring, moet de erkende begeleider arbeidsmatige activiteiten beantwoorden aan al de volgende voorwaarden :<br>
-1° de erkende begeleider arbeidsmatige activiteiten dient op digitale wijze de volgende gegevens in tijdens de kalendermaand waarin de overeenkomst, vermeld in artikel 49 van het besluit van 2 februari 2018, wordt gesloten :<br>
-a) het erkenningsnummer van de erkende begeleider arbeidsmatige activiteiten;<br>
-b) de voor- en achternaam en het rijksregisternummer van de persoon die arbeidsmatige activiteiten wil verrichten en in aanmerking komt om arbeidsmatige activiteiten te verrichten;<br>
-c) de startdatum van de overeenkomst;<br>
-d) een kopie van de gesloten overeenkomst;<br>
-2° de erkende begeleider arbeidsmatige activiteiten dient op digitale wijze de volgende gegevens in tijdens de kalendermaand waarin de overeenkomst, vermeld in artikel 49 van het besluit van 2 februari 2018, wordt opgezegd :<br>
-a) het erkenningsnummer van de erkende begeleider arbeidsmatige activiteiten;<br>
-b) de voor- en achternaam en het rijksregisternummer van de persoon die arbeidsmatige activiteiten heeft verricht;<br>
-c) de datum van de beëindiging van de overeenkomst.<br>
-<br>
-Als de erkende begeleider arbeidsmatige activiteiten de gegevens, vermeld in het eerste lid, 1°, niet indient tijdens de kalendermaand waarin de overeenkomst, vermeld in artikel 49 van het besluit van 2 februari 2018, wordt gesloten, komt de erkende begeleider arbeidsmatige activiteiten pas in aanmerking voor subsidiëring vanaf de maand waarin de gegevens zijn ingediend.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 4 Slotbepaling
 
 ### ART 14.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ## BIJLAGE 1
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/04/23_1.pdf#page=14">http://www.ejustice.just.fgov.be/mopdf/2018/04/23_1.pdf#page=14</a>
+...
 
 ## BIJLAGE 2
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/04/23_1.pdf#page=17">http://www.ejustice.just.fgov.be/mopdf/2018/04/23_1.pdf#page=17</a>
+...
