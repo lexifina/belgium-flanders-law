@@ -63,7 +63,7 @@ Een erkend dierenasiel komt in aanmerking voor een forfaitaire basissubsidie van
 3° het erkende dierenasiel voert een gezond financieel beleid dat diverse inkomstenbronnen bevat, beschikt over een transparante financiële werking, voert een realistische begroting en beschikt over financiële jaarverslagen;<br>
 4° het erkende dierenasiel verbindt zich ertoe om in het jaar waarin de subsidieaanvraag wordt ingediend, telefonisch bereikbaar en beschikbaar te zijn tussen 9u en 17u om in beslag genomen dieren te transporteren en op te vangen, en ondertekent de intentieverklaring daarover die de dienst op zijn website ter beschikking stelt;<br>
 5° het gebruikt het computerprogramma Animal Shelter;<br>
-6° als er te adopteren dieren zijn, biedt het dierenasiel de te adopteren dieren ter adoptie aan via de website adopteereendier.be.
+6° als er te adopteren dieren zijn, biedt het dierenasiel minstens 75% van de te adopteren dieren ter adoptie aan via de website adopteereendier.be.
 
 ## Afdeling 3. Aantal opvangplaatsen
 
@@ -102,7 +102,7 @@ De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld
 9° vissen;<br>
 10° andere dieren.<br>
 <br>
-Het subsidiebedrag dat het erkende dierenasiel krijgt, wordt bepaald op basis van de gegevens die het erkende dierenasiel heeft ingevoerd in het computerprogramma Animal Shelter of heeft verleend via de jaarlijkse bevraging, vermeld in artikel 26/11 van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren.<br>
+Het subsidiebedrag dat het erkende dierenasiel krijgt, wordt bepaald op basis van de gegevens die het erkende dierenasiel heeft ingevoerd in het computerprogramma Animal Shelter.<br>
 <br>
 De verdeelsleutel, vermeld in het tweede lid, houdt rekening met een correctiefactor van 150% voor in beslag genomen dieren die met toepassing van artikel 42, §2, van de wet van 14 augustus 1986 in volle eigendom zijn gegeven aan het erkende dierenasiel.
 
