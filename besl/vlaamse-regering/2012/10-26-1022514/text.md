@@ -98,13 +98,11 @@ Bij de uitvoering van de opdrachten zullen de organisaties vermeld in artikel 20
 
 ### ART. 19.
 
-Voor de opdrachten die worden vermeld in artikel 21 van het decreet van 6 juli 2012 kent de minister aan de organisatie, vermeld in artikel 20 van het decreet van 6 juli 2012, een jaarlijkse subsidie toe waarvan hij het bedrag bepaalt. Maximaal 40 % van die subsidie, vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen ter ondersteuning van projecten.
+...
 
 ### ART. 20.
 
-Voor de concrete uitvoering van de opdrachten, vermeld in artikel 21 van het decreet van 6 juli 2012, sluit de minister een overeenkomst met de organisatie.<br>
-<br>
-Met toepassing van artikel 13, 14 en artikel 21, vierde en vijfde lid, van het decreet van 6 juli 2012 dient de organisatie op basis van de overeenkomst een meerjarenplan in bij de administratie.
+...
 
 ## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
 
