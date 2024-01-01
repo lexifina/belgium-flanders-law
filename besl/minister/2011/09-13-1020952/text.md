@@ -19,12 +19,12 @@ Besluit :<br>
 
 ### ART. 1.
 
-Met toepassing van hoofdstuk II van het besluit van de Vlaamse Regering van 20 april 2001 betreffende de erkenning en subsidiëring van centra voor bedrijfsbegeleiding in de biologische landbouw wordt de vzw INAGRO, Ieperseweg 87, 8800 Rumbeke-Beitem, erkend als een centrum voor bedrijfsbegeleiding in de biologische landbouw.<br /><br />
+...
 
 ### ART. 2.
 
-De erkenning van het Interprovinciaal Proefcentrum voor de Biologische Teelt, hierna PCBT vzw te noemen, als centrum voor bedrijfsbegeleiding in de biologische landbouw, wordt opgeheven met ingang van 1 september 2011.<br />De overeenkomsten voor het opstellen van een bedrijfsontwikkelingsplan en de overeenkomsten voor het verzorgen van bedrijfsbegeleidingen die PCBT vzw als erkend centrum afgesloten heeft in het kader van het besluit van de Vlaamse Regering van 20 april 2001 betreffende de erkenning en subsidiëring van centra voor bedrijfsbegeleiding in de biologische landbouw worden overgenomen door de vzw INAGRO.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2011.<br /><br />
+...
