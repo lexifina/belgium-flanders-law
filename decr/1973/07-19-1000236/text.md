@@ -79,11 +79,15 @@ De stukken of handelingen, die in strijd zijn met de bepalingen van dit decreet,
 
 ### ART. 12.
 
-Onverminderd de artikelen 269 tot 274 van het Strafwetboek, worden   gestraft met een geldboete van 50 tot 500 euro:<BR>1° de werkgever, zijn   aangestelden of lasthebbers die de bepalingen van dit decreet hebben   overtreden;<BR>2° de werkgever, zijn aangestelden of lasthebbers, alsmede de   werknemers die het krachtens dit decreet georganiseerde toezicht   verhinderen.<BR>
+Onverminderd de artikelen 269 tot 274 van het Strafwetboek, worden gestraft met een geldboete van 50 tot 500 euro:<br>
+1° de werkgever, zijn aangestelden of lasthebbers die de bepalingen van dit decreet hebben overtreden;<br>
+2° ...<br>
+<br>
+De geldboete die wordt opgelegd met toepassing van het eerste lid, 1°, wordt vermenigvuldigd met het aantal werknemers op wie de inbreuk betrekking heeft. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.
 
 ### ART. 13.
 
-Bij herhaling binnen één jaar na een vorige veroordeling kan de straf het dubbel van het maximum bedragen.<br />
+Bij herhaling binnen vijf jaar na een vorige veroordeling kan de straf het dubbel van het maximum bedragen.
 
 ### ART. 14.
 
@@ -91,7 +95,7 @@ De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboete
 
 ### ART. 15.
 
-Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en van artikel 85, zijn van toepassing op de bij dit decreet bepaalde misdrijven.<br />
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.
 
 ### ART. 16.
 
