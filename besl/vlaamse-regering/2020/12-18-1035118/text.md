@@ -28,6 +28,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 Artikel 50 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie wordt opgeheven.
 
+### ART 2.
+
+Artikel 50 van hetzelfde besluit, opgeheven bij artikel 1 van dit besluit, wordt opnieuw opgenomen in de volgende lezing:<br>
+<br>
+"Art. 50. De toekenning van het contingent aan inschakelingstrajecten wordt vanaf 2024 jaarlijks in het derde kwartaal door het departement verminderd.<br>
+<br>
+De vermindering wordt automatisch beslist voor iedere lokale diensteneconomieonderneming waarvan de invulling van het toegekende contingent op het voorafgaande kalenderjaarbasis minder dan negentig procent bedraagt van het toegekende contingent op jaarbasis. Het contingent wordt, rekening houdend met een minimale schaalgrootte van vijf voltijdsequivalente doelgroepwerknemers, verminderd met het verschil in percentage tussen de effectieve invullingsgraad op het voorafgaande kalenderjaarbasis en tot de invullingsgraad van negentig procent van het toegekende contingent.<br>
+<br>
+De beslissing, vermeld in het tweede lid, heeft ingang op de eerste dag van het vierde kwartaal.".
+
 ### ART 3.
 
 In artikel 63, § 2, 1°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt de datum "1 januari 2021" vervangen door de datum "1 januari 2024".
