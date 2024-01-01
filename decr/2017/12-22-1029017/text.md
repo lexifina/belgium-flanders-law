@@ -1808,7 +1808,7 @@ In deze paragraaf wordt verstaan onder vergoedingen, wedden en presentiegelden d
 2° lid van een provincieraad of als lid van een bestuursorgaan van een provinciaal extern verzelfstandigd agentschap of een filiaal ervan;<br>
 3° mandataris van een openbaar centrum voor maatschappelijk welzijn, als lid van een bestuursorgaan van een gemeentelijk extern verzelfstandigd agentschap of een filiaal ervan;<br>
 4° lid van een bestuursorgaan van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, of van een vereniging of vennootschap voor maatschappelijk welzijn als vermeld in deel 3, titel 4, van dit decreet;<br>
-5° lid van een bestuursorgaan van een sociale huisvestingsmaatschappij als vermeld in de Vlaamse Codex Wonen van 2021;<br>
+5° lid van een bestuursorgaan van een woonmaatschappij als vermeld in de Vlaamse Codex Wonen van 2021;<br>
 6° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 386 van dit decreet;<br>
 7° lid van een bestuursorgaan van een rechtspersoon als vermeld in artikel 188 van het Provinciedecreet van 9 december 2005;<br>
 8° lid van een bestuursorgaan of adviesorgaan van een publiekrechtelijke of privaatrechtelijke rechtspersoon waarin een dienstverlenende of opdrachthoudende vereniging rechtstreeks of onrechtstreeks deelneemt, overeenkomstig artikel 472, eerste lid, van dit decreet;<br>
@@ -3203,7 +3203,7 @@ De besluiten van het bijzonder comité voor de sociale dienst worden niet bekend
 8° de statuten van de extern verzelfstandige agentschappen in privaatrechtelijke vorm;<br>
 9° de oprichtingsakte van de intergemeentelijke samenwerkingsverbanden met rechtspersoonlijkheid;<br>
 10° de statuten van de intergemeentelijke samenwerkingsverbanden met rechtspersoonlijkheid en de wijzigingen aan die statuten;<br>
-11° het besluit van de gemeenteraad tot oprichting van districten.<br>
+11° het besluit van de gemeenteraad tot oprichting van districten;<br>
 12° de jaarrekeningen van de gemeentelijke extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
 13° de besluiten van de raad van bestuur van de autonome gemeentebedrijven en de inhoud ervan, waarbij wordt afgeweken van de rechtspositieregeling van het gemeentepersoneel;<br>
 14° de besluiten over retributies van de raad van bestuur van de autonome gemeentebedrijven en de inhoud ervan.<br>
@@ -3213,7 +3213,7 @@ De besluiten van het bijzonder comité voor de sociale dienst worden niet bekend
 2° de afwijkingen van de rechtspositieregeling van het personeel overeenkomstig artikel 186, § 2, en de wijzigingen ervan;<br>
 3° de oprichtingsakte van de verenigingen en vennootschappen voor maatschappelijk welzijn die het openbaar centrum voor maatschappelijk welzijn heeft opgericht of mede opgericht;<br>
 4° de statuten van de verenigingen&nbsp;en vennootschappen voor maatschappelijk welzijn waarvan het openbaar centrum voor maatschappelijk welzijn deelgenoot is en de wijzigingen aan die statuten;<br>
-5° de beleidsrapporten van de welzijnsverenigingen waarvan de maatschappelijke zetel zich in de gemeente bevindt.<br>
+5° de beleidsrapporten van de welzijnsverenigingen waarvan de maatschappelijke zetel zich in de gemeente bevindt;<br>
 6° de besluiten, en de inhoud ervan, van de welzijnsvereniging, waarbij wordt afgeweken van de rechtspositieregeling van het OCMW-personeel, voor wat de welzijnsverenigingen betreft waarvan de maatschappelijke zetel zich in de gemeente bevindt.<br>
 <br>
 § 3. Met behoud van de bepalingen van dit decreet, kan de Vlaamse Regering bepalen welke andere besluiten en andere stukken moeten worden bekendgemaakt, en voor alle besluiten en stukken, vermeld in dit artikel, hoe lang ze minimaal via de webtoepassing van de gemeente raadpleegbaar moeten blijven.
@@ -3914,13 +3914,21 @@ Voor de organisatie van de buitengewone verkiezing van de eerste gemeenteraad va
 1° worden in artikel 20, § 1, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 de woorden "de gemeente" telkens gelezen als de woorden "de nieuwe gemeente";<br>
 2° wordt in artikel 37, § 1, eerste lid, van hetzelfde decreet de zin "In elke gemeente wordt een gemeentelijk hoofdbureau samengesteld." gelezen als de zin "Voor de samengevoegde gemeenten wordt een gezamenlijk gemeentelijk hoofdbureau samengesteld.";<br>
 3° worden in artikel 58, eerste lid, van hetzelfde decreet de woorden "moet men kiezer zijn" gelezen als de woorden "moet men kiezer zijn in een van de samengevoegde gemeenten";<br>
-4° wordt in artikel 68, § 1, tweede lid, van hetzelfde decreet de zinsnede "het gemeentehuis, in het gemeentelijke informatieblad of op de website van de gemeente" gelezen als de zinsnede "de gemeentehuizen, in de gemeentelijke informatiebladen of op de websites van de samengevoegde gemeenten.";<br>
+4° wordt in artikel 68, § 2, derde lid, van hetzelfde decreet de zinsnede "het gemeentehuis, in het gemeentelijke informatieblad of op de website van de gemeente" gelezen als de zinsnede "de gemeentehuizen, in de gemeentelijke informatiebladen of op de websites van de samengevoegde gemeenten.";<br>
 5° wordt in artikel 69 van hetzelfde decreet het eerste lid gelezen als volgt: "De voordrachtsakten van de kandidaten voor de verkiezing van de gemeenteraad van de nieuwe gemeente moeten ondertekend worden, hetzij door een aftredend gemeenteraadslid van een van de samengevoegde gemeenten, hetzij door ten minste 100 gemeenteraadskiezers van de samengevoegde gemeenten.";<br>
 6° worden in artikel 98 van hetzelfde decreet de woorden "het gemeentesecretariaat" gelezen als de woorden "de gemeentesecretariaten van de samengevoegde gemeenten";<br>
 7° worden in artikel 173, eerste lid, van hetzelfde decreet de woorden "De gemeentesecretaris legt" gelezen als de woorden "De algemeen directeurs van de samengevoegde gemeenten leggen";<br>
 8° worden in artikel 173, tweede lid, van hetzelfde decreet de woorden "Het gemeentebestuur bezorgt" gelezen als de woorden "De gemeentebesturen van de samengevoegde gemeenten bezorgen";<br>
-9° wordt in artikel 191, § 4, van hetzelfde decreet de zinsnede "vastgesteld overeenkomstig artikel 16" gelezen als de zinsnede "vastgesteld door optelling van de aantallen kiezers in de samengevoegde gemeenten, vastgesteld overeenkomstig artikel 16";<br>
-10° wordt in artikel 8 van het Digitaal Kiesdecreet van 25 mei 2012 de zin "Het gemeentebestuur en het stadsdistrictsbestuur voorzien respectievelijk de gemeentelijke hoofdbureaus en de stadsdistrictshoofdbureaus van de apparatuur voor het kandidatenbeheer en het resultatenbeheer." gelezen als de zin "Het gemeentebestuur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, voorziet het gemeentelijk hoofdbureau van de apparatuur voor het kandidatenbeheer en het resultatenbeheer.".
+9° wordt in artikel 191, §4, van hetzelfde decreet de zinsnede “vastgesteld op basis van een extractie uit het Rijksregister” gelezen als de zinsnede “vastgesteld door optelling van de aantallen kiezers in de samengevoegde gemeenten, vastgesteld op basis van een extractie uit het Rijksregister”;<br>
+10° wordt in artikel 8 van het Digitaal Kiesdecreet van 25 mei 2012 de zin "Het gemeentebestuur en het stadsdistrictsbestuur voorzien respectievelijk de gemeentelijke hoofdbureaus en de stadsdistrictshoofdbureaus van de apparatuur voor het kandidatenbeheer en het resultatenbeheer." gelezen als de zin "Het gemeentebestuur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, voorziet het gemeentelijk hoofdbureau van de apparatuur voor het kandidatenbeheer en het resultatenbeheer.".<br>
+<br>
+Als een gemeente waar gestemd wordt met een digitaal stemsysteem, en een gemeente waar gestemd wordt zonder een digitaal stemsysteem, samengevoegd worden:<br>
+1° zijn artikel 121 en 122 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, voor de verkiezing in de gemeente met stemming op papier, en artikel 9, §2 en §3, van het Digitaal Kiesdecreet van 25 mei 2012, voor de verkiezing in de gemeente met digitale stemming, van toepassing op het gezamenlijk gemeentelijk hoofdbureau, in afwijking van artikel 3 en 28, 5°, van het Digitaal Kiesdecreet van 25 mei 2012;<br>
+2° zijn artikel 157, 158 en 159, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, voor de verkiezing in de gemeente met stemming op papier, en artikel 23 van het Digitaal Kiesdecreet van 25 mei 2012, voor de verkiezing in de gemeente met digitale stemming, van toepassing op het gezamenlijk gemeentelijk hoofdbureau, in afwijking van artikel 3 en 28, 6°, van het Digitaal Kiesdecreet van 25 mei 2012;<br>
+3° zijn artikel 160 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, voor de verkiezing in de gemeente met stemming op papier, en artikel 24 van het Digitaal Kiesdecreet van 25 mei 2012, voor de verkiezing in de gemeente met digitale stemming, van toepassing op het gezamenlijk gemeentelijk hoofdbureau, in afwijking van artikel 3 en 28, 6°, van het Digitaal Kiesdecreet van 25 mei 2012;<br>
+4° zijn artikel 172 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, voor de verkiezing in de gemeente met stemming op papier, en artikel 26,<br>
+§1, van het Digitaal Kiesdecreet van 25 mei 2012, voor de verkiezing in de gemeente met digitale stemming, van toepassing op het gezamenlijk gemeentelijk hoofdbureau, in afwijking van artikel 3 en 26, §1, van het Digitaal Kiesdecreet van 25 mei 2012.<br>
+&nbsp;
 
 ### ART 352/1.
 
@@ -3962,7 +3970,7 @@ In afwijking van artikel 91, § 2, derde lid, gaat de algemeen directeur- coörd
 <br>
 § 4. Behalve als er tussen de samengevoegde gemeenten een andere afspraak is gemaakt, doet het gemeentehuis van de gemeente waarvan de algemeen directeur aangewezen is als coördinator conform artikel 346, dienst als gemeentehuis van de nieuwe gemeente zolang de gemeenteraad geen ander gebouw als gemeentehuis heeft gekozen.<br>
 <br>
-§ 5. In afwijking van artikel 36, § 2, eerste lid, 8°, kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen, twee fracties vormen, als aan de algemeen directeur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346, tegen ontvangstbewijs een afschrift van de akte inzake fractievorming bezorgd wordt uiterlijk de eerste werkdag na de dag waarop de voordrachtsakte of de verbeteringsakte bij de voorzitter van het gemeentelijk hoofdbureau is ingediend.
+§ 5. ...
 
 ### ART 354.
 
@@ -4249,6 +4257,10 @@ Onder de schulden, vermeld in het eerste lid, worden verstaan de financiële sch
 
 In afwijking van artikel 149, vierde lid, 1°, worden aaneensluitende prestaties, geleverd van 1 januari tot en met 30 november in het laatste jaar van de eerste bestuursperiode van een nieuwe gemeente, voor de berekening van de uittredingsvergoeding beschouwd als een gepresteerd jaar.
 
+### ART 384/2.
+
+In afwijking van artikel 122 en 149, vierde lid, 1°, worden aaneensluitende prestaties, geleverd van 1 januari tot en met 30 november in het laatste jaar van de eerste bestuursperiode van een district van een nieuwe gemeente, voor de berekening van de uittredingsvergoeding beschouwd als een gepresteerd jaar.
+
 ## TITEL 9. Samenvoeging van gemeenten op initiatief van de Vlaamse Regering
 
 ### ART 385.
@@ -4525,7 +4537,9 @@ De gemeenten zijn niet gebonden door hun deelneming in het overlegorgaan, vermel
 <br>
 De beslissingen van de gemeenten worden voorgelegd aan dat overlegorgaan, dat daarover in consensus beslist. De vertegenwoordigers van de afhakende gemeenten nemen niet deel aan die besluitvorming.<br>
 <br>
-Het definitieve voorstel wordt aan de overblijvende gemeenten voorgelegd. De gemeenten kunnen het voorstel alleen goedkeuren of afkeuren.<br>
+Het definitieve voorstel wordt op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt. De Vlaamse Regering verleent een niet-bindend advies aan het overlegorgaan binnen zestig dagen vanaf de dag na de dag waarop het definitieve voorstel aan de Vlaamse Regering is verzonden. Als er geen advies is ontvangen binnen de gestelde termijn, wordt geacht aan de adviesplicht te zijn voldaan.<br>
+<br>
+Het definitieve voorstel wordt samen met het advies, vermeld in het derde lid, aan de overblijvende gemeenten voorgelegd. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het definitieve voorstel van het overlegorgaan. De gemeenten kunnen het voorstel alleen goedkeuren of afkeuren.<br>
 <br>
 De gemeenteraadsbeslissingen houdende de oprichting van een overlegorgaan als vermeld in artikel 413 en betreffende de voorstellen van dat overlegorgaan worden ter informatie meegedeeld aan de toezichthoudende overheid.
 
@@ -4543,13 +4557,13 @@ Als, naast gemeenten, aan de oprichting van de dienstverlenende of opdrachthoude
 
 ### ART 418.
 
-De dienstverlenende of opdrachthoudende vereniging wordt opgericht bij akte, verleden voor de burgemeester van de gemeente waar de zetel gevestigd wordt. Met behoud van de toepassing van de wettelijke bepalingen over de inbreng van onroerende goederen en het administratief goedkeuringstoezicht, verkrijgt de oprichtingsakte geldigheid op de datum van de dagtekening ervan door de ondertekening door de vertegenwoordigers van alle gemeenten en andere rechtspersonen die aan de oprichting deelnemen.<br>
+De dienstverlenende of opdrachthoudende vereniging wordt opgericht bij akte, verleden voor de burgemeester van de gemeente waar de zetel gevestigd wordt. Met behoud van de toepassing van de wettelijke bepalingen over de inbreng van onroerende goederen verkrijgt de oprichtingsakte geldigheid op de datum van de dagtekening ervan door de ondertekening door de vertegenwoordigers van alle gemeenten en andere rechtspersonen die aan de oprichting deelnemen.<br>
 <br>
 Door de oprichting, vermeld in het eerste lid, wordt het overlegorgaan, vermeld in artikel 413, ambtshalve ontbonden.<br>
 <br>
-De oprichtingsakte omvat de statuten en alle eventuele bijlagen en wordt binnen een termijn van dertig dagen na de dagtekening ervan aan de toezichthoudende overheid voorgelegd. Ze wordt goedgekeurd door de Vlaamse Regering binnen een termijn van zestig dagen die ingaat de dag na de verzending van de oprichtingsakte naar de toezichthoudende overheid. Als die termijn verstrijkt zonder dat de Vlaamse Regering een beslissing heeft genomen en verstuurd aan alle betrokken gemeenteoverheden, dan wordt de goedkeuring geacht te zijn verleend.<br>
+De oprichtingsakte omvat de statuten en alle eventuele bijlagen.<br>
 <br>
-De goedgekeurde oprichtingsakte wordt integraal bekendgemaakt in de bijlagen bij het Belgisch Staatsblad en wordt, samen met het volledige oprichtingsdossier, ter inzage van eenieder gelijktijdig neergelegd in de zetel van de dienstverlenende of opdrachthoudende vereniging en bij de toezichthoudende overheid. Afschriften van de oprichtingsakte liggen ter inzage op de secretarie in de gemeentehuizen van alle deelnemende gemeenten.
+Na afloop van de toezichtstermijn, vermeld in artikel 332, wordt de oprichtingsakte integraal bekendgemaakt in de bijlagen bij het Belgisch Staatsblad en samen met het volledige oprichtingsdossier, ter inzage van eenieder gelijktijdig neergelegd in de zetel van de dienstverlenende of opdrachthoudende vereniging. Afschriften van de oprichtingsakte liggen ter inzage op de secretarie in de gemeentehuizen van alle deelnemende gemeenten.
 
 ### ART 419.
 
@@ -4637,25 +4651,25 @@ De statuten van de dienstverlenende of opdrachthoudende verenigingen vermelden t
 
 De wijzigingen in de statuten en in de bijlagen worden artikelsgewijs aangebracht door de algemene vergadering met een drievierdemeerderheid, zowel voor het geheel van de geldig uitgebrachte stemmen, als voor de geldig uitgebrachte stemmen van de vertegenwoordigde gemeenten, en op voorwaarde dat de gewone meerderheid van het aantal deelnemende gemeenten haar instemming betuigt.<br>
 <br>
-Uiterlijk negentig dagen voor de algemene vergadering die de statutenwijzigingen moet beoordelen, wordt een door de raad van bestuur opgesteld ontwerp aan alle deelnemers voorgelegd. De beslissingen daarover van hun raden die de oorspronkelijke statuten hebben goedgekeurd, bepalen het mandaat van de respectieve vertegenwoordigers op de algemene vergadering en worden bij het verslag gevoegd.<br>
+De raad van bestuur legt het ontwerp van statutenwijziging uiterlijk honderdvijftig dagen voor de algemene vergadering die de statutenwijzigingen beoordeelt, op straffe van nietigheid voor advies voor aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt. De Vlaamse Regering verleent een niet-bindend advies aan de raad van bestuur binnen zestig dagen vanaf de dag na de dag waarop het ontwerp van statutenwijziging aan de Vlaamse Regering is verzonden. Als er geen advies is ontvangen binnen de gestelde termijn, wordt geacht aan de adviesplicht te zijn voldaan.<br>
+<br>
+Uiterlijk negentig dagen voor de algemene vergadering die de statutenwijzigingen moet beoordelen, wordt een door de raad van bestuur opgesteld ontwerp aan alle deelnemers voorgelegd.&nbsp;Dat ontwerp wordt samen met het advies, vermeld in het tweede lid, voorgelegd. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het ontwerp van statutenwijziging. De beslissingen daarover van hun raden die de oorspronkelijke statuten hebben goedgekeurd, bepalen het mandaat van de respectieve vertegenwoordigers op de algemene vergadering en worden bij het verslag gevoegd.<br>
 <br>
 De deelnemers die nalaten binnen de gestelde termijn een beslissing te nemen en voor te leggen, worden geacht zich te onthouden. De onthouding bepaalt het mandaat van hun vertegenwoordiger op de algemene vergadering.
 
 ### ART 428.
 
-Het verslag van de algemene vergadering houdende wijziging van de statuten wordt, samen met de bijbehorende documenten waaronder de beslissingen van de deelnemers, binnen een termijn van dertig dagen na de dagtekening ervan aan de toezichthoudende overheid voorgelegd.<br>
-<br>
-De wijzigingen worden goedgekeurd door de Vlaamse Regering binnen een termijn van negentig dagen die ingaat op de dag na de verzending van het verslag naar de toezichthoudende overheid. Als die termijn verstrijkt zonder dat de Vlaamse Regering een beslissing heeft genomen en verstuurd naar de dienstverlenende of opdrachthoudende vereniging, wordt de goedkeuring geacht te zijn verleend.
+...
 
 ### ART 429.
 
 De statutenwijzigingen worden op dezelfde wijze als de oprichtingsakte neergelegd en bekendgemaakt.<br>
 <br>
-Een volledig gecoördineerde tekst van de statuten wordt neergelegd in de zetel van de dienstverlenende of opdrachthoudende vereniging, bij de toezichthoudende overheid en in de gemeentehuizen van elke deelnemende gemeente, binnen een termijn van dertig dagen na de ontvangst door de dienstverlenende of opdrachthoudende vereniging van het goedkeuringsbesluit of na het verstrijken van de termijn, vermeld in artikel 428, tweede lid.
+Na afloop van de toezichtstermijn, vermeld in artikel 332, wordt een volledig gecoördineerde tekst van de statuten neergelegd in de zetel van de dienstverlenende of opdrachthoudende vereniging en in de gemeentehuizen van elke deelnemende gemeente.
 
 ### ART 430.
 
-De statutenwijzigingen zijn pas uitvoerbaar nadat ze zijn goedgekeurd bij besluit van de Vlaamse Regering of als de termijn voor goedkeuring verstreken is. Er kan geen terugwerkende kracht aan verbonden worden die verder reikt dan 1 januari van het boekjaar waarin de algemene vergadering de wijzigingen heeft aangebracht.<br>
+De statutenwijzigingen zijn uitvoerbaar op de datum van de ondertekening door de vertegenwoordigers van alle gemeenten en andere rechtspersonen die aan de vereniging deelnemen. Er kan geen terugwerkende kracht aan verbonden worden die verder reikt dan 1 januari van het boekjaar waarin de algemene vergadering de wijzigingen heeft aangebracht.<br>
 <br>
 Er kunnen geen statutenwijzigingen aan de deelnemers worden voorgelegd in de loop van het jaar waarin verkiezingen voor een algehele vernieuwing van de gemeenteraden worden georganiseerd, tenzij overeenkomstig een wettelijke of reglementaire verplichting of om het aantal mandaten binnen het intergemeentelijk samenwerkingsverband te verminderen.
 
@@ -5044,7 +5058,7 @@ De toezichthoudende overheid kan pas optreden na het verstrijken van de termijn,
 
 Met behoud van de toepassing van artikel 26 van de wet van 22 december 1986 betreffende de intercommunales, kan voor gewestelijke aangelegenheden het Vlaamse Gewest de samenwerkingsverbanden, vermeld in deze titel, aan een eigen fiscaliteit onderwerpen.<br>
 <br>
-Op de grensoverschrijdende samenwerkingsverbanden waarvan Vlaamse gemeenten deel uitmaken op grond van verdragsrechtelijke overeenkomsten, wordt het toezicht uitgeoefend in onderling overleg tussen de Vlaamse Regering en de andere betrokken overheden. De bepalingen over de wijze waarop het toezicht uitgeoefend wordt, worden in voorkomend geval opgenomen in de statuten van de desbetreffende rechtspersoon. Die statuten worden aan de Vlaamse Regering ter goedkeuring voorgelegd overeenkomstig artikel 418, derde lid.
+Op de grensoverschrijdende samenwerkingsverbanden waarvan Vlaamse gemeenten deel uitmaken op grond van verdragsrechtelijke overeenkomsten, wordt het toezicht uitgeoefend in onderling overleg tussen de Vlaamse Regering en de andere betrokken overheden. De bepalingen over de wijze waarop het toezicht uitgeoefend wordt, worden in voorkomend geval opgenomen in de statuten van de desbetreffende rechtspersoon. De ontwerpstatuten worden op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt conform artikel 415, derde lid, en artikel 427, tweede lid.
 
 ### ART 472.
 
@@ -5107,7 +5121,7 @@ Maximaal twee derden van de leden is van hetzelfde geslacht.<br>
 <br>
 Artikel 185/1, §1, is van toepassing bij de overdracht van personeel aan een welzijnsvereniging of een autonome verzorgingsinstelling. Artikel 185/1, §2, is van toepassing bij de overdracht van contractueel personeel aan een ver- eniging of vennootschap voor maatschappelijk welzijn of aan rechtspersonen andere dan die welke winstoogmerk hebben.<br>
 <br>
-§ 5. Voor de beslissingen die overeenkomstig deze titel aan de goedkeuring van de toezichthoudende overheid onderworpen zijn, geldt dat de toezichthoudende overheid geacht wordt een goedkeuring te hebben verleend als er uiterlijk op de laatste dag van de termijn, bepaald bij dit decreet, geen beslissing is verstuurd.
+§ 5. Voor de ontwerpen van beslissingen die overeenkomstig deze titel voor advies voorgelegd worden aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt, geldt dat geacht wordt aan de adviesplicht te zijn voldaan als er geen advies is ontvangen binnen de gestelde termijn.
 
 ## HOOFDSTUK 2. De welzijnsvereniging
 
@@ -5121,9 +5135,9 @@ De vereniging, vermeld in het eerste lid, draagt naast de benaming de vermelding
 
 ### ART 476.
 
-Het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de welzijnsvereniging en de statuten van de welzijnsvereniging, alsook de bijlagen die er krachtens de statuten integraal deel van uitmaken, zijn onderworpen aan de goedkeuring van de Vlaamse Regering.<br>
+Het ontwerp van het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de welzijnsvereniging en het ontwerp van de statuten van de welzijnsvereniging en ook de bijlagen die er krachtens de statuten integraal deel van uitmaken, worden op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt. De Vlaamse Regering verleent een niet-bindend advies aan het openbaar centrum voor maatschappelijk welzijn van de gemeente waarin de zetel van de welzijnsvereniging gevestigd is binnen zestig dagen vanaf de dag na de dag waarop het ontwerpbesluit tot oprichting en de ontwerpstatuten aan de Vlaamse Regering zijn verzonden.<br>
 <br>
-Het besluit van de Vlaamse Regering, vermeld in het eerste lid, wordt aan het openbaar centrum voor maatschappelijk welzijn van de gemeente waarin de zetel van de welzijnsvereniging gevestigd is, verzonden binnen een termijn van negentig dagen die ingaat op de dag na de dag van de verzending van het dossier naar de Vlaamse Regering.
+Het ontwerpbesluit tot oprichting en de ontwerpstatuten worden samen met het niet-bindende advies voor beraadslaging en voor stemming voorgelegd aan de raad of raden voor maatschappelijk welzijn. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het ontwerpbesluit tot oprichting en op de ontwerpstatuten.
 
 ### ART 477.
 
@@ -5164,7 +5178,7 @@ De databank, vermeld in artikel 301, bevat ook de gegevens over de leidend ambte
 
 ### ART 482.
 
-Elke beslissing van de vereniging tot wijziging van de statuten, tot verlenging van de duur van de welzijnsvereniging of tot vrijwillige ontbinding ervan, is onderworpen aan het goedkeuringstoezicht, vermeld in artikel 476.<br>
+Elk ontwerpbesluit tot wijziging van de statuten, tot verlenging van de duur van de welzijnsvereniging of tot vrijwillige ontbinding ervan wordt op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt conform artikel 476, eerste lid.<br>
 <br>
 Die beslissingen, alsook de beslissing tot de toelating van deelgenoten, kunnen alleen genomen worden als alle deelgenoten daarmee vooraf instemmen. Bij een statutenwijziging is die instemming alleen vereist voor wijzigingen die een verzwaring van de verplichtingen of een vermindering van de rechten van de deelgenoten teweegbrengen.
 
@@ -5287,7 +5301,10 @@ De Vlaamse Regering kan de ontbinding uitspreken van elke welzijnsvereniging die
 
 ### ART 494.
 
-De definitief geworden goedkeuringsbesluiten betreffende de welzijnsvereniging, vermeld in dit hoofdstuk, alsook de beslissing waarbij akte genomen wordt van het ontslag, vermeld in artikel 483, worden bij uittreksel in het Belgisch Staatsblad bekendgemaakt.<br>
+De volgende besluiten worden bij uittreksel in het Belgisch Staatsblad bekendgemaakt:<br>
+1° de besluiten, vermeld in dit hoofdstuk, na afloop van de toezichtstermijn, vermeld in artikel 332;<br>
+2° het definitief geworden goedkeuringsbesluit over de jaarrekening, vermeld in artikel 490, §4;<br>
+3° de beslissing waarbij akte wordt genomen van het ontslag, vermeld in artikel 483.<br>
 <br>
 De statuten en de eventuele wijzigingen daarvan worden in extenso bekendgemaakt in de bijlagen van het Belgisch Staatsblad op kosten van de welzijnsvereniging.
 
@@ -5348,16 +5365,16 @@ Het openbaar centrum voor maatschappelijk welzijn kan voor de exploitatie van zi
 
 ### ART 502.
 
-§ 1. Het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de vereniging, vermeld in artikel 501, is onderworpen aan de goedkeuring van de Vlaamse Regering.<br>
+§ 1. Het ontwerp van het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de vereniging, vermeld in artikel 501, wordt op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt. De Vlaamse Regering verleent een niet-bindend advies aan het openbaar centrum voor maatschappelijk welzijn van de gemeente waarin de zetel van de vereniging gevestigd is binnen zestig dagen vanaf de dag na de dag waarop het ontwerpbesluit tot oprichting is verzonden aan de Vlaamse Regering.<br>
 <br>
-Het besluit van de Vlaamse Regering, vermeld in het eerste lid, wordt binnen een termijn van negentig dagen die ingaat op de dag na de verzending van het verzoek tot goedkeuring, verzonden aan het openbaar centrum voor maatschappelijk welzijn van de gemeente waarin de zetel van de vereniging zich bevindt.<br>
+Het ontwerpbesluit tot oprichting wordt samen met het niet-bindende advies voor beraadslaging en voor stemming voorgelegd aan de raad of raden voor maatschappelijk welzijn. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het ontwerpbesluit tot oprichting.<br>
 <br>
-Voor het besluit van de raad voor maatschappelijk welzijn ter goedkeuring aan de Vlaamse Regering wordt verzonden, wordt het gemotiveerd advies van het beheerscomité ingewonnen, met behoud van de bevoegdheden van de medische raad.<br>
+Voor het ontwerpbesluit tot oprichting voor advies aan de Vlaamse Regering wordt verzonden, wordt het gemotiveerde advies van het beheerscomité ingewonnen, met behoud van de bevoegdheden van de medische raad, vermeld in titel 4, hoofdstuk 1, afdeling 1, van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen.<br>
 <br>
-§ 2. Bij de aanvragen van de goedkeuring, vermeld in paragraaf 1, wordt het ontwerp van de statuten van de vereniging gevoegd, alsook de bijlagen die er krachtens de statuten integraal deel van uitmaken.<br>
-Bij de aanvraag tot goedkeuring worden ook de beslissingen van de eventuele deelgenoten tot deelname aan de vereniging gevoegd.<br>
+§ 2. Bij de adviesaanvragen, vermeld in paragraaf 1, wordt het ontwerp van de statuten van de vereniging gevoegd, alsook de bijlagen die er krachtens de statuten integraal deel van uitmaken.<br>
+Bij de voormelde adviesaanvraag worden ook de beslissingen van de eventuele deelgenoten tot deelname aan de vereniging gevoegd.<br>
 <br>
-Uit het dossier dat wordt overgelegd om de goedkeuring te krijgen, moet blijken:<br>
+Uit het dossier dat voor advies wordt voorgelegd, moet blijken:<br>
 1° dat er een noodzaak bestaat voor het openbaar centrum voor maatschappelijk welzijn om een samenwerkingsverband aan te gaan om de exploitatie van zijn ziekenhuis geheel of gedeeltelijk te kunnen blijven garanderen;<br>
 2° welke de ernstige redenen zijn die verantwoorden dat het samenwerkingsverband de vorm aanneemt van een vereniging zonder winstoogmerk;<br>
 3° dat het ontwerp van de statuten of van de bijlagen die er krachtens de statuten integraal deel van uitmaken, bepalingen bevatten die ertoe strekken uitvoering te geven aan de verplichting de dienstverlening te verzekeren overeenkomstig artikel 503, 1°.
@@ -5379,7 +5396,7 @@ Met behoud van de toepassing van het Wetboek van vennootschappen en verenigingen
 
 ### ART 504.
 
-§ 1. Elke beslissing van een openbaar centrum voor maatschappelijk welzijn als lid van een vereniging als vermeld in artikel 501 over de wijziging van de statuten, de vrijwillige ontbinding, de toetreding of uitsluiting van leden en de verlenging van de duur van de vereniging is onderworpen aan de toepassing van artikel 502, § 1, eerste lid.<br>
+§ 1. Elk ontwerp van beslissing van een openbaar centrum voor maatschappelijk welzijn als lid van een vereniging als vermeld in artikel 501 over de wijziging van de statuten, de vrijwillige ontbinding, de toetreding of uitsluiting van leden en de verlenging van de duur van de vereniging is onderworpen aan de toepassing van artikel 502, § 1, eerste lid.<br>
 <br>
 § 2. De statuten bepalen dat als de verzorgingsinstelling die uitgebaat wordt door de vereniging, niet voldoet aan de verplichtingen, vermeld in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, in consensus een bemiddelaar wordt aangewezen. Bij gebrek aan consensus kan elke deelgenoot de provinciegouverneur van de provincie waar de zetel van de vereniging is gevestigd, verzoeken een bemiddelaar aan te wijzen. De bemiddelaar wordt alleen aangewezen als er in de organen van de vereniging geen overeenstemming bestaat over de vereiste maatregelen, vermeld in artikel 9 van het voormelde decreet. De bemiddelaar neemt met raadgevende stem deel aan de vergaderingen van die organen. De bemiddelaar kan evenwel alleen aangewezen worden als de schending van het voormelde decreet ook een schending van artikel 503, 1°, van dit decreet is en de erkenning verleend of verlengd wordt gedurende maximaal één jaar wegens de schending van het voormelde decreet.<br>
 <br>
@@ -5420,15 +5437,17 @@ Het lidmaatschap bij wijze van oprichting of toetreding van de vereniging, verme
 2° het bereiken van een bepaalde regionale bedekking of schaalgrootte is een bij decreet of besluit van de Vlaamse Regering opgelegde voorwaarde voor de gehele of gedeeltelijke erkenning, vergunning of subsidiëring, als aan die voorwaarde door geen van de lokale openbare deelgenoten afzonderlijk kan worden voldaan;<br>
 3° het lidmaatschap van de vereniging maakt het voor het openbaar centrum voor maatschappelijk welzijn mogelijk om een nieuwe dienst aan te bieden. Als nieuw kan elke dienst worden aangemerkt waarvoor geen erkenning, vergunning of subsidie is verworven en die ook niet op een gestructureerde wijze aan het publiek wordt aangeboden.<br>
 <br>
-In het geval, vermeld in het derde lid, 3°, is een goedkeuring van de Vlaamse Regering vereist. Om die goedkeuring te krijgen, toont het openbaar centrum voor maatschappelijk welzijn aan dat, rekening gehouden met het bestaande aanbod, de nieuwe dienst optimaal past in de programmatie, en moet op grond van het onderzoek, vermeld in artikel 60, § 6, tweede en derde lid, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, bewezen worden wat de redenen zijn om de nieuwe dienst in samenwerking met private rechtspersonen aan te bieden.<br>
+In het geval, vermeld in het derde lid, 3°, wordt het ontwerpbesluit over het lidmaatschap bij wijze van oprichting of toetreding van de vereniging, vermeld in het eerste lid, op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt. Vóór dat advies ingewonnen kan worden, toont het openbaar centrum voor maatschappelijk welzijn aan dat, rekening houdend met het bestaande aanbod, de nieuwe dienst optimaal past in de programmatie, en wordt op grond van het onderzoek, vermeld in artikel 60, §6, tweede en derde lid, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, bewezen wat de redenen zijn om de nieuwe dienst in samenwerking met private rechtspersonen aan te bieden.<br>
 <br>
 § 2. Het openbaar centrum voor maatschappelijk welzijn kan ook toetreden tot een vereniging als vermeld in paragraaf 1, eerste lid, als die uitsluitend door publiekrechtelijke rechtspersonen is opgericht. Overdracht of inbreng van een bestaande dienst van het openbaar centrum voor maatschappelijk welzijn is in dat geval niet toegestaan.
 
 ### ART 509.
 
-Als overeenkomstig artikel 508 de goedkeuring van de Vlaamse Regering vereist is, wordt het besluit houdende goedkeuring of niet-goedkeuring van het met redenen omklede besluit van de raad of de raden voor maatschappelijk welzijn tot oprichting van of toetreding tot de vereniging of de vennootschap binnen een termijn van negentig dagen die ingaat op de dag na de dag van de verzending van het verzoek tot goedkeuring aan het openbaar centrum voor maatschappelijk welzijn verzonden.<br>
+Als conform artikel 508 het advies van de Vlaamse Regering vereist is, verleent de Vlaamse Regering een niet-bindend advies over het ontwerpbesluit, vermeld in artikel 508, §1, vierde lid, binnen zestig dagen vanaf de dag na de dag waarop dat ontwerpbesluit aan de Vlaamse Regering is verzonden.<br>
 <br>
-Bij de aanvragen tot goedkeuring, als vermeld in het eerste lid, wordt het ontwerp van statuten van de vereniging gevoegd, alsook de bijlagen die er krachtens de statuten integraal deel van uitmaken. Bij de aanvraag tot goedkeuring worden ook de beslissingen van de eventuele deelgenoten tot deelname aan de vereniging gevoegd.
+Bij de adviesaanvragen, vermeld in het eerste lid, wordt het ontwerp van statuten van de vereniging gevoegd en ook de bijlagen die er krachtens de statuten integraal deel van uitmaken. Bij de adviesaanvraag worden ook de beslissingen van de eventuele deelgenoten tot deelname aan de vereniging gevoegd.<br>
+<br>
+Het ontwerpbesluit tot oprichting of tot toetreding wordt samen met het niet-bindende advies voor beraadslaging en voor stemming voorgelegd aan de raad of raden voor maatschappelijk welzijn. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het voormelde ontwerpbesluit.
 
 ### ART 510.
 
@@ -5462,10 +5481,10 @@ Van een vzw zoals vermeld in het eerste lid, moeten minstens een of meer private
 
 ### ART 514.
 
-§ 1. Het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de vereniging, vermeld in artikel 513, en de statuten van de vereniging, alsook de bijlagen die er krachtens de statuten integraal deel van uitmaken, zijn onderworpen aan de goedkeuring van de Vlaamse Regering.<br>
+§ 1. Het ontwerp van het met redenen omklede besluit van de raad of raden voor maatschappelijk welzijn tot oprichting van de vereniging, vermeld in artikel 513, en de statuten van de vereniging en ook de bijlagen die er krachtens de statuten integraal deel van uitmaken, worden op straffe van nietigheid voor advies voorgelegd aan de Vlaamse Regering op de wijze die de Vlaamse Regering bepaalt.<br>
 <br>
-§ 2. Het dossier dat ter goedkeuring aan de Vlaamse Regering wordt bezorgd, bevat ten minste:<br>
-1° een grondige motiveringsnota waarin de&nbsp;meerwaarde van het aantrekken van een private partner en de meerwaarde van de gekozen privaatrechtelijke rechtsvorm worden aangetoond;<br>
+§ 2. Het dossier dat voor advies aan de Vlaamse Regering wordt bezorgd, bevat ten minste:<br>
+1° een grondige motiveringsnota waarin&nbsp;meerwaarde van het aantrekken van een private partner en de meerwaarde van de gekozen privaatrechtelijke rechtsvorm worden aangetoond;<br>
 2° een duidelijk bestuursplan met omschrijving van de opdrachten van de vereniging en een toelichting bij de organisatie van de vereniging en eventuele rechten en plichten en waarborgen van de publieke en private partners;<br>
 3° een financieel plan voor zes jaar, met een omschrijving van de bedrijfsopdrachten, de financiële structuur en de in te zetten middelen en de controlemogelijkheden op de uitvoering;<br>
 4° een ontwerp van de statuten.<br>
@@ -5476,7 +5495,9 @@ De volgende bijkomende waarborgen zijn daarbij vereist:<br>
 1° de vereniging zonder winstoogmerk kan over de beslissingen aangaande de vaststelling van de criteria voor het opnamebeleid en de bepaling van de ligdagprijs alleen geldig beraadslagen en beslissen als twee derde van de deelgenoten aanwezig is, waaronder alle deelnemende openbare centra voor maatschappelijk welzijn. De besluiten worden genomen met een meerderheid van twee derde van de uitgebrachte stemmen;<br>
 2° een voorstel tot buitengerechtelijke ontbinding kan op zijn vroegst worden gedaan na een periode van zes jaar, die aanvangt de dag van de publicatie van de oprichtingsakte.<br>
 <br>
-§ 3. Het besluit van de Vlaamse Regering wordt binnen een termijn van negentig dagen die ingaat op de dag na de verzending van het verzoek tot goedkeuring aan het openbaar centrum voor maatschappelijk welzijn verzonden.
+§ 3. De Vlaamse Regering verleent een niet-bindend advies over het ontwerpbesluit, vermeld in artikel 513, binnen zestig dagen vanaf de dag na de dag waarop dat ontwerpbesluit aan de Vlaamse Regering is verzonden.<br>
+<br>
+Dat ontwerpbesluit wordt samen met het niet-bindende advies voor beraadslaging en voor stemming voorgelegd aan de raad of raden voor maatschappelijk welzijn. Als er geen advies is ontvangen binnen de gestelde termijn, wordt dat vermeld op het ontwerpbesluit tot oprichting.
 
 ### ART 515.
 
