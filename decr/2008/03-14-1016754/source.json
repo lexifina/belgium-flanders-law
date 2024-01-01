@@ -2,16 +2,16 @@
   "codex_id": 1016754,
   "title": "Decreet van 2008-03-14 houdende de ontsluiting en de uitwisseling van informatie over ondergrondse kabels en leidingen (citeeropschrift:\"KLIP-decreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016754/VolledigDocument?datum=2021-05-10",
-  "source_sha256": "2c54c9885f69f12c2a9129e8201d88d24ae25f872e4687a0dfd72d38ea3e5a82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016754/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "d5ec8d89d3c89825dbe834bde64f60134bdb637c3bc78114d07c7ab685dab0be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016754&param=informatie",
-  "as_of": "2021-05-10",
+  "as_of": "2024-01-01",
   "made": "2008-03-14",
   "gazette": "2008-05-06",
   "numac": 2008201457,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-05-10",
+  "in_force": "2024-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2021-05-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

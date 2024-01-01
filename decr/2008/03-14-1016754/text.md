@@ -26,7 +26,7 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van 
 11° openbaardomeinbeheerder, hierna ODB te noemen : persoon die openbaar domein in beheer heeft, en zich in die hoedanigheid geregistreerd heeft in het KLIP;<br>
 12° belangenzone openbaardomeinbeheerder, hierna ODB-zone te noemen : alle gebieden die een bepaalde ODB in beheer heeft;<br>
 13° Informatie Model Kabels en Leidingen, hierna IMKL te noemen : uitwisselingsformaat met als doel de informatie over kabels en leidingen van KLB's te standaardiseren zodat deze informatie via het KLIP kan uitgewisseld worden;<br>
-14° agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
+14° het agentschap: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf, opgericht krachtens het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap;<br>
 15° presentatiemodel Kabels en Leidingen, hierna PMKL te noemen : het geheel van visualisatieafspraken met als doel de wijze van voorstelling van IMKL-conforme informatie over kabels en leidingen van KLB's te standaardiseren zodat die informatie via het KLIP op uniforme wijze aan de planaanvragers meegedeeld kan worden;<br>
 16° elektronisch communicatienetwerk met hoge snelheid: de transmissiesystemen, de schakel- of routeringsapparatuur en andere middelen, zoals netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen, ongeacht de aard van de overgebrachte informatie, via:<br>
 a) draad;<br>
@@ -54,7 +54,7 @@ Onverminderd de taken van het agentschap bepaald door of krachtens andere   decr
 
 ### ART. 5.
 
-§ 1. Per planaanvraag die via het KLIP wordt ingediend, is de planaanvrager een retributie van 10 euro verschuldigd aan het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende de oprichting van het Eigen Vermogen Digitaal Vlaanderen.<br>
+§ 1. Per planaanvraag die via het KLIP wordt ingediend, is de planaanvrager een retributie van 10 euro verschuldigd aan het agentschap.<br>
 <br>
 De Vlaamse Regering kan het bedrag van de retributie aanpassen of diversifiëren, een regeling vaststellen voor de gevallen waarin de retributie niet of te laat betaald wordt, en de nadere regels en praktische voorwaarden voor de inning van de retributie vaststellen.<br>
 <br>
