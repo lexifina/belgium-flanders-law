@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038787,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038787/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "3559bcc3ddaf4c98a205ab6278118f49d9911fe8003564e86a41a34f70ba7a3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038787&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-09-08",
+  "gazette": "2023-10-13",
+  "numac": 2023045389,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
