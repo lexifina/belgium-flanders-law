@@ -19,6 +19,16 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan artikel 8 van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming, gewijzigd bij de besluiten van de Vlaamse Regering van 28 mei 2021 en 17 december 2021, wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Vanaf het jaar 2024 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 187.500 euro.”.
+
+### ART 2.
+
+In artikel 10, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt het bedrag “398.208 euro” vervangen door het bedrag “220.889 euro”.
+
 ### ART 3.
 
 Aan hoofdstuk 2, afdeling 4, onderafdeling 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt een artikel 13/7 toegevoegd, dat luidt als volgt:<br>
@@ -48,6 +58,10 @@ Het agentschap verdeelt vanaf 1 december 2023 over de erkende zorgkassen een voo
 <br>
 Het agentschap betaalt het saldo uit nadat het agentschap het kostenoverzicht en de achterliggende bewijsstukken van de zorgkassen over de aanwending van de subsidie heeft goedgekeurd.”.
 
+### ART 4.
+
+In artikel 15, §2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt het bedrag “75 euro” vervangen door het bedrag “100 euro”.
+
 ### ART 5.
 
 Aan hoofdstuk 4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 december 2018 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, wordt een artikel 15/4 toegevoegd, dat luidt als volgt:<br>
@@ -73,3 +87,20 @@ Het agentschap verdeelt vanaf 1 oktober 2023 tussen de verzekeringsinstellingen 
 7° Kas der Geneeskundige Verzorging van HR Rail: 11.341,75 euro.<br>
 <br>
 §3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat het agentschap het kostenoverzicht en de achterliggende bewijsstukken van de verzekeringsinstellingen over de aanwending van de subsidie heeft goedgekeurd.”.
+
+### ART 6.
+
+In artikel 16 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij het besluit van de Vlaamse Regering van 20 januari 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “artikel 10, eerste lid,” opgeheven;<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“De bedragen, vermeld in artikel 8, vijfde lid, artikel 10, eerste lid, en artikel 15, §2, eerste lid, worden, met ingang van het kalenderjaar 2025, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2023.”.
+
+### ART 7.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2024.&nbsp;<br>
+<br>
+Artikel 3 en 5 hebben uitwerking met ingang van 1 december 2023.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor de sociale bescherming, en de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
