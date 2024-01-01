@@ -1275,7 +1275,7 @@ In artikel 8, vijfde lid, van hetzelfde decreet, ingevoegd bij het decreet van 9
 In artikel 9 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 25 februari 2022, worden de volgende wijzigingen aangebracht:<br>
 1° paragraaf 2 wordt vervangen door wat volgt:<br>
 “§2. De nascholingsmiddelen per niveau bedragen vanaf het begrotingsjaar 2024:<br>
-1°...;<br>
+1° voor het basisonderwijs: 3.924.000 euro;<br>
 2° voor het secundair onderwijs: 6.251.000 euro;<br>
 3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 418.000 euro;<br>
 4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
