@@ -6,9 +6,17 @@
 
 ## Afdeling 1. Wijzigingen van het Gerechtelijk Wetboek
 
+### ART 2.
+
+In artikel 581, 1°, van het Gerechtelijk Wetboek, gewijzigd bij het decreet van 6 juli 2018, wordt de zinsnede "en uit het decreet van 18 mei 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging" opgeheven.
+
 ### ART 3.
 
 In artikel 582, 2°, van hetzelfde wetboek, het laatst gewijzigd bij het decreet van 18 mei 2018, wordt de zinsnede "81, 89, 93, 104, 127, 129" vervangen door de zinsnede "76/2".
+
+### ART 4.
+
+In artikel 1410, § 2, eerste lid, van hetzelfde wetboek, het laatst gewijzigd bij de wet van 1 maart 2019, wordt punt 12°, ingevoegd bij het decreet van 6 juli 2018, opgeheven.
 
 ## Afdeling 2. Wijzigingen van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen
 
@@ -585,6 +593,14 @@ In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2
 <br>
 De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorgingstehuizen bepalen voor wie de persoonlijke bijdrage, vermeld in het eerste lid, wordt verminderd met een bijkomende forfaitaire tegemoetkoming, die een andere is dan de tegemoetkoming, vermeld in artikel 154/4. De Vlaamse Regering kan het bedrag van de bijkomende forfaitaire tegemoetkoming per categorie bepalen.".
 
+### ART 74.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/8 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/8. Als dat van toepassing is, betaalt de gebruiker de kosten voor het verblijf in beschut wonen zoals die vastgelegd zijn in een overeenkomst tussen de gebruiker en het initiatief van beschut wonen.<br>
+<br>
+De initiatieven van beschut wonen kunnen geen andere bedragen aanrekenen dan de bedragen die vastgelegd zijn in de overeenkomst, vermeld in het eerste lid.".
+
 ### ART 75.
 
 Aan deel 4 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, wordt een titel 4 toegevoegd, die luidt als volgt:<br>
@@ -644,6 +660,28 @@ De Vlaamse Regering kan modeldocumenten ter beschikking stellen die worden gebru
 In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/14 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 154/14. Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen de beslissing van de zorgkas die na een eensluidend advies van de Zorgkassencommissie als vermeld in artikel 154/13, § 3, is genomen, brengt de zorgkas het agentschap daarvan op de hoogte. De zorgkas deelt het agentschap de beroepsakte mee. Het agentschap kan vrijwillig tussenkomen in de procedure voor de arbeidsrechtbank conform artikel 813 van het Gerechtelijk Wetboek.".
+
+### ART 82.
+
+Aan deel 4 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, wordt een titel 5 toegevoegd, die luidt als volgt:<br>
+<br>
+"Titel 5. Tijdelijke bepalingen voor de multidisciplinaire begeleidingsequipes voor palliatieve verzorging".
+
+### ART 83.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in titel 5, ingevoegd bij artikel 82, een artikel 154/15 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/15. De begeleiding die multidisciplinaire begeleidingsequipes voor palliatieve verzorging aanbieden, wordt vergoed in de vorm van een tegemoetkoming als ze in de overeenkomst met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging is opgenomen en als de begeleiding voldoet aan de voorwaarden die zijn vermeld in die overeenkomst. De vergoeding wordt rechtstreeks uitbetaald aan de multidisciplinaire begeleidingsequipe voor palliatieve verzorging.<br>
+<br>
+De Vlaamse Regering bepaalt de regels en voorwaarden voor de samenstelling, de berekening, de wijziging en de uitbetaling van de tegemoetkoming, vermeld in het eerste lid, en de regels om het maximum aantal begeleidingen te berekenen waarvoor de tegemoetkoming, vermeld in het eerste lid, per kalenderjaar mag worden aangerekend. De voormelde regels en voorwaarden worden door de Vlaamse Regering verder geconcretiseerd en uitgewerkt in de overeenkomst die met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging wordt gesloten.<br>
+<br>
+In afwijking van het tweede lid kan de Vlaamse Regering in de overeenkomst met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging het bedrag van de tegemoetkoming per begeleiding bepalen.".
+
+### ART 84.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/16 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/16. De regels en de voorwaarden, vermeld in artikel 60, vijfde lid, voor de aanvragen van tegemoetkomingen voor de begeleiding door multidisciplinaire begeleidingsequipes voor palliatieve verzorging worden geconcretiseerd in de overeenkomsten met de multidisciplinaire begeleidingsequipes voor palliatieve verzorging.".
 
 ### ART 85.
 
@@ -734,6 +772,50 @@ In artikel 2 van het decreet van 6 juli 2018 betreffende de overname van de sect
 2° in punt 16° wordt de zinsnede "die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, en" opgeheven;<br>
 3° punt 20° wordt opgeheven.
 
+### ART 98.
+
+In artikel 3 van hetzelfde decreet worden het tweede, derde en vierde lid opgeheven.
+
+### ART 99.
+
+Artikel 4 en 5 van hetzelfde decreet worden opgeheven.
+
+### ART 100.
+
+In titel 2 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, wordt hoofdstuk 2, dat bestaat uit artikel 6 tot en met 12, opgeheven.
+
+### ART 101.
+
+Artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 15 februari 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13. § 1. De verwerking van persoonsgegevens in het kader van dit decreet is op elk moment in overeenstemming met de regelgeving over privacy en gegevensbescherming.<br>
+<br>
+De persoonsgegevens over gezondheid worden verwerkt, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
+<br>
+§ 2. De zorgvoorzieningen verwerken de persoonsgegevens van de zorggebruikers, met als doel over de noodzakelijke informatie te beschikken die nodig is voor het verlenen van de zorg en ondersteuning aan de gebruiker, en om de zorg en ondersteuning af te stemmen op de evoluerende behoeften van de gebruiker.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, inclusief de gegevens over de gezondheid, worden uitgewisseld.<br>
+<br>
+De Vlaamse Regering bepaalt de persoonsgegevens, vermeld in deze paragraaf, die door de zorgvoorzieningen worden verwerkt.<br>
+<br>
+§ 3. De verwerkingsverantwoordelijken, vermeld in artikel 4.7 van de algemene verordening gegevensbescherming, zijn:<br>
+1° de voorzieningen voor de verwerking van persoonsgegevens in het kader van hun opdrachten en hun zorgrelatie met de gebruiker;<br>
+2° het agentschap dat de Vlaamse Regering aanwijst voor de analyse van die persoonsgegevens in het kader van de evidencebased beleidsvoering en in het kader van de monitoring en handhaving van een kwaliteitsvol zorgaanbod.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de termijn waarvoor de verwerkte persoonsgegevens maximaal worden bewaard.<br>
+<br>
+§ 5. De zorgvoorzieningen bezorgen aan het agentschap dat de Vlaamse Regering aanwijst de noodzakelijke gegevens met het oog op analyse van die gegevens, evidencebased beleidsvoering voor het Vlaamse welzijnsen gezondheidsbeleid en de informatieverstrekking daarover. De Vlaamse Regering bepaalt welke gegevens bezorgd worden, en de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
+<br>
+De zorgvoorzieningen bezorgen aan het agentschap dat de Vlaamse Regering aanwijst persoonsgegevens over het personeel dat er werkt en de zelfstandigen die zorg verlenen in de voorziening. Die gegevens zijn noodzakelijk om een kwaliteitsvol zorgaanbod te kunnen monitoren en handhaven. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.".
+
+### ART 102.
+
+Artikel 14 tot en met 17 van hetzelfde decreet worden opgeheven.
+
+### ART 103.
+
+In titel 2 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, worden hoofdstuk 4, dat bestaat uit artikel 18 tot en met 51, en hoofdstuk 5, dat bestaat uit artikel 52 en 53, opgeheven.
+
 ### ART 104.
 
 Aan titel 2 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, wordt een hoofdstuk 6 toegevoegd, dat luidt als volgt:<br>
@@ -772,6 +854,10 @@ Artikel 66, 67 en 68 van hetzelfde decreet worden opgeheven.
 
 In titel 3, hoofdstuk 1, van hetzelfde decreet worden afdeling 7, die bestaat uit artikel 69 tot en met 71, en afdeling 8, die bestaat uit artikel 72, opgeheven.
 
+### ART 110.
+
+In artikel 74, eerste lid, van hetzelfde decreet worden punt 3° en 4° opgeheven.
+
 ### ART 111.
 
 In artikel 75, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -788,6 +874,17 @@ Artikel 76 van hetzelfde decreet wordt opgeheven.
 In artikel 83, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
 1° de woorden "wint daarvoor het advies van de Expertencommissie in" worden vervangen door de woorden "kan daarvoor het advies van de Expertencommissie inwinnen";<br>
 2° de zin "Het advies van de Expertencommissie wordt in dialoog met de betrokken sectorale adviescommissie opgesteld." wordt opgeheven.
+
+### ART 115.
+
+In artikel 91, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"Bij het sluiten, wijzigen of beëindigen, vermeld in het eerste lid, kan de Vlaamse Regering het advies inwinnen van de Expertencommissie.";<br>
+2° het derde en het vierde lid worden opgeheven.
+
+### ART 116.
+
+Artikel 93 en 95 van hetzelfde decreet worden opgeheven.
 
 ## HOOFDSTUK 3. Slotbepalingen
 
