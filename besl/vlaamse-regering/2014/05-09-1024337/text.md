@@ -444,45 +444,27 @@ Het agentschap bezorgt de beslissing uiterlijk vijftien kalenderdagen na de besl
 
 Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de afwijking geacht toegekend te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap of van de technische commissie heeft ontvangen.
 
-## Onderafdeling 2 Kwalificatie, module kennismaken gezinsopvang en kennis van het Nederlands
+## Onderafdeling 2 ...
 
 ### ART. 48.
 
-<p>De aanvraag van een attest tot afwijking als vermeld in artikel 64, 65 en 66/1, van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat:<br>
-1° de identificatiegegevens en de contactgegevens van de persoon voor wie de afwijking aangevraagd wordt;<br>
-2° de vergunningsvoorwaarde waarvoor een afwijking gevraagd wordt.</p>
-
-<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator&nbsp;&nbsp;of de persoon die voor zichzelf de afwijking aanvraagt, de volgende documenten, met de post of elektronisch:<br>
-1° voor het attest, vermeld in artikel 64, derde lid, van het Vergunningsbesluit van 22 november 2013 : de documenten die aantonen dat de persoon voor wie het attest geldt, hetzij gedurende de vijf jaar die voorafgaan aan 1 april 2014, drie jaar tewerkgesteld was als kinderbegeleider of verantwoordelijke, hetzij een tewerkstelling kan aantonen met ervaring binnen een kwaliteitsvolle werking;<br>
-2° voor het attest, vermeld in artikel 65 van het Vergunningsbesluit van 22 november 2013: de documenten die aantonen dat de persoon voor wie het attest geldt, al gewerkt heeft binnen de gezinsopvang en op welk adres;<br>
-3° voor het attest, vermeld in artikel 66/1 van het Vergunningsbesluit van 22 november 2013: de documenten die aantonen dat een bewijs van kennis van het Nederlands bezorgd en aanvaard is door het agentschap als vermeld in artikel 66/1 van het Vergunningsbesluit van 22 november 2013.</p>
-
-<p>Het agentschap kan naast de informatie of stukken, vermeld in het eerste en het tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien kalenderdagen na het aanvraagformulier, vermeld in het eerste lid.</p>
-
-<p>Het agentschap bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
+<p>...</p>
 
 ### ART. 49.
 
-Het agentschap beslist over de aanvraag van een attest tot afwijking uiterlijk zestig kalenderdagen na de ontvangst van de aanvraag van een attest tot afwijking. De beslissing bevat de volgende gegevens:<br>
-1° de identificatiegegevens van de persoon;<br>
-2° de vergunningsvoorwaarde waarvoor een attest tot afwijking toegekend of geweigerd wordt;<br>
-3° de beslissing;<br>
-4° de mogelijkheid om beroep aan te tekenen bij de Raad van State en de wijze waarop dat moet gebeuren;<br>
-5° in geval van weigering van het attest tot afwijking: de vermelding van het gevolg daarvan, meer bepaald dat de organisator moet voldoen aan de vergunningsvoorwaarden.
+...
 
 ### ART. 50.
 
-De termijn, vermeld in artikel 49, wordt voor maximaal dertig kalenderdagen geschorst, als het agentschap bijkomende informatie als vermeld in artikel 48, derde lid, vraagt.
+...
 
 ### ART. 51.
 
-Het agentschap stuurt de beslissing aan de organisator of aan de persoon voor wie het attest geldt, uiterlijk vijftien kalenderdagen na de beslissing:<br>
-1° als de aanvraag ingewilligd wordt: elektronisch;<br>
-2° als de aanvraag gedeeltelijk of niet ingewilligd wordt: elektronisch en met een aangetekende brief.
+...
 
 ### ART. 52.
 
-Als het agentschap geen beslissing heeft genomen of de aanvrager daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt het attest van afwijking geacht toegekend te zijn, op voorwaarde dat de aanvrager een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## [Afdeling 4 Opportuniteitsadvies (ing. BVR 29 januari 2021, art. 13, I: 1 januari 2022)]
 
