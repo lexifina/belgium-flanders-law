@@ -101,7 +101,7 @@ Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
-In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
