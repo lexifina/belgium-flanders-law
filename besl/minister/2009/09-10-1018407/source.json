@@ -2,16 +2,16 @@
   "codex_id": 1018407,
   "title": "Ministerieel besluit van 2009-09-10 houdende vaststelling van het modelformulier voor de verklaring, vermeld in [artikel 6.28, vijfde lid, van het Besluit Vlaamse Codex Wonen van 2021]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018407/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "c70fb6394fef8daa9cf45d0b180475e97793ca86a9e28c1686b7396e1adc2152",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018407/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "53c0de89b82a72556a92749514f4e8e23e8436956c21a28a7ef75bd517608b45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018407&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-01-01",
   "made": "2009-09-10",
   "gazette": "2009-09-24",
   "numac": 2009204176,
   "document_start": "2009-10-04",
   "document_end": "2023-12-31",
-  "in_force": "2021-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

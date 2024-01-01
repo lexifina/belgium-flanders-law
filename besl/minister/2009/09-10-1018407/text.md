@@ -15,11 +15,10 @@ Besluit :<br>
 
 ### ART. 1.
 
-Het modelformulier, vermeld in artikel 6.28, vijfde lid, van het Besluit Vlaamse Codex Wonen van 2021, wordt gevoegd als bijlage bij dit besluit.<br>
-&nbsp;
+...
 
 ## Bijlage 1
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/18_1.pdf#page=158">Verklaring van hoedanigheid mantelzorger/persoon die zorg en bijstand ontvangt van mantelzorger</a>
+...
