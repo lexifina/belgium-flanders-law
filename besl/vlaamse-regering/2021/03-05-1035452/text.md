@@ -43,6 +43,7 @@ In dit besluit wordt verstaan onder:<br>
 9° meerjarenplanning: meerjarenplanning, vermeld in artikel 254 en 255 van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 10° minister: de Vlaamse minister, bevoegd voor het beleidsveld opgroeien;<br>
 11° netwerkpartner: de partner die aanbod of specifieke expertise inbrengt in het netwerk in functie van het realiseren van de doelstellingen en opdrachten, vermeld in dit besluit;<br>
+11° /1 OverKopnetwerk: een OverKopnetwerk dat erkend is op basis van artikel 1 van het besluit van de Vlaamse Regering van 8 december 2023 tot toekenning van een subsidie aan de OverKopnetwerken voor de uitvoering van de opdrachten inzake psycho-educatie ter ondersteuning van het jeugdwerk binnen hun werkingsgebied en over de erkenning van de OverKopnetwerken;<br>
 12° vernieuwend aanbod: het aanbod dat voldoet aan de voorwaarden, vermeld in artikel 9 of artikel 13.
 
 ## Hoofdstuk 2. Subsidie aan Huizen van het Kind
@@ -124,13 +125,17 @@ De subsidie, vermeld in artikel 2, wordt aangewend voor de organisatie van verni
 <br>
 Als het lokaal bestuur geen actor is in het Huis van het Kind, dan is het lokaal bestuur een verplichte netwerkpartner bij de organisatie van het vernieuwend aanbod.
 
-## Hoofdstuk 3. Subsidie aan OverKophuizen
+## Hoofdstuk 3. Subsidie aan OverKopnetwerken
 
 ## Afdeling 1. Subsidie
 
 ### ART 10.
 
-Het agentschap kan een subsidie voor vernieuwend aanbod, vermeld in artikel 13, van 100.000 euro (honderdduizend euro) op jaarbasis toekennen aan een actor die voldoet aan de voorwaarden, vermeld in dit besluit.<br>
+Een OverKopnetwerk kan op jaarbasis, binnen de beschikbare begrotingskredieten, een subsidie voor vernieuwend aanbod als vermeld in artikel 13, van maximaal 100.000 euro (honderdduizend euro) per eerstelijnszone in zijn werkingsgebied ontvangen.<br>
+<br>
+Het maximale subsidiebedrag, vermeld in het eerste lid, kan naar beneden worden bijgesteld als uit de rapportering, vermeld in artikel 30, blijkt dat het subsidiebedrag te hoog is geraamd. Het maximale subsidiebedrag, vermeld in het eerste lid, kan ook bijgesteld worden op grond van eventuele begrotingsmaatregelen.<br>
+<br>
+De subsidie wordt toegekend aan de actor die optreedt in naam en in vertegenwoordiging van het OverKopnetwerk en die voldoet aan de voorwaarden, vermeld in artikel 19 van dit besluit.<br>
 <br>
 De subsidie, vermeld in het eerste lid, kan mee worden gefinancierd vanuit een andere entiteit van de Vlaamse overheid dan het agentschap.<br>
 <br>
@@ -140,7 +145,7 @@ De benaming OverKophuis, samen met het bijbehorende logo, mag alleen gebruikt wo
 
 ### ART 11.
 
-Het agentschap kent de jaarlijkse subsidie, vermeld in artikel 10, toe voor een periode van drie jaar.<br>
+Het agentschap kent de jaarlijkse subsidie, vermeld in artikel 10, toe voor een periode die eindigt op 31 december 2025.<br>
 <br>
 De beslissing over de toekenning van de subsidies wordt genomen na een oproep.
 
@@ -162,12 +167,12 @@ De doelstellingen, vermeld in het eerste lid, kunnen ook worden verwezenlijkt in
 ### ART 13.
 
 De subsidie, vermeld in artikel 10, wordt aangewend voor de organisatie van vernieuwend aanbod dat verwezenlijkt wordt volgens de volgende principes:<br>
-1° het OverKophuis werkt samen met netwerkpartners en vormt met hen een netwerk dat het vernieuwend aanbod realiseert in het kader van de opdrachten, vermeld in artikel 12;<br>
+1° de netwerkpartners, vermeld in artikel 14, zesde lid, vormen een OverKopnetwerk en werken samen om het vernieuwende aanbod te realiseren in het kader van de opdrachten, vermeld in artikel 12;<br>
 2° bij de realisatie van het vernieuwend aanbod, vermeld in punt 1°, werken alle partners binnen het netwerk geïntegreerd samen volgens de werkingsprincipes, vermeld in artikel 16.
 
 ### ART 14.
 
-Het OverKophuis dat de subsidie, vermeld in artikel 10, ontvangt, realiseert binnen zijn werkingsgebied minimaal het volgende aanbod, waarbij het aanbod, vermeld in punt 2° tot en met 4°, met een zekere regelmaat wordt aangeboden om de opdrachten, vermeld in artikel 12, te realiseren:<br>
+Het OverKopnetwerk dat de subsidie, vermeld in artikel 10, ontvangt, realiseert binnen zijn werkingsgebied minimaal het volgende aanbod, waarbij het aanbod, vermeld in punt 2° tot en met 4°, met een zekere regelmaat wordt aangeboden om de opdrachten, vermeld in artikel 12, te realiseren:<br>
 1° een of meer fysieke locaties waar de ontmoeting tussen jongeren mogelijk gemaakt wordt en waar jongeren in een ongedwongen sfeer in gesprek kunnen gaan over hun welbevinden, en waar ze daarnaast ook ondersteund kunnen worden op verschillende levensdomeinen;<br>
 2° kosteloze, toegankelijke en laagdrempelige ondersteuning op verschillende levensdomeinen, met inbegrip van ontsluiting van onlineaanbod, die geïntegreerd wordt binnengebracht in de basisvoorziening en aansluit bij de behoeften en belangen van jongeren;<br>
 3° acties die inzetten op geestelijke gezondheidsbevordering en het bespreekbaar maken van mentaal welzijn;<br>
@@ -175,13 +180,13 @@ Het OverKophuis dat de subsidie, vermeld in artikel 10, ontvangt, realiseert bin
 <br>
 In het eerste lid, 4°, wordt verstaan onder bijschakelen: een actor met specifiekere of meer gespecialiseerde competenties actief betrekken in de basisvoorziening.<br>
 <br>
-Het vernieuwend aanbod, vermeld in het eerste lid, wordt door de jongere zelf mee vormgegeven. Het OverKophuis laat de jongere daar een actieve rol in spelen en versterkt de jongere om op het vlak van mentaal welzijn ook zelf acties te ondernemen.<br>
+Het vernieuwend aanbod, vermeld in het eerste lid, wordt door de jongere zelf mee vormgegeven. Het OverKopnetwerk laat de jongere daar een actieve rol in spelen en versterkt de jongere om op het vlak van mentaal welzijn ook zelf acties te ondernemen.<br>
 <br>
-Het OverKophuis organiseert het vernieuwend aanbod, vermeld in het eerste lid, binnen het werkingsgebied op een of meer fysieke locaties. Het aantal locaties en waar die zich bevinden, wordt onder andere bepaald op basis van de omgevingsanalyse die deel uitmaakt van het ondernemingsplan.<br>
+Het OverKopnetwerk organiseert het vernieuwend aanbod, vermeld in het eerste lid, binnen het werkingsgebied op een of meer fysieke locaties. Het aantal locaties en waar die zich bevinden, wordt onder andere bepaald op basis van de omgevingsanalyse die deel uitmaakt van het ondernemingsplan.<br>
 <br>
-Het OverKophuis gaat actief in gesprek met het lokaal bestuur dat belangstelling heeft voor een fysieke locatie in hun gemeente of in het tweetalige gebied Brussel-Hoofdstad. Onder lokaal bestuur wordt verstaan: het gemeentebestuur en het bestuur van het Openbaar Centrum voor Maatschappelijk Welzijn, wat het Nederlandse taalgebied betreft, of de Vlaamse Gemeenschapscommissie, wat het tweetalige gebied Brussel-Hoofdstad betreft.<br>
+Het OverKopnetwerk gaat actief in gesprek met het lokaal bestuur dat belangstelling heeft voor een fysieke locatie in hun gemeente of in het tweetalige gebied Brussel-Hoofdstad. Onder lokaal bestuur wordt verstaan: het gemeentebestuur en het bestuur van het Openbaar Centrum voor Maatschappelijk Welzijn, wat het Nederlandse taalgebied betreft, of de Vlaamse Gemeenschapscommissie, wat het tweetalige gebied Brussel-Hoofdstad betreft.<br>
 <br>
-Het OverKophuis en minimaal de volgende netwerkpartners nemen gezamenlijke verantwoordelijkheid op om het aanbod, vermeld in het eerste lid, te ontwikkelen en uit te voeren:<br>
+Het OverKopnetwerk en minimaal de volgende netwerkpartners nemen gezamenlijke verantwoordelijkheid op om het aanbod, vermeld in het eerste lid, te ontwikkelen en uit te voeren:<br>
 1° de lokale besturen van de gemeenten waar zich een fysieke locatie bevindt, wat het Nederlandse taalgebied betreft, of de Vlaamse Gemeenschapscommissie, wat het tweetalige gebied Brussel-Hoofdstad betreft;<br>
 2° het samenwerkingsverband bedoeld in de omzendbrief Eén Gezin Eén Plan van 16 juni 2020 dat actief is in het werkingsgebied;<br>
 3° relevante partners op het vlak van jeugd(welzijns)werk;<br>
@@ -189,7 +194,7 @@ Het OverKophuis en minimaal de volgende netwerkpartners nemen gezamenlijke veran
 5° relevante partners op het vlak van geestelijke gezondheidsbevordering en -zorg;<br>
 6° relevante partners op vlak van onderwijs.<br>
 <br>
-De minister kan nadere regels bepalen over het werkingsgebied van een OverKophuis.
+De minister kan nadere regels bepalen over het werkingsgebied van een OverKopnetwerk.
 
 ## Hoofdstuk 4. Werkingsprincipes netwerk
 
@@ -296,11 +301,11 @@ Een aanvraag waaraan op basis van de beoordeling, vermeld in het eerste lid, een
 <br>
 Bij de beoordeling, vermeld in het eerste lid, kan het agentschap zich laten bijstaan door andere agentschappen bevoegd voor het betrokken beleidsdomein, beleidsveld of inhoudelijke structuurelement.<br>
 <br>
-De subsidie, vermeld in artikel 2 van dit besluit, en de subsidie, vermeld in artikel 10 van dit besluit, is uitgedrukt tegen 100% van de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+De subsidie, vermeld in artikel 2 van dit besluit, en de subsidie, vermeld in artikel 10 van dit besluit, is uitgedrukt tegen 100% van de spilindex die van toepassing is op 1 januari 2021. De bedragen worden voor 85 procent geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ### ART 25.
 
-Als een fysieke locatie van het OverKophuis dat de subsidie, vermeld in artikel 10, ontvangt, verhuist, dan brengt het OverKophuis het agentschap daarvan schriftelijk op de hoogte binnen uiterlijk dertig dagen na de verhuizing.
+Als de fysieke locatie van het OverKophuis wijzigt, brengt het OverKopnetwerk het agentschap daarvan op de hoogte uiterlijk binnen dertig dagen nadat de fysieke locatie is gewijzigd.
 
 ### ART 26.
 
@@ -345,7 +350,7 @@ De minister kan de categorieën bepalen die worden gevraagd in de rapportage.
 
 ### ART 31.
 
-Het agentschap evalueert dit besluit uiterlijk drie jaar na de inwerkingtreding ervan. Het agentschap betrekt de relevante partners bij die evaluatie. De evaluatie heeft minstens betrekking op de mate waarin de beoogde doelstellingen gerealiseerd worden en ook op de eventuele cofinanciering, vermeld in artikel 2, tweede lid of in artikel 10, tweede lid.
+Het agentschap evalueert dit besluit uiterlijk drie jaar na de inwerkingtreding ervan. Het agentschap betrekt de relevante partners bij die evaluatie. De evaluatie heeft minstens betrekking op de mate waarin de beoogde doelstellingen gerealiseerd worden en ook op de eventuele cofinanciering, vermeld in artikel 2, tweede lid of in artikel 10, vierde lid.
 
 ## Hoofdstuk 7. Wijzigingsbepalingen
 
