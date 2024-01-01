@@ -138,60 +138,62 @@ De bevoegde entiteit beslist over de toekenning en de uitbetaling van de subsidi
 
 ### BIJLAGE
 
-Bijlage. Types grasland die in aanmerking komen voor het criterium graslandbeheer als vermeld in artikel 2, §2, tweede lid.<br>
+Bijlage. Types grasland die in aanmerking komen voor het criterium graslandbeheer als vermeld in artikel 2, §2, tweede lid<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:900px">
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1px; vertical-align:top; width:160px">type grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:204px">soort maatregel</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; vertical-align:top; width:250px">type grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">soort maatregel</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">biologisch gecertificeerd grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Percelen die zijn aangemeld bij en onder controle staan van een erkend controleorgaan biologische productie en etikettering biologische producten, vermeld in artikel 1, 15°, van het besluit van 21 april&nbsp; 2023</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">biologisch gecertificeerd grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">percelen die zijn aangemeld bij en onder controle staan van een erkend controleorgaan biologische productie en etikettering biologische producten</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">meerjarig grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Ecoregeling voor het behoud van meerjarig grasland volgens artikel 3, 5° van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">meerjarig grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">ecoregeling voor het behoud van meerjarig grasland als vermeld in artikel 3, eerste lid, 5°, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">extensief beheerd grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Ecoregeling voor het ecologische beheer van grasland volgens artikel 3, 3° van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">extensief beheerd grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">ecoregeling voor het ecologisch beheer van grasland als vermeld in artikel 3, eerste lid, 3°, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">productief kruidenrijk grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Agromilieuklimaatmaatregel volgens artikel 3, 7°, a), 2) van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">productief kruidenrijk grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">agromilieuklimaatmaatregel als vermeld in artikel 3, eerste lid, 7°, a), 2), van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">grasland dat onder de agromilieuklimaatmaatregel van tijdelijk naar blijvend grasland valt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Agromilieuklimaatmaatregel volgens artikel 3, 4° van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">grasland dat onder de agromilieuklimaatmaatregel van tijdelijk naar blijvend grasland valt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">agromilieuklimaatmaatregel als vermeld in artikel 3, eerste lid, 4°, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">grasland met een beheerovereenkomst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Beheerovereenkomst in het kader van soortenbescherming afgesloten met de Vlaamse Landmaatschappij</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">grasland met een beheerovereenkomst</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">beheerovereenkomst in het kader van soortenbescherming, gesloten met de Vlaamse Landmaatschappij</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">grasland met een maximale veebezetting van 2 GVE*/ha</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Grasland overeenkomstig artikel 41bis en artikel 41ter van het Mestdecreet van 22 december 2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">grasland met een maximale veebezetting van 2 GVE* per hectare</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">grasland overeenkomstig artikel 41bis en artikel 41ter van het Mestdecreet van 22 december 2006</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">ecologisch kwetsbaar blijvend grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Ecologisch kwetsbaar blijvend grasland aangewezen overeenkomstig artikel 68 van het besluit van 21 april 2023</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">ecologisch kwetsbaar blijvend grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">ecologisch kwetsbaar blijvend grasland, aangewezen conform artikel 68 van het besluit van 21 april 2023</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">historisch permanent grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Historisch permanente graslanden beschermd op basis van artikel 7, 4° en artikel 8, 5° van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">historisch permanent grasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">historisch permanente graslanden, beschermd op basis van artikel 7, eerste lid, 4°, en artikel 8, §1, 5°, van het besluit van de Vlaamse regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">natuurgrasland met natuurbeheerplan type 3 of 4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Natuurbeheerplan overeenkomstig artikel 16ter, §1, 3° en 4° van het decreet van 21 oktober 1997, en bij uittreksel gepubliceerd in het BS overeenkomstig artikel 16octies, §4 van hetzelfde decreet</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">natuurgrasland met natuurbeheerplan type 3 of 4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">natuurbeheerplan overeenkomstig artikel 16ter, §1, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, en bij uittreksel gepubliceerd in het Belgisch Staatsblad overeenkomstig artikel 16octies, §4, van het voormelde decreet</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:160px">strategisch gelegen graslanden</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:204px">Graslanden gelegen in valleigebieden aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening<br>
-			Graslanden gelegen op percelen met een zeer hoge erosiegevoeligheid zoals bepaald overeenkomstig artikel 57, § 1 van het besluit van 21 april 2023</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">strategisch gelegen graslanden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">graslanden in valleigebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen die van kracht zijn in de ruimtelijke ordening; graslanden op percelen met een zeer hoge erosiegevoeligheid, zoals bepaald conform artikel 57, §2, van het besluit van 21 april 2023</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:250px">graslanden beschermd als onroerend erfgoed of erfgoedlandschap</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:276px">grasland, beschermd als erfgoed als vermeld in artikel 2.1, 15°, van het Onroerenderfgoeddecreet van 12 juli 2013; grasland dat deel uitmaakt van een overgangszone als vermeld in artikel 2.1, 43°, van het voormelde decreet, bij een beschermd goed; grasland, beschermd als erfgoedlandschap als vermeld in artikel 2.1, 25°, van het voormelde decreet</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-* GVE: grootvee-eenheid
+*GVE: grootvee-eenheid
