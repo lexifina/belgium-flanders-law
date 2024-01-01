@@ -2,16 +2,16 @@
   "codex_id": 1022050,
   "title": "Decreet van 2012-07-06 houdende de ondersteuning en stimulering van het lokaal jeugdbeleid [...]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022050/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "22f1d9acd46b450f60bac96e7e3ab44c373689fa88bde1ac9b44e07540013b7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022050/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "92f4d7cd74d43466b802af51aabf411a6cde228b467c3b003dacbc8782a8251f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022050&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2024-01-01",
   "made": "2012-07-06",
   "gazette": "2012-08-09",
   "numac": 2012204352,
   "document_start": "2014-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2018-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
