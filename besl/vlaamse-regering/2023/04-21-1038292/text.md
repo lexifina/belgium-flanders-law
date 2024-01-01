@@ -50,10 +50,10 @@ In dit besluit wordt verstaan onder:<br>
 9° besluit van 29 oktober 2021: het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten;<br>
 10° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
 11° betalingsaanvraag: een aanvraag tot uitbetaling van de subsidie;<br>
-12° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+12° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 13° blijvend grasland: het blijvend grasland, vermeld in artikel 1, 8°, van het besluit van 21 april 2023; &nbsp;<br>
 14° blijvende teelten: de blijvende teelten, vermeld in artikel 1, 7°, van het besluit van 21 april 2023;&nbsp;<br>
-15° bodempaspoort: een digitale toepassing van het Departement Landbouw en Visserij waarin bodemgerelateerde informatie is opgenomen; &nbsp;<br>
+15° bodempaspoort: een digitale toepassing van de bevoegde entiteit waarin bodemgerelateerde informatie is opgenomen; &nbsp;<br>
 16° bouwland: het bouwland, vermeld in artikel 1, 10° van het besluit van 21 april 2023;&nbsp;<br>
 17° conditionaliteit: de conditionaliteit, vermeld in artikel 1, 13°, van het besluit van 21 april 2023;&nbsp;<br>
 18° controleorgaan biologische productie en etikettering biologische producten: het controleorgaan dat erkend is conform artikel 24 en 25 van het besluit van 29 oktober 2021;<br>
@@ -119,7 +119,7 @@ Binnen de perken van de beschikbare begrotingskredieten kan de bevoegde entiteit
 &nbsp; a) voor melkvee:&nbsp;<br>
 &nbsp; &nbsp; 1) toevoeging van nitraat;<br>
 &nbsp; &nbsp; 2) toevoeging van 3-nitro-oxypropanol (3-NOP);<br>
-&nbsp; &nbsp; 3) toevoeging van koolzaadschroot in combinatie met bierdraf;<br>
+&nbsp; &nbsp; 3) ...;<br>
 &nbsp; &nbsp; 4) toevoeging van geëxtrudeerd of geëxpandeerd lijnzaad;<br>
 &nbsp; &nbsp; 5) toevoeging van koolzaadvet;<br>
 &nbsp; b) voor vleesvee:<br>
@@ -131,11 +131,11 @@ Binnen de perken van de beschikbare begrotingskredieten kan de bevoegde entiteit
 &nbsp; a) lokale rundveerassen;<br>
 &nbsp; b) lokale schapen- en geitenrassen;<br>
 &nbsp; c) lokale varkensrassen;<br>
-11° het verhogen van het organischekoolstofgehalte van bouwland:<br>
+11° het verhogen van het organischekoolstofgehalte in de bodem:<br>
 &nbsp; a) het verhogen van het organischekoolstofgehalte via het teeltplan;<br>
 &nbsp; b) de toevoeging van producten met een hoog koolstofgehalte:<br>
 &nbsp; &nbsp; 1) het gebruik van compost;<br>
-&nbsp; &nbsp; 2) het gebruik van stalmest;<br>
+&nbsp; &nbsp; 2) het gebruik van stalmest of champost;<br>
 &nbsp; &nbsp; 3) het gebruik van houtsnippers;<br>
 &nbsp; c) het bereiken van de streefzone voor het organischekoolstofgehalte en de zuurtegraad van de bodem;<br>
 12° de aanleg van een bufferstrook:<br>
@@ -145,7 +145,7 @@ Binnen de perken van de beschikbare begrotingskredieten kan de bevoegde entiteit
 &nbsp; d) bufferstrook met graskruidenmengsel;<br>
 &nbsp; e) bufferstrook met bloemenmengsel;<br>
 13° de toepassing van mechanische onkruidbestrijding;<br>
-14° de toepassing van erosiebestrijdende teelttechnieken:<br>
+14° de toepassing van erosiebestrijdende en bodemverbeterende teelttechnieken:<br>
 &nbsp; a) de aanleg van drempels tussen de ruggen bij ruggenteelten;<br>
 &nbsp; b) de toepassing van niet-kerende bodembewerking met bodembedekking;<br>
 &nbsp; c) het vollevelds inzaaien van maïs;&nbsp;<br>
@@ -213,13 +213,15 @@ De landbouwer moet al zijn percelen die hij in dat jaar in eigen gebruik heeft, 
 
 ### ART 10.
 
-Om een subsidie voor een maatregel als vermeld in artikel 3, eerste lid, te krijgen, dient een landbouwer ten laatste op de uiterste wijzigingsdatum een verbintenisaanvraag in aan de hand van de verzamelaanvraag, met uitzondering van de verbintenisaanvraag voor de maatregel, vermeld in artikel 3, eerste lid, 6°, c), 3), die ten laatste op de uiterste indieningsdatum van de verzamelaanvraag wordt ingediend. De verzamelaanvraag moet tijdig zijn ingediend overeenkomstig artikel 7 van het ministerieel besluit van 23 juni 2015.<br>
+Om een subsidie voor een maatregel als vermeld in artikel 3, eerste lid, te krijgen, dient een landbouwer ten laatste op de uiterste wijzigingsdatum een verbintenisaanvraag in aan de hand van de verzamelaanvraag met uitzondering van de verbintenisaanvraag voor de maatregel, vermeld in artikel 3, eerste lid, 6°, c), 3), die ten laatste op de uiterste indieningsdatum van de verzamelaanvraag, en nooit later dan 30 april van het verbintenisjaar, wordt ingediend. De verzamelaanvraag moet tijdig zijn ingediend overeenkomstig artikel 7 van het ministerieel besluit van 23 juni 2015.<br>
 <br>
 De verbintenis begint op 1 januari van het jaar waarin de verbintenisaanvraag wordt ingediend.&nbsp;<br>
 <br>
 In afwijking van het tweede lid, start de verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, voor het jaar 2023 op 31 mei 2023. De verbintenis eindigt op 31 december 2023. De term verbintenisjaar, vermeld in artikel 49 en 114, dient in dit geval gelezen te worden als de verbintenistermijn.&nbsp;<br>
 <br>
-In afwijking van het derde lid, start de verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, voor het jaar 2023 op 1 januari 2023, als de landbouwer aan de hand van een factuur van het toegepaste veevoeder, met vermelding van de leveringsdatum, kan aantonen dat hij op 1 januari 2023 al met deze maatregel is gestart.
+In afwijking van het derde lid, start de verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, voor het jaar 2023 op 1 januari 2023, als de landbouwer aan de hand van een factuur van het toegepaste veevoeder, met vermelding van de leveringsdatum, kan aantonen dat hij op 1 januari 2023 al met deze maatregel is gestart.<br>
+<br>
+In afwijking van het tweede lid begint de verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, vanaf het verbintenisjaar 2024 op 1 januari of 30 april. De landbouwer vermeldt de startdatum in de verzamelaanvraag.
 
 ### ART 11.
 
@@ -321,9 +323,9 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten voor alle percelen van
 De landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 2°, een subsidie verkrijgen voor de toepassing van de biologische productiemethode.&nbsp;<br>
 <br>
 De subsidie, vermeld in het eerste lid, wordt op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 200 euro per hectare voor de eerste 5 hectare;&nbsp;<br>
-2° een bedrag van maximaal 100 euro per hectare voor de volgende 70 hectare;<br>
-3° een bedrag van maximaal 50 euro per hectare voor de volgende hectaren.
+1° een bedrag van 300 euro per hectare voor de eerste 5 hectare;&nbsp;<br>
+2° een bedrag van 100 euro per hectare voor de volgende 70 hectare;<br>
+3° een bedrag van 50 euro per hectare voor de volgende hectaren.
 
 ### ART 23.
 
@@ -468,11 +470,17 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 1° de eiwitteelten worden als hoofdteelt ingezaaid;<br>
 2° als het gaat om mengteelten, moeten de vlinderbloemigen op elk ogenblik van de verbintenistermijn zichtbaar aanwezig zijn;<br>
 3° het perceel in kwestie is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
-4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;&nbsp;<br>
+4° ...;&nbsp;<br>
 5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;&nbsp;<br>
 6° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.&nbsp;<br>
 <br>
-§3. De minister bepaalt welke eenjarige eiwitteelten in aanmerking komen voor de subsidie, vermeld in paragraaf 1, en kan de zaaidichtheid, de samenstelling van mengteelten, de teelttechnische voorwaarden en de voorwaarden voor het beheer bepalen.
+§3. De minister bepaalt welke eenjarige eiwitteelten in aanmerking komen voor de subsidie, vermeld in paragraaf 1, en kan de zaaidichtheid, de samenstelling van mengteelten, de teelttechnische voorwaarden en de voorwaarden voor het beheer bepalen.<br>
+<br>
+§4. Om in aanmerking te komen voor de subsidie, vermeld in paragraaf 1, moet de maatregel toegepast worden op minstens 0,50 hectare van het bedrijf.<br>
+<br>
+De landbouwer mag een verbintenis sluiten voor verschillende percelen overeenkomstig artikel 34 om aan de oppervlaktevoorwaarde te voldoen.&nbsp;<br>
+<br>
+Als een of meerdere percelen niet voldoen aan de voorwaarden, vermeld in paragraaf 2, zal hij alleen een subsidie ontvangen voor de percelen die wel voldoen aan de voorwaarden, op voorwaarde dat die laatst vermelde percelen een totale oppervlakte van minstens 0,50 hectare hebben.
 
 ## Onderafdeling 2. Eenjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit
 
@@ -497,7 +505,7 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 <br>
 §2. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden<br>
 1° de teelten worden als hoofdteelt ingezaaid;&nbsp;<br>
-2° het perceel in kwestie ligt in een gebied dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’;<br>
+2° het perceel in kwestie ligt in een gebied dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering van 12 mei 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster', of ligt in het gebied op Linkerscheldeoever dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming conform artikel 18, §2, van het voormelde besluit, voor de soort bruine kiekendief;<br>
 3° het perceel is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
 4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;<br>
 5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;&nbsp;<br>
@@ -541,7 +549,7 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
 1° een vroeg afrijpende variant van Japanse haver of een mengsel met Japanse haver wordt ingezaaid als nateelt;&nbsp;<br>
-2° het perceel in kwestie ligt in een gebied dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’;<br>
+2° het perceel in kwestie ligt in een gebied dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering van 12 mei 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’, of ligt in het gebied op Linkerscheldeoever dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming conform artikel 18, §2, van het voormelde besluit, voor de soort bruine kiekendief;<br>
 3° het perceel is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
 4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;<br>
 5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofd- en nateelt;&nbsp;<br>
@@ -587,7 +595,7 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 
 §1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 7°, a), 3), afhankelijk van de beschikbare begrotingskredieten, jaarlijks een subsidie verkrijgen voor de inzaai van luzerne met uitgestelde maaidatum als hoofdteelt. De subsidie bedraagt maximaal 600 euro per hectare.&nbsp;<br>
 <br>
-§2. Voor de subsidie, vermeld in paragraaf 1, geldt als voorwaarde dat het perceel in een gebied ligt dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’.<br>
+§2. Voor de subsidie, vermeld in paragraaf 1, geldt als voorwaarde dat het perceel in een gebied ligt dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering van 12 mei 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’, of ligt in het gebied op Linkerscheldeoever dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming conform artikel 18, §2, van het voormelde besluit, voor de soort bruine kiekendief.<br>
 <br>
 §3. De minister kan de teelttechnische voorwaarden, de zaaidichtheid, de samenstelling, en de voorwaarden voor de inzaai en het beheer bepalen.
 
@@ -595,7 +603,7 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 
 Een landbouwer komt in aanmerking voor de subsidie, vermeld in artikel 42 tot en met 44, als gedurende de volledige verbintenistermijn aan al de volgende voorwaarden is voldaan:<br>
 1° het perceel in kwestie is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
-2° de teelt in kwestie wordt ingezaaid vanaf het najaar dat voorafgaat aan het jaar van de verbintenisaanvraag. Het doorzaaien van een perceel grasland is niet toegestaan. De teelt wordt aangehouden gedurende de verbintenistermijn, behalve op percelen in polders en duinen, waar de teelt aangehouden moet worden tot minstens 15 oktober van het laatste jaar van de verbintenis;<br>
+2° de teelt in kwestie wordt ingezaaid in het najaar dat voorafgaat aan het jaar van de verbintenisaanvraag voor de maatregel, vermeld in artikel 3, eerste lid, 7°, a), 3), en vanaf het najaar voorafgaand aan het jaar van de verbintenisaanvraag voor de maatregelen vermeld in artikel 3, eerste lid, 7°, a), 1) en 2). Het doorzaaien van een perceel grasland is niet toegestaan. De teelt wordt aangehouden gedurende de verbintenistermijn, behalve op percelen in polders en duinen, waar de teelt aangehouden moet worden tot minstens 15 oktober van het laatste jaar van de verbintenis;<br>
 3° herinzaai is alleen toegestaan na voorafgaande schriftelijke melding bij de bevoegde entiteit. De herinzaai moet gebeuren binnen twee weken na het omploegen;<br>
 4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;<br>
 5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de voor-, hoofd- en nateelt;&nbsp;<br>
@@ -624,27 +632,40 @@ Een landbouwer komt in aanmerking voor de subsidie, vermeld in artikel 42 tot en
 ### ART 47.
 
 §1. In dit artikel wordt verstaan onder:<br>
-1° runderen van het rastype melk: runderen van matige tot geringe bevleesdheid; &nbsp;<br>
-2° runderen van het rastype vlees: runderen van superieure tot goede bevleesdheid.<br>
+1° runderen van het rastype melk: runderen van matige tot geringe bevleesdheid en runderen van superieure tot goede bevleesheid die deelnemen aan melkproductieregistratie; &nbsp;<br>
+2° runderen van het rastype vlees: runderen van superieure tot goede bevleesdheid die niet deelnemen aan melkproductieregistratie.<br>
 <br>
 §2. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 8°, gaat de landbouwer een verbintenis aan voor de duur van een jaar, met uitzondering van de verbintenis die start op 31 mei 2023 conform artikel 10, derde lid.
 
 ### ART 48.
 
-Als de landbouwer een verbintenis afsluit voor een van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), is de verbintenis van toepassing op uitsluitend runderen van het rastype melk van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt. Hij geeft in de verzamelaanvraag aan voor welke voedermaatregel, vermeld in punt 1) tot en met 5) van dat artikel, de verbintenis wordt afgesloten.<br>
+Als de landbouwer een verbintenis afsluit voor een van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), is de verbintenis van toepassing op uitsluitend runderen van het rastype melk van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt. Hij geeft in de verzamelaanvraag aan voor welke voedermaatregel, vermeld in punt 1) tot en met 5) van dat artikel, de verbintenis wordt afgesloten.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
+1° het is actief vanaf de startdatum van de verbintenis tot en met 31 december van het verbintenisjaar;&nbsp;<br>
+2° het heeft subsidiabele dieren als vermeld in het tweede lid.<br>
 <br>
 De landbouwer leeft in dat geval de verbintenis na voor de volgende dieren, die in de loop van de verbintenistermijn aanwezig zijn op zijn bedrijf:<br>
 1° alle runderen, vermeld in het eerste lid, die gekalfd hebben in een periode van maximaal 354 dagen voor de start van de verbintenistermijn, als een verbintenis wordt aangegaan voor de maatregel, vermeld in artikel 3, eerste lid, 8° a), 1) en 2);<br>
-2° alle runderen, vermeld in het eerste lid, die gekalfd hebben in een periode van maximaal 199 dagen voor de start van de verbintenistermijn, als een verbintenis wordt aangegaan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 3) tot en met 5);<br>
+2° alle runderen, vermeld in het eerste lid, die gekalfd hebben in een periode van maximaal 199 dagen voor de start van de verbintenistermijn, als een verbintenis wordt aangegaan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 4) en 5);<br>
 3° alle runderen, vermeld in het eerste lid, die in het verbintenisjaar kalven.<br>
 <br>
-De minister kan de combinatiemogelijkheden van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), en de modaliteiten daarvan bepalen. Als er geen combinatiemogelijkheden zijn bepaald, kan slechts één van de maatregelen toegepast worden op het bedrijf.
+De minister kan de combinatiemogelijkheden van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), en de modaliteiten daarvan bepalen. Als er geen combinatiemogelijkheden zijn bepaald, kan slechts één van de maatregelen toegepast worden op het bedrijf.<br>
+<br>
+De verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 5), kan alleen worden gesloten op voorwaarde dat ook een verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 1), wordt gesloten.
 
 ### ART 49.
 
-Als de landbouwer een verbintenis afsluit voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), is de verbintenis van toepassing op uitsluitend runderen van het rastype vlees van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt.&nbsp;<br>
+Als de landbouwer een verbintenis afsluit voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), is de verbintenis van toepassing op uitsluitend runderen van het rastype vlees van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
+1° het is actief vanaf de startdatum van de verbintenis tot en met 31 december van het verbintenisjaar;&nbsp;<br>
+2° het heeft subsidiabele dieren als vermeld in het tweede lid.<br>
 <br>
-De landbouwer leeft in dat geval de verbintenis na voor alle runderen, vermeld in het eerste lid, vanaf de leeftijd van zes maanden, die in de loop van het verbintenisjaar aanwezig zijn op zijn bedrijf.
+De landbouwer sluit de verbintenis, vermeld in het eerste lid, voor een of meer van de volgende categorieën:&nbsp;<br>
+1° vrouwelijke dieren van minstens zes maanden die nog niet gekalfd hebben;<br>
+2° vrouwelijke dieren van minstens zes maanden die al gekalfd hebben;<br>
+3° stieren van minstens zes maanden;<br>
+<br>
+Voor iedere categorie, vermeld in het tweede lid, sluit de landbouwer een afzonderlijke verbintenis.<br>
+<br>
+De landbouwer leeft de verbintenis na voor alle runderen&nbsp;die onder de verbintenis vallen en die in de loop van verbintenistermijn aanwezig zijn op zijn bedrijf.
 
 ## Afdeling 2. De voorwaarden voor melk- en vleesvee
 
@@ -655,7 +676,7 @@ Om in aanmerking te komen voor de subsidie voor een maatregel, vermeld in artike
 2° aanwezig zijn op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer.<br>
 <br>
 Om in aanmerking te komen voor de subsidie voor een maatregel, vermeld in artikel 3, eerste lid, 8°, a), moet voldaan zijn al de volgende voorwaarden:<br>
-1° de runderen waarop de verbintenis betrekking heeft moeten in Sanitel geregistreerd zijn als rastype melk;&nbsp;<br>
+1° de runderen waarop de verbintenis betrekking heeft moeten in Sanitel geregistreerd zijn als rastype melk. Op bedrijven die deelnemen aan melkproductieregistratie moeten de runderen in Sanitel geregistreerd zijn als rastype melk of als rastypte gemengd;&nbsp;<br>
 2° alle kalveren, die zijn voorgebracht door de runderen als vermeld in artikel 48, tweede lid, en waarop de verbintenis betrekking heeft in het verbintenisjaar, moeten tijdig geïdentificeerd en in Sanitel geregistreerd zijn.<br>
 <br>
 Om in aanmerking te komen voor de subsidie voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), moeten de runderen waarop de verbintenis betrekking heeft in Sanitel geregistreerd zijn als rastype vlees of als rastype gemengd.
@@ -668,7 +689,11 @@ Om in aanmerking te komen voor de subsidie voor de maatregel, vermeld in artikel
 
 §1. In dit artikel wordt verstaan onder toedieningsperiode: een termijn van 355 opeenvolgende dagen vanaf de kalvingsdatum.<br>
 <br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 1), een subsidie verkrijgen voor de toevoeging van nitraat aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De subsidie bedraagt 4 cent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.&nbsp;<br>
+§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 1), een subsidie verkrijgen voor de toevoeging van nitraat aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De voormelde subsidie bedraagt per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd:<br>
+1° voor 2024: 10 cent;&nbsp;<br>
+2° voor 2025: &nbsp;8 cent;<br>
+3° voor 2026: 6 cent;<br>
+4° vanaf 2027: 5 cent.<br>
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als gedurende de volledige verbintenistermijn nitraat wordt toegevoegd aan het veevoeder.<br>
 <br>
@@ -682,7 +707,11 @@ De voorwaarden, vermeld in het eerste lid, worden voor ieder dier waarop de verb
 
 §1. In dit artikel wordt verstaan onder toedieningsperiode: een termijn van 355 opeenvolgende dagen vanaf de kalvingsdatum.<br>
 <br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 2), een subsidie verkrijgen voor de toevoeging van 3-nitro-oxypropanol aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De subsidie bedraagt 7 cent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.<br>
+§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 2), een subsidie verkrijgen voor de toevoeging van 3-nitro-oxypropanol aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De voormelde subsidie bedraagt per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd:<br>
+1° voor 2024: 18 cent;&nbsp;<br>
+2° voor 2025: 16 cent;<br>
+3° voor 2026: 12 cent;<br>
+4° vanaf 2027: 9 cent.<br>
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als voldaan is aan al de volgende voorwaarden:<br>
 1° er wordt 3-nitro-oxypropanol toegevoegd aan het veevoeder;&nbsp;<br>
@@ -692,19 +721,11 @@ De voorwaarden, vermeld in het eerste lid, worden voor ieder dier waarop de verb
 <br>
 §4. De minister bepaalt de hoeveelheid 3-nitro-oxypropanol die wordt toegevoegd aan het veevoeder, vermeld in paragraaf 3.
 
-## Onderafdeling 3. Toevoeging van koolzaadschroot in combinatie met bierdraf
+## Onderafdeling 3....
 
 ### ART 53.
 
-§1. In dit artikel wordt verstaan onder toedieningsperiode: een termijn van tweehonderd opeenvolgende dagen vanaf de kalvingsdatum.<br>
-<br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 3), een subsidie verkrijgen voor de toevoeging van koolzaadschroot in combinatie met bierdraf aan het verstrekte veevoeder voor de dieren waarop de verbintenis betrekking heeft. De subsidie bedraagt 8 cent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.<br>
-<br>
-§3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als aan het veevoeder koolzaadschroot in combinatie met bierdraf wordt toegevoegd.<br>
-<br>
-De voorwaarde, vermeld in het eerste lid, wordt voor ieder dier waarop de verbintenis betrekking heeft, nageleefd op alle dagen van de toedieningsperiode die binnen de verbintenistermijn vallen.<br>
-<br>
-§4. De minister bepaalt aan welke samenstelling het veevoeder moet voldoen, na toevoeging van het koolzaadschroot en bierdraf, vermeld in paragraaf 3.
+...
 
 ## Onderafdeling 4. Toevoeging van geëxtrudeerd of geëxpandeerd lijnzaad
 
@@ -712,7 +733,11 @@ De voorwaarde, vermeld in het eerste lid, wordt voor ieder dier waarop de verbin
 
 §1. In dit artikel wordt verstaan onder toedieningsperiode: een termijn van tweehonderd opeenvolgende dagen vanaf de kalvingsdatum.<br>
 <br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 4), een subsidie verkrijgen voor de toevoeging van geëxtrudeerd of geëxpandeerd lijnzaad aan het verstrekte veevoeder voor de dieren waarop de verbintenis betrekking heeft. De subsidie bedraagt 8 cent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.<br>
+§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 4), een subsidie verkrijgen voor de toevoeging van geëxtrudeerd of geëxpandeerd lijnzaad aan het verstrekte veevoeder voor de dieren waarop de verbintenis betrekking heeft.&nbsp;De voormelde subsidie bedraagt per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd:<br>
+1° voor 2024: 11 cent;&nbsp;<br>
+2° voor 2025: 10 cent;<br>
+3° voor 2026: 7 cent;<br>
+4° vanaf 2027: 6 cent.<br>
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als aan het veevoeder geëxtrudeerd of geëxpandeerd lijnzaad wordt toegevoegd.&nbsp;<br>
 <br>
@@ -726,7 +751,11 @@ De voorwaarde, vermeld in het eerste lid, wordt voor ieder dier waarop de verbin
 
 §1. In dit artikel wordt verstaan onder toedieningsperiode: een termijn van tweehonderd opeenvolgende dagen vanaf de kalvingsdatum.<br>
 <br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 5), een subsidie verkrijgen voor de toevoeging van koolzaadvet aan het verstrekte veevoeder voor de dieren waarop de verbintenis betrekking heeft. De subsidie bedraagt 8 cent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.<br>
+§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 5), een subsidie verkrijgen voor de toevoeging van koolzaadvet aan het verstrekte veevoeder voor de dieren waarop de verbintenis betrekking heeft.&nbsp;De voormelde subsidie bedraagt per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd:<br>
+1° voor 2024: 24 cent;&nbsp;<br>
+2° voor 2025: 21 cent;<br>
+3° voor 2026: 15 cent;<br>
+4° vanaf 2027: 12 cent.<br>
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als aan het veevoeder koolzaadvet wordt toegevoegd.<br>
 <br>
@@ -742,7 +771,11 @@ De voorwaarde, vermeld in het eerste lid, wordt voor ieder dier waarop de verbin
 
 §1. In dit artikel wordt verstaan onder toedieningsperiode: alle dagen vanaf dat het dier de leeftijd van zes maanden bereikt.<br>
 <br>
-§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), een subsidie verkrijgen voor de toevoeging van nitraat aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De subsidie bedraagt 4 eurocent per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd.<br>
+§2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), een subsidie verkrijgen voor de toevoeging van nitraat aan het verstrekte veevoeder voor ieder dier waarop de verbintenis betrekking heeft. De voormelde subsidie bedraagt per dier voor iedere dag van de toedieningsperiode die binnen de verbintenistermijn valt en waarop de voormelde maatregel wordt nageleefd:<br>
+1° voor 2024: 10 cent;&nbsp;<br>
+2° voor 2025: 8 cent;<br>
+3° voor 2026: 6 cent;<br>
+4° vanaf 2027: 5 cent.<br>
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als gedurende de volledige verbintenistermijn &nbsp;nitraat wordt toegevoegd aan het veevoeder.<br>
 <br>
@@ -895,7 +928,7 @@ Als bij ziekte of ongeval van een of meer dieren het vereiste aantal subsidiabel
 
 De administratieve controle van het aantal subsidiabele dieren gebeurt op basis van de gegevens die geregistreerd zijn door de stamboekvereniging in het kader van het goedgekeurd fokprogramma als vermeld in artikel 13 van het besluit van 17 mei 2019 voor een ras vermeld in artikel 61, §1, 1°, artikel 62, §1, en artikel 63, §1, van dit besluit.
 
-## Hoofdstuk 11. Het verhogen van het organischekoolstofgehalte van bouwland
+## Hoofdstuk 11. Het verhogen van het organischekoolstofgehalte in de bodem
 
 ## Afdeling 1. De verbintenis
 
@@ -903,7 +936,9 @@ De administratieve controle van het aantal subsidiabele dieren gebeurt op basis 
 
 §1. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 11°, gaat de landbouwer een verbintenis aan voor de duur van een jaar.&nbsp;<br>
 <br>
-§2. De verbintenis, vermeld in paragraaf 1, wordt gesloten per perceel bouwland. Dat perceel moet in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland aangegeven zijn in de verzamelaanvraag.&nbsp;<br>
+§2. De verbintenis, vermeld in paragraaf 1, wordt gesloten per perceel. Het voormelde perceel wordt in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, op de volgende wijze aangegeven in de verzamelaanvraag:<br>
+1° als bouwland voor de maatregel, vermeld in artikel 3, eerste lid, 11°, a);<br>
+2° als bouwland of blijvende teelten voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b) en c).<br>
 <br>
 In afwijking van het eerste lid, wordt voor de maatregel het verhogen van het organischekoolstofgehalte via het teeltplan, vermeld in artikel 3, eerste lid, 11°, a), een verbintenis gesloten voor alle percelen bouwland als vermeld in het eerste lid, samen. Het betreft de percelen bouwland, vermeld in het eerste lid, die in het Vlaamse Gewest liggen, en de percelen bouwland, vermeld in het eerste lid, die in het Brusselse Hoofdstedelijke Gewest liggen. Als de totale oppervlakte van die percelen samen geen 0,50 hectare bedraagt, kan de verbintenis niet worden gesloten.&nbsp;<br>
 <br>
@@ -911,17 +946,19 @@ In afwijking van het eerste lid, wordt voor de maatregel het verhogen van het or
 
 ### ART 67.
 
-De landbouwer kan voor een perceel maar een keer een subsidie ontvangen voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 3) in een periode van vijf jaar.
+Er kan voor een perceel maar een keer een subsidie ontvangen worden voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 3) in een periode van vijf jaar.
 
 ### ART 68.
 
 De landbouwer komt alleen in aanmerking voor de subsidie voor de maatregel, vermeld in artikel 3, eerste lid, 11°, c), als hij op hetzelfde perceel ook een verbintenis aangaat voor een maatregel als vermeld in artikel 3, eerste lid, 11°, a) of b), en aan de subsidievoorwaarden ervan voldoet. Hij moet voor de maatregel, vermeld in artikel 3, eerste lid, 11°, c), ook een verbintenis sluiten.&nbsp;<br>
 <br>
-Hij kan voor een perceel maar een keer een subsidie ontvangen voor de maatregel, vermeld in artikel 3, eerste lid, 11°, c, in een periode van vijf jaar.
+Er kan voor een perceel maar een keer een subsidie ontvangen worden voor de maatregel, vermeld in artikel 3, eerste lid, 11°, c, in een periode van vijf jaar.
 
 ### ART 69.
 
-De maatregelen, vermeld in artikel 3, eerste lid, 11°, a), b) en c), kunnen gecombineerd worden op een perceel.
+De maatregelen, vermeld in artikel 3, eerste lid, 11°, a), b) en c), kunnen gecombineerd worden op een perceel.<br>
+<br>
+De maatregelen, vermeld in artikel 3, eerste lid, 11°, b), kunnen gecombineerd worden op een perceel.
 
 ## Afdeling 2. De voorwaarden
 
@@ -952,13 +989,14 @@ De maatregelen, vermeld in artikel 3, eerste lid, 11°, a), b) en c), kunnen gec
 §2. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden voor het perceel in kwestie:<br>
 1° er wordt een minimale hoeveelheid van 10 ton compost per hectare op het perceel toegediend; &nbsp;<br>
 2° de landbouwer heeft het perceel in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
-3° de landbouwer geeft het perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.&nbsp;<br>
+3° de landbouwer geeft het perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+4° de landbouwer beschikt over de mestrechten in het verbintenisjaar.<br>
 <br>
 §3. De minister kan voorwaarden bepalen waaraan de compost en de toediening ervan moeten voldoen.
 
 ### ART 72.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), een subsidie ontvangen voor het gebruik van stalmest op het perceel in kwestie.&nbsp;<br>
+§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), een subsidie ontvangen voor het gebruik van stalmest of champost op het perceel in kwestie.&nbsp;<br>
 <br>
 §2. De subsidie, vermeld in paragraaf 1, bedraagt:<br>
 1° 60 euro per hectare voor 2023;<br>
@@ -967,24 +1005,27 @@ De maatregelen, vermeld in artikel 3, eerste lid, 11°, a), b) en c), kunnen gec
 4° 40 euro per hectare vanaf 2026.<br>
 <br>
 §3. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° er wordt een minimale hoeveelheid van 10 ton stalmest per hectare op het perceel in kwestie toegediend; &nbsp;&nbsp;<br>
+1° er wordt een minimale hoeveelheid van 10 ton stalmest of champost per hectare op het perceel in kwestie toegediend; &nbsp;&nbsp;<br>
 2° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
-3° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+3° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+4° de landbouwer beschikt over de mestrechten in het verbintenisjaar.<br>
 <br>
-§4. De minister kan voorwaarden bepalen waaraan de stalmest en de toediening ervan moeten voldoen.
+§4. De minister kan voorwaarden bepalen waaraan de stalmest&nbsp;of de champost, en de toediening ervan moeten voldoen.
 
 ### ART 73.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 3), een subsidie ontvangen voor het gebruik van houtsnippers op het perceel in kwestie. De subsidie bedraagt 482 euro per hectare.&nbsp;<br>
+§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 3), een subsidie ontvangen voor het gebruik van houtsnippers op het perceel in kwestie. De subsidie bedraagt 602,5 euro per hectare.&nbsp;<br>
 <br>
 §2. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° de houtsnippers zijn afkomstig van hagen, heggen en houtkanten van het eigen bedrijf, die in het verbintenisjaar zijn aangegeven in de verzamelaanvraag;<br>
-2° de landbouwer beschikt over een grondstoffenverklaring als vermeld in artikel 3, §1, eerste lid, 14°, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen of een gelijkwaardig document, dat is afgeleverd door OVAM;&nbsp;<br>
+1° de houtsnippers zijn afkomstig van houtachtige elementen van het eigen bedrijf, die in het verbintenisjaar zijn aangegeven in de verzamelaanvraag;<br>
+2° ...;&nbsp;<br>
 3° er wordt een minimale hoeveelheid van 10 ton houtsnippers per hectare op het perceel in kwestie aangevoerd;&nbsp;<br>
 4° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
 5° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
 <br>
-§3. De minister kan voorwaarden bepalen waaraan de houtsnippers en de toediening ervan moeten voldoen.
+§3. De minister kan voorwaarden bepalen waaraan de houtsnippers en de toediening ervan moeten voldoen en kan bepalen waaraan de houtachtige elementen als vermeld in paragraaf 2, 1°, moeten voldoen.<br>
+<br>
+§4.&nbsp;De minister bepaalt hoeveel houtsnippers de houtachtige elementen als vermeld in paragraaf 2, 1°, per lopende meter, per hectare of per stuk opleveren, voor deze maatregel. De bevoegde entiteit berekent voor de aanvraag in kwestie op basis hiervan en op basis van de houtachtige elementen aangegeven in de verzamelaanvraag, hoeveel houtsnippers voor de verbintenis kunnen worden aangewend.
 
 ## Onderafdeling 3. Het bereiken van de streefzone voor het organischekoolstofgehalte en de zuurtegraad van de bodem
 
@@ -1067,7 +1108,9 @@ De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aa
 11° de landbouwer heeft de grasbufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
 12° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
+<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
 <br>
 §4. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
@@ -1090,7 +1133,9 @@ Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op
 10° de landbouwer heeft de grasbufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
 11° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
+<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
 <br>
 §2. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
@@ -1101,12 +1146,12 @@ Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op
 §1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, d), een subsidie verkrijgen voor een bufferstrook, die wordt ingezaaid met een graskruidenmengsel. De subsidie bedraagt 1095 euro per hectare aangelegde bufferstrook.&nbsp;<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° de bufferstrook bestaat uit een strook die wordt ingezaaid met een graskruidenmengsel. Het aangrenzende perceel is bouwland. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
+1° de bufferstrook bestaat uit een strook die wordt ingezaaid met een graskruidenmengsel. Het aangrenzende perceel is bouwland of een blijvende teelt. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
 2° de vegetatie op de bufferstrook kan duidelijk onderscheiden worden van de vegetatie op het perceel bouwland;&nbsp;<br>
 3° de bufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
-4° de bufferstrook mag gemaaid worden, als voldaan is aan een van de volgende voorwaarden:<br>
-&nbsp; a) het maaien gebeurt niet voor 15 juli van het verbintenisjaar;<br>
-&nbsp; b) minstens een derde van de breedte van de strook wordt niet gemaaid;&nbsp;<br>
+4° de bufferstrook wordt minstens eenmaal in het verbintenisjaar gemaaid. Het maaien gebeurt:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;ofwel voor 15 juli van het verbintenisjaar. Minstens een derde van de strook wordt pas na 15 juli en uiterlijk op 31 december gemaaid;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;ofwel na 15 juli van het verbintenisjaar;<br>
 5° de bufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de bufferstrook een winterteelt ingezaaid wordt of &nbsp;als de bufferstrook opnieuw aangelegd wordt;&nbsp;<br>
 6° de bufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 18 meter. Daarop gelden de volgende uitzonderingen:<br>
 &nbsp; a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,3 hectare is.&nbsp;<br>
@@ -1118,7 +1163,9 @@ Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op
 10° de landbouwer heeft de bufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
 11° de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
+<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de bufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
 <br>
 §3. De minister bepaalt de samenstelling van het graskruidenmengsel, vermeld in het eerste lid, en kan bijkomende teelttechnische en voorwaarden voor het beheer van de bufferstrook en het perceel bouwland bepalen.
 
@@ -1129,11 +1176,11 @@ Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op
 §1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, e), een subsidie verkrijgen voor een bufferstrook, die wordt ingezaaid met een bloemenmengsel. De subsidie bedraagt 1745 euro per hectare aangelegde bufferstrook.<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° de bufferstrook bestaat uit een strook die is ingezaaid met een bloemenmengsel. Het aangrenzende perceel is bouwland. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
+1° de bufferstrook bestaat uit een strook die is ingezaaid met een bloemenmengsel. Het aangrenzende perceel is bouwland of een blijvende teelt. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
 2° de vegetatie op de bufferstrook kan duidelijk onderscheiden worden van de vegetatie op het perceel bouwland;&nbsp;<br>
 3° de bufferstrook is ingezaaid voor 1 mei van het verbintenisjaar;<br>
 4° de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland met een lage tot een zeer hoge erosiegevoeligheid komt alleen in aanmerking voor subsidie als ook een verbintenis voor een grasbufferstrook in het kader van erosiebestrijding als vermeld in artikel 3, eerste lid, 12°, a), wordt aangegaan, en de landbouwer in aanmerking komt voor subsidie. De grasbufferstrook moet, in afwijking van artikel 77, §2, 7°, in alle gevallen een minimale breedte hebben van 6 meter;&nbsp;<br>
-5° de bufferstrook wordt gemaaid in de periode tussen 15 september en 15 oktober van het verbintenisjaar;&nbsp;<br>
+5° de bufferstrook wordt gemaaid in de periode vanaf 15 september tot en met 31 december van het verbintenisjaar;&nbsp;<br>
 6° de bufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de bufferstrook een winterteelt ingezaaid wordt of als de bufferstrook opnieuw aangelegd wordt;&nbsp;<br>
 7° de bufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 18 meter. Daarop gelden volgende uitzonderingen:<br>
 &nbsp; a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,30 hectare is;<br>
@@ -1166,11 +1213,13 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten per perceel.
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in de eerste paragraaf, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
 1° de landbouwer past mechanische onkruidbestrijding toe op het perceel in kwestie, zowel op de voor-, hoofd- als nateelt. De toepassing is niet verplicht op de nateelt, als die ook de hoofdteelt van het volgende jaar is;<br>
 2° bij de toepassing van de bestrijding, vermeld in punt 1°, is het gebruik van herbiciden en bodemontsmettingsmiddelen niet toegelaten;<br>
-3° op de volledige oppervlakte van het perceel in kwestie is een openluchtteelt aanwezig, met uitzondering van grasland, grasklaver, klaver, luzerne, grasluzerne, vlinderbloemige mengsels, miscanthus en bebossing;<br>
+3° op de volledige oppervlakte van het perceel in kwestie is een teelt aanwezig, met uitzondering van grasland, grasklaver, klaver, luzerne, grasluzerne, vlinderbloemige mengsels, miscanthus en bebossing;<br>
 4° de landbouwer kan het gebruik van mechanische onkruidbestrijding aantonen;<br>
 5° de landbouwer houdt per teelt een teeltfiche bij met de actuele gegevens van de onkruidbestrijding;<br>
 6° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de voor-, hoofd- en nateelt;<br>
-7° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.
+7° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+<br>
+§3. Als het perceel in kwestie in het kader van de biologische productiemethode aangemeld is bij en onder controle staat van een erkend controleorgaan, en als het perceel als zodanig is aangemeld in de verzamelaanvraag van het verbintenisjaar, zijn paragraaf 2, 4° en 5° en artikel 84 niet van toepassing.
 
 ### ART 84.
 
@@ -1180,7 +1229,7 @@ De landbouwer mag een verbintenis sluiten voor verschillende percelen overeenkom
 <br>
 Als een of meerdere percelen niet voldoen aan de voorwaarden, vermeld in artikel 83, §2, zal hij alleen een subsidie ontvangen voor de percelen die wel voldoen aan de voorwaarden, op voorwaarde dat die laatst vermelde percelen een totale oppervlakte van minstens 0,50 hectare hebben.
 
-## Hoofdstuk 14. De toepassing van erosiebestrijdende teelttechnieken
+## Hoofdstuk 14. De toepassing van erosiebestrijdende en bodemverbeterende teelttechnieken
 
 ## Afdeling 1. De verbintenis
 
@@ -1214,10 +1263,10 @@ De landbouwer kan maar een van de maatregelen, vermeld in artikel 3, eerste lid,
 
 ### ART 87.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 14°, b), een subsidie verkrijgen voor de toepassing van niet-kerende bodembewerking met bodembedekking. De subsidie bedraagt 60 euro per hectare.&nbsp;<br>
+§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 14°, b), een subsidie verkrijgen voor de toepassing van niet-kerende bodembewerking met bodembedekking. De subsidie bedraagt 86 euro per hectare.&nbsp;<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° het perceel in kwestie heeft een medium, een lage of een heel lage erosiegevoeligheid;<br>
+1° het perceel in kwestie heeft een medium, een lage, een heel lage&nbsp;of een verwaarloosbare erosiegevoeligheid;<br>
 2° op het volledige perceel in kwestie wordt de bodem niet kerend bewerkt bij de inzaai van de hoofdteelt;&nbsp;<br>
 3° op het perceel in kwestie zijn geen ruggenteelten aanwezig;&nbsp;<br>
 4° op het perceel in kwestie zijn op het moment van de niet-kerende bodembewerking voldoende gewasresten aanwezig;&nbsp;<br>
@@ -1293,7 +1342,7 @@ Indien een of meerdere percelen niet voldoen aan de voorwaarden, vermeld in arti
 <br>
 De minister kan de teelten en de teelttechnieken, vermeld in het eerste lid, 2° en 3°, bepalen.<br>
 <br>
-§3. De verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 16°, b), wordt gesloten per perceel. De landbouwer kan voor een perceel maar een keer een subsidie ontvangen voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 3) in een periode van drie jaar.
+§3. De verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 16°, b), wordt gesloten per perceel. Er kan voor een perceel maar een keer een subsidie ontvangen worden voor de maatregel, vermeld in artikel 3, eerste lid, 16°, b), in een periode van drie jaar.
 
 ## Afdeling 2. De voorwaarden
 
@@ -1310,24 +1359,24 @@ De minister kan de teelten en de teelttechnieken, vermeld in het eerste lid, 2°
 §3. De subsidie, vermeld in paragraaf 1, wordt slechts uitbetaald voor maximaal 100 hectare en alleen voor de percelen waarop de maatregel daadwerkelijk is toegepast.&nbsp;<br>
 <br>
 §4. Als de landbouwer op ieder perceel in kwestie minstens een van de middelen, vermeld in paragraaf 1, toedient door precisielandbouw via automatische gps-aansturing, wordt de subsidie, met toepassing van paragraaf 3, op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 60 euro per hectare voor de eerste 10 hectare;<br>
-2° een bedrag van maximaal 35 euro per hectare voor de volgende 10 hectare;<br>
-3° een bedrag van maximaal 7 euro per hectare voor de volgende 80 hectare.<br>
+1° een bedrag van 60 euro per hectare voor de eerste 10 hectare;<br>
+2° een bedrag van 35 euro per hectare voor de volgende 10 hectare;<br>
+3° een bedrag van 7 euro per hectare voor de volgende 80 hectare.<br>
 <br>
 Als de landbouwer op ieder perceel in kwestie de beide middelen, vermeld in paragraaf 1, toedient door precisielandbouw via automatische gps-aansturing, wordt de subsidie, met toepassing van paragraaf 3, op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 75 euro per hectare voor de eerste 10 hectare;<br>
-2° een bedrag van maximaal 50 euro per hectare voor de volgende 10 hectare;<br>
-3° een bedrag van maximaal 10 euro per hectare voor de volgende 80 hectare.<br>
+1° een bedrag van 75 euro per hectare voor de eerste 10 hectare;<br>
+2° een bedrag van 50 euro per hectare voor de volgende 10 hectare;<br>
+3° een bedrag van 10 euro per hectare voor de volgende 80 hectare.<br>
 <br>
 §5. Als de landbouwer op ieder perceel in kwestie minstens een van de middelen, vermeld in paragraaf 1, toedient door precisielandbouw via automatische RTK-gps-aansturing, wordt de subsidie, met toepassing van paragraaf 3, op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 75 euro per hectare voor de eerste 10 hectare;<br>
-2° een bedrag van maximaal 50 euro per hectare voor de volgende 10 hectare;<br>
-3° een bedrag van maximaal 10 euro per hectare voor de volgende 80 hectare.<br>
+1° een bedrag van 75 euro per hectare voor de eerste 10 hectare;<br>
+2° een bedrag van 50 euro per hectare voor de volgende 10 hectare;<br>
+3° een bedrag van 10 euro per hectare voor de volgende 80 hectare.<br>
 <br>
 Als de landbouwer op ieder perceel in kwestie de beide middelen, vermeld paragraaf 1, toedient door precisielandbouw via automatische RTK-gps-aansturing, wordt de subsidie, met toepassing van paragraaf 3, op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 90 euro per hectare voor de eerste 10 hectare;<br>
-2° een bedrag van maximaal 65 euro per hectare voor de volgende 10 hectare;<br>
-3° een bedrag van maximaal 15 euro per hectare voor de volgende 80 hectare.<br>
+1° een bedrag van 90 euro per hectare voor de eerste 10 hectare;<br>
+2° een bedrag van 65 euro per hectare voor de volgende 10 hectare;<br>
+3° een bedrag van 15 euro per hectare voor de volgende 80 hectare.<br>
 <br>
 §6. Als de landbouwer gewasbeschermingsmiddelen toedient via precisielandbouw als vermeld in paragraaf 1, is hij verplicht om vloeibare kunstmeststoffen die hij wil gebruiken, ook toe te dienen via die techniek.
 
@@ -1380,9 +1429,9 @@ De verbintenis, vermeld in het eerste lid, wordt gesloten voor alle subsidiabele
 §1.Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 17°, een subsidie verkrijgen voor het actieve gebruik van het bodempaspoort. &nbsp;<br>
 <br>
 §2. De subsidie, vermeld in paragraaf 1, wordt slechts uitbetaald voor maximaal 100 hectare van de verbintenisoppervlakte en wordt op de volgende wijze berekend:<br>
-1° een bedrag van maximaal 15 euro per hectare voor de eerste 20 hectare;<br>
-2° een bedrag van maximaal 10 euro per hectare voor de volgende 25 hectare;<br>
-3° een bedrag van maximaal 5 euro per hectare voor de volgende 55 hectare.<br>
+1° een bedrag van 15 euro per hectare voor de eerste 20 hectare;<br>
+2° een bedrag van 10 euro per hectare voor de volgende 25 hectare;<br>
+3° een bedrag van 5 euro per hectare voor de volgende 55 hectare.<br>
 <br>
 §3. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
 1° de maatregel wordt toegepast op alle percelen in kwestie;&nbsp;<br>
@@ -1431,15 +1480,21 @@ Voor dit besluit gelden de volgende diercategorieën:&nbsp;<br>
 <br>
 §2. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 18°, een subsidie verkrijgen van maximaal 2600 euro per verbintenisjaar om het gebruik van antibiotica op zijn bedrijf te verminderen.&nbsp;<br>
 <br>
-De landbouwer ontvangt de subsidie, vermeld in het eerste lid, voor elke diercategorie, vermeld in paragraaf 1, tweede lid, 5° tot en met 7°, waarvoor hij de verbintenis afsluit en waarbij hij de verbetering, vermeld in paragraaf 3, voor dat jaar behaalt. &nbsp;&nbsp;<br>
-<br>
-De landbouwer ontvangt maar een keer de subsidie, vermeld in het eerste lid, voor alle diercategorieën, vermeld in paragraaf 1, tweede lid, 1° tot en met 4°, samen. Hij moet de verbintenis afsluiten voor elk van die diercategorieën en de verbetering, vermeld in paragraaf 3, voor elk van die diercategorieën voor dat jaar behalen om in aanmerking te komen voor die subsidie. &nbsp;<br>
-<br>
 §3. Voor de eerste verbintenistermijn moet de BD100-waarde in die periode voor de diercategorie in kwestie met minstens 10% verbeterd zijn ten opzichte van de gemiddelde BD100-waarde.&nbsp;<br>
 <br>
 Voor het tweede jaar dat volgt op de referentieperiode moet de BD100-waarde in die verbintenisperiode voor de diercategorie in kwestie met minstens 20% verbeterd zijn ten opzichte van de gemiddelde BD100-waarde.<br>
 <br>
 Voor het derde jaar dat volgt op de referentieperiode moet de BD100-waarde in die verbintenisperiode voor de diercategorie in kwestie met minstens 30% verbeterd zijn ten opzichte van de gemiddelde BD100-waarde.<br>
+<br>
+§3/1. De landbouwer ontvangt de subsidie, vermeld in paragraaf 2, voor elke diercategorie, vermeld in paragraaf 1, tweede lid, 5° tot en met 7°, waarvoor hij de verbintenis sluit en waarvoor hij de verbetering, vermeld in paragraaf 3, voor dat jaar behaalt.<br>
+<br>
+Als er verschillende veebeslagen of inrichtingen van dezelfde diercategorie zijn als vermeld in paragraaf 1, tweede lid, 5° tot en met 7°, wordt de verbetering, vermeld in het eerste lid, berekend als de gemiddelde verbetering van de verschillende veebeslagen of inrichtingen. Er mag voor geen enkel veebeslag een verslechtering van de BD100-waarde in het verbintenisjaar zijn.&nbsp;<br>
+<br>
+In het tweede lid wordt onder inrichting verstaan: een inrichting als vermeld in artikel 1, 6°, van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere regels van de erkenningen, toelatingen en voorafgaande registraties afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen.&nbsp;<br>
+<br>
+§3/2. De landbouwer ontvangt maar één keer de subsidie, vermeld in paragraaf 2, voor alle diercategorieën, vermeld in paragraaf 1, tweede lid, 1° tot en met 4°, samen. De landbouwer sluit de verbintenis voor elk van de voormelde diercategorieën en voldoet aan al de volgende voorwaarden:<br>
+1° de verbetering, vermeld in paragraaf 3, wordt in afwijking van paragraaf 3 berekend als de gemiddelde verbetering over de diercategorieën in kwestie;&nbsp;<br>
+2° er is voor geen enkele van de diercategorieën in kwestie voor geen enkel beslag een verslechtering van de BD100-waarde in het verbintenisjaar.<br>
 <br>
 §4. De minister bepaalt hoe de gemiddelde BD-100 waarde wordt berekend en wat de referentieperiode is. Hij kan voorwaarden bepalen waaraan de dieren en diercategorieën moeten voldoen, en kan de diercategorieën verder indelen in subcategorieën en daarvoor bijkomende voorwaarden bepalen.
 
