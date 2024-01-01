@@ -103,11 +103,19 @@ De Vlaamse Regering kan voorwaarden vaststellen waaronder, onder meer op   verzo
 
 ### ART. 15.
 
-<P>Binnen de beschikbare begrotingskredieten en met toepassing van de bepalingen   van artikel 8 en artikel 10 tot en met 14 kan het agentschap aan personen met   een handicap een budget toekennen om niet-rechtstreeks toegankelijke zorg en   ondersteuning te bekostigen.<BR></P>  <P>De Vlaamse Regering bepaalt de verdeling van het totale beschikbare budget   tussen zorg en ondersteuning voor minderjarigen en zorg en ondersteuning voor   meerderjarigen, en tussen de provincies. De middelen voor de financiering van de   zorg en ondersteuning van personen die hun woonplaats hebben in het tweetalige   gebied Brussel-Hoofdstad, worden toegevoegd aan de middelen voor de zorg en   ondersteuning van personen die hun woonplaats hebben in de provincie   Vlaams-Brabant.<BR></P>
+<p>Binnen de beschikbare begrotingskredieten en met toepassing van de bepalingen van artikel 8 en artikel 10 tot en met 14 kan het agentschap aan personen met een handicap een budget toekennen om niet-rechtstreeks toegankelijke zorg en ondersteuning te bekostigen.</p>
+
+<p>De Vlaamse Regering bepaalt de verdeling van het totale beschikbare budget tussen zorg en ondersteuning voor minderjarigen en zorg en ondersteuning voor meerderjarigen.</p>
 
 ### ART. 16.
 
-<P>De Vlaamse Regering stelt een procedure vast om te bepalen welke   meerderjarige personen met een handicap prioritair een budget voor   niet-rechtstreeks toegankelijke zorg en ondersteuning toegekend krijgen. De   Vlaamse Regering neemt maatregelen, conform de voorwaarden vermeld in artikel 8,   om de zorg en ondersteuning van meerderjarige personen aan wie als minderjarige   een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning toegekend   werd, te continueren.<BR></P>  <P>De Vlaamse Regering stelt de nadere regels vast voor de erkenning van een   situatie als noodsituatie.<BR></P>  <P>De Vlaamse Regering bepaalt de minimale inhoudelijke en procesmatige criteria   voor de prioritering van de dossiers en houdt hierbij rekening met de resultaten   van een analyse van de niet-ingevulde nood aan zorg en ondersteuning, vermeld in   artikel 3, derde lid.<BR></P>  <P>De Vlaamse Regering kan in elke provincie een regionale prioriteitencommissie   oprichten die tot taak heeft om een zorgvraag, overeenkomstig de richtlijnen die   door het agentschap zijn vastgesteld, te erkennen als prioritair te bemiddelen.   De Vlaamse Regering bepaalt de maximale termijn, de nadere samenstelling,   opdrachten van de regionale prioriteitencommissie en de beroepsprocedure en kan   in dat kader nadere taken toekennen aan het agentschap.<BR></P>
+<p>De Vlaamse Regering stelt een procedure vast om te bepalen welke meerderjarige personen met een handicap prioritair een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning toegekend krijgen. De Vlaamse Regering neemt maatregelen, conform de voorwaarden vermeld in artikel 8, om de zorg en ondersteuning van meerderjarige personen aan wie als minderjarige een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning toegekend werd, te continueren.</p>
+
+<p>De Vlaamse Regering stelt de nadere regels vast voor de erkenning van een situatie als noodsituatie.</p>
+
+<p>De Vlaamse Regering bepaalt de minimale inhoudelijke en procesmatige criteria voor de prioritering van de dossiers en houdt hierbij rekening met de resultaten van een analyse van de niet-ingevulde nood aan zorg en ondersteuning, vermeld in artikel 3, derde lid.</p>
+
+<p>De Vlaamse Regering kan een commissie oprichten die tot taak heeft om de vragen naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning te prioriteren conform de inhoudelijke en procesmatige criteria, vermeld in het derde lid. De Vlaamse Regering bepaalt de nadere samenstel-ling, de opdrachten en de werkwijze van de commissie en bepaalt de presentiegelden en vergoedingen die kunnen worden toegekend aan de voorzitter en de leden van de commissie.</p>
 
 ### ART. 17.
 
