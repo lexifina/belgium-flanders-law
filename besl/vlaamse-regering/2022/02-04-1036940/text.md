@@ -30,6 +30,7 @@ In dit besluit wordt verstaan onder:<br>
 5° minister: de Vlaamse minister, bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding;<br>
 5° /1 secretaris-generaal: het hoofd van de administratie;<br>
 6° Vlaams Instituut voor de Eerste Lijn, afgekort VIVEL: een partnerorganisatie als vermeld in artikel 19 van het decreet van 26 april 2019;<br>
+6°/1 Vlaamse overheid: de Vlaamse Gemeenschap en het Vlaamse Gewest, inclusief de instellingen die daaronder vallen;<br>
 7° zorgraad: een rechtspersoon als vermeld in hoofdstuk 5 van het decreet van 26 april 2019.
 
 ## Hoofdstuk 2. Opdrachten
@@ -37,48 +38,43 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 Het VIVEL voert de volgende opdrachten uit:<br>
-1° informatie en data ontsluiten en samenbrengen en die op een actieve manier ter beschikking stellen aan alle zorgaanbieders;<br>
-2° empirisch onderbouwde strategieën, methodieken en implementatietools ontwikkelen:<br>
-a) om de organisatie van de eerstelijnszorg te ondersteunen;<br>
-b) met betrekking tot preventie in de eerste lijn;<br>
-c) met betrekking tot mantelzorg;<br>
-3° de zorgaanbieders adviseren, coachen, vormen en sensibiliseren;<br>
-4° de zorgraden begeleiden bij hun personeelsadministratie, hun personeelsmanagement, hun boekhoudkundige verplichtingen en hun verenigingsrechtelijke verplichtingen, als aangewezen partnerorganisatie conform artikel 14, eerste lid, 10°, van het besluit van de Vlaamse Regering van 17 mei 2019 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
-5° een opleidingsaanbod voor alle zorgaanbieders ontwikkelen en uitvoeren om interprofessionele samenwerking te bevorderen;<br>
-6° de kennis en de ondersteuning van de eerste lijn over de volgende materies uitbouwen:<br>
-a) mantelzorg;<br>
-b) preventie;<br>
-7° innovatie in de eerstelijnszorg stimuleren;<br>
-8° de toegankelijkheid en de kwaliteit van de eerstelijnszorg in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad bevorderen en opvolgen;<br>
-9° de Vlaamse Gemeenschap en de eerstelijnszorg adviseren en ondersteunen als er maatregelen ter bestrijding van een gezondheidscrisis worden uitgevoerd;<br>
-10° de Vlaamse Gemeenschap adviseren.<br>
+1°&nbsp;&nbsp; &nbsp;de kennis en de expertise van de eerste lijn over de volgende materies uitbouwen:<br>
+a)&nbsp;&nbsp; &nbsp;geïntegreerde zorg en ondersteuning;<br>
+b)&nbsp;&nbsp; &nbsp;doelgerichte zorg en ondersteuning;<br>
+c)&nbsp;&nbsp; &nbsp;interdisciplinaire samenwerking;<br>
+d)&nbsp;&nbsp; &nbsp;mantelzorg;<br>
+2°&nbsp;&nbsp; &nbsp;de zorgraden ondersteunen, adviseren, coachen en sensibiliseren in de volgende materies:<br>
+a)&nbsp;&nbsp; &nbsp;goed bestuur;<br>
+b)&nbsp;&nbsp; &nbsp;hun personeelsadministratie, hun personeelsmanagement, hun boekhoudkundige verplichtingen en hun verenigingsrechtelijke verplichtingen;<br>
+c)&nbsp;&nbsp; &nbsp;hun opdrachten, bepaald bij en krachtens artikel 11 van het decreet van 26 april 2019;<br>
+3°&nbsp;&nbsp; &nbsp;innovatie in de eerstelijnszorg stimuleren;<br>
+4°&nbsp;&nbsp; &nbsp;de Vlaamse Gemeenschap en de eerstelijnszorg adviseren en ondersteunen als er maatregelen ter bestrijding van een gezondheidscrisis worden uitgevoerd;<br>
+5°&nbsp;&nbsp; &nbsp;de Vlaamse Gemeenschap adviseren over andere aangelegenheden over de eerstelijnszorg dan de aangelegenheden, vermeld in punt 4°.”;<br>
+<br>
+Bij het uitvoeren van de opdrachten, vermeld in het eerste lid, biedt het VIVEL de volgende elementen aan:<br>
+1°&nbsp;&nbsp; &nbsp;empirisch onderbouwde implementatietools, strategieën en methodieken, informatie en data;<br>
+2°&nbsp;&nbsp; &nbsp;opleidingen.<br>
 <br>
 Bij de uitvoering van de opdrachten, vermeld in het eerste lid, wordt rekening gehouden met de specificiteit van het tweetalige gebied Brussel-Hoofdstad. Dit houdt onder meer de ondersteuning in van de zorgraad in hun werking in het grootstedelijk beleid.<br>
-<br>
-De uitvoering van de opdrachten, vermeld in het eerste lid, 2°, c), en 6°, a), worden door de administratie geëvalueerd binnen twee jaar na de inwerkingtreding van dit besluit.<br>
 <br>
 De opdrachten, vermeld in het eerste lid, worden volgens de volgende principes uitgevoerd:<br>
 1° de principes, vermeld in artikel 4 van het decreet van 26 april 2019;<br>
 2° de principes van de buurtgerichte zorg.<br>
+3° het principe van kwaliteitsvolle zorg.<br>
 <br>
-In het vierde lid, 2°, wordt verstaan onder buurtgerichte zorg: de zorg die erop gericht is:<br>
-1° de sociale cohesie te versterken;<br>
-2° vragen naar zorg en ondersteuning uit de buurt op te vangen;<br>
-3° personen met een zorg- en ondersteuningsvraag, als dat nodig is, toe te leiden naar gepaste zorg en ondersteuning;<br>
-4° de buurt actief te betrekken bij de werking van de eerstelijnszorg door een actieve samenwerking op lokaal vlak, afgestemd met het lokaal sociaal beleidsplan, onder regie van het lokaal bestuur conform het decreet van 9 februari 2018 houdende het lokaal sociaal beleid.<br>
+In het vierde lid wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;buurtgerichte zorg: de zorg die erop gericht is:<br>
+a)&nbsp;&nbsp; &nbsp;de sociale cohesie te versterken;<br>
+b)&nbsp;&nbsp; &nbsp;vragen naar zorg en ondersteuning uit de buurt op te vangen;<br>
+c)&nbsp;&nbsp; &nbsp;personen met een zorg- en ondersteuningsvraag, als dat nodig is, toe te leiden naar gepaste zorg en ondersteuning;<br>
+d)&nbsp;&nbsp; &nbsp;de buurt actief te betrekken bij de werking van de eerstelijnszorg door een actieve samenwerking op lokaal vlak, die is afgestemd met het lokaal sociaal beleidsplan, onder regie van het lokaal bestuur, conform het decreet van 9 februari 2018 houdende het lokaal sociaal beleid;<br>
+2°&nbsp;&nbsp; &nbsp;kwaliteitsvolle zorg: de kwaliteitsvolle zorg, vermeld in artikel 11, tweede lid, 1°, van het decreet van 26 april 2019.<br>
 <br>
 De minister kan de opdrachten van het VIVEL, vermeld in het eerste lid, nader preciseren.
 
 ### ART 3.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 2, organiseert het VIVEL minstens één keer per jaar een periodiek overleg met vertegenwoordigers van de volgende groepen:<br>
-1° de zorgraden;<br>
-2° de zorgaanbieders;<br>
-3° de aanbieders van een meer gespecialiseerd zorgaanbod waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
-4° de lokale besturen en de Vlaamse Gemeenschapscommissie;<br>
-5° de personen met een zorg- en ondersteuningsvraag;<br>
-6° de mantelzorgers;<br>
-7° de Vlaamse kennis- en expertisecentra.<br>
+Voor de uitvoering van de opdrachten, vermeld in artikel 2, organiseert het VIVEL minstens één keer per jaar een periodiek overleg met de vertegenwoordigers, vermeld in artikel 4, eerste lid. Een vertegenwoordiger van de Vlaamse overheid kan deelnemen aan het voormelde overleg.<br>
 <br>
 Op het periodieke overleg, vermeld in het eerste lid, worden volgende zaken afgestemd:<br>
 1° de strategiebepaling voor het VIVEL;<br>
@@ -89,14 +85,15 @@ Op het periodieke overleg, vermeld in het eerste lid, worden volgende zaken afge
 
 ### ART 4.
 
-In het VIVEL is er een representatieve vertegenwoordiging van het zorglandschap. Daarbij wordt de volgende verhouding van vertegenwoordigers gerespecteerd:<br>
-1° zes vertegenwoordigers van de welzijnsactoren;<br>
-2° zes vertegenwoordigers van de eerstelijnsgezondheidszorgactoren;<br>
-3° vijf vertegenwoordigers van de lokale besturen;<br>
-4° drie vertegenwoordigers van de personen met een zorg- en ondersteuningsvraag;<br>
-5° twee vertegenwoordigers van de mantelzorgers;<br>
-6° twee vertegenwoordigers van de Vlaamse kennis- en expertisecentra;<br>
-7° één vertegenwoordiger van de ziekenhuizen.<br>
+In het VIVEL is er minstens de volgende representatieve en gelijkwaardige vertegenwoordiging van het zorglandschap:<br>
+1°&nbsp;&nbsp; &nbsp;minimaal vijf en maximaal acht vertegenwoordigers van de welzijnsactoren;<br>
+2°&nbsp;&nbsp; &nbsp;minimaal vijf en maximaal acht vertegenwoordigers van de eerstelijnsgezondheidszorgactoren;<br>
+3°&nbsp;&nbsp; &nbsp;minimaal vier en maximaal zeven vertegenwoordigers van de lokale besturen;<br>
+4°&nbsp;&nbsp; &nbsp;minimaal vier en maximaal zeven vertegenwoordigers van de zorgraden;<br>
+5°&nbsp;&nbsp; &nbsp;minimaal twee en maximaal vier vertegenwoordigers van de personen met een zorg- en ondersteuningsvraag;<br>
+6°&nbsp;&nbsp; &nbsp;minimaal een en maximaal drie vertegenwoordigers van de mantelzorgers;<br>
+7°&nbsp;&nbsp; &nbsp;minimaal een en maximaal drie vertegenwoordigers van de Vlaamse kennis- en expertisecentra;<br>
+8°&nbsp;&nbsp; &nbsp;minimaal een en maximaal twee vertegenwoordigers van de ziekenhuizen.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° welzijnsactoren:<br>
@@ -106,6 +103,8 @@ c) de lokale dienstencentra;<br>
 d) de diensten maatschappelijk werk van de ziekenfondsen;<br>
 e) de centra voor algemeen welzijnswerk;<br>
 f) de openbare centra voor maatschappelijk welzijn;<br>
+g) voorzieningen die erkend, vergund of gesubsidieerd zijn door het Vlaams Agentschap voor Personen met een Handicap, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+h) voorzieningen die erkend, vergund of gesubsidieerd zijn door het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
 2° eerstelijnsgezondheidszorgactoren:<br>
 a) de huisartsen;<br>
 b) de thuisverpleegkundigen;<br>
@@ -123,11 +122,11 @@ k) de partners die actief zijn in functie 1 van de netwerken volwassenen artikel
 
 In dit artikel wordt verstaan onder:<br>
 1° onafhankelijk lid: een lid dat niet afkomstig is uit de organisaties, vermeld in artikel 4, of uit de Vlaamse overheid;<br>
-2° Vlaamse overheid: de Vlaamse Gemeenschap en het Vlaamse Gewest, inclusief de instellingen die daaronder vallen.<br>
+2° ...<br>
 <br>
 Het bestuursorgaan van het VIVEL bevat twee onafhankelijke leden. Een van beide leden wordt tot voorzitter van het bestuursorgaan verkozen.<br>
 <br>
-Een personeelslid van de administratie woont de vergaderingen van het bestuursorgaan bij als waarnemer en rapporteert daarover aan de administratie.
+Een personeelslid van de administratie kan de vergaderingen van het bestuursorgaan, vermeld in het tweede lid, bijwonen als waarnemer en rapporteert daarover aan de administratie.
 
 ## Hoofdstuk 4. Erkenning en weigering van de erkenning
 
@@ -142,12 +141,16 @@ Een aanvrager kan erkend worden als VIVEL als hij voldoet aan al de volgende voo
 2° het werkgebied van de aanvrager omvat het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
 3° de statuten zijn neergelegd op de griffie van de bevoegde ondernemingsrechtbank met het oog op de publicatie van deze statuten in het Belgisch Staatsblad;<br>
 4° de aanvrager heeft expertise in al de volgende materies:<br>
-a) de organisatie van eerstelijnszorg;<br>
-b) het aanbieden van ondersteuning en opleiding aan zorgaanbieders;<br>
-c) de kwaliteit en toegankelijkheid van zorg;<br>
-d) het opstellen van empirisch onderbouwde richtlijnen en methodieken voor de eerstelijnszorg;<br>
-e) de ondersteuning van personeelsadministratie en -management, en boekhouding;<br>
-f) de verenigingsrechtelijke verplichtingen;<br>
+a)&nbsp;&nbsp; &nbsp;geïntegreerde zorg en ondersteuning;<br>
+b)&nbsp;&nbsp; &nbsp;doelgerichte zorg en ondersteuning;<br>
+c)&nbsp;&nbsp; &nbsp;interdisciplinaire samenwerking;<br>
+d)&nbsp;&nbsp; &nbsp;mantelzorg;<br>
+e)&nbsp;&nbsp; &nbsp;goed bestuur;<br>
+f)&nbsp;&nbsp; &nbsp;de ondersteuning van personeelsadministratie en -management, en boekhouding;<br>
+g)&nbsp;&nbsp; &nbsp;de verenigingsrechtelijke verplichtingen;<br>
+h)&nbsp;&nbsp; &nbsp;het aanbieden van ondersteuning, advies, coaching, sensibilisatie en opleiding over de materies, vermeld in punt a) tot en met g);<br>
+i)&nbsp;&nbsp; &nbsp;het opmaken van empirisch onderbouwde implementatietools, strategieën en methodieken;<br>
+j)&nbsp;&nbsp; &nbsp;het aanbieden van empirisch onderbouwde informatie en data.<br>
 5° de aanvrager voldoet aan de voorwaarden, vermeld in artikel 4 en 5;<br>
 6° de aanvrager beschikt over een beleidsplan met strategische invulling van de opdrachten voor de erkenningsperiode en een actieplan met de concretisering van de uitvoering van de opdrachten voor het eerste werkingsjaar. Het actieplan vermeldt duidelijk welke acties voor welke opdrachten, vermeld in artikel 2, ondernomen worden.
 
@@ -201,7 +204,8 @@ Om erkend te blijven, moet het VIVEL:<br>
 4° jaarlijks uiterlijk op 31 maart aan de administratie een verslag bezorgen over de uitvoering van de opdrachten;<br>
 5° jaarlijks uiterlijk op 31 maart aan de administratie het financiële verslag van het voorbije werkingsjaar bezorgen;<br>
 6° het actieplan voor elk volgend werkingsjaar vóór 30 september ter goedkeuring voorleggen aan de administratie;<br>
-7° elke wijziging die betrekking heeft op de erkenning, onmiddellijk aan de administratie melden.
+7° elke wijziging die betrekking heeft op de erkenning, onmiddellijk aan de administratie melden.<br>
+8° jaarlijks een herevaluatie maken van het beleidsplan, vermeld in artikel 7, 6°, en dat beleidsplan elk werkingsjaar, met uitzondering van het laatste werkjaar van de erkenningsperiode, voor 30 september ter goedkeuring voorleggen aan de administratie.
 
 ## Hoofdstuk 5. Procedure om een erkenning te schorsen of in te trekken
 
