@@ -388,7 +388,9 @@ Op beslissing van de administrateur-generaal kan het aanbod, in afwijking van de
 
 <p>Het team Jeugdhulpregie evalueert, met betrokkenheid van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken minstens om de zes maanden de uitvoering van het zorgplan en kan na een evaluatie beslissen om de subsidiëring van het aanvullende geïndividualiseerde hulpaanbod stop te zetten.</p>
 
-<p>§ 3. Per dossier kan het aanvullende geïndividualiseerde hulpaanbod gesubsidieerd worden tot een bedrag van maximaal 35.000 euro. Dit bedrag mag als volgt ingezet worden voor de minderjarige: in het eerste jaar maximaal 20.000 euro, in het tweede jaar maximaal 10.000 euro, in het derde jaar maximaal 5.000 euro. Op beslissing van de administrateur-generaal en na gemotiveerd advies van het team Jeugdhulpregie&nbsp;kan afgeweken worden van die maximumbedragen en termijnen.</p>
+<p>§ 3. Per dossier kan het aanvullende geïndividualiseerde hulpaanbod gesubsidieerd worden tot een bedrag van maximaal 40.000 euro. Dat bedrag mag als volgt ingezet worden voor de minderjarige: in het eerste jaar maximaal 23.000 euro, in het tweede jaar maximaal 11.500 euro, in het derde jaar maximaal 5.500 euro. Op beslissing van de administrateur-generaal en na gemotiveerd advies van het team Jeugdhulpregie kan afgeweken worden van die maximumbedragen en termijnen.<br>
+<br>
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.</p>
 
 <p>De kosten van het aanvullende geïndividualiseerd aanbod, vermeld in het eerste lid, komen voor subsidiëring in aanmerking als tegelijkertijd aan de volgende voorwaarden voldaan is:<br>
 1° de voorgelegde uitgaven liggen binnen de grenzen van het bedrag, bepaald met toepassing van het eerste lid;<br>
