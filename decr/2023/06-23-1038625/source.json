@@ -2,16 +2,16 @@
   "codex_id": 1038625,
   "title": "Decreet van 2023-06-23 tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038625/VolledigDocument?datum=2023-08-18",
-  "source_sha256": "3eaa12bae81191fe08e037348deb4f38e6f22e4e37c64255921cfe3973de5384",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038625/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "07ec88e3e80d9528e0d19a9f3859392a03688e3a5d5745ef697f14cb1028b99b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038625&param=informatie",
-  "as_of": "2023-08-18",
+  "as_of": "2024-01-01",
   "made": "2023-06-23",
   "gazette": "2023-08-08",
   "numac": 2023043879,
   "document_start": "2023-08-18",
   "document_end": null,
-  "in_force": "2023-08-18",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2023-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

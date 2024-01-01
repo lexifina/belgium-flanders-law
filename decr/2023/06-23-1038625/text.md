@@ -14,8 +14,7 @@ In dit decreet wordt verstaan onder:<br>
 1° administratie: de bevoegde dienst die de Vlaamse Regering aanwijst;<br>
 2° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 3° Cultuurconnect: Cultuurconnect vzw met ondernemingsnummer 0629.858.909;<br>
-4° cultuursector: de verschillende vormen, uitingen of richtingen van cultuur, namelijk kunsten, cultureel erfgoed, circuskunsten, amateurkunsten, bibliothe<br>
-ken en sociaal-cultureel werk;<br>
+4° cultuursector: de verschillende vormen, uitingen of richtingen van cultuur, namelijk kunsten, cultureel erfgoed, circuskunsten, amateurkunsten, bibliotheken en sociaal-cultureel werk;<br>
 5° culturele actoren: organisaties en personen die actief zijn in de cultuursector;<br>
 6° digitale transformatie: de adoptie van digitale technologie door een organisatie om efficiëntie, waarde of innovatie te verbeteren;<br>
 7° kansenstatuut: het statuut dat recht geeft op een kortingstarief, en dat blijkt uit het recht op een verhoogde tegemoetkoming in de zin van artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, of uit de beslissing van een lokaal bestuur;<br>
@@ -23,6 +22,10 @@ ken en sociaal-cultureel werk;<br>
 9° meemoo: meemoo, Vlaams instituut voor het archief vzw met ondernemingsnummer 0644.450.380;<br>
 10° publiq: publiq vzw met ondernemingsnummer 0475.250.609;<br>
 11° sociaal-cultureel werk: het lokale cultuurbeleid, het volwassenenwerk en het jeugdwerk;<br>
+11°/1 UiTwisselingsplatform: een digitale basisinfrastructuur die de uitwisseling van data op basis van OSLO-data-uitwisselingsstandaarden faciliteert om onder andere de volgende functionaliteiten te ontwikkelen:<br>
+a)&nbsp;&nbsp; &nbsp;de ontwikkeling van een omgeving waarin dataproducenten hun data kunnen delen in de vorm van dataproducten op een decentrale manier;<br>
+b)&nbsp;&nbsp; &nbsp;de harmonisatie en verrijking van data uit decentrale dataproducten in geaggregeerde dataproducten;<br>
+c)&nbsp;&nbsp; &nbsp;de ontsluiting van dataproducten naar data-afnemers;<br>
 12° UiTPAS: een programma van voordelenkaarten voor toegang tot het Vlaamse vrijetijdsaanbod, met aandacht voor mensen met een kansenstatuut, dat publiq ontwikkelt en beheert ter uitvoering van de taak, vermeld in artikel 4;<br>
 13° verwerkingsverantwoordelijke: een verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
@@ -43,6 +46,16 @@ Bij de uitvoering van de strategische doelstelling, vermeld in het eerste lid:<b
 2° zet publiq in op informatie- en communicatietechnologie in functie van de participatie van kansengroepen;<br>
 3° richt publiq zich zowel rechtstreeks tot het publiek als onrechtstreeks via partnerschappen met lokale besturen, andere collectieve actoren en alle organisatoren van vrijetijdsactiviteiten, met de nadruk op de sectoren cultuur, jeugd- werk en sport;<br>
 4° verbindt publiq zich ertoe de opgedane kennis over participatie met de vrijetijdssector te delen in zijn ecosysteem.
+
+### ART 4/1.
+
+De Vlaamse Regering kan aan publiq een subsidie toekennen om het UiTwisselingsplatform te beheren en verder te ontwikkelen. Bij de uitvoering van de voormelde opdracht zijn de volgende principes richtinggevend voor alle nieuwe ontwikkelingen in het digitale culturele ecosysteem:<br>
+1° &nbsp; publiq stimuleert gedeelde data;<br>
+2° publiq werkt aan een gedeelde collectieve digitale infrastructuur;<br>
+3° publiq streeft een maximale meerwaarde na;<br>
+4° &nbsp; publiq hanteert publieke waarden.<br>
+<br>
+De subsidie, vermeld in het eerste lid, wordt toegekend conform de procedure en onder de grenzen en voorwaarden, vermeld in artikel 8 tot en met 13.
 
 ### ART 5.
 
@@ -230,6 +243,36 @@ In afwijking van het eerste lid worden de persoonsgegevens die verwerkt worden i
 <br>
 §8. Publiq kan de persoonsgegevens die conform dit artikel worden verwerkt, bekendmaken in het kader van de uitvoering van zijn taken en verplichtingen, vermeld in dit decreet.
 
+### ART 15/1.
+
+§1. Publiq treedt op als verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens die plaatsvindt in het kader van de uitvoering van de opdracht, vermeld in artikel 4/1.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van dit artikel heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;platformgebruikers;<br>
+2°&nbsp;&nbsp; &nbsp;organisatoren van vrijetijdsactiviteiten, en hun medewerkers, contactpersonen en andere aangestelden;<br>
+3°&nbsp;&nbsp; &nbsp;beheerders van vrijetijdslocaties en -infrastructuur, en hun medewerkers, contactpersonen en andere aangestelden;<br>
+4°&nbsp;&nbsp; &nbsp;personen die betrokken zijn bij de uitvoering van vrijetijdsactiviteiten.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van dit artikel heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;voor de betrokkenen, vermeld in paragraaf 2, 1° tot en met 3°:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+b)&nbsp;&nbsp; &nbsp;de functiegegevens;<br>
+c)&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+d)&nbsp;&nbsp; &nbsp;de loggegevens van gebruikersactiviteiten;<br>
+2°&nbsp;&nbsp; &nbsp;voor de betrokkenen, vermeld in paragraaf 2, 4°:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+b)&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+c)&nbsp;&nbsp; &nbsp;de gegevens over artistieke output en expertise;<br>
+d)&nbsp;&nbsp; &nbsp;de geboortedatum, de geboorteplaats, het geslacht en andere biografische gegevens.<br>
+<br>
+§4. De volgende categorieën van personen hebben toegang tot de persoonsgegevens die conform dit artikel verwerkt worden:<br>
+1° de platformgebruikers als ze toegang hebben tot de dataproducten die via het UiTwisselingsplatform verwerkt en ter beschikking gesteld worden;<br>
+2° de personeelsleden, de medewerkers en andere personen die aangesteld zijn door publiq, als dat noodzakelijk is om hun taken uit te voeren in het kader van het beheer en de doorontwikkeling van het UiTwisselingsplatform.<br>
+<br>
+§5. Publiq bepaalt als verwerkingsverantwoordelijke de bewaartermijn van de persoonsgegevens die het conform dit artikel verwerkt. De persoonsgegevens die verwerkt worden op basis van dit artikel, kunnen uiterlijk bewaard worden tot tien jaar na afloop van de opdracht, vermeld in artikel 4/1.<br>
+<br>
+In afwijking van het eerste lid worden de persoonsgegevens van platformgebruikers als vermeld in paragraaf 2, 1°, uiterlijk bewaard tot tien jaar nadat hun toegang tot het UiTwisselingsplatform is afgesloten.
+
 ## Afdeling 3. Meemoo
 
 ### ART 16.
@@ -330,13 +373,29 @@ De Vlaamse Regering kan de entiteiten waaraan en de doeleinden waarvoor de perso
 
 ## Hoofdstuk 5. Wijzigingsbepalingen
 
+### ART 19
+
+In hoofdstuk II van het Participatiedecreet van 18 januari 2008, gewijzigd bij de decreten van 21 maart 2014 en 29 maart 2019, wordt afdeling I, die bestaat uit artikel 3 tot en met 5, opgeheven.
+
+### ART 20.
+
+In titel 3, hoofdstuk 4, van het decreet van 6 juli 2012 betreffende het Lokaal Cultuurbeleid, gewijzigd bij de decreten van 8 juli 2016 en 29 maart 2019, wordt afdeling 2, die bestaat uit artikel 20 en 21, opgeheven.
+
+### ART 21.
+
+In het decreet van 20 mei 2016 houdende diverse bepalingen in de beleidsvelden cultuur, jeugd en Brussel, gewijzigd bij de decreten van 29 maart 2019 en 20 december 2019, wordt hoofdstuk 2, dat bestaat uit artikel 2 tot en met 2/4, opgeheven.
+
+### ART 22.
+
+In hoofdstuk 5 van het besluit van de Vlaamse Regering van 26 oktober 2012 ter uitvoering van het decreet van 6 juli 2012 betreffende het lokaal cultuurbeleid, gewijzigd bij de besluiten van 3 februari 2017 en 26 april 2019, wordt afdeling 2, die bestaat uit artikel 19 en 20, opgeheven.
+
 ## Hoofdstuk 6. Slotbepalingen
 
 ### ART 23.
 
 In afwijking van artikel 7 wordt het eerste meerjarenplan ingediend voor een periode van twee jaar die loopt van 1 januari 2024 tot en met 31 december 2025.<br>
 <br>
-In afwijking van artikel 8 worden de eerste subsidies voor de uitvoering van de opdrachten, vermeld in artikel 4, 5 en 6, toegekend voor een periode van twee jaar die loopt van 1 januari 2024 tot en met 31 december 2025.<br>
+In afwijking van artikel 8 worden de eerste subsidies voor de uitvoering van de opdrachten, vermeld in artikel 4, 4/1 en 5 en 6, toegekend voor een periode van twee jaar die loopt van 1 januari 2024 tot en met 31 december 2025.<br>
 <br>
 In afwijking van artikel 10 worden de eerste beheersovereenkomsten gesloten voor een periode van twee jaar die loopt van 1 januari 2024 tot en met 31 december 2025.
 
