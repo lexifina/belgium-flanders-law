@@ -2,7 +2,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° de minister: de Vlaamse   minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<BR>2° bevoegde   entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van   Landbouw en Visserij;<BR>3° de wet van 1956: de wet van 20 juni 1956 betreffende   de verbetering van de rassen van voor de landbouw nuttige   huisdieren.
+In dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br>
+2° bevoegde entiteit:&nbsp;het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° de wet van 1956: de wet van 20 juni 1956 betreffende de verbetering van de rassen van voor de landbouw nuttige huisdieren.
 
 ### ART. 1/1.
 
