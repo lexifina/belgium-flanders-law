@@ -45,11 +45,9 @@ Het agentschap heeft als missie het beleid inzake overheidspersoneel en   organi
 8° het aanbieden van instrumenten en interne en externe consultancy op het vlak van organisatieontwikkeling en belanghebbendenmanagement;<br>
 9° het aanbieden van instrumenten en interne en externe consultancy op het vlak van vorming, training en ontwikkeling.<br>
 10° het verlenen van advies over de regelgeving met betrekking tot personeelsbeleid en organisatieontwikkeling;<br>
-11° het crisisbeheer en het coördineren van de organisatiebeheersing en het risicomanagement, met inbegrip van het bedrijfscontinuïteitsbeheer (BCM-Business continuity management).<br>
+11° ...<br>
 <br>
 In afwijking van het eerste lid kunnen de taken, vermeld in het eerste lid, 2° tot en met 4° en 6° tot en met 9°, worden uitgevoerd ten behoeve van de Vlaamse, lokale en externe overheden, vermeld in artikel I.3 van het Bestuursdecreet van 7 december 2018.<br>
-<br>
-In afwijking van het eerste lid kan de taak vermeld in het eerste lid, 11°, worden uitgevoerd ten behoeve van de Vlaamse en externe overheden, vermeld in artikel I.3. van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 § 2/1. Het agentschap beheert de personeelsdossiers van de kabinetten van de Vlaamse Regering en voert het statuut van de Vlaamse ministers uit. In het kader van de voormelde taak biedt het administratieve ondersteuning en interne dienstverlening aan de kabinetten van de leden van de Vlaamse Regering.<br>
 <br>
