@@ -12,8 +12,8 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de vzw Plantentuin `De Kleine Boerderij' Merksplas, Ossenweg 1b te 2330 Merksplas, erkend als een centrum voor hobbylandbouwvorming onder het nummer LL/17357.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de dag van de ondertekening ervan.
+...
