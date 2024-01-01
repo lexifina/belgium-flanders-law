@@ -42,99 +42,151 @@
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252122">Dit samenwerkingsakkoord beoogt een samenwerking tussen de Gemeenschappelijke&nbsp;</span></span></span></span><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252122">Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Vlaamse Gemeenschap met betrekking tot het inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#474445">. </span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#252122">Deze samenwerking dient er meer bepaald voor te zorgen dat de nieuwkomers die vallen onder de verplichting tot inburgering van de Gemeenschappelijke Gemeenschapscommissie zich kunnen wenden tot de inrichters van inburgeringstrajecten die erkend zijn door de Franse Gemeenschapscommissie, de Vlaamse </span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">Gemeenschap of de Gemeenschappelijke</span></span> <span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">Gemeenschapscommissie om aan deze</span></span> <span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">verplichting te voldoen.</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">Indien de Gemeenschappelijke Gemeenschapscommissie haar eigen inburgeringstrajecten wenst te organiseren, kan ze dit enkel doen na overleg met en notificatie aan de Franse Gemeenschapscommissie en de Vlaamse Gemeenschap.</span></span></span></span></p>
+<p>Dit samenwerkingsakkoord beoogt een samenwerking tussen de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Vlaamse Gemeenschap met betrekking tot het inburgerings- en begeleidingstraject voor de nieuwkomers en buitenlandse personen in Brussel-Hoofdstad. Deze samenwerking dient er meer bepaald voor te zorgen dat de nieuwkomers en buitenlandse personen die een inburgerings-of begeleidingstraject moeten of willen volgen overeenkomstig artikelen 5 en 6 van de ordonnantie zich kunnen wenden tot instellingen die erkend zijn door de Franse Gemeenschapscommissie, de Vlaamse Gemeenschap of de Gemeenschappelijke Gemeenschapscommissie.</p>
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">In dit samenwerkingsakkoord wordt verstaan onder:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">1° ordonnantie: de ordonnantie van de Gemeenschappelijke Gemeenschapscommissie van 11 mei 2017 betreffende het inburgeringstraject voor de nieuwkomers ;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">2° nieuwkomer: de meerderjarige vreemdeling, jonger dan 65 jaar, die minder dan drie jaar wettig in België verblijft en die voor het eerst met een verblijfstitel van meer dan drie maanden ingeschreven wordt in het rijksregister van een gemeente van het tweetalige gebied Brussel-Hoofdstad, zoals ook omschreven in artikel 2 van de ordonnantie.</span></span></span></span></p>
+<p>In dit samenwerkingsakkoord wordt verstaan onder:<br>
+1° ordonnantie: de ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen;<br>
+2° nieuwkomer belast met de verplichting, hierna “nieuwkomer”: de meerderjarige vreemdeling, jonger dan 65 jaar, die minder dan drie jaar wettig in België verblijft en die voor het eerst met een verblijfstitel van meer dan drie maanden ingeschreven wordt in het vreemdelingenregister van een gemeente van het tweetalige gebied Brussel-Hoofdstad en die geen vrijstelling geniet bedoeld in artikel 5, § 2, van de ordonnantie;<br>
+3° buitenlandse persoon: de buitenlandse meerderjarige persoon die wettig in België verblijft, ingeschreven is in het vreemdelingen- of bevolkingsregister van een gemeente van het tweetalige gebied Brussel-Hoofdstad, beschikt over een verblijfstitel van meer dan drie maanden en die niet gehouden is om het inburgerings-en begeleidingstraject te volgen in toepassing van artikel 5 van de ordonnantie;<br>
+4° begunstigde: de begunstigden van het inburgerings- en begeleidingstraject zijn de nieuwkomers en de buitenlandse personen die eerder nog geen gelijkaardig traject hebben gevolgd;<br>
+5° trajectinrichter: een inrichter erkend door een van de partijen van dit akkoord om de inburgerings- en begeleidingstrajecten te organiseren voor de begunstigden en die is gevestigd in het tweetalige gebied van Brussel-Hoofdstad;<br>
+6° taaloperator: de taaloperatoren erkend door de Franse Gemeenschapscommissie of de Vlaamse Gemeenschap.<br>
+&nbsp;</p>
 
 ## Hoofdstuk 2. Het inburgeringstraject
 
 ### ART 3.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">Om te voldoen aan de verplichting tot het volgen van een inburgeringstraject zoals opgelegd door artikel 4 van de ordonnantie, moet de nieuwkomer zich wenden tot de inrichters van een inburgeringstraject die erkend zijn door de Vlaamse Gemeenschap, door de Franse Gemeenschapscommissie of door de Gemeenschappelijke Gemeenschapscommissie, en gevestigd zijn in het tweetalige gebied Brussel-Hoofdstad, hierna genoemd "de inrichters".</span></span></span></span></p>
+<p>Om te voldoen aan de verplichting tot het volgen van een inburgerings- en begeleidingstraject zoals opgelegd door artikel 5 van de ordonnantie, moet de nieuwkomer zich wenden tot de trajectinrichters.</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252123">Zonder afbreuk te doen aan de bepalingen van dit samenwerkingsakkoord, biedt de inrichter de nieuwkomer een inburgeringstraject aan dat in overeenstemming is met de bestaande regelgeving van de Vlaamse Gemeenschap, de </span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">Franse Gemeenschapscommissie en/of de Gemeenschappelijke Gemeenschapscommissie.</span></span></span></span></p>
+<p>Zonder afbreuk te doen aan de bepalingen van dit samenwerkingsakkoord, biedt de inrichter de nieuwkomer een inburgeringstraject aan dat in overeenstemming is met de bestaande regelgeving van de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en/of de Gemeenschappelijke Gemeenschapscommissie.</p>
+
+### ART 3/1.
+
+§ 1. Het inburgerings- en begeleidingstraject is gratis voor de begunstigden.<br>
+<br>
+§ 2. Het inburgerings- en begeleidingstraject is geënt op de volgende principes:<br>
+1° gelijkheid van eenieder;<br>
+2° respect voor ieders eigenheid, vaardigheden en ambities;<br>
+3° antidiscriminatie, de bestrijding van racisme en seksisme;<br>
+4° actief burgerschap;<br>
+5° empowerment;<br>
+6° kennisverwerving van het Frans of het Nederlands.<br>
+<br>
+§ 3. Het doel van het inburgerings- en begeleidingstraject is de begunstigden te begeleiden door middel van een aangepast en geïndividualiseerd begeleidings- en opleidingsprogramma.<br>
+<br>
+§ 4. Het inburgerings- en begeleidingstraject omvat ten minste de volgende elementen:<br>
+1° een onthaaltraject, waarbij een sociale balans en een taalbalans worden opgesteld en waarbij de begunstigde wordt geïnformeerd over de rechten en plichten die ter zake gelden voor alle inwoners van het tweetalige gebied Brussel-Hoofdstad, alsook over de mechanismen en actoren die hem kunnen begeleiden in zijn procedures ter zake. Aan de hand van de sociale balans kunnen de verworvenheden en noden van de begunstigde worden vastgesteld, onder andere op het gebied van huisvesting, inkomen, gezondheidszorg, socioprofessionele inschakeling, kinderopvang en onderwijs. Aan de hand van de taalbalans kan er worden gepeild naar de noden van de begunstigde op het gebied van mondelinge en schriftelijke vaardigheden in het Frans of in het Nederlands;<br>
+2° een module van lessen Frans of Nederlands als vreemde taal, afhankelijk van de taalbehoefte van de begunstigde;<br>
+3° een opleiding over maatschappelijke oriëntatie waarin basisinformatie wordt verstrekt over de werking van de overheidsinstellingen, de democratische kernwaarden en de sociale verhoudingen binnen onze Belgische samenleving;<br>
+4° gedurende het hele traject garandeert de trajectinrichter geïndividualiseerde begeleiding, met onder andere de doorverwijzing van personen naar diensten en operatoren die aan de in de sociale balans vastgestelde noden kunnen voldoen.
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">Er worden taallessen aangeboden tot het niveau A2 van het Europees Referentiekader voor Moderne Vreemde Talen.</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">Voor nieuwkomers die analfabeet of anders gealfabetiseerd zijn, worden er taallessen aangeboden tot het niveau </span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">A1 </span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">van het Europees Referentiekader voor Moderne Vreemde Talen voor de mondelinge vaardigheden.</span></span></span></span></p>
+<p>Er worden taalcursussen aangeboden tot het niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Talen.<br>
+<br>
+De taalopleiding wordt aangeboden aan begunstigden die geen vaardigheden op niveau A2 van het ERK hebben om hen de mogelijkheid te bieden minstens dat niveau te bereiken, afhankelijk van het resultaat van de taalbalans.<br>
+<br>
+Begunstigden die niet beschikken over een basiskennis die overeenstemt met het getuigschrift basisonderwijs in geen enkele taal, zullen via de aangeboden opleiding ten minste niveau A2 van het ERK kunnen bereiken voor mondelinge vaardigheden.<br>
+<br>
+<br>
+De begunstigden die zich wensen in te schrijven in het kader van een traject in het Frans worden doorverwezen door de inrichters die zijn erkend door de Gemeenschappelijke Gemeenschapscommissie naar de taaloperatoren die zijn erkend door de Franse Gemeenschapscommissie en de begunstigden die zich wensen in te schrijven in het kader van een traject in het Nederlands worden voor de taalcursussen Nederlands doorverwezen naar de taaloperatoren die zijn erkend door de Vlaamse Gemeenschap.<br>
+<br>
+De taalbalans wordt opgemaakt door de taaloperatoren die zijn erkend door de Vlaamse Gemeenschap voor de Nederlandse taal en door de trajectinrichters die zijn erkend door de Gemeenschappelijke Gemeenschapscommissie voor het Frans.</p>
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">Van zodra de nieuwkomer zich aanmeldt bij de inrichter, reikt de inrichter een attest uit aan de nieuwkomer dat de aanmelding aantoont.</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">De inrichter sluit met de nieuwkomer een contract af.</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">De nieuwkomer kan een gehele of gedeeltelijke vrijstelling bekomen voor de taallessen, de lessen burgerschap of beide op basis van reeds verworven kennis, vaard</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#4a4848">i</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">gheden en/of competenties. Dit kan in het contract vermeld worden.</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262223">Indien de nieuwkomer aangepaste taallessen volgt omdat hij analfabeet of anders gealfabetiseerd is, kan dit vermeld worden in het contract</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#4a4848">.</span></span></span></span></p>
+<p>Zodra de begunstigde zich bij de trajectinrichter aanmeldt, levert die hem een attest af dat zijn inschrijving bevestigt.<br>
+<br>
+De trajectinrichter sluit een overeenkomst met de begunstigde.<br>
+<br>
+De begunstigde kan geheel of gedeeltelijk worden vrijgesteld van de taalcursus, van de lessen maatschappelijke oriëntatie of de beide indien hij al over voldoende kennis beschikt. Dit wordt vermeld in de overeenkomst.<br>
+<br>
+Als de begunstigde aangepaste taalcursussen volgt omdat hij niet beschikt over een basiskennis die overeenstemt met het getuigschrift basisonderwijs in geen enkele taal, wordt dit ook vermeld in de overeenkomst.</p>
 
 ### ART 6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">Van zodra de nieuwkomer op regelmatige wijze het inburgeringstraject heeft afgerond, reikt de inrichter aan de nieuwkomer een attest uit dat de regelmatige afronding aantoont.</span></span></span></span></p>
+<p>Van zodra de begunstigde op regelmatige wijze het inburgerings- en begeleidingstraject heeft afgerond, reikt de trajectinrichter hem een attest uit dat de regelmatige afronding aantoont.</p>
 
 ### ART 7.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">Met het oog op een opschorting van de verplichting tot inburgering voor de nieuwkomer, reikt de inrichter ook volgende attesten uit aan de nieuwkomer:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">1 ° indien de nieuwkomer een inburgeringstraject aan het volgen is dat niet kan afgerond worden binnen de 18 maanden na de aanmelding: een attest waarin de duur van het inburgeringstraject vermeld staat;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">2° indien de nieuwkomer op een wachtlijst staat bij gebrek aan beschikbare plaatsen: een attest dat bevestigt dat de nieuwkomer op een wachtlijst staat.</span></span></span></span></p>
+<p>Met het oog op een opschorting van de verplichting tot inburgering voor de nieuwkomer, reikt de trajectinrichter ook volgende attesten uit aan de nieuwkomer:<br>
+1 ° indien de nieuwkomer een inburgerings- en begeleidingstraject aan het volgen is dat niet kan afgerond worden binnen de 18 maanden na de aanmelding: een attest waarin de duur van het inburgerings- en begeleidingstraject vermeld staat;<br>
+2° indien de nieuwkomer op een wachtlijst staat bij gebrek aan beschikbare plaatsen: een attest dat bevestigt dat de nieuwkomer op een wachtlijst staat.</p>
 
 ### ART 8.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">De contracterende partijen verbinden zich ertoe om alle informatie uit te wisselen die nodig is om de praktische uitvoering van dit samenwerkingsakkoord mogelijk te maken</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#4e4c4d">.</span></span></span></span></p>
+<p>De contracterende partijen verbinden zich ertoe om alle informatie uit te wisselen die nodig is om de praktische uitvoering van dit samenwerkingsakkoord mogelijk te maken.</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">Er wordt een stuurgroep opgericht, samengesteld uit vertegenwoordigers van de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie, teneinde dit samenwerkingsakkoord te evalueren. Deze stuurgroep komt minstens één maal per jaar samen, en telkens wanneer blijkt dat het aantal aangeboden plaatsen bij één van beide Gemeenschappen niet voldoende is.</span></span></span></span></p>
+<p>Er wordt een stuurgroep opgericht, samengesteld uit vertegenwoordigers van de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie, teneinde dit samenwerkingsakkoord te evalueren. Deze stuurgroep komt minstens tweemaal per jaar samen, en op verzoek van een contracterende partij.</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">Om de vier jaar gebeurt er een evaluatie van de gehele regeling met betrekking tot de verplichting tot inburgering door een extern bureau.</span></span></span></span></p>
+<p>Om de vier jaar gebeurt er een evaluatie van de regeling. De stuurgroep bepaalt de werkwijze van de evaluatie.</p>
 
 ### ART 8/1.
 
-<p>§ 1. De Gemeenschappelijke Gemeenschapscommissie stelt een uniform computergestuurd systeem voor de opvolging van de dossiers van nieuwkomers ter beschikking van de gemeenten van het tweetalige gebied Brussel-Hoofdstad, de erkende inrichters van het inburgeringstraject en de nieuwkomers.<br>
+<p>§ 1. De Gemeenschappelijke Gemeenschapscommissie stelt een uniform computergestuurd systeem voor de opvolging van de dossiers van begunstigden ter beschikking van de gemeenten van het tweetalige gebied Brussel-Hoofdstad, de trajectinrichters, de begunstigden en de taaloperatoren.<br>
 <br>
-Dat systeem moet toelaten:<br>
-1° Voor de gemeenten : te detecteren welke nieuwkomers onder de verplichting tot inburgering vallen alsook te controleren of die verplichting wordt nagekomen;<br>
-2° Voor de inrichters van het inburgeringstraject: na te gaan of een nieuwkomer onder de verplichte inburgering valt, alsook het dossier van de verplichte nieuwkomers die bij hen zijn ingeschreven proactief te kunnen opvolgen;<br>
-3° Voor de nieuwkomers: hun dossier te kunnen opvolgen en daarin de nodige attesten te kunnen inbrengen;<br>
-4° Voor de Gemeenschappelijke Gemeenschapscommissie: de toepassing van de regelgeving over de verplichte inburgering te kunnen nagaan en de opvolging te kunnen doen van een dossier waarin een administratieve sanctie moet opgelegd worden.<br>
+Dat systeem moet het mogelijk maken:<br>
+1° voor de gemeenten:<br>
+a) vast te stellen welke nieuwkomers onder de verplichting tot inburgering vallen;<br>
+b) verrichtingen uit te voeren inzake het beheren, opvolgen en bijwerken van het dossier van de nieuwkomer, die nodig zijn voor het verloop van het inburgerings- en begeleidingstraject;<br>
+c) te controleren of die verplichting wordt nagekomen;<br>
+2° voor de trajectinrichters:<br>
+a) na te gaan of een begunstigde al dan niet valt onder de verplichting om het inburgerings- en begeleidingstraject te volgen;<br>
+b) verrichtingen uit te voeren inzake het beheren, opvolgen en bijwerken van het dossier die nodig zijn voor het verloop van het inburgerings- en begeleidingstraject van de begunstigden die bij hen zijn ingeschreven;<br>
+c) een aanvraag in te dienen voor de overdracht naar een andere trajectinrichter;<br>
+d) attesten met betrekking tot het inburgerings- en begeleidingstraject op te stellen en te bezorgen;<br>
+3° voor de begunstigden:<br>
+a) hun dossier te kunnen opvolgen;<br>
+b) aanvragen te doen en de vereiste documenten te kunnen toevoegen voor de opvolging van het dossier;<br>
+4° voor de Gemeenschappelijke Gemeenschapscommissie:<br>
+a) de toepassing van de regelgeving met betrekking tot het inburgerings- en begeleidingstraject na te gaan en te beoordelen;<br>
+b) attesten met betrekking tot het inburgerings- en begeleidingstraject op te stellen en te bezorgen;<br>
+c) de opvolging te doen van een dossier waarin een administratieve sanctie moet worden opgelegd;<br>
+5° voor de taaloperatoren: de taalcursussen te kunnen opvolgen en de resultaten van de taalcursussen te bezorgen.<br>
 <br>
 De gegevens mogen enkel worden verwerkt voor de doeleinden die hierboven zijn opgesomd.<br>
 <br>
-§ 2. De categorieën van verwerkte gegevens in het uniform computergestuurd systeem voor de opvolging van de dossiers van nieuwkomers zijn de volgende:<br>
+§ 2. De categorieën van verwerkte gegevens in het uniform computergestuurd systeem voor de opvolging van de dossiers zijn de volgende:<br>
 1° het rijksregisternummer, de naam en voornamen, de geboortedatum, het geslacht, de hoofdverblijfplaats, de nationaliteit, de verblijfstoestand, de familiale gegevens (de burgerlijke staat, de verklaring van wettelijke samenwoning en de afstammelingen in de dalende lijn) en de eventuele datum van overlijden;<br>
-2° gegevens over het verloop van het inburgeringstraject (aanmelding, beëindiging, vrijstellingen, opschortingen).<br>
+2° de gegevens over het verloop van het inburgerings- en begeleidingstraject, waaronder de gegevens die zijn verzameld tijdens de sociale balans en die betrekking hebben op de gesproken taal, eventueel gevolgde studies en/of opleidingen, huisvesting, inkomen, sociale dekking, behoeften op het gebied van beroepsinschakeling, kinderopvang en onderwijs;<br>
+3° de contactgegevens: postadres, e-mailadres en telefoonnummer(s).<br>
 <br>
 De gegevens onder 1° worden opgehaald uit het Rijksregister.<br>
 <br>
-§ 3. De Gemeenschappelijke Gemeenschapscommissie is de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in § 2.<br>
+§ 3. De Gemeenschappelijke Gemeenschapscommissie is de verwerkingsverantwoordelijke voor de persoonsgegevens bedoeld in § 2.<br>
 <br>
-§ 4. De gegevens vermeld in § 2 worden in het uniform computergestuurd systeem voor de opvolging van dossiers van nieuwkomers als volgt bewaard:<br>
--  voor de nieuwkomers die het inburgeringstraject beëindigd hebben, worden het rijksregisternummer, de naam en voornamen, en de datum van beëindiging van het inburgeringstraject gedurende 30 jaar na afsluiting van het dossier bewaard, daarna worden ze verwijderd. De overige gegevens worden na beëindiging van het inburgeringstraject verwijderd;<br>
--  voor de nieuwkomers die het inburgeringstraject niet beëindigd hebben, worden alle gegevens gedurende 30 jaar na afsluiting van het dossier bewaard, daarna worden ze verwijderd.<br>
+§ 4. De gegevens vermeld in § 2 worden in het uniform computergestuurd systeem voor de opvolging van dossiers van begunstigden als volgt bewaard:<br>
+- voor de nieuwkomers die het inburgerings- en begeleidingstraject beëindigd hebben, worden enkel het rijksregisternummer, de naam en voornamen, de gemeente waarin de nieuwkomer was ingeschreven, de trajectinrichter waarbij de nieuwkomer was ingeschreven, de datum van de afsluiting van het dossier en de reden van de afsluiting gedurende 30 jaar na afsluiting van het dossier bewaard, daarna worden ze verwijderd. De overige gegevens worden een jaar na afsluiting van het dossier verwijderd.<br>
+- voor de nieuwkomers die het inburgerings- en begeleidingstraject niet hebben beëindigd, worden alle gegevens, met uitzondering van de gegevens die zijn verzameld tijdens de sociale balans, gedurende 30 jaar na afsluiting van het dossier bewaard, daarna worden ze verwijderd.<br>
+De gegevens die zijn verzameld tijdens de sociale balans worden gedurende 5 jaar na afsluiting van het dossier bewaard en worden daarna verwijderd.<br>
+- voor de buitenlandse personen worden enkel het rijksregisternummer, de naam en voornamen en de informatie met betrekking tot het met succes volgen van het traject gedurende 30 jaar na afsluiting van het dossier bewaard, daarna worden ze verwijderd. De overige gegevens worden een jaar na afsluiting van het dossier verwijderd.<br>
 <br>
-§ 5. De gegevens, vermeld in § 2, worden gedeeld met de gemeente waar de nieuwkomer is ingeschreven en de inrichter van het inburgeringstraject waar de nieuwkomer is ingeschreven.<br>
+§ 5. De gegevens bedoeld in paragraaf 2 worden gedeeld met de gemeente waarin de nieuwkomer is ingeschreven, met de trajectinrichter waarbij de begunstigde is ingeschreven, en met de begunstigde, wat betreft zijn eigen dossier, overeenkomstig de doeleinden die in paragraaf 1 zijn opgesomd.<br>
 <br>
-Andere gemeentes en inrichters van een inburgeringstraject hebben enkel zicht op het rijksregisternummer, de naam en voornamen, de gemeente en de inrichter van het inburgeringstraject waar de nieuwkomer is ingeschreven, en de status van het dossier, teneinde de aan hen opgelegde verplichtingen in het kader van de verplichte inburgering te kunnen nakomen.<br>
+De andere gemeenten hebben enkel toegang tot het rijksregisternummer, de naam en voornamen, de gemeente en de identiteit van de inrichter van het traject waarbij de nieuwkomer is ingeschreven en de status van het dossier om de aan hen opgelegde verplichtingen in het kader van het inburgerings- en begeleidingstraject te kunnen nakomen.<br>
 <br>
-§ 6. Binnen de grenzen van de door dit samenwerkingsakkoord ingestelde gegevensuitwisselingen, kunnen het Verenigd College, het college van de Franse Gemeenschapscommissie en de Vlaamse Regering de nadere voorwaarden voor het ter beschikking stellen, het aanpassen en het gebruiken van het computergestuurd systeem voor de opvolging van dossiers van nieuwkomers en de elektronische gegevensuitwisseling bepalen.</p>
+De andere trajectinrichters hebben enkel toegang tot het rijksregisternummer, de naam en voornamen, de gemeente en de identiteit van de inrichter van het inburgerings- en begeleidingstraject waarbij de begunstigde is ingeschreven en de status van het dossier om na te gaan of de begunstigde in aanmerking komt voor het inburgerings- en begeleidingstraject.<br>
+<br>
+§ 6. Binnen de grenzen van de in dit samenwerkingsakkoord vastgelegde gegevensuitwisselingen kunnen het Verenigd College, het college van de Franse Gemeenschapscommissie en de Vlaamse Regering de nadere voorwaarden voor het ter beschikking stellen, het aanpassen en het gebruiken van het computergestuurd systeem voor de opvolging van dossiers van begunstigden en de elektronische gegevensuitwisseling bepalen.</p>
 
 ## Hoofdstuk 3. Aanbod inburgeringstrajecten
 
 ### ART 9.
 
-<span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#252223">De Franse Gemeenschapscommissie financiert minimum 4000 inburgeringstrajecten per jaar bestemd voor nieuwkomers zoals </span></span></span><span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">bepaald door de ordonnantie. De Vlaamse</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">Gemeenschap financiert minstens 4000</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">inburgeringstrajecten per jaar bestemd voor</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">nieuwkomers zoals bepaald door de</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">ordonnantie. Voor alle bijkomende</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">inburgeringstrajecten bestemd voor de</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">nieuwkomers zoals bepaald door de ordonnantie, zullen de contracterende</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">partijen, elk binnen hun bevoegdheid, de</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">noodzakelijke maatregelen nemen om de</span></span></span> <span style="font-size:11.0pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">taken die hen zijn toevertrouwd uit te voeren.</span></span></span>
+Met voorbehoud van de organisatie en de financiering van de taalcursussen bedoeld in artikel 4 financiert de Gemeenschappelijke Gemeenschapscommissie jaarlijks minstens 6000 inburgerings- en begeleidingstrajecten voor begunstigden zoals vastgelegd in de ordonnantie. De Vlaamse Gemeenschap financiert de modules zoals bepaald in artikel 3/1, paragraaf 4, in het kader van minstens 4000 inburgerings- en begeleidingstrajecten voor begunstigden zoals vastgelegd in de ordonnantie. Voor alle bijkomende inburgeringstrajecten bestemd voor begunstigden zoals vastgelegd in de ordonnantie zullen de contracterende partijen, elk binnen hun bevoegdheid, de noodzakelijke maatregelen nemen om de taken die hen zijn toevertrouwd uit te voeren.<br>
+<br>
+De Vlaamse Gemeenschap en de Franse Gemeenschapscommissie organiseren en financieren, elk voor wat hen betreft, een voldoende aantal taalcursussen om te voldoen aan de behoeften van de begunstigden van inburgerings- en begeleidingstrajecten.<br>
+<br>
+Elke contracterende partij verbindt zich ertoe dat elke nieuwkomer die in het kader van zijn inburgerings- en begeleidingstraject wordt ingeschreven dat traject binnen de vastgestelde termijn zal kunnen voltooien.
 
 ## Hoofdstuk 4. Informatie verstrekt door de gemeenten
 
 ### ART 10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">Teneinde de nieuwkomer te informeren over zijn verplichting tot het volgen van een inburgeringstraject, over de sancties bij niet-naleving van die verplichting, en over de verschillende erkende organisatoren van het inburgeringstraject en hun verschillende respectieve vormingsaanbod, overeenkomstig artikel 6 van de ordonnantie, geeft de gemeente aan elke n</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#4f4c4d">i</span></span><span style="font-family:FlandersArtSans-Regular"><span style="color:#262224">euwkomer een informatiebrochure waarvan de inhoud door de stuurgroep met unanimiteit zal worden bepaald.</span></span></span></span></p>
+<p>Teneinde de nieuwkomer te informeren over zijn verplichting om een inburgerings- en begeleidingstraject te volgen, de daarmee samenhangende verplichtingen en sancties en de verschillende trajectinrichters en hun respectievelijk opleidingsaanbod overeenkomstig artikel 8 van de ordonnantie, geeft de gemeente aan elke nieuwkomer een informatiebrochure waarvan de inhoud door de stuurgroep met unanimiteit zal worden bepaald.</p>
 
 ## Hoofdstuk 5. Slotbepalingen
 
