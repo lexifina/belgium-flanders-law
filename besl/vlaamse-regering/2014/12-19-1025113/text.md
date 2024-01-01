@@ -314,7 +314,11 @@ De   beslissing, vermeld in artikel 47, ressorteert gevolgen op de eerste dag va
 
 ### ART. 50.
 
-<p>...</p>
+De toekenning van het contingent aan inschakelingstrajecten wordt vanaf 2024 jaarlijks in het derde kwartaal door het departement verminderd.<br>
+<br>
+De vermindering wordt automatisch beslist voor iedere lokale diensteneconomieonderneming waarvan de invulling van het toegekende contingent op het voorafgaande kalenderjaarbasis minder dan negentig procent bedraagt van het toegekende contingent op jaarbasis. Het contingent wordt, rekening houdend met een minimale schaalgrootte van vijf voltijdsequivalente doelgroepwerknemers, verminderd met het verschil in percentage tussen de effectieve invullingsgraad op het voorafgaande kalenderjaarbasis en tot de invullingsgraad van negentig procent van het toegekende contingent.<br>
+<br>
+De beslissing, vermeld in het tweede lid, heeft ingang op de eerste dag van het vierde kwartaal.
 
 ### ART 50/1.
 
