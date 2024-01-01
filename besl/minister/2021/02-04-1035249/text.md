@@ -39,7 +39,25 @@ De gesubsidieerde uren dagopvang, vermeld in het achtste lid, worden berekend do
 <br>
 De gelijkgestelde gesubsidieerde uren, vermeld in het achtste lid, worden verdeeld over de regionale steden waarin de dienst actief is, in verhouding tot de gesubsidieerde gepresteerde uren. De gesubsidieerde gepresteerde uren gezinszorg bevatten de gesubsidieerde uren dagopvang, vermeld in het achtste lid.<br>
 <br>
-Het verschil tussen het urencontingent gezinszorg op het niveau van een regionale stad, dat toegewezen is voor het kalenderjaar, en het urencontingent gezinszorg op het niveau van dezelfde regionale stad, dat toegewezen is voor het voorgaande kalenderjaar, wordt toegevoegd aan de extra te verdelen uren gezinszorg in diezelfde regionale stad.
+Het verschil tussen het urencontingent gezinszorg op het niveau van een regionale stad, dat toegewezen is voor het kalenderjaar, en het urencontingent gezinszorg op het niveau van dezelfde regionale stad, dat toegewezen is voor het voorgaande kalenderjaar, wordt toegevoegd aan de extra te verdelen uren gezinszorg in diezelfde regionale stad.<br>
+<br>
+Het tweede lid is niet van toepassing op de urencontingenten gezinszorg die aan de diensten zijn toegewezen voor het tweetalige gebied Brussel-Hoofdstad.
+
+### ART 2/1.
+
+Voor de werkingsjaren 2024, 2025 en 2026 kan een dienst een gemotiveerde aanvraag tot afwijking van artikel 2, tweede lid, indienen.<br>
+<br>
+De gemotiveerde aanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
+1° een beknopte omschrijving van de reden van de toegewezen uren gezinszorg die niet zijn gerealiseerd in het derde en tweede kalenderjaar die voorafgaan aan het werkingsjaar in kwestie;&nbsp;<br>
+2° een voorstel van uren gezinszorg op het niveau van een regionale stad die de dienst in de toekomst wil realiseren. Het voorstel kan nooit hoger zijn dan het aantal uren dat aan de dienst voor die regionale stad is toegewezen in het kalenderjaar dat voorafgaat aan het werkingsjaar waarop het voorstel betrekking heeft;<br>
+3° een inspanningsverbintenis om het voorgestelde urencontingent gezinszorg te realiseren en een puntsgewijze opsomming van de mogelijkheden die de dienst daarvoor ziet.<br>
+<br>
+De dienst bezorgt de gemotiveerde aanvraag, vermeld in het eerste lid, via het mailadres thuiszorg@vlaanderen.be aan de administratie vóór 1 februari 2024.&nbsp;<br>
+<br>
+Vanaf 2025 bezorgt de dienst de gemotiveerde aanvraag, vermeld in het eerste lid, via het mailadres thuiszorg@vlaanderen.be aan de administratie vóór 1 november van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de gemotiveerde aanvraag betrekking heeft.<br>
+<br>
+Als de minister de gemotiveerde aanvraag, vermeld in het eerste lid, heeft goedgekeurd, behoudt de dienst het urencontingent gezinszorg dat aan hem toegewezen is op het niveau van een regionale stad, in het kalenderjaar dat volgt op het kalenderjaar waarop die gemotiveerde aanvraag betrekking had.<br>
+&nbsp;
 
 ### ART 3.
 
@@ -61,11 +79,13 @@ De percentages, vermeld in het eerste lid, 1°, 2°, 3° en 4°, worden in 2021 
 <br>
 De gebruikersbijdrage gezinszorg, vermeld in het eerste lid, 2°, wordt geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de index die van toepassing is op 1 januari 2019. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat op de indexsprong volgt.<br>
 <br>
-§ 3. De dienst heeft gemiddeld 90 % van zijn urencontingent gezinszorg van het vierde, derde en tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft, gerealiseerd, zoals berekend in Vesta.<br>
+§3. De dienst heeft op het niveau van een regionale stad minstens 85% van zijn urencontingent van het derde of tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag, vermeld in paragraaf 1, voor die regionale stad betrekking heeft, gerealiseerd.<br>
 <br>
-Vanaf het werkingsjaar 2022 heeft de dienst op het niveau van een regionale stad minstens 95 % van zijn urencontingent van het derde of tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag voor die regionale stad betrekking heeft, gerealiseerd.<br>
+In het werkingsjaar 2026 wordt het percentage, vermeld in het eerste lid, vervangen door 90%.<br>
 <br>
-De realisatie van het urencontingent, vermeld in het tweede lid, wordt berekend op de wijze, vermeld in artikel 2, zevende tot en met tiende lid.
+Vanaf het werkingsjaar 2027 wordt het percentage, vermeld in het eerste lid, vervangen door 95%.<br>
+<br>
+De realisatie van het urencontingent, vermeld in het eerste lid, wordt berekend op de wijze, vermeld in artikel 2, zevende tot en met tiende lid.
 
 ### ART 4.
 
@@ -93,7 +113,7 @@ Extra uren voor een bepaalde regionale stad die niet aan de diensten in kwestie 
 
 ### ART 6.
 
-Een dienst die het percentage van 85 %, vermeld in artikel 2, vijfde lid, of in artikel 3, § 3, tweede lid, van dit besluit, niet haalt door de uren acute zorg, vermeld in artikel 6, § 3, derde lid, van bijlage 2, of door onregelmatige prestaties die korter zijn dan twee of acht uur, of door de verdeling van de uren dagopvang over de regionale steden, vermeld in artikel 2, negende lid, kan een herberekening van de realisatie van het urencontingent per regionale stad, vermeld in artikel 2, zevende lid, van dit besluit, vragen aan de administratie. De dienst bezorgt daarvoor de nodige bewijsstukken aan de administratie.<br>
+Een dienst die het percentage van 85 %, vermeld in artikel 2, vijfde lid, of in artikel 3, § 3, eerste lid, van dit besluit, niet haalt door de uren acute zorg, vermeld in artikel 6, § 3, derde lid, van bijlage 2, of door onregelmatige prestaties die korter zijn dan twee of acht uur, of door de verdeling van de uren dagopvang over de regionale steden, vermeld in artikel 2, negende lid, kan een herberekening van de realisatie van het urencontingent per regionale stad, vermeld in artikel 2, zevende lid, van dit besluit, vragen aan de administratie. De dienst bezorgt daarvoor de nodige bewijsstukken aan de administratie.<br>
 <br>
 de administratie bezorgt de dienst een gemotiveerde beslissing over de herberekening, vermeld in het eerste lid.
 
