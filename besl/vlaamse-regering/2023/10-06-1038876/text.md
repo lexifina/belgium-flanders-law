@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder:<br>
 4° adviesdienst: de adviesdienst die conform hoofdstuk 6 is geregistreerd;<br>
 5° adviseur: de zaakvoerder, bestuurder, werknemer of onderaannemer van de adviesdienst die het advies verleent;<br>
 6° algemeen vormingscentrum: het algemeen vormingscentrum dat conform hoofdstuk 6 is geregistreerd;<br>
-7° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+7° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 8° dagdeel: een aantal aansluitende uren vorming als vermeld in artikel 57, tweede lid;<br>
 9° decreet van 28 juni 2013: het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 10° dienstverlener: de betrokken adviesdienst, het vormingscentrum, het algemeen vormingscentrum, het vormingscentrum voor bijenteelt of de kennisinstelling voor waarnemings- en waarschuwingssystemen;&nbsp;<br>
@@ -67,13 +67,259 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:<br>
 
 ## Afdeling 1. Algemene bepaling
 
+### ART 3.
+
+Binnen de grenzen van de begrotingskredieten die daarvoor bestemd zijn, kan de bevoegde entiteit, volgens de bepalingen die zijn vastgesteld in dit besluit en de uitvoeringsbesluiten ervan, een subsidie verlenen aan actieve landbouwers voor vorming of advies.
+
 ## Afdeling 2. Specifieke voorwaarden voor het advies
+
+### ART 4.
+
+Een advies komt in aanmerking voor subsidiëring als het voldoet aan al de volgende voorwaarden:<br>
+1° het advies wordt verleend door een adviesdienst;&nbsp;<br>
+2° het advies draagt bij tot een of meer van de doelstellingen en thema’s, vermeld in artikel 6, lid 1 en lid 2, en artikel 15, lid 4, van verordening (EU) 2021/2115;<br>
+3° het advies vertrekt vanuit een concrete opportuniteit of probleemstelling die gelinkt is aan een of meer specifieke doelstellingen. Op basis van een analyse of onderzoek van het probleem worden er suggesties en aanbevelingen gedaan die de actieve landbouwer moeten helpen om de juiste beslissingen te nemen voor zijn bedrijf. Het advies bevat een stappenplan en concrete acties die de actieve landbouwer kan volgen om het advies te implementeren;<br>
+4° het advies is voor iedereen toegankelijk tegen een uniforme en marktconforme prijs voor dezelfde prestaties. De prijs maakt geen onderscheid tussen leden en niet-leden van de adviesdienst of een organisatie die eraan is verbonden, of tussen gesubsidieerde en niet-gesubsidieerde actieve landbouwers;<br>
+5° het advies is verantwoord in het kader van de huidige en toekomstige landbouwactiviteiten van de actieve landbouwer;<br>
+6° de adviseur die het advies verleent, is een derde ten aanzien van de actieve landbouwer. De adviseur wordt niet beschouwd als een derde in de volgende twee gevallen:&nbsp;<br>
+&nbsp; a) de zaakvoerders of bestuurders en de adviseur zijn ingeschreven op hetzelfde adres;&nbsp;<br>
+&nbsp; b) de adviseur is een werknemer, zaakvoerder of bestuurder van de actieve landbouwer.<br>
+<br>
+De minister kan bepalen welke adviezen niet in aanmerking komen voor subsidiëring.
 
 ## Afdeling 3. Specifieke voorwaarden voor vorming via een kennisportefeuille
 
+### ART 5.
+
+Een vorming via een kennisportefeuille komt in aanmerking voor subsidiëring als ze voldoet aan al de volgende voorwaarden:<br>
+1° de vorming wordt georganiseerd door een vormingscentrum;<br>
+2° het thema van de vorming draagt bij tot een of meer van de doelstellingen, vermeld in artikel 6, lid 1 en lid 2, van verordening (EU) 2021/2115;<br>
+3° de vorming vindt plaats in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, met uitzondering van een vorming die op afstand wordt gegeven;<br>
+4° de vorming is voor iedereen toegankelijk tegen een uniforme en marktconforme prijs voor dezelfde prestaties. De inschrijvingsprijs maakt geen onderscheid tussen leden en niet-leden van een vormingscentrum of een organisatie die eraan verbonden is, of tussen gesubsidieerde en niet-gesubsidieerde deelnemers;&nbsp;<br>
+5° de vorming is verantwoord in het kader van de huidige en toekomstige landbouwactiviteiten van de actieve landbouwer;<br>
+6° de lesgever en de deelnemers zijn niet uitsluitend werknemers van dezelfde onderneming.<br>
+<br>
+De minister kan bepalen welke vormingen niet in aanmerking komen voor subsidiëring via een kennisportefeuille.
+
+### ART 6.
+
+Een vorming met als inhoud een basisopleiding over de fytolicentie P1, P2 of P3 komt alleen in aanmerking voor subsidiëring als ze voldoet aan de volgende voorwaarden:<br>
+1° de vorming heeft betrekking op activiteiten als vermeld in artikel 3, §1, eerste lid, 1°, 2° of 8°, van het decreet van 28 juni 2013;<br>
+2° de vorming voldoet aan de voorwaarden, vermeld in artikel 33 van het koninklijk besluit van 19 maart 2013;<br>
+3° in geval van fytolicentie P2: de vorming wordt georganiseerd voor een van de volgende thema’s:<br>
+&nbsp; a) landbouw - gangbare productie;<br>
+&nbsp; b) landbouw - biologische productie;<br>
+&nbsp; c) groenvoorziening;<br>
+4° de vorming omvat de volgende inhoud en het volgende aantal lesuren:<br>
+&nbsp; a) in geval van fytolicentie P1:&nbsp;<br>
+&nbsp; &nbsp; 1) alle relevante wetgeving: één lesuur;<br>
+&nbsp; &nbsp; 2) gewasbeschermingsmiddelen: één lesuur;<br>
+&nbsp; &nbsp; 3) correct gebruik van gewasbeschermingsmiddelen: vijf lesuren;<br>
+&nbsp; &nbsp; 4) risico's van gewasbeschermingsmiddelen: vijf lesuren;<br>
+&nbsp; &nbsp; 5) toegepaste gewasbescherming met voornaamste ziekten en plagen: vier lesuren;&nbsp;<br>
+&nbsp; b) in geval van fytolicentie P2:<br>
+&nbsp; &nbsp; 1) alle relevante wetgeving: tien lesuren;<br>
+&nbsp; &nbsp; 2) gewasbescherming: tien lesuren;<br>
+&nbsp; &nbsp; 3) gewasbeschermingsmiddelen: tien lesuren;<br>
+&nbsp; &nbsp; 4) correct gebruik van gewasbeschermingsmiddelen: tien lesuren;<br>
+&nbsp; &nbsp; 5) risico's van gewasbeschermingsmiddelen: tien lesuren;<br>
+&nbsp; &nbsp; 6) toegepaste gewasbescherming: tien lesuren;<br>
+&nbsp; c) in geval van fytolicentie P3:&nbsp;<br>
+&nbsp; &nbsp; 1) alle relevante wetgeving: tien lesuren;<br>
+&nbsp; &nbsp; 2) gewasbescherming: twintig lesuren;<br>
+&nbsp; &nbsp; 3) gewasbeschermingsmiddelen: twintig lesuren;<br>
+&nbsp; &nbsp; 4) correct gebruik van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+&nbsp; &nbsp; 5) risico's van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+&nbsp; &nbsp; 6) toegepaste gewasbescherming: veertig lesuren;<br>
+5° de vorming wordt gegeven door een lesgever die in het bezit is van een fytolicentie P3, of door een lesgever in een instelling voor basisonderwijs, secundair onderwijs, hoger onderwijs, volwassenenonderwijs of deeltijds kunstonderwijs die door de Vlaamse Gemeenschap is erkend, gefinancierd of gesubsidieerd, of in centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft.<br>
+<br>
+Een opleiding waarin de verschillende thema’s, vermeld in het eerste lid, 3°, gecombineerd worden, is niet toegestaan. Bij de aankondiging wordt duidelijk opgenomen op welk thema de vorming zich richt.<br>
+<br>
+De bevoegde entiteit kan aan een vormingscentrum een afwijking toestaan van de voorwaarde, vermeld in het eerste lid, 5°, voor onderwerpen die niet gelinkt zijn met de toepassing van gewasbeschermingsmiddelen. In het voormelde geval bezorgt het vormingscentrum een motivering aan de bevoegde entiteit en beslist de bevoegde entiteit over het toestaan van de afwijking. De voormelde onderwerpen kunnen worden gegeven door experten in het thema in kwestie.&nbsp;<br>
+<br>
+De minister kan de voorwaarden, de modaliteiten en de minimale inhoud waaraan de basisopleidingen fytolicentie P1, P2 en P3 moeten voldoen, nader bepalen.<br>
+<br>
+De minister beslist of de opleidingen gevalideerd worden als basisopleiding over de fytolicentie.<br>
+<br>
+De geslaagde deelnemers van de gevalideerde basisopleidingen over de fytolicentie worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu.
+
+### ART 7.
+
+Een vorming met als inhoud een aanvullende opleiding over de fytolicentie komt alleen in aanmerking voor subsidiëring als ze voldoet aan al de volgende voorwaarden:<br>
+1° de vorming voldoet aan de voorwaarden, vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013;<br>
+2° minimaal een dagdeel gaat over de onderwerpen, vermeld in bijlage 3 bij het koninklijk besluit van 19 maart 2013;<br>
+3° minimaal 45 minuten van de vorming wordt toegelicht door een lesgever die geen werknemer is of zaakvoerder van een onderneming die gewasbeschermingsmiddelen verkoopt.<br>
+<br>
+De minister kan beslissen dat specifieke onderwerpen in de aanvullende opleidingen moeten opgenomen worden.<br>
+<br>
+De minister kan de doelgroepen bepalen waarvoor de aanvullende opleidingen georganiseerd worden.<br>
+<br>
+De minister beslist of de opleidingen gevalideerd worden als aanvullende opleiding over de fytolicentie.&nbsp;<br>
+<br>
+De deelnemerslijsten van de gevalideerde aanvullende opleidingen over de fytolicentie worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu.
+
+### ART 8.
+
+Een actieve landbouwer komt in aanmerking voor de subsidie voor vorming via een kennisportefeuille als de vorming gevolgd wordt door:<br>
+1° een actieve landbouwer die een natuurlijke persoon is;<br>
+2° de bestuurders van de actieve landbouwer, als die een rechtspersoon is;&nbsp;<br>
+3° de personen die ingeschreven zijn op hetzelfde adres als de actieve landbouwer;<br>
+4° de personen die een basisopleiding met betrekking tot landbouw of tuinbouw gericht op het uitvoeren van een landbouwactiviteit volgen of gevolgd hebben of die een starterscursus vermeld in artikel 35, 1°, volgen of gevolgd hebben;<br>
+5° de werknemers van de actieve landbouwer.<br>
+<br>
+De personen vermeld in het eerste lid, 3° en 4°, mogen niet meer leerplichtig zijn overeenkomstig de wet van 29 juni 1983 betreffende de leerplicht.
+
+### ART 9.
+
+De minister bepaalt de voorwaarden en de modaliteiten waaraan de vormingen op afstand moeten voldoen.
+
 ## Afdeling 4. Subsidiebedrag
 
+### ART 10.
+
+Elke actieve landbouwer beschikt over een kennisportefeuille die ingezet kan worden voor de subsidie, vermeld in artikel 3.<br>
+<br>
+De minister bepaalt:<br>
+1° het maximale totale bedrag van de kennisportefeuille per actieve landbouwer en de geldigheidsduur ervan;<br>
+2° het subsidiepercentage;<br>
+3° de verdeling van het bedrag van de kennisportefeuille dat gaat naar bepaalde doelstellingen en thema’s, vermeld in artikel 6, lid 1 en lid 2, en artikel 15, lid 4, van verordening (EU) 2021/2115.<br>
+<br>
+De minister kan de volgende elementen bepalen:<br>
+1° de minimale kostprijs van het advies of de vorming die in aanmerking komt voor de subsidie, vermeld in artikel 3;<br>
+2° het minimale subsidiebedrag waarvoor een steunaanvraag als vermeld in artikel 19, via de kennisportefeuille ingediend kan worden.
+
+### ART 11.
+
+De volgende kosten voor het verlenen van een advies komen in aanmerking voor de subsidie, vermeld in artikel 3:<br>
+1° de personeelskosten van de adviesdienst voor het verlenen van het advies;<br>
+2° de werkingskosten van de adviesdienst voor het verlenen van het advies;<br>
+3° de verplaatsingskosten van de adviseur of adviseurs;<br>
+4° in geval van onderaanneming de kosten voor de externe prestaties die verricht zijn in het kader van het geven van het advies.<br>
+<br>
+De kosten die in aanmerking komen, vermeld in het eerste lid, worden berekend exclusief btw.
+
+### ART 12.
+
+Om een vorming te geven via de kennisportefeuille, komen de volgende kosten in aanmerking voor de subsidie, vermeld in artikel 3:<br>
+1° de personeelskosten van het vormingscentrum voor het organiseren van de vorming;<br>
+2° de werkingskosten van het vormingscentrum voor het organiseren van de vorming;<br>
+3° de vergoeding voor de lesgever of de lesgevers;<br>
+4° de verplaatsingskosten van de personeelsleden van het vormingscentrum en van de lesgever of de lesgevers naar en van de vorming;<br>
+5° in geval van onderaanneming de kosten voor de externe prestaties die verricht zijn in het kader van het organiseren en het geven van de vorming.<br>
+<br>
+De kosten die in aanmerking komen, vermeld in het eerste lid, worden berekend exclusief btw.
+
+### ART 13.
+
+De minister kan bepalen welke kosten niet in aanmerking komen voor de subsidie, vermeld in artikel 3.
+
 ## Afdeling 5. Procedure
+
+### ART 14.
+
+De adviesdiensten stellen vanuit hun expertise een adviesvoorstel op en dienen dat adviesvoorstel in via een aanvraag in het e-loket bij de bevoegde entiteit.<br>
+<br>
+De vormingscentra stellen vanuit hun expertise een vormingsvoorstel op en dienen dat vormingsvoorstel in via een aanvraag in het e-loket bij de bevoegde entiteit.<br>
+<br>
+De minister bepaalt welke elementen aanwezig moeten zijn in het advies- en vormingsvoorstel, vermeld in het eerste en tweede lid.
+
+### ART 15.
+
+De bevoegde entiteit kent na goedkeuring van de aanvraag, vermeld in artikel 14, een registratienummer toe aan de adviesvoorstellen en vormingsvoorstellen die conform artikel 14 zijn ingediend, en maakt ze via haar e-loket beschikbaar voor de actieve landbouwers. De bevoegde entiteit brengt de adviesdiensten en de vormingscentra op de hoogte van de voormelde beschikbaarstelling.
+
+### ART 16.
+
+De bevoegde entiteit kan op elk ogenblik een onderzoek instellen of bijkomende informatie of stukken opvragen om te controleren of de adviesvoorstellen of vormingsvoorstellen die conform artikel 14 zijn ingediend, voldoen aan de voorwaarden, vermeld in dit besluit en de uitvoeringsbesluiten ervan.<br>
+<br>
+Als blijkt dat de adviesvoorstellen of vormingsvoorstellen die conform artikel 14 zijn ingediend, niet voldoen aan de voorwaarden, vermeld in dit besluit en de uitvoeringsbesluiten ervan, komen die adviesvoorstellen of vormingsvoorstellen niet in aanmerking voor de subsidie, vermeld in artikel 3.
+
+### ART 17.
+
+De actieve landbouwer die een advies of vorming wil verkrijgen, vermeld in artikel 3, neemt contact op met een adviesdienst of een vormingscentrum.<br>
+<br>
+De adviesdienst of het vormingscentrum informeert aan de hand van het advies- of vormingsvoorstel, vermeld in artikel 14, de actieve landbouwer over de inhoud, de modaliteiten, de prijs en de timing van het advies of de vorming.<br>
+<br>
+Als de adviesdienst of het vormingscentrum beslist dat er geen advies of vorming aangeboden kan worden die voldoet aan de vragen van de actieve landbouwer, brengt die adviesdienst of dat vormingscentrum de bevoegde entiteit daarvan op de hoogte.
+
+### ART 18.
+
+Om een steunaanvraag als vermeld in artikel 19, te kunnen indienen, registreert de actieve landbouwer die nog niet geïdentificeerd is bij de bevoegde entiteit, zijn onderneming en de personen die hem kunnen vertegenwoordigen in het e-loket van de bevoegde entiteit.<br>
+<br>
+De minister bepaalt de vormvereisten en de inhoudelijke bepalingen van de steunaanvraag, vermeld in artikel 19.
+
+### ART 19.
+
+De bevoegde entiteit controleert tijdens de indiening van de steunaanvraag, vermeld in het tweede lid, of de actieve landbouwer nog voldoende budget in zijn kennisportefeuille heeft en of het minimale subsidiebedrag, vermeld in artikel 10, derde lid, 2°, gerespecteerd is.<br>
+<br>
+Als de bevoegde entiteit beslist dat de voorwaarden, vermeld in het eerste lid, zijn vervuld, kan de actieve landbouwer een steunaanvraag indienen.
+
+### ART 20.
+
+Door de steunaanvraag, vermeld in artikel 19, in te dienen in het e-loket, gaat de actieve landbouwer akkoord met het advies- of vormingsvoorstel, vermeld in artikel 17.<br>
+<br>
+De adviesdienst of het vormingscentrum kan geen steunaanvraag als vermeld in artikel 19, indienen via een volmacht van de actieve landbouwer.
+
+### ART 21.
+
+De steunaanvraag, vermeld in artikel 19, wordt ingediend voor de prestaties van start gaan voor het leveren van het advies of voor het begin van de vorming.
+
+### ART 22.
+
+Het advies wordt verleend of de vorming start uiterlijk zes maanden na de indiening van de steunaanvraag, vermeld in artikel 19.
+
+### ART 23.
+
+Een actieve landbouwer kan de steunaanvraag, vermeld in artikel 19, annuleren zolang er geen betalingsaanvraag als vermeld in artikel 27, ingediend is.
+
+### ART 24.
+
+De adviseur licht elk advies mondeling toe aan de actieve landbouwer. Afhankelijk van de noodzakelijkheid van de mondelinge toelichting, die volgt uit de specifieke vraagstelling van de actieve landbouwer, kan de voormelde toelichting tijdens een bedrijfsbezoek of via een online videovergadering gegeven worden.&nbsp;<br>
+<br>
+De minister kan bepalen aan welke voorwaarden de mondelinge toelichting moet voldoen en de praktische modaliteiten van een bedrijfsbezoek.
+
+### ART 25.
+
+Na afloop van het advies ontvangt de actieve landbouwer een schriftelijk en gepersonaliseerd adviesrapport.<br>
+<br>
+De minister bepaalt de inhoud van het adviesrapport, vermeld in het eerste lid.
+
+### ART 26.
+
+Als de prestaties, vermeld in het vormingsvoorstel, vermeld in artikel 14, niet of maar gedeeltelijk worden geleverd, of als de data of de locatie van de vorming wijzigen, annuleert of wijzigt het vormingscentrum onmiddellijk het ingediende vormingsvoorstel in het e-loket en brengt het de actieve landbouwers die al zijn ingeschreven, daarvan op de hoogte.
+
+### ART 27.
+
+Nadat het advies is verleend of na afloop van de vorming dient de actieve landbouwer een betalingsaanvraag in bij de bevoegde entiteit.<br>
+<br>
+De minister bepaalt de inhoud van de betalingsaanvraag, vermeld in het eerste lid, en de termijn waarin die betalingsaanvraag ingediend moet worden.<br>
+<br>
+Als de actieve landbouwer geen betalingsaanvraag indient binnen de termijn, vermeld in het tweede lid, annuleert de bevoegde entiteit automatisch de steunaanvraag, vermeld in artikel 19, en verliest de landbouwer het aangevraagde subsidiebedrag uit de kennisportefeuille.
+
+### ART 28.
+
+De adviesdiensten bevestigen op verzoek van de bevoegde entiteit de identiteit van de adviseurs die adviezen verleend hebben in het kader van dit besluit.
+
+### ART 29.
+
+De minister kan bepalen waaraan de facturen moeten voldoen die de adviesdienst of het vormingscentrum aan de actieve landbouwer aanbiedt.
+
+### ART 30.
+
+De adviesdiensten bewaren de facturen en het adviesrapport, vermeld in artikel 25, gedurende tien jaar na de start van de prestaties.<br>
+<br>
+De vormingscentra bewaren het bewijs van inschrijving en de aanwezigheidslijst van de vorming, vermeld in artikel 31, gedurende tien jaar na de startdatum van de vorming.
+
+### ART 31.
+
+Het vormingscentrum houdt per vorming een aanwezigheidslijst bij waarop de deelnemer zijn aanwezigheid bevestigt.<br>
+<br>
+De deelnemer van een vorming die gespreid is over meerdere kalenderdagen moet ten minste 75% van de lesuren aanwezig zijn geweest.<br>
+<br>
+De minister kan de inhoud en modaliteiten van de aanwezigheidslijst, vermeld in het eerste lid, bepalen.&nbsp;
+
+### ART 32.
+
+De vormingscentra bevestigen op verzoek van de bevoegde entiteit de identiteit van de lesgevers die vormingen gegeven hebben in het kader van dit besluit.
 
 ## Hoofdstuk 3. Verlenen van subsidies voor vorming aan algemene vormingscentra en vormingscentra voor bijenteelt via een vormingsprogramma
 
@@ -728,8 +974,8 @@ De bevoegde entiteit onderzoekt of de gezamenlijke steunaanvragen, vermeld in ar
 ### ART 84.
 
 De ontvankelijke steunaanvragen, vermeld in artikel 83 van dit besluit, worden beoordeeld door een beoordelingscommissie die de bevoegde entiteit samenstelt en die minimaal uit de volgende leden bestaat:<br>
-1° drie personeelsleden van het beleidsdomein Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° één vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie, vermeld in artikel 21, §1, van het voormelde besluit.<br>
+1° drie personeelsleden van het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° één vertegenwoordiger van het Agentschap Innoveren en Ondernemen, vermeld in artikel 29/1, §1, eerste lid, 1°, van het voormelde besluit.<br>
 <br>
 De bevoegde entiteit kan bij de samenstelling van de beoordelingscommissie een beroep doen op externe experten naargelang van de behoefte aan expertise in een bepaalde teelt, teeltgroep, ziekte of plaag.<br>
 <br>
@@ -1150,6 +1396,62 @@ De oproep, vermeld in artikel 52 en 79, wordt voor advies aan de Inspectie van F
 Als de Inspectie van Financiën gunstig advies verleent over de voormelde oproep, worden de toekenningsbesluiten, vermeld in artikel 54 en 85, niet meer voor advies aan de Inspectie van Financiën voorgelegd, tenzij de Inspectie van Financiën anders adviseert in het advies over de oproep in kwestie.
 
 ## Hoofdstuk 15. Slotbepalingen
+
+### ART 127.
+
+§1. De volgende regelingen over subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector worden opgeheven:<br>
+1° het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 december 2014;<br>
+2° het ministerieel besluit van 22 september 2005 tot erkenning van Landwijzer vzw als algemeen centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+3° het ministerieel besluit van 13 december 2005 tot erkenning van Imkerfederatie Antwerpse Noordelijke Gemeenten als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+4° het ministerieel besluit van 13 december 2005 tot erkenning van Praktijkcentrum voor Land- en Tuinbouw vzw als algemeen centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+5° het ministerieel besluit van 13 december 2005 tot erkenning van Vzw Inagro als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+6° het ministerieel besluit van 19 december 2005 tot erkenning van Nationaal Agrarisch Centrum vzw als algemeen centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+7° het ministerieel besluit van 19 december 2005 tot erkenning van Nationaal Centrum voor Beroepsvorming in de Landbouw vzw (AgroCampus) als algemeen centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector:<br>
+8° het ministerieel besluit van 19 december 2005 tot erkenning van Vlaamse Vaste Planten Vereniging vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+9° het ministerieel besluit van 22 december 2005 tot erkenning van Koninklijke Oostvlaamse Imkersvereniging vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+10° het ministerieel besluit van 22 december 2005 tot erkenning van Limburgse Imkersbond vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+11° het ministerieel besluit van 22 december 2005 tot erkenning van Permanente Agrarische Vorming Antwerpen vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+12° het ministerieel besluit van 22 december 2005 tot erkenning van PIBO-campus vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+13° het ministerieel besluit van 22 december 2005 tot erkenning van Proef- en Vormingscentrum voor de Landbouw vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+14° het ministerieel besluit van 22 december 2005 tot erkenning van Provinciale Pomologische Vereniging Oost-Vlaanderen vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+15° het ministerieel besluit van 22 december 2005 tot erkenning van Verbond van Vlaams-Brabantse Imkersverenigingen vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+16° het ministerieel besluit van 22 december 2005 tot erkenning van Vlaams-Nederlandse Imkersfederatie vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+17° het ministerieel besluit van 27 maart 2006 tot erkenning van Koninklijke Vlaamse Imkersbond als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector.<br>
+18° het ministerieel besluit van 29 oktober 2008 tot erkenning van Vzw DLV Agri Business Center als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+19° het ministerieel besluit van 3 februari 2009 tot erkenning van vzw Koninklijk Westvlaamse Imkersbond als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+20° het ministerieel besluit van 3 februari 2009 tot erkenning van Vzw Studiekring Guvelingen als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+21° het ministerieel besluit van 26 november 2017 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, het laatst gewijzigd bij het ministerieel besluit van 15 oktober 2021;<br>
+22° het ministerieel besluit van 9 mei 2017 tot erkenning van de vzw Plantentuin ‘De Kleine Boerderij’ Merksplas als centrum voor hobbylandbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+23° het ministerieel besluit van 19 juni 2017 tot erkenning van de vzw CRV Vlaanderen als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+24° het ministerieel besluit van 2 september 2019 tot erkenning van de vzw Federaal Imkersverbond als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+25° het ministerieel besluit van 10 september 2019 tot erkenning van de vzw ZwarteBij.org als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+26° het ministerieel besluit van 24 oktober 2019 tot erkenning als centrum voor hobbylandbouwvorming en tot opheffing van de erkenning als gewestelijk centrum voor landbouwvorming van de vzw Nationale Boomgaardenstichting in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+27° het ministerieel besluit van 5 december 2019 tot erkenning van de vzw Middelbare Landbouwschool als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+28° het ministerieel besluit van 10 augustus 2020 tot erkenning van Vlaams Bijeninstituut vzw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+29° het ministerieel besluit van 21 december 2021 tot erkenning van de vzw Antwerpse Provinciale Imkers Federatie als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+30° het ministerieel besluit van 21 december 2022 tot erkenning van de vzw Kempisch Vormingscentrum voor Land- en Tuinbouw als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector;<br>
+31° het ministerieel besluit van 21 december 2022 tot erkenning van de vzw Mellifera als gewestelijk centrum voor landbouwvorming in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector.<br>
+<br>
+§2. De volgende regelingen over subsidiëring van bedrijfsadvisering in de biologische landbouw worden opgeheven:<br>
+1° het besluit van de Vlaamse Regering van 8 november 2013 houdende de subsidiëring van bedrijfsadvisering in de biologische landbouw, gewijzigd bij de besluiten van de Vlaamse Regering van 19 december 2014 en 14 september 2018;<br>
+2° het ministerieel besluit van 29 mei 2001 betreffende de erkenning van de vzw Vlaams Agrarisch Centrum voor bedrijfsbegeleiding in de biologische landbouw;<br>
+3° het ministerieel besluit van 8 mei 2003 betreffende de erkenning van het Provinciaal Proefcentrum voor de Groenteteelt Oost-Vlaanderen voor bedrijfsbegeleiding in de biologische landbouw;<br>
+4° het ministerieel besluit van 13 september 2011 betreffende de erkenning van INAGRO vzw als centrum voor bedrijfsbegeleiding in de biologische landbouw;<br>
+5° het ministerieel besluit van 22 november 2013 betreffende de voorwaarden tot het subsidiëren van bedrijfsadvisering in de biologische landbouw, gewijzigd bij de ministeriële besluiten van 24 februari 2015 en 19 februari 2019;<br>
+6° het ministerieel besluit van 25 maart 2014 tot erkenning van de heer Wim Govaerts als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+7° het ministerieel besluit van 25 maart 2014 tot erkenning van de heer Ignace Deroo als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+8° het ministerieel besluit van 25 maart 2014 tot erkenning van de heer Lieven Delanote als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+9° het ministerieel besluit van 31 maart 2014 tot erkenning van de heer Daniel Vandebeeck als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+10° het ministerieel besluit van 20 mei 2015 tot erkenning van mevrouw Ilse Leenknegt als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+11° het ministerieel besluit van 15 juni 2015 tot erkenning van Proefstation voor de Groenteteelt Sint-Katelijne-Waver in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+12° het ministerieel besluit van 26 februari 2016 tot erkenning van de heer Stijn Pauwelyn als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+13° het ministerieel besluit van 14 november 2016 tot erkenning van de heer Luc De Reycke als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+14° het ministerieel besluit van 14 november 2016 tot erkenning van de heer Guy De Praetere als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+15° het ministerieel besluit van 5 december 2016 tot erkenning van het Algemeen Boerensyndicaat vzw in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+16° het ministerieel besluit van 29 januari 2020 tot erkenning van mevrouw Renske Petré als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+17° het ministerieel besluit van 15 mei 2020 betreffende de erkenning van Proefcentrum Fruitteelt vzw als centrum voor bedrijfsbegeleiding in de biologische landbouw;&nbsp;<br>
+18° het ministerieel besluit van 28 januari 2021 tot erkenning van mevrouw Stefanie De Groote als bedrijfsadviseur in het kader van de subsidiëring van bedrijfsadvisering in de biologische landbouw;&nbsp;<br>
+19° het ministerieel besluit van 31 augustus 2021 tot erkenning van Boerenbond vzw als centrum voor bedrijfsadvisering in de biologische landbouw.
 
 ### ART 128.
 
