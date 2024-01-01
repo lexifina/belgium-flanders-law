@@ -47,6 +47,12 @@ De communicatie tussen de aanvrager of aanvragers en de Vlaamse Regering gebeurt
 <br>
 De communicatie van de Vlaamse Regering met de aanvrager of aanvragers kan ook gebeuren met de beveiligde zending, vermeld in artikel 1, eerste lid, 2° of 3°.
 
+### ART 3.
+
+In geval van toepassing van artikel 415, derde lid, artikel 427, tweede lid, artikel 471, tweede lid, artikel 474, §5, artikel 476, eerste lid, artikel 482, eerste lid, artikel 502, §1, eerste lid, artikel 508, §1, vierde lid, en artikel 514, §1, van het decreet van 22 december 2017 over het lokaal bestuur wordt een adviesvraag aan de Vlaamse Regering ingediend met de beveiligde zending, vermeld in artikel 1, eerste lid, 1°, van dit besluit.<br>
+<br>
+De communicatie van de Vlaamse Regering met de indiener van de adviesvraag, vermeld in het eerste lid, gebeurt bij voorkeur met de beveiligde zending, vermeld in artikel 1, eerste lid, 1°. Die communicatie kan ook gebeuren met de beveiligde zending, vermeld in artikel 1, eerste lid, 2° of 3°.
+
 ### ART 4.
 
 Artikel 3 van dit besluit treedt in werking op 1 januari 2024.
