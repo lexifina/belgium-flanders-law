@@ -1100,6 +1100,41 @@ De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan
 § 4. De Vlaamse Regering kan verdere regels vastleggen inzake de toekenning, de uitbetaling en de controle op de aanwending van deze extra middelen. (46)<br>
 &nbsp;
 
+### ART 47/1.
+
+§1. Vanaf het begrotingsjaar 20TT, startende in 2024, wordt er jaarlijks een extra werkingsbudget van 10.000.000 euro toegekend aan de scholen voor het voltijds gewoon secundair onderwijs, de scholen voor buitengewoon secundair onderwijs, de centra voor deeltijds beroepssecundair onderwijs en de centra voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor materiaalintensieve structuuronderdelen. Dit bedrag wordt vanaf het begrotingsjaar 2025 geïndexeerd volgens artikel 243, §3, derde lid, 2°.<br>
+<br>
+Met materiaalintensieve structuuronderdelen wordt bedoeld:<br>
+1° groep 1:<br>
+a)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen van de finaliteit arbeidsmarkt, behalve binnen het studiedomein taal en cultuur en het studiedomein economie en organisatie;<br>
+b)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen van de onderwijsvorm bso, behalve de studiegebieden toerisme, handel en maatschappelijke veiligheid;<br>
+c)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen van de opleidings-, kwalificatie- en integratiefase van opleidingsvorm 3 van het buitengewoon secundair onderwijs;<br>
+2° &nbsp; groep 2:<br>
+a)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen van de dubbele finaliteit, behalve binnen het studiedomein economie en organisatie, het studiedomein maatschappij en welzijn met uitzondering van het niet-duale structuuronderdeel mode, het studiedomein taal en cultuur, de niet-duale structuuronderdelen ballet, creatie en mode en fotografie binnen het studiedomein kunst en creatie en het niet-duale structuuronderdeel toerisme binnen het studiedomein voeding en horeca;<br>
+b)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen binnen het studiegebied beeldende kunsten van de onderwijsvorm kso;<br>
+c)&nbsp;&nbsp; &nbsp;alle niet-duale structuuronderdelen van de onderwijsvorm tso, behalve de studiegebieden handel, personenzorg, toerisme en maatschappelijke veiligheid;<br>
+3° &nbsp; groep 3:<br>
+a)&nbsp;&nbsp; &nbsp;alle duale structuuronderdelen van de finaliteit arbeidsmarkt, behalve binnen het studiedomein taal en cultuur en het studiedomein economie en organisatie;<br>
+b)&nbsp;&nbsp; &nbsp;alle duale structuuronderdelen van de dubbele finaliteit, behalve binnen het studiedomein economie en organisatie, het studiedomein maatschappij en welzijn met uitzondering van het duale structuuronderdeel mode, het studiedomein taal en cultuur, de duale structuuronderdelen ballet, creatie en mode en fotografie binnen het studiedomein kunst en creatie en het duale structuuronderdeel toerisme binnen het studiedomein voeding en horeca;<br>
+c)&nbsp;&nbsp; &nbsp;alle duale structuuronderdelen binnen de onderwijsvormen bso en tso, behalve binnen het studiegebied handel, het studiegebied personenzorg tso en het studiegebied toerisme;<br>
+d)&nbsp;&nbsp; &nbsp;alle opleidingen binnen het deeltijds beroepssecundair onderwijs;<br>
+e)&nbsp;&nbsp; &nbsp;alle duale structuuronderdelen van de kwalificatie- en integratiefase van opleidingsvorm 3 van het buitengewoon secundair onderwijs.<br>
+<br>
+§2. Een basisbedrag per gewogen regelmatige leerling wordt bekomen door het extra werkingsbudget, vermeld in paragraaf 1, te delen door het aantal gewogen regelmatige leerlingen op de teldatum voor de berekening van de werkingsbudgetten voor het schooljaar 20TT-1 - 20TT, vermeld in artikel 169 tot en met 172 en artikel 357/26 van de Codex Secundair Onderwijs van 17 december 2010 en in artikel 86, §1, 2°, van het decreet van 10 juli 2008 betreffende het stelsel voor leren en werken in de Vlaamse Gemeenschap.<br>
+&nbsp;<br>
+De regelmatige leerlingen, vermeld in het eerste lid, worden als volgt gewogen: 1°&nbsp;&nbsp; &nbsp;de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 1, vermeld in paragraaf 1, tweede lid, 1°, worden gewogen aan factor 1;<br>
+2° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 2, vermeld in paragraaf 1, tweede lid, 2°, worden gewogen aan factor 0,75;<br>
+3° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 3, vermeld in paragraaf 1, tweede lid, 3°, worden gewogen aan factor 0,50.<br>
+<br>
+§3. Het extra werkingsbudget per school of centrum is het resultaat van de vermenigvuldiging van het basisbedrag per gewogen regelmatige leerling, vermeld in paragraaf 2, met het aantal gewogen regelmatige leerlingen in de school of het centrum op de reguliere teldatum voor de berekening van de werkingsbudgetten voor het schooljaar 20TT-1 - 20TT, vermeld in artikel 169 tot en met 172 en artikel 357/26 van de Codex Secundair Onderwijs van 17 december 2010, en in artikel 86, §1, 2°, van het decreet van 10 juli 2008 betreffende het stelsel voor leren en werken in de Vlaamse Gemeenschap.<br>
+<br>
+De regelmatige leerlingen, vermeld in het eerste lid, worden als volgt gewogen:<br>
+1° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 1, vermeld in paragraaf 1, tweede lid, 1°, worden gewogen aan factor 1;<br>
+2° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 2, vermeld in paragraaf 1, tweede lid, 2°, worden gewogen aan factor 0,75;<br>
+3° de regelmatige leerlingen die ingeschreven zijn in structuuronderdelen uit de groep 3, vermeld in paragraaf 1, tweede lid, 3°, worden gewogen aan factor 0,50.<br>
+<br>
+§4. Het extra werkingsbudget wordt aan de school- en centrumbesturen uitbetaald uiterlijk op 30 juni van het jaar 20TT.
+
 ### ART. 48.
 
 De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, voorzien in bijkomende financiering voor scholen met technisch of beroepsgerichte opleidingen die leiden tot de invulling van knelpuntberoepen, ten einde de kost voor leerlingen in voormelde opleidingen te verminderen. Op basis van criteria die verband houden met de kostprijzen van de opleidingen, bepaalt de Vlaamse Regering de lijst van opleidingen die voor deze bijkomende financiering in aanmerking komen en modaliteiten van deze bijkomende financiering. (47)
@@ -1111,6 +1146,54 @@ De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, voo
 § 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onderwijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft of, wat speerpunten 3 en 4 betreft, ter ondersteuning van deze scholen en centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
 <br>
 § 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onder- wijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
+## Onderafdeling 6. Extra werkingsbudget voor een offensief Nederlands voor leerlingen die het Nederlands onvoldoende beheersen
+
+### ART 48/2.
+
+Vanaf het begrotingsjaar 20TT, startende in 2024, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs voor het schooljaar 20TT-1– 20TT, startende in 2023-2024, die op de eerste schooldag van februari van 20TT-4 of 20TT-3 of 20TT-2 meer dan 50 procent regelmatige leerlingen telden die beantwoorden aan het leerlingenkenmerk, vermeld in artikel 242, §1, eerste lid, 1°, c), van deze codex.<br>
+<br>
+Voor de maatregel, vermeld in het eerste lid en in artikel 87quinquies van het decreet basisonderwijs van 25 februari 1997, wordt voor het basis- en secundair onderwijs samen vanaf 2024 jaarlijks een bedrag van 20 miljoen euro voorzien. Dit bedrag wordt vanaf het begrotingsjaar 2025 geïndexeerd volgens artikel 79, §3, derde lid, 2°, van het decreet basisonderwijs van 25 februari 1997.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt over het basis- en secundair onderwijs verdeeld op basis van het aandeel van het onderwijsniveau in het totale aantal regelmatige leerlingen op de eerste schooldag van februari van het jaar 20TT-2 die voldoen aan het leerlingenkenmerk 3, vermeld in artikel 78, §1, 1°, c), van het decreet basisonderwijs van 25 februari 1997 en in artikel 242, §1, eerste lid, 1°, c), van deze codex, en voor zover zij ingeschreven zijn in de scholen of centra die voldoen aan de voorwaarde, vermeld in het eerste lid of in artikel 87quinquies, eerste lid, van het decreet basisonderwijs van 25 februari 1997.<br>
+<br>
+Het extra werkingsbudget per school of centrum voor het betrokken schooljaar is het resultaat van de vermenigvuldiging van het aantal regelmatige leerlingen dat beantwoordt aan het leerlingenkenmerk, vermeld in artikel 242, §1, eerste lid, 1°, c), van deze codex, op de eerste schooldag van februari van jaar 20TT-2 in de school of het centrum met het binnen de begroting voorziene werkingsbudget, vermeld in dit artikel, voor het secundair onderwijs voor dat schooljaar gedeeld door het totale aantal regelmatige leerlingen gewoon secundair onderwijs in de scholen of centra die voldoen aan de voorwaarde, vermeld in het eerste lid, dat op de eerste schooldag van februari van jaar 20TT-2 beantwoordt aan het leerlingenkenmerk, vermeld in artikel 242, §1, eerste lid, 1°, c), van deze codex.<br>
+<br>
+Het extra werkingsbudget wordt aangewend om leerlingen met een te beperkte kennis van het Nederlands extra te ondersteunen.<br>
+<br>
+Het extra werkingsbudget voor het betrokken schooljaar wordt aan de school-of centrumbesturen in minstens twee schijven uitbetaald, waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50% van het extra werkingsbudget van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt.<br>
+<br>
+De Vlaamse Regering kan binnen de beschikbare begrotingskredieten het extra werkingsbudget, vermeld in dit artikel, verhogen.
+
+## Onderafdeling 7. Bijzondere maatregelen in het kader van de capaciteitsproblematiek
+
+### ART 48/3.
+
+Vanaf het begrotingsjaar 20TT, startende in 2024, tot en met het begrotingsjaar 2027, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onder- wijs voor het schooljaar 20TT-1 – 20TT, startende in 2023-2024, die op de eerste schooldag van oktober van 20TT-1 voldoen aan de volgende voorwaarden:<br>
+1° de school of het centrum heeft op de eerste schooldag van oktober van 20TT-1 ten minste dertig regelmatige leerlingen meer dan op de eerste schooldag van februari van 20TT-1 in de eerste graad B-stroom, alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen;<br>
+2° de hoofdvestigingsplaats van de school of het centrum is gelegen in een onderwijszone waar in de eerste graad B-stroom, alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen het aantal regelmatige leerlingen op de eerste schooldag van oktober van 20TT-1 hoger is dan op de eerste schooldag van februari van 20TT-1.<br>
+<br>
+Vanaf het begrotingsjaar 20TT, startende in 2024, tot en met het begrotings- jaar 2027, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onder- wijs voor het schooljaar 20TT-1 – 20TT, startende in 2023-2024, die op de eerste schooldag van oktober van 20TT-1 voldoen aan een van de volgende voorwaarden: 1° de school of het centrum heeft op de eerste schooldag van oktober van 20TT-1 ten minste 30 procent meer regelmatige leerlingen dan op de eerste schooldag<br>
+van februari van 20TT-1 in de eerste graad B-stroom;<br>
+2° de school of centrum had op de eerste schooldag van februari 20TT-1 nog geen aanbod eerste graad B-stroom, en heeft wel een aanbod eerste graad B-stroom op de eerste schooldag van oktober 20TT-1.<br>
+&nbsp;<br>
+Een school die aan een van de in het tweede lid bepaalde voorwaarden voldoet, komt slechts in aanmerking indien de hoofdvestigingsplaats van de school of het centrum is gelegen in een onderwijszone waar in de eerste graad B-stroom het aantal regelmatige leerlingen op de eerste schooldag van oktober van 20TT-1 hoger is dan op de eerste schooldag van februari van 20TT-1.<br>
+<br>
+Vanaf het begrotingsjaar 20TT, startende in 2024, tot en met het begrotingsjaar 2027, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onder- wijs voor het schooljaar 20TT-1 – 20TT, startende in 2023-2024, die op de eerste schooldag van oktober van 20TT-1 voldoen aan de volgende voorwaarden:<br>
+1° de school of het centrum heeft op de eerste schooldag van oktober van 20TT-1 ten minste 30 procent meer regelmatige leerlingen dan op de eerste schooldag van februari van 20TT-1 in alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen;<br>
+2° de hoofdvestigingsplaats van de school of het centrum is gelegen in een onderwijszone waar in alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen het aantal regelmatige leerlingen op de eerste schooldag van oktober van 20TT-1 hoger is dan op de eerste schooldag van februari van 20TT-1.<br>
+<br>
+Voor de maatregelen, vermeld in het eerste tot en met het vierde lid, wordt vanaf 2024 jaarlijks in een bedrag van 10 miljoen euro voorzien. Dit bedrag wordt vanaf het begrotingsjaar 2025 geïndexeerd volgens artikel 243, §3, derde lid, 2°.<br>
+<br>
+Het extra werkingsbudget per school of centrum voor het betrokken schooljaar is het resultaat van de vermenigvuldiging van het aantal bijkomende regelmatige leerlingen in de school of het centrum in het eerste leerjaar B, het tweede leerjaar B en alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen op de eerste schooldag van oktober van 20TT-1 ten opzichte van het aantal regelmatige leerlingen in de school of het centrum in het eerste leerjaar B, het tweede leerjaar B en alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen op de eerste schooldag van februari van 20TT-1 met het binnen de begroting voorziene werkingsbudget, vermeld in dit artikel, gedeeld door het totale aantal bijkomende regelmatige leerlingen in het eerste leerjaar B, het tweede leerjaar B en alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen op de eerste schooldag van oktober van 20TT-1 in alle scholen en centra die voldoen aan de voorwaarden, vermeld in het eerste tot en met het vierde lid, ten opzichte van het aantal regelmatige leerlingen in het eerste leerjaar B, het tweede leerjaar B en alle structuuronderdelen van het beroepssecundair onderwijs en het deeltijds beroepssecundair onderwijs samen op de eerste schooldag van februari van 20TT-1 in alle scholen en centra die voldoen aan de voorwaarden, vermeld in het eerste tot en met het vierde lid.<br>
+<br>
+Het bedrag dat een school of centrum ontvangt per bijkomende regelmatige leerling kan niet meer bedragen dan 11.000 euro. Dit bedrag wordt vanaf het begrotingsjaar 2025 geïndexeerd volgens artikel 243, §3, derde lid, 2°.<br>
+<br>
+Scholen en centra die voor het schooljaar 20TT-1 – 20TT de eerste schooldag van oktober hanteren als teldatum als vermeld in artikel 86, §2, derde lid, van het decreet betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap en in artikel 171 en 172, §1, komen voor het betrokken schooljaar niet in aanmerking voor het extra werkingsbudget, vermeld in dit artikel.<br>
+<br>
+Het extra werkingsbudget voor het betrokken schooljaar wordt aan de school- of centrumbesturen vóór 1 februari van het betrokken schooljaar betaald.<br>
+&nbsp;<br>
+De Vlaamse Regering kan binnen de beschikbare begrotingskredieten het bedrag, vermeld in het vijfde lid, verhogen.
 
 ## HOOFDSTUK 4. Scholengemeenschappen
 
