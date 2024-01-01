@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039153,
+  "title": "Decreet van 2023-12-15 tot wijziging van artikel 6 van het decreet van 16 juli 2021 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen, wat de verwerking van persoonsgegevens betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039153/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "a7de026bf921208fb311d1ba3d2aa105b8f464fc1dbef2ce4a78ce0ab914606f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039153&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-15",
+  "gazette": "2023-12-28",
+  "numac": 2023048515,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
