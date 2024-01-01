@@ -3585,7 +3585,7 @@ De bestuurlijke dwangsommen worden ook geïnd en ingevorderd door het Vlaams Min
 <br>
 § 2. Bij een veroordeling, overeenkomstig artikel 16.6.5, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen in de bossen en aanverwante grondoppervlakten, de onbevaarbare waterlopen en natuurreservaten, wordt dat bedrag gestort op de rekening van het Minafonds.<br>
 <br>
-Bij een veroordeling, overeenkomstig artikel 16.6.4, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen op de openbare wegen, de waterwegen en de havens en hun specifieke aanhorigheden, wordt dat bedrag gestort op de rekening van het Vlaams Infrastructuurfonds.
+Bij een veroordeling, overeenkomstig artikel 16.6.4, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen op de openbare wegen, de waterwegen en de havens en hun specifieke aanhorigheden, wordt dat bedrag gestort op de rekening van het Vlaamse Gewest.
 
 ### ART. 16.5.2.
 
