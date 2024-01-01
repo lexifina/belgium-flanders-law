@@ -74,7 +74,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Philip Tanghe;<br>
 10° ...;<br>
 11° Wilfried Van den Acker;<br>
-12° Marc Van Kerckvoorde;<br>
+12° ...;<br>
 13° Bart Boschmans;<br>
 14° Ivo Broekmans;<br>
 15° Iris Castel;<br>
