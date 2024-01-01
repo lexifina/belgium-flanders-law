@@ -20,12 +20,12 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de vzw Nationale Boomgaardenstichting, Leopold III-straat 8 te 3724 Vliermaal, met het ondernemingsnummer 430.689.797, erkend als een centrum voor hobbylandbouwvorming onder het nummer LL/19452.
+...
 
 ### ART 2.
 
-Met toepassing van artikel 28 van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de erkenning van vzw Nationale Boomgaardenstichting, Leopold III-straat 8 te 3724 Vliermaal, als gewestelijk centrum voor landbouwvorming, gegeven op 9 januari 2006, opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 16 juli 2019.
+...

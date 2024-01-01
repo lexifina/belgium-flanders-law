@@ -2,16 +2,16 @@
   "codex_id": 1032402,
   "title": "Ministerieel besluit van 2019-10-24 tot erkenning als centrum voor hobbylandbouwvorming en tot opheffing van de erkenning als gewestelijk centrum voor landbouwvorming van de vzw Nationale Boomgaardenstichting in het kader van de subsidiëring van naschoolse opleidingsinitiatieven in de landbouwsector",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032402/VolledigDocument?datum=2019-07-16",
-  "source_sha256": "ef1a050e9e9436d152c10c3c37348011ad4fb56aa170feab961a5990cacbd909",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032402/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "c2474377a38faf6df944b610bb984a9300a7d96509ffb36d9902bceed3eeb8f6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032402&param=informatie",
-  "as_of": "2019-07-16",
+  "as_of": "2024-01-01",
   "made": "2019-10-24",
   "gazette": "2019-11-05",
   "numac": 2019042291,
   "document_start": "2019-07-16",
   "document_end": "2023-12-31",
-  "in_force": "2019-07-16",
+  "in_force": "2024-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
