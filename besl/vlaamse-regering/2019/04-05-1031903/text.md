@@ -108,7 +108,8 @@ e) gebruikersdossier;<br>
 5° categorie 5: de diensten voor herstelgerichte en constructieve afhandeling;<br>
 6° categorie 6: de organisaties voor naadloze flexibele trajecten onderwijs - welzijn;<br>
 7° categorie 7: de observatie- en behandelcentra;<br>
-8° categorie 8: de centra voor ernstige gedrags- en emotionele stoornissen.<br>
+8° categorie 8: de centra voor ernstige gedrags- en emotionele stoornissen;<br>
+9° categorie 9: de centra voor kinderzorg en gezinsondersteuning.<br>
 <br>
 § 2. De administrateur-generaal legt van elke erkende voorziening, met uitzondering van de voorzieningen van de categorie 5, voor elke typemodule waarvoor ze erkend is de capaciteit vast.
 
@@ -176,11 +177,31 @@ Een centrum voor ernstige gedrags- en emotionele stoornissen organiseert verblij
 <br>
 Een centrum voor ernstige gedrags- en emotionele stoornissen wordt erkend op basis van de typemodules verblijf in een voorziening van categorie 8, contextbegeleiding kortdurend intensief en ondersteunende begeleiding, vermeld in bijlage 1, die bij dit besluit gevoegd is.
 
+### ART 8/3.
+
+Een centrum voor kinderzorg en gezinsondersteuning organiseert vroegtijdige en geïndiceerde zorg en ondersteuning voor aanstaande ouders en voor ouders met kinderen van 0 tot en met 12 jaar. De ondersteuning gebeurt op vraag van de ouders of op basis van signalen van andere actoren over opvoedingsnoden of op beslissing van een jeugdrechter of een jeugdrechtbank.&nbsp;<br>
+<br>
+De ondersteuning door een centrum voor kinderzorg en gezinsondersteuning heeft als doelstelling het stimuleren van de ontwikkelingskansen van de kinderen en het versterken van de pedagogische relatie en de pedagogische vaardigheden binnen een gezinscontext.&nbsp;<br>
+<br>
+Voor de ondersteuning, vermeld in het eerste lid, biedt een centrum voor kinderzorg en gezinsondersteuning minimaal gezinsbegeleiding aan, al dan niet in combinatie met verblijf en pedagogische training. Een centrum voor kinderzorg kan ook dagbegeleiding aanbieden als vermeld in artikel 35/1,§1, 8°.<br>
+<br>
+Een centrum voor kinderzorg en gezinsondersteuning houdt bij de uitvoering van zijn opdracht rekening met de persoonskenmerken van de kinderen en de ouders, de opvoedingssituatie, de context en het bredere omgevingsnetwerk en schakelt, indien nodig, meer gespecialiseerde hulp bij.&nbsp;<br>
+<br>
+Een centrum voor kinderzorg en gezinsondersteuning wordt erkend op basis van de typemodule verblijf voor -12-jarigen en de typemodule contextbegeleiding breedsporig, vermeld in bijlage 1, en, voor wat mobiele begeleiding, training en dagbegeleiding betreft, voor begeleidingspunten als vermeld in artikel 35/1, §4.
+
 ### ART 9.
 
 Een voorziening kan een aanvraag indienen om maximaal 10 % van haar erkende capaciteit flexibel of innovatief in te zetten.<br>
 <br>
 De aanvraag moet worden ingediend op een door de administratie ter beschikking gesteld formulier.
+
+### ART 9/1.
+
+Een voorziening van de categorie 9 kan, met toepassing van artikel 9, een aanvraag indienen om een deel van haar capaciteit preventief in te zetten, als aan al de volgende voorwaarden is voldaan:<br>
+1° &nbsp;&nbsp; &nbsp;de aanvraag speelt in op lokale noden;<br>
+2° &nbsp;&nbsp; &nbsp;de aanvraag vertrekt van de opdrachten en expertises van een voorziening van de categorie 9;<br>
+3° &nbsp;&nbsp; &nbsp;de aanvraag heeft betrekking op ondersteuning en versterking van actoren die universele diensten aanbieden en eerstelijnsactoren;<br>
+4°&nbsp;&nbsp; &nbsp;de aanvraag beschrijft de impact op de reguliere werking van de voorziening.
 
 ### ART 10.
 
@@ -584,6 +605,20 @@ d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwesti
 
 ## [Onderafdeling 9. Centra voor kinderzorg en gezinsondersteuning (ing. BVR 27 oktober 2023, art. 5, I: 1 januari 2024)]
 
+### ART 27/3.
+
+Een voorziening van de categorie 9 voldoet aan de volgende bijzondere voorwaarden:<br>
+1° &nbsp;&nbsp; &nbsp;de voorziening voldoet aan al de voorwaarden, vermeld in artikel 12 en 13;<br>
+2° &nbsp;&nbsp; &nbsp;de voorziening beschikt over onderbouwde methodieken en actuele expertise op minimaal de volgende domeinen:<br>
+a)&nbsp;&nbsp; &nbsp;het mentaal welzijn van het jonge kind en zijn ouders;<br>
+b)&nbsp;&nbsp; &nbsp;het versterken van de opvoedingsrelatie en opvoedingsvaardigheden, rekening houdende met de context van de gezinnen;<br>
+3° &nbsp;&nbsp; &nbsp;de voorziening werkt structureel samen met partners die actief zijn rond gezinnen met jonge kinderen, minimaal:<br>
+a)&nbsp;&nbsp; &nbsp;de dienst voor pleegzorg uit haar werkingsgebied;<br>
+b)&nbsp;&nbsp; &nbsp;de voorzieningen van de categorie 1 en 2 uit haar werkingsgebied;<br>
+4° &nbsp;&nbsp; &nbsp;de voorziening neemt deel aan netwerken die relevant zijn voor de uitvoering van haar opdrachten;<br>
+5° &nbsp;&nbsp; &nbsp;de voorziening beschikt over infrastructuur die afgestemd is op de doelgroep en die een aangepast leefklimaat en pedagogisch verantwoorde leefomgeving ondersteunt;<br>
+6°&nbsp;&nbsp; &nbsp;de voorziening stemt de inzet van de begeleidingspunten, vermeld in artikel 35/1 aantoonbaar af op de noden van de gezinnen.
+
 ## HOOFDSTUK 3. Kwaliteitsbeleid
 
 ### ART 28.
@@ -637,7 +672,7 @@ Het kwaliteitshandboek, vermeld in het eerste lid, is gebruiksvriendelijk en toe
 
 ### ART 33.
 
-Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1 tot en met 4 en de voorzieningen van categorie 6 tot en met 8 per module waarvoor ze erkend zijn, een forfaitaire subsidie, als vermeld in bijlage 1, die bij dit besluit is gevoegd
+Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1 tot en met 4 en de voorzieningen van categorie 6 tot en met 9 per module waarvoor ze erkend zijn, een forfaitaire subsidie, als vermeld in bijlage 1, die bij dit besluit is gevoegd
 
 ### ART 34.
 
@@ -664,6 +699,35 @@ Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1
 <br>
 De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.
 
+### ART 35/1.
+
+§1. In dit artikel wordt verstaan onder:<br>
+1° &nbsp;&nbsp; &nbsp;gezinsbegeleiding: mobiele, pedagogische begeleiding voor kinderen en hun gezin die bestaat uit het aanbieden van begeleiding voor het gezin gemiddeld eenmaal per week gedurende één tot drie uur;<br>
+2° &nbsp;&nbsp; &nbsp;intensieve crisisbegeleiding: intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin die bestaat uit het aanbieden van drie tot vijf keer per week gedurende één tot vijf uur begeleiding aan het gezin;<br>
+3° &nbsp;&nbsp; &nbsp;intensieve gezinsbegeleiding: intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin die bestaat uit het aanbieden van twee tot drie keer per week gedurende één tot drie uur begeleiding aan het gezin;<br>
+4° &nbsp;&nbsp; &nbsp;pedagogische training van ouders samen met kinderen in groepsverband: ambulante pedagogische training van ouders samen met kinderen in groepsverband die bestaat uit het aanbieden van een training voor minimaal zes gezinnen tegelijk. Die training heeft gemiddeld één tot drie keer per week gedurende twee tot zes uur plaats. De training heeft als voornaamste focus het aanleren van vaardigheden op het vlak van de ouder-kindinteractie en heeft een uitgesproken methodische aanpak, met een duidelijke omschrijving van de beoogde doelgroep en doelstellingen, en van de fasering, inhoud en onderbouwing van het gehanteerde programma;<br>
+5° &nbsp;&nbsp; &nbsp;pedagogische training van ouders in groepsverband en van kinderen in groepsverband: ambulante pedagogische training in groepsverband van ouders en van kinderen die bestaat uit het aanbieden van een training. Die training heeft gemiddeld één tot drie keer per week gedurende één tot zes uur plaats. De training heeft als voornaamste focus het aanleren van vaardigheden op het vlak van de ouder-kindinteractie en heeft een uitgesproken methodische aanpak, met een duidelijke omschrijving van de beoogde doelgroep en doelstellingen, en van de fasering, inhoud en onderbouwing van het gehanteerde programma;<br>
+6° &nbsp;&nbsp; &nbsp;pedagogische training van ouders in groepsverband: ambulante pedagogische training van ouders in groepsverband die bestaat uit het aanbieden van een training. Die training heeft gemiddeld één tot drie keer per week gedurende één tot drie uur plaats. De training heeft als voornaamste focus het aanleren van vaardigheden op het vlak van de ouder-kindinteractie en heeft een uitgesproken methodische aanpak, met een duidelijke omschrijving van de beoogde doelgroep en doelstellingen, en van de fasering, inhoud en onderbouwing van het gehanteerde programma;<br>
+7° &nbsp;&nbsp; &nbsp;individuele pedagogische training van ouders: ambulante pedagogische training van ouders individueel die bestaat uit het aanbieden van een individuele training ingebed in het leefgroepwerking van de voorziening. Die training heeft gemiddeld één tot drie keer per week gedurende één tot drie uur plaats. De training heeft als voornaamste focus het aanleren van vaardigheden op het vlak van de ouder-kindinteractie en heeft een uitgesproken methodische aanpak, met een duidelijke omschrijving van de beoogde doelgroep en doelstellingen, en van de fasering, inhoud en onderbouwing van het gehanteerde programma;<br>
+8° &nbsp;&nbsp; &nbsp;dagbegeleiding: ambulante opvang die bestaat erin dat een kind twee tot vijf keer per week in de voorziening wordt opgevangen gedurende 3 tot 8 uur met als doel opvang en begeleiding te organiseren in de voorziening ter ondersteuning van het kind en gezin in gezinsbegeleiding.<br>
+<br>
+§2. Bovenop de subsidie, vermeld in artikel 33, ontvangt een erkende voorziening van de categorie 9 een forfaitaire subsidie op basis van een aantal begeleidingspunten die vastgelegd zijn bij de erkenning.<br>
+<br>
+§3. Een erkende voorziening van de categorie 9 ontvangt per punt waarvoor ze erkend is, een forfaitaire subsidie van 919,82 euro. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden hoger ligt dan 5 jaar, wordt die subsidie per punt verhoogd met 17,60 euro.<br>
+<br>
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
+<br>
+§4. De punten, vermeld in paragraaf 2, worden als volgt bepaald:<br>
+1° &nbsp;&nbsp; &nbsp;een punt per gezin voor elke begonnen periode van een maand voor een gezinsbegeleiding;<br>
+2° &nbsp;&nbsp; &nbsp;zes punten per gezin voor een intensieve crisisbegeleiding van een maand;<br>
+3° &nbsp;&nbsp; &nbsp;drie punten per gezin voor elke begonnen periode van een maand voor een intensieve gezinsbegeleiding;<br>
+4° &nbsp;&nbsp; &nbsp;drie punten per gezin voor elke begonnen periode van een maand voor een pedagogische training van ouders samen met kinderen in groepsverband;<br>
+5° &nbsp;&nbsp; &nbsp;anderhalf punt per kind voor elke begonnen periode van een maand voor een pedagogische training van ouders in groepsverband en van kinderen in groepsverband;<br>
+6° &nbsp;&nbsp; &nbsp;een half punt per gezin voor elke begonnen periode van een maand voor een pedagogische training van ouders in groepsverband;<br>
+7° &nbsp;&nbsp; &nbsp;twee punten per gezin voor elke begonnen periode van een maand voor een individuele pedagogische training van ouders;<br>
+8° &nbsp;&nbsp; &nbsp;twee en een half punt per kind voor elke begonnen periode van een maand voor dagbegeleiding.<br>
+&nbsp;
+
 ### ART 36.
 
 Boven de subsidie, vermeld in artikel 35, ontvangt een erkende voorziening van de categorie 5, binnen de perken van de begroting, een bijkomende subsidie voor de organisatie van het vereffeningsfonds.<br>
@@ -682,7 +746,7 @@ Van een inrichtende macht waaraan erkenning is verleend voor twee of meer voorzi
 
 ### ART 38.
 
-Minimaal 70 % van de subsidie, vermeld in artikel 33 tot en met 35, wordt aangewend voor personeelskosten.<br>
+Minimaal 70 % van de subsidie, vermeld in artikel 33 tot en met 35/1, wordt aangewend voor personeelskosten.<br>
 <br>
 De minister kan op basis van een gemotiveerde aanvraag door de inrichtende macht voor een voorziening een afwijking toestaan van het percentage, vermeld in het eerste lid.
 
@@ -704,7 +768,7 @@ Om in aanmerking te komen voor de subsidie, vermeld in het eerste lid, dient de 
 
 ### ART 42.
 
-Aan erkende voorzieningen van de categorieën 1, 3, 7 en 8 worden op maandbasis subsidies toegekend om zakgeld te betalen aan minderjarigen bij wie een module met de functie verblijf geactiveerd is door een beslissing van een toegangspoort of een doorverwijzing van een centraal permanent crisismeldpunt. De tarieven van het zakgeld zijn opgenomen in bijlage 3, die bij besluit is gevoegd.<br>
+Aan erkende voorzieningen van de categorieën 1, 3, 7, 8 en 9 worden op maandbasis subsidies toegekend om zakgeld te betalen aan minderjarigen bij wie een module met de functie verblijf geactiveerd is door een beslissing van een toegangspoort of een doorverwijzing van een centraal permanent crisismeldpunt. De tarieven van het zakgeld zijn opgenomen in bijlage 3, die bij besluit is gevoegd.<br>
 <br>
 De betaling van het zakgeld wordt gestaafd met een ontvangstbewijs dat door de minderjarigen wordt gedateerd en ondertekend.<br>
 <br>
@@ -759,11 +823,11 @@ De subsidies, vermeld in het eerste lid, worden verminderd met de eigen inkomste
 
 ### ART 44.
 
-Aan erkende voorzieningen van de categorieën 1 tot en met 3 en van de categorieën 7 en 8 kan een subsidie voor bijzondere kosten toegekend worden om bijzondere kosten te vergoeden voor verstrekte buitengewone medische en paramedische verzorging aan minderjarigen bij wie een verblijfsmodule&nbsp;of een module begeleiding in een kleinschalige wooneenheid geactiveerd is.<br>
+Aan erkende voorzieningen van de categorieën 1 tot en met 3 en van de categorieën 7 tot en met 9 kan een subsidie voor bijzondere kosten toegekend worden om bijzondere kosten te vergoeden voor verstrekte buitengewone medische en paramedische verzorging aan minderjarigen bij wie een verblijfsmodule&nbsp;of een module begeleiding in een kleinschalige wooneenheid geactiveerd is.<br>
 <br>
-Aan de erkende voorzieningen van categorieën 1 en 3 en van de categorieën 7 en 8 kunnen, onder de voorwaarden, vermeld in artikel 46, ook subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade die is veroorzaakt door minderjarigen in crisissituatie.<br>
+Aan de erkende voorzieningen van categorieën 1 en 3 en van de categorieën 7 tot en met 9 kunnen, onder de voorwaarden, vermeld in artikel 46, ook subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade die is veroorzaakt door minderjarigen in crisissituatie.<br>
 <br>
-De administrateur-generaal kan in uitzonderlijke omstandigheden, om de fysieke of psychische integriteit van de betrokken minderjarige te behouden of te herstellen, aan de erkende voorzieningen van categorie 1 tot en met 3 en van de categorieën 7 en 8 subsidies verlenen voor bijzondere uitgaven die niet vermeld zijn in het eerste of het tweede lid.<br>
+De administrateur-generaal kan in uitzonderlijke omstandigheden, om de fysieke of psychische integriteit van de betrokken minderjarige te behouden of te herstellen, aan de erkende voorzieningen van categorie 1 tot en met 3 en van de categorieën 7 tot en met 9 subsidies verlenen voor bijzondere uitgaven die niet vermeld zijn in het eerste of het tweede lid.<br>
 <br>
 Geen enkele subsidie voor bijzondere kosten kan worden verleend:<br>
 1° als een natuurlijke of rechtspersoon, wettelijk, bij overeenkomst of door een rechterlijke beslissing, verplicht is om die kosten te betalen of terug te betalen;<br>
