@@ -18,8 +18,8 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de vzw Federaal Imkersverbond, Bessemerstraat 432 te 3620 Lanaken, erkend als een gewestelijk centrum onder het nummer LG/19412.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de dag van de ondertekening ervan.
+...
