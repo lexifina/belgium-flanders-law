@@ -188,11 +188,13 @@ De organisator heeft de integriteit en geschiktheid om op een rechtmatige   mani
 
 ### ART. 11.
 
-De basissubsidie voor gezinsopvang bedraagt&nbsp;482,63 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
+De basissubsidie voor gezinsopvang bedraagt:<br>
+1° 490,83 euro per gesubsidieerde kinderopvangplaats per kalenderjaar voor een subsidiegroep met subsidie voor inkomenstarief;<br>
+2° 2000 euro per gesubsidieerde kinderopvangplaats per kalenderjaar voor een subsidiegroep zonder subsidie voor inkomenstarief.
 
 ### ART. 12.
 
-De basissubsidie voor groepsopvang bedraagt&nbsp;1358,33 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
+De basissubsidie voor groepsopvang bedraagt&nbsp;4039,88 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
 
 ### ART. 13.
 
@@ -216,6 +218,12 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;1358,33 euro per gesubsidieerde
 
 <P>De organisator heeft voor de kinderbegeleider een attest van actieve kennis   van het Nederlands, vastgesteld door de minister, waaruit blijkt dat het   behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren het   ERK-niveau B1, voor lezen en schrijven het ERK-niveau A2 is.<BR></P>  <P>De organisator kan per drie voltijds equivalenten kinderbegeleiders, op   niveau van de organisator, met een attest van actieve kennis van het Nederlands   als vermeld in het eerste lid, één kinderbegeleider tewerkstellen zonder dit   attest op voorwaarde dat :<BR>1° deze kinderbegeleider dit attest behaalt   maximaal vier jaar na het starten met werken als kinderbegeleider bij de   organisator;<BR>2° er altijd een kinderbegeleider met dit attest aanwezig is in   de kinderopvanglocatie.<BR></P>
 
+### ART 15/1.
+
+De organisator van groepsopvang doet een inspanning om te voldoen aan de voorwaarde, vermeld in artikel 50/7.<br>
+<br>
+De organisator van gezinsopvang doet een inspanning om ervoor te zorgen dat er niet meer dan zeven tegelijk aanwezige kinderen worden opgevangen per aanwezige kinderbegeleider
+
 ### ART. 16.
 
 <P>De organisator zorgt ervoor dat er minstens evenveel verschillende kinderen   opgevangen worden op jaarbasis als het aantal gesubsidieerde plaatsen op het   niveau van de subsidiegroep.</P>
@@ -231,7 +239,7 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;1358,33 euro per gesubsidieerde
 2° een deel op basis van de leeftijd van de verantwoordelijken en van de medewerkers die in de kinderopvanglocatie instaan voor de systematische ondersteuning van de verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de verantwoordelijke moet voldoen.</p>
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt&nbsp;26,88 euro (prijsniveau op 1 april 2022) voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+1° de subsidie bedraagt 31,93 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
 2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
@@ -269,7 +277,7 @@ In afwijking van het tweede lid, 1°, bedraagt de subsidie 40% van het bedrag vo
 De organisator kan, voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt&nbsp;5910,32 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
+1° de subsidie bedraagt&nbsp;4392,22 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 95,5 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
 3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.</p>
 
@@ -803,6 +811,28 @@ De organisator realiseert binnen de zorgregio waarin hij een toekenning   heeft 
 
 De organisator neemt actief deel aan het begeleidingstraject voor de uitbouw van de Centra voor inclusieve kinderopvang dat het agentschap in samenwerking met het Vlaams Agentschap voor Personen met een Handicap organiseert.
 
+## Titel 5/1. Subsidie voor de versterking van het medewerkersbeleid
+
+## Hoofdstuk 1. Bedrag subsidie
+
+### ART 50/6.
+
+Het bedrag, vermeld in artikel 12, wordt aangevuld met een bedrag van 693,25 euro per gesubsidieerde kinderopvangplaats per kalenderjaar. In afwijking van artikel 9 wordt het voormelde aanvullende bedrag uitbetaald met ingang van 1 januari 2025, als de organisator het naleven van de voorwaarde, vermeld in artikel 50/7, kan aantonen.<br>
+&nbsp;
+
+## Hoofdstuk 2. Voorwaarden specifieke dienstverlening
+
+### ART 50/7.
+
+De organisator van groepsopvang zorgt ervoor dat er niet meer dan het volgende aantal tegelijk aanwezige kinderen worden opgevangen per aanwezige kinderbegeleider per kinderopvanglocatie:<br>
+1°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in groepen met alleen baby’s tot twaalf maanden: vijf kinderen;<br>
+2°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in groepen met naast baby’s tot twaalf maanden, ook kinderen vanaf twaalf maanden: zeven kinderen;<br>
+3°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in groepen met alleen kinderen vanaf twaalf maanden: acht kinderen;<br>
+4°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; op het moment dat de kinderen rusten, in afwijking op punt 1°, 2° en 3°, en op voorwaarde dat er minstens twee kinderbegeleiders in de kinderopvanglocatie aanwezig zijn, gedurende maximaal twee aansluitende uren: veertien kinderen.<br>
+<br>
+De organisator kan voor de naleving van de voorwaarde, vermeld in het eerste lid, ook logistieke medewerkers, die voldoen aan de voorwaarden, vermeld in artikel 45 van het Vergunningsbesluit van 22 november 2013, inschakelen voor maximaal 25%.<br>
+&nbsp;
+
 ## TITEL 6 Wijzigingsbepaling
 
 ### ART. 51.
@@ -879,9 +909,9 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 ### ART. 59.
 
-<p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°.</p>
+<p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°, en artikel 58, § 1, eerste lid, 3°.</p>
 
-<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode&nbsp;gelden de bedragen, vermeld in artikel 17, vijfde lid.<br>
+<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf&nbsp;jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode&nbsp;gelden de bedragen, vermeld in artikel 17, vijfde lid.<br>
 <br>
 § 2. ...</p>
 
@@ -926,7 +956,7 @@ In afwijking van artikel 21 heeft de organisator een bezetting :<BR>1° van   70
 ### ART. 65.
 
 Zolang de kinderbegeleider werkt volgens het sociaal statuut van de aangesloten onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
-1° een kostenvergoeding van 21,55 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
+1° een kostenvergoeding van 28,15 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
 2° de subsidie flexibele gezinsopvang, vermeld in artikel 40/1, eerste lid, 1° ;<br>
 3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.<br>
 <br>
