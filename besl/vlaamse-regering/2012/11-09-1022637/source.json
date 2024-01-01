@@ -2,16 +2,16 @@
   "codex_id": 1022637,
   "title": "Besluit van de Vlaamse Regering van 2012-11-09 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022637/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "8b59b0063956eafd7a48458116b2fbe3a921f1d6f0c60a7f891bcce6894c7d1a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022637/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "4c6793d725f4ff99249042ea304290bae812856cb57528387d55961b54485f45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022637&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-01-01",
   "made": "2012-11-09",
   "gazette": "2013-01-18",
   "numac": 2012036292,
   "document_start": "2013-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2023-06-01",
+  "in_force": "2024-01-01",
   "article_versions": 91,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
