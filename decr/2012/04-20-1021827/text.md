@@ -12,7 +12,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 In dit decreet wordt verstaan onder :<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
-2° kinderopvang : kinderopvang van baby's en peuters, namelijk het beroepsmatig en tegen betaling opvoeden, bijdragen aan de ontwikkeling en verzorgen van baby's en peuters tot ze naar de kleuterschool, vermeld in artikel 3, 26°, van het decreet basisonderwijs van 25 februari 1997, gaan;<br>
+1°/1 &nbsp;&nbsp; &nbsp;algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 be-treffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG;<br>
+2° kinderopvang : kinderopvang van baby's en peuters, buiten de gezinswoning van het kind, namelijk het beroepsmatig en tegen betaling opvoeden, bijdragen aan de ontwikkeling en verzorgen van baby's en peuters tot ze naar de kleuterschool, vermeld in artikel 3, 26°, van het decreet basisonderwijs van 25 februari 1997, gaan;<br>
 3° kinderopvanglocatie : een vestigingsplaats waar kinderopvang georganiseerd wordt;<br>
 4° organisator : de natuurlijke persoon of de rechtspersoon die kinderopvang organiseert;<br>
 5° verantwoordelijke : de persoon die door de organisator is aangewezen om de kwaliteitsvolle werking van de kinderopvanglocatie dagelijks te regelen;<br>
@@ -28,7 +29,11 @@ In dit decreet wordt verstaan onder :<br>
 15° zorgregio : zorgregio niveau kleine stad, vermeld in artikel 2, 5°, van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen. De gemeenten behorend tot het tweetalige gebied Brussel-Hoofdstad worden beschouwd als één aparte zorgregio;<br>
 16° kwalificatie : een afgerond en ingeschaald geheel van competenties;<br>
 17° competentie : de bekwaamheid om kennis, vaardigheden en attitudes in het handelen geïntegreerd aan te wenden voor maatschappelijke activiteiten;<br>
-18° private toezichthouder: een toezichthouder die is vormgegeven volgens het private vennootschaps- of verenigingsrecht.<br>
+18° private toezichthouder: een toezichthouder die is vormgegeven volgens het private vennootschaps- of verenigingsrecht;<br>
+19° de beginselen van voorzorg, preventie en zorgvuldigheid, hierna voor-zorgsbeginsel genoemd: de mogelijkheid om, los van de vaststelling van een inbreuk op de bepalingen, bestuurlijke maatregelen te nemen als er in het kader van kinderopvang als vermeld in dit decreet of de uitvoeringsbesluiten ervan:<br>
+a)&nbsp;&nbsp; &nbsp;een risico is op een schending van de fysieke of psychische integriteit van de kinderen;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een vaststelling is van een ernstige gebeurtenis waarbij de fysieke of psychische integriteit van de kinderen is geschonden;<br>
+20° &nbsp;&nbsp; &nbsp;beleidsvoerend vermogen: de mate waarin de organisator in staat is om een zelfstandig beleid te voeren, rekening houdend met de beschikbare beleids-ruimte, met de eigen doelstellingen en met de lokale context, en de mate waarin de activiteiten van de verantwoordelijke en van de medewerkers op elkaar zijn afgestemd in functie van het bijdragen aan de ontplooiing van het kind.<br>
 <br>
 Onder meer de volgende activiteiten worden niet beschouwd als kinderopvang met betrekking tot baby's en peuters :<br>
 1° jeugdhulpverlening als vermeld in artikel 2, § 1, 30°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
@@ -55,7 +60,7 @@ Een organisator moet over een of meer van de volgende vergunningen van het agent
 <br>
 Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij het agentschap.<br>
 <br>
-Een vergunning wordt toegekend door&nbsp;het agentschap als uit passend onderzoek door een toezichthouder of door het agentschap, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+Een vergunning wordt toegekend door&nbsp;het agentschap als uit passend onderzoek door een toezichthouder of door het agentschap, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.&nbsp;Het passend onderzoek heeft minstens betrekking op de aanwezigheid van het beleidsvoerend vermogen, vermeld in artikel 6, §1.<br>
 <br>
 Als de organisator voldoet aan de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan, geldt een vergunning voor onbepaalde duur, met behoud van de toepassing van artikel 19.<br>
 <br>
@@ -81,31 +86,49 @@ Als de gegevens, vermeld in het eerste en het tweede lid, die op de uitgereikte 
 
 ### ART. 6.
 
-§ 1. De organisator voldoet voor zijn kinderopvanglocatie minstens aan alle voorwaarden met betrekking tot :<br>
-1° de infrastructuur, minstens de ruimte, bestemd voor kinderopvang, de uitrusting en de inrichting ervan;<br>
-2° de veiligheid en de gezondheid, met inbegrip van specifieke brandveiligheidsvoorschriften voor kinderopvanglocaties, met behoud van de toepassing van de federale basisnormen voor de brandveiligheid van gebouwen;<br>
-3° de omgang met de kinderen en de gezinnen, waaronder minstens :<br>
-a) het respecteren van de fysieke en de psychische integriteit van elk kind;<br>
-b) het niet discrimineren van kinderen en gezinnen. Er mogen geen voorwerpen of tekenen aanwezig zijn die blijk geven van discriminatie of die racistisch, xenofoob of onwettig zijn, als de aanwezige voorwerpen of tekenen een nadelige invloed op de kinderen kunnen hebben;<br>
-c) het pedagogische beleid en de pedagogische ondersteuning met het oog op het stimuleren van de ontwikkeling van elk kind op lichamelijk, cognitief, sociaal-emotioneel, communicatief, creatief en moreel vlak, en met het oog op het waarborgen van het welbevinden en de betrokkenheid van elk kind;<br>
-d) de betrokkenheid en de participatie van de gezinnen, met inbegrip van de periodieke evaluatie van de tevredenheid van de gezinnen en de communicatie met de gezinnen, en met inbegrip van de informatie van&nbsp;het agentschap over de vergunning;<br>
-e) het huishoudelijk reglement en de schriftelijke overeenkomst met de gezinnen;<br>
-4° de personen werkzaam in de kinderopvanglocatie, minstens met betrekking tot :<br>
-a) de verantwoordelijke, zoals zijn kwalificatie, te volgen vorming en zijn actieve kennis van de Nederlandse taal;<br>
-b) de kinderbegeleider, zoals zijn kwalificatie, te volgen vorming, het aantal kinderbegeleiders in verhouding tot het aantal tegelijk aanwezige kinderen en voor minstens één van de kinderbegeleiders de actieve kennis van de Nederlandse taal;<br>
-c) de persoon die in afwezigheid van de verantwoordelijke de taak van de verantwoordelijke als aanspreekpersoon overneemt, zoals zijn actieve kennis van de Nederlandse taal;<br>
-5° het organisatorische management van de kinderopvanglocatie, minstens de verantwoordelijkheidstoedeling, de leefgroepindeling, de financiële werking, het kwaliteitsbeleid en de klachtenbehandeling;<br>
-6° de samenwerking met het agentschap, het lokaal loket kinderopvang en het lokaal bestuur.<br>
+§1. De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met de geldende normen en waarden, kwaliteitsvolle en duurzame kinderopvang te organiseren.<br>
 <br>
-§ 2. Wat de vergunning voor gezinsopvang en voor opvang aan huis betreft, gaat de organisator, in aanvulling op de voorwaarden, vermeld in paragraaf 1, de draagkracht van de kinderbegeleider na. Onder draagkracht wordt verstaan: de bekwaamheid om aan kinderopvang te doen, rekening houdend met de fysieke en psychische conditie van de kinderbegeleider en met het geheel van ondersteunende en belastende factoren in de context van de kinderbegeleider, zoals gezinssituatie, sociaal netwerk en infrastructuur.<br>
+De naleving van de voorwaarden, vermeld in het eerste lid, blijkt uit de ma-nier waarop de volgende aspecten in de vergunde werking aanwezig zijn:<br>
+1°&nbsp;&nbsp; &nbsp;duidelijk leiderschap, met een gestructureerde werkomgeving waar de bevoegdheden en verantwoordelijkheden duidelijk worden toebedeeld en waarbij de organisator ervoor zorgt dat alle medewerkers minstens de geïntegreerde aanpak, vermeld in punt 2°, kennen en toepassen;<br>
+2°&nbsp;&nbsp; &nbsp;een geïntegreerde aanpak van al de volgende thema’s:<br>
+a)&nbsp;&nbsp; &nbsp;infrastructuur, minstens de ruimte, bestemd voor kinderopvang, de uitrusting en de inrichting ervan;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;veiligheid en gezondheid, met inbegrip van specifieke brandveiligheidsvoorschriften voor kinderopvanglocaties, met behoud van de toepassing van de federale basisnormen voor de brandveiligheid van gebouwen;<br>
+c)&nbsp;&nbsp; &nbsp;omgang met de kinderen en de gezinnen, waaronder minstens:<br>
+1)&nbsp;&nbsp; &nbsp;respect voor integriteit en niet-discriminatie;<br>
+2)&nbsp;&nbsp; &nbsp;pedagogisch beleid met het oog op het stimuleren van de ontwikke-ling van elk kind op lichamelijk, cognitief, sociaal, emotioneel, communicatief, creatief en moreel vlak, en met het oog op het waarborgen van het welbevinden en de betrokkenheid van elk kind;<br>
+3)&nbsp;&nbsp; &nbsp;betrokkenheid en participatie van de gezinnen;<br>
+4)&nbsp;&nbsp; &nbsp;huishoudelijk reglement en schriftelijke overeenkomst;<br>
+5)&nbsp;&nbsp; &nbsp;inlichtingenfiche en aanwezigheidsregister;<br>
+d)&nbsp;&nbsp; &nbsp;personen werkzaam in de kinderopvanglocatie, minstens met betrekking tot:<br>
+1)&nbsp;&nbsp; &nbsp;de verantwoordelijke, zoals zijn kwalificatie en zijn actieve kennis van de Nederlandse taal;<br>
+2)&nbsp;&nbsp; &nbsp;de kinderbegeleider, zoals zijn kwalificatie, het aantal kinderbegelei-ders in verhouding tot het aantal tegelijk aanwezige kinderen en voor minstens een van de kinderbegeleiders de actieve kennis van de Nederlandse taal;<br>
+3)&nbsp;&nbsp; &nbsp;andere personen met regelmatig direct contact;<br>
+e)&nbsp;&nbsp; &nbsp;organisatorisch management van de kinderopvanglocatie, minstens het medewerkersbeleid, de algemene en financiële werking, de leefgroepin-deling en de klachtenbehandeling;<br>
+f)&nbsp;&nbsp; &nbsp;samenwerking met het agentschap, het lokaal loket kinderopvang en het lokaal bestuur;<br>
+3°&nbsp;&nbsp; &nbsp;een reflectieve, proactieve en reactieve houding met het oog op een voortdurende verbetering van de eigen werking, rekening houdend met de feedback en input van gezinnen, medewerkers en relevante expertise van externe or-ganisaties;<br>
+4°&nbsp;&nbsp; &nbsp;een innovatieve houding, waarbij er oog is voor vernieuwing, rekening houdend met ontwikkelingen in de omgeving, de samenleving en de regelgeving;<br>
+5°&nbsp;&nbsp; &nbsp;doeltreffende communicatie en transparantie, waarbij erop gelet wordt dat de nodige en correcte informatie tijdig en duidelijk bij de juiste mensen terechtkomt, waaronder de personen die werken in de kinderopvanglocatie en de gezinnen van de opgevangen kinderen;<br>
+6°&nbsp;&nbsp; &nbsp;samenwerking en transparante communicatie met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners.<br>
 <br>
-§ 3. De vergunningsvoorwaarden, vermeld in paragraaf 1, eerste lid, 1°, gelden niet voor de organisator van opvang aan huis.<br>
+De organisator zorgt voor ondersteuning voor zichzelf en voor zijn medewerkers voor alle voorwaarden als vermeld in het eerste en tweede lid.<br>
 <br>
-§ 4. De organisator beschikt voor zichzelf, voor de verantwoordelijke, voor de kinderbegeleider en voor elke andere meerderjarige persoon die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, over een uittreksel uit het strafregister als bedoeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of over een gelijkwaardig document voor wie niet in België gedomicilieerd is, waaruit onberispelijk gedrag in de omgang met kinderen blijkt. Als de organisator een rechtspersoon is, beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon.<br>
+De organisator kan de naleving van alle voorwaarden als vermeld in het eerste, tweede en derde lid aantonen op basis van onder meer documentatie.<br>
 <br>
-De organisator beschikt voor iedereen die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, over een attest van medische geschiktheid.<br>
+§ 2. ...<br>
 <br>
-Voor de vergunning voor opvang aan huis geldt deze voorwaarde voor de kinderbegeleider. Het uittreksel en het attest worden bewaard door de organisator.<br>
+§ 3. ...<br>
+<br>
+§4. De organisator controleert bij de aanstelling van elke nieuwe verantwoordelijke en kinderbegeleider en voor elke andere meerderjarige persoon die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, het goed zedelijk gedrag van de betrokkene dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt.<br>
+<br>
+Als de organisator een rechtspersoon is, beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon. De organisator controleert van de zaakvoerders en bestuurders het goed zedelijk gedrag, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt.<br>
+<br>
+Artikel 3, tweede tot en met vijfde lid, artikel 4, eerste lid, 1°, en artikel 5, §1, §2 en §3, eerste, tweede en vijfde lid, van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister, vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers, zijn van toepassing bij de controle, vermeld in het eerste en tweede lid.<br>
+<br>
+De organisator zorgt er via een schriftelijk document voor dat elke persoon als vermeld in het eerste en tweede lid, die het voorwerp uitmaakt van een strafonderzoek of een veroordeling oploopt met betrekking tot feiten ten aanzien van minderjarigen die een impact hebben op het goed zedelijk gedrag van de betrokken persoon en met name zijn onberispelijk gedrag in de omgang met minderjarigen, dat verplicht meldt aan de organisator. Onder schriftelijk document kan ook verstaan worden het arbeidsreglement van een organisator.<br>
+<br>
+De organisator voert een nieuwe controle uit zoals bedoeld in het eerste lid op het ogenblik dat hij informatie ontvangt, ofwel via de meldingsplicht, ofwel op een andere wijze, over het opstarten van een strafonderzoek of over het oplopen van een nieuwe veroordeling met betrekking tot feiten ten aanzien van minderjarigen die een impact hebben op het goed zedelijk gedrag van de betrokken persoon en met name zijn onberispelijk gedrag in de omgang met minderjarigen. Het resultaat van de controle of het niet naleven van de meldingsplicht kunnen arbeidsrechtelijke of contractuele gevolgen hebben voor de verantwoordelijke, de kinderbegeleider of de meerderjarige personen die in de kinderopvanglocatie regelmatig direct contact hebben met de opgevangen kinderen.&nbsp;<br>
+<br>
+De organisator vraagt een nieuw uittreksel uit het strafregister op na elke periode van drie jaar.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt de nadere regels met betrekking tot paragraaf 1 tot en met paragraaf 4, en maakt daarbij een onderscheid tussen de startvoorwaarden en de werkingsvoorwaarden.<br>
 <br>
@@ -127,13 +150,16 @@ De Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder mi
 
 ### ART. 8.
 
-§ 1. De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
+<strong>[Belangrijke opmerking</strong>: Gelet op <a href="https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnl.const-court.be%2Fpublic%2Fn%2F2025%2F2025-072n.pdf&amp;data=05%7C02%7Cfrank.steenput%40vlaanderen.be%7C5ef5bb1c6b074397017c08defec14ee6%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C639228303365294726%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=NleMYj4Pdx5hXrniEiC9v3T8DYi%2FGGLG9lTCLobXd5A%3D&amp;reserved=0">het arrest van het Grondwettelijk Hof nr 72/2025 van 30 april 2025</a>, is de uitvoering van deze bepaling in de huidige versie (met inwerkingtredingdatum 1 april 2024) van artikel 22 van het Subsidiebesluit van 22 november 2013 onrechtmatig. De voorrangsregeling in artikel 8 van Kinderopvangdecreet waarnaar dit artikel 22 Subsidiebesluit verwijst, werd immers -met inbegrip van de delegatie aan de Vlaamse Regering om deze verder uit te werken- door dat arrest vernietigd. Huidig artikel 22 Subsidiebesluit heeft bijgevolg geen geldige rechtsgrond ].<br>
+<br>
+<br>
+§1.&nbsp;De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
 1° de werksituatie, met minstens het kenmerk dat kinderopvang noodzakelijk is om toegang te hebben tot de arbeidsmarkt of om een beroepsgerichte opleiding in het kader hiervan te kunnen volgen, en verder :<br>
 2° de financiële situatie;<br>
 3° de gezinssamenstelling:<br>
 4° de aanwezigheid van pleegkinderen, als bedoeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, in het gezin en die in aanmerking komen voor kinderopvang als bedoeld in artikel 2, 2°.<br>
 <br>
-De financiële bijdrage van de gezinnen voor de kinderopvang van een pleegkind als vermeld in het eerste lid, 4°, of van een kind van een minderjarige tienermoeder, stemt overeen met het laagst mogelijke inkomenstarief, onafhankelijk van het inkomen van het pleeggezin of van het gezin van de minderjarige.<br>
+De financiële bijdrage van de gezinnen voor de kinderopvang van een pleegkind als vermeld in het tweede lid, 3°, of van een kind van een minderjarige tienermoeder, stemt overeen met het laagst mogelijke inkomenstarief, onafhankelijk van het inkomen van het pleeggezin of van het gezin van de minderjarige.<br>
 <br>
 § 2. Behoudens de bepalingen in § 1 geldt ten aanzien van de kinderopvanglocaties in het tweetalige gebied Brussel-Hoofdstad een voorrang voor kinderen waarvan minstens één ouder het Nederlands voldoende machtig is en dit ten belope van maximaal 55 percent van hun opvangcapaciteit.<br>
 <br>
@@ -141,8 +167,8 @@ Om van deze voorrangsregel gebruik te kunnen maken, toont de ouder op een van de
 1° door het voorleggen van minstens het Nederlandstalig diploma van secundair onderwijs of daarmee gelijkwaardig Nederlandstalig studiebewijs;<br>
 2° door het voorleggen van het Nederlandstalig studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs of daarmee gelijkwaardig Nederlandstalig studiebewijs;<br>
 3° door het voorleggen van het bewijs dat hij het Nederlands beheerst minstens op niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Talen. Dit gebeurt op basis van een van de volgende stukken :<br>
-a) een studiebewijs van door de Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs of een daarmee gelijkwaardig Nederlandstalig studiebewijs, dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
-b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
+&nbsp; a) een studiebewijs van door de Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs of een daarmee gelijkwaardig Nederlandstalig studiebewijs, dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
+&nbsp; b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
 4° door het voorleggen van het bewijs van voldoende kennis van het Nederlands na het afleggen van een taalexamen bij het selectiebureau van de federale overheid;<br>
 5° door het voorleggen van het bewijs dat hij negen jaar als regelmatige leerling onderwijs heeft gevolgd in het Nederlandstalige lager en secundair onderwijs. Dit gebeurt op basis van attesten daartoe uitgereikt door de betrokken schoolbesturen.<br>
 <br>
