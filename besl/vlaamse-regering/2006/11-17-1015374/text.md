@@ -8,17 +8,37 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 19 mei 2006 betreffende
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° Raad: de   Raad van het Vlaams Fonds voor Landbouw en Visserij;<BR>2° de minister : de   Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<BR>3°   Vlaams Landbouwfonds: het Vlaams Fonds voor Landbouw en Visserij.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° Raad: de Raad van het Vlaams Fonds voor Landbouw en Visserij;<br>
+2° ...;<br>
+3° ...
 
 ## HOOFDSTUK II Organisatie, samenstelling en werking
 
 ### ART. 2.
 
-De Raad wordt opgericht bij het Departement Landbouw en Visserij.
+De Raad wordt opgericht bij het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 3.
 
-De Raad bestaat uit 26 leden en is samengesteld als volgt :<BR>1° de   secretaris-generaal van het Departement Landbouw en Visserij;<BR>2° ...;<BR>3°   de administrateur-generaal van het Instituut voor Landbouw- en   Visserijonderzoek;<BR>4° vijf personeelsleden van het Departement Landbouw en   Visserij;<BR>5° ...;<BR>6° één ambtenaar van het Instituut voor Landbouw- en   Visserijonderzoek (ILVO);<BR>7° zes vertegenwoordigers van de algemene   landbouworganisaties;<BR>8° één vertegenwoordiger van de zaaizaadsector;<BR>9°   één vertegenwoordiger van de pootgoedsector;<BR>10° één vertegenwoordiger van de   sierteeltsector;<BR>11° één vertegenwoordiger van de tuinbouwveilingen;<BR>12°   één vertegenwoordiger uit de leidende verenigingen van respectievelijk de   fokkerijsectoren rundvee, varkens en pluimvee en konijnen;<BR>13° één   vertegenwoordiger van de zuivelsector;<BR>14° één vertegenwoordiger van de   vleesverwerkende nijverheid;<BR>15° één vertegenwoordiger van de   visserijsector;<BR>16° één vertegenwoordiger van de toeleveringssector   grondstoffen;<BR>17° één vertegenwoordiger van de biologische   sector.
+De Raad bestaat uit 26 leden en is samengesteld als volgt :<br>
+1° de administrateur-generaal van het Agentschap Landbouw en Zeevisserij;;<br>
+2° ...;<br>
+3° de administrateur-generaal van het Instituut voor Landbouw-, Visserij- en Voedingsonderzoek;<br>
+4° vijf personeelsleden van het Agentschap Landbouw en Zeevisserij;<br>
+5° ...;<br>
+6° één ambtenaar van het Instituut voor Landbouw-, Visserij- en Voedingsonderzoek;<br>
+7° zes vertegenwoordigers van de algemene landbouworganisaties;<br>
+8° één vertegenwoordiger van de zaaizaadsector;<br>
+9° één vertegenwoordiger van de pootgoedsector;<br>
+10° één vertegenwoordiger van de sierteeltsector;<br>
+11° één vertegenwoordiger van de tuinbouwveilingen;<br>
+12° één vertegenwoordiger uit de leidende verenigingen van respectievelijk de fokkerijsectoren rundvee, varkens en pluimvee en konijnen;<br>
+13° één vertegenwoordiger van de zuivelsector;<br>
+14° één vertegenwoordiger van de vleesverwerkende nijverheid;<br>
+15° één vertegenwoordiger van de visserijsector;<br>
+16° één vertegenwoordiger van de toeleveringssector grondstoffen;<br>
+17° één vertegenwoordiger van de biologische sector.
 
 ### ART. 4.
 
@@ -30,7 +50,7 @@ Het mandaat van de leden duurt vier jaar en is hernieuwbaar.<br /><br />Als een 
 
 ### ART. 6.
 
-De Raad wordt voorgezeten door de secretaris-generaal van het Departement   Landbouw en Visserij of, bij zijn afwezigheid, door de administrateur-generaal   van het Instituut voor Landbouw- en Visserijonderzoek.
+De Raad wordt voorgezeten door de administrateur-generaal van het Agentschap Landbouw en Zeevisserij.
 
 ### ART. 7.
 
