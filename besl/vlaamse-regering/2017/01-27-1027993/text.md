@@ -291,11 +291,13 @@ i) hockey;<br>
 j) ijsschaatsen;<br>
 k) judo;<br>
 l) kano - kajak;<br>
+l/1) klimmen;<br>
 m) paardensport;<br>
 n) roeien;<br>
 o) rugby;<br>
 p) schermen;<br>
 q) schietsport;<br>
+q/1) skatesport;<br>
 r) skiën – snowboarden;<br>
 s) taekwondo;<br>
 t) tafeltennis;<br>
