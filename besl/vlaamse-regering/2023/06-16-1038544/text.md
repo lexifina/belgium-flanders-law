@@ -34,10 +34,11 @@ In dit besluit wordt verstaan onder:<br>
 7° Belgisch deel van de Noordzee: de Belgische territoriale zee zoals vastgelegd in de wet van 6 oktober 1987 tot bepaling van de breedte van de territoriale zee van België en de Belgische exclusieve economische zone in de Noordzee zoals vastgelegd in artikel 3 van de wet van 22 april 1999 betreffende de exclusieve economische zone van België in de Noordzee;<br>
 8° besluit van 16 december 2005: het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden;<br>
 9° besluit van 7 oktober 2022: besluit van de Vlaamse Regering van 7 oktober 2022 tot erkenning van producenten- en brancheorganisaties in de sector visserij en aquacultuur en de uitbreiding van voorschriften en tot vaststelling van nadere regels voor het verlenen van opslagsteun door erkende producentenorganisaties;<br>
+9°/1 bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 10° blokperiode: een periode waarin aanvragen voor steun in de Vlaamse visserij- en aquacultuursector ingediend kunnen worden;<br>
 11° collectief project: een project waarbij verschillende begunstigden samen of afzonderlijk eenzelfde concrete actie of eenzelfde investering uitvoeren;&nbsp;<br>
 12° decreet van 13 mei 1997: het decreet van 13 mei 1997 houdende oprichting van een Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector;&nbsp;<br>
-13° Departement Landbouw en Visserij: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+13° ...;<br>
 14° economische band: de economische band, vermeld in artikel 12, §2, van het besluit van 16 december 2005;&nbsp;<br>
 15° EFMZVA: het financieringsinstrument, opgericht bij de verordening (EU) 2021/1139;&nbsp;<br>
 16° EFMZVA-regelgeving: verordening (EU) 2021/1139 en de regelgeving die bepaald is ter uitvoering van de verordening (EU) 2021/1139;<br>
@@ -49,7 +50,7 @@ In dit besluit wordt verstaan onder:<br>
 22° kustvisserssegment: het kustvisserssegment, vermeld in artikel 1, 8°, van het besluit van 16 december 2005;<br>
 23° micro- en kleine onderneming: een onderneming waar minder dan vijftig personen werken en waarvan de jaaromzet of het jaarlijkse balanstotaal niet meer bedraagt dan 10 miljoen euro zoals vastgelegd in de aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen;&nbsp;<br>
 24° middelgrote onderneming: een onderneming waar minder dan tweehonderdvijftig personen werken en waarvan de jaaromzet niet meer bedraagt dan 50 miljoen euro of waarvan het jaarlijkse balanstotaal 43 miljoen euro niet overschrijdt, en die niet onder de definitie van micro- of kleine onderneming valt, vermeld in artikel 2, lid 2 en 3, van de aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen;<br>
-25° minister: de Vlaamse minister, vermeld in artikel 2, 6°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, bevoegd voor de zeevisserij;&nbsp;<br>
+25° minister: de Vlaamse minister, bevoegd voor de zeevisserij;&nbsp;<br>
 26° programmeringsperiode 2021-2027: de looptijd waarbinnen lidstaten middelen kunnen vastleggen voor hun programma in uitvoering van het EFMZVA, zoals bepaald in verordening (EU) 2021/1139;<br>
 27° project: het geheel aan concrete acties en investeringen die in de steunaanvraag zijn omschreven die beantwoorden aan de voorwaarden en doelstellingen, vermeld in artikel 17 tot en met 30 van verordening (EU) 2021/1139, in het programma en in dit besluit;<br>
 28° programma: het programma EFMZVA 2021 – 2027, opgesteld door België in het kader van de verordening (EU) 2021/1139 en goedgekeurd door de Europese Commissie bij uitvoeringsbesluit C(2022) 9681 van de Europese Commissie van 19 december 2022;&nbsp;<br>
@@ -74,7 +75,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van verordening (EU) 2021/11
 
 ### ART 3.
 
-Het Departement Landbouw en Visserij oefent de taken van beheerautoriteit, vermeld in artikel 71, lid 1, van verordening (EU) 2021/1060, uit voor het EFMZVA-programma België 2021–2027, goedgekeurd bij uitvoeringsbesluit C(2022) 9681 van de Europese Commissie van 19 december 2022.
+De bevoegde entiteit oefent de taken van beheerautoriteit, vermeld in artikel 71, lid 1, van verordening (EU) 2021/1060, uit voor het EFMZVA-programma België 2021–2027, goedgekeurd bij uitvoeringsbesluit C(2022) 9681 van de Europese Commissie van 19 december 2022.
 
 ### ART 4.
 
@@ -140,7 +141,7 @@ De minister kan voor de uitvoering van dit besluit:<br>
 
 ### ART 6.
 
-Het Departement Landbouw en Visserij stelt personeel, uitrusting en installaties ter beschikking van het FIVA en het EFMZVA.
+De bevoegde entiteit wordt belast met de algemene leiding, het beheer, de werking en de vertegenwoordiging van het FIVA. De bevoegde entiteit stelt personeel, uitrusting en installaties ter beschikking van het FIVA en het EFMZVA.
 
 ## Titel 2. Verrichtingen waarvoor het FIVA en het EFMZVA steun kunnen verlenen
 
@@ -279,7 +280,7 @@ De concrete acties, vermeld in het eerste lid, bestaan uit:<br>
 <br>
 §2. Projecten als vermeld in paragraaf 1, tweede lid, 1° en 2°, worden op de volgende wijze uitgevoerd:<br>
 1° in samenwerking met of door een openbare of door de Vlaamse overheid erkende wetenschappelijke of technische instantie, die de resultaten ervan valideert en publiceert;<br>
-2° onder leiding van een projectgroep die minstens samengesteld is uit de promotor, vertegenwoordigers van de sector, vertegenwoordigers van het wetenschappelijk onderzoek en van het Departement Landbouw en Visserij.<br>
+2° onder leiding van een projectgroep die minstens samengesteld is uit de promotor, vertegenwoordigers van de sector, vertegenwoordigers van het wetenschappelijk onderzoek en van de bevoegde entiteit.<br>
 <br>
 De minister kan voor het verkrijgen van de steun, vermeld in dit artikel, bepalen:<br>
 1° welke projectkosten als subsidiabel in aanmerking komen;<br>
