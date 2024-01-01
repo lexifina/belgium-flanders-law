@@ -8,11 +8,19 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   minister : de Vlaamse minister, bevoegd voor de landbouw;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   VLIF : het Vlaams Landbouwinvesteringsfonds, opgericht bij artikel 12 van het   decreet van 22 december 1993 houdende bepalingen tot begeleiding van de   begroting 1994;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   waarborgadvies : de kennisgeving van het VLIF aan een erkende kredietinstelling   of het een principieel akkoord kan geven om al dan niet VLIF-waarborg toe te   kennen na dossierbehandeling, als alle vooropgestelde, meegedeelde voorwaarden   zijn vervuld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder :<br>
+1° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
+3° VLIF : het Vlaams Landbouwinvesteringsfonds, opgericht bij artikel 12 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994;<br>
+4° waarborgadvies : de kennisgeving van het VLIF aan een erkende kredietinstelling of het een principieel akkoord kan geven om al dan niet VLIF-waarborg toe te kennen na dossierbehandeling, als alle vooropgestelde, meegedeelde voorwaarden zijn vervuld.
 
 ### ART. 2.
 
-<P>Het   hoofd van de bevoegde entiteit voert de titel van directeur-generaal van het   VLIF.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit besluit en   de uitvoeringsbepalingen ervan onder de bevoegdheid van het VLIF vallen,   subdelegeren aan personeelsleden van de bevoegde entiteit die onder zijn   hiërarchisch gezag staan, tot op het meest functionele niveau.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het hoofd van de bevoegde entiteit voert de titel van directeur-generaal van het VLIF.</p>
+
+<p>De bevoegde entiteit wordt belast met de algemene leiding, het beheer, de werking en de vertegenwoordiging van het VLIF. De bevoegde entiteit stelt daartoe haar personeel, haar uitrusting en haar installaties ter beschikking van het VLIF.<br>
+<br>
+De delegaties en de mogelijkheden tot subdelegatie die gelden in de verhouding tussen de bevoegde entiteit en het hoofd van de bevoegde entiteit gelden naar analogie voor de verhouding tussen het VLIF en het hoofd van het VLIF, in het kader van het beheer van het VLIF.</p>
 
 ### ART. 3.
 
@@ -20,7 +28,7 @@ In   dit besluit wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SP
 
 ### ART. 4.
 
-De   bevoegde entiteit stelt haar personeel, haar uitrusting en haar installaties ter   beschikking van het VLIF.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 5.
 

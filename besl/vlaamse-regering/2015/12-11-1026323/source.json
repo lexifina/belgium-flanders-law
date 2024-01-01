@@ -2,16 +2,16 @@
   "codex_id": 1026323,
   "title": "Besluit van de Vlaamse Regering van 2015-12-11 betreffende de taken, het beheer en de werkwijze van het Vlaams Landbouwinvesteringsfonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026323/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "ec289455600e524941e46f0ef9ccb0a45bf85f8d5cc47e4ce1c5262b49eabfd1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026323/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0e05862c908609210ce5b397330355029c385b18b7e1d1ab60f13f8a74002185",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026323&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2024-01-01",
   "made": "2015-12-11",
   "gazette": "2016-01-18",
   "numac": 2016035009,
   "document_start": "2016-01-28",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
