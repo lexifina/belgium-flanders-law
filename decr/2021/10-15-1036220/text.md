@@ -177,11 +177,11 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART 20.
 
-Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet. In geval van herhaling is artikel 85 van het Strafwetboek niet van toepassing.
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.
 
 ### ART 21.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek wordt een buitenlandse onderdaan gestraft met een gevangenisstraf van zes maanden tot drie jaar en een strafrechtelijke geldboete van 250 tot 2500 euro, of met een van die straffen alleen, als hij in strijd met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan:<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek wordt een buitenlandse onderdaan gestraft met een gevangenisstraf van zes maanden tot drie jaar en een strafrechtelijke geldboete van 300 tot 3000 euro, of met een van die straffen alleen, als hij in strijd met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan:<br>
 1° een zelfstandige beroepsactiviteit uitoefent zonder in het bezit te zijn van een beroepskaart;<br>
 2° een zelfstandige beroepsactiviteit uitoefent zonder de grenzen of de voorwaarden van de beroepskaart te respecteren;<br>
 3° een zelfstandige beroepsactiviteit uitoefent niettegenstaande de staking van de bedrijvigheid is gelast of de sluiting van de zaak is bevolen.
