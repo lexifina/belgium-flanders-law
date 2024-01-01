@@ -8,7 +8,13 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 22 december 1993 houden
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° omkaderingssector van land- en tuinbouw: het geheel van bedrijven, verenigingen en instellingen die hetzij als natuurlijke persoon, hetzij als rechtspersoon, een dienstverlenende bijdrage leveren tot de ontwikkeling van de land- en tuinbouwsector of tot de begeleiding van activiteiten op land- en tuinbouwbedrijven; <br />2° kandidaat-begunstigde: een bedrijf, vereniging of instelling als vermeld in punt 1°;<br />3° rechtspersoon: een handelsvennootschap als vermeld in artikel 2, § 2, van Boek I, Titel I, van de wet van 7 mei 1999 houdende het wetboek van vennootschappen of een vereniging zonder winstoogmerk als vermeld in artikel 1 van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen; <br />4° oproep: de oproep bij ministeriële omzendbrief aan de kandidaat-begunstigden tot indiening van een steunaanvraag;<br />5° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br />6° steun: een financiële tegemoetkoming onder de vorm van een kapitaalpremie voor investeringen.<br />
+In dit besluit wordt verstaan onder :<br>
+1° omkaderingssector van land- en tuinbouw: het geheel van bedrijven, verenigingen en instellingen die hetzij als natuurlijke persoon, hetzij als rechtspersoon, een dienstverlenende bijdrage leveren tot de ontwikkeling van de land- en tuinbouwsector of tot de begeleiding van activiteiten op land- en tuinbouwbedrijven;<br>
+2° kandidaat-begunstigde: een bedrijf, vereniging of instelling als vermeld in punt 1°;<br>
+3° rechtspersoon: een handelsvennootschap als vermeld in artikel 2, § 2, van Boek I, Titel I, van de wet van 7 mei 1999 houdende het wetboek van vennootschappen of een vereniging zonder winstoogmerk als vermeld in artikel 1 van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
+4° oproep: de oproep bij ministeriële omzendbrief aan de kandidaat-begunstigden tot indiening van een steunaanvraag;<br>
+5° de minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
+6° steun: een financiële tegemoetkoming onder de vorm van een kapitaalpremie voor investeringen.
 
 ## HOOFDSTUK II. Steun aan investeringen in de omkaderingssector van land- en tuinbouw
 
