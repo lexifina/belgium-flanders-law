@@ -250,7 +250,7 @@ Artikel 192 van hetzelfde decreet, gewijzigd bij de decreten van 10 juli 2003, 7
 
 ### ART 20.
 
-AGION wordt er toe gemachtigd verbintenissen aan te gaan voor huursubsidies voor een totaal van maximaal 25.200.000 euro subsidie per jaar.<br>
+AGION wordt er toe gemachtigd verbintenissen aan te gaan voor huursubsidies voor een totaal van maximaal 30.200.000 euro subsidie per jaar.<br>
 <br>
 Dit bedrag wordt gekoppeld aan de consumptieprijsindex van december 2016, basis 2013, en wordt jaarlijks op 1 januari berekend.
 
