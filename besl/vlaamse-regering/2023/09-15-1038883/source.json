@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038883,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot oprichting van een intern verzelfstandigd agentschap “Landbouw en Zeevisserij”",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038883/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "3d69f91f6376f97dba4b8de86bc24c42cb90b5a221b15ab79086b0674372b696",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038883&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-09-15",
+  "gazette": "2023-10-25",
+  "numac": 2023046321,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
