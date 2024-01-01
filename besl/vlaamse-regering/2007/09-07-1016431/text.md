@@ -9,7 +9,7 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 ### ART. 1.
 
 <p>In dit besluit wordt verstaan onder :<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° ILVO : het Instituut voor Landbouw- en Visserijonderzoek;<br>
 3° koper: een onderneming die rauwe melk koopt bij een melkproductiebedrijf om die rauwe melk in het kader van een contract in te zamelen, te verpakken, op te slaan, te koelen of te verwerken, of door te verkopen aan een of meer ondernemingen die melk of andere zuivelproducten behandelen of verwerken;<br>
 4° ladingsverrichting : de fysieke overbrenging van een hoeveelheid melk vanuit een koeltank van de producent naar een erkende RMO met behulp van een pompsysteem dat op de RMO geplaatst is;<br>
