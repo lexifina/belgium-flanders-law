@@ -2,16 +2,16 @@
   "codex_id": 1038007,
   "title": "Besluit van de Vlaamse Regering van 2022-12-16 over de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen, en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038007/VolledigDocument?datum=2023-04-24",
-  "source_sha256": "219739e95e1fc9fa94579e0ad7d9cdc2a967ef177b3bbe35fed738efc7d41969",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038007/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "13a818f874becb81d488f4b3afc960bd130dda09b555c9aa902ec1f57226ccc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038007&param=informatie",
-  "as_of": "2023-04-24",
+  "as_of": "2024-01-01",
   "made": "2022-12-16",
   "gazette": "2023-04-14",
   "numac": 2023015112,
   "document_start": "2023-04-24",
   "document_end": "2026-02-25",
-  "in_force": "2023-04-24",
+  "in_force": "2024-01-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2023-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

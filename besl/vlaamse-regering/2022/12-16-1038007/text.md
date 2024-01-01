@@ -35,7 +35,7 @@ Dit besluit voorziet in de uitvoering van:<br>
 In dit besluit wordt verstaan onder:<br>
 1° beschermde oorsprongsbenaming: een oorsprongsbenaming die geregistreerd is door de Europese Commissie overeenkomstig artikel 52 en die beschermd is als vermeld in artikel 13 van verordening (EU) nr. 1151/2012;<br>
 2° beschermde geografische aanduiding: een geografische aanduiding die geregistreerd is door de Europese Commissie overeenkomstig artikel 52 en die beschermd is als vermeld in artikel 13 van verordening (EU) nr. 1151/2012;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° enig document: het enig document, vermeld in artikel 8, lid 1, van verordening (EU) nr. 1151/2012;<br>
 5° gegarandeerde traditionele specialiteit: de gegarandeerde traditionele specialiteit, vermeld in artikel 18, lid 1, van verordening (EU) nr. 1151/2012;<br>
 6° geografische aanduiding: een geografische aanduiding als vermeld in artikel 5, lid 2, van verordening (EU) nr. 1151/2012;<br>
