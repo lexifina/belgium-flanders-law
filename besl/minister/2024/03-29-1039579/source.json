@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039579,
+  "title": "Ministerieel besluit van 2024-03-29 tot vastlegging van het totale aantal subsidiabele uren gastopvang voor de erkende diensten voor gastopvang en tot bepaling van het maximale aantal subsidiabele uren gastopvang per erkende dienst voor het werkjaar 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039579/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "ce4716626263d19394cf734f7ccae519191646118ab0aaf9404a21341a77eef3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039579&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-03-29",
+  "gazette": "2024-04-22",
+  "numac": 2024003320,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
