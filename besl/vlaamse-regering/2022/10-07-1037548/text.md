@@ -33,9 +33,10 @@ In dit besluit wordt verstaan onder:<br>
 1° aquacultuur: de aquacultuur, vermeld in artikel 2, 1°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 2° Belgische deel van de Noordzee: de Belgische territoriale zee, vermeld in artikel 1 van de wet van 6 oktober 1987 tot bepaling van de breedte van de territoriale zee van België, en de Belgische exclusieve economische zone in de Noordzee, vermeld in artikel 3 van de wet van 22 april 1999 betreffende de exclusieve economische zone van België in de Noordzee;<br>
 3° Belgische vissershavens: de havens van Nieuwpoort, Oostende en Zeebrugge;<br>
-4° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 5° brancheorganisatie: de brancheorganisatie, vermeld in artikel 11, 12 en 13 van verordening (EU) nr. 1379/2013;<br>
 6° marktdeelnemer: een natuurlijk persoon of rechtspersoon die een bedrijf in de visserij- of aquacultuursector, dat actief is in de voedselketen, bezit of exploiteert, en van wie de activiteiten gericht zijn op een onderdeel van de productie-, verwerkings-, afzet-, distributie- en detailhandelsketen voor visserij- of aquacultuurproducten;<br>
+6°/1 minister: de Vlaamse minister, bevoegd voor de zeevisserij;<br>
 7° producentenorganisatie: de producentenorganisatie, vermeld in artikel 6, 7 en 8 van verordening (EU) nr. 1379/2013;<br>
 8° verordening (EU) nr. 1379/2013: verordening (EU) nr. 1379/2013 van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten, tot wijziging van Verordeningen (EG) nr. 1184/2006 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordening (EG) nr. 104/2000 van de Raad.
 
