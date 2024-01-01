@@ -2,16 +2,16 @@
   "codex_id": 1023500,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 houdende de subsidiëring van bedrijfsadvisering in de biologische landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023500/VolledigDocument?datum=2019-04-01",
-  "source_sha256": "f49fcb59d214b7ea6e39169e2722f10646784dd25f8e0ecf05e76d03e259b241",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023500/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "f490ce72a414709d4b2ec0d12a1363060ee2579bb556c033547db1dd3b58f303",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023500&param=informatie",
-  "as_of": "2019-04-01",
+  "as_of": "2024-01-01",
   "made": "2013-11-08",
   "gazette": "2013-12-23",
   "numac": 2013036099,
   "document_start": "2014-04-01",
   "document_end": "2023-12-31",
-  "in_force": "2019-04-01",
+  "in_force": "2024-01-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
