@@ -21,7 +21,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° Departement Landbouw en Visserij: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° monitoringcomité, afgekort comité: het monitoringcomité, vermeld in artikel 3;<br>
 3° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 4° verordening (EU) nr. 1303/2013: verordening (EU) nr. 1303/2013 van het Europees Parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad;<br>
@@ -43,7 +43,7 @@ Het comité valt onder de bevoegdheid van de minister.
 
 ### ART 4.
 
-§1. Het Departement Landbouw en Visserij wordt aangewezen als de beheersautoriteit GLB-SP als vermeld in artikel 123 van verordening (EU) 2021/2115.<br>
+§1. De bevoegde entiteit wordt aangewezen als de beheersautoriteit GLB-SP als vermeld in artikel 123 van verordening (EU) 2021/2115.<br>
 <br>
 §2. Het comité is samengesteld uit de volgende leden:<br>
 1° één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister, bevoegd voor de landbouw;<br>
@@ -55,7 +55,7 @@ Het comité valt onder de bevoegdheid van de minister.
 7° één vertegenwoordiger die wordt voorgedragen door de beheersautoriteit GLB-SP;<br>
 8° één vertegenwoordiger die wordt voorgedragen door het Vlaams Betaalorgaan;<br>
 9° één vertegenwoordiger die wordt voorgedragen door het Vlaams Ruraal netwerk;<br>
-10° één vertegenwoordiger die wordt voorgedragen door het Departement Landbouw en Visserij;&nbsp;<br>
+10° één vertegenwoordiger die wordt voorgedragen door de bevoegde entiteit;&nbsp;<br>
 11° één vertegenwoordiger die wordt voorgedragen door het Agentschap Natuur en Bos;<br>
 12° één vertegenwoordiger die wordt voorgedragen door de Vlaamse Landmaatschappij;<br>
 13° één vertegenwoordiger die wordt voorgedragen door het Departement Omgeving;<br>
