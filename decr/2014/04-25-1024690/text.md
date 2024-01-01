@@ -804,23 +804,40 @@ De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van het wijzige
 
 ### ART. 75.
 
-<p>De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich moet nemen.<br>
+<p>§ 1. De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden.<br>
 <br>
-De bevoegde overheid neemt de lasten die de gemeenteraad heeft opgelegd bij de beslissing over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, vermeld in artikel 31, integraal op in de vergunning.<br>
+De bevoegde overheid neemt de volgende lasten op bij een omgevingsvergunning:<br>
+1° de lasten die de gemeenteraad heeft opgelegd bij de beslissing over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, vermeld in artikel 31;<br>
+2° de lasten met het oog op de verwezenlijking van een bescheiden woonaanbod als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 5.100 van de Vlaamse Codex Wonen van 2021;<br>
+3° de lasten die de gemeenteraad met toepassing van artikel 5.6.11, § 4, van de Vlaamse Codex Ruimtelijke Ordening heeft opgelegd bij de volledige of gedeeltelijke vrijgave van een woonreservegebied;<br>
+4° de lasten bij toepassing van de volgende afwijkingsregels van stedenbouwkundige voorschriften van titel 4, hoofdstuk 4, van de Vlaamse Codex Ruimtelijke Ordening:<br>
+a) de afwerkingsregel conform artikel 4.4.3 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+b) de basisrechten voor zonevreemde constructies conform artikel 4.4.10 tot 4.4.20 van dezelfde codex;<br>
+c) de zonevreemde functiewijzigingen conform artikel 4.4.23 van dezelfde codex.<br>
 <br>
-Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder meer betrekking hebben op:<br>
-1° de verwezenlijking of de renovatie van groene ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur met het oog op een verbetering van de mobiliteit, nutsvoorzieningen of woningen op kosten van de vergunninghouder. Vooraleer lasten op te leggen met betrekking tot nutsvoorzieningen worden de nutsmaatschappijen die actief zijn in de gemeente waarin het voorwerp van de vergunning gelegen is, door de bevoegde overheid,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde om advies verzocht. Hierbij wordt gestreefd naar het gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van deze aanleg maximaal wordt beperkt;<br>
-2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt.<br>
+§ 2. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich neemt.<br>
 <br>
-Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd.<br>
+De lasten zijn redelijk in verhouding tot het vergunde project. Ze kunnen worden verwezenlijkt door toedoen van de aanvrager.<br>
 <br>
-Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 5.100 van de Vlaamse Codex Wonen van 2021, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.<br>
+De bevoegde overheid kan een gefaseerde uitvoering van de lasten voorschrijven.<br>
 <br>
-Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de lasten afzonderlijk.</p>
+§ 3. De lasten, vermeld in paragraaf 1, kunnen betrekking hebben op:<br>
+1° de verwezenlijking of de renovatie van groene ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur om de mobiliteit, nutsvoorzieningen of woningen op kosten van de vergunninghouder te verbeteren. Vóór er lasten voor nutsvoorzieningen worden opgelegd, vraagt de bevoegde overheid, de ambtenaar die ze gemachtigd heeft of in voorkomend geval de gemeentelijke omgevingsambtenaar advies aan de nutsmaatschappijen die actief zijn in de gemeente waarin het voorwerp van de vergunning ligt. Daarbij wordt gestreefd naar het gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van die aanleg zo veel mogelijk wordt beperkt;<br>
+2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt;<br>
+3° de gratis, vrij en onbelaste grondafstand bij eigendomsoverdracht van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd;<br>
+4° de storting van een geldwaarde, bestemd voor het ruimtelijk beleid, op voorwaarde dat dit geregeld wordt in een stedenbouwkundige verordening als vermeld in artikel 2.3.1 en 2.3.2 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+§ 4. De lasten in natura, vermeld in paragraaf 3, 1° tot en met 3°, bevinden zich in of in de nabijheid van projecten die de lasten doen ontstaan. Ze worden in de vergunning bepaald op basis van de aard en de te verwachten gevolgen van het project.<br>
+<br>
+De inkomsten van de financiële lasten, vermeld in paragraaf 3, 4°, worden door de bevoegde overheid aangewend voor het ruimtelijk beleid. De bevoegde overheid bewerkstelligt bij de opmaak van haar begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten bestemd wordt binnen het ruimtelijke beleid, zoals in het bijzonder het voldoen van planschadevergoedingen en de aanwending van het instrument planologische ruil. Onder planologische ruil wordt verstaan: de omwisseling van gebiedsbestemmingen vanuit een samenhangende visie op de duurzame ruimtelijke ordening van het volledige plangebied.<br>
+<br>
+De bevoegde overheid kan beslissen om de bedragen van de lasten van meerdere vergunningen aan te wenden om gelijke handelingen en werken te verwezenlijken, als geen enkele bijdrage afzonderlijk zou volstaan om de verwezenlijking ervan volledig te financieren.<br>
+<br>
+§ 5. Bij een overdracht van een omgevingsvergunning blijft de overdragende partij gehouden tot de goede uitvoering van de lasten totdat de overdracht gerealiseerd is, waarop de nieuwe vergunninghouder vervolgens gehouden is de lasten uit te voeren.</p>
 
 ### ART. 76.
 
-<P>&nbsp;De lasten zijn redelijk in verhouding tot het vergunde project. Ze   kunnen worden verwezenlijkt door toedoen van de aanvrager.<BR></P>  <P>De bevoegde overheid kan een gefaseerde uitvoering van de lasten   voorschrijven.<BR></P>
+<p>...</p>
 
 ### ART 76/1.
 
@@ -831,7 +848,23 @@ De ontvangsten uit financiële lasten, vermeld in artikel 75, verbonden aan een 
 
 ### ART. 77.
 
-Als een last als vermeld in artikel 75 niet is uitgevoerd binnen de   daarvoor gestelde termijn en niet of onvoldoende gedekt is door een financiële   waarborg, kan de schuldeiser van de last per beveiligde zending een beslissing   tot toepassing van bestuursdwang betekenen aan de schuldenaar van de last. De   beslissing vermeldt dat de toepassing van bestuursdwang op kosten van de   schuldenaar van de last plaatsvindt. In de beslissing wordt een termijn gesteld   waarbinnen de schuldenaar van de last de tenuitvoerlegging kan voorkomen door de   last alsnog uit te voeren. Als niet tot tijdige uitvoering wordt overgegaan, kan   de schuldeiser van de last ambtshalve in de uitvoering van de lasten voorzien.   De schuldenaar van de last is verplicht alle uitvoeringskosten te vergoeden, op   voorlegging van een staat, opgesteld door de schuldeiser van de   last.<BR>
+§ 1. Voor de lasten in natura, vermeld in artikel 75, § 3, 1° tot en met 3°, verleent de houder van de vergunning die daarop betrekking heeft, een financiële waarborg vóór er met de werken gestart wordt.<br>
+<br>
+De waarborg dekt de volledige geraamde kostprijs van de lasten, vermeld in het eerste lid, behalve als kan worden vastgesteld dat de financiële toestand van de begunstigde van de vergunning dat niet toelaat. De bevoegde overheid kan die dekking verminderen tot een niveau dat aanvaardbaar is voor de financiële toestand van de begunstigde van de vergunning, maar de waarborg mag niet kleiner zijn dan de helft van de geraamde kosten van de lasten.<br>
+<br>
+De waarborg kan worden geleverd met een borgstelling via een overschrijving op de Deposito- en Consignatiekas of door een financiële instelling borg te laten staan voor het bedrag van het project.<br>
+<br>
+De waarborg kan worden vrijgemaakt naarmate de als lasten opgelegde handelingen en werken worden uitgevoerd, in verhouding tot de investeringen die in het kader van de lasten al zijn verricht, tegen maximaal 60% van de totale waarde, waarbij het saldo pas wordt vrijgemaakt als de bevoegde overheid of haar gemachtigde die handelingen en werken voorlopig opgeleverd heeft.<br>
+<br>
+§ 2. Als de uitvoering van diverse lasten financieel wordt gewaarborgd, hanteert de bevoegde overheid één waarborg voor de totaliteit van de lasten in kwestie, waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elke last afzonderlijk.<br>
+<br>
+§ 3. Bij een overdracht van een vergunning blijft de overdragende partij ertoe gehouden borg te staan voor de goede uitvoering van de lasten totdat de nieuwe houder van de vergunning de bevoegde overheid een financiële waarborg heeft geleverd die gelijk is aan de waarborg, vermeld in paragraaf 1.<br>
+<br>
+§ 4. De waarborg is in de volgende gevallen opeisbaar of van rechtswege door de bevoegde overheid verworven ten belope van de waarde van de lasten die nog niet uitgevoerd zijn:<br>
+1° bij niet-naleving van de uitvoeringstermijnen voor de lasten, vermeld in de definitief uitvoerbare vergunning, waartegen geen beroep meer mogelijk is bij de Raad voor Vergunningsbetwistingen;<br>
+2° als de vergunning waarvoor lasten werden opgelegd, vervalt na gedeeltelijk te zijn uitgevoerd.<br>
+<br>
+§ 5. De waarborg kan zonder uitvoering van de lasten alleen worden vrijgemaakt als de vergunning waarvoor de lasten werden opgelegd, vervallen is en het project niet of zelfs niet gedeeltelijk werd uitgevoerd.
 
 ## Afdeling 2 Zakelijk karakter
 
@@ -1028,7 +1061,8 @@ De Vlaamse Regering kan nadere regels bepalen voor de schorsing of   opheffing v
 2° als het uitvoeren van de vergunde stedenbouwkundige handelingen meer dan drie opeenvolgende jaren wordt onderbroken;<br>
 3° als de vergunde gebouwen niet winddicht zijn binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning;<br>
 4° als de exploitatie van de vergunde activiteit of inrichting niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangt;<br>
-5° als de kleinhandelsactiviteiten niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangen.<br>
+5° als de kleinhandelsactiviteiten niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangen;<br>
+6° als de lasten die in de omgevingsvergunning zijn opgelegd niet zijn uitgevoerd binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning voor stedenbouwkundige handelingen.<br>
 <br>
 De termijn, vermeld in het eerste lid, 1°, kan evenwel, op verzoek van de vergunninghouder, voor een periode van twee jaar verlengd worden als hij aantoont dat de niet-verwezenlijking het gevolg is van een vreemde oorzaak die hem niet kan worden toegerekend. De vergunninghouder dient de aanvraag van de verlenging, op straffe van verval, met een beveiligde zending en minstens drie maanden vóór het verstrijken van de oorspronkelijke vervaltermijn van twee jaar in bij de overheid die de vergunning heeft verleend. Die overheid weigert de aanvraag van de verlenging alleen als:<br>
 1° er geen sprake is van een vreemde oorzaak die niet aan de vergunninghouder kan worden toegerekend;<br>
@@ -1073,7 +1107,33 @@ De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend g
 
 ### ART. 102.
 
-<P>§ 1. Een omgevingsvergunning voor het verkavelen van gronden waarbij geen   nieuwe wegen worden aangelegd of het tracé van bestaande gemeentewegen niet moet   worden gewijzigd, verbreed of opgeheven, vervalt van rechtswege als:<BR>1°   binnen een termijn van vijf jaar na de afgifte van de definitieve   omgevingsvergunning niet is overgegaan tot registratie van de verkoop, de   verhuring voor meer dan negen jaar of de vestiging van erfpacht of opstalrecht   ten aanzien van ten minste één derde van de kavels;<BR>2° binnen een termijn van   tien jaar na de afgifte van de definitieve omgevingsvergunning niet is   overgegaan tot dergelijke registratie ten aanzien van ten minste twee derde van   de kavels.<BR></P>  <P>Voor de toepassing van het eerste lid:<BR>1° wordt met verkoop gelijkgesteld:   de nalatenschapsverdeling en de schenking, met dien verstande dat slechts één   kavel per deelgenoot of begunstigde in aanmerking komt;<BR>2° komt de verkoop,   de verhuring voor meer dan negen jaar, of de vestiging van erfpacht of   opstalrecht van de verkaveling in haar geheel niet in aanmerking;<BR>3° komt   alleen de huur die erop gericht is de huurder te laten bouwen op het gehuurde   goed in aanmerking.<BR></P>  <P>Voor de toepassing van het eerste lid wordt tijdige bebouwing door de   verkavelaar conform de omgevingsvergunning voor het verkavelen van gronden, met   verkoop gelijkgesteld.<BR></P>  <P>§ 2. Een omgevingsvergunning voor het verkavelen van gronden waarbij nieuwe   wegen worden aangelegd of waarbij het tracé van bestaande gemeentewegen   gewijzigd, verbreed of opgeheven wordt, vervalt van rechtswege als:<BR>1° binnen   een termijn van vijf jaar na de afgifte van de definitieve omgevingsvergunning   niet is overgegaan tot de oplevering van de onmiddellijk uit te voeren lasten of   tot het verschaffen van waarborgen betreffende de uitvoering van deze lasten op   de wijze, vermeld in artikel 75;<BR>2° binnen een termijn van tien jaar na de   afgifte van de definitieve omgevingsvergunning niet is overgegaan tot   registratie van de in paragraaf 1 vermelde rechtshandelingen ten aanzien van ten   minste één derde van de kavels;<BR>3° binnen een termijn van vijftien jaar na de   afgifte van de definitieve omgevingsvergunning niet is overgegaan tot   registratie van de in paragraaf 1 vermelde rechtshandelingen ten aanzien van ten   minste twee derde van de kavels.<BR></P>  <P>Voor de toepassing van het eerste lid wordt tijdige bebouwing door de   verkavelaar conform de omgevingsvergunning voor het verkavelen van gronden, met   verkoop gelijkgesteld.<BR></P>  <P>§ 3. Als de omgevingsvergunning voor het verkavelen van gronden uitdrukkelijk   melding maakt van de verschillende fasen van het verkavelingsproject, worden de   termijnen van verval, vermeld in de paragrafen 1 tot en met 2, gerekend per   fase. Voor de tweede en volgende fasen worden de termijnen van verval   dientengevolge gerekend vanaf de aanvangsdatum van de betrokken fase.<BR></P>  <P>§ 4. Het verval, vermeld in paragraaf 1 en 2, 2° en 3°, geldt slechts ten   aanzien van het niet bebouwde, verkochte, verhuurde of aan een erfpacht of   opstalrecht onderworpen gedeelte van de verkaveling.<BR></P>  <P>§ 5. Onverminderd paragraaf 4, kan het verval van rechtswege niet worden   tegengesteld aan personen die zich op de omgevingsvergunning voor het verkavelen   van gronden beroepen als zij kunnen aantonen dat de overheid na het verval en   ten aanzien van een of meer van hun kavels binnen de verkaveling, wijzigingen   aan deze omgevingsvergunning heeft toegestaan of stedenbouwkundige of   bouwvergunningen of stedenbouwkundige attesten heeft verleend in zoverre deze   door de hogere overheid of de rechter niet onrechtmatig werden bevonden.<BR></P>  <P>§ 6. De Vlaamse Regering kan maatregelen treffen aangaande de kennisgeving   van het verval van rechtswege.<BR></P>
+<p>§ 1. Een omgevingsvergunning voor het verkavelen van gronden waarbij geen nieuwe wegen worden aangelegd of het tracé van bestaande gemeentewegen niet moet worden gewijzigd, verbreed of opgeheven, vervalt van rechtswege als:<br>
+1° binnen een termijn van vijf jaar na de afgifte van de definitieve omgevingsvergunning niet is overgegaan tot registratie van de verkoop, de verhuring voor meer dan negen jaar of de vestiging van erfpacht of opstalrecht ten aanzien van ten minste één derde van de kavels;<br>
+2° binnen een termijn van tien jaar na de afgifte van de definitieve omgevingsvergunning niet is overgegaan tot dergelijke registratie ten aanzien van ten minste twee derde van de kavels;<br>
+3° binnen een termijn van tien jaar na de afgifte van de definitieve omgevingsvergunning de lasten die in de omgevingsvergunning zijn opgelegd niet zijn uitgevoerd.</p>
+
+<p>Voor de toepassing van het eerste lid:<br>
+1° wordt met verkoop gelijkgesteld: de nalatenschapsverdeling en de schenking, met dien verstande dat slechts één kavel per deelgenoot of begunstigde in aanmerking komt;<br>
+2° komt de verkoop, de verhuring voor meer dan negen jaar, of de vestiging van erfpacht of opstalrecht van de verkaveling in haar geheel niet in aanmerking;<br>
+3° komt alleen de huur die erop gericht is de huurder te laten bouwen op het gehuurde goed in aanmerking.</p>
+
+<p>Voor de toepassing van het eerste lid wordt tijdige bebouwing door de verkavelaar conform de omgevingsvergunning voor het verkavelen van gronden, met verkoop gelijkgesteld.</p>
+
+<p>§ 2. Een omgevingsvergunning voor het verkavelen van gronden waarbij nieuwe wegen worden aangelegd of waarbij het tracé van bestaande gemeentewegen gewijzigd, verbreed of opgeheven wordt, vervalt van rechtswege als:<br>
+1° binnen een termijn van vijf jaar na de afgifte van de definitieve omgevingsvergunning niet is overgegaan tot de oplevering van de onmiddellijk uit te voeren lasten of tot het verschaffen van waarborgen betreffende de uitvoering van deze lasten op de wijze, vermeld in artikel 77;<br>
+2° binnen een termijn van tien jaar na de afgifte van de definitieve omgevingsvergunning niet is overgegaan tot registratie van de in paragraaf 1 vermelde rechtshandelingen ten aanzien van ten minste één derde van de kavels;<br>
+3° binnen een termijn van vijftien jaar na de afgifte van de definitieve omgevingsvergunning niet is overgegaan tot registratie van de in paragraaf 1 vermelde rechtshandelingen ten aanzien van ten minste twee derde van de kavels;<br>
+4° binnen een termijn van vijftien jaar na de afgifte van de definitieve omgevingsvergunning de lasten die in de omgevingsvergunning zijn opgelegd niet zijn uitgevoerd.</p>
+
+<p>Voor de toepassing van het eerste lid wordt tijdige bebouwing door de verkavelaar conform de omgevingsvergunning voor het verkavelen van gronden, met verkoop gelijkgesteld.</p>
+
+<p>§ 3. Als de omgevingsvergunning voor het verkavelen van gronden uitdrukkelijk melding maakt van de verschillende fasen van het verkavelingsproject, worden de termijnen van verval, vermeld in de paragrafen 1 tot en met 2, gerekend per fase. Voor de tweede en volgende fasen worden de termijnen van verval dientengevolge gerekend vanaf de aanvangsdatum van de betrokken fase.</p>
+
+<p>§ 4. Het verval, vermeld in paragraaf 1 en 2, 2°, 3° en 4°, geldt slechts ten aanzien van het niet bebouwde, verkochte, verhuurde of aan een erfpacht of opstalrecht onderworpen gedeelte van de verkaveling.</p>
+
+<p>§ 5. Onverminderd paragraaf 4, kan het verval van rechtswege niet worden tegengesteld aan personen die zich op de omgevingsvergunning voor het verkavelen van gronden beroepen als zij kunnen aantonen dat de overheid na het verval en ten aanzien van een of meer van hun kavels binnen de verkaveling, wijzigingen aan deze omgevingsvergunning heeft toegestaan of stedenbouwkundige of bouwvergunningen of stedenbouwkundige attesten heeft verleend in zoverre deze door de hogere overheid of de rechter niet onrechtmatig werden bevonden.</p>
+
+<p>§ 6. De Vlaamse Regering kan maatregelen treffen aangaande de kennisgeving van het verval van rechtswege.</p>
 
 ### ART. 103.
 
