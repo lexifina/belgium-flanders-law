@@ -48,19 +48,21 @@ Het gemeentebestuur en het stadsdistrictsbestuur voorzien respectievelijk de gem
 
 ### ART. 9.
 
-§ 1. Met behoud van de toepassing van artikel 98 van het Lokaal en Provinciaal Kiesdecreet en zodra de kandidatenlijsten definitief zijn afgesloten of, in geval van beroep, zodra de hoofdbureaus hebben kennisgenomen van de beslissing van het hof van beroep, sturen de voorzitters van het gemeentelijk hoofdbureau, het stadsdistrictshoofdbureau en het provinciedistrictshoofdbureau die lijsten en het nummer dat eraan toegekend is, naar de Vlaamse Regering.<br>
+§1. Met behoud van de toepassing van artikel 98 van het Lokaal en Provinciaal Kiesdecreet en zodra de kandidatenlijsten definitief zijn afgesloten of, in geval van beroep, zodra de hoofdbureaus hebben kennisgenomen van de beslissing van het hof van beroep, sturen de voorzitters van het gemeentelijk hoofdbureau, het stadsdistrictshoofdbureau en het provinciedistrictshoofdbureau die lijsten en het nummer dat eraan toegekend is, naar de Vlaamse Regering.<br>
 <br>
 De gegevens, vermeld in het eerste lid, worden op digitale wijze en ondertekend verstuurd met de verkiezingssoftware, vermeld in artikel 4, § 2.<br>
 <br>
-§ 2. De Vlaamse Regering legt de afdrukken waarop de volgnummers en de lijstnamen van de voorgedragen lijsten voorkomen, en de afdrukken waarop de namen van de kandidaten voorkomen, zoals ze op het beeldscherm van de stemcomputers zullen verschijnen, ter goedkeuring voor aan de voorzitters van de hoofdbureaus, vermeld in paragraaf 1. Elke voorzitter brengt, indien nodig, de verbeteringen aan op de documenten, valideert de documenten door ze te ondertekenen en stuurt de gevalideerde documenten terug naar de Vlaamse Regering.<br>
+§2. De Vlaamse Regering legt de afdrukken waarop de volgnummers en de lijstnamen van de voorgedragen lijsten voorkomen, en de afdrukken waarop de namen van de kandidaten voorkomen, zoals ze op het beeldscherm van de stemcomputers zullen verschijnen, ter goedkeuring voor aan de voorzitters van de hoofdbureaus, vermeld in paragraaf 1. Elke voorzitter brengt, indien nodig, de verbeteringen aan op de documenten, valideert de documenten door ze te ondertekenen en stuurt de gevalideerde documenten terug naar de Vlaamse Regering.<br>
 <br>
 Voor de gemeenten, vermeld in artikel 4, § 1, derde lid, legt de Vlaamse Regering de auditieve versie van de voorgedragen lijsten met de namen van de kandidaten zoals ze door de kiezer zullen gehoord worden, ter goedkeuring voor aan de voorzitters van de hoofdbureaus, vermeld in paragraaf 1. Elke voorzitter bezorgt zijn eventuele opmerkingen schriftelijk aan de Vlaamse Regering.<br>
 <br>
-§ 3. De Vlaamse Regering zorgt ervoor dat, uiterlijk de derde dag vóór de dag van de verkiezingen, de gegevensdragers met de software en met de kandidatenlijsten in verzegelde enveloppe, tegen ontvangstbewijs, overhandigd worden aan de voorzitters van de gemeentelijke hoofdbureaus of, in voorkomend geval, de stadsdistrictshoofdbureaus.<br>
+§3. De Vlaamse Regering zorgt ervoor dat, uiterlijk de derde dag vóór de dag van de verkiezingen, de gegevensdragers met de software en met de kandidatenlijsten in verzegelde enveloppe, tegen ontvangstbewijs, overhandigd worden aan de voorzitters van de gemeentelijke hoofdbureaus of, in voorkomend geval, de stadsdistrictshoofdbureaus.<br>
 <br>
 Per stembureau worden de nodige veiligheidselementen voor het gebruik van de gegevensdragers in een aparte verzegelde enveloppe, tegen ontvangstbewijs, overhandigd aan de voorzitters van de hoofdbureaus, vermeld in het eerste lid.<br>
 <br>
-Op zijn vroegst de dag vóór de dag van de verkiezingen overhandigt de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, van het stadsdistrictshoofdbureau aan elke voorzitter van het stembureau, tegen ontvangstbewijs, de enveloppen, vermeld in het eerste en tweede lid, die voor hem bestemd zijn.
+Op zijn vroegst de dag vóór de dag van de verkiezingen overhandigt de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, van het stadsdistrictshoofdbureau aan elke voorzitter van het stembureau, tegen ontvangstbewijs, de enveloppen, vermeld in het eerste en tweede lid, die voor hem bestemd zijn.<br>
+<br>
+§4. De Vlaamse Regering wijst de entiteit aan die optreedt als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van de persoonsgegevens die de Vlaamse Regering ontvangt conform paragraaf 1 tot en met 3.
 
 ### ART. 10.
 
@@ -75,9 +77,7 @@ Elk stemhokje van het stemlokaal is uitgerust met een stemcomputer. In elk steml
 <br>
 De Vlaamse Regering bepaalt de regels volgens dewelke de kandidaten van een kandidatenlijst op het beeldscherm van de stemcomputer worden getoond.<br>
 <br>
-In afwijking van artikel 123, § 2, van het Lokaal en Provinciaal Kiesdecreet is er ten minste één stemhokje per&nbsp;tweehonderd kiezers.<br>
-<br>
-In elk stemlokaal worden alle kandidatenlijsten voor elk van de verkiezingen opgehangen op een daarvoor bestemd bord. Die lijsten worden ook opgehangen in elk stemhokje.<br>
+In elk stemlokaal worden alle kandidatenlijsten voor elk van de verkiezingen opgehangen op een daarvoor bestemd bord.&nbsp;<br>
 <br>
 Met behoud van de toepassing van artikel 125 van het Lokaal en Provinciaal Kiesdecreet wordt een exemplaar van dit decreet in het stemlokaal ter inzage gelegd.
 
@@ -99,11 +99,25 @@ De kosten voor technische bijstand op de dag van de lokale en provinciale verkie
 3° de opstelling van de apparatuur in de stembureaus;<br>
 4° de logistieke verbruiksgoederen die nodig zijn op de dag van de verkiezingen;<br>
 5° hulp bij het gebruik van de apparatuur door de bureauleden;<br>
-6° de coördinatie van het melden en het oplossen van technische problemen vóór en op de verkiezingsdag.
+6° de coördinatie van het melden en het oplossen van technische problemen vóór en op de verkiezingsdag.<br>
+<br>
+Het personeelslid, vermeld in het eerste lid, deelt binnen 24 uur na zijn aanwijzing aan het agentschap, opgericht bij het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap “Agentschap Binnenlands Bestuur”, zijn voor- en achternaam, rijksregisternummer, e-mailadres en telefoonnummer mee, zodat het agentschap met hem contact kan opnemen als dat nodig is voor de verkiezingsorganisatie en zodat een authenticatie van deze persoon mogelijk is om hem toegang te verlenen tot de digitale verkiezingsapplicaties die hem ter beschikking worden gesteld voor de uitoefening van zijn functie. De voormelde gegevens worden bewaard tot de dag van de verkiezingen.
 
 ### ART. 12.
 
-§ 1. Het Vlaams Parlement kan een college van deskundigen aanwijzen dat bestaat uit ten minste twee effectieve en twee plaatsvervangende deskundigen.<br /><br />§ 2. Tijdens de verkiezingen zien de deskundigen toe op het gebruik, de goede werking en de integriteit van de digitale processen in verband met de kandidaten, de stemming en de zetelverdeling, alsook op de procedures voor de aanmaak, de verspreiding en het gebruik van de apparatuur, de software en de digitale gegevensdragers. De deskundigen ontvangen van de Vlaamse Regering het materiaal, alsook alle gegevens, inlichtingen en informatie die nodig zijn om die opdracht uit te voeren.<br /><br />Ze verrichten de controle vóór de verkiezingsdag, op de verkiezingsdag zelf en na de verkiezingsdag tot de indiening van het verslag, vermeld in paragraaf 3.<br /><br />§ 3. Uiterlijk tien dagen na de dag van de verkiezingen bezorgen ze een verslag aan de Vlaamse Regering en aan het Vlaams Parlement. Hun verslag kan aanbevelingen bevatten in verband met de apparatuur en de software die zijn gebruikt en de procedures die zijn toegepast.<br /><br />§ 4. De deskundigen zijn tot geheimhouding verplicht. Elke schending van de geheimhoudingsplicht, buiten het geval van oproeping om in rechte of voor een parlementaire onderzoekscommissie getuigenis af te leggen en buiten het geval dat de wet verplicht die geheimen bekend te maken, wordt bestraft met een gevangenisstraf van acht dagen tot zes maanden en met een geldboete van honderd euro tot vijfhonderd euro.
+§1. Het Vlaams Parlement stelt een college van ten minste vier deskundigen samen en wijst die deskundigen aan voor een periode van zes jaar, uiterlijk drie maanden vóór de dag van de verkiezingen.<br>
+<br>
+Een van de deskundigen, vermeld in het eerste lid, heeft een licentiaatsdiploma in de rechten of een diploma van master in de rechten. De andere deskundigen zijn informaticaspecialisten.<br>
+<br>
+Als er geen nieuwe deskundigen worden aangewezen conform het eerste lid, blijven de aangewezen deskundigen hun functies uitoefenen zolang er geen nieuwe aanwijzing plaatsvindt. De deskundigen die vervolgens aangewezen worden, oefenen hun functies alleen uit voor de resterende duur van de termijn van zes jaar, vermeld in het eerste lid.<br>
+<br>
+§ 2. Tijdens de verkiezingen zien de deskundigen toe op het gebruik, de goede werking en de integriteit van de digitale processen in verband met de kandidaten, de stemming en de zetelverdeling, alsook op de procedures voor de aanmaak, de verspreiding en het gebruik van de apparatuur, de software en de digitale gegevensdragers. De deskundigen ontvangen van de Vlaamse Regering het materiaal, alsook alle gegevens, inlichtingen en informatie die nodig zijn om die opdracht uit te voeren, en hebben op de verkiezingsdag ook toegang tot de stemlokalen.<br>
+<br>
+Ze verrichten de controle vóór de verkiezingsdag, op de verkiezingsdag zelf en na de verkiezingsdag tot de indiening van het verslag, vermeld in paragraaf 3.<br>
+<br>
+§ 3. Uiterlijk tien dagen na de dag van de verkiezingen bezorgen ze een verslag aan de Vlaamse Regering en aan het Vlaams Parlement. Hun verslag kan aanbevelingen bevatten in verband met de apparatuur en de software die zijn gebruikt en de procedures die zijn toegepast, en ook aanbevelingen over juridische aangelegenheden.<br>
+<br>
+§ 4. De deskundigen zijn tot geheimhouding verplicht. Elke schending van de geheimhoudingsplicht, buiten het geval van oproeping om in rechte of voor een parlementaire onderzoekscommissie getuigenis af te leggen en buiten het geval dat de wet verplicht die geheimen bekend te maken, wordt bestraft met een gevangenisstraf van acht dagen tot zes maanden en met een geldboete van honderd euro tot vijfhonderd euro.
 
 ## HOOFDSTUK 3. Op de verkiezingsdag
 
@@ -123,7 +137,7 @@ In afwijking van artikel 134, eerste lid, van het Lokaal en Provinciaal Kiesdecr
 
 ### ART. 16.
 
-§ 1. In afwijking van artikel 138, § 1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet ontvangt de kiezer van de voorzitter van het stembureau of van een aangewezen bijzitter een chipkaart die de voorzitter of de bijzitter vooraf geïnitieerd heeft en die toelaat eenmaal te stemmen per verkiezing waarvoor de kiezer opgeroepen is.<br>
+§ 1. In afwijking van artikel 138, § 1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet ontvangt de kiezer van de voorzitter van het stembureau of van een aangewezen bijzitter een chipkaart die de voorzitter of de bijzitter vooraf geïnitieerd heeft en die toelaat eenmaal te stemmen per verkiezing waarvoor de kiezer uitgenodigd is.<br>
 <br>
 § 2. Om zijn stem uit te brengen, steekt de kiezer eerst de chipkaart in de stemcomputer.<br>
 <br>
@@ -150,7 +164,7 @@ De kiezer brengt zijn stem uit door het aanraakscherm aan te raken :<br>
 
 ### ART. 17.
 
-§ 1. Als de kiezer voor alle verkiezingen waarvoor hij opgeroepen is, zijn stem heeft uitgebracht, drukt de stemcomputer een papieren stembiljet af waarop de uitgebrachte stem (of de uitgebrachte stemmen) in tekst en in een tweedimensionale barcode is afgedrukt. De kiezer scheurt het stembiljet los van de stemcomputer en verwijdert de chipkaart. De kiezer kan zijn stem op het stembiljet visueel verifiëren en vouwt het biljet in twee gelijke delen met de bedrukte zijde naar binnen. Noch op de stemcomputer noch op de chipkaart worden gegevens over de stem bewaard.<br>
+§ 1. Als de kiezer voor alle verkiezingen waarvoor hij uitgenodigd is, zijn stem heeft uitgebracht, drukt de stemcomputer een papieren stembiljet af waarop de uitgebrachte stem (of de uitgebrachte stemmen) in tekst en in een tweedimensionale barcode is afgedrukt. De kiezer scheurt het stembiljet los van de stemcomputer en verwijdert de chipkaart. De kiezer kan zijn stem op het stembiljet visueel verifiëren en vouwt het biljet in twee gelijke delen met de bedrukte zijde naar binnen. Noch op de stemcomputer noch op de chipkaart worden gegevens over de stem bewaard.<br>
 <br>
 In afwijking van artikel 138, § 3, eerste en tweede lid, van het Lokaal en Provinciaal Kiesdecreet, overhandigt de kiezer de chipkaart aan de voorzitter van het stembureau of aan de door hem aangewezen bijzitter en scant de barcode van het stembiljet. Nadat de voorzitter of de door hem aangewezen bijzitter heeft vastgesteld dat de kiezer de barcode effectief heeft ingescand, vouwt de kiezer het stembiljet opnieuw dicht met de bedrukte zijde naar binnen en deponeert hij het stembiljet in de stembus.<br>
 <br>
@@ -187,7 +201,13 @@ Het proces-verbaal bevat het aantal geregistreerde stemmen per verkiezing. Daarn
 
 ### ART. 22.
 
-De stemgegevens van het stembureau zijn altijd op twee originele, met de computer verbonden gegevensdragers opgeslagen in een versleutelde en onvervalsbare vorm. De gegevens worden op geen enkel ander medium in de voorzitterscomputer opgeslagen dan op die twee gegevensdragers.<br /><br />De twee gegevensdragers worden samen in een enveloppe gestoken met als opschrift de datum van de verkiezing en de identificatie van het stembureau en de bestemmeling. Die enveloppe wordt verzegeld en op de achterkant ondertekend door de voorzitter en de leden van het stembureau. Als de getuigen erom vragen, mogen zij ook hun handtekening plaatsen.<br /><br />De stemgegevens van een individueel stembureau mogen niet bekendgemaakt worden.
+De stemgegevens van het stembureau zijn altijd op twee originele, met de computer verbonden gegevensdragers opgeslagen in een versleutelde en onvervalsbare vorm. De gegevens worden op geen enkel ander medium in de voorzitterscomputer opgeslagen dan op die twee gegevensdragers.<br>
+<br>
+De twee gegevensdragers worden samen in een enveloppe gestoken met als opschrift de datum van de verkiezing en de identificatie van het stembureau en de bestemmeling. Die enveloppe wordt verzegeld en op de achterkant ondertekend door de voorzitter en de leden van het stembureau. Als de getuigen erom vragen, mogen zij ook hun handtekening plaatsen.<br>
+<br>
+Bij digitale stemming maakt de Vlaamse Regering de stemgegevens bekend van de individuele stembureaus waarbij minstens vijfhonderd kiezers hun stem hebben uitgebracht.<br>
+<br>
+De stemgegevens van een individueel stembureau waarbij minder dan vijfhonderd kiezers hun stem uitgebracht hebben, worden niet bekendgemaakt. De bekendmaking van de stemgegevens wordt in dat geval beschouwd als het kenbaar maken van het geheim van de stemming, vermeld in artikel 241 van het Lokaal en Provinciaal Kiesdecreet.
 
 ### ART. 23.
 
@@ -201,7 +221,9 @@ De enveloppen, vermeld in het eerste en tweede lid, worden samen met het procesv
 1° de verzegelde enveloppe met de twee exemplaren van de aanstiplijsten;<br>
 2° de aanstellingsbrieven van de getuigen, vermeld in artikel 116 van het Lokaal en Provinciaal Kiesdecreet;<br>
 3° de volmachten en de bijbehorende attesten, vermeld in artikel 56, § 2, van het Lokaal en Provinciaal Kiesdecreet;<br>
-4° de documenten die de voorzitter heeft ontvangen van de kiezers die niet op de aanstiplijsten stonden, maar die toch hebben gestemd overeenkomstig artikel 137, § 3, van het Lokaal en Provinciaal Kiesdecreet.
+4° de lijst van de kiezers die niet op de aanstiplijsten stonden, maar die toch gestemd hebben, vermeld in artikel 143, eerste lid, 2°, van het Lokaal en Provinciaal Kiesdecreet, en de documenten die de voorzitter van die kiezers heeft ontvangen conform artikel 137, §3, van het voormelde decreet;<br>
+5° de lijst van de kiezers die volmacht hebben uitgeoefend voor een andere kiezer, vermeld in artikel 143, eerste lid, 1°, van het Lokaal en Provinciaal Kiesdecreet;<br>
+6° de lijst met de samenstelling van het stembureau die is bezorgd conform artikel 50, zesde lid, van het Lokaal en Provinciaal Kiesdecreet.
 
 ### ART. 24.
 
@@ -213,7 +235,17 @@ Als de resultaten van alle stembureaus zijn geregistreerd, drukt de voorzitter v
 
 ### ART. 26.
 
-§ 1. In afwijking van artikel 172 van het Lokaal en Provinciaal Kiesdecreet bezorgt de voorzitter van het gemeentelijk hoofdbureau binnen drie dagen na de verkiezing aan de provinciegouverneur de volgende stukken : <br />1° de processen-verbaal van het gemeentelijk hoofdbureau, vermeld in artikel 25, eerste lid, in voorkomend geval aangevuld met de processen-verbaal van de algemene telling van de gemeenteraadsverkiezingen, ontvangen van de voorzitter van de stadsdistrictshoofdbureaus overeenkomstig artikel 162, tweede lid, van het Lokaal en Provinciaal Kiesdecreet;<br />2° de stukken die hem bezorgd zijn overeenkomstig artikel 23.<br /><br />De voorzitter bezorgt de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs.<br /><br />§ 2. In afwijking van artikelen 175 en 176 van het Lokaal en Provinciaal Kiesdecreet bezorgt de voorzitter van het stadsdistrictshoofdbureau binnen drie dagen na de verkiezing aan de provinciegouverneur de volgende stukken : <br />1° de processen-verbaal van het stadsdistrictshoofdbureau, vermeld in artikel 25, tweede lid;<br />2° de stukken die hem bezorgd zijn overeenkomstig artikel 23.<br /><br />De voorzitter bezorgt de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs.
+§ 1. In afwijking van artikel 172 van het Lokaal en Provinciaal Kiesdecreet bezorgt de voorzitter van het gemeentelijk hoofdbureau binnen drie dagen na de verkiezing aan de provinciegouverneur de volgende stukken :<br>
+1° de processen-verbaal van het gemeentelijk hoofdbureau, vermeld in artikel 25, eerste lid, van dit decreet, de processen-verbaal van het gemeentelijk hoofdbureau over de voorlopige en de definitieve afsluiting, samen met de voordrachtsakten, vermeld in artikel 68, §1, van het Lokaal en Provinciaal Kiesdecreet, en de stukken die aan de voorzitter van het gemeentelijk hoofdbureau werden bezorgd overeenkomstig artikel 89, 90 en 91 van het Lokaal en Provinciaal Kiesdecreet;<br>
+2° de stukken die hem bezorgd zijn overeenkomstig artikel 23.<br>
+<br>
+De voorzitter bezorgt de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs.<br>
+<br>
+§ 2. In afwijking van artikelen 175 en 176 van het Lokaal en Provinciaal Kiesdecreet bezorgt de voorzitter van het stadsdistrictshoofdbureau binnen drie dagen na de verkiezing aan de provinciegouverneur de volgende stukken :<br>
+1° de processen-verbaal van het stadsdistrictshoofdbureau, vermeld in artikel 25, tweede lid;<br>
+2° de stukken die hem bezorgd zijn overeenkomstig artikel 23.<br>
+<br>
+De voorzitter bezorgt de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs.
 
 ## HOOFDSTUK 4. Algemene bepalingen
 
