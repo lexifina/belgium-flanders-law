@@ -21,6 +21,19 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 2, §1, van het besluit van de Vlaamse Regering van 28 juni 2002 tot uitvoering van het Titel IV, hoofdstuk II en Titel V, hoofdstuk IV van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, gewijzigd bij de besluiten van de Vlaamse Regering van 27 november 2015, 2 december 2016 en 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden de woorden “de maand met grootste bedrijvigheid van” opgeheven;<br>
+2° in punt 3°, a) en b), worden de woorden ”tijdens de maand met de grootste bedrijvigheid” opgeheven;<br>
+3° aan punt 3° wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+“c) op basis van een schepmonster dat genomen is door de Vlaamse Milieumaatschappij, door de toezichthouder die bevoegd is voor milieuhandhaving, of, in voorkomend geval, in opdracht van de heffingsplichtige;”;<br>
+4° in punt 4° worden punt c) en punt d) vervangen door wat volgt:<br>
+“c) op basis van een schepmonster dat genomen is door de Vlaamse Milieumaatschappij, door de toezichthouder die bevoegd is voor milieuhandhaving, of, in voorkomend geval, in opdracht van de heffingsplichtige;<br>
+d) het gehalte aan zware metalen wordt bepaald na ontsluiting van het watermonster;”;<br>
+5° aan punt 4° wordt een punt e) toegevoegd, dat luidt als volgt:&nbsp;<br>
+“e) als in hetzelfde jaar verschillende monsternemingen worden uitgevoerd, wordt voor elk van de parameters, vermeld in deze paragraaf, het rekenkundig gemiddelde van de verschillende bemonsteringsresultaten in aanmerking genomen;”.
+
 ### ART 2.
 
 In artikel 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 10 juli 2008 en 2 december 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -44,6 +57,21 @@ Voor de toepassing van de berekeningsmethode, vermeld in artikel 4.2.2.3.1 van h
 Als de heffingsplichtige via verschillende lozingspunten loost, worden de monsternemingen, vermeld in het eerste lid, voor al het afvalwater dat uit het productieproces van dezelfde milieutechnische eenheid komt, gelijktijdig uitgevoerd, tenzij de heffingsplichtige schriftelijk aantoont dat de lozingspunten niet met elkaar in verbinding staan.&nbsp;<br>
 De resultaten van de monsternemingen, vermeld in het eerste lid, 1°, kunnen worden gebruikt voor de berekening van de heffing voor het beschouwde heffingsjaar en de twee daaropvolgende jaren. De resultaten van de monsternemingen, vermeld in het eerste lid, 2°, kunnen worden gebruikt voor de berekening van de heffing voor het beschouwde heffingsjaar en het daaropvolgende jaar.&nbsp;<br>
 Om de mogelijkheid, vermeld in het zesde lid, te kunnen toepassen, zijn in het jaar vóór het heffingsjaar de productieprocessen en de waterbalans dezelfde als de productieprocessen en de waterbalans in de daaropvolgende jaren. Als er wordt afgeweken van het minimumaantal etmalen met toepassing van het vierde lid, kunnen de resultaten alleen worden gebruikt voor het beschouwde heffingsjaar.”.
+
+### ART 3.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 2016 en 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid, worden de woorden “moeten slaan op de monstername tijdens de maand van de grootste bedrijvigheid” opgeheven;<br>
+2° in paragraaf 1 wordt het derde lid vervangen door wat volgt:&nbsp;<br>
+“In afwijking van artikel 3, §5, kunnen, ongeacht de vuilvracht voor de laatst vastgestelde heffing, de gegevens over het gebruikte oppervlaktewater worden bepaald gedurende één etmaal of door middel van een schepmonster.”;<br>
+3° er wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+“§3. Als de heffingsplichtige volgens de bepalingen van het decreet of van dit besluit de vuilvracht van een volume geloosd water kan aantonen aan de hand van een schepmonster, worden de verplichtingen, vermeld in artikel 2 en 3 van dit besluit, voor de bemonstering en analyse ervan nageleefd.”.
+
+### ART 4.
+
+In artikel 6 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “dan stellen zij de meet- en monsternemingsresultaten per aangetekende brief en binnen dertig werkdagen na de eerste monsternamedag ter beschikking van de tegenpartij” vervangen door de zinsnede “of de Vlaamse Milieumaatschappij wil monsternemingen die zijn uitgevoerd door de toezichthouder die bevoegd is voor milieuhandhaving in aanmerking nemen ter controle of voor berekening van de heffing, bezorgen ze de meet- en monsternemingsresultaten via het systeem dat daarvoor wordt aangeboden binnen twee maanden na de eerste monsternamedag aan de tegenpartij”;<br>
+2° in het tweede lid worden de woorden ”per aangetekende brief binnen dertig werkdagen” vervangen door de woorden “via het systeem dat daarvoor wordt aangeboden binnen twee maanden”.
 
 ### ART 5.
 
