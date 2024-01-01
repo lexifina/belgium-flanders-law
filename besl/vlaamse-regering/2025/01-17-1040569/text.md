@@ -25,6 +25,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 3. Wijziging van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
 
+### ART 8.
+
+In artikel 27, §2, tweede lid van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, gewijzigd bij de besluiten van de Vlaamse Regering van 27 mei 2016 en 5 maart 2021, worden de woorden “Binnen de dertig dagen na de dag waarop de aanvrager de kennisgeving, vermeld in het eerste lid, heeft ontvangen” vervangen door de woorden “Binnen vijfenveertig dagen te rekenen vanaf de dag waarop het agentschap het voornemen van beslissing heeft verzonden,”.
+
 ### ART 9.
 
 In de plaats van artikel 37/0 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, vernietigd bij het arrest 258.354 van 8 januari 2024 van de Raad van State, komt een nieuw artikel 37/0, dat luidt als volgt:<br>
