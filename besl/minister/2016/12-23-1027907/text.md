@@ -31,7 +31,9 @@ De volgende opdrachten zijn opdrachten buiten programmatie voor de uniforme aans
 2° de psychosociale nazorg voor slachtoffers van collectieve noodsituaties en terreuraanslagen aansturen en coördineren;<br>
 3° de welzijnscomponent binnen het Transgender Infopunt aansturen en coördineren;<br>
 4° de hulplijn 1712 voor vragen over misbruik, geweld en kindermishandeling aansturen en coördineren;<br>
-5° de hulpverlening aan geradicaliseerde gedetineerden aansturen en coördineren.<br>
+5° de hulpverlening aan geradicaliseerde gedetineerden aansturen en coördineren;<br>
+6° de opvang en begeleiding van slachtoffers van mensenhandel en mensensmokkel met verzwarende omstandigheden aansturen en coördineren;<br>
+7° de hulplijn Stop it Now! voor mensen die zich zorgen maken over hun eigen seksuele gevoelens of gedrag naar minderjarigen en voor de directe sociale omgeving van die doelgroep aansturen en coördineren.<br>
 <br>
 In de beslissing om de erkenning te verlenen, vermeld in artikel 25, tweede lid, van het voormelde besluit, bepaalt de secretaris-generaal:<br>
 1° voor welke opdrachten, vermeld in het eerste en het tweede lid, een centrum algemeen welzijnswerk is erkend;<br>
