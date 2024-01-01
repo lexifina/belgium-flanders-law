@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040132,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot vaststelling van het totale aantal subsidiabele uren gezinszorg en het totale aantal subsidiabele uren schoonmaakhulp, karweihulp of oppashulp voor de diensten voor gezinszorg voor het jaar 2024, en tot bepaling van de criteria voor de verdeling van de extra uren gezinszorg voor de personen met een handicap, en tot invoering van een extra subsidie voor 2024 als compensatie voor de hogere brandstofkosten van de diensten voor gezinszorg, en tot wijziging van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040132/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "0d27b4af408379280e86e3adbb2da6f0fd308ab7e5b18a624ea618e7980bb133",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040132&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-07-19",
+  "gazette": "2024-08-21",
+  "numac": 2024007859,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
