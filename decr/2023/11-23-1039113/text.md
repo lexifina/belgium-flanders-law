@@ -79,6 +79,13 @@ In artikel 32 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 1° het eerste lid wordt opgeheven;<br>
 2° aan het tweede lid, dat het eerste lid wordt, wordt de zinsnede “en wordt openbaar bekendgemaakt op de wijze bepaald bij artikel 46, eerste lid” toegevoegd.
 
+### ART 17.
+
+In artikel 33 van hetzelfde decreet, gewijzigd bij de decreten van 3 juli 2015 en 9 december 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “ten gronde” opgeheven;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“Een Vlaams bestuursrechtscollege spreekt zich in zijn arrest meteen uit over de kosten van de vordering waarop het arrest betrekking heeft.”.
+
 ### ART 19.
 
 In artikel 42 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 9 december 2016 en 21 mei 2021, worden de volgende wijzigingen aangebracht:<br>
