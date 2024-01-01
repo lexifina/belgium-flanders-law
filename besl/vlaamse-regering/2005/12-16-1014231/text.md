@@ -330,7 +330,7 @@ c) 100 g voor alle andere groentesoorten en cichorei voor de industrie;<br>
 <br>
 9° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
 <br>
-10° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+10° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 <br>
 11° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik.<br>
 <br>
