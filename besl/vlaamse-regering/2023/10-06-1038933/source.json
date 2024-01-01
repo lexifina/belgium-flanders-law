@@ -2,16 +2,16 @@
   "codex_id": 1038933,
   "title": "Besluit van de Vlaamse Regering van 2023-10-06 over de steun voor de opstart van of de omschakeling naar een toekomstgerichte duurzame ondernemingsstrategie op een landbouwbedrijf",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038933/VolledigDocument?datum=2023-10-06",
-  "source_sha256": "11d5a6563db90b5882a48db139ae06f841d691900295fd6f6993bd94ff1f85af",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038933/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "73dd83c6d35c1c1bad97e03f6634560401f4f47fb3cd232c4de4c5a52e51539e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038933&param=informatie",
-  "as_of": "2023-10-06",
+  "as_of": "2024-01-01",
   "made": "2023-10-06",
   "gazette": "2023-11-13",
   "numac": 2023046812,
   "document_start": "2023-10-06",
   "document_end": null,
-  "in_force": "2023-10-06",
+  "in_force": "2024-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2023-10-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

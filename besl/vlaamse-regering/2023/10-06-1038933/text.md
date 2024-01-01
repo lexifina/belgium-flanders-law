@@ -27,7 +27,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
-2° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° blokperiode: een periode van maximaal drie maanden waarin steunaanvragen ingediend kunnen worden;<br>
 4° e-loket: het elektronische loket dat ontwikkeld en beheerd wordt door de bevoegde entiteit;&nbsp;<br>
 5° landbouwactiviteit: een landbouwactiviteit als vermeld in artikel 1, 31°, van het besluit van 21 april 2023;<br>
