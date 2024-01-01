@@ -2,16 +2,16 @@
   "codex_id": 1038297,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 over steun voor productieve investeringen en opstartverrichtingen in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038297/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "f510179b2581fc7ab8f1e5cefa9cb47f7e55c13ab25f4149531600f442db4dc0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038297/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "e2bf39f6eb5a3cff33018ee617739522497846a54d50aed4c4b2e32e5be0c841",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038297&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "2023-04-21",
   "gazette": "2023-07-18",
   "numac": 2023042419,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

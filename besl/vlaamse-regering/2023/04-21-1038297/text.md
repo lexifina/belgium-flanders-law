@@ -31,7 +31,7 @@ In dit besluit wordt verstaan onder:<br>
 1° actieve landbouwer: de actieve landbouwer, vermeld in artikel 4, §2, van het besluit van 21 april 2023;<br>
 2° bedrijfsbekleding: het geheel van roerende materiële productiemiddelen van een landbouwbedrijf;<br>
 3° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
-4° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 5° blokperiode: een periode van maximaal drie maanden waarin steunaanvragen ingediend kunnen worden;<br>
 6° eenheidskosten: de gemiddelde marktconforme kosten van een investering per meest geschikte technische of gebruikseenheid;<br>
 7° factorinkomen: het factorinkomen, vermeld in artikel 4, §1, 3°, van het besluit van 21 april 2023;<br>
@@ -216,19 +216,20 @@ De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:
 
 Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 3, als al de volgende voorwaarden zijn vervuld op het moment dat de betalingsaanvraag, vermeld in artikel 16, wordt ingediend:<br>
 1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning als de investering dat vereist;<br>
-2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest;<br>
-3° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest;<br>
+2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest;<br>
+3° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, komt de realisatie van roerende investeringen ten goede aan het samenwerkingsverband;<br>
 4° de uitvoering van de investering is op zijn vroegst van start gegaan op de dag na de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend;<br>
 5° de investering is gerealiseerd conform de technische en bijkomende voorwaarden die zijn bepaald in de beschrijving in het e-loket op het moment van de steunaanvraag, vermeld in artikel 10;<br>
 6° de investering is operationeel en wordt gebruikt;<br>
 7° de begunstigde die de betalingsaanvraag, vermeld in artikel 16, indient, is een actieve landbouwer of een samenwerkingsverband van actieve landbouwers als vermeld in artikel 4;&nbsp;<br>
-8° als de aanvrager actieve landbouwer op het moment van de steunaanvraag, vermeld in artikel 10, geen standaardverdiencapaciteit heeft die overeenkomt met een minimaal factorinkomen van 20.000 euro, omwille van artikel 4, tweede lid, komt de standaardverdiencapaciteit van de aanvrager overeen met een factorinkomen van minstens 20.000 euro.
+8° als de aanvrager actieve landbouwer op het moment van de steunaanvraag, vermeld in artikel 10, geen standaardverdiencapaciteit heeft die overeenkomt met een minimaal factorinkomen van 20.000 euro, omwille van artikel 4, tweede lid, komt de standaardverdiencapaciteit van de aanvrager overeen met een factorinkomen van minstens 20.000 euro;<br>
+9° de jonge landbouwer, vermeld in artikel 13, eerste lid, 4°, en artikel 18, tweede lid, 1°, en vierde lid, is vakbekwaam.
 
 ## Afdeling 7. Het steunbedrag
 
 ### ART 18.
 
-De steun, vermeld in artikel 3, wordt berekend als een percentage van de totale subsidiabele kosten van de investering. De minimale en maximale basissteunpercentages voor de verschillende categorieën van investeringen zijn opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+De steun, vermeld in artikel 3, wordt berekend als een percentage van de totale geselecteerde subsidiabele kosten van de investering. De minimale en maximale basissteunpercentages voor de verschillende categorieën van investeringen zijn opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
 <br>
 Voor de volgende investeringen worden de steunpercentages van 30% en meer, opgenomen in de bijlage die bij dit besluit is gevoegd, verhoogd met de volgende percentages:<br>
 1° met 10% voor investeringen die aangevraagd worden door een actieve landbouwer waarvan minstens één bedrijfsleider een jonge landbouwer is;<br>
@@ -237,7 +238,7 @@ Voor de volgende investeringen worden de steunpercentages van 30% en meer, opgen
 <br>
 De verhogingen, vermeld in het tweede lid, 1° en 2°, kunnen niet gecumuleerd worden.<br>
 <br>
-Voor nieuwe rundvee, kippen en varkensstallen, waar ammoniak-reducerende technieken toegepast worden, die gebouwd worden met een passende omgevingsvergunning die dateert van na de inwerkingtreding van dit besluit, geldt een steunpercentage voor de hele stal van 40%. In geval van een actieve landbouwer waarbij tenminste één bedrijfsleider een jonge landbouwer is wordt het voormelde steunpercentage 65%. Voor ammoniakemissie reducerende investeringen in de veehouderij in bestaande stallen geldt een maximaal steunpercentage van 80%.<br>
+Voor nieuwe rundvee, pluimvee en varkensstallen, waar ammoniak-reducerende technieken toegepast worden, die gebouwd worden met een passende omgevingsvergunning die dateert van na de inwerkingtreding van dit besluit, geldt een steunpercentage voor de hele stal van 40%. In geval van een actieve landbouwer waarbij tenminste één bedrijfsleider een jonge landbouwer is wordt het voormelde steunpercentage 65%. Voor ammoniakemissie reducerende investeringen in de veehouderij in bestaande stallen geldt een maximaal steunpercentage van 80%.<br>
 <br>
 De steun per geselecteerde investering is het minimum van de potentiële steun na selectie en de aanvaarde steun bij de betalingsaanvraag, vermeld in artikel 16.<br>
 <br>
@@ -271,7 +272,7 @@ De steun, vermeld in het eerste lid, wordt verleend in de vorm van een forfaitai
 
 ### ART 22.
 
-Voor de steun, vermeld in artikel 21, komen alleen jonge landbouwers in aanmerking die zich niet meer dan 24 maanden voor de laatste dag van de blokperiode waarin ze de steunaanvraag, vermeld in artikel 23, ingediend hebben voor het eerst als landbouwer gevestigd hebben.<br>
+Voor de steun, vermeld in artikel 21, komen alleen jonge landbouwers in aanmerking die zich voor het eerst als jonge landbouwer vestigen in de periode die start 24 maanden voor de laatste dag van de blokperiode waarin ze de steunaanvraag, vermeld in artikel 23, ingediend hebben en eindigt als ze de eerste betalingsaanvraag, vermeld in artikel 25, indienen.<br>
 <br>
 In het eerste lid wordt verstaan onder vestiging als landbouwer: de oprichting van een landbouwbedrijf of de overname van ten minste 20% van de aandelen of van de bedrijfsbekleding van een landbouwbedrijf. De bedrijfszetel en minstens één landbouwexploitatie moeten gelegen zijn in het Vlaams Gewest. De vestiging blijkt uit de registratie door de bevoegde entiteit van de begunstigde als lid, zaakvoerder, vennoot of bestuurder van een landbouwer.
 
@@ -319,7 +320,7 @@ Binnen de grenzen van de begrotingskredieten die daarvoor bestemd zijn, selectee
 De begunstigde dient via het e-loket een eerste betalingsaanvraag in binnen één jaar na de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in artikel 23, is ingediend.<br>
 <br>
 De eerste betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
-1° in geval van een overname, een overnamecontract;<br>
+1° in geval van een overname, een geregistreerd overnamecontract;<br>
 2° in geval van oprichting, afdoende bewijs van uitvoering van de activiteiten die zijn beschreven in het bedrijfsplan, vermeld in artikel 23, tweede lid, 1°.
 
 ### ART 26.
@@ -350,7 +351,7 @@ Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 21, als al 
 &nbsp; d) een combinatie van a), b) en c) waarbij de som van het percentage tewerkstelling als werknemer/50, het aantal opgenomen studiepunten/30 en het netto belastbaar inkomen uit een zelfstandige activiteit buiten het landbouwbedrijf/15.000 kleiner of gelijk moet zijn aan 1.<br>
 <br>
 In het eerste lid wordt verstaan onder:&nbsp;<br>
-1° vakbekwaamheid: de vakbekwaamheid, vermeld in artikel 37 van het besluit van 21 april 2023;<br>
+1° vakbekwaamheid: de vakbekwaamheid, vermeld in artikel 37 van het besluit van 21 april 2023, in afwijking van artikel 15, 1°, b), van het ministerieel besluit van 23 juni 2023 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid, voor wat de rechtstreekse betalingen betreft, is voor de toepassing van dit besluit het installatieattest uiterlijk behaald op het moment dat de tweede betalingsaanvraag, vermeld in artikel 26, wordt ingediend;<br>
 2° zeggenschap: de zeggenschap, vermeld in artikel 37 van het besluit van de Vlaamse Regering van 21 april 2023.
 
 ## Afdeling 5. Steunbedrag
@@ -371,8 +372,8 @@ De steun, vermeld in artikel 21, bedraagt na de uitvoering van het bedrijfsplan:
 ### ART 29.
 
 De steun, vermeld in artikel 21, wordt op de volgende wijze uitbetaald:<br>
-1° een eerste schijf van 50% van het totale steunbedrag nadat de begunstigde de eerste betalingsaanvraag, vermeld in artikel 25, heeft ingediend;<br>
-2° een tweede schijf van de resterende 50% nadat de begunstigde de tweede betalingsaanvraag, vermeld in artikel 26, heeft ingediend.
+1° een eerste schijf van 50% van het totale steunbedrag“, met een maximum van 40.000 euro, nadat de begunstigde de eerste betalingsaanvraag, vermeld in artikel 25, heeft ingediend;<br>
+2° een tweede schijf van het resterende saldo nadat de begunstigde de tweede betalingsaanvraag, vermeld in artikel 26, heeft ingediend.
 
 ## Hoofdstuk 4. Communicatieverplichtingen
 
@@ -392,13 +393,13 @@ Tot vijf jaar nadat de steun, vermeld in artikel 3, is uitbetaald blijft het goe
 <br>
 Als stallen gesubsidieerd worden op voorwaarde dat dieren gehuisvest zijn volgens het dierenwelzijnslastenboek moet tot vijf jaar na uitbetaling van de steun, vermeld in artikel 3, voldaan blijven aan dit lastenboek.<br>
 <br>
-In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt vijf jaar na de indiening van de eerste betalingsaanvraag, vermeld in artikel 25, voldoet de jonge landbouwer bedrijfsleider aan al de volgende voorwaarden:<br>
+In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, voldoet de jonge landbouwer bedrijfsleider aan al de volgende voorwaarden:<br>
 1° de selectiedrempel, vermeld in artikel 24, behalen;<br>
 2° de minimumscore die hoort bij het selectieproces van de steunaanvraag, vermeld in artikel 24, behalen;<br>
 3° minstens 20% van de aandelen of bedrijfsbekleding behouden in geval van overname.<br>
 4° De combinatie van factorinkomen en aantal bedrijfsleiders moet de steun, vermeld in artikel 28, blijven verantwoorden<br>
 <br>
-In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt vijf jaar na de indiening van de eerste betalingsaanvraag, vermeld in artikel 25, mag de jonge landbouwer zich in een van de volgende situaties bevinden:<br>
+In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, mag de jonge landbouwer zich in een van de volgende situaties bevinden:<br>
 1° maximaal een halftijdse job uitoefenen als werknemer, geen enkel uur opleiding met studiepunten volgen en geen enkel beroepsinkomen verwerven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 2° een opleiding volgen die overeenkomt met maximaal dertig studiepunten per jaar, geen job uitoefenen als werknemer en geen enkel beroepsinkomen verwerven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 3° een zelfstandige activiteit buiten het landbouwbedrijf uitoefenen met per jaar maximaal een netto belastbaar beroepsinkomen van 15.000 euro uit deze activiteit;<br>
