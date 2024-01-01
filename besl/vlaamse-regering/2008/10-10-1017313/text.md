@@ -11,7 +11,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 3 maart 2004 inzake de 
 In dit besluit wordt verstaan onder :<br>
 1° het decreet : het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 2° de minister : de Vlaamse minister, bevoegd voor&nbsp;de landbouw;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° de landbouweducatie : het geheel van de activiteiten, vermeld in artikel&nbsp;19 van het decreet;<br>
 5° activiteit : een initiatief als vermeld in artikel&nbsp;19 van het decreet;<br>
 6° algemeen centrum : een vereniging die door de minister is erkend als algemeen centrum voor landbouweducatie volgens de voorwaarden, vermeld in het decreet en in dit besluit;<br>
