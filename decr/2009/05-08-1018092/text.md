@@ -4959,7 +4959,7 @@ De toegangshouder stort uiterlijk de dertigste dag van elke&nbsp;maand de in de 
 <br>
 § 3. Om rekening te houden met de heffingen die hem niet volledig gestort zouden worden door afnemers, mag elke toegangshouder een forfait van 0,5 procent afhouden van de heffingen die in rekening worden gebracht op de afrekeningsfacturen en slotfacturen.<br>
 <br>
-Bij de jaarlijkse afsluiting van de rekeningen, uiterlijk op&nbsp;1 juli, deelt de toegangshouder aan de Vlaamse Belastingdienst het bedrag van de boekhoudkundig geregistreerde niet-invorderbare schuldvorderingen van de heffing mee dat betrekking heeft op de leveringen onderworpen aan deze heffing.<br>
+Bij de jaarlijkse afsluiting van de rekeningen, uiterlijk zes maanden later, deelt de toegangshouder aan de Vlaamse Belastingdienst het bedrag van de boekhoudkundig geregistreerde niet-invorderbare schuldvorderingen van de heffing mee dat betrekking heeft op de leveringen onderworpen aan deze heffing.<br>
 <br>
 Als het totaal bedrag van de niet-invorderbare schuldvorderingen hoger is dan het jaarlijks bedrag van het forfait bedoeld in het eerste lid, wordt het verschil door de toegangshouder in mindering gebracht van het bedrag van de heffing dat de toegangshouder op de volgende vervaldatum moet storten.<br>
 <br>
