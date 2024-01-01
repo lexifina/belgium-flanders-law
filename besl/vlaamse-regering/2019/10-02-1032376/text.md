@@ -57,7 +57,7 @@ Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalise
 
 § 1. Mevrouw Hilde Crevits, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
 1° het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het organisatiebesluit, met uitzondering van het armoedebeleid;<br>
-2° de zeevisserij, vermeld in artikel 11 van het organisatiebesluit.<br>
+2° de zeevisserij, vermeld in&nbsp;artikel 13/1 van het organisatiebesluit.<br>
 <br>
 Zij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 <br>
@@ -200,12 +200,9 @@ Hij draagt de titel "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrij
 
 ### ART 10/1.
 
-§ 1. De heer Jo Brouns is bevoegd voor:<br>
-1° het beleidsdomein Economie, Wetenschap en Innovatie, vermeld in artikel 6 van het organisatiebesluit;<br>
-2° het beleidsdomein Werk en Sociale Economie, vermeld in artikel 10 van het organisatiebesluit;<br>
-3° het beleidsdomein Landbouw en Visserij, vermeld in artikel 11 van het organisatiebesluit, met uitzondering van de zeevisserij.<br>
+“§1. De heer Jo Brouns is bevoegd voor het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie, vermeld in artikel 13/1 van het organisatiebesluit, met uitzondering van de zeevisserij.<br>
 <br>
-Hij draagt de titel "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw".<br>
+Hij draagt de titel “Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw”.<br>
 <br>
 § 2. De heer Jo Brouns is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
 1° het agentschap Innoveren en ondernemen;<br>
