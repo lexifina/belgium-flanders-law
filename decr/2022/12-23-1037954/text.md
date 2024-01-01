@@ -147,14 +147,14 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART 12.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de personen die door onjuiste of onvolledige verklaringen af te leggen of die door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken, de premie, vermeld in artikel 5 van dit decreet, hebben verkregen of die op die manier een premie behouden waarop ze geen of maar gedeeltelijk recht hebben, gestraft met een gevangenisstraf van acht dagen tot één jaar en met een geldboete van 125 euro tot 1250 euro, of met een van die straffen alleen.
+...
 
 ### ART 13.
 
-Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 250 euro tot 2500 euro, of met een van die straffen alleen:<br>
-1° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-2° &nbsp;personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-3° personen die wetens en willens de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 300 tot 3000 euro, of met een van die straffen alleen:<br>
+1° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+2° &nbsp;personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 4° &nbsp;personen die, om de premies, vermeld in artikel 5 of 7 van dit decreet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, een van de volgende handelingen hebben gesteld:<br>
 a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
 1) door valse handtekeningen;<br>
@@ -193,7 +193,7 @@ Als er geen afrekening is voor de premies, vermeld in het eerste lid, of als de 
 
 ### ART 18.
 
-Alle bepalingen van boek 1 van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de overtredingen, vermeld in dit decreet. Bij herhaling is artikel 85 van het Strafwetboek niet van toepassing.<br>
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.<br>
 <br>
 Bij een veroordeling of vaststelling van schuld voor een inbreuk als vermeld in artikel 12, kan de Vlaamse Regering beslissen dat de persoon die de premies, vermeld in artikel 5 of 7, onrechtmatig heeft verkregen of behouden, gedurende een periode van maximaal twaalf maanden wordt uitgesloten van het voordeel van die premie.<br>
 <br>
