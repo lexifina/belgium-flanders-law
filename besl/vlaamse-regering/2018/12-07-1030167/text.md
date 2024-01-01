@@ -124,56 +124,17 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 1/1.
 
-Dit besluit is van toepassing op de tegemoetkomingen voor revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90 of 7.76.7.
+...
 
-## Titel 2. Organisatie
+## ...
 
 ### ART 2.
 
-De verzekeringsinstellingen oefenen de opdrachten uit die hun conform het decreet van 6 juli 2018 zijn toevertrouwd onder de volgende voorwaarden en modaliteiten:<br>
-1° constructieve samenwerking voor de uitvoering, de verbetering, de bevordering, de optimalisatie van de organisatie van de zorg, vermeld in het decreet van 6 juli 2018;<br>
-2° opbouwend overleg voor de uitbouw van nieuwe initiatieven en projecten die de verbetering van de organisatie van het zorgaanbod beogen;<br>
-3° uitvoering en toepassing van de administratieve processen en procedures zoals die toegepast worden door de administratie in samenspraak met de verzekeringsinstellingen en in overleg met de voorzieningen indien een verandering van administratieve processen een intensieve aanpassing voor hen inhoudt.
+...
 
 ### ART 3.
 
-§ 1. De overeenkomst, vermeld in artikel 6, tweede lid, van het decreet van 6 juli 2018, wordt gesloten voor een periode van drie jaar.<br>
-<br>
-§ 2. De verzekeringsinstellingen vervullen de opdrachten die hun zijn toevertrouwd conform het decreet van 6 juli 2018. Binnen het kader van die opdrachten voeren ze de volgende taken uit:<br>
-1° de tegemoetkomingen uitbetalen aan de rechthebbenden, vervoerders of zorgvoorzieningen conform de voorwaarden, vermeld in artikel 3 en 4 van het decreet van 6 juli 2018, en conform de voorwaarden, vermeld in dit besluit;<br>
-2° de tegemoetkomingen, vermeld in punt 1°, uitbetalen binnen de termijnen vastgesteld in dit besluit, en conform de technische specificaties vastgesteld in de facturatie en boekhoudkundige instructies;<br>
-3° hun leden informeren en adviseren, ervoor bemiddelen en de rechten van hun leden verdedigen;<br>
-4° onregelmatigheden en misbruiken melden aan de administratie over de financiering, de veiligheid van de zorggebruiker en de kwaliteit van het zorgaanbod;<br>
-5° de opgevraagde statistische informatie over de uitvoering van de opdrachten van de verzekeringsinstellingen vermeld in het decreet aan de administratie bezorgen met het oog op beleidsrapportering.<br>
-<br>
-§ 3. De verzekeringsinstellingen voeren de opdrachten en taken, vermeld in paragraaf 2, uit op een efficiënte en kwaliteitsvolle wijze en streven daarmee de volgende doelstellingen na:<br>
-1° de Vlaamse Gemeenschap in eerste instantie toelaten de continuïteit van de zorg aan de zorggebruiker, vermeld in artikel 3 van het decreet van 6 juli 2018, te garanderen;<br>
-2° de Vlaamse Gemeenschap in eerste instantie toelaten de continuïteit in de financiering van de zorgvoorzieningen te garanderen;<br>
-3° de Vlaamse Gemeenschap toelaten op die vlakken een eigen beleid te voeren;<br>
-4° op korte termijn een integratie van die zorg in de Vlaamse sociale bescherming nastreven en voorbereiden.<br>
-<br>
-§ 4. De mate waarin de doelstellingen, vermeld in paragraaf 3, worden nageleefd, wordt permanent opgevolgd door de administratie aan de hand van de rapportering door de verzekeringsinstellingen die zowel mondeling, als om de zes maanden schriftelijk gebeurt.<br>
-<br>
-De verzekeringsinstellingen bezorgen de administratie volgens de modaliteiten bepaald bij overeenkomst tussen de administratie en de verzekeringsinstellingen:<br>
-1° maandelijks gegevens over de kaspositie in het begin van de maand, de ontvangsten, de uitgaven, het beschikbare bedrag op het einde van de maand en de openstaande te betalen prestaties en tegemoetkomingen, zowel als de terugvorderingen en de vervaldagnota's, dit zijn de documenten T20(VL). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
-2° maandelijks de facturatiegegevens die de zorgvoorzieningen bezorgen aan de verzekeringsinstellingen. Dit zijn de documenten N(Vl). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
-3° jaarlijks het aantal unieke patiënten per zorgvoorziening, per verstrekkingsjaar, per geboortejaar, per geslacht, per arrondissement, en per type rechthebbende op een geanonimiseerde manier. De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
-4° jaarlijks de nodige informatie voor de jaarafsluiting. De definitieve afsluiting gebeurt op basis van informatie die jaarlijks voor 30 juni van het jaar X wordt bezorgd en die betrekking heeft op het voorgaande jaar X-1. Dat zijn de documenten T3(VL) en T4(VL). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
-5° jaarlijks een jaarrapport met de volgende gegevens: de jaarrekening, de betaaltermijnen per sector, het aantal dossiers en het bedrag van de terugvorderingen in kader van de toepassing van artikel 22, derde lid, en artikel 26 tot en met 38 van het decreet van 6 juli 2018.<br>
-<br>
-In de overeenkomst met de verzekeringsinstellingen worden de specifieke variabelen, de termijnen en de manier van overdracht opgenomen.<br>
-<br>
-De verzekeringsinstellingen nemen de nodige maatregelen en voorzien de interne controles zodat de kwaliteit kan gegarandeerd worden van de data die ze aanleveren aan de administratie.<br>
-<br>
-de administratie kan in overleg met de verzekeringsinstellingen en de betrokken actoren de facturatie en boekhoudkundige instructies vermeld in de overeenkomst aanpassen om wijzigingen door te voeren die dringend nodig zijn als gevolg van de evoluties in de technische inzameling en het doorzenden van de gegevens.<br>
-<br>
-§ 5. De verzekeringsinstelling beschikt over een beleidsstructuur, een administratieve en boekhoudkundige organisatie en een interne controle die aan haar activiteiten aangepast zijn.<br>
-<br>
-De interne controle, vermeld in het eerste lid, heeft minstens betrekking op de geldigheid, de volledigheid en de juistheid waarmee de financiële verrichtingen worden verwerkt in de boekhoudkundige documenten en rekeningen.<br>
-<br>
-§ 6. De verzekeringsinstellingen leven de boekhoudkundige verplichtingen na, vermeld in artikel 29 en 30 van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van de ziekenfondsen.<br>
-<br>
-De waarderingsregels zijn opgenomen in hoofdstuk 2, afdeling 2 van het koninklijk besluit van 21 oktober 2002 tot uitvoering van artikel 29, §§ 1 en 5, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen.
+...
 
 ## Titel 3. Verwerking, uitwisseling en bewijswaarde van gegevens
 
@@ -181,48 +142,15 @@ De waarderingsregels zijn opgenomen in hoofdstuk 2, afdeling 2 van het koninklij
 
 ### ART 4.
 
-§ 1. De verzekeringsinstellingen verwerken de volgende persoonsgegevens van de rechthebbenden voor hun opdrachten, vermeld in het decreet van 6 juli 2018:<br>
-1° de voor- en achternaam;<br>
-2° de leeftijd en het geslacht;<br>
-3° de nationaliteit;<br>
-4° het rijksregisternummer;<br>
-5° de woon- en verblijfplaats;<br>
-6° de gezinssamenstelling;<br>
-7° het gezinsinkomen;<br>
-8° de verzekeringsstatus;<br>
-9° de loongegevens;<br>
-10° het sociaal statuut;<br>
-11° het attest van gevangenschap;<br>
-12° de gezondheidsgegevens in het kader van een aanvraag, toekenning, betaling en eventuele terugvordering van een tegemoetkoming als vermeld in deel 1, titel 4 van dit besluit.<br>
-<br>
-§ 2. De verzekeringsinstellingen bezorgen de administratie en Intermutualistisch Agentschap vermeld in artikel 13, § 7 van het decreet van 6 juli 2018 de volgende gepseudonimiseerde gegevens van de bij hun aangesloten rechthebbenden via magnetische drager met de volgende periodiciteit:<br>
-1° maandelijks: de terugbetaalde zorg;<br>
-2° op 30 juni en 31 december: de gegevens vermeld in paragraaf 1, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11° en 12° ;<br>
-<br>
-§ 3. De verzekeringsinstellingen bewaren de door hen verwerkte persoonsgegevens dertig jaar na het uitschrijven of vijf jaar na het overlijden van de rechthebbende.
+...
 
 ### ART 5.
 
-De Zorgkassencommissie verwerkt de volgende persoonsgegevens van de rechthebbenden voor haar opdrachten, vermeld in het decreet van 6 juli 2018:<br>
-1° de voor- en achternaam;<br>
-2° de leeftijd;<br>
-3° het geslacht;<br>
-4° het rijksregisternummer;<br>
-5° de woon- en verblijfplaats;<br>
-6° de verzekeringsstatus;<br>
-7° de gezondheidsgegevens.
+...
 
 ### ART 6.
 
-De Expertencommissie verwerkt de volgende persoonsgegevens die kaderen in de aanvraag van buitenlandse of buitengewone zorg, voor haar opdrachten vermeld in het decreet van 6 juli 2018:<br>
-1° de voor- en achternaam;<br>
-2° de leeftijd;<br>
-3° het geslacht;<br>
-4° het rijksregisternummer;<br>
-5° de woon- en verblijfplaats;<br>
-6° de verzekeringsstatus;<br>
-7° de gezondheidsgegevens van de zorggebruikers;<br>
-8° de volgende gegevens van de revalidatievoorzieningen: het adres en de maatschappelijke zetel van de voorziening en de naam en de kwalificaties van de leidinggevenden.
+...
 
 ### ART 7.
 
@@ -309,163 +237,89 @@ De minister kan de nadere modaliteiten bepalen.
 
 De zorginspectie en de administratie houden er voor hun eigen bevoegdheden toezicht op dat de bepalingen van dit hoofdstuk gerespecteerd worden. Met behoud van hun eigen specifieke bevoegdheden melden de controlediensten eventuele onregelmatigheden of tekortkomingen ter informatie aan de respectieve sectorale adviescommissie.
 
-## Titel 4. Tegemoetkomingen
+## ...
 
-## HOOFDSTUK 1. Procedure voor de aanvraag van tegemoetkomingen
+## ...
 
 ### ART 14.
 
-Met behoud van de toepassing van andersluidende bepalingen in dit besluit, legt dit hoofdstuk de procedure vast voor de aanvraag van een tegemoetkoming.
+...
 
 ### ART 15.
 
-§ 1. De zorgvoorziening tot wie de zorggebruiker zich wendt, dient de aanvraag van een tegemoetkoming voor zorg in bij de verzekeringsinstelling waarbij de zorggebruiker is ingeschreven of aangesloten.<br>
-<br>
-De zorgvoorziening dient de aanvraag in met een aangetekende zending of op om het even welke andere manier die toelaat de datum van de indiening met zekerheid vast te stellen.<br>
-<br>
-De zorgvoorziening dient de aanvraag van een tegemoetkoming in met een formulier waarvan de administratie het model kan bepalen.<br>
-<br>
-De aanvraag is ontvankelijk zodra de zorgvoorziening alle gegevens bezorgd heeft die vereist zijn conform het aanvraagformulier.<br>
-<br>
-Elke aanvraag wordt rechtstreeks gericht aan één centraal contactpunt dat bepaald wordt door de betrokken verzekeringsinstelling.&nbsp;<br>
-<br>
-§ 2. De verzekeringsinstelling is belast met de controle van de verzekeringsstatus van de zorggebruiker als rechthebbende als vermeld in artikel 2, 13°, van het decreet van 6 juli 2018, en van de vergoedingsvoorwaarden van de zorg waarvoor tegemoetkoming wordt gevraagd en vraagt, als dat nodig is, ontbrekende informatie op.<br>
-<br>
-§ 3. Na de uitvoering van de controle, vermeld in paragraaf 2, bezorgt de verzekeringsinstelling uiterlijk binnen vijftien werkdagen nadat ze de aanvraag ontvangen heeft, in de gevallen die de minister bepaalt, de aanvraag om tegemoetkoming voor zorg ter controle aan de Zorgkassencommissie. Voor de initiatieven van beschut wonen worden de aanvragen alleen aan de Zorgkassencommissie bezorgd voor een eventuele a posteriori controle.<br>
-<br>
-De Zorgkassencommissie bezorgt binnen twintig werkdagen nadat ze de aanvraag ontvangen heeft, een eensluidend advies aan de verzekeringsinstelling.<br>
-<br>
-De Zorgkassencommissie kan binnen de termijn, vermeld in het tweede lid, de verzekeringsinstelling verzoeken om ontbrekende informatie op te vragen bij de zorgvoorziening die de aanvraag heeft ingediend, als ze dit noodzakelijk acht in het kader van haar controle- en adviesopdracht. Als de Zorgkassencommissie ontbrekende informatie opvraagt, wordt de termijn vermeld in het tweede lid, geschorst. Die termijn loopt verder vanaf de werkdag nadat ze de ontbrekende informatie ontvangen heeft.<br>
-<br>
-De minister kan nader bepalen wat onder ontbrekende informatie wordt verstaan.
+...
 
 ### ART 16.
 
-De Zorgkassencommissie voert op aansturing van het Agentschap voor Vlaamse Sociale Bescherming controles uit op de conformiteit van de verleende zorg. De Zorgkassencommissie kan voor die controles de in artikel 8, § 2 vermelde gegevens opvragen bij de zorggebruiker, de verzekeringsinstellingen, de zorgvoorzieningen en de vervoerders. De zorggebruiker, de verzekeringsinstellingen, de zorgvoorzieningen en de vervoerders bezorgen die informatie aan de Zorgkassencommissie.<br>
-<br>
-De Zorgkassencommissie brengt aan het Agentschap voor Vlaamse Sociale Bescherming verslag uit over de door haar uitgevoerde steekproefsgewijze en a posteriori controles. De minister kan daarvoor de nadere modaliteiten bepalen.<br>
-<br>
-De Zorgkassencommissie brengt aan de verzekeringsinstelling verslag uit over de uitgevoerde a priori controles die ze heeft uitgevoerd. De minister kan daarvoor de nadere modaliteiten bepalen.
+...
 
 ### ART 17.
 
-§ 1. ...<br>
-<br>
-§ 2. Het initiatief van beschut wonen dient de kennisgeving van opstart begeleiding in met een formulier waarvan de administratie het model kan bepalen, binnen dertig dagen na de start van de begeleiding.<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. Voor de multidisciplinaire begeleidingsequipes is geen voorafgaande aanvraag of een kennisgeving vereist.
+...
 
-## HOOFDSTUK 2. Procedure voor toekenning van tegemoetkomingen
+## ...
 
 ### ART 18.
 
-§ 1. Als de aanvraag onderworpen is aan het eensluidend advies van de Zorgkassencommissie conform artikel 24 van het decreet van 6 juli 2018 en artikel 15, § 3, van dit besluit beslist de verzekeringsinstelling binnen vijftien werkdagen die volgen op het eensluidend advies van de Zorgkassencommissie tot gehele of gedeeltelijke goedkeuring of weigering van de aangevraagde tegemoetkoming, rekening houdend met het resultaat van de controle, vermeld in artikel 16 van dit besluit.<br>
-<br>
-Als de Zorgkassencommissie geen eensluidend advies verleent binnen twintig werkdagen nadat ze de aanvraag heeft ontvangen, wordt het advies geacht eensluidend gunstig te zijn.<br>
-<br>
-De verzekeringsinstelling neemt een beslissing binnen de termijn, vermeld in het eerste lid, en deelt die beslissing mee aan de zorgvoorziening en de zorggebruiker, binnen de termijn, vermeld in paragraaf 4.<br>
-<br>
-Als de Zorgkassencommissie na de termijn, vermeld in het tweede lid, een ongunstig eensluidend advies verstrekt, neemt de verzekeringsinstelling een nieuwe beslissing binnen de termijn, vermeld in het eerste lid, en deelt ze die beslissing mee aan de zorgvoorziening en de zorggebruiker binnen de termijn, vermeld in paragraaf 4. Die nieuwe beslissing geldt vanaf de tiende werkdag na de aangetekende kennisgeving ervan.<br>
-<br>
-§ 2. Als de aanvraag niet onderworpen is aan het eensluidend advies van de Zorgkassencommissie conform artikel 24 van het decreet van 6 juli 2018 en artikel 15, § 3, van dit besluit, neemt de verzekeringsinstelling een beslissing binnen vijftien werkdagen die volgen op de indiening van de aanvraag. Dit is de vereenvoudigde procedure.<br>
-<br>
-§ 3. De beslissingstermijn van de verzekeringsinstelling, vermeld in paragraaf 1 en 2, wordt geschorst als de verzekeringsinstelling ontbrekende informatie opvraagt als vermeld in artikel 15, § 2, van dit besluit. De beslissingstermijn begint opnieuw te lopen op de werkdag na de dag van ontvangst van de opgevraagde informatie.<br>
-<br>
-§ 4. De verzekeringsinstelling brengt de zorgvoorziening en de zorggebruiker binnen vijftien werkdagen die volgen op hetzij de dag van de ontvangst van het eensluidend advies van de Zorgkassencommissie, hetzij de dag van de ontvangst van de aanvraag, op de hoogte van de beslissing over de tegemoetkoming, in voorkomend geval van de reden van de weigering, en van de beroepsmogelijkheden en de termijnen waarin het beroep tegen de beslissing moet worden aangetekend. Een ongunstige beslissing wordt met een aangetekende zending verstuurd.<br>
-<br>
-§ 5. Paragraaf 1 tot en met 4, zijn niet van toepassing op de multidisciplinaire begeleidingsequipes.
+...
 
 ### ART 19.
 
-Om aanspraak te blijven maken op een tegemoetkoming, deelt de zorgvoorziening elke wijziging in de toestand of de zorg die een impact heeft op de tegemoetkoming, onmiddellijk aan de verzekeringsinstelling mee.<br>
-<br>
-De minister kan de nadere regels bepalen voor de mededeling van gegevens, vermeld in het eerste lid.
+...
 
-## HOOFDSTUK 3. Financiële betrekkingen
+## ...
 
-## Afdeling 1. Financiële betrekkingen tussen de Vlaamse overheid en de verzekeringsinstellingen
+## ...
 
 ### ART 20.
 
-De administratie begroot voor elk kalenderjaar het totale bedrag van de kredieten, vermeld in artikel 8, 5°, van het decreet van 6 juli 2018, voor het volgende kalenderjaar voor alle sectoren, vermeld in artikel 3, eerste lid, van het voormelde decreet. Dat totale kredietbedrag is het voorschot op de tegemoetkomingen voor zorg geleverd in het kalenderjaar in kwestie dat de administratie aan de verzekeringsinstellingen uitbetaalde.<br>
-<br>
-Voor alle sectoren wordt het totale kredietbedrag voor elk kalenderjaar vastgesteld op basis van de uitgaven van de kalenderjaren die voorafgaan aan het lopende kalenderjaar. Het totale kredietbedrag wordt in maandelijkse schijven uitbetaald.
+...
 
 ### ART 21.
 
-De verzekeringsinstellingen controleren per kwartaal en maandelijks of de uitbetaalde kredieten voldoende zijn om te voldoen aan de betalingsverplichtingen die voorvloeien uit het decreet van 6 juli 2018.
+...
 
-## Afdeling 2. Financiële betrekkingen tussen de verzekeringsinstellingen en de zorgvoorzieningen
+## ...
 
-## Onderafdeling 1. Betalingsverbintenis en uitbetaling
+## ...
 
 ### ART 22.
 
-§ 1. De verzekeringsinstelling wordt belast met de betaling van:<br>
-1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1 en 196, 324 en 327;<br>
-2° ...<br>
-<br>
-De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, rechtstreeks aan de zorgvoorziening.<br>
-<br>
-De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, uiterlijk twee maanden nadat ze de factuur ontvangen heeft. Bij laattijdige betaling is de verzekeringsinstelling op eenvoudig verzoek een verwijlintrest verschuldigd voor het bedrag van de wettelijke intrestvoet in burgerlijke zaken op de datum waarop de betaaltermijn verstreek. Die verwijlintresten lopen vanaf de eerste dag nadat de betaaltermijn is verstreken.<br>
-<br>
-De minister kan de modaliteiten van deze betaling bepalen.<br>
-<br>
-§ 2....<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. Het initiatief van beschut wonen brengt de verzekeringsinstelling op de hoogte van het ontslag van de zorggebruiker met een formulier waarvan de administratie het model heeft bepaald.
+...
 
 ### ART 23.
 
 ...
 
-## Onderafdeling 2. Facturatie van de zorg
+## ...
 
 ### ART 24.
 
-§ 1. De verantwoordelijke van de zorgvoorziening valideert de facturen en stuurt ze elektronisch via MyCareNet naar de verzekeringsinstellingen. In afwachting van elektronische facturatie via MyCareNet, kunnen de initiatieven van beschut wonen, de revalidatievoorzieningen en de multidisciplinaire begeleidingsequipes de facturen via magnetische of papieren drager bezorgen.<br>
-<br>
-Bij de facturen voegt de zorgvoorziening per zorggebruiker en per verzekeringsinstelling de individuele kostennota's voor de verleende zorg.<br>
-<br>
-De facturen en de individuele onkostennota's worden opgesteld overeenkomstig de modellen en de facturatie instructies die de administratie heeft bepaald.<br>
-<br>
-Voor de revalidatievoorzieningen die gevestigd zijn in de ziekenhuizen of in de revalidatieziekenhuizen kunnen die facturaties afgezonderd worden van de facturaties in het kader van de verplichte ziekteverzekering.<br>
-<br>
-§ 2. Als de facturen en de individuele onkostennota's ingediend worden via MyCareNet, voldoen ze aan de functionele vereisten en aan de vereisten van betrouwbaarheid en veiligheid volgens de geldende privacyregels.<br>
-<br>
-§ 3. De zorgvoorzieningen bezorgen de facturen en de individuele onkostennota's maandelijks per verzekeringsinstelling en uiterlijk tot 24 maanden na de periode waarin of na de laatste dag waarop de zorg verstrekt is, tenzij anders bepaald in de overeenkomst met de zorgvoorziening. Een aangetekende zending stuit de voormelde verjaringstermijn.<br>
-<br>
-Voor de multidisciplinaire begeleidingsequipes worden de facturen uiterlijk tot twee maand na het overlijden van de rechthebbende bezorgd. Voor de initatieven van beschut wonen kan in afwachting van de integratie in MyCareNet driemaandelijks gefactureerd worden.<br>
-<br>
-§ 4. Als de facturen, zoals vermeld in het laatste lid van paragraaf 3, driemaandelijks ingediend worden, uiterlijk op de twintigste dag van de eerste maand na het kalenderkwartaal waarop ze betrekking hebben, kan de verzekeringsinstelling aan de zorgvoorziening een som storten die gelijk is aan de helft van het bedrag van de voormelde driemaandelijkse factuur. Dat is alleen mogelijk als de verzekeringsinstelling uiterlijk de vijftiende van de tweede maand van het voormelde kwartaal een voorlopige nota indient die als vervalbrief dient. De verzekeringsinstelling betaalt de som uiterlijk op de eerste dag van de derde maand van het beschouwde kalenderkwartaal. De betaalde som wordt afgetrokken van het bedrag van de volgende factuur.
+...
 
-## Afdeling 3. Financiële betrekkingen tussen de zorgvoorziening en de rechthebbende
+## ...
 
 ### ART 25.
 
-De bijdrage van de rechthebbende in de tegemoetkoming wordt vermeld op de factuur. De factuur splitst de bijdrage van de rechthebbende op in de verschillende onderdelen.
+...
 
-## Afdeling 4. Financiële betrekkingen tussen het agentschap en de zorgvoorzieningen
+## ...
 
 ### ART 26.
 
-De administratie betaalt de zorgvoorzieningen de financiële tegemoetkoming in het kader van de sociale akkoorden die afgesloten zijn en de compensatie van de financiële schade van laattijdige toekenningen.
+...
 
-## HOOFDSTUK 4. Voorlopige toekenning van tegemoetkoming
+## ...
 
 ### ART 27.
 
-In afwachting dat de schade effectief wordt vergoed als vermeld in artikel 22, tweede lid, van het decreet van 6 juli 2018, verlenen de verzekeringsinstellingen de tegemoetkomingen voor zorg, vermeld in het decreet van 6 juli 2018. De voorwaarde is dat de verzekeringsinstellingen alle middelen gebruiken om de tegemoetkoming terug te vorderen als de zorggebruiker is vergoed krachtens een andere Belgische of buitenlandse wetgeving.
+...
 
-## HOOFDSTUK 5. Cumulatie van tegemoetkomingen
+## ...
 
-## Afdeling 1. Cumulatie van tegemoetkomingen binnen de bevoegdheden van de Vlaamse Gemeenschap
+## ...
 
-## Onderafdeling 1. Cumulatieverboden van de tegemoetkomingen volgens plaats
+## ...
 
 ### ART 28.
 
@@ -473,458 +327,213 @@ In afwachting dat de schade effectief wordt vergoed als vermeld in artikel 22, t
 
 ### ART 29.
 
-Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor het verblijf in een revalidatievoorziening niet gecumuleerd worden met:<br>
-1° ...<br>
-2° een tegemoetkoming voor gebruik van of verblijf in een andere revalidatievoorziening tijdens dezelfde periode, tenzij dit gebruik van of verblijf in die beide revalidatievoorzieningen niet op dezelfde dag plaatsvindt;<br>
-3° een tegemoetkoming voor het gebruik van een multidisciplinaire begeleidingsequipe.
+...
 
 ### ART 30.
 
-Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor verblijf in een psychiatrisch verzorgingstehuis niet gecumuleerd worden met:<br>
-1° ...<br>
-2° een tegemoetkoming voor begeleiding in een ander initiatief van beschut wonen tijdens dezelfde periode.;<br>
-3° een tegemoetkoming voor gebruik van of een verblijf in een woonzorgcentrum, een centrum voor dagverzorging, een centrum voor kortverblijf tijdens dezelfde periode.
+...
 
 ### ART 31.
 
-Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor een begeleiding in een initiatief van beschut wonen niet gecumuleerd worden met een tegemoetkoming voor een begeleiding in een ander initiatief van beschut wonen tijdens dezelfde periode, tenzij het anders bepaald is. De minister bepaalt hiertoe de nadere regels.
+...
 
 ### ART 32.
 
-Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor een gebruik van een multidisciplinaire begeleidingsequipe niet gecumuleerd worden met een tegemoetkoming voor het gebruik van een andere multidisciplinaire begeleidingsequipe.
+...
 
-## Onderafdeling 2. Cumulatieverboden van de tegemoetkomingen volgens inhoud
+## ...
 
 ### ART 33.
 
-Een tegemoetkoming voor een ambulante revalidatieverstrekking in een revalidatievoorziening kan niet gecumuleerd worden met een tegemoetkoming voor een ambulante revalidatieverstrekking op dezelfde dag in een andere revalidatievoorziening.
+...
 
 ### ART 34.
 
-Een tegemoetkoming voor reiskosten als vermeld in artikel 18 van het decreet van 6 juli 2018, mag niet gecumuleerd worden met:<br>
-1° een tegemoetkoming voor een verblijf in een revalidatieziekenhuis;<br>
-2° een tegemoetkoming voor een verblijf in een revalidatievoorziening;<br>
-3° een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis;<br>
-4° een tegemoetkoming voor een verblijf in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging.
+...
 
-## Onderafdeling 3. Cumulatieverboden van de tegemoetkomingen naar revalidatieovereenkomst
+## ...
 
 ### ART 35.
 
-Met behoud van de toepassing van de overige artikelen van deze afdeling, mag een tegemoetkoming voor een revalidatieverstrekking in een revalidatievoorziening niet gecumuleerd worden met een andere tegemoetkoming voor een revalidatieverstrekking in een revalidatievoorziening als dat cumulverbod bepaald is in een revalidatieovereenkomst.
+...
 
-## Onderafdeling 4. Gemeenschappelijke bepaling
+## ...
 
 ### ART 36.
 
-De minister kan nadere regels bepalen voor de gevallen waarin kan worden afgeweken van een cumulatieverbod van tegemoetkomingen zoals vermeld in deze afdeling.
+...
 
-## Afdeling 2. Cumulatie van tegemoetkomingen binnen de bevoegdheden van de Vlaamse Gemeenschap en prestaties binnen de federale ziekteverzekering
+## ...
 
-## Onderafdeling 1. Cumulatieverboden van tegemoetkomingen en prestaties volgens plaats
+## ...
 
 ### ART 37.
 
-Een tegemoetkoming voor gebruik van of verblijf in een revalidatievoorziening, een begeleiding in een initiatief van beschut wonen of een tegemoetkoming voor een begeleiding door een multidisciplinaire begeleidingsequipe, mag niet worden gecumuleerd met een vergoeding voor ziekenhuisopname met minstens één overnachting op grond van de federale ziekte- en invaliditeitsverzekering als het gebruik of verblijf plaatsvindt op dezelfde dag, tenzij het gebruik of verblijf zich situeert buiten de periode van het verblijf in het ziekenhuis, of tenzij het ziekenhuis een revalidatievoorziening is.
+...
 
-## Onderafdeling 2. Cumulatieverboden van tegemoetkomingen en prestaties volgens inhoud
+## ...
 
 ### ART 38.
 
-Een tegemoetkoming voor een revalidatieverstrekking mag niet worden gecumuleerd met de volgende monodisciplinaire tegemoetkomingen verstrekt in die zelfde periode:<br>
-1° een tegemoetkoming voor een prestatie als vermeld in artikel 36 van de bijlage bij het koninklijk besluit van 14 september 1984 tot vaststelling van de nomenclatuur van de geneeskundige verstrekkingen inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br>
-2° een tegemoetkoming voor een prestatie als vermeld in afdeling 3, artikel 7 van de bijlage bij het voormelde koninklijk besluit, tenzij het over een andere aandoening gaat dan waarvoor de revalidatieverstrekking verleend wordt;<br>
-3° een tegemoetkoming voor een prestatie als vermeld in afdeling 10, artikel 22, van de bijlage bij het voormelde koninklijk besluit, bij een tegemoetkoming voor gebruik van of een verblijf in een woonzorgcentrum, een centrum voor dagverzorging, een centrum voor kortverblijf tijdens dezelfde periode, tenzij het over een andere aandoening gaat dan waarvoor de revalidatieverstrekking verleend wordt;<br>
-4° een tegemoetkoming voor een ergotherapeutische prestaties, met uitzondering van de prestaties die verricht zijn tijdens en na de ontslagprocedure in de revalidatievoorzieningen, waarvan het erkenningsnummer begint met het nummer 7.76.5 en 7.71, of psychotherapeutische prestaties.<br>
-<br>
-Een multidisciplinaire begeleidingsequipe mag de eenmalige forfaitaire vergoeding, vermeld in artikel 324, of het verminderd forfait, vermeld in artikel 327, niet aanrekenen voor een tussenkomst als de behandelende arts van de palliatieve persoon, die deel uitmaakt van de multidisciplinaire begeleidingsequipe, zelf al een vergoeding heeft aangevraagd voor die prestatie conform de voorwaarden van de nomenclatuur van de geneeskundige verstrekkingen, opgenomen in de bijlage bij het voormelde koninklijk besluit.
+...
 
-## HOOFDSTUK 6. Terugvordering van de ten onrechte betaalde tegemoetkomingen
+## ...
 
-## Afdeling 1. Terugvordering van tegemoetkomingen ten onrechte uitbetaald aan de zorggebruiker
+## ...
 
 ### ART 39.
 
-De verzekeringsinstelling deelt de zorggebruiker met een aangetekende zending haar beslissing mee om de ten onrechte uitbetaalde tegemoetkoming terug te vorderen.<br>
-<br>
-De aangetekende zending vermeldt de mogelijkheid voor de zorggebruiker om bij de arbeidsrechtbank een beroep tegen de terugvordering in te dienen.<br>
-<br>
-De minister kan bepalen welke vermeldingen de beslissing, vermeld in het eerste lid, nog moet bevatten.
+...
 
 ### ART 40.
 
-Om de ten onrechte uitbetaalde tegemoetkomingen terug te betalen, kan de zorggebruiker een afbetalingsplan aanvragen bij de verzekeringsinstelling.<br>
-<br>
-De verzekeringsinstelling beslist over dat afbetalingsplan. De verzekeringsinstelling bezorgt een al of niet aangepast afbetalingsplan aan de zorggebruiker of deelt aan de zorggebruiker mee dat het afbetalingsplan niet aanvaard kan worden.<br>
-<br>
-Als de zorggebruiker overlijdt tijdens de uitvoering van het afbetalingsplan, dan wordt er niet verder teruggevorderd, behalve in geval van arglist of bedrog.
+...
 
 ### ART 41.
 
-De ten onrechte uitbetaalde tegemoetkoming wordt bij dwangbevel ingevorderd in de volgende gevallen:<br>
-1° de zorggebruiker, als er geen afbetalingsplan is, heeft het bedrag van de ten onrechte uitbetaalde tegemoetkomingen niet terugbetaald binnen drie maanden nadat de aangetekende zending, vermeld in artikel 39, eerste lid, is verstuurd;<br>
-2° de zorggebruiker volgt het afbetalingsplan niet.<br>
-<br>
-De verzekeringsinstelling bezorgt de gegevens van de zorggebruiker bij wie de ten onrechte uitbetaalde tegemoetkomingen bij dwangbevel moeten worden ingevorderd, via de administratie, aan de Vlaamse Belastingdienst.
+...
 
 ### ART 42.
 
-De zorggebruiker kan tegen de beslissing tot terugvordering van de verzekeringsinstelling beroep instellen bij de arbeidsrechtbank binnen drie maanden nadat hij de beslissing van de verzekeringsinstelling, vermeld in artikel 39, heeft ontvangen.<br>
-<br>
-Het beroep bij de arbeidsrechtbank schorst de terugvordering van de tegemoetkoming tot er een definitieve rechterlijke uitspraak is.
+...
 
-## Afdeling 2. Terugvordering van tegemoetkomingen die ten onrechte uitbetaald zijn aan de zorgvoorziening respectievelijk de vervoerder
+## ...
 
 ### ART 43.
 
-De zorgvoorziening of de vervoerder die ten onrechte een tegemoetkoming heeft ontvangen, is verplicht de waarde ervan terug te betalen. De waarde wordt conform artikel 35 van het decreet van 6 juli 2018, als dat mogelijk is, in mindering gebracht van toekomstige tegemoetkomingen die aan de zorgvoorziening respectievelijk de vervoerder worden uitbetaald.<br>
-<br>
-Als een natuurlijke persoon of een rechtspersoon de tegemoetkomingen voor eigen rekening heeft geïnd, is die samen met de zorgvoorziening of vervoerder hoofdelijk aansprakelijk voor de terugbetaling ervan.
+...
 
 ### ART 44.
 
-De verzekeringsinstelling deelt haar beslissing om de ten onrechte uitbetaalde tegemoetkoming terug te vorderen van of in mindering te brengen bij de zorgvoorziening of de vervoerder met een aangetekende zending mee aan de zorgvoorziening of de vervoerder mee.<br>
-<br>
-De aangetekende zending waarin de beslissing wordt meegedeeld, vermeldt:<br>
-1° het bedrag van de onterechte uitbetaalde tegemoetkoming en de reden waarom ze onterecht is;<br>
-2° dat de ten onrechte uitbetaalde tegemoetkomingen in mindering worden gebracht van toekomstige tegemoetkomingen;<br>
-3° de mogelijkheid voor de zorgvoorziening of de vervoerder om bij de arbeidsrechtbank beroep tegen de terugvordering of het in mindering brengen in te dienen.<br>
-<br>
-De minister kan bepalen welke vermeldingen de beslissing, vermeld in het eerste lid, nog moet bevatten.
+...
 
 ### ART 45.
 
-De zorgvoorziening of de vervoerder kan een afbetalingsplan aanvragen bij de verzekeringsinstelling om de ten onrechte uitbetaalde tegemoetkomingen, terug te betalen.<br>
-<br>
-De verzekeringsinstelling beslist over dat afbetalingsplan. De verzekeringsinstelling bezorgt een al of niet aangepast afbetalingsplan aan de zorgvoorziening of de vervoerder of deelt aan de aan de zorgvoorziening of de vervoerder mee dat het afbetalingsplan niet aanvaard kan worden.
+...
 
 ### ART 46.
 
-De ten onrechte uitbetaalde tegemoetkoming wordt bij dwangbevel in de volgende gevallen ingevorderd:<br>
-1° er is geen afbetalingsplan of dat afbetalingsplan wordt niet gerespecteerd of de zorgvoorziening of vervoerder heeft het bedrag van de ten onrechte uitbetaalde tegemoetkomingen niet terugbetaald binnen drie maanden na de verzending van de aangetekende zending, vermeld in artikel 44, eerste lid;<br>
-2° de verzekeringsinstelling kan de ten onrechte uitbetaalde tegemoetkomingen niet in mindering brengen van toekomstige tegemoetkomingen voor de zorgvoorziening of de vervoerder.
+...
 
 ### ART 47.
 
-De zorgvoorziening of de vervoerder kan tegen de beslissing van de verzekeringsinstelling om de tegemoetkoming terug te vorderen of in mindering te brengen beroep instellen bij de arbeidsrechtbank binnen drie maanden nadat de zorgvoorziening of de vervoerder de beslissing van de verzekeringsinstelling, vermeld in artikel 44, heeft ontvangen.<br>
-<br>
-Het beroep bij de arbeidsrechtbank schorst de beslissing om de tegemoetkoming terug te vorderen of in mindering te brengen tot er een definitieve rechterlijke uitspraak is.
+...
 
-## Afdeling 3. Gemeenschappelijke bepalingen voor de terugvordering
+## ...
 
 ### ART 48.
 
-De verzekeringsinstelling waarbij de zorggebruiker op het moment van de beslissing tot terugvordering is aangesloten, vordert de ten onrechte uitbetaalde tegemoetkomingen terug. Als de zorggebruiker nadien van verzekeringsinstelling verandert, dan blijft de verzekeringsinstelling waarbij de zorggebruiker aangesloten was op het moment van de beslissing tot terugvordering, belast met de terugvordering. De zorggebruiker kan niet veranderen van verzekeringsinstelling zolang hij het door hem verschuldigde bedrag niet heeft terugbetaald.
+...
 
 ### ART 49.
 
-De betaalde tegemoetkomingen waarvan het onverschuldigd karakter het gevolg is van het overlijden van de rechthebbende, worden door de financiële instellingen, die de begunstigden zijn van de tegemoetkomingen, terugbetaald aan de verzekeringsinstellingen, overeenkomstig de modaliteiten die de minister bepaalt.<br>
-<br>
-De rechthebbende laat de gekozen financiële instelling toe, aan de verzekeringsinstellingen alle ten onrechte uitbetaalde bedragen met betrekking tot prestaties verleend tot twee jaar voor de kennisgeving van het onverschuldigd karakter van de tegemoetkoming, terug te betalen, door zijn bankrekening te debiteren met het ten onrechte uitbetaalde bedrag.<br>
-<br>
-De machtiging, vermeld in tweede lid, blijft van kracht nadat de rechthebbende overleden is.
+...
 
-## Afdeling 4. Verzaking aan de terugvordering
+## ...
 
 ### ART 50.
 
-§ 1. De verzekeringsinstelling verzaakt aan de terugvordering van een ten onrechte uitbetaalde tegemoetkoming aan de zorggebruiker, de zorgvoorziening of de vervoerder, als de ten onrechte uitbetaalde tegemoetkoming louter het gevolg is van een fout, een vergissing of een nalatigheid van de verzekeringsinstelling of van een administratieve dienst of instelling, waarvan de rechthebbende of de zorgvoorziening zich normaal geen rekenschap kan geven en waarvan de verzekeringsinstelling binnen twee maanden van vaststelling van de hiervoor vermelde fout, vergissing of nalatigheid, geen melding heeft gemaakt aan de zorggebruiker, de zorgvoorziening of de vervoerder.<br>
-<br>
-§ 2. De verzekeringsinstelling kan op eigen initiatief verzaken aan de terugvordering van ten onrechte uitbetaalde tegemoetkomingen als het totaal bedrag van de ten onrechte uitbetaalde tegemoetkomingen lager is dan 28,20 euro, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-§ 3. De zorggebruiker aan wie een beslissing tot terugvordering van een tegemoetkoming is meegedeeld, kan binnen drie maanden vanaf de dag nadat de beroepstermijn verstreken is of vanaf de dag waarop de rechterlijke beslissing in kracht van gewijsde gaat bij de verzekeringsinstelling waarbij hij aangesloten is, een verzoek tot verzaking indienen om af te zien van de terugvordering.<br>
-<br>
-De verzekeringsinstelling bezorgt het verzoek vermeld in het vorige lid aan de administratie.<br>
-<br>
-De administratie onderzoekt het verzoek en bezorgt zijn advies aan de leidende ambtenaar.<br>
-<br>
-De leidend ambtenaar, of een ambtenaar die hij aangewezen heeft neemt een beslissing op basis van het advies van de administratie.<br>
-<br>
-Het is alleen toegestaan om af te zien van de terugvordering als de zorggebruiker te goeder trouw is en zich in een behartenswaardige toestand bevindt.<br>
-<br>
-De behartenswaardigheid, vermeld in het vijfde lid, wordt bepaald op basis van het gezinsinkomen. Er is sprake van behartenswaardigheid als het gezinsinkomen van de rechthebbende zich bevindt onder de armoedegrens, zoals vastgesteld door Eurostat, en bekendgemaakt door de minister. Het gezinsinkomen wordt vastgesteld conform artikel 4 van de verordening van 22 mei 2006 tot uitvoering van artikel 22, § 2, a) van de wet van 11 april 1995 tot invoering van het handvest van de sociaal verzekerde.
+...
 
 ### ART 51.
 
-Als de leidend ambtenaar, of een ambtenaar die hij aangewezen heeft, beslist om te verzaken aan de terugvordering van het onverschuldigde bedrag, brengt hij de verzekeringsinstelling daarvan zo snel mogelijk op de hoogte per brief. De verzekeringsinstelling licht de zorggebruiker hiervan in.<br>
-<br>
-Als de leidend ambtenaar, of een ambtenaar die hij aangewezen heeft, beslist om de aanvraag te verwerpen of gedeeltelijk toe te staan, brengt hij de verzekeringsinstelling zo snel mogelijk op de hoogte met een aangetekende zending, die de vermeldingen bevat, vermeld in artikel 14 van het handvest van de sociaal verzekerde. De verzekeringsinstelling brengt de zorggebruiker op de hoogte van de voormelde beslissing.
+...
 
-## Afdeling 6. Bevoegd agentschap
+## ...
 
 ### ART 52.
 
-Het agentschap, vermeld in artikel 38 van het decreet van 6 juli 2018, is het Agentschap voor Vlaamse Sociale Bescherming.
+...
 
-## HOOFDSTUK 7. Tegemoetkomingen voor buitengewone zorg
+## ...
 
 ### ART 53.
 
-De verzekeringsinstelling verleent aan de rechthebbende een tegemoetkoming voor buitengewone zorg in het kader van revalidatie of geestelijke gezondheidszorg als de zorg verleend in het Nederlands taalgebied of in een door de Vlaamse Gemeenschap erkende voorziening in het tweetalig gebied Brussel-Hoofdstad, verstrekt wordt voor een zeldzame indicatie en er voldaan is aan elk van de volgende voorwaarden:<br>
-1° de zorg is duur;<br>
-2° de zorg heeft een wetenschappelijke waarde en doeltreffendheid die gezaghebbende instanties die in hetzelfde domein van revalidatie of geestelijke gezondheidzorg werken in ruime mate erkennen en het experimentele stadium is voorbij;<br>
-3° de aandoening waarvoor de zorg wordt toegepast, bedreigt de vitale functies van de rechthebbende;<br>
-4° er bestaat geen alternatief op medisch-sociaal vlak voor zorg in het kader van de Belgische verplichte ziekteverzekering, de Vlaamse Sociale Bescherming of het decreet van 6 juli 2018;<br>
-5° de zorg wordt voorgeschreven door een arts-specialist, die gespecialiseerd is in de behandeling van de betreffende aandoening en die wettelijk gemachtigd is de geneeskunde uit te oefenen in een lidstaat van de Europese Unie of een staat die behoort tot de Europese Economische Ruimte.<br>
-<br>
-Het feit dat er geen tegemoetkoming is voor de zorg, of ten minste niet voor de indicatie waarop de aanvraag tot tegemoetkoming is gebaseerd, terwijl dit wel het geval zou kunnen zijn voor andere indicaties, vormt geen aanduiding voor het zeldzame karakter ervan.
+...
 
 ### ART 54.
 
-De verzekeringsinstelling verleent aan de rechthebbende een tegemoetkoming voor buitengewone zorg in het kader van revalidatie of geestelijke gezondheidszorg verleend in het Nederlandse taalgebied of in een door de Vlaamse Gemeenschap erkende voorziening in het tweetalige gebied Brussel-Hoofdstad, als de rechthebbende lijdt aan een zeldzame aandoening en er voldaan is aan al de volgende voorwaarden:<br>
-1° de zorg is duur;<br>
-2° de zorg wordt door gezaghebbende instanties die werkzaam zijn in hetzelfde domein van revalidatie of geestelijke gezondheidzorg op gemotiveerde wijze aangeduid als de specifieke aanpak voor deze zeldzame aandoening;<br>
-3° de aandoening waarvoor de zorg wordt toegepast bedreigt de vitale functies van de rechthebbende;<br>
-4° er bestaat geen therapeutisch alternatief in het kader van de Belgische verplichte ziekteverzekering, de Vlaamse Sociale Bescherming of het decreet van 6 juli 2018;<br>
-5° de zorg wordt voorgeschreven door een arts-specialist, die gespecialiseerd is in de behandeling van de betreffende aandoening en die wettelijk gemachtigd is de geneeskunde uit te oefenen in een lidstaat van de Europese Unie of een staat die behoort tot de Europese Economische Ruimte.
+...
 
 ### ART 55.
 
-De verzekeringsinstelling verleent aan de rechthebbende een tegemoetkoming voor buitengewone zorg in het kader van revalidatie of geestelijke gezondheidszorg verleend in het Nederlandse taalgebied of in een door de Vlaamse Gemeenschap erkende voorziening in het tweetalige gebied Brussel-Hoofdstad, als de rechthebbende lijdt aan een zeldzame aandoening die een continue en complexe verzorging vereist en er voldaan is aan al de volgende voorwaarden:<br>
-1° de zorg in haar totaliteit is duur;<br>
-2° de zorg heeft betrekking op een bedreiging van de vitale functies van de rechthebbende die een rechtstreeks en specifiek gevolg is van de zeldzame aandoening;<br>
-3° er bestaat geen therapeutisch alternatief in het kader van de Belgische verplichte ziekteverzekering, de Vlaamse Sociale Bescherming of het decreet van 6 juli 2018;<br>
-4° de complexe zorg wordt voorgeschreven in het kader van een behandelplan door een arts-specialist die gespecialiseerd is in de behandeling van de desbetreffende aandoening en die wettelijk gemachtigd is de geneeskunde uit te oefenen in een lidstaat van de Europese Unie of een staat die behoort tot de Europese Economische Ruimte.
+...
 
 ### ART 56.
 
-De verzekeringsinstelling verleent aan de rechthebbende een tegemoetkoming voor buitengewone zorg in het kader van revalidatie of geestelijke gezondheidszorg verstrekt wordt voor een zeldzame indicatie, een zeldzame aandoening dan wel een zeldzame aandoening die een continue en complexe verzorging vereist, en die wordt verleend in de Franstalige gemeenschap, in de Duitstalige gemeenschap of in het buitenland, als er voldaan is aan elk van de volgende voorwaarden:<br>
-1° de zorg is duur;<br>
-2° de zorg heeft een wetenschappelijk waarde en een doeltreffendheid die de gezaghebbende internationale instanties die in dezelfde domeinen van revalidatie en geestelijke gezondheidzorg werken in ruime mate erkennen en het experimentele stadium is voorbij;<br>
-3° de zorg beoogt een behandeling van een aandoening die de vitale functies bedreigt;<br>
-4° er bestaat geen aanvaardbaar therapeutisch alternatief voor diagnose of therapie dat voorzien is in het Nederlandse taalgebied of in door de Vlaamse Gemeenschap erkende voorzieningen in het tweetalige gebied Brussel-Hoofdstad, zou kunnen worden afgeleverd binnen een termijn die op medisch vlak aanvaardbaar is, rekening houdend met de gezondheidstoestand van de rechthebbende op het ogenblik van de aanvraag;<br>
-5° de zorg is vooraf voorgeschreven door een arts-specialist, die gespecialiseerd is in dezelfde domeinen van revalidatie of geestelijke gezondheidzorg en wettelijk die gemachtigd is om de geneeskunde uit te oefenen in een lidstaat van de Europese Unie of een staat die behoort tot de Europese Economische Ruimte.
+...
 
 ### ART 57.
 
-§ 1. Een tegemoetkoming voor buitengewone zorg kan in de gevallen, vermeld in artikel 53 tot en met 56, alleen worden toegekend als:<br>
-1° ondanks het doen gelden van alle rechten krachtens de Belgische, buitenlandse of supranationale wetgeving of krachtens een individueel of collectief gesloten overeenkomst om een tegemoetkoming te verkrijgen, er geen tegemoetkoming wordt toegekend voor de gevraagde buitengewone zorg in het kader van revalidatie of geestelijke gezondheidszorg door die wetgevingen of overeenkomsten;<br>
-2° de gevraagde bedragen effectief verschuldigd zijn door de rechthebbende.<br>
-<br>
-De bijdragen die bij of krachtens het decreet van 6 juli 2018 gedragen moeten worden door de rechthebbende, maken nooit deel uit van tegemoetkomingen die in het kader van buitengewone zorg kunnen worden toegekend.<br>
-<br>
-§ 2. Voor de revalidatie of geestelijke gezondheidszorg die verleend is in de Franstalige gemeenschap, in de Duitstalige gemeenschap of in het buitenland:<br>
-1° kan de tegemoetkoming voor buitengewone zorg alleen toegekend worden als de verzekeringsinstelling op basis van het advies van de Expertencommissie de toestemming verleent voor een tegemoetkoming voor die buitengewone zorg, voordat de zorg verleend wordt;<br>
-2° kan een tegemoetkoming toegekend worden voor de reiskosten die daaraan verbonden zijn als de afstand van de plaats van behandeling tot het centrum van Brussel meer dan 350 km in vogelvlucht is, voor personen jonger dan achttien jaar. De vergoeding bedraagt maximaal 0,25 euro per kilometer in vogelvlucht van de hoofdverblijfplaats van de rechthebbende tot de plaats waar de buitengewone zorg wordt toegediend.<br>
-3° kan een tegemoetkoming toegekend worden voor personen van wie is aangetoond via een medisch verslag dat ze alleen vervoerd kunnen worden in een rolstoel. De tegemoetkoming bedraagt 0,25 euro per kilometer in vogelvlucht voor vervoer in een aangepaste wagen respectievelijk van 1,30 euro per kilometer in vogelvlucht voor vervoer door een professionele vervoerder, en dit van de hoofdverblijfplaats tot de plaats van behandeling.<br>
-<br>
-§ 3. Voor de revalidatie of geestelijke gezondheidszorg die verleend is in het buitenland, kan ook een tegemoetkoming worden toegekend in de reis- en verblijfkosten voor de persoon die de rechthebbende vergezelt als de rechthebbende:<br>
-1° jonger dan negentien jaar is;<br>
-2° ouder dan negentien jaar is, maar om medische redenen noodzakelijk begeleid moet worden. Dit wordt bewezen wordt met een medisch verslag.
+...
 
 ### ART 58.
 
-§ 1. De rechthebbende dient de aanvraag van een tegemoetkoming voor buitengewone zorg en, in voorkomend geval, de aanvraag van een tegemoetkoming in de reis- en verblijfkosten bij zijn verzekeringsinstelling met een aangetekende zending of op om het even welke andere manier die toelaat de datum van indiening met zekerheid vast te stellen.<br>
-<br>
-De aanvraag van een tegemoetkoming in de reis- en verblijfskosten wordt samen met de aanvraag van een tegemoetkoming voor buitengewone zorg ingediend.<br>
-<br>
-§ 2. De aanvraag bevat de volgende elementen:<br>
-1° een gedagtekend en ingevuld inlichtingsblad waarvan de administratie het model opmaakt;<br>
-2° een voorschrift, waarvan het model kan worden vastgesteld door de administratie, en dat een arts-specialist die gespecialiseerd is in de behandeling van de desbetreffende aandoening, opmaakt, dagtekent en ondertekent en waarbij een omstandig geneeskundig verslag is gevoegd dat alle inlichtingen bevat die toelaten te besluiten of de buitengewone zorg voldoet aan de voorwaarden voor een tegemoetkoming die gesteld zijn bij of krachtens het decreet van 6 juli 2018;<br>
-3° een gedetailleerde factuur in geval van buitengewone zorg voor revalidatie of geestgelijke gezondheidszorg die is toegediend in een voorziening in het Nederlandstalige taalgebied of in een door de Vlaamse Gemeenschap erkende voorziening in het tweetalige gebied Brussel-Hoofdstad, dan wel een omstandig bestek in geval van buitengewone zorg voor revalidatie of geestelijke gezondheidzorg gepland in een voorziening in de Franstalige Gemeenschap, in de Duitstalige Gemeenschap of in het buitenland;<br>
-4° een verklaring op erewoord, waarvan de administratie het model opmaakt, waarin de rechthebbende:<br>
-a) bevestigt dat hij, voor de zorg waarvoor hij een tegemoetkoming vraagt, zijn rechten heeft uitgeput krachtens de wetgeving, vermeld in artikel 39, tweede lid, van het decreet van 6 juli 2018, en geen rechten kan doen gelden krachtens een individueel of collectief gesloten overeenkomst;<br>
-b) meedeelt voor welk bedrag hij, in voorkomend geval, zijn rechten kan doen gelden krachtens de voormelde overeenkomst;<br>
-c) bevestigt dat hij ervan op de hoogte is gebracht dat een toestemming voor een behandeling in het buitenland, verleend door zijn verzekeringsinstelling, niet van rechtswege het recht opent op een tegemoetkoming voor buitengewone zorg;<br>
-d) bepaalt of hij de tegemoetkoming al dan niet zelf int;<br>
-5° een kopie van de schriftelijke toestemming van de rechthebbende, zijn wettelijke vertegenwoordiger of de vertrouwenspersoon, vermeld in de wet van 22 augustus 2002 betreffende de rechten van de patiënt, op een document dat informatie bevat als vermeld in artikel 8, § 2, van de voormelde wet, ondertekende is, alsook, in voorkomend geval, de gegevens die de voorschrijvende arts verzameld en geregistreerd heeft om de pertinentie van de tegemoetkomingen te evalueren;<br>
-6° het bewijs van de reis- en verblijfkosten waarvoor in voorkomend geval een tegemoetkoming gevraagd wordt.<br>
-<br>
-§ 3. De aanvraag wordt binnen tien werkdagen nadat de verzekeringsinstelling ze ontvangen heeft ter advies voorgelegd aan de Expertencommissie.<br>
-<br>
-De Expertencommissie kan het advies vragen over de indicatie of de richtprijs bij gezaghebbende wetenschappelijke instanties, bij de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu of bij het Federaal Kenniscentrum voor de Gezondheidzorg.<br>
-<br>
-De Expertencommissie verleent eensluidend advies binnen twintig werkdagen nadat ze de aanvraag ontvangen heeft.<br>
-<br>
-De Expertencommissie bezorgt haar eensluidend advies binnen vijf werkdagen aan de verzekeringsinstelling.<br>
-<br>
-De verzekeringsinstelling beslist over de aanvraag binnen vijf werkdagen nadat ze het eensluidend advies van de Expertencommissie ontvangen heeft, en stelt in voorkomend geval het bedrag vast van de tegemoetkoming.<br>
-<br>
-De beslissing van de verzekeringsinstelling, vermeld in het vijfde lid, wordt aan de rechthebbende meegedeeld binnen vijf werkdagen.<br>
-<br>
-De verzekeringsinstelling betaalt binnen vijftien werkdagen het bedrag dat is toegekend voor de buitengewone zorg aan de zorgverlener of verzorgingsinstelling en in voorkomend geval het bedrag voor de reis- en verblijfkosten dat is toegekend aan de rechthebbende of aan de persoon die de rechthebbende vergezelt.<br>
-<br>
-De termijnen, vermeld in deze paragraaf, worden geschorst door elk verzoek om bijkomende informatie dat rechtstreeks aan de rechthebbende gericht is. Dat geldt op dezelfde wijze als de rechthebbende op de hoogte wordt gebracht van het feit dat bijkomende informatie is gevraagd aan de voorzieningen of de zorgverstrekkers vermeld in het aanvraagdossier.<br>
-<br>
-§ 4. Een aanvraag wordt niet bezorgd aan de Expertencommissie als de aanvraag louter gaat over een tegemoetkoming voor:<br>
-1° bijdragen die bij of krachtens dit decreet van 6 juli 2018 ten laste zijn van de rechthebbende;<br>
-2° huisvestings-, reis- en verblijfkosten van een rechthebbende of een persoon die hem vergezelt gedurende de opname in een Belgisch ziekenhuis;<br>
-3° buitengewone zorgen die meer dan drie jaar vóór de aanvraag verricht zijn;<br>
-4° zorgen die vallen buiten het toepassingsgebied van het decreet van 6 juli 2018.
+...
 
-## HOOFDSTUK 8. Toezicht en handhaving
+## ...
 
-## Afdeling 1. Sancties voor de rechthebbenden of de vervoerder
+## ...
 
 ### ART 59.
 
-§ 1. De rechthebbende of in voorkomend geval de vervoerder, wordt op de hoogte gebracht van het proces-verbaal van vaststelling van de inbreuk, vermeld in artikel 42, eerste lid, van het decreet van 6 juli 2018, dat is opgemaakt door de leidend ambtenaar, of de ambtenaar die hij aangewezen heeft, met een aangetekende zending, binnen veertien werkdagen vanaf de dag nadat de inbreuk is vastgesteld.<br>
-<br>
-§ 2. De beslissing om de sanctie, vermeld in artikel 42, tweede lid, van het decreet van 6 juli 2018, al dan niet op te leggen, wordt genomen door de leidend ambtenaar, of de ambtenaar die hij aangewezen heeft.<br>
-<br>
-De beslissing, vermeld in het eerste lid, wordt genomen nadat de rechthebbende of de vervoerder met een aangetekende zending uitgenodigd is om binnen veertien werkdagen zijn verweer te laten gelden.<br>
-<br>
-De beslissing, vermeld in het eerste lid, bepaalt het bedrag van de geldboete en in voorkomend geval het bedrag van de geldboete dat met uitstel van de uitvoering ervan opgelegd wordt en de duurtijd van dit uitstel.<br>
-<br>
-De beslissing wordt ter kennis gebracht aan de rechthebbende of de vervoerder met een aangetekende zending en wordt geacht te zijn ontvangen de derde werkdag die volgt op het overhandigen van de briefomslag bij de post, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Zij heeft uitwerking de dag van de kennisgeving.<br>
-<br>
-§ 3. De opbrengst van de administratieve geldboeten wordt aan de administratie overgemaakt.<br>
-<br>
-§ 4. De administratieve geldboete die opgelegd is zonder uitstel van de tenuitvoerlegging ervan, wordt binnen twee maanden vanaf de datum van de kennisgeving van de beslissing betaald.<br>
-<br>
-De definitieve beslissing tot betaling van de geldboete is van rechtswege uitvoerbaar.<br>
-<br>
-Als de rechthebbende of de vervoerder nalaat om de geldboete te betalen, wordt de beslissing van de leidend ambtenaar of de ambtenaar die hij aangewezen heeft of de gerechtelijke beslissing die in kracht van gewijsde is getreden aan de Vlaamse Belastingdienst bezorgd om het bedrag van de geldboete te innen.<br>
-<br>
-Een kopie van de beslissing van de leidend ambtenaar of de ambtenaar die hij aangewezen heeft wordt medegedeeld aan de verzekeringsinstelling.<br>
-<br>
-§ 5. Een geldboete kan niet meer worden uitgesproken vanaf de dag dat er vijf jaar verlopen zijn sinds de inbreuk is begaan.<br>
-<br>
-De kennisgeving van het proces-verbaal van vaststelling stuit de verjaring van de inbreuk, vermeld in het eerste lid.<br>
-<br>
-De uitgesproken administratieve sanctie verjaart na vijf jaar. De verjaringstermijn begint op de dag na de kennisgeving aan de rechthebbende of de vervoerder.<br>
-<br>
-Als de rechthebbende of de vervoerder beroep heeft ingesteld bij de arbeidsrechtbank, dan wordt de verjaring echter geschorst totdat een in kracht van gewijsde gegane beslissing een einde heeft gemaakt aan het geding. De verjaring wordt verder gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
-<br>
-De verjaring wordt ook geschorst tijdens periodes van werkloosheidsuitkeringen of periodes waarin de tegemoetkoming herleid is tot nul conform artikel 22 van het decreet van 6 juli 2018.<br>
-<br>
-Als de inbreuk, vermeld in het eerste lid, aanleiding heeft gegeven tot strafrechtelijke vervolging, wordt de verjaring geschorst totdat een in kracht van gewijsde gegane beslissing een einde heeft gemaakt aan het geding.
+...
 
-## Afdeling 2. Sancties ten laste van de zorgvoorzieningen
+## ...
 
-## Onderafdeling 1. Algemeen
+## ...
 
 ### ART 60.
 
-De documenten die de betaling van de tegemoetkomingen toestaan, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 5° van het decreet van 6 juli 2018, zijn:<br>
-1° de betalingsverbintenissen van de verzekeringsinstellingen;<br>
-2° de facturen van de zorgvoorzieningen;<br>
-3° de goedkeuring van de tegemoetkomingsaanvraag.
+...
 
-## Onderafdeling 2. Overbodige zorg
+## ...
 
 ### ART 61.
 
-Om na te gaan of zorg overbodig is als vermeld in artikel 43, § 1, eerste lid, 6°, van het decreet van 6 juli 2018, kan de leidend ambtenaarhet Agentschap voor Vlaamse Sociale Bescherming, of de ambtenaar die hij aangewezen heeft, aan de Zorgkassencommissie vragen een controle uit te voeren conform artikel 25 van het decreet van 6 juli 2018.<br>
-<br>
-Op basis van de resultaten van het onderzoek van de Zorgkassencommissie en na advies van de Expertencommissie die voorafgaand in dialoog gaat met de betreffende sectorale adviescommissie stelt de administratie, vast of de zorg al dan niet overbodig is conform artikel 43, § 1, eerste lid, 6°, van het decreet van 6 juli 2018.<br>
-<br>
-Het advies van de Expertencommissie, vermeld in het tweede lid, beoordeelt of de zorghandelingen bijdragen tot de kwaliteit van de zorg of het bereiken van de zorgdoelstellingen.
+...
 
 ### ART 62.
 
-§ 1. De zorgvoorziening wordt op de hoogte gebracht van het proces-verbaal van vaststelling van de inbreuk, vermeld in artikel 43, § 1, van het decreet van 6 juli 2018, opgemaakt door de leidend ambtenaar of de ambtenaar die hij aangewezen heeft, met een aangetekende zending, binnen veertien werkdagen, vanaf de dag nadat de inbreuk is vastgesteld.<br>
-<br>
-§ 2. De beslissing om de sanctie, vermeld in artikel 43, § 4, van het decreet van 6 juli 2018 al dan niet op te leggen, wordt genomen door de leidend ambtenaar, of de ambtenaar die hij aangewezen heeft.<br>
-<br>
-De beslissing wordt genomen nadat de zorgvoorziening met een aangetekende zending is uitgenodigd om binnen veertien werkdagen haar verweer te laten gelden.<br>
-<br>
-De beslissing van de leidend ambtenaar of de ambtenaar die hij aangewezen heeft bepaalt het bedrag van de geldboete.<br>
-<br>
-De zorgvoorziening wordt met een aangetekende zending op de hoogte gebracht van de beslissing, vermeld in het eerste lid. Die beslissing wordt geacht te zijn ontvangen op de derde werkdag nadat de briefomslag bij de post overhandigd is, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Die beslissing heeft uitwerking de dag van de kennisgeving.<br>
-<br>
-§ 3. De opbrengst van de administratieve geldboetes wordt aan de administratie overgemaakt.<br>
-<br>
-§ 4. De administratieve geldboete wordt betaald binnen twee maanden vanaf de datum van de kennisgeving van de beslissing.<br>
-<br>
-De definitieve beslissing tot betaling van de geldboete is van rechtswege uitvoerbaar.<br>
-<br>
-Een kopie van de beslissing van de leidend ambtenaar of de ambtenaar die hij aangewezen heeft wordt aan de verzekeringsinstelling bezorgd.<br>
-<br>
-Als de zorgvoorziening nalaat om de geldboete te betalen, kan de geldboete betaald worden conform artikel 35 van het decreet van 6 juli 2018.<br>
-<br>
-§ 5. Een geldboete kan niet meer worden uitgesproken vanaf de dag dat er vijf jaar verlopen zijn sinds de inbreuk is begaan.<br>
-<br>
-De kennisgeving van het proces-verbaal van vaststelling stuit de verjaring van de inbreuk, vermeld in het eerste lid.<br>
-<br>
-De uitgesproken administratieve sanctie verjaart na vijf jaar. De verjaringstermijn begint op de dag na de kennisgeving aan de zorgvoorziening.<br>
-<br>
-Als de zorgvoorziening beroep heeft ingesteld bij de arbeidsrechtbank, dan wordt de verjaring echter geschorst totdat een in kracht van gewijsde gegane beslissing een einde heeft gemaakt aan het geding. De verjaring wordt verder gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
-<br>
-Als de inbreuk aanleiding heeft gegeven tot strafrechtelijke vervolging, wordt de verjaring geschorst totdat een in kracht van gewijsde gegane beslissing een einde heeft gemaakt aan het geding.
+...
 
-## Onderafdeling 3. Bedrog
+## ...
 
 ### ART 63.
 
-De verzekeringsinstelling of de rechthebbende kan de ernstige, nauwkeurige en met elkaar overeenstemmende aanwijzingen van bedrog bij de zorgvoorziening melden aan de administratie.<br>
-<br>
-De leidend ambtenaar, of de ambtenaar die hij aangewezen heeft, kan de zorgvoorziening met een aangetekende zending op de hoogte brengen van de feiten waarop de aanwijzingen berusten. De aangetekende zending wordt geacht ontvangen te zijn op de derde werkdag nadat de brief aan de postdiensten is overhandigd. Hij nodigt de zorgvoorziening uit hem zijn verweermiddelen mee te delen met een aangetekende zending binnen vijftien werkdagen.<br>
-<br>
-Na het onderzoek van de verweermiddelen, of als hij geen verweermiddelen ontvangen heeft binnen de termijn, vermeld in het vorige lid, bezorgt de leidend ambtenaar of de ambtenaar die hij aangewezen heeft, het dossier aan de zorginspectie. De zorginspectie onderzoekt alle nodige elementen, evalueert de verweermiddelen en rapporteert aan de administratie. de administratie neemt de beslissing op basis van het rapport van de zorginspectie. Als de administratie beslist de uitbetalingen te schorsen, bepaalt het de duur van de periode van de schorsing. de administratie bepaalt ook of de schorsing geheel of gedeeltelijk is.<br>
-<br>
-De zorgvoorziening wordt met een aangetekende zending op de hoogte gebracht van de beslissing, vermeld in het derde lid. De beslissing heeft uitwerking, niettegenstaande beroep, vanaf de kennisgeving, die wordt geacht ontvangen te zijn de derde werkdag nadat de brief aan de postdiensten is overhandigd, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Een afschrift van de beslissing wordt gelijktijdig ter kennisgeving meegedeeld aan de verzekeringsinstellingen.<br>
-<br>
-Een niet schorsend beroep kan ingesteld worden bij de arbeidsrechtbank die bevoegd is conform artikel 50 van het decreet van 6 juli 2018.<br>
-<br>
-De opschorting vervalt van rechtswege als binnen het jaar na de beslissing geen proces-verbaal van vaststelling is opgesteld.
+...
 
-## Afdeling 3. Administratieve geldboeten
+## ...
 
 ### ART 64.
 
-Het dwangbevel, vermeld in artikel 46 van het decreet van 6 juli 2018, wordt geviseerd en uitvoerbaar verklaard door hetzij de leidend ambtenaar, hetzij de ambtenaar die hij aangewezen heeft.
+...
 
-## [Afdeling 3/1. Sancties voor verzekeringsinstellingen (ing. BVR 17 mei 2019, art. 5, I: 27 september 2019)]
+## ...
 
 ### ART 64/1.
 
-De door de Vlaamse Regering aangewezen ambtenaar, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018, is de leidend ambtenaar of de ambtenaar die hij aanwijst.<br>
-<br>
-De beslissing van de leidend ambtenaar, of de ambtenaar die hij aanwijst, bepaalt het bedrag van de geldboete, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018. Bij de beslissing is een uitnodiging gevoegd om de geldboete te betalen binnen drie maanden vanaf de dag van de kennisgeving van de beslissing. De opbrengst van de geldboetes wordt aan de administratie gestort
+...
 
-## Afdeling 4. Verplichtingen voor de verzekeringsinstellingen, de zorgvoorzieningen en de rechthebbenden
+## ...
 
 ### ART 65.
 
-§ 1. De inlichtingen en documenten, vermeld in artikel 47, eerste lid van het decreet van 6 juli 2018, worden bezorgd binnen dertig dagen vanaf de datum van aanvraag.<br>
-<br>
-§ 2. De verzekeringsinstellingen bezorgen binnen dertig dagen vanaf de datum van aanvraag aan de inspecteurs, vermeld in artikel 2, 7° van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid, op een papieren dan wel elektronische drager, al de volgende gegevens die nodig zijn om te oordelen over het recht op tegemoetkoming voor zorg en voor reiskosten als vermeld het decreet van 6 juli 2018:<br>
-1° de gegevens die nodig zijn voor de volledige identificering van:<br>
-a) de zorg die wordt toegekend op grond van het decreet van 6 juli 2018;<br>
-b) de zorgvoorzieningen die de zorg hebben voorgeschreven, uitgevoerd of afgeleverd;<br>
-c) van de rechthebbende;<br>
-2° de gegevens slaan zowel op zorg die in rekening is gebracht, als op zorg die de Vlaamse Gemeenschap heeft terugbetaald of waarvan de Vlaamse Gemeenschap gevraagd wordt ze terug te betalen.
+...
 
-## Afdeling 5. Verjaring
+## ...
 
 ### ART 66.
 
-§ 1. De aangetekende zending tot stuiting van de verjaring, vermeld in artikel 51, achtste lid, van het decreet van 6 juli 2018, voldoet aan al de volgende voorwaarden:<br>
-1° de brief wordt aangetekend verstuurd met ontvangstmelding;<br>
-2° de brief wordt verzonden door de persoon die de verjaring wenst te stuiten, door zijn advocaat, door de gerechtsdeurwaarder die daarvoor is aangesteld of door de persoon die in rechte mag verschijnen namens de persoon die de verjaring wenst te stuiten;<br>
-3° de brief wordt verstuurd naar de woonplaats of hoofdverblijfplaats van de natuurlijke persoon of de maatschappelijke zetel van de rechtspersoon waartegen de verjaring wordt gestuit;<br>
-4° de brief bevat al de volgende gegevens:<br>
-a) de gegevens van de partij die de verjaring wil stuiten, namelijk:<br>
-1) voor de natuurlijke persoon: de voor- en achternaam en de woonplaats of de hoofdverblijfplaats;<br>
-2) voor de rechtspersoon: de juridische vorm, de benaming en het adres van de maatschappelijke zetel of de administratieve zetel;<br>
-b) de gegevens van de persoon tegen wie de verjaring wordt gestuit, namelijk:<br>
-1) voor de natuurlijke persoon: de voor- en achternaam en de woonplaats of de hoofdverblijfplaats;<br>
-2) voor de rechtspersoon: de benaming, de juridische vorm en het adres van de maatschappelijke zetel;<br>
-c) de beschrijving van de tegemoetkoming;<br>
-d) de verantwoording van de bedragen die worden (terug)gevorderd;<br>
-e) de termijn waarin de partij tegen wie de verjaring wordt gestuit zijn verbintenis kan nakomen voordat bijkomende vorderingsmaatregelen worden genomen;<br>
-f) de mogelijkheid om in rechte op te treden als de partij tegen wie de verjaring wordt gestuit niet binnen de vastgestelde termijn reageert;<br>
-g) de verjaringsstuitende werking van de ingebrekestelling;<br>
-h) de handtekening van de persoon die de verjaring wenst te stuiten, van de advocaat van de verzekeringsinstelling, van de gerechtsdeurwaarder die daarvoor aangesteld is of van de persoon die in rechte mag verschijnen namens de persoon die de verjaring wil stuiten.<br>
-<br>
-§ 2. De verjaring, vermeld in artikel 51 van het decreet van 6 juli 2018, kan ook gestuit worden door een elektronisch bestand te versturen, als dat bevestigd wordt in een aangetekende zending. De aangetekende zending bevat de referentie van de stuiting, vermeld in het elektronisch bestand.<br>
-<br>
-De minister legt de vorm van het elektronisch bestand vast.
+...
 
 ### ART 67.
 
-De leidend ambtenaar, of de ambtenaar die hij aangewezen heeft, oordeelt, voor elk afzonderlijk geval waarin hij wordt ingeroepen, over het bestaan van overmacht, die conform artikel 51, negende lid, van het decreet van 6 juli 2018, de verjaring schorst.
+...
 
 ### ART 68.
 
-§ 1. De zorgvoorzieningen van de rechthebbende worden met een aangetekende zending op de hoogte gebracht van de beslissing van de leidend ambtenaar, of de ambtenaar die hij aangewezen heeft<br>
-<br>
-De beslissing wordt ook meegedeeld aan de verzekeringsinstelling.<br>
-<br>
-§ 2. De kennisgeving van de beslissing, vermeld in de eerste paragraaf, aan de zorgvoorziening en aan de rechthebbende vermeldt dat tegen de beslissing beroep kan worden ingesteld bij de arbeidsrechtbank, alsook de vormen waarin en de termijnen waarin het beroep moet worden ingesteld.
+...
 
 ## Deel 2. Psychiatrische verzorgingstehuizen
 
@@ -2187,110 +1796,29 @@ Als er conform artikel 182, § 3, advies is gevraagd aan de Expertencommissie of
 
 Bij onmiddellijk, reëel en ernstig gevaar voor de gezondheid en de veiligheid van de zorggebruikers kunnen, conform artikel 14 van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid, voorlopige maatregelen worden opgelegd aan de revalidatievoorziening om de veiligheid en gezondheid van de zorggebruikers te garanderen.
 
-## Titel 2. Financiering en tegemoetkoming
+## ...
 
-## HOOFDSTUK 1. Tegemoetkomingen voor revalidatieverstrekkingen
+## ...
 
 ### ART 191.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
-1° eenheidsprijs: de tegemoetkoming voor de eenheidsverstrekking, vermeld in de revalidatieovereenkomst. Bij de berekening van de eenheidsprijs wordt rekening gehouden met de loonkosten van het personeel, de kosten voor infrastructuur en de werkingskosten van de voorziening, die worden geconcretiseerd in de revalidatieovereenkomst;<br>
-2° jaarenveloppe: het maximale totaalbedrag dat een revalidatievoorziening per kalenderjaar mag aanrekenen aan de verzekeringsinstellingen, dat wordt bepaald in de revalidatieovereenkomst;<br>
-3° theoretisch aantal eenheidsverstrekkingen: het maximumaantal eenheidsverstrekkingen dat een revalidatievoorziening per kalenderjaar kan verrichten, als een bezettingsgraad van 100 % wordt gerealiseerd, dat wordt geconcretiseerd in de revalidatieovereenkomst.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. ...<br>
-<br>
-§ 5. ...<br>
-<br>
-§ 6. Voor de revalidatieovereenkomsten waarvan het erkenningsnummer begint met het nummer 7.90, wordt geen maximum aantal revalidatieverstrekkingen per kalenderjaar bepaald.<br>
-<br>
-Voor zorggebruikers die in de voorbije zes maanden vóór de verstrekking door de arts van dezelfde revalidatievoorziening behandeld zijn, bedraagt de tegemoetkoming voor revalidatieverstrekkingen 158,00 euro. Voor alle andere zorggebruikers bedraagt de tegemoetkoming voor revalidatieverstrekkingen 258,53 euro.<br>
-<br>
-§ 7. De revalidatievoorziening leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
-<br>
-&nbsp;§ 8. De eenheidsprijs, vermeld in paragraaf 1, 1°, en de tegemoetkomingen voor revalidatieverstrekkingen, vermeld in paragraaf 6, worden vanaf 1 januari 2020 verminderd met 1,3%.
+...
 
 ### ART 192.
 
-Het indexeerbare gedeelte van de tegemoetkomingen voor revalidatieverstrekkingen wordt bepaald in de revalidatieovereenkomst. Tenzij het anders vermeld is, wordt het indexeerbare gedeelte gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-Het indexeerbare gedeelte, waarvan de grootte wordt vermeld in de overeenkomst, wordt aangepast conform de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-Als de termijn, vermeld in artikel 6 van de voormelde wet, niet wordt gerespecteerd, ontvangt de revalidatievoorziening een financiële vergoeding ter compensatie van de financiële schade die ze heeft geleden ingevolge de laattijdige toekenning.
+...
 
 ### ART 193.
 
-Het aandeel van de personeelskosten in de tegemoetkomingen voor revalidatieverstrekkingen wordt berekend in de revalidatieovereenkomst. Het aandeel van de personeelskosten in de tegemoetkomingen voor revalidatieverstrekkingen wordt aan de reële personeelskosten aangepast zodra de werkelijke personeelsuitgaven ten gevolge van de evolutie van de anciënniteit van het werkelijk tewerkgestelde personeel 1 % hoger liggen dan de personeelskosten die begrepen zijn in de tegemoetkoming voor revalidatieverstrekkingen.<br>
-<br>
-Met het oog op de berekening van het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen en de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid, bezorgt de revalidatievoorziening, volgens een model dat de administratie bepaald heeft, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan de administratie.<br>
-<br>
-Het personeelskostendossier vermeldt voor ieder personeelslid van wie de loonkosten in de berekening van de tegemoetkomingen voor revalidatieverstrekkingen kan worden opgenomen de volgende gegevens en documenten:<br>
-1° de voor- en achternaam;<br>
-2° de functie binnen de revalidatievoorziening;<br>
-3° een kopie van het diploma;<br>
-4° het aantal uren tewerkstelling per week binnen de revalidatievoorziening;<br>
-5° de anciënniteit, op het moment van de berekening, uitgedrukt in jaren en maanden, en de bewijsstukken daarvan;<br>
-6° de loonschaal en het loonbarema;<br>
-7° de vermelding of de betrokkene al dan niet recht heeft op een functietoeslag;<br>
-8° in voorkomend geval, het bedrag van de functietoeslag;<br>
-9° de vermelding of de betrokkene al dan niet recht heeft op een haard- of standplaatsvergoeding;<br>
-10° in voorkomend geval, het bedrag van de haard- of standplaatsvergoeding;<br>
-11° de vermelding of de betrokkene al dan niet onregelmatige uren presteert;<br>
-12° de afstand, in enkele richting, van de woonplaats tot de revalidatievoorziening, uitgedrukt in aantal kilometer;<br>
-13° het bedrag van de vergoeding voor woon-werkverkeer;<br>
-14° het brutoloon van de betrokkene.<br>
-<br>
-Het personeelskostendossier bevat de nodige bewijsstukken van de kosten, vermeld in het derde lid.<br>
-<br>
-De revalidatievoorziening bewaart de personeelsgegevens, vermeld in het derde lid, tot één jaar na vertrek van het personeelslid.<br>
-<br>
-Als een personeelskostendossier niet beantwoordt aan de voormelde voorwaarden, wordt het personeelskostendossier door de administratie als onontvankelijk beschouwd. In voorkomend geval wordt dat meegedeeld aan de revalidatievoorziening binnen dertig dagen nadat de administratie het personeelskostendossier heeft ontvangen.<br>
-<br>
-De minister neemt een beslissing tot vaststelling van de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid. de administratie brengt de revalidatievoorziening en de verzekeringsinstellingen op de hoogte van de beslissing van de minister. De aangepaste tegemoetkoming voor revalidatieverstrekkingen wordt van kracht op de eerste dag van de vierde maand die volgt op de maand waarin de administratie een ontvankelijk personeelskostendossier heeft ontvangen.<br>
-<br>
-Als de administratie de termijn, vermeld in het zesde lid, niet naleeft, ontvangt de revalidatievoorziening een financiële vergoeding ter compensatie van de financiële schade die ze heeft geleden door de laattijdige toekenning.<br>
-<br>
-In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen, vermeld in artikel 191, niet aangepast aan de reële personeelskosten voor de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 9.69, 7.74.6 of 74.051.09.
+...
 
 ### ART 193/1.
 
-§ 1. De in dit artikel vermelde maatregel is van toepassing op de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met nummer 7.71, 7.72, 7.73, 7.74, 7.76, 9.53, 9.65 of 9.69.<br>
-<br>
-Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
-<br>
-Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door de administratie berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Vanaf april 2021 is het bedrag dat gefactureerd wordt op basis van een reguliere activiteit het bedrag dat door de administratie werd berekend voor de overeenstemmende maand van het jaar 2020. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door de administratie.<br>
-<br>
-Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
-<br>
-De revalidatievoorziening heeft het recht om het compensatiebudget voor de maanden juli 2021 en augustus 2021 aan te rekenen zodra de revalidatievoorziening minstens 60% van het theoretische aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen.<br>
-<br>
-Voor de maanden september tot en met december 2021 wordt een compenserend budget voorzien, op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretisch aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt de budgetgarantie voorzien zodra 50% van het theoretisch aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen. Een compenserend budget voor de maanden september tot en met december 2021 wordt vereffend bij de eindafrekening voor het jaar 2021, conform paragraaf 2.<br>
-<br>
-Voor de maanden januari 2022 tot en met maart 2022 wordt een compenserend budget betaald op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretisch aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt het compenserend budget voorzien zodra 50% van het theoretisch aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen. Het compenserend budget is het verschil tussen het bedrag dat overeenstemt met de reguliere prestaties in de maanden januari 2019 tot en met maart 2019, zoals berekend conform het derde lid, en het bedrag dat, op basis van de bepalingen van dit besluit, aan de verzekeringsinstellingen is gefactureerd voor de gerealiseerde revalidatieprestaties in de maanden januari 2022 tot en met maart 2022. Het compenserend budget voor het eerste kwartaal van 2022 wordt voor 80% betaald in september 2022. Het saldo wordt in september 2023 betaald op basis van de gerapporteerde uitgaven door de verzekeringsinstellingen. Als bij de eindafrekening blijkt dat het compenserend budget voor de maanden januari 2022 tot en met maart 2022 dat al is uitbetaald, te hoog was, vordert de administratie het te veel betaalde deel van het compenserend budget terug dat al is uitbetaald.<br>
-<br>
-Voor de maanden april 2022 tot en met december 2022 wordt een compenserend budget betaald op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretische aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt in het compenserende budget voorzien zodra 50% van het theoretische aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen.&nbsp;<br>
-<br>
-Het compenserende budget, vermeld in het achtste lid, is het verschil tussen het bedrag dat overeenstemt met de reguliere prestaties in de maanden april 2019 tot en met december 2019, dat wordt berekend conform het derde lid, en het bedrag dat, op basis van de bepalingen van dit besluit, aan de verzekeringsinstellingen is gefactureerd voor de gerealiseerde revalidatieprestaties in de maanden april 2022 tot en met december 2022.&nbsp;<br>
-<br>
-Het compenserende budget voor de maanden, vermeld in het achtste lid, wordt voor 80% betaald in maart 2023. Het saldo wordt in januari 2024 betaald op basis van de gerapporteerde uitgaven door de verzekeringsinstellingen.&nbsp;<br>
-<br>
-Als bij de eindafrekening blijkt dat het compenserende budget voor de maanden april 2022 tot en met december 2022 dat al is uitbetaald, te hoog was, vordert de administratie het te veel betaalde deel van het compenserende budget terug dat al is uitbetaald.<br>
-<br>
-§ 2. In september 2021 doet de administratie een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2020. de administratie berekent het verschil tussen de voor het jaar 2020 betaalde bedrag aan compenserend budget en het bedrag dat de revalidatievoorziening voor 90 % van het theoretisch aantal eenheidsverstrekkingen, vermeld in artikel 191, § 1, 3°, zou kunnen hebben factureren. Als een revalidatievoorziening in 2019 meer dan 90 % van het theoretisch aantal eenheidsprestaties heeft gefactureerd, wordt in de berekening van het verschil rekening gehouden met het percentage dat in 2019 werd gefactureerd. Als de voorziening te veel aan compenserende middelen heeft ontvangen, kan dat door de voorziening gebruikt worden als provisie op het compenserend budget voor de maanden september tot en met december 2021. Als de voorziening te weinig aan compenserende middelen heeft ontvangen, wordt het tekort aan compenserende middelen betaald door de administratie.<br>
-<br>
-Revalidatievoorzieningen die cashproblemen hebben in het laatste trimester van 2021, kunnen een provisioneel bedrag vragen aan de administratie. de administratie betaalt eenmalig een provisioneel bedrag van maximaal een twaalfde van de jaarenveloppe van de voorziening in kwestie. Onder cashproblemen wordt verstaan dat de revalidatievoorziening een tekort heeft aan liquide middelen om noodzakelijke betalingen op korte termijn te kunnen doen.<br>
-<br>
-In september 2022 maakt de administratie een eindafrekening voor het compenserende budget, vermeld in paragraaf 1, van het jaar 2021.&nbsp;De berekening gebeurt op dezelfde wijze als vermeld in het eerste lid, rekening houdend met de provisionele bedragen, vermeld in het eerste en tweede lid. Voor de controle op de voorwaarde om een compenserend budget voor de maanden juli tot en met december 2021 te verkrijgen, vermeld in paragraaf 1, vijfde en zesde lid, wordt het theoretisch aantal eenheidsprestaties bepaald als de helft van het theoretisch aantal eenheidsprestaties op jaarbasis, vermeld in de revalidatieovereenkomst, vermeld in artikel 157. Het bedrag dat op de voormelde wijze is berekend, wordt teruggevorderd van de revalidatievoorziening of betaald door de administratie.
+...
 
-## HOOFDSTUK 2. Tegemoetkomingen voor reiskosten
+## ...
 
-## Afdeling 1. [... (opgeh. BVR 8 september 2023, art. 51, I: 1 oktober 2023)]
+## ...
 
 ### ART 194.
 
@@ -2304,175 +1832,85 @@ In september 2022 maakt de administratie een eindafrekening voor het compenseren
 
 ...
 
-## Afdeling 2. Tegemoetkomingen voor reiskosten voor zorggebruikers die worden vervoerd in een voertuig dat is aangepast voor het vervoer in een rolstoel
+## ...
 
 ### ART 196.
 
-Voor het vervoer van een zorggebruiker aan wie een revalidatieverstrekking wordt verleend in een revalidatievoorziening in een voertuig dat is aangepast voor het vervoer in een rolstoel, wordt een tegemoetkoming voor reiskosten toegekend als voldaan is aan al de volgende voorwaarden:<br>
-1° de zorggebruiker komt in aanmerking voor een tegemoetkoming voor een ambulante revalidatieverstrekking op dezelfde dag;<br>
-2° de zorggebruiker kan wegens de aard en de ernst van zijn aandoening alleen worden vervoerd in een rolstoel in een voertuig dat is aangepast voor het vervoer in een rolstoel;<br>
-3° de zorggebruiker verblijft niet in een ziekenhuis of een revalidatieziekenhuis, waarin een revalidatieovereenkomst is gesitueerd;<br>
-4° de zorggebruiker wordt niet in zijn werkelijke verblijfplaats behandeld.
+...
 
 ### ART 197.
 
-Als de zorggebruiker wordt vervoerd in zijn eigen voertuig dat is aangepast voor het vervoer in een rolstoel, bedraagt het bedrag van de tegemoetkoming 0,25 euro per kilometer.<br>
-<br>
-Als de zorggebruiker wordt vervoerd door een professionele vervoerder in een voertuig dat is aangepast voor het vervoer in een rolstoel, bedraagt het bedrag van de tegemoetkoming 1,32 euro per kilometer.<br>
-<br>
-Als de zorggebruiker wordt vervoerd door een professionele vervoerder, die een subsidie ontvangt die zijn personeelskosten dekt, in een voertuig dat is aangepast voor het vervoer in een rolstoel, bedraagt het bedrag van de tegemoetkoming 0,49 euro per kilometer.
+...
 
 ### ART 198.
 
-§ 1. Als de zorggebruiker wordt vervoerd in zijn eigen voertuig dat is aangepast voor het vervoer in een rolstoel, wordt het aantal kilometer dat in aanmerking komt voor de berekening van de tegemoetkoming voor reiskosten vertegenwoordigd door de afstand tussen de werkelijke verblijfplaats van de zorggebruiker en de revalidatievoorziening.<br>
-<br>
-§ 2. Als een zorggebruiker wordt vervoerd door een professionele vervoerder, wordt het aantal kilometer dat in aanmerking komt voor de berekening van de tegemoetkoming voor reiskosten bepaald op de volgende wijze:<br>
-1° de afstand tussen de werkelijke verblijfplaats van de zorggebruiker en de revalidatievoorziening;<br>
-2° de afstand heen of terug als er zich geen zorggebruiker in het voertuig bevindt, kan worden toegevoegd. Daarbij gelden de volgende beperkingen:<br>
-a) bij transport van één zorggebruiker wordt de afstand, waarbij er zich geen zorggebruiker in het voertuig bevindt, tussen de werkelijke verblijfplaats van de zorggebruiker en de zetel van de professionele vervoerder, die het dichtst bij de werkelijke verblijfplaats van de zorggebruiker ligt, beperkt tot 5 kilometer;<br>
-b) bij transport van verschillende zorggebruikers mag de afstand waarbij er zich geen zorggebruikers in het voertuig bevinden, tussen de werkelijke verblijfplaats van de zorggebruiker en de zetel van de professionele vervoerder, die het dichtst bij de werkelijke verblijfplaats van de zorggebruiker ligt, maximaal één keer worden geteld.<br>
-<br>
-§ 3. Voor de toepassing van dit artikel wordt de afstand bepaald op basis van de berekening door een digitale routeplanner. De zorggebruiker of de professionele vervoerder kan altijd aantonen welke methode is gekozen om de afstand te berekenen.
+...
 
 ### ART 199.
 
-De tegemoetkoming voor reiskosten, vermeld in artikel 196, wordt voor elke zorggebruiker berekend met de volgende formule: het bedrag van de tegemoetkoming per kilometer, vermeld in artikel 197, vermenigvuldigd met het aantal kilometer, dat wordt berekend conform artikel 198.<br>
-<br>
-Bij vervoer van verschillende zorggebruikers wordt de tegemoetkoming voor reiskosten per zorggebruiker verminderd met 20 % vanaf twee zorggebruikers en met 30 % vanaf drie zorggebruikers.<br>
-<br>
-De minister kan een plafond bepalen voor het bedrag van de tegemoetkoming voor reiskosten.
+...
 
 ### ART 200.
 
-Als de zorggebruiker wordt vervoerd in zijn eigen voertuig dat is aangepast voor het vervoer in een rolstoel, wordt de tegemoetkoming voor reiskosten, vermeld in artikel 196, toegekend aan de zorggebruiker.<br>
-<br>
-Als de zorggebruiker wordt vervoerd door een professionele vervoerder, wordt de tegemoetkoming voor reiskosten, vermeld in artikel 196, toegekend aan de vervoerder of de zorggebruiker.<br>
-<br>
-Aan de zorggebruiker die door een professionele vervoerder wordt vervoerd, kan geen eigen bijdrage voor dat vervoer worden aangerekend.
+...
 
 ### ART 201.
 
-De tegemoetkoming voor reiskosten, vermeld in artikel 196, is afhankelijk van de voorafgaandelijk goedkeuring van de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven. Die goedkeuring wordt verleend conform de aanvraagprocedure, vermeld in hoofdstuk 3.
+...
 
-## Afdeling 3. Indexering
+## ...
 
 ### ART 202.
 
-De bedragen, vermeld in artikel 197, worden, tenzij het anders vermeld is, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden aangepast conform de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+...
 
-## Afdeling 4. Financiële betrekkingen tussen de vervoerder, de zorggebruiker en de verzekeringsinstellingen
+## ...
 
 ### ART 203.
 
-§ 1. De vervoerder bepaalt of hij zijn facturen bezorgt aan de zorggebruiker, of aan de verzekeringsinstelling.<br>
-<br>
-De vervoerder gebruikt hiervoor een model dat zowel de revalidatievoorziening als de zorggebruiker valideren. De administratie kan het model bepalen.<br>
-<br>
-De vervoerder mag geen extra vergoeding of andere kosten aanrekenen aan de zorggebruiker dan wel aan de verzekeringsinstelling dan de kilometervergoeding, vermeld in paragraaf 2.<br>
-<br>
-§ 2. De verzekeringsinstelling betaalt aan de rechthebbende een forfaitaire kilometervergoeding per dag op basis van een attest van het aantal dagen waarop revalidatie gevolgd werd in een revalidatievoorziening die daarvoor in aanmerking komt conform het decreet van 6 juli 2018.<br>
-<br>
-De verzekeringsinstelling betaalt aan de rechthebbende een kilometervergoeding als de rechthebbende zijn rolstoel niet kan verlaten tijdens het vervoer en hij in het bezit is van een eigen aangepast voertuig voor vervoer in een rolstoel per dag revalidatie in een revalidatievoorziening.
+...
 
-## HOOFDSTUK 3. Aanvraagprocedure
+## ...
 
 ### ART 204.
 
-In dit hoofdstuk wordt verstaan onder:<br>
-1° aanvraag: de aanvraag van de tegemoetkoming voor revalidatieverstrekkingen, waarbij, in voorkomend geval, de aanvraag wordt toegevoegd van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, die verband houden met die revalidatieverstrekkingen;<br>
-2° ontvangstdatum: de datum waarop de volledige aanvraag is ontvangen. Bij verzending met een aangetekende zending is dat de postdatum van de brief waarmee de volledige aanvraag is verzonden. Als de postdatum ontbreekt, is het de datum waarop de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een volledige aanvraag heeft ontvangen. Een aanvraag wordt in de volgende gevallen als volledig beschouwd:<br>
-a) deel 1 en 2, vermeld in artikel 209, 1° en 2°, zijn ondertekend en gedagtekend en deel 3, vermeld in artikel 209, 3°, is ondertekend en gedagtekend. Een aanvraag voor reiskosten kan gedaan worden door deel 1, 2 en 3 aan te vullen in de aanvraag, vermeld in artikel 209, 1° tot en met 3°, met deel 4, vermeld in artikel 209, 4°, of door een afzonderlijke aanvraag in te dienen waarin deel 1 en 2, vermeld in artikel 209, 1° en 2°, ondertekend en gedagtekend zijn, en deel 4 ingevuld en onderbouwd is met het verslag conform artikel 209, 4°, waarbij de reiskosten gekoppeld zijn aan een revalidatieverstrekking waarvoor een tegemoetkoming door de verzekeringsinstelling is toegekend;<br>
-b) ....
+...
 
 ### ART 205.
 
-Een tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de reiskosten die verband houden met die revalidatieverstrekkingen of de reiskosten die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het erkenningsnummer 7.72, kan alleen worden toegekend als de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een beslissing tot goedkeuring van de aangevraagde tegemoetkoming heeft genomen.
+...
 
 ### ART 206.
 
-De revalidatievoorziening, waartoe de zorggebruiker zich wendt, verstuurt de aanvraag naar de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, voordat de revalidatieverstrekkingen worden verleend.<br>
-<br>
-De revalidatievoorziening stelt de revalidatieovereenkomst ter beschikking van de zorggebruiker of zijn wettelijke vertegenwoordiger voordat de aanvraag wordt ingediend.<br>
-<br>
-De aanvraag wordt ingediend met een aangetekende zending of om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.<br>
-<br>
-Elke aanvraag wordt rechtstreeks gericht aan één centraal contactpunt, dat wordt bepaald door de betrokken verzekeringsinstelling.
+...
 
 ### ART 207.
 
-Er wordt geen tegemoetkoming toegekend voor revalidatieverstrekkingen en reiskosten die vroeger dan dertig dagen voor de ontvangstdatum zijn verricht.
+...
 
 ### ART 208.
 
-In geval van een beslissing tot weigering van de verzekeringsinstelling is de ontvangstdatum van de aanvraag niet meer van toepassing, behalve in de gevallen waarin de aanvraag administratief wordt geweigerd omdat de zorggebruiker geen rechthebbende is als vermeld in artikel 2, 13°, van het decreet van 6 juli 2018.
+...
 
 ### ART 209.
 
-De revalidatievoorziening stelt samen met de zorggebruiker de aanvraag op. De aanvraag wordt opgemaakt aan de hand van het model van aanvraagformulier dat is opgenomen in de revalidatieovereenkomst. Het aanvraagformulier bestaat uit de volgende delen:<br>
-1° deel 1 dat ondertekend en gedagtekend wordt door een administratief verantwoordelijke van de revalidatievoorziening bestaat uit een document dat de volgende informatie bevat:<br>
-a) de gegevens van de revalidatievoorziening;<br>
-b) de gegevens over de soort revalidatieverstrekking;<br>
-c) de periode waarin de revalidatieverstrekkingen plaatsvinden;<br>
-d) in voorkomend geval, met welke frequentie de revalidatieverstrekkingen plaatsvinden.<br>
-2° deel 2: de aanvraag van de zorggebruiker of zijn wettelijke vertegenwoordiger van de tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de aanvraag van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel en een geïnformeerde toestemming. De geïnformeerde toestemming kan enkel worden gegeven nadat de zorggebruiker of zijn wettelijke vertegenwoordiger heeft kennisgenomen van de revalidatieovereenkomst. Dit deel wordt ondertekend en gedagtekend door de zorggebruiker of zijn wettelijke vertegenwoordiger;<br>
-3° deel 3: een gestandaardiseerd medisch verslag. Dit deel wordt ingevuld, ondertekend en gedagtekend door een behandelende arts van de revalidatievoorziening. Dit deel wordt niet ingediend door de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90;<br>
-4° deel 4: in geval een tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel wordt gevraagd: een gestandaardiseerd medisch verslag waaruit blijkt dat de zorggebruiker door de aard en de ernst van zijn pathologie de rolstoel niet kan verlaten tijdens het vervoer.
+...
 
 ### ART 210.
 
-§ 1. De verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, is belast met de administratieve controle van de aanvraag en controleert:<br>
-1° de verzekeringsstatus van de zorggebruiker, vermeld in artikel 4 van het decreet van 6 juli 2018;<br>
-2° de naleving door de zorggebruiker van de regels over de cumulatie, vermeld in de revalidatieovereenkomst en in artikel 28 tot en met 38 van dit besluit.<br>
-<br>
-De verzekeringsinstelling vraagt, als dat nodig is, ontbrekende informatie op bij de zorggebruiker of de revalidatievoorziening. Als de verzekeringsinstelling ontbrekende informatie opvraagt bij de revalidatievoorziening, brengt ze de zorggebruiker daarvan gelijktijdig op de hoogte.<br>
-<br>
-Als de voorwaarden, vermeld in het eerste lid, niet zijn vervuld, wordt de aanvraag administratief geweigerd door de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven. In afwijking van artikel 211 neemt de verzekeringsinstelling die beslissing tot weigering, zonder voorafgaand het advies van de Zorgkassencommissie in te winnen.<br>
-<br>
-§ 2. Conform artikel 3, vierde lid, van het decreet van 6 juli 2018 kunnen revalidatievoorzieningen een administratief beroep indienen bij het Agentschap voor Vlaamse Sociale Bescherming. Het beroep wordt ingediend binnen drie maanden nadat de verzekeringsinstelling de beslissing tot weigering heeft verstuurd, als de weigering van de betaling van een tegemoetkoming voor de opmaak van een rolstoeladviesrapport of van een tegemoetkoming voor reiskosten die verband houdt met de opmaak van het rolstoeladviesrapport, te wijten is aan het feit dat de zorggebruiker geen rechthebbende is.<br>
-<br>
-Het beroepsschrift is ontvankelijk als het aan al de volgende voorwaarden voldoet:<br>
-1° het beroepsschrift is gemotiveerd;<br>
-2° het beroepschrift is binnen de termijn, vermeld in het eerste lid, aan het Agentschap voor Vlaamse Sociale Bescherming bezorgd.<br>
-<br>
-Het Agentschap voor Vlaamse Sociale Bescherming neemt een beslissing binnen een maand nadat het het administratief beroep heeft ontvangen. Het Agentschap voor Vlaamse Sociale Bescherming stuurt de beslissing binnen acht dagen met een aangetekende zending naar de revalidatievoorziening in kwestie.<br>
-<br>
-De minister kan nadere regels bepalen voor de uitvoering en de behandeling van het administratief beroep.
+...
 
 ### ART 211.
 
-§ 1. In de gevallen die de minister na advies van de Expertencommissie bepaalt, neemt de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, rekening houdend met het resultaat van de controle, vermeld in artikel 210, een beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag na eensluidend advies van de Zorgkassencommissie. Dat is de standaard aanvraagprocedure.<br>
-<br>
-Als de aanvraag onderworpen is aan de controle door de Zorgkassencommissie, bezorgt de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, de aanvraag binnen vijftien werkdagen na de ontvangstdatum aan de Zorgkassencommissie, zodra ze heeft vastgesteld dat de voorwaarden, vermeld in artikel 210, § 1, eerste lid, zijn vervuld. Die termijn wordt geschorst als de verzekeringsinstelling ontbrekende informatie opvraagt conform artikel 210, § 1, tweede lid.<br>
-<br>
-In afwijking van het eerste lid wordt de aanvraag van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, altijd ingediend conform de standaard aanvraagprocedure.<br>
-<br>
-De beslissing en het advies, vermeld in het eerste lid, is gebaseerd op een analyse van het type zorgaanbod en de medische problematiek van de doelgroep. Bij deze analyse wordt rekening gehouden met de resultaten van de a posteriori controle, vermeld in artikel 216.<br>
-<br>
-§ 2. De Zorgkassencommissie bezorgt binnen twintig werkdagen na de dag dat ze de aanvraag heeft ontvangen, het eensluidend advies over de aanvraag aan de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven.<br>
-<br>
-De Zorgkassencommissie levert dit advies af op basis van de bepalingen in de revalidatieovereenkomst in kwestie.<br>
-<br>
-Als de Zorgkassencommissie binnen twintig werkdagen na de dag dat ze de aanvraag heeft ontvangen geen eensluidend advies over de aanvraag bezorgt aan de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, wordt het advies geacht eensluidend gunstig te zijn.<br>
-<br>
-De Zorgkassencommissie kan ontbrekende informatie opvragen bij de zorggebruiker of de revalidatievoorziening, als ze dat noodzakelijk acht in het kader van haar adviesopdracht. Als de Zorgkassencommissie ontbrekende informatie opvraagt, wordt de termijn, vermeld in het eerste lid, geschorst. Als de Zorgkassencommissie ontbrekende informatie opvraagt bij de revalidatievoorziening brengt ze de zorggebruiker daarvan gelijktijdig op de hoogte.
+...
 
 ### ART 212.
 
-Behoudens in de gevallen, die de minister conform artikel 211 na advies van de Expertencommissie bepaalt, neemt de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven een beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag zonder voorafgaand het advies van de Zorgkassencommissie in te winnen. De verzekeringsinstelling houdt alleen rekening met het resultaat van de controle, vermeld in artikel 210, § 1, eerste lid. Dat is de vereenvoudigde aanvraagprocedure.
+...
 
 ### ART 213.
 
-De beslissing tot gehele of gedeeltelijke goedkeuring van de aanvraag van de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, vermeldt:<br>
-1° de gegevens van de revalidatievoorziening, de gegevens over de soort revalidatieverstrekking, de periode waarin en, in voorkomend geval, de frequentie waarmee de revalidatieverstrekkingen, waarvoor een tegemoetkoming wordt toegekend, worden verleend;<br>
-2° in voorkomend geval, de reiskosten, waarvoor een tegemoetkoming wordt toegekend.<br>
-<br>
-De beslissing tot weigering van de aanvraag van de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, wordt meegedeeld met een aangetekende zending en vermeldt:<br>
-1° de redenen van de weigering;<br>
-2° de beroepsmogelijkheden en de termijnen waarin beroep moet worden aangetekend.
+...
 
 ### ART 214.
 
@@ -2480,27 +1918,13 @@ De beslissing tot weigering van de aanvraag van de verzekeringsinstelling waarbi
 
 ### ART 215.
 
-§ 1. Bij de standaardaanvraagprocedure, vermeld in artikel 211, is voorzien dat de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, de beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag aan de zorggebruiker en de revalidatievoorziening binnen vijftien werkdagen na de dag dat ze het eensluidend advies van de Zorgkassencommissie heeft ontvangen, bezorgt.<br>
-<br>
-Als de Zorgkassencommissie geen eensluidend advies over de aanvraag bezorgt aan de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, binnen de termijn, vermeld in artikel 211, § 2, tweede lid, bezorgt de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, de beslissing aan de zorggebruiker en de revalidatievoorziening binnen vijftien werkdagen na afloop van de termijn, vermeld in artikel 211, § 2, tweede lid.<br>
-<br>
-Als de Zorgkassencommissie na de termijn, vermeld in artikel 211, § 2, tweede lid, een ongunstig eensluidend advies over de aanvraag bezorgt aan de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, bezorgt de verzekeringsinstelling een nieuwe beslissing aan de zorggebruiker en de revalidatievoorziening binnen vijftien werkdagen na de dag dat ze het eensluidend advies van de Zorgkassencommissie heeft ontvangen. Die nieuwe beslissing geldt vanaf de tiende werkdag na de aangetekende kennisgeving ervan.<br>
-<br>
-§ 2. Bij de vereenvoudigde aanvraagprocedure, vermeld in artikel 212, is voorzien dat de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, de beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag aan de zorggebruiker en de revalidatievoorziening binnen vijftien werkdagen na de ontvangstdatum, bezorgt.<br>
-<br>
-Als de verzekeringsinstelling de beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag niet binnen vijftien werkdagen na de ontvangstdatum aan de zorggebruiker en de revalidatievoorziening bezorgt, wordt de aanvraag geacht te zijn goedgekeurd.<br>
-<br>
-Zodra de verzekeringsinstelling vaststelt dat de zorggebruiker en de revalidatievoorziening niet binnen vijftien werkdagen na de ontvangstdatum een beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag hebben ontvangen, neemt ze alsnog een beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de aanvraag en brengt ze de zorggebruiker en de revalidatievoorziening daarvan onmiddellijk op de hoogte.<br>
-<br>
-Als de verzekeringsinstelling na vijftien werkdagen na de ontvangstdatum beslist om de aanvraag te weigeren, is ze verplicht de aanvraag goed te keuren als die betrekking heeft op revalidatieverstrekkingen die op zijn vroegst dertig dagen voor de ontvangstdatum en uiterlijk tien werkdagen na de kennisgeving van de beslissing tot weigering plaatsvinden. De beslissing tot weigering kan op zijn vroegst tien werkdagen na de kennisgeving van de beslissing tot weigering ingaan.<br>
-<br>
-De beslissingstermijn van de verzekeringsinstelling wordt geschorst als de verzekeringsinstelling ontbrekende informatie opvraagt conform artikel 210, § 1, tweede lid.
+...
 
 ### ART 216.
 
-Een a posteriori controle van de conformiteit van de medische gegevens, die worden beschreven in het gestandaardiseerd medisch verslag in deel 3 van het aanvraagformulier, vermeld in artikel 209, eerste lid, 3°, is mogelijk. De Zorgkassencommissie voert die controle uit op basis van de bepalingen in de revalidatieovereenkomst in kwestie. De minister kan de nadere regels voor de uitvoering van die controle bepalen.
+...
 
-## HOOFDSTUK 4. [... (opgeh. BVR 8 september 2023, art. 57, I: 1 oktober 2023)]
+## ...
 
 ### ART 217.
 
@@ -2530,149 +1954,73 @@ Een a posteriori controle van de conformiteit van de medische gegevens, die word
 
 ...
 
-## Titel 3. Tegemoetkomingen voor geplande revalidatieverstrekkingen in het buitenland en reiskosten die daarmee verband houden
+## ...
 
-## HOOFDSTUK 1. Inleidende bepaling
+## ...
 
 ### ART 224.
 
-Deze titel voorziet in de gedeeltelijk omzetting van de 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg.
+...
 
-## HOOFDSTUK 2. Voorwaarden en bedrag van de tegemoetkomingen
+## ...
 
 ### ART 225.
 
-§ 1. Voor geplande revalidatieverstrekkingen waarvoor de zorggebruiker minstens één nacht in een ziekenhuis moet verblijven in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland is een voorafgaande toestemming voor geplande zorg conform de richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg vereist. Voor alle andere vormen van revalidatieverstrekkingen in het buitenland is een voorafgaande toestemming vereist, waarvoor dezelfde toetssteen wordt gehanteerd als voor de beslissing tot goedkeuring, vermeld in artikel 205.<br>
-<br>
-§ 2. De zorggebruiker kan aanspraak maken op een tegemoetkoming voor geplande revalidatieverstrekkingen in het buitenland als aan al de volgende voorwaarden is voldaan:<br>
-1° de revalidatieverstrekkingen behoren tot het zorgaanbod van de revalidatievoorzieningen, waarvoor dit besluit in een tegemoetkoming voorziet;<br>
-2° de zorggebruiker voldoet aan de voorwaarden waaraan op basis van dit besluit moet zijn voldaan opdat een tegemoetkoming voor revalidatieverstrekkingen kan worden toegekend;<br>
-3° de revalidatieverstrekkingen worden verstrekt door een verstrekker die wettelijk gemachtigd is om de geneeskunde uit te oefenen in het land waar de revalidatieverstrekkingen plaatsvinden, of in een voorziening, die kan worden gelijkgesteld met een revalidatievoorziening en die voldoende geneeskundige waarborgen biedt of erkend is door de overheid van het land waar ze zich bevindt;<br>
-4° de zorggebruiker heeft, conform artikel 229 tot en met 238, een voorafgaande aanvraag ingediend en een goedkeuring voor de revalidatieverstrekkingen in kwestie verkregen van de verzekeringsinstelling;<br>
-5° op het ogenblik waarop de tegemoetkoming wordt toegekend, heeft de gebruiker de kosten al betaald en levert hij daarvan het bewijs.<br>
-<br>
-De minister kan bepalen hoe het bewijs, vermeld in het eerste lid, 5°, wordt geleverd.
+...
 
 ### ART 226.
 
-De zorggebruiker kan aanspraak maken op een tegemoetkoming voor reiskosten, die verband houden met geplande revalidatieverstrekkingen in het buitenland, als aan al de volgende voorwaarden is voldaan:<br>
-1° de zorggebruiker voldoet aan de voorwaarden waaraan op basis van dit besluit moet zijn voldaan opdat een tegemoetkoming voor reiskosten kan worden toegekend;<br>
-2° de zorggebruiker kan aanspraak maken op een tegemoetkoming voor de geplande revalidatieverstrekkingen in het buitenland, waarmee de reiskosten verband houden;<br>
-3° de zorggebruiker heeft, conform artikel 229 tot en met 238, een voorafgaande aanvraag ingediend en een goedkeuring voor de reiskosten in kwestie verkregen.
+...
 
 ### ART 227.
 
-Behalve in de gevallen, waarin de voorwaarden, vermeld in artikel 234, 1°, zijn vervuld, is het bedrag van de tegemoetkoming voor geplande revalidatieverstrekkingen in het buitenland het gewogen gemiddelde van de tegemoetkomingen, die worden toegekend voor revalidatieverstrekkingen, die worden verleend in revalidatievoorzieningen met een vergelijkbaar revalidatieprogramma en een vergelijkbare doelgroep. De tegemoetkoming kan niet hoger zijn dan de werkelijk gemaakte kosten.
+...
 
 ### ART 228.
 
-Voor de berekening van de tegemoetkoming voor reiskosten, die verband houden met geplande revalidatieverstrekkingen in het buitenland, wordt alleen de afstand in vogelvlucht, heen en terug, tussen de het centrum van Brussel en de plaats van de behandeling in aanmerking genomen. Voor de eerste 350 kilometer van de heen- en de terugweg wordt geen tegemoetkoming verleend.<br>
-<br>
-De tegemoetkoming voor reiskosten, die verband houden met geplande revalidatieverstrekkingen in het buitenland, wordt voor elke zorggebruiker berekend conform de volgende formule: het bedrag van de tegemoetkoming per kilometer, vermeld in het derde of vierde lid, vermenigvuldigd met het aantal kilometer, vermeld in het eerste lid.<br>
-<br>
-Als de zorggebruiker jonger is dan achttien jaar is en het revalidatieprogramma vergelijkbaar is met het revalidatieprogramma van de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.74.6 of 9.69, bedraagt de tegemoetkoming 0,25 euro per kilometer.<br>
-<br>
-Als uit een medisch verslag blijkt dat de zorggebruiker wegens de aard en de ernst van zijn aandoening alleen kan worden vervoerd in zijn rolstoel in een voertuig dat is aangepast voor het vervoer in een rolstoel bedraagt de tegemoetkoming:<br>
-1° 0,25 euro per kilometer als de zorggebruiker wordt vervoerd in zijn eigen voertuig dat is aangepast voor het vervoer in een rolstoel;<br>
-2° 1,30 euro per kilometer als de zorggebruiker wordt vervoerd door een professionele vervoerder in een voertuig dat is aangepast voor het vervoer in een rolstoel.<br>
-<br>
-Dit artikel is niet van toepassing in de gevallen, waarin de voorwaarden, vermeld in artikel 234, 1°, zijn vervuld.<br>
-<br>
-De bedragen, vermeld in dit artikel, worden, tenzij het anders is vermeld, gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100). Die bedragen worden aangepast conform de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
-<br>
-Die koppeling aan het indexcijfer, vermeld in het zesde lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+...
 
-## HOOFDSTUK 3. Aanvraagprocedure
+## ...
 
 ### ART 229.
 
-In dit hoofdstuk wordt verstaan onder:<br>
-1° aanvraag: de aanvraag van de tegemoetkoming voor revalidatieverstrekkingen in het buitenland, waarbij, in voorkomend geval, de aanvraag van een tegemoetkoming voor reiskosten die verband houden met die revalidatieverstrekkingen, wordt gevoegd;<br>
-2° ontvangstdatum: de datum waarop de volledige aanvraag is ontvangen. Bij verzending met de post is dat de postdatum van de brief waarmee de volledige aanvraag is verzonden. Als de postdatum ontbreekt, is het de datum waarop de verzekeringsinstelling een volledige aanvraag heeft ontvangen. Een aanvraag wordt als volledig beschouwd als het aanvraagformulier, vermeld in artikel 231, volledig is ingevuld.
+...
 
 ### ART 230.
 
-Voorafgaand aan de geplande revalidatieverstrekkingen en reiskosten in het buitenland, dient de zorggebruiker een aanvraag in voor de tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, voor de reiskosten die verband houden met deze revalidatieverstrekkingen bij de verzekeringsinstelling waarbij hij is aangesloten of ingeschreven.<br>
-<br>
-De aanvraag kan enkel worden ingediend nadat de zorggebruiker of zijn wettelijke vertegenwoordiger heeft kennisgenomen van de revalidatieovereenkomsten, waarvan het revalidatieprogramma vergelijkbaar is met het voorgeschreven buitenlandse revalidatieprogramma, vermeld in de aanvraag.
+...
 
 ### ART 231.
 
-De administratie stelt op zijn website een aanvraagformulier ter beschikking. De verzekeringsinstelling stelt ook een Franse, Engelse en Duitse versie van het aanvraagformulier ter beschikking.<br>
-<br>
-Het aanvraagformulier bevat minstens de volgende onderdelen:<br>
-1° een gedetailleerde omschrijving van het buitenlandse revalidatieprogramma dat wordt voorgeschreven;<br>
-2° welk soortgelijk revalidatieprogramma bestaat in een revalidatievoorziening als vermeld in het decreet van 6 juli 2018;<br>
-3° de motivatie waarom niet voor een revalidatievoorziening wordt gekozen;<br>
-4° een bijkomend document als een tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel wordt gevraagd: een gestandaardiseerd medisch verslag waaruit blijkt dat de zorggebruiker wegens de aard en de ernst van zijn aandoening zijn rolstoel niet kan verlaten tijdens het vervoer.<br>
-<br>
-Bij het aanvraagformulier kunnen stukken ter motivatie van de aanvraag worden gevoegd.<br>
-<br>
-Het aanvraagformulier wordt door een arts-specialist, gespecialiseerd in de revalidatie in kwestie, ingevuld, ondertekend en gedagtekend.
+...
 
 ### ART 232.
 
-De verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, is belast met de administratieve controle van de aanvraag en controleert:<br>
-1° de verzekeringsstatus van de zorggebruiker, vermeld in artikel 4 van het decreet van 6 juli 2018;<br>
-2° de naleving door de zorggebruiker van de regels over de cumulatie, vermeld in de revalidatieovereenkomst en in artikel 28 tot en met 38 van dit besluit.<br>
-<br>
-De cumulatie van tegemoetkomingen wordt onder meer gecontroleerd op basis van de cumulbepalingen, vermeld in de revalidatieovereenkomsten, waarvan het revalidatieprogramma vergelijkbaar is met het voorgeschreven buitenlandse revalidatieprogramma, vermeld in de aanvraag.<br>
-<br>
-De verzekeringsinstelling vraagt, als dat nodig is, ontbrekende informatie op bij de zorggebruiker.<br>
-<br>
-Als de voorwaarden, vermeld in het eerste lid, niet zijn vervuld, wordt de aanvraag administratief geweigerd door de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven. In afwijking van artikel 233 neemt de verzekeringsinstelling de beslissing tot weigering, zonder voorafgaand eensluidend advies van de Expertencommissie. De beslissing tot weigering van de aanvraag vermeldt de reden van de weigering, de beroepsmogelijkheden en de termijnen waarin het beroep moet worden aangetekend. De beslissing tot weigering wordt met een aangetekende zending aan de zorggebruiker bezorgd.
+...
 
 ### ART 233.
 
-De verzekeringstelling bezorgt de aanvraag binnen tien werkdagen na de ontvangstdatum aan de Expertencommissie.<br>
-<br>
-De termijn, vermeld in het eerste lid, wordt geschorst als de verzekeringsinstelling ontbrekende informatie vraagt aan de zorggebruiker. De termijn begint opnieuw te lopen op de werkdag na de dag waarop de verzekeringsinstelling de bijkomende informatie heeft ontvangen.
+...
 
 ### ART 234.
 
-De Expertencommissie onderzoekt het dossier en oordeelt of er is voldaan aan de volgende voorwaarden:<br>
-1° de voorwaarden, vermeld in verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;<br>
-2° de voorwaarden, vermeld in artikel 225, eerste lid, 1° tot en met 3°, van dit besluit, en in voorkomend geval, de voorwaarden, vermeld in artikel 226, 1° en 2°, van dit besluit.
+...
 
 ### ART 235.
 
-De Expertencommissie brengt een eensluidend advies uit aan de verzekeringsinstelling binnen vijftien werkdagen na de dag dat ze de aanvraag van de verzekeringsinstelling heeft ontvangen.<br>
-<br>
-Bij een positief advies in de gevallen waarin de voorwaarden, vermeld in artikel 234, 1°, zijn vervuld, adviseert de Expertencommissie om een voorafgaande toestemming te verlenen in de vorm van een formulier S2.<br>
-<br>
-Bij een positief advies in de gevallen waarin de voorwaarden, vermeld in artikel 234, 2°, zijn vervuld, vermeldt het advies van de Expertencommissie de volgende gegevens:<br>
-1° de periode van de tegemoetkoming;<br>
-2° de naam en het adres van de instelling waar de revalidatie wordt verleend;<br>
-3° de naam en het volledige adres van de verantwoordelijke buitenlandse arts;<br>
-4° een omschrijving van de revalidatieverstrekkingen;<br>
-5° de periode en de frequentie van de revalidatieverstrekkingen;<br>
-6° het bedrag van de tegemoetkoming voor de revalidatieverstrekkingen en, in voorkomend geval, de reiskosten.<br>
-<br>
-De termijn, vermeld in het eerste lid, wordt geschorst als de Expertencommissie bijkomende informatie van de zorggebruiker nodig heeft. De Expertencommissie vraagt aan de verzekeringsinstelling om de ontbrekende informatie te vragen aan de zorggebruiker. De termijn, vermeld in het eerste lid, begint opnieuw te lopen op de werkdag dat de aanvraag opnieuw wordt behandeld door de Expertencommissie.
+...
 
 ### ART 236.
 
-Op basis van het eensluidend advies van de Expertencommissie, neemt de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een beslissing tot gehele of gedeeltelijke goedkeuring of tot weigering van de gevraagde tegemoetkoming.<br>
-<br>
-Binnen vijf werkdagen na de dag dat de verzekeringsinstelling het advies van de Expertencommissie heeft ontvangen, brengt de verzekeringsinstelling de zorggebruiker op de hoogte van de beslissing tot gehele of gedeeltelijke goedkeuring of weigering van de gevraagde tegemoetkoming en, in voorkomend geval, van de redenen van de weigering, van de beroepsmogelijkheden en de termijnen waarin het beroep moet worden aangetekend. De beslissing tot weigering wordt met een aangetekende zending aan de zorggebruiker bezorgd.<br>
-<br>
-In de gevallen waarin de voorwaarden, vermeld in artikel 234, 1°, zijn vervuld, voegt de verzekeringsinstelling het formulier S2 bij de beslissing tot gehele of gedeeltelijke goedkeuring.<br>
-<br>
-In de gevallen waarin de voorwaarden, vermeld in artikel 234, 2°, zijn vervuld, vermeldt de beslissing tot gehele of gedeeltelijke goedkeuring van de verzekeringsinstelling de gegevens die zijn opgenomen in het advies van de Expertencommissie, vermeld in artikel 235, derde lid.
+...
 
 ### ART 237.
 
-De periode waarvoor de aangevraagde tegemoetkoming kan worden toegekend, begint op zijn vroegst te lopen op de dag nadat de zorggebruiker de beslissing van de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, heeft ontvangen.<br>
-<br>
-Als de verzekeringsinstelling een beslissing tot gehele of gedeeltelijke goedkeuring neemt en die beslissing niet binnen dertig werkdagen na de ontvangstdatum aan de zorggebruiker bezorgt, begint de periode waarvoor een tegemoetkoming kan worden toegekend, op zijn vroegst op de dag na een termijn van dertig werkdagen die volgt op de ontvangstdatum.<br>
-<br>
-Als de verzekeringsinstelling een beslissing tot weigering neemt en die beslissing niet binnen dertig werkdagen na de ontvangstdatum aan de zorggebruiker bezorgt, wordt de aanvraag, geacht te zijn goedgekeurd door de verzekeringsinstelling. De periode waarvoor in dat geval een tegemoetkoming kan worden toegekend, begint op zijn vroegst op de dag na een termijn van dertig werkdagen die volgt op de ontvangstdatum, en eindigt na een termijn van tien werkdagen die volgt op de dag van de beslissing tot weigering.
+...
 
 ### ART 238.
 
-Als de verzekeringsinstelling conform artikel 232, vierde lid, een beslissing tot weigering heeft genomen op basis van een inbreuk op de cumulatieverboden, vermeld in dit besluit, en de zorggebruiker een nieuwe aanvraag indient die dezelfde revalidatieverstrekkingen en, in voorkomend geval, dezelfde reiskosten tot voorwerp heeft als de oorspronkelijke aanvraag, voegt de zorggebruiker een bijkomende motivering over de cumulatie van tegemoetkomingen bij de aanvraag.<br>
-<br>
-De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste lid, met informatie over de tegemoetkomingen voor revalidatieverstrekkingen die al zijn toegekend, op basis waarvan de cumulbepalingen opnieuw kunnen worden geëvalueerd. De verzekeringsinstelling bezorgt de nieuwe aanvraag binnen de termijn, vermeld in artikel 233, eerste lid, aan hde administratie. In afwijking van artikel 232 beoordeelt niet de verzekeringsinstelling, maar wel de Expertencommissie de naleving van de regel over de cumulatie. De Expertencommissie voert die beoordeling uit in het kader van het onderzoek, vermeld in artikel 234.
+...
 
 ## Deel 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -2920,87 +2268,78 @@ Een erkend palliatief samenwerkingsverband kan een aanvraag tot beëindiging van
 
 ### ART 278.
 
-Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen wordt aan de minister gericht.<br>
+Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen wordt aan het agentschap gericht.<br>
 <br>
 De aanvragen bevatten minstens de volgende gegevens en documenten om ontvankelijk te zijn:<br>
 1° de identificatiegegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de datum waarop de aanvrager wil dat de overeenkomst in werking treedt;<br>
 3° de nodige bewijsstukken waaruit blijkt dat de leden van de multidisciplinaire begeleidingsequipe voldoen aan de voorwaarden, vermeld in artikel 335 en 336, voor hun specifieke vorming;<br>
-4° het personeelskostendossier, vermeld in artikel 322;<br>
+4° het personeelskostendossier, vermeld in artikel 534/198 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 5° een verklaring van het palliatieve samenwerkingsverband dat ze de aanvraag van de multidisciplinaire begeleidingsequipe ondersteunt, als de multidisciplinaire begeleidingsequipe de aanvraag indient;<br>
 6° een bewijs dat het palliatieve samenwerkingsverband gemachtigd is om de overeenkomst te sluiten namens de multidisciplinaire begeleidingsequipe als ze de aanvraag indient.
 
 ### ART 279.
 
-§ 1. de administratie onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 278.<br>
+§1. de administratie onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 278.<br>
 <br>
-de administratie stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van de ontvangst van de ontvankelijke aanvraag.<br>
+De administratie stuurt&nbsp; een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van de ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.<br>
-<br>
-In afwijking van het eerste lid vraagt de administratie geen advies in de volgende gevallen:<br>
-1° het betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 91, § 1, derde lid, van het decreet van 6 juli 2018;<br>
-2° de wijzigingen die beoogd worden, vloeien voort uit de bepalingen van de overeenkomst met de multidisciplinaire begeleidingsequipe zelf, vermeld in artikel 91, § 1, vierde lid, van het decreet van 6 juli 2018.
+§2. Het agentschap kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
 
 ### ART 280.
 
-Als de minister of de administratie een voorstel doet om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen, vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.<br>
-<br>
-In afwijking van het eerste lid vraagt de administratie geen advies in de volgende gevallen:<br>
-1° het voorstel, vermeld in het eerste lid, betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 91, § 1, derde lid, van het decreet van 6 juli 2018;<br>
-2° de wijzigingen die beoogd worden, vloeien voort uit de bepalingen van de overeenkomst met de multidisciplinaire begeleidingsequipe zelf, vermeld in artikel 91, § 1, vierde lid, van het decreet van 6 juli 2018.
+Als de minister of de administratie een voorstel doet om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen, kan de administratie advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.
 
 ### ART 281.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen in onderling overleg een gezamenlijk advies op over de adviesvragen, vermeld in artikel 279, § 2, en artikel 280. Ze streven daarbij naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom er geen consensus kon worden bereikt.
+...
 
 ### ART 282.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie bezorgen hun gezamenlijke advies, vermeld in artikel 281, aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag van de administratie.
+...
 
 ### ART 283.
 
-Als de Expertencommissie en de sectorale adviescommissie in kwestie binnen de door de administratie toegelaten termijn geen gezamenlijk advies aan de administratie hebben bezorgd, conform artikel 282, bezorgen ze binnen vijftien dagen na afloop van de termijn, vermeld in artikel 282, elk afzonderlijk een advies aan de administratie.
+...
 
 ### ART 284.
 
-Bij het opstellen van het gezamenlijke advies, vermeld in artikel 281, en de adviezen, vermeld in artikel 283, kunnen de Expertencommissie en de sectorale adviescommissie in kwestie, samen of op eigen initiatief:<br>
+Bij het opstellen van een advies kan de Expertencommissie of de sectorale adviescommissie in kwestie:<br>
 1° aanvullende inlichtingen vragen aan de administratie of de aanvrager;<br>
 2° deskundigen raadplegen die een specifieke expertise hebben op vlak van het voorstel of de aanvraag.
 
 ### ART 285.
 
-Bij ontstentenis van een gezamenlijk advies als vermeld in artikel 281, of van een of de beide van de individuele adviezen, vermeld in artikel 283, binnen de termijnen, vermeld in artikel 282 en 283 wordt de behandeling van de aanvraag voortgezet door de administratie.
+Als er geen advies als vermeld in artikel 280, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 286.
 
-De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met, het gezamenlijke advies, vermeld in artikel 281, of een of de beide van de adviezen, vermeld in artikel 283.<br>
+De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-De administratie bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 281, of een of de beide adviezen, vermeld in artikel 283, of na afloop van de termijn, vermeld in artikel 283.<br>
+Het agentschap bezorgt zijn advies aan de minister.<br>
 <br>
-Bij het advies wordt een van de volgende documenten gevoegd:<br>
-1° het gezamenlijke advies, vermeld in artikel 281, dat de administratie binnen de termijn, vermeld in artikel 282, heeft ontvangen;<br>
-2° een of de beide van de adviezen, vermeld in artikel 283, die de administratie binnen de termijn, vermeld in artikel 283, heeft ontvangen.
+Bij het advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 287.
 
-In het kader van zijn adviesopdracht, vermeld in artikel 286, kan de administratie aanvullende inlichtingen inwinnen bij de Expertencommissie en de sectorale adviescommissie in kwestie.
+In het kader van de adviesopdracht, vermeld in artikel 286, kan het agentschap:<br>
+1°&nbsp;&nbsp; &nbsp;aanvullende inlichtingen inwinnen bij de Expertencommissie of de sectorale adviescommissie in kwestie;<br>
+2°&nbsp;&nbsp; &nbsp;aanvullende inlichtingen inwinnen bij de aanvrager;<br>
+3°&nbsp;&nbsp; &nbsp;deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
 
 ### ART 288.
 
-De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 281 en 283, ter informatie aan het raadgevend comité VSB.
+...
 
 ### ART 289.
 
-De minister beslist over de goedkeuring van de aanvraag nadat hij het advies van de administratie heeft ontvangen, of na afloop van de termijn, vermeld in artikel 286, tweede lid.<br>
+De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van het agentschap en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.&nbsp;<br>
 <br>
-Bij een positieve beslissing over een aanvraag om een overeenkomst te sluiten, wordt een ontwerp van overeenkomst met de multidisciplinaire begeleidingsequipe opgemaakt. Bij een positieve beslissing over een aanvraag om een overeenkomst te wijzigen, wordt een ontwerp van addendum bij de overeenkomst met de multidisciplinaire begeleidingsequipe opgemaakt.<br>
-<br>
-Bij een negatieve beslissing worden met een aangetekende zending die de minister ondertekend heeft, aan de aanvrager de redenen meegedeeld waarom de aanvraag niet kan worden goedgekeurd.
+Het agentschap deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
 
 ### ART 290.
 
-De beslissingen van de minister, vermeld in artikel 289, worden ter informatie meegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 280 advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, worden de beslissingen van de minister, vermeld in artikel 289, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
 ### ART 291.
 
@@ -3014,7 +2353,7 @@ De overeenkomsten met een multidisciplinaire begeleidingsequipe worden gesloten 
 
 ### ART 292.
 
-Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 277, te beëindigen wordt gericht aan de minister. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
+Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 277, te beëindigen wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
 1° de identificatiegegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de redenen voor de beëindiging van de overeenkomst;<br>
 3° de maatregelen om de continuïteit van de dienstverlening te garanderen;<br>
@@ -3026,29 +2365,29 @@ De maatregelen om de continuïteit van de dienstverlening te garanderen, vermeld
 
 § 1. De administratie onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 292.<br>
 <br>
-De administratie stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+De administratie stuurt een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
 Als de aanvraag niet is ingediend door het palliatieve samenwerkingsverband in naam van de multidisciplinaire begeleidingsequipe wordt het palliatieve samenwerkingsverband van de aanvraag, vermeld in artikel 277, op de hoogte gebracht.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de dienstverlening te garanderen.
+§ 2. De administratie kan over elke aanvraag die ontvankelijk is conform paragraaf 1, advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de dienstverlening te garanderen.
 
 ### ART 294.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 293, § 2. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het gezamenlijk advies waarom geen consensus kon worden bereikt. Ze bezorgen de adviezen aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag.
+...
 
 ### ART 295.
 
-Bij ontstentenis van het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294, binnen de termijnen, vermeld in artikel 294, wordt de behandeling van de aanvraag voortgezet door de administratie.
+Als er geen advies als vermeld in artikel 293, §2, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 296.
 
-De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294.<br>
+De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-De administratie bezorgt dat advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 294, een afzonderlijk advies of, in voorkomend geval, beide afzonderlijke adviezen, vermeld in artikel 294, of na afloop van de termijn, vermeld in artikel 294. Bij elk advies van de administratie worden de adviezen gevoegd die binnen de termijn, vermeld in artikel 294, ontvangen zijn.
+Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 297.
 
-De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 294, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+...
 
 ### ART 298.
 
@@ -3060,7 +2399,7 @@ De multidisciplinaire begeleidingsequipe kan geen aanspraak maken op een vergoed
 
 De beslissing van de minister met de maatregelen voor de continuïteit van de dienstverlening, vermeld in artikel 298, wordt met een aangetekende zending bezorgd aan de multidisciplinaire begeleidingsequipe en het palliatief samenwerkingsverband waarvan de multidisciplinaire begeleidingsequipe deel uitmaakt.<br>
 <br>
-De beslissing van de minister, vermeld in het eerste lid, wordt ter informatie, meegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 293, §2, advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in het eerste lid, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
 ## Afdeling 2. Beëindiging van een overeenkomst op initiatief van de minister of van het agentschap
 
@@ -3076,33 +2415,33 @@ Als de minister of de administratie een voornemen tot beëindiging van de overee
 
 ### ART 301.
 
-De administratie vraagt binnen vijftien dagen na de dag van de ontvangst van de reactie, vermeld in artikel 300, § 2, of na afloop van de termijn, vermeld in artikel 300, § 2, advies over het voornemen tot beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe aan de Expertencommissie en de sectorale adviescommissie in kwestie.<br>
+Het agentschap kan advies vragen over het voornemen tot beëindiging van de overeenkomst met een multidisciplinaire begeleidingsequipe aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
 <br>
-Bij de adviesvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
+Bij de adviesvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en, in voorkomend geval, het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
 
 ### ART 302.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 301. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom er geen consensus kon worden bereikt. Ze bezorgen de adviezen aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag .
+De Expertencommissie of de sectorale adviescommissie in kwestie stelt een advies op over de adviesvragen, vermeld in artikel 301. De Expertencommissie of de sectorale adviescommissie bezorgt dat advies aan het agentschap.
 
 ### ART 303.
 
-Bij ontstentenis van de adviezen, vermeld in artikel 302, binnen de termijn, vermeld in artikel 302, wordt de behandeling van de aanvraag voortgezet door de administratie.
+Als er geen advies als vermeld in artikel 302, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 304.
 
-De administratie maakt een advies op over de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe en kan daarbij, in voorkomend geval, rekening houden met de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2.<br>
+De administratie maakt een advies op over de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe en kan daarbij, in voorkomend geval, rekening houden met het advies, vermeld in artikel 302, en de reactie en&nbsp;, in voorkomend geval, het voorstel of de voorstellen vermeld in artikel 300, § 2.<br>
 <br>
-De administratie bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 302, een afzonderlijk advies of, in voorkomend geval, de beide afzonderlijke adviezen, vermeld in artikel 302, of na afloop van de termijn, vermeld in artikel 302. Bij elk advies van de administratie worden de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
+Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel of de voorstellen, vermeld in artikel 300, §2, gevoegd.
 
 ### ART 305.
 
-De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie, vermeld in artikel 302, ter informatie aan het raadgevend comité VSB.
+...
 
 ### ART 306.
 
 § 1. De minister beslist om de overeenkomst met de multidisciplinaire begeleidingsequipe al dan niet te beëindigen.<br>
 <br>
-§ 2. Als het voornemen tot beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe is meegedeeld omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 322, kan de minister, in afwijking van paragraaf 1, een termijn opleggen waarin de multidisciplinaire begeleidingsequipe de tekortkomingen die in het voornemen vermeld zijn, moet wegwerken.<br>
+§ 2. Als het voornemen tot beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe is meegedeeld omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 321 van dit besluit en artikel 534/198 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, kan de minister, in afwijking van paragraaf 1, een termijn opleggen waarin de multidisciplinaire begeleidingsequipe de tekortkomingen die in het voornemen vermeld zijn, moet wegwerken.<br>
 <br>
 Als de multidisciplinaire begeleidingsequipe binnen de termijn die de minister oplegt, vermeld in het eerste lid, de tekortkomingen niet heeft weggewerkt, wordt de overeenkomst alsnog beëindigd.<br>
 <br>
@@ -3112,7 +2451,7 @@ De multidisciplinaire begeleidingsequipe kan geen aanspraak maken op een vergoed
 
 ### ART 307.
 
-De beslissing met de eventuele maatregelen voor de continuïteit van de dienstverlening, vermeld in artikel 306, § 3, wordt ter informatie meegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 301 advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in artikel 306, §6, ter informatie meegedeeld aan de Expertencommissie en aan de sectorale adviescommissie in kwestie.
 
 ### ART 308.
 
