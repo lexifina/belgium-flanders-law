@@ -42,6 +42,15 @@ In artikel 6.52 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 <br>
 In afwijking van het eerste lid wordt het referentie-inkomen of een gedeelte ervan van de familieleden van de eerste, tweede en derde graad van de huurder die op het moment van de huurprijsberekening erkend zijn als ernstig gehandicapt, vrijgesteld voor de huurprijsberekening. Het bedrag van de vrijstelling is gelijk aan de geïndexeerde inkomensvervangende tegemoetkoming die toegekend wordt aan de personen die behoren tot categorie B als vermeld in artikel 6, §1, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap. De voormelde geïndexeerde inkomensvervangende tegemoetkoming is de tegemoetkoming zoals die van toepassing is op 1 september van het jaar dat voorafgaat aan de vaststelling van het referentie-inkomen. De vrijstelling geldt per familielid van de eerste, tweede en derde graad van de huurder dat erkend is als ernstig gehandicapt. Als de vrijstelling groter is dan het referentie-inkomen van het familielid, wordt ze begrensd tot het referentie-inkomen van dat familielid.”.
 
+### ART 7.
+
+In artikel 6.57 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden “tweede weigering” vervangen door het woord “weigering”;<br>
+2° in het tweede lid wordt het bedrag “25 euro” vervangen door de zinsnede “15% van de reële huurprijs, met een minimum van 25 euro,”;<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+“In afwijking van het tweede lid betaalt de huurder die vergoeding pas na de tweede weigering als de eerst aangeboden woning die voldoet aan de voorwaarden, vermeld in artikel 6.65, tweede lid, ligt buiten een straal van meer dan 5 kilometer van de onderbezette woning. Tussen de eerste weigering en het volgende aanbod van een andere woning moet een periode verlopen zijn van ten minste drie maanden.”;<br>
+4° in het vijfde lid wordt de zinsnede “ en 3°” opgeheven.
+
 ### ART 8.
 
 Artikel 6.60 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
@@ -86,6 +95,16 @@ In artikel 6.60, §1, tweede lid, van hetzelfde besluit, vervangen bij artikel 8
 ### ART 10.
 
 In artikel 6.61, §2, vijfde lid, van hetzelfde besluit, worden de woorden “plaatsbeschrijving van uittreding” vervangen door de woorden “beëindiging van de huurovereenkomst”.
+
+### ART 11.
+
+In artikel 6.65 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid worden de volgende zinnen toegevoegd:<br>
+“Voor die berekening wordt het aantal huurders gelijkgesteld met één, tenzij de huurders wettelijk samenwonen maar geen partnerrelatie hebben. De wettelijke samenwoners die geen bloed- of aanverwanten zijn, bewijzen met een verklaring op erewoord dat ze geen partnerrelatie hebben.”;<br>
+2° in het tweede lid wordt punt 2° vervangen door wat volgt:<br>
+“2° de woning ligt in een straal van vijftien kilometer van de onderbezette woning of in dezelfde gemeente als de onderbezette woning;”;<br>
+3° in het tweede lid wordt punt 3° opgeheven;<br>
+4° in het vierde lid wordt de zinsnede “ en 3°” opgeheven.
 
 ### ART 12.
 
