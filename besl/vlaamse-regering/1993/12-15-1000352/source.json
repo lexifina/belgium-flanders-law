@@ -2,16 +2,16 @@
   "codex_id": 1000352,
   "title": "Besluit van de Vlaamse Regering van 1993-12-15 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000352/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "de0a3adb34f9fea441005f4c185c2af17996429c99e412944d94a23d57b7ba85",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000352/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "be6cd50563ca0ba1d1c1786568ddd323e7df5a26ae0cddea4a91c9a6d85d5c06",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000352&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "1993-12-15",
   "gazette": "1994-03-16",
   "numac": 1994035204,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
