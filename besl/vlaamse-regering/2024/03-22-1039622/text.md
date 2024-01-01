@@ -92,6 +92,37 @@ In artikel 3 van het besluit van de Vlaamse Regering van 24 juni 2016 over de be
 
 ## Hoofdstuk 6. Wijzigingen van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten
 
+### ART 9.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten, gewijzigd bij de besluiten van de Vlaamse Regering van 22 december 2017 en 17 juli 2020, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid worden punt 7° en punt 8° opgeheven;<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+“In afwijking van het eerste lid, 9° en 12°, gelden er geen kwalificaties voor de functiecodes, vermeld in artikel 7, tweede lid, 4°.”;<br>
+3° er wordt een derde, vierde en vijfde lid toegevoegd, die luiden als volgt:<br>
+“Om de geldelijke anciënniteit te bepalen, worden de volgende arbeidsdagen gelijkgesteld met de arbeidsdagen, vermeld in de regelgeving, vermeld in het eerste lid, 9° en 10°:<br>
+1° voor het directie- en het administratief personeel:<br>
+a) de gepresteerde en gelijkgestelde arbeidsdagen, in welke sector ook, ter uitvoering van een overeenkomst als bediende;<br>
+b) de gepresteerde en gelijkgestelde arbeidsdagen in een administratieve functie in openbare besturen;<br>
+c) de gepresteerde en gelijkgestelde arbeidsdagen in een administratieve functie in de door de overheid ingestelde, gesubsidieerde of erkende onderwijsinstellingen;<br>
+d) de gepresteerde en gelijkgestelde arbeidsdagen ter uitvoering van een overeenkomst als arbeider of bediende in een voorziening als vermeld in artikel 2, eerste lid, een maatwerkbedrijf of in een voorziening in de jeugdhulp;<br>
+2° voor het logistiek personeel:<br>
+a) de gepresteerde arbeidsdagen, in welke sector ook, ongeacht het statuut;<br>
+b) prestaties als zelfstandige worden aanvaard op voorwaarde van bewijs van aansluiting bij de kas voor sociale zekerheid voor zelfstandigen;<br>
+3° voor alle functies in het ondersteunend en begeleidend personeel en bijzondere functies, inclusief het opvoedkundig, paramedisch en verpleegkundig personeel:<br>
+a) de gepresteerde en gelijkgestelde arbeidsdagen ter uitvoering van een overeenkomst als arbeider of bediende in een voorziening als vermeld in artikel 2, eerste lid, een voorziening in de jeugdhulp of een maatwerkbedrijf;<br>
+b) de gepresteerde en gelijkgestelde arbeidsdagen in elke functie in openbare besturen, zonder dat de gepresteerde en gelijkgestelde arbeidsdagen in totaal een maximum van vijftien jaar kunnen overschrijden;&nbsp;<br>
+c) de gepresteerde en gelijkgestelde arbeidsdagen ter uitvoering van een overeenkomst als arbeider of bediende in diensten en voorzieningen die behoren tot de sectoren van de culturele en de personeelsgebonden aangelegenheden, vermeld in artikel 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, zonder dat de gepresteerde en gelijkgestelde arbeidsdagen in totaal een maximum van vijftien jaar kunnen overschrijden als het een overeenkomst als arbeider betreft;<br>
+d) de gepresteerde en gelijkgestelde arbeidsdagen als lid van het bestuurs-, het onderwijzend of opvoedend personeel van de door de overheid ingestelde, gesubsidieerde of erkende onderwijsinstellingen;<br>
+e) de gepresteerde en gelijkgestelde arbeidsdagen als lid van het onderhoudspersoneel, logistiek of technisch personeel van de door de overheid ingestelde, gesubsidieerde of erkende onderwijsinstellingen, zonder dat de gepresteerde en gelijkgestelde arbeidsdagen in totaal een maximum van vijftien jaar kunnen overschrijden;<br>
+f) de gepresteerde en gelijkgestelde arbeidsdagen, in welke sector ook, als maatschappelijk assistent, psycholoog, pedagoog, orthopedagoog, gegradueerde in de orthopedagogie, criminologie, agoog, opvoeder of lid van het begeleidend personeel, paramedicus of verpleger. Prestaties kunnen geleverd zijn als zelfstandige, uitgezonderd voor de functies geneesheer en geneesheer-specialist, op voorwaarde van bewijs van aansluiting bij de kas voor sociale zekerheid voor zelfstandigen, of op contractuele basis;<br>
+g) de gepresteerde en gelijkgestelde arbeidsdagen in elke sector, met uitzondering van de sectoren, vermeld in a) tot en met g), ter uitvoering van een overeenkomst als bediende of arbeider, zonder dat de gepresteerde en gelijkgestelde arbeidsdagen in totaal een maximum van vijftien jaar kunnen overschrijden.<br>
+In het derde lid wordt verstaan onder voorziening in de jeugdhulp: een erkende voorziening als vermeld in artikel 2, §1, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp.&nbsp;<br>
+In afwijking van het derde lid behoudt de werknemer die door het behalen van een diploma dat toegang geeft tot een hogere functie en barema, bij de aanvang van tewerkstelling conform het hogere barema, de geldelijke anciënniteit die is verworven in het lagere barema.”.
+
+### ART 10.
+
+Bijlage 2 bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt opgeheven.
+
 ## Hoofdstuk 7. Wijzigingen van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden
 
 ### ART 11.
@@ -134,7 +165,7 @@ In artikel 12, §2, van het besluit van de Vlaamse Regering van 14 december 2018
 
 ### ART 16.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2023, met uitzondering van artikel 9 en 10, die uitwerking hebben met ingang van 1 januari 2024.
+Dit besluit heeft uitwerking met ingang van 1 januari 2023, met uitzondering van&nbsp;artikel 8, 1°, 2°, 5°, 6° en 7°,&nbsp;artikel 9 en 10, die uitwerking hebben met ingang van 1 januari 2024.
 
 ### ART 17.
 
