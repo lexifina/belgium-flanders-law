@@ -114,9 +114,9 @@ De VDAB stelt, na advies van de raad van bestuur, een charter op dat de   rechte
 <br>
 § 2. De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende, die hun studie of leertijd hebben beëindigd, heeft recht op een van de volgende vergoedingen:<br>
 1° een abonnement van een openbare vervoersmaatschappij waarmee de VDAB een overeenkomst heeft gesloten;<br>
-2° een forfaitaire vergoeding voor verplaatsingen heen en terug, tussen zijn verblijfplaats en de opleidingsplaats. Die vergoeding bedraagt 0,15 euro per kilometer. Bij een verplaatsing met andere openbare vervoersmaatschappijen dan de openbare vervoersmaatschappijen, vermeld in punt 1°, betaalt de cursist zelf zijn abonnement. Als de forfaitaire verplaatsingsvergoeding niet volstaat om de kosten te dekken, betaalt de VDAB de effectieve abonnementskosten;<br>
-3° een forfaitaire vergoeding voor verre verplaatsing van 50 euro per aanwezige dag als de enkele verplaatsingstijd voor de cursist meer dan twee uur bedraagt of als de afstand tussen de verblijfplaats en de opleidingsplaats meer dan honderd kilometer bedraagt.<br>
-De vergoedingen kunnen door de Vlaamse Regering worden aangepast op voorstel of na raadpleging van de raad van bestuur van de VDAB;<br>
+2° een forfaitaire vergoeding voor verplaatsingen heen en terug, tussen zijn verblijfplaats en de opleidingsplaats. Die vergoeding bedraagt 0,17 euro per kilometer. Bij een verplaatsing met andere openbare vervoersmaatschappijen dan de openbare vervoersmaatschappijen, vermeld in punt 1°, betaalt de cursist zelf zijn abonnement. Als de forfaitaire verplaatsingsvergoeding niet volstaat om de kosten te dekken, betaalt de VDAB de effectieve abonnementskosten;&nbsp;De cursist verantwoordt de meerkosten aan de hand van betalingsbewijzen.<br>
+Het bedrag van de voormelde forfaitaire vergoeding voor verplaatsingen heen en terug wordt jaarlijks op 1 januari verhoogd met 2%.<br>
+3° ...<br>
 4° de terugbetaling van de effectieve uitgaven voor kinderopvang voor alle niet-schoolgaande kinderen tot ze toegelaten worden tot het kleuteronderwijs, en voor alle schoolgaande kinderen tot het einde van het basisonderwijs. Voor alle schoolgaande kinderen geldt een maximumbedrag, conform artikel 30, § 2, eerste lid, 2°, a), en § 3, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, voor kinderopvang tijdens schoolvrije dagen. Die uitgaven worden alleen terugbetaald voor de dagen waarop effectief beroepsopleiding wordt gevolgd. Op dagen van collectieve sluiting van de opleidingsinstelling of de werkgever of de leerwerkplek worden er geen uitgaven terugbetaald. De uitgaven worden terugbetaald als aan de volgende twee voorwaarden is voldaan:<br>
 a) de uitgaven zijn betaald aan een van de volgende instellingen:<br>
 1) instellingen of opvangvoorzieningen die erkend zijn of gesubsidieerd of gecontroleerd worden door Kind en Gezin;<br>
@@ -188,7 +188,13 @@ De VDAB kan, binnen de uitgetrokken budgettaire middelen, overeenkomsten   sluit
 
 ### ART. 11.
 
-De VDAB verzekert de cursist, vermeld in artikel 6 tot en met 9, tegen ongevallen die zich tijdens de opleiding, de stage of op de weg van en naar de opleidingsplaats of stageplaats voordoen. De verzekering verleent dezelfde waarborgen als die welke zijn opgenomen in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst, die tewerkgesteld is in het aan te leren beroep, recht heeft.<br /><br />De volgende cursisten vallen niet onder de toepassing van het eerste lid :<br />1° de werknemer die op verzoek van zijn werkgever een opleiding volgt als vermeld in artikel 70;<br />2° de cursist die een zelfstandige beroepsactiviteit uitoefent;<br />3° de leerling.
+De VDAB verzekert de cursist, vermeld in artikel 6 tot en met 9, tegen ongevallen die zich tijdens de opleiding, de stage of op de weg van en naar de opleidingsplaats of stageplaats voordoen. De verzekering verleent dezelfde waarborgen als die welke zijn opgenomen in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst, die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+<br>
+De volgende cursisten vallen niet onder de toepassing van het eerste lid :<br>
+1° de werknemer die op verzoek van zijn werkgever een opleiding volgt als vermeld in artikel 70;<br>
+2° de cursist die een zelfstandige beroepsactiviteit uitoefent;<br>
+3° de leerling;<br>
+4° de cursist die een alternerende opleiding volgt als vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.
 
 ### ART. 12.
 
