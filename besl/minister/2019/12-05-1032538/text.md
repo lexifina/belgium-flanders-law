@@ -25,8 +25,8 @@ DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW 
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt de vzw Middelbare Landbouwschool, Hoogstraat 30, te 9700 Oudenaarde, met ondernemingsnummer 0878.097.943, erkend als een gewestelijk centrum onder het nummer LG/19224.
+...
 
 ### ART 2.
 
-Dit besluit heeft uitwerking met ingang van 22 oktober 2019.
+...
