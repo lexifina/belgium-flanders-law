@@ -22,6 +22,21 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het Vergunningsbesluit van 22 november 2013 worden de volgende wijzigingen aangebracht:<br>
+1° voor punt 1°, dat punt 1/1° wordt, wordt een nieuw punt 1° ingevoegd, dat luidt als volgt:&nbsp;<br>
+“1° agentschap: het agentschap, vermeld in artikel 2 van het decreet van 20 april 2012;”;<br>
+2° er wordt een punt 2/1° ingevoegd, dat luidt als volgt:<br>
+“2/1° crisis: een situatie waarbij de fysieke of psychische integriteit van een kind tijdens de kinderopvang in gevaar of geschonden is;”;<br>
+3° er wordt een punt 4/1° ingevoegd, dat luidt als volgt:<br>
+“4/1° grensoverschrijdend gedrag: een situatie waarin een kind het slachtoffer is of dreigt te worden van onterende handelingen, bedreigingen of geweld door een persoon die aanwezig is in de kinderopvang;”;<br>
+4° punt 9° wordt opgeheven.
+
+### ART 2.
+
+In artikel 5 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 11 december 2015, wordt het woord “geschiktheid” vervangen door de woorden “het beleidsvoerend vermogen”.
+
 ### ART 4.
 
 Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -31,6 +46,32 @@ Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 Een traject gezinsopvang als vermeld in het eerste lid, focust op inzicht in de specifieke context van gezinsopvang.<br>
 <br>
 De minister bepaalt de nadere regels, minstens voor de inhoud van de kennis die aan bod komt in het traject gezinsopvang, vermeld in het eerste lid.”.
+
+### ART 5.
+
+In hoofdstuk 3 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt voor afdeling 1, die afdeling 1/1 wordt, een nieuwe afdeling 1, die bestaat uit een artikel 13/0, ingevoegd, die luidt als volgt:<br>
+<br>
+“Afdeling 1. Beleidsvoerend vermogen<br>
+<br>
+Art. 13/0. De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met de geldende normen en waarden, kwaliteitsvolle en duurzame kinderopvang te organiseren.&nbsp;<br>
+<br>
+De naleving van de voorwaarde, vermeld in het eerste lid, blijkt uit de manier waarop de volgende aspecten in de vergunde werking aanwezig zijn:<br>
+1° duidelijk leiderschap, met een gestructureerde werkomgeving, waar de bevoegdheden en verantwoordelijkheden duidelijk worden toebedeeld en waarbij de organisator ervoor zorgt dat alle medewerkers minstens de geïntegreerde aanpak, vermeld in punt 2°, kennen en toepassen;<br>
+2° een geïntegreerde aanpak van al de volgende thema’s:<br>
+a) infrastructuur als vermeld in artikel 13/1 tot en met artikel 21;<br>
+b) veiligheid en gezondheid als vermeld in artikel 22 tot en met artikel 29;<br>
+c) omgang met de kinderen en de gezinnen als vermeld in artikel 30 tot en met artikel 38;<br>
+d) personen die in de kinderopvanglocatie werken als vermeld in artikel 39 tot en met artikel 45;<br>
+e) organisatorisch management als vermeld in artikel 46 tot en met artikel 58;<br>
+f) samenwerking als vermeld in artikel 59 tot en met artikel 62;<br>
+3° een reflectieve, proactieve en reactieve houding met het oog op een voortdurende verbetering van de eigen werking, rekening houdend met de feedback en input van gezinnen, medewerkers en relevante expertise van externe organisaties;<br>
+4° een innovatieve houding, waarbij er oog is voor vernieuwing, rekening houdend met ontwikkelingen in de omgeving, de samenleving en de regelgeving;<br>
+5° doeltreffende communicatie en transparantie, waarbij erop gelet wordt dat de nodige en correcte informatie tijdig en duidelijk bij de juiste mensen terechtkomt, waaronder de personen die werken in de kinderopvanglocatie en de gezinnen van de opgevangen kinderen;<br>
+6° samenwerking en transparante communicatie met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners.<br>
+<br>
+De organisator zorgt voor ondersteuning voor zichzelf en voor zijn medewerkers voor alle voorwaarden, vermeld in het eerste en tweede lid.<br>
+<br>
+De organisator kan de naleving van alle voorwaarden, vermeld in het eerste, tweede en derde lid, aantonen op basis van onder meer documentatie.”.
 
 ### ART 6.
 
@@ -48,6 +89,119 @@ In elke leef- en rustruimte die de kinderen in de kinderopvanglocatie gebruiken,
 
 Aan artikel 20, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015, wordt de zinsnede “aanwezig in de binnenruimtes, vermeld in artikel 14” toegevoegd.
 
+### ART 8.
+
+Artikel 24 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 24. De organisator zorgt voor een omgeving die gezond is en zo veilig als nodig. Om deze omgeving te realiseren maakt de organisator een risicoanalyse.&nbsp;<br>
+<br>
+De risicoanalyse, vermeld in het eerste lid, gaat over al de volgende elementen:<br>
+1° de voorkoming van verwondingen, ongevallen, crisissen, levensbedreigende situaties en het verdwijnen van kinderen;<br>
+2° de voorkoming van ziekte, besmetting en verontreiniging.<br>
+<br>
+In de risicoanalyse, vermeld in het eerste lid, houdt de organisator rekening met al de volgende elementen:<br>
+1° een permanente begeleiding van de kinderen en een actief, auditief en visueel toezicht, ook tijdens de slaapsituatie;<br>
+2° de draagkracht bij de medewerkers;<br>
+3° het kwaliteitsvol en integer handelen van medewerkers.”.
+
+### ART 9.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2021, wordt er een artikel 24/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 24/1. Een kind dat jonger dan één jaar is, wordt op de rug te slapen gelegd, zowel binnen als buiten.&nbsp;<br>
+<br>
+De organisator kan een uitzondering toestaan op de verplichting, vermeld in het eerste lid, op basis van een attest van een arts van medische tegenindicatie of op basis van een attest van de contracthouder volgens het model dat door de minister wordt vastgesteld.&nbsp;<br>
+<br>
+Een kind dat jonger dan één jaar is, krijgt geen kussens of dekbed tijdens het slapen, zowel binnen als buiten.”.
+
+### ART 10.
+
+Artikel 27 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 27. De organisator zorgt ervoor dat elke medewerker de aanpak kent in verband met het correct en accuraat handelen in geval van crisis, grensoverschrijdend gedrag en verontrusting en in staat is om deze aanpak toe te passen.<br>
+<br>
+In het eerste lid wordt verstaan onder verontrusting: een bezorgdheid, ook buiten de kinderopvang, over de fysieke of psychische integriteit van een kind.”.
+
+### ART 11.
+
+Artikel 28 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt opgeheven.
+
+### ART 12.
+
+In hoofdstuk 3, afdeling 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, worden in het opschrift van onderafdeling 2 de woorden “en pedagogische ondersteuning” opgeheven.
+
+### ART 13.
+
+Artikel 31 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 31. §1. De organisator realiseert een pedagogisch beleid dat minstens betrekking heeft op al de volgende elementen:<br>
+1° de systematische screening en bevordering van het welbevinden van elk kind;<br>
+2° de systematische screening en bevordering van de betrokkenheid van elk kind;<br>
+3° de emotionele ondersteuning van elk kind door de kinderbegeleider;<br>
+4° de educatieve ondersteuning van elk kind door de kinderbegeleider;<br>
+5° de omgeving;<br>
+6° gezinnen en diversiteit.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° welbevinden: kunnen genieten, spontaan en zichzelf kunnen zijn, ontspannen zijn, zich openstellen, levenslust uitstralen, zelfvertrouwen hebben, weerbaar en assertief zijn en in contact zijn met zijn gevoelens;<br>
+2° betrokkenheid: geconcentreerd en tijdvergeten bezig zijn, gemotiveerd bezig zijn, een open houding hebben voor wat de omgeving te bieden heeft, intens mentaal actief zijn, exploratiedrang hebben en zich bewegen aan de grens van de eigen mogelijkheden;&nbsp;<br>
+3° emotionele ondersteuning: warm, respectvol en enthousiast omgaan met de kinderen met aandacht voor hun emotionele behoeften;<br>
+4° educatieve ondersteuning: het leren en de ontwikkeling van de kinderen stimuleren met aandacht voor de ideeën, de initiatieven en het standpunt van de kinderen zelf en met het gebruik van een rijke en gevarieerde taal;<br>
+5° omgeving: een toegankelijke en stimulerende indeling van de opvangruimtes voor de kinderen met een gevarieerd aanbod aan materialen en activiteiten en een doeltreffende organisatie van tijd en personeel voor de kinderen;<br>
+6° gezinnen en diversiteit: het samenwerken en communiceren met gezinnen, inspraak geven aan en ondersteunen van gezinnen met respect voor de eigenheid van elk gezin.<br>
+<br>
+In het pedagogische beleid realiseert de organisator:<br>
+1° regelmaat in de dagindeling;<br>
+2° continuïteit in de begeleiding;<br>
+3° het wennen;&nbsp;<br>
+4° het buitenspel;<br>
+5° een taalbeleid dat de Nederlandse taalverwerving van elk kind stimuleert, met daarnaast positieve aandacht voor de taal die het kind in zijn thuismilieu spreekt;<br>
+6° het bevorderen van een onderlinge respectvolle houding.<br>
+<br>
+§2. Aansluitend bij de realisatie van het pedagogische beleid, vermeld in paragraaf 1, voldoet de organisator aan een pedagogische norm die betrekking heeft op dimensies die overeenkomen met de elementen, vermeld in paragraaf 1, eerste lid. De minister stelt de nadere regels vast.”.
+
+### ART 14.
+
+Artikel 32 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 februari 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt opgeheven.
+
+### ART 15.
+
+Artikel 33 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2015 en 12 maart 2021, wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 33. De organisator zorgt voor betrokkenheid en participatie van de gezinnen door:<br>
+1° met de gezinnen individueel en collectief in dialoog te gaan over al de volgende aspecten:<br>
+a) de opvang van hun kind, waaronder de pedagogische aanpak, de omgang met het kind en als er problemen zijn;<br>
+b) de werking, waaronder de opvolging van een eventuele crisis of de opvolging van eventuele klachten, en de evaluatie van de werking door de gezinnen;<br>
+2° transparant te zijn over al de volgende aspecten:&nbsp;<br>
+a) de inspectierapporten van Zorginspectie;<br>
+b) de aanmaningen en elke bestuurlijke maatregel van het agentschap ten aanzien van de organisator;<br>
+c) de aanpak waarin de organisator voorziet en die de organisator hanteert naar aanleiding van de inspecties, aanmaningen en bestuurlijke maatregelen, vermeld in punt a) en b).”.
+
+### ART 16.
+
+In artikel 34, derde lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 25 januari 2019 en 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 3° wordt punt c) vervangen door wat volgt:&nbsp;<br>
+“c) om klachten te uiten, eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 58, en pas nadien via het agentschap, met uitzondering van klachten over een crisis, die direct tot het agentschap gericht kunnen worden. Het adres, e-mailadres en het telefoonnummer van het agentschap worden daarbij vermeld;”;<br>
+2° punt 4° wordt vervangen door wat volgt:<br>
+“4° de verwijzing naar:&nbsp;<br>
+a) de vergunning en de bijbehorende beslissing, en de duidelijke bekendmaking ervan;<br>
+b) de link naar de website van het agentschap over de status van handhaving;&nbsp;<br>
+c) de verzekeringen, vermeld in artikel 29, met de naam en het adres van de verzekeringsmaatschappij en het polisnummer.”.
+
+### ART 17.
+
+In artikel 40, §2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 4° vervangen door wat volgt:<br>
+“4° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;”;<br>
+2° in het tweede lid wordt de zinsnede “1° en” opgeheven;<br>
+3° in het tweede lid wordt de zinsnede “Het document, vermeld in het eerste lid, 4°” vervangen door de zinsnede “Het document, vermeld in het eerste lid, 1° en 4°”;<br>
+4° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+“De organisator zorgt voor een jaarlijkse actualisatie van de kennis over de reanimatietechnieken of andere aspecten van levensreddend handelen.”.
+
+### ART 18.
+
+Artikel 41 van hetzelfde besluit wordt opgeheven.
+
 ### ART 19.
 
 Aan artikel 42 van hetzelfde besluit worden een derde en vierde lid toegevoegd, die luiden als volgt:<br>
@@ -58,6 +212,145 @@ Aan artikel 42 van hetzelfde besluit worden een derde en vierde lid toegevoegd, 
 <br>
 De mogelijkheid, vermeld in het derde lid, zal geëvalueerd worden door het agentschap tegen uiterlijk 1 april 2025.”.
 
+### ART 20.
+
+In artikel 43 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2018 en 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt de volgende zin toegevoegd:<br>
+“De kinderbegeleider in een kwalificerend traject duaal leren wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject duaal leren.”;<br>
+2° in paragraaf 2, eerste lid, wordt punt 3° vervangen door wat volgt:<br>
+“3° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;”;<br>
+3° in paragraaf 2, eerste lid, 4°, wordt punt b) vervangen door wat volgt:<br>
+“b) een bewijs van actieve deelname aan een kwalificerend traject dat de minister vaststelt, dat ertoe leidt dat de kinderbegeleider een kwalificatiebewijs als vermeld in punt a) haalt, en de voormelde kinderbegeleider specifiek ondersteund wordt op de werkplek. Voor groepsopvang gelden naast de voormelde voorwaarde de volgende bijkomende voorwaarden:<br>
+1) per kinderbegeleider in een kwalificerend traject werken er drie voltijdsequivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;&nbsp;<br>
+2) er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie;”;<br>
+4° in paragraaf 2, tweede lid, wordt de zinsnede “1° en” opgeheven;<br>
+5° in paragraaf 2, tweede lid, wordt de zinsnede “Het document, vermeld in het eerste lid, 3°” vervangen door de zinsnede “Het document, vermeld in het eerste lid, 1° en 3°”;<br>
+&nbsp;6° aan paragraaf 2, tweede lid, wordt de volgende zin toegevoegd:<br>
+“De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.”.
+
+### ART 21.
+
+Artikel 44 van hetzelfde besluit wordt opgeheven.
+
+### ART 22.
+
+In artikel 45 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen het woord “kinderopvanglocatie” en het woord “direct” het woord “regelmatig” ingevoegd;<br>
+2° in het tweede lid wordt de zinsnede “1° en” opgeheven.
+
+### ART 23.
+
+In hoofdstuk 3, afdeling 5, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 april 2020, wordt het opschrift van onderafdeling 1 vervangen door wat volgt:<br>
+“Onderafdeling 1. Medewerkersbeleid”.
+
+### ART 24.
+
+Artikel 46 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 46. De organisator zorgt voor een actualisatie van de kennis die aan bod komt in het starterstraject, vermeld in artikel 8.”.
+
+### ART 25.
+
+Artikel 47 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art 47. De organisator realiseert een medewerkersbeleid en zorgt voor goede werkomstandigheden.<br>
+<br>
+De organisator screent de competenties van zijn medewerkers en analyseert hun vormings- en ondersteuningsbehoeften.<br>
+<br>
+De organisator heeft een specifiek beleid rond kinderbegeleiders in een kwalificerend traject als vermeld in artikel 43, §2, eerste lid, 4°, b).<br>
+<br>
+Voor de aanwezigheid van de kinderbegeleiders zorgt de organisator voor een planning en een registratie, minimaal voor de toepassing van het nodige aantal kinderbegeleiders, vermeld in artikel 42. De voormelde registratie is voor de afgelopen twaalf maanden ter beschikking in de kinderopvanglocatie.”.
+
+### ART 26.
+
+In artikel 49 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij de besluiten van de Vlaamse Regering van 11 december 2015 en 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt de zin “De organisator heeft de integriteit en geschiktheid om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle kinderopvang te organiseren.” opgeheven;<br>
+2° in paragraaf 2 wordt het tweede lid opgeheven.
+
+### ART 27.
+
+Artikel 50 en 51 van hetzelfde besluit worden opgeheven.
+
+### ART 28.
+
+Artikel 53 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 10 april 2020, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 53. De organisator met meer dan vijfhonderd vergunde kinderopvangplaatsen zorgt voor:<br>
+1° voldoende controlemechanismen tussen de raad van bestuur, de algemene vergadering en de directie waardoor ze elkaars werking en beslissingen op onafhankelijke en kritische wijze kunnen beoordelen;<br>
+2° een evenwichtige samenstelling van die organen, waarbij de leden complementair zijn ten opzichte van elkaar wat competentie en expertise betreft.”.
+
+### ART 29.
+
+Artikel 54 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 54. De organisator voert een financieel beleid dat erop gericht is continuïteit en kwaliteit in de organisatie van de kinderopvang te realiseren.”.<br>
+&nbsp;
+
+### ART 30.
+
+Artikel 57 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 april 2014, wordt opgeheven.
+
+### ART 31.
+
+Artikel 58 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 58. De organisator behandelt klachten van gezinnen en derden en hanteert daarvoor een procedure.<br>
+<br>
+De procedure, vermeld in het eerste lid, bevat:<br>
+1° een ontvangstmelding van de klacht;<br>
+2° het onderzoek van de klacht;<br>
+3° een schriftelijke mededeling van het resultaat aan de klager;<br>
+4° de wijze waarop over de klachtopvolging transparantie wordt verleend aan de gezinnen, vermeld in artikel 33, 1°, b).<br>
+<br>
+Bij de procedure worden de termijnen vermeld voor de stappen, vermeld in het tweede lid, 1°, 2° en 3°.<br>
+<br>
+De organisator registreert de klachten. In de voormelde registratie worden minstens de volgende gegevens opgenomen:<br>
+1° een omschrijving of samenvatting van de klacht;<br>
+2° het resultaat van de klachtenbehandeling in termen van gegrond, ongegrond of onduidelijk.”.
+
+### ART 32.
+
+Artikel 59 van hetzelfde besluit, opgeheven door het besluit van de Vlaamse Regering van 9 oktober 2015, wordt opnieuw opgenomen in de volgende lezing:<br>
+<br>
+“Art. 59. De organisator meldt de volgende situaties onmiddellijk aan het agentschap:<br>
+1° een crisis en grensoverschrijdend gedrag;<br>
+2° een klacht over een crisis;&nbsp;<br>
+3° als de organisator zelf of een van zijn medewerkers het voorwerp uitmaakt van een strafonderzoek of een veroordeling voor feiten ten aanzien van minderjarigen die een impact heeft op het goed gedrag en zeden van de persoon in kwestie en meer bepaald op zijn onberispelijke gedrag in de omgang met minderjarigen;&nbsp;<br>
+4° problemen of ontwikkelingen die een impact kunnen hebben op de continuïteit van de kinderopvang;<br>
+5° belangrijke wijzigingen in het bestuur van de organisator.<br>
+<br>
+De organisator geeft bij de melding, vermeld in het eerste lid, aan op welke wijze hij gevolg heeft gegeven aan de voormelde melding en in de toekomst preventief zal optreden.”.
+
+### ART 33.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2021, wordt het opschrift van hoofdstuk 4 vervangen door wat volgt:<br>
+<br>
+“Hoofdstuk 4. Afwijkings- en overgangsbepalingen”.
+
+### ART 34.
+
+Artikel 64 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 64. Personen die een attest tot afwijking of een bewijs van kennis hebben op basis van voorheen geldend artikel 64 tot en met artikel 66/1, voor de toepassing van de voorwaarden, vermeld in artikel 8, 11, 40, §2, eerste lid, 3° en 5°, en §3, en artikel 43, §2, eerste lid, 4°, behouden hun recht op de voormelde afwijking.<br>
+<br>
+Er geldt een overgangsperiode tot en met 31 maart 2024 om te voldoen aan de voorwaarde, vermeld in artikel 43, §2, eerste lid, 4°.<br>
+<br>
+De organisator van groepsopvang met kinderbegeleiders die in het specifieke sociaal statuut voor onthaalouders werken, kan, zolang de kinderbegeleiders in dat statuut werken, geen vergunning krijgen voor meer dan achttien kinderopvangplaatsen voor die kinderopvanglocatie.<br>
+<br>
+Als de kinderbegeleider in de gezinsopvang, die ook als verantwoordelijke werkt, zich tussen 1 januari 2019 en 31 december 2023 laat ondersteunen door een pool gezinsopvang als vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, geldt voor die persoon de kwalificatie, vermeld in artikel 43, §2, eerste lid, 4°, a), van dit besluit, in afwijking van de werkingsvoorwaarde over de kwalificatie, vermeld in artikel 40, §2, eerste lid, 5°, van dit besluit, uiterlijk tot en met 31 maart 2024.”.<br>
+&nbsp;
+
+### ART 35.
+
+In hetzelfde besluit worden de volgende artikelen opgeheven:<br>
+1° artikel 65, vervangen bij het besluit van de Vlaamse Regering van 9 oktober 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021;<br>
+2° artikel 66, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021;<br>
+3° artikel 66/1, ingevoegd bij het besluit van de Vlaamse Regering van 4 april 2014 en gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2015 en 12 maart 2021.
+
+### ART 36.
+
+In hoofdstuk 5 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, worden afdeling 1, die bestaat uit artikel 67, en afdeling 2, die bestaat uit artikel 68 tot en met 74, opgeheven.
+
 ### ART 37.
 
 Bijlage 1 bij hetzelfde besluit, opgeheven door het besluit van de Vlaamse Regering van 9 oktober 2015, wordt opnieuw opgenomen onder de vorm van de bijlage die bij dit besluit is gevoegd.
@@ -65,6 +358,17 @@ Bijlage 1 bij hetzelfde besluit, opgeheven door het besluit van de Vlaamse Reger
 ### ART 38.
 
 Bijlage 9 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, wordt opgeheven.
+
+### ART 39.
+
+Dit besluit treedt in werking op 1 januari 2024, met uitzondering van artikel 3, dat in werking treedt op 1 juli 2024.&nbsp;<br>
+&nbsp;<br>
+Artikel 4, 6, 7, 17, 1°, artikel 19, 20, 1°, 2° en 3°, artikel 37 en 38, hebben uitwerking met ingang van 1 april 2023.<br>
+&nbsp;
+
+### ART 40.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
 
 ### BIJLAGE
 
