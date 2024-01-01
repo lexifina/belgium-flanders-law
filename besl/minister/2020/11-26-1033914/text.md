@@ -23,6 +23,7 @@ In dit besluit wordt verstaan onder:<br>
 1° bescheiden woonaanbod: het bescheiden woonaanbod, vermeld in artikel 1.3, § 1, eerste lid, 3°, van de Vlaamse Codex Wonen van 2021;<br>
 2° commissie beheer rekening-courant: het overlegorgaan dat is opgericht ter uitvoering van artikel 4.38 van het Besluit Vlaamse Codex Wonen van 2021;<br>
 3° consolidatie: de startdatum van de periode waarin kapitaal wordt afgelost;<br>
+3°/1: IRS: Interest Rate Swap, referentie voor rente op interestruilovereenkomsten op een bepaalde looptijd;<br>
 4° leningsverstrekker: de VMSW;<br>
 5° leningsovereenkomst: een leningsovereenkomst als vermeld in artikel 4.59, 2°, van hetzelfde besluit;<br>
 6° OLO: rendement van Belgische overheidsleningen op de secundaire markt - referentietarief van de lineaire obligaties, waarbij de daggegevens worden bedoeld die gepubliceerd worden door de Nationale Bank van België die de gemiddelde werkelijke rendementspercentages geven van de leningen met een resterende looptijd van 1 tot en met 30 jaar;<br>
@@ -71,6 +72,19 @@ Rentevoeten gebaseerd op een OLO-referentie hebben een berekeningsbasis 30/360.<
 <br>
 Als de referentierentevoet verhoogd met de marge negatief is, is de bodemrentevoet voor de marktconforme leningen minstens gelijk aan 0%. De bodemrentevoet geldt niet voor leningen als vermeld in artikel 14 en 15.
 
+### ART 5/1.
+
+Iedere maand wordt per IRS met een resterende duurtijd van 1 tot 30 jaar het gemiddelde genomen van de referentiekoersen van die afgelopen kalendermaand.<br>
+<br>
+Per type lening waarin een IRS-referentie wordt gebruikt, en per looptijd wordt een gewogen gemiddelde IRS bepaald. De berekening gaat uit van een theoretische aflossingstabel per leningstype, waarbij de kapitaalaflossingen starten vanaf het einde van het eerste jaar.<br>
+<br>
+Als er geen IRS is met een resterende duurtijd op een bepaalde looptijd, wordt via interpolatie of extrapolatie een waarde bepaald, tenzij het om een looptijd van langer dan dertig jaar gaat. In dat geval wordt de waarde op dertig jaar genomen.<br>
+<br>
+Rentevoeten gebaseerd op een IRS-referentie hebben een berekeningsbasis 30/360.<br>
+<br>
+Als de referentierentevoet verhoogd met de marge negatief is, is de bodemrentevoet voor de marktconforme leningen minstens gelijk aan 0%.<br>
+&nbsp;
+
 ### ART 6.
 
 De raad van bestuur van de VMSW kan oordelen dat de vorm van de rentecurve of de marges die door de financiële instellingen gehanteerd worden of referentierentevoeten dusdanig geëvolueerd zijn dat het noodzakelijk is een nieuwe berekening te maken voor een of meer leningstypes. In dat geval brengt de raad van bestuur van de VMSW de Vlaamse minister, bevoegd voor het woonbeleid, op de hoogte van die nieuwe berekening op basis van de principes, vermeld in artikel 5 en 7.
@@ -94,6 +108,10 @@ Als een lening de maximale opnameperiode van de lening, vermeld in hoofdstuk 3 e
 ### ART 9.
 
 Commissies en de andere kosten van reserveringscommissie, van waarborgcommissie of van verzakingscommissie, bedragen 0 euro.
+
+### ART 9/1.
+
+In geval van wanbetaling worden de niet-betaalde bedragen vanaf de vervaldag van de verschuldigde bedragen tot de dag van hun effectieve betaling, van rechtswege en zonder ingebrekestelling, vermeerderd met een interest van 0,50% boven het tarief Basisfinanciering van de Europese Centrale Bank. Er is wanbetaling als op de vervaldag de het bedrag van de schuld dat opeisbaar is van de lening niet wordt aangerekend op de rekening-courant van de ontlener als gevolg van een structureel negatief saldo op de rekening-courant van de ontlener en als de ontlener de hoofdsom niet op een andere manier heeft betaald.
 
 ## [HOOFDSTUK 2. Leningen aan woonmaatschappijen in het kader van de sanering van hun financiële situatie (verv. MB 25 augustus 2022, art. 18, I: 1 oktober 2022)]
 
@@ -192,7 +210,7 @@ Onder de volgende voorwaarden kan de VMSW een lening als vermeld in het eerste l
 1° aard van de lening: een lening met constante annuïteiten;<br>
 2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal vijf jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 5, 10, 15, 20, 25, 30 of 33 jaar, overeen te komen tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: progressieve kapitaaltranches op basis van de eerste rentevoet;<br>
-4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 van dit besluit en afhankelijk van de contractueel bepaalde looptijd;<br>
+4° referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1, en de contractueel bepaalde looptijd;<br>
 5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
 6° interest tijdens de opnamefase: wordt jaarlijks afgerekend op 31 december tot het jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
 7° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
@@ -263,7 +281,7 @@ Onder de volgende voorwaarden kan de VMSW een lening op maximaal tien jaar toeke
 1° aard van de lening: een lening met vaste vervaldag;<br>
 2° looptijd: maximaal tien jaar en afhankelijk van het doel van de financiering te bepalen in overleg tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: op de eindvervaldag;<br>
-4° referentierentevoet: vaste rentevoet gebaseerd op OLO-referentie die bepaald is conform artikel 5, en afhankelijk van de contractueel bepaalde looptijd;<br>
+4° referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1, en de contractueel bepaalde looptijd;<br>
 5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
 6° betaling interest: wordt jaarlijks afgerekend op 31 december tot het jaar dat de terugbetaling voorafgaat en een laatste keer op de eindvervaldag of op de datum waarop de leningsverstrekker de kennisgeving van de verkoop van de laatste woning in een project ontvangt;<br>
 7° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd, als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
@@ -285,7 +303,7 @@ Alle kosten, taksen, zegel- en registratierechten, erelonen, betekeningskosten, 
 
 ### ART 25.
 
-Onder de volgende voorwaarden kan de VMSW een financiering op maximaal tien jaar toekennen tegen een variabele rentevoet:<br>
+Onder de volgende voorwaarden kan de VMSW een financiering, die niet kan worden aangewend voor de verwerving van onroerende goederen en de realisatie van geconventioneerde huurwoningen, op maximaal tien jaar toekennen tegen een variabele rentevoet:<br>
 1° aard van de lening: een lening met vaste vervaldag;<br>
 2° looptijd: maximaal tien jaar en afhankelijk van het doel van de financiering, dat bepaald wordt in overleg tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: op de eindvervaldag;<br>
@@ -299,11 +317,11 @@ b) als de lening een voorlopige financiering is en de ontlener een definitieve f
 
 ### ART 26.
 
-Onder de volgende voorwaarden kan de VMSW een financiering op maximaal tien jaar toekennen tegen een vaste rentevoet:<br>
+Onder de volgende voorwaarden kan de VMSW een financiering, die niet kan worden aangewend voor de verwerving van onroerende goederen en de realisatie van geconventioneerde huurwoningen, op maximaal tien jaar toekennen tegen een vaste rentevoet:<br>
 1° aard van de lening: een lening met vaste vervaldag;<br>
 2° looptijd: maximaal tien jaar en afhankelijk van het doel van de financiering te bepalen in overleg tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: op de eindvervaldag;<br>
-4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5, en afhankelijk van de contractueel bepaalde looptijd;<br>
+4° referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1, en de contractueel bepaalde looptijd;<br>
 5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
 6° betaling interest: wordt jaarlijks afgerekend op 31 december tot het jaar dat de terugbetaling voorafgaat en een laatste keer op de eindvervaldag of op de datum van de kennisgeving van de verkoop van de laatste woning in een project;<br>
 7° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
@@ -330,7 +348,7 @@ Onder de volgende voorwaarden kan de VMSW een lening op maximaal dertig jaar toe
 1° aard van de lening: een lening met constante annuïteiten;<br>
 2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal vijf jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 5, 10, 15, 20, 25 of 30, overeen te komen tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: progressieve kapitaaltranches op basis van de eerste rentevoet;<br>
-4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 en afhankelijk van de contractueel bepaalde looptijd;<br>
+4° referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1, en de contractueel bepaalde looptijd;<br>
 5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
 6° interest tijdens de opnamefase: wordt jaarlijks afgerekend op 31 december tot het jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
 7° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
@@ -339,31 +357,31 @@ Onder de volgende voorwaarden kan de VMSW een lening op maximaal dertig jaar toe
 
 ### ART 29.
 
-Onder de volgende voorwaarden kan de VMSW een marktconforme lening op dertig jaar toekennen voor de financiering van bescheiden woonaanbod tegen een variabele rentevoet:<br>
-1° aard van de lening: een lening met progressieve annuïteiten;<br>
-2° looptijd: start op de datum van de leningsovereenkomst. De opnamefase duurt maximaal vijf jaar en de lening duurt dertig jaar vanaf de consolidatiedatum;<br>
-3° aflossing: kapitaalsaflossingen rekening houdend met een progressiviteit van 2%;<br>
-4° referentierentevoet: Euribor-referentie op twaalf maanden;<br>
-5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge. De rentevoet wordt jaarlijks herzien. Om de vijf jaar kan de leningsverstrekker de marge herbekijken op basis van de dan geldende voorwaarden;<br>
-6° interesten tijdens de opnamefase: worden afgerekend op 31 december van elk jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
-7° consolidatiedatum: de consolidatie gebeurt op het einde van de maand waarin de ontlener de schriftelijke vraag om te consolideren heeft ingediend. Die datum kan niet later liggen dan vijf jaar na de start van de lening. Voor nog niet opgenomen gelden kan de ontlener een nieuwe lening onderhandelen tegen de dan geldende voorwaarden;<br>
-8° betaling annuïteit: jaarlijks vanaf 1 jaar na de consolidatiedatum;<br>
-9° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd.<br>
-10° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd wordt, binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal.
+Onder de volgende voorwaarden kan de VMSW een marktconforme lening tegen een variabele rentevoet aan de woonmaatschappij toekennen voor de financiering van de verwerving van gronden, exclusief de erop staande constructies:<br>
+1°&nbsp;&nbsp; &nbsp;aard van de lening: lening met vaste vervaldag;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;looptijd: maximaal dezelfde looptijd als het betrokken zakelijk recht op de grond waarvoor de financiering wordt aangevraagd, met een maximum van dertig jaar;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;aflossing: op eindvervaldag;<br>
+4°&nbsp;&nbsp; &nbsp;referentievoet: Euriborreferentie op 12 maanden;<br>
+5°&nbsp;&nbsp; &nbsp;vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge. De rentevoet wordt jaarlijks herzien. Om de vijf jaar kan de leningsverstrekker de marge herbekijken op basis van de dan geldende voorwaarden;<br>
+6°&nbsp;&nbsp; &nbsp;betaling interest: wordt jaarlijks afgerekend op 31 december tot het jaar dat de terugbetaling voorafgaat en een laatste keer op de eindvervaldag of op de datum van de kennisgeving van de verkoop van de laatste woning in een project;<br>
+7°&nbsp;&nbsp; &nbsp;vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
+8°&nbsp;&nbsp; &nbsp;verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
+a)&nbsp;&nbsp; &nbsp;als het goed waarvoor geleend is, wordt vervreemd, is er een verplichte vervroegde aflossing binnen twee maanden nadat de leningsverstrekker de kennisgeving heeft ontvangen. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
+b)&nbsp;&nbsp; &nbsp;als de ontlener het onroerend goed inkoopt waarbij de bulletlening omgezet wordt naar een definitieve financiering voor deze verrichting, is er een verplichte vervroegde terugbetaling bij de omzetting. Het aandeel van het goed dat benut wordt en waarop de definitieve financiering is gebaseerd, bepaalt het terug te betalen kapitaal.
 
 ### ART 30.
 
-Onder de volgende voorwaarden kan de VMSW een marktconforme lening op dertig jaar toekennen voor de financiering van bescheiden woonaanbod tegen een vaste rentevoet:<br>
-1° aard van de lening: een lening met progressieve annuïteiten;<br>
-2° looptijd: start op de datum van de leningsovereenkomst. De opnamefase duurt maximaal vijf jaar en de lening duurt dertig jaar vanaf de consolidatiedatum;<br>
-3° aflossing: kapitaalsaflossingen rekening houdend met een progressiviteit van 2 %;<br>
-4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 en afhankelijk van de contractueel bepaalde looptijd;<br>
-5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
-6° interesten tijdens de opnamefase: worden afgerekend op 31 december van elk jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
-7° consolidatiedatum: de consolidatie gebeurt op het einde van de maand waarin de ontlener de schriftelijke vraag om te consolideren heeft ingediend. Die datum kan niet later liggen dan vijf jaar na de start van de lening. Voor nog niet opgenomen gelden kan de ontlener een nieuwe lening onderhandelen tegen de dan geldende voorwaarden;<br>
-8° betaling annuïteit: jaarlijks vanaf 1 jaar na de consolidatiedatum;<br>
-9° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht van drie maanden geeft. De wederbeleggingsvergoeding bedraagt het financiële verlies met een maximum van zes maanden interest op het vervroegd af te lossen kapitaal en een minimum van 0 euro.<br>
-10° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd wordt, binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal.
+Onder de volgende voorwaarden kan de VMSW een marktconforme lening tegen een vaste rentevoet toekennen voor de financiering van de verwerving van gronden, exclusief de erop staande constructies:<br>
+1°&nbsp;&nbsp; &nbsp;aard van de lening: lening met vaste vervaldag;<br>
+2°&nbsp;&nbsp; &nbsp;looptijd: maximaal dezelfde looptijd als het betrokken zakelijk recht op de grond waarvoor de financiering wordt aangevraagd, met een maximum van dertig jaar;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;aflossing: op eindvervaldag;<br>
+4°&nbsp;&nbsp; &nbsp;referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1, en de contractueel bepaalde looptijd;<br>
+5°&nbsp;&nbsp; &nbsp;vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met de marge;<br>
+6°&nbsp;&nbsp; &nbsp;betaling interest: wordt jaarlijks afgerekend op 31 december tot het jaar dat de terugbetaling voorafgaat en een laatste keer op eindvervaldag, of op datum van de kennisgeving van de verkoop van de laatste woning in een project, of op de omzetting in de definitieve financiering;<br>
+7°&nbsp;&nbsp; &nbsp;vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Hierbij is geen wederbeleggingsvergoeding verschuldigd;<br>
+8°&nbsp;&nbsp; &nbsp;verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
+a)&nbsp;&nbsp; &nbsp;als het goed waarvoor geleend is, wordt vervreemd, is er een verplichte vervroegde aflossing binnen twee maanden nadat de leningsverstrekker de kennisgeving heeft ontvangen. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal;&nbsp;&nbsp; &nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;als de ontlener het onroerend goed inkoopt, waarbij de bulletlening omgezet wordt naar een definitieve financiering voor deze verrichting, is er een verplichte vervroegde terugbetaling bij de omzetting. Het aandeel van het goed dat benut wordt en waarop de definitieve financiering is gebaseerd, bepaalt het terug te betalen kapitaal.
 
 ### ART 31.
 
@@ -374,7 +392,7 @@ Onder de volgende voorwaarden kan de VMSW een lening voor de herfinanciering als
 4° wederbeleggingsvergoeding: de leningsverstrekker rekent voor de herfinanciering conform artikel 5.76, derde en vierde lid, van het Besluit Vlaamse Codex Wonen van 2021, een wederbeleggingsvergoeding aan die het financiële verlies bedraagt;<br>
 5° aard van de lening na herfinanciering: lening met constante annuïteiten;<br>
 6° aflossingsduur na herfinanciering: door de herfinanciering krijgt de lening een totale aflossingsduur van dertig jaar. Die dertig jaar is de totale looptijd van bij de start van de kapitaalsaflossing op de lening tot de laatste aflossing;<br>
-7° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 van dit besluit;<br>
+7° referentierentevoet: vaste rentevoet gebaseerd op de IRS-referentie die bepaald is conform artikel 5/1 van dit besluit;<br>
 8° vaststelling rentevoet: op basis van de maand van de aanvraag tot herfinanciering, referentierentevoet verhoogd met de marge;<br>
 9° consolidatie: de herfinanciering van een lening heeft geen effect op de voorwaarden van de consolidatie of de vaststelling van de consolidatiedatum;<br>
 10° betaling annuïteit: jaarlijks vanaf 1 jaar na de consolidatiedatum;<br>
