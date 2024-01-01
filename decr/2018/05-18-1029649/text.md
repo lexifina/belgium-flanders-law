@@ -38,10 +38,12 @@ In dit decreet wordt verstaan onder:<br>
 15° ICT: de informatie- en communicatietechnologie;<br>
 16° indicatiesteller: een organisatie, zorgvoorziening of zorgverlener, die overeenkomstig de door de Vlaamse Regering bepaalde voorwaarden en procedures, erkend is om indicatiestellingen toe te passen;<br>
 17° indicatiestelling: de evaluatie van de zorgbehoefte van de gebruiker om de zorgdoelstellingen of financiering te bepalen of, wat de mobiliteitshulpmiddelen betreft, om de beperking van de mobiliteit van de gebruiker vast te stellen zodat passende mobiliteitshulpmiddelen en financiering bepaald kunnen worden;<br>
+17° /1 initiatief van beschut wonen: een initiatief van beschut wonen als vermeld in artikel 2, 9°, van het decreet van 6 juli 2018;<br>
 18° kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
 19° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met verminderd zelfzorgvermogen, niet beroepshalve maar meer dan occasioneel, helpt en ondersteunt in het dagelijkse leven;<br>
 20° mobiliteitshulpmiddelen: de hulpmiddelen die bedoeld zijn om de bewegingsfunctie te ondersteunen, namelijk rolstoelen, loophulpmiddelen, orthopedische driewielfietsen, stasystemen, zitkussens ter preventie van doorzitwonden, modulair aanpasbare systemen ter ondersteuning van de zithouding en onderstellen en de aanpassingen ervan. Een rolstoel, loophulpmiddel of orthopedische driewielfiets zijn speciaal ontworpen toestellen om personen te helpen zich binnenshuis en buitenshuis te verplaatsen;<br>
 20° /1 multidisciplinair overleg: een overleg waarbij zorgaanbieders van verschillende disciplines aanwezig zijn, naast een overlegorganisator, en waarbij de zorg en ondersteuning in de thuissituatie voor een gebruiker wordt afgestemd, het zorgproces wordt gestroomlijnd en het zorgteam rond die gebruiker wordt afgebakend;<br>
+20° /2 multidisciplinaire begeleidingsequipe voor palliatieve verzorging: een multidisciplinaire begeleidingsequipe als vermeld in artikel 2, 11°, van het decreet van 6 juli 2018;<br>
 21° niet-medische hulp- en dienstverlening: de hulp en bijstand die derden verlenen aan een persoon met een verminderde zelfredzaamheid in residentieel, semiresidentieel of ambulant verband;<br>
 21° /1 overlegorganisator: een zorgaanbieder die, op verzoek van een gebruiker, de mantelzorger van de gebruiker of een zorgaanbieder van het zorgteam, het multidisciplinair overleg voorbereidt, vastlegt en zorgt voor de vastlegging van de gemaakte afspraken in een zorgen ondersteuningsplan, vanuit een neutrale en onafhankelijke positie ten aanzien van het zorgteam;<br>
 22° Patiëntenrichtlijn: richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg;<br>
@@ -63,6 +65,7 @@ In dit decreet wordt verstaan onder:<br>
 35° verordening (EG) nr. 883/2004: de verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;<br>
 36° verstrekker van mobiliteitshulpmiddelen: een persoon die gemachtigd is om mobiliteitshulpmiddelen te verkopen of te verhuren conform artikel 122, met behoud van de erkenningsplicht op grond van artikel 72 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
 37° vertegenwoordiger van de gebruiker: de vertegenwoordiger, vermeld in artikel 23, § 2;<br>
+37° /1 vervoerder: een professionele vervoerder die een gebruiker vervoert in een voertuig dat aangepast is voor het vervoer in een rolstoel, en dat vervoer naar en van een revalidatievoorziening of indicatiesteller doet;<br>
 38° Vlaamse Zorgkas: de vzw Vlaamse Zorgkas opgericht door het Vlaams Zorgfonds;<br>
 39° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen, vermeld in artikel 5, § 1, II, 3°, van de voormelde bijzondere wet;<br>
 40° wonen: ingeschreven zijn in het bevolkingsregister of in het vreemdelingenregister, of ingeschreven zijn in het wachtregister voor personen die jonger zijn dan achttien jaar;<br>
@@ -1076,7 +1079,7 @@ De aanvraag, vermeld in het eerste lid, wordt ingediend bij de zorgkas waarbij d
 <br>
 De Vlaamse Regering stelt de nadere regels vast voor de behandeling van de aanvraag of de ambtshalve toekenning.<br>
 <br>
-§ 2. De tegemoetkoming bedraagt 135 euro per maand.<br>
+§ 2. De tegemoetkoming bedraagt 140 euro per maand.<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt met ingang van het door de Vlaamse Regering te bepalen kalenderjaar, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in het door de Vlaamse Regering te bepalen jaar.<br>
 <br>
@@ -1371,7 +1374,11 @@ De Vlaamse Regering bepaalt het bedrag van de tegemoetkomingen voor mobiliteitsh
 <br>
 § 2. De beperking van de mobiliteit van de gebruiker, zijn functionele noden en zijn levensdoelen worden geëvalueerd aan de hand van ICF, door indicatiestellers die daarvoor zijn aangewezen in de door de Vlaamse Regering conform artikel 126 bepaalde aanvraagprocedures, ingevolge de toepassing van een indicatiestelling door een indicatiesteller.<br>
 <br>
-De Vlaamse Regering bepaalt de voorwaarden en de procedures voor de erkenning van indicatiestellers en legt de procedures vast voor de toepassing door indicatiestellers van indicatiestellingen en voor de evaluatie door de verstrekker van mobiliteitshulpmiddelen van het mobiliteitshulpmiddel waarvoor de gebruiker op basis van de indicatiestelling in aanmerking komt.<br>
+De Vlaamse Regering erkent indicatiestellers en bepaalt de voorwaarden en de procedures voor de toekenning, de weigering, de schorsing en de intrekking van de erkenning.<br>
+<br>
+De Vlaamse Regering bepaalt de duur van de erkenning van de indicatiestellers en bepaalt in voorkomend geval de voorwaarden en de procedures voor de verlenging van de erkenning.<br>
+<br>
+De Vlaamse Regering kan de opdrachten van de indicatiestellers nader specificeren en voorwaarden en procedures bepalen voor de toepassing door de indicatiestellers van indicatiestellingen<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden waaronder de indicatiesteller wordt vergoed voor de toepassing van indicatiestellingen en legt het bedrag van de vergoedingen vast.<br>
 <br>
@@ -1965,6 +1972,12 @@ Een gebruiker betaalt aan het psychiatrische verzorgingstehuis een persoonlijke 
 De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorgingstehuizen bepalen voor wie de persoonlijke bijdrage, vermeld in het eerste lid, wordt verminderd met een bijkomende forfaitaire tegemoetkoming, die een andere<br>
 is dan de tegemoetkoming, vermeld in artikel 154/4. De Vlaamse Regering kan het bedrag van de bijkomende forfaitaire tegemoetkoming per categorie bepalen.
 
+### ART 154/8.
+
+Als dat van toepassing is, betaalt de gebruiker de kosten voor het verblijf in beschut wonen zoals die vastgelegd zijn in een overeenkomst tussen de gebruiker en het initiatief van beschut wonen.<br>
+<br>
+De initiatieven van beschut wonen kunnen geen andere bedragen aanrekenen dan de bedragen die vastgelegd zijn in de overeenkomst, vermeld in het eerste lid.
+
 ## [TITEL 4. Tijdelijke bepalingen voor de revalidatievoorzieningen (ing. decr. 18 juni 2021, art. 75)]
 
 ### ART 154/9.
@@ -2010,6 +2023,18 @@ De Vlaamse Regering kan modeldocumenten ter beschikking stellen die worden gebru
 Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen de beslissing van de zorgkas die na een eensluidend advies van de Zorgkassencommissie als vermeld in artikel 154/13, § 3, is genomen, brengt de zorgkas het agentschap daarvan op de hoogte. De zorgkas deelt het agentschap de beroepsakte mee. Het agentschap kan vrijwillig tussenkomen in de procedure voor de arbeidsrechtbank conform artikel 813 van het Gerechtelijk Wetboek.
 
 ## [TITEL 5. Tijdelijke bepalingen voor de multidisciplinaire begeleidingsequipes voor palliatieve verzorging (ing. decr. 18 juni 2021, art. 82, I: 1 januari 2024)]
+
+### ART 154/15.
+
+De begeleiding die multidisciplinaire begeleidingsequipes voor palliatieve verzorging aanbieden, wordt vergoed in de vorm van een tegemoetkoming als ze in de overeenkomst met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging is opgenomen en als de begeleiding voldoet aan de voorwaarden die zijn vermeld in die overeenkomst. De vergoeding wordt rechtstreeks uitbetaald aan de multidisciplinaire begeleidingsequipe voor palliatieve verzorging.<br>
+<br>
+De Vlaamse Regering bepaalt de regels en voorwaarden voor de samenstelling, de berekening, de wijziging en de uitbetaling van de tegemoetkoming, vermeld in het eerste lid, en de regels om het maximum aantal begeleidingen te berekenen waarvoor de tegemoetkoming, vermeld in het eerste lid, per kalenderjaar mag worden aangerekend. De voormelde regels en voorwaarden worden door de Vlaamse Regering verder geconcretiseerd en uitgewerkt in de overeenkomst die met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging wordt gesloten.<br>
+<br>
+In afwijking van het tweede lid kan de Vlaamse Regering in de overeenkomst met de multidisciplinaire begeleidingsequipe voor palliatieve verzorging het bedrag van de tegemoetkoming per begeleiding bepalen.
+
+### ART 154/16.
+
+De regels en de voorwaarden, vermeld in artikel 60, vijfde lid, voor de aanvragen van tegemoetkomingen voor de begeleiding door multidisciplinaire begeleidingsequipes voor palliatieve verzorging worden geconcretiseerd in de overeenkomsten met de multidisciplinaire begeleidingsequipes voor palliatieve verzorging.
 
 ## [TITEL 6. Tijdelijke bepalingen voor het multidisciplinair overleg (ing. decr. 18 juni 2021, art. 85, I: 1 januari 2022)]
 
