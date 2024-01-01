@@ -2,16 +2,16 @@
   "codex_id": 1027789,
   "title": "Besluit van de Vlaamse Regering van 2016-12-09 houdende de uitvoering van het decreet van 6 juli 2012 houdende de ondersteuning en stimulering van het lokaal jeugdbeleid en de bepaling van het provinciaal jeugdbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027789/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "a420d2d3111c862b0dd955b574e83ca21e7bcb83da6c0b8e0bf97db8bfab0655",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027789/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "e48801a9d0067ab283b923abf21707f66d58c81c05e8d28d9875c9c79303ca52",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027789&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2024-01-01",
   "made": "2016-12-09",
   "gazette": "2017-01-26",
   "numac": 2017010081,
   "document_start": "2016-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2017-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
