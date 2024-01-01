@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039226,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-15 tot toekenning van een financiële ondersteuning van maximaal 640.300 euro aan Vrij CLB Netwerk vzw voor het project ‘Netwerk Samen tegen Schooluitval’ voor de periode van 1 januari 2024 tot en met 31 augustus 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039226/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "126e4798b97e4cb872a421c7bdee736a8e245ef0885e6ada9bdcab135c87f6e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039226&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-15",
+  "gazette": "2024-01-19",
+  "numac": 2024000405,
+  "document_start": "2024-01-01",
+  "document_end": "2025-08-31",
+  "in_force": "2024-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
