@@ -167,7 +167,7 @@ Minstens   75% van het puntenpakket in erkenning wordt besteed aan functies van 
 
 <p>Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
 <br>
-In afwijking van het vierde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+In afwijking van het vierde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
 De besteding van het bedrag, vermeld in het eerste lid, mag evenwel gespreid worden over meer dan een boekhoudkundig jaar.</p>
 
