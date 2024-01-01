@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038916,
+  "title": "Ministerieel besluit van 2023-10-02 tot wijziging van de bijlagen bij het ministerieel besluit van 28 april 2021 tot vaststelling van een keurings- en certificeringsreglement voor de productie van zaaizaden van landbouw- en groentegewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038916/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "8cce2ddb9d851bcd3dd0360292386caaf495853a7c822fe551c790d611e5707e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038916&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-10-02",
+  "gazette": "2023-10-31",
+  "numac": 2023046631,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
