@@ -32,7 +32,7 @@ Dit besluit voorziet in de uitvoering van verordening (EU) 2018/848 en de gedele
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° bereiding: de bereiding, vermeld in artikel 3, punt 44, van verordening (EU) 2018/848;<br>
 3° biologische productie: de biologische productie, vermeld in artikel 3, punt 1, van verordening (EU) 2018/848;<br>
 4° biologisch product: het biologische product, vermeld in artikel 3, punt 2, van verordening (EU) 2018/848;<br>
@@ -45,7 +45,7 @@ In dit besluit wordt verstaan onder:<br>
 11° in de handel brengen: het in de handel brengen, vermeld in artikel 3, punt 48, van verordening (EU) 2018/848;<br>
 12° laboratorium: het laboratorium dat aangewezen is conform artikel 86 van dit besluit;<br>
 13° landbouwer: de landbouwer, vermeld in artikel 3, punt 14, van verordening (EU) 2018/848;<br>
-14° minister: de minister, vermeld in artikel 2, 6°, van het decreet van 28 juni 2013;<br>
+14° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 15° niet-naleving: de niet-naleving, vermeld in artikel 3, punt 57, van verordening (EU) 2018/848;<br>
 16° omschakeling: de omschakeling, vermeld in artikel 3, punt 6, van verordening (EU) 2018/848;<br>
 17° omschakelingsproduct: het omschakelingsproduct, vermeld in artikel 3, punt 7, van verordening (EU) 2018/848;<br>
