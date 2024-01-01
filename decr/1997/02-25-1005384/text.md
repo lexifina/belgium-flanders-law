@@ -3478,6 +3478,24 @@ Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig ve
 
 ...
 
+## 7° EXTRA WERKINGSBUDGET VOOR EEN OFFENSIEF NEDERLANDS VOOR LEERLINGEN DIE HET NEDERLANDS ONVOLDOENDE BEHEERSEN
+
+### ART 87quinquies.
+
+Vanaf het begrotingsjaar 20TT, startende in 2024, wordt er jaarlijks een extra werkingsbudget toegekend aan scholen voor gewoon basisonderwijs voor het schooljaar 20TT-1–20TT, startende in 2023-2024, die op de eerste schooldag van februari van 20TT-4 of 20TT-3 of 20TT-2 meer dan 50 procent regelmatige leerlingen lager onderwijs telden die beantwoorden aan het leerlingenkenmerk, vermeld in artikel 78, §1, 1°, c), van dit decreet.<br>
+<br>
+Voor de maatregel, vermeld in het eerste lid en in artikel 48/2 van de Codex Secundair Onderwijs van 17 december 2010, wordt voor het basis- en secundair onderwijs samen vanaf 2024 jaarlijks een bedrag van 20 miljoen euro voorzien. Dit bedrag wordt vanaf het begrotingsjaar 2025 geïndexeerd volgens artikel 79, §3, derde lid, 2°, van dit decreet.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt over het basis- en secundair onderwijs verdeeld op basis van het aandeel van het onderwijsniveau in het totale aantal regelmatige leerlingen op de eerste schooldag van februari van het jaar 20TT-2 die voldoen aan het leerlingenkenmerk 3, vermeld in artikel 242, §1, eerste lid, 1°, c), van de Codex Secundair Onderwijs van 17 december 2010 en in artikel 78, §1, 1°, c), van dit decreet, en voor zover zij ingeschreven zijn in de scholen of centra die voldoen aan de voorwaarde, vermeld in het eerste lid of in artikel 48/2, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Het extra werkingsbudget per school voor het betrokken schooljaar is het resultaat van de vermenigvuldiging van het aantal regelmatige leerlingen lager onderwijs dat beantwoordt aan het leerlingenkenmerk, vermeld in artikel 78, §1, 1°, c), van dit decreet, op de eerste schooldag van februari van jaar 20TT-2 in de school met het binnen de begroting voorziene werkingsbudget, vermeld in dit artikel, voor het basisonderwijs voor dat schooljaar gedeeld door het totale aantal regelmatige leerlingen gewoon lager onderwijs in de scholen die voldoen aan de voorwaarde, vermeld in het eerste lid, dat op de eerste schooldag van februari van jaar 20TT-2 beantwoordt aan het leerlingenkenmerk, vermeld in artikel 78, §1, 1°, c), van dit decreet.<br>
+<br>
+Het extra werkingsbudget wordt aangewend om leerlingen met een te beperkte kennis van het Nederlands extra te ondersteunen.<br>
+<br>
+Het extra werkingsbudget voor het betrokken schooljaar wordt aan de schoolbesturen in minstens twee schijven uitbetaald, waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50% van het extra werkingsbudget van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt.<br>
+<br>
+De regering kan binnen de beschikbare begrotingskredieten het extra werkingsbudget, vermeld in dit artikel, verhogen.
+
 ## ONDERAFDELING E DE INVESTERINGSMIDDELEN
 
 ### ART. 88.
@@ -4940,7 +4958,7 @@ b) een vervanging van een korte afwezigheid op basis van afdeling 3ter van dit h
 
 ### ART 153quaterdecies.
 
-Vanaf het schooljaar 2021-2022 tot en met het schooljaar 2023-2024 wordt een lerarenplatform opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
+Vanaf het schooljaar 2021-2022 wordt een lerarenplatform opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
 
 ### ART 153quinquiesdecies.
 
@@ -5018,7 +5036,7 @@ Het lerarenplatform wordt geëvalueerd tijdens het schooljaar 2022-2023 met het 
 
 ### ART 153viciesquinquies.
 
-Deze afdeling treedt in werking op 1 september 2021 en houdt op uitwerking te hebben op het einde van het schooljaar 2023-2024.
+Deze afdeling treedt in werking op 1 september 2021.
 
 ## [AFDELING 3QUINQUIES FLEXIBILISERING VAN DE VERVANGINGEN (verv. decr. 14 juli 2023, art. 48, I: 1 september 2023)]
 
@@ -5054,7 +5072,7 @@ De betrekkingen die opgericht worden in ambten van het beleidsen ondersteunend p
 <br>
 Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
 <br>
-§ 2. Het schoolbestuur kan ten laste van het werkingsbudget,&nbsp;vermeld in artikel 76, artikel 87bis, artikel 172sexies, artikel 173quinquies/2, artikel 173quinquies/3 of artikel 173quinquies/4, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken, personeel aanwerven. In het gemeenschapsonderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+§ 2. Het schoolbestuur kan ten laste van het werkingsbudget, vermeld in artikel 76 of artikel 87quinquies, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken, personeel aanwerven. In het gemeenschapsonderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
 <br>
 De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
 <br>
