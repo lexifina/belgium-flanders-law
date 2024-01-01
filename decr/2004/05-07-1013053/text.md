@@ -75,6 +75,12 @@ Jaarlijks kan aan VLAM ten laste van de algemene uitgavenbegroting van de Vlaams
 
 VLAM heeft als enige organisatie in Vlaanderen het recht om verplichte bijdragen te innen van de marktdeelnemers uit de sectoren landbouw, tuinbouw, visserij en agrovoeding.<br /><br />De Vlaamse regering stelt, op initiatief van VLAM, de bijdragen, de bijdrageplichtigen en de inningsvoorwaarden vast en verklaart ze algemeen bindend voor alle betrokken marktdeelnemers. VLAM kan dit initiatief alleen nemen als de bijdragen, bijdrageplichtigen en inningsvoorwaarden in kwestie werden goedgekeurd in de betreffende sectorgroep.<br /><br />De besluiten bedoeld in het tweede lid, zijn van rechtswege opgeheven met terugwerkende kracht tot op de dag van de inwerkingtreding ervan als ze niet bij decreet zijn bekrachtigd in het jaar dat volgt op dat van de bekendmaking ervan in het Belgisch Staatsblad.
 
+### ART 11/1.
+
+VLAM kan ter uitvoering van de taken, vermeld in artikel 5, subsidies verlenen.<br>
+<br>
+VLAM brengt de functioneel bevoegde minister op de hoogte van de subsidies, premies en andere financiële tegemoetkomingen die verleend worden conform het eerste lid.
+
 ### ART. 12.
 
 De Vlaamse regering is gemachtigd om personeelsleden van de Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's, ter beschikking te stellen van VLAM.
