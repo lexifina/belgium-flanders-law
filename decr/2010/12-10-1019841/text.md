@@ -167,7 +167,7 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de gelijkwaardig
 ### ART 20/3.
 
 Voor het verrichten van diensten van private arbeidsbemiddeling voor minderjarige sportbeoefenaars, voldoet de sportmakelaar aan volgende bijkomende voorwaarden:<br>
-1° de sportmakelaar benadert geen sportbeoefenaars jonger dan vijftien jaar, direct of indirect, met het oog op het afsluiten van een overeenkomst voor het verrichten van diensten van private arbeidsbemiddeling voor sportbeoefenaars;<br>
+1° de sportmakelaar verricht geen activiteiten die gericht zijn op het sluiten van een overeenkomst om diensten van private arbeidsbemiddeling te verrichten voor sportbeoefenaars, als de betrokken sportbeoefenaar de leeftijd van vijftien jaar nog niet heeft bereikt;<br>
 2° de sportmakelaar vraagt onder geen beding een vergoeding voor het verrichten van diensten van private arbeidsbemiddeling voor een minderjarige sportbeoefenaar.
 
 ## [Afdeling 2 Voorafgaande registratie als sportmakelaar (ing. Decr. 29 maart 2019, art. 19, I: 11 juni 2019 )]
@@ -279,13 +279,15 @@ Met behoud van de toepassing van artikelen 269 tot 274 van het Strafwetboek word
 11° het uitzendbureau, zijn lasthebbers of aangestelden die bij exclusiviteit personen ter beschikking te stellen van één gebruikende onderneming;<br>
 12° het uitzendbureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële uitzendkrachten kan misleiden;<br>
 13° het uitzendbureau, zijn lasthebbers of aangestelden die in personeelsadvertenties niet duidelijk vermelden dat ze de aanwerving van uitzendkrachten beogen, of die geen correcte, volledige en objectieve informatie geven;<br>
-14° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning.<br>
+14° het bureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële betaalde sportbeoefenaars kan misleiden.<br>
 15° het bureau dat gebruikmaakt van middelen, mechanismen of lijsten om vissers te verhinderen werk te vinden.<br>
+<br>
+De geldboete die wordt opgelegd met toepassing van het eerste lid, 7° tot en met 9°, wordt vermenigvuldigd met het aantal werknemers op wie de inbreuk betrekking heeft. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.<br>
 &nbsp;
 
 ### ART. 24.
 
-Met behoud van de toepassing van artikelen 269 tot 274 Strafwetboek worden gestraft met gevangenisstraf van acht dagen tot een jaar en met een geldboete van 125 euro tot 1250 euro of met één van deze straffen alleen :<br>
+Met behoud van de toepassing van artikelen 269 tot 274 Strafwetboek worden gestraft met een geldboete van 100 tot 1000 euro :<br>
 1° iedere persoon, zijn lasthebbers of aangestelden, die een bureau exploiteren als natuurlijke persoon zonder de burgerrechten en politieke rechten te genieten;<br>
 2° iedere persoon, zijn lasthebbers of aangestelden die, buiten de in artikel 47 van de Faillissementwet van 8 augustus 1997 of een gelijkaardige wetgeving in de lidstaat van vestiging toegelaten gevallen, diensten van private arbeidsbemiddeling verrichten op het moment dat het bureau in staat van faillissement of in staat van kennelijk onvermogen verkeert, of dat het bureau het voorwerp uitmaakt van een procedure tot faillietverklaring;<br>
 3° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die leiden tot tewerkstelling zoals vermeld in artikel 5, 5°;<br>
@@ -301,20 +303,38 @@ d) aan wie tijdens een periode van vijf jaar, voor de start of tijdens de uitoef
 e) tijdens de periode van vijf jaar, voor de aanvang van of gedurende de uitoefening van diensten inzake private arbeidsbemiddeling ontheven zijn van hun burgerrechten en politieke rechten;<br>
 9° het bureau, zijn lasthebbers of aangestelden die activiteiten van private arbeidsbemiddeling uitvoeren in strijd met de sociale of fiscale wetgeving;<br>
 10° het bureau, zijn lasthebbers of aangestelden die de reglementering inzake de tewerkstelling van vreemde arbeidskrachten die in België van toepassing is, overtreden;<br>
-11° het uitzendbureau, zijn lasthebbers of aangestelden die een erkenning verkrijgen op basis van valse, onvolledige of onjuiste verklaringen;<br>
-12° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking van de erkenning nog nieuwe overeenkomsten afsluiten, deze wijzigen, vernieuwen of verlengen;<br>
-13° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking of schrapping van de erkenning nog uitzendactiviteiten uitvoeren;<br>
-14° iedere persoon, zijn lasthebbers of aangestelden, die een uitzendbureau exploiteren zonder in het bezit te zijn van een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
-15° de gebruiker die wetens en willens een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+11° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+12° de gebruiker, zijn lasthebbers of aangestelden die het bureau aanzetten of opdracht geven om bij de bemiddeling discriminerende criteria te gebruiken;<br>
+13° ...;<br>
+14° ...;<br>
+15° ...;<br>
 16° het bureau, zijn lasthebbers of aangestelden die enige vergoeding, commissielonen, bijdragen, toelatings- of inschrijvingsgelden vragen of ontvangen, buiten de door dit decreet bepaalde voorwaarden;<br>
 17° het uitzendbureau dat achterstallige belastingen, boeten of intresten verschuldigd is, socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten verschuldigd is aan de Rijksdienst voor Sociale Zekerheid of bijdragen, boeten of interesten verschuldigd is aan de fondsen voor bestaanszekerheid;<br>
 18° het uitzendbureau dat de wettelijke voorwaarden inzake de uitzendarbeid niet naleeft;<br>
 19° het bureau, zijn lasthebbers of aangestelden die de werknemer niet behandelen op een objectieve, respectvolle en niet-discriminerende wijze.<br>
-20° iedere persoon, zijn lasthebbers of aangestelden, die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+20° ...;<br>
 21° het bureau, zijn lasthebbers of aangestelden, die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars samenwerken met een bureau dat niet voorafgaandelijk geregistreerd is;<br>
-22° het bureau, zijn lasthebbers of aangestelden, die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
-23° de werkgever die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.<br>
+22° ...;<br>
+23° ..;<br>
+24° het bureau, zijn lasthebbers of aangestelden die activiteiten verrichten die gericht zijn op het sluiten van een overeenkomst om diensten van private arbeidsbemiddeling te verrichten voor sportbeoefenaars, als de betrokken sportbeoefenaar de leeftijd van vijftien jaar nog niet heeft bereikt;<br>
+25° het bureau, zijn lasthebbers of aangestelden die een vergoeding vragen om diensten van private arbeidsbemiddeling te verrichten voor een minderjarige sportbeoefenaar.<br>
+<br>
+De geldboete die wordt opgelegd met toepassing van het eerste lid, 16°, wordt vermenigvuldigd met het aantal werknemers op wie de inbreuk betrekking heeft. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.<br>
 &nbsp;
+
+### ART 24/1.
+
+Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden gestraft met een gevangenisstraf van zes maanden tot drie jaar en met een geldboete van 300 tot 3000 euro of met een van die straffen alleen:<br>
+1° iedere persoon, zijn lasthebbers of aangestelden die een uitzendbureau exploiteren zonder in het bezit te zijn van een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
+2° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking van de erkenning nog nieuwe overeenkomsten sluiten of die overeenkomsten wijzigen, vernieuwen of verlengen;<br>
+3° het uitzendbureau, zijn lasthebbers of aangestelden die na de intrekking of schrapping van de erkenning nog uitzendactiviteiten uitvoeren;<br>
+4° iedere persoon, zijn lasthebbers of aangestelden die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+5° het bureau, zijn lasthebbers of aangestelden die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
+6° het uitzendbureau, zijn lasthebbers of aangestelden die een erkenning verkrijgen op basis van valse, onvolledige of onjuiste verklaringen;<br>
+7° de gebruiker die wetens en willens een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning;<br>
+8° de werkgever die voor de arbeidsbemiddeling met het oog op het sluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.<br>
+<br>
+De geldboete die wordt opgelegd met toepassing van het eerste lid, 1° tot en met 5°, wordt vermenigvuldigd met het aantal werknemers op wie de inbreuk betrekking heeft. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.
 
 ### ART. 25.
 
@@ -326,7 +346,10 @@ De zaakvoerder van het bureau of uitzendbureau, is burgerrechtelijk aansprakelij
 
 ### ART. 27.
 
-Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de bij dit decreet vastgestelde overtredingen. In geval van herhaling zal artikel 85 van het Strafwetboek evenwel niet van toepassing zijn.<br /><br />Inbreuken op de bepalingen van dit decreet en zijn uitvoeringsbesluiten verjaren na verloop van vijf jaar, na het feit waaruit de vordering is ontstaan.<br /><br />
+Alle bepalingen van boek 1 van het Strafwetboek, met uitzondering van hoofdstuk V, zijn van toepassing op de inbreuken, vermeld in dit decreet.<br>
+<br>
+Inbreuken op de bepalingen van dit decreet en zijn uitvoeringsbesluiten verjaren na verloop van vijf jaar, na het feit waaruit de vordering is ontstaan.<br>
+&nbsp;
 
 ### ART. 28.
 
