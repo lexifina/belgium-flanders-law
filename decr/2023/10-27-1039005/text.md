@@ -47,6 +47,12 @@ c) een werkgever en de vermelde autoriteiten en waarbij daden zijn gesteld die h
 
 ## Hoofdstuk 3. Wijzigingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004
 
+### ART 7.
+
+Aan artikel 13/2, §2, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, ingevoegd bij het decreet van 12 juli 2013, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan de werkgever, zijn lasthebber of aangestelde als hij in strijd met de bepalingen van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan de arbeidsovereenkomst van de buitenlandse onderdaan verbreekt of een betekenisvolle wijziging aan de arbeidsvoorwaarden doorvoert, en moedwillig nalaat de bevoegde overheid hiervan schriftelijk te verwittigen.”.
+
 ### ART 8.
 
 In artikel 13/6 van hetzelfde decreet, ingevoegd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
