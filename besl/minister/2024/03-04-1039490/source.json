@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039490,
+  "title": "Ministerieel besluit van 2024-03-04 over de verdeling van de middelen voor de terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039490/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "e452aa73bca7333ba622400ed458262a51999ebac16bd9a58b6552bd94655415",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039490&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-03-04",
+  "gazette": "2024-03-18",
+  "numac": 2024002336,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
