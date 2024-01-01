@@ -545,7 +545,7 @@ In afwijking van het eerste lid, 1°, a) en b), behoort een opdracht in een ople
 
 Voor de centra wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
 1° het ambt zoals opgenomen in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, het ondersteunend personeel en het technisch personeel;<br>
-2° als het gaat om een ambt van het ondersteunend personeel of om het ambt van coördinator moet het ambt een zelfde omkaderingsgewicht en een zelfde salarisschaal opleveren.
+2° als het gaat om een ambt van het ondersteunend personeel of van het bestuurs- en onderwijzend personeel moet het ambt een zelfde omkaderingsgewicht en een zelfde salarisschaal opleveren.
 
 ## [AFDELING 8 DE PEDAGOGISCHE BEGELEIDINGSDIENSTEN (ing. BVR 17 juli 2020, art. 4, I: 1 juni 2021)]
 
