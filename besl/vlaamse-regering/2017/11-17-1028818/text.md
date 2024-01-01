@@ -192,6 +192,88 @@ Het vertrouwenscentrum kindermishandeling kan binnen zijn opdrachten, vermeld in
 
 Het vertrouwenscentrum kindermishandeling kan in bijkomende tijden en kanalen voorzien voor de toegankelijkheid, zoals vermeld in artikel 10.
 
+### ART 26/1.
+
+Met toepassing van artikel 5, §1, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen hebben de vertrouwenscentra kindermishandeling en de partnerorganisatie een kwaliteitsbeleid dat al de volgende elementen bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de missie van de voorziening;<br>
+2°&nbsp;&nbsp; &nbsp;de visie van de voorziening;<br>
+3°&nbsp;&nbsp; &nbsp;de waarden;<br>
+4°&nbsp;&nbsp; &nbsp;de te creëren maatschappelijke meerwaarde, en ook de strategische doelstellingen om die meerwaarde te realiseren;<br>
+5°&nbsp;&nbsp; &nbsp;de omschrijving van de volgende aandachtsgebieden:<br>
+a)&nbsp;&nbsp; &nbsp;kwaliteitszorg:<br>
+1)&nbsp;&nbsp; &nbsp;organisatie en visie;<br>
+2)&nbsp;&nbsp; &nbsp;betrokkenheid;<br>
+3)&nbsp;&nbsp; &nbsp;methodieken en instrumenten;<br>
+4)&nbsp;&nbsp; &nbsp;verbetertraject;<br>
+b)&nbsp;&nbsp; &nbsp;inputgebieden:<br>
+1)&nbsp;&nbsp; &nbsp;leiderschap;<br>
+2)&nbsp;&nbsp; &nbsp;personeelsbeleid;<br>
+3)&nbsp;&nbsp; &nbsp;beleid en strategie;<br>
+4)&nbsp;&nbsp; &nbsp;middelen en partnerschappen;<br>
+c)&nbsp;&nbsp; &nbsp;kernprocessen:<br>
+1)&nbsp;&nbsp; &nbsp;onthaal van de gebruiker;<br>
+2)&nbsp;&nbsp; &nbsp;kernopdrachten als vermeld in artikel 7, §2;<br>
+3)&nbsp;&nbsp; &nbsp;afsluiting en nazorg;&nbsp;<br>
+4)&nbsp;&nbsp; &nbsp;hulpverleningsprincipe;<br>
+5)&nbsp;&nbsp; &nbsp;dossierbeheer;<br>
+d)&nbsp;&nbsp; &nbsp;outputgebieden:<br>
+1)&nbsp;&nbsp; &nbsp;gebruikersresultaten;<br>
+2)&nbsp;&nbsp; &nbsp;medewerkersresultaten;<br>
+3)&nbsp;&nbsp; &nbsp;samenlevingsresultaten.<br>
+&nbsp;
+
+### ART 26/2.
+
+Conform artikel 5, §2, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen beschikken vertrouwenscentra kindermishandeling en de partnerorganisatie over een kwaliteitsmanagementsysteem dat minimaal de organisatorische structuur, de bevoegdheden, de verantwoordelijkheden en de processen en procedures bevat.
+
+### ART 26/3.
+
+Met behoud van de toepassing van artikel 5, §3, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen evalueren de vertrouwenscentra kindermishandeling en de partnerorganisatie systematisch zelf hun werking en minimaal de aandachtsgebieden kwaliteitszorg, de kernprocessen en de outputgebieden, vermeld in artikel 26/1, 5°, van dit besluit, conform de groeiniveaus in de volgende tabel:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:113px">groeiniveau</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:438px">omschrijving</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Er zijn geen of weinig procedures.</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Er worden op ad-hocbasis procedures uitgewerkt. Het bewustzijn groeit, maar er nog geen gestructureerde aanpak aanwezig.</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Een gestructureerde aanzet wordt gegeven tot de ontwikkeling van procedures. De instrumenten voor organisatiebeheersing zijn in ontwikkeling maar worden nog niet toegepast.</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Procedures zijn aanwezig. Ze zijn gestandaardiseerd, gedocumenteerd, gecommuniceerd en worden toegepast.</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">De procedures worden intern&nbsp;systematisch&nbsp;geëvalueerd en bijgestuurd.&nbsp;Er kan&nbsp;gesproken worden over een ‘levend’ adequaat en doeltreffend systeem van&nbsp;organisatiebeheersing. De PDCA-cirkel is rond.</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">De&nbsp;procedures worden voortdurend geoptimaliseerd via&nbsp;benchmarking&nbsp;en het&nbsp;behalen van&nbsp;kwaliteitscertificaten of externe evaluaties.&nbsp;​</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Op basis van de zelfevaluatie, vermeld in het eerste lid, formuleert de voorziening verbeteracties die betrekking kunnen hebben op alle elementen van het kwaliteitsbeleid, vermeld in artikel 26/1.
+
+### ART 26/4.
+
+De voorziening beschikt over een borgend kwaliteitshandboek, dat de volgende elementen bevat:<br>
+1°&nbsp;&nbsp; &nbsp;het kwaliteitsbeleid, vermeld in artikel 26/1;<br>
+2°&nbsp;&nbsp; &nbsp;het kwaliteitsmanagementsysteem, vermeld in artikel 26/2;<br>
+3°&nbsp;&nbsp; &nbsp;de zelfevaluatie en verbeteracties, vermeld in artikel 26/3.<br>
+<br>
+Het kwaliteitshandboek, vermeld in het eerste lid, is gebruiksvriendelijk en toegankelijk en wordt door alle geledingen van de voorziening gedragen.
+
 ## HOOFDSTUK 3. Subsidiëring
 
 ## Afdeling 1. Algemene bepalingen
@@ -249,14 +331,14 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.952.858,09 euro (een miljoen negenhonderdtweeënvijftigduizend achthonderdachtenvijftig euro negen cent);<br>
-2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 1.101.904,73 euro (een miljoen honderdeneenduizend negenhonderdenvier euro drieënzeventig cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 1.239.100,02 euro (een miljoen tweehonderdnegenendertigduizend honderd euro twee cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.514.788,84 euro (een miljoen vijfhonderdveertienduizend zevenhonderdachtentachtig euro vierentachtig cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.377.052,62 euro (een miljoen driehonderdzevenenzeventigduizend tweeënvijftig euro tweeënzestig cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.384.898,10 euro (een miljoen driehonderdvierentachtigduizend achthonderdachtennegentig euro tien cent).<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 1.982.566,47 euro (een miljoen negenhonderdtweeëntachtigduizend vijfhonderdzesenzestig euro zevenenveertig cent);<br>
+2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 1.125.888,13 euro (een miljoen honderdvijfentwintigduizend achthonderdachtentachtig euro dertien cent);<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 1.264.455,37 euro (een miljoen tweehonderdvierenzestigduizend vierhonderdvijfenvijftig euro zevenendertig cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.542.849,61 euro (een miljoen vijfhonderdtweeënveertigduizend achthonderdnegenenveertig euro eenenzestig cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.403.722,21 euro (een miljoen vierhonderdendrieduizend zevenhonderdtweeëntwintig euro eenentwintig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.411.394,60 euro (een miljoen vierhonderdelfduizend driehonderdvierennegentig euro zestig cent).<br>
 <br>
-§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 116.101,98 euro (honderdzestienduizend honderdeneen euro achtennegentig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
+§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 280.752,58 euro (tweehonderdtachtigduizend zevenhonderdtweeënvijftig euro achtenvijftig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
 § 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 664.531,05 euro (zeshonderdvierenzestigduizend vijfhonderdeenendertig euro vijf cent).<br>
 <br>
