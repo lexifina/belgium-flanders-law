@@ -2,16 +2,16 @@
   "codex_id": 1014219,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014219/VolledigDocument?datum=2020-04-04",
-  "source_sha256": "c905af63e732f11deda2792d66573d1f7840a003c19f32a24c3aa7efa714c9a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014219/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "5a62ee38ad1d2591fb08213c4370950986834dc4e4d4b75b911dae4d8d22d51f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014219&param=informatie",
-  "as_of": "2020-04-04",
+  "as_of": "2024-01-01",
   "made": "2005-12-16",
   "gazette": "2006-01-23",
   "numac": 2006035027,
   "document_start": "2006-02-02",
   "document_end": null,
-  "in_force": "2020-04-04",
+  "in_force": "2024-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2020-04-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
