@@ -35,7 +35,7 @@ Dit besluit voorziet in de uitvoering van uitvoeringsverordening (EU) 2017/1185 
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° erkende organisatie: een organisatie die over bepaalde markt- of prijsgegevens beschikt en die de minister erkent conform hoofdstuk 2 om gegevens van een of meer producten te bezorgen aan de bevoegde entiteit, conform hoofdstuk 3 van dit besluit;<br>
 3° marktdeelnemers: alle producenten, handelaars, telers, maalderijen, zwingelaars, producentenorganisaties, slachthuizen, versnijderijen, pakstations en kopers, vermeld in hoofdstuk 3;<br>
 4° minister: de Vlaamse minister, bevoegd voor de landbouw en de zeevisserij.
