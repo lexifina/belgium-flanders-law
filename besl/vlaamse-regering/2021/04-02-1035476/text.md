@@ -28,9 +28,9 @@ De jaarlijkse periode neemt telkens een aanvang op 1 januari.
 
 ### ART 2.
 
-Als de Raad van het Fonds voor Scheepsjongeren vaststelt dat de reserve van het Fonds voor Scheepsjongeren niet langer toereikend is om in normale omstandigheden de werking van het Fonds te garanderen, vraagt de Raad van het Fonds voor Scheepsjongeren een verhoging van de verplichte bijdrage, vermeld in artikel 1, na daarover een gemotiveerd advies te hebben uitgebracht aan de Vlaamse minister, bevoegd voor de landbouw en de zeevisserij.<br>
+Als de Raad van het Fonds voor Scheepsjongeren vaststelt dat de reserve van het Fonds voor Scheepsjongeren niet langer toereikend is om in normale omstandigheden de werking van het Fonds te garanderen, vraagt de Raad van het Fonds voor Scheepsjongeren een verhoging van de verplichte bijdrage, vermeld in artikel 1, na daarover een gemotiveerd advies te hebben uitgebracht aan de Vlaamse minister, bevoegd voor de zeevisserij.<br>
 <br>
-Nadat de Vlaamse minister, bevoegd voor de landbouw en de zeevisserij, het gemotiveerd advies en het verzoek, vermeld in het eerste lid, heeft ontvangen, legt de minister een voorstel ter beslissing aan de Vlaamse Regering voor.
+Nadat de Vlaamse minister, bevoegd voor&nbsp; de zeevisserij, het gemotiveerd advies en het verzoek, vermeld in het eerste lid, heeft ontvangen, legt de minister een voorstel ter beslissing aan de Vlaamse Regering voor.
 
 ### ART 3.
 
