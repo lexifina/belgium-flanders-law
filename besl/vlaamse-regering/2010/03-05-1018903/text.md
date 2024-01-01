@@ -7,7 +7,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° boekhoudkundige gegevens: de lijst van economische variabelen, vermeld in tabel 5A van het uitvoeringsbesluit (EU) 2016/1251 van de Commissie van 12 juli 2016 tot vaststelling van een meerjarenprogramma van de Unie voor de verzameling, het beheer en het gebruik van gegevens in de visserij- en de aquacultuursector voor de periode 2017-2019.
 
 ### ART. 1/1.
@@ -20,7 +20,7 @@ De rederijen van vissersvaartuigen die gerechtigd zijn vissoorten aan te landen 
 
 ### ART. 3.
 
-De boekhoudkundige gegevens van het voorgaande kalenderjaar worden voor 1 september meegedeeld door middel van een formulier vastgelegd door de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij.
+De boekhoudkundige gegevens van het voorgaande kalenderjaar worden voor 1 september meegedeeld door middel van een formulier vastgelegd door de Vlaamse minister, bevoegd voor de zeevisserij.
 
 ### ART. 4.
 
