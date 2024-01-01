@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039111,
+  "title": "Ministerieel besluit van 2023-12-08 over de programmatie van de observatie-, diagnose- en behandelingsunits",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039111/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "2e90a40f946b40d61248f6fd483e66ea8cca60167e16d0270bc8efe143053329",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039111&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2023-12-08",
+  "gazette": "2023-12-15",
+  "numac": 2023048269,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
