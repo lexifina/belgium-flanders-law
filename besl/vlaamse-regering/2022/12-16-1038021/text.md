@@ -37,7 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 2° beschermingsaanvraag: een beschermingsaanvraag als vermeld in artikel 94 van verordening (EU) nr. 1308/2013;<br>
 3° beschermde oorsprongsbenaming: een oorsprongsbenaming waarvoor de Europese Commissie een beschermingsbesluit heeft opgesteld overeenkomstig artikel 99 van verordening (EU) nr. 1308/2013 en die beschermd is als vermeld in artikel 103 van verordening (EU) nr. 1308/2013;<br>
 4° beschermde geografische aanduiding: een geografische aanduiding waarvoor de Europese Commissie een beschermingsbesluit heeft opgesteld overeenkomstig artikel 99 van verordening (EU) nr. 1308/2013 en die beschermd is als vermeld in artikel 103 van verordening (EU) nr. 1308/2013;<br>
-5° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+5° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 6° geografische aanduiding: een geografische aanduiding als vermeld in artikel 93, lid 1, b), van verordening (EU) nr. 1308/2013;<br>
 7° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 8° oorsprongsbenaming: een oorsprongsbenaming als vermeld in artikel 93, lid 1, a), van verordening (EU) nr. 1308/2013;<br>
