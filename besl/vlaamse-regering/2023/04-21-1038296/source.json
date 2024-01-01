@@ -2,16 +2,16 @@
   "codex_id": 1038296,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 betreffende steun aan niet-productieve investeringen voor milieu- en klimaatdoelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038296/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "992854cd87c711b094c3f683773b490d933749d1c5753044ec7fda94081bc7c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038296/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "1f4dd4bf296e4b5cc77be3ac3a7cb202cc8626377eed732add84658cab2aef7d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038296&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "2023-04-21",
   "gazette": "2023-07-17",
   "numac": 2023020026,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2024-01-01",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

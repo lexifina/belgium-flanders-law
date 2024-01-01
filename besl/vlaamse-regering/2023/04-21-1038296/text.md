@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° actieve landbouwer: de actieve landbouwer, vermeld in artikel 4, §2, van het besluit van 21 april 2023;<br>
 2° besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betaling aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° blokperiode: een periode van maximaal drie maanden waarin steunaanvragen ingediend kunnen worden;<br>
 5° eenheidskosten: de gemiddelde marktconforme kosten van een investering per meest geschikte technische of gebruikseenheid;<br>
 6° e-loket: het elektronisch loket voor het aanvragen van steun dat ontwikkeld en beheerd wordt door de bevoegde entiteit;<br>
@@ -182,7 +182,7 @@ Uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de s
 <br>
 De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:&nbsp;<br>
 1° welke en hoeveel investeringen zijn uitgevoerd;<br>
-2° minstens drie offertes per investering, als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft. Als minder dan drie offertes beschikbaar zijn of indien er niet gekozen wordt voor de goedkoopste offert, wordt dat verantwoord;<br>
+2° minstens drie offertes per investering, als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft. Als minder dan drie offertes beschikbaar zijn of indien er niet gekozen wordt voor de goedkoopste offerte, wordt dat verantwoord;<br>
 3° facturen voor de uitgevoerde investeringen;<br>
 4° stukken waaruit blijkt dat is voldaan aan de voorwaarden, vermeld in artikel 17.
 
@@ -208,7 +208,9 @@ In het eerste lid, 6°, wordt verstaan onder Geïntegreerd Beheer- en Controlesy
 De steun, vermeld in artikel 3, wordt berekend als een percentage van de totale subsidiabele kosten van de investering en bedraagt:<br>
 1° 100% voor de investeringen waarbij algemeen wordt aangenomen dat er geen productieve aspecten aan verbonden zijn;<br>
 2° 75% voor de investeringen waarvoor een secundair positief effect op de productie bewezen is of waarbij een secundair negatief effect van de productie vermeden wordt;<br>
-3° 50% voor de investeringen die &nbsp;alleen een niet-productieve meerwaarde hebben tegenover de andere bestaande productieve systemen.
+3° 50% voor de investeringen die &nbsp;alleen een niet-productieve meerwaarde hebben tegenover de andere bestaande productieve systemen.<br>
+<br>
+Als de bevoegde entiteit voor de investering geen eenheidskosten bepaald heeft, kunnen de aanvaardbare investeringskosten voor maximaal 10% bestaan uit kosten voor begeleiding bij de opmaak van een technisch verantwoordingsadvies als vermeld in artikel 8.
 
 ## Hoofdstuk 9. Uitbetaling van de steun
 
@@ -527,7 +529,7 @@ Bijlage 1. De voor in steun in aanmerking komende investeringen, als vermeld in 
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-kleinschalige waterinfrastructuur</td>
+			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-wateropslag met infiltratie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:306px">grond- en stenen dammen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
@@ -557,7 +559,7 @@ Bijlage 1. De voor in steun in aanmerking komende investeringen, als vermeld in 
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-kleinschalige waterinfrastructuur</td>
+			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-wateropslag met infiltratie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:306px">Knijpconstructies</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
@@ -602,7 +604,7 @@ Bijlage 1. De voor in steun in aanmerking komende investeringen, als vermeld in 
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-kleinschalige waterinfrastructuur</td>
+			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-wateropslag met infiltratie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:306px">plaatsen regelbare stuw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
@@ -617,7 +619,7 @@ Bijlage 1. De voor in steun in aanmerking komende investeringen, als vermeld in 
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-kleinschalige waterinfrastructuur</td>
+			<td style="border-bottom:1px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:178px">NP-wateropslag met infiltratie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; vertical-align:top; width:306px">Wetland</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:2px solid black; border-top:none; height:9px; text-align:center; vertical-align:top; width:189px">100%</td>
 		</tr>
