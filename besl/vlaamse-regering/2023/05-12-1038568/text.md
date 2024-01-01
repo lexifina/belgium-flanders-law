@@ -117,7 +117,11 @@ Als na het sluiten van de beheerovereenkomst wordt vastgesteld dat de beheerverg
 <br>
 In afwijking van paragraaf 2 kan bij een combinatie van een beheerovereenkomst met ecoregelingen die mogelijk is zoals bepaald in het eerste lid, de beheervergoeding verlaagd of niet uitbetaald worden, zodat een dubbele financiering voor dezelfde of soortgelijke prestaties wordt uitgesloten. De minister kan nadere regels vaststellen voor de verlaging of niet-uitbetaling van beheervergoedingen om zo een dubbele financiering te vermijden.<br>
 <br>
-§4. Percelen waarop een beheerovereenkomst gesloten is, kunnen niet gebruikt worden om te voldoen aan de normen voor een goede landbouw- en milieuconditie van grond, vermeld in punt GLMC5 en GLMC8 van bijlage III van verordening (EU) 2021/2115, met uitzondering van de beheerpakketten die ingezet kunnen worden voor de beheerdoelstelling onderhoud van kleine landschapselementen, vermeld in artikel 12 van dit besluit.
+§4. Percelen waarvoor een beheerovereenkomst gesloten is, kunnen niet gebruikt worden om te voldoen aan de normen voor een goede landbouw- en milieuconditie van grond, vermeld in punt GLMC5 van bijlage III bij verordening (EU) 2021/2115.<br>
+<br>
+Percelen waarvoor een beheerovereenkomst gesloten is, kunnen gebruikt worden om te voldoen aan de normen voor een goede landbouw- en milieuconditie van grond, vermeld in artikel 63 en 64 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid. De minister bepaalt welke beheerpakketten gebruikt kunnen worden om te voldoen aan deze bepalingen.&nbsp;<br>
+<br>
+Als een perceel waarvoor een beheerovereenkomst gesloten is, gebruikt wordt om te voldoen aan de normen voor een goede landbouw- en milieuconditie van grond, vermeld in het tweede lid, zal de beheervergoeding worden verlaagd zodat een financiering voor dezelfde of soortgelijke prestaties wordt uitgesloten. De minister stelt de nadere regels vast voor de verlaging van beheervergoedingen.
 
 ### ART 8.
 
@@ -337,7 +341,7 @@ De omzetting, vermeld in het eerste lid, is alleen mogelijk als al de volgende v
 <br>
 §2. De beheerder dient het verzoek tot een omzetting als vermeld in paragraaf 1, in bij de maatschappij. De minister bepaalt de bestaande beheerpakketten waarvoor een omzetting in een nieuw beheerpakket mogelijk is en in welk nieuw beheerpakket zij omgezet kunnen worden, alsook de gegevens die het verzoek tot omzetting minstens moet bevatten.<br>
 <br>
-Het verzoek tot een omzetting als vermeld in paragraaf 1, wordt, op straffe van verval, uiterlijk op 1 september van het jaar dat voorafgaat aan de gewenste aanvangsdatum, ingediend via het e-loket.&nbsp;<br>
+Het verzoek tot een omzetting als vermeld in paragraaf 1, wordt, op straffe van verval, uiterlijk op 1 november van het jaar dat voorafgaat aan de gewenste aanvangsdatum, ingediend via het e-loket.&nbsp;<br>
 <br>
 §3. De maatschappij beslist of een omzetting als vermeld in paragraaf 1, mogelijk is en gaat na of de nieuw te sluiten beheerovereenkomst voldoet aan de bepalingen, vermeld in artikel 4. De maatschappij brengt de beheerder via het e-loket op de hoogte van haar beslissing.<br>
 <br>
@@ -359,7 +363,7 @@ De uitbreiding, vermeld in het eerste lid, 1°, is alleen mogelijk als al de vol
 <br>
 De vervanging, vermeld in het eerste lid, 2°, is alleen mogelijk als in de nieuwe beheerovereenkomst minstens dezelfde beheerpakketten zijn opgenomen als in de bestaande beheerovereenkomst en de oppervlakte waarop een beheerpakket betrekking heeft, wordt vergroot.<br>
 <br>
-§2. De beheerder dient het verzoek tot een uitbreiding of een vervanging als vermeld in paragraaf 1, op straffe van verval, uiterlijk op 1 september van het jaar dat voorafgaat aan de gewenste aanvangsdatum, in via het e-loket.<br>
+§2. De beheerder dient het verzoek tot een uitbreiding of een vervanging als vermeld in paragraaf 1, op straffe van verval, uiterlijk op 1 november van het jaar dat voorafgaat aan de gewenste aanvangsdatum, in via het e-loket.<br>
 <br>
 De minister bepaalt de gegevens die het verzoek, vermeld in het eerste lid, minstens moet bevatten.<br>
 <br>
