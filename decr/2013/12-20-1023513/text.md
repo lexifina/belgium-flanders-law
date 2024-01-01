@@ -114,19 +114,11 @@ In artikel 12, § 1, derde lid, van hetzelfde decreet, gewijzigd bij de   decret
 
 ...
 
-## HOOFDSTUK 8 Fonds voor de Waarborgregeling van de NV Waarborgbeheer
+## ...
 
 ### ART. 20.
 
-<p>§ 1. Er wordt bij het Agentschap Ondernemen een Fonds voor de Waarborgregeling van de NV Waarborgbeheer opgericht, hierna genoemd `het fonds'.</p>
-
-<p>§ 2. Het fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
-
-<p>§ 3. Het fonds wordt gespijsd door enerzijds de ontvangen premies voor de verstrekte waarborgen en anderzijds de financiële recuperaties ingevolge de uitwinning van gestelde zekerheden bij de verleende waarborgen.</p>
-
-<p>§ 4. Het fonds wordt aangewend voor de verliesfinanciering ingevolge de verleende waarborgen door de NV Waarborgbeheer.</p>
-
-<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
+<p>...</p>
 
 ## HOOFDSTUK 9 Fonds Bestuursrechtscolleges
 
@@ -260,7 +252,8 @@ In afwijking van het eerste lid, draagt het begrotingsfonds met ingang van 1 apr
 § 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit :<br>
 1° de publiciteit in, de abonnementen op en andere ontvangsten met betrekking tot het tijdschrift Klasse;<br>
 2° communicatie-initiatieven;<br>
-3° projectsubsidies, verkregen door Vlaamse, Europese en/of (inter)nationale (co)financiering van projecten.<br>
+3° projectsubsidies, verkregen door Vlaamse, Europese en/of (inter)nationale (co)financiering van projecten;<br>
+4° in afwijking van artikel 15, §3, van de Vlaamse Codex Overheidsfinanciën, subsidies in het kader van Europese projecten, ingeschreven in de algemene middelen, maximaal gelijk aan het niet opgebruikte saldo van de ontvangen middelen.<br>
 <br>
 § 4. Het fonds wordt aangewend ter financiering van :<br>
 1° de specifieke werkingskosten in verband met Onderwijscommunicatie, Klasse, Klascement en met inbegrip van projecten met Vlaamse, Europese of (inter)nationale (co)financiering;<br>
