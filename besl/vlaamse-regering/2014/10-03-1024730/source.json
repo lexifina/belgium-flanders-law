@@ -2,16 +2,16 @@
   "codex_id": 1024730,
   "title": "Besluit van de Vlaamse Regering van 2014-10-03 tot uitvoering van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid en tot wijziging van het besluit van de Vlaamse Regering van 17 november 2006 betreffende de organisatie, de samenstelling en de werking van de Raad van het Fonds voor Landbouw en Visserij en tot vaststelling van het bijzonder reglement betreffende het beheer en van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024730/VolledigDocument?datum=2018-12-30",
-  "source_sha256": "d5fd567ac5165718cf0971ff1aae76be5964e3ecff2303ef6f301443003fff03",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024730/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "9545b831ccd722862b3fc45a938e3b32c221d104bcb1aafe782f7b572efcb970",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024730&param=informatie",
-  "as_of": "2018-12-30",
+  "as_of": "2024-01-01",
   "made": "2014-10-03",
   "gazette": "2014-11-03",
   "numac": 2014036736,
   "document_start": "2014-11-13",
   "document_end": null,
-  "in_force": "2018-12-30",
-  "article_versions": 34,
-  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -11,12 +11,12 @@
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 28 juni 2013: het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 2° ...;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° BELAC: het accreditatiesysteem opgericht bij koninklijk besluit van 31 januari 2006 tot oprichting van het BELAC accreditatiesysteem van instellingen voor de conformiteitsbeoordeling;<br>
 5° ISTA: International Seed Testing Association;<br>
 6° minister: de Vlaamse minister bevoegd voor de landbouw;<br>
-7° managementcomité: het managementorgaan van het beleidsdomein Landbouw en Visserij;<br>
-8° voorzitter: de voorzitter van het managementcomité;<br>
+7° ...;<br>
+8° ...;<br>
 9° beveiligde zending: een van de volgende betekeningswijzen:<br>
 a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
@@ -103,7 +103,7 @@ Het hoofd van de bevoegde entiteit brengt de vermoedelijke overtreder op   de ho
 
 ### ART. 18.
 
-<P>§ 1. De overtreder kan bij het managementcomité beroep instellen tegen het   besluit waarbij de bestuurlijke sanctie, vermeld in artikel 56 van het decreet   van 28 juni 2013, wordt opgelegd. Het beroep wordt met een beveiligde zending   bij de voorzitter, ingediend op het adres van het departement, Koning Albert   II-laan 35, bus 40, 1030 Brussel.<BR></P>  <P>§ 2. Het beroepschrift voldoet aan de volgende   ontvankelijkheidsvoorwaarden:<BR>1° het vermeldt de naam en de woonplaats van de   beroepsindiener. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in   het beroepschrift aangegeven;<BR>2° het is ondertekend door de beroepsindiener   of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de   raadsman ingeschreven is als advocaat of advocaat-stagiair;<BR>3° het vermeldt   het voorwerp van het beroep, met een omschrijving van de ingeroepen   argumenten;<BR>4° het is ingediend binnen de termijn, vermeld in artikel 59 van   het decreet van 28 juni 2013.<BR></P>  <P>Als de beroepsindiener zijn beroepschrift mondeling wil toelichten, verzoekt   hij daar uitdrukkelijk om in zijn beroepschrift.<BR></P>  <P>§ 3. De voorzitter onderzoekt het beroep, vermeld in paragraaf 1, op zijn   ontvankelijkheid. Hij brengt de beroepsindiener en de leidend ambtenaar die de   bestuurlijke sanctie heeft opgelegd, met een beveiligde zending op de hoogte van   het resultaat van zijn onderzoek binnen vijftien dagen na de ontvangst van het   beroep. Als het beroep onontvankelijk wordt bevonden, is de beroepsprocedure   daarmee beëindigd.<BR></P>  <P>Als de bestreden beslissing door het hoofd van de bevoegde entiteit of het   personeelslid aan wie hij de bevoegdheid tot het opleggen van een bestuurlijke   sanctie heeft gedelegeerd, is genomen, wordt de taak van de voorzitter, vermeld   in het eerste lid, vervuld door de administrateur-generaal van het Instituut   voor Landbouw- en Visserijonderzoek.<BR></P>  <P>§ 4. Binnen vijftien dagen na de datum van de beveiligde zending, vermeld in   paragraaf 3, bezorgt de leidend ambtenaar die de bestuurlijke sanctie vermeld in   artikel 56 van het decreet van 28 juni 2013, heeft opgelegd, het ontvankelijke   administratieve dossier aan de voorzitter. Het administratieve dossier bevat   alle stukken en inlichtingen die relevant zijn voor de beoordeling van het   beroep.<BR></P>  <P>Het administratieve dossier wordt ter inzage gelegd van de   beroepsindiener.<BR></P>  <P>§ 5. Een adviescommissie adviseert het managementcomité over het   beroepschrift.<BR></P>  <P>De adviescommissie bestaat uit vijf leden, die door de voorzitter zijn   aangewezen op basis van een door de minister vastgestelde lijst van leden van de   adviescommissie. Die lijst bestaat uit personeelsleden van de bevoegde   entiteit.<BR></P>  <P>Het voorzitterschap en het secretariaat van de adviescommissie wordt   waargenomen door twee leden van de adviescommissie die jurist zijn.<BR></P>  <P>De door de voorzitter aangewezen leden van de adviescommissie mogen niet bij   de bestreden beslissing betrokken zijn.<BR>Minstens drie leden van de   adviescommissie moeten aanwezig zijn om geldig te kunnen beraadslagen.<BR></P>  <P>De beroepsindiener wordt door de adviescommissie gehoord, als hij daar   uitdrukkelijk om verzoekt in zijn beroepschrift.<BR></P>  <P>De beroepsindiener kan zich tijdens de hoorzitting voor de adviescommissie   laten bijstaan of vertegenwoordigen. Een schriftelijke machtiging wordt bij   vertegenwoordiging uiterlijk bij aanvang van de hoorzitting bijgevoegd, tenzij   de raadsman ingeschreven is als advocaat of advocaat-stagiair.<BR></P>  <P>De adviescommissie formuleert een advies dat binnen honderdtwintig dagen na   de datum van de beveiligde zending, vermeld in paragraaf 3, met een beveiligde   zending aan het managementcomité en de beroepsindiener wordt gericht. Het   managementcomité beslist over het beroep binnen dertig dagen vanaf de ontvangst   van het advies. Het advies is bindend als het managementcomité niet binnen de   gestelde termijn beslist en het advies het beroep deels of volledig   inwilligt.<BR></P>
+<p>...</p>
 
 ### ART. 19.
 
@@ -123,11 +123,15 @@ Het hoofd van de bevoegde entiteit beslist over de verkoop, de teruggave,   de o
 
 <P>Het hoofd van de bevoegde entiteit kan de waarschuwing vermeld in artikel 64,   § 2, van het decreet van 28 juni 2013 richten aan de overtreder en hem aanmanen   een einde te maken aan de inbreuk.</P>
 
-## HOOFDSTUK 3 Invordering van ten onrechte uitbetaalde steun en exclusieve bestuurlijke geldboeten
+## HOOFDSTUK 3 Invordering van ten onrechte uitbetaalde steun en exclusieve bestuurlijke geldboeten, verplichte bijdragen en retributies en alle andere niet-fiscale invorderingen en heffingen
 
 ### ART. 23.
 
 Het hoofd van de bevoegde entiteit, viseert het dwangbevel, vermeld in   artikel 75, § 1 van het decreet van 28 juni 2013, en verklaart het   uitvoerbaar.<BR>
+
+### ART 23/1.
+
+Het hoofd van de bevoegde entiteit kan, ter uitvoering van artikel 77/2 van het decreet van 28 juni 2013 beslissen om de invordering van ten onrechte uitbetaalde steun en andere niet-fiscale invorderingen niet voort te zetten.
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
