@@ -16,7 +16,7 @@ In dit decreet wordt verstaan onder :<br>
 5° technisch reglement : het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen en de aanpassingen ervan;<br>
 6° uitzonderlijk vervoer : het vervoer dat plaatsvindt met een voertuig of een sleep waarvan de afmetingen, de eigen massa, de massa onder de assen of de massa in beladen toestand, door zijn constructie of zijn ondeelbare lading, de maxima overschrijden die zijn bepaald in het algemeen reglement op de politie van het wegverkeer en in het technisch reglement;<br>
 6/1° &nbsp;&nbsp; &nbsp;langere en zwaardere sleep: een voertuigcombinatie die bestaat uit een trekkend voertuig, een tussenvoertuig en een getrokken voertuig en die wordt gebruikt in het kader van een proefproject als vermeld in artikel 4, tweede lid;<br>
-7° Vlaams Infrastructuurfonds : het fonds, opgericht bij artikel 57, § 1, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+7° ...;<br>
 8° wegeninspecteur : personeelslid dat aangewezen is ter uitvoering van artikel 16;<br>
 9° wegeninspecteur-controleur : ambtenaar die aangewezen is ter uitvoering van artikel 17.
 
@@ -161,7 +161,25 @@ In het kader van een pilootproject als vermeld in artikel 13/1 kan de Vlaamse Re
 
 ### ART. 15.
 
-<P>Bij een veroordeling voor een inbreuk die gepleegd is op gewestwegen,   bestraft overeenkomstig artikel 14, § 1, 3°, en § 2, spreekt de rechter   bovendien de verplichting uit om een forfaitair bedrag te betalen als bijdrage   tot financiering van het Vlaams Infrastructuurfonds.<BR></P>  <P>Voor inbreuken, bestraft overeenkomstig artikel 14, § 1, 3°, wordt dat bedrag   vastgesteld op 100 euro.<BR></P>  <P>Voor inbreuken, bestraft overeenkomstig artikel 14, § 2, wordt dat bedrag   vastgesteld<BR>als volgt :<BR>1° 25 euro bij een overlading met minder dan 500   kg;<BR>2° 50 euro bij een overlading met 500 kg tot minder dan 1000 kg;<BR>3°   87,5 euro bij een overlading met 1000 kg tot minder dan 1500 kg;<BR>4° 125 euro   bij een overlading met 1500 kg tot minder dan 2000 kg;<BR>5° 175 euro bij een   overlading met 2000 kg tot minder dan 2500 kg;<BR>6° 250 euro bij een overlading   met 2500 kg tot minder dan 3000 kg;<BR>7° 375 euro bij een overlading met 3000   kg en meer.<BR></P>  <P>De bedragen, vermeld in het tweede en het derde lid, zijn onderworpen aan de   verhoging, vermeld in de bepalingen over de opdeciemen op de strafrechtelijke   geldboetes.<BR></P>  <P>De bijdragen, vermeld in het eerste lid, worden ingevorderd door de   administratie van de belasting over de toegevoegde waarde, registratie en   domeinen volgens de regels die van toepassing zijn op de invordering van de   strafrechtelijke geldboetes. De ingevorderde bedragen worden driemaandelijks   door die administratie overgemaakt aan het Vlaams Infrastructuurfonds.<BR></P>  <P>De onderneming is burgerrechtelijk aansprakelijk voor de betaling van de   solidariteitsbijdrage waartoe de personen voor wie ze overeenkomstig artikel   1384 van het Burgerlijk Wetboek aansprakelijk is, veroordeeld   worden.<BR></P>
+<p>Bij een veroordeling voor een inbreuk die gepleegd is op gewestwegen, bestraft overeenkomstig artikel 14, § 1, 3°, en § 2, spreekt de rechter bovendien de verplichting uit om een forfaitair bedrag te betalen aan het Vlaamse Gewest.</p>
+
+<p>Voor inbreuken, bestraft overeenkomstig artikel 14, § 1, 3°, wordt dat bedrag vastgesteld op 100 euro.</p>
+
+<p>Voor inbreuken, bestraft overeenkomstig artikel 14, § 2, wordt dat bedrag vastgesteld<br>
+als volgt :<br>
+1° 25 euro bij een overlading met minder dan 500 kg;<br>
+2° 50 euro bij een overlading met 500 kg tot minder dan 1000 kg;<br>
+3° 87,5 euro bij een overlading met 1000 kg tot minder dan 1500 kg;<br>
+4° 125 euro bij een overlading met 1500 kg tot minder dan 2000 kg;<br>
+5° 175 euro bij een overlading met 2000 kg tot minder dan 2500 kg;<br>
+6° 250 euro bij een overlading met 2500 kg tot minder dan 3000 kg;<br>
+7° 375 euro bij een overlading met 3000 kg en meer.</p>
+
+<p>De bedragen, vermeld in het tweede en het derde lid, zijn onderworpen aan de verhoging, vermeld in de bepalingen over de opdeciemen op de strafrechtelijke geldboetes.</p>
+
+<p>De bijdragen, vermeld in het eerste lid, worden ingevorderd door de administratie van de belasting over de toegevoegde waarde, registratie en domeinen volgens de regels die van toepassing zijn op de invordering van de strafrechtelijke geldboetes. De ingevorderde bedragen worden driemaandelijks door die administratie overgemaakt aan het Vlaamse Gewest.</p>
+
+<p>De onderneming is burgerrechtelijk aansprakelijk voor de betaling van de solidariteitsbijdrage waartoe de personen voor wie ze overeenkomstig artikel 1384 van het Burgerlijk Wetboek aansprakelijk is, veroordeeld worden.</p>
 
 ### ART. 16.
 
@@ -234,7 +252,7 @@ De procureur des Konings beschikt vervolgens over een vervaltermijn van zestig d
 
 <p>§ 6. De bevoegde personen, vermeld in paragraaf 3 en 4, kunnen de administratieve geldboete onmiddellijk innen als de overtreder daarmee instemt.</p>
 
-<p>De onmiddellijke inning doet de strafvordering vervallen. De sommen komen ten bate van het Vlaams Infrastructuurfonds.</p>
+<p>De onmiddellijke inning doet de strafvordering vervallen. De sommen komen ten bate van het Vlaamse Gewest.</p>
 
 <p>Als de overtreder en de onderneming geen woonplaats of vaste verblijfplaats in België hebben en niet instemmen met een onmiddellijke inning van de administratieve geldboete, wordt de administratieve geldboete door de bevoegde personen, vermeld in de paragrafen 3 en 4, verplicht geïnd en in consignatie gegeven.</p>
 
@@ -264,13 +282,13 @@ De procureur des Konings beschikt vervolgens over een vervaltermijn van zestig d
 
 <p>Als de wegeninspecteur-controleur zijn beslissing niet tijdig meedeelt aan de overtreder, vervalt de mogelijkheid om een administratieve geldboete op te leggen.</p>
 
-<p>Als de administratieve geldboete niet in consignatie werd gegeven, moet ze voor het verstrijken van de termijn, vermeld in paragraaf 2, eerste lid, betaald worden. Als de administratieve geldboete in consignatie werd gegeven, wordt ze na het verstrijken van de termijn, vermeld in paragraaf 2, eerste lid, vrijgegeven ten bate van het Vlaams Infrastructuurfonds.</p>
+<p>Als de administratieve geldboete niet in consignatie werd gegeven, moet ze voor het verstrijken van de termijn, vermeld in paragraaf 2, eerste lid, betaald worden. Als de administratieve geldboete in consignatie werd gegeven, wordt ze na het verstrijken van de termijn, vermeld in paragraaf 2, eerste lid, vrijgegeven ten bate van het Vlaamse Gewest.</p>
 
 <p>Als de strafvordering vervallen is of als de wegeninspecteur-controleur zijn beslissing niet tijdig verstuurt, vervalt de mogelijkheid om een administratieve geldboete op te leggen en wordt de geconsigneerde administratieve geldboete, in voorkomend geval, teruggestort.</p>
 
 <p>§ 2. Tegen de beslissing, vermeld in paragraaf 1, eerste lid, kan onder de voorwaarden en binnen de vervaltermijn, bepaald door de Vlaamse Regering, bezwaar worden aangetekend bij de wegeninspecteur-controleur. Het bezwaar schorst de bestreden beslissing.</p>
 
-<p>Als geen tijdig of ontvankelijk bezwaar werd aangetekend, wordt de administratieve geldboete geacht definitief en onherroepelijk te zijn opgelegd of te zijn vrijgegeven ten bate van het Vlaams Infrastructuurfonds.</p>
+<p>Als geen tijdig of ontvankelijk bezwaar werd aangetekend, wordt de administratieve geldboete geacht definitief en onherroepelijk te zijn opgelegd of te zijn vrijgegeven ten bate van het Vlaamse Gewest.</p>
 
 <p>De wegeninspecteur-controleur brengt de overtreder en, in voorkomend geval, de onderneming ervan op de hoogte als het bezwaarschrift onontvankelijk is, binnen een termijn bepaald door de Vlaamse Regering. De overtreder of, in voorkomend geval, de onderneming kan onder de voorwaarden en binnen de termijn, bepaald door de Vlaamse Regering, vragen om gehoord te worden over de ontvankelijkheid van het bezwaar.</p>
 
@@ -280,11 +298,11 @@ De procureur des Konings beschikt vervolgens over een vervaltermijn van zestig d
 
 <p>De beslissing van de wegeninspecteur-controleur moet binnen dertig dagen na de hoorzitting ter kennis worden gebracht van de overtreder en, in voorkomend geval, van de onderneming. Zo niet vervalt de administratieve geldboete stilzwijgend en wordt de geconsigneerde administratieve geldboete, in voorkomend geval, teruggestort.</p>
 
-<p>Als de administratieve geldboete niet in consignatie werd gegeven, moet ze voor het verstrijken van de termijn, vermeld in paragraaf 3, eerste lid, betaald worden. Als de administratieve geldboete in consignatie werd gegeven, wordt ze na het verstrijken van de termijn, vermeld in paragraaf 3, eerste lid, vrijgegeven ten bate van het Vlaams Infrastructuurfonds, ten bedrage van de administratieve geldboete die opgelegd is na het bezwaar. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het bezwaar, wordt teruggestort.</p>
+<p>Als de administratieve geldboete niet in consignatie werd gegeven, moet ze voor het verstrijken van de termijn, vermeld in paragraaf 3, eerste lid, betaald worden. Als de administratieve geldboete in consignatie werd gegeven, wordt ze na het verstrijken van de termijn, vermeld in paragraaf 3, eerste lid, vrijgegeven ten bate van het Vlaamse Gewest, ten bedrage van de administratieve geldboete die opgelegd is na het bezwaar. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het bezwaar, wordt teruggestort.</p>
 
 <p>§ 3. Tegen de beslissing, vermeld in paragraaf 2, zesde lid, kan onder de voorwaarden en binnen de vervaltermijn, bepaald door de Vlaamse Regering, beroep worden aangetekend bij de Vlaamse Regering. Het beroep schorst de bestreden beslissing.</p>
 
-<p>Als geen tijdig en ontvankelijk beroep werd aangetekend, wordt de administratieve geldboete geacht definitief en onherroepelijk te zijn opgelegd of te zijn vrijgegeven ten bate van het Vlaams Infrastructuurfonds, ten bedrage van de administratieve geldboete die opgelegd is na het bezwaar. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het bezwaar, wordt teruggestort.</p>
+<p>Als geen tijdig en ontvankelijk beroep werd aangetekend, wordt de administratieve geldboete geacht definitief en onherroepelijk te zijn opgelegd of te zijn vrijgegeven ten bate van het Vlaamse Gewest, ten bedrage van de administratieve geldboete die opgelegd is na het bezwaar. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het bezwaar, wordt teruggestort.</p>
 
 <p>De Vlaamse Regering of de ambtenaar die aangewezen is overeenkomstig paragraaf 4, brengt de overtreder en, in voorkomend geval, de onderneming ervan op de hoogte als het beroepschrift onontvankelijk is, binnen een termijn die de Vlaamse Regering heeft bepaald. De overtreder of, in voorkomend geval, de onderneming kan onder de voorwaarden en binnen de termijn, bepaald door de Vlaamse Regering, vragen om gehoord te worden over de ontvankelijkheid van het beroep.</p>
 
@@ -296,7 +314,7 @@ De procureur des Konings beschikt vervolgens over een vervaltermijn van zestig d
 
 <p>Als de administratieve geldboete niet in consignatie werd gegeven, moet ze betaald worden binnen een termijn, bepaald door de Vlaamse Regering.</p>
 
-<p>Als de administratieve geldboete in consignatie werd gegeven, wordt ze vrijgegeven ten bate van het Vlaams Infrastructuurfonds, ten bedrage van de administratieve geldboete die opgelegd is na het beroep. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het beroep, wordt teruggestort.</p>
+<p>Als de administratieve geldboete in consignatie werd gegeven, wordt ze vrijgegeven ten bate van het Vlaamse Gewest, ten bedrage van de administratieve geldboete die opgelegd is na het beroep. Het verschil tussen de geconsigneerde administratieve geldboete en het bedrag dat opgelegd is na het beroep, wordt teruggestort.</p>
 
 <p>§ 4. De Vlaamse Regering kan een of meer ambtenaren aanwijzen die de overtreder en de onderneming op de hoogte brengen van de eventuele onontvankelijkheid van het beroep, die de overtreder, de onderneming of de raadsman zullen horen en het beroep zullen uitspreken. Deze ambtenaren mogen niet betrokken geweest zijn bij eerdere stappen van de procedure.</p>
 
