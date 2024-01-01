@@ -85,81 +85,77 @@ Het personeelslid dat aangesteld is in een selectie- of bevorderingsambt van het
 
 ### ART 8.
 
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De personeelsomkadering waar een centrum voor leerlingenbegeleiding conform artikel 41 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding recht op heeft, wordt als volgt aangewend voor het inrichten van betrekkingen in een ambt als vermeld in artikel 2 tot en met 4 van dit besluit:</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° voor een voltijdse betrekking</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+De personeelsomkadering waar een centrum voor leerlingenbegeleiding conform artikel 41 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding recht op heeft, wordt als volgt aangewend voor het inrichten van betrekkingen in een ambt als vermeld in artikel 2 tot en met 4 van dit besluit:<br>
+1° voor een voltijdse betrekking
+<table cellspacing="0" style="border-collapse:collapse; width:596px">
 	<tbody>
 		<tr>
-			<td>ambt</td>
-			<td>omkaderingsgewicht</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:410px">ambt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:186px">omkaderingsgewicht</td>
 		</tr>
 		<tr>
-			<td>Directeur</td>
-			<td>1,6</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">directeur met salarisschaal 525 of 599</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,6</td>
 		</tr>
 		<tr>
-			<td>Arts</td>
-			<td>1,6</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">directeur met salarisschaal 464</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,4</td>
 		</tr>
 		<tr>
-			<td>coördinator met salarisschaal 511</td>
-			<td>1,6</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">arts</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,6</td>
 		</tr>
 		<tr>
-			<td>coördinator met salarisschaal 540</td>
-			<td>1,4</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">coördinator met salarisschaal 540</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,4</td>
 		</tr>
 		<tr>
-			<td>coördinator met salarisschaal 413</td>
-			<td>1,1</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">coördinator met salarisschaal 413</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,1</td>
 		</tr>
 		<tr>
-			<td>coördinator met salarisschaal 202 + 268</td>
-			<td>0,9</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">consulent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,3</td>
 		</tr>
 		<tr>
-			<td>Consulent</td>
-			<td>1,3</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">psycho-pedagogisch consulent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,3</td>
 		</tr>
 		<tr>
-			<td>psycho-pedagogisch consulent</td>
-			<td>1,3</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 200 of 202</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">0,7</td>
 		</tr>
 		<tr>
-			<td>administratief medewerker met salarisschaal 200 of 202</td>
-			<td>0,7</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 333</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1</td>
 		</tr>
 		<tr>
-			<td>administratief medewerker met salarisschaal 333</td>
-			<td>1</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">administratief medewerker met salarisschaal 542</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1,2</td>
 		</tr>
 		<tr>
-			<td>administratief medewerker met salarisschaal 542</td>
-			<td>1,2</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">maatschappelijk werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1</td>
 		</tr>
 		<tr>
-			<td>maatschappelijk werker</td>
-			<td>1</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">paramedisch werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1</td>
 		</tr>
 		<tr>
-			<td>paramedisch werker</td>
-			<td>1</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">psycho-pedagogisch werker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">1</td>
 		</tr>
 		<tr>
-			<td>psycho-pedagogisch werker</td>
-			<td>1</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">ervaringsdeskundige</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">0,5</td>
 		</tr>
 		<tr>
-			<td>Ervaringsdeskundige</td>
-			<td>0,5</td>
-		</tr>
-		<tr>
-			<td>intercultureel bemiddelaar</td>
-			<td>0,7</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:410px">intercultureel bemiddelaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:186px">0,7</td>
 		</tr>
 	</tbody>
 </table>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° voor een deeltijdse betrekking wordt het omkaderingsgewicht berekend door het omkaderingsgewicht van een voltijds ambt, vermeld in punt 1°, te delen door 36 en dat resultaat vervolgens te vermenigvuldigen met het aantal klokuren van de deeltijdse betrekking. Het resultaat van die berekening wordt afgerond tot op twee decimalen.</span></span></span>
+2°&nbsp;voor een deeltijdse betrekking wordt het omkaderingsgewicht berekend door het omkaderingsgewicht van een voltijds ambt, vermeld in punt 1°, te delen door 36 en dat resultaat vervolgens te vermenigvuldigen met het aantal klokuren van de deeltijdse betrekking. Het resultaat van die berekening wordt afgerond tot op twee decimalen.
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
