@@ -106,6 +106,25 @@ De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de toeken
 <br>
 Toerisme Vlaanderen is bevoegd de erkenning toe te kennen, te weigeren, in te trekken en te schorsen.
 
+### ART 11.
+
+Sociaal-toeristische organisaties die erkend zijn conform artikel 10, kunnen worden gesubsidieerd als ze minstens de volgende opdrachten uitvoeren:<br>
+1° personen met de vakantiedrempel armoede informeren en sensibiliseren en hen toeleiden naar vakantie;<br>
+2° jaarlijks minstens twee vakanties van elk minimaal vier overnachtingen organiseren voor in totaal minstens honderd verschillende deelnemers met een vakantiedrempel uit het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad. Die vakanties worden georganiseerd met een doelgroepspecifieke benadering van de vakantiedrempel armoede of met een inclusieve benadering van de vakantiedrempel armoede. De Vlaamse Regering bepaalt onder welke voorwaarden een sociaal-toeristische organisatie voldoet aan de voormelde voorwaarde over de organisatie van vakanties met een doelgroepspecifieke of inclusieve benadering van de vakantiedrempel armoede;<br>
+3° één vierde nieuwe deelnemers met de vakantiedrempel armoede bereiken op het einde van een beleidsperiode van drie jaar;<br>
+4° werken aan de opbouw van competenties van de vakantiegangers met de vakantiedrempel armoede om zelfstandig reizen op termijn mogelijk te maken;<br>
+5° vorming over de vakantiedrempel armoede organiseren voor de medewerkers en vrijwilligers.<br>
+<br>
+Sociaal-toeristische organisaties dienen bij Toerisme Vlaanderen een driejaarlijks beleidsplan in dat informatie bevat over de wijze waarop de sociaal-toeristische organisatie de opdrachten, vermeld in het eerste lid, 1° tot en met 5°, realiseert.<br>
+<br>
+De subsidie, die de vorm heeft van een enveloppefinanciering, wordt toegekend overeenkomstig het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen. De subsidie wordt toegekend voor een beleidsperiode van drie jaar. De subsidie wordt toegekend als compensatie voor de verplichtingen die voortvloeien uit de opdrachten, vermeld in het eerste lid, 1° tot en met 4°.<br>
+<br>
+Jaarlijks bezorgt de sociaal-toeristische organisatie aan Toerisme Vlaanderen een financieel verslag en een werkingsverslag over de uitvoering van het beleidsplan gedurende het voorbije werkingsjaar.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de toekenning en uitkering van de subsidies voor sociaal-toeristische organisaties, vermeld in dit artikel.<br>
+<br>
+De Vlaamse Regering stelt de regels vast voor de ex-ante- en ex-postcontrole op de aanwending van de subsidies voor sociaal-toeristische organisaties, vermeld in dit artikel. Ze kan daarbij ook regels bepalen om belangenvermenging tegen te gaan bij de aanwending of toekenning van die subsidies.
+
 ## HOOFDSTUK V. Erkenning [en subsidiëring (ing. decr. 1 juli 2022, art. 12, I: 1 januari 2023)] van bemiddelingskantoren voor sociaal toerisme
 
 ### ART 12.
@@ -170,6 +189,18 @@ De minister doet uitspraak binnen een termijn van negentig dagen na de ontvangst
 De erkende en/of gesubsidieerde sociaal-toeristische organisaties en bemiddelingskantoren voor sociaal toerisme, en de netwerkpartners die projectsubsidies ontvangen, zijn ertoe gehouden om op eenvoudig verzoek alle nodige informatie te verstrekken aan Toerisme Vlaanderen. De aanvrager van de erkenning en/of subsidie, of van de projectsubsidie stemt ermee in dat Toerisme Vlaanderen de bevoegde ambtenaren ter plaatse het nuttige of nodige onderzoek laat verrichten.
 
 ## HOOFDSTUK IX. Slotbepalingen
+
+### ART 16.
+
+Het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van `Toerisme voor Allen' wordt opgeheven, met uitzondering van artikel 1 tot en met 8, artikel 13 tot en met 16, en artikel 18, die van toepassing blijven op de verblijven die bij de inwerkingtreding van dit decreet beschikken over een erkenning als sociaal-toeristisch verblijf, categorie jeugdverblijfscentrum, en op de verblijven die na de inwerkingtreding van dit decreet als sociaal-toeristisch verblijf erkend worden op grond van hetzelfde decreet van 18 juli 2003.
+
+### ART 17.
+
+Voor de verblijven die in toepassing van artikel 8, § 1, van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van `Toerisme voor Allen' een subsidie voor infrastructuur ontvangen hebben, blijft artikel 8, § 2, van hetzelfde decreet onverkort van toepassing.
+
+### ART 18.
+
+De Vlaamse Regering voorziet in een overgangsregeling voor de eerstvolgende beleidsperiode van drie jaar voor die sociaal-toeristische organisaties die op basis van artikel 9 van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van `Toerisme voor Allen' erkend zijn en die op het moment van de inwerkingtreding van dit decreet niet voldoen aan de subsidievoorwaarden, vermeld in artikel 11.
 
 ### ART 19.
 
