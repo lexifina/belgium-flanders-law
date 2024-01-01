@@ -2,16 +2,16 @@
   "codex_id": 1029807,
   "title": "Besluit van de Vlaamse Regering van 2018-09-07 betreffende het jeugd- en kinderrechtenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029807/VolledigDocument?datum=2018-10-21",
-  "source_sha256": "2f84410ce216ca2037bd9f26c5706c551bfc399873f15463eaf6fba355b263aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029807/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "26510e688585694573defe7673d9ba3f766ce17350a28c47ad9378b1e5bff3a5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029807&param=informatie",
-  "as_of": "2018-10-21",
+  "as_of": "2024-01-01",
   "made": "2018-09-07",
   "gazette": "2018-10-11",
   "numac": 2018040690,
   "document_start": "2018-10-21",
   "document_end": "2023-12-31",
-  "in_force": "2018-10-21",
+  "in_force": "2024-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2018-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
