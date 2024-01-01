@@ -99,10 +99,11 @@ a) een masterdiploma of een diploma van universitair onderwijs Geneeskunde;<br>
 b) een bachelordiploma of een diploma hoger onderwijs van één cyclus Verpleegkunde, of een diploma van gegradueerde in de verpleegkunde of een diploma van het derde jaar van de vierde graad van de studierichting Verpleegkunde, of een bachelordiploma of een diploma hoger onderwijs van één cyclus Vroedkunde, of een diploma van gegradueerde in de vroedkunde;<br>
 c) een geldig brevet Hulpverlener-Ambulancier. De hulpverlener-ambulancier is bovendien drager van een onderscheidingsteken, uitgereikt door de FOD Volksgezondheid, en heeft drie jaar ervaring in het kader van de dringende geneeskundige hulpverlening;<br>
 d) een opleidingstitel die ten opzichte van de opleidingstitel, vermeld in punt a) en b), als gelijkwaardig erkend is als vermeld in de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
+e) een attest van lesgever eerstehulpverlening, uitgereikt door een vormingsinstituut, gespecialiseerd in het thema eerstehulpverlening. De lesgever werkt bovendien als beroepslesgever voor deze uitreikende organisatie, die verantwoordelijk is voor de kwaliteit van de lessen en de bijscholing van de lesgever;<br>
 2° theoretische en praktische kennis van levensreddend handelen bij kinderen heeft volgens de actueel geldende richtlijnen van de Europese Reanimatieraad;<br>
 3° ervaring in het aanleren van levensreddend handelen heeft volgens de actueel geldende richtlijnen van de Europese Reanimatieraad.<br>
 <br>
-De instanties die een attest als vermeld in het tweede lid, kunnen uitreiken, zijn de instanties opgenomen in punt 2 van bijlage 2, die bij dit besluit is gevoegd.<br>
+De instanties die een attest als vermeld in het tweede lid, kunnen uitreiken, kunnen gepubliceerd worden op de website van het agentschap.<br>
 &nbsp;
 
 ## Onderafdeling 4 [... (opgeh. MB 16 november 2023, art. 6, I: 1 juli 2024)]
@@ -141,8 +142,7 @@ Er zijn verschillende mogelijke opleidingstitels naargelang het gaat om een vera
 
 ### ART 8.
 
-Het bewijs van een kwalificerend traject, vermeld in artikel 43, § 2, eerste lid, 4°, b), van het Vergunningsbesluit van 22 november 2013, is een inschrijvingsbewijs van maximaal drie jaar oud voor een opleiding die leidt tot het behalen van een opleidingstitel als vermeld in punt 3 van bijlage 3, die bij dit besluit is gevoegd.<br>
-&nbsp;
+Het bewijs van actieve deelname aan een kwalificerend traject, vermeld in artikel 43, §2, eerste lid, 4°, b), van het Vergunningsbesluit van 22 november 2013, is een bewijs van een opleiding of van een beroepskwalificerend EVC-traject met het oog op het behalen van een opleidingstitel als vermeld in punt 3 van bijlage 3, die bij dit besluit is gevoegd.
 
 ## Afdeling 3 [... (opgeh. MB 21 mei 2019, art. 4, I: 28 september 2019)]
 
@@ -211,19 +211,9 @@ De attesten A en B van medische geschiktheid, vermeld in artikel 40, § 2, eerst
 
 ### ART 20/1.
 
-De norm voor pedagogische kwaliteit, vermeld in artikel 31, § 3, van het Vergunningsbesluit van 22 november 2013, bestaat uit een score op al de volgende dimensies van pedagogische kwaliteit:<br>
-1° het welbevinden van het kind;<br>
-2° de betrokkenheid van het kind;<br>
-3° de emotionele ondersteuning van het kind door de kinderbegeleider;<br>
-4° de educatieve ondersteuning van het kind door de kinderbegeleider;<br>
-5° de omgeving;<br>
-6° gezinnen en diversiteit.<br>
+De pedagogische norm, vermeld in artikel 31, §2, van het Vergunningsbesluit van 22 november 2013, bestaat uit een score op al de dimensies die overeenkomen met de elementen, vermeld in artikel 31, §1, eerste lid, van het voormelde besluit.<br>
 <br>
-Onder de dimensie omgeving, vermeld in het eerste lid, 5°, wordt verstaan: een toegankelijke en stimulerende indeling van de opvangruimtes voor de kinderen met een gevarieerd aanbod aan materialen en activiteiten en een doeltreffende organisatie van tijd en personeel voor de kinderen zoals regelmaat in de dagindeling en continuïteit in de begeleiding.<br>
-<br>
-Onder de dimensie gezinnen en diversiteit, vermeld in het eerste lid, 6°, wordt verstaan: het samenwerken en communiceren met gezinnen, inspraak geven aan en ondersteunen van gezinnen met respect voor de eigenheid van elk gezin.<br>
-<br>
-De organisator krijgt voor elke dimensie een score 1, 2, 3 of 4 op basis van de volgende schaal:<br>
+De scores kunnen de volgende zijn:<br>
 1° een score 1 staat voor onvoldoende;<br>
 2° een score 2 staat voor nipt voldoende;<br>
 3° een score 3 staat voor goed;<br>
@@ -248,7 +238,7 @@ Het ministerieel besluit van 27 februari 2014 ter uitvoering van artikel 8, 11, 
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=94">http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=94</a>
+...
 
 ## BIJLAGE 3
 
@@ -310,7 +300,12 @@ b)&nbsp;&nbsp; &nbsp;een attest dat bevestigt dat voor minstens 120 studiepunten
 1)&nbsp;&nbsp; &nbsp;Pedagogie van het Jonge Kind, Kleuteronderwijs, Lager Onderwijs, Secundair Onderwijs, Gezinswetenschappen, Maatschappelijke Veiligheid, Orthopedagogie, Sociaal Werk, Sociale Readaptatiewetenschappen, Toegepaste Psychologie, Verpleegkunde, Vroedkunde van het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
 2)&nbsp;&nbsp; &nbsp;Ergotherapie, Revalidatiewetenschappen en Kinesitherapie of Audiologie en Logopedie;”;<br>
 2° punt 2.1 wordt vervangen door wat volgt:<br>
-“2.1 een kwalificatiebewijs, als vermeld in punt 1.7, a).” (Zie MB 18 november 2022, B.S. 19 januari 2023, art. 1, I: 1 april 2022)..<br>
+“2.1 een kwalificatiebewijs, als vermeld in punt 1.7, a).” (Zie MB 18 november 2022, B.S. 19 januari 2023, art. 1, I: 1 april 2022).<br>
+<br>
+*Met ingang van 1 januari 2024 wordt er een punt 1.4/1 ingevoegd dat luidt als volgt:<br>
+“1.4/1 van het secundair onderwijs met dubbele finaliteit: een diploma van het tweede jaar van de derde graad van de richting Opvoeding en Begeleiding, onderwijskwalificatie 4.”.<br>
+(Zie MB 4 december 2023, art. 11, I: 1 januari 2024)<br>
+<br>
 &nbsp;
 
 ## BIJLAGE 4
