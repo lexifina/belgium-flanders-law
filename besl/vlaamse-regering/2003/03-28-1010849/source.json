@@ -2,16 +2,16 @@
   "codex_id": 1010849,
   "title": "Besluit van de Vlaamse Regering van 2003-03-28 tot oprichting van een Vlaams betaalorgaan voor [het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Landbouwgarantiefonds]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010849/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "321303bf775341c67efa707cf3d7a37f658e31f2090eb825c2be570e2f6d1922",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010849/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "7c8d6588ba101c518493f567ff17293bd6bd9ddd0d5ad31770453d815e6853cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010849&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "2003-03-28",
   "gazette": "2003-04-24",
   "numac": 2003035385,
   "document_start": "2003-04-01",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

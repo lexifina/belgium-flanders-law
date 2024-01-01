@@ -9,7 +9,7 @@ Met dit besluit wordt gedeeltelijk uitvoering gegeven aan:<br>
 ### ART. 1/0.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° de minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 3° ELFPO: het Europees Landbouwfonds voor plattelandsontwikkeling, vermeld in artikel 4 van verordening (EU) 2021/2116;<br>
 4° ELGF: het Europees Landbouwgarantiefonds, vermeld in artikel 4 van verordening (EU) 2021/2116;<br>
@@ -73,6 +73,10 @@ Het Vlaams betaalorgaan is verantwoordelijk voor de wettelijk verplichte   rappo
 ### ART. 5/1.
 
 Voor de door de Europese Unie gefinancierde uitgaven van het Vlaams   betaalorgaan uit hoofde van het ELGF en het ELFPO, worden de hierop betrekking   hebbende rekeningen gecertificeerd door een onafhankelijke instantie die   daarvoor over de technische bekwaamheden beschikt en te werk gaat volgens   internationaal aanvaarde normen voor accountantsonderzoek.
+
+### ART 5/2.
+
+Het Vlaams betaalorgaan kan conform artikel 77/2 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid en artikel 30, lid 4, van uitvoeringsverordening (EU) nr. 2022/128 van de Commissie van 21 december 2021 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) 2021/2116 van het Europees Parlement en de Raad wat betreft betaalorganen en andere instanties, financieel beheer, goedkeuring van de rekeningen, controles, zekerheden en transparantie, beslissen om de invordering van ten onrechte uitbetaalde steun en andere niet-fiscale invorderingen niet voort te zetten.
 
 ### ART. 6.
 
