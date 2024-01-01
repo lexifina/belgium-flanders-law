@@ -32,7 +32,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 17° Huisartsenkring Alden Biesen : Bilzen, Hoeselt, Riemst;<br>
 18° Huisartsenkring Antwerpen Oost : Antwerpen (2100, 2140), Borsbeek, Wommelgem;<br>
 19° Huisartsenkring Antwerpen Zuid : Antwerpen (2020, 2050, 2610, 2660);<br>
-20° Huisartsenkring Brasschaat : Brasschaat;<br>
+20° ...;<br>
 21° Huisartsenkring Bree - Oudsbergen : Bree, Oudsbergen;<br>
 22° ...;<br>
 23° Huisartsenkring Diest : Diest;<br>
@@ -44,14 +44,14 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 29° Huisartsenkring Huisartsen Noordrand : Grimbergen, Kampenhout,&nbsp;Kapelle-op-den-Bos, Londerzeel, Machelen, Meise, Steenokkerzeel, Vilvoorde, Wemmel, Zemst;<br>
 30° ...;<br>
 31° Huisartsenkring Izegem - Ingelmunster - Lendelede : Ingelmunster, Izegem, Lendelede;<br>
-32° Huisartsenkring Kalmthout : Kalmthout;<br>
+32° ...;<br>
 33° ...;<br>
 34° Huisartsenkring Kinema : Kinrooi, Maaseik;<br>
 35° Huisartsenkring Lanaken : Lanaken;<br>
 36° Huisartsenkring Maasmechelen : Maasmechelen;<br>
-37° Huisartsenkring Merelbeke : Merelbeke;<br>
+37° ...;<br>
 38° Huisartsenkring Middenkust : Bredene, Oostende;<br>
-39° Huisartsenkring Moerland : Kapellen;<br>
+39° ...;<br>
 40° Huisartsenkring Noord Antwerpen : Antwerpen (2030, 2040, 2170, 2180), Schoten, Stabroek;<br>
 41° ...;<br>
 42° Huisartsenkring Pajottenland : Bever, Dilbeek, Galmaarden, Gooik, Herne, Lennik, Roosdaal, Ternat;<br>
@@ -63,7 +63,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 48° Huisartsenkring Dionysius: Borgloon, Gingelom, Heers, Kortessem, Nieuwerkerken, Sint-Truiden, Wellen;<br>
 49° ...;<br>
 50° Huisartsenkring Tervuren : Tervuren;<br>
-51° Huisartsenkring van Brugge en Omgeving : Blankenberge, Brugge, Damme, De Haan, Jabbeke, Knokke-Heist, Oostkamp,&nbsp;Zedelgem, Zuienkerke;<br>
+51° Huisartsenkring van Brugge en Omgeving: Beernem, Blankenberge, Brugge, Damme, De Haan, Jabbeke, Knokke-Heist, Oostkamp,&nbsp;Zedelgem, Zuienkerke;<br>
 52° ...;<br>
 53° ...;<br>
 54° Huisartsenkring West-midWest : Beringen, Halen, Ham, Heusden-Zolder, Houthalen-Helchteren, Leopoldsburg, Lummen, Tessenderlo;<br>
@@ -72,11 +72,11 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 57° Huisartsenkring Zuid-West-Vlaanderen : Anzegem, Avelgem, Deerlijk, Harelbeke, Kortrijk, Kuurne, Menen, Spiere-Helkijn, Waregem, Wervik,&nbsp;Wevelgem, Wielsbeke, Zwevegem;<br>
 58° Huisartsenvereniging Minerva: Antwerpen (2000, 2018, 2060, 2600);<br>
 59° Huisartsenkring vereniging zonder winstoogmerk Huisartsen Zuid-Oost Hageland : Boutersem, Geetbets, Glabbeek, Hoegaarden, Kortenaken, Landen, Linter, Tienen, Zoutleeuw;<br>
-60° Huisartsenvereniging Brecht-Wuustwezel : Brecht, Wuustwezel;<br>
+60° Huisartsenkring Noordrand Antwerpen : Brasschaat, Brecht, Essen, Kalmthout, Kapellen, Wuustwezel;<br>
 61° Huisartsenvereniging der Durmestreek : Lokeren, Moerbeke;<br>
-62° Huisartsenvereniging Essen-Nieuwmoer : Essen;<br>
+62° ...;<br>
 63° Huisartsenvereniging Gent : Destelbergen, Gent (9000, 9030, 9031, 9032, 9040, 9041, 9042, 9050, 9051, 9052), Melle;<br>
-64° Huisartsenvereniging Groot-Lochristi : Lochristi;<br>
+64° Huisartsenkring Scheldekracht : Laarne, Lochristi, Merelbeke, Wetteren, Wichelen;<br>
 65° Huisartsenvereniging Hagewacht : Aarschot, Begijnendijk, Bekkevoort, Scherpenheuvel-Zichem, Tielt-Winge;<br>
 66° Huisartsenvereniging Malle Zoersel : Malle, Zandhoven, Zoersel;<br>
 67° Huisartsenvereniging Regio Turnhout : Arendonk, Baarle-Hertog, Beerse, Dessel, Hoogstraten, Kasterlee, Lille, Merksplas, Oud-Turnhout, Ravels, Retie, Rijkevorsel, Turnhout, Vosselaar;<br>
@@ -88,10 +88,10 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 73° ...;<br>
 74° Oudenaardse Vereniging van Omnipractici : Gavere, Kluisbergen, Kruisem, Oudenaarde, Wortegem-Petegem, Zwalm;<br>
 75° Prometheus : As, Genk, Zutendaal;<br>
-75° /1 Verenigde Meetjeslandse Huisartsenkring: Aalter, Assenede, Beernem, Eeklo, Evergem, Kaprijke, Lievegem, Maldegem, Sint-Laureins, Wachtebeke, Zelzate;<br>
+75° /1 Verenigde Meetjeslandse Huisartsenkring: Aalter, Assenede, Eeklo, Evergem, Kaprijke, Lievegem, Maldegem, Sint-Laureins, Wachtebeke, Zelzate;<br>
 76° Vereniging Huisartsen van de Medische Eenheidskring Dendermonde : Berlare, Buggenhout, Dendermonde, Hamme, Lebbeke, Zele;<br>
-77° Vereniging Huisartsenkringen Zuiderkempen : Balen, Geel, Grobbendonk, Herentals, Herenthout, Herselt, Hulshout, Laakdal, Meerhout, Mol, Olen, Vorselaar, Westerlo;<br>
-78° Vesalius Huisartsenkring Wetteren-Wichelen-Laarne : Laarne, Wetteren, Wichelen;<br>
+77° Huisartsenvereniging in de Kempen : Balen, Geel, Grobbendonk, Herentals, Herenthout, Herselt, Hulshout, Laakdal, Meerhout, Mol, Olen, Vorselaar, Westerlo;<br>
+78° ...;<br>
 79° Zaventemse Huisartsenorganisatie : Zaventem.
 
 ### ART 2.
