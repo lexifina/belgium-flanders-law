@@ -44,11 +44,11 @@ De land- of tuinbouwer of de voorziening die een zorgboerderijovereenkomst   voo
 
 ### ART. 8.
 
-De bevoegde entiteit bepaalt het bruto bedrijfsresultaat van het land- of   tuinbouwbedrijf van de land- of tuinbouwer, vermeld in artikel 5, eerste lid,   2°, van het besluit van de Vlaamse Regering van 20 december 2013, op een van de   volgende wijzen :<BR>1° op basis van de beschikbare gegevens bij de bevoegde   entiteit;<BR>2° met controleerbare boekhoudkundige gegevens van het laatste   boekjaar aangeleverd door de land- of tuinbouwer. De land- of tuinbouwer   verstrekt op vraag van de bevoegde entiteit alle boekhoudkundige gegevens die   noodzakelijk zijn voor het onderzoek.<BR>
+...
 
 ### ART. 9.
 
-De bevoegde entiteit&nbsp;onderzoekt de inkomensvoorwaarden, vermeld in artikel 5, eerste lid, 3°, van het besluit van de Vlaamse Regering van 20 december 2013, op basis van het meest recente aanslagbiljet van de belastingen. De bevoegde entiteit kan vragen dat de land- of tuinbouwer het aanslagbiljet van de belastingen jaarlijks indient via het e-loket, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt van de bevoegde overheid.
+...
 
 ### ART. 10.
 
