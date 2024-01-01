@@ -24,6 +24,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel 17, tweede lid, 1°, van het Subsidiebesluit van 22 november 2013, gewijzigd bij het besluit van de Vlaamse Regering van 3 september 2021, wordt het bedrag “24,06 euro” vervangen door het bedrag “26,88 euro (prijsniveau op 1 april 2022)”.
 
+### ART 2.
+
+In artikel 17, tweede lid, 1°, van hetzelfde besluit, gewijzigd bij dit besluit, wordt het bedrag “26,88 euro” vervangen door het bedrag “26,30 euro”.
+
 ### ART 3.
 
 Artikel 1 heeft uitwerking met ingang van 1 januari 2023.<br>

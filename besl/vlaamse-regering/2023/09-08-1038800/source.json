@@ -2,16 +2,16 @@
   "codex_id": 1038800,
   "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van artikel 17 van het Subsidiebesluit van 22 november 2013",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038800/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "4827ed5cc7dc681a5fd0dcced13f5b8d5fecb1f74f0183265d4e5fc0d443a1c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038800/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "248ee4cbd1abae56e0655519e4c5a23d66f43533f39a4e408e2e16d34d13a4d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038800&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-01-01",
   "made": "2023-09-08",
   "gazette": "2023-10-13",
   "numac": 2023045614,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
