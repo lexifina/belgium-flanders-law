@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039872,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van de functieclassificatie voor rechtenjaren 2024 en 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039872/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "6cfa9f755e3c4c7b77a40ac3a61c73fcd26184e264903c93b0df51b7d78fd384",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039872&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-05-03",
+  "gazette": "2024-07-19",
+  "numac": 2024006514,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
