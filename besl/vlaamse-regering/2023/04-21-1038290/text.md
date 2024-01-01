@@ -39,7 +39,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:&nbsp;<br>
 In dit besluit wordt verstaan onder:<br>
 1° betalingsaanvraag: een aanvraag tot uitbetaling van de subsidie;<br>
 2° besluit van 21 april 2023: besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
-3° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, §1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° landbouwer: de actieve landbouwer, vermeld in artikel 4 van het besluit van 21 april 2023;<br>
 5° boslandbouwperceel: een perceel waarop een boslandbouwsysteem wordt toegepast;<br>
 6° boslandbouwsysteem: een systeem voor grondgebruik waarbij de teelt van bomen wordt gecombineerd met landbouw op dezelfde grond, en dat wordt toegepast op een perceel landbouwgrond als vermeld in artikel 2, 12°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwer, exploitatie en landbouwgrond in het kader van het meststoffenbeleid en het landbouwbeleid en waarvan de aanmelding via de verzamelaanvraag gebeurde en het planten van de bomen gebeurde na de inwerkingtreding van artikel 12 van het decreet van 20 april 2012 houdende diverse bepalingen inzake leefmilieu en natuur;&nbsp;<br>
@@ -51,6 +51,19 @@ In dit besluit wordt verstaan onder:<br>
 12° verordening (EU) 2021/2115: verordening (EU) 2021/2115 van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van Verordeningen (EU) nr. 1305/2013 en (EU) nr. 1307/2013;<br>
 13° verordening (EU) 2021/2116: verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013;<br>
 14° verzamelaanvraag: het geospatiale en diergebonden aanvraagsysteem zoals omschreven in artikel 65, lid 4, a) van verordening (EU) &nbsp;2021/2116, vermeld in het ministerieel besluit van 23 juni 2015 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.
+
+### ART 2/1.
+
+In dit artikel wordt verstaan onder verordening (EU) 2022/2472: verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L327 van 21 december 2022, blz. 1–81 , met inbegrip van de latere wijzigingen.<br>
+<br>
+Op de steunmaatregel, vermeld in artikel 3, eerste lid, van dit besluit, zijn de voorwaarden, vermeld in artikel 42 van verordening (EU) 2022/2472, van toepassing<br>
+&nbsp;&nbsp; &nbsp;<br>
+De steunmaatregel, vermeld in artikel 3, eerste lid, van dit besluit, voldoet aan de volgende voorwaarden en aan alle andere voorwaarden, vermeld in hoofdstuk I en hoofdstuk II van verordening (EU) 2022/2472:&nbsp;<br>
+1° de steun wordt verstrekt aan kleine, middelgrote en micro-ondernemingen (kmo’s) als vermeld in artikel 1, lid 1, a), van de voormelde verordening;<br>
+2° bedrijven waartegen een bevel tot terugvordering uitstaat als gevolg van een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard als vermeld in artikel 1, lid 4, van de voormelde verordening, komen niet in aanmerking voor steun;<br>
+3° bedrijven in moeilijkheden als vermeld in artikel 1, lid 5, h), van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
+4° de steun is transparant als vermeld in artikel 5, lid 3, a), van de voormelde verordening, en heeft een stimulerend effect overeenkomstig artikel 6 van de voormelde verordening.<br>
+&nbsp;
 
 ## Hoofdstuk 2. Maatregelen
 
