@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039288,
+  "title": "Ministerieel besluit van 2024-01-19 tot vaststelling van de lijst voor het jaar 2024 met generieke afwijkingen van het verbod op het gebruik van pesticiden in uitvoering van artikel 5, paragraaf 2, van het besluit van de Vlaamse Regering van 15 maart 2013 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039288/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "b676fad0e9f1365094ca5d17a36e6bdcbb389b18229d50f728e96a257d76d61c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039288&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-01-19",
+  "gazette": "2024-01-29",
+  "numac": 2024000801,
+  "document_start": "2024-01-01",
+  "document_end": "2025-01-31",
+  "in_force": "2024-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
