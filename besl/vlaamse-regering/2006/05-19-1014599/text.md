@@ -41,7 +41,7 @@ c) olie- en vezelhoudende gewassen :<br>
 8° landbouwernummer: het nummer dat wordt toegekend in het kader van de verplichting van een systeem van unieke identificatie van iedere landbouwer, vermeld in verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
 9° in de handel brengen : de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik;<br>
 10° begeleidend document : genummerd document zoals vastgesteld en uitgereikt door de bevoegde entiteit naar het model van de bijlage in de vorm van een vijfvoudig formulier, opgedeeld in drie vakken;<br>
-11° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+11° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 12° minister : de Vlaamse minister, bevoegd voor de landbouw.<br>
 &nbsp;
 
