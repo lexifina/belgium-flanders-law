@@ -62,6 +62,10 @@ In artikel 5.183 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaams
 2° als de rechthebbende verhuisd is naar een andere woning en voldaan is aan de voorwaarden vermeld in artikel 5.177 op de jongste van de data vermeld in het vijfde lid.”;<br>
 3° in het achtste lid wordt de zinsnede “en 2°” opgeheven.
 
+### ART 7.
+
+In artikel 44/1 van het besluit van de Vlaamse Regering van 4 februari 2022 tot oprichting van een uniek loket voor de aanvraag en behandeling van bepaalde woon- en energiepremies en tot wijziging van het Energiebesluit van 19 november 2010 en het Besluit Vlaamse Codex van 2021, ingevoegd bij het besluit van de Vlaamse Regering van 20 mei 2022, wordt het jaartal “2024” vervangen door het jaartal “2025”.
+
 ### ART 8.
 
 Artikel 10 en 11 van het besluit van de Vlaamse Regering van 17 december 2021 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huur, worden opgeheven.
