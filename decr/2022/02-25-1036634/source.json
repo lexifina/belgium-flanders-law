@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036634,
+  "title": "Decreet van 2022-02-25 betreffende de Vervoersautoriteit",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036634/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "c8200c94799a7d102458d83c4dc45f49c26fe13dcabe558ea58e4822c412b5a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036634&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2022-02-25",
+  "gazette": "2022-03-11",
+  "numac": 2022040484,
+  "document_start": "2024-01-01",
+  "document_end": "2099-12-31",
+  "in_force": "2024-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
