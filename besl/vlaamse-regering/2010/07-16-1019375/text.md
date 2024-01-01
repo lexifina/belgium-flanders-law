@@ -381,14 +381,26 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor he
 
 ### ART. 9.
 
-Alleen voor de plaatsing van volgende publiciteitsinrichtingen is geen omgevingsvergunning voor stedenbouwkundige handelingen nodig:<br>
-1° de bevestiging aan een vergund gebouw van niet-lichtgevende zaakgebonden publiciteit, met een totale oppervlakte van maximaal 4 vierkante meter;<br>
-2° publiciteitsinrichtingen, aangebracht op nutsvoorzieningen die behoren tot het openbaar domein, geplaatst in opdracht van een overheid, op voorwaarde dat de reclame maximaal de helft van de oppervlakte of tijd inneemt;<br>
-3° publiciteitsinrichtingen die voortvloeien uit wettelijke of reglementaire bepalingen;<br>
-4° publiciteitsinrichtingen die alleen informatie van de overheid bevatten of die deel uitmaken van sensibiliseringscampagnes van de overheid;<br>
-5° door de overheid beschikbaar gestelde dragers met het oog op socioculturele en politieke affichage;<br>
-6° verkiezingspubliciteit voor een verkiezing van het Europees, Federaal of Vlaams Parlement, of voor provincie-, gemeente- of districtsraadsverkiezingen;<br>
-7° publiciteitsinrichtingen, aangebracht op een onroerend goed, waarbij wordt bekendgemaakt dat dit goed te koop of te huur is, op voorwaarde dat de totale maximale oppervlakte niet meer bedraagt dan 4 vierkante meter en dat de publiciteitsinrichting ten laatste 14 dagen na de verhuring of verkoping wordt verwijderd.<br>
+Voor de toepassing van dit artikel zijn de definities, vermeld in artikel 2 van de Publiciteitsverordening van 12 mei 2023, van toepassing.&nbsp;<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig om de volgende handelingen uit te voeren, voor zover de handelingen voldoen aan de voorwaarden, vermeld in artikel 5, 6, 7 en 8 van de Publiciteitsverordening van 12 mei 2023:<br>
+1°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van niet-lichtgevende zaakgebonden publiciteitsinrichtingen aan een vergund of vergund geacht gebouw, met een totale oppervlakte van maximaal 4 vierkante meter per zaak;<br>
+2°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen op straatmeubilair dat geplaatst is door of in opdracht van een overheid, of op nutsvoorzieningen die behoren tot het openbaar domein, op voorwaarde dat de publiciteitsboodschap maximaal de helft van de oppervlakte of tijd inneemt;<br>
+3°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen die voortvloeien uit wettelijke of reglementaire bepalingen;<br>
+4°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen die alleen informatie van de overheid bevatten of die deel uitmaken van sensibiliseringscampagnes van de overheid;<br>
+5°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen door of in opdracht van een overheid met het oog op politieke affichage of affichage voor activiteiten van sociale, culturele, pedagogische, caritatieve, levensbeschouwelijke, sportieve en recreatieve aard;<br>
+6°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen voor verkiezingen van het Europees, Federaal of Vlaams Parlement, of voor provincie-, gemeente- of districtsraadsverkiezingen als de voorwaarden van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 vervuld zijn;<br>
+7°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen op een onroerend goed, waarbij wordt bekendgemaakt dat dat goed te koop of te huur is als al de volgende voorwaarden vervuld zijn:<br>
+a)&nbsp;&nbsp; &nbsp;de totale maximale oppervlakte bedraagt niet meer dan vier vierkante meter per onroerend goed;<br>
+b)&nbsp;&nbsp; &nbsp;de publiciteitsinrichting wordt uiterlijk veertien dagen na de verhuring of verkoop verwijderd;<br>
+8°&nbsp;&nbsp; &nbsp;het plaatsen of aanbrengen van publiciteitsinrichtingen waarmee het publiek geïnformeerd wordt over tijdelijke en kleinschalige activiteiten van sociale, culturele, pedagogische, caritatieve, levensbeschouwelijke, sportieve en recreatieve aard als al de volgende voorwaarden vervuld zijn:<br>
+a)&nbsp;&nbsp; &nbsp;de publiciteitsinrichting wordt niet geplaatst of aangebracht op plaatsen waar de publiciteitsboodschap herkenbaar is vanaf autosnelwegen;<br>
+b)&nbsp;&nbsp; &nbsp;de publiciteitsinrichting wordt geplaatst of aangebracht in de gemeente waar de activiteit plaatsvindt of in de omliggende gemeenten;<br>
+c)&nbsp;&nbsp; &nbsp;de activiteit wordt georganiseerd door een niet-commerciële organisator;<br>
+d)&nbsp;&nbsp; &nbsp;de totale maximale oppervlakte bedraagt niet meer dan vier vierkante meter per bord;<br>
+e)&nbsp;&nbsp; &nbsp;er wordt maximaal een bord per perceel geplaatst of, bij percelen die een straatbreedte van meer dan vijftig lopende meter hebben, maximaal een bord per begonnen vijftig lopende meter aan de straat;<br>
+f)&nbsp;&nbsp; &nbsp;eventuele vermeldingen van sponsors bedragen maximaal een derde van de totale oppervlakte;<br>
+g)&nbsp;&nbsp; &nbsp;de publiciteitsinrichting wordt maximaal zestig dagen voor het begin van de activiteit geplaatst of aangebracht en wordt uiterlijk veertien dagen na de activiteit verwijderd.<br>
 &nbsp;
 
 ## HOOFDSTUK 10 Openbaar domein
