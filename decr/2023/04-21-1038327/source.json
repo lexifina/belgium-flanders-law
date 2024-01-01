@@ -2,16 +2,16 @@
   "codex_id": 1038327,
   "title": "Decreet van 2023-04-21 tot wijziging van diverse decreten door de fusie van het Departement Welzijn, Volksgezondheid en Gezin en het intern verzelfstandigd agentschap Zorg en Gezondheid tot het Departement Zorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038327/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "8eb4bfc5eabd06e546d054a66d6923b929e034695653267732bbb1c8af5341f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038327/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "24af2a082f369dba5b32d4c9dfef2b3c4b30cb7298e42124d7d9377cdaafda5a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038327&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-01-01",
   "made": "2023-04-21",
   "gazette": "2023-05-16",
   "numac": 2023042279,
   "document_start": "2023-06-01",
   "document_end": null,
-  "in_force": "2023-06-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2023-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

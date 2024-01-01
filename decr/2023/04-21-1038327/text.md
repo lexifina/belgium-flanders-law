@@ -15,6 +15,10 @@ In artikel 17, §6, 2°, van het decreet van 15 juli 1997 houdende oprichting va
 
 ## Hoofdstuk 3. Wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
 
+### ART 3.
+
+In artikel 45, §5, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, vervangen bij het decreet van 23 december 2022, worden de woorden “agentschap Zorg en Gezondheid” vervangen door de zinsnede “Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie”.
+
 ## Hoofdstuk 4. Wijziging van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden
 
 ### ART 4.
