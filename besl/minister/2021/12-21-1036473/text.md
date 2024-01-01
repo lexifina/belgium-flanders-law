@@ -25,8 +25,8 @@ DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW 
 
 ### ART 1.
 
-Met toepassing van hoofdstuk VI van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, wordt Antwerpse Provinciale Imkers Federatie vzw, Meerhoutstraat 61, te 2430 Laakdal, met ondernemingsnummer 0767.558.723, erkend als een gewestelijk centrum onder het nummer LG/21415.
+...
 
 ### ART 2.
 
-Dit besluit heeft uitwerking met ingang van 8 oktober 2021, de datum waarop de erkenningsaanvraag ontvankelijk werd bevonden na het indienen van de nodige stukken.
+...
