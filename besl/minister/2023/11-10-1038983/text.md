@@ -26,6 +26,11 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN BESLUIT:
 
 Artikel 1, 1°, van het ministerieel besluit van 13 maart 2019 houdende de nadere regels over de diverse hoedanigheden van het rechtgevende kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen wordt opgeheven.
 
+### ART 2.
+
+In artikel 2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van 31 maart 2022, wordt een vierde punt toegevoegd, dat luidt als volgt:<br>
+“4° een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij een pleeggezin verblijft.”.
+
 ### ART 3.
 
 In artikel 3, van hetzelfde besluit worden de woorden “evaluerende arts van Kind en Gezin” vervangen door de woorden “evaluerend arts van het agentschap Opgroeien of Opgroeien regie”.
