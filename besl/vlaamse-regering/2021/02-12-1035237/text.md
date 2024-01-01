@@ -27,10 +27,10 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° minister: de minister, vermeld in artikel 2, 6°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 3° praktijkcentra: de praktijkcentra die deelnemen aan een samenwerkingsverband in het wetenschappelijk en praktijkgericht onderzoek over de plantaardige sector dat erkend is conform het besluit van de Vlaamse Regering van 10 februari 2017 houdende de erkenning van samenwerkingsverbanden in het wetenschappelijk en praktijkgericht onderzoek over de sectoren en de activiteiten, vermeld in artikel 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
-4° verordening (EU) nr. 702/2014: de verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L 193/1 van 1 juli 2014.
+4° verordening (EU) 2022/2472: verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L327 van 21 december 2022, blz. 1–81 , en de latere wijzigingen ervan.
 
 ## HOOFDSTUK 2. Subsidiëring van praktijkcentra
 
@@ -61,7 +61,7 @@ De minister kan aanvullende voorwaarden bepalen waaraan de activiteiten, vermeld
 
 ### ART 4.
 
-De subsidies, vermeld in artikel 2 van dit besluit, kunnen alleen aangewend worden voor de kosten, vermeld in artikel 21, lid 3, a), en artikel 31, lid 6, a), b), d) en e), van verordening (EU) nr. 702/2014.
+De subsidies, vermeld in artikel 2 van dit besluit, kunnen alleen aangewend worden voor de kosten, vermeld in artikel 21, lid 3, a), en artikel 38, lid 7, a), b), d) en e), van verordening (EU) 2022/2472.
 
 ## Afdeling 2. Teeltgroepen
 
@@ -151,15 +151,15 @@ De minister kan bepalen dat de bijdrage een andere vorm dan een geldelijke betal
 
 ### ART 12.
 
-De subsidies, vermeld in artikel 2 van dit besluit, worden verleend onder de voorwaarden, vermeld in artikel 21 en 31 van verordening (EU) nr. 702/2014.<br>
+De subsidies, vermeld in artikel 2 van dit besluit, worden verleend onder de voorwaarden, vermeld in artikel 21 en 38 van verordening (EU) 2022/2472.<br>
 <br>
 De subsidies voldoen aan alle voorwaarden, vermeld in hoofdstuk I en hoofdstuk II van de voormelde verordening, inzonderheid aan de volgende voorwaarden:<br>
 1° de steun wordt verstrekt aan kleine, middelgrote en micro-ondernemingen (kmo's) als vermeld in artikel 1, lid 1, a), van de voormelde verordening;<br>
-2° bedrijven waartegen een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard als vermeld in artikel 1, lid 5, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
-3° bedrijven in moeilijkheden als vermeld in artikel 1, lid 6, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
-4° de steun is transparant als vermeld in artikel 5, lid 2, a), van de voormelde verordening, en heeft een stimulerend effect als vermeld in artikel 6 van de voormelde verordening.<br>
+2° bedrijven waartegen een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard als vermeld in artikel 1, lid 4, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
+3° bedrijven in moeilijkheden als vermeld in artikel 1, lid 5, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
+4° de steun is transparant als vermeld in artikel 5, lid 3, a), van de voormelde verordening, en heeft een stimulerend effect als vermeld in artikel 6 van de voormelde verordening.<br>
 <br>
-De praktijkcentra maken conform artikel 31, lid 4, van de voormelde verordening de resultaten van de gesubsidieerde activiteiten beschikbaar op het internet op het moment van rapportering, of vanaf de datum waarop informatie over de resultaten aan leden van specifieke organisaties wordt gegeven, afhankelijk van wat als eerste plaatsvindt. De resultaten blijven op het internet beschikbaar gedurende ten minste vijf jaar vanaf de einddatum van het kalenderjaar waarop de subsidie betrekking heeft.
+De praktijkcentra maken conform artikel 38, lid 4, van de voormelde verordening de resultaten van de gesubsidieerde activiteiten beschikbaar op het internet op het moment van rapportering, of vanaf de datum waarop informatie over de resultaten aan leden van specifieke organisaties wordt gegeven, afhankelijk van wat als eerste plaatsvindt. De resultaten blijven op het internet beschikbaar gedurende ten minste vijf jaar vanaf de einddatum van het kalenderjaar waarop de subsidie betrekking heeft.
 
 ## Afdeling 8. Uitbetaling van de subsidie en verantwoording
 
