@@ -8,15 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan wordt verstaan onder:<br>
-1° lokaal cultuurbeleid: een cultuurbeleid dat steunt op deskundigheid, strategische aanpak en participatie van alle actoren, dat streeft naar een evenwicht tussen enerzijds de culturele behoeften en anderzijds het cultuuraanbod, ondersteund door de lokale overheid, en dat uitgaat van de samenhang tussen de verschillende cultuurbeleidsdo- meinen;<br>
-2° gemeenschapscentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit;<br>
-3° cultuurcentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit, met daarnaast een breed en eigen cultuurspreidingsaanbod, gericht op de bevolking van een streekgericht werkingsgebied;<br>
-4° openbare bibliotheek: een basisvoorziening waar elke burger terechtkan met zijn vragen over kennis, cultuur, informatie en ontspanning. Ze bemiddelt actief bij het beantwoorden van deze vragen. De openbare bibliotheek is actief op het vlak van geletterdheid, cultuurspreiding en cultuurparticipatie. De bibliotheek werkt in een geest van objectiviteit en vrij van levensbeschouwelijke, politieke en commerciële invloeden;<br>
-5° administratie: de administratie, bevoegd voor de cultuur;<br>
-6° minister: de Vlaamse minister, bevoegd voor de cultuur;<br>
-7° ....<br>
-&nbsp;
+...
 
 ### ART. 3.
 
@@ -24,7 +16,7 @@ Voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan wordt versta
 
 ### ART. 4.
 
-De subsidiebedragen, vermeld in dit decreet en de uitvoeringsbesluiten ervan, die gekoppeld worden aan bevolkingscijfers, worden berekend op 1 januari van het te subsidiëren jaar op basis van de meest recente bevolkingscijfers die op dat moment in het Belgisch Staatsblad gepubliceerd zijn.<br /><br />
+...
 
 ## TITEL 2 [... (opgeh. decr. 22 december 2017, art. 21, I: 1 januari 2018)]
 
@@ -66,62 +58,49 @@ De subsidiebedragen, vermeld in dit decreet en de uitvoeringsbesluiten ervan, di
 
 ## HOOFDSTUK 4 Organisaties met een specifieke opdracht
 
-## Afdeling 1 Algemene voorwaarden
+## Afdeling 1 ...
 
 ### ART. 12.
 
-Om gesubsidieerd te worden moeten de organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36, voldoen aan de volgende voorwaarden :<br />1° opgericht zijn in de vorm van een vereniging zonder winstgevend doel overeenkomstig de wet van 27 juni 1921, waarbij aan de verenigingen zonder winstgevend doel en aan de instellingen van openbaar nut rechtspersoonlijkheid wordt verleend;<br />2° het secretariaat hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° op zelfstandige wijze de financiën beheren en beschikken over een eigen post- of bankrekening;<br />4° een boekhouding voeren en die zo organiseren dat de aanwending van de subsidies op elk ogenblik financieel kan worden gecontroleerd;<br />5° toestaan dat de administratie en het Rekenhof de werking en de boekhouding zo nodig ter plaatse kunnen onderzoeken en de nodige gegevens ter beschikking stellen;<br />6° de burgerrechtelijke aansprakelijkheid van de beheerders en de medewerkers, en van de deelnemers aan de door de organisatie georganiseerde activiteiten, vermeld in artikel 1382 tot en met 1386 van het Burgerlijk Wetboek, door een verzekering laten dekken;<br />7° de verplichtingen nakomen die verbonden zijn aan het werkgeverschap.<br /><br />
+...
 
 ### ART. 13.
 
-Het meerjarenplan, vermeld in artikelen 21, 24, 27, 33, 35 en 37, formuleert de strategische doelstellingen en de acties die elke organisatie zal opzetten om haar opdrachten uit te voeren. Het meerjarenplan voorziet in een nulmeting op basis van indicatoren, zodat na afloop van de beleidsperiode de inspanningen kunnen worden getoetst aan de bereikte resultaten.<br /><br />Het meerjarenplan van de organisaties, vermeld in artikelen 20 en 31 van het decreet, beschrijft hoe de samenwerking tussen de organisaties wordt georganiseerd.<br /><br />
+...
 
 ### ART. 14.
 
-De organisaties, vermeld in artikelen 20, 22, 31, 34 en 36, dienen het meerjarenplan in bij de bevoegde administratie uiterlijk op 1 oktober van het jaar dat voorafgaat aan een nieuwe beleidsperiode. De eerste beleidsperiode loopt van 1 januari 2014 tot en met 31 december 2018.<br /><br />Uiterlijk twee maanden nadat die organisaties het meerjarenplan hebben ingediend, keurt de administratie het plan goed of keurt ze het af, en deelt ze haar gemotiveerde beslissing mee aan de organisaties. Als het meerjarenplan niet wordt goedgekeurd, passen de organisaties het plan aan en dienen het binnen drie maanden opnieuw in bij de administratie, die binnen een maand meedeelt of het plan al dan niet wordt goedgekeurd.<br /><br />Als de administratie het meerjarenplan, vermeld in artikelen 21, 24, 27, 33, 35 en 37, definitief afkeurt, vervalt de subsidie met ingang van de eerste dag van de maand die volgt op de kennisgeving door de administratie van de afkeuring van het meerjarenplan aan de organisatie.<br /><br />
+...
 
 ### ART. 15.
 
-Als de administratie vaststelt dat een organisatie als vermeld in artikel 20, 22, 28, 31, 34 en 36 niet voldoet aan de subsidievoorwaarden of aan haar opdrachten, deelt ze haar bevindingen schriftelijk mee in een verslag met aanbevelingen. Daarbij nodigt ze de desbetreffende organisatie uit om haar eventuele bezwaren binnen dertig dagen kenbaar te maken in een bezwaarschrift.<br /><br />De administratie bepaalt haar standpunt binnen dertig dagen nadat de organisatie het bezwaarschrift, vermeld in het eerste lid, heeft ingediend, en deelt dat mee aan de organisatie. Als de organisatie niet akkoord gaat met het standpunt van de administratie, kan ze binnen dertig dagen bezwaar indienen bij de minister.<br /><br />De minister kan op elk moment, eventueel op basis van het ingediende bezwaarschrift en de evaluatie van de administratie, de subsidies van de lopende beleidsperiode stopzetten of verminderen als de organisatie de subsidievoorwaarden niet naleeft of haar opdrachten niet vervult. In dat geval vervalt of vermindert de subsidie vanaf de eerste dag van de maand na de kennisgeving van de beslissing van de minister door de administratie.<br /><br />
+...
 
 ### ART. 16.
 
-De organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36, dienen jaarlijks uiterlijk op 15 november een sluitende begroting in voor het volgende jaar.<br /><br />Jaarlijks worden uiterlijk op 31 maart volgend op een uitvoeringsjaar een voortgangsrapport en een financiële afrekening ingediend. De afrekening moet minstens de volgende stukken bevatten: de balans, de resultatenrekening en een accountants- of revisorenverslag.<br /><br />De documenten, vermeld in het eerste en tweede lid, zijn door de algemene vergadering van de organisatie goedgekeurd.<br /><br />
+...
 
 ### ART. 17.
 
-De subsidie, vermeld in artikelen 21, 24, 27, 29, 33, 35 en 37, wordt uitgekeerd in vier driemaandelijkse voorschotten en een saldo. Elk voorschot bedraagt 22,5% van de voorgestelde subsidie. Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde werkjaar nadat de administratie de financiële afrekening en het voortgangsrapport van het voorbije gesubsidieerde jaar heeft goedgekeurd.<br /><br />Bij de berekening van het saldo wordt rekening gehouden met de uitgekeerde voorschotten. Als die hoger zijn dan de berekende subsidie, wordt het verschil in mindering gebracht van de subsidie die in de toekomst nog verschuldigd is.<br /><br />
+...
 
 ### ART. 18.
 
-Uit de afrekening en de balans moet blijken dat de organisaties, vermeld in artikelen 20, 22, 31, 34 en 36 van het decreet, rekening houdend met de eigen middelen, sluitend of batig kunnen werken.<br /><br />De Vlaamse Regering kan nadere regels voor reservevorming bepalen.<br /><br />
+...
 
 ### ART. 19.
 
-De Vlaamse Regering kan aan de organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36, bijkomende bepalingen opleggen over het AnySurflabel, het ecologisch bewustzijn en het gebruik van de standaardlogo's van de Vlaamse Gemeenschap.<br /><br />
+...
 
 ## [Afdeling 2 ... (opgeh. decr. 23 juni 2023, art. 20, I: 1 januari 2024)]
 
 ### ART. 20.
 
-De Vlaamse Regering subsidieert een organisatie die als doel heeft gemeenten te ondersteunen bij de digitale uitdagingen van hun cultuurbeleid, met klemtoon op openbare bibliotheken, cultuur- en gemeenschapscentra en aandacht voor sectoroverschrijdende verbindingen.
+...
 
 ### ART. 21.
 
-De organisatie, vermeld in artikel 20, voert volgende strategische doelstellingen uit :<br>
-1° uitzetten van stimuleringstrajecten om het lokaal cultuurbeleid te sensibiliseren rond de digitale uitdagingen;<br>
-2° concrete proefprojecten uitvoeren in samenwerking met lokale besturen en lokale cultuurprofessionals om oplossingen voor de digitale uitdagingen van het lokaal cultuurbeleid te zoeken;<br>
-3° succesvolle proefprojecten op te schalen tot bovenlokale diensten waarop gemeenten kunnen intekenen;<br>
-4° bovenlokale diensten kwalitatief te beheren in een consortiummodel met deelnemende gemeenten.<br>
-<br>
-Voor de uitvoering van de opdrachten kent de Vlaamse Regering een jaarlijkse subsidie toe, waarvan ze het bedrag bepaalt. De subsidie wordt toegekend ter ondersteuning van de personeels- en werkingskosten en omvat gelijktijdig de subsidiëring van een kern van personeelsleden, de jaarlijkse toekenning van een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
-<br>
-De Vlaamse Regering sluit een vijfjarige overeenkomst af met de organisatie waarin de strategische doelstellingen worden geconcretiseerd in operationele doelstellingen en de jaarlijkse subsidie voor<br>
-personeel en werking wordt toegekend. Na een positieve evaluatie van de uitvoering van de overeenkomst in de loop van het laatste jaar sluit de Vlaamse Regering een nieuwe vijfjarige overeenkomst.<br>
-<br>
-De wijze waarop de organisatie uitvoering zal geven aan de doelstellingen uit de overeenkomst wordt beschreven in een vijfjarig meerjarenplan dat ter goedkeuring wordt voorgelegd aan de minister bevoegd voor Cultuur.<br>
-<br>
-De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepalen en kan een afwijkende looptijd voorzien voor de eerste keer dat deze overeenkomst wordt gesloten.
+...
 
 ## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
 
@@ -285,15 +264,15 @@ Voor de individuele gemeenten in het tweetalige gebied Brussel-Hoofdstad wordt v
 
 ...
 
-## HOOFDSTUK 7 Indexering van de subsidiebedragen
+## HOOFDSTUK 7 ...
 
 ### ART. 50.
 
-De door of krachtens dit decreet verleende subsidies worden toegekend binnen de beschikbare begrotingskredieten.<br /><br />
+...
 
 ### ART. 51.
 
-Alle subsidiebedragen, vermeld in dit decreet en de uitvoeringsbesluiten ervan, worden vanaf 1 januari 2014 gekoppeld aan hetzelfde prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen, met uitzondering van de subsidiebedragen voor de organisaties met een specifieke opdracht, vermeld in hoofdstuk 4 van titel 3, die vanaf 1 januari 2013 worden gekoppeld aan het prijsindexcijfer.<br /><br />
+...
 
 ## TITEL 4 Organisatie van het overleg en de advisering van het gemeentelijk cultuurbeleid
 
@@ -335,19 +314,19 @@ De gemeente bepaalt de nadere voorwaarden van de werking van de adviesorganen vo
 
 ...
 
-## TITEL 6 Overgangsbepalingen
+## TITEL 6 ...
 
 ### ART. 61.
 
-In afwijking van artikelen 63, 64 en 65 blijven de verplichtingen ter verantwoording van de subsidie voor het werkjaar 2013 op basis van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid, zoals gewijzigd, van toepassing tot en met 31 december 2014.<br /><br />In afwijking van artikelen 66 en 67 blijven de verplichtingen ter verantwoording van de subsidie voor het werkjaar 2013 op basis van het decreet van 6 juli 2001 houdende ondersteuning van de federatie van erkende organisaties voor volksontwikkelingswerk en houdende ondersteuning van de Vereniging van Vlaamse Cultuurcentra, zoals gewijzigd, van toepassing tot en met 31 december 2014.<br /><br />In afwijking van artikel 68 blijven de verplichtingen ter verantwoording van de subsidie voor het werkjaar 2013 op basis van het reglement van 11 april 2008 voor de aanvullende tewerkstelling bij organisaties actief in het kader van de lectuurvoorziening voor personen met een leesbeperking van toepassing tot en met 31 december 2014.<br /><br />
+...
 
 ### ART. 62.
 
-Met behoud van de toepassing van artikel 61, eerste lid, blijven voor de gemeenten die in 2012 een subsidieaanvraag doen op basis van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid, de bepalingen van dat decreet gelden tot en met 31 december 2013.<br /><br />
+...
 
 ### ART. 62/1.
 
-<P>De intergemeentelijke samenwerkingsverbanden met rechtspersoonlijkheid die in   werkjaar 2013 op basis van de artikelen 21 en 38 van het decreet van 13 juli   2001 houdende het stimuleren van een kwalitatief en integraal lokaal   cultuurbeleid werden gesubsidieerd, behouden hun subsidie waarop ze in het   werkjaar 2013 recht hadden. De subsidie wordt geïndexeerd op de wijze, vermeld   in artikel 51 van het decreet van 6 juli 2012 betreffende het Lokaal   Cultuurbeleid.</P>  <P>De subsidie wordt toegekend op voorwaarde dat de intergemeentelijke   samenwerkingsverbanden met rechtspersoonlijkheid voldoen aan de bepalingen van   artikel 7, 1°, 3° en 4°, en/of aan de bepalingen van artikel 9, 1° tot en met   6°. </P>  <P>De Vlaamse Regering bepaalt de manier waarop de subsidie zal worden   uitbetaald.<BR><BR>De intergemeentelijke samenwerkingsverbanden met   rechtspersoonlijkheid moeten jaarlijks vóór 31 juli volgende documenten ter   beschikking stellen van de administratie, bevoegd voor Cultuur :<BR>1° een   begroting van het lopende werkjaar;<BR>2° een goedgekeurde financiële afrekening   van het voorbije werkjaar;<BR>3° een voortgangsrapport waarin wordt beschreven   hoe er in het voorbije werkjaar invulling werd gegeven en in het lopende   werkjaar invulling zal worden gegeven aan de Vlaamse beleidsprioriteiten,   vermeld in artikel 5, 1° en/of 2° ;<BR>4° alle statistische gegevens die de   administratie noodzakelijk acht, op de wijze die de administratie bepaalt.</P>  <P>Als uit de ingediende documenten blijkt dat de subsidie niet werd aangewend   voor het doel waarvoor ze werd verleend, en meer bepaald dat de Vlaamse   beleidsprioriteiten onvoldoende werden nagestreefd, keert de Vlaamse Regering   verdere toegezegde subsidies in eerste instantie niet uit en in tweede instantie   vordert ze reeds toegekende subsidies terug.</P>
+<p>...</p>
 
 ## TITEL 7 Opheffingsbepalingen
 
@@ -383,625 +362,4 @@ Dit decreet treedt in werking op 1 januari 2014, met uitzondering van artikel 2 
 
 ### BIJLAGE
 
-Lijst van steden en gemeenten<br>
-&nbsp;
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gemeente <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>inschaling</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aalst</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aarschot</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grootstad</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Asse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Beersel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Beringen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Beveren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bierbeek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bilzen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Blankenberge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Boom</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bornem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Brasschaat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bree</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Brugge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grootstad</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Deinze</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dendermonde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Diest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Diksmuide</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dilbeek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eeklo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Evergem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Geel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Genk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gent</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grootstad</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Geraardsbergen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Grimbergen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Halle</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hasselt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Heist-op-den-Berg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Herentals</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Heusden-Zolder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hoogstraten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Houthalen-Helchteren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Knokke-Heist</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Koksijde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Kortrijk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leopoldsburg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leuven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lokeren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lommel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Maaseik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Maasmechelen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mechelen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Menen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mol</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ninove</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oostende</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oudenaarde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Overijse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Overpelt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Poperinge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Roeselare</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ronse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Schoten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sint-Pieters-Leeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>St-Niklaas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>St-Truiden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Temse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ternat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tervuren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tessenderlo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tielt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tienen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tongeren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Torhout</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turnhout</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vilvoorde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Waregem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Wetteren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Wevelgem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Zaventem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Zottegem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>C</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+...
