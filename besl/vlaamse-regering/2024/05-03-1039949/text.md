@@ -34,6 +34,32 @@ DE VLAAMSE REGERING BESLUIT:
 In artikel 2, lid 2, van hetzelfde besluit wordt punt 6° vervangen door wat volgt:<br>
 “6° het niet-nakomen van de verplichtingen om gegevens met betrekking tot visserijactiviteiten te registreren, op te slaan en te melden, met inbegrip van gegevens die door volgsystemen voor vaartuigen moeten worden doorgestuurd, evenals gegevens over voorafgaande kennisgevingen, vangstaangiften, aangiften van overlading, visserijlogboeken, aangiften van aanlanding, weeggegevens, aangiften van overname, vervoersdocumenten of verkoopdocumenten.”.
 
+### ART 39.
+
+In artikel 45 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit, gewijzigd bij het besluit van de Vlaamse Regering van 26 januari 2024, wordt in punt 2° tussen het woord “verbintenisaanvraag” en de zinsnede “. Het doorzaaien” de zinsnede “voor de maatregel, vermeld in artikel 3, eerste lid, 7°, a), 3), en vanaf het najaar voorafgaand aan het jaar van de verbintenisaanvraag voor de maatregelen vermeld in artikel 3, eerste lid, 7°, a), 1) en 2)” ingevoegd.&nbsp;
+
+### ART 40.
+
+In artikel 50, tweede lid, van hetzelfde besluit wordt in punt 1° tussen het woord “melk” en het woord “of” de zinsnede “. Op bedrijven die deelnemen aan melkproductieregistratie moeten de runderen in Sanitel geregistreerd zijn als rastype melk” ingevoegd.
+
+### ART 41.
+
+In artikel 67 van hetzelfde besluit worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° de woorden “de landbouwer” worden vervangen door het woord “er”;&nbsp;<br>
+2° tussen het woord “ontvangen” en het woord “voor” wordt het woord “worden” ingevoegd.&nbsp;
+
+### ART 42.
+
+In artikel 68, tweede lid, van hetzelfde besluit, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° het woord “hij” wordt vervangen door het woord “er”;&nbsp;<br>
+2° tussen het woord “ontvangen” en het woord “voor” wordt het woord “worden” ingevoegd.&nbsp;
+
+### ART 43.
+
+In artikel 92, §3, van hetzelfde besluit worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° de woorden “de landbouwer” worden vervangen door het woord “er”;&nbsp;<br>
+2° tussen het woord “ontvangen” en het woord “voor” wordt het woord “worden” ingevoegd.&nbsp;
+
 ### ART 66/1.
 
 In artikel 26, §4, van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
