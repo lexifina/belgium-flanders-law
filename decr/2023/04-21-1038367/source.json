@@ -2,16 +2,16 @@
   "codex_id": 1038367,
   "title": "Decreet van 2023-04-21 tot wijziging van diverse decreten met betrekking tot wonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038367/VolledigDocument?datum=2023-06-30",
-  "source_sha256": "77f106887a87d89d7afe9610a116fffd62fb0437e6633b7b9959b7657703aa28",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038367/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "ddfee68f95b40e2563ed9f5c6a11cf9368ccadc1eb1db96e28173ede35761091",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038367&param=informatie",
-  "as_of": "2023-06-30",
+  "as_of": "2024-01-01",
   "made": "2023-04-21",
   "gazette": "2023-05-30",
   "numac": 2023042520,
   "document_start": "2023-06-09",
   "document_end": null,
-  "in_force": "2023-06-30",
-  "article_versions": 88,
-  "record_form": "consolidated version as in force on 2023-06-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-01-01",
+  "article_versions": 90,
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }

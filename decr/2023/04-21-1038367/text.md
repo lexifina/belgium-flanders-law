@@ -731,6 +731,15 @@ In artikel 6.3/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 e
 7° paragraaf 8 wordt vervangen door wat volgt:<br>
 “§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit boek. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij de gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.”.
 
+### ART 73.
+
+In artikel 6.8, §1, eerste lid, van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt een punt 2°/1 ingevoegd, dat luidt als volgt:<br>
+“2°/1 niet beschikken over saldi op betaal-, spaar-, termijn- en effectenrekeningen die de door de Vlaamse Regering bepaalde grens overschrijden;”.
+
+### ART 74.
+
+In artikel 6.11, eerste lid, van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, wordt tussen de zinsnede “eerste lid, 1°” en de zinsnede “, 2°” de zinsnede “, 2°/1” ingevoegd.
+
 ### ART 75.
 
 In boek 6, deel 10, titel 1, van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, wordt de indeling in hoofdstukken opgeheven.
