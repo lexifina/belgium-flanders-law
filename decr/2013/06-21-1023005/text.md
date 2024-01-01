@@ -88,6 +88,7 @@ d) een persoon heeft recht op 25% of meer van de winsten van een andere persoon;
 23° marktklare constructie: een grensoverschrijdende constructie die is bedacht of aangeboden, implementeerbaar is of beschikbaar is gemaakt voor implementatie zonder dat er wezenlijke aanpassingen nodig zijn;<br>
 24° constructie op maat: een grensoverschrijdende constructie die geen marktklare constructie is;<br>
 25° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+26° gezamenlijke audit: een administratief onderzoek dat gezamenlijk door de bevoegde autoriteiten van twee of meer lidstaten wordt uitgevoerd, en verband houdt met een of meer personen van gezamenlijk of complementair belang voor de bevoegde autoriteiten van die lidstaten;<br>
 27° gegevensinbreuk: een inbreuk op de beveiliging die leidt tot vernietiging, verlies, wijziging of elk voorval van ongepaste of ongeoorloofde inzage, openbaarmaking of gebruik van inlichtingen, met inbegrip van, maar niet beperkt tot, persoonsgegevens die worden doorgegeven, opgeslagen of anderszins verwerkt, als gevolg van opzettelijke onwettige handelingen, nalatigheid of ongevallen. Een gegevensinbreuk kan betrekking hebben op de vertrouwelijkheid, de beschikbaarheid en de integriteit van gegevens;<br>
 28° CCN-netwerk: het op het gemeenschappelijke communicatienetwerk gebaseerde gemeenschappelijke platform dat de Unie heeft ontwikkeld voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen.<br>
 <br>
@@ -446,6 +447,36 @@ Als de te controleren persoon weigert om zich aan de controlemaatregelen van de 
 <p>De bevoegde autoriteit wijst een vertegenwoordiger aan die wordt belast met de leiding en de coördinatie van de controle.</p>
 
 ## [Afdeling 2/1. Gezamenlijke audits (ing. decr. 10 februari 2023, art. 15, I: 1 januari 2024)]
+
+### ART 16/1.
+
+§1. De buitenlandse autoriteit van een of meer lidstaten kan de bevoegde autoriteit verzoeken een gezamenlijke audit uit te voeren.<br>
+<br>
+De bevoegde autoriteit reageert op het verzoek om een gezamenlijke audit, vermeld in het eerste lid, binnen een termijn van zestig dagen nadat ze het verzoek heeft ontvangen. De bevoegde autoriteit kan dat verzoek van de buitenlandse autoriteit om gemotiveerde redenen verwerpen.<br>
+<br>
+§2. Gezamenlijke audits met de Vlaamse overheid worden op vooraf overeengekomen en gecoördineerde wijze, met inbegrip van taalregelingen, uitgevoerd door de bevoegde autoriteit en de buitenlandse autoriteit van een of meer verzoekende lidstaten, en in overeenstemming met de wetgeving en de procedurele voorschriften van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+<br>
+De bevoegde autoriteit wijst een vertegenwoordiger aan die verantwoordelijk is voor het toezicht op en de coördinatie van de gezamenlijke audit in de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+<br>
+De rechten en plichten van de personeelsleden van lidstaten die deelnemen aan de gezamenlijke audit, worden in geval van hun aanwezigheid bij activiteiten die in de Vlaamse Gemeenschap of het Vlaamse Gewest worden verricht, vastgesteld overeenkomstig de wetgeving van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+<br>
+§3. Met behoud van de toepassing van paragraaf 2:<br>
+1° kunnen de personeelsleden van andere lidstaten die deelnemen aan de activiteiten van de gezamenlijke audit, personen ondervragen en bescheiden onderzoeken in samenspraak met de personeelsleden van de Vlaamse overheid, met inachtneming van de procedurele regelingen die zijn vastgesteld door de Vlaamse Gemeenschap of het Vlaamse Gewest;<br>
+2° zorgt de Vlaamse overheid ervoor dat bewijsmateriaal dat tijdens de activiteiten van de gezamenlijke audit is verzameld, kan worden beoordeeld, ook op de toelaatbaarheid ervan, onder dezelfde juridische voorwaarden als in het geval van een in het Vlaamse Gewest of Vlaamse Gemeenschap uitgevoerde audit waaraan alleen de personeelsleden van de Vlaamse overheid deelnemen, onder meer in de loop van eventuele klachten-, herzienings- of beroepsprocedures;<br>
+3° zorgt de Vlaamse overheid ervoor dat alle personen die aan een gezamenlijke audit worden onderworpen of erdoor worden geraakt, dezelfde rechten en plichten hebben als in het geval van een audit waaraan alleen de personeelsleden van de Vlaamse overheid deelnemen, onder meer in de loop van eventuele klachten-, herzienings- of beroepsprocedures.<br>
+&nbsp;<br>
+§4. Als wordt overgegaan tot het verrichten van een gezamenlijke audit als vermeld in paragraaf 1, trachten de bevoegde autoriteit en de buitenlandse autoriteit van een of meer lidstaten het eens te worden over de feiten en omstandigheden die relevant zijn voor de gezamenlijke audit, en streven ze naar overeenstemming over de fiscale positie van de geaudite persoon of personen op basis van de resultaten van de gezamenlijke audit.<br>
+<br>
+De bevindingen van de gezamenlijke audit worden neergelegd in een eindverslag. Punten waarover de bevoegde autoriteit en elk van de betrokken buitenlandse autoriteiten het eens zijn, worden in het eindverslag opgenomen en worden in aanmerking genomen in de relevante instrumenten die de bevoegde autoriteit en de buitenlandse autoriteit van een of meer deelnemende lidstaten naar aanleiding van die gezamenlijke audit uitvaardigen.<br>
+<br>
+Met inachtneming van het eerste en het tweede lid vinden de handelingen die de bevoegde autoriteit of de personeelsleden van de Vlaamse overheid verrichten naar aanleiding van een gezamenlijke audit, alsmede eventuele verdere procedures in de Vlaamse Gemeenschap of het Vlaamse Gewest, zoals een besluit van de belastingautoriteiten, een beroepsprocedure of een daarmee verband houdende schikking, plaats overeenkomstig de wetgeving van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+<br>
+§5. Alle geaudite personen worden binnen zestig dagen na het uitbrengen van het eindverslag in kennis gesteld van het resultaat van de gezamenlijke audit en krijgen een kopie van dat eindverslag.<br>
+<br>
+§6. De bevoegde autoriteit kan de buitenlandse autoriteit van een of meer lidstaten verzoeken een gezamenlijke audit uit te voeren.<br>
+<br>
+De bevoegde autoriteit en de personeelsleden van de Vlaamse overheid voegen zich naar de wetgeving en de procedurele voorschriften van de lidstaat waar de activiteiten van een gezamenlijke audit plaatsvinden. De Vlaamse personeelsleden oefenen geen bevoegdheden uit die verder gaan dan de bevoegdheden die hun krachtens de wetgeving van de Vlaamse Gemeenschap of het Vlaamse Gewest zijn verleend.<br>
+&nbsp;
 
 ## Afdeling 3 Administratieve kennisgeving
 
