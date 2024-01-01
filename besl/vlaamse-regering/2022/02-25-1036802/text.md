@@ -24,7 +24,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26, § 1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° landbouwer: de landbouwer, vermeld in artikel 4, lid 1, a), van Verordening (EU) nr. 1307/2013 van het Europees parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad, die een actieve landbouwer is conform artikel 9 van de voormelde verordening, met uitsluiting van:<br>
 a) de diensten en agentschappen die afhangen van het Vlaamse Gewest;<br>
 b) de besturen, de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut;<br>

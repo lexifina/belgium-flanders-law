@@ -2,16 +2,16 @@
   "codex_id": 1036802,
   "title": "Besluit van de Vlaamse Regering van 2022-02-25 tot bepaling van de regels om een vergoeding toe te kennen voor de verstrekking van veevoeder met een methaanreducerend effect aan melkvee",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036802/VolledigDocument?datum=2022-03-01",
-  "source_sha256": "523c0e5906bfee9e0f3d79148f89da877bdc3cc2bcc752fcabc763eaec5fb62d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036802/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "6b64968594c41fa4c048dca89174dc13db94c9da886bb971736c0470f2e1f98a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036802&param=informatie",
-  "as_of": "2022-03-01",
+  "as_of": "2024-01-01",
   "made": "2022-02-25",
   "gazette": "2022-03-31",
   "numac": 2022040423,
   "document_start": "2022-03-01",
   "document_end": null,
-  "in_force": "2022-03-01",
+  "in_force": "2024-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2022-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
