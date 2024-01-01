@@ -129,13 +129,13 @@ Ter uitvoering van artikel 37, §3, van het besluit van 21 april 2023, komen all
 ### ART 7.
 
 Ter uitvoering van artikel 38, §3, van het besluit van 21 april 2023, heeft het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, de volgende samenstelling:<br>
-1° 60% tot 90% teelten uit de teeltgroep graangewassen;<br>
-2° 5% tot 10% Brassica, namelijk boerenkool, raapzaad, gele mosterd en huttentut;<br>
-3° maximum 35%: zonnebloem, bernagie, vlas, phacelia, voederwikke, witte klaver, rode klaver.<br>
+1° 60% tot 90% teelten uit de teeltgroep graangewassen, boekweit;<br>
+2° 5% tot 10% Brassica, namelijk boerenkool, raapzaad, gele mosterd en huttentut, mergkool, bladrammenas, radijs;<br>
+3° maximum 35%: zonnebloem, bernagie, vlas, phacelia, voederwikke, witte klaver, rode klaver, dille.<br>
 <br>
 Ter uitvoering van artikel 38, §3, van het voormelde besluit wordt het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, ingezaaid met een minimale zaaidichtheid van 50 kilogram per hectare.<br>
 <br>
-Ter uitvoering van artikel 38, §3, van het voormelde besluit worden de teelten aangehouden tot en met 15 maart na het aflopen van het verbintenisjaar.
+Ter uitvoering van artikel 38, §3, van het voormelde besluit worden de teelten aangehouden tot en met 15 maart na het aflopen van het verbintenisjaar.&nbsp;Het klepelen of maaien van de teelten is tijdens de aanhoudperiode niet toegestaan.
 
 ### ART 8.
 
@@ -146,17 +146,13 @@ Ter uitvoering van artikel 39, §3, van het besluit van 21 april 2023, worden al
 
 ### ART 9.
 
-Ter uitvoering van artikel 40, §3, van het besluit van 21 april 2023, komen de volgende vroegafrijpende rassen van Japanse haver in aanmerking voor de subsidie, vermeld in artikel 40, §1, van het voormelde besluit:<br>
-1° Pratex;<br>
-2° Giraffe.&nbsp;<br>
-<br>
-Ter uitvoering van artikel 40, §3, van het voormelde besluit, komt alleen een mengsel met de vroegafrijpende Japanse haver Pratex of Japanse haver Giraffe in aanmerking voor de subsidie, vermeld in artikel 40, §1, van het voormelde besluit, als het minstens één van de volgende teelten bevat:&nbsp;<br>
+Ter uitvoering van artikel 40, §3, van het voormelde besluit, komt alleen een mengsel met Japanse haver in aanmerking voor de subsidie, vermeld in artikel 40, §1, van het voormelde besluit, als het minstens één van de volgende teelten bevat:&nbsp;<br>
 1° witte klaver;<br>
 2° voederwikke;<br>
 3° zonnebloemen.<br>
 <br>
-Ter uitvoering van artikel 40, §3, van het voormelde besluit, heeft een mengsel met vroegafrijpende Japanse haver Pratex of Giraffe minstens de volgende zaaidichtheid:<br>
-1° minstens 50 kg/ha Japanse haver Pratex of Giraffe;<br>
+Ter uitvoering van artikel 40, §3, van het voormelde besluit, heeft een mengsel met Japanse haver minstens de volgende zaaidichtheid:<br>
+1° minstens 50 kg/ha Japanse haver;<br>
 2° minstens 10 kg/ha witte klaver of 40 kg/ha voederwikke of 10 kg/ha zonnebloemen.<br>
 <br>
 Ter uitvoering van artikel 40, §3, van het voormelde besluit wordt de teelt uiterlijk op 1 augustus van het verbintenisjaar ingezaaid en aangehouden tot 15 maart na het aflopen van het verbintenisjaar.<br>
@@ -165,9 +161,7 @@ Ter uitvoering van artikel 40, §3, van het voormelde besluit, worden na de oogs
 
 ### ART 10.
 
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 6°, a) tot en met d), van het voormelde besluit, over de zaaizaadfacturen van de teelten, vermeld in artikel 3 tot en met 9 van dit besluit, waarvoor een minimale zaaidichtheid wordt opgelegd. De facturen staan op zijn naam.&nbsp;<br>
-<br>
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, &nbsp;beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 6°, d), van het voormelde besluit, over de zaaizaadcertificaten van de ingezaaide Japanse haver, met vermelding van het ras.
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 6°, a) tot en met d), van het voormelde besluit, over de zaaizaadfacturen van de teelten, vermeld in artikel 3 tot en met 8 van dit besluit, waarvoor een minimale zaaidichtheid wordt opgelegd“, en de teelten, vermeld in artikel 9 van dit besluit. De facturen staan op zijn naam.&nbsp;
 
 ## Hoofdstuk 5. De inzaai van meerjarige milieu-, biodiversiteitsvriendelijke of klimaatbestendige teelten
 
@@ -188,7 +182,7 @@ Ter uitvoering van artikel 42, §3, van het voormelde besluit is luzerne aanwezi
 
 ### ART 12.
 
-Ter uitvoering van artikel 43, §3, van het besluit van 21 april 2023, bestaat een graskruidenmengsel uit minstens twee soorten gras en in totaal minstens vijf vlinderbloemigen en kruiden, waarvan minstens twee kruiden en minstens één vlinderbloemige. De vlinderbloemigen en kruiden vormen samen minstens 25% van het gewichtspercentage van het mengsel.<br>
+Ter uitvoering van artikel 43, §3, van het besluit van 21 april 2023, bestaat een graskruidenmengsel uit minstens twee soorten gras en in totaal minstens vijf vlinderbloemigen en kruiden, waarvan minstens twee kruiden en minstens één vlinderbloemige. De vlinderbloemigen en kruiden vormen samen minstens 25% van het gewichtspercentage van het mengsel.&nbsp;De grassen vormen samen minstens 50% van het gewichtspercentage van het mengsel.<br>
 <br>
 Ter uitvoering van artikel 43, §3, van het voormelde besluit, worden alleen de volgende grassen in aanmerking genomen om te voldoen aan de samenstelling van het graskruidenmengsel, zoals vermeld in artikel 43, §1, van het voormelde besluit:<br>
 1° Engels raaigras (Lolium perenne);<br>
@@ -220,7 +214,9 @@ Ter uitvoering van artikel 43, §3, van het voormelde besluit, worden alleen de 
 5° karwij (Carum carvi);<br>
 6° peterselie (Petroselinum crispum);<br>
 7° wilde peen (Daucus carota);<br>
-8° venkel (Foeniculum vulgare).
+8° venkel (Foeniculum vulgare).<br>
+<br>
+Andere grassen, kruiden en vlinderbloemigen, die niet vermeld zijn in het tweede tot en met het vierde lid, maken maximum 25% van het gewichtspercentage uit.
 
 ### ART 13.
 
@@ -266,8 +262,8 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de la
 ### ART 17.
 
 Ter uitvoering van artikel 48, derde lid, van het besluit van 21 april 2023, kunnen alleen de volgende maatregelen gecombineerd worden op een bedrijf:<br>
-1° de maatregel, vermeld in artikel 8, a), 1), van het voormelde besluit en de maatregel, vermeld in artikel 8, a), 4), van het voormelde besluit;<br>
-2° de maatregel, vermeld in artikel 8, a), 1), van het voormelde besluit en de maatregel, vermeld in artikel 8, a), 5), van het voormelde besluit.
+1° de maatregel, vermeld in artikel 3, 8°, a), 1), van het voormelde besluit en de maatregel, vermeld in artikel 3, 8°, a), 4), van het voormelde besluit;<br>
+2° de maatregel, vermeld in artikel 3, 8°, a), 1), van het voormelde besluit en de maatregel, vermeld in artikel 3, 8°, a), 5), van het voormelde besluit.
 
 ### ART 18.
 
@@ -276,31 +272,17 @@ Ter uitvoering van artikel 51, §4, van het besluit van 21 april 2023, wordt 1% 
 
 ### ART 19.
 
-Ter uitvoering van artikel 52, §4, van het besluit van 21 april 2023, moet minstens 60 ppm en maximaal 90 ppm 3-nitro-oxypropanol aan het totale rantsoen op drogestofbasis worden toegevoegd.
+Ter uitvoering van artikel 52, §4, van het besluit van 21 april 2023, moet minstens 1,35 gram 3-nitro-oxypropanol per dier per dag aan het totale rantsoen worden toegevoegd.
 
 ### ART 20.
 
-Ter uitvoering van artikel 53, §4, van het besluit van 21 april 2023, voldoet het veevoeder aan de volgende samenstelling op drogestofbasis:<br>
-1° 34 - 42% maïskuil;<br>
-2° 20 - 24% graskuil;<br>
-3° 4,4 - 5,4% bestendig koolzaadschroot met de volgende samenstelling:<br>
-&nbsp; a) 345,00 - 421,00 gram ruw eiwit per kilogram droge stof;<br>
-&nbsp; b) 36,00 - 44,00 gram ruw vet per kilogram droge stof;<br>
-&nbsp; c) 136,00 - 166,00 gram ruwe celstof per kilogram droge stof;<br>
-4° 3,2 - 4% onbestendig koolzaadschroot met de volgende samenstelling:<br>
-&nbsp; a) 351,00 - 429,00 gram ruw eiwit per kilogram droge stof;<br>
-&nbsp; b) 35,00 - 43,00 gram ruw vet per kilogram droge stof;<br>
-&nbsp; c) 121,00 - 148,00 gram ruw celstof per kilogram droge stof;<br>
-5° 9,9 - 12,1% bierdraf met de volgende samenstelling:<br>
-&nbsp; a) 222,00 - 271,00 gram ruw eiwit per kilogram droge stof;<br>
-&nbsp; b) 88,00 - 107,00 gram ruw vet per kilogram droge stof<br>
-&nbsp; c) 157,00 - 192,00 gram ruwe celstof per kilogram droge stof.
+...
 
 ### ART 21.
 
 Ter uitvoering van artikel 54, §4, van het besluit van 21 april 2023, voldoet het veevoeder aan de volgende samenstelling:<br>
-1° het veevoeder bestaat uit minstens 40% maiskuil en uit maximaal 30% graskuil op drogestofbasis;<br>
-2° aan het krachtvoeder dat aanwezig is in het veevoeder, vermeld in punt 1°, wordt geëxtrudeerd of geëxpandeerd lijnzaad toegevoegd dat zorgt voor een aanlevering van minstens 400,00 gram vet per dag per dier waarvan minimaal 200,00 en maximaal 250,00 gram alfa-linoleenzuur.
+1° ...;<br>
+2° aan het krachtvoeder dat aanwezig is in het veevoeder wordt geëxtrudeerd of geëxpandeerd lijnzaad toegevoegd dat zorgt voor een aanlevering van minstens 400,00 gram vet per dag per dier waarvan minimaal 200,00 en maximaal 250,00 gram alfa-linoleenzuur.
 
 ### ART 22.
 
@@ -320,7 +302,9 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de la
 &nbsp; c) de periode waarin de berekening wordt toegepast;<br>
 2° facturen die op zijn naam staan en die de hoeveelheid en de samenstelling van alle aangekochte veevoeders vermelden.<br>
 <br>
-Als op de facturen, vermeld in het eerste lid, 2°, de samenstelling van het aangekochte veevoeder niet vermeld staat, beschikt de landbouwer bijkomend over ander bewijsmateriaal, zoals een vrachtbrief, etiket of analyse, waaruit die samenstelling duidelijk en ondubbelzinnig blijkt.&nbsp;
+Als op de facturen, vermeld in het eerste lid, 2°, de samenstelling van het aangekochte veevoeder niet vermeld staat, beschikt de landbouwer bijkomend over ander bewijsmateriaal, zoals een vrachtbrief, etiket of analyse, waaruit die samenstelling duidelijk en ondubbelzinnig blijkt.&nbsp;<br>
+<br>
+De voorwaarde, vermeld in het eerste lid, 1°, is niet van toepassing op de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 2), en 4), van het voormelde besluit.
 
 ## Hoofdstuk 7. De aanleg en het onderhoud van een meerjarige bloemenstrook in de fruitteelt
 
@@ -343,7 +327,7 @@ Ter uitvoering van artikel 58, §3, van het voormelde besluit kan de landbouwer 
 <br>
 Ter uitvoering van artikel 59, §3, van het voormelde besluit bedraagt de zaaidichtheid van het bloemenmengsel minstens 20 kilogram bloemenmengsel per hectare.
 
-## Hoofdstuk 8. Het verhogen van het organischekoolstofgehalte van bouwland
+## Hoofdstuk 8. Het verhogen van het organischekoolstofgehalte in de bodem
 
 ### ART 26.
 
@@ -368,9 +352,30 @@ Ter uitvoering van artikel 72, §4, van het besluit van 21 april 2023, voldoet d
 Mengsels met uitwerpselen van pluimvee worden niet beschouwd als stalmest.<br>
 &nbsp;
 
+### ART 28/1.
+
+Ter uitvoering van artikel 73, §3, van het besluit van 21 april 2023, kunnen houtachtige elementen alleen bestaan uit:<br>
+1° heggen;&nbsp;<br>
+2° hagen;<br>
+3° houtkanten;&nbsp;<br>
+4° knotbomen, die deel uitmaken van een beheerovereenkomst voor het beheerpakket knotten als vermeld in artikel 106 van het ministerieel besluit van 14 juni 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor Plattelandsontwikkeling of die deel uitmaken van een beheerovereenkomst voor het beheerpakket onderhoud knotbomenrij als vermeld in artikel 59 van het ministerieel besluit van 3 april 2015 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling;<br>
+5° fruitbomen, sierheesters en producten van boomkweek, die gerooid worden.&nbsp;<br>
+<br>
+De houtsnippers die afkomstig zijn van de houtachtige elementen, vermeld in het eerste lid, moeten ondergewerkt worden.&nbsp;<br>
+<br>
+Ter uitvoering van artikel 73, §4, van hetzelfde besluit leveren de houtachtige elementen volgende hoeveelheden houtsnippers op:&nbsp;<br>
+1° hagen en heggen: 60 kg per lopende meter/jaar;<br>
+2° houtkanten: 60 kg per lopende meter/5 jaar;<br>
+3° knotbomen: 300 kg per boom/5 jaar;<br>
+4° meerjarige hoog- en laagstamfruitteelt: 75000 kg/per hectare;<br>
+5° sierheesters: 3750 kg per hectare/jaar;<br>
+6° boomkweek – laanbomen, fruitbomen: 2400 kg per hectare/jaar;<br>
+7° boomkweek – bos- en haagplanten: 6375 kg per hectare/jaar;<br>
+8° boomkweek – solitaire bomen: 1050 kg/per hectare/jaar.
+
 ### ART 29.
 
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest of champost gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.
 
 ### ART 30.
 
@@ -434,7 +439,7 @@ Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit, zijn 
 	</tbody>
 </table>
 <br>
-Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit zorgt de landbouwer ervoor dat de bodemanalyse uiterlijk op 31 december van het jaar van de verbintenisaanvraag beschikbaar is via het bodempaspoort.<br>
+Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit laat de landbouwer de bodemanalyse uitvoeren bij een laboratorium als vermeld in artikel 74, §2, eerste lid, 4°, dat via een dataplatform dat daarvoor geschikt is, de analyses in kwestie bezorgt aan de bevoegde entiteit door ze ter beschikking te stellen via het bodempaspoort. De landbouwer zorgt ervoor dat de bodemanalyse uiterlijk op 31 december van het jaar van de verbintenisaanvraag beschikbaar is via het bodempaspoort.<br>
 <br>
 In afwijking van het derde lid is de bodemanalyse voor het verbintenisjaar 2023 uiterlijk op 31 maart 2024 beschikbaar via het bodempaspoort.<br>
 &nbsp;
@@ -443,9 +448,9 @@ In afwijking van het derde lid is de bodemanalyse voor het verbintenisjaar 2023 
 
 ### ART 31.
 
-Ter uitvoering van artikel 80, §3, van het besluit van 21 april 2023, bestaat het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1° van het voormelde besluit, uit minstens twee soorten gras en in totaal minstens vijf vlinderbloemigen en kruiden, waarvan minstens twee kruiden en minstens een vlinderbloemige. De vlinderbloemigen en kruiden vormen samen minstens 25% van het gewichtspercentage van het mengsel.<br>
+Ter uitvoering van artikel 80, §3, van het besluit van 21 april 2023, bestaat het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1° van het voormelde besluit, uit minstens twee soorten gras en in totaal minstens vijf vlinderbloemigen en kruiden, waarvan minstens twee kruiden en minstens een vlinderbloemige. De vlinderbloemigen en kruiden vormen samen minstens 25% van het gewichtspercentage van het mengsel.&nbsp;De grassen vormen samen minstens 50% van het gewichtspercentage van het mengsel.<br>
 <br>
-Ter uitvoering van artikel 80, §3, van het voormelde besluit, worden alleen de volgende grassen in aanmerking genomen om te voldoen aan de samenstelling van het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1°, van het voormelde besluit:<br>
+Ter uitvoering van artikel 80, §3, van het voormelde besluit, kunnen alleen de volgende grassen deel uitmaken van het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1°, van het voormelde besluit:<br>
 1° rood zwenkgras (Festuca rubra subsp commutata);<br>
 2° veldbeemdgras (Poa pratensis);<br>
 3° gewoon struisgras (Agrostis capillaris);<br>
@@ -470,11 +475,13 @@ Ter uitvoering van artikel 80, §3, van het voormelde besluit, worden alleen de 
 8° smalle weegbree (Plantago lanceolata);<br>
 9° venkel (Foeniculum vulgare);<br>
 10° wilde chicorei (Cichorium intybus);<br>
-11° wilde peen (Daucus carota).
+11° wilde peen (Daucus carota).<br>
+<br>
+Andere kruiden en vlinderbloemigen, die niet vermeld zijn in het derde en vierde lid, maken maximum 25% van het gewichtspercentage uit.
 
 ### ART 32.
 
-Ter uitvoering van artikel 81, §3, van het besluit van 21 april 2023, &nbsp;moet het bloemenmengsel, vermeld in artikel 81, §2, 1°, van het voormelde besluit, bestaan uit een mengsel van minstens acht verschillende bloeiende kruiden.&nbsp;<br>
+Ter uitvoering van artikel 81, §3, van het besluit van 21 april 2023, &nbsp;moet het bloemenmengsel, vermeld in artikel 81, §2, 1°, van het voormelde besluit, bestaan uit een mengsel van minstens acht verschillende bloeiende kruiden.&nbsp;De voormelde kruiden vormen samen minstens 70% van het gewichtspercentage van het mengsel.<br>
 <br>
 Ter uitvoering van artikel 81, §3, van het voormelde besluit, worden alleen de volgende kruiden in aanmerking genomen om te voldoen aan de samenstelling van het bloemenmengsel, vermeld in artikel 81, §2, 1°, van het voormelde besluit:<br>
 1° duizendblad (Achillea millefolium);<br>
@@ -488,7 +495,12 @@ Ter uitvoering van artikel 81, §3, van het voormelde besluit, worden alleen de 
 9° rode klaver (Trifolium pratense);<br>
 10° venkel (Foeniculum vulgare);<br>
 11° voederwikke (Vicia sativa);<br>
-12° wilde peen (Daucus carota).
+12° wilde peen (Daucus carota);13° knoopkruid (Centaurea jacea);<br>
+14° wilde cichorei (Cichorium intybus);<br>
+15° muskuskaasjeskruid (Malva moschata);<br>
+16° grote kaardebol (Dipsacus fullonum).<br>
+<br>
+Andere kruiden, die niet vermeld zijn in het tweede lid maken maximum 30% van het gewichtspercentage uit. Grassen zijn niet toegelaten.
 
 ## Hoofdstuk 10. Vruchtafwisseling
 
@@ -544,7 +556,7 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, moet de landbo
 
 ### ART 36.
 
-Ter uitvoering van artikel 97, §4, van het besluit van 21 april 2023, worden de bodemanalyses van het organische koolstof-, fosfor- en kaliumgehalte in het bodemstaal, en de bodemanalyses van de zuurtegraad van het bodemstaal uitgevoerd door een laboratorium in de discipline bodem, deeldomein bodembescherming dat conform artikel 6, 5°, c), van het VLAREL van 19 november 2010 erkend is voor de monsternemingen en analyses in kwestie.<br>
+Ter uitvoering van artikel 97, §4, van het besluit van 21 april 2023, worden de bodemanalyses van het organische koolstof-, fosfor- en kaliumgehalte in het bodemstaal, en de bodemanalyses van de zuurtegraad van het bodemstaal uitgevoerd door een laboratorium in de discipline bodem, deeldomein bodembescherming dat conform artikel 6, 5°, c), van het VLAREL van 19 november 2010 erkend is voor de monsternemingen en analyses in kwestie, dat via een dataplatform dat daarvoor geschikt is, de analyses in kwestie bezorgt aan de bevoegde entiteit door ze ter beschikking te stellen via het bodempaspoort.<br>
 <br>
 De landbouwer zorgt ervoor dat de bodemanalyses uiterlijk op 31 december van het jaar van de verbintenisaanvraag beschikbaar zijn via het bodempaspoort.<br>
 <br>
@@ -558,9 +570,7 @@ Ter uitvoering van artikel 99, §4, van het besluit van 21 april 2023, &nbsp;wor
 1° gemiddelde BD100-waarde: de gemiddelde BD100-waarde voor een diercategorie tijdens de referentieperiode; &nbsp;<br>
 2° referentieperiode: de twee jaar die voorafgaan aan de eerste verbintenistermijn.<br>
 <br>
-Ter uitvoering van artikel 99, §4, van hetzelfde besluit wordt bepaald dat, voor iedere diercategorie waarvoor de verbintenis wordt afgesloten, de gemiddelde BD100-waarde hoger moet zijn dan 0.<br>
-<br>
-In afwijking &nbsp;van het tweede lid, &nbsp;worden, als de landbouwer deelneemt aan de maatregel voor minstens een van de categorieën, vermeld in artikel 99, §1, tweede lid, 1° tot en met 4°, de gemiddelde BD100-waardes die gelijk zijn aan 0 voor één of meer van de categorieën waarvoor hij de verbintenis aangaat, op 0,01 gebracht voor deze maatregel, op voorwaarde dat hij voor minstens een van die categorieën waarvoor hij de verbintenis aangaat een gemiddelde BD100-waarde heeft van meer dan 0.
+Ter uitvoering van artikel 99, §4, van hetzelfde besluit wordt bepaald dat, voor iedere diercategorie waarvoor de verbintenis wordt afgesloten, de gemiddelde BD100-waarde hoger moet zijn dan 0.
 
 ## Hoofdstuk 14. Wijze van uitwisseling van berichten
 
@@ -596,16 +606,18 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toepassing van de biologische productiemethode;</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">/</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">400 euro per hectare voor de eerste 5 hectare;&nbsp;<br>
+			130 euro per hectare voor de volgende 70 hectare;<br>
+			65 euro per hectare voor de volgende hectaren&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het ecologische beheer van grasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">360 euro per hectare<br>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">390 euro per hectare<br>
 			&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">bijkomende subsidie begrazing</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">120 euro per hectare</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">130 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het behoud van meerjarig grasland</td>
@@ -624,9 +636,9 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">eenjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">teelten die&nbsp; niet geoogst worden: 720 euro per hectare<br>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">teelten die&nbsp; niet geoogst worden: 780 euro per hectare<br>
 			<br>
-			teelten die geoogst worden: 276 euro per hectare</td>
+			teelten die geoogst worden: 299&nbsp;euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">eenjarige faunavriendelijke teelten:</td>
@@ -634,11 +646,11 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">zomergraan;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">420 euro per hectare</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">455&nbsp;euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">faunamengsel;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1800 euro per hectare</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1950 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">verlengde voorjaarsbraak;</td>
@@ -653,30 +665,42 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">voor melkvee:</td>
+			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">Voor melkvee:</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px"><br>
 			<br>
 			&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van nitraat;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">5 cent per dier per dag</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 5 cent per dier per dag&nbsp;<br>
+			2024: 12 cent per dier per dag<br>
+			2025: 10 cent per dier per dag<br>
+			2026: 8 cent per dier per dag<br>
+			2027: 7 cent per dier per dag</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van 3-nitro-oxypropanol (3-NOP);</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">8,5 cent per dier per dag</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van koolzaadschroot in combinatie met bierdraf;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">10 cent per dier per dag</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 8.5 cent per dier per dag&nbsp;<br>
+			2024: 22 cent per dier per dag<br>
+			2025: 21cent per dier per dag<br>
+			2026: 16 cent per dier per dag<br>
+			2027: 12 cent per dier per dag</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van geëxtrudeerd of geëxpandeerd lijnzaad;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">10 cent per dier per dag</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 10 cent per dier per dag&nbsp;<br>
+			2024: 14 cent per dier per dag<br>
+			2025: 13 cent per dier per dag<br>
+			2026: 9 cent per dier per dag<br>
+			2027: 8 cent per dier per dag</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van koolzaadvet;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">10 cent per dier per dag</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 10 cent per dier per dag&nbsp;<br>
+			2024: 30 cent per dier per dag<br>
+			2025: 27 cent per dier per dag<br>
+			2026: 19 cent per dier per dag<br>
+			2027: 16 cent per dier per dag</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">voor vleesvee:</td>
@@ -684,21 +708,25 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">toevoeging van nitraat;</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">5 cent per dier per dag</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 5 cent per dier per dag&nbsp;<br>
+			2024: 12 cent per dier per dag<br>
+			2025: 10 cent per dier per dag<br>
+			2026: 8 cent per dier per dag<br>
+			2027: 7 cent per dier per dag</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het verhogen van het organischekoolstofgehalte van bouwland:</td>
+			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het verhogen van het organischekoolstofgehalte in de bodem</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het verhogen van het organischekoolstofgehalte via het teeltplan;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">toediening van in totaal gemiddeld 1250 kg organische koolstof: 84 euro per hectare<br>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">toediening van in totaal gemiddeld 1250 kg organische koolstof: 91&nbsp;euro per hectare<br>
 			<br>
-			toediening van in totaal gemiddeld 1300 kg organische koolstof: 120 euro per hectare<br>
+			toediening van in totaal gemiddeld 1300 kg organische koolstof: 130 euro per hectare<br>
 			<br>
-			toediening van in totaal gemiddeld 1350 kg organische koolstof: 156 euro per hectare<br>
+			toediening van in totaal gemiddeld 1350 kg organische koolstof: 169&nbsp;euro per hectare<br>
 			<br>
-			toediening van in totaal gemiddeld 1400 kg organische koolstof: &nbsp;175 euro per hectare</td>
+			toediening van in totaal gemiddeld 1400 kg organische koolstof:&nbsp; 208&nbsp;euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toevoeging van producten met een hoog koolstofgehalte:</td>
@@ -709,14 +737,14 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">130 euro per hectare</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het gebruik van stalmest;</td>
+			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het gebruik van stalmest of champost;</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">2023: 72 euro per hectare<br>
-			2024 en 2025: 60 euro per hectare<br>
-			Vanaf 2026: 48 euro per hectare</td>
+			2024 en 2025: 65&nbsp;euro per hectare<br>
+			Vanaf 2026: 52&nbsp;euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het gebruik van houtsnippers;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">482 euro per hectare</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">782 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het bereiken van de streefzone voor het organischekoolstofgehalte en de zuurtegraad van de bodem;</td>
@@ -747,7 +775,7 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1751 euro per hectare</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toepassing van erosiebestrijdende teelttechnieken:</td>
+			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toepassing van erosiebestrijdende en bodemverbeterende&nbsp;teelttechnieken:</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -756,7 +784,7 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toepassing van niet-kerende bodembewerking met bodembedekking;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">72 euro per hectare</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">86 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het vollevelds inzaaien van maïs;</td>
@@ -772,15 +800,39 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">precisielandbouw via automatische (RTK-)gps-aansturing;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">/</td>
+			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">automatische gps-aansturing en één van de middelen:<br>
+			eerste 10 hectaren: 66 euro per hectare<br>
+			volgende 10 hectaren: 38,5 euro per hectare<br>
+			volgende 80 hectaren: 7,7 euro per hectare<br>
+			<br>
+			automatische gps-aansturing en beiden middelen:<br>
+			eerste 10 hectaren: 82,5 euro per hectare<br>
+			volgende 10 hectaren: 55 euro per hectare<br>
+			volgende 80 hectaren: 11 euro per hectare<br>
+			<br>
+			automatische RTK-gps-aansturing en één van de middelen:<br>
+			eerste 10 hectaren: 82,5 euro per hectare<br>
+			volgende 10 hectaren: 55 euro per hectare<br>
+			volgende 80 hectaren: 11 euro per hectare<br>
+			<br>
+			automatische gps-aansturing en beiden middelen:<br>
+			eerste 10 hectaren: 99 euro per hectare<br>
+			volgende 10 hectaren: 71,5 euro per hectare<br>
+			volgende 80 hectaren: 16,5 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">precisielandbouw door opmaak van een taakkaart en plaatsspecifieke bekalking;</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">120 euro per hectare</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">130 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">het actieve gebruik van het bodempaspoort.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">/</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">0-20 ha: 19,50 euro per hectare<br>
+			20-45 ha: 13 euro per hectare<br>
+			45-100 ha: 6,5 euro per hectare&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">De toepassing van mechanische onkruidbestrijding</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">318 euro per hectare&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
