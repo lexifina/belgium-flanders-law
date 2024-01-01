@@ -2,16 +2,16 @@
   "codex_id": 1038294,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 tot toekenning van subsidies voor sensibiliseringsacties om duurzame landbouw te bevorderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038294/VolledigDocument?datum=2023-04-21",
-  "source_sha256": "4422a11855f8b4828f8bcefc07acaa9f9bbcc6e696d27a9832482ea1169ac13f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038294/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "b88fabd19e22bfbb0f078d64af35440875551913131189b808213a7a6730fdea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038294&param=informatie",
-  "as_of": "2023-04-21",
+  "as_of": "2024-01-01",
   "made": "2023-04-21",
   "gazette": "2023-05-30",
   "numac": 2023042450,
   "document_start": "2023-04-21",
   "document_end": null,
-  "in_force": "2023-04-21",
+  "in_force": "2024-01-01",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2023-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
 }
