@@ -124,6 +124,10 @@ d) ze hebben het label `Toerisme voor Allen' ontvangen conform het decreet van 5
 
 ## HOOFDSTUK 5. Slotbepalingen
 
+### ART 16.
+
+Het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen", gewijzigd bij de decreten van 13 juli 2007 en 10 juli 2008, wordt opgeheven.
+
 ### ART 17.
 
 § 1. De toeristische logiezen die, op de datum van de inwerkingtreding van artikel 2 van dit decreet, in het kader van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen" als verblijf erkend zijn en ingedeeld zijn in de categorie jeugdverblijfcentrum, zijn van rechtswege aangemeld in het kader van het decreet van 5 februari 2016 houdende het toeristische logies.<br>
