@@ -43,6 +43,14 @@ De premiebedragen, vermeld in artikel 4 en 5 van het decreet van 15 juli 2022, k
 2° de evolutie van het gewaarborgd gemiddeld minimummaandinkomen, vermeld in artikel 3, eerste lid, van de cao nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen;<br>
 3° de aanpassing van het bedrag van de jobbonus, vermeld in artikel 5, §1, van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus.
 
+## Hoofdstuk 2/1. Aanpassing van de premiebedragen
+
+### ART 2/1.
+
+In afwijking van artikel 4 van het decreet van 15 juli 2022 wordt een jobbonus plus van 650 euro toegekend aan de natuurlijke persoon die vanaf 1 januari 2024 start als zelfstandige in hoofdberoep en die voldoet aan de voorwaarden, vermeld in artikel 4 van het voormelde decreet.<br>
+<br>
+In afwijking van artikel 5 van het decreet van 15 juli 2022 wordt een aanvullende jobbonus plus van 650 euro toegekend aan de natuurlijke persoon die op zijn vroegst op 1 januari 2024 is gestart als zelfstandige in hoofdberoep en die voldoet aan de voorwaarden, vermeld in artikel 5 van het voormelde decreet.
+
 ## Hoofdstuk 3. Procedure tot automatische toekenning van de jobbonus plus
 
 ### ART 3.
