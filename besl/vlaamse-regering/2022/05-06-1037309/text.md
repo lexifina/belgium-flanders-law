@@ -34,7 +34,7 @@ Dit besluit voorziet in de uitvoering van verordening (EG) nr. 589/2008 van de C
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° eieren: eieren in de schaal - met uitzondering van gebroken eieren, bebroede eieren en gekookte eieren - die zijn gelegd door kippen van de soort Gallus gallus en die geschikt zijn voor directe menselijke consumptie of voor de bereiding van eiproducten;<br>
 3° houderijmethode: een van de houderijmethodes die vermeld worden in artikel 12, lid 2, en bijlage II, van verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren;<br>
 4° leghennenbedrijf: een inrichting die voldoet aan al de volgende voorwaarden:<br>
