@@ -47,65 +47,60 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° de   minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de   Zeevisserij;<BR>2° de beheersdienst : het Departement Landbouw en Visserij van   het Vlaams Ministerie van Landbouw en Visserij;<BR>3° het land- of   tuinbouwbedrijfshoofd : de natuurlijke persoon of rechtspersoon die een land- of   tuinbouwbedrijf uitbaat;<BR>4° de adviesdienst : een door de minister erkende   dienst voor de adviezen in het kader van het   bedrijfsadviessysteem.<BR><BR>
+...
 
 ### ART. 1/1.
 
-Het hoofd van de beheersdienst kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de   beheersdienst vallen, subdelegeren aan personeelsleden van het departement die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK II Adviessubsidie
 
 ### ART. 2.
 
-Binnen de perken van de daartoe goedgekeurde begrotingskredieten kan de minister volgens de voorwaarden, vastgesteld bij dit besluit, een subsidie verlenen voor bedrijfsadvies aan een land- of tuinbouwbedrijfshoofd dat hiervoor een aanvraag heeft ingediend bij de beheersdienst en dat geadviseerd werd door een door de minister erkende adviesdienst.<br /><br />
+...
 
 ### ART. 3.
 
-De verschillende adviesonderwerpen die voor subsidie in aanmerking komen, worden door de minister bepaald. De adviesonderwerpen worden in adviesmodules onderverdeeld. De minister bepaalt de voorwaarden waaraan de adviezen, de adviesdiensten en de adviesaanvragen moeten voldoen, evenals de voorwaarden waaraan de aanvraag tot subsidiëring van deze adviezen moet voldoen.  De minister zal de parameters bepalen waaraan een bedrijfseconomische boekhouding moet voldoen.
+...
 
 ### ART. 4.
 
-Een land- of tuinbouwbedrijfshoofd dat de subsidie, vermeld in artikel 2,   wil ontvangen vraagt de adviezen over alle voor zijn bedrijf relevante modules   aan bij dezelfde adviesdienst. Indien de adviesdiensten voor de adviezen over   bepaalde modules een beroep doen op onderaanneming, worden deze onderaannemers   niet afzonderlijk door de minister erkend. De bedrijfsadviesdienst blijft   verantwoordelijk voor de adviezen over alle modules.<BR><BR>Een land- of   tuinbouwbedrijfshoofd heeft twee jaar de tijd om :<BR>1° zich aan te   melden;<BR>2° de voor zijn bedrijf relevante adviezen in te winnen;<BR>3° zijn   subsidieaanvraag in te dienen.<BR><BR>In afwijking van het tweede lid, heeft het   land- en tuinbouwbedrijfshoofd dat zich na 30 september 2013 bij de   beheersdienst aanmeldt, tijd tot uiterlijk 30 september 2015 om de relevante   adviezen in te winnen en zijn subsidieaanvraag in te   dienen.<BR><BR>
+...
 
 ### ART. 5.
 
-Een land- of tuinbouwbedrijfshoofd kan elke drie jaar een subsidie, als vermeld in artikel 2, aanvragen waarbij telkens de datum van de ondertekening van het eerste aanmeldingsformulier dat aan de beheersdienst bezorgd is, als start van de driejarige periode geldt.<br /><br />
+...
 
 ### ART. 6.
 
-Een land- of tuinbouwbedrijfshoofd kan zich vanaf 1 januari 2007 tot   uiterlijk 31 december 2013 aanmelden bij de beheersdienst.<BR><BR>
+...
 
 ## HOOFDSTUK III Erkenning van de adviesdiensten
 
 ### ART. 7.
 
-De minister erkent de adviesdiensten op voorstel van de beheersdienst.<br>
-<br>
-Een adviesdienst wordt erkend om advies te verlenen over alle modules.<br>
-<br>
-Instanties als vermeld in artikel I.3 van het bestuursdecreet van 7 december 2018, kunnen niet erkend worden als adviesdienst.<br>
-&nbsp;
+...
 
 ### ART. 8.
 
-Om door de minister erkend te worden moet de adviesdienst :<BR>1° een   aanvraag indienen;<BR>2° een zetel of plaats van activiteit in het Vlaamse   Gewest hebben of een belangrijk aandeel van de klanten moet zich in het Vlaamse   Gewest bevinden;<BR>3° de administratieve en financiële controle van de   beheersdienst en de Europese Commissie aanvaarden;<BR>4° ervaren en betrouwbaar   zijn;<BR>5° over een administratieve uitrusting beschikken die hem in staat   stelt alle nodige gegevens op papier en op elektronische drager aan de klant en   de beheersdienst ter beschikking te stellen;<BR>6° aantonen dat hij over een   voldoende technische uitrusting beschikt om over alle modules adviezen te   verstrekken;<BR>7° aantonen dat hij over voldoende expertise beschikt om alle   modules te kunnen adviseren doordat hij adviseurs in dienst heeft die een hogere   studie over de adviesonderwerpen hebben gevolgd of die beschouwd kunnen worden   als gelijkwaardig door de ervaring die ze hebben opgebouwd of samen met de   aanvraag een kopie bezorgen aan de beheersdienst van de overeenkomst die   afgesloten werd met een onderaannemer voor de advisering van bepaalde   modules.<BR><BR>
+...
 
 ## HOOFDSTUK IV Rapportering van de adviesdiensten aan de beheersdienst
 
 ### ART. 9.
 
-De beheersdienst kan op elk moment om het even welke selectie van adviezen opvragen bij de adviesdienst. De adviesdienst krijgt tien werkdagen de tijd om die digitaal aan de beheersdienst te bezorgen.<br /><br />
+...
 
 ## HOOFDSTUK V Overgangsmaatregelen
 
 ### ART. 10.
 
-Aan land- of tuinbouwbedrijfshoofden die al van een subsidie bedrijfsleidingsadvies genieten in het kader van het besluit van de Vlaamse Regering van 24 februari 2006 betreffende de toekenning van subsidies aan de land- en tuinbouwbedrijfshoofden die een beroep doen op een bedrijfsleidingsdienst, of die al een subsidie voor milieuadvies genieten in het kader van het besluit van de Vlaamse Regering van 12 maart 2004 betreffende de toekenning van subsidies aan bedrijfsleidingsdiensten voor het milieukundig adviseren van land- en tuinbouwbedrijven, kan de subsidie, vermeld in artikel 2, verleend worden als het land- of tuinbouwbedrijfshoofd zijn overeenkomsten in het kader van de hierboven vermelde subsidieregelingen heeft opgezegd in afwijking van artikel 1 van bijlage I en in afwijking van artikel 1 van bijlage III van de respectieve besluiten.<br /><br />De subsidie, vermeld in artikel 2, kan niet verleend worden als het voorgelegde advies gebaseerd is op bedrijfseconomische of milieugegevens die bijgehouden werden tijdens een bepaald boekjaar, en er voor hetzelfde boekjaar al een subsidie werd verleend in het kader van de in het eerste lid vermelde besluiten.<br /><br />
+...
 
 ### ART. 11.
 
-De subsidie, vermeld in artikel 2, kan worden geweigerd aan land- of tuinbouwbedrijfshoofden die een verklaring hebben afgelegd die, na onderzoek, geheel of gedeeltelijk vals blijkt te zijn.<br /><br />De erkende adviesdienst die niet meer voldoet aan de erkenningscriteria of die een verklaring heeft afgelegd die, na onderzoek, geheel of gedeeltelijk vals blijkt te zijn, of die het advies niet verleent en niet rapporteert overeenkomstig de bepalingen van dit besluit, kan, afhankelijk van de ernst en het karakter van de inbreuk, worden gesanctioneerd door de beheersdienst. Bij een eerste inbreuk kan de erkenning van de adviesdienst geschorst worden, bij recidive kan de erkenning van de adviesdienst ingetrokken worden. De adviesdiensten zullen steeds gehoord worden vooraleer tot een sanctie wordt overgegaan.<br /><br />
+...
 
 ### ART. 12.
 
-De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
