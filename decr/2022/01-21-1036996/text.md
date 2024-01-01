@@ -891,7 +891,7 @@ De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de scheepvaartpolit
 <br>
 Hoofdstuk 5 van voormeld kaderdecreet is van toepassing, met dien verstande dat het bedrag van de onmiddellijke inning, vermeld in artikel 32 van dit kaderdecreet, gelijk is aan 200 euro voor natuurlijke personen en 1250 euro voor rechtspersonen.<br>
 <br>
-Bestuurlijke geldelijke sancties worden geïnd en ingevorderd ten voordele van het Vlaams Infrastructuurfonds. In de mate dat zij werden opgelegd door De Vlaamse Waterweg nv als beboetingsinstantie, worden zij evenwel geïnd en ingevorderd ten voordele van De Vlaamse Waterweg nv. In de mate dat zij werden opgelegd door de beboetingsinstantie, vermeld in artikel 135, tweede lid, worden zij geïnd en ingevorderd ten voordele van de stad Antwerpen.<br>
+Bestuurlijke geldelijke sancties worden geïnd en ingevorderd ten voordele van het Vlaamse Gewest. In de mate dat zij werden opgelegd door De Vlaamse Waterweg nv als beboetingsinstantie, worden zij evenwel geïnd en ingevorderd ten voordele van De Vlaamse Waterweg nv. In de mate dat zij werden opgelegd door de beboetingsinstantie, vermeld in artikel 135, tweede lid, worden zij geïnd en ingevorderd ten voordele van de stad Antwerpen.<br>
 <br>
 In afwijking van artikel 70 van voormeld kaderdecreet, is de Vlaamse Belastingdienst niet betrokken bij de uitvoering van bestuurlijke sancties, opgelegd door de beboetingsinstantie, vermeld in artikel 135, tweede lid.
 
