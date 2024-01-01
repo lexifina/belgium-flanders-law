@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039338,
+  "title": "Besluit van de Vlaamse Regering van 2024-01-26 tot verlening van financiële noodhulp aan de landbouwsectoren die worden getroffen door specifieke problemen die een impact hebben op de economische levensvatbaarheid van landbouwproducenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039338/VolledigDocument?datum=2024-01-01",
+  "source_sha256": "8bd79ee1e2c51b4d078a103a3e580fa867d3b53a820593813f5c18b317a15b87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039338&param=informatie",
+  "as_of": "2024-01-01",
+  "made": "2024-01-26",
+  "gazette": "2024-02-09",
+  "numac": 2024001180,
+  "document_start": "2024-01-01",
+  "document_end": null,
+  "in_force": "2024-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
