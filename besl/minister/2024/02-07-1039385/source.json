@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039385,
+  "title": "Ministerieel besluit van 2024-02-07 tot rechtstreekse delegatie van sommige beslissingsbevoegdheden aan personeelsleden van het agentschap Wegen en Verkeer",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039385/VolledigDocument?datum=2024-01-02",
+  "source_sha256": "bafb0398eb196c348db6ede7ff57edbff236afb4bbf5558e410850e73d791d1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039385&param=informatie",
+  "as_of": "2024-01-02",
+  "made": "2024-02-07",
+  "gazette": "2024-02-21",
+  "numac": 2024001509,
+  "document_start": "2024-01-02",
+  "document_end": null,
+  "in_force": "2024-01-02",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
