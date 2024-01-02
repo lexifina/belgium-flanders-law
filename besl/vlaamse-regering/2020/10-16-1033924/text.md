@@ -74,7 +74,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 13.
 
-In afwijking van artikel 6bis van het besluit van 24 juli 1991 beslist de Vlaamse toeleidingscommissie in de gevallen, vermeld in artikel 2, § 2bis, van het voormelde besluit, binnen dertig dagen na de dag waarop de aanvrager de aanvraag tot ondersteuning of de aanvraag tot herziening, vermeld in artikel 1bis, § 1, van het besluit van 24 juli 1991, heeft ingediend, over de vereiste ondersteuning conform de gegevens die zijn opgenomen in de documenten, vermeld in het voormelde artikel 2, § 2bis, en op basis van de gegevens, vermeld in het multidisciplinaire verslag.
+...
 
 ### ART 14.
 
