@@ -247,7 +247,7 @@ Om in aanmerking te komen voor subsidiëring, moet het VIVEL:<br>
 
 ### ART 15.
 
-§ 1. Binnen de beschikbare begrotingskredieten ontvangt het VIVEL voor de opdrachten, vermeld in artikel 2, een subsidie, jaarlijks vast te stellen, van maximaal 2.269.385,00 euro.<br>
+§ 1. Binnen de beschikbare begrotingskredieten ontvangt het VIVEL voor de opdrachten, vermeld in artikel 2, een subsidie, jaarlijks vast te stellen, van maximaal&nbsp;1.919.385,00 euro.<br>
 &nbsp;<br>
 Het maximale subsidiebedrag, vermeld in het eerste lid, kan naar beneden worden bijgesteld wanneer uit het financiële verslag, vermeld in artikel 18, of uit de opbouw van dereserves, vermeld in artikel 19, het maximale subsidiebedrag te hoog wordt geraamd en is bijstelbaar in functie van eventuele begrotingsmaatregelen.<br>
 <br>
@@ -262,7 +262,7 @@ Er is een voorafgaande goedkeuring van de administratie vereist voor de vergoedi
 2° de reis- en verblijfskosten van buitenlandse deskundigen;<br>
 3° de kosten die verbonden zijn aan leningen.<br>
 <br>
-§ 2. Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, wordt opgesplitst in een personeelssubsidie van 1.588.570,00 euro en een werkingssubsidie van 680.815,00 euro.<br>
+§ 2. Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, wordt opgesplitst in een personeelssubsidie van&nbsp;1.343.569,50 euro en een werkingssubsidie van 575.815,50 euro.<br>
 <br>
 Het subsidiebedrag voor het werkingsjaar 2022, vermeld in paragraaf 1, derde lid, wordt opgesplitst in een personeelssubsidie van 1.313.693,64 euro en een werkingssubsidie van 875.795,76 euro.
 
