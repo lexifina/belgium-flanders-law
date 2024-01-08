@@ -35,7 +35,7 @@ Conform artikel 12.6.1, § 1 van het Energiedecreet van 8 mei 2009 en artikel 5.
 
 ### ART 2.
 
-Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, dat is opgericht bij het besluit van de Vlaamse regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, hierna agentschap genoemd, wordt conform artikel 12.6.1, § 2, eerste lid van het Energiedecreet en artikel 5.75/1, § 2 van de Vlaamse Codex Wonen van 2021, belast met de behandeling en verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
+Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen dat is opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, hierna agentschap genoemd, wordt conform artikel 12.6.1, § 2, eerste lid van het Energiedecreet en artikel 5.75/1, § 2 van de Vlaamse Codex Wonen van 2021, belast met de behandeling en verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
 <br>
 De elektriciteitsdistributienetbeheerders of hun werkmaatschappij staan mee in voor de behandeling en de verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
 <br>

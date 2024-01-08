@@ -2,16 +2,16 @@
   "codex_id": 1036998,
   "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot oprichting van een uniek loket voor de aanvraag en behandeling van bepaalde woon- en energiepremies en tot wijziging van het Energiebesluit van 19 november 2010 en het Besluit Vlaamse Codex Wonen van 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036998/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "dd2ef84c2835a2e679825a37e08a62bf953bdc059e6410ef44a3a223c35a094b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036998/VolledigDocument?datum=2024-01-08",
+  "source_sha256": "c9070390c054ee199b62f676ba57b97b23391ae85be7a3120238b4101cc5b171",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036998&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-01-08",
   "made": "2022-02-04",
   "gazette": "2022-05-06",
   "numac": 2022020665,
   "document_start": "2022-07-01",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2024-01-08",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-01-08; future article versions excluded; article text as the API gives it"
 }
