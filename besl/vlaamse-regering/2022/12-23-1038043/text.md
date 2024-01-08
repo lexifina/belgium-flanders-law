@@ -20,6 +20,22 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 5.189 van het Besluit Vlaamse Codex Wonen van 2021, vervangen bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt paragraaf 9 vervangen door wat volgt:<br>
+<br>
+“§9. Voor de werkzaamheden, vermeld in paragraaf 2, die worden uitgevoerd in een appartementsgebouw en betrekking hebben op de gemeenschappelijke delen, kan de aanvrager een tegemoetkoming aanvragen conform artikel 5.191, §5. Paragraaf 6, tweede lid, is niet van toepassing op het in aanmerking te nemen investeringsbedrag van de werkzaamheden die worden uitgevoerd aan de gemeenschappelijke delen.".
+
+### ART 2.
+
+In artikel 5.191 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt paragraaf 5 vervangen door wat volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“§5. Als de tegemoetkoming die overeenkomstig dit hoofdstuk wordt verleend betrekking heeft op werkzaamheden, vermeld in artikel 5.189, §2, die worden uitgevoerd aan de gemeenschappelijke delen in een appartementsgebouw, dient eerst de vereniging van mede-eigenaars de aanvraag in bij het unieke loket. De vereniging van mede-eigenaars voegt alle facturen bij de aanvraag die betrekking hebben op de werkzaamheden, vermeld in artikel 5.189, §2, die worden uitgevoerd aan de gemeenschappelijke delen en die niet dateren van meer dan twee jaar voor de aanvraagdatum, noch van na de aanvraagdatum van de aanvraag van de vereniging van mede-eigenaars.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als er voor het appartementsgebouw geen vereniging van mede-eigenaars werd opgericht, wordt de aanvraag, vermeld in het eerste lid, ingediend door één individuele investeerder, vermeld in artikel 1.1.1, §2, 55/1° van het Energiebesluit van 19 november 2010, samen met het schriftelijk akkoord van alle eigenaars van het appartementsgebouw. &nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Na ontvangst van de aanvraag, vermeld in het eerste lid, meldt het unieke loket aan de vereniging van mede-eigenaars of aan de investeerder, vermeld in het tweede lid, dat de aanvrager voor de werkzaamheden, vermeld in het eerste lid, een aanvraag kan indienen volgens dit hoofdstuk. De aanvrager kan uiterlijk twee jaar na de datum van deze melding een aanvraag indienen bij het unieke loket voor de werkzaamheden aan de gemeenschappelijke delen in een appartementsgebouw waar de premiewoning deel van uitmaakt. Deze aanvraag zal gekoppeld worden aan de aanvraag, vermeld in het eerste lid. In afwijking van paragraaf 1, zal de tegemoetkoming die wordt toegekend aan de aanvrager, voor de werkzaamheden, vermeld in het eerste lid, die worden uitgevoerd aan de gemeenschappelijke delen, berekend worden op basis van de in aanmerking genomen facturen, gevoegd bij de aanvraag, vermeld in het eerste lid. De tegemoetkoming die wordt toegekend aan de aanvrager, wordt beperkt overeenkomstig het proportionele aandeel dat de premiewoning heeft in de gemeenschappelijke delen van het appartementsgebouw. Artikel 5.189, §6, tweede lid is van overeenkomstige toepassing op het proportioneel in aanmerking genomen investeringsbedrag. De tegemoetkoming wordt vervolgens verminderd met het proportionele aandeel voor die premiewoning in de gemeenschappelijke delen van het appartementsgebouw, in de premies, vermeld in artikel 6.4.1/1 van het Energiebesluit van 19 november 2010, voor die betreffende werkzaamheden aan de gemeenschappelijke delen, die overeenkomstig artikel 6.4.1/2, 1°, van het Energiebesluit van 19 november 2010, werden toegekend aan de vereniging van mede-eigenaars of de investeerder, vermeld in het tweede lid. De minister bepaalt welk bewijsstuk de aanvrager moet voorleggen om het aandeel van de premiewoning in de gemeenschappelijke delen van het appartementsgebouw te kunnen bepalen.”.
+
 ### ART 4.
 
 In artikel 6.3/1, § 1, van het besluit Vlaamse Codex Wonen van 2021, &nbsp;ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
