@@ -102,7 +102,13 @@ Het Fonds kan gespijsd worden door:<BR><BR>1° dotaties van de algemene   uitgav
 
 ### ART. 19.
 
-De middelen van het Fonds kunnen aangewend worden voor de gehele of   gedeeltelijk financiering van:<BR>1° de vrijwillige en ambtshalve uitvoering van   bodemonderzoeken en bodemsaneringen op verontreinigde terreinen, met inbegrip   van de verwerving van de bedoelde terreinen; <BR>2° toelagen voor de sanering   van terreinen;<BR>3° het ambtshalve inzamelen, vervoeren en verwerken van   afvalstoffen;<BR>4° aanvullende uitgaven die betrekking hebben op de uitgaven   vermeld onder 1°, 2° en 3° van dit artikel.<BR><BR>Het Vlaams Parlement bepaalt   elk jaar via het decreet houdende de begroting van de Vlaamse Gemeenschap het   bedrag aan vastleggingskredieten en ordonnanceringskredieten die voor het Fonds   in de begroting van OVAM worden ingeschreven en de aard van de uitgaven.
+De middelen van het Fonds kunnen aangewend worden voor de gehele of gedeeltelijk financiering van:<br>
+1° de vrijwillige en ambtshalve uitvoering van bodemonderzoeken en bodemsaneringen op verontreinigde terreinen, met inbegrip van de verwerving van de bedoelde terreinen;<br>
+2° toelagen voor de sanering van terreinen;<br>
+3° het vrijwillig en ambtshalve wegnemen, inzamelen, vervoeren en verwerken van materialen;<br>
+4° aanvullende uitgaven die betrekking hebben op de uitgaven vermeld onder 1°, 2° en 3° van dit artikel.<br>
+<br>
+Het Vlaams Parlement bepaalt elk jaar via het decreet houdende de begroting van de Vlaamse Gemeenschap het bedrag aan vastleggingskredieten en ordonnanceringskredieten die voor het Fonds in de begroting van OVAM worden ingeschreven en de aard van de uitgaven.
 
 ### ART. 20.
 
