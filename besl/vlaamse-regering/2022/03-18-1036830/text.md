@@ -124,7 +124,9 @@ Er zijn afwijkingen toegestaan op de vereisten en normen, vermeld in bijlage 4 e
 <br>
 De afwijkingen, vermeld in het eerste lid, zijn ook van toepassing op de zelfstandige woningen, op de gemeenschappelijke delen, vermeld in artikel 1.2, eerste lid, 44° tot en met 48° van het Besluit Vlaamse Codex Wonen van 2021 en op de kamers die ontstaan door de tijdelijke opsplitsing van een zelfstandige woning met het oog op de huisvesting van tijdelijk ontheemden uit Oekraïne.<br>
 <br>
-De afwijkingen, vermeld in het eerste lid, wijzigen op geen enkele manier de beoordeling van overbewoning als vermeld in artikel 3.24 van de Vlaamse Codex Wonen van 2021.
+De afwijkingen, vermeld in het eerste lid, wijzigen op geen enkele manier de beoordeling van overbewoning als vermeld in artikel 3.24 van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De afwijkingen, vermeld in het eerste lid, zijn niet van toepassing bij de beoordeling van de aanvragen van tegemoetkomingen, vermeld in boek 5, deel 5, van het Besluit Vlaamse Codex Wonen van 2021.
 
 ### ART 9.
 
