@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039267,
+  "title": "Ministerieel besluit van 2024-01-11 houdende de interne administratieve overdracht van een onroerend goed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039267/VolledigDocument?datum=2024-01-11",
+  "source_sha256": "d623aeb16994370c5ab344a49e3ed03b902816f0c8900af90087df9e9623f4ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039267&param=informatie",
+  "as_of": "2024-01-11",
+  "made": "2024-01-11",
+  "gazette": "2024-01-30",
+  "numac": 2024000648,
+  "document_start": "2024-01-11",
+  "document_end": null,
+  "in_force": "2024-01-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-01-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
