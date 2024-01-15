@@ -22,13 +22,21 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 Artikel 4, 6 en 77 tot en met 80 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de volgende bepalingen:<br>
+1° titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 2° hoofdstuk V van het decreet van 29 maart 2002 tot bescherming van varend erfgoed;&nbsp;<br>
 3° titel VI van de Vlaamse Codex Ruimtelijke Ordening;<br>
 4° hoofdstuk 11 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-5° boek 1, deel 3, en boek 3, deel 9, van de Vlaamse Codex Wonen van 2021.
+5° boek 1, deel 3, en boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
+6° titel 6 van het Scheepvaartdecreet van 21 januari 2022.
 
 ### ART 2.
 
+Voor de bepalingen, vermeld in artikel 1, 1°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
+1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 16.3.23 tot en met 16.3.24bis, 16.5.9 en 16.5.10 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;&nbsp;<br>
+2° de kennisgevingen van de bestuurlijke vervolging, vermeld artikel 16.4.36 §1, en artikel 16.4.41, §1, van het voormelde decreet;<br>
+3° de voorstellen tot betaling van een geldsom, vermeld in artikel 16.4.36, §3, en artikel 16.4.41, §2, van het voormelde decreet;<br>
+4° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 16.4.37 en 16.4.43 van het voormelde decreet.<br>
+<br>
 Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een alternatieve of exclusieve bestuurlijke geldboete of van het voorstel tot betalen van een geldsom in de zin van artikel 16.4.36 &nbsp;en 16.4.41 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;
 
 ### ART 3.
@@ -66,6 +74,12 @@ Voor de bepalingen, vermeld in artikel 1, 5°, van dit besluit, wordt de verplic
 2° de beslissingen en de kennisgevingen van de vervolgingsinstanties en de beboetingsinstanties, vermeld in artikel 37, §2, eerste lid, artikel 65 en artikel 67 tot en met 68 van het voormelde decreet.<br>
 <br>
 Voor de in het eerste lid, 2° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm eerst vanaf 1 oktober 2024.
+
+### ART 7.
+
+Voor de bepalingen, vermeld in artikel 1, 6°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:&nbsp;<br>
+1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 20, §2 tot en met §4, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, en in artikel 122, tweede lid van het Scheepvaartdecreet van 21 januari 2022;<br>
+2° de beslissingen en de kennisgevingen van de vervolgingsinstanties en de beboetingsinstanties, vermeld in artikel 37, §2, eerste lid, artikel 65 en artikel 67 tot en met 68 van het voormelde decreet. De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
 
 ### ART 8.
 
