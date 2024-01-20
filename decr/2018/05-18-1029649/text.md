@@ -780,7 +780,8 @@ Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerst
 1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
 2° de zorgkassen, voor de verwerking van indicatiestellingen , voor de verwerking van persoonsgegevens van gebruikers in het kader van hun opdrachten, vermeld in artikel 22, en voor de doorgifte van persoonsgegevens conform artikel 46/1;<br>
 3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
-4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker.<br>
+4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker;<br>
+5°&nbsp;&nbsp; &nbsp;het Departement Zorg, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, voor het beheer van de databank met BelRAI-indicatiestellingen, vermeld in artikel 70/2 van dit decreet.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, gedurende welke termijn de verwerkte persoonsgegevens, met inbegrip van de gegevens over de gezondheid, maximaal zullen worden bewaard.<br>
 <br>
@@ -922,6 +923,17 @@ De Vlaamse Regering bepaalt de wijze waarop en de voorwaarden waaronder de verja
 De Vlaamse Regering kan subsidies toekennen aan organisaties voor de ontwikkeling, het onderhoud, de ondersteuning bij de implementatie en het operationeel houden van een BelRAI-applicatie, met het oog op de indicatiestelling en de zorgplanning en -evaluatie van gebruikers.<br>
 <br>
 De Vlaamse Regering bepaalt in voorkomend geval de nadere regels voor de subsidies, vermeld in het eerste lid, met inbegrip van het subsidiebedrag en de wijze waarop het toezicht op de besteding van de subsidies gebeurt.
+
+### ART 70/2.
+
+De indicatiestellingen, waarbij de zorgbehoefte van de gebruiker wordt geëvalueerd aan de hand van BelRAI, en die worden afgenomen overeenkom-stig of krachtens dit decreet of het Woonzorgdecreet van 15 februari 2019, worden opgeslagen in een databank onder het beheer van het Departement Zorg, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+<br>
+De indicatiestellingen, vermeld in het eerste lid, worden digitaal bezorgd of toegevoegd aan de databank, vermeld in het eerste lid. De Vlaamse Regering kan de wijze bepalen waarop en de vorm waarin de gegevens over de indicatiestellingen worden bezorgd of toegevoegd aan de databank, vermeld in het eerste lid. Die gegevens kunnen worden bezorgd door de individuele zorgverlener die de indicatiestelling uitvoert, of, onder de voorwaarden die de Vlaamse Regering bepaalt, op het niveau van de organisatie of de zorgvoorzie-ning waar de persoon die de indicatiestelling heeft afgenomen, in dienst is.<br>
+De voorwaarden in het tweede lid omvatten ten minste de verplichting voor de betrokken organisaties en voorzieningen om voor elke indicatiestelling na te gaan door wie en op welk tijdstip de indicatiestelling is toegepast.<br>
+<br>
+Aan de actoren die belast zijn met taken en bevoegdheden, geregeld bij of krachtens dit decreet of geregeld bij of krachtens het Woonzorgdecreet van 15 februari 2009, en aan de gebruiker of mantelzorger die daarvoor gemachtigd wordt door de gebruiker, kan toegang worden verleend tot de databank, vermeld in het eerste lid, onder de voorwaarden, vermeld in de regelgeving ter bescherming van de persoonlijke levenssfeer. De toegang tot de databank is voor elke actor beperkt tot de gegevens die noodzakelijk zijn voor de uit te voeren opdrachten en tot de periode waarin de voormelde opdrachten worden uitgevoerd.<br>
+<br>
+De Vlaamse Regering kan bijkomende voorwaarden en procedures bepalen voor de toegang van de actoren, vermeld in het vierde lid, tot de databank, vermeld in het eerste lid.
 
 ## HOOFDSTUK 3. Beroepsprocedures
 
@@ -1119,7 +1131,9 @@ Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 80, §
 
 De ernst en de duur van de verminderde zelfredzaamheid worden vastgesteld door de daarvoor door de Vlaamse Regering, onder de door haar vastgestelde voorwaarden, gemachtigde organisaties, zorgvoorzieningen of zorgverleners. De ernst en de duur van de verminderde zelfredzaamheid worden vastgesteld aan de hand van een meetinstrument dat de Vlaamse Regering vaststelt.<br>
 <br>
-De Vlaamse Regering bepaalt de wijze waarop de vaststelling van de ernst en de duur van de verminderde zelfredzaamheid wordt uitgevoerd, herzien en gecontroleerd. De Vlaamse Regering bepaalt de wijze waarop de kwaliteit, de correctheid, de objectiviteit, de gelijke behandeling en de uniformiteit van de vaststelling van de ernst en de duur van de verminderde zelfredzaamheid worden bewaakt.
+De Vlaamse Regering bepaalt de wijze waarop de vaststelling van de ernst en de duur van de verminderde zelfredzaamheid wordt uitgevoerd, herzien en gecontroleerd. De Vlaamse Regering bepaalt de wijze waarop de kwaliteit, de correctheid, de objectiviteit, de gelijke behandeling en de uniformiteit van de vaststelling van de ernst en de duur van de verminderde zelfredzaamheid worden bewaakt.<br>
+<br>
+De gerechtelijke deskundigen, vermeld in artikel 962 van het Gerechtelijk Wetboek, voeren de deskundige opdracht uit aan de hand van het meetinstru-ment, vermeld in het eerste lid.
 
 ### ART 83.
 
@@ -1344,9 +1358,11 @@ Het agentschap kan een beroep doen op de Expertencommissie in het kader van het 
 
 § 1. De financiering van mobiliteitshulpmiddelen in het kader van de Vlaamse sociale bescherming, bestaat uit de toekenning aan de gebruiker door de zorgkas van een tegemoetkoming die wordt vastgesteld conform artikel 108 en die via trekkingsrechten wordt uitbetaald.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de inning van de tegemoetkomingen, vermeld in paragraaf 1, door de verstrekkers van mobiliteitshulpmiddelen bij de zorgkassen.<br>
+§ 2. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de inning van de tegemoetkomingen, vermeld in paragraaf 1, door de verstrekkers van mobiliteitshulpmiddelen of door de onderneming in opdracht waarvan de verstrekker van mobiliteitshulpmiddelen werkt bij de zorgkassen.<br>
 <br>
-De facturatie van de tegemoetkomingen, vermeld in paragraaf 1, gebeurt door de verstrekker van mobiliteitshulpmiddelen als zelfstandige of door de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt. In voorkomend geval machtigt de verstrekker van mobiliteitshulpmiddelen de onderneming met het oog op de facturatie van de tegemoetkomingen.
+De facturatie van de tegemoetkomingen, vermeld in paragraaf 1, gebeurt door de verstrekker van mobiliteitshulpmiddelen als zelfstandige of door de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt.<br>
+<br>
+Als de onderneming in opdracht waarvan de verstrekker van mobiliteits-hulpmiddelen werkt, factureert, zijn de handhavingsmaatregelen en proce-dures, vermeld in artikel 76, 76/1, 76/2, 116 en 124, die van toepassing zijn op de verstrekker van mobiliteitshulpmiddelen, ook van toepassing op de onderneming in opdracht waarvan die verstrekker van mobiliteitshulp-middelen werkt. De schorsing of intrekking van de machtiging van de verstrekker van mobiliteitshulpmiddelen, vermeld in artikel 116 en 124, wordt in voorkomend geval begrepen als de schorsing of intrekking van de mogelijkheid voor de onderneming om aanvragen van tegemoetkomingen voor mobiliteitshulpmiddelen in te dienen.&nbsp;
 
 ### ART 106.
 
@@ -1410,7 +1426,7 @@ De erkenning van een organisatie, zorgvoorziening of zorgverlener als indicaties
 <br>
 De Vlaamse Regering bepaalt wat moet worden verstaan onder een systematisch verkeerde toepassing van indicatiestellingen en onder het systematisch niet uitvoeren van indicatiestellingen binnen een daarvoor voorziene termijn als vermeld in het eerste lid, en door wie de schorsing of de intrekking van de erkenning wordt opgelegd. De Vlaamse Regering legt de periode van de schorsing van de erkenning vast.<br>
 <br>
-De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de erkenning, inclusief de mogelijkheid om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de erkenning, inclusief de mogelijkheid om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
 Na uitputting van de bezwaarprocedure, vermeld in het derde lid, kan tegen de beslissing beroep worden aangetekend bij de Raad van State. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van zestig dagen vanaf de datum van de ontvangst van de bestreden beslissing.
 
@@ -1464,7 +1480,7 @@ Als er systematische afwijkingen of fraude worden vastgesteld in het kader van d
 <br>
 De Vlaamse Regering bepaalt wat wordt verstaan onder systematische afwijkingen als vermeld in het eerste lid, en door wie de schorsing of de intrekking van de machtiging wordt opgelegd. De Vlaamse Regering legt de periode van de schorsing van de machtiging vast.<br>
 <br>
-De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de machtiging, die minstens de mogelijkheid bevatten om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de machtiging, die minstens de mogelijkheid bevatten om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
 Na uitputting van de bezwaarprocedure, vermeld in het derde lid, kan tegen de beslissing beroep worden aangetekend bij de Raad van State. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van zestig dagen vanaf de datum van de ontvangst van de bestreden beslissing.
 
@@ -1552,7 +1568,7 @@ Als er tekortkomingen worden vastgesteld in het kader van de naleving van de voo
 <br>
 De Vlaamse Regering bepaalt door wie de machtiging wordt geschorst of ingetrokken. De Vlaamse Regering bepaalt wat wordt verstaan onder een systematisch verkeerde evaluatie van de mobiliteitshulpmiddelen waarvoor gebruikers in aanmerking komen als vermeld in het eerste lid, en legt de periode van de schorsing van de machtiging vast.<br>
 <br>
-De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de machtiging, inclusief de mogelijkheid om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De Vlaamse Regering bepaalt de bijkomende voorwaarden en procedures voor de oplegging van de schorsing of de intrekking van de machtiging, inclusief de mogelijkheid om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
 Na uitputting van de bezwaarprocedure, vermeld in het derde lid, kan tegen de beslissing beroep worden aangetekend bij de Raad van State. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van zestig dagen vanaf de datum van de ontvangst van de bestreden beslissing.
 
