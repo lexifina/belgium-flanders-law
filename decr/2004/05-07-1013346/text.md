@@ -62,7 +62,16 @@ Bij ontslag van een geregulariseerde DAC-werknemer van een niet-erkende organisa
 2° de vergoedingen die de werkgever ingevolge een wettelijk recht van de werknemer betaalt voor outplacement;<br>
 3° de vergoedingen die de werkgever ingevolge een wettelijk recht van de werknemer betaalt in het kader van het stelsel van werkloosheid met bedrijfstoeslag.<br>
 <br>
-Indien de organisatie de geregulariseerde DAC-werknemer vanaf 1 juni 2019 in opzeg plaatst, stopt de DAC-subsidiëring ten laatste op 31 december 2020.
+Indien de organisatie de geregulariseerde DAC-werknemer vanaf 1 juni 2019 in opzeg plaatst, stopt de DAC-subsidiëring ten laatste op 31 december 2020.<br>
+<br>
+De bepaling in het eerste lid is niet van toepassing voor de sectoren, vermeld in artikel 9, 2° en 4°, van dit decreet. De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sectoren van het niet-landelijk jeugdwerk en het landelijk jeugdwerk, worden bij de beëindiging van de arbeids- overeenkomst van een of meer geregulariseerde DAC-werknemers overgeheveld naar de begrotingsartikelen die bestemd zijn voor het Jeugddecreet van 23 november 2023.<br>
+<br>
+Bij ontslag van een geregulariseerde DAC-werknemer van een niet-landelijke jeugdwerkorganisatie of van een landelijke jeugdwerkorganisatie, worden de volgende vergoedingen gesubsidieerd als de organisatie de DAC-werknemer uiterlijk op 30 juni 2024 in opzeg plaatst:<br>
+1° de volledige opzegperiode en de daarmee overeenkomende opzegvergoeding;<br>
+2° de vergoedingen die de werkgever met toepassing van een wettelijk recht van de werknemer betaalt voor outplacement;<br>
+3° de vergoedingen die de werkgever ingevolge een wettelijk recht van de werknemer betaalt in het kader van het stelsel van werkloosheid met bedrijfstoeslag.<br>
+&nbsp;<br>
+Als de organisatie, vermeld in het zevende lid, de geregulariseerde DAC-werknemer niet in opzeg plaatst uiterlijk op 30 juni 2024, stopt de DAC-subsidiëring uiterlijk op 31 december 2025.
 
 ### ART. 11.
 
@@ -147,7 +156,9 @@ In afwijking van het tweede lid vindt voor het gemeentelijk jeugdwerkbeleid de e
 <br>
 In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst met een geregulariseerde DAC-werknemer in de sector niet-landelijk jeugdwerk beëindigd wordt of beëindigd is, de vervanger van de geregulariseerde DAC'er gesubsidieerd wordt tot en met 31 december van het jaar dat volgt op de beëindiging van de arbeidsovereenkomst. De eerste herverdeling vindt plaats na 31 december 2016.<br>
 <br>
-In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst van de geregulariseerde DAC-werknemer binnen een erkende of gesubsidieerde sociaal-culturele volwassenenorganisatie op basis van het decreet van 4 april 2003 in de periode 2018-2020 wordt beëindigd, de vrijgekomen middelen gaan naar de sociaal-culturele volwassenenorganisaties, erkend of gesubsidieerd op basis van het decreet van 4 april 2003.
+In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst van de geregulariseerde DAC-werknemer binnen een erkende of gesubsidieerde sociaal-culturele volwassenenorganisatie op basis van het decreet van 4 april 2003 in de periode 2018-2020 wordt beëindigd, de vrijgekomen middelen gaan naar de sociaal-culturele volwassenenorganisaties, erkend of gesubsidieerd op basis van het decreet van 4 april 2003.<br>
+<br>
+Voor de sector, vermeld in artikel 9, 4°, vindt de laatste verdeling plaats voor de start van de beleidsperiode die volgt op de beleidsperiode van 2021-2025. De organisaties, vermeld in bijlage 3 die bij dit decreet is gevoegd, komen in aanmerking voor de voormelde herverdeling als ze in het eerstvolgende beleidsplan de noodzaak aantonen en verantwoorden om die extra arbeidsplaats op te nemen. Een beoordelingscommissie als vermeld in artikel 26 van het Jeugddecreet van 23 november 2023, en de administratie houden bij de beoordeling van de beleidsnota’s, vermeld in artikel 37, §1, van het Jeugddecreet van 23 november 2023, rekening met de aanvragen tot tewerkstelling bij de organisaties die daarvoor in aanmerking komen.
 
 ### ART. 17.
 
@@ -373,6 +384,56 @@ Bijlage 2 bij het decreet van 7 mei 2004 houdende aanvullende subsidies voor tew
 		</tr>
 		<tr>
 			<td>Stichting Logos</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 3
+
+Bijlage 3. Organisaties als vermeld in artikel 16, elfde lid<br>
+<br>
+&nbsp;
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>organisatie</td>
+			<td>ondernemingsnummer</td>
+			<td>max. aantal vte</td>
+		</tr>
+		<tr>
+			<td>Heyo</td>
+			<td>0877974714</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Natuur en Wetenschap</td>
+			<td>0435817436</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Kena</td>
+			<td>0456662043</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>AFYA</td>
+			<td>0870832841</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Bloemenstad</td>
+			<td>0435342235</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Vlaams Nationaal Jeugdverbond</td>
+			<td>0410940894</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Activak</td>
+			<td>0464813013</td>
+			<td>1</td>
 		</tr>
 	</tbody>
 </table>
