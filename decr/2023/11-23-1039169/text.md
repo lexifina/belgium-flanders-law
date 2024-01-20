@@ -1118,7 +1118,34 @@ De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de perso
 
 ## Hoofdstuk 11. Wijzigingen van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector
 
+### ART 53.
+
+Aan artikel 10 van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, gewijzigd bij decreten van 7 juli 2017, 29 maart 2019 en 18 december 2020, worden een zesde tot en met een achtste lid toegevoegd, die luiden als volgt:<br>
+<br>
+“De bepaling in het eerste lid is niet van toepassing voor de sectoren, vermeld in artikel 9, 2° en 4°, van dit decreet. De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sectoren van het niet-landelijk jeugdwerk en het landelijk jeugdwerk, worden bij de beëindiging van de arbeids- overeenkomst van een of meer geregulariseerde DAC-werknemers overgeheveld naar de begrotingsartikelen die bestemd zijn voor het Jeugddecreet van 23 november 2023.<br>
+<br>
+Bij ontslag van een geregulariseerde DAC-werknemer van een niet-landelijke jeugdwerkorganisatie of van een landelijke jeugdwerkorganisatie, worden de volgende vergoedingen gesubsidieerd als de organisatie de DAC-werknemer uiterlijk op 30 juni 2024 in opzeg plaatst:<br>
+1° de volledige opzegperiode en de daarmee overeenkomende opzegvergoeding;<br>
+2° de vergoedingen die de werkgever met toepassing van een wettelijk recht van de werknemer betaalt voor outplacement;<br>
+3° de vergoedingen die de werkgever ingevolge een wettelijk recht van de werknemer betaalt in het kader van het stelsel van werkloosheid met bedrijfstoeslag.<br>
+&nbsp;<br>
+Als de organisatie, vermeld in het zevende lid, de geregulariseerde DAC-werknemer niet in opzeg plaatst uiterlijk op 30 juni 2024, stopt de DAC-subsidiëring uiterlijk op 31 december 2025.”.
+
+### ART 54.
+
+Aan artikel 16 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt een elfde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Voor de sector, vermeld in artikel 9, 4°, vindt de laatste verdeling plaats voor de start van de beleidsperiode die volgt op de beleidsperiode van 2021-2025. De organisaties, vermeld in bijlage 3 die bij dit decreet is gevoegd, komen in aanmerking voor de voormelde herverdeling als ze in het eerstvolgende beleidsplan de noodzaak aantonen en verantwoorden om die extra arbeidsplaats op te nemen. Een beoordelingscommissie als vermeld in artikel 26 van het Jeugddecreet van 23 november 2023, en de administratie houden bij de beoordeling van de beleidsnota’s, vermeld in artikel 37, §1, van het Jeugddecreet van 23 november 2023, rekening met de aanvragen tot tewerkstelling bij de organisaties die daarvoor in aanmerking komen.”.
+
+### ART 55.
+
+Aan hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 april 2021, wordt een bijlage 3 toegevoegd, die als bijlage bij dit decreet is gevoegd.
+
 ## Hoofdstuk 12. Slotbepalingen
+
+### ART 56.
+
+Het besluit van de Vlaams Regering van 14 oktober 2005 betreffende de uitvoering wat betreft het landelijk georganiseerd jeugdwerk van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, gewijzigd bij het besluit van de Vlaamse Regering van 14 september 2012, wordt opgeheven.
 
 ### ART 57.
 
