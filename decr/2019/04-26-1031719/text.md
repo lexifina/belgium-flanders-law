@@ -302,11 +302,17 @@ Organisaties met terreinwerking hebben de vorm van een privaatrechtelijke vereni
 
 Organisaties met terreinwerking doen, als ze voor bepaalde opdrachten of delen van opdrachten ondersteuning nodig hebben, een beroep op het aanbod van de partnerorganisaties die door hun inhoudelijke deskundigheid of hun vermogen om gegevens aan te leveren, de gevraagde ondersteuning kunnen bieden.
 
-## HOOFDSTUK 9. Projecten
+## HOOFDSTUK 9. Projecten en subsidies voor gezondheidsinformatie
 
 ### ART 22.
 
 De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de begrotingskredieten, een subsidie verlenen voor projecten met een tijdelijk en vernieuwend karakter met betrekking tot de eerstelijnszorg.
+
+### ART 22/1.
+
+De Vlaamse Regering kan binnen de perken van de begrotingskredieten een subsidie verlenen aan organisaties die aan burgers evidencebased gezond-heidsinformatie verschaffen.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels voor de subsidie, met inbegrip van het subsidiebedrag, de subsidieperiode, de subsidievoorwaarden, de toekenningsprocedure en de wijze waarop toezicht wordt gehouden op de besteding van de subsidie.
 
 ## HOOFDSTUK 10. Gegevensverwerking
 
@@ -364,7 +370,7 @@ In het eerste lid wordt verstaan onder Departement Zorg: het Departement Zorg, v
 
 Voor de zorgraden, de regionale zorgplatformen, de partnerorganisaties en de organisaties met terreinwerking regelt de Vlaamse Regering de procedure voor de erkenning en voor de schorsing en de intrekking van de erkenning.<br>
 <br>
-De Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin, en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, geeft advies over bezwaar- of verweermiddelen die in het kader van de procedures die voortvloeien uit dit decreet, ingediend worden bij een voornemen tot weigering, schorsing of intrekking van erkenning.
+De Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin, en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, geeft advies over bezwaar- of verweermiddelen die in het kader van de procedures die voortvloeien uit dit decreet, ingediend worden bij een voornemen tot weigering, schorsing of intrekking van erkenning.
 
 ## HOOFDSTUK 14. Wijzigingsbepalingen
 
