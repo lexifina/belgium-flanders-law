@@ -8,7 +8,19 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <BR>1° algemeen welzijnswerk : de   psychosociale hulp- en dienstverlening die ter beschikking staat van alle   personen van wie de welzijnskansen bedreigd of verminderd worden ten gevolge van   gebeurtenissen in de persoonlijke levenssfeer, problemen ten gevolge van   gebeurtenissen in een context van criminaliteit of problemen van meervoudige   kwetsbaarheid ten gevolge van een proces van sociale uitsluiting. Het algemeen   welzijnswerk wordt gerealiseerd door centra voor teleonthaal en centra voor   algemeen welzijnswerk of in het kader van projecten;<BR>2° centrum : een centrum   voor algemeen welzijnswerk of een centrum voor teleonthaal;<BR>3° project : een   bijzonder initiatief met een tijdelijk, vernieuwend en experimenteel karakter   dat zich richt tot een specifieke doelgroep of op een bijzondere   probleemsituatie met betrekking tot het algemeen welzijnswerk;<BR>4°   vrijwilliger : de natuurlijke persoon die op vrijwillige basis, onbezoldigd en   in een gestructureerd verband zijn activiteiten uitvoert;<BR>5° beroepskracht :   de natuurlijke persoon die in een gestructureerd verband en onder toezicht   bezoldigde activiteiten uitvoert;<BR>6° gebruiker : een natuurlijke persoon die   gebruik maakt van het algemeen welzijnswerk;<BR>7° verantwoorde hulp- en   dienstverlening : de hulp- en dienstverlening die gebruikersgericht wordt   verleend en voldoet aan de vereisten van doeltreffendheid, doelmatigheid,   continuïteit en maatschappelijke aanvaardbaarheid;<BR>8° registratie : de   gecoördineerde en systematische kwantitatieve en kwalitatieve   gegevensverzameling;<BR>9° programmatie : het instrument om een evenwichtig   gespreid aanbod van hulp- en dienstverlening te bepalen op basis van objectieve   gegevens, onder meer over de bevolking en maatschappelijke   probleemdomeinen;<BR>10° subsidie-enveloppe : de financiële enveloppe die een   erkend centrum jaarlijks krijgt om op een kwalitatieve manier een omschreven   takenpakket uit te voeren en een bepaald volume tewerkstelling te   realiseren;<BR>11° kleinstedelijke zorgregio : een geografisch omschreven gebied   op het niveau van de kleine stad, als bepaald in de bijlage bij het decreet van   23 mei 2003 betreffende de indeling in zorgregio's en betreffende de   samenwerking en programmatie van gezondheidsvoorzieningen en   welzijnsvoorzieningen.
+In dit decreet wordt verstaan onder :<br>
+1° algemeen welzijnswerk : de psychosociale hulp- en dienstverlening die ter beschikking staat van alle personen van wie de welzijnskansen bedreigd of verminderd worden ten gevolge van gebeurtenissen in de persoonlijke levenssfeer, problemen ten gevolge van gebeurtenissen in een context van criminaliteit of problemen van meervoudige kwetsbaarheid ten gevolge van een proces van sociale uitsluiting. Het algemeen welzijnswerk wordt gerealiseerd door&nbsp;het centrum voor teleonthaal en centra voor algemeen welzijnswerk of in het kader van projecten;<br>
+2° centrum : een centrum voor algemeen welzijnswerk of een centrum voor teleonthaal;<br>
+3° project : een bijzonder initiatief met een tijdelijk, vernieuwend en experimenteel karakter dat zich richt tot een specifieke doelgroep of op een bijzondere probleemsituatie met betrekking tot het algemeen welzijnswerk;<br>
+4° vrijwilliger : de natuurlijke persoon die op vrijwillige basis, onbezoldigd en in een gestructureerd verband zijn activiteiten uitvoert;<br>
+5° beroepskracht : de natuurlijke persoon die in een gestructureerd verband en onder toezicht bezoldigde activiteiten uitvoert;<br>
+6° gebruiker : een natuurlijke persoon die gebruik maakt van het algemeen welzijnswerk;<br>
+7° verantwoorde hulp- en dienstverlening : de hulp- en dienstverlening die gebruikersgericht wordt verleend en voldoet aan de vereisten van doeltreffendheid, doelmatigheid, continuïteit en maatschappelijke aanvaardbaarheid;<br>
+8° registratie : de gecoördineerde en systematische kwantitatieve en kwalitatieve gegevensverzameling;<br>
+9° programmatie : het instrument om een evenwichtig gespreid aanbod van hulp- en dienstverlening te bepalen op basis van objectieve gegevens, onder meer over de bevolking en maatschappelijke probleemdomeinen;<br>
+10° subsidie-enveloppe : de financiële enveloppe die een erkend centrum jaarlijks krijgt om op een kwalitatieve manier een omschreven takenpakket uit te voeren en een bepaald volume tewerkstelling te realiseren;<br>
+11° eerstelijnszone: het werkgebied van de zorgraad, vermeld in ar-tikel 13 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;.<br>
+12° referentieregio: een gebiedsafbakening van verschillende ge-meenten samen als vermeld in artikel 5 van het decreet van 3 febru-ari 2023 over de regiovorming en tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur.
 
 ## HOOFDSTUK II. Missie, doelstellingen, taken en werkingsprincipes
 
@@ -36,7 +48,7 @@ Elk centrum voor teleonthaal heeft tot taak : <br />1° op permanente basis hulp
 
 ### ART. 6.
 
-Een centrum voor algemeen welzijnswerk heeft de opdracht om vanuit een eenheid van beheer en beleid een gediversifieerde en verantwoorde hulp- en dienstverlening te organiseren die gericht is op het detecteren, voorkomen, verminderen, signaleren en oplossen van alle factoren die de welzijnskansen van personen, gezinnen of bevolkingsgroepen bedreigen of verminderen.
+Een centrum voor algemeen welzijnswerk heeft de opdracht om vanuit een eenheid van beheer en beleid een gediversifieerde en verantwoorde hulp- en dienstverlening te organiseren die gericht is op het detecteren, voorkomen, verminderen, signaleren en oplossen van factoren die de welzijnskansen van personen, gezinnen of bevolkingsgroepen bedreigen of verminderen.
 
 ### ART. 7.
 
@@ -94,7 +106,29 @@ De Vlaamse Regering kan initiatieven organiseren met het oog op intersectorale a
 
 ### ART. 17.
 
-§ 1. De Vlaamse Regering erkent de centra en subsidieert ze binnen de   perken van de begrotingskredieten. De bepalingen van hoofdstuk II gelden als   erkennings- en subsidievoorwaarden met behoud van de toepassing van de   bepalingen in § 2 en § 3.<BR><BR>§ 2. De Vlaamse Regering bepaalt de wijze   waarop de centra opgericht moeten zijn om erkend te kunnen worden, evenals het   werkgebied, de programmatie en de beleidsplanning van de centra met behoud van   de toepassing van het tweede tot en met vijfde lid.<BR><BR>Het werkgebied van   een centrum voor algemeen welzijnswerk wordt gevormd door het grondgebied van   het tweetalige gebied Brussel-Hoofdstad of, in het Nederlandse taalgebied, door   ten minste drie aaneensluitende kleinstedelijke zorgregio's die samen minimum   300 000 inwoners tellen en die tot eenzelfde provincie behoren. Per werkgebied   kan maximum één centrum voor algemeen welzijnswerk worden erkend. Een erkend   centrum voor algemeen welzijnswerk beschikt over een personeelsbestand van   minimum vijftig erkende voltijdse equivalenten.<BR><BR>Er kunnen maximaal elf   centra voor algemeen welzijnswerk worden erkend. De som van de werkgebieden van   de erkende centra voor algemeen welzijnswerk moet het volledige grondgebied van   het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad   dekken.<BR><BR>Elk centrum voor algemeen welzijnswerk beschikt over   verschillende vestigingsplaatsen om een vlotte toegankelijkheid voor het publiek   te realiseren.<BR><BR>Er kan maximum één centrum voor teleonthaal per provincie   worden erkend.<BR><BR>De Vlaamse Regering kan aanvullende erkenningsvoorwaarden   vastleggen met inachtneming van de bepalingen van hoofdstuk II. Ze bepaalt de   erkenningsprocedure.<BR><BR>§ 3. De Vlaamse Regering bepaalt de regels voor de   vaststelling en de toekenning van de subsidie-enveloppen van de centra, waarbij   ze een onderscheid maakt tussen de centra voor teleonthaal en de centra voor   algemeen welzijnswerk.<BR><BR>Bij het bepalen van de subsidie-enveloppe legt de   Vlaamse Regering de volgende aspecten vast : <BR>1° de te vervullen taken;<BR>2°   het te realiseren volume van tewerkstelling.<BR><BR>De Vlaamse Regering kan   aanvullende subsidievoorwaarden vastleggen met inachtneming van de bepalingen   van hoofdstuk II. Ze bepaalt de procedure voor de toekenning van de   subsidie-enveloppen.<BR><BR>§ 4. De Vlaamse Regering kan voor de centra in het   tweetalige gebied Brussel-Hoofdstad specifieke regels vaststellen voor de   programmatie, het werkgebied, de erkenning en de subsidiëring.
+§ 1. De Vlaamse Regering erkent de centra en subsidieert ze binnen de perken van de begrotingskredieten. De bepalingen van hoofdstuk II gelden als erkennings- en subsidievoorwaarden met behoud van de toepassing van de bepalingen in § 2 en § 3.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de wijze waarop de centra opgericht moeten zijn om erkend te kunnen worden, evenals het werkgebied, de programmatie en de beleidsplanning van de centra met behoud van de toepassing van het tweede tot en met vijfde lid.<br>
+<br>
+Het werkgebied van een centrum voor algemeen welzijnswerk wordt gevormd door het grondgebied van het tweetalige gebied Brussel-Hoofdstad of, in het Nederlandse taalgebied, door ten minste drie aaneensluitende eerstelijnszones die samen minimum 300 000 inwoners tellen. Per referentieregio en per werkgebied kan maximum één centrum voor algemeen welzijnswerk worden erkend. Een erkend centrum voor algemeen welzijnswerk beschikt over een personeelsbestand van minimum vijftig erkende voltijdse equivalenten.<br>
+<br>
+Er kunnen maximaal elf centra voor algemeen welzijnswerk worden erkend. De som van de werkgebieden van de erkende centra voor algemeen welzijnswerk moet het volledige grondgebied van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad dekken.<br>
+<br>
+Elk centrum voor algemeen welzijnswerk beschikt over verschillende vestigingsplaatsen om een vlotte toegankelijkheid voor het publiek te realiseren.<br>
+<br>
+Er kan maximum één centrum voor teleonthaal worden erkend.<br>
+<br>
+De Vlaamse Regering kan aanvullende erkenningsvoorwaarden vastleggen met inachtneming van de bepalingen van hoofdstuk II. Ze bepaalt de erkenningsprocedure.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de regels om de subsidie-enveloppen van de centra vast te stellen en toe te kennen. Ze houdt daarbij rekening met de Vlaamse intersectorale akkoorden voor de social/non-profitsectoren en maakt een onderscheid tussen het centrum voor teleonthaal en de centra voor algemeen welzijnswerk.<br>
+<br>
+Bij het bepalen van de subsidie-enveloppe legt de Vlaamse Regering de volgende aspecten vast :<br>
+1° de te vervullen taken;<br>
+2° het te realiseren volume van tewerkstelling.<br>
+<br>
+De Vlaamse Regering kan aanvullende subsidievoorwaarden vastleggen met inachtneming van de bepalingen van hoofdstuk II. Ze bepaalt de procedure voor de toekenning van de subsidie-enveloppen.<br>
+<br>
+§ 4. De Vlaamse Regering kan voor de centra in het tweetalige gebied Brussel-Hoofdstad specifieke regels vaststellen voor de programmatie, het werkgebied, de erkenning en de subsidiëring.
 
 ### ART. 18.
 
