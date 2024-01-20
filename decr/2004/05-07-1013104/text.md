@@ -59,7 +59,7 @@ De taken, genoemd in artikel 5, omvatten in elk geval:<br>
 
 <p>Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke taken aan het agentschap, al dan niet in samenwerking met andere organisaties, toewijzen.</p>
 
-<p>Het agentschap kan privaatrechtelijke verenigingen met rechtspersoonlijkheid waarvoor het bij wet verboden is hun leden een vermogensvoordeel te bezorgen, of vennootschappen met rechtspersoonlijkheid en met een sociaal oogmerk erkennen die uitsluitend wooninfrastructuur aan personen met een handicap, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning hebben, ter beschikking stellen.</p>
+<p>Het agentschap kan privaatrechtelijke verenigingen met rechtspersoonlijkheid waarvoor het bij wet verboden is hun leden een vermogensvoordeel te bezorgen, of vennootschappen met rechtspersoonlijkheid en met een sociaal oogmerk&nbsp;volgens het Wetboek van vennootschappen van 7 mei 1999 of coöperatieve vennootschappen met erkenning als sociale onderneming volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019 of een equivalent daarvan erkennen die uitsluitend wooninfrastructuur aan personen met een handicap, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning hebben, ter beschikking stellen.</p>
 
 <p>De wooninfrastructuur staat in het kadaster geregistreerd als woning en wordt ter beschikking gesteld met een schriftelijke overeenkomst. De Vlaamse Regering kan de voorwaarden, vermeld in het tweede lid, concretiseren, bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld en kan tevens regels vaststellen voor de toewijzing van de huurwoningen.</p>
 
@@ -168,9 +168,9 @@ Voor minderjarigen loopt de toeleiding naar het budget voor niet-rechtstreeks to
 <br>
 § 3. De Vlaamse Regering kan bovendien specifieke voorwaarden opleggen betreffende onder meer de output en het aanbod.<br>
 <br>
-§ 4. De Vlaamse Regering regelt de procedure voor de aanvraag, de toekenning, de wijziging, de schorsing en de opheffing van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen. De Vlaamse Regering houdt hierbij rekening met de bepalingen opgenomen in of ter uitvoering van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en (Kandidaat-)pleegzorgers.<br>
+§ 4. De Vlaamse Regering regelt de procedure voor de aanvraag, de toekenning, de wijziging, de schorsing en de opheffing van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen. De Vlaamse Regering houdt hierbij rekening met de bepalingen opgenomen in of ter uitvoering van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en (Kandidaat-)pleegzorgers.<br>
 <br>
-Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Ad-viesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
+Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ## [HOOFDSTUK IV/1 TENLASTENEMING VAN HET PERSOONLIJKEASSISTENTIEBUDGET IN HET KADER VAN NIET RECHTSTREEKS TOEGANKELIJKE JEUGDHULPVERLENING (ing. decr. 15 juli 2016, art. 95, I: 1 april 2016)]
 
