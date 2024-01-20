@@ -2027,7 +2027,7 @@ Het agentschap Opgroeien regie&nbsp;beslist binnen tien dagen na de kennisgeving
 
 ### ART 181.
 
-Het bezwaar wordt ten gronde behandeld volgens de regels die zijn vastgelegd in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers of na het verstrijken van de termijn waarin dat advies moest worden uitgebracht.
+Het bezwaar wordt ten gronde behandeld volgens de regels die zijn vastgelegd in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers of na het verstrijken van de termijn waarin dat advies moest worden uitgebracht.
 
 ### ART 182.
 
