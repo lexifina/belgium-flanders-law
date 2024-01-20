@@ -541,6 +541,22 @@ De Vlaamse Regering kan, op verzoek van een woonzorgvoorziening of vereniging, e
 <br>
 De Vlaamse Regering bepaalt de erkenningsprocedure die de mogelijkheid bevat om een bezwaar in te dienen. Ze kan woonzorgvoorzieningen en verenigingen alleen erkennen als ze passen in de programmatie, vermeld in artikel 51, die van toepassing is.
 
+### ART 38/1.
+
+In dit artikel wordt verstaan onder indicatiestelling: de indicatiestelling, vermeld in artikel 2, eerste lid, 17°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+<br>
+De Vlaamse Regering kan een woonzorgvoorziening opleggen om, voor de bepaling van de zorg- en ondersteuningsdoelstellingen van de gebruiker, de zorgbehoefte van de gebruiker te evalueren aan de hand van BelRAI, ingevolge de toepassing van een indicatiestelling, zonder dat de indicatiestelling het verlenen van dringende zorg in de weg mag staan.<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1° &nbsp;&nbsp; &nbsp;BelRAI: BelRAI als vermeld in artikel 2, eerste lid, 5°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+2° &nbsp;&nbsp; &nbsp;dringende zorg: de zorg in een situatie die niet vooraf kan worden ingeschat en waarbij onmiddellijke of dringende zorg en ondersteuning vereist zijn.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden bepalen waaronder zorg als dringend wordt beschouwd als vermeld in het derde lid, 2°.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedures om perso-nen te erkennen die een indicatiestelling kunnen afnemen, en legt de procedures voor de toepassing van de indicatiestellingen vast.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de bewaking van de kwaliteit, de correctheid, de objectiviteit, de gelijke behandeling en de uniformiteit van de opmaak, het opslaan en de uitwisseling van indicatiestellingen.
+
 ### ART 39.
 
 § 1. De volgende woonzorgvoorzieningen en de verenigingen mogen pas uitgebaat of georganiseerd worden onder de erkende benamingen, vermeld in hoofdstuk 2, nadat de Vlaamse Regering ze heeft erkend:<br>
@@ -585,7 +601,7 @@ Verenigingen en thuiszorgvoorzieningen, met uitsluiting van de dienst voor thuis
 5° een publiekrechtelijke vereniging;<br>
 6° een vereniging van publiek recht onderworpen aan deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 7° een ziekenfonds;<br>
-8° een vennootschap met rechtspersoonlijkheid en sociaal oogmerk.<br>
+8° een vennootschap met rechtspersoonlijkheid en sociaal oogmerk volgens het Wetboek van vennootschappen van 7 mei 1999 of een coöperatie-ve vennootschap met erkenning als sociale onderneming volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019 of een equivalent daarvan.<br>
 <br>
 De Vlaamse Regering kan bepalen welke andere initiatiefnemers erkende verenigingen en thuiszorgvoorzieningen als bepaald in het eerste lid kunnen oprichten en uitbaten.
 
@@ -904,13 +920,13 @@ De bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 2, ve
 
 ### ART 72.
 
-Met behoud van de toepassing van artikel 64, 65, 66 en 67, naargelang van het geval, kan een administratieve geldboete van 2.500 tot 25.000 euros worden opgelegd aan:<br>
+Met behoud van de toepassing van artikel 64, 65, 66 en 67, naargelang van het geval, kan een administratieve geldboete van 2.500 tot 25.000 euro worden opgelegd aan:<br>
 1° degene die zonder erkenning al dan niet onder de erkende benaming een of meer entiteiten in een centrum voor dagverzorging, een centrum voor kortverblijf, een centrum voor herstelverblijf, een groep van assistentiewoningen of een woonzorgcentrum uitbaat. Die geldboete wordt opgelegd per niet-erkende uitgebate entiteit;<br>
 2° de dienst voor gezinszorg die zonder bijkomende erkenning, al dan niet onder de erkende benaming, een centrum voor dagopvang uitbaat. Die geldboete wordt opgelegd per niet-erkende uitbating;<br>
 3° degene die zonder erkenning toch onder de erkende benaming een lokaal dienstencentrum, een dienst voor gezinszorg, een dienst voor thuisverpleging, een dienst maatschappelijk werk van het ziekenfonds, een dienst voor oppashulp, een dienst voor gastopvang of een vereniging uitbaat. Die geldboete wordt opgelegd per niet-erkende uitbating;<br>
 4° degene die een mantelzorger van wie het zelfzorgvermogen niet is aangetast opneemt buiten zijn erkende capaciteit als vermeld in artikel 47, § 1, eerste lid, zonder toestemming of die niet voldoet aan de normen, vermeld in artikel 47, § 1, tweede lid, en § 2;<br>
 5° degene die met overtreding van artikel 52 een lokaal dienstencentrum, een dienst voor gezinszorg met een bijkomende erkenning voor een centrum voor dagopvang, een centrum voor dagverzorging, een centrum voor kortverblijf, een centrum voor herstelverblijf of een woonzorgcentrum uitbaat, een bestaand gebouw als zodanig inricht of in gebruik neemt, of de opnamecapaciteit ervan verhoogt zonder daarvoor een voorafgaande vergunning te hebben verkregen;<br>
-6° de uitbater van een erkende woonzorgvoorziening die door de Vlaamse overheid is aangemaand om binnen een bepaalde termijn aan de erkenningsvoorwaarden, vermeld in de aanmaning, te voldoen en die binnen die termijn aan die voorwaarden niet voldoet.<br>
+6° de uitbater van een erkende woonzorgvoorziening die niet aan de erkenningsvoorwaarden voldoet.<br>
 <br>
 In afwijking van het eerste lid kan een administratieve geldboete van 5000 tot 50.000 euro worden opgelegd aan:<br>
 1° degene die opzettelijk weigert de gegevens te bezorgen die hij moet bezorgen op grond van dit decreet of die bewust onjuiste of onvolledige inlichtingen bezorgt;<br>
@@ -920,7 +936,7 @@ In afwijking van het eerste lid kan een administratieve geldboete van 5000 tot 5
 <br>
 De administratieve geldboete kan worden opgelegd binnen zes maanden, te rekenen vanaf de dag van de vaststelling van de inbreuk nadat de betrokkene is gehoord. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarin beroep ingesteld kan worden tegen de beslissing.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. De Vlaamse Regering wijst de ambtenaren aan die de geldboete kunnen opleggen.<br>
+De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. De Vlaamse Regering wijst de ambtenaren aan die de geldboete kunnen opleggen.&nbsp;De Vlaamse Regering kan criteria bepalen om het bedrag van de admini-stratieve geldboete te bepalen, rekening houdend met de minimum- en maximumbedragen, vermeld in het eerste en tweede lid.<br>
 <br>
 De betrokkene kan op straffe van verval van het recht tot het instellen van een beroep binnen zestig dagen vanaf de kennisgeving van de beslissing waarbij hem een administratieve geldboete wordt opgelegd, tegen die beslissing bij de Raad van State beroep aantekenen met een verzoekschrift. Dat beroep schorst de uitvoering van de beslissing. De Raad van State oordeelt met volle rechtsmacht.<br>
 <br>
