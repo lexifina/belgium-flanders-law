@@ -113,7 +113,7 @@ Elk centrum voor geestelijke gezondheidszorg dient als zodanig erkend te zijn do
 
 ### ART. 23.
 
-Hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin is van toepassing op de procedure inzake de erkenning, de schorsing van erkenning en de intrekking van erkenning van de centra voor geestelijke gezondheidszorg.
+Hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers is van toepassing op de procedure inzake de erkenning, de schorsing van erkenning en de intrekking van erkenning van de centra voor geestelijke gezondheidszorg.
 
 ## HOOFDSTUK IV OVEREENKOMST EN BELEIDSPLAN
 
@@ -168,6 +168,27 @@ De centra voor geestelijke gezondheidszorg kunnen een beroep doen op de aan het 
 ### ART. 33.
 
 § 1. Om specifieke deskundigheid maximaal aan te wenden kan maximum 10 procent van het personeel van een centrum voor geestelijke gezondheidszorg worden toegewezen aan een project waaraan andere centra voor geestelijke gezondheidszorg en/of één of meerdere partners van een psychiatrisch netwerk en/of de multidisciplinaire ondersteuning zoals bedoeld in artikel 30 en/of de dienstverlenende organisaties zoals bedoeld in artikel 31, participeren.<br /><br />§ 2. De personeelsleden bedoeld in § 1 blijven administratief verbonden aan hun centrum voor geestelijke gezondheidszorg van oorsprong. Dit laatste centrum voor geestelijke gezondheidszorg rapporteert aan de regering over deze medewerking aan projecten.<br /><br />§ 3. Elk centrum voor geestelijke gezondheidszorg kan een proportioneel gedeelte van zijn werkingsbudget overdragen aan de projecten zoals bedoeld in § 1.<br /><br />§ 4. De toepassing van § 1 en § 3 mag er niet toe leiden dat een centrum voor geestelijke gezondheidszorg zijn opdrachten zoals bepaald in artikel 7 niet vervult.
+
+## HOOFDSTUK VIII/1 UITVOERING VAN SOCIALE AKKOORDEN
+
+### ART 33/1.
+
+In het kader van de uitvoering van de sociale akkoorden over de gezondheids-sector die aan al de volgende voorwaarden voldoen, kan de Vlaamse Regering de maatregelen bepalen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt, en kan de Vlaamse Regering de voorwaarden en de procedure vastleggen om de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming vast te stellen:<br>
+1° de sociale akkoorden hebben betrekking op de centra voor geestelijke gezondheidszorg waarmee de Vlaamse Regering conform artikel 24 een overeenkomst heeft gesloten;<br>
+2° de sociale akkoorden worden nog niet gefinancierd via de subsidie-enveloppe, vermeld in artikel 24 en 26.
+
+### ART 33/2.
+
+De Vlaamse Regering kan initiatieven nemen om de aantrekkelijkheid te bevorderen van de tewerkstelling in de erkende centra voor geestelijke gezondheidszorg waarmee de Vlaamse Regering een overeenkomst heeft gesloten conform artikel 24, en waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt. De voormelde initiatieven kunnen betrekking hebben op al de volgende aspecten:<br>
+1° &nbsp;&nbsp; &nbsp;de werkomstandigheden;<br>
+2° &nbsp;&nbsp; &nbsp;de vergoedingsvoorwaarden;<br>
+3° &nbsp;&nbsp; &nbsp;arbeidsduurvermindering;<br>
+4° &nbsp;&nbsp; &nbsp;vermindering van werklast;<br>
+5° &nbsp;&nbsp; &nbsp;opleiding;<br>
+6° &nbsp;&nbsp; &nbsp;kwalificatie en vorming;<br>
+7° &nbsp;&nbsp; &nbsp;betrokkenheid in het besluitvormingsproces.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure om de financiële weerslag, het bedrag en de betaling van de financiële tegemoetko-ming, vermeld in het eerste lid, vast te stellen.
 
 ## [HOOFDSTUK IX TOEZICHT EN SANCTIES (verv. decr. 5 april 2019, art. 48, I: 8 augustus 2024)]
 
