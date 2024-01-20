@@ -118,7 +118,7 @@ De dienst voor pleegzorg kan te allen tijde, indien hij oordeelt dat het pleegge
 <br>
 § 5. Bij een weigering of een intrekking van een attest kan een kandidaat-pleeggezin of een pleeggezin een herscreening vragen bij een andere dienst voor pleegzorg die wordt aangeduid volgens een jaarlijks wisselend rotatiesysteem dat door de diensten voor pleegzorg wordt bepaald. Deze andere dienst kan het attest alsnog toekennen of opnieuw toekennen volgens de voorwaarden bepaald in § 2.<br>
 <br>
-De Vlaamse Regering bepaalt de regels om een bezwaarschrift in te dienen tegen de weigering van een attest naar aanleiding van een herscreening als bedoeld in het eerste lid. Het bezwaarschrift wordt behandeld door de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin als bedoeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Weizijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin.<br>
+De Vlaamse Regering bepaalt de regels om een bezwaarschrift in te dienen tegen de weigering van een attest naar aanleiding van een herscreening als bedoeld in het eerste lid. Het bezwaarschrift wordt behandeld door de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin als bedoeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 &nbsp;
 
 ### ART. 15.
