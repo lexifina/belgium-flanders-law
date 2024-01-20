@@ -40,6 +40,16 @@ De vrijwilligers kunnen alleen van de organisatie een onkostenvergoeding krijgen
 
 Een organisatie voor autonoom vrijwilligerswerk kan door de Vlaamse Regering worden erkend als ze minstens aan de volgende voorwaarden voldoet :<br />1° ze is opgericht als een rechtspersoon die geen winst nastreeft of als een specifiek initiatief van een openbaar bestuur;<br />2° ze beantwoordt aan de bepalingen van hoofdstuk II;<br />3° ze organiseert gedurende minstens één jaar autonoom vrijwilligerswerk;<br />4° de organisatie van het vrijwilligerswerk is haar hoofdzakelijke doelstelling.<br /><br />De Vlaamse Regering kan aanvullende erkenningsvoorwaarden bepalen.<br /><br />
 
+### ART 8/1.
+
+De organisaties voor autonoom vrijwilligerswerk garanderen een klachtenrecht voor de gebruiker door een procedure voor klachtenregistratie en klachtenbehandeling op te zetten die voldoet aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en het basiskader voor de klachtenprocedure dat de Vlaamse Regering vaststelt.<br>
+<br>
+De klachtenprocedure, vermeld in het eerste lid, beschrijft al de volgende aspecten:<br>
+1° de wijze waarop de hulpvrager zijn klacht kan bekendmaken;<br>
+2° de wijze waarop de ontvankelijkheid van de klacht wordt beoordeeld;<br>
+3° de wijze waarop de klacht wordt behandeld;<br>
+4° de wijze waarop de hulpvrager wordt geïnformeerd over het resultaat van zijn klacht.
+
 ### ART. 9.
 
 De Vlaamse Regering bepaalt de procedure voor de erkenning en de intrekking van de erkenning van een organisatie voor autonoom vrijwilligerswerk. Ze bepaalt de duur van de erkenning.<br /><br />
