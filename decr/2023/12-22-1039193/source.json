@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039193,
+  "title": "Decreet van 2023-12-22 tot instemming met het Aanvullend Protocol tussen het Koninkrijk België en de Europese Vrijhandelsassociatie, ondertekend te Brussel op 24 november 2022",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039193/VolledigDocument?datum=2024-01-22",
+  "source_sha256": "c3aeba7b9d2fa3143947b60a66d18ecef2a210a571b0d84f5231c93b49520058",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039193&param=informatie",
+  "as_of": "2024-01-22",
+  "made": "2023-12-22",
+  "gazette": "2024-01-12",
+  "numac": 2024000146,
+  "document_start": "2024-01-22",
+  "document_end": null,
+  "in_force": "2024-01-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
