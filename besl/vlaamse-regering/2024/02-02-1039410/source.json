@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039410,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-02 tot goedkeuring van de programmatie van niet-duale en duale structuuronderdelen in opleidingsvorm 4 van het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039410/VolledigDocument?datum=2024-02-01",
+  "source_sha256": "2d2865cc9bfb6b0ca8e8fa1e0d9fd91708fb1dee7240792ee14262d4902921dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039410&param=informatie",
+  "as_of": "2024-02-01",
+  "made": "2024-02-02",
+  "gazette": "2024-02-22",
+  "numac": 2024001636,
+  "document_start": "2024-02-01",
+  "document_end": null,
+  "in_force": "2024-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
