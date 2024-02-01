@@ -44,6 +44,22 @@ In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij
 
 In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
 
+### ART 45.
+
+In artikel 10 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009, 19 juni 2015, 26 juni 2020 en 23 december 2021, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“Voor een experimenteel nieuw leergebied voor de basiseducatie kent de Vlaamse Regering een coëfficiënt voor de gemiddelde klasgrootte toe als vermeld in artikel 85, §2. Voor een experimenteel nieuw studiegebied voor het secundair volwassenenonderwijs kent de Vlaamse Regering een coëfficiënt voor de gemiddelde klasgrootte toe als vermeld in artikel 98, §2.”.
+
+### ART 46.
+
+In het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, het laatst gewijzigd bij het decreet van 22 december 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in de volgende artikelen wordt de zinsnede “artikel 7” vervangen door de zinsnede “artikel 7 of artikel 10”:<br>
+a) artikel 14, §3, het laatst gewijzigd bij het decreet van 30 april 2009;<br>
+b) artikel 24, §1, het laatst gewijzigd bij het decreet van 25 maart 2022;<br>
+c) artikel 63, §1, gewijzigd bij de decreten van 30 april 2009, 8 mei 2009 en 4 mei 2018, en §2, vervangen bij het decreet van 4 mei 2018;<br>
+d) artikel 64, §1, vervangen bij het decreet van 23 december 2016, en §6, eerste en tweede lid, ingevoegd bij het decreet van 23 december 2016 en gewijzigd bij het decreet van 4 mei 2018;<br>
+2° in artikel 130quater, ingevoegd bij het decreet van 14 juli 2023, wordt de zinsnede “artikel 7, §1” vervangen door de zinsnede “artikel 7 of artikel 10”.
+
 ### ART 54.
 
 In artikel 42 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de woorden “de inspectie” vervangen door de zinsnede “het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen”.
