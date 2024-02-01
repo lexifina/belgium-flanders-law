@@ -2,16 +2,16 @@
   "codex_id": 1014280,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid [Wonen in Vlaanderen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014280/VolledigDocument?datum=2023-02-18",
-  "source_sha256": "ff1a9ff4c155e8d43f2a502b1527fae02ce54109b90222c67ff517c076a0ce7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014280/VolledigDocument?datum=2024-02-01",
+  "source_sha256": "96ad1ce25e4c5d7f10678c2c7e2d6a083c8f7416ad91d75a0944142be2295e36",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014280&param=informatie",
-  "as_of": "2023-02-18",
+  "as_of": "2024-02-01",
   "made": "2005-12-16",
   "gazette": "2006-02-16",
   "numac": 2006035200,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2023-02-18",
+  "in_force": "2024-02-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2023-02-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-02-01; future article versions excluded; article text as the API gives it"
 }

@@ -47,7 +47,7 @@ a) de afbakening van woonvernieuwings- en woningbouwgebieden, vermeld in artikel
 b) de onteigeningsmachtigingen, vermeld in artikel 4.26 van de voormelde codex;<br>
 c) het sociaal beheer, vermeld in boek 5, deel 7, van de voormelde codex;<br>
 d) de lokale toewijzingsreglementen, vermeld in artikel 6.14 van de voormelde codex;<br>
-5° de werkzaamheden van de visitatiecommissies, <span style="font-size:10.0pt">vermeld in boek 4, deel 1, titel 3, hoofdstuk 1, van het Besluit Vlaamse Codex Wonen van 2021</span>, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
+5° de werkzaamheden van de visitatiecommissies, vermeld in boek 4, deel 1, titel 3, hoofdstuk 1, van het Besluit Vlaamse Codex Wonen van 2021, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
 6° de gemeenten te begeleiden en te ondersteunen bij de uitwerking van hun lokaal woon- en grond- en pandenbeleid en bij het lokale woonoverleg;<br>
 7° subsidies aan gemeenten of aan intergemeentelijke samenwerkingsverbanden uit te betalen voor projecten intergemeentelijk woonbeleid en voor de opmaak en de actualisering van de gemeentelijke leegstandsregisters;<br>
 8° adviezen te verlenen over bijzondere plannen van aanleg, ruimtelijke uitvoeringsplannen en de milieueffectrapportering overeenkomstig de regelgeving ter zake;<br>
@@ -87,7 +87,7 @@ e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktob
 <br>
 Met behoud van de toepassing van de bepaling van het tweede lid, 13° en 15°, behoort het administratief toezicht op de lokale en provinciale besturen niet tot de bevoegdheid van het agentschap.<br>
 <br>
-Voor de ondersteuning van de woonmaatschappijen en de lokale besturen bij de uitvoering van de opdrachten rond sociale huisvesting richt het agentschap een Overlegplatform Sociaal Wonen op. De minister regelt de organisatie en de samenstelling van dat overlegplatform.
+Voor de ondersteuning van de woonmaatschappijen en de lokale besturen bij de uitvoering van de opdrachten rond sociale huisvesting richt het agentschap een Overlegplatform Sociaal Wonen op. Het agentschap regelt de organisatie en de samenstelling van dat overlegplatform.
 
 ### ART. 4.
 
