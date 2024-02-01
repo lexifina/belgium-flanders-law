@@ -50,127 +50,346 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1_2.pdf#page=407">Bijlage</a><br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/06/10_2_2.pdf#page=322">Bijlage</a><br>
 <br>
+* Bij BVR van 19 juli 2024 wordt punt 19° met ingang van 1 februari 2024 als volgt vervangen:<br>
 <br>
-* Bij BVR van 3 maart 2023, BS 11 augustus 2023, wordt met ingang van 1 februari 2023 een punt 17° toegevoegd aan de bijlage dat luidt als volgt:<br>
-<br>
-17° Met ingang van 1 februari 2023 kan de module die is vermeld in de volgende linkerkolom, individueel geconcordeerd worden naar de opleiding die is vermeld in de volgende rechterkolom:
-<table border="1">
+19° Met ingang van 1 februari 2024 kan de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:662px">
 	<tbody>
 		<tr>
-			<td>Module</td>
-			<td>Opleiding</td>
+			<td colspan="2" style="height:19px; width:312px"><strong>module </strong></td>
+			<td style="height:19px; width:312px"><strong>module</strong></td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:38px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>Elektriciteit maritieme motoren</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 1</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
 		</tr>
 		<tr>
-			<td>Hulpwerktuigen scheepsmachines</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 1</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
 		</tr>
 		<tr>
-			<td>Onderhoudstechnieken scheepsmotoren</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 1</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
 		</tr>
 		<tr>
-			<td>Pneumatica en hydraulica maritieme</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 1</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
 		</tr>
 		<tr>
-			<td>Scheepsmotoren</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 1</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
 		</tr>
 		<tr>
-			<td>Toegepaste mechanica maritieme</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 2</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
 		</tr>
 		<tr>
-			<td>Warmteleer en koeltechnieken scheepsmachines</td>
-			<td>Aspirant-officier STCW II/3</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 2</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
 		</tr>
 		<tr>
-			<td>Werkplekleren scheepsmachines</td>
-			<td>Aspirant-officier STCW II/3 ".</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-<br>
-* Bij BVR van 31 augustus 2023, BS 19 oktober 2023, wordt met ingang van 1 september 2023 een punt 18° toegevoegd aan de bijlage dat luidt als volgt:<br>
-<br>
-18° Met ingang van 1 september 2023 kan:<br>
-a) de module die in de linkerkolom vermeld wordt, individueel geconcordeerd worden naar de module, die in de rechterkolom vermeld wordt:
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td>module</td>
-			<td colspan="3">module</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 2</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstyling voor theater, film en tv</td>
-			<td colspan="3">Avant-garde kapsels</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 2</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstyling voor theater, film en tv</td>
-			<td colspan="3">Gevorderde technieken hairstyling</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 2</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstyling voor theater, film en tv</td>
-			<td colspan="3">Opsteekkapsels</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 3</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstyling voor theater, film en tv</td>
-			<td colspan="3">Voorbereidende omvormingstechnieken voor<br>
-			hairstyling</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 3</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
 		</tr>
 		<tr>
-			<td>Initiatie hairstyling voor theater, film en tv</td>
-			<td colspan="3">Avant-garde kapsels</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 3</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
 		</tr>
 		<tr>
-			<td>Initiatie hairstyling voor theater, film en tv</td>
-			<td colspan="3">Gevorderde technieken hairstyling</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 3</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
 		</tr>
 		<tr>
-			<td>Initiatie hairstyling voor theater, film en tv</td>
-			<td colspan="3">Opsteekkapsels</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 3</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
 		</tr>
 		<tr>
-			<td>Initiatie hairstyling voor theater, film en tv</td>
-			<td colspan="3">Voorbereidende omvormingstechnieken voor<br>
-			hairstyling</td>
-		</tr>
-	</tbody>
-</table>
-b) de opleiding die in de linkerkolom vermeld wordt, individueel geconcordeerd worden naar de module die hieronder in de rechterkolom vermeld wordt:&nbsp;
-
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td>opleiding</td>
-			<td colspan="2">module</td>
-			<td>&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 4</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstylist voor theater, film en tv</td>
-			<td colspan="2">Avant-garde kapsels</td>
-			<td>&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 4</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstylist voor theater, film en tv</td>
-			<td colspan="2">Gevorderde technieken hairstyling</td>
-			<td>&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 4</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstylist voor theater, film en tv</td>
-			<td colspan="2">Opsteekkapsels</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 4</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
 		</tr>
 		<tr>
-			<td>Hairstylist voor theater, film en tv</td>
-			<td colspan="2">Voorbereidende omvormingstechnieken voor hairstyling”.</td>
-			<td>&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:302px">Aandrijftechnieken 4</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis elektriciteit</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis elektriciteit</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis elektriciteit</td>
+			<td colspan="3" style="height:19px; width:359px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis elektriciteit</td>
+			<td colspan="3" style="height:19px; width:359px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Basis metaal</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Cosmetologie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 1</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 1</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 1</td>
+			<td colspan="3" style="height:19px; width:359px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 1</td>
+			<td colspan="3" style="height:19px; width:359px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 2</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 2</td>
+			<td colspan="3" style="height:19px; width:359px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 2</td>
+			<td colspan="3" style="height:19px; width:359px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Elektrische opbouwinstallaties 2</td>
+			<td colspan="3" style="height:19px; width:359px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Farmaceutische plantkunde en homeopathie</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Farmaceutische zorg</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Farmacologie</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Galenica</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Industriële installaties</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Industriële installaties</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Industriële installaties</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Industriële installaties</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Industriële installaties</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Medische zorgverlening</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 1</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 1</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 1</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 1</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 1</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 2</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 2</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 2</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 2</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 2</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 3</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 3</td>
+			<td colspan="3" style="height:19px; width:359px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 3</td>
+			<td colspan="3" style="height:19px; width:359px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 3</td>
+			<td colspan="3" style="height:19px; width:359px">Pneumatica-hydraulica automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">PLC 3</td>
+			<td colspan="3" style="height:19px; width:359px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Stage FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Stage FTA</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Stage galenica</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Stage galenica</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste analytische chemie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste analytische chemie FTA</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste anatomie en fysiologie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste biochemie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste biochemie FTA</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste biologie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste biologie FTA</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste fysica en chemie FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toegepaste fysica en chemie FTA</td>
+			<td colspan="3" style="height:19px; width:359px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Toxicologie, tarificatie en regelgeving FTA</td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:359px">Communicatie en sociale vaardigheden</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:302px">Verzorgen, veiligheid en gezondheid</td>
+			<td colspan="3" style="height:19px; width:359px">Verzorging</td>
 		</tr>
 	</tbody>
 </table>
