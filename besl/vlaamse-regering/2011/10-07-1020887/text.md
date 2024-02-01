@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en bijlage 3 tot en met 6, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en bijlage 3 tot en met 7, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
@@ -51,3 +51,13 @@ Modulaire opleiding Procesoperator Chemie<br /><br /> <a href="http://www.ejusti
 ### BIJLAGE
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_4.pdf#page=13">Bijlage   6</A>
+
+### BIJLAGE 7
+
+Bijlage 7 bij het besluit van de Vlaamse Regering van 7 oktober 2011 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied chemie<br>
+<br>
+Beroepsopleiding<br>
+<br>
+Studiegebied chemie • 01.02.2024<br>
+<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/04/16_1.pdf#page=483">Labotechnisch Medewerker</a>
