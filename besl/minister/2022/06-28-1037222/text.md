@@ -65,7 +65,7 @@ Voor de werkzaamheden, vermeld in artikel 5.189, § 2, eerste lid, 7° van het B
 
 ### ART 8.
 
-Om het aandeel van de premiewoning in de gemeenschappelijke delen van het appartementsgebouw te bepalen voegt de verhuurder bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van het Besluit Vlaamse Codex Wonen van 2021, een attest van de syndicus met vermelding van het aandeel van de premiewoning in de gemeenschappelijke delen, of een uittreksel uit de basisakte of enig ander document waaruit het aandeel van de premiewoning in de gemeenschappelijke delen kan worden vastgesteld.
+Om het aandeel van de premiewoning in de gemeenschappelijke delen van het appartementsgebouw te bepalen voegt de aanvrager bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van het Besluit Vlaamse Codex Wonen van 2021, een attest van de syndicus met vermelding van het aandeel van de premiewoning in de gemeenschappelijke delen, of een uittreksel uit de basisakte of enig ander document waaruit het aandeel van de premiewoning in de gemeenschappelijke delen kan worden vastgesteld.
 
 ## HOOFDSTUK 3. Slotbepalingen
 
