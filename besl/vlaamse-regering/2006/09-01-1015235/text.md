@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1&nbsp;van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mechanica-elektriciteit, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage III en IV,&nbsp;bijlage IX, bijlage X en bijlage XXIX en bijlage XXXVII, die als bijlagen bij dit besluit zijn gevoegd.<br>
+Ter uitvoering van artikel 14 en 15, § 1&nbsp;van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mechanica-elektriciteit, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage III en IV, bijlage XXIX en bijlage XXXVII, die als bijlagen bij dit besluit zijn gevoegd.<br>
 &nbsp;
 
 ### ART. 2.
