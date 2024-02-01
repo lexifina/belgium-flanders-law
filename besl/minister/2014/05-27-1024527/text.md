@@ -14,16 +14,11 @@ In dit besluit wordt verstaan onder:<br>
 3° woonmaatschappij: een woonmaatschappij als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 4° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021.
 
-## HOOFDSTUK 2. Samenstelling van het Overlegplatform Sociaal Wonen
+## HOOFDSTUK 2 ...
 
 ### ART. 2.
 
-Het Overlegplatform Sociaal Wonen, vermeld in artikel 3, vierde lid, van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, bestaat uit:<br>
-1°&nbsp;&nbsp; &nbsp;vier vertegenwoordigers van het agentschap;<br>
-2°&nbsp;&nbsp; &nbsp;drie vertegenwoordigers die worden voorgedragen door de woonmaatschappijen;<br>
-3°&nbsp;&nbsp; &nbsp;een vertegenwoordiger die wordt voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten.<br>
-<br>
-Het voorzitterschap en het secretariaat van het Overlegplatform Sociaal Wonen worden waargenomen door het agentschap.
+...
 
 ### ART. 3.
 
