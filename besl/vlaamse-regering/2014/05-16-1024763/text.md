@@ -214,7 +214,7 @@ De verzoeker voegt in voorkomend geval de volgende documenten bij het   verzoeks
 <br>
 De griffier schrijft een verzoekschrift houdende vordering tot schorsing bij uiterst dringende noodzakelijkheid onmiddellijk in op het definitieve register.<br>
 <br>
-Behalve in geval van verkiezings- of mandaatgeschillen en behalve bij de beroepen, vermeld in artikel 112/1 van dit besluit, stelt de griffier, in voorkomend geval, de verzoeker in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
+Behalve in geval van verkiezings- of mandaatgeschillen stelt de griffier, in voorkomend geval, de verzoeker in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
 <br>
 De verzoeker die zijn verzoekschrift tijdig regulariseert, wordt geacht het te hebben ingediend op de datum van de eerste verzending of neerlegging.<br>
 <br>
