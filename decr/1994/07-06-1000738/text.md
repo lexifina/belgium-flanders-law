@@ -64,7 +64,7 @@
 
 ### ART. 12.
 
-§ 1. De Vlaamse regering wordt gemachtigd toe te treden tot de Stichting Vlaams Erfgoed v.z.w.<br /><br />§ 2. De goedkeuring van de statuten van de Stichting Vlaams Erfgoed v.z.w. door de Vlaamse regering op 23 maart 1994 wordt bekrachtigd voor wat betreft de verplichtingen van het Vlaamse Gewest ten aanzien van de Stichting Vlaams Erfgoed v.z.w.<br /><br />§ 3. De Stichting Vlaams Erfgoed v.z.w. heeft tot doel, onverminderd de opdrachten van de administratie en complementair eraan, de valorisatie van het erfgoed, zowel het roerende, onroerend door bestemming, als het onroerende, alsmede van de landschappen.<br /><br />§ 4. De financiële tegemoetkoming van het Vlaamse Gewest in de werking van de Stichting Vlaams Erfgoed v.z.w. omvat een jaarlijkse subsidie nominatim in de algemene uitgavenbegroting van de Vlaamse Gemeenschap opgenomen.<br /><br />§ 5. Het Rekenhof heeft een inzagerecht in alle documenten en stukken met betrekking tot de verrichtingen van de Stichting Vlaams Erfgoed v.z.w.
+...
 
 ## AFDELING 2 BESCHERMING VAN DE LANDSCHAPPEN
 

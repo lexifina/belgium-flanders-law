@@ -2,16 +2,16 @@
   "codex_id": 1000738,
   "title": "Decreet van 1994-07-06 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1994",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000738/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "2ec78e23358c9aa2998bdb5c5663a85ff5793bdd5266fdd155662936cc69277d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000738/VolledigDocument?datum=2024-02-02",
+  "source_sha256": "aeda04142b8fd9ffa29c8a13c6e5edfbda576a6018414c7babc54d8754d51aec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000738&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2024-02-02",
   "made": "1994-07-06",
   "gazette": "1994-09-23",
   "numac": 1994036156,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2024-02-02",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-02-02; future article versions excluded; article text as the API gives it"
 }
