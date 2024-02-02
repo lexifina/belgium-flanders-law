@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039098,
+  "title": "Decreet van 2023-11-23 over Vlaamse erfgoednetwerken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039098/VolledigDocument?datum=2024-02-02",
+  "source_sha256": "2c291b4f8446b6274e21ed518ca363cc9bb802c4fd1edae9fbc8edad2c0884b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039098&param=informatie",
+  "as_of": "2024-02-02",
+  "made": "2023-11-23",
+  "gazette": "2023-12-13",
+  "numac": 2023048095,
+  "document_start": "2024-02-02",
+  "document_end": null,
+  "in_force": "2024-02-02",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2024-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
