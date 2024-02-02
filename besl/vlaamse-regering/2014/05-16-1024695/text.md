@@ -2599,7 +2599,7 @@ De werken en diensten kunnen ook gefinancierd worden met andere overheidsbijdrag
 <br>
 Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de erfgoedpremie of onderzoekspremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100% overschrijden, wordt de premie verminderd tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde kostprijs. Het agentschap brengt de aanvrager onverwijld op de hoogte van de beslissing om die voormelde vermindering toe te passen.<br>
 <br>
-Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premies en fiscale voordelen uitgesloten:<br>
+Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premies, subsidies en fiscale voordelen uitgesloten:<br>
 1° een erfgoedpremie volgens de standaardprocedure:<br>
 2° een erfgoedpremie via oproep;<br>
 3° een onderzoekspremie;<br>
@@ -2610,9 +2610,11 @@ Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premi
 8° een verlaging van de verkooprechten, als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 9° een erfgoedpremie volgens de bijzondere procedure;<br>
 10° een restauratiepremie op basis van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten;<br>
-11° een premie voor archeologisch onderzoek van menselijke inhumatieresten.<br>
+11° een premie voor archeologisch onderzoek van menselijke inhumatieresten;<br>
+12° een premie in het kader van een meerjarenpremieovereenkomst, als vermeld 11.4.1;<br>
+13° een beheerssubsidie, als vermeld in artikel 9 van het besluit van de Vlaamse regering van 2 februari 2024 over Vlaamse erfgoednetwerken<br>
 <br>
-Een beheersvergoeding op basis van een beheersovereenkomst als vermeld in artikel 10.2.1 kan niet gecumuleerd worden met de premies en de fiscale voordelen, vermeld in het derde lid
+Een beheersvergoeding op basis van een beheersovereenkomst als vermeld in artikel 10.2.1 kan niet gecumuleerd worden met de premies, subsidies en fiscale voordelen, vermeld in het derde lid
 
 ## Afdeling 2 Erfgoedpremie
 
