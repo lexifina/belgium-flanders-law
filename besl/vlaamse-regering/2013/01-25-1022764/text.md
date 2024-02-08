@@ -523,9 +523,9 @@ De subsidieaanvraag voor de derde schijf, vermeld in artikel 48/1, § 3, 3°, be
 
 § 1. De subsidies die gericht zijn op de aanleg of herinrichting van fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk langs wegen die niet onder het beheer van het Vlaamse Gewest vallen, zoals vermeld in artikel 4, § 1, 4°, van het besluit van 6 september 2019, bedragen 50% van de kostprijs voor:<br>
 1° de aanleg van nieuwe fietsinfrastructuur;<br>
-2° de verbreding van een eenrichtingsfietspad van minder dan anderhalve meter breed;<br>
-3° de verbreding van een tweerichtingsfietspad van minder dan drie meter breed;<br>
-4° de vervanging van een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per rijrichting van minimaal anderhalve meter breed;<br>
+2° de verbreding van een eenrichtingsfietspad van minder dan twee meter breed;<br>
+3° de verbreding van een tweerichtingsfietspad van minder dan vier meter breed;<br>
+4° de vervanging van een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per rijrichting van minimaal twee meter breed;<br>
 5° de omvorming van een aanliggend fietspad tot een gescheiden fietspad, waar de verkeersomstandigheden dat noodzakelijk maken;<br>
 6° de aanleg van fietssnelwegen die de minister aanwijst.<br>
 <br>
@@ -635,9 +635,9 @@ In het tweede lid, 4°, wordt verstaan onder Mobiliteitscentrale: de Mobiliteits
 
 § 1. De subsidie aan provincies voor de aanleg of herinrichting van fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk bedraagt 50% van de kostprijs voor:<br>
 1° de aanleg van nieuwe fietsinfrastructuur;<br>
-2° de verbreding van een eenrichtingsfietspad van minder dan anderhalve meter breed;<br>
-3° de verbreding van een tweerichtingsfietspad van minder dan drie meter breed;<br>
-4° de vervanging van een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per rijrichting van minimaal anderhalve meter breed;<br>
+2° de verbreding van een eenrichtingsfietspad van minder dan twee meter breed;<br>
+3° de verbreding van een tweerichtingsfietspad van minder dan vier meter breed;<br>
+4° de vervanging van een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per rijrichting van minimaal twee meter breed;<br>
 5° de omvorming van een aanliggend fietspad tot een gescheiden fietspad, waar de verkeersomstandigheden dat noodzakelijk maken;<br>
 6° de aanleg van fietssnelwegen die de minister aanwijst conform artikel 48/3, § 1, 6°.<br>
 <br>

@@ -2,16 +2,16 @@
   "codex_id": 1022764,
   "title": "Besluit van de Vlaamse Regering van 2013-01-25 tot bepaling van de nadere regels betreffende [...] de financiering en de samenwerking voor het mobiliteitsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022764/VolledigDocument?datum=2022-04-15",
-  "source_sha256": "4d32cce3cdf0a989b802b51a6b679122dff174eeae43b96829a9bc8592f494a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022764/VolledigDocument?datum=2024-02-08",
+  "source_sha256": "f44ba5da0be86a9c1f0f6541c01a1b65ae7df2a07cf9904d25f36a151e9b772e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022764&param=informatie",
-  "as_of": "2022-04-15",
+  "as_of": "2024-02-08",
   "made": "2013-01-25",
   "gazette": "2013-02-27",
   "numac": 2013035203,
   "document_start": "2013-03-01",
   "document_end": null,
-  "in_force": "2022-04-15",
+  "in_force": "2024-02-08",
   "article_versions": 77,
-  "record_form": "consolidated version as in force on 2022-04-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-02-08; future article versions excluded; article text as the API gives it"
 }
