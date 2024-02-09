@@ -2,16 +2,16 @@
   "codex_id": 1038665,
   "title": "Omzendbrief van 2023-07-14 OMV/2023/1 – Afwegingskader en randvoorwaarden voor de oprichting van windturbines",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038665/VolledigDocument?datum=2023-07-14",
-  "source_sha256": "8e63354622e303e9817e52c2ee7db7e14a47ea41182a4fe3e47e3b519753f3eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038665/VolledigDocument?datum=2024-02-09",
+  "source_sha256": "46342018dbac9f9355a301c87ed0cb727c15b22005ca10127d7c846e65c13937",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038665&param=informatie",
-  "as_of": "2023-07-14",
+  "as_of": "2024-02-09",
   "made": "2023-07-14",
   "gazette": "2023-10-05",
   "numac": 2023044240,
   "document_start": "2023-07-14",
   "document_end": null,
-  "in_force": "2023-07-14",
+  "in_force": "2024-02-09",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2023-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-02-09; future article versions excluded; article text as the API gives it"
 }
