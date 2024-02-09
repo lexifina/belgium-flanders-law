@@ -14,16 +14,16 @@ Besluit :
 
 ### ART. 1.
 
-De lijst met materialen, afkomstig van en bestemd voor metallurgische productieprocessen voor non-ferrometalen, die als grondstoffen worden gebruikt overeenkomstig artikel 2.3.5.1 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams Reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, is opgenomen in bijlage 1, die bij dit besluit is gevoegd.
+...
 
 ### ART. 2.
 
-De lijst met materialen, afkomstig van metallurgische productieprocessen voor ferrometalen, die als grondstoffen worden gebruikt overeenkomstig artikel 2.3.6.1 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams Reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, is opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op de datum van ondertekening.
+...
 
 ### BIJLAGE
 
-De lijst met materialen, afkomstig van en bestemd voor metallurgische productieprocessen voor non-ferrometalen<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/10/24_2.pdf#page=86" title=" tabel" target="_blank" class="pdf">tabel</a> <br /><br />
+...
