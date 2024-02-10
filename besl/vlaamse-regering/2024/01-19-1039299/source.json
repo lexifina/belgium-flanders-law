@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039299,
+  "title": "Besluit van de Vlaamse Regering van 2024-01-19 tot bepaling van aanvullende programmatienormen voor het gespecialiseerde zorgprogramma “acute beroertezorg met invasieve procedures”",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039299/VolledigDocument?datum=2024-02-10",
+  "source_sha256": "07e473647cbc4023086d1d8fdbfa2591242371a8d22f0443cceed02872acfe96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039299&param=informatie",
+  "as_of": "2024-02-10",
+  "made": "2024-01-19",
+  "gazette": "2024-01-31",
+  "numac": 2024000875,
+  "document_start": "2024-02-10",
+  "document_end": null,
+  "in_force": "2024-02-10",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-02-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
