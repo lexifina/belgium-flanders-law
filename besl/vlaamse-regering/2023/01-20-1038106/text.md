@@ -88,7 +88,7 @@ In afwijking van het eerste lid, 1°, 5° en 6°, worden op het personeel van ee
 1° de personen aangesteld met een studentenovereenkomst als vermeld in artikel 121 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
 2° het kabinets- of fractiepersoneel, vermeld in artikel 184, §3, van het decreet van 22 december 2017, en artikel 100, §3, van het Provinciedecreet van 9 december 2005;<br>
 3° het personeel van de door de hogere overheid erkende, vergunde of gesubsidieerde zorginstellingen, dat is ingestapt in de functieclassificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren;<br>
-4° het personeel dat ter beschikking wordt gesteld aan een federaal gefinancierde gezondheidsinstelling of entiteit, en dat is ingestapt in de functieclassificatie ter uitvoering van het sociaal akkoord van 7 juli 2020 voor de federale gezondheidssectoren, zoals bekrachtigd door de federale regering op 12 november 2020;<br>
+4° het personeel dat in een federaal gefinancierde gezondheidsinstelling of -entiteit van een lokaal bestuur werkt of ter beschikking wordt gesteld aan een federaal gefinancierde gezondheidsinstelling of entiteit, en dat is ingestapt in de functieclassificatie ter uitvoering van het sociaal akkoord van 7 juli 2020 voor de federale gezondheidssectoren, zoals bekrachtigd door de federale regering op 12 november 2020;<br>
 5° de personen die activiteiten verrichten als bedoeld in artikel 17 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 6° de personen die tewerkgesteld worden met een flexi-jobarbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
 <br>
@@ -1028,6 +1028,16 @@ De raad kan in de rechtspositieregeling bepalen dat statutaire personeelsleden d
 Bij de toepassing van het eerste lid geldt dat als de contractuele personeelsleden met toestemming van de Rijksdienst voor Arbeidsvoorziening in tijdelijke werkloosheid kunnen worden geplaatst, de statutaire personeelsleden op grond van dezelfde motieven in tijdelijke afwezigheid wegens overmacht kunnen worden gesteld.<br>
 <br>
 De statutaire personeelsleden die in tijdelijke afwezigheid zijn gesteld als vermeld in het eerste lid, behouden hun aanspraken op de verhogingen als vermeld in artikel 25, eerste lid, 2°. Ze genieten een wachtgeld dat gelijk is aan 80% van het laatste activiteitssalaris, en berekend wordt volgens de regels die van toepassing zouden zijn geweest als het statutaire personeelslid nog in effectieve actieve dienst was gebleven. Om het salaris te bepalen, wordt het salaris op jaarbasis begrensd op 26.230 euro tegen 100%.
+
+## Afdeling 8. Flexibele werkregelingen voor zorgdoeleinden
+
+### ART 68/1.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers, en tot intrekking van Richtlijn 2010/18/EU van de Raad.
+
+### ART 68/2.
+
+Het statutaire personeelslid heeft het recht om flexibele werkregelingen aan te vragen voor zorgdoeleinden conform artikel 21 tot en met 26 van de wet van 7 oktober 2022 tot gedeeltelijke omzetting van de Richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers, en tot intrekking van Richtlijn 2010/18/EU van de Raad en tot regeling van een aantal andere aspecten op het vlak van de verloven.
 
 ## Hoofdstuk 5. Slotbepalingen
 
