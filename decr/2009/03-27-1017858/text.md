@@ -102,7 +102,10 @@ c) waarvan het kapitaal voor niet meer dan 15 percent in handen is van een venno
 51° auditieve ondertiteling : een auditieve weergave van de ondertiteling bij niet-Nederlandstalige films en dialogen;<br>
 52° audiobeschrijving : een techniek om audiovisuele producties zoals film en televisieprogramma's toegankelijk te maken voor blinden en slechtzienden. Een voice-over beschrijft de visuele elementen;<br>
 53° ondertiteling : een tekstuele versie van de dialoog die op het scherm wordt afgebeeld of oproepbaar is;<br>
-54° gebarentaal : een visueel-manuele taal, waarin begrippen en concepten door middel van gebaren in een driedimensionele gebarenruimte worden weergegeven.
+54° gebarentaal : een visueel-manuele taal, waarin begrippen en concepten door middel van gebaren in een driedimensionele gebarenruimte worden weergegeven;<br>
+55° digitaledienstenverordening: verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG;<br>
+56° tussenhandeldienst: een tussenhandeldienst als vermeld in artikel 3, g), van de digitaledienstenverordening;<br>
+57° bevoegde autoriteit: een bevoegde autoriteit als vermeld in artikel 49 van de digitaledienstenverordening.
 
 ## DEEL II. De openbare omroeporganisatie van de Vlaamse Gemeenschap
 
@@ -1730,6 +1733,19 @@ De Vlaamse Regulator voor de Media ziet erop toe dat de aanbieders van videoplat
 <br>
 Als de Vlaamse Regulator voor de Media klachten of opmerkingen ontvangt over aanbieders van videoplatformdiensten die niet onder de bevoegdheid van de Vlaamse Gemeenschap vallen, bezorgt de Vlaamse Regulator voor de Media die klachten of opmerkingen aan de nationale regulerende instantie of het nationale regulerende orgaan van de bevoegde lidstaat.
 
+## DEEL III/2. Tussenhandeldiensten
+
+### ART 176/9.
+
+Deze titel is van toepassing op tussenhandeldiensten die betrekking hebben op omroepactiviteiten als:<br>
+1° de hoofdvestiging van de aanbieder van tussenhandeldiensten is gevestigd in het Nederlandse taalgebied of de hoofdvestiging van de aanbieder van tussenhandeldiensten is gevestigd in het tweetalige gebied Brussel-Hoofdstad en de aanbieder, wegens zijn activiteiten, moet worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap;&nbsp;<br>
+2° de aanbieder van tussenhandeldiensten geen vestiging in de Europese Unie heeft, als zijn wettelijke vertegenwoordiger verblijft of gevestigd is in het Nederlandse taalgebied of als zijn wettelijke vertegenwoordiger verblijft of gevestigd is in het tweetalige gebied Brussel-Hoofdstad en de aanbieder, wegens zijn activiteiten, moet worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap;<br>
+3° een aanbieder van tussenhandeldiensten geen wettelijke vertegenwoordiger overeenkomstig artikel 13 van de digitaledienstenverordening aanduidt en tussenhandeldiensten aanbiedt aan afnemers die gevestigd zijn of zich bevinden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad.
+
+### ART 176/10.
+
+De Vlaamse Regulator voor de Media is een bevoegde autoriteit als vermeld in artikel 49 van de digitaledienstenverordening voor de tussenhandel- diensten, vermeld in artikel 176/9.
+
 ## DEEL IV. Dienstenverdelers
 
 ## TITEL I. ALGEMENE BEPALINGEN
@@ -1780,7 +1796,7 @@ Het is een dienstenverdeler toegestaan via het elektronische communicatienetwerk
 
 ### ART. 183.
 
-De dienstenverdelers kunnen niet aansprakelijk gesteld worden voor de door de omroeporganisaties doorgegeven informatie of voor het verschaffen van toegang tot die informatie, noch voor de op verzoek van de omroeporganisatie opgeslagen informatie, op voorwaarde dat aan elk van de volgende voorwaarden is voldaan :<br />1° in geval van lineaire en niet-lineaire diensten wijzigt de dienstenverdeler de doorgegeven informatie van de omroeporganisaties niet;<br />2° in geval van niet-lineaire diensten ligt het initiatief om de informatie door te geven niet bij de dienstenverdeler;<br />3° in geval van niet-lineaire diensten wordt de ontvanger van de doorgegeven informatie in verband met die diensten niet door de dienstenverdeler bepaald.<br /><br />Het eerste lid doet geen afbreuk aan de mogelijkheid van de Vlaamse Regulator voor de Media om in overeenstemming met de bepalingen van dit decreet te eisen dat de dienstenverdeler een inbreuk beëindigt of voorkomt.
+...
 
 ### ART 183/1.
 
@@ -2620,11 +2636,17 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 
 ## TITEL II. MISSIE, TAKEN EN BEVOEGDHEDEN
 
+### ART 217/1.
+
+De Vlaamse Regulator voor de Media is verantwoordelijk voor, of verleent medewerking bij, de toepassing, de uitvoering en het toezicht op de naleving van:<br>
+1° &nbsp; de digitaledienstenverordening;<br>
+2° verordening (EU) 2022/1925 over betwistbare en eerlijke markten in de digitale sector.
+
 ### ART. 218.
 
-§ 1. De Vlaamse Regulator voor de Media heeft als missie de handhaving van de mediaregelgeving binnen de Vlaamse Gemeenschap, het beslechten van geschillen over de mediaregelgeving en het uitreiken van de media-erkenningen en -vergunningen, overeenkomstig de regelgeving.<br>
+§1. De Vlaamse Regulator voor de Media heeft als missie de handhaving van de mediaregelgeving binnen de Vlaamse Gemeenschap, het beslechten van geschillen over de mediaregelgeving en het uitreiken van de media-erkenningen en -vergunningen, overeenkomstig de regelgeving.<br>
 <br>
-§ 2. De algemene kamer heeft de volgende taken :<br>
+§2. De algemene kamer heeft de volgende taken :<br>
 1° met behoud van de toepassing van paragraaf 3 en van artikelen 13 en 30, het toezicht op de naleving van en de beteugeling van de inbreuken op de bepalingen van dit decreet en zijn uitvoeringsbesluiten, met inbegrip van het toezicht op de naleving door de openbare omroeporganisatie en de beteugeling van de inbreuken door de openbare omroeporganisatie;<br>
 2° het uitreiken, wijzigen, schorsen en opheffen van zendvergunningen;<br>
 3° het toekennen, schorsen of opheffen van de vergunning voor het aanbieden van een etheromroepnetwerk;<br>
@@ -2648,22 +2670,23 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 20° het contactpunt onderhouden als vermeld in artikel 151, § 7;<br>
 21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
 22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
-23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1.<br>
+23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1;<br>
+24° het toezicht als bevoegde autoriteit, vermeld in artikel 176/10.<br>
 <br>
 De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. Bij de uitoefening van de taken, vermeld in het eerste lid, 1° tot en met 7° en 11°, houdt de algemene kamer evenwel zeer zorgvuldig rekening met door Berec aangenomen richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en methodologieën; en voor de taken, vermeld in het eerste lid, 1° tot en met 7°, ook met de aanbevelingen en besluiten van de Europese Commissie die zijn aangenomen om de geharmoniseerde toepassing van richtlijn 2018/1972 te garanderen. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
-§ 3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
+§3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
 1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
 2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
 3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°.<br>
 <br>
 De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij volledig autonoom uitspraak. In geval van betwistingen wordt de kamer voor onpartijdigheid en bescherming van minderjarigen in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
-§ 4. Een afschrift van elke beslissing van de Vlaamse Regulator voor de Media wordt aan de minister bezorgd.<br>
+§4. Een afschrift van elke beslissing van de Vlaamse Regulator voor de Media wordt aan de minister bezorgd.<br>
 <br>
-§ 5. De Vlaamse Regulator voor de Media stelt&nbsp;jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
+§5. De Vlaamse Regulator voor de Media stelt&nbsp;jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
 <br>
-§ 6. Als dat noodzakelijk is werkt de Vlaamse Regulator voor de Media in het kader van de toepassing van deel IV en deel V samen met de volgende actoren :<br>
+§6. Als dat noodzakelijk is werkt de Vlaamse Regulator voor de Media in het kader van de toepassing van deel IV en deel V samen met de volgende actoren :<br>
 1° de bevoegde regulerende instanties voor radio-omroep en voor telecommunicatie van de Franse en Duitstalige Gemeenschap, de federale overheid en de andere lidstaten van de Europese Unie en de Europese Economische Ruimte;<br>
 2° de Belgische mededingingsautoriteiten;<br>
 3° de regulerende en toezichthoudende instanties in de overige economische sectoren in België;<br>
@@ -2672,7 +2695,12 @@ De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij voll
 <br>
 Na een met reden omkleed verzoek van de Europese Commissie verstrekt de Vlaamse Regulator voor de Media de Europese Commissie de informatie die ze nodig heeft om haar taken op grond van het Verdrag betreffende de werking van de Europese Unie te vervullen. Als de informatie die de Vlaamse Regulator voor de Media verstrekt, betrekking heeft op informatie die eerder door ondernemingen op verzoek van de Vlaamse Regulator voor de Media is verstrekt, worden die ondernemingen daarvan op de hoogte gebracht. Als de Europese Commissie conform dit artikel informatie vraagt aan de Vlaamse Regulator voor de Media die de Vlaamse Regulator voor de Media van ondernemingen verkregen heeft en als die ondernemingen erom verzoeken, verzoekt de Vlaamse Regulator voor de Media met opgave van de redenen de Europese Commissie om de verstrekte informatie niet aan regulerende instanties van andere lidstaten beschikbaar te stellen.<br>
 <br>
-§ 7. Bij het opstellen van niet-bindende interpretatieve richtsnoeren, vermeld in paragraaf 2, eerste lid, 14°, en paragraaf 3, eerste lid, 2°, organiseert de Vlaamse Regulator voor de Media een openbare raadpleging.
+§6/1. Als dat noodzakelijk is, werkt de Vlaamse Regulator voor de Media in het kader van de toepassing van de digitaledienstenverordening samen met de volgende actoren:<br>
+1° de bevoegde autoriteiten, vermeld in artikel 49 van de digitaledienstenverordening, aangeduid door de Vlaamse, Franse en Duitstalige Gemeenschap, de federale overheid en de andere lidstaten van de Europese Unie;<br>
+2° de digitaledienstencoördinatoren, vermeld in artikel 49 van de digitaledienstenverordening, aangeduid voor België en voor de andere lidstaten van de Europese Unie;<br>
+3° de Europese Raad voor Digitale Diensten; 4° de Europese Commissie.<br>
+<br>
+§7. Bij het opstellen van niet-bindende interpretatieve richtsnoeren, vermeld in paragraaf 2, eerste lid, 14°, en paragraaf 3, eerste lid, 2°, organiseert de Vlaamse Regulator voor de Media een openbare raadpleging.
 
 ### ART. 219.
 
@@ -2795,7 +2823,9 @@ De gedelegeerd bestuurder is belast met het dagelijks bestuur en vertegenwoordig
 
 De Vlaamse Regulator voor de Media neemt deel aan Vlaamse, inter-federale en nationale samenwerkingsverbanden of geschillenorganen waarin hij zitting heeft. De bevoegde kamer kan daarvoor delegatie verlenen aan een lid van de bevoegde kamer of aan een personeelslid van de Vlaamse Regulator voor de Media.<br>
 <br>
-De Vlaamse Regulator voor de Media neemt deel aan de werking van de Europese Groep van regelgevende instanties voor audiovisuele mediadiensten ERGA, vermeld in artikel 30ter van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
+De Vlaamse Regulator voor de Media neemt deel aan de werking van de Europese Groep van regelgevende instanties voor audiovisuele mediadiensten ERGA, vermeld in artikel 30ter van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).<br>
+<br>
+De Vlaamse Regulator voor de Media neemt deel aan de bijeenkomsten van de Europese Raad voor Digitale Diensten als de besproken onderwerpen binnen zijn bevoegdheid vallen.
 
 ## TITEL IV. SANCTIES
 
@@ -2811,6 +2841,16 @@ Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artik
 7° de doorgifteschorsing, vermeld in artikel 40/1.<br>
 <br>
 In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of opheffen.
+
+### ART 228/1.
+
+De sancties, vermeld in artikel 228, 1°, 2°, 3°, 5°, 6°, 7° en 8°, zijn ook van toepassing bij overtredingen van de digitaledienstenverordening.<br>
+<br>
+Bij niet-naleving van een verplichting uit de digitaledienstenverordening kan de algemene kamer een administratieve geldboete opleggen tot maximum 6% van de wereldwijde omzet van de betrokken aanbieder van de tussenhandeldiensten in het voorgaande boekjaar.<br>
+<br>
+Het maximumbedrag van de geldboete die kan worden opgelegd wegens het verstrekken van onjuiste, onvolledige of misleidende informatie, het niet beantwoorden of niet corrigeren van onjuiste, onvolledige of misleidende informatie en het niet onderwerpen aan een inspectie als vermeld in artikel 52, §3, van de digitaledienstenverordening, bedraagt 1% van de inkomsten of de wereldwijde omzet van de aanbieder van de tussenhandeldiensten of de betrokken persoon in het voorgaande boekjaar.<br>
+<br>
+Het maximumbedrag van de dwangsom per dag, vermeld in artikel 52, §4, van de digitaledienstenverordening, bedraagt 5% van de gemiddelde dagelijkse wereldwijde omzet of inkomsten van de betrokken aanbieder van tussenhandeldiensten in het voorgaande boekjaar, berekend vanaf de datum, vermeld in het desbetreffende besluit.
 
 ### ART. 229.
 
