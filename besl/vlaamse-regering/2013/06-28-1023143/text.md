@@ -30,11 +30,11 @@ De subsidies, vermeld in artikel 63/4 van het voornoemde decreet van 30 april 20
 2° 60 % van het bedrag wordt verdeeld volgens de doctoraatsparameter van de sleutel voor de verdeling van de middelen voor de Bijzondere Onderzoeksfondsen in jaar t, zoals beschreven in artikel 33 van het besluit van de Vlaamse Regering van 21 december 2012 betreffende de financiering van de bijzondere onderzoeksfondsen aan de universiteiten in de Vlaamse Gemeenschap;<br>
 3° 20 % van het bedrag wordt verdeeld volgens het procentuele aandeel van elke universiteit in de voltijdse eenheden van het wetenschappelijk personeel buiten de werkingsuitkeringen op postdoctoraal niveau en de doctor-assistenten, volgens de personeelsstatistieken van de Vlaamse Interuniversitaire Raad van de jaren t-5 tot en met t-2.<br>
 <br>
-De subsidies, vermeld in het eerste lid, bedragen minstens 5.000.000 euro per jaar.
+De subsidies, vermeld in het eerste lid, bedragen minstens 6.000.000 euro per jaar.
 
 ### ART. 4.
 
-De procentuele verdeelsleutel wordt afgerond op twee cijfers na de komma na afloop van de berekening.&nbsp;Ieder jaar t-1 maakt de bevoegde administratie de verdeelsleutel voor het jaar t, vermeld in artikel 3, bekend voor 1 september.
+De procentuele verdeelsleutel wordt afgerond op twee cijfers na de komma na afloop van de berekening.&nbsp;Ieder jaar t-1 maakt de bevoegde administratie de verdeelsleutel voor het jaar t, vermeld in artikel 3, bekend voor 15 september.
 
 ### ART. 5.
 
@@ -96,7 +96,7 @@ g) individueel coachen van doctorale en postdoctorale onderzoekers;<br>
 h) professionalisering van de administratieve en inhoudelijke verantwoordelijken voor de omkadering van doctorale en postdoctorale onderzoekers;<br>
 i) ...;<br>
 3° versterken van de internationale oriëntatie in de loopbaan van jonge onderzoekers :<br>
-a) ondersteunen en stimuleren van de internationale mobiliteit van doctorale en postdoctorale onderzoekers : informatieverstrekking, organisatie en uitbreiding van internationale doctoraatsprogramma's en mobiliteit van doctorale en postdoctorale onderzoekers;<br>
+a) ondersteunen en stimuleren van de internationale mobiliteit van doctorale en postdoctorale onderzoekers: informatieverstrekking, organisatie en uitbreiding van internationale doctoraatsprogramma’s en korte mobiliteit van doctorale en postdoctorale onderzoekers die passen binnen de doelstellingen, vermeld in punt 1° en 2°;<br>
 b) organiseren van internationale rekrutering van doctorale en postdoctorale onderzoekers;<br>
 c) organiseren van contacten met relevante internationale partners;<br>
 d) organiseren of aanbieden van trainingsonderdelen in samenwerking met internationale partners;<br>
@@ -109,10 +109,11 @@ d) organiseren of aanbieden van trainingsonderdelen in samenwerking met internat
 2° duurzaamheid;<br>
 3° aanmoedigen en ontwikkelen van ondernemerschap;<br>
 4° interdisciplinariteit en de eigenheid van verschillende disciplines en verschillende loopbaanprofielen van jonge onderzoekers;<br>
-5° de implementatie van de principes van de aanbeveling van de Europese Commissie van 11 maart 2005 betreffende het Europese Handvest voor Onderzoekers en de Gedragscode voor de Rekrutering van Onderzoekers, PB L 75 van 22.3.2005;<br>
-6° de implementatie van de principes voor innovatieve doctoraatstraining, goedgekeurd in de Conclusies van 28 november 2011 van de Raad van de Europese Unie over de modernisering van het hoger onderwijs, PB C 372 van 20.12.2011 .</p>
-
-<p>Het naleven van de principes, vermeld in het eerste lid, blijkt uit de inhoudelijke rapportering, vermeld in artikel 15.</p>
+5° de implementatie van de principes van de aanbeveling van de Europese Commissie van 18 december 2023 betreffende het Europees kader voor het aantrekken en behouden van onderzoeks-, innovatie- en ondernemingstalenten in Europa;<br>
+6° de implementatie van de principes voor innovatieve doctoraatstraining, goedgekeurd in de Conclusies van 28 november 2011 van de Raad van de Europese Unie over de modernisering van het hoger onderwijs, PB C 372 van 20.12.2011;<br>
+7° het welzijn van de jonge onderzoekers, inclusief de aanpak van grensoverschrijdend gedrag.<br>
+<br>
+Het naleven van de principes, vermeld in het eerste lid, blijkt uit de inhoudelijke rapportering, vermeld in artikel 15.</p>
 
 ### ART. 12.
 
@@ -166,7 +167,7 @@ De Vlaamse minister, bevoegd voor het wetenschapsbeleid, keurt het plan goed bin
 <br>
 Tijdens de looptijd van het beleidsplan deelt iedere begunstigde jaarlijks uiterlijk op 30 juni de wijzigingen die erin worden aangebracht, mee aan de bevoegde administratie.<br>
 <br>
-§ 2. De begunstigden bezorgen jaarlijks voor 30 maart van het jaar t+1 aan de bevoegde administratie een gezamenlijk inhoudelijk verslag over de activiteiten binnen een samenwerkingsverband tussen minstens drie Vlaamse universiteiten als vermeld in artikel 12, eerste lid, 4°.<br>
+§ 2. De begunstigden bezorgen jaarlijks voor 1 april van het jaar t+1 aan de bevoegde administratie een gezamenlijk inhoudelijk verslag over de activiteiten binnen een samenwerkingsverband tussen minstens drie Vlaamse universiteiten als vermeld in artikel 12, eerste lid, 4°.<br>
 <br>
 Elke begunstigde bezorgt jaarlijks voor 30 maart van het jaar t+1 aan de bevoegde administratie een inhoudelijk verslag over zijn individuele initiatieven en een financieel verslag over al zijn activiteiten. Dat document:<br>
 1° geeft inzicht in de werkzaamheden en de doelmatigheid en doeltreffendheid ervan in de afgelopen bestedingstermijn;<br>
@@ -215,7 +216,13 @@ De evaluatie gaat onder meer na of de subsidies effectief en efficiënt zijn ing
 1° de strategische plannen;<br>
 2° de verslagen die de begunstigden tijdens de periode waarop de evaluatie betrekking heeft, conform artikel 15 hebben bezorgd;<br>
 3° de zelfevaluatierapporten die de begunstigden conform paragraaf 4, hebben opgesteld;<br>
-4° een benchmark met andere vergelijkbare instrumenten of programma's.<br>
+4° een benchmark met andere vergelijkbare instrumenten of programma's;<br>
+5° de resultaten van een bevraging bij onderzoekers, onder wie jonge onderzoekers, die in het Vlaamse Gewest of het Brusselse Gewest werken of hebben gewerkt. De bevoegde administratie organiseert de voormelde bevraging om de vijf jaar en ze wordt gehouden in het jaar vóór het jaar waarin de evaluatie, vermeld in paragraaf 1, wordt uitgevoerd.<br>
+<br>
+De evaluatie, vermeld in paragraaf 1, kan aandacht besteden aan de volgende elementen:&nbsp;<br>
+1° de relatie van de maatregelen van begunstigden voor de omkadering van jonge onderzoekers met en de plaats van die maatregelen ten opzichte van middelen voor onderzoek;&nbsp;<br>
+2° de rol en positie van de maatregelen van begunstigden voor de omkadering van jonge onderzoekers in het bredere Vlaamse onderzoeks- en innovatiesysteem;&nbsp;<br>
+3° transversale beleidsthema’s of andere aspecten die raken aan de omkadering van jonge onderzoekers.<br>
 <br>
 § 3. De bevoegde administratie organiseert de evaluatie, vermeld in paragraaf 1, en draagt de kosten ervan. Bij de evaluatie worden de algemene en specifieke procedures gevolgd die de bevoegde administratie voor beleidsevaluaties heeft uitgewerkt.<br>
 <br>
@@ -231,7 +238,7 @@ Het ex-postgedeelte heeft minstens betrekking op de periode [t-6, t-1] en blikt 
 <br>
 Het ex-antegedeelte blikt minstens vooruit op een volgende periode van vijf jaar [t/(t+1), t+6], en omvat minstens een ontwerp van beleidsplan of strategisch plan dat in het kader van de evaluatie wordt beoordeeld. Op basis van die beoordeling kan het ontwerp evolueren tot een definitief beleidsplan of een strategisch plan.<br>
 <br>
-De volledige zelfevaluatie wordt beschouwd als een werkdocument dat input levert voor de evaluatie. Beide delen van de zelfevaluatie worden opgesteld op basis van een vragenlijst die de bevoegde administratie aan de begunstigden ter beschikking stelt.
+De volledige zelfevaluatie wordt beschouwd als een werkdocument dat input levert voor de evaluatie. Beide delen van de zelfevaluatie worden opgesteld op basis van een themalijst die de bevoegde administratie aan de begunstigden ter beschikking stelt.
 
 ## HOOFDSTUK 5 Slotbepaling
 
