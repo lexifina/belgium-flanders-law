@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039316,
+  "title": "Besluit van de Vlaamse Regering van 2024-01-19 tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2013 betreffende de omkadering van jonge onderzoekers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039316/VolledigDocument?datum=2024-02-17",
+  "source_sha256": "22acc623b37bf6b5453f13a1618561076f08e3f6b2400aedd761c1ad8eb8c411",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039316&param=informatie",
+  "as_of": "2024-02-17",
+  "made": "2024-01-19",
+  "gazette": "2024-02-07",
+  "numac": 2024001082,
+  "document_start": "2024-02-17",
+  "document_end": null,
+  "in_force": "2024-02-17",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
