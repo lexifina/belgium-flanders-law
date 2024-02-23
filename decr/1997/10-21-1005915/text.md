@@ -100,9 +100,12 @@ d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijk
 67° inheemse soort: een soort die van nature in het Vlaamse Gewest in het wild voorkomt of voorkwam, of er al lang is ingeburgerd;<br>
 68° soortenbeschermingsprogramma: een programma van soortenbehoudsmaatregelen dat met name gericht is op het verkrijgen van de gunstige staat van instandhouding van een inheemse soort of een groep van soorten in het gebied waarop het programma van toepassing is;<br>
 69° planversie: één van de opeenvolgende versies van een managementplan Natura 2000;<br>
-70° zoekzone: een zone die per Europees te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft die gevrijwaard wordt met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het realiseren van het openstaand saldo van de taakstelling voor de betrokken Europees te beschermen habitat of Europees te beschermen soort;<br>
+70° zoekzone: een zone die per Europees te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft die gevrijwaard wordt met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het realiseren van het openstaand saldo van de taakstelling voor de betrokken Europees te beschermen habitat of Europees te beschermen soort. Dat openstaand saldo is het verschil tussen de oppervlakte aan Europees te beschermen habitat of leefgebied van Europees te beschermen soorten, bepaald in de instandhoudingsdoelstellingen voor een speciale beschermingszone, en de oppervlakte waarvoor het passende beheer is vastgesteld in goedgekeurde natuurbeheerplannen als vermeld in artikel 16octies van dit decreet of daarmee vergelijkbare plannen of vergelijkbare overeenkomsten waarin een passend beheer is vastgesteld;<br>
 71° actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld wordt voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de betrokken speciale beschermingszone;<br>
-72° omgevingsvergunning voor het wijzigen van de vegetatie: de omgevingsvergunning voor het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan.</p>
+72° omgevingsvergunning voor het wijzigen van de vegetatie: de omgevingsvergunning voor het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan;<br>
+74° stikstofdepositie: de aanvoer van stikstof uit de atmosfeer naar oppervlakken zoals bodem, water en vegetaties. Dat gebeurt rechtstreeks vanuit de lucht (droge depositie) en via regen, sneeuw en hagel (natte depositie);<br>
+75° stikstofgevoelige habitats: habitattypes waarvan de kwaliteit wordt aangetast door de effecten van stikstofdepositie.<br>
+&nbsp;</p>
 
 ## HOOFDSTUK II OFFICIËLE STRUCTUREN INZAKE NATUURBELEID
 
@@ -890,6 +893,17 @@ De conform het eerste lid vastgestelde instandhoudingsdoelstellingen zijn voor e
 1° het nemen van beslissingen ter uitvoering van het eerste lid en paragraaf 2 van dit artikel;<br>
 2° het nemen van beslissingen of het verlenen van advies ter uitvoering van paragraaf 3 tot en met 6.<br>
 <br>
+Als een zoekzone wordt afgebakend met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen die conform het eerste lid zijn vastgesteld, gebeurt dat op basis van actuele en potentiële natuurwaarden die relevant zijn voor de realisatie van het openstaande saldo van de taakstelling, vermeld in artikel 2, 70°.<br>
+<br>
+Elke zoekzone wordt in die mate groter afgebakend dan het openstaande saldo zodanig dat dat saldo altijd binnen de zoekzone gerealiseerd kan worden. De Vlaamse Regering kan hiervoor nadere regels bepalen. Zij kan daarbij bepalen welke soort en omvang van oppervlakte bij voorrang in aanmerking komt als zoekzone en welke factor op welke grootte van een openstaand saldo wordt toegepast om de oppervlakte van een zoekzone te bepalen.<br>
+<br>
+Binnen de delen van de zoekzone met de laagste actuele of potentiële natuurwaarden kan de afbakening worden aangepast op basis van socio-economische belangen. Bij een dergelijke aanpassing worden de bepalingen van het derde en vierde lid gerespecteerd en wordt ervoor gezorgd dat de totale oppervlakte van de zoekzone niet kleiner wordt.<br>
+<br>
+De zoekzonekaart van 2015, zoals consulteerbaar op de website Geopunt van de Vlaamse administratie, die opgemaakt is voor Europees te beschermen habitats, bevat voor elke speciale beschermingszone die aangewezen is met toepassing van de Habitatrichtlijn, zoekzones voor de Europees te beschermen habitats waarvoor de betreffende speciale beschermingszones zijn aangewezen. Die zoekzones worden geacht afgebakend te zijn overeenkomstig de bepalingen van het derde tot en met het vijfde lid.<br>
+<br>
+De Vlaamse Regering bepaalt nadere regels voor de toepassing van het derde tot en met het vijfde lid.<br>
+<br>
+<br>
 § 2. De administratieve overheid neemt, binnen haar bevoegdheden, ongeacht de bestemming van het betrokken gebied, tevens alle nodige maatregelen om<br>
 a) elke verslechtering van de natuurkwaliteit en het natuurlijk milieu van de habitats van bijlage I van dit decreet en van de habitats van de soorten vermeld in de bijlagen II, III en IV van dit decreet evenals de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende soorten trekvogels in een speciale beschermingszone te vermijden;<br>
 b) elke betekenisvolle verstoring van een soort vermeld in de bijlagen II, III of IV van dit decreet evenals de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende soorten trekvogels in een speciale beschermingszone te vermijden.<br>
@@ -951,27 +965,29 @@ Wordt deze beslissing genomen in het kader van een vergunningverlening of het ve
 
 ### ART. 37.
 
-§ 1. De Vlaamse grondenbank heeft het recht van voorkoop bij verkoop van onroerende goederen :<br>
+§1. De Vlaamse grondenbank heeft het recht van voorkoop bij verkoop van onroerende goederen :<br>
 1° in het VEN, met uitzondering van de onroerende goederen uitgesloten door de Vlaamse Regering;<br>
 2° binnen de groen- en bosgebieden en de bosuitbreidingsgebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, gelegen binnen de speciale beschermingszones;<br>
 3° in een door de Vlaamse Regering afgebakende perimeter binnen de groen- en bosgebieden en de bosuitbreidingsgebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening gelegen binnen het IVON;<br>
 4° in de afbakening van een natuurinrichtingsproject.<br>
 5° in de terreinen waar het agentschap het beheer heeft overgenomen met toepassing van artikel 16decies, § 1 en § 2;<br>
-6° in een zoekzone afgebakend conform artikel 50septies, § 4, eerste lid, ongeacht de planologische bestemming in de goedgekeurde plannen van aanleg of ruimtelijke uitvoeringsplannen. Van zodra een dergelijke zoekzone is afgebakend wordt het voorkooprecht dat conform punt 2° bestaat, opgeheven binnen de speciale beschermingszone of -zones in kwestie.<br>
+6° binnen het werkingsgebied Turnhouts Vennengebied, vermeld in artikel 41 van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, voor zover dat ligt binnen de speciale beschermingszones, vermeld in artikel 2, 43°, a) en c);<br>
+7° op de binnen een speciale beschermingszone, vermeld in artikel 2, 43°,<br>
+a) of c), gelegen gronden die eigendom zijn van een exploitant van een veehouderij waarvoor er een stopzettingsvergoeding werd verleend in uitvoering van artikel 39 van het decreet van 26 januari 2024 over de programmatische aanpak stikstof.<br>
 <br>
 Onverminderd artikel 8 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten geldt dit voorkooprecht niet in geval van verkoop van het goed aan leden van erkende bos-groeperingen die voor 20 januari 1998 overeenkomstig artikel 85 van het bosdecreet van 13 juni 1990 werden erkend, voor zover het bovenvermelde goed deel uitmaakt van de kadastrale percelen waarop de erkenning betrekking heeft en de koper reeds onroerende goederen in eigendom of mede-eigendom heeft binnen de omschrijving van de bosgroepering.<br>
 <br>
-§ 2. ...<br>
+§2. De Vlaamse Regering kan de nodige maatregelen nemen opdat, in geval het voorkooprecht, vermeld in paragraaf 1, eerste lid, 7°, wordt uitgeoefend, voor de realisatie van stikstofsaneringsmaatregelen, vermeld in artikel 4, §5, derde lid, van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, de mogelijkheid gegeven wordt aan de kandidaat-koper, om het onroerend goed in kwestie te verwerven, op voorwaarde dat de kandidaat-koper de vermelde stikstofsaneringsmaatregelen zelf realiseert.<br>
 <br>
-§ 3. ...<br>
+§3. ...<br>
 <br>
-§ 4. De Vlaamse regering kan de nodige maatregelen nemen om in geval het voorkooprecht wordt uitgeoefend op een verpacht perceel een vrijwillige grondruil mogelijk te maken.<br>
+§4. De Vlaamse regering kan de nodige maatregelen nemen om in geval het voorkooprecht wordt uitgeoefend op een verpacht perceel een vrijwillige grondruil mogelijk te maken.<br>
 <br>
 Voor voormelde gronden kan slechts een einde gemaakt aan de lopende pacht bij het verstrijken van elke pachtperiode zoals voorzien in artikel 11, 9°, van het Vlaams Pachtdecreet van 13 oktober 2023 tenzij de pachter vroeger afstand doet van zijn pachtrecht.<br>
 <br>
-§ 5. De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van voorkoop.<br>
+§5. De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van voorkoop.<br>
 <br>
-§ 6. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
+§6. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
 
 ### ART. 38.
 
@@ -1140,26 +1156,28 @@ De Vlaamse Regering kan nadere regels bepalen met betrekking tot:<br>
 
 ### ART. 50septies.
 
-§ 1. Voor elke speciale beschermingszone wordt een managementplan Natura 2000 opgemaakt. Als meerdere speciale beschermingszones geheel of gedeeltelijk samenvallen, kan voor die speciale beschermingszones een gezamenlijk managementplan Natura 2000 worden opgemaakt.<br>
+§1. Voor elke speciale beschermingszone wordt een managementplan Natura 2000 opgemaakt. Als meerdere speciale beschermingszones geheel of gedeeltelijk samenvallen, kan voor die speciale beschermingszones een gezamenlijk managementplan Natura 2000 worden opgemaakt.<br>
 <br>
 Het managementplan Natura 2000 doorloopt opeenvolgende cyclussen van zes jaar en heeft een tijdshorizon tot uiterlijk 2050.<br>
 <br>
 Binnen een plancyclus wordt het managementplan Natura 2000 opgebouwd aan de hand van verschillende, opeenvolgende planversies. De planversies worden opgemaakt op basis van een tussentijdse toetsing van de realisatiegraad van de taakstelling van het plan, en naargelang van de actoren die worden betrokken bij de realisatie van het plan en het type instrumenten die daarvoor achtereenvolgens worden ingezet. De bepalingen die gelden voor het managementplan Natura 2000 zijn ook van toepassing op de planversies.<br>
 <br>
-§ 2. Het managementplan Natura 2000 wordt opgemaakt met het oog op:<br>
+§2. Het managementplan Natura 2000 wordt opgemaakt met het oog op:<br>
 1° het gradueel realiseren van de instandhoudingsdoelstellingen voor de speciale beschermingszone of -zones in kwestie, ter uitvoering van artikel 36ter, § 1;<br>
 2° het vermijden of het stoppen van de verslechtering van de Europees te beschermen habitats en de leefgebieden van Europees te beschermen soorten, waarvoor de speciale beschermingszone of -zones in kwestie zijn aangemeld of die in die zone of zones voorkomen, ter uitvoering van artikel 36ter, § 2;<br>
 3° het vermijden of het stoppen van de betekenisvolle verstoring van de Europees te beschermen soorten, waarvoor de speciale beschermingszone of -zones in kwestie zijn aangemeld of die in die zone of zones voorkomen, ter uitvoering van artikel 36ter, § 2.<br>
 <br>
 De bepaling, vermeld in het eerste lid, 2°, verhindert niet dat te allen tijde maatregelen moeten worden genomen ter uitvoering van artikel 36ter, § 2, of ter uitvoering van andere regelgeving, onder meer maatregelen ter uitvoering van titel XV en titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, in het bijzonder als dat noodzakelijk is om verslechtering van de natuurkwaliteit en het natuurlijk milieu van de Europees te beschermen habitats en soorten en hun leefgebied te vermijden of te beëindigen.<br>
 <br>
-§ 3. Het managementplan Natura 2000 bevat ten minste:<br>
+§3. Het managementplan Natura 2000 bevat ten minste:<br>
 1° een taakstelling voor de speciale beschermingszone of -zones in kwestie die bestaat uit de inspanningen met betrekking tot het natuurbehoud die nodig worden geacht voor de realisatie van de instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, tijdens de plancyclus in kwestie;<br>
 2° een opgave van de acties voor de realisatie van de taakstelling.<br>
 <br>
 De taakstelling, vermeld in het eerste lid, 1°, geeft ook aan hoe in de speciale beschermingszone of -zones in kwestie wordt bijgedragen tot de realisatie van het bindend gedeelte van de taakstelling, vermeld in artikel 50ter, § 3, 1°, in voorkomend geval met inbegrip van het plan van aanpak, vermeld in artikel 50ter, § 4, tweede lid, 2°.<br>
 <br>
-§ 4. Met het oog op de ruimtelijke toewijzing van de instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, worden binnen de speciale beschermingszone of -zones in kwestie zoekzones afgebakend.<br>
+§4. Voor de realisatie van de instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, wordt gebruikgemaakt van de zoekzones die afgebakend zijn overeenkomstig artikel 36ter, §1, derde tot en met vijfde lid.<br>
+<br>
+Elke wijziging van de in artikel 36ter, §1, zesde lid, vermelde zoekzonekaart van 2015 gebeurt in het kader van de opmaak van een managementplan Natura 2000, of van een volgende planversie van een vastgesteld managementplan Natura 2000, voor de speciale beschermingszone of -zones in kwestie. De zoekzonekaart van 2015 wordt tweejaarlijks aangepast, met inachtneming van de bepalingen van het derde tot en met het vijfde lid van artikel 36ter, §1, en rekening houdende met de voortgang van de realisatie van de doelstelling van artikel 4, §5, eerste lid, van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, en met de in artikel 49, laatste lid, van hetzelfde decreet vermelde evaluatie.<br>
 <br>
 Voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de speciale beschermingszone of -zones in kwestie worden actiegebieden vastgesteld. De actiegebieden gelden voor een bepaald milieueffect of een groep van relevante milieueffecten.
 
@@ -1416,556 +1434,308 @@ Voor alle terreinen die met aankoopsubsidie van het Vlaamse Gewest werden aangek
 
 ### BIJLAGE I.
 
-De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkomen<br>
+Bijlage I. De habitattypes van bijlage I van de Habitatrichtlijn die in het Vlaams Gewest voorkomen<br>
 <br>
-"Typen van natuurlijke habitats van communautair belang voor de instandhouding waarvan aanwijzing van speciale beschermingszones vereist is" (*:prioritair habitat).<br>
+"Typen van natuurlijke habitats van communautair belang voor de instandhouding waarvan aanwijzing van speciale beschermingszones vereist is" (*: prioritair habitat).<br>
 <br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+Stikstofgevoelige habitattypes: aanduiding met &nbsp;X<br>
+<br>
+&nbsp;
+<table cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:48.5pt">
-			<p>Code<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
-			<p>Prioriteit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:376.1pt">
-			<p>Habitattype</p>
-			</td>
+			<td>Code</td>
+			<td>Prioriteit</td>
+			<td>Habitattype</td>
+			<td>Stikstofgevoelig</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>1130</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Estuaria</p>
-			</td>
+			<td>1130</td>
+			<td>&nbsp;</td>
+			<td>Estuaria</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>1140</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Bij eb droogvallende slikwadden en zandplaten</p>
-			</td>
+			<td>1140</td>
+			<td>&nbsp;</td>
+			<td>Bij eb droogvallende slikwadden en zandplaten</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>1310</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Eénjarige pioniervegetaties van slik- en zandgebieden met Salicornia-soorten en andere zoutminnende planten</p>
-			</td>
+			<td>1310</td>
+			<td>&nbsp;</td>
+			<td>Eenjarige pioniervegetaties van slik- en zandgebieden met <em>Salicornia </em>spp. en andere zoutminnende soorten</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>1320</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Schorren met slijkgrasvegetatie (Spatinion maritimae)</p>
-			</td>
+			<td>1320</td>
+			<td>&nbsp;</td>
+			<td>Schorren met slijkgrasvegetatie (<em>Spartinion maritimae</em>)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>1330</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Atlantische schorren (Glauco-Puccinellietalia maritimae)</p>
-			</td>
+			<td>1330</td>
+			<td>&nbsp;</td>
+			<td>Atlantische schorren (<em>Glauco-Puccinellietalia maritimae</em>)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2110</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Embryonale wandelende duinen</p>
-			</td>
+			<td>2110</td>
+			<td>&nbsp;</td>
+			<td>Embryonale wandelende duinen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2120</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Wandelende duinen op de strandwal met Ammophila arenaria (witte duinen)</p>
-			</td>
+			<td>2120</td>
+			<td>&nbsp;</td>
+			<td>Wandelende duinen op de strandwal met<br>
+			<em>Ammophila arenaria </em>(“witte&nbsp; duinen”)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2130</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Vastgelegde duinen met kruidvegetatie (grijze duinen)</p>
-			</td>
+			<td>2130</td>
+			<td>*</td>
+			<td>Vastgelegde kustduinen met kruidvegetatie<br>
+			(“grijze duinen”)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2150</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Eu-atlantische vastgelegde ontkalkte duinen (Calluno-Ulicetea)</p>
-			</td>
+			<td>2150</td>
+			<td>*</td>
+			<td>Atlantische vastgelegde ontkalkte duinen (<em>Calluno-Ulicetea</em>)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2160</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Duinen met Hyppophae rhamnoides</p>
-			</td>
+			<td>2160</td>
+			<td>&nbsp;</td>
+			<td>Duinen met <em>Hippophaë rhamnoides</em></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2170</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Duinen met Salix repens ssp. Argentea (Salicion arenariae)</p>
-			</td>
+			<td>2170</td>
+			<td>&nbsp;</td>
+			<td>Duinen met <em>Salix repens </em>ssp. <em>argentea </em>(<em>Salicion arenariae</em>)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2180</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Beboste duinen van het Atlantische, Continentale and Boreale kustgebied</p>
-			</td>
+			<td>2180</td>
+			<td>&nbsp;</td>
+			<td>Beboste duinen van het Atlantische, continentale en boreale gebied</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2190</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Vochtige duinvalleien</p>
-			</td>
+			<td>2190</td>
+			<td>&nbsp;</td>
+			<td>Vochtige duinvalleien</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2310</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Psammofiele heide met Calluna- en Genista-soorten</p>
-			</td>
+			<td>2310</td>
+			<td>&nbsp;</td>
+			<td>Psammofiele heide met <em>Calluna </em>en <em>Genista</em></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>2330</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Open grasland met Corynephorus- en Agrostis-soorten op landduinen</p>
-			</td>
+			<td>2330</td>
+			<td>&nbsp;</td>
+			<td>Open grasland met <em>Corynephorus- </em>en <em>Agrostis- soorten </em>op landduinen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3110</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Mineraalarme oligotrofe wateren van de Atlantische zandvlakten (Littorelletalia uniflora)</p>
-			</td>
+			<td>3110</td>
+			<td>&nbsp;</td>
+			<td>Mineraalarme oligotrofe wateren van de Atlantische zandvlakten&nbsp; (<em>Littorelletalia uniflorae</em>)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3130</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Oligotrofe tot mesotrofe stilstaande wateren met vegetatie behorend tot het Littorelletea uniflora en/of Isoëto-Nanojuncetea</p>
-			</td>
+			<td>3130</td>
+			<td>&nbsp;</td>
+			<td>Oligotrofe tot mesotrofe stilstaande wateren met vegetatie behorend tot het <em>Littorelletalia uniflorae </em>en/of <em>Isoëto-Nanojuncetea</em></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3140</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Kalkhoudende oligo-mesptrofe wateren met benthische Chara spp. Vegetaties</p>
-			</td>
+			<td>3140</td>
+			<td>&nbsp;</td>
+			<td>Kalkhoudende oligo-mesotrofe wateren met benthische <em>Chara&nbsp; </em>spp. vegetaties</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3150</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Van nature eutrofe meren met vegetatie van het type Magnopotamion of Hydrocharition</p>
-			</td>
+			<td>3150</td>
+			<td>&nbsp;</td>
+			<td>Van nature eutrofe meren met vegetatie van het type <em>Magnopotamion </em>of <em>Hydrocharition</em></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3160</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Dystrofe natuurlijke poelen en meren</p>
-			</td>
+			<td>3160</td>
+			<td>&nbsp;</td>
+			<td>Dystrofe natuurlijke poelen en meren</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3260</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Submontane en laagland rivieren met vegetaties behorend tot het Ranunculion fluitans en het Callitricho-Batrachion</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>3270</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Rivieren met slikoevers met vegetaties behorend tot het Chenopodietum rubri p.p. en Bidention p.p.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>4010</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Noord-Atlantische vochtige heide met Erica tetralix</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>4030</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Droge Europese heide</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>5130</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Juniperus communis-formaties in heidevelden of op kalkgrasland</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6120</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Kalkminnend grasland op dorre zandbodem</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6210</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Droge halfnatuurlijke graslanden en struikvormende facies op kalkhoudende (Festuco-Brometalia) (*gebieden waar zeldzame orchideeën groeien)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6230</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Soortenrijke heischrale graslanden op arme bodems</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6410</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Grasland met Molinia op kalkhoudende, venige of lemige kleibodem (Eu-Molinion)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6430</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Voedselrijke zoomvormende ruigten van het laagland, en van de montane en alpiene zones</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>6510</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Laaggelegen schraal hooiland (Alopecurus pratensis, Sanguisorba officinalis)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7110</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Actief hoogveen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7120</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Aangetast hoogveen waar natuurlijke regeneratie nog mogelijk is</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7140</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Overgangs- en trilveen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7150</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Slenken in veengronden met vegetatie behorend tot het Rhynchosporion</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7210</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Kalkhoudende moerassen met Cladium mariscus en Carex davalliana</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7220</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Kalktufbronnen met tufsteenformatie (Cratoneurion)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>7230</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Alkalisch laagveen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>8310</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Niet voor het publiek opengestelde grotten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9110</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Beukenbossen van het type Luzulo-Fagetum</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9120</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Zuurminnende Atlantische beukenbossen met ondergroei van Ilex of soms Taxus (Quercion robori-petraeae if Ilici-Fagion)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9130</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Beukenbossen van het type Asperulo-Fagetum</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9150</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Midden-Europese kalkminnende beukenbossen behorend tot het Cephalanthero-Fagetum</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9160</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Sub-Atlantische en midden-Europese wintereikenbossen of eikenhaagbeukbossen behorend tot het Carpinion-betuli</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>9190</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Oude zuurminnende eikenbossen met Quercus robur op zandvlakten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>91D0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Veenbossen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>91E0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Alluviale bossen met Alnion glutinosa en Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
-			<p>91F0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Gemengde eiken-iepen-essenbossen langs de oevers van grote rivieren met Quercus robur, Ulmus laevis, Fraxinus excelsior of Fraxinus angustifolia (Ulmenion minoris)</p>
-			</td>
+			<td>3260</td>
+			<td>&nbsp;</td>
+			<td>Submontane en laaglandrivieren met vegetaties behorend tot het <em>Ranunculion fluitantis </em>en het <em>Callitricho-Batrachion</em></td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
-<p>&nbsp;</p>
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>3270</td>
+			<td>&nbsp;</td>
+			<td>Rivieren met slikoevers met vegetaties behorend tot het <em>Chenopodion rubri </em>p.p. en <em>Bidention </em>p.p.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>4010</td>
+			<td>&nbsp;</td>
+			<td>Noord-Atlantische vochtige heide met <em>Erica tetralix</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>4030</td>
+			<td>&nbsp;</td>
+			<td>Droge Europese heide</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>5130</td>
+			<td>&nbsp;</td>
+			<td><em>Juniperus communis</em>-formaties in heide of kalkgrasland</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>6120</td>
+			<td>*</td>
+			<td>Kalkminnend grasland op dorre zandbodem</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>6210</td>
+			<td>&nbsp;</td>
+			<td>Droge halfnatuurlijke graslanden en struikvormende facies op kalkhoudende bodems (<em>Festuco-Brometalia</em>) (*gebieden waar opmerkelijke orchideeën groeien)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>6230</td>
+			<td>*</td>
+			<td>Soortenrijke heischrale graslanden op arme bodems van berggebieden (en van submontane gebieden in het binnenland van Europa)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>6410</td>
+			<td>&nbsp;</td>
+			<td>Grasland met <em>Molinia </em>op kalkhoudende, venige, of lemige kleibodem (<em>Molinion caeruleae</em>)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>6430</td>
+			<td>&nbsp;</td>
+			<td>Voedselrijke zoomvormende ruigten van het laagland en van de montane en alpiene zones</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>6510</td>
+			<td>&nbsp;</td>
+			<td>Laaggelegen schraal hooiland (<em>Alopecurus pratensis, Sanguisorba officinalis</em>)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7110</td>
+			<td>*</td>
+			<td>Actief hoogveen</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7140</td>
+			<td>&nbsp;</td>
+			<td>Overgangs- en trilveen</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7150</td>
+			<td>&nbsp;</td>
+			<td>Slenken in veengronden met vegetatie behorend tot het <em>Rhynchosporion</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7210</td>
+			<td>*</td>
+			<td>Kalkhoudende moerassen met <em>Cladium mariscus</em><br>
+			en soorten van het <em>Caricion davallianae</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7220</td>
+			<td>*</td>
+			<td>Kalktufbronnen met tufsteenformatie (<em>Cratoneurion</em>)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>7230</td>
+			<td>&nbsp;</td>
+			<td>Alkalisch laagveen</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>8310</td>
+			<td>&nbsp;</td>
+			<td>Niet voor publiek opengestelde grotten</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>9110</td>
+			<td>&nbsp;</td>
+			<td>Beukenbossen van het type <em>Luzulo-Fagetum</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>9120</td>
+			<td>&nbsp;</td>
+			<td>Atlantische zuurminnende beukenbossen met <em>Ilex </em>en soms ook <em>Taxus </em>in de ondergroei (<em>Quercion robori-petraeae </em>of <em>Ilici-Fagenion</em>)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>9130</td>
+			<td>&nbsp;</td>
+			<td>Beukenbossen van het type <em>Asperulo-Fagetum</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>9150</td>
+			<td>&nbsp;</td>
+			<td>Midden-Europese kalkminnende beukenbossen behorend tot het <em>Cephalanthero-Fagion</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>9160</td>
+			<td>&nbsp;</td>
+			<td>Sub-Atlantische en Midden-Europese wintereikenbossen of eiken-haagbeukbossen behorend tot het <em>Carpinion-betuli</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>9190</td>
+			<td>&nbsp;</td>
+			<td>Oude zuurminnende eikenbossen op zandvlakten met <em>Quercus robur</em></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>91E0</td>
+			<td>*</td>
+			<td>Bossen op alluviale grond met <em>Alnus glutinosa </em>en <em>Fraxinus excelsior </em>(<em>Alno-Padion, Alnion incanae, Salicion albae</em>)</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>91F0</td>
+			<td>&nbsp;</td>
+			<td>Gemengde oeverformaties met <em>Quercus robur, Ulmus laevis </em>en <em>Ulmus minor, Fraxinus excelsior </em>of <em>Fraxinus angustifolia</em>, langs de grote rivieren (<em>Ulmenion minoris</em>)</td>
+			<td>X</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE II.
 
