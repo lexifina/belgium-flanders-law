@@ -149,7 +149,11 @@ De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafh
 
 ### ART. 13.
 
-<P>Als de bevoegde overheid, vermeld in artikel 15 of artikel 52, vaststelt dat   een onregelmatigheid die kan leiden tot een vernietiging van de beslissing, is   begaan, kan ze de onregelmatigheid herstellen.<BR></P>  <P>De bevoegde overheid kan in voorkomend geval:<BR>1° een nieuw openbaar   onderzoek organiseren;<BR>2° het advies van de omgevingsvergunningscommissie,   vermeld in artikel 16, § 1, of de adviezen, vermeld in artikel 24, artikel 42 of   artikel 59, alsnog, dan wel een tweede keer inwinnen.<BR></P>
+<p>Als de bevoegde overheid, vermeld in artikel 15 of artikel 52, vaststelt dat een onregelmatigheid die kan leiden tot een vernietiging van de beslissing, is begaan, kan ze de onregelmatigheid herstellen.&nbsp;De bevoegde overheid, vermeld in artikel 52, kan ook van die mogelijkheid gebruikmaken om onregelmatigheden te herstellen die de bevoegde overheid, vermeld in artikel 15, heeft begaan.</p>
+
+<p>De bevoegde overheid kan in voorkomend geval:<br>
+1° een nieuw openbaar onderzoek organiseren;<br>
+2° het advies van de omgevingsvergunningscommissie, vermeld in artikel 16, § 1, of de adviezen, vermeld in artikel 24, artikel 42 of artikel 59, alsnog, dan wel een tweede keer inwinnen.</p>
 
 ## Afdeling 7 Rapportage naleving beslissingstermijnen
 
@@ -400,34 +404,38 @@ De Vlaamse Regering brengt de indiener van het beroepschrift, de bevoegde overhe
 
 ### ART. 32.
 
-<p>§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van:<br>
+<p>§1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van:<br>
 1° honderdenvijf dagen als geen advies van een omgevingsvergunningscommissie vereist is;<br>
 2° honderdtwintig dagen als een advies van een omgevingsvergunningscommissie vereist is.</p>
 
-<p>§ 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
+<p>§2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
 1° als met toepassing van artikel 30, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
 2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
 3° als de vergunningsaanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat waarover de gemeenteraad beslissingsbevoegdheid heeft.</p>
 
 <p>De mededeling van de termijnverlenging wordt aan de aanvrager verzonden vóór de einddatum van de normale beslissingstermijn.</p>
 
-<p>§ 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
+<p>§3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
 
-<p>§ 4. Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.</p>
+<p>§4. Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.</p>
 
 <p>In afwijking van het eerste lid, worden de termijnen, vermeld in paragraaf 1, als termijnen van orde beschouwd als de vergunningsaanvraag het gevolg is van een wijziging of aanvulling van de indelingslijst waardoor een milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of een passende beoordeling moet worden uitgevoerd. In voorkomend geval mag de exploitatie worden voortgezet tot een definitieve beslissing wordt genomen over de vergunningsaanvraag.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
+§5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
 <br>
-§ 6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan pas verleend worden na goedkeuring over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad overeenkomstig artikel 31.<br>
+§6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan pas verleend worden na goedkeuring over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad overeenkomstig artikel 31.<br>
 <br>
 Als de gemeenteraad de aanleg, wijziging, verplaatsing of opheffing niet heeft goedgekeurd, dan wordt de omgevingsvergunning geweigerd.<br>
 <br>
-§ 7. Als de bevoegde overheid, vermeld in artikel 15, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
+§7. Als de bevoegde overheid, vermeld in artikel 15, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
 <br>
 Binnen negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, vraagt de vergunningsaanvrager met een beveiligde zending de betaling van de eenmalige vergoeding aan de gemeente. Hij verwijst daarbij naar het dossier en naar zijn IBAN- en BIC-gegevens. De gemeente betaalt zonder verdere formaliteiten de eenmalige vergoeding aan de aanvrager.<br>
 <br>
-Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.</p>
+Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.<br>
+<br>
+§8. Als de exploitatie van een IIOA stopgezet is of wordt overeenkomstig artikel 39, derde lid, van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, wordt een vergunning voor de exploitatie van een veehouderij die betrekking heeft op een of meer van de percelen van de IIOA waarvoor de stopzetting geldt en die leidt tot een verhoging van de stikstofemissies, na de stopzetting geweigerd.<br>
+<br>
+Een veehouderij als vermeld in het eerste lid is een vergunningsplichtige IIOA als vermeld in rubriek 9 van de indelingslijst van bijlage 1 bij titel II van het VLAREM, voor zover er dieren worden gehouden die behoren tot een diersoort die opgenomen is in de lijst, vermeld in artikel 27, §1, van het Mestdecreet van 22 december 2006.</p>
 
 ### ART. 33.
 
@@ -524,13 +532,17 @@ Wijzigingen aan de vergunningsaanvraag kunnen worden toegestaan als voldaan is a
 
 ### ART. 46.
 
-<p>§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van zestig dagen.</p>
+<p>§1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van zestig dagen.</p>
 
 <p>De termijn gaat altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
 
-<p>§ 2. Als geen beslissing is genomen binnen de vastgestelde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.<br>
+<p>§2. Als geen beslissing is genomen binnen de vastgestelde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.<br>
 <br>
-§ 3. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen is bezorgd. Als er geen archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1, dan moet de omgevingsvergunning worden geweigerd.</p>
+§3. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen is bezorgd. Als er geen archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1, dan moet de omgevingsvergunning worden geweigerd.<br>
+<br>
+§4. Als de exploitatie van een IIOA stopgezet is of wordt overeenkomstig artikel 39, derde lid, van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, wordt een vergunningsaanvraag voor de exploitatie van een veehouderij die betrekking heeft op een of meer van de percelen van de IIOA waarvoor de stopzetting geldt en die leidt tot een verhoging van de stikstofemissies na de stopzetting, geweigerd.<br>
+<br>
+Een veehouderij als vermeld in het eerste lid is een vergunningsplichtige IIOA als vermeld in rubriek 9 van de indelingslijst van bijlage 1 bij titel II van het VLAREM, voor zover er dieren worden gehouden die behoren tot een diersoort die opgenomen is in de lijst, vermeld in artikel 27, §1, van het Mestdecreet van 22 december 2006.</p>
 
 ### ART. 47.
 
@@ -649,7 +661,7 @@ Beroepen inzake omgevingsvergunningen die uitsluitend kleinhandelsactiviteiten o
 
 ### ART. 63.
 
-&nbsp;De bevoegde overheid, vermeld in artikel 52, onderzoekt de   vergunningsaanvraag in haar totaliteit.<BR>
+&nbsp;De bevoegde overheid, vermeld in artikel 52, onderzoekt de vergunningsaanvraag in haar totaliteit.&nbsp;Daarbij kan ze ook de ontvankelijkheid en volledigheid van het aanvraagdossier en de project-m.e.r.-screening opnieuw beoordelen, en vragen of toestaan dat de indiener van het aanvraagdossier onvolledigheden herstelt. Artikel 19, tweede lid, 20 en 21, zijn van overeenkomstige toepassing.
 
 ### ART 63/1.
 
@@ -665,7 +677,16 @@ De provinciale omgevingsambtenaar stelt dit verslag ter beschikking van de deput
 
 ### ART. 64.
 
-<P>In beroep kunnen wijzigingen aan de vergunningsaanvraag worden   aangebracht.<BR></P>  <P>Het openbaar onderzoek over de gewijzigde vergunningsaanvraag is niet vereist   als aan de volgende voorwaarden is voldaan:<BR>1° de wijzigingen doen geen   afbreuk aan de bescherming van de mens of het milieu of de goede ruimtelijke   ordening;<BR>2° de wijzigingen komen tegemoet aan de adviezen of aan de   standpunten, opmerkingen en bezwaren die tijdens het openbaar onderzoek zijn   ingediend;<BR>3° de wijzigingen brengen kennelijk geen schending van de rechten   van derden met zich mee.<BR></P>  <P>Als niet voldaan is aan de voorwaarden, vermeld in het tweede lid, kan de   bevoegde overheid, vermeld in artikel 52, beslissen om over de gewijzigde   vergunningsaanvraag een openbaar onderzoek te organiseren. In voorkomend geval   wint ze het advies van de omgevingsvergunningscommissie, vermeld in artikel 16,   § 1, of de adviezen, vermeld in artikel 59, alsnog, dan wel een tweede keer   in.<BR></P>  <P>Als niet voldaan is aan de voorwaarden, vermeld in het tweede lid, en de   bevoegde overheid geen openbaar onderzoek heeft georganiseerd over de gewijzigde   vergunningsaanvraag, houdt deze overheid bij haar beslissing geen rekening met   de wijzigingen aan de vergunningsaanvraag.<BR></P>
+<p>In beroep kunnen wijzigingen aan de vergunningsaanvraag worden aangebracht.&nbsp;Daarbij kunnen ook gegevens of documenten aan het aanvraagdossier worden toegevoegd, of kunnen gegevens of documenten van het aanvraagdossier worden gewijzigd of vervangen.</p>
+
+<p>Het openbaar onderzoek over de gewijzigde vergunningsaanvraag is niet vereist als aan de volgende voorwaarden is voldaan:<br>
+1° de wijzigingen doen geen afbreuk aan de bescherming van de mens of het milieu of de goede ruimtelijke ordening;<br>
+2° de wijzigingen komen tegemoet aan de adviezen of aan de standpunten, opmerkingen en bezwaren die tijdens het openbaar onderzoek zijn ingediend;<br>
+3° de wijzigingen brengen kennelijk geen schending van de rechten van derden met zich mee.</p>
+
+<p>Als niet voldaan is aan de voorwaarden, vermeld in het tweede lid, kan de bevoegde overheid, vermeld in artikel 52, beslissen om over de gewijzigde vergunningsaanvraag een openbaar onderzoek te organiseren. In voorkomend geval wint ze het advies van de omgevingsvergunningscommissie, vermeld in artikel 16, § 1, of de adviezen, vermeld in artikel 59, alsnog, dan wel een tweede keer in.</p>
+
+<p>Als niet voldaan is aan de voorwaarden, vermeld in het tweede lid, en de bevoegde overheid geen openbaar onderzoek heeft georganiseerd over de gewijzigde vergunningsaanvraag, houdt deze overheid bij haar beslissing geen rekening met de wijzigingen aan de vergunningsaanvraag.</p>
 
 ### ART. 65.
 
@@ -679,40 +700,44 @@ De gemeente bezorgt de beslissing van de gemeenteraad over de aanleg, wijziging,
 
 ### ART. 66.
 
-<p>§ 1. De bevoegde overheid, vermeld in artikel 52, neemt een definitieve beslissing over de vergunningsaanvraag binnen een termijn van:<br>
+<p>§1. De bevoegde overheid, vermeld in artikel 52, neemt een definitieve beslissing over de vergunningsaanvraag binnen een termijn van:<br>
 1° honderdtwintig dagen als de aanvraag in eerste administratieve aanleg overeenkomstig de gewone vergunningsprocedure behandeld werd;<br>
 2° zestig dagen als de aanvraag in eerste administratieve aanleg overeenkomstig de vereenvoudigde vergunningsprocedure behandeld werd.</p>
 
-<p>§ 2. Met behoud van de toepassing van paragraaf 2/1 wordt de beslissingstermijn van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
+<p>§2. Met behoud van de toepassing van paragraaf 2/1 wordt de beslissingstermijn van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
 1° als met toepassing van artikel 64, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
 2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
 3° als de vergunningsaanvraag de aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg omvat waarover de gemeenteraad beslissingsbevoegdheid heeft en de gemeenteraad in de loop van de beroepsprocedure samengeroepen wordt met toepassing van artikel 65.<br>
 <br>
 De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
 <br>
-§ 2/1. Met behoud van de toepassing van paragraaf 2 wordt de beslissingstermijn op gemotiveerd verzoek van de vergunningsaanvrager eenmalig met zestig dagen verlengd.<br>
+§2/1. Met behoud van de toepassing van paragraaf 2 wordt de beslissingstermijn op gemotiveerd verzoek van de vergunningsaanvrager eenmalig met zestig dagen verlengd.<br>
 <br>
 De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
 <br>
-§ 2/2. Met behoud van de toepassing van paragraaf 2 of paragraaf 2/1 wordt de beslissingstermijn van rechtswege opgeschort zolang de Vlaamse Regering geen beslissing heeft genomen over het georganiseerde administratieve beroep tegen de beslissing van de gemeenteraad, vermeld in artikel 31/1.<br>
+§2/2. Met behoud van de toepassing van paragraaf 2 of paragraaf 2/1 wordt de beslissingstermijn van rechtswege opgeschort zolang de Vlaamse Regering geen beslissing heeft genomen over het georganiseerde administratieve beroep tegen de beslissing van de gemeenteraad, vermeld in artikel 31/1.<br>
 <br>
-§ 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat het laatste beroep ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop het laatste beroep is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten, waarbij de meest recente datum geldt.<br>
+§3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat het laatste beroep ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop het laatste beroep is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten, waarbij de meest recente datum geldt.<br>
 <br>
 Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt het beroep of worden de beroepen geacht te zijn afgewezen en wordt de bestreden beslissing als definitief aanzien.<br>
 <br>
-§ 4. Artikel 33, 34, 47 en 48 zijn van overeenkomstige toepassing op de beslissing.<br>
+§4. Artikel 33, 34, 47 en 48 zijn van overeenkomstige toepassing op de beslissing.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
+§5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.<br>
 <br>
-§ 6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan in beroep pas verleend worden na de goedkeuring van de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad, met toepassing van artikel 31.<br>
+§6. Een vergunning voor aanvragen met aanleg, wijziging, verplaatsing of opheffing van een gemeenteweg kan in beroep pas verleend worden na de goedkeuring van de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg door de gemeenteraad, met toepassing van artikel 31.<br>
 <br>
 Als de gemeenteraad de aanleg, wijziging, verplaatsing of opheffing niet heeft goedgekeurd, of als de Vlaamse Regering de beslissing heeft vernietigd met toepassing van artikel 31/1, wordt de omgevingsvergunning in beroep geweigerd.<br>
 <br>
-§ 7. Als de bevoegde overheid, vermeld in artikel 52, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
+§7. Als de bevoegde overheid, vermeld in artikel 52, geen beslissing kan nemen binnen de vastgestelde of in voorkomend geval verlengde termijn doordat de gemeenteraad geen beslissing heeft genomen over de aanleg, wijziging, verplaatsing of opheffing van de gemeenteweg, is de gemeente aan de aanvrager van de vergunning een eenmalige vergoeding van 5000 euro verschuldigd.<br>
 <br>
 Binnen negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, vraagt de vergunningsaanvrager met een beveiligde zending de betaling van de eenmalige vergoeding aan de gemeente. Hij verwijst in zijn aanvraag naar het dossier en vermeldt zijn IBAN- en BIC-gegevens. De gemeente betaalt zonder verdere formaliteiten de eenmalige vergoeding aan de aanvrager.<br>
 <br>
-Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.</p>
+Als de vergunningsaanvrager de betaling van de eenmalige vergoeding niet vraagt binnen de termijn van negentig dagen, vermeld in het tweede lid, wordt de aanvrager geacht afstand gedaan te hebben van zijn recht op de eenmalige vergoeding.<br>
+<br>
+§8. Als de exploitatie van een IIOA stopgezet is of wordt overeenkomstig artikel 39, derde lid, van het decreet van 26 januari 2024 over de programmatische aanpak stikstof, wordt een vergunningsaanvraag voor de exploitatie van een veehouderij die betrekking heeft op een of meer van de percelen van de IIOA waarvoor de stopzetting geldt en die leidt tot een verhoging van de stikstofemissies na de stopzetting, geweigerd.<br>
+<br>
+Een veehouderij als vermeld in het eerste lid is een vergunningsplichtige IIOA als vermeld in rubriek 9 van de indelingslijst van bijlage 1 bij titel II van het VLAREM, voor zover er dieren worden gehouden die behoren tot een diersoort die opgenomen is in de lijst, vermeld in artikel 27, §1, van het Mestdecreet van 22 december 2006.</p>
 
 ### ART. 67.
 
@@ -982,9 +1007,15 @@ Dit bezwaar geeft duidelijk aan dat het bezwaar afkomstig is van een eigenaar va
 
 <p>§ 1. De bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar onderzoekt de ontvankelijkheid en volledigheid van het verzoek tot bijstelling van de omgevingsvergunning.</p>
 
-<p>Voor elk ambtshalve initiatief en elk verzoek tot bijstelling, vermeld in artikel 83, § 1, 1°, respectievelijk 83, § 1, 2°, b), dat niet de individuele toepassing van een door de Vlaamse Regering ter bescherming van de mens en het milieu goedgekeurd programma of plan als voorwerp heeft, evenals voor elk verzoek, vermeld in artikel 83, § 1, 2°, a), wordt door de omgevingsvergunningscommissie onderzocht of de aangevoerde motieven tot bijstelling kennelijk ongegrond zijn. Als de omgevingsvergunningscommissie bij haar onderzoek vaststelt dat het ambtshalve initiatief of het verzoek tot bijstelling uitsluitend gebaseerd is op motieven die kennelijk ongegrond zijn, wordt de procedure tot bijstelling definitief stopgezet.</p>
-
-<p>§ 2. Het resultaat van het onderzoek, vermeld in paragraaf 1, eerste lid, en indien van toepassing, het resultaat van het onderzoek, vermeld in paragraaf 1, tweede lid, wordt bij beveiligde zending aan de verzoeker of aan het bestuursorgaan dat het ambtshalve initiatief heeft genomen, meegedeeld binnen een termijn van vijftig dagen vanaf de dag na de datum waarop het verzoek is ingediend.</p>
+<p>Voor elk ambtshalve initiatief en elk verzoek tot bijstelling, vermeld in artikel 83, § 1, 1°, respectievelijk 83, § 1, 2°, b), dat niet de individuele toepassing van een door de Vlaamse Regering ter bescherming van de mens en het milieu goedgekeurd programma of plan als voorwerp heeft, evenals voor elk verzoek, vermeld in artikel 83, § 1, 2°, a), wordt door de omgevingsvergunningscommissie onderzocht of de aangevoerde motieven tot bijstelling kennelijk ongegrond zijn. Als de omgevingsvergunningscommissie bij haar onderzoek vaststelt dat het ambtshalve initiatief of het verzoek tot bijstelling uitsluitend gebaseerd is op motieven die kennelijk ongegrond zijn, wordt de procedure tot bijstelling definitief stopgezet.<br>
+<br>
+Een ambtshalve initiatief of een verzoek tot bijstelling van de omgevingsvergunning van een veehouderij wordt beschouwd als kennelijk ongegrond als vermeld in het tweede lid als de motieven tot bijstelling uitsluitend betrekking hebben op een aanpassing van de efficiëntie van een ammoniakemissiereducerende techniek. In dat geval wordt de exploitant geacht te hebben voldaan aan zijn verplichtingen terzake.<br>
+<br>
+Voor de toepassing van het derde lid wordt verstaan onder:<br>
+1° een aanpassing van de efficiëntie van een ammoniakemissiereducerende techniek: het feit dat in de omgevingsvergunning voor de veehouderij in kwestie een ammoniakemissiereducerende techniek opgenomen is waarvoor in de omgevingsvergunning een bepaald ammoniakemissiereducerend vermogen vermeld werd, en waaraan, na de opname in de omgevingsvergunning, bij een decreet, een besluit van de Vlaamse Regering of een ministerieel besluit een lager ammoniakemissiereducerend vermogen werd toegekend;<br>
+2° een veehouderij: een vergunningsplichtige IIOA als vermeld in rubriek 9 van de indelingslijst van bijlage 1 bij titel II van het VLAREM, voor zover er dieren worden gehouden die behoren tot een diersoort die opgenomen is in de lijst, vermeld in artikel 27, §1, van het Mestdecreet van 22 december 2006.<br>
+<br>
+§ 2. Het resultaat van het onderzoek, vermeld in paragraaf 1, eerste lid, en indien van toepassing, het resultaat van het onderzoek, vermeld in paragraaf 1, tweede lid, wordt bij beveiligde zending aan de verzoeker of aan het bestuursorgaan dat het ambtshalve initiatief heeft genomen, meegedeeld binnen een termijn van vijftig dagen vanaf de dag na de datum waarop het verzoek is ingediend.</p>
 
 <p>De exploitant van de ingedeelde inrichting of activiteit wordt op dezelfde dag van de mededeling waarvan sprake in het eerste lid, op de hoogte gebracht van elk verzoek tot bijstelling dat hij niet zelf heeft ingediend evenals van elk initiatief tot ambtshalve bijstelling, voor zover ze niet onontvankelijk, onvolledig of indien van toepassing kennelijk ongegrond werden bevonden.</p>
 
