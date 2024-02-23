@@ -521,7 +521,9 @@ De   vergoedingen, vermeld in deel 2, zijn onderling niet cumuleerbaar, tenzij h
 3° de vergoeding voor waardeverlies van gronden;<br>
 4° de vrijwillige bedrijfsverplaatsing, bedrijfsstopzetting, bedrijfsreconversie.</p>
 
-<p>Binnen de grenzen van hun bevoegdheid vervullen de landcommissies hun taken volledig onafhankelijk en kunnen ze van geen enkele instantie instructies of bevelen ontvangen.</p>
+<p>Binnen de grenzen van hun bevoegdheid vervullen de landcommissies hun taken volledig onafhankelijk en kunnen ze van geen enkele instantie instructies of bevelen ontvangen.<br>
+<br>
+De landcommissies vervullen de opdrachten die het decreet van 26 januari 2024 over de programmatische aanpak stikstof aan die commissies heeft opgedragen in het kader van het flankerend beleid bij de programmatische aanpak stikstof.</p>
 
 ### ART. 2.2.2.
 

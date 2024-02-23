@@ -2,16 +2,16 @@
   "codex_id": 1024453,
   "title": "Decreet van 2014-03-28 betreffende de landinrichting",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024453/VolledigDocument?datum=2023-11-01",
-  "source_sha256": "e3e1eba91b6ecafd87c7d084e711025f0f453664cae32772464bf77e9e1f57a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024453/VolledigDocument?datum=2024-02-23",
+  "source_sha256": "90f531a35a27b43111d13516eb5caedb228cab83b0ac22387b62af65f57db28e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024453&param=informatie",
-  "as_of": "2023-11-01",
+  "as_of": "2024-02-23",
   "made": "2014-03-28",
   "gazette": "2014-08-22",
   "numac": 2014035709,
   "document_start": "2014-09-01",
   "document_end": null,
-  "in_force": "2023-11-01",
+  "in_force": "2024-02-23",
   "article_versions": 154,
-  "record_form": "consolidated version as in force on 2023-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-02-23; future article versions excluded; article text as the API gives it"
 }
