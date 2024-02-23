@@ -144,7 +144,9 @@ Het agentschap vervult deze taak onder meer door :<br>
 1° initiatieven bevorderen, medewerking verlenen aan initiatieven en initiatieven uitvoeren die kunnen bijdragen tot de ontwikkeling van de open ruimte en het buitengebied. In het bijzonder verleent het agentschap zijn medewerking aan het natuurbehoud, het integraal waterbeleid, de bodembescherming, de algemene landschapszorg, de monumentenzorg, de archeologische monumentenzorg, de bebossing en de herbebossing;<br>
 2° bijdragen aan de algemene beleidsondersteuning inzake de open ruimte en het buitengebied.<br>
 <br>
-§ 8. Het agentschap wordt belast met de taken die overeenkomstig het decreet Vlaamse Grondenbank aan de Vlaamse Grondenbank zijn opgedragen.
+§ 8. Het agentschap wordt belast met de taken die overeenkomstig het decreet Vlaamse Grondenbank aan de Vlaamse Grondenbank zijn opgedragen.<br>
+<br>
+§9. Het agentschap wordt belast met de taken die overeenkomstig het decreet van 26 januari 2024 over de programmatische aanpak stikstof aan de VLM zijn opgedragen.
 
 ## [HOOFDSTUK VI RELATIE MET ANDERE BESTUURSNIVEAUS, BELEIDSDOMEINEN EN ACTOREN, INHOUDELIJKE SAMENWERKING EN COÖRDINATIE, BEVOEGDHEDEN (ing. decr. 7 mei 2004, art. 13)]
 
