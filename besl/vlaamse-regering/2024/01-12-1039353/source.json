@@ -2,16 +2,16 @@
   "codex_id": 1039353,
   "title": "Besluit van de Vlaamse Regering van 2024-01-12 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding en het besluit van de Vlaamse Regering van 29 september 2017 betreffende wijk-werken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039353/VolledigDocument?datum=2023-12-17",
-  "source_sha256": "a5c25bc0f40d4c79c27aeb4481b5b6f753d1c912043d2de912e068d0f94524fb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039353/VolledigDocument?datum=2024-02-24",
+  "source_sha256": "a16852d9a1f3568a45fc708a7fb84910ed3785c539278defa9ede93ccbafb3a5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039353&param=informatie",
-  "as_of": "2023-12-17",
+  "as_of": "2024-02-24",
   "made": "2024-01-12",
   "gazette": "2024-02-14",
   "numac": 2024001284,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-12-17",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2023-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-02-24",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2024-02-24; future article versions excluded; article text as the API gives it"
 }

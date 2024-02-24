@@ -162,3 +162,15 @@ In artikel 45, 50 en 57 van hetzelfde besluit wordt het woord “uitgiftemaatsch
 ### ART 20.
 
 Op de wijk-werkcheques die aangekocht worden vóór 17 december 2023, blijft de regelgeving van toepassing zoals die geldt op 16 december 2023.
+
+### ART 21.
+
+Artikel 1, 1°, treedt in werking op 1 juli 2023.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Artikel 1, 2°, treedt in werking op 1 juli 2025.<br>
+<br>
+Artikel 2 tot en met 20 treden in werking op 17 december 2023.
+
+### ART 22.
+
+De Vlaamse minister, bevoegd voor werk, is belast met de uitvoering van dit besluit.
