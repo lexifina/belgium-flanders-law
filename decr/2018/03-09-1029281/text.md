@@ -1759,6 +1759,10 @@ Een nieuwe academie moet het minimale aanbod, vermeld in het eerste lid, uiterli
 <br>
 Het quotiënt van de deling, vermeld in het eerste lid, 2°, wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
+In afwijking van het eerste lid, 3°, kan in een gemeente die als gevolg van het decreet van 22 december 2017 over het lokaal bestuur het resultaat is van een fusie van verschillende gemeenten in 2019 of 2025, maximaal één nieuwe academie&nbsp;vanaf 1 september in de financierings- of subsidiëringsregeling opgenomen worden als ze op 1 oktober van het oprichtingsjaar voldoet aan de volgende voorwaarden:<br>
+1° er is op het grondgebied van de gemeente nog geen hoofdvestigingsplaats van&nbsp;een academie gevestigd;<br>
+2° gedurende drie opeenvolgende schooljaren draagt het schoolbestuur de financiering van het directeursambt, vermeld in artikel 77, en in voorkomend geval van de lestijden voor beleidsondersteuning, vermeld in artikel 76, op basis van artikel 82. In het gemeenschapsonderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, tweede lid. In het gesubsidieerd onderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, derde lid.<br>
+<br>
 § 3. Voor een verdere financiering of subsidiëring moet de nieuwe academie gedurende elf schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken van de door haar opgerichte domeinen, vermeld in artikel 119 en 120, a rato van het aantal schooljaren dat de nieuwe academie al in oprichting is.<br>
 <br>
 Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, wordt de academie met ingang van 1 september van hetzelfde schooljaar niet langer gefinancierd of gesubsidieerd.<br>
