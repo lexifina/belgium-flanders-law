@@ -250,7 +250,7 @@ In het tweede en derde lid wordt verstaan onder het besluit van 9 december 2016:
 
 De geselecteerde onderneming vraagt hinderpremie A elektronisch aan. In de aanvraag wordt bevestigd dat de gegevens op grond waarvan de selectie, vermeld in artikel 20, eerste lid, is gebeurd, correct en op haar van toepassing zijn.<br>
 <br>
-Hinderpremie A wordt vóór de geplande einddatum van de openbare werken aangevraagd. De minimale aanvraagtermijn bedraagt in elk geval zestig kalenderdagen vanaf de kennisgeving.
+Hinderpremie A wordt aangevraagd binnen zestig kalenderdagen vanaf de datum van de kennisgeving, vermeld in artikel 21.
 
 ## Onderafdeling 2. Hinderpremie B
 
