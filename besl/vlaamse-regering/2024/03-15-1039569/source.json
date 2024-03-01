@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039569,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-15 tot vastlegging van het startquotum voor de opleiding diergeneeskunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039569/VolledigDocument?datum=2024-03-01",
+  "source_sha256": "29dc424a3a220f0332e5a9fdeff4a3e2459e97f1bbd6f45f9f9e99607a14fb60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039569&param=informatie",
+  "as_of": "2024-03-01",
+  "made": "2024-03-15",
+  "gazette": "2024-04-09",
+  "numac": 2024003205,
+  "document_start": "2024-03-01",
+  "document_end": null,
+  "in_force": "2024-03-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
