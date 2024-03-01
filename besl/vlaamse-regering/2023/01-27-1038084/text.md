@@ -115,18 +115,12 @@ De voorzitter deelt in juli aan alle individuele kandidaten voor het toelatingse
 <br>
 De voorzitter deelt aan alle individuele kandidaten voor het toelatingsexamen arts, voor het toelatingsexamen tandarts en voor het toelatingsexamen dierenarts de cesuur mee, als die is vastgelegd door de examencommissie, of deelt mee dat er geen cesuur is vastgelegd.<br>
 <br>
-De voorzitter deelt in juli aan alle individuele kandidaten voor het toelatingsexamen arts en voor het toelatingsexamen tandarts mee tot welke van de volgende categorieën de kandidaat behoort:<br>
-1° gunstig gerangschikt;<br>
-2° niet gunstig gerangschikt omdat het examenresultaat lager is dan de cesuur;<br>
-3° niet gunstig gerangschikt omdat de kandidaat niet opgenomen wil worden in de rangschikking;<br>
-4° niet gunstig gerangschikt omdat de kandidaat op een of beide onderdelen minder dan de helft van de punten behaald heeft;<br>
-5° niet gunstig gerangschikt omdat de kandidaat gunstig gerangschikt is voor de voorkeursopleiding.&nbsp;<br>
-<br>
-De voorzitter deelt in juli aan alle individuele kandidaten voor het toelatingsexamen dierenarts mee tot welke van de volgende categorieën de kandidaat behoort:<br>
-1° gunstig gerangschikt;<br>
-2° niet gunstig gerangschikt omdat het examenresultaat lager is dan de cesuur;<br>
-3° niet gunstig gerangschikt omdat de kandidaat niet opgenomen wil worden in de rangschikking;<br>
-4° niet gunstig gerangschikt omdat de kandidaat op een of beide onderdelen minder dan de helft van de punten behaald heeft.&nbsp;<br>
+De voorzitter deelt in juli aan alle individuele kandidaten het toelatingsexamen arts, het toelatingsexamen tandarts en voor het toelatingsexamen dierenarts mee tot welke van de volgende categorieën de kandidaat behoort:&nbsp;<br>
+1° gunstig gerangschikt;&nbsp;<br>
+2° niet gunstig gerangschikt omdat het examenresultaat lager is dan de cesuur;&nbsp;<br>
+3° niet gunstig gerangschikt omdat de kandidaat niet opgenomen wil worden in de rangschikking;&nbsp;<br>
+4° niet gunstig gerangschikt omdat de kandidaat op een of beide onderdelen minder dan de helft van de punten behaald heeft;&nbsp;<br>
+5° niet gunstig gerangschikt omdat de kandidaat gunstig gerangschikt is voor een opleiding met een hogere voorkeur.<br>
 <br>
 De voorzitter deelt aan alle individuele kandidaten de beslissing van de examencommissie mee dat de kandidaat al dan niet gunstig gerangschikt is.
 
@@ -144,7 +138,7 @@ Als door een herziening van de examenresultaten de vastgelegde startquota voor h
 <br>
 De voorzitter brengt de kandidaten die als gevolg van de herziening van de examenresultaten overgaan van de categorie &nbsp;niet gunstig gerangschikt omdat de kandidaat op een of beide onderdelen minder dan de helft van de punten behaald heeft, vermeld in artikel 22, eerste lid, 1° en 2°, tweede lid, 1° en 2°, en derde lid, 1° en 2°, of de categorie niet gunstig gerangschikt omdat het examenresultaat lager is dan de cesuur, vermeld in artikel 8, naar de categorie &nbsp;gunstig gerangschikt op de hoogte van die nieuwe individuele beslissing.<br>
 <br>
-Voor de kandidaten die als gevolg van de herziening van de examenresultaten voor het toelatingsexamen arts of het toelatingsexamen tandarts gunstig worden gerangschikt in hun voorkeursopleiding vervalt in voorkomend geval de gunstige rangschikking in de opleiding die niet hun voorkeursopleiding is.<br>
+Voor de kandidaten die als gevolg van de herziening van de examenresultaten voor het toelatingsexamen arts, het toelatingsexamen tandarts of het toelatingsexamen dierenarts gunstig worden gerangschikt in hun voorkeursopleiding, vervalt in voorkomend geval de gunstige rangschikking in de opleiding die niet hun voorkeursopleiding is.<br>
 <br>
 Aanpassingen aan de resultaten van een individuele kandidaat naar aanleiding van de interne beroepsprocedure vermeld in artikel 33 en naar aanleiding van de herziening van de examenresultaten, vermeld in artikel 29, kunnen de gunstige rangschikking die aan de individuele kandidaten is meegedeeld, niet in hun nadeel beïnvloeden.
 
