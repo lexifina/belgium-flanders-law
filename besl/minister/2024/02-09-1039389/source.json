@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039389,
+  "title": "Ministerieel besluit van 2024-02-09 tot vastlegging van de landspecifieke emissiefactor voor aardgas voor het emissiejaarrapport van BKG-installaties voor de emissies van het jaar 2023",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039389/VolledigDocument?datum=2024-03-01",
+  "source_sha256": "9104f65e98165ac4ba7a704e0df10a01c63e8e5ecb5af8e75e9e7e5556382a12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039389&param=informatie",
+  "as_of": "2024-03-01",
+  "made": "2024-02-09",
+  "gazette": "2024-02-20",
+  "numac": 2024001562,
+  "document_start": "2024-03-01",
+  "document_end": null,
+  "in_force": "2024-03-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
