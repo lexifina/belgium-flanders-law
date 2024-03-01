@@ -20,16 +20,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Het aantal kandidaten dat gunstig gerangschikt kan worden, bedraagt 1600 voor het toelatingsexamen arts en 218 voor het toelatingsexamen tandarts.
+...
 
 ### ART 2.
 
-Het besluit van de Vlaamse Regering van 14 februari 2020 tot vastlegging van het startquotum voor de opleiding arts en voor de opleiding tandarts wordt opgeheven.
+...
 
 ### ART 3.
 
-&nbsp;Dit besluit treedt in werking op 1 maart 2023.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
+...
