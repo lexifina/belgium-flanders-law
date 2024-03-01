@@ -157,6 +157,14 @@ In artikel 53, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 
 
 In artikel 82, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2022, wordt tussen de zinsnede “uitgekeerd door de VDAB,” en de woorden “of ten laste van de eigen middelen” de zinsnede “ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie,” ingevoegd.
 
+### ART 178.
+
+Aan artikel 114, §2, van hetzelfde decreet, gewijzigd bij de decreten van 5 april 2019 en 3 juli 2020, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In afwijking van het eerste lid, 3°, kan in een gemeente die als gevolg van het decreet van 22 december 2017 over het lokaal bestuur het resultaat is van een fusie van verschillende gemeenten in 2019 of 2025, maximaal één nieuwe academie vanaf 1 september in de financierings- of subsidiëringsregeling opgenomen worden als ze op 1 oktober van het oprichtingsjaar voldoet aan de volgende voorwaarden:<br>
+1° er is op het grondgebied van de gemeente nog geen hoofdvestigingsplaats van een academie gevestigd;<br>
+2° gedurende drie opeenvolgende schooljaren draagt het schoolbestuur de financiering van het directeursambt, vermeld in artikel 77, en in voorkomend geval van de lestijden voor beleidsondersteuning, vermeld in artikel 76, op basis van artikel 82. In het gemeenschapsonderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, tweede lid. In het gesubsidieerd onderwijs stelt het schoolbestuur in het directeursambt en in voorkomend geval in de lestijden voor beleidsondersteuning steeds een tijdelijk personeelslid aan volgens artikel 82, derde lid.”.
+
 ### ART 183.
 
 In artikel 3, §1, 12°, van het Groeipakketdecreet van 2018 worden tussen de woorden “hoger beroepsonderwijs” en het woord “inricht” de woorden “of die de opleiding Basisverpleegkunde van het hoger beroepsonderwijs” ingevoegd.
