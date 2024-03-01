@@ -181,7 +181,7 @@ Onder de volgende voorwaarden kan de VMSW een marktconforme FS3-lening op 33 jaa
 9° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd, als de ontlener een voorbericht geeft van drie maanden. De wederbeleggingsvergoeding bedraagt het financiële verlies met een maximum van zes maanden interest op het vervroegd af te lossen kapitaal en een minimum van 0 euro;<br>
 10° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
-b) als er subsidies ontvangen worden voor een of meer woningen in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag;<br>
+b) als er subsidies ontvangen worden voor een of meer woningen&nbsp;of basiskoten in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag;<br>
 c) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021;<br>
 11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.
 
@@ -436,6 +436,26 @@ De VMSW kan onder de volgende voorwaarden voor de verwerving van onbebouwde perc
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
 b) als de lening een voorlopige financiering is en de ontlener een definitieve financiering krijgt voor die verrichting, is er een verplichte vervroegde terugbetaling bij die omzetting naar definitieve financiering. Het aandeel van het goed dat benut wordt en waarop de definitieve financiering is gebaseerd, bepaalt het terug te betalen kapitaal;<br>
 c) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021.
+
+## HOOFDSTUK 5/1. Leningen aan hogeronderwijsinstellingen voor de realisatie van basiskoten, vermeld in artikel 4.60, eerste lid, 4°, van het Besluit Vlaamse Codex Wonen van 2021
+
+### ART 33/2.
+
+De lener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek te verlenen ten voordele van de leningsverstrekker op een of meer willekeurige onroerende goederen uit zijn patrimonium. Die hypotheek is ten voordele van de VMSW en voor minstens de waarde van het uitstaande kapitaal bij de VMSW.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Alle kosten, taksen, zegel- en registratierechten, erelonen, betekeningskosten, kosten van hernieuwing en doorhaling en, in het algemeen, alle kosten die de leningsverstrekker nodig vindt voor de vestiging of het behoud van de zekerheden en, in voorkomend geval, de gedwongen tenuitvoerlegging, zijn ten laste van de lener.
+
+### ART 33/3.
+
+De VMSW kan onder de volgende voorwaarden voor de realisatie van basiskoten aan een hogeronderwijsinstelling een renteloze lening op maximaal dertig jaar toekennen:<br>
+1° aard van de lening: een lening met constante annuïteiten;<br>
+2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal acht jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 20, 25 of 30 jaar en wordt overeengekomen tussen de lener en de leningsverstrekker. De aflossingsperiode mag niet langer zijn dan de resterende looptijd van het zakelijk of persoonlijk recht;<br>
+3° aflossing: constante kapitaaltranches;<br>
+4° interest tijdens de opnamefase: er is geen interest verschuldigd tijdens deze fase;<br>
+5° interest tijdens de aflossingsfase: er is geen interest verschuldigd tijdens deze fase;<br>
+6° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
+7° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de lener een voorbericht van drie maanden geeft. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
+8° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt als de lener de lening niet gebruikt waarvoor ze was bestemd.
 
 ## HOOFDSTUK 6. Slotbepaling
 
