@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039371,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-09 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de uitbreiding van de opdrachten van de VMSW om basiskoten te realiseren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039371/VolledigDocument?datum=2024-03-01",
+  "source_sha256": "7a880219a63a32039035668112add843cd42e49de0347a1155fe1e59c4cdcd7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039371&param=informatie",
+  "as_of": "2024-03-01",
+  "made": "2024-02-09",
+  "gazette": "2024-02-19",
+  "numac": 2024001439,
+  "document_start": "2024-03-01",
+  "document_end": null,
+  "in_force": "2024-03-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2024-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
