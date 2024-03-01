@@ -2,16 +2,16 @@
   "codex_id": 1038752,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot wijziging van diverse besluiten over de rijopleiding en het rijexamen voor voertuigen van categorie B",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038752/VolledigDocument?datum=2023-10-13",
-  "source_sha256": "d10285ee8b641d0f8b3ad965c488f71f2a8b52f89e416eafcda3a0a7dbf83d17",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038752/VolledigDocument?datum=2024-03-01",
+  "source_sha256": "3be2a3494064860ef9a918fb101890159dd69783200c01f75bdbee94f7d13441",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038752&param=informatie",
-  "as_of": "2023-10-13",
+  "as_of": "2024-03-01",
   "made": "2023-07-14",
   "gazette": "2023-10-12",
   "numac": 2023044915,
   "document_start": "2024-03-01",
   "document_end": null,
-  "in_force": "2023-10-13",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-03-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2024-03-01; future article versions excluded; article text as the API gives it"
 }
