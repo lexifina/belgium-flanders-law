@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039392,
+  "title": "Besluit van de Vlaamse Regering van 2024-01-26 tot uitvoering van het Vlaams Pachtdecreet van 13 oktober 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039392/VolledigDocument?datum=2024-03-03",
+  "source_sha256": "adc3e3e58307f9f8dacdb6fd6c6b549ea47ff7373735c06855e45aac57f701fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039392&param=informatie",
+  "as_of": "2024-03-03",
+  "made": "2024-01-26",
+  "gazette": "2024-02-22",
+  "numac": 2024001585,
+  "document_start": "2024-03-03",
+  "document_end": null,
+  "in_force": "2024-03-03",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2024-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
