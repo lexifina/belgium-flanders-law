@@ -25,7 +25,7 @@
 6° CPCI-SSH : Conference Proceedings Citation Index - Social Sciences &amp; Humanities, onderdeel van Conference Proceedings Citation Index (CPCI), uitgegeven door Clarivate Analytics, voorheen Thomson Reuters;<br>
 7° Publicatiediscipline : een van de disciplinaire subdomeinen zoals gedefinieerd door het ECOOM als aggregatie van de Clarivate Analytics, voorheen Thomson Reuters Web-of-Science Subject Categories;<br>
 8° ECOOM : Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, bedoeld in titel IV, hoofdstuk VI, artikel 63/5 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
-8° /1 FRIS : Flanders Research Information Space, de informatieruimte binnen het domein Economie, Wetenschap en Innovatie waarin onderzoeksinformatie op een transparante en geautomatiseerde manier kan doorstromen en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
+8°/1 FRIS: Flanders Research Information Space, afgekort FRIS, als vermeld in artikel 2/3 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
 9° Globale middelen van het Bijzondere Onderzoeksfonds : de overheidsbijdragen vermeld in artikel 17, 1° tot en met 3°, aangevuld met de eigen bijdrage, vermeld in artikel 19, tweede lid;<br>
 10° Impactfactor : de impactfactor van een tijdschrift, verwerkt voor de SCIE of de SSCI, zoals gepubliceerd in de Journal Citation Reports (JCR);<br>
 11° Jaar t : het beoogde begrotingsjaar;<br>
@@ -39,7 +39,8 @@
 19° Wetenschapsgroep : de drie groepen « humane wetenschappen », met inbegrip van de sociale wetenschappen, « exacte en toegepaste wetenschappen » en « medische wetenschappen », zoals gebruikt in de personeelsstatistieken gepubliceerd door de Vlaamse Interuniversitaire Raad;<br>
 20° ZAP : zelfstandig academisch personeel;<br>
 21° onderzoeksdiscipline: een van de disciplinaire subdomeinen van de Vlaamse onderzoeksdisciplinestandaard zoals gedefinieerd door ECOOM en gebruikt in FRIS;<br>
-22° VLIR: Vlaams Interuniversitaire Raad, vermeld in art. I.3 72° /2 van de Codex Hoger Onderwijs van 11 oktober 2013.
+22° VLIR: Vlaams Interuniversitaire Raad, vermeld in art. I.3 72° /2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+23° Het bevoegde departement: het Departement EWI, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 2.
 
@@ -139,19 +140,19 @@ Het reglement van orde, vermeld in artikel 6, omvat een procedure,   vastgesteld
 
 ### ART. 14.
 
-De Vlaamse Regering laat om de vijf jaar de kwaliteit en de graad van wetenschappelijkheid van het VABB-SHW evalueren. Deze evaluatie besteedt in het bijzonder aandacht aan:<br>
-1° het wetenschappelijke beheer van het VABB-SHW door het Gezaghebbende Panel, zoals vermeld in artikel 5, paragraaf 1, de technische ondersteuning die ECOOM hierbij levert aan het Gezaghebbende Panel, zoals vermeld in artikel 8, en de administratieve ondersteuning die aan het Gezaghebbende Panel wordt verleend, zoals vermeld in artikel 8, en dit telkens over de periode sinds de vorige evaluatie van het VABB-SHW;<br>
-2° de evolutie die het beheer vermeld onder 1° heeft doorgemaakt sinds de vorige evaluatie van het VABB-SHW en de tijdsbesteding die dat beheer in het bijzonder voor de leden van het Gezaghebbende Panel impliceert;<br>
-3° de wijze waarop het Gezaghebbende Panel in samenwerking met ECOOM en eventuele andere partijen zijn werkzaamheden organiseert en transparant bekendmaakt aan de onderzoeksgemeenschap binnen het domein van de SHW, vermeld in artikel 3;<br>
-4° de gevolgde werkwijze en procedures om de lijst van publicaties op te stellen die het Gezaghebbende Panel in aanmerking neemt voor opname in het VABB-SHW conform artikel 3 en 4 en conform de indeling gedefinieerd in artikel 10, paragraaf 3, en de efficiëntie van die werkwijze en procedures;<br>
-5° de mate waarin de publicaties die worden verwerkt in het VABB-SHW voldoen aan de criteria, vermeld in artikel 4, en de mate waarin de publicaties die zijn afgewezen door het Gezaghebbende Panel, er niet aan voldoen;<br>
-6° de mate waarin het VABB-SHW door de onder 3° vermelde onderzoeksgemeenschap wordt aangewend conform de doelstelling, vermeld in artikel 60, paragraaf 1 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
-7° de wijze waarop het Gezaghebbende Panel het gebruik van het VABB-SHW opvolgt;<br>
-8° de toekomststrategie die het Gezaghebbende Panel voor het VABB-SHW formuleert.
+In hetzelfde jaar als de evaluatie, vermeld in artikel 69, §1, eerste lid, van dit besluit, wordt de kwaliteit en de graad van wetenschappelijkheid van het VABB-SHW geëvalueerd. De voormelde evaluatie besteedt minstens aandacht aan:<br>
+1° de werking van het VABB-SHW en de evolutie daarvan, minstens sinds de vorige evaluatie van het VABB-SHW;<br>
+2° het gebruik van het VABB-SHW door onder meer de onderzoeksgemeenschap en het gebruik van de VABB-SHW conform de doelstelling, vermeld in artikel 60, §1, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en voor andere doeleinden en de mate waarin dat gebruik van het VABB-SHW wordt opgevolgd;<br>
+3° de toekomststrategie die het Gezaghebbende Panel, vermeld in artikel 5, van dit besluit, voor het VABB-SHW formuleert.<br>
+<br>
+De evaluatie, vermeld in het eerste lid, kan ook aandacht besteden aan:<br>
+1° de relatie van het VABB-SHW met en de plaats van het VABB-SHW ten opzichte van de middelen voor onderzoek, met specifieke aandacht voor de middelen uit de Bijzondere Onderzoeksfondsen;<br>
+2° de rol en positie van het VABB-SHW in het bredere Vlaamse onderzoeks- en innovatiesysteem;<br>
+3° transversale beleidsthema’s of andere aspecten die raken aan VABB-SHW.
 
 ### ART. 15.
 
-§ 1. Voor de evaluatie, vermeld in artikel 14, stelt het bevoegde departement een plan van aanpak op dat nadere bepalingen bevat over de inhoud en de reikwijdte ervan. Het bevoegde departement licht dat plan van aanpak toe aan de beheersinstantie van het VABB-SHW uiterlijk in de eerste helft van het jaar van de evaluatie. De Vlaamse minister, bevoegd voor het wetenschapsbeleid, deelt dat plan van aanpak mee aan de Vlaamse Regering.<br>
+§ 1. Voor de evaluatie, vermeld in artikel 14, stelt het bevoegde departement een plan van aanpak op dat nadere bepalingen bevat over de inhoud en de reikwijdte ervan. Het bevoegde departement licht dat plan van aanpak toe aan de beheersinstantie van het VABB-SHW uiterlijk vijf maanden voor de start van de evaluatie. De Vlaamse minister, bevoegd voor het wetenschapsbeleid, deelt dat plan van aanpak mee aan de Vlaamse Regering.<br>
 <br>
 § 2. Voor de uitvoering van de evaluatie, vermeld in artikel 14, stelt het bevoegde departement de gepaste evaluatieorganen aan die over de expertise beschikken die evaluatie vakkundig uit te voeren. Daarbij worden de algemene en specifieke procedures gevolgd die het bevoegde departement heeft uitgewerkt.<br>
 <br>
@@ -163,7 +164,7 @@ Ten hoogste twee derde van de leden van het panel is van hetzelfde geslacht.<br>
 <br>
 § 5. Het panel van experts, vermeld in paragraaf 3, stelt een evaluatierapport op dat ter beschikking wordt gesteld van de evaluatie, vermeld in artikel 14, en aan de evaluatieorganen, vermeld in paragraaf 2.<br>
 <br>
-§ 6. Ter ondersteuning van de uitvoering van de evaluatie, vermeld in artikel 14, stelt het Gezaghebbende Panel een toekomststrategie op voor de periode van vijf jaar die volgt op het kalenderjaar waarin de evaluatie, vermeld in artikel 14, plaatsvindt. Deze strategie omvat minstens een missie en doelstellingen en kan opgesteld worden op basis van een vragenlijst die het bevoegde departement heeft opgesteld en aan het Gezaghebbende Panel aanreikt. De toekomststrategie wordt beschouwd als een werkdocument dat input levert voor de evaluatie.
+§ 6. Ter ondersteuning van de uitvoering van de evaluatie, vermeld in artikel 14, stelt het Gezaghebbende Panel een toekomststrategie op voor de periode van vijf jaar die volgt op het kalenderjaar waarin de evaluatie, vermeld in artikel 14, plaatsvindt. Deze strategie omvat minstens een missie en doelstellingen en kan opgesteld worden op basis van een themalijst die het bevoegde departement heeft opgesteld en aan het Gezaghebbende Panel aanreikt. De toekomststrategie wordt beschouwd als een werkdocument dat input levert voor de evaluatie.
 
 ### ART. 16.
 
@@ -180,20 +181,24 @@ De Vlaamse Regering legt het finale evaluatierapport, samen met de conclusies of
 De Vlaamse Regering legt jaarlijks binnen de perken van de betreffende begrotingskredieten voorzien in de uitgavenbegroting drie types overheidsbijdragen vast voor de Bijzondere Onderzoeksfondsen, overeenkomstig artikel 63/1 tot en met 63/3 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid :<br>
 1° basistoelage voor de Bijzondere Onderzoeksfondsen;<br>
 2° middelen die bestemd zijn voor de financiering van tenure track-mandaten, als vermeld in hoofdstuk 4, verder de tenure track-financiering genoemd;<br>
-3° middelen die bestemd zijn voor de Methusalem-financiering, als vermeld in hoofdstuk 5.
+3° middelen die bestemd zijn voor de Methusalem-financiering, als vermeld in hoofdstuk 5.<br>
+<br>
+In 2024 start het bevoegde departement samen met de universiteiten een traject op om in kaart te brengen of er op een meerjarige financiering zou kunnen worden overgestapt en welke faciliterende maatregelen daarvoor nodig zijn.
 
 ### ART. 18.
 
 <p>De bedragen van de overheidsbijdragen, vermeld in artikel 17, worden jaarlijks geïndexeerd binnen de perken van de betreffende begrotingskredieten voorzien in de uitgavenbegroting, volgens de formule, vermeld in artikel III.5, paragraaf 9, eerste lid, van de Codex Hoger Onderwijs van 11 oktober 2013.</p>
 
-<p>Ieder jaar (t-1) voor 1 oktober deelt de Vlaamse Regering aan elke universiteit het bedrag mee van de overheidsbijdragen die ze krachtens het eerste lid kan verwachten. De raming van de inkomsten en de uitgaven van het Bijzondere Onderzoeksfonds maakt integraal deel uit van de begroting van de universiteit onder de afdeling IV.1.</p>
+<p>Ieder jaar (t-1) voor 15 oktober deelt de Vlaamse Regering aan elke universiteit het bedrag mee van de overheidsbijdragen die ze krachtens het eerste lid kan verwachten. De raming van de inkomsten en de uitgaven van het Bijzondere Onderzoeksfonds maakt integraal deel uit van de begroting van de universiteit onder de afdeling IV.1.</p>
 
 <p>De overheidsbijdragen aan het Bijzondere Onderzoeksfonds worden door de Vlaamse Regering definitief vastgesteld zodra de algemene uitgavenbegroting van de Vlaamse Gemeenschap door het Vlaamse Parlement voor het desbetreffende begrotingsjaar is gestemd.<br>
 90 % van het jaarlijks voor het Bijzondere Onderzoeksfonds in de uitgavenbegroting ingeschreven bedragen, als vermeld in artikel 17, wordt vastgelegd zodra de algemene uitgavenbegroting van de Vlaamse Gemeenschap door het Vlaamse Parlement voor het desbetreffende begrotingsjaar is gestemd.</p>
 
 <p>Op het einde van elk kwartaal wordt aan iedere universiteit een vierde van het aandeel in het vierde lid bedoelde bedrag ter beschikking gesteld.</p>
 
-<p>Het resterende bedrag wordt vastgelegd en in één schijf vereffend zodra de begrotingscontrole van de Vlaamse Gemeenschap door het Vlaamse Parlement is gestemd.</p>
+<p>Het resterende bedrag wordt vastgelegd en in één schijf vereffend zodra de noodzakelijke goedkeuringen, vermeld in artikel 23, §4, zijn gegeven.<br>
+<br>
+Als de rapportering van een universiteit, vermeld in artikel 23, §3 en §4, artikel 67, 68 en artikel 68/1, niet goedgekeurd wordt omdat ze niet voldoet aan de voorwaarden, vermeld in dit besluit, heeft de universiteit, na de kennisgeving van die tekortkoming aan de universiteit, dertig dagen om de rapportering te vervolledigen. Van de subsidie, vermeld in artikel 17, wordt 10% ingehouden als de universiteit niet tijdig de ontbrekende informatie kwaliteitsvol aanlevert.</p>
 
 ### ART. 19.
 
@@ -203,13 +208,21 @@ De Vlaamse Regering legt jaarlijks binnen de perken van de betreffende begroting
 
 ### ART. 20.
 
-Voor het beheer van het Bijzondere Onderzoeksfonds mag het universiteitsbestuur in zijn totaliteit ten hoogste 6% van de globale middelen van het Bijzondere Onderzoeksfonds aanwenden voor:<br>
+Voor het beheer van het Bijzondere Onderzoeksfonds mag het universiteitsbestuur in zijn totaliteit ten hoogste 6% van de som van de overheidsbijdrage, vermeld in artikel 17, eerste lid, 1°, de overheidsbijdrage, vermeld in artikel 17, eerste lid, 2°, en de eigen bijdrage, vermeld in artikel 19, tweede lid, aanwenden voor:<br>
 1° de werking van de diensten voor onderzoekscoördinatie;<br>
-2° de loonlasten die rechtstreeks verbonden zijn aan het beheer van onderzoeksprojecten of initiatieven die ten laste van het Bijzondere Onderzoeksfonds bekostigd worden.
+2° de werkingskosten, de kosten voor onderzoeksinfrastructuur en de loonlasten die rechtstreeks verbonden zijn aan het beheer van onderzoeksprojecten of initiatieven die ten laste van het Bijzondere Onderzoeksfonds bekostigd worden.<br>
+<br>
+Vanaf 2025 stijgt het percentage van ten hoogste 6%, vermeld in het eerste lid, naar ten hoogste 8% op voorwaarde dat die verhoging niet leidt tot een nettovermindering van de steun aan het onderzoek ten opzichte van het referentiejaar 2024, rekening houdend met de indexatie. Het bevoegde departement beslist jaarlijks op basis van de begrotingsopmaak of de voormelde verhoging kan worden ingevoerd.
 
 ### ART. 21.
 
-<P>In het begrotingsjaar 2013 mag het universiteitsbestuur, overeenkomstig   artikel 6, paragraaf 4 van het decreet van 14 maart 2008 betreffende de   financiering van de werking van de hogescholen en de universiteiten in   Vlaanderen, een aanvullend bedrag van maximaal 30 % van de middelen van het   Bijzondere Onderzoeksfonds transfereren naar de werkingsuitkering voor de   dekking van de gewone uitgaven, op voorwaarde dat het bedrag bestemd wordt voor   :<BR>1° loonkosten van leden van het ZAP die zijn aangesteld volgens de   voorwaarden, vermeld in artikel 47;<BR>2° de gewone uitgaven, in het bijzonder   de afhouding voor de werking van de diensten voor onderzoekscoördinatie, vermeld   in artikel 20, 1°. <BR></P>  <P>Vanaf het begrotingsjaar 2014 kan de Vlaamse minister, bevoegd voor het   wetenschapsbeleid, jaarlijks het maximale percentage van de middelen van het   Bijzondere Onderzoeksfonds dat mag worden getransfereerd bepalen, op voorwaarde   dat het percentage nooit lager kan zijn dan het percentage van het vorige   begrotingsjaar. Als er geen nieuw percentage bepaald wordt voor 1 maart van het   jaar t, geldt het percentage dat van toepassing was in het jaar (t-1).<BR></P>  <P>Het universiteitsbestuur mag, overeenkomstig artikel 6, paragraaf 4, van het   decreet van 14 maart 2008 betreffende de financiering van de werking van de   hogescholen en de universiteiten in Vlaanderen, de middelen van de tenure   track-financiering, vermeld in artikel 51, transfereren naar de   werkingsuitkering voor de dekking van loonkosten van leden van het ZAP die   worden aangesteld volgens de voorwaarden, vermeld in artikel   52.</P>
+<p>In het begrotingsjaar 2013 mag het universiteitsbestuur, overeenkomstig artikel 6, paragraaf 4 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, een aanvullend bedrag van maximaal 30 % van de som van de basistoelage voor de Bijzondere Onderzoeksfondsen, vermeld in artikel 17, eerste lid, 1°, van dit besluit, en de eigen bijdrage, vermeld in artikel 19, tweede lid, van dit besluit, transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven, op voorwaarde dat het bedrag bestemd wordt voor :<br>
+1° loonkosten van leden van het ZAP die zijn aangesteld volgens de voorwaarden, vermeld in artikel 47;<br>
+2° de gewone uitgaven, in het bijzonder de afhouding voor de werking van de diensten voor onderzoekscoördinatie, vermeld in artikel 20, 1°.</p>
+
+<p>Vanaf het begrotingsjaar 2014 kan de Vlaamse minister, bevoegd voor het wetenschapsbeleid, jaarlijks het maximale percentage van de middelen van het Bijzondere Onderzoeksfonds dat mag worden getransfereerd bepalen, op voorwaarde dat het percentage nooit lager kan zijn dan het percentage van het vorige begrotingsjaar. Als er geen nieuw percentage bepaald wordt voor 1 maart van het jaar t, geldt het percentage dat van toepassing was in het jaar (t-1).</p>
+
+<p>Het universiteitsbestuur mag, overeenkomstig artikel 6, paragraaf 4, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, de middelen van de tenure track-financiering, vermeld in artikel 51, transfereren naar de werkingsuitkering voor de dekking van loonkosten van leden van het ZAP die worden aangesteld volgens de voorwaarden, vermeld in artikel 52.</p>
 
 ## Afdeling 2. Voorwaarden voor toekenning van de overheidsbijdragen aan de Bijzondere Onderzoeksfondsen
 
@@ -234,7 +247,7 @@ Voor het beheer van het Bijzondere Onderzoeksfonds mag het universiteitsbestuur 
 1° de kwaliteitszorg en de evaluatie van het onderzoek;<br>
 2° de principes van goed bestuur binnen het onderzoeksbeleid;<br>
 3° het versterken van de diversiteit van de onderzoekspopulatie;<br>
-4° de vorming en de loopbaan van de onderzoekers;<br>
+4° de vorming en de loopbaan van de onderzoekers met aandacht voor het welzijn van de onderzoekers inclusief de aanpak van grensoverschrijdend gedrag;<br>
 5° de communicatie over het lopende of afgeronde onderzoek;<br>
 6° open science en Responsible Research &amp; Innovation inclusief bepalingen over opslag en hergebruik van data;<br>
 7° interdisciplinariteit;<br>
@@ -280,15 +293,15 @@ Vanaf het begrotingsjaar 2013 wordt de overheidsbijdrage aan de Bijzondere   Ond
 
 ### ART. 26.
 
-De overheidsbijdragen aan de Bijzondere Onderzoeksfondsen van de   Katholieke Universiteit Leuven en de Katholieke Universiteit Brussel worden   samen berekend, waarbij voor de berekening van de parameters de data van de   Katholieke Universiteit Leuven en de Katholieke Universiteit Brussel samengeteld   worden. De overheid maakt de gezamenlijke bijdrage over aan de Katholieke   Universiteit Leuven, die het aandeel van de Katholieke Universiteit Brussel   transfereert naar het Bijzondere Onderzoeksfonds van de Katholieke Universiteit   Brussel.
+...
 
 ### ART. 27.
 
-<p>§ 1. De BOF-sleutel omvat tien parameters, gebundeld in een structureel deel of een onderdeel A, als vermeld in onderafdeling 3, een bibliometrisch deel of een onderdeel B, als vermeld in onderafdeling 4 en een deel dat betrekking heeft op beleidsaccenten of een onderdeel C als vermeld in onderafdeling 4/1.</p>
+<p>§ 1. De BOF-sleutel omvat negen parameters, gebundeld in een structureel deel of een onderdeel A, als vermeld in onderafdeling 3, een bibliometrisch deel of een onderdeel B, als vermeld in onderafdeling 4 en een deel dat betrekking heeft op beleidsaccenten of een onderdeel C als vermeld in onderafdeling 4/1.</p>
 
-<p>§ 2. Daarnaast wordt in de BOF-sleutel een gegarandeerd minimumaandeel voor de overheidsbijdragen aan het Bijzondere Onderzoeksfonds ingevoerd voor de Universiteit Hasselt, de Vrije Universiteit Brussel en de Universiteit Antwerpen. Dat gegarandeerde minimumaandeel wordt berekend volgens de bepalingen, vermeld in onderafdeling 2, en wordt toegepast als het procentuele aandeel van de genoemde universiteiten berekend op basis van de&nbsp;tien parameters, vermeld in paragraaf 1, lager ligt dan het minimumaandeel.</p>
+<p>§ 2. Daarnaast wordt in de BOF-sleutel een gegarandeerd minimumaandeel voor de overheidsbijdragen aan het Bijzondere Onderzoeksfonds ingevoerd voor de Universiteit Hasselt, de Vrije Universiteit Brussel en de Universiteit Antwerpen.</p>
 
-<p>Het verschil tussen het gegarandeerde minimumaandeel en het procentuele aandeel op basis van de&nbsp;tien parameters van de genoemde universiteiten wordt gerealiseerd door proportionele voorafname op het procentuele aandeel dat behaald is door de andere universiteiten.<br>
+<p>Het verschil tussen het gegarandeerde minimumaandeel en het procentuele aandeel op basis van de negen parameters van de genoemde universiteiten wordt gerealiseerd door proportionele voorafname op het procentuele aandeel dat behaald is door de andere universiteiten.<br>
 <br>
 Als een of meer van de universiteiten, vermeld in het eerste lid, door toepassing van de berekening van de BOF-sleutel, vermeld in paragraaf 1, voor een bepaald begrotingsjaar een aandeel verkrijgen dat hoger is dan het verhoogde gegarandeerde minimumaandeel in dat jaar, vermeld in onderafdeling 2, wordt het werkelijk gerealiseerde aandeel in rekening gebracht. De bepalingen, vermeld in het tweede lid, zijn in dat geval enkel van toepassing op het verschil tussen het werkelijk gerealiseerde aandeel en het verhoogde gegarandeerde minimumaandeel, vermeld in artikel 29, § 1, en het aandeel van de universiteit(en) kan niet lager dalen dan het verhoogde gegarandeerde minimumaandeel. Verdere verrekening ter uitvoering van het tweede lid, is ten laste van het aandeel van de universiteiten die niet vermeld zijn in deze paragraaf.<br>
 &nbsp;</p>
@@ -463,13 +476,13 @@ Voor de berekening van het procentuele aandeel van elke universiteit in de   cat
 
 ### ART 40/1.
 
-§ 1. Onderdeel C van de verdeelsleutel is het gewogen gemiddelde van de volgende zes elementen:<br>
+§ 1. Onderdeel C van de verdeelsleutel is het gewogen gemiddelde van de volgende vijf elementen:<br>
 1° het procentuele aandeel van iedere universiteit in de doctoraatsparameter C1, vermeld in artikel 40/2;<br>
 2° het procentuele aandeel van iedere universiteit in de citatiedistributies via de citatiedistributieparameter C2, vermeld in artikel 40/3;<br>
 3° het procentuele aandeel van iedere universiteit in het aantal publicaties met minstens één buitenlands adres via de internationale samenwerkingsparameter C3, vermeld in artikel 40/4;<br>
 4° het procentuele aandeel van iedere universiteit in de budgettaire return uit de Europese kaderprogramma's via de hefboomparameter C4, vermeld in artikel 40/5;<br>
-5° het procentuele aandeel van iedere universiteit in de interdisciplinariteitsparameter C5, vermeld in artikel 40/6;<br>
-6° het procentuele aandeel van iedere universiteit in de diversiteitsparameter C6, vermeld in artikel 40/7.<br>
+5° ...;<br>
+6° het procentuele aandeel van iedere universiteit in de diversiteitsparameter C5, vermeld in artikel 40/7.<br>
 <br>
 § 2. Conform artikel 7 van het verdrag tussen de Vlaamse Gemeenschap van België en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg, ondertekend in Maastricht op 18 januari 2001, wordt voor de UHasselt bij de bepaling van de diploma's, vermeld in paragraaf 1, 1° alleen rekening gehouden met de diploma's die verleend zijn aan :<br>
 1° de Belgische studenten;<br>
@@ -483,11 +496,7 @@ Voor de becijfering van de verdeelsleutel voor het jaar t worden voor de doctora
 <br>
 Het procentueel aandeel van iedere universiteit in de doctoraatsparameter bestaat voor 75 % uit het aandeel binnen de gewogen doctoraatsdiploma's, en voor 25 % uit het aandeel binnen de ongewogen doctoraatsdiploma's.<br>
 <br>
-Voor de berekening van het aandeel binnen de gewogen doctoraatsdiploma's tot en met het begrotingsjaar 2014 krijgen de diploma's een wegingsfactor die gelijk is aan het puntengewicht van de opleidingen in hun studiegebied die leiden tot de graad van master, vermeld in artikel 23, § 1, 2°, 3° en 4° van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen.<br>
-<br>
-Voor de wegingsfactor, gehanteerd voor de berekening van het aandeel van iedere universiteit in de afgeleverde doctoraatsdiploma's, wordt verwezen naar art. III.19 § 1/1 van de Codex Hoger Onderwijs van 11 oktober 2013, voor het geheel van de referteperiode.<br>
-<br>
-Als twee of meer Vlaamse universiteiten een reële bijdrage leveren aan de wetenschappelijke begeleiding en materiële ondersteuning van de voorbereiding van een proefschrift met het oog op het behalen van een diploma van doctor en een van die universiteiten geen onderwijsbevoegdheid heeft in het studiegebied van het uitgereikte diploma, kunnen de betrokken universiteiten een overeenkomst sluiten voor de fractionele aanrekening van het diploma met het oog op de bepaling van het procentueel aandeel, vermeld in artikel 31, paragraaf 1, 2°, op voorwaarde dat de som van de fracties van het ongewogen diploma altijd gelijk is aan een eenheid.
+Voor de wegingsfactor, gehanteerd voor de berekening van het aandeel van iedere universiteit in de afgeleverde doctoraatsdiploma's, wordt verwezen naar art. III.19 § 1/1 van de Codex Hoger Onderwijs van 11 oktober 2013, voor het geheel van de referteperiode.
 
 ### ART 40/3.
 
@@ -547,100 +556,83 @@ Het totale verworven bedrag van een project wordt steeds evenredig uitgespreid o
 
 ### ART 40/6.
 
-De berekeningswijze van de interdisciplinariteitsparameter C5 dient tegen 1 juli 2022 uitgewerkt door ECOOM. Deze parameter dient een robuust beeld te geven van het aandeel van iedere universiteit in het geheel van de interdisciplinaire wetenschappelijke werking van de Vlaamse universiteiten. In het convenant dat gesloten wordt tussen de Vlaamse Regering en ECOOM worden daarover de nodige bepalingen opgenomen.
+...
 
 ### ART 40/7.
 
-Voor de becijfering van de verdeelsleutel voor het jaar t worden voor de diversiteitsparameter C6 de volgende elementen in rekening gebracht: het aandeel van elke universiteit in de som van het aantal vrouwelijke onderzoekers in voltijdse eenheden in een graad van het ZAP, het aantal vrouwelijke onderzoekers in voltijdse eenheden in het assisterend academisch personeel op postdoctoraal niveau en het aantal vrouwelijke onderzoekers in voltijdse eenheden in het wetenschappelijk personeel buiten de werkingsmiddelen op postdoctoraal niveau binnen een glijdend tijdsvenster genomen van het jaar (t-5) tot en met (t-2).
+Voor de becijfering van de verdeelsleutel voor het jaar t worden voor de diversiteitsparameter C5 de volgende elementen in rekening gebracht: het aandeel van elke universiteit in de som van het aantal vrouwelijke onderzoekers in voltijdse eenheden in een graad van het ZAP, het aantal vrouwelijke onderzoekers in voltijdse eenheden in het assisterend academisch personeel op postdoctoraal niveau en het aantal vrouwelijke onderzoekers in voltijdse eenheden in het wetenschappelijk personeel buiten de werkingsmiddelen op postdoctoraal niveau binnen een glijdend tijdsvenster genomen van het jaar (t-5) tot en met (t-2).
 
 ## Onderafdeling 5. Gewichten van de parameters
 
 ### ART. 41.
 
-Om de parameters, vermeld in de artikelen 31, 35 en 40/1, te wegen, worden de volgende factoren toegepast vanaf 2019 :<br>
+Om de parameters, vermeld in artikel 31, 35 en 40/1, te wegen, worden de volgende factoren toegepast vanaf 2019:<br>
+<br>
 &nbsp;
-<table border="1">
+<table cellspacing="0" style="border-collapse:collapse; width:411px">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;2019</td>
-			<td>vanaf 2024</td>
+			<td style="height:20px; vertical-align:bottom; width:291px"><a name="_Hlk191197"></a><a name="_Hlk532981369"></a></td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:20px; vertical-align:bottom; width:120px">2019</td>
 		</tr>
 		<tr>
-			<td>structureel deel</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:20px; width:291px">structureel deel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>gewicht A1</td>
-			<td>50,00%</td>
-			<td>50,00%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht A1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">50,00%</td>
 		</tr>
 		<tr>
-			<td>bibliometrisch deel</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">bibliometrisch deel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>gewicht B1</td>
-			<td>10,50%</td>
-			<td>10,50%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht B1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">10,50%</td>
 		</tr>
 		<tr>
-			<td>gewicht B2</td>
-			<td>4,50%</td>
-			<td>4,50%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht B2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">4,50%</td>
 		</tr>
 		<tr>
-			<td>gewicht B3</td>
-			<td>7,50%</td>
-			<td>7,50%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht B3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">7,50%</td>
 		</tr>
 		<tr>
-			<td>Beleidsaccenten</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">beleidsaccenten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>gewicht C1</td>
-			<td>9,00%</td>
-			<td>8,25%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht C1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">9,00%</td>
 		</tr>
 		<tr>
-			<td>gewicht C2</td>
-			<td>10,00%</td>
-			<td>9,25%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht C2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">10,00%</td>
 		</tr>
 		<tr>
-			<td>gewicht C3</td>
-			<td>3,75%</td>
-			<td>3,50%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht C3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">3,75%</td>
 		</tr>
 		<tr>
-			<td>gewicht C4</td>
-			<td>3,75%</td>
-			<td>3,50%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht C4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">3,75%</td>
 		</tr>
 		<tr>
-			<td>gewicht C5</td>
-			<td>0,00%</td>
-			<td>2,00%</td>
-		</tr>
-		<tr>
-			<td>gewicht C6</td>
-			<td>1,00%</td>
-			<td>1,00%</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:291px">gewicht C5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; vertical-align:bottom; width:120px">1,00%</td>
 		</tr>
 	</tbody>
 </table>
+”.<br>
+&nbsp;
 
 ## Onderafdeling 6. Aanlevering van de gegevens
 
 ### ART. 42.
 
 <p>De gegevens voor de berekening van de doctoraatsparameters C1, vermeld in artikel 40/1, paragraaf 1, 1°, worden door de administratie die verantwoordelijk is voor de Databank Hoger Onderwijs, uiterlijk op 30 juni van het jaar (t-1) bezorgd aan de Vlaamse minister, bevoegd voor het wetenschapsbeleid, en aan het bevoegde departement.</p>
-
-<p>De gegevens voor de fractionele aanrekening van de doctoraatsdiploma's vermeld in artikel 40/2, vierde lid worden uiterlijk op 30&nbsp;september van het jaar (t-1) aangeleverd door de Vlaamse Interuniversitaire Raad aan de Vlaamse minister bevoegd voor het wetenschapsbeleid, het bevoegde departement en de commissarissen die het toezicht uitoefenen op de universiteiten na een gezamenlijke validatie ervan door de universiteiten.</p>
 
 ### ART. 43.
 
@@ -718,9 +710,11 @@ In afwijking van het eerste lid kan een universiteit in het jaar 2020 een gemoti
 
 ### ART 49/1.
 
-§ 1. Minstens 20.000.000 euro van de middelen van het Bijzondere Onderzoeksfonds zal per twee jaar gezamenlijk besteed worden aan interuniversitaire projecten. Dit minimumbedrag wordt jaarlijks geïndexeerd binnen de perken van de betreffende begrotingskredieten voorzien in de uitgavenbegroting, volgens de formule, vermeld artikel III.5, § 9, eerste lid van de Codex hoger onderwijs van 11 oktober 2013.<br>
+§1. Minstens 5% van de middelen van het Bijzondere Onderzoeksfonds van de twee jaren vóór het jaar waarin de oproep, vermeld in §2, is gelanceerd, wordt per twee jaar gezamenlijk besteed aan interuniversitaire projecten.&nbsp;<br>
 <br>
-Iedere universiteit besteedt minstens een bedrag a rato van zijn deel in de verdeelsleutel toegepast op deze 20.000.000 euro per twee jaar jaarlijks geïndexeerd aan interuniversitaire projecten.<br>
+Van het bedrag voor interuniversitaire projecten, vermeld in het eerste lid, besteedt elke universiteit minstens een bedrag a rato van haar deel in de verdeelsleutel van de jaren in kwestie.<br>
+<br>
+Het verplicht te besteden bedrag per universiteit, vermeld in het tweede lid, wordt berekend over twee opeenvolgende oproepen als vermeld in §2, tweede lid, heen.<br>
 <br>
 § 2. De universiteiten stellen samen een procedure op voor de keuze van interuniversitaire projecten.<br>
 <br>
@@ -772,7 +766,7 @@ Het staat de universiteiten vrij het beschikbare bedrag voor de   Methusalem-fin
 
 ### ART. 56.
 
-<p>Voor de uitvoering van de Methusalem-financiering kunnen de universiteiten overheadkosten aanrekenen tot maximaal 8 % van de middelen, vermeld in artikel 17, 3°.</p>
+<p>Voor de uitvoering van de Methusalem-financiering kunnen de universiteiten overheadkosten aanrekenen tot maximaal 8 % van de middelen, vermeld in artikel 17, 3°.&nbsp;De voormelde overheadkosten vallen buiten de toegestane kosten voor het beheer, vermeld in artikel 20.</p>
 
 <p>Overheadkosten kunnen worden besteed aan de vergoeding van werkingskosten en loonkosten die rechtstreeks verbonden zijn aan het beheer van onderzoeksprojecten die bekostigd worden met de Methusalem-financiering, of van centrale beheerskosten en algemene exploitatiekosten van de universiteit.</p>
 
@@ -828,15 +822,26 @@ De toekenning van een Methusalem-financiering aan ZAP-leden sluit niet uit   dat
 
 ### ART. 65.
 
-<P>&nbsp;§ 1. Zoals bepaald in art. 63/3, paragraaf 8 van het decreet van 30   april 2009 betreffende de organisatie en financiering van het wetenschaps- en   innovatiebeleid, wordt de onderzoeker die financiering ontvangt, om de zeven   jaar door een panel, dat aan de voorwaarden, vermeld in artikel 60, voldoet,   geëvalueerd. Dat panel beoordeelt of :<BR>1° het verrichte werk internationaal   toonaangevend is en aan de verwachtingen voldoet; <BR>2° het human   resources-beleid en in het bijzonder de mate waarin postdoctorale onderzoekers   die werken in onderzoeksgroepen van ZAP-leden die Methusalem-financiering   ontvangen, worden gestimuleerd om ervaring op te doen met het opzetten van   zelfstandig onderzoek; <BR>3° het onderzoeksplan voor de volgende zeven jaar en   de aangevraagde financiering adequaat zijn. <BR></P>  <P>Het panel kan suggesties voor de ontwikkeling van het onderzoek doen.   <BR></P>  <P>In geval van een samenwerkingsverband tussen twee of meer universiteiten als   vermeld in artikel 60, paragraaf 6, wordt door de betrokken universiteiten één   evaluatiepanel samengesteld. <BR></P>  <P>§ 2. Op basis van de tussentijdse evaluatie, vermeld in paragraaf 1, beslist   het universiteitsbestuur over de voortzetting van de financiering. Bij een   positieve evaluatie heeft het universiteitsbestuur het recht om het toegekende   bedrag te wijzigen, binnen de bepalingen van artikel 62, eerste lid. Bij een   negatieve evaluatie kan de financiering worden stopgezet, conform de bepalingen   in artikel 66, paragraaf 1.<BR><BR>§ 3. Een tussentijdse evaluatie is niet nodig   als, bij de aanvang van de volgende financieringstermijn, de steun aan de   persoon die de Methusalem-financiering geniet, minder dan 100% bedraagt met   toepassing van de regeling voor de afbouw van de financiering, vermeld in   artikel 66, § 1, tweede en derde lid.</P>
+<p>&nbsp;§1. Zoals bepaald in art. 63/3, paragraaf 8 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, wordt de onderzoeker die financiering ontvangt, om de zeven jaar door een panel, dat aan de voorwaarden, vermeld in artikel 60, voldoet, geëvalueerd. Dat panel beoordeelt of :<br>
+1° het verrichte werk internationaal toonaangevend is en aan de verwachtingen voldoet;<br>
+2° het human resources-beleid en in het bijzonder de mate waarin postdoctorale onderzoekers die werken in onderzoeksgroepen van ZAP-leden die Methusalem-financiering ontvangen, worden gestimuleerd om ervaring op te doen met het opzetten van zelfstandig onderzoek;<br>
+3° het onderzoeksplan voor de volgende zeven jaar en de aangevraagde financiering adequaat zijn.</p>
+
+<p>Het panel kan suggesties voor de ontwikkeling van het onderzoek doen.</p>
+
+<p>In geval van een samenwerkingsverband tussen twee of meer universiteiten als vermeld in artikel 60, paragraaf 6, wordt door de betrokken universiteiten één evaluatiepanel samengesteld.</p>
+
+<p>§2. Op basis van de tussentijdse evaluatie, vermeld in paragraaf 1, beslist het universiteitsbestuur over de voortzetting van de financiering. De voormelde tussentijdse evaluatie kan plaatsvinden in vergelijkend perspectief met aanvragen voor Methusalemfinanciering die voldoen aan de voorwaarden, vermeld in artikel 59. Bij een positieve evaluatie kan het universiteitsbestuur het toegekende bedrag, vermeld in artikel 62, eerste lid, wijzigen. Bij een negatieve evaluatie of een vergelijkenderwijs minder positieve evaluatie kan de financiering worden stopgezet conform artikel 66, §1.<br>
+<br>
+§3. Een tussentijdse evaluatie is niet nodig als, bij de aanvang van de volgende financieringstermijn, de steun aan de persoon die de Methusalem-financiering geniet, minder dan 100% bedraagt met toepassing van de regeling voor de afbouw van de financiering, vermeld in artikel 66, § 1, tweede en derde lid.</p>
 
 ### ART. 66.
 
-<p>§ 1. Als de financiering wordt beëindigd op grond van een negatieve tussentijdse evaluatie, worden de toegekende middelen vanaf het jaar dat de beslissing is genomen, jaarlijks verminderd met 25 %.</p>
+<p>§ 1. Als de financiering wordt beëindigd op grond van een negatieve of vergelijkenderwijs minder positieve tussentijdse evaluatie, worden de toegekende middelen vanaf het jaar dat de beslissing is genomen, jaarlijks verminderd met 25 %.</p>
 
 <p>Als de financiering wordt beëindigd omdat het ZAP-lid het emeritaat bereikt, worden de toegekende middelen vanaf het derde jaar voor de beëindiging jaarlijks verminderd met 25 %.</p>
 
-<p>Als een onderzoeker, die financiering ontvangt, om andere redenen dan het emeritaat de universiteit verlaat, wijst het universiteitsbestuur een gewoon hoogleraar aan om tijdelijk als wetenschappelijk directeur op te treden en wordt de regeling voor de afbouw van de financiering, vermeld in het tweede lid, van toepassing.</p>
+<p>Als een onderzoeker, die financiering ontvangt, om andere redenen dan het emeritaat afstand doet van zijn Methusalemfinanciering, wijst het universiteitsbestuur een gewoon hoogleraar aan om tijdelijk als wetenschappelijk directeur op te treden en wordt de regeling voor de afbouw van de financiering, vermeld in het tweede lid, van toepassing.</p>
 
 <p>§ 2. Als gevolg van de toepassing van de geleidelijke beëindiging, vermeld in paragraaf 1, wordt een nieuwe financiering stapsgewijs opgebouwd. Met de vrijgekomen middelen kan vervolgens een nieuwe kandidaat voor de Methusalem-financiering geselecteerd worden met toepassing van artikel 60.</p>
 
@@ -844,7 +849,11 @@ De toekenning van een Methusalem-financiering aan ZAP-leden sluit niet uit   dat
 
 ### ART. 67.
 
-<P>Het universiteitsbestuur publiceert op de website van de universiteit de   gemotiveerde beslissing van het universiteitsbestuur, vermeld in artikel 60,   paragraaf 5, ten aanzien van de geselecteerde kandidaat. <BR></P>  <P>De beslissingen over de voortzetting van de financiering, vermeld in artikel   65, paragraaf 2, worden ook gepubliceerd op de website van de universiteit.   <BR></P>  <P>In geval van een samenwerkingsovereenkomst wordt die ook op de website van de   betrokken universiteiten gepubliceerd. Universiteiten kunnen beslissen om   daarvoor een gemeenschappelijke website te gebruiken.</P>
+<p>Het universiteitsbestuur deelt de gemotiveerde beslissing van het universiteitsbestuur, vermeld in artikel 60, §5, ten aanzien van de geselecteerde kandidaat bij de jaarlijkse rapportering mee aan het bevoegde departement.<br>
+<br>
+De beslissingen over de voortzetting van de financiering, vermeld in artikel 65, §2, worden ook bij de jaarlijkse rapportering meegedeeld aan het bevoegde departement.&nbsp;<br>
+<br>
+Als een overeenkomst als vermeld in artikel 60, §6, wordt gesloten, wordt een kopie van die samenwerkingsovereenkomst bezorgd aan het bevoegde departement bij de jaarlijkse rapportering.</p>
 
 ## HOOFDSTUK 6. Kwaliteitszorg
 
@@ -854,24 +863,26 @@ De toekenning van een Methusalem-financiering aan ZAP-leden sluit niet uit   dat
 <br>
 Jaarlijks wordt in het jaarverslag van de universiteiten gerapporteerd over de stand van zaken met betrekking tot de doelstellingen in het beleidsplan, vermeld in artikel 23, paragraaf 1.<br>
 <br>
-Om het verloop van de Methusalem-financiering systematisch te volgen, zullen de universiteiten aan de Vlaamse minister, bevoegd voor het wetenschapsbeleid, bij elke nieuwe oproep in hun jaarverslag rapporteren over de volgende set van statistische parameters :<br>
+In 2024 starten de universiteiten met een rapportering over interdisciplinair onderzoek. Het bevoegde departement maakt samen met de universiteiten afspraken om te komen tot een goede monitoring van het interdisciplinair onderzoek aan de Vlaamse universiteiten.<br>
+<br>
+Om het verloop van de Methusalem-financiering systematisch te volgen, zullen de universiteiten aan de Vlaamse minister, bevoegd voor het wetenschapsbeleid, bij elke nieuwe oproep in hun jaarverslag aan het bevoegde departement rapporteren over de volgende set van statistische parameters :<br>
 1° de verhouding tussen het aantal ingediende en gehonoreerde aanvragen in aantal en in budget, wetenschapsgebied, nationaliteit, in te delen in Belgisch, EU, niet-EU, en geslacht;<br>
 2° de verhouding tussen de aangevraagde en de toegekende kredieten bij de geselecteerde voorstellen.</p>
 
 ### ART 68/1.
 
-§ 1. De universiteiten rapporteren maximaal over het gebruik van de globale middelen van het Bijzondere Onderzoeksfonds aan FRIS. Daarbij wordt volgens de geldende procedures en technische standaarden de nodige detailinformatie bezorgd zodat er vanuit FRIS minstens kan worden gerapporteerd over:<br>
-1° de inzet van de globale middelen van het Bijzondere Onderzoeksfonds, uitgesplitst naar projecten en mandaten, inclusief de doctorale, postdoctorale mandaten, de BOF-ZAP-mandaten, de tenuretrack- en de Methusalemfinanciering, per type als vermeld in artikel 49, per programma, onderzoeksdiscipline, toekenningsjaar, onderzoeker en de onderzoeksgroep van de kennisinstelling die de financiering ontvangt;<br>
+§1. De universiteiten rapporteren maximaal over het gebruik van de globale middelen van het Bijzondere Onderzoeksfonds aan FRIS. Daarbij wordt volgens de geldende procedures en technische standaarden de nodige detailinformatie bezorgd zodat er vanuit FRIS minstens kan worden gerapporteerd over:<br>
+1° de inzet van de globale middelen van het Bijzondere Onderzoeksfonds, uitgesplitst naar projecten en mandaten, inclusief de doctorale, postdoctorale mandaten, de BOF-ZAP-mandaten, de tenuretrack- en de Methusalemfinanciering, per type als vermeld in artikel 49, per programma, onderzoeksdiscipline, begrotingsjaar, onderzoeker en de onderzoeksgroep van de kennisinstelling die de financiering ontvangt;<br>
 2° wetenschappelijke publicaties inclusief degene die worden meegerekend voor onderdeel B van de verdeelsleutel zoals gespecifieerd in art. 35, de doctoraatsproefschriften en de onderzoeksdata;<br>
 3° wetenschappelijke apparatuur die aangeschaft is met de middelen van het Bijzondere Onderzoeksfonds;<br>
 4° regionale, nationale en internationale samenwerking;<br>
 5° interdisciplinariteit.<br>
 <br>
-§ 2. Om een analyse van het hefboomeffect van de globale middelen van het Bijzondere Onderzoeksfonds mogelijk te maken, wordt in FRIS ook informatie aangeleverd over projecten en mandaten die gefinancierd worden via andere kanalen dan het Bijzonder Onderzoeksfonds, inclusief de kanalen uit de derde en vierde geldstroom. Voor de derde geldstroom wordt de informatie bezorgd per onderzoeker en per onderzoeksgroep op het niveau van projecten en mandaten; voor de vierde geldstroom wordt de informatie bezorgd geaggregeerd op niveau 2 van de FRIS onderzoeksdisciplines, zonder de geldende confidentialiteitsregels te schenden.<br>
+§2. Om een analyse van het hefboomeffect van de globale middelen van het Bijzondere Onderzoeksfonds mogelijk te maken, wordt in FRIS ook informatie aangeleverd over projecten en mandaten die gefinancierd worden via andere kanalen dan het Bijzonder Onderzoeksfonds, inclusief de kanalen uit de derde en vierde geldstroom. Voor de derde geldstroom wordt de informatie bezorgd per onderzoeker en per onderzoeksgroep op het niveau van projecten en mandaten; voor de vierde geldstroom wordt de informatie bezorgd geaggregeerd op niveau 2 van de FRIS onderzoeksdisciplines, zonder de geldende confidentialiteitsregels te schenden.<br>
 <br>
-§ 3. De universiteiten stellen samen met het bevoegde departement uiterlijk tegen 1 juli 2019 een plan van aanpak op dat de precieze definities en de nadere modaliteiten over de aanlevering van deze gegevens, vermeld in paragraaf 1, bevat en rondt de implementatie hiervan uiterlijk eind 2021 af. De aanlevering van de informatie aan FRIS heeft betrekking op de periode vanaf 1 januari 2019. De Vlaamse minister bevoegd voor het wetenschapsbeleid kan maximaal één jaar uitstel toestaan op het aanleveren tegen eind 2021 mits een duidelijke motivatie voor de reden van uitstel wordt voorgelegd.<br>
+§3. De aanlevering van de informatie aan FRIS heeft betrekking op de periode vanaf 1 januari 2019.&nbsp;<br>
 <br>
-§ 4. De financiële rapportering over de inzet van de globale middelen van het Bijzondere Onderzoeksfonds gebeurt integraal via FRIS.<br>
+§4. De financiële rapportering over de inzet van de globale middelen van het Bijzondere Onderzoeksfonds gebeurt integraal via FRIS.&nbsp;Iedere universiteit bezorgt uiterlijk op 15 september de voormelde financiële rapportering aan het bevoegde departement. Het Departement EWI heeft maximaal dertig dagen om eventuele tekortkomingen in de voormelde rapportering te melden aan de universiteit.<br>
 <br>
 De toekenningen van onderzoeksprojecten en mandaten worden in FRIS gerapporteerd op detailniveau per kostensoort.<br>
 <br>
@@ -881,13 +892,16 @@ Over de bestedingen van mandaten wordt gerapporteerd via FRIS op het niveau van 
 <br>
 Over alle andere bestedingen met de globale middelen van het Bijzondere Onderzoeksfonds wordt via FRIS op geaggregeerd niveau gerapporteerd.<br>
 <br>
-Het bevoegde departement gebruikt deze informatie als basis voor de overzichtsrapportering over de inzet van de middelen. Het bevoegde departement bezorgt die rapportering jaarlijks proactief aan de universiteiten ter validering en gebruikt het gevalideerde overzichtsrapport voor de goedkeuring van de rapportering door de minister zoals beschreven in artikel 23 § 4.<br>
+Het bevoegde departement gebruikt deze informatie als basis voor de overzichtsrapportering over de inzet van de middelen. Het bevoegde departement bezorgt die rapportering jaarlijks proactief aan de universiteiten ter validering&nbsp;uiterlijk op 30 april en gebruikt het gevalideerde overzichtsrapport voor de goedkeuring van de rapportering door de minister zoals beschreven in artikel 23 § 4.&nbsp;De gevalideerde overzichtsrapporten worden uiterlijk op 15 september ingediend bij het bevoegde departement.<br>
 <br>
-§ 5. In de komende jaren wordt er in het kader van administratieve vereenvoudiging en eenmalige bevraging van gegevens naar gestreefd om voor alle financiële rapporteringsverplichtingen, zoals onder meer opgelegd in het besluit van de Vlaamse Regering houdende vastlegging van de voorschriften voor het opstellen van het jaarverslag van de universiteiten in de Vlaamse Gemeenschap van 4 februari 1997, FRIS als primaire bron in de onderzoeksverslaggeving te gebruiken. FRIS wordt gebruikt als basis voor de rapportering over de inzet van de middelen voor onderzoek, om te voldoen aan de nationale en internationale verplichtingen qua onderzoeksrapportering, voor eigen analyses en voor analyses door derden, om onderzoeksinformatie openbaar ter beschikking te stellen via FRIS en daarvan afgeleide producten.<br>
+§5. Er wordt naar gestreefd om voor alle financiële rapporteringsverplichtingen, FRIS als primaire bron in de onderzoeksverslaggeving te gebruiken. FRIS wordt gebruikt:<br>
+1° als basis voor de rapportering over de inzet van de middelen voor onderzoek, om te voldoen aan de nationale en internationale verplichtingen over onderzoeksrapportering;<br>
+2° voor eigen analyses en voor analyses door derden;<br>
+3° om onderzoeksinformatie en daarvan afgeleide producten openbaar ter beschikking te stellen.<br>
 <br>
-§ 6. Om de kwaliteit in FRIS over de inzet van het Bijzondere Onderzoeksfonds verder te verbeteren, wordt naast de informatie, die de universiteiten reeds aan FRIS aanleveren conform de overeenkomst voor de impulsfinanciering, ten minste de volgende informatie bijkomend aangeleverd:<br>
-1° voor onderzoekers: een ORCID, het geslacht, het statuut en de datum van verdediging van het doctoraat waar van toepassing;<br>
-2° voor projecten en mandaten: de slaagkansen van de ingediende projecten en mandaten; de goedgekeurde projecten en mandaten op detailniveau, het toekenningsjaar, de onderzoeksdiscipline, het financieringsprogramma en type project, de partners zoals vermeld in het contract, inclusief het land waarin ze gevestigd zijn;<br>
+§6. Om de kwaliteit in FRIS over de inzet van het Bijzondere Onderzoeksfonds te verbeteren, wordt ten minste de volgende informatie aangeleverd:<br>
+1° voor onderzoekers: een ORCID, het geslacht en de datum van verdediging van het doctoraat waar van toepassing;<br>
+2° voor projecten en mandaten: de slaagkansen van de ingediende projecten en mandaten; de goedgekeurde projecten en mandaten op detailniveau, het begrotingsjaar, de onderzoeksdiscipline, het financieringsprogramma en type project, de partners zoals vermeld in het contract, inclusief het land waarin ze gevestigd zijn;<br>
 3° voor publicaties: waar bestaand het label voor BOF-WoS en VABB-SHW, een ISBN, een ISSN, een DOI, een open access-label, de link naar het digital repository, de link naar het BOF-project of mandaat;<br>
 4° voor datasets: informatie over de inhoud, toegankelijkheid, technische formaat, een DOI, een open data-label, de link naar de open data repository, de link naar het BOF-project of -mandaat als dat van toepassing is;<br>
 5° voor wetenschappelijke apparatuur: een link naar het BOF-project of -mandaat als dat van toepassing is, informatie over de toegankelijkheid en gebruiksmodaliteiten.<br>
@@ -896,35 +910,39 @@ Voor de toepassing van het eerste lid wordt verstaan onder:<br>
 1° digital object identifier, afgekort DOI: een identificatiecode van elektronische bestanden die ze ondubbelzinnig identificeerbaar maakt;<br>
 2° open researcher and contributor ID, afgekort ORCID: een identificatiecode die wordt gebruikt om auteurs van wetenschappelijke werken uniek en ondubbelzinnig te identificeren.<br>
 <br>
-§ 7. Publicaties die resulteren uit het onderzoek van het Bijzonder Onderzoeksfonds worden zo snel als mogelijk gratis en online toegankelijk gemaakt in een open access repository. Data op basis van dat onderzoek worden publiekelijk ter beschikking gesteld volgens het principe "zo open als mogelijk, zo gesloten als noodzakelijk". De monitoring en rapportering hiervan dient te verlopen via FRIS. De timing hiervoor wordt gedetailleerd in het plan van aanpak bezorgd aan het bevoegde departement, rekening houdend met de afspraken die worden gemaakt in Flemish Open Science Board.<br>
+§7. Publicaties die resulteren uit het onderzoek van het Bijzonder Onderzoeksfonds worden zo snel als mogelijk gratis en online toegankelijk gemaakt in een open access repository. Data op basis van dat onderzoek worden publiekelijk ter beschikking gesteld volgens het principe "zo open als mogelijk, zo gesloten als noodzakelijk". De monitoring en rapportering hiervan dient te verlopen via FRIS. Voor deze monitoring en rapportering &nbsp;wordt rekening gehouden met de afspraken die worden gemaakt in de Flemish Open Science Board, opgericht bij beslissing van de Vlaamse Regering op 20 december 2019 betreffende Open Science beleid voor Vlaanderen en de oprichting van de Flemish Open Science Board.<br>
 <br>
 Gezien FRIS wordt ingezet als centrale hub om metadata van publiek gefinancierd onderzoek te ontsluiten en ook de connectie met de European open science cloud, afgekort EOSC, zal verzekeren, zijn bijkomende vragen voor de aanlevering van informatie in de toekomst mogelijk. De Vlaamse minister bevoegd voor het wetenschapsbeleid kan, in samenspraak met de Flemish Open Science Board en na toetsing van de technische haalbaarheid, de open access publicaties en de onderzoeksdata, uit het onderzoek met de globale middelen van het Bijzonder Onderzoeksfonds, volgens de FAIR-principes via FRIS toegankelijk maken voor EOSC.<br>
 <br>
-§ 8. De FRIS-data die publiek ontsloten mogen worden, worden ter beschikking gesteld als open data middels de gratis open data licentie van de Vlaamse overheid. Het bevoegde departement neemt de nodige technische en organisatorische maatregelen opdat de vertrouwelijkheid, integriteit en beschikbaarheid van de aangeleverde informatie wordt gegarandeerd. Dit betekent dat minstens de informatie over slaagkansen, over de bestedingen van de individuele mandaten en de informatie over de vierde geldstroom niet openbaar kan worden gemaakt op FRIS. Waar de aangeleverde informatie persoonsgegevens zijn, verwerkt het bevoegde departement deze gegevens in overeenstemming met de beginselen van de gegevensverwerking uiteengezet in de Algemene Verordening Gegevensbescherming en zal het bevoegde departement haar verplichtingen onder deze Verordening nakomen.<br>
+§8. De FRIS-data die publiek ontsloten mogen worden, worden ter beschikking gesteld als open data conform de modellicenties van de Vlaamse overheid. Het bevoegde departement neemt de nodige technische en organisatorische maatregelen opdat de vertrouwelijkheid, integriteit en beschikbaarheid van de aangeleverde informatie wordt gegarandeerd. Dit betekent dat minstens de informatie over slaagkansen, over de bestedingen van de individuele mandaten en de informatie over de vierde geldstroom niet openbaar kan worden gemaakt op FRIS. Waar de aangeleverde informatie persoonsgegevens zijn, verwerkt het bevoegde departement deze gegevens in overeenstemming met de beginselen van de gegevensverwerking uiteengezet in de Algemene Verordening Gegevensbescherming en zal het bevoegde departement haar verplichtingen onder deze Verordening nakomen.<br>
 <br>
-§ 9. De Vlaamse minister bevoegd voor het wetenschapsbeleid kan nadere technische modaliteiten met betrekking tot de hier uitgewerkte principes verder bepalen in een ministerieel besluit.
+§9. De Vlaamse minister bevoegd voor het wetenschapsbeleid kan nadere technische modaliteiten met betrekking tot de hier uitgewerkte principes verder bepalen in een ministerieel besluit.
 
 ### ART. 69.
 
-§ 1. De Vlaamse Regering laat om de vijf jaar de werking van de onderzoeksraden met betrekking tot het beheer van de Bijzondere Onderzoeksfondsen en de besteding van de Bijzondere Onderzoeksfondsen evalueren.<br>
+§1. Om de vijf jaar wordt de werking, de besteding en het beheer van de Bijzondere Onderzoeksfondsen en de evolutie, minstens sinds de vorige evaluatie van de Bijzondere Onderzoeksfondsen, geëvalueerd.&nbsp;<br>
 <br>
-De evaluatie heeft betrekking op de wijze waarop de fondsen, vermeld in het eerste lid, worden ingezet voor de doelstelling, vermeld in artikel 63/1, § 2, van het decreet van 30 april 2009 betreffende de organisatie en de financiering van het wetenschaps- en innovatiebeleid. In het bijzonder besteedt de evaluatie aandacht aan de bijdrage die de fondsen, vermeld in het eerste lid, leveren aan het globale onderzoeksbeleid van elke universiteit, zoals verwoord in het strategische beleidsplan, vermeld in artikel 22, aan de globale onderzoeksoutput van alle universiteiten, en aan de specifieke onderzoeksoutput van elke universiteit gekoppeld aan deze fondsen zoals beschikbaar in FRIS. Met betrekking tot de specifieke onderzoeksoutput wordt erop gewezen dat er niet noodzakelijk een één op één relatie bestaat tussen financieringsbron en output. De evaluatie onderzoekt ook welke rol de Bijzondere Onderzoeksfondsen spelen in het geheel van de Vlaamse onderzoeksfinanciering die aan de universiteiten ter beschikking wordt gesteld, en de mate waarin de informatie daarover in FRIS voorhanden is.<br>
+De evaluatie, vermeld in het eerste lid, heeft betrekking op de wijze waarop de fondsen, vermeld in het eerste lid, worden ingezet voor de doelstelling, vermeld in artikel 63/1, §2, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid.&nbsp;<br>
 <br>
-De evaluatie heeft naast de elementen, vermeld in het tweede lid, ook betrekking op:<br>
-1° het strategische beleidsplan van elke universiteit en de mate waarin de doelstellingen zijn behaald;<br>
-2° de plaats van de Bijzondere Onderzoeksfondsen ten opzichte van andere middelen voor onderzoek;<br>
-3° de impact van de middelen op het onderzoeksbeleid in de universiteiten, met bijzondere aandacht voor de inzet van die middelen ten opzichte van de inzet van andere verworven middelen voor onderzoek, onder meer in termen van complementariteit, afstemming en synergie;<br>
-4° de meerwaarde voor het Vlaamse onderzoek in termen van de kwaliteit van de onderzoekers en de onderzoeksprestaties die aan de middelen kunnen worden verbonden;<br>
-5° de hefboomwerking die de Bijzondere Onderzoeksfondsen eventueel bewerkstelligen, bijvoorbeeld in termen van het werven van andere onderzoeksfinanciering;<br>
-6° de kwaliteit van het onderzoeksmanagement in de universiteit in het algemeen en van de werking van de onderzoeksraden in het bijzonder;<br>
-7° de selectiemechanismen die gehanteerd worden bij de oproepen en toekenningen van initiatieven in het kader van de Bijzondere Onderzoeksfondsen;<br>
-8° de werking en impact van het tenure-track-systeem;<br>
-9° de werking en impact van de Methusalemfinanciering;<br>
-10° het strategische beleidsplan van de universiteiten dat betrekking heeft op de periode die volgt op het kalenderjaar van de evaluatie.<br>
+Als dat relevant is, maakt de evaluatie, vermeld in het eerste lid, onderscheid tussen de volgende niveaus:<br>
+1° het niveau van de universiteit en haar Bijzonder Onderzoeksfonds;<br>
+2° de Bijzondere Onderzoeksfondsen als beleidsinstrument, waarbij een onderscheid gemaakt wordt tussen de verschillende BOF-luiken, namelijk BOF algemeen met inbegrip van de interuniversitaire projecten, vermeld in artikel 49/1, het tenuretracksysteem en de Methusalemfinanciering;<br>
+3° de Bijzondere Onderzoeksfondsen binnen het bredere Vlaamse onderzoeks- en innovatiesysteem.<br>
 <br>
-Ter ondersteuning van de uitvoering van de evaluatie stellen de universiteiten een zelfevaluatie op die bestaat uit een ex-post- en een ex-antedeel. Het ex-postdeel heeft betrekking op de periode sinds de vorige evaluatie en het ex-antedeel op de periode van vijf jaar die volgt op het kalenderjaar van de evaluatie. Die zelfevaluatie kan opgesteld worden op basis van een vragenlijst die het bevoegde departement heeft opgesteld en aan de universiteiten aanreikt. De volledige zelfevaluatie wordt beschouwd als een werkdocument dat input levert voor de evaluatie.<br>
+De evaluatie, vermeld in het eerste lid, heeft betrekking op al de volgende elementen:<br>
+1° de globale onderzoeksoutput van alle universiteiten en de impact ervan;<br>
+2° de inzet van die middelen, onder meer in termen van meerwaarde, complementariteit, afstemming, synergie en hefboomwerking ten opzichte van de inzet van andere middelen voor onderzoek;<br>
+3° de mate waarin de doelstellingen zijn behaald;<br>
+4° de wijze van rapporteren in het algemeen en de mate waarin de universiteiten volledig rapporteren over de Bijzondere Onderzoeksfondsen in FRIS in het bijzonder;&nbsp;<br>
+5° de relatie van de Bijzondere Onderzoeksfondsen met en de plaats van de Bijzondere Onderzoeksfondsen ten opzichte van andere middelen voor onderzoek;<br>
+6° de rol en positie van de Bijzondere Onderzoeksfondsen;<br>
+7° de toekomststrategie, onder meer het strategische onderzoeksbeleidsplan van de universiteiten dat betrekking heeft op de periode die volgt op het kalenderjaar van de evaluatie.<br>
 <br>
-§ 2. Voor de evaluatie, vermeld in paragraaf 1, stelt het bevoegde departement een plan van aanpak op dat nadere bepalingen bevat over de inhoud en reikwijdte van de evaluatie. Het bevoegde departement licht dat uiterlijk in de eerste helft van het jaar van de evaluatie toe aan de universiteiten. De Vlaamse minister, bevoegd voor het wetenschapsbeleid, deelt dat plan van aanpak mee aan de Vlaamse Regering.<br>
+De evaluatie, vermeld in het eerste lid, kan aandacht besteden aan transversale beleidsthema’s of andere aspecten die raken aan de werking van de Bijzondere Onderzoeksfondsen.<br>
+<br>
+Ter ondersteuning van de uitvoering van de evaluatie, vermeld in het eerste lid, stellen de universiteiten een zelfevaluatie op die bestaat uit een ex-post- en een ex-antedeel. Het ex-postdeel heeft betrekking op de periode sinds de vorige evaluatie en het ex-antedeel op de periode van vijf jaar die volgt op het kalenderjaar van de evaluatie. De zelfevaluatie kan opgesteld worden op basis van een themalijst die het bevoegde departement opstelt en bezorgt aan de universiteiten. De volledige zelfevaluatie wordt beschouwd als een werkdocument dat input levert voor de evaluatie.<br>
+<br>
+§ 2. Voor de evaluatie, vermeld in paragraaf 1, stelt het bevoegde departement een plan van aanpak op dat nadere bepalingen bevat over de inhoud en reikwijdte van de evaluatie. Het bevoegde departement licht dat uiterlijk vijf maanden voor de start van de evaluatie toe aan de universiteiten. De Vlaamse minister, bevoegd voor het wetenschapsbeleid, deelt dat plan van aanpak mee aan de Vlaamse Regering.<br>
 <br>
 § 3. Voor de uitvoering van de evaluatie, vermeld in paragraaf 1, stelt het bevoegde departement de gepaste evaluatieorganen aan die over de expertise beschikken om die evaluatie vakkundig uit te voeren. Daarbij worden de algemene en specifieke procedures gevolgd die het bevoegde departement heeft uitgewerkt.<br>
 <br>
