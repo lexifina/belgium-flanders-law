@@ -2,16 +2,16 @@
   "codex_id": 1038626,
   "title": "Decreet van 2023-07-07 tot wijziging van artikel 99 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038626/VolledigDocument?datum=2023-08-09",
-  "source_sha256": "1599890f2f3b0e4288e5c22a31208bd82484775ef8cf9af1c474441112a2213a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038626/VolledigDocument?datum=2024-03-04",
+  "source_sha256": "d188008c25ae497dccc173954eb8587eeb92dd6ae32d4c9e10bbbeedd716f697",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038626&param=informatie",
-  "as_of": "2023-08-09",
+  "as_of": "2024-03-04",
   "made": "2023-07-07",
   "gazette": "2023-08-08",
   "numac": 2023043880,
   "document_start": "2023-08-09",
   "document_end": null,
-  "in_force": "2023-08-09",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2023-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-03-04",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-03-04; future article versions excluded; article text as the API gives it"
 }

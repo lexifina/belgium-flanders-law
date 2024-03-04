@@ -26,11 +26,27 @@ b) dezelfde persoon de ontwikkelaar, eigenaar of uitbater van de kleinhandelsbed
 2° in punt 4° worden tussen het woord “activiteit” en het woord “bestaat” de woorden “volledig of gedeeltelijk” ingevoegd;<br>
 3° in punt 4° wordt de zinsnede “, zonder die goederen andere behandelingen te laten ondergaan dan de behandelingen die in de handel gebruikelijk zijn” opgeheven.
 
+### ART 4.
+
+In artikel 3 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° punt 4° wordt vervangen door wat volgt:<br>
+“4° verkoop van vervoers- en transportmiddelen;”;<br>
+2° er worden een punt 5° en 6° toegevoegd, die luiden als volgt:<br>
+“5° verkoop van volumineuze goederen die niet vallen onder de categorieën, vermeld in punt 1° tot en met 4°;<br>
+6° verkoop van niet-volumineuze goederen die niet vallen onder de categorieën, vermeld in punt 1° tot en met 4°.”;<br>
+3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“In het eerste lid wordt verstaan onder volumineuze goederen: goederen waarvan de som van de hoogte, de breedte en de diepte minimaal 2,5 meter of meer bedraagt.”.
+
 ### ART 5.
 
 In artikel 8 van hetzelfde decreet wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
 <br>
 “De vertegenwoordigers, vermeld in het eerste lid, 2° en 3°, hebben binnen de organisatie een algemene functie of zijn actief op interprofessioneel vlak of voor het hele Vlaamse Gewest.”.
+
+### ART 6.
+
+Aan artikel 11, eerste lid, van hetzelfde decreet wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° een kleinhandelsbedrijf van meer dan 400 vierkante meter, ongeacht of het zich in een handelsgeheel bevindt of niet, opsplitsen.”.
 
 ### ART 7.
 
