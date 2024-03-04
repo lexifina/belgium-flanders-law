@@ -395,7 +395,8 @@ Dit besluit treedt in werking op 1 januari 2019.
 
 ### BIJLAGE
 
-Bijlage 3. Bijlage tot bepaling van de lijst met opleidingen die voldoen aan de opleidingsvoorwaarden:<br>
+Lijst met getuigschriften of attesten van opleidingen&nbsp;<br>
+<br>
 1° Bachelor sociaal werk;<br>
 2° Bachelor maatschappelijk werk;<br>
 3° Bachelor ergotherapie;<br>
@@ -404,17 +405,30 @@ Bijlage 3. Bijlage tot bepaling van de lijst met opleidingen die voldoen aan de 
 6° Bachelor sociale readaptatiewetenschappen;<br>
 7° Bachelor gezinswetenschappen;<br>
 8° Bachelor toegepaste psychologie;<br>
-9° Master pedagogische Wetenschappen;<br>
-10° Bachelor lerarenopleiding;<br>
-11° Bachelor-na-bachelor sociale gezondheidszorg;<br>
-12° HBO - Begeleider sociale economie;<br>
-13° HBO - Agogische bijscholing orthopedagogie;<br>
-14° HBO - Orthopedagogie;<br>
-15° HBO - Maatschappelijk werk;<br>
-16° HBO - Sociaal - cultureel werk;<br>
-17° HBO - Specifieke lerarenopleiding;<br>
-18° Basisopleiding voor monitoren/begeleiders in maatwerkbedrijven<br>
-19° Basiscursus begeleider op de werkvloer (SST).
+9° Bachelor logopedie<br>
+10° Master pedagogische Wetenschappen;<br>
+11° Master psychologie<br>
+12° Bachelor lerarenopleiding;<br>
+13° Bachelor-na-bachelor sociale gezondheidszorg;<br>
+14° HBO - Begeleider sociale economie;<br>
+15° HBO - Agogische bijscholing orthopedagogie;<br>
+16° HBO - Orthopedagogie;<br>
+17° HBO - Maatschappelijk werk;<br>
+18° HBO - Sociaal - cultureel werk;<br>
+19° HBO - Specifieke lerarenopleiding;<br>
+20° Graduaatsopleiding - Orthopedagogie; &nbsp;<br>
+21° Graduaatsopleiding - Maatschappelijk werk; &nbsp;<br>
+22° Graduaatsopleiding - Sociaal - cultureel werk; &nbsp;<br>
+23° Bachelor in het milieu- en preventiemanagement;<br>
+24° Certified disability management professional – RIZIV;&nbsp;<br>
+25° Postgraduaat Supported employment;&nbsp;<br>
+26° Creditbewijs bijscholing supported employment;&nbsp;<br>
+27° Basiscursus LDE (VONST)&nbsp;<br>
+28° Basiscursus begeleider op de werkvloer (VONST);&nbsp;<br>
+29° Basiscursus voor monitoren/begeleiders (Groep Maatwerk);&nbsp;<br>
+30° Begeleider Sociale Economie (CVO);&nbsp;<br>
+31° Basisopleiding begeleider individueel maatwerk (Groep Maatwerk);&nbsp;<br>
+32° Basisopleiding maatwerkcoaches (Groep Maatwerk).
 
 ### Bijlage 4
 
