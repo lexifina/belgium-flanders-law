@@ -23,11 +23,15 @@ b)&nbsp;&nbsp; &nbsp;dezelfde persoon de ontwikkelaar, eigenaar of uitbater van 
 
 ### ART 3.
 
-<span style="color: rgb(0, 0, 0);">Voor de toepassing van dit decreet worden volgende categorieën als categorieën van kleinhandelsactiviteiten beschouwd :</span><br>
-<span style="color: rgb(0, 0, 0);">1° verkoop van voeding;</span><br>
-<span style="color: rgb(0, 0, 0);">2° verkoop van goederen voor persoonsuitrusting;</span><br>
-<span style="color: rgb(0, 0, 0);">3° verkoop van planten, bloemen en goederen voor land- en tuinbouw;</span><br>
-<span style="color: rgb(0, 0, 0);">4° verkoop van andere producten.</span><br>
+Voor de toepassing van dit decreet worden volgende categorieën als categorieën van kleinhandelsactiviteiten beschouwd :<br>
+1° verkoop van voeding;<br>
+2° verkoop van goederen voor persoonsuitrusting;<br>
+3° verkoop van planten, bloemen en goederen voor land- en tuinbouw;<br>
+4° verkoop van vervoers- en transportmiddelen;<br>
+5° verkoop van volumineuze goederen die niet vallen onder de categorieën, vermeld in punt 1° tot en met 4°;<br>
+6° verkoop van niet-volumineuze goederen die niet vallen onder de categorieën, vermeld in punt 1° tot en met 4°.<br>
+<br>
+In het eerste lid wordt verstaan onder volumineuze goederen: goederen waarvan de som van de hoogte, de breedte en de diepte minimaal 2,5 meter of meer bedraagt.<br>
 &nbsp;
 
 ### ART 4.
@@ -113,23 +117,24 @@ De Vlaamse Regering bepaalt de nadere regelen omtrent de samenstelling en de wer
 
 ### ART 11.
 
-<span style="color: rgb(0, 0, 0);">Niemand mag zonder voorafgaande omgevingsvergunning voor kleinhandelsactiviteiten :</span><br>
-<span style="color: rgb(0, 0, 0);">1° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een nieuw op te richten, niet van vergunning vrijgestelde constructie;</span><br>
-<span style="color: rgb(0, 0, 0);">2° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies als de handelsactiviteiten uitgevoerd worden :</span><br>
-<span style="color: rgb(0, 0, 0);">a) gedurende meer dan honderdtachtig dagen per jaar in geval de handelsactiviteiten verenigbaar zijn met de geldende stedenbouwkundige voorschriften;</span><br>
-<span style="color: rgb(0, 0, 0);">b) gedurende meer dan negentig dagen per jaar in alle andere gevallen;</span><br>
-<span style="color: rgb(0, 0, 0);">op voorwaarde dat de kleinhandelsactiviteiten in overeenstemming zijn met de uitdrukkelijke voorwaarden van een omgevingsvergunning voor stedenbouwkundige handelingen;</span><br>
-<span style="color: rgb(0, 0, 0);">3° een kleinhandelsbedrijf of een handelsgeheel uitbreiden als hierdoor de totale netto handelsoppervlakte :</span><br>
-<span style="color: rgb(0, 0, 0);">a) meer dan 300 m|F2 groter is dan de vergunde netto handelsoppervlakte, of;</span><br>
-<span style="color: rgb(0, 0, 0);">b) meer dan 20 percent groter is dan de vergunde netto handelsoppervlakte;</span><br>
-<span style="color: rgb(0, 0, 0);">4° kleinhandelsbedrijven of handelsgehelen samenvoegen waarbij de netto handelsoppervlakte na samenvoeging meer dan 400 m|F2 bedraagt;</span><br>
-<span style="color: rgb(0, 0, 0);">5° een belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in artikel 3, doorvoeren in een kleinhandelsbedrijf of een handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2.</span><br>
+Niemand mag zonder voorafgaande omgevingsvergunning voor kleinhandelsactiviteiten :<br>
+1° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een nieuw op te richten, niet van vergunning vrijgestelde constructie;<br>
+2° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies als de handelsactiviteiten uitgevoerd worden :<br>
+a) gedurende meer dan honderdtachtig dagen per jaar in geval de handelsactiviteiten verenigbaar zijn met de geldende stedenbouwkundige voorschriften;<br>
+b) gedurende meer dan negentig dagen per jaar in alle andere gevallen;<br>
+op voorwaarde dat de kleinhandelsactiviteiten in overeenstemming zijn met de uitdrukkelijke voorwaarden van een omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+3° een kleinhandelsbedrijf of een handelsgeheel uitbreiden als hierdoor de totale netto handelsoppervlakte :<br>
+a) meer dan 300 m|F2 groter is dan de vergunde netto handelsoppervlakte, of;<br>
+b) meer dan 20 percent groter is dan de vergunde netto handelsoppervlakte;<br>
+4° kleinhandelsbedrijven of handelsgehelen samenvoegen waarbij de netto handelsoppervlakte na samenvoeging meer dan 400 m|F2 bedraagt;<br>
+5° een belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in artikel 3, doorvoeren in een kleinhandelsbedrijf of een handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2;<br>
+6° een kleinhandelsbedrijf van meer dan 400 vierkante meter, ongeacht of het zich in een handelsgeheel bevindt of niet, opsplitsen.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">Onder belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in het eerste lid, 5°, wordt begrepen een wijziging waarbij een categorie van kleinhandelsactiviteiten het vergunde aantal vierkante meter netto handels|Upoppervlakte overschrijdt met minstens een van volgende oppervlakten :</span><br>
-<span style="color: rgb(0, 0, 0);">1° met 10 procent van de totale vergunde netto handelsoppervlakte;</span><br>
-<span style="color: rgb(0, 0, 0);">2° met 300 vierkante meter.</span><br>
+Onder belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in het eerste lid, 5°, wordt begrepen een wijziging waarbij een categorie van kleinhandelsactiviteiten het vergunde aantal vierkante meter netto handels|Upoppervlakte overschrijdt met minstens een van volgende oppervlakten :<br>
+1° met 10 procent van de totale vergunde netto handelsoppervlakte;<br>
+2° met 300 vierkante meter.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De vergunning legt het aantal vierkante meter van de totale netto handelsoppervlakte per categorie van kleinhandelsactiviteiten vast.</span><br>
+De vergunning legt het aantal vierkante meter van de totale netto handelsoppervlakte per categorie van kleinhandelsactiviteiten vast.<br>
 &nbsp;
 
 ### ART 12.
