@@ -535,18 +535,18 @@ De exploitant van het openbaar personenvervoer over water formuleert een voorste
 
 ### ART 33.
 
-De Vlaamse Regering richt een mobiliteitscentrale op.<br>
+De Mobiliteitscentrale is een orgaan dat de volgende opdrachten heeft:<br>
+1° informatie over openbaarvervoerdiensten verzamelen en beschikbaar maken;<br>
+2° vervoersvragen en mobiliteitsmogelijkheden van de gebruiker analyseren en in voorkomend geval die gebruiker doorverwijzen;<br>
+3° vervoersaanvragen voor ritten verzamelen, efficiënt plannen en vervolgens uitzetten bij een of meer vervoerders of vervoersdiensten, of via collectief beschikbaar gestelde verplaatsingsmiddelen;<br>
+4° ritprijzen factureren;<br>
+5° klachten van gebruikers behandelen.<br>
 <br>
-De Mobiliteitscentrale is een orgaan dat:<br>
-1° informatie verzamelt en verschaft over alle openbaarvervoerdiensten;<br>
-2° vervoersvragen en mobiliteitsmogelijkheden van de gebruiker analyseert en desgevallend doorverwijst;<br>
-3° vervoersaanvragen voor ritten verzamelt, efficiënt plant en vervolgens uitzet bij één of meerdere vervoerders of vervoersdiensten of via collectieve beschikbaar gestelde verplaatsingsmiddelen;<br>
-4° ritprijzen factureert;<br>
-5° klachten van gebruikers behandelt.<br>
-<br>
-De Vlaamse Regering kan de nadere taken en de werking van de Mobiliteitscentrale bepalen.<br>
+De Vlaamse Regering kan de taken en de werking van de Mobiliteitscentrale nader bepalen.<br>
 <br>
 De Vlaamse Regering kan de regels vastleggen om de continuïteit van de werking van de Mobiliteitscentrale te waarborgen.<br>
+<br>
+De VVM De Lijn stelt de Mobiliteitscentrale aan, en is belast met de aansturing van de Mobiliteitscentrale en met het contractbeheer.<br>
 <br>
 Bij de uitoefening van haar taken verwerkt de Mobiliteitscentrale persoonsgegevens overeenkomstig de bepalingen, vermeld in artikel 37, § 3.
 
@@ -572,7 +572,14 @@ De Vlaamse Regering wijst voor de exploitatie van het openbaar personenvervoer o
 
 Het vervoer op maat wordt geoperationaliseerd en gecoördineerd door de Mobiliteitscentrale.<br>
 <br>
-De Vlaamse Regering kan de regels bepalen over de aanstelling van de exploitanten voor het vervoer op maat.
+De Vlaamse Regering kan de regels bepalen over de aanstelling van de exploitanten voor het vervoer op maat.<br>
+<br>
+De VVM De Lijn ondersteunt de operationalisering van het vervoer op maat door de Mobiliteitscentrale, met uitzondering van:<br>
+1°&nbsp;&nbsp; &nbsp;het openbaar personenvervoer over water, vermeld in artikel 32/1;<br>
+2°&nbsp;&nbsp; &nbsp;de deelsystemen.<br>
+<br>
+In het derde lid, 2°, wordt verstaan onder deelsystemen: vervoersoplossingen voor het vervoer van personen, zoals deelauto’s, deelfietsen en deelsteps, die in de publieke ruimte worden aangeboden voor gemeenschappelijk gebruik.<br>
+&nbsp;
 
 ## Afdeling 3. Tariefbeleid
 
@@ -752,7 +759,7 @@ De Vlaamse Regering kan regels bepalen over de flankerende maatregelen, vermeld 
 <br>
 De Vlaamse Regering kan regels bepalen inzake streefwaarde gerelateerd aan de doorstroming van het openbaar vervoer.<br>
 <br>
-§ 2. De wegbeheerders garanderen de vlotte doorstroming voor het kernnet en aanvullend net, brengen daarvoor de nodige infrastructuur aan en onderhouden die.<br>
+§ 2. De wegbeheerders garanderen de vlotte doorstroming voor het kernnet en aanvullend net&nbsp;en brengen daarvoor, in overleg met de exploitant, de nodige infrastructuur aan en onderhouden die.<br>
 <br>
 De waterwegbeheerders zorgen voor een vlotte doorstroming voor het openbaar personenvervoer over water, brengen daarvoor de nodige infrastructuur aan en onderhouden die.
 
