@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039450,
+  "title": "Decreet van 2024-02-23 tot wijziging van het decreet van 31 juli 1990 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij – De Lijn en het decreet van 26 april 2019 betreffende de basisbereikbaarheid en tot intrekking van het decreet van 25 februari 2022 betreffende de Vervoersautoriteit",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039450/VolledigDocument?datum=2024-03-15",
+  "source_sha256": "55c9a43e4cd48a0357586317636abeed76c307b8828474c32ea8c6951aa42c83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039450&param=informatie",
+  "as_of": "2024-03-15",
+  "made": "2024-02-23",
+  "gazette": "2024-03-05",
+  "numac": 2024001970,
+  "document_start": "2024-03-15",
+  "document_end": null,
+  "in_force": "2024-03-15",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2024-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
