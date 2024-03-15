@@ -78,15 +78,15 @@ De subsidie voor de investeringen, vermeld in artikel 9, kan worden   aangevraag
 
 Bij de subsidieaanvraag moet een advies van de Centrale Vrijzinnige Raad   worden gevoegd en een advies van de deputatie van het betrokken   provinciebestuur. Uit die adviezen moet blijken dat het gebouw waarvoor de   subsidie wordt aangevraagd, een gebouw voor de openbare uitoefening van de   niet-confessionele morele dienstverlening blijft, zowel voor de Centrale   Vrijzinnig Raad als voor de provincieraad, in de langetermijnvisie op de   gebouwen voor de openbare uitoefening van de niet-confessionele morele   dienstverlening in die provincie, en moet blijken dat de investeringen waarvoor   de subsidie wordt aangevraagd passen in die langetermijnvisie.<BR>
 
-## HOOFDSTUK 4 Subsidiëring voor crematoria
+## HOOFDSTUK 4 ...
 
 ### ART. 13.
 
-<P>De subsidie kan voor crematoria worden toegekend voor : <BR>1° de nieuwbouw   of verbouwing met het oog op het oprichten van een nieuw crematorium;<BR>2° een   uitbreiding van de bestaande installaties.<BR></P>  <P>De volgende projectonderdelen kunnen in aanmerking komen voor de subsidie :   <BR>1° de oveninstallatie;<BR>2° de nieuwbouw met volledige afwerking met   inbegrip van de administratieve lokalen en ceremonieruimten, maar met   uitsluiting van het eventuele horecagedeelte;<BR>3° de omgevingsaanleg met   inbegrip van de noodzakelijke toegangswegen en de parking.<BR></P>  <P>De Vlaamse Regering kan prioriteiten bepalen voor de toekenning van de   subsidie.<BR></P>
+<p>...</p>
 
 ### ART. 14.
 
-De subsidie voor de investeringen, vermeld in artikel 13, kan worden   aangevraagd door de gemeente of het intergemeentelijk samenwerkingsverband dat   het crematorium opricht, of heeft opgericht, en beheert.<BR>
+...
 
 ## HOOFDSTUK 5 Slotbepalingen
 
