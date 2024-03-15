@@ -4367,7 +4367,8 @@ De zetel van het samenwerkingsverband met rechtspersoonlijkheid is altijd gevest
 <br>
 § 2. Privaatrechtelijke rechtspersonen kunnen in de volgende gevallen deelnemen aan een samenwerkingsverband als vermeld in paragraaf 1:<br>
 1° het betreft een samenwerkingsverband met als enige doelstelling het realiseren van de opdrachten, vermeld in artikel 4.1.1 van het Energiedecreet van 8 mei 2009 en de deelnemende privaatrechtelijke rechtspersoon is niet actief als energieleverancier of energieproducent als vermeld in artikel 1.1.3, 78° en 102°, van het voormelde decreet;<br>
-2° het betreft een samenwerkingsverband met als enige doelstelling het realiseren van de opdrachten, vermeld in artikel 26, eerste lid, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringen en afvalstoffen.<br>
+2° het betreft een samenwerkingsverband met als enige doelstelling het realiseren van de opdrachten, vermeld in artikel 26, eerste lid, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringen en afvalstoffen;<br>
+3° het betreft een samenwerkingsverband met als enige doelstelling het oprichten en het beheren van een crematorium, vermeld in artikel 2, tweede lid, van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging.<br>
 <br>
 §3. Het samenwerkingsverband sluit een bestuurdersaansprakelijkheidsverzekering af.
 
