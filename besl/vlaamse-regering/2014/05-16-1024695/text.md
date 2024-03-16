@@ -1540,7 +1540,9 @@ Het agentschap stelt een databank van adviezen en beslissingen over aanvragen to
 
 ### ART. 6.6.1.
 
-De minister stelt de modellen van het herkenningsteken voor beschermde   archeologische sites, beschermde monumenten, beschermde cultuurhistorische   landschappen en beschermde stads- en dorpsgezichten vast.<BR>
+De minister stelt de modellen van het herkenningsteken voor beschermde archeologische sites, beschermde monumenten, beschermde cultuurhistorische landschappen en beschermde stads- en dorpsgezichten vast.<br>
+<br>
+De minister bepaalt de modaliteiten voor het verplicht aanbrengen van het herkenningsteken.
 
 ## Afdeling 7 Erfgoedlandschappen
 
@@ -1922,7 +1924,7 @@ Het agentschap kan de erkenning als open erfgoed intrekken op basis van een gemo
 
 ### ART. 9.1.1.
 
-De minister kent jaarlijks de Onroerenderfgoedprijs toe aan een privé-persoon, een privé-instelling, een openbare instelling of een openbaar bestuur voor een recente verwezenlijking op het gebied van&nbsp;beschermd onroerend erfgoed of erfgoedlandschappen.
+De minister kan een Onroerenderfgoedprijs toekennen aan een privépersoon, een privé-instelling, een openbare instelling of een openbaar bestuur voor een recente verwezenlijking op het gebied van beschermd onroerend erfgoed of erfgoedlandschappen.
 
 ### ART. 9.1.2.
 
@@ -1930,11 +1932,15 @@ De Onroerenderfgoedprijs wordt toegekend wegens het uitzonderlijk belang,   de v
 
 ### ART. 9.1.3.
 
-<P>De minister wijst jaarlijks de laureaten aan van de Onroerenderfgoedprijs. De   minister bepaalt in het wedstrijdreglement het aantal laureaten.<BR></P>  <P>De minister kent aan elke laureaat een bedrag toe van 2.500   euro.<BR></P>
+<p>De minister wijst de laureaten aan van de Onroerenderfgoedprijs. De minister bepaalt in het wedstrijdreglement het aantal laureaten.</p>
+
+<p>De minister kent aan elke laureaat een bedrag toe van 2.500 euro.</p>
 
 ### ART. 9.1.4.
 
-<P>De minister wijst jaarlijks onder de laureaten een of meerdere winnaars aan   van de Onroerenderfgoedprijs. De minister bepaalt in het wedstrijdreglement het   aantal winnaars.<BR></P>  <P>De minister kent aan de winnaar, bovenop het bedrag vermeld in artikel 9.1.3,   tweede lid, een bedrag toe van 12.500 euro.<BR></P>
+<p>De minister wijst onder de laureaten een of meerdere winnaars aan van de Onroerenderfgoedprijs. De minister bepaalt in het wedstrijdreglement het aantal winnaars.</p>
+
+<p>De minister kent aan de winnaar, bovenop het bedrag vermeld in artikel 9.1.3, tweede lid, een bedrag toe van 12.500 euro.</p>
 
 ### ART. 9.1.5.
 
