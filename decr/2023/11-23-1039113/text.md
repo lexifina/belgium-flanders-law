@@ -40,6 +40,12 @@ In artikel 9 van hetzelfde decreet, gewijzigd bij het decreet van 9 december 201
 “De eerste voorzitter stelt de organisatiestructuur van de dienst van de Bestuursrechtscolleges vast en bepaalt de functies die binnen de dienst van de Bestuursrechtscolleges worden opgenomen.”;<br>
 2° in het derde lid worden de woorden “de beheerder” vervangen door de woorden “personeelsleden van de dienst van de Bestuursrechtscolleges”.
 
+### ART 6.
+
+Aan artikel 12 van hetzelfde decreet, gewijzigd bij de decreten van 24 februari 2017 en 17 maart 2023, wordt tussen het zevende en het achtste lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering bepaalt de ambtskledij die de leden van de bestuursrechtscolleges en van de griffie bij het uitoefenen van hun ambt en op openbare plechtigheden dragen.”.
+
 ### ART 7.
 
 Artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 17 maart 2023, wordt vervangen door wat volgt:<br>
