@@ -28,7 +28,9 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-<P>De zetel van het College is gevestigd in het Ellipsgebouw, Koning Albert   II-laan 35, 1030 Brussel.<BR></P>  <P>Het College kan zijn zittingen evenwel organiseren in de   provinciehoofdsteden, onder de voorwaarden, vermeld in zijn huishoudelijk   reglement.<BR></P>
+<p>De zetel van het College is gevestigd in het Marie-Elisabeth Belpairegebouw, Simon Bolivarlaan 17, 1000 Brussel.</p>
+
+<p>Het College kan zijn zittingen evenwel organiseren in de provinciehoofdsteden, onder de voorwaarden, vermeld in zijn huishoudelijk reglement.</p>
 
 ## HOOFDSTUK 2 Rechtspleging
 
