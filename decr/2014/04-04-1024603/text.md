@@ -132,7 +132,7 @@ De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de opmaak, 
 
 <p>De Vlaamse bestuursrechtscolleges worden ingedeeld in kamers.<br>
 <br>
-Het rechtscollege, zoals bedoeld in artikel 2, § 1, b), heeft een kamer die uitsluitend bevoegd is voor beroepen tegen definitieve onteigeningsbesluiten.<br>
+Het rechtscollege, zoals bedoeld in artikel 2, § 1, b), heeft een kamer die uitsluitend bevoegd is voor beroepen tegen definitieve onteigeningsbesluiten.&nbsp;<br>
 <br>
 Een enkelvoudige kamer houdt zitting met één bestuursrechter. Meervoudige kamers houden zitting met drie bestuursrechters.<br>
 <br>
@@ -143,6 +143,8 @@ De kamervoorzitter neemt de leiding van de kamer en is belast met de organisatie
 De kamervoorzitter bewaakt de eenheid van rechtspraak of rechtsvorming in zijn kamer.<br>
 <br>
 De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij afwijken van de regels die zijn vastgesteld in het huishoudelijk reglement.<br>
+<br>
+De Vlaamse Regering bepaalt de ambtskledij die de leden van de bestuursrechtscolleges en van de griffie bij het uitoefenen van hun ambt en op openbare plechtigheden dragen.<br>
 <br>
 In afwijking van het derde lid stelt de eerste voorzitter alle kamers van het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), samen uit één kamervoorzitter en twee bijzitters.<br>
 <br>
