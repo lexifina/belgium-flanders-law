@@ -131,7 +131,7 @@ c) individuele ondersteuningsfuncties:<br>
 
 Het budget kan niet besteed worden aan:<br>
 1° de aankoop van hulpmiddelen of voor het financieren van aanpassingen;<br>
-2° het financieren van medische en paramedische behandelingen, onderzoeken of therapieën die tot de bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren en waarvoor in de nomenclatuur van de geneeskundige verstrekkingen een vergoeding is voorzien;<br>
+2° medische en paramedische behandelingen, onderzoeken of therapieën die tot de bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren, ongeacht of ze daadwerkelijk worden terugbetaald;<br>
 3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon onderwijs of het geïntegreerd onderwijs aanbieden;<br>
 4° de kosten voor zorg en ondersteuning die al door het agentschap, door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd.<br>
 <br>
@@ -158,7 +158,7 @@ c) een overeenkomst met een onderneming die door het bevoegde gewest is erkend a
 d) een gebruikersovereenkomst met een organisator als vermeld in artikel 3, 4°, van het Wijk-werkendecreet van 7 juli 2017, om wijk-werkcheques te gebruiken;<br>
 e) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het vervoer van de persoon met een handicap;<br>
 f) een overeenkomst met een organisatie die vrijwilligers ter beschikking stelt;<br>
-g) een overeenkomst over hoogdrempelige individuele bijstand met een bijstandsorganisatie;<br>
+g) een overeenkomst over meer hoogdrempelige individuele bijstand met een bijstandsorganisatie;<br>
 h) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het verlenen van individuele ondersteuningsfuncties als vermeld in artikel 4, 1°, c);<br>
 i) een overeenkomst met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 j) een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning;<br>
@@ -198,18 +198,18 @@ Als het agentschap voor het eerst een budget ter beschikking stelt en er geen pe
 
 ### ART 10.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De budgethouder kan met het oog op het starten met het besteden van het budget een deel van zijn budget als cashbudget of voucher gebruiken voor meer hoogdrempelige individuele bijstand die verleend wordt door een bijstandsorganisatie. Het deel van het budget dat hij daarvoor kan gebruiken bedraagt maximaal de kostprijs in euro's of zorggebonden punten voor vier sessies.</span><br>
+§ 1. De budgethouder kan met het oog op het starten met het besteden van het budget een deel van zijn budget als cashbudget of voucher gebruiken voor meer hoogdrempelige individuele bijstand die verleend wordt door een bijstandsorganisatie. Het deel van het budget dat hij daarvoor kan gebruiken bedraagt maximaal de kostprijs in euro's of zorggebonden punten voor vier sessies.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder en de bijstandsorganisatie sluiten daarover een overeenkomst die de volgende elementen bevat:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de aard van de hoogdrempelige individuele bijstand;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het aantal sessies met een maximum aantal van vier;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de kostprijs per sessie in euro's of in zorggebonden punten.</span><br>
+De budgethouder en de bijstandsorganisatie sluiten daarover een overeenkomst die de volgende elementen bevat:<br>
+1° de aard van de meer hoogdrempelige individuele bijstand;<br>
+2° het aantal sessies met een maximum aantal van vier;<br>
+3° de kostprijs per sessie in euro's of in zorggebonden punten.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als de budgethouder het budget gebruikt als cashbudget deelt hij de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap. De bijstandsorganisatie deelt aan het agentschap mee akkoord te gaan met de gegevens die de budgethouder heeft meegedeeld. Het agentschap stort het bedrag in euro's op de rekening van de budgethouder. Dat bedrag komt overeen met de kostprijs van het aantal sessies dat in de overeenkomst vermeld wordt met een maximum aantal van vier sessies. Het bedrag in euro wordt in mindering gebracht van het budget van de budgethouder.</span><br>
+§ 2. Als de budgethouder het budget gebruikt als cashbudget deelt hij de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap. De bijstandsorganisatie deelt aan het agentschap mee akkoord te gaan met de gegevens die de budgethouder heeft meegedeeld. Het agentschap stort het bedrag in euro's op de rekening van de budgethouder. Dat bedrag komt overeen met de kostprijs van het aantal sessies dat in de overeenkomst vermeld wordt met een maximum aantal van vier sessies. Het bedrag in euro wordt in mindering gebracht van het budget van de budgethouder.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Bij gebruik als voucher deelt de bijstandsorganisatie de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap en deelt de budgethouder mee in te stemmen met die gegevens. De bijstandsorganisatie deelt aan het agentschap het aantal sessies mee die effectief plaats hebben gevonden. Het agentschap betaalt de vergoeding voor die sessies in euro's aan de bijstandsorganisatie. Het bedrag, uitgedrukt in zorgpunten, wordt in mindering gebracht van het budget van de budgethouder.</span><br>
+§ 3. Bij gebruik als voucher deelt de bijstandsorganisatie de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap en deelt de budgethouder mee in te stemmen met die gegevens. De bijstandsorganisatie deelt aan het agentschap het aantal sessies mee die effectief plaats hebben gevonden. Het agentschap betaalt de vergoeding voor die sessies in euro's aan de bijstandsorganisatie. Het bedrag, uitgedrukt in zorgpunten, wordt in mindering gebracht van het budget van de budgethouder.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De zorggebonden punten worden naar euro's omgerekend aan de hand van de omslagsleutel, vermeld in artikel 2, derde lid.</span><br>
+De zorggebonden punten worden naar euro's omgerekend aan de hand van de omslagsleutel, vermeld in artikel 2, derde lid.<br>
 &nbsp;
 
 ### ART 11.
@@ -258,20 +258,20 @@ De vergunde zorgaanbieder registreert de beëindiging van de voucher in de webap
 
 ### ART 15.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">§ 1. Als budgethouders na het opstarten van de besteding van hun budget, een deel van hun budget willen gebruiken als een voucher bij een bijstandsorganisatie, deelt de bijstandsorganisatie de volgende gegevens over de overeenkomst over het verlenen van hoogdrempelige individuele bijstand die is afgesloten met de budgethouder, mee aan het agentschap :<br>
+§ 1. Als budgethouders na het opstarten van de besteding van hun budget, een deel van hun budget willen gebruiken als een voucher bij een bijstandsorganisatie, deelt de bijstandsorganisatie de volgende gegevens over de overeenkomst over het verlenen vanmeer&nbsp; hoogdrempelige individuele bijstand die is afgesloten met de budgethouder, mee aan het agentschap :<br>
 1° de identificatiegegevens van de budgethouder;<br>
 2° de identificatiegegevens van de bijstandsorganisatie;<br>
 3° de duur van de overeenkomst;<br>
 4° de kostprijs per uur;<br>
-5° het bedrag in euro dat op jaarbasis nodig is om de overeenkomst uit te voeren.</span><br>
+5° het bedrag in euro dat op jaarbasis nodig is om de overeenkomst uit te voeren.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">Het agentschap kijkt na of het bedrag in euro, vermeld in de overeenkomst, niet groter is dan het resterend gedeelte van het jaarlijks budget na aftrek van het deel dat de budgethouder op jaarbasis reeds al heeft vastgelegd in de vorm van een voucher of dat al werd besteed als cashbudget.</span><br>
+Het agentschap kijkt na of het bedrag in euro, vermeld in de overeenkomst, niet groter is dan het resterend gedeelte van het jaarlijks budget na aftrek van het deel dat de budgethouder op jaarbasis reeds al heeft vastgelegd in de vorm van een voucher of dat al werd besteed als cashbudget.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">Als het saldo van het budget voldoende groot is, aanvaardt het agentschap de overeenkomst en wordthet bedrag in euro vastgelegd als voucher.</span><br>
+Als het saldo van het budget voldoende groot is, aanvaardt het agentschap de overeenkomst en wordthet bedrag in euro vastgelegd als voucher.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">Als het saldo van het budget niet groot genoeg is, aanvaardt het agentschap de overeenkomst niet. Het agentschap brengt de budgethouder en de bijstandsorganisatie daarvan op de hoogte.</span><br>
+Als het saldo van het budget niet groot genoeg is, aanvaardt het agentschap de overeenkomst niet. Het agentschap brengt de budgethouder en de bijstandsorganisatie daarvan op de hoogte.<br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">§ 2. Het agentschap vergoedt de bijstandsorganisatie voor de meer hoogdrempelige individuele bijstand die wordt geleverd op basis van een voucher. De bijstandsorganisatie deelt aan het agentschap het bedrag in euro mee waarvoor hoogdrempelige individuele bijstand aan budgethouders is verleend en vermeldt de naam van de budgethouders.</span><br>
+§ 2. Het agentschap vergoedt de bijstandsorganisatie voor de meer hoogdrempelige individuele bijstand die wordt geleverd op basis van een voucher. De bijstandsorganisatie deelt aan het agentschap het bedrag in euro mee waarvoor meer hoogdrempelige individuele bijstand aan budgethouders is verleend en vermeldt de naam van de budgethouders.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Het gebruik van een budget als cashbudget
@@ -300,6 +300,8 @@ De vergunde zorgaanbieder registreert de beëindiging van de voucher in de webap
 4° de vormen van ondersteuning, vermeld in artikel 4, 1°, die worden geboden, en de frequentie ervan;<br>
 5° de kostprijs per prestatie-eenheid;<br>
 6° een beschrijving van de ondersteuning die wordt geboden.<br>
+<br>
+De budgethouder deelt de gegevens, vermeld in het eerste lid, aan het agentschap mee binnen vier maanden vanaf de datum waarop de overeenkomst, vermeld in artikel 7, is gesloten. Als de budgethouder overmacht aantoont, kan het agentschap de voormelde termijn één keer verlengen met vier maanden.<br>
 <br>
 Als een overeenkomst wordt gesloten als vermeld in artikel 7, eerste lid, 5°, bezorgt de budgethouder een attest van de bevoegde buitenlandse overheid aan het agentschap waaruit blijkt dat de zorgaanbieder erkend, vergund of gemachtigd is om ondersteuning te bieden aan personen met een handicap.&nbsp;Als het attest niet in het Nederlands is opgesteld, laat de budgethouder het attest naar het Nederlands vertalen door een beëdigd vertaler.<br>
 <br>
@@ -426,23 +428,25 @@ De volgende kosten worden in het kader van de verantwoording van de besteding va
 
 ### ART 26.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Als de budgethouder niet langer gebruik wil maken van het budget als cashbudget deelt hij dat mee aan het agentschap.</span><br>
+§ 1. Als de budgethouder niet langer gebruik wil maken van het budget als cashbudget deelt hij dat mee aan het agentschap.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als hij al kosten heeft gemaakt met uitzondering van de kosten van de hoogdrempelige individuele bijstand, vermeld in artikel 10, deelt hij ook mee vanaf welke datum hij geen gebruik meer wil maken van het budget.</span><br>
+Als hij al kosten heeft gemaakt met uitzondering van de kosten van de meer hoogdrempelige individuele bijstand, vermeld in artikel 10, deelt hij ook mee vanaf welke datum hij geen gebruik meer wil maken van het budget.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder maakt een laatste kostenstaat als vermeld in artikel 22 op met vermelding van alle kosten voor zorg en ondersteuning tot op de datum, vermeld in het tweede lid, met inbegrip van de wettelijk verplichte opzegvergoedingen die hij nog niet heeft meegedeeld aan het agentschap. Na ontvangst van de laatste kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.</span><br>
+De budgethouder maakt een laatste kostenstaat als vermeld in artikel 22 op met vermelding van alle kosten voor zorg en ondersteuning tot op de datum, vermeld in het tweede lid, met inbegrip van de wettelijk verplichte opzegvergoedingen die hij nog niet heeft meegedeeld aan het agentschap. Na ontvangst van de laatste kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de budgethouder heeft ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het budget dat op jaarbasis als voucher werd vastgelegd en het gedeelte dat al werd besteed als cashbudget.</span><br>
+Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de budgethouder heeft ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het budget dat op jaarbasis als voucher werd vastgelegd en het gedeelte dat al werd besteed als cashbudget.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder stopt met het gebruik van zijn budget als een cashbudget dan betaalt hij het terugvorderbare voorschot, vermeld in artikel 16, terug aan het agentschap.</span><br>
+Als de budgethouder stopt met het gebruik van zijn budget als een cashbudget dan betaalt hij het terugvorderbare voorschot, vermeld in artikel 16, terug aan het agentschap.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als de persoon met een handicap overlijdt kunnen de erfgenamen een kostenstaat bezorgen aan het agentschap met vermelding van alle kosten voor zorg en ondersteuning tot op de datum van het overlijden van de persoon met een handicap die nog niet werden meegedeeld aan het agentschap met inbegrip van verbrekingsvergoedingen, kosten die verband houden met het afsluiten van het administratief dossier en de kosten van hoogdrempelige individuele bijstand in het kader van het afsluiten van het dossier.</span><br>
+§ 2.&nbsp;In deze paragraaf wordt verstaan onder verbrekingsvergoedingen: de vergoeding voor de verbreking van de overeenkomst voor een periode van maximaal drie maanden en het vertrekvakantiegeld.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Na ontvangst van de kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.</span><br>
+Als de persoon met een handicap overlijdt kunnen de erfgenamen een kostenstaat bezorgen aan het agentschap met vermelding van alle kosten voor zorg en ondersteuning tot op de datum van het overlijden van de persoon met een handicap die nog niet werden meegedeeld aan het agentschap met inbegrip van verbrekingsvergoedingen, kosten die verband houden met het afsluiten van het administratief dossier en de kosten van meer hoogdrempelige individuele bijstand in het kader van het afsluiten van het dossier.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de erfgenamen hebben ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het als voucher vastgelegde budget dat nodig is om de zorg en ondersteuning te vergoeden die de zorgaanbieder die het agentschap heeft vergund of de bijstandsorganisatie verleend heeft tot op de datum waarop de persoon met een handicap is overleden.</span><br>
+Na ontvangst van de kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Bij overlijden van de persoon met een handicap, kan maximaal een vierde van het bedrag dat de budgethouder wou gebruiken als een cashbudget, vermeld in artikel 16, eerste lid, worden besteed aan verbrekingsvergoedingen. Als aan de hand van kostenstaten aangetoond wordt dat dat bedrag niet volstaat, kan het agentschap maximaal een vierde van het bedrag dat de budgethouder wou gebruiken als een cashbudget extra toekennen om de verbrekingsvergoedingen te betalen.</span><br>
+Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de erfgenamen hebben ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het als voucher vastgelegde budget dat nodig is om de zorg en ondersteuning te vergoeden die de zorgaanbieder die het agentschap heeft vergund of de bijstandsorganisatie verleend heeft tot op de datum waarop de persoon met een handicap is overleden.<br>
+<br>
+Als de persoon met een handicap overlijdt, kan maximaal een vierde van het cashbudget, vermeld in artikel 16, eerste lid, dat de budgethouder op het moment van overlijden besteedt, worden besteed aan verbrekingsvergoedingen. Als aan de hand van kostenstaten aangetoond wordt dat het beschikbare cashbudget, vermeld in artikel 16, eerste lid, niet volstaat, kan het agentschap alsnog maximaal een vierde van het cashbudget dat de budgethouder op het moment van overlijden besteedt, toekennen om de verbrekingsvergoedingen te betalen.<br>
 &nbsp;
 
 ### ART 26/1.
@@ -475,15 +479,15 @@ Bij een eerste vaststelling van een niet-conforme besteding als vermeld in artik
 
 ### ART 27/3.
 
-§ 1. Na twee verschillende vaststellingen van niet-conforme besteding als vermeld in artikel 27/1, binnen een periode van drie maanden kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder is dan verplicht om zich voor het beheer van zijn budget te laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de betrokken persoon met een handicap.<br>
+§ 1. Na twee verschillende vaststellingen van niet-conforme besteding als vermeld in artikel 27/1, binnen een periode van drie maanden kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder is dan verplicht om zich voor het beheer van zijn budget te laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies meer hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de betrokken persoon met een handicap.<br>
 <br>
-De budgethouder deelt de overeenkomst, vermeld in het eerste lid, mee aan het agentschap. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het eerste lid.<br>
+De budgethouder deelt de overeenkomst, vermeld in het eerste lid, mee aan het agentschap.&nbsp;De vier sessies, vermeld in het eerste lid, zijn afgerond binnen achttien maanden na de beslissing van het agentschap waarbij het de budgethouder naar een bijstandsorganisatie verwijst. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het eerste lid.<br>
 <br>
-§ 2. Als de budgethouder nalaat de overeenkomst, vermeld in paragraaf 1, eerste lid, aan te gaan en zich te laten bijstaan door een bijstandsorganisatie, of als het agentschap of Zorginspectie opnieuw tweemaal vaststelt dat het budget niet wordt besteed conform artikel 4, 5, 7, 19 en 22 tot en met 24, nadat de budgethouder is verplicht zich te laten bijstaan door een bijstandsorganisatie, kan het agentschap beslissen dat de budgethouder zich gedurende een periode van maximaal twee jaar moet laten bijstaan door een bijstandsorganisatie bij de opmaak van een overeenkomst als vermeld in artikel 7, voor de mededeling van de gegevens van die overeenkomsten, vermeld in artikel 17, § 1, eerste lid, en bij de opmaak en mededeling van de kostenstaten, vermeld in artikel 22.<br>
+§ 2. Als de budgethouder nalaat de overeenkomst, vermeld in paragraaf 1, eerste lid, aan te gaan en zich te laten bijstaan door een bijstandsorganisatie,&nbsp;of de budgethouder nalaat de vier sessies, vermeld in paragraaf 1, eerste lid, af te ronden binnen achttien maanden na de beslissing van het agentschap waarbij het de budgethouder naar een bijstandsorganisatie verwijst of als het agentschap of Zorginspectie opnieuw tweemaal vaststelt dat het budget niet wordt besteed conform artikel 4, 5, 7, 19 en 22 tot en met 24, nadat de budgethouder is verplicht zich te laten bijstaan door een bijstandsorganisatie, kan het agentschap beslissen dat de budgethouder zich gedurende een periode van maximaal twee jaar moet laten bijstaan door een bijstandsorganisatie bij de opmaak van een overeenkomst als vermeld in artikel 7, voor de mededeling van de gegevens van die overeenkomsten, vermeld in artikel 17, § 1, eerste lid, en bij de opmaak en mededeling van de kostenstaten, vermeld in artikel 22.<br>
 <br>
 Het agentschap informeert de budgethouder over zijn beslissing, vermeld in het eerste lid.<br>
 <br>
-De budgethouder sluit een overeenkomst met een bijstandsorganisatie, die de taken, vermeld in het eerste lid, zal opnemen, waarin wordt voorzien in hoogdrempelige individuele bijstand, die wordt vergoed met het budget van de persoon met een handicap. De budgethouder deelt die overeenkomst mee aan het agentschap.<br>
+De budgethouder sluit een overeenkomst met een bijstandsorganisatie, die de taken, vermeld in het eerste lid, zal opnemen, waarin wordt voorzien in meer hoogdrempelige individuele bijstand, die wordt vergoed met het budget van de persoon met een handicap. De budgethouder deelt die overeenkomst mee aan het agentschap.<br>
 <br>
 De bijstandsorganisatie, vermeld in de overeenkomst, vermeld in het derde lid, informeert het agentschap over de bijstand die wordt verleend in het kader van de voormelde overeenkomst.<br>
 <br>
@@ -509,9 +513,9 @@ Als het agentschap vaststelt dat er gedurende een kalenderjaar geen overeenkomst
 <br>
 Als de budgethouder niet reageert op de brief, vermeld in het tweede lid, binnen dertig dagen nadat hij is verzonden, stuurt het agentschap een herinneringsbrief naar de budgethouder.<br>
 <br>
-Als de budgethouder niet reageert op die herinneringsbrief, kan het agentschap beslissen dat de budgethouder zich moet laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de persoon met een handicap.<br>
+Als de budgethouder niet reageert op die herinneringsbrief, kan het agentschap beslissen dat de budgethouder zich moet laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies meer hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de persoon met een handicap.<br>
 <br>
-De budgethouder deelt de overeenkomst, vermeld in het vierde lid, mee aan het agentschap. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het vierde lid.<br>
+De budgethouder deelt de overeenkomst, vermeld in het vierde lid, mee aan het agentschap. De vier sessies, vermeld in het vierde lid, zijn afgerond binnen achttien maanden na de beslissing van het agentschap waarbij het de budgethouder naar een bijstandsorganisatie verwijst. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het vierde lid.<br>
 <br>
 Als de budgethouder geen overeenkomst sluit als vermeld in het vierde lid, worden de kosten vermeld op een kostenstaat als vermeld in artikel 22, niet meer terugbetaald en vervalt de beslissing van het agentschap over de terbeschikkingstelling van het budget.
 
