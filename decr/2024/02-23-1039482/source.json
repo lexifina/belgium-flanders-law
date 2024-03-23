@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039482,
+  "title": "Decreet van 2024-02-23 tot wijziging van het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039482/VolledigDocument?datum=2024-03-23",
+  "source_sha256": "7c2916059e577c79d774bc72bd93ab0fbaa3ae800d318dc34132e4c287c4bd8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039482&param=informatie",
+  "as_of": "2024-03-23",
+  "made": "2024-02-23",
+  "gazette": "2024-03-13",
+  "numac": 2024002255,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-03-23",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2024-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
