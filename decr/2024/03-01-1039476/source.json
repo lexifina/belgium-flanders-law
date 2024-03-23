@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039476,
+  "title": "Decreet van 2024-03-01 houdende instemming met het samenwerkingsakkoord van 22 november 2023 tussen de Federale Staat en de Vlaamse Gemeenschap inzake slachtofferzorg",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039476/VolledigDocument?datum=2024-03-23",
+  "source_sha256": "4ace1f1741e0271c0aad3fec6b83cb5ab400286db8663c9ac6289fed9907103e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039476&param=informatie",
+  "as_of": "2024-03-23",
+  "made": "2024-03-01",
+  "gazette": "2024-03-13",
+  "numac": 2024002177,
+  "document_start": "2024-03-23",
+  "document_end": null,
+  "in_force": "2024-03-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
