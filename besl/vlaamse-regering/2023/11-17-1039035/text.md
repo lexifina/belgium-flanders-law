@@ -37,7 +37,9 @@ Voor de bepalingen, vermeld in artikel 1, 1°, van dit besluit, wordt de verplic
 3° de voorstellen tot betaling van een geldsom, vermeld in artikel 16.4.36, §3, en artikel 16.4.41, §2, van het voormelde decreet;<br>
 4° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 16.4.37 en 16.4.43 van het voormelde decreet.<br>
 <br>
-Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een alternatieve of exclusieve bestuurlijke geldboete of van het voorstel tot betalen van een geldsom in de zin van artikel 16.4.36 &nbsp;en 16.4.41 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;
+Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een alternatieve of exclusieve bestuurlijke geldboete of van het voorstel tot betalen van een geldsom in de zin van artikel 16.4.36 &nbsp;en 16.4.41 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;<br>
+<br>
+De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
 
 ### ART 3.
 
@@ -56,7 +58,9 @@ Voor de bepalingen, vermeld in artikel 1, 3°, van dit besluit, wordt de verplic
 3° de voorstellen tot betaling van een geldsom, vermeld in artikel 6.2.14 van de voormelde codex;<br>
 4° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 6.2.12, §2, en artikel 6.2.13, §4, tweede lid, van de voormelde codex.<br>
 <br>
-Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een exclusieve of alternatieve bestuurlijke geldboete in de zin van artikel 6.2.12 en 6.2.13 Vlaamse Codex Ruimtelijke Ordening, of van het voorstel tot betalen van een geldsom in de zin van artikel 6.2.14 van de voormelde codex, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;
+Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een exclusieve of alternatieve bestuurlijke geldboete in de zin van artikel 6.2.12 en 6.2.13 Vlaamse Codex Ruimtelijke Ordening, of van het voorstel tot betalen van een geldsom in de zin van artikel 6.2.14 van de voormelde codex, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;<br>
+<br>
+De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
 
 ### ART 5.
 
