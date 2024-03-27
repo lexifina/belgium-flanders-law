@@ -527,13 +527,13 @@ De administratie publiceert de lijst van gemachtigde controleorganisaties op zij
 
 ### ART 40.
 
-Alle ziekenwagens die na de publicatie van dit besluit in dienst worden genomen, moeten, vanaf de zesde maand na de publicatie van dit besluit, voldoen aan de uiterlijke kenmerken, vermeld in artikel 18.<br>
+In dit artikel wordt verstaan onder intermediaire ziekenwagen: een ziekenwagen die zowel kan worden ingezet voor het niet-dringende liggend ziekenvervoer als voor het vervoer dat onder het toepassingsgebied van de wet van 8 juli 1964 betreffende de dringende geneeskundige hulpverlening valt, en die daarvoor van de federale overheid een bijkomende erkenning heeft verkregen.<br>
 <br>
-De ziekenwagens die al in dienst zijn genomen op het ogenblik van de publicatie van dit besluit, moeten uiterlijk vijf jaar na de publicatie van dit besluit voldoen aan de uiterlijke kenmerken, vermeld in artikel 18.<br>
+In afwijking van artikel 18 mogen ziekenwagens een of meer van de volgende uiterlijke kenmerken vertonen:&nbsp;<br>
+1°&nbsp; de sectorale kleuren geel en groen zijn op de ziekenwagen aangebracht in retroreflecterend materiaal in een enkele rij van zeven blokken met een minimale lengte van 600 millimeter en een hoogte van 300 tot 450 millimeter;<br>
+2°&nbsp; de ziekenwagen is uitgerust met prioritaire signalen, namelijk blauwe knipperlichten en een geluidstoestel.<br>
 <br>
-De ziekenwagens die in dienst worden genomen tussen de publicatiedatum van dit besluit en de zes daarop volgende maanden, mogen voldoen aan de uiterlijke kenmerken, vermeld in artikel 18. Ze mogen ook beschouwd worden als vallend onder de toepassing van het tweede lid.<br>
-<br>
-Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen vanaf het ogenblik van de publicatie van dit besluit moeten uiterlijk vijf jaar na de publicatie van dit besluit voldoen aan de uiterlijke kenmerken, vermeld in artikel 18. Tweedehands ziekenwagens die door een ziekenwagendienst in dienst worden genomen vanaf het ogenblik van de publicatie van dit besluit mogen niet de uiterlijke kenmerken hebben van de ziekenwagens voor de dringende medische hulpverlening, vermeld in het koninklijk besluit van 12 november 2017 houdende vaststelling van de uiterlijke kenmerken van de voertuigen die ingezet worden in de dringende geneeskundige hulpverlening.
+De afwijking, vermeld in het tweede lid, is van toepassing tot de eerste dag van de negende maand na de inwerkingtreding van het besluit van de Vlaamse Regering dat de uitzonderingen op de uiterlijke kenmerken, vermeld in artikel 18, voor intermediaire ziekenwagens regelt.
 
 ### ART 41.
 
