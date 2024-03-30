@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039508,
+  "title": "Decreet van 2024-03-15 tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft aanpassingen aan het nieuw Burgerlijk Wetboek",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039508/VolledigDocument?datum=2024-03-30",
+  "source_sha256": "b4523dc00da2c944e24502e221bf5460bb1e1c15d8ef01e2facd507cd0a3151c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039508&param=informatie",
+  "as_of": "2024-03-30",
+  "made": "2024-03-15",
+  "gazette": "2024-03-20",
+  "numac": 2024002598,
+  "document_start": "2024-03-30",
+  "document_end": null,
+  "in_force": "2024-03-30",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2024-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
