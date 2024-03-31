@@ -75,7 +75,16 @@ Voor de zesde schijf van deze subsidie wordt het aantal ontheemden, vermeld in h
 <br>
 Voor de zevende schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 december 2023 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
 <br>
-Voor de achtste schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 maart 2024 beschikt, vermenigvuldigd met 400 en met 0,30.
+Voor de achtste schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 maart 2024 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de negende schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 juni 2024 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de tiende schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 september 2024 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de elfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 december 2024 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de twaalfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 28 februari 2025 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+&nbsp;
 
 ## HOOFDSTUK 2. [Private en publieke plekken in de Vlaamse Huisvestingstool en subsidiëring van de publieke plekken (verv. BVR 29 juni 2022, art. 3, I: 14 maart 2022)]
 
@@ -174,7 +183,8 @@ In het eerste lid wordt verstaan onder:<br>
 De specifieke slaapplek, vermeld in het eerste lid, voldoet aan de volgende voorwaarden:<br>
 1° ze is veilig, gezond en menswaardig;<br>
 2° ze is geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
-3° ze is bevestigd door het agentschap in de Vlaamse huisvestingstool.<br>
+3° ze is bevestigd door het agentschap in de Vlaamse huisvestingstool;<br>
+4° ze is gecreëerd voor de opvang van tijdelijk ontheemden uit Oekraïne.<br>
 <br>
 De forfaitaire subsidie vermeld in het eerste lid wordt slechts toegekend voor de kalenderdagen die vielen in een periode waarin de specifieke slaapplek gedurende minstens 90 aaneensluitende kalenderdagen ter beschikking werd gesteld in de Vlaamse huisvestingstool.<br>
 <br>
@@ -251,7 +261,12 @@ Uiterlijk op 30 juni 2023 betaalt het agentschap een tweede keer het vastgesteld
 <br>
 Uiterlijk op 31 december 2023 betaalt het agentschap een derde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2023.<br>
 <br>
-Uiterlijk op 30 juni 2024 betaalt het agentschap een vierde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2024. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2024 ingediend op de wijze vermeld in artikel 9, eerste lid.
+Uiterlijk op 30 juni 2024 betaalt het agentschap een vierde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2024.<br>
+<br>
+Uiterlijk op 31 december 2024 betaalt het agentschap een vijfde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2024.<br>
+<br>
+Uiterlijk op 31 juli 2025 betaalt het agentschap een zesde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2025. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2025 ingediend op de wijze, vermeld in artikel 9, eerste lid.<br>
+&nbsp;
 
 ### ART 12.
 
@@ -313,7 +328,7 @@ Dit besluit treedt in werking op 8 april 2022.<br>
 <br>
 Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 31 maart 2024.
+Dit besluit houdt op uitwerking te hebben op 31 maart 2025.
 
 ### ART 23.
 
