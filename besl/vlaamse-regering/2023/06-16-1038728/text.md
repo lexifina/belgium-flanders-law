@@ -1464,7 +1464,7 @@ Artikel 6.4.1/5/2, §3, eerste lid, van het Energiebesluit van 19 november 2010,
 
 ### ART 114.
 
-Als de premie, vermeld in artikel 6.4.1/1/4 van het Energiebesluit, voor 1 april 2024 werd geactiveerd, dan blijft artikel 6.4.1/6, §6, van het Energiebesluit, in de lezing zoals van toepassing voorafgaand aan de wijziging ervan bij artikel 25, 3° van dit besluit, op dat dossier van toepassing.
+Als de premie, vermeld in artikel 6.4.1/1/4 van het Energiebesluit, voor 1 januari 2025 werd geactiveerd, dan blijft artikel 6.4.1/6, §6, van het Energiebesluit, in de lezing zoals van toepassing voorafgaand aan de wijziging ervan bij artikel 25, 3° van dit besluit, op dat dossier van toepassing.
 
 ### ART 115.
 
