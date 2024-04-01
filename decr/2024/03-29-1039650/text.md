@@ -38,6 +38,12 @@ De bijlage bij hetzelfde decreet wordt opgeheven.
 
 ## Hoofdstuk 3. Wijziging van het decreet van 10 maart 2023 over de subsidiëring van het sociaal-cultureel volwassenenwerk
 
+### ART 9.
+
+Aan artikel 4, eerste lid, van het decreet van 10 maart 2023 over de subsidiëring van het sociaal-cultureel volwassenenwerk wordt de volgende zin toegevoegd:<br>
+<br>
+“De Vlaamse Regering kan het vooropgestelde subsidiebedrag eenzijdig bijstellen wegens beleidswijzigingen of besparingsmaatregelen.”.
+
 ## Hoofdstuk 4. Wijzigingen van het decreet van 23 juni 2023 tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen
 
 ### ART 10.
