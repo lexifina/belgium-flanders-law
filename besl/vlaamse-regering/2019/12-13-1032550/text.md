@@ -36,6 +36,7 @@ In dit besluit wordt verstaan onder:<br>
 1° besluit van 28 juni 2019: het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
 2° centrum voor dagopvang: een centrum voor dagopvang van een dienst voor gezinszorg als vermeld in artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
 3° centrum voor dagverzorging: een centrum als vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019;<br>
+3°/1 centrum voor herstelverblijf: een centrum als vermeld in artikel 28 van het Woonzorgdecreet van 15 februari 2019;<br>
 4° centrum voor kortverblijf type 2: een centrum als vermeld in artikel 26, § 1, tweede lid, 2°, van het Woonzorgdecreet van 15 februari 2019;<br>
 5° centrum voor kortverblijf type 3: een centrum als vermeld in artikel 26, § 1, tweede lid, 3°, van het Woonzorgdecreet van 15 februari 2019;<br>
 6° lokaal dienstencentrum: een centrum als vermeld in artikel 9 van het Woonzorgdecreet van 15 februari 2019.<br>
@@ -45,7 +46,8 @@ Dit besluit is van toepassing op de volgende woonzorgvoorzieningen:<br>
 2° de centra voor dagverzorging;<br>
 3° de centra voor kortverblijf type 2;<br>
 4° de centra voor kortverblijf type 3;<br>
-5° de lokale dienstencentra.
+5° de lokale dienstencentra;<br>
+6° de centra voor herstelverblijf.
 
 ## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
 
@@ -88,11 +90,32 @@ De infrastructuur van een lokaal dienstencentrum moet voldoen aan de normen, ver
 6° in elke leefruimte of gebruikersruimte bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m<sup>2</sup> bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
 7° er is ten minste op één locatie voldoende buitenruimte beschikbaar in functie van de noden en de activiteiten van het lokaal dienstencentrum.
 
+## Afdeling 3/1. Specifieke bouwtechnische en bouwfysische normen voor de centra voor herstelverblijf
+
+### ART 7/1.
+
+De infrastructuur van een centrum voor herstelverblijf moet voldoen aan &nbsp;de normen, vermeld in artikel 26 van bijlage 9 bij het besluit van 28 juni 2019, en aan de volgende bijkomende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen:<br>
+1°&nbsp;&nbsp; &nbsp;per erkende verblijfseenheid bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m² per gebruiker. Die oppervlakte omvat de kamer van de gebruiker, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor gebruikers;<br>
+2°&nbsp;&nbsp; &nbsp;sanitaire installaties voor bezoekers en personeel;<br>
+3°&nbsp;&nbsp; &nbsp;de nettovloeroppervlakte van de gemeenschappelijke zit- en eetruimten bedraagt minimaal 4 m² per gebruiker;<br>
+4°&nbsp;&nbsp; &nbsp;een administratieve ruimte en ontvangstruimte van 20 m²;<br>
+5°&nbsp;&nbsp; &nbsp;een gespreksruimte van 16 m²;<br>
+6°&nbsp;&nbsp; &nbsp;een archief- en bergruimte van 10 m²;<br>
+7°&nbsp;&nbsp; &nbsp;een gemeenschappelijke badkamer die integraal toegankelijk is en die minstens beschikt over een aangepast bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water.<br>
+<br>
+Voor het gebruikerscomfort van de infrastructuur gelden de volgende normen:<br>
+1°&nbsp;&nbsp; &nbsp;de verlichting houdt rekening met de veiligheid en behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2°&nbsp;&nbsp; &nbsp;de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+3°&nbsp;&nbsp; &nbsp;in alle verblijfsruimtes bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+4°&nbsp;&nbsp; &nbsp;de inkijk van buitenaf kan worden beperkt;<br>
+5°&nbsp;&nbsp; &nbsp;de signalisatie is aangepast aan de doelgroep;<br>
+6°&nbsp;&nbsp; &nbsp;de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem.
+
 ## Afdeling 4. Algemene bepaling
 
 ### ART 8.
 
-De bouwfysische normen, vermeld in artikel 2 tot en met 7, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.
+De bouwfysische normen, vermeld in artikel 2 tot en met 7/1, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.
 
 ## HOOFDSTUK 3. Subsidiabele oppervlakte
 
@@ -104,8 +127,9 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 1° voor een centrum voor dagopvang: 300 m<sup>2</sup> per centrum;<br>
 2° voor een centrum voor dagverzorging: 300 m<sup>2</sup> per centrum;<br>
 3° voor een centrum voor kortverblijf type 2: 65 m<sup>2</sup> per woongelegenheid;<br>
-4° voor een centrum voor kortverblijf type 3: 65 m<sup>2</sup> per woongelegenheid;<br>
-5° voor een lokaal dienstencentrum: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening, met een maximum van 600 m<sup>2</sup> per dienstencentrum, verdeeld over maximum drie antennes met elk een minimumoppervlakte van 200 m<sup>2</sup>.<br>
+4° voor een centrum voor kortverblijf type 3: 65 m<sup>2</sup> per verblijfseenheid als vermeld in artikel 148, eerste lid, 3°, van bijlage 8 bij het besluit van 28 juni 2019;<br>
+5° voor een lokaal dienstencentrum: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening, met een maximum van 600 m<sup>2</sup> per dienstencentrum, verdeeld over maximum drie antennes met elk een minimumoppervlakte van 200 m<sup>2;</sup><br>
+6° voor een centrum voor herstelverblijf: 65 m² per verblijfseenheid.<br>
 <br>
 Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, als de erkennings- en exploitatievoorwaarden dat vereisen.
 
@@ -118,7 +142,8 @@ Het basisbedrag van de investeringssubsidie voor nieuwbouw, uitrusting en meubil
 2° 550 euro per m<sup>2</sup> voor een centrum voor dagverzorging;<br>
 3° 550 euro per m<sup>2</sup> voor een centrum voor kortverblijf type 2;<br>
 4° 550 euro per m<sup>2</sup> voor een centrum voor kortverblijf type 3;<br>
-5° 550 euro per m<sup>2</sup> voor een lokaal dienstencentrum.<br>
+5° 550 euro per m<sup>2</sup> voor een lokaal dienstencentrum;<br>
+6° 550 euro per m² voor een centrum voor herstelverblijf.<br>
 <br>
 Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in het eerste lid, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30 %;<br>
@@ -134,7 +159,8 @@ De projectfase ruwbouw, vermeld in het tweede lid, omvat de gevelsluiting, boven
 2° 500 euro per m<sup>2</sup> voor een centrum voor dagverzorging;<br>
 3° 500 euro per m<sup>2</sup> voor een centrum voor kortverblijf type 2;<br>
 4° 500 euro per m<sup>2</sup> voor een centrum voor kortverblijf type 3;<br>
-5° 500 euro per m<sup>2</sup> voor een lokaal dienstencentrum.<br>
+5° 500 euro per m<sup>2</sup> voor een lokaal dienstencentrum;<br>
+6° 500 euro per m² voor een centrum voor herstelverblijf.<br>
 <br>
 § 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is.<br>
 <br>
