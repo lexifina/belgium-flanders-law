@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039766,
+  "title": "Decreet van 2024-05-03 tot wijziging van verschillende decreten, wat betreft de regiovorming",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039766/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "0580a04d109b2e621edc0516c08d072471c055edeafd765cb15f50d8d2788571",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039766&param=informatie",
+  "as_of": "2024-04-01",
+  "made": "2024-05-03",
+  "gazette": "2024-06-06",
+  "numac": 2024005249,
+  "document_start": "2024-06-16",
+  "document_end": null,
+  "in_force": "2024-04-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
