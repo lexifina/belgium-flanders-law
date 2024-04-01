@@ -1458,6 +1458,10 @@ Artikel 12 van het decreet van 17 december 2021 tot wijziging van het Energiedec
 
 Artikel 3, 7° en 8° en artikel 31 van het decreet van 23 december 2022 tot wijziging van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, het Energiedecreet van 8 mei 2009, het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012 en het decreet van 17 december 2021 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft toewijzingen aan het Energiefonds, wijzigingen betreffende flexibiliteit en energiedelen, de uitbouw van het energiedataplatform en de herziening van de administratieve geldboetes aangaande installatie-eisen treden in werking op 1 december 2023.
 
+### ART 112.
+
+Als de premie, vermeld in artikel 6.4.1/1/4 van het Energiebesluit, door de investeerder reeds voor 1 januari 2025 werd geactiveerd, dan blijft de procedure beschreven in artikel 6.4.1/1/4, zesde lid, van het Energiebesluit, in de lezing zoals van toepassing voorafgaand aan de wijziging ervan bij artikel 21 van dit besluit, op dat dossier van toepassing.
+
 ### ART 113.
 
 Artikel 6.4.1/5/2, §3, eerste lid, van het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 24 van dit besluit, is van toepassing op aanvragen ingediend vanaf 1 januari 2023.
