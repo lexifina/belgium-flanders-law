@@ -53,8 +53,10 @@ Het Fonds voor Innoveren en Ondernemen maakt voor zijn werking gebruik van het p
 8° het besluit van de Vlaamse Regering tot regeling van steun aan ondernemingen voor ontwikkeling en innovatie in Vlaanderen;<br>
 9° het besluit van de Vlaamse Regering van 12 mei 2017 tot regeling van steun aan ondernemingen voor onderzoeksprojecten met het oog op de uitvoering van doctoraatsonderzoek of postdoctoraal onderzoek in samenwerking met onderzoeksorganisaties;<br>
 10° het besluit van de Vlaamse Regering van 22 december 2017 tot regeling van steun aan ondernemingen voor onderzoek en ontwikkeling, ingebed in een ruimer samenwerkingsverband met onderzoeksorganisaties;<br>
-10° het besluit van de Vlaamse Regering van 23 februari 2018 tot regeling van de cofinanciering van onderzoek en ontwikkeling in het kader van overheidsopdrachten;<br>
-11° het besluit van de Vlaamse Regering van 25 mei 2018 tot regeling van steun aan projecten van collectief onderzoek en ontwikkeling en collectieve kennisverspreiding.<br>
+11° het besluit van de Vlaamse Regering van 23 februari 2018 tot regeling van de cofinanciering van onderzoek en ontwikkeling in het kader van overheidsopdrachten;<br>
+12° het besluit van de Vlaamse Regering van 25 mei 2018 tot regeling van steun aan projecten van collectief onderzoek en ontwikkeling en collectieve kennisverspreiding;<br>
+13° het besluit van de Vlaamse Regering van 22 maart 2024 tot regeling van de cofinanciering van onderzoek, ontwikkeling en innovatie in het kader van overheidsopdrachten.<br>
+<br>
 <br>
 § 2. Het beslissingscomité kan adviezen verstrekken met betrekking tot de werking, effectiviteit en mogelijke optimalisaties aan de steuninstrumenten opgenomen in de eerste paragraaf.<br>
 <br>

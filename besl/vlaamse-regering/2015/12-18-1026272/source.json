@@ -2,16 +2,16 @@
   "codex_id": 1026272,
   "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende het beheer en de werking van het [Fonds voor Innoveren en Ondernemen] en de werking van het beslissingscomité bij dat fonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026272/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "e6137eb09f0fd88348db72c2cc39682338a84468288e6f83ffcb71999f0bbe95",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026272/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "5874cff43629b435b990d2c94bea22064dbb4d854e07ad47787aa1326e5a7d10",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026272&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-04-01",
   "made": "2015-12-18",
   "gazette": "2015-12-31",
   "numac": 2015036617,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2024-04-01",
   "article_versions": 105,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
 }
