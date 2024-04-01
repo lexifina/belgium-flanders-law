@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040071,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-05 tot het waarborgen van toereikende wettelijke minimumlonen voor het personeel van het onderwijs in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040071/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "ad93d20a355545e8fb60baa26db1a0eae011cb94aad3d752ca5a7b172b8cdf2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040071&param=informatie",
+  "as_of": "2024-04-01",
+  "made": "2024-07-05",
+  "gazette": "2024-08-08",
+  "numac": 2024007587,
+  "document_start": "2024-11-01",
+  "document_end": null,
+  "in_force": "2024-04-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
