@@ -65,3 +65,55 @@ De eerste individuele kostennota na de volledige verrekening van het voorschotbe
 De zorgkas kan vanaf de zevende week na de week waarin de zorgkas het laatste voorschot heeft betaald, eventuele niet-verrekende voorschotten terugvorderen van de psychiatrische verzorgingstehuizen.<br>
 <br>
 Het agentschap is financieel verantwoordelijk voor de niet-verrekende voorschotten, vermeld in het tiende lid, die niet door de zorgkassen teruggevorderd kunnen worden bij het psychiatrisch verzorgingstehuis.”.
+
+### ART 39.
+
+Aan artikel 534/186 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2023, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+<br>
+“§4. Een initiatief van beschut wonen dat, buiten haar eigen wil om, niet beschikt over een operationele digitale applicatie als vermeld in artikel 534/189, en om die reden geen facturen kan versturen conform paragraaf 1, eerste lid, en paragraaf 2, kan bij het agentschap een aanvraag tot afwijking indienen.<br>
+<br>
+Het initiatief van beschut wonen motiveert de afwijkingsaanvraag, vermeld in het eerste lid, en bezorgt ze schriftelijk aan het agentschap. Er wordt een verklaring op erewoord bijgevoegd dat het initiatief van beschut wonen de facturatie niet kan uitvoeren.<br>
+<br>
+Het agentschap kan bijkomende stukken opvragen ter verduidelijking van de afwijkingsaanvraag, vermeld in het eerste lid.<br>
+<br>
+Het agentschap beoordeelt de afwijkingsaanvraag, vermeld in het eerste lid, en brengt het initiatief van beschut wonen in kwestie op de hoogte van zijn beslissing over die aanvraag. Als er een afwijking wordt toegestaan, wordt ook vermeld voor welke periode die afwijking wordt toegestaan.<br>
+<br>
+Het initiatief van beschut wonen dient de facturen, vermeld in het eerste lid, chronologisch in via de digitale applicatie zodra de digitale applicatie operationeel is.<br>
+<br>
+In afwijking van paragraaf 1 en artikel 534/187 ontvangen de initiatieven van beschut wonen die beschikken over de goedkeuring, vermeld in het vierde lid, van de zorgkas een maandelijks voorschot.<br>
+<br>
+Het agentschap bepaalt per initiatief van beschut wonen het voorschot voor elke maand, vermeld in het zesde lid, dat het initiatief van beschut wonen per zorgkas ontvangt.<br>
+<br>
+Elke zorgkas verrekent de ontvangen individuele kostennota’s die voldoen aan de voorwaarden, vermeld in paragraaf 1, met de voorschotbedragen die aan het initiatief van beschut wonen betaald zijn.<br>
+<br>
+De eerste individuele kostennota na de volledige verrekening van het voorschotbedrag, die voldoet aan de voorwaarden, vermeld in paragraaf 1, wordt door de zorgkas uitbetaald conform artikel 534/185.<br>
+<br>
+De zorgkas kan vanaf de zevende week na de week waarin de zorgkas het laatste voorschot heeft betaald, eventuele niet-verrekende voorschotten terugvorderen van de initiatieven van beschut wonen.<br>
+<br>
+Het agentschap is financieel verantwoordelijk voor de niet-verrekende voorschotten, vermeld in het tiende lid, die niet door de zorgkassen teruggevorderd kunnen worden bij het initiatief van beschut wonen.”.
+
+### ART 40.
+
+Aan artikel 534/219 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2023, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+<br>
+“§4. Een multidisciplinaire begeleidingsequipe voor palliatieve verzorging die, buiten haar eigen wil om, niet beschikt over een operationele digitale applicatie als vermeld in artikel 534/221, en om die reden geen facturen kan versturen conform paragraaf 1, eerste lid, en paragraaf 2, kan bij het agentschap een aanvraag tot afwijking indienen.<br>
+<br>
+De multidisciplinaire begeleidingsequipe voor palliatieve verzorging motiveert de afwijkingsaanvraag, vermeld in het eerste lid, en bezorgt ze schriftelijk aan het agentschap. Er wordt een verklaring op erewoord bijgevoegd dat de multidisciplinaire begeleidingsequipe voor palliatieve verzorging de facturatie niet kan uitvoeren.<br>
+<br>
+Het agentschap kan bijkomende stukken opvragen ter verduidelijking van de afwijkingsaanvraag, vermeld in het eerste lid.<br>
+<br>
+Het agentschap beoordeelt de afwijkingsaanvraag, vermeld in het eerste lid, en brengt de multidisciplinaire begeleidingsequipe voor palliatieve verzorging in kwestie op de hoogte van zijn beslissing over die aanvraag. Als er een afwijking wordt toegestaan, wordt ook vermeld voor welke periode die afwijking wordt toegestaan.<br>
+<br>
+De multidisciplinaire begeleidingsequipe voor palliatieve verzorging dient de facturen, vermeld in het eerste lid, chronologisch in via de digitale applicatie zodra de digitale applicatie operationeel is.<br>
+<br>
+In afwijking van paragraaf 1 en artikel 534/220 ontvangen de initiatieven van beschut wonen die beschikken over de goedkeuring, vermeld in het vierde lid, van de zorgkas een maandelijks voorschot.<br>
+<br>
+Het agentschap bepaalt per multidisciplinaire begeleidingsequipe voor palliatieve verzorging het voorschot voor elke maand, vermeld in het zesde lid, dat de multidisciplinaire begeleidingsequipe voor palliatieve verzorging per zorgkas ontvangt.<br>
+<br>
+Elke zorgkas verrekent de ontvangen individuele kostennota's die voldoen aan de voorwaarden, vermeld in paragraaf 1, met de voorschotbedragen die aan de multidisciplinaire begeleidingsequipe voor palliatieve verzorging betaald zijn.<br>
+<br>
+De eerste individuele kostennota na de volledige verrekening van het voorschotbedrag, die voldoet aan de voorwaarden, vermeld in paragraaf 1, wordt door de zorgkas uitbetaald conform artikel 534/218.<br>
+<br>
+De zorgkas kan vanaf de zevende week na de week waarin de zorgkas het laatste voorschot heeft betaald eventuele niet-verrekende voorschotten terugvorderen van de multidisciplinaire begeleidingsequipes voor palliatieve verzorging.<br>
+<br>
+Het agentschap is financieel verantwoordelijk voor de niet-verrekende voorschotten, vermeld in het tiende lid, die niet door de zorgkassen teruggevorderd kunnen worden bij de multidisciplinaire begeleidingsequipe voor palliatieve verzorging.”.
