@@ -222,6 +222,23 @@ Als een slaapplek in het nooddorp wordt toegewezen aan een tijdelijk ontheemde u
 <br>
 Alleen de eerste 1.000 slaapplekken in het nooddorp in Antwerpen, de eerste 730 slaapplekken in het nooddorp in Mechelen en de eerste 600 slaapplekken in het nooddorp in Gent komen in aanmerking voor de subsidies vermeld in het derde lid en het vierde lid.
 
+### ART 7/1.
+
+De stad Antwerpen en de stad Mechelen komen in aanmerking voor een subsidie van het Vlaamse Gewest voor de ontmanteling van het nooddorp, vermeld in artikel 7.<br>
+<br>
+De volgende reële kosten komen in aanmerking voor de subsidie, vermeld in het eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de afbraak- en verwijderingskosten van de mobiele units en de polyvalente ruimtes, waaronder de kosten voor demontage, transport en de huur van machines;<br>
+2°&nbsp;&nbsp; &nbsp;de schade- en herstellingskosten aan de mobiele units en de polyvalente ruimtes;<br>
+3°&nbsp;&nbsp; &nbsp;de kosten die verbonden zijn aan het herstel van het terrein in de staat vóór de opbouw van het nooddorp, waaronder de kosten voor de afbraak van riolering en elektrische installaties, de werfinrichting, het verwijderen van bestrating en stortkosten.<br>
+<br>
+Alleen de facturen of de bewijsstukken voor de kosten, vermeld in het tweede lid, die gemaakt worden tot uiterlijk negen maanden na de buitenwerkingtreding van artikel 7, komen in aanmerking. De facturen of de bewijsstukken worden ingediend uiterlijk twaalf maanden na de buitenwerkingtreding van artikel 7. De facturen of de bewijsstukken worden ingediend op de wijze, vermeld in artikel 9, eerste tot en met derde lid.<br>
+<br>
+Het agentschap berekent de subsidies, vermeld in het eerste lid.<br>
+<br>
+Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in het derde lid.&nbsp;<br>
+<br>
+Als een stad als vermeld in het eerste lid, voldoet aan de voorwaarden om de subsidies, vermeld in het eerste lid, te ontvangen, betaalt het agentschap het vastgestelde subsidiebedrag uiterlijk vijftien maanden na de buitenwerkingtreding van artikel 7 op de rekening van de gemeente waarop het laatste aandeel van het Vlaams Gemeentefonds is gestort.
+
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
 
 ### ART 8.
