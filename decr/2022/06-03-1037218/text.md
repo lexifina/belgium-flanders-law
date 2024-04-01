@@ -71,3 +71,15 @@ Een organiserende onderwijsinstelling die geen beroep doet op een regierol van e
 § 4. Als het begrotingskrediet voor een bepaald jaar ontoereikend is, worden de subsidies, vermeld in paragraaf 2, pro rata verminderd op basis van het beschikbare begrotingskrediet.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt de procedure van indiening, goedkeuring en evaluatie van de projecten voor de organisatie van zomerscholen, alsook de wijze van toekenning van de projectsubsidies.
+
+### ART 7.
+
+§1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een organisator van een zomerschool kan de projectsubsidies, vermeld in artikel 6, aanwenden om via een flexi-jobarbeidsovereenkomst in die zomerschool een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+§3. De organisator van een zomerschool sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij de organisator van de zomerschool hebben.
