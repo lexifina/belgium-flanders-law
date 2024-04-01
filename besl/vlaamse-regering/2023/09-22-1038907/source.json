@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038907,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-22 tot wijziging van het koninklijk besluit van 22 juni 2003 betreffende de controletaak van de erkende ondernemingsloketten ter gelegenheid van de inschrijving van handels- of ambachtsondernemingen in de Kruispuntbank van Ondernemingen, het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten, het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van kermisactiviteiten en ambulante activiteiten in kermisgastronomie en tot opheffing van het koninklijk besluit van 24 september 2006 houdende vaststelling van de vergoeding van de erkende ondernemingsloketten voor het beheer van de machtigingen van ambulante activiteiten en van de machtigingen van kermisactiviteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038907/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "69504527e388649263723713611909fd2741b085eb0559f938e8dc3eaf8ffdc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038907&param=informatie",
+  "as_of": "2024-04-01",
+  "made": "2023-09-22",
+  "gazette": "2023-10-31",
+  "numac": 2023046541,
+  "document_start": "2024-04-01",
+  "document_end": null,
+  "in_force": "2024-04-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2024-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
