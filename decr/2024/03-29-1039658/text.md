@@ -194,6 +194,139 @@ In artikel 10 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 10° beter inspelen op de maatschappelijke verwachtingen over voedsel en gezondheid.”;<br>
 3° paragraaf 2 wordt opgeheven.
 
+### ART 24.
+
+In artikel 44 van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+“Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie en met behoud van de toepassing van afdeling 2, houden de personeelsleden van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, toezicht op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid en de andere Europese en internationale akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen.”;<br>
+2° in het derde lid worden de woorden “het beleidsdomein Landbouw en Visserij” vervangen door de zinsnede “het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023,”.
+
+### ART 25.
+
+In artikel 45, derde lid, van hetzelfde decreet, worden de woorden “het beleidsdomein Landbouw en Visserij”, vervangen door de zinsnede “het Agentschap Landbouw en Zeevisserij opgericht bij besluit van de Vlaamse Regering van 15 september 2023,”.
+
+### ART 26.
+
+In artikel 49, §1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 2017, worden tussen het woord “daarvoor” en het woord “erkend” de woorden “aangewezen of” ingevoegd.
+
+### ART 27.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2022, wordt een artikel 49/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 49/1. De toezichthouder heeft de volgende rechten:<br>
+1° de aard en de omvang van de goederen of van de verrichte activiteiten, met inbegrip van de productie-, verpakkings- en verzendingssystemen en methoden controleren en verifiëren;<br>
+2° de stand van uitvoering van de gefinancierde werkzaamheden en investeringen, en het gebruik en de bestemming van de uitgevoerde investeringen controleren en verifiëren;<br>
+3° de financiële en technische uitvoering van gesubsidieerde projecten controleren en verifiëren.<br>
+<br>
+De toezichthouder is bevoegd verpakkingen te openen bij de uitoefening van de rechten, vermeld in het eerste lid.”.
+
+### ART 28.
+
+In artikel 53 van hetzelfde decreet, gewijzigd bij de decreten van 30 juni 2017 en 26 april 2019, wordt het vierde lid vervangen door wat volgt:<br>
+<br>
+“De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de naleving van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen.”.
+
+### ART 29.
+
+In artikel 54, eerste lid, van hetzelfde decreet wordt de zinsnede “Europese landbouw- of zeevisserijbeleid,” vervangen door de zinsnede “Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen,”.
+
+### ART 30.
+
+Artikel 55, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 2017, wordt vervangen door wat volgt:<br>
+<br>
+“Als een inbreuk op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen, wordt vastgesteld, kunnen het hoofd van het Agentschap Landbouw en Zeevisserij opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.”.
+
+### ART 31.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2022, wordt een artikel 55/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 55/1. §1. Een inbreuk kan worden bestraft met een administratieve sanctie en exclusieve bestuurlijke geldboete conform de bepalingen van dit decreet. De administratieve sanctie en exclusieve bestuurlijke geldboete kan worden opgelegd aan diegene die de inbreuk heeft gepleegd, er opdracht toe heeft gegeven of er zijn medewerking aan heeft verleend.<br>
+<br>
+§2. Een administratieve sanctie en exclusieve bestuurlijke geldboete kan worden opgelegd aan een rechtspersoon voor de volgende inbreuken:<br>
+1° inbreuken die intrinsiek verband houden met de verwezenlijking van zijn doel of de waarneming van zijn belangen;<br>
+2° inbreuken die, zoals blijkt uit de concrete omstandigheden, voor zijn rekening zijn gepleegd.<br>
+<br>
+Het opleggen van een administratieve sanctie en exclusieve bestuurlijke geldboete aan rechtspersonen sluit niet uit dat een administratieve sanctie en exclusieve bestuurlijke geldboete worden opgelegd aan natuurlijke personen voor dezelfde feiten.<br>
+<br>
+Met rechtspersonen als vermeld in het eerste en tweede lid, worden gelijkgesteld:<br>
+1° maatschappen;<br>
+2° rechtspersonen in oprichting.<br>
+<br>
+§3. De rechtspersoon is burgerrechtelijk aansprakelijk voor de administratieve sancties en exclusieve bestuurlijke geldboetes die opgelegd worden aan de leden van haar organen en aan de personen voor wie ze aansprakelijk is conform artikel 1384 van het Burgerlijk Wetboek.”.
+
+### ART 32.
+
+In artikel 56 van hetzelfde decreet, gewijzigd bij het decreet van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 1°, worden de woorden “of het Gemeenschappelijk Visserijbeleid” vervangen door de zinsnede “, het Europese Gemeenschappelijk Visserij- beleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen”;<br>
+2° in paragraaf 3, 1°, worden de woorden “of het Europese Gemeenschappelijk Landbouwbeleid” vervangen door de zinsnede “, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese en akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;”;<br>
+3° in paragraaf 3, 2°, worden de woorden “of het Europese Gemeenschappelijk Landbouwbeleid” vervangen door de zinsnede “het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;”;<br>
+4° in paragraaf 3 worden punt 3° en 4° vervangen door wat volgt:<br>
+“3° het bewust afleggen of voorleggen van valse of onvolledige verklaringen om een vergoeding, steun, erkenning, machtiging of een certificaat te verkrijgen of te behouden, die worden toegekend ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br>
+4° het voorwenden van een bepaalde situatie om een vergoeding, steun, erkenning, machtiging of een certificaat te verkrijgen of te behouden, die worden toegekend ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouwbeleid- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;”;<br>
+5° in paragraaf 4, eerste lid, wordt tussen het woord “inbreuken” en het woord “worden” de zinsnede “, vermeld in paragraaf 1 tot en met 3,” ingevoegd;<br>
+6° in paragraaf 5, eerste en tweede lid, worden de woorden “of het Europese Gemeenschappelijk Landbouwbeleid” vervangen door de zinsnede “, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen”.
+
+### ART 33.
+
+Artikel 57 van hetzelfde decreet, vervangen bij het decreet van 30 juni 2017, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 57. Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden leggen de exclusieve bestuurlijke geldboete, vermeld in artikel 56 op en vorderen deze in.”.
+
+### ART 34.
+
+In artikel 58, gewijzigd bij het decreet van 30 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden “de Vlaamse Regering aan te duiden personeelsleden” vervangen door de zinsnede “het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden”;<br>
+2° in paragraaf 2, eerste lid, worden de woorden “de door de Vlaamse Regering aan te duiden personeelsleden” vervangen door de zinsnede “het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden”.
+
+### ART 35.
+
+In artikel 58/1, ingevoegd bij het decreet van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt de zinsnede “Het personeelslid, vermeld in artikel 58, kan” vervangen door de zinsnede “Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, kunnen”;<br>
+2° in paragraaf 1 wordt punt 1° vervangen door wat volgt:<br>
+“1° aan de overtreder geen exclusieve bestuurlijke geldboete als vermeld in artikel 56, is opgelegd voor vergelijkbare feiten.”;<br>
+3° in paragraaf 2 wordt de zinsnede “Het personeelslid, vermeld in artikel 58, verleent” vervangen door de zinsnede “Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, verlenen”.
+
+### ART 36.
+
+In artikel 61 van hetzelfde decreet, gewijzigd bij het decreet van 6 juli 2018 wordt de zinsnede “Fonds toezicht en handhaving Landbouwdecreet, opgericht bij het decreet van 6 juli 2018 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018” vervangen door de woorden “het Fonds toezicht en handhaving Landbouwdecreet”.
+
+### ART 37.
+
+In artikel 64 van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden “internationale akten” vervangen door de zinsnede “andere Europese en internationale akten die vorm geven aan het zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen” en worden de woorden “de personeelsleden die de Vlaamse Regering aanwijst” vervangen door de zinsnede “het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden”;<br>
+2° in paragraaf 2 worden de woorden “de personeelsleden die aangewezen zijn door de Vlaamse Regering”, vervangen door de zinsnede “het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden”;<br>
+3° paragraaf 3 wordt vervangen door wat volgt:<br>
+“§3. Conform artikel 50 kan de toezichthouder vermeld in paragraaf 1, eerste lid, een vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen op kosten en risico van de eigenaar of exploitant en, als dat nodig is, het vissersvaartuig voor rekening en risico van de eigenaar of exploitant aan de ketting leggen.”;<br>
+4° in paragraaf 4, eerste lid, wordt de zinsnede “67, eerste lid” vervangen door de zinsnede “56, §3”;<br>
+5° in paragraaf 4, tweede lid, worden de woorden “geldboete die is opgelegd door een in kracht van gewijsde gegane rechterlijke beslissing” vervangen door de zinsnede “exclusieve bestuurlijke geldboete, vermeld in artikel 56”.
+
+### ART 38.
+
+In artikel 65 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, tweede lid, worden de woorden “griffie van de bevoegde rechtbank” vervangen door de woorden “rekening van het Fonds toezicht en handhaving Landbouwdecreet” en worden de woorden “het misdrijf” vervangen door de woorden “de inbreuk”;<br>
+2° in paragraaf 3, eerste lid, wordt de zinsnede “67, eerste lid”, vervangen door de zinsnede “56, §3”;<br>
+3° in paragraaf 3, derde lid, worden de woorden “griffie van de bevoegde rechtbank” vervangen door de woorden “instantie die de Vlaamse Regering aanwijst”, worden de woorden “op de griffie van de rechtbank” vervangen door de woorden “bij de instantie die de Vlaamse Regering aanwijst” en worden de woorden “het misdrijf” vervangen door de woorden “de inbreuk”.
+
+### ART 39.
+
+In artikel 66 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “veroordeling kan de rechtbank altijd de verbeurdverklaring” vervangen door de zinsnede “het opleggen van een exclusieve bestuurlijke geldboete kunnen de personen, vermeld in artikel 57, altijd de bestuurlijke verbeurdverklaring”;<br>
+2° in het tweede lid wordt tussen het woord “De” en het woord “verbeurdverklaring” het woord “bestuurlijke” ingevoegd en wordt het woord “uitgesproken” vervangen door het woord “bevolen”;<br>
+3° in het derde lid worden de woorden “rechtbank beveelt”, vervangen door de zinsnede “personen, vermeld in artikel 57, bevelen” en wordt het woord “veroordeelde” vervangen door het woord “overtreder”;<br>
+4° het vierde lid wordt opgeheven.
+
+### ART 40.
+
+Artikel 67 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+“Art. 67. Als een inbreuk betrekking heeft op een ernstige inbreuk in het kader van illegale, ongemelde of ongereglementeerde visserij, wordt de exclusieve bestuurlijke geldboete vermeld in artikel 56, vermeerderd met een bedrag dat overeenkomt met minimaal vijf keer tot maximaal acht keer de waarde van de visserijproducten die door het plegen van de ernstige inbreuk zijn verkregen.<br>
+<br>
+Bij herhaling van een ernstige inbreuk binnen een periode van vijf jaar, mag de bestuurlijke geldboete vermeld in het eerste lid, niet minder bedragen dan acht keer de waarde van de visserijproducten die door het plegen van de ernstige inbreuk zijn verkregen.”.
+
+### ART 41.
+
+Artikel 68 van hetzelfde decreet wordt opgeheven.
+
 ### ART 42.
 
 In artikel 71 van hetzelfde decreet wordt punt 5° opgeheven.
