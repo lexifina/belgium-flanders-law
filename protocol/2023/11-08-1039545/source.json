@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039545,
+  "title": "Protocol van 2023-11-08 gesloten tussen de federale overheid en de overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet betreffende intermediaire ziekenwagens",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039545/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "f8ce824355dc2f2cc5182fb06bb4b016e4f193195b4b58c34f876547537fe151",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039545&param=informatie",
+  "as_of": "2024-04-01",
+  "made": "2023-11-08",
+  "gazette": "2024-03-22",
+  "numac": 2024001794,
+  "document_start": "2024-04-01",
+  "document_end": null,
+  "in_force": "2024-04-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2024-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
