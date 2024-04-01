@@ -2,16 +2,16 @@
   "codex_id": 1011079,
   "title": "Decreet van 2003-04-04 betreffende het sociaal-cultureel volwassenenwerk",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011079/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "245ee6c1604c2ceeec558b503b0df2de9335214bedd784d9b68d5c9803b5d26f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011079/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "8c2b1cfe174aaf0673fdfd742df74e19f6cdbed1d647ef9681276332ef11bcb4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011079&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-04-01",
   "made": "2003-04-04",
   "gazette": "2003-05-28",
   "numac": 2003035522,
   "document_start": null,
   "document_end": "2024-03-31",
-  "in_force": "2021-01-01",
+  "in_force": "2024-04-01",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
 }
