@@ -445,11 +445,11 @@ Deze onderafdeling is ook van toepassing op de andere afdelingen van   hoofdstuk
 
 ### ART. 44.
 
-<p>Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie en met behoud van de toepassing van afdeling 2, houden de personeelsleden die de Vlaamse Regering aanwijst toezicht op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid en het Europese Gemeenschappelijk Visserijbeleid.</p>
+<p>Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie en met behoud van de toepassing van afdeling 2, houden de personeelsleden van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, toezicht op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid en de andere Europese en internationale akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen.</p>
 
 <p>In uitvoering van het eerste lid, kan de Vlaamse Regering de specifieke toezichtopdracht van de verschillende toezichthouders nader bepalen.</p>
 
-<p>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht kunnen doorgegeven worden binnen het beleidsdomein Landbouw en Visserij, aan de controleorganen, vermeld in artikel 45, en aan derden. De Vlaamse Regering kan hiervoor nadere modaliteiten bepalen.</p>
+<p>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht kunnen doorgegeven worden binnen het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023,&nbsp;aan de controleorganen, vermeld in artikel 45, en aan derden. De Vlaamse Regering kan hiervoor nadere modaliteiten bepalen.</p>
 
 ### ART 44/1.
 
@@ -457,7 +457,11 @@ De statutaire en contractuele personeelsleden die de Vlaamse Regering aanwijst, 
 
 ### ART. 45.
 
-<P>De Vlaamse Regering kan de toezichtopdracht voor de door haar bepaalde   aangelegenheden toevertrouwen aan één of meer controleorganen.<BR></P>  <P>De Vlaamse Regering kan de erkenning van de controleorganen en het toezicht   op die controleorganen nader regelen en de opdrachten van de controleorganen   vaststellen.<BR></P>  <P>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht   kunnen doorgegeven worden aan entiteiten van het beleidsdomein Landbouw en   Visserij, aan de controleorganen en aan derden. De Vlaamse Regering kan hiervoor   nadere modaliteiten bepalen.<BR></P>
+<p>De Vlaamse Regering kan de toezichtopdracht voor de door haar bepaalde aangelegenheden toevertrouwen aan één of meer controleorganen.</p>
+
+<p>De Vlaamse Regering kan de erkenning van de controleorganen en het toezicht op die controleorganen nader regelen en de opdrachten van de controleorganen vaststellen.</p>
+
+<p>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht kunnen doorgegeven worden aan entiteiten van het Agentschap Landbouw en Zeevisserij opgericht bij besluit van de Vlaamse Regering van 15 september 2023, aan de controleorganen en aan derden. De Vlaamse Regering kan hiervoor nadere modaliteiten bepalen.</p>
 
 ### ART 45/1.
 
@@ -495,7 +499,7 @@ Toezichthouders mogen vaststellingen doen met behulp van audiovisuele   middelen
 
 ### ART. 49.
 
-<p>§ 1. Toezichthouders mogen zaken onderzoeken of laten onderzoeken met behoud van de toepassing van artikel 5, § 2, door een daarvoor erkend laboratorium. Ze mogen zaken onder meer beproeven of laten beproeven, er monsters van nemen of laten nemen en ze meten&nbsp;met gebruik van technische middelen of laten meten. Ze mogen daarvoor verpakkingen openen of laten openen.</p>
+<p>§ 1. Toezichthouders mogen zaken onderzoeken of laten onderzoeken met behoud van de toepassing van artikel 5, § 2, door een daarvoor aangewezen of erkend laboratorium. Ze mogen zaken onder meer beproeven of laten beproeven, er monsters van nemen of laten nemen en ze meten&nbsp;met gebruik van technische middelen of laten meten. Ze mogen daarvoor verpakkingen openen of laten openen.</p>
 
 <p>Als het onderzoek niet ter plaatse uitgevoerd kan worden, mogen ze :<br>
 1° de zaken voor dat doel meenemen tegen een door hen af te geven schriftelijk bewijs;<br>
@@ -508,6 +512,15 @@ Toezichthouders mogen vaststellingen doen met behulp van audiovisuele   middelen
 <p>§ 3. De Vlaamse Regering stelt de nadere regels vast voor de uitvoering van de onderzoeken en de bijbehorende analyses.<br>
 <br>
 De Vlaamse Regering kan technische voorschriften vaststellen waaraan de technische middelen, vermeld in paragraaf 1, eerste lid, moeten voldoen.</p>
+
+### ART 49/1.
+
+De toezichthouder heeft de volgende rechten:<br>
+1° de aard en de omvang van de goederen of van de verrichte activiteiten, met inbegrip van de productie-, verpakkings- en verzendingssystemen en methoden controleren en verifiëren;<br>
+2° de stand van uitvoering van de gefinancierde werkzaamheden en investeringen, en het gebruik en de bestemming van de uitgevoerde investeringen controleren en verifiëren;<br>
+3° de financiële en technische uitvoering van gesubsidieerde projecten controleren en verifiëren.<br>
+<br>
+De toezichthouder is bevoegd verpakkingen te openen bij de uitoefening van de rechten, vermeld in het eerste lid.
 
 ### ART. 50.
 
@@ -529,11 +542,11 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 <p>Indien de termijnen, vermeld in het&nbsp;tweede lid niet nageleefd worden, verliest het procesverbaal zijn bijzondere bewijswaarde tot bewijs van het tegendeel.</p>
 
-<p>De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de naleving van dit decreet, en de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid.</p>
+<p>De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de naleving van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen.</p>
 
 ### ART. 54.
 
-De toezichthouders kunnen, bij administratieve maatregel, bewarend beslag leggen op producten, grondstoffen en productiemiddelen die het resultaat zijn van of gebruikt worden voor de activiteiten, vermeld in artikel 3, § 1, waarvan ze vermoeden dat het gebruik of de productie niet beantwoordt aan de bepalingen van dit decreet, de uitvoeringsbesluiten ervan en de bepalingen van het Europese landbouw- of zeevisserijbeleid, als dat noodzakelijk is voor de opsporing, voor het onderzoek, voor het leveren van het bewijs voor de inbreuken of als het gevaar bestaat dat met die zaken de inbreuken worden voortgezet of nieuwe inbreuken zullen worden gepleegd.<br>
+De toezichthouders kunnen, bij administratieve maatregel, bewarend beslag leggen op producten, grondstoffen en productiemiddelen die het resultaat zijn van of gebruikt worden voor de activiteiten, vermeld in artikel 3, § 1, waarvan ze vermoeden dat het gebruik of de productie niet beantwoordt aan de bepalingen van dit decreet, de uitvoeringsbesluiten ervan en de bepalingen van het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen, als dat noodzakelijk is voor de opsporing, voor het onderzoek, voor het leveren van het bewijs voor de inbreuken of als het gevaar bestaat dat met die zaken de inbreuken worden voortgezet of nieuwe inbreuken zullen worden gepleegd.<br>
 <br>
 De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen, tenzij een langere periode noodzakelijk is om het monster te analyseren. De toezichthouders geven de beslagene een kopie van het schriftelijke bewijs van inbeslagname met een inventaris van de in beslag genomen goederen. Het bewarend beslag wordt gelicht bij beslissing van de persoon die het heeft gelegd, door het verstrijken van de termijn of door het beslag, vermeld in artikel 62.
 
@@ -541,7 +554,7 @@ De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen, tenzij 
 
 ### ART. 55.
 
-<p>Als een inbreuk op dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid, wordt vastgesteld, kunnen de door de Vlaamse Regering aangewezen&nbsp;personeelsleden een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
+<p>Als een inbreuk op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen, wordt vastgesteld, kunnen het hoofd van het Agentschap Landbouw en Zeevisserij opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
 
 <p>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen vijftien dagen na de vaststelling van de inbreuk.</p>
 
@@ -550,28 +563,44 @@ De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen, tenzij 
 2° in voorkomend geval, de termijn waarin een einde gemaakt moet worden aan de inbreuk;<br>
 3° dat, als geen gevolg gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en een exclusieve bestuurlijke geldboete, als vermeld in artikel 56, opgelegd kan worden.</p>
 
+### ART 55/1.
+
+§1. Een inbreuk kan worden bestraft met een administratieve sanctie en exclusieve bestuurlijke geldboete conform de bepalingen van dit decreet. De administratieve sanctie en exclusieve bestuurlijke geldboete kan worden opgelegd aan diegene die de inbreuk heeft gepleegd, er opdracht toe heeft gegeven of er zijn medewerking aan heeft verleend.<br>
+<br>
+§2. Een administratieve sanctie en exclusieve bestuurlijke geldboete kan worden opgelegd aan een rechtspersoon voor de volgende inbreuken:<br>
+1° inbreuken die intrinsiek verband houden met de verwezenlijking van zijn doel of de waarneming van zijn belangen;<br>
+2° inbreuken die, zoals blijkt uit de concrete omstandigheden, voor zijn rekening zijn gepleegd.<br>
+<br>
+Het opleggen van een administratieve sanctie en exclusieve bestuurlijke geldboete aan rechtspersonen sluit niet uit dat een administratieve sanctie en exclusieve bestuurlijke geldboete worden opgelegd aan natuurlijke personen voor dezelfde feiten.<br>
+<br>
+Met rechtspersonen als vermeld in het eerste en tweede lid, worden gelijkgesteld:<br>
+1° maatschappen;<br>
+2° rechtspersonen in oprichting.<br>
+<br>
+§3. De rechtspersoon is burgerrechtelijk aansprakelijk voor de administratieve sancties en exclusieve bestuurlijke geldboetes die opgelegd worden aan de leden van haar organen en aan de personen voor wie ze aansprakelijk is conform artikel 1384 van het Burgerlijk Wetboek.
+
 ### ART. 56.
 
 <p>§ 1. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 25 euro en maximaal 1.000 euro :<br>
-1° inbreuken op administratieve verplichtingen die voortvloeien uit dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Gemeenschappelijk Visserijbeleid;<br>
+1° inbreuken op administratieve verplichtingen die voortvloeien uit dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid, het Europese Gemeenschappelijk Visserij beleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br>
 2° het oneigenlijk indienen van steunaanvragen;<br>
 3° het verstrekken van onjuiste of onvolledige informatie, zonder het oogmerk om ten onrechte een vergoeding of steun te verkrijgen of te behouden, die geheel of gedeeltelijk ten laste is van de Vlaamse overheid, van de Europese Unie of een andere internationale instelling.</p>
 
 <p>§ 2. Personen die binnen een termijn van dertig dagen na aanmaning de verplichte bijdragen en retributies opgelegd in uitvoering van dit decreet, de uitvoeringsbesluiten ervan en het decreet van 19 mei 2006 betreffende de oprichting en de werking van het Fonds voor Landbouw en Visserij en de uitvoeringsbesluiten ervan niet betalen, kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 100 euro en maximaal 5.000 euro.</p>
 
 <p>§ 3. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 100 euro tot maximaal 250.000 euro :<br>
-1° inbreuken op dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid;<br>
-2° het verhinderen van of niet-meewerken aan een controle ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, of het Europese Gemeenschappelijk Landbouwbeleid;<br>
-3° het bewust afleggen van valse of onvolledige verklaringen om een vergoeding of steun te verkrijgen of te behouden die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid wordt toegekend;<br>
-4° het voorwenden van een bepaalde situatie met het oog op het verkrijgen of behouden van steun die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid wordt toegekend.</p>
+1° inbreuken op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese en akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br>
+2° het verhinderen van of niet-meewerken aan een controle ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br>
+3° het bewust afleggen of voorleggen van valse of onvolledige verklaringen om een vergoeding, steun, erkenning, machtiging of een certificaat te verkrijgen of te behouden, die worden toegekend ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br>
+4° het voorwenden van een bepaalde situatie om een vergoeding, steun, erkenning, machtiging of een certificaat te verkrijgen of te behouden, die worden toegekend ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouwbeleid- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;.</p>
 
-<p>§ 4. Bij samenloop van verschillende inbreuken worden de bedragen van de exclusieve bestuurlijke geldboeten samengevoegd, zonder dat die samen hoger mogen zijn dan het dubbel van het maximumbedrag, vermeld in de derde paragraaf.</p>
+<p>§ 4. Bij samenloop van verschillende inbreuken, vermeld in paragraaf 1 tot en met 3, worden de bedragen van de exclusieve bestuurlijke geldboeten samengevoegd, zonder dat die samen hoger mogen zijn dan het dubbel van het maximumbedrag, vermeld in de derde paragraaf.</p>
 
 <p>Bij herhaling binnen drie jaar na de oplegging van een exclusieve bestuurlijke geldboete, wegens een van de inbreuken, vermeld in de vorige paragrafen, kan de exclusief bestuurlijke geldboete verdubbeld worden.</p>
 
-<p>§ 5. Als een inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid kan bovenop de sancties, vermeld in de voorgaande paragrafen een weigering of verlaging van steun worden opgelegd.</p>
+<p>§ 5. Als een inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen&nbsp; kan bovenop de sancties, vermeld in de voorgaande paragrafen een weigering of verlaging van steun worden opgelegd.</p>
 
-<p>Als een door de Vlaamse Regering aan te duiden ernstige inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid, kan bovenop de sancties, vermeld in de vorige paragrafen een uitsluiting van steun worden opgelegd voor een termijn van maximaal vijf jaar.</p>
+<p>Als een door de Vlaamse Regering aan te duiden ernstige inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en de andere Europese akten die vorm geven aan het landbouw- en zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen, kan bovenop de sancties, vermeld in de vorige paragrafen een uitsluiting van steun worden opgelegd voor een termijn van maximaal vijf jaar.</p>
 
 <p>§ 6. De exclusieve bestuurlijke geldboeten, vermeld in dit artikel kunnen worden vermeerderd met een bedrag dat overeenkomt met het economisch voordeel dat voortvloeit uit het plegen van de inbreuk. Bovendien kunnen ook de expertisekosten ten laste worden gelegd van de overtreder.</p>
 
@@ -579,15 +608,15 @@ De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen, tenzij 
 
 ### ART. 57.
 
-De Vlaamse Regering wijst de personeelsleden aan die de exclusieve bestuurlijke geldboete, vermeld in artikel 56, opleggen en invorderen.
+Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden leggen de exclusieve bestuurlijke geldboete, vermeld in artikel 56 op en vorderen deze in.
 
 ### ART. 58.
 
-<p>§ 1. Na de ontvangst van het proces-verbaal, vermeld in artikel 53, brengen de door de Vlaamse Regering aan te duiden&nbsp;personeelsleden binnen een termijn van zestig dagen, de vermoedelijke overtreder op de hoogte van het voornemen om een exclusieve bestuurlijke geldboete op te leggen.</p>
+<p>§ 1. Na de ontvangst van het proces-verbaal, vermeld in artikel 53, brengen de door het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden binnen een termijn van zestig dagen, de vermoedelijke overtreder op de hoogte van het voornemen om een exclusieve bestuurlijke geldboete op te leggen.</p>
 
 <p>De vermoedelijke overtreder kan binnen een termijn van dertig dagen die volgt op de kennisgeving van dit bericht schriftelijk zijn verweer meedelen. Als de vermoedelijke overtreder zijn schriftelijk verweer mondeling wenst toe te lichten, moet hij hierom uitdrukkelijk in het schriftelijk verweer verzoeken.</p>
 
-<p>§ 2. Binnen een termijn van negentig dagen, na de kennisgeving van het voornemen om een exclusieve bestuurlijke geldboete op te leggen en na de vermoedelijke overtreder in voorkomend geval te hebben gehoord beslissen de door de Vlaamse Regering aan te duiden personeelsleden over het opleggen van de exclusieve bestuurlijke geldboetes, vermeld in artikel 56.</p>
+<p>§ 2. Binnen een termijn van negentig dagen, na de kennisgeving van het voornemen om een exclusieve bestuurlijke geldboete op te leggen en na de vermoedelijke overtreder in voorkomend geval te hebben gehoord beslissen het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden over het opleggen van de exclusieve bestuurlijke geldboetes, vermeld in artikel 56.</p>
 
 <p>De beslissing, vermeld in het eerste lid, bepaalt het bedrag van de exclusieve bestuurlijke geldboete.</p>
 
@@ -597,13 +626,13 @@ De Vlaamse Regering wijst de personeelsleden aan die de exclusieve bestuurlijke 
 
 ### ART 58/1.
 
-§ 1. Het personeelslid, vermeld in artikel 58, kan besluiten dat de beslissing tot oplegging van een exclusieve bestuurlijke geldboete, vermeld in artikel 56, niet of maar gedeeltelijk zal worden uitgevoerd als tijdens de periode van vijf jaar die aan de nieuwe inbreuk voorafgaat:<br>
-1° aan de overtreder geen administratieve geldboete als vermeld in artikel 56, is opgelegd;<br>
+§ 1. Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, kunnen besluiten dat de beslissing tot oplegging van een exclusieve bestuurlijke geldboete, vermeld in artikel 56, niet of maar gedeeltelijk zal worden uitgevoerd als tijdens de periode van vijf jaar die aan de nieuwe inbreuk voorafgaat:<br>
+1° aan de overtreder geen exclusieve bestuurlijke geldboete als vermeld in artikel 56, is opgelegd voor vergelijkbare feiten;<br>
 2° de overtreder niet veroordeeld is tot een strafrechtelijke geldboete van 50 tot 500 euro, van 100 tot 1000 euro, van 600 tot 6000 euro, of een gevangenisstraf van zes maanden tot drie jaar.<br>
 <br>
 Een strafrechtelijke sanctie of exclusieve bestuurlijke geldboete die vroeger uitgesproken is of opgelegd is voor feiten die voortvloeien uit hetzelfde misdadige opzet, vormt geen beletsel om uitstel te verlenen.<br>
 <br>
-§ 2. Het personeelslid, vermeld in artikel 58, verleent het uitstel bij dezelfde beslissing als de beslissing waarbij hij de exclusieve bestuurlijke geldboete oplegt.<br>
+§ 2. Het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, verlenen het uitstel bij dezelfde beslissing als de beslissing waarbij hij de exclusieve bestuurlijke geldboete oplegt.<br>
 <br>
 § 3. De referteperiode mag niet korter dan een jaar en niet langer dan drie jaar zijn vanaf de datum van de kennisgeving van de beslissing tot oplegging van de exclusieve bestuurlijke geldboete.<br>
 <br>
@@ -627,7 +656,7 @@ Degene aan wie een exclusief bestuurlijke geldboete als vermeld in artikel 56, i
 
 ### ART. 61.
 
-De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden gestort aan Fonds toezicht en handhaving Landbouwdecreet, opgericht bij het decreet van 6 juli 2018 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018.
+De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden gestort aan het Fonds toezicht en handhaving Landbouwdecreet.
 
 ### ART. 62.
 
@@ -643,11 +672,11 @@ De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden gestort aan
 
 ### ART. 64.
 
-<p>§ 1. Met betrekking tot de zeevisserij en onverminderd de bevoegdheden van de officieren van gerechtelijke politie houden de personeelsleden die de Vlaamse Regering aanwijst, toezicht op de naleving van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Visserijbeleid en de internationale akten. Ze stellen de inbreuken daarop vast in processen-verbaal die bewijswaarde hebben tot het tegendeel is bewezen.</p>
+<p>§1. Met betrekking tot de zeevisserij en onverminderd de bevoegdheden van de officieren van gerechtelijke politie houden het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, toezicht op de naleving van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Visserijbeleid en de andere Europese en internationale akten die vorm geven aan het zeevisserijbeleid, vermeld in artikel 6, §1, V, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen.. Ze stellen de inbreuken daarop vast in processen-verbaal die bewijswaarde hebben tot het tegendeel is bewezen.</p>
 
 <p>De toezichthouders vermeld in het eerste lid, hebben daarvoor het recht om zich op elk moment aan boord van vissersvaartuigen te begeven, de overlegging van alle scheepspapieren en alle bewijsstukken te eisen, alsook zich te begeven in alle lokalen en plaatsen aan boord waar zich visserijproducten of vistuigen kunnen bevinden. Ze mogen alle documenten en bewijsstukken voor onderzoek in beslag nemen. In de uitoefening van hun opdracht mogen zij op elk moment fabrieken, magazijnen, bergplaatsen, kantoren, vervoermiddelen, bedrijfsgebouwen, veilingen, markten, vismijnen en de in de open lucht gelegen bedrijven betreden. Zij mogen de plaatsen die tot woning dienen, slechts bezoeken met verlof van de rechter in de politierechtbank.</p>
 
-<p>§ 2. Als een inbreuk als vermeld in paragraaf 1, eerste lid, wordt vastgesteld, kunnen de personeelsleden die aangewezen zijn door de Vlaamse Regering, een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
+<p>§2. Als een inbreuk als vermeld in paragraaf 1, eerste lid, wordt vastgesteld, kunnen het hoofd van het Agentschap Landbouw en Zeevisserij, opgericht bij besluit van de Vlaamse Regering van 15 september 2023, en de door het hoofd aangewezen personeelsleden, een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
 
 <p>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen vijftien dagen na de vaststelling van de inbreuk.</p>
 
@@ -656,31 +685,51 @@ De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden gestort aan
 2° in voorkomend geval, de termijn waarin een einde gemaakt moet worden aan de inbreuk;<br>
 3° dat, als geen gevolg gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en naar de procureur des Konings gestuurd zal worden.</p>
 
-<p>§ 3. In geval van ontdekking op heterdaad mogen de toezichthouders, vermeld in paragraaf 1, eerste lid, met het doel een vervolging in te stellen en met instemming van de procureur des Konings bij de rechtbank van eerste aanleg in Brugge, het vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen op kosten en risico van de eigenaar of exploitant en, indien nodig, het vissersvaartuig voor rekening en risico van de eigenaar of exploitant aan de ketting leggen.</p>
+<p>§3. Conform artikel 50 kan de toezichthouder vermeld in paragraaf 1, eerste lid, een vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen op kosten en risico van de eigenaar of exploitant en, als dat nodig is, het vissersvaartuig voor rekening en risico van de eigenaar of exploitant aan de ketting leggen.</p>
 
-<p>Als de toezichthouders, vermeld in paragraaf 1, eerste lid, ernstige redenen hebben om te geloven dat er inbreuken zijn begaan, mogen ze, met instemming van de procureur des Konings bij de rechtbank van eerste aanleg in Brugge, het vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen, op kosten en risico van de eigenaar of exploitant. Als vervolgens een inbreuk wordt vastgesteld, mogen ze, indien nodig, het vissersvaartuig voor rekening en risico van de eigenaar of de exploitant aan de ketting leggen.</p>
+<p>§4. Als een vissersvaartuig aan de ketting is gelegd ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan en het Europese Gemeenschappelijk Visserijbeleid en de internationale akten, wordt het vissersvaartuig onmiddellijk vrijgegeven in ruil voor het stellen door de eigenaar of de persoon die voor zijn rekening handelt, van een borgsom of een bankgarantie, die overeenkomt met een bedrag dat vastgesteld wordt door de verbalisant en niet hoger mag zijn dan de maximumgeldboete, vermeld in artikel 56, §3. De borgsom of de bankgarantie moet, tegen afgifte van ontvangstbewijs, aan de verbalisant worden bezorgd die ze in bewaring geeft volgens de voorwaarden en de procedure die de Vlaamse Regering kan bepalen.</p>
 
-<p>§ 4. Als een vissersvaartuig aan de ketting is gelegd ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan en het Europese Gemeenschappelijk Visserijbeleid en de internationale akten, wordt het vissersvaartuig onmiddellijk vrijgegeven in ruil voor het stellen door de eigenaar of de persoon die voor zijn rekening handelt, van een borgsom of een bankgarantie, die overeenkomt met een bedrag dat vastgesteld wordt door de verbalisant en niet hoger mag zijn dan de maximumgeldboete, vermeld in artikel 67, eerste lid. De borgsom of de bankgarantie moet, tegen afgifte van ontvangstbewijs, aan de verbalisant worden bezorgd die ze in bewaring geeft volgens de voorwaarden en de procedure die de Vlaamse Regering kan bepalen.</p>
-
-<p>De geldboete die is opgelegd door een in kracht van gewijsde gegane rechterlijke beslissing, alsook alle andere kosten worden op de borgsom verhaald. Het overblijvende gedeelte wordt onmiddellijk terugbetaald. De rente van de in consignatie gegeven som wordt bij de borgsom gevoegd.</p>
+<p>De exclusieve bestuurlijke geldboete, vermeld in artikel 56, alsook alle andere kosten worden op de borgsom verhaald. Het overblijvende gedeelte wordt onmiddellijk terugbetaald. De rente van de in consignatie gegeven som wordt bij de borgsom gevoegd.</p>
 
 <p>§ 5. Als een vreemd vissersvaartuig aan de ketting wordt gelegd, wordt de vlaggenstaat via zijn diplomatieke vertegenwoordiger onmiddellijk op de hoogte gebracht van de genomen maatregelen en van de eventuele daarna opgelegde straffen.</p>
 
 ### ART. 65.
 
-<P>§ 1. Als een inbreuk als vermeld in artikel 64, § 1, eerste lid, wordt   vastgesteld, hebben de toezichthouders, vermeld in artikel 64, § 1, eerste lid,   bovendien het recht onmiddellijk beslag te leggen op de visserijproducten, het   vistuig en andere productiemiddelen.<BR></P>  <P>§ 2. De toezichthouders, vermeld in artikel 64, § 1, eerste lid, mogen de in   beslag genomen visserijproducten : <BR>1° verkopen of aan een   liefdadigheidsinstelling schenken;<BR>2° ontaarden of verwerken en tot een ander   gebruik bestemmen, op kosten van de overtreder;<BR>3° opnieuw in zee werpen of   laten werpen; <BR>4° vernietigen, op kosten van de overtreder.<BR></P>  <P>In geval van verkoop van de in beslag genomen visserijproducten, vermeld in   het eerste lid, 1°, wordt de ontvangen som op de griffie van de bevoegde   rechtbank gedeponeerd tot over het misdrijf een eindbeslissing is genomen. Het   bedrag treedt in de plaats van de in beslag genomen visserijproducten, zowel   voor de verbeurdverklaring als voor de eventuele teruggave.<BR></P>  <P>De Vlaamse Regering kan de voorwaarden van de verkoop, teruggave, ontaarding,   verwerking, herbestemming of vernietiging bepalen.<BR></P>  <P>§ 3. De toezichthouders, vermeld in artikel 64, § 1, eerste lid, mogen het in   beslag genomen vistuig en andere productiemiddelen teruggeven aan de overtreder   tegen het stellen van een borgsom of een bankgarantie, die overeenkomt met een   bedrag dat vastgesteld wordt door de toezichthouder en niet hoger mag zijn dan   een vijfde van de maximumgeldboete, vermeld in artikel 67, eerste lid.<BR></P>  <P>De mogelijkheid, vermeld in het eerste lid, kan niet worden gebruikt als de   vistuigen of de productiemiddelen niet voldoen aan Europese of Vlaamse   reglementering.<BR></P>  <P>De in beslag genomen vistuigen en andere productiemiddelen worden in bewaring   gegeven bij de griffie van de bevoegde rechtbank. De borgsom of de bankgarantie   moet, tegen afgifte van ontvangstbewijs, worden bezorgd aan de toezichthouder   die ze op de griffie van de rechtbank deponeert tot over het misdrijf een   eindbeslissing is genomen. Het bedrag treedt in de plaats van het in beslag   genomen vistuig en andere productiemiddelen, zowel voor de verbeurdverklaring   als voor de eventuele teruggave.<BR></P>
+<p>§ 1. Als een inbreuk als vermeld in artikel 64, § 1, eerste lid, wordt vastgesteld, hebben de toezichthouders, vermeld in artikel 64, § 1, eerste lid, bovendien het recht onmiddellijk beslag te leggen op de visserijproducten, het vistuig en andere productiemiddelen.</p>
+
+<p>§ 2. De toezichthouders, vermeld in artikel 64, § 1, eerste lid, mogen de in beslag genomen visserijproducten :<br>
+1° verkopen of aan een liefdadigheidsinstelling schenken;<br>
+2° ontaarden of verwerken en tot een ander gebruik bestemmen, op kosten van de overtreder;<br>
+3° opnieuw in zee werpen of laten werpen;<br>
+4° vernietigen, op kosten van de overtreder.</p>
+
+<p>In geval van verkoop van de in beslag genomen visserijproducten, vermeld in het eerste lid, 1°, wordt de ontvangen som op de rekening van het Fonds toezicht en handhaving Landbouwdecreet gedeponeerd tot over de inbreuk een eindbeslissing is genomen. Het bedrag treedt in de plaats van de in beslag genomen visserijproducten, zowel voor de verbeurdverklaring als voor de eventuele teruggave.</p>
+
+<p>De Vlaamse Regering kan de voorwaarden van de verkoop, teruggave, ontaarding, verwerking, herbestemming of vernietiging bepalen.</p>
+
+<p>§ 3. De toezichthouders, vermeld in artikel 64, § 1, eerste lid, mogen het in beslag genomen vistuig en andere productiemiddelen teruggeven aan de overtreder tegen het stellen van een borgsom of een bankgarantie, die overeenkomt met een bedrag dat vastgesteld wordt door de toezichthouder en niet hoger mag zijn dan een vijfde van de maximumgeldboete, vermeld in artikel 56, §3.</p>
+
+<p>De mogelijkheid, vermeld in het eerste lid, kan niet worden gebruikt als de vistuigen of de productiemiddelen niet voldoen aan Europese of Vlaamse reglementering.</p>
+
+<p>De in beslag genomen vistuigen en andere productiemiddelen worden in bewaring gegeven bij de instantie die de Vlaamse Regering aanwijst. De borgsom of de bankgarantie moet, tegen afgifte van ontvangstbewijs, worden bezorgd aan de toezichthouder die ze bij de instantie die de Vlaamse Regering aanwijst deponeert tot over de inbreuk een eindbeslissing is genomen. Het bedrag treedt in de plaats van het in beslag genomen vistuig en andere productiemiddelen, zowel voor de verbeurdverklaring als voor de eventuele teruggave.</p>
 
 ### ART. 66.
 
-<P>Bij veroordeling kan de rechtbank altijd de verbeurdverklaring van de in   beslag genomen visserijproducten, vistuigen en andere productiemiddelen   bevelen.<BR></P>  <P>De verbeurdverklaring wordt altijd uitgesproken en de vernietiging wordt   altijd bevolen als het vistuigen of productiemiddelen betreft die niet voldoen   aan Europese of Vlaamse reglementering en als de aard van het visserijproduct   dat vereist.<BR></P>  <P>Als de rechtbank beveelt om de visserijproducten, vistuigen of   productiemiddelen te vernietigen, zijn de kosten daarvan voor rekening van de   veroordeelde.<BR></P>  <P>De rechtbank kan daarenboven de bekendmaking van het vonnis bevelen in een of   meer dagbladen en de aanplakking ervan op de plaatsen en gedurende de periode   die ze vaststelt, volledig voor rekening van de   veroordeelde.<BR></P>
+<p>Bij het opleggen van een exclusieve bestuurlijke geldboete kunnen de personen, vermeld in artikel 57, altijd de bestuurlijke verbeurdverklaring van de in beslag genomen visserijproducten, vistuigen en andere productiemiddelen bevelen.</p>
+
+<p>De bestuurlijke verbeurdverklaring wordt altijd bevolen en de vernietiging wordt altijd bevolen als het vistuigen of productiemiddelen betreft die niet voldoen aan Europese of Vlaamse reglementering en als de aard van het visserijproduct dat vereist.</p>
+
+<p>Als de personen, vermeld in artikel 57, bevelen om de visserijproducten, vistuigen of productiemiddelen te vernietigen, zijn de kosten daarvan voor rekening van de overtreder.</p>
 
 ### ART. 67.
 
-<P>&nbsp;De volgende personen worden gestraft met een gevangenisstraf van   vijftien dagen tot vijf jaar en met een geldboete van 100 euro tot 50.000 euro,   of met een van die straffen alleen en voor zover die inbreuken betrekking hebben   op de zeevisserij of aquacultuur : <BR>1° personen die een inbreuk plegen op of   misbruik maken van een etiketteringsvoorschrift;<BR>2° personen die, op welke   wijze ook, veinzen of valselijk beweren dat een grondstof, of product of zijn   activiteiten door de overheid zijn gekeurd of erkend, of personen die zich   valselijk op die keuring, controle of erkenning beroepen;<BR>3° personen die   bedrog plegen, hetzij met betrekking tot een van de hoofdzakelijke hoedanigheden   van een grondstof als vermeld in dit decreet, hetzij door voor de aanduiding of   betiteling van die grondstoffen een benaming te gebruiken die hen niet toekomt,   hetzij door andere bedrieglijke praktijken te stellen die tot doel hebben in het   bestaan van die hoedanigheden te doen geloven;<BR>4° personen die, zonder   geldige erkenning, machtiging of voorafgaande melding, een grondstof of product   verwerven, aanbieden, vervoeren, in-, uit- of doorvoeren, bereiden,   vervaardigen, in hun bezit hebben of in de handel brengen als daarvoor een   erkenning, machtiging of voorafgaande melding vereist is;<BR>5° personen die een   grondstof of een product, of een monster ervan, vervalsen of laten   vervalsen;<BR>6° personen die een grondstof of product te koop aanbieden of in   voorraad houden voor de verkoop, te koop stellen, verkopen of leveren, terwijl   ze weten dat de grondstof of het product vervalst is;<BR>7° personen die   kwaadwillig of bedrieglijk vervalsingprocedés voor een grondstof of product   verspreiden of bekendmaken;<BR>8° personen die een grondstof of product in de   handel brengen, verwerven, aanbieden, voor de verkoop ervan tentoonstellen, in   hun bezit houden, bereiden, vervoeren, verkopen, leveren, afstaan, invoeren,   uitvoeren of doorvoeren, als die handeling verboden is;<BR>9° personen die een   grondstof uitvoeren met vermelding van de toepassingen die niet toegelaten zijn   in het land van bestemming;<BR>10° personen die een grondstof of product   gebruiken in omstandigheden of voor een toepassing die verboden is;<BR>11°   personen die bewust valse of onvolledige verklaringen afleggen om een vergoeding   of steun te verkrijgen of te behouden, die geheel of gedeeltelijk ten laste van   de Vlaamse overheid, van de Europese Unie of een andere internationale   instelling is;<BR>12° personen die nalaten de verplichte aanduidingen aan te   brengen;<BR>13° personen die zich verzetten tegen bezoeken, inspecties,   controles, monsternemingen of vragen naar inlichtingen of documenten door de   toezichthouders of die, willens en wetens, onjuiste inlichtingen of documenten   verstrekken;<BR>14° personen die weigeren te gehoorzamen aan de bevelen die door   de toezichthouders, vermeld in artikel 64, § 1, eerste lid, worden   gegeven;<BR>15° personen die een inbreuk plegen op de bepalingen over de   zeevisserij in het Europese Gemeenschappelijk Visserijbeleid, dit decreet of de   uitvoeringsbesluiten ervan, die geen inbreuk is als vermeld in punt 1° tot en   met 13°.<BR></P>  <P>Personen die een inbreuk als vermeld in het eerste lid, begaan in de   territoriale zee, worden gestraft met een gevangenisstraf van vijftien dagen tot   één jaar en met de geldboete, vermeld in dit artikel, of met een van die   straffen alleen.<BR></P>  <P>Als de inbreuk wordt begaan tussen zonsondergang en zonsopgang of bij   herhaling binnen drie jaar na de vorige veroordeling wegens een van de   misdrijven, vermeld in het eerste lid, kunnen de maximumstraffen verdubbeld   worden. De rechtbank kan bij herhaling binnen drie jaar na de vorige   veroordeling wegens een van de misdrijven, vermeld in het eerste lid, daarnaast   de sluiting bevelen van de inrichting van de veroordeelde voor een termijn van   acht dagen tot een jaar.<BR></P>  <P>Met behoud van de toepassing van het koninklijk besluit van 28 december 1950   houdende algemeen reglement op de gerechtskosten in strafzaken, wordt de   overtreder ook veroordeeld tot betaling van alle gemaakte kosten, met inbegrip   van de kosten die voortvloeien uit de inbeslagname van het vistuig en de   productiemiddelen.<BR></P>
+<p>Als een inbreuk betrekking heeft op een ernstige inbreuk in het kader van illegale, ongemelde of ongereglementeerde visserij, wordt de exclusieve bestuurlijke geldboete vermeld in artikel 56, vermeerderd met een bedrag dat overeenkomt met minimaal vijf keer tot maximaal acht keer de waarde van de visserijproducten die door het plegen van de ernstige inbreuk zijn verkregen.<br>
+<br>
+Bij herhaling van een ernstige inbreuk binnen een periode van vijf jaar, mag de bestuurlijke geldboete vermeld in het eerste lid, niet minder bedragen dan acht keer de waarde van de visserijproducten die door het plegen van de ernstige inbreuk zijn verkregen.</p>
 
 ### ART. 68.
 
-Alleen de correctionele rechtbank van Brugge is bevoegd om kennis te nemen   van de inbreuken, vermeld in artikel 67, eerste lid.<BR>
+...
 
 ## Onderafdeling 2 Handhaving van het beleid inzake gespecialiseerde pluimveebedrijven
 
