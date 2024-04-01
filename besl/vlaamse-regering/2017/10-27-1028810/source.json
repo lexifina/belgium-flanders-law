@@ -2,16 +2,16 @@
   "codex_id": 1028810,
   "title": "Besluit van de Vlaamse Regering van 2017-10-27 betreffende de uitvoering van het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028810/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "78fbcb19a1d31a4a1e359e3bc14d660286b32988ab137a18cc98466ccd4f0b22",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028810/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "709653efb10e2cf3a0a33276da683052b2cadb35cb3d39e2ea3eed0ad4922a36",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028810&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2024-04-01",
   "made": "2017-10-27",
   "gazette": "2017-12-14",
   "numac": 2017031708,
   "document_start": "2018-01-01",
   "document_end": "2024-03-31",
-  "in_force": "2018-01-01",
+  "in_force": "2024-04-01",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
 }
