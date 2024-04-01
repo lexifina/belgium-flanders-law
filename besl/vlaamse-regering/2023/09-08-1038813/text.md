@@ -51,6 +51,10 @@ De sociale huurwoningen hebben na de uitvoering van de werkzaamheden minstens ee
 <br>
 De voorwaarden, vermeld in het tweede lid, gelden niet voor het verstrekken van de premie voor een individuele warmtepompboiler als vermeld in artikel 5.51, §2, eerste lid, 23°.”.
 
+### ART 3.
+
+Aan artikel 5.49, derde lid, van hetzelfde besluit, opnieuw opgenomen door artikel 2 van dit besluit, wordt de zinsnede “, en de premie voor elektrische sturing en regeling van elektrische boilers en accumulatoren als vermeld in artikel 5.51, §2, eerste lid, 27°” toegevoegd.
+
 ### ART 4.
 
 Artikel 5.50 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 25 september 2020 en 17 december 2021, wordt vervangen door wat volgt:&nbsp;<br>
@@ -140,6 +144,27 @@ De premiebedragen, vermeld in het eerste en tweede lid, kunnen worden toegekend 
 <br>
 §4. De premiebedragen, vermeld in paragraaf 1 en 3 of 2 en 3, mogen onderling en met andere energieprestatie-bevorderende voordelen en subsidies gecumuleerd worden, als ze samen de totale gefactureerde kostprijs van de werkzaamheden die betrekking hebben op de subsidiabele maatregelen, exclusief btw, niet overschrijden. Als de premiebedragen, gecumuleerd met andere voordelen en subsidies, de totale gefactureerde kostprijs overschrijden, worden de premiebedragen verminderd tot het verschil van de totale gefactureerde kostprijs en de gecumuleerde andere voordelen en subsidies.”.
 
+### ART 6.
+
+In artikel 5.51 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, en in artikel 5 van dit besluit, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1, tweede lid, worden een punt 11° en 12° toegevoegd, die luiden als volgt:<br>
+“11° 6000 euro voor een eengezinswoning of niet-gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel A wordt behaald;<br>
+12° 4500 euro voor een appartement of gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel A wordt behaald.”;<br>
+2° in paragraaf 1 wordt tussen het tweede en derde lid een lid ingevoegd, dat luidt als volgt:<br>
+"De verhoging van de premie, vermeld in het eerste lid, 11° en 12°, is niet van toepassing op een herbouw. Om in aanmerking te komen voor de verhoging van de premie, vermeld in het eerste lid, 11° en 12°, legt de woonmaatschappij bij de aanvraag een geldig EPC voor dat is uitgereikt vanaf 1 januari 2019, waaruit blijkt dat de eengezinswoning of de niet-gestapelde kamerwoning een energielabel E of F had, of dat het appartement of de gestapelde kamerwoning een energielabel D, E of F had. Binnen een jaar na het beëindigen van de werkzaamheden beschikt de woonmaatschappij over een nieuw geldig EPC of EPC-bouw.”;<br>
+3° aan paragraaf 2, eerste lid, wordt een punt 27° toegevoegd, dat luidt als volgt:<br>
+“27° een premie van 250 euro per appartement of gestapelde kamerwoning voor de levering, plaatsing en activering van sturings- en meetapparatuur voor zelflerende sturing en regeling van elektrische boilers voor sanitair warm water en accumulatoren voor woningverwarming.”;<br>
+4° in paragraaf 2 worden tussen het eerste en tweede lid, twee leden ingevoegd, die luiden als volgt:<br>
+“De premies, vermeld in het eerste lid, worden verhoogd met:<br>
+1° 4500 euro voor een eengezinswoning of niet-gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel B wordt behaald;<br>
+2° 6000 euro voor een eengezinswoning of niet-gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel A wordt behaald;<br>
+3° 3000 euro voor een appartement of gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel B wordt behaald;<br>
+4° 4500 euro voor een appartement of gestapelde kamerwoning als na het beëindigen van de werkzaamheden energielabel A wordt behaald.<br>
+De verhoging van de premie, vermeld in het tweede lid, is niet van toepassing op herbouw, ontmanteling of ingrijpende energetische renovatie. Om in aanmerking te komen voor de verhoging van de premie, vermeld in het tweede lid, legt de woonmaatschappij bij de aanvraag een geldig EPC voor dat is uitgereikt vanaf 1 januari 2019 waaruit blijkt dat de eengezinswoning of de niet-gestapelde kamerwoning een energielabel E of F had, of dat het appartement of de gestapelde kamerwoning een energielabel D, E of F had. Binnen een jaar na het beëindigen van de werkzaamheden beschikt de woonmaatschappij over een nieuw geldig EPC.”;<br>
+5° aan paragraaf 4 worden twee leden toegevoegd, die luiden als volgt:<br>
+“In afwijking van het eerste lid kunnen de premie, vermeld in paragraaf 1, tweede lid, 11° en 12°, en de verhoging van de premie, vermeld in paragraaf 2, tweede lid, niet worden gecumuleerd met de premie, vermeld in artikel 6.4.1/1/4 van het Energiebesluit van 19 november 2010.<br>
+In afwijking van het eerste lid kan de premie, vermeld in paragraaf 2, eerste lid, 27°, niet worden gecumuleerd met de premie, vermeld in artikel 6.4.1/1/5 van het Energiebesluit van 19 november 2010.”.
+
 ### ART 7.
 
 Artikel 5.52 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021 en 10 november 2022, wordt vervangen door wat volgt:&nbsp;<br>
@@ -189,6 +214,10 @@ De VMSW betaalt het saldo van het premiebedrag uit na de eindafrekening.<br>
 Als de VMSW een premie als vermeld in artikel 5.51, §2, eerste lid, 1° tot en met 8°, verstrekt, kan de VMSW gedurende vijf jaar vanaf de aanvraagdatum van de verstrekte premie, geen nieuwe premie voor dezelfde woning of kamerwoning verstrekken.<br>
 <br>
 Als de VMSW een premie als vermeld in artikel 5.51, §2, eerste lid, 9° tot en met 26° verstrekt, kan ze gedurende tien jaar vanaf de aanvraagdatum van de verstrekte premie, geen nieuwe premie verstrekken voor dezelfde woning of kamerwoning.”.
+
+### ART 9.
+
+In artikel 5.53, §4, derde lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021 en in artikel 8 van dit besluit, wordt de zinsnede “26°” vervangen door de zinsnede “27°”.
 
 ### ART 10.
 
