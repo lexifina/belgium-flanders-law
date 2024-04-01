@@ -24,6 +24,15 @@ Aan artikel 39bis van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 200
 <br>
 “§6. In afwijking van paragraaf 2 geldt volgende bepaling voor de vastbenoemde directeur in een onderwijsinternaat. Als een vastbenoemde directeur in een onderwijsinternaat op 1 september 2023 minstens gedurende de drie voorgaande volledige schooljaren ononderbroken afwezig was in het ambt van beheerder in een internaat, omdat hij gebruikmaakte van een of meerdere verlofstelsels als vermeld in paragraaf 4, kan de inrichtende macht zijn volledige betrekking vanaf 1 september 2023 als een vacante betrekking beschouwen, maar enkel en alleen als de betrokken directeur daarmee uitdrukkelijk akkoord is. Dat akkoord moet ondubbelzinnig blijken uit een document dat door de betrokken directeur voor akkoord ondertekend wordt.”.
 
+### ART 8.
+
+In artikel 4 van het decreet van 20 juni 1996 betreffende de subsidiëring van ouderkoepelverenigingen, vervangen bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 worden een tweede en derde lid toegevoegd, die luiden als volgt:<br>
+“De Vlaamse Regering kan de beheersovereenkomst die ze met elke ouderkoepelvereniging heeft afgesloten uitzonderlijk en eenmalig verlengen met één jaar om de continuïteit in de werking van elke ouderkoepelvereniging te waarborgen.<br>
+Binnen de beschikbare begrotingskredieten verleent de Vlaamse Regering voor de verlenging, vermeld in het tweede lid, aan elke ouderkoepelvereniging dezelfde subsidie-enveloppe als de subsidie-enveloppe die toegekend werd voor het voorafgaande jaar.”;<br>
+2° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+“§2/1. In het geval van een verlenging van de beheersovereenkomst, vermeld in paragraaf 1, tweede lid, gelden onverkort de bepalingen van paragraaf 2 met betrekking tot het jaarlijks actieplan, de jaarlijkse rapportering en de periodieke opvolging van de werking.”.
+
 ### ART 31.
 
 In artikel 140, §1, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2012 en gewijzigd bij de decreten van 9 juli 2021 en 8 juli 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -43,6 +52,38 @@ In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij
 ### ART 35.
 
 In artikel 154, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2022, wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
+
+### ART 36.
+
+Aan hoofdstuk IX van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 november 2023, wordt een afdeling 6 toegevoegd, die luidt als volgt:<br>
+<br>
+“Afdeling 6. Flexi-jobs”.
+
+### ART 37.
+
+In hetzelfde decreet wordt in afdeling 6, toegevoegd bij artikel 36, artikel 156, opgeheven door het decreet van 28 juni 2002, opnieuw opgenomen in de volgende lezing:<br>
+<br>
+“Art. 156. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een schoolbestuur kan bij een tekort aan onderwijzend of beleids- en ondersteunend personeel op de arbeidsmarkt eigen middelen, werkingsbudget als vermeld in artikel 76, of een deel van zijn omkadering dat omgezet kan worden naar een krediet, voor de wervingsambten van het onderwijzend of beleids- en ondersteunend personeel van een of meer van zijn scholen aanwenden om via een flexi-jobarbeidsovereenkomst in die school of scholen een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan onderwijzend of beleids- en ondersteunend personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het schoolbestuur in de school waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het onderwijzend of beleids- en ondersteunend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het schoolbestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 17, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 19, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het schoolbestuur hebben.<br>
+&nbsp;<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf 2, kan een schoolbestuur enkel het krediet gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 130bis en 141, §4.<br>
+<br>
+De mogelijkheid om het krediet, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
 
 ### ART 45.
 
@@ -68,6 +109,60 @@ In artikel 42 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009
 
 In artikel 72quater, §1, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009 en gewijzigd bij het decreet van 19 december 2014, wordt punt 1° opgeheven.
 
+### ART 57.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 december 2023, wordt een artikel 85bis ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 85bis. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een centrumbestuur kan bij een tekort aan personeel op de arbeidsmarkt in de wervingsambten eigen middelen, werkingsmiddelen als vermeld in artikel 89, of een deel van zijn omkadering dat omgezet kan worden naar een krediet, aanwenden voor de wervingsambten in een of meer van zijn centra om via een flexi-jobarbeidsovereenkomst in dat centrum of die centra een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het centrumbestuur in het centrum waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een voldoende geacht bekwaamheidsbewijs.<br>
+&nbsp;<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het centrumbestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie en de uitvoeringsbesluiten van dit decreet zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 27 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het centrumbestuur hebben.<br>
+<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf<br>
+2 kan een centrumbestuur enkel het krediet gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 85, §3.<br>
+<br>
+De mogelijkheid om het krediet, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
+
+### ART 59.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 december 2023, wordt een artikel 98ter ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 98ter. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een centrumbestuur kan bij een tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt eigen middelen, werkingsmiddelen als vermeld in artikel 108, of een deel van zijn omkadering dat omgezet kan worden naar een krediet, voor de wervingsambten van het onderwijzend of ondersteunend personeel van een of meer van zijn centra aanwenden om via een flexi-jobarbeidsovereenkomst in dat centrum of die centra een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het centrumbestuur in het centrum waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het onderwijzend of ondersteunend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+&nbsp;<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het centrumbestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 17, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 19, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het centrumbestuur hebben.<br>
+<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf<br>
+2 kan een centrumbestuur enkel het krediet gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 98, §3, en 98bis.<br>
+<br>
+De mogelijkheid om het krediet, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
+
 ### ART 60.
 
 In artikel 128bis/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, vervangen bij het decreet van 7 juli 2017 en gewijzigd bij het decreet van 8 juli 2022, wordt tussen de zinsnede “uitgekeerd door de VDAB,” en de woorden “of met andere middelen” de zinsnede “ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie,” ingevoegd.
@@ -80,6 +175,39 @@ In artikel 130ter, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet 
 
 In artikel 6, vierde lid, van hetzelfde decreet, vervangen bij het decreet van 1 juli 2011 en gewijzigd bij het decreet van 4 december 2015, worden punt 3°,<br>
 5°, 8°, 9°, 11°, 12° en 13° opgeheven.
+
+### ART 81.
+
+In deel III, titel 1, hoofdstuk 3, afdeling 2, van dezelfde codex, het laatst gewijzigd bij het decreet van 23 november 2023, wordt een onderafdeling 2/6 ingevoegd, die luidt als volgt:<br>
+<br>
+“Onderafdeling 2/6. Flexi-jobs”.
+
+### ART 82.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 22 december 2023, wordt in deel III, titel 1, hoofdstuk 3, afdeling 2, onderafdeling 2/6, ingevoegd bij artikel 81, een artikel 22/26 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 22/26. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een schoolbestuur kan bij een tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt eigen middelen, werkingsbudget als vermeld in artikel 249 of 329, of een deel van zijn omkadering dat omgezet kan worden naar een krediet, voor de wervingsambten van het onderwijzend of ondersteunend personeel van een of meer van zijn scholen aanwenden om via een flexi-jobarbeidsovereenkomst in die school of scholen een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het schoolbestuur in de school waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het onderwijzend of ondersteunend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het schoolbestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+&nbsp;<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 17, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 19, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het schoolbestuur hebben.<br>
+<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf 2 kan een schoolbestuur enkel het krediet gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 22/16, 211, §3 en §3bis, en artikel 308/5.<br>
+<br>
+De mogelijkheid om het krediet, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hier-<br>
+door eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
 
 ### ART 84.
 
@@ -137,6 +265,30 @@ In artikel II.187/1 van dezelfde codex, ingevoegd bij het decreet van 15 juli 20
 "Kandidaten voor meerdere toelatingsexamens als vermeld in paragraaf 1 en 2 en in artikel II.187/1, melden bij hun inschrijving uitdrukkelijk hun voorkeursvolgorde van de opleidingen.<br>
 De volgorde, vermeld in het tweede lid, is bindend. Door die volgorde worden kandidaten als ze voor meerdere gunstige rangschikkingen in aanmerking komen, alleen opgenomen als gunstig gerangschikte kandidaat op de lijst, vermeld in paragraaf 2, vijfde lid, voor de opleiding met de hoogste voorkeur.”.
 
+### ART 159.
+
+Aan artikel V.19 van dezelfde codex wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Deeltijdse gastprofessoren kunnen ook tewerkgesteld worden als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. In afwijking van het eerste lid, zijn artikel 10 en 10bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing op opeenvolgende arbeidsovereenkomsten van een gastprofessor als flexi-jobwerknemer.”.
+
+### ART 160.
+
+Aan artikel V.31 van dezelfde codex wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Deeltijdse praktijkassistenten kunnen ook tewerkgesteld worden als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. In afwijking van het eerste lid, zijn artikel 10 en 10bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing op opeenvolgende arbeidsovereenkomsten van een praktijkassistent als flexi-jobwerknemer.”.
+
+### ART 161.
+
+Aan artikel V.50 van dezelfde codex wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Het universiteitsbestuur kan een deeltijds lid van het administratief en technisch personeel ook tewerkstellen als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. Op deze personeelsleden is de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing.”.
+
+### ART 162.
+
+Aan artikel V.147 van dezelfde codex wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In afwijking van het eerste en tweede lid, kan het hogeschoolbestuur contractueel buiten de personeelsformatie deeltijdse gastprofessoren tewerkstellen als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. De gastprofessoren kunnen niet ten laste van de werkingsuitkeringen bezoldigd worden. De gastprofessoren mogen geen andere tewerkstelling aan de hogeschool hebben. Op deze personeelsleden is de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing.”.
+
 ### ART 168.
 
 In artikel 52, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 8 juli 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -152,6 +304,32 @@ In artikel 53, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 
 3° aan het eerste lid worden een punt 5° en een punt 6° toegevoegd, die luiden als volgt:<br>
 “5° beschikken over een IAC-verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
 6° beschikken over een IAC-verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs.”.
+
+### ART 174.
+
+In hetzelfde decreet wordt aan hoofdstuk 5, afdeling 2, onderafdeling 4, gewijzigd bij de decreten van 9 juli 2021, 25 februari 2022 en 23 november 2023, een artikel 76/2 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 76/2. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een schoolbestuur kan bij een tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt eigen middelen, werkingsmiddelen als vermeld in artikel 83 en 84, of een deel van zijn omkadering dat omgezet kan worden naar een krediet, voor de wervingsambten van het onderwijzend of ondersteunend personeel van een of meer van zijn academies aanwenden om via een flexi-jobarbeidsovereenkomst in die academie of academies een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan onderwijzend of ondersteunend personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het schoolbestuur in de academie waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het onderwijzend of ondersteunend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+&nbsp;<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het schoolbestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 17, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 19, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het schoolbestuur hebben.<br>
+<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf 2 kan een schoolbestuur enkel het krediet gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 73, §3.<br>
+<br>
+De mogelijkheid om het krediet, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
 
 ### ART 175.
 
@@ -183,6 +361,20 @@ In artikel 48 van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019
 
 In artikel 48, §2, eerste lid, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, gewijzigd bij de decreten van 5 april 2019 en 8 juli 2022, wordt tussen de zinsnede “uitgekeerd door de VDAB,” en de woorden “ten laste van subsidies” de zinsnede “ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie,” ingevoegd.
 
+### ART 193.
+
+Aan het decreet van 3 juni 2022 over de organisatie van zomerscholen wordt een artikel 7 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 7. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+<br>
+§2. Een organisator van een zomerschool kan de projectsubsidies, vermeld in artikel 6, aanwenden om via een flexi-jobarbeidsovereenkomst in die zomerschool een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+§3. De organisator van een zomerschool sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij de organisator van de zomerschool hebben.”.
+
 ### ART 194.
 
 In artikel 52, §2, eerste lid, van het decreet van 5 mei 2023 over leersteun wordt tussen de woorden “uitgekeerd door de VDAB” en de woorden “of ten laste van subsidies” de zinsnede “, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie” ingevoegd.
@@ -196,6 +388,38 @@ In artikel 15, tweede lid, 6°, van hetzelfde decreet worden de volgende wijzigi
 ### ART 205.
 
 In artikel 27, §1, tweede lid, 2°, van hetzelfde decreet worden tussen de woorden “één interne” en de zinsnede “, met” de woorden “die valt onder toepassing van artikel 25, §1, van dit decreet” ingevoegd.
+
+### ART 206.
+
+Aan hoofdstuk 7, afdeling 4, van hetzelfde decreet wordt een onderafdeling 3 toegevoegd, die luidt als volgt:<br>
+<br>
+“Onderafdeling 3. Flexi-jobs”.
+
+### ART 207.
+
+In hetzelfde decreet wordt in onderafdeling 3, toegevoegd bij artikel 206, een artikel 34/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 34/1. §1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° flexi-jobwerknemer: een werknemer als vermeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken;<br>
+2° flexi-jobarbeidsovereenkomst: een arbeidsovereenkomst als vermeld in artikel 3, 4°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.<br>
+&nbsp;<br>
+§2. Een bestuur kan bij een tekort aan ondersteunend personeel op de arbeidsmarkt eigen middelen, werkingsbudget als vermeld in artikel 36 en 37, of een deel van zijn omkadering dat omgezet kan worden naar werkingsbudget, voor de wervingsambten van het ondersteunend personeel van een of meer van zijn onderwijsinternaten aanwenden om via een flexi-jobarbeidsovereenkomst in dat onderwijsinternaat of die onderwijsinternaten een flexi-jobwerknemer in dienst te nemen.<br>
+<br>
+Het tekort aan ondersteunend personeel op de arbeidsmarkt, vermeld in het eerste lid, blijkt uit het feit dat het bestuur in het onderwijsinternaat waar het de flexi-jobwerknemer, vermeld in het eerste lid, in dienst wil nemen voor een vacature in een wervingsambt van het ondersteunend personeel, de voormelde vacature niet kan invullen via een reguliere aanstelling van een personeelslid dat daarvoor beschikt over een vereist of voldoende geacht bekwaamheidsbewijs.<br>
+<br>
+In het tweede lid wordt verstaan onder vacature: een volledige of onvolledige betrekking die vacant is of waarvan de afwezige titularis of zijn vervanger regulier kan worden vervangen.<br>
+<br>
+§3. Het bestuur sluit met de flexi-jobwerknemer een flexi-jobarbeidsovereenkomst af. De bepalingen in het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en de uitvoeringsbesluiten van die decreten zijn, tenzij uitdrukkelijk anders bepaald, niet van toepassing op de voormelde werknemers.<br>
+<br>
+In afwijking van het eerste lid, moet een flexi-jobwerknemer voldoen aan de voorwaarden, vermeld in artikel 17, §1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 19, §1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De flexi-jobwerknemer mag daarnaast geen andere tewerkstelling bij het bestuur hebben.<br>
+<br>
+§4. Voor het aanwenden van een deel van de omkadering als vermeld in paragraaf 2 kan een bestuur enkel het werkingsbudget gebruiken dat het verkrijgt via de omzetting van die omkadering, vermeld in artikel 167.<br>
+<br>
+De mogelijkheid om het werkingsbudget, vermeld in het eerste lid, te gebruiken, eindigt:<br>
+1° vanaf het ogenblik dat de titularis van de betrekking die in aanmerking komt voor een reguliere vervanging vervroegd terugkeert uit zijn afwezigheid. Hierdoor eindigt ook de aanstelling van de flexi-jobwerknemer;<br>
+2° als de flexi-jobwerknemer ontslag neemt.”.
 
 ### ART 208.
 
