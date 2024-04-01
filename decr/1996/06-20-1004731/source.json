@@ -2,16 +2,16 @@
   "codex_id": 1004731,
   "title": "Decreet van 1996-06-20 [betreffende de subsidiëring van][een aanspreekpunt voor ouderbetrokkenheid en ouderparticipatie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004731/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "9f01c3179edda8d697821fa3d008ba9e3391157d6a78dcbab75c6790d41e8882",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004731/VolledigDocument?datum=2024-04-01",
+  "source_sha256": "0aa078597ca14e2d913af2573fdfba97550adad7ad9c4a98c17ec3b2b82514f9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004731&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2024-04-01",
   "made": "1996-06-20",
   "gazette": "1996-08-09",
   "numac": 1996035911,
   "document_start": "1996-04-01",
   "document_end": null,
-  "in_force": "2016-09-01",
+  "in_force": "2024-04-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
 }
