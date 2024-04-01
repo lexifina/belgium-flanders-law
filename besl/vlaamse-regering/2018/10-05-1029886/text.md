@@ -77,7 +77,7 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 			1 x 11: 1330,48</td>
 		</tr>
 		<tr>
-			<td>Assistent</td>
+			<td>Assistent, praktijkassistent</td>
 			<td>502 (24j.)</td>
 			<td>24.443,03</td>
 			<td>42.542,09</td>
