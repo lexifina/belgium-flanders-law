@@ -801,23 +801,19 @@ De organisator die een aanvraag doet na een eerdere aanvraag voor een subsidie d
 
 &nbsp;De subsidietoekenning geldt voor maximaal tien   jaar.<BR>
 
-## Onderafdeling 2 Aanvraag van een bevestiging van subsidie na een reeds toegekende subsidie
+## Onderafdeling 2. ...
 
 ### ART. 83.
 
-De organisator die na verloop van tien jaar verder gesubsidieerd wil worden, dient een aanvraag tot bevestiging van de subsidie bij het agentschap in volgens een vereenvoudigde procedure. De aanvraag kan op zijn vroegste zes maanden en uiterlijk dertig kalenderdagen voor het verstrijken van de termijn van tien jaar vanaf de eerste subsidieerbare kinderopvangplaats van de organisator ingediend worden.
+...
 
 ### ART. 84.
 
-De aanvraag van een bevestiging van subsidie wordt ingediend met het aanvraagformulier van het agentschap dat de volgende gegevens bevat:<br>
-1° de gegevens over de organisator, meer bepaald de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-2° het aantal en de soort subsidieerbare kinderopvangplaatsen per subsidiegroep waarvoor een bevestiging gevraagd wordt;<br>
-3° een verklaring op erewoord over het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-4° de datum en de handtekening van de organisator.
+...
 
 ### ART. 85.
 
-Als het agentschap de bevestiging van de subsidie toekent, geldt ook die voor maximaal tien jaar. Vanaf dan volgt de organisator altijd de vereenvoudigde procedure tot bevestiging van de subsidie, vermeld in artikel 83 en 84, zolang de organisator verdere subsidiëring wil.
+...
 
 ## Onderafdeling 3 Aanvraag tot wijziging van een subsidietoekenning
 
