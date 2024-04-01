@@ -52,9 +52,38 @@ In artikel 17, tweede lid, van hetzelfde besluit, gewijzigd bij de besluiten van
 “1° de subsidie bedraagt 31,93 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;”.<br>
 &nbsp;
 
+### ART 8.
+
+In artikel 17, tweede lid, 1°, van hetzelfde besluit, vervangen bij dit besluit, wordt het bedrag “31,93 euro” vervangen door het bedrag “32,33 euro”.
+
 ### ART 9.
 
 In artikel 18, vijfde lid, 1°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2023, wordt het bedrag “5910,32 euro” vervangen door het bedrag “4392,22 euro”.
+
+### ART 10.
+
+Artikel 22 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 22. §1. Conform artikel 8, §1, eerste en tweede lid, van het decreet van 20 april 2012, geeft de organisator voorrang aan gezinnen waarvoor kinderopvang noodzakelijk is om te werken of om een opleiding met het oog op werk te volgen. In het kader van de voormelde voorrang geeft de organisator absolute voorrang aan:&nbsp;<br>
+1° gezinnen die in totaliteit gemiddeld minstens hetzij 4/5-werken, hetzij een 4/5-dagopleiding met het oog op werk volgen, hetzij een 4/5-combinatie van werken en dagopleiding met het oog op werk realiseren;<br>
+2° broertjes of zusjes van kinderen die op hetzelfde moment reeds gebruik maken van dezelfde kinderopvang;&nbsp;<br>
+3° pleegkinderen als vermeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, in het gezin en die in aanmerking komen voor kinderopvang als vermeld in artikel 2, eerste lid, 2°, van het decreet van 20 april 2012.&nbsp;<br>
+<br>
+Bij de absolute voorrang, vermeld in het eerste lid, 1°, wordt verstaan onder 4/5-dagopleiding met het oog op werk: een intensief traject naar werk, een inburgeringstraject of een opleiding die leidt tot een onderwijskwalificatie.<br>
+<br>
+De organisator past de voorrang, vermeld in het eerste lid, toe op basis van een verklaring op erewoord van het gezin op het moment van de aanvraag en informeert het gezin dat het dat moet kunnen aantonen, op basis van een of meer van de volgende attesten:&nbsp;<br>
+1° een attest van de werkgever of een uittreksel uit de kruispuntbank voor ondernemingen;<br>
+2° een attest van een arbeidsbemiddelingsdienst, een opleidingsinstantie of een andere instantie die een gelijkwaardig traject van arbeidsbemiddeling of opleiding aanbiedt;<br>
+3° een inburgeringscontract, zoals vermeld in artikel 34/2, §1, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+4° een attest van gezinssamenstelling;<br>
+5° een attest van de pleegzorgorganisatie;<br>
+6° als dat van toepassing is, een uitspraak van de rechtbank over de verblijfsregeling van de kinderen.<br>
+<br>
+§2. Conform artikel 8, §1, vierde lid, van het decreet van 20 april 2012, kan de organisator afwijken van de voorrang, vermeld in artikel 8, §1, eerste lid, van het voormelde decreet, voor maximaal 10% van alle kinderen die op jaarbasis opgevangen worden in de kinderopvanglocatie, in het belang van het kind of door een gezondheids- of welzijnssituatie in het gezin.<br>
+<br>
+De afwijking van de voorrang, vermeld in het eerste lid, wordt toegepast op basis van een advies van een instantie die werkt met gezinnen.&nbsp;<br>
+<br>
+§3. De organisator heeft een opnamebeleid waarin de voorrangsregels, vermeld in paragraaf 1 en 2, worden toegepast en neemt dat op in het huishoudelijk reglement.”.
 
 ### ART 11.
 
