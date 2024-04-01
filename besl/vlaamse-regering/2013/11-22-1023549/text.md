@@ -73,7 +73,9 @@ Dit besluit wordt aangehaald als: Subsidiebesluit van 22 november   2013.
 
 <p>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van specifieke dienstverlening, vermeld in dit besluit, geldt de subsidie voor een duur van tien jaar vanaf de eerste subsidieerbare kinderopvangplaats binnen de subsidiegroep.</p>
 
-<p>Het agentschap en de toezichthouders voeren op regelmatige basis, uiterlijk om de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen van dit besluit.</p>
+<p>Het agentschap en de toezichthouders voeren op regelmatige basis, uiterlijk om de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen van dit besluit.<br>
+<br>
+Minstens elke tien jaar vanaf de toekenning van de subsidie zien het agentschap en Zorginspectie erop toe dat de organisator aan de voorwaarden, vermeld in artikel 14 tot en met 16, artikel 20 tot en met 36/1, artikel 38 tot en met 40, artikel 40/2 tot en met 40/4, artikel 40/6 tot en met 40/10, artikel 40/12 tot en met 40/16, artikel 40/18 tot en met 40/20, artikel 42 tot en met 44, artikel 47 tot en met 50 en artikel 50/2 tot en met 50/5 van dit besluit, voldoet voor de subsidie waarover de organisator beschikt. Als aan die voorwaarden is voldaan, wordt de organisator voort belast met de specifieke dienstverlening waarvoor de subsidie werd toegekend, voor een nieuwe periode van maximaal tien jaar.</p>
 
 ### ART. 4.
 
@@ -239,7 +241,7 @@ De organisator van gezinsopvang doet een inspanning om ervoor te zorgen dat er n
 2° een deel op basis van de leeftijd van de verantwoordelijken en van de medewerkers die in de kinderopvanglocatie instaan voor de systematische ondersteuning van de verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de verantwoordelijke moet voldoen.</p>
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt 31,93 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+1° de subsidie bedraagt 32,33 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
 2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
@@ -309,7 +311,27 @@ Op de minimale openingsdagen, vermeld in het eerste lid en in artikel 14, eerste
 
 ### ART. 22.
 
-<P>De organisator geeft op de volgende wijze voorrang aan bepaalde gezinnen   :<BR>1° er is absolute voorrang voor gezinnen waarvoor kinderopvang noodzakelijk   is in het kader van de werksituatie. De organisator geeft daarbij, bij keuze   tussen aanvragen, altijd voorrang aan de aanvraag van het gezin waarvoor   kinderopvang noodzakelijk is om werk te zoeken of te houden of om een   beroepsgerichte opleiding daarvoor te volgen;<BR>2° er is voorrang voor   alleenstaanden;<BR>3° er is voorrang voor gezinnen die een inkomen hebben dat   lager is dan een bepaald bedrag;<BR>4° er is voorrang voor pleegkinderen die   kinderopvang nodig hebben;<BR>5° er is voorrang voor kinderen van wie een broer   of zus in de kinderopvanglocatie opgevangen wordt.<BR></P>  <P>Daarbij zorgt de organisator ervoor dat minstens 20% van alle kinderen die op   jaarbasis opgevangen worden, kinderen zijn van gezinnen die beantwoorden aan ten   minste twee van de eerste vier kenmerken, vermeld in het eerste lid. Ook   kinderen uit een kwetsbaar gezin tellen mee voor de berekening van dat   percentage. Dat percentage wordt berekend over alle kinderopvanglocaties van de   subsidiegroep die het inkomenstarief, vermeld in artikel 28, toepassen. Zolang   20% niet bereikt is, kan afgeweken worden van de absolute voorrang, vermeld in   het eerste lid, 1°. <BR></P>  <P>De organisator neemt de wijze waarop hij die voorrang toepast, op in zijn   huishoudelijk reglement.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer het bedrag van het   inkomen.<BR></P>
+<p>[<strong>Belangrijke opmerking:&nbsp;</strong><u>Gelet op <a href="https://nl.const-court.be/public/n/2025/2025-072n.pdf">het arrest van het Grondwettelijk Hof nr 72/2025 van 30 april 2025</a>, is deze versie van artikel 22 onrechtmatig. De voorrangsregeling in artikel 8 van Kinderopvangdecreet waarnaar dit artikel verwijst, werd immers -met inbegrip van de delegatie aan de Vlaamse Regering om deze verder uit te werken- door dat arrest vernietigd. Artikel 22 heeft bijgevolg geen geldige rechtsgrond</u>]. &nbsp;<br>
+<br>
+§1. Conform artikel 8, §1, eerste en tweede lid, van het decreet van 20 april 2012, geeft de organisator voorrang aan gezinnen waarvoor kinderopvang noodzakelijk is om te werken of om een opleiding met het oog op werk te volgen. In het kader van de voormelde voorrang geeft de organisator absolute voorrang aan:<br>
+1° gezinnen die in totaliteit gemiddeld minstens hetzij 4/5-werken, hetzij een 4/5-dagopleiding met het oog op werk volgen, hetzij een 4/5-combinatie van werken en dagopleiding met het oog op werk realiseren;<br>
+2° broertjes of zusjes van kinderen die op hetzelfde moment reeds gebruik maken van dezelfde kinderopvang;<br>
+3° pleegkinderen als vermeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, in het gezin en die in aanmerking komen voor kinderopvang als vermeld in artikel 2, eerste lid, 2°, van het decreet van 20 april 2012.&nbsp;</p>
+Bij de absolute voorrang, vermeld in het eerste lid, 1°, wordt verstaan onder 4/5-dagopleiding met het oog op werk: een intensief traject naar werk, een inburgeringstraject of een opleiding die leidt tot een onderwijskwalificatie.<br>
+<br>
+De organisator past de voorrang, vermeld in het eerste lid, toe op basis van een verklaring op erewoord van het gezin op het moment van de aanvraag en informeert het gezin dat het dat moet kunnen aantonen, op basis van een of meer van de volgende attesten:<br>
+1° een attest van de werkgever of een uittreksel uit de kruispuntbank voor ondernemingen;<br>
+2° een attest van een arbeidsbemiddelingsdienst, een opleidingsinstantie of een andere instantie die een gelijkwaardig traject van arbeidsbemiddeling of opleiding aanbiedt;<br>
+3° een inburgeringscontract, zoals vermeld in artikel 34/2, §1, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+4° een attest van gezinssamenstelling;<br>
+5° een attest van de pleegzorgorganisatie;<br>
+6° als dat van toepassing is, een uitspraak van de rechtbank over de verblijfsregeling van de kinderen.<br>
+<br>
+§2. Conform artikel 8, §1, vierde lid, van het decreet van 20 april 2012, kan de organisator afwijken van de voorrang, vermeld in artikel 8, §1, eerste lid, van het voormelde decreet, voor maximaal 10% van alle kinderen die op jaarbasis opgevangen worden in de kinderopvanglocatie, in het belang van het kind of door een gezondheids- of welzijnssituatie in het gezin.<br>
+<br>
+De afwijking van de voorrang, vermeld in het eerste lid, wordt toegepast op basis van een advies van een instantie die werkt met gezinnen.<br>
+<br>
+§3. De organisator heeft een opnamebeleid waarin de voorrangsregels, vermeld in paragraaf 1 en 2, worden toegepast en neemt dat op in het huishoudelijk reglement.
 
 ### ART. 23.
 
