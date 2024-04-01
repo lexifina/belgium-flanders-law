@@ -362,8 +362,11 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uit
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/14_1.pdf#page=42">Bijlage 1</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/01/05_1.pdf#page=199">Bijlage I</a>
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/14_1.pdf#page=43">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/14_1.pdf#page=43">Bijlage 2</a><br>
+<br>
+* Bij MB van 1 december 2023, wordt met ingang van 1 april 2024 de volgende wijziging aangebracht:<br>
+1° fiche 2 “communicatie type 2” wordt vervangen door fiche 2 “communicatie type 2” die <a href="https://www.ejustice.just.fgov.be/mopdf/2024/01/05_1.pdf#page=201">hier</a> is opgenomen
