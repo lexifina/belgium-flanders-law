@@ -3137,13 +3137,13 @@ n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de v
 
 ### ART 15.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met het akkoord van de gebruiker of zijn vertegenwoordiger. Als de gebruiker of zijn vertegenwoordiger niet akkoord gaat, kan de gebruiker verder in het centrum verblijven op basis van de voorheen gesloten schriftelijke opnameovereenkomst.</span></span><br>
+<p>§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met het akkoord van de gebruiker of zijn vertegenwoordiger. Als de gebruiker of zijn vertegenwoordiger niet akkoord gaat, kan de gebruiker verder in het centrum verblijven op basis van de voorheen gesloten schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Een eventuele aanpassing van het bedrag van de dagprijs en de supplementen wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de gebruiker of zijn vertegenwoordiger. </span></span><br>
+§2. Een eventuele aanpassing van het bedrag van de dagprijs en de supplementen wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de gebruiker of zijn vertegenwoordiger.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Bij een aanpassing van het bedrag van de dagprijs, door een indexering van de dagprijs, gaat de aangepaste dagprijs op zijn vroegst in dertig dagen na de kennisgeving ervan aan de gebruiker of zijn vertegenwoordiger. </span></span><br>
+In afwijking van het eerste lid gaat bij een aanpassing van het bedrag van de dagprijs, door een indexering van de dagprijs, de aangepaste dagprijs op zijn vroegst in vanaf de eerste dag van de tweede maand die volgt op de maand van een spilindexoverschrijding en uiterlijk op de eerste dag van de vijfde maand die volgt op de maand van een spilindexoverschrijding. Het nieuwe geïndexeerde bedrag van de dagprijs en het spilindexcijfer dat erop van toepassing is, wordt aan de gebruiker of zijn vertegenwoordigers kenbaar gemaakt voorafgaandelijk aan de toepassing van de nieuwe geïndexeerde dagprijs.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, wordt niet beschouwd als een wijziging van de schriftelijke opnameovereenkomst als vermeld in paragraaf 1. Dat geldt niet bij een wijziging van de samenstelling van de dagprijs.</span></span></p>
+Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, wordt niet beschouwd als een wijziging van de schriftelijke opnameovereenkomst als vermeld in paragraaf 1. Dat geldt niet bij een wijziging van de samenstelling van de dagprijs.</p>
 
 ## Onderafdeling 2. Algemene bepalingen over de zorg en ondersteuning en de kwaliteit van de zorg en ondersteuning
 
@@ -5863,11 +5863,11 @@ Wijzigingen van de interne afsprakennota worden vooraf meegedeeld en toegelicht 
 
 ### ART 21.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met akkoord van de bewoner of zijn vertegenwoordiger. Als de bewoner of zijn vertegenwoordiger niet akkoord gaat, kan de bewoner verder in de groep van assistentiewoningen verblijven op basis van de voorheen gesloten overeenkomst.</span></span><br>
+<p>§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met akkoord van de bewoner of zijn vertegenwoordiger. Als de bewoner of zijn vertegenwoordiger niet akkoord gaat, kan de bewoner verder in de groep van assistentiewoningen verblijven op basis van de voorheen gesloten overeenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Een aanpassing van het bedrag van de dagprijs of van de extra vergoedingen wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger. </span></span><br>
+§2. Een aanpassing van het bedrag van de dagprijs of van de extra vergoedingen wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger.<br>
 <br>
-Bij een aanpassing van het bedrag van de dagprijs of van de extra vergoedingen door een indexering, gaat het aangepaste bedrag op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger.<br>
+In afwijking van het eerste lid gaat bij een aanpassing van het bedrag van de dagprijs, door een indexering van de dagprijs, de aangepaste dagprijs op zijn vroegst in vanaf de eerste dag van de tweede maand die volgt op de maand van een spilindexoverschrijding en uiterlijk op de eerste dag van de vijfde maand die volgt op de maand van een spilindexoverschrijding. Het nieuwe geïndexeerde bedrag van de dagprijs en het spilindexcijfer dat erop van toepassing is, wordt aan de bewoner of zijn vertegenwoordigers kenbaar gemaakt voorafgaandelijk aan de toepassing van de nieuwe geïndexeerde dagprijs.<br>
 <br>
 Een aanpassing van de dagprijs of van de extra vergoedingen als vermeld in het eerste en tweede lid wordt niet beschouwd als een wijziging van de opnameovereenkomst, vermeld in paragraaf 1. Deze bepaling geldt niet bij een wijziging van de samenstelling van de dagprijs.</p>
 
@@ -6374,13 +6374,13 @@ n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de v
 
 ### ART 20.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met het akkoord van de bewoner of zijn vertegenwoordiger. Als de bewoner of zijn vertegenwoordiger niet akkoord gaat, kan de bewoner verder in het woonzorgcentrum verblijven op basis van de voorheen gesloten overeenkomst.</span></span></span><br>
+<p>§1. Een schriftelijke opnameovereenkomst mag alleen gewijzigd worden met het akkoord van de bewoner of zijn vertegenwoordiger. Als de bewoner of zijn vertegenwoordiger niet akkoord gaat, kan de bewoner verder in het woonzorgcentrum verblijven op basis van de voorheen gesloten overeenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§2. Een aanpassing van het bedrag van de dagprijs wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger. </span></span></span><br>
+§2. Een aanpassing van het bedrag van de dagprijs wordt vooraf aan alle belanghebbenden bekendgemaakt en gaat op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Bij een aanpassing van het bedrag van de dagprijs, door een indexering van de dagprijs, gaat de aangepaste dagprijs op zijn vroegst in dertig dagen na de kennisgeving ervan aan de bewoner of zijn vertegenwoordiger. </span></span></span><br>
+In afwijking van het eerste lid gaat bij een aanpassing van het bedrag van de dagprijs, door een indexering van de dagprijs, de aangepaste dagprijs op zijn vroegst in vanaf de eerste dag van de tweede maand die volgt op de maand van een spilindexoverschrijding en uiterlijk op de eerste dag van de vijfde maand die volgt op de maand van een spilindexoverschrijding. Het nieuwe geïndexeerde bedrag van de dagprijs en het spilindexcijfer dat erop van toepassing is, wordt aan de bewoner of zijn vertegenwoordigers kenbaar gemaakt voorafgaandelijk aan de toepassing van de nieuwe geïndexeerde dagprijs.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, wordt niet beschouwd als een wijziging van de schriftelijke opnameovereenkomst, vermeld in paragraaf 1. Dit geldt niet bij een wijziging van de samenstelling van de dagprijs.</span></span></span></p>
+Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, wordt niet beschouwd als een wijziging van de schriftelijke opnameovereenkomst, vermeld in paragraaf 1. Dit geldt niet bij een wijziging van de samenstelling van de dagprijs.</p>
 
 ### ART 21.
 
