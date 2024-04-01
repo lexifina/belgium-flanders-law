@@ -157,7 +157,7 @@ Voor de visserij op schartong en zeeduivel, in de ICES-gebieden VIIIa, b, kan wo
 &nbsp;&nbsp; &nbsp;&nbsp;<br>
 De teruggegooide hoeveelheden moeten in het elektronisch logboek gerapporteerd worden.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
-Indien een in artikel 14, 16, 20, of 25 §9, bepaalde drempelwaarde tijdens een zeereis dreigt te worden overschreden, wordt de visserijactiviteit onmiddellijk opgeschort en worden de activiteiten minimaal tien nautische mijl verlegd. Voor de visserij uitgevoerd met vaartuigen met een brutotonnage kleiner dan 80 GT worden de activiteiten minimaal drie nautische mijl verlegd.
+Indien een in artikel 14, 16, 19, 20, of 25 §9, bepaalde drempelwaarde tijdens een zeereis dreigt te worden overschreden, wordt de visserijactiviteit onmiddellijk opgeschort en worden de activiteiten minimaal tien nautische mijl verlegd. Voor de visserij uitgevoerd met vaartuigen met een brutotonnage kleiner dan 80 GT worden de activiteiten minimaal drie nautische mijl verlegd.
 
 ### ART 9.
 
@@ -243,7 +243,7 @@ In afwijking van het eerste lid is het vanaf 1 februari 2024 tot en met 31 oktob
 <br>
 Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen tegen uiterlijk 9 januari 2024, 12.00 uur, met een aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit.<br>
 &nbsp;&nbsp; &nbsp;<br>
-Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2024 tot en met 31 oktober 2024, 5000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
+Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2024 tot en met 31 oktober 2024, 7500 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
 &nbsp;&nbsp; &nbsp;<br>
 Bij overschrijding van de hoeveelheden tong, vermeld in het vierde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht.<br>
 <br>
@@ -273,7 +273,31 @@ Van 1 januari 2024 tot en met 31 oktober 2024 is het in het ICES-gebied VIId voo
 
 ### ART 19.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2024 tot en met 31 december 2024.
+§1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa en b is verboden in de periode van 1 januari 2024 tot en met 31 december 2024.&nbsp;<br>
+<br>
+§2. In afwijking van paragraaf 1 is het vanaf 1 juni 2024 om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst ‘Visvergunningen Golf van Gascogne 2024’ vermeld worden, toegestaan om in de ICES-gebieden VIIIa en b aanwezig te zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment uiterlijk op 3 april 2024 via een aangetekende brief of per e-mail een aanvraag voor het bekomen van een visvergunning tot de dienst Visserij van de bevoegde entiteit richten.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. Vanaf 1 juni 2024 tot en met 30 september 2024 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid van 15 kg overschrijdt, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§4. Bij overschrijding van de hoeveelheden tong vermeld in paragraaf 3, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2025.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. De vissersvaartuigen op de lijst ‘Visvergunningen Golf van Gascogne 2024’, leveren 7 kg/kW tong in voor het ICES-gebied VIIf en g gedurende de periode 1 juli 2024 tot en met 31 oktober 2024. Daarnaast wordt voor deze vaartuigen vanaf 1 juli 2024 een 0-vangst voor tong in de Ierse Zee ingesteld voor de rest van het jaar 2024.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Tijdens een zelfde visreis in de Golf van Gascogne mag slechts één soort vistuig aan boord worden gehouden.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§6. Het is verboden gemengde visreizen te maken waarbij tijdens dezelfde visreis naast ICES-gebieden VIIIa en b, ook gevist wordt in andere ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§7. Bij niet-naleving van de bepalingen van paragraaf 1 of paragraaf 2, wordt het maximum aantal vaartdagen, vermeld in artikel 12, verminderd met 10 dagen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bovendien zullen de vissersvaartuigen die gesanctioneerd worden op basis van het eerste lid, niet aanwezig mogen zijn in de ICES-gebieden VIIIa en b gedurende het jaar 2025.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§8. Het de-minimisquotum voor tong in de ICES-gebieden VIIIa en b wordt vastgelegd op 9.800 kg tong. De drempelwaarde vermeld in artikel 8, wordt voor de tongvisserij in de ICES-gebieden VIIIa en b vastgelegd op maximaal 8% van de reeds in de visreis gerealiseerde tongvangst in het gebied in kwestie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§9. Het aantal vaartuigen met een ‘Visvergunning Golf van Gascogne 2024’ wordt beperkt tot acht. Indien meer vaartuigen een aanvraag tot visvergunning indienen, zal een loting worden georganiseerd door de bevoegde entiteit. Indien er minder dan acht vaartuigen inschrijven, kan de hoeveelheid vermeld in paragraaf 3 nog worden verhoogd.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§10. Een gedetailleerd overzicht van de technische bepalingen wordt aan de reders bezorgd door de bevoegde entiteit voor de start van de campagne.
 
 ## Hoofdstuk 2. Toewijzing van vangstmogelijkheden per zeereis
 
@@ -328,6 +352,8 @@ Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf
 ### ART 21.
 
 De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2024 tot en met 31 maart 2024, behalve voor wetenschappelijke zeereizen.<br>
+<br>
+Vanaf 1 april 2024 tot en met 31 oktober 2024 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden van 1500 kg per vaartuig in die ICES-gebieden, waarbij wetenschappelijk quotum niet wordt meegerekend.<br>
 &nbsp;&nbsp; &nbsp;<br>
 Er wordt een wetenschappelijk tongquotum voorbehouden van zes ton, verdeeld over telkens één visreis per kwartaal a rato van maximaal 1500 kg tong.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -339,7 +365,7 @@ Het wetenschappelijk quotum van maximaal 1500 kg tong moet in maximaal vijf opee
 &nbsp;&nbsp; &nbsp;<br>
 De visreis moet volledig in ICES-gebied VIIh, j, k plaatsvinden en gedurende de volledige visreis dient minstens één wetenschapper van ILVO aan boord te zijn. De aanvrager moet voor de aanmonstering van de wetenschapper de nodige maatregelen voorzien om tijdens de visreis de veiligheid van de wetenschapper te garanderen.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
-Indien een eigenaar van een vaartuig, aangeduid om wetenschappelijk quotum op te vissen, behoudens in geval van overmacht, niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2026 en wordt de toegekende hoeveelheid tong, voor de betreffende toewijsperiode verminderd met het aantal kg tong zoals toegewezen conform lid 2. Indien dit verschil een negatieve hoeveelheid oplevert, zal het tekort worden afgehouden van het vastgestelde tongquotum voor het betreffende vaartuig in een andere toewijsperiode in hetzelfde of volgende jaar.
+Indien een eigenaar van een vaartuig, aangeduid om wetenschappelijk quotum op te vissen, behoudens in geval van overmacht, niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2026 en wordt de toegekende hoeveelheid tong, voor de betreffende toewijsperiode verminderd met het aantal kg tong zoals toegewezen conform lid 3. Indien dit verschil een negatieve hoeveelheid oplevert, zal het tekort worden afgehouden van het vastgestelde tongquotum voor het betreffende vaartuig in een andere toewijsperiode in hetzelfde of volgende jaar.
 
 ## Afdeling 3. Schol
 
@@ -357,7 +383,9 @@ Het is voor een vissersvaartuig van het GVS, die gemengde visreizen in de ICES-g
 &nbsp;&nbsp; &nbsp;<br>
 Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Het is in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dit ICES-gebied.
+Het is in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dit ICES-gebied.<br>
+<br>
+§3. In de periode van 1 april 2024 tot en met 31 oktober 2024 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 1200 kg. Voor vaartuigen van het KVS is de scholvangst in ICES-gebieden VIIh, j, k verboden.
 
 ## Afdeling 4. Kabeljauw en zeeduivel
 
@@ -371,7 +399,9 @@ Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor ee
 &nbsp;&nbsp; &nbsp;<br>
 §3. In de periode van 1 januari 2024 tot en met 30 juni 2024 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
 &nbsp;&nbsp; &nbsp;<br>
-§4. Het is in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg levend gewicht vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+§4. Het is in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg levend gewicht vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+§5. Voor vaartuigen (planken) die vissen in de Noorse zone is het verboden bij kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat gebied.
 
 ## Afdeling 5. Rog
 
@@ -486,7 +516,7 @@ Er wordt met gemiddelde forfaitaire prijzen gewerkt, gebaseerd op de gemiddelde 
 &nbsp;&nbsp; &nbsp;<br>
 De bevoegde entiteit neemt deze beslissing tot intrekking van de visvergunning en deelt ze mee aan de eigenaar van het vissersvaartuig per aangetekende brief. De intrekking treedt in werking op de derde dag die volgt op de dag van de notificatie. Tijdens de periode van intrekking moet het vissersvaartuig inactief in een Belgische vissershaven liggen. Het maximum aantal vaartdagen, vermeld in artikel 12, wordt verminderd met het aantal dagen waarop de visvergunning ingetrokken was.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
-§2. Als de toegewezen vangstmogelijkheden, vermeld in artikel 14 tot en met 25 door het vissersvaartuig worden overschreden, wordt de mate van overschrijding uitgedrukt in kilogram, vermenigvuldigd met een coëfficiënt van 1,2, in mindering gebracht op de vangstmogelijkheden die aan dat vaartuig in de overeenkomstige periode van het jaar 2024 worden toegewezen.<br>
+§2. Als de toegewezen vangstmogelijkheden, vermeld in artikel 14 tot en met 25 door het vissersvaartuig worden overschreden, wordt de mate van overschrijding uitgedrukt in kilogram, vermenigvuldigd met een coëfficiënt van 1,2, in mindering gebracht op de vangstmogelijkheden die aan dat vaartuig in de overeenkomstige periode van het jaar 2025 worden toegewezen.<br>
 &nbsp;&nbsp; &nbsp;<br>
 De bevoegde entiteit deelt de berekende vermindering op de vangstmogelijkheden mee aan de eigenaar van het betrokken vissersvaartuig per aangetekende brief.
 
