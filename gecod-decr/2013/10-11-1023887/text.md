@@ -4097,7 +4097,7 @@ In de graduaatsopleidingen kan evenwel een andere onderwijstaal dan het Nederlan
 <br>
 § 2. Een instelling kan in de volgende gevallen beslissen dat in graduaatsopleidingen voor opleidingsonderdelen een andere onderwijstaal dan het Nederlands wordt gebruikt :<br>
 1° de opleidingsonderdelen die een vreemde taal tot onderwerp hebben en die in die taal worden gedoceerd;<br>
-2° de opleidingsonderdelen die gedoceerd worden door anderstalige gastprofessoren;<br>
+2° de opleidingsonderdelen die gedoceerd worden door anderstalige gastprofessoren of gastdocenten;<br>
 3° de anderstalige opleidingsonderdelen die, op initiatief van de student en met instemming van de instelling, worden gevolgd aan een andere instelling voor hoger onderwijs;<br>
 4° de opleidingsonderdelen waar uit de expliciet gemotiveerde beslissing de meerwaarde voor de studenten en het afnemende veld en de functionaliteit voor de opleiding blijkt.<br>
 <br>
@@ -4111,13 +4111,13 @@ In de graduaatsopleidingen kan evenwel een andere onderwijstaal dan het Nederlan
 
 ### ART. II.261.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. De onderwijstaal in de hogescholen en universiteiten is het Nederlands.<br>
+<p>§1. De onderwijstaal in de hogescholen en universiteiten is het Nederlands.<br>
 <br>
 In de initiële bachelor-en masteropleidingen kan evenwel een andere onderwijstaal dan het Nederlands worden gebruikt, conform de bepalingen in deze afdeling. Als een instelling gebruik wil maken van die mogelijkheid, moeten de waarborgen inzake kwaliteit en democratisering, vermeld in artikel II.270 en II.271 vervuld zijn voorafgaand aan de start van de opleiding.<br>
 <br>
 §2. Een instelling kan in de volgende gevallen beslissen dat in initiële bachelor-en masteropleidingen voor opleidingsonderdelen een andere onderwijstaal dan het Nederlands wordt gebruikt:<br>
 1°&nbsp;&nbsp; de opleidingsonderdelen die een vreemde taal tot onderwerp hebben en die in die taal worden gedoceerd;<br>
-2°&nbsp;&nbsp; de opleidingsonderdelen die gedoceerd worden door anderstalige gastprofessoren;<br>
+2°&nbsp;&nbsp; de opleidingsonderdelen die gedoceerd worden door anderstalige gastprofessoren of gastdocenten;<br>
 3°&nbsp;&nbsp; de anderstalige opleidingsonderdelen die, op initiatief van de student en met instemming van de instelling, worden gevolgd aan een andere instelling voor hoger onderwijs;<br>
 4°&nbsp;&nbsp; de opleidingsonderdelen waar uit de expliciet gemotiveerde beslissing de meerwaarde voor de studenten en het afnemende veld en de functionaliteit voor de opleiding blijkt.<br>
 5° de opleidingsonderdelen die deel uitmaken van een bachelorof masteropleiding die kadert binnen een `European Universities Initiative' dat als pilootproject werd goedgekeurd in 2019 of 2020, zoals beschreven in artikel II.151.<br>
@@ -10502,7 +10502,11 @@ Het hogeschoolbestuur stelt een begroting op voor het volgende begrotingsjaar en
 
 ### ART. IV.27.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur bepaalt samen met de begroting de formatie per   ambt van het onderwijzend personeel en per graad van het administratief en   technisch personeel dat ten laste van de werkingsuitkering wordt bezoldigd voor   het volgende begrotingsjaar. De hogeschool stelt een afzonderlijke formatie op   voor de personeelsleden toegewezen aan de Schools of Arts en voor de andere   personeelsleden. Het deelt deze personeelsformaties binnen 14 dagen mee aan de   Vlaamse Regering. De ambten op de personeelsformatie worden uitgedrukt in   eenheden die overeenstemmen met voltijdse betrekkingen. De Vlaamse Regering kan   hieromtrent nadere regels opstellen. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De gastprofessoren en andere contractuele personeelsleden zijn niet   opgenomen in de personeelsformatie. De hogeschool bezoldigt hen ten laste van de   werkingsuitkering of ten laste van het patrimonium.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Het hogeschoolbestuur bepaalt samen met de begroting de formatie per ambt van het onderwijzend personeel en per graad van het administratief en technisch personeel dat ten laste van de werkingsuitkering wordt bezoldigd voor het volgende begrotingsjaar. De hogeschool stelt een afzonderlijke formatie op voor de personeelsleden toegewezen aan de Schools of Arts en voor de andere personeelsleden. Het deelt deze personeelsformaties binnen 14 dagen mee aan de Vlaamse Regering. De ambten op de personeelsformatie worden uitgedrukt in eenheden die overeenstemmen met voltijdse betrekkingen. De Vlaamse Regering kan hieromtrent nadere regels opstellen. <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+De gastdocenten en andere contractuele personeelsleden zijn niet opgenomen in de personeelsformatie. De hogeschool bezoldigt hen ten laste van de werkingsuitkering of ten laste van het patrimonium.</p>
+
+<p>&nbsp;</p>
 
 ### ART. IV.28.
 
@@ -10517,15 +10521,25 @@ Een benoeming of aanstelling in een ambt van het onderwijzend personeel is slech
 
 ### ART. IV.29.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van de bepalingen van artikel IV.28 kunnen de   personeelsleden die de leeftijd van 55 jaar hebben bereikt en de voorwaarden   voor vaste benoeming vervullen, op hun verzoek worden benoemd in de vacante   betrekking. Deze bepaling geldt ten aanzien van de personeelsleden die op 1   januari 1995 in de hogeschool in dienst waren en ingevolge de uitoefening van   een betrekking in vast verband in een instelling voor secundair onderwijs   rechten kunnen laten gelden op een pensioen ten laste van de   schatkist.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van de bepalingen van artikel IV.28 en V.141, §2 kan het   hogeschoolbestuur een personeelslid benoemen dat de leeftijd van 55 jaar bereikt   heeft en een aanstelling in een vacant ambt heeft. Het hogeschoolbestuur bepaalt   bij reglement de voorwaarden waaronder deze benoeming mogelijk is.</P>
+<p>In afwijking van de bepalingen van artikel IV.28 kunnen de personeelsleden die de leeftijd van 55 jaar hebben bereikt en de voorwaarden voor vaste benoeming vervullen, op hun verzoek worden benoemd in de vacante betrekking. Deze bepaling geldt ten aanzien van de personeelsleden die op 1 januari 1995 in de hogeschool in dienst waren en ingevolge de uitoefening van een betrekking in vast verband in een instelling voor secundair onderwijs rechten kunnen laten gelden op een pensioen ten laste van de schatkist.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>&nbsp;</p>
+
+<p>In afwijking van de bepalingen van artikel IV.28 en V.141/1 kan het hogeschoolbestuur een personeelslid benoemen dat de leeftijd van 55 jaar bereikt heeft en een aanstelling in een vacant ambt heeft. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden waaronder deze benoeming mogelijk is.</p>
 
 ### ART. IV.30.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van artikel IV.28 en V.141, §2, kunnen voor de   personeelsleden die gebruik maken van het overgangsstelsel inzake voltijdse   terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het   rustpensioen, tijdelijke personeelsleden zoals bedoeld in artikel V.264, 2°   benoemd worden voor het volume waarvoor er een terbeschikkingstelling wegens   persoonlijke aangelegenheden voorafgaand aan het rustpensioen in het   overgangsstelsel wordt toegekend. Elk personeelslid dat benoemd wordt, dient in   het bezit te zijn van het vereiste bekwaamheidsbewijs.<?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>In afwijking van artikel IV.28 en V.141/1, kunnen voor de personeelsleden die gebruik maken van het overgangsstelsel inzake voltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen, tijdelijke personeelsleden zoals bedoeld in artikel V.264, 2° benoemd worden voor het volume waarvoor er een terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen in het overgangsstelsel wordt toegekend. Elk personeelslid dat benoemd wordt, dient in het bezit te zijn van het vereiste bekwaamheidsbewijs.<!--?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. IV.31.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. In afwijking van de bepalingen van artikel IV.28 en V.141, §2, kan   het hogeschoolbestuur personeelsleden bedoeld in artikel V.264, 2°, op hun   verzoek benoemen. Elk personeelslid dat benoemd wordt, dient in het bezit te   zijn van het vereiste bekwaamheidsbewijs. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Deze benoeming is mogelijk in het ambt waarvoor zij overgangsmaatregelen   genieten en voor het volume van de opdracht waarop zij krachtens artikel V.275   aanspraak kunnen maken. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. In afwijking van de bepalingen van artikel IV.28 en V.141, §2, kan   het hogeschoolbestuur personeelsleden zoals bedoeld in artikel V.264, 2°, die op   1 januari 1996 met toepassing van artikel V.262 werden geconcordeerd naar een   ambt waarvoor zij niet in het bezit zijn van het vereiste bekwaamheidsbewijs, op   hun verzoek benoemen in een ambt waarvoor zij wel het vereiste   bekwaamheidsbewijs bezitten. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Deze benoeming is mogelijk voor het volume van de opdracht waarop zij   krachtens artikel V.275 aanspraak kunnen maken. Door deze benoeming verliezen   deze personeelsleden het genot van de in artikel V.267 bedoelde   overgangsmaatregelen en bekomen zij de salarisschaal verbonden aan het ambt   waarin zij benoemd worden. </P>
+<p>§1. In afwijking van de bepalingen van artikel IV.28 en V.141/1, kan het hogeschoolbestuur personeelsleden bedoeld in artikel V.264, 2°, op hun verzoek benoemen. Elk personeelslid dat benoemd wordt, dient in het bezit te zijn van het vereiste bekwaamheidsbewijs. <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+Deze benoeming is mogelijk in het ambt waarvoor zij overgangsmaatregelen genieten en voor het volume van de opdracht waarop zij krachtens artikel V.275 aanspraak kunnen maken.<br>
+<br>
+§2. In afwijking van de bepalingen van artikel IV.28 en V.141/1, kan het hogeschoolbestuur personeelsleden zoals bedoeld in artikel V.264, 2°, die op 1 januari 1996 met toepassing van artikel V.262 werden geconcordeerd naar een ambt waarvoor zij niet in het bezit zijn van het vereiste bekwaamheidsbewijs, op hun verzoek benoemen in een ambt waarvoor zij wel het vereiste bekwaamheidsbewijs bezitten.<br>
+<br>
+Deze benoeming is mogelijk voor het volume van de opdracht waarop zij krachtens artikel V.275 aanspraak kunnen maken. Door deze benoeming verliezen deze personeelsleden het genot van de in artikel V.267 bedoelde overgangsmaatregelen en bekomen zij de salarisschaal verbonden aan het ambt waarin zij benoemd worden.</p>
 
 ### ART. IV.32.
 
@@ -10687,7 +10701,38 @@ b)&nbsp;&nbsp; een dienst met rechtspersoonlijkheid onder het toezicht van de un
 
 ### ART. IV.55.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Hogescholen en   universiteiten kunnen op grond van een formele beslissing van het   instellingsbestuur deelnemen in volgende rechtspersonen:<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; de spin-off bedrijven en   spin-offondersteunende bedrijven, bedoeld in hoofdstuk 2 en   3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; de in artikel II.12, 2°   bedoelde voor valorisatie bevoegde dienst;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>3°&nbsp;&nbsp; de instanties bedoeld in   artikel II.12, 3°, a) en IV.48, §8;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>4°&nbsp;&nbsp; de rechtspersonen zonder   winstoogmerk die het beheer of de coördinatie van sociale voorzieningen tot doel   hebben;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>5°&nbsp;&nbsp; de rechtspersonen zonder   winstoogmerk met een maatschappelijk doel gericht op onderzoek, de organisatie   of coördinatie van contractonderwijs, sociaal-culturele dienstverlening of de   organisatie of coördinatie van administratieve diensten of   dienstverlening;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>6°&nbsp;&nbsp; de rechtspersonen met als   maatschappelijk doel het verwerven of beheren van gebouwen en infrastructuur   bestemd voor onderwijs, onderzoek, wetenschappelijke of maatschappelijke   dienstverlening, verblijven van studenten, onderzoekers en gastprofessoren of   voor de valorisatie van de resultaten van wetenschappelijk onderzoek.   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bepalingen van het eerste   lid doen geen afbreuk aan:</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo3; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; de bepalingen van deel 2,   titel 1, hoofdstuk 2;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo3; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; de mogelijkheid om effecten   aan te houden in de zin van artikel 2 van de wet van 22 april 2003 betreffende   de openbare aanbiedingen van effecten. </P>  <P   style="MARGIN: 0cm 0cm 0pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-layout-grid-align: none"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Instellingsbesturen kunnen   een personeelslid met zijn instemming belasten met een taak bij de in paragraaf   1, eerste lid bedoelde rechtspersonen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het betrokken personeelslid   blijft gedurende de opdracht juridisch en administratief behoren tot de   terbeschikkingstellende hogeschool of universiteit.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Aan een in paragraaf 1,   eerste lid bedoelde rechtspersoon kan een gebruiksrecht worden toegekend op   lokalen, infrastructuur, diensten of personeel van de hogeschool of de   universiteit. Dit gebruiksrecht moet het voorwerp uitmaken van een overeenkomst   tussen het instellingsbestuur en de rechtspersoon. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het in het eerste lid bedoelde   gebruiksrecht kan niet in een rechtspersoon worden ingebracht.   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. De in paragraaf 1, eerste   lid bedoelde rechtspersonen leggen de jaarrekeningen en jaarverslagen ter   kennisgeving aan het instellingsbestuur voor. Deze verplichting doet geen   afbreuk aan eventuele bijkomende of zwaardere rapporteringsverplichtingen die   door bijzondere regelgeving of op grond van een overeenkomst worden   opgelegd.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§5. Indien de rechtspersonen   waarin hogescholen en universiteiten deelnemen, niet voldoen aan de bij of   krachtens decreet gestelde voorwaarden:</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l1 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; ontzegt het instellingsbestuur   aan deze rechtspersoon elk gebruik van lokalen, infrastructuur, diensten en   personeel, en</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l1 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; neemt het instellingsbestuur   de nodige maatregelen opdat de hogeschool of de universiteit zich uit de   rechtspersoon terugtrekt, behoudens indien de onregelmatigheid onverwijld kan   worden rechtgezet.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§6. Voor de toepassing van het   eerste lid wordt onder “deelnemen” verstaan: </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l3 level1 lfo4; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; een rechtspersoon oprichten,   of </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l3 level1 lfo4; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; een participatie in een   rechtspersoon verwerven of houden, of</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l3 level1 lfo4; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>3°&nbsp;&nbsp; zich in een rechtspersoon   laten vertegenwoordigen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>§1. Hogescholen en universiteiten kunnen op grond van een formele beslissing van het instellingsbestuur deelnemen in volgende rechtspersonen:<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /--><br>
+1°&nbsp;&nbsp; de spin-off bedrijven en spin-offondersteunende bedrijven, bedoeld in hoofdstuk 2 en 3;<br>
+2°&nbsp;&nbsp; de in artikel II.12, 2° bedoelde voor valorisatie bevoegde dienst;<br>
+3°&nbsp;&nbsp; de instanties bedoeld in artikel II.12, 3°, a) en IV.48, §8;<br>
+4°&nbsp;&nbsp; de rechtspersonen zonder winstoogmerk die het beheer of de coördinatie van sociale voorzieningen tot doel hebben;<br>
+5°&nbsp;&nbsp; de rechtspersonen zonder winstoogmerk met een maatschappelijk doel gericht op onderzoek, de organisatie of coördinatie van contractonderwijs, sociaal-culturele dienstverlening of de organisatie of coördinatie van administratieve diensten of dienstverlening;<br>
+6°&nbsp;&nbsp; de rechtspersonen met als maatschappelijk doel het verwerven of beheren van gebouwen en infrastructuur bestemd voor onderwijs, onderzoek, wetenschappelijke of maatschappelijke dienstverlening, verblijven van studenten, onderzoekers, gastprofessoren en gastdocenten of voor de valorisatie van de resultaten van wetenschappelijk onderzoek.<br>
+<br>
+De bepalingen van het eerste lid doen geen afbreuk aan:<br>
+1°&nbsp;&nbsp; de bepalingen van deel 2, titel 1, hoofdstuk 2;<br>
+2°&nbsp;&nbsp; de mogelijkheid om effecten aan te houden in de zin van artikel 2 van de wet van 22 april 2003 betreffende de openbare aanbiedingen van effecten.<br>
+<br>
+§2. Instellingsbesturen kunnen een personeelslid met zijn instemming belasten met een taak bij de in paragraaf 1, eerste lid bedoelde rechtspersonen.<br>
+<br>
+Het betrokken personeelslid blijft gedurende de opdracht juridisch en administratief behoren tot de terbeschikkingstellende hogeschool of universiteit.<br>
+<br>
+§3. Aan een in paragraaf 1, eerste lid bedoelde rechtspersoon kan een gebruiksrecht worden toegekend op lokalen, infrastructuur, diensten of personeel van de hogeschool of de universiteit. Dit gebruiksrecht moet het voorwerp uitmaken van een overeenkomst tussen het instellingsbestuur en de rechtspersoon.<br>
+<br>
+Het in het eerste lid bedoelde gebruiksrecht kan niet in een rechtspersoon worden ingebracht.<br>
+<br>
+§4. De in paragraaf 1, eerste lid bedoelde rechtspersonen leggen de jaarrekeningen en jaarverslagen ter kennisgeving aan het instellingsbestuur voor. Deze verplichting doet geen afbreuk aan eventuele bijkomende of zwaardere rapporteringsverplichtingen die door bijzondere regelgeving of op grond van een overeenkomst worden opgelegd.<br>
+<br>
+§5. Indien de rechtspersonen waarin hogescholen en universiteiten deelnemen, niet voldoen aan de bij of krachtens decreet gestelde voorwaarden:<br>
+1°&nbsp;&nbsp; ontzegt het instellingsbestuur aan deze rechtspersoon elk gebruik van lokalen, infrastructuur, diensten en personeel, en<br>
+2°&nbsp;&nbsp; neemt het instellingsbestuur de nodige maatregelen opdat de hogeschool of de universiteit zich uit de rechtspersoon terugtrekt, behoudens indien de onregelmatigheid onverwijld kan worden rechtgezet.<br>
+<br>
+§6. Voor de toepassing van het eerste lid wordt onder “deelnemen” verstaan:<br>
+1°&nbsp;&nbsp; een rechtspersoon oprichten, of<br>
+2°&nbsp;&nbsp; een participatie in een rechtspersoon verwerven of houden, of<br>
+3°&nbsp;&nbsp; zich in een rechtspersoon laten vertegenwoordigen.</p>
+
+<p>&nbsp;</p>
 
 ## Hoofdstuk 2 Deelname in spin-off bedrijven
 
@@ -11179,7 +11224,9 @@ In afwijking van de artikelen IV.95 en IV.108 van deze codex kan de Vlaamse Rege
 
 ### ART. V.6.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Assistenten hebben tot opdracht zich verder te bekwamen in de   wetenschappen. Behoudens het bepaalde in artikel V.7, hebben zij als   personeelslid het recht om door het verrichten van wetenschappelijk onderzoek of   het ontvangen van academisch onderwijs ten minste de helft van hun werktijd aan   de voorbereiding van een doctoraatsproefschrift te besteden.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Assistenten hebben tot opdracht zich verder te bekwamen in de wetenschappen. Zij hebben als personeelslid het recht om door het verrichten van wetenschappelijk onderzoek of het ontvangen van academisch onderwijs ten minste de helft van hun werktijd aan de voorbereiding van een doctoraatsproefschrift te besteden.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
+
+<p>&nbsp;</p>
 
 ### ART. V.7.
 
@@ -11207,7 +11254,9 @@ Tevens bepaalt het universiteitsbestuur het deeltijds karakter van een opdracht 
 
 Een deeltijdse opdracht wordt als een procentueel aandeel van een voltijdse opdracht bepaald. Voor het bepalen van een procentueel aandeel komt elke halve dag per week die besteed wordt ten dienste van de universiteit overeen met 10 %. Het procentuele aandeel omvat minstens 10 % van een voltijdse aanstelling en wordt altijd als een veelvoud van vijf uitgedrukt.<br>
 <br>
-In afwijking van het eerste lid bedraagt een deeltijdse opdracht van een lid van het zelfstandig academisch personeel die uitsluitend onderwijsactiviteiten omvat en van praktijkassistenten, ten minste 5 %.
+In afwijking van het eerste lid bedraagt een deeltijdse opdracht van een lid van het zelfstandig academisch personeel die uitsluitend onderwijsactiviteiten omvat en van praktijkassistenten, ten minste 5 %.&nbsp;De voormelde afwijking geldt ook voor een lid van het zelfstandig academisch personeel dat in uitvoering van een arbeidsovereenkomst of van een regle-ment over kliniekvergoedingen medische en paramedische activiteiten uitoe-fent in het universitair ziekenhuis dat deel uitmaakt van de eigen universiteit of daarvan afgesplitst is en omgevormd is tot een autonome rechtspersoon.<br>
+<br>
+De in het tweede lid vermelde afwijking is voor de Vrije Universiteit Brussel ook van toepassing op leden van het zelfstandig academisch personeel die verbonden zijn aan de tandheelkundige kliniek.
 
 ### ART. V.13.
 
@@ -11262,7 +11311,11 @@ Het universiteitsbestuur kan de aanstelling of benoeming van een personeelslid d
 
 ### ART. V.19.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Naast   het academisch personeel kan het universiteitsbestuur contractueel en buiten de   personeelsformatie voltijdse en deeltijdse gastprofessoren aanstellen voor een   periode van maximum 5 jaar. Opeenvolgende aanstellingen van voltijdse   gastprofessoren mogen in ieder geval de totale duur van 5 opeenvolgende jaren   niet overschrijden. Aanstellingen van deeltijdse gastprofessoren zijn   hernieuwbaar.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Naast het academisch personeel kan het universiteitsbestuur contractueel en buiten de personeelsformatie voltijdse en deeltijdse gastprofessoren aanstellen voor een periode van maximum 5 jaar. Opeenvolgende aanstellingen van voltijdse gastprofessoren mogen in ieder geval de totale duur van 5 opeenvolgende jaren niet overschrijden. Aanstellingen van deeltijdse gastprofessoren zijn hernieuwbaar.<br>
+<br>
+Deeltijdse gastprofessoren kunnen ook tewerkgesteld worden als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. In afwijking van het eerste lid, zijn artikel 10 en 10bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing op opeenvolgende arbeidsovereenkomsten van een gastprofessor als flexi-jobwerknemer.</p>
+
+<p>&nbsp;</p>
 
 ## Afdeling 3 Benoeming en aanstelling van het academisch personeel
 
@@ -11306,31 +11359,53 @@ In afwijking van het eerste lid kan het universiteitsbestuur op grond van een om
 
 ### ART. V.27.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   besluit tot benoeming of aanstelling van een lid van het zelfstandig academisch   personeel moet gemotiveerd zijn. In het bijzonder moet de benoeming of   aanstelling gegrond zijn op een vergelijking van de wetenschappelijke en de   onderwijskundige kwaliteiten van de kandidaten in het betrokken vakgebied. Het   universiteitsbestuur leeft de objectiviteit bij de selectie na.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   benoemings- of aanstellingsbesluit vermeldt het vakgebied of de vakgebieden   waarop het betrokken lid werkzaam zal zijn. Het universiteitsbestuur stelt bij   de indiensttreding van ieder personeelslid vast of het al dan niet ten laste   valt van de werkingsuitkeringen van de Vlaamse   Gemeenschap.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Het besluit tot benoeming of aanstelling van een lid van het zelfstandig academisch personeel moet gemotiveerd zijn. In het bijzonder moet de benoeming of aanstelling gegrond zijn op een vergelijking van de wetenschappelijke en de onderwijskundige kwaliteiten van de kandidaten in het betrokken vakgebied, en, desgevallend, hun wijze van functioneren. Het universiteitsbestuur leeft de objectiviteit bij de selectie na.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
+
+<p>&nbsp;</p>
+
+<p>Het benoemings- of aanstellingsbesluit vermeldt het vakgebied of de vakgebieden waarop het betrokken lid werkzaam zal zijn. Het universiteitsbestuur stelt bij de indiensttreding van ieder personeelslid vast of het al dan niet ten laste valt van de werkingsuitkeringen van de Vlaamse Gemeenschap.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.28.
 
-<p style="margin-left:0cm; margin-right:0cm">Een lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt benoemd.<br>
+<p>Een lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt benoemd.<br>
 <br>
 <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->Een lid van het zelfstandig academisch personeel met een deeltijdse opdracht kan ofwel benoemd worden, ofwel tijdelijk worden aangesteld voor hernieuwbare termijnen van ten hoogste 6 jaar.<br>
 <br>
-Het universiteitsbestuur kan in geval van eerste benoeming tot lid van het zelfstandig academisch personeel de personen aanstellen in een tijdelijk dienstverband als lid van het zelfstandig academisch personeel voor een periode van ten hoogste 3 jaar met uitzicht op een vaste benoeming zonder nieuwe vacature, indien het universiteitsbestuur de prestaties van de betrokkene gunstig beoordeelt. In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van het betrokken zelfstandig academisch personeelslid de aanstelling met een bijkomende termijn van een jaar verlengd.&nbsp;Als de beoordeling gunstig is, maar het betrokken personeelslid niet voldoet aan de taalvereiste, vermeld in artikel II.270, § 2, kan het personeelslid niet benoemd worden maar kan de aanstelling met een bijkomende termijn worden verlengd om het vereiste beheersingsniveau van de Nederlandse taal te bereiken. Als de termijn wordt verlengd, wordt het personeelslid in principe benoemd zonder nieuwe beoordeling van zodra het aan het vereiste beheersingsniveau van de Nederlandse taal voldoet. De totale duur van de initiële aanstelling en de bijkomende termijn mag niet meer dan 5 jaar bedragen.</p>
+Het universiteitsbestuur kan in geval van eerste benoeming tot lid van het zelfstandig academisch personeel de personen aanstellen in een tijdelijk dienstverband als lid van het zelfstandig academisch personeel voor een periode van ten hoogste 3 jaar met uitzicht op een vaste benoeming zonder nieuwe vacature, indien het universiteitsbestuur de prestaties en de wijze van functioneren van de betrokkene gunstig beoordeelt. In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van het betrokken zelfstandig academisch personeelslid de aanstelling met een bijkomende termijn van een jaar verlengd.&nbsp;Als de beoordeling gunstig is, maar het betrokken personeelslid niet voldoet aan de taalvereiste, vermeld in artikel II.270, § 2, kan het personeelslid niet benoemd worden maar kan de aanstelling met een bijkomende termijn worden verlengd om het vereiste beheersingsniveau van de Nederlandse taal te bereiken. Als de termijn wordt verlengd, wordt het personeelslid in principe benoemd zonder nieuwe beoordeling van zodra het aan het vereiste beheersingsniveau van de Nederlandse taal voldoet. De totale duur van de initiële aanstelling en de bijkomende termijn mag niet meer dan 5 jaar bedragen.</p>
 
 ### ART. V.29.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van het bepaalde   in artikel V.28 worden de in artikel V.3, tweede lid bedoelde docenten   aangesteld voor een termijn van 5 jaar. Indien het universiteitsbestuur aan het   einde van die termijn de prestaties van een docent gunstig beoordeelt, wordt het   betrokken personeelslid zonder nieuwe vacature benoemd in de graad van   hoofddocent. De beoordeling wordt grondig gemotiveerd op basis van de   academische verdiensten van de docent in het tenure trackstelsel.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het universiteitsbestuur legt   voorafgaandelijk de criteria vast voor de beoordeling van de docenten in het   tenure trackstelsel en maakt deze in de universiteit   bekend.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In geval van zwangerschap of   langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op   verzoek van de betrokken docent de aanstelling met een bijkomende termijn van   een jaar verlengd.</P>
+<p>In afwijking van het bepaalde in artikel V.28 worden de in artikel V.3, tweede lid bedoelde docenten aangesteld voor een termijn van 5 jaar. Indien het universiteitsbestuur aan het einde van die termijn de prestaties&nbsp;en de wijze van functioneren van een docent gunstig beoordeelt, wordt het betrokken personeelslid zonder nieuwe vacature benoemd in de graad van hoofddocent.&nbsp;<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<br>
+Het universiteitsbestuur legt voorafgaandelijk de criteria vast voor de beoordeling van de docenten in het tenure trackstelsel en maakt deze in de universiteit bekend.&nbsp;De beoordeling wordt grondig gemotiveerd op basis van deze criteria.<br>
+<br>
+In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van de betrokken docent de aanstelling met een bijkomende termijn van een jaar verlengd.</p>
 
 ### ART. V.30.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Behoudens het bepaalde in artikel V.31 en V.32 en behoudens bij   vervangingsovereenkomsten worden leden van het assisterend academisch personeel   aangesteld voor een termijn van 2 jaar, die tweemaal kan worden hernieuwd. Een   verlenging van de aanstelling van een lid van het assisterend academisch   personeel kan slechts na een gunstige evaluatie. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Wanneer uitzonderlijk geachte omstandigheden zulks vereisen, kunnen zij   voor een bijkomende termijn van een jaar worden aangesteld. In het geval van   zwangerschap of langdurige en ernstige ziekte tijdens de eerste, de tweede of de   derde termijn van het mandaat worden de assistenten voor een bijkomende termijn   van een jaar aangesteld. Het mandaat wordt in ieder geval verlengd met een   periode gelijk aan de duur die men tijdens het mandaat besteedde aan het   volbrengen van de militie-verplichtingen of de vervangende burgerdienst.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Voor   de toepassing van deze mandaatsanciënniteit worden de jaren gepresteerd als   mandaathouders van het Vlaams Instituut voor de Bevordering van het   Wetenschappelijk-Technologisch Onderzoek in de Industrie, van het Nationaal   Fonds voor Wetenschappelijk Onderzoek of als bursalen van het Instituut tot   Aanmoediging van het Wetenschappelijk Onderzoek in de Nijverheid en Landbouw of   van andere door de Vlaamse Regering erkende instellingen voor wetenschappelijk   onderzoek hiermee gelijkgesteld. Voor de berekening van de maximaal toelaatbare   aanstellingsduur van assistenten bedoeld in het eerste lid, wordt de periode   gedurende dewelke de betrokkene een stipendium van een universiteit in de   Vlaamse Gemeenschap genoot voor de voorbereiding van een doctoraal proefschrift,   in rekening gebracht. Bij wijze van overgangsmaatregel blijven de lopende   aanstellingen doorlopen tot het einde van het tweejarig mandaat in het geval dat   de maximaal toelaatbare aanstellingsduur overschreden   is.</P>
+<p>Behoudens het bepaalde in artikel V.31 en V.32 en behoudens bij vervangingsovereenkomsten worden leden van het assisterend academisch personeel aangesteld voor een termijn van 2 jaar, die tweemaal kan worden hernieuwd. Een verlenging van de aanstelling van een lid van het assisterend academisch personeel kan slechts na een gunstige evaluatie.<br>
+<br>
+In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengeslo-ten periode van minstens twintig weken halftijdse loopbaanonderbreking tijdens de eerste, tweede of derde termijn van het mandaat, wordt het mandaat van de assistent, na de tweede hernieuwing van de termijn, vermeld in het eerste lid, eenmalig met een bijkomende termijn van zes maanden tot een jaar verlengd op verzoek van het personeelslid. Als uitzonderlijke omstandigheden dat vereisen, kunnen assistenten na de tweede hernieuwing van de termijn, vermeld in het eerste lid, eenmalig voor een bijkomende termijn van een maand tot een jaar worden aangesteld.<br>
+<br>
+Voor de toepassing van deze mandaatsanciënniteit worden de jaren gepresteerd als mandaathouders van het Vlaams Instituut voor de Bevordering van het Wetenschappelijk-Technologisch Onderzoek in de Industrie, van het Nationaal Fonds voor Wetenschappelijk Onderzoek of als bursalen van het Instituut tot Aanmoediging van het Wetenschappelijk Onderzoek in de Nijverheid en Landbouw of van andere door de Vlaamse Regering erkende instellingen voor wetenschappelijk onderzoek hiermee gelijkgesteld. Voor de berekening van de maximaal toelaatbare aanstellingsduur van assistenten bedoeld in het eerste lid, wordt de periode gedurende dewelke de betrokkene een stipendium van een universiteit in de Vlaamse Gemeenschap genoot voor de voorbereiding van een doctoraal proefschrift, in rekening gebracht. Bij wijze van overgangsmaatregel blijven de lopende aanstellingen doorlopen tot het einde van het tweejarig mandaat in het geval dat de maximaal toelaatbare aanstellingsduur overschreden is.</p>
 
 ### ART. V.31.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voltijdse en deeltijdse praktijkassistenten worden aangesteld voor een   periode van maximum 5 jaar. Opeenvolgende aanstellingen van voltijdse   praktijkassistenten mogen de totale duur van 5 opeenvolgende jaren niet   overschrijden. Aanstellingen van deeltijdse praktijkassistenten zijn onbeperkt   hernieuwbaar.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>Voltijdse en deeltijdse praktijkassistenten worden aangesteld voor een periode van maximum 5 jaar. Opeenvolgende aanstellingen van voltijdse praktijkassistenten mogen de totale duur van 5 opeenvolgende jaren niet overschrijden. Aanstellingen van deeltijdse praktijkassistenten zijn onbeperkt hernieuwbaar.<br>
+<br>
+Deeltijdse praktijkassistenten kunnen ook tewerkgesteld worden als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. In afwijking van het eerste lid, zijn artikel 10 en 10bis van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van&nbsp;toepassing op opeenvolgende arbeidsovereenkomsten van een praktijkassistent als flexi-jobwerknemer.</p>
 
 ### ART. V.32.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Doctor-assistenten worden aangesteld voor maximaal 2 termijnen van ten   hoogste 3 jaar.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   aanstelling voor de tweede periode kan slechts na een gunstige evaluatie van de   geleverde wetenschappelijke onderzoeksprestaties.</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>In   geval van zwangerschap of langdurige en ernstige ziekte tijdens de eerste of de   tweede termijn van het mandaat worden de doctor-assistenten voor een bijkomende   termijn van een jaar aangesteld.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Doctor-assistenten worden aangesteld voor maximaal 2 termijnen van ten hoogste 3 jaar.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+De aanstelling voor de tweede periode kan slechts na een gunstige evaluatie van de geleverde wetenschappelijke onderzoeksprestaties.<br>
+<br>
+In het geval van zwangerschap, een aaneensluitende periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneensluitende periode van minstens twintig weken halftijdse loopbaanonderbre-king tijdens de eerste of tweede termijn van het mandaat, wordt het mandaat van de doctor-assistent na de tweede termijn, vermeld in het eerste lid, eenmalig met een bijkomende termijn van zes maanden tot een jaar verlengd op vraag van het personeelslid.</p>
+
+<p>&nbsp;</p>
 
 ## Afdeling 4 Salarisschalen, vergoedingen en toelagen
 
@@ -11404,21 +11479,47 @@ Dit recht vervalt indien het betrokken lid langer dan 8 al dan niet opeenvolgend
 
 ### ART. V.46.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Het universiteitsbestuur legt de regels vast voor de evaluatie van de prestaties en de wijze van functioneren van de leden van het academisch personeel.<br>
+<p>Het universiteitsbestuur legt de regels vast voor de begeleiding en evaluatie van de prestaties en de wijze van functioneren van de leden van het academisch personeel. De regels waarborgen maximaal de rechten van het perso¬neelslid.<br>
 <br>
-Ten minste om de 5 jaar moet er een evaluatie plaatsvinden van de wijze waarop elk lid van het academisch personeel zijn taak heeft vervuld in de voorbije periode. De evaluatieprocedure moet voorzien in een beroepsmogelijkheid met onafhankelijke beroepsinstanties. De procedure moet de rechten van het personeelslid maximaal waarborgen. In afwijking van het bepaalde in de eerste volzin moet er evenwel een evaluatie plaatsvinden 3 jaar na de eerste aanstelling.<br>
+Als vanuit de universiteit geen initiatief voor een opvolgingsgesprek genomen wordt, heeft het personeelslid eenmaal per jaar het recht om een opvolgingsge-sprek aan te vragen. Van een opvolgingsgesprek kan een verslag worden opgemaakt waarin eventueel persoons- en ontwikkelingsgerichte doelstellingen worden opgenomen.</p>
+
+### ART. V.46/1.
+
+§1. Als op basis van een opvolgingsgesprek, vermeld in artikel V.46, blijkt dat er problemen zijn met de prestaties of de wijze van functioneren van een benoemd lid van het academisch personeel, kan er door de evaluator een eerste remediëringstraject opgestart worden. De termijn van het eerste remediëringstra-ject bedraagt ten minste negen maanden.<br>
 <br>
-Indien de geleverde prestaties en de bereikte resultaten als ondermaats worden geëvalueerd, kan het universiteitsbestuur besluiten dat de anciënniteitsopbouw met het oog op de volgende salaristrap gedurende een jaar wordt gehalveerd.<br>
+Voor de opstart van het eerste remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en over de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarbij de ontvangstdatum duidelijk is.&nbsp;<br>
 <br>
-Indien het eindoordeel van een evaluatie “onvoldoende” is, kan het universiteitsbestuur de anciënniteitsopbouw met het oog op de volgende salaristrap gedurende een jaar stopzetten.<br>
+De termijn, vermeld in het eerste lid, bedraagt ten minste drie maanden indien de problemen, vermeld in het eerste lid, binnen een termijn van 24 maanden na het afsluiten van een tweede remediëringstraject, vermeld in paragraaf 2, terug opduiken.<br>
 <br>
-Als het eindoordeel van twee opeenvolgende evaluaties `onvoldoende' is of driemaal `onvoldoende' is in de loop van de beroepscarrière, kan het universiteitsbestuur het personeelslid in kwestie ontslaan. In die gevallen kent het universiteitsbestuur een opzeggingstermijn toe. De opzeggingstermijn bedraagt drie maanden voor het personeelslid dat minder dan vijf jaar anciënniteit heeft aan de universiteit. De termijn wordt verhoogd met drie maanden per begonnen periode van vijf jaar anciënniteit. Het universiteitsbestuur en het personeelslid in kwestie kunnen een langere of kortere opzeggingstermijn overeenkomen.<br>
+Het eerste remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “ondermaats”. Beide partijen ontvangen een schriftelijk of elektronisch exemplaar van het evaluatiedo-cument, op een manier waarbij de ontvangstdatum duidelijk is.<br>
 <br>
-De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag. Het ontslag wordt betekend met een aangetekende brief en heeft uitwerking op de derde dag na de verzending.<br>
+De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “ondermaats” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan alle aan de functie verbonden vereisten voldoen en dat er een tweede remediëringstraject nodig is.&nbsp;<br>
+<br>
+Een personeelslid kan bij een onafhankelijke beroepsinstantie binnen een redelijke termijn een beroep instellen tegen de conclusie “ondermaats”, vermeld in het vijfde lid. Het beroep schort de opstart van een tweede remediëringstraject niet op.&nbsp;<br>
+<br>
+§2. Na een conclusie “ondermaats”, vermeld in paragraaf 1, vierde lid, wordt een tweede remediëringstraject opgestart. De termijn van het tweede remediëringstraject bedraagt ten minste drie maanden.&nbsp;<br>
+<br>
+Voor de opstart van het tweede remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en over de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.<br>
+<br>
+Het tweede remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “onvoldoende”. De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “onvoldoende” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan de aan de functie verbonden vereisten voldoen. Na de conclusie “onvoldoende” kan het universiteitsbestuur het personeelslid ontslaan.<br>
+<br>
+Een personeelslid kan bij een onafhankelijke beroepsinstantie binnen een redelijke termijn een beroep instellen tegen de conclusie “onvoldoende”, vermeld in het derde lid. Het beroep schort de uitvoering van het ontslag van het personeelslid of van andere maatregelen als gevolg van deze conclusie op.<br>
+<br>
+§3. Tijdens het eerste remediëringstraject, vermeld in paragraaf 1, en het tweede remediëringstraject, vermeld in paragraaf 2, kan de evaluator of het personeelslid een tussentijds gesprek met respectievelijk het personeelslid of de evaluator aanvragen. In dit gesprek wordt een tussentijdse evaluatie van het lopende remediëringstraject opgemaakt. Het gesprek kan leiden tot een van de volgende beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;het onveranderd voortzetten van het remediëringstraject;<br>
+2°&nbsp;&nbsp; &nbsp;het verlengen van de termijn van het remediëringstraject;<br>
+3°&nbsp;&nbsp; &nbsp;het aanpassen van de acties tot verbetering van de prestaties of de wijze van functioneren van het personeelslid;<br>
+4°&nbsp;&nbsp; &nbsp;het beëindigen van het remediëringstraject. Deze beslissing is alleen mogelijk als de evaluator oordeelt dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen.<br>
+<br>
+§4. In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengesloten periode van minstens twintig weken halftijdse loopbaanonderbreking tijdens het eerste remediëringstraject, vermeld in paragraaf 1, of het tweede remediëringstraject, vermeld in paragraaf 2, wordt het remediëringstraject opgeschort voor de duur van de afwezigheid.<br>
+<br>
+§5. In geval van een ontslag op grond van de eindconclusie “onvoldoende”, vermeld in paragraaf 2, kent het universiteitsbestuur een opzeggingstermijn toe. De opzeggingstermijn bedraagt drie maanden voor het personeelslid dat minder dan vijf jaar anciënniteit heeft aan de universiteit. De termijn wordt verhoogd met drie maanden per begonnen periode van vijf jaar anciënniteit. Het universiteitsbestuur en het personeelslid in kwestie kunnen een langere of kortere opzeggingstermijn overeenkomen.<br>
+<br>
+De opzeggingstermijn, vermeld in het eerste lid, gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag. Het ontslag wordt betekend met een aangetekende brief en heeft uitwerking op de derde dag na de verzending.<br>
 <br>
 Het universiteitsbestuur kan beslissen dat het ontslag onmiddellijk ingaat. In dat geval betaalt het universiteitsbestuur een verbrekingsvergoeding die gelijk is aan het salaris dat overeenstemt met de duur van de berekende opzeggingstermijn.<br>
 <br>
-Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering, worden tijdens de opzeggingstermijn of op de verbrekingsvergoeding de nodige werknemersbijdragen ingehouden en samen met de werkgeversbijdragen gestort. Als die bijdragen niet volstaan, betaalt de universiteit de nog benodigde werkgevers- en werknemersbijdragen.</p>
+Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering, worden tijdens de opzeggingstermijn of op de verbrekingsvergoeding de nodige werknemersbijdragen ingehouden en samen met de werkgeversbijdragen gestort. Als die bijdragen niet volstaan, betaalt de universiteit de nog benodigde werkgevers- en werknemersbijdragen.
 
 ## Hoofdstuk 2 Het administratief en technisch personeel
 
@@ -11442,7 +11543,15 @@ Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, d
 
 ### ART. V.50.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Benoemingen of aanstellingen in de functies waarin het loopbaankader   voorziet, gebeuren door werving, bevordering, overheveling of   mutatie.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   benoemingen of aanstellingen vinden in principe plaats in een voltijds of   deeltijds vast dienstverband. De omvang van een deeltijds dienstverband wordt   uitgedrukt in een procentueel aandeel van een voltijds dienstverband. Het   procentueel dienstverband moet ten minste 10% van een voltijdse aanstelling   omvatten en wordt als een veelvoud van 5 uitgedrukt. Een halve dag per week komt   overeen met 10%. De betrokkenen verkrijgen hetzelfde procentueel aandeel van het   salaris dat zij zouden genieten in een voltijds dienstverband. Om te voorzien in   tijdelijke personeelsbehoeften of in tijdelijke vervangingen van   personeelsleden, kan het universiteitsbestuur personeel aanwerven, doch enkel op   contractuele basis. De duur van de waarneming van vacante betrekkingen in   afwachting van de definitieve opvulling ervan kan ten hoogste 2 jaar   bedragen.</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur kan de omvang van het dienstverband wijzigen met instemming   of op verzoek van het personeelslid. In geval van een vermindering van de omvang   behoudt het personeelslid gedurende 6 jaar het recht van terugkeer naar de   oorspronkelijke omvang.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>Benoemingen of aanstellingen in de functies waarin het loopbaankader voorziet, gebeuren door werving, bevordering, overheveling of mutatie.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+De benoemingen of aanstellingen vinden in principe plaats in een voltijds of deeltijds vast dienstverband. De omvang van een deeltijds dienstverband wordt uitgedrukt in een procentueel aandeel van een voltijds dienstverband. Het procentueel dienstverband moet ten minste 10% van een voltijdse aanstelling omvatten en wordt als een veelvoud van 5 uitgedrukt. Een halve dag per week komt overeen met 10%. De betrokkenen verkrijgen hetzelfde procentueel aandeel van het salaris dat zij zouden genieten in een voltijds dienstverband. Om te voorzien in tijdelijke personeelsbehoeften of in tijdelijke vervangingen van personeelsleden, kan het universiteitsbestuur personeel aanwerven, doch enkel op contractuele basis. De duur van de waarneming van vacante betrekkingen in afwachting van de definitieve opvulling ervan kan ten hoogste 2 jaar bedragen.<br>
+<br>
+Het universiteitsbestuur kan de omvang van het dienstverband wijzigen met instemming of op verzoek van het personeelslid. In geval van een vermindering van de omvang behoudt het personeelslid gedurende 6 jaar het recht van terugkeer naar de oorspronkelijke omvang.<br>
+<br>
+Het universiteitsbestuur kan een deeltijds lid van het administratief en technisch personeel ook tewerkstellen als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. Op deze personeelsleden is de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.51.
 
@@ -11510,23 +11619,47 @@ Het universiteitsbestuur kan jaarlijks een premie toekennen aan leden van het ad
 
 ### ART. V.62.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Het universiteitsbestuur legt een evaluatieprocedure vast met inbegrip van een beroepsmogelijkheid met onafhankelijke beroepsinstanties. De procedure moet de rechten van het personeelslid maximaal waarborgen.<br>
+<p>Het universiteitsbestuur legt de regels vast voor de begeleiding en evaluatie van de prestaties en de wijze van functioneren van de leden van het administratief en technisch personeel. De regels waarborgen maximaal de rechten van het personeelslid.<br>
 <br>
-Ten minste om de 5 jaar vindt er een evaluatie plaats van de geleverde prestaties, de bereikte resultaten en de wijze van functioneren van elk lid van het administratief en technisch personeel, gerelateerd aan de functiebeschrijving en het functieprofiel. In afwijking van het bepaalde in de eerste volzin moet er evenwel een evaluatie plaatsvinden 3 jaar na de eerste aanstelling.<br>
+Als vanuit de universiteit geen initiatief voor een opvolgingsgesprek genomen wordt, heeft het personeelslid eenmaal per jaar het recht om een opvolgingsge-sprek aan te vragen. Van een opvolgingsgesprek kan een verslag worden opgemaakt waarin eventueel persoons- en ontwikkelingsgerichte doelstellingen worden opgenomen.</p>
+
+### ART. V.62/1.
+
+§1. Als op basis van een opvolgingsgesprek, vermeld in artikel V.46, blijkt dat er problemen zijn met de prestaties of de wijze van functioneren van een benoemd lid van het administratief en technisch personeel, kan er door de evaluator een eerste remediëringstraject opgestart worden. De termijn van het eerste remediëringstraject bedraagt ten minste negen maanden.<br>
 <br>
-Indien de geleverde prestaties en de bereikte resultaten als ondermaats worden geëvalueerd, kan het universiteitsbestuur besluiten dat de anciënniteitsopbouw met het oog op de volgende salaristrap gedurende een jaar wordt gehalveerd.<br>
+Voor de opstart van het eerste remediëringstraject wordt een document opgemaakt waarin, rekening houdend met de specifieke omstandigheden, tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.&nbsp;<br>
 <br>
-Indien het eindoordeel van een evaluatie “onvoldoende” is, kan het universiteitsbestuur de anciënniteitsopbouw met het oog op de volgende salaristrap gedurende een jaar stopzetten.<br>
+De termijn, vermeld in het eerste lid, bedraagt ten minste drie maanden indien de problemen, vermeld in het eerste lid, binnen een termijn van 24 maanden na het afsluiten van een tweede remediëringstraject, vermeld in paragraaf 2, terug opduiken.<br>
 <br>
-Als de prestaties van een personeelslid als ondermaats of als onvoldoende worden beoordeeld, kan het universiteitsbestuur het personeelslid op zijn verzoek terugzetten in een lagere graad.<br>
+Het eerste remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “ondermaats”. Beide partijen ontvangen een schriftelijk of elektronisch exemplaar van het evaluatiedo-cument, op een manier waarop de ontvangstdatum duidelijk is.<br>
 <br>
-Als het eindoordeel van twee opeenvolgende evaluaties `onvoldoende' is of driemaal `onvoldoende' is in de loop van de beroepscarrière, kan het universiteitsbestuur het personeelslid in kwestie ontslaan. In die gevallen kent het universiteitsbestuur een opzeggingstermijn toe. De opzeggingstermijn bedraagt drie maanden voor het personeelslid dat minder dan vijf jaar anciënniteit heeft aan de universiteit. De termijn wordt verhoogd met drie maanden per begonnen periode van vijf jaar anciënniteit. Het universiteitsbestuur en het personeelslid in kwestie kunnen een langere of kortere opzeggingstermijn overeenkomen.<br>
+De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “ondermaats” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan alle aan de functie verbonden vereisten voldoen en dat er een tweede remediëringstraject nodig is.&nbsp;<br>
 <br>
-De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag. Het ontslag wordt betekend met een aangetekende brief en heeft uitwerking op de derde dag na de verzending.<br>
+Een personeelslid kan bij een onafhankelijke beroepsinstantie binnen een redelijke termijn een beroep instellen tegen de conclusie “ondermaats”, vermeld in het vierde lid. Het beroep schort de opstart van een tweede remediëringstraject niet op.&nbsp;<br>
+<br>
+§2. Na een conclusie “ondermaats”, vermeld in paragraaf 1, vierde lid, wordt een tweede remediëringstraject opgestart. De termijn van het tweede remediëringstraject bedraagt ten minste drie maanden.&nbsp;<br>
+<br>
+Voor de opstart van het tweede remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en over de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.<br>
+<br>
+Het tweede remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “onvoldoende”. De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “onvoldoende” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan de aan de functie verbonden vereisten voldoen. Na de conclusie “onvoldoende” kan het universiteitsbestuur het personeelslid ontslaan.<br>
+<br>
+Een personeelslid kan bij een onafhankelijke beroepsinstantie binnen een redelijke termijn een beroep instellen tegen de conclusie “onvoldoende”, vermeld in het derde lid. Het beroep schort de uitvoering van het ontslag van het personeelslid of van andere maatregelen als gevolg van deze conclusie op.<br>
+<br>
+§3. Tijdens het eerste remediëringstraject, vermeld in paragraaf 1, en het tweede remediëringstraject, vermeld in paragraaf 2, kan de evaluator of het personeelslid een tussentijds gesprek met respectievelijk het personeelslid of de evaluator aanvragen. In dit gesprek wordt een tussentijdse evaluatie van het lopende remediëringstraject opgemaakt. Het gesprek kan leiden tot een van de volgende beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;het onveranderd voortzetten van het remediëringstraject;<br>
+2°&nbsp;&nbsp; &nbsp;het verlengen van de termijn van het remediëringstraject;<br>
+3°&nbsp;&nbsp; &nbsp;het aanpassen van de acties tot verbetering van de prestaties of de wijze van functioneren van het personeelslid;<br>
+4°&nbsp;&nbsp; &nbsp;het beëindigen van het remediëringstraject. Deze beslissing is alleen mogelijk als de evaluator oordeelt dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen.<br>
+<br>
+§4. In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengesloten periode van minstens twintig weken halftijdse loopbaanonderbre-king tijdens het eerste remediëringstraject, vermeld in paragraaf 1, of het tweede remediëringstraject, vermeld in paragraaf 2, wordt het remediëringstraject opgeschort voor de duur van de afwezigheid.<br>
+<br>
+§5. In geval van een ontslag op grond van de eindconclusie “onvoldoende”, vermeld in paragraaf 2, kent het universiteitsbestuur een opzeggingstermijn toe. De opzeggingstermijn bedraagt drie maanden voor het personeelslid dat minder dan vijf jaar anciënniteit heeft aan de universiteit. De termijn wordt verhoogd met drie maanden per begonnen periode van vijf jaar anciënniteit. Het universiteitsbestuur en het personeelslid in kwestie kunnen een langere of kortere opzeggingstermijn overeenkomen.<br>
+<br>
+De opzeggingstermijn, vermeld in het eerste lid, gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag. Het ontslag wordt betekend met een aangetekende brief en heeft uitwerking op de derde dag na de verzending.<br>
 <br>
 Het universiteitsbestuur kan beslissen dat het ontslag onmiddellijk ingaat. In dat geval betaalt het universiteitsbestuur een verbrekingsvergoeding die gelijk is aan het salaris dat overeenstemt met de duur van de berekende opzeggingstermijn.<br>
 <br>
-Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering, worden tijdens de opzeggingstermijn of op de verbrekingsvergoeding de nodige werknemersbijdragen ingehouden en samen met de werkgeversbijdragen gestort. Als die bijdragen niet volstaan, betaalt de universiteit de nog benodigde werkgevers- en werknemersbijdragen..</p>
+Met het oog op de opname van het personeelslid in de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering, worden tijdens de opzeggingstermijn of op de verbrekingsvergoeding de nodige werknemersbijdragen ingehouden en samen met de werkgeversbijdragen gestort. Als die bijdragen niet volstaan, betaalt de universiteit de nog benodigde werkgevers- en werknemersbijdragen.
 
 ## Afdeling 6 Tuchtregeling, administratieve standen, verlofregeling en ambtsneerlegging
 
@@ -11766,37 +11899,77 @@ Het eerste lid is niet van toepassing op personeelsleden die gedeeltelijk ter be
 
 ## Afdeling 3 Evaluatie
 
+### ART. V.92/1.
+
+Het hogeschoolbestuur legt de regels vast voor de begeleiding en evaluatie van de prestaties en de wijze van functioneren van de leden van het personeel, bezoldigd ten laste van de werkingsuitkeringen van de Vlaamse Gemeenschap. De regels waarborgen maximaal de rechten van het personeelslid.<br>
+<br>
+Als vanuit de hogeschool geen initiatief voor een opvolgingsgesprek genomen wordt, heeft het personeelslid eenmaal per jaar het recht om een opvolgingsge-sprek aan te vragen. Van een opvolgingsgesprek kan een verslag worden opgemaakt waarin eventueel persoons- en ontwikkelingsgerichte doelstellingen worden opgenomen.
+
+### ART. V.92/2.
+
+§1. Als op basis van een opvolgingsgesprek, vermeld in artikel V.92/1, blijkt dat er problemen zijn met de prestaties of de wijze van functioneren van een benoemd lid van het personeel kan er door de evaluator een eerste remediëringstraject opgestart worden. De termijn van het eerste remediëringstraject bedraagt ten minste negen maanden.<br>
+<br>
+Voor de opstart van het eerste remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.&nbsp;<br>
+<br>
+De termijn, vermeld in het eerste lid, bedraagt ten minste drie maanden indien de problemen, vermeld in het eerste lid, binnen een termijn van 24 maanden na het afsluiten van een tweede remediëringstraject, vermeld in paragraaf 2, terug opduiken.<br>
+<br>
+Het eerste remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “ondermaats”. Beide partijen ontvangen een schriftelijk of elektronisch exemplaar van het evaluatiedocument, op een manier waarop de ontvangstdatum duidelijk is.<br>
+<br>
+De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “ondermaats” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan alle aan de functie verbonden vereisten voldoen en dat er een tweede remediëringstraject nodig is.&nbsp;<br>
+<br>
+Een personeelslid kan een beroep instellen tegen de conclusie “ondermaats”, vermeld in het vierde lid. Het beroep schort de opstart van een tweede remediëringstraject niet op.&nbsp;<br>
+<br>
+§2. Na een conclusie “ondermaats”, vermeld in paragraaf 1, vierde lid, wordt een tweede remediëringstraject opgestart. De termijn van het tweede remediëringstraject bedraagt ten minste drie maanden.&nbsp;<br>
+<br>
+Voor de opstart van het tweede remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.<br>
+<br>
+Het tweede remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “onvoldoende”. De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “onvoldoende” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan de aan de functie verbonden vereisten voldoen. Na de conclusie “onvoldoende” kan het hogeschool-bestuur het personeelslid ontslaan.<br>
+<br>
+Een personeelslid kan een beroep instellen tegen de conclusie “onvoldoende”, vermeld in het derde lid. Het beroep schort de uitvoering van het ontslag van het personeelslid of van andere maatregelen als gevolg van deze conclusie op.&nbsp;<br>
+<br>
+§3. Tijdens het eerste remediëringstraject, vermeld in paragraaf 1, en het tweede remediëringstraject, vermeld in paragraaf 2, kan de evaluator of het personeelslid een tussentijds gesprek met respectievelijk het personeelslid of de evaluator aanvragen. In dit gesprek wordt een tussentijdse evaluatie van het lopende remediëringstraject opgemaakt. Het gesprek kan leiden tot een van de volgende beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;het onveranderd voortzetten van het remediëringstraject;<br>
+2°&nbsp;&nbsp; &nbsp;het verlengen van de termijn van het remediëringstraject;<br>
+3°&nbsp;&nbsp; &nbsp;het aanpassen van de acties tot verbetering van de prestaties of de wijze van functioneren van het personeelslid;<br>
+4°&nbsp;&nbsp; &nbsp;het beëindigen van het remediëringstraject. Deze beslissing is alleen mogelijk als de evaluator oordeelt dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen.<br>
+<br>
+§4. In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengesloten periode van minstens twintig weken halftijdse loopbaanonderbreking tijdens het eerste remediëringstraject, vermeld in paragraaf 1, of het tweede remediëringstraject, vermeld in paragraaf 2, kan het remediëringstraject op verzoek van het personeelslid met een bijkomende termijn verlengd worden. Het verzoek wordt voor het einde van het lopende remediëringstraject bij het hogeschoolbestuur ingediend. De bijkomende termijn bedraagt maximaal de termijn van het lopende remediëringstraject.
+
+### ART. V.92/3.
+
+§1. Als op basis van een opvolgingsgesprek, vermeld in artikel V.92/1, blijkt dat er problemen zijn met de prestaties of de wijze van functioneren van een tijdelijk lid van het personeel met een ambtsanciënniteit van ten minste acht jaar, kan er door de evaluator een remediëringstraject opgestart worden. Voor een tijdelijk personeelslid met een ambtsanciënniteit van ten minste acht jaar bedraagt de termijn van het remediëringstraject ten minste vier maanden. Voor een tijdelijk personeelslid met een ambtsanciënniteit van ten minste tien jaar bedraagt de termijn van het remediëringstraject ten minste zes maanden.<br>
+<br>
+Voor de opstart van het remediëringstraject wordt een document opgemaakt waarin tenminste duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en de termijn wordt gemotiveerd. Beide partijen ontvangen hier een schriftelijk of elektronisch exemplaar van, op een manier waarop de ontvangstdatum duidelijk is.<br>
+<br>
+Het remediëringstraject wordt afgesloten met een evaluatie. De evaluatie leidt tot een gemotiveerde conclusie “gunstig” of “onvoldoende”. De conclusie “gunstig” betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen en dat het remediëringstraject eindigt. De conclusie “onvoldoende” betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan de aan de functie verbonden vereisten voldoen. Na de conclusie “onvoldoende” kan het hogeschoolbestuur het personeelslid ontslaan.<br>
+<br>
+Een personeelslid kan een beroep instellen tegen de conclusie “onvoldoende”, vermeld in het derde lid. Het beroep schort de uitvoering van het ontslag van het personeelslid of van andere maatregelen als gevolg van deze conclusie op.&nbsp;<br>
+<br>
+§2. Tijdens het remediëringstraject, vermeld in paragraaf 1, kan de evaluator of het personeelslid een tussentijds gesprek met respectievelijk het personeelslid of de evaluator aanvragen. In dit gesprek wordt een tussentijdse evaluatie van het lopende remediëringstraject opgemaakt. Het gesprek kan leiden tot een van de volgende beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;het onveranderd voortzetten van het remediëringstraject;<br>
+2°&nbsp;&nbsp; &nbsp;het verlengen van de termijn van het remediëringstraject;<br>
+3°&nbsp;&nbsp; &nbsp;het aanpassen van de acties tot verbetering van de prestaties of de wijze van functioneren van het personeelslid;<br>
+4°&nbsp;&nbsp; &nbsp;het beëindigen van het remediëringstraject. Deze beslissing is alleen mogelijk als de evaluator oordeelt dat de prestaties en de wijze van functioneren van het personeelslid aan de aan de functie verbonden vereisten voldoen.
+
 ### ART. V.93.
 
-<p>§1. Het hogeschoolbestuur legt een evaluatieregeling vast, met inbegrip van de evaluatieprocedure en de werking van het college van beroep inzake evaluatie. De criteria die hierbij gehanteerd worden en de manier waarop de evaluatie tot stand komt, zijn voorwerp van onderhandeling in het hogeschoolonderhandelingscomité.</p>
-
-<p>&nbsp;</p>
-
-<p>§2. De evaluatie is verplicht voor elk personeelslid en gebeurt minstens vijfjaarlijks, behalve wanneer het personeelslid de evaluatie "onvoldoende" toegewezen krijgt. In dit geval dient na een jaar een nieuwe evaluatie te gebeuren. In afwijking van de termijn van 5 jaar, gebeurt de eerste evaluatie van het personeelslid na de eerste aanstelling na maximum 3 jaar.</p>
-
-<p>&nbsp;</p>
-
-<p>§3. Indien een evaluatie "onvoldoende" wordt toegekend, kan het betrokken personeelslid binnen een termijn van 15 kalenderdagen beroep aantekenen tegen deze beslissing bij het college van beroep inzake evaluatie.</p>
-
-<p>&nbsp;</p>
-
-<p>Het hogeschoolbestuur richt een college van beroep inzake evaluatie op. Dit college bestaat uit 5 leden en 5 plaatsvervangende leden, al dan niet personeelsleden van de hogeschool. Zij worden aangeduid voor een termijn van 4 jaar door het hogeschoolbestuur, waarbij het hogeschoolonderhandelingscomité moet instemmen met 3 van de 5 leden en 3 van de 5 plaatsvervangende leden. Personeelsleden die betrokken waren bij de evaluatie die aanleiding gegeven heeft tot het aantekenen van het beroep, kunnen geen zitting hebben in het college van beroep. Wanneer er tijdens de mandaatstermijn een einde komt aan het mandaat van een effectief of plaatsvervangend lid, duidt het hogeschoolbestuur een vervanger aan voor de resterende termijn van het mandaat. Dit zonder afbreuk te doen aan het vooropgestelde aantal leden die instemming moeten krijgen van het hogeschoolonderhandelingscomité.</p>
-
-<p>&nbsp;</p>
-
-<p>Zolang in de hogeschool geen college van beroep is opgericht, kan geen evaluatie "onvoldoende" worden toegekend.</p>
-
-<p>&nbsp;</p>
-
-<p>§4. De evaluatie "onvoldoende" is definitief indien de termijn waarin is voorzien voor het instellen van een beroep is verstreken of nadat in beroep een definitieve beslissing werd genomen.</p>
-
-<p>&nbsp;</p>
-
-<p>§5. Op elke evaluatie die niet eindigt met een "onvoldoende" kan de betrokkene schriftelijk reageren. Deze schriftelijke reactie wordt aan het evaluatiedossier toegevoegd.</p>
-
-<p>&nbsp;</p>
-
-<p>§6. De evaluatie van het onderwijzend personeel belast met de opleidingsonderdelen godsdienst en niet-confessionele zedenleer behoort, voor wat betreft de vakinhoudelijke aspecten van deze opleidingsonderdelen, tot de bevoegdheid van de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken, zoals bedoeld in het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.</p>
+<p>§1. Het hogeschoolbestuur legt een evaluatieregeling vast, met inbegrip van de evaluatieprocedure en de werking van het college van beroep inzake evaluatie. De criteria die hierbij gehanteerd worden en de manier waarop de evaluatie tot stand komt, zijn voorwerp van onderhandeling in het hogeschoolonderhandelingscomité.<br>
+<br>
+§2. De evaluatie van een benoemd personeelslid volgt op een remediëringstraject, vermeld in artikel V.92/2. De evaluatie van een tijdelijk personeelslid met een ambtsanciënniteit van ten minste acht jaar volgt op een remediëringstraject, vermeld in artikel V.92/3.&nbsp;<br>
+<br>
+Het hogeschoolbestuur bepaalt in het evaluatiereglement, vermeld in pa-ragraaf 1, wanneer er een evaluatie plaatsvindt van een personeelslid dat niet onder de toepassing van het eerste lid valt.<br>
+<br>
+§3. Indien een evaluatie ondermaats” of "onvoldoende" wordt toegekend, kan het betrokken personeelslid binnen een termijn van 15 kalenderdagen beroep aantekenen tegen deze beslissing bij het college van beroep inzake evaluatie.<br>
+<br>
+Het hogeschoolbestuur richt een college van beroep inzake evaluatie op. Dit college bestaat uit 5 leden en 5 plaatsvervangende leden, al dan niet personeelsleden van de hogeschool. Zij worden aangeduid voor een termijn van 4 jaar door het hogeschoolbestuur, waarbij het hogeschoolonderhandelingscomité moet instemmen met 3 van de 5 leden en 3 van de 5 plaatsvervangende leden. Personeelsleden die betrokken waren bij de evaluatie die aanleiding gegeven heeft tot het aantekenen van het beroep, kunnen geen zitting hebben in het college van beroep. Wanneer er tijdens de mandaatstermijn een einde komt aan het mandaat van een effectief of plaatsvervangend lid, duidt het hogeschoolbestuur een vervanger aan voor de resterende termijn van het mandaat. Dit zonder afbreuk te doen aan het vooropgestelde aantal leden die instemming moeten krijgen van het hogeschoolonderhandelingscomité.<br>
+<br>
+Zolang in de hogeschool geen college van beroep is opgericht, kan geen evaluatie ondermaats” of "onvoldoende" worden toegekend.<br>
+<br>
+§4. De evaluatie “ondermaats” en "onvoldoende" is definitief indien de termijn waarin is voorzien voor het instellen van een beroep is verstreken of nadat in beroep een definitieve beslissing werd genomen.<br>
+<br>
+§5. Op elke evaluatie die niet eindigt met een “ondermaats” of "onvoldoende" kan de betrokkene schriftelijk reageren. Deze schriftelijke reactie wordt aan het evaluatiedossier toegevoegd.<br>
+<br>
+§6. De evaluatie van het onderwijzend personeel belast met de opleidingsonderdelen godsdienst en niet-confessionele zedenleer behoort, voor wat betreft de vakinhoudelijke aspecten van deze opleidingsonderdelen, tot de bevoegdheid van de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken, zoals bedoeld in het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.</p>
 
 ## Afdeling 4 Tucht
 
@@ -11890,7 +12063,7 @@ Een tijdelijk of benoemd personeelslid of personeelslid als bedoeld in artikel V
 
 ### ART. V.109.
 
-<P style="MARGIN: 0cm 0cm 0pt">De bepalingen van deze afdeling zijn niet van toepassing op de   gastprofessoren.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>De bepalingen van deze afdeling zijn niet van toepassing op de gastdocenten.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Afdeling 6 Einde aanstelling en definitieve ambtsneerlegging
 
@@ -11938,7 +12111,7 @@ In afwijking van het eerste lid, punt 5°, kan de benoeming van het personeelsli
 <br>
 §2. Voor de benoemde personeelsleden geven eveneens aanleiding tot definitieve ambtsneerlegging:<br>
 1°&nbsp;&nbsp; het ontslag als gevolg van een tuchtmaatregel;<br>
-2°&nbsp;&nbsp; indien hij gedurende 2 opeenvolgende academiejaren of 5 keer in zijn loopbaan binnen de hogeschool de evaluatie "onvoldoende" heeft gekregen voor het ambt waarop de evaluatie betrekking heeft.<br>
+2° &nbsp;&nbsp; &nbsp;het ontslag als gevolg van een evaluatie “onvoldoende”.<br>
 <br>
 In de gevallen, vermeld in het eerste lid, kent het hogeschoolbestuur een opzeggingstermijn toe. De opzeggingstermijn bedraagt drie maanden voor het personeelslid dat minder dan vijf jaar anciënniteit heeft in de hogeschool in kwestie of haar rechtsvoorganger. De termijn wordt verhoogd met drie maanden per begonnen schijf van vijf jaar anciënniteit. Het hogeschoolbestuur en het personeelslid in kwestie kunnen een langere of kortere opzeggingstermijn overeenkomen.<br>
 <br>
@@ -12015,7 +12188,12 @@ Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt o
 
 ### ART. V.118.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor de berekening van de dienstanciënniteit: <?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; bestaat het aantal dagen gepresteerd als lid van het onderwijzend   personeel, ongeacht het volume van de opdracht, uit al de kalenderdagen gerekend   van het begin tot het einde van de ononderbroken activiteitsperiode met inbegrip   van de bezoldigde vakantiedagen; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; mag het aantal dagen gepresteerd in 2 of meer gelijktijdig uitgeoefende   ambten nooit meer bedragen dan het aantal dagen gepresteerd in een ambt dat   tijdens dezelfde periode wordt uitgeoefend; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; kan gedurende een academiejaar een dienstanciënniteit van maximaal 360   dagen worden verworven; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; worden als diensten beschouwd, de diensten door het personeelslid   gepresteerd in het hoger onderwijs voor zover ze bezoldigd waren ten laste van   de werkingsuitkering verschaft door de Vlaamse Gemeenschap, met uitzondering van   de diensten gepresteerd in de hoedanigheid van gastprofessor;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">5°&nbsp;&nbsp; worden eveneens als diensten beschouwd, de periodes tijdens welke het   personeelslid een verlof geniet overeenkomstig artikel V.84 of het zich in de   administratieve stand terbeschikkingstelling bevindt zoals bepaald in artikel   V.90, eerste lid, 1°, 2° en 4°.</P>
+<p>Voor de berekening van de dienstanciënniteit:<br>
+1°&nbsp;&nbsp; bestaat het aantal dagen gepresteerd als lid van het onderwijzend personeel met een opdracht waarvan de omvang ten minste 10 procent van een voltijdse betrekking bedraagt, ongeacht de financieringsbron, uit al de kalenderdagen gerekend van het begin tot het einde van de ononderbroken activiteitsperiode met inbegrip van de bezoldigde vakantiedagen;<br>
+2°&nbsp;&nbsp; mag het aantal dagen gepresteerd in 2 of meer gelijktijdig uitgeoefende ambten nooit meer bedragen dan het aantal dagen gepresteerd in een ambt dat tijdens dezelfde periode wordt uitgeoefend;<br>
+3°&nbsp;&nbsp; kan gedurende een academiejaar een dienstanciënniteit van maximaal 360 dagen worden verworven;<br>
+4°&nbsp;&nbsp; ...;<br>
+5°&nbsp;&nbsp; worden eveneens als diensten beschouwd, de periodes tijdens welke het personeelslid een verlof geniet overeenkomstig artikel V.84 of het zich in de administratieve stand terbeschikkingstelling bevindt zoals bepaald in artikel V.90, eerste lid, 1°, 2° en 4°.</p>
 
 ### ART. V.119.
 
@@ -12050,12 +12228,12 @@ Dit ambt van werkleider kan zowel in de graduaatsopleidingen en de professionele
 
 <p>In afwijking van artikel V.120 worden de &nbsp;ambten van het onderwijzend personeel in de studiegebieden Audiovisuele en Beeldende kunst en Muziek en Podiumkunsten en de ambten aan de Hogere Zeevaartschool als volgt ingedeeld:<br>
 1°&nbsp;&nbsp; groep 1 : de praktijklector, de hoofdpraktijklector, de lector en de hoofdlector;<br>
-2°&nbsp;&nbsp; groep 2 : het assisterend personeel : de assistent, de doctor-assistent en de werkleider;<br>
+2°&nbsp;&nbsp; groep 2 : het assisterend personeel : de assistent, de praktijkassistent, de doctor-assistent en de werkleider;<br>
 3°&nbsp;&nbsp; groep 3 : de docent, de hoofddocent, de hoogleraar en de gewoon hoogleraar.<br>
 <br>
-De ambten van groep 1 kunnen uitsluitend worden verleend in de graduaatsopleidingen en de professionele bacheloropleidingen. De lectoren en hoofdlectoren kunnen ook belast worden met praktijkgericht onderwijs in de academische bacheloropleidingen.<br>
+De ambten van groep 1 kunnen uitsluitend worden verleend in de graduaatsopleidingen en de professionele bacheloropleidingen. De&nbsp;praktijklectoren, hoofdpraktijklectoren, lectoren en hoofdlectoren kunnen ook belast worden met praktijkgericht onderwijs in de academische bacheloropleidingen.<br>
 <br>
-De ambten van groep 2 kunnen uitsluitend worden verleend in de academische opleidingen. De praktijkassistenten, de benoemde assistenten en de werkleiders kunnen ook belast worden met een opdracht in de professionele bacheloropleidingen.<br>
+De ambten van groep 2 kunnen uitsluitend worden verleend in de academische opleidingen. De praktijkassistenten en de werkleiders kunnen ook belast worden met een opdracht in de professionele bacheloropleidingen.<br>
 <br>
 De ambten van groep 3 kunnen zowel in de graduaatsopleidingen en de professionele als in de academische opleidingen worden verleend.<br>
 <br>
@@ -12065,11 +12243,16 @@ In afwijking van het tweede lid, kan een personeelslid in een ambt van groep 1 d
 <br>
 In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartschool Antwerpen dat op 1 juni 2021 benoemd is in het ambt van praktijklector of hoofdpraktijklector onder de hiernavolgende voorwaarden dit ambt ten persoonlijken titel behouden en verder blijven uitoefenen in de opleiding scheepswerktuigkunde beperkt tot het volume van de opdracht op voormelde datum:<br>
 1° het personeelslid oefende tot 31 augustus 2021 deze opdracht uit in de professionele bachelor in de scheepswerktuigkunde;<br>
-2° het personeelslid is vanaf 1 september 2021 voor het luik onderwijs van zijn opdracht uitsluitend belast met praktijkgebonden opleidingsonderdelen in de academische bachelor van de opleiding scheepswerktuigkunde.</p>
+2° het personeelslid is vanaf 1 september 2021 voor het luik onderwijs van zijn opdracht uitsluitend belast met praktijkgebonden opleidingsonderdelen in de academische bachelor van de opleiding scheepswerktuigkunde.<br>
+<br>
+De personeelsleden die op 31 maart 2024 benoemd zijn als assistent, verkrijgen vanaf 1 april 2024 een benoeming als praktijkassistent met behoud van het tewerkstellingspercentage, de anciënniteit en de salarisschaal die ze op 1 april 2024 hadden.</p>
 
 ### ART. V.122.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het ambt van gewoon hoogleraar kan slechts toegewezen worden onder de   volgende voorwaarden: <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; de betrokken hogeschool is actief op het vlak van onderzoek door een   samenwerkingsakkoord met een Vlaamse universiteit in het vakgebied of de   vakgebieden van de vacature; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; de kandidaat-gewoon hoogleraar moet ten minste 6 jaar gefungeerd hebben   als docent, hoofddocent of hoogleraar aan een hogeschool of universiteit en er   belast geweest zijn met onderzoeksopdrachten. Diensten gepresteerd als   vastbenoemd navorser van het Nationaal Fonds voor Wetenschappelijk Onderzoek of   van andere door de Vlaamse Regering erkende instellingen voor wetenschappelijk   onderzoek komen eveneens in aanmerking voor het bereiken van de vereiste   anciënniteit; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; de kandidaat gewoon hoogleraar beantwoordt aan de criteria die de   hoogste wetenschappelijke kwaliteit in het betrokken vakgebied of vakgebieden   garanderen en die beoordeeld worden door een jury bestaande uit 3 gewoon   hoogleraren uit 3 Vlaamse universiteiten, aangeduid door die 3   universiteiten.</P>
+<p>Het ambt van gewoon hoogleraar kan slechts toegewezen worden onder de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; de betrokken hogeschool is actief op het vlak van onderzoek door een samenwerkingsakkoord met een Vlaamse universiteit in het vakgebied of de vakgebieden van de vacature;<br>
+2°&nbsp;&nbsp; ...;<br>
+3°&nbsp;&nbsp; de kandidaat gewoon hoogleraar beantwoordt aan de criteria die de hoogste wetenschappelijke kwaliteit in het betrokken vakgebied of vakgebieden garanderen en die beoordeeld worden door een jury bestaande uit 3 gewoon hoogleraren uit 3 Vlaamse universiteiten, aangeduid door die 3 universiteiten.</p>
 
 ### ART. V.123.
 
@@ -12077,11 +12260,17 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.124.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het assisterend personeel staat docenten, hoofddocenten, hoogleraren en   gewoon hoogleraren bij en vervult onder hun leiding onderzoeks-, onderwijs- of   begeleidingsopdrachten. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In voorkomend geval gebeuren de activiteiten, verricht in het kader van   de voorbereiding van het doctoraatsproefschrift, onder de leiding van de   promotor van de universiteit waaraan gedoctoreerd wordt. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het assisterend personeel kan ten belope van een gedeeltelijke of   volledige opdracht administratieve en/of organisatorische taken   uitvoeren.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In de studiegebieden Audiovisuele en Beeldende Kunst en Muziek en   Podiumkunsten en aan de Hogere Zeevaartschool kunnen de hogescholen voltijdse of   deeltijdse leden van het assisterend personeel met hun akkoord de titel van   praktijkassistent verlenen. Deze personeelsleden worden in hoofdzaak belast met   taken van praktijkgebonden onderwijs.</P>
+<p>Het assisterend personeel staat docenten, hoofddocenten, hoogleraren en gewoon hoogleraren bij en vervult onder hun leiding onderzoeks-, onderwijs- of begeleidingsopdrachten.<br>
+<br>
+In voorkomend geval gebeuren de activiteiten, verricht in het kader van de voorbereiding van het doctoraatsproefschrift, onder de leiding van de promotor van de universiteit waaraan gedoctoreerd wordt.<br>
+<br>
+Praktijkassistenten en werkleiders kunnen ten belope van een gedeeltelijke of volledige opdracht administratieve en/of organisatorische taken uitvoeren.<br>
+<br>
+Praktijkassistenten in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten en aan de Hogere Zeevaartschool worden in hoofd-zaak belast met praktijkgebonden onderwijs.</p>
 
 ### ART. V.125.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De tijdelijke assistent met uitzondering van de praktijkassistent   zoals bedoeld in artikel V.124 of V.307 heeft het recht om ten minste de helft   van zijn werktijd aan de voorbereiding van een doctoraatsproefschrift te   besteden. Dit recht vervalt indien de assistent slechts deeltijds aangesteld is   of indien hij geen titularis is van zijn betrekking. <?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. In afwijking van paragraaf 1 van dit artikel kan de tijdelijke   assistent belast met artistiek gebonden onderwijsactiviteiten enkel aanspraak   maken op dit recht op voorwaarde dat hij bezoldigd wordt volgens de bepalingen   vervat in artikel V.164, §2.</P>
+<p>Een assistent heeft het recht om ten minste de helft van de werktijd aan de voorbereiding van een doctoraatsproefschrift te besteden.</p>
 
 ### ART. V.126.
 
@@ -12089,7 +12278,13 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.127.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een lid van het   onderwijzend personeel uit de groep van lectoren, hoofdlectoren, docenten,   hoofddocenten, hoogleraren en gewoon hoogleraren, of een lid van het   administratief - en technisch personeel vult de functie van departementshoofd in   bij mandaat voor hernieuwbare periodes van 4 jaar.   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van het eerste lid kunnen in de departementen bevoegd voor   de studiegebieden Audiovisuele en beeldende kunst, Muziek en podiumkunsten,   Productontwikkeling of Architectuur, ook personeelsleden uit de groep van   assistenten en werkleiders het mandaat van departementshoofd   uitoefenen.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het   hogeschoolbestuur bepaalt bij reglement de voorwaarden en de procedure voor de   toekenning van het mandaat van departementshoofd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
+<p>Een lid van het onderwijzend personeel uit de groep van lectoren, hoofdlectoren, docenten, hoofddocenten, hoogleraren en gewoon hoogleraren, of een lid van het administratief - en technisch personeel vult de functie van departementshoofd in bij mandaat voor hernieuwbare periodes van 4 jaar.<br>
+<br>
+In afwijking van het eerste lid kunnen in de departementen bevoegd voor de studiegebieden Audiovisuele en beeldende kunst, Muziek en podiumkunsten, Productontwikkeling of Architectuur, ook personeelsleden uit de groep van praktijkassistenten en werkleiders het mandaat van departementshoofd uitoefenen.<br>
+<br>
+Het hogeschoolbestuur bepaalt bij reglement de voorwaarden en de procedure voor de toekenning van het mandaat van departementshoofd.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.128.
 
@@ -12131,7 +12326,17 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.137.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor   aanstelling, benoeming en uitbreiding van aanstelling of   benoeming.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Een werving in een vacante betrekking, met uitzondering van de   aanstelling van minder dan 1 academiejaar, kan slechts gebeuren na een openbare   vacature en wordt via ten minste 2 openbare informatiekanalen   bekendgemaakt.</P>
+<p>§1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling, benoeming en uitbreiding van aanstelling of benoeming.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+§2. Een personeelslid kan alleen in een betrekking geworven worden, met uitzondering van een aanstelling van minder dan één academiejaar, als het personeelslid via een openbare vacature geworven is. De openbare vacature wordt via ten minste twee openbare informatiekanalen bekendgemaakt.<br>
+<br>
+§3. De omvang van een opdracht kan zonder vacature uitgebreid worden. In dat geval is altijd de instemming van het betrokken personeelslid vereist.<br>
+<br>
+§4. Gastdocenten kunnen zonder nieuwe vacature overgeheveld worden naar een betrekking van de personeelsformatie van het onderwijzend personeel met behoud van hun verworven salarisschaal en anciënniteit op voorwaarde dat:<br>
+1°&nbsp;&nbsp; &nbsp;zij geworven werden volgens de procedure die beantwoordt aan de in paragraaf 1 en 2 bepaalde wervingseisen;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;zij het minimaal vereiste bekwaamheidsbewijs hebben voor het ambt waarnaar ze overgeheveld worden of hiervan vrijgesteld zijn met toepas-sing van artikel V.149; <br>
+3°&nbsp;&nbsp; &nbsp;zij het ambt, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden in het ambt waarnaar ze overgeheveld worden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het onderwijzend personeel ten laste van de jaarlijkse werkingsuitkeringen.<br>
+&nbsp;</p>
 
 ### ART. V.138.
 
@@ -12139,7 +12344,9 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.139.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van artikel V.135 kan het ambt van werkleider slechts door   bevordering of ambtswijziging worden toegewezen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De opdracht van een personeelslid dat al een deeltijds ambt als   werkleider bekleedt, kan uitgebreid worden met vrijstelling van de in artikel   V.150, eerste lid, 1°, vermelde anciënniteitsvoorwaarde.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>In afwijking van artikel V.135 kan het ambt van werkleider slechts door bevordering of ambtswijziging worden toegewezen.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>&nbsp;</p>
 
 ### ART. V.140.
 
@@ -12147,11 +12354,33 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.141.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Met behoud van de toepassing van artikel V.110, §1, 1° en V.146,   wordt het ambt van assistent tijdelijk toegewezen voor een periode van 2 jaar,   die driemaal met een periode van 2 jaar kan worden verlengd. <?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Wanneer uitzonderlijke omstandigheden zulks vergen, kan de assistent   voor een bijkomende termijn van een jaar worden aangesteld. Deze bijkomende   termijn is niet hernieuwbaar, behalve bij zwangerschap of langdurige en ernstige   ziekte. Op grond hiervan kan de assistent van wie het doctoraat ver gevorderd   is, zo hij erom verzoekt, voor een bijkomende termijn van 6 maanden tot een jaar   worden aangesteld. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De in artikel V.124 of V.307 bedoelde praktijkassistenten kunnen voor   hernieuwbare termijnen van minimum 1 jaar en maximum 5 jaar worden aangesteld.   Deze minimumtermijn geldt niet voor plaatsvervangers van de   titularis.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. In afwijking van paragraaf 1 kan ten hoogste 25% van het aantal   assistenten, uitgedrukt in voltijdse eenheden, worden   benoemd.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. In afwijking van de bepalingen in paragraaf 2, kan het   hogeschoolbestuur een lid van het onderwijzend personeel benoemen in het ambt   van assistent indien het personeelslid voldoet aan een van de hierna vermelde   voorwaarden:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; het personeelslid heeft de leeftijd van 55 jaar bereikt, vervult de   voorwaarden voor vaste benoeming en is sinds 1 januari 1996 ononderbroken in   dienst van de hogeschool als assistent;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; het personeelslid heeft op 1 januari 2008 de leeftijd van 55 jaar   bereikt en is op die datum gedurende ten minste 6 jaar ononderbroken in de   hogeschool in het ambt van assistent aangesteld.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Indien het personeelslid al een benoeming heeft in een ander   onderwijsniveau, kan het slechts ten belope van maximaal een voltijdse benoeming   vastbenoemd zijn.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. De aanstellingen in het ambt van assistent die gebeuren na de   aanvang van het academiejaar, kunnen als einddatum het einde van dat   academiejaar hebben. In voorkomend geval komt deze aanstellingsperiode niet in   aanmerking voor de periode bedoeld in paragraaf   1.</P>
+<p>§1. Met behoud van de toepassing van artikel V.110, §1, 1° en V.146, wordt het ambt van assistent tijdelijk toegewezen voor een periode van 2 jaar, die driemaal met een periode van 2 jaar kan worden verlengd. <!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<br>
+In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengesloten periode van minstens twintig weken halftijdse loopbaanonder-breking tijdens de eerste, tweede of derde termijn van het mandaat, wordt het mandaat van de assistent, na de derde verlenging van de termijn, ver-meld in het eerste lid, eenmalig met een bijkomende termijn van zes maanden tot een jaar verlengd op verzoek van het personeelslid. Als uitzonderlijke omstandigheden dat vereisen, kunnen assistenten na de derde verlenging van de termijn, vermeld in het eerste lid, eenmalig voor een bijkomende termijn van een maand tot een jaar worden aangesteld.<br>
+<br>
+§2. ...<br>
+<br>
+§3. ...<br>
+<br>
+§4. De aanstellingen in het ambt van assistent die gebeuren na de aanvang van het academiejaar, kunnen als einddatum het einde van dat academiejaar hebben. In voorkomend geval komt deze aanstellingsperiode niet in aanmerking voor de periode bedoeld in paragraaf 1.</p>
+
+### ART V.141/1.
+
+Praktijkassistenten kunnen worden aangesteld of benoemd. Het aantal praktijkassistenten dat kan worden benoemd is beperkt tot ten hoogste 25 procent van het totale aantal assistenten en praktijkassistenten, uitgedrukt in voltijdse eenheden.&nbsp;<br>
+<br>
+In afwijking van het eerste lid kan het hogeschoolbestuur een lid van het onderwijzend personeel benoemen in het ambt van praktijkassistent indien het personeelslid voldoet aan een van de hierna vermelde voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het personeelslid heeft de leeftijd van 55 jaar bereikt, vervult de voorwaarden voor vaste benoeming en is sinds 1 januari 1996 ononderbroken in dienst van de hogeschool als assistent of praktijkassistent;<br>
+2°&nbsp;&nbsp; &nbsp;het personeelslid heeft op 1 januari 2008 de leeftijd van 55 jaar bereikt en is op die datum gedurende ten minste zes jaar ononderbroken in de hogeschool in het ambt van assistent aangesteld.<br>
+<br>
+Als het personeelslid al een benoeming heeft in een andere hogeschool of een ander onderwijsniveau, kan het maar voor maximaal een voltijdse benoeming vastbenoemd zijn.
 
 ### ART. V.142.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Doctor-assistenten worden aangesteld voor maximaal 2 termijnen van ten   hoogste 3 jaar.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De aanstelling voor de tweede periode kan slechts na een gunstige   evaluatie.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In geval van zwangerschap of langdurige en ernstige ziekte tijdens de   eerste of tweede termijn van het mandaat worden de doctor-assistenten voor een   bijkomende termijn van een jaar aangesteld.</P>
+<p>Doctor-assistenten worden aangesteld voor maximaal 2 termijnen van ten hoogste 3 jaar.<br>
+<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->De aanstelling voor de tweede periode kan slechts na een gunstige evaluatie.<br>
+<br>
+In geval van zwangerschap, een aaneengesloten periode van minstens tien weken afwezigheid wegens ziekte of voltijdse loopbaanonderbreking of een aaneengeslo-ten periode van minstens twintig weken halftijdse loopbaanonderbreking tijdens de eerste of tweede termijn van het mandaat, wordt het mandaat van de doctor-assistent na de tweede termijn, vermeld in het eerste lid, eenmalig met een bijkomende termijn van zes maanden tot een jaar verlengd op verzoek van het personeelslid</p>
 
 ### ART. V.143.
 
@@ -12159,7 +12388,15 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.144.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Vanaf het derde opeenvolgende   academiejaar zijn de aanstellingen in vacante betrekkingen in de ambten van   groep 1 en groep 3, zoals bedoeld in artikel V.120, § 1, eerste lid, en artikel   V.121, eerste lid, ook deze via ambtswijziging, van onbepaalde duur.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Als het hogeschoolbestuur een   einde maakt aan een aanstelling van onbepaalde duur moet het de bepalingen van   artikel V.110 in acht nemen. Ingeval een einde wordt gemaakt aan een aanstelling   na ambtswijziging bedoeld in artikel V.108 en V.140 wordt voor de berekening van   de opzeggingstermijn enkel rekening gehouden met de periode van aanstelling na   de ambtswijziging.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Aanstellingen in vacante   betrekkingen voor bepaalde duur die aanvingen voor 1 september 2005 en waarvan   de duur verstrijkt na 1 oktober 2005, en de hernieuwde aanstellingen in   toepassing van artikel V.143, § 2, tweede lid, 1°, blijven ressorteren onder de   bepalingen van artikel V.143.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. Personeelsleden van de in   paragraaf 3 vermelde aanstellingen die na het verstrijken van de duur van deze   aanstellingen opnieuw in een vacante betrekking worden aangesteld, worden voor   onbepaalde duur aangesteld voor zover zij aan de voorwaarden van paragraaf 1   voldoen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>§1. Vanaf het derde opeenvolgende academiejaar zijn de aanstellingen in vacante betrekkingen in de ambten van groep 1 en groep 3 en in het ambt van praktijkassistent, zoals bedoeld in artikel V.120, § 1, eerste lid, en artikel V.121, eerste lid, ook deze via ambtswijziging, van onbepaalde duur.<br>
+<br>
+§2. Als het hogeschoolbestuur een einde maakt aan een aanstelling van onbepaalde duur moet het de bepalingen van artikel V.110 in acht nemen. Ingeval een einde wordt gemaakt aan een aanstelling na ambtswijziging bedoeld in artikel V.108 en V.140 wordt voor de berekening van de opzeggingstermijn enkel rekening gehouden met de periode van aanstelling na de ambtswijziging.<br>
+<br>
+§3. Aanstellingen in vacante betrekkingen voor bepaalde duur die aanvingen voor 1 september 2005 en waarvan de duur verstrijkt na 1 oktober 2005, en de hernieuwde aanstellingen in toepassing van artikel V.143, § 2, tweede lid, 1°, blijven ressorteren onder de bepalingen van artikel V.143.<br>
+<br>
+§4. Personeelsleden van de in paragraaf 3 vermelde aanstellingen die na het verstrijken van de duur van deze aanstellingen opnieuw in een vacante betrekking worden aangesteld, worden voor onbepaalde duur aangesteld voor zover zij aan de voorwaarden van paragraaf 1 voldoen.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.145.
 
@@ -12171,16 +12408,29 @@ In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartscho
 
 ### ART. V.147.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur kan contractueel buiten de personeelsformatie   voltijdse en deeltijdse gastprofessoren tewerkstellen voor een periode van   maximum 5 jaar. Opeenvolgende aanstellingen van voltijdse gastprofessoren mogen   in ieder geval de totale duur van 5 opeenvolgende jaren niet overschrijden.   Aanstellingen van deeltijdse gastprofessoren zijn hernieuwbaar. <?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van het vorige lid kan het hogeschoolbestuur in de   studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten,   contractueel buiten de personeelsformatie voltijdse en deeltijdse   gastprofessoren tewerkstellen voor een periode van onbepaalde   duur.</P>
+<p>Het hogeschoolbestuur kan contractueel buiten de personeelsformatie gastdocenten tewerkstellen.<br>
+<br>
+Gastdocenten met een opdracht van ten minste 50 procent van een voltijdse opdracht die bezoldigd worden met een salarisschaal, de daaraan verbonden anciënniteitsopbouw, het vakantiegeld en de eindejaarstoelage kunnen tewerkgesteld worden voor een periode van onbepaalde duur. Opeenvolgende tewerkstellingen voor een bepaalde duur zijn vanaf het derde jaar van onbepaalde duur.&nbsp;<br>
+<br>
+Gastdocenten met een opdracht van minder dan 50 procent van een voltijdse opdracht, ongeacht hoe deze bezoldigd worden, kunnen tewerkgesteld worden voor een periode van onbepaalde duur. Opeenvolgende tewerkstellingen voor een bepaalde duur zijn vanaf het derde jaar van onbepaalde duur.<br>
+<br>
+Gastdocenten met een opdracht van ten minste 50 procent van een voltijdse opdracht die bezoldigd worden met een bedrag, worden tewerkgesteld voor een periode van maximum vijf jaar. Opeenvolgende tewerkstellingen mogen de totale duur van vijf jaar niet overschrijden.<br>
+<br>
+In de opleidingen van een School of Arts bedraagt het tewerkstellingspercentage, vermeld in het tweede en het derde lid, 70 procent van een voltijdse opdracht. Met ingang van 2025 wordt het percentage van 70 procent gedurende vijf jaar lineair afgebouwd tot 50 procent. Het hogeschoolbestuur kan bij reglement, afgesloten met een protocol van akkoord, een ander afbouwschema vastleggen binnen dezelfde termijn van vijf jaar.<br>
+<br>
+Voor de toepassing van dit artikel wordt onder opeenvolgende tewerkstellingen de tewerkstellingen begrepen die elkaar zonder onderbreking opvolgen of waarvan de onderbreking tussen twee tewerkstellingen kleiner is dan drie maanden.<br>
+<br>
+[<strong><em>nvdr: zie tab info</em>]</strong><br>
+In afwijking van het eerste en tweede lid, kan het hogeschoolbestuur contractueel buiten de personeelsformatie deeltijdse gastprofessoren tewerkstellen als flexi-jobwerknemer als bedoeld in artikel 3, 3°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken. De gastprofessoren kunnen niet ten laste van de werkingsuitkeringen bezoldigd worden. De gastprofessoren mogen geen andere tewerkstelling aan de hogeschool hebben. Op deze personeelsleden is de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing.</p>
 
 ## Afdeling 4 Toegang tot de ambten
 
 ### ART. V.148.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. De bekwaamheidsbewijzen die, behoudens het bepaalde in paragraaf 2 van dit artikel, minimaal vereist zijn voor aanstelling en benoeming in de hierna vermelde ambten zijn:<br>
+<p>§1. De bekwaamheidsbewijzen die, behoudens het bepaalde in paragraaf 2 van dit artikel, minimaal vereist zijn voor aanstelling en benoeming in de hierna vermelde ambten zijn:<br>
 1°&nbsp;&nbsp; praktijklector en hoofdpraktijklector : een diploma van&nbsp;bachelor;<br>
 2°&nbsp;&nbsp; lector en hoofdlector : een diploma van master;<br>
-3°&nbsp;&nbsp; assistent en werkleider : een diploma van master;<br>
+3°&nbsp;&nbsp; assistent, praktijkassistent en werkleider : een diploma van master;<br>
 4°&nbsp;&nbsp; doctor-assistent : een diploma van doctor op proefschrift;<br>
 5°&nbsp;&nbsp; docent, hoofddocent, hoogleraar en gewoon hoogleraar : een diploma van doctor op proefschrift.<br>
 <br>
@@ -12190,7 +12440,7 @@ In afwijking van punt 5°, worden de personeelsleden in het bezit van het diplom
 <br>
 §3. Voor de opleiding nautische wetenschappen geldt als vereist bekwaamheidsbewijs voor de ambten van docent, hoofddocent en hoogleraar eveneens ofwel een STCW-vaarbevoegdheidsbewijs van master voor zeeschepen met een bruto tonnage van 3000 of meer ofwel het brevet van kapitein ter lange omvaart.<br>
 <br>
-Voor de academische bacheloren masteropleidingen in de scheepswerktuigkunde geldt als vereist bekwaamheidsbewijs voor de ambten van docent, hoofddocent en hoogleraar eveneens een Certificate of Competence/vaarbevoegdheidsbewijs A-III/2 als Chief Engineer, zoals beschreven in de STCW Conventie 1978 Regulation III/2.<br>
+Voor de academische bacheloren masteropleidingen in de scheepswerktuigkunde geldt als vereist bekwaamheidsbewijs voor de ambten van&nbsp;assistent, praktijkassistent, werkleider, docent, hoofddocent en hoogleraar eveneens een Certificate of Competence/vaarbevoegdheidsbewijs A-III/2 als Chief Engineer, zoals beschreven in de STCW Conventie 1978 Regulation III/2.<br>
 <br>
 §4. Voor de onderwijsactiviteit "godsdienst" geldt eveneens als vereist basisbekwaamheidsbewijs voor de ambten van lector en hoofdlector : de hoedanigheid van bedienaar van de erkende eredienst.<br>
 <br>
@@ -12204,7 +12454,7 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.150.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor het toewijzen van het ambt van hoofdpraktijklector, hoofdlector,   werkleider, hoofddocent of hoogleraar wordt naast de vereiste   bekwaamheidsbewijzen zoals bepaald in artikel V.148, een bijkomende   anciënniteitsvoorwaarde gesteld. Deze bijkomende anciënniteitsvoorwaarde moet in   voorkomend geval gecumuleerd worden met de nuttige beroepservaring die een   onderdeel vormt van het vereiste bekwaamheidsbewijs. <?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; bij interne toewijzing van het ambt van hoofdpraktijklector,   hoofdlector, werkleider en hoofddocent respectievelijk : </P>  <P style="MARGIN: 0cm 0cm 0pt 18pt" class=MsoNormal>-   ten minste 2 jaar dienstanciënniteit verworven hebben als praktijklector,   lector, benoemd assistent en docent in de eigen   hogeschool.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; bij interne toewijzing van het ambt van hoogleraar:   </P>  <P style="MARGIN: 0cm 0cm 0pt 18pt" class=MsoNormal>-   ten minste 2 jaar dienstanciënniteit verworven hebben als hoofddocent of 4 jaar   als docent in de eigen hogeschool.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; bij externe werving als hoofddocent: </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>a)&nbsp;&nbsp;&nbsp;   ten minste 4 jaar nuttige beroepservaring buiten het onderwijs verworven   hebben, of</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>b)&nbsp;&nbsp;&nbsp;   ten minste 2 jaar dienstanciënniteit verworven hebben als docent in een   andere hogeschool of universiteit.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; bij externe werving als hoogleraar: </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l2 level1 lfo3"   class=MsoListParagraph>a)&nbsp;&nbsp;&nbsp;   ten minste 6 jaar nuttige beroepservaring buiten het onderwijs verworven   hebben, of</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l2 level1 lfo3"   class=MsoListParagraph>b)&nbsp;&nbsp;&nbsp;   ten minste 2 jaar dienstanciënniteit verworven hebben als hoofddocent of   4 jaar docent in een andere hogeschool of universiteit.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo1"   class=MsoListParagraph>5°&nbsp;&nbsp; bij externe werving als hoofdpraktijklector of als hoofdlector   :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo4"   class=MsoListParagraph>a)&nbsp;&nbsp;&nbsp;   ten minste 4 jaar nuttige beroepservaring buiten het onderwijs verworven   hebben,</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo4"   class=MsoListParagraph>b)&nbsp;&nbsp;&nbsp;   of ten minste 2 jaar dienstanciënniteit verworven hebben als   praktijklector of als lector in een andere hogeschool.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur kan evenwel, in afwijking van het bepaalde in punt   3° en 4°, bij een eerste benoeming of aanstelling in de hogeschool, met een   tweederde meerderheid van de uitgebrachte stemmen, afwijken van de in dit   artikel gestelde bijkomende   anciënniteitsvoorwaarden.</P>
+<p>Naast de voorwaarden, vermeld in artikel V.122, en de vereiste bekwaamheidsbewijzen, vermeld in artikel V.148, legt het hogeschoolbestuur voorafgaandelijk bij reglement de criteria met de inhoudelijke en de gedragscompetenties vast om het ambt van praktijklector, hoofdpraktijklector, lector, hoofdlector, docent, hoofddocent, hoogleraar en gewoon hoogleraar toe te wijzen. Het hogeschoolbestuur maakt het voormelde reglement in de hogeschool bekend.</p>
 
 ### ART. V.151.
 
@@ -12220,7 +12470,7 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.154.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bepalingen van deze afdeling zijn niet van toepassing op de   gastprofessoren.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>De bepalingen van deze afdeling zijn niet van toepassing op de gastdocenten.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Afdeling 5 Bezoldigingsregeling
 
@@ -12242,7 +12492,10 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.159.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De gastprofessoren kunnen ten hoogste het salaris genieten dat verbonden   is aan het ambt van gewoon hoogleraar. De gastprofessoren hebben daarenboven   recht op een vergoeding voor de werkelijke kosten gemaakt voor hun overkomst en   tijdelijk verblijf.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>Een gastdocent kan ofwel bezoldigd worden met een bedrag ofwel met een salarisschaal. De bezoldiging van een gastdocent mag niet hoger zijn dan het salaris dat verbonden is aan het ambt van gewoon hoogleraar.&nbsp;<br>
+<br>
+In afwijking van het eerste lid, wordt een gastdocent met een opdracht van ten minste 70 procent van een voltijdse opdracht in de opleidingen van een School of Arts uitsluitend met een salarisschaal bezoldigd. De gastdocent krijgt in dat salaris de daaraan verbonden anciënniteitsopbouw, het vakantiegeld en de eindejaarstoelage. Met ingang van 2025 wordt het percentage van 70 procent gedurende vijf jaar lineair afgebouwd tot 50 procent. Het hogeschoolbestuur kan bij reglement, afgesloten met een protocol van akkoord, een ander afbouwschema vastleggen.<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. V.160.
 
@@ -12262,7 +12515,7 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.164.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De personeelsleden belast met artistiek gebonden onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en Muziek en podiumkunsten, met uitzondering van de basisopleidingen van professionele bachelor, krijgen voor een voltijds of deeltijds ambt van hetzij assistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar of gewoon hoogleraar bijzondere salarisschalen, vastgesteld door de Vlaamse Regering.<br>
+<p>§1. De personeelsleden belast met artistiek gebonden onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en Muziek en podiumkunsten, met uitzondering van de basisopleidingen van professionele bachelor, krijgen voor een voltijds of deeltijds ambt van hetzij assistent, praktijkassistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar of gewoon hoogleraar bijzondere salarisschalen, vastgesteld door de Vlaamse Regering.<br>
 <br>
 §2. Wanneer zij evenwel bij de uitoefening van hun ambt afzien van de toepassing van artikel V.171, krijgen zij mits het hogeschoolbestuur de uitdrukkelijke toestemming geeft, de gangbare salarisschaal verbonden aan het ambt dat zij bekleden. De toekenning van de gangbare salarisschaal is geen recht voor het personeelslid, heeft altijd een tijdelijk karakter en dient jaarlijks geëvalueerd te worden. De gangbare salarisschaal blijft verworven zolang het personeelslid blijft voldoen aan de voorwaarden waarbij zij werd toegekend.<br>
 <br>
@@ -12270,7 +12523,7 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.165.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bevoegde dienst van de Vlaamse Gemeenschap betaalt de salarissen, in   voorkomend geval met inbegrip van het vakantiegeld en de eindejaarstoelage, de   mandaatsvergoedingen, de premies bedoeld in artikel V.162, de vergoedingen   bedoeld in artikel V.163 van de leden van het onderwijzend personeel, met   inbegrip van de gastprofessoren, voor zover zij ten laste van de   werkingsuitkeringen van de hogeschool worden bezoldigd.<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>De bevoegde dienst van de Vlaamse Gemeenschap betaalt de salarissen, in voorkomend geval met inbegrip van het vakantiegeld en de eindejaarstoelage, de mandaatsvergoedingen, de premies bedoeld in artikel V.162, de vergoedingen bedoeld in artikel V.163 van de leden van het onderwijzend personeel, met inbegrip van de gastdocenten, voor zover zij ten laste van de werkingsuitkeringen van de hogeschool worden bezoldigd.<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. V.166.
 
@@ -12415,11 +12668,27 @@ Een eerste bevordering of ambtswijziging in een leidinggevende functie vindt ste
 
 ### ART. V.191.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor   aanstelling, benoeming en uitbreiding van aanstelling of   benoeming.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Een werving in een vacante betrekking, met uitzondering van de   aanstelling van minder dan een jaar, kan slechts gebeuren na een openbare   vacature en wordt via ten minste 2 openbare informatiekanalen   bekendgemaakt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Personeelsleden die bezoldigd worden buiten de werkingsuitkeringen   van de Vlaamse Gemeenschap kunnen zonder nieuwe vacature overgeheveld worden   naar een betrekking van de personeelsformatie van het administratief en   technisch personeel met behoud van hun verworven graad, salarisschaal en   anciënniteit op voorwaarde dat:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; zij geworven werden volgens de procedure die beantwoordt aan de in   paragraaf 1 en paragraaf 2 bepaalde wervingseisen;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; zij de graad, anciënniteit en salarisschaal bezitten die zij zouden   bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig   de wettelijke, decretale en reglementaire bepalingen van toepassing op het   personeel ten laste van de jaarlijkse werkingsuitkeringen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>§1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling, benoeming en uitbreiding van aanstelling of benoeming.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+§2. Een personeelslid kan alleen in een betrekking geworven worden, met uitzondering van een aanstelling van minder dan een jaar, als het personeelslid via een openbare vacature geworven is. De openbare vacature wordt via ten minste twee openbare informatiekanalen bekendgemaakt zijn.<br>
+<br>
+De omvang van een opdracht kan zonder vacature uitgebreid worden. In dat geval is altijd de instemming van het betrokken personeelslid vereist.<br>
+<br>
+§3. Personeelsleden die bezoldigd worden buiten de werkingsuitkeringen van de Vlaamse Gemeenschap kunnen zonder nieuwe vacature overgeheveld worden naar een betrekking van de personeelsformatie van het administratief en technisch personeel met behoud van hun verworven graad, salarisschaal en anciënniteit op voorwaarde dat:<br>
+1°&nbsp;&nbsp; zij geworven werden volgens de procedure die beantwoordt aan de in paragraaf 1 en paragraaf 2 bepaalde wervingseisen;<br>
+2°&nbsp;&nbsp; zij de graad, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het personeel ten laste van de jaarlijkse werkingsuitkeringen.</p>
+
+<p>&nbsp;</p>
 
 ### ART. V.192.
 
 <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Een hogeschool kan een   vacante betrekking in het administratief en technisch personeel ook invullen via   de overname van een benoemd lid van het administratief en technisch personeel   van een andere hogeschool. Het overgenomen personeelslid behoudt bij de overname   de salarisschaal en anciënniteit die het genoot aan de hogeschool waar het   benoemd was, tenzij de overnemende hogeschool het personeelslid in een hogere   salarisschaal of anciënniteit inschaalt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De overname van een benoemd   personeelslid is niet mogelijk zonder de instemming van het betrokken   personeelslid.<BR><BR>§ 2. Een hogeschool kan een vacante betrekking in het   administratief en technisch personeel ook invullen via de overname van een   personeelslid uit een ander Vlaams onderwijsniveau dan het hoger onderwijs, dat   daarvoor via een verlof wegens opdracht aan de hogeschool werkzaam was. Het   overgenomen personeelslid wordt bij de overname ingeschaald in de betreffende   graad in de hogeschool en de daaraan verbonden salarisschaal. Het overgenomen   personeelslid verkrijgt ten minste het jaarsalaris dat gelijk is aan of   onmiddellijk hoger is dan het jaarsalaris aan 100% dat het genoot in het   niet-hoger onderwijs.<BR><BR>Bij de overname van een personeelslid behoudt het   betrokken personeelslid het saldo van de in het niet-hoger onderwijs opgebouwde   ziektedagen.<BR><BR>De overname van een personeelslid is niet mogelijk zonder de   instemming van het betrokken personeelslid.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+
+### ART. V.192/1.
+
+Vanaf het derde opeenvolgende jaar zijn de aanstellingen in vacante betrekkingen, ook de aanstellingen via ambtswijziging, van onbepaalde duur.&nbsp;<br>
+<br>
+Het hogeschoolbestuur beëindigt een aanstelling van onbepaalde duur conform artikel V.110. Als een aanstelling wordt beëindigd na een ambtswijziging als vermeld in artikel V.108 wordt om de opzeggingstermijn te berekenen alleen rekening gehouden met de periode van aanstelling na de ambtswijziging.
 
 ### ART. V.193.
 
@@ -12485,7 +12754,35 @@ Een eerste bevordering of ambtswijziging in een leidinggevende functie vindt ste
 
 ### ART. V.205.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De benoemde personeelsleden krijgen op het moment van de overname door   de hogeschool, zoals vermeld in artikel II.138, een betrekking toegewezen in een   ambt binnen de personeelsformatie van de hogeschool naar rato van het volume van   de opdracht die zij in de overgenomen opleiding uitoefenden op 30 juni van het   kalenderjaar dat voorafgaat aan de overdracht.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De hogeschool wijst de tijdelijke personeelsleden van doorlopende duur   en de gerechtigden op een tijdelijke aanstelling van doorlopende duur op het   ogenblik van de overname een betrekking toe in een ambt binnen de   personeelsformatie naar rato van het volume van de betrekking die zij in de   overgenomen opleiding uitoefenden op de laatste dag van hun tewerkstelling in   juni van het kalenderjaar dat voorafgaat aan de   overdracht.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De in het eerste lid vermelde personeelsleden worden vanaf de overname   personeelslid van de hogeschool en worden betaald ten laste van de   werkingsuitkeringen van de hogeschool in kwestie. De overname van deze   personeelsleden gebeurt op eenzelfde moment.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De rechtspositieregeling en de bezoldigingsregeling van de   personeelsleden van de hogescholen zijn op hen van toepassing, rekening houdend   met de volgende overgangsmaatregelen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; de tijdelijke personeelsleden van doorlopende duur en de gerechtigden op   een tijdelijke aanstelling van doorlopende duur behouden de salarisschaal die   zij op de laatste dag van hun tewerkstelling in de overgenomen opleiding   genoten, tenzij de hogeschool hen inschaalt in een hogere   salarisschaal;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; de personeelsleden die op 30 juni van het kalenderjaar waarin de eerste   accreditatie of de tijdelijke erkenning is verleend vastbenoemd waren in de   opleiding in kwestie, worden op het ogenblik van de overname door de hogeschool   benoemde personeelsleden van de hogeschool en behouden de salarisschaal die zij   op 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke   erkenning is verleend, genoten voor hun betrekking in de overgenomen opleiding,   tenzij de hogeschool hen inschaalt in een hogere   salarisschaal;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; de personeelsleden die in de periode van 1 juni tot en met 30 juni van   het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is   verleend, een tijdelijke aanstelling van doorlopende duur hadden of in die   periode een recht op een dergelijke aanstelling, konden doen gelden, worden op   het ogenblik van de overname door de hogeschool tijdelijke personeelsleden van   de hogeschool. In afwijking van de bepalingen van artikel IV.28 en V.141, §2,kan   het hogeschoolbestuur de vermelde personeelsleden op hun verzoek benoemen voor   het volume van de opdracht waarop zij aanspraak kunnen maken. Elk personeelslid   dat benoemd wordt, moet in het bezit zijn van het vereiste   bekwaamheidsbewijs;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; de personeelsleden die op 30 juni van het kalenderjaar waarin de eerste   accreditatie of de tijdelijke erkenning is verleend vast benoemd waren, krijgen   vanaf de overname een bezoldiging die gelijk is aan de optelsom van de   salarissen die zij genoten voor de 2 onderwijsopdrachten op de vooravond van de   overname, op voorwaarde dat zij :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>a)&nbsp;&nbsp;&nbsp;   op 1 januari 1996 als lid van het onderwijzend personeel binnen de   overnemende hogeschool van overgangsmaatregelen in de zin van artikel V.264   konden genieten en als zodanig van 1 januari 1996 een betrekking binnen de   personeelsformatie van de hogeschool opgenomen hebben;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>b)&nbsp;&nbsp;&nbsp;   uiterlijk op 30 juni van het kalenderjaar waarin de eerste accreditatie   of de tijdelijke erkenning is verleend, voor een voltijdse opdracht als lid van   het onderwijzend personeel benoemd waren in het betrokken centrum van het   volwassenenonderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij wijziging van het opdrachtvolume wordt het salaris naar   evenredigheid aangepast.</P>
+<p>De benoemde personeelsleden krijgen op het moment van de overname door de hogeschool, zoals vermeld in artikel II.138, een betrekking toegewezen in een ambt binnen de personeelsformatie van de hogeschool naar rato van het volume van de opdracht die zij in de overgenomen opleiding uitoefenden op 30 juni van het kalenderjaar dat voorafgaat aan de overdracht.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>&nbsp;</p>
+
+<p>De hogeschool wijst de tijdelijke personeelsleden van doorlopende duur en de gerechtigden op een tijdelijke aanstelling van doorlopende duur op het ogenblik van de overname een betrekking toe in een ambt binnen de personeelsformatie naar rato van het volume van de betrekking die zij in de overgenomen opleiding uitoefenden op de laatste dag van hun tewerkstelling in juni van het kalenderjaar dat voorafgaat aan de overdracht.</p>
+
+<p>&nbsp;</p>
+
+<p>De in het eerste lid vermelde personeelsleden worden vanaf de overname personeelslid van de hogeschool en worden betaald ten laste van de werkingsuitkeringen van de hogeschool in kwestie. De overname van deze personeelsleden gebeurt op eenzelfde moment.</p>
+
+<p>&nbsp;</p>
+
+<p>De rechtspositieregeling en de bezoldigingsregeling van de personeelsleden van de hogescholen zijn op hen van toepassing, rekening houdend met de volgende overgangsmaatregelen:</p>
+
+<p>1°&nbsp;&nbsp; de tijdelijke personeelsleden van doorlopende duur en de gerechtigden op een tijdelijke aanstelling van doorlopende duur behouden de salarisschaal die zij op de laatste dag van hun tewerkstelling in de overgenomen opleiding genoten, tenzij de hogeschool hen inschaalt in een hogere salarisschaal;</p>
+
+<p>2°&nbsp;&nbsp; de personeelsleden die op 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is verleend vastbenoemd waren in de opleiding in kwestie, worden op het ogenblik van de overname door de hogeschool benoemde personeelsleden van de hogeschool en behouden de salarisschaal die zij op 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is verleend, genoten voor hun betrekking in de overgenomen opleiding, tenzij de hogeschool hen inschaalt in een hogere salarisschaal;</p>
+
+<p>3°&nbsp;&nbsp; de personeelsleden die in de periode van 1 juni tot en met 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is verleend, een tijdelijke aanstelling van doorlopende duur hadden of in die periode een recht op een dergelijke aanstelling, konden doen gelden, worden op het ogenblik van de overname door de hogeschool tijdelijke personeelsleden van de hogeschool. In afwijking van de bepalingen van artikel IV.28 en V.141/1 kan het hogeschoolbestuur de vermelde personeelsleden op hun verzoek benoemen voor het volume van de opdracht waarop zij aanspraak kunnen maken. Elk personeelslid dat benoemd wordt, moet in het bezit zijn van het vereiste bekwaamheidsbewijs;</p>
+
+<p>4°&nbsp;&nbsp; de personeelsleden die op 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is verleend vast benoemd waren, krijgen vanaf de overname een bezoldiging die gelijk is aan de optelsom van de salarissen die zij genoten voor de 2 onderwijsopdrachten op de vooravond van de overname, op voorwaarde dat zij :</p>
+
+<p>a)&nbsp;&nbsp;&nbsp; op 1 januari 1996 als lid van het onderwijzend personeel binnen de overnemende hogeschool van overgangsmaatregelen in de zin van artikel V.264 konden genieten en als zodanig van 1 januari 1996 een betrekking binnen de personeelsformatie van de hogeschool opgenomen hebben;</p>
+
+<p>b)&nbsp;&nbsp;&nbsp; uiterlijk op 30 juni van het kalenderjaar waarin de eerste accreditatie of de tijdelijke erkenning is verleend, voor een voltijdse opdracht als lid van het onderwijzend personeel benoemd waren in het betrokken centrum van het volwassenenonderwijs.</p>
+
+<p>&nbsp;</p>
+
+<p>Bij wijziging van het opdrachtvolume wordt het salaris naar evenredigheid aangepast.</p>
 
 ### ART. V.206.
 
@@ -12623,7 +12920,7 @@ De wijzigingen worden door de hogeschool doorgegeven aan de bevoegde dienst van 
 
 ### ART. V.216.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Artikel V.141, §2, is niet van toepassing op de assistenten in het   integratiekader.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>Artikel V.141/1 is niet van toepassing op de assistenten in het integratiekader.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. V.217.
 
