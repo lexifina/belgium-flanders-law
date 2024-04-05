@@ -31,47 +31,44 @@ Besluit :<br>
 
 ### ART 1.
 
-Ter uitvoering van artikel 36, § 2, vijfde lid, en artikel 517 van het decreet van 22 december 2017 over het lokaal bestuur wordt de akte inzake fractievorming voor de kandidaat-gemeenteraadsleden opgemaakt volgens het model G26c, opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Ter uitvoering van artikel 126, eerste lid, van het decreet van 22 december 2017 over het lokaal bestuur wordt de akte inzake fractievorming voor de kandidaat-leden van de districtsraad opgemaakt volgens het model D26c, opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Ter uitvoering van artikel 38, § 2, vijfde lid, van het Provinciedecreet van 9 december 2005 wordt de akte inzake fractievorming voor de kandidaat-provincieraadsleden opgemaakt volgens het model P26c, opgenomen in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ### ART 4.
 
-Artikel 2 van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de inwerkingtreding van sommige bepalingen van het Gemeentedecreet van 15 juli 2005 en de vaststelling van de modellen van de akten inzake fractievorming wordt opgeheven.
+...
 
 ### ART 5.
 
-Artikel 2 van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de inwerkingtreding van sommige bepalingen van het Provinciedecreet van 9 december 2005 en de vaststelling van het model van de akte inzake fractievorming wordt opgeheven.
+...
 
 ### ART 6.
 
-Het ministerieel besluit van 1 september 2006 tot de vaststelling van de modellen van de akten inzake fractievorming ter uitvoering van de artikelen 38 en 276 van het gemeentedecreet en van artikel 38 van het provinciedecreet wordt opgeheven.
+...
 
 ### ART 7.
 
-Dit besluit treedt in werking op 15 september 2018.
+...
 
 ### ART 8.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.<br>
-&nbsp;
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=123">http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=123</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=137">http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=137</a>
+...
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=147">http://www.ejustice.just.fgov.be/mopdf/2018/06/15_1.pdf#page=147</a>
+...
