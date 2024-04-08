@@ -20,6 +20,7 @@ In dit decreet wordt verstaan onder :<br>
 1°/3 actualiteitenprogramma : een programma waarin een of meer actuele gebeurtenissen worden behandeld en/of becommentarieerd<br>
 1°/4 applicatieprogramma-interface, afgekort API : software-interface tussen externe toepassingen, die beschikbaar gesteld wordt door omroeporganisaties, dienstenverdelers of netwerkoperatoren, en de hulpmiddelen voor digitale televisie- en radio-omroep in de geavanceerde digitale eindapparatuur;<br>
 1° /5 AMM-richtsnoeren : richtsnoeren van de Europese Commissie voor marktanalyse en de beoordeling van aanmerkelijke marktmacht;<br>
+1°/5/1 audiovisueel werk: een animatie-, documentaire- of fictiefilm of een animatie-, documentaire- of fictieserie;<br>
 1° /6 Berec : het Orgaan van Europese regulerende instanties voor elektronische communicatie, opgericht bij verordening (EU) 2018/1971 van het Europees Parlement en de Raad van 11 december 2018 tot instelling van het Orgaan van Europese regulerende instanties voor elektronische communicatie (Berec) en het Bureau voor ondersteuning van Berec (Berec-Bureau), tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Verordening (EG) nr. 1211/2009;<br>
 1° /7 bijbehorende dienst : een bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende dienst die het aanbieden, het zelf verstrekken of het geautomatiseerd aanbieden van diensten via dat netwerk of die dienst mogelijk maakt of ondersteunt of het potentieel hiertoe bezit en die voorwaardelijke toegangssystemen en elektronische programmagidsen (EPG's), alsmede andere diensten zoals identiteit, locatie en presentie-informatiediensten omvat;<br>
 1° /8 bijbehorende faciliteiten : de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten, fysieke infrastructuren en andere faciliteiten of elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten en die gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten omvatten;<br>
@@ -91,13 +92,27 @@ b) de houder van de exploitatierechten op het evenement;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
 45° /1 transnationale markten : overeenkomstig artikel 65 van richtlijn (EU) 2018/1972 gedefinieerde markten die de Europese Unie of een aanzienlijk, zich over meer dan één lidstaat uitstrekkend, deel daarvan beslaan;<br>
 45° /1 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van programma's, door gebruikers gegenereerde inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
+45°/2 Vlaams Audiovisueel Fonds, afgekort VAF: Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds;<br>
 46° zelfpromotie : de aanprijzing door een omroepdienst van eigen producten, diensten, programma's of netten;<br>
 47° zendapparatuur : ieder apparaat dat geheel of gedeeltelijk bestemd is om naar het publiek signalen van radio-omroep en televisie draadloos uit te zenden;<br>
 48° zendvergunning : vergunning voor de exploitatie van ieder apparaat dat is bestemd om draadloos signalen van radio-omroep of televisie uit te zenden;<br>
-49° onafhankelijke producent : de producent :<br>
-a) waarvan de rechtspersoonlijkheid onderscheiden is van die van een omroeporganisatie;<br>
-b) die rechtstreeks noch onrechtstreeks over meer dan 15 percent van het kapitaal van een Vlaamse omroeporganisatie beschikt;<br>
-c) waarvan het kapitaal voor niet meer dan 15 percent in handen is van een vennootschap die rechtstreeks of onrechtstreeks meer dan 15 percent van het kapitaal van een Vlaamse omroeporganisatie bezit;<br>
+49° onafhankelijke producent: een van de volgende producenten:<br>
+a)&nbsp;&nbsp; &nbsp;de producent die aan al de volgende voorwaarden voldoet:<br>
+&nbsp; 1)&nbsp;&nbsp; &nbsp;de rechtspersoonlijkheid van de producent is onderscheiden van die van een televisieomroeporganisatie;<br>
+&nbsp; 2)&nbsp;&nbsp; &nbsp;de producent is niet verbonden als vermeld in de zin van artikel 1:20 van het Wetboek van vennootschappen en verenigingen, met een televisieomroeporganisatie;<br>
+&nbsp; 3)&nbsp;&nbsp; &nbsp;de producent houdt niet rechtstreeks noch onrechtstreeks meer dan 25% van de stemrechten of vermogensrechten van een televisieomroeporganisatie aan;<br>
+&nbsp; 4)&nbsp;&nbsp; &nbsp;niet meer dan 25% van de stemrechten of vermogensrechten van de producent wordt rechtstreeks of onrechtstreeks aangehouden door een televisieomroeporganisatie;<br>
+&nbsp; 5)&nbsp;&nbsp; &nbsp;niet meer dan 25% van de stemrechten of vermogensrechten van de producent wordt rechtstreeks of onrechtstreeks aan gehouden door een vennootschap die rechtstreeks of onrecht streeks meer dan 25% van de stemrechten of vermogensrechten van een televisieomroeporganisatie aanhoudt;<br>
+b)&nbsp;&nbsp; &nbsp;de producent die wel afhankelijk is conform punt a), 2), 3), 4) of 5), maar die aan een van de volgende voorwaarden voldoet:<br>
+&nbsp;1)&nbsp;&nbsp; &nbsp;uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen blijkt dat de producent een gemiddelde jaaromzet uit audiovisuele producties heeft die voor minder dan 25%&nbsp;<br>
+rechtstreeks of onrechtstreeks is gerealiseerd bij de televisie-omroeporganisaties waarvan die producent afhankelijk is.<br>
+Voor de producent die nog niet over drie goedgekeurde jaarrekeningen beschikt, wordt de gemiddelde jaaromzet beoordeeld op basis van een schatting te goeder trouw;<br>
+&nbsp;2)&nbsp;&nbsp; &nbsp;de televisieomroeporganisatie waarvan de producent afhankelijk is, heeft maar een beperkte bewezen gemiddelde jaaromzet zoals blijkt uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen, namelijk maximaal 10 miljoen euro. Onder de vermelde omzet worden de inkomsten, exclusief btw, verstaan die verworven zijn in het kader van:<br>
+&nbsp; &nbsp; i)&nbsp;&nbsp; &nbsp;betaling door de consument;<br>
+&nbsp; &nbsp; ii)&nbsp;&nbsp; &nbsp;b2b-overeenkomsten met betrekking tot de exploitatie en/ of distributie van audiovisuele content;<br>
+&nbsp; &nbsp; iii)&nbsp;&nbsp; &nbsp;valorisatie van data;<br>
+&nbsp; &nbsp; iv)&nbsp;&nbsp; &nbsp;audiovisuele commerciële communicatie.<br>
+Voor de televisieomroeporganisatie die nog niet over drie goedgekeurde jaarrekeningen beschikt, wordt de gemiddelde jaaromzet beoordeeld op basis van een schatting te goeder trouw;<br>
 50° teletekst : analoge op tekst gebaseerde dienst die in beeld wordt gebracht en met het lineaire omroepsignaal wordt meegestuurd onder de redactionele verantwoordelijkheid van een aanbieder van omroepdiensten, en de digitale versie van deze dienst;<br>
 51° auditieve ondertiteling : een auditieve weergave van de ondertiteling bij niet-Nederlandstalige films en dialogen;<br>
 52° audiobeschrijving : een techniek om audiovisuele producties zoals film en televisieprogramma's toegankelijk te maken voor blinden en slechtzienden. Een voice-over beschrijft de visuele elementen;<br>
@@ -1346,7 +1361,13 @@ De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere line
 
 ### ART. 155.
 
-De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere lineaire televisieomroeporganisaties streven ernaar om ten minste tien procent van hun niet aan informatie, sport, spel, reclame, teletekst en telewinkelen gewijde zendtijd te besteden aan Europese producties die vervaardigd zijn door van de televisieomroeporganisaties onafhankelijke producenten.<br /><br />Een aanzienlijk deel ervan moet worden besteed aan recente producties. Dat zijn producties die binnen een periode van vijf jaar nadat ze gemaakt zijn, worden uitgezonden.<br /><br />Er moet voldoende ruimte worden gemaakt voor recente Nederlandstalige Europese producties.<br /><br />De Vlaamse Regering kan ter uitvoering van leden 1, 2 en 3 quota opleggen.
+De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere lineaire televisieomroeporganisaties streven ernaar om ten minste tien procent van hun niet aan informatie, sport, spel, reclame, teletekst en telewinkelen gewijde zendtijd te besteden aan Europese producties die vervaardigd zijn door onafhankelijke producenten of door producenten die geen onafhankelijke producenten zijn als vermeld artikel 2, 49°, maar die onafhankelijk zijn in de zin van artikel 2, 49°, a), van de televisieomroeporganisatie die de productie uitzendt.<br>
+<br>
+Een aanzienlijk deel ervan moet worden besteed aan recente producties. Dat zijn producties die binnen een periode van vijf jaar nadat ze gemaakt zijn, worden uitgezonden.<br>
+<br>
+Er moet voldoende ruimte worden gemaakt voor recente Nederlandstalige Europese producties.<br>
+<br>
+De Vlaamse Regering kan ter uitvoering van leden 1, 2 en 3 quota opleggen.
 
 ### ART 155/1.
 
@@ -2672,6 +2693,7 @@ De Vlaamse Regulator voor de Media is verantwoordelijk voor, of verleent medewer
 22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
 23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1;<br>
 24° het toezicht als bevoegde autoriteit, vermeld in artikel 176/10.<br>
+25° de opmaak van een jaarlijks overzicht van producenten waarin aangegeven wordt of deze producenten al dan niet onafhankelijk zijn op basis van artikel 2, 49°, a) en b); de publicatie van dit overzicht op de website van de Vlaamse Regulator voor de Media jaarlijks vóór 1 november; het doorvoeren van wijzigingen aan dit overzicht op voorwaarde dat producenten hierom vragen en stukken overmaken die zulke wijziging rechtvaardigen en die gevalideerd zijn door een bedrijfsrevisor. Dit overzicht bevat minimaal de producenten die de drie voorafgaande jaren productiesteun hebben aangevraagd bij het Vlaams Audiovisueel Fonds;<br>
 <br>
 De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. Bij de uitoefening van de taken, vermeld in het eerste lid, 1° tot en met 7° en 11°, houdt de algemene kamer evenwel zeer zorgvuldig rekening met door Berec aangenomen richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en methodologieën; en voor de taken, vermeld in het eerste lid, 1° tot en met 7°, ook met de aanbevelingen en besluiten van de Europese Commissie die zijn aangenomen om de geharmoniseerde toepassing van richtlijn 2018/1972 te garanderen. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
