@@ -97,7 +97,8 @@ i) voor de erkenning, vermeld in artikel 6, 1°, h): de entiteit binnen de VMM d
 65° buitendienststelling : het definitieve stilleggen en buiten werking of gebruik stellen van een product of deel van de apparatuur dat gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat;<br>
 66° terugwinning : het verzamelen en opslaan van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit producten, waaronder houders, en apparatuur gedurende het onderhoud, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur;<br>
 67° koelwagen: een motorvoertuig met een gewicht van meer dan 3,5 ton dat primair bestemd en gebouwd is om goederen te vervoeren en dat met een koeleenheid is uitgerust;<br>
-68° koelaanhangwagen: een voertuig dat bestemd en gebouwd is om door een vrachtwagen of een trekker te worden gesleept, primair om goederen te vervoeren en dat met een koeleenheid is uitgerust.<br>
+68° koelaanhangwagen: een voertuig dat bestemd en gebouwd is om door een vrachtwagen of een trekker te worden gesleept, primair om goederen te vervoeren en dat met een koeleenheid is uitgerust;<br>
+69° VLAREMA: het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen.<br>
 <br>
 § 2. Voor de toepassing van&nbsp;artikel 25/1, 25/2 en 53/3, § 1, 10° wordt verstaan onder beschikken over : ofwel zelf beschikken over, ofwel op continue basis ter beschikking hebben via :<br>
 1° een werknemer die zich via arbeidsovereenkomst ertoe verbindt om tegen loon en onder het gezag van de bodemsaneringsdeskundige arbeid te verrichten;<br>
@@ -145,7 +146,7 @@ e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, 
 f) technicus voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
 g) technicus voor elektrische schakelinrichtingen als vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
 h) technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
-i) technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 5.15.0.8,&nbsp;of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+i) technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 5.15.0.8,&nbsp;of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het VLAREMA;<br>
 3° milieucoördinatoren en milieuverificateurs, belast met de validatie van de decretale milieuaudit :<br>
 a) milieucoördinatoren als vermeld in artikel 4.1.9.1.2, § 2, 2°, d), van titel II van het VLAREM;<br>
 b) milieuverificateurs, belast met de validatie van de decretaal verplichte milieuaudit als vermeld in artikel 4.1.9.2.5, § 3, van titel II van het VLAREM;<br>
@@ -417,8 +418,8 @@ b) minstens twee leden van de examenjury zijn specialisten in de materie over he
 
 ### ART 24/7.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l) :<br>
-1° beschikken over degelijke procedures om de opleiding en het bijhorende examen, vermeld in artikel 43/10, § 1, te organiseren;<br>
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l) :<br>
+1° beschikken over degelijke procedures om de opleiding en het bijhorende examen, de bijscholing en het bijscholingsexamen of het bijscholingsexamen, vermeld in artikel 43/10, § 1, te organiseren;<br>
 2° het personeel dat belast wordt met het theoretische en praktische onderricht, beschikt over een erkenning als technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 32, § 2, eerste lid, 11°, en staat onder leiding van een persoon die in het bezit is van een bachelor in de autotechnologie, een master in de ingenieurswetenschappen, een master in de industriële wetenschappen of een master in de bio-ingenieurswetenschappen, of van een persoon met minstens drie jaar aantoonbare ervaring in het geven van opleidingen in die materie. Het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen werd behaald in een ander opleidingscentrum dan waar het personeelslid onderricht geeft;<br>
 3° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
 a) er is altijd minstens één jurylid aanwezig per vier cursisten die het praktisch onderdeel van het examen gelijktijdig afleggen;<br>
@@ -939,11 +940,13 @@ e) bij een buitendienststelling :<br>
 
 ### ART 40/3.
 
-De erkende technicus, vermeld in artikel 6, 2°, g) tot en met i) :<br>
+§1. De erkende technicus, vermeld in artikel 6, 2°, g) tot en met i) :<br>
 1° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
 2° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
 3° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
-4° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
+4° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.<br>
+<br>
+§2. De erkende technicus, vermeld in artikel 6, 2°, i), die werkt in een centrum voor het depollueren, ontmantelen en vernietigen van afgedankte voertuigen als vermeld in artikel 5.2.4.4, 3°, van het VLAREMA, volgt vijfjaarlijks de bijscholing, vermeld in artikel 43/10, §1, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, l), of een gelijkwaardige bijscholing die aanvaard is door de bevoegde afdeling, tenzij aan het erkende centrum voor minstens drie van de vijf afgelopen jaren een opvolgingskeuring is opgelegd zoals vermeld in artikel 5.2.4.7, §3, van het VLAREMA, en slaagt voor het bijscholingsexamen of voor een gelijkwaardig examen dat aanvaard is door de bevoegde afdeling. Als het certificaat van bekwaamheid, vermeld in artikel 17/5, 2°, of artikel 32, §2, eerste lid, 11°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, of als het meest recente certificaat van bijscholing ouder is dan vijf jaar na de afgiftedatum, moet de technicus de bijscholing gevolgd hebben, tenzij aan het erkende centrum voor minstens drie van de vijf afgelopen jaren een opvolgingskeuring is opgelegd zoals vermeld in artikel 5.2.4.7, §3, van het VLAREMA, en voor het bijscholingsexamen geslaagd zijn vóór hij de erkenning kan gebruiken. De bijscholingen en examens die als gelijkwaardig worden beschouwd, worden gepubliceerd op de website van de bevoegde afdeling.
 
 ## Onderafdeling 3 Gebruikseisen voor milieucoördinatoren
 
@@ -1325,7 +1328,7 @@ Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maa
 
 ### ART 43/10.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), organiseert de opleiding met het bijhorende examen voor personen die het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen willen behalen. Het erkende opleidingscentrum bepaalt de inhoud van de opleiding en het examen aan de hand van de onderwerpen, vermeld in de bijlage bij verordening nr. 307/2008.<br>
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), organiseert de opleiding met het bijhorende examen voor personen die het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen willen behalen, en organiseert, in voorkomend geval, de bijscholing en het bijscholingsexamen of, in voorkomend geval, het bijscholingsexamen voor personen die het certificaat van bijscholing voor klimaatregelingsapparatuur in bepaalde motorvoertuigen willen behalen. Het erkende opleidingscentrum bepaalt de inhoud van de opleiding en de bijscholing en het examen aan de hand van de onderwerpen, vermeld in de bijlage bij verordening nr. 307/2008.<br>
 <br>
 Het erkende opleidingscentrum kan gebruikmaken van de opleidings- en examenpakketten die door de instantie die het sectorale opleidingsbeleid ondersteunt, ter beschikking worden gesteld, op voorwaarde dat&nbsp;de bevoegde afdeling de pakketten heeft goedgekeurd.<br>
 <br>
@@ -1337,7 +1340,7 @@ Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als 
 <br>
 Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
 <br>
-§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen uit nadat een persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid&nbsp;of, in voorkomend geval, van bijscholing voor klimaatregelingsapparatuur in bepaalde motorvoertuigen uit nadat een persoon de opleiding&nbsp;of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, of, in voorkomend geval, het bijscholingsexamen vermeld in paragraaf 1.<br>
 <br>
 Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
@@ -1347,11 +1350,11 @@ Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maa
 <br>
 § 4. ...<br>
 <br>
-§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de opleiding en het examen, vermeld in paragraaf 1, te organiseren.<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de opleiding, de bijscholing en de examens, vermeld in paragraaf 1, te organiseren.<br>
 <br>
 § 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
 <br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een opleiding van start gaat of het examen plaatsvindt, op de hoogte van de plaats en het tijdstip van de opleiding of het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling minstens een maand voor een opleiding of bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding en het bijhorend examen, bijscholing en het bijscholingsexamen of, in voorkomend geval, het bijscholingsexamen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;De bevoegde afdeling kan zetelen in de examenjury.<br>
 <br>
 § 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
@@ -3547,23 +3550,106 @@ graad van verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm<br>
 kiem krachtige zaden<br>
 rijpheidsgraad<br>
 stabiliteit met gesloten respirometer<br>
+A.2.4 PFAS in meststof/bodemverbeterend middel<br>
+Dit pakket is een uitbreiding van het volledige pakket A.2.2.perfluor-n-butaanzuur (PFBA) -n-butaanzuur (PFBA)&nbsp;<br>
+perfluor-n-pentaanzuur (PFPeA)<br>
+perfluor-n-hexaanzuur (PFHxA)<br>
+perfluor-n-heptaanzuur (PFHpA)<br>
+perfluor-n-octaanzuur (PFOA)&nbsp;<br>
+perfluor-n-nonaanzuur (PFNA)&nbsp;<br>
+perfluor-n-decaanzuur (PFDA)&nbsp;<br>
+perfluor-n-undecaanzuur (PFUnDA)&nbsp;<br>
+perfluor-n-dodecaanzuur (PFDoDA)&nbsp;<br>
+perfluor-n-tridecaanzuur (PFTrDA)&nbsp;<br>
+perfluor-n-tetradecaanzuur (PFTeDA)&nbsp;<br>
+perfluor-n-hexadecaanzuur (PFHxDA)&nbsp;<br>
+perfluor-n-butaansulfonzuur (PFBS)&nbsp;<br>
+perfluor-n-pentaansulfonzuur (PFPeS)&nbsp;<br>
+perfluor-n-hexaansulfonzuur (PFHxS)&nbsp;<br>
+perfluor-n-heptaansulfonzuur (PFHpS)&nbsp;<br>
+perfluor-n-octaansulfonzuur (PFOS)&nbsp;<br>
+perfluor-n-nonaansulfonzuur (PFNS)&nbsp;<br>
+perfluor-n-octaansulfonamide (PFOSA)&nbsp;<br>
+N-methylperfluor-n-octaansulfonamide (MePFOSA)&nbsp;<br>
+4:2 fluortelomeersulfonzuur (4:2 FTS)<br>
+6:2 fluortelomeersulfonzuur (6:2 FTS)<br>
+8:2 fluortelomeersulfonzuur (8:2 FTS)&nbsp;<br>
+4,8-dioxa-3H-perfluornonaanzuur (DONA)&nbsp;<br>
+perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)&nbsp;<br>
+perfluor-n-hexaansulfonamide (PFHxSA)<br>
+perfluor-n-octadecaanzuur (PFODA)<br>
+perfluor-n-decaansulfonzuur (PFDS)<br>
+perfluor-n-dodecaansulfonzuur (PFDoDS)<br>
+10:2 fluortelomeersulfonzuur (10:2 FTS)<br>
+perfluor-2-propoxypropaanzuur (HFPO-DA)<br>
+6:2 fluortelomeerfosfaat diester (6:2 diPAP)<br>
+8:2 fluortelomeerfosfaat diester (8:2 diPAP)<br>
+6:2/8:2 fluortelomeerfosfaat diester (6:2/8:2 diPAP)<br>
+perfluor-n-butaansulfonamide (PFBSA)<br>
+N-methylperfluor-n-butaansulfonamide (MePFBSA)<br>
+N-methylperfluor-n-butaansulfonylamide azijnzuur (MePFBSAA)<br>
+N-ethylperfluor-n-octaansulfonamide (EtPFOSA)<br>
+N-methylperfluor-noctaansulfonamidoazijnzuur (MePFOSAA)<br>
+N-ethylperfluor-n-octaansulfonamidoazijnzuur (EtPFOSAA)<br>
+perfluor-n-undecaansulfonzuur (PFUnDS)&nbsp;<br>
+perfluor-n-trisdecaansulfonzuur (PFTrDS)<br>
 A.3 gebruik als bouwstof<br>
-A.3.1 gebruik als niet-vormgegeven bouwstof:<br>
-droogrest<br>
-metalen (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
-cyaniden: vrije cyaniden, niet-chlooroxideerbare cyaniden<br>
-BTEXS: benzeen, tolueen, ethylbenzeen, xyleen en styreen<br>
-alkanen: hexaan, heptaan en octaan<br>
-polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
-minerale olie<br>
-polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
-A.3.2 gebruik als vormgegeven bouwstof :<br>
-Dit pakket is een uitbreiding van het volledige pakket A.3.1.<br>
-metalen (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest) : arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
-pH, sulfaat, chloriden en calcium (via uitloging in de maximale beschikbaarheidstest en in de standtest)<br>
-geleidbaarheid (via uitloging in de standtest)<br>
+A.3.1 ...<br>
+A.3.2 ...<br>
 A.3.3 fysische verontreinigingen :<br>
 vlottende verontreinigingen, niet-vlottende verontreinigingen en glas<br>
+A.3.4 gebruik als bouwstof<br>
+droogrest<br>
+metalen (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink, antimoon, barium, molybdeen, vanadium, kobalt, seleen, tin&nbsp;<br>
+anionen (uitloogbare fractie via de kolomtest): bromide, chloride, fluoride en sulfaat&nbsp;<br>
+BTEXS: benzeen, tolueen, ethylbenzeen, som xylenen en styreen<br>
+alkanen: hexaan, heptaan en octaan<br>
+polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen, acenafteen, acenaftyleen, antraceen, dibenzo(a,h)antraceen, fluoreen en pyreen<br>
+minerale olie<br>
+polychloorbifenylen (PCB): PCB &nbsp;28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+cyanides: vrij cyanide, niet-chlooroxideerbare cyanides<br>
+A.3.5 PFAS in bouwstof<br>
+Dit pakket is een uitbreiding van het volledige pakket A.3.1 of A.3.4.<br>
+perfluoro-n-butaanzuur (PFBA)<br>
+perfluor-n-pentaanzuur (PFPeA)<br>
+perfluor-n-hexaanzuur (PFHxA)<br>
+perfluor-n-heptaanzuur (PFHpA)<br>
+perfluor-n-octaanzuur (PFOA)<br>
+perfluor-n-nonaanzuur (PFNA)<br>
+perfluor-n-decaanzuur (PFDA)<br>
+perfluor-n-undecaanzuur (PFUnDA)<br>
+perfluor-n-dodecaanzuur (PFDoDA)<br>
+perfluor-n-tridecaanzuur (PFTrDA)<br>
+perfluor-n-tetradecaanzuur (PFTeDA)<br>
+perfluor-n-hexadecaanzuur (PFHxDA)<br>
+perfluor-n-butaansulfonzuur (PFBS)<br>
+Perfluor-n-pentaansulfonzuur (PFPeS)<br>
+perfluor-n-hexaansulfonzuur (PFHxS)<br>
+perfluor-n-heptaansulfonzuur (PFHpS)<br>
+perfluor-n-octaansulfonzuur (PFOS)<br>
+perfluor-n-nonaansulfonzuur (PFNS)<br>
+perfluor-1-decaansulfonzuur (PFDS)<br>
+perfluor-1-octaansulfonamide (PFOSA)<br>
+N-methylperfluoroctaansulfonamide (MePFOSA)<br>
+N-ethylperfluoroctaansulfonamide (EtPFOSA)<br>
+N-methylperfluoroctaansulfonamidoazijnzuur (MePFOSAA)<br>
+N-ethylperfluoroctaansulfonamidoazijnzuur (EtPFOSAA)<br>
+4:2 fluortelomeersulfonzuur (4:2 FTS)<br>
+6:2 fluortelomeersulfonzuur (6:2 FTS)<br>
+8:2 fluortelomeersulfonzuur (8:2 FTS)<br>
+8:2 fluortelomeerfosfaat diester (8:2 diPAP)<br>
+perfluor-2-propoxypropaanzuur (HFPO-DA)<br>
+4,8-dioxa-3H-perfluornonaanzuur (DONA)<br>
+perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)<br>
+perfluor-n-butaansulfonamide (PFBSA)<br>
+N-methylperfluor-n-butaansulfonamide (MePFBSA)<br>
+perfluor-n-hexaansulfonamide (PFHxSA)<br>
+perfluor-n-octadecaanzuur (PFODA)<br>
+perfluor-n-dodecaansulfonzuur (PFDoDS)<br>
+6:2 fluortelomeerfosfaat diester (6:2 diPAP)<br>
+6:2/8:2 fluortelomeerfosfaat diester (6:2/8:2 diPAP)<br>
+10:2 fluortelomeersulfonzuur (10:2 FTS)<br>
+N-methylperfluor-n-butaansulfonylamide azijnzuur (MePFBSAA)<br>
 A.4 verbranden<br>
 droogrest, vlampunt, gloeiverlies, totaal organische koolstof (TOC), calorische waarde, pentachloorfenol (PCP), benzo(a)pyreen, chloriden, fluoriden, zwavel, extraheerbare organohalogeenverbindingen (EOX)<br>
 metalen (totaalconcentratie) : cadmium, thallium, kwik, antimoon, arseen, lood, chroom, kobalt, koper, mangaan, nikkel, vanadium en tin<br>
