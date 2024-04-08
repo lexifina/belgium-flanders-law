@@ -330,7 +330,7 @@ Alle officiële akten, officiële aankondigingen of andere officiële stukken di
 <br>
 § 2. De Vlaamse toezichtcommissie bestaat uit drie leden en drie plaatsvervangende leden.<br>
 <br>
-De Vlaamse toezichtcommissie verzoekt de Gegevensbeschermingsautoriteit, vermeld in artikel 3 van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, een lid af te vaardigen om iedere beraadslaging van de Vlaamse toezichtcommissie als waarnemer bij te wonen.<br>
+De Vlaamse Toezichtcommissie kan de Gegevensbeschermingsautoriteit, vermeld in artikel 3 van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, verzoeken een lid af te vaardigen om een beraadslaging van de Vlaamse Toezichtcommissie als waarnemer bij te wonen.<br>
 <br>
 § 3. De leden van de Vlaamse toezichtcommissie alsook een plaatsvervanger voor elk van hen worden na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie aangesteld door de Vlaamse Regering voor een mandaat van zes jaar.<br>
 <br>
@@ -483,6 +483,10 @@ Een voorafgaande uitnodiging om het recht van verdediging uit te oefenen, is nie
 De Vlaamse toezichtcommissie wordt in en buiten rechte vertegenwoordigd door de voorzitter en de andere leden, dan wel door een van hen.<br>
 <br>
 De Vlaamse toezichtcommissie werkt samen met andere toezichtcommissies en de Europese Commissie overeenkomstig hoofdstuk VII van de algemene verordening gegevensbescherming.<br>
+<br>
+Met het oog op de consequente toepassing van de regelgeving over de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens werkt de Vlaamse Toezichtcommissie samen met de Gegevensbeschermingsautoriteit, vermeld in de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, en met de bevoegde toezichthoudende autoriteiten, vermeld in titel 2 en 3 van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, die belast zijn met het toezicht op de verwerking van persoonsgegevens.<br>
+<br>
+Ter uitvoering van artikel 51, lid 3, en artikel 68, lid 4, van de algemene verordening gegevensbescherming en in het kader van het coherentiemechanisme, vermeld in artikel 63 van de algemene verordening gegevensbescherming, verleent de Vlaamse Toezichtcommissie haar medewerking aan de voormelde Gegevensbeschermingsautoriteit in functie van de rol van gezamenlijke vertegenwoordiger als vermeld in artikel 116 van de voormelde wet van 3 december 2017.<br>
 <br>
 § 4. De Vlaamse toezichtcommissie organiseert een klachtenprocedure overeenkomstig de voorschriften van artikel 57, lid 1, f), en artikel 57, lid 2, van de algemene verordening gegevensbescherming. De Vlaamse toezichtcommissie bepaalt bij huishoudelijk reglement de nadere voorwaarden van deze klachtenprocedure.
 
