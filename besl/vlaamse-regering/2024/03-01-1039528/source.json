@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039528,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-01 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039528/VolledigDocument?datum=2024-04-12",
+  "source_sha256": "ccbe6fd49e8c5f54dc5db6554fc8d8e26806b4e4dc7a44a9c66bdeb8f4cd29fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039528&param=informatie",
+  "as_of": "2024-04-12",
+  "made": "2024-03-01",
+  "gazette": "2024-04-02",
+  "numac": 2024002794,
+  "document_start": "2024-04-12",
+  "document_end": null,
+  "in_force": "2024-04-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
