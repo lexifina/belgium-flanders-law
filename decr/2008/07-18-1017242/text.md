@@ -258,9 +258,21 @@ Als het Vlaamse Comité voor de mededeling van persoonsgegevens beraadslaagt ove
 <br>
 De beraadslaging van het Vlaamse Comité voor de mededeling van persoonsgegevens verplicht niet tot de mededeling van gegevens maar is bindend met betrekking tot de modaliteiten van de mededeling als tot mededeling wordt beslist.<br>
 <br>
-§ 2. De mededeling van persoonsgegevens, vermeld in paragraaf 1, vereist geen protocol indien het informatieveiligheidscomité, opgericht met toepassing van artikel 2 van de wet tot oprichting van het informatieveiligheidscomité en tot wijziging van diverse wetten betreffende de uitvoering van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, bevoegd is om met betrekking tot die mededeling een beraadslaging te verlenen.<br>
+§1/2. Met verwerkingsverantwoordelijken uit dezelfde sector die met de uitvoering van dezelfde taken van algemeen belang zijn belast of met de uitvoe ring van dezelfde verplichtingen die op hen rusten, kunnen algemene protocol len over de elektronische mededeling van persoonsgegevens worden gesloten.<br>
 <br>
-§ 3. Over de mededeling van persoonsgegevens binnen een instantie beslist de verwerkingsverantwoordelijke van die instantie zelf na voorafgaand advies van de functionaris voor gegevensbescherming van de betreffende instantie. De functionaris voor gegevensbescherming adviseert de verwerkingsverantwoordelijke welke soorten persoonsgegevens voor welke specifieke doeleinden kunnen worden meegedeeld tussen entiteiten binnen de betreffende instantie en op welke manier die mededeling gebeurt. Daartoe onderzoekt de functionaris voor gegevensbescherming of de gegevens toereikend en ter zake dienend zijn, alsook beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden meegedeeld. In het geval de functionaris voor gegevensbescherming oordeelt dat de mededeling, gelet op onder meer de aard, de omvang, de context en de doeleinden van de mededeling, waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen wiens gegevens zouden worden meegedeeld, kan voorafgaand aan de mededeling het advies bij de Vlaamse toezichtcommissie, vermeld in artikel 10/1, worden ingewonnen.
+Een algemeen protocol wordt opgesteld na advies van de functionaris voor gegevensbescherming van de meedelende instantie. Een algemeen protocol bevat de punten, vermeld in paragraaf 1, tweede lid, en de modaliteiten die door de ontvangende verwerkingsverantwoordelijken moeten worden nageleefd. Over het algemene protocol wordt voorafgaand het advies ingewonnen van het Vlaamse Comité voor de mededeling van persoonsgegevens, vermeld in artikel 9/1.<br>
+<br>
+De verwerkingsverantwoordelijken van de instanties of organisaties van de betrokken sector kunnen aansluiten op een algemeen protocol na advies van hun functionaris voor gegevensbescherming en na een bevestiging door de verwerkingsverantwoordelijke van de naleving van de modaliteiten van het algemene protocol.<br>
+<br>
+Dat advies en die bevestiging worden bezorgd aan de meedelende instantie. Die meedelende instantie maakt het algemene protocol en het overzicht van de aangesloten verwerkingsverwerkingsverantwoordelijken op haar website bekend. De aangesloten verwerkingsverantwoordelijken maken het algemene protocol bekend op hun website.<br>
+<br>
+De meedelende instantie waarmee de verwerkingsverantwoordelijken van de betrokken sector een algemeen protocol willen sluiten, kan beslissen om<br>
+&nbsp;<br>
+een voorafgaande algemene beraadslaging in te winnen van het Vlaamse Comité voor de mededeling van persoonsgegevens, vermeld in artikel 9/1, in plaats van een algemeen protocol te sluiten.<br>
+<br>
+§ 2. De mededeling van persoonsgegevens, vermeld in paragraaf 1 en 1/1, vereist geen protocol indien het informatieveiligheidscomité, opgericht met toepassing van artikel 2 van de wet tot oprichting van het informatieveiligheidscomité en tot wijziging van diverse wetten betreffende de uitvoering van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, bevoegd is om met betrekking tot die mededeling een beraadslaging te verlenen.<br>
+<br>
+§ 3. Over de mededeling van persoonsgegevens binnen een instantie beslist de verwerkingsverantwoordelijke van die instantie zelf na voorafgaand advies van de functionaris voor gegevensbescherming van de betreffende instantie. De functionaris voor gegevensbescherming adviseert de verwerkingsverantwoordelijke welke soorten persoonsgegevens voor welke specifieke doeleinden kunnen worden meegedeeld tussen entiteiten binnen de betreffende instantie en op welke manier die mededeling gebeurt. Daartoe onderzoekt de functionaris voor gegevensbescherming of de gegevens toereikend en ter zake dienend zijn, alsook beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden meegedeeld. In het geval de functionaris voor gegevensbescherming oordeelt dat de mededeling, gelet op onder meer de aard, de omvang, de context en de doeleinden van de mededeling, waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen wiens gegevens zouden worden meegedeeld, kan voorafgaand aan de mededeling het advies bij het Vlaamse Comité voor de mededeling van persoonsgegevens, vermeld in artikel 9/1, worden ingewonnen.
 
 ### ART. 9.
 
@@ -311,6 +323,57 @@ De Vlaamse Regering beëindigt het mandaat van een lid van het Vlaamse Comité v
 De Vlaamse Regering kan het mandaat van het lid van het Vlaamse Comité voor de mededeling van persoonsgegevens beëindigen:<br>
 1° als het lid de leeftijd van 67 jaar bereikt;<br>
 2° als het lid op ernstige wijze is tekortgeschoten in de uitoefening van zijn taak.
+
+### ART 9/2.
+
+§1. Binnen de grenzen van hun bevoegdheden krijgen de leden van het Vlaamse Comité voor de mededeling van persoonsgegevens van niemand onder- richtingen. Ze kunnen niet van hun mandaat worden ontheven voor meningen die ze uiten of daden die ze stellen bij het vervullen van hun functie.<br>
+<br>
+De leden van het Vlaamse Comité voor de mededeling van persoonsgegevens zijn onpartijdig en objectief en laten zich niet leiden door vooringenomenheid, in welke vorm dan ook.<br>
+<br>
+§2. De leden van het Vlaamse Comité voor de mededeling van persoonsgegevens en hun medewerkers zijn gehouden tot een vertrouwelijkheidsverplichting met betrekking tot alles wat ze door hun functie hebben kunnen vernemen. Alle leden ondertekenen een verklaring over vertrouwelijkheid en belangenconflicten. Als in een dossier een belangenconflict bij een lid, dat voortkomt uit zijn activiteiten of functie, een onpartijdig oordeel onmogelijk maakt, mag dat lid niet deelnemen aan de besluit- vorming in dat dossier. Het lid brengt de voorzitter of, als hij zelf de voorzitter is, de plaatsvervangende voorzitter op de hoogte van het belangenconflict en de onthouding van deelname aan de besluitvorming.
+
+### ART 9/3.
+
+Als de voorzitter verhinderd of afwezig is of niet kan deelnemen aan de besluitvorming wegens een belangenconflict, oefent een ander effectief lid met dezelfde deskundigheid zijn functie uit.<br>
+<br>
+De plaatsvervangende leden vervangen de effectieve leden met dezelfde deskundigheid als ze verhinderd of afwezig zijn of in afwachting van hun vervanging.<br>
+&nbsp;<br>
+Een plaatsvervangend lid kan alleen deelnemen aan een vergadering van het Vlaamse Comité voor de mededeling van persoonsgegevens als dat effectieve lid niet zelf aan die vergadering deelneemt.
+
+### ART 9/4.
+
+De leden, met uitzondering van het lid dat het voorzitterschap uitoefent, hebben per vergadering van het Vlaamse Comité voor de mededeling van persoonsgegevens die ze bijwonen, recht op een presentiegeld van 175,89 euro per zitting. Het presentiegeld volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en met behoud van de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ’s lands concurrentievermogen. Het presentiegeld tegen 100 procent wordt gekoppeld aan het spilindexcijfer 138,01.<br>
+<br>
+Het lid dat het voorzitterschap van het Vlaamse Comité voor de mededeling van persoonsgegevens uitoefent, heeft per vergadering van het Vlaamse Comité voor de mededeling van persoonsgegevens die het bijwoont, recht op twee keer het presentiegeld, vermeld in het eerste lid.<br>
+<br>
+De leden, met inbegrip van het lid dat het voorzitterschap uitoefent, hebben recht op de vergoedingen voor de reis- en verblijfkosten conform de bepalingen die gelden voor de personeelsleden van de diensten van de Vlaamse overheid.
+
+### ART 9/5.
+
+Het Vlaamse Comité voor de mededeling van persoonsgegevens is gevestigd en heeft zijn vergaderingen bij de entiteit, bevoegd voor de facilitering van de digitalisering bij de instanties, die de kantoren en de kantooruitrusting ter beschikking stelt die nodig zijn voor de werking en het voorzitterschap, alsook gespecialiseerd personeel, voor zover daar behoefte aan is, om de taken van het Vlaamse Comité voor de mededeling van persoonsgegevens tot een goed einde te brengen. De voorzitter van het Vlaamse Comité voor de mededeling van persoonsgegevens draagt in voorkomend geval de functionele verantwoordelijkheid over dat personeel voor de opdrachten die het voor het Vlaamse Comité voor de mededeling van persoonsgegevens uitvoert.
+
+### ART 9/6.
+
+De entiteit, bevoegd voor de facilitering van de digitalisering bij de instanties, stelt een juridisch en technisch advies op over elke aanvraag die betrekking heeft op de mededeling van persoonsgegevens, waarvan het van het Vlaamse Comité voor de mededeling van persoonsgegevens een afschrift ontvangt.
+
+### ART 9/7.
+
+De werkingskosten van het Vlaamse Comité voor de mededeling van persoonsgegevens, met inbegrip van de vergoedingen en terugbetalingen van kosten die aan de voorzitter en de andere leden uitgekeerd zijn, voor zover die betrekking hebben op de uitvoering van zijn opdrachten, worden gedragen door de entiteit, bevoegd voor de facilitering van de digitalisering bij de instanties.
+
+### ART 9/8.
+
+Het Vlaamse Comité voor de mededeling van persoonsgegevens stelt zijn huishoudelijk reglement vast, dat onder meer de nadere regels bevat voor de indiening van aanvragen, het versturen van de aanvragen naar de entiteit, bevoegd voor de facilitering van de digitalisering bij de instanties, en het ontvangen van het technische en juridische advies van de entiteit, bevoegd voor de facilitering van de digitalisering bij de instanties. Het huishoudelijk reglement bepaalt dat bij een staking van stemmen de stem van de voorzitter doorslaggevend is.
+
+### ART 9/9.
+
+Het Vlaamse Comité voor de mededeling van persoonsgegevens is met het oog op de gegevensbescherming belast met de volgende taken wat betreft de gegevensmededelingen door instanties:<br>
+1° het formuleren van de goede praktijken die het nuttig acht voor de mededeling van persoonsgegevens door instanties;<br>
+2° het verlenen binnen een termijn van dertig dagen na ontvangst van een volledig ontvankelijk dossier van beraadslagingen voor de mededeling van persoonsgegevens;<br>
+3° &nbsp;het verlenen binnen een termijn van dertig dagen na ontvangst van een volledig ontvankelijk dossier van algemene beraadslagingen aan een bepaalde categorie van begunstigden als verschillende publieke of private instanties met een taak van algemeen belang vergelijkbare structurele behoeften hebben met betrekking tot bepaalde gegevens, beheerd door instanties. Daarbij wordt het kader vastgesteld voor de mededeling en worden in het bijzonder de voorwaarden en de modaliteiten bepaald waaraan een aanvrager moet voldoen om bij de algemene beraadslaging te kunnen aansluiten;<br>
+4° het bijhouden en publiceren van de beraadslagingen, vermeld in punt 2° en 3°, op de website van het Comité voor de mededeling van persoonsgegevens;<br>
+5° het jaarlijks publiceren op de website van het Vlaamse Comité voor de mededeling van persoonsgegevens van een beknopt verslag over de vervulling van de opdrachten tijdens het afgelopen jaar met bijzondere aandacht voor de dossiers waarover niet tijdig beslist kon worden.<br>
+<br>
+De Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens kan elke beraadslaging van het Vlaamse Comité voor de mededeling van persoonsgegevens, ongeacht wanneer ze is verleend, toetsen aan de algemene verordening gegevensbescherming. Met behoud van haar andere bevoegdheden kan ze, als ze op een gemotiveerde wijze vaststelt dat een beraadslaging niet in overeenstemming is met de algemene verordening gegevensbescherming, het Vlaamse Comité voor de mededeling van persoonsgegevens vragen om die beraadslaging op de punten die ze aangeeft, te heroverwegen. In voorkomend geval legt het Vlaamse Comité voor de mededeling van persoonsgegevens de gewijzigde beraadslaging ter advies voor aan de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens. Als die geen bijkomende opmerkingen formuleert, wordt de gewijzigde beraadslaging geacht definitief te zijn.
 
 ## Afdeling II. [De Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 18, I: 29 maart 2019)]
 
