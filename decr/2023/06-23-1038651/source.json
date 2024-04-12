@@ -2,16 +2,16 @@
   "codex_id": 1038651,
   "title": "Decreet van 2023-06-23 tot wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, het Bestuursdecreet van 7 december 2018 en het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap ter versterking van het kader voor digitale gegevensuitwisselingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038651/VolledigDocument?datum=2023-09-24",
-  "source_sha256": "4030d5a6c205c458ba3a61a4ea72995b9c08977b16c52ac25f63a6389be5e8f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038651/VolledigDocument?datum=2024-04-12",
+  "source_sha256": "0a17fd4495e9d873ecf44ac1c474de604c40dcffe65373776b0c60c38aaca493",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038651&param=informatie",
-  "as_of": "2023-09-24",
+  "as_of": "2024-04-12",
   "made": "2023-06-23",
   "gazette": "2023-08-11",
   "numac": 2023044063,
   "document_start": "2023-08-21",
   "document_end": null,
-  "in_force": "2023-09-24",
-  "article_versions": 102,
-  "record_form": "consolidated version as in force on 2023-09-24; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-04-12",
+  "article_versions": 110,
+  "record_form": "consolidated version as in force on 2024-04-12; future article versions excluded; article text as the API gives it"
 }
