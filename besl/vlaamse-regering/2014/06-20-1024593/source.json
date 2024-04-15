@@ -2,16 +2,16 @@
   "codex_id": 1024593,
   "title": "Besluit van de Vlaamse Regering van 2014-06-20 houdende nadere regels betreffende de toekenning van subsidies in het kader van het [BRV-fonds]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024593/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "83d1c1b4b9f08cafc0f87a9e2970754a69dd47b1872e3bfda19f9d00d6a2418a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024593/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "63d511d504cd55d590fdf4da87606f58bec92ef003432e14dbd1280ef01f5d85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024593&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-04-15",
   "made": "2014-06-20",
   "gazette": "2014-09-25",
   "numac": 2014035923,
   "document_start": "2014-10-05",
   "document_end": "2024-04-14",
-  "in_force": "2023-01-01",
+  "in_force": "2024-04-15",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }
