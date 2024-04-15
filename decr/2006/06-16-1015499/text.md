@@ -28,13 +28,52 @@ Binnen de Vlaamse Landmaatschappij, opgericht bij decreet van 21 december 1988 h
 
 ### ART. 4.
 
-§ 1. De Vlaamse Landmaatschappij stelt de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 1.<br /><br />§ 2. De administratieve overheden van het Vlaamse Gewest bevoegd voor Leefmilieu, Landinrichting en Natuurbehoud, stellen de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 2 en 5, § 3.<br /><br />
+§ 1. De Vlaamse Landmaatschappij stelt de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 1.<br>
+<br>
+§ 2. De administratieve overheden van het Vlaamse Gewest bevoegd voor Leefmilieu, Landinrichting en Natuurbehoud, stellen de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 2 en 5, § 3.<br>
+<br>
+§ 3. De Vlaamse Grondenbank bewaart de gegevens, met inbegrip van persoonsgegevens, voor de uitoefening van de taken, vermeld in artikel 5, gedurende de termijnen die worden bepaald in de selectieregels die de Vlaamse Landmaatschappij heeft opgesteld overeenkomstig het Bestuursdecreet van 7 december 2018.<br>
+&nbsp;
 
 ## HOOFDSTUK II TAKEN
 
 ### ART. 5.
 
-§ 1. De Vlaamse Grondenbank heeft als taak :<BR>1° het ontvangen en ter   beschikking stellen van informatie met betrekking tot de decretale rechten van   voorkoop en koopplichten op de wijze zoals bedoeld in titel III;<BR>2° het   uitoefenen van de decretale rechten van voorkoop zoals bedoeld in titel IV,   hoofdstukken I en VI, op verzoek van de bevoegde administratieve overheden van   het Vlaamse Gewest;<BR>3° het vervullen van de decretale koopplichten zoals   bedoeld in titel IV, hoofdstukken I en VII.<BR>4° het uitvoeren van de taken van   het e-voorkooploket zoals bepaald in artikel 4 van het decreet van 25 mei 2007   houdende de harmonisering van de procedures van voorkooprechten.<BR><BR>§ 2.   Naast de taken opgesomd onder § 1 heeft de Vlaamse Grondenbank, voor de   bevoegdheden Leefmilieu, Landinrichting en Natuurbehoud, de volgende taken die   ze zal uitvoeren op de wijze bepaald door de bevoegde entiteiten inzake   Leefmilieu, Landinrichting en Natuurbehoud :<BR>1° het verwerven en overdragen   van zakelijke rechten op onroerende goederen, zoals bedoeld in titel IV,   hoofdstukken I, II en IV;<BR>2° het verwerven en overdragen van aandelen van   vennootschappen, zoals bedoeld in titel IV, hoofdstukken I, II en IV;<BR>3° het   administratief beheren van deze rechten, vanaf de verwerving tot aan de   overdracht, zoals bedoeld in titel IV, hoofdstukken I en III;<BR>4° het   aanleggen van grondreserves voor ruil in functie van de realisatie van projecten   inzake bosuitbreiding of natuurbehoud, met inbegrip van de schadebeperkende en   de compenserende maatregelen zoals bedoeld in artikel 26bis, § 3 van het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en met   inbegrip van de compenserende maatregelen bedoeld in artikel 36ter, § 5 van   hetzelfde decreet;<BR>5° het ruilen van onroerende goederen.<BR><BR>§ 3. De   Vlaamse Grondenbank heeft, binnen het kader van natuur- en bosbeleid en van   grootschalige infrastructuurprojecten, als taak op verzoek van een   beroepslandbouwer of van een administratieve overheid van het Vlaamse Gewest   :<BR>1° het ruilen van onroerende goederen die in landbouwgebruik zijn en die   niet gelegen zijn in de agrarische structuur, naar de agrarische   structuur;<BR>2° het verplaatsen van landbouwbedrijven, geheel of gedeeltelijk   niet gelegen in de agrarische structuur, naar de agrarische structuur;<BR>3° het   ruilen of verplaatsen zoals bedoeld in respectievelijk 1° of 2° kan niet naar de   gebieden opgesomd in artikel 20 van het decreet van 21 oktober 1997 betreffende   het natuurbehoud en het natuurlijk milieu, tenzij de Hoge Raad voor Natuurbehoud   hiertoe positief advies verleent.<BR><BR>§ 4. De Vlaamse Grondenbank kan, op   verzoek en in naam en voor rekening van de administratieve overheden in het   Vlaamse Gewest, de aan deze overheden toebehorende bevoegdheden inzake   onroerende en domaniale verrichtingen uitvoeren.<BR><BR>De Vlaamse Grondenbank   dient daarbij tegenover derden niet te doen blijken van een bijzondere   lastgeving.<BR><BR>De Vlaamse Regering kan nadere regelen bepalen voor de   toepassing van deze paragraaf.<BR><BR>§ 5. De Vlaamse Grondenbank kan, op   verzoek van de administratieve overheden in het Vlaamse Gewest, aan de personen   die onteigend worden, gelijkwaardige gronden aanbieden. Het bedrag van de met   toepassing van artikel 16 van de Grondwet verschuldigde geldelijke   schadeloosstelling wordt in voorkomend geval vereffend of verminderd door de   voorgestelde grondenruil. Dergelijke grondenruil kan nooit worden opgelegd aan   de onteigende, met behoud van de toepassing van de wetgeving op de   ruilverkaveling van landeigendommen. De ruiloperaties verlopen conform artikel   15/2.<BR><BR>§ 6. De Vlaamse Grondenbank kan aan personen die een compensatie   voor kapitaalschade, vermeld in boek 6 van het decreet van 27 maart 2009   betreffende het grond- en pandenbeleid aanvragen, het aanbod doen om de   schadelijdende percelen te ruilen voor gelijkwaardige gronden.<BR><BR>§ 7. De   Vlaamse Grondenbank kan, op verzoek van de betrokken gewestelijke administratie,   de conform artikel 4.4.2 van de Vlaamse Codex Ruimtelijke Ordening aangekochte   goederen aanhouden, administratief beheren en zakelijke rechten daarop   overdragen, en de ruiloperaties, vermeld in artikel 4.4.2, § 2, van de voormelde   codex, doorvoeren. De ruiloperaties verlopen conform artikel 15/2.
+§ 1. De Vlaamse Grondenbank heeft als taak :<br>
+1° het ontvangen en ter beschikking stellen van informatie met betrekking tot de decretale rechten van voorkoop en koopplichten op de wijze zoals bedoeld in titel III;<br>
+2° het uitoefenen van de decretale rechten van voorkoop zoals bedoeld in titel IV, hoofdstukken I en VI, op verzoek van de bevoegde administratieve overheden van het Vlaamse Gewest;<br>
+3° het vervullen van de decretale koopplichten zoals bedoeld in titel IV, hoofdstukken I en VII.<br>
+4° het uitvoeren van de taken van het e-voorkooploket zoals bepaald in artikel 4 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.<br>
+<br>
+§ 2. Naast de taken opgesomd onder § 1 heeft de Vlaamse Grondenbank, voor de bevoegdheden Leefmilieu, Landinrichting en Natuurbehoud, de volgende taken die ze zal uitvoeren op de wijze bepaald door de bevoegde entiteiten inzake Leefmilieu, Landinrichting en Natuurbehoud :<br>
+1° het verwerven en overdragen van zakelijke rechten op onroerende goederen, zoals bedoeld in titel IV, hoofdstukken I, II en IV;<br>
+2° het verwerven en overdragen van aandelen van vennootschappen, zoals bedoeld in titel IV, hoofdstukken I, II en IV;<br>
+3° het administratief beheren van deze rechten, vanaf de verwerving tot aan de overdracht, zoals bedoeld in titel IV, hoofdstukken I en III;<br>
+4° het aanleggen van grondreserves voor ruil in functie van de realisatie van projecten inzake bosuitbreiding of natuurbehoud, met inbegrip van de schadebeperkende en de compenserende maatregelen zoals bedoeld in artikel 26bis, § 3 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en met inbegrip van de compenserende maatregelen bedoeld in artikel 36ter, § 5 van hetzelfde decreet;<br>
+5° het ruilen van onroerende goederen.<br>
+<br>
+§ 3. De Vlaamse Grondenbank heeft, binnen het kader van natuur- en bosbeleid en van grootschalige infrastructuurprojecten, als taak op verzoek van een beroepslandbouwer of van een administratieve overheid van het Vlaamse Gewest :<br>
+1° het ruilen van onroerende goederen die in landbouwgebruik zijn en die niet gelegen zijn in de agrarische structuur, naar de agrarische structuur;<br>
+2° het verplaatsen van landbouwbedrijven, geheel of gedeeltelijk niet gelegen in de agrarische structuur, naar de agrarische structuur;<br>
+3° het ruilen of verplaatsen zoals bedoeld in respectievelijk 1° of 2° kan niet naar de gebieden opgesomd in artikel 20 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, tenzij de Hoge Raad voor Natuurbehoud hiertoe positief advies verleent.<br>
+<br>
+§ 4. De Vlaamse Grondenbank kan, op verzoek en in naam en voor rekening van de administratieve overheden in het Vlaamse Gewest, de aan deze overheden toebehorende bevoegdheden inzake onroerende en domaniale verrichtingen uitvoeren.<br>
+<br>
+De Vlaamse Grondenbank dient daarbij tegenover derden niet te doen blijken van een bijzondere lastgeving.<br>
+<br>
+De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van deze paragraaf.<br>
+<br>
+§ 5. De Vlaamse Grondenbank kan, op verzoek van de administratieve overheden in het Vlaamse Gewest, aan de personen die onteigend worden, gelijkwaardige gronden aanbieden. Het bedrag van de met toepassing van artikel 16 van de Grondwet verschuldigde geldelijke schadeloosstelling wordt in voorkomend geval vereffend of verminderd door de voorgestelde grondenruil. Dergelijke grondenruil kan nooit worden opgelegd aan de onteigende, met behoud van de toepassing van de wetgeving op de ruilverkaveling van landeigendommen. De ruiloperaties verlopen conform artikel 15/2.<br>
+<br>
+§ 6. De Vlaamse Grondenbank kan aan personen die een compensatie voor kapitaalschade, vermeld in boek 6 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid aanvragen, het aanbod doen om de schadelijdende percelen te ruilen voor gelijkwaardige gronden.<br>
+<br>
+§ 7. De Vlaamse Grondenbank is belast met het globale administratieve beheer van de regeling inzake koopplichten en de ontwikkeling van een koopplichtenloket, vermeld in artikel 23 van het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+In voorkomend geval maakt de Vlaamse Grondenbank een beoordelingsverslag en een schattingsverslag op als vermeld in artikel 23, § 2, derde lid, van het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+De Vlaamse Grondenbank kan naar aanleiding van een aanvraag tot het vervullen van een koopplicht overgaan tot een ruil als vermeld in artikel 28, derde en vierde lid, van het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+Op verzoek van de tot aankoop verplichte entiteiten, vermeld in artikel 22 van het Instrumentendecreet van 26 mei 2023, kan de Vlaamse Grondenbank de onroerende goederen die conform titel 3 van het Instrumentendecreet van 26 mei 2023 zijn aangekocht, aanhouden, administratief beheren en zakelijke rechten daarop overdragen, en kan ze de ruiloperaties, vermeld in artikel 28, derde en vierde lid, van het Instrumentendecreet, doorvoeren. Op die ruiloperaties kan artikel 15/2 worden toegepast.
 
 ## HOOFDSTUK III MIDDELEN
 
@@ -83,7 +122,7 @@ De Vlaamse Grondenbank voert de taken zoals beschreven in artikel 5, § 1, 2°, 
 
 ### ART. 12/1.
 
-&nbsp;§ 1. Ten gevolge van een ruil als vermeld in artikel 5, § 2, 5°, en artikel 5, § 3, 1°, kunnen de rechten die de pachter op zijn vroegere perceel bezat, worden overgedragen op zijn nieuwe perceel. Als die rechten worden overgedragen, kunnen wijzigingen worden aangebracht aan de pacht, inzonderheid met betrekking tot:<br>
+&nbsp;§ 1. Ten gevolge van een ruil als vermeld in artikel 5, § 2, 5°, artikel 5, § 7, en artikel 5, § 3, 1°, kunnen de rechten die de pachter op zijn vroegere perceel bezat, worden overgedragen op zijn nieuwe perceel. Als die rechten worden overgedragen, kunnen wijzigingen worden aangebracht aan de pacht, inzonderheid met betrekking tot:<br>
 1° de pachtprijs;<br>
 2° de duur van de pacht;<br>
 3° de vergoedingen die overeenkomstig het Vlaams Pachtdecreet van 13 oktober 2023 verschuldigd zijn aan de pachter die de kosten heeft gedragen voor aanplantingen, bouwwerken en alle werken die noodzakelijk zijn voor de bewoonbaarheid van het gepachte goed of die dienstig zijn voor de exploitatie van dat goed en die stroken met de bestemming ervan.<br>
@@ -217,27 +256,7 @@ Iedere uitspraak op een eis tot indeplaatsstelling wordt ingeschreven achter de 
 
 ### ART. 20.
 
-§ 1. Alle aanvragen tot vervullen van de decretale koopplicht worden gericht aan de Vlaamse Grondenbank.<br>
-<br>
-§ 2. De Vlaamse Grondenbank vervult, in eigen naam en voor eigen rekening, de hierna vermelde koopplichten :<br>
-1° de koopplicht zoals bepaald in het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen verontreiniging door meststoffen;<br>
-2° het decreet van 21 december 1994 houdende bekrachtiging van het besluit van de Vlaamse Regering van 16 november 1994 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud;<br>
-3° de koopplicht zoals bepaald in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-4° de koopplicht, vermeld in het decreet van 28 maart 2014 betreffende de landinrichting, voor goederen die gelegen zijn binnen de in het landinrichtingsplan aangeduide zone waar de koopplicht geldt conform het voormelde decreet betreffende de landinrichting;<br>
-<br>
-§ 3. De Vlaamse Regering kan de Vlaamse Grondenbank de opdracht geven om in naam en voor rekening van de tot aankoop verplichte entiteit de hierna vermelde koopplichten te vervullen :<br>
-1° de koopplicht zoals bepaald in het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br>
-2° de koopplicht zoals bepaald in het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
-3° ...;<br>
-4° de koopplicht zoals bepaald in het decreet van 16 april 1996 betreffende de waterkeringen;<br>
-5° de koopplicht, vermeld in het decreet van 28 maart 2014 betreffende de landinrichting, voor goederen die gelegen zijn binnen de in de inrichtingsnota aangeduide zone waar de koopplicht geldt conform het voormelde decreet betreffende de landinrichting.<br>
-<br>
-§ 4. de Vlaamse Grondenbank zal de koopplichten vervullen indien aan de desbetreffende decretale voorwaarden voldaan is.<br>
-<br>
-§ 5. De Vlaamse Grondenbank zal de toekomstige decretale koopplichten vervullen, overeenkomstig artikel 10.<br>
-<br>
-§ 6. De Vlaamse Regering kan nadere regels stellen met betrekking tot een rangorde volgens dewelke de koopplichten dienen vervuld te worden, in geval van samenloop van verschillende koopplichten.<br>
-&nbsp;
+...
 
 ## TITEL V SLOTBEPALINGEN
 
