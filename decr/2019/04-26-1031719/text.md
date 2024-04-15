@@ -194,7 +194,10 @@ Bij het bepalen van de eerstelijnszones neemt de Vlaamse Regering de volgende vo
 1° de eerstelijnszones overlappen elkaar niet;<br>
 2° de eerstelijnszones bestrijken het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
 3° een gemeente kan maar deel uitmaken van één eerstelijnszone, met uitzondering van de gemeenten Antwerpen en Gent;<br>
-4° een eerstelijnszone omvat minimaal 70.000 inwoners.
+4° een eerstelijnszone omvat minimaal 60.000 inwoners;<br>
+5° de eerstelijnszones worden afgestemd op de grenzen van de referentie- regio’s, vermeld in artikel 5 van het Regiodecreet van 3 februari 2023.<br>
+<br>
+De Vlaamse Regering kan afwijken van de voorwaarde, vermeld in het tweede lid, 5°.
 
 ## HOOFDSTUK 6. Regionale zorgplatformen
 
@@ -257,7 +260,10 @@ Bij het bepalen van de regionale zorgzones neemt de Vlaamse Regering de volgende
 1° de regionale zorgzones bestrijken het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
 2° een regionale zorgzone omvat minstens twee eerstelijnszones, met uitzondering van het tweetalige gebied Brussel-Hoofdstad, dat kan bestaan uit één eerstelijnszone;<br>
 3° een regionale zorgzone bestrijkt een aaneensluitend grondgebied, met uitzondering van de gemeenten Voeren en Baarle-Hertog, dat minimaal 300.000 inwoners omvat;<br>
-4° het werkgebied van de organisaties, vermeld in artikel 17, tweede lid, 1° tot en met 4°, en de regionale zorgzones zijn maximaal op elkaar afgestemd.
+4° het werkgebied van de organisaties, vermeld in artikel 17, tweede lid, 1° tot en met 4°, en de regionale zorgzones zijn maximaal op elkaar afgestemd;<br>
+5° onder voorbehoud van de voorwaarden, vermeld in punt 1° tot en met 3°, worden de regionale zorgzones afgestemd op de grenzen van de referentieregio’s, vermeld in artikel 5 van het Regiodecreet van 3 februari 2023.<br>
+<br>
+De Vlaamse Regering kan afwijken van de voorwaarde, vermeld in het tweede lid, 5°.
 
 ## HOOFDSTUK 7. Partnerorganisaties
 
