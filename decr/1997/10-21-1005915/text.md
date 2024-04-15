@@ -103,9 +103,9 @@ d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijk
 70° zoekzone: een zone die per Europees te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft die gevrijwaard wordt met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het realiseren van het openstaand saldo van de taakstelling voor de betrokken Europees te beschermen habitat of Europees te beschermen soort. Dat openstaand saldo is het verschil tussen de oppervlakte aan Europees te beschermen habitat of leefgebied van Europees te beschermen soorten, bepaald in de instandhoudingsdoelstellingen voor een speciale beschermingszone, en de oppervlakte waarvoor het passende beheer is vastgesteld in goedgekeurde natuurbeheerplannen als vermeld in artikel 16octies van dit decreet of daarmee vergelijkbare plannen of vergelijkbare overeenkomsten waarin een passend beheer is vastgesteld;<br>
 71° actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld wordt voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de betrokken speciale beschermingszone;<br>
 72° omgevingsvergunning voor het wijzigen van de vegetatie: de omgevingsvergunning voor het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan;<br>
+73° decreet van 28 maart 2014: het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 74° stikstofdepositie: de aanvoer van stikstof uit de atmosfeer naar oppervlakken zoals bodem, water en vegetaties. Dat gebeurt rechtstreeks vanuit de lucht (droge depositie) en via regen, sneeuw en hagel (natte depositie);<br>
-75° stikstofgevoelige habitats: habitattypes waarvan de kwaliteit wordt aangetast door de effecten van stikstofdepositie.<br>
-&nbsp;</p>
+75° stikstofgevoelige habitats: habitattypes waarvan de kwaliteit wordt aangetast door de effecten van stikstofdepositie.</p>
 
 ## HOOFDSTUK II OFFICIËLE STRUCTUREN INZAKE NATUURBELEID
 
@@ -1007,7 +1007,11 @@ Bij verkoop van onroerende goederen die gelegen zijn in het VEN, in een   door d
 
 ### ART. 42.
 
-De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de   verwerving daarvan eisen indien hij aantoont dat, ten gevolge van de aanduiding   van dit onroerend goed als een GEN of GENO of&nbsp;de opname ervan in een   vastgesteld managementplan Natura 2000 of een vastgestelde planversie, zoals   vermeld in artikel 50octies, § 1, de waardevermindering van zijn onroerend goed   ernstig is ofwel dat de leefbaarheid van de bestaande bedrijfsvoering ernstig in   het gedrang komt.<BR><BR>De Vlaamse regering bepaalt de nadere voorwaarden en de   procedure van deze koopplicht. De Vlaamse regering bepaalt de wijze van   berekening van het bedrag van de aankoopprijs waarop de eigenaar recht heeft.   Bij de berekening van de aankoopprijs wordt rekening gehouden met het verschil   in de waarde van het onroerend goed voor de opname in het VEN of in de speciale   beschermingszone en de waarde na de definitieve afbakening hiervan.<BR><BR>Het   bedrag dat de eigenaar van de Vlaamse Grondenbank ontvangt met toepassing van   dit artikel, wordt in voorkomend geval verminderd met het bedrag dat de eigenaar   ontvangen heeft ten gevolge van planschade voor hetzelfde onroerend goed.   Wanneer een eigenaar van een onroerend goed gebruik maakt van de voormelde   mogelijkheid van gedwongen aankoop door de Vlaamse Grondenbank, kan hij geen   aanspraak meer maken op planschade, patrimoniumverlies, schadevergoeding of een   andere aankoopverplichting in hoofde van het Vlaamse Gewest of van de Vlaamse   Grondenbank voor hetzelfde onroerend goed.<BR><BR>De bepalingen van titel IV,   hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de   oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse   bepalingen zijn van toepassing op deze koopplicht.<BR>
+De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de verwerving daarvan eisen, als hij aantoont dat door de aanduiding ervan als een GEN of GENO, of door de opname ervan in een vastgesteld managementplan Natura 2000 als vermeld in artikel 50octies, § 1, de waardevermindering van zijn onroerend goed ernstig is of de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden van de koopplicht, vermeld in het eerste lid.<br>
+<br>
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.
 
 ### ART. 43.
 
