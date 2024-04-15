@@ -76,61 +76,29 @@ De kennisgeving of de adviesvraag, vermeld in artikel 5, bevat in het geval van 
 
 ### ART. 10.
 
-§ 1. De eigenaar van een onroerend goed dat geheel of gedeeltelijk gelegen is binnen een oeverzone of overstromingsgebied, kan binnen een periode van vijf jaar nadat de afbakening van de oeverzone of het overstromingsgebied van kracht werd, of binnen een periode van vijf jaar nadat het afgebakende overstromingsgebied actief is ingeschakeld, de initiatiefnemer verplichten tot aankoop van het onroerend goed, op voorwaarde dat aan de voorwaarden, vermeld in dit artikel, voldaan is.<br /><br />§ 2 De eigenaar van een onroerend goed kan de aankoopplicht inroepen als aan de volgende voorwaarden is voldaan : <br />1° het onroerend goed is geheel of gedeeltelijk binnen een afgebakend overstromingsgebied of afgebakende oeverzone gelegen;<br />2° er is een ernstige waardevermindering van het onroerend goed in kwestie of de leefbaarheid van de bestaande bedrijfsvoering komt door de afbakening ernstig in het gedrang. Er is een ernstige waardevermindering van het onroerend goed in kwestie als de waarde van het gedeelte van het onroerend goed dat gelegen is binnen een oeverzone of een overstromingsgebied, met meer dan 20 % verminderd is als gevolg van de afbakening. <br /><br />De leefbaarheid van de bestaande bedrijfsvoering komt ernstig in het gedrang als het arbeidsinkomen van het jaar van aanvraag, als gevolg van de afbakening van de oeverzone of het overstromingsgebied, lager komt dan 2/3 van het referentie-inkomen.<br /><br />§ 3. Als aan de voorwaarden, vermeld in paragraaf 1 en 2, is voldaan, is de aankoopplicht van toepassing op het deel van het onroerend goed dat in een afgebakende oeverzone of overstromingsgebied gelegen is. <br /><br />Als aan de voorwaarden, vermeld in § 1 en § 2, is voldaan en als het onroerend goed voor meer dan 80 % in een overstromingsgebied of oeverzone ligt, kan de eigenaar de aankoopplicht inroepen voor het hele onroerend goed. <br /><br />Als de bedrijfsvoering ernstig in het gedrang komt ten gevolge van de afbakening, kan de eigenaar de aankoopplicht inroepen voor alle onroerende goederen die in gebruik zijn door die eigenaar voor beroepsdoeleinden landbouw of bosbouw. <br /><br />De aankoopplicht is alleen van toepassing op onroerende goederen in het Vlaamse Gewest.
+§ 1. De eigenaar van een onroerend goed dat geheel of gedeeltelijk gelegen is binnen een oeverzone of overstromingsgebied, kan nadat de afbakening van de oeverzone of het overstromingsgebied van kracht werd, of nadat het afgebakende overstromingsgebied actief is ingeschakeld, de initiatiefnemer verplichten tot aankoop van het onroerend goed.<br>
+<br>
+De koopplicht, vermeld in het eerste lid, wordt geregeld bij of krachtens titel 1 en titel 3 van het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+§ 2 ....<br>
+<br>
+§ 3. ...
 
 ### ART. 11.
 
-Overeenkomstig artikel 20, § 1 van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen worden alle aanvragen tot het inroepen van de aankoopplicht gericht aan de Vlaamse Grondenbank.<br /><br />De Vlaamse Grondenbank zal in naam en voor rekening van de initiatiefnemer overgaan tot de verplichte aankopen en optreden bij eventuele betwistingen met betrekking tot de verplichte aankopen. De onroerende goederen, aangekocht in het kader van een verplichte aankoop, vormen een patrimonium van de initiatiefnemer en behoren bijgevolg niet tot het patrimonium van de Vlaamse Grondenbank.
+De Vlaamse Grondenbank zal in naam en voor rekening van de initiatiefnemer overgaan tot de verplichte aankopen en optreden bij eventuele betwistingen met betrekking tot de verplichte aankopen. De onroerende goederen, aangekocht in het kader van een verplichte aankoop, vormen een patrimonium van de initiatiefnemer en behoren bijgevolg niet tot het patrimonium van de Vlaamse Grondenbank.
 
-## Afdeling II Procedure
+## Afdeling II ...
 
 ### ART. 12.
 
-§ 1. De eigenaar dient bij de Vlaamse Grondenbank de aanvraag tot verplichte aankoop in met een aangetekende brief of bij afgifte tegen ontvangstbewijs.<br>
-<br>
-§ 2. Bij het inroepen van de aankoopplicht worden de volgende stukken gevoegd :<br>
-1° een hypothecaire staat of een bewijs van eigendom van het registratiekantoor, waaruit blijkt dat diegene die de aankoopplicht inroept voor het onroerend goed, de eigenaar van dat goed is;<br>
-2° een door de eigenaar ondertekende situatietekening op een kopie van het stratenplan, met vermelding van de straatnaam of de gangbare plaatsnaam en een plan met de kadastrale gegevens, waaruit blijkt voor welke onroerende goederen de aankoopplicht wordt ingeroepen;<br>
-3° de nodige bewijsstukken die aantonen dat als gevolg van de aanwijzing van het onroerend goed in een oeverzone of overstromingsgebied er een ernstige waardevermindering van het onroerende goed in kwestie is, of dat de leefbaarheid van de bedrijfsvoering ernstig in het gedrang is gekomen;<br>
-4° als de aankoopplicht wordt ingeroepen op grond van de leefbaarheid van de bedrijfsvoering, een bewijs dat het onroerend goed gebruikt wordt voor beroepsdoeleinden van landbouw of bosbouw;<br>
-5° een verklaring op erewoord van diegene die de aankoopplicht inroept dat sinds het ogenblik van de verplichting tot aankoop van het onroerend goed in kwestie door de begunstigde geen enkele planschadevergoeding werd aangevraagd of verkregen, of als dat wel het geval is, een kopie van de gedinginleidende akte waarbij de planschadevergoeding wordt gevorderd of een getekend afschrift van het vonnis of arrest dat over die vordering uitspraak doet, en in voorkomend geval, de datum waarop en de naam en het adres van de overheid van wie de planschadevergoeding verkregen werd;<br>
-6° een verklaring op erewoord dat diegene die de aankoopplicht inroept voor het onroerend goed in kwestie, al dan niet een vergoeding op basis van artikel 1.3.3.3.1, § 2, van het decreet gekregen of aangevraagd heeft, en als dat het geval is, een kopie van de aanvraag of uitbetaling.<br>
-<br>
-§ 3. De Vlaamse Grondenbank gaat na of alle stukken als vermeld in § 2, werden bezorgd.<br>
-<br>
-Als niet alle stukken werden bezorgd en de ingediende aanvraag bijgevolg als onvolledig wordt beschouwd, dan wordt diegene die de aankoopplicht inroept door de Vlaamse Grondenbank met een aangetekende brief daarvan op de hoogte gebracht binnen veertien dagen na ontvangst door de Vlaamse Grondenbank van de aanvraag tot verplichte aankoop. De kennisgeving bevat de vermelding van de stukken die ontbreken of die nadere toelichting vereisen. De aanvraag dient volledig te zijn binnen de in artikel 10, § 1, bepaalde termijn.<br>
-<br>
-Als de ingediende aanvraag als volledig wordt beschouwd, dan wordt diegene die de aankoopplicht inroept door de Vlaamse Grondenbank met aangetekende brief daarvan op de hoogte gebracht binnen veertien dagen na ontvangst door de Vlaamse Grondenbank van de aanvraag tot verplichte aankoop of als de aanvraag in eerste instantie onvolledig werd bevonden, binnen veertien dagen na ontvangst van de ontbrekende stukken of de nadere toelichtingen.<br>
-<br>
-Als de initiatiefnemer een beheerder van onbevaarbare waterlopen is, kan de Vlaamse Grondenbank aan diegene die de aankoopplicht inroept aanvullende inlichtingen of een plaatsbezoek vragen.<br>
-<br>
-Als de initiatiefnemer een waterwegbeheerder is, bezorgt de Vlaamse Grondenbank het voor volledig verklaarde dossier aan de betrokken waterwegbeheerder en evalueert de Vlaamse Grondenbank samen met de waterwegbeheerder of er een verzoek om aanvullende inlichtingen of een plaatsbezoek nodig is. Als het verzoek om aanvullende inlichtingen of een plaatsbezoek nodig geacht wordt, brengt de Vlaamse Grondenbank diegene die de aankoopplicht inroept daarvan op de hoogte.<br>
-<br>
-Als niet wordt ingegaan op het verzoek om aanvullende inlichtingen of een plaatsbezoek, geeft dat aanleiding tot het verwerpen van de aanvraag tot verplichte aankoop door de initiatiefnemer. Het verzoek om aanvullende inlichtingen of een plaatsbezoek wordt met een aangetekende brief gedaan. Die brief maakt melding van de sanctie, als niet op het verzoek om aanvullende inlichtingen of een plaatsbezoek wordt ingegaan.<br>
-<br>
-§ 4. De Vlaamse Grondenbank brengt diegene die de aankoopplicht inroept binnen zes maanden nadat het dossier volledig werd verklaard met een aangetekende brief op de hoogte van de beslissing of hij al dan niet de aankoopplicht kan inroepen. Als de initiatiefnemer een waterwegbeheerder is, gebeurt die kennisgeving na het akkoord van de waterwegbeheerder.<br>
-<br>
-§ 5. De aankoopprijs van de onroerende goederen in kwestie wordt berekend op basis van de vergoedingsregels die gelden voor onteigeningen ten algemene nutte. Aan de waterbeheerder wordt de berekende aankoopprijs meegedeeld. De Vlaamse Grondenbank deelt binnen zes maanden na de kennisgeving met een aangetekende brief mee dat diegene die de aankoopplicht inroept zich kan beroepen op de aankoopplicht en deelt de beslissing over de aankoopprijs mee. Die kennisgeving geldt als aanbod.<br>
-<br>
-§ 6 Diegene die de aankoopplicht inroept moet binnen vier maanden na de kennisgeving van de beslissing over de aankoopprijs aan de Vlaamse Grondenbank meedelen of hij het aanbod al dan niet aanvaardt. Als hij niet meedeelt of hij het bod aanvaardt, wordt het aanbod geacht geweigerd te zijn.
+...
 
-## Afdeling III Bepalen van de aankooppprijs
+## Afdeling III ...
 
 ### ART. 13.
 
-§ 1. De aankoopprijs betreft de waarde van het onroerend goed van vóór de afbakening in een oeverzone of overstromingsgebied. De aankoopprijs van de onroerende goederen in kwestie wordt berekend op basis van de vergoedingsregels die gelden voor onteigeningen ten algemene nutte.<br>
-<br>
-Overeenkomstig artikel 1.3.3.3.1, § 1, vierde lid van het decreet wordt er bij de berekening van de aankoopprijs geen rekening gehouden met de waardevermindering die voortvloeit uit de afbakening van het onroerend goed in een oeverzone of overstromingsgebied.<br>
-<br>
-§ 2. In de gevallen waarin aan diegene die de aankoopplicht inroept al een vergoeding werd uitgekeerd op basis van artikel 1.3.3.3.1, § 2, van het decreet, zal die vergoeding in mindering worden gebracht van de aankoopprijs waarop diegene die de aankoopplicht inroept, recht heeft.<br>
-<br>
-Overeenkomstig artikel 1.3.3.3.1, § 1, vierde lid, van het decreet wordt het bedrag dat de eigenaar ontvangt in het kader van de aankoopplicht, verminderd met het bedrag dat de eigenaar heeft ontvangen ten gevolge van planschade voor hetzelfde onroerend goed, zoals bepaald in artikel 2.6.1 tot en met 2.6.3, en artikel 7.4.11, van de Vlaamse Codex Ruimtelijke Ordening.<br>
-<br>
-Als een eigenaar toepassing maakt van de aankoopplicht, kan hij geen aanspraak meer maken op planschade, patrimoniumverlies, schadevergoeding of op een andere aankoopplicht voor hetzelfde onroerend goed.<br>
-<br>
-§ 3. Als de vastgestelde aankoopprijs wordt betwist en daarvoor een vordering aanhangig werd gemaakt bij de bevoegde rechtbank, zal de initiatiefnemer het onroerend goed aankopen tegen de prijs die vastgesteld is in het vonnis of arrest dat in kracht van gewijsde is gegaan.<br>
-<br>
-§ 4. Diegene die de aankoopplicht inroept, kan te allen tijde de inroeping van de aankoopplicht intrekken.
+...
 
 ## Hoofdstuk III Vergoedingsplicht
 
@@ -138,71 +106,79 @@ Als een eigenaar toepassing maakt van de aankoopplicht, kan hij geen aanspraak m
 
 ### ART. 14.
 
-De gebruiker van een onroerend goed dat geheel of gedeeltelijk binnen een afgebakend overstromingsgebied gelegen is, kan binnen een periode van één jaar na de datum van actieve inschakeling, zoals bekendgemaakt werd overeenkomstig artikel 9, een vergoeding vragen aan de initiatiefnemer.<br /><br />De vergoeding wordt toegekend als aan al de volgende voorwaarden is voldaan :<br />1° ten gevolge van de actieve inschakeling van het onroerend goed in de waterbeheersing lijdt de gebruiker een inkomstenverlies uit de activiteiten bedoeld in 2°;<br />2° het onroerend goed wordt gebruikt voor een landbouw- of bosbouwactiviteit die in hoofdzaak gericht is op het voortbrengen van producten, bestemd voor de verkoop.<br /><br />Voor onroerende goederen die gelegen zijn binnen natuurreservaten als vermeld in het natuurdecreet of binnen bosreservaten als vermeld in het Bosdecreet van 13 juni 1990, wordt geen vergoeding toegekend.
+De gebruiker van een onroerend goed dat geheel of gedeeltelijk binnen een afgebakend overstromingsgebied gelegen is, kan een vergoeding vragen aan de initiatiefnemer.<br>
+<br>
+De vergoeding wordt toegekend als aan al de volgende voorwaarden is voldaan :<br>
+1° ten gevolge van de actieve inschakeling van het onroerend goed in de waterbeheersing lijdt de gebruiker een inkomstenverlies uit de activiteiten bedoeld in 2°;<br>
+2° het onroerend goed wordt gebruikt voor een landbouw- of bosbouwactiviteit die in hoofdzaak gericht is op het voortbrengen van producten, bestemd voor de verkoop.<br>
+<br>
+Voor onroerende goederen die gelegen zijn binnen natuurreservaten als vermeld in het natuurdecreet of binnen bosreservaten als vermeld in het Bosdecreet van 13 juni 1990, wordt geen vergoeding toegekend.<br>
+<br>
+De vergoeding, vermeld in het eerste lid, wordt geregeld bij of krachtens titel 1 en titel 2, hoofdstuk 1 tot en met 3 en hoofdstuk 5 en 6, van het Instrumentendecreet van 26 mei 2023.
 
-## Afdeling II Procedure
+## Afdeling II ...
 
 ### ART. 15.
 
-§ 1. De gebruiker dient de aanvraag voor de vergoeding bij de initiatiefnemer in met een aangetekende brief of door afgifte tegen ontvangstbewijs.<br /><br />§ 2. Bij de aanvraag voor de vergoeding worden de volgende stukken gevoegd :<br />1° een plan waaruit blijkt voor welk onroerend goed de vergoeding wordt gevraagd en eventueel een situatietekening op een kopie van het stratenplan, met vermelding van de straatnaam of de gangbare plaatsnaam, waaruit blijkt voor welk onroerend goed de vergoeding wordt gevraagd;<br />2° in voorkomend geval, de verzamelaanvraag die werd gedaan ter uitvoering van artikel 4 van het besluit van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, tenzij de aanvrager van de vergoeding aan de initiatiefnemer de toestemming geeft om die stukken op te vragen bij de bevoegde instantie. Met het oog op de berekening van de vergoeding worden die gegevens verder verwerkt;<br />3° als een vergoeding wordt gevraagd voor een bosperceel, stukken die aantonen dat het perceel een houtproductiefunctie heeft en stukken waaruit het stamtal en de bestandskwaliteit blijkt;<br />4° als de aanvrager vergoed wil worden voor niet-terugverdienbare investeringen als vermeld in artikel 23, stukken die aantonen welke investeringen werden gedaan;<br />5° een verklaring op erewoord van de gebruiker dat hij geen vergoeding op basis van een andere vergoedingsregeling heeft ontvangen of aangevraagd voor hetzelfde inkomstenverlies met betrekking tot hetzelfde onroerend goed.<br /><br />Als de aanvrager van de vergoeding grasland zal inzaaien op het onroerend goed in kwestie en hiervoor een verhoging van de vergoeding wil overeenkomstig artikel 24, moet hij dit bij de aanvraag meedelen. <br /><br />De initiatiefnemer kan een aanvraagformulier ter beschikking stellen, alsook een plan waarop de onroerende goederen zijn aangeduid die gelegen zijn binnen het overstromingsgebied in kwestie en die actief worden ingeschakeld in de waterbeheersing.<br /><br />§ 3. Als de aanvraag tot vergoeding werd ingediend binnen de periode, vermeld in art. 14, en als het onroerend goed in kwestie binnen een afgebakend overstromingsgebied gelegen is, brengt de initiatiefnemer de aanvrager van de vergoeding binnen 14 dagen nadat de aanvraag werd ingediend, ervan op de hoogte dat zijn aanvraag verder wordt behandeld.<br /><br />§ 4. Als de aanvraag tot vergoeding niet werd ingediend binnen de periode, vermeld in artikel 14, wordt geen vergoeding toegekend. Binnen 14 dagen nadat de aanvraag werd ingediend, brengt de initiatiefnemer de aanvrager van de vergoeding met een aangetekende brief daarvan op de hoogte.<br /><br />§ 5. Als de aanvraag tot vergoeding betrekking heeft op een onroerend goed dat niet binnen een afgebakend overstromingsgebied gelegen is, wordt geen vergoeding toegekend. Binnen 14 dagen nadat de aanvraag werd ingediend, brengt de initiatiefnemer de aanvrager van de vergoeding met een aangetekende brief daarvan op de hoogte. <br /><br />Als de initiatiefnemer niet binnen een periode van elf maanden na de datum van actieve inschakeling, aan de aanvrager van de vergoeding heeft meegedeeld dat het onroerend goed in kwestie niet binnen een afgebakend overstromingsgebied gelegen is, kan de aanvrager, ook na de periode, vermeld in artikel 14, eenmalig een nieuwe aanvraag indienen. <br /><br />De nieuwe aanvraag tot vergoeding, vermeld in het tweede lid, moet worden ingediend bij de initiatiefnemer met een aangetekende brief of door afgifte tegen ontvangstbewijs binnen een maand nadat de aanvrager ervan op de hoogte werd gebracht dat het onroerend goed in kwestie niet binnen een afgebakend overstromingsgebied gelegen is. Als de nieuwe aanvraag niet tijdig werd ingediend, wordt geen vergoeding toegekend en brengt de initiatiefnemer de aanvrager van de vergoeding daarvan op de hoogte. Als de aanvraag tot vergoeding tijdig werd ingediend en als het onroerend goed in kwestie gelegen is binnen een afgebakend, actief ingeschakeld overstromingsgebied in kwestie, brengt de initiatiefnemer de aanvrager van de vergoeding ervan op de hoogte dat zijn aanvraag verder wordt behandeld.<br /><br />§ 6. De initiatiefnemer bezorgt de aanvragen die verder worden behandeld, de stukken, vermeld in § 2, en de gegevens die vereist zijn voor de berekening van de vergoeding aan de VLM. De VLM en de initiatiefnemer kunnen te allen tijde aan de aanvrager van de vergoeding aanvullend stukken en inlichtingen vragen of om een plaatsbezoek verzoeken.
+...
 
 ### ART. 16.
 
-§ 1. De VLM gaat na of al dan niet voldaan is aan de voorwaarden voor het toekennen van de vergoeding, als vermeld in artikel 14, tweede lid.<br /><br />§ 2. De VLM deelt de volgende gegevens mee aan de initiatiefnemer :<br />1° als de VLM meent dat niet voldaan werd aan een voorwaarde voor het toekennen van de vergoeding, de redenen waarom niet voldaan werd aan de voorwaarde;<br />2° als de VLM meent dat voldaan werd aan de voorwaarden voor het toekennen van de vergoeding, het bedrag van de vergoeding, alsook een verduidelijking en een motivering van de wijze waarop de vergoeding werd berekend.<br /><br />De VLM berekent de vergoeding overeenkomstig de bepalingen, vermeld in afdeling III van dit hoofdstuk. Met het oog op de berekening en de motivering van de vergoeding overlegt de VLM met de initiatiefnemer.
+...
 
 ### ART. 17.
 
-De initiatiefnemer legt de gegevens, vermeld in artikel 16, voor advies voor aan de groep van deskundigen, vermeld in artikel 19.<br /><br />Als de groep van deskundigen, ondanks de mening van de VLM, meent dat werd voldaan aan de voorwaarden, vermeld in artikel 14, tweede lid, of als de groep van deskundigen meent dat de vergoeding niet correct is berekend, berekent de VLM alsnog de vergoeding overeenkomstig de bepalingen, vermeld in afdeling III van dit hoofdstuk. Met het oog op de berekening en de motivering van de vergoeding overlegt de VLM met de initiatiefnemer. De VLM deelt aan de initiatiefnemer mee wat het bedrag van de vergoeding is en geeft een verduidelijking en een motivering van de wijze waarop de vergoeding werd berekend. Vervolgens legt de initiatiefnemer die gegevens voor advies voor aan de groep van deskundigen.
+...
 
 ### ART. 18.
 
-§ 1. Op basis van het advies van de groep van deskundigen beslist de initiatiefnemer of de vergoeding al dan niet wordt toegekend, en welk bedrag wordt toegekend. Als de initiatiefnemer het advies van de groep van deskundigen niet volgt, motiveert de initiatiefnemer omstandig zijn beslissing.<br /> <br />§ 2. Binnen eenentwintig maanden na de datum van actieve inschakeling zoals bekendgemaakt werd overeenkomstig artikel 9, deelt de initiatiefnemer met een aangetekende brief zijn beslissing mee aan de aanvrager.<br /><br />Als geen vergoeding wordt toegekend, dan bevat de mededeling, vermeld in het eerste lid, de redenen waarom geen vergoeding wordt toegekend.<br /><br />Als een vergoeding wordt toegekend, dan bevat de mededeling, vermeld in het eerste lid, het bedrag van de vergoeding die wordt toegekend, een verduidelijking van de wijze waarop de vergoeding werd berekend en de tijdstippen waarop de vergoeding zal worden betaald.<br /><br />§ 3. Binnen drieëntwintig maanden na de datum van actieve inschakeling, zoals bekendgemaakt werd overeenkomstig artikel 9, betaalt de initiatiefnemer het eerste deel van de vergoeding overeenkomstig art. 27.
+...
 
 ### ART. 19.
 
-§ 1. Er wordt een groep van deskundigen opgericht die advies verleent aan de initiatiefnemer over de aspecten, vermeld in artikel 17. De groep van deskundigen verleent het advies binnen een maand nadat de initiatiefnemer om het advies heeft verzocht.<br /><br />De groep van deskundigen brengt in principe advies uit bij consensus. Als geen consensus wordt bereikt, worden de verschillende standpunten van de leden in het advies uiteengezet.<br /><br />De groep van deskundigen kan te allen tijde derden raadplegen, als ze dat wenselijk acht. De VLM en de initiatiefnemer informeren de groep van deskundigen. <br /><br />§ 2. De groep van deskundigen is samengesteld uit de volgende leden : <br />1° een vertegenwoordiger van de Coördinatiecommissie Integraal Waterbeleid die het voorzitterschap op zich neemt, voorgedragen door de voorzitter van die commissie;<br />2° een vertegenwoordiger van het Agentschap voor Natuur en Bos, voorgedragen door de leidend ambtenaar van dat agentschap;<br />3° een vertegenwoordiger van het Departement Landbouw en Visserij, voorgedragen door de leidend ambtenaar van dat departement;<br />4° een vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek, voorgedragen door de leidend ambtenaar van dat instituut;<br />5° een vertegenwoordiger van het Instituut voor Landbouw en Visserijonderzoek, voorgedragen door de leidend ambtenaar van dat instituut.<br /><br />Voor elk van de leden, vermeld in het eerste artikel, wordt op dezelfde wijze een plaatsvervanger aangewezen.<br /><br />§ 3. De Coördinatiecommissie Integraal Waterbeleid is belast met het secretariaat van de groep van deskundigen.
+...
 
-## Afdeling III Berekening van de vergoeding
+## Afdeling III ...
 
-## Onderafdeling I Principes voor de berekening van de vergoeding
+## Onderafdeling I ...
 
 ### ART. 20.
 
-Bij het bepalen van de vergoeding wordt rekening gehouden met alle geldende wettelijke en verordenende bepalingen die op het moment van de berekening van de vergoeding van kracht zijn, voor zover ze op de berekening van de vergoeding een invloed kunnen hebben.
+...
 
 ### ART. 21.
 
-Bij het bepalen van de vergoeding wordt geen rekening gehouden met inkomsten die gerealiseerd werden uit een gebruik dat strijdig is met de geldende regelgeving onder meer inzake het behoud van de basismilieukwaliteit of die verkregen werden uit werken of handelingen waarvoor niet de vereiste vergunningen of toestemmingen werden verkregen.
+...
 
 ### ART. 22.
 
-Als de vergoeding voor de betrokken gebruiker lager is dan 25 euro, wordt de vergoeding niet uitgekeerd.
+...
 
-## Onderafdeling II Vergoeding voor landbouwpercelen
+## Onderafdeling II ...
 
 ### ART. 23.
 
-§ 1. De vergoeding voor de gebruiker van een landbouwperceel is gelijk aan het verschil tussen de financiële minwaarde van een landbouwperceel na de actieve inschakeling en de financiële minwaarde van een landbouwperceel voor de actieve inschakeling.<br /> <br />De financiële minwaarde van een landbouwperceel wordt berekend door de financiële minwaarde per hectare, vermeld in paragraaf 2, te vermenigvuldigen met de in de waterbeheersing ingeschakelde oppervlakte van het perceel in hectare.<br /><br />§ 2. De financiële minwaarde per hectare wordt berekend als volgt :<br />1° voor een gebruikswaardedaling die kleiner is dan of gelijk is aan het eindgebruik : de financiële minwaarde (euro/ha) = [genotsderving (euro/ha) + kapitaalsderving (euro/ha)] x de gebruikswaardedaling (procent)/ eindgebruik (procent);<br />2° voor een gebruikswaardedaling die groter is dan het eindgebruik en kleiner is dan de gebruiksstopzetting : de financiële minwaarde (euro/ha) = [genotsderving (euro/ha) + kapitaalsderving (euro/ha)] + diverse schadeposten (euro/ha) x [de gebruikswaardedaling (procent) - eindgebruik (procent)]/[gebruiksstopzetting (procent) - eindgebruik (procent)];<br />3° voor een gebruikswaardedaling die gelijk is aan of groter is dan de gebruiksstopzetting : de financiële minwaarde (euro/ha) = genotsderving (euro/ha) + kapitaalsderving (euro/ha) + diverse schadeposten (euro/ha).<br />Waarbij :<br />1° de gebruikswaardedaling : de procentuele daling van de gebruikswaarde van een perceel voor de verbouwde teelt weergeeft. De gebruikswaardedaling wordt gelijk gesteld aan 0% wanneer de gebruikswaarde gelijk is aan die van een gemiddelde perceel van de streek en waarbij voor de verbouwde teelt de gerelateerde semibrutowinst gebaseerd wordt op streekgegevens en waarbij het veekapitaal gebaseerd wordt op bedrijfsgegevens. De gebruikswaardedaling wordt gelijk gesteld aan 100% wanneer er geen landbouwgebruik zinvol is op het betreffende perceel voor enig welke landbouwer. De gebruikswaardedaling vóór actieve inschakeling houdt rekening met alle relevante factoren voor zover ze niet in rekening gebracht werden bij de verbouwde teelt, zoals de drainageklasse, het overstromingsregime en de geldende reglementaire gebruiksbeperkingen zoals de bemestingsnormen. De gebruikswaardedaling na de actieve inschakeling houdt rekening met de wijzigingen van alle relevante factoren die optreden als gevolg van de actieve inschakeling, zoals een minder gunstige drainageklasse, een toename van het overstromingsregime en strengere reglementaire gebruiksbeperkingen zoals de bemestingsnormen;<br />2° het eindgebruik : de gebruikswaardedaling is waarbij het landbouwgebruik niet meer rendabel is. Het eindgebruik wordt bepaald per bedrijf op basis van de verbouwde teelten en hun areaal;<br />3° de gebruiksstopzetting : de gebruikswaardedaling is waarbij er op het perceel geen landbouwgebruik meer mogelijk is. De gebruiksstopzetting wordt bepaald per bedrijf op basis van de verbouwde teelten en van het areaal ervan; <br />4° de genotsderving : een financiële minwaarde per hectare, die overeenkomst met de jaarlijkse terugkerende winstderving bij het niet verbouwen van de verbouwde teelt. In totaliteit bedraagt de genotsderving per hectare viermaal de semibrutowinst van de verbouwde teelt (euro/ha) waarbij de semibrutowinst wordt berekend conform de forfaitaire grondslagen van aanslag uit het Wetboek van de Inkomstenbelasting;<br />5° de kapitaalsderving : een financiële minwaarde per hectare, die overeenkomt met de herbeleggingskost van het geïnvesteerde kapitaal voor de landbouwuitbating voor de verbouwde teelt. In totaliteit bedraagt de kapitaalsderving 20% van het veekapitaal en 30% van het materieel en de bedrijfsontreddering van gebouwen. De kapitaalsderving wordt berekend per verbouwde teelt in verhouding tot de totale bedrijfsoppervlakte. Voor het verlies voor de perceelsoppervlakte die aansluit aan de bedrijfszetel veroorzaakt door de actieve inschakeling van het perceel in de waterbeheersing wordt de kapitaalsderving verhoogd;<br />6° de diverse schadeposten : zijn financiële minwaarden per hectare, die niet zijn opgenomen in de genotsderving en zich voortdoen bij het in onbruik geraken van het landbouwgebruik door het bedrijf, namelijk het verlies van de navette, het verlies van nutriënten emissie rechten en het verlies van grondgebonden productiepremies, zoals de MTR-rechten en de zoogkoeienpremies en<br />7° de verbouwde teelt : het gemiddelde van de teelten die door de gebruiker op het perceel zijn verbouwd gedurende de laatste vier jaar voor de actieve inschakeling in de waterbeheersing. Als de gebruiker het perceel niet in gebruik had gedurende de laatste vier jaar voor de actieve inschakeling, wordt alleen rekening gehouden met de teelten die de gebruiker op het perceel in kwestie verbouwd heeft gedurende de periode waarin de gebruiker het perceel in gebruik had.<br /> <br />§ 3. Boven op de vergoeding, vermeld in paragraaf 1, wordt een vergoeding toegekend voor niet-terugverdienbare investeringen. Niet-terugverdienbare investeringen zijn investeringen op het perceel in kwestie die ten gevolge van het actief inschakelen van de percelen in de waterbeheersing niet terugverdiend kunnen worden. Bij het berekenen van de niet-terugverdienbare investeringen wordt er geen rekening gehouden met de investeringen die werden gedaan na de begindatum van het openbaar onderzoek dat gevoerd werd ten behoeve van de afbakening van het overstromingsgebied.<br /><br />§ 4. De minister bevoegd voor het leefmilieu en het waterbeleid kan de berekeningmethodiek die in dit artikel is opgenomen verder uitwerken.
+...
 
 ### ART. 24.
 
-Als de gebruiker grasland zal inzaaien op het perceel in kwestie, dan wordt de vergoeding, vermeld in artikel 23, eenmalig verhoogd met de forfaitaire kosten voor het inzaaien van grasland. Die forfaitaire kosten bestaan in een forfaitair bedrag per hectare die de op dat ogenblik geldende kosten van het inzaaien van grasland dekt.<br /> <br />De gebruiker heeft alleen recht op een verhoging van de vergoeding met de forfaitaire kosten voor het inzaaien van grasland als aan alle onderstaande voorwaarden is voldaan :<br />1° de gebruiker toont aan dat vanaf de begindatum van het openbaar onderzoek dat gevoerd wordt ten behoeve van de afbakening van het overstromingsgebied in kwestie, alleen andere teelten dan grasland voorkwamen op het perceel; <br />2° op het perceel werd werkelijk grasland ingezaaid;<br />3° de gebruiker toont aan dat het perceel waarop gras werd ingezaaid, voor het jaar in kwestie werd aangegeven als blijvend grasland, met toepassing van verordening (EG) nr. 796/2004 van de Commissie van 21 april 2004 houdende uitvoeringsbepalingen inzake de randvoorwaarden, de modulatie en het geïntegreerd beheers- en controlesysteem waarin is voorzien bij Verordening (EG) nr. 1782/2003 van de Raad tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers.<br /><br />Als niet werd voldaan aan de voorwaarden, vermeld in het tweede lid, dan kan de initiatiefnemer beslissen om de toegekende forfaitaire kost voor het inzaaien van grasland terug te vorderen.
+...
 
-## Onderafdeling III Vergoeding voor bospercelen
+## Onderafdeling III ...
 
 ### ART. 25.
 
-De vergoeding voor bospercelen wordt alleen uitgekeerd als aangetoond wordt dat de actieve inschakeling van het perceel in de waterbeheersing wordt toegepast op een bosperceel met een houtproductiefunctie. De bosbestanden moeten een voldoende stamtal en bestandskwaliteit hebben zodat een voldoende hoge productiefunctie mogelijk is. Met niet-productieve oppervlakten zoals houtkanten, struwelen of verboste ruigten zonder een kwalitatieve opstand, wordt geen rekening gehouden bij de bepaling van de vergoeding.
+...
 
 ### ART. 26.
 
-§ 1. De vergoeding wordt berekend op basis van het verschil in de gebruikswaarde van een perceel voor en na de actieve inschakeling van het perceel in de waterbeheersing.<br /><br />De gebruikswaarde wordt bepaald op basis van de te realiseren opbrengst met de actuele boomsoort of boomsoortensamenstellingen.<br /><br />Bij het bepalen van de gebruikswaarde wordt rekening gehouden met alle relevante factoren, zoals onder meer de bodemgesteldheid, de drainageklasse, de intensiteit van de teelt en de geldende reglementaire gebruiksbeperkingen zoals bemestingsnormen. Daarnaast wordt ook rekening gehouden met onder meer de leeftijd van het bosbestand, de gehanteerde bedrijfsvorm en productiedoelstellingen, het beoogde eindstamtal en de stamkwaliteit.<br /><br />§ 2. De gebruikswaarde van een perceel wordt uitgedrukt in procentpunten productierendement gaande van 0 tot 100. <br /><br />Voor de berekening van het productierendement van een perceel wordt vertrokken van het productierendement dat kan behaald worden bij normale economisch verantwoorde uitbatingsvoorwaarden binnen de bodemstreek in kwestie. <br /><br />Om het verschil in gebruikswaarde, uitgedrukt als daling in productierendement, van een perceel voor en na de actieve inschakeling van dat perceel in de waterbeheersing te kunnen berekenen, worden twee classificatieplannen opgemaakt :<br />- een classificatieplan waarin de gebruikswaarde wordt bepaald voordat het perceel actief is ingeschakeld in de waterbeheersing;<br />- een classificatieplan waarin de gebruikswaarde wordt bepaald nadat het perceel actief is ingeschakeld in de waterbeheersing.<br /><br />Voor de berekening van de gebruikswaarde van het perceel voor de actieve inschakeling, wordt rekening gehouden met het overstromingsregime voordat het perceel actief is ingeschakeld in de waterbeheersing, zoals vermeld in de bekendmaking overeenkomstig artikel 9.<br /><br />Voor de berekening van de gebruikswaarde van het perceel na de actieve inschakeling, wordt rekening gehouden met het verwachte overstromingsregime nadat het perceel actief is ingeschakeld in de waterbeheersing, zoals vermeld in de bekendmaking overeenkomstig artikel 9.<br /><br />Voor een bosperceel waarvoor door het Vlaamse Gewest een subsidie werd verleend ter bevordering van de ecologische bosfunctie wordt geen vergoeding toegekend, tenzij de gebruiker aantoont dat het bosperceel in kwestie een houtproductiefunctie heeft.
+...
 
-## Afdeling IV Uitkering van de vergoeding
+## Afdeling IV ...
 
 ### ART. 27.
 
-De vergoeding wordt in één keer uitgekeerd.
+...
 
 ## [TITEL V Afbakening van overstromingsgebieden (ing. BVR 30 maart 2012, art. 12)]
 
