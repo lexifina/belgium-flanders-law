@@ -164,7 +164,20 @@ De Vlaamse Regering kan nadere regels vaststellen over de inhoud en de uitvoerin
 
 ### ART. 10.
 
-§ 1. Bodemsanering is er bij nieuwe bodemverontreiniging op gericht om de   richtwaarden voor de bodemkwaliteit te realiseren.<BR><BR>§ 2. Als het wegens de   kenmerken van de bodemverontreiniging of van de verontreinigde gronden niet   mogelijk is de richtwaarden voor de bodemkwaliteit te realiseren door gebruik te   maken van de beste beschikbare technieken die geen overmatig hoge kosten met   zich meebrengen, wordt de bodemsanering er minstens op gericht een betere   bodemkwaliteit te verwezenlijken dan bepaald door de toepasselijke   bodemsaneringsnormen.<BR><BR>Ingeval de grond in het kader van een voorlopig   vastgesteld ontwerp van plan van aanleg, ruimtelijk uitvoeringsplan of   projectbesluit een bestemming krijgt waarvoor strengere bodemsaneringsnormen   gelden, worden de strengere bodemsaneringsnormen als saneringsdoel   gehanteerd.<BR><BR>§ 3. Als het wegens de kenmerken van de bodemverontreiniging   of van de verontreinigde gronden niet mogelijk is de bodemkwaliteit, vermeld in   § 1 en § 2, te verwezenlijken door gebruik te maken van de beste beschikbare   technieken die geen overmatig hoge kosten met zich meebrengen, dan geldt het   saneringsdoel, vermeld in artikel 21, § 1.<BR><BR>§ 4. Als het niet mogelijk is   de bodemkwaliteit, vermeld in § 1 tot en met § 3, te verwezenlijken door gebruik   te maken van de beste beschikbare technieken die geen overmatig hoge kosten met   zich meebrengen, worden zo nodig gebruiks- of bestemmingsbeperkingen   opgelegd.<BR><BR>§ 5. Als de bodemverontreiniging omwille van haar bijzondere   aard niet aan richtwaarden voor de bodemkwaliteit kan worden getoetst, wordt het   saneringsdoel, vermeld in artikel 21, § 1, gehanteerd. De bepalingen van § 4   zijn van overeenkomstige toepassing.<BR><BR>§ 6. De selectie van de beste   beschikbare technieken die geen overmatig hoge kosten met zich meebrengen,   gebeurt onafhankelijk van de financiële draagkracht van de saneringsplichtige.   De Vlaamse Regering kan bepalen met welke elementen in concreto rekening moet   worden gehouden bij de evaluatie van de beste beschikbare technieken die geen   overmatige kosten met zich meebrengen.<BR><BR>
+§ 1. Bodemsanering is er bij nieuwe bodemverontreiniging op gericht om de richtwaarden voor de bodemkwaliteit te realiseren.<br>
+<br>
+§ 2. Als het wegens de kenmerken van de bodemverontreiniging of van de verontreinigde gronden niet mogelijk is de richtwaarden voor de bodemkwaliteit te realiseren door gebruik te maken van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, wordt de bodemsanering er minstens op gericht een betere bodemkwaliteit te verwezenlijken dan bepaald door de toepasselijke bodemsaneringsnormen.<br>
+<br>
+Ingeval de grond in het kader van een voorlopig vastgesteld ontwerp van plan van aanleg, ruimtelijk uitvoeringsplan of projectbesluit een bestemming krijgt waarvoor strengere bodemsaneringsnormen gelden, worden de strengere bodemsaneringsnormen als saneringsdoel gehanteerd.<br>
+<br>
+§ 3. Als het wegens de kenmerken van de bodemverontreiniging of van de verontreinigde gronden niet mogelijk is de bodemkwaliteit, vermeld in § 1 en § 2, te verwezenlijken door gebruik te maken van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, dan geldt het saneringsdoel, vermeld in artikel 21, § 1.<br>
+<br>
+§ 4. Als het niet mogelijk is de bodemkwaliteit, vermeld in § 1 tot en met § 3, te verwezenlijken door gebruik te maken van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, worden zo nodig gebruiksbeperkingen opgelegd.<br>
+<br>
+§ 5. Als de bodemverontreiniging omwille van haar bijzondere aard niet aan richtwaarden voor de bodemkwaliteit kan worden getoetst, wordt het saneringsdoel, vermeld in artikel 21, § 1, gehanteerd. De bepalingen van § 4 zijn van overeenkomstige toepassing.<br>
+<br>
+§ 6. De selectie van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, gebeurt onafhankelijk van de financiële draagkracht van de saneringsplichtige. De Vlaamse Regering kan bepalen met welke elementen in concreto rekening moet worden gehouden bij de evaluatie van de beste beschikbare technieken die geen overmatige kosten met zich meebrengen.<br>
+&nbsp;
 
 ## Onderafdeling III Saneringsplichtige
 
@@ -236,7 +249,14 @@ De bepalingen van dit decreet doen geen afbreuk aan de andere rechten, die de pe
 
 ### ART. 21.
 
-§ 1. Bodemsanering is er bij historische bodemverontreiniging op gericht   om te vermijden dat de bodemkwaliteit een risico oplevert of kan opleveren tot   nadelige beïnvloeding van mens of milieu door gebruik te maken van de beste   beschikbare technieken die geen overmatig hoge kosten met zich   meebrengen.<BR><BR>Ingeval de grond in het kader van een voorlopig vastgesteld   ontwerp van plan van aanleg, ruimtelijk uitvoeringsplan of projectbesluit een   andere bestemming krijgt, wordt de bodemsanering er op gericht te vermijden dat   de bodemkwaliteit een risico oplevert of kan opleveren tot nadelige beïnvloeding   van mens of milieu binnen deze toekomstige bestemming.<BR><BR>§ 2. Als het niet   mogelijk is de bodemkwaliteit, vermeld in § 1, te verwezenlijken door gebruik te   maken van de beste beschikbare technieken die geen overmatig hoge kosten met   zich meebrengen, worden zo nodig gebruiks- of bestemmingsbeperkingen   opgelegd.<BR><BR>§ 3. De bepalingen van artikel 10, § 6, zijn van   overeenkomstige toepassing.<BR><BR>
+§ 1. Bodemsanering is er bij historische bodemverontreiniging op gericht om te vermijden dat de bodemkwaliteit een risico oplevert of kan opleveren tot nadelige beïnvloeding van mens of milieu door gebruik te maken van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen.<br>
+<br>
+Ingeval de grond in het kader van een voorlopig vastgesteld ontwerp van plan van aanleg, ruimtelijk uitvoeringsplan of projectbesluit een andere bestemming krijgt, wordt de bodemsanering er op gericht te vermijden dat de bodemkwaliteit een risico oplevert of kan opleveren tot nadelige beïnvloeding van mens of milieu binnen deze toekomstige bestemming.<br>
+<br>
+§ 2. Als het niet mogelijk is de bodemkwaliteit, vermeld in § 1, te verwezenlijken door gebruik te maken van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, worden zo nodig gebruiksbeperkingen opgelegd.<br>
+<br>
+§ 3. De bepalingen van artikel 10, § 6, zijn van overeenkomstige toepassing.<br>
+&nbsp;
 
 ## Onderafdeling III Saneringsplichtige
 
@@ -743,7 +763,7 @@ Binnen een termijn van zestig dagen na ontvangst van het voorstel spreekt de OVA
 
 ### ART. 73.
 
-§ 1. Als de Vlaamse Regering van oordeel is dat bodemverontreiniging het gebruik van verontreinigde gronden overeenkomstig hun bestemming verhindert, kan ze op advies van de OVAM bestemmingsbeperkingen opleggen, nadat de eigenaar en gebruiker van de verontreinigde gronden of desgevallend de gemandateerde gehoord zijn.<br /><br />§ 2. Elke belanghebbende kan onder leiding van een bodemsaneringsdeskundige op gemotiveerde wijze bestemmingsbeperkingen voorstellen aan de Vlaamse Regering.<br /><br />
+...
 
 ## Afdeling VI Behandeling van bodemverontreiniging bij schadegevallen
 
