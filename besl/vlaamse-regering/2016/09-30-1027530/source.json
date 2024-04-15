@@ -2,16 +2,16 @@
   "codex_id": 1027530,
   "title": "Besluit van de Vlaamse Regering van 2016-09-30 houdende nadere uitwerking van de regelgeving inzake kapitaalschadecompensatie en gebruikerscompensatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027530/VolledigDocument?datum=2016-12-31",
-  "source_sha256": "714cf39e58f245c067539ba446cbc0386c265819e9873d51fdaf2e0319c23fec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027530/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "d542559ef1b86b1051dd79e735decd7e7f01c268e9fe9927657ebf882e0fd820",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027530&param=informatie",
-  "as_of": "2016-12-31",
+  "as_of": "2024-04-15",
   "made": "2016-09-30",
   "gazette": "2016-10-31",
   "numac": 2016036496,
   "document_start": "2016-12-31",
   "document_end": "2024-04-14",
-  "in_force": "2016-12-31",
+  "in_force": "2024-04-15",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }
