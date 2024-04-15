@@ -10,7 +10,15 @@ De kennisgeving van de werken aan de betrokken eigenaars, zoals bedoeld in artik
 
 ### ART. 3.
 
-De aangetekende brief, waarmee van de werken kennis wordt gegeven, zoals bedoeld in artikel 2, eerste lid, omvat:<br />1° een beknopte omschrijving van de aard van de werken en een situeringsplan;<br />2° inlichtingen met betrekking tot het geplande tijdstip van de start van de werken en de duur van de werken;<br />3° kopie van het decreet met bijzondere aandacht voor artikel 5, eerste en tweede lid, en voor de artikelen 6 tot en met 10;<br />4° kadastrale gegevens van de percelen waarop de in artikel 4 van het decreet bedoelde werken uitgevoerd zullen worden;<br />5° naam, adres en telefoonnummer van de persoon bij de gewestelijke waterbeheerders die aan de betrokkenen nadere inlichtingen kan verstrekken;<br />6° het adres waar de werkplannen ter inzage liggen.
+De aangetekende brief, waarmee van de werken kennis wordt gegeven, zoals bedoeld in artikel 2, eerste lid, omvat:<br>
+1° een beknopte omschrijving van de aard van de werken en een situeringsplan;<br>
+2° inlichtingen met betrekking tot het geplande tijdstip van de start van de werken en de duur van de werken;<br>
+3° kopie van het decreet met bijzondere aandacht voor artikel 5, eerste en tweede lid, en voor de artikelen 6 tot en met 10;<br>
+4° kadastrale gegevens van de percelen waarop de in artikel 4 van het decreet bedoelde werken uitgevoerd zullen worden;<br>
+5° naam, adres en telefoonnummer van de persoon bij de gewestelijke waterbeheerders die aan de betrokkenen nadere inlichtingen kan verstrekken;<br>
+6° het adres waar de werkplannen ter inzage liggen;<br>
+7° de vermelding van de uiterste datum waarop en de instantie waarbij een compenserende vergoeding gevraagd kan worden conform titel 2 van het Instrumentendecreet van 26 mei 2023;<br>
+8° de vermelding van de uiterste datum waarop en de instantie waarbij een koopplicht gevraagd kan worden conform titel 3 van het Instrumentendecreet van 26 mei 2023.
 
 ### ART. 4.
 
