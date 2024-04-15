@@ -2,16 +2,16 @@
   "codex_id": 1004635,
   "title": "Decreet van 1996-04-16 betreffende de waterkeringen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004635/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "2c42908248092243e156448e5cdce2a025ab837e8c50aaab6a34f9dff4525217",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004635/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "2d3a3050d85eccd781f70c8945cdaefb3f74283b47e8de63f2fdf3c82ee8691d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004635&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2024-04-15",
   "made": "1996-04-16",
   "gazette": "1996-06-01",
   "numac": 1996035588,
   "document_start": "1996-06-11",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2024-04-15",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }

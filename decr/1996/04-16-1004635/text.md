@@ -30,7 +30,7 @@ Het indienen van de aanvraag schorst de uitvoering van de werken niet.<br>
 <br>
 Wanneer de aankoop niet in der minne geregeld kan worden, is de procedure van artikel 7 van toepassing.<br>
 <br>
-De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op deze koopplicht.
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.
 
 ### ART. 7.
 
@@ -40,11 +40,17 @@ De onteigeningen worden uitgevoerd conform de bepalingen van het Vlaams Onteigen
 
 ### ART. 8.
 
-De gewestelijke waterbeheerders moeten een vergoeding betalen wanneer door de uitvoering van de in artikel 4 bedoelde werken het onroerend goed in waarde daalt. Deze waardevermindering wordt vastgesteld op grond van de bestemming en het geoorloofd gebruik van het onroerend goed in kwestie op het ogenblik dat tot de uitvoering van de werken beslist wordt. Tot twintig ten honderd van de waarde van het goed vóór de uitvoering van de werken moet de vermindering evenwel gedoogd worden.
+De gewestelijke waterbeheerders betalen een vergoeding als het onroerend goed in waarde daalt door de uitvoering van de werken, vermeld in artikel 4.<br>
+<br>
+De bepalingen van titel 2, hoofdstuk 1 tot en met 4, en hoofdstuk 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die vergoeding.
 
 ### ART. 9.
 
-Op vraag van de eigenaar van een gebouwd privaat erf dat een waardevermindering ondergaat, zijn de gewestelijke waterbeheerders verplicht het erf geheel of gedeeltelijk aan te kopen of te onteigenen.<br /><br />Wanneer de aankoop niet in der minne geregeld kan worden, is de procedure van artikel 7 van toepassing.
+Op vraag van de eigenaar van een gebouwd privaat erf dat een waardevermindering ondergaat, zijn de gewestelijke waterbeheerders verplicht het erf geheel of gedeeltelijk aan te kopen of te onteigenen.<br>
+<br>
+Wanneer de aankoop niet in der minne geregeld kan worden, is de procedure van artikel 7 van toepassing.<br>
+<br>
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.
 
 ### ART. 10.
 
