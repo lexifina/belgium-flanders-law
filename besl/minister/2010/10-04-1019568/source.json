@@ -2,16 +2,16 @@
   "codex_id": 1019568,
   "title": "Ministerieel besluit van 2010-10-04 houdende de vaststelling van de kosten van het alternatief en de gebruikswaardendaling na de instelling van de maatregel, vermeld in artikel 2, § 4, van het besluit van de Vlaamse Regering van 24 juli 2009 tot uitvoering van het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019568/VolledigDocument?datum=2010-10-23",
-  "source_sha256": "db7d033977da6a1980dbacc05659e68abcc80fef0d2497caba3600aa4169ab34",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019568/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "246d8d8e3c332d5908fe45c547358df17b950ac1d42812dec10c2c74902491db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019568&param=informatie",
-  "as_of": "2010-10-23",
+  "as_of": "2024-04-15",
   "made": "2010-10-04",
   "gazette": "2010-10-13",
   "numac": 2010035754,
   "document_start": "2010-10-23",
   "document_end": "2024-04-14",
-  "in_force": "2010-10-23",
+  "in_force": "2024-04-15",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2010-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }
