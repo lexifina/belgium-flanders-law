@@ -2,16 +2,16 @@
   "codex_id": 1024687,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 betreffende de landinrichting",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024687/VolledigDocument?datum=2023-09-22",
-  "source_sha256": "409897ada062510449db038391c09a207094c0035b989958c97f833988763f7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024687/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "54c175edb56cd52997682e51f892c22efcc6e5d26c62fc4da6d13d41a143ffc0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024687&param=informatie",
-  "as_of": "2023-09-22",
+  "as_of": "2024-04-15",
   "made": "2014-06-06",
   "gazette": "2014-10-22",
   "numac": 2014036419,
   "document_start": "2014-11-01",
   "document_end": null,
-  "in_force": "2023-09-22",
+  "in_force": "2024-04-15",
   "article_versions": 157,
-  "record_form": "consolidated version as in force on 2023-09-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }
