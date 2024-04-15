@@ -73,7 +73,19 @@ De Vlaamse Regering kan nadere regels vaststellen voor de   inrichtingswerken di
 
 ### ART. 2.1.4.
 
-<P>§   1. Om het doel van een landinrichtingsproject of een project, plan of programma   te realiseren, kent de landcommissie in de volgende gevallen een vergoeding voor   waardeverlies van gronden toe:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   als de uitvoering van een inrichtingswerk uit kracht van wet als vermeld in   artikel 2.1.1, tweede lid, een daling veroorzaakt van de venale waarde of de   gebruikswaarde van de onroerende goederen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   als de vestiging van een erfdienstbaarheid tot openbaar nut als vermeld in   artikel 2.1.3 een daling veroorzaakt van de venale waarde of de gebruikswaarde   van de onroerende goederen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De vergoeding voor waardeverlies van gronden is verschuldigd aan de eigenaar,   vruchtgebruiker of gebruiker van de betrokken grond. De vergoeding voor   waardeverlies van gronden die toekomt aan de eigenaar of vruchtgebruiker wordt   bepaald op basis van de daling van de venale waarde van het onroerend goed. De   vergoeding voor waardeverlies van gronden die toekomt aan de gebruiker wordt   bepaald op basis van de reële daling van de gebruikswaarde van het onroerend   goed.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. In het landinrichtingsplan of de inrichtingsnota wordt bepaald welke   instantie of persoon de vergoeding voor waardeverlies van gronden verschuldigd   is.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de landcommissie een vergoeding vaststelt voor een waterpeilaanpassing, vraagt   de landcommissie het advies van de betrokken waterbeheerder van de geklasseerde   waterloop. Als de landcommissie binnen een maand na de verzending van het   verzoek om advies geen antwoord heeft ontvangen van de betrokken waterbeheerder,   mag aan de adviesvereiste worden voorbijgegaan.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de vergoeding voor waardeverlies van gronden bepaalde milieu- of   natuurdoelstellingen beoogt, kan alleen vergoed worden als een hogere kwaliteit   voor milieu en natuur wordt bereikt dan de basiskwaliteit voor milieu en   natuur.</P>
+<p>§ 1. Om het doel van een landinrichtingsproject of een project, plan of programma te realiseren, kent de landcommissie in de volgende gevallen een vergoeding voor waardeverlies van gronden toe:<br>
+1° als de uitvoering van een inrichtingswerk uit kracht van wet als vermeld in artikel 2.1.1, tweede lid, een daling veroorzaakt van de venale waarde of de gebruikswaarde van de onroerende goederen;<br>
+2° als de vestiging van een erfdienstbaarheid tot openbaar nut als vermeld in artikel 2.1.3 een daling veroorzaakt van de venale waarde of de gebruikswaarde van de onroerende goederen.<br>
+<br>
+De vergoeding, vermeld in het eerste lid, wordt geregeld in titel 2 van het Instrumentendecreet van 26 mei 2023.</p>
+
+<p>§ 2. ...</p>
+
+<p>§ 3. In het landinrichtingsplan of de inrichtingsnota wordt bepaald welke instantie of persoon de vergoeding voor waardeverlies van gronden verschuldigd is.</p>
+
+<p>Als de landcommissie een vergoeding vaststelt voor een waterpeilaanpassing, vraagt de landcommissie het advies van de betrokken waterbeheerder van de geklasseerde waterloop. Als de landcommissie binnen een maand na de verzending van het verzoek om advies geen antwoord heeft ontvangen van de betrokken waterbeheerder, mag aan de adviesvereiste worden voorbijgegaan.</p>
+
+<p>Als de vergoeding voor waardeverlies van gronden bepaalde milieu- of natuurdoelstellingen beoogt, kan alleen vergoed worden als een hogere kwaliteit voor milieu en natuur wordt bereikt dan de basiskwaliteit voor milieu en natuur.</p>
 
 ### ART. 2.1.5.
 
@@ -489,15 +501,17 @@ Een vrijwillige bedrijfsstopzetting betreft de vrijwillige en   vervroegde volle
 
 ### ART. 2.1.75.
 
-<P>De   eigenaar van een onroerend goed kan de verwerving ervan eisen als hij aantoont   dat, ten gevolge van de uitvoering van het landinrichtingsplan of het project,   plan of programma, de waardevermindering van zijn onroerend goed ernstig is of   de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang   komt.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   tot aankoop verplichte entiteit is de instantie, vermeld in artikel 3.3.7 of   3.3.8, die belast is met de uitvoering van het landinrichtingsplan of gedeelten   ervan of die belast is met de uitvoering van de inrichtingsnota.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bij   het bepalen van de aankoopprijs wordt geen rekening gehouden met de   waardevermindering die voortvloeit uit het landinrichtingsplan of het project,   plan of programma.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag dat de eigenaar van de tot aankoop verplichte entiteit ontvangt met   toepassing van dit artikel, wordt in voorkomend geval verminderd met het bedrag   dat de eigenaar heeft ontvangen ten gevolge van planschade voor hetzelfde   onroerend goed. Als de eigenaar toepassing maakt van de koopplicht kan hij geen   aanspraak meer maken op planschade, patrimoniumverlies, schadevergoeding of   andere koopplicht van het Vlaamse Gewest voor hetzelfde onroerend   goed.</P>
+<p>De eigenaar van een onroerend goed kan de verwerving ervan eisen als hij aantoont dat, ten gevolge van de uitvoering van het landinrichtingsplan of het project, plan of programma, de waardevermindering van zijn onroerend goed ernstig is of de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.</p>
+
+<p>De tot aankoop verplichte entiteit is de instantie, vermeld in artikel 3.3.7 of 3.3.8, die belast is met de uitvoering van het landinrichtingsplan of gedeelten ervan of die belast is met de uitvoering van de inrichtingsnota.</p>
 
 ### ART. 2.1.76.
 
-De bepalingen van titel IV, hoofdstuk I, II en VII, van het   decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en   houdende wijziging van diverse bepalingen zijn van toepassing op de koopplicht,   vermeld in artikel 2.1.75.
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op de koopplicht, vermeld in artikel 2.1.75.
 
 ### ART. 2.1.77.
 
-De Vlaamse Regering bepaalt de nadere voorwaarden en de   procedure voor de koopplicht, vermeld in artikel 2.1.75. Ze bepaalt ook de wijze   van berekening van het bedrag van de aankoopprijs waarop de eigenaar recht   heeft.
+De Vlaamse Regering bepaalt de nadere voorwaarden voor de koopplicht, vermeld in artikel 2.1.75.
 
 ## Hoofdstuk 5. Diverse bepalingen
 
@@ -522,6 +536,15 @@ De   vergoedingen, vermeld in deel 2, zijn onderling niet cumuleerbaar, tenzij h
 4° de vrijwillige bedrijfsverplaatsing, bedrijfsstopzetting, bedrijfsreconversie.</p>
 
 <p>Binnen de grenzen van hun bevoegdheid vervullen de landcommissies hun taken volledig onafhankelijk en kunnen ze van geen enkele instantie instructies of bevelen ontvangen.<br>
+<br>
+De landcommissies vervullen de opdrachten die de Vlaamse Codex Ruimtelijke Ordening en het Instrumentendecreet van 26 mei 2023 en de uitvoeringsbesluiten ervan aan die landcommissies hebben opgedragen in het kader van de planbatenheffing, vermeld in artikel 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening, de compenserende vergoedingen, vermeld in artikel 6 van het Instrumentendecreet van 26 mei 2023, en de billijke schadevergoedingen, vermeld in artikel 30 van het Instrumentendecreet van 26 mei 2023. Dat houdt met name in dat ze belast worden met:<br>
+1° het opmaken van een schaderamingsrapport als vermeld in artikel 7 van het Instrumentendecreet van 26 mei 2023;<br>
+2° het opmaken van een schaderapport als vermeld in artikel 7 van het Instrumentendecreet van 26 mei 2023;<br>
+3° in voorkomend geval, het nemen van beslissingen over de compenserende vergoedingen;<br>
+4° de berekening van de eigenaarsvergoeding, vermeld in artikel 14 van het Instrumentendecreet van 26 mei 2023;<br>
+5° de berekening van de gebruikersvergoeding, vermeld in artikel 17 van het Instrumentendecreet van 26 mei 2023;<br>
+6° het opmaken van een meerwaarderapport als vermeld in artikel 2.6.10, § 2, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+7° het opmaken van een meerwaarderamingsrapport als vermeld in artikel 2.6.10, § 2/1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
 De landcommissies vervullen de opdrachten die het decreet van 26 januari 2024 over de programmatische aanpak stikstof aan die commissies heeft opgedragen in het kader van het flankerend beleid bij de programmatische aanpak stikstof.</p>
 
