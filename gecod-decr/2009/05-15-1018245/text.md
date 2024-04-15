@@ -27,6 +27,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 8° /1 kwaliteitsbeoordeling : de kwaliteitsbeoordeling van de effectrapportages door de diensten, bevoegd voor milieueffectrapportage en veiligheidsrapportage, waarin wordt beoordeeld of de effectrapportages voldoen aan de essentiële kenmerken, vermeld in artikel 4.1.4, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, door :<br>
 a) vast te stellen dat geen milieueffectrapport of ruimtelijk veiligheidsrapport vereist is;<br>
 b) de inhoudsafbakening van het milieueffectrapport of ruimtelijk veiligheidsrapport te bepalen en het milieueffectrapport of ruimtelijk veiligheidsrapport daaraan te toetsen;<br>
+8° /2 landcommissie: een landcommissie als vermeld in artikel 2.2.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 9° plan van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan van aanleg;<br>
 9° /1 projectbesluit : een besluit als vermeld in artikel 2, 10°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
 9° /2 rooilijn: de scheiding tussen de openbare weg en de aangelande eigendommen, vermeld in het decreet van 8 mei 2009 houdende vaststelling en realisatie van de gewestelijke rooilijnen en het decreet van 3 mei 2019 houdende de gemeentewegen;<br>
@@ -590,6 +591,7 @@ d) andere verplicht voorgeschreven of gemaakte effectenrapporten;<br>
 in voorkomend geval de monitoringsmaatregelen in het kader van de uitgevoerde effectbeoordelingen;<br>
 9° in voorkomend geval, een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd die aanleiding kan geven tot een planschadevergoeding als vermeld in artikel 2.6.1 van deze codex, een planbatenheffing als vermeld in artikel 2.6.4 van deze codex, of een compensatie als vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
 10° in voorkomend geval, een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd of een overdruk wordt toegevoegd die aanleiding kan geven tot gebruikerscompensatie als vermeld in het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen;<br>
+10° /1 in voorkomend geval, het schaderamingsrapport, vermeld in artikel 7, § 2, van het Instrumentendecreet van 26 mei 2023, en het meerwaarderamingsrapport, vermeld in artikel 2.6.10, § 2/1;<br>
 11° voor de gewestelijke ruimtelijke uitvoeringsplannen, in voorkomend geval, een overzicht van de geheel of gedeeltelijk gewijzigde of opgeheven erkennings-, rangschikkings- en beschermingsbesluiten inzake onroerend erfgoed, samen met de gegevens, vermeld in artikel 6.2.5 van het Onroerenderfgoeddecreet van 12 juli 2013, met uitzondering van de aanduiding van de plaats van de aanplakking van het bericht over het openbaar onderzoek op het gegeorefereerde plan;<br>
 12° in voorkomend geval, het grondruilplan, vermeld in artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 13° in voorkomend geval, de inrichtingsnota, vermeld in artikel 4.2.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
@@ -1032,6 +1034,8 @@ De stedenbouwkundige verordeningen kunnen :<br>
 2° het wijzigen van het aantal woongelegenheden in een gebouw regelen;<br>
 3° normen bevatten betreffende de oppervlakte van functies en de afmetingen van gebouwen, constructies of publiciteitsinrichtingen.<br>
 <br>
+Stedenbouwkundige verordeningen kunnen aan de aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden technische en financiële lasten opleggen. Alle lasten die in artikel 75, § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning vermeld worden, kunnen door middel van een gemeentelijke, provinciale of gewestelijke stedenbouwkundige verordening op algemene wijze opgelegd worden.<br>
+<br>
 De stedenbouwkundige verordeningen&nbsp;moeten in overeenstemming zijn met de bestaande regelgeving voor de materie in kwestie.<br>
 <br>
 Het ontwerp van stedenbouwkundige verordening wordt voor advies voorgelegd aan de strategische adviesraad. Wanneer er geen advies is verleend binnen een termijn van dertig dagen, mag aan de adviesvereiste worden voorbijgegaan.<br>
@@ -1079,8 +1083,6 @@ Als de provincieraad binnen de voormelde termijn van negentig dagen geen nieuw b
 Als het besluit van de provincieraad tot definitieve vaststelling van de provinciale stedenbouwkundige verordening niet tijdig is geschorst of vernietigd, wordt de provincieraadsbeslissing houdende definitieve vaststelling van de provinciale stedenbouwkundige verordening bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
 <br>
 § 2. De gemeenteraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1, in artikel 4.2.5 en in artikel 4.4.1, § 3, tweede lid, voor het gehele grondgebied van de gemeente of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering en de provincieraad vastgestelde stedenbouwkundige verordeningen.<br>
-<br>
-Gemeentelijke stedenbouwkundige verordeningen kunnen de aanvrager van een omgevingsvergunning technische en financiële lasten opleggen. Alle lasten die in artikel 75 tot en met 77 van het decreet van 25 april 2014 betreffende de omgevingsvergunning vermeld worden, kunnen door middel van een gemeentelijke stedenbouwkundige verordening op algemene wijze opgelegd worden.<br>
 <br>
 Indien de Vlaamse Regering een gewestelijke stedenbouwkundige verordening vaststelt, brengt de gemeenteraad uit eigen beweging of binnen de termijn die door de Vlaamse Regering wordt opgelegd, de bestaande gemeentelijke stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordening(en). Een gewestelijke stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels gemeentelijke stedenbouwkundige verordeningen, tenzij de gewestelijke stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de gewestelijke stedenbouwkundige verordening tevens bepalen dat bestaande gemeentelijke stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br>
 <br>
@@ -1206,16 +1208,11 @@ De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen a
 
 ### ART. 2.4.10.
 
-§ 1. De eigenaar van een onroerend goed kan van het Vlaamse Gewest de verwerving daarvan eisen indien hij aantoont dat, ten gevolge van de vaststelling van één of meer al dan niet opeenvolgende ruimtelijke uitvoeringsplannen, de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.<br>
+§ 1. De eigenaar van een onroerend goed kan van het Vlaamse Gewest, de provincie of de gemeente de verwerving daarvan eisen als hij aantoont dat ten gevolge van de vaststelling van een of meer al dan niet opeenvolgende ruimtelijke uitvoeringsplannen de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.<br>
 <br>
-De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op deze aankoopplicht.<br>
+De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure van de aankoopplicht. De Vlaamse Regering bepaalt de wijze van berekening van het bedrag van de aankoopprijs waarop de eigenaar recht heeft.<br>
-<br>
-§ 3. Het bedrag dat de eigenaar van het Vlaamse Gewest ontvangt met toepassing van dit artikel, wordt in voorkomend geval verminderd met het bedrag dat de eigenaar reeds heeft ontvangen ten gevolge van planschade voor hetzelfde onroerend goed. Hetzelfde geldt wat betreft de bedragen die reeds werden ontvangen ten gevolge van kapitaalschade in de zin van boek 6 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br>
-<br>
-Wanneer een eigenaar toepassing maakt van deze aankoopplicht, kan hij jegens het Vlaamse Gewest en met betrekking tot hetzelfde onroerend goed geen aanspraak meer maken op schadeloosstellingen ingevolge planschade of patrimoniumverlies of op de toepassing van enige andere aankoopplicht.<br>
-&nbsp;
+§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure van de koopplicht, vermeld in paragraaf 1.
 
 ## HOOFDSTUK V [... ingetr. decr. 4 april 2014, art. 31)]
 
@@ -1233,41 +1230,41 @@ Wanneer een eigenaar toepassing maakt van deze aankoopplicht, kan hij jegens het
 
 ### ART. 2.6.1.
 
-§ 1. De ruimtelijke uitvoeringsplannen kunnen erfdienstbaarheden van openbaar nut doen ontstaan en eigendomsbeperkingen inhouden, met inbegrip van bouwverbod.<br>
+§ 1. De ruimtelijke uitvoeringsplannen kunnen erfdienstbaarheden van openbaar nut doen ontstaan en eigendomsbeperkingen inhouden, met inbegrip van een bouwverbod.<br>
 <br>
-In de gevallen, vermeld in § 2 en § 3, kan een bouw- of verkavelingsverbod aanleiding geven tot een beperkte schadevergoeding, planschadevergoeding genaamd.<br>
+In de gevallen, vermeld in paragraaf 2 en 3, kan een bouw- of verkavelingsverbod dat volgt uit de definitieve vaststelling van een nieuw ruimtelijk uitvoeringsplan, aanleiding geven tot een planschadevergoeding.<br>
 <br>
-§ 2. Planschadevergoeding wordt toegekend wanneer, op basis van een in werking getreden ruimtelijk uitvoeringsplan, een perceel niet meer in aanmerking komt voor een vergunning om te bouwen, vermeld in artikel 4.2.1, 1°, of voor het verkavelen van gronden, terwijl het de dag voorafgaand aan de inwerkingtreding van dat definitieve plan wel in aanmerking kwam voor een vergunning om te bouwen of voor het verkavelen van gronden, of voor een gemeenteraadsbesluit tot gehele of gedeeltelijke vrijgave van een woonreservegebied als vermeld in artikel 5.6.11.<br>
+§ 2. Planschadevergoeding wordt toegekend als een perceel volgens de voor dat perceel toepasselijke stedenbouwkundige voorschriften van het nieuwe ruimtelijk uitvoeringsplan niet meer in aanmerking komt voor een vergunning om te bouwen als vermeld in artikel 4.2.1, 1°, of om te verkavelen, terwijl het volgens de op het perceel toepasselijke stedenbouwkundige voorschriften van de plannen van aanleg of ruimtelijke uitvoeringsplannen die golden op de dag die aan de inwerkingtreding van dat definitieve plan voorafging, wel in aanmerking kwam voor een vergunning om te bouwen of te verkavelen, of voor een gemeenteraadsbesluit tot volledige of gedeeltelijke vrijgave van een woonreservegebied als vermeld in artikel 5.6.11.<br>
 <br>
-§ 3. Voor de toepassing van planschadevergoeding moet bovendien aan volgende criteria samen worden voldaan op de dag voorafgaand aan de inwerkingtreding van het definitieve plan :<br>
-1° het perceel moet gelegen zijn aan een voldoende uitgeruste weg overeenkomstig artikel 4.3.5, § 1;<br>
-2° het perceel moet stedenbouwkundig en bouwtechnisch voor bebouwing in aanmerking komen;<br>
-3° het perceel moet gelegen zijn binnen een bebouwbare zone zoals bepaald in een plan van aanleg of ruimtelijk uitvoeringsplan;<br>
-4° in gebieden die ressorteren onder de gebiedsbestemming `woongebied', vermeld in artikel 5 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen, of die ressorteren onder de categorie van gebiedsaanduiding `wonen', vermeld in artikel 2.2.6, § 2, tweede lid, 1°, komt enkel de eerste 50 meter vanaf de rooilijn in aanmerking voor planschade.<br>
-<br>
-Het criterium, vermeld in het eerste lid, 1°, geldt evenwel niet voor de percelen waarop de bedrijfsgebouwen en de exploitantenwoning van een bestaand land- of tuinbouwbedrijf gelegen zijn.<br>
-<br>
-§ 4. Er is geen planschadevergoeding verschuldigd in de volgende gevallen :<br>
-1° bij verbod te bouwen of te verkavelen als gevolg van een vastgestelde en, in voorkomend geval, goedgekeurde onteigeningsbeslissing;<br>
-2° bij verbod een grotere oppervlakte van een perceel te bebouwen dan het ruimtelijk uitvoeringsplan toelaat, of bij een verkaveling de door het plan bepaalde bebouwingsdichtheid te overschrijden;<br>
-3° bij verbod de exploitatie van gevaarlijke, ongezonde en hinderlijke bedrijven voort te zetten na het verstrijken van de tijd waarvoor de omgevingsvergunning was verleend;<br>
-4° bij verbod te bouwen op een stuk grond dat de minimumafmetingen, vastgesteld in een ruimtelijk uitvoeringsplan, niet heeft;<br>
-5° bij verbod te bouwen of te verkavelen buiten de bebouwde kernen wegens de dwingende eisen van de verkeersveiligheid;<br>
-6° bij verbod een stuk grond te verkavelen waarvoor een vroeger verleende omgevingsvergunning voor het verkavelen van gronden vervallen was op de datum van de inwerkingtreding van het ruimtelijk uitvoeringsplan of plan van aanleg dat vermeld verbod inhoudt;<br>
-7° voor de gebouwen of vaststaande inrichtingen, vernield door een natuurramp, als het verbod van hun wederopbouw voortvloeit uit artikel 12, § 3, eerste lid van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen;<br>
-8° bij weigering van een aanvraag om de functie van een gebouw te wijzigen;<br>
-9° wanneer de overeenkomstig artikel 2.6.2, § 1, berekende waardevermindering die voor schadeloosstelling in aanmerking komt, niet meer bedraagt dan twintig ten honderd van de waarde van het goed op het ogenblik van de verwerving, geactualiseerd tot op de dag van het ontstaan van het recht op vergoeding en verhoogd met de lasten en kosten;<br>
-10° wanneer de schade in aanmerking komt voor een compensatie, vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-11° als het perceel is opgenomen in een grondruilplan als vermeld in artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting.<br>
-&nbsp;
+§ 3. Er is geen planschadevergoeding verschuldigd in de volgende gevallen:<br>
+1° bij een verbod om te bouwen of te verkavelen als gevolg van een vastgestelde en, in voorkomend geval, goedgekeurde onteigeningsbeslissing;<br>
+2° bij een verbod om een grotere oppervlakte van een perceel te bebouwen dan het ruimtelijk uitvoeringsplan toestaat, of om bij een verkaveling de door het plan bepaalde bebouwingsdichtheid te overschrijden;<br>
+3° bij een verbod om de exploitatie van gevaarlijke, ongezonde en hinderlijke bedrijven voort te zetten na het verstrijken van de termijn waarvoor de milieuvergunning of de omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit was verleend;<br>
+4° bij een verbod om te bouwen op een stuk grond dat de minimumafmetingen niet heeft die in een ruimtelijk uitvoeringsplan vastgesteld zijn;<br>
+5° bij een verbod om te bouwen of te verkavelen buiten de bebouwde kernen wegens de dwingende eisen van de verkeersveiligheid;<br>
+6° bij een verbod om een stuk grond te verkavelen waarvoor een vroeger verleende verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden vervallen was op de datum van de inwerkingtreding van het ruimtelijk uitvoeringsplan of plan van aanleg dat het vermelde verbod inhoudt;<br>
+7° bij een weigering van een aanvraag om de functie van een gebouw te wijzigen;<br>
+8° als de waardevermindering die voor schadeloosstelling in aanmerking komt en berekend is conform artikel 2.6.2, § 1, niet meer bedraagt dan 20% van de waarde van het goed op het ogenblik van de verwerving, geactualiseerd tot op de dag van het ontstaan van het recht op vergoeding en verhoogd met de lasten en kosten.
 
 ### ART. 2.6.2.
 
-§ 1. De waardevermindering die voor de planschadevergoeding in aanmerking   komt, dient te worden geraamd als het verschil tussen de waarde van dat goed op   het ogenblik van de verwerving, geactualiseerd tot op de dag van het ontstaan   van het recht op schadevergoeding, verhoogd met de lasten en kosten, vóór de   inwerkingtreding van het ruimtelijk uitvoeringsplan en de waarde van dat goed op   het ogenblik van het ontstaan van het recht op schadevergoeding na de   inwerkingtreding van dat ruimtelijk uitvoeringsplan.<BR><BR>Als waarde van het   goed op het ogenblik van verwerving wordt in aanmerking genomen, het bedrag dat   als grondslag heeft gediend voor de heffing van de registratie-   of&nbsp;erfbelasting over de volle eigendom van het goed, of, bij ontstentenis   van zulke heffing, de verkoopwaarde van het goed in volle eigendom op de dag van   de verwerving.<BR><BR>Als waarde van het goed op het ogenblik van het ontstaan   van het recht op schadevergoeding wordt in aanmerking genomen :<BR>1° in geval   van overdracht of inbreng van het goed, het bedrag dat als grondslag heeft   gediend voor de heffing van de registratiebelasting over de volle eigendom van   het goed, of, indien zulke heffing ontbreekt, de verkoopwaarde van het goed in   volle eigendom op de dag van de overdracht of de inbreng met als minimum de   overeengekomen waarde;<BR>2° in geval van weigering van een vergunning om te   bouwen of voor het verkavelen van gronden, of in geval van een negatief   stedenbouwkundig attest, de verkoopwaarde op dat ogenblik.<BR><BR>De waarde van   het goed op het ogenblik van de verwerving wordt geactualiseerd door ze te   vermenigvuldigen met het indexcijfer van de consumptieprijzen van de   kalendermaand voorafgaand aan die waarin de schadevergoeding is vastgesteld en   het zo bekomen getal te delen door het gemiddelde indexcijfer van de   consumptieprijzen van het jaar van verwerving door de vergoedingsgerechtigde, in   voorkomend geval, omgerekend op dezelfde basis als eerstgenoemd indexcijfer. De   aldus bekomen waarde wordt verhoogd met de kosten van verwerving en met de   uitgaven die door de vergoedingsgerechtigde zijn gedragen met het oog op de   realisatie van de bestemming van het goed op de dag voorafgaand aan de   inwerkingtreding van het plan, vermeld in het eerste lid.<BR><BR>Enkel de   waardevermindering voortvloeiend uit het plan, vermeld in artikel 2.6.1, § 2,   kan in aanmerking komen voor planschadevergoeding.<BR><BR>Het recht op   planschadevergoeding ontstaat ofwel bij een overdracht onder bezwarende titel   van het goed, ofwel bij inbreng van het goed in een vennootschap, ofwel bij de   weigering van een vergunning om te bouwen of voor het verkavelen van gronden,   ofwel bij het afleveren van een negatief stedenbouwkundig attest.<BR><BR>Na   verloop van een termijn van vijf jaar, te rekenen vanaf de datum van de   inwerkingtreding van het plan, kan het recht op planschadevergoeding niet meer   ontstaan. Deze vijfjarentermijn wordt opgeschort gedurende vijf jaar, in het   geval, vermeld in artikel 2.6.1, § 4, 1°, tenzij de onteigeningsbeslissing   eerder zou vervallen of eerder zou worden herroepen. Het vorderingsrecht vervalt   definitief een jaar na de dag waarop het recht op planschadevergoeding is   ontstaan.<BR><BR>§ 2. De planschadevergoeding bedraagt tachtig percent van de   waardevermindering.<BR><BR>De planschadevergoeding wordt verminderd of geweigerd   voorzover vaststaat dat de eiser in het Gewest andere onroerende goederen bezit   of aandelen in een vennootschap die als hoofddoel het beheer van onroerende   goederen heeft, die voordeel halen uit de inwerkingtreding van een ruimtelijk   uitvoeringsplan of uit werken uitgevoerd op kosten van openbare besturen,   behoudens de onroerende goederen waarvoor een planbatenheffing betaald wordt   overeenkomstig artikel 2.6.4 tot en met 2.6.18.<BR><BR>Op straffe van definitief   verval van het recht op planschadevergoeding moeten alle eisende partijen binnen   zes maanden na de inleiding van de zaak en uiterlijk vóór de eerste rechterlijke   uitspraak over de grond van de zaak per aangetekende brief gericht aan de   griffie van de bevoegde rechtbank een staat neerleggen met de vermelding op de   dag voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan of   zij al dan niet in het bezit zijn van andere, bebouwde of onbebouwde, gronden in   het Gewest of aandelen in een vennootschap die als hoofddoel het beheer van   onroerende goederen heeft. Als dat het geval is, moeten zij ook de precieze   aanduiding geven van de kadastrale gegevens van die gronden en het aantal   aandelen. Terzelfder tijd als de neerlegging ter griffie, wordt die staat op   dezelfde wijze medegedeeld aan de verwerende partij en haar raadsman.<BR><BR>De   planschadevergoeding wordt niet verminderd voor de percelen waarvoor de eiser   een planbatenheffing betaald heeft.<BR><BR>§ 3. Aan de verplichting tot   planschadevergoeding kan, ten laatste binnen twee jaar na een in kracht van   gewijsde gegaan vonnis of arrest, en ongeacht de eigenaar, voldaan worden door   een definitieve vaststelling van een ruimtelijk uitvoeringsplan tot wijziging   van het bestaande plan, met het doel aan het goed opnieuw de bestemming te geven   die het had de dag vóór de inwerkingtreding van het bestaande   plan.<BR><BR>Indien het besluit houdende definitieve vaststelling van het   ruimtelijk uitvoeringsplan voor een deel aan het goed de bestemming geeft die   het had de dag vóór de inwerkingtreding van het bestaande ruimtelijk   uitvoeringsplan, dan wordt de betaling van de planschadevergoeding pro rata   berekend.<BR><BR>§ 4. Wanneer krachtens een definitief vastgesteld ruimtelijk   uitvoeringsplan een bouwverbod kan worden tegengeworpen aan degene die een   perceel in een verkaveling heeft aangekocht, kan het gewest, de provincie of de   gemeente zich aan de verplichting tot planschadevergoeding onttrekken door dat   perceel, in onderling akkoord, van de betrokkene terug te kopen, op voorwaarde   dat hem de betaalde koopprijs, verhoogd met de lasten en kosten, en   geactualiseerd aan de hand van het indexcijfer van de consumptieprijzen, wordt   terugbetaald.<BR><BR>Indien dat perceel het enige onroerende goed is waarvan de   betrokkene eigenaar is, kan hij de terugkoop door het gewest, de provincie of de   gemeente eisen door zijn wil te doen kennen bij aangetekende brief, te zenden   binnen twaalf maanden na de bekendmaking van het bovenvermeld ruimtelijk   uitvoeringsplan. In dat geval moet het perceel worden teruggekocht en betaald   binnen twaalf maanden na de kennisgeving. De Vlaamse Regering bepaalt de nadere   regelen inzake de terugkoop.<BR><BR>
+§ 1. Alleen de waardevermindering die voortvloeit uit het plan, vermeld in artikel 2.6.1, § 2, kan in aanmerking komen voor planschadevergoeding.<br>
+<br>
+Het recht op planschadevergoeding wordt geregeld in het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Wanneer krachtens een definitief vastgesteld ruimtelijk uitvoeringsplan een bouwverbod kan worden tegengeworpen aan degene die een perceel in een verkaveling heeft aangekocht, kan het gewest, de provincie of de gemeente zich aan de verplichting tot planschadevergoeding onttrekken door dat perceel, in onderling akkoord, van de betrokkene terug te kopen, op voorwaarde dat hem de betaalde koopprijs, verhoogd met de lasten en kosten, en geactualiseerd aan de hand van het indexcijfer van de consumptieprijzen, wordt terugbetaald.&nbsp;De betrokkene, het gewest, de provincie of de gemeente kan voor de toepassing van het eerste lid een beroep doen op de Vlaamse Grondenbank. De Vlaamse Regering bepaalt de nadere regels voor de behandeling van een vraag of aanbod tot koop.<br>
+<br>
+Als het perceel, vermeld in het eerste lid, het enige onroerende goed is waarvan de betrokkene eigenaar is, kan hij de terugkoop door het gewest, de provincie of de gemeente eisen. De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht. De Vlaamse Regering bepaalt de nadere regels voor die koopplicht.<br>
+&nbsp;
 
 ### ART. 2.6.3.
 
-De vorderingen tot betaling van planschadevergoedingen, ongeacht het bedrag ervan, behoren tot de bevoegdheid van de rechtbanken van eerste aanleg.<br /><br />De planschadevergoeding is verschuldigd door de overheid die het ruimtelijk uitvoeringsplan opmaakte waardoor de planschade is ontstaan.<br /><br />
+De planschadevergoeding is verschuldigd door de overheid die het ruimtelijk uitvoeringsplan opmaakte waardoor de planschade is ontstaan.<br>
+&nbsp;
 
 ## Afdeling 2 Planbatenheffing
 
@@ -1275,11 +1272,36 @@ De vorderingen tot betaling van planschadevergoedingen, ongeacht het bedrag erva
 
 ### ART. 2.6.4.
 
-Een planbatenheffing is verschuldigd wanneer een in werking getreden ruimtelijk uitvoeringsplan of bijzonder plan van aanleg op een perceel één of meer van de hiernavolgende bestemmingswijzigingen doorvoert :<br />1° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />2° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />3° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />4° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />5° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />6° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />7° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />8° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />9° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />10° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />11° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />12° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />13° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « landbouw » valt;<br />14° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt;<br />15° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt.<br /><br />
+Een planbatenheffing is verschuldigd wanneer een in werking getreden ruimtelijk uitvoeringsplan op een perceel één of meer van de hiernavolgende bestemmingswijzigingen doorvoert :<br>
+1° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br>
+2° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br>
+3° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br>
+4° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br>
+5° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br>
+6° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br>
+7° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br>
+8° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br>
+9° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br>
+10° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br>
+11° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br>
+12° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br>
+13° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « landbouw » valt;<br>
+14° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt;<br>
+15° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt.<br>
+&nbsp;
 
 ### ART. 2.6.5.
 
-Er is geen planbatenheffing verschuldigd in volgende gevallen :<BR>1°   wanneer de bestemmingswijziging niet voor gevolg heeft dat voortaan een   omgevingsvergunning verkregen kan worden die vóór de inwerkingtreding van het   ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet verkregen kon   worden;<BR>2° wanneer de bestemmingswijziging minder dan vijfentwintig procent   van een perceel bestrijkt en/of een perceelsgedeelte van minder dan 200 m2   betreft;<BR>3° wanneer voor het perceel een ruimtelijk uitvoeringsplan, dan wel   een bijzonder plan van aanleg, in werking treedt om te voldoen aan een   verplichting tot planschadevergoeding;<BR>4° wanneer het perceel waarop de dag   voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan, dan wel   het bijzonder plan van aanleg, een zonevreemde, hoofdzakelijk vergunde en   niet-verkrotte woning in de zin van artikel 4.4.10 gevestigd is, een voor wonen   geëigende bestemming krijgt ten gevolge van het plan;<BR>5° wanneer een perceel,   begrepen in een niet-vervallen verkaveling, bestemd voor woningbouw, een voor   woningbouw geëigende bestemming krijgt ten gevolge van het plan;<BR>6° wanneer   het perceel waarop de dag voorafgaand aan de inwerkingtreding van het ruimtelijk   uitvoeringsplan, dan wel het bijzonder plan van aanleg, een zonevreemd,   hoofdzakelijk vergund en niet-verkrot bedrijf in de zin van artikel 4.4.10   gevestigd is, een voor bedrijvigheid geëigende bestemming krijgt ten gevolge van   het plan;<BR>7° wanneer het perceel waarop de dag voorafgaand aan de   inwerkingtreding van het ruimtelijk uitvoeringsplan, dan wel het bijzonder plan   van aanleg, zonevreemde, hoofdzakelijk vergunde en niet-verkrotte gebouwen of   terreinen voor sport-, recreatie- en jeugdactiviteiten gelegen of gevestigd   zijn, een voor deze activiteiten geëigende bestemming krijgt ten gevolge van het   plan;<BR>8° als het perceel is opgenomen in een grondruilplan als vermeld in   artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de   landinrichting.<BR><BR>
+Er is geen planbatenheffing verschuldigd in volgende gevallen :<br>
+1° wanneer de bestemmingswijziging niet voor gevolg heeft dat voortaan een omgevingsvergunning verkregen kan worden die vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet verkregen kon worden;<br>
+2° wanneer de bestemmingswijziging een perceelsgedeelte van minder dan 200 m2 betreft;<br>
+3° wanneer voor het perceel een ruimtelijk uitvoeringsplan, dan wel een bijzonder plan van aanleg, in werking treedt om te voldoen aan een verplichting tot planschadevergoeding;<br>
+4° ...;<br>
+5° wanneer een perceel, begrepen in een niet-vervallen verkaveling, bestemd voor woningbouw, een voor woningbouw geëigende bestemming krijgt ten gevolge van het plan;<br>
+6° ...;<br>
+7° ...;<br>
+8° als het perceel is opgenomen in een grondruilplan als vermeld in artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting.<br>
+&nbsp;
 
 ### ART. 2.6.6.
 
@@ -1328,82 +1350,21 @@ Indien er meerdere heffingsplichtigen zijn, zijn zij hoofdelijk gehouden voor de
 Aard van de bestemmingswijziging
 <p>§ 1. De planbatenheffing wordt berekend uitgaande van de vermoede meerwaarde van een perceel ten gevolge van de bestemmingswijziging en op basis van de oppervlakte van de bestemmingswijziging op het perceel. De oppervlakte van het perceel is de bij het kadaster gekende oppervlakte.<br>
 <br>
-§ 2. <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>deschrmb</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>deschrmb</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>3</o:TotalTime><br>  <o:Created>2009-08-20T10:24:00Z</o:Created><br>  <o:LastSaved>2009-08-20T10:27:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>134</o:Words><br>  <o:Characters>737</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>6</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>870</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->De vermoede meerwaarde van een perceel wordt berekend conform de volgende tabel:<br>
-&nbsp;</p>
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td>aard van de bestemmingswijziging</td>
-			<td>bedrag van de vermoede meerwaarde per mØ</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 1°</td>
-			<td>117,64 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 2°</td>
-			<td>116,65 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 3°</td>
-			<td>113,24 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 4°</td>
-			<td>116,07 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 5°</td>
-			<td>63,08 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 6°</td>
-			<td>84,80 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 7°</td>
-			<td>83,81 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 8°</td>
-			<td>80,40 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 9°</td>
-			<td>83,23 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 10°</td>
-			<td>2,83 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 11°</td>
-			<td>4,40 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 12°</td>
-			<td>3,41 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 13°</td>
-			<td>0,99 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 14°</td>
-			<td>5,49 euro</td>
-		</tr>
-		<tr>
-			<td>wijziging als vermeld in artikel 2.6.4, 15°</td>
-			<td>4,50 euro</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-Indien het perceel het voorwerp uitmaakt van meerdere gelijktijdige bestemmingswijzigingen, wordt de vermoede meerwaarde van het perceel berekend als de optelsom van de producten van de respectievelijke oppervlaktes van elke wijziging en het bedrag van de vermoede meerwaarde per m2, zoals weergegeven in de tabel, opgenomen in het eerste lid.<br>
+§ 2. De territoriaal bevoegde landcommissie maakt voor elk in werking getreden ruimtelijk uitvoeringsplan dat een of meer van de bestemmingswijzigingen, vermeld in artikel 2.6.4, doorvoert, een ontwerp van meerwaarderapport op na raadpleging van de overheid die het ruimtelijk uitvoeringsplan heeft vastgesteld.<br>
 <br>
-Indien een zone die nog niet is afgebakend met toepassing van artikel 2.2.6, § 2, eerste lid, onder meerdere categorieën van gebiedsaanduiding valt, wordt de vermoede meerwaarde berekend aan de hand van de categorie waaronder de meerderheid van de functies van de zone ressorteert.<br>
+Het ontwerp van meerwaarderapport bevat een vermoede meerwaarde voor elk perceel waarop een bestemmingswijziging als vermeld in artikel 2.6.4 wordt doorgevoerd, met het oog op de vaststelling van de planbatenheffing, vermeld in paragraaf 1.<br>
+<br>
+De vermoede meerwaarde is het verschil tussen de eigenaarswaarde vóór de bestemmingswijziging, en de eigenaarswaarde na de bestemmingswijziging.<br>
+<br>
+De eigenaarswaarde wordt bepaald met toepassing van artikel 14, § 3, van het Instrumentendecreet van 26 mei 2023.<br>
+<br>
+De landcommissie bezorgt een uittreksel van het ontwerp van meerwaarderapport aan elk van de betrokken eigenaars. Elk van de betrokken eigenaars kan een bezwaar indienen tegen het ontwerp van meerwaarderapport. De landcommissie stelt het meerwaarderapport definitief vast als er geen tijdige bezwaren zijn ingediend of na de behandeling van de bezwaren.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over de mededeling van het ontwerp van meerwaarderapport aan de eigenaars, de indiening van een bezwaar tegen het ontwerp van meerwaarderapport en de behandeling van een dergelijk bezwaar. Ze kan ook nadere regels vaststellen voor de opmaak van het ontwerp van meerwaarderapport.<br>
+<br>
+§ 2/1. Een overheid die een ruimtelijk uitvoeringsplan wil vaststellen, kan de territoriaal bevoegde landcommissie vóór de definitieve vaststelling ervan verzoeken om een meerwaarderamingsrapport op te maken. Het meerwaarderamingsrapport bevat een berekening van de vermoede meerwaarde op het niveau van het globale ruimtelijk uitvoeringsplan.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de opmaak van een meerwaarderamingsrapport.<br>
 <br>
 § 3. In afwijking van paragraaf 1 wordt voor de berekening van de vermoede meerwaarde de oppervlakte van de bestemmingswijziging beperkt tot een maximale oppervlakte van 2750 m<sup>2</sup>, voor zover tegelijk aan volgende voorwaarden is voldaan :<br>
 1° het betreft een bestemmingswijziging zoals vermeld in artikel 5.4.2, tweede lid;<br>
@@ -1419,141 +1380,73 @@ Indien voor het perceel dat onder de toepassing valt van paragraaf 3 reeds een p
 
 ### ART. 2.6.11.
 
-Voor de berekening van de planbatenheffing wordt het bedrag van de vermoede meerwaarde van een perceel verdeeld in schijven, die elk onderworpen worden aan een specifiek heffingspercentage.<br>
+Voor de berekening van de planbatenheffing wordt het bedrag van de meerwaarde van een perceel verdeeld in twee schijven:<br>
+1° eerste schijf: meerwaarde lager dan of gelijk aan 250.000 euro, belast tegen 25 procent;<br>
+2° tweede schijf: meerwaarde hoger dan 250.000 euro, belast tegen 50 procent.<br>
 <br>
-Deze berekening gebeurt aan de hand van volgende tabel :
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gedeelte van de vermoede meerwaarde<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Percentage toepasselijk op het overeenstemmend gedeelte</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Totale bedrag van de heffing over het voorgaand gedeelte</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 0,01 tot en met 12.500 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>/</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 12.500 tot en met 25.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>125 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 25.000 tot en met 50.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>375 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 50.000 tot en met 100.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>5 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.125 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 100.000 tot en met 150.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>8 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3.625 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 150.000 tot en met 200.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>14 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>7.625 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 200.000 tot en met 250.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>18 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>14.625 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>van 250.000 tot en met 500.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>24 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>23.625 EUR</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boven de 500.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 t.h.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>83.625 EUR</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
+De verplichtingen met betrekking tot de ontwikkelingskosten uit overeenkomsten als vermeld in artikel 2.2.5, § 2, tweede lid, worden in mindering gebracht van de planbatenheffing, vermeld in het eerste lid. De overeenkomsten bevatten een gedetailleerde financiële raming van die ontwikkelingskosten.
 <p>&nbsp;</p>
 
 ### ART. 2.6.12.
 
-§ 1. De in artikel 2.6.10, § 2, eerste lid, opgenomen vermoede meerwaarden per m2 worden vijfjaarlijks geactualiseerd. De Vlaamse Regering legt daartoe vijfjaarlijks een voorstel voor aan de decreetgever, op grond van het evaluatierapport, vermeld in artikel 2.6.19, tweede lid. De cyclus van vijf jaar vangt aan op 1 januari 2009.<br />Indien op 31 december van het laatste jaar van de cyclus van vijf jaar, vermeld in het eerste lid, geen actualisering is doorgevoerd, wordt het bedrag van de verschuldigde planbatenheffing, als bepaald overeenkomstig artikel 2.6.10 en 2.6.11, vanaf 1 januari van het daaropvolgende jaar geactualiseerd door dit te vermenigvuldigen met de gezondheidsindex voor de maand volgend op de maand van de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg, en te delen door de gezondheidsindex voor de maand volgend op de maand van de inwerkingtreding van het decreet waarin het toepasselijke bedrag van de vermoede meerwaarde per m2 voor het laatst werd vastgesteld of aangepast.<br /><br />§ 2. In afwijking van § 1 legt de Vlaamse Regering reeds uiterlijk op 31 december 2011 een eerste voorstel tot actualisering van de vermoede meerwaarden per m2 voor de bestemmingswijzigingen, vermeld in artikel 2.6.4, 14° en 15°, aan de decreetgever voor. Het voorstel is gebaseerd op een specifieke evaluatie betreffende deze bestemmingswijzigingen.<br /><br />De regeling, vermeld in het eerste lid, stelt de bestemmingswijzigingen, vermeld in artikel 2.6.4, 14° en 15°, niet vrij van de globale vijfjaarlijkse evaluatie en actualisering, vermeld in § 1, eerste lid. De regeling, vermeld in § 1, tweede lid, is ook op deze bestemmingswijzigingen onverkort van toepassing.<br /><br /><br />
+...
 
 ## Onderafdeling 4 Inkohiering en invordering
 
 ### ART. 2.6.13.
 
-§ 1. De belastingschuld wordt eisbaar gemaakt door middel van kohieren die   worden vastgesteld op basis van door het departement aangeleverde gegevens en   die ten minste volgende elementen omvatten :<BR>1° de identiteit van de   belastingplichtige;<BR>2° de aanduiding van de belasting;<BR>3° het bedrag van   de belasting, alsook het aanslagjaar waarop de belasting betrekking heeft;<BR>4°   het nummer van het kohierartikel;<BR>5° de datum van   uitvoerbaarverklaring.<BR><BR>Het departement verzamelt, ontsluit en beheert   voormelde gegevens in een geoloket planbaten. De initiërende overheden en de   betrokken instanties leveren, elk voor wat hun verantwoordelijkheid betreft, de   gegevens digitaal aan overeenkomstig de technische richtlijnen van het   departement.<BR><BR>De kohieren worden door de daartoe door de Vlaamse Regering   gemachtigde ambtenaar uitvoerbaar verklaard, uiterlijk op 31 december van het   jaar, volgend op het kalenderjaar van de inwerkingtreding van het ruimtelijk   uitvoeringsplan of het bijzonder plan van aanleg dat de bestemmingswijziging   omvat die geldt als grondslag van de planbatenheffing.<BR><BR>De Vlaamse   Regering kan nadere regelen bepalen omtrent de inhoud en de vormgeving van de   kohieren.<BR><BR>&nbsp;§ 2. Het aanslagbiljet vermeldt:<BR>1° de   verzendingsdatum;<BR>2° de datum van uitvoerbaarverklaring van het kohier;<BR>3°   het kohierartikel;<BR>4° het aanslagjaar, zijnde het kalenderjaar waarin het   ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg, vermeld in artikel   2.6.4, in werking is getreden;<BR>5° de grondslag van de belasting;<BR>6° het te   betalen bedrag;<BR>7° de uiterste betaaldatum;<BR>8° de termijn waarin de   belastingschuldige bezwaar kan indienen, de benaming en het adres van de   entiteit van de Vlaamse administratie die bevoegd is om het bezwaar te   ontvangen, en de formaliteiten die daarbij moeten worden nageleefd;<BR>9° de   berekeningswijze van de betalingstermijn.<BR><BR>
+§ 1. De belastingschuld wordt eisbaar gemaakt door middel van kohieren die worden vastgesteld op basis van het meerwaarderapport en die ten minste volgende elementen omvatten :<br>
+1° de identiteit van de belastingplichtige;<br>
+2° de aanduiding van de belasting;<br>
+3° het bedrag van de belasting, alsook het aanslagjaar waarop de belasting betrekking heeft;<br>
+4° het nummer van het kohierartikel;<br>
+5° de datum van uitvoerbaarverklaring.<br>
+<br>
+Het departement en de Vlaamse Landmaatschappij, opgericht bij het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, verzamelen, ontsluiten en beheren het meerwaarderapport in een geoloket planbaten. De initiërende overheden en de betrokken instanties leveren, elk voor wat hun verantwoordelijkheid betreft, de gegevens digitaal aan overeenkomstig de technische richtlijnen van het departement.<br>
+<br>
+De ambtenaar die daartoe door de Vlaamse Regering gemachtigd is, verklaart de kohieren uitvoerbaar, uiterlijk op 31 december van het jaar dat volgt op het jaar waarin het meerwaarderapport, vermeld in artikel 2.6.10, § 2, definitief is geworden doordat er geen of geen tijdige bezwaren zijn ingediend, of nadat de bezwaren zijn behandeld.<br>
+<br>
+De Vlaamse Regering kan nadere regelen bepalen omtrent de inhoud en de vormgeving van de kohieren.<br>
+<br>
+&nbsp;§ 2. Het aanslagbiljet vermeldt:<br>
+1° de verzendingsdatum;<br>
+2° de datum van uitvoerbaarverklaring van het kohier;<br>
+3° het kohierartikel;<br>
+4° het aanslagjaar, zijnde het kalenderjaar waarin het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg, vermeld in artikel 2.6.4, in werking is getreden;<br>
+5° de grondslag van de belasting;<br>
+6° het te betalen bedrag;<br>
+7° de uiterste betaaldatum;<br>
+8° de termijn waarin de belastingschuldige bezwaar kan indienen, de benaming en het adres van de entiteit van de Vlaamse administratie die bevoegd is om het bezwaar te ontvangen, en de formaliteiten die daarbij moeten worden nageleefd;<br>
+9° de berekeningswijze van de betalingstermijn.<br>
+&nbsp;
 
 ## Onderafdeling 5 Betalingstermijn en bezwarenregeling
 
 ### ART. 2.6.14.
 
-§ 1. De planbatenheffing is betaalbaar binnen een termijn van :<BR>1°   vijftien kalenderdagen vanaf de datum van het verlijden van de authentieke akte   betreffende een overdracht ten bezwarende titel, door de heffingsplichtige, van   enig zakelijk recht met betrekking tot het perceel.<BR>2° zes maanden na het   verlenen, in laatste administratieve aanleg, van een van de volgende   vergunningen, voor zover deze vergunning vóór de inwerkingtreding van het   ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet kon worden   verleend:<BR>a) een&nbsp;stedenbouwkundige vergunning&nbsp;voor bouwwerken,   vermeld in artikel 4.2.1, voor zover de handelingen niet louter betrekking   hebben op het vellen van bomen, afbraakwerken of bodemsaneringswerken;<BR>b) een   omgevingsvergunning voor het verkavelen van gronden.<BR><BR>Indien een   omgevingsvergunning, vermeld in het eerste lid, 2°, uitdrukkelijk melding maakt   van verschillende fasen van een bouw- of verkavelingsproject, wordt de   planbatenheffing gefaseerd betaald overeenkomstig de daartoe door de Vlaamse   Regering bepaalde regelen. Binnen een termijn van zes maanden na de aanvang van   elke fase wordt de voor die fase verschuldigde heffing betaald.<BR><BR>§ 2.   Indien een verrichting, vermeld in § 1, eerste lid, plaatsvond vóór de   verzending van het aanslagbiljet, moet de planbatenheffing betaald worden binnen   een termijn van zes maanden na de verzending van het aanslagbiljet.<BR><BR>§ 3.   Indien in de periode tussen de inwerkingtreding van het ruimtelijk   uitvoeringsplan of het bijzonder plan van aanleg en een verrichting, vermeld in   § 1, eerste lid, een tweede bestemmingswijziging in werking treedt, wordt de   eerste bestemmingswijziging voor de toepassing van deze afdeling geacht nooit te   hebben plaatsgevonden.<BR><BR>
+§ 1. De planbatenheffing is betaalbaar binnen een termijn van:<br>
+1° vijftien dagen vanaf de datum van het verlijden van de authentieke akte betreffende een overdracht ten bezwarenden titel door de heffingsplichtige van enig zakelijk recht met betrekking tot het perceel. Het louter openvallen van een nalatenschap, een uitonverdeeldheidtreding naar aanleiding van een nalatenschap, een schenking ten kostelozen titel en een overdracht ten bezwarenden titel van een deel van de kavels binnen een verkaveling vallen daar niet onder;<br>
+2° vijfentwintig maanden na het verlenen van een definitieve omgevingsvergunning voor bouwwerken als vermeld in artikel 4.2.1, voor zover die vergunning vóór de inwerkingtreding van de bestemmingswijziging niet kon worden verleend en voor zover de handelingen niet louter betrekking hebben op het vellen van bomen, afbraakwerken of bodemsaneringswerken;<br>
+3° vijfentwintig maanden na het verlenen van een definitieve omgevingsvergunning voor het verkavelen van gronden, voor zover die vergunning vóór de inwerkingtreding van de bestemmingswijziging niet kon worden verleend.<br>
+<br>
+Als een omgevingsvergunning als vermeld in het eerste lid, 2° of 3°, uitdrukkelijk melding maakt van verschillende fasen van een omgevingsvergunning voor het uitvoeren van stedenbouwkundige handelingen of voor het verkavelen van gronden, wordt de planbatenheffing gefaseerd betaald overeenkomstig de regels die de Vlaamse Regering daarvoor heeft bepaald. Binnen een termijn van vijfentwintig maanden na de aanvang van elke fase wordt de heffing die voor die fase verschuldigd is, betaald.<br>
+<br>
+§ 2. Als een verrichting als vermeld in paragraaf 1, eerste lid, 1°, plaatsvond vóór de verzending van het aanslagbiljet, wordt de planbatenheffing betaald binnen een termijn van zes maanden na de verzending van het aanslagbiljet.<br>
+<br>
+Als een verrichting als vermeld in paragraaf 1, eerste lid, 2° en 3°, plaatsvond vóór de verzending van het aanslagbiljet, wordt de planbatenheffing betaald binnen een termijn van vijfentwintig maanden na de verzending van het aanslagbiljet.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 is de planbatenheffing niet betaalbaar als de belastingplichtige in verband met een vergunning als vermeld in paragraaf 1, eerste lid, 2° en 3°, aan de Vlaamse Belastingdienst meldt dat:<br>
+1° de vergunning voor de uitvoering van stedenbouwkundige handelingen overeenkomstig artikel 99 van het decreet van 25 april 2014 betreffende de omgevingsvergunning is vervallen;<br>
+2° hij afstand heeft gedaan van de vergunning voor de uitvoering van stedenbouwkundige handelingen door middel van een melding per beveiligde zending aan het college van burgemeester en schepenen;<br>
+3° hij afstand heeft gedaan van de vergunning voor het verkavelen van gronden overeenkomstig artikel 104, eerste lid, van hetzelfde decreet.<br>
+<br>
+Als na de toepassing van het eerste lid een nieuwe vergunning als vermeld in paragraaf 1, eerste lid, 2° en 3°, verleend wordt, geldt opnieuw de termijn van betaalbaarheid, vermeld in paragraaf 1.<br>
+<br>
+De melding aan de Vlaamse Belastingdienst gebeurt op straffe van onontvankelijkheid vóór het verstrijken van de betalingstermijn, vermeld in paragraaf 1, eerste lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere procedureregels voor die melding.<br>
+<br>
+§ 4. Als in de periode tussen de inwerkingtreding van de bestemmingswijziging en een verrichting als vermeld in paragraaf 1, eerste lid, een of meer nieuwe bestemmingswijzigingen in werking treden, worden voor de toepassing van deze afdeling de stedenbouwkundige voorschriften vóór de eerste bestemmingswijziging en de stedenbouwkundige voorschriften na de laatste bestemmingswijziging met elkaar vergeleken.
 
 ### ART. 2.6.15.
 
@@ -1561,7 +1454,24 @@ Een bonificatie wordt verleend aan de heffingsplichtige die de planbatenheffing 
 
 ### ART. 2.6.16.
 
-§ 1. De heffingsplichtige kan bij de Vlaamse Belastingdienst een   gemotiveerd bezwaar indienen tegen een aanslag. Hij voegt bij het bezwaarschrift   de nodige bewijskrachtige stukken om zijn bezwaren te staven.<BR><BR>Het bezwaar   wordt op straffe van verval ingediend binnen een termijn van drie maanden vanaf   de derde werkdag volgend op de betekening van het aanslagbiljet.<BR><BR>In het   geval het aanslagbiljet door middel van een procedure waarbij   informaticatechnieken worden gebruikt, aan de belastingplichtige is bezorgd,   vangt de termijn aan vanaf de verzendingsdatum, vermeld op het   aanslagbiljet.<BR><BR>§ 2. De Vlaamse Belastingdienst bezorgt aan de   heffingsplichtige een ontvangstmelding die de datum van ontvangst van het   bezwaar vermeldt.<BR><BR>§ 3. De Vlaamse Belastingdienst kan de   heffingsplichtige verzoeken alle stukken voor te leggen of te verstrekken die   nuttig kunnen zijn om over het bezwaar te beslissen.<BR><BR>§ 4. De beslissing   wordt schriftelijk meegedeeld en vermeldt de wijze waarop ertegen in rechte kan   worden getreden. De beslissing is onherroepelijk als geen vordering is ingesteld   bij de rechtbank van eerste aanleg binnen de termijn, vermeld in artikel   1385undecies van het Gerechtelijk Wetboek.<BR><BR>§ 5. Het indienen van een   bezwaar, een aanvraag tot ambtshalve ontheffing, een vordering in rechte of een   verzoek om spreiding van betaling schort de verplichting tot betaling van de   belastingen en toebehoren niet op.<BR><BR>§ 6. De Vlaamse Belastingdienst sluit   met het departement een protocol over de advisering over de ruimtelijke aspecten   van ingediende bezwaren.<BR><BR>De Vlaamse Regering kan nadere procedurele   regelen bepalen betreffende de indiening en behandeling van het   bezwaar.<BR><BR>
+§ 1. De heffingsplichtige kan bij de Vlaamse Belastingdienst een gemotiveerd bezwaar indienen tegen een aanslag. Hij voegt bij het bezwaarschrift de nodige bewijskrachtige stukken om zijn bezwaren te staven.<br>
+<br>
+Het bezwaar wordt op straffe van verval ingediend binnen een termijn van drie maanden vanaf de derde werkdag volgend op de betekening van het aanslagbiljet.<br>
+<br>
+In het geval het aanslagbiljet door middel van een procedure waarbij informaticatechnieken worden gebruikt, aan de belastingplichtige is bezorgd, vangt de termijn aan vanaf de verzendingsdatum, vermeld op het aanslagbiljet.<br>
+<br>
+§ 2. De Vlaamse Belastingdienst bezorgt aan de heffingsplichtige een ontvangstmelding die de datum van ontvangst van het bezwaar vermeldt.<br>
+<br>
+§ 3. De Vlaamse Belastingdienst kan de heffingsplichtige verzoeken alle stukken voor te leggen of te verstrekken die nuttig kunnen zijn om over het bezwaar te beslissen.<br>
+<br>
+§ 4. De beslissing wordt schriftelijk meegedeeld en vermeldt de wijze waarop ertegen in rechte kan worden getreden. De beslissing is onherroepelijk als geen vordering is ingesteld bij de rechtbank van eerste aanleg binnen de termijn, vermeld in artikel 1385undecies van het Gerechtelijk Wetboek.<br>
+<br>
+§ 5. Het indienen van een bezwaar, een aanvraag tot ambtshalve ontheffing, een vordering in rechte of een verzoek om spreiding van betaling schort de verplichting tot betaling van de belastingen en toebehoren niet op.<br>
+<br>
+§ 6. De Vlaamse Belastingdienst sluit met het departement&nbsp;en de Vlaamse Landmaatschappij, opgericht bij het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij en de landcommissies, een protocol over de advisering over de ruimtelijke aspecten van ingediende bezwaren.<br>
+<br>
+De Vlaamse Regering kan nadere procedurele regelen bepalen betreffende de indiening en behandeling van het bezwaar.<br>
+&nbsp;
 
 ## Onderafdeling 6 Toewijzing en aanwending van de opbrengsten
 
@@ -1571,15 +1481,14 @@ Een bonificatie wordt verleend aan de heffingsplichtige die de planbatenheffing 
 <br>
 § 2. Aan het Fonds worden de inkomsten van de planbatenheffing rechtstreeks toegewezen.<br>
 <br>
-§ 3. Onverminderd artikel 2.2.2, § 2, vierde lid, worden uitgaven ten laste van het Fonds aangerekend als volgt :<br>
-1° overeenkomstig een door de Vlaamse Regering vastgestelde methodiek worden bedragen voorafgenomen ter dekking van de inningskosten en de kosten ingevolge de toepassing van artikel 2.6.6, derde lid. Deze kosten worden naar evenredigheid van de respectievelijke bruto-ontvangsten aangerekend op de doorstortingen vermeld in 2° en 5°;<br>
-2° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden gestort in het BRV-fonds, vermeld in artikel 1.6.1;<br>
-3° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden doorgestort naar de betrokken provincie, respectievelijk gemeente;<br>
-4° de inkomsten die voortkomen uit planbatenheffingen die voortvloeien uit een planologische oplossing in de zin van artikel 5.4.2 en waarbij het ruimtelijk uitvoeringsplan definitief vastgesteld werd tussen 1 september 2009 en 1 juli 2013, worden doorgestort naar de gemeente waar de planologische oplossing haar beslag had. De inkomsten die het gevolg zijn van een provinciale of gemeentelijke bestemmingswijziging in ruimtelijke uitvoeringsplannen die vanaf 1 juli 2013 definitief worden vastgesteld en in uitvoering van artikel 5.4.2, worden doorgestort naar de betrokken provincie, respectievelijk betrokken gemeente;<br>
-5° de overblijvende middelen worden gestort op een rekening van het BRV-fonds, vermeld in artikel 1.6.1, en aangewend voor activeringsprojecten, vermeld in boek 5, deel 2, titel 7, van de Vlaamse Codex Wonen van 2021, met dien verstande dat de door de erkende woonmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid.<br>
+§ 3. Onverminderd artikel 2.2.2, § 2, vierde lid, worden uitgaven ten laste van het Fonds op de volgende wijze aangerekend:<br>
+1° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding "bedrijvigheid" valt, worden gestort in het Rubiconfonds, vermeld in artikel 28 van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003;<br>
+2° de inkomsten uit andere gewestelijke bestemmingswijzigingen dan die, vermeld in punt 1°, worden gestort op een rekening van het Grondfonds, vermeld in artikel 5.6.3 van deze codex, en aangewend voor activeringsprojecten als vermeld in de Vlaamse Codex Wonen van 2021, met dien verstande dat de door de erkende woonmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid;<br>
+3° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging, worden doorgestort naar respectievelijk de betrokken provincie of gemeente.<br>
 <br>
-Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 3°, bestemd wordt binnen het lokale ruimtelijke beleid, zoals in het bijzonder&nbsp;het voldoen van planschadevergoedingen en de aanwending van het instrument « planologische ruil », zijnde de omwisseling van gebiedsbestemmingen vanuit een samenhangende visie op de duurzame ruimtelijke ordening van het volledige plangebied.<br>
-&nbsp;
+Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 2° en 3°, bestemd wordt binnen het lokale ruimtelijke beleid.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels bepalen over de wijze en het moment waarop de inkomsten die voortkomen uit provinciale of gemeentelijke bestemmingswijzigingen, worden doorgestort.
 
 ## Onderafdeling 7 Overige bepalingen
 
@@ -1593,7 +1502,9 @@ Onverminderd de bepalingen van of krachtens deze afdeling, zijn de   bepalingen 
 
 ### ART. 2.6.19.
 
-De Vlaamse Regering werkt een evaluatiemechanisme uit dat toelaat om de effectiviteit van de planbatenregeling op te volgen en om het adequaat karakter van de tariefregeling te bewaken.<br /><br />Het evaluatiemechanisme leidt vijfjaarlijks tot een globaal evaluatierapport dat voorgelegd wordt aan de Vlaamse Regering en aan het Vlaams Parlement.<br /><br />
+De Vlaamse Regering werkt een monitoringsmechanisme uit dat toelaat om de effectiviteit van de planbatenregeling op te volgen en om het adequaat karakter van de tariefregeling te bewaken.<br>
+<br>
+De Vlaamse Regering stelt hiertoe vijfjaarlijks een globaal monitoringsrapport op, dat aan het Vlaams Parlement wordt voorgelegd.
 
 ## [Afdeling 3 Decreet betreffende complexe projecten (ing. Decr. 25 april 2014, art. 55, I: 1 maart 2015)]
 
@@ -2044,7 +1955,7 @@ Afwijkingen kunnen niet worden toegestaan voor wat betreft :<br>
 2° de maximaal mogelijke vloerterreinindex;<br>
 3° het aantal bouwlagen.<br>
 <br>
-§ 2. De volgende handelingen worden niet beschouwd als afwijkend van stedenbouwkundige voorschriften en verkavelingsvoorschriften, tenzij die voorschriften deze handelingen uitdrukkelijk verbieden:<br>
+§ 2. De volgende handelingen worden niet beschouwd als afwijkend van stedenbouwkundige voorschriften en verkavelingsvoorschriften, tenzij de voorschriften, andere dan verkavelingsvoorschriften, die handelingen uitdrukkelijk verbieden:<br>
 1° de plaatsing van fotovoltaïsche zonnepanelen of zonneboilers geïntegreerd in het dakvlak;<br>
 2° de creatie van een zorgwoning in de zin van artikel 4.2.4;<br>
 3° het aanbrengen van isolatie aan de buitenzijde van een woning met een dikte van ten hoogste 26 centimeter.<br>
@@ -2065,7 +1976,14 @@ De termijn van vijftien jaar, vermeld in het eerste lid en tweede lid, wordt ber
 
 ### ART. 4.4.2.
 
-§ 1. In een omgevingsvergunning voor het uitvoeren van stabiliteitswerken   ten behoeve van een bestaande, hoofdzakelijk vergunde en niet-verkrotte   constructie, kan worden afgeweken van stedenbouwkundige voorschriften of van   verkavelingsvoorschriften.<BR><BR>§ 2. Indien in laatste administratieve aanleg   een omgevingsvergunning wordt geweigerd voor stabiliteitswerken aan   constructies, vermeld in § 1, kan de eigenaar eisen dat het Vlaamse Gewest zijn   perceel aankoopt, met inbegrip van alle op dat perceel vergunde of als vergund   te beschouwen constructies.<BR><BR>De eigenaar beschikt, op straffe van verval,   over een termijn van één jaar om het departement bij beveiligde zending in   kennis te stellen van het feit dat hij van het recht, vermeld in het eerste lid,   gebruik wenst te maken. Deze termijn van één jaar gaat in de dag na deze van de   betekening van de weigering in laatste administratieve aanleg. In het geval van   een stilzwijgende weigering, gaat de termijn echter in op de dag die volgt op   het verstrijken van de vervaltermijn waarbinnen het vergunningverlenende   bestuursorgaan diende te beslissen of te betekenen.<BR><BR>De aankoop gebeurt   aan de verkoopwaarde van het goed op het ogenblik van de weigering in laatste   administratieve aanleg.<BR><BR>Voor zover de eigenaar daarmee instemt, kan de   betaling van een aankoopprijs door het Vlaamse Gewest vervangen worden door een   grondenruil door middel van de Vlaamse Grondenbank.<BR><BR>§ 3. De goederen,   vermeld in § 2, kunnen worden aangehouden, beheerd en overgedragen   overeenkomstig artikel 5, § 7, van het decreet van 16 juni 2006 betreffende het   oprichten van de Vlaamse Grondenbank.<BR><BR>§ 4. De Vlaamse Regering kan nadere   regelen bepalen voor de toepassing van dit artikel.<BR><BR>
+§ 1. In een omgevingsvergunning voor het uitvoeren van stabiliteitswerken ten behoeve van een bestaande, hoofdzakelijk vergunde en niet-verkrotte constructie, kan worden afgeweken van stedenbouwkundige voorschriften of van verkavelingsvoorschriften.<br>
+<br>
+§ 2. Als in laatste administratieve aanleg een omgevingsvergunning wordt geweigerd voor stabiliteitswerken aan constructies als vermeld in paragraaf 1, kan de eigenaar eisen dat het Vlaamse Gewest zijn perceel aankoopt, met inbegrip van alle op dat perceel vergunde of als vergund te beschouwen constructies. De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet van 26 mei 2023 zijn van toepassing op die koopplicht.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van dit artikel.<br>
+&nbsp;
 
 ## Onderafdeling 3 Afwerkingsregel
 
@@ -3276,12 +3194,12 @@ De mogelijkheden om af te wijken van stedenbouwkundige voorschriften of om reken
 <br>
 De vaststelling van een ruimtelijk uitvoeringsplan in toepassing van deze paragraaf geeft geen aanleiding tot planschadevergoeding, vermeld in titel II, hoofdstuk VI, afdeling 1, noch tot een planbatenheffing, vermeld in titel II, hoofdstuk VI, afdeling 2, noch tot kapitaalschade in de zin van boek 6 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br>
 <br>
-§ 6. Eigenaars van gronden die in watergevoelig openruimtegebied liggen, aangeduid conform dit artikel, kunnen een vergoeding verkrijgen met toepassing van dezelfde voorwaarden en modaliteiten als deze die gelden voor de planschadevergoeding, vermeld in artikel 2.6.1 tot en met 2.6.3, waarbij:<br>
-1° het recht op vergoeding ontstaat op de dag van publicatie in het Belgisch Staatsblad van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied;<br>
-2° het vorderingsrecht vervalt twee jaar nadat het recht op vergoeding is ontstaan;<br>
+§ 6. Eigenaars van gronden die in watergevoelig openruimtegebied liggen dat is aangeduid conform dit artikel, kunnen een vergoeding verkrijgen met toepassing van dezelfde voorwaarden en modaliteiten als die welke gelden voor de planschadevergoeding, vermeld in artikel 2.6.1, waarbij:<br>
+1° het recht op vergoeding ontstaat conform artikel 13, § 1, van het Instrumentendecreet van 26 mei 2023;<br>
+2° het vorderingsrecht twee jaar nadat het recht op vergoeding is ontstaan, vervalt;<br>
 3° de vergoedingsgerechtigde diegene is die op het ogenblik van de inwerkingtreding van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied het eigendomsrecht of het bloot eigendomsrecht op het perceel kan laten gelden.<br>
 <br>
-De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en aangerekend op het BRV-fonds.<br>
+De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en wordt aangerekend op het Rubiconfonds.<br>
 <br>
 § 7. De Vlaamse Regering kan, hangende de procedure of uiterlijk binnen het jaar na een veroordeling tot vergoeding die kracht van gewijsde heeft verkregen, beslissen om de aanduiding als watergevoelig openruimtegebied zoals vermeld in paragraaf 1, geheel of gedeeltelijk op te heffen voor de gronden waarvoor de vergoeding werd gevorderd. De Vlaamse Regering wint hierover het advies in van het college van burgemeester en schepenen van de gemeente waar de gronden gelegen zijn, en van de Coördinatiecommissie Integraal Waterbeleid, bedoeld in artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
 <br>
