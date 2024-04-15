@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039610,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-22 over de financiële tussenkomst in de planschadevergoeding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039610/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "4c3072e3ae493183a7290e6372016044f83571e4618e245bd2b935db51dafa23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039610&param=informatie",
+  "as_of": "2024-04-15",
+  "made": "2024-03-22",
+  "gazette": "2024-04-23",
+  "numac": 2024003609,
+  "document_start": "2024-04-15",
+  "document_end": null,
+  "in_force": "2024-04-15",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2024-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
