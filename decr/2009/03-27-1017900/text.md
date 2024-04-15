@@ -732,7 +732,7 @@ De Vlaamse Regering sluit met de beherende instelling of organisatie een concess
 
 ### ART. 6.1.1.
 
-§ 1. De Vlaamse Regering is belast met de organisatie en samenstelling van vijf kapitaalschadecommissies. Zij wijst aan elke kapitaalschadecommissie een provinciaal werkingsgebied toe.<br /><br />§ 2. Elke kapitaalschadecommissie is voor het grondgebied van de haar toegewezen provincie belast met de opmaak van kapitaalschaderapporten aangaande ruimtelijke uitvoeringsplannen en plannen van aanleg die aanleiding kunnen geven tot kapitaalschade. De kapitaalschadecommissies dienen de Vlaamse Regering, respectievelijk de Vlaamse Landmaatschappij tevens van advies over beschikkingen houdende het opleggen van een erfdienstbaarheid tot openbaar nut, overeenkomstig artikel 6.3.1, derde lid. De kapitaalschaderapporten en adviezen omvatten alle nuttige gegevens voor de berekening van de compensaties, vermeld in titel 2, respectievelijk titel 3.<br /><br />De Vlaamse Regering bepaalt richtsnoeren voor de berekening en raming van grondwaarden en waardeverminderingen in de kapitaalschaderapporten en de adviezen van de kapitaalschadecommissies. De richtsnoeren voor de toepassing van titel 2 zijn zo veel als mogelijk geforfaitariseerd.<br /><br />§ 3. Een kapitaalschadecommissie bezorgt binnen negentig dagen na het einde van het openbaar onderzoek over het ontwerpplan een voorlopig kapitaalschaderapport aan de overheid, bevoegd voor het definitief vaststellen of aannemen van het ruimtelijk uitvoeringsplan of plan van aanleg, en aan de Vlaamse Landmaatschappij.<br /><br />De kapitaalschadecommissie bezorgt het definitieve kapitaalschaderapport aan de Vlaamse Landmaatschappij, binnen een ordetermijn van dertig dagen na de inwerkingtreding van het ruimtelijk uitvoeringsplan of plan van aanleg.<br /><br />§ 4. De kapitaalschadecommissies worden alle voorgezeten door dezelfde persoon.<br /><br />De kapitaalschadecommissies bestaan benevens de voorzitter uit vier deskundigen. Twee deskundigen worden aangewezen op voordracht van de Vlaamse Landmaatschappij. De twee overige deskundigen worden aangewezen op voordracht van, respectievelijk, de gewestelijke administratie belast met de uitvoering van het beleid inzake landbouw en visserij en de gewestelijke administratie belast met de uitvoering van het beleid inzake natuurbehoud en de vrijwaring van het natuurlijk milieu en van het milieubeleid.<br /><br />Voor elk commissielid wordt een plaatsvervanger aangeduid.<br /><br />§ 5. De leden van de kapitaalschadecommissies hebben voor de uitoefening van hun werkzaamheden inzage in het Geïntegreerd Beheers- en Controlesysteem.<br /><br />Zij delen de daarin opgenomen gegevens niet mee aan anderen dan diegenen die gerechtigd zijn er kennis van te nemen.<br /><br />§ 6. Elke kapitaalschadecommissie kan in het kader van haar opdracht een beroep doen op deskundigen om de adviezen in te winnen die zij nuttig acht.<br /><br />§ 7. De Vlaamse Regering stelt op voorstel van de Vlaamse Landmaatschappij een deontologische code vast voor de leden van de kapitaalschadecommissies. Deze code omvat het geheel van beginselen, gedragsregels, richtlijnen en principes, die de leden van de kapitaalschadecommissies tot leidraad dienen bij de uitoefening van hun mandaat.<br /><br />§ 8. De Vlaamse Landmaatschappij verzorgt het secretariaat van de kapitaalschadecommissies.<br /><br />§ 9. De kosten verbonden aan de werkzaamheden van de kapitaalschadecommissies en het secretariaat komen ten laste van de begroting van de Vlaamse Landmaatschappij, onder de voorwaarden als omschreven in de beheersovereenkomst met de Vlaamse Regering.<br /><br />
+...
 
 ## TITEL 2 Bestemmingswijzigingscompensatie
 
@@ -750,79 +750,92 @@ Het Vlaamse Gewest voorziet jaarlijks in een bijzondere dotatie aan de Vlaamse L
 
 ### ART. 6.2.3.
 
-De Vlaamse Landmaatschappij is belast met de behandeling van aanvragen voor een bestemmingswijzigingscompensatie en met de vereffening van de bedragen verbonden aan de beslissingen houdende de toekenning van een bestemmingswijzigingscompensatie.<br /><br />
+...
 
 ## HOOFDSTUK 3 Perceelsgebonden
 
 ### ART. 6.2.4.
 
-Een bestemmingswijzigingscompensatie wordt toegekend voor een perceel dat   voldoet aan beide hiernavolgende voorwaarden :<BR>1° het perceel is in het   kalenderjaar voorafgaand aan het jaar waarin het ruimtelijk uitvoeringsplan of   het plan van aanleg definitief wordt vastgesteld of aangenomen, geregistreerd in   het Geïntegreerd Beheers- en Controlesysteem, uitgezonderd de percelen die   geregistreerd worden binnen de teeltgroep `geen cultuurgrond';<BR>2° het perceel   heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep van   getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten   minste 0,5 hectare.<BR><BR>
+Een bestemmingswijzigingscompensatie wordt toegekend voor een perceel dat voldoet aan beide hiernavolgende voorwaarden :<br>
+1° het perceel is in het kalenderjaar voorafgaand aan het jaar waarin het ruimtelijk uitvoeringsplan of het plan van aanleg definitief wordt vastgesteld of aangenomen, geregistreerd in het Geïntegreerd Beheers- en Controlesysteem, uitgezonderd de percelen die geregistreerd worden binnen de teeltgroep `geen cultuurgrond';<br>
+2° het perceel heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep van getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.<br>
+<br>
+De bestemmingswijzigingscompensatie wordt geregeld in titel 2, hoofdstuk 1 tot en met 4 en hoofdstuk 6, van het Instrumentendecreet van 26 mei 2023.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 [... (opgeh. decr. 26 mei 2023, art. 50)]
 
 ### ART. 6.2.5.
 
-Een bestemmingswijzigingscompensatie bedraagt tachtig procent van de waardevermindering, die op basis van het kapitaalschaderapport berekend wordt door de gemiddelde venale waarde van het perceel te vermenigvuldigen met een waardeverminderingscoëfficiënt.<br /><br />
+...
 
 ## HOOFDSTUK 5 Subsidiair
 
 ### ART. 6.2.6.
 
-Een planschadevergoeding, vermeld in artikel 2.6.1 van de Vlaamse Codex Ruimtelijke Ordening, kan niet worden verleend ten aanzien van kapitaalschade die in aanmerking komt voor een bestemmingswijzigingscompensatie.<br /><br />
+...
 
 ### ART. 6.2.7.
 
-Indien een perceel na de toekenning van een bestemmingswijzigingscompensatie wordt onteigend voor de verwezenlijking van het ruimtelijk uitvoeringsplan of het plan van aanleg dat de gedekte kapitaalschade heeft doen ontstaan, wordt het bedrag van de onteigeningsvergoeding verminderd met het bedrag van de bestemmingswijzigingscompensatie.<br /><br />
+...
 
 ### ART. 6.2.8.
 
-Onverminderd artikel 6.2.7 geldt dat lopende betalingen worden stopgezet en reeds betaalde tranches teruggevorderd worden, indien de door een bestemmingswijzigingscompensatie reeds gedekte waardevermindering gecompenseerd wordt door middel van de toepassing van een publiekrechtelijk instrument van het grond- en pandenbeleid.<br /><br />
+...
 
 ### ART. 6.2.9.
 
-Indien in een periode van vijf jaar voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan of het plan van aanleg verwervingssubsidies verkregen zijn, wordt het bedrag van deze subsidies in mindering gebracht van de bestemmingswijzigingscompensatie.<br /><br />
+...
 
 ### ART. 6.2.9/1.
 
-Als het perceel is opgenomen in een grondruilplan als vermeld in artikel   2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting is geen   bestemmingswijzigingscompensatie van toepassing op dat perceel.
+...
 
 ### ART. 6.2.10.
 
-§ 1. De Vlaamse Grondenbank kan naar aanleiding van een aanvraag voor een bestemmingswijzigingscompensatie een aanbod doen tot ruil van een gelijkwaardige grond.<br /><br />Indien de naakte eigenaar van het getroffen perceel, die dit perceel niet effectief gebruikt, dat aanbod weigert, vervallen zijn aanspraken op een bestemmingswijzigingscompensatie.<br /><br />In elk ander geval leidt de weigering van het aanbod niet tot het verval van de aanspraken op een bestemmingswijzigingscompensatie.<br /><br />§ 2. De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van § 1.<br /><br />
+De Vlaamse Grondenbank kan naar aanleiding van een aanvraag voor een bestemmingswijzigingscompensatie een aanbod doen om de grond te ruilen met een gelijkwaardige grond.
 
 ## HOOFDSTUK 6. [... (opgeh. decr. 26 mei 2023, art. 52)]
 
 ### ART. 6.2.11.
 
-Een bestemmingswijzigingscompensatie kan slechts worden aangevraagd door   de eigenaar die op het ogenblik van de inwerkingtreding van de   bestemmingswijziging titularis is van ten minste het naakte eigendomsrecht op   het perceel, of aan de eigenaar waaraan dit eigendomsrecht of naakt   eigendomsrecht kosteloos of ingevolge erfopvolging of testament wordt   overgedragen.<BR><BR>Een bestemmingswijzigingscompensatie kan evenwel niet   worden aangevraagd door het Vlaamse Gewest en de diensten, instellingen,   besturen en vennootschappen, vermeld in artikel 2.1.2, § 2, tweede, derde en   vierde lid, van de Vlaamse Codex Ruimtelijke Ordening.<BR><BR>Het recht op   bestemmingswijzigingscompensatie ontstaat ofwel bij een overdracht onder   bezwarende titel van het goed, ofwel bij inbreng van het goed in een   vennootschap.
+...
 
 ## HOOFDSTUK 7 [... (opgeh. decr. 26 mei 2023, art. 52)]
 
 ### ART. 6.2.12.
 
-Aanvragen voor een bestemmingswijzigingscompensatie worden bij de Vlaamse Landmaatschappij ingediend binnen een door de Vlaamse Regering bepaalde vervaltermijn.<br /><br />
+...
 
 ### ART. 6.2.13.
 
-De Vlaamse Landmaatschappij stelt de aanvrager per beveiligde zending in kennis van haar ontwerpbeslissing. De aanvrager kan bezwaren omtrent deze ontwerpbeslissing formuleren binnen een door de Vlaamse Regering te bepalen vervaltermijn.<br /><br />Indien geen tijdig bezwaar is ingediend, neemt de Vlaamse Landmaatschappij onmiddellijk een definitieve beslissing. Zij stelt de aanvrager daarvan per beveiligde zending in kennis.<br /><br />In het geval van een tijdig ingediend bezwaar stelt de Vlaamse Landmaatschappij een onderzoek in naar de gegrondheid van de zienswijzen van de aanvrager. In zoverre het bezwaar betrekking heeft op het kapitaalschaderapport van de kapitaalschadecommissie, kan zij de kapitaalschadecommissie horen, haar bevelen een aanvullend onderzoek te verrichten en haar desgevallend opdragen het kapitaalschaderapport dienovereenkomstig aan te passen. De Vlaamse Landmaatschappij neemt na de behandeling van het bezwaar een definitieve beslissing en stelt de aanvrager daarvan per beveiligde zending in kennis.<br /><br />
+...
 
 ### ART. 6.2.14.
 
-De Vlaamse Regering kan nadere materiële, methodologische en procedurele regelen bepalen betreffende :<br />1° de wijze van aanvraag van een bestemmingswijzigingscompensatie;<br />2° de wijze van behandeling van de aanvraag en eventuele bezwaren door de Vlaamse Landmaatschappij;<br />3° de wijze van uitbetaling van de bestemmingswijzigingscompensatie en de uitbetalingstermijnen.<br /><br />
+...
 
 ## TITEL 3 Compensatie ingevolge beschermingsvoorschriften
 
 ### ART. 6.3.1.
 
-Een compensatie ingevolge beschermingsvoorschriften is een gewestelijke, perceelsgebonden, financiële en subsidiaire compensatie voor de kapitaalschade ten gevolge van gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen, plannen van aanleg of gewestelijke, provinciale of gemeentelijke beschikkingen houdende het opleggen van een erfdienstbaarheid tot openbaar nut, dewelke op een agrarisch gebied of op een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, meer beperkingen op het vlak van de economische aanwending van de grond opleggen dan redelijkerwijs geduld moet worden in het algemeen belang en ter vrijwaring van de op de vooravond van de beperkingen bestaande basismilieukwaliteit, zijnde de kwaliteit die wordt bereikt door het naleven van de gebruikelijke goede landbouwmethoden, door de naleving van de eisen gesteld in de artikelen 3, 4 en 5 van de verordening (EG) nr. 1782/2003 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, en door de naleving van de voorschriften van de Vlaamse regelgeving omtrent milieu en natuur.<br /><br />Indien de kapitaalschade voortvloeit uit een ruimtelijk uitvoeringsplan of een plan van aanleg, is aan het criterium, vermeld in het eerste lid, slechts voldaan, en wordt de compensatie ingevolge beschermingsvoorschriften slechts toegekend, indien beide hiernavolgende vereisten zijn vervuld :<br />1° de aangebrachte overdruk betreft een nieuwe overdruk die nieuwe beschermingsvoorschriften betreffende inrichting en beheer oplegt;<br />2° de aangebrachte overdruk betreft de overdruk « ecologisch belang », « ecologische waarde », « overstromingsgebied », « reservaat » of « valleigebied », of een vergelijkbare, door de Vlaamse Regering aangewezen, overdruk.<br /><br />Indien de kapitaalschade voortvloeit uit een beschikking houdende het opleggen van een erfdienstbaarheid tot openbaar nut, wordt de compensatie ingevolge beschermingsvoorschriften slechts toegekend indien de Vlaamse Landmaatschappij op grond van een advies van de territoriaal bevoegde kapitaalschadecommissie oordeelt dat deze erfdienstbaarheid tot openbaar nut voldoet aan het criterium, vermeld in het eerste lid. Indien de erfdienstbaarheid tot openbaar nut opgelegd wordt door de Vlaamse Regering, wordt deze afweging door de Vlaamse Regering zelf gemaakt, eveneens op grond van een advies van de territoriaal bevoegde kapitaalschadecommissie.<br /><br />
+Een compensatie ingevolge beschermingsvoorschriften is een gewestelijke, perceelsgebonden, financiële en subsidiaire compensatie voor de kapitaalschade ten gevolge van gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen, plannen van aanleg of gewestelijke, provinciale of gemeentelijke beschikkingen houdende het opleggen van een erfdienstbaarheid tot openbaar nut, dewelke op een agrarisch gebied of op een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, meer beperkingen op het vlak van de economische aanwending van de grond opleggen dan redelijkerwijs geduld moet worden in het algemeen belang en ter vrijwaring van de op de vooravond van de beperkingen bestaande basismilieukwaliteit, zijnde de kwaliteit die wordt bereikt door het naleven van de gebruikelijke goede landbouwmethoden, door de naleving van de eisen gesteld in de artikelen 3, 4 en 5 van de verordening (EG) nr. 1782/2003 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, en door de naleving van de voorschriften van de Vlaamse regelgeving omtrent milieu en natuur.<br>
+<br>
+Indien de kapitaalschade voortvloeit uit een ruimtelijk uitvoeringsplan of een plan van aanleg, is aan het criterium, vermeld in het eerste lid, slechts voldaan, en wordt de compensatie ingevolge beschermingsvoorschriften slechts toegekend, indien beide hiernavolgende vereisten zijn vervuld :<br>
+1° de aangebrachte overdruk betreft een nieuwe overdruk die nieuwe beschermingsvoorschriften betreffende inrichting en beheer oplegt;<br>
+2° de aangebrachte overdruk betreft de overdruk « ecologisch belang », « ecologische waarde », « overstromingsgebied », « reservaat » of « valleigebied », of een vergelijkbare, door de Vlaamse Regering aangewezen, overdruk.<br>
+<br>
+De compensatie ingevolge beschermingsvoorschriften wordt geregeld in titel 2, hoofdstuk 1 tot en met 4 en hoofdstuk 6, van het Instrumentendecreet van 26 mei 2023.<br>
+&nbsp;
 
 ### ART. 6.3.2.
 
-Het Vlaamse Gewest voorziet jaarlijks in een bijzondere dotatie aan de Vlaamse Landmaatschappij voor de bekostiging van de uitzonderlijke compensatie ingevolge beschermingsvoorschriften. Ook de overeenkomstige toepassing van artikel 6.2.10 komt ten laste van deze bijzondere dotatie.<br /><br />De Vlaamse Landmaatschappij is belast met de behandeling van aanvragen voor een compensatie ingevolge beschermingsvoorschriften en met de vereffening van de bedragen verbonden aan de beslissingen houdende de toekenning van een compensatie ingevolge beschermingsvoorschriften.<br /><br />
+Het Vlaamse Gewest voorziet jaarlijks in een bijzondere dotatie aan de Vlaamse Landmaatschappij voor de bekostiging van de uitzonderlijke compensatie ingevolge beschermingsvoorschriften. Ook de overeenkomstige toepassing van artikel 6.2.10 komt ten laste van deze bijzondere dotatie.<br>
+&nbsp;
 
 ### ART. 6.3.3.
 
-De voorwaarden en procedureregelen van artikelen 6.2.4 tot 6.2.14 zijn van overeenkomstige toepassing.<br /><br />
+De voorwaarden, vermeld in artikel 6.2.4, eerste lid, zijn van overeenkomstige toepassing.
 
 ## BOEK 7 SLOTBEPALINGEN
 

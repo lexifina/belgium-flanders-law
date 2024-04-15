@@ -2,16 +2,16 @@
   "codex_id": 1017900,
   "title": "Decreet van 2009-03-27 betreffende het grond- en pandenbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017900/VolledigDocument?datum=2023-11-01",
-  "source_sha256": "08b03a775db5dac7ec30fd054a851300b8d78217e77ba90bbc7c01fc6eaaf083",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017900/VolledigDocument?datum=2024-04-15",
+  "source_sha256": "3a1d06d2eb17813b5062e36ff70d47cbcc6ea14be22e87a160ff181ce2d02a13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017900&param=informatie",
-  "as_of": "2023-11-01",
+  "as_of": "2024-04-15",
   "made": "2009-03-27",
   "gazette": "2009-05-15",
   "numac": 2009035411,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2023-11-01",
+  "in_force": "2024-04-15",
   "article_versions": 181,
-  "record_form": "consolidated version as in force on 2023-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-15; future article versions excluded; article text as the API gives it"
 }
