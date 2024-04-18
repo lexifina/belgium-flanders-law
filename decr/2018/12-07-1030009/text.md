@@ -542,9 +542,9 @@ De Vlaamse Regering stelt de nadere bepalingen vast voor de toepassing van dit a
 
 De uitzonderingen, vermeld in deze afdeling, worden geval per geval restrictief uitgelegd.<br>
 <br>
-De uitzonderingen, vermeld in deze afdeling, gelden met behoud van de toepassing van de andere uitzonderingen die bij de wet, het decreet of de ordonnantie bepaald zijn en die verband houden met de uitoefening van de bevoegdheden van de federale overheid of andere gemeenschappen of gewesten.<br>
+De instanties, vermeld in artikel II.28, §1, passen bij het beoordelen van een aanvraag tot openbaarmaking ook de toepasselijke bepalingen van wetten, decreten of ordonnanties toe, in de mate dat ze de openbaarmaking van bestuursdocumenten verbieden of beperken op gronden die tot de bevoegdheid van de federale overheid of van andere gemeenschappen of gewesten behoren.<br>
 <br>
-De uitzonderingen, vermeld in deze afdeling, gelden ook voor de administratieve overheden van andere gemeenschappen en gewesten en op federaal niveau in de mate dat die uitzonderingen de openbaarheid van bestuursdocumenten verbieden of beperken op gronden die tot de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest behoren.
+De uitzonderingen, bepaald door of krachtens decreten, gelden ook voor de administratieve overheden van andere gemeenschappen en gewesten en op federaal niveau in de mate dat die uitzonderingen de openbaarheid van bestuursdocumenten verbieden of beperken op gronden die tot de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest behoren.
 
 ## Afdeling 4. De aanvraagprocedure
 
