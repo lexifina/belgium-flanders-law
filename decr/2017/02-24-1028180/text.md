@@ -66,7 +66,7 @@ e) de Maatschappij Linkerscheldeoever, vermeld in de wet van 19 juni 1978 betref
 f) de Vlaamse Maatschappij voor Watervoorziening, vermeld in het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening;<br>
 g) de exploitanten van de waterwinning, zoals bedoeld in het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
 h) de Universiteit Antwerpen, vermeld in het decreet van 22 december 1995 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen;<br>
-i) de sociale huisvestingsmaatschappijen, vermeld in de Vlaamse Codex Wonen van 2021;<br>
+i) de woonmaatschappijen, vermeld in de Vlaamse Codex Wonen van 2021;<br>
 j) de nv Mijnschade en Bemaling Limburgs Mijngebied, vermeld in het decreet van 19 december 1997 houdende oprichting van de naamloze vennootschap Mijnschade en Bemaling Limburgs Mijngebied;<br>
 k) het Gemeenschapsonderwijs, vermeld in het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
 l) de exploitanten van een openbaar waterdistributienetwerk, vermeld in het decreet van van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
