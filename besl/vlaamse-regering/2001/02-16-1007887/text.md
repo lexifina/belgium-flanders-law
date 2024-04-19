@@ -24,18 +24,18 @@ De oppervlakte van de compenserende bebossing moet overeenkomstig artikel   90bi
 
 ### ART. 5.
 
-§ 1. De bosbehoudsbijdrage is gelijk aan de grootte van de gelijkwaardige compenserende bebossing zoals bepaald in artikel 4, uitgedrukt in m2, vermenigvuldigd met 3,50 euro/m2.<br>
+§ 1. De bosbehoudsbijdrage is gelijk aan de grootte van de gelijkwaardige compenserende bebossing zoals bepaald in artikel 4, uitgedrukt in m2, vermenigvuldigd met 5,60 euro per m².<br>
 <br>
-In het geval van artikel 3, 5° is de bosbehoudsbijdrage gelijk aan de vermenigvuldiging van 3,50 euro/m2 met het resultaat van, de oppervlakte van de compenserende bebossing, uitgedrukt in vierkante meter, waarvan de grootte berekend is krachtens artikel 4, verminderd met de oppervlakte van de voorgestelde compenserende bebossing, uitgedrukt in vierkante meter.<br>
+In het geval van artikel 3, 5° is de bosbehoudsbijdrage gelijk aan de vermenigvuldiging van 5,60 euro per m² met het resultaat van, de oppervlakte van de compenserende bebossing, uitgedrukt in vierkante meter, waarvan de grootte berekend is krachtens artikel 4, verminderd met de oppervlakte van de voorgestelde compenserende bebossing, uitgedrukt in vierkante meter.<br>
 <br>
-§ 2. Het in paragraaf 1 vermelde bedrag in euro/m² wordt in de maand juli van het jaar 2017 en vervolgens in de daaropvolgende jaren in de maand juli jaarlijks aangepast aan de gezondheidsindex, volgens de formule:<br>
-zx = (z*ix)/i2017<br>
+§ 2. Het in paragraaf 1 vermelde bedrag in euro/m² wordt in de maand juli van het jaar 2024 en vervolgens in de daaropvolgende jaren in de maand juli jaarlijks aangepast aan de gezondheidsindex, volgens de formule:<br>
+zx = (z*ix)/i2024<br>
 <br>
 De variabelen in de formule vermeld in het eerste lid moeten als volgt worden begrepen:<br>
 1° zx: geïndexeerde financiële boscompensatie voor het werkingsjaar x;<br>
 2° z: bedrag in euro/m², vermeld in paragraaf 1;<br>
 3° ix: gezondheidsindex van de maand juni van het jaar x;<br>
-4° i2017: gezondheidsindex van de maand juni van het jaar 2017.<br>
+4° i2024: gezondheidsindex van de maand juni van het jaar 2024.<br>
 <br>
 Onder de gezondheidsindex, vermeld in het eerste lid, wordt verstaan: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 

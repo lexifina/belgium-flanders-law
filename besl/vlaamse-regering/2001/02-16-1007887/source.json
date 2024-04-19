@@ -2,16 +2,16 @@
   "codex_id": 1007887,
   "title": "Besluit van de Vlaamse Regering van 2001-02-16 tot vaststelling van nadere regels inzake compensatie van ontbossing en ontheffing van het verbod op ontbossing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007887/VolledigDocument?datum=2017-05-07",
-  "source_sha256": "55292c86c07e3950762dedbc19cc215b6a828741c7dd8e492fe008900b6f97b6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007887/VolledigDocument?datum=2024-04-19",
+  "source_sha256": "3e5657c65130fd949188b58d8358d0a7f206fa35d37738626020f9703e650a58",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007887&param=informatie",
-  "as_of": "2017-05-07",
+  "as_of": "2024-04-19",
   "made": "2001-02-16",
   "gazette": "2001-03-23",
   "numac": 2001035281,
   "document_start": "2001-03-23",
   "document_end": null,
-  "in_force": "2017-05-07",
+  "in_force": "2024-04-19",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2017-05-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-19; future article versions excluded; article text as the API gives it"
 }
