@@ -151,7 +151,7 @@ b) de sociale huurwoningen en/of sociale koopwoningen worden zodanig geïntegree
 71° woonreservegebied: de als dusdanig op een plan van aanleg aangewezen gebieden;<br>
 72° woonuitbreidingsgebied: de gebieden, aangewezen in een plan van aanleg op grond van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen;<br>
 73° woonwagen: een woongelegenheid, gekenmerkt door flexibiliteit en verplaatsbaarheid, bestemd voor permanente en niet-recreatieve bewoning;<br>
-74° woonwagenbewoners: de personen, vermeld in artikel 3, 2°, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+74° ...;<br>
 75° zorgvoorziening: een voorziening van een door de Vlaamse Gemeenschap erkende organisatie die activiteiten uitoefent op het domein van de zorgverstrekking, de gezondheidsopvoeding, de preventieve gezondheidszorg, het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de personen met een handicap, de ouderen, de jeugdbescherming of de sociale hulpverlening aan gedetineerden met het oog op hun sociale reintegratie, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van organisaties die activiteiten uitoefenen op het domein van het medisch verantwoord sporten en centra voor leerlingenbegeleiding.<br>
 <br>
 De Vlaamse Regering kan de betekenis van bovengenoemde begrippen nader omschrijven, met uitzondering van de punten 3°, 6°, 11°, 12°, 14°, 15°, 20°, 26°, 32°, 39°, 40°, 43°, 45°, 46°, 47°, 60°, 61°, 62°, 68°, 71°, 72°, 74° en 75°.<br>
@@ -307,19 +307,19 @@ Voor de toepassing van artikel 20, § 5, tweede lid, van het kaderdecreet Bestuu
 
 ### ART 2.10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden of gedurende een kortere termijn die bepaald wordt met toepassing van het vierde lid. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. </span></span></span><br>
+<p>§1. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden of gedurende een kortere termijn die bepaald wordt met toepassing van het vierde lid. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan uitgereikte omgevingsvergunning of meldingsakte als vermeld in artikel 6 van het decreet van 25 april 2014 betreffende de omgevingsvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.</span></span></span><br>
+De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan uitgereikte omgevingsvergunning of meldingsakte als vermeld in artikel 6 van het decreet van 25 april 2014 betreffende de omgevingsvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br>
+Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br>
 <br>
-Een gemeente kan bij verordening een kortere termijn als vermeld in het eerste lid bepalen voor gebouwen die in hoofdzaak gediend hebben voor een economische activiteit als vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten. Die kortere termijn kan, op voorwaarde van een zorgvuldige motivering, gelden voor het volledige grondgebied van de gemeente of voor afgebakende zones waarin de gemeente economische bedrijvigheid wil stimuleren. </span></span></span><br>
+Een gemeente kan bij verordening een kortere termijn als vermeld in het eerste lid bepalen voor gebouwen die in hoofdzaak gediend hebben voor een economische activiteit als vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten. Die kortere termijn kan, op voorwaarde van een zorgvuldige motivering, gelden voor het volledige grondgebied van de gemeente of voor afgebakende zones waarin de gemeente economische bedrijvigheid wil stimuleren.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. Een woning wordt als leegstaand beschouwd wanneer zij gedurende een termijn van ten minste twaalf opeenvolgende maanden niet aangewend wordt in overeenstemming met:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° hetzij de woonfunctie;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° hetzij elke andere bij gemeentelijke verordening omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt. </span></span></span><br>
+§2. Een woning wordt als leegstaand beschouwd wanneer zij gedurende een termijn van ten minste twaalf opeenvolgende maanden niet aangewend wordt in overeenstemming met:<br>
+1° hetzij de woonfunctie die blijkt uit een omgevingsvergunning of meldingsakte als vermeld in artikel 6 van het decreet van 25 april 2014 betreffende de omgevingsvergunning die voor die woning is uitgereikt. Bij een woning waarvoor er geen vergunning of melding is, of waarvan de functie niet duidelijk blijkt uit een vergunning of melding, wordt de functie afgeleid uit het gewoonlijk gebruik van de woning dat voorafging aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden;<br>
+2° hetzij elke andere bij gemeentelijke verordening omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. In afwijking van paragraaf 1 en 2, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een omgevingsvergunning voor stedenbouwkundige handelingen in laatste administratieve aanleg niet aangewend wordt overeenkomstig paragraaf 1, eerste en tweede lid, respectievelijk paragraaf 2.</span></span></span></p>
+§3. In afwijking van paragraaf 1 en 2, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een omgevingsvergunning voor stedenbouwkundige handelingen in laatste administratieve aanleg niet aangewend wordt overeenkomstig paragraaf 1, eerste en tweede lid, respectievelijk paragraaf 2.</p>
 
 ### ART 2.11.
 
@@ -682,18 +682,18 @@ Er wordt een beoordelingscommissie opgericht. De beoordelingscommissie neemt bes
 
 ### ART 2.34.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. Dit artikel is van toepassing in geval van een vrijwillige samenvoeging van gemeenten als vermeld in het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016.</span></span></span></span><br>
+<p>§1. Dit artikel is van toepassing in geval van een samenvoeging van gemeenten als vermeld in deel 2, titel 8 en 9, van het decreet van 22 december 2017 over het lokaal bestuur, waarbij de samenvoegingsdatum vastgesteld wordt op een latere datum dan 1 januari 2019.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">In dit artikel wordt verstaan onder:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° nieuwe gemeente: de nieuwe gemeente, vermeld in artikel 5, 5°, van het voormelde decreet;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° samengevoegde gemeenten: de samengevoegde gemeenten, vermeld in artikel 5, 4°, van het voormelde decreet;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° samenvoegingsdatum: de samenvoegingsdatum, vermeld in artikel 5, 2°, van het voormelde decreet.</span></span></span></span><br>
+In dit artikel wordt verstaan onder:<br>
+1° nieuwe gemeente: de nieuwe gemeente, vermeld in artikel 343, 2°, van het voormelde decreet;<br>
+2° samengevoegde gemeenten: de samengevoegde gemeenten, vermeld in artikel 343, 4°, van het voormelde decreet;<br>
+3° samenvoegingsdatum: de samenvoegingsdatum, vermeld in artikel 343, 8°, van het voormelde decreet.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. Het bestaande sociaal woonaanbod in de nulmeting, vermeld in artikel 2.26, wordt voor een nieuwe gemeente vanaf de samenvoegingsdatum geacht gelijk te zijn aan de som van het bestaande sociaal woonaanbod in de nulmeting binnen de samengevoegde gemeenten.</span></span></span></span><br>
+§2. Het bestaande sociaal woonaanbod in de nulmeting, vermeld in artikel 2.26, wordt voor een nieuwe gemeente vanaf de samenvoegingsdatum geacht gelijk te zijn aan de som van het bestaande sociaal woonaanbod in de nulmeting binnen de samengevoegde gemeenten.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§3. Voor een nieuwe gemeente is het bindend sociaal objectief, vermeld in artikel 2.27, vanaf de samenvoegingsdatum gelijk aan de som van de bindende sociale objectieven van de samengevoegde gemeenten, inclusief de specifieke inhaalbeweging, vermeld in artikel 2.32, die in voorkomend geval aan een of meer van de samengevoegde gemeenten is opgelegd.</span></span></span></span><br>
+§3. Voor een nieuwe gemeente is het bindend sociaal objectief, vermeld in artikel 2.27, vanaf de samenvoegingsdatum gelijk aan de som van de bindende sociale objectieven van de samengevoegde gemeenten, inclusief de specifieke inhaalbeweging, vermeld in artikel 2.32, die in voorkomend geval aan een of meer van de samengevoegde gemeenten is opgelegd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Een vrijstelling of vermindering van de specifieke inhaalbeweging, vermeld in artikel 2.32, die voor de samenvoegingsdatum is toegekend aan een of meer van de samengevoegde gemeenten, blijft behouden.</span></span></span></span></p>
+Een vrijstelling of vermindering van de specifieke inhaalbeweging, vermeld in artikel 2.32, die voor de samenvoegingsdatum is toegekend aan een of meer van de samengevoegde gemeenten, blijft behouden.</p>
 
 ## Titel 4. Standplaatsen voor woonwagens
 
@@ -823,23 +823,23 @@ In dit artikel wordt verstaan onder kamerwoning: elk gebouw of deel ervan dat be
 
 ### ART 3.5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan voorwaarden vastleggen waaraan kandidaat-controleurs van de kwaliteit van woningen moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° diploma's en opleiding;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° beroepskennis en -ervaring;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° de onafhankelijke wijze van handelen van de controleur ten aanzien van opdrachtgevers en commerciële belangen.</span></span></span></span><br>
+<p>De Vlaamse Regering kan voorwaarden vastleggen waaraan kandidaat-controleurs van de kwaliteit van woningen moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op:<br>
+1° diploma's en opleiding;<br>
+2° beroepskennis en -ervaring;<br>
+3° de onafhankelijke wijze van handelen van de controleur ten aanzien van opdrachtgevers en commerciële belangen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° categorieën van controleurs bepalen;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° de procedure voor de erkenning van de controleurs bepalen;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vaststellen;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">4° voorwaarden koppelen aan de opheffing van een schorsing;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">5° kwaliteitseisen vastleggen en de instantie aanwijzen die belast is met de controle op de werkzaamheden van controleurs.</span></span></span></span><br>
+De Vlaamse Regering kan:<br>
+1° categorieën van controleurs bepalen;<br>
+2° de procedure en de voorwaarden voor de erkenning van de controleurs bepalen;<br>
+3° de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vaststellen;<br>
+4° voorwaarden koppelen aan de opheffing van een schorsing;<br>
+5° kwaliteitseisen vastleggen en de instantie aanwijzen die belast is met de controle op de werkzaamheden van controleurs.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen voor de controleurs dienen te voldoen en kan ook voorwaarden vastleggen waaraan de lesgevers van een opleidingsinstelling moeten voldoen.</span></span></span></span><br>
+De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen voor de controleurs dienen te voldoen en kan ook voorwaarden vastleggen waaraan de lesgevers van een opleidingsinstelling moeten voldoen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan de procedure voor de erkenning van de opleidingsinstellingen en de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vastleggen. De Vlaamse Regering kan ook kwaliteitseisen vastleggen voor de opleiding en de lesgevers en wijst de instantie aan die belast is met de controle op hun werkzaamheden.</span></span></span></span><br>
+De Vlaamse Regering kan de procedure voor de erkenning van de opleidingsinstellingen en de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vastleggen. De Vlaamse Regering kan ook kwaliteitseisen vastleggen voor de opleiding en de lesgevers en wijst de instantie aan die belast is met de controle op hun werkzaamheden.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan tevens de inhoud van de door de erkende opleidingsinstellingen aan de controleurs te verstrekken opleidingen bepalen.</span></span></span></span></p>
+De Vlaamse Regering kan tevens de inhoud van de door de erkende opleidingsinstellingen aan de controleurs te verstrekken opleidingen bepalen.</p>
 
 ## Deel 3. Conformiteitsattest
 
@@ -1634,7 +1634,7 @@ In het eerste lid wordt onder initiatiefnemer verstaan de initiatiefnemers, verm
 <br>
 §3. In het geval, vermeld in paragraaf 1, 1°, neemt de VMSW de onderhuurovereenkomsten die gesloten zijn tussen de&nbsp;woonmaatschappij&nbsp;en een of meer onderhuurders van een sociale huurwoning over.<br>
 <br>
-De VMSW kan in de gevallen, vermeld in paragraaf 1, 1°, en in paragraaf 2, de woningen die het voorwerp uitmaken van de overgenomen overeenkomst opnieuw onderverhuren aan een of meer huurders die het goed gebruiken als hoofdverblijfplaats. De VMSW doet voor de toewijzing aan nieuwe onderhuurders een beroep op het kandidatenregister, vermeld in boek 6, deel 3, van de woonmaatschappij. Bij de toewijzing van de sociale huurwoning past ze de methodiek toe die de woonmaatschappijen&nbsp;hanteren.<br>
+De VMSW kan in de gevallen, vermeld in paragraaf 1, 1°, en in paragraaf 2, de woningen die het voorwerp uitmaken van de overgenomen overeenkomst opnieuw onderverhuren aan een of meer huurders die het goed gebruiken als hoofdverblijfplaats. De VMSW doet voor de toewijzing aan nieuwe onderhuurders een beroep op het centraal inschrijvingsregister, vermeld in artikel 6.5. Bij de toewijzing van de sociale huurwoning past ze de methodiek toe die de woonmaatschappijen&nbsp;hanteren.<br>
 <br>
 In het geval, vermeld in paragraaf 1, 2°, neemt de woonmaatschappij die de huurovereenkomsten van de VMSW heeft overgenomen, de onderhuurovereenkomsten over die de VMSW had overgenomen of heeft gesloten. Het kandidatenregister, vermeld in boek 6, deel 3, van de oorspronkelijke woonmaatschappij wordt samengevoegd met het eigen kandidatenregister van de woonmaatschappij. De Vlaamse Regering bepaalt de voorwaarden om de registers samen te voegen.</p>
 
@@ -2258,7 +2258,7 @@ De Vlaamse Regering kan, binnen de perken van de kredieten die daarvoor op de be
 
 ### ART 4.60.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De coöperatieve vennootschap "Vlaams Woningfonds", hierna VWF te noemen, wordt erkend als sociale woonorganisatie. </span></span>
+De vennootschap "Vlaams Woningfonds", hierna VWF te noemen, wordt erkend als sociale woonorganisatie.
 
 ### ART 4.61.
 
