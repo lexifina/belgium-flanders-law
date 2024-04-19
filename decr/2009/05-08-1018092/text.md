@@ -388,7 +388,7 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 137/1° warmtepomp: voor wat de toepassing van titel VII, hoofdstuk VII, en titel X en XI betreft, een machine, toestel of installatie dat/die warmte uit de natuurlijke omgeving, zoals de lucht, het water of de bodem overdraagt aan gebouwen of industriële installaties door de natuurlijke warmtestroming om te keren van een lagere naar een hogere temperatuur of waar bij omkeerbare warmtepompen de warmtestroming ook van het gebouw naar de natuurlijke omgeving kan plaatsvinden;<br>
 137° /2 welzijnsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de mindervaliden, de bejaarden, de jeugdbescherming en de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br>
-138° /0 Wonen-Vlaanderen: het intern verzelfstandigd agentschap dat is opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
+138° /0 Wonen in Vlaanderen: het intern verzelfstandigd agentschap dat is opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen;<br>
 138/1° Woningbouwwet: de wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen;<br>
 139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren;<br>
 139° /1 zelfverbruik van energie: het zelf produceren en vervolgens momentaan verbruiken of opslaan van energie zonder dat de energie in het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een warmtenet of koudenet geïnjecteerd wordt;<br>
@@ -3542,15 +3542,15 @@ Voor de verwerking van persoonsgegevens in het kader van het beheer van leningen
 <br>
 De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de energiehuizen en het VEKA.<br>
 <br>
-§3. In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 1°, kunnen de energiehuizen de volgende categorieën van persoonsgegevens aan Wonen-Vlaanderen bezorgen:<br>
+§3. In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 1°, of om Wonen in Vlaanderen de mogelijkheid te bieden na te gaan of een aanvrager of begunstigde van de subsidies, vermeld in artikel 5.52/1 van de Vlaamse Codex Wonen van 2021, voldoet aan de voor- waarden die de Vlaamse Regering vaststelt ter uitvoering van artikel 5.52/1, derde lid, van de voormelde codex, kunnen de energiehuizen de volgende categorieën van persoonsgegevens aan Wonen in Vlaanderen bezorgen:<br>
 1° de identificatiegegevens van de kredietnemers;<br>
 2° de identificatiegegevens en het type van het gebouw of de gebouweenheid; 3° de voorwaarden en kenmerken van de toegekende lening.<br>
 <br>
-De Vlaamse Regering kan bepalen voor welk type lening die persoonsgegevens aan Wonen-Vlaanderen moeten worden bezorgd.<br>
+De Vlaamse Regering kan bepalen voor welk type lening die persoonsgegevens aan Wonen in Vlaanderen moeten worden bezorgd.<br>
 <br>
-Voor de verdere verwerking van de persoonsgegevens, vermeld in het eerste lid, in het kader van de controle op de naleving van de leningsvoorwaarden die de Vlaamse Regering krachtens de Vlaamse Codex Wonen van 2021 vaststelt, is Wonen-Vlaanderen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+Voor de verdere verwerking van de persoonsgegevens, vermeld in het eerste lid, in het kader van de controle op de naleving van de leningsvoorwaarden die de Vlaamse Regering krachtens de Vlaamse Codex Wonen van 2021 vaststelt, is Wonen in Vlaanderen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
 &nbsp;<br>
-De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de energiehuizen en Wonen-Vlaanderen.<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de energiehuizen en Wonen in Vlaanderen.<br>
 <br>
 §4. In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 2°, 3° en 4°, kunnen de energiehuizen van hun klanten in hun werkingsgebied de volgende persoonsgegevens of categorieën van persoonsgegevens opvragen en verwerken:<br>
 1° &nbsp;&nbsp; &nbsp;de gegevens over een aansluiting op het elektriciteitsdistributienet met toepassing van het uitsluitend nachttarief;<br>
@@ -4020,7 +4020,7 @@ De databank, vermeld in het eerste lid, heeft de volgende doelstellingen:<br>
 8° informatie ter beschikking stellen om natuurlijke personen en rechtspersonen actief te kunnen informeren over premies en subsidies;<br>
 9° energiefraude opsporen en detecteren.<br>
 <br>
-§ 2. De gegevens in de databank voor premies en subsidies zijn alleen toegankelijk voor het VEKA, het Departement Financiën en Begroting, Wonen-Vlaanderen, de netbeheerders of hun werkmaatschappij en de transmissienetbeheerder. De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de gegevens aan die instanties kunnen worden vrijgegeven, en kan de voorwaarden voor de toegang, de verkrijging en het gebruik van de verwerkte gegevens vastleggen. Ze bepaalt ook de algemene organisatorische en technische maatregelen die geno- men moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+§ 2. De gegevens in de databank voor premies en subsidies zijn alleen toegankelijk voor het VEKA, het Departement Financiën en Begroting, Wonen in Vlaanderen, de netbeheerders of hun werkmaatschappij en de transmissienetbeheerder. De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de gegevens aan die instanties kunnen worden vrijgegeven, en kan de voorwaarden voor de toegang, de verkrijging en het gebruik van de verwerkte gegevens vastleggen. Ze bepaalt ook de algemene organisatorische en technische maatregelen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
 <br>
 Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
 <br>
