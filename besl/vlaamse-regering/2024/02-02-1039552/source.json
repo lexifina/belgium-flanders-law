@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039552,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-02 tot erkenning van de beroepskwalificatie horecamedewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039552/VolledigDocument?datum=2024-04-21",
+  "source_sha256": "5d2533f337038add6409e9e526966a81c079dec754e74e6defc6cc4365cd0ada",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039552&param=informatie",
+  "as_of": "2024-04-21",
+  "made": "2024-02-02",
+  "gazette": "2024-04-11",
+  "numac": 2024002994,
+  "document_start": "2024-04-21",
+  "document_end": null,
+  "in_force": "2024-04-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
