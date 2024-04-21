@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039551,
+  "title": "Besluit van de Vlaamse Regering van 2024-02-02 tot erkenning van de beroepskwalificatie hotelmedewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039551/VolledigDocument?datum=2024-04-21",
+  "source_sha256": "b2a5320c07b28f3603194bf58278c184653f6b77929191b2c25276bd4799f0d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039551&param=informatie",
+  "as_of": "2024-04-21",
+  "made": "2024-02-02",
+  "gazette": "2024-04-11",
+  "numac": 2024002993,
+  "document_start": "2024-04-21",
+  "document_end": null,
+  "in_force": "2024-04-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
