@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039567,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-08 houdende de maatregelen tot het versterken van de financiële weerbaarheid van de woonzorgcentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039567/VolledigDocument?datum=2024-04-21",
+  "source_sha256": "15f2a9ef3eb46237364059bd70d432386c445cc4a931afe72cc6aa66b157e2c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039567&param=informatie",
+  "as_of": "2024-04-21",
+  "made": "2024-03-08",
+  "gazette": "2024-04-11",
+  "numac": 2024003203,
+  "document_start": "2024-04-21",
+  "document_end": null,
+  "in_force": "2024-04-21",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2024-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
