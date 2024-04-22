@@ -249,7 +249,7 @@ Als het verzoekschrift een vordering tot schorsing bij hoogdringendheid bevat, b
 
 ### ART 20/1.
 
-§ 1. Het basisbedrag van de rechtsplegingsvergoeding, vermeld in artikel 21, § 7, van het decreet, bedraagt 770 euro, het minimumbedrag 154 euro en het maximumbedrag 1540 euro.<br>
+§ 1. Het basisbedrag van de rechtsplegingsvergoeding, vermeld in artikel 21, § 7, van het decreet, bedraagt 840 euro, het minimumbedrag 168 euro en het maximumbedrag 1680 euro.<br>
 <br>
 § 2. Als een vordering wordt afgehandeld via een verkorte procedure als vermeld in artikel 59/2, of als de vordering tot vernietiging met toepassing van artikel 71 leidt tot een vernietiging, bedraagt de verschuldigde rechtsplegingsvergoeding voor die vordering maximaal het basisbedrag.<br>
 <br>
