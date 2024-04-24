@@ -11202,7 +11202,17 @@ In afwijking van de artikelen IV.95 en IV.108 van deze codex kan de Vlaamse Rege
 
 ### ART. V.1.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In deze titel wordt verstaan   onder:<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; academische   hogeschoolopleidingen: de academische opleidingen die tot en met het   academiejaar 2012-2013 aangeboden worden door de hogescholen en die met ingang   van het academiejaar 2013-2014 geïntegreerd worden in de   universiteiten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; vakgebied: tak van de   wetenschap waarover het zelfstandig academisch personeel onderwijs verstrekt,   wetenschappelijk onderzoek verricht of wetenschappelijke dienstverlening   verleent.</P>
+<p>In deze titel wordt verstaan onder:<br>
+<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /-->1°&nbsp;&nbsp; academische hogeschoolopleidingen: de academische opleidingen die tot en met het academiejaar 2012-2013 aangeboden worden door de hogescholen en die met ingang van het academiejaar 2013-2014 geïntegreerd worden in de universiteiten;<br>
+1°/1 &nbsp;&nbsp; &nbsp;familielid: één van de volgende personen:<br>
+a)&nbsp;&nbsp; &nbsp;de echtgenoot van het personeelslid of de persoon met wie het perso-neelslid wettelijk samenwoont;<br>
+b)&nbsp;&nbsp; &nbsp;een bloedverwant tot in de tweede graad;<br>
+c)&nbsp;&nbsp; &nbsp;een aanverwant tot in de eerste graad;<br>
+d)&nbsp;&nbsp; &nbsp;een bloedverwant tot in de eerste graad van de partner die ten minste twaalf maand feitelijk samenwoont met het personeelslid;<br>
+1°/2 &nbsp;&nbsp; &nbsp;flexibele werkregeling: een aanpassing van het bestaande werkpatroon van het personeelslid;<br>
+1°/3 &nbsp;&nbsp; &nbsp;gezinslid: elke persoon die met het personeelslid samenwoont;<br>
+1°/4 &nbsp;&nbsp; &nbsp;langdurige pleegzorg: pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleeg-ouders zal verblijven;<br>
+2°&nbsp;&nbsp; vakgebied: tak van de wetenschap waarover het zelfstandig academisch personeel onderwijs verstrekt, wetenschappelijk onderzoek verricht of wetenschappelijke dienstverlening verleent.</p>
 
 ### ART. V.2.
 
@@ -11239,6 +11249,42 @@ In afwijking van de artikelen IV.95 en IV.108 van deze codex kan de Vlaamse Rege
 ### ART. V.9.
 
 <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur legt bij reglement de regels vast volgens dewelke de   opdrachten van een lid van het academisch personeel worden toegewezen of   gewijzigd.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Een   toewijzing of wijziging naar inhoud, omvang of aard kan slechts gebeuren na   advies van het orgaan of de organen waaraan die opdrachten verbonden zijn, en,   ingeval van een wijziging, ofwel met de instemming van het betrokken   personeelslid of nadat het betrokken personeelslid werd gehoord door het   adviesgevend orgaan.</P>
+
+### V.9/1.
+
+§1. Een lid van het academisch personeel heeft het recht om voor een aaneenge-sloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen om:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;te zorgen voor een kind:<br>
+a)&nbsp;&nbsp; &nbsp;omwille van de geboorte van een kind waarvan de afstamming langs de zijde van het personeelslid vaststaat, tot het kind 12 jaar wordt;<br>
+b)&nbsp;&nbsp; &nbsp;omwille van de adoptie van een kind, tot het kind 12 jaar wordt;<br>
+c)&nbsp;&nbsp; &nbsp;in geval van voogdij over een kind op grond van artikel 389 van het Burgerlijk Wetboek, tot het kind 12 jaar wordt;<br>
+d)&nbsp;&nbsp; &nbsp;in geval van langdurige pleegzorg over een kind, tot het kind 12 jaar wordt;<br>
+2°&nbsp;&nbsp; &nbsp;persoonlijke zorg of steun te verlenen aan een welbepaald gezins- of familielid dat om een ernstige medische reden behoefte heeft aan een vorm van sociale, familiale of emotionele bijstand of verzorging.&nbsp;<br>
+<br>
+Het in het eerste lid, 1°, vermelde recht geldt ook voor het personeelslid dat getrouwd is met een persoon waarvan de afstamming van een kind vaststaat of dat samenwoont met een persoon waarvan de afstamming van een kind vaststaat en bij wie het kind gedomicilieerd is.<br>
+<br>
+De in het eerste lid, 1°, vermelde leeftijdsgrens van 12 jaar bedraagt 21 jaar wanneer het kind voor ten minste 66 procent getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag.<br>
+<br>
+Aan de in het eerste lid, 1°, en het derde lid vermelde voorwaarde van de twaalfde of eenentwintigste verjaardag moet uiterlijk gedurende de periode van de flexibele werkregeling voldaan zijn. Als het personeelslid tijdig een verzoek tot flexibele werkregeling ingediend heeft en de uitvoering van de flexibele werkregeling uitgesteld is op voorstel van het universiteitsbestuur kan de voormelde voorwaarde van de twaalfde of eenentwintigste verjaardag overschre-den worden.<br>
+<br>
+§2. Een personeelslid dat een flexibele werkregeling voor zorgdoeleinden als vermeld in paragraaf 1, eerste lid, wil, bezorgt daarvoor minstens twee maanden en maximaal drie maanden vóór de gewenste begindatum een schriftelijke aanvraag aan het universiteitsbestuur. De voormelde termijn kan in onderling akkoord tussen het universiteitsbestuur en het personeelslid worden ingekort.&nbsp;<br>
+<br>
+De in het eerste lid vermelde aanvraag vermeldt de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een verwijzing naar het in dit artikel opgenomen recht om een flexibele werkregeling aan te vragen;<br>
+2°&nbsp;&nbsp; &nbsp;het soort flexibele werkregeling dat wordt aangevraagd;<br>
+3°&nbsp;&nbsp; &nbsp;de begin- en einddatum van de flexibele werkregeling;<br>
+4°&nbsp;&nbsp; &nbsp;het in paragraaf 1, eerste lid, vermelde zorgdoeleinde waarvoor de flexibele werkregeling wordt aangevraagd.<br>
+<br>
+Het universiteitsbestuur heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het tweede lid wordt ingeroepen.<br>
+<br>
+§3. Het universiteitsbestuur bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat het universiteitsbestuur de aanvraag, vermeld in paragraaf 2, heeft ontvangen. Het universiteitsbestuur beslist over de voormelde aanvraag, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs, het onderzoek en de dienstverlening.&nbsp;<br>
+<br>
+Het universiteitsbestuur kan de voormelde aanvraag inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt. Als het universiteitsbe-stuur de voormelde aanvraag weigert, deelt het universiteitsbestuur de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+Als het universiteitsbestuur niet binnen dertig dagen antwoordt op de aan-vraag, vermeld in paragraaf 2, kan het personeelslid de aanvraag voor een flexibele werkregeling herhalen. Het uitblijven van een antwoord van het universiteitsbestuur op de hernieuwde aanvraag wordt gelijkgesteld met een akkoord.<br>
+<br>
+§4. Het personeelslid kan schriftelijk een gemotiveerde aanvraag indienen om de flexibele werkregeling vervroegd stop te zetten. Het universiteitsbestuur geeft binnen veertien dagen een gemotiveerd antwoord op de voormelde aanvraag. Het universiteitsbestuur kan een opzeggingstermijn vastleggen voor het voortijdig stopzetten van de flexibele werkregeling.<br>
+<br>
+§5. De personeelsleden hebben het recht om na afloop van de flexibele werkregeling het gangbare werkpatroon te hervatten.
 
 ### ART. V.10.
 
@@ -11553,6 +11599,42 @@ Het universiteitsbestuur kan een deeltijds lid van het administratief en technis
 
 <p>&nbsp;</p>
 
+### ART. V.50/1.
+
+§1. Een lid van het administratief en technisch personeel heeft het recht om voor een aaneengesloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen om:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;te zorgen voor een kind:<br>
+a)&nbsp;&nbsp; &nbsp;omwille van de geboorte van een kind waarvan de afstamming langs de zijde van het personeelslid vaststaat, tot het kind 12 jaar wordt;<br>
+b)&nbsp;&nbsp; &nbsp;omwille van de adoptie van een kind, tot het kind 12 jaar wordt;<br>
+c)&nbsp;&nbsp; &nbsp;in geval van voogdij over een kind op grond van artikel 389 van het Burgerlijk Wetboek, tot het kind 12 jaar wordt;<br>
+d)&nbsp;&nbsp; &nbsp;in geval van langdurige pleegzorg over een kind, tot het kind 12 jaar wordt;<br>
+2°&nbsp;&nbsp; &nbsp;persoonlijke zorg of steun te verlenen aan een welbepaald gezins- of familielid dat om een ernstige medische reden behoefte heeft aan een vorm van sociale, familiale of emotionele bijstand of verzorging.&nbsp;<br>
+<br>
+Het in het eerste lid, 1°, vermelde recht geldt ook voor het personeelslid dat getrouwd is met een persoon waarvan de afstamming van een kind vaststaat of dat samenwoont met een persoon waarvan de afstamming van een kind vaststaat en bij wie het kind gedomicilieerd is.<br>
+<br>
+De in het eerste lid, 1°, vermelde leeftijdsgrens van 12 jaar bedraagt 21 jaar wanneer het kind voor ten minste 66 procent getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag.<br>
+<br>
+Aan de in het eerste lid, 1°, en het derde lid vermelde voorwaarde van de twaalfde of eenentwintigste verjaardag moet uiterlijk gedurende de periode van de flexibele werkregeling voldaan zijn. Als het personeelslid tijdig een verzoek tot flexibele werkregeling ingediend heeft en de uitvoering van de flexibele werkregeling uitgesteld is op voorstel van het universiteitsbestuur kan de voormelde voorwaarde van de twaalfde of eenentwintigste verjaardag overschreden worden.<br>
+<br>
+§2. Een personeelslid dat een flexibele werkregeling voor zorgdoeleinden als vermeld in paragraaf 1, eerste lid, wil, bezorgt daarvoor minstens twee maanden en maximaal drie maanden vóór de gewenste begindatum een schriftelijke aanvraag aan het universiteitsbestuur. De voormelde termijn kan in onderling akkoord tussen het universiteitsbestuur en het personeelslid worden ingekort.&nbsp;<br>
+<br>
+De in het eerste lid vermelde aanvraag vermeldt de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een verwijzing naar het in dit artikel opgenomen recht om een flexibele werkregeling aan te vragen;<br>
+2°&nbsp;&nbsp; &nbsp;het soort flexibele werkregeling dat wordt aangevraagd;<br>
+3°&nbsp;&nbsp; &nbsp;de begin- en einddatum van de flexibele werkregeling;<br>
+4°&nbsp;&nbsp; &nbsp;het in paragraaf 1, eerste lid, vermelde zorgdoeleinde waarvoor de flexibele werkregeling wordt aangevraagd.<br>
+<br>
+Het universiteitsbestuur heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het tweede lid wordt ingeroepen.<br>
+<br>
+§3. Het universiteitsbestuur bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat het universiteitsbestuur de aanvraag, vermeld in paragraaf 2, heeft ontvangen. Het universiteitsbestuur beslist over de voormelde aanvraag, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs, het onderzoek en de dienstverlening.&nbsp;<br>
+<br>
+Het universiteitsbestuur kan de voormelde aanvraag inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt. Als het universiteitsbe-stuur de voormelde aanvraag weigert, deelt het universiteitsbestuur de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+Als het universiteitsbestuur niet binnen dertig dagen antwoordt op de aan-vraag, vermeld in paragraaf 2, kan het personeelslid de aanvraag voor een flexibele werkregeling herhalen. Het uitblijven van een antwoord van het universiteitsbestuur op de hernieuwde aanvraag wordt gelijkgesteld met een akkoord.<br>
+<br>
+§4. Het personeelslid kan schriftelijk een gemotiveerde aanvraag indienen om de flexibele werkregeling vervroegd stop te zetten. Het universiteitsbestuur geeft binnen veertien dagen een gemotiveerd antwoord op de voormelde aanvraag. Het universiteitsbestuur kan een opzeggingstermijn vastleggen voor het voortijdig stopzetten van de flexibele werkregeling.<br>
+<br>
+§5. De personeelsleden hebben het recht om na afloop van de flexibele werkregeling het gangbare werkpatroon te hervatten.
+
 ### ART. V.51.
 
 <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Onder   werving wordt verstaan het aantrekken van personeelsleden na een openbare   vacature en na een vergelijkende selectieprocedure. Een vacature wordt via ten   minste 2 openbare informatiekanalen bekendgemaakt. Het universiteitsbestuur kan   een wervingsreserve aanleggen voor een cluster van verwante functies.   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   vacaturebericht vermeldt ten minste de volgende gegevens:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>1°&nbsp;&nbsp; de   functie-inhoud;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>2°&nbsp;&nbsp; de   functie-eisen, inclusief specifieke diploma-eisen indien   nodig;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>3°&nbsp;&nbsp; de   graad of de graden;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>4°&nbsp;&nbsp; de   omvang van de functie;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>5°&nbsp;&nbsp; het   vaste of tijdelijk karakter;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-hyphenate: none; tab-stops: 0cm; mso-list: l0 level1 lfo1"   class=MsoNormal>6°&nbsp;&nbsp; de   selectieprocedure.</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur kan de kandidaat in kwestie, afhankelijk van diens   beroepservaring en aantoonbare kwaliteiten, benoemen of aanstellen in 1 van de   graden vermeld in het vacaturebericht. In het vacaturebericht mogen ten hoogste   3 opeenvolgende graden vermeld worden.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
@@ -11571,7 +11653,18 @@ Het universiteitsbestuur kan een deeltijds lid van het administratief en technis
 
 ### ART. V.55.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij   de aanwerving doorloopt het personeelslid een stage, respectievelijk een   proefperiode van minimum een maand en maximum een jaar, naargelang de   publiekrechtelijke of privaatrechtelijke rechtspositieregeling van de   universiteit.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>§1. Bij de aanwerving met het oog op een benoeming doorloopt het personeelslid een stage van zes maanden.&nbsp;<br>
+<br>
+In afwijking van het eerste lid bedraagt deze stage twaalf maanden voor de functies waarvoor dit vooraf objectief werd gemotiveerd op basis van de functie-inhoud, mits over deze functies voorafgaandelijk een akkoord wordt bereikt in het centraal onderhandelingscomité van de betrokken universiteit.&nbsp;<br>
+<br>
+De stageperiode zoals voorzien in het eerste en het tweede lid kan door het universiteitsbestuur gemotiveerd worden verlengd met een eenmalige termijn van maximum zes maanden wanneer het universiteitsbestuur vaststelt dat het personeelslid nog niet volledig voldoet aan de functieverwachtingen maar de werkpunten remedieerbaar zijn. Het personeelslid wordt geïnformeerd over dit voornemen en over de motivering, en heeft het recht te worden gehoord vooraleer de beslissing tot verlenging wordt genomen.&nbsp;<br>
+<br>
+Op verzoek van het betrokken stagedoend personeelslid of de leidinggevende wordt, in geval van afwezigheid van het stagedoend personeelslid tijdens de stageperiode, deze stageperiode eenmalig evenredig verlengd. Dergelijke verlenging is beperkt tot maximum eenzelfde termijn als de oorspronkelijke stageperiode.<br>
+<br>
+§2. De universiteit voorziet in een interne beroepsmogelijkheid bij een onafhanke-lijke beroepsinstantie.<br>
+<br>
+§3. In het geval het betrokken lid van het administratief en technisch personeel dezelfde functie al in contractueel dienstverband uitvoerde, wordt meteen overgegaan tot benoeming zonder stageperiode.<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. V.56.
 
@@ -11824,7 +11917,44 @@ De tewerkstelling, vermeld in het eerste lid, wordt voor het vastbenoemde person
 
 ### ART. V.80.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In de bepalingen van deze   codificatie die betrekking hebben op het personeel van de hogescholen wordt   verstaan onder:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; aanstelling : het tijdelijk voor bepaalde   of voor onbepaalde duur toewijzen van een betrekking aan een personeelslid; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; ambt : een functie die door een   personeelslid in de hogeschool wordt uitgeoefend, door de Vlaamse Gemeenschap   wordt gefinancierd en waarvan de arbeidsvoorwaarden in hoofdzaak in onderhavige   rechtspositieregeling vastgelegd zijn; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; ambtswijziging : de aanstelling of   benoeming van een personeelslid van de hogeschool in een ander ambt of een   andere graad of niveau, zoals bedoeld in artikel V.174, binnen de hogeschool;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; artistiek gebonden onderwijsactiviteiten :   door het hogeschoolbestuur bepaalde onderwijsactiviteiten van zuiver artistieke   aard in de studiegebieden Architectuur, Audiovisuele en beeldende kunst, Muziek   en podiumkunsten, en Productontwikkeling die rechtstreeks gericht zijn op de   beoefening van de kunst; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>5°&nbsp;&nbsp; artistieke faam : de erkenning van de   vermaardheid van een persoon in een kunsttak of aan de kunsten gerelateerde   beroepstak als voorwaarde tot concordantie tot docent, zoals bedoeld in artikel   V.263; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>6°&nbsp;&nbsp; benoeming : het in vast verband toewijzen   van een betrekking aan een personeelslid; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>7°&nbsp;&nbsp; bekwaamheidsbewijs : het samenhangend   geheel van vereisten die aan een persoon worden gesteld voor de uitoefening van   een bepaald ambt. Deze vereisten kunnen een combinatie zijn van onder andere het   bezit van een bepaald diploma, nuttige ervaring, een aanvullend getuigschrift;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>8°&nbsp;&nbsp; betrekking : de concrete werkgelegenheid   in een bepaald ambt in een hogeschool, uitgedrukt in een door het   hogeschoolbestuur bepaald procentueel aandeel per week. Een betrekking kan   voltijds of deeltijds zijn; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>9°&nbsp;&nbsp; bevordering : de benoeming van een benoemd   personeelslid in een ambt waaraan een hogere salarisschaal verbonden is dan aan   het ambt waarvan hij titularis was vóór zijn bevordering; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>10°contractuele functie : een functie uitgeoefend door   een personeelslid dat door de hogeschool in dienst genomen is overeenkomstig de   wet van 3 juli 1978 betreffende de arbeidsovereenkomsten of bij contract op   zelfstandige basis; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>11°deeltijdse betrekking voor leden van het   administratief en technisch personeel : een betrekking met een opdracht waarvan   de omvang ten minste 10% van een voltijdse betrekking bedraagt; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>12°deeltijdse betrekking voor leden van het onderwijzend   personeel : een betrekking met een opdracht waarvan de omvang een procentueel   aandeel van een voltijdse betrekking bedraagt. Het procentueel aandeel bedraagt   ten minste 10% van een voltijdse betrekking, en wordt steeds uitgedrukt in een   veelvoud van 5. Voor de bepaling van het procentueel aandeel komt elke halve dag   per week die besteed wordt ten dienste van de hogeschool overeen met 10%; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>13°diensturen : de tijd die de leden van het   administratief en technisch personeel ambtshalve dienen te besteden aan de   uitoefening van de opdracht waarmee zij door de hogeschool werden belast binnen   het kader van de gangbare arbeidsduurregeling.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>14°geldelijke anciënniteit : het totaal van de in   aanmerking komende diensten voor de vaststelling van het salaris van het   personeelslid; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>15°inschaling : het toekennen van een salarisschaal, met   inbegrip van geldelijke anciënniteit, aan een personeelslid;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>16°mandaat : een bijzondere taak die tijdelijk aan een   personeelslid toegewezen wordt krachtens een bijzondere machtiging van het   hogeschoolbestuur; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>17°nevenactiviteiten : elke bezigheid door een   personeelslid uitgeoefend naast de opdracht waarvoor het ten principale titel   aangesteld of benoemd is aan de hogeschool; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>18°nuttige anciënniteit : het aantal jaren van de totale   geldelijke anciënniteit dat op de eerste dag van de maand recht geeft op een   salarisverhoging; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>19°onderwijsactiviteiten : de algemene benaming voor   theoretische vakken, oefenzittingen, practica, laboratoria, didactische   activiteiten, de aan de student individueel opgelegde werken en de stages; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>20°onderwijsbevoegdheid : het geheel van opleidingen die   de hogeschool bij of krachtens deze codificatie kan organiseren; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>21°opdracht : de prestaties, uitgedrukt in procenten, per   week door het personeelslid geleverd in een bepaald ambt in een hogeschool; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>22°praktijkgericht wetenschappelijk onderzoek : onderzoek   in samenwerking met de universiteiten of derden waarbij vooraf het onderwerp, de   duur en de modaliteiten worden vastgelegd; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>23°salaris : de bezoldiging die een personeelslid   ingevolge zijn betrekking overeenkomstig een vastgestelde schaal ontvangt; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>24°titularis : het personeelslid dat in een vacante   betrekking benoemd of aangesteld werd; het personeelslid dat tijdelijk de   titularis vervangt is geen titularis van de betrekking; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>25°vacante betrekking : een betrekking die niet   toegewezen is aan een titularis door benoeming of aanstelling; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>26°voltijdse betrekking : een betrekking waaraan een   opdracht van 100% verbonden is en die een volledige beschikbaarheid voor de   hogeschool inhoudt, gedefinieerd overeenkomstig de gangbare arbeidsduurregeling;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>27°werving : eerste aanstelling of benoeming tot   personeelslid in een ambt voorzien op de personeelsformatie van de hogeschool;   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>In de bepalingen van deze codificatie die betrekking hebben op het personeel van de hogescholen wordt verstaan onder:<br>
+1°&nbsp;&nbsp; aanstelling : het tijdelijk voor bepaalde of voor onbepaalde duur toewijzen van een betrekking aan een personeelslid;<br>
+2°&nbsp;&nbsp; ambt : een functie die door een personeelslid in de hogeschool wordt uitgeoefend, door de Vlaamse Gemeenschap wordt gefinancierd en waarvan de arbeidsvoorwaarden in hoofdzaak in onderhavige rechtspositieregeling vastgelegd zijn;<br>
+3°&nbsp;&nbsp; ambtswijziging : de aanstelling of benoeming van een personeelslid van de hogeschool in een ander ambt of een andere graad of niveau, zoals bedoeld in artikel V.174, binnen de hogeschool;<br>
+4°&nbsp;&nbsp; artistiek gebonden onderwijsactiviteiten : door het hogeschoolbestuur bepaalde onderwijsactiviteiten van zuiver artistieke aard in de studiegebieden Architectuur, Audiovisuele en beeldende kunst, Muziek en podiumkunsten, en Productontwikkeling die rechtstreeks gericht zijn op de beoefening van de kunst;<br>
+5°&nbsp;&nbsp; artistieke faam : de erkenning van de vermaardheid van een persoon in een kunsttak of aan de kunsten gerelateerde beroepstak als voorwaarde tot concordantie tot docent, zoals bedoeld in artikel V.263;<br>
+6°&nbsp;&nbsp; benoeming : het in vast verband toewijzen van een betrekking aan een personeelslid;<br>
+7°&nbsp;&nbsp; bekwaamheidsbewijs : het samenhangend geheel van vereisten die aan een persoon worden gesteld voor de uitoefening van een bepaald ambt. Deze vereisten kunnen een combinatie zijn van onder andere het bezit van een bepaald diploma, nuttige ervaring, een aanvullend getuigschrift;<br>
+8°&nbsp;&nbsp; betrekking : de concrete werkgelegenheid in een bepaald ambt in een hogeschool, uitgedrukt in een door het hogeschoolbestuur bepaald procentueel aandeel per week. Een betrekking kan voltijds of deeltijds zijn;<br>
+9°&nbsp;&nbsp; bevordering : de benoeming van een benoemd personeelslid in een ambt waaraan een hogere salarisschaal verbonden is dan aan het ambt waarvan hij titularis was vóór zijn bevordering;<br>
+10°contractuele functie : een functie uitgeoefend door een personeelslid dat door de hogeschool in dienst genomen is overeenkomstig de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten of bij contract op zelfstandige basis;<br>
+11°deeltijdse betrekking voor leden van het administratief en technisch personeel : een betrekking met een opdracht waarvan de omvang ten minste 10% van een voltijdse betrekking bedraagt;<br>
+12°deeltijdse betrekking voor leden van het onderwijzend personeel : een betrekking met een opdracht waarvan de omvang een procentueel aandeel van een voltijdse betrekking bedraagt. Het procentueel aandeel bedraagt ten minste 10% van een voltijdse betrekking, en wordt steeds uitgedrukt in een veelvoud van 5. Voor de bepaling van het procentueel aandeel komt elke halve dag per week die besteed wordt ten dienste van de hogeschool overeen met 10%;<br>
+13°diensturen : de tijd die de leden van het administratief en technisch personeel ambtshalve dienen te besteden aan de uitoefening van de opdracht waarmee zij door de hogeschool werden belast binnen het kader van de gangbare arbeidsduurregeling;<br>
+13°/1 &nbsp;&nbsp; &nbsp;familielid: één van de volgende personen:<br>
+a)&nbsp;&nbsp; &nbsp;de echtgenoot van het personeelslid of de persoon met wie het personeelslid wettelijk samenwoont;<br>
+b)&nbsp;&nbsp; &nbsp;een bloedverwant tot in de tweede graad;<br>
+c)&nbsp;&nbsp; &nbsp;een aanverwant tot in de eerste graad;<br>
+d)&nbsp;&nbsp; &nbsp;een bloedverwant tot in de eerste graad van de partner die ten minste twaalf maand feitelijk samenwoont met het personeelslid;<br>
+13°/2 &nbsp;&nbsp; &nbsp;flexibele werkregeling: een aanpassing van het bestaande werkpa-troon van het personeelslid;<br>
+14°geldelijke anciënniteit : het totaal van de in aanmerking komende diensten voor de vaststelling van het salaris van het personeelslid;<br>
+14°/1 &nbsp;&nbsp; &nbsp;gezinslid: elke persoon die met het personeelslid samenwoont;<br>
+15°inschaling : het toekennen van een salarisschaal, met inbegrip van geldelijke anciënniteit, aan een personeelslid;<br>
+15°/1 langdurige pleegzorg: pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven;<br>
+16°mandaat : een bijzondere taak die tijdelijk aan een personeelslid toegewezen wordt krachtens een bijzondere machtiging van het hogeschoolbestuur;<br>
+17°nevenactiviteiten : elke bezigheid door een personeelslid uitgeoefend naast de opdracht waarvoor het ten principale titel aangesteld of benoemd is aan de hogeschool;<br>
+18°nuttige anciënniteit : het aantal jaren van de totale geldelijke anciënniteit dat op de eerste dag van de maand recht geeft op een salarisverhoging;<br>
+19°onderwijsactiviteiten : de algemene benaming voor theoretische vakken, oefenzittingen, practica, laboratoria, didactische activiteiten, de aan de student individueel opgelegde werken en de stages;<br>
+20°onderwijsbevoegdheid : het geheel van opleidingen die de hogeschool bij of krachtens deze codificatie kan organiseren;<br>
+21°opdracht : de prestaties, uitgedrukt in procenten, per week door het personeelslid geleverd in een bepaald ambt in een hogeschool;<br>
+22°praktijkgericht wetenschappelijk onderzoek : onderzoek in samenwerking met de universiteiten of derden waarbij vooraf het onderwerp, de duur en de modaliteiten worden vastgelegd;<br>
+23°salaris : de bezoldiging die een personeelslid ingevolge zijn betrekking overeenkomstig een vastgestelde schaal ontvangt;<br>
+24°titularis : het personeelslid dat in een vacante betrekking benoemd of aangesteld werd; het personeelslid dat tijdelijk de titularis vervangt is geen titularis van de betrekking;<br>
+25°vacante betrekking : een betrekking die niet toegewezen is aan een titularis door benoeming of aanstelling;<br>
+26°voltijdse betrekking : een betrekking waaraan een opdracht van 100% verbonden is en die een volledige beschikbaarheid voor de hogeschool inhoudt, gedefinieerd overeenkomstig de gangbare arbeidsduurregeling;<br>
+27°werving : eerste aanstelling of benoeming tot personeelslid in een ambt voorzien op de personeelsformatie van de hogeschool;</p>
+
+<p>&nbsp;</p>
 
 ## Afdeling 2 Administratieve standen
 
@@ -12086,7 +12216,21 @@ In afwijking van het eerste lid, punt 5°, kan de aanstelling van het personeels
 <br>
 De opzeggingstermijn wordt herleid tot 7 dagen indien het een personeelslid betreft dat is aangesteld voor een periode van minder dan 12 maanden en indien dit personeelslid de evaluatie "onvoldoende" heeft gekregen voor het ambt waarop de evaluatie betrekking heeft.<br>
 <br>
-Wanneer het hogeschoolbestuur een einde maakt aan de aanstelling van een personeelslid dat met toepassing van artikel V.206/1 naar de hogeschool overgegaan is, wordt voor het bepalen van de opzeggingstermijn ook rekening gehouden met de dienstanciënniteit die het personeelslid in het hoger beroepsonderwijs of de specifieke lerarenopleiding aan het centrum voor volwassenenonderwijs opgebouwd heeft.</p>
+Wanneer het hogeschoolbestuur een einde maakt aan de aanstelling van een personeelslid dat met toepassing van artikel V.206/1 naar de hogeschool overgegaan is, wordt voor het bepalen van de opzeggingstermijn ook rekening gehouden met de dienstanciënniteit die het personeelslid in het hoger beroepsonderwijs of de specifieke lerarenopleiding aan het centrum voor volwassenenonderwijs opgebouwd heeft.<br>
+<br>
+§3. Behalve om redenen die vreemd zijn aan de uitoefening van de volgende rechten mag het hogeschoolbestuur in afwijking van paragraaf 2 geen handelingen stellen die eenzijdig een einde maken aan de aanstelling van een personeelslid dat gebruik maakt van een van die rechten:<br>
+1°&nbsp;&nbsp; &nbsp;het recht op geboorteverlof, vermeld in artikel 7/1 van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool;<br>
+2°&nbsp;&nbsp; &nbsp;het recht op ouderschapsverlof, vermeld in artikel 14 van het besluit van de Vlaamse Regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool;<br>
+3°&nbsp;&nbsp; &nbsp;het recht op zorgverlof, vermeld in artikel 19 van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool;<br>
+4°&nbsp;&nbsp; &nbsp;het recht om een flexibele werkregeling aan te vragen, vermeld in artikel V.116/6;<br>
+5°&nbsp;&nbsp; &nbsp;het recht om een nevenactiviteit uit te oefenen, binnen de grenzen van de cumulatieregeling en de regeling rond onverenigbaarheden, vermeld in hoofd-stuk 2, afdeling 6 en 7, en in hoofdstuk 3, afdeling 6;<br>
+6°&nbsp;&nbsp; &nbsp;het recht op een ambtswijziging, vermeld in artikel V.108.&nbsp;<br>
+<br>
+Het verbod, vermeld in het eerste lid, gaat in op de dag van de aanvraag van een van de rechten, vermeld in het eerste lid, 1° en 3° tot en met 5°, of de geboorte van het kind bij ouderschapsverlof als vermeld in het eerste lid, 2°, en eindigt dertig dagen na de uiterste datum van de uitoefening van het recht.<br>
+<br>
+Het hogeschoolbestuur deelt het personeelslid schriftelijk mee wat de redenen voor het ontslag zijn. Als de ingeroepen redenen niet vreemd zijn aan de uitoefening van het recht waarvan het personeelslid gebruik maakt of als er geen reden opgegeven is, betaalt het hogeschoolbestuur aan het personeelslid aanvullend op de opzegtermijn of -vergoeding een forfaitaire vergoeding die gelijk is aan het brutoloon voor zes maanden. De voormelde vergoeding mag bij het ontslag van een personeelslid dat gebruik maakt van de rechten, vermeld in het eerste lid, 1°, 2° en 5°, niet samen genoten worden met andere vergoedingen die in het kader van een bijzondere beschermingsprocedure tegen ontslag zijn bepaald.<br>
+<br>
+Elke handeling van het hogeschoolbestuur na afloop van de periode, vermeld in het tweede lid, die als doel heeft om de aanstelling te beëindigen waarvoor tijdens de periode, vermeld in het tweede lid, voorbereidingen zijn getroffen, wordt gelijkgesteld met een ontslag door het hogeschoolbestuur als vermeld in het eerste lid. Onder het voormelde treffen van enige voorbereiding wordt ook het nemen van de ontslagbeslissing begrepen.</p>
 
 ### V.110/1.
 
@@ -12177,6 +12321,44 @@ Gedurende de periodes van politiek verlof van ambtswege of op eigen verzoek is h
 ### ART V.116/5.
 
 Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt op de maand waarin het mandaat eindigt.
+
+## Afdeling 8. Flexibele werkregelingen
+
+### ART V.116/6.
+
+§1. Een personeelslid heeft het recht om voor een aaneengesloten periode van maximaal twaalf maanden een flexibele werkregeling aan te vragen om:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;te zorgen voor een kind:<br>
+a)&nbsp;&nbsp; &nbsp;omwille van de geboorte van een kind waarvan de afstamming langs de zijde van het personeelslid vaststaat, tot het kind 12 jaar wordt;<br>
+b)&nbsp;&nbsp; &nbsp;omwille van de adoptie van een kind, tot het kind 12 jaar wordt;<br>
+c)&nbsp;&nbsp; &nbsp;in geval van voogdij over een kind op grond van artikel 389 van het Burgerlijk Wetboek, tot het kind 12 jaar wordt;<br>
+d)&nbsp;&nbsp; &nbsp;in geval van langdurige pleegzorg over een kind, tot het kind 12 jaar wordt;<br>
+2°&nbsp;&nbsp; &nbsp;persoonlijke zorg of steun te verlenen aan een welbepaald gezins- of familielid dat om een ernstige medische reden behoefte heeft aan een vorm van sociale, familiale of emotionele bijstand of verzorging.&nbsp;<br>
+<br>
+Het in het eerste lid, 1°, vermelde recht geldt ook voor het personeelslid dat getrouwd is met een persoon waarvan de afstamming van een kind vaststaat of dat samenwoont met een persoon waarvan de afstamming van een kind vaststaat en bij wie het kind gedomicilieerd is.<br>
+<br>
+De in het eerste lid, 1°, vermelde leeftijdsgrens van 12 jaar bedraagt 21 jaar wanneer het kind voor ten minste 66 procent getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag.<br>
+<br>
+Aan de in het eerste lid, 1°, en het derde lid vermelde voorwaarde van de twaalfde of eenentwintigste verjaardag moet uiterlijk gedurende de periode van de flexibele werkregeling voldaan zijn. Als het personeelslid tijdig een verzoek tot flexibele werkregeling ingediend heeft en de uitvoering van de flexibele werkregeling uitgesteld is op voorstel van het hogeschoolbestuur kan de voormelde voorwaarden van de twaalfde of eenentwintigste verjaardag overschreden worden.<br>
+<br>
+§2. Een personeelslid dat een flexibele werkregeling voor zorgdoeleinden als vermeld in paragraaf 1, eerste lid, wil, bezorgt daarvoor minstens twee maanden en maximaal drie maanden vóór de gewenste begindatum een schriftelijke aanvraag aan het hogeschoolbestuur. De voormelde termijn kan in onderling akkoord tussen het hogeschoolbestuur en het personeelslid worden ingekort.&nbsp;<br>
+<br>
+De in het eerste lid vermelde aanvraag vermeldt de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een verwijzing naar het in dit artikel opgenomen recht om een flexibele werkregeling aan te vragen;<br>
+2°&nbsp;&nbsp; &nbsp;het soort flexibele werkregeling dat wordt aangevraagd;<br>
+3°&nbsp;&nbsp; &nbsp;de begin- en einddatum van de flexibele werkregeling;<br>
+4°&nbsp;&nbsp; &nbsp;het in paragraaf 1, eerste lid, vermelde zorgdoeleinde waarvoor de flexibele werkregeling wordt aangevraagd.<br>
+<br>
+Het hogeschoolbestuur heeft het recht om een document of documenten te vragen om het zorgdoeleinde te staven dat conform het tweede lid wordt ingeroepen.<br>
+<br>
+§3. Het hogeschoolbestuur bezorgt het personeelslid een schriftelijk antwoord binnen dertig dagen nadat het hogeschoolbestuur de aanvraag, vermeld in paragraaf 2, heeft ontvangen. Het hogeschoolbestuur beslist over de voormelde aanvraag, rekening houdend met de behoeften van het personeelslid en de continuïteit van het onderwijs, het onderzoek en de dienstverlening.&nbsp;<br>
+<br>
+Het hogeschoolbestuur kan de voormelde aanvraag inwilligen, weigeren of een gemotiveerd tegenvoorstel doen dat bestaat uit een andere flexibele werkregeling of een andere periode voor de uitoefening van de flexibele werkregeling. Het uitstel van een flexibele werkregeling mag niet tot gevolg hebben dat de flexibele werkregeling onmogelijk wordt. Als het hogeschoolbestuur de voormelde aanvraag weigert, deelt het hogeschoolbestuur de gemotiveerde weigeringsbeslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+Als het hogeschoolbestuur niet binnen dertig dagen antwoordt op de aanvraag, vermeld in paragraaf 2, kan het personeelslid de aanvraag voor een flexibele werkregeling herhalen. Het uitblijven van een antwoord van het hogeschoolbestuur op de hernieuwde aanvraag wordt gelijkgesteld met een akkoord.<br>
+<br>
+§4. Het personeelslid kan schriftelijk een gemotiveerde aanvraag indienen om de flexibele werkregeling vervroegd stop te zetten. Het hogeschoolbestuur geeft binnen veertien dagen een gemotiveerd antwoord op de voormelde aanvraag. Het hogeschoolbestuur kan een opzeggingstermijn vastleggen voor het voortijdig stopzetten van de flexibele werkregeling.<br>
+<br>
+§5. De personeelsleden hebben het recht om na afloop van de flexibele werkregeling het gangbare werkpatroon te hervatten.
 
 ## Hoofdstuk 2 Onderwijzend personeel
 
