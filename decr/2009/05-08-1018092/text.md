@@ -2872,7 +2872,7 @@ Vanaf het jaar 2015 verrekenen de netbeheerders, met uitzondering van de netbehe
 
 ### ART. 7.1.10.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 30 april&nbsp;van het jaar n, bij de VREG het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
+<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 31 oktober van het jaar n, bij de VREG het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
 
 <p>§ 2. Het aantal groenestroomcertificaten dat in een bepaald jaar n moet worden ingediend, wordt tot en met 31 maart 2012 vastgesteld met de formule :<br>
 C = G x Ev, waarbij :<br>
@@ -2949,7 +2949,7 @@ Indien de Vlaamse Regering certificaten aanvaardt voor groene stroom die niet is
 
 ### ART. 7.1.11.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 30 april van het jaar n, bij de VREG het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
+<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 31 oktober van het jaar n, bij de VREG het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
 <br>
 § 2. Het aantal warmte-krachtcertificaten dat in een bepaald jaar n moet worden ingediend, wordt vastgesteld met de formule :<br>
 <br>
