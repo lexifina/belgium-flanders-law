@@ -2,16 +2,16 @@
   "codex_id": 1026568,
   "title": "Besluit van de Vlaamse Regering van 2016-02-26 betreffende lage-emissiezones",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026568/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "29c7873356b7c9958c0c7046ccc638de2cdb3f91e4ebd2cb38fda178542eef67",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026568/VolledigDocument?datum=2024-04-27",
+  "source_sha256": "48e451f816e48562fcb89dccb053a6a44557dd4cf972f3fea4041e024859cdf6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026568&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-04-27",
   "made": "2016-02-26",
   "gazette": "2016-03-23",
   "numac": 2016035312,
   "document_start": "2016-03-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2024-04-27",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-04-27; future article versions excluded; article text as the API gives it"
 }
