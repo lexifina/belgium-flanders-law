@@ -323,7 +323,9 @@ Indien een eigenaar van een vaartuig, aangeduid om wetenschappelijk tongquotum o
 <br>
 §2. Het de-minimisquotum voor tong in het ICES-gebied VIId bedraagt 3% van het tongquotum in ICES-gebied VIId. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
 &nbsp;&nbsp; &nbsp;<br>
-In het ICES-gebied VIId is het voor de periode van 1 januari 2024 tot 31 januari 2024 voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied. Vanaf 1 februari 2024 daalt deze hoeveelheid naar 125 kg per vaartdag.<br>
+In het ICES-gebied VIId is het voor de periode van 1 januari 2024 tot 31 januari 2024 voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied. In de periode 1 februari 2024 tot 30 april 2024 bedraagt deze hoeveelheid 125 kg per vaartdag. Van 1 mei 2024 tot 30 juni 2024 bedraagt deze hoeveelheid 175 kg per vaartdag, rekening houdende met het toegewezen aandeel voor het KVS.<br>
+<br>
+In het ICES-gebied VIId wordt een aandeel van 32,2% van het tongquotum toegewezen aan het KVS. Dit cijfer is gebaseerd op de gemiddelde vangsten van het KVS in de jaren 2021, 2022 en 2023.<br>
 &nbsp;&nbsp; &nbsp;<br>
 In het ICES-gebied VIId is het voor een vissersvaartuig van het GVS tijdens de periode van 1 januari 2024 tot 30 juni 2024 verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is 5 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
