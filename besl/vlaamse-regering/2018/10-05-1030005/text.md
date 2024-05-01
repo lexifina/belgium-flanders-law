@@ -187,7 +187,7 @@ De volgende onderwijstypes voldoen aan de voorwaarden, vermeld in artikel 16:<br
 
 § 1. De gezinsbijslagen voor het kind dat afwezig is wegens ziekte, blijven maximaal behouden tot het einde van de zomervakantie van het schooljaar dat volgt op het schooljaar waarin het kind ziek geworden is.<br>
 <br>
-De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
@@ -195,11 +195,11 @@ De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het 
 <br>
 De minister bepaalt de nadere regels betreffende de vorm en inhoud van de attesten, vermeld in het eerste lid.<br>
 <br>
-§ 3. Voor het kind dat zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en een recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal een jaar.<br>
+§ 3. Voor het kind dat zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en een recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf het begin van dat schooljaar tot het einde van dat schooljaar.<br>
 <br>
 § 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
-De ziekte van het kind wordt bewezen met attesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met attesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
@@ -259,7 +259,7 @@ De gezinsbijslagen zijn niet langer verschuldigd als het kind, in de hoedanighei
 
 § 1. De gezinsbijslagen blijven behouden voor een kind dat ten gevolge van een ziekte zijn inschrijving onder de 27 studiepunten moet terugbrengen of in de loop van het academiejaar de vorming waarvoor het was ingeschreven, moet beëindigen ten gevolge van een ziekte, tot het einde van de zomervakantie van het academiejaar dat volgt op het academiejaar waarin het kind ziek geworden is.<br>
 <br>
-De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
@@ -267,11 +267,11 @@ De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het 
 <br>
 De minister bepaalt de nadere voorwaarden betreffende vorm en inhoud van de attesten, vermeld in het eerste lid.<br>
 <br>
-§ 3. Voor het kind dat zich wegens ziekte bij het begin van een nieuw academiejaar niet kan inschrijven en dat tijdens het vorige academiejaar, of tijdens het voorgaande schooljaar, niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal één jaar.<br>
+§ 3. Voor het kind dat zich wegens ziekte bij het begin van een nieuw academiejaar niet kan inschrijven en dat tijdens het vorige academiejaar, of tijdens het voorgaande schooljaar, niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf het begin van dat academiejaar tot het einde van dat academiejaar..<br>
 <br>
 § 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige academiejaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
-De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
@@ -343,15 +343,15 @@ De gezinsbijslagen worden verleend voor de leerling op voorwaarde dat zijn leero
 
 § 1. De gezinsbijslagen blijven behouden voor het kind waarvan de erkende en gecontroleerde leerovereenkomst of leerverbintenis wordt opgeschort wegens ziekte van het kind, tot uiterlijk 31 augustus van het schooljaar dat volgt op het schooljaar waarin de ziekte is begonnen.<br>
 <br>
-De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
-§ 2. Voor het kind dat zich wegens ziekte bij het begin van een nieuwe opleidingscyclus niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal één jaar.<br>
+§ 2. Voor het kind dat zich wegens ziekte bij het begin van een nieuwe opleidingscyclus niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf het begin van de nieuwe opleidingscyclus tot het einde van die opleidingscyclus.<br>
 <br>
 § 3. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
-De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
+De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.&nbsp;Er wordt bij de voormelde bevoegde dienst een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend.<br>
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.
 
@@ -497,7 +497,7 @@ De ouder, vermeld in het eerste lid, mag alleen beschouwd worden als begunstigde
 4° kinderen die gedurende maximaal drie jaar buiten België verblijven wegens medische redenen van het kind of van de ouder, de persoon die geen bloed- of aanverwant is tot en met de derde graad van de ouder en met wie de ouder feitelijk samenwoont of de echtgenoot of echtgenote van de ouder. De medische redenen worden gestaafd met een medisch getuigschrift. Het medisch attest, ondertekend en gedagtekend door een arts, vermeldt dat het voor het kind of voor de ouder, de persoon die geen bloed- of aanverwant is tot en met de derde graad van de ouder en met wie de ouder feitelijk samenwoont of de echtgenoot of echtgenote van de ouder, onmogelijk is om terug te reizen naar België. Een buitenlands medisch attest wordt bevestigd door een arts die in België gevestigd is;<br>
 5° kinderen die tijdelijk buiten België verblijven, waarbij dit verblijf, in één of verscheidene keren, geen twee maand in de loop van hetzelfde kalenderjaar overschrijdt, terwijl ze hun woonplaats in het Nederlandse taalgebied hebben;<br>
 6° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en die alleen tijdens de schoolvakantie, vermeld in artikel 21, eerste lid, en artikel 28 van dit besluit, buiten België verblijven;<br>
-7° kinderen die buiten België geboren worden, terwijl een van de ouders zijn woonplaats in het Nederlandse taalgebied heeft, op voorwaarde dat het verblijf van de moeder en van het kind buiten België niet langer dan twee maanden na de geboorte duurt;<br>
+7° kinderen die buiten België geboren worden, terwijl een van de ouders zijn woonplaats in het Nederlandse taalgebied heeft, op voorwaarde dat het verblijf van een van de ouders en van het kind buiten België niet langer dan twee maanden na de geboorte duurt;<br>
 8° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en naar een school gaan die buiten België ligt, op voorwaarde dat ze elke dag terugkeren naar hun ouders of naar hun opvoeders, die hun ouders vervangen;<br>
 9° kinderen die een studietoelage ontvangen om lessen buiten België te volgen. Een binnenlandse of buitenlandse instelling kan die studietoelage toekennen. Het Departement Onderwijs en Vorming, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, deelt de toekenning van die studietoelage door een instelling binnen het Nederlandse taalgebied mee. Als een instelling van een andere deelentiteit of een buitenlandse instelling die studietoelage toekent, wordt dat bewezen met een officieel attest;<br>
 10° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en het voorwerp uitmaken van een ontvoering conform de voorwaarden, vermeld in hoofdstuk 3 van dit besluit, en buiten België verblijven;<br>
