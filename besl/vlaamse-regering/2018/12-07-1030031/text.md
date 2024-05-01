@@ -29,11 +29,12 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° arbeidsmarkt: de arbeidsmarkt van het Vlaamse Gewest, het Waalse Gest en het Brusselse Hoofdstedelijke Gewest, alsook de markt van de lidstaten van de Europese Economische Ruimte;<br>
+1/1° aangetekend schrijven: een schrijven dat door de bevoegde overheid of de minister ter beschikking wordt gesteld via analoge dragers of via het gemeenschappelijk elektronisch platform als bedoeld in artikel 40 van het samenwerkingsakkoord van 2 februari 2018;<br>
+1° arbeidsmarkt: de arbeidsmarkt van het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest, alsook de markt van de lidstaten van de Europese Economische Ruimte;<br>
 2° beroepssporters: de sportlui die aangeworven zijn met een arbeidsovereenkomst voor betaalde sportbeoefenaars conform de wet van 24 februari 1978 betreffende de arbeidsovereenkomst voor betaalde sportbeoefenaars;<br>
 3° bevoegde overheid: de dienst Economische Migratie van het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie, vermeld in artikel 25, § 1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° detacheren: het tijdelijk uitzenden van de werknemer voor het verrichten van arbeidsprestaties in opdracht van de buitenlandse werkgever voor een gebruiker gevestigd in het Vlaamse Gewest, overeenkomstig artikel 2 van de wet van 5 maart 2002 betreffende de arbeids-, loon- en tewerkstellingsvoorwaarden in geval van detachering van werknemers in België en de naleving ervan;<br>
-5° diploma van het hoger onderwijs: alle diploma's, getuigschriften of andere opleidingstitels die uitgereikt zijn door een bevoegde overheid, waarbij het succesvol beëindigen van een postsecundair programma voor hogere studies wordt aangetoond. Het postsecundair programma omvat een geheel van lessen, verstrekt door een onderwijsinstituut dat erkend is als hoger onderwijsinstelling door de staat waarin het instituut is gevestigd, op voorwaarde dat de studies die nodig zijn om het diploma van hoger onderwijs te behalen, minstens drie jaar hebben geduurd, of minstens geleid hebben tot kwalificatie niveau 5;<br>
+5° diploma van het hoger onderwijs: alle diploma's, getuigschriften of andere opleidingstitels die uitgereikt zijn door een bevoegde overheid, waarbij het succesvol beëindigen van een postsecundair programma voor hogere studies wordt aangetoond. Het postsecundair programma omvat een geheel van lessen, verstrekt door een onderwijsinstituut dat erkend is als hoger onderwijsinstelling door de staat waarin het instituut is gevestigd, op voorwaarde dat de studies die nodig zijn om het diploma van hoger onderwijs te behalen minstens geleid hebben tot kwalificatie niveau 5;<br>
 5° /1 internationaal docent: een persoon met ten minste kwalificatieniveau 7 die onderwijsactiviteiten uitvoert in een erkende hoger onderwijsinstelling;<br>
 6° erkende onderzoeksinstelling: de onderzoeksinstelling die erkend is conform titel II van het koninklijk besluit van 8 juni 2007 houdende de voorwaarden voor erkenning van de onderzoeksinstellingen die in het kader van onderzoeksprojecten gastovereenkomsten met onderzoekers uit niet-EU-landen willen afsluiten en tot vaststelling van de voorwaarden waaronder dergelijke gastovereenkomsten kunnen worden afgesloten;<br>
 7° gastovereenkomst: een overeenkomst die wordt afgesloten tussen een in België erkende onderzoeksinstelling en een onderzoeker, waarin de onderzoeker zich ertoe verbindt een onderzoeksproject uit te voeren en de onderzoeksinstelling zich ertoe verplicht de onderzoeker als gast te ontvangen;<br>
@@ -81,16 +82,22 @@ De bepalingen van hoofdstuk 9 zijn van toepassing op de aanvragen van toelating 
 
 ### ART 4.
 
-§1. De toelating tot arbeid voor een bepaalde duur is beperkt tot de tewerkstelling bij één werkgever.<br>
+§1. Een werknemer kan in eenzelfde periode slechts één toelating tot arbeid bekomen. De toelating tot arbeid voor een bepaalde duur is beperkt tot de tewerkstelling bij één werkgever.<br>
 <br>
 In afwijking van het eerste lid:<br>
-1° kan wie toegelaten is tot arbeid op grond van artikel 17, eerste lid, 1°, 2°, 3°, 5°, 6° of 11°, bijkomend activiteiten als internationaal docent uitvoeren;<br>
+1° kan wie toegelaten is tot arbeid op grond van artikel 17, eerste lid, 1°, 2°, 3°, 5°, 6° of 11°, bijkomend activiteiten als internationaal docent of onderzoeker uitvoeren;<br>
 2° kan, in het geval van detachering, de werknemer prestaties uitvoeren bij verschillende gebruikers in het Vlaamse Gewest, indien de detacheringsovereenkomst de gegevens aangaande al deze gebruikers opgeeft;<br>
-3° geldt de Europese blauwe kaart na afloop van twee jaar tewerkstelling voor elke werkgever, voor zover de tewerkstelling voldoet aan de voorwaarden van artikel 21.<br>
+3° geldt de Europese blauwe kaart na afloop van één jaar tewerkstelling voor elke werkgever, voor zover de tewerkstelling voldoet aan de voorwaarden van artikel 21;<br>
+4° kan de houder van een gecombineerde vergunning een flexi-job uitoefenen, overeenkomstig artikel 16, §3, 3°.<br>
 <br>
 § 2. De werkgever of de gebruiker heeft een maatschappelijke zetel of een vestigingseenheid in het Vlaamse Gewest.<br>
 <br>
-In afwijking van het eerste lid kan een toelating tot arbeid afgeleverd worden voor prestaties onderworpen aan de Belgische sociale zekerheid, overeenkomstig artikel 3 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.
+In afwijking van het eerste lid kan een toelating tot arbeid afgeleverd worden voor prestaties onderworpen aan de Belgische sociale zekerheid.<br>
+<br>
+§3. De toelating tot arbeid voor bepaalde duur overeenkomstig hoofdstuk 9 wordt toegekend als de onderdaan van een derde land minimaal 80 procent van een voltijdse tewerkstelling presteert.<br>
+<br>
+De voorwaarde van het presteren van minimaal 80 procent van een voltijdse tewerkstelling als vermeld in het eerste lid, geldt niet voor aanvragen overeenkomstig artikel 17 .<br>
+&nbsp;
 
 ### ART 5.
 
@@ -104,10 +111,16 @@ De persoon die conform artikel 16 van rechtswege toegelaten is tot arbeid, is vr
 
 ### ART 7.
 
-In afwijking van artikel 4, § 2, van de wet van 30 april 1999 mag de toelating tot arbeid van bepaalde duur in de volgende gevallen worden toegekend als de werknemer België is binnengekomen vooraleer de werkgever de toelating tot arbeid heeft verkregen, op voorwaarde dat de werknemer voldoet aan artikel 61/25-2, § 2 van de wet van 15 december 1980:<br>
-1° voor de tewerkstelling van de buitenlandse onderdanen, vermeld in artikel 17, met uitzondering van de personen, vermeld in punt 7°, voor wat betreft de aanvragen van toelating tot arbeid in het kader van de vergunning voor een binnen een onderneming overgeplaatste persoon;<br>
-2° voor de tewerkstelling van de buitenlandse onderdanen die het statuut van langdurig ingezeten onderdanen in een andere lidstaat van de Europese Unie hebben verkregen krachtens wetgeving of reglementering ter omzetting van richtlijn 2003/109/EG van de Raad van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen.<br>
-3° voor de tewerkstelling van de buitenlandse onderdanen, vermeld in artikel 18, § 2.
+Overeenkomstig artikel 4, §2, tweede lid, van de wet van 30 april 1999 kan de toelating tot arbeid van bepaalde duur in de volgende gevallen worden toegekend als de werknemer in België is binnengekomen voor de werkgever de toelating tot arbeid heeft verkregen en als de werknemer voldoet aan de verblijfsvoorwaarden, vermeld in artikel 61/25-2, §2, van de wet van 15 december 1980:&nbsp;<br>
+1° voor de tewerkstelling van de buitenlandse onderdanen, vermeld in artikel 17, met uitzondering van de personen, vermeld in punt 7°, voor de aanvragen van toelating tot arbeid in het kader van de vergunning voor een persoon die binnen een onderneming overgeplaatst is;<br>
+2°&nbsp; voor de tewerkstelling van de buitenlandse onderdanen die het statuut van langdurig ingezeten onderdanen in een andere lidstaat van de Europese Unie hebben verkregen krachtens wetgeving of reglementering ter omzetting van richtlijn 2003/109/EG van de Raad van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen;<br>
+3° voor de tewerkstelling van de buitenlandse onderdanen, vermeld in artikel 18, §2.<br>
+<br>
+Met toepassing van het eerste lid gelden voor de aanvraag van bijzondere categorieën van werknemers, vermeld in hoofdstuk 8, de volgende verblijfsvoorwaarden:<br>
+1°&nbsp; de voorwaarden, vermeld in artikel 61/27-1, §2, van de wet van 15 december 1980, als het de aanvraag van de blauwe kaart betreft;<br>
+2°&nbsp; de voorwaarden, vermeld in artikel 61/12, §3, van de wet van 15 december 1980, als het de aanvraag van een onderzoeker betreft;<br>
+3°&nbsp; de voorwaarden, vermeld in artikel 61/13/18, §3, van de wet van 15 december 1980, als het de aanvraag van een stagiair betreft,&nbsp;<br>
+4°&nbsp; de voorwaarden, vermeld in artikel 61/13/27, §3, van de wet van 15 december 1980, als het de aanvraag van een vrijwilliger betreft.
 
 ### ART 8.
 
@@ -121,10 +134,21 @@ Bij detachering wordt de toelating tot arbeid beperkt tot de geldigheidsduur van
 
 ### ART 9.
 
-Gedurende de geldigheid van de toelating tot arbeid van bepaalde duur verwittigt de werkgever de bevoegde overheid:<br>
-1° ingeval van verbreking van de arbeidsovereenkomst;<br>
-2° bij elke betekenisvolle wijziging van de arbeidsvoorwaarden die gevolgen kan hebben op de geldigheid van de toelating.<br>
-De bevoegde overheid deelt de werkgever mee of een nieuwe toelating tot arbeid aangevraagd moet worden, en doet dit uiterlijk 15 dagen na de melding bedoeld in het eerste lid, 2°.
+§1. In de volgende gevallen brengt de werkgever de bevoegde overheid uiterlijk binnen vijftien kalenderdagen schriftelijk of op elektronische wijze op de hoogte tijdens de duurtijd van de toelating tot de arbeid:<br>
+1° bij verbreking van de arbeidsovereenkomst;<br>
+2° bij elke betekenisvolle wijziging van de arbeidsvoorwaarden die gevolgen kan hebben voor de geldigheid van de toelating.<br>
+<br>
+De bevoegde overheid brengt de werkgever op de hoogte als die een nieuwe toelating tot arbeid moet aanvragen. In het geval, vermeld in het eerste lid, 2°, brengt de bevoegde overheid de werkgever op de hoogte binnen vijftien kalenderdagen na de ontvangst van de kennisgeving.&nbsp;<br>
+<br>
+§2. Als tijdens de eerste twaalf maanden van de toelating tot arbeid die is afgeleverd in het kader van de Europese blauwe kaart, een nieuwe arbeidsovereenkomst wordt gesloten, brengt de nieuwe werkgever de bevoegde overheid uiterlijk binnen 15 kalenderdagen schriftelijk of op elektronische wijze op de hoogte en bezorgt die een kopie van de arbeidsovereenkomst, vermeld in artikel 46, eerste lid, 1°.&nbsp;<br>
+<br>
+De bevoegde overheid kan zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving voor zover de voorwaarden in artikel 21 niet zijn vervuld.<br>
+<br>
+§3. Als tijdens de geldigheid van een toelating tot arbeid afgeleverd in het kader van de seizoenarbeidersvergunning , een nieuwe arbeidsovereenkomst voor seizoenarbeid wordt gesloten, brengt de nieuwe werkgever de bevoegde overheid uiterlijk binnen 15 kalenderdagen onmiddellijk schriftelijk of op elektronische wijze op de hoogte, en bezorgt die een kopie van de arbeidsovereenkomst, gesloten overeenkomstig afdeling 2 van hoofdstuk 8.<br>
+<br>
+De bevoegde overheid kan zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving.<br>
+<br>
+In het eerste lid wordt onder seizoenarbeidersvergunning het volgende verstaan: de vergunning als bedoeld in artikel 12, 3° van het samenwerkingsakkoord van 6 december 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende uitvoering van het samenwerkingsakkoord van 2 februari 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten.
 
 ### ART 10.
 
@@ -148,53 +172,66 @@ In afwijking van het eerste lid worden de voorwaarden, vermeld in artikel 18, §
 
 ### ART 12.
 
-§ 1. De toelating tot arbeid wordt geweigerd als:<br>
-1° de aanvraag onvolledige, onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen bevat;<br>
-2° de toelatingsvoorwaarden, vermeld in artikel 4, artikel 4/1 of artikel 5 van de wet van 30 april 1999, of in de uitvoeringsbesluiten niet zijn vervuld;<br>
-3° de werkgever of de gastentiteit de wettelijke en de reglementaire verplichtingen voor de tewerkstelling van werknemers niet naleeft, met inbegrip van de loon- en andere arbeidsvoorwaarden die voor de tewerkstelling gelden;<br>
-4° de tewerkstelling strijdig is met de openbare orde of de openbare veiligheid, met de wetten en reglementen, of met de internationale overeenkomsten en akkoorden over de indienstneming en de tewerkstelling van buitenlandse werknemers;<br>
-5° aan de tewerkstelling geen inkomsten verbonden zijn die de werknemer in staat stellen te voorzien in zijn behoeften of in die van zijn gezin;<br>
-6° de onderneming of de gastentiteit is opgericht of opereert met als belangrijkste doel de binnenkomst van buitenlandse werknemers te vergemakkelijken, of geen economische of maatschappelijke activiteiten uitvoert;<br>
-7° de werkgever gedurende een periode van zes maanden voorafgaand aan de aanvraag een volledige betrekking heeft afgeschaft om de vacature die de werkgever met die aanvraag wil invullen, te creëren.<br>
+§1. De toelating tot arbeid wordt geweigerd als:<br>
+1° &nbsp;&nbsp; &nbsp;de aanvraag onvolledige, onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen bevat;<br>
+2° &nbsp;&nbsp; &nbsp;de toelatingsvoorwaarden, vermeld in artikel 4, artikel 4/1 of artikel 5 van de wet van 30 april 1999, of in de uitvoeringsbesluiten niet zijn vervuld;<br>
+3° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of de werknemer zich niet houdt aan de bijzondere voorwaarden, vermeld in artikel 10;<br>
+4° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit de wettelijke en de reglementaire verplichtingen voor de tewerkstelling van werknemers niet naleeft, met inbegrip van de loon- en andere arbeidsvoorwaarden die voor de tewerkstelling gelden;<br>
+5° &nbsp;&nbsp; &nbsp;de natuurlijke persoon die optreedt in naam en voor rekening van de werkgever en tevens bemiddelt tussen werkgever en werknemer, de wettelijke verplichtingen inzake private arbeidsbemiddeling niet naleeft, vermeld in hoofdstuk 2 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;&nbsp;<br>
+6° &nbsp;&nbsp; &nbsp;de tewerkstelling strijdig is met de openbare orde of de openbare veiligheid, met de wetten en reglementen, of met de internationale overeenkomsten en akkoorden over de indienstneming en de tewerkstelling van buitenlandse werknemers;<br>
+7° &nbsp;&nbsp; &nbsp;aan de tewerkstelling onvoldoende inkomsten verbonden zijn die de werknemer in staat stellen te voorzien in zijn behoeften of in de behoeften van die van zijn gezin als bepaald in art. 76, § 1;<br>
+8° &nbsp;&nbsp; &nbsp;de onderneming of de gastentiteit is opgericht of opereert met als belangrijkste doel de binnenkomst van buitenlandse werknemers te vergemakkelijken, of geen economische of maatschappelijke activiteiten uitvoert;<br>
+9° &nbsp;&nbsp; &nbsp;de werkgever gedurende een periode van zes maanden voorafgaand aan de aanvraag een volledige betrekking heeft afgeschaft om de vacature te creëren die de werkgever met die aanvraag wil vervullen.<br>
 <br>
-De weigeringsgrond, vermeld in het eerste lid, 5°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 8°, 10°, 11° en 18°.<br>
+De weigeringsgrond, vermeld in het eerste lid, 7°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 8°, 10°, 11° en 18°.<br>
 <br>
-De weigeringsgrond, vermeld in het eerste lid, 7°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6° en 7°.<br>
+De weigeringsgrond, vermeld in het eerste lid, 9°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6° en 7°, en op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
 <br>
-§ 2. De toelating tot arbeid kan geweigerd worden:<br>
-1° als tegen de werkgever of de gastentiteit gedurende een jaar voor de aanvraag een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
-a) artikel 12/1, § 1, artikel 12/3, § 1, of artikel 12/4 van de wet van 30 april 1999;<br>
-b) artikel 13/5, artikel 13/6, § 2, § 4, of § 5, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
-c) artikel 13/1 van de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen;<br>
-d) artikel 175/1, § 1, artikel 181, § 1, of artikel 181/1 van het Sociaal Strafwetboek.<br>
-2° als de werkgever in staat van faillissement of van kennelijk onvermogen verkeert, het voorwerp uitmaakt van een procedure tot faillietverklaring, of een gerechtelijke reorganisatie heeft aangevraagd of verkregen;<br>
-3° om een ethische rekrutering te verzekeren in de sectoren die een tekort aan gekwalificeerde werknemers kennen in het land van oorsprong;<br>
-4° als gedurende een jaar voor de aanvraag een toelating tot arbeid voor dezelfde werknemer in dezelfde categorie geweigerd of ingetrokken werd, zonder dat de aanvrager nieuwe elementen kan laten gelden.<br>
+§ 2. De toelating tot arbeid kan geweigerd worden als:<br>
+1° &nbsp;&nbsp; &nbsp;tegen de werkgever, de gastentiteit of de mandataris gedurende een jaar voor de aanvraag een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
+a) &nbsp;&nbsp; &nbsp;artikel 12/1, §1, artikel 12/3, §1, of artikel 12/4 van de wet van 30 april 1999;<br>
+b) &nbsp;&nbsp; &nbsp;artikel 13/5, artikel 13/6, §2, §4, of §5, van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht;<br>
+c) &nbsp;&nbsp; &nbsp;artikel 22 van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
+d) &nbsp;&nbsp; &nbsp;artikel 175/1, §1, artikel 181, §1, of artikel 181/1 van het Sociaal Strafwetboek;<br>
+2° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of de mandataris gedurende een jaar voor de aanvraag onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen heeft gebruikt bij een aanvraag van toelating tot arbeid;<br>
+3° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of diens bestuurders in staat van faillissement of van kennelijk onvermogen verkeren, het voorwerp uitmaken van een procedure tot faillietverklaring, of de voorbije vijf jaar failliet zijn verklaard, of een gerechtelijke reorganisatie hebben aangevraagd of verkregen;<br>
+4° &nbsp;&nbsp; &nbsp;het doel ervan is een ethische rekrutering te verzekeren in de sectoren die in het land van oorsprong een tekort aan gekwalificeerde werknemers hebben;<br>
+5° &nbsp;&nbsp; &nbsp;gedurende een jaar voor de aanvraag een toelating tot arbeid voor dezelfde werknemer in dezelfde categorie geweigerd of ingetrokken werd, zonder dat de aanvrager nieuwe elementen kan laten gelden;<br>
+6° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit zich niet houdt aan de bepalingen van de fiscale, sociaalrechtelijke of vennootschapsrechtelijke wetgeving;<br>
+7° &nbsp;&nbsp; &nbsp;de kredietwaardigheid van de onderneming of de gastentiteit ongunstig is;<br>
+8° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit onvoldoende economische of maatschappelijke activiteiten uitoefent die de tewerkstelling van buitenlandse werknemers verantwoordt;<br>
+9° &nbsp;&nbsp; &nbsp;de onderneming waarin buitenlandse werknemers zullen worden tewerkgesteld, minder dan drie jaar geleden is opgericht of geen personeelsleden in dienst heeft.<br>
 <br>
-De weigeringsgrond, vermeld in het eerste lid, 3°, is enkel van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°.<br>
+De weigeringsgrond, vermeld in het eerste lid, 4°, is alleen van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°.<br>
 <br>
-Bij de beoordeling van de toelating tot arbeid wordt rekening gehouden met de specifieke omstandigheden van het geval, de belangen van de buitenlandse werknemer, het economisch belang van de werkgever, en het evenredigheidsbeginsel.
+De weigeringsgronden, vermeld in het eerste lid, 7° tot en met 9°, zijn niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op de aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.&nbsp;<br>
+&nbsp;<br>
+Bij de beoordeling van de toelating tot arbeid houdt de bevoegde overheid rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
 ### ART 13.
 
-§ 1. De toelating tot arbeid wordt ingetrokken als:<br>
-1° voor de aanvraag gebruik gemaakt is van bedrieglijke praktijken, onvolledige, onjuiste of vervalste verklaringen, of onrechtmatig verkregen gegevens werden bezorgd of onrechtmatig aanpassingen werden verricht;<br>
-2° de onderneming of de gastentiteit is opgericht of opereert met als belangrijkste doel de binnenkomst van buitenlandse werknemers te vergemakkelijken, of geen economische of maatschappelijke activiteiten uitvoert;<br>
-3° de tewerkstelling strijdig is met de openbare orde of openbare veiligheid, met de wetten en reglementen, of met de internationale overeenkomsten en akkoorden over de indienstneming en tewerkstelling van werknemers van buitenlandse nationaliteit;<br>
-4° de werkgever of de gastentiteit de wettelijke en reglementaire verplichtingen voor de tewerkstelling van werknemers niet nakomt, met inbegrip van de loon- en andere arbeidsvoorwaarden die gelden voor de werknemers;<br>
-5° de werkgever, de gastentiteit of de werknemer zich niet houdt aan de voorwaarden die aan de toelating tot arbeid verbonden zijn.<br>
+§1. De toelating tot arbeid wordt ingetrokken als:<br>
+1° &nbsp;&nbsp; &nbsp;voor de aanvraag gebruikgemaakt is van bedrieglijke praktijken, onvolledige, onjuiste of vervalste verklaringen, of als onrechtmatig verkregen gegevens werden bezorgd of onrechtmatig aanpassingen werden verricht;<br>
+2° &nbsp;&nbsp; &nbsp;de onderneming of de gastentiteit is opgericht of opereert met als belangrijkste doel de binnenkomst van buitenlandse werknemers te vergemakkelijken, of geen economische of maatschappelijke activiteiten uitvoert;<br>
+3° &nbsp;&nbsp; &nbsp;de tewerkstelling strijdig is met de openbare orde of openbare veiligheid, met de wetten en reglementen, of met de internationale overeenkomsten en akkoorden over de indienstneming en tewerkstelling van werknemers van buitenlandse nationaliteit;<br>
+4° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit de wettelijke en reglementaire verplichtingen voor de tewerkstelling van werknemers niet nakomt, met inbegrip van de loon- en andere arbeidsvoorwaarden die gelden voor de werknemers;<br>
+5° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of de werknemer zich niet houdt aan de bijzondere voorwaarden, vermeld in artikel 10.<br>
 <br>
 § 2. De toelating tot arbeid kan ingetrokken worden als:<br>
-1° tegen de werkgever of de gastentiteit een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
-a) artikel 12/1, § 1, artikel 12/3, § 1, of artikel 12/4 van de wet van 30 april 1999;<br>
-b) artikel 13/5, artikel 13/6, § 2, § 4, of § 5, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
-c) artikel 13/1 van de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen;<br>
-d) artikel 175/1, § 1, artikel 181, § 1, of artikel 181/1 van het Sociaal Strafwetboek.<br>
-2° de werkgever in staat van faillissement of van kennelijk onvermogen verkeert, het voorwerp uitmaakt van een procedure tot faillietverklaring, of een gerechtelijke reorganisatie heeft aangevraagd of verkregen.<br>
+1° &nbsp;&nbsp; &nbsp;tegen de werkgever of de gastentiteit een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
+a) &nbsp;&nbsp; &nbsp;artikel 12/1, §1, artikel 12/3, §1, of artikel 12/4 van de wet van 30 april 1999;<br>
+b) &nbsp;&nbsp; &nbsp;artikel 13/5, artikel 13/6, §2, §4, of §5, van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht;<br>
+c) &nbsp;&nbsp; &nbsp;artikel 22 van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
+d) &nbsp;&nbsp; &nbsp;artikel 175/1, §1, artikel 181, §1, of artikel 181/1 van het Sociaal Strafwetboek;<br>
+2° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of diens bestuurders in staat van faillissement of van kennelijk onvermogen verkeren, het voorwerp uitmaken van een procedure tot faillietverklaring, of de voorbije vijf jaar failliet zijn verklaard, of een gerechtelijke reorganisatie hebben aangevraagd of verkregen;<br>
+3° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit zich niet houdt aan de verplichtingen die zijn opgelegd door fiscale, sociaalrechtelijke of vennootschapsrechtelijke wetgeving;<br>
+4° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit onvoldoende economische of maatschappelijke activiteiten uitoefent die de tewerkstelling van buitenlandse werknemers verantwoordt.<br>
 <br>
-De intrekkingsgrond, vermeld in het eerste lid, 2°, is alleen van toepassing voor de tewerkstelling van een seizoenarbeider.<br>
+De intrekkingsgrond, vermeld in het eerste lid, 2°, is niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°.<br>
 <br>
-Bij de beoordeling van de intrekking wordt rekening gehouden met de specifieke omstandigheden van het geval, de belangen van de buitenlandse werknemer, het economisch belang van de werkgever, en het evenredigheidsbeginsel.
+De intrekkingsgrond, vermeld in het eerste lid, 4°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
+<br>
+&nbsp;Bij de beoordeling van de toelating houdt de bevoegde overheid rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
 ### ART 14.
 
@@ -218,26 +255,42 @@ In toepassing van hoofdstuk V van de wet van 30 april 1999, kan de minister voor
 
 ### ART 16.
 
-§ 1. Onverminderd gunstiger bepalingen in internationale akkoorden, zijn de volgende personen van rechtswege toegelaten tot arbeid, voor zover voldaan werd aan de voorafgaandelijke Limosa-aangifte conform titel IV, hoofdstuk 8, afdeling 2 van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen:<br>
-1° de handelsvertegenwoordigers met hoofdverblijf in het buitenland, die hun klanten in België bezoeken, voor rekening van in het buitenland gevestigde ondernemingen zonder bijhuis in België, op voorwaarde dat hun verblijf in België niet langer duurt dan drie opeenvolgende maanden;<br>
-2° de personen die naar België gekomen zijn om, voor rekening van een in het buitenland gevestigde onderneming, door de Belgische nijverheid geleverde goederen in ontvangst te nemen, op voorwaarde dat hun verblijf in België niet langer duurt dan drie opeenvolgende maanden;<br>
-3° de in het buitenland verblijvende journalisten die verbonden zijn aan in het buitenland uitgegeven dagbladen of in het buitenland gevestigde persagentschappen of radio- of televisiestations, die naar België komen voor de uitoefening van hun opdracht, op voorwaarde dat hun verblijf in België niet langer duurt dan drie opeenvolgende maanden;<br>
-4° de werknemers die tewerkgesteld worden in een buitenlandse onderneming, die naar België komen om een opleiding te geven of&nbsp;te volgen in de Belgische zetel van de groep van ondernemingen waartoe hun onderneming behoort, in het kader van een opleidingsovereenkomst tussen de zetels van de groep van ondernemingen, op voorwaarde dat hun verblijf in België niet langer duurt dan drie opeenvolgende maanden;<br>
-5° de leidinggevende-ICT, specialist-ICT of stagiair-werknemer-ICT die zijn recht op kortetermijnmobiliteit uitoefent, op voorwaarde dat de bezoldiging niet minder gunstig is dan die van vergelijkbare functies overeenkomstig toepasselijke wetten, collectieve overeenkomsten of praktijken, conform artikel 79;<br>
-6° de onderdaan van een derde land die in het kader van onderzoek zijn recht op kortetermijnmobiliteit uitoefent, op voorwaarde dat aan de tewerkstelling inkomsten verbonden zijn die de werknemer in staat stellen te voorzien in zijn behoeften of in die van zijn gezin, conform artikel 76, § 1, eerste lid;<br>
-7° de werknemers die geen onderdaan zijn van een lidstaat van de Europese Economische Ruimte en die tewerkgesteld zijn door een onderneming die gevestigd is in een lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en die zich tijdelijk naar België begeven om diensten te verrichten, op voorwaarde dat:<br>
-a) die werknemers, in de lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat waar ze verblijven, beschikken over een recht op verblijf of een verblijfsvergunning van meer dan drie maanden;<br>
-b) die werknemers wettig tewerkgesteld zijn in de lidstaat waar ze verblijven en de vergunning ten minste geldig is voor de duur van het in België uit te voeren werk;<br>
-c) die werknemers in het bezit zijn van een regelmatige arbeidsovereenkomst;<br>
-d) die werknemers beschikken over een paspoort en een verblijfsvergunning van een duur die minstens gelijkwaardig is met de duur van de dienstverlening om hun terugkeer naar hun land van oorsprong of verblijf te verzekeren;<br>
+§1. Met behoud van de toepassing van de bepalingen van internationale akkoorden zijn de volgende categorieën van personen van rechtswege toegelaten tot arbeid als ze voldoen aan de voorafgaande Limosa-aangifte conform titel IV, hoofdstuk 8, afdeling 2, van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen, en als hun arbeidsprestaties beperkt zijn tot maximaal negentig dagen binnen een periode van honderdtachtig dagen, berekend conform artikel 6, tweede en derde lid, van de wet van 15 december 1980:<br>
+1° &nbsp;&nbsp; &nbsp;de onderdanen van derde landen die geen hoofdverblijfplaats hebben in België en die een van de volgende tijdelijke handelsactiviteiten verrichten die verband houden met de zakelijke belangen van de werkgever, waarbij geen diensten of goederen worden geleverd:&nbsp;<br>
+a) &nbsp;&nbsp; &nbsp;het bijwonen van:&nbsp;<br>
+1)&nbsp;&nbsp; &nbsp;conferenties en seminaries;&nbsp;<br>
+2)&nbsp;&nbsp; &nbsp;interne en externe zakelijke bijeenkomsten;&nbsp;<br>
+3)&nbsp;&nbsp; &nbsp;beurzen en tentoonstellingen;<br>
+b) &nbsp;&nbsp; &nbsp;het onderhandelen over zakelijke overeenkomsten;&nbsp;<br>
+c) &nbsp;&nbsp; &nbsp;het ondernemen van verkoops- of marketingactiviteiten;&nbsp;<br>
+d) &nbsp;&nbsp; &nbsp;het uitvoeren van interne audits of klantenaudits;&nbsp;<br>
+e) &nbsp;&nbsp; &nbsp;het verkennen van bedrijfsopportuniteiten;&nbsp;<br>
+f) &nbsp;&nbsp; &nbsp;het geven of volgen van opleidingen;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de personen die naar België gekomen zijn om, voor rekening van een onderneming die in het buitenland gevestigd is, goederen in ontvangst te nemen die door de Belgische nijverheid geleverd zijn;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de journalisten die in het buitenland verblijven en die verbonden zijn aan dagbladen die in het buitenland uitgegeven worden of persagentschappen of radio- of televisiestations die in het buitenland gevestigd zijn, en die naar België komen voor de uitoefening van hun opdracht;&nbsp;<br>
+4° &nbsp;&nbsp; &nbsp;de werknemers die worden tewerkgesteld in een buitenlandse onderneming en die naar België komen om een opleiding te geven of te volgen in de Belgische zetel van de groep van ondernemingen waartoe hun onderneming behoort, in het kader van een opleidingsovereenkomst tussen de zetels van de groep van ondernemingen;&nbsp;<br>
+5° &nbsp;&nbsp; &nbsp;de leidinggevende-ICT, specialist-ICT of stagiair-werknemer-ICT die zijn recht op kortetermijnmobiliteit uitoefent, op voorwaarde dat de bezoldiging niet minder gunstig is dan die van vergelijkbare functies overeenkomstig toepasselijke wetten, collectieve overeenkomsten of praktijken, conform artikel 79;<br>
+6° &nbsp;&nbsp; &nbsp;de onderdanen van derde landen die als vertegenwoordigers van hotels, reisbureaus of reisorganisaties, of die als gidsen een congres of beurs bijwonen of daaraan deelnemen of een rondreis begeleiden die is begonnen op het grondgebied van een derde land;&nbsp;<br>
+7° &nbsp;&nbsp; &nbsp;vertalers en tolken: de onderdanen van derde landen die als vertalers of tolken diensten verlenen als werknemers van een rechtspersoon die op het grondgebied van een derde land gevestigd is.&nbsp;<br>
+&nbsp;<br>
+In het eerste lid, 5°, wordt onder het recht op kortetermijnmobiliteit verstaan: het recht waarover de onderdaan van een derde land die in het bezit is van een geldige vergunning voor een persoon die binnen een onderneming overgeplaatst is, die afgegeven is door een andere lidstaat, beschikt om op het Belgische grondgebied te verblijven en te werken in elke entiteit die in België is gevestigd en die tot de onderneming of dezelfde groep van ondernemingen behoort, gedurende een maximale periode van negentig dagen binnen een periode van honderdtachtig dagen.<br>
+&nbsp;&nbsp;<br>
+§2. Met behoud van de toepassing van de bepalingen van internationale akkoorden zijn de volgende personen van rechtswege toegelaten tot arbeid als ze voldoen aan de voorafgaande Limosa-aangifte conform titel IV, hoofdstuk 8, afdeling 2, van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de onderdanen van derde landen die in het kader van onderzoek hun recht op kortetermijnmobiliteit uitoefenen op voorwaarde dat aan hun tewerkstelling inkomsten zijn verbonden die hen in staat stellen om te voorzien in hun behoeften of in de behoeften van hun gezin, conform artikel 76, §1, eerste lid;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de werknemers die geen onderdaan zijn van een lidstaat van de Europese Economische Ruimte en die tewerkgesteld zijn door een onderneming die gevestigd is in een lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en die zich tijdelijk naar België begeven om diensten te verrichten, op voorwaarde dat ze voldoen aan een van de volgende voorwaarden:&nbsp;<br>
+a) &nbsp;&nbsp; &nbsp;ze verblijven in de lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en ze beschikken daar over een recht op verblijf of een verblijfsvergunning van meer dan drie maanden;&nbsp;<br>
+b) &nbsp;&nbsp; &nbsp;ze zijn wettig tewerkgesteld in de lidstaat waar ze verblijven, en de vergunning is ten minste geldig voor de duurtijd van het werk dat ze in België moeten uitvoeren;&nbsp;<br>
+c) &nbsp;&nbsp; &nbsp;ze zijn in het bezit van een regelmatige arbeidsovereenkomst;&nbsp;<br>
+d) &nbsp;&nbsp; &nbsp;ze beschikken over een paspoort en een verblijfsvergunning met een duurtijd die minimaal gelijkwaardig is met de duurtijd van de dienstverlening om hun terugkeer naar hun land van oorsprong of verblijf te verzekeren.&nbsp;<br>
 <br>
-In het eerste lid, 5°, wordt verstaan onder kortetermijnmobiliteit in het kader van ICT: het recht waarover de onderdaan van een derde land die in het bezit is van een geldige vergunning voor een binnen een onderneming overgeplaatste persoon, die afgegeven is door een andere lidstaat, beschikt om op het Belgische grondgebied te verblijven en te werken in elke entiteit die in België is gevestigd en die tot de onderneming of dezelfde groep van ondernemingen behoort te werken, gedurende een maximale periode van 90 dagen binnen elke periode van 180 dagen.<br>
+In het eerste lid, 1°, wordt onder het recht op kortetermijnmobiliteit verstaan: het recht waarover de onderdaan van een derde land beschikt die in het bezit is van een geldige vergunning voor onderzoeker, die afgegeven is door een andere lidstaat, om op het Belgische grondgebied te verblijven om een deel van zijn onderzoek uit te voeren gedurende een periode van honderdtachtig dagen binnen elke periode van driehonderdzestig dagen.&nbsp;<br>
+&nbsp;<br>
+§3. De volgende categorieën van personen worden van rechtswege toegelaten tot arbeid:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de gedetacheerde werknemers die niet onderworpen zijn aan een voorafgaande Limosa-aangifte conform artikel 1 van het koninklijk besluit van 20 maart 2007 tot uitvoering van het Hoofdstuk 8 van Titel IV van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen als hun prestaties in België beperkt zijn tot maximaal negentig dagen binnen een periode van honderdtachtig dagen, berekend conform artikel 6, tweede en derde lid, van de wet van 15 december 1980;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de onderzoekers of de internationale docenten die verbonden zijn aan een erkende Belgische onderzoeksinstelling, als hun prestaties beperkt zijn tot een periode van maximaal negentig dagen binnen elke periode van honderdtachtig dagen, berekend conform artikel 6, tweede en derde lid, van de wet van 15 december 1980;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de houders van een geldige toelating tot arbeid die is afgeleverd conform hoofdstuk 9 die een flexi-job uitoefenen.&nbsp;<br>
 <br>
-In het eerste lid, 6°, wordt verstaan onder kortetermijnmobiliteit in het kader van onderzoek: het recht waarover de onderdaan van een derde land beschikt die in het bezit is van een geldige vergunning voor onderzoeker, die afgegeven is door een andere lidstaat, om op het Belgische grondgebied te verblijven om er een deel van hun onderzoek uit te voeren, gedurende een periode van 180 dagen binnen elke periode van 360 dagen.<br>
-<br>
-§ 2. Zijn van rechtswege toegelaten tot arbeid, de gedetacheerde werknemers die niet onderworpen zijn aan een voorafgaandelijke Limosa-aangifte conform artikel 1 van het koninklijk besluit van 20 maart 2007 tot uitvoering van het Hoofdstuk 8 van Titel IV van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen, op voorwaarde dat hun verblijf in België niet langer duurt dan drie opeenvolgende maanden.<br>
-<br>
-§ 3. Zijn van rechtswege toegelaten tot arbeid de onderzoekers of internationaal docenten die voor een periode van maximaal negentig dagen binnen elke periode van honderdtachtig dagen verbonden zijn aan een Belgische erkende onderzoeksinstelling.
+In het eerste lid, 3°, wordt onder flexi-job verstaan: de tewerkstelling als vermeld in artikel 3, 1°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken.
 
 ### ART 17.
 
@@ -246,12 +299,13 @@ De volgende personen worden toegelaten tot arbeid:<br>
 De bezoldiging bedraagt minstens 80% van het gemiddeld bruto jaarloon voor de werknemer, verbonden door een arbeidsovereenkomst met een in België gevestigde werkgever, voor zover de werknemer:<br>
 a) ofwel de leeftijd van dertig jaar niet heeft bereikt;<br>
 b) ofwel tewerkgesteld wordt als verpleegkundige;<br>
+c) ofwel als leerkracht wordt tewerkgesteld in een onderwijsinstelling die de Vlaamse Gemeenschap heeft erkend;<br>
 2° leidinggevend personeel, op voorwaarde dat hun jaarlijkse bezoldiging minstens 160% bedraagt van het gemiddeld bruto jaarloon;<br>
 3° hooggeschoold personeel dat in aanmerking komt voor de Europese blauwe kaart conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 1, van dit besluit;<br>
 4° ...<br>
 5° postdoctoraal onderzoekers die een tegemoetkoming voor wetenschappelijk onderzoek genieten voor een periode van maximum drie jaar;<br>
 6° onderzoekers die, op basis van een gastovereenkomst met een erkende onderzoeksinstelling, in aanmerking komen voor een vergunning voor onderzoekers of een vergunning voor langetermijnmobiliteit voor onderzoekers conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 4, van dit besluit;<br>
-7° de binnen de onderneming overgeplaatste leidinggevende-ICT, specialist-ICT, of stagiair-werknemer-ICT die in aanmerking komt voor een vergunning voor een binnen een onderneming overgeplaatste persoon of een vergunning voor langetermijnmobiliteit conform de voorwaarden, vermeld hoofdstuk 8, afdeling 3, van dit besluit;<br>
+7° de binnen de onderneming overgeplaatste leidinggevende-ICT, specialist-ICT, of stagiair-werknemer-ICT die in aanmerking komt voor een vergunning voor een binnen een onderneming overgeplaatste persoon of een vergunning voor langetermijnmobiliteit conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 3, van dit besluit;<br>
 8° buitenlandse stagiairs die in aanmerking komen voor een vergunning voor stagiairs conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 5, van dit besluit;<br>
 9° de houders van een universitair diploma die een verplichte stage verrichten om een vervolgdiploma te behalen;<br>
 10° stagiairs die tewerkgesteld worden door een Belgische overheid of door een internationale instelling van publiek recht die in België gevestigd is en waarvan het statuut geregeld wordt door een in werking getreden verdrag, of die tewerkgesteld worden in het kader van een programma dat goedgekeurd is door die instelling;<br>
@@ -260,7 +314,7 @@ b) ofwel tewerkgesteld wordt als verpleegkundige;<br>
 13° schouwspelartiesten, op voorwaarde dat hun jaarlijkse bezoldiging niet lager ligt dan 34.179 euro, berekend en aangepast conform artikel 78 van dit besluit;<br>
 14° de bedienaars van de erkende erediensten, op voorwaarde dat hun activiteiten de bediening betreft binnen een lokale geloofsgemeenschap, erkend conform artikel 2, 79, 115, 151, 187 of 230 van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten;<br>
 15° de in België verblijvende journalisten die uitsluitend verbonden zijn aan in het buitenland uitgegeven dagbladen of in het buitenland gevestigde persagentschappen of radio- of televisiestations;<br>
-16° gespecialiseerde techniekers die door een arbeidsovereenkomst met een in het buitenland gevestigde werkgever verbonden blijven en die naar België komen om over te gaan tot de montage, het op gang brengen of de herstelling van een installatie die in het buitenland bij die werkgever is vervaardigd of door hem is geleverd, voor een periode van maximum zes maanden;<br>
+16° gespecialiseerde technici die krachtens een arbeidsovereenkomst zijn tewerkgesteld bij een werkgever die in het buitenland is gevestigd en die naar België komen om over te gaan tot de montage, het op gang brengen of de herstelling van een installatie die door die werkgever in het buitenland is vervaardigd of geleverd, of de voormelde diensten verlenen op grond van een garantiebeding in de oorspronkelijke leveringsovereenkomst, voor een periode van maximaal zes maanden;<br>
 17° werknemers die verbonden blijven door een arbeidsovereenkomst met een in het buitenland gevestigde werkgever en die een specifieke beroepsopleiding geven of&nbsp;volgen in een Vlaams bedrijf in het kader van een opleidingsovereenkomst die toegevoegd is aan een verkoopcontract tussen dat Vlaamse bedrijf en de buitenlandse firma, op voorwaarde dat de duur van die opleiding niet langer duurt dan zes maanden;<br>
 18° vrijwilligers die in aanmerking komen voor een vergunning voor vrijwilligers, conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 6, van dit besluit;<br>
 19° werknemers die tewerkgesteld worden in een buitenlandse onderneming, die naar België komen om een opleiding te geven of&nbsp;te volgen in de Belgische zetel van de groep van ondernemingen waartoe hun onderneming behoort, in het kader van een opleidingsovereenkomst tussen de zetels van die groep.<br>
@@ -269,13 +323,23 @@ In het eerste lid, 5° wordt verstaan onder postdoctoraal onderzoeker: de person
 
 ### ART 18.
 
-§ 1. Onder voorbehoud van de toepassing van artikel 16, 17 en 19, wordt de toelating tot arbeid van bepaalde duur alleen uitgereikt aan de in België gevestigde werkgever als het niet mogelijk is binnen een redelijke termijn onder de werknemers op de arbeidsmarkt een werknemer te vinden die, al of niet door een nog te volgen beroepsopleiding of individuele beroepsopleiding, geschikt is om de arbeidsplaats in kwestie op een bevredigende wijze en binnen een billijke termijn te bekleden.<br>
+§1. Onder voorbehoud van de toepassing van artikel 16, 17 en 19 wordt de toelating tot arbeid van bepaalde duur uitgereikt aan de werkgever die in België gevestigd is, voor zover er geen kandidaat is op de arbeidsmarkt van een lidstaat van de Europese en Economische Ruimte die, al dan niet via een nog te volgen beroepsopleiding of individuele beroepsopleiding, geschikt is om de arbeidsplaats in kwestie op een gepaste wijze en binnen een billijke termijn te bekleden.<br>
 <br>
-Op straffe van onontvankelijkheid wordt de aanvraag op grond van het eerste lid gestaafd door bijzondere economische of sociale reden.<br>
+De &nbsp;aanvraag voldoet, op straffe van onontvankelijkheid, aan al de volgende voorwaarden:<br>
+1° &nbsp;&nbsp; &nbsp;de functie wordt vermeld op de knelpuntberoepenlijst die de VDAB jaarlijks publiceert;<br>
+2° &nbsp;&nbsp; &nbsp;de functie vereist een kwalificatie van niveau 2, niveau 3 of niveau 4;<br>
+3° &nbsp;&nbsp; &nbsp;de vacature voor de arbeidsplaats is gepubliceerd op de platformen van de VDAB en EURES, gedurende een aaneengesloten periode van minimaal 9 weken in de periode van 4 maanden onmiddellijk voorafgaand aan de aanvraag van toelating tot arbeid;<br>
+4°&nbsp;&nbsp; &nbsp;de werkgever vraagt bij de publicatie van de vacature als vermeld in 3° actieve bemiddeling voor de invulling van de vacature door de VDAB.<br>
+<br>
+De termijn, vermeld in het tweede lid, 3°, bedraagt bij aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8 minimaal drie weken in de periode van een maand onmiddellijk voorafgaand aan de aanvraag van toelating tot arbeid.<br>
+<br>
+In het tweede lid wordt onder de VDAB verstaan: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+<br>
+In het tweede lid, 3°, wordt onder EURES verstaan: het Europees netwerk van diensten voor arbeidsvoorziening als vermeld in Verordening 2016/589 (EU) van het Europees Parlement en de Raad van 13 april 2016 inzake een Europees netwerk van diensten voor arbeidsvoorziening (EURES), de toegang van werknemers tot mobiliteitsdiensten en de verdere integratie van de arbeidsmarkten en tot wijziging van Verordeningen (EU) nr. 492/2011 en (EU) nr. 1296/2013.<br>
 <br>
 § 2. De voorwaarden vermeld in de eerste paragraaf, worden vermoed vervuld te zijn voor functies waarvoor de minister vaststelt dat er een structureel tekort is.<br>
 <br>
-In toepassing van het eerste lid, stelt de minister tweejaarlijks, na raadpleging van de Adviescommissie voor Economische Migratie, een lijst op met middengeschoolde functies waarvoor er, voor de toepassing van dit besluit, een structureel tekort aan arbeidskrachten is.<br>
+In toepassing van het eerste lid, stelt de minister uiterlijk om de twee jaar, na raadpleging van de Adviescommissie voor Economische Migratie, een lijst op met middengeschoolde functies waarvoor er, voor de toepassing van dit besluit, een structureel tekort aan arbeidskrachten is.<br>
 <br>
 De minister deelt de lijst mee aan de Vlaamse Regering.<br>
 <br>
@@ -289,7 +353,9 @@ Onverminderd gunstiger bepalingen in internationale akkoorden, worden de volgend
 1° de buitenlandse onderdanen die beschikken over een wettig verblijf in België en die bewijzen dat ze er&nbsp;vier jaar arbeid hebben verricht gedurende vijf jaar onmiddellijk voorafgaand aan de aanvraag;<br>
 2° de buitenlandse onderdanen die het statuut van langdurig ingezeten onderdanen in een andere lidstaat van de Europese Unie hebben verkregen krachtens wetgeving of reglementering ter omzetting van richtlijn 2003/109/EG van de Raad van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen, die beschikken over een wettig verblijf in België en die bewijzen dat ze er twaalf maanden arbeid hebben verricht gedurende maximaal achttien maanden onmiddellijk voorafgaand aan de aanvraag.<br>
 <br>
-Voor de toepassing van het eerste lid worden met arbeidsperioden gelijkgesteld de perioden van algehele arbeidsongeschiktheid als gevolg van een ziekte, beroepsziekte of arbeidsongeval, die zich voordeden op een moment dat de betrokkene op regelmatige wijze tewerkgesteld was door een in België gevestigde werkgever.<br>
+Voor de toepassing van het eerste lid worden met arbeidsperioden gelijkgesteld de perioden van algehele arbeidsongeschiktheid als gevolg van een ziekte, beroepsziekte, arbeidsongeval of tijdelijke werkloosheid, die zich voordeden op een moment dat de betrokkene op regelmatige wijze tewerkgesteld was door een in België gevestigde werkgever.<br>
+<br>
+Onder tijdelijke werkloosheid wordt het volgende verstaan: tijdelijke werkloosheid wegens overmacht, slecht weer, collectieve sluiting, staking of lock-out.<br>
 <br>
 De volgende perioden van arbeid komen niet in aanmerking voor de toepassing van het eerste lid:<br>
 1° de perioden die gedekt zijn door toelatingen tot arbeid die toegekend zijn op basis van artikel 2, § 1, 2°, of voor prestaties buiten de arbeidsovereenkomst;<br>
@@ -302,16 +368,24 @@ De volgende perioden van arbeid komen niet in aanmerking voor de toepassing van 
 
 ### ART 20.
 
-Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan.<br>
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2021/1883 van het Europees Parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van Richtlijn 2009/50/EG van de Raad.<br>
 <br>
 Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 1 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
 
 ### ART 21.
 
 De toelating tot arbeid in het kader van de Europese blauwe kaart wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
-1° de werkgever heeft met de buitenlandse werknemer een arbeidsovereenkomst gesloten van onbepaalde duur of voor minstens één jaar;<br>
-2° de bezoldiging van de buitenlandse werknemer bedraagt minstens 120% van het gemiddeld bruto jaarloon;<br>
-3° de werknemer toont hogere beroepskwalificaties aan aan de hand van een diploma van het hoger onderwijs.
+1° de werkgever heeft met de buitenlandse werknemer een arbeidsovereenkomst&nbsp;voor een hooggekwalificeerde baan gesloten van onbepaalde duur of voor minstens zes maanden;<br>
+2° de bezoldiging van de buitenlandse werknemer bedraagt minstens 130% van het gemiddeld bruto jaarloon;<br>
+3° de werknemer toont hogere beroepskwalificaties aan aan de hand van een diploma van het hoger onderwijs met een minimum kwalificatieniveau 6.<br>
+<br>
+Met hogere beroepskwalificaties als vermeld in het eerste lid, 3°, wordt gelijkgesteld, beroepservaring die voldoet aan al de volgende voorwaarden:<br>
+1° de buitenlandse werknemer is leidinggevende op het gebied van informatie- en communicatietechnologie als vermeld in ISCO-08 code 133 of specialist op het gebied van informatie- en communicatietechnologie als vermeld in ISCO-08 code 25;<br>
+2° de buitenlandse werknemer beschikt over minimaal drie jaar relevante beroepservaring die is verworven binnen zeven jaar voor de aanvraag van een Europese blauwe kaart.
+
+### ART 21/1.
+
+Houders van een geldige Europese blauwe kaart, afgeleverd door een andere Europese lidstaat, mogen in toepassing van artikel 16, §1, 1° of artikel 16, §2, 2° gedurende maximum 90 dagen binnen een periode van 180 dagen een tijdelijke activiteit uitoefenen in het Vlaamse gewest, op voorwaarde dat de tijdelijke activiteit rechtstreeks in verband staat met de belangen van de werkgever in de eerste Europese lidstaat en met de beroepsmatige verplichtingen van de houder van een Europese blauwe kaart op basis van de arbeidsovereenkomst in de eerste Europese lidstaat.
 
 ## Afdeling 2. De seizoenarbeiders
 
@@ -329,6 +403,12 @@ Onverminderd artikel 18 wordt een toelating tot arbeid voor seizoenarbeiders toe
 
 De toelating tot arbeid, vermeld in artikel 23, wordt toegekend voor maximum vijf maanden.
 
+### ART 24/1.
+
+Als de toelating tot arbeid is ingetrokken op basis van artikel 13, §2, 1°, a), of artikel 13, §2, 2°, of artikel 13, § 2, 3° betaalt de werkgever een schadevergoeding aan de seizoenarbeider.<br>
+<br>
+De schadevergoeding dekt alle verplichtingen die de werkgever had moeten nakomen als de toelating tot arbeid niet was ingetrokken. De werkgever betaalt een vergoeding die gelijk is aan het loon dat de seizoenarbeider zou ontvangen.
+
 ## Afdeling 3. De binnen de onderneming overgeplaatste personen
 
 ### ART 25.
@@ -342,7 +422,12 @@ Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 
 De toelating tot arbeid in het kader van de vergunning voor een binnen een onderneming overgeplaatste persoon wordt toegekend als aan al de volgende voorwaarden is voldaan:<br>
 1° de gastentiteit en de in een derde land gevestigde onderneming behoren tot dezelfde onderneming of dezelfde groep van ondernemingen;<br>
 2° de overgeplaatste werknemer is onmiddellijk voorafgaand aan de datum van de overplaatsing ten minste drie ononderbroken maanden in dienst bij die onderneming of groep van ondernemingen als leidinggevende, specialist of als stagiair-werknemer;<br>
-3° de overgeplaatste werknemer toont minimum kwalificaties niveau 5 aan, aan de hand van een diploma van hoger onderwijs voor de leidinggevende-ICT en de specialist-ICT, en minimum kwalificaties niveau 6 aan de hand van een universitair diploma, voor de stagiair-werknemer-ICT;<br>
+3° de overgeplaatste werknemer toont het volgende aan:<br>
+a)&nbsp;&nbsp; &nbsp;de leidinggevende-ICT: een leidinggevende positie bekleden conform art. 1, 11°;<br>
+b)&nbsp;&nbsp; &nbsp;de specialist-ICT: beschikken over een minimum kwalificatie niveau 5 of beroepservaring indien al de volgende voorwaarden zijn vervuld:<br>
+1) de specialist-ICT is leidinggevende op het gebied van informatie- en communicatietechnologie als vermeld in ISCO-08 code 133 of specialist op het gebied van informatie- en communicatietechnologie als vermeld in ISCO-08 code 25;<br>
+2) de specialist-ICT beschikt over minimaal drie jaar relevante beroepservaring die is verworven binnen zeven jaar voor de aanvraag van een vergunning voor een binnen een onderneming overgeplaatste persoon;<br>
+c)&nbsp;&nbsp; &nbsp;de stagiair-werknemer-ICT: beschikken over een minimum kwalificatie niveau 6 aan de hand van een universitair diploma;<br>
 4° de bezoldiging van de overgeplaatste werknemer is tijdens de gehele overplaatsing binnen een onderneming niet minder gunstig dan die van vergelijkbare functies overeenkomstig toepasselijke wetten of collectieve overeenkomsten of praktijken, conform artikel 79.
 
 ### ART 27.
@@ -457,11 +542,15 @@ De werkgever vult de aanvraag naar behoren in, en ondertekent het gedateerde for
 
 ### ART 42.
 
-De aanvraag door tussenkomst van de werkgever wordt ingediend door een natuurlijke persoon die daarvoor over de vereiste rechtsbekwaamheid beschikt. Dat kan de werkgever zelf zijn, of een natuurlijke persoon die op regelmatige wijze in België verblijft en die in naam en voor rekening van de werkgever handelt. Als de werkgever in het buitenland gevestigd is, kan alleen de natuurlijke persoon voor hem optreden.
+De aanvraag door tussenkomst van de werkgever wordt ingediend door een natuurlijke persoon die daarvoor over de vereiste rechtsbekwaamheid beschikt. Dat kan de werkgever zelf zijn, of een natuurlijke persoon die op regelmatige wijze in België verblijft en die in naam en voor rekening van de werkgever handelt. Als de werkgever in het buitenland gevestigd is, kan alleen de natuurlijke persoon voor hem optreden.<br>
+<br>
+De natuurlijke persoon die in naam en voor rekening van de werkgever de aanvraag indient en tevens bemiddelt tussen werkgever en werknemer, voldoet aan de voorwaarden vermeld in hoofdstuk 2 van het decreet van 10 december 2020 betreffende de private arbeidsbemiddeling.
 
 ### ART 43.
 
-De werkgever of, in voorkomend geval, de werknemer, voegt de documenten, vermeld in artikel 61/25-2, § 1, tweede lid, van de wet van 15 december 1980, en, in toepassing van artikel 7, de geldige verblijfstitel vermeld in artikel 61/25-2, § 2, eerste lid, van de wet van 15 december 1980 bij het formulier, vermeld in artikel 41.
+De werkgever of, in voorkomend geval, de werknemer voegt bij het formulier, vermeld in artikel 41, al de volgende stukken:<br>
+1° &nbsp;&nbsp; &nbsp;de documenten, vermeld in artikel 61/25-2, §1, tweede lid, van de wet van 15 december 1980;<br>
+2° &nbsp;&nbsp; &nbsp;een kopie van de geldige verblijfstitel, vermeld in artikel 7, als de aanvraag wordt ingediend vanuit een wettig verblijf in België.
 
 ### ART 44.
 
@@ -485,7 +574,15 @@ Voor hooggeschoold personeel of personen die een leidinggevende functie bekleden
 
 Voor werknemers als vermeld in artikel 17, eerste lid, 3°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
 1° een fotokopie van de arbeidsovereenkomst, vermeld in titel I en III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, gedagtekend en ondertekend door beide partijen;<br>
-2° een fotokopie van de diploma's van het hoger onderwijs die de werknemer heeft behaald, in voorkomend geval met een vertaalde versie ervan.
+2° een fotokopie van de diploma's van het hoger onderwijs die de werknemer heeft behaald, in voorkomend geval met een vertaalde versie ervan of een bewijs van ervaring overeenkomstig artikel 21, tweede lid.<br>
+<br>
+Voor werknemers als vermeld in artikel 17, eerste lid, 3°, in het kader van een aanvraag langetermijnmobiliteit, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
+1° een geldige Europese blauwe kaart die is afgeleverd door de eerste Europese lidstaat;<br>
+2°het bewijs van twaalf maanden legaal verblijf in de eerste Europese lidstaat;;<br>
+3° een fotokopie van de naar behoren ingevulde arbeidsovereenkomst, vermeld in titel I en II of III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, gedagtekend en ondertekend door beide partijen;<br>
+4° een bewijs van bezoldiging conform artikel 21, 2°.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In het tweede lid wordt onder langetermijnmobiliteit verstaan: houders van een Europese blauwe kaart die na twaalf maanden legaal verblijf in de eerste Europese lidstaat op het grondgebied van een tweede Europese lidstaat binnenkomen, er verblijven en er werken met het oog op een hooggekwalificeerde baan.
 
 ### ART 47.
 
@@ -511,7 +608,7 @@ Voor de onderzoekers die in aanmerking komen voor een vergunning voor langetermi
 Voor de binnen de onderneming overgeplaatste leidinggevende-ICT of specialist-ICT die in aanmerking komt voor een vergunning voor een binnen een onderneming overgeplaatste persoon, vermeld in artikel 17, eerste lid, 7°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
 1° een fotokopie van de arbeidsovereenkomst tussen de werknemer en zijn in het buitenland gevestigde werkgever, in voorkomend geval met een vertaalde versie ervan;<br>
 2° een opdrachtbrief, ondertekend door de werkgever, waarin hij de duur van de detachering bepaalt, de functiebeschrijving, de arbeids- en loonvoorwaarden tijdens de duur van de detachering, en de gegevens van de entiteit gelegen in een derde land waar de werknemer na de beëindiging van de overplaatsing kan worden overgeplaatst;<br>
-3° een fotokopie van de diploma's van het hoger onderwijs die de betrokkene heeft behaald, in voorkomend geval met een vertaalde versie ervan;<br>
+3° een fotokopie van de diploma's van het hoger onderwijs die de betrokkene heeft behaald, in voorkomend geval met een vertaalde versie ervan, of een bewijs van ervaring overeenkomstig artikel 26, 3°, b);<br>
 4° het bewijs dat de gastentiteit en de in een derde land gevestigde onderneming tot dezelfde onderneming of groep van ondernemingen behoren.<br>
 <br>
 Voor de binnen de onderneming overgeplaatste stagiair-werknemer-ICT die in aanmerking komt voor een vergunning voor een binnen een onderneming overgeplaatste persoon, vermeld in artikel 17, eerste lid, 7°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
@@ -549,7 +646,7 @@ Voor de stagiairs, vermeld in artikel 17, eerste lid, 10°, voegt de werkgever d
 ### ART 54.
 
 Voor werknemers als vermeld in artikel 17, eerste lid, 11°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
-1° een fotokopie van de arbeidsovereenkomst, vermeld in titel I en III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, gedagtekend en ondertekend door beide partijen;<br>
+1° een kopie van de arbeidsovereenkomst, vermeld in titel I en III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, van de stageovereenkomst of van de plaatsingsovereenkomst, die is gedagtekend en ondertekend door beide partijen;<br>
 2° een afschrift van het internationale akkoord ter uitvoering waarvan de tewerkstelling plaatsvindt;<br>
 3° het bewijs dat het internationale akkoord ter uitvoering waarvan de tewerkstelling plaatsvindt, bekrachtigd is door een gewestelijke overheid of gemeenschapsoverheid in het kader van haar respectieve bevoegdheden.
 
@@ -571,7 +668,13 @@ De arbeidsovereenkomst vermeld in het eerste lid, 1°, bevat een beschrijving va
 
 Voor de werknemers, vermeld in artikel 17, eerste lid, 14°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
 1° het bewijs dat het gaat om een erkende geloofsgemeenschap binnen een erkende eredienst;<br>
-2° het bewijs dat de betrokkene bedienaar van de eredienst is. Het bewijs wordt geleverd met een afschrift van de aanstellingsakte van de FOD Justitie of van een bewijs van aanstelling door de Belgische verantwoordelijke van de erkende eredienst. De duur van de opdracht en de bestaansmiddelen worden vermeld op dat bewijs.
+2° het bewijs dat de betrokkene bedienaar van de eredienst is. Het bewijs wordt geleverd met een afschrift van de aanstellingsakte van de FOD Justitie of van een bewijs van aanstelling door de Belgische verantwoordelijke van de erkende eredienst. De duur van de opdracht en de bestaansmiddelen worden vermeld op dat bewijs;<br>
+3° het schriftelijk bewijs dat de betrokkene als bedienaar van de erkende eredienst noch rechtstreeks, noch onrechtstreeks bezoldigd wordt door een buitenlandse overheid.<br>
+<br>
+Het schriftelijk bewijs als vermeld in het eerste lid wordt, op straffe van onontvankelijkheid, aangetoond aan de hand van één of meerdere van de volgende stukken:<br>
+1° een kopie van een arbeidsovereenkomst naar Belgisch recht &nbsp;&nbsp; &nbsp;gedagtekend en ondertekend door beide partijen;<br>
+2° een gedagtekende en schriftelijke verklaring van de Federale Overheidsdienst Justitie waaruit blijkt dat de bedienaar van de erkende eredienst wordt bezoldigd door de federale overheid in het kader van artikel 181 van de Grondwet en de Wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten, van de bedienaars van de erkende erediensten en van de afgevaardigden van de Centrale vrijzinnige Raad;<br>
+3° een gedagtekende en schriftelijke verklaring van het federaal erkend representatief orgaan van de erkende eredienst waarin verklaard wordt dat de betrokken bedienaar van de erkende eredienst niet wordt bezoldigd door een buitenlandse overheid.
 
 ### ART 58.
 
@@ -580,7 +683,7 @@ Voor de journalisten die in België verblijven en die uitsluitend verbonden zijn
 ### ART 59.
 
 Voor gespecialiseerde technici als vermeld in artikel 17, eerste lid, 16°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
-1° een fotokopie van de leveringsovereenkomst waaruit blijkt dat de installatie die de gespecialiseerde technicus komt monteren, die hij in gang komt zetten of die hij komt herstellen, vervaardigd of geleverd is door zijn werkgever die in het buitenland gevestigd is;<br>
+1° een fotokopie van de leveringsovereenkomst waaruit blijkt dat de installatie die de gespecialiseerde technicus komt monteren, die hij in gang komt zetten of die hij komt herstellen, vervaardigd of geleverd is door zijn werkgever die in het buitenland gevestigd is of de voormelde diensten die op grond van een garantiebeding in de oorspronkelijke leveringsovereenkomst verricht zijn;<br>
 2° een nota met vermelding van de sector en het activiteitengebied van de werkgever die in het buitenland gevestigd is en die zijn werknemer detacheert;<br>
 3° een fotokopie van de arbeidsovereenkomst tussen de technicus en zijn werkgever die in het buitenland gevestigd is, waarbij een fotokopie gevoegd is van de dienstopdracht of de opdrachtbrief, ondertekend door de werkgever, met een beschrijving van de duur van de detachering, alsook van de arbeids- en loonvoorwaarden voor de duur van de detachering, in voorkomend geval met een vertaalde versie ervan.
 
@@ -608,11 +711,19 @@ Voor werknemers die worden gedetacheerd om een opleiding te geven of te volgen i
 
 ### ART 63.
 
-Voor alle andere werknemers dan de werknemers, vermeld in artikel 45 tot en met 62, of artikel 65, voegt de werkgever naast de documenten, vermeld in artikel 43 en 44, een fotokopie van de naar behoren ingevulde arbeidsovereenkomst, vermeld in titel I en II of III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruiker, gedagtekend en ondertekend door beide partijen, toe aan het formulier, vermeld in artikel 41.<br>
+Voor de aanvragen, vermeld in artikel 18, voegt de werkgever al de volgende stukken bij het formulier, vermeld in artikel 41:<br>
+1° een fotokopie van de naar behoren ingevulde arbeidsovereenkomst, vermeld in titel I en II of III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, gedagtekend en ondertekend door beide partijen;<br>
+2° een uitgebreide beschrijving van de functie en van het takenpakket;<br>
+3° het curriculum vitae dat een volledig overzicht bevat van de gevolgde opleidingen, de werkervaring en de nevenactiviteiten van de buitenlandse werknemer;<br>
+4° in voorkomend geval, het diploma, het getuigschrift of het ervaringsbewijs dat de kwalificatie van de werknemer voor de specifieke functie aantoont.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De arbeidsovereenkomst, vermeld in het eerste lid, 1°, bevat de persoonlijke gegevens van de werkgever en de werknemer, de duur en de plaats van de tewerkstelling, het werkrooster, het loon, het nummer en de naam van het paritair comité waaronder de werkgever ressorteert, de functie van de werknemer en de classificatie van de functie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De arbeidsovereenkomst, vermeld in het eerste lid, 1°, kan geen arbeidsovereenkomst zijn als vermeld in hoofdstuk II, afdeling 2, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, en geen PWA-arbeidsovereenkomst als vermeld in artikel 3 tot en met 6 van de wet van 7 april 1999 betreffende de PWA-arbeidsovereenkomst.<br>
 <br>
-De arbeidsovereenkomst, vermeld in het eerste lid bevat de persoonlijke gegevens van de werkgever en de werknemer, de duur en de plaats van de tewerkstelling, het werkrooster, het loon, het nummer en de naam van het paritair comité waaronder de werkgever ressorteert, de functie van de werknemer en de classificatie van de functie.<br>
+Op verzoek van de bevoegde overheid legt de werkgever het bewijs van attestering voor door de publieke arbeidsbemiddelingsdienst, een overheidsdienst of door de diplomatieke of consulaire post van het land waar de buitenlandse werknemer is gevestigd, dat de waarachtigheid van de gegevens, vermeld in het eerste lid, 3° tot en met 4°, aantoont.&nbsp;<br>
 <br>
-De arbeidsovereenkomst, vermeld in het eerste lid, kan geen arbeidsovereenkomst dienstencheques zijn als vermeld in hoofdstuk II, afdeling 2, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, en geen PWA-arbeidsovereenkomst als vermeld in artikelen 3 tot 6 van de wet van 7 april 1999 betreffende de PWA-arbeidsovereenkomst.
+In het vierde lid wordt onder publieke arbeidsbemiddelingsdienst verstaan: de dienst die lid is van de internationale vereniging zonder winstoogmerk World Association of Public Employment Services.
 
 ### ART 64.
 
@@ -629,7 +740,7 @@ De aanvraag wordt ingediend met een formulier waarvoor de bevoegde overheid een 
 De onderdaan van een derde land vult de aanvraag naar behoren in en ondertekent het gedateerde formulier.<br>
 <br>
 § 2. De werknemer voegt naast de documenten, vermeld in artikel 43, de volgende documenten bij het formulier, vermeld in paragraaf 1:<br>
-1° een fotokopie van de loonfiches of loonafrekeningen voor de volledige periode van de recentste toelating tot arbeid;<br>
+1° een fotokopie van de loonfiches of loonafrekeningen voor de de periode van de laatste zes maanden van de recentste toelating tot arbeid, die de aanvraag tot toelating tot arbeid van onbepaalde duur voorafgaat;<br>
 2° een fotokopie van de lopende arbeidsovereenkomst of, bij het ontbreken daarvan, om het even welk ander document, aan de hand waarvan de onderdaan van een derde land aantoont dat hij over voldoende bestaansmiddelen beschikt, overeenkomstig artikel 61/25-5, § 1, 2° van de wet van 15 december 1980.
 
 ### ART 66.
@@ -638,19 +749,17 @@ De bevoegde overheid beslist binnen tien dagen vanaf de ontvangst van de aanvraa
 <br>
 Een onvolledige aanvraag kan aangevuld worden conform artikel 19, § 2 van het samenwerkingsakkoord van 2 februari 2018.<br>
 <br>
-De werkgever of de werknemer, vermeld in artikel 65, wordt met een aangetekende brief op de hoogte gebracht van de beslissing van onontvankelijkheid.
+De aanvrager, vermeld in artikel 65, wordt met een aangetekend schrijven op de hoogte gebracht van de beslissing van onontvankelijkheid.
 
 ### ART 67.
 
-§ 1. De beslissing om de toegang tot arbeid te weigeren, wordt door bevoegde overheid met een aangetekende brief betekend aan de werkgever en aan de werknemer die voldoet aan de voorwaarden, vermeld in artikel 9 van de wet van 30 april 1999. De beslissing wordt aan de werknemer betekend op de gekozen woonplaats.<br>
+§ 1. De beslissing om de toelating tot arbeid te weigeren of in te trekken, wordt door de bevoegde overheid met een aangetekend schrijven betekend aan de aanvrager, en elektronisch ter kennis gegeven aan de werknemer.<br>
 <br>
 De beslissing vermeldt de mogelijkheid tot beroep, vermeld in artikel 9 van de wet van 30 april 1999, de bevoegde instanties die er kennis van nemen, alsook de te eerbiedigen vormvereisten en termijnen.<br>
 <br>
-§ 2. Zolang het beroep bij de minister hangende is, wordt elke aanvraag die na het beroep wordt ingesteld, niet ontvankelijk verklaard in de volgende gevallen:<br>
-1° het gaat om een arbeidsbetrekking voor dezelfde werknemer en het beroep dat bij de minister hangende is, betreft een aanvraag die ingediend is conform artikel 41 of artikel 69;<br>
-2° het gaat om een aanvraag die is ingediend door dezelfde werknemer en het beroep dat bij de minister hangende is, betreft een aanvraag die ingediend is conform artikel 65.<br>
+§2. Het beroep tegen een weigering of intrekking van een toelating van bepaalde duur blijft zonder gevolg wanneer voor de tewerkstelling van de werknemer die het voorwerp uitmaakt van het beroepsdossier, tijdens de behandeling van het beroep een toelating tot arbeid afgeleverd wordt.<br>
 <br>
-§ 3. De beslissing van de minister in beroep om de toegang tot arbeid te weigeren, wordt door bevoegde overheid met een aangetekende brief betekend aan de beroepsindiener.<br>
+§ 3. De beslissing van de minister in beroep om de toelating tot arbeid te weigeren of in te trekken, wordt door de bevoegde overheid met een aangetekend schrijven betekend aan de beroepsindiener.<br>
 <br>
 De beslissing vermeldt de mogelijkheid van beroep, de bevoegde instanties die er kennis van nemen, alsook de te eerbiedigen vormvereisten en termijnen.
 
@@ -675,7 +784,9 @@ De werkgever vult de aanvraag naar behoren in, en ondertekent het gedateerde for
 
 ### ART 70.
 
-De aanvraag door de werkgever wordt ingediend door een natuurlijke persoon die daarvoor beschikt over de vereiste rechtsbekwaamheid. Dat kan de werkgever zelf zijn, of een natuurlijke persoon die op regelmatige wijze in België verblijft en die in naam en voor rekening van de werkgever handelt. Als de werkgever in het buitenland gevestigd is, kan alleen de natuurlijke persoon voor hem optreden.
+De aanvraag door de werkgever wordt ingediend door een natuurlijke persoon die daarvoor beschikt over de vereiste rechtsbekwaamheid. Dat kan de werkgever zelf zijn, of een natuurlijke persoon die op regelmatige wijze in België verblijft en die in naam en voor rekening van de werkgever handelt. Als de werkgever in het buitenland gevestigd is, kan alleen de natuurlijke persoon voor hem optreden.<br>
+<br>
+De natuurlijke persoon die optreedt in naam en voor rekening van de werkgever en tevens bemiddelt tussen werkgever en werknemer, voldoet aan de wettelijke verplichtingen inzake private arbeidsbemiddeling, vermeld in hoofdstuk 2 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling.
 
 ### ART 71.
 
@@ -692,24 +803,27 @@ De werkgever wordt met een aangetekende brief op de hoogte gebracht van de besli
 
 ### ART 73.
 
-§ 1. De beslissing over de aanvraag van een toelating tot arbeid wordt genomen uiterlijk honderdtwintig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
-Indien er na het verstrijken van de termijn bedoeld in het eerste lid geen enkele beslissing werd genomen, wordt de toelatingen tot arbeid beschouwd te zijn toegekend.<br>
+§1. De bevoegde overheid beslist over de aanvraag van een toelating tot arbeid uiterlijk honderdtwintig dagen nadat ze de aanvrager op de hoogte heeft gebracht dat de aanvraag volledig is.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In uitzonderlijke omstandigheden die verbonden zijn aan de complexiteit van de aanvraag, kan de bevoegde overheid de termijn, vermeld in het eerste lid, verlengen. De bevoegde overheid brengt de werkgever daarvan op de hoogte.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als de bevoegde overheid na het verstrijken van de termijnen, vermeld in het eerste en tweede lid, geen beslissing over de toelating tot arbeid neemt, wordt de aanvraag van toelating tot arbeid geacht gunstig te zijn beoordeeld.<br>
 <br>
-§ 2. Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de beslissing over de aanvraag van een toelating tot arbeid genomen uiterlijk negentig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
+§2. Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de beslissing over de aanvraag van een toelating tot arbeid genomen uiterlijk negentig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
 <br>
 Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft en de onderdaan van een derde land in de loop van de voorafgaande vijf jaar ten minste eenmaal als seizoenarbeider op het Belgische grondgebied is toegelaten en tijdens elk van zijn verblijven de voorwaarden die gelden voor seizoenarbeiders heeft nageleefd, wordt de beslissing over de aanvraag genomen uiterlijk zestig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
 <br>
-Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de beslissing over een aanvraag van vernieuwing of verlenging genomen uiterlijk dertig dagen na de kennisgeving van het feit dat de aanvraag volledig is.
+Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de beslissing over een aanvraag van hernieuwing of verlenging genomen uiterlijk dertig dagen na de kennisgeving van het feit dat de aanvraag volledig is.
 
 ### ART 74.
 
-§ 1. De beslissing om de toegang tot arbeid te weigeren, wordt door bevoegde overheid met een aangetekende brief betekend aan de werkgever en aan de werknemer die voldoet aan de voorwaarden, vermeld in artikel 9 van de wet van 30 april 1999. De beslissing wordt aan de werknemer betekend op de gekozen woonplaats.<br>
+§ 1. De bevoegde overheid betekent haar beslissing om de toelating tot arbeid toe te kennen, te weigeren of in te trekken met een aangetekend schrijven aan de aanvrager, &nbsp;en brengt de werknemer elektronisch op de hoogte van deze beslissing.<br>
 <br>
 De beslissing vermeldt de mogelijkheid tot beroep, vermeld in artikel 9 van de wet van 30 april 1999, de bevoegde instanties die er kennis van nemen, alsook de te eerbiedigen vormvereisten en termijnen.<br>
 <br>
 § 2. Zolang het beroep bij de minister hangende is, wordt elke aanvraag die na het beroep wordt ingesteld, niet ontvankelijk verklaard wanneer het gaat om een arbeidsbetrekking voor dezelfde werknemer en het beroep dat bij de minister hangende is, een aanvraag betreft die ingediend is conform artikel 41 of artikel 69.<br>
 <br>
-§ 3. De beslissing van de minister in beroep om de toegang tot arbeid te weigeren, wordt door bevoegde overheid met een aangetekende brief betekend aan de beroepsindiener.<br>
+§ 3. De beslissing van de minister in beroep om de toelating tot arbeid te weigeren of in te trekken, wordt door de bevoegde overheid met een aangetekend schrijven betekend aan de beroepsindiener.<br>
 <br>
 De beslissing vermeldt de mogelijkheid van beroep, de bevoegde instanties die er kennis van nemen, alsook de te eerbiedigen vormvereisten en termijnen.
 
@@ -727,9 +841,7 @@ Het eerste lid is niet van toepassing indien de onderdaan van een derde land om 
 <br>
 Het eerste lid is niet van toepassing op aanvragen van een toelating tot arbeid voor seizoenarbeiders als vermeld in hoofdstuk 8, afdeling 2.<br>
 <br>
-Bij de berekening van de bezoldigingsbedragen vermeld in artikel 17, eerste lid, 1°, 2°,&nbsp;12°, voor wat de trainers betreft, en 13°, worden verschillende contracten voor deeltijdse prestaties in aanmerking genomen, voor zover elk contract voldoet aan de bezoldiging vermeld in het eerste lid.<br>
-<br>
-In afwijking van het vorige lid, wordt met toepassing van artikel 17, eerste lid, 1°, de toelating tot arbeid aan&nbsp;internationaal docenten toegekend voor deeltijdse prestaties, als het betaalde loon lager is dan het gemiddeld gewaarborgde maandelijks minimuminkomen dat door de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 beoogd wordt, indien de betrokkene aantoont over voldoende bestaansmiddelen te beschikken.<br>
+In afwijking van het eerste lid, wordt met toepassing van artikel 17, eerste lid, 1°, de toelating tot arbeid aan&nbsp;internationaal docenten toegekend voor deeltijdse prestaties, als het betaalde loon lager is dan het gemiddeld gewaarborgde maandelijks minimuminkomen dat door de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 beoogd wordt, indien de betrokkene aantoont over voldoende bestaansmiddelen te beschikken.<br>
 <br>
 § 2. De eerste paragraaf van dit artikel geldt met behoud van de toepassing van de loonvoorwaarden die verschuldigd zijn krachtens door de Koning overeenkomstig de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités algemeen verbindend verklaarde collectieve arbeidsovereenkomsten.<br>
 <br>
