@@ -40,7 +40,7 @@ Na de toekenning van een minimumbedrag van 89.901 euro per centrum als vermeld i
 <br>
 § 3. Minimaal 70% van de toegekende subsidie per begunstigde, zoals vermeld in paragraaf 2, wordt gebruikt om personeel aan te stellen dat de coördinatie kan opnemen van de afstemming van het ICT-opleidingsaanbod voor onderwijspersoneel binnen het centrum voor volwassenenonderwijs.<br>
 <br>
-§ 4. De subsidie, vermeld in paragraaf 1, wordt gebruikt in de periode vanaf 1 september 2022 tot en met 31 augustus 2024. De besteding van de subsidie, vermeld in paragraaf 1, begint uiterlijk vóór 31 augustus 2023.
+§ 4. De subsidie, vermeld in paragraaf 1, wordt gebruikt in de periode vanaf 1 september 2022 tot en met 31 augustus 2025. De besteding van de subsidie, vermeld in paragraaf 1, begint uiterlijk vóór 31 augustus 2023.
 
 ### ART 3.
 
@@ -54,7 +54,7 @@ De afstemming van het ICT-opleidingsaanbod voor onderwijspersoneel omvat al de v
 
 De subsidie, vermeld in artikel 2, wordt uitbetaald in de volgende twee schijven:<br>
 1° een voorschot van 80% wordt uitbetaald nadat dit besluit is goedgekeurd en nadat de middelen zijn vastgelegd;<br>
-2° het saldo van 20% van de subsidie wordt betaald als al de begunstigden een financieel verslag hebben voorgelegd aan de afdeling Hoger Onderwijs en Volwassenenonderwijs van het departement, dat de voormelde afdeling goedkeurt.<br>
+2° het saldo van 20% van de subsidie wordt betaald als de begunstigden een financieel verslag hebben voorgelegd aan de afdeling Hoger Onderwijs en Volwassenenonderwijs van het departement, dat de voormelde afdeling goedkeurt.<br>
 <br>
 Het financieel verslag, vermeld in eerste lid, 2°, bevat al de volgende gegevens:<br>
 1° een overzicht van de uitgaven die gedaan zijn binnen de periode, vermeld in artikel 2, § 4;<br>
