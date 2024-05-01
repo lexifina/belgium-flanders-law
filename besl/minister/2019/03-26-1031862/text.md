@@ -30,14 +30,14 @@ De vergoeding voor een vaststelling die de MDT-arts uitvoert conform artikel 17,
 
 De vergoeding van de evaluerende arts bedraagt:<br>
 1° voor de opdrachten, vermeld in artikel 25, eerste lid, 1°, van het besluit van 7 december 2018:<br>
-a) voor een evaluatie alleen op grond van de bezorgde informatie: 49,97 euro;<br>
-b) voor een evaluatie aan huis: 66,63 euro;<br>
-c) voor een evaluatie onder begeleiding van een mentorarts: 33,32 euro;<br>
-d) voor een evaluatie met een observationeel onderzoek: 66,63 euro;<br>
+a)&nbsp;&nbsp; &nbsp;voor een evaluatie alleen op grond van de bezorgde informatie: 27,76 euro;<br>
+b)&nbsp;&nbsp; &nbsp;voor een evaluatie met een gesprek: 49,97 euro;<br>
+c)&nbsp;&nbsp; &nbsp;voor een evaluatie onder begeleiding van een mentorarts die alleen op grond van de bezorgde informatie wordt uitgevoerd: 49,97 euro;<br>
+d)&nbsp;&nbsp; &nbsp;voor een evaluatie onder begeleiding van een mentorarts met een gesprek: 72,18 euro;<br>
 2° voor de opdrachten die hij in het kader van een beroepsprocedure voor de arbeidsrechtbank heeft uitgevoerd, vermeld in artikel 25, derde lid, van het voormelde besluit:<br>
 a) voor het opstellen van een omstandig verslag in het kader van een tegenexpertise: 87,06 euro;<br>
 b) voor de aanwezigheid op de gerechtelijke zitting van de arbeidsrechtbank: 87,04 euro;<br>
-3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan Kind en Gezin heeft bepaald dat het die vergoedt: 66,63 euro per uur;<br>
+3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan het agentschap Opgroeien regie heeft bepaald dat het die vergoedt: 66,63 euro per uur;<br>
 4° voor de uitvoering van andere opdrachten, vermeld in artikel 32/1 van het voormelde besluit: 66,63 euro per uur.
 
 ### ART 4.
@@ -63,6 +63,26 @@ Ze worden verhoogd met 21% indien de MDT-arts of de evaluerend arts niet geniet 
 ### ART 6.
 
 De evaluerende arts bewijst zijn gevorderde en actieve kennis van het Nederlands als vermeld in artikel 22, § 1, eerste lid, 3°, van het besluit van 7 december 2018, door een studiebewijs van het genoten onderwijs als vermeld in artikel 24, tweede lid, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie of door een attest voor te leggen waaruit een taalvaardigheidsniveau C1 (ERK-niveau) blijkt voor luisteren, gesprekken voeren, lezen en schrijven.
+
+## HOOFDSTUK 3/1. Rangorde van de evaluerend artsen
+
+### ART 6/1.
+
+§1. De beschikbare evaluerend artsen worden op basis van de criteria, vermeld in artikel 23/1, tweede lid, van het besluit van 7 december 2018, in een rangorde gerangschikt.<br>
+<br>
+Voor de invulling van de criteria, vermeld in het eerste lid, wordt rekening gehouden met de volgende indicatoren:<br>
+1° de visie van de evaluerend artsen conform de erkenningsvoorschriften en -voorwaarden, vermeld in artikels 22 tot en met 24 van het besluit van 7 december 2018;<br>
+2° hun competenties: zorgvuldigheid, resultaatsgerichtheid, zelfontwikkeling, communicatie en samenwerking;<br>
+3° de kwaliteit van de evaluaties die ze al hebben uitgevoerd: het inhoudelijk kwaliteitsniveau van de evaluaties gelet op de geldende richtlijnen van het agentschap Opgroeien regie.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Het agentschap Opgroeien regie legt de nadere regels vast voor de procedure voor de toetsing van de indicatoren.<br>
+<br>
+§2. Aan de indicatoren, vermeld in paragraaf 1, tweede lid, wordt een score gekoppeld om de rangorde te kunnen opmaken.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Deze score is:<br>
+1° de visie van de evaluerend artsen conform de erkenningsvoorschriften en -voorwaarden, vermeld in artikels 22 tot en met 24 van het besluit van 7 december 2018: 20%;<br>
+2° hun competenties: 40%;<br>
+3° de kwaliteit van de evaluaties die ze al hebben uitgevoerd: 40%.
 
 ## HOOFDSTUK 4. Slotbepaling
 
