@@ -173,19 +173,21 @@ De begunstigden bezorgen het ingevulde inlichtingenformulier aan het agentschap 
 
 ### ART 13.
 
-§ 1. Het agentschap Opgroeien regie verzamelt de nodige medische informatie of sociale en andere verslagen om de gevolgen vast te stellen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit.<br>
+§1. Het agentschap Opgroeien regie verzamelt de nodige medische informatie of sociale en andere verslagen om de gevolgen vast te stellen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit.<br>
 <br>
-De evaluerend arts houdt bij de vaststelling, vermeld in het eerste lid, naast zijn eigen medische vaststellingen rekening met de medische, sociale en andere verslagen die zijn bezorgd. Daarnaast baseert de evaluerend arts zich op een observationeel onderzoek van het kind en gesprekken met de personen die de toestand van het kind kennen.<br>
+Als de begunstigden de informatie en gegevens die het agentschap Opgroeien regie aan hen vraagt, niet bezorgen binnen vijfenveertig dagen nadat het agentschap Opgroeien regie het inlichtingenformulier heeft verzonden, stuurt het agentschap Opgroeien regie een herinnering. Als de begunstigden niet reageren op de voormelde herinnering binnen vijfenzeventig dagen nadat het agentschap Opgroeien regie de herinnering heeft verzonden, sluit het agentschap Opgroeien regie het dossier af. Het agentschap Opgroeien regie deelt de begunstigden en de uitbetalingsactor mee dat het dossier zonder gevolg is afgesloten.<br>
 <br>
-Als de begunstigden de gevraagde informatie en gegevens niet bezorgen binnen vijfenveertig dagen nadat het agentschap Opgroeien regie het inlichtingenformulier heeft verzonden, stuurt het agentschap Opgroeien regie een herinnering. Als de begunstigden niet reageren op de voormelde herinnering binnen vijfenzeventig dagen nadat het agentschap Opgroeien regie de herinnering heeft verzonden, sluit het agentschap Opgroeien regie het dossier af. Het agentschap Opgroeien regie deelt de begunstigden en de uitbetalingsactor mee dat het dossier zonder gevolg is afgesloten.<br>
+§2. De evaluerend arts verricht de vaststelling, vermeld in artikel 10, op grond van de bezorgde informatie.&nbsp;<br>
 <br>
-§ 2. Het agentschap Opgroeien regie stuurt aan de begunstigden een uitnodiging om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerend arts. Als geen gevolg gegeven wordt aan de uitnodiging, wordt een tweede oproeping gestuurd. Als ook aan de tweede oproeping geen gevolg wordt gegeven, doet de evaluerend arts zijn vaststelling alleen op basis van de beschikbare informatie en gegevens.<br>
+§3. In afwijking van paragraaf 2 baseert de evaluerend arts zich voor de vaststelling, vermeld in artikel 10, op de bezorgde informatie en een gesprek met het kind en de personen die de toestand van het kind kennen, als de begunstigden zich verzetten tegen de voormelde vaststelling alleen op grond van de bezorgde informatie.<br>
 <br>
-Als de evaluerend arts niet over voldoende elementen beschikt om een vaststelling te kunnen doen, deelt hij dat mee aan het agentschap Opgroeien regie. Op basis van die informatie deelt de uitbetalingsactor aan de begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.<br>
+Als de begunstigden zich conform het eerste lid verzetten, stuurt het agentschap Opgroeien regie aan de begunstigden een uitnodiging om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerend arts. Als geen gevolg gegeven wordt aan de voormelde uitnodiging, baseert de evaluerend arts zich voor de vaststelling, vermeld in artikel 10, alleen op de beschikbare informatie en gegevens.<br>
 <br>
-Als het kind zich om medische redenen niet kan verplaatsen, kan het onderzoek ter plaatse worden verricht.<br>
+Als het kind zich om medische redenen niet kan verplaatsen, kan het gesprek, vermeld in het eerste lid, ter plaatse worden gehouden.<br>
 <br>
-De begunstigden voor het kind en het kind zelf kunnen zich bij de onderzoeken, vermeld in dit artikel, laten bijstaan door een vertrouwenspersoon, conform de wet van 22 augustus 2002 betreffende de rechten van de patiënt.
+De begunstigden voor het kind en het kind zelf kunnen zich bij het gesprek, vermeld in het eerste lid, laten bijstaan door een vertrouwenspersoon, conform de wet van 22 augustus 2002 betreffende de rechten van de patiënt.<br>
+<br>
+§4. Als de evaluerend arts niet over voldoende elementen beschikt om een vaststelling vermeld in artikel 10, te kunnen doen, deelt hij dat mee aan het agentschap Opgroeien regie. Op basis van de voormelde mededeling deelt de uitbetalingsactor aan de begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.
 
 ### ART 14.
 
@@ -195,17 +197,7 @@ Op basis van de vaststelling van de gevolgen van de aandoening waaruit de specif
 
 ### ART 15.
 
-In afwijking van artikel 13 verricht de evaluerend arts in de volgende situaties de evaluatie alleen op grond van de bezorgde informatie:<br>
-1° als de evaluerend arts in samenspraak met het agentschap Opgroeien regie van oordeel is dat hij met de bezorgde informatie over voldoende informatie beschikt om een gefundeerde beslissing te nemen. Op verzoek van de begunstigden kan de evaluerend arts of het agentschap Opgroeien regie de nodige toelichting bij de evaluatie geven;<br>
-2° als de evaluerend arts van oordeel is dat hij over voldoende informatie beschikt om een gefundeerde beslissing te nemen en de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, de levensprognose van het kind op korte termijn bedreigt. In dit geval moet bijkomend aan een van de volgende voorwaarden zijn voldaan:<br>
-a) de zware behandeling heeft gevolgen voor de immuniteit;<br>
-b) er is een belangrijke chirurgische ingreep of een ongeval;<br>
-c) er is een ziekenhuisopname of posttraumatische revalidatie in een instelling gedurende minstens zes maanden;<br>
-d) het kind krijgt palliatieve verzorging.<br>
-<br>
-De evaluatie, vermeld in het eerste lid, is alleen mogelijk als de begunstigden zich er niet tegen verzet hebben in het inlichtingenformulier.<br>
-<br>
-De minister kan de mogelijkheid om een beslissing te nemen op basis van stukken, ook uitbreiden tot andere gevallen. De minister somt daarbij de criteria op die van toepassing zijn bij deze beoordeling op basis van stukken en bepaalt hoe lang deze mogelijkheid kan gebruikt worden, beperkt in de tijd.
+...
 
 ### ART 15/1.
 
@@ -264,8 +256,6 @@ Als er door de ambtshalve herziening een hoger bedrag kan worden toegekend voor 
 <br>
 Als op de einddatum van de geldigheid van de vorige beslissing geen ambtshalve herziening plaatsvindt en de begunstigden een ingevuld inlichtingenformulier hebben bezorgd aan het agentschap Opgroeien regie, wordt de vorige beslissing verlengd tot de datum waarop de beslissing die voortvloeit uit de ambtshalve herziening wordt genomen.<br>
 <br>
-In het zesde lid wordt verstaan onder agentschap Opgroeien regie: het agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
-<br>
 Als met toepassing van de beslissing die voortvloeit uit de ambtshalve herziening die plaatsvindt na een verlenging als vermeld in het zesde lid, een hoger bedrag kan worden toegekend voor de periode vóór de ambtshalve herziening na een verlenging als vermeld in het zesde lid, betaalt de uitbetalingsactor het verschil. Als de beslissing die voortvloeit uit de voormelde ambtshalve herziening tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin die beslissing is genomen.<br>
 <br>
 § 2. Als wordt vastgesteld dat er een materiële fout is begaan bij het nemen of in de verwerking van de beslissing, wordt die rechtgezet door de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie. De evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
@@ -274,7 +264,7 @@ Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden
 
 ### ART 20.
 
-In afwijking van artikel 19, § 1, kunnen de begunstigden op basis van nieuwe inlichtingen een aanvraag tot herziening van de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, indienen bij de uitbetalingsactor. De herziening verloopt conform artikel 11 tot en met 16.<br>
+In afwijking van artikel 19, § 1, kunnen de begunstigden op basis van nieuwe inlichtingen die effect hebben op de ondersteuningsbehoefte een aanvraag tot herziening van de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, indienen bij de uitbetalingsactor. De herziening verloopt conform artikel 11 tot en met 16.<br>
 <br>
 Aan de herzieningsaanvragen die binnen zes maanden voor het tijdstip van de ambtshalve herziening, vermeld in artikel 19, § 1, derde lid, zijn ingediend, wordt geen gevolg gegeven. In voorkomend geval gaat de ambtshalve herziening door.<br>
 <br>
@@ -312,6 +302,8 @@ De minister bepaalt de nadere regels voor de gevorderde en actieve kennis van he
 <br>
 § 2. Een evaluerend arts kan pas zelfstandig medische vaststellingen in het kader van dit besluit uitvoeren nadat hij een aantal vaststellingen, bepaald door het agentschap Opgroeien regie, heeft bijgewoond en uitgevoerd onder begeleiding van een mentorarts, als bedoeld in artikel 32.<br>
 <br>
+Het agentschap Opgroeien regie bepaalt wanneer de mentorzittingen, vermeld in het eerste lid, georganiseerd worden.<br>
+<br>
 § 3. Om de erkenning als evaluerend arts te kunnen behouden of te verlengen moet de betrokkene:<br>
 1° zijn opdrachten vervullen conform de wetenschappelijke aanbevelingen, met inachtneming van de code van de geneeskundige plichtenleer. Het agentschap Opgroeien regie verstrekt de nodige informatie en aanbevelingen;<br>
 2° in het eerste jaar van de erkenning een vormingstraject volgen, aangeboden door&nbsp;het agentschap Opgroeien regie en gebaseerd op wetenschappelijke bevindingen en aanbevelingen;<br>
@@ -332,6 +324,19 @@ Bij de uitvoering van de opdrachten in het kader van dit besluit voldoet de eval
 6° schoolt zich bij in relevante onderwerpen in het kader van dit besluit;<br>
 7° werkt alleen mee aan wetenschappelijk onderzoek bij de uitvoering van zijn opdracht in het kader van dit besluit na toestemming van het agentschap Opgroeien regie;<br>
 8° respecteert de fysieke en de psychische integriteit van elk kind.
+
+### ART 23/1.
+
+Het agentschap Opgroeien regie maakt op basis van de ontvangen aanvragen, vermeld in artikel 11, bundels op van aanvragen die ter beschikking worden gesteld aan de evaluerend arts in de digitale toepassing waarin het agentschap Opgroeien regie voorziet.<br>
+<br>
+De evaluerend arts kiest zelf welke volume hij opneemt. Indien meerdere beschikbare evaluerend artsen in aanmerking komen voor een bundel krijgt de evaluerend arts voorrang die:<br>
+1° regelmaat en continuïteit biedt;<br>
+2° over specifieke competenties beschikt;<br>
+3° geen indicaties heeft dat hij de erkenningsvoorschriften en -voorwaarden, vermeld in artikels 22 tot en met 24, niet naleeft, of die niet in een proces tot schorsing of opheffing van zijn erkenning zit als vermeld in artikel 34 tot en met 36.<br>
+<br>
+De minister kan de nadere regels bepalen voor de toepassing van het tweede lid. Waaronder de invulling van de criteria die de rangorde bepalen en de procedure om tot de rangorde te komen.<br>
+<br>
+Als er niet voldoende evaluerend artsen in aanmerking komen op basis van de rangorde uit het tweede lid, kan de minister de wijze bepalen waarop een rangorde wordt gemaakt tussen de erkende, niet-opgeleide evaluerend artsen.
 
 ### ART 24.
 
