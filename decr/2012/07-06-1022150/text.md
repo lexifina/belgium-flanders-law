@@ -182,81 +182,45 @@ In aanvulling op de documenten, vermeld in artikel 16, moeten de organisaties, v
 
 ...
 
-## HOOFDSTUK 6 Grootstedelijke gebieden
+## HOOFDSTUK 6 ...
 
-## Afdeling 1 Het tweetalige gebied Brussel-Hoofdstad
+## Afdeling 1 ...
 
 ### ART. 40.
 
-Gemeenten in het tweetalige gebied Brussel-Hoofdstad die beschikken over een Nederlandstalige openbare bibliotheek die op basis van dit decreet wordt gesubsidieerd, kunnen een cultuurbeleidsplan indienen waarin wordt aangegeven hoe ze invulling zullen geven aan de Vlaamse beleidsprioriteiten,&nbsp;die de Vlaamse Regering kan specificeren.<br>
-<br>
-De Vlaamse beleidsprioriteiten voor de gemeenten in het tweetalige gebied Brussel-Hoofdstad zijn:<br>
-1° de gemeente voert een kwaliteitsvol en duurzaam lokaal cultuurbeleid;<br>
-2° de gemeente organiseert een laagdrempelige bibliotheek, aangepast aan de hedendaagse behoeften.<br>
-<br>
-Het cultuurbeleidsplan van de gemeenten wordt opgesteld voor een periode van zes jaar.<br>
-&nbsp;
+...
 
 ### ART. 41.
 
-De Vlaamse Regering geeft subsidies aan de gemeenten in het tweetalige gebied Brussel-Hoofdstad voor de uitvoering van een cultuurbeleidsplan.<br /><br />De Vlaamse Regering kan nadere voorwaarden bepalen waaraan een cultuurbeleidsplan moet voldoen.<br /><br />
+...
 
 ### ART. 42.
 
-Voor de uitvoering van het cultuurbeleidsplan wordt aan gemeenten in het tweetalige gebied Brussel-Hoofdstad een enveloppensubsidie ter beschikking gesteld :<br />1° voor gemeenten vanaf 10.000 inwoners een subsidie van 56.000 euro op jaarbasis;<br />2° voor gemeenten met minder dan 10.000 inwoners een subsidie van 28.000 euro op jaarbasis.<br /><br />De subsidie moet worden aangewend voor personeelskosten of voor andere uitgaven van de gemeente ter uitvoering van het cultuurbeleidsplan, met uitzondering van de uitgaven voor de openbare bibliotheek.<br /><br />
+...
 
 ### ART. 43.
 
-Om in aanmerking te komen voor de subsidie voor de uitvoering van het cultuurbeleidsplan, vermeld in artikel 42, moet een gemeente in het tweetalige gebied Brussel-Hoofdstad beschikken over :<br />1° een cultuurbeleidscoördinator, ingeschaald op minimaal het gemiddelde niveau van het leidinggevende cultuurpersoneel van de gemeente, die voldoet aan de voorwaarden die de Vlaamse Regering bepaalt, en van wie de taakomschrijving door de Vlaamse Regering wordt bepaald;<br />2° culturele infrastructuur die voldoet aan de vereisten die de Vlaamse Regering bepaalt;<br />3° een gemeentelijke, Nederlandstalige openbare bibliotheek die op basis van dit decreet wordt gesubsidieerd;<br />4° een akkoord van de gemeente om gegevens over het gemeentelijk cultuurbeleid ter beschikking te stellen in de vorm die de administratie oplegt;<br />5° een bij de administratie ingediend cultuurbeleidsplan, goedgekeurd door de gemeenteraad, dat afloopt op het einde van het eerste jaar van de bestuursperiode die volgt op de bestuursperiode waarin het beleidsplan bij de administratie werd ingediend.<br /><br />De Vlaamse Regering bepaalt de procedure die de gemeenten moeten volgen om aan te tonen dat ze voldoen aan de voorwaarden, vermeld in het eerste lid.<br /><br />
+...
 
 ### ART. 44.
 
-Als een cultuurbeleidsplan voor 31 december bij de administratie is ingediend, wordt de subsidie, vermeld in artikel 42, berekend vanaf 1 januari van het jaar dat volgt op de indiening van het cultuurbeleidsplan.<br /><br />Uiterlijk op 31 maart van het jaar dat volgt op de indiening van het cultuurbeleidsplan bij de administratie, deelt de administratie mee of het cultuurbeleidsplan wordt aanvaard. Als het cultuurbeleidsplan niet wordt aanvaard, vervalt de subsidie, vermeld in artikel 42, vanaf de eerste dag van de maand die volgt op de kennisgeving door de administratie.<br /><br />De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvragen van de subsidie en de procedure van toekenning en verantwoording van de subsidie.<br /><br />
+...
 
 ### ART. 45.
 
-De Vlaamse Regering geeft subsidies aan de gemeenten in het tweetalige gebied Brussel-Hoofdstad voor de organisatie van de gemeentelijke, Nederlandstalige openbare bibliotheek op voorwaarde dat die bibliotheek:<br>
-1° inspeelt op maatschappelijke uitdagingen, zoals de digitalisering van de samenleving;<br>
-2° een onafhankelijk en pluriform informatieaanbod ter beschikking stelt, breed en zorgvuldig samengesteld, aangepast aan de behoeften van het doelpubliek en in een niet-commerciële omgeving;<br>
-3° een onlinecatalogus aanbiedt vanuit een bibliotheeksysteem, gebaseerd op de gegevens van het centraal bibliografisch achtergrondbestand Open Vlacc;<br>
-4° de raadpleging in de bibliotheek van alle informatiedragers en de uitlening van materialen en bestanden zo laagdrempelig mogelijk maakt, in het bijzonder voor moeilijk bereikbare doelgroepen en voor mensen met een beperkt in-komen;<br>
-5° een optimale publieke dienstverlening garandeert op klantvriendelijke uren;<br>
-6° van de middelen, bestemd voor de aankoop van gedrukte materialen, jaarlijks minstens 75 percent van het vastgestelde budget besteedt aan Nederlandstalige publicaties;<br>
-7° met het oog op monitoring, naast de door de gemeenteraad goedgekeurde jaarrekening, één keer per jaar algemene beleidsrelevante gegevens ter beschikking stelt over de openbare bibliotheek in de vorm en volgens de procedure die de Vlaamse Regering bepaalt.<br>
-<br>
-De Vlaamse Regering verleent een forfaitaire subsidie voor het personeel dat in een gemeentelijke openbare bibliotheek tewerkgesteld is binnen de personeelsformatie voor de bibliotheek die de gemeenteraad heeft goedgekeurd.<br>
-<br>
-Die subsidie wordt als volgt toegekend :<br>
-1° gemeenten met minder dan 10 000 inwoners ontvangen een subsidie van 56.000 euro;<br>
-2° gemeenten met 10 000 inwoners of meer ontvangen een subsidie van 6,5 euro per inwoner van de gemeente.<br>
-<br>
-De Vlaamse Regering verleent een forfaitaire subsidie van 0,17 euro per inwoner van de gemeente ter ondersteuning van de participatie aan het Brusselse Netwerk Openbare Bibliotheken.<br>
-<br>
-De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvragen van de subsidie, de voorwaarden en de procedure van toekenning en verantwoording van de subsidie.<br>
-&nbsp;
+...
 
 ### ART. 46.
 
-Loonkosten van personen voor wie de gemeente op basis van een andere regelgeving al een subsidie ontvangt, zijn uitgesloten van de subsidie, vermeld in artikel 42 en 45.<br /><br />
+...
 
 ### ART. 47.
 
-De minister kan namens de Vlaamse Regering een convenant sluiten met de Vlaamse Gemeenschapscommissie waarin de volgende elementen aan bod komen:<br>
-1° de invulling die de Vlaamse Gemeenschapscommissie zal geven aan de Vlaamse beleidsprioriteiten, namelijk:<br>
-a) een kwaliteitsvol en duurzaam lokaal cultuurbeleid voeren;<br>
-b) een laagdrempelige bibliotheek, aangepast aan de hedendaagse behoeften, organiseren;<br>
-c) een cultuurcentrum organiseren;<br>
-2° de organisatie van de openbare bibliotheek door Muntpunt vzw;<br>
-3° de voorwaarden waaronder de Vlaamse Gemeenschapscommissie de taken kan opnemen van een streekgericht bibliotheekbeleid als vermeld in artikel 59.<br>
-<br>
-Voor de uitvoering van het convenant geeft de Vlaamse Regering een subsidie aan de Vlaamse Gemeenschapscommissie.<br>
-<br>
-Het convenant wordt opgesteld voor een periode van vijf jaar. Het bepaalt het subsidiebedrag en de nadere regels voor de toekenning en de verantwoording van de subsidie.<br>
-&nbsp;
+...
 
 ### ART. 48.
 
-Voor de individuele gemeenten in het tweetalige gebied Brussel-Hoofdstad wordt voor de berekening van de subsidie, vermeld in artikelen 42 en 45, 30 % van de bevolkingscijfers, vermeld in artikel 4, in aanmerking genomen.<br /><br />
+...
 
 ## [Afdeling 2 ... (opgeh. decr. 3 juli 2015, art. 17, I: 1 januari 2016)]
 
