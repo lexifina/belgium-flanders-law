@@ -2,16 +2,16 @@
   "codex_id": 1029569,
   "title": "Decreet van 2018-06-15 betreffende de bovenlokale cultuurwerking (citeeropschrift: \"Bovenlokaal Cultuurdecreet van 15 juni 2018\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029569/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "d5df6613187d92432dd4d5cb12bd919dbd0545ba744cfbf9a639be656925bf25",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029569/VolledigDocument?datum=2024-05-02",
+  "source_sha256": "ce5a04f37de2bcea1fedb0c1038871edc6a53863f3125614888debefecfb01a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029569&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2024-05-02",
   "made": "2018-06-15",
   "gazette": "2018-07-26",
   "numac": 2018040433,
   "document_start": "2018-08-05",
   "document_end": "2024-05-01",
-  "in_force": "2020-01-01",
+  "in_force": "2024-05-02",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-05-02; future article versions excluded; article text as the API gives it"
 }
