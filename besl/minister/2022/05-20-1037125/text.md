@@ -149,7 +149,7 @@ c) het aanvraagformulier, het door de aannemer ingevulde en ondertekende attest,
 4) een verklaring dat het asbest werd verwijderd van het dak, onderdak dan wel de buitengevel;<br>
 5) een verklaring dat de persoon die de asbestverwijdering uitvoerde, beschikt over een geldig attest eenvoudige handelingen conform de bepalingen in de Codex over het welzijn op het werk op het moment van uitvoering van de werken;<br>
 6) een verklaring dat de uitvoerende werknemers of de zelfstandig aannemer het asbest verwijderde volgens de code van goede praktijk van OVAM `Veilig werken met asbestdaken en -gevels' ofwel de vermelding dat de aannemer lid is van het `Asbestcharter voor dakaannemers';<br>
-7) in geval van het aanbrengen van dak- of zoldervloerisolatie en de gelijktijdige verwijdering van de asbesthoudende dakbedekking of het asbesthoudend onderdak: een bewijs van de reeds aanwezige thermische zonnecollectoren of fotovoltaïsche panelen of een kopie van het rapport aangemaakt via de zonnekaart, ter beschikking gesteld door het Vlaams Energie- en Klimaatagentschap.
+7)...
 
 ### ART 3.
 
@@ -190,7 +190,7 @@ i) het aanvraagformulier, het door de aannemer ingevulde en ondertekende attest,
 5) in geval van elektrische warmtepompen: het elektrisch compressorvermogen;<br>
 6) in geval van gaswarmtepompen: het geïnstalleerd gasvermogen;<br>
 7) voor lucht-waterwarmtepompen: een verklaring dat de warmtepomp de enige centrale verwarming is voor het gebouw;<br>
-8) voor warmtepompen geplaatst in een bestaande premiewoning of nieuwe premiewoning: het Europees productlabel of het Europees pakketlabel met de minimale seizoensgebonden energie-efficiëntie, zoals vermeld in bijlage 1 bij dit besluit;<br>
+8) voor warmtepompen geplaatst in een bestaande premiewoning of nieuwe premiewoning: het Europees productlabel, Europese productfiche of het Europees pakketlabel met de minimale seizoensgebonden energie-efficiëntie, zoals vermeld in bijlage 1 bij dit besluit;<br>
 9) voor warmtepompen geplaatst in andere gebouwen dan premiewoningen, woongebouwen, collectieve woongebouwen, nieuwe premiewoningen, nieuwe woongebouwen of nieuwe collectieve woongebouwen: een bewijs van de minimale energie-efficiëntie, vermeld in bijlage 2 bij dit besluit;<br>
 10) het certificeringsnummer van de persoon die de kwaliteitsvolle uitvoering van de installatie valideert, vermeld op het certificaat van bekwaamheid, vermeld in artikel 8.5.1, § 1, 6° of 7° van het Energiebesluit van 19 november 2010;<br>
 11) in voorkomend geval: de technische fiche waarop wordt aangetoond dat de actieve koelfunctie onmogelijk is voor het geplaatste toestel of combinatie van het geplaatste toestel met standaard productoptie om de koelfunctie onomkeerbaar uit te schakelen, in het geval het gebouw niet beschikt over een fotovoltaïsche installatie of de warmtepomp niet de enige centrale verwarming voor het gebouw is;<br>
@@ -235,36 +235,57 @@ o Voor combinatieverwarmingstoestellen: het etiket dat in overeenstemming met pu
 - Het Europees productlabel voor lucht/lucht warmtepompen, vermeld in artikel 6.4.1/1/1, eerste lid, 2° tot en met 4°, van het Energiebesluit: het etiket dat in overeenstemming met bijlage III van de Verordening (EU) Nr. 626/2011 verstrekt wordt, overeenkomstig de energie-efficiëntieklassen als beschreven in bijlage II van de Verordening (EU) Nr. 626/2011 en die in bijlage VII van de Verordening (EU) Nr. 626/2011 zijn vastgesteld<br>
 - Het Europees pakketlabel voor hybride lucht/water warmtepompen, vermeld in artikel 6.4.1/1/1, eerste lid, 2° tot en met 4°, van het Energiebesluit:<br>
 o Voor pakketten van ruimteverwarmingstoestellen, warmteregelaars en zonne-energie-installaties: enerzijds het etiket dat in overeenstemming is met punt 3 van bijlage III van de Verordening (EU) nr. 811/2013 verstrekt wordt voor elk pakket van ruimteverwarmingstoestel, temperatuurregelaar en zonne-energie-installatie, overeenkomstig de seizoensgebonden energie-efficiëntieklassen voor ruimteverwarming die in punt 1 van bijlage II van de Verordening (EU) nr. 811/2013 zijn vastgesteld, en anderzijds de productkaart die voor elk pakket van ruimteverwarmingstoestel, temperatuurregelaar en zonne-energie-installatie, zoals vastgesteld in punt 5 van bijlage IV van de Verordening (EU) nr. 811/2013, wordt verstrekt, met daarop vermeld de seizoensgebonden energie-efficiëntie van ruimteverwarming door het pakket.<br>
-o Voor pakketten van combinatieverwarmingstoestellen, temperatuurregelaars en zonne-energieinstallaties: enerzijds het etiket dat in overeenstemming is met punt 4 van bijlage III van de Verordening (EU) nr. 811/2013 verstrekt wordt voor elk pakket van combinatieverwarmingstoestellen, temperatuurregelaar en zonne-energie-installatie overeenkomstig de seizoensgebonden energie-efficiëntieklassen voor ruimteverwarming die in punt 1 en punt 2 van bijlage II van de Verordening (EU) nr. 811/2013 zijn vastgesteld, en anderzijds de productkaart die voor elk pakket van combinatieverwarmingstoestel, temperatuurregelaar en zonne-energie-installatie, zoals vastgesteld in punt 6 van bijlage IV van de Verordening (EU) nr. 811/2013, wordt verstrekt, met daarop vermeld de seizoensgebonden energie-efficiëntie van ruimteverwarming door het pakket.<br>
+o Voor pakketten van combinatieverwarmingstoestellen, temperatuurregelaars en zonne-energieinstallaties: enerzijds het etiket dat in overeenstemming is met punt 4 van bijlage III van de Verordening (EU) nr. 811/2013 verstrekt wordt voor elk pakket van combinatieverwarmingstoestellen, temperatuurregelaar en zonne-energie-installatie overeenkomstig de seizoensgebonden energie-efficiëntieklassen voor ruimteverwarming die in punt 1 en punt 2 van bijlage II van de Verordening (EU) nr. 811/2013 zijn vastgesteld, en anderzijds de productkaart die voor elk pakket van combinatieverwarmingstoestel, temperatuurregelaar en zonne-energie-installatie, zoals vastgesteld in punt 6 van bijlage IV van de Verordening (EU) nr. 811/2013, wordt verstrekt, met daarop vermeld de seizoensgebonden energie-efficiëntie van ruimteverwarming door het pakket;<br>
+- Verordening (EU) Nr. 813/2013: de Gedelegeerde Verordening (EU) van de commissie nr. 813/2013 van 2 augustus 2013 tot uitvoering van Richtlijn 2009/125/EG van het Europees Parlement en de Raad wat eisen inzake ecologisch ontwerp voor ruimteverwarmingstoestellen en combinatieverwarmingstoestellen betreft;<br>
+-Verordening (EU) Nr. 2016/2281: de Gedelegeerde Verordening (EU) van de Commissie nr. 2016/2281 van 30 november 2016 tot uitvoering van Richtlijn 2009/125/EG van het Europees Parlement en de Raad betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energiegerelateerde producten, wat betreft eisen inzake ecologisch ontwerp voor luchtverwarmingsproducten, koelproducten, hogetemperatuurproces-chillers en ventilatorluchtkoelers;<br>
+- De Europese productfiche voor geothermische en lucht/water warmtepompen: de productfiche die in overeenstemming met tabel 2 van bijlage II van de Verordening (EU) Nr. 813/2013 verstrekt wordt voor ruimteverwarmingstoestellen met warmtepomp en combinatieverwarmingstoestellen met warmtepomp;<br>
+- De Europese productfiche voor lucht/lucht warmtepompen: de productfiche die in overeenstemming met tabel 14 van bijlage II van de Verordening (EU) Nr. 2016/2281 verstrekt wordt voor lucht/lucht warmtepompen.<br>
 <br>
-Tabel
-<table border="1">
+<br>
+Tabel<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>Type warmtepomp</td>
-			<td>Minimaal Europees productlabel voor<br>
-			ruimteverwarming of minimale Europese<br>
-			pakketlabeleis</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:50px; vertical-align:top; width:115px">&nbsp;</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:50px; vertical-align:top; width:380px">Minimaal Europees productlabel voor<br>
+			&nbsp;ruimteverwarming, minimale seizoensgebonden energie-efficiëntie of minimale Europese<br>
+			&nbsp;pakketlabeleis</td>
 		</tr>
 		<tr>
-			<td>1. Geothermisch</td>
-			<td>A++</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:50px; vertical-align:top; width:115px">Type warmtepomp</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:50px; vertical-align:top; width:104px">&lt; 12 kW</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:50px; vertical-align:top; width:172px">&gt; 12kW &amp; &lt;= 70 kW</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:50px; vertical-align:top; width:105px">&gt; 70 kW</td>
 		</tr>
 		<tr>
-			<td>2. Lucht/water</td>
-			<td>A+</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:115px">1.Geothermisch</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:104px">A++</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:172px">A++</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:105px">150% &lt;= Ns</td>
 		</tr>
 		<tr>
-			<td>3. Lucht/lucht</td>
-			<td>A+</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:16px; vertical-align:top; width:115px">2. Lucht/water</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:16px; vertical-align:top; width:104px">A+</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:16px; vertical-align:top; width:172px">A+</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:16px; vertical-align:top; width:105px">123% &lt;= Ns</td>
 		</tr>
 		<tr>
-			<td>4. Hybride lucht/water</td>
-			<td>110% &lt;= Ns*</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:115px">3. Lucht/lucht</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:104px">A+</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:172px">137% &lt;= Ns<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:105px">137% &lt;= Ns&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:115px">4. Hybride lucht/water</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:104px">110% &lt;= Ns*</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:172px">110% &lt;= Ns*</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:105px">110% &lt;= Ns*</td>
 		</tr>
 	</tbody>
 </table>
-<br>
+waarin: Ns de seizoensgebonden energie-efficiëntie is van de warmtepomp volgens de Europese productfiche.<br>
 <br>
 * de hybride warmtepomp beschikt over een Europees pakketlabel voor ruimteverwarmingstoestellen met warmtepomp en combinatieverwarmingstoestellen met warmtepomp als hoofdverwarming met een minimale seizoensgebonden energie-efficiëntie voor ruimteverwarming Ns door het pakket onder gemiddelde klimaatomstandigheden van 110% voor de combinatie van een gasketel, lucht-waterwarmtepomp en regeling. Een eventueel zonthermisch systeem wordt niet beschouwd voor het behalen van deze minimale seizoensgebonden energie-efficiëntie.<br>
 <br>
