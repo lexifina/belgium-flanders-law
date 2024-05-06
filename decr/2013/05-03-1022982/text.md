@@ -10,6 +10,9 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder :<br>
 1° algemeen reglement op de politie van het wegverkeer : het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg en de daaruit volgende toepassingsbesluiten;<br>
+1°/1 emissiearm voertuig: een zwaar bedrijfsvoertuig dat geen emissievrij zwaar bedrijfsvoertuig is, vermeld in artikel 3, punt 12, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2­emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad;<br>
+1°/2 emissievrij voertuig: een emissievrij zwaar bedrijfsvoertuig als vermeld in artikel 3, punt 11, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad;<br>
+1°/3 milieuvriendelijk uitzonderlijk vervoer: het vervoer van deelbare ladingen verricht met een emissievrij of emissiearm voertuig of een combinatie van voertuigen getrokken door een emissievrij of emissiearm voertuig waarvan de afmetingen, de eigen massa, de massa onder de assen of de massa in beladen toestand, door zijn constructie of samenstelling, de maxima overschrijden die zijn bepaald in het algemeen reglement op de politie van het wegverkeer en in het technisch reglement;<br>
 2° onderneming : natuurlijke persoon of rechtspersoon die overeenkomstig artikel 1384 van het Burgerlijk Wetboek burgerrechtelijk aansprakelijk is voor de overtreder;<br>
 3° overtreder : natuurlijke persoon of rechtspersoon die een inbreuk pleegt op dit decreet of de uitvoeringsbesluiten ervan;<br>
 4° solidariteitsbijdrage : de bijdrage, vermeld in artikel 15, eerste lid;<br>
@@ -153,6 +156,49 @@ In het kader van een pilootproject als vermeld in artikel 13/1 kan de Vlaamse Re
 
 &nbsp;Elk pilootproject als vermeld in artikel 13/1 wordt geëvalueerd. De Vlaamse Regering bepaalt de frequentie van evaluatie en de procedure voor de evaluatie van het project.
 
+## Afdeling 5. Milieuvriendelijk uitzonderlijk vervoer
+
+### ART 13/7.
+
+Het milieuvriendelijk uitzonderlijk vervoer is alleen mogelijk in het kader van een door de Vlaamse Regering opgezet pilootproject en onder de volgende voorwaarden:<br>
+1° de voertuigen of combinaties van voertuigen voldoen aan de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;de lengte van de sleep bedraagt niet meer dan 22 meter;<br>
+b)&nbsp;&nbsp; &nbsp;de hoogte van het voertuig bedraagt niet meer dan 4,30 meter;<br>
+c)&nbsp;&nbsp; &nbsp;de voertuigen en de combinaties van voertuigen voldoen, op het vlak van massa’s, aan de bepalingen van het technisch reglement;<br>
+2° er wordt, in de vergunningsaanvraag, aangetoond dat het laadvolume van het voertuig of de sleep niet hoger is dan het laadvolume van een vergelijkbaar klassiek aangedreven voertuig of een vergelijkbare klassiek aangedreven combinatie.
+
+### ART 13/8.
+
+De Vlaamse Regering bepaalt de volgende aspecten van het pilootproject, vermeld in artikel 13/7:<br>
+1° de start­ en einddatum;<br>
+2° de toegelaten voertuigen of voertuigcombinaties;<br>
+3° de technische voorwaarden van de voertuigen en combinaties van voertuigen;<br>
+4° de aard van de lading die vervoerd mag worden.<br>
+<br>
+De Vlaamse Regering kan het maximum aantal vergunningen bepalen dat in het kader van het pilootproject kan worden uitgereikt.
+
+### ART 13/9.
+
+De Vlaamse Regering kan in het kader van het pilootproject, vermeld in artikel 13/7, het milieuvriendelijk uitzonderlijk vervoer beperken tot de trajecten of gebieden die ze bepaalt.<br>
+<br>
+De Vlaamse Regering kan in het kader van het pilootproject, vermeld in artikel 13/7, het milieuvriendelijk uitzonderlijk vervoer verbieden op bepaalde tijdstippen, plaatsen of in bepaalde omstandigheden, of het onderwerpen aan bepaalde voorwaarden.
+
+### ART 13/10.
+
+Met het oog op het uitreiken van een vergunning in het kader van het pilootproject, vermeld in artikel 13/7, bepaalt de Vlaamse Regering de volgende elementen:<br>
+1° de inhoud van de vergunning. De vergunning vermeldt minstens de maatregelen om schade aan de verkeersinfrastructuur te voorkomen en om het milieuvriendelijk uitzonderlijk vervoer veilig te laten verlopen;<br>
+2° de procedure voor de aanvraag en de afgifte van de vergunning.<br>
+<br>
+De Vlaamse Regering kan voor het uitreiken van de vergunning, vermeld in het eerste lid, en het gebruik van de verkeersinfrastructuur voor milieuvriendelijk uitzonderlijk vervoer een vergoeding bepalen.
+
+### ART 13/11.
+
+In het kader van het pilootproject, vermeld in artikel 13/7, kan de Vlaamse Regering bepalen dat de dienst van de Vlaamse administratie die ze aanwijst op de hoogte gebracht wordt van het tijdstip en de gevolgde reisweg en de voertuigen van het milieuvriendelijk uitzonderlijk vervoer. De Vlaamse Regering bepaalt in dat geval ook de wijze waarop dat gebeurt en de eventuele uitzonderingen.
+
+### ART 13/12.
+
+Het pilootproject, vermeld in artikel 13/7, wordt geëvalueerd. De Vlaamse Regering bepaalt de frequentie van evaluatie en de procedure voor de evaluatie van het project.
+
 ## HOOFDSTUK 3 Strafbepalingen en toezicht
 
 ### ART. 14.
@@ -226,7 +272,7 @@ Als een dossier dat persoonsgegevens als vermeld in het vijfde lid, bevat, naar 
 
 <p>§ 2. Het tarief van de administratieve geldboete is gelijk aan de minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen.<br>
 <br>
-In afwijking van het eerste lid kan de Vlaamse Regering, voor specifieke inbreuken, het tarief van de administratieve geldboete bepalen op een bedrag dat hoger ligt dan de minimumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, zonder evenwel de maximumgeldboete, vermeld in artikel 14, verhoogd met de opdeciemen, te overschrijden.</p>
+In afwijking van het eerste lid is het tarief van de administratieve geldboete voor de inbreuken die de Vlaamse Regering bepaalt, gelijk aan een bedrag dat de Vlaamse Regering bepaalt, verhoogd met de opdeciemen. Het voormelde bedrag ligt hoger dan de minimumgeldboete, vermeld in artikel 14, en is hoogstens gelijk is aan de maximumgeldboete, vermeld in artikel 14.</p>
 
 <p>Als een overtreder binnen de positieve referentieperiode opnieuw een inbreuk op dit decreet of de uitvoeringsbesluiten ervan pleegt, kan de administratieve geldboete bepaald worden op het dubbel van de administratieve geldboete, vermeld in het eerste of het tweede lid.</p>
 
