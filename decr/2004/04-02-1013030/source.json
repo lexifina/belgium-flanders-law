@@ -2,16 +2,16 @@
   "codex_id": 1013030,
   "title": "Decreet van 2004-04-02 betreffende [...] het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap [De Vlaamse Waterweg nv, naamloze vennootschap van publiek recht]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013030/VolledigDocument?datum=2022-06-01",
-  "source_sha256": "2779133f4e9dff63f5dac360561c6b4dc5b26810b5f9f39d72d696104928d062",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013030/VolledigDocument?datum=2024-05-06",
+  "source_sha256": "5d781133398720b4e85861518ce6305ea736402f3ef0c1541b4f314ddb0294f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013030&param=informatie",
-  "as_of": "2022-06-01",
+  "as_of": "2024-05-06",
   "made": "2004-04-02",
   "gazette": "2004-05-26",
   "numac": 2004035825,
   "document_start": "2004-06-30",
   "document_end": null,
-  "in_force": "2022-06-01",
+  "in_force": "2024-05-06",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2022-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-05-06; future article versions excluded; article text as the API gives it"
 }

@@ -90,6 +90,7 @@ Bovendien is de vennootschap in ieder geval belast met de volgende taken:<br>
 8° quater de verhoging van de trafiek via de waterwegen;<br>
 8° quinquies het toezicht op de naleving en de bestuurlijke handhaving van de regels van politie over het verkeer op de waterwegen;<br>
 8° sexies het uitvoeren van de voorschriften voor de waterwegen en havens met betrekking tot het vervoer van gevaarlijke goederen over de binnenwateren, met uitzondering van de voorschriften voor het vervoer van radioactieve stoffen, explosieven en dierlijke stoffen die een gevaar vormen voor de bevolking. De vennootschap is ook belast met het toezicht op de naleving en de bestuurlijke handhaving van die voorschriften;<br>
+8°septies het optreden als de vervolgingsinstantie en beboetingsinstantie, vermeld in artikel 135, eerste lid, van het Scheepvaartdecreet van 21 januari 2022;<br>
 9° alle andere soortgelijke werkzaamheden die aan de vennootschap worden opgedragen door de Vlaamse regering.<br>
 <br>
 De taken, vermeld in het tweede lid, 2°, 3° en 4°, kunnen ook worden uitgeoefend op, onder of over onroerende goederen die behoren tot het openbare en het private domein van de federale overheid, het Vlaamse Gewest, de Vlaamse Gemeenschap, de provincies, de gemeenten, de havenbedrijven en de instellingen die eronder ressorteren, met toestemming van de eigenaar. Die toestemming wordt met een aangetekende brief gevraagd.<br>
@@ -119,7 +120,8 @@ Het verzoek tot oprichting, deelname of vertegenwoordiging wordt binnen dertig d
 
 Met behoud van de toepassing van artikel 5, § 3, oefent de vennootschap haar bevoegdheden uit op de volgende manier:<br>
 1° voor het doel, vermeld in artikel 5, § 1, eerste lid: binnen de grenzen, vastgelegd in het besluit van de Vlaamse Regering en de bijgevoegde plannen, vermeld in artikel 5, § 1, eerste lid;<br>
-2° voor het doel, vermeld in artikel 5, § 1, derde lid, en de taken, vermeld in artikel 5, § 6: binnen het Vlaamse Gewest.
+2° voor het doel, vermeld in artikel 5, § 1, derde lid, en de taken, vermeld in artikel 5, § 6: binnen het Vlaamse Gewest;<br>
+3° voor de taken, vermeld in artikel 5, §2, tweede lid, 8°septies, binnen het ambtsgebied, vermeld in artikel 5, §1, eerste lid, en binnen het Belgische gedeelte van het gebied bepaald in artikel 3 van het verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied, ondertekend in Middelburg op 21 december 2005, en de IJzermonding tot aan de landzijde van de basislijn.
 
 ## [ONDERAFDELING 1bis (verv. decr. 23 december 2016, art. 14, I: 10 februari 2017)] DOMEINBEHEER
 
