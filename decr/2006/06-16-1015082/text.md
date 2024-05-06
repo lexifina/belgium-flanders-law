@@ -14,6 +14,15 @@ Dit decreet regelt een gewestaangelegenheid.<br />
 
 Dit decreet regelt onder meer de omzetting van de Monitoringrichtlijn en ,   de PSC-richtlijn en de richtlijn Onderzoek Ongevallen.<BR><BR>Dit decreet geldt   onverminderd de volkenrechtelijke en gemeenschapsrechtelijke rechten en   verplichtingen van het Vlaamse Gewest met betrekking tot de erin geregelde   aangelegenheden, in het bijzonder die welke opgenomen zijn in het   VN-Zeerechtverdrag, het FAL-verdrag, het SOLAS-verdrag, het SAR-verdrag, liet   MARPOL-verdrag, liet Vredesverdrag, het Scheldeverlichtingsverdrag, het   Schelderadarverdrag, het Scheldereglement, de ISPS-Verordening, de RIS-richtlijn   en de verdragen en andere volkenrechtelijke en gemeenschapsrechtelijke regelen   die met betrekking tot deze aangelegenheden later zullen worden vastgesteld, met   inbegrip van de regelen die vastgesteld zijn door de Permanente Commissie van   Toezicht op de Scheldevaart.<BR><BR>
 
+### ART 3bis.
+
+De Vlaamse Regering kan voor de materies die bij dit decreet worden geregeld, de nodige maatregelen nemen ter uitvoering van internationale standaarden of van verplichtingen die voortvloeien uit de internationale verdragen, vermeld in artikel 3, en de internationale akten die krachtens die verdragen tot stand komen.<br>
+<br>
+De Vlaamse Regering kan aan de bevoegde instantie voor het VBS-werkingsgebied en binnen het havengebied aan de havenkapiteinsdienst verplichtingen opleggen over de volgende aspecten om onder meer uitvoering te geven aan de toepasselijke internationale en Unierechtelijke verplichtingen:<br>
+1° de werking van het verkeersbegeleidingssysteem in het VBS-werkingsgebied, respectievelijk over de werking van het verkeersbegeleidingssysteem binnen het havengebied;<br>
+2° de eisen waaraan de uitrusting van het verkeersbegeleidingssysteem binnen het VBS-werkingsgebied, respectievelijk binnen het havengebied moet voldoen, met inbegrip van de technische apparatuur en de infrastructuur;<br>
+3° andere vereisten dan de vereisten, vermeld in punt 1° en 2°, waaraan de bevoegde instantie voor het VBS-werkingsgebied respectievelijk de havenkapiteinsdienst moet voldoen.
+
 ## HOOFDSTUK II Taken, bevoegdheden en organisatie van het begeleiden van de scheepvaart in het algemeen
 
 ### ART. 4.
@@ -23,6 +32,87 @@ Dit decreet regelt onder meer de omzetting van de Monitoringrichtlijn en ,   de 
 ### ART. 4bis.
 
 § 1. De bevoegde instanties die taken uitoefenen in het kader van dit   decreet, brengen de bevoegde federale onderzoeksinstantie, opgericht ter   uitvoering van de richtlijn onderzoek ongevallen, onverwijld in kennis van elk   ongeval of incident. De Vlaamse Regering kan de ongevallen en incidenten die   onder het toepassingsgebied van het eerste lid vallen, nader   omschrijven.<BR><BR>De Vlaamse Regering kan de nadere regels voor de melding aan   de bevoegde onderzoeksinstantie, vermeld in het eerste lid, nader   omschrijven.<BR><BR>§ 2. De bevoegde instanties, die taken uitoefenen in het   kader van dit decreet, leveren de nodige ondersteuning aan de bevoegde   onderzoeksinstantie, vermeld in paragraaf 1.
+
+### ART 4ter.
+
+§1. In dit artikel wordt verstaan onder:<br>
+1° accreditatie van een VBS-opleidingscentrum: de formele bevestiging door de bevoegde instantie, vermeld in de paragraaf 2, eerste lid, dat een VBS-opleidingscentrum werkt met een kwaliteitsmanagementsysteem om de VBS-opleidingen doeltreffend te verstrekken, en daarvoor voldoet aan de vereiste voorwaarden;<br>
+2° goedkeuring van een VBS-opleiding: de formele bevestiging door de bevoegde instantie, vermeld in de paragraaf 2, eerste lid, dat een VBS-opleidingscentrum voldoet aan de normen van IALA voor de implementatie, het verschaffen en de beoordeling van een VBS­opleiding;<br>
+3° IALA: International Association of Marine Aids to Navigation and Lighthouse Authorities, in het Nederlands Internationale Associatie voor Autoriteiten voor Maritieme Navigatiehulpmiddelen en Vuurtorens, zoals die wordt omgevormd naar een gouvernementele organisatie, International Organization for Marine Aids to Navigation, of in het Nederlands de Internationale Organisatie voor Maritieme Navigatiehulpmiddelen voor de scheepvaart;<br>
+4° VBS-opleiding: elke opleiding die een personeelslid die belast is met het begeleiden van de scheepvaart, nodig heeft om te kunnen worden beschouwd als bekwaam voor de uitvoering van de functie.<br>
+<br>
+§2. De Vlaamse Regering wijst de bevoegde instantie aan die belast is met al de volgende aspecten:<br>
+1° de accreditatie van de VBS­opleidingscentra;<br>
+2° de goedkeuring van VBS­opleidingen;<br>
+3° de controle en aanvaarding van certificaten en kwalificaties van de personeelsleden die belast zijn met het begeleiden van de scheepvaart.<br>
+<br>
+De Vlaamse Regering kan, in overeenstemming met internationaal vastgestelde bepalingen, zoals die zijn opgenomen in de toepasselijke IALA­standaarden en de eraan verbonden IALA-aanbevelingen, -richtlijnen en modelcursussen:<br>
+1° de voorwaarden bepalen waaraan personeelsleden die belast zijn met het begeleiden van de scheepvaart, moeten voldoen en de VBS-opleidingen die moeten worden gevolgd om gekwalificeerd te zijn voor de uitoefening van de functie. In die voorwaarden zijn ook de voorwaarden voor het behoud van de kwalificaties voor de uitvoering van de functie begrepen;<br>
+2° de nadere regels bepalen voor de personeelsleden die belast zijn met het begeleiden van de scheepvaart voor het verkrijgen van hun persoonlijk trainingsoverzicht en om persoonlijk trainingslogboek bij te houden door de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst waarbij de houder werkt;<br>
+3° de voorwaarden en de procedure bepalen voor de accreditatie van VBS-opleidingscentra en de goedkeuring van VBS-opleidingen, met inbegrip van:<br>
+a)&nbsp;&nbsp; &nbsp;de organisatie van audits voor het verkrijgen van de accreditatie of de goedkeuring;<br>
+b)&nbsp;&nbsp; &nbsp;de voorwaarden en de procedure voor de goedkeuring van de VBS-opleidingen die kunnen worden gegeven door de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, aan de eigen personeelsleden die belast zijn met het begeleiden van de scheepvaart;<br>
+c)&nbsp;&nbsp; &nbsp;de voorwaarden en de procedure bepalen voor de vernieuwing, schorsing en intrekking van een accreditatie van een VBS-opleidingscentrum, of van een goedkeuring van een VBS­opleiding;<br>
+4° de voorwaarden en de procedure bepalen voor de uitreiking van certificaten, voor de vernieuwing, schorsing en intrekking van certificaten en voor vermeldingen in het persoonlijk trainingsoverzicht, vermeld in punt 2°;<br>
+5° de geldigheidsduur vaststellen van de verschillende documenten die zijn uitgereikt en de gegevens die erin vermeld moeten worden;<br>
+6° een controlemechanisme uitwerken voor certificaten die niet zijn behaald bij een VBS-opleidingscentrum die door de bevoegde instantie, vermeld in het eerste lid, is geaccrediteerd, of voor een VBS-opleiding die de bevoegde instantie, vermeld in het eerste lid, heeft goedgekeurd.<br>
+<br>
+§3. Met het oog op de uitvoering van de bevoegdheden en de taken, vermeld in dit artikel of met het oog op de uitvoering van dit artikel en de uitvoeringsbesluiten ervan, worden persoonsgegevens verwerkt. De verwerking van de persoonsgegevens in dit kader is beperkt tot de persoonsgegevens die nodig zijn voor het dos- sierbeheer als taak van algemeen belang.<br>
+<br>
+De verwerking van de persoonsgegevens in het kader van het eerste lid is nodig voor al de volgende aspecten:<br>
+1°&nbsp;&nbsp; &nbsp;om een accreditatie van een VBS-opleidingscentrum te verlenen en om een goedkeuring aan een VBS­opleiding te verlenen;<br>
+2°&nbsp;&nbsp; &nbsp;voor audits in het kader van de accreditatie van een VBS-opleidingscentrum of een goedkeuring van een VBS­opleiding;<br>
+3°&nbsp;&nbsp; &nbsp;om te verifiëren of de personeelsleden die belast zijn met het begeleiden van de scheepvaart beschikken over de benodigde kwalificaties voor hun functie.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit artikel heeft, afhankelijk van de doeleinden waarvoor de persoonsgegevens nodig zijn voor elk van de verwerkingsverantwoordelijken en verwerkers, vermeld in dit artikel, betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens, met inbegrip van documenten met een uniek identificatienummer die gelinkt kunnen worden aan de persoon;<br>
+2°&nbsp;&nbsp; &nbsp;opleidings­ en kwalificatiegegevens, met inbegrip van de relevante vermeldingen op certificaten of in persoonlijke trainingsoverzichten;<br>
+3°&nbsp;&nbsp; &nbsp;contactgegevens.<br>
+<br>
+De Vlaamse Regering kan de categorieën en de verwerkingen, vermeld in het tweede en derde lid, nader omschrijven.<br>
+<br>
+§4. De persoonsgegevens die de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, in het kader van dit artikel bijhouden, zijn uitsluitend toegankelijk voor:<br>
+1° de eigen personeelsleden die belast zijn met het begeleiden van de scheepvaart voor hun eigen gegevens;<br>
+2° de eigen personeelsleden die betrokken zijn bij de opleiding, kwalificatie, inzet of verloning van een personeelslid dat belast is met het begeleiden van de scheepvaart.<br>
+<br>
+De persoonsgegevens van de contactpersonen bij een VBS-opleidingscentrum en bij de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, in het kader van het verkrijgen van een accreditatie van een VBS­opleidingscentrum of van een goedkeuring van een VBS­opleiding, zijn uitsluitend toegankelijk voor:<br>
+1° de personeelsleden van de bevoegde instantie, vermeld in paragraaf 2, eerste lid, die betrokken zijn bij de behandeling van de aanvraag;<br>
+2° &nbsp; de auditoren die instaan voor de uitvoering van de audit.<br>
+<br>
+Elk VBS­opleidingscentrum beschermt de beoordelingsoverzichten van elke leerling afdoende en verzekert dat die alleen toegankelijk zijn voor de volgende personen die daarvoor geautoriseerd zijn:<br>
+1° de eigen lesgevers en beoordelaars, die instaan voor de VBS-opleiding binnen het opleidingscentrum;<br>
+2° de personeelsleden van de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, die hiërarchische meerdere zijn van, of verantwoordelijk zijn voor de opvolging van opleidingen en de kwalificaties van de personeelsleden die belast zijn met het begeleiden van de scheepvaart en die een opleiding volgen in het VBS­opleidingscentrum;<br>
+3° de personeelsleden van de bevoegde instantie, vermeld in paragraaf 2, eerste lid, die betrokken zijn bij de uitvoering van een audit, of de auditoren die betrokken zijn bij de uitvoering van een audit;<br>
+4° &nbsp; de leerling zelf voor elke beoordeling die deze leerling betreffen.<br>
+<br>
+De contactgegevens van auditoren zijn uitsluitend toegankelijk voor:<br>
+1°&nbsp;&nbsp; &nbsp;de aanvrager van een audit;<br>
+2°&nbsp;&nbsp; &nbsp;de personeelsleden van de bevoegde instantie, vermeld in paragraaf 2, eerste lid, die de aanvraag behandelen en het auditrapport verwerken;<br>
+3°&nbsp;&nbsp; &nbsp;de bevoegde IALA­personeelsleden;<br>
+4°&nbsp;&nbsp; &nbsp;de betrokken auditoren voor hun eigen gegevens.<br>
+&nbsp;<br>
+Als er persoonsgegevens in een auditrapport verwerkt worden, zijn die persoonsgegevens uitsluitend toegankelijk voor:<br>
+1°&nbsp;&nbsp; &nbsp;de persoon op wie de gegevens betrekking hebben;<br>
+2°&nbsp;&nbsp; &nbsp;de personeelsleden van de bevoegde instantie, vermeld in paragraaf 2, eerste lid, en van de aanvrager, die een auditrapport verwerken;<br>
+3°&nbsp;&nbsp; &nbsp;de bevoegde IALA-personeelsleden.<br>
+<br>
+De Vlaamse Regering kan de toegankelijkheid tot de persoonsgegevens, vermeld in deze paragraaf, nader regelen.<br>
+<br>
+§5. De persoonsgegevens die een VBS­opleidingscentrum bijhoudt om een accreditatie van het VBS-opleidingscentrum te krijgen of om een goedkeuring van een VBS-opleiding te krijgen, of die de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, bijhoudt om een goedkeuring van een VBS-opleiding te verkrijgen, met inbegrip van een opleiding in het kader van het kwalificatieproces van de eigen personeelsleden, worden bewaard gedurende 45 jaar, of uiterlijk totdat het personeelslid dat belast is met het begeleiden van de scheepvaart, met pensioen gaat.<br>
+<br>
+Met behoud van toepassing van de regelgeving over de bewaring door de bevoegde instanties die belast zijn met het begeleiden van de scheepvaart, respectievelijk de havenkapiteinsdienst, van de persoonsgegevens van hun eigen personeelsleden, stelt de Vlaamse Regering de maximale bewaartermijn vast voor de overige persoonsgegevens die in het kader van dit artikel verwerkt worden. De persoonsgegevens worden in ieder geval niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt. De door de Vlaamse Regering vastgestelde maximale bewaartermijnen gaan de termijn van tien jaar na het overlijden van de houder van het certificaat, van de kwalificatie of van het persoonlijk trainingsoverzicht, niet te boven. Bij de vaststelling van de maximale bewaartermijnen wordt in het bijzonder rekening gehouden met de mogelijke noodzaak aan gegevens omtrent de opleidingen en kwalificaties, tijdens de beroepsloopbaan en in voorkomend geval nog erna.<br>
+<br>
+Persoonsgegevens die in een auditrapport verwerkt worden, worden geanonimiseerd tien jaar nadat het rapport is gefinaliseerd.<br>
+<br>
+§6. De volgende instanties treden op als verwerkingsverantwoordelijke van persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van dit artikel:<br>
+1°&nbsp;&nbsp; &nbsp;de bevoegde instantie, vermeld in paragraaf 2, eerste lid, voor de persoonsgegevens die door haar worden verwerkt in het kader van het verlenen van een accreditatie van een VBS-opleidingscentrum en het verlenen van een goed keuring van een VBS-opleiding, met inbegrip van een opleiding in het kader<br>
+van het kwalificatieproces van de eigen personeelsleden, of in het kader van een individuele beslissing betreffende de aanvaarding of niet­aanvaarding van een certificaat;<br>
+2° &nbsp;de VBS-opleidingscentra, voor de persoonsgegevens die door hen worden verwerkt in het kader van de opleiding en het verwerven van de benodigde kwalificaties door de personeelsleden die belast zijn met het begeleiden van de scheepvaart, en in het kader van een accreditatie van het VBS-opleidingscentrum of goedkeuring van een VBS­opleiding;<br>
+3° de bevoegde instantie voor het VBS-werkingsgebied, respectievelijk de havenkapiteinsdienst, voor de persoonsgegevens van de eigen personeelsleden die belast zijn met het begeleiden van de scheepvaart, die door hen worden ver- werkt in het kader van het verkrijgen van een goedkeuring van een VBS-regio­opleiding, of van een VBS­opleiding in het kader van het kwalificatieproces, van de personeelsleden die belast zijn met het begeleiden van de scheepvaart, met inbegrip van de verwerking van persoonsgegevens in het kader van het persoonlijk trainingsoverzicht, vermeld in paragraaf 2, tweede lid, 2°.<br>
+<br>
+De auditoren treden op als verwerker, vermeld in artikel 4, 8), van de algemene verordening gegevensbescherming, voor de persoonsgegevens die verwerkt moeten worden bij een audit in het kader van de accreditatie van een opleidings- centrum of een goedkeuring van een VBS-opleiding.<br>
+<br>
+De verwerkingsverantwoordelijken en de verwerker zien erop toe dat de te verwerken persoonsgegevens juist zijn en, als dat nodig is, dat die gegevens worden geactualiseerd.
 
 ### ART. 5.
 
