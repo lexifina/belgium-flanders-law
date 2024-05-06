@@ -85,7 +85,7 @@ Alvorens in dienst te treden leggen de havenkapiteins de eed af voor de rechtban
 
 ### ART 11.
 
-Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf havenluitenants aanwerven of benoemen. De havenluitenants werken onder het gezag van een havenkapitein. Ze staan de havenkapitein bij in al zijn ambtsplichten. Ze brengen over alle vastgestelde misdrijven verslag uit bij de havenkapitein, die proces-verbaal opmaakt.
+Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf havenluitenants aanwerven of benoemen. De havenluitenants werken onder het gezag van een havenkapitein. Ze staan de havenkapitein bij in al zijn ambtsplichten. Ze brengen over alle vastgestelde inbreuken verslag uit bij de havenkapitein, die proces-verbaal opmaakt.
 
 ### ART 12.
 
@@ -115,7 +115,13 @@ Alvorens in dienst te treden leggen de havenagenten de eed af voor de rechtbank 
 
 De processen-verbaal die de leden van de havenkapiteinsdienst, vermeld in artikel 10, 12 en 13, hebben opgemaakt, worden op de havenkapiteinsdienst geregistreerd en ter beschikking gesteld van de procureur des Konings. De processen-verbaal gelden tot bewijs van het tegendeel.<br>
 <br>
-De vaststellingen, gesteund op materiële bewijsmiddelen die door onbemande, automatisch werkende toestellen worden opgeleverd, hebben bewijskracht zolang het tegendeel niet bewezen is, als het gaat om overtredingen van dit decreet. Als een overtreding werd vastgesteld door onbemande, automatisch werkende toestellen, wordt er melding van gemaakt in het proces-verbaal.
+De vaststellingen die de havenkapiteins, haveninspecteurs of havenagenten hebben gedaan met beeldmateriaal als vermeld in artikel 18, §1, derde en vierde lid, hebben bewijskracht tot bewijs van het tegendeel als de voormelde vaststellingen het voorwerp uitmaken van een proces-verbaal dat de volgende gegevens bevat:<br>
+1° bij mobiele camera’s, die in voorkomend geval intelligent zijn, de identiteit van het personeelslid dat het beeldmateriaal heeft gemaakt of de instructie daarvoor heeft gegeven;<br>
+2° de dag, de datum, het uur waarop en de exacte beschrijving van de plaats waar het beeldmateriaal is gemaakt;<br>
+3° de identificatie van het technische hulpmiddel waarmee het beeldmateriaal is gemaakt;<br>
+4° een beschrijving van wat op dat beeldmateriaal te zien is, en ook het verband met de vastgestelde inbreuk;<br>
+5° een afdruk van het beeldmateriaal of, als dat onmogelijk is, een kopie ervan op een drager als bijlage bij het proces-verbaal, en ook een volledige opgave van alle nodige technische specificaties om de kopie van dat beeldmateriaal te kunnen bekijken;<br>
+6° als er verschillende afdrukken of dragers zijn, een nummering van die afdrukken of die dragers, die ook moet voorkomen in de ermee overeenstemmende beschrijving, in het proces­verbaal, van wat op het beeldmateriaal is te zien.
 
 ### ART 15.
 
@@ -132,7 +138,7 @@ De vaststellingen, gesteund op materiële bewijsmiddelen die door onbemande, aut
 
 ### ART 16.
 
-De bepalingen van boek I van het Strafwetboek zijn zonder uitzondering toepasselijk op de misdrijven, vermeld in artikel 15.
+De bepalingen van boek I van het Strafwetboek zijn zonder uitzondering toepasselijk op de inbreuken, vermeld in artikel 15.
 
 ### ART 17.
 
@@ -142,7 +148,7 @@ De Vlaamse Regering bepaalt de nadere regels voor die onmiddellijke inning, waar
 <br>
 De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder die geldboete moet betalen en de wijze waarop die betaling kan gebeuren.<br>
 <br>
-§ 2. Voor zover het gaat om een inbreuk als vermeld in artikel 15, § 1, 3° en 4°, of als vermeld in artikel 15, § 2, 3°, of voor zover het gaat om een inbreuk of een samenloop van inbreuken waarvoor geen onmiddellijke inning van de geldboete met toepassing van paragraaf 1 kan worden voorgesteld, kan de havenkapitein het bedrag van de geldboete bepalen. Die geldboete mag niet meer bedragen dan het maximumbedrag van de geldboete, vermeld in artikel 15, § 1, 3° en 4°, en § 2, 3°, verhoogd met de opdeciemen, en moet in verhouding staan tot de aard, de omvang en de ernst van de inbreuk. De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder de geldboete uiterlijk moet betalen en de wijze waarop die betaling kan gebeuren. De betalingstermijn die de Vlaamse Regering heeft vastgesteld, bedraagt ten minste vijftien dagen en ten hoogste drie maanden.<br>
+§ 2. Voor zover het gaat om een inbreuk als vermeld in artikel 15, § 1, 3° en 4°, of als vermeld in artikel 15, § 2, 3°, of voor zover het gaat om een inbreuk of een samenloop van inbreuken waarvoor geen onmiddellijke inning van de geldboete met toepassing van paragraaf 1 kan worden voorgesteld, kan de havenkapitein het bedrag van de geldboete bepalen en voor de betaling ervan een minnelijke schikking voorstellen. Die geldboete mag niet meer bedragen dan het maximumbedrag van de geldboete, vermeld in artikel 15, § 1, 3° en 4°, en § 2, 3°, verhoogd met de opdeciemen, en moet in verhouding staan tot de aard, de omvang en de ernst van de inbreuk. De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder de geldboete uiterlijk moet betalen en de wijze waarop die betaling kan gebeuren. De betalingstermijn die de Vlaamse Regering heeft vastgesteld, bedraagt ten minste vijftien dagen en ten hoogste drie maanden.<br>
 <br>
 § 3. Indien de overtreder met inachtneming van de bepalingen, vermeld in paragraaf 1 en 2, overgaat tot de betaling van de daarin vermelde som, heeft die betaling verval van strafvordering tot gevolg, behalve indien het openbaar ministerie binnen drie maanden, te rekenen vanaf de dag van de betaling, de overtreder op de hoogte brengt van zijn voornemen om een andere straf te vorderen dan de geldboete die de havenkapitein, de haveninspecteur of de havenagent heeft opgelegd en onverminderd het recht dat de benadeelde partij heeft om voor het strafgerecht de vergoeding van de veroorzaakte schade te eisen.<br>
 <br>
@@ -190,7 +196,11 @@ Deze veronderstelde overtreder kan dit vermoeden weerleggen door met elk middel 
 
 § 1. De havenkapiteins, de haveninspecteurs en de havenagenten mogen op elk moment een vervoermiddel en/of lading, alsook plaatsen in publieke en private gebouwen die zich binnen het havengebied bevinden, betreden, onderzoeken en verzegelen, op voorwaarde dat die plaatsen geen woning uitmaken in de zin van artikel 15 van de Grondwet en de bepalingen van het internationaal zeerecht worden nageleefd. Ze mogen daarbij het benodigde materiaal meenemen en in beslag nemen. Ze mogen hierbij geen afbreuk doen aan de uitoefening van overheidsdiensten, noch aan de vereisten inzake inbeslagname van domeingoederen.<br>
 <br>
-Zonder afbreuk te doen aan de regelgeving tot bescherming van de persoonlijke levenssfeer kunnen de havenkapiteins, de haveninspecteurs en de havenagenten vaststellingen doen met audiovisuele middelen.<br>
+De havenkapiteins, de haveninspecteurs en de havenagenten kunnen vaststellingen doen met detectieapparatuur, met inbegrip van radar en marifoon.<br>
+<br>
+Voor het toezicht op en de handhaving van de reglementen van bijzondere administratieve politie inzake de in artikel 4 vermelde aangelegenheden, kunnen de havenkapiteins, de haveninspecteurs en de havenagenten vaststellingen doen met beeldmateriaal van vaste en mobiele camera’s, die in voorkomend geval intelligent zijn, ongeacht de drager daarvan.<br>
+<br>
+De havenkapiteins, de haveninspecteurs en de havenagenten kunnen beeldmateriaal gebruiken dat is gemaakt door een derde partij op instructie van de havenkapiteinsdienst, of ander beeldmateriaal van derden gebruiken, als die personen dat beeldmateriaal rechtmatig hebben gemaakt of verkregen.<br>
 <br>
 Bij de uitoefening van hun rechten, vermeld in deze paragraaf, mogen de havenkapiteins, de haveninspecteurs en de havenagenten zich laten bijstaan door personen die ze daartoe op grond van hun deskundigheid hebben aangewezen.<br>
 <br>
@@ -213,6 +223,73 @@ Als er op basis van het onderzoek een inbreuk wordt vastgesteld, zijn de overtre
 Behoudens in geval van onredelijke belemmering van de normale handelsexploitatie kunnen de rechtsonderhorigen die aan de onderzoeksdaden of bevelen, vermeld in deze paragraaf, worden onderworpen, geen aanspraak maken op enige vorm van schadeloosstelling.<br>
 <br>
 § 2. In geval van een ongeval of als de veiligheid, het milieu of de exploitatie van de haven in het gedrang komt, kunnen de havenkapiteins en de haveninspecteurs, bijgestaan door de havenagenten, veiligheidsmaatregelen opleggen ten aanzien van een gezagvoerder, dan wel de eigenaar of beheerder van een vervoermiddel en/of de lading waarvoor de veiligheidsmaatregelen zich opdringen. Indien de gezagvoerder, dan wel de eigenaar of beheerder afwezig is of weigert mee te werken aan de veiligheidsmaatregelen die de havenkapiteins en haveninspecteurs hebben opgelegd, kunnen de maatregelen gedwongen uitgevoerd worden op risico en op kosten van de betrokken gezagvoerder, dan wel de eigenaar of beheerder. Het desbetreffende vervoermiddel en/of de lading kunnen geheel of gedeeltelijk op risico en op kosten van de voornoemde personen worden aangehouden zolang de gemaakte kosten niet werden terugbetaald of zolang geen door de havenkapiteinsdienst aanvaarde waarborg werd verstrekt die voldoende is voor de dekking van alle gemaakte kosten, met inbegrip van de bewaringskosten.
+
+### ART 18/1.
+
+Het beeldmateriaal dat verzameld wordt met vaste en mobiele camera’s, die in voorkomend geval intelligent zijn, kan geregistreerd en bewaard worden voor een duur van niet meer dan twaalf maanden vanaf het moment van opname.<br>
+<br>
+Het beeldmateriaal, vermeld in het eerste lid, kan alleen langer dan de termijn, vermeld in het eerste lid, bewaard en gebruikt worden om vastgestelde inbreuken of schadeverwekkende daden te bewijzen of om de daders ervan te identificeren. In dat geval kunnen de beelden maximaal vijf jaar bewaard worden, tenzij de camerabeelden een onderdeel zijn van een gerechtelijke procedure, in welk geval de camerabeelden uitzonderlijk langer bewaard mogen worden tot op het moment dat er geen enkel gewoon of buitengewoon rechtsmiddel meer open staat tegen de definitieve beslissing in het kader van die gerechtelijke procedure.<br>
+<br>
+De toegang tot het beeldmateriaal, vermeld in het eerste lid, is beperkt tot:<br>
+1° de personeelsleden van de havenkapiteinsdienst op voorwaarde dat dit operationeel gemotiveerd is;<br>
+2° de personeelsleden met specifieke taken in het kader van de verwerking van de door de camera’s verkregen gegevens;<br>
+3° de personen, diensten of entiteiten die op basis van bijzondere wetgeving toegang hebben tot de camerabeelden.<br>
+<br>
+De toegang tot deze gegevens is beveiligd.<br>
+<br>
+Het beeldmateriaal, vermeld in het eerste lid, kan na anonimisering worden gebruikt voor didactische en pedagogische doeleinden in het kader van opleiding.<br>
+&nbsp;<br>
+De camera’s, vermeld in het eerste lid, leveren geen beelden op die de intimiteit van een persoon schenden, of beelden die gericht zijn op het inwinnen van informatie over de filosofische, religieuze, politieke, syndicale gezindheid, etnische of sociale origine, het seksuele leven of de gezondheidstoestand.<br>
+<br>
+De personen die toegang hebben tot het beeldmateriaal, vermeld in het eerste lid, hebben een geheimhoudingsverplichting voor de persoonsgegevens die die beelden opleveren.<br>
+<br>
+Bij incidenten of vermoeden van gevaar voor de openbare veiligheid of voor het milieu kan het beeldmateriaal, vermeld in het eerste lid, realtime of achteraf gedeeld worden met brandweerdiensten, civiele bescherming en andere veiligheidsdiensten.
+
+### ART 18/2.
+
+§1. Met het oog op de uitoefening van hun taken, vermeld in dit decreet, verwerken de personeelsleden van de havenkapiteinsdienst persoonsgegevens.<br>
+<br>
+De gegevens, vermeld in het eerste lid, zijn in het bijzonder gegevens over de identiteit, het adres, de contactgegevens, vaar- en voertuiggegevens en afbeeldingen van overtreders, van mogelijke overtreders of, in de gevallen, vermeld in artikel 17, §7 of §8, van veronderstelde overtreders, van personen die burgerrechtelijk aansprakelijk kunnen worden geacht voor een inbreuk, van getuigen en van andere personen die bij de feiten zijn betrokken.<br>
+<br>
+§2. De havenkapiteinsdienst stelt een register op waarin de volgende gegevens worden bewaard:<br>
+1° &nbsp; een kopie van het proces­verbaal;<br>
+2° in voorkomend geval, de stukken over de verzending van een afschrift van het proces­verbaal aan de overtreder, of, in de gevallen, vermeld in artikel 17, §7 of §8, de veronderstelde overtreder;<br>
+3° &nbsp; het voorstel tot betaling van een geldboete, vermeld in artikel 17, §1 of §2;<br>
+4° in voorkomend geval, alle beschikbare stukken over de borgstelling, vermeld in artikel 17, §4;<br>
+5° als de volgende gegevens bekend zijn, de identiteit en het adres van de woonplaats of de maatschappelijke zetel van de overtreder of, in de gevallen, vermeld in artikel 17, §7 of §8, de veronderstelde overtreder;<br>
+6° &nbsp;in voorkomend geval en als de volgende gegevens bekend zijn, de identiteit en het adres van de woonplaats of de maatschappelijke zetel van iedere persoon die burgerrechtelijk aansprakelijk geacht wordt voor een inbreuk;<br>
+7° de kwalificatie van de vastgestelde inbreuken of inbreuken.<br>
+<br>
+Het openbaar ministerie bij de hoven en rechtbanken en de onderzoeksrechters hebben toegang tot de gegevens, vermeld in het eerste lid, in het kader van de uitoefening van hun wettelijke opdracht.<br>
+<br>
+§3. Voor de verwerking van persoonsgegevens, vermeld in dit artikel, is het betrokken havenbedrijf de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van<br>
+27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De verwerking van de gegevens, vermeld in dit artikel, is noodzakelijk voor de vervulling van een taak in het kader van de uitoefening van het openbaar gezag dat aan de betrokken havenkapiteinsdienst is opgedragen. Meer bepaald worden de persoonsgegevens verzameld en verwerkt met het oog op de handhaving van havenpolitieverordeningen en havenverkeersverordeningen in de havengebieden.<br>
+<br>
+Met behoud van paragraaf 2, tweede lid, hebben de personeelsleden van de havenkapiteinsdienst alleen toegang tot de verwerkte persoonsgegevens bij de uitoefening van hun taken, vermeld in dit decreet.<br>
+<br>
+De persoonsgegevens, vermeld in dit artikel, worden tien jaar bijgehouden na het einde van de inbreuk of, als geen inbreuk is vastgesteld, vijf jaar na het einde van het onderzoek.
+
+### ART 18/3.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de personeelsleden van de havenkapiteinsdienst beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het negende lid.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de havenkapiteinsdienst, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden bedraagt in voorkomend geval niet meer dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke beslissing van de verwerkingsverantwoordelijke tot weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de havenkapiteinsdienst zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd, en houdt die informatie ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval opnieuw toegepast, conform artikel 12 van de voormelde verordening.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de personeelsleden van de havenkapiteinsdienst op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voor- komend geval de onderzoeksrechter aan de betrokken personeelsleden van de havenkapiteinsdienst heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
 
 ### ART 19.
 
