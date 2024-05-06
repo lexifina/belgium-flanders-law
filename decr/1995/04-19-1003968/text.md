@@ -65,7 +65,14 @@ In uitzonderlijke omstandigheden of gevallen kunnen door de Vlaamse regering aan
 <br>
 § 2bis. De Vlaamse Regering kan ontheffing verlenen van de in § 1 vermelde verplichting. Aan die ontheffing kunnen voorwaarden en voorschriften worden verbonden.<br>
 <br>
-§2ter. Voor de deelname aan het examen is de aanvrager een vergoeding verschuldigd van 1460 euro. Van dat bedrag komt 25 procent toe aan de bevoegde instantie. De aanvrager van een verklaring van vrijstelling legt het bewijs van betaling voor bij de aanvraag.<br>
+§2quater. Elke deelname aan de bekwaamheidsproef om een algemene vrijstelling te verkrijgen, is afhankelijk van de betaling van een retributie.<br>
+<br>
+Het bedrag van de retributie, vermeld in het eerste lid, staat in verhouding tot de administratieve kosten voor de behandeling van de aanvraag voor de verklaring van vrijstelling en de organisatie van de bekwaamheidsproef, vermeld in het eerste lid.<br>
+<br>
+Het bedrag van de retributie, vermeld in het eerste lid, wordt jaarlijks op<br>
+1 januari automatisch geïndexeerd overeenkomstig de Belgische consumptieprijsindex, op basis van het indexcijfer van de maand december van het voorafgaande jaar (basis 2013 = 100). Het verkregen resultaat wordt tot de hogere euro afgerond.<br>
+<br>
+De Vlaamse Regering stelt het tarief en de nadere modaliteiten van de retributie, vermeld in het eerste lid, vast.<br>
 <br>
 § 3. De Vlaamse regering bepaalt de gebieden waarbinnen en de omstandigheden waaronder de categorieën vaartuigen die zij aanduidt, van het loodsen op afstand gebruik moeten maken.<br>
 <br>
