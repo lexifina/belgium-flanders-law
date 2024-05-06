@@ -778,15 +778,18 @@ Met het oog op de invordering van aan haar verschuldigde onbetwiste en opeisbare
 
 ### ART 80.
 
-De volgende categorieën van vaartuigen zijn van de betaling van scheepvaartrechten of andere retributies als vermeld in artikel 79 vrijgesteld:<br>
+§1. De volgende categorieën van vaartuigen zijn van de betaling van scheepvaartrechten of andere retributies als vermeld in artikel 79 vrijgesteld:<br>
 1° vaartuigen die bestemd zijn voor openbaar personenvervoer te water, zoals veren waarmee door of in opdracht van een overheid veerdiensten worden aangeboden;<br>
 2° schepen die zich voor de vervulling van openbare diensten door of in opdracht van een overheid verplaatsen;<br>
 3° niet-gemotoriseerde schepen die over de hele lengte gemeten maximum 6 meter lang zijn, zonder winstgevend doel varen en geen personen tegen vergoeding vervoeren;<br>
 4° ijsbrekers, wanneer zij worden ingezet om ijsvorming te bestrijden;<br>
 5° schepen die bij vloed of wanneer het nodig is het water geheel of gedeeltelijk af te laten worden verhaald naar plaatsen waar ze de vrije loop van het water niet kunnen hinderen, en die later, wanneer de oorzaak van verplaatsing opgehouden heeft, naar hun eerste ligplaats terugkeren;<br>
-6° schepen gebruikt voor de uitvoering van werkzaamheden van onderhoud of verbetering der waterwegen door of in opdracht van de waterwegbeheerder, of voor vervoer verband houdende met deze werkzaamheden, voor zover die schepen zich met het oog op de uitvoering van de opdracht verplaatsen.<br>
+6° schepen gebruikt voor de uitvoering van werkzaamheden van onderhoud of verbetering der waterwegen door of in opdracht van de waterwegbeheerder, of voor vervoer verband houdende met deze werkzaamheden, voor zover die schepen zich met het oog op de uitvoering van de opdracht verplaatsen;<br>
+7° bijboten terwijl ze worden ingezet voor het aan en van boord brengen van personen en goederen, en bij redding, berging en werkzaamheden.<br>
 <br>
-Met uitzondering van de categorieën van vaartuigen, vermeld in punt 1° en 3° van het eerste lid, moet een schip dat in een van de hierboven vermelde uitzonderingsgevallen verkeert, zich bij het binnenvaren in het bevoegdheidsgebied van een waterwegbeheerder of bij de afvaart binnen het bevoegdheidsgebied melden bij de waterwegbeheerder, die het kosteloos een vaarvergunning verleent.
+Met uitzondering van de categorieën van vaartuigen, vermeld in het eerste lid, 1°, 3° en 7°, moet een schip dat in een van de hierboven vermelde uitzonderingsgevallen verkeert, zich bij het binnenvaren in het bevoegdheidsgebied van een waterwegbeheerder of bij de afvaart binnen het bevoegdheidsgebied melden bij de waterwegbeheerder, die het kosteloos een vaarvergunning verleent.<br>
+<br>
+§2. Woonvaartuigen die beschikken over een geldige vergunning of concessie om een ligplaats in te nemen, als ze zich op hun ligplaats bevinden, of als ze gesleept worden naar een andere locatie, zijn vrijgesteld van de betaling van de retributie, vermeld in artikel 79, om een waterwegenvergunning te verkrijgen.
 
 ### ART 81.
 
@@ -1060,6 +1063,8 @@ De volgende personen worden gesanctioneerd met een exclusieve bestuurlijke geldb
 1° degene die zich schuldig maakt aan een overtreding van de overeenkomstig artikel 148 vastgestelde verbods- of gebodsbepalingen;<br>
 2° de organisator van een activiteit of evenement als vermeld in artikel 29 die niet beschikt over een toelating van de beheerder van het jaagpad;<br>
 3° degene die zich schuldig maakt aan een overtreding van artikel 34;<br>
+3°/1 degene die zich schuldig maakt aan een overtreding van artikel 39;<br>
+3°/2 degene die zich schuldig maakt aan de miskenning van een tijdelijk verbod of een tijdelijke beperking als vermeld in artikel 41.<br>
 4° degene die zich schuldig maakt aan een overtreding van artikel 46;<br>
 5° de eigenaar of de exploitant van een schip dat de binnenwateren bevaart zonder aan de krachtens artikel 47 opgelegde verplichting te hebben voldaan;<br>
 6° de eigenaar of de exploitant van een schip dat, in overtreding van het door de Vlaamse Regering overeenkomstig artikel 53 vastgestelde besluit, niet over een verplicht boorddocument beschikt;<br>
@@ -1594,4 +1599,4 @@ In afwijking van artikel 196, treedt titel 5 in werking op de datum waarop het s
 
 ### ART 198.
 
-In afwijking van artikel 196, treden artikel 42, 166 en 167 in werking op 1 januari 2024.
+In afwijking van artikel 196, treden artikel 42, 166 en 167 in werking op 1 januari 2026.
