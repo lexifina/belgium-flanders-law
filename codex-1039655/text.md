@@ -1,0 +1,96 @@
+Rechtsgrond(en)
+Dit besluit is gebaseerd op:
+- het Bodemdecreet van 27 oktober 2006, artikel 23, 37, 42, artikelen 140 tot en met 145 en 156.
+Motivering
+Dit besluit is gebaseerd op de volgende motieven:
+De OVAM heeft een beleid uitgewerkt dat een site die bestaat uit meerdere (potentieel) verontreinigde gronden, deze gronden overeenkomstig artikel 140 van het Bodemdecreet kunnen worden vastgesteld als site om een integrale aanpak van de bodemverontreiniging te kunnen realiseren.
+In het Bodemdecreet werd in artikel 156 bepaald dat in geval van een vrijstelling van de onderzoeksplicht, vermeld in artikel 31, § 1, de OVAM kan beslissen om ambtshalve een oriënterend bodemonderzoek uit te voeren of de grond op te nemen in een site met het oog op de uitvoering van een siteonderzoek.
+Conform artikelen 37 en 42 van het Bodemdecreet kan de OVAM te allen tijde overgaan tot het ambtshalve uitvoeren van een oriënterend of een beschrijvend bodemonderzoek.
+De gemeentelijke inventaris bevat alle risicogronden in een gemeente. De gemeente Denderleeuw heeft haar gemeentelijke inventaris (GI) vervolledigd. De OVAM heeft die percelen opgelijst waarop historische risico-inrichtingen gevestigd waren en die nu in eigendom zijn van particulieren of kleine ondernemingen die zelf geen risico-activiteiten uitvoeren.
+Een integrale aanpak voor deze percelen is aangewezen, gelet op de aanwezigheid van voormalige bodemverontreinigende activiteiten en gelet op het feit dat er meerdere eigenaars zijn die elk afzonderlijk een onderzoeksplicht hebben voor hun eigen perceel. Het is derhalve aangewezen om een site vast te stellen voor deze percelen.
+Een integrale aanpak van de bodemverontreiniging voor de bovenvermelde gronden per locatie is aangewezen omwille van milieutechnische redenen, meer bepaald dat met het oog op een efficiënte aanpak en een goede risico-evaluatie het aangewezen is om alle potentieel verontreinigde gronden op te nemen in één overkoepelend bodemonderzoek.
+Een integrale aanpak van de bodemverontreiniging via sitevaststelling is ook noodzakelijk omwille van administratieve en communicatie-informatieve redenen, meer bepaald dat de gebruikers en eigenaars van de percelen gezamenlijk en gelijktijdig geïnformeerd worden over de verschillende fasen van het onderzoek en over de ernst van de verontreiniging.
+Conform artikel 142 van het Bodemdecreet wordt een siteonderzoek uitgevoerd op een site om de bodemverontreiniging of potentiële bodemverontreiniging afkomstig van de bodemverontreinigende activiteiten waarvoor de site is vastgesteld in kaart te brengen en om de ernst ervan vast te stellen. Het siteonderzoek voldoet aan de doelstellingen van een oriënterend en beschrijvend bodemonderzoek voor de bodemverontreinigende activiteiten waarvoor de site is vastgesteld. Een siteonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vermeld in artikel 44, tweede lid, voor de bodemverontreinigende activiteit waarvoor de site is vastgesteld. Bij gebrek aan een dergelijke standaardprocedure wordt het siteonderzoek uitgevoerd volgens een code van goede praktijk.
+Het siteonderzoek zal meer duidelijkheid geven over de omvang van de bodemverontreiniging in het vaste deel van de aarde en in het grondwater, over de oorsprong van de bodemverontreiniging, over de mogelijkheid tot verspreiding van de bodemverontreiniging, over de ernst van de bodemverontreiniging, over het gevaar op blootstelling van de bodemverontreiniging voor mensen, planten en dieren en grond- en oppervlaktewateren over de prognose van de spontane evolutie van de bodemverontreiniging in de toekomst.
+De OVAM heeft gronden in Denderleeuw geselecteerd die in eigendom zijn van particulieren en nog niet werden onderzocht in een oriënterend bodemonderzoek.
+De geselecteerde gronden gelegen in Denderleeuw worden vastgesteld als de site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw' waarvan de lijst van de gronden in de bijlage 1.
+Conform artikel 141 heeft de vaststelling als site van rechtswege tot gevolg dat de OVAM een siteonderzoek uitvoert. Het siteonderzoek wordt uitgevoerd binnen de termijn die in het besluit is bepaald.
+Het siteonderzoek spitst zich enkel toe op de (potentiële) historische verontreiniging afkomstig van de voormalige historische activiteiten zoals opgenomen in dit sitebesluit. De bepalingen van dit besluit hebben dus geen betrekking op eventuele andere risico-inrichtingen zoals bedoeld in artikel 6 van het Bodemdecreet of andere activiteiten of inrichtingen die de bodem kunnen verontreinigen. Hiervoor gelden, bij overdracht van gronden, de bepalingen van artikel 29 tot en met 30 en 101 tot en met 117 van het Bodemdecreet onverkort.
+De voormalige activiteiten dateren hoofdzakelijk van vóór 1995. Alle locaties zijn hoofdzakelijk in eigendom van particulieren. Redelijkerwijs kan verondersteld worden dat de huidige eigenaars niet betrokken waren bij de toenmalige activiteiten en zij de potentiële historische bodemverontreiniging dus niet zelf hebben veroorzaakt.
+Conform artikel 145 van het Bodemdecreet kan de OVAM voor de overdracht van de risicogronden die deel uitmaken van de site vrijstelling verlenen van de onderzoeksplicht vermeld in artikel 29, 30 en 102, §1. Artikel 102, §1 van het Bodemdecreet bepaalt dat risicogronden slechts kunnen worden overgedragen als er vooraf een oriënterend bodemonderzoek wordt uitgevoerd. Dat oriënterend bodemonderzoek moet overeenkomstig artikel 29, 30 en 102, §2 van het Bodemdecreet uitgevoerd worden op initiatief en op kosten van de overdrager of de gemandateerde voor de overdracht van de risicogrond. Het siteonderzoek zal voldoen aan de voorwaarden van een oriënterend en beschrijvend bodemonderzoek. Het zou onredelijk zijn de eigenaars van de gronden gelegen binnen deze site die hun grond wensen over te dragen gedurende de uitvoering van het siteonderzoek, zelf een oriënterend bodemonderzoek te laten uitvoeren. De OVAM verleent overeenkomstig artikel 145, tweede lid, vrijstelling van de onderzoeksplicht, vermeld in artikel 29, 30 en 102 van het Bodemdecreet en in afwachting van de beslissing over de aard en de aanwezigheid van een bodemverontreiniging, mogen gronden overgedragen worden zonder voorafgaand oriënterend bodemonderzoek voor de historische bodemverontreiniging die verband houdt met de historische activiteiten. Als de OVAM in de periode vóór het siteonderzoek en tijdens de uitvoering van het siteonderzoek alsnog vaststelt dat de eigenaar niet voldoet aan de voorwaarden van artikel 31,§3 van het Bodemdecreet en de OVAM de eigenaar hier schriftelijk op gewezen heeft, dan vervalt de vrijstelling van de onderzoeksplicht, vermeld in artikel 102, §1 van het Bodemdecreet.
+Conform artikel 23 van het Bodemdecreet kan de OVAM op basis van het dossier van de grond oordelen of de eigenaar, exploitant of gebruiker van de grond cumulatief voldoet aan de voorwaarden opgenomen in artikel 23 van het Bodemdecreet en bijgevolg niet verplicht is om het beschrijvend bodemonderzoek of de bodemsanering uit te voeren. De OVAM is, op basis van de huidige gegevens van de verschillende gronden behorende tot de site, van oordeel dat op basis van artikel 23 van het Bodemdecreet vrijstelling verleend kan worden aan de eigenaars en gebruikers van de gronden die behoren tot de site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw'. Als de OVAM naar aanleiding van de uitvoering van het siteonderzoek zou vaststellen dat één of meerdere eigenaars of gebruikers toch niet voldoen aan de voorwaarden van artikel 23, zal de OVAM deze eigenaars of gebruikers overeenkomstig artikel 22 van het Bodemdecreet op hun saneringsplicht wijzen.
+Als de OVAM van rechtswege of ambtshalve optreedt, verhaalt zij in toepassing van artikel 160 van het Bodemdecreet de kosten op de persoon die aansprakelijk is conform artikel 16 of 25.
+Als de OVAM na de uitvoering van het siteonderzoek vaststelt dat er potentiële risico’s zijn, treedt de OVAM enkel op als de potentiële risico’s binnen een termijn van 5 jaar na goedkeuring van het siteonderzoek actuele risico’s worden.
+Als de geplande herontwikkelingen niet worden aangevat binnen een termijn van 5 jaar na goedkeuring van het siteonderzoek, kan de OVAM de eventuele bodemsanering van de actuele risico’s uitvoeren zonder integratie.
+Juridisch kader
+Dit besluit sluit aan bij de volgende regelgeving:
+- het besluit van de administrateur-generaal van de Openbare Vlaamse Afvalstoffenmaatschappij van 1 december 2022 tot regeling van de delegatie van handtekening aan sommige personeelsleden van de Openbare Vlaamse Afvalstoffenmaatschappij, artikel 16.
+HET AFDELINGSHOOFD BODEMBEHEER VAN DE OVAM BESLUIT:
+Hoofdstuk I. Vaststelling site
+ART 1.
+Er wordt een site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw' vastgesteld voor de gronden opgenomen in de lijst van bijlage 1.
+Hoofdstuk II. Uitvoering van het siteonderzoek door de OVAM
+ART 2.
+De OVAM voert overeenkomstig artikel 141 van het Bodemdecreet het siteonderzoek uit voor de gronden opgenomen in de site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw' voor de (potentiële) historische bodemverontreiniging afkomstig van de voormalige historische activiteiten, opgelijst in bijlage 1. Het siteonderzoek zal uitgevoerd worden binnen de 36 maanden na de bekendmaking van de vaststelling van de site in het Belgisch staatsblad.
+Hoofdstuk III. Vrijstelling saneringsplicht
+ART 3.
+Op basis van de beschikbare gegevens van de gronden opgenomen in dit sitebesluit is de OVAM van oordeel dat, voor wat betreft de site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw', de eigenaars, exploitanten en gebruikers van deze gronden voldoen aan de voorwaarden opgenomen in artikel 23 van het Bodemdecreet.
+Bijgevolg worden de eigenaars, exploitanten en gebruikers vrijgesteld van de verplichting om tot bodemsanering over te gaan voor de mogelijke historische bodemverontreiniging die tot stand kwam door de historische activiteiten op de gronden opgenomen in dit sitebesluit.
+ART 4.
+Als de OVAM naar aanleiding van de uitvoering van het siteonderzoek op basis van een nieuw element vaststelt dat één of meerdere eigenaars of gebruikers niet voldoen aan de voorwaarden van artikel 23, kan de OVAM deze eigenaars of gebruikers alsnog verplichten om te voldoen aan de bepalingen van de artikels 19 tot en met 23 en 102 tot en met 118.
+Hoofdstuk IV. Vrijstelling onderzoeksplicht en overdracht van grond
+ART 5.
+De OVAM verleent overeenkomstig artikel 145, tweede lid, van het Bodemdecreet in geval van overdracht van een tot de site behorende grond en in afwachting van het siteonderzoek, de vrijstelling van de onderzoeksplicht vermeld in artikel 102, §1 van het Bodemdecreet, voor zover er geen andere risico-inrichtingen voorkomen of voorkwamen dan de voormalige historische activiteiten.
+In afwijking van het eerste lid, vervalt de vrijstelling van de onderzoeksplicht, vermeld in artikel 102, §1 van het Bodemdecreet als de OVAM in de periode vóór het siteonderzoek en tijdens de uitvoering van het siteonderzoek alsnog vaststelt dat de eigenaar niet voldoet aan de voorwaarden van artikel 31,§3 van het Bodemdecreet en de OVAM de eigenaar hier schriftelijk op gewezen heeft.
+Gelet op artikel 3 van dit besluit, kunnen de gronden opgenomen in deze site overgedragen worden zonder voorafgaande bodemsanering uit te voeren voor de (potentieel) historische bodemverontreiniging die verband houdt met de voormalige historische activiteiten, voor zover er geen andere risico-inrichtingen voorkomen of voorkwamen en er geen andere bodemverontreinigingen werden vastgesteld waarvoor verdere maatregelen noodzakelijk zijn dan deze afkomstig van de voormalige historische activiteiten.
+ART 6.
+De OVAM zal in toepassing van artikel 160 van het Bodemdecreet de kosten verhalen op de persoon die aansprakelijk is conform artikel 16 of 25.
+Hoofdstuk V. Inwerkingtredingsbepaling
+ART 7.
+Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad.
+BIJLAGE 1
+Lijst met de gronden met hun kadastrale gegevens (kadastrale toestand 01.01.2024) die deel uitmaken van de site 'Particuliere gronden met historische activiteiten - Populierenlaan in Denderleeuw
+Locatie | Voormalige activiteit | Percelen | Adres
+1 | Voormalige steenbakkerij | 41402B0302/00R000 | Steenweg 329
+1 | Voormalige steenbakkerij | 41402B0287/00K000 | Populierenlaan 49
+1 | Voormalige steenbakkerij | 41402B0302/00E003 | Populierenlaan 47
+1 | Voormalige steenbakkerij | 41402B0302/00G002 | Populierenlaan 45
+1 | Voormalige steenbakkerij | 41402B0302/00H002 | Populierenlaan 43
+1 | Voormalige steenbakkerij | 41402B0302/00T000 | Populierenlaan 41
+1 | Voormalige steenbakkerij | 41402B0302/00A004 | Populierenlaan 39
+1 | Voormalige steenbakkerij | 41402B0302/00K002 | Populierenlaan 37
+1 | Voormalige steenbakkerij | 41402B0302/00G003 | Populierenlaan 35
+1 | Voormalige steenbakkerij | 41402B0302/00H003 | Populierenlaan 31
+1 | Voormalige steenbakkerij | 41402B0302/00W002 | Populierenlaan 29
+1 | Voormalige steenbakkerij | 41402B0302/00C003 | Populierenlaan 27
+1 | Voormalige steenbakkerij | 41402B0302/00B003 | Populierenlaan 25
+1 | Voormalige steenbakkerij | 41402B0302/00D003 | Populierenlaan 23
+1 | Voormalige steenbakkerij | 41402B0302/00Y002 | Populierenlaan 21
+1 | Voormalige steenbakkerij | 41402B0302/00M002 | Populierenlaan 19
+1 | Voormalige steenbakkerij | 41402B0302/00L002 | Populierenlaan 17
+1 | Voormalige steenbakkerij | 41402B0302/00V000 | Populierenlaan 15
+1 | Voormalige steenbakkerij | 41402B0302/00W000 | Populierenlaan 13
+1 | Voormalige steenbakkerij | 41402B0302/00X000 | Populierenlaan 11
+1 | Voormalige steenbakkerij | 41402B0302/00Y000 | Populierenlaan 9
+1 | Voormalige steenbakkerij | 41402B0302/00Z000 | Populierenlaan 7
+1 | Voormalige steenbakkerij | 41402B0302/00F003 | Populierenlaan 5
+1 | Voormalige steenbakkerij | 41402B0287/00L000 | Populierenlaan z.n.
+1 | Voormalige steenbakkerij | 41402B0302/00G005 | Deust meir z.n.
+1 | Voormalige steenbakkerij | 41402B0302/00F005 | Steenweg 331
+1 | Voormalige steenbakkerij | 41402B0302/00L005 | Steenweg 333
+1 | Voormalige steenbakkerij | 41402B0302/00K005 | GEEN NAAM
+1 | Voormalige steenbakkerij | 41402B0302/00H005 | GEEN NAAM
+1 | Voormalige steenbakkerij | 41402B0302/00G004 | Populierenlaan 6
+1 | Voormalige steenbakkerij | 41402B0302/00X003 | Populierenlaan 8
+1 | Voormalige steenbakkerij | 41402B0302/00C004 | Populierenlaan 10
+1 | Voormalige steenbakkerij | 41402B0302/00D004 | Populierenlaan 12
+1 | Voormalige steenbakkerij | 41402B0302/00E004 | Populierenlaan 16
+1 | Voormalige steenbakkerij | 41402B0302/00F004 | Populierenlaan 20
+2 | Voormalige schietstand | 41402B0302/00C005 | Deust meir z.n.
+2 | Voormalige schietstand | 41402B0302/00X004 | Steenweg 339
+2 | Voormalige schietstand | 41402B0302/00Y004 | Deust Meir z.n.
+2 | Voormalige schietstand | 41402B0305/00K000 | Steenweg 353
+2 | Voormalige schietstand | 41402B0305/00M000 | Aelzak z.n.
+2 | Voormalige schietstand | 41402B0305/00N000 | Steenweg 347
+2 | Voormalige schietstand | 41402B0305/00P000 | Steenweg z.n.
+2 | Voormalige schietstand | 41402B0302/00A005 | Steenweg z.n.
