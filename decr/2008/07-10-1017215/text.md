@@ -408,7 +408,7 @@ Het controleverslag van de commissaris wordt samen met de jaarrekening van de LO
 <br>
 Tussen de LEM Kortrijk-Wevelgem en het Vlaamse Gewest wordt een overeenkomst gesloten die de wijze van berekening, de parameters en de betalingsmodaliteiten vaststelt van de eventuele toelagen, vermeld in de algemene uitgavenbegroting van de Vlaamse Gemeenschap. Die toelagen worden alleen aangewend voor de beveiligings- en brandweerdiensten, met inbegrip van de vogelwering, vermeld in het eerste lid, en worden door de LEM Kortrijk-Wevelgem verantwoord. De LEM Kortrijk-Wevelgem onderscheidt duidelijk de kosten en de financiering van haar commerciële activiteiten enerzijds en van de beveiligings- en brandweerdiensten anderzijds..<br>
 <br>
-§ 4. De Vlaamse Regering kan tijdelijk, en uiterlijk tot 31 maart 2024, binnen de perken van de daartoe op de begroting beschikbare kredieten, een toelage toekennen aan de nv Internationale Luchthaven Kortrijk-Wevelgem tot dekking van de lasten die voortvloeien uit het verstrekken van de taken inzake veiligheid en beveiliging (inclusief brandweerdiensten). De Vlaamse Regering bepaalt de wijze van berekening, de parameters en de betalingsmodaliteiten van deze toelage.
+§ 4. De Vlaamse Regering kan zolang de nv Interna­ tionale Luchthaven Kortrijk-Wevelgem belast is met de luchthavenexploitatie, binnen de perken van de daartoe op de begroting beschikbare kredieten, een toelage toekennen aan de nv Internationale Luchthaven Kortrijk-Wevelgem tot dekking van de lasten die voortvloeien uit het verstrekken van de taken inzake veiligheid en beveiliging (inclusief brandweerdiensten). De Vlaamse Regering bepaalt de wijze van berekening, de parameters en de betalingsmodaliteiten van deze toelage.
 
 ### ART. 66.
 
