@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039677,
+  "title": "Ministerieel besluit van 2024-03-18 tot vaststelling van het model en de afmetingen van de stembiljetten bij de lokale en provinciale verkiezingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039677/VolledigDocument?datum=2024-05-10",
+  "source_sha256": "b25d0ffc0dabfe49efed7640eb0b2ff424fcc8075971bd8ba2d21ac7df6afacb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039677&param=informatie",
+  "as_of": "2024-05-10",
+  "made": "2024-03-18",
+  "gazette": "2024-04-30",
+  "numac": 2024003765,
+  "document_start": "2024-05-10",
+  "document_end": null,
+  "in_force": "2024-05-10",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2024-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
