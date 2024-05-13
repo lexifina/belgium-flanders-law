@@ -2,16 +2,16 @@
   "codex_id": 1039556,
   "title": "Decreet van 2024-03-08 tot instelling van een kotlabel en tot wijziging van de regelgeving over de geconventioneerde verhuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039556/VolledigDocument?datum=2024-04-19",
-  "source_sha256": "6521228fc6fadcfd0b055a8e232118eb29bfafeac9b08c1ba854b5af18c85762",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039556/VolledigDocument?datum=2024-05-13",
+  "source_sha256": "a43ba3b96c6b99592ce5aed441a68e3959526b2458a346a86bf7617325ff7d11",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039556&param=informatie",
-  "as_of": "2024-04-19",
+  "as_of": "2024-05-13",
   "made": "2024-03-08",
   "gazette": "2024-04-09",
   "numac": 2024003043,
   "document_start": "2024-04-19",
   "document_end": null,
-  "in_force": "2024-04-19",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2024-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-05-13",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-05-13; future article versions excluded; article text as the API gives it"
 }
