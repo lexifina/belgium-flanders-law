@@ -1886,9 +1886,15 @@ De woonmaatschappij kan ook zelf ten belope van ten hoogste 20 procent van haar 
 <br>
 §2. De Vlaamse Regering bepaalt de voorwaarden over de maximale huurprijs, de korting op de huurprijs, de inkomens- en eigendomsvoorwaarde waaraan de huurder voldoet, de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning en de voorwaarden waaronder een &nbsp;geconventioneerde huurwoning wordt verhuurd.<br>
 <br>
-Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de woonmaatschappij of de persoon of personen die hij daartoe aanstelt, rekening houdend met:<br>
-1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
-2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+De Vlaamse Regering kan binnen de afgebakende doelgroep van woonbehoeftige gezinnen en alleenstaanden, vermeld in artikel 1.3, §1, eerste lid, 14°/1, bijzondere doelgroepen bepalen tot wie de projectgebonden oproep tot kandidaatstelling, vermeld in het vierde lid, zich kan richten.<br>
+<br>
+De geconventioneerde huurwoningen worden toegewezen door het beslissingsorgaan van de woonmaatschappij of de persoon of personen die hij daartoe aanstelt, rekening houdend met:<br>
+1° de interesse van de aanvrager van een geconventioneerde huurwoning in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2;<br>
+3° de voorrangsregel die de Vlaamse Regering vaststelt over de lokale binding van de aanvrager van een geconventioneerde huurwoning met de gemeente waar de geconventioneerde huurwoning ligt, als de gemeente beslist om die voorrangsregel toe te passen;<br>
+4° in voorkomend geval, het reglement, vermeld in artikel 5.52/3, eerste lid, dat de gemeente of het intergemeentelijk samenwerkingsverband heeft opgemaakt onder de voorwaarden die de Vlaamse Regering vaststelt.<br>
+<br>
+De kandidaatstelling voor een geconventioneerde huurwoning gebeurt na een projectgebonden oproep of in voorkomend geval, volgens de wijze die opge- nomen is in het reglement, vermeld in het derde lid, 4°.<br>
 <br>
 §3. De Vlaamse Regering stelt voor de verhuur van de geconventioneerde huurwoningen een typeovereenkomst vast voor de huurders die in aanmerking komen voor een geconventioneerde huurwoning. Van de typehuurovereenkomsten kan alleen worden afgeweken in de gevallen die de Vlaamse Regering bepaalt.<br>
 <br>
@@ -1918,17 +1924,18 @@ De typehuurovereenkomst, vermeld in het eerste lid, bevat minstens de volgende r
 7° gegevens over onroerende rechten;<br>
 8° woningkenmerken.<br>
 <br>
-De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden worden opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+Alleen het statuut van de persoon kan worden opgevraagd en verwerkt met betrekking tot de gegevens over de lichamelijke of psychische gezondheid, vermeld in het eerste lid, 5°.<br>
 <br>
 De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
 <br>
 §4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
-1° de aanvrager van een geconventioneerde huurwoning;<br>
+1° de aanvrager van een geconventioneerde huurwoning of zijn vertegenwoordiger;<br>
 2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
-3° de huurder en zijn gezinsleden;<br>
-4° de ex-huurder.<br>
+3° de huurder of zijn vertegenwoordiger;<br>
+4° de ex-huurder of zijn vertegenwoordiger;<br>
+5° de gezinsleden van de huurder.<br>
 <br>
-§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de behandeling van het aanvraagdossier. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 2°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van maximaal één jaar toe na de definitieve beëindiging van de administratieve, gerechtelijke en buitengerechtelijke procedures en uiterlijk maximaal tien jaar na de behandeling van het aanvraagdossier. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 2°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
 <br>
 §6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de woonmaatschappijen en de private initiatiefnemer, vermeld in artikel 5.52/1, voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijken kunnen de persoonsgegevens gebruiken voor statistische verwerking en kunnen ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De verwerkingsverantwoordelijken kunnen de persoonsgegevens ook doorgeven aan de toezichthouder, vermeld in artikel 4.79 van deze codex, om hem in staat te stellen het toezicht uit te oefenen.<br>
 &nbsp;<br>
@@ -2956,9 +2963,15 @@ De Vlaamse Regering stelt de subsidievoorwaarden vast en bepaalt minstens de vol
 <br>
 De Vlaamse Regering bepaalt de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning.<br>
 <br>
-Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de private initiatiefnemer of de persoon of personen die hij daartoe aanstelt, of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennoot- schappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, rekening houdend met:<br>
-1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
-2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+De Vlaamse Regering kan binnen de afgebakende doelgroep van woonbehoeftige gezinnen en alleenstaanden, vermeld in artikel 1.3, §1, eerste lid, 14°/1, bijzondere doelgroepen bepalen tot wie de projectgebonden oproep tot kandidaatstelling, vermeld in het zevende lid, zich kan richten. Alleen een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur kunnen onder de voor- waarden die de Vlaamse Regering bepaalt, geconventioneerde huurwoningen verhuren aan de bijzondere doelgroepen.<br>
+<br>
+De geconventioneerde huurwoningen worden toegewezen door het beslissingsorgaan van de private initiatiefnemer of de persoon of personen die hij daartoe aanstelt, of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, rekening houdend met:<br>
+1° de interesse van de&nbsp;aanvrager van een geconventioneerde huurwoning in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2;<br>
+3° de voorrangsregel die de Vlaamse Regering vaststelt over de lokale binding van de aanvrager van een geconventioneerde huurwoning met de gemeente waar de geconventioneerde woning ligt, als de gemeente beslist om die voorrangsregel toe te passen;<br>
+4° in voorkomend geval, het reglement, vermeld in artikel 5.52/3, eerste lid, dat de gemeente of het intergemeentelijk samenwerkingsverband heeft opgemaakt onder de voorwaarden die de Vlaamse Regering vaststelt.<br>
+<br>
+De kandidaatstelling voor een geconventioneerde huurwoning gebeurt na een projectgebonden oproep of in voorkomend geval, volgens de wijze die opgenomen is in het reglement, vermeld in zesde lid, 4°.<br>
 <br>
 De private initiatiefnemer, een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur gebruikt de typehuurovereenkomst, vermeld in 4.42, §3, als hij een geconventioneerde huurwoning verhuurt aan een huurder die in aanmerking komt voor een geconventioneerde huurwoning. De voorwaarden waaraan de huurder voldoet om in aanmerking te komen voor een geconventioneerde huurwoning zijn dezelfde als de voorwaarden die de Vlaamse Regering krachtens artikel 4.42, §2, bepaalt.<br>
 <br>
@@ -2978,7 +2991,7 @@ De Vlaamse Regering bepaalt de sancties op de niet-naleving van de subsidievoorw
 §2. De verwerkingsverantwoordelijken zijn:<br>
 1° de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid;<br>
 2° de private initiatiefnemer, vermeld in artikel 5.52/1;<br>
-3° een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
+3° een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
 <br>
 §3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
 1° persoonlijke identificatiegegevens;<br>
@@ -2990,17 +3003,19 @@ De Vlaamse Regering bepaalt de sancties op de niet-naleving van de subsidievoorw
 7° gegevens over onroerende rechten;<br>
 8° woningkenmerken.<br>
 <br>
-De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden wordt opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+Alleen het statuut van de persoon kan worden opgevraagd en verwerkt met betrekking tot de gegevens over de lichamelijke of psychische gezondheid, vermeld in het eerste lid, 5°.<br>
 <br>
 De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
 <br>
 §4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
-1° de aanvrager van een geconventioneerde huurwoning;<br>
+1° de aanvrager van een geconventioneerde huurwoning of zijn vertegenwoordiger;<br>
 2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
-3° de huurder en zijn gezinsleden;<br>
-4° de ex-huurder.<br>
+3° de huurder of zijn vertegenwoordiger;<br>
+4° de ex-huurder of zijn vertegenwoordiger;<br>
+5° de gezinsleden van de huurder;<br>
+6° de private initiatiefnemer die een natuurlijke persoon is.<br>
 <br>
-§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de beslissing dat de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 2° en 3°, passen op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van maximaal één jaar toe na de definitieve beëindiging van de administratieve, gerechtelijke en buitengerechtelijke procedures en uiterlijk maximaal tien jaar na de behandeling van het aanvraagdossier voor de subsidie, vermeld in artikel 5.52/1, tweede lid. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van maximaal één jaar toe na de definitieve beëindiging van de administratieve, gerechtelijke en buitengerechtelijke procedures en uiterlijk maximaal tien jaar na de behandeling van het aanvraagdossier. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 2° en 3°, passen op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
 &nbsp;<br>
 §6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de private initiatiefnemer, vermeld in artikel 5.52/1, de woonmaatschappij of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking.<br>
 <br>
@@ -3009,6 +3024,20 @@ De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegeven
 §7. De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Ze nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
 <br>
 §8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.
+
+### ART 5.52/3.
+
+Bij de opmaak van het reglement, vermeld in artikel 4.42, §2, tweede lid, 4°, en artikel 5.52/1, vijfde lid, 4°, betrekt de gemeente of het intergemeentelijk samenwerkingsverband de relevante huisvestings- en welzijnsactoren.<br>
+<br>
+De gemeente of het intergemeentelijk samenwerkingsverband bezorgt het reglement, vermeld in het eerste lid, en het administratief dossier aan de Vlaamse Regering met een beveiligde zending.<br>
+<br>
+De Vlaamse Regering beschikt over een termijn van vijfenveertig kalenderdagen, die volgt op de datum van de kennisgeving van het reglement, vermeld in het eerste lid, en het administratief dossier, om het reglement geheel of gedeeltelijk te vernietigen als ze het reglement in strijd acht met de wetten, decreten en de uitvoeringsbesluiten ervan of het algemeen belang. Als het reglement per aangetekend schrijven wordt bezorgd, gaat de termijn in vanaf de derde werkdag na de datum waarop het reglement is afgegeven op de post.<br>
+<br>
+De Vlaamse Regering kan de termijn, vermeld in het derde lid, eenmalig verlengen met vijftien kalenderdagen. Ze geeft daarvan kennis aan de gemeente of het intergemeentelijk samenwerkingsverband voordat de oorspronkelijke termijn afloopt.<br>
+<br>
+Voor de berekening van de termijn, vermeld in het derde en vierde lid, is de vervaldag in de termijn begrepen. Als de vervaldag een zaterdag, een zondag, een wettelijke of decretale feestdag is, wordt die verplaatst naar de eerstvolgende werkdag.<br>
+<br>
+De Vlaamse Regering bezorgt de vernietigingsbeslissing met een beveiligde zending aan de gemeente of het intergemeentelijk samenwerkingsverband.
 
 ## Deel 3. Subsidie voor woonwagenterreinen
 
