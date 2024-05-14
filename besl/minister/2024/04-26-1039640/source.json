@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039640,
+  "title": "Ministerieel besluit van 2024-04-26 tot vaststelling van de inventaris bouwkundig erfgoed in de provincie West-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039640/VolledigDocument?datum=2024-05-14",
+  "source_sha256": "95b9478f782ac05627070ad0abd0c4a0d920b87c96e79305624aca149ae17b1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039640&param=informatie",
+  "as_of": "2024-05-14",
+  "made": "2024-04-26",
+  "gazette": "2024-05-06",
+  "numac": 2024003845,
+  "document_start": "2024-05-14",
+  "document_end": null,
+  "in_force": "2024-05-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
