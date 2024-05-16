@@ -31,6 +31,8 @@ b) de kerkgemeente voor de protestantse eredienst;<br>
 c) de israëlitische gemeente voor de israëlitische eredienst;<br>
 d) de islamitische gemeenschap voor de islamitische eredienst;<br>
 4° bevoegde instantie: de instantie van de Vlaamse administratie, vermeld in artikel 18;<br>
+4°/1buitenlandse actor: elke buitenlandse entiteit van publiek- of privaatrechtelijke aard, met of zonder rechtspersoonlijkheid en ongeacht de rechtsvorm ervan;<br>
+4°/2 binnenlandse organisatie: elke entiteit die actief is op het Belgische grondgebied, met of zonder rechtspersoonlijkheid en ongeacht de rechtsvorm ervan;<br>
 5° centraal bestuur: de openbare instelling met rechtspersoonlijkheid die conform artikel 25, 105, 141, 177, 213 of 256 van het decreet van 7 mei 2004 wordt opgericht;<br>
 6° decreet van 7 mei 2004: het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten;<br>
 7° federale overheid: de federale overheid die bevoegd is voor de erkenning van de erediensten;<br>
@@ -65,6 +67,13 @@ Een lokale geloofsgemeenschap kan worden erkend als ze voldoet aan al de volgend
 1° ze heeft een juridische structuur die aangepast is aan het aangevraagde openbaar statuut en waarover er transparantie is;<br>
 2° ze is financieel leefbaar en biedt transparantie daarover;<br>
 3° [... (vernietigd bij arrest Grondwettelijk Hof 2023/113 van 20 juli 2023)]. Ze ontvangt geen financiering of ondersteuning die rechtstreeks of onrechtstreeks verband houdt met terrorisme, extremisme, spionage of clandestiene inmenging;<br>
+3°/1 ze ontvangt geen financiering of ondersteuning die rechtstreeks of onrechtstreeks verband houdt met terrorisme, extremisme, spionage of clandestiene inmenging;<br>
+3°/2 ze heeft geen banden met:<br>
+a) personen of entiteiten als vermeld in artikel 3 en 5 van het koninklijk besluit van 28 december 2006 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen de financiering van het terrorisme;<br>
+b) personen, groepen of entiteiten die zijn opgenomen in de lijst, vermeld in artikel 2, 3 en 4 van het gemeenschappelijk standpunt 2001/931/ GBVB van de Raad van 27 december 2001 betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme, en in de daaropvolgende besluiten van de Raad tot actualisering van de lijst van personen, groepen en entiteiten, vermeld in artikel 2, 3 en 4 van het gemeenschappelijk standpunt 2001/931/GBVB;<br>
+3°/3 ze heeft geen banden met:<br>
+a) personen als vermeld in artikel 1, 10°, 14°, 16° en 17°, van het koninklijk besluit van 21 juli 2016 betreffende de gemeenschappelijke gegevensbank Terrorist Fighters;<br>
+b) personen, rechtspersonen en feitelijke verenigingen als vermeld in artikel 1, 11°, van het koninklijk besluit van 23 april 2018 betreffende de gemeenschappelijke gegevensbank Haatpropagandisten en tot uitvoering van sommige bepalingen van afdeling 1bis ‘Het informatiebeheer’ van hoofdstuk IV van de wet op het politieambt;<br>
 4° ze toont de maatschappelijke relevantie aan van de lokale geloofsgemeenschap aan de hand van:<br>
 a) de bevestiging door het representatief orgaan dat de lokale geloofsgemeenschap minstens tweehonderd leden telt binnen de gebiedsomschrijving;<br>
 b) de zorg voor de materiële voorwaarden die de uitoefening van de eredienst en het behoud van de waardigheid ervan mogelijk maken;<br>
@@ -77,12 +86,16 @@ b) de verplichting om alle redelijke inspanningen te ondernemen om personen die 
 c) de verplichting om alle redelijke inspanningen te ondernemen om personen die in door de lokale geloofsgemeenschap gebruikte lokalen en plaatsen aanzetten tot discriminatie, haat of geweld jegens een persoon, een groep, een gemeenschap of de leden daarvan, te weren uit de gebruikte lokalen en plaatsen;<br>
 d) de verplichting om, onverminderd de vrijheid van godsdienst, alle redelijke inspanningen te ondernemen om geldende wetgeving na te leven en niet hun medewerking te verlenen aan handelingen strijdig met de geldende wetgeving, in het bijzonder de Grondwet en het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden;<br>
 e) de verplichting om in geen geval, op welke wijze dan ook aan te zetten tot discriminatie, haat of geweld jegens een persoon, een groep, een gemeenschap of leden daarvan;<br>
-6° ze toont aan dat het toekomstig bestuur van de eredienst houder zal worden van zakelijke rechten op de gebouwen of de andere infrastructuur bestemd voor de uitoefening van de eredienst of bij gebreke daarvan, wanneer de gebouwen of de andere infrastructuur bestemd voor de uitoefening van de eredienst geen eigendom zijn van een publieke rechtspersoon, kan ze een afschrift voorleggen van een overeenkomst die met de eigenaar van de gebouwen of de andere infrastructuur bestemd voor de uitoefening van de eredienst is gesloten over het gebruik van de gebouwen of de andere infrastructuur door het toekomstig bestuur van de eredienst;<br>
+6° ze toont aan dat het toekomstige bestuur van de eredienst voor de gebouwen die bestemd zijn voor de uitoefening van de eredienst, houder is van een van de onderstaande rechten of overeenkomsten. Aan dit criterium is ook voldaan als de gebouwen die bestemd zijn voor de uitoefening van de eredienst, in eigendom zijn van een Belgische publieke rechtspersoon:<br>
+a) een zakelijk recht dat voldoet aan de modaliteiten en voorwaarden, vermeld in boek 3 ‘Goederen’ van het Burgerlijk Wetboek: volle eigendom of mede-eigendom;<br>
+b) een zakelijk gebruiksrecht dat voldoet aan de modaliteiten en voorwaarden, vermeld in boek 3 ‘Goederen’ van het Burgerlijk Wetboek: erfpacht, vruchtgebruik of opstal;<br>
+c) een schriftelijke huurovereenkomst naar gemeenrecht conform artikel 1737 van het Burgerlijk Wetboek van bepaalde duur van minstens vijftien jaar zonder de mogelijkheid van een vervroegde beëindiging door de verhuurder;<br>
 7° het voorlopig bestuursorgaan bezorgt de voor- en achternaam, adres, rijksregisternummer, e-mailadres, telefoonnummer, nationaliteit, geboortedatum en geslacht van de leden van het voorlopig bestuursorgaan aan de Vlaamse Regering, het representatief orgaan, de financierende overheid en in voorkomend geval de adviserende gemeente. Als er tussentijdse wijzigingen zijn, meldt het voorlopig bestuursorgaan dat binnen dertig dagen aan deze instanties;<br>
 8° ze heeft enkel bedienaars van de eredienst en hun vervangers die voldoen aan de inburgeringsplicht die in voorkomend geval op hen van toepassing is conform het decreet van 7 juni 2013 betreffende het Vlaamse integratieen inburgeringsbeleid;<br>
-9° [... (vernietigd bij arrest Grondwettelijk Hof 2023/113 van 20 juli 2023)]<br>
+9° ze verbindt zich ertoe om de wedde van haar bedienaars van de eredienst ten laste te laten nemen door de federale overheid conform artikel 181 van de Grondwet en de wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten, van de bedienaars van de erkende erediensten en van de afgevaardigden van de Centrale Vrijzinnige Raad;<br>
 10° ze voldoet aan de verplichtingen, vermeld in artikel 11 en 12;<br>
-11° ze doorloopt de wachtperiode van vier jaar, vermeld in afdeling 3, met gunstig gevolg.
+11° ze doorloopt de wachtperiode van vier jaar, vermeld in afdeling 3, met gunstig gevolg;<br>
+12° de federale minister van Justitie heeft een gunstig advies gegeven over de lokale geloofsgemeenschap met betrekking tot elementen die de veiligheid van de staat of de openbare orde aanbelangen.
 
 ## Afdeling 2. Aanvraag tot erkenning
 
@@ -149,7 +162,7 @@ Als het representatief orgaan, de financierende overheid en in voorkomend geval 
 
 ### ART 14.
 
-§ 1. Uiterlijk zestig dagen na het einde van de wachtperiode, vermeld in paragraaf 3 en artikel 10, neemt de Vlaamse Regering een beslissing over de erkenning van de lokale geloofsgemeenschap en brengt ze het voorlopig bestuursorgaan, het representatief orgaan, de federale overheid, de financierende overheid en in voorkomend geval de adviserende gemeente op de hoogte van die beslissing.<br>
+§ 1. Uiterlijk zestig dagen na het einde van de wachtperiode, vermeld in paragraaf 3 en artikel 10, neemt de Vlaamse Regering“, na schriftelijk advies ingewonnen te hebben bij de bevoegde instantie, een beslissing over de erkenning van de lokale geloofsgemeenschap en brengt ze het voorlopig bestuursorgaan, het representatief orgaan, de federale overheid, de financierende overheid en in voorkomend geval de adviserende gemeente op de hoogte van die beslissing.<br>
 <br>
 § 2. Als de Vlaamse Regering beslist dat de lokale geloofsgemeenschap voldoet aan de verplichtingen, vermeld in artikel 7, en de aanvraag tot erkenning volledig is conform artikel 8, tweede lid, bevat het erkenningsbesluit al de volgende elementen:<br>
 1° de naam van het bestuur van de eredienst;<br>
@@ -185,15 +198,29 @@ b) de verplichting om alle redelijke inspanningen te ondernemen om personen die 
 c) de verplichting om alle redelijke inspanningen te ondernemen om personen die in door het bestuur van de eredienst gebruikte lokalen en plaatsen aanzetten tot discriminatie, haat of geweld jegens een persoon, een groep, een gemeenschap of de leden daarvan, te weren uit de gebruikte lokalen en plaatsen;<br>
 d) de verplichting om, onverminderd de vrijheid van godsdienst, alle redelijke inspanningen te ondernemen om geldende wetgeving na te leven en niet hun medewerking te verlenen aan handelingen strijdig met de geldende wetgeving, in het bijzonder het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden en de Grondwet;<br>
 e) de verplichting om in geen geval, op welke wijze dan ook aan te zetten tot discriminatie, haat of geweld jegens een persoon, een groep, een gemeenschap of leden daarvan;<br>
-4° het kan een bewijs voorleggen dat het bestuur van de eredienst houder is van zakelijke rechten op de gebouwen bestemd voor de uitoefening van de eredienst of, bij gebreke daarvan, wanneer de gebouwen bestemd voor de uitoefening van de eredienst geen eigendom zijn van een publieke rechtspersoon, kan het een afschrift voorleggen van een overeenkomst die met de eigenaar van de gebouwen bestemd voor de uitoefening van de eredienst is gesloten over het gebruik van de gebouwen door het bestuur van de eredienst;<br>
+4° ze toont aan dat ze voor de gebouwen die bestemd zijn voor de uitoefening van de eredienst, houder is van een van de onderstaande rechten of overeenkomsten. Aan dit criterium is ook voldaan als de gebouwen die bestemd zijn voor de uitoefening van de eredienst, in eigendom zijn van een Belgisch publieke rechtspersoon. Het bestuur van de eredienst voldoet hieraan uiterlijk drie jaar na de inwerkingtreding ervan:<br>
+a)&nbsp;&nbsp; &nbsp;een zakelijk recht dat voldoet aan de modaliteiten en voorwaarden, vermeld in boek 3 ‘Goederen’ van het Burgerlijk Wetboek: volle eigendom of mede-eigendom;<br>
+b)&nbsp;&nbsp; &nbsp;een zakelijk gebruiksrecht dat voldoet aan de modaliteiten en voorwaarden, vermeld in boek 3 ‘Goederen’ van het Burgerlijk Wetboek: erfpacht, vruchtgebruik of opstal;<br>
+c)&nbsp;&nbsp; &nbsp;een schriftelijke huurovereenkomst naar gemeenrecht conform artikel 1737 van het Burgerlijk Wetboek van bepaalde duur van minstens vijftien jaar zonder de mogelijkheid van een vervroegde beëindiging door de verhuurder;<br>
 5° het deelt de voor- en achternaam, adres, rijksregisternummer, e-mailadres, telefoonnummer, nationaliteit, geboortedatum en geslacht van de bedienaars van de eredienst, hun vervangers en de leden van het bestuursorgaan mee aan de Vlaamse Regering, het representatief orgaan, de financierende overheid en in voorkomend geval de adviserende gemeente;<br>
 6° het meldt alle wijzigingen van de gegevens, vermeld in punt 5°, binnen dertig dagen aan de Vlaamse Regering, het representatief orgaan, de financierende overheid en in voorkomend geval de adviserende gemeente;<br>
 7° zijn bedienaars van de eredienst en hun vervangers voldoen aan de inburgeringsplicht die in voorkomend geval op hen van toepassing is conform het decreet van 7 juni 2013 betreffende het Vlaamse integratieen inburgeringsbeleid;<br>
-8° [... (vernietigd bij arrest Grondwettelijk Hof 2023/113 van 20 juli 2023)]
+8° ze verbindt zich ertoe om de wedde van haar bedienaars van de eredienst ten laste te laten nemen door de federale overheid conform artikel 181 van de Grondwet en de wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten, van de bedienaars van de erkende erediensten en van de afgevaardigden van de Centrale Vrijzinnige Raad;<br>
+9° de federale minister van Justitie heeft geen ongunstig advies over het bestuur gegeven met betrekking tot elementen die de veiligheid van de staat of de openbare orde aanbelangen.
 
 ### ART 17.
 
 § 1. [... (vernietigd bij arrest Grondwettelijk Hof 2023/113 van 20 juli 2023)]. Een bestuur van de eredienst ontvangt geen financiering of ondersteuning die rechtstreeks of onrechtstreeks verband houdt met terrorisme, extremisme, spionage of clandestiene inmenging.<br>
+<br>
+§ 1/1. Het bestuur van de eredienst ontvangt geen financiering of ondersteuning die rechtstreeks of onrechtstreeks verband houdt met terrorisme, extremisme, spionage of clandestiene inmenging.<br>
+<br>
+§ 1/2. Het bestuur van de eredienst heeft geen banden met:<br>
+a) personen of entiteiten als vermeld in artikel 3 en 5 van het koninklijk besluit van 28 december 2006 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen de financiering van het terrorisme;<br>
+b) personen, groepen of entiteiten die zijn opgenomen in de lijst, vermeld in artikel 2, 3 en 4 van het gemeenschappelijk standpunt 2001/931/GBVB van de Raad van 27 december 2001 betreffende de toepassing van specifieke maatregelen ter bestrijding van het terrorisme en in de daaropvolgende besluiten van de Raad tot actualisering van de lijst van personen, groepen en entiteiten, vermeld in artikel 2, 3 en 4 van gemeenschappelijk standpunt 2001/931/GBVB.<br>
+<br>
+§ 1/3. Het bestuur van de eredienst heeft geen banden met:<br>
+a) personen als vermeld in artikel 1, 10°, 14°, 16° en 17°, van het koninklijk besluit van 21 juli 2016 betreffende de gemeenschappelijke gegevensbank Terrorist Fighters;<br>
+b) personen, rechtspersonen en feitelijke verenigingen als vermeld in artikel 1, 11°, van het koninklijk besluit van 23 april 2018 betreffende de gemeenschappelijke gegevensbank Haatpropagandisten en tot uitvoering van sommige bepalingen van afdeling 1bis `Het informatiebeheer' van hoofdstuk IV van de wet op het politieambt.<br>
 <br>
 § 2. Het bestuursorgaan houdt op de zetel van het bestuur van de eredienst een register bij van alle giften, in natura of in contanten, waarvan het bestuur van de eredienst, rechtstreeks of onrechtstreeks de begunstigde is en die een waarde hebben van 1000 euro en meer. Als een schenker meerdere giften doet binnen eenzelfde boekjaar die in totaal de waarde van 1000 euro overschrijden, worden die afzonderlijke giften geregistreerd.<br>
 <br>
@@ -323,7 +350,7 @@ Het bestuur van de eredienst en in voorkomend geval de leden van het bestuursorg
 
 ### ART 29.
 
-§ 1. In geval van een tekortkoming aan een verplichting, vermeld in hoofdstuk 3 en hoofdstuk 4 van dit decreet of in het decreet van 7 mei 2004, kan de Vlaamse Regering, al dan niet na een aanmaning, beslissen om een van de volgende sancties op te leggen:<br>
+§ 1. In geval van een tekortkoming aan een verplichting, vermeld in hoofdstuk 3 en hoofdstuk 4 van dit decreet of in het decreet van 7 mei 2004, kan de Vlaamse Regering, na schriftelijk advies ingewonnen te hebben bij de bevoegde instantie, al dan niet na een aanmaning, beslissen om een van de volgende sancties op te leggen:<br>
 1° opschorting of beperking van de financiële gevolgen van de erkenning voor een bepaalde termijn;<br>
 2° opschorting van de erkenning voor een bepaalde termijn;<br>
 3° opheffing van de erkenning.<br>
@@ -772,7 +799,7 @@ b) voor rechtspersonen of structuren zonder rechtspersoonlijkheid:<br>
 <br>
 Als een van de instanties, vermeld in het eerste lid, het advies niet op tijd bezorgt, kan aan de adviesvereiste voorbij worden gegaan.<br>
 <br>
-§ 5. Uiterlijk zes maanden nadat de termijn, vermeld in paragraaf 4, is verstreken, beslist de Vlaamse Regering over de erkenning en brengt ze het bestuursorgaan vermeld in paragraaf 2, 6°, het representatief orgaan, de federale overheid, de financierende overheid en in voorkomend geval de adviserende gemeente op de hoogte van deze beslissing.<br>
+§ 5. Uiterlijk zes maanden nadat de termijn, vermeld in paragraaf 4, is verstreken, beslist de Vlaamse Regering, na schriftelijk advies ingewonnen te hebben bij de bevoegde instantie, over de erkenning en brengt ze het bestuursorgaan vermeld in paragraaf 2, 6°, het representatief orgaan, de federale overheid, de financierende overheid en in voorkomend geval de adviserende gemeente op de hoogte van deze beslissing.<br>
 <br>
 De Vlaamse Regering beoordeelt de erkenning van een lokale geloofsgemeenschap op basis van de verplichtingen, vermeld in artikel 7, met uitzondering van punt 10° en 11°. De beslissing tot erkenning bevat in voorkomend geval al de elementen, vermeld in artikel 14, § 2, eerste lid.<br>
 <br>
