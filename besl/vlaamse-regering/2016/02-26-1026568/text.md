@@ -67,6 +67,9 @@ i)&nbsp;&nbsp; &nbsp;de voertuigen die aangepast zijn voor het vervoer van perso
 j)&nbsp;&nbsp; &nbsp;de voertuigen die uitgerust zijn met een geïntegreerd systeem dat in of aan het voertuig gemonteerd is en dat bestemd is om te worden gebruikt om de rolstoel samen met de gebruiker in het voertuig te plaatsen, en die geen voertuigen zijn als vermeld in punt e), f), g) of i). De voormelde afwijking wordt niet toegekend aan de voertuigen van de categorie M2 en M3 voor klasse A, koetswerkcode CV, klasse I, koetswerkcode CE, CF, CG en CH en klasse II, koetswerkcode CM, CN, CO en CP als vermeld in artikel 1, §1, van het koninklijk besluit van 15 maart 1968. De toegang geldt voor vijf jaar;<br>
 k)&nbsp;&nbsp; &nbsp;mobiele kranen als vermeld in artikel 1, §2, 74, van het koninklijk besluit van 15 maart 1968;<br>
 l)&nbsp;&nbsp; &nbsp;tot en met 31 december 2030: de motorvoertuigen van de categorie T met een vermogen lager dan 130kW.<br>
+m)&nbsp;&nbsp; &nbsp;de voertuigen die niet in België ingeschreven zijn die sedert meer dan dertig jaar in gebruik zijn genomen. De toegang geldt voor 5 jaar;<br>
+n)&nbsp;&nbsp; &nbsp;de voertuigen ingeschreven in België onder één van de kentekenplaten bedoeld in artikel 4, § 2 van het ministerieel besluit van 23 juli 2001 betreffende de inschrijving van voertuigen, indien ze sedert meer dan dertig jaar in gebruik zijn genomen.<br>
+<br>
 <br>
 Voor de toepassing van dit besluit worden voertuigen die werken op lpg, aardgas of bio-ethanol, gelijkgesteld met een voertuig met een benzinemotor. Hybridevoertuigen krijgen toegang op basis van hun verbrandingsmotor.<br>
 <br>
@@ -350,10 +353,11 @@ Als een voertuig een LEZ betreedt zonder voorafgaande individuele toelating, kun
 
 ### ART. 4.
 
-§ 1. Ter uitvoering van artikel 4, § 1, van het decreet van 27 november 2015 is de registratie verplicht voor de volgende voertuigen:<br>
-1° buitenlandse voertuigen die vallen onder categorie M, N of T en die voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, a), van dit besluit;<br>
-2° de voertuigen, vermeld in artikel 2, §1, eerste lid, 4°, e), f), g), h) en j), als ze niet voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, § 1, eerste lid, 2° en 4°, a), van dit besluit;<br>
-3° tot en met 31 december 2030 voor de voertuigen van categorie T met een vermogen lager dan 130 kW die niet voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, § 1, eerste lid, 3°, b) tot en met d), van dit besluit.<br>
+§ 1. Ter uitvoering van artikel 4, §1, van het decreet van 27 november 2015 is de registratie verplicht voor de volgende voertuigen:<br>
+1° buitenlandse voertuigen die vallen onder categorie M, N of T en die voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, §1, eerste lid, 1° tot en met 4°, a), en 4°, m), van dit besluit;<br>
+2° de voertuigen, vermeld in artikel 2, §1, eerste lid, 4°, e), f), g), h) en j), als ze niet voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, §1, eerste lid, 2°, en 4°, a), van dit besluit;<br>
+3° tot en met 31 december 2030 voor de voertuigen van categorie T met een vermogen lager dan 130 kW die niet voldoen aan de toegangsvoorwaarden, vermeld in artikel 2, §1, eerste lid, 3°, b) tot en met d), van dit besluit;<br>
+4° de voertuigen, vermeld in artikel 2, §1, eerste lid, 4°, n), van dit besluit.<br>
 <br>
 In afwijking van het eerste lid geldt er geen registratieverplichting voor:<br>
 1° voertuigen die al in de LEZ-databank zijn geregistreerd, op voorwaarde dat de nummerplaat die bij het geregistreerde voertuig hoort, niet is gewijzigd;<br>
