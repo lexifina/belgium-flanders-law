@@ -492,7 +492,7 @@ b) er zijn voldoende aanwijzingen dat de minderjarige, vermeld in a), zich in ee
 7° voor ten hoogste één jaar de functie behandeling opleggen;<br>
 8° voor ten hoogste één jaar de functie training opleggen;<br>
 9° voor ten hoogste één jaar de functie verblijf opleggen;<br>
-10° voor ten hoogste één jaar de functie beveiligend verblijf opleggen;<br>
+10° voor ten hoogste één jaar de functie veilig verblijf opleggen;<br>
 11° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een geschikte open inrichting die niet behoort tot het toepassingsgebied zoals vermeld in artikel 3;<br>
 12° voor ten hoogste één jaar de minderjarige toevertrouwen aan een psychiatrische inrichting, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
 13° ...;<br>
@@ -843,7 +843,7 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 § 1. Iedere rechtspersoon die zich voorneemt minderjarigen op te nemen of te begeleiden in het kader van dit decreet, moet daarvoor door de Vlaamse Regering worden erkend.<br>
 <br>
-Iedere rechtspersoon die zich voorneemt minderjarigen op te nemen of te begeleiden binnen een beveiligd verblijf in het kader van dit decreet, moet daarvoor door de Vlaamse Regering worden erkend.<br>
+Iedere rechtspersoon die zich voorneemt minderjarigen op te nemen of te begeleiden binnen een veilig verblijf in het kader van dit decreet, moet daarvoor door de Vlaamse Regering worden erkend.<br>
 <br>
 § 2. De Vlaamse Regering stelt de erkenningsvoorwaarden vast voor de rechts-personen, vermeld in paragraaf 1. Die voorwaarden kunnen betrekking hebben op :<br>
 1° de personele en materiële infrastructuur;<br>
@@ -860,7 +860,14 @@ Het betreft minstens een uittreksel uit het strafregister en een medisch attest.
 <br>
 § 4. De voorzieningen worden voor een onbepaalde duur erkend.<br>
 <br>
-De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.
+De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.<br>
+<br>
+§4/1. Met behoud van de toepassing van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht en de toepassing van het besluit van de Vlaamse Regering betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp kunnen de voorzieningen die minderjarigen opnemen of begeleiden binnen veilig verblijf in het kader van dit decreet of de centra voor ernstige gedrags- en emotionele stoornissen maatregelen nemen die de dagelijkse bewegingsvrijheid van een minderjarige inperken in functie van het beschermen van de fysieke, psychische of seksuele integriteit als aan volgende voorwaarden voldaan is:<br>
+1° de bescherming of beveiliging is manifest noodzakelijk om de fysieke, psychische of seksuele integriteit van de minderjarige of van andere min- derjarigen of van het personeel te verzekeren;<br>
+2° de bescherming of beveiliging gebeurt op maat van de minderjarige en zo veel als mogelijk in dialoog met de minderjarige, de ouders of andere opvoedingsverantwoordelijken;<br>
+3° het gesloten karakter van de bescherming of beveiliging wordt individueel trajectmatig gedifferentieerd;<br>
+4° de bescherming of beveiliging duurt niet langer dan noodzakelijk.<br>
+&nbsp;
 
 ### ART 78/2.
 
