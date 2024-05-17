@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039665,
+  "title": "Decreet van 2024-03-29 tot wijziging van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht en tot wijziging van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039665/VolledigDocument?datum=2024-05-17",
+  "source_sha256": "cbad2bad4a3d53740ee842431b05a0cbc850b6d81ce889e8dd0d72769840f126",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039665&param=informatie",
+  "as_of": "2024-05-17",
+  "made": "2024-03-29",
+  "gazette": "2024-05-07",
+  "numac": 2024004109,
+  "document_start": "2024-05-17",
+  "document_end": null,
+  "in_force": "2024-05-17",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2024-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
