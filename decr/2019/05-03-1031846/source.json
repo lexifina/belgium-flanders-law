@@ -2,16 +2,16 @@
   "codex_id": 1031846,
   "title": "Decreet van 2019-05-03 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031846/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "3c9fcf74c8d4c3eb2f69de0b76a01c958bbad36a5c9a294ae85e323a07f0228d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031846/VolledigDocument?datum=2024-05-18",
+  "source_sha256": "7890bdebabb5ee7ae1a955baec2cd74e42f6b76d4a9b08ecdeae015bc1715b56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031846&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2024-05-18",
   "made": "2019-05-03",
   "gazette": "2019-06-27",
   "numac": 2019013072,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2024-05-18",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-05-18; future article versions excluded; article text as the API gives it"
 }

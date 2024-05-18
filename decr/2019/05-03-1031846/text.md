@@ -107,7 +107,7 @@ De kwaliteitsvoorwaarden, vermeld in het eerste lid, hebben minimaal betrekking 
 1° het aanbod van buitenschoolse activiteiten;<br>
 2° de toegankelijkheid, met bijzondere aandacht voor kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
 3° de kwaliteitsvolle interacties tussen de medewerkers en de kinderen, waarbij de medewerkers beschikken over de nodige competenties en voldoende kennis van het Nederlands;<br>
-4° het beschikken voor de medewerkers over een recent uittreksel uit het strafregister, vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of over een gelijkwaardig document voor wie niet in België gedomicilieerd is, waaruit onberispelijk gedrag in de omgang met kinderen blijkt. Als de organisator een rechtspersoon is, beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon;<br>
+4° de organisator controleert bij de aanstelling van elke persoon die werkzaam is in de kinderopvanglocatie het goed en zedelijk gedrag van de betrokkene, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt. Artikel 3, tweede tot en met vijfde lid, artikel 4, eerste lid, en artikel 5 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister, vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe personen werkzaam in de kinderopvanglocatie, is daarbij van toepassing. Daarenboven beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon;<br>
 5° het gebruik van het Nederlands.<br>
 <br>
 De Vlaamse Regering kan aanvullende voorwaarden bepalen.<br>
