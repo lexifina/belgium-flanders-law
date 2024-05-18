@@ -45,7 +45,26 @@ Onder meer de volgende activiteiten worden niet beschouwd als kinderopvang met b
 
 ### ART. 3.
 
-De Vlaamse Gemeenschap beoogt met kinderopvang een dienstverlening aan gezinnen die een economische, pedagogische en sociale functie heeft, die kwaliteitsvol, beschikbaar, betaalbaar en rechtstreeks toegankelijk is voor elk kind zonder onderscheid, in aanvulling op de opvoeding van het kind in zijn gezin, met respect voor de draagkracht van het kind, zijn thuismilieu en de keuzevrijheid van het gezin.<br /><br />Binnen het beschikbare aanbod aan kinderopvang heeft elk gezin met een behoefte aan kinderopvang, recht op kinderopvang. De Vlaamse Gemeenschap beoogt tegen 2016 een aanbod voor minstens de helft van de kinderen jonger dan drie jaar, en vanaf 2020 voor alle gezinnen met een behoefte aan kinderopvang, binnen een afgesproken budgettair kader.<br /><br />De kinderopvang wordt in de Vlaamse Gemeenschap uitgebouwd met als doel aan alle gezinnen die behoefte hebben aan kinderopvang binnen een redelijke termijn en op een redelijke afstand een kwaliteitsvolle en betaalbare opvangplaats te kunnen aanbieden.<br /><br />Lokale loketten, zoals vermeld in artikel 13, moeten voor alle gezinnen de toegankelijkheid van kinderopvanglocaties, vermeld in het eerste lid, bevorderen.<br /><br />Zolang het aanbod niet volstaat voor alle gezinnen met een behoefte aan kinderopvang, bepaalt de Vlaamse Regering in functie van de toegankelijkheid welke groepen bij voorrang kunnen gebruik maken van het aanbod waarvoor de organisator een subsidie ontvangt als vermeld in artikel 8 en 9.<br /><br />De Vlaamse Regering houdt bij de programmatie van de vergunningen, zoals vermeld in artikel 8 en 9, rekening met een wetenschappelijk onderbouwde raming van de behoefte aan kinderopvang die minstens uitgaat van :<br />1° de vastgestelde nataliteit en de prognose van de toekomstige nataliteit in het Vlaamse Gewest en het Brusselse Hoofdstedelijke Gewest;<br />2° het aantal kinderen dat kinderopvang gebruikt;<br />3° de gezinskenmerken en de werksituatie van gezinnen met niet-schoolgaande kinderen, vooral in het kader van de stimulering van de tewerkstellingsgraad;<br />4° het aantal plaatsen in vergunde kinderopvanglocaties en de bezetting ervan;<br />5° de kenmerken van de gemeente.
+De Vlaamse Gemeenschap beoogt met kinderopvang een dienstverlening aan gezinnen die een economische, pedagogische en sociale functie heeft, die kwaliteitsvol, beschikbaar, betaalbaar en rechtstreeks toegankelijk is voor elk kind zonder onderscheid, in aanvulling op de opvoeding van het kind in zijn gezin, met respect voor de draagkracht van het kind, zijn thuismilieu en de keuzevrijheid van het gezin.<br>
+<br>
+Binnen het beschikbare aanbod aan kinderopvang heeft elk gezin met een behoefte aan kinderopvang, recht op kinderopvang.&nbsp;<br>
+<br>
+De kinderopvang wordt in de Vlaamse Gemeenschap uitgebouwd met als doel aan alle gezinnen die behoefte hebben aan kinderopvang binnen een redelijke termijn en op een redelijke afstand een kwaliteitsvolle en betaalbare opvangplaats te kunnen aanbieden.<br>
+<br>
+De Vlaamse Gemeenschap ontwikkelt een financieringskader met het oog op een duurzame uitbouw van de kinderopvang, zowel kwalitatief als kwantitatief.&nbsp;<br>
+<br>
+De uitbouw van bovenstaande aspecten binnen de kinderopvang gebeurt bin-nen een afgesproken budgettair kader.<br>
+<br>
+Lokale loketten, zoals vermeld in artikel 13, moeten voor alle gezinnen de toegankelijkheid van kinderopvanglocaties, vermeld in het eerste lid, bevorderen.<br>
+<br>
+Zolang het aanbod niet volstaat voor alle gezinnen met een behoefte aan kinderopvang, bepaalt de Vlaamse Regering in functie van de toegankelijkheid welke groepen bij voorrang kunnen gebruik maken van het aanbod waarvoor de organisator een subsidie ontvangt als vermeld in artikel 8 en 9.<br>
+<br>
+De Vlaamse Regering houdt bij de programmatie van de vergunningen, zoals vermeld in artikel 8 en 9, rekening met een wetenschappelijk onderbouwde raming van de behoefte aan kinderopvang die minstens uitgaat van :<br>
+1° de vastgestelde nataliteit en de prognose van de toekomstige nataliteit in het Vlaamse Gewest en het Brusselse Hoofdstedelijke Gewest;<br>
+2° het aantal kinderen dat kinderopvang gebruikt;<br>
+3° de gezinskenmerken en de werksituatie van gezinnen met niet-schoolgaande kinderen, vooral in het kader van de stimulering van de tewerkstellingsgraad;<br>
+4° het aantal plaatsen in vergunde kinderopvanglocaties en de bezetting ervan;<br>
+5° de kenmerken van de gemeente.
 
 ## HOOFDSTUK 2. Vergunningsstelsel
 
@@ -203,8 +222,8 @@ De organisator met een vergunning voor gezinsopvang of met een vergunning voor g
 ### ART. 11.
 
 Het agentschap&nbsp;kan een subsidie toekennen aan :<br>
-1° de initiatiefnemer of de structuur die de organisatie van het lokaal loket kinderopvang op zich neemt voor de opdrachten, vermeld in artikel 13;<br>
-2° de organisator met een vergunning voor opvang aan huis.
+1° &nbsp;&nbsp; &nbsp;de organisator van het lokaal loket kinderopvang, vermeld in artikel 13;<br>
+2° &nbsp;&nbsp; &nbsp;de organisaties aangesteld voor de ondersteuning van organisatoren, bij de realisatie van de voorwaarden, vermeld in artikel 6, §1.
 
 ### ART. 12.
 
@@ -259,9 +278,13 @@ De Vlaamse Regering kan toezichthouders aanwijzen naast Zorginspectie. Dit gebeu
 <br>
 In het eerste lid wordt verstaan onder Zorginspectie: de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
-Bij de uitoefening van zijn toezichtopdracht draagt de private toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.<br>
+Bij de uitoefening van zijn toezichtopdracht draagt de private toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.
+
+### ART 15/1.
+
+Het agentschap oefent toezicht uit op basis van alle informatie die beschikbaar is. Daarbij hanteert het agentschap het voorzorgsbeginsel. Het agentschap kan een beroep doen op organisaties of deskundigen om het agentschap te adviseren in het kader van het voorzorgsbeginsel.<br>
 <br>
-Het agentschap oefent toezicht uit op stukken.
+De Vlaamse Regering bepaalt de nadere regels wat betreft de toepassing van het voorzorgsbeginsel, die minstens de elementen van de risicoinschatting bevatten op basis waarvan het agentschap kan overgaan tot het opleggen van een bestuurlijke maatregel en de communicatieprocedure ten aanzien van de organisator.
 
 ## Onderafdeling 2. Toezichtrechten
 
@@ -361,6 +384,19 @@ Het agentschap beheert het budget dat voortkomt uit de bestuurlijke geldboeten, 
 <br>
 De Vlaamse Regering bepaalt de nadere regels.
 
+### ART 23/1.
+
+Er wordt een Comité van toezicht op de Handhaving in de Kinderopvang opgericht, hierna het Comité genoemd, met de volgende opdrachten:<br>
+1°&nbsp;&nbsp; &nbsp;het handhavingsbeleid en de operationele handhaving, met inbegrip van de toepassing van het voorzorgsbeginsel, vermeld in artikel 15/1, evalueren;<br>
+2°&nbsp;&nbsp; &nbsp;op eigen initiatief, vanuit de evaluatie, vermeld in punt 1°, advies formuleren aan het agentschap;<br>
+3°&nbsp;&nbsp; &nbsp;op verzoek van de bevoegde minister of de leidend ambtenaar van het agentschap een advies formuleren over het handhavingsbeleid of bepaalde aspecten ervan.<br>
+<br>
+Om de opdrachten, vermeld in het eerste lid, te kunnen realiseren heeft het Comité toegang tot alle relevante informatie, vermeld in artikel 24, vijfde lid, met inbegrip van de handhavingsdossiers die het agentschap bezorgt aan het Comité.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels, minstens met betrekking tot de samenstelling, de benoeming van de leden, de duur van hun mandaat, de werking, de rapportering en de vertrouwelijkheid van de informatie.<br>
+<br>
+De Vlaamse Regering stelt de vergoeding voor de leden van het Comité vast.
+
 ## HOOFDSTUK 7. Gegevensverzameling en -verwerking
 
 ### ART. 24.
@@ -377,10 +413,11 @@ g) gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 h) gegevens over de maatschappelijke kwetsbaarheid in het kader van de handhaving van de subsidievoorwaarden en de beleidsvoorbereiding en -evaluatie;<br>
 2° van de organisatoren, de verantwoordelijken, de kinderbegeleiders en eventuele andere medewerkers in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, minstens :<br>
 a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
-b) de identificatiegegevens en de opleidingsgegevens;<br>
+b) de identificatiegegevens, de opleidingsgegevens en de tewerkstellingsgegevens;<br>
 c) de gegevens over crisissituaties in de kinderopvanglocatie;<br>
 d) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 3° van elke meerderjarige persoon die in de kinderopvanglocatie direct contact heeft met de opgevangen kinderen, de gegevens, vermeld in punt 2°, a).<br>
+Het agentschap bezorgt de gegevens die noodzakelijk zijn voor hun opdrachten, aan de organisaties en deskundigen, vermeld in artikel 15/1 of artikel 11, 2°, en aan de gerechtelijke instanties met het oog op meldingen door het agentschap of in het kader van lopende strafonderzoeken.<br>
 <br>
 De organisator verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
@@ -402,7 +439,78 @@ De toezichthouder verwerkt ter uitvoering van dit decreet en de uitvoeringsbeslu
 <br>
 Het lokaal loket kinderopvang verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de persoonsgegevens van het kind en van het gezin van het kind, meer bepaald de identificatiegegevens, de financiële gegevens en de gegevens over de gezinssituatie, gegevens over de vraag naar kinderopvang en gegevens over de maatschappelijke kwetsbaarheid van het kind en het gezin van het kind in het kader van de opdracht van het lokaal loket kinderopvang.<br>
 <br>
-De bewaartermijn is tien jaar voor de gegevens over de klachten en crisissituaties, en vijf jaar voor de andere gegevens, vermeld in het eerste lid tot en met het vierde lid. Voor de gegevens over de verantwoordelijken, de kinderbegeleiders en de eventuele andere medewerkers begint de termijn te lopen vanaf het einde van hun tewerkstelling.
+Het Comité van toezicht op Handhaving in de Kinderopvang verwerkt de volgende persoonsgegevens, als de verwerking noodzakelijk is met het oog op de uitvoering van zijn decretale opdrachten voor het toezicht op het handhavingsbeleid van het agentschap:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens, vermeld in het eerste lid, 1°, b), en 2°, b);<br>
+2°&nbsp;&nbsp; &nbsp;de opleidingsgegevens en de tewerkstellingsgegevens, vermeld in het eerste lid, 2°, b);<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid, vermeld in het eerste lid, 1°, a), en 2°, a);<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over het uittreksel uit het strafregister, vermeld in het eerste lid, 2°, a);<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de crisissituaties in de kinderopvanglocatie en over de behandeling van de klachten, vermeld in het eerste lid, 2°, c) en d);<br>
+6°&nbsp;&nbsp; &nbsp;de gegevens van elke meerderjarige persoon die in de kinderopvanglocatie direct contact heeft met de opgevangen kinderen, vermeld in het eerste lid, 3°;<br>
+7°&nbsp;&nbsp; &nbsp;de documenten over het toezicht en de handhaving op de vergunningsvoorwaarden van de organisatoren.<br>
+<br>
+De personen van wie de persoonsgegevens door het Comité van toezicht op Handhaving in de Kinderopvang kunnen worden verwerkt, zijn de vergunde organisatoren kinderopvang, de personen die werkzaam zijn in de kinderopvanglocatie, de zaakvoerders en bestuurders die betrokken zijn bij de kinderopvanglocatie en de personen die betrokken zijn bij een melding of klacht over de kinderopvanglocatie in kwestie.<br>
+<br>
+De verwerking is noodzakelijk gelet op artikel 6.1, e), artikel 9, tweede lid, g), en artikel 10 van de algemene verordening gegevensbescherming. Het agentschap is verwerkingsverantwoordelijke. De gegevens worden bewaard tot één jaar nadat het Comité van toezicht op Handhaving het onderzoek heeft afgerond of het advies heeft uitgebracht aan de leidend ambtenaar of de minister.<br>
+<br>
+De organisaties of deskundigen die aangesteld zijn door de Vlaamse Regering of het agentschap ter uitvoering van artikel 15/1 verwerken de volgende persoonsgegevens met het oog op de uitvoering van hun opdrachten, vermeld in dit decreet:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens, vermeld in het eerste lid, 1°, b), en 2°, b);<br>
+2°&nbsp;&nbsp; &nbsp;de opleidingsgegevens en de tewerkstellingsgegevens, vermeld in het eerste lid, 2°, b);<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid, vermeld in het eerste lid, 1° a), en 2°, a);<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over het uittreksel uit het strafregister, vermeld in het eerste lid, 2°, a);<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de crisissituaties in de kinderopvanglocatie en over de behandeling van de klachten, vermeld in het eerste lid, 2°, c) en d);<br>
+6°&nbsp;&nbsp; &nbsp;de gegevens van elke meerderjarige persoon die in de kinderopvanglocatie direct contact heeft met de opgevangen kinderen, vermeld in het eerste lid, 3°;<br>
+7°&nbsp;&nbsp; &nbsp;de documenten over het toezicht en de handhaving op de vergunningsvoorwaarden van de organisatoren.<br>
+<br>
+De verwerking is noodzakelijk gelet op artikel 6.1, e), artikel 9, tweede lid, g), en artikel 10 van de algemene verordening gegevensbescherming. De organisatie of deskundige is verwerkingsverantwoordelijke. De gegevens worden bewaard tot tien jaar nadat de organisatie of deskundige het onderzoek heeft afgerond en het advies heeft uitgebracht aan het agentschap.<br>
+<br>
+De personen van wie de persoonsgegevens kunnen worden verwerkt door de organisaties of deskundigen die aangesteld zijn door de Vlaamse Regering ter uitvoering van artikel 15/1, zijn de organisatoren kinderopvang, de personen die werkzaam zijn in hun kinderopvanglocatie, de zaakvoerders en bestuurders die betrokken zijn bij de kinderopvanglocatie en de minderjarigen of personen die betrokken zijn bij een melding of klacht over de kinderopvanglocatie in kwestie.&nbsp;<br>
+<br>
+De organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, verwerken de volgende persoonsgegevens met het oog op de uitvoering van hun opdrachten:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens, vermeld in het eerste lid, 1°, b), en 2°, b);<br>
+2°&nbsp;&nbsp; &nbsp;de opleidingsgegevens en de tewerkstellingsgegevens, vermeld in het eerste lid, 2°, b);<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de crisissituaties in de kinderopvanglocatie en over de behandeling van de klachten, vermeld in het eerste lid, 2°, c) en d);<br>
+4°&nbsp;&nbsp; &nbsp;de documenten over het toezicht en de handhaving op de vergunningsvoorwaarden van de organisatoren, die noodzakelijk zijn voor de opdracht van de organisatie.<br>
+<br>
+De verwerking is noodzakelijk gelet op artikel 6.1, e), van de algemene verordening gegevensbescherming. De organisatie die een subsidie ontvangt voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, is verwerkingsverantwoordelijke. De gegevens worden bewaard tot tien jaar nadat de organisatie de ondersteuning aan de organisator heeft afgerond.&nbsp;<br>
+<br>
+De personen van wie de persoonsgegevens door de organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, kunnen verwerkt worden, zijn de vergunde organisatoren kinderopvang en de personen die werkzaam zijn in hun kinderopvanglocaties.<br>
+<br>
+De bewaartermijn is tien jaar voor de gegevens over de klachten en crisissituaties, en vijf jaar voor de andere gegevens, vermeld in het eerste lid tot en met het vierde lid. Voor de gegevens over de verantwoordelijken, de kinderbegeleiders en de eventuele andere medewerkers begint de termijn te lopen vanaf het einde van hun tewerkstelling.<br>
+<br>
+Voor het uittreksel uit het strafregister geldt, in afwijking van het veertiende lid en in afwijking van artikel 5 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers, dat de bewaartermijn drie jaar is, waarbij die termijn begint te lopen vanaf de aanstelling van de betrokkene. Bij de ontvangst door de organisator van een nieuw uittreksel uit het strafregister wordt het voorgaande uittreksel vernietigd. De organisator neemt de gepaste maatregelen voor de beveiligde bewaring van de uittreksels.<br>
+<br>
+Elke verwerkingsverantwoordelijke neemt in overeenstemming met artikel 12 van de algemene verordening gegevensbescherming passende maatregelen opdat de betrokkene de in de artikel 13 en 14 van de algemene verordening gegevensbescherming bedoelde informatie en de in de artikel 15 tot en met 22 en artikel 34 van de algemene verordening gegevensbescherming bedoelde communicatie in verband met de verwerking in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke taal ontvangt. De informatie wordt schriftelijk of met andere middelen, met inbegrip van elektronische middelen, verstrekt. Als de betrokkene daarom verzoekt, kan de informatie mondeling worden meegedeeld, op voorwaarde dat de identiteit van de betrokkene met andere middelen bewezen is.
+
+### ART 24/1.
+
+§1. In het kader van de actieve openbaarheid van bestuur publiceert de toezichthouder inspectierapporten van de vergunde kinderopvanglocaties op zijn website. In het inspectierapport worden de naam en het adres van de kinderopvanglocatie en de naam, het ondernemingsnummer, het vestigingsadres en in voorkomend geval de vastgestelde inbreuken en de rechtsvorm van de organisator vermeld. Daarbij kan ook informatie van persoonlijke aard van de organisator worden gepubliceerd, voor zover deze informatie niet op onevenredige wijze afbreuk doet aan het privéleven van de betrokkenen.<br>
+<br>
+De inspectierapporten worden bewaard gedurende een termijn van twintig jaar, te rekenen vanaf het ogenblik dat het betreffende inspectieverslag definitief is geworden. De Vlaamse regering bepaalt de nadere regels wat betreft de maximale termijnen waarbinnen de inspectierapporten actief gepubliceerd worden.&nbsp;<br>
+<br>
+§2. In het kader van de actieve openbaarheid van bestuur publiceert het agentschap de volgende informatie over een vergunde kinderopvanglocatie op zijn website:<br>
+1°&nbsp;&nbsp; &nbsp;de naam en het adres van de organisator;<br>
+2°&nbsp;&nbsp; &nbsp;de rechtsvorm van de organisator, als het om een rechtspersoon gaat;<br>
+3°&nbsp;&nbsp; &nbsp;het ondernemingsnummer van de organisator;<br>
+4°&nbsp;&nbsp; &nbsp;de vergunde capaciteit, in voorkomend geval per kinderopvanglocatie;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval de naam en het adres van de kinderopvanglocatie(s);<br>
+6°&nbsp;&nbsp; &nbsp;in voorkomend geval dat het agentschap een aanmaning of een bestuurlijke maatregel heeft getroffen, zolang die van kracht is, met daarbij een status van de reactie van de organisator;<br>
+7°&nbsp;&nbsp; &nbsp;in voorkomend geval de vastgestelde inbreuken op de regelgeving en de meldingen die aanleiding hebben gegeven tot de aanmaning of bestuurlijke maatregel;<br>
+8°&nbsp;&nbsp; &nbsp;in voorkomend geval de vaststellingen vanuit het voorzorgsbeginsel die aanleiding hebben gegeven tot een aanmaning of een bestuurlijke maatregel.&nbsp;<br>
+<br>
+Met betrekking tot de informatie, vermeld in het eerste lid, 6°, 7° en 8°, bepaalt de Vlaamse Regering bij welke bestuurlijke maatregelen, inbreuken en vaststellingen vanuit het voorzorgsbeginsel en onder welke modaliteiten aan de organisator de mogelijkheid wordt geboden om te reageren op de bekendmaking.<br>
+<br>
+Met betrekking tot de informatie, vermeld in het eerste lid, 7° en 8°, kan ook informatie van persoonlijke aard worden gepubliceerd, voor zover deze informatie niet op onevenredige wijze afbreuk doet aan het privéleven van de betrokkenen.<br>
+<br>
+Als de vergunning van een kinderopvanglocatie wordt opgeheven, vermeldt het agentschap dat gedurende een periode van zes maanden op zijn website.<br>
+<br>
+§3. Ter uitvoering van zijn opdrachten, vermeld in artikel 13, verwerkt en publiceert het lokaal loket kinderopvang de volgende informatie over de vergunde kinderopvanglocaties op zijn website:<br>
+1°&nbsp;&nbsp; &nbsp;de naam en het adres van de organisator;<br>
+2°&nbsp;&nbsp; &nbsp;de rechtsvorm van de organisator, als het om een rechtspersoon gaat;<br>
+3°&nbsp;&nbsp; &nbsp;het ondernemingsnummer van de organisator;<br>
+4°&nbsp;&nbsp; &nbsp;de vergunde capaciteit;<br>
+5°&nbsp;&nbsp; &nbsp;de naam en het adres van de kinderopvanglocatie.<br>
+<br>
+In dit artikel wordt verstaan onder informatie van persoonlijke aard: informatie van persoonlijke aard als vermeld in artikel II.40, §3, derde lid, van het Bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK 8. Wijzigingsbepalingen
 
