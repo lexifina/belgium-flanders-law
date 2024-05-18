@@ -13,7 +13,7 @@ Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, i
 2° richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen, zoals gewijzigd door richtlijn (EU) 2018/844 van het Europees Parlement en de Raad van 30 mei 2018;<br>
 3° de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU;<br>
 4° de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG;<br>
-5° ...<br>
+5° artikel 12 en bijlage VII van de richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955 (herschikking);<br>
 6° de richtlijn 2012/27/EU van de Europese Unie van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van Richtlijnen 2009/125/EG en 2010/30/EU en houdende intrekking van de Richtlijnen 2004/8/EG en 2006/32/EG;<br>
 7° ...
 
@@ -73,6 +73,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br>
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
+25° /0 datacentrum: een datacentrum als vermeld in bijlage A, punt 2.6.3.1.16, van verordening (EG) nr. 1099/2008, gewijzigd bij verordening (EU) 2022/132 van de Commissie van 28 januari 2022;<br>
 25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd. Voor groenestroominstallaties is dit de datum waarop de productie-installatie voor het eerst elektriciteit uit een hernieuwbare energiebron produceerde. Voor warmte-krachtinstallaties is dat de datum waarop de eerste gelijktijdige productie van elektriciteit of mechanische energie, en nuttige warmte plaatsvond, of de datum waarop de laatste ingrijpende wijziging voor het eerst gelijktijdig elektriciteit of mechanische energie, en nuttige warmte produceerde;<br>
 25° /1/1 deelnemer aan flexibiliteit: een natuurlijke persoon of rechtspersoon die flexibiliteit aanbiedt aan de dienstverlener van flexibiliteit of in het kader van gereserveerde of niet-gereserveerde technische flexibiliteit aan de aanvrager van flexibiliteit;<br>
 25° /1/1/1 Departement Financiën en Begroting: het departement, vermeld in artikel 19 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
@@ -84,6 +85,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 29° distributienet : elektriciteitsdistributienet of aardgasdistributienet;<br>
 30° distributienetbeheerder : elektriciteitsdistributienetbeheerder of aardgasdistributienetbeheerder;<br>
 30° /0 dynamisch prijscontract: een contract waarin de prijsvariatie op de spotmarkten van elektriciteit, waaronder de day-ahead- en de intradaymarkten, wordt weerspiegeld in intervallen die ten minste overeenkomen met de marktvereffeningsperiode;<br>
+30° /0/1 EAN-code: code die bestaat uit achttien cijfers voor de unieke identificatie van een toegangspunt op het elektriciteits- of aardgasnet en die staat voor het begrip European Article Numbering;<br>
 30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar, erfpachter, opstalhouder of concessiehouder;<br>
 30/2° eilandwerking : de situatie waarin, met uitzondering van mobiele installaties,een productie-installatie in normale werking niet gekoppeld is aan :<br>
 a) het elektriciteitsdistributienet of daaraan gekoppelde gesloten distributienetten;<br>
@@ -3282,6 +3284,42 @@ Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunni
 ### ART. 7.8.1.
 
 ...
+
+## HOOFDSTUK VIII Verplichtingen met betrekking tot het rationeel energiegebruik van datacentra
+
+### ART 7.8.1.
+
+§ 1. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie van ten minste 500 kW bezorgen jaarlijks uiterlijk op 15 mei de volgende informatie over de energieprestaties van die datacentra aan het VEKA:<br>
+1° de naam van het datacentrum;<br>
+2° de naam van de eigenaar en de exploitanten van het datacentrum;<br>
+3° de datum waarop het datacentrum zijn activiteiten is begonnen;<br>
+4° de gemeente waarin het datacentrum ligt;<br>
+5° de technische gegevens van het datacentrum:<br>
+a) de vloeroppervlakte van het datacentrum;<br>
+b) het geïnstalleerde vermogen;<br>
+c) het jaarlijks inkomende en uitgaande dataverkeer;<br>
+d) de hoeveelheid in het datacentrum opgeslagen en verwerkte data;<br>
+6° de prestaties van het datacentrum in het laatste volledige kalenderjaar aan de hand van kernprestatie-indicatoren over minstens:<br>
+a) energieverbruik;<br>
+b) elektrisch vermogen;<br>
+c) temperatuurinstelpunten;<br>
+d) restwarmtegebruik;<br>
+e) waterverbruik;<br>
+f) gebruik van hernieuwbare energie.<br>
+<br>
+De aan te leveren informatie, vermeld in het eerste lid, heeft betrekking op de ruimten en de apparatuur die hoofdzakelijk of uitsluitend dienen voor gegevensgerelateerde functies (serverruimten), met inbegrip van de noodzakelijke bijbehorende apparatuur zoals de bijbehorende koel-, verlichtings-, batterij- of ononderbreekbare stroomvoorzieningen.<br>
+<br>
+De Vlaamse Regering kan ter uitvoering van de gedelegeerde handelingen die de Europese Commissie heeft vastgesteld, de lijst, vermeld in het eerste lid, verder specificeren of uitbreiden.<br>
+<br>
+In afwijking van het eerste en tweede lid wordt de volgende informatie niet gerapporteerd:<br>
+1° alle IT-apparatuur die in hoofdzakelijk openbaar toegankelijke ruimten, ruimten voor gemeenschappelijk gebruik of kantoorruimten is geplaatst of geïnstalleerd, of die andere bedrijfsfuncties ondersteunt, zoals werkstations, laptops, fotokopieerapparaten, sensoren, beveiligingsapparatuur of wit- en bruingoed;<br>
+2° server-, netwerk-, opslag- en verwante apparatuur die verspreid is over een site, zoals afzonderlijke servers, single racks, of wifi- en netwerkaansluitings-punten.<br>
+<br>
+§ 2. De gegevens, vermeld in paragraaf 1, worden opgenomen in de databank, vermeld in artikel 12.5.1. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de vorm en de wijze waarop die gegevens aan het VEKA worden bezorgd. Het VEKA bezorgt de gegevens aan de Europese databank over datacentra die de Europese Commissie beheert.<br>
+<br>
+§ 3. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op de datacentra die worden gebruikt voor defensie, politie en civiele bescherming.<br>
+<br>
+§ 4. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie gelijk aan of groter dan 1 MW houden rekening met de beste praktijken waarnaar wordt verwezen in de recentste versie van de Uniegedragscode inzake energie-efficiëntie in datacentra.
 
 ## [HOOFDSTUK IX. De openbare centra voor maatschappelijk welzijn als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen (ing. decr. 26 april 2019, art. 3, I: 26 mei 2019)]
 
