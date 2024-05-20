@@ -96,15 +96,17 @@ De verplichting tot gezamenlijke indiening, vermeld in het eerste lid, geldt nie
 
 ### ART. 9.
 
-<p>§ 1. Iedere gemeente wijst bij gemeenteraadsbeslissing minimaal één gemeentelijke omgevingsambtenaar aan. De gemeente kan daarvoor een beroep doen op eigen personeel of op personeel van een intergemeentelijk samenwerkingsverband.</p>
-
-<p>De gemeente zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.</p>
-
-<p>§ 2. De gemeentelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.</p>
-
-<p>§ 3. Als er geen gemeentelijke omgevingsambtenaar binnen de gemeente of het intergemeentelijk samenwerkingsverband beschikbaar is, oefent de gemeentesecretaris voor een periode van maximum 12 maanden de taken van de gemeentelijke omgevingsambtenaar uit of wijst hij een waarnemende gemeentelijke omgevingsambtenaar aan die de taken van de gemeentelijke omgevingsambtenaar uitoefent.</p>
-
-<p>§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering financiële of andere ondersteuning verlenen aan de gemeenten voor de opleiding en loonkosten van de gemeentelijke omgevingsambtenaar.</p>
+<p>§ 1. Iedere gemeente wijst bij gemeenteraadsbeslissing minimaal één gemeentelijke omgevingsambtenaar aan. De gemeente kan daarvoor een beroep doen op eigen personeel of op personeel van een intergemeentelijk samenwerkingsverband.<br>
+<br>
+De gemeente zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.<br>
+<br>
+§ 2. De gemeentelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.<br>
+<br>
+Die onafhankelijkheid en neutraliteit worden te allen tijde gevrijwaard. De actieve en constructieve wijze waarop de gemeentelijke omgevingsambtenaar zich moet inzetten voor de realisatie van de opdracht en de doelstellingen van de gemeente, doet daar geen afbreuk aan.<br>
+<br>
+§ 3. Als er geen gemeentelijke omgevingsambtenaar binnen de gemeente of het intergemeentelijk samenwerkingsverband beschikbaar is, oefent de gemeentesecretaris voor een periode van maximum 12 maanden de taken van de gemeentelijke omgevingsambtenaar uit of wijst hij een waarnemende gemeentelijke omgevingsambtenaar aan die de taken van de gemeentelijke omgevingsambtenaar uitoefent.&nbsp;Paragraaf 2 is onverkort van toepassing op de persoon die de taken van de gemeentelijke omgevingsambtenaar uitoefent.<br>
+<br>
+§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering financiële of andere ondersteuning verlenen aan de gemeenten voor de opleiding en loonkosten van de gemeentelijke omgevingsambtenaar.</p>
 
 ### ART 9/1.
 
@@ -112,15 +114,15 @@ Iedere provincie wijst bij provincieraadsbeslissing minimaal één provinciale o
 <br>
 De provincie zorgt ervoor dat de aangestelde personeelsleden gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.<br>
 <br>
-De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.
+De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.&nbsp;Die onafhankelijkheid en neutraliteit worden te allen tijde gevrijwaard. De actieve en constructieve wijze waarop de provinciale omgevingsambtenaar zich moet inzetten voor de realisatie van de opdracht en de doelstellingen van de provincie, doet daar geen afbreuk aan.
 
 ### ART. 10.
 
-<p>De Vlaamse Regering wijst een of meer gewestelijke omgevingsambtenaren aan.</p>
-
-<p>De Vlaamse Regering zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.</p>
-
-<p>De gewestelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.</p>
+<p>De Vlaamse Regering wijst een of meer gewestelijke omgevingsambtenaren aan.<br>
+<br>
+De Vlaamse Regering zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.<br>
+<br>
+De gewestelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.&nbsp;Die onafhankelijkheid en neutraliteit worden te allen tijde gevrijwaard. De actieve en constructieve wijze waarop de gewestelijke omgevingsambtenaar zich moet inzetten voor de realisatie van de opdracht en de doelstellingen van het gewest, doet daar geen afbreuk aan.</p>
 
 ## Afdeling 5 Omgevingsfonds en dossiertaksen
 
