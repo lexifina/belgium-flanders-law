@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039674,
+  "title": "Decreet van 2024-04-19 tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat de uitvoering van de taken voor de project-MER-screening betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039674/VolledigDocument?datum=2024-05-20",
+  "source_sha256": "02142c222dcb9822a399253babc27303a12df5faf26ffa1fe076bc5b2e49617a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039674&param=informatie",
+  "as_of": "2024-05-20",
+  "made": "2024-04-19",
+  "gazette": "2024-05-10",
+  "numac": 2024004286,
+  "document_start": "2024-05-20",
+  "document_end": null,
+  "in_force": "2024-05-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
