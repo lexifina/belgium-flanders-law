@@ -20,7 +20,8 @@ DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND BESLUIT:
 
 Er wordt een expertencommissie grensoverschrijdend gedrag voor de opvolging van de aanbevelingen uit het rapport van de Onafhankelijke Onderzoekscommissie Gymnastiek, hierna genoemd expertencommissie grensoverschrijdend gedrag opvolging aanbevelingen rapport OOG Gymfed, opgericht met als opdracht:<br>
 1° het opvolgen en controleren van de voortgang van de werking van de taskforce van Gymfed en de manier waarop Gymfed met de aanbevelingen van de Onafhankelijke Onderzoekscommissie Gymnastiek aan de slag gaat;<br>
-2° verslag en advies uitbrengen aan de minister om zo nodig het actieplan van Gymfed bij te sturen.<br>
+2° verslag en advies uitbrengen aan de minister om zo nodig het actieplan van Gymfed bij te sturen;<br>
+3° tegen uiterlijk 30 april 2025 overmaken van een eindverslag met enerzijds concrete aanbevelingen voor &nbsp;&nbsp; &nbsp;Gymfed over de bijsturing van het actieplan en de eigen werking, en anderzijds algemene aanbevelingen voor het sportbeleid ten behoeve van de ruimere sportsector.<br>
 <br>
 De expertencommissie komt minstens een keer per kwartaal samen. Ze brengt in elk geval advies uit aan de minister naar aanleiding van een tussentijds rapport van Gymfed.
 
