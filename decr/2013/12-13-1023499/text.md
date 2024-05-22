@@ -5696,7 +5696,26 @@ Als de laatste dag van een termijn als vermeld in deze afdeling, op een   zaterd
 
 ### ART. 3.3.1.0.11.
 
-&nbsp;§ 1. Tenzij het voertuig is vrijgesteld van de kilometerheffing,   moet de houder van een voertuig als vermeld in artikel 1.1.0.0.2, vijfde lid,   6°, voorafgaand aan het gebruik van elke weg, voor dat voertuig met een   dienstverlener naar keuze een dienstverleningsovereenkomst sluiten.<BR><BR>De   houder van een voertuig die de dienstverlener verzoekt om een   dienstverleningsovereenkomst te sluiten, moet aan de dienstverlener alle   voertuigdocumenten voorleggen die nodig zijn om het kenteken van het voertuig in   kwestie, het maximaal toegestane totaalgewicht en de EURO-emissieklasse vast te   stellen.<BR><BR>Bij gebreke aan afdoend bewijs van het maximaal toegestane   totaalgewicht van het voertuig, wordt het voertuig geacht een maximaal   toegestaan totaalgewicht van hoger dan 32 ton te hebben.<BR><BR>Bij gebreke aan   afdoend bewijs van de EURO-emissieklasse van het voertuig, wordt het voertuig   geacht te behoren tot de categorie `overige EURO-emissieklassen', vermeld in de   tabellen, opgenomen in artikel 2.4.4.0.2, eerste lid, 5° en 7°.<BR><BR>De   vermoedens, vermeld in het derde en vierde lid, worden toegepast tot die met   afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de   heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de   verificatie van de gegevens uit het voorgelegde bewijsstuk door de   dienstverlener.<BR><BR>§ 2. De dienstverlener kan de uitvoering van de   dienstverleningsovereenkomst alleen schorsen in die gevallen waarin de houder   van het voertuig of, in voorkomend geval, de bestuurder :<BR>1° niet voldoet aan   zijn betalingsverplichtingen jegens de dienstverlener, zoals die in de   dienstverleningsovereenkomst zijn bepaald;<BR>2° in voorkomend geval, geen of   een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft gesteld;<BR>3°   gebruikmaakt van de elektronische registratievoorziening op een wijze die   strijdig is met de gebruiksaanwijzing die door de dienstverlener ter beschikking   is gesteld;<BR>4° nalaat een defect aan de elektronische registratievoorziening   te melden;<BR>5° de instructies van de dienstverlener niet opvolgt met het oog   op de vervanging of de herstelling van de defecte elektronische   registratievoorziening.<BR><BR>De dienstverlener brengt de houder van het   voertuig en de bevoegde entiteit van de Vlaamse administratie onmiddellijk op de   hoogte van de schorsing van de uitvoering van de   dienstverleningsovereenkomst.
+&nbsp;§ 1. Tenzij het voertuig is vrijgesteld van de kilometerheffing, moet de houder van een voertuig als vermeld in artikel 1.1.0.0.2, vijfde lid, 6°, voorafgaand aan het gebruik van elke weg, voor dat voertuig met een dienstverlener naar keuze een dienstverleningsovereenkomst sluiten.<br>
+<br>
+De houder van een voertuig die de dienstverlener verzoekt om een dienstverleningsovereenkomst te sluiten, moet aan de dienstverlener alle voertuigdocumenten voorleggen die nodig zijn om het kenteken van het voertuig in kwestie, het maximaal toegestane totaalgewicht en de EURO-emissieklasse vast te stellen.<br>
+<br>
+Bij gebreke aan afdoend bewijs van het maximaal toegestane totaalgewicht van het voertuig, wordt het voertuig geacht een maximaal toegestaan totaalgewicht van hoger dan 32 ton te hebben.<br>
+<br>
+Bij gebreke aan afdoend bewijs van de EURO-emissieklasse van het voertuig, wordt het voertuig geacht te behoren tot de categorie `overige EURO-emissieklassen', vermeld in de tabellen, opgenomen in artikel 2.4.4.0.2, eerste lid, 5° en 7°.<br>
+<br>
+De vermoedens, vermeld in het derde en vierde lid, worden toegepast tot die met afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de verificatie van de gegevens uit het voorgelegde bewijsstuk door de dienstverlener.<br>
+<br>
+De houder van het voertuig heeft het recht heeft om, voorafgaand aan het gebruik van een weg, de emissieklasse van het voertuig elektronisch mee te delen.<br>
+<br>
+§ 2. De dienstverlener kan de uitvoering van de dienstverleningsovereenkomst alleen schorsen in die gevallen waarin de houder van het voertuig of, in voorkomend geval, de bestuurder :<br>
+1° niet voldoet aan zijn betalingsverplichtingen jegens de dienstverlener, zoals die in de dienstverleningsovereenkomst zijn bepaald;<br>
+2° in voorkomend geval, geen of een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft gesteld;<br>
+3° gebruikmaakt van de elektronische registratievoorziening op een wijze die strijdig is met de gebruiksaanwijzing die door de dienstverlener ter beschikking is gesteld;<br>
+4° nalaat een defect aan de elektronische registratievoorziening te melden;<br>
+5° de instructies van de dienstverlener niet opvolgt met het oog op de vervanging of de herstelling van de defecte elektronische registratievoorziening.<br>
+<br>
+De dienstverlener brengt de houder van het voertuig en de bevoegde entiteit van de Vlaamse administratie onmiddellijk op de hoogte van de schorsing van de uitvoering van de dienstverleningsovereenkomst.
 
 ### ART. 3.3.1.0.13.
 
