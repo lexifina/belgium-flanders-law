@@ -2,16 +2,16 @@
   "codex_id": 1031620,
   "title": "Decreet van 2019-02-15 betreffende het jeugddelinquentierecht",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031620/VolledigDocument?datum=2023-03-01",
-  "source_sha256": "ac1769e7114c2a2c8c517bccfd04cffe303c6396edbfcd9057efb9e7f41604e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031620/VolledigDocument?datum=2024-05-23",
+  "source_sha256": "72a5d8cf3472c6519158f78e1923de0017758151f2e602d9ea44910df6e8b877",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031620&param=informatie",
-  "as_of": "2023-03-01",
+  "as_of": "2024-05-23",
   "made": "2019-02-15",
   "gazette": "2019-04-26",
   "numac": 2019011711,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2023-03-01",
-  "article_versions": 92,
-  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-05-23",
+  "article_versions": 102,
+  "record_form": "consolidated version as in force on 2024-05-23; future article versions excluded; article text as the API gives it"
 }
