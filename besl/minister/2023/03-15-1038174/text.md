@@ -286,6 +286,37 @@ Onder organisatiekosten vallen onder meer de projectgebonden personeelsinzet, aa
 
 Aanvragen voor lokale asbestprojecten, vermeld in artikel 41, kunnen bij de OVAM worden ingediend na officiële oproep, de welke bekend gemaakt wordt aan alle Vlaamse steden en gemeenten. De minister bepaalt bij iedere oproep vooraf het beschikbare oproepbudget waarna aanvragen volgens indiendatum behandeld worden, conform bepalingen voor lokale asbestprojecten binnen het besluit van de Vlaamse Regering van 15 juli 2022 over de subsidiëring van lokale besturen voor het afval- en materialenbeheer.
 
+### ART 42/1.
+
+Projecten die voldoen aan al de volgende voorwaarden, komen in aanmerking voor een subsidie:<br>
+1° het project ondersteunt preventiemaatregelen met een overwegend participatief karakter om voedselverlies in het bioafval en huisvuil te reduceren bij de huishoudens;<br>
+2° het project sluit aan bij de preventiedoelstelling en de uitvoering van het Actieplan voedselverlies en biomassa(rest)stromen circulair 2021-2025.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In het eerste lid, 2°, wordt verstaan onder het Actieplan voedselverlies en biomassa(rest)stromen circulair 2021-2025: het actieplan zoals goedgekeurd door de Vlaamse Regering op 23 april 2021.
+
+### ART 42/2.
+
+Het maximumbedrag van de kosten die in aanmerking komen voor de subsidiëring van het project, vermeld in artikel 42/1, bedraagt:<br>
+1° 50.000 euro per stad of gemeente;<br>
+2° 100.000 euro per intergemeentelijk samenwerkingsverband.<br>
+<br>
+Investeringskosten komen niet in aanmerking voor de subsidiëring van het project, vermeld in artikel 42/1
+
+### ART 42/3.
+
+Het subsidiepercentage voor het project, vermeld in artikel 42/1, bedraagt 50%.
+
+### ART 42/4.
+
+De aanvrager van een subsidie als vermeld in artikel 42/1, legt een tussentijdse voortgangsrapportering voor aan de OVAM na de eerste helft van de projectduur.&nbsp;<br>
+<br>
+In het eerste lid wordt verstaan onder tussentijdse voortgangsrapportering: een beschrijving van de uitvoering van het project met een overzicht van de voortgang.<br>
+<br>
+De aanvrager van een subsidie als vermeld in artikel 42/1, legt, samen met de aanvraag tot uitbetaling van die subsidie, de eindrapportering aan de OVAM voor en gebruikt hiervoor de door de OVAM goedgekeurde rapportagevorm. In deze eindrapportering worden minstens de volgende elementen opgenomen:<br>
+1°&nbsp; een beschrijving van de uitvoering van het project;<br>
+2°&nbsp; een inschatting van het effect van het project op de hoeveelheid huisvuil &nbsp;en op de hoeveelheid bioafval in het werkingsgebied van het lokaal bestuur of het intergemeentelijk samenwerkingsverband;<br>
+3°&nbsp; de reproduceerbaarheid van het project door andere lokale besturen.
+
 ## Hoofdstuk 6. Slotbepalingen
 
 ### ART 43.
