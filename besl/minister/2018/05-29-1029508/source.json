@@ -2,16 +2,16 @@
   "codex_id": 1029508,
   "title": "Ministerieel besluit van 2018-05-29 tot vaststelling van de modellen van de oproepingsbrieven voor de lokale en provinciale verkiezingen van 14 oktober 2018",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029508/VolledigDocument?datum=2018-07-19",
-  "source_sha256": "1119400c7ea9e6322cf24c27ec82102ddb2c8af321ef6abb39625f866bb509ff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029508/VolledigDocument?datum=2024-05-26",
+  "source_sha256": "f67af5991772d984b8fd3f1a0e7c6a4e6691bb087837b0293eeafcaa9eda9fdb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029508&param=informatie",
-  "as_of": "2018-07-19",
+  "as_of": "2024-05-26",
   "made": "2018-05-29",
   "gazette": "2018-07-09",
   "numac": 2018012944,
   "document_start": "2018-07-19",
   "document_end": "2024-05-26",
-  "in_force": "2018-07-19",
+  "in_force": "2024-05-26",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2018-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-05-26; future article versions excluded; article text as the API gives it"
 }
