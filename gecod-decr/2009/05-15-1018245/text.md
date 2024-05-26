@@ -1228,6 +1228,8 @@ De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet
 
 ## Afdeling 1 Planschade
 
+## [Onderafdeling 1 Algemene bepalingen (ing. decr. 26 mei 2023, art. 65)]
+
 ### ART. 2.6.1.
 
 § 1. De ruimtelijke uitvoeringsplannen kunnen erfdienstbaarheden van openbaar nut doen ontstaan en eigendomsbeperkingen inhouden, met inbegrip van een bouwverbod.<br>
