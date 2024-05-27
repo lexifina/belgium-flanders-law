@@ -527,7 +527,7 @@ De delegatie, vermeld in het eerste lid, wordt verleend door de Vlaamse Regering
 <br>
 De delegatie kan gecombineerd worden met een instemming als vermeld in artikel 2.2.12, § 1, derde lid, of artikel 2.2.18, § 1, derde lid.<br>
 <br>
-Bij het verlenen van de delegatie, vermeld in het eerste lid, kunnen de planningsniveaus afspraken maken over de verdeling van de kosten die verbonden zijn aan de opmaak van het ruimtelijk uitvoeringsplan en van financiële lasten of opbrengsten ten gevolge van de planschadevergoeding of de planbatenheffing die in voorkomend geval uit het ruimtelijk uitvoeringsplan zal ontstaan. In voorkomend geval kan daarbij worden afgeweken van artikel 2.6.17, § 3, eerste lid, 2° tot en met 5°.<br>
+Bij het verlenen van de delegatie, vermeld in het eerste lid, kunnen de planningsniveaus afspraken maken over de verdeling van de kosten die verbonden zijn aan de opmaak van het ruimtelijk uitvoeringsplan en van financiële lasten of opbrengsten ten gevolge van de planschadevergoeding of de planbatenheffing die in voorkomend geval uit het ruimtelijk uitvoeringsplan zal ontstaan. In voorkomend geval kan daarbij worden afgeweken van artikel 2.6.17, § 3, eerste lid, 1° en 2°.<br>
 <br>
 De delegatie, vermeld in het eerste lid, vervalt vanaf de inwerkingtreding van het ruimtelijk uitvoeringsplan.<br>
 <br>
@@ -1226,9 +1226,7 @@ De bepalingen van titel 3, hoofdstuk 1 tot en met 6, van het Instrumentendecreet
 
 ## HOOFDSTUK VI Planschade en planbaten
 
-## Afdeling 1 Planschade
-
-## [Onderafdeling 1 Algemene bepalingen (ing. decr. 26 mei 2023, art. 65)]
+## Onderafdeling 1 ...
 
 ### ART. 2.6.1.
 
@@ -1483,12 +1481,11 @@ De Vlaamse Regering kan nadere procedurele regelen bepalen betreffende de indien
 <br>
 § 2. Aan het Fonds worden de inkomsten van de planbatenheffing rechtstreeks toegewezen.<br>
 <br>
-§ 3. Onverminderd artikel 2.2.2, § 2, vierde lid, worden uitgaven ten laste van het Fonds op de volgende wijze aangerekend:<br>
-1° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding "bedrijvigheid" valt, worden gestort in het Rubiconfonds, vermeld in artikel 28 van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003;<br>
-2° de inkomsten uit andere gewestelijke bestemmingswijzigingen dan die, vermeld in punt 1°, worden gestort op een rekening van het Grondfonds, vermeld in artikel 5.6.3 van deze codex, en aangewend voor activeringsprojecten als vermeld in de Vlaamse Codex Wonen van 2021, met dien verstande dat de door de erkende woonmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid;<br>
-3° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging, worden doorgestort naar respectievelijk de betrokken provincie of gemeente.<br>
+§3. Met behoud van de toepassing van artikel 2.2.2, §2, vierde lid, worden uitgaven ten laste van het Fonds op de volgende wijze aangerekend:<br>
+1° de inkomsten die voortkomen uit een gewestelijke bestemmingswijzigingen worden gestort in het BRV-fonds, vermeld in artikel 1.6.1 van deze codex;<br>
+2° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging worden doorgestort naar respectievelijk de betrokken provincie of gemeente.<br>
 <br>
-Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 2° en 3°, bestemd wordt binnen het lokale ruimtelijke beleid.<br>
+Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 2°, bestemd wordt binnen het lokale ruimtelijke beleid.<br>
 <br>
 § 4. De Vlaamse Regering kan nadere regels bepalen over de wijze en het moment waarop de inkomsten die voortkomen uit provinciale of gemeentelijke bestemmingswijzigingen, worden doorgestort.
 
@@ -2902,7 +2899,7 @@ Het plannenregister, het vergunningenregister en de inhouden van beide registers
 <br>
 Beide registers zijn toegankelijk voor het publiek in het gemeentehuis.<br>
 <br>
-Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.&nbsp;Hetzelfde geldt voor de landcommissies.
+Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.&nbsp;Hetzelfde geldt voor de landcommissies en de Vlaamse Grondenbank.
 
 ## HOOFDSTUK II Informatieplichten
 
@@ -3190,7 +3187,7 @@ De mogelijkheden om af te wijken van stedenbouwkundige voorschriften of om reken
 <br>
 § 4. De aanduiding als watergevoelig openruimtegebied heeft van rechtswege het verval tot gevolg van:<br>
 1° het onbebouwde deel of de onbebouwde delen van een niet-vervallen verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden die binnen de perimeter van dat gebied liggen;<br>
-2° een principieel akkoord als vermeld in artikel 5.6.6, § 2 of § 3, tweede lid, dat afgegeven werd voor gronden die binnen de perimeter van dat gebied liggen.<br>
+2° een principieel akkoord dat voor gronden die binnen de perimeter van dat gebied liggen, afgegeven werd overeenkomstig artikel 5.6.6, §2, of gevat was door artikel 5.6.6, §3, tweede lid, zoals deze bepalingen goden tot 7 juli 2023.<br>
 <br>
 § 5. Voor de gebieden die als watergevoelig openruimtegebied zijn aangeduid, kan een ruimtelijk uitvoeringsplan vastgesteld worden met een andersluidende regeling dan de regeling, vermeld in paragraaf 3, in zoverre bij de opmaak van dat ruimtelijk uitvoeringsplan rekening wordt gehouden met het conflict dat bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem. Er kan geen ruimtelijk uitvoeringsplan worden opgemaakt waarvan de voorschriften andere of ruimere bebouwing toelaten dan deze vermeld in paragraaf 3, tweede lid.<br>
 <br>
@@ -3201,7 +3198,7 @@ De vaststelling van een ruimtelijk uitvoeringsplan in toepassing van deze paragr
 2° het vorderingsrecht twee jaar nadat het recht op vergoeding is ontstaan, vervalt;<br>
 3° de vergoedingsgerechtigde diegene is die op het ogenblik van de inwerkingtreding van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied het eigendomsrecht of het bloot eigendomsrecht op het perceel kan laten gelden.<br>
 <br>
-De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en wordt aangerekend op het Rubiconfonds.<br>
+De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en wordt aangerekend op het BRV-fonds.<br>
 <br>
 § 7. De Vlaamse Regering kan, hangende de procedure of uiterlijk binnen het jaar na een veroordeling tot vergoeding die kracht van gewijsde heeft verkregen, beslissen om de aanduiding als watergevoelig openruimtegebied zoals vermeld in paragraaf 1, geheel of gedeeltelijk op te heffen voor de gronden waarvoor de vergoeding werd gevorderd. De Vlaamse Regering wint hierover het advies in van het college van burgemeester en schepenen van de gemeente waar de gronden gelegen zijn, en van de Coördinatiecommissie Integraal Waterbeleid, bedoeld in artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
 <br>
