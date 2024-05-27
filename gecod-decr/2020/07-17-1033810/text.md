@@ -33,7 +33,7 @@ c) overige woningen met een bouwvolume van ten hoogste 240 m³, te verhogen met 
 a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-6° bouwgronden: gronden, met uitsluiting van kavels, die palen aan een voldoende uitgeruste weg in de zin van artikel 4.3.5, § 2, van de Vlaamse Codex Ruimtelijke Ordening en gelegen zijn in een woongebied of in een woonuitbreidingsgebied dat reeds voor bebouwing in aanmerking komt blijkens een principiële beslissing of op grond van artikel 5.6.6 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+6° bouwgronden: gronden, met uitsluiting van kavels, die palen aan een voldoende uitgeruste weg in de zin van artikel 4.3.5, § 2, van de Vlaamse Codex Ruimtelijke Ordening en gelegen zijn in een woongebied of in een woonreserve-gebied dat al voor bebouwing in aanmerking komt op grond van een vrijgavebesluit als vermeld in artikel 5.6.12 van de Vlaamse Codex Ruimtelijke Ordening of op grond van een nog geldig principieel akkoord dat afgegeven werd overeenkomstig artikel 5.6.6, §2, of gevat was door artikel 5.6.6, §3, van de Vlaamse Codex Ruimtelijke Ordening, zoals deze bepalingen golden tot 7 juli 2023;<br>
 7° conforme woning: een woning die geen enkel gebrek als vermeld in artikel 3.1, §1, derde lid, 2° en 3°, vertoont;<br>
 8° conformiteit: het vertonen van geen enkel gebrek als vermeld in artikel 3.1, §1, derde lid, 2° en 3°;<br>
 9° decreet Grond- en Pandenbeleid: het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
@@ -2924,17 +2924,17 @@ Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse Regering d
 
 ### ART 5.51.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. De Vlaamse Regering kan onder de voorwaarden, vermeld in verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen subsidie-enveloppen toekennen aan activeringsprojecten.</span></span></span></span><br>
+<p>§1. De Vlaamse Regering kan onder de voorwaarden, vermeld in verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen subsidie-enveloppen toekennen aan activeringsprojecten.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De subsidie-enveloppes worden bekostigd vanuit het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening.</span></span></span></span><br>
+De subsidie-enveloppes worden bekostigd vanuit het BRV-fonds, vermeld in arti-kel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. De projectleiding kan de Vlaamse Regering om een subsidie-enveloppe verzoeken door middel van een standaardaanvraagformulier.</span></span></span></span><br>
+§2. De projectleiding kan de Vlaamse Regering om een subsidie-enveloppe verzoeken door middel van een standaardaanvraagformulier.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan bepalen dat de standaard-aanvraagformulieren worden ingediend op grond van een oproepsysteem. Zij kan in de oproepen specifieke projectkenmerken opnemen op het vlak van de doelstellingen van het activeringsproject, de aard van de maatschappelijke groepen waarvan de ruimtelijke behoeften worden ondersteund, de aard van de gediende ruimtelijke doelstellingen of de ruimtelijke karakteristieken van het projectgebied.</span></span></span></span><br>
+De Vlaamse Regering kan bepalen dat de standaard-aanvraagformulieren worden ingediend op grond van een oproepsysteem. Zij kan in de oproepen specifieke projectkenmerken opnemen op het vlak van de doelstellingen van het activeringsproject, de aard van de maatschappelijke groepen waarvan de ruimtelijke behoeften worden ondersteund, de aard van de gediende ruimtelijke doelstellingen of de ruimtelijke karakteristieken van het projectgebied.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§3. De Vlaamse Regering omschrijft de subsidiabele kosten en de procentuele grootte van de ondersteuning.</span></span></span></span><br>
+§3. De Vlaamse Regering omschrijft de subsidiabele kosten en de procentuele grootte van de ondersteuning.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Zij bepaalt de nadere materiële en formele ondersteuningsvoorwaarden, de mogelijkheden op het vlak van de cumulatie van een subsidie-enveloppe met andere publieke middelen, evenals de methodologie aangaande de selectie van projectvoorstellen en de toekenning van de ondersteuning. De vastgestelde selectiecriteria houden rekening met de missie van het grond- en pandenbeleid, vermeld in artikelen 2.1.1 en 2.1.2 van het decreet grond- en pandenbeleid.</span></span></span></span></p>
+Zij bepaalt de nadere materiële en formele ondersteuningsvoorwaarden, de mogelijkheden op het vlak van de cumulatie van een subsidie-enveloppe met andere publieke middelen, evenals de methodologie aangaande de selectie van projectvoorstellen en de toekenning van de ondersteuning. De vastgestelde selectiecriteria houden rekening met de missie van het grond- en pandenbeleid, vermeld in artikelen 2.1.1 en 2.1.2 van het decreet grond- en pandenbeleid.</p>
 
 ## Titel 8. Sociaal woonbeleidsconvenant
 
