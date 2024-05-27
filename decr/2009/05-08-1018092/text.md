@@ -4072,7 +4072,7 @@ Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de al
 
 ### ART 12.5.1.
 
-§ 1. Het VEKA houdt een databank voor energiegebruik en energieproductie bij. De databank bevat gegevens met betrekking tot de gebouwen in het Vlaamse Gewest, hun ligging, hun verwarmingsinstallaties, de bijhorende energieopwekkingsinstallaties, en de energieproductie en het energieverbruik bij die gebouwen. De Vlaamse Regering bepaalt welke gegevens in die databank worden bijgehouden, doorgestuurd en opgenomen.&nbsp;Voor de unieke identificatie van de betrokken gebouweigenaars, huurders en houders van een zakelijk recht en van de personen op wie in het kader van deze databank verplichtingen rusten kan het ondernemingsnummer, het rijksregisternummer of het BIS-nummer opgevraagd en verwerkt worden.<br>
+§ 1. Het VEKA houdt een databank voor energiegebruik en energieproductie bij. De databank bevat gegevens met betrekking tot de gebouwen in het Vlaamse Gewest, hun ligging, hun verwarmingsinstallaties, de bijhorende energieopwekkingsinstallaties, en de energieproductie en het energieverbruik bij die gebouwen. De Vlaamse Regering bepaalt welke gegevens in die databank worden bijgehouden, doorgestuurd en opgenomen.&nbsp;Voor de unieke identificatie van de betrokken gebouweigenaars, huurders en houders van een zakelijk recht en van de personen op wie in het kader van deze databank verplichtingen rusten, kunnen de identificatiegegevens waaronder het ondernemingsnummer, het rijksregisternummer of het BIS-nummer, de naam en het adres opgevraagd en verwerkt worden.<br>
 <br>
 De databank heeft de volgende doelstellingen:<br>
 1° de voorbereiding van het Vlaamse energie- en klimaatbeleid ondersteunen, en dat beleid monitoren en evalueren;<br>
@@ -4137,6 +4137,8 @@ a) de aard;<br>
 b) de ligging;<br>
 c) de ouderdom;<br>
 d) de eigendom of zakelijke rechten die erop zijn gevestigd;<br>
+e) de EAN-code van het toegangspunt;<br>
+f) het energieprestatiecertificaat;<br>
 5° de gegevens over de uitgevoerde werken waarvoor een premie wordt aangevraagd, met inbegrip van facturen;<br>
 6° alle andere gegevens dan de gegevens, vermeld in punt 1° tot en met 5°, die verband houden met de premievoorwaarden die de Vlaamse Regering krachtens dit decreet of krachtens de Vlaamse Codex Wonen van 2021 vaststelt en die noodzakelijk zijn om de premie toe te kennen.<br>
 <br>
