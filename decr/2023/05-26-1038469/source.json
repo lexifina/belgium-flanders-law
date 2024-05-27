@@ -2,16 +2,16 @@
   "codex_id": 1038469,
   "title": "Decreet van 2023-05-26 tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat de woonreservegebieden betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038469/VolledigDocument?datum=2023-07-07",
-  "source_sha256": "a47ac2131d7a2ebc380678c77e451489f50537c566eec677009f9254ef8d9d5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038469/VolledigDocument?datum=2024-05-27",
+  "source_sha256": "9232d238b48e2c515109ec5b259796ffc9bfefcb9dbe0320a7aab1ff1d09e63d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038469&param=informatie",
-  "as_of": "2023-07-07",
+  "as_of": "2024-05-27",
   "made": "2023-05-26",
   "gazette": "2023-06-27",
   "numac": 2023042874,
   "document_start": "2023-07-07",
   "document_end": null,
-  "in_force": "2023-07-07",
+  "in_force": "2024-05-27",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2023-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-05-27; future article versions excluded; article text as the API gives it"
 }

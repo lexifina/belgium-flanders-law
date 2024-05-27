@@ -193,7 +193,7 @@ In artikel 5.97, eerste lid, van de Vlaamse Codex Wonen, wordt tussen de woorden
 
 ### ART 18.
 
-Vanaf de inwerkingtreding van dit decreet kunnen in woonreservegebieden geen omgevingsvergunningen voor het verkavelen van gronden of voor stedenbouwkundige handelingen verleend worden op grond van een principieel akkoord of onder verwijzing naar de voorschriften van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen, of onder verwijzing naar de bijzondere gewestplanvoorschriften voor reservegebied voor woonwijken, woonreservegebied of woonaansnijdingsgebied.<br>
+Vanaf de inwerkingtreding van dit decreet kunnen in woonreservegebieden geen omgevingsvergunningen voor het verkavelen van gronden of voor stedenbouwkundige handelingen verleend worden op grond van een principieel akkoord dat afgegeven werd overeenkomstig artikel 5.6.6, §2, of gevat was door artikel 5.6.6, §3, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, zoals deze bepalingen golden tot 7 juli 2023, of onder verwijzing naar de voorschriften van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen, of onder verwijzing naar de bijzondere gewestplanvoorschriften voor reservegebied voor woonwijken, woonreservegebied of woonaansnijdingsgebied.<br>
 <br>
 In afwijking van het eerste lid worden aanvragen voor een omgevingsvergunning voor het verkavelen van gronden of voor stedenbouwkundige handelingen die in eerste bestuurlijke aanleg op ontvankelijke en volledige wijze zijn ingediend vóór de inwerkingtreding van dit decreet, beoordeeld op grond van de regels die golden vóór de inwerkingtreding van dit decreet, voor zover die aanvragen verwijzen naar de voorschriften van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen, of naar de bijzondere gewestplanvoorschriften voor reservegebied voor woonwijken, woonreservegebied of woonaansnijdingsgebied.<br>
 <br>
@@ -201,4 +201,4 @@ In afwijking van het eerste lid kunnen aanvragen voor een omgevingsvergunning vo
 
 ### ART 19.
 
-Aanvragen voor een principieel akkoord die zijn ingediend met toepassing van de regelgeving die gold vóór de inwerkingtreding van dit decreet en waarover de deputatie op de datum van de inwerkingtreding van dit decreet nog geen beslis- sing heeft genomen, worden van rechtswege geacht te zijn geweigerd.
+Aanvragen voor een principieel akkoord die zijn ingediend met toepassing van artikel 5.6.6, §2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, zoals deze bepaling gold tot 7 juli 2023, en waarover de deputatie op de datum van de inwerkingtreding van dit decreet nog geen beslis- sing heeft genomen, worden van rechtswege geacht te zijn geweigerd.
