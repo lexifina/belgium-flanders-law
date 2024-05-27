@@ -221,7 +221,7 @@ De Vlaamse Regering kan de toepassing van het eerste en tweede lid nader regelen
 7° het bestaan van pacht of van erfdienstbaarheden;<br>
 8° de verwervingswaarde, als die bekend is;<br>
 9° het tijdstip van verwerving en de bestemming op het moment van de verwerving;<br>
-10° de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, het door de Vlaamse Regering goedgekeurde ontwikkelingsperspectief als het een signaalgebied betreft, de aanduiding als watergevoelig openruimtegebied;<br>
+10° de overstromingsgevoeligheid, het door de Vlaamse Regering goedgekeurd ontwikkelingsperspectief als het een signaalgebied betreft, of de aanduiding als watergevoelig openruimtegebied als vermeld in artikel 5.6.8, §1, van de Vlaamse Codex Ruimtelijke Ordening;<br>
 11° de aard en de impact van de gebruiksbeperking;<br>
 12° de technische bebouwbaarheid;<br>
 13° het stedenbouwkundig in aanmerking komen voor bebouwing.<br>
