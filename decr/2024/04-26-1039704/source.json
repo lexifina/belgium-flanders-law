@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039704,
+  "title": "Decreet van 2024-04-26 tot wijziging van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling, wat betreft de verwerking van persoonsgegevens",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039704/VolledigDocument?datum=2024-05-31",
+  "source_sha256": "7b3e49bf44df1d8e5df8016bfe59c0b8b82071b1ed86ec6d532b287cc41c604e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039704&param=informatie",
+  "as_of": "2024-05-31",
+  "made": "2024-04-26",
+  "gazette": "2024-05-21",
+  "numac": 2024004668,
+  "document_start": "2024-05-31",
+  "document_end": null,
+  "in_force": "2024-05-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
