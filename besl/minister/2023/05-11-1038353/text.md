@@ -177,6 +177,8 @@ Als de landbouwer een hennepras inzaait als nateelt conform artikel 4 en 5 van g
 <br>
 In afwijking van het eerste lid, 1°, geldt voor het kalenderjaar 2023 7 mei als uiterste indieningsdatum.<br>
 <br>
+In afwijking van het eerste lid, 2°, geldt voor het kalenderjaar 2024 14 juni als uiterste wijzigingsdatum.<br>
+<br>
 §2. In afwijking van paragraaf 1 kan de bevoegde entiteit voor bepaalde interventies of maatregelen een later tijdstip vastleggen voor indiening of wijziging.&nbsp;<br>
 <br>
 §3. Met behoud van de toepassing van paragraaf 1 en paragraaf 2 zorgt de landbouwer ervoor dat de informatie in de verzamelaanvraag tijdens het jaar correct is en in overeenstemming met de reële situatie op zijn bedrijf. &nbsp;Correcties kunnen niet later worden doorgevoerd dan 31 mei van het jaar dat volgt op het jaar waarin de verzamelaanvraag is ingediend.<br>
