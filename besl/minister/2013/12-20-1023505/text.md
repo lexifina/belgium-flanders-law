@@ -10,11 +10,11 @@
 
 In dit besluit wordt verstaan onder :<br>
 1° besluit van de Vlaamse Regering van 20 december 2013 : het besluit van de Vlaamse Regering van 20 december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de diversificatie naar zorgboerderijactiviteiten;<br>
-2° e-loket : het e-loket, vermeld in het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.
+2° e-loket: het elektronisch loket dat ontwikkeld en beheerd wordt door de bevoegde entiteit.
 
 ### ART. 2.
 
-<p>De elektronische ondertekening, vermeld in dit besluit, wordt uitgevoerd conform de bepalingen, vermeld in artikel 68 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.</p>
+<p>De elektronische ondertekening, vermeld in dit besluit, wordt uitgevoerd conform de bepalingen, vermeld in artikel 78 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid.</p>
 
 <p>De land- of tuinbouwer kan een volmacht geven aan een andere persoon of aan een organisatie, met uitzondering van de voorziening waarmee hij de zorgboerderijovereenkomst sluit, zodat die persoon of organisatie als volmachthouder in naam van de land- of tuinbouwer toegang krijgt tot het e-loket voor het verrichten van activiteiten in het e-loket met betrekking tot zorgboerderijactiviteiten.</p>
 
@@ -22,7 +22,37 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 3.
 
-<P>De zorgboerderijovereenkomst bevat ten minste de volgende gegevens :<BR>1° de   identificatie- en contactgegevens van de land- of tuinbouwer;<BR>2° de   identificatie- en contactgegevens van de persoon die instaat voor de   zorgboerderijactiviteit op het land- of tuinbouwbedrijf, met in voorkomend geval   de vermelding dat het gaat om een derde partij;<BR>3° de identificatie- en   contactgegevens van de voorziening;<BR>4° in voorkomende geval de vermelding van   andere voorzieningen, instellingen of overheidsinstanties die de zorgvrager   opvolgt of begeleidt, of de vermelding van de betrokken school als de   voorziening een centrum voor leerlingen begeleiding is;<BR>5° in voorkomend   geval de overeenkomst met een derde partij die de zorgactiviteit zal   uitoefenen;<BR>6° de aanduiding van de sector waartoe de voorziening behoort,   meer bepaald :<BR>a) bijzondere jeugdzorg;<BR>b) onderwijs;<BR>c)   gehandicaptenzorg;<BR>d) zorg en gezondheid;<BR>e) welzijn en samenleving;<BR>7°   de identificatie en functiegevens van de persoon die de overeenkomst ondertekent   in naam van de voorziening;<BR>8° de naam en geboortedatum van de zorgvrager of   de vermelding van groepsopvang;<BR>9° de contactgegevens van de begeleider van   de voorziening;<BR>10° de contactgegevens waarop de voorziening tijdens de   uitvoering van de zorgboerderijactiviteit permanent bereikbaar is;<BR>11° de   vermelding dat de persoonlijke aansprakelijkheid van de zorgvrager al dan niet   verzekerd is en in voorkomend geval wie die verzekering gesloten heeft;<BR>12°   de begindatum van de overeenkomst;<BR>13° de eventuele einddatum van de   overeenkomst;<BR>14° de geplande aantal hele of halve opvangdagen per   week;<BR>15° de datum van de elektronische ondertekening door de land- of   tuinbouwer;<BR>16° de datum van de elektronische ondertekening door de   voorziening.<BR>De zorgboerderijovereenkomst kan de volgende aanvullende   gegevens bevatten :<BR>1° het geplande weekschema van de   zorgboerderijactiviteit;<BR>2° een eventuele kostenvergoeding die aan de land-   of tuinbouwer wordt uitbetaald;<BR>3° de tijdstippen (frequentie) van   opvolging;<BR>4° de verwachte taken van de land- of tuinbouwer, van de   voorziening en van de zorgvrager;<BR>5° de aandachtspunten bij de uitvoering van   de zorgboerderijactiviteit;<BR>6° eventuele engagementen tussen zorgvrager en de   land- of tuinbouwer of de voorziening.<BR></P>  <P>De opsomming, vermeld in het tweede lid, kan aangevuld worden afhankelijk van   de behoeften van de land- of tuinbouwer, de zorgvrager of de   voorziening.<BR></P>
+<p>De zorgboerderijovereenkomst bevat ten minste de volgende gegevens :<br>
+1° de identificatie- en contactgegevens van de land- of tuinbouwer;<br>
+2° de identificatie- en contactgegevens van de persoon die instaat voor de zorgboerderijactiviteit op het land- of tuinbouwbedrijf, met in voorkomend geval de vermelding dat het gaat om een derde partij;<br>
+3° de identificatie- en contactgegevens van de voorziening;<br>
+4° in voorkomende geval de vermelding van andere voorzieningen, instellingen of overheidsinstanties die de zorgvrager opvolgt of begeleidt, of de vermelding van de betrokken school als de voorziening een centrum voor leerlingen begeleiding is;<br>
+5° in voorkomend geval de overeenkomst met een derde partij die de zorgactiviteit zal uitoefenen;<br>
+6° de aanduiding van de sector waartoe de voorziening behoort, meer bepaald :<br>
+a) bijzondere jeugdzorg;<br>
+b) onderwijs;<br>
+c) gehandicaptenzorg;<br>
+d) zorg en gezondheid;<br>
+e) welzijn en samenleving;<br>
+7° de identificatie en functiegegevens van de persoon die de overeenkomst ondertekent in naam van de voorziening;<br>
+8° de naam en geboortejaar van de zorgvrager of de vermelding van groepsopvang;<br>
+9° de contactgegevens van de begeleider van de voorziening;<br>
+10° de contactgegevens waarop de voorziening tijdens de uitvoering van de zorgboerderijactiviteit permanent bereikbaar is;<br>
+11° de vermelding dat de burgerlijke aansprakelijkheid van de zorgvrager al dan niet verzekerd is en in voorkomend geval wie die verzekering gesloten heeft;<br>
+12° de begindatum van de overeenkomst;<br>
+13° de eventuele einddatum van de overeenkomst;<br>
+14° de geplande aantal hele of halve opvangdagen per week;<br>
+15° de datum van de elektronische ondertekening door de land- of tuinbouwer;<br>
+16° de datum van de elektronische ondertekening door de voorziening.<br>
+De zorgboerderijovereenkomst kan de volgende aanvullende gegevens bevatten :<br>
+1° het geplande weekschema van de zorgboerderijactiviteit;<br>
+2° een eventuele kostenvergoeding die aan de land- of tuinbouwer wordt uitbetaald;<br>
+3° de tijdstippen (frequentie) van opvolging;<br>
+4° de verwachte taken van de land- of tuinbouwer, van de voorziening en van de zorgvrager;<br>
+5° de aandachtspunten bij de uitvoering van de zorgboerderijactiviteit;<br>
+6° eventuele engagementen tussen zorgvrager en de land- of tuinbouwer of de voorziening.</p>
+
+<p>De opsomming, vermeld in het tweede lid, kan aangevuld worden afhankelijk van de behoeften van de land- of tuinbouwer, de zorgvrager of de voorziening.</p>
 
 ### ART. 4.
 
@@ -40,7 +70,16 @@ De land- of tuinbouwer of de voorziening die een zorgboerderijovereenkomst   voo
 
 ### ART. 7.
 
-<P>De land- of tuinbouwer dient de aanmelding voor de subsidie, vermeld in   artikel 15 van het besluit van de Vlaamse Regering van 20 december 2013, in via   het e-loket.<BR></P>  <P>De aanmelding bevat de volgende gegevens :<BR>1° de identificatiegegevens van   de land- of tuinbouwer;<BR>2° het meest recente aanslagbiljet van de   belastingen, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt van   de bevoegde overheid;<BR>3° een bewijs van verzekering voor burgerlijke   aansprakelijkheid waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in   artikel 5, eerste lid, 4°, van het besluit van de Vlaamse Regering van 20   december 2013.<BR></P>  <P>De land- of tuinbouwer geeft de vereiste documenten elektronisch in via het   e-loket.<BR></P>  <P>De aanmelding wordt elektronisch ondertekend door de land- of   tuinbouwer.<BR></P>
+<p>De land- of tuinbouwer dient de aanmelding voor de subsidie, vermeld in artikel 15 van het besluit van de Vlaamse Regering van 20 december 2013, in via het e-loket.</p>
+
+<p>De aanmelding bevat de volgende gegevens :<br>
+1° de identificatiegegevens van de land- of tuinbouwer;<br>
+2° het meest recente aanslagbiljet van de belastingen, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt van de bevoegde overheid;<br>
+3° een bewijs van verzekering voor burgerlijke aansprakelijkheid waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 5, eerste lid, 4°, van het besluit van de Vlaamse Regering van 20 december 2013.&nbsp;De bevoegde entiteit stelt een modelattest ter beschikking dat gebruikt kan worden.</p>
+
+<p>De land- of tuinbouwer geeft de vereiste documenten elektronisch in via het e-loket.</p>
+
+<p>De aanmelding wordt elektronisch ondertekend door de land- of tuinbouwer.</p>
 
 ### ART. 8.
 
@@ -66,7 +105,7 @@ De land- of tuinbouwer meldt elke wijziging die gevolgen heeft voor de   subsidi
 
 <p>Na afloop van de overeenkomst of bij het einde van een kwartaal dient de land- of tuinbouwer de registraties via het e-loket in. De voormelde indiening van de registratie geldt als een subsidieaanvraag.</p>
 
-<p>Bij de subsidieaanvraag verklaart de land- of tuinbouwer op erewoord dat hij voldoet aan de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie (L 352) van 24 december 2013.</p>
+<p>Bij de subsidieaanvraag verklaart de land- of tuinbouwer op erewoord dat hij voldoet aan de voorwaarden, vermeld in verordening (EU) 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun.</p>
 
 <p>De voorziening bevestigt de registraties uit de subsidieaanvraag, die de land- of tuinbouwer heeft ingediend. Als de voorziening de voormelde registraties die de land- of tuinbouwer heeft ingediend, niet binnen 21 kalenderdagen bevestigd heeft, worden de voormelde registraties die de land- of tuinbouwer heeft ingediend, stilzwijgend geacht bevestigd te zijn door de voorziening. De voormelde termijn start op de dag na de dag waarop de land- of tuinbouwer de registraties heeft ingediend.</p>
 
