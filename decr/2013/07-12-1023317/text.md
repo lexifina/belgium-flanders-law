@@ -1082,7 +1082,12 @@ Elektronische-communicatienetwerken met hoge snelheid zijn transmissiesystemen, 
 
 ### ART. 6.4.5.
 
-De cultuurgoederen die opgenomen zijn in een besluit tot bescherming van   een monument, mogen niet buiten het monument worden verplaatst zonder toelating   van het agentschap. De Vlaamse Regering kan de nadere regels daarvoor   bepalen.<BR>
+De cultuurgoederen en erfgoedelementen, onroerend door bestemming in een beschermd monument, mogen niet worden verplaatst zonder toelating van het agentschap. De Vlaamse Regering kan de nadere regels daarvoor bepalen.<br>
+<br>
+Voor de goederen, vermeld in het eerste lid, die ook beschermd zijn als topstuk op basis van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang:<br>
+1°&nbsp;&nbsp; &nbsp;is er voor handelingen aan die goederen geen toelating of advies als vermeld in artikel 6.4.4 van dit decreet vereist;<br>
+2°&nbsp;&nbsp; &nbsp;is er een toelating voor het verplaatsen als vermeld in het eerste lid vereist;<br>
+3°&nbsp;&nbsp; &nbsp;kunnen voor handelingen aan die goederen geen premies of subsidies op basis van hoofdstuk 10 van dit decreet worden toegekend en kan geen belasting-vermindering worden verleend als vermeld in artikel 145/36 van het Wetboek van de inkomstenbelastingen 1992.
 
 ### ART. 6.4.6.
 
