@@ -2,16 +2,16 @@
   "codex_id": 1037016,
   "title": "Ministerieel besluit van 2022-04-01 tot aanwijzing van de effectieve en plaatsvervangende leden van de beroepsinstantie openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling hergebruik van overheidsinformatie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037016/VolledigDocument?datum=2022-05-12",
-  "source_sha256": "3a7ef230a7681f928c51f2f3379ac673e0aba9ed799b3b1cf6bd152423628216",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037016/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "47b21ff1efc97cb97f51bcd0f59dabc1305e09e7f43bedd95bced004d775d6e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037016&param=informatie",
-  "as_of": "2022-05-12",
+  "as_of": "2024-06-01",
   "made": "2022-04-01",
   "gazette": "2022-05-12",
   "numac": 2022031667,
   "document_start": "2022-05-12",
   "document_end": null,
-  "in_force": "2022-05-12",
+  "in_force": "2024-06-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }

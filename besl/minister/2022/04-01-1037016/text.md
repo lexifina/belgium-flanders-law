@@ -11,7 +11,7 @@ De volgende personen worden aangewezen als effectieve leden van de beroepsinstan
 ### ART 2.
 
 De volgende personen worden aangewezen als plaatsvervangende leden van de beroepsinstantie openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling hergebruik van overheidsinformatie:<br>
-1° Jessica Amendolara, personeelslid van het Departement Landbouw en Visserij;<br>
+1° Gert Luypaert, personeelslid van het Agentschap Landbouw en Zeevisserij;<br>
 2° Jeremy Roels, personeelslid van het Agentschap Innoveren en Ondernemen;<br>
 3° Ines Acke, personeelslid van de Stad Gent;<br>
 4° Anthony Suykens, personeelslid van het Agentschap Onroerend Erfgoed.
