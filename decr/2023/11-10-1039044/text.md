@@ -236,6 +236,24 @@ Aan artikel 11.2/2.1, §1, van hetzelfde decreet, ingevoegd bij het decreet van 
 <br>
 “De verplichting, vermeld in het eerste lid, is niet van toepassing op authentieke akten met een declaratieve werking.”.
 
+### ART 33.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 14 juli 2023, wordt een artikel 12.3.2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 12.3.2. §1. Elke publieke organisatie stelt de energieverbruiks- en productiegegevens en, waar beschikbaar, de fysische kenmerken van de installaties en gebouwen, van de gebouwen waarvan ze gebruiker is via een platform publiek beschikbaar als open data die door iedereen vrij gebruikt, hergebruikt en gedeeld kunnen worden. De voormelde gegevens worden minstens eenmaal per maand geactualiseerd.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen over welke gegevens beschikbaar worden gesteld, de wijze waarop deze beschikbaar worden gesteld en over de werking van het platform, vermeld in het eerste lid.<br>
+<br>
+De energieverbruiks- en productiegegevens, vermeld in het eerste lid, omvatten minstens:<br>
+1° de kwartierwaarden van afname en injectie voor elektriciteit, de uurwaarden voor gas, de maandpieken en het opgestelde nominale vermogen van aanwezige decentrale productie-eenheden voor de toegangspunten waarvan de publieke organisatie titularis en netgebruiker is;<br>
+2° de energieverbruiken ten behoeve van warmte of koude, onder meer van mazout, pellets, het energieverbruik uit een koude- of warmtenet, verdeeld op basis van de werkelijk gemeten of zo realistisch mogelijk ingeschatte verbruiken, minstens op maandbasis.<br>
+<br>
+De fysische kenmerken van de installaties en gebouwen, vermeld in het eerste lid, omvatten minstens de vloeroppervlakte in m<sup>2</sup>, de energieprestaties en andere nuttige energiegegevens.<br>
+<br>
+§2. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op gebouwen bestemd voor defensie.<br>
+<br>
+De verplichting om de fysische kenmerken van de installaties en gebouwen publiek beschikbaar te stellen als open data is niet van toepassing op gevangenissen.”.
+
 ### ART 34.
 
 In artikel 12.5.1, §1, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 22 oktober 2021 en gewijzigd bij de decreten van 25 november 2022 en 23 december 2022, worden de volgende wijzigingen aangebracht:<br>
