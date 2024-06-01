@@ -48,7 +48,9 @@ De   delegatie aan het hoofd van het departement of agentschap, vermeld in artik
 
 ### ART. 10.
 
-Het   hoofd van het departement of agentschap heeft delegatie om beslissingen te nemen   over de organisatie van de werkzaamheden en het goed functioneren van het   departement of agentschap, met inbegrip van de indeling in subentiteiten, de   vaststelling van het organogram, het procesmanagement en het   communicatiemanagement.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het departement of agentschap heeft delegatie om beslissingen te nemen over de organisatie van de werkzaamheden en het goed functioneren van het departement of agentschap, met inbegrip van de indeling in subentiteiten, de vaststelling van het organogram, het procesmanagement en het communicatiemanagement.<br>
+<br>
+De bevoegdheden die decretaal zijn toegewezen aan gezagsfuncties zoals gedefinieerd in en vermeld in bijlage 4 bij het Vlaams personeelsstatuut van 13 juni 2006, zijn niet delegeerbaar.
 
 ### ART. 11.
 
