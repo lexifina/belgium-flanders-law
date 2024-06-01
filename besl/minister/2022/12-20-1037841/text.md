@@ -34,7 +34,7 @@ Worden tot effectieve afgevaardigden van de representatieve werkgeversorganisati
 Worden tot effectieve afgevaardigden van de representatieve werknemersorganisaties benoemd:<br>
 - Mevrouw Sarah Lambrecht<br>
 - De heer Sam Coomans<br>
-- Mevrouw Katrien Allaert
+- Mevrouw Justine Scholliers
 
 ### ART 5.
 
@@ -49,7 +49,7 @@ Worden tot plaatsvervangende afgevaardigden van de representatieve werkgeversorg
 Worden tot plaatsvervangende afgevaardigden van de representatieve werknemersorganisaties benoemd:<br>
 - De heer Philippe Diepvents<br>
 - De heer Maarten Gerard<br>
-- Mevrouw Justine Scholiers
+- De heer John Allaert
 
 ### ART 7.
 
