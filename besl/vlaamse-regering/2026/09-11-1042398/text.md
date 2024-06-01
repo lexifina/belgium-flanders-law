@@ -21,6 +21,22 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 21.
+
+In artikel VIIbis 1, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt het woord “derde” vervangen door het woord “vierde”.
+
+### ART 24.
+
+In artikel VIIbis 26 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt de zinsnede “artikel VII 113” vervangen door de zinsnede “artikel VIIbis 25”.
+
+### ART 26.
+
+In artikel VIIbis 69 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt punt 5° opgeheven;<br>
+2° er wordt een paragraaf 2bis ingevoegd, die luidt als volgt:<br>
+“§2bis. De personeelsleden die vóór 1 december 2012 in dienst zijn getreden bij de Vlaamse Maatschappij voor Sociaal Wonen en op 1 januari 2023 worden overgeheveld naar het agentschap Wonen-Vlaanderen, behouden de compenserende toelage, vermeld in paragraaf 1, totdat ze het agentschap Wonen-Vlaanderen vrijwillig verlaten of ontslagen worden.”;<br>
+3° in paragraaf 3 wordt de zinsnede “paragraaf 1 en 2” vervangen door de zinsnede “paragraaf 1, 2 en 2bis”.
+
 ### ART 32.
 
 Aan artikel XIbis 66, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>

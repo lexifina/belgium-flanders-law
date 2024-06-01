@@ -2,16 +2,16 @@
   "codex_id": 1042398,
   "title": "Besluit van de Vlaamse Regering van 2026-09-11 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de overdracht van de personeelsleden van de gemeenschapsinstellingen, het Vlaams detentiecentrum en de begeleiding in het kader van elektronische monitoring aan het Agentschap Justitie en Handhaving en Het Facilitair Bedrijf en diverse bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042398/VolledigDocument?datum=2017-10-01",
-  "source_sha256": "fae5432730221600e121203f30bf46de442e3aae32b9a4ca8a0ec0dc80d95cd1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042398/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "cf9e2abff0512ba70a2bacf922d7ebc6fcd01f23f2a3676d0e4639e0399fc262",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042398&param=informatie",
-  "as_of": "2017-10-01",
+  "as_of": "2024-06-01",
   "made": "2026-09-11",
   "gazette": "2026-10-16",
   "numac": 2026007255,
   "document_start": "2026-10-01",
   "document_end": null,
-  "in_force": "2017-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2017-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }
