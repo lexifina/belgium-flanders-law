@@ -2,16 +2,16 @@
   "codex_id": 1038138,
   "title": "Ministerieel besluit van 2023-03-03 tot vaststelling van de capaciteit van de gemeenschapsinstellingen en het Vlaams detentiecentrum",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038138/VolledigDocument?datum=2023-12-31",
-  "source_sha256": "43fe3eec4ae8b395a226b7a13bb40944f8624defbe5406bf335f00e5ec17d007",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038138/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "5e80f2e1d87f495efc862d1c949e8386b1f2b641859745f00deb0f6986e620eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038138&param=informatie",
-  "as_of": "2023-12-31",
+  "as_of": "2024-06-01",
   "made": "2023-03-03",
   "gazette": "2023-03-24",
   "numac": 2023041009,
   "document_start": "2023-03-01",
   "document_end": "2024-05-31",
-  "in_force": "2023-12-31",
+  "in_force": "2024-06-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2023-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }
