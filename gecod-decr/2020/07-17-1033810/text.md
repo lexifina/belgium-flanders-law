@@ -817,6 +817,23 @@ In dit artikel wordt verstaan onder kamerwoning: elk gebouw of deel ervan dat be
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering bepaalt de criteria en de procedure om vast stellen of een woning voldoet aan de vereisten en normen, vastgesteld met toepassing van artikel 3.1, §1, §2 en §3, eerste en tweede lid. Ze kan ook de wijze bepalen waarop de mogelijkheid om eventuele tekortkomingen via renovatie-, verbeterings- of aanpassings-werkzaamheden te verhelpen, beoordeeld wordt.</span></span></span></span></p>
 
+### ART 3.3/1.
+
+De gemeente kan bij verordening de gevallen bepalen waarin ze een vergoeding vraagt voor de uitvoering, op verzoek, van een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.<br>
+<br>
+De vergoeding, vermeld in het eerste lid, kan alleen gevraagd worden aan de natuurlijke persoon of de rechtspersoon, vermeld in artikel 3.7, §1.<br>
+<br>
+De volgende gevallen zijn altijd een verzoek als vermeld in het eerste lid:<br>
+1° een melding van herstel als vermeld in artikel 3.10, derde lid;<br>
+2° het verzoek tot afgifte van een conformiteitsattest, vermeld in artikel 3.7, §1, eerste lid;<br>
+3° een melding van herstel van eerder vastgestelde gebreken in de loop van een procedure om een woning ongeschikt of onbewoonbaar te verklaren, met toepassing van artikel 3.12.<br>
+<br>
+Om de volgende conformiteitsonderzoeken uit te voeren kan de gemeente geen vergoeding vragen:<br>
+1° het conformiteitsonderzoek na een melding als vermeld in artikel 3.10, eerste lid;<br>
+2° het conformiteitsonderzoek na een verzoek om een woning ongeschikt of onbewoonbaar te verklaren met toepassing van artikel 3.13.<br>
+<br>
+De Vlaamse Regering kan voor de vergoeding, vermeld in het eerste lid, een maximumbedrag bepalen. De vergoeding die de gemeente aanrekent, is in ieder geval beperkt tot de werkelijke kosten.
+
 ### ART 3.4.
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:13.3333px">....</span></span></p>
