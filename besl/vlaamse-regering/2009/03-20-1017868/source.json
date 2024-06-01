@@ -2,16 +2,16 @@
   "codex_id": 1017868,
   "title": "Besluit van de Vlaamse Regering van 2009-03-20 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van [het agentschap Opgroeien regie]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017868/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "1b755fcb9c2146c8cf0ffe8283eabfe66ee91df9f0f086a9ad31a3f4bd3530d1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017868/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "0a003ac9157e30f971af184c43ca233414b2470c9807389831d61639e1213477",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017868&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-06-01",
   "made": "2009-03-20",
   "gazette": "2009-05-05",
   "numac": 2009035353,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }
