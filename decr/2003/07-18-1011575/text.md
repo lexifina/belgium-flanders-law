@@ -49,7 +49,7 @@ De bepalingen van dit hoofdstuk zijn uitsluitend van toepassing op Vlaamse PPS-p
 
 ### ART. 8.
 
-In afwijking van artikel 4 van het decreet van 30 november 2018 betreffende het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten door de Vlaamse Gemeenschap en het Vlaamse Gewest, kan de Vlaamse Regering de onroerende domeingoederen van de Vlaamse Gemeenschap en het Vlaamse Gewest, ongeacht de geschatte waarde ervan, uit de hand of bij wijze van ruiling vervreemden en er zakelijke rechten op vestigen, zonder enige vorm van voorafgaande kennisgeving aan de natuurlijke of rechtspersonen die volgens de laatste kadastrale toestand eigenaar zijn van percelen die grenzen aan onroerende domeingoederen van de Vlaamse Gemeenschap of het Vlaamse Gewest.
+In afwijking van de artikelen 3 en 5 van het decreet van 8 maart 2024 over het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten kan de Vlaamse Regering de onroerende domeingoederen die behoren tot het domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, ongeacht de geschatte waarde ervan, uit de hand of bij wijze van ruiling vervreemden en er zakelijke rechten op vestigen.
 
 ### ART. 9.
 

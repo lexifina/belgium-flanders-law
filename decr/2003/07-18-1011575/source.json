@@ -2,16 +2,16 @@
   "codex_id": 1011575,
   "title": "Decreet van 2003-07-18 betreffende publiek-private samenwerking",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011575/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "137ee036d8b63524208e0d6dbb6ff29fb64a94b54773ef2aefb67e04a25dd805",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011575/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "9ff228d7936105a5cabad6b028c340d3cf0dbd2a077ae59e19a831795312434a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011575&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2024-06-01",
   "made": "2003-07-18",
   "gazette": "2003-09-19",
   "numac": 2003200811,
   "document_start": null,
   "document_end": null,
-  "in_force": "2020-09-01",
+  "in_force": "2024-06-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }
