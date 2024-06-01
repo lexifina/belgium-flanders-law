@@ -92,6 +92,10 @@ Voor de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de
 
 Voor het contractuele personeelslid met een arbeiderscontract geldt een uurdeler gelijk aan 1/1976 van het jaarsalaris.
 
+### ART 11/1
+
+De occasionele medewerker met sporttechnische, sportpedagogische of sportorganisatorische kwalificatie bij Sport Vlaanderen, wordt verloond conform de assimilatietabel die is opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+
 ## DEEL IV ALGEMENE SLOTBEPALINGEN
 
 ### ART. 12.
@@ -116,6 +120,545 @@ Lijst van gevaarlijke, ongezonde en hinderlijke werken<br>
 9. voortdurend dragen van zware lasten;<br>
 10. werk op ladders, masten, stellingen, met de heflift of andere, vanaf 2 m hoogte;<br>
 11. werk in bomen vanaf 2 meter hoogte.
+
+### BIJLAGE 2
+
+<table cellspacing="0" style="border-collapse:collapse; width:1000px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>Schaal</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>N0a</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NIIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NIIIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NIVa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NVa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NVIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NVIIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NVIIIa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NIXa</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>NXa</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Graad</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg 0</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg I</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg II</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg III</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg IV</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg V</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg VI</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg VII</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg VIII</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg IX</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:56px; text-align:center; vertical-align:middle; width:51px"><strong>Occasionele medewerker Sport Vlaanderen Catg X</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>0</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>1</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>2</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>3</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>4</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>5</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>6</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>7</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>8</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>9</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>10</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>11</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>12</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>13</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>14</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>15</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>16</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>17</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>18</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>19</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>20</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>21</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>22</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>23</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>24</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>25</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>26</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>27</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>28</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>29</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>30</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>31</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>32</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>33</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>34</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px"><strong>35</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">13.310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">15.610</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">17.700</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">19.940</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">22.030</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">24.080</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">33.180</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">37.280</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">41.330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">49.430</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; text-align:center; vertical-align:middle; width:51px">61.630</td>
+		</tr>
+	</tbody>
+</table>
 
 ### TOELICHTING
 
