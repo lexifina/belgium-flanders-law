@@ -279,7 +279,7 @@ Van 1 januari 2024 tot en met 31 oktober 2024 is het in het ICES-gebied VIId voo
 &nbsp;&nbsp; &nbsp;<br>
 Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment uiterlijk op 3 april 2024 via een aangetekende brief of per e-mail een aanvraag voor het bekomen van een visvergunning tot de dienst Visserij van de bevoegde entiteit richten.<br>
 &nbsp;&nbsp; &nbsp;<br>
-§3. Vanaf 1 juni 2024 tot en met 30 september 2024 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid van 15 kg overschrijdt, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+§3. Vanaf 1 juni 2024 tot en met 30 september 2024 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW, te vermeerderen met 1000 kg.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
 §4. Bij overschrijding van de hoeveelheden tong vermeld in paragraaf 3, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2025.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -430,6 +430,8 @@ Het is in de ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verb
 ### ART 25.
 
 §1. Het is voor een vissersvaartuig in de ICES-gebieden II, IV en VII, verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
+<br>
+In afwijking van het eerste lid, wordt vanaf 1 juni 2024 een vaste hoeveelheid van 20 ton voorbehouden voor de flyshoot visserij (SSC). Van zodra de bevoegde entiteit heeft vastgesteld en gecommuniceerd dat deze hoeveelheid is opgevist, geldt voor de flyshoot visserij (SSC) het dagplafond vermeld in het eerste lid.<br>
 <br>
 §2. In de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis<br>
 <br>
