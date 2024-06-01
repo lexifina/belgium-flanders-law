@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040101,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de toekenning van de T-schaal en de aanpassing van de toelage technische bekwaamheid voor bepaalde personeelsleden van het Agentschap Maritieme Dienstverlening en Kust",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040101/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "06dec54517606848dc784138b660c110bf74bf33a02204c997f11089087e3681",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040101&param=informatie",
+  "as_of": "2024-06-01",
+  "made": "2024-07-19",
+  "gazette": "2024-08-19",
+  "numac": 2024007763,
+  "document_start": "2024-06-01",
+  "document_end": null,
+  "in_force": "2024-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
