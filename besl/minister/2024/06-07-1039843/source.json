@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039843,
+  "title": "Ministerieel besluit van 2024-06-07 tot vaststelling van de capaciteit van de gemeenschapsinstellingen en het Vlaams detentiecentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039843/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "a9845e21fa5bca229e7226dee5153d9ebdd4f53b891efc315b1d621aee8d3527",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039843&param=informatie",
+  "as_of": "2024-06-01",
+  "made": "2024-06-07",
+  "gazette": "2024-07-12",
+  "numac": 2024006222,
+  "document_start": "2024-06-01",
+  "document_end": null,
+  "in_force": "2024-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
