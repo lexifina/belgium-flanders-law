@@ -38,11 +38,27 @@ De bepalingen van deel V, titel 3 van het VPS, zijn van toepassing op de aanwijz
 
 ### ART. 6.
 
-Aan de graad van directeur operaties wordt de salarisschaal A 285 verbonden en A 286 vanaf het tweede mandaat.
+Aan de graad van directeur operaties wordt de salarisschaal NA285 verbonden.<br>
+<br>
+Het eerste lid is van toepassing op:<br>
+1° &nbsp;&nbsp; &nbsp;het personeelslid dat in het mandaat wordt aangesteld op basis van een vacature<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; die na 31 mei 2024 vacant is verklaard;<br>
+2° &nbsp;&nbsp; &nbsp;het personeelslid dat in het mandaat is aangesteld op basis van een vacature&nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;die vóór 1 juni 2024 vacant is verklaard, en die er conform artikel VII 2, §2 en §3<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;van het Vlaams personeelsstatuut van 13 januari 2006, vrijwillig voor kiest om te&nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;worden bezoldigd in de salarisschaal vermeld in het eerste lid.&nbsp;<br>
+<br>
+De inschaling gebeurt conform artikel VII 2, §4, van het voormelde besluit.<br>
+<br>
+In afwijking van het eerste en tweede lid wordt het personeelslid dat in de graad van directeur operaties is aangesteld op basis van een vacature die vóór 1 juni 2024 vacant is verklaard, bezoldigd in de salarisschaal A285 tijdens het eerste mandaat. Vanaf het tweede mandaat wordt het personeelslid bezoldigd in de salarisschaal A286.
 
 ### ART. 7.
 
-De instellingsspecifieke salarisschalen van niveau C worden gevoegd als bijlage I bij dit besluit.
+Aan de personeelsleden die titularis zijn van de specifieke salarisschaal C224 en die er conform artikel VII 2, §2, van het Vlaams personeelsstatuut van 13 januari 2006, voor kiezen om over te stappen, wordt salarisschaal NC224a, die is opgenomen in bijlage III, die bij dit besluit is gevoegd, toegekend.&nbsp;<br>
+<br>
+Schaal NC224a wordt toegekend aan het personeelslid dat wordt geworven op basis van een selectieprocedure die vanaf 1 juni 2024 is bekendgemaakt.<br>
+<br>
+De instellingsspecifieke salarisschaal C224 is opgenomen bijlage I, die bij dit besluit is gevoegd.
 
 ## TITEL II. Toelagen
 
@@ -83,3 +99,162 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid is belast me
 ### BIJLAGE
 
 Lijst van gevaarlijke, ongezonde of hinderlijke werken bij de Vlaamse Milieumaatschappij<br />1° de exploitatie van de rioolwaterzuiveringsinstallaties of complementaire inrichtingen;<br />2° het nemen van monsters;<br />3° de bediening van laboratoriumapparaten;<br />4° de manipulatie van chemicaliën, laboratoriumglaswerk en laboratoriumafval;<br />5° het verhitten van bijtende en corrosieve en/of oplosmiddelen;<br />6° het werken in de aanwezigheid van gasflessen onder druk;<br />7° preventief, curatief en accidenteel onderhoud van voertuigen;<br />8° het werken met oliën, vetten, ontvlambare producten, vuile, irriterende, agressieve en schadelijke stoffen;<br />9° het werken met sneldraaiende metaalbewerkingmachines, lasapparatuur - zowel elektrische lassen als gassmeltlassen - compressoren, centrifuge, slangenpomp, afsluiters en andere electro-mechanische werkzaamheden;<br />10° het monteren, demonteren en herstellen van afvalwatertoestellen;<br />11° de inventarisatie van lozingspunten langs openbare wegen;<br />12° het opvolgen van boringen.
+
+### BIJLAGE III
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>Schaal</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:10px; text-align:center; vertical-align:middle; width:48px"><strong>NC224a</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; width:55px"><strong>Graad</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; width:48px"><strong>Medewerker VMM</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>0</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">24.050</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>1</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">24.480</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>2</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">24.910</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>3</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">25.340</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>4</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">25.770</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>5</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">26.200</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>6</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">26.570</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>7</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">26.940</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>8</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">27.310</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>9</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">27.680</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>10</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">28.050</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>11</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">28.360</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>12</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">28.670</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>13</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">28.980</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>14</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">29.290</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>15</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">29.600</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>16</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">29.870</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>17</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">30.140</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>18</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">30.410</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>19</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">30.680</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>20</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">30.950</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>21</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">31.220</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>22</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">31.440</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>23</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">31.660</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>24</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">31.880</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>25</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.100</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>26</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.320</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>27</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.480</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>28</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.640</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>29</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.800</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>30</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">32.960</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>31</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">33.120</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>32</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">33.350</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>33</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">33.470</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>34</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">33.590</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:55px"><strong>35</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:10px; text-align:center; vertical-align:middle; width:48px">33.710</td>
+		</tr>
+	</tbody>
+</table>
