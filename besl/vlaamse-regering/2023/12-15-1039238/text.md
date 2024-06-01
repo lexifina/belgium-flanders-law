@@ -254,7 +254,7 @@ Het secretariaat brengt de betrokken partijen op de hoogte van de termijnen en e
 
 Tot aan de sluiting van de debatten kunnen de betrokken partijen die daarom verzoeken, het dossier dat ter beoordeling voorligt, op afspraak inzien op het secretariaat, overeenkomstig artikel 16, §3, vierde lid van het decreet van 28 oktober 2022.<br>
 <br>
-De betrokken partijen hebben op het afgesproken tijdstip toegang tot alle documenten die zijn neergelegd in het dossier dat ter beoordeling voorligt, met uitzondering van de vertrouwelijke overtuigingsstukken. Indien deze fysieke inzage voor een partij onmogelijk of onredelijk moeilijk is, wordt gezorgd voor redelijke en gepaste materiële bijstand.
+De betrokken partijen hebben op het afgesproken tijdstip toegang tot alle documenten die zijn neergelegd in het dossier dat ter beoordeling voorligt, met uitzondering van de informatie of de documenten die overeenkomstig artikel 22, vierde lid, van het decreet van 28 oktober 2022, bezorgd werden. Indien deze fysieke inzage voor een partij onmogelijk of onredelijk moeilijk is, wordt gezorgd voor redelijke en gepaste materiële bijstand.
 
 ## Onderafdeling 4. Intrekking verzoek om een oordeel
 
