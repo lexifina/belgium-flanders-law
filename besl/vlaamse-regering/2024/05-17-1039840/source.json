@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039840,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-17 tot uitvoering van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid en tot wijziging van het besluit van de Vlaamse Regering van 15 december 2023 over de samenstelling van en de procedure voor de geschillenkamer van het Vlaams Mensenrechteninstituut",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039840/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "309cc8f8b6be2af122430a983c23572924caf4783e657c30c5300b536d8f0e06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039840&param=informatie",
+  "as_of": "2024-06-01",
+  "made": "2024-05-17",
+  "gazette": "2024-07-15",
+  "numac": 2024006190,
+  "document_start": "2024-06-01",
+  "document_end": null,
+  "in_force": "2024-06-01",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2024-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
