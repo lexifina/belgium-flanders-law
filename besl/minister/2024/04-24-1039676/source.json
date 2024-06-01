@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039676,
+  "title": "Ministerieel besluit van 2024-04-24 tot lancering van een oproep voor het indienen van projectvoorstellen voor investeringen voor duurzame verwerking en afzet van landbouwproducten voor 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039676/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "ba0ca8a10caf156d43bac5820f3b03938c2454737e06ee1a61268aa0dd1bfc3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039676&param=informatie",
+  "as_of": "2024-06-01",
+  "made": "2024-04-24",
+  "gazette": "2024-05-13",
+  "numac": 2024004309,
+  "document_start": "2024-06-01",
+  "document_end": null,
+  "in_force": "2024-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
