@@ -40,7 +40,7 @@ De instelling voor bedrijfspensioenvoorziening, hierna het Vlaams Pensioenfonds 
 <br>
 De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Vlaams Pensioenfonds behoort.<br>
 <br>
-§ 3. Het Vlaams Pensioenfonds heeft als doel om aan de aangeslotenen pensioenuitkeringen als vermeld in artikel 2, eerste lid, 2°, van de IBP-wet, uit te betalen bij pensionering en de activiteiten te verrichten die eruit voortvloeien.<br>
+§ 3. Het Vlaams Pensioenfonds heeft als doel om aan de aangeslotenen pensioenuitkeringen als vermeld in artikel 2, eerste lid, 2°, van de IBP-wet, uit te betalen en de activiteiten te verrichten die eruit voortvloeien.<br>
 <br>
 § 4. In deze paragraaf wordt verstaan onder diensten van de Vlaamse overheid: de diensten, vermeld in artikel I.2, 1°, van het Vlaams personeelsstatuut van 13 januari 2006.<br>
 <br>
@@ -61,7 +61,9 @@ De openbare werkgevers, vermeld in het eerste lid van deze paragraaf, kunnen de 
 1° voldoet aan de kenmerken, vermeld in artikel 12, eerste lid;<br>
 2° voldoet aan de nadere voorwaarden voor het beheer, vermeld in artikel 9, tweede lid, 3°, tweede lid.<br>
 <br>
-De Vlaamse Regering bepaalt of voor de kabinetsaangestelden wordt voorzien in een publiek pensioenstelsel waarvan de uitvoering wordt toevertrouwd aan het Vlaams Pensioenfonds. Als de Vlaamse Regering beslist dat het publieke pensioenstelsel voor de kabinetsaangestelden identiek is aan het publieke pensioenstelsel van de openbare werkgevers vermeld in artikel 3, § 4, tweede lid, maakt het deel uit van het multi-inrichterspensioenstelsel vermeld in artikel 11.
+De Vlaamse Regering bepaalt of voor de kabinetsaangestelden wordt voorzien in een publiek pensioenstelsel waarvan de uitvoering wordt toevertrouwd aan het Vlaams Pensioenfonds. Als de Vlaamse Regering beslist dat het publieke pensioenstelsel voor de kabinetsaangestelden valt onder de toepassing van een identiek publiek pensioenstelsel zoals de openbare werkgevers, vermeld in artikel 3, §4, tweede lid, dat kunnen invoeren conform artikel 11, eerste lid,, maakt het deel uit van het multi-inrichterspensioenstelsel vermeld in artikel 11.<br>
+<br>
+§6. Alleen de openbare werkgevers, vermeld in paragraaf 4, tweede lid, kunnen het beheer van toezeggingen over arbeidsongeschiktheid aan hun contractuele personeelsleden toevertrouwen aan het Vlaams Pensioenfonds.
 
 ## Afdeling 2. Werking van het Vlaams Pensioenfonds
 
@@ -139,17 +141,17 @@ De regeringscommissaris kan van de bestuurders alle inlichtingen en ophelderinge
 
 ### ART 11.
 
-De openbare werkgevers, vermeld in artikel 3, § 4, tweede lid, voeren een identiek publiek pensioenstelsel in.<br>
+De openbare werkgevers, vermeld in artikel 3, § 4, tweede lid, kunnen een identiek publiek pensioenstelsel invoeren.<br>
 <br>
-Het publieke pensioenstelsel, vermeld in het eerste lid, is een multi-inrichterspensioenstelsel.<br>
+Als verschillende openbare werkgevers als vermeld in artikel 3, §4, tweede lid, een identiek publiek pensioenstelsel invoeren als vermeld in het eerste lid, is er sprake van een multi-inrichterspensioenstelsel.<br>
 <br>
 In het tweede lid wordt verstaan onder multi-inrichterspensioenstelsel: een identiek pensioenstelsel dat ingevoerd is door verschillende inrichters, waarvan de uitvoering toevertrouwd wordt aan dezelfde pensioeninstelling.<br>
 <br>
-De openbare werkgevers, vermeld in het eerste lid, sluiten een overeenkomst met toepassing van artikel 33/2 van de WAP, die de gevolgen opheft van de beëindiging van de arbeidsovereenkomst van een aangeslotene bij een inrichter van een multi-inrichterspensioenstelsel, om een andere reden dan overlijden of pensionering, die een nieuwe arbeidsovereenkomst sluit met een andere inrichter die aan hetzelfde multi-inrichterspensioenstelsel deelneemt.
+In geval van een multi-inrichterspensioenstelsel als vermeld in het derde lid sluiten de openbare werkgevers, vermeld in artikel 3, §4, tweede lid, die dat stelsel invoeren, een overeenkomst met toepassing van artikel 33/2 van de WAP, die de gevolgen opheft van de beëindiging van de arbeidsovereenkomst van een aangeslotene bij een inrichter van een multi-inrichterspensioenstelsel, om een andere reden dan overlijden of pensionering, die een nieuwe arbeidsovereenkomst sluit met een andere inrichter die aan hetzelfde multi-inrichterspensioenstelsel deelneemt.
 
 ### ART 12.
 
-Het publieke pensioenstelsel, vermeld in artikel 11, heeft de volgende kenmerken:<br>
+Het publieke pensioenstelsel van de openbare werkgevers, vermeld in artikel 3, §4, tweede lid, heeft de volgende kenmerken:<br>
 1° het betreft een pensioentoezegging van het type vaste bijdragen;<br>
 2° het publieke pensioenstelsel wordt uitsluitend gefinancierd door werkgeversbijdragen.<br>
 <br>

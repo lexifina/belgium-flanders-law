@@ -2,16 +2,16 @@
   "codex_id": 1029944,
   "title": "Decreet van 2018-11-23 betreffende het Vlaams Pensioenfonds en het publieke pensioenstelsel voor de werknemers van de diensten van de Vlaamse overheid en andere besturen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029944/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "467e8cc1d70d685a0e1fcfe427e56242e6f30ca47eea5219368db2375d932ed7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029944/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "cc7e7147247bfb69df60a183e33cc5f2fea99cf45c72eca153242349f7a09bad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029944&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-06-01",
   "made": "2018-11-23",
   "gazette": "2018-12-05",
   "numac": 2018032382,
   "document_start": "2018-11-15",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2024-06-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-01; future article versions excluded; article text as the API gives it"
 }
