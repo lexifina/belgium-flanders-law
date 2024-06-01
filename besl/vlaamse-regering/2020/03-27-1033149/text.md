@@ -76,7 +76,9 @@ In afwijking van het tweede lid is het akkoord van de Vlaamse minister, bevoegd 
 
 ### ART 6.
 
-Als een voorstel van beslissing, dat opgenomen is in een nota aan de Vlaamse Regering, een verhoging van het personeelsaantal inhoudt, vraagt de functioneel bevoegde minister het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken.
+De functioneel bevoegde minister vraagt het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken, als:<br>
+1° &nbsp;&nbsp; &nbsp;een voorstel van beslissing, dat opgenomen is in een nota aan de Vlaamse Regering een verhoging van het personeelsaantal inhoudt;<br>
+2° &nbsp;&nbsp; &nbsp;een voorontwerp van decreet een impact heeft op de lijst met gezagsfuncties, opgenomen in bijlage 4 bij het Vlaams personeelsstatuut van 13 januari 2006.
 
 ### ART 7.
 
