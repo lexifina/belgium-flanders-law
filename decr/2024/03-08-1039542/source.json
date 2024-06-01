@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039542,
+  "title": "Decreet van 2024-03-08 over het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039542/VolledigDocument?datum=2024-06-01",
+  "source_sha256": "fe95ca8ff79fb3263f0cf1a927b293f4d168288d6049038680f29ce1b7efd297",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039542&param=informatie",
+  "as_of": "2024-06-01",
+  "made": "2024-03-08",
+  "gazette": "2024-03-29",
+  "numac": 2024002927,
+  "document_start": "2024-06-01",
+  "document_end": null,
+  "in_force": "2024-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
