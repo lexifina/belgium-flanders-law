@@ -34,6 +34,44 @@ Een verschil in behandeling inzake de toegangs-, arbeids- en ontslagvoorwaarden 
 
 § 1. De intermediaire organisaties en de Vlaamse diensten werken actief mee aan de realisatie van de evenredige participatie en de gelijke behandeling. In dit kader zijn zij verplicht om:<br />1° jaarlijks een actieplan op te stellen waarin onder meer de doelstellingen, procedures, evaluatiemethodes en een stappenplan worden beschreven;<br />2° jaarlijks een voortgangsrapport over te maken aan de Vlaamse regering en het Vlaams Parlement, met een toelichting over de mate waarin zij hun vooropgestelde doelstellingen hebben gerealiseerd.<br /><br />Het voortgangsrapport en het actieplan bevatten minstens :<br />1° streefcijfers en de termijnen voor het behalen van die streefcijfers;<br />2° een kwantitatieve analyse van de vorderingen inzake de evenredige participatie van kansengroepen;<br />3° een kwalitatieve evaluatie van de inspanningen die zijn geleverd ter bevordering van een evenredige participatie van kansengroepen, met weergave van de knelpunten;<br />4° de acties ter bevordering van evenredige participatie.<br /><br />Wat betreft de private arbeidsbemiddelingsbureaus dient dit te gebeuren in het kader van de algemene rapporte-ringsverplichting van deze sector.<br /><br />§ 2. De Vlaamse diensten zijn verplicht om in overleg met de personeelsvertegenwoordigingen een evenredig participatiebeleid te ontwikkelen.<br /><br />§ 3. De Vlaamse regering bepaalt de nadere modaliteiten en procedures met betrekking tot het opmaken en indienen van het actieplan en het voortgangsrapport.
 
+### ART 7/1.
+
+§1. In dit artikel wordt verstaan onder Vlaamse administratie: de entiteiten, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 24 december 2004 houdende maatregelen ter bevordering en ondersteuning van het gelijkekansen- en diversiteitsbeleid in de Vlaamse administratie.<br>
+<br>
+§2. Voor de verwerking van persoonsgegevens van de Vlaamse administratie conform dit decreet op een gestructureerde en systematische wijze, treden de entiteiten op als verwerkingsverantwoordelijken als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de ver- werking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). De doeleinden voor de verwerking van persoonsgegevens door de verwerkingsverantwoordelijken betreffen de opdrachten, vermeld in artikel 5 en 7, wat betreft de Vlaamse administratie.<br>
+<br>
+De verwerking van de persoonsgegevens is beperkt tot wat noodzakelijk is om het doel, vermeld in het eerste lid, te bereiken.<br>
+<br>
+§3. De verwerkingsverantwoordelijken kunnen conform de bepalingen van dit decreet de volgende categorieën van persoonsgegevens verwerken:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;het rijksregisternummer met het doel om op een unieke wijze natuurlijke personen te identificeren;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens over de huidige betrekking;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over persoonlijke bijzonderheden;<br>
+6°&nbsp;&nbsp; &nbsp;de gegevens, vermeld in artikel 2, 8° en 9°;<br>
+7°&nbsp;&nbsp; &nbsp;financiële gegevens;<br>
+8°&nbsp;&nbsp; &nbsp;gegevens betreffende de gezondheid.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+&nbsp;<br>
+§4. De verwerkingsverantwoordelijken kunnen conform de bepalingen van dit decreet de persoonsgegevens van de Vlaamse administratie van de volgende categorieën van personen verwerken:<br>
+1°&nbsp;&nbsp; &nbsp;personeelsleden;<br>
+2°&nbsp;&nbsp; &nbsp;stagiairs;<br>
+3°&nbsp;&nbsp; &nbsp;sollicitanten;<br>
+4°&nbsp;&nbsp; &nbsp;personeelsleden die uitgestroomd zijn.<br>
+<br>
+De Vlaamse Regering kan de categorieën van personen, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§5. De gegevens die verwerkt worden conform dit decreet kunnen uitgewisseld worden met de organisaties die de Vlaamse Regering daarvoor machtigt, als dat noodzakelijk is in het kader van hun wettelijke opdracht of ter uitvoering van dit decreet.<br>
+<br>
+§6. De personen die toegang kunnen krijgen tot de persoonsgegevens zijn:<br>
+1°&nbsp;&nbsp; &nbsp;de personen die hiertoe aangesteld zijn door de Vlaamse administratie en de verwerkingsverantwoordelijken;<br>
+2°&nbsp;&nbsp; &nbsp;de personen die hiertoe aangesteld zijn door de organisaties, gemachtigd conform paragraaf 5.<br>
+<br>
+§7. De verwerkingsverantwoordelijken nemen de gepaste technische en organisatorische beveiligingsmaatregelen conform voormelde verordening.<br>
+<br>
+§8. De verwerkingsverantwoordelijken en de organisaties, vermeld in paragraaf 5, bewaren de voormelde categorieën van persoonsgegevens in ieder geval conform de bewaartermijnen in het kader van de oorspronkelijke verzamelingsdoeleinden. De persoonsgegevens die verkregen zijn in het kader van de doeleinden, bepaald in dit decreet, worden niet langer bewaard dan noodzakelijk is voor het doeleinde van de gegevensverwerking. De maximale bewaartermijn zal niet langer dan tien jaar zijn nadat het personeelslid is uitgestroomd, na de stage van de stagiair of de sollicitatieprocedure van de sollicitant bij de Vlaamse administratie, tenzij bepaalde toepasselijke regelgeving een langere maximale bewaartermijn vooropstelt.
+
 ### ART. 8.
 
 De Vlaamse regering kan ondernemingen, sectoren, instellingen, arbeidsorganisaties of lokale besturen ondersteunen bij de ontwikkeling van een bedrijfsbeleid van evenredige participatie en gelijke behandeling en kan passende maatregelen nemen voor de bevordering van de sociale dialoog tussen werkgevers en werknemers inzake het aanmoedigen van evenredige participatie en gelijke behandeling. De Vlaamse regering bepaalt, na advies van de SERV, de nadere modaliteiten van deze ondersteuning en maatregelen alsmede de procedure.
@@ -54,23 +92,33 @@ Hij die bij de beroepskeuzevoorlichting, de beroepsopleiding, de loopbaanbegelei
 
 ### ART. 12.
 
-§ 1. Wanneer een lid van het Vlaams overheids- en onderwijspersoneel, overeenkomstig de vigerende procedures, een met redenen omklede klacht heeft ingediend of een rechtsvordering instelt tot naleving van het decreet, mag de arbeidsverhouding niet beëindigd worden, noch de arbeidsvoorwaarden eenzijdig gewijzigd worden, behalve om redenen die vreemd zijn aan die klacht of aan die rechtsvordering.<br>
+§1. Wanneer een lid van het Vlaams overheids- en onderwijspersoneel&nbsp;een melding heeft gedaan of een klacht heeft ingediend of een rechtsvordering instelt tot naleving van het decreet, mag de arbeidsverhouding niet beëindigd worden, noch de arbeidsvoorwaarden eenzijdig gewijzigd worden, behalve om redenen die vreemd zijn aan die melding, aan die klacht of aan die rechtsvordering, of aan de inhoud ervan.<br>
 <br>
-§ 2. De bewijslast van deze redenen rust op de werkgever, wanneer de werknemer wordt ontslagen of de arbeidsvoorwaarden eenzijdig worden gewijzigd binnen twaalf maanden volgend op het indienen van de klacht. Deze bewijslast rust eveneens op de werkgever in geval van ontslag of eenzijdige wijziging van de arbeidsvoorwaarden nadat een rechtsvordering werd ingesteld, en dit tot drie maanden na het in kracht van gewijsde gaan van het vonnis.<br>
+§2. Om de bescherming, vermeld in paragraaf 1, te genieten moet de persoon op wie de vermeende inbreuk betrekking heeft aantonen dat er een melding werd gedaan, een klacht werd ingediend of een rechtsvordering werd ingesteld omwille van een inbreuk op dit decreet. Dit bewijs kan met elk rechtsmiddel geleverd worden.<br>
 <br>
-§ 3. Wanneer de werkgever de arbeidsverhouding beëindigt of de arbeidsvoorwaarden eenzijdig wijzigt in strijd met de bepalingen van § 1, verzoekt de werknemer of de werknemersorganisatie waarbij hij is aangesloten, hem opnieuw in de onderneming of de dienst op te nemen of hem zijn functie onder dezelfde voorwaarden als voorheen te laten uitoefenen.<br>
+Wanneer de werkgever, binnen twaalf maanden nadat deze kennis had van de melding of de klacht of nadat deze redelijkerwijs kennis kon hebben van de melding of klacht, de persoon op wie de vermeende inbreuk betrekking heeft, ontslaat of de arbeidsvoorwaarden eenzijdig wijzigt, valt de bewijslast dat de nadelige maatregel geen verband houdt met de melding of de klacht, of met de inhoud ervan, ten laste van de werkgever. Deze bewijslast valt eveneens ten laste van de werkgever in geval van ontslag of eenzijdige wijziging van de arbeidsvoorwaarden nadat de rechtsvordering werd ingesteld, en dit tot drie maanden na de dag waarop de rechterlijke beslissing in kracht van gewijsde is getreden.<br>
+<br>
+Wanneer de persoon op wie de vermeende inbreuk betrekking heeft een melding doet, een klacht indient of een rechtsvordering instelt of wanneer een persoon als vermeld in paragraaf 6 de handelingen, vermeld in paragraaf 6, stelt, kan die daarvan een schriftelijk en gedateerd bewijs vragen bij de instantie, rechtspersoon, vereniging of organisatie waar de melding wordt gedaan, de klacht wordt ingediend of de rechtsvordering wordt ingesteld.<br>
+<br>
+Dit schriftelijke bewijs, verstrekt door de instantie, rechtspersoon, vereniging of organisatie, vermeld in het derde lid, bevat de identiteit van de persoon, de ondernomen acties, de datum van de actie en de datum waarop het bewijs werd gevraagd<br>
+<br>
+§3. Wanneer de werkgever de arbeidsverhouding beëindigt of de arbeidsvoorwaarden eenzijdig wijzigt in strijd met de bepalingen van § 1, verzoekt de werknemer of de werknemersorganisatie waarbij hij is aangesloten, hem opnieuw in de onderneming of de dienst op te nemen of hem zijn functie onder dezelfde voorwaarden als voorheen te laten uitoefenen.<br>
 <br>
 Het verzoek moet met een aangetekende brief gebeuren binnen dertig dagen volgend op de datum van de kennisgeving van de opzegging, van de beÙindiging zonder opzegging of van de eenzijdige wijziging van de arbeidsvoorwaarden. De werkgever moet zich binnen dertig dagen volgend op de kennisgeving van de brief over het verzoek uitspreken.<br>
 <br>
 De werkgever die de werknemer opnieuw in de onderneming of de dienst opneemt of hem zijn functie onder dezelfde voorwaarden als voorheen laat uitoefenen, moet het wegens ontslag of wijziging van de arbeidsvoorwaarden gederfde loon betalen alsmede de werkgevers- en werknemersbijdragen op dat loon storten.<br>
 <br>
-§ 4. Wanneer de werknemer na het in § 3, eerste lid, bedoelde verzoek niet opnieuw wordt opgenomen of zijn functie niet onder dezelfde voorwaarden als voorheen kan uitoefenen en er geoordeeld werd dat het ontslag of de eenzijdige wijziging van de arbeidsvoorwaarden indruist tegen de bepalingen van § 1, moet de werkgever aan de werknemer een vergoeding betalen die, naar keuze van de werknemer, gelijk is hetzij aan een forfaitair bedrag dat overeenstemt met het brutoloon voor zes maanden, hetzij aan de werkelijk door de werknemer geleden schade; in laatstgenoemd geval moet de werknemer de omvang van de geleden schade kunnen bewijzen.<br>
+§4. Wanneer de werknemer na het in § 3, eerste lid, bedoelde verzoek niet opnieuw wordt opgenomen of zijn functie niet onder dezelfde voorwaarden als voorheen kan uitoefenen en er geoordeeld werd dat het ontslag of de eenzijdige wijziging van de arbeidsvoorwaarden indruist tegen de bepalingen van § 1, moet de werkgever aan de werknemer een schadevergoeding betalen die, naar keuze van de werknemer, gelijk is hetzij aan een forfaitair bedrag dat overeenstemt met het brutoloon voor zes maanden, hetzij aan de werkelijk door de werknemer geleden schade; in laatstgenoemd geval moet de werknemer de omvang van de geleden schade kunnen bewijzen.<br>
 <br>
-§ 5. De werkgever is verplicht dezelfde vergoeding uit te betalen, zonder dat de werknemer het in § 3, eerste lid, bedoelde verzoek moet indienen om opnieuw te worden opgenomen of zijn functie onder dezelfde voorwaarden als voorheen te kunnen uitoefenen:<br>
+De schadevergoeding, bedoeld in deze paragraaf, kan gecumuleerd worden met de schadevergoedingen wegens discriminatie, voorzien in artikel 28, §2, van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.<br>
+<br>
+§5. De werkgever is verplicht dezelfde schadevergoeding uit te betalen, zonder dat de werknemer het in § 3, eerste lid, bedoelde verzoek moet indienen om opnieuw te worden opgenomen of zijn functie onder dezelfde voorwaarden als voorheen te kunnen uitoefenen:<br>
 1° wanneer de werknemer de arbeidsovereenkomst verbreekt, omdat het gedrag van de werkgever in strijd is met de bepalingen van § 1, wat volgens de werknemer een reden is om de arbeidsovereenkomst zonder opzegging of voor het verstrijken ervan te verbreken;<br>
 2° wanneer de werkgever de werknemer heeft ontslagen om een dringende reden, op voorwaarde dat het bevoegde rechtscollege dit ontslag ongegrond acht en in strijd met de bepalingen van § 1.<br>
 <br>
-§ 6. Personen die aan een slachtoffer van discriminatie steun verlenen door het slachtoffer te verdedigen of te vertegenwoordigen, of door voor het slachtoffer te getuigen, genieten dezelfde bescherming als de bescherming, vermeld in paragraaf 1 tot en met 5.
+De schadevergoeding, bedoeld in deze paragraaf, kan gecumuleerd worden met de schadevergoedingen wegens discriminatie, voorzien in artikel 28, §2, van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.<br>
+<br>
+§6. Personen die aan een slachtoffer van discriminatie steun verlenen door het slachtoffer te verdedigen of te vertegenwoordigen, of door voor het slachtoffer te getuigen, genieten dezelfde bescherming als de bescherming, vermeld in paragraaf 1 tot en met 5.
 
 ### ART. 13.
 
@@ -91,6 +139,12 @@ Wanneer afbreuk wordt gedaan aan de statutaire opdrachten die ze zich tot doel h
 ### ART. 17.
 
 Aan eenieder die op de Vlaamse arbeidsmarkt discriminatie bedrijft jegens een persoon wegens zijn geslacht, een zogenaamd ras, etnische afstamming, godsdienst of overtuiging, handicap, leeftijd of seksuele geaardheid kan, voor zover de feiten ook voor strafvervolging vatbaar zijn en behoudens indien de discriminatie strafrechtelijk wordt vervolgd, een administratieve geldboete worden opgelegd van 250 tot 2.500 euro. Deze bedragen zijn ook van toepassing op de werkgever of intermediaire organisatie die niet binnen de door het gerecht vastgestelde termijn gevolg geeft aan het op basis van artikel 15 vastgestelde gerechtelijke bevel een einde te stellen aan een discriminerende toestand. De administratieve geldboete wordt opgelegd door de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren.
+
+### ART 17bis.
+
+Elk vonnis of arrest dat door de hoven en rechtbanken wordt gewezen op grond van dit decreet wordt binnen acht dagen te rekenen vanaf de uitspraak ter kennis gebracht aan het Vlaams Mensenrechteninstituut, vermeld in het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, door de griffier van het betrokken rechtscollege.<br>
+<br>
+Bovendien licht de griffier van het hof of de rechtbank waar een beroep, verzet of derdenverzet, is ingesteld tegen een rechterlijke beslissing als vermeld in het eerste lid onverwijld het voormelde Vlaams Mensenrechteninstituut in.
 
 ### ART. 18.
 
