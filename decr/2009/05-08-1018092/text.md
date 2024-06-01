@@ -4041,6 +4041,22 @@ De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten en inst
 
 <P>De Vlaamse Regering zorgt er voor dat betreffende de gebouwen die eigendom   zijn van en gebruikt worden door de diensten van de homogene beleidsdomeinen van   de Vlaamse overheid en de instellingen die onder het Vlaamse Gewest en de   Vlaamse Gemeenschap ressorteren een publiek beschikbare inventaris wordt   opgesteld. Deze inventaris bevat minstens de volgende gegevens :<BR>1° de   vloeroppervlakte in m<SUP>2</SUP>;<BR>2° de energieprestaties van elk   gebouw;<BR>3° andere nuttige energiegegevens.<BR></P>  <P>De Vlaamse Regering kan beslissen om die verplichting uit te breiden tot de   ondergeschikte besturen die onder het administratief toezicht van het Vlaamse   Gewest staan. </P>
 
+### ART 12.3.2.
+
+§1. Elke publieke organisatie stelt de energieverbruiks- en productiegegevens en, waar beschikbaar, de fysische kenmerken van de installaties en gebouwen, van de gebouwen waarvan ze gebruiker is via een platform publiek beschikbaar als open data die door iedereen vrij gebruikt, hergebruikt en gedeeld kunnen worden. De voormelde gegevens worden minstens eenmaal per maand geactualiseerd.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen over welke gegevens beschikbaar worden gesteld, de wijze waarop deze beschikbaar worden gesteld en over de werking van het platform, vermeld in het eerste lid.<br>
+<br>
+De energieverbruiks- en productiegegevens, vermeld in het eerste lid, omvatten minstens:<br>
+1° de kwartierwaarden van afname en injectie voor elektriciteit, de uurwaarden voor gas, de maandpieken en het opgestelde nominale vermogen van aanwezige decentrale productie-eenheden voor de toegangspunten waarvan de publieke organisatie titularis en netgebruiker is;<br>
+2° de energieverbruiken ten behoeve van warmte of koude, onder meer van mazout, pellets, het energieverbruik uit een koude- of warmtenet, verdeeld op basis van de werkelijk gemeten of zo realistisch mogelijk ingeschatte verbruiken, minstens op maandbasis.<br>
+<br>
+De fysische kenmerken van de installaties en gebouwen, vermeld in het eerste lid, omvatten minstens de vloeroppervlakte in m2, de energieprestaties en andere nuttige energiegegevens.<br>
+<br>
+§2. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op gebouwen bestemd voor defensie.<br>
+<br>
+De verplichting om de fysische kenmerken van de installaties en gebouwen publiek beschikbaar te stellen als open data is niet van toepassing op gevangenissen.
+
 ## [HOOFDSTUK IV. Databank voor premies en subsidies (ing. decr. 9 juli 2021, art. 3, I: 16 juli 2021)]
 
 ### ART 12.4.1.
