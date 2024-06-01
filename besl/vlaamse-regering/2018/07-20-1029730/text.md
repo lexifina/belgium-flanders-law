@@ -27,7 +27,7 @@ Het agentschap kan per provincie een opdrachthouder Consulentenwerking erkennen 
 ### ART 3.
 
 Een opdrachthouder Consulentenwerking moet aan al de volgende voorwaarden voldoen om erkend te worden en te blijven:<br>
-1° opgericht zijn door een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, door een vennootschap met rechtspersoonlijkheid en met een sociaal oogmerk, of door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten of een openbaar centrum voor maatschappelijk welzijn dat erkend of vergund is door het agentschap of door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+1° opgericht zijn door een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, door een vennootschap met rechtspersoonlijkheid en erkend als een sociale onderneming, of door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten of een openbaar centrum voor maatschappelijk welzijn dat erkend of vergund is door het agentschap of door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 2° over expertise beschikken in beeldvorming, begeleiding en kennisverspreiding rond personen met een handicap of met een vermoeden van handicap en bijkomende psychische problemen;<br>
 3° de verbintenis aangaan om op elk verzoek om consulentenwerking als vermeld in artikel 5, in te gaan.
 
@@ -43,7 +43,9 @@ Het agentschap deelt de beslissing tot erkenning of tot weigering van de erkenni
 <br>
 Het agentschap kan de erkenning die het verleend heeft aan een dienst of organisatie als vermeld in artikel 3, 1°, opschorten of intrekken als een van de voorwaarden, vermeld in artikel 3, niet meer vervuld is.<br>
 <br>
-De beslissing tot opschorting of intrekking van de erkenning wordt meegedeeld aan de dienst of organisatie, vermeld in artikel 3, 1°, van dit besluit. Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap is niet van toepassing, met uitzondering van artikel 17.
+De beslissing tot opschorting of intrekking van de erkenning wordt meegedeeld aan de dienst of organisatie, vermeld in artikel 3, 1°, van dit besluit. Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap is niet van toepassing, met uitzondering van artikel 17.<br>
+<br>
+De opdrachthouder Consulentenwerking erkent het belang van het gebruik van het Nederlands en engageert zich voor het gebruik daarvan bij de uitvoering van de gesubsidieerde activiteiten.
 
 ### ART 5.
 
@@ -78,7 +80,7 @@ Als de persoon met een handicap of met een vermoeden van handicap zijn woonplaat
 
 ### ART 9.
 
-Het agentschap kent aan een opdrachthouder Consulentwerking een subsidie van maximaal 57.750 euro (zevenvijftigduizend zevenhonderdvijftig euro) per jaar toe.<br>
+Het agentschap kent aan een opdrachthouder Consulentwerking een subsidie van maximaal 180.000 euro (honderdtachtigduizend euro) per jaar toe.<br>
 <br>
 Het subsidiebedrag, vermeld in het eerste lid, wordt op de volgende wijze uitbetaald:<br>
 1° 80% van het subsidiebedrag wordt betaald in de tweede maand van het kalenderjaar waarop het subsidiebedrag betrekking heeft;<br>
@@ -92,7 +94,9 @@ Een subsidie als vermeld in het eerste lid, kan worden aangewend voor:<br>
 <br>
 Minstens 80% van het subsidiebedrag, vermeld in het eerste lid, wordt aangewend voor personeelskosten. Maximaal 20% mag worden aangewend voor werkingskosten.<br>
 <br>
-Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: het maximale geïndexeerde subsidiebedrag van het voorgaande jaar x G-index van december van het voorgaande jaar/G-index van december van het jaar daarvoor.
+Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: het maximale geïndexeerde subsidiebedrag van het voorgaande jaar x G-index van december van het voorgaande jaar/G-index van december van het jaar daarvoor.<br>
+<br>
+Als uit de evaluatie van het jaarverslag, vermeld in artikel 10 van dit besluit, of het jaarverslag, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, blijkt dat het agentschap te veel subsidies heeft betaald, wordt het te veel betaalde bedrag teruggevorderd.
 
 ### ART 10.
 
@@ -100,13 +104,20 @@ De opdrachthouder Consulentenwerking maakt jaarlijks een verslag op over de cons
 <br>
 Het jaarverslag, vermeld in het eerste lid, bevat de volgende elementen:<br>
 1° informatie over de personen met een handicap of een vermoeden van handicap aan wie ondersteuning wordt geboden (doelgroep, leeftijd ...);<br>
+1°/1: een overzicht van alle cliënt gerelateerde contacten, waaruit blijkt dat er per jaar minstens driehonderd cliënt gerelateerde contacten per voltijds equivalent zijn gebeurd;<br>
 2° de volgende informatie over de geboden ondersteuning:<br>
 a) voortraject;<br>
 b) samenwerking met andere actoren die betrokken zijn bij de ondersteuning van de persoon met een handicap of met een vermoeden van handicap;<br>
 c) in voorkomend geval informatie over de vervolgondersteuning;<br>
 3° een beschrijving van de wijze waarop samenwerking met andere netwerken en organisaties is gerealiseerd.<br>
 <br>
-Het agentschap kan bijkomende elementen bepalen.
+Het agentschap kan bijkomende elementen bepalen.<br>
+<br>
+In het tweede lid wordt verstaan onder een cliënt gerelateerd contact: elk contact van minimaal een uur met de cliënt, het netwerk, ondersteunende diensten of mogelijke nieuwe ondersteunende diensten in functie van de opdrachten van de consulentenwerking in het traject van de cliënt.
+
+### ART 10/1.
+
+De Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, kan ter plaatse controles uitvoeren op de financiële stukken.
 
 ### ART 11.
 
