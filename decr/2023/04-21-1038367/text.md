@@ -62,6 +62,25 @@ In artikel 3.2 van dezelfde codex, gewijzigd bij de decreten van 16 juli 2021 en
 &nbsp;4° het bestaande derde lid, dat het vierde lid wordt, wordt vervangen door wat volgt:<br>
 “De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid, voor de adviesverplichting, vermeld in het eerste en tweede lid, en voor het voorbijgaan aan de adviesverplichting, vermeld in het derde lid.”.
 
+### ART 9.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 3 juni 2022, wordt een artikel 3.3/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3.3/1. De gemeente kan bij verordening de gevallen bepalen waarin ze een vergoeding vraagt voor de uitvoering, op verzoek, van een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.<br>
+<br>
+De vergoeding, vermeld in het eerste lid, kan alleen gevraagd worden aan de natuurlijke persoon of de rechtspersoon, vermeld in artikel 3.7, §1.<br>
+<br>
+De volgende gevallen zijn altijd een verzoek als vermeld in het eerste lid:<br>
+1° een melding van herstel als vermeld in artikel 3.10, derde lid;<br>
+2° het verzoek tot afgifte van een conformiteitsattest, vermeld in artikel 3.7, §1, eerste lid;<br>
+3° een melding van herstel van eerder vastgestelde gebreken in de loop van een procedure om een woning ongeschikt of onbewoonbaar te verklaren, met toepassing van artikel 3.12.<br>
+<br>
+Om de volgende conformiteitsonderzoeken uit te voeren kan de gemeente geen vergoeding vragen:<br>
+1° het conformiteitsonderzoek na een melding als vermeld in artikel 3.10, eerste lid;<br>
+2° het conformiteitsonderzoek na een verzoek om een woning ongeschikt of onbewoonbaar te verklaren met toepassing van artikel 3.13.<br>
+<br>
+De Vlaamse Regering kan voor de vergoeding, vermeld in het eerste lid, een maximumbedrag bepalen. De vergoeding die de gemeente aanrekent, is in ieder geval beperkt tot de werkelijke kosten.”.
+
 ### ART 10.
 
 In artikel 3.6 van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
