@@ -54,7 +54,7 @@ Het agentschap heeft de volgende taken:<br>
 2° slachtoffers onthalen, informeren, bijstaan en doorverwijzen;<br>
 3° juridische eerstelijnsbijstand organiseren als vermeld in artikel 5, § 1, II, 8°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 4° hulp- en dienstverlening aan gedetineerden en geïnterneerden als vermeld in artikel 5, § 1, II, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, coördineren;<br>
-5° de ketenaanpak intra familiaal geweld en de Family Justice Centers coördineren;<br>
+5° de ketenaanpak intra familiaal geweld en de Veilige Huizen coördineren;<br>
 6° de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik organiseren;<br>
 7° sectoroverschrijdende netwerken op het kruispunt van justitie, politie, welzijn en zorg, of de deelname aan dergelijke netwerken uitbouwen, installeren, faciliteren en in stand houden;<br>
 8° het algemeen Handhavingsbeleid op bestuurlijk en strafrechtelijk niveau ontwikkelen en coördineren, en de uitvoering van het kaderdecreet bestuurlijke handhaving implementeren;<br>
