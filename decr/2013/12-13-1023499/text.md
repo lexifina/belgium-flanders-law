@@ -7124,7 +7124,9 @@ De belastingen, vermeld in deze codex, verjaren na verloop van vijf jaar   vanaf
 
 ### ART. 3.14.2.0.1.
 
-De termijn, vermeld in artikel 3.14.1.0.1, kan worden gestuit op de wijze,   vermeld in artikel 2244 tot en met artikel 2250 van het Burgerlijk Wetboek, of   door afstand te doen van de termijn die verlopen is op de verjaring. In geval   van stuiting van de verjaring treedt een nieuwe verjaring in, die op dezelfde   wijze kan worden gestuit na verloop van vijf jaar na de laatste akte of   handeling waardoor de vorige verjaring is gestuit, als geen geding voor het   gerecht aanhangig is.<BR>
+De termijn, vermeld in artikel 3.14.1.0.1, kan worden gestuit op de wijze, vermeld in artikel 2244 tot en met artikel 2250 van het Burgerlijk Wetboek, door de verzending met een aangetekende brief van elke aanmaning tot betaling waarin de gegevens van de schuldvordering volledig en ondubbelzinnig zijn opgenomen, of door afstand te doen van de termijn die verlopen is op de verjaring. In geval van stuiting van de verjaring treedt een nieuwe verjaring in, die op dezelfde wijze kan worden gestuit na verloop van vijf jaar na de laatste akte of handeling waardoor de vorige verjaring is gestuit, als geen geding voor het gerecht aanhangig is.<br>
+<br>
+Voor een aanmaning tot betaling die met een aangetekende brief wordt verzonden, geldt de datum van de poststempel op het verzendingsbewijs als indieningsdatum van die aanmaning. Als de schuldenaar of de medeschuldenaar geen bekende woonplaats in België of in het buitenland heeft, wordt de aanmaning tot betaling met een aangetekende brief aan de procureur des Konings van Brussel verzonden.
 
 ## Afdeling 3 Schorsing
 
