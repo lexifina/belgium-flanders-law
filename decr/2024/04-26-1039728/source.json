@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039728,
+  "title": "Decreet van 2024-04-26 tot wijziging van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, wat betreft de dringende verwijdering van afvalstoffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039728/VolledigDocument?datum=2024-06-07",
+  "source_sha256": "06af75f79d97cb9faac0bc390d95db6f8b0b0a25988b32c781168c6be56606c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039728&param=informatie",
+  "as_of": "2024-06-07",
+  "made": "2024-04-26",
+  "gazette": "2024-05-28",
+  "numac": 2024004799,
+  "document_start": "2024-06-07",
+  "document_end": null,
+  "in_force": "2024-06-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
