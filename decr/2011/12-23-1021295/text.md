@@ -481,6 +481,18 @@ Als dat wordt gerechtvaardigd door de noodzaak om een adequaat afvalbeheer en de
 
 Alle afvalstoffen worden volgens hun herkomst of aard in een van de volgende hoofdcategorieën ingedeeld :<br />1° huishoudelijke afvalstoffen;<br />2° bedrijfsafvalstoffen.<br /><br />Afvalstoffen kunnen bovendien in een of meer van de volgende aanvullende categorieën worden ingedeeld :<br />1° gevaarlijke afvalstoffen;<br />2° bijzondere afvalstoffen;<br />3° gemengd stedelijk afval.<br /><br />De Vlaamse Regering kan nadere regels vaststellen over het beheer van de afvalstoffen ingedeeld in de categorieën, vermeld in het eerste en het tweede lid.<br /><br />De voorschriften die gelden voor de hoofdcategorie en de aanvullende categorieën waarin een afvalstof is ingedeeld, zijn cumulatief van toepassing, zoals bepaald in artikel 29 of 32.<br /><br />
 
+### ART 22/1.
+
+De Vlaamse minister bevoegd voor het leefmilieu kan in uitzonderlijke omstandigheden, waarbij er een direct gevaar is voor volksgezondheid, veiligheid of milieuhygiëne, de onmiddellijke verwijdering van afvalstoffen door verbranden, meeverbranden of storten bevelen in een inrichting ingedeeld in de hiervoor voorziene rubrieken van de indelingslijst, zoals vastgesteld door de Vlaamse Regering volgens artikel 5.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+Onverminderd de bepalingen in het eerste lid kan het bevel dat wordt gegeven afwijken van de verleende vergunning. Het bevel mag geen gevaar opleveren voor de gezondheid van de mens en geen nadelige gevolgen hebben voor het milieu en met name:<br>
+a) zonder risico voor water, lucht, bodem, fauna en flora;<br>
+b) zonder geluids- of stankhinder te veroorzaken;<br>
+c) zonder schade te berokkenen aan natuur- en landschapsschoon.<br>
+<br>
+In het bevel kunnen bijkomende voorwaarden worden opgenomen om de doelstellingen in het tweede lid te realiseren.<br>
+&nbsp;
+
 ## Afdeling 2 Bedrijfsafvalstoffen
 
 ### ART. 23.
