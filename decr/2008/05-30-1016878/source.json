@@ -2,16 +2,16 @@
   "codex_id": 1016878,
   "title": "Decreet van 2008-05-30 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016878/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "e2f48b1832f795bf7d348f2cfef5efe128aa222b3d6f2b667b191c90aabfad37",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016878/VolledigDocument?datum=2024-06-10",
+  "source_sha256": "4d585f48f653da13d993d8f2ea3234929f04926ec8d21a16da086320b2fefcfc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016878&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2024-06-10",
   "made": "2008-05-30",
   "gazette": "2008-07-04",
   "numac": 2008202393,
   "document_start": "2008-07-14",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-06-10",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2024-06-10; future article versions excluded; article text as the API gives it"
 }
