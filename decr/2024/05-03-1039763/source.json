@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039763,
+  "title": "Decreet van 2024-05-03 tot wijziging van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039763/VolledigDocument?datum=2024-06-10",
+  "source_sha256": "693389f7fe65dcfe9aac887298e088c7db014937790b511dbdb923ee155df677",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039763&param=informatie",
+  "as_of": "2024-06-10",
+  "made": "2024-05-03",
+  "gazette": "2024-05-31",
+  "numac": 2024005231,
+  "document_start": "2024-06-10",
+  "document_end": null,
+  "in_force": "2024-06-10",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2024-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
