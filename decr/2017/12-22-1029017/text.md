@@ -250,9 +250,9 @@ De verhindering, het ontslag, het verval en de afstand van het mandaat van lid v
 
 ### ART 16.
 
-Het gemeenteraadslid dat wegens een beperking niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een situatie als vermeld in artikel 10, met uitzondering van het verbod in verband met bloed- en aanverwantschap, vermeld in punt 7° van dat artikel, ten aanzien van het lid met een beperking, en een situatie als vermeld in artikel 12.<br>
+Het gemeenteraadslid dat wegens een&nbsp;handicap niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een situatie als vermeld in artikel 10, met uitzondering van het verbod in verband met bloed- en aanverwantschap, vermeld in punt 7° van dat artikel, ten aanzien van het lid met een handicap, en een situatie als vermeld in artikel 12.<br>
 <br>
-De Vlaamse Regering bepaalt de criteria tot vaststelling van de hoedanigheid van een gemeenteraadslid met een beperking als vermeld in het eerste lid.<br>
+De Vlaamse Regering bepaalt de criteria tot vaststelling van de hoedanigheid van een gemeenteraadslid met een&nbsp;handicap als vermeld in het eerste lid.<br>
 <br>
 Bij het verlenen van de bijstand krijgt de vertrouwenspersoon dezelfde middelen ter beschikking en heeft hij dezelfde verplichtingen als het gemeenteraadslid, maar hij is niet gehouden tot de eedaflegging. Hij heeft ook recht op presentiegeld onder dezelfde voorwaarden als het gemeenteraadslid.
 
@@ -602,9 +602,9 @@ Als na de verkiezing van de voorzitter van het bijzonder comité voor de sociale
 <br>
 § 3. Het college van burgemeester en schepenen bestaat uit personen van verschillend geslacht.<br>
 <br>
-Als het college van burgemeester en schepenen na de verkiezing van de voorzitter van het bijzonder comité voor de sociale dienst niet rechtsgeldig blijkt te zijn samengesteld overeenkomstig het eerste lid, wordt de laatste overeenkomstig artikel 43 of 49, § 1, verkozen schepen in rang, van rechtswege vervangen door het gemeenteraadslid van het andere geslacht dat op dezelfde lijst met de meeste naamstemmen verkozen is. Als verschillende raadsleden van het andere geslacht een gelijk aantal naamstemmen hebben behaald, krijgt het raadslid dat de hoogste plaats op de lijst bekleedt, voorrang onder die raadsleden. Als er geen verkozen gemeenteraadsleden van het andere geslacht op die lijst voorkomen, wordt de schepen van rechtswege vervangen door de eerste opvolger van het andere geslacht op die lijst.<br>
+Als het college van burgemeester en schepenen&nbsp;na de eedaflegging van de burgemeester niet rechtsgeldig blijkt te zijn samengesteld overeenkomstig het eerste lid, wordt de laatste overeenkomstig artikel 43 of 49, § 1, verkozen schepen in rang, van rechtswege vervangen door het gemeenteraadslid van het andere geslacht dat op dezelfde lijst met de meeste naamstemmen verkozen is. Als verschillende raadsleden van het andere geslacht een gelijk aantal naamstemmen hebben behaald, krijgt het raadslid dat de hoogste plaats op de lijst bekleedt, voorrang onder die raadsleden. Als er geen verkozen gemeenteraadsleden van het andere geslacht op die lijst voorkomen, wordt de schepen van rechtswege vervangen door de eerste opvolger van het andere geslacht op die lijst.<br>
 <br>
-In afwijking van het tweede lid wordt, als het college van burgemeester en schepenen na de verkiezing van de voorzitter van het bijzonder comité voor de sociale dienst niet rechtsgeldig blijkt te zijn samengesteld overeenkomstig het eerste lid, en als de overeenkomstig artikel 43 of 49, § 1, laatst verkozen schepen in rang, bij de verkiezing van de gemeenteraadsleden verkozen is op een lijst die maar één kandidaat bevat, de voorlaatste schepen in rang vervangen overeenkomstig het tweede lid. Als ook de voorlaatste schepen in rang verkozen werd op een lijst die maar een kandidaat bevat, wordt de derde laatste schepen in rang of, in voorkomend geval, de eerstvolgende laatste schepen in rang, vervangen overeenkomstig dezelfde bepalingen.<br>
+In afwijking van het tweede lid wordt, als het college van burgemeester en schepenen&nbsp;na de eedaflegging van de burgemeester niet rechtsgeldig blijkt te zijn samengesteld overeenkomstig het eerste lid, en als de overeenkomstig artikel 43 of 49, § 1, laatst verkozen schepen in rang, bij de verkiezing van de gemeenteraadsleden verkozen is op een lijst die maar één kandidaat bevat, de voorlaatste schepen in rang vervangen overeenkomstig het tweede lid. Als ook de voorlaatste schepen in rang verkozen werd op een lijst die maar een kandidaat bevat, wordt de derde laatste schepen in rang of, in voorkomend geval, de eerstvolgende laatste schepen in rang, vervangen overeenkomstig dezelfde bepalingen.<br>
 <br>
 § 4. De schepen die overeenkomstig paragraaf 3 buiten de gemeenteraad is benoemd en de schepen, vermeld in paragraaf 1, derde lid, zijn in alle gevallen stemgerechtigd in het college van burgemeester en schepenen.<br>
 <br>
@@ -1462,7 +1462,7 @@ De leden van de districtsraden worden voor zes jaar gekozen door de vergadering 
 
 Het aantal leden dat voor de districtsraden verkozen moet worden, wordt bepaald op twee derde van het aantal leden, vermeld in artikel 4, § 1, toegepast op de overeenkomstige gebiedsomschrijvingen. Het resultaat van die deling wordt afgerond naar het hoger oneven getal.<br>
 <br>
-Artikel 4, § 3, is van toepassing op de districtsraad met dien verstande dat "gemeente" wordt gelezen als "district", "gemeenteraadsleden" wordt gelezen als "districtsraadsleden" en "gemeenteraadsverkiezingen" wordt gelezen als "districtsraadsverkiezingen".
+Artikel 4, § 3, is van toepassing op de districtsraad met dien verstande dat "gemeente" wordt gelezen als "district", "gemeenteraadsleden" wordt gelezen als "districtsraadsleden" en "gemeenteraadsverkiezingen" wordt gelezen als "districtsraadsverkiezingen".&nbsp;Als een gemeente de beslissing tot oprichting van een nieuw district bekendgemaakt heeft, vermeldt de Vlaamse Regering, in voorkomend geval in de lijst van het aantal te verkiezen districtsraadsleden, het aantal te verkiezen districtsraadsleden&nbsp;van het nieuwe district op basis van het aantal personen die ingeschreven zijn in het Rijksregister van de natuurlijke personen en die op 1 januari van het jaar van de districtsraadsverkiezingen hun hoofdverblijfplaats in de gebiedsomschrijving en binnen de grenzen van het nieuwe district hebben.
 
 ### ART 119.
 
@@ -1818,11 +1818,11 @@ In deze paragraaf wordt verstaan onder vergoedingen, wedden en presentiegelden d
 
 ### ART 155.
 
-De burgemeester, de schepen, de voorzitter van het vast bureau, het lid van het vast bureau en de voorzitter van het bijzonder comité voor de sociale dienst, die wegens een beperking niet zelfstandig hun mandaat kunnen vervullen, kunnen zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een van de volgende gevallen:<br>
+De burgemeester, de schepen, de voorzitter van het vast bureau, het lid van het vast bureau en de voorzitter van het bijzonder comité voor de sociale dienst, die wegens een&nbsp;handicap niet zelfstandig hun mandaat kunnen vervullen, kunnen zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een van de volgende gevallen:<br>
 1° een situatie als vermeld in artikel 45, tweede lid, en artikel 80 of 101, meer bepaald wat betreft de verwijzing naar artikel 10, met uitzondering van het verbod in verband met bloed- en aanverwantschap;<br>
 2° een situatie als vermeld in artikel 47, 60, 80 of 103.<br>
 <br>
-De Vlaamse Regering bepaalt de criteria voor de vaststelling van de beperking, vermeld in het eerste lid.<br>
+De Vlaamse Regering bepaalt de criteria voor de vaststelling van de handicap, vermeld in het eerste lid.<br>
 <br>
 Bij het verlenen van de bijstand krijgt de vertrouwenspersoon dezelfde middelen ter beschikking en heeft hij dezelfde verplichtingen als een raadslid. Hij moet de eed echter niet afleggen. Hij heeft voor elke vergadering ook recht op presentiegeld onder dezelfde voorwaarden als een raadslid.
 
@@ -1880,6 +1880,10 @@ De databank, vermeld in het tweede lid, bevat de volgende gegevens van de mandat
 <br>
 De gegevens van de mandatarissen, vermeld in het vijfde lid, worden met uitzondering van het rijksregisternummer, het geslacht en de geboortedatum publiek toegankelijk gemaakt door de entiteit die door de Vlaamse Regering overeenkomstig het tweede lid is aangewezen.<br>
 <br>
+De gegevens, vermeld in het vijfde lid, kunnen worden meegedeeld aan de instanties, vermeld in artikel I.3, 1° tot en met 9°, van het Bestuursdecreet van 7 december 2018, voor zover die mededeling past in het kader van een wettelijk vastgelegde plicht of opdracht van algemeen belang van de ontvangende instantie en de mededeling noodzakelijk is om die wettelijk vastgelegde plicht of opdracht te vervullen. Als de mededeling aan die voorwaarden voldoet, wordt het doeleinde van een mededeling als verenigbaar beschouwd met het doeleinde van de oorspronkelijke verwerking, vermeld in het derde lid.<br>
+<br>
+De ontvangende instantie, vermeld in het zevende lid, is met betrekking tot latere verwerkingen van de gegevens, vermeld in het vijfde lid, de verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
 De gegevens, vermeld in het vijfde lid, worden bewaard overeenkomstig de regeling die geldt met toepassing van artikel III.87 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 De Vlaamse Regering regelt de nadere uitvoering van dit artikel.
@@ -1910,7 +1914,7 @@ In gemeenten met meer dan 60.000 inwoners kan een adjunct-algemeen-directeur wor
 
 Na hun aanstelling leggen de algemeen directeur, de adjunct-algemeendirecteur en de financieel directeur tijdens een openbare vergadering van de gemeenteraad de volgende eed af in handen van de voorzitter: "Ik zweer de verplichtingen van mijn ambt trouw na te komen.".<br>
 <br>
-Een personeelslid als vermeld in het eerste lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.
+Een personeelslid als vermeld in het eerste lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.
 
 ### ART 164.
 
@@ -2018,7 +2022,7 @@ De financieel directeur staat in volle onafhankelijkheid in voor:<br>
 <br>
 De financieel directeur kan een dwangbevel uitvaardigen, geviseerd en uitvoerbaar verklaard door het college van burgemeester en schepenen of door het vast bureau, om onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen. Dat dwangbevel wordt betekend bij gerechtsdeurwaardersexploot. Dat exploot stuit de verjaring.<br>
 <br>
-Een dwangbevel als vermeld in het tweede lid kan door het college van burgemeester en schepenen of door het vast bureau alleen worden geviseerd en uitvoerbaar verklaard worden als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van deze melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. De gemeente en het openbaar centrum voor maatschappelijk welzijn kunnen administratieve kosten aanrekenen voor die aangetekende brief. Die kosten zijn ten laste van de schuldenaar en kunnen ook ingevorderd worden via het dwangbevel.<br>
+Een dwangbevel als vermeld in het tweede lid kan door het college van burgemeester en schepenen of door het vast bureau alleen worden geviseerd en uitvoerbaar verklaard worden als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van deze melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. De gemeente en het openbaar centrum voor maatschappelijk welzijn kunnen administratieve kosten aanrekenen voor die aangetekende brief. Die kosten zijn ten laste van de schuldenaar en kunnen ook ingevorderd worden via het dwangbevel.<br>
 <br>
 Schulden van een publieke rechtspersoon kunnen nooit via een dwangbevel als vermeld in het tweede lid worden ingevorderd.<br>
 <br>
@@ -2071,7 +2075,7 @@ Voor het personeel dat ingezet wordt in de gemeentelijke onderwijsinstellingen o
 <br>
 Voor een maatschappelijk werker van het openbaar centrum voor maatschappelijk welzijn zijn ambt opneemt, legt hij de volgende eed af in handen van de voorzitter van de raad voor maatschappelijk welzijn: "Ik zweer de verplichtingen van mijn ambt trouw na te komen.".<br>
 <br>
-Een personeelslid als vermeld in het tweede lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.<br>
+Een personeelslid als vermeld in het tweede lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.<br>
 <br>
 § 2. Met het oog op de verwezenlijking van de doelstellingen, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, en in artikel 2 van dit decreet, en ter uitvoering van de taken die aan hem opgedragen zijn door de algemeen directeur namens de raad voor maatschappelijk welzijn, het vast bureau of het bijzonder comité voor de sociale dienst of zijn subcomités, of namens de voorzitter van het bijzonder comité voor de sociale dienst voor het verlenen van dringende steun, heeft de maatschappelijk werker van het openbaar centrum voor maatschappelijk welzijn als opdracht de personen en gezinnen te helpen bij het opheffen of verbeteren van de noodsituaties waarin zij zich bevinden. Daarvoor verricht hij, onder meer, de onderzoeken ter voorbereiding van de te nemen beslissingen, verstrekt hij documentatie en raadgevingen en verzekert hij de maatschappelijke begeleiding van de betrokkenen.<br>
 <br>
@@ -2362,7 +2366,7 @@ Een tuchtstraf kan pas worden opgelegd nadat het personeelslid en, in voorkomend
 
 ### ART 205.
 
-De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.<br>
+De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.<br>
 <br>
 In de kennisgeving van de beslissing wordt melding gemaakt van de beroepsmogelijkheid, vermeld in onderafdeling 8, van de termijn waarbinnen en van de wijze waarop het beroep kan worden aangetekend.
 
@@ -2416,7 +2420,7 @@ De inhouding van salaris mag niet hoger zijn dan de begrenzing, vermeld in artik
 <br>
 Als binnen de termijnen, vermeld in het eerste lid, geen tuchtstraf wordt opgelegd, vervallen de gevolgen van de preventieve schorsing.<br>
 <br>
-§ 3. De betrokkene wordt van de preventieve schorsing op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht, en van de authenticiteit en de integriteit van de verwerkte gegevens.
+§ 3. De betrokkene wordt van de preventieve schorsing op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht, en van de authenticiteit en de integriteit van de verwerkte gegevens.
 
 ### ART 210.
 
@@ -2938,7 +2942,7 @@ De toelichting van de jaarrekening bevat alle informatie over de verrichtingen i
 <br>
 Als de toezichthoudende overheid geen besluit heeft verzonden naar de gemeente en het openbaar centrum voor maatschappelijk welzijn binnen een termijn van honderdvijftig dagen wordt ze geacht de jaarrekening goed te keuren. Die termijn gaat in op de dag nadat de gemeente zowel de toezichthoudende overheid op de hoogte heeft gebracht van de bekendmaking van de jaarrekening, met toepassing van artikel 286, § 1, 3°, als de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd met toepassing van artikel 250.<br>
 <br>
-§ 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de gemeente of het openbaar centrum voor maatschappelijk welzijn te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de gemeente of het openbaar centrum voor maatschappelijk welzijn, al naargelang het geval.
+§ 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de gemeente of het openbaar centrum voor maatschappelijk welzijn te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de gemeente of het openbaar centrum voor maatschappelijk welzijn, al naargelang het geval.
 
 ## HOOFDSTUK 2. Andere rapporteringen
 
@@ -3347,9 +3351,42 @@ De databank bevat de volgende gegevens van de betrokkenen, vermeld in het tweede
 <br>
 De gegevens, vermeld in het zesde lid, van de betrokkenen, vermeld in het tweede lid, die in functie zijn, worden, met uitzondering van het rijksregisternummer, door de entiteit die door de Vlaamse Regering overeenkomstig het tweede lid is aangewezen, publiek toegankelijk gemaakt.<br>
 <br>
+De gegevens, vermeld in het zesde lid, kunnen worden meegedeeld aan de instanties, vermeld in artikel I.3, 1° tot en met 9°, van het Bestuursdecreet van 7 december 2018, voor zover die mededeling past in het kader van een wettelijk vastgelegde plicht of opdracht van algemeen belang van de ontvangende instantie en de mededeling noodzakelijk is om die wettelijk vastgelegde plicht of opdracht te vervullen. Als de mededeling aan die voorwaarden voldoet, wordt het doeleinde van de mededeling als verenigbaar beschouwd met het doeleinde van de oorspronkelijke verwerking, vermeld in het vierde lid.<br>
+<br>
+De ontvangende instantie, vermeld in het achtste lid, is met betrekking tot latere verwerkingen van de gegevens, vermeld in het zesde lid, de verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
 De gegevens, vermeld in het zesde lid, worden bewaard overeenkomstig de regeling die geldt met toepassing van artikel III.87 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 De Vlaamse Regering regelt de nadere uitvoering van dit artikel.
+
+## HOOFDSTUK 7. Subsidieregister
+
+### ART 301/1.
+
+In dit artikel wordt verstaan onder:<br>
+1° algemene verordening gegevensbescherming: verordening (EU) 2016/679<br>
+van het Europees Parlement en de Raad van 27 april 2016 betreffende de&nbsp;bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG;<br>
+2° subsidiebegunstigde: de rechtspersoon of feitelijke vereniging die een subsidie ontvangt.<br>
+<br>
+Zowel gemeenten, openbare centra voor maatschappelijk welzijn als districten kunnen een subsidieregister oprichten en bijhouden met gegevens over de subsidies die ze verstrekken en kunnen die gegevens verwerken. De gemeente, het openbaar centrum voor maatschappelijk welzijn en in voorkomend geval de districten kunnen beslissen om dat subsidieregister gemeenschappelijk op te richten en bij te houden.<br>
+<br>
+De verwerking, vermeld in het tweede lid, heeft de volgende doelstellingen:<br>
+1°&nbsp;&nbsp; &nbsp;intern en extern een transparant en toegankelijk overzicht van de subsidiestromen bieden, onder meer met het oog op de informatiedeling over de&nbsp;verstrekte subsidies;<br>
+2°&nbsp;&nbsp; &nbsp;de subsidiestromen optimaliseren, onder meer om dubbele subsidiëring tegen&nbsp;te gaan;<br>
+3°&nbsp;&nbsp; &nbsp;de actieve openbaarheid van bestuur versterken.<br>
+<br>
+De gegevens, vermeld in het tweede lid, kunnen de volgende categorieën van persoonsgegevens van subsidiebegunstigden bevatten:<br>
+1°&nbsp;&nbsp; &nbsp;contactgegevens zoals een naam en adres;<br>
+2°&nbsp;&nbsp; &nbsp;beroepsgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;financiële gegevens.<br>
+<br>
+De gemeente, respectievelijk het openbaar centrum voor maatschappelijk welzijn of het district, beheert het subsidieregister en is met betrekking tot de persoonsgegevens verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming. In geval van een gemeenschappelijk register zijn de gemeente, het openbaar centrum voor maatschappelijk welzijn en in voorkomend geval de districten de beheerders en gezamenlijke verwerkings- verantwoordelijken.<br>
+<br>
+De verwerkingsverantwoordelijke kan het subsidieregister publiek toegankelijk maken. In geval van gezamenlijke verwerkingsverantwoordelijken is het publiek toegankelijk maken van het subsidieregister pas mogelijk na een akkoord tussen de gezamenlijke verwerkingsverantwoordelijken.<br>
+<br>
+Na maximaal tien jaar vanaf de verbintenis om de subsidie te verstrekken, moeten de gegevens van de subsidie gewist worden uit het subsidieregister.<br>
+<br>
+De gemeente, respectievelijk het openbaar centrum voor maatschappelijk welzijn of het district, regelt de nadere uitwerking van het subsidieregister. In voorkomend geval regelen de gemeente, het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient en in voorkomend geval de districten de nadere uitwerking van het gemeenschappelijk subsidieregister.
 
 ## TITEL 6. Participatie van de burger
 
