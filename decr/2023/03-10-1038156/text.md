@@ -118,23 +118,11 @@ Artikel 3.10.3.1.4 van dezelfde codex, ingevoegd bij het decreet van 19 december
 
 Artikel 3.14.1.0.2 van dezelfde codex, ingevoegd bij het decreet van 19 december 2014, wordt opgeheven.
 
-## Hoofdstuk 4. Bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens
+## Hoofdstuk 4. ...
 
 ### ART 12.
 
-De Vlaamse Belastingdienst is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van persoonsgegevens die noodzakelijk zijn voor de uitvoering van artikel 3.4.3.0.2. van de Vlaamse Codex Fiscaliteit van 13 december 2013.&nbsp;<br>
-<br>
-De verwerking, vermeld in het eerste lid, is noodzakelijk voor de vervulling van een taak van algemeen belang.&nbsp;<br>
-<br>
-De volgende categorieën van persoonsgegevens kunnen worden verwerkt in het kader van de toepassing van het eerste lid:&nbsp;<br>
-1° persoonlijke identificatiegegevens van de aanvrager: het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organi-satie van een Kruispuntbank van de sociale zekerheid, de voornamen, de achter-naam, de woonplaats, in voorkomend geval het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, de naam en zetel van de aanvrager;&nbsp;<br>
-2° persoonlijke kenmerken van de aanvrager: persoonlijke bijzonderheden, zoals geboortedatum en -plaats, burgerlijke staat, nationaliteit;&nbsp;<br>
-3° financiële bijzonderheden van de aanvrager;&nbsp;<br>
-4° samenstelling van het gezin van de aanvrager.&nbsp;<br>
-<br>
-De verwerkingsverantwoordelijke, vermeld in het eerste lid, en de Raad, vermeld in artikel 2, 4°, van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang, kunnen ontvanger zijn van de persoonsgegevens van de betrokkenen. De persoonsgegevens van de volgende categorieën van betrokkenen kunnen worden verwerkt in het kader van de toepassing van het eerste lid: de aanvragers.&nbsp;<br>
-<br>
-De persoonsgegevens, vermeld in het derde lid, worden bewaard geduren-de dertig jaar.
+...
 
 ## Hoofdstuk 5. Slotbepaling
 
