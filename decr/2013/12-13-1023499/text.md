@@ -5376,7 +5376,7 @@ De Vlaamse Regering kan :<br>
 
 § 1. De gegevens en de documenten die de bevoegde entiteit van de Vlaamse administratie heeft ontvangen, opgesteld of verzonden in het kader van de toepassing van de bepalingen van deze codex, met inbegrip van de door de belastingplichtigen ingediende aangiften, alsook de daarbij gevoegde documenten en bewijsstukken, en die fotografisch, optisch, elektronisch of volgens elke andere informatica- of telegeleidingstechniek worden geregistreerd, bewaard of weergegeven, alsook de weergave ervan op een leesbare drager, hebben bewijskracht voor de toepassing van de bepalingen van deze codex.<br>
 <br>
-§ 2. De bevoegde entiteit van de Vlaamse administratie kan persoonsgegevens verwerken als dat noodzakelijk is voor de vervulling van een taak van algemeen belang, meer bepaald om de juiste heffing en inning van alle belastingen, vermeld in deze codex, te kunnen verzekeren.
+§ 2. ...
 
 ### ART. 3.1.0.0.4.
 
@@ -6886,21 +6886,19 @@ Elke inlichting, elk stuk, elk proces-verbaal of elke akte, door een   bevoegde 
 
 ### ART 3.13.1.1.5.
 
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de bevoegde entiteit van de Vlaamse administratie beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.<br>
+Met toepassing van artikel 23, lid 1, e) en h), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de bevoegde entiteit van de Vlaamse administratie beslissen om de reikwijdte van de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, te beperken bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het negende lid.<br>
 <br>
 De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de bevoegde entiteit van de Vlaamse administratie, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
-<br>
-De persoonsgegevens, vermeld in het eerste lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
 <br>
 De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
 <br>
 Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
 <br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de bevoegde entiteit van de Vlaamse administratie zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
+De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de bevoegde entiteit van de Vlaamse administratie zou ondermijnen, met behoud van de toepassing van het zevende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
 <br>
-De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de&nbsp;toezichthoudende autoriteit, vermeld in artikel 4, 21), van de voormelde verordening,&nbsp;conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
 <br>
-De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
+De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de voormelde verordening.<br>
 <br>
 Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
 <br>
@@ -7060,7 +7058,11 @@ De bevoegde personeelsleden die toezicht houden op de naleving van de bepalingen
 
 ### ART. 3.13.2.0.2.
 
-In het kader van de uitoefening van hun opdracht kunnen de bevoegde   personeelsleden :<BR>1° bevelen geven aan bestuurders en het verkeer regelen als   vermeld in artikel 11 van de wet van 16 maart 1968 betreffende de politie over   het wegverkeer;<BR>2° inlichtingen inwinnen en controle uitoefenen door personen   te ondervragen en documenten en andere informatiedragers in te kijken;<BR>3° de   bijstand vorderen van de lokale en federale politie bij de uitoefening van   controles waarbij ze zich tijdens de uitoefening van hun ambt desgevraagd   kenbaar maken door hun legitimatiebewijs voor te leggen.<BR>
+In het kader van de uitoefening van hun opdracht kunnen de bevoegde personeelsleden :<br>
+1° bevelen geven aan bestuurders en het verkeer regelen als vermeld in artikel 11 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer;<br>
+2° inlichtingen inwinnen en controle uitoefenen door personen te ondervragen en documenten en andere informatiedragers in te kijken;<br>
+3° de bijstand vorderen van de lokale en federale politie bij de uitoefening van controles waarbij ze zich tijdens de uitoefening van hun ambt desgevraagd kenbaar maken door hun legitimatiebewijs voor te leggen.<br>
+4° vaststellingen doen aan de hand van vaste en mobiele camera’s met automatische nummerplaatherkenning.
 
 ### ART. 3.13.2.0.3.
 
@@ -7325,7 +7327,7 @@ De schulden met betrekking tot het beroep van de erflater en de schulden met bet
 
 ### ART. 3.18.0.0.1.
 
-<p>§ 1. Het bevoegde personeelslid kan een administratieve geldboete van 50 euro tot 1250 euro opleggen voor iedere overtreding van de bepalingen van deze codex, alsook van de besluiten die genomen zijn ter uitvoering ervan, met uitzondering van overtredingen van artikel 3.1.0.0.2, §§ 2 tot en met 4.<br>
+<p>§ 1. Het bevoegde personeelslid kan een administratieve geldboete van 50 euro tot 1250 euro opleggen voor iedere overtreding van de bepalingen van deze codex, alsook van de besluiten die genomen zijn ter uitvoering ervan, met uitzondering van overtredingen van artikel 3.1.0.0.2, §§ 2 tot en met 4 en van de bepalingen, vermeld in hoofdstuk 23.<br>
 <br>
 § 2. In afwijking van paragraaf 1, kan het bevoegde personeelslid voor een overtreding van de volgende bepalingen van deze codex inzake de erf- of registratiebelasting, alsook van de besluiten die genomen zijn ter uitvoering ervan, volgende administratieve geldboeten opleggen :<br>
 1° voor iedere overtreding van artikel 3.12.3.0.2 en artikel 3.12.3.0.5 : een administratieve geldboete van 50 euro ten laste van de instrumenterende openbare of ministeriële ambtenaar of officier;<br>
@@ -7355,8 +7357,7 @@ Voor de kilometerheffing kan slechts één administratieve geldboete worden opge
 <br>
 Onverminderd de toepassing van het tweede lid, wordt er geen administratieve geldboete opgelegd voor iedere overtreding die werd begaan binnen een ononderbroken tijdvak van drie uren vanaf de vaststelling van een eerdere overtreding op de bepalingen van deze codex en de uitvoeringsbesluiten ervan of van de wetgeving van het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest met betrekking tot de kilometerheffing, in zoverre de betrokken overtredingen werden begaan met hetzelfde voertuig en in zoverre een administratieve geldboete werd opgelegd voor de eerst begane overtreding.<br>
 <br>
-De administratieve geldboete, vermeld in het tweede lid, wordt berekend volgens de volgende tabel:<br>
-&nbsp;</p>
+De administratieve geldboete, vermeld in het tweede lid, wordt berekend volgens de volgende tabel:</p>
 
 <table border="1">
 	<tbody>
@@ -7637,6 +7638,173 @@ Als het verzoek niet alle gegevens, vermeld in 3.12.3.0.1, § 5, eerste lid, of 
 ### ART. 3.22.0.0.2.
 
 § 1. Met betrekking tot de toepassing van de bepalingen van deze codex,   verstrekt de bevoegde entiteit van de Vlaamse administratie een bindend advies   tot voorafgaande beslissing als vermeld in artikel 3.22.0.0.1, § 1, tweede lid,   aan de federale Dienst Voorafgaande Beslissingen in fiscale zaken over alle   aanvragen inzake situaties of verrichtingen, die deels onder haar bevoegdheid en   deels onder de bevoegdheid van de federale Dienst Voorafgaande Beslissingen in   fiscale zaken vallen.<BR><BR>Het bindend advies tot voorafgaande beslissing,   afgeleverd in toepassing van het eerste lid, heeft ten aanzien van de aanvrager   dezelfde waarde als de voorafgaande beslissing, vermeld in artikel 3.22.0.0.1, §   1, tweede lid.<BR><BR>Het bindend advies tot voorafgaande beslissing mag geen   vrijstelling of vermindering van de belasting tot gevolg hebben.<BR><BR>§ 2. De   aanvraag van een voorafgaande beslissing als vermeld in paragraaf 1 moet   schriftelijk gericht worden aan hetzij de bevoegde entiteit van de Vlaamse   administratie, hetzij de Federale Overheidsdienst Financiën overeenkomstig   artikel 21 van de wet van 24 december 2002 tot wijziging van de   vennootschapsregeling inzake inkomstenbelastingen en tot instelling van een   systeem van voorafgaande beslissingen in fiscale zaken.<BR><BR>Het bindend   advies, vermeld in paragraaf 1, eerste lid, wordt verstrekt door het   besluitvormingsorgaan, vermeld in artikel 3.22.0.0.1, § 2, vierde lid, en op de   wijze vermeld in dat lid.<BR><BR>§ 3. De bepalingen van artikel 3.22.0.0.1, § 3   tot en met § 5, zijn van overeenkomstige toepassing op dit   artikel.
+
+## Hoofdstuk 23. Verwerking van persoonsgegevens
+
+## Afdeling 1. Bepalingen die aan alle gegevensverwerkingen gemeenschappelijk zijn
+
+### ART 3.23.1.0.1.
+
+De bevoegde entiteit van de Vlaamse administratie kan persoonsgegevens verwerken als dat noodzakelijk is voor de vervulling van een taak van algemeen belang, namelijk om de juiste heffing en inning van alle belastingen, vermeld in deze codex, te kunnen verzekeren.<br>
+<br>
+De bevoegde entiteit van de Vlaamse administratie is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van de persoonsgegevens, vermeld in het eerste lid.
+
+### ART 3.23.1.0.2.
+
+De volgende categorieën van persoonsgegevens worden in het kader van de toepassing van artikel 3.23.1.0.1, eerste lid, van deze codex, verwerkt:<br>
+1° het rijksregisternummer of het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid;<br>
+2° het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen;<br>
+3° het fiscaal identificatienummer;<br>
+4°&nbsp;&nbsp; &nbsp;de persoonlijke identificatiegegevens, namelijk de naam, het adres, het telefoonnummer en het e-mailadres;<br>
+5°&nbsp;&nbsp; &nbsp;de persoonlijke kenmerken, namelijk de leeftijd, de geboortedatum, de geboorteplaats, de burgerlijke staat en de nationaliteit;<br>
+6°&nbsp;&nbsp; &nbsp;de financiële bijzonderheden.
+
+### ART 3.23.1.0.3.
+
+De persoonsgegevens van de volgende categorieën van betrokkenen kunnen in het kader van de toepassing van artikel 3.23.1.0.1, eerste lid, worden verwerkt:<br>
+1°&nbsp;&nbsp; &nbsp;de belastingplichtige;<br>
+2°&nbsp;&nbsp; &nbsp;de belastingschuldige;<br>
+3°&nbsp;&nbsp; &nbsp;de vertegenwoordigers van de personen, vermeld in punt 1° en 2°;<br>
+4° de natuurlijke personen, vermeld in artikel 3.13.1.3.1 tot en met 3.13.1.3.6, waartoe de bevoegde entiteit van de Vlaamse administratie zich kan richten in het kader van de uitoefening van haar onderzoeksbevoegdheden.<br>
+<br>
+De persoonsgegevens van de categorieën van betrokkenen, vermeld in het eerste lid, worden alleen verwerkt als dat noodzakelijk is voor het concrete doel van de gegevensverwerking.
+
+### ART 3.23.1.0.4.
+
+§1. Met behoud van de toepassing van paragraaf 2 kunnen in het kader van de toepassing van artikel 3.23.1.0.1, eerste lid, de persoonsgegevens, vermeld in artikel 3.23.1.0.2, uitgewisseld worden met de volgende categorieën van ontvangers:<br>
+1° de advocaten die in opdracht van de bevoegde entiteit van de Vlaamse administratie het Vlaamse Gewest vertegenwoordigen in geschillen over de toepassing van deze codex;<br>
+2° de gerechtsdeurwaarders die in opdracht van de bevoegde entiteit van de Vlaamse administratie de belastingen, vermeld in deze codex, invorderen;<br>
+3° de erkende woonmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, die namens de huurders de vermindering, vermeld in artikel 2.1.5.0.1, §1, 2° en 3°, §1/1, en artikel 2.1.5.0.2, §1, 2°, aanvragen;<br>
+4° de derden, vermeld in titel 3, hoofdstuk 12, die verplicht zijn informatie te verstrekken aan de bevoegde eniteit van de Vlaamse administratie;<br>
+5° de derden, vermeld in artikel 3.13.1.3.1 tot en met 3.13.1.3.7, en de openbare instellingen en inrichtingen, vermeld in artikel 3.13.1.4.1 en 3.13.1.4.2, tot wie de bevoegde entiteit van de Vlaamse administratie zich mag richten in het kader van haar onderzoeks- en controlebevoegdheden;<br>
+6° de administratieve diensten en de openbare instellingen of inrichtingen, vermeld in 3.19.0.0.2;<br>
+7° de derden met een voldoende belang, vermeld in artikel 3.20.0.0.1, die verzoeken om een afschrift of een uittreksel van een successieaangifte.<br>
+<br>
+§2. Als de bevoegde entiteit van de Vlaamse administratie aan een derde de uitvoering toevertrouwt van handelingen die nodig zijn om taken te vervullen waarmee ze is belast, is die entiteit gemachtigd, uitsluitend voor de uitvoering van die handelingen, aan die derde de persoonsgegevens, vermeld in artikel 3.23.1.0.2, mee te delen die noodzakelijk zijn voor de uitvoering van die handelingen.<br>
+<br>
+De derden, vermeld in het eerste lid, kunnen alleen over de beoogde persoonsgegevens beschikken gedurende de tijd die nodig is voor de uitvoering van de handelingen, vermeld in het eerste lid, en kunnen die persoonsgegevens uitsluitend voor dat doel gebruiken.
+
+## Afdeling 2. Gegevensverwerking voor de onroerende voorheffing, heffing ongeschikte en onbewoonbare woningen en leegstandsheffing bedrijfsruimten
+
+### ART 3.23.2.0.1.
+
+Met behoud van de toepassing van afdeling 1 zijn de bepalingen van deze afdeling van toepassing op de gegevensverwerking die noodzakelijk is voor de juiste heffing en inning van de belastingen, vermeld in titel 2, hoofdstuk 1, 5 en 6.
+
+### ART 3.23.2.0.2.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.2.0.1, kunnen naast de categorieën van persoonsgegevens, vermeld in artikel 3.23.1.0.2, de volgende specifieke categorieën van persoonsgegevens worden verwerkt:<br>
+1°&nbsp;&nbsp; &nbsp;beeldopnamen, namelijk plannen, plattegronden en foto’s van onroerende goederen;<br>
+2°&nbsp;&nbsp; &nbsp;de gebouw- of woningkenmerken;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de samenstelling van het gezin;<br>
+4° de gegevens over de gezondheid die noodzakelijk zijn voor de toekenning van de vermindering, vermeld in artikel 2.1.5.0.1, §1, 2° en 3°, en artikel 2.1.5.0.2, §1, 2°.
+
+### ART 3.23.2.0.3.
+
+In het kader van de gegevenswerking, vermeld in artikel 3.23.2.0.1, kunnen naast de persoonsgegevens van de categorieën van betrokkenen, vermeld in artikel 3.23.1.0.3, de persoonsgegevens van de volgende categorieën van betrokkenen worden verwerkt:<br>
+1° &nbsp; het gehandicapt kind, vermeld in artikel 2.1.5.0.1, §1, 2°;<br>
+2° de persoon met een handicap, vermeld in artikel 2.1.5.0.1, §1, 3°; 3° de oorlogsverminkte, vermeld in artikel 2.1.5.0.2, §1, 2°;<br>
+4° de huurder die van de verminderingen, vermeld in artikel 2.1.5.0.4, kan genieten.<br>
+<br>
+De persoonsgegevens van de categorieën van betrokkenen, vermeld in het eerste lid, worden alleen verwerkt als dat noodzakelijk is voor het concrete doel van de gegevensverwerking.
+
+### ART 3.23.2.0.4.
+
+Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die<br>
+&nbsp;<br>
+gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 3.23.2.0.2, bewaard gedurende tien jaar na de betaling of de verjaring van de belastingen, vermeld in artikel 3.23.2.0.1, of, in voorkomend geval, tien jaar na de definitieve beëindiging van de administratieve procedure en de integrale betaling van alle bedragen die daaraan verbonden zijn.
+
+## Afdeling 3. Gegevensverwerking voor de verkeersbelasting, de belasting op inverkeerstelling, de kilometerheffing en het eurovignet
+
+### ART 3.23.3.0.1.
+
+Met behoud van de toepassing van afdeling 1 zijn de bepalingen van deze afdeling van toepassing op de gegevensverwerking die noodzakelijk is voor de juiste inning en heffing van de belastingen, vermeld in titel 2, hoofdstuk 2, 3 en 4, en het eurovignet.
+
+### ART 3.23.3.0.2.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.3.0.1, kunnen naast de categorieën van persoonsgegevens, vermeld in artikel 3.23.1.0.2, de volgende specifieke categorieën van persoonsgegevens worden verwerkt:<br>
+1° &nbsp; de voertuig-, boot- of luchtvaartuigkenmerken;<br>
+2° &nbsp;de gegevens over de samenstelling van het gezin;<br>
+3° de gegevens over de gezondheid die noodzakelijk zijn voor de toekenning van de vrijstelling, vermeld in artikel 2.2.6.0.1, §1, eerste lid, 4°, en artikel 2.3.6.0.1, §1, eerste lid, 3°.<br>
+<br>
+Met behoud van de toepassing van het eerste lid worden met behulp van de camera’s, vermeld in artikel 3.13.2.0.2, 4°, voor de belastingen, vermeld in titel 2, hoofdstuk 2, 3 en 4, de volgende persoonsgegevens verwerkt:<br>
+1°&nbsp;&nbsp; &nbsp;een beeldopname van de nummerplaat aan de voorkant van het voertuig en, in voorkomend geval, aan de achterkant van het voertuig;<br>
+2°&nbsp;&nbsp; &nbsp;een beeldopname van het voertuig;<br>
+3°&nbsp;&nbsp; &nbsp;de datum, het tijdstip en de plaats van de beeldopname; 4°&nbsp;&nbsp; &nbsp;de voertuigkenmerken.
+
+### ART 3.23.3.0.3.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.3.0.1, kunnen naast de persoonsgegevens van de categorieën van betrokkenen, vermeld in artikel 3.23.1.0.3, de persoonsgegevens van de persoon met een handicap en de grootoorlogsinvalide, vermeld in artikel 2.2.6.0.1 en 2.3.6.0.1, worden verwerkt.<br>
+<br>
+De persoonsgegevens van de betrokkenen, vermeld in het eerste lid, worden alleen verwerkt als dat noodzakelijk is voor het concrete doel van de gegevensverwerking.
+
+### ART 3.23.3.0.4.
+
+Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 3.23.3.0.2, bewaard gedurende tien jaar na de betaling of de verjaring van de belastingen, vermeld in artikel 3.23.3.0.1, of, in voorkomend geval, tien jaar na de definitieve beëindiging van de administratieve procedure en de integrale betaling van alle bedragen die daaraan verbonden zijn.<br>
+<br>
+In afwijking van het eerste lid worden de persoonsgegevens, vermeld in artikel 3.23.3.0.2, tweede lid, die aanleiding geven tot een vaststelling op de openbare weg als vermeld in artikel 3.13.2.0.4, §1, negentig dagen na die vaststelling bewaard.
+
+## Afdeling 4. Gegevensverwerking voor de erfbelasting
+
+### ART 3.23.4.0.1.
+
+Met behoud van de toepassing van afdeling 1 zijn de bepalingen van deze afdeling van toepassing op de gegevensverwerking die noodzakelijk is voor de juiste heffing en inning van de belastingen, vermeld in titel 2, hoofdstuk 7.
+
+### ART 3.23.4.0.2.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.4.0.1, kunnen naast de categorieën van persoonsgegevens, vermeld in artikel 3.23.1.0.2, de volgende specifieke categorieën van persoonsgegevens worden verwerkt:<br>
+1°&nbsp;&nbsp; &nbsp;beeldopnamen, namelijk plannen, plattegronden en foto’s van onroerende goederen;<br>
+2°&nbsp;&nbsp; &nbsp;de gebouw- of woningkenmerken;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de samenstelling van het gezin;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn voor de toekenning van het abattement, vermeld in artikel 2.7.3.2.12;<br>
+5°&nbsp;&nbsp; &nbsp;gerechtelijke gegevens met betrekking tot de onwaardigheid om tot een nalatenschap te komen, vermeld in artikel 4.6 van het Burgerlijk Wetboek.
+
+### ART 3.23.4.0.3.
+
+In het kader van de gegevenswerking, vermeld in artikel 3.23.4.0.1, kunnen naast de persoonsgegevens van de categorieën van betrokkenen, vermeld in artikel 3.23.1.0.3, de persoonsgegevens van de volgende categorieën van betrokkenen worden verwerkt:<br>
+1° &nbsp; de partner van de erflater;<br>
+2°&nbsp;&nbsp; &nbsp;de persoon die de nalatenschap verwerpt; 3°&nbsp;&nbsp; &nbsp;de schuldeiser van de erflater;<br>
+4°&nbsp;&nbsp; &nbsp;de begunstigde van een schenking;<br>
+5°&nbsp;&nbsp; &nbsp;de begunstigde van een vruchtgebruik;<br>
+6°&nbsp;&nbsp; &nbsp;de begunstigde van een fideï-commis de residuo.<br>
+<br>
+De persoonsgegevens van de categorieën van betrokkenen, vermeld in het eerste lid, worden alleen verwerkt als dat noodzakelijk is voor het concrete doel van de gegevensverwerking.
+
+### ART 3.23.4.0.4.
+
+Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 3.23.4.0.2, bewaard gedurende dertig jaar na de betaling of de verjaring van de belastingen, vermeld in artikel 3.23.4.0.1, of, in voorkomend geval, dertig jaar na de definitieve beëindiging van de administratieve procedure en de integrale betaling van alle bedragen die daaraan verbonden zijn.
+
+## Afdeling 5. Gegevensverwerking voor de registratiebelasting
+
+### ART 3.23.5.0.1.
+
+Met behoud van de toepassing van afdeling 1 zijn de bepalingen van deze afdeling van toepassing op de gegevensverwerking die noodzakelijk is voor de juiste heffing en inning van de belastingen, vermeld in titel 2, hoofdstuk 8, 9, 10 en 11.
+
+### ART 3.23.5.0.2.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.5.0.1, kunnen naast de categorieën van persoonsgegevens, vermeld in artikel 3.23.1.0.2, de volgende specifieke categorieën van persoonsgegevens worden verwerkt:<br>
+1° beeldopnamen, namelijk plannen, plattegronden en foto’s van onroerende goederen;<br>
+&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de gebouw- en woningkenmerken;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de samenstelling van het gezin;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn voor de toekenning van het abattement, vermeld in artikel 2.8.3.0.4.
+
+### ART 3.23.5.0.3.
+
+Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 3.23.5.0.2, bewaard gedurende dertig jaar na de betaling of de verjaring van de belastingen, vermeld in artikel 3.23.5.0.1, of, in voorkomend geval, dertig jaar na de definitieve beëindiging van de administratieve procedure en de integrale betaling van alle bedragen die daaraan verbonden zijn.
+
+## Afdeling 6. Gegevensverwerking voor de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen
+
+### ART 3.23.6.0.1.
+
+Behoudens de toepassing van afdeling 1 zijn de bepalingen van deze afdeling van toepassing op de gegevensverwerking die noodzakelijk is voor de juiste heffing en inning van de belastingen, vermeld in titel 2, hoofdstuk 12 en 13.
+
+### ART 3.23.6.0.2.
+
+In het kader van de gegevensverwerking, vermeld in artikel 3.23.6.0.1, kunnen naast de categorieën van persoonsgegevens, vermeld in artikel 3.23.1.0.2, beeldopnamen van de automatische ontspanningstoestellen, de toestellen voor de aanneming van weddenschappen, de kansspelen en de vergunningen, toegekend door de Kansspelcommissie, worden verwerkt.
+
+### ART 3.23.6.0.3.
+
+Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 3.23.6.0.2, bewaard gedurende tien jaar na de betaling of de verjaring van de belastingen, vermeld in artikel 3.23.6.0.1, of, in voorkomend geval, tien jaar na de&nbsp;definitieve beëindiging van de administratieve procedure en de integrale betaling van alle bedragen die daaraan verbonden zijn.
 
 ## TITEL 4 Wijzigingsbepalingen
 
