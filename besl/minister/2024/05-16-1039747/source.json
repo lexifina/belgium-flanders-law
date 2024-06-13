@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039747,
+  "title": "Ministerieel besluit van 2024-05-16 delegatie van bepaalde bevoegdheden aan de Vlaamse Commissie Onroerend Erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039747/VolledigDocument?datum=2024-06-13",
+  "source_sha256": "d759a659b38be5017736e0047b0954d2c706b877ebad1dff2111ced7d8d475d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039747&param=informatie",
+  "as_of": "2024-06-13",
+  "made": "2024-05-16",
+  "gazette": "2024-06-03",
+  "numac": 2024005072,
+  "document_start": "2024-06-13",
+  "document_end": null,
+  "in_force": "2024-06-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
