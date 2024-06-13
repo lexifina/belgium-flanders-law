@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039771,
+  "title": "Decreet van 2024-05-17 tot wijziging van het Gerechtelijk Wetboek, de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het Energiedecreet van 8 mei 2009, wat betreft netbeheer en energie-efficiëntie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039771/VolledigDocument?datum=2024-06-13",
+  "source_sha256": "86add35d2ec1f3ba0b1a650c9bce1bfd6b69d2fd08b508c0584350e5ca06ce83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039771&param=informatie",
+  "as_of": "2024-06-13",
+  "made": "2024-05-17",
+  "gazette": "2024-06-03",
+  "numac": 2024005330,
+  "document_start": "2024-06-13",
+  "document_end": null,
+  "in_force": "2024-06-13",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2024-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
