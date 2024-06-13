@@ -2,16 +2,16 @@
   "codex_id": 1039743,
   "title": "Decreet van 2024-05-03 tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur, het Provinciedecreet van 9 december 2005, de wet van 19 juli 1976 tot instelling van een verlof voor de uitoefening van een politiek mandaat en het koninklijk besluit van 31 mei 1977 tot uitvoering van artikel 4 van de wet van 19 juli 1976 tot instelling van een verlof voor de uitoefening van een politiek mandaat",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039743/VolledigDocument?datum=2023-04-08",
-  "source_sha256": "9c2a9acdc943d27a1c67459becbb5f49358439f1b0d9ab51422e5a0d85e5d564",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039743/VolledigDocument?datum=2024-06-13",
+  "source_sha256": "392c11e08ba305a1190582fa9dcdc66b728f4c4658eccc0e5ecac46946e95817",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039743&param=informatie",
-  "as_of": "2023-04-08",
+  "as_of": "2024-06-13",
   "made": "2024-05-03",
   "gazette": "2024-06-03",
   "numac": 2024005012,
   "document_start": "2024-06-13",
   "document_end": null,
-  "in_force": "2023-04-08",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2023-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-06-13",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2024-06-13; future article versions excluded; article text as the API gives it"
 }
