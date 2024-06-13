@@ -200,9 +200,9 @@ De regresvordering van de provincie ten aanzien van de veroordeelde provincieraa
 
 ### ART. 18.
 
-§ 1. Het provincieraadslid dat wegens een beperking niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een situatie als vermeld in artikel 11, met uitzondering van het verbod in verband met bloed- en aanverwantschap ten aanzien van het lid met een beperking, en een situatie als vermeld in artikel 14.<br>
+§ 1. Het provincieraadslid dat wegens een&nbsp;handicap niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, op voorwaarde dat hij zich niet bevindt in een situatie als vermeld in artikel 11, met uitzondering van het verbod in verband met bloed- en aanverwantschap ten aanzien van het lid met een handicap, en een situatie als vermeld in artikel 14.<br>
 <br>
-§ 2. Voor de toepassing van de eerste paragraaf bepaalt de Vlaamse Regering de criteria tot vaststelling van de hoedanigheid van een provincieraadslid met een beperking.<br>
+§ 2. Voor de toepassing van de eerste paragraaf bepaalt de Vlaamse Regering de criteria tot vaststelling van de hoedanigheid van een provincieraadslid met een handicap.<br>
 <br>
 § 3. Bij het verlenen van de bijstand krijgt de vertrouwenspersoon dezelfde middelen ter beschikking en heeft hij dezelfde verplichtingen als het provincieraadslid, maar hij is niet gehouden tot de eedaflegging. Hij heeft eveneens recht op presentiegeld en een vergoeding voor reiskosten onder dezelfde voorwaarden als het provincieraadslid.
 
@@ -742,11 +742,11 @@ Hierbij kan de betrokkene aanvragen het verschil bij te passen indien dit inkome
 
 ### ART. 68bis.
 
-§ 1. De gedeputeerde die wegens een beperking niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit de personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, en zich niet bevinden in een van de volgende gevallen :<br>
-1° een situatie als vermeld in artikel 47, meer bepaald wat betreft de verwijzing naar artikel 11, met uitzondering van het verbod in verband met bloed- en aanverwantschap ten aanzien van de gedeputeerde met een beperking;<br>
+§ 1. De gedeputeerde die wegens een&nbsp;handicap niet zelfstandig zijn mandaat kan vervullen, kan zich voor de uitoefening van dat mandaat laten bijstaan door een vertrouwenspersoon, gekozen uit de personen die de volle leeftijd van achttien jaar hebben bereikt en die legaal binnen de Europese Unie verblijven, en zich niet bevinden in een van de volgende gevallen :<br>
+1° een situatie als vermeld in artikel 47, meer bepaald wat betreft de verwijzing naar artikel 11, met uitzondering van het verbod in verband met bloed- en aanverwantschap ten aanzien van de gedeputeerde met een handicap;<br>
 2° een situatie als vermeld in artikel 48.<br>
 <br>
-§ 2. Voor de toepassing van § 1 bepaalt de Vlaamse Regering de criteria tot vaststelling van de hoedanigheid van een gedeputeerde met een beperking.<br>
+§ 2. Voor de toepassing van § 1 bepaalt de Vlaamse Regering de criteria tot vaststelling van de hoedanigheid van een gedeputeerde met een handicap.<br>
 <br>
 § 3. Bij het verlenen van de bijstand krijgt de vertrouwenspersoon dezelfde middelen ter beschikking en heeft hij dezelfde verplichtingen als een provincieraadslid, maar hij is niet gehouden tot de eedaflegging. Hij heeft voor elke vergadering eveneens recht op presentiegeld onder dezelfde voorwaarden als een provincieraadslid.
 
@@ -802,7 +802,7 @@ Er is in elke provincie een provinciegriffier en een financieel beheerder.<br />
 
 Na hun aanstelling leggen de personeelsleden, vermeld in artikel 74, tijdens een openbare vergadering van de provincieraad de volgende eed af in handen van de voorzitter: "Ik zweer de verplichtingen van mijn ambt trouw na te komen.".<br>
 <br>
-Een personeelslid als vermeld in het eerste lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.
+Een personeelslid als vermeld in het eerste lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.
 
 ### ART. 76.
 
@@ -905,7 +905,7 @@ De financieel beheerder staat in volle onafhankelijkheid in voor:<br>
 <br>
 De financieel beheerder kan een dwangbevel uitvaardigen, geviseerd en uitvoerbaar verklaard door de deputatie, om onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen. Dat dwangbevel wordt betekend bij gerechtsdeurwaardersexploot. Dat exploot stuit de verjaring.<br>
 <br>
-Een dwangbevel als vermeld in het tweede lid kan door de deputatie alleen worden geviseerd en uitvoerbaar verklaard worden als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van deze melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. De provincie kan administratieve kosten aanrekenen voor die aangetekende brief. Die kosten zijn ten laste van de schuldenaar en kunnen ook ingevorderd worden via het dwangbevel.<br>
+Een dwangbevel als vermeld in het tweede lid kan door de deputatie alleen worden geviseerd en uitvoerbaar verklaard worden als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van deze melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. De provincie kan administratieve kosten aanrekenen voor die aangetekende brief. Die kosten zijn ten laste van de schuldenaar en kunnen ook ingevorderd worden via het dwangbevel.<br>
 <br>
 Schulden van een publieke rechtspersoon kunnen nooit via een dwangbevel worden ingevorderd.<br>
 <br>
@@ -1197,7 +1197,7 @@ Een tuchtstraf kan pas worden opgelegd nadat het personeelslid en, in voorkomend
 
 ### ART. 124.
 
-De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.<br>
+De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.<br>
 <br>
 In de kennisgeving van de beslissing wordt melding gemaakt van de beroepsmogelijkheid, vermeld in afdeling VIII, van de termijn waarbinnen en van de wijze waarop het beroep kan worden aangetekend.
 
@@ -1249,7 +1249,7 @@ De inhouding van salaris mag niet hoger zijn dan de begrenzing, vermeld in artik
 <br>
 Als binnen de termijnen, vermeld in het eerste lid, geen tuchtstraf wordt opgelegd, vervallen de gevolgen van de preventieve schorsing.<br>
 <br>
-§ 3. De betrokkene wordt van de preventieve schorsing op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.
+§ 3. De betrokkene wordt van de preventieve schorsing op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.
 
 ### ART. 129.
 
@@ -1439,7 +1439,7 @@ De toelichting van de jaarrekening bevat alle informatie over de verrichtingen i
 <br>
 Als de toezichthoudende overheid geen besluit heeft verzonden naar de provincie binnen een termijn van honderdvijftig dagen, wordt ze geacht de jaarrekening goed te keuren. Die termijn gaat in op de dag nadat de provincie zowel de toezichthoudende overheid op de hoogte heeft gebracht van de bekendmaking van de jaarrekening, met toepassing van artikel 180bis, eerste lid, 3°, als de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd met toepassing van artikel 142.<br>
 <br>
-§ 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de provincie te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de provincie.
+§ 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de provincie te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de provincie.
 
 ## [HOOFDSTUK II Andere rapporteringen (ing. decr. 6 juli 2018, art. 110, I: 3 december 2018)]
 
