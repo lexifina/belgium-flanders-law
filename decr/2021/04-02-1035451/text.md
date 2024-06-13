@@ -457,28 +457,11 @@ In titel 4, hoofdstuk 1, van het besluit Vlaamse Codex Fiscaliteit van 20 decemb
 <br>
 "Art. 4.1.0.0.3/2. In titel III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt, wat betreft het Vlaamse Gewest, hoofdstuk I, dat bestaat uit artikel 35bis, opgeheven.".
 
-## HOOFDSTUK 5. Bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens
+## HOOFDSTUK 5. ...
 
 ### ART 82.
 
-De entiteit van de Vlaamse administratie, vermeld in artikel 1.1.0.0.2, eerste lid, 8°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van persoonsgegevens die noodzakelijk zijn voor de uitvoering van artikel 3.3.5.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
-<br>
-De verwerking, vermeld in het eerste lid, is noodzakelijk om te voldoen aan de wettelijke verplichting, vermeld in artikel 3.3.5.0.1 van de voormelde codex, die rust op de verwerkingsverantwoordelijke, vermeld in het eerste lid. De belastingschuldigen geven voor die verwerking uitdrukkelijk toestemming via de activering van de procedure waarbij informaticatechnieken worden gebruikt. Die toestemming kan op elk moment worden ingetrokken.<br>
-<br>
-De volgende categorieën van persoonsgegevens kunnen worden verwerkt in het kader van de toepassing van het eerste lid:<br>
-1° persoonlijke identificatiegegevens, het rijksregisternummer of het identificatienummer van de sociale zekerheid of het fiscaal identificatienummer;<br>
-2° financiële bijzonderheden;<br>
-3° persoonlijke kenmerken;<br>
-4° samenstelling van het gezin;<br>
-5° woningkenmerken.<br>
-<br>
-De verwerkingsverantwoordelijke, vermeld in het eerste lid, en de vertegenwoordiger van de belastingschuldige, kunnen ontvanger zijn van de persoonsgegevens van de betrokkenen. De persoonsgegevens van de volgende categorieën van betrokkenen kunnen worden verwerkt in het kader van de toepassing van het eerste lid:<br>
-1° de belastingschuldige;<br>
-2° de vertegenwoordigers van de belastingschuldige.<br>
-<br>
-De persoonsgegevens, vermeld in het derde lid, worden bewaard gedurende één jaar, te rekenen vanaf de dag van terbeschikkingstelling van de documenten op het elektronische platform.<br>
-<br>
-De Vlaamse Regering zal de nadere regels bepalen voor de verwerking van de persoonsgegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.
+...
 
 ## HOOFDSTUK 6. Slotbepaling
 
