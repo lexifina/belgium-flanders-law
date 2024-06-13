@@ -481,17 +481,7 @@ Aan hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2021
 
 ### ART 39.
 
-De Vlaamse Belastingdienst is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van persoonsgegevens die noodzakelijk zijn voor de uitvoering van artikel 3.13.1.3.1, §3 en §6, van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
-<br>
-De volgende categorieën van persoonsgegevens worden verwerkt in het kader van de toepassing van het eerste lid:<br>
-1° persoonlijke identificatiegegevens, het rijksregisternummer of het identificatienummer van de sociale zekerheid en andere identificatiegegevens of het fiscaal identificatienummer;<br>
-2° financiële bijzonderheden.<br>
-<br>
-De persoonsgegevens, vermeld in het tweede lid, kunnen afkomstig zijn van elke belastingplichtige bij wie er tijdens het onderzoek een of meer aanwijzingen van belastingontduiking zijn ontstaan conform artikel 3.13.1.3.1, §2, van de Vlaamse Codex Fiscaliteit van 13 december 2013, of van elke belastingplichtige die al dan niet overleden is, als de gegevens worden opgevraagd in het kader van de registratiebelasting of erfbelasting.<br>
-<br>
-Met behoud van de toepassing van de noodzakelijke bewaring ervan voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van de voormelde verordening, worden de persoonsgegevens, vermeld in het tweede lid, bewaard gedurende de noodzakelijke duur voor de doeleinden, vermeld in artikel 3.13.1.3.1, §3 en §6, van de Vlaamse Codex Fiscaliteit van 13 december 2013, met een maximale bewaartermijn van één jaar na de verjaring van alle vorderingen die tot de bevoegdheid van de verwerkingsverantwoordelijke behoren of, in voorkomend geval, één jaar na de definitieve beëindiging van de administratieve en rechterlijke procedures en rechtsmiddelen en de integrale betaling van alle bedragen die daaraan verbonden zijn.<br>
-<br>
-De persoonsgegevens, vermeld in het tweede lid, kunnen worden doorgegeven aan en verwerkt door advocaten in het kader van een geschil, of aan gerechtsdeurwaarders in de mate dat zij strikt noodzakelijk zijn in het kader van een invorderingsprocedure.
+...
 
 ### ART 40.
 
