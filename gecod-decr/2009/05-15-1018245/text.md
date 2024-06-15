@@ -1939,6 +1939,34 @@ Er wordt rekening gehouden met de eventuele waardevermeerdering die voortvloeit 
 § 3. De Vlaamse Regering kan nadere formele en procedurele regelen voor de toepassing van § 1 en § 2 bepalen.<br>
 &nbsp;
 
+### ART 4.3.9.
+
+§1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° collectief te optimaliseren buitengebied: het gebied zoals gedefinieerd in artikel 1.1.2, definities oppervlaktewater- en grondwaterbescherming van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne (VLAREM II);<br>
+2° individueel te optimaliseren buitengebied: het gebied zoals gedefinieerd in artikel 1.1.2, definities oppervlaktewater- en grondwaterbescherming van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne(VLAREM II);<br>
+3° zoneringsplan: het plan zoals gedefinieerd in artikel 1.1.2, definities oppervlaktewater- en grondwaterbescherming van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne (VLAREM II).<br>
+<br>
+Een omgevingsvergunning voor het bouwen of herbouwen van een gebouw dat huishoudelijk afvalwater loost, kan in het individueel te optimaliseren buitengebied of buiten de gebieden voorzien op het zoneringsplan, alleen worden verleend als aan een van de volgende voorwaarden is voldaan:<br>
+1° het huishoudelijk afvalwater komt terecht in een riolering die is aangesloten op een operationele waterzuiveringsinstallatie;<br>
+2° de individuele of collectieve installatie voor de zuivering van het huishoudelijk afvalwater is opgenomen in een omgevingsvergunning voor het verkavelen van gronden, als een aansluiting als vermeld in punt 1° niet mogelijk is;<br>
+3° als niet voldaan is aan de vorige punten, legt de aanvrager een individuele of collectieve installatie voor de zuivering van het huishoudelijk afvalwater aan, ongeacht of deze nadien aan de instantie bevoegd voor de sanering van het afvalwater wordt overgedragen.<br>
+<br>
+§2. Een omgevingsvergunning voor het bouwen of herbouwen van een gebouw dat huishoudelijk afvalwater loost, kan in het collectief nog te optimaliseren buitengebied, alleen worden verleend als aan een van de volgende voorwaarden is voldaan:<br>
+&nbsp;1° het huishoudelijk afvalwater komt terecht in een riolering die is aangesloten<br>
+op een operationele waterzuiveringsinstallatie;<br>
+2° de instantie die verantwoordelijk is voor de uitvoering van de gemeentelijke saneringsverplichting bevestigt dat de aanbesteding van een riolering die is aangesloten op een operationele openbare waterzuiveringsinstallatie, binnen de zes jaar gepland is en dat daarbij haar doelstellingen, overeenkomstig een meerjarenplan dat is opgemaakt ter uitvoering van de saneringsverplichting, vermeld in artikel 2.3.5, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, niet in het gedrang komen. De aanvrager legt in dat geval een septische put aan en sluit het afvalwater hierop aan;<br>
+3° de individuele of collectieve installatie voor de zuivering van het huishoudelijk afvalwater is opgenomen in een omgevingsvergunning voor het verkavelen van gronden als een aansluiting als vermeld in punt 1° en 2° niet mogelijk is;<br>
+4° &nbsp; de aanvrager legt een septische put aan en sluit het afvalwater hierop aan, als de aanvraag betrekking heeft op het bouwen en herbouwen van gebouwen met maximaal negen woongelegenheden;<br>
+5° als niet voldaan is aan de vorige punten, legt de aanvrager een individuele of collectieve installatie voor de zuivering van het huishoudelijk afvalwater aan,&nbsp;ongeacht of deze nadien aan de instantie bevoegd voor de sanering van het afvalwater wordt overgedragen.<br>
+<br>
+§3. Een omgevingsvergunning voor het verkavelen van gronden kan alleen worden verleend als aan een van de volgende voorwaarden is voldaan:<br>
+1° de aanvraag tot het verkavelen van gronden omvat de noodzakelijke handelingen voor de aanleg van riolering binnen het project, die wordt aangesloten op een operationele waterzuiveringsinstallatie of waarbij de instantie die verantwoordelijk is voor de uitvoering van de gemeentelijke saneringsverplichting bevestigt dat de aanbesteding van een riolering die is aangesloten op een operationele openbare waterzuiveringsinstallatie, binnen de zes jaar gepland is en dat daarbij haar doelstellingen, overeenkomstig een meerjarenplan dat is opgemaakt ter uitvoering van de saneringsverplichting, vermeld in artikel 2.3.5, §1, van het decreet van 18 juli 2003 betreffende het integraal water- beleid, gecoördineerd op 15 juni 2018, niet in het gedrang komen;<br>
+2° de aanvrager legt collectieve of individuele installatie(s) voor de zuivering van het huishoudelijk afvalwater aan waarop de nieuw op te richten gebouwen binnen de verkaveling aangesloten worden, ongeacht of deze installatie nadien aan de instantie bevoegd voor de sanering van het afvalwater wordt overgedragen, als een aansluiting als vermeld in punt 1° niet mogelijk is;<br>
+3° als het een verkaveling met maximaal één bijkomende bouwkavel betreft, gelegen in het collectief nog te optimaliseren buitengebied, legt de vergunning de aanleg van een septische put op waarop het afvalwater wordt aangesloten;<br>
+4° als de aanvraag niet de handelingen, vermeld in punt 1° tot en met 3° bevat, worden in de omgevingsvergunning voor het verkavelen van gronden de nodige voorwaarden of lasten opgelegd opdat het huishoudelijk afvalwater van de nieuw op te richten gebouwen binnen de verkaveling terechtkomt in een riolering als vermeld in punt 1°, of aangesloten wordt op collectieve of individuele installatie(s) als vermeld in punt 2°, ongeacht of deze installatie nadien aan de instantie bevoegd voor de sanering van het afvalwater wordt overgedragen.<br>
+<br>
+§4. De Vlaamse Regering kan de bepalingen van de paragrafen 1 tot en met 3 verfijnen, en de gehanteerde begrippen nader definiëren.
+
 ## HOOFDSTUK IV Afwijkingen van stedenbouwkundige voorschriften
 
 ## Afdeling 1 Afwijkingsmogelijkheden
