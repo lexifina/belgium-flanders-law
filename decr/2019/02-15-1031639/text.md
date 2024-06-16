@@ -758,7 +758,7 @@ De Vlaamse Regering kan voor de woonzorgvoorzieningen en verenigingen in het twe
 <br>
 § 3. De persoonsgegevens die verzameld worden in het kader van dit decreet, worden verwerkt conform de regelgeving over de bescherming bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, eerste lid, 1), e), en artikel 10 van de algemene verordening gegevensbescherming en, wat gegevens over gezondheid als vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming betreft, op artikel 9, tweede lid, 2), h), van de algemene verordening gegevensbescherming.<br>
 <br>
-De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de algemene verordening gegevensbescherming, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden. De Vlaamse Regering specificeert welke personen of instanties toegang hebben tot voormelde gezondheidsgegevens.<br>
+De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de algemene verordening gegevensbescherming, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.&nbsp;<br>
 <br>
 De verwerking van persoonsgegevens vindt plaats met respect voor de rechten van de betrokken gebruikers en mantelzorgers.<br>
 <br>
@@ -773,20 +773,50 @@ b) een uittreksel uit het strafregister.<br>
 <br>
 De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming, de lijst van gegevens, vermeld in het eerste lid, inclusief de gezondheidsgegevens, vermeld in artikel 4, 15), van voormelde verordening, nader preciseren.<br>
 <br>
+De persoonsgegevens van de gebruiker, vermeld in het eerste lid, worden minimaal tot twee jaar na het beëindigen van de zorg en ondersteuning aan de betrokken gebruiker bewaard en mogen maximaal tot vijf jaar na het beëindigen van de zorg en ondersteuning aan de betrokken gebruiker worden bewaard. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
+<br>
+De persoonsgegevens van de personeelsleden, de vrijwilligers, de verenigingswerkers en de bestuurders worden bewaard tot tien jaar na de beëindiging van de arbeidsovereenkomst, het ondernemingscontract, het bestuursmandaat of het verenigings- of vrijwilligerswerk. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
+<br>
 De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming:<br>
 1° de regels voor en de wijze van verwerking van de gegevens;<br>
-2° de termijn gedurende welke de verwerkte persoonsgegevens maximaal zullen worden bewaard;<br>
-3° de instanties waaraan de persoonsgegevens zullen worden verstrekt;<br>
+2° ...<br>
+3° ...<br>
 4° de vorm waarin en de wijze waarop gegevens worden uitgewisseld.<br>
 <br>
-§ 5. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+§ 5.&nbsp;Om woonzorgvoorzieningen en verenigingen te vergunnen, te erkennen en te subsidiëren binnen de programmatie en voor het toezicht op de erkenningsvoorwaarden en de handhaving ervan, worden persoonsgegevens van de gebruiker, inclusief gegevens over gezondheid als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming:<br>
-1° welke gegevens worden verzameld, inclusief de gezondheidsgegevens, vermeld in artikel 4, 15), van voormelde verordening;<br>
-2° de regels voor en de wijze van verwerking van de gegevens;<br>
-3° de termijn gedurende welke de verwerkte persoonsgegevens maximaal zullen worden bewaard;<br>
-4° de instanties waaraan de persoonsgegevens zullen worden verstrekt;<br>
-5° de vorm waarin en de wijze waarop gegevens worden uitgewisseld.<br>
+In het kader van de doeleinden, vermeld in het eerste lid, verwerkt het voormelde Departement Zorg de volgende persoonsgegevens van de gebruiker:<br>
+1°&nbsp; de persoonsgegevens met het oog op de identificatie van de betrokken gebruiker, inclusief het Rijksregisternummer of bis-nummer;<br>
+2°&nbsp; de geboortedatum;<br>
+3°&nbsp; het geslacht;<br>
+4°&nbsp; de gemeente waar de hoofdverblijfplaats gelegen is;<br>
+5°&nbsp; de datum van overlijden;<br>
+6°&nbsp; de gezondheidsgegevens over de gebruiker;<br>
+7°&nbsp; de gegevens over de zorg en ondersteuning die door de woonzorgvoorziening wordt verleend;<br>
+8°&nbsp; de plaats waar de zorg en ondersteuning wordt verleend door de woonzorgvoorziening.<br>
+<br>
+In het kader van de doeleinden, vermeld in het eerste lid, verwerkt het voormelde Departement Zorg de volgende persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders:<br>
+1° de persoonsgegevens met het oog op de identificatie van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders, inclusief het Rijks- registernummer of het bis-nummer;<br>
+2°&nbsp; de geboortedatum;<br>
+3°&nbsp; het geslacht;<br>
+4°&nbsp; de gemeente waar de hoofdverblijfplaats gelegen is;<br>
+5°&nbsp; de datum van overlijden;<br>
+6°&nbsp; de gegevens over de tewerkstelling van de personeelsleden;<br>
+7°&nbsp; de gegevens over de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders, namelijk:<br>
+a)&nbsp; de genoten opleiding;<br>
+b)&nbsp; de gegevens van het uittreksel uit het strafregister die noodzakelijk zijn om na te gaan of de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders geen eigenschappen hebben die onverzoenbaar zijn met hun functie.<br>
+&nbsp;<br>
+De Vlaamse Regering kan de persoonsgegevens, vermeld in het tweede en derde lid, nader preciseren.<br>
+<br>
+De persoonsgegevens, vermeld in het tweede lid, worden bewaard tot maximaal twee jaar na het beëindigen van de zorg en ondersteuning aan de gebruiker door een woonzorgvoorziening of vereniging. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
+<br>
+De persoonsgegevens van de personeelsleden, vermeld in het derde lid, worden minimaal twee jaar en maximaal vijftig jaar bewaard. De persoonsgegevens van de vrijwilligers, verenigingswerkers en bestuurders, vermeld in het derde lid, worden bewaard tot maximaal vijf jaar na het einde van de activiteit als vrijwilliger, verenigingswerker of bestuurder en ten hoogste voor een termijn van vijftig jaar. De persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
+<br>
+De persoonsgegevens, vermeld in het tweede en derde lid, kunnen worden overgemaakt aan het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, voor zover die gegevens noodzakelijk zijn voor het uitvoeren van de opdrachten en taken van dat agentschap bepaald in of ter uit- voering van het voornoemde decreet van 18 mei 2018.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, al de volgende elementen:<br>
+1° de regels voor de wijze van verwerking van de gegevens;<br>
+2° de vorm waarin en de wijze waarop de gegevens worden uitgewisseld.<br>
 <br>
 § 6. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
 1° het Departement Zorg, voor de verwerking van persoonsgegevens in het kader van de passende financiering van de woonzorgvoorzieningen, de monitoring en handhaving met betrekking tot de geboden woonzorg en de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders en voor het uitoefenen van toezicht op de erkenningsvoorwaarden en de kwaliteit van de geboden woonzorg;<br>
