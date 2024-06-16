@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039760,
+  "title": "Decreet van 2024-05-03 tot wijziging van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en artikel 59 van het Woonzorgdecreet van 15 februari 2019, wat betreft BelRAI en de verwerking van persoonsgegevens",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039760/VolledigDocument?datum=2024-06-16",
+  "source_sha256": "584b2b42aaeca69faebfa918d7b20fd4c7f2423dc2e6894f646fbf971caa164d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039760&param=informatie",
+  "as_of": "2024-06-16",
+  "made": "2024-05-03",
+  "gazette": "2024-06-06",
+  "numac": 2024005221,
+  "document_start": "2024-06-16",
+  "document_end": null,
+  "in_force": "2024-06-16",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2024-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
