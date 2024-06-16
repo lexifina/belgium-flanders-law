@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039764,
+  "title": "Decreet van 2024-05-17 tot wijziging van het decreet van 18 november 2016 houdende de vernieuwde taakstelling en gewijzigde financiering van de provincies, wat De Warande betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039764/VolledigDocument?datum=2024-06-16",
+  "source_sha256": "d43f0bc611bca026e2cb2568ea4b3364da3af01c199de18504c72e0877488bba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039764&param=informatie",
+  "as_of": "2024-06-16",
+  "made": "2024-05-17",
+  "gazette": "2024-06-06",
+  "numac": 2024005245,
+  "document_start": "2024-06-16",
+  "document_end": null,
+  "in_force": "2024-06-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
