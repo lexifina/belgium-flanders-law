@@ -135,7 +135,8 @@ Onder de lokale regierol op het vlak van sociale economie en werk wordt verstaan
 3° een beleidsvisie en beleidsdoelstellingen ontwikkelen over de sociale economie en over de tewerkstelling van personen in de reguliere en de sociale economie.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de begunstigden, de subsidie-, de aanvraag-, de toekenningsvoorwaarden en de omvang van de subsidie nader. Dit gebeurt overeenkomstig de bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd.<br>
-&nbsp;
+<br>
+§3. De begunstigden, vermeld in paragraaf 2, organiseren hun samenwerkingsvormen uiterlijk op 1 januari 2026 in overeenstemming met de principes, vermeld in artikel 6 van het Regiodecreet van 3 februari 2023. Artikel 7 van het voormelde decreet is van overeenkomstige toepassing, met dien verstande dat het bevoegde orgaan van de samenwerkingsvorm de aanvraag tot afwijking indient.
 
 ## HOOFDSTUK 10 Wetenschappelijk onderbouwde managementopleidingen en onderzoek op het vlak van de sociale economie en het maatschappelijk verantwoord ondernemen
 
