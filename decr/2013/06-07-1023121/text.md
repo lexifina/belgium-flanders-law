@@ -9,7 +9,8 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.
 ### ART. 2.
 
 <p>In dit decreet wordt verstaan onder :<br>
-1° anderstalige kleuter : de persoon die gelijktijdig aan de volgende voorwaarden voldoet :<br>
+1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+1°/1 anderstalige kleuter: de persoon die gelijktijdig aan de volgende voorwaarden voldoet:<br>
 a) op 31 december die volgt op de aanvang van het schooljaar enerzijds minstens twee jaar en zes maanden en anderzijds geen vijf jaar geworden zijn;<br>
 b) niet het Nederlands als thuistaal of moedertaal hebben;<br>
 c) niet ingeschreven zijn in het kleuteronderwijs;<br>
@@ -24,6 +25,7 @@ d) een centrum voor beroepsopleiding als vermeld in artikel 64 van het besluit v
 e) private aanbodverstrekkers die NT2 aanbieden conform het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen.<br>
 5° ...;<br>
 6° EVA : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 16;<br>
+6°/1 handicap: een langdurige fysieke, mentale, verstandelijke of zin-tuiglijke beperking die personen in wisselwerking met diverse drem-pels kunnen beletten volledig, daadwerkelijk en op voet van gelijkheid met anderen te participeren in de samenleving;<br>
 7° inburgeraar : een persoon die behoort tot de doelgroep van inburgering, vermeld in artikel 26, § 1;<br>
 8° inburgering : een begeleid traject naar integratie waarbij de overheid aan inburgeraars een specifiek programma op maat aanbiedt, dat hun zelfredzaamheid verhoogt met het oog op participatie op professioneel, educatief en sociaal vlak;<br>
 9° inburgeringsbeleid : het onderdeel van het integratiebeleid dat geconcretiseerd wordt in een inburgeringstraject dat aan de inburgeraar wordt aangeboden en een toeleidingstraject dat aan de minderjarige nieuwkomer en de anderstalige kleuter wordt aangeboden;<br>
@@ -152,7 +154,7 @@ Bij verwijzing naar personen wordt hierna de mannelijke vorm gebruikt. De mannel
 
 <p>§ 2.....<br>
 <br>
-§ 3. De Vlaamse Regering kan het geïntegreerd actieplan, vermeld in paragraaf 1, tweede en derde lid,&nbsp;afstemmen op het actieplan, vermeld in artikel 10 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.</p>
+§ 3. De Vlaamse Regering kan het geïntegreerd actieplan, vermeld in paragraaf 1, tweede en derde lid,&nbsp;afstemmen op het actieplan, vermeld in artikel 8 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.</p>
 
 <p>§ 4. ...</p>
 
@@ -309,32 +311,7 @@ De regels en modaliteiten voor de toekenning, de terugvordering en de verantwoor
 
 ### ART. 20.
 
-<p>§ 1. De Vlaamse Regering stelt een uniform computergestuurd cliëntvolgsysteem ter beschikking van het EVA. Dat systeem moet het EVA toelaten de taken en kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet te vervullen en meer in het bijzonder :<br>
-1° het EVA ondersteunen bij het uitvoeren van de inburgeringstrajecten en de toeleidingstrajecten en bij het oriënteren van de anderstaligen naar het meest gepaste aanbod Nederlands als tweede taal;<br>
-2° het EVA toelaten om het individuele dossier van de inburgeraar, de anderstalige, de minderjarige nieuwkomer en de anderstalige kleuter te registreren en het traject van die personen op te volgen en om het individuele dossier te registreren van de anderstalige die verzoekt om een bewijs van het taalniveau Nederlands als vermeld in artikel 17, tweede lid, 6°, van dit decreet;<br>
-3° minstens maandelijks een lijst ter beschikking te stellen van het EVA waarin de volgende categorieën van personen zijn opgenomen :<br>
-a) de inburgeraars die de afgelopen periode voor het eerst tot die categorie behoren;<br>
-b) de minderjarige nieuwkomers die de afgelopen periode voor het eerst tot die categorie behoren;<br>
-c) de anderstalige kleuters die de afgelopen periode voor het eerst tot die categorie behoren;<br>
-4° eenmalig een lijst ter beschikking te stellen van het EVA van de inburgeraars die gedurende meer dan twaalf maanden in het Rijksregister zijn ingeschreven;<br>
-5° de gegevensuitwisseling in het kader van de inburgeringstrajecten, taalkennis Nederlands en Nederlands als tweede taal-trajecten tussen het EVA, de centra, vermeld in artikel 2, 4°, van dit decreet&nbsp;de Vlaamse onderwijsadministratie, de VDAB, Actiris en het lokaal bestuur elektronisch te laten verlopen;<br>
-6° het EVA, het departement van het beleidsdomein of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, toelaten om de inburgering, vermeld in afdeling 3 van dit decreet, het aanbod Nederlands als tweede taal verstrekt door de centra, vermeld in artikel 2, 4°, van dit decreet en de dienstverlening ten aanzien van anderstaligen, vermeld in afdeling 9 van dit decreet, op te volgen;<br>
-7° het EVA toelaten om persoonsgegevens van inburgeraars opgenomen in het cliëntvolgsysteem, elektronisch mee te delen aan de gemeenten, met het oog op de inschakeling in het lokaal inclusief integratiebeleid, vermeld in artikel 4, § 4, 2° van dit decreet;<br>
-8° het EVA toelaten om persoonsgegevens van inburgeraars, die vallen onder de toepassing van artikel 1/2 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, die opgenomen zijn in het cliëntvolgsysteem, elektronisch mee te delen aan de Dienst Vreemdelingenzaken, met het oog op informatiedeling en ter uitvoering van de kerntaak van het EVA, vermeld in artikel 17, tweede lid, 4°, van dit decreet.<br>
-<br>
-De elektronische mededeling van persoonsgegevens, vermeld in het eerste lid, 7°, is beperkt tot:<br>
-1° de naam, de voornaam en het rijksregisternummer van de inburgeraars die zijn ingeschreven in het Rijksregister in de gemeente aan wie de gegevens worden meegedeeld;<br>
-2° de vermelding of deze inburgeraars een inburgeringscontract hebben ondertekend;<br>
-3° de vermelding of deze inburgeraars een attest van inburgering hebben behaald.<br>
-<br>
-Persoonsgegevens die overeenkomstig het eerste lid, 7°, door het EVA elektronisch zijn meegedeeld aan een gemeente, mogen door de gemeente niet langer dan vijf jaar bewaard worden in een vorm die het mogelijk maakt om de betrokkenen te identificeren.<br>
-<br>
-De elektronische mededeling van persoonsgegevens, vermeld in het eerste lid, 8°, is beperkt tot:<br>
-1° de naam, de voornaam en het rijksregisternummer van de inburgeraars, vermeld in het eerste lid, 8° ;<br>
-2° de vermelding of deze inburgeraars een inburgeringscontract hebben ondertekend;<br>
-3° de vermelding of deze inburgeraars een attest van inburgering hebben behaald.<br>
-<br>
-Het EVA is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens, vermeld in het eerste lid, 7° en 8°.<br>
+<p>§ 1. De Vlaamse Regering stelt een uniform computergestuurd cliëntvolgsysteem ter beschikking van het EVA. Dat systeem moet het EVA toelaten de taken en kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet te vervullen.<br>
 <br>
 De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking stellen, het aanpassen en het gebruiken van het computergestuurd cliëntvolgsysteem en de elektronische gegevensuitwisseling bepalen.</p>
 
@@ -344,7 +321,7 @@ De Vlaamse Regering kan de nadere voorwaarden voor het ter beschikking stellen, 
 
 ### ART. 21.
 
-Alle persoonsgegevens die het EVA heeft verkregen en verwerkt in het kader   van de toepassing van dit decreet, mogen uitsluitend worden verwerkt en   aangewend met oog op de verwezenlijking van de taken en kerntaken van het EVA,   vermeld in artikel 17, eerste tot en met derde lid.
+...
 
 ### ART. 22.
 
@@ -432,7 +409,7 @@ Het EVA coördineert de afstemming met de instanties, vermeld in het eerste lid,
 1° elke inburgeraar als vermeld in artikel 26, § 1, eerste lid, 1°, die tot een van de volgende categorieën behoort. Hij behoudt zijn hoedanigheid van verplichte inburgeraar zolang hij niet voldaan heeft aan de verplichtingen, vermeld in paragraaf 3:<br>
 a) de inburgeraar die voor het eerst met een verblijfstitel van meer dan drie maanden ingeschreven wordt in het Rijksregister in een Belgische gemeente;<br>
 b) de inburgeraar die tijdens de afgelopen vijf jaar voor het eerst, en voor zover ten volle 18 jaar oud, ingeschreven werd in het Rijksregister in een Belgische gemeente, meer bepaald in een gemeente van het tweetalige gebied Brussel-Hoofdstad, het Franse taalgebied of het Duitse taalgebied;<br>
-2° elke inburgeraar die behoort tot een van de volgende categorieën, vermeld in het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, de door de bisschop aangestelde verantwoordelijke van de parochie voor de rooms-katholieke eredienst en zijn vervanger, de predikant voor de protestantse eredienst en zijn vervanger, de bedienaar van de eredienst voor de anglicaanse eredienst en zijn vervanger, de rabbijn voor de israëlitische eredienst en zijn vervanger, de kerkbedienaar en zijn vervanger voor de orthodoxe eredienst en de eerste imam en zijn vervanger voor de islamitische eredienst;<br>
+2° elke inburgeraar die bedienaar is of vervanger van de bedienaar is van een door de federale overheid erkende eredienst bij een lokale geloofsgemeenschap die door het Vlaamse Gewest wordt erkend;<br>
 3° elke inburgeraar als vermeld in artikel 26, § 1, eerste lid, 2°, die de Belgische nationaliteit heeft en die tot een van de volgende categorieën behoort. Hij behoudt zijn hoedanigheid van verplichte inburgeraar zolang hij niet voldaan heeft aan de verplichtingen, vermeld in paragraaf 3:<br>
 a) de inburgeraar die voor het eerst ingeschreven wordt in het Rijksregister in een Belgische gemeente;<br>
 b) de inburgeraar die tijdens de afgelopen vijf jaar voor het eerst, en voor zover ten volle 18 jaar oud, ingeschreven werd in het Rijksregister in een Belgische gemeente, meer bepaald in een gemeente van het tweetalige gebied Brussel-Hoofdstad, het Franse taalgebied of het Duitse taalgebied.<br>
@@ -446,7 +423,7 @@ c) een gezinslid als vermeld in artikel 3 van bijlage I bij de overeenkomst tuss
 Indien nodig moet het familie- of gezinslid, vermeld in a), b) en c), zelf zijn status aantonen;<br>
 3° Belgen en hun familie- en gezinsleden, in de hieronder begrepen betekenis, die gebruik hebben gemaakt van het uit het Europese recht voortvloeiende recht om zich in een EU+-staat te vestigen, nadien terugkeren naar België en daarbij door het uitoefenen van hun recht op vrij verkeer van personen inburgeringsplichtig zouden zijn geworden;<br>
 4° de inburgeraar die een attest van inburgering heeft behaald;<br>
-5° de inburgeraar die aan de hand van een medisch attest aantoont dat hij ernstig ziek is of een mentale of fysieke handicap heeft, wat deelname of verdere deelname aan het inburgeringstraject blijvend onmogelijk maakt;<br>
+5° de inburgeraar die aan de hand van een medisch attest aantoont dat hij ernstig ziek is of een handicap heeft, wat deelname of verdere deelname aan het inburgeringstraject blijvend onmogelijk maakt;<br>
 6° de inburgeraar die aan de hand van een attest van regelmatige lesbijwoning aantoont dat hij een volledig schooljaar onthaalonderwijs heeft gevolgd. Onder volledig schooljaar onthaalonderwijs wordt verstaan een schooljaar onthaalonderwijs dat ten minste negen maanden (vakantiemaanden juli en augustus niet inbegrepen) lesbijwoning telt, gespreid over één of twee schooljaren.<br>
 <br>
 De inburgeraar, vermeld in paragraaf 1, 1° en 3°, wordt vrijgesteld van de inburgeringsplicht als hij 65 jaar of ouder is.<br>
@@ -504,13 +481,13 @@ Als hij bij zijn aanmelding niet kan aantonen dat hij ingeschreven is in het ont
 <br>
 De gemeente wijst de verplichte inburgeraars, vermeld in artikel 27, § 1, 1° en 3°, § 5 en § 6, op de verplichtingen, vermeld in artikel 27, § 3, die in voorkomend geval op hen van toepassing zijn, en wijst hen ook op de sancties, vermeld in artikel 40.<br>
 <br>
-§ 2. Het EVA brengt de verplichte inburgeraar, vermeld in artikel 27, § 1, 1° en 3°, § 5 en § 6, op de hoogte van zijn inburgeringsplicht.<br>
+§ 2. Het EVA brengt de verplichte inburgeraar, vermeld in artikel 27, §1, §5 en §6, op de hoogte van zijn inburgeringsplicht.<br>
 <br>
-Met behoud van de toepassing van paragraaf 1, informeert het EVA de inburgeraar, vermeld in artikel 20, § 1, eerste lid, 3°, a), over het inburgeringsbeleid.<br>
+Met behoud van de toepassing van paragraaf 1, informeert het EVA de inburgeraar, vermeld in artikel 46/7, §1, eerste lid, 6°, a), over het inburgeringsbeleid.<br>
 <br>
-§ 3. Het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat de Vlaamse Regering aanwijst, informeert de verplichte inburgeraar, vermeld in artikel 27, § 1, 2°, over het inburgeringsbeleid en de inburgeringsplicht, en verwijst hem door naar het EVA.<br>
+§3. De Vlaamse Regering regelt de nadere uitvoering van paragraaf 1 en 2.<br>
 <br>
-§ 4. De Vlaamse Regering regelt de nadere uitvoering van paragraaf 1 tot en met 3.</p>
+§ 4. ...</p>
 
 ### ART. 29.
 
@@ -565,6 +542,8 @@ In afwijking van het tweede lid worden de inburgeraars, die al een inburgeringsa
 Als de inburgeraar een vormingspakket Nederlands als tweede taal volgt bij de centra, vermeld in artikel 2, eerste lid, 4°, a) en b), van dit decreet, biedt dat vormingspakket het taalniveau van de opleiding Nederlands als tweede taal dat de opleiding NT2 Breakthrough/Waystage R1 omvat.<br>
 <br>
 Voor inburgeraars die een opleiding in het leergebied alfabetisering Nederlands tweede taal, vermeld in artikel 6, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, volgen, zal de Vlaamse Regering afwijken van de bepalingen, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan afwijken van de bepalingen, vermeld in het eerste lid, voor bepaalde categorieën van inburgeraars die door een handicap in de onmogelijkheid verkeren het Nederlands als tweede taal te beheersen op het taalvaardigheidsniveau A2.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de wijze waarop het taalvaardigheidsniveau, vermeld in paragraaf 1, eerste lid, wordt vastgesteld.<br>
 <br>
@@ -690,7 +669,7 @@ De Vlaamse Regering bepaalt de wijze waarop de taalvaardigheid wordt vastgesteld
 § 2. In afwijking van paragraaf 1 wordt de inburgeraar vrijgesteld van de verplichting, vermeld in paragraaf 1, in volgende gevallen:<br>
 1° de inburgeraar behoort niet langer tot de beroepsactieve leeftijd;<br>
 2° de inburgeraar kan aantonen dat hij 6 maanden onafgebroken heeft gewerkt of gestudeerd gedurende de periode van 24 maanden na het uitreiken van het inburgeringsattest. De Vlaamse Regering bepaalt wat verstaan wordt onder 6 maanden onafgebroken werken en studeren en bepaalt de wijze waarop dit kan worden aangetoond;<br>
-3° de inburgeraar kan aantonen dat hij blijvend niet kan voldoen aan de verplichting, vermeld in paragraaf 1, eerste lid, omdat hij ernstig ziek is of een mentale of fysieke handicap heeft of over beperkte leercapaciteiten beschikt. De Vlaamse Regering bepaalt de wijze waarop de inburgeraar dat kan aantonen.<br>
+3° de inburgeraar kan aantonen dat hij blijvend niet kan voldoen aan de verplichting, vermeld in paragraaf 1, eerste lid, omdat hij ernstig ziek is of een handicap heeft of over beperkte leercapaciteiten beschikt. De Vlaamse Regering bepaalt de wijze waarop de inburgeraar dat kan aantonen.<br>
 <br>
 De Vlaamse Regering bepaalt een uitstelregeling voor de inburgeraar die om medische of persoonlijke redenen tijdelijk niet kan voldoen aan de verplichting.
 
@@ -744,11 +723,11 @@ Het EVA meldt aan het departement of het intern verzelfstandigd agentschap zonde
 <br>
 In afwijking van paragraaf 1 meldt het EVA in de gevallen, vermeld in paragraaf 1, derde lid, een inburgeraar voor wie het volgen van een inburgeringscursus is opgenomen als voorwaarde voor de toekenning of het behoud van inkomsten uit maatschappelijke dienstverlening of een leefloon, aan het OCMW in kwestie, met het oog op een toepassing van de sancties, vermeld in de ter zake relevante regelgeving.</p>
 
-<p>§ 4. Met behoud van de toepassing van 27, § 3, vierde lid, 1°, artikel 34/1, § 3, derde lid, 1°, en § 4, tweede lid, 1°, en artikel 34/2, § 3, eerste lid, 1°, bepaalt de Vlaamse Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet het inburgeringstraject onrechtmatig vroegtijdig heeft beëindigd.</p>
+<p>§ 4. Met behoud van de toepassing van artikel 27, § 3, vierde lid, 1°, artikel 34/1, § 3, derde lid, 1°, en § 4, tweede lid, 1°, en artikel 34/2, § 3, eerste lid, 1°, bepaalt de Vlaamse Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet het inburgeringstraject onrechtmatig vroegtijdig heeft beëindigd.</p>
 
 <p>Met behoud van de toepassing van artikel 27, § 3, vierde lid, 1°, artikel 34/1, § 3, derde lid, 1°, en § 4, tweede lid, 1°, en artikel 34/2, § 3, eerste lid, 1°, bepaalt de Vlaamse Regering de criteria aan de hand waarvan het EVA kan bepalen of iemand al dan niet regelmatig heeft deelgenomen aan het vormingspakket.</p>
 
-<p>Voor de inburgeraars vermeld in 27, § 3, vierde lid, 1°, artikel 34/1, § 3, derde lid, 1°, en § 4, tweede lid, 1°, en artikel 34/2, § 3, eerste lid, 1°, kan de Vlaamse Regering afwijken van de bepalingen vermeld in het eerste en tweede lid.</p>
+<p>Voor de inburgeraars vermeld in artikel 27, § 3, vierde lid, 1°, artikel 34/1, § 3, derde lid, 1°, en § 4, tweede lid, 1°, en artikel 34/2, § 3, eerste lid, 1°, kan de Vlaamse Regering afwijken van de bepalingen vermeld in het eerste en tweede lid.</p>
 
 <p>§ 5. In afwijking van paragraaf 1, derde lid, en paragraaf 3, moet het EVA niet melden aan het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in paragraaf 1, derde lid,&nbsp;de VDAB of OCMW, dat een inburgeraar een vormingspakket niet regelmatig heeft gevolgd, voor zover het een inburgeraar betreft voor wie het omwille van beperkte leercapaciteiten onmogelijk is om de doelstellingen, vermeld in artikel 30, § 2, eerste lid, en in artikel 31, § 1, te behalen.</p>
 
@@ -886,6 +865,152 @@ De Vlaamse Regering kan de nadere modaliteiten bepalen over de organisatie van h
 <br>
 De pedagogische begeleidingsdiensten, vermeld in artikel 14 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs, vermeld in artikel 44 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, voorzien samen in een ondersteuningsaanbod voor lesgevers Nederlands als tweede taal. Het voorstel van ondersteuningsaanbod wordt besproken op het regionaal overleg, vermeld in het eerste lid, 4°, a).
 
+## Afdeling 10. Bepalingen over de verwerking van persoonsgegevens
+
+### ART 46/4.
+
+De persoonsgegevens worden in het kader van dit decreet verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.&nbsp;<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit decreet is noodzakelijk voor de vervulling van de taken van algemeen belang die aan het EVA en het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, van dit decreet, zijn toevertrouwd en is gebaseerd op artikel 6, lid 1, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit decreet over gezondheid en over religieuze of levensbeschouwelijke overtuigingen is gebaseerd op artikel 9, lid 2, g), van de algemene verordening gegevensbescherming.<br>
+&nbsp;
+
+### ART 46/5.
+
+Het EVA treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20 van dit decreet, met het oog op de verwezenlijking van de opdracht, taken en kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet.&nbsp;<br>
+<br>
+Het departement of het intern verzelfstandigd agentschap zonder rechtsper-soonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, van dit decreet, en het EVA treden op als gezamenlijke verwerkingsverantwoordelijken als vermeld in artikel 26 van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20 van dit decreet, met het oog op de organisatie van de sanctioneringsprocedure, vermeld in artikel 39 en 40 van dit decreet.<br>
+<br>
+Het departement of het intern verzelfstandigd agentschap zonder rechtsper-soonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, van dit decreet, treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20 van dit decreet, met het oog op de monitoring en evaluatie van het Vlaamse integratie- en inburgeringsbeleid.<br>
+&nbsp;
+
+### ART 46/6.
+
+De verwerkingsverantwoordelijken, vermeld in artikel 46/5, kunnen conform dit decreet persoonsgegevens verwerken van de volgende personen:<br>
+1° inburgeraars;<br>
+2° anderstaligen;<br>
+3° anderstalige kleuters;<br>
+4° minderjarige nieuwkomers;<br>
+5° personen van buitenlandse herkomst;<br>
+6° kandidaat-inwijkelingen;<br>
+7° familieleden van de personen, vermeld in punt 1° tot en met 6°.<br>
+<br>
+De verwerkingsverantwoordelijken, vermeld in artikel 46/5, verwerken in voorkomend geval de volgende categorieën van persoonsgegevens van de personen, vermeld in het eerste lid:<br>
+1° de contactgegevens en de identificatiegegevens;<br>
+2° het rijksregisternummer;<br>
+3° de moedertaal en de contacttalen;<br>
+4° de gegevens over de individuele begeleiding;<br>
+5° de gegevens over de persoonlijke situatie, met inbegrip van gegevens over gezondheid;&nbsp;<br>
+6° de verblijfsgegevens;<br>
+7° de burgerlijke staat, gegevens over de afstamming en gegevens over de samenstelling van het gezin;<br>
+8° de gegevens over de vaardigheden, certificaten en diploma’s;<br>
+9° de gegevens over het uitreiken van bewijzen van taalniveau Nederlands, vermeld in artikel 46/2;<br>
+10° de trajectgegevens;<br>
+11° de gegevens over het vormingspakket maatschappelijke oriëntatie, vermeld in artikel 30;<br>
+12° de gegevens over NT2;&nbsp;<br>
+13° de gegevens over het traject naar werk, vermeld in artikel 32;<br>
+14° de gegevens over de deelname aan het participatie- en netwerktraject, vermeld in artikel 33;<br>
+15° de gegevens over inbreuken op de inburgeringsplicht die begaan worden door de verplichte inburgeraar als vermeld in artikel 39, en de gegevens over administratieve geldboetes als vermeld in artikel 40;<br>
+16° de gegevens over de religieuze of levensbeschouwelijke overtuigingen in het kader van de verplichting tot inburgering van de bedienaar van de erkende eredienst, vermeld in artikel 27, §1, 2°;<br>
+17° de gegevens over de verplichting tot het behalen van het taalniveau B1 mondeling, vermeld in artikel 34/5.<br>
+&nbsp;
+
+### ART 46/7.
+
+§1. De verwerking van persoonsgegevens door het EVA via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20, heeft als doel het EVA toe te laten de taken en kerntaken die aan het EVA zijn toevertrouwd door of krachtens dit decreet te vervullen en meer in het bijzonder om:<br>
+1° het EVA te ondersteunen bij het uitvoeren van de inburgeringstrajecten en de toeleidingstrajecten en bij het organiseren van het starterspakket voor kandidaat-inwijkelingen;<br>
+2° het EVA te ondersteunen bij het uitvoeren van een specifiek trajectmatig vormings- en begeleidingsaanbod op maat;<br>
+3° het EVA te ondersteunen bij het oriënteren van de anderstaligen naar het meest gepaste NT2-aanbod;<br>
+4° het EVA toe te laten om het individuele dossier van de personen, vermeld in artikel 46/6, eerste lid, te registreren en het traject van die personen op te volgen;<br>
+5° het EVA toe te laten om de kennis van het Nederlands van anderstaligen te testen en bewijzen van het taalniveau Nederlands uit te reiken als vermeld in artikel 46/2;<br>
+6° het EVA toe te laten om minstens maandelijks een lijst ter beschikking te stellen waarin de volgende categorieën van personen zijn opgenomen:<br>
+a) de inburgeraars die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+b) de minderjarige nieuwkomers die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+c) de anderstalige kleuters die de afgelopen periode voor het eerst tot die categorie behoren;<br>
+7° het EVA toe te laten om eenmalig een lijst ter beschikking te stellen de inburgeraars die gedurende meer dan twaalf maanden in het Rijksregister zijn ingeschreven;<br>
+8° het EVA toe te laten om de uitvoering van inburgering, vermeld in afdeling 3, het NT2-aanbod verstrekt door de centra en de dienstverlening ten aanzien van anderstaligen, vermeld in afdeling 9, te evalueren;<br>
+9° het EVA toe te laten om de verplichting tot inburgering te controleren, vermeld in artikel 39;<br>
+10° het EVA toe te laten de verplichting tot het behalen van de taalvaardigheid van het Nederlands B1 mondeling, vermeld in artikel 34/5, te controleren en op te volgen.<br>
+<br>
+De verwerking van de persoonsgegevens door het EVA is beperkt tot het-geen noodzakelijk is om de doelen, vermeld in het eerste lid, te bereiken.<br>
+<br>
+§2. De verwerking van persoonsgegevens door het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20, heeft als doel:<br>
+1° administratieve geldboetes als vermeld in artikel 40 opleggen;<br>
+2° monitoring en evaluatie van het Vlaamse integratie- en inburgeringsbeleid uitvoeren.<br>
+<br>
+De verwerking van de persoonsgegevens door het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, is beperkt tot hetgeen noodzakelijk is om de doelen, vermeld in het eerste lid, te bereiken.<br>
+&nbsp;
+
+### ART 46/8.
+
+Het EVA kan conform de toepasselijke regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens de verwerkte persoonsgegevens meedelen aan andere entiteiten, als de doeleinden van de verwerkingen van de andere entiteiten verenigbaar zijn met de doeleinden, vermeld in dit decreet. In elk geval worden de mededelingen aan de volgende entiteiten voor de volgende doeleinden als verenigbaar beschouwd:<br>
+1° de centra en de Vlaamse onderwijsadministratie in het kader van het uitvoeren van:<br>
+a) de inburgeringstrajecten;<br>
+b) het specifiek trajectmatig vormings- en begeleidingsaanbod op maat;<br>
+c) de taalkennis Nederlands;<br>
+d) de NT2-trajecten;<br>
+2° VDAB, in het kader van het uitvoeren van:<br>
+a) de inburgeringstrajecten;&nbsp;<br>
+b) het specifiek trajectmatig vormings- en begeleidingsaanbod op maat;<br>
+c) de evaluatie van de uitvoering van inburgering, vermeld in artikel 46/7, §1, eerste lid, 8°, van dit decreet;<br>
+3° Actiris in het kader van het uitvoeren van de inburgeringstrajecten en het specifiek trajectmatig vormings- en begeleidingsaanbod op maat;<br>
+4° het lokaal bestuur:<br>
+a) in het kader van het uitvoeren van:<br>
+1) de inburgeringstrajecten;<br>
+2) het specifiek trajectmatig vormings- en begeleidingsaanbod op maat;&nbsp;<br>
+b) met het oog op de inschakeling in het lokaal inclusief integratiebeleid, vermeld in artikel 4, §4, 2°, van dit decreet;<br>
+5° het OCMW in het kader van het uitvoeren van de inburgeringstrajecten en het specifiek trajectmatig vormings- en begeleidingsaanbod;<br>
+6° de Kruispuntbank van de Sociale Zekerheid in het kader van:<br>
+a) de taalkennis Nederlands en de NT2-trajecten;<br>
+b) de evaluatie van de uitvoering van inburgering, vermeld in artikel 46/7, §1, eerste lid, 8°, van dit decreet;<br>
+7° de Gemeenschappelijke Gemeenschapscommissie in het kader van de verplichting tot inburgering in het tweetalige gebied Brussel-Hoofdstad;<br>
+8° het agentschap Vlaamse Belastingdienst in het kader van het invorderen bij dwangbevel van de retributie, vermeld in artikel 30, §3, van dit decreet, en artikel 27/3 van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+9° de bevoegde instantie, vermeld in artikel 18 van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021 met het oog op de controle van:<br>
+a) de erkenningscriteria, vermeld in artikel 7, 8°, van het Erkenningsde-creet Lokale Geloofsgemeenschappen van 22 oktober 2021;<br>
+b) de verplichting, vermeld in artikel 16, 7°, van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021;<br>
+10° het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen in het kader van de taak, vermeld in artikel 17, tweede lid, 7°, van dit decreet, met het oog op het opstellen van een behoefteplan als vermeld in artikel 46/3, eerste lid, 2°/1, van dit decreet;<br>
+11° sociale verhuurders met het oog op het controleren van de taalkennisver-plichting van kandidaat-huurders van een sociale woning, vermeld in artikel 6.20, eerste lid, 5° en 6°, van de Vlaamse Codex Wonen van 2021;<br>
+12° het Agentschap voor Onderwijsdiensten in het kader van de taak, vermeld in artikel 17, tweede lid, 1°, a), van dit decreet, in verband met de leerplicht van minderjarigen;<br>
+13° de Dienst Vreemdelingenzaken, met het oog op informatiedeling van persoonsgegevens van inburgeraars die vallen onder de toepassing van artikel 1/2 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemde-lingen;<br>
+14° de FOD Economie in het kader van in het kader van het uitvoeren van:<br>
+a) de inburgeringstrajecten;<br>
+b) het specifiek trajectmatig vormings- en begeleidingsaanbod op maat;<br>
+c) de taalkennis Nederlands;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;de NT2-trajecten;<br>
+15° het lokaal overlegplatform en het Departement Onderwijs en Vorming, in het kader van het toeleidingstraject voor minderjarige nieuwkomers en anders-talige kleuters;<br>
+16° de instanties waarmee het EVA informatie-uitwisselingsakkoorden sluit om de taken en kerntaken die door of krachtens dit decreet aan het EVA zijn toevertrouwd, te vervullen.<br>
+<br>
+Het departement of het intern verzelfstandigd agentschap zonder rechtsper-soonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, van dit decreet, kan met inachtneming van de toepasselijke regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, de verwerkte persoonsgegevens meedelen aan andere entiteiten, als de doeleinden van de verwerkingen van de andere entiteiten verenigbaar zijn met de doeleinden, vermeld in dit decreet. In elk geval worden de mededelingen aan de volgende entiteiten met de volgende doeleinden als verenigbaar beschouwd:<br>
+1° het agentschap Vlaamse Belastingdienst met het oog op de gedwongen invordering van de administratieve geldboete, vermeld in artikel 40 van dit decreet, en artikel 44 van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+2° het agentschap Facilitair Bedrijf in het kader van het opleggen van een administratieve geldboete, vermeld in artikel 40 van dit decreet, en hoofd-stuk 4, afdeling 3, onderafdeling 3, van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
+3° VDAB en de Kruispuntbank van de Sociale Zekerheid in het kader van de monitoring en de evaluatie van het Vlaamse integratie- en inburgeringsbe-leid, vermeld in artikel 46/7, §2, eerste lid, 2°, van dit decreet;<br>
+4° de lokale besturen met het oog op het nazicht van verblijfsgegevens in het kader van het opleggen van een administratieve geldboete, vermeld in artikel 40 van dit decreet, en hoofdstuk 4, afdeling 3, onderafdeling 3, van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integra-tie- en inburgeringsbeleid;<br>
+5° de instanties waarmee het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, vermeld in artikel 16, §4, van dit decreet, informatie-uitwisselingsakkoorden sluit om de taken die door of krachtens dit decreet aan het voormeld departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering, zijn toevertrouwd, te vervullen.<br>
+<br>
+Voor de mededeling van persoonsgegevens aan de instanties, vermeld in het eerste en tweede lid, worden protocollen opgesteld conform artikel 8 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+&nbsp;
+
+### ART 46/9.
+
+De persoonsgegevens die via het uniform computergestuurd cliëntvolgsysteem, vermeld in artikel 20, verwerkt worden, worden niet langer bewaard dan noodzakelijk is voor de doeleinden, vermeld in artikel 46/7.&nbsp;<br>
+<br>
+De bewaartermijn wordt door de verwerkingsverantwoordelijken, vermeld in artikel 46/5, bepaald op basis van de volgende criteria:<br>
+1° de relevantie van de bewaring van de persoonsgegevens voor de doeleinden van de verwerking, vermeld in artikel 46/7;<br>
+2° de mate waarin kan worden voorzien in maatregelen die de identificatie van de persoon, vermeld in artikel 46/6, eerste lid, belemmeren;<br>
+3° het gegeven dat er nog een openstaand inbreukdossier is van de verplichte inburgeraar;<br>
+4° het gegeven dat beslissingen nog het voorwerp kunnen uitmaken van een administratief of jurisdictioneel beroep;<br>
+5° het nut van de bewaring van de persoonsgegevens voor de persoon, vermeld in artikel 46/6, eerste lid.<br>
+<br>
+In elk geval worden de persoonsgegevens, vermeld in het eerste lid, niet langer bewaard dan negentig jaar. Deze bewaartermijn start vanaf de eerste verwerking van de persoonsgegevens van de persoon, vermeld in artikel 46/6, eerste lid. De Vlaamse Regering kan voor specifieke persoonsgegevens een kortere bewaartermijn bepalen.<br>
+<br>
+De bewaartermijnen worden door de verwerkingsverantwoordelijken, ver-meld in artikel 46/5, bekendgemaakt aan de personen, vermeld in artikel 46/6, eerste lid.<br>
+&nbsp;
+
+### ART 46/10.
+
+De Vlaamse Regering kan technische en organisatorische maatregelen als vermeld in artikel 5, lid 1, f), van de algemene verordening gegevensbescherming opleggen voor de verwerking van de persoonsgegevens, vermeld in artikel 46/6, tweede lid, van dit decreet.
+
 ## HOOFDSTUK 7. Aanvullende bepalingen
 
 ### ART. 47.
@@ -904,7 +1029,7 @@ De volgende artikelen zijn niet van toepassing in het tweetalige gebied Brussel-
 5° artikel 27;<br>
 6° artikel 28, § 1;<br>
 7° artikel 28, § 2, eerste lid;<br>
-8° artikel 28, § 3;<br>
+8° ...;<br>
 9° artikel 34/3, tweede lid;<br>
 10° artikel 34/4, vijfde lid;<br>
 10° /1 artikel 34/5;<br>
@@ -959,5 +1084,9 @@ bij de decreten van 14 juli 2006, 1 februari 2008 en 17 februari 2012.
 ### ART. 55.
 
 De volgende regelingen blijven van toepassing tot op het ogenblik dat ze   door de Vlaamse Regering worden opgeheven : <BR>1° het besluit van de Vlaamse   Regering van 26 oktober 2012 tot uitvoering van diverse bepalingen van het   decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid;<BR>2° het   besluit van de Vlaamse Regering van 15 juni 2012 houdende de erkenning en   subsidiëring van een Vlaamse centrale dienst voor sociaal telefoontolken en   sociaal vertalen, vermeld in de artikels 45/1 en 45/3 van het decreet van 28   april 1998 betreffende het Vlaamse integratiebeleid en houdende de vaststelling   van de regels voor de betaling van de te presteren tolkprestaties, vermeld in   artikel 45/3, vierde lid, en artikel 45/4, § 1, van het voormelde decreet;<BR>3°   het besluit van de Vlaamse Regering van 12 november 2010 met betrekking tot de   uitvoering van het decreet betreffende het Vlaamse integratiebeleid;<BR>4° het   besluit van de Vlaamse Regering van 12 september 2008 betreffende het opleggen   van een administratieve geldboete aan rechthebbende en verplichte   inburgeraars;<BR>5° het besluit van de Vlaamse Regering van 27 juni 2008 tot   bepaling van de doelen voor het vormingspakket maatschappelijke oriëntatie   binnen het primaire inburgeringstraject;<BR>6° het besluit van de Vlaamse   Regering van 15 december 2006 betreffende de uitvoering van het Vlaamse   inburgeringsbeleid; <BR>7° het besluit van de Vlaamse Regering van 15 juli 2002   betreffende de erkenning en subsidiëring van de centra en diensten voor het   Vlaamse minderhedenbeleid.
+
+### ART 55/1.
+
+De verplichting tot inburgering, vermeld in artikel 27, §1, 2°, van dit decreet, is niet van toepassing op de bedienaar of vervanger van de bedienaar van een lokale geloofsgemeenschap die door het Vlaamse Gewest werd erkend voor 1 januari 2007 als die persoon al bedienaar of vervanger van de bedienaar was van een voormelde lokale geloofsgemeenschap voor de inwerkingtreding van het decreet van 3 mei 2024 tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid, wat betreft de verwerking van persoonsgegevens, de verplichting tot inburgering voor bedienaars van de erkende erediensten en een afwijking van het taalniveau voor NT2 voor personen met een handicap.
 
 ## HOOFDSTUK 11. Inwerkingtreding

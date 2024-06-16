@@ -2,16 +2,16 @@
   "codex_id": 1023121,
   "title": "Decreet van 2013-06-07 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023121/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "dc4af258e2678e5f96d1bfb2194709b396a4c7ff9a5682288f77d375a0e3ebef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023121/VolledigDocument?datum=2024-06-16",
+  "source_sha256": "1090d8845066390224670e986000c62758e33e667f4b35ac5dd8c1455c9b1287",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023121&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2024-06-16",
   "made": "2013-06-07",
   "gazette": "2013-07-26",
   "numac": 2013204197,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-09-01",
-  "article_versions": 66,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-06-16",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2024-06-16; future article versions excluded; article text as the API gives it"
 }
