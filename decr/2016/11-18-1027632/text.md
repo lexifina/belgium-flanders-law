@@ -297,6 +297,11 @@ Het decreet van 31 mei 2013 houdende toekenning van bepaalde bevoegdheden aan de
 § 1. In afwijking van artikel 2, § 3, van het Provinciedecreet van 9 december 2005 kan de provincie Vlaams-Brabant een investeringsfonds oprichten ter ondersteuning van bestaande en nieuwe welzijns- en zorgvoorzieningen teneinde mee de bestaande achterstand aan aanbod van welzijns- en zorgvoorzieningen in Vlaams-Brabant weg te werken, conform de modaliteiten die daarvoor bij decreet worden bepaald.<br>
 <br>
 § 2. De provincies worden gemachtigd om hun betrokkenheid in of de ondersteuning van instellingen voort te zetten tot een door de Vlaamse Regering voor elke instelling vast te stellen datum, voor zover die instellingen zijn opgenomen op een lijst die door de Vlaamse Regering is vastgesteld. De Vlaamse Regering bepaalt de voorwaarden en nadere regelen waaronder de provincies hun betrokkenheid en ondersteuning kunnen verderzetten.<br>
+<br>
+§3. In afwijking van paragraaf 2 wordt de provincie Antwerpen gemachtigd om haar betrokkenheid in en de ondersteuning van De Warande voort te zetten tot er een overname van De Warande is gerealiseerd door een andere overheid dan de provincie Antwerpen of door een andere rechtspersoon.<br>
+<br>
+Deze paragraaf treedt buiten werking zodra er een overname als vermeld in het eerste lid tot stand is gekomen.<br>
+<br>
 &nbsp;
 
 ### ART 37.
