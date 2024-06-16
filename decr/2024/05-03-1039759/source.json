@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039759,
+  "title": "Decreet van 2024-05-03 tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid, wat betreft de verwerking van persoonsgegevens, de verplichting tot inburgering voor bedienaars van de erkende erediensten en een afwijking van het taalniveau voor NT2 voor personen met een handicap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039759/VolledigDocument?datum=2024-06-16",
+  "source_sha256": "402fb4b9409a0ea724274f03776dcfaa8dc05df2c625026542633f117f5ca174",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039759&param=informatie",
+  "as_of": "2024-06-16",
+  "made": "2024-05-03",
+  "gazette": "2024-06-06",
+  "numac": 2024005214,
+  "document_start": "2024-06-16",
+  "document_end": null,
+  "in_force": "2024-06-16",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2024-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
