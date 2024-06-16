@@ -108,7 +108,7 @@ In het eerste lid wordt verstaan onder wijk-werkovereenkomst: een PWA-arbeidsove
 5° het informeren en sensibiliseren van de gebruikers;<br>
 6° het verzamelen en aanleveren aan de organisator van mogelijke werkplekken voor het verrichten van wijk-werken.<br>
 <br>
-§ 2. De gemeente kan de taken, vermeld in paragraaf 1, zelf uitvoeren, of voor de uitvoering van die taken een samenwerkingsverband sluiten met andere gemeenten als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, of een OCMW-vereniging oprichten als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+§ 2. De gemeente kan de taken, vermeld in paragraaf 1, zelf uitvoeren, of voor de uitvoering van die taken een samenwerking aangaan als vermeld in artikel 14, §1, eerste lid, 2°.<br>
 <br>
 Voor de taken, vermeld in paragraaf 1, maakt de gemeente gebruik van het platform, vermeld in afdeling 9.<br>
 <br>
@@ -118,12 +118,14 @@ Voor de taken, vermeld in paragraaf 1, maakt de gemeente gebruik van het platfor
 
 § 1. De gemeente heeft de volgende taak inzake de organisatie van het wijk-werken:<br>
 1° hetzij het oprichten van een organisator als het een gemeente betreft die minstens zestigduizend inwoners heeft;<br>
-2° hetzij het vormen van een samenwerkingsverband met rechtspersoonlijkheid als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, dat als organisator zal optreden of een organisator zal oprichten, op voorwaarde dat het samenwerkingsverband een grondgebied van zestigduizend inwoners omvat, of een OCMW-vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, oprichten, die als organisator zal optreden of een organisator zal oprichten, op voorwaarde dat die OCMW-vereniging een grondgebied van zestigduizend inwoners omvat;<br>
+2° hetzij het vormen van een samenwerkingsverband met rechtspersoonlijkheid als vermeld in deel 3, titel 3, hoofdstuk 3, van het decreet van 22 december 2017 over het lokaal bestuur, of een interlokale vereniging als vermeld in deel 3, titel 3, hoofdstuk 2, van het voormelde decreet als een van de deelnemende gemeenten aangesteld wordt als beherende gemeente die de vereniging vertegenwoordigt, of een vereniging of vennootschap voor maatschappelijk welzijn als vermeld in deel 3, titel 4, van het voormelde decreet, die als organisator optreedt of een organisator zal oprichten, op voorwaarde dat het samenwerkingsverband of de vereniging of de vennootschap een grondgebied van zestigduizend inwoners omvat;<br>
 3° hetzij de organisatie van wijk-werken over te laten aan de VDAB.<br>
 <br>
 Voor de taak, vermeld in het eerste lid, 2°, kan de gemeente ervoor kiezen om een bestaand samenwerkingsverband of een bestaande vereniging als vermeld in het voormelde punt 2°, te belasten met de organisatie van wijk-werken.<br>
 <br>
 Voor de taken, vermeld in het eerste lid, 1° en 2°, wordt verstaan onder oprichten van een organisator: het oprichten van een rechtspersoon of het aanduiden van een bestaande rechtspersoon die als organisator zal optreden. De Vlaamse Regering bepaalt welke vormen van rechtspersoonlijkheid in aanmerking komen als organisator.<br>
+<br>
+De gemeenten organiseren het samenwerkingsverband met rechtspersoonlijkheid, de interlokale vereniging of de vereniging of vennootschap voor maat- schappelijk welzijn, vermeld in het eerste lid, 2°, uiterlijk op 1 januari 2026 in overeenstemming met de principes, vermeld in artikel 6 van het Regiodecreet van 3 februari 2023. Artikel 7 van het voormelde decreet is van overeenkomstige toepassing, met dien verstande dat het bevoegde orgaan van het samenwerkingsverband met rechtspersoonlijkheid, de interlokale vereniging of de vereniging of vennootschap voor maatschappelijk welzijn, vermeld in het eerste lid, 2°, de aanvraag tot afwijking indient.<br>
 <br>
 § 2. Als de gemeente kiest voor de mogelijkheid, vermeld in paragraaf 1, eerste lid, 3°, zal de VDAB optreden als organisator.<br>
 <br>
@@ -131,7 +133,7 @@ De Vlaamse Regering kan nadere regels bepalen voor de toepassing van deze paragr
 <br>
 § 3. Er kan worden afgeweken van de vereiste van zestigduizend inwoners vermeld in paragraaf 1, eerste lid, 1° en 2°, als de gemeente of het samenwerkingsverband daartoe een gemotiveerde aanvraag indient en voldoet aan de voorwaarden. De Vlaamse Regering bepaalt voor de toepassing van deze paragraaf aan welke voorwaarden moet worden voldaan en hoe een gemotiveerde aanvraag moet worden ingediend.<br>
 <br>
-§ 4. In afwijking van de bepalingen van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, de bepalingen van het Gemeentedecreet van 15 juli 2005 of andere reglementering die de lokale besturen bindt, kan de beslissing tot oprichting van een organisator met toepassing van dit artikel genomen worden tijdens kalenderjaren 2017 en 2018, ongeacht de nabijheid van de verkiezingen voor de algehele vernieuwing van de gemeenteraden.<br>
+§ 4. In afwijking van het decreet van 22 december 2017 over het lokaal bestuur of andere reglementering die de lokale besturen bindt, kan de beslissing tot oprichting van een organisator met toepassing van dit artikel genomen worden tijdens kalenderjaren 2017 en 2018, ongeacht de nabijheid van de verkiezingen voor de algehele vernieuwing van de gemeenteraden.<br>
 <br>
 § 5. De Vlaamse Regering kan nadere regels en voorwaarden bepalen met betrekking tot dit artikel. De Vlaamse Regering kan bepalen welke vormen van rechtspersonen kunnen optreden als organisator en onder welke voorwaarden.
 
@@ -239,7 +241,7 @@ De activiteiten in het kader van wijk-werken mogen in geen geval tot gevolg hebb
 ### ART 27.
 
 De raad van bestuur van de VDAB bepaalt de lijst van activiteiten die verricht mogen worden in het Vlaamse Gewest in het kader van wijk-werken. Die lijst kan uitgebreid, aangepast of beperkt worden door de raad van bestuur van de VDAB zonder dat er verdringing van reguliere arbeid is, noch in het normale economische circuit, noch in de sociale economie.<br>
-Gemeenten kunnen, voor hun grondgebied, de lijst van activiteiten verder uitbreiden of beperken zonder dat er verdringing van reguliere arbeid is, noch in het normale economische circuit, noch in de sociale economie. De gemeente kan dit zelf doen, of hiervoor een samenwerkingsverband sluiten met andere gemeenten als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, of een OCMW-vereniging oprichten als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+Gemeenten kunnen, voor hun grondgebied, de lijst van activiteiten verder uitbreiden of beperken zonder dat er verdringing van reguliere arbeid is, noch in het normale economische circuit, noch in de sociale economie. De gemeente kan dit zelf doen, of hiervoor een samenwerking aangaan als vermeld in artikel 14, §1, eerste lid, 2°.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de vaststelling en de aanpassingen van de lijst, vermeld in het eerste en tweede lid. De Vlaamse Regering kan bepalen om bepaalde activiteiten voor te behouden aan bepaalde categorieën van gebruikers.
 

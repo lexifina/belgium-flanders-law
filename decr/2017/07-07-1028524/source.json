@@ -2,16 +2,16 @@
   "codex_id": 1028524,
   "title": "Decreet van 2017-07-07 betreffende wijk-werken en diverse bepalingen in het kader van de zesde staatshervorming (citeeropschrift: \"Wijk-werkendecreet van 7 juli 2017\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028524/VolledigDocument?datum=2023-12-17",
-  "source_sha256": "3bfc726bdf194f1a059cc5a1df74c618e4da642c6c49aa6c5150ea1e645902d7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028524/VolledigDocument?datum=2024-06-16",
+  "source_sha256": "0c2c6a797a8294fd4a67133348f770f0169441c8f7edc2b36399160177266c1b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028524&param=informatie",
-  "as_of": "2023-12-17",
+  "as_of": "2024-06-16",
   "made": "2017-07-07",
   "gazette": "2017-08-09",
   "numac": 2017020491,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2023-12-17",
+  "in_force": "2024-06-16",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2023-12-17; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-16; future article versions excluded; article text as the API gives it"
 }
