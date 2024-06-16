@@ -28,6 +28,7 @@ In dit decreet wordt verstaan onder:<br>
 7° buitengewone zorg: de zorg in het kader van revalidatie of geestelijke gezondheidszorg, al dan niet verleend buiten het Nederlandse taalgebied of buiten de door de Vlaamse Gemeenschap erkende zorgvoorzieningen in het tweetalige gebied Brussel-Hoofdstad, waarvoor, in het concrete geval, in geen tegemoetkoming is voorzien krachtens de reglementaire bepalingen van de Belgische verzekering voor geneeskundige verzorging, krachtens de bepalingen van dit decreet, met uitzondering van artikel 55 of krachtens de wettelijke bepalingen van een buitenlandse regeling voor verplichte verzekering;<br>
 8° decreet houdende de persoonsvolgende financiering: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
 8° /1 decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+8° /2 Departement Zorg: het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 9° erkende zorgkas: een zorgkas, opgericht door een instantie als vermeld in artikel 18, die erkend is krachtens artikel 19;<br>
 10° Expertencommissie: de Expertencommissie gespecialiseerde zorg, vermeld in artikel 39;<br>
 11° gebruiker: iedere natuurlijke persoon die een beroep doet of kan doen op de Vlaamse sociale bescherming, vermeld in artikel 4;<br>
@@ -746,6 +747,7 @@ Met behoud van de toepassing van andersluidende regelgeving hebben de gegevens d
 10° de Bijzondere Technische Commissie, vermeld in artikel 133 van dit decreet;<br>
 11° de actoren die belast zijn met de behandeling van administratieve beroepen, conform artikel 71, artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, van dit decreet;<br>
 12° de adviserend artsen van de verzekeringsinstellingen, de diensten maatschappelijk werk van de ziekenfondsen en de openbare centra voor maatschappelijk welzijn, vermeld in artikel 50.<br>
+13° het Departement Zorg.<br>
 <br>
 De instanties, vermeld in het eerste lid, verwerken de volgende persoonsgegevens van de gebruiker:<br>
 1° de persoonsgegevens die noodzakelijk zijn voor de identificatie van de gebruiker in kwestie en in voorkomend geval de vertegenwoordiger of mantelzorger van de gebruiker;<br>
@@ -776,14 +778,18 @@ De Vlaamse Regering specificeert per doeleinde welke identificatie-, opleidings-
 <br>
 Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerste lid, aan de zorgvoorzieningen in kwestie.<br>
 <br>
+§3/3. Het Departement Zorg kan de identificatiegegevens, inclusief het Rijksregisternummer of het bis-nummer, opleidingsgegevens en tewerkstellingsgegevens verwerken van de personen die een indicatiestelling kunnen afnemen in het kader van het beheer van de databank, vermeld in artikel 70/2.<br>
+<br>
 § 4. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
 1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
 2° de zorgkassen, voor de verwerking van indicatiestellingen , voor de verwerking van persoonsgegevens van gebruikers in het kader van hun opdrachten, vermeld in artikel 22, en voor de doorgifte van persoonsgegevens conform artikel 46/1;<br>
 3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
 4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker;<br>
-5°&nbsp;&nbsp; &nbsp;het Departement Zorg, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, voor het beheer van de databank met BelRAI-indicatiestellingen, vermeld in artikel 70/2 van dit decreet.<br>
+5°&nbsp;&nbsp; &nbsp;het Departement Zorg, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, voor het beheer van de databank met BelRAI-indicatiestellingen, vermeld in artikel 70/2 van dit decreet en voor de doeleinden, vermeld in paragraaf 9, tweede lid.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, gedurende welke termijn de verwerkte persoonsgegevens, met inbegrip van de gegevens over de gezondheid, maximaal zullen worden bewaard.<br>
+<br>
+In afwijking van het eerste lid worden de gegevens, vermeld in paragraaf 3/3, door het Departement Zorg maximaal vijftig jaar bewaard.<br>
 <br>
 § 6. De verwerking van persoonsgegevens, met inbegrip van de gegevens over de gezondheid, vindt plaats met respect voor de rechten van de betrokken gebruikers.<br>
 <br>
@@ -793,7 +799,25 @@ De zorgkassen zijn verantwoordelijk voor het verstrekken van informatie in hun i
 <br>
 § 8. De zorgkassen bezorgen aan het Intermutualistisch Agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op de analyse van die gegevens door het Intermutualistisch Agentschap. De doorgifte en analyse vindt plaats met het doel om verdere beleidsvorming te informeren. Die gegevens zijn gepseudonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
 <br>
-In het eerste lid wordt verstaan onder het Intermutualistisch Agentschap: het Intermutualistisch Agentschap opgericht overeenkomstig artikel 278 van de programmawet I van 24 december 2002.
+In het eerste lid wordt verstaan onder het Intermutualistisch Agentschap: het Intermutualistisch Agentschap opgericht overeenkomstig artikel 278 van de programmawet I van 24 december 2002.<br>
+<br>
+§ 9. Het Departement Zorg verwerkt de volgende gegevens:<br>
+1° de leeftijdscategorie;<br>
+2° de postcode van de hoofdverblijfplaats;<br>
+3° de periode van overlijden;<br>
+4° de gezondheidsgegevens;<br>
+5° de gegevens van socio-economische, levensbeschouwelijke en culturele aard;<br>
+6° de gegevens over de zelfbeschikking en factoren uit het dagelijkse leven van de gebruikers van wie een indicatiestelling wordt opgeslagen in de databank, vermeld in artikel 70/2.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden verwerkt voor de volgende doelstellingen:<br>
+1° het toezicht op de naleving van de erkennings- en financieringsvoorwaarden door de zorgvoorzieningen;<br>
+2° de uitvoering van een kwaliteitsbeleid aan de hand van indicatoren en groepsstatistieken uit de BelRAI-gegevens;<br>
+3° het vastleggen van een programmatieplanning aan de hand van BelRAI- gegevens;<br>
+4° het nemen van beleidsmaatregelen om de financiering van zorgvoorzieningen en gebruikers binnen de Vlaamse Sociale Bescherming te versterken aan de hand van BelRAI-gegevens.<br>
+<br>
+De gegevens, vermeld in het eerste lid, zijn gepseudonimiseerd.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden door het Departement Zorg bewaard voor een periode van maximaal dertig jaar.
 
 ### ART 50.
 
@@ -1105,17 +1129,18 @@ Het bedrag, vermeld in het eerste lid, wordt met ingang van het door de Vlaamse 
 <br>
 De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
 <br>
-[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+In afwijking van het tweede lid bedraagt de dossiertaks 30 euro voor de volgende gebruikers:<br>
+1° de gebruiker die op 1 januari van het kalenderjaar vóór het kalenderjaar waarin de dossiertaks betaald moet worden, recht heeft op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+2° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+3° de gebruiker die het voorwerp is van:<br>
+a)&nbsp; budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een instelling voor schuldbemiddeling die door de Vlaamse Gemeenschap is erkend;<br>
+b)&nbsp; een minnelijke schuldbemiddeling als vermeld in artikel 519, §2, 10°, van het Gerechtelijk Wetboek;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+7° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen, vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen.<br>
 <br>
-In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
-1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
-2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
-3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
-4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
-6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen<br>
-<br>
-<em>[Commentaar :&nbsp; het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+...<br>
 <br>
 In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort<br>
 <br>
@@ -1125,7 +1150,9 @@ De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 81.
 
-Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 80, § 5, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
+Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 80, § 5, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.<br>
+<br>
+In de gevallen waarin het beroep door de arbeidsrechtbank gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.
 
 ### ART 82.
 
@@ -1222,21 +1249,22 @@ De Vlaamse Regering kan in afwijking van het eerste lid bepalen dat voor de gege
 <br>
 § 3. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissing van de zorgkas. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratieve beroep behandelt. De Vlaamse Regering kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
 <br>
-§ 4. Elke gebruiker die een administratief beroep indient, is een dossiertaks verschuldigd aan het agentschap op straffe van onontvankelijkheid van het beroep.<br>
+§ 4. Elke gebruiker die een administratief beroep indient&nbsp;tegen een beslissing waarbij de vaststelling van de verminderde zelfredzaamheid wordt betwist, is een dossiertaks verschuldigd aan het agentschap op straffe van onontvankelijkheid van het beroep.<br>
 <br>
 De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
 <br>
-[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+In afwijking van het tweede lid bedraagt de dossiertaks 30 euro voor de volgende gebruikers:<br>
+1° de gebruiker die op 1 januari van het kalenderjaar vóór het kalenderjaar waarin de dossiertaks betaald moet worden, recht heeft op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+2° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+3°&nbsp; de gebruiker die het voorwerp is van:<br>
+a)&nbsp; budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een instelling voor schuldbemiddeling die door de Vlaamse Gemeenschap is erkend;<br>
+b)&nbsp; een minnelijke schuldbemiddeling als vermeld in artikel 519, §2, 10°, van het Gerechtelijk Wetboek;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maat- schappelijke integratie;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+7° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen, vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen.<br>
 <br>
-In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
-1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
-2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
-3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
-4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
-6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen&nbsp;(vierde lid<br>
-<br>
-<em>[Commentaar: het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+...<br>
 <br>
 In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.<br>
 <br>
@@ -1246,7 +1274,9 @@ De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 89.
 
-Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 88, § 3, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
+Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 88, § 3, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.<br>
+<br>
+In de gevallen waarin het beroep door de arbeidsrechtbank gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.
 
 ### ART 90.
 
@@ -1288,17 +1318,18 @@ De beslissing naar aanleiding van de aanvraag, vermeld in het tweede lid, over d
 <br>
 De dossiertaks, vermeld in het eerste lid, bedraagt 75 euro.<br>
 <br>
-[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
+In afwijking van het tweede lid bedraagt de dossiertaks 30 euro voor de volgende gebruikers:<br>
+1° de gebruiker die op 1 januari van het kalenderjaar vóór het kalenderjaar waarin de dossiertaks betaald moet worden, recht heeft op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+2° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
+3° de gebruiker die het voorwerp is van:<br>
+a)&nbsp; budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een instelling voor schuldbemiddeling die door de Vlaamse Gemeenschap is erkend;<br>
+b)&nbsp; een minnelijke schuldbemiddeling als vermeld in artikel 519, §2, 10°, van het Gerechtelijk Wetboek;<br>
+4° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+5° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomens- vervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+6° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
+7° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen, vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen.<br>
 <br>
-In afwijking van het eerste lid zijn de volgende gebruikers vrijgesteld van de betaling van een dossiertaks:<br>
-1° de gebruiker die het voorwerp is van een collectieve schuldenregeling, die in staat van faillissement is verklaard of die door een gerechtsdeurwaarder insolvabel is verklaard;<br>
-2° de gebruiker die het voorwerp is van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling of van een minnelijke schuldbemiddeling, vermeld in artikel 519, § 2, 10°, van het Gerechtelijk Wetboek;<br>
-3° de gebruiker die of een lid van zijn gezin dat recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
-4° de gebruiker die of een lid van zijn gezin dat recht heeft op een inkomensvervangende tegemoetkoming als vermeld in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-5° de gebruiker die of een lid van zijn gezin dat recht heeft op het minimumdagbedrag van de werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering en waarbij het gezinsinkomen van de gebruiker alleen bestaat uit deze uitkering;<br>
-6° de gebruiker die of een lid van zijn gezin dat recht heeft op de inkomensgarantie voor ouderen als vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen<br>
-<br>
-<em>[Commentaar: het vierde lid werd vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023 in zoverre die bepalingen niet voorzien in een volledige vrijstelling van de dossiertaks ten aanzien van rechthebbenden op een verhoogde tegemoetkoming krachtens artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, die niet tot de zes categorieën van volledig vrijgestelden behoren)]</em><br>
+<em>...</em><br>
 <br>
 In de gevallen waarin het administratief beroep gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.<br>
 <br>
@@ -1308,7 +1339,9 @@ De Vlaamse Regering kan nadere regels inzake de dossiertaks bepalen.
 
 ### ART 93.
 
-Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 92, § 5, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
+Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 92, § 5, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.<br>
+<br>
+In de gevallen waarin het beroep door de arbeidsrechtbank gegrond wordt verklaard, wordt de dossiertaks integraal teruggestort.
 
 ### ART 94.
 
