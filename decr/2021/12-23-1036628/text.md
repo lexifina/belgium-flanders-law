@@ -499,9 +499,8 @@ In afwijking van artikel 32 zijn de volgende beleidsperiodes van toepassing:<br>
 Met behoud van de toepassing van artikel 31 moet een intergemeentelijk samenwerkingsverband voldoen aan de volgende ontvankelijkheidsvoorwaarden:<br>
 1° in het Vlaamse Gewest liggen;<br>
 2° beschikken over rechtspersoonlijkheid conform de toepasselijke regelgeving over de intergemeentelijke samenwerking;<br>
-3° het intergemeentelijk samenwerkingsverband bevindt zich binnen de grenzen van de referentieregio's zoals bepaald door de Vlaamse Regering.<br>
-<br>
-De Vlaamse Regering kan op gemotiveerde wijze afwijken van punt 3°, vermeld in het eerste lid.
+3° het intergemeentelijk samenwerkingsverband is georganiseerd in overeenstemming met de principes, vermeld in artikel 6 en 7 van het Regio- decreet van 3 februari 2023.<br>
+&nbsp;
 
 ### ART 60.
 
