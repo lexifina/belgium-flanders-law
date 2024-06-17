@@ -10,6 +10,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
 1° administratie: de administratie van de diensten van de Vlaamse regering, bevoegd voor de gezondheidszorg;<br>
+1°/1 &nbsp;&nbsp; &nbsp;algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije ver-keer van die gegevens en tot intrekking van Richtlijn 95/46/EG (al-gemene verordening gegevensbescherming);<br>
 2° bevolkingsonderzoek: een geheel van acties met betrekking tot een onderzoek naar een ziekte of aandoening of naar risicofactoren, voorstadia of verwikkelingen ervan, aangeboden aan een groep personen. Dat onderzoek gebeurt niet naar aanleiding van gezondheidsklachten van individuele personen die uit eigen beweging worden geformuleerd, en die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;<br>
 3° biotische factoren:<br>
 a) micro-organismen, met inbegrip van de genetisch gemodificeerde, zijnde al dan niet cellulaire microbiologische entiteiten, met het vermogen tot replicatie of overdracht van genetisch materiaal;<br>
@@ -22,18 +23,25 @@ e) andere biologische organismen die potentieel schade kunnen toebrengen aan de 
 6° collectieve gezondheidsovereenkomst: een overeenkomst tussen de Vlaamse regering en een organisatie die een bijdrage kan leveren aan het preventieve gezondheidsbeleid, waarin de organisatie een inspanningsverbintenis onderschrijft om een of meer Vlaamse gezondheidsdoelstellingen of andere aspecten van het preventieve gezondheidsbeleid mee te helpen nastreven door haar leden of de doelgroep tot wie ze zich richt hierover te informeren, te sensibiliseren en aan te zetten tot gezond gedrag;<br>
 7° determinant van gezondheid: een factor die de mate van gezondheid van individuen of populaties mee bepaalt, hierna determinant te noemen;<br>
 8° duurzame ontwikkeling: maatschappelijke ontwikkeling die niet enkel rekening houdt met de behoeften van de huidige generatie, maar ook met die van toekomstige generaties;<br>
+8°/1 &nbsp;&nbsp; &nbsp;exposoom: de totaliteit van de blootstellingen van een persoon aan chemische, fysische, sociale en biotische factoren en de samen-hang met biologische interne reacties tijdens de levensloop. Het ex-posoom geeft een algemeen en geïntegreerd beeld van de accumula-tie en combinatie van blootstellingen op het individu;<br>
 9° facettenbeleid: beleid dat buiten het domein van de gezondheidszorg valt en bijdraagt tot het bevorderen, beschermen of behouden van gezondheid;<br>
 10° fysische factoren: natuurkundige verschijnselen die potentieel schadelijk zijn voor de gezondheid van de mens door hun akoestische, mechanische, thermische of elektromagnetische eigenschappen, met uitzondering van ioniserende straling;<br>
 11° gezondheid: toestand van lichamelijk, geestelijk en sociaal welbevinden bij de mens;<br>
 12° gezondheidsbevordering: preventiemethode, gebruikt binnen het preventieve gezondheidsbeleid, die tot doel heeft de gezondheid te bevorderen, te beschermen of te behouden door die processen te ondersteunen die individuen en groepen in staat stellen om de determinanten van hun gezondheid positief te beïnvloeden;<br>
 13° gezondheidsconferentie: bijeenkomst van personen op initiatief van de Vlaamse regering met als doel het uitwisselen van inzichten, gegevens en ervaringen om te komen tot een voorstel van een nieuwe of te herziene Vlaamse gezondheidsdoelstelling of om andere opdrachten te vervullen met betrekking tot het preventieve gezondheidsbeleid;<br>
 14° gezondheidsindicator: een kwantitatieve aanduiding van de gezondheid van de bevolking of van een aanwijsbaar deel ervan;<br>
+14°/1 gezondheidskundige advieswaarde voor fysische en chemi-sche factoren: een blootstellingswaarde die verondersteld wordt geen of verwaarloosbare negatieve effecten te hebben op de ge-zondheid van mensen bij een langdurige blootstelling en die vanuit gezondheidskundig oogpunt richtinggevend is voor een milieukwali-teitsniveau dat afgestemd is op een duurzame ontwikkeling van mens en milieu;<br>
+14°/2 &nbsp;&nbsp; &nbsp;gezondheidsimpact door klimaatverandering: huidige of toekomsti-ge, directe en indirecte gezondheidseffecten, die veroorzaakt zijn door biotische, fysische, chemische, ruimtelijke of materiële facto-ren die het gevolg zijn van klimaatverandering;<br>
 15° gezondheidswinst: het positieve resultaat van een systematisch en algemeen aanvaard meetproces aan de hand van parameters die gerelateerd zijn aan de levensduur en de levenskwaliteit van een bepaalde bevolking;<br>
 16° grenswaarde in de mens voor fysische of chemische factoren: de drempelwaarde in de mens van een lichaamsvreemde factor of de drempelwaarde in de mens van metabolieten van deze factor of van andere indicatoren van blootstelling en/of effect, die, bij overschrijding, een maatschappelijk onaanvaardbare graad van gezondheidsbedreiging met zich meebrengt voor de bevolking als geheel of voor bepaalde risicogroepen, hierna grenswaarde in de mens te noemen;<br>
+16°/1&nbsp;&nbsp; &nbsp;humane zeer zorgwekkende stof: een stof waarbij humane toxiciteit vermoed wordt of vastgesteld is, die relevant is voor een Vlaamse setting en die voldoet of mogelijk voldoet aan een of meer van de criteria, vermeld in artikel 57 van verordening nr. 1907/2006 van het Europees Parlement en de Raad van 18 decem-ber 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot op-richting van een Europees Agentschap voor chemische stoffen, hou-dende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie;<br>
 17° individuele zorgaanbieder: een persoon die meewerkt aan een of meer initiatieven van het Vlaamse preventieve gezondheidsbeleid, al dan niet in een mono- of multidisciplinair samenwerkingsverband, en die daarvoor erkend of gesubsidieerd kan worden door de Vlaamse Regering;<br>
 18° initiatief: een beslissing die genomen wordt ter uitvoering van het preventieve gezondheidsbeleid, met een al dan niet regelgevend karakter;<br>
 19° Logo: een door de Vlaamse regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied;<br>
+19°/1 &nbsp;&nbsp; &nbsp;medisch milieukundige: een medewerker van een Logo met medisch milieukundige expertise, die wordt belast met taken rond milieugerelateerde gezondheid en die zo de eerstelijnsfunctie medi-sche milieukunde invult in het kader van het preventief gezond-heidsbeleid inzake milieugezondheidszorg;<br>
 20° middelengebruik: het al dan niet legale gebruik van psychotrope stoffen die gezondheidsschade kunnen veroorzaken;<br>
+20°/1 &nbsp;&nbsp; &nbsp;milieugezondheidskundig aandachtsgebied: een afgebakende zone in tijd en ruimte waarbinnen de aanwezige biotische, chemi-sche, fysische, ruimtelijke of materiële factoren een hoger risico vormen voor de gezondheid van de mens dan in andere gebieden binnen de Europese Unie met gelijkaardige kenmerken;<br>
+20°/2 &nbsp;&nbsp; &nbsp;milieugezondheidszorg: het onderdeel van het preventieve gezond-heidsbeleid dat door een multidisciplinaire benadering, met min-stens de wetenschappelijke disciplines geneeskunde, toxicologie, epidemiologie, gezondheidszorg, milieutechnologie en milieukunde, inzet op het voorkomen, vroegdetectie en interventie van milieuge-zondheidsschade;<br>
 21° ontwikkelingsstoornis: een verstoring in het verwerven van motorische, sociale of cognitieve vaardigheden;<br>
 22° organisatie met terreinwerking: een van rechtswege erkende organisatie, een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie, of een organisatie die gesubsidieerd wordt via een beheersovereenkomst, die op het terrein de opdrachten uitvoert, de methodieken toepast of de diensten levert met betrekking tot de preventieve gezondheidszorg;<br>
 23° partnerorganisatie: een organisatie met rechtspersoonlijkheid die als een kern binnen een expertisenetwerk fungeert en die van rechtswege erkend en gesubsidieerd is, door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt, of gesubsidieerd wordt via een beheersovereenkomst, vanwege minstens een van de hiernavolgende competenties:<br>
@@ -43,9 +51,9 @@ c) het verstrekken van gegevens inzake gezondheidszorg;<br>
 24° preventieve gezondheidszorg: het deel van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de gezondheid te bevorderen, te beschermen of te behouden;<br>
 25° seksuele gezondheid: aan intieme lichamelijke relaties verbonden lichamelijk, geestelijk en sociaal welbevinden;<br>
 26° sociale omgeving: de interrelationele en psychosociale realiteit waarbinnen de mens zich situeert;<br>
-27° streefwaarde voor fysische en chemische factoren: waarde die richtinggevend is voor een milieukwaliteitsniveau dat afgestemd is op een duurzame ontwikkeling, hierna streefwaarde te noemen;<br>
+27° ...;<br>
 28° stresshantering: methode die gericht is op het wegnemen of beperken van stress en/of op het leren omgaan met stress;<br>
-29° vaccinator: een arts of een verpleegkundige onder toezicht van een arts, die inentingen toedient die beschikbaar gesteld worden via de Vlaamse Gemeenschap;<br>
+29° &nbsp;&nbsp; &nbsp;vaccinator: een arts, verpleegkundige of andere gezondheids-zorgbeoefenaar die door de overheid die daarvoor bevoegd is, ge-machtigd is om vaccinaties toe te dienen;<br>
 30° verworven factoren: biologische eigenschappen die in de loop van het leven opgebouwd zijn en als indicator voor de gezondheidstoestand kunnen fungeren;<br>
 31° Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
 32° Vlaamse gezondheidsdoelstelling: een op het vlak van gezondheid na te streven, tijdsgebonden, meetbare, haalbare en maatschappelijk aanvaardbare doelstelling, die op initiatief van de Vlaamse regering wordt goedgekeurd door het Vlaams Parlement;<br>
@@ -76,7 +84,10 @@ De initiatieven om de gezondheid te bevorderen, te beschermen of te behouden, be
 
 ### ART. 6.
 
-De Vlaamse regering kan zich richten tot specifieke bevolkingsgroepen, waaronder personen of groepen van personen die behoren tot een bepaalde leeftijdscategorie of die zich bevinden in een bepaalde ontwikkelingsfase met als doel:<br /><br />a) het beter bereiken van groepen die gekenmerkt worden door een bijzondere kwetsbaarheid;<br /><br />b) het beter rekening kunnen houden met de evolutieve en dynamische aspecten van het menszijn;<br /><br />c) het verbeteren van de uitvoerbaarheid van de initiatieven, bedoeld in artikel 5.
+De Vlaamse regering kan zich richten tot specifieke bevolkingsgroepen, waaronder personen of groepen van personen die behoren tot een bepaalde leeftijdscategorie die zich bevinden in een bepaalde ontwikkelingsfase&nbsp;of die in een milieugezondheidskundig aandachtsgebied verblijven, met als doel:<br>
+a) het beter bereiken van groepen die gekenmerkt worden door een bijzondere kwetsbaarheid;<br>
+b) het beter rekening kunnen houden met de evolutieve en dynamische aspecten van het menszijn;<br>
+c) het verbeteren van de uitvoerbaarheid van de initiatieven, bedoeld in artikel 5.
 
 ### ART. 7.
 
@@ -214,7 +225,17 @@ De Vlaamse regering kan individuele zorgaanbieders belasten met of betrekken bij
 
 ### ART. 27.
 
-§ 1. De Vlaamse regering maakt afspraken met andere betrokken besturen, namelijk:<br /><br />1° de gemeentelijke overheden of hun vertegenwoordigers;<br /><br />2° de provinciale overheden of hun vertegenwoordigers;<br /><br />3° de Vlaamse Gemeenschapscommissie voor het tweetalig gebied Brussel-Hoofdstad.<br /><br />§ 2. De afspraken met andere betrokken besturen hebben betrekking op:<br /><br />1° de mogelijke samenwerking rond en/of de mogelijke delegatie van bepaalde opdrachten en verantwoordelijkheden met het oog op het ten uitvoer brengen van de initiatieven, bedoeld in artikel 5;<br /><br />2° de mogelijke coördinatie van het facettenbeleid op het niveau van de in § 1 bedoelde besturen;<br /><br />3° de mogelijke ondersteuning van de Logo's.
+§ 1. De Vlaamse regering maakt afspraken met andere betrokken besturen, namelijk:<br>
+1° de gemeentelijke overheden of hun vertegenwoordigers;<br>
+2° de provinciale overheden of hun vertegenwoordigers;<br>
+3° de Vlaamse Gemeenschapscommissie voor het tweetalig gebied Brussel-Hoofdstad.<br>
+<br>
+§ 2. De afspraken met andere betrokken besturen hebben betrekking op:<br>
+1° de mogelijke samenwerking rond en/of de mogelijke delegatie van bepaalde opdrachten en verantwoordelijkheden met het oog op het ten uitvoer brengen van de initiatieven, bedoeld in artikel 5;<br>
+2° de mogelijke coördinatie van het facettenbeleid op het niveau van de in § 1 bedoelde besturen;<br>
+3° de mogelijke ondersteuning van de Logo's.<br>
+<br>
+§3. De Vlaamse Regering kan de besturen, vermeld in paragraaf 1, subsidiëren voor de afspraken, vermeld in paragraaf 2. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden en regelt de uitbetaling van de subsidie, de verantwoording voor de subsidie en het toezicht op de aanwending van de subsidie.
 
 ## HOOFDSTUK VIII LOGO'S
 
@@ -284,6 +305,155 @@ De gegevensuitwisseling, bedoeld in artikel 32, moet gebeuren in overeenstemming
 
 ...
 
+### ART 34/3.
+
+§1. In dit artikel wordt verstaan onder:<br>
+1° &nbsp;&nbsp; &nbsp;aanvrager: de persoon die op grond van een persoonlijk belang advies vraagt of meldingen doet in het kader van initiatieven of maatregelen als vermeld in artikel 39, 44, 51, 53, 53/1 of 55. De aanvrager kan een andere persoon zijn dan de betrokkene, vermeld in punt 2°;<br>
+2° &nbsp;&nbsp; &nbsp;betrokkene: de natuurlijke persoon die ofwel:<br>
+a)&nbsp;&nbsp; &nbsp;naar aanleiding van gezondheidsklachten, milieumetingen of een mogelijke blootstelling aan schadelijke chemische, fysische of biotische factoren het voorwerp is van een adviesaanvraag over blootstellingsbe-perkingen of bronmaatregelen, in het kader van initiatieven of maatre-gelen als vermeld in artikel 39, 44, 51, 53, 53/1 of 55;<br>
+b)&nbsp;&nbsp; &nbsp;woont op een plaats of in de nabijheid van een plaats waar milieuge-gevens zijn gemeten, waarover om advies gevraagd wordt in het kader van initiatieven of maatregelen als vermeld in artikel 39, 44, 51, 53, 53/1 of 55;<br>
+3° &nbsp;&nbsp; &nbsp;milieumeetgegevens: concentraties of randomstandigheden die gemeten worden in de omgeving, in het binnenmilieu en in de milieucompartimen-ten lucht, bodem en water en die belangrijk zijn om de impact van huma-ne blootstelling en belasting te bepalen.<br>
+<br>
+§2. De administratie, de organisatie die in het kader van een overheidsop-dracht een initiatief als vermeld in artikel 39, 44, 51, 53, 53/1 of 55, uitvoert, de medisch milieukundigen die werkzaam zijn bij de Logo’s en de partnerorga-nisaties die werken rond het thema milieugezondheidszorg kunnen persoons-gegevens verwerken met het oog op de volgende doeleinden:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;het onderzoeken en behandelen van meldingen van gezondheidsklachten of vragen over gezondheid of over de interpretatie van milieumeetgege-vens;<br>
+2° &nbsp;&nbsp; &nbsp;het verlenen van advies over blootstellingsbeperkingen;<br>
+3° &nbsp;&nbsp; &nbsp;het adviseren van bronmaatregelen.<br>
+<br>
+Indien een partnerorganisatie die werkt rond het thema milieugezond-heidszorg bestaat uit een samenwerkingsverband, kunnen de organisaties die deel uitmaken van dit samenwerkingsverband zelf ook de gegevens, vermeld in paragraaf 3, verwerken.<br>
+<br>
+§3. In het kader van de doelstellingen, vermeld in paragraaf 2, kunnen de volgende persoonsgegevens van de betrokkene verwerkt worden:<br>
+1° &nbsp;&nbsp; &nbsp;de persoonsgegevens om de betrokkene te identificeren, waaronder het rijksregisternummer of het identificatienummer van de sociale zekerheid, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid;<br>
+2° &nbsp;&nbsp; &nbsp;het adres van de betrokkene;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de volgende contactgegevens van de betrokkene:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het gsm- en telefoonnummer;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+4° &nbsp;&nbsp; &nbsp;in geval van een melding of vraag over een gezondheidsklacht, informatie over de gezondheidsklacht in kwestie;&nbsp;<br>
+5° &nbsp;&nbsp; &nbsp;de informatie over de leefstijl van de betrokkene die noodzakelijk is om advies inzake blootstellingsbeperkingen te kunnen geven;<br>
+6° &nbsp;&nbsp; &nbsp;de socio-economische gegevens van de betrokkene die noodzakelijk zijn om gedifferentieerd advies inzake blootstellingsbeperkingen te kunnen geven;<br>
+7° &nbsp;&nbsp; &nbsp;de woonomstandigheden;&nbsp;<br>
+8° &nbsp;&nbsp; &nbsp;in geval van een melding of vraag over een gezondheidsklacht, de gegevens over de preventieve begeleiding die is aangeboden aan de betrokkene in het kader van het initiatief of de maatregel in kwestie;<br>
+9° &nbsp;&nbsp; &nbsp;relevante milieumeetgegevens, op voorwaarde dat de betrokkene een persoonlijk belang heeft;<br>
+10° &nbsp;&nbsp; &nbsp;de relevante gegevens uit stalen die afgenomen worden van het lichaam van de betrokkene in het kader van het initiatief, vermeld in artikel 39, 44, 51, 53, 53/1 of 55;&nbsp;<br>
+11° &nbsp;&nbsp; &nbsp;de gegevens uit stalen die genomen worden in het milieu in het kader van het initiatief, vermeld in artikel 39, 44, 51, 53, 53/1 of 55.<br>
+<br>
+De administratie, de organisatie die in het kader van een overheidsop-dracht een initiatief als vermeld in artikel 39, 44, 51, 53, 53/1 of 55 uitvoert, de medisch milieukundigen die werkzaam zijn bij de Logo’s en de partnerorga-nisaties die werken rond het thema milieugezondheidszorg, vermeld in paragraaf 2, eerste lid, kunnen de persoonsgegevens, vermeld in het eerste lid, onderling uitwisselen.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden bewaard tot maximaal tien jaar na afhandeling van de vraag of melding, vermeld in paragraaf 2.&nbsp;<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de lijst van gegevens, vermeld in het eerste lid, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, nader preciseren.<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de volgende modaliteiten bepalen:<br>
+1° &nbsp;&nbsp; &nbsp;de regels voor en de wijze van de verwerking van de gegevens;<br>
+2° &nbsp;&nbsp; &nbsp;de vorm en de wijze waarop gegevens worden uitgewisseld.<br>
+<br>
+§4. De gegevens, vermeld in paragraaf 3, eerste lid, kunnen onder de voorwaarden, vermeld in het tweede tot en met zesde lid, uitgewisseld worden tussen de actoren, vermeld in paragraaf 3, tweede lid, of met de volgende actoren:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de betrokkene;<br>
+2° &nbsp;&nbsp; &nbsp;de arts of specialist die de betrokkene behandelt;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de aanvrager, voor zover het niet om de betrokkene gaat;<br>
+4° &nbsp;&nbsp; &nbsp;laboratoria die milieugegevens onderzoeken;&nbsp;<br>
+5° &nbsp;&nbsp; &nbsp;een organisatie waarmee de Vlaamse Regering een overeenkomst heeft gesloten voor het nemen of onderzoeken van stalen of het interpreteren van resultaten;<br>
+6° &nbsp;&nbsp; &nbsp;overheidsinstanties die opgericht zijn binnen het beleidsdomein Omgeving.&nbsp;<br>
+<br>
+De betrokkene, vermeld in het eerste lid, 1°, en de arts of specialist, vermeld in het eerste lid, 2°, kan alle gegevens ontvangen, vermeld in paragraaf 3, eerste lid, evenals resultaten van onderzoeken en adviezen, vermeld in paragraaf 2.<br>
+<br>
+De aanvrager kan alleen de gegevens uit de lijst, vermeld in paragraaf 3, eerste lid, ontvangen waarvoor hij een persoonlijk belang heeft, evenals de adviezen, vermeld in paragraaf 2.<br>
+<br>
+De laboratoria, vermeld in het eerste lid, 4°, kunnen alleen de gegevens, vermeld in paragraaf 3, 2°, 9° en 11°, ontvangen.&nbsp;<br>
+<br>
+De organisatie, vermeld in het eerste lid, 5°, kan alle gegevens, vermeld in paragraaf 3, eerste lid, ontvangen.<br>
+<br>
+Alleen de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 1°, 2°, 3°, 7°, 9° en 11°, kunnen uitgewisseld worden met de overheidsinstanties, vermeld in het eerste lid, 6°.<br>
+<br>
+§5. Wanneer een advies, in het kader van initiatieven of maatregelen als vermeld in artikel 39, 44, 51, 53, 53/1 of 55, wordt aangevraagd door een andere natuurlijke persoon dan de betrokkene, worden de volgende persoons-gegevens van de adviesvrager verwerkt:<br>
+1° &nbsp;&nbsp; &nbsp;de persoonsgegevens om de adviesvrager te identificeren;<br>
+2° &nbsp;&nbsp; &nbsp;de volgende contactgegevens van de adviesvrager:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het gsm- en telefoonnummer;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt met het oog op de doeleinden vermeld in de tweede paragraaf.<br>
+<br>
+De administratie, de organisatie die in het kader van een overheidsop-dracht een initiatief als vermeld in artikel 39, 44, 51, 53, 53/1 of 55 uitvoert, de medisch milieukundigen die werkzaam zijn bij de Logo’s en de partnerorga-nisaties die werken rond het thema milieugezondheidszorg, vermeld in paragraaf 2, eerste lid, kunnen de persoonsgegevens, vermeld in het eerste lid, onderling uitwisselen.<br>
+<br>
+De gegevens, vermeld in het eerste lid, hebben eenzelfde bewaartermijn als vermeld in paragraaf 3, derde lid.&nbsp;<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de lijst van gegevens, vermeld in het eerste lid, nader preciseren.<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de volgende modaliteiten bepalen:<br>
+1° &nbsp;&nbsp; &nbsp;de regels voor en de wijze van de verwerking van de gegevens;<br>
+2° &nbsp;&nbsp; &nbsp;de vorm en de wijze waarop gegevens worden uitgewisseld.<br>
+<br>
+De gegevens, vermeld in het eerste lid, kunnen uitgewisseld worden tussen de actoren, vermeld in paragraaf drie, tweede lid, of met de volgende actoren:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de betrokkene;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de arts of specialist die de betrokkene behandelt;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de adviesvrager, voor zover de adviesvraag niet door de betrokkene gebeurt;<br>
+4° &nbsp;&nbsp; &nbsp;een organisatie waarmee de Vlaamse Regering een overeenkomst heeft gesloten voor het nemen of onderzoeken van stalen of het interpreteren van resultaten;<br>
+5° &nbsp;&nbsp; &nbsp;overheidsinstanties die opgericht zijn binnen het beleidsdomein Omgeving.&nbsp;<br>
+<br>
+§6. De administratie, de medisch milieukundigen die werkzaam zijn bij de Logo’s en de partnerorganisaties die werken rond het thema milieugezond-heidszorg zijn gezamenlijk de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in paragraaf 3, eerste lid.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke moet treffen om de persoonsge-gevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.
+
+### ART 34/4.
+
+§1. In dit artikel wordt verstaan onder:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;betrokkene: de natuurlijke persoon die deelneemt aan het programma voor humane biomonitoring, vermeld in artikel 54, §2;<br>
+2° &nbsp;&nbsp; &nbsp;preventiewerker milieu-gezondheid: een persoon die aangeworven wordt of ingezet wordt in ondersteuning van de medisch milieukundigen bij de Logo’s, voor de uitvoering van het preventief gezondheidsbeleid inzake milieugezondheidszorg door de Logo’s.<br>
+<br>
+§2. De administratie, of de organisatie die een subsidie ontvangt van de Vlaamse Regering om het programma voor humane biomonitoring, vermeld in artikel 54, §2, te realiseren, kan persoonsgegevens verwerken van betrokkenen voor de uitvoering van het programma voor humane biomonitoring, vermeld in artikel 54, §2.&nbsp;<br>
+<br>
+§3. In het kader van de doeleinden, vermeld in paragraaf 4, kunnen de volgende persoonsgegevens van de betrokkene verwerkt worden:<br>
+1° &nbsp;&nbsp; &nbsp;de persoonsgegevens om de betrokkene te identificeren, waaronder het rijksregisternummer of het identificatienummer van de sociale zekerheid, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid;<br>
+2° &nbsp;&nbsp; &nbsp;de volgende contactgegevens van de betrokkene:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het gsm- en telefoonnummer;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;het adres;<br>
+3° &nbsp;&nbsp; &nbsp;de volgende gegevens over de gezondheid van de betrokkene:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de gegevens over de milieugerelateerde gezondheidseffecten van de betrokkene die noodzakelijk zijn om het initiatief of de maatregel te realiseren, waaronder ook gegevens uit bevraging, lichamelijk onder-zoek of beeldvormend onderzoek;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de relevante gegevens uit stalen die worden afgenomen van het lichaam van de betrokkene in het kader van de humane biomonitoring;<br>
+4° &nbsp;&nbsp; &nbsp;de gegevens over de leefstijl van de betrokkene die noodzakelijk zijn om het initiatief of de maatregel te realiseren;<br>
+5° &nbsp;&nbsp; &nbsp;de socio-economische gegevens van de betrokkene die noodzakelijk zijn om het initiatief of de maatregel te realiseren;<br>
+6° &nbsp;&nbsp; &nbsp;de gegevens over de preventieve begeleiding die is aangeboden aan de betrokkene in het kader van het initiatief of de maatregel in kwestie;<br>
+7° &nbsp;&nbsp; &nbsp;de gegevens over de persoonlijke blootstelling van de betrokkene aan omgevingsfactoren, zoals bodem, lucht, water, lokale voeding en binnen-milieu.<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de lijst van gegevens, vermeld in het eerste lid, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, nader preciseren.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden maximaal dertig jaar bewaard na de afronding van het eerste onderzoek waaraan de betrokkene deelnam in het kader van de humane biomonitoring. De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, een kortere termijn bepalen waarin de verwerkte persoonsgegevens worden bewaard.<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de volgende modaliteiten bepalen:<br>
+1° &nbsp;&nbsp; &nbsp;de regels voor en de wijze van de verwerking van de gegevens;<br>
+2° &nbsp;&nbsp; &nbsp;de vorm en de wijze waarop gegevens worden uitgewisseld.<br>
+<br>
+§4. De gegevens, vermeld in paragraaf 3, eerste lid, worden verwerkt voor de volgende doeleinden:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de uitvoering van het programma voor humane biomonitoring, vermeld in artikel 54, §2;<br>
+2° &nbsp;&nbsp; &nbsp;het opnieuw contacteren van de betrokkene in het kader van gezondheids-opvolging of in het kader van een nieuw, gerelateerd onderzoek;<br>
+3° &nbsp;&nbsp; &nbsp;wetenschappelijke of beleidsdoeleinden, na anonimisering of minstens na pseudonimisering, als anonimisering niet toelaat om het doeleinde te bereiken.<br>
+<br>
+Met het oog op het doeleinde, vermeld in het eerste lid, 3°, kunnen de gegevens, vermeld in paragraaf 3, eerste lid:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;gekoppeld worden met gegevens die onttrokken worden uit gegevensbanken met milieugegevens, die opgericht zijn door overheidsinstanties binnen het beleidsdomein Omgeving;<br>
+2° &nbsp;&nbsp; &nbsp;gekoppeld worden met gegevens die onttrokken worden uit de volgende gegevensbanken:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;gegevensbanken met gezondheidsgegevens van het Intermutualistisch Agentschap;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;gegevensbanken met gezondheidsgegevens van netwerken waarin de Vlaamse huisartsen verenigd zijn;<br>
+c)&nbsp;&nbsp; &nbsp;gegevensbanken met geboorte- of mortaliteitsgegevens;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;gegevensbanken waarin gegevens in verband met kanker geregistreerd worden;<br>
+e)&nbsp;&nbsp; &nbsp;gegevensbanken met gegevens over opnames in ziekenhuizen;<br>
+f)&nbsp;&nbsp; &nbsp;gegevensbanken van de centra voor leerlingenbegeleiding, vermeld in artikel 2, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+3° &nbsp;&nbsp; &nbsp;geheranalyseerd worden op basis van nieuwe statistische technieken en wetenschappelijke kennis.<br>
+<br>
+De gegevens, vermeld in paragraaf 3, eerste lid, en de interpreteerbare individuele resultaten van de humane biomonitoring worden meegedeeld aan de betrokkene.<br>
+<br>
+De gegevens, vermeld in paragraaf 3, eerste lid, 1°, 3°, 4° en 5°, en de interpreteerbare individuele resultaten van de humane biomonitoring worden meegedeeld aan de behandelend arts van de betrokkene.&nbsp;<br>
+<br>
+De gegevens, vermeld in paragraaf 3, eerste lid, en de interpreteerbare individuele resultaten van de humane biomonitoring kunnen desgevallend meegedeeld worden aan een preventiewerker milieu-gezondheid.<br>
+<br>
+De gegevens, vermeld in paragraaf 3, eerste lid, 1°, 3° en 4°, worden ontsloten naar het elektronisch medisch dossier van de betrokkene, behalve in de gevallen waarin de betrokkene zich verzet tegen de ontsluiting.<br>
+<br>
+§5. De organisatie die een subsidie ontvangt van de Vlaamse Regering om het programma voor humane biomonitoring, vermeld in artikel 54, §2, te realiseren, is de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in paragraaf 3, eerste lid, die verwerkt worden in het kader van het programma voor humane biomonitoring.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke moet treffen om de persoonsge-gevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
+<br>
+§6. Als de administratie zelf het programma voor humane biomonitoring realiseert of als dat gebeurt in het kader van een overheidsopdracht, is de administratie zelf de verwerkingsverantwoordelijke.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke moet treffen om de persoonsge-gevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.
+
 ## HOOFDSTUK XI COLLECTIEVE GEZONDHEIDS- OVEREENKOMST
 
 ### ART. 35.
@@ -322,7 +492,28 @@ Onverminderd de bevoegdheden van officieren van de gerechtelijke politie en van 
 
 ### ART. 41.
 
-§ 1. Binnen de bevoegdheden die aan hen toegewezen zijn overeenkomstig artikel 40, kunnen de in artikel 40 bedoelde ambtenaren, mondelinge of schriftelijke raadgevingen, aanmaningen en bevelen geven.<br /><br />§ 2. De in artikel 40 bedoelde ambtenaren stellen de overtredingen vast door middel van processen-verbaal die bewijskracht hebben tot het tegendeel bewezen is. Een afschrift van het proces-verbaal wordt per aangetekende brief ter kennis gebracht van de overtreder binnen vijf werkdagen na de vaststelling van de overtreding. De postdatum geldt hiervoor als bewijs. Ook wordt een afschrift van het proces-verbaal schriftelijk ter kennis gebracht van de administratie.<br /><br />§ 3. Binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, hebben de in artikel 40 bedoelde ambtenaren, op elk ogenblik van de dag of van de nacht, zonder voorafgaande verwittiging, vrije toegang tot alle plaatsen waaruit het risico op de effecten, bedoeld in artikel 39, § 2, kan voortkomen.<br /><br />§ 4. Binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, mogen de in artikel 40 bedoelde ambtenaren:<br /><br />- elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten;<br /><br />- bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.<br /><br />§ 5. De burgemeesters, met uitzondering van de burgemeesters van gemeenten van het tweetalig gebied Brussel-Hoofdstad, en de krachtens artikel 40 aangeduide ambtenaren kunnen de gehele of gedeeltelijke stillegging of sluiting bevelen van de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van de besmetting, wanneer zij vaststellen dat de opgelegde maatregelen niet nageleefd worden, wanneer de bevelen of aanmaningen, bedoeld in § 1, niet opgevolgd worden of wanneer er een dreigend of ernstig gevaar bestaat voor de volksgezondheid.<br /><br />§ 6. Als niet onmiddellijk gevolg wordt gegeven aan de maatregelen, bedoeld in artikel 39, § 2, en de aanmaningen en bevelen, bedoeld in § 5, kunnen de krachtens artikel 40 aangeduide ambtenaren of de burgemeesters, bedoeld in § 5, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.<br /><br />§ 7. Alle maatregelen, bevelen, stilleggingen of sluitingen, bedoeld in § 1, § 5 en § 6, moeten gemotiveerd worden.
+§ 1. Binnen de bevoegdheden die aan hen toegewezen zijn overeenkomstig artikel 40, kunnen de in artikel 40 bedoelde ambtenaren, mondelinge of schriftelijke raadgevingen, aanmaningen en bevelen geven.<br>
+<br>
+§ 2. De in artikel 40 bedoelde ambtenaren stellen de overtredingen vast door middel van processen-verbaal die bewijskracht hebben tot het tegendeel bewezen is. Een afschrift van het proces-verbaal wordt per aangetekende brief ter kennis gebracht van de overtreder binnen vijf werkdagen na de vaststelling van de overtreding. De postdatum geldt hiervoor als bewijs. Ook wordt een afschrift van het proces-verbaal schriftelijk ter kennis gebracht van de administratie.<br>
+<br>
+§ 3. Binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, hebben de in artikel 40 bedoelde ambtenaren, op elk ogenblik van de dag of van de nacht, zonder voorafgaande verwittiging, vrije toegang tot alle plaatsen waaruit het risico op de effecten, bedoeld in artikel 39, § 2, kan voortkomen.<br>
+<br>
+§ 4. Binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, mogen de in artikel 40 bedoelde ambtenaren:<br>
+<br>
+- elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten;<br>
+<br>
+- bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.<br>
+<br>
+§ 5. De burgemeesters, met uitzondering van de burgemeesters van gemeenten van het tweetalig gebied Brussel-Hoofdstad, en de krachtens artikel 40 aangeduide ambtenaren kunnen de gehele of gedeeltelijke stillegging of sluiting bevelen van de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van de besmetting, wanneer zij vaststellen dat de opgelegde maatregelen niet nageleefd worden, wanneer de bevelen of aanmaningen, bedoeld in § 1, niet opgevolgd worden of wanneer er een dreigend of ernstig gevaar bestaat voor de volksgezondheid.<br>
+<br>
+§5/1. Als er een dreigend of ernstig gevaar voor de volksgezondheid bestaat, kunnen de ambtenaren die krachtens artikel 40 aangewezen zijn, ook maatregelen bevelen die strekken tot:<br>
+a)&nbsp;&nbsp; &nbsp;de desinfectie van de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van de besmetting;<br>
+b)&nbsp;&nbsp; &nbsp;het aanbrengen van wijzigingen in de procesvoering die de oorzaak kan zijn van de besmetting;<br>
+c)&nbsp;&nbsp; &nbsp;de uitvoering van werkzaamheden aan de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van de besmetting.<br>
+<br>
+§ 6. Als niet onmiddellijk gevolg wordt gegeven aan de maatregelen, bedoeld in artikel 39, § 2, en de aanmaningen en bevelen, vermeld in §5 en §5/1, kunnen de krachtens artikel 40 aangeduide ambtenaren of de burgemeesters, bedoeld in § 5, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.<br>
+<br>
+§ 7. Alle maatregelen, bevelen, stilleggingen of sluitingen, bedoeld in § 1, § 5, §5/1 en § 6, moeten gemotiveerd worden.
 
 ### ART. 42.
 
@@ -330,7 +521,100 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 
 ### ART. 43.
 
-§ 1. Om bepaalde infecties te voorkomen, stelt de Vlaamse regering een vaccinatieschema op dat de aanbevolen vaccinaties weergeeft voor de bevolking, en informeert ze de vaccinatoren en de bevolking hierover.<br /><br />§ 2. De Vlaamse regering neemt initiatieven om de vaccinatiegraad van de bevolking zo hoog mogelijk te maken.<br /><br />§ 3. De vaccinatoren moeten meewerken aan een door de Vlaamse regering te bepalen registratiesysteem.<br /><br />§ 4. De Vlaamse regering kan bepalen in welke omstandigheden andere vaccins of andere vaccinatietijdstippen worden aanbevolen dan die aangegeven worden in het vaccinatieschema, bedoeld in § 1.
+§ 1. Om bepaalde infecties te voorkomen, stelt de Vlaamse regering een vaccinatieschema op dat de aanbevolen vaccinaties weergeeft voor de bevolking, en informeert ze de vaccinatoren en de bevolking hierover.<br>
+<br>
+§ 2. De Vlaamse regering neemt initiatieven om de vaccinatiegraad van de bevolking zo hoog mogelijk te maken.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De Vlaamse regering kan bepalen in welke omstandigheden andere vaccins of andere vaccinatietijdstippen worden aanbevolen dan die aangegeven worden in het vaccinatieschema, bedoeld in § 1.
+
+### ART 43/1.
+
+§1. De vaccinatoren registreren de vaccinaties die toegediend zijn in het Nederlandse taalgebied en die deel uitmaken van het vaccinatieschema, vermeld in artikel 43, §1, in het registratiesysteem Vaccinnet.<br>
+<br>
+De Vlaamse Regering kan bepalen dat vaccinaties die geen deel uitmaken van het vaccinatieschema, vermeld in artikel 43, §1, die toegediend zijn in het Nederlandse taalgebied en die kaderen in de preventieve gezondheidszorg, door de vaccinatoren geregistreerd worden in het registratiesysteem Vaccinnet, behalve in de gevallen waarin de persoon aan wie het vaccin werd toegediend zich verzet tegen de registratie. De Vlaamse Regering bepaalt om welke vaccinaties het gaat.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste en tweede lid registreren de vaccinatoren de vaccinaties met vaccins die de Vlaamse Gemeenschap gratis ter beschikking stelt van de vaccinatoren en die zijn toegediend in het tweetalige gebied Brussel-Hoofdstad, ook in het registratiesysteem Vaccinnet.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste, tweede en derde lid kunnen de vaccinatoren ook vaccinaties registreren in Vaccinnet die in het buitenland of in het Franse of Duitse taalgebied zijn toegediend of die zijn toegediend in het tweetalige gebied Brussel-Hoofdstad, maar die niet gratis ter beschikking gesteld zijn door de Vlaamse Gemeenschap, als voldaan is aan al de volgende voorwaar-den:<br>
+1° &nbsp;&nbsp; &nbsp;de vaccinatie kadert in de preventieve gezondheidszorg;<br>
+2° &nbsp;&nbsp; &nbsp;de registratie gebeurt op vraag van de persoon aan wie het vaccin werd toegediend;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;de persoon aan wie het vaccin werd toegediend kan de vaccinatie bewijzen door middel van officiële documenten.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. Met betrekking tot elke vaccinatie, vermeld in paragraaf 1, worden de volgende categorieën van gegevens geregistreerd:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens van de persoon aan wie het vaccin wordt toegediend, namelijk:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienum-mer van de sociale zekerheid, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispunt-bank van de Sociale Zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+c)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+d)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+e)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+f)&nbsp;&nbsp; &nbsp;in voorkomend geval, de overlijdensdatum;<br>
+2°&nbsp;&nbsp; &nbsp;identiteits- en eventuele contactgegevens van de persoon die het vaccin heeft toegediend:<br>
+a)&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+b)&nbsp;&nbsp; &nbsp;in voorkomend geval, het RIZIV-nummer;<br>
+c)&nbsp;&nbsp; &nbsp;het beroepsadres;<br>
+d)&nbsp;&nbsp; &nbsp;als het gaat om een arts, het adres dat gekoppeld is aan het RIZIV-nummer;&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+f)&nbsp;&nbsp; &nbsp;in voorkomend geval, via welke entiteit de vaccinator het vaccin heeft toegediend;<br>
+g)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+h)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+3°&nbsp;&nbsp; &nbsp;gegevens van het vaccin:<br>
+a)&nbsp;&nbsp; &nbsp;het merk;<br>
+b)&nbsp;&nbsp; &nbsp;het type vaccin;<br>
+c)&nbsp;&nbsp; &nbsp;als dat bekend is, het lotnummer;<br>
+4°&nbsp;&nbsp; &nbsp;de datum van de toediening van het vaccin;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval, gegevens over de ongewenste bijwerkingen die vastgesteld zijn tijdens of na de vaccinatie van de betrokken persoon, waarvan de persoon die het vaccin heeft toegediend of zijn gevolmachtigde kennis heeft.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De gegevens, vermeld in het eerste lid, 1°, a), 2°, 3°, a) en b), en 4°, worden door de vaccinatoren in Vaccinnet geregistreerd.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het tweede lid registreert de vaccinator de gegevens, vermeld in het eerste lid, 1°, b), c) en d), als de vaccinator de gegevens, vermeld in het eerste lid, 1°, a), niet kent.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De gegevens, vermeld in het eerste lid, 1°, die niet door de vaccinator worden geregistreerd conform het tweede en derde lid, worden opgehaald uit het Rijksregister of uit de kruispuntbankregisters, vermeld in artikel 4 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In geval van een registratie van een vaccinatie als vermeld in paragraaf 1, vierde lid, registreert de vaccinator ook het land waar het vaccin werd toegediend.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. De gegevens, vermeld in paragraaf 2, kunnen verwerkt worden voor de volgende doeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;het beheer van vaccinatieschema’s per te vaccineren of gevaccineerde persoon en het inplannen van vaccinatiemomenten;<br>
+2°&nbsp;&nbsp; &nbsp;de logistieke organisatie van de vaccinatie na anonimisering of ten minste pseudonimisering van de gegevens als de anonimisering de logistieke organisatie niet mogelijk maakt;<br>
+3°&nbsp;&nbsp; &nbsp;de controle en het beheer van de bestellingen van vaccins om geheel of gedeeltelijk te kunnen ingrijpen op de automatische doorstroom van bestellingen;<br>
+4°&nbsp;&nbsp; &nbsp;het contacteren van de vaccinator met het oog op:<br>
+a)&nbsp;&nbsp; &nbsp;het signaleren van het belang van specifieke vaccinaties in het kader van de opvolging van infectieziekten die door vaccinaties voorkomen kunnen worden;<br>
+b)&nbsp;&nbsp; &nbsp;het controleren en in voorkomend geval corrigeren of verwijderen van gegevens die opgenomen zijn in Vaccinnet;<br>
+5°&nbsp;&nbsp; &nbsp;het uitvoeren van wetenschappelijke of statistische studies na anonimise-ring of ten minste pseudonimisering van de gegevens als anonimisering de uitvoering van een wetenschappelijke of statistische studie belemmert;<br>
+6°&nbsp;&nbsp; &nbsp;het bepalen door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, of door een organisatie die hiervoor de opdracht heeft gekregen, van een anonieme vaccinatiegraad van de bevolking en van bepaalde segmenten van de bevolking, per infectieziekte, met als enig doel strategisch of operationeel bij te dragen aan de primaire of secundaire preventie van de infectieziekte in kwestie;<br>
+7°&nbsp;&nbsp; &nbsp;het gebruik van Vaccinnet door de vaccinatoren om kennis te nemen van de eerder toegediende vaccinaties om:<br>
+a)&nbsp;&nbsp; &nbsp;te vermijden dat vaccins die al zijn toegediend aan een persoon, onnodig nogmaals worden toegediend;<br>
+b)&nbsp;&nbsp; &nbsp;te kunnen detecteren welke vaccinaties nog niet toegediend zijn aan een persoon;<br>
+8°&nbsp;&nbsp; &nbsp;het ontsluiten van de gegevens naar andere zorgverleners in het kader van een therapeutische relatie in de zin van artikel 37 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, met het oog op het verlenen van zorg, waaronder ook preventieve zorg;<br>
+9°&nbsp;&nbsp; &nbsp;het nemen van maatregelen door de ambtenaren-artsen, vermeld in artikel 44, §3, 2°;<br>
+10°&nbsp;&nbsp; &nbsp;het onderzoeken van een melding, vermeld in artikel 45;<br>
+11°&nbsp;&nbsp; &nbsp;de organisatie van de bevolkingsonderzoeken, vermeld in artikel 31, §1;<br>
+12°&nbsp;&nbsp; &nbsp;de evaluatie en organisatie van het vaccinatiebeleid. &nbsp;<br>
+<br>
+Met het oog op de doeleinden, vermeld in het eerste lid, kunnen alleen de gegevens, vermeld in paragraaf 2, verwerkt worden die noodzakelijk zijn om het doeleinde in kwestie te bereiken.<br>
+<br>
+Voor het doeleinde, vermeld in het eerste lid, 5°, kunnen de gegevens, vermeld in paragraaf 2, doorgegeven worden aan onderzoeksinstellingen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 6°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan gegevens die toelaten om de segmentering uit te voeren en die ontsloten worden vanuit andere gegevensbanken waarin gegevens zijn opgenomen die relevant zijn om de anonieme vaccinatiegraad van de bevolking of van bepaalde segmenten van de bevolking te bepalen.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+De vaccinatoren hebben toegang tot alle gegevens, vermeld in paragraaf 2, die noodzakelijk zijn voor het doeleinde, vermeld in het eerste lid, 7°.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De zorgverleners, vermeld in het eerste lid, 8°, hebben toegang tot alle gegevens, vermeld in paragraaf 2, die noodzakelijk zijn voor het doeleinde, vermeld in het eerste lid, 8°.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De ambtenaren-artsen kunnen in het kader van de doeleinden, vermeld in het eerste lid, 9° en 10°, zowel de noodzakelijke gegevens, vermeld in paragraaf 2, ontvangen van personen die besmet zijn met een infectieziekte die gevaarlijk is vanwege de ernst of besmettelijkheid ervan, als van personen die na contact met een geïnfecteerde persoon of na contact met een andere besmettingsbron mogelijk besmet zijn met een voormelde infectie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 11°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden doorgegeven aan gegevensbanken waarin gegevens geregistreerd worden in het kader van de bevolkingsonderzoeken, vermeld in artikel 31, §1, en kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan de gegevens in deze gegevensbanken.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 12°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan gegevens die ontsloten worden vanuit andere gegevensbanken met gegevens die relevant zijn voor de organisatie en de evaluatie van het vaccinatiebeleid.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de gegevensbanken, vermeld in het vierde, achtste en negende lid, nader preciseren.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§4. De gegevens, vermeld in paragraaf 2, worden in het registratiesysteem, vermeld in paragraaf 1, maximaal bewaard tot het overlijden van de persoon aan wie de vaccinatie is toegediend.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste lid worden, als de persoon aan wie het vaccin is toegediend overlijdt binnen dertig jaar na de toediening van het laatste vaccin, de gegevens, vermeld in paragraaf 2, in het registratiesysteem, vermeld in paragraaf 1, bewaard tot dertig jaar na het moment dat het vaccin in kwestie is toegediend.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens, vermeld in paragraaf 2.
 
 ## ONDERAFDELING 2 INITIATIEVEN OM UITBREIDING VAN SCHADELIJKE EFFECTEN, VEROORZAAKT DOOR BIOTISCHE FACTOREN, TEGEN TE GAAN
 
@@ -343,7 +627,9 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 § 3. In elk geval neemt de Vlaamse regering het initiatief:<br>
 1° tot het bepalen van de door biotische factoren veroorzaakte infecties die gemeld moeten worden om maatregelen te kunnen nemen om uitbreiding van infecties tegen te gaan;<br>
 2° tot aanduiding van de ambtenaren-artsen die bevoegd zijn tot het nemen van maatregelen om uitbreiding van infecties tegen te gaan, onder voorbehoud van de verantwoordelijkheden van partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders;<br>
-3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 1, artikel 47 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie.
+3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 1, artikel 47 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie;<br>
+4° tot het bepalen van de infecties die door biotische factoren veroorzaakt zijn en die op geanonimiseerde wijze gerapporteerd moeten worden om de epidemiologie ervan binnen de Vlaamse populatie te kunnen opvolgen en het algemene beleid te informeren. De Vlaamse Regering kan bepalen welke geanonimiseerde gegevens gerapporteerd moeten worden en op welke wijze de geanonimiseerde gegevens gerapporteerd moeten worden;&nbsp;<br>
+5° tot aanwijzing van ambtenaren die bevoegd zijn om de maatregelen te nemen, vermeld in artikel 47/1.
 
 ### ART. 45.
 
@@ -412,21 +698,38 @@ De Vlaamse Regering kan de volgende aspecten nader regelen:<br>
 
 ### ART. 46.
 
-De ambtenaren-artsen en de ambtenaren, bedoeld in artikel 44, § 3, 2° en 3°:<br /><br />1° nemen, zo nodig, contact op met andere binnenlandse, buitenlandse of internationale terzake bevoegde gezondheidsautoriteiten om de verspreiding van infecties tegen te gaan;<br /><br />2° hebben, binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, van vijf uur 's morgens tot negen uur 's avonds vrije toegang tot alle plaatsen en ruimten waar een mogelijke besmettingsbron werd vastgesteld of wordt vermoed van een besmettelijke ziekte die een bijzonder gevaar vormt voor de volksgezondheid. Tussen negen uur 's avonds en vijf uur 's morgens is deze toegang beperkt tot collectieve inrichtingen waar personen overnachten.<br /><br />3° mogen binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht:<br /><br />a) elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de decreets- en reglementsbepalingen worden nageleefd;<br /><br />b) bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.
+De ambtenaren-artsen en de ambtenaren, bedoeld in artikel 44, § 3, 2°, 3° en 5°:<br>
+<br>
+1° nemen, zo nodig, contact op met andere binnenlandse, buitenlandse of internationale terzake bevoegde gezondheidsautoriteiten om de verspreiding van infecties tegen te gaan;<br>
+<br>
+2° hebben, binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht, van vijf uur 's morgens tot negen uur 's avonds vrije toegang tot alle plaatsen en ruimten waar een mogelijke besmettingsbron werd vastgesteld of wordt vermoed van een besmettelijke ziekte die een bijzonder gevaar vormt voor de volksgezondheid. Tussen negen uur 's avonds en vijf uur 's morgens is deze toegang beperkt tot collectieve inrichtingen waar personen overnachten.<br>
+<br>
+3° mogen binnen de perken van hun opdracht en voorzover dat noodzakelijk wordt geacht:<br>
+<br>
+a) elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de decreets- en reglementsbepalingen worden nageleefd;<br>
+<br>
+b) bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.
 
 ### ART. 47.
 
 § 1. De ambtenaren-artsen, bedoeld in artikel 44, § 3, 2°, kunnen:<br>
-1° personen die aangetast zijn door een dergelijke infectie en die een bijzonder gevaar van besmetting vormen voor andere personen, verplichten een gepaste medische behandeling te volgen om die besmettelijkheid te bestrijden en/of deze personen, evenals personen die een verhoogd risico hebben om deze infectie te hebben opgelopen, het bevel even tot tijdelijke afzondering in een door de ambtenaren-artsen bepaalde ziekenhuisafdeling of een andere gepaste plaats. Die verplichte afzondering verloopt zodra de persoon aan wie het bevel is gegeven niet meer besmettelijk is of zodra het gevaar op besmettelijkheid is geweken;<br>
+1° &nbsp;&nbsp; &nbsp;personen die aangetast zijn door een infectie die gevaarlijk is van-wege de ernst of besmettelijkheid ervan en die een bijzonder gevaar van besmetting vormen voor andere personen, verplichten een gepaste medische behandeling te volgen om die besmettelijkheid te bestrijden;<br>
+1°/1 &nbsp;&nbsp; &nbsp;het bevel geven tot tijdelijke afzondering in een door de amb-tenaren-artsen bepaalde ziekenhuisafdeling of andere gepaste plaats aan personen die:<br>
+a)&nbsp;&nbsp; &nbsp;aangetast zijn door een infectie als vermeld in punt 1° en die een bijzonder gevaar van besmetting voor andere personen vormen;<br>
+b)&nbsp;&nbsp; &nbsp;een verhoogd risico hebben om een infectie als vermeld in punt 1° te hebben opgelopen;<br>
+c)&nbsp;&nbsp; &nbsp;tegen het advies van de behandelende arts in vroegtijdig de be-handeling tegen een infectie als vermeld in punt 1° stopzetten en daardoor opnieuw besmettelijk kunnen worden.&nbsp;<br>
+De verplichte afzondering eindigt zodra de persoon aan wie het be-vel is gegeven, niet meer besmettelijk is en zodra het gevaar op be-smettelijkheid is geweken;<br>
 2° personen die, na contact met een geïnfecteerde persoon of na contact met een andere besmettingsbron of na in een hoogrisicogebied verbleven te hebben, mogelijk besmet zijn, en die door contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, deze infectie kunnen overdragen, onderwerpen aan medisch onderzoek dat nodig is voor de opsporing van besmettingsbronnen;<br>
 3° personen die besmet blijken en de infectie kunnen overdragen evenals personen die een verhoogd risico hebben om deze besmetting te hebben opgelopen, de contacten met anderen, al dan niet bij de uitoefening van hun beroepsactiviteit, verbieden zolang zij hierdoor een bijzonder gevaar betekenen voor de volksgezondheid;<br>
-4° de nodige ruimten in ziekenhuizen opeisen voor de opname en de afzondering van personen die besmet zijn of bij wie een ernstige besmetting wordt vermoed;<br>
+4° &nbsp;&nbsp; &nbsp;de nodige ruimten in ziekenhuizen en andere zorginstellingen of in toeristische logies opeisen voor de opname, verzorging en de afzondering van personen die besmet zijn of bij wie een ernstig vermoeden van besmetting bestaat. De Vlaamse Regering kan bepalen door wie, op welke wijze en onder welke voorwaarden het gebruik van de ruimten in ziekenhuizen en andere zorginstellingen en in toeristische logies vergoed wordt, en kan de omvang van die vergoeding bepalen;<br>
 5° de ontsmetting bevelen van voorwerpen en lokalen die besmet zijn;<br>
-6° de behandeling, de afzondering of het doden bevelen van dieren die een besmettingsgevaar betekenen voor de mens, met uitzondering van het besmettingsgevaar door consumptie van deze dieren.<br>
+6° de behandeling, de afzondering of het doden bevelen van dieren die een besmettingsgevaar betekenen voor de mens, met uitzondering van het besmettingsgevaar door consumptie van deze dieren;<br>
+7° &nbsp;&nbsp; &nbsp;gemotiveerde aanmaningen en bevelen geven aan eigenaars en uitbaters van installaties die minstens waarschijnlijk de oorzaak of medeoorzaak zijn van meerdere gevallen van een infectie die krachtens artikel 44, §3, 1°, meldingsplichtig is, en, om dat in te schatten, elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die ze nodig achten;<br>
+8° &nbsp;&nbsp; &nbsp;als niet onmiddellijk gevolg wordt gegeven aan de maatregelen, vermeld in 7°, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.<br>
 <br>
-§ 2. De maatregelen, bedoeld in § 1, 1° en 3°, kunnen enkel uitgevoerd worden nadat de betrokken ambtenaar-arts overleg heeft gepleegd met de behandelende artsen.<br>
+§ 2. De maatregelen, bedoeld in § 1, 1°, 1°/1 en 3°, kunnen enkel uitgevoerd worden nadat de betrokken ambtenaar-arts overleg heeft gepleegd met de behandelende artsen.<br>
 <br>
-§ 3. De ambtenaar-arts, die de maatregelen, bedoeld in § 1, 1° en 3°, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
+§ 3. De ambtenaar-arts, die de maatregelen, bedoeld in § 1, 1°, 1°/1, 3°, 7° en 8°, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
 1° de inhoud van de maatregel;<br>
 2° de motivering van de maatregel;<br>
 3° de naam, functie en standplaats van de betrokken ambtenaar-arts;<br>
@@ -438,11 +741,35 @@ De elementen, bedoeld in 1°, 2° en 5°, worden aan de betrokkene ook mondeling
 
 ### ART 47/1.
 
-...
+§1. De ambtenaren, vermeld in artikel 44, §3, 5°, kunnen, na overleg met de ambtenaren-artsen, vermeld in artikel 44, §3, 2°:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;monitoring bevelen om de oorzaak van de verdere verspreiding van biotische factoren in de leefomgeving op te sporen en te karakteriseren;<br>
+2°&nbsp;&nbsp; &nbsp;maatregelen in de leefomgeving bevelen om de oorzaak van de verdere verspreiding van de schadelijke effecten door biotische factoren via de leefomgeving tegen te gaan. De ambtenaren kunnen daarbij onder meer:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de sluiting bevelen van de plaats, ruimte of inrichting die kan leiden tot de verdere verspreiding van de besmetting;<br>
+b)&nbsp;&nbsp; &nbsp;de stopzetting bevelen, al dan niet gedeeltelijk in tijd en ruimte, van de activiteit of installatie die kan leiden tot de verdere verspreiding van de besmetting;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de desinfectie bevelen van de plaats, ruimte, inrichting of installatie die kan leiden tot de verdere verspreiding van de besmetting;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;bevelen dat wijzigingen worden aangebracht in de procesvoering die kan leiden tot de verdere verspreiding van de besmetting;&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;bevelen dat werkzaamheden worden uitgevoerd aan de plaats, ruimte, inrichting of installatie die kan leiden tot de verdere verspreiding van de besmetting.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;De ambtenaren, vermeld in artikel 44, §3, 5°, passen de maatregel, vermeld in het eerste lid, aan of beëindigen de maatregel in functie van de vermindering van het risico op verdere verspreiding van de besmetting vanuit de plaats, ruimte, inrichting of installatie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. De ambtenaar die de maatregel, vermeld in paragraaf 1, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
+1°&nbsp;&nbsp; &nbsp;de inhoud van de maatregel;<br>
+2°&nbsp;&nbsp; &nbsp;de motivering van de maatregel;<br>
+3°&nbsp;&nbsp; &nbsp;de periode waarbinnen gevolg gegeven moet worden aan de maatregel;<br>
+4°&nbsp;&nbsp; &nbsp;de naam, functie en standplaats van de betrokken ambtenaar;<br>
+5°&nbsp;&nbsp; &nbsp;de vermelding van de mogelijkheid om beroep aan te tekenen;<br>
+6°&nbsp;&nbsp; &nbsp;de beroepsprocedure;<br>
+7°&nbsp;&nbsp; &nbsp;de wijze van evaluatie van de genomen maatregel, de duur ervan, alsook de wijze van een eventuele aanpassing van de maatregel.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De elementen, vermeld in het eerste lid, 1°, 2°, 3° en 6°, worden voor zover dat redelijkerwijs mogelijk is ook mondeling toegelicht aan de betrokkene.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste en tweede lid kunnen de elementen, vermeld in het eerste lid, in geval van hoogdringendheid ook mondeling aan de betrokkene worden meegedeeld, op voorwaarde dat de maatregelen binnen een periode van vijf werkdagen schriftelijk bekrachtigd worden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. Als niet binnen de periode, vermeld in paragraaf 2, eerste lid, 3°, gevolg wordt gegeven aan de bevelen, vermeld in paragraaf 1, eerste lid, kunnen de ambtenaren die conform artikel 44, §3, 5°, aangewezen zijn, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.
 
 ### ART. 48.
 
-Iedere betrokkene heeft de plicht de aangeduide ambtenaren-artsen, bedoeld in artikel 44, § 3, 2°, en de aangeduide ambtenaren, bedoeld in artikel 44, § 3, 3°, de aanvullende informatie mee te delen die ze noodzakelijk achten voor het nemen van de aan de situatie aangepaste maatregelen.
+Iedere betrokkene heeft de plicht de aangeduide ambtenaren-artsen, bedoeld in artikel 44, § 3, 2°, en de aangeduide ambtenaren, bedoeld in artikel 44, § 3, 3° en 5°, de aanvullende informatie mee te delen die ze noodzakelijk achten voor het nemen van de aan de situatie aangepaste maatregelen.
 
 ### ART. 49.
 
@@ -460,19 +787,118 @@ De individuele zorgaanbieder heeft de plicht tegenover de besmette persoon die h
 
 De Vlaamse regering kan initiatieven nemen voor de preventie van aandoeningen, veroorzaakt door fysische of chemische factoren. Die factoren situeren zich zowel binnen gebouwen als er buiten.<br>
 <br>
-De Vlaamse Regering sensibiliseert voor de problematiek van de blootstelling aan chemische stoffen die de normale hormonale werking tijdens belangrijke ontwikkelingsfasen van het menselijk organisme ontregelen of kunnen ontregelen, en neemt initiatieven voor de preventie van aandoeningen die door die chemische stoffen worden veroorzaakt.
+De Vlaamse Regering sensibiliseert voor de problematiek van de blootstelling aan humane zeer zorgwekkende stoffen, en neemt initiatieven voor de preventie van aandoeningen die door deze stoffen worden veroorzaakt.
 
 ### ART. 52.
 
-§ 1. De Vlaamse regering richt zich in haar beleid op een duurzame ontwikkeling, en kan daartoe, na bespreking in het Vlaams Parlement, streefwaarden vastleggen in water, lucht, bodem, of mens.<br /><br />§ 2. De Vlaamse regering legt, na bespreking in het Vlaams Parlement over de maatschappelijke aanvaardbaarheid van gezondheidsschade door fysische en chemische factoren, de grenswaarden in de mens vast.
+§ 1. De Vlaamse regering richt zich in haar beleid op een duurzame ontwikkeling, en kan daartoe, na bespreking in het Vlaams Parlement, gezondheidskundige advieswaarden vastleggen in water, lucht, bodem, of mens.<br>
+<br>
+§ 2. De Vlaamse regering legt, na bespreking in het Vlaams Parlement over de maatschappelijke aanvaardbaarheid van gezondheidsschade door fysische en chemische factoren, de grenswaarden in de mens vast.
 
 ### ART. 53.
 
-§ 1. Afgezien van de maatregelen die bepaald zijn in de bestaande milieuwetgeving, kan de Vlaamse regering de bevolking, en in het bijzonder risicogroepen, informeren, en maatregelen nemen om de blootstelling te beperken en de volksgezondheid te beschermen bij overschrijding van de door de Vlaamse regering bepaalde grenswaarden in de mens van factoren waarvan de schadelijke invloed op de gezondheid bewezen is of waarschijnlijk is op basis van wetenschappelijk onderbouwde gegevens.<br /><br />§ 2. Voor de waarschijnlijke maar niet bewezen effecten, bedoeld in § 1, worden de maatregelen afgewogen tegen onder meer de waarschijnlijkheid van optreden van de vermoede effecten, de ernst van de verwachte effecten, de grootte van de blootgestelde populatie en de verwachte maatschappelijke impact van de effecten en/of maatregelen.
+§ 1. Afgezien van de maatregelen die bepaald zijn in de bestaande milieuwetgeving, kan de Vlaamse regering op basis van het voorzorgsbeginsel, de bevolking, en in het bijzonder risicogroepen, informeren, en maatregelen nemen om de blootstelling te beperken en de volksgezondheid te beschermen bij overschrijding van de door de Vlaamse regering bepaalde grenswaarden in de mens van factoren waarvan de schadelijke invloed op de gezondheid bewezen is of waarschijnlijk is op basis van wetenschappelijk onderbouwde gegevens.<br>
+<br>
+§ 2. Voor de waarschijnlijke maar niet bewezen effecten, bedoeld in § 1, worden de maatregelen afgewogen tegen onder meer de waarschijnlijkheid van optreden van de vermoede effecten, de ernst van de verwachte effecten, de grootte van de blootgestelde populatie en de verwachte maatschappelijke impact van de effecten en/of maatregelen.
+
+### ART 53/1.
+
+Ter ondersteuning van de initiatieven, vermeld in artikel 52, §1, en de maatregelen, vermeld in artikel 53, §1, neemt de Vlaamse Regering minstens het initiatief om een programma voor milieugerelateerde gezondheidskundige impactinschattingen te ontwikkelen en uit te voeren.
+
+### ART 53/2.
+
+§1. De Vlaamse Regering wijst ambtenaren aan die bevoegd zijn om maatregelen te nemen om blootstelling aan chemische factoren in het leefmilieu, die een potentieel gevaar voor schadelijke gezondheidseffecten bij de mens inhouden, tegen te gaan.<br>
+<br>
+§2. De ambtenaren, vermeld in paragraaf 1:<br>
+1° &nbsp;&nbsp; &nbsp;nemen, zo nodig, contact op met andere binnenlandse, buitenlandse of internationale gezondheidsautoriteiten die ter zake bevoegd zijn om de gezondheidsrisico’s van blootstelling aan chemische factoren tegen te gaan;<br>
+2° &nbsp;&nbsp; &nbsp;hebben, binnen de perken van hun opdracht en als dat noodzakelijk wordt geacht, van vijf uur ’s morgens tot negen uur ’s avonds vrije toegang tot alle plaatsen en ruimten waar een mogelijke bron is vastgesteld of wordt vermoed van een chemische factor die een bijzonder gevaar vormt voor de volksgezondheid. Tussen negen uur ’s avonds en vijf uur ’s morgens is de toegang beperkt tot collectieve inrichtingen waar personen overnachten;<br>
+3° &nbsp;&nbsp; &nbsp;mogen binnen de perken van hun opdracht en als dat noodzakelijk wordt geacht:<br>
+a) &nbsp;&nbsp; &nbsp;elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die ze nodig achten om zich ervan te vergewis-sen dat de decreets- en reglementsbepalingen worden nageleefd;<br>
+b) &nbsp;&nbsp; &nbsp;bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.<br>
+<br>
+§3. De ambtenaren, vermeld in paragraaf 1, kunnen, met behoud van de toepassing van de verantwoordelijkheden van de toezichthoudende ambtena-ren die aangewezen zijn in het kader van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en na voorafgaand overleg met die toezichthoudende ambtenaren:<br>
+1°&nbsp;&nbsp; &nbsp;monitoring bevelen om de oorzaak van de verspreiding van de chemische factoren in het leefmilieu, vermeld in paragraaf 1, op te sporen en te karakteriseren;<br>
+2°&nbsp;&nbsp; &nbsp;maatregelen als vermeld in paragraaf 1 bevelen die onder meer kunnen strekken tot:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de sluiting van de plaats, ruimte of inrichting die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;<br>
+b)&nbsp;&nbsp; &nbsp;de stopzetting, al dan niet gedeeltelijk in tijd en ruimte, van de activi-teit of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de detoxificatie van de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;het aanbrengen van wijzigingen in de procesvoering die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;het uitvoeren van werkzaamheden aan de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1.<br>
+<br>
+De ambtenaren, vermeld in artikel 44, §3, 5°, passen de maatregel, ver-meld in het eerste lid, aan of beëindigen de maatregel in functie van de vermindering van het risico op verdere verspreiding van de contaminatie vanuit de plaats, ruimte, inrichting of installatie.<br>
+<br>
+§4. De ambtenaar die de maatregelen, vermeld in paragraaf 3, eerste lid, 1° en 2°, genomen heeft deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
+1°&nbsp;&nbsp; &nbsp;de inhoud van de maatregel;<br>
+2°&nbsp;&nbsp; &nbsp;de motivering van de maatregel;<br>
+3°&nbsp;&nbsp; &nbsp;de periode waarbinnen gevolg gegeven moet worden aan de maatregel;<br>
+4°&nbsp;&nbsp; &nbsp;de naam, de functie en de standplaats van de betrokken ambtenaar;<br>
+5°&nbsp;&nbsp; &nbsp;de vermelding van de mogelijkheid om beroep aan te tekenen;<br>
+6°&nbsp;&nbsp; &nbsp;de beroepsprocedure;<br>
+7°&nbsp;&nbsp; &nbsp;de wijze van evaluatie van de genomen maatregel, de duur ervan, alsook de wijze van een eventuele aanpassing van de maatregel.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De elementen, vermeld in het eerste lid, 1°, 2°, 3° en 6°, worden voor zover dat redelijkerwijs mogelijk is ook mondeling toegelicht aan de betrokke-ne.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste en tweede lid kunnen de elementen, vermeld in het eerste lid, in geval van hoogdringendheid ook mondeling aan de betrokkene worden meegedeeld, op voorwaarde dat de maatregelen binnen een periode van vijf werkdagen schriftelijk bekrachtigd worden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. Iedere betrokkene heeft de plicht de ambtenaren, vermeld in paragraaf 1, de aanvullende informatie mee te delen die de ambtenaren noodzakelijk achten om de maatregelen te bevelen die aan de situatie aangepast zijn.<br>
+<br>
+§6. Als niet binnen de periode, vermeld in paragraaf 4, eerste lid, 3°, gevolg wordt gegeven aan de bevelen, vermeld in paragraaf 3, eerste lid, kunnen de ambtenaren, vermeld in paragraaf 1, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.<br>
+<br>
+§7. Als de bevolen maatregelen, vermeld in paragraaf 3, niet worden nageleefd, zijn de ambtenaren, vermeld in paragraaf 1, onverminderd de bevoegdheden van de toezichthoudende ambtenaren die aangewezen zijn in het kader van titel XVI het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
+&nbsp;
+
+### ART 53/3.
+
+§1. De Vlaamse Regering wijst ambtenaren aan die bevoegd zijn om maatregelen te nemen om blootstelling aan fysische factoren in het leefmilieu, die een potentieel gevaar voor schadelijke gezondheidseffecten bij de mens inhouden, tegen te gaan.<br>
+<br>
+§2. De ambtenaren, vermeld in paragraaf 1:<br>
+1° &nbsp;&nbsp; &nbsp;nemen, zo nodig, contact op met andere binnenlandse, buitenlandse of internationale gezondheidsautoriteiten die ter zake bevoegd zijn, om de gezondheidsrisico’s van blootstelling aan fysische factoren tegen te gaan;<br>
+2° &nbsp;&nbsp; &nbsp;hebben, binnen de perken van hun opdracht en als dat noodzakelijk wordt geacht, van vijf uur ’s morgens tot negen uur ’s avonds vrije toegang tot alle plaatsen en ruimten waar een mogelijke bron is vastgesteld of wordt vermoed van een fysische factor die een bijzonder gevaar vormt voor de volksgezondheid. Tussen negen uur ’s avonds en vijf uur ’s morgens is de toegang beperkt tot collectieve inrichtingen waar personen overnachten;<br>
+3° &nbsp;&nbsp; &nbsp;mogen binnen de perken van hun opdracht en als dat noodzakelijk wordt geacht:<br>
+a) &nbsp;&nbsp; &nbsp;elk onderzoek, elke controle en elke enquête instellen, alsook alle inlichtingen inwinnen die ze nodig achten om zich ervan te vergewis-sen dat de decreets- en reglementsbepalingen worden nageleefd;<br>
+b) &nbsp;&nbsp; &nbsp;bij de uitoefening van hun ambt de bijstand van de lokale of federale politie vorderen.<br>
+<br>
+§3. De ambtenaren, vermeld in paragraaf 1, kunnen, met behoud van de toepassing van de verantwoordelijkheden van de toezichthoudende ambtena-ren die aangewezen zijn in het kader van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en in geval die verantwoordelijkheden van toepassing zijn na voorafgaand overleg met die toezichthoudende ambtenaren:<br>
+1° &nbsp;&nbsp; &nbsp;monitoring bevelen om de oorzaak van de verspreiding van de fysische factoren in het leefmilieu, vermeld in paragraaf 1, op te sporen en te karakteriseren;<br>
+2° &nbsp;&nbsp; &nbsp;maatregelen als vermeld in paragraaf 1 bevelen die onder meer kunnen strekken tot:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de sluiting van de plaats, ruimte of inrichting die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;<br>
+b)&nbsp;&nbsp; &nbsp;de stopzetting, al dan niet gedeeltelijk in tijd en ruimte, van de activiteit of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de detoxificatie van de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;het aanbrengen van wijzigingen in de procesvoering die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1;&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;het uitvoeren van werkzaamheden aan de plaats, ruimte, inrichting of installatie die de oorzaak kan zijn van het gevaar, vermeld in paragraaf 1.<br>
+<br>
+De ambtenaren, vermeld in artikel 44, §3, 5°, passen de maatregel, vermeld in het eerste lid, aan of beëindigen de maatregel in functie van de vermindering van het risico op verdere verspreiding van de contaminatie vanuit de plaats, ruimte, inrichting of installatie.<br>
+<br>
+§4. De ambtenaar die de maatregelen, vermeld in paragraaf 3, eerste lid, 1° en 2°, genomen heeft, deelt aan de betrokkene schriftelijk minstens de volgende gegevens mee:<br>
+1° &nbsp;&nbsp; &nbsp;de inhoud van de maatregel;<br>
+2° &nbsp;&nbsp; &nbsp;de motivering van de maatregel;<br>
+3° &nbsp;&nbsp; &nbsp;de periode waarbinnen gevolg gegeven moet worden aan de maatregel;<br>
+4° &nbsp;&nbsp; &nbsp;de naam, de functie en de standplaats van de betrokken ambtenaar;<br>
+5° &nbsp;&nbsp; &nbsp;de vermelding van de mogelijkheid om beroep aan te tekenen;<br>
+6° &nbsp;&nbsp; &nbsp;de beroepsprocedure;<br>
+7° &nbsp;&nbsp; &nbsp;de wijze van evaluatie van de genomen maatregel, de duur ervan, alsook de wijze van een eventuele aanpassing van de maatregel.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De elementen, vermeld in het eerste lid, 1°, 2°, 3° en 6°, worden voor zover dat redelijkerwijs mogelijk is ook mondeling toegelicht aan de betrokke-ne.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste en tweede lid kunnen de elementen, vermeld in het eerste lid, in geval van hoogdringendheid ook mondeling aan de betrokkene worden meegedeeld, op voorwaarde dat de maatregelen binnen een periode van vijf werkdagen schriftelijk bekrachtigd worden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. Iedere betrokkene heeft de plicht de ambtenaren, vermeld in paragraaf 1, de aanvullende informatie mee te delen die de ambtenaren noodzakelijk achten om de maatregelen te bevelen die aan de situatie aangepast zijn.<br>
+<br>
+§6. Als niet binnen de periode, vermeld in paragraaf 4, eerste lid, 3°, gevolg wordt gegeven aan de bevelen, vermeld in paragraaf 3, eerste lid, kunnen de ambtenaren, vermeld in paragraaf 1, de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren.<br>
+<br>
+§7. Als de bevolen maatregelen, vermeld in paragraaf 3, niet worden nageleefd, zijn de ambtenaren, vermeld in paragraaf 1, onverminderd de bevoegdheden van de toezichthoudende ambtenaren die aangewezen zijn in het kader van titel XVI het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.
 
 ### ART. 54.
 
-§ 1. De Vlaamse regering kan een netwerk oprichten voor de bewaking van de in de mens gemeten blootstelling en/of voor de bewaking van de effecten van fysische en chemische factoren op de bevolking, met de bedoeling maatregelen te kunnen nemen om de volksgezondheid te beschermen.<br /><br />§ 2. De Vlaamse regering neemt minstens maatregelen voor de ontwikkeling en uitvoering van een programma voor biomonitoring.<br /><br />§ 3. Ter uitvoering van § 1, kan de Vlaamse regering een fonds oprichten en bepaalt ze de werking en de omvang en de wijze van financiering ervan. Hiertoe kan een verplichte financiÙle bijdrage opgelegd worden ten laste van bedrijven en/of burgers die medeverantwoordelijk zijn voor de aanwezigheid van fysische of chemische factoren die schadelijk zijn voor de gezondheid.
+§ 1. De Vlaamse regering kan een netwerk oprichten voor de bewaking van de in de mens gemeten blootstelling en/of voor de bewaking van de effecten van fysische en chemische factoren op de bevolking, met de bedoeling maatregelen te kunnen nemen om de volksgezondheid te beschermen.<br>
+<br>
+§ 2. De Vlaamse regering neemt minstens maatregelen voor de ontwikkeling en uitvoering van een programma voor biomonitoring.<br>
+<br>
+§2/1. De Vlaamse Regering kan een initiatief nemen om een programma om het exposoom vast te stellen, te ontwikkelen en uit te voeren.<br>
+<br>
+§2/2. De Vlaamse Regering neemt het initiatief om een netwerk voor milieugerelateerde gezondheidsgegevens op te richten.<br>
+<br>
+§ 3. Ter uitvoering van § 1, kan de Vlaamse regering een fonds oprichten en bepaalt ze de werking en de omvang en de wijze van financiering ervan. Hiertoe kan een verplichte financiÙle bijdrage opgelegd worden ten laste van bedrijven en/of burgers die medeverantwoordelijk zijn voor de aanwezigheid van fysische of chemische factoren die schadelijk zijn voor de gezondheid.
 
 ### ART. 55.
 
@@ -483,6 +909,20 @@ De Vlaamse regering neemt initiatieven die, met betrekking tot de fysische of ch
 ### ART. 56.
 
 De Vlaamse regering kan, in het kader van haar facettenbeleid, initiatieven nemen met betrekking tot materiële en ruimtelijke factoren.<br /><br />Die initiatieven hebben onder meer betrekking op:<br /><br />1° het plannen of inrichten van de materiële en ruimtelijke omgeving om de levenskwaliteit te bevorderen en/of schade aan de gezondheid te voorkomen;<br /><br />2° het opsporen van materiële en ruimtelijke factoren die een bedreiging vormen voor de gezondheid.
+
+## AFDELING 4 INITIATIEVEN MET BETREKKING TOT GEZONDHEIDSIMPACT DOOR KLIMAATVERANDERING
+
+### ART 56/1.
+
+De Vlaamse Regering kan initiatieven nemen om gezondheidsimpact door klimaatverandering te detecteren, te voorkomen en te bestrijden.<br>
+<br>
+De initiatieven, vermeld in het eerste lid, hebben onder meer betrekking op:<br>
+1° &nbsp;&nbsp; &nbsp;gezondheidsimpactanalyse;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;surveillance van gezondheidsimpact door klimaatverandering;<br>
+3° &nbsp;&nbsp; &nbsp;de gezondheidsaspecten van klimaatmitigatie en -adaptatie;<br>
+4° &nbsp;&nbsp; &nbsp;sensibilisering.<br>
+<br>
+De Vlaamse Regering neemt minstens initiatieven om een klimaatgezondheidsplan te ontwikkelen en uit te voeren.
 
 ## HOOFDSTUK II INITIATIEVEN MET BETREKKING TOT LEEFSTIJLFACTOREN
 
@@ -581,6 +1021,22 @@ De Vlaamse regering kan initiatieven nemen ter preventie van andere ziekten of a
 
 De initiatieven en maatregelen, vermeld in artikel 39 tot en met 72 en artikel 74, worden genomen op basis van wetenschappelijk onderbouwde gegevens en zijn gericht op het behalen van gezondheidswinst op Vlaams bevolkingsniveau tegen maatschappelijk aanvaardbare kosten of op het verhogen van de efficiëntie van het gezondheidsbeleid.
 
+### ART 73/1.
+
+De initiatieven en maatregelen, vermeld in artikel 51, 52, 53, 53/1, 53/2, 53/3 en 55, worden uitgevaardigd na een voorafgaande causaliteitsanalyse van de relatie tussen de betreffende fysische of chemische factor en de mogelijke gezondheidseffecten van de betreffende factor.<br>
+<br>
+Bij de causaliteitsanalyse, vermeld in het eerste lid, wordt rekening gehou-den met de volgende criteria:<br>
+1°&nbsp;&nbsp; &nbsp;de sterkte van de afhankelijkheid tussen de factor en het gezondheidseffect;<br>
+2°&nbsp;&nbsp; &nbsp;de consistentie waarmee de afhankelijkheid al is vastgesteld;<br>
+3°&nbsp;&nbsp; &nbsp;de specificiteit van het verband tussen de factor en het gezondheidseffect;<br>
+4°&nbsp;&nbsp; &nbsp;de temporaliteit, waarbij de factor voorafgaat aan het gezondheidseffect;<br>
+5°&nbsp;&nbsp; &nbsp;het biologische verloop van de afhankelijkheid;<br>
+6°&nbsp;&nbsp; &nbsp;de plausibiliteit van de afhankelijkheid;<br>
+7°&nbsp;&nbsp; &nbsp;de coherentie van de afhankelijkheid;&nbsp;<br>
+8°&nbsp;&nbsp; &nbsp;het experimentele bewijs dat aanwezig is voor de afhankelijkheid.<br>
+<br>
+De initiatieven en maatregelen, vermeld in artikel 53, 53/2 en 53/3, worden onderbouwd door middel van een milieugerelateerde gezondheidskundige impactinschatting.
+
 ## TITEL IX INITIATIEVEN MET BETREKKING TOT SPECIFIEKE LEEFTIJDSCATEGORIEËN OF ONTWIKKELINGSFASEN
 
 ### ART. 74.
@@ -610,7 +1066,8 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 2° gegevens uitwisselen in het kader van het epidemiologisch informatiesysteem, zoals bedoeld in artikel 32, § 2;<br>
 3° ...<br>
 4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36 en in artikel 75bis, § 2;<br>
-5° meewerken aan het registratiesysteem, zoals bedoeld in artikel 43, § 3;<br>
+5° meewerken aan het registratiesysteem, vermeld in artikel 43/1;<br>
+5°/1 &nbsp;&nbsp; &nbsp;geanonimiseerd rapporteren van de infectieziekten, vermeld in artikel 44, §3, 4°;<br>
 6° infectieziekten melden als vermeld in artikel 45, §1;<br>
 7° aanvullende informatie meedelen aan de ambtenaar-arts en de ambtenaar, zoals bedoeld in artikel 48.<br>
 <br>
@@ -647,7 +1104,13 @@ Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden 
 1° degenen die geen gevolg geven aan de dwangmaatregelen, vermeld in artikel 41, § 1, § 5 en § 6 en artikel 47, of die de uitvoering of naleving ervan verhinderen of belemmeren;<br>
 2° degenen die de toegang, bedoeld in artikel 41, § 3, en in artikel 46, 2°, verhinderen of belemmeren;<br>
 3° degenen die de uitoefening van de bevoegdheden van de ambtenaar verhinderen of belemmeren of die de ambtenaar verhinderen of belemmeren bij de uitvoering van artikel 41, § 4 en 46, 3°;<br>
-4° degenen die de beslissing na beroep, vermeld in artikel 81, § 3, niet uitvoeren of niet naleven, of die de uitvoering of de naleving ervan verhinderen of belemmeren.
+4° degenen die de beslissing na beroep, vermeld in artikel 81, § 3, niet uitvoeren of niet naleven, of die de uitvoering of de naleving ervan verhinderen of belemmeren;<br>
+5° &nbsp;&nbsp; &nbsp;degenen die de verplichting tot melding van infectieziekten, vermeld in artikel 45, §1, niet naleven;<br>
+6° &nbsp;&nbsp; &nbsp;degenen die geen gevolg geven aan de bevelen of dwangmaatregelen, vermeld in artikel 41, §5/1, of artikel 47/1.
+
+### ART 79/1.
+
+Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden degenen die geen gevolg geven aan de bevelen of dwangmaatregelen, vermeld in artikel 53/2 of artikel 53/3, gestraft met een geldboete van 26 tot 500 euro en met een gevangenisstraf van acht dagen tot zes maanden of met een van deze straffen alleen.
 
 ## TITEL XI BEROEPSPROCEDURES
 
@@ -661,7 +1124,7 @@ Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden 
 
 ### ART. 81.
 
-§ 1. Tegen de maatregelen, bedoeld in artikel 47, § 1, 1° en 3°, kan de betrokkene beroep aantekenen met een gemotiveerde en aangetekende brief bij een door de Vlaamse regering aangesteld beroepscollege, op het adres van de administratie. Dit beroep is niet opschortend.<br>
+§ 1. Tegen de maatregelen, bedoeld in artikel 47, § 1, 1°, 1°/1 en 3°, kan de betrokkene beroep aantekenen met een gemotiveerde en aangetekende brief bij een door de Vlaamse regering aangesteld beroepscollege, op het adres van de administratie. Dit beroep is niet opschortend.<br>
 <br>
 § 2. Het beroepscollege bestaat uit drie onafhankelijke leden die deskundig zijn op het vlak van besmettelijke ziekten. De leden van dit beroepscollege mogen niet tewerkgesteld zijn bij de administratie en mogen niet betrokken zijn bij de behandeling van de persoon aan wie het bevel is gegeven.<br>
 <br>
