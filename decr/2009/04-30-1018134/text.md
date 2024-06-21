@@ -371,6 +371,10 @@ Een ervaringsbewijs is een bewijs zoals bedoeld in artikel 4 van het decreet van
 De bevoegde diensten van de Vlaamse Regering beheren de databank. Die databank wordt ontsloten door tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, die tussenbeide komt bij de mededeling van gegevens uit de leer- en ervaringsbewijzendatabank met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 &nbsp;
 
+### ART 20/1
+
+De erkende kwalificaties, vermeld in artikel 19, en de erkende of gelijkwaardig verklaarde leer- en ervaringsbewijzen, vermeld in artikel 20, worden maximaal 110 jaar bewaard.
+
 ## HOOFDSTUK VI Wijzigingsbepalingen
 
 ### ART. 22.
