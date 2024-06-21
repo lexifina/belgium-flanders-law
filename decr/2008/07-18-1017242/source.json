@@ -2,16 +2,16 @@
   "codex_id": 1017242,
   "title": "Decreet van 2008-07-18 betreffende het elektronische bestuurlijke gegevensverkeer",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017242/VolledigDocument?datum=2024-04-12",
-  "source_sha256": "c2d6b9e8678a94f483f809e8b3b7925daf6f29e9ddb9fb3a5e226f4f097cccf0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017242/VolledigDocument?datum=2024-06-21",
+  "source_sha256": "17208deba6f8cb558c8936fd9382c8289780f9266e58bff7e46869ad029751a8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017242&param=informatie",
-  "as_of": "2024-04-12",
+  "as_of": "2024-06-21",
   "made": "2008-07-18",
   "gazette": "2008-10-29",
   "numac": 2008036273,
   "document_start": "2009-07-14",
   "document_end": null,
-  "in_force": "2024-04-12",
+  "in_force": "2024-06-21",
   "article_versions": 71,
-  "record_form": "consolidated version as in force on 2024-04-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-21; future article versions excluded; article text as the API gives it"
 }

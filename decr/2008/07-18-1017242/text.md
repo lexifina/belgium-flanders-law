@@ -127,7 +127,7 @@ Als alleen de gegevens, vermeld in artikel 4/1, §1, derde lid, moeten worden ge
 
 ### ART 4/4.
 
-De persoonsgegevens worden bewaard conform de voorwaarden, vermeld in artikel III.87, §1, van het Bestuursdecreet van 7 december 2018, of tot de betrokkene verzoekt om de persoonsgegevens te verwijderen conform de voorwaarden, vermeld in artikel 17 van de algemene verordening gegevensbescherming, of tot de betrokkene overleden is.
+De persoonsgegevens, vermeld in artikel 4/1, die gewijzigd of verwijderd zijn op verzoek van de gegevensinitiator, vermeld in artikel 4/2, §2, of van de natuurlijke persoon in kwestie of in geval van zijn overlijden, worden maximaal twee jaar bewaard vanaf het ogenblik dat de wijziging of verwijdering is doorgevoerd.
 
 ## [Afdeling III. Oprichting van een gegevensbron met rekeningnummers (ing. Decr. 23 juni 2023, art. 12, I: 21 augustus 2023)]
 
@@ -171,7 +171,7 @@ De entiteit nodigt de burger uit om minstens jaarlijks de gegevens over zijn rek
 
 ### ART 5/7.
 
-De rekeningnummers worden bewaard conform de voorwaarden, ver- meld in artikel III.87, §1, van het Bestuursdecreet van 7 december 2018, of tot de burger de entiteit verzoekt om de persoonsgegevens te verwijderen, conform de voorwaarden, vermeld in artikel 17 van de algemene verordening gegevensbescherming, of tot de betrokkene overleden is.
+De rekeningnummers, vermeld in artikel 5, die gewijzigd of verwijderd zijn op verzoek van de burger of in geval van zijn overlijden, worden maximaal twee jaar bewaard vanaf het ogenblik dat de wijziging of verwijdering is doorgevoerd.
 
 ## [Afdeling IV. Oprichting van een gegevensbron met de contactgegevens van de burgers (ing. Decr. 23 juni 2023, art. 21, I: 21 augustus 2023)]
 
@@ -219,7 +219,7 @@ De entiteit nodigt de burger uit om minstens jaarlijks zijn contactgegevens te v
 
 ### ART 7/6.
 
-De contactgegevens worden bewaard conform de voorwaarden, vermeld in artikel III.87, §1, van het Bestuursdecreet van 7 december 2018, of tot de betrokkene de entiteit verzoekt om de persoonsgegevens te verwijderen, conform de voorwaarden, vermeld in artikel 17 van de algemene verordening gegevensbescherming, of tot de betrokkene overleden is.
+De contactgegevens, vermeld in artikel 6, die gewijzigd of verwijderd zijn op verzoek van de burger of in geval van zijn overlijden, worden maximaal twee jaar bewaard vanaf het ogenblik dat de wijziging of verwijdering is doorgevoerd.
 
 ## HOOFDSTUK III. [De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 14, I: 29 maart 2019)]
 
@@ -227,7 +227,7 @@ De contactgegevens worden bewaard conform de voorwaarden, vermeld in artikel III
 
 ### ART. 8.
 
-§ 1. Elke elektronische mededeling van persoonsgegevens door een instantie naar een andere instantie of naar een externe overheid&nbsp;of naar een private organisatie vereist een protocol, gesloten tussen de betreffende verwerkingsverantwoordelijken.&nbsp;Tussen gezamenlijke verwerkingsverantwoordelijken worden geen protocollen gesloten.<br>
+§ 1. Elke elektronische mededeling van persoonsgegevens op basis van artikel 6, lid 1, c) en e), van de algemene verordening gegevensbescherming,”door een instantie naar een andere instantie of naar een externe overheid&nbsp;of naar een private organisatie vereist een protocol, gesloten tussen de betreffende verwerkingsverantwoordelijken.&nbsp;Tussen gezamenlijke verwerkingsverantwoordelijken worden geen protocollen gesloten.<br>
 <br>
 In dat protocol wordt in ieder geval het volgende vastgelegd :<br>
 1° de identificatie van de verwerkingsverantwoordelijken;<br>
