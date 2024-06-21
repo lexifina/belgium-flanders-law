@@ -3534,7 +3534,9 @@ De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolke
 <br>
 De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van een productiehuis voor de omzetting van leermaterialen voor blinde en slechtziende leerlingen.<br>
 <br>
-§ 5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, dan bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.</p>
+§ 5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, dan bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.<br>
+<br>
+§6. De medische attesten voor het aanvragen van de speciale onderwijsleermiddelen worden maximaal 110 jaar na de geboorte van de betrokkene bewaard wegens het permanente karakter van de functiebeperking van de betrokkenen en het recht op levenslang leren.</p>
 
 ## ONDERAFDELING G SOCIALE VOORDELEN EN GEZONDHEIDSTOEZICHT
 
