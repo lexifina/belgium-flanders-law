@@ -145,6 +145,8 @@ Bij het bepalen van deze bewaartermijnen wordt rekening gehouden met:<br>
 3° de relevantie van de persoonsgegevens voor toekomstige handelingen in het kader van toezicht, opsporing, vervolging, sanctionering, beveiliging of herstel;<br>
 4° de relevantie van de persoonsgegevens voor het determineren van de lega-liteit van de toestand, veroorzaakt door de feiten die aanleiding gaven tot de verwerking van deze persoonsgegevens.<br>
 <br>
+De maximale bewaringstermijnen voor persoonsgegevens, bepaald in de beheers- regels, vermeld in het eerste lid, met toepassing van de criteria, vermeld in het tweede lid, worden vervolgens door de Vlaamse Regering vastgesteld.<br>
+<br>
 §2. In afwijking van paragraaf 1 geldt voor persoonsgegevens, opgenomen in de arrestendatabank, vermeld in artikel 84, een bewaartermijn van onbepaalde duur.
 
 ### ART 7.
