@@ -2318,7 +2318,7 @@ In afwijking van het eerste lid, wordt voor de Vlaamse openbare instellingen die
 
 ### ART III.84.
 
-De overheidsinstanties, vermeld in artikel III.79, § 1, dragen hun bestuursdocumenten waarvan de bewaartermijn, vermeld in artikel III.87, § 1, 2°, verstreken is en waarvan de definitieve bestemming, vermeld in artikel III.87, § 1, 3°, permanente bewaring is, over aan het depot dat de Vlaamse Regering daarvoor aangewezen heeft.<br>
+De overheidsinstanties, vermeld in artikel III.79, § 1, dragen hun bestuursdocumenten waarvan de bewaartermijn, vermeld in artikel III.87, § 1, eerste lid, 2°, verstreken is en waarvan de definitieve bestemming, vermeld in artikel III.87, § 1, eerste lid, 3°, permanente bewaring is, over aan het depot dat de Vlaamse Regering daarvoor aangewezen heeft.<br>
 <br>
 De instanties van de Vlaamse administratie zijn verplicht hun bestuursdocumenten die administratief zijn afgehandeld, onmiddellijk over te dragen aan het depot, vermeld in het eerste lid.<br>
 <br>
@@ -2348,9 +2348,9 @@ De Vlaamse Regering kan de taken, vermeld in het eerste lid, concretiseren of aa
 ### ART III.87.
 
 § 1.&nbsp;Voor elke categorie van bestuursdocumenten en voor de persoonsgegevens die erin zijn opgenomen, worden selectieregels opgesteld die minstens de vol- gende elementen bevatten:<br>
-1° een betekenisvolle naam en omschrijving;<br>
-2° het administratieve of juridische nut, verduidelijkt door een bewaartermijn met bijbehorende motivering;<br>
-3° de aanduiding van de waarde voor het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, verduidelijkt door de definitieve bestemming, die ofwel een vernietiging ofwel een permanente bewaring inhoudt, met bijbehorende motivering.<br>
+1° een betekenisvolle naam en omschrijving die duidelijk aangeeft binnen welke specifieke context de bestuursdocumenten gecreëerd of ontvangen zijn;<br>
+2° het administratieve of juridische nut, verduidelijkt door een exacte bewaartermijn met bijbehorende motivering, met behoud van de toepassing van paragraaf 1/1 en 2;<br>
+3°&nbsp;de aanduiding dat verdere bewaring na afloop van de bewaartermijn, vermeld in punt 2°, al dan niet nodig is voor het algemeen belang, voor wetenschappelijk of historisch onderzoek, of voor statistische doeleinden, met een verduidelijking en een bijbehorende motivering van de definitieve bestemming, die een vernietiging of een permanente bewaring inhoudt. Als bestuursdocumenten die persoonsgegevens bevatten, permanent worden bewaard, is artikel 89 van de algemene verordening gegevensbescherming van toepassing.<br>
 <br>
 De selectiecommissie, vermeld in artikel III.88, § 1, kan beslissen dat de selectieregels meer gegevens moeten bevatten.<br>
 <br>
@@ -2363,11 +2363,49 @@ d)&nbsp;&nbsp; &nbsp;de mate waarin kan worden voorzien in maatregelen die de id
 2° &nbsp; de onderlinge consistentie tussen de selectieregels;<br>
 3° de motiveringen die de bewaartermijnen en de bestemmingen toelichten.<br>
 <br>
-§ 2. De selectieregels hebben uitwerking vanaf de bekendmaking ervan in het register, vermeld in artikel III.82, § 2, dat publiek raadpleegbaar is.<br>
+§1/1. Tenzij anders is bepaald in de toepasselijke regelgeving, worden de volgende bestuursdocumenten maximaal twee jaar bewaard als ze persoonsgegevens bevatten:<br>
+1° bestuursdocumenten die betrekking hebben op een bericht dat niet tot doel heeft om verdere rechtsgevolgen tot stand te brengen. De termijn begint te lopen vanaf het ogenblik dat er gevolg gegeven is aan het bericht;<br>
+2° de opeenvolgende wijzigingen van de gegevens van de natuurlijke personen die in naam en voor rekening van de vereniging optreden als vertegenwoordiger als vermeld in artikel 4/1, §1, tweede lid, 7°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De termijn begint te lopen vanaf het ogenblik van de wijziging van de hoedanigheid van vertegenwoordiger van de vereniging, hetzij op zijn verzoek, hetzij in geval van overlijden, hetzij in geval van wijziging door een gegevensinitiator als vermeld in artikel 4/2, §2, van het voormelde decreet;<br>
+3° de opeenvolgende wijzigingen van de contactgegevens van een burger als vermeld in artikel 6 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De termijn begint te lopen vanaf het ogenblik van de wijziging van de contactgegevens, hetzij op verzoek van de burger, hetzij in geval van zijn overlijden.<br>
+<br>
+Tenzij anders is bepaald in de toepasselijke regelgeving, worden de volgende bestuursdocumenten maximaal vijf jaar bewaard als ze persoonsgegevens bevatten:<br>
+1° de bestuursdocumenten die betrekking hebben op het behandelen van een klacht. De termijn begint te lopen vanaf het ogenblik dat de klacht is afgehandeld;<br>
+2° de bestuursdocumenten die betrekking hebben op een aanvraag tot openbaarmaking of hergebruik van een bestuursdocument. De termijn begint te lopen vanaf het ogenblik dat een beslissing over de aanvraag is genomen;<br>
+3° de bestuursdocumenten die betrekking hebben op een melding of een voorstel als vermeld in artikel II.88. De termijn begint te lopen vanaf het ogenblik dat de melding of het voorstel is afgehandeld.<br>
+<br>
+Tenzij anders is bepaald in de toepasselijke regelgeving, worden de volgende bestuursdocumenten maximaal tien jaar bewaard als ze persoons- gegevens bevatten:<br>
+1° de bestuursdocumenten die betrekking hebben op het innen van belastingen of retributies. De termijn begint te lopen vanaf het ogenblik dat de belasting of retributie is geïnd;<br>
+2° de bestuursdocumenten die betrekking hebben op een subsidie als vermeld in artikel 2, 34°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019. De termijn begint te lopen vanaf het ogenblik dat de subsidie is afgehandeld of geweigerd;<br>
+3° de bestuursdocumenten die betrekking hebben op een vergunning die impact heeft op een persoonlijk recht. De termijn begint te lopen vanaf het ogenblik dat de vergunning afloopt of is geweigerd;<br>
+4° de bestuursdocumenten die betrekking hebben op een erkenning, in welke vorm ook. De termijn begint te lopen op het ogenblik dat die erkenning afloopt of is geweigerd;<br>
+5° de bestuursdocumenten die betrekking hebben op een attest dat impact heeft op een persoonlijk recht. De termijn begint te lopen vanaf het ogenblik dat het attest afloopt of is geweigerd;<br>
+6° de opeenvolgende wijzigingen van de rekeningnummers, vermeld in artikel 5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De termijn begint te lopen vanaf het ogenblik van de wijziging van het rekeningnummer, hetzij op verzoek van de rekeninghouder, hetzij in geval van zijn overlijden.<br>
+<br>
+Tenzij anders is bepaald in de toepasselijke regelgeving, worden de volgende bestuursdocumenten maximaal dertig jaar bewaard als ze persoonsgegevens bevatten:<br>
+1° de bestuursdocumenten die betrekking hebben op een vergunning die impact heeft op een zakelijk recht. De termijn begint te lopen vanaf het ogenblik dat de vergunning afloopt of is geweigerd;<br>
+2° de bestuursdocumenten die betrekking hebben op een strafvordering, of een administratieve of bestuurlijke sanctie. De termijn begint te lopen vanaf het ogenblik dat de beslissing over de strafvordering of de sanctie is genomen;<br>
+3° de bestuursdocumenten die betrekking hebben op de handhaving van regelgeving. De termijn begint te lopen vanaf het ogenblik dat het dossier is afgerond;<br>
+4° de bestuursdocumenten die betrekking hebben op het innen van belastingen of retributies die voortvloeien uit zakelijke rechten. De termijn begint te lopen vanaf het ogenblik dat de belasting of retributie is geïnd;<br>
+5° de bestuursdocumenten die betrekking hebben op een attest dat impact heeft op een zakelijk recht. De termijn begint te lopen vanaf het ogenblik dat het attest afloopt of is geweigerd;<br>
+6° de bestuursdocumenten die betrekking hebben op de verwerving van een zakelijk recht op een onroerend goed. De termijn begint te lopen vanaf het ogenblik dat het onroerend goed is verworven;<br>
+7° de bestuursdocumenten die betrekking hebben op een tegemoetkoming aan zorggebruikers in het kader van het gezondheids- en welzijnsbeleid, vermeld in artikel 5, §1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen. De termijn begint te lopen vanaf het ogenblik dat de tegemoetkoming is afgehandeld of geweigerd;<br>
+8° de bestuursdocumenten die betrekking hebben op een vergoeding ter compensatie van een gebruiksbeperking op een onroerend goed. De termijn begint te lopen vanaf het ogenblik dat de vergoeding is betaald of de aanvraag is geweigerd.<br>
+<br>
+Tenzij anders is bepaald in de toepasselijke regelgeving, worden de volgende bestuursdocumenten maximaal 110 jaar na de geboorte van de betrokkene bewaard als ze persoonsgegevens bevatten:<br>
+1° personeelsdossiers en afgeleide documenten die er betrekking op hebben;<br>
+2° medische attesten voor de aanvraag van speciale onderwijsleermiddelen;<br>
+3° de erkende kwalificaties, vermeld in artikel 19 van het decreet van 30 april<br>
+2009 betreffende de kwalificatiestructuur, en de erkende of gelijkwaardig verklaarde leer- en ervaringsbewijzen, vermeld in artikel 20 van het voor- melde decreet.<br>
+<br>
+Als een rechtsmiddel wordt ingesteld tegen een beslissing over de bestuursdocumenten, vermeld in het eerste tot en met het vijfde lid, worden de lopende bewaartermijnen geschorst tot er een definitieve, in kracht van gewijsde gegane en uitvoerbare beslissing over het rechtsmiddel is genomen.<br>
+<br>
+§ 2.&nbsp;Voor andere categorieën van bestuursdocumenten die persoonsgegevens bevatten dan de bestuursdocumenten, vermeld in paragraaf 1/1, kan de Vlaamse Regering op voorstel van de selectiecommissies, vermeld in artikel III.88, §1, de maximale bewaartermijnen bepalen, rekening houdend met de specifieke context en met toepassing van de criteria, vermeld in paragraaf 1, derde lid.<br>
 <br>
 § 3. De bekendgemaakte selectieregels zijn geldig voor de duur van ten hoogste vijf jaar of tot op het moment dat de bestuurlijke verantwoordelijkheid voor bestuursdocumenten overgedragen wordt conform artikel III.83.<br>
 <br>
-§ 4. De Vlaamse Regering stelt de nadere bepalingen vast voor de opmaak, de goedkeuring en de onderlinge consistentie van de selectieregels.
+§ 4. De Vlaamse Regering stelt de nadere bepalingen vast voor de opmaak, de goedkeuring en de onderlinge consistentie van de selectieregels.<br>
+<br>
+§5. De bewaartermijnen van bestuursdocumenten die persoonsgegevens bevatten, worden opgenomen in de informatie die aan de betrokkenen wordt verstrekt conform artikel 13 en 14 van de algemene verordening gegevensbescherming.
 
 ### ART III.88.
 
@@ -2401,16 +2439,17 @@ De Vlaamse Regering stelt de nadere regels vast voor de inhoud en de bekendmakin
 1°&nbsp;&nbsp; &nbsp;de overheidsinstanties, vermeld in artikel III.79, §1, 1° tot en met 4°;<br>
 2°&nbsp;&nbsp; &nbsp;de kabinetten van de leden van de Vlaamse Regering.<br>
 <br>
-§2. De door de Vlaamse Regering aan te wijzen entiteit, bevoegd voor het facilitair management en documentbeheer, hierna de entiteit te noemen, kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voor de scanning en, in voorkomend geval, de vervanging van de volgende bestuursdocumenten door elektronische kopieën, met toepassing van artikel II.25 van het Bestuursdecreet van 7 december 2018:<br>
+§2. De door de Vlaamse Regering aan te wijzen entiteit, bevoegd voor het facilitair management en documentbeheer, hierna de entiteit te noemen, kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voorde ontvangst, de scanning en, in voorkomend geval, de vervanging van de volgende bestuursdocumenten door elektronische kopieën, met toepassing van artikel II.25 van het Bestuursdecreet van 7 december 2018:<br>
 1° de bestuursdocumenten die de instantie in kwestie via analoge weg ontvangt;<br>
 2° de bestuursdocumenten die de instantie in kwestie beheert overeenkomstig<br>
 onderafdeling 2.<br>
 <br>
-De entiteit kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voor het openen en doorsturen van elektronische berichten die geadresseerd zijn aan bepaalde elektronische adressen van de instantie in kwestie.<br>
+De entiteit kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voor het ontvangen, het openen en doorsturen van elektronische berichten die geadresseerd zijn aan bepaalde elektronische adressen van de instantie in kwestie.<br>
 <br>
 Bij de uitvoering van de opdrachten, vermeld in het eerste en tweede lid, is de entiteit gemachtigd om:<br>
-1° de berichten die geadresseerd zijn aan een andere instantie of aan een personeelslid van die instantie, te openen;<br>
-2° met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens bestuursdocumenten die persoonsgegevens bevatten, te verwerken.<br>
+1°&nbsp; &nbsp; de berichten die geadresseerd zijn aan een andere instantie of aan een personeelslid van die instantie, te ontvangen en in voorkomend geval af te tekenen in naam van de geadresseerde;<br>
+1°/1 de berichten die geadresseerd zijn aan een andere instantie of aan een personeelslid van die instantie, te openen;<br>
+2°&nbsp; &nbsp; &nbsp;met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens bestuursdocumenten die persoonsgegevens bevatten, te verwerken.<br>
 <br>
 De personeelsleden van de entiteit zijn bij de uitvoering van de opdrachten, vermeld in het eerste en tweede lid, gebonden aan een geheimhoudingsverplichting.<br>
 <br>
