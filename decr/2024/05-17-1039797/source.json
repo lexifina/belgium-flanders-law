@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039797,
+  "title": "Decreet van 2024-05-17 houdende instemming met het samenwerkingsakkoord van 4 april 2024 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest en de Federale Staat over de interbestuurlijke uitvoering van verordening (EU) 2018/1724 van het Europees Parlement en de Raad van 2 oktober 2018 tot oprichting van één digitale toegangspoort voor informatie, procedures en diensten voor ondersteuning en probleemoplossing en houdende wijziging van Verordening (EU) nr. 1024/2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039797/VolledigDocument?datum=2024-06-21",
+  "source_sha256": "70acad27768dd45332e2ccd485f81a1872374cdc7f5b5f293fedd512c4c8244d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039797&param=informatie",
+  "as_of": "2024-06-21",
+  "made": "2024-05-17",
+  "gazette": "2024-06-11",
+  "numac": 2024005648,
+  "document_start": "2024-06-21",
+  "document_end": null,
+  "in_force": "2024-06-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
