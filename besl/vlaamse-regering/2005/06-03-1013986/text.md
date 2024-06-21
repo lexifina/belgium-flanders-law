@@ -101,7 +101,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			e) de institutionele aspecten van de Europese Unie<br>
 			f) het Europese gemeenschappelijke handelsbeleid<br>
 			g) het Europese meerjarig financieel kader (MFK) en het Europese cohesiebeleid<br>
-			h) het Europese semester in samenwerking met het beleidsdomein Financiën en Begroting i) het sluiten en goedkeuren van verdragen, vermeld in artikel 16, § 1 en § 2, en 81, § 1, van de bijzondere wet en in het samenwerkingsakkoord van 8 maart 1994 tussen de Federale Overheid, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van gemengde verdragen<br>
+			h) het Europese semester in samenwerking met het beleidsdomein Financiën en Begroting<br>
+			i) het sluiten en goedkeuren van verdragen, vermeld in artikel 16, § 1 en § 2, en 81, § 1, van de bijzondere wet en in het samenwerkingsakkoord van 8 maart 1994 tussen de Federale Overheid, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van gemengde verdragen<br>
 			j) de coördinatie van de omzetting van Europese regelgeving en van de maatregelen in het kader van inbreukprocedures<br>
 			3° het protocol<br>
 			4° de controle op de handel in strategische goederen, vermeld in artikel 6, § 1, VI, eerste lid, 4°, van de bijzondere wet</td>
@@ -131,7 +132,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>binnenlands bestuur en stedenbeleid</td>
-			<td>1° de binnenlandse aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere wet, met inbegrip van het overleg met andere beleidsdomeinen. 2° de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
+			<td>1° de binnenlandse aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere wet, met inbegrip van het overleg met andere beleidsdomeinen.<br>
+			2° de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
 			3° het gebruik van de talen in de lokale besturen<br>
 			4° het stedenbeleid<br>
 			5° de audit van de lokale besturen</td>
@@ -224,8 +226,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>digitalisering</td>
-			<td>1° digitalisering<br>
-			2° ICT</td>
+			<td>digitalisering</td>
 		</tr>
 		<tr>
 			<td>bestuursrechtspraak</td>
@@ -237,7 +238,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
-			<td>1° facilitair management<br>
+			<td>1° facilities<br>
 			2° vastgoed<br>
 			3° documentbeheer<br>
 			4° overheidsopdrachten<br>
@@ -585,46 +586,46 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 12.
 
-<br>
-§ 1. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende beleidsvelden en bevoegdheden:
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+§1. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende beleidsvelden en bevoegdheden:<br>
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>beleidsveld</td>
-			<td>bevoegdheid</td>
+			<td style="background-color:white"><strong>beleidsveld</strong></td>
+			<td style="background-color:white"><strong>bevoegdheid</strong></td>
 		</tr>
 		<tr>
-			<td>regionale luchthavens</td>
-			<td>1° de uitrusting en de uitbating van de luchthavens en de openbare vliegvelden, vermeld in artikel 6, § 1, X, 7°, van de bijzondere wet<br>
-			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek</td>
+			<td style="background-color:white">luchtgebonden mobiliteit en transport</td>
+			<td style="background-color:white">1° de uitrusting en de uitbating van de luchthavens en de openbare vliegvelden, vermeld in artikel 6, §1, X, 7°, van de bijzondere wet<br>
+			2° de vestigingsvoorwaarden voor mobiliteit en logistiek</td>
 		</tr>
 		<tr>
-			<td>gemeenschappelijk vervoer</td>
-			<td>1° het gemeenschappelijke stads- en streekvervoer, met inbegrip van de bijzondere vormen van geregeld vervoer, het taxivervoer en het verhuren van auto's met chauffeur, vermeld in artikel 6, § 1, X, 8°, van de bijzondere wet, met inbegrip van het prijsbeleid<br>
-			2° de bijkomende financiering voor investeringen in de aanleg, aanpassing of modernisering van de spoorlijnen, vermeld in artikel 6, § 1, X, 14°, van de bijzondere wet<br>
-			3° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek<br>
+			<td style="background-color:white">gemeenschappelijk vervoer</td>
+			<td style="background-color:white">1° het gemeenschappelijke stads- en streekvervoer, met inbegrip van de bijzondere vormen van geregeld vervoer, het taxivervoer en het verhuren van auto's met chauffeur, vermeld in artikel 6, §1, X, 8°, van de bijzondere wet, met inbegrip van het prijsbeleid<br>
+			2° de bijkomende financiering voor investeringen in de aanleg, aanpassing of modernisering van de spoorlijnen, vermeld in artikel 6, §1, X, 14°, van de bijzondere wet<br>
+			3° de vestigingsvoorwaarden voor mobiliteit en logistiek<br>
 			4° het vervoer van mindervaliden</td>
 		</tr>
 		<tr>
-			<td>algemeen mobiliteitsbeleid</td>
-			<td>1° het beleid inzake multimodale mobiliteit, synchro- en combimobiliteit, integrale mobiliteit en logistiek<br>
-			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek<br>
+			<td style="background-color:white">algemeen mobiliteitsbeleid</td>
+			<td style="background-color:white">1° het beleid inzake multimodale mobiliteit, synchro- en combimobiliteit, integrale mobiliteit en logistiek<br>
+			2° de vestigingsvoorwaarden voor mobiliteit en logistiek<br>
 			3° het stimuleren van de omschakeling naar zero-emissievervoermiddelen en vervoermiddelen die aangedreven worden door alternatieve brandstoffen, met inbegrip van de uitrol van de bijbehorende laad- en tankinfrastructuur die geen betrekking heeft op de infrastructuur van gebouwen en naastgelegen parkeerterreinen, vermeld in artikel 8 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen</td>
 		</tr>
 		<tr>
-			<td>weginfrastructuur en beleid</td>
-			<td>1° het verkeersveiligheidsbeleid, vermeld in artikel 6, § 1, XII, van de bijzondere wet<br>
-			2° het mobiliteitsbeleid en de openbare werken en het vervoer, vermeld in artikel 6, § 1, X, 1°, 2° bis, 12° en 13°, van de bijzondere wet:<br>
+			<td style="background-color:white">weggebonden mobiliteit en transport</td>
+			<td style="background-color:white">1° het verkeersveiligheidsbeleid, vermeld in artikel 6, §1, XII, van de bijzondere wet<br>
+			2° het mobiliteitsbeleid en de openbare werken en het vervoer, vermeld in artikel 6, §1, X, 1°, 2° bis, 12° en 13°, van de bijzondere wet:<br>
 			a) de wegen en hun aanhorigheden<br>
 			b) het juridische stelsel van de landwegen<br>
-			c) de minimale technische veiligheidsnormen inzake het bouwen en onderhouden van wegen en hun aanhorigheden<br>
-			d) de reglementering inzake het vervoer van gevaarlijke goederen en uitzonderlijk vervoer over de weg<br>
-			3° de gemeentewegen, met inbegrip van de rooiplannen van de gemeentewegen, vermeld in artikel 6, § 1, I, 2°, van de bijzondere wet<br>
-			4° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek</td>
+			c) de minimale technische veiligheidsnormen voor het bouwen en onderhouden van wegen en hun aanhorigheden<br>
+			d) de reglementering voor het vervoer van gevaarlijke goederen en uitzonderlijk vervoer over de weg<br>
+			3° de gemeentewegen, met inbegrip van de rooiplannen van de gemeentewegen, vermeld in artikel 6, §1, I, 2°, van de bijzondere wet<br>
+			4° de vestigingsvoorwaarden voor mobiliteit en logistiek</td>
 		</tr>
 		<tr>
-			<td>waterinfrastructuur en beleid</td>
-			<td>1° het mobiliteitsbeleid en de openbare werken en het vervoer, vermeld in artikel 6, § 1, X, 2°, 2° bis, 3°, 4°, 5°, 6°, 9°, 10°, 11° en 12°, van de bijzondere wet:<br>
+			<td style="background-color:white">watergebonden mobiliteit en transport</td>
+			<td style="background-color:white">1° het mobiliteitsbeleid en de openbare werken en het vervoer, vermeld in artikel 6, §1, X, 2°, 2° bis, 3°, 4°, 5°, 6°, 9°, 10°, 11° en 12°, van de bijzondere wet:<br>
 			a) de waterwegen en hun aanhorigheden<br>
 			b) het juridische stelsel van de land- en waterwegen<br>
 			c) de havens en hun aanhorigheden<br>
@@ -632,62 +633,58 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			e) de dijken<br>
 			f) de veerdiensten<br>
 			g) de loodsdiensten en de bebakeningsdiensten van en naar de havens, alsook de reddings- en sleepdiensten op zee<br>
-			h) de regels van politie over het verkeer op waterwegen<br>
-			i) de regels met betrekking tot de bemanningsvoorschriften inzake de binnenvaart en de regels inzake de veiligheid van binnenschepen en binnenschepen die ook voor niet-internationale reizen op zee worden gebruikt<br>
-			j) de minimale technische veiligheidsnormen inzake het bouwen en onderhouden van waterwegen en hun aanhorigheden<br>
-			2° de vestigingsvoorwaarden met betrekking tot mobiliteit en logistiek</td>
+			h) de regels van politie voor het verkeer op waterwegen<br>
+			i) &nbsp;de regels voor de bemanningsvoorschriften inzake de binnenvaart en de regels voor de veiligheid van binnenschepen en binnenschepen die ook voor niet-internationale reizen op zee worden gebruikt<br>
+			j) de minimale technische veiligheidsnormen voor het bouwen en onderhouden van waterwegen en hun aanhorigheden<br>
+			2° de vestigingsvoorwaarden voor mobiliteit en logistiek</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende inhoudelijke structuurelementen:
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
-	<tbody>
-		<tr>
-			<td>beleidsveld</td>
-			<td>inhoudelijk structuurelement</td>
-		</tr>
-		<tr>
-			<td>regionale luchthavens</td>
-			<td>1° luchthavenbeleid<br>
-			2° uitbating regionale luchthavens<br>
-			3° luchthaveninfrastructuur</td>
-		</tr>
-		<tr>
-			<td>gemeenschappelijk vervoer</td>
-			<td>1° basisbereikbaarheid<br>
-			2° investeringen basisbereikbaarheid<br>
-			3° kernnet<br>
-			4° aanvullend net<br>
-			5° vervoer op maat<br>
-			6° treinnet</td>
-		</tr>
-		<tr>
-			<td>algemeen mobiliteitsbeleid</td>
-			<td>1° algemene beleidsondersteuning<br>
-			2° modioverschrijdend mobiliteitsbeleid 3° het stimuleren van de omschakeling naar zero-emissievervoermiddelen en vervoermiddelen die aangedreven worden door alternatieve brandstoffen, met inbegrip van de uitrol van de bijbehorende laad- en tankinfrastructuur die geen betrekking heeft op de infrastructuur van gebouwen en naastgelegen parkeerterreinen, vermeld in artikel 8 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen</td>
-		</tr>
-		<tr>
-			<td>weginfrastructuur en beleid</td>
-			<td>1° verkeersveiligheid<br>
-			2° verkeersbeleid<br>
-			3° weginfrastructuur algemeen<br>
-			4° onderhoud weginfrastructuur<br>
-			5° investeringen weginfrastructuur</td>
-		</tr>
-		<tr>
-			<td>waterinfrastructuur en beleid</td>
-			<td>1° haven en waterbeleid<br>
-			2° waterinfrastructuur algemeen<br>
-			3° onderhoud waterinfrastructuur<br>
-			4° investeringen waterinfrastructuur<br>
-			5° scheepvaartverkeer</td>
-		</tr>
-	</tbody>
-</table>
+§2. Het beleidsdomein Mobiliteit en Openbare Werken omvat de volgende inhoudelijke structuurelementen:<br>
 <br>
 &nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:595px">
+	<tbody>
+		<tr>
+			<td style="width:198px"><strong>beleidsveld</strong></td>
+			<td style="width:397px"><strong>inhoudelijk structuurelement</strong></td>
+		</tr>
+		<tr>
+			<td style="width:198px">luchtgebonden mobiliteit en transport</td>
+			<td style="width:397px">1° beleid luchthavens<br>
+			2° exploitatie luchthavens<br>
+			3° investeringen luchthavens</td>
+		</tr>
+		<tr>
+			<td style="width:198px">gemeenschappelijk vervoer</td>
+			<td style="width:397px">1° beleid gemeenschappelijk vervoer<br>
+			2° investeringen gemeenschappelijk vervoer<br>
+			3° exploitatie gemeenschappelijk vervoer<br>
+			4° onderhoud gemeenschappelijk vervoer</td>
+		</tr>
+		<tr>
+			<td style="width:198px">algemeen mobiliteitsbeleid</td>
+			<td style="width:397px">1° strategisch mobiliteitsbeleid<br>
+			2° transversaal beleid<br>
+			3° wetenschappelijk onderzoek en studies</td>
+		</tr>
+		<tr>
+			<td style="width:198px">weggebonden mobiliteit en transport</td>
+			<td style="width:397px">1° beleid weginfrastructuur<br>
+			2° onderhoud weginfrastructuur<br>
+			3° investeringen weginfrastructuur<br>
+			4° exploitatie weginfrastructuur</td>
+		</tr>
+		<tr>
+			<td style="width:198px">watergebonden mobiliteit en transport</td>
+			<td style="width:397px">1° beleid waterinfrastructuur<br>
+			2° onderhoud waterinfrastructuur<br>
+			3° investeringen waterinfrastructuur<br>
+			4° exploitatie waterinfrastructuur</td>
+		</tr>
+	</tbody>
+</table>
 
 ### ART. 13.
 
@@ -759,7 +756,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		<tr>
 			<td>onroerend erfgoed</td>
 			<td>1° partnerschappen onroerenderfgoedzorg<br>
-			2° kwaliteit onroerenderfgoedzorg</td>
+			2° kwaliteit onroerenderfgoedzorg<br>
+			3° thema-overschrijdend instrumentarium onroerend erfgoed</td>
 		</tr>
 		<tr>
 			<td>omgeving en natuur</td>
@@ -787,7 +785,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			<td>wonen</td>
 			<td>1° vraagzijde woningmarkt<br>
 			2° aanbodzijde woningmarkt<br>
-			3° woningkwaliteit</td>
+			3° woningkwaliteit<br>
+			4° thema-overschrijdend instrumentarium wonen</td>
 		</tr>
 	</tbody>
 </table>
@@ -885,8 +884,7 @@ Het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Eco
 			2° ondernemerschap<br>
 			3° groei-ondersteuning kmo's en groeibedrijven<br>
 			4° vergroening en klimaat<br>
-			5° ruimtelijke economie<br>
-			6° de ondernemersvorming, met inbegrip van de bezoldigde stages in dat kader</td>
+			5° ruimtelijke economie</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">wetenschappelijk onderzoek</td>
@@ -1055,9 +1053,9 @@ De aangelegenheden die bij artikel 3 tot en met 13/1 aan de verschillende beleid
 2° De Vlaamse Waterweg;<br>
 3° ...;<br>
 4° ...;<br>
-5° Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
+5° ...;<br>
 6° Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
-7° Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
+7° Luchthavenontwikkelingsmaatschappij Vlaanderen;<br>
 8° Vlaamse Havens.<br>
 <br>
 § 3. ....
