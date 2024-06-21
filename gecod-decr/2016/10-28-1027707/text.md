@@ -981,7 +981,9 @@ l° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding
 &nbsp;<br>
 §4. De procedure voor de aanvraag en toekenning en het intern beroep en de werking van het door de Vlaamse Regering te bepalen centraal tolkenbureau, worden om de drie jaar geëvalueerd. De eerste evaluatie vindt plaats gedurende het schooljaar 2015-2016. Tijdens deze evaluatie wordt de betrokkenheid van de doelgroep verzekerd.<br>
 &nbsp;<br>
-§5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.
+§5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.<br>
+<br>
+§6. De medische attesten voor het aanvragen van de speciale onderwijsleermiddelen worden maximaal 110 jaar na de geboorte van de betrokkene bewaard wegens het permanente karakter van de functiebeperking van de betrokkenen en het recht op levenslang leren.
 
 ## Hoofdstuk 9 Europese en internationale programma’s
 
