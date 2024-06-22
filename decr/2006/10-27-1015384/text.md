@@ -69,7 +69,7 @@ c) het uitvoeren van een eindevaluatieonderzoek;<br>
 24° voorzorgsmaatregelen : maatregelen om mens of milieu tijdelijk te beschermen tegen de risico's van de bodemverontreiniging in afwachting van bodemsaneringswerken;<br>
 25° nazorg : maatregelen van bewaking, controle en zo nodig herstel om de mens of het milieu te blijven beschermen tegen de risico's van bodemverontreiniging na bodemsanering;<br>
 26° schadegeval : onvoorziene gebeurtenis die aanleiding geeft tot bodemverontreiniging;<br>
-27° rechtsvoorganger : rechtspersoon die rechtstreeks of onrechtstreeks verbonden is met een andere rechtspersoon door wettelijke rechtsopvolging, via fusie, splitsing, met fusie of splitsing gelijkgestelde verrichtingen, inbreng of overdracht van een algemeenheid, inbreng of overdracht van een bedrijfstak, of enige gelijkaardige rechtsfiguur;<br>
+27° rechtsvoorganger : rechtspersoon die rechtstreeks of onrechtstreeks verbonden is met een andere rechtspersoon door wettelijke rechtsopvolging, via fusie, splitsing, met fusie of splitsing gelijkgestelde verrichtingen, inbreng of overdracht van een algemeenheid, inbreng of overdracht van een bedrijfstak, of enige gelijkaardige rechtsfiguur.&nbsp;De vroegere waterbeheerder van een onbevaarbare waterloop wordt geacht rechtsvoorganger te zijn van de huidige waterbeheerder als laatstgenoemde waterbeheerder is geworden als gevolg van de herindeling van de waterloop op grond van een rangschikkingsbesluit overeenkomstig artikel 4 of 4bis van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 28° gemandateerde : diegene die op grond van een lastgeving of een gerechtelijke beslissing bevoegd is om handelingen te stellen met betrekking tot het onroerend vermogen van de aangewezen persoon;<br>
 29° code van goede praktijk : door de OVAM aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot de activiteiten en maatregelen vermeld in dit decreet;<br>
 30° bodemsaneringsdeskundige : onafhankelijke deskundige erkend met toepassing van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
@@ -80,7 +80,14 @@ c) het uitvoeren van een eindevaluatieonderzoek;<br>
 35° baggerspecie: bodemmateriaal dat afkomstig is van het verdiepen, verbreden of onderhouden van bevaarbare waterlopen die behoren tot het openbare hydrografische net, of van de aanleg van nieuwe waterinfrastructuur, met inbegrip van kanalen, havens en dokken;<br>
 36° ruimingsspecie: bodemmateriaal dat afkomstig is van het verdiepen, verbreden of onderhouden van oppervlaktewateren als vermeld in het decreet van 18 juli 2003 betreffende het integraal waterbeleid en geen baggerspecie is;<br>
 37° grondbrij: bodemmateriaal dat afkomstig is van het triëren en het wassen van gewassen uit de volle grond;<br>
-38° bentonietslib: mengsel van uitgegraven bodem en bentoniet dat afkomstig is van toepassingen bij grond- en putboringen en grondwerken.
+38° bentonietslib: mengsel van uitgegraven bodem en bentoniet dat afkomstig is van toepassingen bij grond- en putboringen en grondwerken.<br>
+39° algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+40° beheerder van de waterbodem:<br>
+a) de rechtspersoon die door of krachtens een wet of een decreet verantwoordelijk is voor het beheer van het oppervlaktewater, zoals gedefinieerd in artikel 1.1.3, §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, waarvan de bodem de waterbodem vormt;<br>
+b) bij gebrek aan rechtspersoon als vermeld in punt a), of als die rechtspersoon op basis van artikel 133 vrijstelling van de verplichting tot bodemsanering heeft bekomen: de natuurlijke persoon of rechtspersoon die titularis is van een zakelijk of persoonlijk recht op de waterbodem, met uitzondering van de eigenaar.<br>
+Als de rechtspersoon, vermeld in punt a), voor een deel van de bodemverontreiniging vrijstelling van de verplichting tot bodemsanering heeft bekomen, wordt de natuurlijke persoon of rechtspersoon die titularis is van een zakelijk of persoonlijk recht op de waterbodem, met uitzondering van de eigenaar, voor dat deel van de bodemverontreiniging als beheerder van de waterbodem beschouwd;<br>
+c) bij gebrek aan rechtspersoon als vermeld in punt a) en gebruiker als vermeld in punt b), of als die personen vrijstelling van de verplichting tot bodemsanering hebben bekomen: de eigenaar van de waterbodem.<br>
+Als de rechtspersoon, vermeld in punt a), en de persoon, vermeld in punt b), voor een deel van de bodemverontreiniging vrijstelling van de verplichting tot bodemsanering hebben bekomen, wordt de eigenaar van de waterbodem voor dat deel van de bodemverontreiniging als beheerder van de waterbodem beschouwd.
 
 ## HOOFDSTUK II Doelstellingen
 
@@ -111,6 +118,29 @@ De termijnen verstrijken om middernacht van de laatste dag. Als de laatste dag e
 ### ART. 5.
 
 § 1. De OVAM beheert een grondeninformatieregister waarin ze gegevens over   gronden opneemt die haar in het kader van dit decreet of het decreet van 25   april 2014 betreffende complexe projecten worden bezorgd.<BR><BR>§ 2. Bij de   opname van een grond in het grondeninformatieregister levert de OVAM ambtshalve   een bodemattest af aan :<BR>1° de eigenaar en de gebruiker van de grond en de   exploitant op de grond, voor zover deze door de OVAM gekend zijn;<BR>2° de   gemeente van de plaats waar de grond gelegen is. De gemeente legt de ontvangen   bodemattesten ter inzage van belangstellenden.<BR><BR>In afwijking van het   eerste lid, levert de OVAM niet ambtshalve een bodemattest af als een grond   louter vanwege informatie uit de gemeentelijke inventaris van risicogronden in   het grondeninformatieregister wordt opgenomen.<BR><BR>De OVAM levert ook op   aanvraag een bodemattest af. Het bodemattest wordt afgeleverd binnen een termijn   van veertien dagen na de ontvangst van de ontvankelijke aanvraag. Als de   aanvraag betrekking heeft op een grond die in het grondeninformatieregister is   opgenomen, wordt het bodemattest afgeleverd binnen een termijn van zestig dagen   na de ontvangst van de ontvankelijke aanvraag.<BR><BR>§ 3. Het bodemattest   vermeldt de identificatie van de grond en geeft een overzicht van de meest   actuele informatie die over de grond beschikbaar is in het   grondeninformatieregister.<BR><BR>De OVAM is niet verantwoordelijk voor de   juistheid van de informatie die door derden aan haar werd verstrekt.<BR><BR>§ 4.   De Vlaamse Regering stelt nadere regelen vast betreffende het beheer en de   toegankelijkheid van het grondeninformatieregister.<BR><BR>
+
+### ART 5bis
+
+<br>
+§1. De OVAM maakt informatie uit het grondeninformatieregister en informatie over zorgzaam beheer van bodems via een bodemverontreinigingsverkenner en bodemverontreinigingsfiches toegankelijk.<br>
+<br>
+De informatie uit het grondeninformatieregister, vermeld in het eerste lid, heeft onder meer betrekking op de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de ligging van gronden;<br>
+2°&nbsp;&nbsp; &nbsp;de bodemkwaliteit van gronden;<br>
+3°&nbsp;&nbsp; &nbsp;informatie over de bescherming van mens en milieu tegen de risico’s van bodemverontreiniging;<br>
+4°&nbsp;&nbsp; &nbsp;de onderliggende data van de informatie, vermeld in punt 2° en 3°.<br>
+<br>
+§2. De bodemverontreinigingsverkenner is een digitale kaart van Vlaanderen die via kleurcodes de informatie, vermeld in paragraaf 1, tweede lid, 2° en 3°, toont waarbij de informatie, vermeld in paragraaf 1, tweede lid, 1°, als ruimtelijke referentie zichtbaar is.<br>
+<br>
+De bodemverontreinigingsverkenner is vrij toegankelijk voor het publiek.<br>
+<br>
+§3. De bodemverontreinigingsfiche geeft per grond een overzicht van de informatie, vermeld in paragraaf 1, tweede lid, 1° tot en met 3°.<br>
+<br>
+Een natuurlijke persoon of natuurlijke persoon verbonden aan een rechtspersoon heeft na toegangscontrole via een toegangs- en gebruiksbeheer van de Vlaamse overheid toegang tot de bodemverontreinigingsfiche. De Vlaamse Regering kan nadere regels over de toegangscontrole vaststellen en in dat kader ook beperkingen aan de toegang tot de bodemverontreinigingsfiche voorzien.<br>
+<br>
+De onderliggende data van de informatie, vermeld in paragraaf 1, tweede lid, 4°, wordt via de bodemverontreinigingsfiche ter beschikking gesteld na het doorlopen van de toegangscontrole, vermeld in het tweede lid, en een aansluitingsprocedure.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels vaststellen over de wijze waarop de inhoud van de bodemverontreinigingsverkenner en de bodemverontreinigingsfiches wordt weergegeven.
 
 ## Afdeling II Lijst van risico-inrichtingen
 
@@ -1074,7 +1104,18 @@ De eigenaar van de risicogrond die een vrijstelling van de bodemonderzoeksplicht
 
 ### ART. 104.
 
-§ 1. Als de OVAM op basis van het oriënterend bodemonderzoek, vermeld in   artikel 102, of het grondeninformatieregister van oordeel is dat er duidelijke   aanwijzingen zijn dat een risicogrond is aangetast door een nieuwe   bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt te   overschrijden, kan de overdracht niet plaatsvinden voor de overdrager of, in   voorkomend geval, de gemandateerde voor die bodemverontreiniging een   beschrijvend bodemonderzoek heeft uitgevoerd en het verslag ervan aan de OVAM   heeft bezorgd.<BR><BR>§ 2. Als de OVAM op basis van het verslag van beschrijvend   bodemonderzoek, het verslag van orienterend en beschrijvend bodemonderzoek of   het grondeninformatieregister van oordeel is dat de bodemsaneringsnormen   overschreden zijn, kan de overdracht niet plaatsvinden vooraleer de overdrager   of desgevallend de gemandateerde :<BR>1° een bodemsaneringsproject of een   beperkt bodemsaneringsproject heeft opgesteld en hiervoor een   conformiteitsattest werd afgeleverd;<BR>2° jegens de OVAM de verbintenis heeft   aangegaan de verdere bodemsanering en de eventuele nazorg uit te voeren;<BR>3°   financiële zekerheden heeft gesteld tot waarborg van de uitvoering van de   verbintenis, vermeld in 2°. De Vlaamse Regering bepaalt de wijze waarop deze   financiële zekerheden worden gesteld.<BR><BR>De verplichting om de verdere   bodemsanering en de eventuele nazorg uit te voeren moet voldaan worden   overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in het   eerste lid, 2°.<BR><BR>§ 3. Als de bodemverontreiniging omwille van haar   bijzondere aard niet aan bodemsaneringsnormen kan worden getoetst, zijn de   bepalingen van dit artikel van overeenkomstige toepassing als er een ernstige   bodemverontreiniging aanwezig is.<BR><BR>
+§ 1. Als de OVAM op basis van het oriënterend bodemonderzoek, vermeld in artikel 102, of het grondeninformatieregister van oordeel is dat er duidelijke aanwijzingen zijn dat een risicogrond is aangetast door een nieuwe bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt te overschrijden, kan de overdracht niet plaatsvinden voor de overdrager of, in voorkomend geval, de gemandateerde voor die bodemverontreiniging een beschrijvend bodemonderzoek heeft uitgevoerd en het verslag ervan aan de OVAM heeft bezorgd.<br>
+<br>
+§ 2. Als de OVAM op basis van het verslag van beschrijvend bodemonderzoek, het verslag van orienterend en beschrijvend bodemonderzoek of het grondeninformatieregister van oordeel is dat de bodemsaneringsnormen overschreden zijn, kan de overdracht niet plaatsvinden vooraleer de overdrager of desgevallend de gemandateerde :<br>
+1° een bodemsaneringsproject of een beperkt bodemsaneringsproject heeft opgesteld en hiervoor een conformiteitsattest werd afgeleverd;<br>
+2° jegens de OVAM de verbintenis heeft aangegaan de verdere bodemsanering en de eventuele nazorg uit te voeren;<br>
+3° financiële zekerheden heeft gesteld tot waarborg van de uitvoering van de verbintenis, vermeld in 2°. De Vlaamse Regering bepaalt de wijze waarop deze financiële zekerheden worden gesteld.<br>
+<br>
+De verplichting om de verdere bodemsanering en de eventuele nazorg uit te voeren moet voldaan worden overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in het eerste lid, 2°.<br>
+<br>
+§ 3. Als de bodemverontreiniging omwille van haar bijzondere aard niet aan bodemsaneringsnormen kan worden getoetst, zijn de bepalingen van dit artikel van overeenkomstige toepassing als er een ernstige bodemverontreiniging aanwezig is.<br>
+<br>
+§4. Met behoud van de toepassing van artikel 105 zijn de bepalingen van dit artikel niet van toepassing voor de verontreiniging van de waterbodem die op de over te dragen grond tot stand gekomen is en voor de bodemverontreiniging op gronden ingevolge de verspreiding van de betreffende waterbodemverontreiniging.
 
 ## B. Vrijstelling van de saneringsplicht
 
@@ -1112,7 +1153,17 @@ Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in artike
 
 ### ART. 109.
 
-§ 1. Als de OVAM op basis van het oriënterend bodemonderzoek, vermeld in   artikel 102, of het grondeninformatieregister van oordeel is dat er duidelijke   aanwijzingen zijn dat een risicogrond is aangetast door een ernstige historische   bodemverontreiniging, kan de overdracht niet plaatsvinden voor de overdrager of,   in voorkomend geval, de gemandateerde voor die bodemverontreiniging een   beschrijvend bodemonderzoek heeft uitgevoerd en het verslag ervan aan de OVAM   heeft bezorgd.<BR><BR>§ 2. Als de OVAM op basis van het verslag van beschrijvend   bodemonderzoek, het verslag van oriënterend en beschrijvend bodemonderzoek of   het grondeninformatieregister van oordeel is dat de grond is aangetast door een   ernstige historische bodemverontreiniging, kan de overdracht niet plaatsvinden   vooraleer de overdrager of in voorkomend geval de gemandateerde :<BR>1° een   bodemsaneringsproject of een beperkt bodemsaneringsproject heeft opgesteld en   hiervoor een conformiteitsattest werd afgeleverd;<BR>2° jegens OVAM de   verbintenis heeft aangegaan de verdere bodemsanering en de eventuele nazorg uit   te voeren;<BR>3° financiële zekerheden heeft gesteld tot waarborg van de   uitvoering van de verbintenis, vermeld in 2°. De Vlaamse Regering bepaalt de   wijze waarop deze financiële zekerheden worden gesteld.<BR><BR>De verplichting   om de verdere bodemsanering en de eventuele nazorg uit te voeren moet voldaan   worden overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in   het eerste lid, 2°.<BR><BR>
+§ 1. Als de OVAM op basis van het oriënterend bodemonderzoek, vermeld in artikel 102, of het grondeninformatieregister van oordeel is dat er duidelijke aanwijzingen zijn dat een risicogrond is aangetast door een ernstige historische bodemverontreiniging, kan de overdracht niet plaatsvinden voor de overdrager of, in voorkomend geval, de gemandateerde voor die bodemverontreiniging een beschrijvend bodemonderzoek heeft uitgevoerd en het verslag ervan aan de OVAM heeft bezorgd.<br>
+<br>
+§ 2. Als de OVAM op basis van het verslag van beschrijvend bodemonderzoek, het verslag van oriënterend en beschrijvend bodemonderzoek of het grondeninformatieregister van oordeel is dat de grond is aangetast door een ernstige historische bodemverontreiniging, kan de overdracht niet plaatsvinden vooraleer de overdrager of in voorkomend geval de gemandateerde :<br>
+1° een bodemsaneringsproject of een beperkt bodemsaneringsproject heeft opgesteld en hiervoor een conformiteitsattest werd afgeleverd;<br>
+2° jegens OVAM de verbintenis heeft aangegaan de verdere bodemsanering en de eventuele nazorg uit te voeren;<br>
+3° financiële zekerheden heeft gesteld tot waarborg van de uitvoering van de verbintenis, vermeld in 2°. De Vlaamse Regering bepaalt de wijze waarop deze financiële zekerheden worden gesteld.<br>
+<br>
+De verplichting om de verdere bodemsanering en de eventuele nazorg uit te voeren moet voldaan worden overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in het eerste lid, 2°.<br>
+<br>
+§3. Met behoud van de toepassing van artikel 110 zijn bepalingen van dit artikel niet van toepassing voor de verontreiniging van de waterbodem die op de over te dragen grond tot stand gekomen is en voor de bodemverontreiniging op gronden ingevolge de verspreiding van de betreffende waterbodemverontreiniging.<br>
+&nbsp;
 
 ## B. Vrijstelling van de saneringsplicht
 
@@ -1175,7 +1226,7 @@ Als de OVAM zich niet binnen de termijn van zestig dagen heeft uitgesproken, kan
 <br>
 De verplichting om de bodemsanering en de eventuele nazorg uit te voeren, moet voldaan worden overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in het eerste lid, 1°.<br>
 <br>
-§ 5. Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in § 3 en § 4, beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met 155.<br>
+§ 5. Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in § 3 beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met 155.<br>
 <br>
 § 6. Artikel 105, § 3, en artikel 110, § 3, zijn van overeenkomstige toepassing op de vrijstelling van de saneringsplicht in de procedure van versnelde overdracht.<br>
 &nbsp;
@@ -1466,7 +1517,7 @@ Behalve in de gevallen waarvoor de beroepsprocedure in artikel 146 tot en met 15
 
 ### ART. 155.
 
-§ 1. Het administratief beroep, vermeld in artikel 153, is een vol beroep als het beroep betrekking heeft op een beslissing van de OVAM over de aanduiding van de saneringsplichtige, de vrijstelling van de saneringsplicht of de exoneratie van de verplichting om een site-onderzoek uit te voeren, met uitzondering van die onderdelen van voormelde beslissingen waarbij de OVAM als bodemsaneringsdeskundige uitspraak heeft gedaan.<br>
+§ 1. Het administratief beroep, vermeld in artikel 153, is een vol beroep als het beroep betrekking heeft op een beslissing van de OVAM over de aanduiding van de saneringsplichtige of de vrijstelling van de saneringsplicht, met uitzondering van die onderdelen van voormelde beslissingen waarbij de OVAM als bodemsaneringsdeskundige uitspraak heeft gedaan.<br>
 <br>
 In de andere gevallen beperkt het administratief beroep, vermeld in artikel 153, zich tot een marginale toetsing waarbij de Vlaamse Regering uitspraak doet over de manifeste onredelijkheid van de bestreden beslissing van de OVAM of het betreffende onderdeel ervan.<br>
 <br>
@@ -1478,11 +1529,18 @@ In de andere gevallen beperkt het administratief beroep, vermeld in artikel 153,
 
 ### ART. 156.
 
-In geval van een vrijstelling van de onderzoeksplicht, vermeld in artikel 31, § 1, kan de OVAM beslissen om ambtshalve een oriënterend bodemonderzoek uit te voeren of de grond op te nemen in een site met het oog op de uitvoering van een siteonderzoek.
+In geval van een vrijstelling van de onderzoeksplicht, vermeld in artikel 31, § 1, kan de OVAM beslissen om ambtshalve een oriënterend bodemonderzoek uit te voeren of de grond op te nemen in een site met het oog op de uitvoering van een siteonderzoek.<br>
+<br>
+De vrijstelling van de bodemonderzoeksverplichting, vermeld in artikel 31, §1 en §2, die de eigenaar of de verwerver krachtens artikel 31, §3 of §4, heeft verkregen, vervalt van rechtswege voor de betrokken eigenaar of verwerver bij vast- stelling conform artikel 172 dat hij geen gevolg geeft aan het bevel van de OVAM, vermeld in artikel 171. In dat geval heeft de betrokken eigenaar of verwerver van rechtswege de verplichting om het oriënterend bodemonderzoek uit te voeren binnen de door OVAM bepaalde termijn.
 
 ### ART. 157.
 
-De OVAM kan beslissen om ambtshalve een beschrijvend bodemonderzoek,   bodemsanering of de andere maatregelen, vermeld in afdelingen III, VI en VII van   hoofdstuk VI, uit te voeren, als de exploitant, gebruiker en eigenaar van de   gronden waar de bodemverontreiniging tot stand kwam niet gehouden is om een   beschrijvend bodemonderzoek of bodemsanering uit te voeren krachtens de   bepalingen van artikel 12 of 23, artikel 105 of 110, of artikel 133. Als de   eigenaar krachtens de voormelde bepalingen voor een deel van de   bodemverontreiniging van de saneringsplicht vrijgesteld is, kan de OVAM   beslissen om voor dat deel van de bodemverontreiniging ambtshalve een   beschrijvend bodemonderzoek, bodemsanering of de andere maatregelen, vermeld in   titel III, hoofdstuk VI, afdeling III en VI, uit te voeren.<BR><BR>Als een grond   die het voorwerp uitmaakt van een ambtshalve bodemsanering, door de OVAM in de   periode tussen de beslissing tot ambtshalve uitvoering van het beschrijvend   bodemonderzoek of de bodemsanering en de aflevering van de eindverklaring voor   de ambtshalve bodemsanering in het kader van een voorlopig of definitief vast-   gesteld ruimtelijk uitvoeringsplan of bijzonder plan van aanleg een bestemming   krijgt waardoor met toepassing van artikel 10, § 2, of artikel 21, § 1, een   aangepast saneringsdoel op de bodemsanering van toepassing wordt, worden de   eventuele meerkosten van de ambtshalve uitvoering van de bodemsanering vanwege   de toepassing van het aan- gepaste saneringsdoel ge(pre)financierd door de   persoon die eigenaar is van die grond op het moment van de definitieve   vaststelling van het ruimtelijk uitvoeringsplan of het bijzonder plan van   aanleg.<BR><BR>
+De OVAM kan beslissen om ambtshalve een beschrijvend bodemonderzoek, bodemsanering of de andere maatregelen, vermeld in afdelingen III en VI van hoofdstuk VI, uit te voeren, als de exploitant, gebruiker en eigenaar van de gronden waar de bodemverontreiniging tot stand kwam niet gehouden is om een beschrijvend bodemonderzoek of bodemsanering uit te voeren krachtens de bepalingen van artikel 12 of 23, artikel 105 of 110, of artikel 133. Als de eigenaar krachtens de voormelde bepalingen voor een deel van de bodemverontreiniging van de saneringsplicht vrijgesteld is, kan de OVAM beslissen om voor dat deel van de bodemverontreiniging ambtshalve een beschrijvend bodemonderzoek, bodemsanering of de andere maatregelen, vermeld in titel III, hoofdstuk VI, afdeling III en VI, uit te voeren.Vooraleer de beslissing te nemen om de bodemsanering voor de betreffende bodemverontreiniging ambtshalve uit te voeren, kan de OVAM op basis van het verslag van het beschrijvend bodemonderzoek de persoon die de betreffende bodemverontreiniging heeft veroorzaakt of de rechtsopvolgers van die persoon, aanmanen om de bodemsanering of de andere maatregelen, vermeld in afdeling III en VI van hoofdstuk VI, uit te voeren binnen de door haar bepaalde termijn. Alle belanghebbenden kunnen tegen de aanmaning van de OVAM beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met 155.<br>
+<br>
+Als een grond die het voorwerp uitmaakt van een ambtshalve bodemsanering, door de OVAM in de periode tussen de beslissing tot ambtshalve uitvoering van het beschrijvend bodemonderzoek of de bodemsanering en de aflevering van de eindverklaring voor de ambtshalve bodemsanering in het kader van een voorlopig of definitief vast- gesteld ruimtelijk uitvoeringsplan of bijzonder plan van aanleg een bestemming krijgt waardoor met toepassing van artikel 10, § 2, of artikel 21, § 1, een aangepast saneringsdoel op de bodemsanering van toepassing wordt, worden de eventuele meerkosten van de ambtshalve uitvoering van de bodemsanering vanwege de toepassing van het aan- gepaste saneringsdoel ge(pre)financierd door de persoon die eigenaar is van die grond op het moment van de definitieve vaststelling van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg.<br>
+<br>
+De vrijstelling van de verplichting om het beschrijvend bodemonderzoek of de bodemsanering uit te voeren die de exploitant, gebruiker, eigenaar of de verwerver krachtens de bepalingen van het Bodemdecreet heeft verkregen, vervalt van rechtswege voor de betrokken exploitant, gebruiker, eigenaar of verwerver bij vaststelling conform artikel 172 dat hij geen gevolg geeft aan het bevel van de OVAM, vermeld in artikel 171. In dat geval heeft de betrokken exploitant, gebruiker, eigenaar of verwerver van rechtswege de verplichting om het beschrijvend bodemonderzoek of de bodemsanering uit te voeren binnen de door de OVAM bepaalde termijn.<br>
+&nbsp;
 
 ### ART. 158.
 
@@ -1514,6 +1572,10 @@ De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een af
 <br>
 § 5. Artikel 19, tweede lid, van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde kosten van de ambtshalve uitvoering krachtens de bepalingen van dit decreet, waarvoor een beslissing door de OVAM genomen werd en waarvan de betekening aan de personen, vermeld in artikel 160, is gedaan voor het vonnis van faillietverklaring.<br>
 &nbsp;
+
+### ART 161bis
+
+De saneringsplichtige, vermeld in artikel 11, 22 en 132, §1, stelt op verzoek van de OVAM, financiële zekerheden tot waarborg van de uitvoering van de verplichting tot beschrijvend bodemonderzoek, bodemsanering en eventuele nazorg opgelegd door of krachtens dit decreet. De OVAM kan de aanpassing van de voormelde financiële zekerheid eisen. De Vlaamse Regering stelt nadere regels vast over het bedrag en de looptijd van de financiële zekerheden, en de wijze waarop die financiële zekerheden worden gesteld en aangepast.
 
 ## HOOFDSTUK XVII Retributies
 
@@ -1620,6 +1682,182 @@ Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzo
 ### ART. 174.
 
 De Vlaamse Regering brengt jaarlijks bij het Vlaams Parlement omstandig verslag uit over de uitvoering van het decreet.<br /><br />
+
+## Titel Vbis. Bescherming van persoonsgegevens
+
+### ART 174bis
+
+§1. Deze bepaling regelt de verwerking van persoonsgegevens door de verwerkingsverantwoordelijken, vermeld in paragraaf 2, in het kader van dit decreet en haar uitvoeringsbesluiten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit decreet en haar uitvoeringsbesluiten is noodzakelijk voor de vervulling van een wettelijke of decretale verplichting overeenkomstig artikel 6, eerste lid, c), van de algemene verordening gegevensbescherming of voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. Met behoud van de toepassing van het tweede lid en artikel 174ter en 174quater en tenzij uitdrukkelijk elders bepaald, treedt de OVAM op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevens- bescherming voor verwerkingen van persoonsgegevens beschreven in of volgend uit dit decreet en haar uitvoeringsbesluiten.<br>
+<br>
+De Vlaamse Regering verwerkt persoonsgegevens in het kader van het administratief beroep en in het kader van artikel 95, 98, 139, 164 en 165. Ze treedt daarbij op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+§3. De persoonsgegevens worden verwerkt voor de volgende doeleinden:<br>
+1°&nbsp; de opvolging van de bodemdossiers;<br>
+2°&nbsp; het beheer van bodeminformatie;<br>
+3°&nbsp; het beheer van ambtshalve opdrachten;<br>
+4°&nbsp; de behandeling van bodemrapporten;<br>
+5°&nbsp; de behandeling van financiële instrumenten;<br>
+6°&nbsp; het beheer van doelgroepgerichte instrumenten;<br>
+7°&nbsp; de aflevering van erkenningen in het kader van het bodembeheer;<br>
+8°&nbsp; de ontsluiting en verspreiding van bodeminformatie;<br>
+9°&nbsp; het toezicht op de bodemsaneringsdeskundigen en de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, en de bevordering van de kwaliteit van de uitvoering van hun taken;<br>
+10° de rapportage aan het Vlaams Parlement;<br>
+11° het beheer van het administratief beroep;<br>
+12° het beheer van het toezicht en de handhaving;<br>
+13° de beveiliging van systemen in het kader van de bovenstaande doelstellingen.<br>
+<br>
+§4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
+1° de eigenaar en de gebruiker van de grond en de exploitant op de grond;<br>
+2° de rechtsvoorgangers, de rechtsopvolgers en de vertegenwoordigers van de personen, vermeld in punt 1°;<br>
+3° de contactpersonen van erkende organisaties;<br>
+4° de personen werkzaam bij de politiediensten en overheidsinstanties, vermeld in artikel II.28, §1, eerste lid, van het bestuursdecreet van 7 december 2018, die bevoegdheid hebben of openbare verantwoordelijkheden of functies uitoefenen inzake het leefmilieu of het waterbeleid;<br>
+5° de instrumenterende ambtenaren;<br>
+6° andere belanghebbenden.<br>
+<br>
+§5. De verwerkte persoonsgegevens hebben betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp; contactgegevens;<br>
+2°&nbsp; identificatiegegevens;<br>
+3°&nbsp; rijksregisternummer;<br>
+4°&nbsp; ondernemingsnummer;<br>
+5°&nbsp; gegevens die verband houden met de grond;<br>
+6°&nbsp; opleidings- en beroepsgegevens en andere gegevens in het kader van de erkenningsbeslissingen;<br>
+7°&nbsp; gegevens die de aanvrager, onderzoeksplichtige of saneringsplichtige ter beschikking stelt om de beleidsinstrumenten van dit decreet en haar uitvoeringsbesluiten toe te passen;<br>
+8° &nbsp;gegevens die blijken uit het beheer van het administratief toezicht en de handhaving;<br>
+9°&nbsp; loggegevens.<br>
+<br>
+Voor de uitvoering van haar opdrachten heeft de OVAM het recht om het rijks- registernummer te gebruiken.<br>
+<br>
+§6. De OVAM en de Vlaamse Regering kunnen de persoonsgegevens, vermeld in paragraaf 5, verstrekken aan:<br>
+1°&nbsp; natuurlijke personen of rechtspersonen aan wie gegevens ter beschikking moeten worden gesteld in het kader van de uitvoering van dit decreet;<br>
+2°&nbsp; Europese, internationale, Belgische en Vlaamse instellingen waaraan de OVAM of de Vlaamse Regering moeten rapporteren;<br>
+3°&nbsp; toezichthouders die belast zijn met het toezicht op de bepalingen van dit decreet;<br>
+4°&nbsp; professionele raadgevers van de betrokkenen, vermeld in paragraaf 6, 1°, of van de OVAM of andere belanghebbenden;<br>
+5°&nbsp; bodemsaneringsdeskundigen of de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II;<br>
+6°&nbsp; derden wanneer de OVAM of de Vlaamse Regering een verplichting heeft om de persoonsgegevens te verstrekken;<br>
+7°&nbsp; de Vlaamse Milieumaatschappij;<br>
+8°&nbsp; het Departement Omgeving van de Vlaamse overheid;<br>
+9°&nbsp; het Departement Mobiliteit en Openbare Werken van de Vlaamse overheid;<br>
+10° de overheidsdiensten aan wie de OVAM of de Vlaamse Regering gegevens verstrekt in het kader van haar bevoegdheden.<br>
+&nbsp;<br>
+§7. De persoonsgegevens worden bewaard tot maximaal 10 jaar na de afhandeling van het dossier of tot maximaal 1 jaar na het verstrijken van de toepasselijke verjaringstermijnen als die termijnen langer zijn.<br>
+<br>
+In afwijking van het eerste lid worden de gegevens van het grondeninformatieregister, vermeld in artikel 5, §1, bewaard zolang de decretale taak duurt.<br>
+&nbsp;
+
+### ART 174ter
+
+§1. De gemeenten treden op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming in het kader van het beheer van de gemeentelijke inventaris, vermeld in artikel 7, en waar de burgemeester optreedt als bevoegde overheid bij schadegevallen, vermeld in artikel 75, tweede lid.<br>
+<br>
+De verwerkingen door de gemeenten zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. De gemeente verwerkt de persoonsgegevens voor de volgende doeleinden:<br>
+1°&nbsp; het beheer van de gemeentelijke inventaris, vermeld in artikel 7;<br>
+2°&nbsp; de beoordeling van de schadegevallen, vermeld in artikel 75, tweede lid.<br>
+<br>
+§3. De verwerkte persoonsgegevens hebben betrekking op de volgende gegevens:<br>
+1°&nbsp; identiteitsgegevens;<br>
+2°&nbsp; adresgegevens;<br>
+3°&nbsp; gegevens over de exploitatie;<br>
+4°&nbsp; gegevens die verband houden met de grond.<br>
+<br>
+§4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
+1°&nbsp; de eigenaar van de grond;<br>
+2°&nbsp; de exploitant op de grond;<br>
+3°&nbsp; de bodemsaneringsdeskundigen en de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II.<br>
+<br>
+§5. De gemeente kan de persoonsgegevens, vermeld in paragraaf 1, verstrekken aan:<br>
+1°&nbsp;&nbsp; &nbsp;de OVAM in het kader van artikel 7, §2;<br>
+2°&nbsp;&nbsp; &nbsp;derden als de gemeente een wettelijke verplichting heeft of een taak van algemeen belang om de persoonsgegevens te verstrekken.<br>
+<br>
+§6. De persoonsgegevens die de gemeente in het kader van het beheer van de gemeentelijke inventaris, vermeld in artikel 7, verwerkt, worden door de gemeente bewaard tot maximaal zolang de grond is opgenomen in de gemeentelijke inventaris, of tot maximaal 1 jaar na het verstrijken van de toepasselijke verjaringstermijnen als die termijnen langer zijn.<br>
+<br>
+De persoonsgegevens die in het kader van het optreden van de burgemeester als bevoegde overheid bij schadegevallen, vermeld in artikel 75, tweede lid, worden verwerkt, worden door de gemeente bewaard tot maximaal 10 jaar na het afhandelen van het dossier, of tot maximaal 1 jaar na het verstrijken van de toe- passelijke verjaringstermijnen als die termijnen langer zijn.<br>
+&nbsp;
+
+### ART 174quater
+
+§1. De bodemsaneringsdeskundige treedt op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+<br>
+De verwerkingen door de bodemsaneringsdeskundige zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. De bodemsaneringsdeskundige verwerkt de persoonsgegevens voor de volgende doeleinden:<br>
+1°&nbsp; de uitvoering van bodemonderzoeken en de opmaak van het verslag ervan;<br>
+2°&nbsp; het opstellen van bodemsaneringsprojecten;<br>
+3°&nbsp; de opvolging van bodemsaneringswerken;<br>
+4°&nbsp; het nemen van maatregelen ten aanzien van de bodem;<br>
+5°&nbsp; het beheer van het gebruik en de traceerbaarheid van bodemmaterialen.<br>
+<br>
+§3. De verwerkte persoonsgegevens hebben betrekking op de volgende gegevens:<br>
+1°&nbsp; identiteitsgegevens;<br>
+2°&nbsp; adresgegevens;<br>
+3°&nbsp; gegevens die verband houden met de grond.<br>
+<br>
+§4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
+1°&nbsp; de eigenaar en gebruiker van de grond;<br>
+2°&nbsp; de exploitant op de grond;<br>
+3°&nbsp; de bodemsaneringsdeskundige.<br>
+<br>
+§5. De bodemsaneringsdeskundige kan de persoonsgegevens, vermeld in paragraaf 1, verstrekken aan:<br>
+1°&nbsp; de OVAM;<br>
+2°&nbsp; derden als de bodemsaneringsdeskundige een wettelijke of decretale verplichting heeft om de persoonsgegevens te verstrekken.<br>
+<br>
+§6. De persoonsgegevens kunnen worden bewaard tot maximaal 10 jaar na de beëindiging van de werkzaamheden van de bodemsaneringsdeskundige, vermeld in paragraaf 2, of tot maximaal 1 jaar na het verstrijken van de toepasselijke ver- jaringstermijnen als die termijnen langer zijn.<br>
+&nbsp;
+
+### ART 174quinquies
+
+§1. De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, treden op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+<br>
+De verwerkingen door de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+&nbsp;<br>
+§2. De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, verwerken de persoonsgegevens voor het beheer van het gebruik en de traceerbaarheid van bodemmaterialen en de doeleinden, vermeld in artikel 138, §1.<br>
+<br>
+§3. De verwerkte persoonsgegevens hebben betrekking op de volgende gegevens:<br>
+1°&nbsp; identiteitsgegevens;<br>
+2°&nbsp; adresgegevens;<br>
+3°&nbsp; gegevens die verband houden met de grond.<br>
+<br>
+§4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
+1° de eigenaar en gebruiker van de grond;<br>
+2°&nbsp; de exploitant op de grond;<br>
+3°&nbsp; de bodemsaneringsdeskundige;<br>
+4°&nbsp; de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II.<br>
+<br>
+§5. De organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, kunnen de persoonsgegevens, vermeld in paragraaf 3, verstrekken aan:<br>
+1°&nbsp; de OVAM;<br>
+2°&nbsp; derden als de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, een wettelijke of decretale verplichting hebben om de persoonsgegevens te verstrekken.<br>
+<br>
+§6. De persoonsgegevens kunnen worden bewaard tot maximaal 10 jaar na de beëindiging van de werkzaamheden van de organisaties, vermeld in titel III, hoofdstuk XIII, afdeling II, of tot maximaal 1 jaar na het verstrijken van de toepasselijke verjaringstermijnen als die termijnen langer zijn.<br>
+&nbsp;
+
+### ART 174sexies
+
+§1. Het Fonds, vermeld in artikel 82bis, 2°, treedt op als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming voor de doeleinden, vermeld in paragraaf 2.<br>
+<br>
+De verwerkingen door het Fonds, vermeld in artikel 82bis, 2°, zijn noodzakelijk voor de vervulling van de taken van algemeen belang overeenkomstig artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. Het Fonds, vermeld in artikel 82bis, 2°, verwerkt de persoonsgegevens voor de opvolging van bodemdossiers, vermeld in titel III, hoofdstuk VI, afdeling VIbis.<br>
+<br>
+§3. De verwerkte persoonsgegevens hebben betrekking op de volgende gegevens:<br>
+1°&nbsp; identiteitsgegevens;<br>
+2°&nbsp; adresgegevens;<br>
+3°&nbsp; gegevens die verband houden met de grond.<br>
+<br>
+§4. De verwerkte persoonsgegevens hebben betrekking op de volgende natuurlijke personen voor zover zij geïdentificeerd of identificeerbaar zijn:<br>
+1°&nbsp; de eigenaar en gebruiker van de grond;<br>
+2°&nbsp; de exploitant op de grond;<br>
+3°&nbsp; de bodemsaneringsdeskundige.<br>
+&nbsp;<br>
+§5. Het Fonds, vermeld in artikel 82bis, 2°, kan de persoonsgegevens, vermeld in paragraaf 3, verstrekken aan:<br>
+1°&nbsp;&nbsp;de OVAM;<br>
+2°&nbsp; derden als het voormelde Fonds een wettelijke of decretale verplichting heeft om de persoonsgegevens te verstrekken.<br>
+<br>
+§6. De persoonsgegevens kunnen worden bewaard tot maximaal 10 jaar na de beëindiging van de in paragraaf 2 vermelde werkzaamheden van het Fonds, vermeld in artikel 82bis, 2°, of tot maximaal 1 jaar na het verstrijken van de toepas- selijke verjaringstermijnen als die termijnen langer zijn.<br>
+&nbsp;
 
 ## TITEL VI Overgangs-, opheffings- en inwerkingtredingsbepalingen
 
