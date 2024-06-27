@@ -137,15 +137,15 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 ### ART 6.
 
-§1. Onverminderd artikel 79, §2, van dit decreet, worden de maximale bewaringstermijnen voor persoonsgegevens die op basis van dit decreet wor-den verwerkt, vastgelegd in beheersregels, conform artikel III.81, §2, van het Bestuursdecreet van 7 december 2018.<br>
+§1. Onverminderd artikel 78, §2, van dit decreet, worden de maximale bewaringstermijnen voor persoonsgegevens die op basis van dit decreet worden verwerkt, vastgelegd in beheersregels, conform artikel III.81, §2, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 Bij het bepalen van deze bewaartermijnen wordt rekening gehouden met:<br>
 1° het gegeven dat de feiten naar aanleiding waarvan de persoonsgegevens zijn verwerkt, nog straffen, bestuurlijke sancties, publieke herstelmaatregelen, beveiligingsmaatregelen of beslissingen van burgerlijke of administratieve aard kunnen gronden;<br>
 2° het gegeven dat beslissingen, gegrond op de feiten naar aanleiding waarvan de persoonsgegevens zijn verwerkt, nog het voorwerp uitmaken of kunnen uitmaken van een administratief of jurisdictioneel beroep;<br>
 3° de relevantie van de persoonsgegevens voor toekomstige handelingen in het kader van toezicht, opsporing, vervolging, sanctionering, beveiliging of herstel;<br>
-4° de relevantie van de persoonsgegevens voor het determineren van de lega-liteit van de toestand, veroorzaakt door de feiten die aanleiding gaven tot de verwerking van deze persoonsgegevens.<br>
+4° de relevantie van de persoonsgegevens voor het determineren van de legaliteit van de toestand, veroorzaakt door de feiten die aanleiding gaven tot de verwerking van deze persoonsgegevens.<br>
 <br>
-De maximale bewaringstermijnen voor persoonsgegevens, bepaald in de beheers- regels, vermeld in het eerste lid, met toepassing van de criteria, vermeld in het tweede lid, worden vervolgens door de Vlaamse Regering vastgesteld.<br>
+De maximale bewaringstermijnen voor persoonsgegevens, bepaald in de beheersregels, vermeld in het eerste lid, met toepassing van de criteria, vermeld in het tweede lid, worden vervolgens door de Vlaamse Regering vastgesteld.<br>
 <br>
 §2. In afwijking van paragraaf 1 geldt voor persoonsgegevens, opgenomen in de arrestendatabank, vermeld in artikel 84, een bewaartermijn van onbepaalde duur.
 
@@ -174,7 +174,7 @@ Bij de opsporing van misdrijven handelt de toezichthouder in de hoedanigheid van
 2° de personeelsleden van de instanties, vermeld in artikel I.3, 1°, f), van het Bestuursdecreet van 7 december 2018, die deze instanties daarvoor aanwijzen;<br>
 3° de gemeentelijke personeelsleden die het college van burgemeester en schepenen daarvoor aanwijst, zelfs al zijn ze personeelslid van een andere gemeente;<br>
 4° de personeelsleden van een intergemeentelijk samenwerkingsverband, die het intergemeentelijk samenwerkingsverband daarvoor aanwijst;<br>
-5° de personeelsleden van het operationeel kader van de politiediensten, vermeld in artikel 2 van de wet op het politieambt, die deze politiediensten daarvoor aanwijzen;<br>
+5° de personeelsleden van de politiediensten, vermeld in artikel 2 van de wet op het politieambt, die deze politiediensten daarvoor aanwijzen;<br>
 6° de personeelsleden van een havenbedrijf, die het havenbedrijf daarvoor aanwijst;<br>
 7° de bijzondere veldwachters, vermeld in artikel 61 van het Veldwetboek, die de Vlaamse Regering daarvoor aanwijst;<br>
 8° de personeelsleden van de provincie, die de deputatie daarvoor aanwijst.<br>
@@ -1108,7 +1108,7 @@ De entiteit, vermeld in het eerste lid, is verwerkingsverantwoordelijke in de zi
 <br>
 De gegevens, vermeld in het eerste lid, kunnen pas worden verwerkt nadat een gegevensbeschermingseffectbeoordeling als vermeld in artikel 35 van de algemene verordening gegevensbescherming, is uitgevoerd.<br>
 <br>
-Het register, vermeld in het eerste lid, is bedoeld om de rechtbanken, het openbaar ministerie, de herstelinstanties, de beboetingsinstanties, de burgemeesters, de toezichthouders, de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992, de instrumenterende ambtenaren en de vastgoedmakelaars, belast met de overdracht van zakelijke rechten, en de openbare overheden die moeten oordelen over toelatingen, erkenningen en toelagen of andere vormen van steun, in te lichten over het bestaan en de stand van uitvoering van gerechtelijke en bestuurlijke publieke herstel- en beveiligingsmaatregelen of daaraan voorafgaande formele beslissingen.<br>
+Het register, vermeld in het eerste lid, is bedoeld om de rechtbanken, het openbaar ministerie, de herstelinstanties en de adviesinstanties die hen bijstaan, de beroepsinstanties voor bestuurlijke herstelbeslissingen of handhavingsverzoeken, de beboetingsinstanties, de burgemeesters, de toezichthouders, de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992, de instrumenterende ambtenaren en de vastgoedmakelaars, belast met de overdracht van zakelijke rechten, en de openbare overheden die moeten oordelen over toelatingen, erkenningen en toelagen of andere vormen van steun, in te lichten over het bestaan en de stand van uitvoering van gerechtelijke en bestuurlijke publieke herstel- en beveiligingsmaatregelen of daaraan voorafgaande formele beslissingen.<br>
 <br>
 De informatie uit het register wordt verstrekt:<br>
 1° om de in het vierde lid genoemde overheden toe te laten hun acties op het vlak van herstel en beveiliging op elkaar af te stemmen en de regels van samenloop, vermeld in artikel 59 van dit decreet, na te leven;<br>
