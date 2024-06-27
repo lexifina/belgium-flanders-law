@@ -294,7 +294,7 @@ De Vlaamse Regering legt een register aan waarin vermeld wordt welke personen vo
 §2. De middelen waarover het BRV-fonds beschikt zijn:<br>
 1° de toelagen ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
 2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het BRV-fonds;<br>
-3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, met inbegrip van alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br>
+3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, met inbegrip van de opbrengsten die conform artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 worden toebedeeld aan de Vlaamse overheid;<br>
 4° de opbrengsten van de heffingen, vermeld in titel 2, hoofdstuk 6, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 5° de ontvangsten voortvloeiend uit financiële lasten als vermeld in artikel 75 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, verbonden aan een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden en opgelegd op grond van een gewestelijke stedenbouwkundige verordening;<br>
 6° alle andere middelen die nuttig zijn in het kader van de doelstelling van het BRV-fonds en die inzonderheid ingevolge wettelijke, decretale of reglementaire bepalingen aan het BRV-fonds toekomen, evenals de terugstortingen en toevallige ontvangsten;<br>
@@ -4430,11 +4430,7 @@ De miskenning van de verplichtingen die in de minnelijke schikking zijn opgenome
 
 ### ART. 6.5.1.
 
-De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB BRV-fonds, vermeld in artikel 1.6.1.<br>
-<br>
-De in het eerste lid vermelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die voortvloeien uit de toepassing van titel VI.<br>
-<br>
-In afwijking van het eerste lid en onverminderd artikel 6.4.16 worden de bestuurlijke dwangsommen opgelegd bij bestuurlijke maatregel van last onder dwangsom, vermeld in artikel 6.4.14, verhoogd met de invorderingskosten, die door de burgemeester of gemeentelijke stedenbouwkundige inspecteur, vermeld in artikel 6.1.1, 1°, worden geïnd en ingevorderd, toegewezen aan de gemeente op wiens grondgebied de bestuurlijke dwangsom is opgelegd.
+Artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is van toepassing op de opbrengsten, verkregen uit de toepassing van titel VI.
 
 ## [HOOFDSTUK VI. Diverse bepalingen (ing. Decr. 25 april 2014, art. 107, I: 1 maart 2018)]
 
