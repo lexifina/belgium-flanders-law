@@ -3576,13 +3576,11 @@ In afwijking van artikel 16.1.3, § 2, kan het beroep, vermeld in het eerste lid
 
 ### ART. 16.5.1.
 
-§ 1. De opgelegde bestuurlijke geldboeten, vermeld artikel 44 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, en titel XVI, hoofdstuk IV, afdeling IV en, in voorkomend geval, de opgelegde voordeelontnemingen en expertisekosten, vermeld in artikel 16.4.25, worden door&nbsp;het Departement Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Minafonds.<br>
+§1. Artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is van toepassing op de opbrengsten, verkregen uit de toepassing van titel XVI.<br>
 <br>
-De kosten die gemaakt zijn voor de uitvoering van de bestuurlijke maatregelen, vermeld in artikel 16.4.7, § 1, voor de ambtshalve uitvoering van de opgelegde bestuurlijke maatregelen en voor de tenuitvoerlegging van veiligheidsmaatregelen worden eveneens geïnd en ingevorderd door het Vlaams Ministerie van Omgeving ten voordele van het Minafonds. In afwijking hiervan worden de kosten die gemaakt zijn voor de uitvoering en de tenuitvoerlegging van die maatregelen door de toezichthouders van de OVAM die toezicht uitoefenen op de toepassing van het decreet van 27 oktober 2006 betreffende de bodemsanering en haar uitvoeringsbesluiten en op de toepassing van artikelen 12 en 13 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen, geïnd en ingevorderd door de OVAM ten voordele van de OVAM.<br>
+De opbrengsten, vermeld in het eerste lid, die conform artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 worden toebedeeld aan de Vlaamse overheid, komen toe aan het Minafonds.&nbsp;<br>
 <br>
-De bestuurlijke dwangsommen worden ook geïnd en ingevorderd door het Vlaams Ministerie van Omgeving ten voordele van het MINA-fonds. In afwijking hiervan worden de bestuurlijke dwangsommen geïnd en ingevorderd door:<br>
-- de gemeente op wiens grondgebied de bestuurlijke dwangsom werd opgelegd ten voordele van diezelfde gemeente, voor zover de bestuurlijke dwangsom wordt opgelegd door een gemeentelijke toezichthouder, een intergemeentelijke toezichthouder, een toezichthouder van een politiezone, de burgemeester of zijn plaatsvervanger;<br>
-- de provincie op wiens grondgebied de bestuurlijke dwangsom werd opgelegd ten voordele van diezelfde provincie, voor zover de bestuurlijke dwangsom wordt opgelegd door een provinciale toezichthouder, de gouverneur of zijn plaatsvervanger.<br>
+In afwijking van het tweede lid komen de bedragen die worden ingevorderd tot terugbetaling van de kosten die gemaakt zijn voor de uitvoering van maatregelen door de toezichthouders en herstelinstanties van de OVAM in het kader van het toezicht op de toepassing van het Bodemdecreet van 27 oktober 2006 en op de toepassing van artikel 12 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, toe aan de OVAM.<br>
 <br>
 § 2. Bij een veroordeling, overeenkomstig artikel 16.6.5, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen in de bossen en aanverwante grondoppervlakten, de onbevaarbare waterlopen en natuurreservaten, wordt dat bedrag gestort op de rekening van het Minafonds.<br>
 <br>
