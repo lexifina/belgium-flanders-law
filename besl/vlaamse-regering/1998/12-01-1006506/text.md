@@ -11,7 +11,7 @@
 4° ontslag;<br>
 5° afzetting.<br>
 <br>
-§ 2. Onverminderd de regels rond het opleggen van tuchtstraffen kan het universiteitsbestuur een lid van het academisch personeel schorsen in het belang van de dienst als een strafrechtelijke vervolging tegen het betreffende lid is ingesteld of als het belang van de universiteit dit vordert.<br>
+§ 2. Onverminderd de regels rond het opleggen van tuchtstraffen kan het universiteitsbestuur een lid van het academisch personeel schorsen in het belang van de dienst als een strafrechtelijke vervolging tegen het betreffende lid is ingesteld, als de universiteit na een melding van grensoverschrijdend gedrag formeel een onderzoek heeft opgestart of als het belang van de universiteit dit vordert.<br>
 <br>
 § 3. Het universiteitsbestuur bepaalt de gronden die kunnen leiden tot een tuchtstraf. Het universiteitsbestuur stelt de tuchtrechtelijke procedure vast. Deze procedure moet ten minste voorzien in een voorafgaandelijke schriftelijke mededeling van de bezwarende gronden, in een voorafgaandelijke hoorplicht en in een mogelijkheid tot beroep. De tuchtregeling mag geen afbreuk doen aan de academische vrijheid.<br>
 <br>
