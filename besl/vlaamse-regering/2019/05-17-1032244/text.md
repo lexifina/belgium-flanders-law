@@ -58,7 +58,7 @@ Dit besluit wordt aangehaald als: het Fokkerijbesluit van 17 mei 2019.
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° andere diersoort: hertachtige, pluimvee, loopvogel, konijn en hond;<br>
+1° andere diersoort: hertachtige, pluimvee, loopvogel en konijn;<br>
 2° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° fokker: de natuurlijke persoon of de rechtspersoon die deelneemt aan een door de bevoegde entiteit goedgekeurd fokprogramma;<br>
 4° minister: de Vlaamse minster, bevoegd voor de landbouw;<br>
@@ -454,13 +454,11 @@ De minister kan voor de rassen waarvoor de genetische diversiteit in het gedrang
 
 De minister kan een lijst opstellen van de rassen waarvoor de genetische diversiteit in het gedrang is.
 
-## HOOFDSTUK 7. Toelating van de voortplanting voor honden
+## HOOFDSTUK 7. ...
 
 ### ART 36.
 
-Alleen de reuen toegelaten tot de voortplanting door een vereniging erkend in uitvoering van artikel 11 of artikel 25 mogen teven dekken die toebehoren aan derden. De minister kan afwijkingen hiervan toestaan. Dit lid is enkel van toepassing op reuen geboren na 31 december 2012.<br>
-<br>
-Voor alle honden geboren na 31 december 2014, moet de eigenaar van de hond te allen tijde de identiteit van de hond en van de ouders van de hond kunnen aantonen.
+...
 
 ## HOOFDSTUK 8. De winning en opslag van sperma, eicellen en embryo's
 
