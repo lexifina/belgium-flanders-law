@@ -2,16 +2,16 @@
   "codex_id": 1025296,
   "title": "Ministerieel besluit van 2015-03-03 tot uitvoering van het Fokkerijbesluit van 19 maart 2010 met betrekking tot de fokkerij van honden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025296/VolledigDocument?datum=2015-04-30",
-  "source_sha256": "ba84c7c144b5d6fe0606902ca9bb6577d273bcea1f562c49309fffff995c7282",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025296/VolledigDocument?datum=2024-06-29",
+  "source_sha256": "da18a933ca58c4004a96bd5501fdb3dc34ef025baf6a397e62c777b2d36656b4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025296&param=informatie",
-  "as_of": "2015-04-30",
+  "as_of": "2024-06-29",
   "made": "2015-03-03",
   "gazette": "2015-04-20",
   "numac": 2015035469,
   "document_start": "2015-04-30",
   "document_end": "2024-06-28",
-  "in_force": "2015-04-30",
+  "in_force": "2024-06-29",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2015-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-06-29; future article versions excluded; article text as the API gives it"
 }
