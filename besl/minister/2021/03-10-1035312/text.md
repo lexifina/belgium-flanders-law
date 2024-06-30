@@ -267,8 +267,12 @@ Het Agentschap Innoveren en Ondernemen neemt een beslissing over de subsidieaanv
 ### ART 28.
 
 De twee betalingsschijven, vermeld in artikel 41 van het besluit van 26 februari 2016, worden uiterlijk vierentwintig maanden na de datum van de beslissing tot toekenning van de kmo-groeisubsidie opgevraagd.<br>
-<br>
-Als de uitbetaling van de subsidie niet wordt opgevraagd heeft de kleine of middelgrote onderneming geen recht meer op de uitbetaling van de niet tijdig opgevraagde schijf of schijven.
+&nbsp;<br>
+Als de uitbetaling van de subsidie niet wordt opgevraagd binnen de termijn, vermeld in het eerste lid, stelt het Agentschap Innoveren en Ondernemen de onderneming in gebreke. Vanaf de datum van verzending van deze ingebrekestelling heeft de onderneming twee maanden tijd om de uitbetaling op te vragen.<br>
+&nbsp;<br>
+Het Agentschap Innoveren en Ondernemen kan de termijn van twee maanden, vermeld in het tweede lid, op gemotiveerd verzoek van de kleine of middelgrote onderneming ingediend binnen de vermelde termijn, verlengen.&nbsp;<br>
+&nbsp;<br>
+Als de uitbetaling van de subsidie niet tijdig wordt opgevraagd heeft de kleine of middelgrote onderneming geen recht meer op de uitbetaling van de niet tijdig opgevraagde schijf of schijven.
 
 ### ART 29.
 
