@@ -760,6 +760,14 @@ Het verbod geldt evenmin voor de basisgegevens met betrekking tot:<br>
 <br>
 De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na een schriftelijke vraag van magistraten, belast met jeugdzaken, of van de sociale diensten met het oog op het bieden van de gepaste jeugdhulpverlening aan de minderjarige, aan zijn ouders of opvoedingsverantwoordelijken.
 
+### ART 75/2.
+
+Met het oog op het bieden van gepaste jeugdhulpverlening aan de minderjarige, aan zijn ouders of opvoedingsverantwoordelijken, kan een dienstverlener die drager is van een geheimhoudingsplicht of beroepsgeheim en die professioneel betrokken is bij de zorg of het welzijn van een ouder of opvoedingsverantwoordelijke op vraag van de sociale diensten de volgende basisgegevens delen aan de sociale diensten:<br>
+1° &nbsp; de identificatie van de betrokken partijen;<br>
+2° het feit of, en welke dienstverlening ten aanzien van de ouder of opvoedingsverantwoordelijke is aangevat, wordt voortgezet of is beëindigd.<br>
+<br>
+Met de geïnformeerde en schriftelijke instemming van de ouder of opvoedingsverantwoordelijke kan de dienstverlener, vermeld in het eerste lid, ook andere gegevens dan vermeld in het eerste lid delen aan de sociale diensten, die noodzakelijk zijn om gepaste jeugdhulpverlening aan de minderjarige, aan zijn ouders of opvoedingsverantwoordelijken te bieden.
+
 ### ART. 76.
 
 <p>Het ondersteuningscentrum en de vertrouwenscentra kindermishandeling kunnen, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, in de gevallen, vermeld in artikel 34, 41 en 42, § 1, tweede lid, 1° en 3°, zonder voorafgaande instemming van de betrokkene persoonsgegevens verwerken, inclusief de bijzondere categorieën van persoonsgegevens als vermeld in artikel 9, lid 1, van de algemene verordening gegevensbescherming.</p>
