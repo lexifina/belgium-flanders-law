@@ -104,7 +104,7 @@ Nadat de VDAB de behoefte aan werkondersteunende maatregelen bij de persoon met 
 
 ### ART 6.
 
-Het departement beoordeelt de ontvankelijkheid van de aanvraag, vermeld in artikel 5. De aanvraag is ontvankelijk als ze de volgende gegevens vermeldt:<br>
+Het departement beoordeelt de ontvankelijkheid van de aanvraag, vermeld in artikel 5. De aanvraag is ontvankelijk als die wordt ingediend tijdens de tewerkstelling van de werknemer bij de werkgever en als ze de volgende gegevens vermeldt:<br>
 1° de identiteitsgegevens van de werkgever;<br>
 2° de identiteitsgegevens van de werknemer;<br>
 3° de datum van de indiensttreding of van de eerdere indiensttredingen van de werknemer bij de werkgever;<br>
@@ -255,7 +255,7 @@ Als de behoefte aan werkondersteunende maatregelen voor een periode van maximaal
 
 ### ART 21.
 
-§ 1. Het referteloon, vermeld in artikel 17 van het decreet van 14 januari 2022, wordt op basis van de gegevens, vermeld in de aangifte bij de Rijksdienst voor de Sociale Zekerheid, samengesteld uit de volgende bestanddelen die daadwerkelijk door de werkgever worden uitbetaald voor de bezoldiging van de werknemer voor geleverde arbeidsprestaties:<br>
+§1. Het referteloon, vermeld in artikel 17 van het decreet van 14 januari 2022, wordt op basis van de gegevens, vermeld in de aangifte bij de Rijksdienst voor de Sociale Zekerheid, samengesteld uit de volgende bestanddelen die daadwerkelijk door de werkgever worden uitbetaald voor de bezoldiging van de werknemer voor geleverde arbeidsprestaties:<br>
 1° het loon, vermeld in artikel 14 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, of het flexiloon, vermeld in artikel 3, 2°, van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken en het flexivakantiegeld, vermeld in artikel 3, 6°, van de voormelde wet van 16 november 2015;<br>
 2° alle verplichte werkgeversbijdragen die verschuldigd zijn conform artikel 38, § 3, § 3bis en § 3undecies, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers en conform artikel 116, 1°, van de programmawet (I) van 27 december 2006;<br>
 3° in voorkomend geval, de solidariteitsbijdrage, vermeld in artikel 1 van het koninklijk besluit van 23 december 1996 houdende maatregelen met het oog op de invoering van een solidariteitsbijdrage op de tewerkstelling van studenten die niet onderworpen zijn aan het stelsel van sociale zekerheid van de werknemers, met toepassing van artikel 3, § 1, 4° van de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese Economische en Monetaire Unie;<br>
@@ -263,7 +263,7 @@ Als de behoefte aan werkondersteunende maatregelen voor een periode van maximaal
 <br>
 De minister bepaalt de methodiek die het departement hanteert om het referteloon te berekenen en de gegevens van authentieke gegevensbronnen te bepalen die in rekening worden gebracht.<br>
 <br>
-§ 2. De werkgever, vermeld in artikel 15, vierde lid, 2°, van het decreet van 14 januari 2022, bezorgt de loonfiches van de werknemer met een arbeidsbeperking van het afgelopen kwartaal uiterlijk een maand nadat het kwartaal is verlopen aan het departement. Het departement berekent de loonpremie aan de hand van het geplafonneerde brutoloon van de werknemer met een arbeidsbeperking.
+§2. De werkgever die voldoet aan de voorwaarde, vermeld in artikel 15, vierde lid, 2°, van het decreet van 14 januari 2022, en de werkgever die een verenigingswerker als vermeld in artikel 2, 2°, van de wet van 24 december 2020 betreffende het verenigingswerk, tewerkstelt, bezorgen de loonfiches van de werknemer met een arbeidsbeperking van het afgelopen kwartaal aan het departement uiterlijk dertig dagen nadat het kwartaal is verlopen. Het departement berekent de loonpremie aan de hand van het geplafonneerde brutoloon van de werknemer met een arbeidsbeperking.
 
 ## Afdeling 4. Begeleiding op de werkvloer
 
@@ -644,8 +644,8 @@ Ter uitvoering van artikel 27, vierde lid, van het decreet van 14 januari 2022 k
 
 Ter uitvoering van artikel 28, tweede lid, 1°, van het decreet van 14 januari 2022 heeft de zelfstandige voldoende bedrijfsactiviteiten als zijn beroepsinkomsten minimaal het bedrag, vermeld in artikel 12, § 1, tweede lid, van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, bedragen.<br>
 <br>
-Op basis van de volgende elementen toont de zelfstandige aan dat hij voldoende bedrijfsactiviteiten heeft:<br>
-1° het betalen van overeenstemmende voorlopige sociale bijdragen als zelfstandige voor het aanslagjaar dat voorafgaat aan de aanvraag van de ondersteuningspremie, of voor het jaar van de toekenning van de ondersteuningspremie;<br>
+Op basis van een van de volgende elementen toont de zelfstandige aan dat hij voldoende bedrijfsactiviteiten heeft:<br>
+1° een attest van het sociaal verzekeringsfonds als bewijs dat de overeenstemmende voorlopige sociale bijdragen als zelfstandige van de vier kwartalen die voorafgaan aan de aanvraag of de toekenning van de ondersteuningspremie, zijn betaald;<br>
 2° een fiscaal aanslagbiljet voor het aanslagjaar dat voorafgaat aan de aanvraag van de ondersteuningspremie, of voor het jaar van de toekenning van de ondersteuningspremie.<br>
 <br>
 Bij afwezigheid van de elementen, vermeld in het tweede lid, 1° en 2°, bezorgt de zelfstandige het attest van het Agentschap Innoveren en Ondernemen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, dat aantoont dat de zelfstandige voldoende bedrijfsactiviteiten op jaarbasis kan realiseren.<br>
