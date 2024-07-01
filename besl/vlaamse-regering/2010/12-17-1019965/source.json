@@ -2,16 +2,16 @@
   "codex_id": 1019965,
   "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019965/VolledigDocument?datum=2023-10-13",
-  "source_sha256": "1440b8babe916dd6304a4f9a6ccda1dd576b3401b3109d0d152a6db3ad704efd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019965/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "4264727055e557f55c72d2e88ab8df0b329c12fb520d4b9d8cd7a984820635c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019965&param=informatie",
-  "as_of": "2023-10-13",
+  "as_of": "2024-07-01",
   "made": "2010-12-17",
   "gazette": "2011-01-28",
   "numac": 2011035041,
   "document_start": "2011-02-01",
   "document_end": "2024-06-30",
-  "in_force": "2023-10-13",
+  "in_force": "2024-07-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
