@@ -29,11 +29,23 @@ Het aanwendingsplan of aanzuiveringsplan bij overschrijding van de   maximale re
 
 ### ART. 4.
 
-Het voorbehoud van het aantal subsidieerbare kinderopvangplaatsen binnen   een subsidiegroep, als het aantal vergunde kinderopvangplaatsen lager wordt dan   het aantal subsidieerbare kinderopvangplaatsen, wordt als volgt ingevuld:<BR>1°   het voorbehoud geldt per subsidie voor een van de volgende subsidies:<BR>a) de   basissubsidie;<BR>b) de subsidie voor inkomenstarief;<BR>c) de   plussubsidie;<BR>d) de subsidie voor structurele inclusieve kinderopvang;<BR>e)   de subsidie voor flexibele kinderopvang;<BR>2° het voorbehoud geldt gedurende de   vier kwartalen die volgen op het kwartaal waarin het aantal vergunde   kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve   subsidie, lager wordt dan het aantal subsidieerbare kinderopvangplaatsen van die   subsidie;<BR>3° het voorbehoud geldt:<BR>a) automatisch voor de organisator die   minstens nog één kinderopvanglocatie heeft na de verlaging van het aantal   vergunde kinderopvangplaatsen, tot de organisator uitdrukkelijk en elektronisch   meedeelt dat hij niet wil gebruikmaken van het voorbehoud;<BR>b) op   uitdrukkelijke en elektronische verzoek voor de organisator die geen   kinderopvanglocatie meer heeft na de verlaging van het aantal vergunde   kinderopvangplaatsen.<BR>
+Het voorbehoud van het aantal subsidieerbare kinderopvangplaatsen binnen een subsidiegroep, als het aantal vergunde kinderopvangplaatsen lager wordt dan het aantal subsidieerbare kinderopvangplaatsen, wordt als volgt ingevuld:<br>
+1° het voorbehoud geldt per subsidie voor een van de volgende subsidies:<br>
+a) de basissubsidie;<br>
+b) de subsidie voor inkomenstarief;<br>
+c) de plussubsidie;<br>
+d) de subsidie voor structurele inclusieve kinderopvang;<br>
+e) de subsidie voor flexibele kinderopvang;<br>
+2° het voorbehoud geldt gedurende de vier kwartalen die volgen op het kwartaal waarin het aantal vergunde kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve subsidie, lager wordt dan het aantal subsidieerbare kinderopvangplaatsen van die subsidie;<br>
+3° de organisator vraagt het voorbehoud aan, volgens de richtlijnen van het agentschap, uiterlijk op het moment dat het aantal vergunde kinderopvangplaatsen lager wordt dan het aantal subsidieerbare plaatsen in de subsidiegroep. Hierbij geldt dat:<br>
+a) de organisator groepsopvang in het verzoek motiveert en staaft op welke manier hij in de loop van de vier volgende kwartalen opnieuw het aantal vergunde kinderopvangplaatsen, waarvoor er voorbehoud op subsidie gevraagd wordt, zal realiseren. Het agentschap beslist over het verzoek uiterlijk 30 dagen na ontvangst ervan en kent het voorbehoud toe als de organisator dit voldoende motiveert of staaft;<br>
+b) de organisator gezinsopvang in het verzoek aanduidt of hij de intentie heeft in de loop van de vier volgende kwartalen opnieuw het aantal vergunde kinderopvangplaatsen, waarvoor er voorbehoud op subsidie gevraagd wordt, te realiseren en hiertoe de nodige inspanningen zal leveren. Het agentschap beslist over het verzoek uiterlijk 30 dagen na ontvangst ervan en kent het voorbehoud toe als de organisator de intentie en de inspanningen bevestigt..
 
 ### ART. 5.
 
-<P>Het aantal subsidieerbare kinderopvangplaatsen wordt definitief verlaagd   binnen de subsidiegroep:<BR>1° als gebruikgemaakt wordt van het voorbehoud:   vanaf de eerste dag van het kwartaal dat volgt op de periode van het voorbehoud,   vermeld in artikel 4, 2°. Het aangepaste aantal subsidieerbare   kinderopvangplaatsen wordt berekend door het verschil te nemen tussen enerzijds   het laagste aantal subsidieerbare kinderopvangplaatsen van een bepaalde subsidie   tijdens de periode, vermeld in artikel 4, 2°, en anderzijds het maximum van het   totaal van het aantal vergunde kinderopvangplaatsen die werken volgens de   voorwaarden van de respectieve subsidie tijdens de periode, vermeld in artikel   4, 2°. Het aantal subsidieerbare kinderopvangplaatsen wordt verlaagd met dat   verschil;<BR>2° als er niet gebruikgemaakt wordt van het voorbehoud: vanaf de   eerste dag van het kwartaal dat volgt op het kwartaal waarin het aantal vergunde   kinderopvangplaatsen lager wordt dan het aantal subsidieerbare   kinderopvangplaatsen of onmiddellijk als de organisator meedeelt dat hij niet   meer wil gebruikmaken van het voorbehoud. Het aangepaste aantal subsidieerbare   kinderopvangplaatsen is gelijk aan het aantal vergunde kinderopvangplaatsen die   werken volgens de voorwaarden van de respectieve subsidie.<BR></P>  <P>Voor de subsidie voor inkomenstarief gebeurt de verlaging van het aantal   subsidieerbare kinderopvangplaatsen altijd eerst op de subsidieerbare   kinderopvangplaatsen die gesubsidieerd worden tegen het laagste tarief, vermeld   in artikel 58, § 2, en artikel 59 van het Subsidiebesluit van 22 november   2013.<BR></P>
+<p>Het aantal subsidieerbare kinderopvangplaatsen wordt definitief verlaagd binnen de subsidiegroep:<br>
+1° als een voorbehoud werd toegekend: vanaf de eerste dag van het kwartaal dat volgt op de periode van het voorbehoud, vermeld in artikel 4, 2°. Het aangepaste aantal subsidieerbare kinderopvangplaatsen wordt berekend door het verschil te nemen tussen enerzijds het laagste aantal subsidieerbare kinderopvangplaatsen van een bepaalde subsidie tijdens de periode, vermeld in artikel 4, 2°, en anderzijds het maximum van het totaal van het aantal vergunde kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve subsidie tijdens de periode, vermeld in artikel 4, 2°. Het aantal subsidieerbare kinderopvangplaatsen wordt verlaagd met dat verschil;<br>
+2° als er geen voorbehoud werd toegekend: vanaf de datum waarop het aantal vergunde kinderopvangplaatsen lager werd dan het aantal subsidieerbare kinderopvangplaatsen in de subsidiegroep. Het aangepaste aantal subsidieerbare kinderopvangplaatsen is gelijk aan het aantal vergunde kinderopvangplaatsen die werken volgens de voorwaarden van de respectieve subsidie.</p>
 
 ## HOOFDSTUK 4 Index
 
@@ -69,7 +81,7 @@ d) de gefactureerde inkomenstarieven van de gezinnen uit de kinderopvanglocaties
 <br>
 Overeenkomstig artikel 9, eerste lid, van het Subsidiebesluit van 22 november 2013 gebeurt de saldoafrekening uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie, op voorwaarde dat de organisator de gegevens tijdig bezorgd heeft.<br>
 <br>
-In afwijking van het eerste en tweede lid bezorgt de organisator die geen kinderopvang meer aanbiedt en niet gebruikmaakt van het voorbehoud, vermeld in artikel 4, de gegevens onmiddellijk na de stopzetting aan Kind en Gezin. Kind en Gezin maakt op basis daarvan zo vlug mogelijk een saldoafrekening.<br>
+In afwijking van het eerste en tweede lid bezorgt de organisator die geen kinderopvang meer aanbiedt en geen voorbehoud heeft, vermeld in artikel 4, de gegevens onmiddellijk na de stopzetting aan Kind en Gezin. Kind en Gezin maakt op basis daarvan zo vlug mogelijk een saldoafrekening.<br>
 <br>
 Als de organisator nalaat alle gegevens te bezorgen, kan Kind en Gezin beslissen om de saldoafrekening te maken op basis van de beschikbare gegevens die Kind en Gezin wel ter beschikking heeft.<br>
 <br>
@@ -311,27 +323,23 @@ De omzetting bij diensten voor onthaalouders die voordien werkten met samenwerke
 
 De verhouding in aantal kinderopvangplaatsen waarvoor het deel van de   subsidie, op basis van de leeftijd van de kinderbegeleiders, de   verantwoordelijken en de medewerkers die in de kinderopvanglocatie instaan voor   de systematische ondersteuning van de verantwoordelijke en die voldoen aan de   voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de   verantwoordelijke moet voldoen, niet toegekend wordt, bedraagt:<BR>1° voor   crèches van een openbaar bestuur: 32,02 % ;<BR>2° voor peutertuinen van een   openbaar bestuur: 82,80 % ;<BR>3° voor peutertuinen van een vzw: 51,70 %   .<BR>
 
-## Afdeling 3 Eenmalige compensatie
+## Afdeling 3. Overgangsregeling aanvraag voorbehoud
 
 ### ART. 38.
 
-De organisator die in 2013 subsidies kreeg waarvan de som hoger is dan de   som van de subsidies met toepassing van het Subsidiebesluit van 22 november 2013   voor hetzelfde aantal gesubsidieerde kinderopvangplaatsen, kan een compensatie   van dat subsidieverlies krijgen. De organisator vraagt die compensatie jaarlijks   aan volgens de richtlijnen van Kind en Gezin.<BR>
+De aanvraag van het voorbehoud, vermeld in artikel 6 van het Subsidiebesluit van 22 november 2013, gebeurt door de organisator groepsopvang die werkt met kinderbegeleiders in het sociaal statuut van aangesloten onthaalouder niet overeenkomstig artikel 4, 3°, a), zolang de overgangsperiode, vermeld in artikel 57 en 59 van het Subsidiebesluit van 22 november 2013 geldt. Gedurende deze overgangsperiode gebeurt de aanvraag zoals vermeld in artikel 4, 3°, b).
 
 ### ART. 39.
 
-De som van de subsidies, vermeld in artikel 38, wordt als volgt   berekend:<BR>1° de som van de subsidies van 2013 wordt berekend door een   gemiddeld subsidiebedrag per gesubsidieerde kinderopvangplaats per organisator   te berekenen en te vermenigvuldigen met het aantal gesubsidieerde   kinderopvangplaatsen op 31 december 2013;<BR>2° de som van de subsidies met   toepassing van het Subsidiebesluit van 22 november 2013 wordt jaarlijks   herberekend door telkens een gemiddeld subsidiebedrag per gesubsidieerde plaats   per organisator te berekenen en te vermenigvuldigen met het aantal   gesubsidieerde plaatsen op 31 december 2013;<BR>3° bij de vergelijking van de   gemiddelde subsidiebedragen per plaats per jaar worden die uitgedrukt tegen   hetzelfde indexcijfer;<BR>4° voor de berekeningen van de gemiddelde subsidies   per plaats per jaar wordt rekening gehouden met capaciteitswijzigingen in de   loop van het jaar;<BR>5° er wordt een aparte som berekend voor groepsopvang   enerzijds en voor gezinsopvang en voor groepsopvang door samenwerkende   onthaalouders samen anderzijds. Vervolgens worden die twee sommen   opgeteld;<BR>6° voor het compensatiejaar 2014 wordt de som van de subsidies   gemaakt op basis van de subsidies vanaf 1 april 2014. De verkregen som wordt   vervolgens verhoudingsgewijs herrekend naar een volledig kalenderjaar;<BR>7°   voor de berekening van het gemiddelde bedrag per plaats voor de subsidies met   toepassing van het Subsidiebesluit van 22 november 2013 wordt geen rekening   gehouden met de bijkomende gesubsidieerde plaatsen die toegekend worden vanaf 1   januari 2014.<BR>
+...
 
 ### ART. 40.
 
-De hoogte van de compensatie, vermeld in artikel 38, is gebaseerd op het verschil tussen de som van de subsidies in 2013 en de som van de subsidies met toepassing van het Subsidiebesluit van 22 november 2013, en bedraagt:<br>
-1° voor 2014: 75 % van dat verschil;<br>
-2° voor 2015: 100 % van dat verschil;<br>
-3° voor 2016: 50 % van dat verschil;<br>
-4° voor 2017: 30 % van dat verschil.
+...
 
 ### ART. 41.
 
-In afwijking van artikel 38 tot en met 40 is er geen of geen volledige   compensatie als:<BR>1° de organisator niet voldoet aan de voorwaarde voor het   behalen van een minimale bezetting, vermeld in artikel 21 en 63 van het   Subsidiebesluit van 22 november 2013. Er wordt geen compensatie betaald voor de   kinderopvangplaatsen waarvoor niet voldaan is aan die voorwaarde;<BR>2° er voor   het vorige subsidiejaar geen compensatie is uitbetaald, uitgezonderd voor het   subsidiejaar 2014;<BR>3° er gesubsidieerde kinderopvangplaatsen bij zijn gekomen   vanaf 1 januari 2014. Er wordt geen compensatie betaald voor die bijkomende   kinderopvangplaatsen;<BR>4° het aantal gesubsidieerde kinderopvangplaatsen is   verminderd. Er wordt geen compensatie betaald voor dat verminderde aantal   kinderopvangplaatsen.<BR>
+...
 
 ## HOOFDSTUK 3 Inwerkingstredingsbepaling
 
