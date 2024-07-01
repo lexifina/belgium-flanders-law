@@ -44,20 +44,22 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART 2.
 
-Het attest van het volgen van de module "kennismaken met de gezinsopvang", vermeld in artikel 11 van het Vergunningsbesluit van 22 november 2013, toont aan dat de houder ervan de volgende leerinhouden gevolgd heeft :<br>
-1° de specifieke aspecten van de gezinsopvang : de impact op de gezinssituatie, het financiële aspect, de organisatie en de taken van een kinderbegeleider, en de competenties;<br>
-2° de belastende en faciliterende factoren voor de job van kinderbegeleider gezinsopvang.<br>
-Een instantie die een attest uitreikt, voldoet aan de volgende criteria :<br>
-1° duurzaam zijn;<br>
-2° opleiders met voldoende kennis en ervaring hebben;<br>
-3° toegankelijk zijn zodat een opleiding gecombineerd kan worden met werk;<br>
-4° geografisch voldoende verspreid zijn;<br>
-5° betaalbaar zijn;<br>
-6° een beleid rond de erkenning van verworven competenties realiseren;<br>
-7° een interne controle-instantie hebben;<br>
-8° een externe controle-instantie hebben.<br>
+§1. Het starterstraject, vermeld in artikel 8 van het Vergunningsbesluit van 22 november 2013, gewijzigd bij de besluiten van de Vlaamse Regering van 4 april 2014 en 9 oktober 2015 en vervangen bij het besluit van de Vlaamse Regering van 17 maart 2023, bestaat uit volgende achtereenvolgende onderdelen:<br>
+1° het indienen van een intentieformulier bij het agentschap volgens de administratieve richtlijnen van het agentschap, waarbij gevraagd wordt om aan te tonen in welke mate de competenties, vermeld in artikel 13/0, tweede lid, van het Vergunningsbesluit van 22 november 2013, aanwezig zijn;&nbsp;<br>
+2° het hebben van een kennismakingsgesprek met het agentschap, voortgaande op het onderdeel, vermeld in 1°;&nbsp;<br>
+3° het volgen van een interactief begeleidingstraject, georganiseerd door het ondersteuningsnetwerk kinderopvang, waarbij de competenties aan bod komen die nodig zijn om aan art 13/0, tweede lid, van het Vergunningsbesluit van 22 november 2013 te kunnen voldoen. De organisator maakt een concreet ondernemingsplan op dat de basis vormt van dit traject. Voor kinderbegeleiders die tevens organisator gezinsopvang zijn, maakt de inhoud van het traject gezinsopvang, vermeld in artikel 3, deel uit van dit traject. Na afloop van dit traject bezorgt het ondersteuningsnetwerk kinderopvang een attest aan de organisator, volgens de administratieve richtlijnen van het agentschap, waaruit blijkt dat het starterstraject is afgerond. Dit attest bevat een gemotiveerd hetzij gunstig, hetzij ongunstig advies, waarbij er ook sprake kan zijn van een gunstig advies met aandachtspunten.<br>
 <br>
-De instanties die een attest als vermeld in het eerste lid, kunnen uitreiken, zijn de instanties opgenomen in punt 1 van bijlage 2, die bij dit besluit is gevoegd.<br>
+In het eerste lid wordt verstaan onder ondersteuningsnetwerk kinderopvang: het ondersteuningsnetwerk kinderopvang, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang.&nbsp;<br>
+<br>
+§2. Voor een organisator die nog geen vergunning heeft, vangt het starterstraject, vermeld in paragraaf 1, aan met volgend extra onderdeel: het volgen van een informatieve sessie, georganiseerd door het agentschap, waarbij kennis van de vergunningsvoorwaarden aan bod komt, met focus op het beleidsvoerend vermogen van de organisator, vermeld in artikel 13/0 van het Vergunningsbesluit van 22 november 2013.&nbsp;<br>
+<br>
+§3. Voor een organisator die vanuit ervaring in het organiseren van kinderopvang of van een gelijkaardige activiteit kan aantonen dat hij over voldoende beleidsvoerend vermogen beschikt, kan het agentschap vanuit het onderdeel, vermeld in paragraaf 1, 1°, beslissen dat de onderdelen, vermeld in paragraaf 1, 2° of 3°, niet doorlopen moeten worden. In dat geval wordt het starterstraject geacht te zijn afgerond.<br>
+<br>
+§4. In afwijking van paragraaf 1, zijn volgende organisatoren vrijgesteld voor alle onderdelen en wordt het starterstraject geacht afgerond te zijn:<br>
+1°&nbsp;&nbsp; &nbsp;organisatoren die in aanmerking komen voor een vereenvoudigde vergunningsprocedure, vermeld in artikel 10 van het Procedurebesluit van 9 mei 2014;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;organisatoren die minstens 24 maanden organisator zijn en beschikken over een attest dat het starterstraject is afgerond, in geval er advies van het ondersteuningsnetwerk is met een gunstig advies, dat maximum 24 maanden geleden werd uitgereikt.&nbsp;<br>
+<br>
+§5. Voor het onderdeel, vermeld in paragraaf 1, 3°, betaalt de organisator een administratieve kost aan het ondersteuningsnetwerk kinderopvang.<br>
 &nbsp;
 
 ## [Onderafdeling 2 Traject gezinsopvang (verv. MB 16 november 2023, art. 3, I: 1 april 2023)]
@@ -110,19 +112,7 @@ De instanties die een attest als vermeld in het tweede lid, kunnen uitreiken, ku
 
 ### ART 5.
 
-Het attest van de kennis om een kinderopvanglocatie organisatorisch te beheren, vermeld in artikel 8, 1°, van het Vergunningsbesluit van 22 november 2013, toont aan dat de houder ervan de volgende leerinhouden, die specifiek gericht zijn op de kinderopvang, gevolgd heeft voor het volgende aantal uren, hetzij lesuren, hetzij uren die de cursist geacht wordt aan de studie te spenderen :<br>
-1° de principes en de opmaak van een ondernemingsplan met de essentiële onderdelen ervan, zoals aangegeven in het Startkompas van het Agentschap Ondernemen, voor minstens zestien uur;<br>
-2° de basisprincipes voor het voeren van een boekhouding, van fiscaliteit en van steun- en financieringsmaatregelen, de principes van kasplanning en de toepassing ervan in het kasboek, voor minstens twaalf uur;<br>
-3° de basiskennis van de verschillende ondernemingsvormen, voor minstens vier uur;<br>
-4° de basiskennis van de verschillende sociaalrechtelijke statuten en van het arbeidsrecht, voor minstens vier uur;<br>
-5° de kennis van de verschillende prijssettings, voor minstens vier uur.<br>
-<br>
-Een instantie die een attest uitreikt, voldoet aan de criteria, vermeld in artikel 2, tweede lid.<br>
-<br>
-De instanties die een attest als vermeld in het eerste lid, kunnen uitreiken, zijn de instanties opgenomen in punt 3 van bijlage 2, die bij dit besluit is gevoegd.<br>
-<br>
-Het kwalificatiebewijs, vermeld in artikel 8, 2°, van het Vergunningsbesluit van 22 november 2013, is een van de attesten, vermeld in de lijst van bekwaamheidsattesten en opleidingstitels, opgenomen in punt 5 van bijlage 3, die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ## Onderafdeling 5 Attest kennis Nederlands
 
