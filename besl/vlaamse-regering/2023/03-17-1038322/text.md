@@ -37,6 +37,16 @@ In artikel 1 van het Vergunningsbesluit van 22 november 2013 worden de volgende 
 
 In artikel 5 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 11 december 2015, wordt het woord “geschiktheid” vervangen door de woorden “het beleidsvoerend vermogen”.
 
+### ART 3.
+
+Artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 april 2014 en 9 oktober 2015, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 8. De organisator heeft een starterstraject met succes afgerond.<br>
+<br>
+Een starterstraject als vermeld in het eerste lid, focust op het beleidsvoerend vermogen van de organisator.<br>
+<br>
+De minister bepaalt de nadere regels, minstens voor de inhoud van de kennis die aan bod komt in het starterstraject, vermeld in het eerste lid, en de validering ervan.”.
+
 ### ART 4.
 
 Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt:<br>
