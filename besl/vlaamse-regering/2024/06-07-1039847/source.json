@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039847,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-07 tot uitvoering van het decreet van 22 december 2023 tot oprichting van een Eigen Vermogen Xperta",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039847/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "e3ae7bb0c6866a0b2549be72d97c3c8f04474e88a8f80153c52d82946ca63c2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039847&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2024-06-07",
+  "gazette": "2024-06-27",
+  "numac": 2024006277,
+  "document_start": "2024-07-01",
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
