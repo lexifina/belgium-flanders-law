@@ -56,12 +56,12 @@ Bij tegenstrijdigheden is de opgegeven volgorde bepalend;<br>
 27° erkend opleidingscentrum vloeibare brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof;<br>
 28° erkende technicus gasvormige brandstof : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor verbrandingscontrole en onderhoud van centrale stooktoestellen, gevoed met gasvormige brandstof;<br>
 29° erkend opleidingscentrum gasvormige brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof;<br>
-30° erkende technicus verwarmingsaudit : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitvoeren van een verwarmingsaudit;<br>
-31° erkend opleidingscentrum verwarmingsaudit : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit;<br>
+30° ...;<br>
+31° ...;<br>
 32° reinigingsattest: het attest dat opgemaakt wordt na het beëindigen van de reinigingsbeurt van het centrale stooktoestel of het rookgasafvoerkanaal;<br>
 33° verbrandingsattest: het attest dat opgemaakt wordt na de verbrandingscontrole van het centrale stooktoestel;<br>
 34° keuringsrapport: het rapport dat opgemaakt wordt na de keuring voor de eerste ingebruikname van het centrale stooktoestel;<br>
-35° verwarmingsauditrapport: een verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie. Het verslag omvat een beoordeling van het rendement van de ketel en van de ketelgrootte vergeleken met de verwarmingsbehoeften van het gebouw. In voorkomend geval wordt rekening gehouden met het vermogen van het verwarmingssysteem om zijn prestatie onder gemiddelde werkomstandigheden te optimaliseren. Het verslag omvat ook het advies over de vervanging van de ketel, aanbevelingen voor andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een kostenefficiënte verbetering van de energieprestatie kunnen realiseren;<br>
+35° ...;<br>
 36° ...;<br>
 37° schoorsteenveger : persoon, die vakbekwaam is in het reinigen en controleren van het rookgasafvoerkanaal van een stooktoestel;<br>
 38° geschoolde vakman : persoon die vakbekwaam is in het onderhouden van een centraal stooktoestel, gevoed met vaste brandstof;<br>
@@ -263,28 +263,7 @@ Als bij de onderhoudsbeurt, vermeld in artikel 13, het rookgasafvoerkanaal gerei
 
 ### ART. 9.
 
-Verwarmingsaudit<br>
-<br>
-§ 1. De eigenaar van een centraal stooktoestel met een nominaal vermogen van 20 kW of meer laat telkens een verwarmingsaudit uitvoeren samen met de eerstvolgende onderhoudsbeurt, vermeld in artikel 8, 4°, nadat het toestel vijf jaar oud is geworden en nadien vijfjaarlijks.<br>
-<br>
-In afwijking van het eerste lid, laat de eigenaar van een centraal stooktoestel met een nominaal vermogen van meer dan 100 kW een verwarmingsaudit uitvoeren met de volgende frequentie die ingaat na de eerste ingebruikname:<br>
-1° tweejaarlijks in het geval van een centraal stooktoestel gevoed met vloeibare brandstof;<br>
-2° vierjaarlijks in het geval van een centraal stooktoestel gevoed met gasvormige brandstof.<br>
-<br>
-§ 2. De verwarmingsaudit, bedoeld in § 1, wordt uitgevoerd door :<br>
-1° Een erkende technicus vloeibare brandstof, indien het centraal stooktoestel wordt gevoed met vloeibare brandstof en een nominaal totaal geïnstalleerd vermogen heeft kleiner of gelijk aan 100 kW;<br>
-2° Een erkende technicus gasvormige brandstof, indien het centraal stooktoestel wordt gevoed met gasvormige brandstof en een nominaal totaal geïnstalleerd vermogen heeft kleiner of gelijk aan 100 kW;<br>
-<span style="text-align:justify">3° Een erkende technicus verwarmingsaudit:</span><br>
-<span style="text-align:justify">a. die ook erkend is als technicus gasvormige brandstof, als het totaal geïnstalleerd nominaal vermogen van het centraal stooktoestel, gevoed met gasvormige brandstof, meer dan 100 kW bedraagt of indien de verwarmingsinstallatie, gevoed met gasvormige brandstof, uit meerdere ketels bestaat;</span><br>
-<span style="text-align:justify">b. die ook erkend is als technicus vloeibare brandstof, als het totaal geïnstalleerd nominaal vermogen van het centraal stooktoestel, gevoed met vloeibare brandstof, meer dan 100 kW bedraagt of indien de verwarmingsinstallatie, gevoed met vloeibare brandstof, uit meerdere ketels bestaat;</span><br>
-<span style="text-align:justify">c. als het centraal stooktoestel gevoed wordt met vaste brandstof.</span><br>
-<br>
-§ 3. In afwijking van paragraaf 1 geldt voor de volgende gevallen een vrijstelling van de verplichting tot uitvoering van de verwarmingsaudit:<br>
-1° centrale stooktoestellen die onder een overeengekomen energieprestatiecriterium of een contractuele regeling vallen waarin een overeengekomen niveau van energie-efficiëntieverbetering is vermeld;<br>
-2° centrale stooktoestellen die beheerd worden door een nutsbedrijf- of netwerkexploitant en daarom aan prestatiemonitoringmaatregelen aan de systeemzijde zijn onderworpen;<br>
-3° niet-residentiële gebouwen met een of meer centrale stooktoestellen die voorzien zijn van gebouwautomatiserings- en controlesystemen als vermeld in artikel 11.1/1.2 van het Energiedecreet van 8 mei 2009.<br>
-<br>
-In de gevallen, vermeld in het eerste lid, 1° en 2°, moet de aanpak hetzelfde globale resultaat opleveren als de verwarmingsaudit, vermeld in paragraaf 1. De centrale stooktoestellen moeten worden onderworpen aan een regelmatige beoordeling. De Vlaamse minister, bevoegd voor de energie, kan de nadere regels vaststellen om na te gaan of aan deze voorwaarde is voldaan.
+...
 
 ### ART. 10.
 
@@ -296,15 +275,15 @@ Ter beschikking houden van attesten en rapporten<br>
 <br>
 § 1. De eigenaar van een centraal stooktoestel zorgt ervoor dat het keuringsrapport&nbsp;of een duplicaat daarvan bij het toestel blijft zolang dat ongewijzigd in gebruik is.<br>
 &nbsp;
-<p style="text-align: justify;">§ 2. De gebruiker en eigenaar houden minstens de duplicaten van het reinigings- en verbrandingsattest van de laatste twee onderhoudsbeurten bij. De gebruiker bezorgt een duplicaat van het reinigings- en verbrandingsattest aan de eigenaar.</p>
+<p>§ 2. De gebruiker en eigenaar houden minstens de duplicaten van het reinigings- en verbrandingsattest van de laatste twee onderhoudsbeurten bij. De gebruiker bezorgt een duplicaat van het reinigings- en verbrandingsattest aan de eigenaar.</p>
 <br>
-§ 3. De eigenaar van het centrale stooktoestel houdt het verwarmingsauditrapport bij zolang het toestel in gebruik is en geen nieuwe verwarmingsaudit werd uitgevoerd. De eigenaar bezorgt een duplicaat van het verwarmingsauditrapport aan de gebruiker.<br>
+§ 3. ...<br>
 <br>
-§ 4. De attesten en rapporten, bedoeld in § 1, § 2 en § 3, worden ter beschikking gehouden van de toezichthouder en voorgelegd op eenvoudig verzoek.<br>
+§ 4. De attesten en rapporten, bedoeld in § 1 en § 2, worden ter beschikking gehouden van de toezichthouder en voorgelegd op eenvoudig verzoek.<br>
 <br>
-§ 5. De eigenaar van het toestel bezorgt een duplicaat van de attesten en rapporten, bedoeld in § 1, § 2 en § 3, aan een&nbsp;gebruiker.
+§ 5. De eigenaar van het toestel bezorgt een duplicaat van de attesten en rapporten, bedoeld in § 1 en § 2&nbsp; aan een&nbsp;gebruiker.
 
-## HOOFDSTUK IV Verplichtingen van de persoon belast met de keuring vóór eerste ingebruikname, met de onderhoudsbeurt of met de verwarmingsaudit van een centraal stooktoestel
+## HOOFDSTUK IV Verplichtingen van de persoon belast met de keuring vóór eerste ingebruikname, met de onderhoudsbeurt van een centraal stooktoestel
 
 ### ART. 12.
 
@@ -366,26 +345,7 @@ Een schoorsteenveger mag het rookgasafvoerkanaal alleen reinigen en controleren.
 
 ### ART. 14.
 
-Uitvoeren verwarmingsaudit<br>
-<br>
-§ 1. De verwarmingsaudit, bedoeld in artikel 9, § 2, 1° en 2°, wordt, bij een centraal stooktoestel met een nominaal vermogen kleiner of gelijk aan 100 kW, uitgevoerd aan de hand van het rekeninstrument dat door de Vlaamse minister, bevoegd voor het energiebeleid, ter beschikking wordt gesteld.<br>
-<br>
-§ 2. De verwarmingsaudit, bedoeld in artikel 9, § 2, 3° a) en b), wordt uitgevoerd aan de hand van software die door de Vlaamse minister, bevoegd voor het energiebeleid, ter beschikking wordt gesteld.<br>
-<br>
-De verwarmingsaudit, bedoeld in artikel 9, § 2, 3°, c), wordt uitgevoerd aan de hand van een berekeningsmethodiek die door de erkende technicus verwarmingsaudit wordt gekozen maar een beoordeling toelaat van het rendement van de ketel en van de ketelgrootte ten opzichte van de verwarmingsbehoeften van het gebouw. De erkende technicus verwarmingsaudit geeft het VEKA of de toezichthouder op eenvoudig verzoek de nodige informatie over de gehanteerde berekeningsmethodiek.<br>
-<br>
-§ 3. De Vlaamse minister, bevoegd voor het energiebeleid, bepaalt de inhoud van het verwarmingsauditrapport.<br>
-<br>
-§ 4. De persoon die de verwarmingsaudit van het centrale stooktoestel heeft uitgevoerd :<br>
-1° verstrekt aan de eigenaar van het centrale stooktoestel informatie omtrent de bestaande steunmaatregelen van de overheid of derden en de geschatte besparing op het energieverbruik met het oog op de vervanging van oudere ketels;<br>
-2° adviseert de eigenaar van het centrale stooktoestel over vervanging van de ketel, over andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een significante energiebesparing kunnen realiseren.<br>
-<br>
-§ 5. De persoon die belast is met het uitvoeren van de verwarmingsaudit op een centraal stooktoestel beschikt over een erkenning als :<br>
-1° technicus gasvormige brandstof als het centrale stooktoestel gevoed wordt met gasvormige brandstof en het nominaal vermogen gelijk is aan of groter is dan 20 kW, maar kleiner is dan of gelijk is aan 100 kW;<br>
-2° technicus gasvormige brandstof en technicus verwarmingsaudit als het centrale stooktoestel gevoed wordt met gasvormige brandstof en het nominaal vermogen groter is dan 100 kW, of als de installatie uit verschillende ketels bestaat;<br>
-3° technicus vloeibare brandstof als het centrale stooktoestel gevoed wordt met vloeibare brandstof en het nominaal vermogen gelijk is aan of groter is dan 20 kW, maar kleiner is dan of gelijk is aan 100 kW;<br>
-4° technicus vloeibare brandstof en technicus verwarmingsaudit als het centrale stooktoestel gevoed wordt met vloeibare brandstof en het nominaal vermogen groter is dan 100 kW, of als de installatie uit verschillende ketels bestaat;<br>
-5° technicus verwarmingsaudit als het centrale stooktoestel gevoed wordt met vaste brandstof.
+...
 
 ### ART. 15.
 
@@ -395,13 +355,13 @@ Afgeven en ter beschikking houden van attesten en rapporten<br>
 <br>
 §2. De persoon die de gedeeltelijke of de volledige onderhoudsbeurt van artikel 8, 4°, heeft uitgevoerd overhandigt aan de gebruiker van het centrale stooktoestel het behoorlijk ingevulde reinigingsattest en/of het behoorlijk ingevulde verbrandingsattest. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
 <br>
-§3. De persoon die de verwarmingsaudit, bedoeld in artikel 9, heeft uitgevoerd, overhandigt aan de eigenaar van het centrale stooktoestel een verwarmingsauditrapport. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
+§3. ...<br>
 <br>
 §4. ....<br>
 <br>
-§5. Een behoorlijk ingevuld reinigingsattest, verbrandingsattest, keuringsrapport of verwarmingsauditrapport bevat minstens de gegevens, gevraagd in het toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke tekens. Een rapport of attest is enkel geldig indien het behoorlijk werd ingevuld.<br>
+§5. Een behoorlijk ingevuld reinigingsattest, verbrandingsattest of keuringsrapport bevat minstens de gegevens, gevraagd in het toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke tekens. Een rapport of attest is enkel geldig indien het behoorlijk werd ingevuld.<br>
 <br>
-§6. De persoon die het keuringsrapport, reinigings- of verbrandingsattest of verwarmingsauditrapport opstelt en overhandigt aan de eigenaar of gebruiker van een centraal stooktoestel op gasvormige of vloeibare brandstof, moet op het moment van de uitreikingen daarvan over een erkenning als vermeld in hoofdstuk IV beschikken.<br>
+§6. De persoon die het keuringsrapport, reinigings- of verbrandingsattest opstelt en overhandigt aan de eigenaar of gebruiker van een centraal stooktoestel op gasvormige of vloeibare brandstof, moet op het moment van de uitreikingen daarvan over een erkenning als vermeld in hoofdstuk IV beschikken.<br>
 <br>
 Een schoorsteenveger mag alleen een reinigingsattest opstellen voor het gedeelte reinigen en controleren van het rookgasafvoerkanaal.<br>
 <br>
