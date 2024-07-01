@@ -360,7 +360,7 @@ De minister benoemt een plaatsvervanger voor elk van de leden, vermeld in het ee
 <br>
 De leden, vermeld in paragraaf 1, eerste lid, 5°, en hun plaatsvervangers worden voorgedragen door de representatieve verenigingen in de Vlaamse jachtsector.<br>
 <br>
-De duur van het mandaat van de leden en hun plaatsvervangers, vermeld in paragraaf 1, eerste en tweede lid, is vier jaar. Het mandaat is verlengbaar. Als er voor het einde van een mandaat van een lid een vacature openstaat, neemt de plaatsvervanger dat mandaat over en wordt een nieuwe plaatsvervanger voorgedragen overeenkomstig de bepalingen in 62, eerste en tweede lid.<br>
+De duur van het mandaat van de leden en hun plaatsvervangers, vermeld in paragraaf 1, eerste en tweede lid, is vier jaar. Het mandaat is verlengbaar. Als er voor het einde van een mandaat van een lid een vacature openstaat, neemt de plaatsvervanger dat mandaat over en wordt een nieuwe plaatsvervanger voorgedragen overeenkomstig het eerste en het tweede lid.<br>
 <br>
 § 3. Het agentschap wijst voor het Centraal Comité een of meer niet-stemgerechtigde secretarissen aan, die onder meer de notulen van de vergaderingen van het Centraal Comité opstellen en de reis- en verblijfkosten van de leden van het Centraal Comité afhandelen.<br>
 <br>
