@@ -38,6 +38,17 @@ In boek 3, deel 1, titel 6, hoofdstuk 3, van hetzelfde besluit, het laatst gewij
 <br>
 “Tijdens de facturatieperiode die loopt tot en met 31 december 2025, op basis van de referentieperiode die loopt van 1 juli 2023 tot en met 30 juni 2024, wordt geen financiële vermindering toegepast als de voorziening na de definitieve berekening uitzonderlijk en eenmalig de gegevens in de elektronische vragenlijst vermeld in artikel 456 laat wijzigen.”.
 
+### ART 24.
+
+In artikel 487 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in paragraaf 1 wordt het woord “zijinstroomzorgkundigen” vervangen door het woord “zij-instroomzorgkundigen”;<br>
+2° in paragraaf 2 wordt het negende lid vervangen door wat volgt:<br>
+“De logistiek medewerker in de zorg komt in aanmerking voor de tegemoetkoming, vermeld in paragraaf 1, eerste lid, als die voldoet aan al de volgende voorwaarden:<br>
+1° de logistiek medewerker in de zorg wordt niet tewerkgesteld als vervanger eindeloopbaan en wordt op zijn vroegst vanaf 1 juli 2021 tewerkgesteld;<br>
+2° de logistiek medewerker in de zorg wordt tewerkgesteld met een van de volgende contracten:<br>
+&nbsp; a) een contract van onbepaalde duur volgens de loonkostenvergoeding die past bij de functie-inhoud, zoals overeengekomen in de collectieve arbeidsovereenkomsten en de protocollen tussen vakbonden en werkgevers in de private en publieke sector, vermeld in artikel 428;<br>
+&nbsp; b) een contract van bepaalde duur tot tijdelijke vervanging van een andere logistiek medewerker in de zorg. De vervanging moet blijken uit een afschrift van het contract.”.
+
 ### ART 37.
 
 In hoofdstuk 2 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, wordt een artikel 5/2 ingevoegd, dat luidt als volgt:<br>
