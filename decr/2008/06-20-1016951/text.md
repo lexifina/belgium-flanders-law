@@ -28,7 +28,12 @@ Onderwijs, onderzoek en wetenschappelijke dienstverlening met een brede maatscha
 
 ### ART. 5.
 
-De bestuurs- en beheersorganen en de bestuurs- en beheersambten van de Universiteit Hasselt zijn:<br />1° de raad van bestuur;<br />2° het bestuurscollege;<br />3° de voorzitter en de ondervoorzitter;<br />4° de rector en de beide vicerectoren;<br />5° de beheerder.
+De bestuurs- en beheersorganen en de bestuurs- en beheersambten van de Universiteit Hasselt zijn:<br>
+1° de raad van bestuur;<br>
+2° het bestuurscollege;<br>
+3° de voorzitter en de ondervoorzitter;<br>
+4° de rector en de beide vicerectoren;<br>
+5° beide beheerders.
 
 ### ART. 5/1.
 
@@ -53,13 +58,26 @@ De raad van bestuur is samengesteld uit:<br>
 a) de faculteiten van de Universiteit Hasselt;<br>
 b) de schools van de transnationale Universiteit Limburg, indien de decanen of vicedecanen ervan als personeelslid aan de Universiteit Hasselt zijn benoemd.<br>
 <br>
-De beheerder en de regeringscommissaris wonen de vergadering met raadgevende stem bij.<br>
+Ten hoogste twee derde van personen die worden voorgedragen voor de verte-genwoordiging, vermeld in het eerste lid, 8°, zijn van hetzelfde geslacht.<br>
+<br>
+De beheerders en de regeringscommissaris wonen de vergadering met raadgevende stem bij.<br>
 <br>
 Een vertegenwoordiger van de Hogeschool PXL, aangeduid door het bestuursorgaan van de hogeschool, kan de vergaderingen van de raad van bestuur bijwonen met raadgevende stem.
 
 ### ART. 7.
 
-De leden, bedoeld in artikel 6, eerste lid, 4°, worden als volgt   aangesteld:<BR>1° de zetelende voorzitter neemt het initiatief om drie   vertegenwoordigers van de sociale sector en drie vertegenwoordigers van de   economische sector te laten voordragen waarbij ten hoogste twee leden van elke   sector van hetzelfde geslacht zijn;<BR>2° de voorgedragen vertegenwoordigers   worden vervolgens aangesteld door de zetelende raad van bestuur, uiterlijk in de   maand september van het academiejaar waarin de zetelende leden van de sociale en   economische sectoren hun mandaat beëindigen.<BR><BR>De leden, bedoeld in artikel   6, eerste lid, 5°, 6° en 7°, worden bij geheime stemming verkozen door   respectievelijk de algemene vergadering van het zelfstandig academisch   personeel, de algemene vergadering van het assisterend academisch personeel en   de algemene vergadering van het administratief en technisch personeel. Voor de   verkiezing van die leden beschikken de kiezers telkens over één stem. De   kandidaten die het hoogste aantal stemmen behalen, zijn gekozen.<BR><BR>De   leden, bedoeld in artikel 6, eerste lid, 8°, worden aangesteld met inachtneming   van artikel II.327 van de Codex Hoger Onderwijs.<BR><BR>Voor de toepassing van   dit artikel worden :<BR>1° de leden van het onderwijzend personeel van groep 3   die opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het zelfstandig academisch   personeel;<BR>2° de leden van het onderwijzend personeel van groep 1 en 2 die   opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het assisterend academisch   personeel;<BR>3° de leden van het administratief en technisch personeel die   opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het administratief en technisch   personeel.
+De leden, bedoeld in artikel 6, eerste lid, 4°, worden als volgt aangesteld:<br>
+1° de zetelende voorzitter neemt het initiatief om drie vertegenwoordigers van de sociale sector en drie vertegenwoordigers van de economische sector te laten voordragen waarbij ten hoogste twee leden van elke sector van hetzelfde geslacht zijn;<br>
+2° de voorgedragen vertegenwoordigers worden vervolgens aangesteld door de zetelende raad van bestuur, uiterlijk in de maand september van het academiejaar waarin de zetelende leden van de sociale en economische sectoren hun mandaat beëindigen.<br>
+<br>
+De leden, bedoeld in artikel 6, eerste lid, 5°, 6° en 7°, worden bij geheime stemming verkozen door respectievelijk het zelfstandig academisch personeel,&nbsp; het assisterend academisch personeel en het administratief en technisch personeel. Voor de verkiezing van die leden beschikken de kiezers telkens over één stem. De kandidaten die het hoogste aantal stemmen behalen, zijn gekozen.&nbsp;De overige kandidaten worden in de volgorde van het aantal stemmen als opvol-gers gerangschikt.<br>
+<br>
+De leden, bedoeld in artikel 6, eerste lid, 8°, worden aangesteld met inachtneming van artikel II.327 van de Codex Hoger Onderwijs.<br>
+<br>
+Voor de toepassing van dit artikel worden :<br>
+1° de leden van het onderwijzend personeel van groep 3 die opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex Hoger Onderwijs, ingedeeld in de categorie van het zelfstandig academisch personeel;<br>
+2° de leden van het onderwijzend personeel van groep 1 en 2 die opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex Hoger Onderwijs, ingedeeld in de categorie van het assisterend academisch personeel;<br>
+3° de leden van het administratief en technisch personeel die opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex Hoger Onderwijs, ingedeeld in de categorie van het administratief en technisch personeel.
 
 ### ART. 8.
 
@@ -82,14 +100,15 @@ De raad van bestuur is het hoogste bestuurs- en beheersorgaan en heeft uit dien 
 ### ART. 12.
 
 De raad van bestuur is belast met:<br>
-1° de oprichting en de inrichting van de faculteiten, de departementen, de schools, de diensten, de onderzoeksinstituten, de leerstoelen en alle andere academische organen en organisatie-eenheden die de raad noodzakelijk acht;<br>
+1° de oprichting en de inrichting van de faculteiten, de departementen, de interfacultaire schools en de facultaire schools van de Universiteit Hasselt, de schools, de diensten, de onderzoeksinstituten, de leerstoelen en alle andere academische organen en organisatie-eenheden die de raad noodzakelijk acht;<br>
 2° het bepalen van het bestuursreglement, de reglementen voor de verkiezing van de rector, de vicerectoren en de leden van de andere academische organen, het onderwijs- en het examenreglement, met inbegrip van onderwijsprogramma's, de rechtspositieregeling van de student, het personeelsreglement, het tuchtreglement en alle andere reglementen rekening houdend met het bepaalde in artikel 5/1;<br>
 3° de goedkeuring van de algemene richtlijnen voor de organisatie, coördinatie en kwaliteitsbewaking van het academisch onderwijs, het wetenschappelijk onderzoek en de wetenschappelijke en maatschappelijke dienstverlening van de Universiteit Hasselt;<br>
 4° het goedkeuren en eventueel aanpassen van het vijfjaarlijks investerings- en financieringsplan;<br>
+4°/1 &nbsp;&nbsp; &nbsp;het goedkeuren, op voordracht van de rector, van een vierjaarlijks strategisch plan;<br>
 5° het jaarlijks vastleggen en goedkeuren van de begroting, de jaarrekening en het jaarverslag van de universiteit;<br>
 6° het bepalen van de personeelsformatie;<br>
 7° de aanstelling van de voorzitter, ondervoorzitter, rector, vicerectoren;<br>
-8° de aanstelling en de evaluatie van de beheerder.<br>
+8° de aanstelling en de evaluatie van de beheerders.<br>
 9° het onteigenen van onroerende goederen die rechtstreeks of onrechtstreeks vereist zijn voor het onderwijs, het onderzoek, de wetenschappelijke dienstverlening en de administratie van de universiteit,&nbsp;conform het Vlaams Onteigeningsdecreet van 24 februari 2017 en na de machtiging van de Vlaamse Regering.<br>
 <br>
 Die bevoegdheden kunnen niet aan enig ander orgaan worden opgedragen.
@@ -131,19 +150,23 @@ De raad van bestuur stelt een huishoudelijk reglement op waarin de raad zijn wer
 ### ART. 20.
 
 Het bestuurscollege bestaat uit:<br>
-1° de voorzitter en de ondervoorzitter, aangesteld overeenkomstig artikel 26, § 1;<br>
-2° de rector en de vicerectoren, aangesteld overeenkomstig artikel 23, § 2 en § 3;<br>
+1° de rector, die ook optreedt als voorzitter van het bestuurscollege;;<br>
+2° de vicerectoren;<br>
 3° één student, aangesteld overeenkomstig artikel 7, derde lid.<br>
 <br>
-De voorzitter van de raad van bestuur is tevens voorzitter van het bestuurscollege.<br>
-<br>
-De beheerder en de regeringscommissaris wonen de vergaderingen met raadgevende stem bij.
+De beheerders en de regeringscommissaris wonen de vergaderingen met raadgevende stem bij.
 
 ## Onderafdeling 2. Bevoegdheid
 
 ### ART. 21.
 
-§ 1. Het bestuurscollege is, binnen de grenzen van het door de raad van bestuur volgens artikel 13, § 2, vastgelegde delegatiebesluit, belast met het dagelijks bestuur en beheer van de Universiteit Hasselt op administratief, technisch, financieel en personeelsvlak.<br /> <br />Het bestuurscollege draagt ook zorg voor de voorbereiding, de bekendmaking en de uitvoering van de besluiten van de raad van bestuur.<br /><br />§ 2. In spoedeisende omstandigheden neemt het bestuurscollege met betrekking tot materies die tot de bevoegdheid van de raad van bestuur behoren, alle nodige maatregelen om de belangen van de instelling te vrijwaren.<br /><br />De genomen beslissingen worden op de eerstvolgende vergadering aan de raad van bestuur voorgelegd, die ze kan herroepen of wijzigen voor zover aan de beslissingen nog geen uitvoering is gegeven.<br /><br />§ 3. Het bestuurscollege is aan de raad van bestuur verantwoording verschuldigd. Het bestuurscollege verschaft de raad van bestuur informatie over de beslissingen die het genomen heeft. Het verstrekt de raad van bestuur op zijn verzoek alle inlichtingen over de handelingen die het heeft verricht.
+§1. Het bestuurscollege is bevoegd voor alle zaken die de raad van bestuur via een delegatiebesluit als vermeld in artikel 13, §2, eerste lid, 1°, aan het bestuurs-college heeft opgedragen.<br>
+<br>
+§2. In spoedeisende omstandigheden neemt het bestuurscollege met betrekking tot materies die tot de bevoegdheid van de raad van bestuur behoren, alle nodige maatregelen om de belangen van de instelling te vrijwaren.<br>
+<br>
+De genomen beslissingen worden op de eerstvolgende vergadering aan de raad van bestuur voorgelegd, die ze kan herroepen of wijzigen voor zover aan de beslissingen nog geen uitvoering is gegeven.<br>
+<br>
+§3. Het bestuurscollege is aan de raad van bestuur verantwoording verschuldigd.
 
 ## Onderafdeling 3. Werkingsregelen
 
@@ -157,7 +180,25 @@ Het bestuurscollege stelt een huishoudelijk reglement op waarin het zijn werking
 
 ### ART. 23.
 
-§ 1. De rector en de vicerectoren worden voor een termijn van vier jaar   aangesteld door de raad van bestuur. De kandidaten moeten voltijds verbonden   zijn aan de Universiteit Hasselt en ten minste hoogleraar zijn.<BR><BR>§ 2. De   rector wordt in de loop van de maand mei van het academiejaar waarin het mandaat   van de in dienst zijnde rector verstrijkt, voorgedragen door de algemene   vergadering van de faculteitsraden, overeenkomstig artikel 36.<BR><BR>De rector   wordt aangesteld door de zetelende raad van bestuur.<BR><BR>Bij bezwaar door een   derde van de leden van de raad van bestuur moet een tweede stemronde   plaatsgrijpen waarbij een tweederdemeerderheid vereist is. <BR><BR>§ 3. De   volgens § 2 aangestelde rector draagt uiterlijk in de loop van de maand juli die   voorafgaat aan het verstrijken van het mandaat van de in dienst zijnde   vicerectoren, de kandidaat-vicerectoren, alsmede hun respectieve   bevoegdheidsdomeinen, ter stemming voor aan de algemene vergadering van de   faculteitsraden, overeenkomstig artikel 36.<BR><BR>De rector draagt de   kandidaat-vicerectoren ter aanstelling voor aan de zetelende raad van   bestuur.<BR><BR>Bij bezwaar door een derde van de leden van de raad van bestuur   moet een tweede stemronde plaatsgrijpen waarbij een tweederdemeerderheid vereist   is.<BR><BR>§ 4. Het mandaat van rector en vicerector loopt tot en met 30   september van het academiejaar waarin het mandaat van de in dienst zijnde rector   verstrijkt.<BR><BR>§ 5. ...<BR><BR>§ 6. Het mandaat van rector of vicerector is   onverenigbaar met het (vice)voorzitterschap van een faculteit, depa rtement of   school, of het directeurschap van een onderzoeksinstituut.<BR><BR>§ 7. Bij   vroegtijdige beëindiging van een lopend mandaat van rector of vicerector, wordt   dat mandaat voor de resterende duur ervan ingevuld door een vervanger. <BR><BR>§   8. Bij vroegtijdige beëindiging van een lopend mandaat van rector wordt de raad   van bestuur belast met de onmiddellijke organisatie van de verkiezing van de   rector.
+§ 1. De rector en de vicerectoren worden voor een termijn van vier jaar aangesteld door de raad van bestuur. De kandidaten moeten voltijds verbonden zijn aan de Universiteit Hasselt en ten minste hoogleraar zijn.<br>
+<br>
+§ 2. De rector wordt in de loop van de maand mei van het academiejaar waarin het mandaat van de in dienst zijnde rector verstrijkt, voorgedragen door de algemene vergadering van de faculteitsraden, overeenkomstig artikel 36.<br>
+<br>
+De zetelende raad van bestuur neemt kennis van de verkiezingsresultaten, bekrachtigt ze en stelt de rector aan.<br>
+<br>
+§ 3. De volgens § 2 aangestelde rector draagt uiterlijk in de loop van de maand juli die voorafgaat aan het verstrijken van het mandaat van de in dienst zijnde vicerectoren, de kandidaat-vicerectoren, alsmede hun respectieve bevoegdheidsdomeinen, ter stemming voor aan de algemene vergadering van de faculteitsraden, overeenkomstig artikel 36.<br>
+<br>
+De rector draagt de kandidaat-vicerectoren ter aanstelling voor aan de zetelende raad van bestuur.&nbsp;De zetelende raad van bestuur neemt kennis van de verkiezingsresultaten, bekrachtigt ze en stelt de vicerectoren aan.<br>
+<br>
+§ 4. Het mandaat van rector en vicerector loopt tot en met 30 september van het academiejaar waarin het mandaat van de in dienst zijnde rector verstrijkt.<br>
+<br>
+§ 5. ...<br>
+<br>
+§ 6. Het mandaat van rector of vicerector is onverenigbaar met het (vice)voorzitterschap van een faculteit, depa rtement of school, of het directeurschap van een onderzoeksinstituut.<br>
+<br>
+§ 7. Bij vroegtijdige beëindiging van een lopend mandaat van rector of vicerector, wordt dat mandaat voor de resterende duur ervan ingevuld door een vervanger.<br>
+<br>
+§ 8. Bij vroegtijdige beëindiging van een lopend mandaat van rector wordt de raad van bestuur belast met de onmiddellijke organisatie van de verkiezing van de rector.
 
 ## Onderafdeling 2. Bevoegdheid
 
@@ -183,7 +224,13 @@ De rector en de vicerectoren hebben recht op een vergoeding,   overeenkomstig de
 
 ### ART. 27.
 
-§ 1. De voorzitter leidt de vergaderingen van de raad van bestuur en van het bestuurscollege. <br /><br />De voorzitter zorgt voor de uitvoering van de beslissingen, genomen door voormelde universiteitsbesturen. <br /><br />De voorzitter vertegenwoordigt de Universiteit Hasselt in en buiten rechte. <br /><br />De voorzitter heeft de algemene leiding van de Universiteit Hasselt, inzonderheid het administratief, budgettair en financieel beheer.<br /><br />§ 2. De ondervoorzitter staat de voorzitter bij en vervangt hem wanneer hij niet beschikbaar is.
+§1. De voorzitter leidt de vergaderingen van de raad van bestuur.<br>
+<br>
+De voorzitter zorgt voor de uitvoering van de beslissingen die de raad van bestuur heeft genomen.<br>
+<br>
+De voorzitter vertegenwoordigt de Universiteit Hasselt in en buiten rechte.<br>
+<br>
+§ 2. De ondervoorzitter staat de voorzitter bij en vervangt hem wanneer hij niet beschikbaar is.
 
 ## Onderafdeling 3. Statuut
 
@@ -205,25 +252,35 @@ De rector of een van de vicerectoren en de voorzitter of de ondervoorzitter zijn
 
 De Vlaamse Regering wijst de Vlaamse leden van de raad van toezicht van de transnationale Universiteit Limburg aan, waarvan minstens een lid onder de in artikel 6, eerste lid, 3° en 4°, bedoelde leden.
 
-## Afdeling 7. De beheerder
+## Afdeling 7. De beheerders
 
 ## Onderafdeling 1. Aanstelling
 
 ### ART. 32.
 
-§ 1. In de personeelsformatie ten laste van de werkingsuitkeringen is een betrekking van beheerder opgenomen.<br /><br />§ 2. Een nieuwe beheerder wordt aangesteld door de raad van bestuur na een openbare oproep in het Belgisch Staatsblad. <br /><br />De vacature vermeldt ten minste de functie-inhoud, de functie-eisen en de selectieprocedure. De beheerder moet houder zijn van een masterdiploma.<br /><br />§ 3. De rechten en plichten van de beheerder, die deze functie als mandaat opneemt, worden vastgelegd in een overeenkomst met de raad van bestuur. <br /><br />§ 4. Het mandaat van beheerder wordt voor een termijn van zes jaar bepaald en is verlengbaar.
+§1. In de personeelsformatie ten laste van de werkingsuitkeringen zijn twee betrekkingen van beheerder opgenomen: de algemeen beheerder en de academisch beheerder.<br>
+<br>
+§2. De raad van bestuur stelt een nieuwe beheerder in een van de mandaten aan na een openbare oproep in het Belgisch Staatsblad. Zolang de raad van bestuur geen nieuwe beheerder heeft aangesteld, blijft de zittende beheerder in functie.<br>
+<br>
+De vacature vermeldt ten minste de functie-inhoud, de functievereisten en de selectieprocedure. Een beheerder is houder van een masterdiploma.<br>
+<br>
+§3. De rechten en plichten van de beheerders die de functie als mandaat opnemen, worden vastgelegd in een overeenkomst met de raad van bestuur.<br>
+<br>
+§4. De mandaten van beheerder worden voor een termijn van zes jaar bepaald en zijn verlengbaar.
 
-## Onderafdeling 2. Bevoegdheid
+## Onderafdeling 2. ...
 
 ### ART. 33.
 
-De beheerder coördineert de dagelijkse werking van de administratieve, financiële en technische diensten en is verantwoordelijk voor het administratief en technische personeel (ATP-geleding).<br /><br />De beheerder is tevens belast met het opstellen van de werkdocumenten en notulen van de raad van bestuur en van het bestuurscollege.
+...
 
 ## Onderafdeling 3. Statuut
 
 ### ART. 34.
 
-De raad van bestuur stelt het salaris van de beheerder vast in de   salarisschaal van het zelfstandig academisch personeel. De raad van bestuur kan   hem een vergoeding toekennen, overeenkomstig artikel V.39 van de Codex Hoger   Onderwijs.<BR><BR>Personeelsleden van een universiteit of hogeschool die   bezoldigd worden op de werkingsuitkeringen of ambtenaren van de Vlaamse   Gemeenschap die het mandaat van beheerder opnemen, krijgen voor de duur van het   mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen   belang erkend wordt. Het verlof wordt gelijkgesteld met dienstanciënniteit. Het   wordt niet bezoldigd.
+De raad van bestuur stelt het salaris van de beheerders vast in de salarisschaal van het zelfstandig academisch personeel. De raad van bestuur kan aan de beheerders een vergoeding toekennen overeenkomstig artikel 100 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.<br>
+<br>
+Personeelsleden van een universiteit of hogeschool die bezoldigd worden op de werkingsuitkeringen of ambtenaren van de Vlaamse Gemeenschap die het mandaat van beheerder opnemen, krijgen voor de duur van het mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen belang erkend wordt. Het verlof wordt gelijkgesteld met dienstanciënniteit. Het wordt niet bezoldigd.
 
 ## HOOFDSTUK III. Academische entiteiten
 
