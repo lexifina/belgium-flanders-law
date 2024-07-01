@@ -1,0 +1,12 @@
+Gelet op artikel 92bis, § 1, derde lid van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;
+Gelet op het Samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij samenwerkingsakkoord van 24 april 2015 en bij samenwerkingsakkoord van 24 maart 2016;
+Het Vlaamse Gewest, vertegenwoordigd door zijn Regering, in de persoon van Vlaams Minister-president Jan Jambon, Vlaams Minister Matthias Diependaele, Vlaams Minister Lydia Peeters en Vlaams Minister Zuhal Demir;
+Het Waalse Gewest, vertegenwoordigd door zijn Regering, in de persoon van Minister-President Elio Di Rupo, Vice-President Philippe Henry en Minister Adrien Dolimont;
+Het Brussels Hoofdstedelijk Gewest, vertegenwoordigd door zijn Regering, in de persoon van Brussels Minister-President Rudi Vervoort, Brussels Minister Sven Gatz, Brussels Minister Elke Van den Brandt, en Brussels Minister Alain Maron;
+Die gezamenlijk hun eigen bevoegdheden uitoefenen, zijn overeengekomen hetgeen volgt:
+ART 1.
+In artikel 6 § 2, eerste lid, 2° van het Samenwerkingsakkoord van 31 januari 2014, gewijzigd bij Samenwerkingsakkoord van 24 april 2015 en bij samenwerkingsakkoord van 24 maart 2016, tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen worden de woorden “correctiefactor met waarde 1,5 %“ vervangen door de woorden “correctiefactor met waarde 1 %“.
+ART 2.
+In artikel 7 § 2, eerste lid, 2° van hetzelfde Samenwerkingsakkoord worden de woorden “correctiefactor met waarde 1,5 %“ vervangen door de woorden “correctiefactor met waarde 1 %“.
+ART 3.
+Het voorliggend uitvoerend akkoord treedt in werking op 1 juli 2024.
