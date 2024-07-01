@@ -326,111 +326,60 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br>
-1° Agentschap Wegen en Verkeer: het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap Wegen en Verkeer;<br>
-2° MIA-infrastructuurwerken: werken in het Vlaamse Gewest die betrekking hebben op:<br>
-a) de optimalisering van fietspaden of fietsnetwerken door de verbetering van bestaande fietspaden, of door de aanleg van nieuwe fietspaden door het lokaal bestuur;<br>
-b) veiligheidsbevorderende maatregelen ten aanzien van bestaande gewestwegen en eventueel aansluitende gemeentewegen met een beperkte ruimtelijke impact, meer bepaald aanpassingen van kruispunten en rotondes, aanpassingen aan op- en afritten, wijzigingen in het wegbeeld zoals het aanbrengen van middenbermen, asverschuivingen, wegversmallingen of verkeersplateaus, wijziging van parkeervakken, of het plaatsen van signalisatie, markeringen en verkeerslichten;<br>
-3° minister: de Vlaamse minister van Mobiliteit en Openbare Werken.
+...
 
 ## Afdeling 2. Toepassingsgebied
 
 ### ART 2.
 
-Dit besluit betreft een tijdelijk project omtrent het optimaliseren van procedures en werkwijzen voor MIA-infrastructuurwerken, die gelden als specifieke situatie, vermeld in artikel III.119, tweede lid, 1° en 2°, van het Bestuursdecreet van 7 december 2018.
+...
 
 ## Afdeling 3. Duur
 
 ### ART 3.
 
-Het tijdelijke project heeft een looptijd van drie jaar.<br>
-<br>
-In afwijking van het eerste lid geldt dat na deze looptijd van drie jaar:<br>
-1° procedures die zijn opgestart onder het tijdelijke project nog afgerond worden overeenkomstig de bepalingen van dit besluit;<br>
-2° overeenkomsten die zijn gesloten onder het tijdelijke project nog verder uitgevoerd worden overeenkomstig de bepalingen van dit besluit, tenzij zij betrekking hebben op aangelegenheden als vermeld in artikel 7.
+...
 
 ## HOOFDSTUK 2. Onderzoekspunten en -faciliteiten
 
 ## Afdeling 1. Projectmethodologie
 
-### ART 4.
-
-Met betrekking tot MIA-infrastructuurwerken mag worden afgeweken van de projectmethodologie, bepaald in artikel 1 tot en met 6, en artikel 8 tot en met 17 van het besluit van de Vlaamse Regering van 6 september 2019 tot bepaling van de nadere regels over de projectmethodologie en de projectstuurgroep in het kader van de basisbereikbaarheid.<br>
-<br>
-Afwijkingen, vermeld in het eerste lid, garanderen dat de werken op een gecoördineerde en geïntegreerde wijze ontworpen, uitgewerkt, geanalyseerd en geëvalueerd worden.
-
 ## Afdeling 2. Samenwerking met lokale besturen
 
 ### ART 5.
 
-Het Agentschap Wegen en Verkeer kan één of meer lokale besturen belasten met de uitvoering van MIA-infrastructuurwerken ten aanzien van gewestwegen. De lokale besturen treden dan op als bouwheer voor de betrokken werken. De voorlopige en de definitieve opleveringen geschieden tussen het lokaal bestuur en de opdrachtnemer, in aanwezigheid van het Agentschap Wegen en Verkeer.<br>
-<br>
-De betrokken werken worden beschouwd als gemeentelijke projecten voor de toepassing van artikel 7, derde lid, van het Vlaams Onteigeningsdecreet van 24 februari 2017 en van artikel 15, § 1, vierde lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+...
 
 ### ART 6.
 
-Indien MIA-infrastructuurwerken zowel gewestelijke als gemeentelijke infrastructuren betreffen, en de Vlaamse Regering overgaat tot onteigening in functie van de gewestelijke infrastructuren, kunnen de betrokken lokale besturen de Vlaamse Regering belasten met de onteigening van de onroerende goederen of zakelijke rechten die nodig zijn voor de gemeentelijke infrastructuren.<br>
-<br>
-De betrokken werken worden in hun geheel beschouwd als gewestelijke projecten voor de toepassing van artikel 7, eerste lid, van het Vlaams Onteigeningsdecreet van 24 februari 2017 en van artikel 15, § 1, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+...
 
 ### ART 7.
 
-Het Agentschap Wegen en Verkeer kan lokale besturen belasten met beheersbevoegdheden met betrekking tot gewestwegen en hun aanhorigheden, met uitzondering van autosnelwegen, in het kader van afspraken over de realisatie of de exploitatie van MIA-infrastructuurwerken.
+...
 
 ## Afdeling 3. Instrumentarium
 
 ### ART 8.
 
-§ 1. Het Vlaamse Gewest en de lokale besturen zijn gemachtigd om deel te nemen aan vaststellingsovereenkomsten als vermeld in artikel 2044 van het oude Burgerlijk Wetboek, met als doel de vergoeding verbonden aan verwervingen genoodzaakt door MIA-infrastructuurwerken te laten bepalen bij wijze van bindende derdenbeslissing.<br>
-<br>
-De derdenbeslissing wordt genomen door:<br>
-1° een landmeter-expert of een personeelslid van de afdeling van de Vlaamse Belastingdienst die bevoegd is voor de schattingen en waarderingen, aangesteld door de overheid;<br>
-2° een landmeter-expert, aangesteld door de eigenaar;<br>
-3° een door beide landmeters-experten aangestelde bemiddelaar, beslagen in het bestuursrecht, die optreedt als voorzitter.<br>
-<br>
-De vergoeding wordt vastgesteld met inachtneming van de beginselen, vermeld in artikel 16 van de Grondwet.<br>
-<br>
-De bindende derdenbeslissing heeft overeenkomstig artikel 1134 van het oude Burgerlijk Wetboek de juridische kracht van een overeenkomst.<br>
-<br>
-Het Vlaamse Gewest of het lokale bestuur en de eigenaar of de houder van het zakelijk recht dragen elk de kosten van de door hen aangestelde landmeter-expert. Ze dragen elk voor de helft de kosten van de bemiddelaar.<br>
-<br>
-§ 2. De vrederechter is bevoegd om kennis te nemen van vorderingen tot onverbindendverklaring van de derdenbeslissing.
+...
 
 ### ART 9.
 
-Artikel 8 kan op gelijke wijze worden toegepast in zowel de bestuurlijke als de gerechtelijke fase van een onteigeningsprocedure in functie van MIA-infrastructuurwerken.<br>
-<br>
-De onteigeningsbeslissing in de bestuurlijke fase en de dagvaarding in de gerechtelijke fase vermeldt de mogelijkheden van het eerste lid en omvat de tekst van artikel 8.
+...
 
 ## HOOFDSTUK 3. Opvolging en evaluatie
 
 ### ART 10.
 
-§ 1. De minister richt een expertenpanel op dat belast is met de opvolging en de evaluatie van het tijdelijke project.<br>
-<br>
-Het expertenpanel is samengesteld uit:<br>
-1° een voorzitter, aangewezen door de minister;<br>
-2° een afgevaardigde van het Departement Mobiliteit en Openbare Werken, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-3° een afgevaardigde van het Agentschap Wegen en Verkeer;<br>
-4° drie experten, die aangewezen worden door de voorzitter van het expertenpanel.<br>
-<br>
-§ 2. Zodra het expertenpanel is samengesteld, volgt het panel het tijdelijke project op zonder enige vorm van sturing of inmenging.<br>
-<br>
-§ 3. De opvolging door het expertenpanel mondt uit in een tussentijdse evaluatie na twee jaar van het tijdelijke project en een eindevaluatie in het derde en laatste werkingsjaar.<br>
-<br>
-De eindevaluatie bevat:<br>
-1° de bespreking van de kritische succesfactoren die hebben bijgedragen tot het al dan niet slagen van het tijdelijke project;<br>
-2° de lessen die uit de elementen, vermeld in punt 1°, kunnen worden getrokken, en de manier waarop het tijdelijke project kan worden bestendigd;<br>
-3° de beleidsaanbevelingen die gebaseerd zijn op de inzichten en de resultaten van het tijdelijke project.
+...
 
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 11.
 
-Dit besluit treedt in werking op 1 juli 2021 en houdt op uitwerking te hebben op 1 juli 2024, met behoud van de toepassing van artikel 3, tweede lid.<br>
-<br>
-Artikel 5, artikel 6, en artikel 8, § 2, hebben overeenkomstig artikel III.121 van het Bestuursdecreet van 7 december 2018 pas uitwerking op voorwaarde dat ze binnen de zes maanden vanaf hun goedkeuring bekrachtigd worden bij decreet.
+...
 
 ### ART 12.
 
-De Vlaamse minister, bevoegd voor de weginfrastructuur en het wegenbeleid, is belast met de uitvoering van dit besluit.
+...
