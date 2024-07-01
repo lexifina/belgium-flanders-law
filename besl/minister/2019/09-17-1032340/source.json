@@ -2,16 +2,16 @@
   "codex_id": 1032340,
   "title": "Ministerieel besluit van 2019-09-17 tot herbenoeming van de leden en de plaatsvervangende leden van de beroepsinstantie inzake openbaarheid van bestuur en hergebruik van overheidsinformatie, afdeling openbaarheid van bestuur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032340/VolledigDocument?datum=2019-10-28",
-  "source_sha256": "e7edcb1a2a6cef44981cfa674ac2808be2bc89e4f8dfee086bd7c0d37b04b730",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032340/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "48c1487bb1104bd2fb4aaf33ba8fb57bcc7214f9894f8e6c7a6bb0a415b42757",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032340&param=informatie",
-  "as_of": "2019-10-28",
+  "as_of": "2024-07-01",
   "made": "2019-09-17",
   "gazette": "2019-10-11",
   "numac": 2019030870,
   "document_start": "2019-07-01",
   "document_end": "2024-06-30",
-  "in_force": "2019-10-28",
+  "in_force": "2024-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-10-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
