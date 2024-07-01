@@ -107,7 +107,7 @@ waarbij :<br>
 KZ = KM x(100 % - Corr)<br>
 met daarbij :<br>
 1° KM = het aantal geregistreerde kilometers in de betreffende tariefzone waar op dat ogenblik een tarief TZ van toepassing is, gedurende een bepaalde kalenderdag;<br>
-2° Corr = een correctiefactor met waarde 1,5 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
+2° Corr = een correctiefactor met waarde 1 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
 3° Z = de onderscheiden tariefzones zoals gedefinieerd in artikel 1, 20°.<br>
 <br>
 Gezien het tarief TZ mogelijk kan variëren in de tijd en per rijrichting zal KZ voor elke tijdens het gebruik van het betreffend wegsegment voorgekomen waarde van TZ afzonderlijk worden berekend.<br>
@@ -152,7 +152,7 @@ waarbij :<br>
 2° KZ = het aan te rekenen aantal kilometers afgelegd in elk dezer tariefzones, dat wordt vastgesteld met toepassing van de volgende berekeningsformule : KZ = KM x (100 % - Corr)<br>
 met daarbij :<br>
 1° KM = het aantal geregistreerde kilometers in de betreffende tariefzone waar op dat ogenblik een tarief TZ van toepassing is, gedurende een bepaalde kalenderdag;<br>
-2° Corr = een correctiefactor met waarde 1,5 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
+2° Corr = een correctiefactor met waarde 1 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
 3° z = de onderscheiden tariefzones zoals gedefinieerd in artikel 1, 20°;<br>
 <br>
 Gezien het tarief TZ mogelijk kan variëren in de tijd en per rijrichting zal KZ voor elke tijdens het gebruik van het betreffend wegsegment voorgekomen waarde van TZ afzonderlijk worden berekend.<br>

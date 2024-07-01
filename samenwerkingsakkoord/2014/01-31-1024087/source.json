@@ -2,16 +2,16 @@
   "codex_id": 1024087,
   "title": "Samenwerkingsakkoord van 2014-01-31 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024087/VolledigDocument?datum=2016-04-01",
-  "source_sha256": "13e7a789fea61be12ae6e687dc5ad12d2da68918d8188f1db14a383107aeec0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024087/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "fe9f6c1dc0aa7e1fd580a04b7519166c1c7206b7f8efedab5597060023c88c60",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024087&param=informatie",
-  "as_of": "2016-04-01",
+  "as_of": "2024-07-01",
   "made": "2014-01-31",
   "gazette": "2014-05-14",
   "numac": 0,
   "document_start": "2014-05-23",
   "document_end": null,
-  "in_force": "2016-04-01",
+  "in_force": "2024-07-01",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
