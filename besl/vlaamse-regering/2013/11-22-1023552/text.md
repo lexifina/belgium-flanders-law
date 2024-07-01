@@ -65,9 +65,16 @@ De organisator heeft een ondernemingsnummer als vermeld in artikel 52. Dat   bli
 
 ### ART. 8.
 
-De organisator van meer dan achttien kinderopvangplaatsen heeft bij één persoon binnen de organisatie de kennis om een kinderopvanglocatie organisatorisch te beheren, met inbegrip van de kennis over financieel beheer en de kennis over de opmaak van een ondernemingsplan. Dat blijkt uit een van de volgende documenten :<br>
-1° een attest, vastgesteld door de minister, die bepaalt wie de uitreikende instanties zijn en wat de leerinhouden zijn;<br>
-2° een kwalificatiebewijs, dat door de minister wordt vastgesteld.
+De organisator heeft een starterstraject afgerond.<br>
+<br>
+De verplichting om een starterstraject af te ronden, vermeld in het eerste lid, geldt in de volgende gevallen:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;bij de aanvraag van een vergunning voor een nieuwe kinderopvanglocatie;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;bij de aanvraag van een vergunning bij wijziging van organisator, met uitzondering van de wijziging, vermeld in artikel 13/2 van het Procedurebesluit van 9 mei 2014;&nbsp;<br>
+3° &nbsp;&nbsp; &nbsp;bij de aanvraag van een vergunning bij wijziging van opvangvorm.<br>
+<br>
+Een starterstraject als vermeld in het eerste lid, focust op het beleidsvoerend vermogen van de organisator.<br>
+<br>
+De minister bepaalt de nadere regels, minstens voor de inhoud van de kennis die aan bod komt in het starterstraject, vermeld in het eerste lid, en de validering ervan.
 
 ## Afdeling 2 Gezinsopvang
 
