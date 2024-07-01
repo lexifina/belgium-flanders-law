@@ -2910,7 +2910,11 @@ Voor de overige emissievrije voertuigen, andere dan deze vermeld in het vijfde l
 
 ### ART. 2.4.4.0.3.
 
-Het aantal aan te rekenen kilometers Kz, vermeld in artikel 2.4.4.0.1,   eerste lid, 2°, wordt bepaald volgens de volgende formule :<BR>Kz = KM x (100% -   C)<BR>waarbij :<BR>1° KM = het aantal geregistreerde kilometers in de   betreffende tariefzone waar op dat ogenblik een tarief Tz van toepassing is,   gedurende een bepaalde kalenderdag;<BR>2° C = een correctiefactor ter   compensatie van eventueel onnauwkeurige registratie, met waarde   1,5%.
+Het aantal aan te rekenen kilometers Kz, vermeld in artikel 2.4.4.0.1, eerste lid, 2°, wordt bepaald volgens de volgende formule :<br>
+Kz = KM x (100% - C)<br>
+waarbij :<br>
+1° KM = het aantal geregistreerde kilometers in de betreffende tariefzone waar op dat ogenblik een tarief Tz van toepassing is, gedurende een bepaalde kalenderdag;<br>
+2° C = een correctiefactor ter compensatie van eventueel onnauwkeurige registratie, met waarde 1%.
 
 ### ART. 2.4.4.0.4.
 
