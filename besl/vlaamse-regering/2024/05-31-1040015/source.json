@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040015,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-31 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, wat betreft de informatieverplichting ten aanzien van de nieuwe gebruikers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040015/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "4052c44a7c1e0fd9625064c76b59d77d4ba13b978e5b9fd80cd12d1a4b90e922",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040015&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2024-05-31",
+  "gazette": "2024-07-29",
+  "numac": 2024007272,
+  "document_start": "2024-11-01",
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
