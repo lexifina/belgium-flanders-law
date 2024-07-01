@@ -2,16 +2,16 @@
   "codex_id": 1039853,
   "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, wat betreft de gezinshuizen en de toepassing van artikel 3 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers en het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039853/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "a46e1f60357d63aa98c2b190aabac17cadd36b53a856a30982c44602e74e29a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039853/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "9d69c7674b2dc2af9f4efbaca3681750e10335ae6348ffee660a86184908d4c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039853&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-07-01",
   "made": "2024-05-03",
   "gazette": "2024-07-17",
   "numac": 2024006402,
   "document_start": "2024-07-01",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
