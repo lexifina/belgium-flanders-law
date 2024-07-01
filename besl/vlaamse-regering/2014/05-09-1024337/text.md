@@ -19,10 +19,12 @@
 6° /1 nieuwe gemeente: het lokaal bestuur van de nieuwe gemeente, vermeld in artikel 343, 2°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 6° /2 nieuwe kinderopvangplaats: een kinderopvangplaats waarvoor gedurende minstens drie maanden voor de algemene oproep tot op de dag dat het agentschap een algemene oproep als vermeld in artikel 57, § 3, naar de organisatoren stuurt, geen vergunning is toegekend of een vergunning is toegekend maar de kinderopvangplaats nog niet gestart is. Met een nieuwe kinderopvangplaats wordt gelijkgesteld: de kinderopvangplaats die vergund en opgestart is op de dag dat het agentschap de algemene oproep, vermeld in artikel 57, § 3, naar de organisatoren stuurt, op voorwaarde dat de organisator in een andere kinderopvanglocatie in dezelfde subsidiegroep een vergunning vraagt voor een nieuwe kinderopvangplaats en deze kinderopvangplaats opstart na de dag dat het agentschap de algemene oproep verstuurde en uiterlijk op het moment van de aanvraag van de subsidietoekenning na een subsidiebelofte, vermeld in artikel 79;<br>
 6° /3 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 22 december 2017 over het lokaal bestuur;<br>
+6°/4 ondersteuningsnetwerk kinderopvang: het ondersteuningsnetwerk kinderopvang, vermeld in artikel 2 van het besluit van de Vlaamse Regering van&nbsp;<br>
+23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang<br>
 7° opvangvorm: het soort kinderopvang dat de organisator aanbiedt, zijnde de groepsopvang, vermeld in artikel 4, 2°, van het decreet van 20 april 2012, of de gezinsopvang, vermeld in artikel 4, 1°, van het decreet van 20 april 2012;<br>
 7° /0 programmatiesubsidie: de subsidie voor inkomenstarief, de plussubsidie, de subsidie voor centrum inclusieve kinderopvang, de subsidie voor dringende kinderopvang, de subsidie voor kinderopvang met flexibele openingstijden of de subsidie voor structurele inclusieve kinderopvang, vermeld in artikel 1, 14°, 14° /1, 14° /2, 17°, 17° /1, en 18°, van het Subsidiebesluit van 22 november 2013;<br>
 7° /1 samengevoegde gemeenten: het lokaal bestuur van de samengevoegde gemeenten, vermeld in artikel 343, 4°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
-7° /2 ...<br>
+7°/2 starterstraject: het starterstraject, vermeld in artikel 8 van het Vergunningsbesluit van 22 november 2013;<br>
 8° subsidie: een of meer van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013;<br>
 9° technische commissie: de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
 10° verslag over de infrastructuur: een verslag over de infrastructuur als vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013;<br>
@@ -50,11 +52,12 @@ Het aantal toe te kennen vergunde kinderopvangplaatsen is onder meer afhankelijk
 1° voor gezinsopvang:<br>
 a) de vraag van de organisator;<br>
 b) de beschikbare infrastructuur volgens de verklaring op erewoord van de organisator, vermeld in artikel 3 en 9 van het Vergunningsbesluit van 22 november 2013;<br>
-c) ...<br>
+c) het indicatief advies van het ondersteuningsnetwerk kinderopvang in het kader van het starterstraject, als dat van toepassing is;<br>
 2° voor groepsopvang:<br>
 a) de vraag van de organisator;<br>
 b) de beschikbare infrastructuur volgens het verslag over de infrastructuur met een positief advies;<br>
-c) de brandveiligheidsvoorschriften volgens het brandveiligheidsattest.
+c) de brandveiligheidsvoorschriften volgens het brandveiligheidsattest;<br>
+d) het indicatief advies van het ondersteuningsnetwerk kinderopvang in het kader van het starterstraject, als dat van toepassing is.
 
 ### ART. 4.
 
@@ -96,6 +99,7 @@ c) het feit of er kinderopvang 's nachts wordt georganiseerd;<br>
 d) het feit of er kinderen buitenschools worden opgevangen;<br>
 e) het feit of en voor hoeveel plaatsen de kinderopvanglocatie zal voldoen aan de voorwaarden voor bepaalde subsidies;<br>
 f) voor de organisator van groepsopvang: welke acties de organisator onderneemt naar aanleiding van het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 2, 3°, van het Vergunningsbesluit van 22 november 2013;<br>
+g) welke acties de organisator onderneemt naar aanleiding van een ongunstig advies of een gunstig advies met aandachtspunten van het ondersteuningsnetwerk kinderopvang in het kader van het starterstraject;<br>
 6° de toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen, om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor kinderopvang dienen;<br>
 7° de gegevens over de verantwoordelijke van de kinderopvanglocatie:<br>
 a) de identiteitsgegevens en de contactgegevens van de verantwoordelijke, waaronder minstens de voor- en achternaam, het rijksregisternummer of het vreemdelingennummer, de geboortedatum, het geslacht, het telefoonnummer en het e-mailadres;<br>
@@ -107,9 +111,9 @@ b) de voor- en achternaam van alle meerderjarige personen die regelmatig direct 
 a) het feit dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de werkingsvoorwaarden;<br>
 c) het bezit van de documenten, vermeld in artikel 2, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
-d) de samenwerkingsovereenkomst als de organisator georganiseerd is als feitelijke vereniging, vermeld in artikel 7 en 53 van het Vergunningsbesluit van 22 november 2013;<br>
-e) voor de organisator van meer dan achttien kinderopvangplaatsen: de aanwezigheid van een persoon binnen de organisatie met de kennis om een kinderopvanglocatie organisatorisch te beheren als vermeld in artikel 8 van het Vergunningsbesluit van 22 november 2013, of een attest tot afwijking van het agentschap als vermeld in artikel 66 van het Vergunningsbesluit van 22 november 2013;<br>
-f) voor gezinsopvang: het beschikken over een attest "kennismaken met de gezinsopvang" voor elke kinderbegeleider als vermeld in artikel 11 van het Vergunningsbesluit van 22 november 2013, of een attest tot afwijking van het agentschap voor die kinderbegeleider als vermeld in artikel 65 van het Vergunningsbesluit van 22 november 2013, en een attest "werken in de kinderopvang" in het geval, vermeld in artikel 73 van het Vergunningsbesluit van 22 november 2013;<br>
+d) ...;<br>
+e) ...;<br>
+f) ...;<br>
 g) voor gezinsopvang: het voldoen aan de mogelijkheid tot veilige evacuatie en aan de maatregelen voor brandpreventie, vermeld in artikel 22 van het Vergunningsbesluit van 22 november 2013;<br>
 10° de datum en de elektronische handtekening van de organisator.</p>
 
@@ -120,6 +124,7 @@ g) voor gezinsopvang: het voldoen aan de mogelijkheid tot veilige evacuatie en a
 Naast het elektronische aanvraagformulier, vermeld in artikel 8, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap:<br>
 1° een uittreksel uit het strafregister van de organisator als vermeld in artikel 5 en 49 van het Vergunningsbesluit van 22 november 2013;<br>
 2° een uittreksel uit het strafregister van de verantwoordelijke als vermeld in artikel 4 en 40, § 2, eerste lid, 1° , van het Vergunningsbesluit van 22 november 2013;<br>
+2/1° het indicatief advies van het ondersteuningsnetwerk kinderopvang in het kader van het starterstraject, als dat van toepassing is;<br>
 3° voor groepsopvang:<br>
 a) een verslag over de infrastructuur met een advies infrastructuur;<br>
 b) het brandveiligheidsattest A of B;<br>
