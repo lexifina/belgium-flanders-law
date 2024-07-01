@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040003,
+  "title": "Ministerieel besluit van 2024-06-30 tot uitvoering van het besluit van de Vlaamse Regering van 19 april 2024 tot toekenning van steun aan ondernemingen voor ecologie-uitgaven, wat betreft de steun voor strategische ecologie-investeringen en milieustudies",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040003/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "18aa6093f4947a40c55eae27ecce4ad7566ccb3f586d2684b435a754442aaae6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040003&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2024-06-30",
+  "gazette": "2024-08-05",
+  "numac": 2024007251,
+  "document_start": "2024-07-01",
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
