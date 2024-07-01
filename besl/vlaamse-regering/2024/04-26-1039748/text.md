@@ -38,6 +38,16 @@ In artikel 7.46 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 6° in het vijfde lid, 4°, wordt het percentage “10%” vervangen door het percentage “9,62%”;<br>
 7° in het zesde lid, worden de woorden "derde en het vierde", vervangen door de woorden "vierde en het vijfde".
 
+### ART 3.
+
+In artikel 7.46 van hetzelfde besluit, gewijzigd bij artikel 2 van dit besluit, &nbsp;worden de volgende wijzigingen aangebracht:<br>
+1° tussen het vijfde en het zesde lid, worden twee leden ingevoegd, die luiden als volgt:&nbsp;<br>
+"In afwijking van artikel 6.60, §2, kan de verhuurder de opbrengst van de geïnjecteerde stroom forfaitair vaststellen als de huurder zich als netgebruiker registreert of blijft registreren op het injectiepunt. De opbrengst wordt op de volgende wijze berekend: &nbsp;<br>
+1° als de verhuurder de productieopbrengst op kwartaalbasis kent, het verschil op kwartaalbasis tussen de productieopbrengst van het fotovoltaïsche zonne-energiesysteem en het aandeel zelfverbruik van energie, vermeld in het vierde lid, vermenigvuldigd met de gemiddelde terugleververgoeding voor een enkelvoudige meter, uitgedrukt in cent per kWh, voor de periode in kwestie;<br>
+2° als de verhuurder de productieopbrengst van het fotovoltaïsch zonne-energiesysteem op jaarbasis kent, het verschil op kwartaalbasis tussen de jaarlijkse productieopbrengst van het fotovoltaïsche zonne-energiesysteem, verdeeld per jaarkwartaal op basis van de percentages vermeld in het vijfde lid, en het aandeel zelfverbruik van energie, vermeld in het vierde lid, vermenigvuldigd met de gemiddelde terugleververgoeding voor een enkelvoudige meter, uitgedrukt in cent per kWh, voor de periode in kwestie.<br>
+Het agentschap stelt de gemiddelde terugleververgoeding vermeld in het zesde lid, op kwartaalbasis vast.”;<br>
+2° in het bestaande zesde lid, dat het achtste lid wordt, worden de woorden “derde en het vierde” vervangen door de zinsnede “vierde, het vijfde en het zesde”.
+
 ### ART 4.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2024, met uitzondering van artikel 3, dat op 1 juli 2024 in werking treedt.
