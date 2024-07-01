@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039800,
+  "title": "Decreet van 2024-04-26 tot ondersteuning van omgevingsverenigingen en omgevingsprojecten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039800/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "26586402bd2f2cf1365335a23d87469b2d91728c1fc7af5b35928ec15cfc87e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039800&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2024-04-26",
+  "gazette": "2024-06-19",
+  "numac": 2024005649,
+  "document_start": "2024-07-01",
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
