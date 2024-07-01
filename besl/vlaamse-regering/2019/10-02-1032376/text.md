@@ -177,7 +177,8 @@ Zij draagt de titel "Vlaams minister van Mobiliteit en Openbare Werken".<br>
 7° het Agentschap voor Maritieme Dienstverlening en Kust;<br>
 8° de Vlaamse Waterweg nv;<br>
 9° de Vlaamse Havens;<br>
-10° het Eigen Vermogen Flanders Hydraulics.
+10° het Eigen Vermogen Flanders Hydraulics;<br>
+11° het Eigen Vermogen Xperta.
 
 ### ART 10.
 
