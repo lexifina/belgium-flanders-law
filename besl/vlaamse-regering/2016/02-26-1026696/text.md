@@ -13,8 +13,11 @@ In dit besluit wordt verstaan onder :<br>
 2° collectief overlegorgaan : het overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 3° collectieve inspraak : de collectieve inspraak, vermeld in artikel 30 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 4° decreet van 12 juli 2013 : het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+4°/1 decreet van 3 juni 2022: het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers;”;<br>
+4°/2 pleeggezin: een pleeggezin als vermeld in artikel 2, §1, 45°, van het decreet van 12 juli 2013;<br>
 5° gebruiker : de minderjarige persoon met een handicap die beschikt over een indicatiestelling als vermeld in artikel 20 van het decreet van 12 juli 2013;<br>
-5° /1 ...;<br>
+5°/1 gezinshuis: een kleinschalige vorm van residentiële ondersteuning, waarbij een gezinshuisouder minderjarige personen met een handicap in het eigen gezin opvangt, die de draagkracht van het doorsneepleeggezin overstijgt;<br>
+5°/2 gezinshuisouder: een personeelslid dat bezoldigd is en in voltijds dienstverband minderjarige personen met een handicap in het eigen gezin opvangt en begeleidt;<br>
 6° MFC : een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in artikel 2 van dit besluit;<br>
 6° /1 ...;<br>
 7° ministerieel besluit van 1 maart 2012 : het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden;<br>
@@ -41,7 +44,56 @@ Om erkend te worden en te blijven, moet een MFC voldoen aan de bepalingen, verme
 
 ### ART 5/1.
 
-...
+Overeenkomstig artikel 3 van het decreet van 3 juni 2022 controleert het MFC bij de aanstelling van elke nieuwe medewerker het goed en zedelijk gedrag van de betrokkene, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt.
+
+### ART 5/2.
+
+Een MFC kan een aanvraag indienen bij het agentschap om de typemodule verblijf in een gezinshuis aan te bieden. Het MFC specificeert in zijn aanvraag het aantal gezinshuizen waarvoor het een erkenning wil.<br>
+<br>
+Het agentschap bepaalt welke elementen de aanvraag, vermeld in het eerste lid, minimaal moet bevatten.<br>
+<br>
+Het agentschap beoordeelt de aanvraag, vermeld in het eerste lid. Als de aanvraag wordt goedgekeurd, wordt het MFC erkend om een typemodule verblijf in een gezinshuis aan te bieden. De erkenning bepaalt het aantal gezinshuizen dat het MFC kan aanbieden.
+
+### ART 5/3.
+
+§1. Een MFC dat erkend is om de typemodule verblijf in een gezinshuis aan te bieden, voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het MFC biedt aan de gezinshuisouder en al zijn gezinsleden een kwaliteitsvolle ondersteuning en begeleiding zodat de opvang en begeleiding in een gezinshuis daadwerkelijk inspelen op de behoeften van de minderjarige persoon met een handicap en bijdragen tot continuïteit in relaties, veiligheid en welzijn van alle betrokkenen;<br>
+2°&nbsp;&nbsp; &nbsp;het MFC staat in voor een correcte en passende informatieverstrekking aan de gezinshuisouder over het individuele functioneren van de kinderen en de samenwerking en is verantwoordelijk voor de opmaak van het handelingsplan, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+3°&nbsp;&nbsp; &nbsp;het MFC voorziet, al dan niet via structurele samenwerking met andere MFC’s binnen het werkingsgebied die verblijf aanbieden of waaraan een erkenning voor de typemodule verblijf in een gezinshuis is verleend, in een residentiële terugvalmogelijkheid voor de minderjarige persoon met een handicap die in een gezinshuis verblijft;<br>
+4°&nbsp;&nbsp; &nbsp;het MFC ziet erop toe dat het gezinshuis waar de minderjarige persoon met een handicap verblijft, in samenwerking met het MFC voldoet aan de bepalingen van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+5°&nbsp;&nbsp; &nbsp;het MFC werkt, minimaal rond de volgende opdrachten, structureel samen met de dienst voor pleegzorg uit het werkingsgebied en ook met andere MFC’s en voorzieningen van categorie 1 als vermeld in artikel 2, §1, 1°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp, uit het werkingsgebied waaraan een erkenning voor de typemodule verblijf in een gezinshuis is verleend:<br>
+a)&nbsp;&nbsp; &nbsp;de bekendmaking van zijn gezinshuis of gezinshuizen;<br>
+b)&nbsp;&nbsp; &nbsp;het werven en screenen van gezinshuisouders aan de hand van de voorwaarden, vermeld in paragraaf 3;<br>
+c)&nbsp;&nbsp; &nbsp;het oriënteren van minderjarigen naar een gezinshuis;<br>
+d)&nbsp;&nbsp; &nbsp;het organiseren van vorming voor gezinshuisouders;<br>
+e)&nbsp;&nbsp; &nbsp;het organiseren van professionaliserings-, uitwisselings- en intervisiemogelijkheden voor gezinshuisouders;<br>
+6°&nbsp;&nbsp; &nbsp;het MFC betaalt vanuit zijn werkingssubsidies als vermeld in artikel 16, eerste lid, 2°, van dit besluit, een kostenvergoeding aan de gezinshuisouder. De voormelde kostenvergoeding is uitsluitend bestemd als tegemoetkoming in de uitgaven die een gezinshuisouder maakt voor het verblijf en de zorg van de minderjarige persoon met een handicap;<br>
+7°&nbsp;&nbsp; &nbsp;het MFC sluit een overeenkomst met de gezinshuisouder waarin bepaald wordt dat het MFC de werkgever is van de gezinshuisouder en waarin afspraken zijn opgenomen over de voorwaarden, vermeld in punt 1° tot en met 6°.<br>
+<br>
+In het eerste lid wordt verstaan onder dienst voor pleegzorg: de dienst voor pleegzorg, vermeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+<br>
+§2. Een gezinshuis voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;in een gezinshuis worden maximaal zes minderjarigen begeleid en opgevangen, met inbegrip van de eigen kinderen en pleegkinderen. Per bezoldigde gezinshuisouder worden maximaal drie minderjarige personen met een handicap begeleid en opgevangen. De voormelde maxima gelden niet voor broers of zussen. De administrateur-generaal kan afwijkingen toestaan van het maximale aantal minderjarigen per gezinshuis en per gezinshuisouder na een gemotiveerde schriftelijke aanvraag van het MFC;<br>
+2°&nbsp;&nbsp; &nbsp;een gezinshuis werkt volgens de volgende principes:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de ouders en andere relevante betrokkenen uit het gezins- en opvoedingsmilieu van de minderjarige worden betrokken bij het dagelijkse leven van het gezinshuis;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;vanuit het dagelijkse leven wordt, in voorkomend geval, bij specifieke zorgbehoeften bijgeschakeld naar een meer gespecialiseerd aanbod;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;overeenkomstig artikel 3 van het decreet van 3 juni 2022 controleert het MFC van alle meerderjarige gezinsleden van een gezinshuis het goed en zedelijk gedrag van de betrokkene, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt.<br>
+<br>
+§3. Een gezinshuisouder beschikt over een menswetenschappelijk diploma, minimaal van bachelorniveau, of kan aantonen over voldoende relevante competenties te beschikken om op dat niveau te functioneren.<br>
+<br>
+Een gezinshuisouder wordt geselecteerd op basis van een onderbouwd screeningsproces, waarbij rekening gehouden wordt met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de pedagogische draagkracht om de opgevangen minderjarigen een stabiel leefklimaat te bieden;<br>
+2°&nbsp;&nbsp; &nbsp;de materiële mogelijkheden;<br>
+3°&nbsp;&nbsp; &nbsp;de nodige competenties en persoonlijkheidskenmerken om adequaat om te gaan met complexe opvoedingssituaties in een gezinshuis;<br>
+4°&nbsp;&nbsp; &nbsp;de gezinssituatie en sociale context van het gezin.<br>
+<br>
+Bij de toetsing van de kenmerken van een minderjarige aan het profiel van de gezinshuisouder en zijn gezin wordt, in voorkomend geval, rekening gehouden met de bevindingen uit voorgaande hulpverlening. De voorziening waakt erover dat de ideologische, filosofische en godsdienstige overtuiging van de minderjarige en het gezin van oorsprong gerespecteerd worden.
+
+### ART 5/4.
+
+Voor de functie als gezinshuisouder wordt per voltijdsequivalent een puntwaarde vastgesteld conform barema B1C, vermeld in tabel 1, die is opgenomen in bijlage 1, die bij dit besluit is gevoegd, verhoogd met 20%. De puntwaarde voor de functie gezinshuisouder wordt vastgesteld op 85,2 personeelspunten.<br>
+<br>
+De erkenningen of de wijzigingen van erkenning worden toegekend conform de bepalingen van hoofdstuk II van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.
 
 ## HOOFDSTUK 3 Doelgroep
 
@@ -372,185 +424,119 @@ De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de  
 
 ### BIJLAGE
 
-<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Tabel 1. De tabel, vermeld in artikel 4, tweede lid</span></span></span><br>
-&nbsp;
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+Tabel 1. De tabel, vermeld in artikel 4, tweede lid, en artikel 5/4, eerste lid
+<table cellspacing="0" style="border-collapse:collapse; width:517px">
 	<tbody>
 		<tr>
-			<td>barema</td>
-			<td>functiecode</td>
-			<td>Functiegroep</td>
-			<td>puntenwaarde</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:97px">barema</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:320px">functiegroep</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:100px">puntenwaarde</td>
 		</tr>
 		<tr>
-			<td>barema 1</td>
-			<td>L4</td>
-			<td>logistiek personeel klasse 4</td>
-			<td>53,5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">L4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">logistiek personeel klasse 4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">53,5</td>
 		</tr>
 		<tr>
-			<td>barema 2</td>
-			<td>L4 ond II</td>
-			<td>logistiek personeel onderhoud cat. II</td>
-			<td>53,5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">L3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">logistiek personeel klasse 3 (in dienst na 1 november 1993)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">56</td>
 		</tr>
 		<tr>
-			<td>barema 3</td>
-			<td>L4 ond III</td>
-			<td>logistiek personeel onderhoud cat. III</td>
-			<td>53,5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">L2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">logistiek personeel klasse 2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">61</td>
 		</tr>
 		<tr>
-			<td>barema 4</td>
-			<td>L3 ond IV</td>
-			<td>logistiek personeel onderhoud cat. IV</td>
-			<td>56</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">A1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">administratief + logistiek personeel klasse 1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">71</td>
 		</tr>
 		<tr>
-			<td>barema 5</td>
-			<td>L2 ond V</td>
-			<td>logistiek personeel onderhoud cat. V</td>
-			<td>61</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">A2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">administratief + logistiek personeel klasse 2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">61</td>
 		</tr>
 		<tr>
-			<td>barema 6</td>
-			<td>L3a</td>
-			<td>logistiek personeel klasse 3 (in dienst voor 1/11/93)</td>
-			<td>56</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">MV2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">verzorgend personeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">67</td>
 		</tr>
 		<tr>
-			<td>barema 7</td>
-			<td>L3</td>
-			<td>logistiek personeel klasse 3 (in dienst na 1/11/93)</td>
-			<td>56</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B2B</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">begeleidend en verzorgend personeel klasse 2B</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">61</td>
 		</tr>
 		<tr>
-			<td>barema 8</td>
-			<td>L2</td>
-			<td>logistiek personeel klasse 2</td>
-			<td>61</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B2A</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">begeleidend en verzorgend personeel klasse 2A</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">63,5</td>
 		</tr>
 		<tr>
-			<td>barema 9</td>
-			<td>A1</td>
-			<td>administratief + logistiek personeel klasse 1</td>
-			<td>71</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B1c</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">opvoedend personeel klasse 1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">71</td>
 		</tr>
 		<tr>
-			<td>barema 10</td>
-			<td>A2</td>
-			<td>administratief + logistiek personeel klasse 2</td>
-			<td>61</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B1b</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">hoofdopvoeder</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">79</td>
 		</tr>
 		<tr>
-			<td>barema 11</td>
-			<td>A2 boekh Kl II</td>
-			<td>administratief personeel boekhouder klasse II</td>
-			<td>61,5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B1a</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">ondersteunend kaderpersoneel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">86</td>
 		</tr>
 		<tr>
-			<td>barema 13</td>
-			<td>MV2</td>
-			<td>verzorgend personeel</td>
-			<td>67</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">B1a BIS</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">opvoeder-groepschef-BIS</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">89</td>
 		</tr>
 		<tr>
-			<td>barema 15</td>
-			<td>B2B</td>
-			<td>begeleidend en verzorgend personeel klasse 2B</td>
-			<td>61</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">MV1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">sociaal paramedisch en therapeutisch personeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">71</td>
 		</tr>
 		<tr>
-			<td>barema 16</td>
-			<td>B2A</td>
-			<td>begeleidend en verzorgend personeel klasse 2A</td>
-			<td>63,5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">L1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">licentiaten en tandarts</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">90</td>
 		</tr>
 		<tr>
-			<td>barema 17</td>
-			<td>B1c</td>
-			<td>opvoedend personeel klasse 1</td>
-			<td>71</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">K5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">onderdirecteur</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">90</td>
 		</tr>
 		<tr>
-			<td>barema 18</td>
-			<td>B1b</td>
-			<td>hoofdopvoeder</td>
-			<td>79</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">K3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">directeur 30-59 bedden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">93,5</td>
 		</tr>
 		<tr>
-			<td>barema 19</td>
-			<td>B1a</td>
-			<td>ondersteunend kaderpersoneel</td>
-			<td>86</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">K2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">directeur 60-89 bedden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">96,5</td>
 		</tr>
 		<tr>
-			<td>barema 19-BIS</td>
-			<td>B1a BIS</td>
-			<td>opvoeder-groepschef-BIS</td>
-			<td>89</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">K1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">directeur meer dan 90 bedden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">100</td>
 		</tr>
 		<tr>
-			<td>barema 20</td>
-			<td>MV1</td>
-			<td>sociaal paramedisch en therapeutisch personeel</td>
-			<td>71</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">G1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">geneesheer-omnipracticus</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">108</td>
 		</tr>
 		<tr>
-			<td>barema 21</td>
-			<td>L1</td>
-			<td>licentiaten en tandarts</td>
-			<td>90</td>
-		</tr>
-		<tr>
-			<td>barema 22</td>
-			<td>K5</td>
-			<td>onderdirecteur</td>
-			<td>90</td>
-		</tr>
-		<tr>
-			<td>barema 23</td>
-			<td>K3</td>
-			<td>directeur 30-59 bedden</td>
-			<td>93,5</td>
-		</tr>
-		<tr>
-			<td>barema 24</td>
-			<td>K2</td>
-			<td>directeur 60-89 bedden</td>
-			<td>96,5</td>
-		</tr>
-		<tr>
-			<td>barema 25</td>
-			<td>K1</td>
-			<td>directeur meer dan 90 bedden</td>
-			<td>100</td>
-		</tr>
-		<tr>
-			<td>barema 26</td>
-			<td>G1</td>
-			<td>geneesheer-omnipracticus</td>
-			<td>108</td>
-		</tr>
-		<tr>
-			<td>barema 27</td>
-			<td>GS</td>
-			<td>geneesheer-specialist</td>
-			<td>143,5</td>
-		</tr>
-		<tr>
-			<td>barema 28</td>
-			<td>B2B</td>
-			<td>ADL-assistent</td>
-			<td>61</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; width:97px">GS</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:320px">geneesheer-specialist</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; width:100px">143,5</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-<br>
 Tabel 2. Vorken per ondersteuningsfunctie. De tabel, vermeld in artikel 35, derde lid
-<table border="1" style="-webkit-text-stroke-width:0px; font-family:'Times New Roman'; letter-spacing:normal; text-indent:0px; text-transform:none; widows:1; word-spacing:0px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>ondersteuningsfunctie</td>
