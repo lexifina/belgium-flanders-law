@@ -2,16 +2,16 @@
   "codex_id": 1026509,
   "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende de erkenning en subsidiëring van milieu- en natuurverenigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026509/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "19ef2423865f95d0d74e559f5702010ed223cdf696b4db9906603fc94badad84",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026509/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "cca2c851d47f5be7204c7c9073b3db5a97c2cfa31cd06ad6dddd1cbf1a554963",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026509&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2024-07-01",
   "made": "2015-12-18",
   "gazette": "2016-02-26",
   "numac": 2016035174,
   "document_start": "2016-01-01",
   "document_end": "2024-06-30",
-  "in_force": "2020-01-01",
+  "in_force": "2024-07-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
