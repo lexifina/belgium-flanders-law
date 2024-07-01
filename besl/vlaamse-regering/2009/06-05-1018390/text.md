@@ -42,7 +42,7 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 26° RVA: de Rijksdienst voor Arbeidsvoorziening;<br>
 27° werkervaringsstage: een stage voor een niet-werkende werkzoekende als vermeld in punt 8°, a), in het kader van een traject naar betaald werk. Tijdens de werkervaringsstage voert de stagair acties uit op een reële werkvloer en ligt de focus niet primair op technische competentieversterking;<br>
 28° ...;<br>
-29° beroepsinlevingsstage: een betaalde opleiding op de werkvloer waarbij de cursist competenties en werkervaring verwerft en waarbij de VDAB geen begeleiding biedt;<br>
+29° beroepsinlevingsstage: een betaalde stage op de werkvloer waarbij de stagiair competenties en werkervaring verwerft en waarbij de VDAB geen begeleiding biedt;<br>
 30° tewerkstellingsbreuk: het gemiddeld aantal uren per week van de werknemer gedeeld door het gemiddeld aantal uren per week van de maatpersoon;<br>
 31° kwetsbare werknemer:<br>
 a) de volgende verplicht ingeschreven deeltijdse werknemers:<br>
@@ -117,7 +117,7 @@ De VDAB stelt, na advies van de raad van bestuur, een charter op dat de   rechte
 2° een forfaitaire vergoeding voor verplaatsingen heen en terug, tussen zijn verblijfplaats en de opleidingsplaats. Die vergoeding bedraagt 0,17 euro per kilometer. Bij een verplaatsing met andere openbare vervoersmaatschappijen dan de openbare vervoersmaatschappijen, vermeld in punt 1°, betaalt de cursist zelf zijn abonnement. Als de forfaitaire verplaatsingsvergoeding niet volstaat om de kosten te dekken, betaalt de VDAB de effectieve abonnementskosten;&nbsp;De cursist verantwoordt de meerkosten aan de hand van betalingsbewijzen.<br>
 Het bedrag van de voormelde forfaitaire vergoeding voor verplaatsingen heen en terug wordt jaarlijks op 1 januari verhoogd met 2%.<br>
 3° ...<br>
-4° de terugbetaling van de effectieve uitgaven voor kinderopvang voor alle niet-schoolgaande kinderen tot ze toegelaten worden tot het kleuteronderwijs, en voor alle schoolgaande kinderen tot het einde van het basisonderwijs. Voor alle schoolgaande kinderen geldt een maximumbedrag, conform artikel 30, § 2, eerste lid, 2°, a), en § 3, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, voor kinderopvang tijdens schoolvrije dagen. Die uitgaven worden alleen terugbetaald voor de dagen waarop effectief beroepsopleiding wordt gevolgd. Op dagen van collectieve sluiting van de opleidingsinstelling of de werkgever of de leerwerkplek worden er geen uitgaven terugbetaald. De uitgaven worden terugbetaald als aan de volgende twee voorwaarden is voldaan:<br>
+4° de terugbetaling van de effectieve uitgaven voor kinderopvang voor alle niet-schoolgaande kinderen tot ze toegelaten worden tot het kleuteronderwijs, en voor alle schoolgaande kinderen tot het einde van het basisonderwijs. Voor alle schoolgaande kinderen geldt een maximumbedrag, conform artikel 18, eerste lid, 2°, a), en vierde lid, van het Overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021, voor kinderopvang tijdens schoolvrije dagen. Die uitgaven worden alleen terugbetaald voor de dagen waarop effectief beroepsopleiding wordt gevolgd. Op dagen van collectieve sluiting van de opleidingsinstelling of de werkgever of de leerwerkplek worden er geen uitgaven terugbetaald. De uitgaven worden terugbetaald als aan de volgende twee voorwaarden is voldaan:<br>
 a) de uitgaven zijn betaald aan een van de volgende instellingen:<br>
 1) instellingen of opvangvoorzieningen die erkend zijn of gesubsidieerd of gecontroleerd worden door Kind en Gezin;<br>
 2) instellingen of opvangvoorzieningen die erkend zijn of gesubsidieerd of gecontroleerd worden door de lokale openbare besturen of door de besturen van de gemeenschappen of gewesten;<br>
@@ -166,7 +166,9 @@ De laatste dag waarop een traject voor een knelpuntopleiding, die recht geeft op
 <br>
 § 4. De vergoedingen en de premie, vermeld in paragraaf 1 tot en met 3, zijn ten laste van de VDAB.<br>
 <br>
-§ 5. De vergoedingen en de premie, vermeld in dit artikel, worden één keer per maand betaald. Ze worden overgeschreven op een bankrekening.
+§ 5. De vergoedingen en de premie, vermeld in dit artikel, worden één keer per maand betaald. Ze worden overgeschreven op een bankrekening.<br>
+<br>
+§6. De cursist die verbonden is door een overeenkomst in het kader van een alternerende opleiding die voldoet aan de voorwaarden, vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, heeft geen recht op de vergoedingen, vermeld in paragraaf 2, 1° en 2°, voor de verplaatsing naar de onderneming als hij daarvoor krachtens een andere regelgeving of conventioneel al een vergoeding ontvangt van de onderneming.
 
 ### ART. 7.
 
@@ -174,11 +176,14 @@ De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende   en d
 
 ### ART. 8.
 
-De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende   en de verplicht ingeschreven werkzoekende die een opleiding volgen in een   onderwijsinstelling als vermeld in artikel 87, heeft recht op :<BR>1° de   vergoedingen en de premie, vermeld in artikel 6;<BR>2° de terugbetaling van het   inschrijvingsgeld als andere tegemoetkomingen voor studiefinanciering niet   mogelijk zijn;<BR>3° de terugbetaling van de studiekosten. De VDAB bepaalt   jaarlijks het bedrag van de studiekosten op basis van het cursusmateriaal, de   stagekledij en de verplichte studieactiviteiten.
+De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die een opleiding volgen in een onderwijsinstelling als vermeld in artikel 87, heeft recht op :<br>
+1° de vergoedingen en de premie, vermeld in artikel 6;<br>
+2° de terugbetaling van het inschrijvingsgeld als andere tegemoetkomingen voor studiefinanciering niet mogelijk zijn;<br>
+3° de terugbetaling van de studiekosten. De VDAB bepaalt voor het hoger onderwijs jaarlijks het bedrag van de studiekosten op basis van het cursusmateriaal, de stagekledij en de verplichte studieactiviteiten.
 
 ### ART. 9.
 
-De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende   en de verplicht ingeschreven werkzoekende die een opleiding volgen die past in   een door de VDAB erkend traject naar werk, in een centrum voor   volwassenenonderwijs, als vermeld in artikel 109, § 3, 8°, van het decreet van   15 juni 2007 betreffende het volwassenenonderwijs of aan een hogeschool of een   universiteit als werkstudent, als vermeld in artikel 2, 22°, van het decreet van   14 maart 2008 betreffende de financiering van de werking van de hogescholen en   de universiteiten in Vlaanderen, heeft gedurende een jaar recht op :<BR>1° de   vergoedingen en de premie, vermeld in artikel 6;<BR>2° de terugbetaling van het   inschrijvingsgeld;<BR>3° de terugbetaling van het cursusmateriaal.
+...
 
 ### ART. 10.
 
@@ -188,13 +193,18 @@ De VDAB kan, binnen de uitgetrokken budgettaire middelen, overeenkomsten   sluit
 
 ### ART. 11.
 
-De VDAB verzekert de cursist, vermeld in artikel 6 tot en met 9, tegen ongevallen die zich tijdens de opleiding, de stage of op de weg van en naar de opleidingsplaats of stageplaats voordoen. De verzekering verleent dezelfde waarborgen als die welke zijn opgenomen in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst, die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+De VDAB verzekert de cursist, vermeld in artikel 6 tot en met 8 van dit besluit, tegen ongevallen die zich tijdens de opleiding of op de weg van en naar de opleidingsplaats voordoen. De voormelde verzekering verleent dezelfde waarborgen als de waarborgen die zijn opgenomen in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan.<br>
+&nbsp;<br>
+Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst, die het aan te leren beroep uitoefent, recht heeft.<br>
 <br>
-De volgende cursisten vallen niet onder de toepassing van het eerste lid :<br>
-1° de werknemer die op verzoek van zijn werkgever een opleiding volgt als vermeld in artikel 70;<br>
-2° de cursist die een zelfstandige beroepsactiviteit uitoefent;<br>
-3° de leerling;<br>
-4° de cursist die een alternerende opleiding volgt als vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.
+De VDAB verzekert de cursist, vermeld in artikel 6 tot en met 8 van dit besluit, tegen arbeidsongevallen die zich tijdens de stage of op de weg van en naar de stageplaats voordoen, zoals bepaald in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan.<br>
+<br>
+De volgende cursisten vallen niet onder de toepassing van het eerste tot en met het derde lid:<br>
+1°&nbsp;&nbsp; &nbsp;de werknemer die op verzoek van zijn werkgever een opleiding volgt conform artikel 70 van dit besluit;<br>
+2°&nbsp;&nbsp; &nbsp;de cursist die een zelfstandige beroepsactiviteit uitoefent;<br>
+3°&nbsp;&nbsp; &nbsp;de leerling;<br>
+4°&nbsp;&nbsp; &nbsp;de cursist die een alternerende opleiding volgt als vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
+5°&nbsp;&nbsp; &nbsp;de cursist die een opleiding volgt als vermeld in artikel 1/1 van de Arbeidsongevallenwet van 10 april 1971, en voor wie de VDAB niet als werkgever is aangewezen conform artikel 1 van het koninklijk besluit van 29 juli 2019 tot uitvoering van de afdeling 1 van het hoofdstuk 2 van de wet van 21 december 2018 houdende diverse bepalingen inzake sociale zaken betreffende de ‘kleine statuten’.
 
 ### ART. 12.
 
@@ -554,13 +564,14 @@ De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reg
 ### ART 65/1.
 
 De VDAB kan beslissen om aan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, gedurende drie jaar:<br>
-1°&nbsp;&nbsp; &nbsp;geen van de de volgende opleidingen en stages toe te kennen:<br>
+1°&nbsp;&nbsp; &nbsp;geen van de volgende opleidingen en stages toe te kennen:<br>
 a)&nbsp;&nbsp; &nbsp;een beroepsverkennende stage als vermeld in artikel 41 tot en met 44;<br>
 b)&nbsp;&nbsp; &nbsp;een opleidingsstage als vermeld in artikel 84 tot en met 84/8;<br>
 c)&nbsp;&nbsp; &nbsp;een werkervaringsstage als vermeld in artikel 111/0/1 tot en met 111/0/12;&nbsp;<br>
 d)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding als vermeld in artikel 90 tot en met 98;<br>
 e)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding plus als vermeld in artikel 98/1 tot en met 98/4;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;geen goedkeuring te geven voor een opleidingsplan voor een beroepsinlevingsstage als vermeld in artikel 111/0/24.&nbsp;<br>
+f) een leerjob als vermeld in artikel 1, 7°, van het besluit van de Vlaamse Regering van 8 september 2023 tot regeling van de leerjobs;<br>
+2°&nbsp;&nbsp; &nbsp;geen goedkeuring te geven voor een stageplan voor een beroepsinlevingsstage als vermeld in artikel 111/0/24.&nbsp;<br>
 <br>
 De periode van drie jaar, vermeld in het eerste lid, begint op de datum van de kennisgeving van de beslissing, vermeld in het eerste lid.<br>
 <br>
@@ -809,7 +820,7 @@ In afwijking van het eerste lid, kan de werkgever met de cursist die in zijn ond
 
 ### ART. 95.
 
-De werkgever verzekert de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats. De verzekering verleent dezelfde waarborgen als de waarborgen, vermeld in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+De werkgever verzekert de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats zoals bepaald in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan<br>
 <br>
 De cursist die in het kader van zijn individuele beroepsopleiding schade berokkent aan de werkgever of aan derden, is alleen aansprakelijk in geval van bedrog, een zware fout of een herhaalde lichte fout.
 
@@ -1039,7 +1050,8 @@ Dit hoofdstuk is niet van toepassing op:<br>
 4° de opleidingsactiviteiten die plaatsvinden in het kader van een arbeidsovereenkomst als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
 5° de bepalingen ingesteld door of krachtens decreten, ordonnanties of collectieve arbeidsovereenkomsten die bij een paritair orgaan gesloten zijn conform de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;<br>
 6° de stagiairs die zich voorbereiden op de uitoefening van een vrij beroep of een intellectueel dienstverlenend beroep en die tijdens hun stage onderworpen zijn aan de deontologie van een orde die of een instituut dat opgericht is door wettelijke of reglementaire bepalingen;<br>
-7° de tewerkstelling van studenten conform artikel 120 tot en met 130ter van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.
+7° de tewerkstelling van studenten conform artikel 120 tot en met 130ter van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+8° de opleidingsactiviteiten met het oog op het behalen van functiespecifieke attesteringen die het stagebedrijf vereist om de functie in kwestie te mogen uitvoeren.
 
 ### ART 111/0/22.
 
@@ -1051,15 +1063,15 @@ Voor een verplicht ingeschreven werkzoekende gelden al de volgende voorwaarden:<
 
 De beroepsinlevingsstage kan uitgevoerd worden bij een werkgever die op een van de volgende locaties gevestigd is:<br>
 1° een vestigingsplaats in het Vlaamse Gewest;<br>
-2° een vestigingsplaats in het Brusselse Hoofdstedelijke Gewest, op voorwaarde dat de VDAB er een Nederlandstalig opleidingsplan heeft goedgekeurd.<br>
+2° een vestigingsplaats in het Brusselse Hoofdstedelijke Gewest, op voorwaarde dat de VDAB er een Nederlandstalig stageplan heeft goedgekeurd.<br>
 <br>
-De werkgever bij wie de werkzoekende de stage aanvat, staat in voor de begeleiding van de werkzoekende op de werkvloer.
+De werkgever bij wie de stagiair de stage aanvat, staat in voor de begeleiding van de stagiair op de werkvloer.
 
 ### ART 111/0/24.
 
-Het opleidingsplan dat tussen de partijen overeengekomen is, wordt voorafgaand aan de uitvoering van de beroepsinlevingsstage goedgekeurd door de VDAB.<br>
+Het stageplan dat tussen de partijen overeengekomen is, wordt voorafgaand aan de uitvoering van de beroepsinlevingsstage goedgekeurd door de VDAB.<br>
 <br>
-Het opleidingsplan omvat:<br>
+Het stageplan omvat:<br>
 1° de aan te leren competenties;<br>
 2° de wijze waarop die competenties aangeleerd worden;<br>
 3° een motivering voor de termijn van de beroepsinlevingsstage, die tussen de partijen overeengekomen is;<br>
@@ -1077,7 +1089,7 @@ Voor de uitvoering van de beroepsinlevingsstage wordt tussen de werkgever en de 
 6° de dagelijkse en wekelijkse duur van de aanwezigheid in de onderneming;<br>
 7° de vergoeding;<br>
 8° de manier waarop een einde kan worden gemaakt aan de beroepsinlevingsstage;<br>
-9° het opleidingsplan dat tussen de partijen overeengekomen is en dat de VDAB goedgekeurd heeft;<br>
+9° het stageplan dat tussen de partijen overeengekomen is en dat de VDAB goedgekeurd heeft;<br>
 10° de rechten en plichten van de partijen.
 
 ### ART 111/0/26.
@@ -1090,15 +1102,15 @@ De beroepsinlevingsstage duurt maximaal zes maanden.
 
 ### ART 111/0/28.
 
-De werkgever verzekert de stagiair die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een beroepsinlevingsstage volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats. De verzekering verleent dezelfde waarborgen als de waarborgen, vermeld in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+De werkgever verzekert de stagiair die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een beroepsinlevingsstage volgt, tegen arbeidsongevallen tijdens de stage en op de weg van en naar de stageplaats, zoals bepaald in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan.<br>
 <br>
-De werkgever verzekert de stagiair die in het kader van zijn beroepsinlevingsstage schade berokkent aan de werkgever of aan derden.
+De werkgever sluit een verzekering af voor de dekking van haar burgerlijke aansprakelijkheid ten aanzien van de stagiair en derden, en voor de dekking van de burgerlijke aansprakelijkheid van de stagiair ten aanzien van de werkgever en derden ten gevolge van schade berokkend tijdens de uitvoering van de beroepsinlevingsstage, behoudens voor bedrog, zware fout of een herhaalde lichte fout.
 
 ### ART 111/0/29.
 
 Elke partij kan het beroepsinlevingscontract eenzijdig beëindigen met een opzeggingstermijn van drie dagen, zonder dat er een schadevergoeding verschuldigd is.<br>
 <br>
-De stagiair kan het beroepsinlevingscontract met een opzeggingstermijn van één dag beëindigen, zonder dat hij een schadevergoeding verschuldigd is, wanneer als de stagiair een arbeidsovereenkomst heeft gesloten als vermeld in artikel 2 en 3 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
+De stagiair kan het beroepsinlevingscontract met een opzeggingstermijn van één dag beëindigen, zonder dat hij een schadevergoeding verschuldigd is, als de stagiair een arbeidsovereenkomst heeft gesloten als vermeld in artikel 2 en 3 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
 <br>
 De partijen kunnen in onderling overleg het beroepsinlevingscontract beëindigen zonder termijn of schadevergoeding.
 
