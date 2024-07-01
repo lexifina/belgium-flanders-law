@@ -27,44 +27,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° vergroening: de vervanging van het gebruik van fossiele brandstoffen door het gebruik van groene warmte, groene koude, groene stroom, groene waterstof, blauwe waterstof of restwarmte of -koude. Ook elektrificatie wordt beschouwd als vergroening. Het gebruik van vaste of vloeibare biomassa die niet voldoet aan de duurzaamheidscriteria van RED II, en energie uit omgevingslucht of stortgas komen niet in aanmerking;<br>
-2° verbetering van de energie-efficiëntie: een toename van de energie-efficiëntie ten gevolge van technologische, gedrags- en/of economische veranderingen;<br>
-3° groene waterstof: waterstof geproduceerd uit groene stroom;<br>
-4° blauwe waterstof: waterstof geproduceerd uit fossiele brandstoffen met afvang van koolstofemissies en permanente opslag of gebruik van de afgevangen koolstofemissies.
+...
 
 ### ART 2.
 
-§1. Ter uitvoering van het artikel 44 van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest wordt de steun aan ondernemingen voor bepaalde thema’s toegekend via een oproep en een budgettaire enveloppe waarbij er wordt afgeweken van een aantal voorwaarden opgelegd in het voormeld besluit.<br>
-<br>
-De subsidie wordt toegekend voor de thema’s vergroening en verbetering energie-efficiëntie. De minister, bevoegd voor de economie, kan na een evaluatie van de steunmaatregel thema’s schrappen of toevoegen.<br>
-<br>
-De oproep loopt van 12 december 2022 tot 31 december 2024 of tot de uitputting van de budgettaire enveloppe.&nbsp;<br>
-<br>
-§2. De afwijkingen, vermeld in paragraaf 1, eerste lid, zijn de volgende:<br>
-1° het project moet geen proces-geïntegreerde oplossing bieden in afwijking van artikel 5, eerste lid, 1°;<br>
-2° verenigingen zonder winstoogmerk met economische activiteit komen in aanmerking in afwijking van artikel 6/1;<br>
-3° de onderneming moet geen haalbaarheidsstudie uitvoeren in afwijking van artikel 11;<br>
-4° de ecologie-investeringen starten binnen twaalf maanden na de beslissing tot toekenning van de steun in afwijking van artikel 15, eerste lid;<br>
-5° het Agentschap Innoveren en Ondernemen kan de termijn van twaalf maanden verlengen met maximaal zes maanden in afwijking van artikel 15, tweede lid;<br>
-6° ecologie-investeringen over het thema vergroening evenaren de stand van techniek in afwijking van artikel 16, eerste lid, 3°;<br>
-7° ecologie-investeringen die opgenomen zijn op de limitatieve technologieënlijst, die als bijlage is gevoegd bij het ministerieel besluit van 24 januari 2011 tot uitvoering van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest komen niet in aanmerking voor steun in afwijking van artikel 5, eerste lid, 1°, en artikel 17, eerste lid;<br>
-8° wettelijk verplichte investeringen komen niet in aanmerking voor steun in afwijking van artikel 17, eerste lid;<br>
-9° de in aanmerking komende kosten bedragen minimaal 50.000 euro in afwijking van artikel 19, eerste lid;<br>
-10° het totale bedrag aan toegekende subsidies aan een onderneming voor de oproep bedraagt 1.000.000 euro en is van toepassing naast het maximale subsidiebedrag, vermeld in artikel 22, tweede lid;<br>
-11° alleen de minister, bevoegd voor de economie, beslist over de steuntoekenning in afwijking van artikel 29;<br>
-12° de subsidie wordt aan de onderneming uitbetaald in twee schijven in afwijking van artikel 37:<br>
-b) 50% op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie, op voorwaarde dat de onderneming de volgende twee voorwaarden vervult:<br>
-1) de onderneming vraagt de uitbetaling van de schijf aan;<br>
-2) de onderneming heeft de ecologie-investeringen voor 50% uitgevoerd;<br>
-c) 50 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie en na de beëindiging van de ecologie-investeringen, op voorwaarde dat de onderneming de volgende voorwaarden vervult:<br>
-1) de onderneming vraagt de uitbetaling van de schijf aan;<br>
-2) de onderneming heeft de ecologie-investeringen volledig uitgevoerd en de ecologie-investeringen worden in en door de onderneming geëxploiteerd.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 12 december 2022.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van dit besluit.
+...
