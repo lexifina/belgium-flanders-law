@@ -11,15 +11,16 @@
 In dit besluit wordt verstaan onder :<br>
 1° agentschap : het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 2° ambulante begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de persoon met een handicap of zijn netwerk zich naar de hulpverlener verplaatst;<br>
-3° ambulante outreach : de kennisoverdracht van minimaal één uur en maximaal twee uur naar een groep van minimaal drie ondersteuners van personen met een handicap die behoefte hebben aan handicapspecifieke knowhow en waarbij de ondersteuners zich naar de hulpverlener verplaatsen;<br>
+3° ambulante outreach :&nbsp;het overbrengen van handicapspecifieke kennis en expertise over de ondersteuning van personen met een handicap of vermoeden van handicap aan professionals of aan ondersteuners van personen met een handicap om die actoren te versterken in hun hulp- en dienstverlening aan personen met een handicap of vermoeden van handicap. De outreach duurt minimaal één en maximaal twee uur en de ontvangers van de outreach verplaatsen zich naar de aanbieder van de outreach;<br>
 4° dagopvang : de ondersteuning overdag voor een aangepaste opvang of een aangepaste dagbesteding;<br>
 5° mobiele begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de hulpverlener zich naar de persoon met een handicap of zijn netwerk verplaatst;<br>
-6° mobiele outreach : de kennisoverdrachtvan minimaal één uur en maximaal twee uur naar een groep van minimaal drie ondersteuners van personen met een handicap die behoefte hebben aan handicapspecifieke knowhow en waarbij de hulpverlener zich naar de ondersteuners verplaatst;<br>
+6° mobiele outreach :&nbsp;het op locatie overbrengen van handicapspecifieke kennis en expertise over de ondersteuning van personen met een handicap of vermoeden van handicap aan professionals of aan ondersteuners van personen met een handicap om die actoren te versterken in hun hulp- en dienstverlening aan personen met een handicap of vermoeden van handicap. De outreach duurt minimaal één en maximaal twee uur;<br>
 7° verblijf : het verblijf met overnachting, met inbegrip van de opvang en ondersteuning gedurende de ochtend en de avonduren;<br>
 8° rechtstreeks toegankelijke hulp : de hulpverlening die is bepaald in artikel 1, 2° tot 7° beperkt in tijd, frequentie en intensiteit en waarvoor de persoon met een handicap geen aanvraag tot ondersteuning bij het agentschap moet indienen;<br>
 9° persoon met een handicap : elke persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of elke persoon met een vermoeden van zo'n handicap;<br>
 10° groepsbegeleiding: de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur van twee of meer personen met een handicap of hun netwerk;<br>
-11° globale individuele ondersteuning: de ondersteuning die eerder ruimer is en verschillende levensdomeinen kan omvatten. De aard van de ondersteuning kan verschillen en de verschillende vormen van ondersteuning kunnen door elkaar lopen: stimulatie, coaching, training en assistentie bij activiteiten.
+11° globale individuele ondersteuning: de ondersteuning die eerder ruimer is en verschillende levensdomeinen kan omvatten. De aard van de ondersteuning kan verschillen en de verschillende vormen van ondersteuning kunnen door elkaar lopen: stimulatie, coaching, training en assistentie bij activiteiten.<br>
+12° anonieme rechtstreeks toegankelijke hulp: een specifieke vorm van rechtstreeks toegankelijke ondersteuning waarbij cliënten éénmalig of tot maximaal 3 keer kunnen participeren aan collectief georganiseerde momenten waarop handicapspecifieke informatie op maat, onthaal, ontmoeting en laagdrempelige ondersteuning wordt geboden zonder dat hiervoor een registratie op naam of rijksregisternummer nodig is en zonder dat hiervoor een IDO moet worden opgemaakt. Eén sessie anonieme rechtstreeks toegankelijke hulp duurt 2 uur.
 
 ### ART. 2.
 
@@ -51,6 +52,18 @@ Bij het verlenen van een erkenning wordt rekening gehouden met al de volgende cr
 
 ## Afdeling 1 Erkenning
 
+### ART 2/1.
+
+Een voorziening voor de uitbouw van rechtstreeks toegankelijke hulp kan erkend worden en kan erkend blijven als ze voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp; ze biedt ondersteuning aan die voldoet aan al de volgende voorwaarden:<br>
+a)&nbsp; de hulp is snel en flexibel inzetbaar;<br>
+b)&nbsp; de hulp is laagdrempelig toegankelijk en nabij;<br>
+c)&nbsp; de hulp is vraaggericht en op maat;<br>
+d)&nbsp; de hulp is geïntegreerd in en afgestemd op ondersteuning die niet wordt gesubsidieerd krachtens het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2°&nbsp; ze volgt nieuwe ontwikkelingen over het beleid rond personen met een handicap op en speelt daar proactief op in met eigen nieuwe ontwikkelingen;<br>
+3°&nbsp; ze volgt de intersectorale evoluties op en engageert zich in bestaande en nieuwe sectorale en intersectorale samenwerkingen en netwerken.<br>
+&nbsp;
+
 ### ART. 3.
 
 De erkenning wordt uitgedrukt in een aantal personeelspunten, met een minimum van vijfendertig personeelspunten, die moeten worden verantwoord door de effectief aangeboden ondersteuning.<br>
@@ -59,7 +72,7 @@ In afwijking van het eerste lid geldt voor de erkenning, vermeld in artikel 2, t
 
 ### ART. 4.
 
-Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van de algemene regels inzake het verlenen van vergunningen en erkenningen door   het Vlaams Agentschap voor Personen met een Handicap, met uitzondering van   artikel 2 tot en met 8 en artikel 11, b) en c), en het besluit van de Vlaamse   Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en   kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van   personen met een handicap, met uitzondering van artikel 12 tot en met 16, zijn   van toepassing op de erkenning.<BR>
+Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, met uitzondering van artikel 2 tot en met 8 en artikel 11, b) en c), en het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, met uitzondering van artikel 12 tot en met 16, zijn van toepassing op de erkenning. In afwijking van artikel 8, §1, eerste lid, van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap hoeft er geen schriftelijke overeenkomst gesloten te worden voor een intake of eerste onthaalgesprek met een gebruiker die door de voorziening nog niet gekend is.
 
 ## Afdeling 2 Subsidiëring
 
@@ -75,7 +88,11 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 <br>
 De voorziening die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt 0,13 personeelspunten per uur voor globale individuele ondersteuning.<br>
 <br>
-Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, die is erkend conform artikel 2, eerste lid, of die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt de voorziening, in afwijking van het eerste of het derde lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
+Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, die is erkend conform artikel 2, eerste lid, of die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt de voorziening, in afwijking van het eerste of het derde lid, het aantal personeelspunten waarvoor de voorziening is erkend.<br>
+<br>
+De voorziening die wil inzetten op innovatie als vermeld in artikel 2/1, 2°, kan een motivering indienen bij het agentschap om bijkomend tot een maximum van 10% van het aantal personeelspunten waarvoor de voorziening, die erkend is conform artikel 2, eerste lid, of die erkend is conform artikel 2, tweede tot en met het zesde lid, de geboden ondersteuning niet te registreren als vermeld in artikel 7. Het agentschap bepaalt de wijze waarop verantwoording wordt afgelegd over het aandeel van de output dat is verlaagd.<br>
+<br>
+De voorziening die wil inzetten op sectorale en intersectorale samenwerking en netwerken als vermeld in artikel 2/1, 3°, kan een motivering indienen bij het agentschap om bijkomend tot een maximum van 5% van het aantal personeelspunten waarvoor de voorziening, die erkend is conform artikel 2, eerste lid, of die erkend is conform artikel 2, tweede tot en met het zesde lid, de geboden ondersteuning niet te registreren als vermeld in artikel 7. Het agentschap bepaalt de wijze waarop verantwoording wordt afgelegd over het aandeel van de output dat is verlaagd.</p>
 
 ### ART. 7.
 
@@ -184,6 +201,8 @@ In voorkomend geval wordt het aantal nachten woonondersteuning, dat voor de toep
 In afwijking van het vijfde lid, 2°, kunnen de personen met een handicap, vermeld in het vijfde lid, 1°, bij wie het agentschap met toepassing van het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee, een beslissing heeft genomen over de gedeeltelijke terbeschikkingstelling van een budget dat is toegewezen na afhandeling van een aanvraag van een budget of een aanvraag tot herziening als vermeld in het vijfde lid, 2°, conform het zesde en het zevende lid rechtstreeks toegankelijke hulp combineren met een budget.<br>
 <br>
 In afwijking van artikel 13, eerste lid tot met het derde lid, van dit besluit kunnen de personen met een handicap aan wie het agentschap conform artikel 13 tot en met artikel 23 van het besluit van 24 juni 2016 zorggebonden punten heeft toegekend, maar die conform artikel 10, § 2, en 11/1, § 2, eerste lid, van het besluit van 20 april 2018 naar rechtstreeks toegankelijke hulp zijn toegeleid, aanspraak maken op maximaal zestig nachten verblijf, al of niet in combinatie met dagopvang, per jaar, boven op het maximum van acht personeelspunten per persoon per kalenderjaar, vermeld in artikel 13, eerste lid, van dit besluit, of het maximum van zeven personeelspunten per jaar, vermeld in artikel 13, tweede lid, van dit besluit.<br>
+<br>
+In afwijking van het tweede lid kan een persoon nog gebruik maken van rechtstreeks toegankelijke hulp gedurende de eerste vier maanden dat hij over een budget beschikt of gedurende de eerste vier maanden dat hij een beroep doet op ondersteuning van voorzieningen die erkend en gesubsidieerd zijn door het agentschap, die niet rechtstreeks toegankelijk is. De voormelde afwijking wordt toegestaan om de lopende begeleiding af te ronden en een zorgzame overgang naar niet rechtstreeks toegankelijke hulpverlening te faciliteren.<br>
 &nbsp;
 
 ### ART. 13.
@@ -353,7 +372,9 @@ Uiterlijk drie maanden voor het einde van de periode, vermeld in het eerste lid,
 
 ### ART 15/14.
 
-De middelen van de tijdelijke erkenning, vermeld in artikel 15/12, worden verantwoord door de effectief aangeboden ondersteuning.
+De middelen van de tijdelijke erkenning, vermeld in artikel 15/12, worden verantwoord door de effectief aangeboden ondersteuning.<br>
+<br>
+In afwijking van het eerste lid hoeft de voorziening of organisatie voor het kalenderjaar 2023 25% van de punten waarvoor ze tijdelijk erkend is conform artikel 15/12, niet te verantwoorden als ze kan aantonen dat ze personeel heeft ingezet voor haar tijdelijke erkenning, vermeld in artikel 15/2, en dat ze minimaal 30% van de personeelspunten waarvoor ze tijdelijk erkend is conform artikel 15/12, kan verantwoorden door de effectief aangeboden ondersteuning.
 
 ### ART 15/15.
 
@@ -361,7 +382,11 @@ De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mob
 <br>
 In afwijking van artikel 6, tweede lid, kunnen de personeelspunten niet worden overgedragen aan een andere voorziening die is erkend en gesubsidieerd door het agentschap.<br>
 <br>
-Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, of de organisatie tijdelijk erkend is conform artikel 15/12, ontvangt de voorziening of organisatie, in afwijking van het eerste lid het aantal personeelspunten waarvoor de voorziening is erkend.
+Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, of de organisatie tijdelijk erkend is conform artikel 15/12, ontvangt de voorziening of organisatie, in afwijking van het eerste lid het aantal personeelspunten waarvoor de voorziening is erkend.<br>
+<br>
+De voorziening die wil inzetten op innovatie als vermeld in artikel 2/1, 2°, kan een motivering indienen bij het agentschap om bijkomend tot een maximum van &nbsp; &nbsp;10% van het aantal personeelspunten waarvoor de voorziening, die erkend is conform artikel 15/12, de geboden ondersteuning niet te registreren als vermeld in artikel 15/16. Het agentschap bepaalt de wijze waarop verantwoording wordt afgelegd over het aandeel van de output dat is verlaagd.<br>
+<br>
+De voorziening die wil inzetten op sectorale en intersectorale samenwerking en netwerken als vermeld in artikel 2/1, 3°, kan een motivering indienen bij het agentschap om bijkomend tot een maximum van 5% van het aantal personeelspunten waarvoor de voorziening, die erkend is conform artikel 15/12, de geboden ondersteuning niet te registreren als vermeld in artikel 15/16. Het agentschap bepaalt de wijze waarop verantwoording wordt afgelegd over het aandeel van de output dat is verlaagd.
 
 ### ART 15/16.
 
@@ -402,7 +427,64 @@ Het agentschap kan de volgende beslissingen nemen:<br>
 In afwijking van het derde lid, kunnen organisaties als vermeld in artikel 15/5, 2°, met een tijdelijke erkenning als vermeld in artikel 15/2, geen verlenging van erkenning zonder einddatum krijgen. De voormelde organisaties voldoen uiterlijk op 31 december 2025 aan de voorwaarden, vermeld in artikel 4, om in aanmerking te komen voor een erkenning als dienst rechtstreeks toegankelijke hulp als vermeld in artikel 2.&nbsp;<br>
 &nbsp;
 
+### ART 15/22
+
+Het agentschap kan binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op zijn begroting &nbsp;nieuwe organisaties erkennen om deel te nemen aan de pilootfase, vermeld in artikel 15/1, als ze voldoen aan een van de volgende voorwaarden:<br>
+1° de aanvraag die is ingediend vóór 10 november 2022, voldoet aan de inhoudelijke criteria, vermeld in artikel 15/11;<br>
+2° de organisatie heeft in de periode van 1 januari 2023 tot en met 31 december 2023 meer dan 100% van de output behaald, ze heeft een positieve beoordeling gekregen op basis van de werking in het eerste jaar van de pilootfase en ze heeft een vraag naar uitbreiding.<br>
+<br>
+In het eerste lid wordt verstaan onder nieuwe organisaties: organisaties die in 2023 niet geselecteerd waren voor deelname aan de pilootfase en geselecteerde organisaties in de pilootfase die extra capaciteit vragen.<br>
+<br>
+Als de middelen, vermeld in het eerste lid, niet volstaan om een tijdelijke erkenning als vermeld in artikel 15/21, derde lid punt 1° tot en met 3°, te verlenen aan alle aanvragen die voldoen aan de inhoudelijke criteria, vermeld in het eerste lid, maakt het agentschap een rangorde op, op basis van de navolgende elementen:<br>
+1°&nbsp; de wijze waarop rechtstreeks toegankelijke hulp die voldoet aan de voorwaarden, vermeld artikel 15/2, ontwikkeld en geïmplementeerd zal worden;<br>
+2°&nbsp; de motivatie voor deelname aan de pilootfase en de mate waarin de rechtstreeks toegankelijke hulp die zal geboden worden zich onderscheidt van de rechtstreeks toegankelijke hulp die wordt geboden conform het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap voor de wijziging ervan bij dit besluit;<br>
+3° de inhoudelijke doelstellingen, vermeld in artikel 15/6, punt 8° en 9°, die nagestreefd worden en de wijze waarop deze gerealiseerd zullen worden;<br>
+4° de wijze waarop er als vermeld in artikel 15/6, punt 12° intersectoraal of lokaal zal samengewerkt worden met andere partners.<br>
+<br>
+Voor het verlenen van een tijdelijke erkenning als vermeld in artikel 15/2 voor het aantal personeelspunten dat is gevraagd wordt rekening gehouden met de rangorde die is vastgesteld conform het eerste lid en met de volgende criteria:<br>
+1°&nbsp; een zo evenwichtig mogelijke verhouding tussen initiatieven die gericht zijn op minderjarigen en initiatieven die zich richten tot meerderjarigen;<br>
+2°&nbsp; een zo evenwichtig mogelijke regionale spreiding rekening houdend met het bevolkingsaantal.&nbsp;&nbsp; &nbsp;<br>
+&nbsp;
+
+### ART 15/23
+
+De aanbieders van rechtstreeks toegankelijke hulp, die een verlenging van erkenning hebben verkregen als vermeld in artikel 15/21, derde lid, kunnen de open functie, vermeld in artikel 15/3, derde lid, inzetten om een of meer van de volgende vormen van ondersteuning te bieden:<br>
+1°&nbsp;&nbsp; &nbsp;abonnement: bepalen van een forfaitair bedrag aan punten dat voor een periode van maximaal een kalenderjaar wordt aangerekend om een vooraf bepaald aanbod ondersteuning te bieden;<br>
+2°&nbsp;&nbsp; &nbsp;oproepbare permanentie: het organiseren van een permanentie die de online, telefonische of fysieke beschikbaarheid van een begeleider regelt;<br>
+3°&nbsp;&nbsp; &nbsp;respijtzorg aan huis: het organiseren van opvang en ondersteuning aan huis;<br>
+4°&nbsp;&nbsp; &nbsp;praktisch pedagogische ondersteuning: een combinatie van aanleren, stimuleren, inhoudelijk ondersteunen en praktisch assisteren bij bepaalde handelingen of activiteiten.<br>
+<br>
+De aanbieder die van de open functie, vermeld in het eerste lid, wil gebruikmaken, bezorgt het agentschap informatie over de inhoud, de organisatie, de aanrekening van punten en de aanrekening van bijdragen. Het agentschap bepaalt de momenten en de wijze waarop de voormelde informatie wordt bezorgd.&nbsp;<br>
+<br>
+De aanbieder die een andere vorm van ondersteuning dan de vormen van ondersteuning, vermeld in het eerste lid, wil aanbieden binnen de open functie, vermeld in het eerste lid, vraagt dat aan bij het agentschap op de wijze die het agentschap bepaalt.
+
+### ART 15/24
+
+Er wordt een functie anonieme rechtstreeks toegankelijke hulp gecreëerd. Een aanbieder die erkend is binnen de pilootfase, vermeld in artikel 15/1, ontvangt ongeacht het aantal deelnemers voor 1 sessie anonieme rechtstreeks toegankelijke hulp, vermeld in artikel 1, punt 12°, 0,155 personeelspunten.<br>
+<br>
+De aanbieder die van de functie anonieme rechtstreeks toegankelijke hulp, vermeld in het eerste lid, wil gebruikmaken, bezorgt het agentschap informatie over de inhoud, de organisatie en de aanrekening van bijdragen. Het agentschap bepaalt de momenten en de wijze waarop de voormelde informatie wordt bezorgd.
+
+### ART 15/25
+
+Artikel 15/3, tweede lid, artikel 15/4, 15/5, 15/12, 15/13, en artikel 15/14 tot en met 15/20 zijn van toepassing voor de rechtstreeks toegankelijke hulp die wordt geboden in het kader van de verlenging van de erkenning, vermeld in artikel 15/21.
+
 ## afdeling 5 Beoordeling en beslissingen op het einde van de pilootfase
+
+### ART 15/26
+
+De voorziening of de organisatie die conform artikel 15/21, derde lid, 2° en 3°, tijdelijk erkend is tot en met 31 december 2025, brengt gedurende de periode van erkenning, op de wijze die het agentschap bepaalt, verslag uit over al de volgende elementen:<br>
+1°&nbsp; de inzet van de personeelspunten van de erkenning;<br>
+2°&nbsp; de gerealiseerde doelstellingen;<br>
+3°&nbsp; de gerealiseerde output en impact.<br>
+<br>
+De voorziening of de organisatie die tijdelijk is erkend, brengt gedurende de periode van tijdelijke erkenning, vermeld in het eerste lid, op de wijze die het agentschap bepaalt, verslag uit over al de volgende elementen:<br>
+1°&nbsp; de inzet van de personeelspunten van de erkenning;<br>
+2°&nbsp; de gerealiseerde doelstellingen;<br>
+3°&nbsp; de gerealiseerde output en impact.<br>
+<br>
+Uiterlijk negentig dagen voor het einde van de periode van de tijdelijke erkenning, vermeld in het eerste lid, kan een aanvraag worden ingediend tot erkenning als dienst rechtstreeks toegankelijke hulp als vermeld in artikel 2, op voorwaarde dat het agentschap de werking, de gerealiseerde doelstellingen en de outcome en impact op basis van het verslag, vermeld in het tweede lid, als voldoende evalueert.&nbsp;<br>
+<br>
+Als het agentschap de werking, de gerealiseerde doelstellingen en de outcome en impact op basis van het verslag, vermeld in het tweede lid, als onvoldoende evalueert, formuleert het agentschap werkpunten. Als de organisatie aantoont dat aan de werkpunten is voldaan voor de periode is afgelopen die het agentschap daarvoor heeft vastgesteld, kan de organisatie een aanvraag tot erkenning als dienst rechtstreeks toegankelijke hulp als vermeld in artikel 2, indienen.
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
@@ -550,6 +632,116 @@ De tabel, vermeld in artikel 5<br>
 	</tbody>
 </table>
 
-### Bijlage
+### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/18_1.pdf#page=25">De tabel, vermeld in artikel 5</a>
+De tabel, vermeld in artikel 5<br>
+&nbsp;
+<table border="1" cellspacing="0" style="width:500px">
+	<tbody>
+		<tr>
+			<td>barema</td>
+			<td>functiegroep</td>
+			<td>puntenwaarde</td>
+		</tr>
+		<tr>
+			<td>L4</td>
+			<td>logistiek personeel klasse 4</td>
+			<td>53,5</td>
+		</tr>
+		<tr>
+			<td>L3</td>
+			<td>logistiek personeel klasse 3 (in dienst na 1/11/93)</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>L2</td>
+			<td>logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>A1</td>
+			<td>administratief + logistiek personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>A2</td>
+			<td>administratief + logistiek personeel klasse 2</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>MV2</td>
+			<td>verzorgend personeel</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>B2B</td>
+			<td>begeleidend en verzorgend personeel klasse 2B</td>
+			<td>61</td>
+		</tr>
+		<tr>
+			<td>B2A</td>
+			<td>begeleidend en verzorgend personeel klasse 2A</td>
+			<td>63,5</td>
+		</tr>
+		<tr>
+			<td>B1c</td>
+			<td>opvoedend personeel klasse 1</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>B1b</td>
+			<td>hoofdopvoeder</td>
+			<td>79</td>
+		</tr>
+		<tr>
+			<td>B1a</td>
+			<td>ondersteunend kaderpersoneel</td>
+			<td>86</td>
+		</tr>
+		<tr>
+			<td>B1a BIS</td>
+			<td>opvoeder-groepschef-BIS</td>
+			<td>89</td>
+		</tr>
+		<tr>
+			<td>MV1</td>
+			<td>sociaal paramedisch en therapeutisch personeel</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>L1</td>
+			<td>licentiaten en tandarts</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>K5</td>
+			<td>onderdirecteur</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>K3</td>
+			<td>directeur 30-59 bedden</td>
+			<td>93,5</td>
+		</tr>
+		<tr>
+			<td>K2</td>
+			<td>directeur 60-89 bedden</td>
+			<td>96,5</td>
+		</tr>
+		<tr>
+			<td>K1</td>
+			<td>directeur meer dan 90 bedden</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>G1</td>
+			<td>geneesheer-omnipracticus</td>
+			<td>108</td>
+		</tr>
+		<tr>
+			<td>GS</td>
+			<td>geneesheer-specialist</td>
+			<td>143,5</td>
+		</tr>
+	</tbody>
+</table>
