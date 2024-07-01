@@ -65,7 +65,7 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Omgeving;<br>
 43° bevoegde afdeling :<br>
 a) voor de erkenning, vermeld in artikel 6, 1°, a) tot en met e) en g, 2°, d, 3°, 4°, a) en e) en 5°, a) tot en met c): het departement;<br>
-b) voor de erkenning, vermeld in artikel 6, 1°, f), 2°, a) tot en met c) en e) tot en met i), 4°, b) tot en met d), f), en h) tot en met l), 7°, b) en c), en 8° : het Vlaams Energie- en Klimaatagentschap;<br>
+b) voor de erkenning, vermeld in artikel 6, 1°, f), 2°, a) tot en met b) en e) tot en met i), 4°, b) tot en met d), f), en h) tot en met l), 7°, b) en c), en 8° : het Vlaams Energie- en Klimaatagentschap;<br>
 c) voor de erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
 d) voor de erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
 e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
@@ -140,7 +140,7 @@ h) deskundige overstromingsattest: deskundige voor het opstellen van een overstr
 2° technici :<br>
 a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 b) technicus gasvormige brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
-c) technicus verwarmingsaudit als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+c) ...;<br>
 d) stookolietechnicus : de erkende technicus als vermeld in artikel 6.5.6.3 van titel II van het VLAREM;<br>
 e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM;<br>
 f) technicus voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
@@ -154,7 +154,7 @@ b) milieuverificateurs, belast met de validatie van de decretaal verplichte mili
 a) voor het verstrekken van de aanvullende vorming voor milieucoördinatoren, vermeld in artikel 4.1.9.1.2, § 3, van titel II van het VLAREM;<br>
 b) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
 c) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
-d) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+d) ...;<br>
 e) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de controle en het onderhoud van stookolietanks, vermeld in artikel 6.5.6.4 van titel II van het VLAREM;<br>
 f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
 g) voor het verstrekken van de aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 8 van het Bodemdecreet;<br>
@@ -283,11 +283,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus ga
 
 ### ART. 16.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus verwarmingsaudit als vermeld in artikel 6, 2°, c) :<br>
-1° een natuurlijke persoon zijn;<br>
-2° erkend zijn als technicus vloeibare brandstof of als technicus gasvormige brandstof als vermeld in artikel 6, 2°, a) respectievelijk b) ;<br>
-3°&nbsp;in het bezit zijn van een certificaat van bekwaamheid inzake de verwarmingsaudit, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, d), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/2, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, d);<br>
-4° ...
+...
 
 ### ART. 17.
 
@@ -359,7 +355,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidings
 
 ### ART. 23.
 
-<P>De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en   bijscholing inzake de verwarmingsaudit, vermeld in artikel 6, 4°, d) : <BR>1°   erkend zijn als opleidingscentrum vloeibare brandstof of gasvormige brandstof   als vermeld in artikel 6, 4°, b) of c);<BR>2° beschikken over degelijke   procedures om de opleiding of de opleiding en de bijscholing inzake de   verwarmingsaudit met het bijhorende examen, vermeld in artikel 43/2, § 1, te   organiseren;<BR>3° beschikken over bevoegd technisch personeel dat belast wordt   met het theoretische en praktische onderricht. Het personeel dat belast wordt   met het onderricht, beschikt over een erkenning als technicus verwarmingsaudit   als vermeld in artikel 32, § 2, eerste lid, 3°. Het certificaat van bekwaamheid   inzake de verwarmingsaudit werd behaald in een ander opleidingscentrum dan waar   het personeelslid onderricht geeft;<BR>4° een examenjury samenstellen, waarbij   ten minste aan de volgende voorwaarden wordt voldaan :<BR>a) de jury bestaat uit   minstens twee specialisten in de onderwezen vakken en staat onder het   voorzitterschap van een master of een bachelor uit een afstudeerrichting of   opleiding als vermeld in bijlage 5, die bij dit besluit is gevoegd, of een   persoon met minstens tien jaar ervaring in de materie die erkend is als   technicus verwarmingsaudit en die actief is in het vak;<BR>b) minstens één   jurylid beschikt over een erkenning als technicus verwarmingsaudit als vermeld   in artikel 32, § 2, eerste lid, 3°. Het certificaat van bekwaamheid inzake de   verwarmingsaudit werd behaald in een ander opleidingscentrum dan waar het   jurylid jureert;<BR>c) minstens een van de leden van de examenjury is een   erkende technicus verwarmingsaudit die extern is aan het opleidingscentrum en   die actief is in de verwarmingswereld.</P>
+<p>...</p>
 
 ### ART. 24.
 
@@ -649,7 +645,7 @@ De erkenning gaat in op de datum waarop het gebruik van de erkenning wordt gemel
 § 2. De volgende personen zijn van rechtswege erkend als :<br>
 1° technicus vloeibare brandstof als vermeld in artikel 6, 2°, a) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 14;<br>
 2° technicus gasvormige brandstof als vermeld in artikel 6, 2°, b) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 15;<br>
-3° technicus verwarmingsaudit als vermeld in artikel 6, 2°, c) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 16;<br>
+3°...;<br>
 4° stookolietechnicus als vermeld in artikel 6, 2°, d) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17;<br>
 5° milieuverificateurs, belast met de validatie van de decretaal verplichte milieuaudit, vermeld in artikel 6, 3°, b) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 19.<br>
 6° airco-energiedeskundige als vermeld in artikel 6, 1°, f) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1.&nbsp;<br>
@@ -836,14 +832,14 @@ e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of 
 
 ### ART. 40.
 
-De erkende technicus,&nbsp;vermeld in artikel 6, 2°, a) tot en met d) :<br>
+De erkende technicus,&nbsp;vermeld in artikel 6, 2°, a) , b) en d) :<br>
 1° toont, op eenvoudig verzoek, het materiaal dat hij gebruikt bij het uitvoeren van de taken met betrekking tot de verleende erkenning;<br>
 2° maakt uitsluitend gebruik van apparatuur die voldoet aan alle reglementaire eisen, vermeld in bijlage 6, die bij dit besluit is gevoegd;<br>
 3° volgt vijfjaarlijks de bijscholing, vermeld in bijlage 1, hoofdstuk 3, die bij dit besluit is gevoegd, en slaagt voor de bijhorende proef. Die bijscholing wordt gevolgd in een daartoe erkend opleidingscentrum.<br>
-4° voert de keuring, onderhoudsbeurt of verwarmingsaudit, vermeld in artikel 12, 13, en 14 van het besluit inzake het onderhoud en nazicht van stooktoestellen, correct uit;<br>
+4° voert de keuring, onderhoudsbeurt, vermeld in artikel 12 en 13 van het besluit inzake het onderhoud en nazicht van stooktoestellen, correct uit;<br>
 5° levert de attesten en rapporten af en houdt die ter beschikking, zoals bepaald in artikel 15 van het besluit inzake het onderhoud en nazicht van stooktoestellen.&nbsp;<br>
 <br>
-Als het certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°, artikel 16, 3°, of artikel 17, 2°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 1° tot en met 4°, kan gebruiken.<br>
+Als het certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°, of artikel 17, 2°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 1°, 2° en 4°, kan gebruiken.<br>
 &nbsp;
 
 ### ART 40/1.
@@ -987,18 +983,16 @@ c) voor de overgangscursussen van het tweede niveau naar het eerste niveau : het
 
 <p>§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 6, 4°, b), organiseert de opleiding met het bijhorende examen inzake vloeibare brandstof, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 1 en 2, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake vloeibare brandstof, waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 3, die bij dit besluit is gevoegd.<br>
 <br>
-Het bijhorende examen bestaat uit vijf onderdelen :<br>
+Het bijhorende examen bestaat uit vier onderdelen :<br>
 1° een schriftelijk theoretisch deel;<br>
 2° een praktische proef;<br>
 3° een mondeling theoretisch deel;<br>
 4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie;<br>
-5° een proef over de verwarmingsaudit.<br>
-<br>
-De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met het rekeninstrument, vermeld in artikel 14 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen.<br>
+5° ...<br>
 <br>
 Een persoon is geslaagd voor het examen als hij voldoet aan de volgende voorwaarden :<br>
 1° voor het schriftelijke theoretische deel, de praktische proef, het mondelinge theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie telkens minstens vijftig procent van de punten behalen en voor die vier onderdelen in totaal minstens zestig procent van de punten behalen;<br>
-2° voor de proef over de verwarmingsaudit minstens zestig procent van de punten behalen.<br>
+2° ...<br>
 <br>
 Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
 <br>
@@ -1026,18 +1020,16 @@ Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maa
 <br>
 De opleiding en bijscholing gasvormige brandstof bestaan telkens uit twee modules: een basismodule GI over algemeenheden met betrekking tot het verwarmen met gasvormige brandstof en over gasketels met niet-premix brander en met premix brander, en een uitbreidingsmodule GII over gasketels met ventilatorbrander. Na elke module volgt een examen.<br>
 <br>
-Het bijhorende examen van de module GI bestaat uit vijf onderdelen :<br>
+Het bijhorende examen van de module GI bestaat uit vier onderdelen :<br>
 1° een schriftelijk theoretisch deel;<br>
 2° een praktische proef;<br>
 3° een mondeling theoretisch deel;<br>
 4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie;<br>
-5° een proef over de verwarmingsaudit.<br>
-<br>
-De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met het rekeninstrument, vermeld in artikel 14 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen.<br>
+5° ...<br>
 <br>
 Een persoon is geslaagd voor het examen module GI als hij voldoet aan de volgende voorwaarden :<br>
 1° voor het schriftelijke theoretische deel, de praktische proef, het mondelinge theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie telkens minstens vijftig procent van de punten behalen en voor die vier onderdelen in totaal minstens zestig procent van de punten behalen;<br>
-2° voor de proef over de verwarmingsaudit minstens zestig procent van de punten behalen.<br>
+2° ...<br>
 <br>
 Het bijhorende examen van de module GII bestaat uit drie onderdelen :<br>
 1° een schriftelijk theoretisch deel;<br>
@@ -1070,35 +1062,7 @@ Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maa
 
 ### ART. 43/2.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake verwarmingsaudit, vermeld in artikel 6, 4°, d), organiseert de opleiding met het bijhorende examen inzake de verwarmingsaudit, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 4, onderafdeling 1, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake de verwarmingsaudit. De minister kan de inhoud en de minimale duur van de bijscholing vastleggen.<br>
-<br>
-Het bijhorende examen bestaat uit twee onderdelen :<br>
-1° een schriftelijk deel;<br>
-2° een praktische proef.<br>
-<br>
-De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met software die geschikt is voor toestellen op vloeibare en gasvormige brandstof.<br>
-<br>
-Een persoon is geslaagd voor het examen als hij in totaal minstens zestig procent van de punten behaalt.<br>
-<br>
-Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
-<br>
-§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de verwarmingsaudit uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
-<br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
-<br>
-Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
-<br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
-<br>
-§ 4. ...<br>
-<br>
-§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 3, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
-<br>
-§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
-<br>
-§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;de bevoegde afdeling&nbsp;minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen.&nbsp;De bevoegde afdeling&nbsp;kan zetelen in de examenjury.<br>
-<br>
-§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.
+...
 
 ### ART. 43/3.
 
@@ -1735,7 +1699,7 @@ De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit 
 &nbsp;
 <p>§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
 <br>
-§ 2. De erkenning van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus als&nbsp;vermeld in artikel 6, 2°, a) tot en met d), vervalt ook in een van de volgende gevallen :<br>
+§ 2. De erkenning van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus als&nbsp;vermeld in artikel 6, 2°, a), b) en d), vervalt ook in een van de volgende gevallen :<br>
 1° als hij de bijscholing niet heeft gevolgd;<br>
 2° als de erkende persoon niet tijdig slaagt voor de proef inzake de bijscholing.<br>
 In dat geval moet, voor de erkenning opnieuw kan worden verleend, de airco-energiedeskundige of de technicus de bijscholing volgen en slagen voor het bijhorende examen, vermeld in artikel 39/1, eerste lid, 6°, respectievelijk artikel 40, eerste lid, 3°.&nbsp;<br>
@@ -1808,15 +1772,15 @@ Voor dit besluit worden het toezicht en de bestuurlijke handhaving uitgeoefend e
 
 ### ART. 58/1.
 
-§ 1.&nbsp;de bevoegde afdeling kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de de bevoegde afdeling.<br>
+§ 1. De bevoegde afdeling kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de de bevoegde afdeling.<br>
 <br>
-Een willekeurige selectie van ten minste een statistisch relevant percentage van alle attesten van de onderhoudsbeurten en verwarmingsauditrapporten die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
+Een willekeurige selectie van ten minste een statistisch relevant percentage van alle attesten van de onderhoudsbeurten die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 <br>
 § 2.&nbsp;de bevoegde afdeling kan de keuringen, vermeld in artikel 39/1, eerste lid, 2°, of de keuringsverslagen, vermeld in artikel 39/1, eerste lid, 3°, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 &nbsp;
-<p style="text-align:justify">§3.&nbsp;de bevoegde afdeling kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
+<p>§3.&nbsp;de bevoegde afdeling kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
 <br>
 § 4.&nbsp;de bevoegde afdeling kan een koelinstallatie, een warmtepomp&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling. Bovendien kan&nbsp;de bevoegde afdeling het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.</p>
 
@@ -1827,7 +1791,7 @@ Een willekeurige selectie van ten minste een statistisch relevant percentage van
 Om aangewezen te worden als keuringsinstelling, moet een instelling aan de volgende voorwaarden voldoen :<br>
 1° een rechtspersoon zijn;<br>
 2° een of meer keurders aanwijzen die aan de volgende voorwaarden voldoen :<br>
-a) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1 : een erkenning als technicus vloeibare brandstof, gasvormige brandstof of verwarmingsaudit als vermeld in artikel 32, § 2, eerste lid, 1°, 2°, en 3°, bezitten en beschikken over minstens drie jaar praktijkervaring in de verwarmingssector;<br>
+a) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1 : een erkenning als technicus vloeibare brandstof, of gasvormige brandstof als vermeld in artikel 32, § 2, eerste lid, 1°,of 2°, bezitten en beschikken over minstens drie jaar praktijkervaring in de verwarmingssector;<br>
 b) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 2 : een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6°, bezitten;<br>
 c) in geval van een keuringsinstelling als vermeld in artikel 58/1, §3: een erkenning als stookolietechnicus als vermeld in artikel 32, §2, eerste lid, 4°, of een erkenning als milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen als vermeld in artikel 6, 1°, a), bezitten;<br>
 d) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4 : een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I bezitten en beschikken over minstens drie jaar praktijkervaring in de koelsector;<br>
@@ -2276,11 +2240,11 @@ Een erkend opleidingscentrum als vermeld in artikel 6, 4°, b),&nbsp;heeft   in 
 
 Een erkend opleidingscentrum als vermeld in artikel 6, 4°, c), heeft in   zijn werkplaats minstens de volgende toestellen, apparaten en didactische   hulpmiddelen :<BR>1° een voor de huidige markt representatieve verzameling van   gastoestellen :<BR>a) een atmosferische vloerketel met thermokoppel;<BR>b) een   atmosferische vloerketel met ionisatiebeveiliging;<BR>c) een atmosferische   wandketel met thermokoppel;<BR>d) een atmosferische wandketel met   ionisatiebeveiliging;<BR>e) een gasunit;<BR>f) enkele gasketels met   ventilatorbrander (module GII) : eentraps, tweetraps glijdend;<BR>2° didactische   panelen regeltechniek, met inbegrip van een weersafhankelijke regeling;<BR>3°   een didactisch paneel branderwerking;<BR>4° een didactisch paneel onderdelen   gasstraat;<BR>5° onderdelen gasstraat;<BR>6° meetapparatuur voor controle van de   verbranding : minstens één elektronisch rookgasanalysetoestel per drie   cursisten;<BR>7° meetapparatuur voor drukmetingen : gasmanometers;<BR>8°   apparatuur voor controle van de gaslekdichtheid;<BR>9° een simulatiepaneel of de   didactische uitvoering van een volledige centraleverwarmingsinstallatie met   stookketel/brander, aquastaat, voorziening voor sanitair warm water,   ruimteverwarming, kamerthermostaat, buitenvoeler, vierwegmengkraan;<BR>10°   doorsneden van stookketels en branders.<BR><BR>
 
-## Afdeling 3 [Voor een opleidingscentrum verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen groter dan 100 kW, installaties, gevoed met vaste brandstof, of installaties die bestaan uit verschillende ketels) (verv. BVR 1 maart 2013, art. 147)]
+## Afdeling 3 ...
 
 ### Tekst
 
-Een erkend opleidingscentrum als vermeld in artikel 6, 4°, d),&nbsp; heeft   in zijn werkplaats minstens, naargelang de opleiding, hetzij de uitrusting   beschreven in bijlage 1, hoofdstuk 1, afdeling 1 (vloeibare brandstof), hetzij   die in bijlage 1, hoofdstuk 1, afdeling 2 (gasvormige brandstof).<BR><BR>Verder   beschikt de opleidingsinstelling over de software die noodzakelijk is voor het   uitvoeren van de verwarmingsaudit.<BR><BR>
+...
 
 ## Afdeling 4 [Voor een opleidingscentrum inzake de controle en het onderhoud van stookolietanks (verv. BVR 1 maart 2013, art. 150)]
 
@@ -2302,7 +2266,34 @@ Een erkend opleidingscentrum als vermeld in artikel 6, 4°, e),&nbsp;heeft   in 
 
 ### Tekst
 
-De technische opleiding vloeibare brandstof omvat 24 uur theorie en 44 uur   praktijk met betrekking tot de centrale stooktoestellen, gevoed met vloeibare   brandstof, waarbij het totale aantal te besteden lesuren als richtwaarde   geldt.<BR>Het programma omvat minstens de volgende leerstof :<BR>1° de kenmerken   van de stookoliën;<BR>2° toegepaste elektriciteit voor   verwarmingstechnieken;<BR>3° de technologie en de uitrusting van   stookketels;<BR>4° de verschillende types van oliebranders;<BR>5° de onderdelen   van een oliebrander;<BR>6° de compatibiliteit stookketel-brander;<BR>7° de   regelings- en de veiligheidsapparatuur;<BR>8° de afstelling van de   oliebrander;<BR>9° de reparatie en het ontstoren van stookketels,   branders;<BR>10° het reinigen van stookketels en branders;<BR>11° de verbranding   van stookolie;<BR>12° de warmtetransmissie;<BR>13° de   verbrandingscontrole;<BR>14° de schoorsteen;<BR>15° het nazicht en het vegen van   de schoorsteen;<BR>16° de inrichting en de verluchting van het   stooklokaal;<BR>17° de werking, het gebruik, de controle en het onderhoud van de   meetapparatuur, vereist voor het uitvoeren van de controleproeven met betrekking   tot de goede werking;<BR>18° de rol van de erkende technicus vloeibare   brandstof;<BR>19° het invullen van het reinigingsattest en het   verbrandingsattest;<BR>20° het opmaken/invullen van een keuringsrapport;<BR>21°   de reglementering over het opslaan van de brandstof;<BR>22° elementen van   rationeel energiegebruik en energiebesparing bij verwarming met vloeibare   brandstof;<BR>23° milieuaspecten, verbonden aan verwarming met vloeibare   brandstof;<BR>24° het uitvoeren van de verwarmingsaudit :<BR>a) bepalen van   verbrandingsrendement, waterzijdig rendement, keteljaarrendement;<BR>b)   energiebesparende maatregelen;<BR>c) het correct hanteren en invullen van het   rekeninstrument, vermeld in artikel 14, van het besluit inzake het onderhoud en   nazicht van&nbsp;centrale stooktoestellen en het verwarmingsauditrapport;<BR>d)   bestaande steunmaatregelen van de overheid of derden met het oog op de   vervanging van oudere, slechtwerkende toestellen en energieverspillende   installaties door energiezuinigere en CO2-vriendelijkere verwarming;<BR>25° de   aanwezigheid van asbesthoudend materiaal in en rond stookketels en rond   verwarmingsbuizen : wat is asbest, de gezondheidsrisico's van asbest, het   voorkomen in en rond stookketels en rond verwarmingsbuizen, hoe herkennen, wat   te doen bij aantreffen, de noodzaak van bewerken en afbraak van asbesthoudend   materiaal in en rond stookketels en rond verwarmingsbuizen, persoonlijke   beschermingsmiddelen en nuttige websites met betrekking tot   asbest.<BR><BR>
+De technische opleiding vloeibare brandstof omvat 24 uur theorie en 44 uur praktijk met betrekking tot de centrale stooktoestellen, gevoed met vloeibare brandstof, waarbij het totale aantal te besteden lesuren als richtwaarde geldt.<br>
+Het programma omvat minstens de volgende leerstof :<br>
+1° de kenmerken van de stookoliën;<br>
+2° toegepaste elektriciteit voor verwarmingstechnieken;<br>
+3° de technologie en de uitrusting van stookketels;<br>
+4° de verschillende types van oliebranders;<br>
+5° de onderdelen van een oliebrander;<br>
+6° de compatibiliteit stookketel-brander;<br>
+7° de regelings- en de veiligheidsapparatuur;<br>
+8° de afstelling van de oliebrander;<br>
+9° de reparatie en het ontstoren van stookketels, branders;<br>
+10° het reinigen van stookketels en branders;<br>
+11° de verbranding van stookolie;<br>
+12° de warmtetransmissie;<br>
+13° de verbrandingscontrole;<br>
+14° de schoorsteen;<br>
+15° het nazicht en het vegen van de schoorsteen;<br>
+16° de inrichting en de verluchting van het stooklokaal;<br>
+17° de werking, het gebruik, de controle en het onderhoud van de meetapparatuur, vereist voor het uitvoeren van de controleproeven met betrekking tot de goede werking;<br>
+18° de rol van de erkende technicus vloeibare brandstof;<br>
+19° het invullen van het reinigingsattest en het verbrandingsattest;<br>
+20° het opmaken/invullen van een keuringsrapport;<br>
+21° de reglementering over het opslaan van de brandstof;<br>
+22° elementen van rationeel energiegebruik en energiebesparing bij verwarming met vloeibare brandstof;<br>
+23° milieuaspecten, verbonden aan verwarming met vloeibare brandstof;<br>
+24° ...;<br>
+25° de aanwezigheid van asbesthoudend materiaal in en rond stookketels en rond verwarmingsbuizen : wat is asbest, de gezondheidsrisico's van asbest, het voorkomen in en rond stookketels en rond verwarmingsbuizen, hoe herkennen, wat te doen bij aantreffen, de noodzaak van bewerken en afbraak van asbesthoudend materiaal in en rond stookketels en rond verwarmingsbuizen, persoonlijke beschermingsmiddelen en nuttige websites met betrekking tot asbest.<br>
+&nbsp;
 
 ## Onderafdeling 2 Programma van de opleiding van de Vlaamse wetgeving en de daarin opgenomen terminologie inzake vloeibare brandstof centrale verwarming
 
@@ -2334,7 +2325,59 @@ Het programma van de bijscholing vloeibare brandstof bestaat uit een   herhaling
 
 ### Tekst
 
-<P>De technische opleiding gasvormige brandstof, module GI, omvat 96 uur met   betrekking tot gastoestellen aangesloten als type B of type C, waarbij het   totale aantal te besteden lesuren en, in voorkomend geval, het aantal te   besteden lesuren per programmaonderdeel als richtwaarden gelden. Het programma   bestaat uit de volgende onderdelen (niet limitatief) :<BR>1° inleiding -   doelstelling;<BR>2° eenheden, grootheden en symbolen (4 uur) :<BR>a) druk,   temperatuur, dichtheid, debiet;<BR>b) k.o.w., k.b.w., verbrandingswaarde;<BR>c)   wobbe-index;<BR>d) dauwpunt, kookpunt;<BR>e) dampspanning;<BR>3° reglementering   (5 uur) :<BR>a) Europese normen;<BR>b) Belgische normen (NBN D51-003, NBN   B61-001 en PR NBN B61-002);<BR>c) rol van de erkende technicus gasvormige   brandstof niveau GI;<BR>d) veiligheidsvoorschriften;<BR>4° technologie (34 uur)   :<BR>a) kennis van de gassoorten;<BR>b) de verbranding van gas -   verbrandingsproducten - milieubelastende rookgassen;<BR>c) het   verbrandingsrendement;<BR>d) bouw en werking van atmosferische   gastoestellen;<BR>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bouw en werking   van gasunits; <BR>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   branderautomaten;<BR>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gas- en   luchtdrukmetingen;<BR>h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   verhoudingsregelaar gas/lucht;<BR>5° inrichting van de stookplaats : 8 uur   :<BR>a) verluchting van de stookplaats;<BR>b) afvoer van de   rookgassen;<BR>&nbsp;c) de aanwezigheid van asbesthoudend materiaal in en rond   stookketels en rond verwarmingsbuizen : wat is asbest, de gezondheidsrisico's   van asbest, het voorkomen in en rond stookketels en rond verwarmingsbuizen, hoe   herkennen, wat te doen bij aantreffen, de noodzaak van bewerken en afbraak van   asbesthoudend materiaal in en rond stookketels en rond verwarmingsbuizen,   persoonlijke beschermingsmiddelen en nuttige websites met betrekking tot asbest;   <BR>6° toestelleer (6 uur) :<BR>a) toegestane materialen;<BR>b) toegestane   gassen;<BR>c) dichtheid van een gastoestel;<BR>d) aflezen van het   gasdebiet;<BR>e) meten van de gasdruk;<BR>7° regelingen (4 uur) :<BR>a)   thermostaten;<BR>b) ketelapparatuur;<BR>c) thermische   terugslagbeveiliging;<BR>d) atmosferische beveiliging;<BR>e)   ionisatiebeveiliging;<BR>f) pressostaten;<BR>8° toegepaste elektriciteit (16   uur) :<BR>a) opzoeken van fouten;<BR>b) lezen van een elektrisch schema;<BR>c)   meten van een spanning;<BR>d) meten van een weerstand;<BR>9° onderhoud, nazicht   en ontstoring van het gastoestel (11 uur) :<BR>a) onderhoud en nazicht van de   brander en de warmtewisselaar;<BR>b) onderhoud en nazicht van de   onderdelen;<BR>c) opsporen en verhelpen van storingen;<BR>d) controle van het   toestel na onderhoud en ontstoring;<BR>e) uitvoeren van de   controleproeven;<BR>f) het verbrandingsrendement;<BR>g) invullen van de   verschillende attesten;<BR>10° verwarmingsaudit (8 uur) :<BR>a) het   verbrandingsrendement;<BR>b) het waterzijdig rendement;<BR>c) het   keteljaarrendement;<BR>d) energiebesparende maatregelen;<BR>e) het correct   hanteren en invullen van het rekeninstrument, vermeld in artikel 14 van het   besluit inzake het onderhoud en nazicht van centrale stooktoestellen en het   verwarmingsauditrapport;<BR>f) bestaande steunmaatregelen van de overheid of   derden met het oog op de vervanging van oudere, slechtwerkende toestellen en   energieverspillende installaties door energiezuinigere en CO2-vriendelijkere   verwarming.</P>
+<p>De technische opleiding gasvormige brandstof, module GI, omvat 96 uur met betrekking tot gastoestellen aangesloten als type B of type C, waarbij het totale aantal te besteden lesuren en, in voorkomend geval, het aantal te besteden lesuren per programmaonderdeel als richtwaarden gelden. Het programma bestaat uit de volgende onderdelen (niet limitatief) :<br>
+1° inleiding - doelstelling;<br>
+2° eenheden, grootheden en symbolen (4 uur) :<br>
+a) druk, temperatuur, dichtheid, debiet;<br>
+b) k.o.w., k.b.w., verbrandingswaarde;<br>
+c) wobbe-index;<br>
+d) dauwpunt, kookpunt;<br>
+e) dampspanning;<br>
+3° reglementering (5 uur) :<br>
+a) Europese normen;<br>
+b) Belgische normen (NBN D51-003, NBN B61-001 en PR NBN B61-002);<br>
+c) rol van de erkende technicus gasvormige brandstof niveau GI;<br>
+d) veiligheidsvoorschriften;<br>
+4° technologie (34 uur) :<br>
+a) kennis van de gassoorten;<br>
+b) de verbranding van gas - verbrandingsproducten - milieubelastende rookgassen;<br>
+c) het verbrandingsrendement;<br>
+d) bouw en werking van atmosferische gastoestellen;<br>
+e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bouw en werking van gasunits;<br>
+f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; branderautomaten;<br>
+g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gas- en luchtdrukmetingen;<br>
+h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verhoudingsregelaar gas/lucht;<br>
+5° inrichting van de stookplaats : 8 uur :<br>
+a) verluchting van de stookplaats;<br>
+b) afvoer van de rookgassen;<br>
+&nbsp;c) de aanwezigheid van asbesthoudend materiaal in en rond stookketels en rond verwarmingsbuizen : wat is asbest, de gezondheidsrisico's van asbest, het voorkomen in en rond stookketels en rond verwarmingsbuizen, hoe herkennen, wat te doen bij aantreffen, de noodzaak van bewerken en afbraak van asbesthoudend materiaal in en rond stookketels en rond verwarmingsbuizen, persoonlijke beschermingsmiddelen en nuttige websites met betrekking tot asbest;<br>
+6° toestelleer (6 uur) :<br>
+a) toegestane materialen;<br>
+b) toegestane gassen;<br>
+c) dichtheid van een gastoestel;<br>
+d) aflezen van het gasdebiet;<br>
+e) meten van de gasdruk;<br>
+7° regelingen (4 uur) :<br>
+a) thermostaten;<br>
+b) ketelapparatuur;<br>
+c) thermische terugslagbeveiliging;<br>
+d) atmosferische beveiliging;<br>
+e) ionisatiebeveiliging;<br>
+f) pressostaten;<br>
+8° toegepaste elektriciteit (16 uur) :<br>
+a) opzoeken van fouten;<br>
+b) lezen van een elektrisch schema;<br>
+c) meten van een spanning;<br>
+d) meten van een weerstand;<br>
+9° onderhoud, nazicht en ontstoring van het gastoestel (11 uur) :<br>
+a) onderhoud en nazicht van de brander en de warmtewisselaar;<br>
+b) onderhoud en nazicht van de onderdelen;<br>
+c) opsporen en verhelpen van storingen;<br>
+d) controle van het toestel na onderhoud en ontstoring;<br>
+e) uitvoeren van de controleproeven;<br>
+f) het verbrandingsrendement;<br>
+g) invullen van de verschillende attesten;<br>
+10° ...</p>
 
 ## Onderafdeling 4 [Programma van de technische opleiding gasvormige brandstof, module GII (verv. BVR 16 mei 2014, art. 624, I: 4 oktober 2014)]
 
@@ -2383,44 +2426,25 @@ Het programma van de opleiding van de Vlaamse wetgeving en de daarin   opgenomen
 
 Het programma van de bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de verwarming met gasvormige brandstof : de eigenschappen van de gassen, de verbranding van gas, het onderhoud en het nazicht van de centrale stooktoestellen, gevoed met gasvormige brandstof, het uitvoeren van de controleproeven met betrekking tot de goede staat van werking, de meetprocedures en de meetapparatuur, de vigerende wetgeving, de rol van een erkende technicus gasvormige brandstof en het invullen van de verschillende attesten. Verder wordt ingegaan op de nieuwste technologische ontwikkelingen op het vlak van centrale stooktoestellen, gevoed met gasvormige brandstof, de regelingen en de meetapparatuur. Daarnaast wordt informatie verstrekt over bestaande steunmaatregelen door de overheid of derden met het oog op de vervanging van oudere, slechtwerkende toestellen en energieverspillende installaties door energiezuinigere en CO2-vriendelijkere verwarming. Het programma van de bijscholing omvat voor de erkende technicus gasvormige brandstof niveau GI minstens&nbsp;6 uur opleiding, gevolgd door proeven, en voor de erkende technicus niveau GI+GII minstens 8 uur opleiding, gevolgd door de proeven.
 
-## Afdeling 3 Uitbreidingsmodule verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen kleiner of gelijk aan 100 kW)
+## Afdeling 3...
 
 ### Tekst
 
 <P>...</P>
 
-## Afdeling 4 Opleiding technicus verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen groter dan 100 kW, installaties gevoed met vaste brandstof of installaties bestaande uit meerdere ketels) : minimumprogramma van de algemene opleiding en van de bijscholing
+## Afdeling 4 ...
 
-## Onderafdeling 1 Het programma van de technische opleiding verwarmingsaudit
-
-### Tekst
-
-De technische opleiding verwarmingsaudit (installaties met totaal   geïnstalleerd nominaal vermogen groter dan 100 kW, of installaties bestaande uit   meerdere ketels) omvat minstens 24 uur (theorielessen en praktijk). Het   programma omvat minstens de volgende leerstof :<BR>1° de reglementering;<BR>2°   de inhoud van de software;<BR>3° de componenten van een cv-installatie :<BR>a)   de productie-eenheden;<BR>b) de hydraulica;<BR>c) de productie van sanitair warm   water;<BR>d) de regelingen;<BR>e) de algemene componenten;<BR>f) de verluchting   van stookplaatsen;<BR>g) de isolatie van leidingen;<BR>4° de componenten in een   gebouw : de ventilatie en invloed op de verluchting van de stookplaats;<BR>5° de   premies en fiscale maatregelen;<BR>6° het bezoek aan stookplaats;<BR>7°   oefeningen.
-
-## [Onderafdeling 2 Het programma van de bijscholing inzake de verwarmingsaudit (verv. MB 3 juli 2017, art. 1, I: 3 juli 2017)]
+## Onderafdeling 1 ...
 
 ### Tekst
 
-<p>§ 1. Het programma van de technische bijscholing inzake de verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen groter dan 100 kW, of installaties bestaande uit meerdere ketels) omvat minstens 8 uur (theorielessen en praktijk). Het programma bestaat uit een herhaling van de belangrijkste aspecten van de verwarmingsaudit:<br>
-1° de reglementering;<br>
-2° de inhoud en het correct gebruik van de software;<br>
-3° het energieverbruik;<br>
-4° de componenten van een cv-installatie, de algemene technische en regeltechnische kennis, met minstens:<br>
-a) de productie-eenheden;<br>
-b) de hydraulica;<br>
-c) de productie van sanitair warm water;<br>
-d) de regelingen;<br>
-e) de algemene componenten;<br>
-f) de verluchting van stookplaatsen;<br>
-g) de isolatie van leidingen;<br>
-5° de componenten in een gebouw: de ventilatie en invloed op de verluchting van de stookplaats;<br>
-6° de interpretatie van de resultaten en de formulering van adviezen.<br>
-<br>
-§ 2. De bijscholing inzake de verwarmingsaudit wordt gevolgd door proeven, die bestaan uit:<br>
-1° een schriftelijke proef waarbij de theoretische kennis van de technicus wordt getoetst aan de hand van meerkeuzevragen;<br>
-2° een mondelinge proef waarbij de technicus een zelf uitgevoerde, reële verwarmingsaudit verdedigt.<br>
-<br>
-De proeven duren maximaal 4 uur.</p>
+...
+
+## Onderafdeling 2 ...
+
+### Tekst
+
+<p>...</p>
 
 ## Afdeling 5 Opleiding stookolietechnicus : minimumprogramma van de algemene opleiding en van de bijscholing
 
@@ -3832,7 +3856,7 @@ perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)</p>
 
 <P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; tab-stops: -72.0pt -36.0pt 21.1pt 49.65pt right dotted 427.7pt blank 439.45pt dotted 454.1pt"   class=MsoNormal>De aanvraag om een erkenning als deskundige in de discipline   houders voor gassen of gevaarlijke stoffen als vermeld in artikel 6, 1°, a), kan   worden ingediend voor een of meer van de volgende domeinen en deeldomeinen:</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 35.4pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attestaties   (hoofdstukken 5.6, 5.16 en 5.17 van titel II van het VLAREM):</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>A1...... attestatie houders: prototypekeuringen van in serie   gebouwde houders; individuele keuringen van andere; aanvaarding van   gelijkwaardige systemen voor opslag</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>A2...... attestatie overvulbeveiligingssystemen</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>A3...... attestatie lekdetectiesystemen</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>A4...... attestatie gelijkwaardige alternatieven voor niet   toegankelijke leidingen</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 35.4pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; controle bij   plaatsing van nieuwe houders:</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>B1...... controle vóór de plaatsing en vóór de ingebruikname van   houders van brandbare vloeistoffen (<A name=OLE_LINK3></A><A   name=OLE_LINK2>hoofdstuk 5.6 van titel II van het VLAREM</A>)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>B2.1... controle vóór de plaatsing en vóór de ingebruikname van   houders van gevaarlijke vloeistoffen van groep 1 en groep 2 (hoofdstuk 5.17 van   titel II van het VLAREM)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>B2.2... controle vóór de plaatsing en vóór de ingebruikname van   houders van gevaarlijke vloeistoffen van groep 3 (hoofdstuk 5.17 van titel II   van het VLAREM)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>B3...... controle vóór de plaatsing en vóór de ingebruikname van   vaste houders van gevaarlijke gassen (hoofdstuk 5.17 van titel II van het   VLAREM)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 35.4pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uitvoeren van   periodieke onderzoeken van houders:</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>C1...... uitvoeren van de periodieke onderzoeken van   ondergrondse en bovengrondse houders van brandbare vloeistoffen&nbsp; (hoofdstuk   5.6 van titel II van het VLAREM)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>C2.1. uitvoeren van de periodieke onderzoeken van ondergrondse   en bovengrondse houders van gevaarlijke vloeistoffen van groep 1 en groep 2   (hoofdstuk 5.17 van titel II van het VLAREM)</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>C2.2.. uitvoeren van de periodieke onderzoeken van ondergrondse   en bovengrondse houders van vloeistoffen van groep 3 (hoofdstuk 5.17 van titel   II van het VLAREM) </P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 70.8pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>C3...... uitvoeren van de periodieke onderzoeken van vaste   houders voor opslag van gevaarlijke gassen (hoofdstuk 5.17 van titel II van het   VLAREM)</P>  <P   style="TEXT-INDENT: -35.45pt; MARGIN: 0cm 0cm 0pt 35.45pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uitvoeren van de   controles en periodieke onderzoeken van installaties voor het behandelen van   gassen (hoofdstuk 5.16 van titel II van het VLAREM):</P>  <P   style="TEXT-INDENT: -35.4pt; MARGIN: 0cm 0cm 0pt 35.4pt; tab-stops: -72.0pt -36.0pt 36.0pt 49.65pt right dotted 454.1pt"   class=MsoNormal>E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uitvoeren van de   controles en periodieke onderzoeken van damprecuperatiesystemen (hoofdstuk 5.6   van titel II van het VLAREM)</P>
 
-## BIJLAGE 5 Graden als bedoeld in artikel 9 en 10 (milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen en de discipline bodemcorrosie) en artikel 21 tot en met 24 (juryvoorzitter van de examencommissie bij de opleiding als technicus vloeibare brandstof, gasvormige brandstof of verwarmingsaudit of stookolietechnicus)
+## BIJLAGE 5 Graden als bedoeld in artikel 9 en 10 (milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen en de discipline bodemcorrosie) en artikel 21 tot en met 24 (juryvoorzitter van de examencommissie bij de opleiding als technicus vloeibare brandstof, gasvormige brandstof of stookolietechnicus)
 
 ### BIJLAGE 5
 
@@ -4858,10 +4882,6 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		</tr>
 		<tr>
 			<td>- technicus gasvormige brandstof</td>
-			<td>25 euro</td>
-		</tr>
-		<tr>
-			<td>- technicus verwarmingsaudit</td>
 			<td>25 euro</td>
 		</tr>
 		<tr>
