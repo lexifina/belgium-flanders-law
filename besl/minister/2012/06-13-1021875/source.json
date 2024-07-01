@@ -2,16 +2,16 @@
   "codex_id": 1021875,
   "title": "Ministerieel besluit van 2012-06-13 houdende de vaststelling van het te gebruiken digitaal stemsysteem bij de lokale en provinciale verkiezingen en houdende de aanwijzing van de gemeenten die dat digitaal stemsysteem kunnen gebruiken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021875/VolledigDocument?datum=2018-07-05",
-  "source_sha256": "bd846408030495ffb4c7a45c4cecf12401e7d59bdfba4ead2e7ce2e7e6e2b8ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021875/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "210dddbfab7f4b98743b78aba1bced20a531179ebe0607dd055402559e95cc3c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021875&param=informatie",
-  "as_of": "2018-07-05",
+  "as_of": "2024-07-01",
   "made": "2012-06-13",
   "gazette": "2012-06-26",
   "numac": 2012203448,
   "document_start": "2012-07-06",
   "document_end": null,
-  "in_force": "2018-07-05",
+  "in_force": "2024-07-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-07-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
 }
