@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040666,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-28 tot wijziging van artikel 23ter van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040666/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "190e393d80453a9ecbd06815ff83008d54ec0477dcf344b970e95e0a42d97c5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040666&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2025-02-28",
+  "gazette": "2025-03-21",
+  "numac": 2025002310,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
