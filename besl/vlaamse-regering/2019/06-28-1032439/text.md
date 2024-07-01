@@ -946,21 +946,21 @@ In het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, worden minst
 
 ### ART 19.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voldoet aan de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het beschikt over duidelijk herkenbare lokalen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het vormt organisatorisch één geheel. Het centrum informeert de gebruiker waar, wanneer en hoe de activiteiten worden aangeboden; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het beschikt op minstens één locatie over een aangepaste en voldoende grote ontmoetingsruimte van minstens 90m<sup>2</sup>, die aangepast ingericht is voor de organisatie van activiteiten voor gebruikers; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;het beschikt op minstens één locatie over een aparte gespreksruimte, waar de privacy van de gebruiker gegarandeerd is; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;alle lokalen die gebruikt worden door gebruikers van het centrum en minstens één kantoor- of gespreksruimte voldoen aan de volgende voorwaarden:</span></span></span></span></p>
+<p>Het centrum voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;het beschikt over duidelijk herkenbare lokalen;<br>
+2°&nbsp;het vormt organisatorisch één geheel. Het centrum informeert de gebruiker waar, wanneer en hoe de activiteiten worden aangeboden;<br>
+3°&nbsp;het beschikt op minstens één locatie over een aangepaste en voldoende grote ontmoetingsruimte van minstens 90m<sup>2</sup>, die aangepast ingericht is voor de organisatie van activiteiten voor gebruikers;<br>
+4°&nbsp;het beschikt op minstens één locatie over een aparte gespreksruimte, waar de privacy van de gebruiker gegarandeerd is;<br>
+5°&nbsp;alle lokalen die gebruikt worden door gebruikers van het centrum en minstens één kantoor- of gespreksruimte voldoen aan de volgende voorwaarden:</p>
 
-<p style="margin-left:40px; margin-right:0cm"><span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">ze zijn volledig toegankelijk voor rolstoelgebruikers. In het hoofdgebouw moeten rolstoelgebruikers zelfstandig het gebouw, de lokalen en de sanitaire ruimten kunnen betreden. In de antennes moeten rolstoelgebruikers alleen de sanitaire ruimten zelfstandig kunnen betreden;<br>
-b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de verwarming, ventilatie en verlichting is aangepast aan de bestemming van het lokaal of de ruimte;<br>
-c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de toepasselijke regelgeving over brandveiligheid wordt nageleefd:</span></p>
+<p>a)&nbsp;ze zijn volledig toegankelijk voor rolstoelgebruikers. In het hoofdgebouw moeten rolstoelgebruikers zelfstandig het gebouw, de lokalen en de sanitaire ruimten kunnen betreden. In de antennes moeten rolstoelgebruikers alleen de sanitaire ruimten zelfstandig kunnen betreden;<br>
+b)&nbsp;de verwarming, ventilatie en verlichting is aangepast aan de bestemming van het lokaal of de ruimte;<br>
+c)&nbsp;de toepasselijke regelgeving over brandveiligheid wordt nageleefd:</p>
 
-<p style="margin-left:80px; margin-right:0cm"><span style="font-family:Verdana,sans-serif; font-size:10pt">1)&nbsp;voor het hoofdgebouw: het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen;<br>
-2)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">voor de antennes: het centrum zorgt voor de mogelijkheid tot veilige evacuatie en voor maatregelen voor brandpreventie;&nbsp;</span></p>
+<p>1)&nbsp;voor het hoofdgebouw: het besluit van de Vlaamse Regering van 26 april 2024 tot vaststelling van de specifieke brandveiligheidsnormen waaraan lokale dienstencentra, centra voor dagverzorging, centra voor dagopvang, centra voor kortverblijf, centra voor herstelverblijf, groepen van assistentiewoningen en woonzorgcentra moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen;<br>
+2)&nbsp;voor de antennes: het centrum zorgt voor de mogelijkheid tot veilige evacuatie en voor maatregelen voor brandpreventie;&nbsp;</p>
 
-<p style="margin-left:40px; margin-right:0cm"><span style="font-family:Verdana,sans-serif; font-size:10pt">d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">er zijn minstens twee toiletten beschikbaar. Daarvan is minstens een toilet toegankelijk voor rolstoelgebruikers.</span></p>
+<p>d)&nbsp;er zijn minstens twee toiletten beschikbaar. Daarvan is minstens een toilet toegankelijk voor rolstoelgebruikers.</p>
 
 ## Hoofdstuk 4. Subsidiëring
 
@@ -6795,6 +6795,17 @@ an) bachelor in sport en bewegen;&nbsp;<br>
 ao) master of science in de lichamelijke opvoeding en de bewegingswetenschappen;<br>
 ap) bachelor in de podologie;<br>
 Met bachelor wordt steeds en professioneel gerichte bacheloropleiding bedoeld. Een bachelor bekomen na een academische bacheloropleiding komt niet in aanmerking.<br>
+In afwijking van het eerste lid komen alle professioneel gerichte of academische bacheloropleidingen, of de opleidingen die de bevoegde overheid daarmee heeft gelijkgesteld, in aanmerking als kwalificatie voor de personeelsleden voor reactivering als aan al de volgende voorwaarden is voldaan:<br>
+1° het personeelslid voor reactivering is effectief en aantoonbaar tewerkgesteld in de rechtstreekse zorg en ondersteuning van de bewoners;<br>
+2° de IFIC-code voor het personeelslid voor reactivering in kwestie stemt overeen met<br>
+a) een beschikbare IFIC-code in de functiewijzer onder de departementen ‘Paramedisch’ of ‘Psycho-Sociaal'&nbsp;<br>
+b) IFIC code 6271: Begeleider beschut wonen;&nbsp;<br>
+c) IFIC code 6273: Opvoeder/begeleider in een psychiatrische eenheid/centrum;<br>
+d) een nieuwe IFIC-code in de functiewijzer onder de departementen ‘Paramedisch’ of ‘Psycho-Sociaal', vanaf het moment van validering van het onderhoud van de ontbrekende functie(s) in een sectorale collectieve arbeidsovereenkomst of protocol;<br>
+3° het personeelslid heeft een vorming genoten of geniet een vorming, die start binnen de 3 maanden na indiensttreding, met betrekking tot de doelgroep ouderen.<br>
+<br>
+De tewerkstelling van bachelors als personeel voor reactivering wordt geëvalueerd door de administratie tegen uiterlijk 1 januari 2027.<br>
+<br>
 <br>
 §3. Maximaal 20% van de verpleegkundigen, vermeld in paragraaf 2, punt 1° tot en met 6°, mag worden vervangen door een personeelslid dat een van de kwalificaties, vermeld in paragraaf 2, punt 8°, heeft, als de permanentie, vermeld in artikel 48, wordt gerespecteerd.<br>
 <br>
@@ -6808,8 +6819,7 @@ Het percentage van 20%, vermeld in het eerste lid, kan verhoogd worden tot 30% v
 3° het personeel beschikt over de nodige kwalificaties voor de taken die ze vervullen. De minister kan bepalen welke kwalificaties in aanmerking komen voor de tewerkstelling als begeleider wonen en leven;<br>
 4° het personeel beheerst de Nederlandse taal;<br>
 5° studenten die stage lopen, volgen het beleid van het woonzorgcentrum rond de stage;<br>
-6° het minimale aantal vereiste personeelsleden wordt berekend op het aantal opgenomen bewoners in het woonzorgcentrum, inclusief de gebruikers van het centrum voor kortverblijf, ziekenhuisopnames en andere afwezigheden. Voor gebruikers van andere voorzieningen is een aparte personeelsequipe aantoonbaar.<br>
-&nbsp;</p>
+6° het minimale aantal vereiste personeelsleden wordt berekend op het aantal opgenomen bewoners in het woonzorgcentrum, inclusief de gebruikers van het centrum voor kortverblijf, ziekenhuisopnames en andere afwezigheden. Voor gebruikers van andere voorzieningen is een aparte personeelsequipe aantoonbaar.</p>
 
 ### ART 46.
 
@@ -6886,6 +6896,51 @@ De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholi
 30°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
 31° aan de coördinerend en raadgevend arts wordt een werkruimte met de nodige uitrusting ter beschikking gesteld.</span></p>
 
+### ART 51/1.
+
+§1. In alle verblijfsruimten van het woonzorgcentrum bedraagt de CO2-concentratie maximaal 1200 ppm.&nbsp;<br>
+<br>
+De richtwaarde in de verblijfsruimten is 900 ppm. Het woonzorgcentrum streeft daarom altijd naar een CO2-concentratie in verblijfsruimten die niet meer dan 900 ppm bedraagt.<br>
+<br>
+In het tweede lid wordt verstaan onder richtwaarde: de meetbare blootstellingswaarde van CO2 die overeenkomt met een kwaliteitsniveau van het binnenmilieu dat zo veel mogelijk moet worden bereikt of gehandhaafd.<br>
+<br>
+In afwijking van het eerste lid bedraagt de CO2-concentratie in de volgende gevallen maximaal 900 ppm:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;bij dreigingsniveau oranje, dreigingsniveau rood of dreigingsniveau onbekend zoals gedefinieerd door de Respi-radar en bepaald en gevalideerd door RAG of RMG;<br>
+2°&nbsp;&nbsp; &nbsp;bij een uitbraak van respiratoire infecties in het woonzorgcentrum of bij een vermoeden van een uitbraak van respiratoire infecties in het woonzorgcentrum.<br>
+<br>
+In het vierde lid, 1°, wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;dreigingsniveau onbekend: de situatie waarin een onbekende en onvoorspelbare respiratoire ziektekiem met inherente risico’s opkomt;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;dreigingsniveau oranje: de situatie waarin er een toename is van de circulatie van respiratoire ziektekiemen, waardoor het nodig is om in te grijpen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;dreigingsniveau rood: de situatie waarin er een hoog risico is en waarbij een overbelasting van het zorgsysteem verwacht wordt;<br>
+4°&nbsp;&nbsp; &nbsp;RAG: de Risk Assessment Group die risico’s voor de volksgezondheid analyseert en aan de RMG maatregelen voorstelt om de risico’s te beperken of te controleren;<br>
+5°&nbsp;&nbsp; &nbsp;Respi-radar: een beheersinstrument om de epidemiologische situatie van respiratoire infecties in België op te volgen;<br>
+6°&nbsp;&nbsp; &nbsp;RMG: de Risk Management Group die beslissingen neemt over de maatregelen die de RAG voorstelt, en die over die maatregelen communiceert.<br>
+<br>
+Het woonzorgcentrum neemt alle maatregelen die noodzakelijk zijn om in alle verblijfsruimen te garanderen dat de maxima, vermeld in het eerste en vierde lid, niet overschreden worden. Het woonzorgcentrum kan gebruik maken van de maatregelen die vermeld zijn in de ‘Leidraad voor een ventilatieplan - Ventilatie in woonzorgcentra’ en het ‘Kwaliteitshandboek - ventilatie in woonzorgcentra’ die de administratie ter beschikking stelt op haar website.<br>
+<br>
+§2. Het woonzorgcentrum beschikt over een ventilatieplan op maat van de voorziening waarin alle noodzakelijke maatregelen opgenomen zijn om in alle verblijfsruimen de maxima voor CO2-concentratie, vermeld in paragraaf 1, eerste en vierde lid, te garanderen.<br>
+<br>
+Het ventilatieplan, vermeld in het eerste lid, omvat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een procedure om de CO2-concentratie periodiek te screenen. Die screening wordt minstens jaarlijks en minstens tijdens de koude jaarhelft uitgevoerd;<br>
+2°&nbsp;&nbsp; &nbsp;de resultaten van de CO2-screening en de verbeterpunten die daaraan zijn gekoppeld;<br>
+3°&nbsp;&nbsp; &nbsp;een procedure om het ventilatiesysteem te onderhouden en te beheren;<br>
+4°&nbsp;&nbsp; &nbsp;de registratie van het onderhoud en het beheer van het ventilatiesysteem;<br>
+5°&nbsp;&nbsp; &nbsp;een beschrijving van de maatregelen opdat het maximum van 1200 ppm CO2 in de verblijfsruimten gegarandeerd kan worden en blijven;<br>
+6°&nbsp;&nbsp; &nbsp;een beschrijving van de maatregelen opdat, als dat vereist is, het maximum van 900 ppm CO2 in de verblijfsruimten gegarandeerd kan worden en blijven;<br>
+7°&nbsp;&nbsp; &nbsp;een planning voor verbeteracties en maatregelen.<br>
+<br>
+In het tweede lid, 1°, wordt verstaan onder koude jaarhelft: de koude jaarhelft, vermeld in punt 2° van de bijlage bij het Binnenmilieubesluit van 11 juni 2004.<br>
+<br>
+Over de opvolging en evaluatie van het ventilatieplan, vermeld in het eerste lid, maakt de voorziening tweejaarlijks een ventilatierapport op. Dat rapport heeft betrekking op de periode van 1 juli van het jaar dat twee jaar voorafgaat aan de opmaak van het ventilatierapport, tot en met 30 juni van het jaar van de opmaak van het rapport. Het ventilatierapport is ter beschikking uiterlijk op 31 december van het jaar van de opmaak ervan.<br>
+<br>
+Het ventilatierapport, vermeld in het vierde lid, omvat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de resultaten van de CO2-screening;<br>
+2°&nbsp;&nbsp; &nbsp;de registratie van het onderhoud en het beheer van het ventilatiesysteem;<br>
+3°&nbsp;&nbsp; &nbsp;de evaluatie van de procedures;<br>
+4°&nbsp;&nbsp; &nbsp;de opvolging van de verbeterpunten.<br>
+<br>
+Het woonzorgcentrum kan de ‘Leidraad voor een ventilatieplan - Ventilatie in woonzorgcentra’ en het ‘Kwaliteitshandboek - Ventilatie in woonzorgcentra’ die de administratie ter beschikking stelt op haar website gebruiken om het ventilatieplan, vermeld in het eerste lid, en het ventilatierapport, vermeld in het vierde lid, op te stellen. De administratie stelt voor het ventilatieplan, vermeld in het eerste lid, en het ventilatierapport, vermeld in het vierde lid, een model ter beschikking.
+
 ### ART 52.
 
 <p><span style="color:black">Alle woonzorgcentra of delen van woonzorgcentra die op 1 januari 2009 erkend zijn of waarvoor voor die datum een aanvraag tot erkenning is ingediend, alsook alle te bouwen woonzorgcentra of woonzorgcentrumgedeelten waarvoor voor 1 januari 2009 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden afgeleverd is, voldoen aan de volgende voorwaarden:<br>
@@ -6913,53 +6968,53 @@ De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholi
 
 ### ART 54.
 
-<p><span style="color:black">De gebouwen van alle nog te ontwerpen woonzorgcentra, uitbreidingen of verbouwingen van woonzorgcentra of delen ervan waarvoor op 1 januari 2017 nog geen stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, en verbouwingen van bestaande woonzorgcentra waarvoor een stedenbouwkundige vergunning nodig is na 1 januari 2017, voldoen aan de volgende voorwaarde: </span><span style="color:black">de infrastructuur van het woonzorgcentrum en de omgeving die voor bewoners en bezoekers toegankelijke is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.<br>
+<p>De gebouwen van alle nog te ontwerpen woonzorgcentra, uitbreidingen of verbouwingen van woonzorgcentra of delen ervan waarvoor op 1 januari 2017 nog geen stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, en verbouwingen van bestaande woonzorgcentra waarvoor een stedenbouwkundige vergunning nodig is na 1 januari 2017, voldoen aan de volgende voorwaarde: de infrastructuur van het woonzorgcentrum en de omgeving die voor bewoners en bezoekers toegankelijke is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.<br>
 <br>
 Alle kamers van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16&nbsp;m², sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 58, met minstens een toilet, een &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wastafel en bijbehorende opbergruimte;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een tweepersoonskamer heeft een nettovloeroppervlakte van ten minste&nbsp; 30m², sanitair niet inbegrepen. De tweepersoonskamer beschikt over een aparte sanitaire cel, aangepast aan de behoeften van een&nbsp;rolstoelgebruiker als vermeld in artikel 58, met minstens een toilet en twee wastafels en bijbehorende opbergruimte;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">niet meer dan 10% van het totale aantal bewoners wordt in tweepersoonskamers gehuisvest. De koppelbare eenpersoonskamers worden daarin niet meegerekend.</span><br>
+1°&nbsp;een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16&nbsp;m², sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 58, met minstens een toilet, een &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wastafel en bijbehorende opbergruimte;<br>
+2°&nbsp;een tweepersoonskamer heeft een nettovloeroppervlakte van ten minste&nbsp; 30m², sanitair niet inbegrepen. De tweepersoonskamer beschikt over een aparte sanitaire cel, aangepast aan de behoeften van een&nbsp;rolstoelgebruiker als vermeld in artikel 58, met minstens een toilet en twee wastafels en bijbehorende opbergruimte;<br>
+3°&nbsp;niet meer dan 10% van het totale aantal bewoners wordt in tweepersoonskamers gehuisvest. De koppelbare eenpersoonskamers worden daarin niet meegerekend.<br>
 <br>
-<span style="color:black">Alle gemeenschappelijke ruimten van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de infrastructuur van het woonzorgcentrum kan een kleinschalige werking toelaten, al dan niet voor specifieke doelgroepen en al dan niet in een groter geheel;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">per leefgroep is er een aparte zit- en eetruimte die voldoende ruim is zodat &nbsp;alle leden van de leefgroep die ruimte gelijktijdig kunnen gebruiken. Als de afdeling uit verschillende leefgroepen bestaat, kunnen de zit- en eetruimten van de verschillende leefgroepen eventueel geschakeld worden &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; per afdeling;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de totale oppervlakte van de verblijfsruimten in de leefgroep bedraagt minimaal 30m² per bewoner. Die oppervlakte omvat de woongelegenheid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de rustpunten die aansluiten op de gangen;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de oppervlakte van de gemeenschappelijke zit- en eetruimten in de leefgroep bedraagt altijd minimaal 4 m² per bewoner;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">bij een cafetaria wordt het aantal toiletten afgestemd op de voorziene bezetting, waarbij er altijd minstens twee rolstoeltoegankelijke toiletten &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beschikbaar zijn;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in de onmiddellijke buurt van de kinesitherapieruimte is een aangepast toilet beschikbaar;<br>
-7°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">per begonnen schijf van twintig woongelegenheden zonder individuele &nbsp;douche is een gemeenschappelijke badkamer met aangepaste bad- en &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; douchegelegenheid en toilet beschikbaar;<br>
-8°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">per dertig woongelegenheden met individuele douche is er een gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar. Bij het overschrijden van de helft van elke nieuwe schijf van dertig woongelegenheden met individuele douche is er een extra gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar.</span><br>
+Alle gemeenschappelijke ruimten van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan de volgende voorwaarden:<br>
+1°&nbsp;de infrastructuur van het woonzorgcentrum kan een kleinschalige werking toelaten, al dan niet voor specifieke doelgroepen en al dan niet in een groter geheel;<br>
+2°&nbsp;per leefgroep is er een aparte zit- en eetruimte die voldoende ruim is zodat &nbsp;alle leden van de leefgroep die ruimte gelijktijdig kunnen gebruiken. Als de afdeling uit verschillende leefgroepen bestaat, kunnen de zit- en eetruimten van de verschillende leefgroepen eventueel geschakeld worden &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; per afdeling;<br>
+3°&nbsp;de totale oppervlakte van de verblijfsruimten in de leefgroep bedraagt minimaal 30m² per bewoner. Die oppervlakte omvat de woongelegenheid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de rustpunten die aansluiten op de gangen;<br>
+4°&nbsp;de oppervlakte van de gemeenschappelijke zit- en eetruimten in de leefgroep bedraagt altijd minimaal 4 m² per bewoner;<br>
+5°&nbsp;bij een cafetaria wordt het aantal toiletten afgestemd op de voorziene bezetting, waarbij er altijd minstens twee rolstoeltoegankelijke toiletten &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beschikbaar zijn;<br>
+6°&nbsp;in de onmiddellijke buurt van de kinesitherapieruimte is een aangepast toilet beschikbaar;<br>
+7°&nbsp;per begonnen schijf van twintig woongelegenheden zonder individuele &nbsp;douche is een gemeenschappelijke badkamer met aangepaste bad- en &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; douchegelegenheid en toilet beschikbaar;<br>
+8°&nbsp;per dertig woongelegenheden met individuele douche is er een gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar. Bij het overschrijden van de helft van elke nieuwe schijf van dertig woongelegenheden met individuele douche is er een extra gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar.<br>
 <br>
-<span style="color:black">Alle andere ruimten van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan de volgende voorwaarde: er is ten minste een uitgeruste en aparte ruimte voor kinesitherapie of ergotherapie met bijbehorende bergruimte. De ruimte biedt de nodige privacy voor de bewoners.<br>
+Alle andere ruimten van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan de volgende voorwaarde: er is ten minste een uitgeruste en aparte ruimte voor kinesitherapie of ergotherapie met bijbehorende bergruimte. De ruimte biedt de nodige privacy voor de bewoners.<br>
 <br>
 De buitenruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er is een beschutte fietsenstalling voor bezoekers en personeel beschikbaar;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">per bewoner is een oppervlakte van 3 m² beschikbaar als buitenruimte voor bewoners, bezoekers en personeel.</span><br>
+1°&nbsp;er is een beschutte fietsenstalling voor bezoekers en personeel beschikbaar;<br>
+2°&nbsp;per bewoner is een oppervlakte van 3 m² beschikbaar als buitenruimte voor bewoners, bezoekers en personeel.<br>
 <br>
-<span style="color:black">De circulatieruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners, beschikt over ten minste één lift. Minstens één lift is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; geschikt voor liggend vervoer. Het aantal liften wordt afgestemd op het aantal bewoners en het voorziene gebruik;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle gangen die voor de bewoners toegankelijk zijn, zijn minstens 1,80 m breed;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in het kader van valpreventie zijn de trappenhallen beveiligd.</span><br>
+De circulatieruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
+1°&nbsp;elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners, beschikt over ten minste één lift. Minstens één lift is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; geschikt voor liggend vervoer. Het aantal liften wordt afgestemd op het aantal bewoners en het voorziene gebruik;<br>
+2°&nbsp;alle gangen die voor de bewoners toegankelijk zijn, zijn minstens 1,80 m breed;<br>
+3°&nbsp;in het kader van valpreventie zijn de trappenhallen beveiligd.<br>
 <br>
-<span style="color:black">De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in elke zit- en leefruimte kunnen alle bewoners van een leefgroep op een comfortabele manier zitten;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in afwijking van artikel 53, 30°, zijn alle bedden in de hoogte verstelbaar en aangepast aan de specifieke behoeften van de bewoner;&nbsp;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in de woongelegenheid is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en ondersteuning van de bewoner, altijd mogelijk;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ICT is beschikbaar in het woonzorgcentrum, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de bewoners, de kwaliteit van de zorg en de zorgopvolging en de uitvoering van zorgtaken.</span><br>
+De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
+1°&nbsp;in elke zit- en leefruimte kunnen alle bewoners van een leefgroep op een comfortabele manier zitten;<br>
+2°&nbsp;in afwijking van artikel 53, 30°, zijn alle bedden in de hoogte verstelbaar en aangepast aan de specifieke behoeften van de bewoner;&nbsp;<br>
+3°&nbsp;in de woongelegenheid is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en ondersteuning van de bewoner, altijd mogelijk;<br>
+4°&nbsp;ICT is beschikbaar in het woonzorgcentrum, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de bewoners, de kwaliteit van de zorg en de zorgopvolging en de uitvoering van zorgtaken.<br>
 <br>
-<span style="color:black">Het bewonerscomfort van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ruimten voor bewoners worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de verlichting houdt rekening met de veiligheid en de behoeften van de bewoners. In de verblijfsruimten wordt in een basisverlichting voorzien, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een&nbsp;centraal gebouwbeheersysteem;&nbsp;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden. </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">Voor de ramen aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Voor de andere ramen wordt aangepaste zonnewering voorzien. Bij toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;&nbsp;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
-7°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende de energieprestatie en het binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke Gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;<br>
-8°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het globale isolatiepeil is maximaal K35;<br>
-9°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
-10°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de minimale verdiepingshoogte is 2,50 m.</span></p>
-<span style="color:black">​​​​​</span><br>
-<span style="color:black">Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud van de technische installaties. Die persoon staat in voor de energieboekhouding.</span>
+Het bewonerscomfort van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
+1°&nbsp;ruimten voor bewoners worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
+2°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de bewoners. In de verblijfsruimten wordt in een basisverlichting voorzien, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+3°&nbsp;de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een&nbsp;centraal gebouwbeheersysteem;&nbsp;<br>
+4°&nbsp;in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
+5°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden. Voor de ramen aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Voor de andere ramen wordt aangepaste zonnewering voorzien. Bij toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;&nbsp;<br>
+6°&nbsp;het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
+7°&nbsp;een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende de energieprestatie en het binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke Gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;<br>
+8°&nbsp;het globale isolatiepeil is maximaal K35;<br>
+9°&nbsp;...;<br>
+10°&nbsp;de minimale verdiepingshoogte is 2,50 m.</p>
+​​​​​<br>
+Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud van de technische installaties. Die persoon staat in voor de energieboekhouding.
 
 ### ART 55.
 
@@ -7162,6 +7217,20 @@ In afwijking van artikel 28 gelden de volgende overgangsmaatregelen:<br>
 3° op uiterlijk 1 juni 2024 is de zorgzwaarte in het kader van de zorgplanning van minstens 40% van de bewoners van het woonzorgcentrum die op dat moment opgenomen zijn, al vastgesteld aan de hand van BelRAI LTCF;<br>
 4° op uiterlijk 1 januari 2025 is de zorgzwaarte in het kader van de zorgplanning van minstens 70% van de bewoners van het woonzorgcentrum die op dat moment opgenomen zijn, al vastgesteld aan de hand van BelRAI LTCF;&nbsp;<br>
 5° uiterlijk op 1 juni 2025 is de zorgzwaarte in het kader van de zorgplanning van alle bewoners van het woonzorgcentrum vastgesteld aan de hand van BelRAI LTCF.
+
+### ART 84/1.
+
+§1. De woonzorgcentra die op 1 juli 2024 zijn erkend, beschikken uiterlijk op 31 december 2025 over een ventilatieplan als vermeld in artikel 51/1, §2.&nbsp;<br>
+<br>
+De woonzorgcentra die op 1 juli 2024 zijn erkend, beschikken uiterlijk op 31 december 2026 over een eerste ventilatierapport als vermeld in artikel 51/1, §2.<br>
+<br>
+§2. De woonzorgcentra die voor de eerste keer erkend worden tussen 1 juli 2024 en 31 december 2024, beschikken uiterlijk op 31 december 2025 over een ventilatieplan als vermeld in artikel 51/1, §2.&nbsp;<br>
+<br>
+De woonzorgcentra die voor de eerste keer erkend worden tussen 1 juli 2024 en 31 december 2024, beschikken uiterlijk op 31 december 2026 over een eerste ventilatierapport als vermeld in artikel 51/1, §2.<br>
+<br>
+§3. De woonzorgcentra die voor de eerste keer erkend worden vanaf 1 januari 2025, beschikken uiterlijk één jaar na de ingangsdatum van de erkenning over een ventilatieplan als vermeld in artikel 51/1, §2.<br>
+<br>
+De woonzorgcentra die voor de eerste keer erkend worden vanaf 1 januari 2025, beschikken uiterlijk op 31 december van het tweede jaar dat volgt op het jaar van de ingangsdatum van de erkenning, over een eerste ventilatierapport als vermeld in artikel 51/1, §2.
 
 ## Bijlage 12. Verenigingen voor mantelzorgers en gebruikers
 
