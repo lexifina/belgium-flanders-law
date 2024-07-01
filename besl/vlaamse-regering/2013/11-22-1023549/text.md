@@ -712,13 +712,15 @@ Gezinnen betalen het inkomenstarief voor de opvang op een dringende opvangplaats
 
 Het agentschap kan conform artikel 40/19 en 40/20 een subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut toekennen aan organisatoren met een vergunning voor gezinsopvang als vermeld in het decreet van 20 april 2012, die met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders werken.<br>
 <br>
-De subsidie, vermeld in het eerste lid, bedraagt:<br>
+De subsidie, vermeld in het eerste lid, die door het agentschap is toegekend op basis van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning en het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang, bedraagt:<br>
 1° voor de organisator die onder de private sector valt: 16.884,00 euro (zestienduizend achthonderdvierentachtig euro) per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
 2° voor de organisator die onder de publieke sector valt: 21.147,30 euro (eenentwintigduizend honderdzevenenveertig euro dertig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende meer dan dertig dagen, vanaf de eenendertigste dag waarop de voltijdsequivalent of de fractie ervan niet is ingevuld.&nbsp;<br>
+De subsidie, vermeld in het eerste lid, die na 1 april 2024 door het agentschap op basis van artikel 40/20 wordt toegekend, bedraagt 21.570,25 euro (eenentwintigduizend vijfhonderdzeventig euro vijfentwintig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
 <br>
-De organisator verliest het recht op de subsidie, vermeld in het eerste lid, als een voltijdsequivalent kinderbegeleider in een werknemersstatuut niet wordt ingevuld of uit dienst treedt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de kalenderdag waarin de gewijzigde situatie zich heeft voorgedaan.<br>
+Het bedrag, vermeld in het tweede en derde lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende meer dan dertig dagen, vanaf de eenendertigste dag waarop de voltijdsequivalent of de fractie ervan niet is ingevuld.&nbsp;<br>
+<br>
+De organisator verliest het recht op de subsidie, vermeld in het eerste lid, als een voltijdsequivalent kinderbegeleider in een werknemersstatuut niet wordt ingevuld of uit dienst treedt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de kalenderdag waarin de gewijzigde situatie zich heeft voorgedaan.&nbsp;De periode van zes maanden kan op verzoek van de organisator één keer verlengd worden met vier maanden conform de administratieve richtlijnen van het agentschap.<br>
 &nbsp;
 
 ### ART 40/18.
@@ -741,8 +743,18 @@ Het agentschap kan na een algemene oproep middelen toekennen aan organisatoren a
 <br>
 De aanvraag van een organisator wordt uitgesloten als er ernstige dossiermatige indicaties zijn die erop wijzen dat de vergunningsvoorwaarden of de subsidievoorwaarden niet nageleefd kunnen worden of als er is geen duidelijk en realistisch perspectief is waaruit blijkt dat de organisator in staat is om negentig dagen na de datum van de toewijzingsbeslissing van de bijkomende voltijds equivalente werknemers als werkgever op te treden.<br>
 <br>
-De minister bepaalt de nadere regels voor de inhoud van de oproep en de procedure voor de behandeling van de aanvragen en legt de voorrangscriteria vast, rekening houdend met de subsidievoorwaarden vermeld in artikel 40/18.<br>
+De minister bepaalt de nadere regels voor de inhoud van de oproep, waaronder het beschikbaar budget en de verdeling van dat budget tussen de private en publieke sector, en de procedure voor de behandeling van de aanvragen en legt de voorrangscriteria vast, rekening houdend met de subsidievoorwaarden vermeld in artikel 40/18.<br>
 &nbsp;
+
+### ART 40/21.
+
+Het agentschap bezorgt op digitale wijze het voornemen over het verlies van het recht op de subsidie, vermeld in artikel 40/17, vierde lid, aan die organisator.&nbsp;<br>
+&nbsp;<br>
+De organisator, vermeld in artikel 3, beschikt over tien dagen vanaf de datum van kennisgeving van het voornemen, vermeld in het eerste lid, om te reageren op het voornemen.<br>
+&nbsp;<br>
+Het agentschap beslist binnen dertig dagen na de dag waarop het antwoord van de organisator, vermeld in artikel 3, heeft ontvangen, of na afloop van de reactietermijn, vermeld in het eerste lid.<br>
+&nbsp;<br>
+Het agentschap bezorgt de beslissing op digitale wijze uiterlijk tien dagen na de datum van de beslissing.
 
 ## TITEL 5 Subsidie voor inclusieve kinderopvang
 
