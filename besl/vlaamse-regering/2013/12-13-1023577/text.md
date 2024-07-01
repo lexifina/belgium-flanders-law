@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder :<br>
 4° gemengde commissie : de gemengde commissie, vermeld in artikel 9 van het decreet van 8 maart 2013;<br>
 5° lokaal actieplan : het plan, vermeld in artikel 10, eerste lid, van het decreet van 8 maart 2013;<br>
 6° strategisch plan : het plan, vermeld in artikel 8 van het decreet van 8 maart 2013;<br>
-7° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
+7° ...
 
 ## HOOFDSTUK 2 Organisatie van de Vlaamse hulp- en dienstverlening aan gedetineerden
 
@@ -74,21 +74,17 @@ Het coördinatieteam zorgt voor de organisatie van het hulp- en   dienstverlenin
 
 ### ART. 9.
 
-<p>§1.In elke gevangenis oefenen een of meer personeelsleden van het centrum voor algemeen welzijnswerk de opdracht ondersteuning uit, vermeld in artikel 12, tweede lid, 3°, van het decreet van 8 maart 2013.</p>
-
-<p>Binnen de beschikbare begrotingskredieten wordt voor de uitoefening van de opdracht, vermeld in het eerste lid, aan elk erkend centrum voor algemeen welzijnswerk een jaarlijks subsidiebedrag toegekend voor de inzet van een halve voltijdse equivalent per gevangenis die in het werkingsgebied van het centrum gelegen is.</p>
-
-<p>Naast de subsidies, vermeld in het tweede lid, worden, rekening houdende met de totale capaciteit van de gevangenis of gevangenissen die zich in het werkingsgebied van het centrum voor algemeen welzijnswerk bevinden, als volgt extra subsidies toegekend :<br>
-1° als de totale capaciteit van de gevangenissen in het werkgebied 100 tot en met 399 gedetineerden bedraagt, ontvangt het centrum voor algemeen welzijnswerk extra subsidies voor de inzet van een halve extra voltijdse equivalent;<br>
-2° als de totale capaciteit van de gevangenissen in het werkgebied 400 tot en met 699 gedetineerden bedraagt, ontvangt het centrum voor algemeen welzijnswerk extra subsidies voor de inzet van één extra voltijdse equivalent;<br>
-3° als de totale capaciteit van de gevangenissen in het werkgebied 700 tot en met 999 gedetineerden bedraagt, ontvangt het centrum voor algemeen welzijnswerk extra subsidies voor de inzet van twee extra voltijdse equivalenten;<br>
-4° als de totale capaciteit van de gevangenissen in het werkgebied 1000 gedetineerden of meer bedraagt, ontvangt het centrum voor algemeen welzijnswerk extra subsidies voor de inzet van tweeënhalve extra voltijdse equivalenten.</p>
-
-<p>In afwijking van het derde lid worden voor het centrum voor algemeen welzijnswerk dat de gevangenissen binnen het Brusselse Hoofdstedelijke Gewest in zijn werkgebied heeft, de totale subsidies berekend op basis van een derde van de totale capaciteit.&nbsp;<br>
+<p>§1. In elke gevangenis oefenen een of meer personeelsleden van de Vlaamse Gemeenschap de opdracht ondersteuning uit, vermeld in artikel 12, tweede lid, 3°, van het decreet van 8 maart 2013.<br>
 <br>
-Om de subsidies, vermeld in het tweede en derde lid, te berekenen, is het forfaitaire bedrag, vermeld in artikel 32, derde lid, en artikel 33 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk, van toepassing.&nbsp;<br>
+Binnen de beschikbare begrotingskredieten wordt voor de uitoefening van de opdracht, vermeld in het eerste lid, een halve voltijdse equivalent per gevangenis toegekend.<br>
 <br>
-De subsidies, vermeld in het tweede en derde lid, worden uitbetaald voor het einde van de maand februari van het jaar waarop de subsidie betrekking heeft.<br>
+Naast de toekenning van een halve voltijdse equivalent, vermeld in het tweede lid, worden, rekening houdende met de totale capaciteit van de gevangenis, als volgt extra voltijdse equivalenten ingezet:<br>
+1° als de totale capaciteit van de gevangenis 100 tot en met 399 gedetineerden bedraagt, wordt een halve extra voltijdse equivalent ingezet;<br>
+2° als de totale capaciteit van de gevangenis 400 tot en met 699 gedetineerden bedraagt, wordt één extra voltijdse equivalent ingezet;<br>
+3° als de totale capaciteit van de gevangenis 700 tot en met 999 gedetineerden bedraagt, worden twee extra voltijdse equivalenten ingezet;<br>
+4° als de totale capaciteit van de gevangenis in het werkgebied 1000 gedetineerden of meer bedraagt, worden tweeënhalve extra voltijdse equivalenten ingezet.<br>
+<br>
+In afwijking van het derde lid, wordt de inzet van de extra voltijdse equivalenten voor de gevangenissen gelegen in het Brussels Hoofdstedelijk Gewest berekend op basis van een derde van de totale capaciteit.<br>
 <br>
 §2. De personen, vermeld in paragraaf 1, eerste lid, fungeren als centraal aanspreekpunt voor de praktische organisatie van de hulp- en dienstverlening voor de actoren en voor het bewakend personeel van Justitie. Ze maken steeds deel uit van het coördinatieteam.</p>
 
@@ -108,11 +104,9 @@ De subsidies, vermeld in het tweede en derde lid, worden uitbetaald voor het ein
 
 <p>§5. In paragraaf 2 en 4 wordt verstaan onder actoren : de organisaties die in het kader van de uitvoering van het decreet van 8 maart 2013 hulp- en dienstverlening aanbieden in de gevangenissen.<br>
 <br>
-§6. De begunstigden van de subsidies, vermeld in paragraaf 1, tweede en derde lid, dienen uiterlijk op 1 mei van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft, op elektronische wijze een functionele en financiële verantwoording als vermeld in artikel 74, eerste lid, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019, in bij het Agentschap Justitie en Handhaving.&nbsp;<br>
+§6. ...<br>
 <br>
-Als uit de financiële verantwoording, vermeld in het eerste lid, blijkt dat de toegekende subsidie de verantwoorde kosten overstijgt, kan het niet-gebruikte deel van de subsidie worden gebruikt voor de aanleg van reserves conform artikel 72 van het voormelde besluit.&nbsp;<br>
-<br>
-§7. De subsidies, vermeld in paragraaf 1, tweede en derde lid, worden toegekend door de administrateur-generaal van het Agentschap Justitie en Handhaving. Een voorafgaande controle door de Inspectie van Financiën bij de toekenning van de subsidies is niet vereist.</p>
+§7. ...</p>
 
 ## Afdeling 5 Coördinatie
 
@@ -126,7 +120,7 @@ Het Agentschap Justitie en Handhaving is verantwoordelijk voor de coördinatie v
 
 ### ART. 11.
 
-<P>Zorginspectie ziet ter plaatse of op stukken erop toe dat de centra voor   algemeen welzijnswerk de ondersteuningsfunctie uitoefenen conform de regels,   vermeld in artikel 9.<BR></P>  <P>De centra verlenen hun medewerking aan de uitoefening van het toezicht. Ze   bezorgen aan Zorginspectie, op zijn eenvoudig verzoek, de stukken die voor de   uitoefening van het toezicht noodzakelijk zijn. Ze staan de personeelsleden van   Zorginspectie toe om ter plaatse de naleving van de regels te verifiëren en alle   stappen te ondernemen die daarvoor nodig zijn.<BR></P>
+<p>...</p>
 
 ## HOOFDSTUK 4 Slotbepalingen
 
