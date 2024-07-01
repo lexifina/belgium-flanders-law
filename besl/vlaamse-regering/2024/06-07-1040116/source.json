@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040116,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-07 tot de erkenning en subsidiëring van omgevingsverenigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040116/VolledigDocument?datum=2024-07-01",
+  "source_sha256": "1999abb98eaa9c801024a9192c49541e78719deca709cf1a173391707e7b240d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040116&param=informatie",
+  "as_of": "2024-07-01",
+  "made": "2024-06-07",
+  "gazette": "2024-08-21",
+  "numac": 2024007822,
+  "document_start": "2024-07-01",
+  "document_end": null,
+  "in_force": "2024-07-01",
+  "article_versions": 72,
+  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
