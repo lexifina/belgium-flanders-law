@@ -79,6 +79,13 @@ In artikel 433 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 5° de loon- en arbeidsvoorwaarden van toepassing in de woonzorgvoorzieningen, zoals vermeld in artikel 2, §1, 19° van het Woonzorgdecreet van 15 februari 2019, in uitvoering van de collectieve arbeidsovereenkomsten afgesloten in het paritair comité voor de gezondheidsinrichtingen en -diensten of in uitvoering van een protocolakkoord, zijn van toepassing op de werknemers tewerkgesteld in het kader van meervoudig werkgeverschap .<br>
 In afwijking van het eerste lid, 1°, bezorgt een centrum voor dagverzorging, dat zorgpersoneel via meervoudig werkgeverschap inzet, voor de referentieperiode van 1 juli 2023 tot en met 30 juni 2024 aan het agentschap een lijst van de medewerkers in kwestie.”.
 
+### ART 7.
+
+In artikel 434, §1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 28 juni 2019 en 4 december 2020, worden de volgende wijzingen aangebracht:<br>
+1° in het eerste lid wordt de zin “Er is geen compensatie mogelijk als het gaat om een tekort voor de norm van 0,35 kinesitherapeut of ergotherapeut of logopedist per vijftien personen die gebruik maken van het centrum voor dagverzorging en of voor de personeelsnorm van 0,5 klinisch psycholoog voor vijftien personen die gebruik maken van het centrum voor dagverzorging.” opgeheven;<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“Er is geen compensatie mogelijk als vermeld in het eerste lid, als het gaat om een tekort voor de norm van 0,5 klinisch psycholoog voor vijftien personen die gebruikmaken van het centrum voor dagverzorging voor personen met een ernstige ziekte, vermeld in artikel 433, §4.”.
+
 ### ART 9.
 
 Aan artikel 454 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 oktober 2023, wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
@@ -91,6 +98,66 @@ Aan artikel 454 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 5° de definitieve berekening wordt door het agentschap bezorgd vanaf de eenendertigste dag die volgt op de voorlopige berekening, vermeld in punt 3°;<br>
 6° een woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, kan tot en met twintig dagen na de dag waarop het de definitieve berekening, vermeld in punt 5°, heeft ontvangen van het agentschap, uitzonderlijk en eenmalig de gegevens laten wijzigen met het oog op een wijziging van de basistegemoetkoming voor zorg door het agentschap. Als de zorgvoorziening gebruikmaakt van die mogelijkheid, wordt er op het bedrag van de basistegemoetkoming voor zorg, na de uitzonderlijke en eenmalige herberekening, gedurende het eerste trimester van het facturatiejaar 2025 een bedrag in mindering gebracht. Dat in mindering te brengen bedrag is gelijk aan 25% van het verschil tussen het bedrag na de uitzonderlijke en eenmalige herberekening en het bedrag na de voorgaande definitieve berekening, vermeld in punt 5°. Als het verschil een negatief bedrag is, wordt het verschil herleid naar nul;<br>
 7° als een woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, de gegevens uitzonderlijk en eenmalig laat wijzigen conform punt 6°, met het oog op een wijziging van de basistegemoetkoming voor zorg én een wijziging van de financiële tegemoetkoming ter vergoeding van de maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan conform artikel 8, §3, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en &nbsp;diensten, wordt alleen het bedrag dat is bepaald conform punt 6°, in mindering gebracht van de basistegemoetkoming voor zorg. Het bedrag voor de financiële tegemoetkoming ter vergoeding van de maatregelen inzake vrijstelling van arbeidsprestaties wordt in dat geval niet verminderd.”.&nbsp;
+
+### ART 10.
+
+Artikel 454 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 oktober 2023 en dit besluit, wordt vervangen door wat volgt:<br>
+&nbsp;<br>
+“Art. 454. Op 30 september volgend op de referentieperiode gaat het agentschap na of voor alle trimesters de elektronische vragenlijst, vermeld in artikel 452, is ingediend. Uiterlijk op 7 oktober volgend op de referentieperiode verstuurt het agentschap een laatste herinnering aan de woonzorgcentra, in voorkomend geval met bijbehorend centrum voor kortverblijf, die geen elektronische vragenlijst, vermeld in artikel 452, voor een of meer trimesters hebben ingediend.<br>
+<br>
+Als het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf de elektronische vragenlijst, vermeld in artikel 452, niet uiterlijk op 15 oktober die volgt op de referentieperiode, heeft ingediend, wordt het bedrag van de definitieve berekening van de basistegemoetkoming voor zorg, vermeld in het zevende lid, verminderd met 25%. Het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, kan de volledige basistegemoetkoming voor zorg verkrijgen vanaf de eerste dag van het trimester dat volgt op het trimester waarin de zorgvoorziening de elektronische vragenlijst, vermeld in artikel 452, heeft ingediend. Dat kan ten vroegste vanaf 1 april van de factureringsperiode.<br>
+<br>
+Het agentschap dient de elektronische vragenlijst, vermeld in artikel 452, in voor de trimesters waarvoor op 16 oktober die volgt op de referentieperiode, geen elektronische vragenlijst is ingediend.&nbsp;<br>
+<br>
+Het agentschap maakt jaarlijks twee voorlopige berekeningen en een definitieve berekening van de basistegemoetkoming voor zorg.&nbsp;<br>
+<br>
+Vanaf 16 oktober die volgt op de referentieperiode, bezorgt het agentschap de eerste voorlopige berekening van de voorlopige berekeningen van de basistegemoetkoming voor zorg, vermeld in het vierde lid. De zorgvoorziening kan aansluitend de gegevens wijzigen tot en met dertig dagen na de dag waarop ze de eerste voorlopige berekening heeft ontvangen van het agentschap. Het agentschap heropent daarvoor alle trimesters van de referentieperiode in kwestie voor alle zorgvoorzieningen. Het agentschap dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van dertig dagen niet opnieuw zijn ingediend.&nbsp;<br>
+<br>
+Vanaf de eenendertigste dag die volgt op de eerste voorlopige berekening, vermeld in het vijfde lid, bezorgt het agentschap de tweede voorlopige berekening van de voorlopige berekeningen van de basistegemoetkoming voor zorg, vermeld in het vierde lid. De zorgvoorziening kan aansluitend de gegevens een laatste keer wijzigen tot veertien dagen na de dag waarop ze de tweede voorlopige berekening heeft ontvangen van het agentschap. De te wijzigen trimesters in kwestie worden heropend na het bezorgen van een motivering aan het agentschap. Het agentschap dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van veertien dagen niet opnieuw zijn ingediend. De elektronische vragenlijst wordt als afgesloten beschouwd.&nbsp;<br>
+<br>
+De definitieve berekening van de basistegemoetkoming voor zorg wordt door het agentschap bezorgd vanaf de vijftiende dag die volgt op de tweede voorlopige berekening, vermeld in het zesde lid.<br>
+<br>
+Een woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, kan tot en met de twintigste na de dag waarop het de definitieve berekening, vermeld in het zevende lid, heeft ontvangen, het agentschap verzoeken om uitzonderlijk en eenmalig de gegevens te laten wijzigen met het oog op een wijziging van de basistegemoetkoming voor zorg door het agentschap. Het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf dient daarvoor een gemotiveerd verzoek in. Een zorgvoorziening die voldoet aan al de volgende voorwaarden, komt in aanmerking voor een wijziging van de gegevens:<br>
+1° een motivering bezorgen over de noodzaak en doelstelling tot aanpassing van de gegevens. De zorgvoorziening deelt daarbij mee in het kader van welke berekening de aanpassing beoogd wordt, welke aanpassing er beoogd wordt en de reden waarom;<br>
+2° een zelfevaluatie bezorgen van de reden waarom de aanpassing van de gegevens noodzakelijk is en niet eerder is meegedeeld;<br>
+3° een actieplan bezorgen met de manier waarop in de toekomst een soortgelijke laattijdige vaststelling van incorrect of onvolledig meegedeelde gegevens zal worden vermeden;<br>
+4° aantonen dat de beoogde aanpassing, verminderd met de vermindering vermeld in het tiende lid, een financiële meerwaarde heeft ten opzichte van de definitieve berekening, vermeld in het zevende lid, die de zorgvoorziening heeft ontvangen.<br>
+<br>
+Het agentschap beoordeelt of voldaan is aan de voorwaarden, vermeld in het achtste lid. Als de voorwaarden niet zijn vervuld, bezorgt de leidend ambtenaar een weigeringsbeslissing aan het woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen. Het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, kan binnen drie maanden na de datum waarop het de weigeringsbeslissing heeft ontvangen, beroep aantekenen bij de arbeidsrechtbank.<br>
+<br>
+Het woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, waarvoor conform het achtste lid, uitzonderlijk en eenmalig de gegevens worden gewijzigd met het oog op een wijziging van de basistegemoetkoming voor zorg, ontvangt een uitzonderlijke eenmalige herberekening. Op het bedrag van de basistegemoetkoming voor zorg wordt een vermindering toegepast van 25% op het eerste trimester van het facturatiejaar, met uitzondering van die gevallen waar de basistegemoetkoming voor zorg met toepassing van het tweede lid al met 25% werd verminderd.&nbsp;<br>
+<br>
+Als een woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, de gegevens uitzonderlijk en eenmalig laat wijzigen conform het achtste lid, met het oog op een wijziging van de basistegemoetkoming voor zorg én een wijziging van de financiële tegemoetkoming voor de vergoeding van de maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan conform artikel 5/1, zevende lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wordt alleen een vermindering als vermeld in het tiende lid, toegepast op de basistegemoetkoming voor zorg. Het bedrag voor de financiële tegemoetkoming ter vergoeding van de maatregelen inzake vrijstelling van arbeidsprestaties wordt in dat geval niet verminderd.”.
+
+### ART 12.
+
+In artikel 456 van hetzelfde besluit, het laatst gewijzigd bij dit besluit, wordt paragraaf 2 vervangen door wat volgt:<br>
+&nbsp;<br>
+“§2. Op 30 september volgend op de referentieperiode gaat het agentschap na of voor alle trimesters de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, is ingediend. Uiterlijk op 7 oktober volgend op de referentieperiode verstuurt het agentschap een laatste herinnering aan de centra voor dagverzorging die geen elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, voor een of meer trimesters hebben ingediend.<br>
+<br>
+Als het centrum voor dagverzorging de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, niet uiterlijk op 15 oktober die volgt op de referentieperiode, heeft ingediend, wordt het bedrag van de definitieve berekening van de basistegemoetkoming voor zorg, vermeld in het zevende lid, verminderd met 25%. Het centrum voor dagverzorging kan de volledige basistegemoetkoming voor zorg verkrijgen vanaf de eerste dag van het trimester dat volgt op het trimester waarin het centrum voor dagverzorging de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, heeft ingediend. Dat kan ten vroegste vanaf 1 april van de factureringsperiode.<br>
+<br>
+Het agentschap dient de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, in voor de trimesters waarvoor op 16 oktober die volgt op de referentieperiode, geen elektronische vragenlijst is ingediend.&nbsp;<br>
+<br>
+Het agentschap maakt jaarlijks twee voorlopige berekeningen en een definitieve berekening van de basistegemoetkoming voor zorg.&nbsp;<br>
+&nbsp;<br>
+Vanaf 16 oktober die volgt op de referentieperiode, bezorgt het agentschap de eerste voorlopige berekening van de voorlopige berekeningen van de basistegemoetkoming voor zorg, vermeld in het vierde lid. De zorgvoorziening kan aansluitend de gegevens wijzigen tot en met dertig dagen na de dag waarop ze de eerste voorlopige berekening heeft ontvangen van het agentschap. Het agentschap heropent daarvoor alle trimesters van de referentieperiode in kwestie, voor alle zorgvoorzieningen. Het agentschap dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van dertig dagen niet opnieuw zijn ingediend.&nbsp;<br>
+<br>
+Vanaf de eenendertigste dag die volgt op de eerste voorlopige berekening, vermeld in het vijfde lid, bezorgt het agentschap de tweede voorlopige berekening van de voorlopige berekeningen van de basistegemoetkoming voor zorg, vermeld in het vierde lid. De zorgvoorziening kan aansluitend de gegevens een laatste keer wijzigen tot veertien dagen na de dag waarop ze de tweede voorlopige berekening heeft ontvangen van het agentschap. De te wijzigen trimesters in kwestie worden heropend na het bezorgen van een motivering aan het agentschap. Het agentschap dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van veertien dagen niet opnieuw zijn ingediend. De elektronische vragenlijst wordt als afgesloten beschouwd.&nbsp;<br>
+<br>
+De definitieve berekening van de basistegemoetkoming voor zorg wordt door het agentschap bezorgd vanaf de vijftiende dag die volgt op de tweede voorlopige berekening, vermeld in het zesde lid.<br>
+<br>
+Een centrum voor dagverzorging kan tot en met de twintigste dag na de dag waarop het centrum voor dagverzorging de definitieve berekening, vermeld in het zevende lid, heeft ontvangen, het agentschap verzoeken om uitzonderlijk en eenmalig de gegevens te laten wijzigen met het oog op een wijziging van de basistegemoetkoming voor zorg door het agentschap. Het centrum voor dagverzorging dient daarvoor een gemotiveerd verzoek in. Een centrum voor dagverzorging dat voldoet aan al de volgende voorwaarden, komt in aanmerking voor een wijziging van de gegevens:<br>
+1° een motivering bezorgen van de noodzaak en doelstelling tot aanpassing van de gegevens. De zorgvoorziening deelt daarbij mee in het kader van welke berekening de aanpassing beoogd wordt, welke aanpassing er beoogd wordt en de reden waarom;<br>
+2° een zelfevaluatie bezorgen van de reden waarom de aanpassing van de gegevens noodzakelijk is en niet eerder is meegedeeld;<br>
+3° een actieplan bezorgen met de manier waarop in de toekomst een soortgelijke laattijdige vaststelling van incorrect of onvolledig meegedeelde gegevens zal worden vermeden;<br>
+4° aantonen dat de beoogde aanpassing, verminderd met de vermindering vermeld in het tiende lid, een financiële meerwaarde heeft ten opzichte van de definitieve berekening, vermeld in het zevende lid, die de zorgvoorziening heeft ontvangen.<br>
+<br>
+Het agentschap beoordeelt of voldaan is aan de voorwaarden, vermeld in het achtste lid. Als de voorwaarden niet zijn vervuld, bezorgt de leidend ambtenaar een weigeringsbeslissing aan het centrum voor dagverzorging met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen. Het centrum voor dagverzorging kan binnen drie maanden na de datum waarop het de weigeringsbeslissing heeft ontvangen, beroep aantekenen bij de arbeidsrechtbank.<br>
+<br>
+Het centrum voor dagverzorging, waarvoor conform het achtste lid uitzonderlijk en eenmalig de gegevens worden gewijzigd met het oog op een wijziging van de basistegemoetkoming voor zorg, ontvangt een uitzonderlijke eenmalige herberekening. Op het bedrag van de basistegemoetkoming voor zorg wordt een vermindering toegepast van 25% op het eerste trimester van het facturatiejaar, met uitzondering van die gevallen waar de basistegemoetkoming voor zorg met toepassing van het tweede lid al met 25% werd verminderd.&nbsp;<br>
+<br>
+Als een centrum voor dagverzorging de gegevens uitzonderlijk en eenmalig laat wijzigen conform het achtste lid, met het oog op een wijziging van de basistegemoetkoming voor zorg én een wijziging van de financiële tegemoetkoming voor de vergoeding van de maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan conform artikel 5/1, zevende lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wordt alleen een vermindering als vermeld in het tiende lid, toegepast op de basistegemoetkoming voor zorg. Het bedrag voor de financiële tegemoetkoming ter vergoeding van de maatregelen inzake vrijstelling van arbeidsprestaties wordt in dat geval niet verminderd.”
 
 ### ART 14.
 
@@ -162,6 +229,18 @@ Aan artikel 534/7, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit 
 <br>
 “Bij een gemiddelde bezettingsgraad van minder dan 50% van de capaciteit met een bijkomende erkenning wordt het totaal aan verminderingen dat het woonzorgcentrum voor het betreffende jaar met toepassing van artikel 527, derde lid, heeft toegekend op de gebruikersfactuur van de gebruikers binnen de bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie, verminderd met het bedrag dat wordt teruggevorderd.”.
 
+### ART 21.
+
+Aan artikel 663/3, §1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018 en gewijzigd bij de besluiten van de Vlaamse Regering van 13 december 2019 en 7 mei 2021, worden een zesde tot en met achtste lid toegevoegd, die luiden als volgt:<br>
+<br>
+“Als er in jaar X een aanpassing plaatsvindt van het maximale percentage van de kostprijs van het gefinancierde personeel, vermeld in artikel 487, §2, wordt MBAFGI in afwijking van het eerste lid, 2°, voor dat jaar X herberekend op de volgende wijze: MBAFGI = MBAF geïndexeerd conform artikel 511 verminderd met MINA2, waarbij MINA2 gelijk is aan het minimum tussen de volgende tweede elementen:<br>
+1° de totale loonkosten voor het aanwezige personeel verminderd met de loonkosten voor het gefinancierde personeel voor de referentieperiode van 1 juli X-2 tot en met 30 juni X-1;<br>
+2° het verschil tussen de maximale invulling deel A2 op basis van het oude maximale percentage en het verhoogde percentage deel A2 conform artikel 487, §2, voor de referentieperiode van 1 juli X-2 tot en met 30 juni X-1.<br>
+<br>
+In het geval, vermeld in het zesde lid, is MBAFGI gelijk aan 0 als MINA2 gelijk is aan 0.<br>
+<br>
+Het bedrag van de aanvullende financiering in een jaar X+1 kan niet stijgen ten opzichte van het bedrag van de aanvullende financiering in het voorgaand jaar X, met uitzondering van de indexering via het bedrag MBAFGI.”.&nbsp;
+
 ### ART 22.
 
 In artikel 663/5, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018, worden de volgende wijzigingen aangebracht:<br>
@@ -170,6 +249,14 @@ In artikel 663/5, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit va
 2° er worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt:<br>
 “7° voor het jaar 2025: het maximale bedrag van de aanvullende financiering wordt geplafonneerd tot 7,84 euro maal het aantal gefactureerde dagen in de referentieperiode van 1 juli 2016 tot en met 30 juni 2017;<br>
 8° vanaf 2026 wordt het bedrag van de aanvullende financiering mee opgenomen bij de integratie van de IFIC-financiering in de basistegemoetkoming voor zorg.”.
+
+### ART 23.
+
+Aan artikel 663/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018, worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+“In afwijking van het eerste lid geldt voor de aanvullende financiering voor ondersteunend personeel, vermeld in artikel 663/4, voor het jaar 2024 dat een zorgvoorziening die geen gegevens heeft aangeleverd voor de referentieperiode 1 juli 2022 tot en met 30 juni 2023, die gegevens uitzonderlijk en eenmalig nog kan aanleveren zolang het rechtenjaar nog niet is afgesloten. De zorgvoorziening deelt de gegevens mee via een formulier dat het agentschap ter beschikking stelt. In dat geval wordt er ook een vermindering toegepast van 25% op het bedrag van de aanvullende financiering in het jaar 2024, vermeld in artikel 663/6, §1, eerste lid, 1°. Het rechtenjaar is afgesloten op de datum dat de betalingen, vermeld in artikel 663/4, zesde lid, zijn uitgevoerd. Uitzonderlijke laattijdige aanlevering van gegevens met als doel een wijziging van de aanvullende financiering voor ondersteunend personeel houdt geen wijziging van andere financieringen in.<br>
+<br>
+In afwijking van het eerste en tweede lid deelt een zorgvoorziening vanaf de aanvullende financiering voor zorgpersoneel boven norm en ondersteunend personeel voor het jaar 2025 de gegevens van de voorliggende referentieperiode mee via de elektronische vragenlijst, vermeld in artikel 452 en artikel 456, waarbij de termijnen, vermeld in artikel 454 en 456, van toepassing zijn. Een zorgvoorziening die de termijnen, vermeld in artikel 454 en 456, niet naleeft, verliest definitief het volledige recht op de aanvullende financiering voor zorgpersoneel boven norm, vermeld in artikel 663/1, en de aanvullende financiering voor ondersteunend personeel, vermeld in artikel 663/4, vanaf het jaar dat volgt op de referentieperiode waarin het feit zich heeft voorgedaan.”.
 
 ### ART 25.
 
@@ -192,6 +279,36 @@ In artikel 5, §2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaam
 2° in het tweede lid wordt het woord “kunne” vervangen door het woord “kunnen”;<br>
 3° het derde lid wordt opgeheven.
 
+### ART 28.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 oktober 2023, wordt een artikel 5/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 5/1. Op 30 september volgend op de referentieperiode gaat de administratie na of voor alle trimesters de elektronische vragenlijst, vermeld in artikel 5, §2, eerste lid, is ingediend. Uiterlijk op 7 oktober volgend op de referentieperiode verstuurt de administratie een laatste herinnering aan de voorzieningen die geen elektronische vragenlijst, vermeld in artikel 5, §2, eerste lid, voor een of meer trimesters hebben ingediend.<br>
+<br>
+Het agentschap dient de elektronische vragenlijst, vermeld in artikel 5, §2, eerste lid, in voor de trimesters waarvoor op 16 oktober die volgt op de referentieperiode geen elektronische vragenlijst is ingediend.&nbsp;<br>
+<br>
+De administratie berekent jaarlijks twee voorlopige berekeningen en een definitieve berekening van de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in artikel 8, §1, eerste lid.<br>
+<br>
+Vanaf 16 oktober die volgt op de referentieperiode bezorgt de administratie de eerste voorlopige berekening van de voorlopige berekeningen, vermeld in het derde lid. De voorziening kan aansluitend de gegevens wijzigen tot en met dertig dagen na de dag waarop ze de eerste voorlopige berekening heeft ontvangen van de administratie. De administratie heropent daarvoor alle trimesters van de referentieperiode in kwestie, voor alle voorzieningen. De administratie dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van dertig dagen niet opnieuw zijn ingediend.&nbsp;<br>
+<br>
+Vanaf de eenendertigste dag die volgt op de eerste voorlopige berekening, vermeld in het vierde lid, bezorgt de administratie de tweede voorlopige berekening van de voorlopige berekeningen, vermeld in het derde lid. De voorziening kan aansluitend de gegevens een laatste keer wijzigen tot veertien dagen na de dag waarop ze de tweede voorlopige berekening heeft ontvangen van de administratie. De te wijzigen trimesters in kwestie worden heropend na het bezorgen van een motivering aan de administratie. De administratie dient de elektronische vragenlijst in voor de trimesters waarvoor de elektronische vragenlijst na de voormelde periode van veertien dagen niet opnieuw zijn ingediend. De elektronische vragenlijst wordt als afgesloten beschouwd.&nbsp;<br>
+<br>
+De definitieve berekening wordt door de administratie bezorgd vanaf de vijftiende dag die volgt op de tweede voorlopige berekening, vermeld in het vijfde lid.<br>
+<br>
+Een voorziening, kan tot en met de twintigste dag na de dag waarop ze de definitieve berekening, vermeld in het zesde lid, heeft ontvangen, de administratie verzoeken om uitzonderlijk en eenmalig de gegevens te laten wijzigen met het oog op een wijziging van de bedragen, vermeld in artikel 8, §1, eerste lid, door de administratie. De voorziening dient daarvoor een gemotiveerd verzoek in. Een voorziening die voldoet aan al de volgende voorwaarden, komt in aanmerking voor een wijziging van de gegevens:<br>
+1° een motivering bezorgen van de noodzaak en het doel van de aanpassing van de gegevens. De voorziening deelt daarbij mee in het kader van welke berekening de aanpassing beoogd wordt, welke aanpassing er beoogd wordt en de reden waarom;<br>
+2° een zelfevaluatie bezorgen van de reden waarom de aanpassing van de gegevens noodzakelijk is en niet eerder is meegedeeld;<br>
+3° een actieplan bezorgen met de manier waarop in de toekomst een soortgelijke situatie laattijdige vaststelling van incorrect of onvolledig meegedeelde gegevens zal worden vermeden;<br>
+4° aantonen dat de beoogde aanpassing, verminderd met de vermindering vermeld in het negende lid, een financiële meerwaarde heeft ten opzichte van de definitieve berekening, vermeld in het zesde lid, die de zorgvoorziening heeft ontvangen.&nbsp;<br>
+<br>
+De administratie beoordeelt of voldaan is aan de voorwaarden, vermeld in het zevende lid. Als de voorwaarden niet zijn vervuld, bezorgt de leidend ambtenaar een weigeringsbeslissing aan de voorziening met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen. De voorziening kan binnen drie maanden na de datum waarop ze de weigeringsbeslissing heeft ontvangen, beroep aantekenen bij de arbeidsrechtbank.<br>
+<br>
+De voorziening waarvoor met toepassing van het zevende lid, uitzonderlijk en eenmalig de gegevens worden gewijzigd met het oog op een wijziging van de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in artikel 8, §1, eerste lid, ontvangt een uitzonderlijke eenmalige herberekening. Op de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in artikel 8, §1, eerste lid, wordt een vermindering toegepast van 6,25%.&nbsp;<br>
+<br>
+Als een voorziening de gegevens uitzonderlijk en eenmalig laat wijzigen conform het zevende lid, met het oog op een wijziging van de berekening van de bedragen, vermeld in artikel 8, §1, eerste lid, van dit besluit, door de administratie én een wijziging van de basistegemoetkoming voor zorg conform artikel 454, achtste lid, en/of artikel 456, §2, achtste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wordt alleen het bedrag van de basistegemoetkoming voor zorg verminderd conform artikel 454, tiende lid, en artikel 456, §2, tiende lid van het voormelde besluit. De bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in artikel 8, §1, eerste lid, van dit besluit, worden in dat geval niet verminderd.<br>
+<br>
+Als de gegevens, vermeld in artikel 5, §1, eerste lid, op de eenentwintigste dag na de dag waarop de voorziening de definitieve berekening, vermeld in het zesde lid, heeft ontvangen, nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.”.
+
 ### ART 29.
 
 In artikel 8, §3, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 mei 2023 en 20 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -207,3 +324,7 @@ In artikel 8, §3, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaa
 6° een voorziening kan tot en met twintig dagen na de dag waarop ze de definitieve berekening, vermeld in punt 5°, heeft ontvangen van de administratie, uitzonderlijk en eenmalig de gegevens laten wijzigen met het oog op een wijziging van de bedragen, vermeld in paragraaf 1, eerste lid, door de administratie. Als de voorziening gebruikmaakt van die mogelijkheid, wordt er op de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in paragraaf 1, eerste lid, na de uitzonderlijke en eenmalige herberekening, een bedrag in mindering gebracht. Dat in mindering te brengen bedrag is gelijk aan 6,25% van het verschil tussen het bedrag na de uitzonderlijke en eenmalige herberekening en het bedrag na de voorgaande definitieve berekening vermeld in punt 5°. Als het verschil een negatief bedrag is, wordt het verschil herleid naar nul;<br>
 7° als een voorziening de gegevens uitzonderlijk en eenmalig laat wijzigen, met het oog op een wijziging van de bedragen, vermeld in paragraaf 1, eerste lid, door de administratie én een wijziging van de basistegemoetkoming voor zorg conform artikel 454, achtste lid, en artikel 456, §2, achtste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wordt alleen het bedrag van de basistegemoetkoming voor zorg verminderd conform artikel 454, tiende lid, en artikel 456, §2, tiende lid, van het voormelde besluit. De bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in paragraaf 1, eerste lid, worden in dat geval niet verminderd;<br>
 8° als de gegevens, vermeld in artikel 5, §1, eerste lid, op de eenentwintigste dag na de dag waarop de voorziening de definitieve berekening, vermeld in punt 5°, heeft ontvangen, nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in paragraaf 1, eerste lid.”.
+
+### ART 30.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 mei 2023, 20 oktober 2023 en dit besluit, wordt paragraaf 3 opgeheven.&nbsp;
