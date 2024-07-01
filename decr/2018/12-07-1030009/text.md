@@ -73,6 +73,7 @@ v) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen - 
 w) de Limburgse Reconversiemaatschappij;<br>
 x) de Participatiemaatschappij Vlaanderen;<br>
 y) de Vlaamse Participatiemaatschappij;<br>
+z) Het Eigen Vermogen Xperta.<br>
 5° lokale overheden:<br>
 a) de gemeenten;<br>
 b) de districten;<br>
@@ -1463,7 +1464,7 @@ Tenzij het anders is vermeld in deze afdeling, is deze afdeling van toepassing o
 4° de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen;<br>
 5° de secretariaten van de strategische adviesraden;<br>
 6° de Vlaamse openbare instellingen De Watergroep, de Vlaamse Radio- en Televisieomroep, het Vlaams Fonds voor de Letteren en de Vlaamse Instelling voor Technologisch Onderzoek;<br>
-7° het Ondersteunend Centrum van het Agentschap voor Natuur en Bos, het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek, het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek, het Eigen Vermogen Flanders Hydraulics;<br>
+7° het Ondersteunend Centrum van het Agentschap voor Natuur en Bos, het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek, het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek, het Eigen Vermogen Flanders Hydraulics en het Eigen Vermogen Xperta;<br>
 8° de instanties die niet vallen onder punt 1° tot en met 7° maar die voldoen aan alle volgende kenmerken:<br>
 a) ze maken deel uit van de Vlaamse deelstaatoverheid of zijn in handen van de Vlaamse deelstaatoverheid en vallen onder het exclusief toezicht van de Vlaamse Gemeenschap of het Vlaamse Gewest, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EU) nr. 549/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende het Europees systeem van nationale en regionale rekeningen in de Europese Unie;<br>
 b) ze bezitten rechtspersoonlijkheid;<br>
