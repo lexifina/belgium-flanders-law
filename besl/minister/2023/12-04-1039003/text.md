@@ -13,6 +13,33 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN BESLUIT:
 
+### ART 1.
+
+In hoofdstuk 2, afdeling 1, van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013 wordt het opschrift van onderafdeling 1 vervangen door wat volgt:<br>
+<br>
+“Onderafdeling 1. Starterstraject”.
+
+### ART 2.
+
+Artikel 2 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 2. §1. Het starterstraject, vermeld in artikel 8 van het Vergunningsbesluit van 22 november 2013, gewijzigd bij de besluiten van de Vlaamse Regering van 4 april 2014 en 9 oktober 2015 en vervangen bij het besluit van de Vlaamse Regering van 17 maart 2023, bestaat uit volgende achtereenvolgende onderdelen:<br>
+1° het indienen van een intentieformulier bij het agentschap volgens de administratieve richtlijnen van het agentschap, waarbij gevraagd wordt om aan te tonen in welke mate de competenties, vermeld in artikel 13/0, tweede lid, van het Vergunningsbesluit van 22 november 2013, aanwezig zijn;&nbsp;<br>
+2° het hebben van een kennismakingsgesprek met het agentschap, voortgaande op het onderdeel, vermeld in 1°;&nbsp;<br>
+3° het volgen van een interactief begeleidingstraject, georganiseerd door het ondersteuningsnetwerk kinderopvang, waarbij de competenties aan bod komen die nodig zijn om aan art 13/0, tweede lid, van het Vergunningsbesluit van 22 november 2013 te kunnen voldoen. De organisator maakt een concreet ondernemingsplan op dat de basis vormt van dit traject. Voor kinderbegeleiders die tevens organisator gezinsopvang zijn, maakt de inhoud van het traject gezinsopvang, vermeld in artikel 3, deel uit van dit traject. Na afloop van dit traject bezorgt het ondersteuningsnetwerk kinderopvang een attest aan de organisator, volgens de administratieve richtlijnen van het agentschap, waaruit blijkt dat het starterstraject is afgerond. Dit attest bevat een gemotiveerd hetzij gunstig, hetzij ongunstig advies, waarbij er ook sprake kan zijn van een gunstig advies met aandachtspunten.<br>
+<br>
+In het eerste lid wordt verstaan onder ondersteuningsnetwerk kinderopvang: het ondersteuningsnetwerk kinderopvang, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang.&nbsp;<br>
+<br>
+§2. Voor een organisator die nog geen vergunning heeft, vangt het starterstraject, vermeld in paragraaf 1, aan met volgend extra onderdeel: het volgen van een informatieve sessie, georganiseerd door het agentschap, waarbij kennis van de vergunningsvoorwaarden aan bod komt, met focus op het beleidsvoerend vermogen van de organisator, vermeld in artikel 13/0 van het Vergunningsbesluit van 22 november 2013.&nbsp;<br>
+<br>
+§3. Voor een organisator die vanuit ervaring in het organiseren van kinderopvang of van een gelijkaardige activiteit kan aantonen dat hij over voldoende beleidsvoerend vermogen beschikt, kan het agentschap vanuit het onderdeel, vermeld in paragraaf 1, 1°, beslissen dat de onderdelen, vermeld in paragraaf 1, 2° of 3°, niet doorlopen moeten worden. In dat geval wordt het starterstraject geacht te zijn afgerond.<br>
+<br>
+§4. In afwijking van paragraaf 1, zijn volgende organisatoren vrijgesteld voor alle onderdelen en wordt het starterstraject geacht afgerond te zijn:<br>
+1° organisatoren die in aanmerking komen voor een vereenvoudigde vergunningsprocedure, vermeld in artikel 10 van het Procedurebesluit van 9 mei 2014;&nbsp;<br>
+2° organisatoren die minstens 24 maanden organisator zijn en beschikken over een attest dat het starterstraject is afgerond, in geval er advies van het ondersteuningsnetwerk is met een gunstig advies, dat maximum 24 maanden geleden werd uitgereikt.&nbsp;<br>
+<br>
+§5. Voor het onderdeel, vermeld in paragraaf 1, 3°, betaalt de organisator een administratieve kost aan het ondersteuningsnetwerk kinderopvang.”.
+
 ### ART 3.
 
 In hoofdstuk 2, afdeling 1, van hetzelfde besluit, wordt het opschrift van onderafdeling 2 vervangen door wat volgt:<br>
@@ -49,6 +76,10 @@ In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 “e) een attest van lesgever eerstehulpverlening, uitgereikt door een vormingsinstituut, gespecialiseerd in het thema eerstehulpverlening. De lesgever werkt bovendien als beroepslesgever voor deze uitreikende organisatie, die verantwoordelijk is voor de kwaliteit van de lessen en de bijscholing van de lesgever;”;<br>
 2° het vierde lid wordt vervangen door wat volgt:<br>
 “De instanties die een attest als vermeld in het tweede lid, kunnen uitreiken, kunnen gepubliceerd worden op de website van het agentschap.”.
+
+### ART 6.
+
+In hoofdstuk 2, afdeling 1, van hetzelfde besluit wordt onderafdeling 4, die bestaat uit artikel 5, opgeheven.
 
 ### ART 7.
 
