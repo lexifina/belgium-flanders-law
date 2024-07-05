@@ -2,16 +2,16 @@
   "codex_id": 1036966,
   "title": "Besluit van een ambtenaar van 2022-04-14 tot regeling van de delegatie van handtekening aan sommige personeelsleden van de Afdeling Algemene diensten",
   "type": "Besluit van een ambtenaar",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036966/VolledigDocument?datum=2022-04-15",
-  "source_sha256": "0247c15cdb0bd17283a9e41e8e947d9611cd7aac84478859b24b9a038696063b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036966/VolledigDocument?datum=2024-07-05",
+  "source_sha256": "1a97c91823224430f55654b00f5aa06c99b93d48f712e6e581540c051c06fc0e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036966&param=informatie",
-  "as_of": "2022-04-15",
+  "as_of": "2024-07-05",
   "made": "2022-04-14",
   "gazette": "2022-04-29",
   "numac": 2022020738,
   "document_start": "2022-04-15",
   "document_end": "2024-07-04",
-  "in_force": "2022-04-15",
+  "in_force": "2024-07-05",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2022-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-05; future article versions excluded; article text as the API gives it"
 }
