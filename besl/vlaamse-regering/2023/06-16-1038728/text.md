@@ -1518,7 +1518,7 @@ Artikelen 28 tot en met 30 treden in werking op een door de Vlaamse minister, be
 <br>
 Artikel 31 treedt in werking op een datum door de minister, bevoegd voor het Woonbeleid, te bepalen datum.<br>
 <br>
-Artikel 21 treedt in werking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.
+Artikel 21 treedt in werking op 1 januari 2025.
 
 ### ART 120.
 
