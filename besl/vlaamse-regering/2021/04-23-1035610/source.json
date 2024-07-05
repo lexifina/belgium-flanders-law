@@ -2,16 +2,16 @@
   "codex_id": 1035610,
   "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot uitvoering van het decreet van 30 november 2018 betreffende de gebouwenpas",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035610/VolledigDocument?datum=2021-06-12",
-  "source_sha256": "6179ce6ae1b74000085134155abd25ab822959e5587bd64205c8b224a2aa1dae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035610/VolledigDocument?datum=2024-07-05",
+  "source_sha256": "7e9c431543a0565d9b8dd2d44e581aba9caeb53a1692fffd9d6120a87cec17f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035610&param=informatie",
-  "as_of": "2021-06-12",
+  "as_of": "2024-07-05",
   "made": "2021-04-23",
   "gazette": "2021-06-02",
   "numac": 2021041612,
   "document_start": "2021-06-12",
   "document_end": null,
-  "in_force": "2021-06-12",
+  "in_force": "2024-07-05",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2021-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-05; future article versions excluded; article text as the API gives it"
 }

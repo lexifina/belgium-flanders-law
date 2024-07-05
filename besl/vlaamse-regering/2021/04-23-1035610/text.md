@@ -36,7 +36,9 @@ De diensten van de Vlaamse overheid kunnen de gegevens in de gebouwenpas geanoni
 
 ### ART 3.
 
-De diensten van de Vlaamse overheid zijn verwerkingsverantwoordelijke voor de persoonsgegevens die ze aanleveren. De Openbare Vlaamse Afvalstoffenmaatschappij is verantwoordelijk voor de verwerking van de persoonsgegevens in de gebouwenpas.
+De partijen die informatie aanleveren in de gebouwenpas, zijn verwerkingsverantwoordelijke voor de persoonsgegevens die ze aanleveren. De Openbare Vlaamse Afvalstoffenmaatschappij, het Vlaams Energie- en Klimaatagentschap, Wonen in Vlaanderen, Departement Omgeving en het Agentschap voor Infrastructuur in het Onderwijs zijn de gezamenlijke verwerkingsverantwoordelijken van de gegevens in de gebouwenpas.<br>
+<br>
+De Openbare Vlaamse Afvalstoffenmaatschappij neemt voor de gebouwenpas de leiding in het technisch beheer en de naleving van de wetgeving over gegevensbescherming.
 
 ### ART 4.
 
