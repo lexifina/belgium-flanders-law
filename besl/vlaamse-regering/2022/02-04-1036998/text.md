@@ -37,6 +37,8 @@ Conform artikel 12.6.1, § 1 van het Energiedecreet van 8 mei 2009 en artikel 5.
 
 Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen dat is opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, hierna agentschap genoemd, wordt conform artikel 12.6.1, § 2, eerste lid van het Energiedecreet en artikel 5.75/1, § 2 van de Vlaamse Codex Wonen van 2021, belast met de behandeling en verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
 <br>
+Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Energie- en Klimaatagentschap, dat is opgericht bij titel II van het Energiebesluit van 19 november 2010, hierna het VEKA genoemd, wordt conform artikel 12.6.1, § 2, eerste lid van het Energiedecreet van 8 mei 2009 en artikel 5.75/1, § 2 van de Vlaamse Codex Wonen van 2021, belast met de behandeling en verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
+<br>
 De elektriciteitsdistributienetbeheerders of hun werkmaatschappij staan mee in voor de behandeling en de verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket.<br>
 <br>
 De elektriciteitsdistributienetbeheerders of hun werkmaatschappij staan in voor de uitbetaling van de tegemoetkomingen en de premies, vermeld in artikel 1, in het kader van het unieke loket.<br>
@@ -50,7 +52,7 @@ Als uitgekeerde tegemoetkomingen of premies worden teruggevorderd, gelden de vol
 <br>
 Als er voor een premie of tegemoetkoming een samenloop is tussen meerdere vergoedingen als vermeld in artikel 5.192 van het Besluit Vlaamse Codex Wonen van 2021 en artikel 6.4.1/12 van het Energiebesluit van 19 november 2010, wordt de teruggevorderde premie of tegemoetkoming, in afwijking van het vijfde lid, naar verhouding toegewezen aan het Fonds voor de Huisvesting, het Energiefonds, en de elektriciteitsdistributienetbeheerder, overeenkomstig het aandeel in de financiering ervan.<br>
 <br>
-Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Energie- en Klimaatagentschap, dat is opgericht bij het besluit van de Vlaamse regering van 19 november 2010, hierna het VEKA genoemd, wordt, conform artikel 13.1.1 van het Energiedecreet, belast met de controle op de taken uitgevoerd door de elektriciteitsdistributienetbeheerders of hun werkmaatschappij.<br>
+Het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Energie- en Klimaatagentschap, dat is opgericht bij het besluit van de Vlaamse regering van 19 november 2010 wordt, conform artikel 13.1.1 van het Energiedecreet, belast met de controle op de taken uitgevoerd door de elektriciteitsdistributienetbeheerders of hun werkmaatschappij.<br>
 <br>
 De verdeling van de taken, vermeld in dit artikel, tussen het agentschap en de elektriciteitsdistributienetbeheerders of hun werkmaatschappij en het VEKA, binnen het unieke loket, wordt verder gedetailleerd vastgelegd in een samenwerkingsovereenkomst.
 
@@ -102,6 +104,20 @@ De aanvrager houdt de betalingsbewijzen gedurende twee jaar na de uitbetaling va
 Binnen het unieke loket worden alle redelijke maatregelen genomen om ervoor te zorgen dat de persoonsgegevens juist zijn en indien nodig geactualiseerd worden. Onjuiste persoonsgegevens worden onmiddellijk gewist of verbeterd.<br>
 <br>
 De verwerking van de persoonsgegevens binnen het unieke loket is noodzakelijk voor de behandeling, verwerking en uitbetaling van de premies of tegemoetkomingen vermeld in artikel 1.
+
+## Afdeling 3. Vergoeding voor de personeelsinzet door de werkmaatschappij
+
+### ART 5/1.
+
+§1. Aan de werkmaatschappij, vermeld in artikel 2, kan een vergoeding worden gegeven voor de kost van de personeelsinzet bij de behandeling en de verwerking van de aanvragen, vermeld in artikel 1, in het kader van het unieke loket. De in aanmerking komende kost is beperkt tot het brutoloon van de personeelsleden, vermeld in het tweede lid, in fine, en de bijhorende werkgeversbijdrage.<br>
+<br>
+De vergoeding wordt verstrekt binnen de perken van de daarvoor op de algemene uitgavenbegroting en het Energiefonds beschikbare middelen. De Vlaamse minister, bevoegd voor de energie, bepaalt jaarlijks het bedrag van de maximale vergoeding voor de werkmaatschappij op basis van de middelen die daarvoor beschikbaar gesteld zijn, alsook respectievelijk het aantal personeelsleden en hun niveau die worden vergoed.&nbsp;<br>
+<br>
+De vergoedingen, vermeld in het eerste lid, worden vanaf kalenderjaar 2024 en maximaal tot in het kalenderjaar 2034 toegekend. De totaliteit van de gecumuleerde vergoedingen kunnen voor de werkmaatschappij met toepassing van besluit 2012/21/EU echter nooit meer bedragen dan 15 miljoen euro per jaar.&nbsp;<br>
+<br>
+§2. Het VEKA is belast met de uitbetaling van de vergoedingen, vermeld in paragraaf 1. De minister kan nadere regels vastleggen voor de uitbetalingsprocedure.<br>
+<br>
+Het VEKA houdt tot tien jaar na afloop van de verplichting, vermeld in dit besluit, alle gegevens bij die noodzakelijk zijn om vast te stellen of de verleende vergoeding verenigbaar is met het besluit 2012/21/EU en houdt die gegevens ter beschikking van de Europese Commissie.
 
 ## Hoofdstuk 2. Wijzigingen van het Energiebesluit van 19 november 2010
 
