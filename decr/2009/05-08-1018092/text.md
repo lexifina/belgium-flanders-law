@@ -1091,6 +1091,12 @@ De netbeheerder en zijn werkmaatschappij kunnen de gegevens verkregen bij de uit
 
 ## [Onderafdeling IV. Andere activiteiten van de netbeheerders (ing. decr. 2 april 2021, art. 20, I: 7 juni 2021)]
 
+### ART 4.1.8/5.
+
+Distributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen andere netten dan elektriciteits- en aardgasdistributienetten bezitten, ontwikkelen, beheren en exploiteren.<br>
+<br>
+De Vlaamse Regering bepaalt welke netten distributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen bezitten, ontwikkelen, beheren en exploiteren.
+
 ### ART 4.1.8/6.
 
 Distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij verrichten de activiteiten, vermeld in dit decreet en de bijbehorende uitvoeringsbesluiten en vermeld in verordening (EU) 2019/943.<br>
