@@ -49,4 +49,10 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 * Bij MB van 14 december 2021, BS 27 januari 2022 worden de volgende wijzigingen aangebracht met ingang van 6 februari 2022:<br>
 -&nbsp;het jaartal "2022" wordt vervangen door het jaartal "2023";<br>
 <br>
-*Bij MB van 2 december 2022, BS 1 februari 2023 wordt in artikel 7.6.1.1 met ingang van 11 februari 2023 de volgende zin opgeheven: “Vanaf 1 januari 2023 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken".</p>
+*Bij MB van 2 december 2022, BS 1 februari 2023 wordt in artikel 7.6.1.1 met ingang van 11 februari 2023 de volgende zin opgeheven: “Vanaf 1 januari 2023 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken".<br>
+<br>
+* Bij MB van 5 juli 2024, BS 9 december 2024 worden in de bijlage de volgende wijzigingen aangebracht met ingang van 5 juli 2024:<br>
+- in artikel 7.6.3.A wordt de zinsnede “uitgezonderd voor sorteer- en brekerzeefzand geldt streefwaarde 5 cm<sup>3</sup>/kg droge stof en dwingende waarde 7,5 cm<sup>3</sup>/kg droge stof” opgeheven;<br>
+- aan artikel 7.6.3.E, tweede en derde lid, wordt de zinsnede “De uitloogbaarheidswaarden van barium, bromide, chloride, fluoride en sulfaat moeten niet worden bepaald” toegevoegd;<br>
+- in artikel 9.3.2.D, derde lid, wordt de zinsnede ‘bijlage 2.3.2.A en B” vervangen door de zinsnede “artikel 2.3.2.1”;<br>
+- in bijlage 3, punt 5.3.1.1, punt 5°, wordt de zinsnede “bijlage 2.3.2” vervangen door de zinsnede “artikel 2.3.2.1, §1, punt 1°</p>
