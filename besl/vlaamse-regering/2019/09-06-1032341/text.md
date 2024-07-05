@@ -93,7 +93,7 @@ De vraag tot aanpassing van de grenzen van de BKG-installatie, vermeld in het ee
 
 ### ART 4.
 
-§ 1. Voor een nieuwkomer worden bij de opstart de grenzen vastgesteld op een van de volgende wijzen:<br>
+§ 1. Voor een nieuwkomer worden bij de opstart de grenzen vastgesteld op minstens een van de volgende wijzen:<br>
 1° de grenzen vallen samen met de grenzen van de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
 2° de exploitant van een nieuwkomer die op een site over meerdere omgevingsvergunningen beschikt, kan het geheel van de ingedeelde inrichtingen of activiteiten op de site samenvoegen. De grenzen van de BKG-installatie vallen in voorkomend geval samen met de grenzen van de samengevoegde omgevingsvergunningen;<br>
 3° de exploitant van een nieuwkomer die beschikt over een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit die meerdere installaties vergunt, kan die installaties opsplitsen per vaste technische eenheid als ze allemaal kunnen worden aangemerkt als een vaste technische eenheid als vermeld in artikel 49, tweede lid, van het besluit van 27 november 2015. Het VEKA kan nagaan of voldaan is aan de voorwaarden van de definitie van vaste technische eenheid. De grenzen van elke nieuwkomer vallen in voorkomend geval samen met de grenzen van de vaste technische eenheid.<br>
@@ -229,7 +229,7 @@ Bij een weigering van een aanvraag kan de exploitant van de BKG-installatie bero
 <br>
 In het eerste lid wordt verstaan onder verificatiebureau: de organisatie die is aangesteld om de correcte uitvoering van de energiebeleidsovereenkomst te bewaken, en daarover adviezen te verstrekken en verslag uit te brengen, vermeld in artikel 6 van de energiebeleidsovereenkomst voor Vlaamse energie-intensieve ondernemingen (VER-bedrijven), zoals goedgekeurd door de Vlaamse Regering op 10 november 2022.<br>
 <br>
-§4. Met behoud van de toepassing van artikel 11 en 15 stelt de minister in alle gevallen, vermeld in paragraaf 1, eerste lid, de kosteloze toewijzing van emissierechten vast op nul voor de resterende kalenderjaren van de periode 2021-2025 of de periode 2026-2030. De vaststelling van de kosteloze toewijzing van emissierechten op nul start in het jaar nadat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan.<br>
+§4. Met behoud van de toepassing van artikel 11 en 15 stelt de minister in alle gevallen, vermeld in paragraaf 1, eerste lid, de kosteloze toewijzing van emissierechten vast op nul voor het resterende deel van de periode 2021-2025 of de periode 2026-2030. De vaststelling van de kosteloze toewijzing van emissierechten op nul start vanaf het moment dat aan een van de voorwaarden, vermeld in paragraaf 1, eerste lid, is voldaan.<br>
 <br>
 §5. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de stopzetting van de jaarlijkse hoeveelheid kosteloos toegewezen emissierechten.
 
@@ -239,7 +239,11 @@ In het eerste lid wordt verstaan onder verificatiebureau: de organisatie die is 
 
 Voor elke BKG-installatie wordt de hoeveelheid kosteloos toegewezen emissierechten openbaar gemaakt op de website van het VEKA.<br>
 <br>
-Informatie die onder het beroepsgeheim valt, wordt niet openbaar gemaakt aan andere personen of autoriteiten, tenzij op grond van andere wettelijke, bestuursrechtelijke of administratieve bepalingen.
+Informatie die onder het beroepsgeheim valt, wordt niet openbaar gemaakt aan andere personen of autoriteiten, tenzij op grond van andere wettelijke, bestuursrechtelijke of administratieve bepalingen.<br>
+<br>
+De klimaatneutraliteitsplannen, zoals bedoeld in artikel 10bis, lid 1, vijfde alinea van Richtlijn 2003/87/EG worden voor de betrokken BKG-installaties openbaar gemaakt op de website van het VEKA.<br>
+<br>
+In afwijking van het derde lid kan de betrokken BKG-installatie het VEKA verzoeken bepaalde elementen uit het klimaatneutraliteitsplan niet te publiceren wanneer het gaat om commercieel gevoelige elementen waarvan de openbaarmaking zijn commerciële belangen zou schaden. Wanneer het VEKA oordeelt dat dit verzoek gerechtvaardigd is, publiceert het VEKA het klimaatneutraliteitsplan zonder deze elementen.
 
 ## HOOFDSTUK 4. De verlening en de stopzetting van de verlening van emissierechten tijdens de periode 2021-2030
 
