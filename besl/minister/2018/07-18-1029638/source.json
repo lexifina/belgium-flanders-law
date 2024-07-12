@@ -2,16 +2,16 @@
   "codex_id": 1029638,
   "title": "Ministerieel besluit van 2018-07-18 houdende de vastlegging van de modellen van voordrachtsakte en van verbeteringsakte voor de lokale en provinciale verkiezingen van 14 oktober 2018, met inbegrip van de individuele geschreven en te ondertekenen verklaring van de niet-Belgische kandidaten die onderdaan zijn van een lidstaat van de Europese Unie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029638/VolledigDocument?datum=2018-08-14",
-  "source_sha256": "afdab8bba9f39485ca8cc9a7d76eeebbd48f970175973eec9277c1ed0032a949",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029638/VolledigDocument?datum=2024-07-12",
+  "source_sha256": "af8d952a966db5a080d7c1f1997aed46fd4f8788331c75beca2cb5f8c3b2af29",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029638&param=informatie",
-  "as_of": "2018-08-14",
+  "as_of": "2024-07-12",
   "made": "2018-07-18",
   "gazette": "2018-08-13",
   "numac": 2018040579,
   "document_start": "2018-08-14",
   "document_end": "2024-07-11",
-  "in_force": "2018-08-14",
+  "in_force": "2024-07-12",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2018-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-12; future article versions excluded; article text as the API gives it"
 }
