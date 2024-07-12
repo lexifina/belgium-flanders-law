@@ -51,13 +51,7 @@ Het Departement Cultuur, Jeugd en Media stelt het rapport, vermeld in het eerste
 
 ### ART 2.
 
-§1. Het Departement Cultuur, Jeugd en Media treedt op als verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van het organiseren van de raadpleging vermeld in artikel 1, §2.&nbsp;<br>
-<br>
-§2. De verwerking van persoonsgegevens vermeld in paragraaf 1 heeft betrekking op de belanghebbenden vermeld in artikel 1, §3. Deze verwerking heeft betrekking op volgende categorieën van persoonsgegevens:&nbsp;<br>
-1° identificatiegegevens, met name naam en hoedanigheid van de belanghebbende of diens vertegenwoordiger;<br>
-2° contactgegevens, met name e-mailadres, adres, en telefoonnummer.&nbsp;<br>
-<br>
-§3. De bewaringstermijnen voor de persoonsgegevens die conform dit artikel verwerkt worden door het Departement Cultuur, Jeugd en Media, worden vastgelegd in selectieregels, conform artikel III.87, §1, van het Bestuursdecreet van 7 december 2018. Deze selectieregels bevatten een bewaartermijn met bijhorende motivering. Bij het bepalen van de bewaartermijnen van de bestuursdocumenten dient rekening te worden gehouden met de doelstellingen van de betrokken bevraging of vraagstelling.
+...
 
 ### ART 3.
 
