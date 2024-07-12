@@ -786,23 +786,7 @@ Elke niet-erkende kandidaat ontvangt met een aangetekende brief een afschrift va
 
 ### ART 25/10.
 
-Het Departement Cultuur, Jeugd en Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) voor de verwerking van persoonsgegevens in het kader van dit besluit, en meer bepaald voor het vaststellen en organiseren van de erkenningsprocedures voor de netwerkradio-, lokale radio-, en landelijke radio-omroeporganisaties ter uitvoering van artikel 132 van het decreet van 27 maart 2009.<br>
-<br>
-De verwerking van persoonsgegevens in het kader van dit besluit heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1° medewerkers van radio-omroeporganisaties;<br>
-2° vertegenwoordigers en gemachtigden van radio-omroeporganisaties;<br>
-3° bestuurders van radio-omroeporganisaties;<br>
-4° contactpersonen.<br>
-<br>
-De verwerking van persoonsgegevens in het kader van dit wijzigingsdecreet heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1° identificatiegegevens, rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens;<br>
-2° contactgegevens;<br>
-3° technische, commerciële, administratieve en radio-eigen competenties;<br>
-4° tewerkstellingsgegevens en mandaten.<br>
-<br>
-Ter uitvoering van artikel 32 van de voormelde verordening worden de persoonsgegevens beveiligd conform de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatie- en ICT-beleid, die zijn opgesteld ter uitvoering van artikel III.74, tweede lid, 3°, van het Bestuursdecreet van 7 december 2018.<br>
-<br>
-De maximale bewaringstermijnen voor persoonsgegevens die op basis van dit besluit worden verwerkt conform artikel 5, lid 1, e), van de voormelde verordening, worden vastgelegd in beheersregels, overeenkomstig artikel III.81, § 2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van deze bewaartermijnen dient rekening te worden gehouden met de duur van de erkenning en de cultuurhistorische waarde.
+...
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale en lokale radio-omroepen
 

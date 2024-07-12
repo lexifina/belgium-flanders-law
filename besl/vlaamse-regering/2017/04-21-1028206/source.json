@@ -2,16 +2,16 @@
   "codex_id": 1028206,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 [houdende diverse uitvoeringsbepalingen over de landelijke, netwerk- en lokale radio-omroeporganisaties en houdende wijziging van diverse besluiten over radio-omroep]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028206/VolledigDocument?datum=2023-12-25",
-  "source_sha256": "24fc0136571f5f7c75ae926f7e16a51215b7af39aff918c0f104e73d09734af6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028206/VolledigDocument?datum=2024-07-12",
+  "source_sha256": "36ae2b54c75c4da29cdbf61f69533b1773ddd1b62a9912357a5bc6480aae42fd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028206&param=informatie",
-  "as_of": "2023-12-25",
+  "as_of": "2024-07-12",
   "made": "2017-04-21",
   "gazette": "2017-05-09",
   "numac": 2017030262,
   "document_start": "2017-05-09",
   "document_end": "2026-10-13",
-  "in_force": "2023-12-25",
+  "in_force": "2024-07-12",
   "article_versions": 67,
-  "record_form": "consolidated version as in force on 2023-12-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-12; future article versions excluded; article text as the API gives it"
 }
