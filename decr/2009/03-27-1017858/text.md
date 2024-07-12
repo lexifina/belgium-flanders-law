@@ -26,7 +26,7 @@ In dit decreet wordt verstaan onder :<br>
 1° /8 bijbehorende faciliteiten : de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten, fysieke infrastructuren en andere faciliteiten of elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten en die gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten omvatten;<br>
 2° breedbeeldtelevisieprogramma : programma dat geheel of gedeeltelijk is geproduceerd en gemonteerd om te worden weergegeven in een schermvullend breedbeeldformaat. Het 16 :9-formaat geldt als referentiekader voor breedbeeldtelevisieprogramma's;<br>
 3° boodschappen van algemeen nut :<br>
-a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in de raad van bestuur hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
+a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in&nbsp;het bestuursorgaan hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 b) elke boodschap over hun opdracht van algemeen belang, die uitgaat van sociale en humanitaire verenigingen of van verenigingen die behoren tot het domein van het algemeen welzijn, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieerde culturele verenigingen, en die ertoe strekt hun culturele activiteiten aan het publiek kenbaar te maken, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 4° collectieve antenne ten behoeve van een gesloten gebruikersgroep : een installatie voor het opvangen van signalen van radio-omroep en televisie, waaraan verscheidene eindontvangsttoestellen zijn verbonden en voor het gebruik waarvan - buiten het aandeel van de gebruiker in de werkelijke kosten die uit de installatie, de werking en het onderhoud van de installatie voortvloeien - geen enkel abonnementsgeld wordt geëist;<br>
@@ -49,7 +49,7 @@ b) de producties, vermeld in punt a), 1), en a), 2), zijn producties die voornam
 3) de bijdrage van de coproducenten van deze staten in de totale kosten van de coproductie is doorslaggevend en de coproductie staat niet onder controle van een of meer buiten deze staten gevestigde producenten;<br>
 c) producties die geen Europese producties zijn als vermeld in a), maar die vervaardigd worden in het kader van tussen de lidstaten en derde landen gesloten bilaterale coproductieverdragen, worden als Europese producties beschouwd mits de coproducenten uit de Europese Gemeenschap een meerderheidsaandeel hebben in de totale productiekosten en de productie niet onder controle staat van een of meer buiten de lidstaten gevestigde producenten;<br>
 12° evenement : een voor het publiek toegankelijke gebeurtenis. De gebeurtenis vormt een afgerond geheel met een natuurlijk begin en einde. Als een evenement zich uitstrekt over verschillende dagen, wordt elke dag als een afzonderlijk evenement beschouwd;<br>
-13° exclusiviteitshouder : elke omroeporganisatie die ressorteert onder de Vlaamse Gemeenschap, een andere gemeenschap of een andere lidstaat van de Europese Unie die voor evenementen exclusieve uitzendrechten heeft verworven voor de Vlaamse Gemeenschap;<br>
+13° exclusiviteitshouder : elke omroeporganisatie die ressorteert onder de Vlaamse Gemeenschap, een andere gemeenschap of een andere lidstaat van de Europese Unie&nbsp;of een andere staat in de Europese Economische Ruimte die voor evenementen exclusieve uitzendrechten heeft verworven voor de Vlaamse Gemeenschap;<br>
 14° geavanceerde digitale eindapparatuur : kastjes met converter en decoder en geïntegreerde digitale televisietoestellen voor de ontvangst van de digitale interactieve omroepdiensten;<br>
 14° /1 interconnectie : een specifiek type toegang dat tussen exploitanten van openbare netwerken wordt gerealiseerd door het fysiek en logisch verbinden van openbare elektronische communicatienetwerken die door dezelfde of een andere onderneming worden gebruikt om het de gebruikers van een onderneming mogelijk te maken te communiceren met die van dezelfde of van een andere onderneming of toegang te hebben tot diensten die door een andere onderneming worden aangeboden, wanneer die diensten worden aangeboden door de betrokken partijen of andere partijen die toegang hebben tot het netwerk;<br>
 15° jongere : een persoon vanaf twaalf jaar tot onder de leeftijd van zestien jaar;<br>
@@ -92,7 +92,7 @@ b) de houder van de exploitatierechten op het evenement;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
 45° /1 transnationale markten : overeenkomstig artikel 65 van richtlijn (EU) 2018/1972 gedefinieerde markten die de Europese Unie of een aanzienlijk, zich over meer dan één lidstaat uitstrekkend, deel daarvan beslaan;<br>
 45° /1 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van programma's, door gebruikers gegenereerde inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
-45°/2 Vlaams Audiovisueel Fonds, afgekort VAF: Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds;<br>
+45°/3 Vlaams Audiovisueel Fonds, afgekort VAF: Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds;<br>
 46° zelfpromotie : de aanprijzing door een omroepdienst van eigen producten, diensten, programma's of netten;<br>
 47° zendapparatuur : ieder apparaat dat geheel of gedeeltelijk bestemd is om naar het publiek signalen van radio-omroep en televisie draadloos uit te zenden;<br>
 48° zendvergunning : vergunning voor de exploitatie van ieder apparaat dat is bestemd om draadloos signalen van radio-omroep of televisie uit te zenden;<br>
@@ -119,6 +119,9 @@ Voor de televisieomroeporganisatie die nog niet over drie goedgekeurde jaarreken
 53° ondertiteling : een tekstuele versie van de dialoog die op het scherm wordt afgebeeld of oproepbaar is;<br>
 54° gebarentaal : een visueel-manuele taal, waarin begrippen en concepten door middel van gebaren in een driedimensionele gebarenruimte worden weergegeven;<br>
 55° digitaledienstenverordening: verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG;<br>
+55° administratie: de dienst die bevoegd is voor het mediabeleid;<br>
+56° algemene verordening gegevensbescherming: verordening (EU)2016/679<br>
+van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
 56° tussenhandeldienst: een tussenhandeldienst als vermeld in artikel 3, g), van de digitaledienstenverordening;<br>
 57° bevoegde autoriteit: een bevoegde autoriteit als vermeld in artikel 49 van de digitaledienstenverordening.
 
@@ -128,7 +131,7 @@ Voor de televisieomroeporganisatie die nog niet over drie goedgekeurde jaarreken
 
 ### ART. 3.
 
-De Vlaamse Radio- en Televisieomroeporganisatie, afgekort VRT, is een omroeporganisatie in de vorm van een naamloze vennootschap van publiek recht. Voor alles wat niet uitdrukkelijk anders is geregeld in dit decreet, is hij onderworpen aan de bepalingen van het Wetboek van Vennootschappen die van toepassing zijn op de naamloze vennootschap.
+De Vlaamse Radio- en Televisieomroeporganisatie, afgekort VRT, is een omroeporganisatie in de vorm van een naamloze vennootschap van publiek recht. Voor alles wat niet uitdrukkelijk anders is geregeld in dit decreet, is ze onderworpen aan de bepalingen van het&nbsp;Wetboek van vennootschappen en verenigingen van 23 maart 2019 die van toepassing zijn op de naamloze vennootschap.
 
 ### ART. 4.
 
@@ -136,7 +139,9 @@ De duur van de VRT is onbepaald.
 
 ### ART. 5.
 
-De Vlaamse Gemeenschap kan haar aandelen in de VRT niet overdragen. Artikel 646, § 1, tweede lid, van het Wetboek van Vennootschappen is niet van toepassing op de VRT.<br /><br />Aan alle aandelen zijn dezelfde rechten en verplichtingen verbonden. Alle aandelen zijn en blijven op naam.
+De Vlaamse Gemeenschap kan haar aandelen in de VRT niet overdragen.&nbsp;<br>
+<br>
+Aan alle aandelen zijn dezelfde rechten en verplichtingen verbonden. Alle aandelen zijn en blijven op naam.
 
 ## TITEL II. MAATSCHAPPELIJK DOEL, BEVOEGDHEID EN DE OPENBARE-OMROEPOPDRACHT
 
@@ -146,37 +151,37 @@ De Vlaamse Gemeenschap kan haar aandelen in de VRT niet overdragen. Artikel 646,
 <br>
 § 2. Als openbare omroeporganisatie heeft de VRT de opdracht een zo groot mogelijk aantal mediagebruikers te bereiken met een diversiteit aan hoogkwalitatieve programma's die de belangstelling van de mediagebruikers wekken en eraan voldoen.<br>
 <br>
-De VRT zorgt voor een kwalitatief hoogstaand aanbod in de sectoren informatie, cultuur, educatie en ontspanning. Prioritair moet de VRT op de kijker en luisteraar gerichte informatie- en cultuurprogramma's brengen. Daarnaast worden ook sport, eigentijdse educatie, eigen drama en ontspanning verzorgd. Het hele aanbod van de VRT wordt gekenmerkt door een hoge kwaliteit van de programma's, zowel naar inhoud, naar vorm als naar taalgebruik. In al zijn programma's streeft de VRT naar een zo groot mogelijke kwaliteit, professionaliteit, creativiteit en originaliteit, waarbij ook nieuwe talenten en vernieuwende expressievormen aangeboord moeten worden. Het programma-aanbod wordt op een aangepaste manier gericht op bepaalde bevolkings- en leeftijdsgroepen, meer in het bijzonder op de kinderen en de jeugd.<br>
+De VRT zorgt voor een kwalitatief hoogstaand aanbod in de sectoren informatie, cultuur, educatie en ontspanning. Prioritair moet de VRT op de kijker en luisteraar gerichte informatie- en cultuurprogramma's brengen. Daarnaast worden ook sport, eigentijdse educatie, eigen drama en ontspanning verzorgd. Het hele aanbod van de VRT wordt gekenmerkt door een hoge kwaliteit van de programma's, zowel naar inhoud, naar vorm als naar taalgebruik. In al haar programma's streeft de VRT naar een zo groot mogelijke kwaliteit, professionaliteit, creativiteit en originaliteit, waarbij ook nieuwe talenten en vernieuwende expressievormen aangeboord moeten worden. Het programma-aanbod wordt op een aangepaste manier gericht op bepaalde bevolkings- en leeftijdsgroepen, meer in het bijzonder op de kinderen en de jeugd.<br>
 <br>
-De programma's dragen bij tot de verdere ontwikkeling van de identiteit en de diversiteit van de Vlaamse cultuur en van een democratische en verdraagzame samenleving. De VRT draagt via de programma's bij tot een onafhankelijke, objectieve en pluralistische opinievorming in Vlaanderen. Daarom streeft hij naar een leidinggevende rol op het gebied van informatie en cultuur.<br>
+De programma's dragen bij tot de verdere ontwikkeling van de identiteit en de diversiteit van de Vlaamse cultuur en van een democratische en verdraagzame samenleving. De VRT draagt via de programma's bij tot een onafhankelijke, objectieve en pluralistische opinievorming in Vlaanderen. Daarom streeft ze naar een leidinggevende rol op het gebied van informatie en cultuur.<br>
 <br>
 Om de betrokkenheid van een zo groot mogelijk aantal Vlamingen bij de omroeporganisatie te realiseren en om de geloofwaardigheid van de openbare omroeporganisatie veilig te stellen, is een voldoende aantal programma's erop gericht een breed en algemeen publiek te boeien. Naast die algemene programma's komen andere programma's aan specifieke belangstellingssferen van kijkers en luisteraars tegemoet. De beoogde doelgroepen zijn voldoende ruim en ze worden door de programma's in kwestie ook bereikt.<br>
 <br>
-De VRT volgt de technologische ontwikkelingen op de voet zodat hij zijn programma's, als dat nodig en wenselijk is, ook via nieuwe mediatoepassingen aan zijn kijkers en luisteraars kan aanbieden.<br>
+De VRT volgt de technologische ontwikkelingen op de voet zodat ze haar programma's, als dat nodig en wenselijk is, ook via nieuwe mediatoepassingen aan haar kijkers en luisteraars kan aanbieden.<br>
 <br>
-Tot de openbare opdracht van de VRT behoren ook alle activiteiten die rechtstreeks of onrechtstreeks bijdragen tot de uitvoering ervan. Dit houdt eveneens de mogelijkheid in om persoonsgegevens te verwerken die noodzakelijk zijn om zijn openbare opdracht uit te voeren.<br>
+Tot de openbare opdracht van de VRT behoren ook alle activiteiten die rechtstreeks of onrechtstreeks bijdragen tot de uitvoering ervan. Dit houdt eveneens de mogelijkheid in om persoonsgegevens te verwerken die noodzakelijk zijn om haar openbare opdracht uit te voeren.<br>
 <br>
-§ 3. Met de machtiging van de Vlaamse Regering kan de VRT ter uitvoering van zijn taken van openbare dienst betreffende de openbare-omroepopdracht, vermeld in § 2, onroerende goederen onteigenen tot algemeen nut.<br>
+§ 3. Met de machtiging van de Vlaamse Regering kan de VRT ter uitvoering van haar taken van openbare dienst betreffende de openbare-omroepopdracht, vermeld in § 2, onroerende goederen onteigenen tot algemeen nut.<br>
 <br>
-§ 4. De VRT kan in het kader van zijn maatschappelijk doel deelnemen aan vennootschappen, verenigingen en samenwerkingsverbanden, voor zover die deelname bijdraagt tot de verwezenlijking van de omroepactiviteiten.<br>
+§ 4. De VRT kan in het kader van haar maatschappelijk doel deelnemen aan vennootschappen, verenigingen en stichtingen, voor zover die deelname bijdraagt tot de verwezenlijking van de omroepactiviteiten.<br>
 <br>
-De VRT kan een naamloze vennootschap alleen oprichten, kan inschrijven op alle aandelen van die vennootschap, en kan, in afwijking van artikel 646 van het Wetboek van Vennootschappen, alle aandelen bezitten in een naamloze vennootschap, zonder beperking van duur en zonder geacht te worden hoofdelijk borg te staan voor de verbintenissen van die vennootschap.<br>
+De VRT kan een naamloze vennootschap alleen oprichten, kan inschrijven op alle aandelen van die vennootschap, en kan alle aandelen bezitten in een naamloze vennootschap, zonder beperking van duur en zonder geacht te worden hoofdelijk borg te staan voor de verbintenissen van die vennootschap.<br>
 <br>
 § 5. De VRT mag leningen aangaan of schuldeffecten uitgeven binnen het kader van het financieel plan dat werd vastgelegd in de beheersovereenkomst. De Vlaamse Regering kan er de Vlaamse Gemeenschapswaarborg aan verlenen.<br>
 <br>
 De Vlaamse Regering kan voor de VRT openbare leningen op de Belgische kapitaalmarkt uitgeven, voor zover die leningen bijdragen tot de verwezenlijking van de omroepactiviteiten.<br>
 <br>
-§ 6. De VRT mag schenkingen en legaten ontvangen.
+§ 6. De VRT mag schenkingen en legaten ontvangen.&nbsp;De VRT kan giften en prijzen toekennen voor een waarde lager dan 7000 euro.
 
 ### ART. 7.
 
-De VRT stelt autonoom zijn programma-aanbod en uitzendschema vast.<br>
+De VRT stelt autonoom haar programma-aanbod en uitzendschema vast.<br>
 <br>
 Het decreet van 17 juni 2016 houdende de normen voor de Vlaamse overheidscommunicatie is van toepassing op de VRT. In afwijking van het decreet van 17 juni 2016 houdende de normen voor de Vlaamse overheidscommunicatie is dat decreet niet van toepassing voor de communicatie van de VRT over haar aanbod en haar beleid als omroeporganisatie.
 
 ### ART. 8.
 
-Buiten zijn openbare-omroepopdracht kan de VRT, als ze samenhangen of verband houden met de openbare-omroepopdracht, en als ze opgenomen zijn in een kader dat vooraf werd goedgekeurd door de raad van bestuur, merchandising- en nevenactiviteiten verrichten, rekening houdend met de volgende voorwaarden :<br>
+Buiten haar openbare-omroepopdracht kan de VRT, als ze samenhangen of verband houden met de openbare-omroepopdracht, en als ze opgenomen zijn in een kader dat vooraf werd goedgekeurd door de raad van bestuur, merchandising- en nevenactiviteiten verrichten, rekening houdend met de volgende voorwaarden :<br>
 1° de activiteiten hebben als doel de programma's uit het aanbod van de VRT en diensten binnen de publieke opdracht te ondersteunen, de verspreiding ervan te faciliteren of de kosten van het aanbieden ervan te verlichten;<br>
 2° de activiteiten zijn zelfbedruipend en de transparantie van de ermee gepaard gaande uitgaven en inkomsten is via een gescheiden boekhouding verzekerd;<br>
 3° de activiteiten worden tegen marktconforme voorwaarden uitgevoerd en brengen geen ernstige concurrentieverstoring met zich mee.<br>
@@ -189,7 +194,12 @@ Met merchandisingactiviteiten als vermeld in het eerste lid, worden alle activit
 
 ### ART. 9.
 
-De organen van de VRT zijn :<br />1° de algemene vergadering van de aandeelhouders;<br />2° de raad van bestuur;<br />3° de gedelegeerd bestuurder.<br /><br />Voor zover die niet geregeld zijn in dit decreet, worden de bevoegdheid en de werking van die organen overeenkomstig het Wetboek van Vennootschappen bepaald in de statuten.
+De organen van de VRT zijn :<br>
+1° de algemene vergadering van de aandeelhouders;<br>
+2° de raad van bestuur;<br>
+3° de gedelegeerd bestuurder.<br>
+<br>
+Voor zover die niet geregeld zijn in dit decreet, worden de bevoegdheid en de werking van die organen overeenkomstig het&nbsp;Wetboek van vennootschappen en verenigingen van 23 maart 2019 bepaald in de statuten.
 
 ### ART. 10.
 
@@ -215,7 +225,9 @@ De informatie, vermeld in het eerste lid, mag alleen worden meegedeeld buiten de
 
 ### ART. 11.
 
-De algemene vergadering verleent aan de bestuurders, de commissaris(sen) en de gedelegeerd bestuurder kwijting overeenkomstig de bepalingen van artikel 554 van het Wetboek van Vennootschappen.<br /><br />Met behoud van de toepassing van het eerste lid heeft de algemene vergadering geen andere bevoegdheden dan die welke haar in het Wetboek van Vennootschappen zijn voorbehouden.
+De algemene vergadering verleent aan de bestuurders, de commissaris(sen) en de gedelegeerd bestuurder kwijting overeenkomstig de bepalingen van artikel 7:149 van het Wetboek van vennootschappen en verenigingen van 23 maart 2019.<br>
+<br>
+Met behoud van de toepassing van het eerste lid heeft de algemene vergadering geen andere bevoegdheden dan die welke haar in het&nbsp;Wetboek van vennootschappen en verenigingen van 23 maart 2019 zijn voorbehouden.
 
 ## HOOFDSTUK III. Raad van bestuur
 
@@ -260,9 +272,9 @@ a) een persbedrijf, de elektronische media inbegrepen;<br>
 b) in een advertentie- of reclamebedrijf;<br>
 3° een leidende functie of mandaat in een productiefirma die toelevert aan de elektronische media, en in een andere onderneming die aan de VRT diensten levert, leveringen doet of er werkzaamheden voor uitvoert.<br>
 <br>
-Een uitzondering op de onverenigbaarheid, vermeld in § 2, tweede lid, betreft een functie of mandaat in de vennootschappen, verenigingen of samenwerkingsverbanden, vermeld in artikel 6, § 4.<br>
+Een uitzondering op de onverenigbaarheid, vermeld in § 2, tweede lid, betreft een functie of mandaat in de vennootschappen, verenigingen of stichtingen, vermeld in artikel 6, § 4.<br>
 <br>
-§ 3. De werking van de raad van bestuur wordt geregeld in de statuten. De raad kan alleen geldig beraadslagen als de meerderheid van de bestuurders aanwezig of vertegenwoordigd is. Conform de bepalingen van deze titel en conform de statuten bepaalt de raad van bestuur in een reglement de wijze waarop hij zijn bevoegdheden, vermeld in artikel 13, § 1, 2°, uitoefent. In het voormelde reglement kan de raad van bestuur de wijze bepalen waarop hij zijn andere bevoegdheden, vermeld in artikel 13, uitoefent.<br>
+§ 3. De werking van de raad van bestuur wordt geregeld in de statuten. De raad van bestuur kan alleen geldig beraadslagen als de meerderheid van de bestuurders aanwezig of vertegenwoordigd is. Conform de bepalingen van deze titel en conform de statuten bepaalt de raad van bestuur in een reglement de wijze waarop hij zijn bevoegdheden, vermeld in artikel 13, § 1, 2°, uitoefent. In het voormelde reglement kan de raad van bestuur de wijze bepalen waarop hij zijn andere bevoegdheden, vermeld in artikel 13, uitoefent.<br>
 <br>
 § 4. De duur van het mandaat van de leden van de raad van bestuur bedraagt vijf jaar.<br>
 <br>
@@ -274,7 +286,7 @@ De bestuurders die met toepassing van het tweede en derde lid worden aangewezen,
 
 ### ART. 13.
 
-§ 1. De raad van bestuur heeft de volgende bevoegdheden :<br>
+§ 1. De raad van bestuur heeft, in afwijking op het Wetboek van vennootschappen en verenigingen van 23 maart 2019, de volgende bevoegdheden :<br>
 1° het vastleggen van de algemene strategie van de VRT;<br>
 2° het nemen van beslissingen over aangelegenheden met strategisch karakter. Een aangelegenheid heeft een strategisch karakter als ze een belangrijke impact heeft op het handelen van de VRT in de Vlaamse samenleving of op het medialandschap. De raad van bestuur beslist over het strategische karakter van een aangelegenheid conform de wijze die bepaald is in het reglement, vermeld in artikel 12, § 3;<br>
 3° het goedkeuren, namens de VRT, van de beheersovereenkomst en van elke wijziging ervan;<br>
@@ -284,10 +296,10 @@ De bestuurders die met toepassing van het tweede en derde lid worden aangewezen,
 7° het aanstellen en ontslaan van de leden van het directiecollege, op voordracht van de gedelegeerd bestuurder;<br>
 8° het uitoefenen van toezicht op de gedelegeerd bestuurder bij de uitvoering van de beheersovereenkomst, het ondernemingsplan en de beslissingen van de raad van bestuur;<br>
 9° het bemiddelen bij personele conflicten binnen het directiecollege;<br>
-10° het beslissen over deelneming van de VRT aan vennootschappen, verenigingen en samenwerkingsverbanden;<br>
+10° het beslissen over deelneming van de VRT aan vennootschappen, verenigingen en stichtingen;<br>
 11° het beslissen over de oprichting van vennootschappen door de VRT;<br>
-12° het toezicht op de werking en de resultaten van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br>
-13° de aanwijzing van de vertegenwoordigers van de VRT in de bestuursorganen van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br>
+12° het toezicht op de werking en de resultaten van de vennootschappen, verenigingen en stichtingen, vermeld in punten 10° en 11°;<br>
+13° de aanwijzing van de vertegenwoordigers van de VRT in de bestuursorganen van de vennootschappen, verenigingen en stichtingen, vermeld in punten 10° en 11°;<br>
 14° het bijeenroepen van de algemene vergadering en het vaststellen van de agenda;<br>
 15° het opstellen van het kader waarbinnen de VRT merchandising- en nevenactiviteiten uitoefent.<br>
 <br>
@@ -297,7 +309,7 @@ De beslissingen van de raad van bestuur worden genomen op initiatief en op voors
 <br>
 De gedelegeerd bestuurder verstrekt aan de raad van bestuur alle nuttige inlichtingen en brengt alle aangelegenheden die voor een behoorlijke uitoefening van de bevoegdheden van de raad van bestuur nuttig of nodig zijn, op de agenda van de raad van bestuur.<br>
 <br>
-§ 3. Ter uitvoering van de bevoegdheden, vermeld in § 1, kunnen de leden van de raad van bestuur, via de voorzitter, op elk moment alle documenten en geschriften van de VRT inzien. De voorzitter kan via de gedelegeerd bestuurder van de leden van het directiecollege en van alle andere personeelsleden alle verduidelijkingen en alle verificaties vorderen die de raad of een lid nodig achten voor de uitvoering van de bevoegdheden van de raad van bestuur.
+§ 3. Ter uitvoering van de bevoegdheden, vermeld in § 1, kunnen de leden van de raad van bestuur, via de voorzitter, op elk moment alle documenten en geschriften van de VRT inzien. De voorzitter kan via de gedelegeerd bestuurder van de leden van het directiecollege en van alle andere personeelsleden alle verduidelijkingen en alle verificaties vorderen die de raad van bestuur of een lid nodig achten voor de uitvoering van de bevoegdheden van de raad van bestuur.
 
 ## HOOFDSTUK IV. De gedelegeerd bestuurder
 
@@ -307,7 +319,7 @@ De gedelegeerd bestuurder verstrekt aan de raad van bestuur alle nuttige inlicht
 <br>
 De gedelegeerd bestuurder wordt ontslagen door de algemene vergadering na advies van de raad van bestuur..<br>
 <br>
-§ 2. De gedelegeerd bestuurder is belast met en exclusief bevoegd voor de volgende taken van het operationele bestuur van de VRT :<br>
+§ 2. De gedelegeerd bestuurder is, in afwijking op het Wetboek van vennootschappen en verenigingen van 23 maart 2019,&nbsp;belast met en exclusief bevoegd voor de volgende taken van het operationele bestuur van de VRT :<br>
 1° op het vlak van het management van de dienstverlening : de voorbereiding en de uitvoering van de jaarlijkse ondernemingsplannen en strategische meerjarenplannen, die voortvloeien uit de beheersovereenkomst en goedgekeurd worden door de raad van bestuur;<br>
 2° inzake de productontwikkeling : het ontwikkelen van nieuwe en het verbeteren van bestaande diensten, producten en processen die passen in het beleid van de VRT;<br>
 3° inzake het personeelsbeleid : het voeren van een coherent personeelsbeleid, dat afgestemd is op de strategische ontwikkeling van de VRT en de omgevingsfactoren waarbinnen de dienstverlening plaatsvindt, overeenkomstig de rechtspositieregeling van het personeel en de richtlijnen van de raad van bestuur binnen het jaarlijkse ondernemingsplan daarover;<br>
@@ -325,7 +337,7 @@ Met behoud van de toepassing van de rechtspositieregeling van het personeel mag 
 <br>
 De gedelegeerd bestuurder voert de beslissingen van de raad van bestuur uit.<br>
 <br>
-§ 3. De gedelegeerd bestuurder wordt bijgestaan door het directiecollege, bestaande uit minimaal twee leden plus de gedelegeerd bestuurder. De gedelegeerd bestuurder zit het directiecollege voor.<br>
+§ 3. De gedelegeerd bestuurder wordt bijgestaan door het directiecollege, bestaande uit minimaal twee&nbsp;directiecollegeleden plus de gedelegeerd bestuurder. De gedelegeerd bestuurder zit het directiecollege voor.<br>
 <br>
 De gedelegeerd bestuurder kan onder zijn uitsluitende verantwoordelijkheid een deel van zijn bevoegdheden delegeren aan een of meer leden van het directiecollege en aan de personeelsleden van de VRT. De gedelegeerd bestuurder bepaalt in een reglement de grenzen waarbinnen en de vormen waarin die delegaties en verdere subdelegaties worden uitgeoefend.<br>
 <br>
@@ -335,7 +347,7 @@ De gedelegeerd bestuurder kan onder zijn uitsluitende verantwoordelijkheid een d
 
 ### ART. 15.
 
-De commissaris(sen) wordt (worden) benoemd door de algemene vergadering op voordracht van de gedelegeerd bestuurder, en oefenen de bevoegdheden uit die in het Wetboek van Vennootschappen zijn toegekend.
+De commissaris(sen) wordt (worden) benoemd door de algemene vergadering op voordracht van de gedelegeerd bestuurder, en oefenen de bevoegdheden uit die in het Wetboek van vennootschappen en verenigingen van 23 maart 2019, de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en het Bestuursdecreet van 7 december 2018 en andere eventuele specifieke regelgeving zijn toegekend.
 
 ## TITEL IV. BEHEERSOVEREENKOMST
 
@@ -370,7 +382,7 @@ De bijzondere regels en voorwaarden voor de toekenning van de financiële middel
 
 § 1. De beheersovereenkomst wordt gesloten voor een periode van vijf jaar.<br>
 <br>
-§ 1/1. De VRT bezorgt uiterlijk een jaar voor het verstrijken van haar beheersovereenkomst een visietekst aan de Vlaamse Regering waarin ze de concrete krijtlijnen van haar toekomstige publieke omroepopdracht schetst, met specifieke vermelding van de geplande nieuwe diensten. De Vlaamse Regering bezorgt die tekst aan de Raad voor Cultuur, Jeugd, Sport en Media met het oog op het advies, vermeld in artikel 20, § 3. De VRT publiceert die visietekst gelijktijdig met het bezorgen aan de Vlaamse Regering op haar website.<br>
+§ 1/1. De VRT bezorgt uiterlijk een jaar voor het verstrijken van haar beheersovereenkomst een visietekst aan de Vlaamse Regering waarin ze de concrete krijtlijnen van haar toekomstige publieke omroepopdracht schetst, met specifieke vermelding van de geplande nieuwe diensten. De Vlaamse Regering bezorgt die tekst aan de&nbsp;sectorraad Media van de Raad voor Cultuur, Jeugd, Sport en Media met het oog op het advies, vermeld in artikel 20, § 3. De VRT publiceert die visietekst gelijktijdig met het bezorgen aan de Vlaamse Regering op haar website.<br>
 <br>
 § 2. De VRT legt uiterlijk zes maanden voor het verstrijken van de beheersovereenkomst aan de Vlaamse Regering een ontwerp van nieuwe beheersovereenkomst voor.<br>
 <br>
@@ -394,7 +406,7 @@ De VRT heeft als inkomsten de enveloppe aan financiële middelen die overeengeko
 
 ### ART. 23.
 
-De boekhouding van de VRT wordt gevoerd volgens de wetgeving op de boekhouding en jaarrekeningen van de ondernemingen.
+De boekhouding van de VRT wordt gevoerd volgens de toepasselijke bepalingen van het Wetboek van economisch recht van 28 februari 2013 en het Wetboek van vennootschappen en verenigingen van 23 maart 2019 en de respectievelijke uitvoeringsbesluiten daarvan.
 
 ### ART. 24.
 
@@ -406,7 +418,19 @@ De VRT wordt gemachtigd om een reservefonds aan te leggen. In de begroting bevin
 
 ### ART. 26.
 
-§ 1. De mogelijkheid voor de VRT om bij het afsluiten van elk boekjaar over te gaan tot reservering van een eventueel gecumuleerd nettosurplus uit de exploitatie van de openbare-omroepopdracht in het boekjaar in kwestie, is beperkt tot 10 percent van de in het boekjaar in kwestie ontvangen overheidsmiddelen.<br /><br />Met de term netto-surplus als vermeld in het eerste lid wordt het verschil tussen de overheidsdotatie en de nettokosten van de publieke opdracht bedoeld.<br /><br />Bij overschrijding van de grens van 10 percent, vermeld in het eerste lid, wordt het excedent terugbetaald aan de Vlaamse Gemeenschap.<br /><br />§ 2. Een eventueel nettosurplus als vermeld in paragraaf 1, over de gehele duur van een beheersovereenkomst wordt, naar aanleiding van de afsluiting van de rekeningen over die periode, verrekend op de overheidsfinanciering voor de onmiddellijk daaropvolgende beheersovereenkomst.<br /><br />§ 3. De controle op die mechanismen van terugbetaling en compensatie gebeurt a priori door de Inspectie van Financiën op basis van de goedgekeurde jaarrekening van de VRT.<br /><br />§ 4. Paragrafen 1 tot 3 zijn niet van toepassing op het reservefonds van 55 miljoen euro, vermeld in artikel 39, § 2, van de beheersovereenkomst 2007-2011, dat zoals in dat artikel bepaald is, zal worden aangewend tijdens de duur van de beheersovereenkomst voor de financiering van de in de beheersovereenkomst voorziene deficits in de financiering van de openbare-omroepopdracht van de VRT.<br /><br />§ 5. Paragrafen 1 tot 3 zijn evenmin van toepassing op de opbrengsten die voortvloeien uit de verzelfstandiging van het zenderpark waarvan de opbrengsten bestemd zijn voor initiatieven als vermeld in artikel 35, § 3, tweede lid, van de beheersovereenkomst 2007-2011.
+§ 1. De mogelijkheid voor de VRT om bij het afsluiten van elk boekjaar over te gaan tot reservering van een eventueel gecumuleerd nettosurplus uit de exploitatie van de openbare-omroepopdracht in het boekjaar in kwestie, is beperkt tot 10 percent van de in het boekjaar in kwestie ontvangen overheidsmiddelen.<br>
+<br>
+Met de term netto-surplus als vermeld in het eerste lid wordt het verschil tussen de overheidsdotatie en de nettokosten van de publieke opdracht bedoeld.<br>
+<br>
+Bij overschrijding van de grens van 10 percent, vermeld in het eerste lid, wordt het excedent terugbetaald aan de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. Een eventueel nettosurplus als vermeld in paragraaf 1, over de gehele duur van een beheersovereenkomst wordt, naar aanleiding van de afsluiting van de rekeningen over die periode, verrekend op de overheidsfinanciering voor de onmiddellijk daaropvolgende beheersovereenkomst.<br>
+<br>
+§ 3. De controle op die mechanismen van terugbetaling en compensatie gebeurt a priori door de Inspectie van Financiën op basis van de goedgekeurde jaarrekening van de VRT.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. ...
 
 ## TITEL VI. PERSONEEL
 
@@ -426,7 +450,7 @@ De personeelsleden van de VRT, behalve de personeelsleden vermeld in artikel 27,
 <br>
 De deontologische code en het redactiestatuut worden vastgesteld door de gedelegeerd bestuurder in overleg met de representatieve vakverenigingen.<br>
 <br>
-§ 2. In het kader van zijn informatieopdracht, vermeld in artikel 6, verzorgt de VRT, de maanden juli en augustus uitgezonderd, tweewekelijks een televisieprogramma van dertig minuten of wekelijks een televisieprogramma van vijftien minuten en wekelijks een radioprogramma van minimaal vier minuten ter duiding van sociaaleconomische onderwerpen. Die programma's worden gemaakt door de nieuwsdienst van de VRT in samenwerking met de organisaties die vertegenwoordigd zijn in de Sociaal-Economische Raad van Vlaanderen.<br>
+§ 2. In het kader van haar informatieopdracht, vermeld in artikel 6, verzorgt de VRT, de maanden juli en augustus uitgezonderd, tweewekelijks een televisieprogramma van dertig minuten of wekelijks een televisieprogramma van vijftien minuten en wekelijks een radioprogramma van minimaal vier minuten ter duiding van sociaaleconomische onderwerpen. Die programma's worden gemaakt door de nieuwsdienst van de VRT in samenwerking met de organisaties die vertegenwoordigd zijn in de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
 § 3. In het kader van haar opdracht om bij te dragen tot een pluralistische opinievorming, vermeld in artikel 6, verzorgt de VRT een specifiek aanbod over levensbeschouwing dat geïntegreerd wordt in het brede programma-aanbod van de publieke omroep. Hierover is er overleg met de verschillende erkende confessionele en niet-confessionele levensbeschouwingen.
 
@@ -434,11 +458,33 @@ De deontologische code en het redactiestatuut worden vastgesteld door de gedeleg
 
 ### ART. 30.
 
-§ 1. De Vlaamse Regering wijst een gemeenschapsafgevaardigde aan die erop toeziet dat de VRT zijn activiteiten uitoefent conform de wetten, decreten, besluiten en de beheersovereenkomst. De Vlaamse Gemeenschap draagt de kosten die verbonden zijn aan de uitoefening van zijn ambt.<br /><br />De gemeenschapsafgevaardigde woont met raadgevende stem de vergaderingen bij van de algemene vergadering en van de raad van bestuur. Hij ontvangt de volledige dagorde van de vergaderingen van de algemene vergadering, de raad van bestuur en het directiecollege, en alle documenten ter zake, ten minste vijf werkdagen voor de datum van de vergaderingen. Hij ontvangt de notulen van die vergaderingen.<br /><br />De gemeenschapsafgevaardigde kan op elk moment ter plaatse inzage nemen van alle documenten en geschriften van de VRT. Hij kan van de bestuurders, de gedelegeerd bestuurder en de leden van het directiecollege van de VRT alle inlichtingen en ophelderingen vorderen en hij kan alle verificaties verrichten die hij nodig acht voor de uitvoering van zijn mandaat.<br /><br />§ 2. Binnen een termijn van vier werkdagen, te rekenen vanaf de kennisname of de ontvangst van de beslissing in kwestie, kan de gemeenschapsafgevaardigde bij de Vlaamse Regering een gemotiveerd beroep instellen tegen elke beslissing van de raad van bestuur, de gedelegeerd bestuurder, het directiecollege en van de organen of de personen van de VRT aan wie zij hun bevoegdheid hebben gedelegeerd, die betrekking heeft op de openbare-omroepopdracht, vermeld in artikel 6, en waarvan hij meent dat ze niet strookt met de wetten, decreten, besluiten of de beheersovereenkomst. Het Vlaams Parlement wordt onmiddellijk door de Vlaamse Regering in kennis gesteld van het beroep.<br /><br />Het beroep schort de beslissing op. Als de Vlaamse Regering binnen een termijn van twintig werkdagen, die ingaat op dezelfde dag als de termijn waarover de gemeenschapsafgevaardigde beschikt, de nietigverklaring niet heeft uitgesproken, wordt de beslissing definitief. In voorkomend geval wordt de nietigverklaring binnen de gestelde termijn aan het Vlaams Parlement en aan de gedelegeerd bestuurder meegedeeld.<br /><br />§ 3. Beslissingen van de raad van bestuur, de gedelegeerd bestuurder, het directiecollege en van de organen of de personen van de VRT aan wie zij hun bevoegdheid gedelegeerd hebben, die betrekking hebben op de uitvoering van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en contractueel personeel van het VRT-filharmonisch orkest en het VRT-koor of die een wijziging van de loonkosten, vermeld in artikel 4, § 1, van het voormelde decreet, tot gevolg hebben, moeten onmiddellijk aan de gemeenschapsafgevaardigde meegedeeld worden.<br /><br />Binnen een termijn van vier werkdagen, te rekenen vanaf de kennisneming of de ontvangst van de beslissing in kwestie, kan de gemeenschapsafgevaardigde bij de Vlaamse Regering tegen die beslissing een gemotiveerd beroep instellen als hij meent dat de beslissing in kwestie redelijkerwijs onverantwoord is en de belangen van de Vlaamse Gemeenschap schaadt.<br /><br />Dat beroep schort de beslissing op.<br /><br />Als de Vlaamse Regering binnen een termijn van twintig werkdagen, te rekenen vanaf dezelfde dag als de termijn waarover de gemeenschapsafgevaardigde beschikt om beroep in te stellen, de beslissing in kwestie niet nietig heeft verklaard, wordt de beslissing definitief.<br /><br />Als de Vlaamse Regering de beslissing in kwestie vernietigt, wordt de nietigverklaring binnen de termijn, vermeld in het vierde lid, aan de gedelegeerd bestuurder meegedeeld.
+§ 1. De Vlaamse Regering wijst een gemeenschapsafgevaardigde aan die erop toeziet dat de VRT haar activiteiten uitoefent conform de wetten, decreten, besluiten en de beheersovereenkomst. De Vlaamse Gemeenschap draagt de kosten die verbonden zijn aan de uitoefening van zijn ambt.<br>
+<br>
+De gemeenschapsafgevaardigde woont met raadgevende stem de vergaderingen bij van de algemene vergadering en van de raad van bestuur. Hij ontvangt de volledige dagorde van de vergaderingen van de algemene vergadering, de raad van bestuur en het directiecollege, en alle documenten ter zake, ten minste vijf werkdagen voor de datum van de vergaderingen. Hij ontvangt de notulen van die vergaderingen.<br>
+<br>
+De gemeenschapsafgevaardigde kan op elk moment ter plaatse inzage nemen van alle documenten en geschriften van de VRT. Hij kan van de bestuurders, de gedelegeerd bestuurder en de leden van het directiecollege van de VRT alle inlichtingen en ophelderingen vorderen en hij kan alle verificaties verrichten die hij nodig acht voor de uitvoering van zijn mandaat.<br>
+<br>
+§ 2. Binnen een termijn van vier werkdagen, te rekenen vanaf de kennisname of de ontvangst van de beslissing in kwestie, kan de gemeenschapsafgevaardigde bij de Vlaamse Regering een gemotiveerd beroep instellen tegen elke beslissing van de raad van bestuur, de gedelegeerd bestuurder, het directiecollege en van de organen of de personen van de VRT aan wie zij hun bevoegdheid hebben gedelegeerd, die betrekking heeft op de openbare-omroepopdracht, vermeld in artikel 6, en waarvan hij meent dat ze niet strookt met de wetten, decreten, besluiten of de beheersovereenkomst. Het Vlaams Parlement wordt onmiddellijk door de Vlaamse Regering in kennis gesteld van het beroep.<br>
+<br>
+Het beroep schort de beslissing op. Als de Vlaamse Regering binnen een termijn van twintig werkdagen, die ingaat op dezelfde dag als de termijn waarover de gemeenschapsafgevaardigde beschikt, de nietigverklaring niet heeft uitgesproken, wordt de beslissing definitief. In voorkomend geval wordt de nietigverklaring binnen de gestelde termijn aan het Vlaams Parlement en aan de gedelegeerd bestuurder meegedeeld.<br>
+<br>
+§ 3. Beslissingen van de raad van bestuur, de gedelegeerd bestuurder, het directiecollege en van de organen of de personen van de VRT aan wie zij hun bevoegdheid gedelegeerd hebben, die betrekking hebben op de uitvoering van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en contractueel personeel van het VRT-filharmonisch orkest en het VRT-koor of die een wijziging van de loonkosten, vermeld in artikel 4, § 1, van het voormelde decreet, tot gevolg hebben, moeten onmiddellijk aan de gemeenschapsafgevaardigde meegedeeld worden.<br>
+<br>
+Binnen een termijn van vier werkdagen, te rekenen vanaf de kennisneming of de ontvangst van de beslissing in kwestie, kan de gemeenschapsafgevaardigde bij de Vlaamse Regering tegen die beslissing een gemotiveerd beroep instellen als hij meent dat de beslissing in kwestie redelijkerwijs onverantwoord is en de belangen van de Vlaamse Gemeenschap schaadt.<br>
+<br>
+Dat beroep schort de beslissing op.<br>
+<br>
+Als de Vlaamse Regering binnen een termijn van twintig werkdagen, te rekenen vanaf dezelfde dag als de termijn waarover de gemeenschapsafgevaardigde beschikt om beroep in te stellen, de beslissing in kwestie niet nietig heeft verklaard, wordt de beslissing definitief.<br>
+<br>
+Als de Vlaamse Regering de beslissing in kwestie vernietigt, wordt de nietigverklaring binnen de termijn, vermeld in het vierde lid, aan de gedelegeerd bestuurder meegedeeld.
 
 ### ART. 31.
 
-Een interne-auditentiteit binnen de VRT evalueert de doeltreffendheid van het risico- en controlebeheer en de beleidsprocessen, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe audits uit voor een door de raad van bestuur ingesteld auditcomité, dat wordt voorgezeten door een door de raad van bestuur aangewezen lid van de raad van bestuur, uitgezonderd de voorzitter en de gedelegeerd bestuurder. Ze voert ook audits uit voor een auditcel bij het VRT-directiecollege met het oog op een zo optimaal mogelijk operationeel beheer.<br /><br />De interne-auditentiteit opereert onafhankelijk van de gedelegeerd bestuurder en ressorteert rechtstreeks onder de voorzitter van het auditcomité.
+Een interne-auditentiteit binnen de VRT evalueert de doeltreffendheid van het risico- en controlebeheer en de beleidsprocessen, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe audits uit voor een door de raad van bestuur ingesteld auditcomité, dat wordt voorgezeten door een door de raad van bestuur aangewezen lid van de raad van bestuur, uitgezonderd de voorzitter en de gedelegeerd bestuurder. Ze voert ook audits uit voor een auditcel bij het VRT-directiecollege met het oog op een zo optimaal mogelijk operationeel beheer.<br>
+<br>
+De interne-auditentiteit opereert onafhankelijk van de gedelegeerd bestuurder en ressorteert rechtstreeks onder de voorzitter van het auditcomité.<br>
+<br>
+De bepalingen, vermeld in artikel 33, §2, tweede tot en met tiende lid, van dit decreet, zijn eveneens van toepassing op de activiteiten van de interne auditdienst van de VRT.
 
 ### ART. 32.
 
@@ -446,21 +492,31 @@ Het Rekenhof is belast met de controle van de rekeningen van de VRT die voor 31 
 
 ### ART. 33.
 
-§ 1. Audit Vlaanderen, vermeld in artikel III.115 van het Bestuursdecreet, evalueert de interne controlesystemen van de VRT, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
+§ 1. Audit Vlaanderen, vermeld in artikel III.115 van het Bestuursdecreet, evalueert de interne controlesystemen van de VRT, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Audit Vlaanderen voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
 <br>
 Audit Vlaanderen is ook bevoegd voor de uitvoering van forensische audits bij de VRT. De vertrouwelijkheid van commerciële en industriële informatie, gewaarborgd volgens artikel II.35, 3°, van het Bestuursdecreet, geldt onverkort.<br>
 <br>
+§1/1. Audit Vlaanderen treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de uitvoering van de taken, vermeld in paragraaf 1.<br>
+<br>
+§1/2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1/1, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° alle personen die voorkomen in de gegevens, informatie en documenten die verwerkt worden bij de uitvoering van de taken, vermeld in paragraaf 1;<br>
+2° alle personen die door Audit Vlaanderen gecontacteerd worden voor de uitvoering of bij de uitvoering van de taken, vermeld in paragraaf 1, zoals onder meer personen die werken bij of voor geauditeerden.<br>
+<br>
+§1/3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1/1, heeft voor de betrokkenen, vermeld in paragraaf 1/2, betrekking op alle categorieën van persoonsgegevens, met inbegrip van persoonsgegevens als vermeld in artikel 9 en 10 van de algemene verordening gegevensbescherming, die voorkomen in de gegevens, informatie en documenten die verwerkt worden bij de uitvoering van de taken, vermeld in paragraaf 1.<br>
+<br>
+§1/4. Audit Vlaanderen bepaalt als verwerkingsverantwoordelijke de bewaartermijn van de persoonsgegevens die hij conform dit artikel verwerkt. De persoonsgegevens kunnen daarbij, op basis van dit decreet, uiterlijk bewaard worden tot vijftien jaar na afloop van de taken, vermeld in paragraaf 1, en de decretale bepalingen daarover. Na afloop van de bewaartermijn wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.<br>
+<br>
 § 2. Om zijn bevoegdheid te kunnen uitoefenen, heeft Audit Vlaanderen toegang tot alle informatie en documenten van de VRT, ongeacht de drager ervan, en tot alle gebouwen, ruimtes en installaties waar taken van de VRT worden uitgevoerd. Audit Vlaanderen kan aan ieder personeelslid van de VRT de inlichtingen vragen die voor de uitvoering van zijn opdrachten nodig worden geacht. Ieder personeelslid van de VRT is ertoe gehouden zo snel mogelijk en zonder voorafgaande machtiging op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br>
 <br>
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan Audit Vlaanderen beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het derde tot en met het elfde lid.<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de&nbsp;algemene verordening gegevensbescherming kan Audit Vlaanderen beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van deze verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het derde tot en met het elfde lid.<br>
 <br>
-De afwijkingsmogelijkheid, vermeld in het tweede lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van Audit Vlaanderen, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+De afwijkingsmogelijkheid, vermeld in het tweede lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van Audit Vlaanderen, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de algemene verordening gegevensbescherming, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de algemene verordening gegevensbescherming.<br>
 <br>
 De persoonsgegevens, vermeld in het tweede lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
 <br>
 De afwijkingsmogelijkheid, vermeld in het tweede lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het tweede lid, rechtvaardigt.<br>
 <br>
-Als de betrokkene in het geval, vermeld in het tweede lid, tijdens de periode, vermeld in het derde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
+Als de betrokkene in het geval, vermeld in het tweede lid, tijdens de periode, vermeld in het derde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de algemene verordening gegevensbescherming, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
 <br>
 De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het tweede lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van Audit Vlaanderen zou ondermijnen, met behoud van de toepassing van het negende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
 <br>
@@ -468,9 +524,9 @@ De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook o
 <br>
 De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
 <br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de algemene verordening gegevensbescherming, in voorkomend geval, conform artikel 12 van de algemene verordening gegevensbescherming opnieuw toegepast.<br>
 <br>
-Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de&nbsp;algemene verordening gegevensbescherming pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
 
 ## TITEL IX. MEDEDELINGEN VAN DE VLAAMSE OVERHEID
 
@@ -911,7 +967,16 @@ Het verzoek, vermeld in artikel 104, wordt schriftelijk ingediend en binnen een 
 
 ### ART. 106.
 
-§ 1. Het verzoek, vermeld in artikel 104, wordt toegezonden aan de hoofdredacteur of de eindredacteur van het programma of aan elke persoon die het antwoord kan laten opnemen.<br /><br />Op verzoek van de verzoeker verstrekt de omroeporganisatie onmiddellijk de nodige gegevens om de personen, vermeld in het eerste lid, te identificeren.<br /><br />§ 2. Het verzoek bevat op straffe van onontvankelijkheid :<br />1° alle nauwkeurige inlichtingen op grond waarvan de identiteit van de omroeporganisatie, het programma in kwestie en de informatie waarop het antwoord betrekking heeft, kan worden vastgesteld;<br />2° het bewijs dat aan alle voorwaarden als vermeld in artikel 104, is voldaan;<br />3° voor natuurlijke personen, de identiteit, de woonplaats of verblijfplaats van de verzoeker; voor rechtspersonen, de naam en de zetel van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent; voor feitelijke verenigingen, de naam en de vestiging van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent;<br />4° de handtekening van de verzoeker; of voor rechtspersonen of feitelijke verenigingen, de handtekening van de persoon die in hun naam handelt;<br />5° het antwoord.
+§ 1. Het verzoek, vermeld in artikel 104, wordt toegezonden aan de hoofdredacteur of de eindredacteur van het programma of aan elke persoon die het antwoord kan laten opnemen.<br>
+<br>
+Op verzoek van de verzoeker verstrekt de omroeporganisatie onmiddellijk de nodige gegevens om de personen, vermeld in het eerste lid, te identificeren.<br>
+<br>
+§ 2. Het verzoek bevat op straffe van onontvankelijkheid :<br>
+1° alle nauwkeurige inlichtingen op grond waarvan de identiteit van de omroeporganisatie, het programma in kwestie en de informatie waarop het antwoord betrekking heeft, kan worden vastgesteld;<br>
+2° het bewijs dat aan alle voorwaarden als vermeld in artikel 104, is voldaan;<br>
+3° voor natuurlijke personen, de identiteit, de woonplaats of verblijfplaats van de verzoeker; voor rechtspersonen, de naam en de zetel van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent; voor feitelijke verenigingen of maatschappen, de naam en de vestiging van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent;<br>
+4° de handtekening van de verzoeker; of voor rechtspersonen of feitelijke verenigingen of maatschappen, de handtekening van de persoon die in hun naam handelt;<br>
+5° het antwoord.
 
 ### ART. 107.
 
@@ -953,7 +1018,23 @@ Het verzoek, vermeld in artikel 113, wordt schriftelijk gedaan en binnen een ter
 
 ### ART. 116.
 
-§ 1. Het verzoek, vermeld in artikel 113, wordt toegezonden aan de hoofdredacteur of de eindredacteur van het programma of aan elke persoon die het antwoord kan laten opnemen.<br /><br />Op verzoek van de verzoeker verstrekt de omroeporganisatie onmiddellijk de juiste coördinaten van de persoon, vermeld in het eerste lid.<br /><br />§ 2. Het verzoek bevat op straffe van onontvankelijkheid :<br />1° alle nauwkeurige inlichtingen op grond waarvan de identiteit van de lineaire omroeporganisatie, het programma in kwestie en de informatie waarop het verzoek tot de opname van het recht van mededeling betrekking heeft, kan worden vastgesteld;<br />2° voor natuurlijke personen, de identiteit, de woonplaats of de verblijfplaats van de verzoeker; voor rechtspersonen, de naam en de zetel van de verzoeker en de hoedanigheid van de persoon die het verzoek ondertekent;<br />3° de handtekening van de verzoeker; of voor rechtspersonen, van de persoon die in hun naam handelt;<br />4° de informatie, vermeld in artikel 114.<br /><br />Het bewijs van de beslissing tot buitenvervolgingstelling of tot vrijspraak, en een verklaring van de rechterlijke overheid waaruit blijkt dat tegen de beslissing geen beroep is ingesteld en dat ze niet meer vatbaar is voor verzet, hoger beroep of voorziening in cassatie, moeten worden bijgevoegd.<br /><br />§ 3. Indien het recht van mededeling betrekking heeft op een programma van een lineaire omroepdienst, wordt de mededeling uiterlijk opgenomen in de eerstvolgende uitzending van het programma na afloop van een termijn van twee vrije werkdagen, zondagen en feestdagen niet inbegrepen, die ingaat op de dag waarop een van de personen, vermeld in paragraaf 1, het antwoord ontvangt.<br /><br />Als er binnen veertien kalenderdagen na de ontvangst van het verzoek geen uitzending van het programma gepland is, moet de mededeling binnen die termijn worden uitgezonden op een voor het publiek toegankelijk uitzenduur.<br /><br />Indien het recht van mededeling betrekking heeft op een programma van een niet-lineaire omroepdienst, wordt het antwoord aan het betrokken programma vastgehecht, en dit na afloop van een termijn van twee vrije werkdagen, zondagen en feestdagen niet inbegrepen, die ingaat op de dag waarop een van de personen, vermeld in § 1, het antwoord ontvangt.
+§ 1. Het verzoek, vermeld in artikel 113, wordt toegezonden aan de hoofdredacteur of de eindredacteur van het programma of aan elke persoon die het antwoord kan laten opnemen.<br>
+<br>
+Op verzoek van de verzoeker verstrekt de omroeporganisatie onmiddellijk de juiste coördinaten van de persoon, vermeld in het eerste lid.<br>
+<br>
+§ 2. Het verzoek bevat op straffe van onontvankelijkheid :<br>
+1° alle nauwkeurige inlichtingen op grond waarvan de identiteit van de lineaire omroeporganisatie, het programma in kwestie en de informatie waarop het verzoek tot de opname van het recht van mededeling betrekking heeft, kan worden vastgesteld;<br>
+2° voor natuurlijke personen: de identiteit, de woonplaats of verblijfplaats van de verzoeker; voor rechtspersonen: de naam en de zetel van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent; voor feitelijke verenigingen of maatschappen: de naam en de vestiging van de verzoeker, en de hoedanigheid van de persoon die het verzoek ondertekent;<br>
+3° de handtekening van de verzoeker; of voor rechtspersonen, feitelijke verenigingen of maatschappen: de handtekening van de persoon die in hun naam handelt;<br>
+4° de informatie, vermeld in artikel 114.<br>
+<br>
+Het bewijs van de beslissing tot buitenvervolgingstelling of tot vrijspraak, en een verklaring van de rechterlijke overheid waaruit blijkt dat tegen de beslissing geen beroep is ingesteld en dat ze niet meer vatbaar is voor verzet, hoger beroep of voorziening in cassatie, moeten worden bijgevoegd.<br>
+<br>
+§ 3. Indien het recht van mededeling betrekking heeft op een programma van een lineaire omroepdienst, wordt de mededeling uiterlijk opgenomen in de eerstvolgende uitzending van het programma na afloop van een termijn van twee vrije werkdagen, zondagen en feestdagen niet inbegrepen, die ingaat op de dag waarop een van de personen, vermeld in paragraaf 1, het antwoord ontvangt.<br>
+<br>
+Als er binnen veertien kalenderdagen na de ontvangst van het verzoek geen uitzending van het programma gepland is, moet de mededeling binnen die termijn worden uitgezonden op een voor het publiek toegankelijk uitzenduur.<br>
+<br>
+Indien het recht van mededeling betrekking heeft op een programma van een niet-lineaire omroepdienst, wordt het antwoord aan het betrokken programma vastgehecht, en dit na afloop van een termijn van twee vrije werkdagen, zondagen en feestdagen niet inbegrepen, die ingaat op de dag waarop een van de personen, vermeld in § 1, het antwoord ontvangt.
 
 ### ART. 117.
 
@@ -963,7 +1044,12 @@ De termijnen, vermeld in dit decreet, met uitzondering van die welke vermeld wor
 
 ### ART. 118.
 
-Elke lineaire omroeporganisatie van of die erkend is door de Vlaamse Gemeenschap of aangemeld is bij de Vlaamse Regulator voor de Media, heeft het recht op vrije informatiegaring. Dat recht houdt in :<br />1° de vrije toegang tot evenementen waarop exclusieve uitzendrechten zijn verleend, voor zover het evenement plaatsvindt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover de instelling die het evenement organiseert in Brussel-Hoofdstad wegens haar activiteiten beschouwd kan worden als uitsluitend behorend tot de Vlaamse Gemeenschap;<br />2° het recht om opnamen te maken, voor zover de evenementen waarop exclusieve uitzendrechten zijn verleend, plaatsvinden in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover de instelling die het evenement organiseert in Brussel-Hoofdstad wegens haar activiteiten beschouwd kan worden als uitsluitend behorend tot de Vlaamse Gemeenschap;<br />3° het recht op korte nieuwsverslagen.<br /><br />Met behoud van de toepassing van de bepalingen van dit decreet is het recht op vrije informatiegaring van toepassing op de aanbieders van lineaire omroepdiensten die ressorteren onder de bevoegdheid van de andere gemeenschappen en van de andere lidstaten van de Europese Unie.
+Elke lineaire omroeporganisatie van of die erkend is door de Vlaamse Gemeenschap of aangemeld is bij de Vlaamse Regulator voor de Media, heeft het recht op vrije informatiegaring. Dat recht houdt in :<br>
+1° de vrije toegang tot evenementen waarop exclusieve uitzendrechten zijn verleend, voor zover het evenement plaatsvindt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover de instelling die het evenement organiseert in Brussel-Hoofdstad wegens haar activiteiten beschouwd kan worden als uitsluitend behorend tot de Vlaamse Gemeenschap;<br>
+2° het recht om opnamen te maken, voor zover de evenementen waarop exclusieve uitzendrechten zijn verleend, plaatsvinden in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover de instelling die het evenement organiseert in Brussel-Hoofdstad wegens haar activiteiten beschouwd kan worden als uitsluitend behorend tot de Vlaamse Gemeenschap;<br>
+3° het recht op korte nieuwsverslagen.<br>
+<br>
+Met behoud van de toepassing van de bepalingen van dit decreet is het recht op vrije informatiegaring van toepassing op de aanbieders van lineaire omroepdiensten die ressorteren onder de bevoegdheid van de andere gemeenschappen en van de andere lidstaten van de Europese Unie en van de andere staten in de Europese Economische Ruimte.
 
 ### ART. 119.
 
@@ -1066,25 +1152,23 @@ De Vlaamse Regulator voor de Media kan de erkende landelijke, netwerk- en lokale
 
 ### ART. 134.
 
-§ 1. De erkenningen en zendvergunningen van de op datum van inwerkingtreding van dit artikel bestaande landelijke radio-omroeporganisaties en landelijke radio-omroeporganisaties van rechtswege vervallen op 31 december 2022.<br>
-<br>
-Nieuwe erkenningen voor de landelijke radio-omroeporganisaties worden met ingang van 1 januari 2023 verleend voor vijf jaar. Deze erkenningen kunnen worden verlengd met een periode van maximaal drie jaar. Een verzoek tot verlenging wordt ingediend conform artikel 219, uiterlijk één jaar voor de lopende erkenningstermijn verstreken is.<br>
+§1.&nbsp;Nieuwe erkenningen voor de landelijke radio-omroeporganisaties worden met ingang van 1 januari 2023 verleend voor vijf jaar. Deze erkenningen kunnen worden verlengd met een periode van maximaal drie jaar. Een verzoek tot verlenging wordt ingediend conform artikel 219, uiterlijk één jaar voor de lopende erkenningstermijn verstreken is.<br>
 <br>
 Als de Vlaamse Regering besluit om de erkenning niet te verlengen of te verlengen voor een kortere duur dan drie jaar brengt ze de aanvrager uiterlijk zes maanden voor de erkenningstermijn verstreken is, op de hoogte met een aangetekende brief die gericht is aan de maatschappelijke zetel. De beslissing om de verlenging al dan niet toe te staan en de duur van de mogelijke verlenging worden gemotiveerd op grond van de afschaffing van de FM-uitzendingen, vermeld in artikel 133, § 1, vijfde en zesde lid. Als de datum van de afschaffing van de FM-uitzendingen in de periode van de mogelijke verlenging van de erkenning valt, kan de erkenningstermijn ingekort worden tot minder dan drie jaar overeenkomstig de datum van de afschaffing van de FM-uitzendingen. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
 <br>
-§ 2. De erkenningen voor de netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties die verkregen zijn in de periode tussen 1 januari 2018 en 31 december 2019, zijn verleend voor negen jaar met ingang van de datum die in het erkenningsbesluit is opgenomen.<br>
+§2. De erkenningen voor de netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties die verkregen zijn in de periode tussen 1 januari 2018 en 31 december 2019, zijn verleend voor negen jaar met ingang van de datum die in het erkenningsbesluit is opgenomen.<br>
 <br>
-§ 3. Bij de stopzetting van de activiteiten van een landelijke, netwerk- of lokale radio- omroeporganisatie vervallen de erkenning en de zendvergunning van rechtswege.<br>
+§3. Bij de stopzetting van de activiteiten van een landelijke, netwerk- of lokale radio-omroeporganisatie worden de erkenning en de zendvergunning van die omroeporganisatie door de Vlaamse Regulator voor de Media opgeheven.<br>
 <br>
-Voor het frequentiepakket van de landelijke, netwerk- of lokale radio-omroeporganisatie, waarvan de erkenning en de zendvergunning van rechtswege is vervallen, kunnen opnieuw erkenningen worden toegekend conform de bepalingen van deze afdeling. In dat geval worden ze alleen toegekend voor de resterende duur van de initiële erkenningsperiode.<br>
+Voor het frequentiepakket van de landelijke, netwerk- of lokale radio-omroeporganisatie waarvan de erkenning en de zendvergunning is vervallen of opgeheven, kunnen opnieuw erkenningen worden toegekend conform de bepalingen van deze afdeling. In dat geval worden ze alleen toegekend voor de resterende duur van de initiële erkenningsperiode.<br>
 <br>
-§ 4. Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt conform artikel 133, § 1, zesde lid, valt voor de resterende duur van de initiële erkenningsperiode verstreken is, wordt de erkenning in afwijking van paragraaf 3, tweede lid, tweede zin, alleen toegekend tot de datum van deze afschaffing.<br>
+§4. Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt conform artikel 133, § 1, zesde lid, valt voor de resterende duur van de initiële erkenningsperiode verstreken is, wordt de erkenning in afwijking van paragraaf 3, tweede lid, tweede zin, alleen toegekend tot de datum van deze afschaffing.<br>
 <br>
 Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering bepaalt, bepaald wordt voor afloop van de initiële erkenningstermijn maar uiterlijk drie jaar na afloop van de initiële erkenningstermijn, vermeld in paragraaf 3, tweede lid, of het eerste lid, valt, kan de Vlaamse Regering de verleende erkenning verlengen tot dat tijdstip. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
 <br>
-§ 5. De Vlaamse Regering kan in afwijking van paragraaf 3 en 4 beslissen om vrijgekomen FM-frequenties te herverdelen onder bestaande erkenningen om de ontvangst van die erkenningen te optimaliseren, zolang de beslissing tot afschaffing van FM-uitzendingen conform artikel 133, § 1, zesde lid, niet genomen is. Als de datum van de afschaffing van FM-uitzendingen bepaald is, kan de Vlaamse Regering beslissen de frequenties niet te herverdelen of niet opnieuw uit te reiken. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
+§5. De Vlaamse Regering kan in afwijking van paragraaf 3 en 4 beslissen om vrijgekomen FM-frequenties te herverdelen onder bestaande erkenningen om de ontvangst van die erkenningen te optimaliseren, zolang de beslissing tot afschaffing van FM-uitzendingen conform artikel 133, § 1, zesde lid, niet genomen is. Als de datum van de afschaffing van FM-uitzendingen bepaald is, kan de Vlaamse Regering beslissen de frequenties niet te herverdelen of niet opnieuw uit te reiken. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
 <br>
-§ 6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de datum van de ingang van de erkenning nog niet uitzendt, kan de Vlaamse Regulator voor de Media de erkenning opheffen.
+§6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de datum van de ingang van de erkenning nog niet uitzendt, kan de Vlaamse Regulator voor de Media de erkenning opheffen.
 
 ### ART 134/1.
 
@@ -1115,7 +1199,7 @@ De landelijke radio-omroeporganisaties hebben tot taak een verscheidenheid van p
 § 1. Om erkend te worden en te blijven, moeten de landelijke radio-omroeporganisaties voldoen aan het volgende :<br>
 1° de voorwaarden, vermeld in artikelen 129, 130, 131 en 135;<br>
 2° de volgende voorwaarden :<br>
-a) de landelijke radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon is het verzorgen van radioprogramma's. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun maatschappelijke doel, voor zover die activiteiten samenvallen of verband houden met de omroepactiviteiten. De leden van de raad van bestuur bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of van een andere rechtspersoon die een landelijke radio-omroeporganisatie beheert;<br>
+a) de landelijke radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon is het verzorgen van radioprogramma's. De landelijke radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel, voor zover die activiteiten samenvallen of verband houden met de omroepactiviteiten. De leden van het bestuursorgaan bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of van een andere rechtspersoon die een landelijke radio-omroeporganisatie beheert;<br>
 b) de rechtspersoon, vermeld in punt a), exploiteert niet meer dan twee landelijke radio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee landelijke radio-omroeporganisaties;<br>
 c) de landelijke radio-omroeporganisaties zenden minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. Journaals en informatieve programma's worden verzorgd door een eigen redactie die hoofdzakelijk bestaat uit erkende beroepsjournalisten. Voor de journaals is een hoofdredacteur verantwoordelijk;<br>
 d) in de programmaopbouw moet een Nederlands-talig muziekaanbod gegarandeerd worden. De Vlaamse Regering kan daartoe aanvullende bepalingen vastleggen in een besluit.<br>
@@ -1136,7 +1220,7 @@ De landelijke radio-omroeporganisaties houden zich, nadat ze een erkenning hebbe
 <br>
 De landelijke radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens die zijn vermeld in de offerte die ze hebben ingediend, waardoor wordt afgeweken van het aanvullende kwalificatiecriterium, vermeld in artikel 138, § 2, tweede lid, 1°, over het zendschema en van de aanvullende kwalificatiecriteria, vermeld in artikel 138, § 2, tweede lid, 3°, 4° en 5°, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.<br>
 <br>
-In afwijking van het eerste en het tweede lid wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+In afwijking van het eerste en het tweede lid wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of&nbsp; in voorkomend geval op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
 
 ## Onderafdeling III. [... (opgeh. decr. 12 februari 2021, art. 11, I: 1 januari 2023)]
 
@@ -1170,8 +1254,8 @@ De netwerkradio-omroeporganisaties hebben tot taak binnen het aan hen toegewezen
 § 1. Om erkend te worden en te blijven, moeten de netwerkradio-omroeporganisaties voldoen aan al de volgende voorwaarden:<br>
 1° de voorwaarden, vermeld in artikel 129, 130, 131, 135 en 143/1;<br>
 2° de volgende basisvoorwaarden:<br>
-a) de netwerkradio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon bestaat in het verzorgen van radioprogramma's. De netwerkradio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun maatschappelijke doel als die activiteiten samenvallen of verband houden met de omroepactiviteiten.<br>
-De leden van de raad van bestuur bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of een andere rechtspersoon die een landelijke, netwerk- of lokale radio-omroeporganisatie beheert.<br>
+a) de netwerkradio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon bestaat in het verzorgen van radioprogramma's. De netwerkradio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel als die activiteiten samenvallen of verband houden met de omroepactiviteiten.<br>
+De leden van het bestuursorgaan bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of een andere rechtspersoon die een landelijke, netwerk- of lokale radio-omroeporganisatie beheert.<br>
 Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee netwerkradio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties en landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één netwerkradio-omroeporganisatie en één landelijke radio-omroeporganisatie;<br>
 b) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. De netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, van dit decreet, die erkend wordt na 1 januari 2023, zendt een aanzienlijk deel van het aanbod uit via de invulling van het generalistische profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Nederlandstalige en Vlaamse muziekproducties;<br>
 c) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 2°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod. De Vlaamse Regering bepaalt dit deel.<br>
@@ -1196,7 +1280,7 @@ De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekkin
 <br>
 § 2. De netwerkradio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens, vermeld in de door hen ingediende offerte, waardoor wordt afgeweken van de aanvullende kwalificatie-criteria, in artikel 143/2, § 2, 1°, voor wat betreft het zendschema en in artikel 143/2, § 2, 3°, 4° en 5°, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.<br>
 <br>
-In afwijking van paragraaf 1 en paragraaf 2, eerste lid, wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+In afwijking van paragraaf 1 en paragraaf 2, eerste lid, wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of in voorkomend geval op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
 
 ## Onderafdeling IV. Lokale radio-omroeporganisaties
 
@@ -1211,7 +1295,7 @@ Met behoud van de andere bepalingen van dit decreet wijst de Vlaamse Regering ee
 Om erkend te worden en te blijven, moeten de lokale radio-omroeporganisaties voldoen aan al de volgende voorwaarden:<br>
 1° de voorwaarden, vermeld in artikel 129, 130, 131, 135 en 144;<br>
 2° de volgende basisvoorwaarden:<br>
-a) de lokale radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon bestaat hoofdzakelijk in het verzorgen van radioprogramma's. De lokale radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijke doel. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisaties zijn niet toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één radio-omroeporganisatie. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisatie enerzijds en anderzijds een of meer landelijke of netwerkradio-omroeporganisaties zijn evenmin toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over die radio-omroeporganisaties. Een rechtspersoon die een lokale radio-omroeporganisatie voor lokaliteit Brussel exploiteert, kan ook de regionale televisieomroeporganisatie exploiteren die als verzorgingsgebied het tweetalige gebied Brussel-Hoofdstad heeft;<br>
+a) de lokale radio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het voorwerp van de rechtspersoon bestaat hoofdzakelijk in het verzorgen van radioprogramma's. De lokale radio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun doel. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisaties zijn niet toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één radio-omroeporganisatie. Rechtstreekse of onrechtstreekse bindingen tussen lokale radio-omroeporganisatie enerzijds en anderzijds een of meer landelijke of netwerkradio-omroeporganisaties zijn evenmin toegestaan en leiden er evenmin toe dat een onderneming of rechtspersoon zeggenschap uitoefent over die radio-omroeporganisaties. Een rechtspersoon die een lokale radio-omroeporganisatie voor lokaliteit Brussel exploiteert, kan ook de regionale televisieomroeporganisatie exploiteren die als verzorgingsgebied het tweetalige gebied Brussel-Hoofdstad heeft;<br>
 b) de rechtspersoon, vermeld in punt a), verzorgt niet meer dan twee radio-omroepprogramma's;<br>
 c) de lokale radio-omroeporganisaties, vermeld in artikel 144, zenden een aanzienlijk deel van het aanbod uit met een specifiek muziekprofiel, een thematische invulling van het programma-aanbod of een specifiek doelgroepengericht programma-aanbod;<br>
 d) in afwijking van artikel 131 kunnen lokale radio-omroeporganisaties die journaals brengen maar die niet over een eigen redactie beschikken die onder leiding en verantwoordelijkheid van een hoofdredacteur staat en waarvan de redactionele onafhankelijkheid niet gewaarborgd en in een redactiestatuut is vastgelegd, samenwerken met andere redacties als daarbij de onafhankelijkheid van de berichtgeving niet in het gedrang komt en als de redactie waarmee wordt samengewerkt op haar beurt voldoet aan de voorwaarden, vermeld in artikel 131;<br>
@@ -1232,7 +1316,7 @@ De lokale radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, 
 <br>
 In afwijking van het tweede lid mogen wijzigingen in de gegevens, vermeld in de offerte die de lokale omroeporganisatie heeft ingediend, waardoor wordt afgeweken van artikel 145, 2°, c), pas worden aangebracht na afloop van het tweede volledige kalenderjaar dat volgt op de datum van de erkenning. De lokale radio-omroeporganisatie brengt de Vlaamse Regulator voor de Media daarvan op de hoogte. Die kennisgeving wordt conform artikel 219 gedaan.<br>
 <br>
-In afwijking van het eerste, tweede en derde lid&nbsp;wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van wijzigingen die betrekking hebben op de statuten of de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
+In afwijking van het eerste, tweede en derde lid&nbsp;wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van wijzigingen die betrekking hebben op de statuten of in voorkomend geval de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
 
 ## Afdeling III. Andere radio-omroeporganisaties
 
@@ -1242,14 +1326,14 @@ Particuliere radio-omroeporganisaties die hun omroepprogramma's niet via analoge
 
 ### ART. 148.
 
-§ 1. Het maatschappelijk doel van de omroeporganisaties, vermeld in artikel 147, bestaat in het verzorgen van radioprogramma's om ze ter beschikking te stellen van het publiek en ze te leveren via elektronische communicatienetwerken, met uitsluiting van analoge terrestrische radio-omroepnetwerken. Ze kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel.<br>
+§ 1. Het voorwerp van de omroeporganisaties, vermeld in artikel 147, bestaat in het verzorgen van radioprogramma's om ze ter beschikking te stellen van het publiek en ze te leveren via elektronische communicatienetwerken, met uitsluiting van analoge terrestrische radio-omroepnetwerken. Ze kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.<br>
 <br>
 &nbsp;§ 2. ...
 
 ### ART. 149.
 
 § 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, radiodiensten aanbieden via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet, als:<br>
-1° de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het aanbieden van radiodiensten via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet;<br>
+1° de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het aanbieden van radiodiensten via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet;<br>
 2° de entiteit die deze aanbiedt voldoet aan de voorwaarden, vermeld in artikel 129, 130 en 131.<br>
 <br>
 § 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van deze diensten.<br>
@@ -1260,7 +1344,7 @@ De kennisgeving moet minstens de volgende informatie bevatten : de plaats van ui
 <br>
 Voor elk afzonderlijk omroepprogramma wordt een nieuwe kennisgeving verricht.<br>
 <br>
-Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad van beheer of de raad van bestuur van de omroeporganisatie, wordt zonder verwijl aan de Vlaamse Regulator voor de Media meegedeeld.<br>
+Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad van beheer of het bestuursorgaan van de omroeporganisatie, wordt zonder verwijl aan de Vlaamse Regulator voor de Media meegedeeld.<br>
 <br>
 § 3. De kennisgeving, vermeld in paragraaf 2, is niet vereist voor erkende landelijke, netwerk- en lokale radio-omroeporganisaties die hun programma's doorgeven of beschikbaar stellen via andere elektronische communicatienetwerken dan analoge terrestrische radio-omroepnetwerken.
 
@@ -1268,7 +1352,7 @@ Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad
 
 ### ART. 150.
 
-§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire radiodiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van niet-lineaire radiodiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+§ 1. Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire radiodiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het verzorgen van niet-lineaire radiodiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.<br>
 <br>
 § 2. De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire radiodienst. Die kennisgeving wordt conform artikel 219 gedaan. De kennisgeving moet minstens de volgende informatie bevatten : de plaats van uitzending, de plaats van vestiging, de wijze waarop het programmasignaal wordt verspreid, en de statuten.<br>
 <br>
@@ -1288,12 +1372,12 @@ Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad
 <br>
 § 2. Een televisieomroeporganisatie is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad als ze aan een van de onderstaande voorwaarden voldoet :<br>
 1° het hoofdkantoor is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen;<br>
-2° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een andere lidstaat van de Europese Unie;<br>
-3° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een andere lidstaat van de Europese Unie;<br>
+2° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een andere lidstaat van de Europese Unie en van de andere staten in de Europese Economische Ruimte;<br>
+3° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een andere lidstaat van de Europese Unie en van de andere staten in de Europese Economische Ruimte;<br>
 4° het hoofdkantoor is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt, terwijl de redactionele beslissingen worden genomen in een andere lidstaat van de Europese Unie, waar ook een aanzienlijk deel van het personeel van de televisieomroeporganisatie werkt;<br>
-5° er is geen aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken dat werkt in het Nederlandse taalgebied, in het tweetalige gebied Brussel-Hoofdstad of in een andere lidstaat van de Europese Unie, maar de televisieomroeporganisatie is het eerst begonnen met het aanbieden van televisiediensten in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad overeenkomstig het recht van de Vlaamse Gemeenschap en de televisieomroeporganisatie heeft een duurzame en reële band met de economie van de Vlaamse Gemeenschap;<br>
-6° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een land dat geen lidstaat is van de Europese Unie;<br>
-7° een aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een land dat geen lidstaat is van de Europese Unie.<br>
+5° er is geen aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken dat werkt in het Nederlandse taalgebied, in het tweetalige gebied Brussel-Hoofdstad of in een andere lidstaat van de Europese Unie of van een andere staat in de Europese Economische Ruimte, maar de televisieomroeporganisatie is het eerst begonnen met het aanbieden van televisiediensten in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad overeenkomstig het recht van de Vlaamse Gemeenschap en de televisieomroeporganisatie heeft een duurzame en reële band met de economie van de Vlaamse Gemeenschap;<br>
+6° een aanzienlijk deel van het personeel van de televisieomroeporganisatie&nbsp;dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar het hoofdkantoor is gevestigd, terwijl de redactionele beslissingen worden genomen in een land dat geen lidstaat is van de Europese Unie en van de andere staten in de Europese Economische Ruimte;<br>
+7° een aanzienlijk deel van het personeel van de televisieomroeporganisatie dat bij de programmagerelateerde activiteiten van de televisiedienst is betrokken werkt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, waar de redactionele beslissingen worden genomen, terwijl het hoofdkantoor gevestigd is in een land dat geen lidstaat is van de Europese Unie en van de andere staten in de Europese Economische Ruimte.<br>
 <br>
 § 3. Een televisieomroeporganisatie die niet voldoet aan een van de voorwaarden, vermeld in paragraaf 2, valt onder de bevoegdheid van de Vlaamse Gemeenschap als ze aan een van de onderstaande voorwaarden voldoet :<br>
 1° ze maakt gebruik van een aarde-satellietverbinding vanuit het Nederlandse taalgebied of van een aarde-satellietverbinding vanuit het tweetalige gebied Brussel-Hoofdstad die uitsluitend behoort tot de Vlaamse Gemeenschap;<br>
@@ -1305,9 +1389,9 @@ Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad
 <br>
 § 4/2. De Vlaamse Regulator voor de Media houdt een actuele lijst bij met de televisieomroeporganisaties ten aanzien van wie hij bevoegd is. Die lijst vermeldt voor elke televisieomroeporganisatie de criteria, vermeld in paragraaf 2 tot en met 4, waarop de bevoegdheid van de Vlaamse Regulator voor de Media is gebaseerd. De Vlaamse Regulator voor de Media bezorgt die lijst, met inbegrip van de actualiseringen, aan de Europese Commissie.<br>
 <br>
-§ 4/3. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie geen overeenstemming wordt bereikt over wie bevoegd is voor een televisieomroeporganisatie in het kader van de procedures, vermeld in artikel 40/1, 221 en 222, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.<br>
+§ 4/3. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie of van een andere staat in de Europese Economische Ruimte geen overeenstemming wordt bereikt over wie bevoegd is voor een televisieomroeporganisatie in het kader van de procedures, vermeld in artikel 40/1, 221 en 222, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.<br>
 <br>
-§ 5. Dit decreet is niet van toepassing op televisiediensten die uitsluitend bestemd zijn voor ontvangst in een land dat geen lidstaat is van de Europese Unie, en die niet rechtstreeks of onrechtstreeks met standaardapparatuur voor de consument door het publiek in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad of elders in de Europese Unie worden ontvangen.
+§ 5. Dit decreet is niet van toepassing op televisiediensten die uitsluitend bestemd zijn voor ontvangst in een land dat geen lidstaat is van de Europese Unie of een staat in de Europese Economische Ruimte, en die niet rechtstreeks of onrechtstreeks met standaardapparatuur voor de consument door het publiek in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad of elders in de Europese Unie&nbsp;of de Europese Economische Ruimte worden ontvangen.
 
 ## [Afdeling I/1 Toegang tot televisiediensten voor personen met een handicap (verv. decr. 19 maart 2021, art. 25, I: 9 mei 2021)]
 
@@ -1395,7 +1479,7 @@ Het besluit van de Vlaamse Regering strekkende tot de uitvoering van het tweede 
 <br>
 § 3. De niet-lineaire televisieorganisaties bezorgen elk jaar voor 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop aan de bepalingen van de paragrafen 1 en 2 is voldaan. De Vlaamse Regulator voor de Media maakt die gegevens openbaar.<br>
 <br>
-§ 4. De bepalingen van paragrafen 2 en 3 zijn ook van toepassing op niet-lineaire televisieomroeporganisaties die&nbsp;gevestigd zijn in&nbsp;een lidstaat van de Europese Unie en niet-lineaire televisiediensten aanbieden die gericht zijn op het Nederlandse taalgebied.
+§ 4. De bepalingen van paragrafen 2 en 3 zijn ook van toepassing op niet-lineaire televisieomroeporganisaties die&nbsp;gevestigd zijn in&nbsp;een lidstaat van de Europese Unie of in een staat van de Europese Economische Ruimte en niet-lineaire televisiediensten aanbieden die gericht zijn op het Nederlandse taalgebied.
 
 ## HOOFDSTUK II. Particuliere lineaire televisiediensten
 
@@ -1407,11 +1491,13 @@ Tot de particuliere lineaire televisieomroeporganisaties behoren :<br />1° regi
 
 ### ART. 159.
 
-Onder de voorwaarden, vermeld in deze afdeling, worden particuliere lineaire televisieomroeporganisaties erkend door de Vlaamse Regering of aangemeld bij de Vlaamse Regulator voor de Media. Om erkend te worden, moeten ze worden opgericht als een privaatrechtelijke rechtspersoon en moeten ze onder de bevoegdheid van de Vlaamse Gemeenschap vallen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het verkrijgen van de erkenning en voor de wijze van kennisgeving.
+Onder de voorwaarden, vermeld in deze afdeling, worden particuliere lineaire televisieomroeporganisaties erkend door de Vlaamse Regering of aangemeld bij de Vlaamse Regulator voor de Media. Om erkend te worden, moeten ze worden opgericht als een privaatrechtelijke rechtspersoon of een natuurlijke persoon die een beroepsactiviteit uitoefent en moeten ze onder de bevoegdheid van de Vlaamse Gemeenschap vallen.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het verkrijgen van de erkenning en voor de wijze van kennisgeving.
 
 ### ART. 160.
 
-De particuliere lineaire televisieomroeporganisaties hebben als maatschappelijk doel het verzorgen van programma's. Ze mogen alle handelingen verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun doel.
+De particuliere lineaire televisieomroeporganisaties hebben als voorwerp het verzorgen van programma's. Ze mogen alle handelingen verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van dat voorwerp.
 
 ## Afdeling II. De private televisieomroeporganisaties
 
@@ -1419,7 +1505,7 @@ De particuliere lineaire televisieomroeporganisaties hebben als maatschappelijk 
 
 Private televisieomroeporganisaties moeten aangemeld worden bij de Vlaamse Regulator voor de Media. De kennisgeving wordt minimaal veertien kalenderdagen voor de start van het aanbieden van de lineaire televisiediensten gedaan.<br>
 <br>
-De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, de financiële structuur, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie op de hoogte van de kennisgeving.<br>
+De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, de financiële structuur, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie of van een andere staat van de Europese Economische Ruimte, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie&nbsp;of van die andere staat van de Europese Economische Ruimte op de hoogte van de kennisgeving.<br>
 <br>
 Na de kennisgeving moet elke wijziging van de informatie, vermeld in het tweede lid, door de private omroeporganisatie in kwestie zo spoedig mogelijk aan de Vlaamse Regulator voor de Media worden meegedeeld.<br>
 <br>
@@ -1431,7 +1517,7 @@ Voor elk omroepprogramma is een kennisgeving vereist.<br /><br />Private televis
 
 ### ART. 163.
 
-Eenieder kan, onder de voorwaarden van dit hoofdstuk, lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van lineaire televisiediensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+Eenieder kan, onder de voorwaarden van dit hoofdstuk, lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het verzorgen van lineaire televisiediensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.<br>
 <br>
 De lineaire televisieomroeporganisaties zijn onafhankelijk van politieke partijen.<br>
 <br>
@@ -1441,7 +1527,7 @@ De lineaire televisieomroeporganisaties zenden uit in het Nederlands, behoudens 
 
 ### ART. 164.
 
-Als private televisieomroeporganisaties journaals en duidingsprogramma's brengen, moeten die worden verzorgd door een eigen redactie. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd.
+Als private televisieomroeporganisaties journaals en actualiteitenprogramma's brengen, moeten die worden verzorgd door een eigen redactie. De redactionele onafhankelijkheid wordt gewaarborgd en in een redactiestatuut vastgelegd.
 
 ## Afdeling III. De regionale televisieomroeporganisaties
 
@@ -1504,10 +1590,10 @@ Met ingang van 1 januari 2016 zullen regionale televisieomroeporganisaties, waar
 § 3. ...<br>
 <br>
 § 4. De organen van regionale televisieomroeporganisaties die een exploitatieovereenkomst hebben gesloten als vermeld in paragraaf 1, voldoen bovendien aan de volgende voorwaarden:<br>
-1° de algemene vergadering en de raad van bestuur worden representatief samengesteld uit personen die wonen in het betrokken verzorgingsgebied van de regionale omroeporganisatie;<br>
-2° maximaal twee derde van de leden van de algemene vergadering en van de raad van bestuur is van hetzelfde geslacht, en minimaal één van de leden van die organen heeft een etnisch-cultureel diverse achtergrond. De algemene vergadering en de raad van bestuur moeten in hun samenstelling een evenwichtige en evenredige leeftijdsdiversiteit die de demografische realiteit van onze meerderjarige bevolking volgt, weerspiegelen;<br>
-3° één werkend lid van de algemene vergadering wordt aangewezen door de exploitatiemaatschappij waarmee de regionale televisieomroeporganisatie een exploitatieovereenkomst heeft gesloten;<br>
-4° de mandaten in de raad van bestuur gelden voor vier jaar. Een individuele bestuurder kan nooit langer zetelen dan twaalf jaar.<br>
+1° de algemene vergadering en de&nbsp;bestuursorgaan worden representatief samengesteld uit personen die wonen in het betrokken verzorgingsgebied van de regionale omroeporganisatie;<br>
+2° maximaal twee derde van de leden van de algemene vergadering en van de&nbsp;bestuursorgaan is van hetzelfde geslacht, en minimaal één van de leden van die organen heeft een etnisch-cultureel diverse achtergrond. De algemene vergadering en de&nbsp;bestuursorgaan moeten in hun samenstelling een evenwichtige en evenredige leeftijdsdiversiteit die de demografische realiteit van onze meerderjarige bevolking volgt, weerspiegelen;<br>
+3° één lid van de algemene vergadering wordt aangewezen door de exploitatiemaatschappij waarmee de regionale televisieomroeporganisatie een exploitatieovereenkomst heeft gesloten;<br>
+4° de mandaten in de&nbsp;bestuursorgaan gelden voor vier jaar. Een individuele bestuurder kan nooit langer zetelen dan twaalf jaar.<br>
 <br>
 § 5. Onverminderd de toepassing van artikel 169 en 170 ontvangen de regionale televisieomroeporganisaties die een exploitatieovereenkomst hebben gesloten als vermeld in paragraaf 1, en die voldoen aan de overige bepalingen van dit artikel, van de Vlaamse Regering een nieuwe erkenning voor de resterende duur van de initiële erkenningsperiode waarin wordt vermeld dat de exploitatieovereenkomst is gesloten.<br>
 <br>
@@ -1530,9 +1616,9 @@ De regionale omroeporganisaties kunnen in hetzelfde omroepprogramma ontkoppelde 
 ### ART. 169.
 
 Om erkend te worden en te blijven, moeten de regionale televisieomroeporganisaties voldoen aan de volgende voorwaarden :<br>
-1° de vorm hebben van een vereniging zonder winstoogmerk, waarvan de beheerders geen beheerder mogen zijn van een andere vereniging die een regionale televisieomroeporganisatie in eigendom heeft of beheert;<br>
-2° de maatschappelijke zetel en de exploitatiezetel liggen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, en meer bepaald binnen hun verzorgingsgebied;<br>
-3° het maatschappelijk doel van de vereniging is beperkt tot het uitsluitend verzorgen van regionale programma's;<br>
+1° de vorm hebben van een vereniging zonder winstoogmerk, waarvan de bestuurders geen bestuurder mogen zijn van een andere vereniging die een regionale televisieomroeporganisatie exploiteert;<br>
+2° de statutaire zetel en de exploitatiezetel liggen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, en meer bepaald binnen hun verzorgingsgebied;<br>
+3° het voorwerp van de vereniging is beperkt tot het uitsluitend verzorgen van regionale programma's;<br>
 4° één vereniging verzorgt niet meer dan één regionale omroepdienst;<br>
 5° de regionale televisieomroeporganisaties zijn onafhankelijk van een politieke partij, een beroepsvereniging of een organisatie met een commercieel doel;<br>
 6° de regionale televisieomroeporganisaties zenden uit in het Nederlands, behoudens afwijkingen die door de Vlaamse Regering worden toegestaan;<br>
@@ -1582,17 +1668,23 @@ De algemene vergadering van de regionale televisieomroeporganisatie wordt repres
 
 ### ART. 172.
 
-De raad van bestuur van de regionale televisieomroeporganisatie moet representatief worden samengesteld en mag voor niet meer dan een vijfde bestaan uit leden die :<br />1° een politiek mandaat uitoefenen;<br />2° een leidinggevende functie of de functie van bestuurder uitoefenen in een beroepsvereniging van werkgevers of werknemers;<br />3° een leidinggevende functie of de functie van bestuurder uitoefenen in een pers-, advertentie- of reclamebedrijf, bij de openbare omroeporganisatie van de Vlaamse Gemeenschap of bij een private televisieomroeporganisatie;<br />4° een leidinggevende functie of de functie van bestuurder uitoefenen bij een aanbieder van een kabelomroepnetwerk.<br /><br />In geen geval mogen de leden van de raad van bestuur deel uitmaken van een college van burgemeester en schepenen, een bestendige deputatie, de Vlaamse Regering, de regering van het Brusselse Hoofdstedelijke Gewest of de federale regering.
+Het bestuursorgaan van de regionale televisieomroeporganisatie moet representatief worden samengesteld en mag voor niet meer dan een vijfde bestaan uit leden die :<br>
+1° een politiek mandaat uitoefenen;<br>
+2° een leidinggevende functie of de functie van bestuurder uitoefenen in een beroepsvereniging van werkgevers of werknemers;<br>
+3° een leidinggevende functie of de functie van bestuurder uitoefenen in een pers-, advertentie- of reclamebedrijf, bij de openbare omroeporganisatie van de Vlaamse Gemeenschap of bij een private televisieomroeporganisatie;<br>
+4° een leidinggevende functie of de functie van bestuurder uitoefenen bij een aanbieder van een kabelomroepnetwerk.<br>
+<br>
+In geen geval mogen de leden van het bestuursorgaan deel uitmaken van een college van burgemeester en schepenen, een bestendige deputatie, de Vlaamse Regering, de regering van het Brusselse Hoofdstedelijke Gewest of de federale regering.
 
 ### ART. 173.
 
-Elke wijziging in de raad van bestuur en de algemene vergadering van de regionale televisieomroeporganisatie moet worden meegedeeld aan de Vlaamse Regulator voor de Media.
+Elke wijziging in het bestuursorgaan en de algemene vergadering van de regionale televisieomroeporganisatie moet worden meegedeeld aan de Vlaamse Regulator voor de Media.
 
 ## HOOFDSTUK III. Particuliere niet-lineaire televisiediensten
 
 ### ART. 174.
 
-Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het verzorgen van niet-lineaire televisiediensten, inzonderheid op digitale wijze. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.<br>
+Eenieder kan, onder de voorwaarden van dit hoofdstuk, niet-lineaire televisiediensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het verzorgen van niet-lineaire televisiediensten, inzonderheid op digitale wijze. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.<br>
 <br>
 De niet-lineaire televisieomroeporganisaties kunnen, al dan niet tegen betaling, geheel of gedeeltelijk gecodeerd uitzenden en zijn onafhankelijk van een politieke partij.<br>
 <br>
@@ -1602,7 +1694,7 @@ De niet-lineaire televisieomroeporganisaties zenden minstens in het Nederlands u
 
 De Vlaamse Regulator voor de Media moet minimaal veertien kalenderdagen voor het starten van de dienst op de hoogte worden gebracht van het aanbieden van een niet-lineaire televisiedienst.<br>
 <br>
-De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de niet-lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie op de hoogte van de kennisgeving.<br>
+De kennisgeving wordt conform artikel 219 gedaan en moet minstens de volgende informatie bevatten : alle gegevens die kunnen dienen om te bepalen of de Vlaamse Gemeenschap bevoegd is voor de televisiedienst in kwestie, de statuten, en een duidelijke omschrijving van de te leveren dienst.&nbsp;Als de niet-lineaire televisiedienst geheel of hoofdzakelijk gericht is op het publiek van een andere lidstaat van de Europese Unie of van een andere staat van de Europese Economische Ruimte, brengt de Vlaamse Regulator voor de Media de nationale regulerende instantie of het nationaal regulerende orgaan van die andere lidstaat van de Europese Unie&nbsp;of van die andere staat van de Europese Economische Ruimte op de hoogte van de kennisgeving.<br>
 <br>
 De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten, alsook de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
 <br>
@@ -1618,7 +1710,7 @@ Na de kennisgeving moet elke wijziging in de informatie, vermeld in het eerste l
 
 ### ART 176/1.
 
-Eenieder kan conform de bepalingen, vermeld in dit deel, videoplatformdiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het maatschappelijk doel in het aanbieden van videoplatformdiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van zijn maatschappelijk doel.
+Eenieder kan conform de bepalingen, vermeld in dit deel, videoplatformdiensten aanbieden, als de entiteit die deze aanbiedt opgericht is als een privaatrechtelijke rechtspersoon, of een natuurlijke persoon is die zelfstandig een beroepsactiviteit uitoefent en onder de bevoegdheid van de Vlaamse Gemeenschap valt. In het geval van een privaatrechtelijke rechtspersoon bestaat het voorwerp in het aanbieden van videoplatformdiensten. De rechtspersoon kan alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp.
 
 ### ART 176/2.
 
@@ -1646,18 +1738,18 @@ Na de kennisgeving delen de aanbieders van videoplatformdiensten zo spoedig moge
 <br>
 § 2. Voor de toepassing van dit decreet valt een aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als hij overeenkomstig artikel I.18, 4°, van het Wetboek van economisch recht gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
 <br>
-§ 3. Een aanbieder van videoplatformdiensten die niet overeenkomstig artikel I.18, 4°, van het Wetboek van economisch recht is gevestigd in een lidstaat van de Europese Unie, valt voor de toepassing van dit decreet onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
+§ 3. Een aanbieder van videoplatformdiensten die niet overeenkomstig artikel I.18, 4°, van het Wetboek van economisch recht is gevestigd in een lidstaat van de Europese Unie of een staat van de Europese Economische Ruimte, valt voor de toepassing van dit decreet onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
 1° als hij een moederonderneming of een dochteronderneming heeft die gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of<br>
 2° als hij deel uitmaakt van een groep en een andere onderneming van de groep gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
 <br>
-§ 4. Als de moederonderneming en de dochteronderneming of de andere ondernemingen van de groep, vermeld in paragraaf 3, allemaal gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
+§ 4. Als de moederonderneming en de dochteronderneming of de andere ondernemingen van de groep, vermeld in paragraaf 3, allemaal gevestigd zijn in verschillende lidstaten van de Europese Unie of in verschillende staten van de Europese Economische Ruimte, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap:<br>
 1° als de moederonderneming gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of bij gebreke van een dergelijke vestiging<br>
 2° als de dochteronderneming gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren; of bij gebreke van een dergelijke vestiging<br>
 3° als een andere onderneming van de groep, vermeld in paragraaf 3, gevestigd is in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en haar activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren.<br>
 <br>
-§ 5. Als de moederonderneming, vermeld in paragraaf 3, niet gevestigd is in een lidstaat van de Europese Unie en als verschillende dochterondernemingen als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een dochteronderneming voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
+§ 5. Als de moederonderneming, vermeld in paragraaf 3, niet gevestigd is in een lidstaat van de Europese Unie of in een staat van de Europese Economische Ruimte en als verschillende dochterondernemingen als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie of in verschillende staten van de Europese Economische Ruimte, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een dochteronderneming voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
 <br>
-Als de moederonderneming en de dochteronderneming, vermeld in paragraaf 3, niet gevestigd zijn in een lidstaat van de Europese Unie en als verschillende andere ondernemingen van de groep als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een andere onderneming van de groep voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
+Als de moederonderneming en de dochteronderneming, vermeld in paragraaf 3, niet gevestigd zijn in een lidstaat van de Europese Unie&nbsp;of in een staat van de Europese Economische Ruimte en als verschillende andere ondernemingen van de groep als vermeld in paragraaf 3, gevestigd zijn in verschillende lidstaten van de Europese Unie of in verschillende staten van de Europese Economische Ruimte, valt de aanbieder van videoplatformdiensten onder de bevoegdheid van de Vlaamse Gemeenschap als een andere onderneming van de groep voor het eerst met haar activiteiten begon in het Nederlandse taalgebied, of in het tweetalige gebied Brussel-Hoofdstad en de activiteiten uitsluitend tot de Vlaamse Gemeenschap behoren, mits de aanbieder van videoplatformdiensten een duurzame en reële band met de economie van de Vlaamse Gemeenschap heeft.<br>
 <br>
 § 6. Artikel XII.3, XII.4, XII.6, XII.17, XII.18, XII.19 en XII.20 van het Wetboek van economisch recht zijn van toepassing op aanbieders van videoplatformdiensten die vallen onder de bevoegdheid van de Vlaamse Gemeenschap.<br>
 <br>
@@ -1665,7 +1757,7 @@ Als de moederonderneming en de dochteronderneming, vermeld in paragraaf 3, niet 
 <br>
 De lijst vermeldt voor elke aanbieder van videoplatformdiensten de criteria, vermeld in paragraaf 2 tot en met 5, waarop de bevoegdheid van de Vlaamse Regulator voor de Media is gebaseerd. De Vlaamse Regulator voor de Media bezorgt die lijst, met inbegrip van actualiseringen, aan de Europese Commissie.<br>
 <br>
-§ 8. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie geen overeenstemming wordt bereikt over wie bevoegd is voor een aanbieder van videoplatformdiensten, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.
+§ 8. Als tussen de Vlaamse Regulator voor de Media en de nationale regulerende instantie of het nationale regulerende orgaan van een andere lidstaat van de Europese Unie&nbsp;of van een andere staat van de Europese Economische Ruimte geen overeenstemming wordt bereikt over wie bevoegd is voor een aanbieder van videoplatformdiensten, brengt de Vlaamse Regulator voor de Media de Europese Commissie daarvan onmiddellijk op de hoogte.
 
 ### ART 176/4.
 
@@ -1970,10 +2062,10 @@ Binnen het kader van de noodzaak om aan internationale afspraken te voldoen, ver
 <br>
 § 4. Als de Vlaamse Regulator voor de Media na afloop van het onderzoek, vermeld in artikel 190, § 1, oordeelt dat de voorwaarden, vermeld in artikel 190, § 1, niet zijn vervuld, legt hij geen enkele verplichting op als vermeld in artikel 192/1 tot en met 192/7 en artikel 192/11, en trekt hij de bestaande verplichtingen in.<br>
 <br>
-De Vlaamse Regulator voor de Media waarborgt dat voor de partijen waarop een dergelijke intrekking van verplichtingen een invloed heeft, een passende opzeggingstermijn in acht wordt genomen die wordt bepaald door een evenwicht tot stand te brengen tussen de volgende aspecten :<br>
-3° de noodzaak om te zorgen voor een duurzame overgang voor de begunstigden van die verplichtingen en de eindgebruikers;<br>
-4° keuze voor de eindgebruikers;<br>
-5° waarborgen dat de regelgeving niet langer van kracht blijft dan noodzakelijk is.<br>
+De Vlaamse Regulator voor de Media waarborgt dat voor de partijen waarop een dergelijke intrekking van verplichtingen een invloed heeft, een passende opzeg- gingstermijn in acht wordt genomen die wordt bepaald door een evenwicht tot stand te brengen tussen de volgende aspecten:<br>
+1° de noodzaak om te zorgen voor een duurzame overgang voor de begunstigden van die verplichtingen en de eindgebruikers;<br>
+2° &nbsp; keuze voor de eindgebruikers;<br>
+3° waarborgen dat de regelgeving niet langer van kracht blijft dan noodzakelijk is.<br>
 <br>
 Als de Vlaamse Regulator voor de Media een opzeggingstermijn als vermeld in het tweede lid bepaalt, kan hij bij bestaande overeenkomsten inzake toegang specifieke voorwaarden en opzeggingstermijnen vaststellen. De Vlaamse Regulator stelt de duur en de nadere regels van deze opzeggingstermijnen vast.<br>
 <br>
@@ -2370,9 +2462,9 @@ De bepalingen van deze titel zijn niet van toepassing op de oprichting en de exp
 ### ART. 198.
 
 Eenieder kan, onder de voorwaarden van dit hoofdstuk, een kabelomroepnetwerk aanbieden, als hij voldoet aan de volgende voorwaarden :<br>
-1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een kabelomroepnetwerk in het Vlaamse Gewest. De aanbieders van kabelomroepnetwerken kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br>
+1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als voorwerp het aanleggen en exploiteren van een kabelomroepnetwerk in het Vlaamse Gewest. De aanbieders van kabelomroepnetwerken kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp;<br>
 2° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van de aanleg en de exploitatie van het kabelomroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
-3° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag, met vermelding van de aandeelhoudersstructuur, het aantal abonnees en de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br>
+3° wat vennootschappen betreft, jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag, met vermelding van de aandeelhoudersstructuur, het aantal abonnees en de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen of, wat publiekrechtelijke rechtspersonen betreft, jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag, het aantal abonnees en de doorgegeven omroepprogramma’s, en de balans en de jaarrekening voorleggen;<br>
 4° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen.<br>
 <br>
 De Vlaamse Regulator voor de Media moet vooraf, conform artikel 219, op de hoogte worden gebracht van het aanbieden van een kabelomroepnetwerk of van de overdracht ervan aan derden. De Vlaamse Regering bepaalt welke gegevens die kennisgeving moet bevatten en welke latere wijzigingen ervan aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
@@ -2414,7 +2506,7 @@ De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste 
 <br>
 De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de kabelomroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br>
 <br>
-De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die is aangepast aan de risico's.&nbsp;De verplichtingen, vermeld in het eerste en het vierde lid, zijn objectief, transparant, niet discriminerend en evenredig.<br>
+De verplichtingen, vermeld in het eerste en het derde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die is aangepast aan de risico's.&nbsp;De verplichtingen, vermeld in het eerste en het vierde lid, zijn objectief, transparant, niet discriminerend en evenredig.<br>
 <br>
 § 2. De aanbieders van kabelomroepnetwerken hebben ook het recht om voor de aanleg van de kabels en de bijbehorende uitrustingen van hun kabelomroepnetwerken op blijvende wijze steunen en ankers aan te brengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aan te leggen of zonder vasthechting of aanraking boven particuliere eigendommen te laten doorgaan.<br>
 <br>
@@ -2498,7 +2590,7 @@ De frequentieblokken en frequentiekanalen, vermeld in het eerste lid, met inbegr
 ### ART. 202.
 
 Om een licentie als vermeld in artikel 201 te verkrijgen, moet de aanbieder voldoen aan de volgende voorwaarden :<br>
-1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een etheromroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een etheromroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br>
+1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als voorwerp het aanleggen en exploiteren van een etheromroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een etheromroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van dat voorwerp;<br>
 2° ressorteren onder de bevoegdheid van de Vlaamse Gemeenschap;<br>
 3° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van het aanbieden van het etheromroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
 4° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag met vermelding van, in voorkomend geval, het aantal abonnees en van de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br>
@@ -2521,7 +2613,63 @@ De verplichtingen, vermeld in het derde lid, zijn objectief gerechtvaardigd in r
 
 ### ART. 202/1.
 
-§ 1. De aanbieders van etheromroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br /><br />Voor hij dat recht uitoefent, onderwerpt de belanghebbende aanbieder van een etheromroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid die bevoegd is voor het openbaar domein. Die overheid beslist binnen twee maanden vanaf de datum waarop het plan is ingezonden. Ze brengt de belanghebbende aanbieder van een etheromroepnetwerk op de hoogte van haar beslissing. Na het verstrijken van die termijn, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br /><br />De overheden hebben het recht om de inrichting of het plan van aanleg en de daarmee verband houdende werkzaamheden later op hun domein te laten wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het etheromroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br />1° met het oog op de openbare veiligheid;<br />2° tot behoud van het natuur- en stedenschoon;<br />3° in het belang van de wegen, waterlopen, vaarten of een openbare dienst;<br />4° als gevolg van een verandering die de aangelanden aan de toegangen tot de eigendommen langs de gebruikte wegen hebben aangebracht.<br /><br />In andere gevallen, dan de gevallen, vermeld in het tweede lid, zijn ze voor rekening van de overheid die de wijzigingen oplegt. De overheid mag vooraf een kostenbegroting eisen en, in geval van onenigheid, zelf de werkzaamheden laten uitvoeren.<br /><br />§ 2. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, doch zulks pas na een passende periode van openbare raadpleging, het gedeelde gebruik opleggen aan de aanbieders van etheromroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br /><br />Onder bijbehorende faciliteiten wordt verstaan de diensten die horen bij een elektronisch communicatienetwerk of een elektronische communicatiedienst, fysieke infrastructuren en andere elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel daarvoor bezitten, zoals gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten.<br /><br />De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste lid, opleggen na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen.<br /><br />De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de etheromroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br /><br />De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die kan worden aangepast aan de risico's.<br /><br />§ 3. De aanbieders van etheromroepnetwerken kunnen voor de aanleg van de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op blijvende wijze steunen en ankers aanbrengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aanleggen of zonder vasthechting of aanraking boven particuliere eigendommen laten doorgaan.<br /><br />De werkzaamheden mogen pas beginnen nadat aan de eigenaars, volgens de gegevens van het kadaster, aan de huurders en aan de bewoners een behoorlijk aangetoonde schriftelijke kennisgeving is bezorgd.<br /><br />Als de aanbieder van een etheromroepnetwerk kabels, bovengrondse lijnen en bijbehorende uitrustingen wil aanleggen, opruimen of er werkzaamheden aan wil uitvoeren, streeft hij naar overeenstemming over de plaats en de wijze van uitvoering van de werkzaamheden met degene op de eigendom van wie steun wordt genomen of van wie de eigendom wordt overspannen of overschreden.<br /><br />De uitvoering van de werkzaamheden heeft geen buitenbezitstelling tot gevolg. Het plaatsen van steunen en ankers op muren of gevels mag de eigenaar niet hinderen in zijn recht om zijn goed af te breken of te herstellen.<br /><br />De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het etheromroepnetwerk.<br /><br />De eigenaar moet ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het etheromroepnetwerk daarvan op de hoogte brengen.<br /><br />§ 4. De aanleg en de uitvoering van alle andere werken aan de kabels, bovengrondse lijnen en bijbehorende uitrustingen in, tegen en op gebouwen en in en op gronden die daarbij horen, voor de aansluitingen op de infrastructuur in die gebouwen, moeten worden toegelaten door de eigenaar en de rechthebbende, tenzij ze bereid zijn de meerkosten van een tegenvoorstel te dragen.<br /><br />§ 5. De eigenaar of de rechthebbende moet takken en wortels die hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, inkorten op verzoek van de aanbieder van een etheromroepnetwerk.<br /><br />Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een etheromroepnetwerk zelf overgaan tot het inkorten. De kosten van het inkorten zijn ten laste van :<br />1° de eigenaar of de rechthebbende als de bomen of beplantingen zich bevinden op zijn privé-eigendom en de takken of wortels hinderlijk zijn voor kabels, bovengrondse lijnen en bijbehorende uitrustingen, die zich :<br />a) in of boven het openbaar domein bevinden;<br />b) in of boven zijn privé-eigendom bevinden en die dienstig zijn voor zijn aansluiting;<br />2° de aanbieder van een etheromroepnetwerk, in de overige gevallen.<br /><br />§ 6. Als de aanbieder van een etheromroepnetwerk werkzaamheden uitvoert, moet hij het goed herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, door eigen toedoen of door toedoen van een derde.<br /><br />De verplichting, vermeld in het eerste lid, is niet van toepassing op de schade die onvermijdelijk wordt aangericht door de aanbieder van een etheromroepnetwerk aan een goed, als de aanbieder van een etheromroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br /><br />De aanbieder van een etheromroepnetwerk en de eigenaar of de rechthebbende van het goed kunnen afwijken van de verplichtingen, vermeld in het eerste lid.<br /><br />§ 7. De vergoedingen voor schade veroorzaakt door de aanleg of door de exploitatie van een etheromroepnetwerk zijn voor rekening van de aanbieder van het etheromroepnetwerk, die aansprakelijk blijft voor alle schadelijke gevolgen voor derden.<br /><br />§ 8. De aanbieder van een etheromroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, van het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafmstallaties of van de installaties voor elektriciteitsvoorziening onmiddellijk te doen ophouden.<br /><br />Bij gebrek daaraan worden de nodig geachte maatregelen, met inbegrip van het verplaatsen van de kabels en de bijbehorende installaties, door de diensten of bedrijven in kwestie getroffen op kosten en risico van de aanbieder van het omroepnetwerk.<br /><br />§ 9. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het etheromroepnetwerk.
+§ 1. De aanbieders van etheromroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br>
+<br>
+Voor hij dat recht uitoefent, onderwerpt de belanghebbende aanbieder van een etheromroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid die bevoegd is voor het openbaar domein. Die overheid beslist binnen twee maanden vanaf de datum waarop het plan is ingezonden. Ze brengt de belanghebbende aanbieder van een etheromroepnetwerk op de hoogte van haar beslissing. Na het verstrijken van die termijn, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br>
+<br>
+De overheden hebben het recht om de inrichting of het plan van aanleg en de daarmee verband houdende werkzaamheden later op hun domein te laten wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het etheromroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br>
+1° met het oog op de openbare veiligheid;<br>
+2° tot behoud van het natuur- en stedenschoon;<br>
+3° in het belang van de wegen, waterlopen, vaarten of een openbare dienst;<br>
+4° als gevolg van een verandering die de aangelanden aan de toegangen tot de eigendommen langs de gebruikte wegen hebben aangebracht.<br>
+<br>
+In andere gevallen, dan de gevallen, vermeld in het tweede lid, zijn ze voor rekening van de overheid die de wijzigingen oplegt. De overheid mag vooraf een kostenbegroting eisen en, in geval van onenigheid, zelf de werkzaamheden laten uitvoeren.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, doch zulks pas na een passende periode van openbare raadpleging, het gedeelde gebruik opleggen aan de aanbieders van etheromroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br>
+<br>
+Onder bijbehorende faciliteiten wordt verstaan de diensten die horen bij een elektronisch communicatienetwerk of een elektronische communicatiedienst, fysieke infrastructuren en andere elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel daarvoor bezitten, zoals gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste lid, opleggen na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen.<br>
+<br>
+De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de etheromroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br>
+<br>
+De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die kan worden aangepast aan de risico's.<br>
+<br>
+§ 3. De aanbieders van etheromroepnetwerken kunnen voor de aanleg van de kabels en de bijbehorende uitrustingen van hun etheromroepnetwerken op blijvende wijze steunen en ankers aanbrengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aanleggen of zonder vasthechting of aanraking boven particuliere eigendommen laten doorgaan.<br>
+<br>
+De werkzaamheden mogen pas beginnen nadat aan de eigenaars, volgens de gegevens van het kadaster, aan de huurders en aan de bewoners een behoorlijk aangetoonde schriftelijke kennisgeving is bezorgd.<br>
+<br>
+Als de aanbieder van een etheromroepnetwerk kabels, bovengrondse lijnen en bijbehorende uitrustingen wil aanleggen, opruimen of er werkzaamheden aan wil uitvoeren, streeft hij naar overeenstemming over de plaats en de wijze van uitvoering van de werkzaamheden met degene op de eigendom van wie steun wordt genomen of van wie de eigendom wordt overspannen of overschreden.<br>
+<br>
+De uitvoering van de werkzaamheden heeft geen buitenbezitstelling tot gevolg. Het plaatsen van steunen en ankers op muren of gevels mag de eigenaar niet hinderen in zijn recht om zijn goed af te breken of te herstellen.<br>
+<br>
+De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het etheromroepnetwerk.<br>
+<br>
+De eigenaar moet ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het etheromroepnetwerk daarvan op de hoogte brengen.<br>
+<br>
+§ 4. De aanleg en de uitvoering van alle andere werken aan de kabels, bovengrondse lijnen en bijbehorende uitrustingen in, tegen en op gebouwen en in en op gronden die daarbij horen, voor de aansluitingen op de infrastructuur in die gebouwen, moeten worden toegelaten door de eigenaar en de rechthebbende, tenzij ze bereid zijn de meerkosten van een tegenvoorstel te dragen.<br>
+<br>
+§ 5. De eigenaar of de rechthebbende moet takken en wortels die hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, inkorten op verzoek van de aanbieder van een etheromroepnetwerk.<br>
+<br>
+Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een etheromroepnetwerk zelf overgaan tot het inkorten. De kosten van het inkorten zijn ten laste van :<br>
+1° de eigenaar of de rechthebbende als de bomen of beplantingen zich bevinden op zijn privé-eigendom en de takken of wortels hinderlijk zijn voor kabels, bovengrondse lijnen en bijbehorende uitrustingen, die zich :<br>
+a) in of boven het openbaar domein bevinden;<br>
+b) in of boven zijn privé-eigendom bevinden en die dienstig zijn voor zijn aansluiting;<br>
+2° de aanbieder van een etheromroepnetwerk, in de overige gevallen.<br>
+<br>
+§ 6. Als de aanbieder van een etheromroepnetwerk werkzaamheden uitvoert, moet hij het goed herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, door eigen toedoen of door toedoen van een derde.<br>
+<br>
+De verplichting, vermeld in het eerste lid, is niet van toepassing op de schade die onvermijdelijk wordt aangericht door de aanbieder van een etheromroepnetwerk aan een goed, als de aanbieder van een etheromroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br>
+<br>
+De aanbieder van een etheromroepnetwerk en de eigenaar of de rechthebbende van het goed kunnen afwijken van de verplichtingen, vermeld in het eerste lid.<br>
+<br>
+§ 7. De vergoedingen voor schade veroorzaakt door de aanleg of door de exploitatie van een etheromroepnetwerk zijn voor rekening van de aanbieder van het etheromroepnetwerk, die aansprakelijk blijft voor alle schadelijke gevolgen voor derden.<br>
+<br>
+§ 8. De aanbieder van een etheromroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, van het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafinstallaties of van de installaties voor elektriciteitsvoorziening onmiddellijk te doen ophouden.<br>
+<br>
+Bij gebrek daaraan worden de nodig geachte maatregelen, met inbegrip van het verplaatsen van de kabels en de bijbehorende installaties, door de diensten of bedrijven in kwestie getroffen op kosten en risico van de aanbieder van het omroepnetwerk.<br>
+<br>
+§ 9. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het etheromroepnetwerk.
 
 ### ART. 203.
 
@@ -2539,7 +2687,7 @@ De Vlaamse Regulator voor de Media is bevoegd om op ieder ogenblik te controlere
 
 ### ART. 206.
 
-De televisieomroeporganisaties die onder de bevoegdheid van de Vlaamse Gemeenschap vallen, moeten :<br />1° hun uitzendingen verzorgen via een 16 :9-systeem dat volledig compatibel is met PAL, als het uitzendingen in breedbeeld en 625 lijnen betreft die niet volledig digitaal zijn;<br />2° hun uitzendingen verzorgen via een transmissiesysteem dat door een erkende Europese normalisatie-instantie genormaliseerd is, als het uitzendingen betreft die volledig digitaal zijn.
+...
 
 ### ART. 207.
 
@@ -2609,7 +2757,7 @@ De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap, met
 
 ### ART. 216.
 
-§ 1. De algemene kamer is samengesteld uit vijf leden : twee magistraten, onder wie de voorzitter, en drie mediadeskundigen.<br>
+§1. De algemene kamer is samengesteld uit vijf leden : twee magistraten, onder wie de voorzitter, en drie mediadeskundigen.<br>
 <br>
 Personen kunnen aangesteld worden tot lid van de algemene kamer als ze aan de volgende voorwaarden voldoen :<br>
 1° wat de magistraten betreft : ten minste vijf jaar het ambt van magistraat in de rechtbanken en hoven of bij de Raad van State hebben bekleed;<br>
@@ -2619,20 +2767,20 @@ Om als voorzitter van de algemene kamer te worden aangesteld, moeten personen te
 <br>
 Met behoud van de toepassing van de onverenigbaarheden, vermeld in artikel III.12, § 1, van het Bestuursdecreet, die van toepassing zijn op alle leden van de Vlaamse Regulator voor de Media, mag een lid van de algemene kamer beroepshalve geen binding hebben met een media-, advertentie- of reclamebedrijf of -instelling, of met een verdeler van omroepsignalen, noch economische belangen hebben in die bedrijven of instellingen.<br>
 <br>
-§ 2. De kamer voor onpartijdigheid en bescherming van minderjarigen is samengesteld uit negen leden, onder wie de voorzitter, waarvan vier leden beroepsjournalist zijn.<br>
+§2. De kamer voor onpartijdigheid en bescherming van minderjarigen is samengesteld uit negen leden, onder wie de voorzitter, waarvan vier leden beroepsjournalist zijn.<br>
 <br>
 Personen kunnen aangesteld worden tot lid van de kamer voor onpartijdigheid en bescherming van minderjarigen als ze aan de volgende voorwaarden voldoen :<br>
 1° ten minste vijf jaar het ambt van magistraat in de rechtbanken en hoven of bij de Raad van State hebben bekleed;<br>
 2° ten minste vijf jaar een wetenschappelijk ambt of onderwijsambt aan een Vlaamse universiteit of aan een Vlaamse instelling voor het hoger onderwijs van het lange type hebben bekleed;<br>
 3° ten minste vijf jaar ervaring hebben als beroepsjournalist.<br>
 <br>
-§ 3. De kamer voor onpartijdigheid en bescherming van minderjarigen wordt voor de behandeling van klachten over de toepassing van artikel 42, 44, 45, 72, 5°, en artikel 180, § 6 uitgebreid met de volgende leden :<br>
+§3. De kamer voor onpartijdigheid en bescherming van minderjarigen wordt voor de behandeling van klachten over de toepassing van artikel 42, 72, 5°, 176/4, §1, 1°, 176/4, §1, 2°, en artikel 180, § 6 uitgebreid met de volgende leden :<br>
 1° twee deskundigen met minstens vijf jaar beroepservaring in de domeinen kinderpsychologie, kinderpsychiatrie of pedagogie;<br>
 2° twee deskundigen vanuit hun betrokkenheid bij de belangen van gezinnen en kinderen.<br>
 <br>
 Met behoud van de toepassing van de onverenigbaarheden, vermeld in artikel III.12, § 1, van het Bestuursdecreet, die van toepassing zijn op alle leden van de Vlaamse Regulator voor de Media, mag een lid van de kamer voor onpartijdigheid en bescherming van minderjarigen, met uitzondering van de beroepsjournalisten, geen binding hebben met een media-, advertentie- of reclamebedrijf of -instelling. De beroepsjournalisten die lid zijn van de kamer voor onpartijdigheid en bescherming van minderjarigen mogen geen functie of bestuursmandaat uitoefenen in een omroep, of een bestuursmandaat uitoefenen in een media-, advertentie- of reclamebedrijf of -instelling.<br>
 <br>
-§ 4. De leden van de kamers van de Vlaamse Regulator voor de Media worden aangesteld bij besluit van de Vlaamse Regering voor een hernieuwbare termijn van vijf jaar.<br>
+§4. De leden van de kamers van de Vlaamse Regulator voor de Media worden aangesteld bij besluit van de Vlaamse Regering voor een hernieuwbare termijn van vijf jaar.<br>
 <br>
 De Vlaamse Regering gaat over tot vervanging van een lid van een kamer als dat lid :<br>
 1° fysiek of mentaal ongeschikt is;<br>
@@ -2647,9 +2795,11 @@ De voorzitter en de ondervoorzitter van beide kamers worden aangesteld bij beslu
 <br>
 De Vlaamse Regering bepaalt het bedrag van de vergoedingen dat aan de leden van de kamers van de Vlaamse Regulator voor de Media moet worden toegekend. Ze bepaalt hun vergoedingen voor reis- en verblijfskosten.<br>
 <br>
-§ 5. Als de voorzitter, ondervoorzitter of een lid van een kamer vraagt om zijn mandaat te beëindigen, is, mits de Vlaamse Regering akkoord gaat, een opzegging van zes maanden vereist. Die termijn kan in onderling akkoord verkort worden.<br>
+§5. Als de voorzitter, ondervoorzitter of een lid van een kamer vraagt om zijn mandaat te beëindigen, is, mits de Vlaamse Regering akkoord gaat, een opzegging van zes maanden vereist. Die termijn kan in onderling akkoord verkort worden.<br>
 <br>
-De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, nadat dat lid negen opeenvolgende keren afwezig is geweest.
+De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, nadat dat lid negen opeenvolgende keren afwezig is geweest.<br>
+<br>
+§6. De leden van de kamers van de Vlaamse Regulator voor de Media blijven hun functie uitoefenen totdat ze vervangen worden, met een maximale duur van zes maanden van uitoefening.
 
 ### ART. 217.
 
@@ -2689,18 +2839,18 @@ De Vlaamse Regulator voor de Media is verantwoordelijk voor, of verleent medewer
 18° de Europese Commissie inlichten als vermeld in artikel 150/1, § 4/3;<br>
 19° het openbaar maken van de verslagen, vermeld in artikel 151, § 4;<br>
 20° het contactpunt onderhouden als vermeld in artikel 151, § 7;<br>
-21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
+21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie&nbsp;of van de andere staat in de Europese Economische Ruimte over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
 22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
-23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1;<br>
+23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie of van de andere staat in de Europese Economische Ruimte, vermeld in artikel 220/1;<br>
 24° het toezicht als bevoegde autoriteit, vermeld in artikel 176/10.<br>
 25° de opmaak van een jaarlijks overzicht van producenten waarin aangegeven wordt of deze producenten al dan niet onafhankelijk zijn op basis van artikel 2, 49°, a) en b); de publicatie van dit overzicht op de website van de Vlaamse Regulator voor de Media jaarlijks vóór 1 november; het doorvoeren van wijzigingen aan dit overzicht op voorwaarde dat producenten hierom vragen en stukken overmaken die zulke wijziging rechtvaardigen en die gevalideerd zijn door een bedrijfsrevisor. Dit overzicht bevat minimaal de producenten die de drie voorafgaande jaren productiesteun hebben aangevraagd bij het Vlaams Audiovisueel Fonds;<br>
 <br>
 De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. Bij de uitoefening van de taken, vermeld in het eerste lid, 1° tot en met 7° en 11°, houdt de algemene kamer evenwel zeer zorgvuldig rekening met door Berec aangenomen richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en methodologieën; en voor de taken, vermeld in het eerste lid, 1° tot en met 7°, ook met de aanbevelingen en besluiten van de Europese Commissie die zijn aangenomen om de geharmoniseerde toepassing van richtlijn 2018/1972 te garanderen. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
 §3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
-1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
-2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
-3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°.<br>
+1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6;<br>
+2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6;<br>
+3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6.<br>
 <br>
 De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij volledig autonoom uitspraak. In geval van betwistingen wordt de kamer voor onpartijdigheid en bescherming van minderjarigen in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
@@ -2709,7 +2859,7 @@ De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij voll
 §5. De Vlaamse Regulator voor de Media stelt&nbsp;jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
 <br>
 §6. Als dat noodzakelijk is werkt de Vlaamse Regulator voor de Media in het kader van de toepassing van deel IV en deel V samen met de volgende actoren :<br>
-1° de bevoegde regulerende instanties voor radio-omroep en voor telecommunicatie van de Franse en Duitstalige Gemeenschap, de federale overheid en de andere lidstaten van de Europese Unie en de Europese Economische Ruimte;<br>
+1° de bevoegde regulerende instanties voor radio-omroep en televisie en voor telecommunicatie van de Franse en Duitstalige Gemeenschap, de federale overheid en de andere lidstaten van de Europese Unie en de Europese Economische Ruimte;<br>
 2° de Belgische mededingingsautoriteiten;<br>
 3° de regulerende en toezichthoudende instanties in de overige economische sectoren in België;<br>
 4° de Europese Commissie;<br>
@@ -2742,7 +2892,7 @@ Over de inhoud van reclame kan de algemene kamer enkel uitspraak doen naar aanle
 
 ### ART 220/1.
 
-Als een lidstaat van de Europese Unie een verzoek heeft over de activiteiten van een televisieomroeporganisatie die valt onder de bevoegdheid van de Vlaamse Gemeenschap maar een televisiedienst aanbiedt die gericht is op die lidstaat van de Europese Unie, verstrekt de Vlaamse Regulator voor de Media de regulerende instantie of het regulerende orgaan van de bevoegde lidstaat alle informatie die nuttig kan zijn om het verzoek te behandelen. De Vlaamse Regulator voor de Media doet al het mogelijke om het verzoek binnen twee maanden te behandelen.
+Als een lidstaat van de Europese Unie&nbsp;of een staat in de Europese Economische Ruimte een verzoek heeft over de activiteiten van een televisieomroeporganisatie die valt onder de bevoegdheid van de Vlaamse Gemeenschap maar een televisiedienst aanbiedt die gericht is op die lidstaat van de Europese Unie of die staat in de Europese Economische Ruimte, verstrekt de Vlaamse Regulator voor de Media de regulerende instantie of het regulerende orgaan van de bevoegde lidstaat alle informatie die nuttig kan zijn om het verzoek te behandelen. De Vlaamse Regulator voor de Media doet al het mogelijke om het verzoek binnen twee maanden te behandelen.
 
 ### ART 220/2.
 
@@ -2764,13 +2914,13 @@ Deze paragraaf is niet van toepassing op geschillen betreffende de coördinatie 
 
 ### ART. 221.
 
-§ 1. Als de Vlaamse Regulator voor de Media van oordeel is dat een televisieomroeporganisatie die onder de bevoegdheid valt van een lidstaat van de Europese Unie een televisiedienst aanbiedt die volledig of hoofdzakelijk gericht is op de Vlaamse Gemeenschap, kan hij contact opnemen met de bevoegde lidstaat van de Europese Unie om een wederzijds aanvaardbare oplossing voor problemen mogelijk te maken.<br>
+§ 1. Als de Vlaamse Regulator voor de Media van oordeel is dat een televisieomroeporganisatie die onder de bevoegdheid valt van een lidstaat van de Europese Unie of een staat in de Europese Economische Ruimte een televisiedienst aanbiedt die volledig of hoofdzakelijk gericht is op de Vlaamse Gemeenschap, kan hij contact opnemen met de bevoegde lidstaat van de Europese Unie&nbsp;of de bevoegde staat in de Europese Economische Ruimte om een wederzijds aanvaardbare oplossing voor problemen mogelijk te maken.<br>
 <br>
 De Vlaamse Regulator voor de Media mag het Contactcomité vragen om de zaak te onderzoeken.<br>
 <br>
 § 2. De Vlaamse Regulator voor de Media kan passende maatregelen nemen tegen de televisieomroeporganisatie, vermeld in paragraaf 1, als aan al de volgende voorwaarden is voldaan:<br>
 1° hij is van oordeel dat het resultaat van de toepassing van paragraaf 1 niet bevredigend is;<br>
-2° hij toont redelijkerwijs aan dat de televisieomroeporganisatie, vermeld in paragraaf 1, zich in een lidstaat van de Europese Unie heeft gevestigd en daardoor de strengere voorschriften omzeilt op de gebieden die door de richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) worden gecoördineerd en die op de televisieomroeporganisatie van toepassing zouden zijn als ze in de Vlaamse Gemeenschap zou zijn gevestigd, zonder dat moet worden bewezen dat de televisieomroeporganisatie, vermeld in paragraaf 1, die strengere voorschriften beoogt te omzeilen.<br>
+2° hij toont redelijkerwijs aan dat de televisieomroeporganisatie, vermeld in paragraaf 1, zich in een lidstaat van de Europese Unie&nbsp;of in een staat in de Europese Economische Ruimte heeft gevestigd en daardoor de strengere voorschriften omzeilt op de gebieden die door de richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten) worden gecoördineerd en die op de televisieomroeporganisatie van toepassing zouden zijn als ze in de Vlaamse Gemeenschap zou zijn gevestigd, zonder dat moet worden bewezen dat de televisieomroeporganisatie, vermeld in paragraaf 1, die strengere voorschriften beoogt te omzeilen.<br>
 <br>
 De passende maatregelen, vermeld in het eerste lid, voldoen aan de volgende voorwaarden:<br>
 1° ze zijn objectief noodzakelijk;<br>
@@ -2781,13 +2931,13 @@ De passende maatregelen, vermeld in het eerste lid, voldoen aan de volgende voor
 De Vlaamse Regulator voor de Media kan daartoe sancties opleggen als vermeld in titel IV, en de dienstenverdelers of de netwerkoperatoren verplichten de doorgifte van de televisiedienst te schorsen.<br>
 <br>
 § 3. De Vlaamse Regulator voor de Media neemt de passende maatregelen, vermeld in paragraaf 2, als aan al de volgende voorwaarden is voldaan:<br>
-1° hij heeft de Europese Commissie en de lidstaat van de Europese Unie waar de televisieomroeporganisatie gevestigd is, op de hoogte gebracht van zijn voornemen om dergelijke maatregelen te nemen, met opgave van de redenen waarop hij zijn beoordeling heeft gebaseerd;<br>
+1° hij heeft de Europese Commissie en de lidstaat van de Europese Unie&nbsp;of de staat in de Europese Economische Ruimte waar de televisieomroeporganisatie gevestigd is, op de hoogte gebracht van zijn voornemen om dergelijke maatregelen te nemen, met opgave van de redenen waarop hij zijn beoordeling heeft gebaseerd;<br>
 2° hij heeft de rechten van verdediging van de betrokken televisieomroeporganisatie geëerbiedigd en heeft die televisieomroeporganisatie de mogelijkheid gegeven haar standpunt kenbaar te maken over de vermeende omzeiling en de maatregelen die hij wil nemen;<br>
 3° de Europese Commissie heeft besloten dat de maatregelen verenigbaar zijn met het Unierecht en in het bijzonder dat de beoordeling van de Vlaamse Regulator voor de Media gegrond is.
 
 ### ART. 222.
 
-De Vlaamse Regulator voor de Media verzoekt de televisieomroeporganisatie waarvan de televisiediensten volledig of hoofdzakelijk op het grondgebied van een lidstaat van de Europese Unie zijn gericht, de regels van algemeen belang na te leven als hij daartoe een gemotiveerd verzoek krijgt van die lidstaat van de Europese Unie over vastgestelde problemen met die televisiediensten.<br>
+De Vlaamse Regulator voor de Media verzoekt de televisieomroeporganisatie waarvan de televisiediensten volledig of hoofdzakelijk op het grondgebied van een lidstaat van de Europese Unie&nbsp;of een staat in de Europese Economische Ruimte zijn gericht, de regels van algemeen belang na te leven als hij daartoe een gemotiveerd verzoek krijgt van die lidstaat van de Europese Unie&nbsp;of die staat in de Europese Economische Ruimte over vastgestelde problemen met die televisiediensten.<br>
 <br>
 De Vlaamse Regulator voor de Media informeert de verzoekende lidstaat van de Europese Unie regelmatig over de stappen die zijn ondernomen om de problemen, vermeld in het eerste lid, aan te pakken. Binnen twee maanden na de dag waarop de Vlaamse Regulator voor de Media het gemotiveerde verzoek, vermeld in het eerste lid, heeft ontvangen, licht de Vlaamse Regulator voor de Media de verzoekende lidstaat en de Europese Commissie in over de verkregen resultaten en licht hij in voorkomend geval toe waarom geen oplossing kon worden gevonden.<br>
 <br>
@@ -2827,8 +2977,8 @@ De raad van bestuur en zijn voorzitter worden aangesteld door de Vlaamse Regerin
 De raad van bestuur is bevoegd om alle handelingen te verrichten die nodig of dienstig zijn voor de verwezenlijking van het doel van het agentschap. De raad van bestuur heeft evenwel geen enkele bevoegdheid met betrekking tot de beslissingen die genomen worden ter uitvoering van artikel 217, § 2 en § 3, en artikel 218, § 2 en § 3.<br>
 <br>
 De raad van bestuur heeft inzonderheid de volgende opdrachten en bevoegdheden :<br>
-1° de beheersovereenkomst met de minister sluiten;<br>
-2° de rapportering over de uitvoering van de beheersovereenkomst goedkeuren;<br>
+1° het ondernemingsplan met de minister sluiten;<br>
+2° de rapportering over de uitvoering van het ondernemingsplan goedkeuren;<br>
 3° de jaarlijkse begroting opmaken;<br>
 4° de begrotingskredieten herverdelen;<br>
 5° de algemene rekening opmaken;<br>
@@ -2887,15 +3037,19 @@ Als de kamer voor onpartijdigheid en bescherming van minderjarigen een duidelijk
 
 ### ART. 230.
 
-Als de administratieve geldboete niet wordt betaald, vaardigt de entiteit die door de Vlaamse Regering belast is met de invordering op verzoek van de algemene kamer of van de kamer voor onpartijdigheid en bescherming van minderjarigen, een dwangbevel uit. Het dwangbevel wordt betekend met een gerechtsdeurwaardersexploot met bevel tot betaling.<br /><br />Binnen een termijn van dertig kalenderdagen na de betekening van het dwangbevel kan de betrokkene een met redenen omkleed verzet indienen bij gerechtsdeurwaardersexploot, betekend aan de entiteit die door de Vlaamse Regering belast is met de invordering. Dat verzet schorst de tenuitvoerlegging van het dwangbevel.<br /><br />De tenuitvoerlegging van het dwangbevel wordt gedaan met inachtneming van de bepalingen van het vijfde deel van het Gerechtelijk Wetboek inzake bewarend beslag en middelen tot tenuitvoerlegging.
+Als de administratieve geldboete&nbsp;of de jaarlijkse vergoeding voor het gebruik van de frequenties, frequentieblokken of -kanalen,&nbsp;niet wordt betaald, vaardigt de entiteit die door de Vlaamse Regering belast is met de invordering op verzoek van de algemene kamer of van de kamer voor onpartijdigheid en bescherming van minderjarigen, een dwangbevel uit. Het dwangbevel wordt betekend met een gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+Binnen een termijn van dertig kalenderdagen na de betekening van het dwangbevel kan de betrokkene een met redenen omkleed verzet indienen bij gerechtsdeurwaardersexploot, betekend aan de entiteit die door de Vlaamse Regering belast is met de invordering. Dat verzet schorst de tenuitvoerlegging van het dwangbevel.<br>
+<br>
+De tenuitvoerlegging van het dwangbevel wordt gedaan met inachtneming van de bepalingen van het vijfde deel van het Gerechtelijk Wetboek inzake bewarend beslag en middelen tot tenuitvoerlegging.
 
-## TITEL V. BEHEERSOVEREENKOMST
+## TITEL V. ONDERNEMINGSPLAN
 
 ### ART. 231.
 
-Tussen de Vlaamse Regering en de Vlaamse Regulator voor de Media wordt een beheersovereenkomst gesloten.<br>
+Tussen de Vlaamse Regering en de Vlaamse Regulator voor de Media wordt een ondernemingsplan gesloten.<br>
 <br>
-De beheersovereenkomst regelt de wijze van samenwerking met andere entiteiten binnen de Vlaamse administratie en andere overheden.
+Het ondernemingsplan regelt de wijze van samenwerking met andere entiteiten binnen de Vlaamse administratie en andere overheden.
 
 ## TITEL VI. FINANCIËLE BEPALINGEN EN PERSONEEL
 
@@ -2941,6 +3095,26 @@ Met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 25
 
 Alle bepalingen van het eerste boek van het Strafwetboek, hoofdstuk VII en artikel 85 niet uitgezonderd, zijn van toepassing op de misdrijven, vermeld in artikel 236.
 
+## DEEL VIII/1. Bepalingen over de gegevensverwerking
+
+## TITEL I. ADMINISTRATIE
+
+### ART 237/1.
+
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het organiseren van openbare raadplegingen als vermeld in artikel 133, §2, en 201.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° natuurlijke personen die willen deelnemen aan de openbare raadpleging;<br>
+2° contactpersonen van rechtspersonen die willen deelnemen aan de openbare raadpleging.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;categorie respondent.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de administratie worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
 ### ART 237/2.
 
 De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van aanvragen tot erkenning als vermeld in artikel 132.<br>
@@ -2962,6 +3136,828 @@ De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, ve
 De administratie wisselt persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, uit met de Vlaamse Regulator voor de Media om toe te zien op de naleving van de erkenningsvoorwaarden.<br>
 <br>
 De persoonsgegevens die conform dit artikel door de administratie worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/3.
+
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van subsidie- aanvragen als vermeld in artikel 151, §5.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van televisieomroeporganisaties;<br>
+2° personeelsleden van televisieomroeporganisaties;<br>
+3° externe experten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;financiële gegevens;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over expertise.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de administratie worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van het toezicht op de subsidie. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/4.
+
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° &nbsp; het behandelen van aanvragen tot erkenning als vermeld in artikel 166;<br>
+2° het behandelen van kennisgevingen over fundamentele wijzigingen die relevant zijn voor erkenning als vermeld in artikel 167;<br>
+3° het behandelen van aanvragen tot verlenging van erkenning als vermeld in artikel 170.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° tot en met 3°, heeft betrekking op de volgende cate gorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van regionale televisieomroeporganisaties;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van regionale televisieomroeporganisaties;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van regionale televisieomroeporganisaties;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van regionale televisieomroeporganisaties;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van regionale televisieomroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° tot en met 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over technische, commerciële, administratieve en radio-eigen competenties;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over de tewerkstelling;<br>
+8°&nbsp;&nbsp; &nbsp;gegevens over de samenstelling van de algemene vergadering;<br>
+9° persoonlijke verklaring van bestuurders over:<br>
+a)&nbsp;&nbsp; &nbsp;het uitoefenen van een politiek mandaat;<br>
+b)&nbsp;&nbsp; &nbsp;het uitoefenen van een leidinggevende functie of de functie van bestuurder in een beroepsvereniging van werkgevers of werknemers, in een pers-, advertentie- of reclamebedrijf, bij de openbare omroeporganisatie van de Vlaamse Gemeenschap, bij een private televisieomroeporganisatie of bij een aanbieder van een kabelomroepnetwerk;<br>
+10° persoonlijke verklaring dat men geen bestuurder is van een andere regionale omroeporganisatie.<br>
+<br>
+De administratie wisselt persoonsgegevens, verwerkt in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° tot en met 3°, uit met de Vlaamse Regulator voor de Media om toe te zien op de naleving van de erkenningsvoorwaarden.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de administratie worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+## TITEL II. VLAAMSE REGULATOR VOOR DE MEDIA
+
+### ART 237/5.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het organiseren van publieke bevragingen als vermeld in artikel 18, §2, 192/14, 200, §1/1, 202/1, §2, en 218, §7.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; natuurlijke personen die willen deelnemen aan de open publieke bevraging;<br>
+2° contactpersonen van rechtspersonen die willen deelnemen aan de open publieke&nbsp;bevraging.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;categorie respondent.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/6.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het toezien op de naleving van de erkenningsvoorwaarden naar aanleiding van aanvragen tot erkenning als vermeld in artikel 132.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over technische, commerciële, administratieve en radio-eigen competenties;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de tewerkstelling.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/7.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van kennisgevingen van landelijke, netwerk- en lokale radio-omroeporganisaties, vermeld in artikel 139, 143/3 en 146;<br>
+2° het toezien op de naleving van de erkenningsvoorwaarden voor landelijke, netwerk- en lokale radio-omroeporganisaties, vermeld in artikel 139, 143/3 en 146;<br>
+3° het behandelen van aanvragen met oog op het verkrijgen van een FM-zendvergunning, vermeld in artikel 133, §2, tweede lid.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+2° bestuurders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+3° aandeelhouders van landelijke, netwerk- en lokale radio-omroeporganisaties;<br>
+4° personeelsleden van landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° natuurlijke personen die een FM-zendvergunning aanvragen;<br>
+2° contactpersonen van rechtspersonen die een FM-zendvergunning aanvragen.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+7°&nbsp;&nbsp; &nbsp;persoonlijke verklaring dat bestuurders geen politiek mandaat uitoefenen;<br>
+8°&nbsp;&nbsp; &nbsp;persoonlijke verklaring dat bestuurders geen beheerder of bestuurder zijn van de VRT.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over technische, commerciële, administratieve en radio-eigen competenties;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de tewerkstelling.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;ondernemingsnummer;<br>
+6°&nbsp;&nbsp; &nbsp;locatie van de antenne;<br>
+7°&nbsp;&nbsp; &nbsp;roepnaam en benaming van het initiatief.<br>
+<br>
+§4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/8.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van kennisgevingen van andere radio-omroeporganisaties als vermeld in artikel 147;<br>
+2° het toezien op de voorwaarden om radiodiensten te kunnen aanbieden via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet als vermeld in artikel 149, §1.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; natuurlijke personen die een kennisgeving doen;<br>
+2° contactpersonen van rechtspersonen die een kennisgeving doen;<br>
+3° bestuurders van rechtspersonen die een kennisgeving doen;<br>
+4° aandeelhouders van rechtspersonen die een kennisgeving doen;<br>
+5° oprichters van rechtspersonen die een kennisgeving doen;<br>
+6° personeelsleden van natuurlijke personen of rechtspersonen die een kennisgeving doen.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;ondernemingsnummer;<br>
+6°&nbsp;&nbsp; &nbsp;plaats van uitzending;<br>
+7°&nbsp;&nbsp; &nbsp;plaats van vestiging;<br>
+8°&nbsp;&nbsp; &nbsp;plaats waar programmeringsbesluiten worden genomen;<br>
+9°&nbsp;&nbsp; &nbsp;plaats waar het personeel werkt;<br>
+10° gegevens over de functie binnen de rechtspersoon;<br>
+11° gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+12° gegevens over de financiële structuur van de rechtspersoon.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;ondernemingsnummer;<br>
+5°&nbsp;&nbsp; &nbsp;plaats van uitzending;<br>
+6°&nbsp;&nbsp; &nbsp;plaats van vestiging;<br>
+7°&nbsp;&nbsp; &nbsp;plaats waar programmeringsbesluiten worden genomen;<br>
+8°&nbsp;&nbsp; &nbsp;plaats waar het personeel werkt;<br>
+9°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon.<br>
+<br>
+§4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/9.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van kennisgevingen tot wijzigingen die een invloed kunnen hebben op de bevoegdheid van de Vlaamse Gemeenschap als vermeld in artikel 150/1, §4/1;<br>
+2° het bijhouden van een actuele lijst van televisieomroeporganisaties waarvoor de Vlaamse Regulator voor de Media bevoegd is als vermeld in artikel 150/1,&nbsp;§4/2.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van televisieomroeporganisaties;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van televisieomroeporganisaties;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van televisieomroeporganisaties;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van televisieomroeporganisaties;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van televisieomroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over de financiële structuur van de rechtspersoon.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/10.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° &nbsp; het ontvangen van verslagen als vermeld in artikel 156;<br>
+2° &nbsp; het ontvangen van verslagen als vermeld in artikel 157, §3.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van de VRT;<br>
+2° contactpersonen van particuliere lineaire televisieomroeporganisaties; 3° contactpersonen van niet-lineaire televisieomroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens;<br>
+2° &nbsp; contactgegevens.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/11.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het registreren van de vorm van deelname met betrekking tot stimulering van de audiovisuele sector, vermeld in artikel 157, §2, en 184/1, §1;<br>
+2° het beoordelen van de ontvankelijkheid van coproductieprojecten en de erkenning ervan, vermeld in artikel 157, §2, en 184/1, §2;<br>
+3° het ontvangen van de omzet van aanbieders van videoplatformdiensten, vermeld in artikel 26 van het decreet van 1 maart 2024 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft het stimuleren van de audiovisuele sector door financiële bijdragen aan de productie van audiovisuele werken.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op contactpersonen van particuliere niet-lineaire televisieomroeporganisaties en dienstenverdelers.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van particuliere niet-lineaire televisieomroeporganisaties en dienstenverdelers;<br>
+2°&nbsp;&nbsp; &nbsp;producenten;<br>
+3°&nbsp;&nbsp; &nbsp;coproducenten;<br>
+4°&nbsp;&nbsp; &nbsp;auteurs;<br>
+5°&nbsp;&nbsp; &nbsp;regisseurs;<br>
+6°&nbsp;&nbsp; &nbsp;scenaristen;<br>
+7°&nbsp;&nbsp; &nbsp;acteurs;<br>
+8°&nbsp;&nbsp; &nbsp;overige medewerkers van coproductieprojecten.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de contactpersonen van aanbieders van videoplatformdiensten.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoel- einde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in het curriculum vitae.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens;<br>
+2° contactgegevens;<br>
+3° mandaatgegevens.<br>
+<br>
+§4. De Vlaamse Regulator voor de Media kan persoonsgegevens die verwerkt zijn in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° tot en met 3°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
+<br>
+§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/12.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het toezien op de naleving van de erkenningsvoorwaarden naar aanleiding van aanvragen tot erkenning als vermeld in artikel 166.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van regionale televisieomroeporganisaties;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van regionale televisieomroeporganisaties;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van regionale televisieomroeporganisaties;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van regionale televisieomroeporganisaties;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van regionale televisieomroeporganisaties.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;geslacht;<br>
+7°&nbsp;&nbsp; &nbsp;etnisch-culturele achtergrond;<br>
+8°&nbsp;&nbsp; &nbsp;gegevens over technische, commerciële, administratieve en radio-eigen competenties;<br>
+9°&nbsp;&nbsp; &nbsp;gegevens over tewerkstelling;<br>
+10° gegevens over de samenstelling van de algemene vergadering;<br>
+11° persoonlijke verklaring van bestuurders over:<br>
+a)&nbsp;&nbsp; &nbsp;het uitoefenen van een politiek mandaat;<br>
+b)&nbsp;&nbsp; &nbsp;het uitoefenen van een leidinggevende functie of de functie van bestuurder in een beroepsvereniging van werkgevers of werknemers, in een pers-, advertentie- of reclamebedrijf, bij de openbare omroeporganisatie van de Vlaamse Gemeenschap, bij een private televisieomroeporganisatie of bij een aanbieder van een kabelomroepnetwerk;<br>
+12° persoonlijke verklaring dat men geen bestuurder is van een andere regionale omroeporganisatie.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/13.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van kennisgevingen van private televisieomroeporganisaties als vermeld in artikel 161;<br>
+2° het ontvangen van bereikcijfers van dienstverleners met het oog op het berekenen van een gemiddeld procentueel daggemiddelde als vermeld in artikel 166/1, §2, derde lid;<br>
+3° het controleren of regionale televisieomroeporganisaties de erkenningsvoorwaarden naleven, vermeld in artikel 169, eerste lid, 10°, en 170, §2.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van private televisieomroeporganisaties;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van private televisieomroeporganisaties;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van private televisieomroeporganisaties;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van private televisieomroeporganisaties;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van private televisieomroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op contactpersonen van dienstenverdelers.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van regionale televisieomroeporganisaties;<br>
+2° bestuurders van regionale televisieomroeporganisaties;<br>
+3° leden van de algemene vergadering van regionale televisieomroeporganisaties;<br>
+4° leden van de redactie van regionale televisieomroeporganisaties;<br>
+5° personeelsleden van regionale televisieomroeporganisaties.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over de financiële structuur van de rechtspersoon.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens over de functie binnen de rechtspersoon;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+6°&nbsp;&nbsp; &nbsp;gegevens over de financiële structuur van de rechtspersoon;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over de samenstelling van de algemene vergadering;<br>
+8°&nbsp;&nbsp; &nbsp;gegevens over de samenstelling van het bestuursorgaan;<br>
+9°&nbsp;&nbsp; &nbsp;persoonlijke verklaring van bestuurders over:<br>
+a)&nbsp;&nbsp; &nbsp;het uitoefenen van een politiek mandaat;<br>
+b)&nbsp;&nbsp; &nbsp;het uitoefenen van een leidinggevende functie of de functie van bestuurder in een beroepsvereniging van werkgevers of werknemers, in een pers-, advertentie- of reclamebedrijf, bij de openbare omroeporganisatie van de Vlaamse Gemeenschap, bij een private televisieomroeporganisatie of bij een aanbieder van een kabelomroepnetwerk.<br>
+<br>
+§4. De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
+<br>
+§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/14.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van kennisgevingen over het aanbieden van niet-lineaire televisie- diensten als vermeld in artikel 175.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;natuurlijke personen die een niet-lineaire televisiedienst aanbieden;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van rechtspersonen die een niet-lineaire televisiedienst aanbieden;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van rechtspersonen die een niet-lineaire televisiedienst aanbieden;<br>
+4°&nbsp;&nbsp; &nbsp;aandeelhouders van rechtspersonen die een niet-lineaire televisiedienst aanbieden;<br>
+5°&nbsp;&nbsp; &nbsp;oprichters van rechtspersonen die een niet-lineaire televisiedienst aanbieden;<br>
+6°&nbsp;&nbsp; &nbsp;personeelsleden van natuurlijke personen of rechtspersonen die een niet-lineaire televisiedienst aanbieden.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;ondernemingsnummer;<br>
+6°&nbsp;&nbsp; &nbsp;plaats van uitzending;<br>
+7°&nbsp;&nbsp; &nbsp;plaats van vestiging;<br>
+8°&nbsp;&nbsp; &nbsp;plaats waar programmeringsbesluiten worden genomen;<br>
+9°&nbsp;&nbsp; &nbsp;plaats waar het personeel werkt;<br>
+10° gegevens over de functie binnen de rechtspersoon;<br>
+11° gegevens over de aandeelhoudersstructuur van de rechtspersoon;<br>
+12° gegevens over de financiële structuur van de rechtspersoon.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/15.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening<br>
+&nbsp;<br>
+gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;het behandelen van kennisgevingen over het aanbieden van videoplatformdiensten als vermeld in artikel 176/2;<br>
+2°&nbsp;&nbsp; &nbsp;het opstellen van een lijst met aanbieders van videoplatformdiensten als vermeld in artikel 176/3, §7;<br>
+3°&nbsp;&nbsp; &nbsp;het behandelen van klachten over videoplatformdiensten als vermeld in artikel 176/8, tweede lid.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; natuurlijke personen die videoplatformdiensten aanbieden;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van rechtspersonen die videoplatformdiensten aanbieden;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+4°&nbsp;&nbsp; &nbsp;aandeelhouders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+5°&nbsp;&nbsp; &nbsp;oprichters van rechtspersonen die videoplatformdiensten aanbieden;<br>
+6°&nbsp;&nbsp; &nbsp;personeelsleden van rechtspersonen die videoplatformdiensten aanbieden.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op:<br>
+1°&nbsp;&nbsp; &nbsp;natuurlijke personen die videoplatformdiensten aanbieden;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van rechtspersonen die videoplatformdiensten aanbieden;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+4°&nbsp;&nbsp; &nbsp;aandeelhouders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+5°&nbsp;&nbsp; &nbsp;oprichters van rechtspersonen die videoplatformdiensten aanbieden;<br>
+6°&nbsp;&nbsp; &nbsp;personeelsleden van rechtspersonen die videoplatformdiensten aanbieden.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op:<br>
+1°&nbsp;&nbsp; &nbsp;natuurlijke personen die videoplatformdiensten aanbieden;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van rechtspersonen die videoplatformdiensten aanbieden;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+4°&nbsp;&nbsp; &nbsp;aandeelhouders van rechtspersonen die videoplatformdiensten aanbieden;<br>
+5°&nbsp;&nbsp; &nbsp;oprichters van rechtspersonen die videoplatformdiensten aanbieden;<br>
+6°&nbsp;&nbsp; &nbsp;personeelsleden van rechtspersonen die videoplatformdiensten aanbieden.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens die toelaten te bepalen of de Vlaamse Gemeenschap bevoegd is voor de aanbieder van videoplatformdiensten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens;<br>
+2° &nbsp; contactgegevens.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;gegevens opgenomen in de klacht.<br>
+&nbsp;<br>
+§4. De Vlaamse Regulator voor de Media wisselt de persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, uit met de Europese Commissie.<br>
+<br>
+§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/16.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;het behandelen van kennisgevingen over het aanbieden van een aanbod van omroepdiensten als vermeld in artikel 177;<br>
+2°&nbsp;&nbsp; &nbsp;het accommoderen van de bemiddelingsprocedure, vermeld in artikel 180, §4, eerste lid;<br>
+3°&nbsp;&nbsp; &nbsp;het ontvangen van een werkingsverslag als vermeld in artikel 182.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op contactpersonen van dienstenverdelers.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van dienstenverdelers;<br>
+2° bestuurders van dienstenverdelers;<br>
+3° aandeelhouders van dienstenverdelers;<br>
+4° personeelsleden van dienstenverdelers;<br>
+5° bemiddelaars.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van dienstenverdelers; 2° aandeelhouders van dienstenverdelers.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens opgenomen in het verzoek tot bemiddeling en de voortgebrachte stavingsstukken.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur.<br>
+<br>
+§4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/17.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van kennisgevingen over het doorgeven van nieuwe omroepprogramma’s als vermeld in artikel 186, §4, en 187, laatste lid;<br>
+2° het behandelen van kennisgevingen over het doorgeven van nieuwe omroepprogramma’s als vermeld in artikel 187, laatste lid.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; contactpersonen van dienstenverdelers;<br>
+2° &nbsp; contactpersonen van televisieomroeporganisaties.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinen, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categoriën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/18.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het uitvoeren van de taken die op hem rusten, vermeld in titel I van deel V van dit decreet.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van relevante ondernemingen;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van relevante ondernemingen;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van relevante ondernemingen;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van relevante ondernemingen;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van relevante ondernemingen.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, uitwisselen met de Europese Commissie, Berec, de overige leden van de Conferentie van Regulatoren voor de elektronische Communicatiesector, de Mededingingsautoriteit en het Hof van Beroep te Brussel.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/19.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het behandelen van aanvragen met het oog op het verkrijgen van een (tijdelijke) zendvergunning voor het gebruik van zendapparatuur als vermeld in artikel 193,&nbsp;§1 en §2.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van lineaire omroeporganisaties;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van etheromroepnetwerken;<br>
+3°&nbsp;&nbsp; &nbsp;contactpersonen van organisatoren van evenementen;<br>
+4°&nbsp;&nbsp; &nbsp;contactpersonen van organisatoren van experimenten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoelinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;ondernemingsnummer;<br>
+6°&nbsp;&nbsp; &nbsp;locatie van de antenne;<br>
+7°&nbsp;&nbsp; &nbsp;roepnaam en benaming van het initiatief.<br>
+&nbsp;<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/20.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het ontvangen van een werkingsverslag als vermeld in artikel 198, eerste lid, 3°;<br>
+2° het behandelen van kennisgevingen over het aanbieden van een kabelomroepnetwerk of van de overdracht ervan als vermeld in artikel 198, tweede lid.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° contactpersonen van de operatoren van een kabelomroepnetwerk; 2° aandeelhouders van de operatoren van een kabelomroepnetwerk.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op contactpersonen van de operatoren van een kabelomroepnetwerk.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;functie binnen de rechtspersoon.<br>
+<br>
+§4. De Vlaamse Regulator voor de Media wisselt de persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, uit met Berec.<br>
+<br>
+§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/21.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van aanvragen tot het verkrijgen van een schriftelijke licentie om etheromroepnetwerken aan te bieden als vermeld in artikel 201, §1;<br>
+2° &nbsp; het uitvoeren van controles als vermeld in artikel 205.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een etheromroepnetwerk;<br>
+2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een etheromroepnetwerk;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een etheromroepnetwerk;<br>
+4°&nbsp;&nbsp; &nbsp;contractanten van de aanbieders van een etheromroepnetwerk.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van een etheromroepnetwerk;<br>
+2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van een etheromroepnetwerk;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van een etheromroepnetwerk;<br>
+4°&nbsp;&nbsp; &nbsp;personeelsleden van de aanbieders van een etheromroepnetwerk.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de aandeelhoudersstructuur.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens;<br>
+2° &nbsp; contactgegevens.<br>
+<br>
+§4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/22.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het verifiëren of voldaan is aan de toegankelijkheidsvoorschriften, vermeld in artikel 214/2.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+2°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+3°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+4°&nbsp;&nbsp; &nbsp;personeelsleden van de aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+5°&nbsp;&nbsp; &nbsp;contactpersonen van de aanbieders van tot televisiediensten toegang verschaffende diensten;<br>
+6°&nbsp;&nbsp; &nbsp;aandeelhouders van de aanbieders van tot televisiediensten toegang verschaffende diensten;<br>
+7°&nbsp;&nbsp; &nbsp;bestuurders van de aanbieders van tot televisiediensten toegang verschaffende diensten;<br>
+8°&nbsp;&nbsp; &nbsp;personeelsleden van de aanbieders van tot televisiediensten toegang verschaffende diensten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/23.
+
+§1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° het behandelen van klachten over toegang tot televisiediensten voor personen met een handicap als vermeld in artikel 151, §7;<br>
+2° &nbsp; het behandelen van klachten als vermeld in artikel 220; 3° het beslechten van geschillen als vermeld in artikel 220/2.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op natuurlijke personen die een klacht willen uiten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; natuurlijke personen die een klacht willen uiten;<br>
+2° &nbsp; contactpersonen van rechtspersonen die een klacht willen uiten.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; contactpersonen van aanbieders van elektronische communicatienetwerken of&nbsp;-diensten;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van ondernemingen die begunstigden zijn van de verplichtingen op het gebied van toegang of interconnectie.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° tot en met 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in de klacht.<br>
+<br>
+§4. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/24.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de uitvoering van zijn taak, vermeld in artikel 234.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;natuurlijke personen op wie het huidige decreet van toepassing is;<br>
+2°&nbsp;&nbsp; &nbsp;contactpersonen van rechtspersonen waarop het huidige decreet van toepassing is;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van rechtspersonen waarop het huidige decreet van toepassing is;<br>
+4°&nbsp;&nbsp; &nbsp;bestuurders van rechtspersonen waarop het huidige decreet van toepassing is;<br>
+5°&nbsp;&nbsp; &nbsp;oprichters van rechtspersonen waarop het huidige decreet van toepassing is;<br>
+6°&nbsp;&nbsp; &nbsp;personeelsleden van rechtspersonen waarop het huidige decreet van toepassing is.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;rijksregisternummer of identificatienummer van de sociale zekerheid;<br>
+5°&nbsp;&nbsp; &nbsp;financiële gegevens;<br>
+6°&nbsp;&nbsp; &nbsp;beroepsgegevens.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop&nbsp;van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/25.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het uitvoeren van de taken die op hem rusten als bevoegde autoriteit als vermeld in artikel 217/1, 1°.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;contactpersonen van aanbieders van tussenhandeldiensten;<br>
+2°&nbsp;&nbsp; &nbsp;bestuurders van aanbieders van tussenhandeldiensten;<br>
+3°&nbsp;&nbsp; &nbsp;aandeelhouders van aanbieders van tussenhandeldiensten;<br>
+4°&nbsp;&nbsp; &nbsp;oprichters van aanbieders van tussenhandeldiensten;<br>
+5°&nbsp;&nbsp; &nbsp;personeelsleden van aanbieders van tussenhandeldiensten;<br>
+6°&nbsp;&nbsp; &nbsp;wettelijke vertegenwoordigers van aanbieders van tussenhandeldiensten;<br>
+7°&nbsp;&nbsp; &nbsp;gebruikers van tussenhandeldiensten.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde als vermeld in het eerste lid, uitwisselen met de bevoegde autoriteiten, de digitaledienstencoördinatoren, de Europese Raad voor Digitale Diensten en de Europese Commissie zoals bepaald in artikel 218, §6/1.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+### ART 237/25/1.
+
+De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de opmaak van de overzichten, vermeld in artikel 218, §2, eerste lid, 25° en 26°.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° &nbsp; producenten;<br>
+2° contactpersonen van producenten die een rechtspersoon zijn.<br>
+&nbsp;<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;of deze producenten al dan niet onafhankelijk zijn op basis van artikel 2, 49°,&nbsp;a) en b);<br>
+4° of deze producenten al dan niet voldoen aan de voorwaarden die met toepassing van artikel 188/2, §2, 4°, door de Vlaamse Regering aan producenten worden opgelegd in het kader van de ontvankelijkheid van de Vlaamse productieprojecten.<br>
+<br>
+De Vlaamse Regulator voor de Media kan persoonsgegevens, verwerkt in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, bekendmaken aan het publiek.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+## TITEL III. DE SECTORRAAD MEDIA VAN DE RAAD VOOR CULTUUR, JEUGD, SPORT EN MEDIA
+
+### ART 237/26.
+
+De sectorraad Media van de Raad voor Cultuur, Jeugd, Sport en Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het organiseren van een publieke bevraging over de omvang van de openbare-omroepopdracht en de invulling ervan in de beheers- overeenkomst, vermeld in artikel 20, §1.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° natuurlijke personen die willen deelnemen aan de publieke bevraging;<br>
+2° contactpersonen van rechtspersonen die willen deelnemen aan de publieke bevraging.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;categorie respondent.<br>
+&nbsp;<br>
+De persoonsgegevens die conform dit artikel door de sectorraad Media van de Raad voor Cultuur, Jeugd, Sport en Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+
+## TITEL IV. VLAAMS AUDIOVISUEEL FONDS
+
+### ART 237/27.
+
+Het Vlaams Audiovisueel Fonds treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het registreren van de vorm van deelname met betrekking tot de stimulering van de audiovisuele sector, vermeld in artikel 157 en 184/1.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de contactpersonen van dienstenverdelers.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+<br>
+De persoonsgegevens die conform dit artikel door het Vlaams Audiovisueel Fonds worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid.
+
+## TITEL V. VRT
+
+### ART 237/28.
+
+§1. De VRT treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;het uitvoeren van haar openbare opdracht, vermeld in artikel 6, §2, en in de beheersovereenkomst afgesloten tussen de VRT en de Vlaamse Gemeenschap;<br>
+2°&nbsp;&nbsp; &nbsp;het vervullen van haar innovatieopdracht, vermeld in artikel 17, en in de beheersovereenkomst afgesloten tussen de VRT en de Vlaamse Gemeenschap;<br>
+3°&nbsp;&nbsp; &nbsp;het archiveren van haar aanbod in overeenstemming met artikel 89 van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op mediagebruikers.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 2° en 3°, heeft betrekking op natuurlijke personen die voorkomen in content of metadata.<br>
+<br>
+§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;persoonlijke kenmerken;<br>
+4°&nbsp;&nbsp; &nbsp;voorkeuren.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 2° en 3°, heeft betrekking op alle mogelijke categorieën van persoonsgegevens, met inbegrip van bijzondere categorieën van persoonsgegevens als vermeld in de algemene verordening persoonsgegevens.<br>
+&nbsp;<br>
+§4. De VRT bepaalt als verwerkingsverantwoordelijke de bewaartermijn van de persoonsgegevens die ze, in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, verwerkt. De persoonsgegevens kunnen daarbij, op basis van dit decreet, uiterlijk bewaard worden tot tien jaar na afloop van de decretale taken, vermeld in artikel 6 en 17 en de beheersovereenkomst afgesloten tussen de VRT en de Vlaamse Gemeenschap.<br>
+<br>
+De persoonsgegevens die verwerkt zijn in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, kunnen conform artikel 5, lid 1, e), en artikel 89 van de algemene verordening gegevensbescherming permanent worden bewaard met het oog op archivering in het algemeen belang.
+
+## TITEL VI. TELEVISIEOMROEPORGANISATIES
+
+### ART 237/29.
+
+De televisieomroeporganisaties, vermeld in artikel 42, treden op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het in stelling brengen van instrumenten voor leeftijdscontrole of andere technische maatregelen als vermeld in artikel 42.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie;<br>
+2° ouders van minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;leeftijd.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in het derde lid, worden maximaal bewaard voor zolang dat noodzakelijk is voor de uitvoering van de instrumenten voor leeftijdscontrole of andere technische maatregelen.
+
+## TITEL VII. AANBIEDERS VAN VIDEOPLATFORMDIENSTEN
+
+### ART 237/30.
+
+De aanbieders van videoplatformdiensten, vermeld in artikel 176/1, treden op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de&nbsp;algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het in stelling brengen van instrumenten voor leeftijdscontrole of andere technische maatregelen als vermeld in artikel 176/4 en 176/6.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie;<br>
+2° ouders van minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;leeftijd.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in het derde lid, worden maximaal bewaard voor zolang dat noodzakelijk is voor de uitvoering van de instrumenten voor leeftijdscontrole of andere technische maatregelen.
+
+## TITEL VIII. DIENSTENVERDELERS
+
+### ART 237/31.
+
+Dienstenverdelers als vermeld in artikel 177 treden op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het in stelling brengen van instrumenten voor leeftijdscontrole of andere technische maatregelen als vermeld in artikel 180, §6.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie;<br>
+2° ouders van minderjarigen die gebruikmaken van de televisiediensten van de desbetreffende televisieomroeporganisatie.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;leeftijd.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in het derde lid, worden maximaal bewaard voor zolang dat noodzakelijk is voor de uitvoering van de instrumenten voor leeftijdscontrole of andere technische maatregelen.
+
+## TITEL IX. AANBIEDERS VAN OMROEPDIENSTEN
+
+### ART 237/32.
+
+De aanbieders van omroepdiensten, vermeld in artikel 102, treden op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
+1° &nbsp; het accommoderen van het recht op antwoord, vermeld in artikel 104;<br>
+2° &nbsp; het accommoderen van het recht van mededeling, vermeld in artikel 113.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoelinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende cate gorieën van betrokkenen:<br>
+1° &nbsp; natuurlijke personen die hun recht van antwoord willen uitoefenen;<br>
+2° contactpersonen van rechtspersonen die hun recht van antwoord willen uitoefenen.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, 1° en 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in de klacht in het kader van het recht op antoord;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in de beslissing tot buitenvervolgingstelling of tot vrijspraak in het kader van het recht op mededeling.<br>
+<br>
+De persoonsgegevens die conform dit artikel door de aanbieders van radio- en televisiediensten worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid.
 
 ## DEEL IX. Overgangs- en slotbepalingen
 
