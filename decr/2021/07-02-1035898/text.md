@@ -698,23 +698,4 @@ Als de inlichtingen en de documenten, vermeld in het eerste lid, voor de Vlaamse
 
 ### ART 43.
 
-§ 1. De bevoegde dienst die de Vlaamse Regering aanwijst om de taken uit te voeren, vermeld in artikel 133, § 2, en 201 van het Mediadecreet treedt op als verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de uitvoering van deze taken.<br>
-<br>
-De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de uitvoering van zijn taak vermeld in artikel 192/14 en 234 van het Mediadecreet.<br>
-<br>
-§ 2. De verwerking van persoonsgegevens in het kader van dit decreet heeft betrekking op volgende categorieën van betrokkenen :<br>
-1° belanghebbenden, met inbegrip van gebruikers en consumenten;<br>
-2° elke natuurlijke persoon waarop het decreet betreffende radio-omroep en televisie van 27 maart 2009 van toepassing is.<br>
-<br>
-§ 3. De verwerking van persoonsgegevens in het kader van dit wijzigingsdecreet heeft betrekking op volgende categorieën van persoonsgegevens :<br>
-1° identificatiegegevens, rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens;<br>
-2° contactgegevens;<br>
-3° financiële gegevens;<br>
-4° beroepsgegevens;<br>
-5° adresgegevens.<br>
-<br>
-§ 4. In uitvoering van artikel 32 van de algemene verordening gegevensbescherming worden de persoonsgegevens beveiligd volgens de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatieen ICT-beleid, opgericht overeenkomstig artikel III.74, tweede lid, 3°, van het Bestuursdecreet van 7 december 2018.<br>
-<br>
-§ 5. De maximale bewaringstermijnen voor persoonsgegevens die op basis van dit decreet worden verwerkt, conform artikel 5, 1, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels, conform artikel III.81, § 2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van die bewaartermijn dient rekening te worden gehouden met de doelstellingen van de betrokken bevraging of vraagstelling.<br>
-<br>
-§ 6. De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van deze gegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.
+...

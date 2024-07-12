@@ -2,16 +2,16 @@
   "codex_id": 1035898,
   "title": "Decreet van 2021-07-02 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de gedeeltelijke omzetting van richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035898/VolledigDocument?datum=2021-08-14",
-  "source_sha256": "8c0bdf89685d22dd4564345cdf6c8f7feb91360f6529f43691bcd174e901aacc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035898/VolledigDocument?datum=2024-07-12",
+  "source_sha256": "2def950adf4b3fa501ac04a5b669fb6eb7ce79baa0abb52badcd93ee461c8813",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035898&param=informatie",
-  "as_of": "2021-08-14",
+  "as_of": "2024-07-12",
   "made": "2021-07-02",
   "gazette": "2021-08-04",
   "numac": 2021021558,
   "document_start": "2021-08-14",
   "document_end": null,
-  "in_force": "2021-08-14",
+  "in_force": "2024-07-12",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2021-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-12; future article versions excluded; article text as the API gives it"
 }
