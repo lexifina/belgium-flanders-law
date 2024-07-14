@@ -25,6 +25,13 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Wijzigingen van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen
 
+### ART 1.
+
+In artikel 23bis, §1, van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen, ingevoegd bij het koninklijk besluit van 15 december 1998 en gewijzigd bij het koninklijk besluit van 6 september 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid, c), worden tussen het woord “technische” en het woord “herkeuringen” de woorden “keuringen en” ingevoegd;<br>
+2° er wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+“De technische keuringen op vraag van een bevoegde persoon, conform artikel 23sexies, §1, 1°, kunnen betrekking hebben op één of meer specifieke onderdelen of controlepunten”.
+
 ### ART 2.
 
 In artikel 23ter van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 15 december 1998 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2018, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -34,6 +41,179 @@ In artikel 23ter van hetzelfde besluit, ingevoegd bij het koninklijk besluit van
 4° in paragraaf 2 worden punt 1° en punt 1°bis opgeheven;&nbsp;<br>
 5° in paragraaf 2, 1°ter, wordt de zinsnede “het jaar of om de twee jaar, zolang deze voertuigen voldoen aan de voorwaarden vermeld onder punt 1°” vervangen door de zinsnede “de twee jaar of om het jaar volgens de voorwaarden, vermeld in paragraaf 1, eerste lid, 1°”;&nbsp;<br>
 6° in paragraaf 2, 1°quater en 1°quinquies, wordt de zinsnede “jaarlijks of tweejaarlijks, voor zover deze voertuigen voldoen aan de in punt 1° vermelde voorwaarden” vervangen door de zinsnede “tweejaarlijks of jaarlijks volgens de voorwaarden, vermeld in paragraaf 1, eerste lid, 1°”.
+
+### ART 3.
+
+Aan artikel 23decies, §1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 april 2018, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In afwijking van het eerste lid, 2°, geldt voor het gebrek vermeld in bijlage 15, punt 8.2.2.3 en in bijlage 41, punt 8.2.2.3, een termijn van drie maanden.”.
+
+### ART 4.
+
+In bijlage 15 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 april 2018 en gewijzigd bij de besluiten van de Vlaamse Regering van 14 januari 2022, 15 juli 2022 en 27 oktober 2023, wordt in de tabel de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:66px">8.2.2.3.</td>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:94px">Meten van het aantal deeltjes</td>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:135px">Voertuigen van de categorieën M1 en N1 voor Euro 5a en hoger<br>
+			<br>
+			Meting van het aantal deeltjes per volume met een deeltjesteller</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:28px">a)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:128px">De meting overschrijdt 250.000 deeltjes per cm<sup>3</sup> met een maximum van 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">b)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+vervangen door de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:66px">8.2.2.3.</td>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:94px">Meten van het aantal deeltjes</td>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:135px">Voertuigen van de categorieën M1 en N1 voor Euro 5a en hoger<br>
+			<br>
+			Meting van het aantal deeltjes per volume met een deeltjesteller</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:28px">a)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:128px">De meting overschrijdt 250.000 deeltjes per cm<sup>3</sup> met een maximum van 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">b)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">c)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup> voor de derde controle op rij.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">X</td>
+		</tr>
+	</tbody>
+</table>
+”.
+
+### ART 5.
+
+In bijlage 41 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 april 2018 en gewijzigd bij de besluiten van de Vlaamse Regering van 14 januari 2022, 15 juli 2022 en 27 oktober 2023, wordt in de tabel de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:66px">8.2.2.3.</td>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:94px">Meten van het aantal deeltjes</td>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:135px">Voertuigen van de categorieën M1 en N1 voor Euro 5a en hoger<br>
+			<br>
+			Meting van het aantal deeltjes per volume met een deeltjesteller</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:28px">a)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:128px">De meting overschrijdt 250.000 deeltjes per cm<sup>3</sup> met een maximum van 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">b)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+vervangen door de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:66px">8.2.2.3.</td>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:94px">Meten van het aantal deeltjes</td>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:135px">Voertuigen van de categorieën M1 en N1 voor Euro 5a en hoger<br>
+			<br>
+			Meting van het aantal deeltjes per volume met een deeltjesteller</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:28px">a)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:128px">De meting overschrijdt 250.000 deeltjes per cm<sup>3</sup> met een maximum van 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">b)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup>.</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:28px">c)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:128px">De meting overschrijdt 1.000.000 deeltjes per cm<sup>3</sup> voor de derde controle op rij.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:11px; vertical-align:top; width:29px">X</td>
+		</tr>
+	</tbody>
+</table>
+”.<br>
+&nbsp;
 
 ## Hoofdstuk 2. Wijzigingen van het koninklijk besluit van 23 december 1994 tot vaststelling van de erkenningsvoorwaarden en de regeling van de administratieve controle van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen
 
@@ -83,6 +263,21 @@ Bijlage 7 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regeri
 Bijlage 8 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 januari 2017 en gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt vervangen door de bijlage die als bijlage 2 bij dit besluit is gevoegd.
 
 ## Hoofdstuk 3. Slotbepalingen
+
+### ART 13.
+
+Artikel 2 en artikel 6 tot en met 12 treden in werking op 1 juli 2024.
+
+### ART 14.
+
+Artikel 23ter, eerste lid, §1, 1°, 3°, a) en b), §2, 1°ter, 1°quater en 1°quinquies, van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto’s, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen, zoals van kracht vanaf 1 juli 2024, zijn van toepassing op voertuigen waarvan het tijdstip van de periodieke keuring, vermeld in voormelde punten, plaatsvindt vanaf:<br>
+1° &nbsp;1 september 2024 voor voertuigen met een ouderdom van ten hoogste zes jaar, te rekenen vanaf de datum van de eerste inverkeerstelling;<br>
+2° 1 september 2025 voor voertuigen met een ouderdom van ten hoogste acht jaar, te rekenen vanaf de datum van de eerste inverkeerstelling;<br>
+3° 1 september 2026 voor voertuigen met een ouderdom van ten hoogste tien jaar, te rekenen vanaf de datum van de eerste inverkeerstelling.
+
+### ART 15.
+
+De Vlaamse minister, bevoegd voor de weginfrastructuur en het wegenbeleid, is belast met de uitvoering van dit besluit.
 
 ### BIJLAGE 1
 
