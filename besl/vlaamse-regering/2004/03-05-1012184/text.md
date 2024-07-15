@@ -718,9 +718,11 @@ Het ontslag wordt definitief wanneer de Vlaamse regering dit aanvaardt.
 
 ### ART. 84.
 
-Ambtshalve wordt een einde gemaakt aan het ambt van arrondissementscommissaris op de laatste dag van de maand waarin hij de leeftijd van 65 jaar bereikt.<br>
+De arrondissementscommissaris kan zijn ambt niet verliezen vóór het einde van de maand waarin hij de wettelijke pensioenleeftijd bereikt, behalve in de gevallen die bepaald zijn in de pensioenwetgeving of in dit besluit.&nbsp;<br>
 <br>
-In afwijking van het eerste lid wordt, als een tuchtprocedure tegen de arrondissementscommissaris loopt, ambtshalve een einde gemaakt aan het ambt van arrondissementscommissaris na afloop van de tuchtprocedure.
+Ambtshalve wordt een einde gemaakt aan het ambt van arrondissementscommissaris op de laatste dag van de maand waarin hij de wettelijke pensioenleeftijd bereikt.<br>
+<br>
+Als een tuchtprocedure tegen een arrondissementscommissaris loopt, wordt in afwijking van het tweede lid na afloop van de tuchtprocedure ambtshalve een einde gemaakt aan het ambt van arrondissementscommissaris.
 
 ### ART. 84/1.
 
