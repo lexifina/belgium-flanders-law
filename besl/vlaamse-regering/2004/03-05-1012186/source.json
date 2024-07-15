@@ -2,16 +2,16 @@
   "codex_id": 1012186,
   "title": "Besluit van de Vlaamse Regering van 2004-03-05 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012186/VolledigDocument?datum=2020-02-20",
-  "source_sha256": "6b93e78691ee57ea1819bba3d60852632e65cf43e618f5ffdb816953c4119779",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012186/VolledigDocument?datum=2024-07-15",
+  "source_sha256": "8d47c38dff5959b61a4a28022d31a9856f4428f7ac42e4402e005b131546e70f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012186&param=informatie",
-  "as_of": "2020-02-20",
+  "as_of": "2024-07-15",
   "made": "2004-03-05",
   "gazette": "2004-03-26",
   "numac": 2004035477,
   "document_start": "2004-03-01",
   "document_end": null,
-  "in_force": "2020-02-20",
+  "in_force": "2024-07-15",
   "article_versions": 80,
-  "record_form": "consolidated version as in force on 2020-02-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-15; future article versions excluded; article text as the API gives it"
 }
