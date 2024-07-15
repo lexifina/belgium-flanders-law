@@ -301,9 +301,7 @@ Besluit :<br>
 
 ### ART 49/10.
 
-De Vlaamse minister, bevoegd voor de sociale economie, beslist binnen veertien kalenderdagen na de dag waarop de voormelde minister het onderzoek van het Departement Werk en Sociale Economie, vermeld in artikel 49/9, over de toekenning van het contingent arbeidsmatige activiteiten in de sociale economie heeft ontvangen, en brengt de aanvrager op de hoogte.<br>
-<br>
-Het contingent arbeidsmatige activiteiten in de sociale economie dat is toegekend aan de organisaties, vermeld in artikel 49/5, wordt jaarlijks met ingang van 1 juli automatisch verminderd als de invulling van het toegekende contingent op kalenderjaarbasis minder dan 80% bedraagt. Het contingent wordt verminderd met het verschil in percentage tussen de effectieve invullingsgraad op kalenderjaarbasis en de invullingsgraad van 80% van het toegekende contingent.
+...
 
 ### ART 49/11.
 
