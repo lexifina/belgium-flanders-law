@@ -27,28 +27,28 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 Een subsidie van maximaal 13.313.000 euro (dertien miljoen driehonderddertienduizend euro) wordt jaarlijks toegekend vanuit begrotingsartikel MC0-1MIH2WA-WT met basisallocatie MCO 1MI109 3122 aan al de volgende begunstigden:<br>
-1° Havenbedrijf Antwerpen, nv van publiek recht, Zaha Hadidplein 1, 2030 Antwerpen, met KBO-nummer: 0248.399.380;<br>
+1° Haven Antwerpen-Brugge, nv van publiek recht, Zaha Hadidplein 1, 2030 Antwerpen, met KBO-nummer: 0248.399.380;<br>
 2° North Sea Port Flanders, nv van publiek recht, John Kennedylaan 32, 9042 Gent, met KBO-nummer: 0218.843.678;<br>
-3° Maatschappij van de Brugse Zeehaven, nv van publiek recht, Isabellalaan 1, 8380 Zeebrugge, met KBO-nummer: 0205.097.392;<br>
+3° ...;<br>
 4° Haven Oostende, nv van publiek recht, Slijkensesteenweg 2, 8400 Oostende, met KBO-nummer: 0259.978.212.<br>
 <br>
 De subsidie, vermeld in het eerste lid, wordt tussen de havenbedrijven op de volgende wijze verdeeld:<br>
-1° Havenbedrijf Antwerpen: 69,53%;<br>
+1° Haven Antwerpen-Brugge: 84,40%;<br>
 2° North Sea Port Flanders: 10,56%;<br>
-3° Maatschappij van de Brugse Zeehaven: 14,87%;<br>
+3° ...;<br>
 4° Haven Oostende: 5,04%.<br>
 <br>
 De verdeelsleutel, vermeld in het tweede lid, resulteert in de volgende maximale jaarlijkse bedragen per havenbedrijf:<br>
-1° Havenbedrijf Antwerpen: 9.256.770,35 euro (negen miljoen tweehonderdzesenvijftigduizend zevenhonderdzeventig euro vijfendertig cent);<br>
+1° Haven Antwerpen-Brugge: 11.236.205,62 euro (elf miljoen tweehonderdzesendertigduizend tweehonderdvijf euro tweeënzestig cent);<br>
 2° North Sea Port Flanders: 1.406.319,12 euro (een miljoen vierhonderdzesduizend driehonderdnegentien euro twaalf cent);<br>
-3° Maatschappij van de Brugse Zeehaven: 1.979.435,27 euro (een miljoen negenhonderdnegenenzeventigduizend vierhonderdvijfendertig euro zevenentwintig cent);<br>
+3° ...;<br>
 4° Haven Oostende: 670.475,26 euro (zeshonderdzeventigduizend vierhonderdvijfenzeventig euro zesentwintig cent).<br>
 <br>
 Het budget dat voor de jaarlijkse toekenning van subsidies met toepassing van dit besluit beschikbaar is, is maximaal gelijk aan de jaarlijkse begrotingskredieten voor de subsidiëring van de havenkapiteindiensten die ingeschreven zijn in de begroting.
 
 ### ART 2.
 
-De subsidie, vermeld in artikel 1, kan jaarlijks worden toegekend in het jaar 2021, 2022 en 2023.
+De subsidie, vermeld in artikel 1, kan jaarlijks worden toegekend in het jaar 2021, 2022, 2023 en 2024.
 
 ### ART 3.
 
@@ -74,7 +74,7 @@ Door de activiteiten, vermeld in artikel 3, te realiseren, wordt bijgedragen aan
 
 ### ART 6.
 
-Het jaarlijks uit te betalen subsidiebedrag wordt voor elke begunstigde, vermeld in artikel 1, vastgesteld in een ministerieel besluit. Het ministerieel besluit van 2022 en 2023 wordt opgemaakt na evaluatie van het voorgaande jaar en voor advies voorgelegd aan de Inspectie van Financiën.
+Het jaarlijks uit te betalen subsidiebedrag wordt voor elke begunstigde, vermeld in artikel 1, vastgesteld in een ministerieel besluit. Het ministerieel besluit van 2022, 2023 en 2024 wordt opgemaakt na evaluatie van het voorgaande jaar en voor advies voorgelegd aan de Inspectie van Financiën.
 
 ### ART 7.
 
