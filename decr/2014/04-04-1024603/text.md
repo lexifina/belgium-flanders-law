@@ -217,17 +217,17 @@ De vergunninghouder of de persoon die de melding heeft verricht, die wordt verme
 
 ### ART. 21.
 
-<p>§ 1. Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot vernietiging, bedraagt 200 euro.<br>
+<p>§1. Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot vernietiging, bedraagt 200 euro.<br>
 <br>
 Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot schorsing, ingediend conform artikel 40, § 1 of § 2, bedraagt 100 euro.<br>
 <br>
 Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro per vordering waarin ze tussenkomt, ongeacht of de tussenkomst geldt voor een vordering tot vernietiging of voor een vordering tot schorsing, ingediend conform artikel 40, § 1 en § 2.<br>
 <br>
-§ 1/1. De tussenkomende partij, vermeld in artikel 20, derde lid, is vrijgesteld van de betaling van het rolrecht.<br>
+§1/1. De tussenkomende partij, vermeld in artikel 20, derde lid, is vrijgesteld van de betaling van het rolrecht.<br>
 <br>
-§ 2. De leidend ambtenaar van het Departement Omgeving of het Agentschap Innoveren en Ondernemen, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, respectievelijk 5° tot en met 7°, van het -decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van enig rolrecht.<br>
+§2. De leidende ambtenaren of, bij hun afwezigheid, hun gemachtigden die optreden met toepassing van artikel 105, §2, respectievelijk punt 6° tot en met punt 8°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van rolrecht.<br>
 <br>
-§ 3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
+§3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
 De verzoekende partij&nbsp;richt daarvoor een verzoek aan de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar verzoekschrift.<br>
 <br>
@@ -241,17 +241,17 @@ Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vijfde lid, wo
 <br>
 De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 tot en met 508/13/4 van het Gerechtelijk Wetboek.<br>
 <br>
-§ 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel malen het recht als er verzoekende partijen zijn.<br>
+§4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel malen het recht als er verzoekende partijen zijn.<br>
 <br>
 Collectieve tussenkomsten&nbsp;geven aanleiding tot het betalen van zoveel malen het recht als er tussenkomende partijen zijn.<br>
 <br>
-§ 5. Gelijktijdig met de indiening van het verzoekschrift houdende een vordering tot vernietiging of een vordering tot schorsing, dat ingediend is conform artikel 40, § 1, of gelijktijdig met haar tussenkomst in de voormelde vorderingen, bezorgt de verzoekende of tussenkomende partij het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht.<br>
+§5. Gelijktijdig met de indiening van het verzoekschrift houdende een vordering tot vernietiging of een vordering tot schorsing, dat ingediend is conform artikel 40, § 1, of gelijktijdig met haar tussenkomst in de voormelde vorderingen, bezorgt de verzoekende of tussenkomende partij het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht.<br>
 <br>
 Als het rolrecht, vermeld in het eerste lid, niet op tijd is gestort, nodigt de griffier de verzoekende of de tussenkomende partij met een beveiligde zending uit om het rolrecht alsnog te betalen. De griffier vermeldt daarbij de sanctie, vermeld in het derde lid. In dit geval wordt het rolrecht gestort binnen acht dagen na de dag van de betekening van de voormelde beveiligde zending.<br>
 <br>
 Als het bedrag van het rolrecht niet op tijd is gestort door de verzoekende of tussenkomende partij, is het beroep of de tussenkomst van die partij onontvankelijk.<br>
 <br>
-§ 6. Bij een vordering tot schorsing, ingesteld conform artikel 40, § 2, wordt het rolrecht, verschuldigd conform paragraaf 1, opgevraagd in de beschikking of het arrest tot bepaling van de rechtsdag.<br>
+§6. Bij een vordering tot schorsing, ingesteld conform artikel 40, § 2, wordt het rolrecht, verschuldigd conform paragraaf 1, opgevraagd in de beschikking of het arrest tot bepaling van de rechtsdag.<br>
 <br>
 Het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht, vermeld in het eerste lid, wordt overgelegd op de zitting waarop de vordering, ingesteld conform artikel 40, § 2, wordt behandeld.<br>
 <br>
@@ -263,7 +263,7 @@ Als de tussenkomende partij het rolrecht, verschuldigd conform paragraaf 1, niet
 <br>
 De niet-tijdige betaling kan niet worden geregulariseerd.<br>
 <br>
-§ 7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die in het gelijk wordt gesteld.<br>
+§7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die in het gelijk wordt gesteld.<br>
 <br>
 De Vlaamse Regering bepaalt de basisbedragen en de minimum- en maximumbedragen van de rechtsplegingsvergoeding.<br>
 <br>
