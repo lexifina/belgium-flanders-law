@@ -16,16 +16,16 @@ In dit decreet wordt verstaan onder:<br>
 ### ART 3.
 
 De bepalingen van dit decreet zijn van toepassing op de hiernavolgende wetten en decreten, met inbegrip van de uitvoeringsbesluiten ervan en de daarin opgelegde verplichtingen:<br>
-1° het Boswetboek van 19 december 1854;<br>
+1° ...;<br>
 2° de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
 3° de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 4° de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet;<br>
-5° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
+5° ...;<br>
 6° de wet van 12 juli 1973 op het natuurbehoud;<br>
 7° de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder;<br>
 8° de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
 9° de wet van 10 januari 1977 houdende regeling van de schadeloosstelling voor schade veroorzaakt door het winnen en het pompen van grondwater;<br>
-10° de wet van 28 juli 1981 houdende goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten, en van de Bijlagen, opgemaakt te Washington op 3 maart 1973, alsmede van de Wijziging van de Overeenkomst, aangenomen te Bonn op 22 juni 1979;<br>
+10° ...;<br>
 11° het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
 12° de wet van 12 juli 1985 betreffende de bescherming van de mens en van het leefmilieu tegen de schadelijke effecten en de hinder van niet-ioniserende stralingen, infrasonen en ultrasonen;<br>
 13° het Bosdecreet van 13 juni 1990;<br>
@@ -33,7 +33,7 @@ De bepalingen van dit decreet zijn van toepassing op de hiernavolgende wetten en
 15° het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 16° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 17° het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen;<br>
-18° het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+18° het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 19° het Bodemdecreet van 27 oktober 2006;<br>
 20° het Mestdecreet van 22 december 2006;<br>
 21° het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
