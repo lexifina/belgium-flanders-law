@@ -29,21 +29,23 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 
 ### ART. 2.
 
-§ 1. Een Vlaamse Landmaatschappij, afgekort: "VLM" en hierna het agentschap te noemen, wordt opgericht als een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.7 van het Bestuursdecreet.<br>
+§ 1. Een Vlaamse Landmaatschappij, afgekort: "VLM" en hierna het agentschap te noemen, is opgericht als een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.7 van het Bestuursdecreet.<br>
 <br>
-§ 2. Het agentschap zal, zonder zijn burgerlijk karakter te verliezen, in de vorm van een naamloze vennootschap worden opgericht.<br>
+Op alle akten, facturen, aankondigingen, bekendmakingen, brieven, orders, websites en andere stukken, al dan niet in elektronische vorm, uitgaande van het agentschap, dient de benaming “Vlaamse Landmaatschappij” of de afkorting “VLM” steeds te worden voorafgegaan of gevolgd door de vermelding “publiekrechtelijk vormgegeven extern verzelfstandigd agentschap in de vorm van een naamloze vennootschap van publiek recht” of “EVA in de vorm van een NV van publiek recht”.<br>
 <br>
-Het agentschap heeft rechtspersoonlijkheid. De rechtspositie van het agentschap wordt geregeld in die volgorde door het Bestuursdecreet, dit decreet en door zijn statuten. Zonder aan het voorafgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap op het agentschap toepasselijk voor alles wat niet door het Bestuursdecreet, dit decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle, en controle op subsidies invoeren, en door de statuten van het agentschap is bepaald en slechts in die mate dat het Wetboek van vennootschappen niet in strijd is met deze bepalingen.<br>
+§ 2. Het agentschap is opgericht in de vorm van een naamloze vennootschap van publiek recht.<br>
 <br>
-De bepalingen van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de faillissementswet van 8 augustus 1997 zijn evenwel niet op het agentschap toepasselijk, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers en de rechtsregels in het Wetboek van vennootschappen die verplichten de rechtsvorm uitdrukkelijk te vermelden in alle stukken die uitgaan van het agentschap.<br>
+Het agentschap heeft rechtspersoonlijkheid. De rechtspositie van het agentschap wordt geregeld in die volgorde door het Bestuursdecreet, dit decreet en door zijn statuten. Zonder aan het voorafgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen en verenigingen met betrekking tot de naamloze vennootschap op het agentschap toepasselijk voor alles wat niet door het Bestuursdecreet, dit decreet, de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, en door de statuten van het agentschap is bepaald en slechts in die mate dat het Wetboek van vennootschappen en verenigingen niet in strijd is met deze bepalingen.<br>
+<br>
+De bepalingen van Boek XX van het Wetboek van economisch recht zijn evenwel niet op het agentschap toepasselijk, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers.<br>
 <br>
 Het Vlaamse Gewest, de provincies en de gemeenten, gelegen in het Vlaamse Gewest kunnen inschrijven op het kapitaal van de Maatschappij door ondeelbare aandelen in geld.<br>
 <br>
-Alle aandelen zijn en blijven op naam.<br>
+Alle aandelen zijn en blijven op naam.&nbsp;Eén aandeel geeft recht op één stem.<br>
 <br>
 Het rechtstreekse belang van het Vlaamse Gewest als aandeelhouder in het maatschappelijk kapitaal van het agentschap moet in totaal steeds meer dan 50 % bedragen. De aandelen waarop het Vlaamse Gewest inschrijft en die waarop het later mocht inschrijven, zijn onvervreemdbaar, met uitzondering van het gedeelte van de aandelen dat vier vijfde van het totale kapitaal overschrijdt.<br>
 <br>
-De aandelen waarop de provincies en de gemeenten inschrijven, kunnen, zelfs als ze slechts ten bedrage van 25 % werden afbetaald, alleen afgestaan worden aan provincies en gemeenten en na machtiging van de raad van bestuur van het agentschap en van de Vlaamse regering.<br>
+De aandelen waarop de provincies en de gemeenten inschrijven, kunnen, zelfs als ze slechts ten bedrage van 25 % werden afbetaald, alleen afgestaan worden aan provincies en gemeenten en na machtiging van de raad van bestuur van het agentschap en van de Vlaamse regering.&nbsp;Een overdracht in strijd met deze bepalingen, kan aan de vennootschap of derden niet worden tegengeworpen, ongeacht de goede of kwade trouw van de overnemer.<br>
 <br>
 Het maatschappelijk kapitaal kan bij beslissing van de algemene vergadering worden verhoogd door inschrijvingen van ondeelbare aandelen in geld. Alleen het Vlaamse Gewest, de provincies en de gemeenten, gelegen in het Vlaamse Gewest, mogen op deze kapitaalsverhoging inschrijven. In geen geval kan een kapitaalsverhoging ertoe leiden dat het Vlaamse Gewest als aandeelhouder niet langer, rechtstreeks, meer dan 50 % van het kapitaal van het agentschap bezit.<br>
 <br>
@@ -56,6 +58,8 @@ De aandeelhouders worden ertoe gemachtigd hun inschrijving geheel of gedeeltelij
 Iedere laattijdige storting brengt, van rechtswege en zonder ingebrekestelling, interest op tegen de wettelijke rentevoet, ten bate van het agentschap, vanaf het verstrijken van voormelde termijn van drie maanden.<br>
 <br>
 De aandeelhouders zijn slechts gebonden door verliezen ten belope van het bedrag van hun aandelen.<br>
+<br>
+<br>
 <br>
 § 3. De statuten van het agentschap worden, na goedkeuring door de Vlaamse Regering, vastgesteld in een notariële akte houdende oprichting van de Vlaamse Landmaatschappij. De statuten kunnen slecht worden gewijzigd mits goedkeuring door de Vlaamse Regering.<br>
 <br>
@@ -201,7 +205,7 @@ De Vlaamse regering kan het agentschap machtigen tot onteigening in de gevallen 
 
 De administratieve overheden stellen aan de VLM op eenvoudig verzoek of uit eigen beweging alle informatie, met inbegrip van persoonsgegevens, ter beschikking die nodig is voor de uitoefening van de volgende taken waarmee de VLM is belast:<br>
 1° ter uitvoering van het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut: de berekening van de gebruikerscompensatie;<br>
-2° ter uitvoering van het decreet van 18 juli 2003 betreffende het integraal waterbeleid: de uitoefening van de aankoopplicht en de vergoedingsplicht;<br>
+2° ter uitvoering van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018: de uitoefening van de aankoopplicht en de vergoedingsplicht;<br>
 3° ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu:<br>
 a) de opmaak van rapporten, plannen en lijsten in het kader van natuurinrichting en de berekening van vergoedingen in het kader van natuurinrichting;<br>
 b) de uitoefening van de koopplicht;<br>
@@ -248,7 +252,7 @@ De organen van het agentschap zijn :<br>
 3° de gedelegeerd bestuurder van het agentschap, belast met het dagelijks bestuur;<br>
 4° de algemeen directeur die de gedelegeerd bestuurder van het agentschap bijstaat bij de uitoefening van het dagelijks bestuur.<br>
 <br>
-Onverminderd de bepalingen van het Bestuursdecreet, dit decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle, en controle op subsidies invoeren en van de statuten, wordt de werking van deze organen aanvullend door het Wetboek van vennootschappen geregeld.
+Onverminderd de bepalingen van het Bestuursdecreet, dit decreet, de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en van de statuten, wordt de werking van de organen, vermeld in het eerste lid, 1° tot en met 4°, aanvullend door het Wetboek van vennootschappen en verenigingen geregeld.
 
 ## [AFDELING 2 ALGEMENE VERGADERING VOOR AANDEELHOUDERS (ing. decr. 7 mei 2004, art. 24)]
 
@@ -266,9 +270,9 @@ De statuten van het agentschap bepalen de nadere regels in verband met het statu
 
 ### ART. 17.
 
-§ 1. Onverminderd artikel III.8 van het Bestuursdecreet wordt het agentschap bestuurd door een raad van bestuur. De gedelegeerd bestuurder van het agentschap en de algemeen directeur wonen de vergadering van de raad van bestuur bij met raadgevende stem.<br>
+§ 1. Met behoud van artikel III.8 van het Bestuursdecreet wordt het agentschap bestuurd door een raad van bestuur in de zin van artikel 7:85 van het Wetboek van vennootschappen en verenigingen. De gedelegeerd bestuurder, de algemeen directeur en de regeringscommissarissen of hun plaatsvervangers wonen de raad van bestuur met raadgevende stem bij.<br>
 <br>
-De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoerige macht bekleed. Zo regelt hij onder meer wat volgt :<br>
+De raad van bestuur is bevoegd om alle handelingen te verrichten die nodig of dienstig zijn tot verwezenlijking van het voorwerp van het agentschap, behalve die waarvoor volgens de wet of het decreet de algemene vergadering of een ander orgaan van het agentschap uitsluitend bevoegd is. Zo regelt hij onder meer wat volgt :<br>
 1° ...<br>
 2° hij beslist over de leningen, geeft de waarborgen voor de verplichtingen die door het agentschap worden aangegaan en aanvaardt de aangeboden waarborg voor de tegenover hem genomen verbintenissen;<br>
 3° hij bepaalt bij algemeen reglement en met de goedkeuring van de Vlaamse regering de rentevoet en de voorwaarden van de leningen van het agentschap;<br>
@@ -279,13 +283,13 @@ De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoe
 8° hij neemt alle sommen en waarden in ontvangst die aan het agentschap toekomen, of hij belast zijn vertegenwoordigers met de inning ervan;<br>
 9° hij behandelt alle zaken die met de belangen van het agentschap verband houden, en treft daaromtrent dadingen en compromissen;<br>
 10° hij geeft machtiging tot het aangaan van alle rechtsvorderingen;<br>
-11° hij ziet af van alle zakelijke rechten, voorrechten en eisen tot ontbinding en verleent machtiging tot de opheffing van alle bevoorrechte of hypothecaire inschrijvingen, overschrijvingen, inbeslagname, verzet en alle andere verhindering, zonder de uitputting van de maatschappelijke schuldvorderingen of betalingen te hoeven rechtvaardigen. Hij mag dienaangaande zijn bevoegdheden overdragen aan de gedelegeerd bestuurder van het agentschap of aan een door deze laatste -aangewezen ambtenaar;<br>
+11° hij ziet af van alle zakelijke rechten, voorrechten en eisen tot ontbinding en verleent machtiging tot de opheffing van alle bevoorrechte of hypothecaire inschrijvingen, overschrijvingen, inbeslagname, verzet en alle andere verhindering, zonder de uitputting van de maatschappelijke schuldvorderingen of betalingen te hoeven rechtvaardigen. Hij mag dienaangaande zijn bevoegdheden overdragen aan de gedelegeerd bestuurder van het agentschap of aan een door deze laatste -aangewezen personeelslid;<br>
 12° hij wijst de secretaris aan van elke coördinatiecommissie, van elk ruilverkavelingscomité en van elk ander orgaan, belast met de ruilverkaveling van landeigendommen en de landinrichting, en hij verstrekt, binnen de perken van de beschikbare gelden van het agentschap, voor elk voornoemd orgaan de nodige kredieten voor de uitvoering van de werken en voor alle andere nodige uitgaven voor de uitvoering ervan;<br>
 13° hij wijst de secretaris aan van elk projectcomité en elke projectcommissie, opgericht voor elk natuurinrichtingsproject;<br>
 14° binnen de perken van de wet, het decreet of het reglement, beschikt hij over de fondsen die zich in bewaring, of op rekening-courant bevinden.<br>
 <br>
 § 2. De raad van bestuur kan de volgende bevoegdheden in geen geval delegeren :<br>
-1° ...;<br>
+1° bevoegdheden die bij wet of decreet uitdrukkelijk aan de raad van bestuur zijn voorbehouden;<br>
 2° het vaststellen van het ondernemingsplan overeenkomstig artikel III.61, § 1, tweede lid, van het Bestuursdecreet;<br>
 3° het vaststellen van het jaarrapport over de uitvoering van het ondernemingsplan overeenkomstig artikel III.62 van het Bestuursdecreet;<br>
 4° de opmaak van het ontwerp van begroting;<br>
@@ -294,11 +298,11 @@ De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoe
 7° de rapportering over de uitvoering van de begroting;<br>
 8° de opmaak van de verantwoordende ramingsstaten en de memorie van toelichting.<br>
 <br>
-§ 3. De raad van bestuur mag, onder zijn verantwoordelijkheid, een gedeelte van de bevoegdheden waarmee hij bekleed is, overdragen aan één of meer van zijn leden of aan de gedelegeerd bestuurder, met uitzondering van de bevoegdheden, bedoeld in § 2.<br>
+§ 3. De raad van bestuur mag, onder zijn verantwoordelijkheid, een gedeelte van de bevoegdheden waarmee hij bekleed is, overdragen aan één of meer van zijn leden of aan de gedelegeerd bestuurder, met uitzondering van de bevoegdheden, bedoeld in § 2.&nbsp;Zulke delegatie laat de eigen beslissingsbevoegdheid van de raad van bestuur onverlet. Zij kan te allen tijde worden herroepen.<br>
 <br>
-De gedelegeerd bestuurder kan, mits de raad van bestuur goedkeuring verleent, bepaalde van deze bevoegdheden overdragen aan de door hem aangewezen ambtenaren van het agentschap, met uitzondering van de bevoegdheden, bedoeld in § 2. Deze delegatie geldt ad nutum.<br>
+De gedelegeerd bestuurder kan, mits de raad van bestuur goedkeuring verleent, bepaalde van deze bevoegdheden overdragen aan de door hem aangewezen personeelsleden van het agentschap, met uitzondering van de bevoegdheden, bedoeld in § 2. Deze delegatie geldt ad nutum.<br>
 <br>
-§ 4. De raad van bestuur kan in zijn midden een bestuurscomité instellen dat belast is met de beslissingen over de verwerving van het eigendoms- of gebruiksrecht van eigendommen ter uitvoering van de missie en taken, bedoeld in artikelen 5, 6 en 6bis, die aan het agentschap zijn opgedragen.<br>
+§ 4. De raad van bestuur kan in zijn midden en onder zijn verantwoordelijkheid een bestuurscomité instellen dat belast is met de beslissingen over de verwerving van het eigendoms- of gebruiksrecht van eigendommen ter uitvoering van de missie en taken, bedoeld in artikelen 5, 6 en 6bis, die aan het agentschap zijn opgedragen.<br>
 <br>
 De statuten van het agentschap bepalen de nadere regels inzake werking en samenstelling van het bestuurscomité.
 
@@ -306,11 +310,15 @@ De statuten van het agentschap bepalen de nadere regels inzake werking en samens
 
 ### ART. 18.
 
-§ 1. De raad van bestuur bestaat uit minimum 13 en maximum 17 leden, waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de overige leden van de raad. Zij bepaalt tevens de werking van de raad.<br>
+§ 1. De raad van bestuur bestaat uit maximum 17 leden, waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de overige leden van de raad. Zij bepaalt tevens de werking van de raad.<br>
 <br>
-Alleen de bestuurders die beschikken over de voor het agentschap relevante deskundigheid en ervaring ten aanzien van de missie, de taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10, van het agentschap, kunnen tot lid van de raad van bestuur van het agentschap worden aangesteld.&nbsp;<br>
+Alle bestuurders van het agentschap worden benoemd op grond van hun complementaire deskundigheid inzake het algemeen bestuur van het agentschap, hun specifieke deskundigheid inzake de inhoudelijke materie en het beleidsveld waarin het agentschap actief is.&nbsp;<br>
 <br>
 § 2. Onder de leden van de raad van bestuur van het agentschap worden zoveel bestuurders benoemd als er provincies vertegenwoordigd zijn in de vergadering van aandeelhouders, op basis van een door deze provincies voorgedragen dubbele lijst waarbij elke provincie een mannelijke en een vrouwelijke kandidaat voordraagt.<br>
+<br>
+Een aantal onafhankelijke bestuurders wordt benoemd overeenkomstig artikel III.40 tot en met III.43 van het Bestuursdecreet van 7 december 2018. In afwijking van §1, eerste lid, kan de Vlaamse Regering de onafhankelijke bestuurders slechts in geval van ernstige redenen ontslaan en dit op voordracht van de raad van bestuur, overeenkomstig artikel III.43, eerste lid, van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+De overige bestuurders, andere dan deze vermeld in het eerste en tweede lid, worden benoemd op voordracht van de Vlaamse Regering.<br>
 <br>
 § 3. Voor zover dit niet is geregeld in het besluit van de Vlaamse regering, bedoeld in § 1, bepalen de statuten van het agentschap de nadere regels inzake het statuut en de werking van de raad van bestuur.
 
@@ -318,7 +326,23 @@ Alleen de bestuurders die beschikken over de voor het agentschap relevante desku
 
 ### ART. 18bis.
 
-§ 1. Het dagelijks bestuur van het agentschap, alsook de vertegenwoordiging van het agentschap voor dat dagelijks bestuur, wordt opgedragen aan de gedelegeerd bestuurder van het agentschap. Hij wordt hierbij bijgestaan door een algemeen directeur die hem vervangt bij zijn afwezigheid.<br /><br />De Vlaamse regering stelt de gedelegeerd bestuurder aan evenals een algemeen directeur, die de gedelegeerd bestuurder bijstaat bij de uitoefening van het dagelijks bestuur.<br /><br />§ 2. De gedelegeerd bestuurder van het agentschap is onder meer belast met de volgende taken van het dagelijks bestuur:<br />1° de gedelegeerd bestuurder oefent de bevoegdheden uit die hem krachtens het besluit van de Vlaamse regering houdende de regeling van de rechtspositie van het personeel, alsmede krachtens alle andere op het personeel van toepassing zijnde wettelijke, decretale of reglementaire bepalingen, worden toegekend;<br />2° de gedelegeerd bestuurder woont de vergaderingen van de raad van bestuur bij en vervult er het ambt van verslaggever. De gedelegeerd bestuurder heeft er raadgevende stem;<br />3° de gedelegeerd bestuurder is belast met de uitvoering van de beslissingen van de raad van bestuur en de algemene vergadering;<br />4° het dagelijks bestuur van maatschappelijke zaken wordt toevertrouwd aan de gedelegeerd bestuurder mits die hierover verslag uitbrengt aan de raad van bestuur. De gedelegeerd bestuurder mag onder zijn verantwoordelijkheid zekere bevoegdheden betreffende dat dagelijks bestuur aan de door hem aangewezen ambtenaren van het agentschap overdragen;<br />5° de gedelegeerd bestuurder vertegenwoordigt het agentschap ten overstaan van derden in de verrichtingen die op dit dagelijks bestuur betrekking hebben en hij ondertekent de overeenkomsten die door het agentschap worden aangegaan. De gedelegeerd bestuurder levert afschriften en uittreksels uit de verslagen van de raad van bestuur en de algemene vergadering af. De gedelegeerd bestuurder mag onder zijn verantwoordelijkheid deze bevoegdheden aan de door hem aangewezen ambtenaren van het agentschap overdragen;<br />6° de rechtsvorderingen worden op verzoek van de gedelegeerd bestuurder ingesteld;<br />7° de gedelegeerd bestuurder wijst de ambtenaren aan die hij belast met het ondertekenen, in naam van het agentschap, van de ruilverkavelingsakten, de aanvullende akten van ruilverkaveling en de natuurinrichtingsakten;<br />8° de gedelegeerd bestuurder geeft handlichting van alle bevoorrechte en hypothecaire inschrijvingen, als de kwijtschelding van de schuld uit de akte blijkt. De gedelegeerd bestuurder mag zijn bevoegdheden terzake overdragen aan de door hem aangewezen ambtenaren;<br />9° de gedelegeerd bestuurder leidt het werk van de personeelsleden van het agentschap en oefent er toezicht op uit;<br />10° het agentschap wordt in alle gevallen ten opzichte van derden vertegenwoordigd door de gedelegeerd bestuurder, zonder dat die een bewijs van zijn mandaat of van de door de raad van bestuur of door de algemene vergadering genomen beslissing hoeft voor te leggen.<br /><br />De statuten bepalen nadere regels met betrekking tot het begrip dagelijks bestuur en de bevoegdheden van de gedelegeerd bestuurder en de algemeen directeur van het agentschap.
+§ 1. Het dagelijks bestuur van het agentschap, alsook de vertegenwoordiging van het agentschap voor dat dagelijks bestuur, wordt opgedragen aan de gedelegeerd bestuurder van het agentschap. Hij wordt hierbij bijgestaan door een algemeen directeur die hem vervangt bij zijn afwezigheid.<br>
+<br>
+De Vlaamse regering stelt de gedelegeerd bestuurder aan evenals een algemeen directeur, die de gedelegeerd bestuurder bijstaat bij de uitoefening van het dagelijks bestuur.<br>
+<br>
+§ 2. De gedelegeerd bestuurder van het agentschap is onder meer belast met de volgende taken van het dagelijks bestuur:<br>
+1° de gedelegeerd bestuurder oefent de bevoegdheden uit die hem krachtens het besluit van de Vlaamse regering houdende de regeling van de rechtspositie van het personeel, alsmede krachtens alle andere op het personeel van toepassing zijnde wettelijke, decretale of reglementaire bepalingen, worden toegekend;<br>
+2° de gedelegeerd bestuurder woont de vergaderingen van de raad van bestuur bij en vervult er het ambt van verslaggever. De gedelegeerd bestuurder heeft er raadgevende stem;<br>
+3° de gedelegeerd bestuurder is belast met de uitvoering van de beslissingen van de raad van bestuur en de algemene vergadering;<br>
+4° het dagelijks bestuur van maatschappelijke zaken wordt toevertrouwd aan de gedelegeerd bestuurder mits die hierover verslag uitbrengt aan de raad van bestuur. De gedelegeerd bestuurder mag onder zijn verantwoordelijkheid zekere bevoegdheden betreffende dat dagelijks bestuur aan de door hem aangewezen personeelsleden van het agentschap overdragen;<br>
+5° de gedelegeerd bestuurder vertegenwoordigt het agentschap ten overstaan van derden in de verrichtingen die op dit dagelijks bestuur betrekking hebben en hij ondertekent de overeenkomsten die door het agentschap worden aangegaan. De gedelegeerd bestuurder levert afschriften en uittreksels uit de verslagen van de raad van bestuur en de algemene vergadering af. De gedelegeerd bestuurder mag onder zijn verantwoordelijkheid deze bevoegdheden aan de door hem aangewezen personeelsleden van het agentschap overdragen;<br>
+6° de rechtsvorderingen worden op verzoek van de gedelegeerd bestuurder ingesteld;<br>
+7° de gedelegeerd bestuurder wijst de personeelsleden aan die hij belast met het ondertekenen, in naam van het agentschap, van de ruilverkavelingsakten, de aanvullende akten van ruilverkaveling en de natuurinrichtingsakten;<br>
+8° de gedelegeerd bestuurder geeft handlichting van alle bevoorrechte en hypothecaire inschrijvingen. De gedelegeerd bestuurder mag zijn bevoegdheden terzake overdragen aan de door hem aangewezen personeelsleden;<br>
+9° de gedelegeerd bestuurder leidt het werk van de personeelsleden van het agentschap en oefent er toezicht op uit;<br>
+10° het agentschap wordt in alle gevallen ten opzichte van derden vertegenwoordigd door de gedelegeerd bestuurder, zonder dat die een bewijs van zijn mandaat of van de door de raad van bestuur of door de algemene vergadering genomen beslissing hoeft voor te leggen.<br>
+<br>
+De statuten bepalen nadere regels met betrekking tot het begrip dagelijks bestuur en de bevoegdheden van de gedelegeerd bestuurder en de algemeen directeur van het agentschap.
 
 ## [HOOFDSTUK IX HET ONDERNEMINGSPLAN EN HET JAARRAPPORT (verv. decr. 30 juni 2017, art. 33)]
 
@@ -333,7 +357,7 @@ De voorwaarden en de procedure voor de uitvoering van de opdrachten van openbare
 ### ART. 18quater.
 
 § 1. Het agentschap kan beschikken over de volgende ontvangsten :<br>
-1° dotaties;<br>
+1° toelagen;<br>
 2° leningen;<br>
 3° fiscale heffingen voorzover ze bij decreet toegewezen zijn aan het agentschap;<br>
 4° retributies voorzover ze bij decreet toegewezen zijn aan het agentschap;<br>
@@ -358,15 +382,15 @@ Ter uitvoering van de aan het agentschap opgedragen missie, taken en bevoegdhede
 
 Met behoud van de toepassing van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid, ten aanzien van de wetten, decreten en de statuten van de vennootschap, van de in de jaarrekening weergegeven verrichtingen opgedragen aan een commissaris, natuurlijke of rechtspersoon, ingeschreven in het openbaar register van het Instituut van de Bedrijfsrevisoren.<br>
 <br>
-Met behoud van de toepassing van het decreet, vermeld in het eerste lid, heeft de commissaris de rechten, verplichtingen, taken en bevoegdheden die in het Wetboek van Vennootschappen zijn bepaald.<br>
+Met behoud van de toepassing van het decreet, vermeld in het eerste lid, heeft de commissaris de rechten, verplichtingen, taken en bevoegdheden die in het Wetboek van vennootschappen en verenigingen en de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 zijn bepaald.<br>
 <br>
 Als de publiekrechtelijke aard van de VLM dat vereist, kan de Vlaamse Regering de opdracht en de actiemiddelen van de commissaris uitbreiden.<br>
 <br>
-Met behoud van de toepassing van het decreet, vermeld in het eerste lid, wordt de commissaris benoemd voor een hernieuwbare termijn van drie jaar door de algemene vergadering die ook de bezoldiging van de commissaris bepaalt. Deze bezoldiging is ten laste van de vennootschap.<br>
+De algemene vergadering duidt de commissaris voor een hernieuwbare termijn van drie jaar aan onder de leden van het Instituut der Bedrijfsrevisoren. De algemene vergadering bepaalt de bezoldiging van de commissaris.<br>
+&nbsp;<br>
+Zonder afbreuk te doen aan andere onverenigbaarheidsbepalingen, gelden voor de commissaris dezelfde onverenigbaarheden als voor het mandaat van regeringscommissaris bij het agentschap. Daarenboven is de functie van commissaris onverenigbaar met het mandaat van regeringscommissaris bij het agentschap.<br>
 <br>
-Met behoud van de toepassing van andere onverenigbaarheden die op de functie van commissaris toepassing vinden, gelden voor de commissaris dezelfde onverenigbaarheden als voor het mandaat van regeringsafgevaardigde bij het agentschap. Daarenboven is de functie van commissaris onverenigbaar met het mandaat van regeringsafgevaardigde bij het agentschap.<br>
-<br>
-De boekhouding van het agentschap wordt gevoerd volgens de wetgeving op de boekhouding en de jaarrekeningen van de ondernemingen. Het agentschap voert een economische boekhouding met een analytische component.
+Overeenkomstig artikel 28 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 voert het agentschap een bedrijfseconomische boekhouding met een analytische component conform de regels van het dubbel boekhouden. De boekhouding van het agentschap wordt gevoerd volgens de wetgeving op de boekhouding en de jaarrekeningen van de ondernemingen.
 
 ## [HOOFDSTUK XI PENSIOENREGELING (ing. decr. 7 mei 2004, art. 33)]
 
