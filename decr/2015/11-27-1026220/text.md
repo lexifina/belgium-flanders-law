@@ -128,33 +128,33 @@ De personen, vermeld in het eerste lid, 1° tot en met 7°, verwerken enkel de g
 
 ### ART. 10.
 
-<p>§ 1. De gemeenteraad kan administratieve geldboeten bepalen voor de inbreuken op zijn reglementen die in toepassing van huidig decreet werden vastgesteld. Deze administratieve geldboete komt voor rekening van de overtreder.<br>
+<p>§1. De gemeenteraad kan administratieve geldboeten bepalen voor de inbreuken op zijn reglementen die in toepassing van huidig decreet werden vastgesteld. Deze administratieve geldboete komt voor rekening van de overtreder.<br>
 <br>
 Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minimaal 15 euro en maximaal 60 euro. Het voormelde bedrag wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten.<br>
 <br>
-§ 2. De administratieve geldboete, vermeld in paragraaf 1, wordt opgelegd door de beboetingsambtenaar.<br>
+§2. De administratieve geldboete, vermeld in paragraaf 1, wordt opgelegd door de beboetingsambtenaar.<br>
 <br>
 De beboetingsambtenaar, vermeld in het eerste lid, wordt door de gemeenteraad aangewezen en kan niet tegelijkertijd de persoon zijn die, met toepassing van artikel 8, de inbreuken vaststelt.<br>
 <br>
-§ 3. Binnen de vijftien dagen na ontvangst van het verslag van vaststelling bedoeld in artikel 8/1, § 3, tweede lid, deelt de beboetingsambtenaar met een beveiligde zending aan de overtreder de gegevens over de vastgestelde feiten en de begane inbreuk mee, alsook het bedrag van de administratieve geldboete.<br>
+§3. Binnen vijftien dagen na de ontvangst van het verslag van vaststelling, vermeld in artikel 8/1, §3, tweede lid, deelt de beboetingsambtenaar met een beveiligde zending of met een gewone brief aan de overtreder de gegevens mee van de vastgestelde feiten en de begane inbreuk, alsook het bedrag van de administratieve geldboete.<br>
 <br>
-De administratieve geldboete moet betaald worden binnen dertig dagen na de kennisgeving ervan, tenzij de overtreder binnen deze termijn schriftelijk met een beveiligde zending zijn verweermiddelen in voorkomend geval met inbegrip van de bewijsstukken&nbsp;heeft bezorgd aan de beboetingsambtenaar.<br>
+De administratieve geldboete moet betaald worden binnen dertig dagen na de kennisgeving ervan, tenzij de overtreder binnen die termijn schriftelijk met een beveiligde zending zijn verweermiddelen, in voorkomend geval met inbegrip van de bewijsstukken heeft bezorgd aan de beboetingsambtenaar.<br>
 <br>
-§ 4. Als de titularis van de nummerplaat in zijn verweermiddelen het vermoeden, vermeld in artikel 8/1, § 1, heeft weerlegd en de beboetingsambtenaar de verweermiddelen ontvankelijk en gegrond verklaart, brengt hij de titularis van de nummerplaat op de hoogte van zijn beslissing.<br>
+§4. Als de titularis van de nummerplaat in zijn verweermiddelen het vermoeden, vermeld in artikel 8/1, §1, heeft weerlegd en de beboetingsambtenaar de verweermiddelen ontvankelijk en gegrond verklaart, brengt hij de titularis van de nummerplaat op de hoogte van zijn beslissing.<br>
 <br>
-Als de titularis van de nummerplaat conform artikel 8/1, § 2, de identiteit van de bestuurder kenbaar heeft gemaakt, deelt de beboetingsambtenaar met een beveiligde zending, binnen vijftien dagen na de gegrondverklaring van de verweermiddelen, vermeld in het eerste lid, aan de aangewezen overtreder de gegevens over de vastgestelde feiten en de begane inbreuk mee, alsook het bedrag van de administratieve geldboete. De administratieve geldboete wordt binnen dertig dagen na de kennisgeving ervan betaald, tenzij de aangewezen overtreder binnen die termijn schriftelijk met een beveiligde zending zijn verweermiddelen, in voorkomend geval met inbegrip van de bewijsstukken, heeft bezorgd aan de beboetingsambtenaar.<br>
+Als de titularis van de nummerplaat conform artikel 8/1, §2, de identiteit van de bestuurder kenbaar heeft gemaakt, deelt de beboetingsambtenaar met een beveiligde zending of met een gewone brief binnen vijftien dagen na de gegrondverklaring van de verweermiddelen, vermeld in het eerste lid, aan de aangewezen overtreder de gegevens van de vastgestelde feiten en de begane inbreuk mee, alsook het bedrag van de administratieve geldboete. De administratieve geldboete wordt binnen dertig dagen na de kennisgeving ervan betaald, tenzij de aangewezen overtreder binnen die termijn schriftelijk met een beveiligde zending zijn verweermiddelen, in voorkomend geval met inbegrip van de bewijsstukken, heeft bezorgd aan de beboetingsambtenaar.<br>
 <br>
-Als de beboetingsambtenaar de verweermiddelen niet ontvankelijk of niet gegrond verklaart, brengt hij de overtreder met een beveiligde zending op de hoogte van zijn beslissing, met vermelding van de te betalen administratieve geldboete die binnen dertig dagen na de kennisgeving van die beslissing wordt betaald. Als de beboetingsambtenaar de onontvankelijkheidsverklaring of de ongegrondverklaring van de verweermiddelen niet verzendt binnen negentig dagen nadat hij het verweerschrift heeft ontvangen, vervalt de betwiste boetebeslissing. Als de beboetingsambtenaar de verweermiddelen ontvankelijk en gegrond verklaart, brengt hij de overtreder op de hoogte van zijn beslissing.<br>
+Als de beboetingsambtenaar de verweermiddelen niet ontvankelijk of niet gegrond verklaart, brengt hij de overtreder met een beveiligde zending of met een gewone brief op de hoogte van zijn beslissing, met vermelding van de te betalen administratieve geldboete die binnen dertig dagen na de kennisgeving van die beslissing wordt betaald. Als de beboetingsambtenaar de onontvankelijkheidsverklaring of de ongegrondverklaring van de verweermiddelen niet verstuurt binnen negentig dagen nadat hij het verweerschrift heeft ontvangen, vervalt de betwiste boetebeslissing. Als de beboetingsambtenaar de verweermiddelen ontvankelijk en gegrond verklaart, brengt hij de overtreder op de hoogte van zijn beslissing.<br>
 <br>
-§ 5. De overtreder kan tegen de beslissing tot oplegging van een administratieve geldboete, vermeld in paragraaf 4, een beroep instellen door middel van een geschreven verzoekschrift bij de politierechtbank, volgens de burgerlijke procedure, binnen dertig dagen na de kennisgeving van de beslissing, vermeld in paragraaf 4.<br>
+§5. De overtreder kan tegen de beslissing tot oplegging van een administratieve geldboete, vermeld in paragraaf 4, een beroep instellen door middel van een geschreven verzoekschrift bij de politierechtbank, volgens de burgerlijke procedure, binnen dertig dagen na de kennisgeving van de beslissing, vermeld in paragraaf 4.<br>
 <br>
-§ 6. De beslissing tot het opleggen van een administratieve geldboete heeft uitvoerbare kracht als ze definitief geworden is; dit is ofwel na het verstrijken van dertig dagen na de kennisgeving van de administratieve geldboete, vermeld in paragraaf 3 en paragraaf 4, tweede lid, zonder dat er verweermiddelen zijn ingediend, ofwel na het verstrijken van dertig dagen na de kennisgeving van de beslissing, vermeld in paragraaf 5, zonder dat er beroep werd aangetekend.<br>
+§6. De beslissing tot het opleggen van een administratieve geldboete heeft uitvoerbare kracht als ze definitief geworden is; dit is ofwel na het verstrijken van dertig dagen na de kennisgeving van de administratieve geldboete, vermeld in paragraaf 3 en paragraaf 4, tweede lid, zonder dat er verweermiddelen zijn ingediend, ofwel na het verstrijken van dertig dagen na de kennisgeving van de beslissing, vermeld in paragraaf 5, zonder dat er beroep werd aangetekend.<br>
 <br>
-§ 7. De administratieve geldboete wordt geïnd ten voordele van de gemeente, tenzij de gemeente beslist dat de administratieve geldboete ten voordele van de instanties, vermeld in artikel 11, wordt geïnd.<br>
+§7. De administratieve geldboete wordt geïnd ten voordele van de gemeente, tenzij de gemeente beslist dat de administratieve geldboete ten voordele van de instanties, vermeld in artikel 11, wordt geïnd.<br>
 <br>
-§ 8. De vordering tot voldoening van de administratieve geldboete verjaart door verloop van vijf jaar, te rekenen vanaf de dag waarop zij is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met artikel 2250, van het Burgerlijk Wetboek.<br>
+§8. De vordering tot voldoening van de administratieve geldboete verjaart door verloop van vijf jaar, te rekenen vanaf de dag waarop zij is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met artikel 2250, van het Burgerlijk Wetboek.<br>
 <br>
-§ 9. Wanneer de overtreding begaan werd door een persoon zonder een vaste woonplaats of vaste verblijfplaats in België kunnen de LEZ-toezichthouders, vermeld in artikel 8, § 1, overgaan tot onmiddellijke inning.<br>
+§9. Wanneer de overtreding begaan werd door een persoon zonder een vaste woonplaats of vaste verblijfplaats in België kunnen de LEZ-toezichthouders, vermeld in artikel 8, § 1, overgaan tot onmiddellijke inning.<br>
 <br>
 De administratieve geldboete kan alleen onmiddellijk worden geïnd mits akkoordbevinding van de overtreder.<br>
 <br>
@@ -164,7 +164,7 @@ De onmiddellijke&nbsp;inning doet de mogelijkheid vervallen om aan de overtreder
 <br>
 De Vlaamse Regering kan nadere regels bepalen betreffende de toepassing van de onmiddellijke inning en kan de gemeente machtigen om de concrete uitvoering van de onmiddellijke inning nader te regelen.<br>
 <br>
-§ 10. Als de overtreder niet instemt met de onmiddellijke inning, vermeld in paragraaf 9, kan de LEZ-toezichthouder eisen dat een bedrag ter hoogte van de administratieve geldboete die de gemeenteraad heeft vastgelegd, met toepassing van paragraaf 1 verplicht in consignatie gegeven wordt.<br>
+§10. Als de overtreder niet instemt met de onmiddellijke inning, vermeld in paragraaf 9, kan de LEZ-toezichthouder eisen dat een bedrag ter hoogte van de administratieve geldboete die de gemeenteraad heeft vastgelegd, met toepassing van paragraaf 1 verplicht in consignatie gegeven wordt.<br>
 <br>
 Als de consignatie om welke reden ook niet mogelijk is, kan het voertuig op kosten en risico van de overtreder worden aangehaald door de LEZ-toezichthouder, al dan niet met bijstand van de politie, tot het bedrag van de administratieve geldboete in consignatie is gegeven. In het kader van die aanhaling kunnen een of meer van de volgende maatregelen worden genomen:<br>
 1° inhouding van de boorddocumenten;<br>
