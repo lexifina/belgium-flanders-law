@@ -2,16 +2,16 @@
   "codex_id": 1022084,
   "title": "Decreet van 2012-06-29 houdende de organisatie van pleegzorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022084/VolledigDocument?datum=2024-01-20",
-  "source_sha256": "c532693b859eff9c166cfcebb459fd3e83614b2352717cedae724e267b9c572c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022084/VolledigDocument?datum=2024-07-20",
+  "source_sha256": "3364f645b59275b208c84c53d5b639d37392293ff724841874c8aa1553fe8068",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022084&param=informatie",
-  "as_of": "2024-01-20",
+  "as_of": "2024-07-20",
   "made": "2012-06-29",
   "gazette": "2012-08-16",
   "numac": 2012035934,
   "document_start": null,
   "document_end": null,
-  "in_force": "2024-01-20",
+  "in_force": "2024-07-20",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2024-01-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-20; future article versions excluded; article text as the API gives it"
 }

@@ -22,7 +22,8 @@ In dit decreet wordt verstaan onder :<br>
 11° pleegzorg: zorg waarbij een pleeggezin vrijwillig, onder begeleiding van een dienst voor pleegzorg en tegen een kostenvergoeding, een of meer pleegkinderen en/of pleeggasten opvangt, met behoud van de toepassing van artikel 16, derde lid;;<br>
 12° pleegzorger : een meerderjarige natuurlijke persoon die een of meer pleegkinderen en/of pleeggasten in het eigen gezin opvangt;<br>
 13° psychiatrische gezinsverpleging : de functie zoals bedoeld in het koninklijk besluit van 10 april 1991 houdende vaststelling van de normen waaraan de functie van psychiatrische gezinsverpleging moet voldoen om te worden erkend;<br>
-14° typemodule : een eenheid van hulpverlening of zorg, gebaseerd op een functie of op een specifiek omschreven kernproces van hulpverlening of zorg.<br>
+14° typemodule : een eenheid van hulpverlening of zorg, gebaseerd op een functie of op een specifiek omschreven kernproces van hulpverlening of zorg;<br>
+15° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Aanbod van pleegzorg
@@ -49,7 +50,32 @@ De Vlaamse Regering kan de psychiatrische gezinsverpleging van een psychiatrisch
 
 ### ART. 7.
 
-§ 1. Een dienst voor pleegzorg biedt ondersteunende pleegzorg, met inbegrip van crisispleegzorg, perspectiefzoekende pleegzorg, perspectiefbiedende pleegzorg en behandelingspleegzorg aan.<br /><br />§ 2. Een dienst voor pleegzorg heeft de volgende taken :<br />1° in samenwerking met de partnerorganisatie, als bedoeld in artikel 19, pleegzorg bekendmaken;<br />2° het actief zoeken naar mogelijke netwerkpleeggezinnen en het werven van mogelijke bestandspleeggezinnen;<br />3° het screenen van kandidaat-pleeggezinnen en pleeggezinnen;<br />4° het oriënteren van kandidaat-pleeggezinnen naar een of meerdere vormen van pleegzorg als bedoeld in artikel 3;<br />5° het sluiten van een samenwerkingsovereenkomst met een ziekenhuis als bedoeld in artikel 6, voor zover de psychiatrische gezinsverpleging in het werkingsgebied van de dienst wordt aangeboden;<br />6° het onthaal en de verheldering van de zorgvraag van een persoon of zijn wettelijke vertegenwoordiger en het desgevallend indiceren van rechtstreeks toegankelijke pleegzorg als bedoeld in artikel 4, waarbij het onthaal, de verheldering van de zorgvraag en de indicatiestelling maximaal gebeuren in dialoog met deze persoon en zijn wettelijke vertegenwoordiger;<br />7° het zoeken naar het meest geschikte pleeggezin voor een persoon voor wie pleegzorg wordt georganiseerd;<br />8° de vorming van kandidaat-pleegzorgers, pleegzorgers en pleeggezinnen;<br />9° het instaan voor een correcte en passende informatieverstrekking aan het pleegkind of de pleeggast over de aard en de draagwijdte van de pleegzorg;<br />10° de begeleiding van pleegkinderen of pleeggasten;<br />11° de ondersteuning en begeleiding van pleegzorgers en pleeggezinnen;<br />12° de pleegzorggebonden begeleiding van de gezinnen waarvan de ouders of wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken;<br />13° het organiseren van een participatieraad met een vertegenwoordiging van de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken en de pleegzorgers, die op eigen initiatief of op verzoek van de dienst voor pleegzorg advies uitbrengt over de werking van de dienst;<br />14° het instaan voor een naadloze overgang bij het beëindigen van pleegzorg voor de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken, de pleegzorgers en de pleeggezinnen;<br />15° het instaan voor zorgcontinuïteit, onder meer naar aanleiding van de overgang van minderjarigen- naar meerderjarigenzorg;<br />16° het aanbieden van een passende nazorg voor de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken, de pleegzorgers en de pleeggezinnen.<br /><br />De Vlaamse Regering kan bijkomende taken bepalen voor de diensten voor pleegzorg.<br /><br />
+§ 1. Een dienst voor pleegzorg biedt ondersteunende pleegzorg, met inbegrip van crisispleegzorg, perspectiefzoekende pleegzorg, perspectiefbiedende pleegzorg en behandelingspleegzorg aan.<br>
+<br>
+§ 2. Een dienst voor pleegzorg heeft de volgende taken :<br>
+1° in samenwerking met de partnerorganisatie, als bedoeld in artikel 19, pleegzorg bekendmaken;<br>
+2° het actief zoeken naar mogelijke netwerkpleeggezinnen en het werven van mogelijke bestandspleeggezinnen;<br>
+3° het screenen van kandidaat-pleeggezinnen en pleeggezinnen;<br>
+4° het oriënteren van kandidaat-pleeggezinnen naar een of meerdere vormen van pleegzorg als bedoeld in artikel 3;<br>
+5° het sluiten van een samenwerkingsovereenkomst met een ziekenhuis als bedoeld in artikel 6, voor zover de psychiatrische gezinsverpleging in het werkingsgebied van de dienst wordt aangeboden;<br>
+6° het onthaal en de verheldering van de zorgvraag van een persoon of zijn wettelijke vertegenwoordiger en het desgevallend indiceren van rechtstreeks toegankelijke pleegzorg als bedoeld in artikel 4, waarbij het onthaal, de verheldering van de zorgvraag en de indicatiestelling maximaal gebeuren in dialoog met deze persoon en zijn wettelijke vertegenwoordiger;<br>
+7° het zoeken naar het meest geschikte pleeggezin voor een persoon voor wie pleegzorg wordt georganiseerd;<br>
+8° de vorming van kandidaat-pleegzorgers, pleegzorgers en pleeggezinnen;<br>
+9° het instaan voor een correcte en passende informatieverstrekking aan het pleegkind of de pleeggast over de aard en de draagwijdte van de pleegzorg;<br>
+10° de begeleiding van pleegkinderen of pleeggasten;<br>
+11° de ondersteuning en begeleiding van pleegzorgers en pleeggezinnen;<br>
+12° de pleegzorggebonden begeleiding van de gezinnen waarvan de ouders of wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken;<br>
+13° het organiseren van een participatieraad met een vertegenwoordiging van de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken en de pleegzorgers, die op eigen initiatief of op verzoek van de dienst voor pleegzorg advies uitbrengt over de werking van de dienst;<br>
+14° het instaan voor een naadloze overgang bij het beëindigen van pleegzorg voor de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken, de pleegzorgers en de pleeggezinnen;<br>
+15° het instaan voor zorgcontinuïteit, onder meer naar aanleiding van de overgang van minderjarigen- naar meerderjarigenzorg;<br>
+16° het aanbieden van een passende nazorg voor de pleegkinderen, de pleeggasten, de gezinnen waarvan de ouders of de wettelijke vertegenwoordigers van de pleegkinderen of de pleeggasten deel uitmaken, de pleegzorgers en de pleeggezinnen.<br>
+<br>
+De Vlaamse Regering kan bijkomende taken bepalen voor de diensten voor pleegzorg.&nbsp;De voormelde bijkomende taken kunnen vertrekken vanuit de pleegzorggerelateerde expertise van een dienst voor pleegzorg en hebben niet noodzakelijk rechtstreeks betrekking op pleegzorg.<br>
+<br>
+De Vlaamse Regering kan een subsidie toekennen aan een dienst voor pleegzorg om de taken, vermeld in het eerste en tweede lid, uit te voeren.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de bijkomende taken voor pleegzorg, vermeld in het tweede lid, en voor de subsidie, vermeld in het derde lid.<br>
+&nbsp;
 
 ## Afdeling 2 Programmatie en het werkingsgebied van de diensten voor pleegzorg
 
