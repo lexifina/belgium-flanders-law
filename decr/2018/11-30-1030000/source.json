@@ -2,16 +2,16 @@
   "codex_id": 1030000,
   "title": "Decreet van 2018-11-30 betreffende de gebouwenpas",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030000/VolledigDocument?datum=2018-12-27",
-  "source_sha256": "47e6a175622f3d8d5ae6760b271b8400647f0e9c3e080a73e61a3cd9826ce9c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030000/VolledigDocument?datum=2024-07-20",
+  "source_sha256": "c03466b212be0c90e6c58cbced5d7a35b07a9c6c62e72130e4e7c3d271b903e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030000&param=informatie",
-  "as_of": "2018-12-27",
+  "as_of": "2024-07-20",
   "made": "2018-11-30",
   "gazette": "2018-12-17",
   "numac": 2018015281,
   "document_start": "2018-12-27",
   "document_end": null,
-  "in_force": "2018-12-27",
+  "in_force": "2024-07-20",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2018-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-20; future article versions excluded; article text as the API gives it"
 }

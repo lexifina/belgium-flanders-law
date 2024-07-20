@@ -34,7 +34,15 @@ De Vlaamse Regering kan de verdere inhoud van de gebouwenpas bepalen.
 
 Elke houder van een zakelijk recht heeft toegang tot de gebouw-, grond- en omgevingsgebonden informatie die over zijn gebouw of grond, en zijn omgeving in de gebouwenpas wordt weergegeven.<br>
 <br>
-Elke houder van een zakelijk recht kan een derde machtigen om de gegevens in de gebouwenpas te raadplegen.
+Elke houder van een zakelijk recht kan een derde machtigen om de gegevens in de gebouwenpas te raadplegen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden waaronder de gegevens in de gebouwenpas in functie van verkoop en verhuur en de publiciteit daaromtrent geheel of gedeeltelijk raadpleegbaar worden gemaakt voor derden. Deze voorwaarden hebben minstens betrekking op:<br>
+1° welke gegevens raadpleegbaar worden gemaakt;<br>
+2° wie de gegevens kan raadplegen;<br>
+3° de periode van raadpleegbaarheid.<br>
+<br>
+Hierbij voorziet de Vlaamse Regering ook in algemene organisatorische en technische maatregelen die genomen worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+&nbsp;
 
 ### ART 6.
 
