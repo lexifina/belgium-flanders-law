@@ -251,7 +251,7 @@ De bepalingen, vermeld in artikel 2.1.32 en 2.1.33, zijn van   toepassing op het
 
 <p>Als het jachtrecht door de eigenaar zelf werd uitgeoefend en als die per beveiligde zending aan de landcommissie de wens heeft geuit om verder op het perceel te blijven jagen, worden de voorwaarden van de jacht vastgesteld als vermeld in artikel 2.1.32 betreffende de wijzingen aan de pacht, zonder dat de duur van de jachtovereenkomst langer dan negen jaar kan zijn.</p>
 
-<p>De duur van de jachtovereenkomsten die gesloten zijn vanaf de vaststelling van het landinrichtingsplan of de inrichtingsnota, wordt van rechtswege beperkt tot de overschrijving van de herverkavelingsakte op het hypotheekkantoor.</p>
+<p>De duur van de jachtovereenkomsten die gesloten zijn vanaf de vaststelling van het landinrichtingsplan of de inrichtingsnota, wordt van rechtswege beperkt tot de overschrijving van de herverkavelingsakte op het bevoegd kantoor van de Algemene Administratie van de Patrimoniumdocumentatie.</p>
 
 ### ART. 2.1.37.
 
