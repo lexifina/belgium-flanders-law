@@ -60,7 +60,7 @@ b) een plan van aanleg;<br>
 c) een stedenbouwkundige verordening, of een bouwverordening vastgelegd op grond van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996;<br>
 d) het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitvoeringsplan;<br>
 14° strategische adviesraad : de strategische adviesraad, opgericht bij het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
-15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.3, § 2;<br>
+15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.6, § 2;<br>
 16° Vlaamse Belastingdienst : de gewestelijke administratie, bevoegd voor de inning en invordering van de Vlaamse belastingen;<br>
 17° Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
 18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
@@ -99,7 +99,7 @@ Onverminderd specifieke delegaties, kan de Vlaamse Regering de samenstellings- e
 
 ### ART. 1.2.1.
 
-De bij het Vlaams Parlement in te dienen beleidsbrieven over het beleidsveld ruimtelijke ordening omvatten onder andere :<br>
+De bij het Vlaams Parlement in te dienen beleids- en begrotingstoelichtingen over het beleidsveld ruimtelijke ordening omvatten onder andere :<br>
 1° objectieven betreffende de opstart en behandeling van gewestelijke planningsprocessen in het betrokken kalenderjaar;<br>
 2° globale objectieven betreffende de opstart en behandeling van provinciale en gemeentelijke planningsprocessen in het betrokken kalenderjaar;<br>
 3° een rapportering omtrent de voortgang van planningsprocessen en de uitvoering van het ruimtelijk structuurplan Vlaanderen of Beleidsplan Ruimte Vlaanderen, telkens op gewestelijk, provinciaal en gemeentelijk niveau.<br>
@@ -512,7 +512,11 @@ In functie van het geïntegreerde planningsproces wordt een procesnota opgesteld
 <br>
 De procesnota en de aangevulde procesnota worden op dezelfde wijze gepubliceerd.<br>
 <br>
-§ 2. De Vlaamse Regering stelt een handleiding ter beschikking die de procesaanpak van het geïntegreerde planningsproces verduidelijkt.
+§ 2. De Vlaamse Regering stelt een handleiding ter beschikking die de procesaanpak van het geïntegreerde planningsproces verduidelijkt.<br>
+<br>
+De Vlaamse Regering stelt een digitaal platform ter beschikking voor de elektronische uitwisseling en terbeschikkingstelling van alle documenten en adviezen in het kader van de opmaak van het ruimtelijk uitvoeringsplan.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen voor de opname, uitwisseling en terbeschikkingstelling van gegevens via het digitaal platform, vermeld in het tweede lid.
 
 ### ART. 2.2.2.
 
@@ -552,7 +556,7 @@ De informatie over de inspraak of adviesvraag in elke fase geeft duidelijk aan w
 <br>
 § 2. De startnota bevat :<br>
 1° een beschrijving en verduidelijking van de doelstellingen van het voorgenomen ruimtelijk uitvoeringsplan;<br>
-2° een afbakening van het gebied of de gebieden waarop het plan betrekking heeft;<br>
+2° een aanduiding van het studiegebied voor de uitwerking van de doelstellingen van het voorgenomen ruimtelijk uitvoeringsplan;<br>
 3° een beknopte beschrijving van de alternatieven voor het ontwerpplan of voor onderdelen ervan, die de initiatiefnemer heeft overwogen, en een beknopte beschrijving van de voor- en nadelen van de verschillende alternatieven;<br>
 4° een beschrijving van de reikwijdte en het detailleringsniveau van het voorgenomen ruimtelijk uitvoeringsplan en daaraan gekoppeld de reikwijdte en het detailleringsniveau van de te voeren effectonderzoeken zoals in die fase gekend;<br>
 5° de relatie met het&nbsp;ruimtelijk structuurplan of ruimtelijk beleidsplan en, in voorkomend geval, met andere relevante beleidsplannen;<br>
@@ -583,6 +587,7 @@ De scopingnota kan tijdens het geïntegreerde planningsproces aangevuld worden. 
 5° een weergave van de feitelijke ruimtelijke toestand en de toestand van het leefmilieu, de natuur en andere relevante feitelijke gegevens;<br>
 6° de relatie met het&nbsp;ruimtelijk structuurplan of ruimtelijk beleidsplan of de ruimtelijke structuurplannen of ruimtelijke beleidsplannen waarvan het een uitvoering is en, in voorkomend geval, een omschrijving van andere relevante beleidsplannen;<br>
 7° in voorkomend geval, een zo mogelijk limitatieve opgave van de voorschriften die strijdig zijn met het ruimtelijk uitvoeringsplan en die opgeheven worden;<br>
+7°/1 in voorkomend geval, een toelichting van de wijze waarop aan de bepalingen van artikel 2.2.6/1 wordt voldaan;<br>
 8° de kwaliteitsbeoordeling en, in voorkomend geval, de verklaring, vermeld in artikel 4.2.11, § 7, eerste lid, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en, in voorkomend geval, een overzicht van de conclusies van de volgende effectbeoordelingen waarbij aangegeven wordt hoe die geïntegreerd zijn in het plan :<br>
 a) het planmilieueffectrapport;<br>
 b) de passende beoordeling;<br>
@@ -608,7 +613,7 @@ De stedenbouwkundige verordening, bedoeld in het eerste lid, wordt samen met het
 <br>
 Een stedenbouwkundige verordening die vastgesteld wordt met het ruimtelijk uitvoeringsplan of een overeenkomst die afgesloten wordt voor of samen met de vaststelling van het ruimtelijk uitvoeringsplan, kan worden gewijzigd op voorwaarde dat daarbij steeds de doelstelling van de stedenbouwkundige verordening of overeenkomst gerespecteerd blijft. De wijziging van een stedenbouwkundige verordening volgt dezelfde procedure als vermeld in artikel 2.3.1, 2.3.2 en 2.3.3 van deze codex.<br>
 <br>
-Alle aangelegenheden die krachtens artikel 2.3.1 geregeld kunnen worden in stedenbouwkundige verordeningen, met uitsluiting van artikel 2.3.1, eerste lid, 11°, kunnen het voorwerp uitmaken van een stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan.<br>
+Alle aangelegenheden die krachtens artikel 2.3.1 geregeld kunnen worden in stedenbouwkundige verordeningen, met uitsluiting van artikel 2.3.1, §1, eerste lid, 11°, kunnen het voorwerp uitmaken van een stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan.<br>
 <br>
 § 3. Ruimtelijke uitvoeringsplannen blijven gelden tot ze worden vervangen. Ze kunnen op elk moment geheel of gedeeltelijk worden vervangen.<br>
 <br>
@@ -662,9 +667,33 @@ De Vlaamse Regering kan bijkomende subcategorieën van gebiedsaanduiding bepalen
 <br>
 § 3. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de vorm en de inhoud van de ruimtelijke uitvoeringsplannen.<br>
 <br>
-§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de provincies en gemeenten voor het vervullen van hun taken met betrekking tot de ruimtelijke uitvoeringsplannen en de bijzondere plannen van aanleg.<br>
+§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de provincies en gemeenten voor het vervullen van hun taken met betrekking tot de ruimtelijke uitvoeringsplannen.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.
+
+### ART 2.2.6/1.
+
+§1. Voor de toepassing van dit artikel, dat een verplichting tot plano logische compensatie instelt, worden twee groepen bestemmingen onderscheiden:<br>
+1° bestemmingen die ressorteren onder de categorie of subcategorie van gebiedsaanduiding “wonen”, “bedrijvigheid”, “recreatie” of “gemeenschaps- en nutsvoorzieningen”;<br>
+2° bestemmingen die ressorteren onder de categorie van gebiedsaanduiding “landbouw”, “bos”, “overig groen” of “reservaat en natuur”.<br>
+<br>
+Als een ruimtelijk uitvoeringsplan een wijziging doorvoert van een bestemming of nabestemming uit de tweede groep als vermeld in het eerste lid naar een bestemming of nabestemming uit de eerste groep als vermeld in het eerste lid gaat die bestemmingswijziging gepaard met een gelijktijdige en in oppervlakte minstens gelijke wijziging van bestemmingen uit de eerste groep naar bestemmingen uit de tweede groep. Die laatste bestemmingswijziging wordt de compensatie genoemd.<br>
+&nbsp;<br>
+De compensatie gebeurt op gronden waarvan de realisatie van de tot dan toe geldende bestemming door de plannende overheid beleidsmatig niet langer gewenst is.<br>
+<br>
+De verplichting tot compensatie, vermeld in het tweede lid, geldt niet in de volgende gevallen:<br>
+1° de wijziging naar een bestemming uit de eerste groep als vermeld in het eerste lid beslaat een in omvang beperkte oppervlakte;<br>
+2° op het grondgebied van de plannende overheid zijn geen gronden meer aanwezig die een bestemming uit de eerste groep als vermeld in het eerste lid hebben, waarvan de ontwikkeling beleidsmatig niet langer gewenst is;<br>
+3° de bestemmingswijziging is gericht op het zone-eigen maken van bestaande hoofdzakelijk vergunde constructies; wordt in het betrokken ruimtelijk uitvoeringsplan echter ook in ruimtelijke uitbreiding voorzien dan geldt de verplichting tot compensatie voor de oppervlakte van de mogelijke uitbreiding.<br>
+<br>
+Aan de verplichting tot compensatie, vermeld in het tweede lid, wordt geacht te zijn voldaan in de volgende gevallen:<br>
+1° de plannende overheid voert een ander lopend planningsproces, waarbij in oppervlakte minstens gelijke wijzigingen van bestemmingen of nabestemmingen uit de eerste groep als vermeld in het eerste lid naar bestemmingen of nabestemmingen uit de tweede groep als vermeld in het eerste lid begrepen zijn;<br>
+2° de plannende overheid voerde in recent vastgestelde ruimtelijke uitvoeringsplannen in oppervlakte minstens gelijke wijzigingen door van bestemmingen of nabestemmingen uit de eerste groep als vermeld in het eerste lid naar bestemmingen of nabestemmingen uit de tweede groep als vermeld in het eerste lid;<br>
+3° er wordt toepassing gemaakt van de herverkaveling uit kracht van wet met planologische ruil als vermeld in artikel 2.1.61 en volgende van het decreet van 28 maart 2014 betreffende de landinrichting.<br>
+<br>
+De verplichting tot planologische compensatie is van overeenkomstige toepassing voor het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitvoeringsplan.<br>
+<br>
+§2. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de verplichting tot planologische compensatie, vermeld in paragraaf 1, inzonderheid met betrekking tot de toepassing van het vierde en vijfde lid van paragraaf 1, en met betrekking tot compensatie buiten het grondgebied van de plannende overheid.
 
 ## Afdeling 2 [Gewestelijke ruimtelijke uitvoeringsplannen (verv. decr. 1 juli 2016, art. 20, I: 1 mei 2017)]
 
@@ -674,7 +703,7 @@ De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.
 <br>
 Gewestelijke ruimtelijke uitvoeringsplannen worden opgemaakt ter uitvoering van het Beleidsplan Ruimte Vlaanderen.<br>
 <br>
-§ 2. De Vlaamse Regering vraagt advies over de startnota aan :<br>
+§ 2. De Vlaamse Regering&nbsp;keurt de startnota en de procesnota goed met de informatie die op dat ogenblik bekend is, en vraagt advies over de startnota aan :<br>
 1° de strategische adviesraad en de Milieu- en Natuurraad van Vlaanderen;<br>
 2° de deputaties van de betrokken provincies;<br>
 3° de colleges van burgemeester en schepenen van de betrokken gemeenten;<br>
@@ -715,7 +744,7 @@ De Vlaamse Regering kan te allen tijde beslissen om alsnog een plenaire vergader
 <br>
 De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.<br>
 <br>
-De Vlaamse Regering stuurt een individuele kennisgeving met een beveiligde zending naar de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder of de leasinggever van de betrokken beschermde onroerende goederen als in het ontwerp van gewestelijk ruimtelijk uitvoeringsplan een erkennings-, rangschikkings- of beschermingsbesluit inzake onroerend erfgoed geheel of gedeeltelijk wordt gewijzigd of opgeheven. Die personen brengen de gebruikers en eigenaars van de cultuurgoederen met een beveiligde zending op de hoogte van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Ze brengen het departement met een beveiligde zending op de hoogte van de eventuele verkoop of overdracht van het eigendomsrecht of van de overdracht van een ander zakelijk recht, met de bijbehorende stavingsdocumenten, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving van de Vlaamse Regering vermeld. De nieuwe eigenaars of de nieuwe houders van het zakelijk recht worden op hun beurt door de Vlaamse Regering met een beveiligde zending van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan op de hoogte gebracht.<br>
+De Vlaamse Regering stuurt een individuele kennisgeving met een beveiligde zending naar de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder of de leasinggever van de betrokken beschermde onroerende goederen als in het ontwerp van gewestelijk ruimtelijk uitvoeringsplan een erkennings-, rangschikkings- of beschermingsbesluit inzake onroerend erfgoed geheel of gedeeltelijk wordt gewijzigd of opgeheven. Die personen brengen de gebruikers van het onroerend goed en de zakelijkrechthouders van de cultuurgoederen met een beveiligde zending op de hoogte van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Ze brengen het departement met een beveiligde zending op de hoogte van de eventuele verkoop of overdracht van het eigendomsrecht of van de overdracht van een ander zakelijk recht, met de bijbehorende stavingsdocumenten, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving van de Vlaamse Regering vermeld. De nieuwe eigenaars of de nieuwe houders van het zakelijk recht worden op hun beurt door de Vlaamse Regering met een beveiligde zending van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan op de hoogte gebracht.<br>
 <br>
 § 3. Na de aankondiging worden het ontwerp van gewestelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten gedurende zestig dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarvan het grondgebied door het ontwerp van gewestelijk ruimtelijk uitvoeringsplan of effectbeoordelingsrapporten geheel of gedeeltelijk wordt bestreken, en worden de ontwerpen gepubliceerd op de website, zoals gespecificeerd door de Vlaamse Regering.<br>
 <br>
@@ -767,7 +796,7 @@ De voorschriften van de provinciale ruimtelijke uitvoeringsplannen kunnen niet a
 <br>
 De instemming, vermeld in het derde lid, wordt schriftelijk gegeven, uiterlijk op of naar aanleiding van de plenaire vergadering of de adviesvraag over het voorontwerp van plan waarvoor de instemming vereist is. Het besluit waarbij de instemming wordt verleend, bevat een omschrijving van het te plannen onderwerp en van het gebied waarop het plan of planonderdeel betrekking heeft, en vermeldt de voorschriften van het gewestelijk ruimtelijk uitvoeringsplan die zullen worden opgeheven.<br>
 <br>
-§ 2. De deputatie vraagt advies over de startnota aan :<br>
+§ 2. De deputatie&nbsp;keurt de startnota en de procesnota goed met de informatie die op dat ogenblik bekend is, en vraagt advies over de startnota aan :<br>
 1° het departement;<br>
 2° de provinciale commissie voor ruimtelijke ordening;<br>
 3° de colleges van burgemeester en schepenen van de betrokken gemeenten;<br>
@@ -849,7 +878,7 @@ De bepalingen van paragraaf 6 zijn onverminderd van toepassing, met uitzondering
 
 ### ART. 2.2.16.
 
-<p>§ 1. Het provinciaal ruimtelijk uitvoeringsplan wordt samen met het besluit van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement.<br>
+<p>§ 1. Het provinciaal ruimtelijk uitvoeringsplan wordt samen met het besluit van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement, via een afzonderlijke actie in het digitaal platform, vermeld in artikel 2.2.1, §2.<br>
 <br>
 § 2. De Vlaamse Regering beschikt over een termijn van vijfenveertig dagen die ingaat op de dag na de betekening, vermeld in paragraaf 1 of in paragraaf 4, tweede lid, om de uitvoering van het besluit van de provincieraad tot definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan te schorsen of te vernietigen. Een schorsing kan niet gedeeltelijk zijn. Een afschrift van de beslissing tot schorsing of vernietiging wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan de deputatie.<br>
 <br>
@@ -859,19 +888,21 @@ De bepalingen van paragraaf 6 zijn onverminderd van toepassing, met uitzondering
 1° /2 als het provinciaal ruimtelijk uitvoeringsplan kennelijk onverenigbaar is met een beleidskader of, in voorkomend geval, een ontwerp van beleidskader van het Beleidsplan Ruimte Vlaanderen;<br>
 2° als het provinciaal ruimtelijk uitvoeringsplan strijdig is met een gewestelijk ruimtelijk uitvoeringsplan of, in voorkomend geval, met een ontwerp van gewestelijk ruimtelijk uitvoeringsplan, tenzij de Vlaamse Regering daarmee haar instemming heeft verleend met toepassing van artikel 2.2.12, § 1, derde en vierde lid;<br>
 3° als het provinciaal ruimtelijk uitvoeringsplan strijdig is met direct werkende normen binnen andere beleidsvelden dan de ruimtelijke ordening of met de bindende delen van door de Vlaamse Regering vastgestelde beleidsplannen binnen andere beleidsdomeinen;<br>
-4° wegens de niet-naleving van een substantiële vormvereiste.<br>
+4° wegens de niet-naleving van een substantiële vormvereiste;<br>
+5° wegens strijdigheid met de bepalingen inzake compensatie als vermeld in artikel 2.2.6/1.<br>
 <br>
 De Vlaamse Regering gaat alleen over tot vernietiging als ze van oordeel is dat de onverenigbaarheid, de strijdigheid of de niet-naleving, vermeld in het eerste lid, niet kan worden hersteld, weggewerkt of opgelost door het volgen van de procedure, vermeld in paragraaf 4.<br>
 <br>
 § 4. In geval van schorsing beschikt de provincieraad over een termijn van negentig dagen, die ingaat de dag na de verzending van het schorsingsbesluit aan de deputatie, om het ruimtelijk uitvoeringsplan opnieuw definitief vast te stellen. Onverminderd artikel 2.2.15, § 6, derde lid, kunnen bij de definitieve vaststelling van het plan ten opzichte van het geschorste plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
 <br>
-Het provinciaal ruimtelijk uitvoeringsplan wordt samen met het nieuwe besluit van de provincieraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement.<br>
+Het provinciaal ruimtelijk uitvoeringsplan wordt samen met het nieuwe besluit van de provincieraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement, via een afzonderlijke actie in het digitaal platform, vermeld in artikel 2.2.1,<br>
+§2.<br>
 <br>
 Als de provincieraad binnen de termijn van negentig dagen, vermeld in het eerste lid, geen nieuw besluit tot definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan neemt, vervalt het geschorste provincieraadsbesluit en het ontwerp van provinciaal ruimtelijk uitvoeringsplan.</p>
 
 ### ART. 2.2.17.
 
-Als het besluit van de provincieraad tot definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan niet tijdig is geschorst of vernietigd, wordt de provincieraadsbeslissing houdende definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan binnen zestig dagen na de definitieve vaststelling bij uittreksel bekendgemaakt in het Belgisch Staatsblad en wordt binnen dezelfde termijn volledig bekendgemaakt op de website, vermeld in het Belgisch Staatsblad.<br>
+Als het besluit van de provincieraad tot definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan niet tijdig is geschorst of vernietigd, wordt de provincieraadsbeslissing houdende definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan binnen negentig dagen na de definitieve vaststelling bij uittreksel bekendgemaakt in het Belgisch Staatsblad en wordt binnen dezelfde termijn volledig bekendgemaakt op de website, vermeld in het Belgisch Staatsblad.<br>
 <br>
 Het provinciaal ruimtelijk uitvoeringsplan treedt in werking veertien dagen na de bekendmaking van de provincieraadsbeslissing houdende definitieve vaststelling van het plan bij uittreksel in het Belgisch Staatsblad.<br>
 <br>
@@ -889,7 +920,7 @@ De voorschriften van de gemeentelijke ruimtelijke uitvoeringsplannen kunnen niet
 <br>
 De instemming, vermeld in het derde lid, wordt schriftelijk gegeven, uiterlijk op of naar aanleiding van de plenaire vergadering of de adviesvraag over het voorontwerp van plan waarvoor de instemming vereist is. Het besluit waarbij de instemming wordt verleend, bevat een omschrijving van het te plannen onderwerp en van het gebied waarop het plan of planonderdeel betrekking heeft, en vermeldt de voorschriften van het provinciaal of gewestelijk ruimtelijk uitvoeringsplan die zullen worden opgeheven.<br>
 <br>
-§ 2. Het college van burgemeester en schepenen vraagt advies over de startnota aan :<br>
+§ 2. Het college van burgemeester en schepenen&nbsp;keurt de startnota en de procesnota goed met de informatie die op dat ogenblik bekend is, en vraagt advies over de startnota aan :<br>
 1° het departement;<br>
 2° de gemeentelijke commissie voor ruimtelijke ordening;<br>
 3° de deputatie van de provincie in kwestie;<br>
@@ -972,33 +1003,34 @@ De bepalingen van paragraaf 6 zijn onverminderd van toepassing, met uitzondering
 
 ### ART 2.2.22.
 
-Het gemeentelijk ruimtelijk uitvoeringsplan wordt samen met het besluit van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt, en aan het departement.
+Het gemeentelijk ruimtelijk uitvoeringsplan wordt samen met het besluit van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt, en aan het departement, via een afzonderlijke actie in het digitaal platform, vermeld in artikel 2.2.1, §2.
 
 ### ART 2.2.23.
 
-§ 1. De Vlaamse Regering en de deputatie beschikken over een termijn van vijfenveertig dagen die ingaat op de dag na de betekening, vermeld in artikel 2.2.22 of in paragraaf 3, tweede lid, om de uitvoering van het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan te schorsen. Een schorsing kan niet gedeeltelijk zijn. De Vlaamse Regering kan binnen de voormelde termijn een definitief vastgesteld gemeentelijk ruimtelijk uitvoeringsplan ook geheel of gedeeltelijk vernietigen. Een afschrift van het schorsings- of vernietigingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan het college van burgemeester en schepenen.<br>
+§1. De Vlaamse Regering en de deputatie beschikken over een termijn van vijfenveertig dagen die ingaat op de dag na de betekening, vermeld in artikel 2.2.22 of in paragraaf 3, tweede lid, om de uitvoering van het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan te schorsen. Een schorsing kan niet gedeeltelijk zijn. De Vlaamse Regering kan binnen de voormelde termijn een definitief vastgesteld gemeentelijk ruimtelijk uitvoeringsplan ook geheel of gedeeltelijk vernietigen. Een afschrift van het schorsings- of vernietigingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan het college van burgemeester en schepenen.<br>
 <br>
 Binnen de ordetermijn, vermeld in het eerste lid, bezorgt de Vlaamse Regering een afschrift van het schorsings- of vernietigingsbesluit aan de deputatie. Als de deputatie een schorsingsbesluit neemt, bezorgt ze daarvan binnen de voormelde ordetermijn een afschrift aan het departement.<br>
 <br>
-§ 2. Het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan kan alleen worden&nbsp;geschorst of vernietigd:<br>
+§2. Het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan kan alleen worden&nbsp;geschorst of vernietigd:<br>
 1° als het gemeentelijk ruimtelijk uitvoeringsplan uitvoering geeft aan een optie uit het gemeentelijk beleidsplan ruimte waarbij de Vlaamse Regering of de deputatie voorbehoud heeft gemaakt conform artikel 2.1.11, § 2, tweede lid;<br>
 1° /1 als het gemeentelijk ruimtelijk uitvoeringsplan uitvoering geeft aan een beleidskader van het gemeentelijk beleidsplan ruimte dat de Vlaamse Regering niet meer geldig heeft verklaard conform artikel 2.1.5, § 2, tweede lid, of dat de provincieraad niet meer geldig heeft verklaard conform artikel 2.1.8, § 2, tweede lid;<br>
 1° /2 als het gemeentelijk ruimtelijk uitvoeringsplan kennelijk onverenigbaar is met een beleidskader of, in voorkomend geval, een ontwerp van beleidskader van het Beleidsplan Ruimte Vlaanderen of het provinciaal beleidsplan ruimte;<br>
 2° als het gemeentelijk ruimtelijk uitvoeringsplan strijdig is met een gewestelijk of provinciaal ruimtelijk uitvoeringsplan of, in voorkomend geval, met een ontwerp van gewestelijk of provinciaal ruimtelijk uitvoeringsplan, tenzij de Vlaamse Regering, respectievelijk de provincieraad daarmee haar instemming conform artikel 2.2.18, § 1, derde lid, heeft verleend;<br>
 3° als het gemeentelijk ruimtelijk uitvoeringsplan strijdig is met direct werkende normen binnen andere beleidsvelden dan de ruimtelijke ordening of met bindende delen van een door de Vlaamse Regering vastgesteld beleidsplan;<br>
-4° wegens de niet-naleving van een substantiële vormvereiste.<br>
+4° wegens de niet-naleving van een substantiële vormvereiste;<br>
+5° wegens strijdigheid met de bepalingen inzake compensatie als vermeld in artikel 2.2.6/1.<br>
 <br>
 De Vlaamse Regering gaat alleen over tot vernietiging als ze van oordeel is dat de onverenigbaarheid, de strijdigheid of de niet-naleving, vermeld in het eerste lid, niet kan worden hersteld, weggewerkt of opgelost door het volgen van de procedure, vermeld in paragraaf 3.<br>
 <br>
-§ 3. In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen, die ingaat op de dag na de verzending van het schorsingsbesluit aan de gemeente, om het ruimtelijk uitvoeringsplan opnieuw definitief vast te stellen. Onverminderd artikel 2.2.21, § 6, derde lid, kunnen bij de definitieve vaststelling van het plan ten opzichte van het geschorste plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
+§3. In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen, die ingaat op de dag na de verzending van het schorsingsbesluit aan de gemeente, om het ruimtelijk uitvoeringsplan opnieuw definitief vast te stellen. Onverminderd artikel 2.2.21, § 6, derde lid, kunnen bij de definitieve vaststelling van het plan ten opzichte van het geschorste plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
 <br>
-Het gemeentelijk ruimtelijk uitvoeringsplan wordt samen met het nieuwe besluit van de gemeenteraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt, en aan het departement.<br>
+Het gemeentelijk ruimtelijk uitvoeringsplan wordt samen met het nieuwe besluit van de gemeenteraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt, en aan het departement, via een afzonderlijke actie in het digitaal platform, vermeld in artikel 2.2.1, §2.<br>
 <br>
 Als de gemeenteraad binnen de voormelde termijn van negentig dagen geen nieuw besluit tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan neemt, vervallen het geschorste gemeenteraadsbesluit en het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan.
 
 ### ART 2.2.24.
 
-Als het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan niet tijdig is geschorst of vernietigd, wordt de gemeenteraadsbeslissing houdende definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan binnen zestig dagen na de definitieve vaststelling bij uittreksel bekendgemaakt in het Belgisch Staatsblad en wordt ze binnen dezelfde termijn volledig bekendgemaakt op de website, vermeld in het Belgisch Staatsblad.
+Als het besluit van de gemeenteraad tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan niet tijdig is geschorst of vernietigd, wordt de gemeenteraadsbeslissing houdende definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan binnen negentig dagen na de definitieve vaststelling bij uittreksel bekendgemaakt in het Belgisch Staatsblad en wordt ze binnen dezelfde termijn volledig bekendgemaakt op de website, vermeld in het Belgisch Staatsblad.
 
 ### ART 2.2.25.
 
@@ -1012,7 +1044,7 @@ Het gemeentelijk ruimtelijk uitvoeringsplan, het advies van de gemeentelijke com
 
 ### ART. 2.3.1.
 
-De Vlaamse Regering kan gewestelijke stedenbouwkundige verordeningen vaststellen voor een deel van of voor het hele gewest. Die verordeningen bevatten de nodige&nbsp;stedenbouwkundige voorschriften om te zorgen voor :<br>
+§1. De Vlaamse Regering kan gewestelijke stedenbouwkundige verordeningen vaststellen voor een deel van of voor het hele gewest. Die verordeningen bevatten de nodige&nbsp;stedenbouwkundige voorschriften om te zorgen voor :<br>
 1° de gezondheid, de instandhouding, de stevigheid, de fraaiheid en de esthetische waarde van de bouwwerken, de installaties en hun omgeving, en ook hun veiligheid, met name de beveiliging tegen brand en overstroming;<br>
 2° de thermische en akoestische kwaliteit van de bouwwerken, de energiebesparingen en de energieterugwinning, de uitbouw van collectieve energievoorzieningen waarop desgevallend verplicht moet worden aangesloten;<br>
 3° de instandhouding, de gezondheid, de veiligheid, de bruikbaarheid en de schoonheid van de wegen, de toegangen en de omgeving ervan, evenals het ruimtelijk waarborgen van een adequate mobiliteit;<br>
@@ -1038,18 +1070,22 @@ Stedenbouwkundige verordeningen kunnen aan de aanvrager van een omgevingsvergunn
 <br>
 De stedenbouwkundige verordeningen&nbsp;moeten in overeenstemming zijn met de bestaande regelgeving voor de materie in kwestie.<br>
 <br>
-Het ontwerp van stedenbouwkundige verordening wordt voor advies voorgelegd aan de strategische adviesraad. Wanneer er geen advies is verleend binnen een termijn van dertig dagen, mag aan de adviesvereiste worden voorbijgegaan.<br>
+§2. Het ontwerp van stedenbouwkundige verordening wordt voor advies voorgelegd aan de strategische adviesraad. Wanneer er geen advies is verleend binnen een termijn van dertig dagen, mag aan de adviesvereiste worden voorbijgegaan.<br>
 <br>
 De Vlaamse Regering organiseert omtrent een ontwerp van gewestelijke stedenbouwkundige verordening een overlegvergadering met behoorlijk gemandateerde vertegenwoordigers van de Vereniging van de Vlaamse Provincies en van de Vlaamse Vereniging van Steden en Gemeenten.<br>
 <br>
 De Vlaamse Regering onderwerpt het ontwerp van gewestelijke stedenbouwkundige verordening aan een openbaar onderzoek. Het openbaar onderzoek duurt dertig dagen en wordt minstens aangekondigd door een bericht in het Belgisch Staatsblad. De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.<br>
 <br>
-De gewestelijke, provinciale en gemeentelijke stedenbouwkundige verordeningen die werden vastgesteld vóór 1 september 2009 en die op grond van de mogelijkheden, voorzien in de vroegere regelgeving, andere aangelegenheden regelen dan deze, vermeld in het eerste lid, of andere constructies of handelingen betreffen dan deze, vermeld in het tweede lid, blijven geldig tot ze worden opgeheven. De verordenende overheid kan na 1 september 2009 wijzigingen aan deze stedenbouwkundige verordeningen aanbrengen binnen de marges, vermeld in het eerste en tweede lid.<br>
+§3. De Vlaamse Regering kan gewestelijke bouwverordeningen of gewestelijke stedenbouwkundige verordeningen wijzigen binnen de marges, vermeld in paragraaf 1 en 2.<br>
+<br>
+§4. De Vlaamse Regering kan gewestelijke bouwverordeningen of stedenbouwkundige verordeningen geheel of gedeeltelijk opheffen, overeenkomstig de bepalingen van paragraaf 2. In geval van een loutere opheffing van een verordening, vastgesteld voor 1 september 2009, zijn de bepalingen van paragraaf 2 echter niet van toepassing en kan de Vlaamse Regering onmiddellijk tot opheffing overgaan.<br>
+<br>
+Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over plannen en programma’s, opgenomen in hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 &nbsp;
 
 ### ART. 2.3.2.
 
-§ 1. De provincieraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1 en in artikel 4.2.5, voor het gehele grondgebied van de provincie of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordeningen.<br>
+§1. De provincieraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1, §1, voor het gehele grondgebied van de provincie of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordeningen.<br>
 <br>
 Indien de Vlaamse Regering een gewestelijke stedenbouwkundige verordening vaststelt, brengt de provincieraad uit eigen beweging of binnen de termijn die door de Vlaamse Regering wordt opgelegd, de bestaande provinciale stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordening(en). Een gewestelijke stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels provinciale stedenbouwkundige verordeningen, tenzij de gewestelijke stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de gewestelijke stedenbouwkundige verordening tevens bepalen dat bestaande provinciale stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br>
 <br>
@@ -1061,7 +1097,7 @@ De deputatie onderwerpt het ontwerp van provinciale stedenbouwkundige verordenin
 <br>
 De provinciale stedenbouwkundige verordening wordt samen met het besluit van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening binnen tien dagen na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement.<br>
 <br>
-§ 1/1. De Vlaamse Regering beschikt over een termijn van vijfenveertig dagen die ingaat op de dag na de betekening, vermeld in paragraaf 1, zesde lid, om de uitvoering van het besluit van de provincieraad tot definitieve vaststelling van de provinciale stedenbouwkundige verordening te schorsen of te vernietigen. Een schorsing kan niet gedeeltelijk zijn. Een afschrift van de beslissing tot schorsing of vernietiging wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan de deputatie.<br>
+§1/1. De Vlaamse Regering beschikt over een termijn van vijfenveertig dagen die ingaat op de dag na de betekening, vermeld in paragraaf 1, zesde lid, om de uitvoering van het besluit van de provincieraad tot definitieve vaststelling van de provinciale stedenbouwkundige verordening te schorsen of te vernietigen. Een schorsing kan niet gedeeltelijk zijn. Een afschrift van de beslissing tot schorsing of vernietiging wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan de deputatie.<br>
 <br>
 Het besluit van de provincieraad tot definitieve vaststelling van de provinciale stedenbouwkundige verordening kan alleen worden geschorst of vernietigd:<br>
 1° als de provinciale stedenbouwkundige verordening uitvoering geeft aan een optie uit het provinciaal beleidsplan ruimte waarbij de Vlaamse Regering voorbehoud heeft gemaakt overeenkomstig artikel 2.1.8, § 2, derde lid;<br>
@@ -1074,7 +1110,7 @@ Het besluit van de provincieraad tot definitieve vaststelling van de provinciale
 <br>
 De Vlaamse Regering gaat alleen over tot vernietiging als ze van oordeel is dat de onverenigbaarheid, de strijdigheid of de niet-naleving, vermeld in het tweede lid, niet kan worden hersteld, weggewerkt of opgelost door het volgen van de procedure, vermeld in paragraaf 1/2.<br>
 <br>
-§ 1/2. In geval van schorsing beschikt de provincieraad over een termijn van negentig dagen die ingaat op de dag na de verzending van het schorsingsbesluit aan de deputatie, om de provinciale stedenbouwkundige verordening opnieuw definitief vast te stellen. Bij de definitieve vaststelling van de verordening kunnen ten opzichte van de geschorste verordening alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
+§1/2. In geval van schorsing beschikt de provincieraad over een termijn van negentig dagen die ingaat op de dag na de verzending van het schorsingsbesluit aan de deputatie, om de provinciale stedenbouwkundige verordening opnieuw definitief vast te stellen. Bij de definitieve vaststelling van de verordening kunnen ten opzichte van de geschorste verordening alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
 <br>
 De provinciale stedenbouwkundige verordening wordt samen met het nieuwe besluit van de provincieraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan het departement.<br>
 <br>
@@ -1082,7 +1118,19 @@ Als de provincieraad binnen de voormelde termijn van negentig dagen geen nieuw b
 <br>
 Als het besluit van de provincieraad tot definitieve vaststelling van de provinciale stedenbouwkundige verordening niet tijdig is geschorst of vernietigd, wordt de provincieraadsbeslissing houdende definitieve vaststelling van de provinciale stedenbouwkundige verordening bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
 <br>
-§ 2. De gemeenteraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1, in artikel 4.2.5 en in artikel 4.4.1, § 3, tweede lid, voor het gehele grondgebied van de gemeente of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering en de provincieraad vastgestelde stedenbouwkundige verordeningen.<br>
+§1/3. De provincieraad kan provinciale stedenbouwkundige verordeningen wijzigen binnen de marges, vermeld in paragraaf 1.<br>
+<br>
+§1/4. De provincieraad kan provinciale stedenbouwkundige verordeningen, geheel of gedeeltelijk opheffen bij besluit van de provincieraad, overeenkomstig de bepalingen van paragraaf 1.<br>
+<br>
+De deputatie neemt de nodige maatregelen tot opheffing.<br>
+<br>
+In geval van een loutere opheffing van een verordening vastgesteld voor 1 september 2009, zijn de bepalingen van paragraaf 1, vierde tot en met zesde lid, echter niet van toepassing en kan de provincieraad onmiddellijk tot opheffing overgaan.<br>
+<br>
+Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over plannen en programma’s, opgenomen in hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+Het besluit van de provincieraad wordt bezorgd aan het departement en bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§2. De gemeenteraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1, §1,&nbsp;in artikel 4.2.5 en in artikel 4.4.1, § 3, tweede lid, voor het gehele grondgebied van de gemeente of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering en de provincieraad vastgestelde stedenbouwkundige verordeningen.<br>
 <br>
 Indien de Vlaamse Regering een gewestelijke stedenbouwkundige verordening vaststelt, brengt de gemeenteraad uit eigen beweging of binnen de termijn die door de Vlaamse Regering wordt opgelegd, de bestaande gemeentelijke stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordening(en). Een gewestelijke stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels gemeentelijke stedenbouwkundige verordeningen, tenzij de gewestelijke stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de gewestelijke stedenbouwkundige verordening tevens bepalen dat bestaande gemeentelijke stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br>
 <br>
@@ -1096,7 +1144,7 @@ Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelij
 <br>
 De gemeentelijke stedenbouwkundige verordening wordt samen met het besluit van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening binnen tien dagen na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie en het departement.<br>
 <br>
-§ 2/1. De deputatie en de Vlaamse Regering beschikken over een termijn van vijfenveertig dagen, die ingaat de dag na de betekening, vermeld in paragraaf 2, achtste lid, om de uitvoering van het besluit van de gemeenteraad tot definitieve vaststelling van de gemeentelijke stedenbouwkundige verordening te schorsen. Een schorsing kan niet gedeeltelijk zijn. De Vlaamse Regering kan binnen de voormelde termijn een definitief vastgestelde gemeentelijke stedenbouwkundige verordening ook geheel of gedeeltelijk vernietigen. Een afschrift van het schorsings- of vernietigingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan het college van burgemeester en schepenen.<br>
+§2/1. De deputatie en de Vlaamse Regering beschikken over een termijn van vijfenveertig dagen, die ingaat de dag na de betekening, vermeld in paragraaf 2, achtste lid, om de uitvoering van het besluit van de gemeenteraad tot definitieve vaststelling van de gemeentelijke stedenbouwkundige verordening te schorsen. Een schorsing kan niet gedeeltelijk zijn. De Vlaamse Regering kan binnen de voormelde termijn een definitief vastgestelde gemeentelijke stedenbouwkundige verordening ook geheel of gedeeltelijk vernietigen. Een afschrift van het schorsings- of vernietigingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan het college van burgemeester en schepenen.<br>
 <br>
 Binnen de ordetermijn, vermeld in het eerste lid, bezorgt de Vlaamse Regering een afschrift van het schorsings- of vernietigingsbesluit aan de deputatie. Als de deputatie een schorsingsbesluit neemt, bezorgt ze daarvan binnen de voormelde ordetermijn een afschrift aan het departement.<br>
 <br>
@@ -1111,14 +1159,25 @@ Het besluit van de gemeenteraad tot definitieve vaststelling van de gemeentelijk
 <br>
 De Vlaamse Regering gaat alleen over tot vernietiging als ze van oordeel is dat de onverenigbaarheid, de strijdigheid of de niet-naleving, vermeld in het derde lid, niet kan worden hersteld, weggewerkt of opgelost door het volgen van de procedure, vermeld in paragraaf 2/2.<br>
 <br>
-§ 2/2. In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen die ingaat de dag na de verzending van het schorsingsbesluit aan het college van burgemeester en schepenen, om de gemeentelijke stedenbouwkundige verordening opnieuw definitief vast te stellen. Bij de definitieve vaststelling van de verordening kunnen ten opzichte van de geschorste verordening alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
+§2/2. In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen die ingaat de dag na de verzending van het schorsingsbesluit aan het college van burgemeester en schepenen, om de gemeentelijke stedenbouwkundige verordening opnieuw definitief vast te stellen. Bij de definitieve vaststelling van de verordening kunnen ten opzichte van de geschorste verordening alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
 <br>
 De gemeentelijke stedenbouwkundige verordening wordt samen met het nieuwe besluit van de gemeenteraad onmiddellijk na de definitieve vaststelling met een beveiligde zending bezorgd aan de deputatie en het departement.<br>
 <br>
 Als de gemeenteraad binnen de voormelde termijn van negentig dagen geen nieuw besluit tot definitieve vaststelling van de gemeentelijke stedenbouwkundige verordening neemt, vervallen het geschorste gemeenteraadsbesluit en het ontwerp van gemeentelijke stedenbouwkundige verordening.<br>
 <br>
 Als het besluit van de gemeenteraad tot definitieve vaststelling van de gemeentelijke stedenbouwkundige verordening niet tijdig is geschorst of vernietigd, wordt de gemeenteraadsbeslissing houdende definitieve vaststelling van de gemeentelijke stedenbouwkundige verordening bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
-&nbsp;
+<br>
+§2/3. De gemeenteraad kan gemeentelijke bouwverordeningen of gemeentelijke stedenbouwkundige verordeningen wijzigen binnen de marges, vermeld in paragraaf 2.<br>
+<br>
+§2/4. De gemeenteraad kan gemeentelijke bouwverordeningen of gemeentelijke stedenbouwkundige verordeningen geheel of gedeeltelijk opheffen bij gemeenteraadsbesluit overeenkomstig de bepalingen van paragraaf 2.<br>
+<br>
+Het college van burgemeester en schepenen neemt de nodige maatregelen tot opheffing.<br>
+<br>
+In geval van een loutere opheffing van een verordening, vastgesteld voor 1 september 2009, zijn de bepalingen van paragraaf 2, zesde tot en met achtste lid, niet van toepassing en kan de gemeenteraad onmiddellijk tot opheffing overgaan.<br>
+<br>
+Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over plannen en programma’s, opgenomen in hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+Het gemeenteraadsbesluit wordt bezorgd aan het departement en bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
 
 ### ART. 2.3.3.
 
@@ -1186,7 +1245,8 @@ Onverminderd de bepalingen van het decreet van 25 mei 2007 houdende de   harmoni
 
 ### ART. 2.4.5.
 
-Op verzoek van de onteigenende instantie worden de aankoopcomités van onroerende goederen belast met alle aankopen en onteigeningen van percelen ter uitvoering van de ruimtelijke uitvoeringsplannen.<br /><br />
+Op verzoek van de onteigenende instantie wordt de afdeling Vastgoedtransacties bij de Vlaamse Belastingdienst belast met alle aankopen en onteigeningen van percelen ter uitvoering van de ruimtelijke uitvoeringsplannen.<br>
+&nbsp;
 
 ### ART. 2.4.6.
 
@@ -1578,7 +1638,8 @@ a) bedrijven en hun constructies slechts hoofdzakelijk vergund zijn indien de vo
 b) overige constructies slechts hoofdzakelijk vergund zijn indien ten minste negentig procent van het bruto-bouwvolume van de constructie, gemeten met inbegrip van buitenmuren en dak, en met uitsluiting van het volume van de gebruikelijke onderkeldering onder het maaiveld en van de fysisch aansluitende aanhorigheden die in bouwtechnisch opzicht een rechtstreekse aansluiting of steun vinden bij het hoofdgebouw, vergund of vergund geacht is, ook wat de functie betreft;<br>
 8° ...;<br>
 9° onderhoudswerken : werken, andere dan stabiliteitswerken, die het gebruik van een constructie voor de toekomst ongewijzigd veilig stellen door het bijwerken, herstellen of vervangen van geërodeerde of versleten materialen of onderdelen;<br>
-10° rechtens toegelaten bewijsmiddelen : de bewijsmiddelen, vermeld in boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek;<br>
+9°/1 publiciteitsinrichting: elk visueel middel en elke constructie, met inbegrip van alle onderdelen ervan en ongeacht het verplaatsbare of tijdelijke karakter ervan, met als doel publiciteitsboodschappen op een vaste plaats kenbaar te maken aan het publiek;<br>
+10° rechtens toegelaten bewijsmiddelen : de bewijsmiddelen, vermeld in&nbsp;boek 8, hoofdstuk 3, van het Burgerlijk Wetboek;<br>
 11° stabiliteitswerken : werken die betrekking hebben op de constructieve elementen van een constructie, zoals :<br>
 a) het vervangen van dakgebintes of dragende balken van het dak, met uitzondering van plaatselijke herstellingen,<br>
 b) het geheel of gedeeltelijk herbouwen of vervangen van buitenmuren of dragende binnenmuren, zelfs met recuperatie van de bestaande stenen;<br>
@@ -1689,11 +1750,17 @@ Als de zorgwoning na het beëindigen van de zorgsituatie aangewend zal worden vo
 
 ### ART. 4.2.5.
 
-Provinciale en gemeentelijke stedenbouwkundige verordeningen kunnen   :<BR>1° ...;<BR>2° voor meldingsplichtige handelingen een vergunningsplicht   invoeren;<BR>3° voor vrijgestelde handelingen een meldingsplicht   invoeren.<BR><BR>Provinciale en gemeentelijke stedenbouwkundige verordeningen   kunnen de vergunningsplicht niet vervangen door een meldingsplicht. Zij kunnen   vergunnings- of meldingsplichtige handelingen niet vrijstellen van de   vergunnings- of meldingsplicht.<BR><BR>
+Een gemeentelijke stedenbouwkundige verordening kan voor het gehele grondgebied van de gemeente of voor een deel ervan, alleen een vergunningsplicht invoeren voor vrijgestelde of niet-vergunningsplichtige stedenbouwkundige handelingen die voorkomen op een door de Vlaamse Regering vast te stellen limitatieve lijst van mogelijke vergunningsplichtige handelingen op gemeentelijk niveau.<br>
+<br>
+Een verordening kan de vergunningsplicht niet vervangen door een meldingsplicht of vrijstelling. Een verordening kan een meldingsplicht niet vervangen door een vergunningsplicht of vrijstelling.
 
 ### ART. 4.2.6.
 
-De provinciale en gemeentelijke stedenbouwkundige verordeningen die werden   vastgesteld vóór 1 september 2009 en die op grond van de mogelijkheden, voorzien   in de vroegere regelgeving, een vergunningsplicht hebben ingevoerd voor van   vergunning vrijgestelde stedenbouwkundige handelingen, blijven geldig tot ze   worden opgeheven. De verordenende overheid kan na 1 september 2009 wijzigingen   aan deze stedenbouwkundige verordeningen aanbrengen binnen de marges, vermeld in   artikel 4.2.5.<BR><BR>
+De gemeenteraden en provincieraden brengen eventueel bestaande bouwverordeningen of stedenbouwkundige verordeningen waarin bijkomende vergunningsplichten of meldingsplichten zijn opgenomen die niet zijn voorzien in artikel 4.2.5, in overeenstemming met de bepalingen van deze codex binnen een termijn van twee jaar na datum waarop de Vlaamse Regering de limitatieve lijst, vermeld in artikel 4.2.5, eerste lid, heeft vastgesteld.<br>
+<br>
+Bepalingen in bestaande gemeentelijke of provinciale stedenbouwkundige verordeningen die bijkomende vergunningsplichten ingevoerd hebben, die niet zijn voorzien in artikel 4.2.5, worden van rechtswege opgeheven twee jaar na de datum waarop de Vlaamse Regering de limitatieve lijst, vermeld in artikel 4.2.5, eerste lid, heeft vastgesteld.<br>
+<br>
+Bepalingen in bestaande gemeentelijke of provinciale stedenbouwkundige verordeningen die bijkomende meldingsplichten regelen, worden van rechtswege opgeheven twee jaar na de datum waarop de Vlaamse Regering de limitatieve lijst, vermeld in artikel 4.2.5, eerste lid, heeft vastgesteld.
 
 ## [Sectie 4 As-built (verv. decr. 8 december 2017, art. 56, I: 30 december 2017)]
 
@@ -1706,7 +1773,7 @@ De uitvoering van vergunde stedenbouwkundige handelingen betreffende een constru
 <br>
 Het eerste lid is slechts van toepassing voor zover de handelingen, opgesomd in het eerste lid, niet uitdrukkelijk verboden of beperkt zijn in de vergunning.<br>
 <br>
-In afwijking van het eerste lid kunnen handelingen die het voorwerp uitmaken van provinciale of gemeentelijke stedenbouwkundige verordeningen, opgemaakt met toepassing van artikel 4.2.5 of 4.2.6, niet gecombineerd worden met de uitvoering van vergunde stedenbouwkundige handelingen betreffende een constructie.<br>
+In afwijking van het eerste lid kunnen handelingen die het voorwerp uitmaken van gemeentelijke stedenbouwkundige verordeningen, opgemaakt met toepassing van artikel 4.2.5 of 4.2.6, niet gecombineerd worden met de uitvoering van vergunde stedenbouwkundige handelingen betreffende een constructie.<br>
 <br>
 De handelingen, vermeld in het eerste lid, worden niet beschouwd als strijdig met de verleende stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen.
 
@@ -1842,7 +1909,7 @@ Een aanpassing van de plannen, zoals vermeld in het tweede lid, is slechts mogel
 <br>
 De gemeenteraad kan gemotiveerd beslissen dat de voorschriften van een verkaveling in afwijking op het eerste lid, 1°, c), behouden blijven als weigeringsgrond voor zover van die verkavelingsvoorschriften niet op geldige wijze is afgeweken. Deze gemeenteraadsbeslissing wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treedt in werking veertien dagen na de bekendmaking ervan en is van toepassing op vergunningsaanvragen die worden ingediend vanaf de inwerkingtreding ervan.<br>
 <br>
-De termijn van vijftien jaar, vermeld in het eerste lid, 1°, b) en c), wordt berekend vanaf de datum van afgifte van de oorspronkelijke vergunning in laatste administratieve aanleg. Als de vergunning uitdrukkelijk melding maakt van de verschillende fasen van het verkavelingsproject, wordt de termijn gerekend per fase. Voor de tweede fase en volgende fasen wordt de termijn dientengevolge gerekend vanaf de aanvangsdatum van de fase in kwestie.<br>
+De termijn van vijftien jaar, vermeld in het eerste lid, 1°, c), wordt berekend vanaf de datum van afgifte van de oorspronkelijke vergunning in laatste administratieve aanleg. Als de vergunning uitdrukkelijk melding maakt van de verschillende fasen van het verkavelingsproject, wordt de termijn gerekend per fase. Voor de tweede fase en volgende fasen wordt de termijn dientengevolge gerekend vanaf de aanvangsdatum van de fase in kwestie.<br>
 <br>
 § 2. De overeenstemming met een goede ruimtelijke ordening wordt beoordeeld met inachtneming van volgende beginselen :<br>
 1° het aangevraagde wordt, voor zover noodzakelijk of relevant, beoordeeld aan de hand van aandachtspunten en criteria die betrekking hebben op de functionele inpasbaarheid, de mobiliteitsimpact, de schaal, het ruimtegebruik en de bouwdichtheid, visueel-vormelijke elementen, cultuurhistorische aspecten en het bodemreliëf, en op hinderaspecten, gezondheid, gebruiksgenot en veiligheid in het algemeen, in het bijzonder met inachtneming van de doelstellingen van artikel 1.1.4;<br>
@@ -1881,7 +1948,7 @@ Een vergunning kan worden geweigerd indien uit een verplicht in te winnen advies
 <br>
 Een voldoende uitgeruste weg voldoet voorts aan de uitrustingsvoorwaarden die worden gesteld in stedenbouwkundige voorschriften of vereist worden door de plaatselijke toestand, daaronder begrepen de voorzieningen die in de gemeente voorhanden zijn en het ruimtelijk beleid van de gemeente.<br>
 <br>
-§ 3. In het geval de opdrachtgever instaat voor zowel het bouwen van de gebouwen als de verwezenlijking van de voor het project noodzakelijke wegeniswerken, of in het geval de Vlaamse Maatschappij voor Sociaal Wonen of een overheid de wegenis aanbesteedt, kan de omgevingsvergunning voor de gebouwen worden afgeleverd zodra de omgevingsvergunning voor de wegeniswerken is verleend.<br>
+§ 3. In het geval de opdrachtgever instaat voor zowel het bouwen van de gebouwen als de verwezenlijking van de voor het project noodzakelijke wegeniswerken, of in het geval de Vlaamse Maatschappij voor Sociaal Wonen de wegenis aanbesteedt of de wegenis aangelegd wordt door of in opdracht van de overheid, kan de omgevingsvergunning voor de gebouwen worden afgeleverd zodra de omgevingsvergunning voor de wegeniswerken is verleend en de nodige financiële waarborgen voorzien zijn.<br>
 <br>
 Het vergunningverlenende bestuursorgaan kan in dat geval een afdoende financiële waarborg voor de uitvoering van de wegeniswerken eisen.<br>
 <br>
@@ -1893,7 +1960,9 @@ Het vergunningverlenende bestuursorgaan kan in dat geval een afdoende financiël
 
 ### ART. 4.3.6.
 
-Voor het bouwen of uitbreiden van een bedrijfswoning bij een bedrijf in een daartoe geschikt bestemmingsgebied, kan een omgevingsvergunning worden verleend voor een volume van ten hoogste 1 000 m3, of 1 250 m3 in geval van bewoning door meer dan één met het bedrijf verbonden gezin.<br>
+Voor het bouwen of uitbreiden van een bedrijfswoning bij een bedrijf in een daartoe geschikt bestemmingsgebied, kan een omgevingsvergunning worden verleend voor een bouwvolume van ten hoogste 1000 m³.<br>
+<br>
+In geval van bewoning door meer dan één gezin dat aan het bedrijf verbonden is, kan een omgevingsvergunning worden verleend voor een bouwvolume van ten hoogste 1250 m³. Voor de berekening van dat maximale bouwvolume wordt uitgegaan van het gezamenlijke bouwvolume van alle bedrijfswoningen bij hetzelfde bedrijf.<br>
 <br>
 Een vergunning wordt geweigerd als de aanvraag betrekking heeft op het oprichten van een tweede of een bijkomende, vrijstaande bedrijfswoning bij eenzelfde bedrijf.<br>
 &nbsp;
@@ -1969,7 +2038,13 @@ op een operationele waterzuiveringsinstallatie;<br>
 
 ## HOOFDSTUK IV Afwijkingen van stedenbouwkundige voorschriften
 
-## Afdeling 1 Afwijkingsmogelijkheden
+## Afdeling 1 Algemene bepaling
+
+### ART 4.4.1/0.
+
+Er kan slechts toepassing gemaakt worden van de afwijkingen, vermeld in dit hoofdstuk, op gemotiveerd verzoek van de vergunningsaanvrager.
+
+## Afdeling 1/1 Afwijkingsmogelijkheden
 
 ## Onderafdeling 1 Beperkte afwijkingen
 
@@ -2016,15 +2091,15 @@ De termijn van vijftien jaar, vermeld in het eerste lid en tweede lid, wordt ber
 
 ### ART. 4.4.3.
 
-Voor een perceel dat niet voor woningbouw bestemd is, kan desalniettemin een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden voor het bouwen van een eengezinswoning worden afgegeven, indien voldaan is aan alle hiernavolgende voorwaarden :<br>
+Voor een perceel dat in een woonreservegebied ligt, kan een omgevingsvergunning voor het bouwen van een eengezinswoning worden afgegeven, indien voldaan is aan alle hiernavolgende voorwaarden :<br>
 1° de nieuwe woning is van :<br>
 a) hetzij het driegeveltype, in welk geval zij aangebouwd wordt bij een wachtmuur van een bestaande woning op een belendend perceel,<br>
 b) hetzij het gesloten bouwtype, in welk geval zij gebouwd wordt op een perceel dat gelegen is tussen twee wachtmuren;<br>
-2° het perceel waarop de nieuwe woning opgericht wordt, heeft een oppervlakte van ten hoogste 650 m2;<br>
+2° ...;<br>
 3° het bouwvolume van de nieuwe woning bedraagt ten hoogste 1 000 m3;<br>
 4° de aanpalende bestaande woning of woningen is of zijn per 1 september 2009 op het ogenblik van de vergunningsaanvraag voor de nieuwe woning hoofdzakelijk vergund en niet verkrot.<br>
 <br>
-De mogelijkheden, vermeld in het eerste lid, gelden niet in ruimtelijk kwetsbare gebieden. Zij gelden evenmin in het geval waarin een aanbouw bij de bestaande woning of woningen uitdrukkelijk verboden wordt door een specifiek ruimtelijk uitvoeringsplan of bijzonder plan van aanleg betreffende zonevreemde constructies.<br>
+De mogelijkheid, vermeld in het eerste lid, geldt niet als een aanbouw bij de bestaande woning of woningen uitdrukkelijk verboden wordt door een bijzonder plan van aanleg of een ruimtelijk uitvoeringsplan.<br>
 <br>
 Voor de toepassing van het eerste lid, 1°, wordt onder « wachtmuur » verstaan :<br>
 1° een wand die op 1 september 2009 deel uitmaakt van een dubbele wand, opgetrokken op de perceelsgrens;<br>
@@ -2182,7 +2257,14 @@ De gemeenteraad kan gemotiveerd beslissen dat voor een bijzonder plan van aanleg
 
 ### ART. 4.4.10.
 
-§ 1. Deze afdeling is van toepassing op vergunningsaanvragen die betrekking hebben op hoofdzakelijk vergunde en niet verkrotte zonevreemde constructies, met uitzondering van publiciteitsinrichtingen of uithangborden.<br /><br />Het voldoen aan de voorwaarden, vermeld in het eerste lid, wordt beoordeeld op het ogenblik van de eerste vergunningsaanvraag tot verbouwen, herbouwen of uitbreiden, of, in de gevallen, vermeld in onderafdeling 3 en 4, op de vooravond van de afbraak, de vernietiging of de beschadiging.<br /><br />§ 2. De basisrechten van deze afdeling zijn van toepassing in gebieden, geordend door een ruimtelijk uitvoeringsplan of een plan van aanleg.<br /><br />Een ruimtelijk uitvoeringsplan kan de basisrechten van deze afdeling aanvullen en uitbreiden. Dergelijk plan kan evenwel ook strengere voorwaarden bepalen op het vlak van de maximaal toegelaten volumes bij herbouw.<br /><br />
+§ 1. Deze afdeling is van toepassing op vergunningsaanvragen die betrekking hebben op hoofdzakelijk vergunde en niet verkrotte zonevreemde constructies, met uitzondering van publiciteitsinrichtingen.<br>
+<br>
+Het voldoen aan de voorwaarden, vermeld in het eerste lid, wordt beoordeeld op het ogenblik van de eerste vergunningsaanvraag tot verbouwen, herbouwen of uitbreiden, of, in de gevallen, vermeld in onderafdeling 3 en 4, op de vooravond van de afbraak, de vernietiging of de beschadiging.<br>
+<br>
+§ 2. De basisrechten van deze afdeling zijn van toepassing in gebieden, geordend door een ruimtelijk uitvoeringsplan of een plan van aanleg.<br>
+<br>
+Een ruimtelijk uitvoeringsplan kan de basisrechten van deze afdeling aanvullen en uitbreiden. Dergelijk plan kan evenwel ook strengere voorwaarden bepalen op het vlak van de maximaal toegelaten volumes bij herbouw.<br>
+&nbsp;
 
 ### ART. 4.4.11.
 
@@ -2333,7 +2415,20 @@ Als een zonevreemde constructie, niet zijnde woningbouw, vernield of   beschadig
 
 ### ART. 4.4.23.
 
-Het vergunningverlenende bestuursorgaan mag bij het verlenen van een   omgevingsvergunning die betrekking heeft op een vergunningsplichtige   functiewijziging van een gebouw of een gebouwencomplex, afwijken van de   bestemmingsvoorschriften, voor zover voldaan is aan beide hiernavolgende   voorwaarden :<BR>1° het gebouw of het gebouwencomplex beantwoordt op het   ogenblik van de aanvraag aan alle hiernavolgende vereisten :<BR>a) het gebouw of   het gebouwencomplex bestaat,<BR>b) het gebouw of het gebouwencomplex is niet   verkrot,<BR>c) het gebouw of het gebouwencomplex is hoofdzakelijk vergund,<BR>d)   het gebouw of het gebouwencomplex is niet gelegen in :<BR>1) ruimtelijk   kwetsbare gebieden, met uitzondering van parkgebieden en agrarische gebieden met   ecologisch belang of ecologische waarde,<BR>2) recreatiegebieden, zijnde de als   dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend   door een ruimtelijk uitvoeringsplan, die onder de categorie van   gebiedsaanduiding « recreatie » sorteren;<BR>2° de functiewijziging komt voor op   een door de Vlaamse Regering vast te stellen lijst, waarin nadere regelen en   bijkomende voorwaarden voor de betrokken wijzigingen van gebruik kunnen worden   bepaald.<BR><BR>De weigering om een afwijking, vermeld in het eerste lid, te   verlenen, geeft nimmer aanleiding tot een planschadevergoeding.
+Het vergunningverlenende bestuursorgaan mag bij het verlenen van een omgevingsvergunning die betrekking heeft op een vergunningsplichtige functiewijziging van een gebouw of een gebouwencomplex, afwijken van de bestemmingsvoorschriften, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br>
+1° het gebouw of het gebouwencomplex beantwoordt op het ogenblik van de aanvraag aan alle hiernavolgende vereisten :<br>
+a) het gebouw of het gebouwencomplex bestaat,<br>
+b) het gebouw of het gebouwencomplex is niet verkrot,<br>
+c) het gebouw of het gebouwencomplex is hoofdzakelijk vergund,<br>
+d) het gebouw of het gebouwencomplex is niet gelegen in :<br>
+1) ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden en agrarische gebieden met ecologisch belang of ecologische waarde,<br>
+2) recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren;<br>
+2° de functiewijziging komt voor op een door de Vlaamse Regering vast te stellen lijst, waarin nadere regelen en bijkomende voorwaarden voor de betrokken wijzigingen van gebruik kunnen worden bepaald;<br>
+3° de functiewijziging mag de normale bedrijfsvoering van vergunde of vergund geachte bedrijven in de omgeving niet in het gedrang brengen.<br>
+<br>
+De weigering om een afwijking, vermeld in het eerste lid, te verlenen, geeft nimmer aanleiding tot een planschadevergoeding.<br>
+<br>
+Bij de beoordeling van de voorwaarde, vermeld in het eerste lid, 1°, c), wordt, voor wat de functie betreft, de laatst vergunde of vergund geachte functie als uitgangspunt genomen.
 
 ## Afdeling 4 Planologische attesten
 
@@ -2341,7 +2436,7 @@ Het vergunningverlenende bestuursorgaan mag bij het verlenen van een   omgevings
 
 Een planologisch attest vermeldt of een bestaand, hoofdzakelijk vergund en niet-verkrot bedrijf al dan niet behouden kan worden op de plaats waar het gevestigd is. Bij behoud vermeldt het planologisch attest welke ruimtelijke ontwikkelingsmogelijkheden er op korte en op lange termijn mogelijk zijn. Zowel aan het behoud als aan de ruimtelijke ontwikkelingsmogelijkheden kunnen voorwaarden worden verbonden.<br>
 <br>
-Het planologisch attest vermeldt, rekening gehouden met de uitspraak over het behoud en de ontwikkelingsmogelijkheden, of een procedure tot opmaak of tot wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg zal worden opgestart.<br>
+Het planologisch attest vermeldt, rekening gehouden met de uitspraak over het behoud en de ontwikkelingsmogelijkheden, of een procedure tot opmaak of tot wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg zal worden opgestart.&nbsp;Als het attest de opmaak of wijziging van een ruimtelijk uitvoeringsplan vooropstelt om in ontwikkelingsmogelijkheden te voorzien, vermeldt het attest ook op welke wijze daarbij voldaan zou kunnen worden aan de bepalingen van artikel 2.2.6/1.<br>
 <br>
 In het planologisch attest worden de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten gelijktijdig tegen elkaar afgewogen. Daarenboven houdt het planologisch attest rekening met de ruimtelijke draagkracht, de gevolgen voor het leefmilieu, en de culturele, economische, esthetische en sociale gevolgen.<br>
 <br>
@@ -2409,7 +2504,14 @@ Bij de afgifte van een attest dat het behoud van het bedrijf op de plaats waar h
 
 ### ART. 4.4.28.
 
-Een planologisch attest dat het betrokken bestuursorgaan conform artikel   4.4.26, § 1, verplicht tot de opmaak of de wijziging van een ruimtelijk   uitvoeringsplan of een plan van aanleg, blijft gelden tot het ruimtelijk   uitvoeringsplan definitief wordt vastgesteld.<BR><BR>Dergelijk planologisch   attest vervalt evenwel :<BR>1° als binnen het jaar na afgifte van het   planologisch attest geen aanvraag werd ingediend voor een omgevingsvergunning   voor stedenbouwkundige handelingen in geval het gaat om een attest dat met   toepassing van artikel 4.4.26, § 2, het mogelijk maakt een vergunning af te   geven waarbij afgeweken wordt van de vigerende stedenbouwkundige   voorschriften;<BR>2° als deze omgevingsvergunning voor stedenbouwkundige   handelingen is vervallen;<BR>3° als het bedrijf zijn activiteit stopzet;<BR>4°   bij overdracht van enig zakelijk recht op het bedrijf of individuele   bedrijfsgebouwen;<BR>5° vijf jaar na de afgifte van het planologisch   attest.
+Een planologisch attest dat het betrokken bestuursorgaan conform artikel 4.4.26, § 1, verplicht tot de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg, blijft gelden tot het ruimtelijk uitvoeringsplan definitief wordt vastgesteld.<br>
+<br>
+Dergelijk planologisch attest vervalt evenwel :<br>
+1° als binnen het jaar na betekening van het planologisch attest geen aanvraag werd ingediend voor een omgevingsvergunning voor stedenbouwkundige handelingen in geval het gaat om een attest dat met toepassing van artikel 4.4.26, § 2, het mogelijk maakt een vergunning af te geven waarbij afgeweken wordt van de vigerende stedenbouwkundige voorschriften;<br>
+2° als deze omgevingsvergunning voor stedenbouwkundige handelingen is vervallen;<br>
+3° als het bedrijf zijn activiteit stopzet;<br>
+4° bij overdracht van enig zakelijk recht op het bedrijf of individuele bedrijfsgebouwen;<br>
+5° vijf jaar na de afgifte van het planologisch attest.
 
 ### ART. 4.4.29.
 
@@ -2847,12 +2949,12 @@ Elk van de personen, vermeld in artikel 4.8.11, § 1, eerste lid, kan in de zaak
 
 ### ART. 5.1.1.
 
-§ 1. Een plannenregister is een gemeentelijk gegevensbestand, waarin voor het grondgebied van de gemeente ten minste volgende gegevens zijn opgenomen :<br>
+§1. Een plannenregister bevat ten minste de volgende informatie over het grondgebied van de gemeente:<br>
 1° de grafische plannen en de daarbij horende stedenbouwkundige voorschriften van de ruimtelijke uitvoeringsplannen, voorkeursbesluiten, projectbesluiten en de plannen van aanleg, evenals van de niet-vervallen ontwerpen van dergelijke plannen of besluiten;<br>
 2° de aanduiding van de delen van de vigerende plannen waarop een voorkooprecht, vermeld in artikel 2.4.1 of artikel 34 van het decreet van 25 april 2014 betreffende complexe projecten, geldt;<br>
 3° de aanduiding van de percelen die het voorwerp hebben uitgemaakt van een planologische bestemmingswijziging die aanleiding kan geven tot een planschadevergoeding, vermeld in artikel 2.6.1, een planbatenheffing, vermeld in artikel 2.6.4, of een bestemmingswijzigingscompensatie, vermeld in boek 6, titel 2, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-4° de rooilijnplannen;<br>
-5° de onteigeningsplannen;<br>
+4° de rooilijnplannen voor zover de opmaak van deze plannen geïntegreerd wordt in de procedure voor de opmaak van ruimtelijke uitvoeringsplannen, voorkeursbesluiten, projectbesluiten en plannen van aanleg;<br>
+5° de onteigeningsplannen voor zover de opmaak van deze plannen geïntegreerd wordt in de procedure voor de opmaak van ruimtelijke uitvoeringsplannen, voorkeursbesluiten, projectbesluiten en plannen van aanleg;<br>
 6° de aanduiding van de gronden die conform artikel 5.6.8, § 1, van deze codex beschouwd worden als `watergevoelig openruimtegebied';<br>
 7° de aanduiding van de gronden waarvoor de reservatiestrook is opgeheven conform artikel 7.4.2/3 van deze codex;<br>
 8° de beslissing van de gemeenteraad inzake de afwijkingsmogelijkheid van een bijzonder plan van aanleg ouder dan vijftien jaar, conform artikel 4.4.9/1, laatste lid, van deze codex;<br>
@@ -2860,15 +2962,13 @@ Elk van de personen, vermeld in artikel 4.8.11, § 1, eerste lid, kan in de zaak
 <br>
 De Vlaamse Regering kan de wijze bepalen waarop in het plannenregister ruimtelijk relevante beschermingsvoorschriften opgenomen worden ten gevolge van regelgeving binnen andere beleidsvelden dan de ruimtelijke ordening.<br>
 <br>
-§ 2. Elke gemeente is verplicht om een plannenregister op te maken, te actualiseren, ter inzage te leggen en er uittreksels uit af te leveren volgens de bepalingen van deze codex.<br>
+§2. Elke gemeente is verplicht om een plannenregister op te maken, te actualiseren, ter inzage te leggen en er uittreksels uit af te leveren volgens de bepalingen van deze codex.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de opmaak en de actualisering van het plannenregister. Zij kan de specifieke wijze bepalen waarop artikel 335 van het decreet van 22 december 2017 over het lokaal bestuur geoperationaliseerd wordt indien de gemeente zich niet gedraagt naar de bij of krachtens deze afdeling voorgeschreven regelen.<br>
 <br>
-§ 3. De overheden die belast zijn met het opmaken van stedenbouwkundige voorschriften, sturen ambtshalve een afschrift van het deel dat betrekking heeft op het grondgebied van de gemeente, naar het college van burgemeester en schepenen, uiterlijk binnen vijfenveertig dagen na de voorlopige vaststelling, de definitieve vaststelling, respectievelijk de goedkeuring. De betrokken overheden zijn verantwoordelijk voor de overeenstemming van het meegedeelde afschrift met de stukken die zij in hun bezit hebben.<br>
+§3. De overheden die belast zijn met het opmaken van de gegevens en documenten, vermeld in paragraaf 1, laden de gegevens en de documenten daarover op in het digitaal platform, vermeld in artikel 2.2.1, §2, onmiddellijk na de voorlopige vaststelling, de definitieve vaststelling, respectievelijk de goedkeuring. Elke overheid is verantwoordelijk voor de overeenstemming van de opgeladen gegevens en documenten met de stukken die ze in haar bezit heeft.<br>
 <br>
-De gegevens, vermeld in § 1, worden geregistreerd binnen een termijn van veertien dagen, hetzij na de beslissing van de gemeenteraad, hetzij na de ontvangst van de betrokken informatie. Het college van burgemeester en schepenen is verantwoordelijk voor de overeenstemming van het plannenregister met de stukken die erin moeten worden opgenomen.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen betreffende de informatieplichten, vermeld in het eerste lid.
+Het college van burgemeester en schepenen neemt de gegevens en de documenten, vermeld in het eerste lid, op in het plannenregister binnen een termijn van veertien dagen, hetzij na de beslissing van de gemeenteraad, hetzij nadat de gegevens en documenten opgeladen zijn in het digitaal platform, vermeld in artikel 2.2.1, §2. Het college van burgemeester en schepenen is verantwoordelijk voor de overeenstemming van het plannenregister met de stukken die erin moeten worden opgenomen.
 
 ## Afdeling 2 Vergunningenregister
 
@@ -2901,7 +3001,23 @@ De Vlaamse Regering kan nadere regels bepalen voor de opmaak en de actualisering
 
 ### ART. 5.1.3.
 
-§ 1. Bestaande constructies, met uitzondering van publiciteitsinrichtingen   of uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin   van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond   dat ze gebouwd werden vóór 22 april 1962, worden in het vergunningenregister   opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de   gemeentelijke overheid rust ter zake een actieve onderzoeksplicht.<BR><BR>De   vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande   constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van   dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund   geacht ».<BR><BR>De vaststelling van het feit dat de constructie niet meer   bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het   voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven   onregelmatigheden, geldt als motivering voor de weigering tot opname als «   vergund geacht ».<BR><BR>Een weigering tot opname als « vergund geacht », wordt   per beveiligde zending aan de eigenaar betekend.<BR><BR>§ 2. Bestaande   constructies, met uitzondering van publiciteitsinrichtingen of uithangborden,   waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel   III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden   in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het   gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de   overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem   bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het   optrekken of plaatsen van de constructie, worden in het vergunningenregister   opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de   gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het   vergunningenregister vermeldt de datum van opname van de constructie als «   vergund geacht ».<BR><BR>De vaststelling van het feit dat bij de overheid geen   geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund   geacht ».<BR><BR>De vaststelling dat bij de overheid een geldig tegenbewijs   bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de   weigering tot opname als « vergund geacht ».<BR><BR>Een weigering tot opname als   « vergund geacht », wordt per beveiligde zending aan de eigenaar betekend. Deze   mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een   gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van   vergunningenregister.<BR><BR>§ 3. De opname of de weigering tot opname van een   constructie als « vergund geacht » in het vergunningenregister kan worden   bestreden met een beroep bij de Raad voor Vergunningsbetwistingen,   overeenkomstig en met inachtneming van de regelen, vermeld in hoofdstuk VIII van   titel IV en het decreet van 4 april 2014 betreffende de organisatie en de   rechtspleging van sommige Vlaamse bestuursrechtscolleges. Artikel 14, § 3, van   de gecoördineerde wetten op de Raad van State is van overeenkomstige   toepassing.
+§ 1. Bestaande constructies, met uitzondering van publiciteitsinrichtingen, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek 8, hoofdstuk 3, van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden vóór 22 april 1962, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht.<br>
+<br>
+De vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund geacht ».<br>
+<br>
+De vaststelling van het feit dat de constructie niet meer bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven onregelmatigheden, geldt als motivering voor de weigering tot opname als « vergund geacht ».<br>
+<br>
+Een weigering tot opname als « vergund geacht », wordt per beveiligde zending aan de eigenaar betekend.<br>
+<br>
+§ 2. Bestaande constructies, met uitzondering van publiciteitsinrichtingen, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek 8, hoofdstuk 3, van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het vergunningenregister vermeldt de datum van opname van de constructie als « vergund geacht ».<br>
+<br>
+De vaststelling van het feit dat bij de overheid geen geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund geacht ».<br>
+<br>
+De vaststelling dat bij de overheid een geldig tegenbewijs bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de weigering tot opname als « vergund geacht ».<br>
+<br>
+Een weigering tot opname als « vergund geacht », wordt per beveiligde zending aan de eigenaar betekend. Deze mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van vergunningenregister.<br>
+<br>
+§ 3. De opname of de weigering tot opname van een constructie als « vergund geacht » in het vergunningenregister kan worden bestreden met een beroep bij de Raad voor Vergunningsbetwistingen, overeenkomstig en met inachtneming van de regelen, vermeld in hoofdstuk VIII van titel IV en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Artikel 14, § 3, van de gecoördineerde wetten op de Raad van State is van overeenkomstige toepassing.
 
 ### ART. 5.1.4.
 
@@ -2968,11 +3084,17 @@ Daarnaast worden eveneens de gegevens over de vergunning opgenomen indien de len
 
 ### ART. 5.2.2.
 
-Bij verdeling van een onroerend goed zonder dat een omgevingsvergunning   voor het verkavelen van gronden is afgegeven, stuurt de instrumenterende   ambtenaar bij aangetekende brief, twintig dagen vóór de datum die voor de   openbare verkoping of voor de ondertekening van de akte is vastgesteld, het plan   van de verdeling en een attest waarin de aard van de akte en de in de akte te   vermelden bestemming van de kavels nader worden aangegeven, naar het college van   burgemeester en schepenen. De opmerkingen die het college van burgemeester en   schepenen eventueel en bij wijze van inlichting maakt, moeten in de akte worden   vermeld, evenals de vermelding dat voor de verdeling geen omgevingsvergunning   werd afgegeven en dat er geen zekerheid is wat betreft de mogelijkheid om op het   goed te bouwen of daarop enige vaste of verplaatsbare inrichting op te stellen   die voor bewoning kan worden gebruikt.<BR><BR>De instrumenterende ambtenaar   neemt bovendien een verwijzing naar artikel 4.2.1 van deze codex op in de   akte.<BR><BR>De onderhandse akten waarin die verrichtingen worden vastgelegd,   bevatten dezelfde vermeldingen.<BR><BR>Dit artikel geldt voor alle akten van   eigendomsoverdracht of eigendomsverklaring, verhuring voor meer dan negen jaar,   erfpacht of opstal.
+Bij verdeling van een onroerend goed zonder dat een omgevingsvergunning voor het verkavelen van gronden is afgegeven, stuurt de instrumenterende ambtenaar met een beveiligde zending, twintig dagen vóór de datum die voor de openbare verkoping of voor de ondertekening van de akte is vastgesteld, het plan van de verdeling en een attest waarin de aard van de akte en de in de akte te vermelden bestemming van de kavels nader worden aangegeven, naar het college van burgemeester en schepenen. De opmerkingen die het college van burgemeester en schepenen eventueel en bij wijze van inlichting maakt, moeten in de akte worden vermeld, evenals de vermelding dat voor de verdeling geen omgevingsvergunning werd afgegeven en dat er geen zekerheid is wat betreft de mogelijkheid om op het goed te bouwen of daarop enige vaste of verplaatsbare inrichting op te stellen die voor bewoning kan worden gebruikt.<br>
+<br>
+De instrumenterende ambtenaar neemt bovendien een verwijzing naar artikel 4.2.1 van deze codex op in de akte.<br>
+<br>
+De onderhandse akten waarin die verrichtingen worden vastgelegd, bevatten dezelfde vermeldingen.<br>
+<br>
+Dit artikel geldt voor alle akten van eigendomsoverdracht of eigendomsverklaring, verhuring voor meer dan negen jaar, erfpacht of opstal.
 
 ### ART. 5.2.3.
 
-§ 1. Vóór de vervreemding, verhuring voor meer dan negen jaar of vestiging van een zakelijk recht, met inbegrip van bezwaren met hypotheek, maar met uitzondering van erfdienstbaarheden, betreffende een kavel gelegen in een verkaveling waarvoor een omgevingsvergunning voor het verkavelen van gronden is verkregen, moet, op verzoek van de eigenaar of eigenaars van de stukken grond, voor een instrumenterende ambtenaar een akte worden verleden van de verdeling van die stukken grond en van de aan de verkaveling verbonden lasten. De akte moet de kadastrale omschrijving van de goederen vermelden, de eigenaars identificeren en hun titel van eigendom aangeven. De omgevingsvergunning voor het verkavelen van gronden en het verkavelingsplan worden als bijlagen bij die akte gevoegd en worden, samen met de akte, op verzoek van de instrumenterende ambtenaar die de akte heeft verleden, binnen twee maanden na het verlijden ervan, overgeschreven op het hypotheekkantoor van het arrondissement waar de goederen zijn gelegen. De overschrijving van het verkavelingsplan mag worden vervangen door de neerlegging op het hypotheekkantoor van een door de instrumenterende ambtenaar gewaarmerkte afdruk van dat plan.<br>
+§ 1. Vóór de vervreemding, verhuring voor meer dan negen jaar of vestiging van een zakelijk recht, met inbegrip van bezwaren met hypotheek, maar met uitzondering van erfdienstbaarheden, betreffende een kavel gelegen in een verkaveling waarvoor een omgevingsvergunning voor het verkavelen van gronden is verkregen, moet, op verzoek van de eigenaar of eigenaars van de stukken grond, voor een instrumenterende ambtenaar een akte worden verleden van de verdeling van die stukken grond en van de aan de verkaveling verbonden lasten. De akte moet de kadastrale omschrijving van de goederen vermelden, de eigenaars identificeren en hun titel van eigendom aangeven. De omgevingsvergunning voor het verkavelen van gronden en het verkavelingsplan worden als bijlagen bij die akte gevoegd en worden, samen met de akte, op verzoek van de instrumenterende ambtenaar die de akte heeft verleden, binnen twee maanden na het verlijden ervan, overgeschreven op het bevoegde kantoor van de Algemene administratie van de Patrimoniumdocumentatie van het arrondissement waar de goederen liggen. De overschrijving van het verkavelingsplan mag worden vervangen door de neerlegging op het kantoor van de Algemene administratie van de Patrimoniumdocumentatie van een door de instrumenterende ambtenaar gewaarmerkte afdruk van dat plan.<br>
 <br>
 § 2. Heeft een eigenaar van een kavel een bijstelling van de omgevingsvergunning voor het verkavelen van gronden verkregen, dan moet ook, op zijn verzoek, en in zoverre de bijstelling van de omgevingsvergunning een wijziging van de perceelsconfiguratie, opgelegde lasten of de zakelijke rechten tot gevolg heeft,&nbsp;voor een instrumenterende ambtenaar een akte worden verleden van de wijzigingen die werden aangebracht in de verkaveling van de stukken grond of in de lasten van de verkaveling. De akte moet de kadastrale omschrijving van de goederen op het tijdstip van het verlijden vermelden, alle eigenaars van de in de verkavelingswijziging begrepen percelen identificeren en hun titel van eigendom aangeven. De akte moet eveneens een nauwkeurige opgave van de overschrijving van de verdelingsakte van de stukken grond bevatten. De beslissing tot bijstelling van de omgevingsvergunning voor het verkavelen van gronden en, in voorkomend geval, het nieuwe verdelingsplan worden als bijlage bij die akte gevoegd, om samen met die akte te worden overgeschreven zoals in § 1 is bepaald.<br>
 <br>
@@ -3099,11 +3221,11 @@ Bij de afgifte van elke omgevingsvergunning met betrekking tot een   weekendverb
 
 ## HOOFDSTUK V Diverse ondersteunings- en evaluatiemaatregelen
 
-## Afdeling 1 Ondersteuning van de implementatie van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid
+## Afdeling 1 ...
 
 ### ART. 5.5.1.
 
-De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten de wijze waarop de provincies en gemeenten door middel van de toekenning van financiële, personele of materiële middelen ondersteund worden bij de implementatie van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid.
+...
 
 ## Afdeling 2 Evaluatie en kwaliteitscontrole van aspecten van het vergunningenbeleid
 
@@ -3700,7 +3822,7 @@ De minimumstraffen zijn echter een gevangenisstraf van vijftien dagen en een gel
 <p>De hierna volgende handelingen en omissies worden stedenbouwkundige inbreuken genoemd, en worden bestraft met een exclusieve bestuurlijke geldboete van maximaal 400.000 euro :<br>
 1° de instandhouding van de illegale gevolgen van de misdrijven, vermeld in artikel 6.2.1, eerste lid, voor zover die gevolgen zich situeren in kwetsbaar gebied;<br>
 2° het schenden van de verplichtingen, vermeld in artikel 6.3.6, § 2, tweede en vierde lid, en artikel 6.4.9, § 2, tweede en vierde lid;<br>
-3° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.2.2 en 4.2.5, eerste lid, 3°, die voorafgaan aan de voorafgaande uitdrukkelijke of stilzwijgende aktename, vermeld in artikel&nbsp;6, tweede lid&nbsp;van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+3° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.2.2 en 4.2.5,&nbsp;die voorafgaan aan de voorafgaande uitdrukkelijke of stilzwijgende aktename, vermeld in artikel&nbsp;6, tweede lid&nbsp;van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 4° het schenden van de informatieplicht, vermeld in artikel 5.2.1 tot en met 5.2.6;<br>
 5° het uitvoeren&nbsp;van handelingen zonder de controle van een architect als die controle verplicht is met toepassing van artikel 4 van de wet van 20 februari 1939 op de bescherming van den titel en van het beroep van architect en de uitvoeringsbesluiten ervan;<br>
 6° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.4.1, § 3, tweede lid, in strijd met bijzondere plannen van aanleg, gemeentelijke uitvoeringsplannen en verkavelingsvergunningen of omgevingsvergunningen voor het verkavelen van gronden, voor zover die plannen of vergunningen, of de relevante delen ervan niet zijn opgenomen in een door de gemeenteraad vastgestelde lijst als vermeld in het voormelde artikel;<br>
@@ -3808,11 +3930,11 @@ Het verzet schorst de tenuitvoerlegging. Het Vlaamse Gewest kan de rechter verzo
 <br>
 § 4. Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van de voldoening van de opgelegde bestuurlijke geldboeten, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de schuldenaar en kan het een wettelijke hypotheek nemen op alle daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de schuldenaar.<br>
 <br>
-Het voorrecht, vermeld in paragraaf 1, neemt rang in onmiddellijk na de voorrechten, vermeld in artikel 19 en 20 van de Hypotheekwet van 16 december 1851, en in artikel 23 van boek II van het Wetboek van Koophandel.<br>
+Het voorrecht, vermeld in paragraaf 1, neemt rang in onmiddellijk na de voorrechten, vermeld in artikel 19 en 20 van de Hypotheekwet van 16 december 1851, en in artikel 23 van het Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen.<br>
 <br>
 De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel. De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in paragraaf 2. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br>
 <br>
-Artikel 17 van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval, de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan voor het vonnis van faillietverklaring.<br>
+Artikel XX.113, tweede lid, van het Wetboek van economisch recht is niet van toepassing op de wettelijke hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval, de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan voor het vonnis van faillietverklaring.<br>
 <br>
 § 5. De vordering tot betaling van de bestuurlijke geldboete verjaart na verloop van driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag waarop de bestuurlijke geldboete moest worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
 <br>
@@ -3895,7 +4017,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van dit artikel.
 
 <p>De Vlaamse Regering bepaalt de regels voor de betaling van de meerwaarde.</p>
 
-<p>§ 6. De dagvaarding is maar ontvankelijk na overschrijving van de gedinginleidende akte in het hypotheekkantoor van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
+<p>§ 6. De dagvaarding is maar ontvankelijk na overschrijving van de gedinginleidende akte in het bevoegde kantoor van de Algemene administratie van de Patrimoniumdocumentatie van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
 
 ### ART. 6.3.2.
 
@@ -3908,7 +4030,7 @@ Als de herstelvordering van de burgerlijke partij niet overeenstemt met de herst
 <br>
 De Vlaamse Regering kan nadere formele voorwaarden vastleggen waaraan de herstelvordering op straffe van onontvankelijkheid moet voldoen.</p>
 
-<p>§ 2. De dagvaarding is maar ontvankelijk na de overschrijving van de gedinginleidende akte in het hypotheekkantoor van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
+<p>§ 2. De dagvaarding is maar ontvankelijk na de overschrijving van de gedinginleidende akte in het bevoegde kantoor van de Algemene administratie van de Patrimoniumdocumentatie van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
 
 <p>§ 3. Het vorderingsrecht van de stedenbouwkundige inspecteur en de burgemeester verjaart als volgt:<br>
 1° in ruimtelijk kwetsbaar gebied: na verloop van tien jaar;<br>
@@ -4285,7 +4407,7 @@ Voor wat de betaling van de meerwaarde betreft, kan de overtreder zich ook op ee
 <br>
 De uitvoeringstermijn neemt een aanvang de dag na de betekening.<br>
 <br>
-§ 5. Het besluit wordt binnen een termijn van twee maanden overgeschreven in het hypotheekkantoor van het gebied waar het onroerend goed ligt. De beslissing, vermeld in artikel 6.4.8, § 2, tweede lid, wordt binnen een termijn van twee maanden nadat ze is gewezen, ingeschreven op de kant van die overschrijving, op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Hetzelfde geldt voor elke rechterlijke beslissing over de schorsing of vernietiging van het besluit of de beslissing, vermeld in artikel 6.4.8, § 2, tweede lid.<br>
+§ 5. Het besluit wordt binnen een termijn van twee maanden overgeschreven in het bevoegde kantoor van de Algemene administratie van de Patrimoniumdocumentatie van het gebied waar het onroerend goed ligt. De beslissing, vermeld in artikel 6.4.8, § 2, tweede lid, wordt binnen een termijn van twee maanden nadat ze is gewezen, ingeschreven op de kant van die overschrijving, op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Hetzelfde geldt voor elke rechterlijke beslissing over de schorsing of vernietiging van het besluit of de beslissing, vermeld in artikel 6.4.8, § 2, tweede lid.<br>
 <br>
 § 6. De beslissing tot toepassing van bestuursdwang en elke volgende beslissing die in de zaak gewezen is, zijn tegenwerpelijk aan alle belanghebbenden, die de gevolgen ervan moeten dragen.
 
@@ -4414,7 +4536,7 @@ De miskenning van een van de voorwaarden, vermeld in het eerste lid, heeft van r
 
 ### ART. 6.4.20.
 
-De minnelijke schikking wordt op schrift gesteld. De minnelijke schikking wordt ondertekend door de stedenbouwkundige inspecteur of de burgemeester, en door de overtreder of overtreders of andere belanghebbenden met wie de minnelijke schikking wordt aangegaan. De minnelijke schikking wordt binnen een termijn van twee maanden overgeschreven in het hypotheekkantoor van het gebied waarin het onroerend goed gelegen is. Een afschrift van de minnelijke schikking wordt verzonden aan de bevoegde overheden, bedoeld in artikel 6.3.1, § 2.
+De minnelijke schikking wordt op schrift gesteld. De minnelijke schikking wordt ondertekend door de stedenbouwkundige inspecteur of de burgemeester, en door de overtreder of overtreders of andere belanghebbenden met wie de minnelijke schikking wordt aangegaan. De minnelijke schikking wordt binnen een termijn van twee maanden overgeschreven in het bevoegde kantoor van de Algemene administratie van de Patrimoniumdocumentatie waar het onroerend goed ligt. Een afschrift van de minnelijke schikking wordt verzonden aan de bevoegde overheden, bedoeld in artikel 6.3.1, § 2.
 
 ### ART. 6.4.21.
 
@@ -4484,7 +4606,7 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 ### ART. 7.1.1.
 
-Behoudens andersluidende bepalingen, hebben de regelingen van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid onmiddellijke werking. Dat houdt in het bijzonder in dat zij vanaf hun datum van inwerkingtreding van toepassing zijn op de plannings-, vergunningen- en handhavingsprocedures als vastgelegd bij voorliggende codex, in de stand waarin zij zich bevinden.
+...
 
 ### ART. 7.1.2.
 
@@ -4496,11 +4618,11 @@ De bestaande reglementaire bepalingen die onder het toepassingsgebied van deze c
 
 <P>...</P>
 
-## HOOFDSTUK III Man/vrouw-evenwicht in de GECORO
+## HOOFDSTUK III ...
 
 ### ART. 7.3.1.
 
-§ 1. Tijdens de gemeentelijke legislatuur 2006-2012 geldt dat het enkele feit dat niet voldaan is aan de regelingen inzake evenwichtige vertegenwoordiging van vrouwen en mannen, vermeld in artikel 200, § 2, van het Gemeentedecreet van 15 juli 2005, de rechtsgeldigheid van de door een gemeentelijke commissie voor ruimtelijke ordening uitgebrachte adviezen niet in het gedrang brengt.<br /><br />§ 2. Vanaf 1 september 2009 tot en met het einde van de gemeentelijke legislatuur 2006-2012 geldt een overgangsregime waarbij, indien in een gemeentelijke commissie voor ruimtelijke ordening méér dan twee derden van de leden van hetzelfde geslacht is, bij elke nieuwe benoeming een lid van het ondervertegenwoordigde geslacht wordt benoemd.<br /><br />Lopende het overgangsregime kan de gemeenteraad ook beslissen om van effectieve leden van het oververtegenwoordigde geslacht plaatsvervangende leden maken, en om van plaatsvervangende leden van het ondervertegenwoordigde geslacht effectieve leden maken, opdat de evenwichtige vertegenwoordiging van vrouwen en mannen ten minste bij de effectieve leden verwezenlijkt of benaderd zou worden. De verschuiving van effectief lid naar plaatsvervangend lid, en van plaatsvervangend lid naar effectief lid, wordt niet beschouwd als een nieuwe benoeming die noopt tot een goedkeuring door de deputatie.
+...
 
 ## HOOFDSTUK IV Planning
 
@@ -4550,15 +4672,13 @@ De beslissing wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad.<br>
 
 ### ART. 7.4.3.
 
-Nadat een eerste gemeentelijk ruimtelijk structuurplan definitief is vastgesteld en door de deputatie of de Vlaamse Regering is goedgekeurd, kunnen voor die gemeente geen procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen overeenkomstig de artikelen 12 tot en met 34 van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, meer aangevat worden.<br>
-<br>
-Vanaf datzelfde ogenblik zijn artikel 2.2.1 tot en met 2.2.6 en artikel 2.2.12 tot en met 2.2.25 van toepassing voor die gemeente.<br>
-<br>
-Procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen die lopen op het moment van de goedkeuring van het gemeentelijk ruimtelijk structuurplan, worden voortgezet overeenkomstig de in het eerste lid vermelde artikelen. Hetzelfde geldt voor procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen die lopen op 1 mei 2000 in gemeenten die op dat moment beschikken over een goedgekeurd gemeentelijk ruimtelijk structuurplan. Er is een lopende procedure in de zin van deze bepaling indien het plan van aanleg of het plan tot herziening van een bestaand plan van aanleg voorlopig is aangenomen door de gemeenteraad.
+...
 
 ### ART. 7.4.4.
 
-§ 1. De voorschriften van de plannen van aanleg behouden hun verordenende kracht tot zij worden vervangen. De grafische en tekstuele voorschriften van de plannen van aanleg hebben dezelfde waarde. Van deze voorschriften kan enkel worden afgeweken overeenkomstig de daartoe in deze codex vastgestelde afwijkingsmogelijkheden.<br /><br />§ 2. Gemeenten kunnen tot 31 december 2011 overgaan tot de definitieve aanname van bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen overeenkomstig de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, zoals dat gold op 31 augustus 2009, met dien verstande dat deze plannen niet kunnen afwijken van de voorschriften van het gewestplan, respectievelijk van het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut.<br /><br />In voorkomend geval omvat dergelijk bijzonder plan van aanleg een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd die aanleiding kan geven tot een planschadevergoeding, vermeld in artikel 2.6.1, een planbatenheffing, vermeld in artikel 2.6.4, of een compensatie, vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.
+§ 1. De voorschriften van de plannen van aanleg behouden hun verordenende kracht tot zij worden vervangen. De grafische en tekstuele voorschriften van de plannen van aanleg hebben dezelfde waarde. Van deze voorschriften kan enkel worden afgeweken overeenkomstig de daartoe in deze codex vastgestelde afwijkingsmogelijkheden.<br>
+<br>
+§ 2. ...
 
 ### ART 7.4.4/1.
 
@@ -4631,23 +4751,23 @@ Het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften
 
 De voorschriften van de ruimtelijke uitvoeringsplannen vervangen, voor het grondgebied waarop ze betrekking hebben, de voorschriften van de plannen van aanleg, tenzij het ruimtelijk uitvoeringsplan het uitdrukkelijk anders bepaalt.
 
-## Afdeling 3 Provinciale structuurplanning
+## Afdeling 3 ...
 
 ### ART. 7.4.6.
 
-Vanaf het moment dat het eerste provinciaal ruimtelijk structuurplan door de Vlaamse Regering is goedgekeurd, zijn de&nbsp;artikel 2.2.1 tot en met 2.2.6 en artikel 2.2.12 tot en met 2.2.17 van toepassing voor die provincie.
+...
 
-## Afdeling 4 Gemeentelijke structuurplanning
+## Afdeling 4 ...
 
 ### ART. 7.4.7.
 
-In afwijking van artikel 2.1.2, § 1, kan een gemeenteraad beslissen om een   ruimtelijk structuurplan vast te stellen waarin geen bindend gedeelte is   opgenomen. Dergelijk ruimtelijk structuurplan wordt overeenkomstig deze codex   uitgevoerd middels ruimtelijke uitvoeringsplannen.
+...
 
-## Afdeling 5 Voorkooprecht
+## Afdeling 5 ...
 
 ### ART. 7.4.8.
 
-De verlenging, ingevolge artikel 26 van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid, van de termijn waarbinnen het voorkooprecht, vermeld in artikel 2.4.1, moet worden uitgeoefend, is eerst van toepassing op de ruimtelijke uitvoeringsplannen die voorlopig worden vastgesteld vanaf 1 september 2009.<br /><br />Deze verlenging is niet van toepassing op ruimtelijke uitvoeringsplannen die eerder voorlopig of definitief werden vastgesteld, en doet vervallen voorkooprechten niet herleven.<br /><br />De regeling waarbij in het ruimtelijk uitvoeringsplan de geldigheidsduur van het voorkooprecht wordt bepaald, ingevoegd bij het decreet van 16 juli 2010 houdende aanpassing van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en van het decreet van 10 maart 2006 houdende decretale aanpassingen inzake ruimtelijke ordening en onroerend erfgoed als gevolg van het bestuurlijk beleid, is eerst van toepassing op de ruimtelijke uitvoeringsplannen die voorlopig worden vastgesteld vanaf de datum van inwerkingtreding van dat wijzigend decreet.
+...
 
 ## Afdeling 6 Onteigening
 
@@ -4771,11 +4891,11 @@ De verplichting, opgenomen in artikel 2.2.5, § 1, eerste lid, 9° en 10°, resp
 
 Tot de dag waarop de door de Vlaamse Regering vast te stellen lijst van vergunningsplichtige functiewijzigingen in werking treedt en met terugwerkende kracht vanaf 9 september 1984, worden eveneens de hierna vermelde gebruikswijzigingen geacht vergunningsplichtig te zijn vanwege de belangrijke ruimtelijke weerslag op de onmiddellijke omgeving :<br />1° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een gebied voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen, een woongebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit een dancing, het opslaan van schroot, autowrakken of afvalproducten het te koop of in ruil aanbieden van diensten binnen een ruimte die groter is dan driehonderd vierkante meter;<br />2° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een industriegebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het te koop of in ruil aanbieden van goederen of diensten;<br />3° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik is niet agrarisch;<br />4° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een bufferzone, een groen-, park- of bosgebied of daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit om het even welk gebruik dat anders is dan het oorspronkelijke;<br />5° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een recreatiegebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het permanent bewonen;<br />6° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een ontginningsgebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het opslaan van schroot, autowrakken of afvalproducten.
 
-## Afdeling 2 Planologische attesten
+## Afdeling 2 ...
 
 ### ART. 7.5.2.
 
-De aanvragen voor een planologisch attest die bij de bevoegde overheid zijn betekend vóór 1 september 2009, worden afgehandeld overeenkomstig de regelen die golden voorafgaand aan die datum.
+...
 
 ## Afdeling 3 Verkavelingsakkoorden en verkavelingen daterend van vóór 22 december 1970
 
@@ -4801,11 +4921,11 @@ Tot het in artikel 7.6.2, § 1, derde lid, 4°, vermelde deel van het   vergunni
 
 <P>Artikel 84, eerste lid, van het decreet van 25 april 2014 betreffende de   omgevingsvergunning is van toepassing op ruimtelijke uitvoeringsplannen en   bijzondere plannen van aanleg die voorlopig zijn vastgesteld of aangenomen vanaf   1 september 2009.<BR><BR>De bijstelling of de opheffing van   omgevingsvergunningen voor het verkavelen van gronden ingevolge de definitieve   vaststelling van een ruimtelijk uitvoeringsplan of een bijzonder plan van aanleg   dat voorlopig is vastgesteld of aangenomen vóór 1 september 2009, wordt   afgehandeld overeenkomstig de regels die golden voorafgaand aan die   datum.</P>
 
-## Afdeling 5 Invoering van het vergunningenstelsel van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid
+## Afdeling 5 ...
 
 ### ART. 7.5.8.
 
-§ 1. Beslissingen van het college van burgemeester en schepenen tot   toekenning of weigering van een vergunning, genomen vóór 1 september 2009,   worden bekendgemaakt en kunnen worden uitgevoerd en bestreden overeenkomstig de   regelen die golden voorafgaand aan die datum.<BR><BR>Vergunningsaanvragen die   bij het college van burgemeester en schepenen werden betekend vóór 1 september   2009, doch waarover het college op die datum nog niet heeft beslist, worden   behandeld overeenkomstig de procedureregelen die golden voorafgaand aan die   datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen worden   echter geregeld overeenkomstig artikel 4.7.19. Die genomen beslissingen kunnen   worden bestreden bij de deputatie op grond van de regelingen, vastgelegd bij of   krachtens artikel 4.7.21 tot en met 4.7.25.<BR><BR>Vergunningsaanvragen die bij   het college van burgemeester en schepenen worden betekend vanaf 1 september   2009, worden volledig behandeld overeenkomstig de regelingen, vastgelegd bij of   krachtens artikel 4.7.12 tot en met 4.7.19. De genomen beslissingen kunnen   worden bestreden bij de deputatie op grond van de regelingen, vastgelegd bij of   krachtens artikel 4.7.21 tot en met 4.7.25.<BR><BR>§ 2. Beslissingen van de   deputatie tot toekenning of weigering van een vergunning, genomen vóór 1   september 2009, worden bekendgemaakt en kunnen worden uitgevoerd en bestreden   overeenkomstig de regelen die golden voorafgaand aan die   datum.<BR><BR>Beroepsdossiers die bij de deputatie werden betekend vóór 1   september 2009, doch waarover de deputatie op die datum nog niet heeft beslist,   worden behandeld overeenkomstig de procedureregelen die golden voorafgaand aan   die datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen   worden echter geregeld overeenkomstig artikel 4.7.23, § 3 tot en met § 5. Die   genomen beslissingen kunnen worden bestreden bij de Raad voor   Vergunningsbetwistingen.<BR><BR>De regelen van het tweede lid gelden eveneens   ten aanzien van beroepsdossiers die bij de deputatie worden betekend vanaf 1   september 2009, op grond van de overgangsregeling, vermeld in § 1, eerste   lid.<BR><BR>Beroepsdossiers die bij de deputatie worden betekend vanaf 1   september 2009, worden volledig behandeld overeenkomstig de regelingen,   vastgelegd bij of krachtens artikelen 4.7.21 tot en met 4.7.25. De genomen   beslissingen kunnen worden bestreden bij de Raad voor   Vergunningsbetwistingen.<BR><BR>§ 3. Beslissingen van de Vlaamse Regering, de   gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige   ambtenaar tot toekenning of weigering van een vergunning in eerste   administratieve aanleg, genomen vóór 1 september 2009, worden bekendgemaakt en   kunnen worden uitgevoerd en bestreden overeenkomstig de regelen die golden   voorafgaand aan die datum.<BR><BR>Vergunningsaanvragen die bij de Vlaamse   Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke   stedenbouwkundige ambtenaar werden betekend vóór 1 september 2009, doch waarover   het vergunningverlenend bestuursorgaan op die datum nog niet heeft beslist,   worden behandeld overeenkomstig de procedureregelen die golden voorafgaand aan   die datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen   worden echter geregeld overeenkomstig artikel 4.7.26, § 4, eerste lid, 5°, 6° en   7°, en tweede lid. Die genomen beslissingen kunnen worden bestreden bij de Raad   voor Vergunningsbetwistingen.<BR><BR>Vergunningsaanvragen die bij de Vlaamse   Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke   stedenbouwkundige ambtenaar worden betekend vanaf 1 september 2009, worden   volledig behandeld overeenkomstig de regelingen, vastgelegd bij of krachtens   artikel 4.7.26. De genomen beslissingen kunnen worden bestreden bij de Raad voor   Vergunningsbetwistingen.<BR><BR>§ 4. Beslissingen van de Vlaamse Regering over   administratieve beroepen betreffende de afgifte of de weigering van een   vergunning, genomen vóór 1 september 2009, worden bekendgemaakt en kunnen worden   uitgevoerd en bestreden overeenkomstig de regelen die golden voorafgaand aan die   datum.<BR><BR>Beroepsdossiers die bij de Vlaamse Regering werden betekend vóór 1   september 2009, doch waarover de Vlaamse Regering op die datum nog niet heeft   beslist, worden behandeld, bekendgemaakt, uitgevoerd en desgevallend bestreden   overeenkomstig de procedureregelen die golden voorafgaand aan die   datum.<BR><BR>De regelen van het tweede lid gelden eveneens ten aanzien van   beroepsdossiers die bij de Vlaamse Regering worden betekend vanaf 1 september   2009, op grond van de overgangsregeling, vermeld in § 1, eerste lid, of § 2,   eerste lid en tweede lid.<BR><BR>§ 5. ...<BR><BR>§ 6. De Raad van State blijft   bevoegd om zich uit te spreken over de beroepen tot nietigverklaring en tot   schorsing, gericht tegen de vergunningsbeslissingen, vermeldin artikel 4.8.2,   eerste lid, 1°, die niet kunnen worden bestreden bij de Raad voor   Vergunningsbetwistingen ingevolge § 1 tot en met § 4.
+...
 
 ## Afdeling 6 Tijdelijke regeling bindende advisering door de wegbeheerder
 
@@ -4819,13 +4939,13 @@ Tot het in artikel 7.6.2, § 1, derde lid, 4°, vermelde deel van het   vergunni
 
 ### ART. 7.6.1.
 
-Het plannenregister moet door elke gemeente opgemaakt worden en door de   gemeenteraad vastgesteld worden binnen een jaar na 1 mei 2000. Een afschrift van   dat plannenregister wordt gezonden naar het departement. Binnen het   daaropvolgend jaar neemt het departement een gemotiveerde beslissing inzake de   conformverklaring van het plannenregister en stuurt die beslissing naar het   college van burgemeester en schepenen, de deputatie en de Vlaamse Regering   binnen tien dagen na de beslissing.<BR><BR>In afwijking van het eerste lid,   samengelezen met artikel 5.1.1, kan de gemeente een ontwerp van plannenregister   opmaken en naar het departement sturen, waarin de in artikel 5.1.1, § 1, eerste   lid, 3°, vermelde gegevens nog niet zijn opgenomen. De gemeente geeft dan aan   binnen welke tijdsspanne deze gegeven aangevuld zullen worden.
+Een afschrift van het eerste plannenregister wordt naar het departement gestuurd. Binnen het daaropvolgend jaar neemt het departement een gemotiveerde beslissing inzake de conformverklaring van het plannenregister en stuurt die beslissing naar het college van burgemeester en schepenen, de deputatie en de Vlaamse Regering binnen tien dagen na de beslissing.<br>
+<br>
+In afwijking van het eerste lid, samengelezen met artikel 5.1.1, kan de gemeente een ontwerp van plannenregister opmaken en naar het departement sturen, waarin de in artikel 5.1.1, § 1, eerste lid, 3°, vermelde gegevens nog niet zijn opgenomen. De gemeente geeft dan aan binnen welke tijdsspanne deze gegeven aangevuld zullen worden.
 
 ### ART. 7.6.2.
 
-§ 1. Het ontwerp van vergunningenregister moet door elke gemeente opgemaakt worden binnen een jaar na 1 mei 2000. Dat ontwerp wordt bezorgd aan het departement.<br>
-<br>
-De Vlaamse Regering kan op gemotiveerd verzoek van de gemeente de termijn van een jaar eenmalig verlengen met een jaar.<br>
+§ 1. Elke gemeente bezorgt een ontwerp van vergunningenregister aan het departement.<br>
 <br>
 Het ontwerp van vergunningsregister bevat volgende gegevens, zoveel mogelijk per kadastraal perceel en voor zover beschikbaar :<br>
 1° het kadastraal nummer, het huisnummer en de straatnaam;<br>
@@ -4843,9 +4963,9 @@ De Vlaamse Regering kan bepalen dat het ontwerp van vergunningenregister in de m
 1° het gebruik, als dat afwijkt van de bestemming;<br>
 2° de identiteit van de eigenaar of van de titularis van een ander zakelijk recht, als de eigenaar of de titularis van een ander zakelijk recht een overheid of een openbare instelling is.<br>
 <br>
-Bestaande constructies, met uitzondering van publiciteitsinrichtingen en uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden vóór 22 april 1962, worden in het ontwerp van vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. De vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund geacht ». De vaststelling van het feit dat de constructie niet meer bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven onregelmatigheden, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend.<br>
+Bestaande constructies, met uitzondering van publiciteitsinrichtingen, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek 8, hoofdstuk 3, van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden vóór 22 april 1962, worden in het ontwerp van vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. De vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund geacht ». De vaststelling van het feit dat de constructie niet meer bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven onregelmatigheden, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend.<br>
 <br>
-Bestaande constructies, met uitzondering van publiciteitsinrichtingen en uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het vergunningenregister vermeldt de datum van opname van de constructie als « vergund geacht ». De vaststelling van het feit dat bij de overheid geen geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund geacht ». De vaststelling dat bij de overheid een geldig tegenbewijs bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend. Deze mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van vergunningenregister.<br>
+Bestaande constructies, met uitzondering van publiciteitsinrichtingen, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek 8, hoofdstuk 3, van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het vergunningenregister vermeldt de datum van opname van de constructie als « vergund geacht ». De vaststelling van het feit dat bij de overheid geen geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund geacht ». De vaststelling dat bij de overheid een geldig tegenbewijs bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend. Deze mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van vergunningenregister.<br>
 <br>
 Binnen honderdtachtig dagen na ontvangst van het ontwerp van vergunningenregister formuleert het departement een verslag dat opgenomen moet worden in het vergunningenregister. Het departement kan foutieve gegevens schrappen uit het vergunningenregister en meldt dit in zijn verslag.<br>
 <br>
@@ -4861,7 +4981,7 @@ Voor wat betreft de gegevens, vermeld in § 1, vijfde en zesde lid, geldt dat zi
 
 ### ART. 7.6.3.
 
-Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister. De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />De gemeenten kunnen bij de opmaak van het plannenregister en het vergunningenregister begeleiding vragen van de bevoegde diensten van het Vlaamse Gewest.
+De gemeenten kunnen bij de opmaak van het plannenregister en het vergunningenregister begeleiding vragen van de bevoegde diensten van het Vlaamse Gewest.
 
 ## Afdeling 2 Informatieplichten
 
@@ -4873,11 +4993,11 @@ De bepalingen met betrekking tot de informatieverplichtingen, zoals voorzien in 
 
 § 1. Artikel 5.2.7 is van toepassing zodra de gemeente een plannenregister en een vergunningenregister heeft. Zolang artikel 5.2.7 niet van toepassing is voor een gemeente, blijven de bepalingen van artikel 63, § 1, 5° en 6° van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, van toepassing.
 
-## Afdeling 3 Stedenbouwkundig attest
+## Afdeling 3 ...
 
 ### ART. 7.6.6.
 
-De aanvragen voor een stedenbouwkundig attest die bij de bevoegde overheid zijn betekend vóór 1 september 2009, worden afgehandeld overeenkomstig de regelen die golden voorafgaand aan die datum.
+...
 
 ## HOOFDSTUK VII Handhaving
 
