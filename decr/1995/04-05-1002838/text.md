@@ -1511,6 +1511,43 @@ Met behoud van de toepassing van de bepalingen van titel XVI kunnen de   door de
 
 Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag   indient, kan voor de behandeling van de erkenningsaanvraag een retributie worden   gevraagd. Dezelfde retributie kan worden gevraagd voor de uitoefening van het   toezicht op de erkennings- en gebruikseisen. De Vlaamse Regering bepaalt voor   welke erkenningen of toezichtverplichtingen een retributie is verschuldigd en   stelt de bedragen vast, alsook de wijze waarop aan de retributie moet worden   voldaan.
 
+### ART 5.6.8.
+
+§1. De Vlaamse Regering wijst de overheden en organisaties aan die optreden als verwerkingsverantwoordelijken als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG of als ontvanger voor de verwerking van persoonsgegevens in het kader van dit hoofdstuk en de toezichtopdrachten, vermeld in titel XVI van dit decreet met betrekking tot erkenningen.<br>
+<br>
+De overheden en organisaties, vermeld in het eerste lid, verwerken persoonsgegevens voor de uitvoering van de taken, vermeld in dit hoofdstuk, en de toezichtopdrachten, vermeld in titel XVI van dit decreet, met betrekking tot erkenningen. De verwerking van persoonsgegevens is noodzakelijk voor en in uitvoering van de vervulling van een taak van algemeen belang die aan de verwerkingsverantwoordelijken is opgedragen.<br>
+<br>
+§2. De verwerking van persoonsgegevens, vermeld in paragraaf 1, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° de naam;<br>
+2° het rijksregisternummer of het BIS-nummer als men niet over een rijksregisternummer beschikt;<br>
+3° adresgegevens;<br>
+4° contactgegevens;<br>
+5° gegevens over opleiding en ervaring; 6° beroepsgegevens;<br>
+7° het certificaatnummer;<br>
+8° het erkenningsnummer;<br>
+9° gegevens over strafrechtelijke veroordelingen en strafbare feiten als vermeld in artikel 10 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG voor overtredingen van de milieuwetgeving die verband houden met het gebruik van een erkenning;<br>
+10° gegevens met betrekking tot de geschorste en opgeheven erkenningen;<br>
+11° gegevens met betrekking tot de uitgevoerde milieuhandhavingscontroles;<br>
+12° de gegevens met betrekking tot overtredingen van de milieuwetgeving.<br>
+<br>
+De verwerkingsverantwoordelijken nemen passende maatregelen om de juistheid van de persoonsgegevens te verzekeren. Alleen de personen die de specifieke behoefte hebben door hun functie, rol of verantwoordelijkheid om deze persoonsgegevens te verwerken, hebben toegang tot die gegevens.<br>
+<br>
+§3. De verwerking van persoonsgegevens, vermeld in paragraaf 1, heeft betrekking op de volgende categorieën van betrokkenen:<br>
+1° personen die over een titel als vermeld in artikel 5.6.2, derde lid, beschikken, die uitgereikt is door een rechtspersoon die erkend is volgens artikel 5.6.3;<br>
+2° erkende personen;<br>
+3° personen die vermeld worden in een erkenningsaanvraag;<br>
+4° personen die in het kader van een erkenning aan een controle onderworpen worden;<br>
+5° dienstverrichters voor de tijdelijke en incidentele uitoefening van erkennings- plichtige handelingen als vermeld in artikel 5.6.2;<br>
+6° belanghebbenden in het kader van een controle van de erkende persoon.<br>
+<br>
+Voor de categorieën van betrokkenen, vermeld in het eerste lid, 1° tot en met 5°, kunnen persoonsgegevens rond strafrechtelijke veroordelingen en strafbare feiten zoals overtredingen van de milieuwetgeving, gegevens over geschorste en opgeheven erkenningen en gegevens rond uitgevoerde milieuhandhavingscontroles verwerkt worden.<br>
+<br>
+De verwerkingsverantwoordelijken nemen maatregelen om de informatie uit artikel 13 en 14 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) en de communicatie uit artikel 15 tot en met 22 en artikel 34 van voormelde verordening (EU) 2016/679 rond de verwerking van persoonsgegevens op een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm aan te bieden aan de betrokkenen.<br>
+<br>
+§4. De maximale bewaartermijnen voor persoonsgegevens die op basis van dit hoofdstuk met betrekking tot erkenningen worden verwerkt, bedraagt tot twintig jaar na verval van rechtswege van de erkenning.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van die gegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.
+
 ## [TITEL VI MILIEUBELEIDSOVEREENKOMSTEN (ing. Decr. 16 november 2012, art. 2, I: 1 januari 2013)]
 
 ## [HOOFDSTUK I ALGEMENE BEPALINGEN (ing. Decr. 16 november 2012, art. 3, I: 1 januari 2013)]
@@ -2288,7 +2325,7 @@ c) de staat van instandhouding van de voor de habitat typische soorten is gunsti
 a) uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br>
 b) het natuurlijke verspreidingsgebied van die soort wordt niet kleiner of lijkt binnen afzienbare tijd niet kleiner te zullen worden;<br>
 c) er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br>
-12° decreet Integraal Waterbeleid : decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+12° decreet Integraal Waterbeleid : decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 13° schade aan water : elke vorm van schade die een aanmerkelijke negatieve invloed heeft op de ecologische toestand, het ecologisch potentieel of de chemische toestand van het oppervlaktewater of de chemische of kwantitatieve toestand van het grondwater als vermeld in het decreet Integraal Waterbeleid, met uitzondering van de negatieve effecten waarop artikel&nbsp;1.7.2.5.4. van het decreet Integraal Waterbeleid van toepassing is;<br>
 14° water : alle oppervlaktewater en grondwater waarop het decreet Integraal Waterbeleid van toepassing is;<br>
 15° Bodemdecreet : decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
@@ -2464,7 +2501,11 @@ De exploitant behoeft niet de kosten te dragen van de op grond van deze titel ge
 
 ### ART. 15.6.1.
 
-De volgende personen die kennis hebben van gevallen van milieuschade kunnen bij de bevoegde instantie opmerkingen indienen en de bevoegde instantie verzoeken om maatregelen te treffen krachtens deze titel :<br />1° natuurlijke personen en rechtspersonen die milieuschade lijden of dreigen te lijden;<br />2° natuurlijke personen en rechtspersonen die een belang hebben bij de besluitvorming inzake de schade;<br />3° rechtspersonen als vermeld in artikel 2 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu.
+De volgende personen die kennis hebben van gevallen van milieuschade kunnen bij de bevoegde instantie opmerkingen indienen en de bevoegde instantie verzoeken om maatregelen te treffen krachtens deze titel :<br>
+1° natuurlijke personen en rechtspersonen die milieuschade lijden of dreigen te lijden;<br>
+2° natuurlijke personen en rechtspersonen die een belang hebben bij de besluitvorming inzake de schade;<br>
+2°/1 natuurlijke personen en rechtspersonen die stellen dat inbreuk is gemaakt op een recht, wanneer het bestuursprocesrecht dat als voorwaarde stelt;<br>
+3° rechtspersonen als vermeld in artikel 1 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu.
 
 ### ART. 15.6.2.
 
@@ -2566,7 +2607,19 @@ Het Vlaamse Gewest kan deze kosten bij dwangbevel invorderen. Het dwangbevel wor
 
 ### ART. 15.8.14.
 
-Het Vlaamse Gewest verhaalt de kosten onder andere door middel van een zakelijke zekerheid of andere geschikte waarborgen. <br /><br />Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van het verhaal van de kosten, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de exploitant en kan het een wettelijke hypotheek nemen op al de daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de exploitant.<br /><br />Dit voorrecht neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van boek II van het Wetboek van koophandel.<br /><br />De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.<br /><br />De hypotheek wordt ingeschreven op verzoek van de bevoegde instantie. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br /><br />Artikel 447, tweede lid, van boek III van het Wetboek van koophandel met betrekking tot het faillissement, de bankbreuk en het uitstel van betaling, is niet van toepassing op de wettelijke hypotheek inzake de kosten van de maatregelen.<br /><br />De Vlaamse Regering kan andere vormen van financiële zekerheid aanvaarden.
+Het Vlaamse Gewest verhaalt de kosten onder andere door middel van een zakelijke zekerheid of andere geschikte waarborgen.<br>
+<br>
+Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van het verhaal van de kosten, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de exploitant en kan het een wettelijke hypotheek nemen op al de daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de exploitant.<br>
+<br>
+Dit voorrecht neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 vanhet Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen.<br>
+<br>
+De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.<br>
+<br>
+De hypotheek wordt ingeschreven op verzoek van de bevoegde instantie. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br>
+<br>
+Artikel XX.113, tweede lid, van het Wetboek van economisch recht is niet van toepassing op de wettelijke hypotheek inzake de kosten van de maatregelen.<br>
+<br>
+De Vlaamse Regering kan andere vormen van financiële zekerheid aanvaarden.
 
 ### ART. 15.8.15.
 
@@ -3588,7 +3641,27 @@ Bij een veroordeling, overeenkomstig artikel 16.6.4, tweede lid, tot terugbetali
 
 ### ART. 16.5.2.
 
-§ 1. Als de betrokkene in gebreke blijft bij het betalen van de   verschuldigde bedragen, verhoogd met de invorderingskosten, vermeld in artikel   16.5.1, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt   geviseerd en uitvoerbaar verklaard door een ambtenaar die daartoe door de   Vlaamse Regering wordt aangewezen.<BR><BR>§ 2. Het dwangbevel wordt aan de   schuldenaar bij deurwaardersexploot betekend.<BR><BR>Binnen een termijn van   dertig dagen na de ontvangst van het dwangbevel kan de schuldenaar verzet doen   door het Vlaamse Gewest te laten dagvaarden. Als het dwangbevel betrekking heeft   op kosten, vermeld in artikel 16.5.1, § 1, tweede lid, die door de   toezichthouders van de OVAM zijn gemaakt, gebeurt in afwijking hiervan het   verzet door de OVAM te laten dagvaarden.<BR><BR>Het verzet schorst de   tenuitvoerlegging. Het Vlaamse Gewest of de OVAM kan de rechter verzoeken om de   schorsing van de tenuitvoerlegging op te heffen.<BR><BR>Op het dwangbevel zijn   de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende   bewarend beslag en middelen tot tenuitvoerlegging.<BR><BR>Een beroep tegen een   dwangbevel kan alleen worden ingesteld met betrekking tot geschillen die in   verband met de tenuitvoerlegging van het dwangbevel rijzen. Die geschillen   worden voor de beslagrechter gebracht.<BR><BR>§ 3. Op grond van het uitvoerbaar   verklaard dwangbevel en tot zekerheid van voldoening van de bedragen en kosten,   vermeld in artikel 16.5.1, hebben het Vlaamse Gewest en de OVAM een algemeen   voorrecht op alle roerende goederen van de schuldenaar en kunnen ze een   wettelijke hypotheek nemen als daarvoor vatbare en in het Vlaamse Gewest gelegen   of geregistreerde goederen van de schuldenaar.<BR><BR>Het voorrecht vermeld in §   1 neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen   19 en 20 van de wet van 16 december 1851 en in artikel 23 van boek II van het   Wetboek van Koophandel.<BR><BR>De rang van de wettelijke hypotheek wordt bepaald   door de dagtekening van de inschrijving die genomen wordt krachtens het   uitvoerbaar verklaarde en betekende dwangbevel.<BR><BR>De hypotheek wordt   ingeschreven op verzoek van de ambtenaar, vermeld in § 1. De inschrijving heeft   plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een   afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar   en dat melding maakt van de betekening ervan.<BR><BR>Artikel 17 van de   Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke   hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval,   de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een   dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan   voor het vonnis van faillietverklaring.
+§ 1. Als de betrokkene in gebreke blijft bij het betalen van de verschuldigde bedragen, verhoogd met de invorderingskosten, vermeld in artikel 16.5.1, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die daartoe door de Vlaamse Regering wordt aangewezen.<br>
+<br>
+§ 2. Het dwangbevel wordt aan de schuldenaar bij deurwaardersexploot betekend.<br>
+<br>
+Binnen een termijn van dertig dagen na de ontvangst van het dwangbevel kan de schuldenaar verzet doen door het Vlaamse Gewest te laten dagvaarden. Als het dwangbevel betrekking heeft op kosten, vermeld in artikel 16.5.1, § 1, tweede lid, die door de toezichthouders van de OVAM zijn gemaakt, gebeurt in afwijking hiervan het verzet door de OVAM te laten dagvaarden.<br>
+<br>
+Het verzet schorst de tenuitvoerlegging. Het Vlaamse Gewest of de OVAM kan de rechter verzoeken om de schorsing van de tenuitvoerlegging op te heffen.<br>
+<br>
+Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br>
+<br>
+Een beroep tegen een dwangbevel kan alleen worden ingesteld met betrekking tot geschillen die in verband met de tenuitvoerlegging van het dwangbevel rijzen. Die geschillen worden voor de beslagrechter gebracht.<br>
+<br>
+§ 3. Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van voldoening van de bedragen en kosten, vermeld in artikel 16.5.1, hebben het Vlaamse Gewest en de OVAM een algemeen voorrecht op alle roerende goederen van de schuldenaar en kunnen ze een wettelijke hypotheek nemen als daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de schuldenaar.<br>
+<br>
+Het voorrecht vermeld in § 1 neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van het Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen.<br>
+<br>
+De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.<br>
+<br>
+De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in § 1. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br>
+<br>
+Artikel XX.113, tweede lid, van het Wetboek van economisch recht is niet van toepassing op de wettelijke hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval, de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan voor het vonnis van faillietverklaring.
 
 ### ART. 16.5.2bis.
 
