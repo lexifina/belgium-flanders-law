@@ -12,17 +12,19 @@ Dit decreet voorziet in de gedeeltelijke omzetting van Richtlijn   2009/128/EG v
 
 ### ART. 3.
 
-&nbsp;In dit decreet wordt verstaan onder pesticide : <BR>a) een   gewasbeschermingsmiddel : een gewasbeschermingsmiddel als vermeld in artikel 2   van Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21   oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen   en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad;   <BR>b) een biocide : een biocide als vermeld in artikel 1, § 1, 1°, van het   koninklijk besluit van 22 mei 2003 betreffende het op de markt brengen en het   gebruiken van biociden.<BR>
+In dit decreet wordt verstaan onder pesticide :<br>
+a) een gewasbeschermingsmiddel : een gewasbeschermingsmiddel als vermeld in artikel 2 van Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad;<br>
+b) een biocide: een biocide als vermeld in artikel 2, 2°, van het koninklijk besluit van 4 april 2019 betreffende het op de markt aanbieden en het gebruiken van biociden.
 
 ### ART. 4.
 
 Dit decreet is enkel van toepassing op het gebruik van pesticiden in de open lucht :<br>
 1° in gebieden die door het brede publiek, door kwetsbare groepen of door particulieren worden gebruikt;<br>
-2° in de beschermde gebieden als bedoeld in artikel 71 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en andere gebieden die ten behoeve van de uitvoering van de noodzakelijke natuurbehoudsmaatregelen zijn aangewezen overeenkomstig de bepalingen van artikel 36bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+2° in de beschermde gebieden als bedoeld in artikel 1.7.6.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en andere gebieden die ten behoeve van de uitvoering van de noodzakelijke natuurbehoudsmaatregelen zijn aangewezen overeenkomstig de bepalingen van artikel 36bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 3° in gebieden die bescherming vergen voor het aquatisch milieu en het drinkwater.<br>
 <br>
 Met behoud van de toepassing van dit decreet wordt :<br>
-1° het gebruik van pesticiden op en naast de oeverzone geregeld in het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+1° het gebruik van pesticiden op en naast de oeverzone geregeld in het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018,;<br>
 2° de bescherming van grondwater tegen de verontreiniging met pesticiden geregeld in het decreet van 24 januari 1984 houdende maatregelen inzake grondwaterbeheer en de uitvoeringsbesluiten ervan;<br>
 3° de bescherming van de natuur en het natuurlijk milieu tegen de verontreiniging met pesticiden geregeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en de uitvoeringsbesluiten ervan;<br>
 4° de bescherming van de bossen en hun natuurlijk milieu tegen de verontreiniging met pesticiden geregeld in het Bosdecreet van 13 juni 1990 en de uitvoeringsbesluiten ervan.
