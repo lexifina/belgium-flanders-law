@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039921,
+  "title": "Besluit van de Vlaamse Regering van 2024-04-26 over het Bovenlokaalcultuurdecreet van 8 maart 2024",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039921/VolledigDocument?datum=2024-07-20",
+  "source_sha256": "825c8568001dbfafe92aeea42121f0e03dc98acf52d8f31caf1e5779250fe303",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039921&param=informatie",
+  "as_of": "2024-07-20",
+  "made": "2024-04-26",
+  "gazette": "2024-07-10",
+  "numac": 2024006779,
+  "document_start": "2024-07-20",
+  "document_end": null,
+  "in_force": "2024-07-20",
+  "article_versions": 103,
+  "record_form": "consolidated version as in force on 2024-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
