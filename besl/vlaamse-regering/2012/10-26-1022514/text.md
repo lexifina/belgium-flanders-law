@@ -152,33 +152,33 @@ Voor de uitvoering van de opdrachten, vermeld in artikel 26 van het   decreet va
 
 ### ART. 29.
 
-<P>§ 1. In het cultuurbeleidsplan, vermeld in artikel 40 van het decreet van 6   juli 2012, wordt aandacht besteed aan : <BR>1° de formulering van beleidskeuzes   en beleidsprioriteiten in de vorm van strategische doelstellingen die invulling   geven aan de Vlaamse beleidsprioriteiten, vermeld in artikel 5, tweede lid, 1°   en 2°, van het decreet van 6 juli 2012;<BR>2° een raming van de financiële,   materiële en andere ondersteuning van het culturele werk die de gemeente in het   vooruitzicht stelt;<BR>3° een beschrijving van de initiatieven die de gemeente   wil nemen met het oog op een ruime en diverse participatie van de bevolking in   de voorbereiding, de uitvoering en de evaluatie van het   cultuurbeleidsplan;<BR>4° een beschrijving van de wijze waarop de bevolking   wordt geïnformeerd over het gemeentelijk cultuurbeleid. <BR></P>  <P>De beheersorganen van de bibliotheek en het gemeenschapscentrum brengen   officieel advies uit bij de opmaak van een cultuurbeleidsplan.<BR></P>  <P>§ 2. De uitvoering van het cultuurbeleidsplan wordt jaarlijks beschreven in   een voortgangsrapport, goedgekeurd door het college van burgemeester en   schepenen, na advies van de beheersorganen van de bibliotheek en het   gemeenschapscentrum.<BR></P>
+<p>...</p>
 
 ### ART. 30.
 
-<P>De cultuurbeleidscoördinator waarover de gemeente beschikt, wordt aangesteld   op A- of B-niveau, op basis van een functieprofiel dat in elk geval de volgende   elementen bevat : <BR>1° de coördinatie van de verschillende aspecten van het   gemeentelijk cultuurbeleid;<BR>2° de begeleiding van de processen die verbonden   zijn aan de opmaak, de uitvoering en de evaluatie van het cultuurbeleidsplan;   <BR>3° de redactie van het cultuurbeleidsplan en het voortgangsrapport.<BR></P>  <P>De cultuurbeleidscoördinator werkt in nauw overleg met de   beleidsverantwoordelijken, het culturele werkveld en de beoogde doelgroepen.   <BR></P>
+<p>...</p>
 
 ### ART. 31.
 
-Voor de culturele infrastructuur, vermeld in artikel 43, eerste lid, 2°,   van het decreet van 6 juli 2012, gelden de voorwaarden van artikel 5 van dit   besluit, of kan de gemeente de culturele infrastructuur van de Vlaamse   Gemeenschapscommissie in aanmerking nemen, op voorwaarde dat het gebruik ervan   wordt geregeld in een overeenkomst die ze sluit met de Vlaamse   Gemeenschapscommissie.<BR>
+...
 
 ### ART. 32.
 
-<P>Een gemeente die aanspraak wil maken op de subsidie voor de uitvoering van   een cultuurbeleidsplan, vermeld in artikel 42 van het decreet van 6 juli 2012,   dient voor 1 april van het jaar waarin ze een cultuurbeleidsplan wil indienen,   een aanvraag in bij de administratie waarin ze aantoont dat ze voldoet aan de   voorwaarden, vermeld in artikel 43, eerste lid, 1° tot en met 4°, van het   decreet van 6 juli 2012.<BR></P>  <P>Het cultuurbeleidsplan, vermeld in artikel 43, eerste lid, 5°, van het   decreet van 6 juli 2012, moet vóór 31 december worden   ingediend.<BR></P>
+<p>...</p>
 
 ### ART. 33.
 
-De gemeente moet jaarlijks vóór 1 mei van het jaar dat volgt op het jaar   waarin de subsidie werden toegekend, de volgende documenten ter beschikking   stellen van de administratie : <BR>1° de goedgekeurde verantwoordingsnota over   de besteding van de subsidie;<BR>2° de statistische gegevens die de   administratie noodzakelijk acht, op de wijze die de administratie   bepaalt.<BR><BR>De subsidie, vermeld in artikel 42 van het decreet van 6 juli   2012, wordt uitbetaald in een voorschot en een saldo. Het voorschot bedraagt 60%   van de voorgestelde subsidie en wordt uitbetaald uiterlijk op 30 juni van het   gesubsidieerde werkjaar. Het saldo van 40% wordt uitbetaald uiterlijk op 30   november van het jaar dat volgt op het gesubsidieerde werkjaar, nadat de   administratie de verantwoordingsnota heeft goedgekeurd.<BR><BR>Als de   uitbetaalde subsidie hoger is dan de verantwoorde uitgaven, wordt het verschil   in mindering gebracht van de subsidie die in de toekomst nog verschuldigd is, of   wordt de reeds toegekende subsidie teruggevorderd, ingeval er geen subsidie meer   verschuldigd is.<BR>
+...
 
 ## Onderafdeling 2 De gemeentelijke openbare bibliotheek
 
 ### ART. 34.
 
-De bibliotheek moet worden geleid door een voltijds aangestelde   bibliothecaris of door maximaal twee deeltijds aangestelde bibliothecarissen,   die samen ten minste één voltijds equivalent uitmaken. De bibliothecaris wordt   aangesteld in A- of B-niveau.<BR>
+...
 
 ### ART. 35.
 
-Voor de subsidie, vermeld in artikel 45 van het decreet van 6 juli 2012,   wordt, binnen de personeelsformatie die door de gemeente is goedgekeurd voor de   bibliotheek, het werklieden- en onderhoudspersoneel niet in aanmerking   genomen.<BR>
+...
 
 ### ART. 36.
 
@@ -186,27 +186,27 @@ Voor de subsidie, vermeld in artikel 45 van het decreet van 6 juli 2012,   wordt
 
 ### ART. 37.
 
-<P>§ 1. Als een bibliotheekbeleidsplan voor 31 december bij de administratie is   ingediend, wordt de subsidie, vermeld in artikel 45 van het decreet van 6 juli   2012, berekend vanaf 1 januari van het jaar dat volgt op de indiening van het   bibliotheekbeleidsplan.<BR></P>  <P>Als de gemeente het bibliotheekbeleidsplan niet indient voor 31 december,   vervalt de subsidie, vermeld in artikel 45 van het decreet van 6 juli 2012,   vanaf 1 januari van het daaropvolgende jaar.<BR></P>  <P>§ 2. Een gemeente waarvan het cultuurbeleidsplan door de administratie niet   wordt aanvaard, en die evenmin beschikt over een bibliotheekbeleidsplan voor de   lopende bestuursperiode dat door de administratie is aanvaard, dient een   bibliotheekbeleidsplan in voor 31 december van het jaar van kennisgeving door de   administratie dat het cultuurbeleidsplan niet is aanvaard.<BR></P>  <P>Het niet-indienen van het bibliotheekbeleidsplan voor 31 december van het   jaar van kennisgeving van het niet-aanvaarden van het cultuurbeleidsplan heeft   tot gevolg dat de subsidie, vermeld in 45 van het decreet van 6 juli 2012,   vervalt vanaf 1 januari van het daaropvolgende jaar.<BR></P>  <P>§ 3. Uiterlijk op 31 maart van het jaar dat volgt op de indiening van het   bibliotheekbeleidsplan bij de administratie, deelt de administratie mee of het   bibliotheekbeleidsplan wordt aanvaard.<BR></P>  <P>Als het beleidsplan niet wordt aanvaard, vervalt de subsidie, vermeld in   artikel 45 van het decreet van 6 juli 2012, vanaf de eerste dag van de maand die   volgt op de kennisgeving door de administratie.<BR></P>  <P>§ 4. Na een niet-aanvaarding van het bibliotheekbeleidsplan of het niet   tijdig indienen van het bibliotheekbeleidsplan kan de gemeente een nieuw   bibliotheekbeleidsplan indienen voor 31 december en geldt de procedure, vermeld   in paragraaf 3.<BR></P>  <P>De subsidie, vermeld in artikel 45 van het decreet van 6 juli 2012, kan   opnieuw worden toegekend vanaf de eerste dag van de maand die volgt op de   kennisgeving van de aanvaarding van het beleidsplan aan de   gemeente.<BR></P>
+<p>...</p>
 
 ### ART. 38.
 
-De uitvoering van het bibliotheekbeleidsplan wordt jaarlijks beschreven in   een voortgangsrapport, goedgekeurd door het college van burgemeester en   schepenen, na advies van het beheersorgaan van de bibliotheek.<BR>
+...
 
 ### ART. 39.
 
-<P>Om in aanmerking te komen voor subsidiëring, moet een gemeente die niet   beschikt over een bibliotheek, gesubsidieerd op basis van het decreet van 13   juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal   cultuurbeleid, vóór 1 april een aanvraag indienen bij de administratie.<BR></P>  <P>Nadat de gemeente de aanvraag heeft ingediend, begeeft de administratie zich   ter plaatse en gaat na of de gemeentelijke bibliotheek voldoet aan de   voorwaarden, vermeld in artikel 9 van het decreet van 6 juli 2012. De   administratie maakt een omstandig verslag op van haar bevindingen en bezorgt dat   aan de gemeente.<BR></P>  <P>Bij een positief eindadvies van de administratie zullen vanaf 1 januari van   het daaropvolgende kalenderjaar subsidies worden   toegekend.<BR></P>
+<p>...</p>
 
 ### ART. 40.
 
-<P>De subsidie, vermeld in artikel 45 van het decreet van 6 juli 2012, wordt   uitbetaald in een voorschot en een saldo. Het voorschot bedraagt 60% van de   voorgestelde subsidie en wordt uitbetaald uiterlijk op 30 juni van het   gesubsidieerde werkjaar. Het saldo van 40% wordt uitbetaald uiterlijk op 30   november van het jaar dat volgt op het gesubsidieerde werkjaar, nadat de   administratie de financiële afrekening van de bibliotheek voor de   personeelsuitgaven heeft goedgekeurd.<BR></P>  <P>Als de uitbetaalde subsidie hoger is dan de verantwoorde uitgaven, wordt het   verschil in mindering gebracht van de subsidie die in de toekomst nog   verschuldigd is.<BR></P>
+<p>...</p>
 
 ### ART. 41.
 
-De gemeente moet jaarlijks vóór 1 mei van het jaar dat volgt op het jaar   waarin de subsidies werden toegekend, de volgende documenten ter beschikking   stellen van de administratie : <BR>1° de goedgekeurde financiële afrekening van   de bibliotheek betreffende de personeelsuitgaven;<BR>2° de statistische gegevens   die de administratie noodzakelijk acht, op de wijze die de administratie   bepaalt.<BR>
+...
 
 ### ART. 42.
 
-Voor de uitvoering van het convenant, vermeld in artikel 47 van het   decreet van 6 juli 2012, dat de minister kan sluiten met de Vlaamse   Gemeenschapscommissie, kan de Vlaamse Gemeenschapscommissie aanspraak maken op   een jaarlijkse enveloppensubsidie van 2.300.000 euro.<BR>
+...
 
 ## Afdeling 2 Grootstedelijke gebieden Antwerpen en Gent
 
