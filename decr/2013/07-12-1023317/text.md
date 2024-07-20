@@ -38,6 +38,7 @@ In dit decreet wordt verstaan onder :<br>
 a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
+20°/1 bufferzone: de zone, vastgelegd door het werelderfgoedcomité, rond of naast het werelderfgoed;<br>
 21° code van goede praktijk : geschreven en publiek toegankelijke regels met betrekking tot de uitvoering van en de rapportering over archeologisch vooronderzoek en archeologische opgravingen en met betrekking tot het gebruik van detectoren en de bij de betrokken beroepscategorieën algemeen aanvaarde regels van goed vakmanschap;<br>
 21° /1 cultuurgoederen: roerende goederen die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed aangetoond kan worden. Voor beschermde onroerende goederen in eigendom van privépersonen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan, of er moet voorheen voor het beheer ervan een premie verleend zijn, opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
 21°/2 cultuurhistorische landschapszorg: het stimuleren van het behoud, het herstel en de ontwikkeling van cultuurhistorische, fysisch-geografische en esthetische landschapswaarden en van typische landschapskenmerken waaronder kleine landschapselementen;<br>
@@ -73,6 +74,7 @@ b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, 
 44° SARO : de strategische adviesraad opgericht bij het decreet van 10 maart 2006 houdende de oprichting van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
 45° stads- of dorpsgezicht : een geheel van een of meer monumenten of onroerende goederen met omgevende bestanddelen zoals beplantingen, omheiningen, waterlopen, bruggen, wegen, straten en pleinen, van algemeen belang wegens de erfgoedwaarde;<br>
 46° VCRO : Vlaamse Codex Ruimtelijke Ordening;<br>
+46°/1 werelderfgoed: een onroerend goed dat is ingeschreven op de Lijst van het Werelderfgoed, conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972;<br>
 47° zakelijkrechthouder : de eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever.
 
 ## HOOFDSTUK 3 Instanties en actoren van het onroerenderfgoedbeleid
@@ -742,7 +744,7 @@ De erkende archeoloog sluit met de zakelijkrechthouders van de betrokken onroere
 3° een overzicht van de voorgestelde en goedgekeurde maatregelen uit de archeologienota;<br>
 4° de financiële implicaties van het archeologisch onderzoek en de werking van het archeologisch solidariteitsfonds.</p>
 
-## HOOFDSTUK 6 Beschermingen en erfgoedlandschappen
+## HOOFDSTUK 6 Beschermingen, erfgoedlandschappen en werelderfgoed
 
 ## Afdeling 1 Beschermingsprocedure
 
@@ -1160,6 +1162,24 @@ Op basis van de onroerenderfgoedrichtplannen, vermeld in artikel 7.1.1, of   van
 ### ART. 6.5.4.
 
 Deze afdeling doet geen afbreuk aan strengere voorschriften voor   beschermde goederen.<BR>
+
+## Afdeling 6. Werelderfgoed
+
+### ART 6.6.1.
+
+§1. Bepaalde handelingen aan of in werelderfgoederen of onroerende goederen geheel of gedeeltelijk in de bufferzone ervan waarvoor geen omgevingsvergunning is vereist, kunnen niet worden aangevat zonder een voorafgaande toelating van het college van burgemeester en schepenen van de gemeente waar het werelderfgoed of het onroerend goed in de bufferzone ervan ligt tenzij zij zijn vrijgesteld in een beheersplan dat overeenkomstig artikel 8.1.1 is goedgekeurd.<br>
+<br>
+Het college van burgemeester en schepenen gaat in voorkomend geval na of de aangevraagde handelingen rekening houden met de uitzonderlijke universele waarde van het werelderfgoed in kwestie.<br>
+<br>
+De Vlaamse Regering bepaalt de toelatingsplichtige handelingen en de nadere regels voor het aanvragen en afleveren van de toelating.<br>
+<br>
+§2. Als voor de in paragraaf 1 vermelde toelatingsplichtige handelingen aan of in werelderfgoederen of onroerende goederen in de bufferzone ervan ook een omgevingsvergunning, een vergunning, een toelating, een machtiging, een ontheffing of een afwijking is vereist overeenkomstig het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, gaat de vergunningverlenende overheid na of de aangevraagde handelingen rekening houden met de uitzonderlijke universele waarde van het werelderfgoed in kwestie.<br>
+<br>
+De Vlaamse Regering kan de nadere regels over de betrokkenheid van de gemeente als die niet de vergunningverlenende overheid, vermeld in het eerste lid, is, bepalen.<br>
+<br>
+§3. Als voor handelingen aan of in werelderfgoederen of onroerende goederen in de bufferzone ervan ook een toelatings- of meldingsplicht als vermeld in artikel 6.4.4, §1, of een adviesplicht als vermeld in artikel 6.4.4, §2 en §3, geldt omwille van een bescherming als monument, cultuurhistorisch landschap, archeologische site of stads- en dorpsgezicht, gelden voor wat betreft de afbakening van het beschermde goed voor die handelingen alleen de toelatings- of meldingsplichten of de adviesplicht die voortvloeien uit de bescherming.<br>
+<br>
+Als voor de in paragraaf 1 vermelde toelatingsplichtige handelingen aan of in werelderfgoederen of onroerende goederen in de bufferzone ervan die niet beschermd zijn, ook een toelatingsplicht als vermeld in artikel 4.1.1, derde lid, geldt omwille van een opname van het goed in een vastgestelde inventaris, gelden voor wat betreft de afbakening van het vastgestelde goed voor die handelingen alleen de toelatingsplichten die voortvloeien uit de vaststelling.
 
 ## HOOFDSTUK 7 Onroerenderfgoedrichtplannen
 
