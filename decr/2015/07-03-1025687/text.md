@@ -159,21 +159,23 @@ Nadat   de familierechtbank de opdracht tot maatschappelijk onderzoek heeft bevo
 
 ### ART. 21.
 
-Het   raadgevend comité bij het Vlaams Centrum voor Adoptie als vermeld in artikel 20,   § 8, van het decreet van 20 januari 2012, verstrekt ook adviezen over   binnenlandse adoptie, op eigen initiatief of op verzoek van het hoofd van het   Vlaams Centrum voor Adoptie.
+...
 
 ### ART. 22.
 
-<P>§   1. De Vlaamse adoptieambtenaar voert de taken, vermeld in artikel 21, § 2, van   het decreet van 20 januari 2012, ook uit voor binnenlandse adoptie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De Vlaamse Regering bepaalt op basis van het decreet van 20 januari 2012 en   dit decreet het takenpakket en het profiel, met mandaatfunctie, van de Vlaamse   adoptieambtenaar.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De Vlaamse adoptieambtenaar voert de taken, vermeld in artikel 21, tweede lid, 1° van het decreet van 20 januari 2012, ook uit voor binnenlandse adoptie.</p>
 
-## HOOFDSTUK 6 Trefgroepen
+<p>§ 2. ...</p>
+
+## HOOFDSTUK 6 ...
 
 ### ART. 23.
 
-De   Vlaamse Regering kan, na gemotiveerd advies van het Vlaams Centrum voor Adoptie,   een vereniging met als leden adoptanten, geadopteerden of afstandsouders, of een   combinatie van die personen, als trefgroep erkennen. Om als trefgroep erkend te   worden en te blijven, moet een vereniging voldoen aan volgende voorwaarden   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de vorm aannemen van een vereniging zonder winstoogmerk;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in haar beheersorgaan adoptanten, geadopteerden of afstandsouders de meerderheid   laten uitmaken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   als doelstelling hebben adoptanten, geadopteerden of afstandsouders te   ondersteunen en hun belangen te onderkennen of te behartigen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 24.
 
-<P>§   1. De Vlaamse Regering stelt de procedure vast voor de aanvraag, de erkenning en   de hernieuwing van de erkenning van de trefgroep. Tevens voorziet zij in een   bezwaarprocedure. De Vlaamse Regering kan aanvullende erkenningsvoorwaarden   opleggen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De erkenning kan door de Vlaamse Regering worden opgeheven of geschorst voor   de termijn die zij bepaalt indien de bepalingen van dit decreet niet worden   nageleefd. Bij de stopzetting van de activiteiten wordt de erkenning ambtshalve   geschrapt. De Vlaamse Regering bepaalt de procedure inzake opheffing en   schorsing van de erkenning.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>...</p>
 
 ## HOOFDSTUK 7 Het inzagerecht
 
