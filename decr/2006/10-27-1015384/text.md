@@ -303,7 +303,7 @@ De OVAM kan de termijn bepalen waarin het beschrijvend bodemonderzoek wordt uitg
 <br>
 Alle belanghebbenden kunnen tegen de beslissing van de OVAM, vermeld in het eerste en tweede lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.<br>
 <br>
-In afwijking van het eerste lid rust de verplichting tot bodemsanering van rechtswege op de persoon die door de OVAM is aangemaand om een beschrijvend bodemonderzoek uit te voeren als dat bodemonderzoek een ernstige historische bodemverontreiniging tot stand gekomen op de betreffende grond aantoont, met behoud van de toepassing van de vrijstellingsregeling, vermeld in artikel 23.</p>
+In afwijking van het eerste lid rust de verplichting tot bodemsanering van rechtswege op de persoon die door de OVAM is aangemaand om een beschrijvend bodemonderzoek uit te voeren als dat bodemonderzoek een ernstige historische bodemverontreiniging tot stand gekomen op de betreffende grond aantoont, met behoud van de toepassing van de vrijstellingsregeling, vermeld in artikel 23.&nbsp;Als de aangemaande persoon conform artikel 23 na het beschrijvend bodemonderzoek vrijstelling van de verplichting tot bodemsanering verkrijgt die van rechtswege op hem rust, herneemt de OVAM haar bevoegdheid, vermeld in het eerste en tweede lid. Dat is ook het geval als de aangemaande persoon voor een deel van de verontreiniging een vrijstelling verkrijgt.</p>
 
 ## B. Vrijstelling van de saneringsplicht
 
@@ -1092,6 +1092,19 @@ De eigenaar van de risicogrond die een vrijstelling van de bodemonderzoeksplicht
 § 2. Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de persoon, vermeld in artikel 29 of 30.<br>
 &nbsp;
 
+### ART 102bis.
+
+§1. In het kader van de samenvoeging van gemeenten, ter uitvoering van deel 2, titel 8, van het decreet van 22 december 2017 over het lokaal bestuur, kunnen risicogronden overgedragen worden zonder dat voorafgaandelijk aan de verplichtingen, vermeld in artikel 102 tot en met 115, moet worden voldaan.<br>
+&nbsp;<br>
+De nieuwe gemeente voert de volgende verplichtingen uit na de samenvoeging van de gemeenten:<br>
+1° de uitvoering van een oriënterend bodemonderzoek op de overgedragen risicogronden en de indiening van het verslag ervan bij de OVAM. Het oriënterend bodemonderzoek wordt uitgevoerd en het verslag ervan wordt bij de OVAM ingediend binnen drie jaar na de datum van de samenvoeging van de gemeenten;<br>
+2° als conform artikel 104, §1, of artikel 109, §1, een beschrijvend bodemonderzoek noodzakelijk is: de uitvoering van het beschrijvend bodemonderzoek en de indiening van het verslag ervan bij de OVAM binnen de termijn die de OVAM bepaalt;<br>
+3° als conform artikel 104, §2, of artikel 109, §2, bodemsanering noodzakelijk is: de uitvoering van de bodemsanering binnen de termijn die de OVAM bepaalt.<br>
+<br>
+Binnen één jaar na de samenvoeging van de gemeenten maakt de nieuwe gemeente een inventaris op van al haar risicogronden die vallen onder de respectieve verplichtingen, vermeld in het tweede lid, en bezorgt ze de inventaris aan de OVAM.<br>
+<br>
+§2. Paragraaf 1 is van overeenkomstige toepassing op de overdracht van risicogronden van de openbare centra voor maatschappelijk welzijn van de samengevoegde gemeenten aan het nieuwe openbaar centrum voor maatschappelijk welzijn van de nieuwe gemeente.
+
 ## B. Melding van overdracht
 
 ### ART. 103.
@@ -1123,7 +1136,7 @@ De verplichting om de verdere bodemsanering en de eventuele nazorg uit te voeren
 
 § 1. De overdrager of, in voorkomend geval, de gemandateerde is niet verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 104, § 2, na te leven, als de OVAM op basis van het dossier van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende elementen voldaan is:<br>
 1° de bodemverontreiniging is niet op de over te dragen grond tot stand gekomen;<br>
-2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 12, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging;<br>
+2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 12, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De gebruiker is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 12, §1;<br>
 3° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 12, § 2, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van eigenaar. Als de eigenaar voor een deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 12, § 1.<br>
 <br>
 § 2. In afwijking van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend bodemonderzoek uit te voeren of de verplichtingen, vermeld in artikel 104, § 2, na te leven als de OVAM een van de volgende elementen aantoont :<br>
@@ -1171,7 +1184,7 @@ De verplichting om de verdere bodemsanering en de eventuele nazorg uit te voeren
 
 § 1. De overdrager of, in voorkomend geval, de gemandateerde is niet verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 109, § 2, na te leven, als de OVAM op basis van het dossier van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende elementen voldaan is:<br>
 1° de bodemverontreiniging is niet tot stand gekomen op de over te dragen grond;<br>
-2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 23, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging;<br>
+2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 23, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De gebruiker is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 23, §1;<br>
 3° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 23, § 2, eerste lid, of cumulatief aan de voorwaarden, vermeld in het tweede lid, als het gaat om een overdrager die de hoedanigheid heeft van eigenaar. Als de betrokkene voor een deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 23, § 1.<br>
 <br>
 § 2. In afwijking van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 109, § 2, na te leven, als de OVAM een van de volgende elementen aantoont :<br>
@@ -1562,7 +1575,7 @@ In afwijking van artikel 160 kan de OVAM beslissen af te zien van verhaal   als 
 
 § 1. Op grond van de beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet, heeft de OVAM tot zekerheid van de voldoening van de kosten van de ambtshalve uitvoering ervan een algemeen voorrecht op alle roerende goederen van de personen, vermeld in artikel 160, en kan ze een wettelijke hypotheek nemen op al de daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van deze personen. Hetzelfde geldt als de OVAM van rechtswege een siteonderzoek uitvoert met toepassing van artikel 141.<br>
 <br>
-§ 2. Het voorrecht neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van boek II van het Wetboek van Koophandel.<br>
+§ 2. Het voorrecht neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van het Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen.<br>
 <br>
 § 3. De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens de betekende beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet.<br>
 <br>
@@ -1570,7 +1583,7 @@ In afwijking van artikel 160 kan de OVAM beslissen af te zien van verhaal   als 
 <br>
 De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een afschrift van de beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet, die eensluidend wordt verklaard door die ambtenaar en die melding maakt van de betekening ervan.<br>
 <br>
-§ 5. Artikel 19, tweede lid, van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde kosten van de ambtshalve uitvoering krachtens de bepalingen van dit decreet, waarvoor een beslissing door de OVAM genomen werd en waarvan de betekening aan de personen, vermeld in artikel 160, is gedaan voor het vonnis van faillietverklaring.<br>
+§ 5. Artikel XX.113, tweede lid, van het Wetboek van economisch recht is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde kosten van de ambtshalve uitvoering krachtens de bepalingen van dit decreet, waarvoor een beslissing door de OVAM genomen werd en waarvan de betekening aan de personen, vermeld in artikel 160, is gedaan voor het vonnis van faillietverklaring.<br>
 &nbsp;
 
 ### ART 161bis
