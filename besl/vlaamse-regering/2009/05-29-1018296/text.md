@@ -58,7 +58,7 @@ Bij de beoordeling van de ingediende beursaanvragen zijn de volgende evaluatiecr
 
 De beoordeling van de ingediende beursaanvragen voor de 1ste beurstermijn gebeurt door een commissie van deskundigen samengesteld door de raad van bestuur van het FWO. Het aantal, de samenstelling en de werking van deze commissies wordt door de raad van bestuur van het FWO in het reglement, vermeld in artikel 7, nader bepaald. De commissies van deskundigen adviseren de raad van bestuur van het FWO voor zijn beslissing over elke beursaanvraag.<br>
 <br>
-De raad van bestuur van het FWO draagt zorg voor een regelmatige vernieuwing en een optimale samenstelling van deze commissies. Ten minste een derde van het aantal leden dient rechtstreeks betrokken te zijn bij onderzoek en ontwikkeling in het bedrijfsleven. Ten minste een derde van het aantal leden is verbonden aan een hoger-onderwijsinstelling of een onderzoekscentrum.
+De raad van bestuur van het FWO draagt zorg voor een regelmatige vernieuwing en een optimale samenstelling van deze commissies. Afhankelijk van het beoogde potentieel voor economische of maatschappelijke toepasbaarheid, vermeld in artikel 2, §3, tweede lid, is ten minste een derde van het aantal leden rechtstreeks betrokken bij respectievelijk onderzoek en ontwikkeling in het bedrijfsleven dan wel bij de socialprofitsector of de overheid. Ten minste een derde van het aantal leden is verbonden aan een hoger-onderwijsinstelling of een onderzoekscentrum.
 
 ### ART. 9.
 
