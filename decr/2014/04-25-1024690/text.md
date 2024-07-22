@@ -765,7 +765,8 @@ a) de localiseerbare gebiedsspecifieke ontwikkelingsperspectieven opgenomen in e
 b) de stedenbouwkundige voorschriften van een ruimtelijk uitvoeringsplan;<br>
 8° voor constructies die door de aard ervan een tijdelijk karakter hebben;<br>
 9° voor veranderingen van de exploitatie van een ingedeelde inrichting of activiteit waarvoor de initiële omgevingsvergunning voor een bepaalde duur is verleend;<br>
-10° voor projecten die kleinhandelsactiviteiten omvatten en voor niet langer dan 12 maanden vergund worden in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies.<br>
+10° voor projecten die kleinhandelsactiviteiten omvatten en voor niet langer dan 12 maanden vergund worden in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies;<br>
+11° voor een proefvergunning voor de exploitatie van een testtechniek als vermeld in artikel 5 van het decreet van 19 april 2024 over ammoniakemis-siereducerende maatregelen, voor een periode van maximaal vijftien jaar.<br>
 <br>
 De vergunning van bepaalde duur die verleend wordt op basis van het tweede lid, 7°, a), wordt geacht voor onbepaalde duur te zijn verleend als bij het verstrijken van de duur van de vergunning de gebiedsspecifieke ontwikkelingsperspectieven niet zijn verankerd in een definitief vastgesteld ruimtelijk uitvoeringsplan.<br>
 <br>
