@@ -19,6 +19,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1.2, eerste lid, 64°, van het Besluit Vlaamse Codex Wonen van 2021, wordt de zinsnede “6.36, 1°” vervangen door de zinsnede “6.36, §1, 1°”.
+
+### ART 2.
+
+In artikel 5.38, §2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 januari 2023 en 15 september 2023, wordt de zinsnede “bijlage 29” vervangen door de zinsnede “bijlage 33”.
+
 ### ART 3.
 
 In artikel 5.47/1 van het Besluit Vlaamse Codex Wonen van 2021, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -56,6 +64,15 @@ In artikel 5.47/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 “c) in voorkomend geval een verklaring op eer dat de geconventioneerde huurwoningen die rechtstreeks door de private initiatiefnemer zullen worden verhuurd, worden verhuurd conform de typehuurovereenkomst, opgenomen in bijlage 30, die bij dit besluit is gevoegd, of, in voorkomend geval, conform de typehuurovereenkomst, vermeld in artikel 5.255/1, §3.”;<br>
 2° in paragraaf 4 worden de woorden “en uiterlijk vijf jaar na de datum dat de omgevingsvergunning voor stedenbouwkundige handelingen of in voorkomend geval de omgevingsvergunningen voor stedenbouwkundige handelingen zijn verleend” opgeheven.
 
+### ART 6.
+
+In artikel 5.47/5, §2, eerste lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt het woord “huurovereenkomstdie” vervangen door de woorden “huurovereenkomst die”.
+
+### ART 7.
+
+In artikel 5.247 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt punt 1° vervangen door wat volgt:<br>
+“1° aanvrager: de persoon die een attest aanvraagt om een geconventioneerde huurwoning te huren;”.
+
 ### ART 8.
 
 Aan artikel 5.248, eerste lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt de zinsnede “of, in voorkomend geval, de typehuurovereenkomst, vermeld in artikel 5.255/1, §3” toegevoegd.
@@ -69,6 +86,11 @@ In artikel 5.249 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART 10.
 
 In artikel 5.253, 1°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt tussen de zinsnede “initiatiefnemer,” en het woord “beschikbaar” de zinsnede “en die in dezelfde gemeente liggen,” ingevoegd.
+
+### ART 11.
+
+Aan artikel 5.254, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+“8° de registratie van de huurprijs.”.
 
 ### ART 12.
 
@@ -158,3 +180,59 @@ Het agentschap rangschikt de kandidaatstellingen, vermeld in artikel 5.255, §2,
 In artikel 5.257 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, worden de volgende wijzigingen aangebracht:<br>
 1° in het eerste lid wordt tussen de zinsnede “is gevoegd.” en het woord “aan” de zin “Als een gemeente of intergemeentelijk samenwerkingsverband een eigen typehuurovereenkomst opstelt conform artikel 5.255/1, §3, worden de geconventioneerde huurwoningen verhuurd als hoofdverblijfplaats en met gebruik van de eigen typehuurovereenkomst.” ingevoegd;&nbsp;<br>
 2° in het derde lid, wordt de zinsnede “-huurder” opgeheven.
+
+### ART 15.
+
+In artikel 5.258 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid vervangen door wat volgt:<br>
+“De huurprijs van de geconventioneerde huurwoning mag niet hoger zijn dan de markthuurprijs verminderd met een korting die minimaal de helft bedraagt van de subsidie. De markthuurprijs wordt berekend op een van de volgende tijdstippen:&nbsp;<br>
+1° het ogenblik van het sluiten van de hoofdhuurovereenkomst, die conform de typehoofdhuurovereenkomst, opgenomen in bijlage 31, die bij dit besluit is gevoegd, is gesloten;<br>
+2° het ogenblik van het plaatsen van een oproep tot kandidaatstelling als vermeld in artikel 5.255;<br>
+3° het ogenblik van de registratie van de huurprijs van de geconventioneerde huurwoning in het Woningportaal als een verhuurder een huurwoning zal verhuren, zonder voorafgaandelijk een oproep tot kandidaatstelling te plaatsen.”;<br>
+2° er wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
+“Als een verhuurder een huurwoning zal toewijzen op basis van een oproep tot kandidaatstelling als vermeld in artikel 5.255, verbindt hij zich ertoe om de geconventioneerde huurwoning te verhuren aan de huurprijs opgenomen in die oproep tot kandidaatstelling. Als een verhuurder een huurwoning zal toewijzen zonder zich te baseren op een oproep tot kandidaatstelling, registreert hij de huurprijs van de geconventioneerde huurwoning in het Woningportaal.”.&nbsp;
+
+### ART 16.
+
+In artikel 6.5, §2, derde lid, 3°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, worden de woorden “huurprijs of” opgeheven.
+
+### ART 17.
+
+In artikel 6.6, §2, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, wordt het woord “waarvan” vervangen door de woorden “aan van wie”.
+
+### ART 18.
+
+In artikel 6.8 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 2°, wordt het woord “primaire” opgeheven;<br>
+2° in paragraaf 1, eerste lid, wordt punt 6° opgeheven;<br>
+3° aan paragraaf 1, tweede lid, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+“3° de kandidaat-huurder is gedurende twee jaar niet actief geweest in zijn inschrijvingsdossier en reageert niet op de brief van de primaire verhuurder met de vraag of hij zijn kandidatuur wil behouden overeenkomstig artikel 6.9, vierde lid.”;<br>
+4° in paragraaf 3, 3°, wordt de zinsnede “, 3° en 6°, en tweede lid, 2°” vervangen door de zinsnede “en 3°, en tweede lid, 2°, en 3°”.
+
+### ART 19.
+
+In artikel 6.46, eerste lid, van hetzelfde besluit worden de woorden “op dat ogenblik van kracht is” vervangen door de woorden “van kracht is bij de aanvang van de huurovereenkomst”.
+
+### ART 20.
+
+In artikel 6.55 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “in de huurovereenkomst werd vastgelegd” vervangen door de woorden “van kracht werd”;<br>
+2° in het tweede lid worden de woorden “het aangaan” vervangen door het woord “aanvang”.
+
+### ART 21.
+
+In artikel 6.61 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021, 10 november 2022 en 23 december 2022 worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid, wordt de zin “In dat geval bedraagt de waarborg maximaal twee maanden de basishuurprijs.” vervangen door de zin “In dat geval bedraagt de waarborg maximaal twee maanden de basishuurprijs voor de woningen die vallen onder het toepassingsgebied van deel 9, titel 1, hoofdstuk 1, van dit besluit, en twee maanden de contractuele huurprijs voor de woningen die vallen onder het toepassingsgebied van deel 9, titel 1, hoofdstuk 2, van dit besluit.”;<br>
+2° aan paragraaf 3, eerste lid, wordt de zinsnede “, van dit besluit en de helft van de contractuele huurprijs voor de woningen die vallen onder het toepassingsgebied van deel 9, titel 1, hoofdstuk 2, van dit besluit.” toegevoegd.
+
+### ART 22.
+
+In het opschrift van bijlage 29 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 september 2023, wordt de zinsnede “bijlage 29” vervangen door de zinsnede “bijlage 33”.
+
+### ART 23.
+
+Artikel 17, artikel 18, artikel 20 tot en met artikel 22 van het decreet van 8 maart 2024 tot instelling van een kotlabel en tot wijziging van de regelgeving over de geconventioneerde verhuur en artikel 3, 1°, 2°, 4°, 5° en 7°, artikel 4, 2°, 6° en 8°, artikel 5, 1°, artikel 8 tot en met 10, artikel 12, 3° en 11°, artikel 13, artikel 14, 1°, van dit besluit treden in werking op 13 mei 2024.
+
+### ART 24.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.

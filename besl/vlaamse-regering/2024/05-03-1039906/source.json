@@ -2,16 +2,16 @@
   "codex_id": 1039906,
   "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de subsidiëring en toewijzing van geconventioneerde huurwoningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039906/VolledigDocument?datum=2024-05-13",
-  "source_sha256": "f06a63e8c6ae9af5939110643a75aca9fc36e4498a1655cd81dc8a4f94a0609b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039906/VolledigDocument?datum=2024-07-22",
+  "source_sha256": "2e2710b833538f79c3f3c7e6f1e278f960f72da414ed0ba83e43aa5d70235224",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039906&param=informatie",
-  "as_of": "2024-05-13",
+  "as_of": "2024-07-22",
   "made": "2024-05-03",
   "gazette": "2024-07-12",
   "numac": 2024006739,
   "document_start": "2024-07-22",
   "document_end": null,
-  "in_force": "2024-05-13",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2024-05-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-07-22",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2024-07-22; future article versions excluded; article text as the API gives it"
 }
