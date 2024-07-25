@@ -266,7 +266,7 @@ De organisator heeft een verzekering voor : <BR>1° de burgerlijke   aansprakeli
 3°&nbsp;&nbsp; &nbsp;de emotionele ondersteuning van elk kind door de kinderbegeleider;<br>
 4°&nbsp;&nbsp; &nbsp;de educatieve ondersteuning van elk kind door de kinderbegeleider;<br>
 5°&nbsp;&nbsp; &nbsp;de omgeving;<br>
-6°&nbsp;&nbsp; &nbsp;gezinnen en diversiteit.<br>
+6°&nbsp; &nbsp; ...<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1°&nbsp;&nbsp; &nbsp;welbevinden: kunnen genieten, spontaan en zichzelf kunnen zijn, ontspannen zijn, zich openstellen, levenslust uitstralen, zelfvertrouwen hebben, weerbaar en assertief zijn en in contact zijn met zijn gevoelens;<br>
@@ -274,7 +274,7 @@ In het eerste lid wordt verstaan onder:<br>
 3°&nbsp;&nbsp; &nbsp;emotionele ondersteuning: warm, respectvol en enthousiast omgaan met de kinderen met aandacht voor hun emotionele behoeften;<br>
 4°&nbsp;&nbsp; &nbsp;educatieve ondersteuning: het leren en de ontwikkeling van de kinderen stimuleren met aandacht voor de ideeën, de initiatieven en het standpunt van de kinderen zelf en met het gebruik van een rijke en gevarieerde taal;<br>
 5°&nbsp;&nbsp; &nbsp;omgeving: een toegankelijke en stimulerende indeling van de opvangruimtes voor de kinderen met een gevarieerd aanbod aan materialen en activiteiten en een doeltreffende organisatie van tijd en personeel voor de kinderen;<br>
-6°&nbsp;&nbsp; &nbsp;gezinnen en diversiteit: het samenwerken en communiceren met gezinnen, inspraak geven aan en ondersteunen van gezinnen met respect voor de eigenheid van elk gezin.<br>
+6°&nbsp;&nbsp; &nbsp;...<br>
 <br>
 In het pedagogische beleid realiseert de organisator:<br>
 1°&nbsp;&nbsp; &nbsp;regelmaat in de dagindeling;<br>
@@ -283,9 +283,10 @@ In het pedagogische beleid realiseert de organisator:<br>
 4°&nbsp;&nbsp; &nbsp;het buitenspel;<br>
 5°&nbsp;&nbsp; &nbsp;een taalbeleid dat de Nederlandse taalverwerving van elk kind stimuleert, met daarnaast positieve aandacht voor de taal die het kind in zijn thuismilieu spreekt;<br>
 6°&nbsp;&nbsp; &nbsp;het bevorderen van een onderlinge respectvolle houding.<br>
+<em>7°&nbsp; &nbsp;&nbsp;</em>respect voor de eigenheid van elk gezin;<br>
+8°&nbsp; &nbsp; de ondersteuning van gezinnen.<br>
 <br>
-§2. Aansluitend bij de realisatie van het pedagogische beleid, vermeld in paragraaf 1, voldoet de organisator aan een pedagogische norm die betrekking heeft op dimensies die overeenkomen met de elementen, vermeld in paragraaf 1, eerste lid. De minister stelt de nadere regels vast.<br>
-&nbsp;</p>
+§2. Aansluitend bij de realisatie van het pedagogische beleid, vermeld in paragraaf 1, voldoet de organisator aan een pedagogische norm die betrekking heeft op dimensies die overeenkomen met de elementen, vermeld in paragraaf 1, eerste lid. De minister stelt de nadere regels vast.</p>
 
 ### ART. 32.
 
