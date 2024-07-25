@@ -209,11 +209,11 @@ Ter informatie van mogelijk betrokken gezinnen of instanties vermeldt het agents
 
 <p>De termijn van dertig kalenderdagen gaat in vanaf de derde werkdag die volgt op die waarop het agentschap de beslissing met een aangetekende brief aan de postdiensten overhandigd heeft, tenzij de geadresseerde het tegendeel bewijst.</p>
 
-<p>De aangetekende brief bevat minstens de volgende gegevens :<br>
-1° de gegevens, vermeld in artikel 14;<br>
-2° de motivering van het bezwaar;<br>
-3° de vermelding of de organisator gehoord wil worden;<br>
-4° de datum en een handtekening vanwege de organisator.</p>
+<p>De aangetekende brief bevat al de volgende gegevens:<br>
+1° de naam en het ondernemingsnummer van de organisator;<br>
+2° de titel en datum van de beslissing van het agentschap waartegen bezwaar wordt aangetekend;<br>
+3° de motivering van het bezwaar;<br>
+4° de handtekening van de organisator</p>
 
 ### ART. 22.
 
@@ -227,7 +227,7 @@ Het bezwaar is ontvankelijk als het bezwaar aan de volgende voorwaarden voldoet.
 
 ### ART. 24.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijn die van toepassing is, wordt het bezwaar geacht ontvankelijk te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ### ART. 25.
 
