@@ -148,7 +148,9 @@ De jaarlijkse subsidie&nbsp;voor de opdrachten, vermeld in artikel 3 en 4, bedra
 <br>
 De jaarlijkse subsidie voor de opdrachten, vermeld in artikel 3/1 van dit besluit, bedraagt 64,75 euro per vergunde kinderopvangplaats van een organisator gezinsopvang of groepsopvang die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders of met werknemers in het kader van het vernieuwend project werknemersstatuut van de kinderbegeleiders, vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang.<br>
 <br>
-De subsidie, vermeld in het tweede lid, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting van een organisator wordt de subsidie pro rata toegekend. In afwijking van artikel 13 en 14 wordt de subsidie automatisch uitbetaald door het agentschap.
+De subsidie, vermeld in het tweede lid, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting van een organisator wordt de subsidie pro rata toegekend. In afwijking van artikel 13 en 14 wordt de subsidie automatisch uitbetaald door het agentschap.<br>
+<br>
+De jaarlijkse subsidie, vermeld in het eerste en tweede lid, kan naar beneden worden bijgesteld wanneer uit de opbouw van de reserves, vermeld in artikel 9, het subsidiebedrag te hoog blijkt geraamd te zijn en is bijstelbaar in functie van eventuele begrotingsmaatregelen.
 
 ### ART 7.
 
@@ -156,7 +158,7 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 ### ART 8.
 
-De subsidie geldt voor een duur van zes jaar, op voorwaarde dat:<br>
+De subsidie geldt voor een duur van zeven jaar, op voorwaarde dat:<br>
 1° de pool gezinsopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 3/1 en 4, en specifiek ook aan de voorwaarden, vermeld in artikel 2, tweede lid;<br>
 2°&nbsp;het agentschap de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.<br>
 <br>
@@ -235,7 +237,7 @@ In artikel 59, § 1, eerste lid, van hetzelfde besluit worden de woorden "en art
 
 ### ART 19.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019 en treedt buiten werking op 31 december 2024.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019 en treedt buiten werking op 31 december 2025.
 
 ### ART 20.
 
