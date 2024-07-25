@@ -158,6 +158,8 @@ Als het agentschap de werking positief evalueert, wordt de subsidie telkens auto
 Het agentschap betrekt de organisatoren of hun vertegenwoordigers bij de evaluatie, vermeld in het tweede lid.<br>
 <br>
 Bij de evaluatie, vermeld in het tweede lid, wordt specifiek ook de inzet van de ondersteuners op de werkvloer, vermeld in artikel 4/1, geëvalueerd. Het ondersteuningsnetwerk kinderopvang bezorgt op verzoek van het agentschap alle nodige inlichtingen met het oog op die evaluatie.<br>
+<br>
+In afwijking van het eerste en tweede lid blijft de subsidie in 2025 voortgaan op basis van de positieve evaluatie in 2021.<br>
 &nbsp;
 
 ### ART 9.
