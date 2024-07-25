@@ -2,16 +2,16 @@
   "codex_id": 1028151,
   "title": "Besluit van de Vlaamse Regering van 2017-03-17 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028151/VolledigDocument?datum=2023-02-20",
-  "source_sha256": "019fc43db42f38112c77a00d7c097f5f3e3d372be3a495098ee5ed9edb3084c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028151/VolledigDocument?datum=2024-07-25",
+  "source_sha256": "c6bd534d6f22747c390d4c94e9da23667b08827c05bab894812fe2659a0153e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028151&param=informatie",
-  "as_of": "2023-02-20",
+  "as_of": "2024-07-25",
   "made": "2017-03-17",
   "gazette": "2017-04-18",
   "numac": 2017040188,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2023-02-20",
+  "in_force": "2024-07-25",
   "article_versions": 65,
-  "record_form": "consolidated version as in force on 2023-02-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
 }

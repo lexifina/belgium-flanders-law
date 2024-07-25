@@ -167,7 +167,7 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die
 
 ### ART 14/1.
 
-De organisatoren groepsopvang die conform artikel 18 van het subsidiebesluit van 22 november 2013 een subsidie voor inkomenstarief ontvangen voor meer dan achttien plaatsen, ontvangen jaarlijks een bijkomende subsidie van 126,05 euro per vergunde plaats voor de financiële ondersteuning van de doelstellingen, vermeld in artikel 14/2. Van de bijkomende subsidie wordt minstens 90% rechtstreeks ingezet voor de ondersteuning van de kinderbegeleiders op de werkvloer en maximaal 10% voor overheadkosten.<br>
+De organisatoren groepsopvang die minstens sinds 1 september van het voorafgaande kalenderjaar conform artikel 18 van het subsidiebesluit van 22 november 2013 een subsidie voor inkomenstarief ontvangen voor meer dan achttien plaatsen, ontvangen jaarlijks een bijkomende subsidie van 126,05 euro per vergunde plaats voor de financiële ondersteuning van de doelstellingen, vermeld in artikel 14/2. Van de bijkomende subsidie wordt minstens 90% rechtstreeks ingezet voor de ondersteuning van de kinderbegeleiders op de werkvloer en maximaal 10% voor overheadkosten.<br>
 <br>
 In het eerste lid wordt verstaan onder overheadkosten: het geheel van kosten voor coördinatie, sturing en ondersteuning van de concrete activiteiten.
 
