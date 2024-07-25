@@ -2,16 +2,16 @@
   "codex_id": 1031830,
   "title": "Besluit van de Vlaamse Regering van 2018-12-14 houdende toekenning van een subsidie aan het lokaal loket kinderopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031830/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "2f980cec6e459515cf464a6c000879865562c1483ce8b8743f08eed042b69715",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031830/VolledigDocument?datum=2024-07-25",
+  "source_sha256": "b9b1456eb8f2d12bbff5322b70737cb363c55f4cb731750447fbb522fc6f8ba1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031830&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2024-07-25",
   "made": "2018-12-14",
   "gazette": "2019-06-24",
   "numac": 2019013327,
   "document_start": "2019-04-01",
   "document_end": null,
-  "in_force": "2019-04-18",
+  "in_force": "2024-07-25",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
 }

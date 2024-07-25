@@ -62,6 +62,8 @@ In het tweede lid wordt verstaan onder:<br>
 
 Het totale subsidiebudget bedraagt 1.118.019,89 euro. Het jaarlijks bedrag van de subsidie per lokaal loket kinderopvang wordt berekend conform artikel 22 van het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning. Het bedrag per lokaal loket kinderopvang wordt vijfjaarlijks herberekend en het jaarlijks bedrag van de subsidie wordt verhoudingsgewijs verminderd als de subsidie niet voor een volledig kalenderjaar toegekend wordt.<br>
 <br>
+Als gemeenten samengevoegd worden op basis van artikel 342 tot en met 384/2 van het decreet van 22 december 2017 over het lokaal bestuur, telt het agentschap de subsidiebedragen van de lokale loketten van de gemeenten die vóór de samenvoeging van gemeenten een afzonderlijk lokaal loket hadden en door de samenvoeging van de gemeenten één lokaal loket realiseren, samen.<br>
+<br>
 Het totale subsidiebudget, vermeld in het eerste lid, wordt aangepast aan de afgevlakte gezondheidsindex.<br>
 <br>
 Overeenkomstig artikel 89, eerste lid, 28° en 58°, van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt verstaan onder afgevlakte gezondheidsindex: het prijsindexcijfer, vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen, dat wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit.<br>
