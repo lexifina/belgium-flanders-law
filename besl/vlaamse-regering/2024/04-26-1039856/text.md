@@ -26,7 +26,27 @@ Artikel 4.77 van hetzelfde besluit, opgeheven door het besluit van de Vlaamse Re
 <br>
 De VSMW stort de financiële middelen binnen het Solidariseringsfonds, vermeld in het eerste lid, door naar het Vlaamse Gewest.”.
 
+### ART 5.
+
+In artikel 4.160/4, §1, eerste lid, 5°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt de zinsnede “artikel 4.160/11, tweede lid,” vervangen door de zinsnede “artikel 4.37”.
+
 ### ART 6.
 
 In artikel 5.76, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021, 10 november 2022 en 15 september 2023, wordt punt 9° opnieuw opgenomen in de volgende lezing:<br>
 “9° de toelage aan het solidariseringsfonds, vermeld in artikel 4.77 van dit besluit;”.
+
+### ART 7.
+
+Aan artikel 5.124, vierde lid, van hetzelfde besluit, wordt de volgende zin toegevoegd:<br>
+<br>
+“Elke ontlener is of wordt eigenaar van de woning waarop de lening betrekking heeft.”.
+
+### ART 8.
+
+Artikel 2 en 6 hebben uitwerking met ingang van 1 januari 2024.<br>
+<br>
+Artikel 1, 3 en 4 treden in werking op 1 januari 2025.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
