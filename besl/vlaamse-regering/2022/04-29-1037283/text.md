@@ -62,13 +62,13 @@ algemene groepsvrijstellingsverordening: verordening (EU) 651/2014: verordening<
 1° (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.<br>
 2° Hostels: een toeristisch logies dat erkend is door Toerisme Vlaanderen als hostel binnen het kader van het decreet van 5 februari 2016 houdende het toeristische logies of als hostel in het tweetalige gebied Brussel-Hoofdstad ligt en geregistreerd is als toeristisch logies bij het Brussels Hoofdstedelijk Gewest.<br>
 <br>
-De sectorale investeringssubsidies die op grond van dit besluit worden toegekend aan organisaties die een economische activiteit uitvoeren, worden beschouwd als staatssteun in de zin van artikel 107, lid 1 van het Verdrag betreffende de werking van de Europese Unie. Deze steun wordt verleend binnen de grenzen en de voorwaarden vermeld in de algemene groepsvrijstellingsverordening, met uitzondering van de steun aan hostels, die voorafgaandelijk wordt aangemeld bij de Europese Commissie.<br>
+De sectorale investeringssubsidies die op grond van dit besluit worden toegekend aan organisaties die een economische activiteit uitvoeren, worden beschouwd als staatssteun in de zin van artikel 107, lid 1 van het Verdrag betreffende de werking van de Europese Unie. Deze steun wordt verleend binnen de grenzen en de voorwaarden vermeld in de algemene groepsvrijstellingsverordening, met uitzondering van de steun aan hostels, die wordt verleend binnen de grenzen en voorwaarden, vermeld in verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen.<br>
 <br>
 Conform de algemene groepsvrijstellingsverordening komen de volgende organisaties niet in aanmerking voor subsidiëring:<br>
 1° organisaties ten aanzien waarvan er een bevel tot terugvordering uitstaat door een eerder besluit van de Europese Commissie waarbij de steun onrechtmatig en onverenigbaar is verklaard met de interne markt;<br>
 2° organisaties die onderneming in moeilijkheden zijn als vermeld in artikel 2, 18., van de voormelde verordening.<br>
 <br>
-Sectorale investeringssubsidies kunnen pas aan hostels worden toegekend na definitieve goedkeuring van dit steunregime door de Europese Commissie.
+De sectorale investeringssubsidies die op grond van dit besluit worden toegekend aan hostels, vormen een compensatie voor diensten van algemeen economisch belang. De voormelde dienst van algemeen economisch belang bestaat uit het verschaffen van duurzame, veilige en toegankelijke jeugdinfrastructuur met bovenlokaal belang.
 
 ## HOOFDSTUK 2. Prioriteiten
 
@@ -88,14 +88,14 @@ In de uitgavenbegroting van de Vlaamse Gemeenschap wordt een totaalbedrag per ja
 ### ART 6.
 
 De volgende kosten komen in aanmerking voor sectorale investeringssubsidies:<br>
-1° het ereloon voor de opstellers van het ontwerp, de kosten voor het plaatsen en het uitvoeren van de overheidsopdrachten en de kosten voor het toezicht. Die kosten worden beschouwd als algemene kosten van de opdracht en worden forfaitair vastgesteld op maximaal 15% van het bedrag van de raming van de goedgekeurde bouwwerken bij de toekenning van de subsidie;<br>
-2° de kosten voor de uitvoering van de bouwopdracht, van een energieaudit of een toegankelijkheidsdoorlichting of andere specifieke studiekosten voor de gesubsidieerde maatregelen.<br>
+1° het ereloon voor de opstellers van het ontwerp, de kosten voor het plaatsen en het uitvoeren van de overheidsopdrachten, de kosten van een energieaudit, een toegankelijkheidsdoorlichting of andere specifieke studiekosten en de kosten voor het toezicht op de bouwplaats. De voormelde kosten worden beschouwd als algemene kosten van de opdracht en worden forfaitair vastgesteld op maximaal 15% van het bedrag van de raming van de goedgekeurde bouwwerken bij de toekenning van de subsidie;<br>
+2° de kosten voor de uitvoering van de bouwopdracht.<br>
 <br>
 De volgende werken, investeringen en kosten worden uitgesloten van subsidiëring:<br>
 1° horecavoorzieningen;<br>
 2° investeringen in kantoorruimtes;<br>
 3° de belasting over de toegevoegde waarde, met uitzondering van de niet-aftrekbare belasting over de toegevoegde waarde;<br>
-4° kosten die reeds door andere inkomsten of subsidies worden gedekt, kunnen niet worden ingebracht als aanvaardbare kosten.
+4° kosten die al door andere inkomsten of subsidies worden gedekt.
 
 ### ART 7.
 
@@ -113,7 +113,7 @@ Een subsidieaanvraag is ontvankelijk als al de volgende voorwaarden zijn vervuld
 5° het aanvraagdossier is van voldoende kwaliteit en bevat de nodige informatie voor een gedegen inhoudelijke beoordeling;<br>
 6° het project is financieel haalbaar en de financiering van het project is gegarandeerd, rekening houdend met de eventuele toekenning van een subsidie. Minstens 40% van de financiering voor de kosten, vermeld in artikel 6, eerste lid, wordt aangetoond door een inbreng van eigen middelen of middelen door andere overheden en/of derden. De inbreng kan bestaan uit investeringen, subsidies, kredieten of het leveren van (bouw)materialen in natura. De investeringssubsidie van de Vlaamse Gemeenschap bedraagt nooit meer dan 60% van de kosten, vermeld in artikel 6. Onvoorwaardelijke subsidiebeloftes die afhankelijk gemaakt zijn van subsidiëring door de Vlaamse Gemeenschap, worden aanvaard;<br>
 7° het project is haalbaar op stedenbouwkundig vlak: de subsidieaanvrager zorgt er zodoende voor dat de nodige vergunningen conform het omgevingsrecht verkregen worden;<br>
-8° de overheidsopdracht voor de plaatsing van de werken wordt op zijn vroegst verzonden of gepubliceerd op de datum van de subsidiebeslissing, en nadat de procedure, vermeld in artikel 15 van dit besluit, is gevolgd;<br>
+8° de overheidsopdracht voor werken wordt op zijn vroegst verzonden of gepubliceerd op de datum van de subsidiebeslissing, en nadat de procedure, vermeld in artikel 15 van dit besluit, is gevolgd;<br>
 9° het project kan voorlopig opgeleverd worden en de laatste betaalaanvraag kan worden ingediend binnen zes jaar vanaf de datum van het ministerieel besluit tot toekenning van de investeringssubsidie;<br>
 10° de subsidieaanvrager verklaart zich te houden aan de principes van goed bestuur; de principes van goed bestuur zijn bepaald in de Bestuurscode Cultuur van 26 juni 2020;<br>
 11° voor projecten met een gevraagd subsidiebedrag lager dan 150.000 euro: het project betreft geen jeugdverblijf of hostel met erkenning bij Toerisme Vlaanderen of jeugdverblijf of hostel in aanloop naar erkenning bij Toerisme Vlaanderen.<br>
@@ -216,7 +216,8 @@ d) gevels en sneden;<br>
 a) een motivering van de duurzaamheid en een prognose voor de energiebesparing per jaar door de geplande maatregelen. Om de prognose te berekenen, worden de berekeningsformules gebruikt die de administratie ter beschikking stelt. In geval van specifieke maatregelen voor waterbesparing of waterrecuperatie en materiaalrecuperatie wordt een prognose van besparing bijgevoegd;<br>
 b) een motivering van de veiligheid, inclusief een advies van de bevoegde dienst als dat van toepassing is;<br>
 c) een toegankelijkheidsdoorlichting van Inter met opgave van prioritaire maatregelen, en motivering over het respecteren van de keten van toegankelijkheid en de integrale toegankelijkheid van de functionele ruimten in de infrastructuur;<br>
-14° een nulmeting van het energieverbruik op basis van het werkingsjaar voorafgaand aan de aanvraag. Voor aanvragen die in 2022 ingediend zijn, wordt een nulmeting van het energieverbruik op basis van het werkingsjaar 2019 bij de aanvraag gevoegd. Om de nulmeting te bepalen, wordt de CO<sub>2</sub>-calculator gebruikt die de administratie ter beschikking stelt.
+14° een nulmeting van het energieverbruik op basis van het werkingsjaar voorafgaand aan de aanvraag. Voor aanvragen die in 2022 ingediend zijn, wordt een nulmeting van het energieverbruik op basis van het werkingsjaar 2019 bij de aanvraag gevoegd. Om de nulmeting te bepalen, wordt de CO<sub>2</sub>-calculator gebruikt die de administratie ter beschikking stelt;<br>
+15° als de aanvraag wordt ingediend door een hostel: een schriftelijke verklaring over alle de-minimissteun die gedurende de afgelopen periode van drie jaar is ontvangen.
 
 ## Afdeling 2. Beoordeling
 
@@ -234,7 +235,7 @@ De Vlaamse minister, bevoegd voor de cultuur, en de Vlaamse minister, bevoegd vo
 
 De administratie onderzoekt of een aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 7. De administratie meldt aan de subsidieaanvrager binnen dertig dagen na de uiterste indiendatum van de aanvraag, vermeld in artikel 11, of de aanvraag ontvankelijk of niet ontvankelijk is.<br>
 <br>
-De administratie onderzoekt of de aanvraag voldoet aan de subsidievoorwaarden, vermeld in artikel 8 van dit besluit, met uitzondering van de voorwaarde, vermeld in artikel 8, § 1, eerste lid, 1°, van dit besluit, die de Adviescommissie Cultuur- en Jeugdinfrastructuur beoordeelt op basis van de aangeleverde motivatie van de subsidieaanvrager en informatie van de administratie.<br>
+De administratie onderzoekt of de aanvraag voldoet aan de subsidievoorwaarden, vermeld in artikel 8 van dit besluit.<br>
 <br>
 De projecten worden inhoudelijk beoordeeld door de Adviescommissie Cultuur- en Jeugdinfrastructuur, vermeld in artikel 13, op basis van de criteria, vermeld in artikel 9. De Adviescommissie Cultuur- en Jeugdinfrastructuur verleent een gemotiveerd advies aan de Vlaamse minister, bevoegd voor de cultuur, wat de cultuurinfrastructuur betreft, en aan de Vlaamse minister, bevoegd voor de jeugd, wat de jeugdinfrastructuur betreft. In dat advies wordt een rangschikking opgemaakt op basis van het beschikbare subsidiebudget.<br>
 <br>
@@ -252,7 +253,7 @@ Voor de subsidieontvanger overgaat tot de procedure voor plaatsing van een opdra
 3° de plannen en de gedetailleerde raming;<br>
 4° de vereiste vergunningen.<br>
 <br>
-Voor de werken gegund worden, legt de subsidieontvanger het resultaat van de gunningsprocedure ter goedkeuring voor aan de administratie.<br>
+Voor de werken gegund worden, legt de subsidieontvanger het resultaat van de plaatsingsprocedure ter goedkeuring voor aan de administratie.<br>
 <br>
 De administratie betaalt de subsidie uit op basis van de vorderingsstaten, eventuele noodzakelijke bewijsstukken en de bijbehorende facturen op naam van de subsidieontvanger die goedgekeurd zijn door de administratie.<br>
 <br>

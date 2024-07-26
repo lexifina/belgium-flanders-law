@@ -2,16 +2,16 @@
   "codex_id": 1037283,
   "title": "Besluit van de Vlaamse Regering van 2022-04-29 over de regeling voor de toekenning van sectorale investeringssubsidies aan cultuur- en jeugdinfrastructuur met bovenlokaal belang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037283/VolledigDocument?datum=2023-11-27",
-  "source_sha256": "5ca85ede9c82e543447649d07886617b5c3047ab0b13495c645a3302f0b48ddf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037283/VolledigDocument?datum=2024-07-26",
+  "source_sha256": "e422a4867359b438b43b117d6ff8ca2a5899a108cc9cc2087bfd687a30af7041",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037283&param=informatie",
-  "as_of": "2023-11-27",
+  "as_of": "2024-07-26",
   "made": "2022-04-29",
   "gazette": "2022-07-25",
   "numac": 2022032277,
   "document_start": "2022-08-04",
   "document_end": null,
-  "in_force": "2023-11-27",
+  "in_force": "2024-07-26",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2023-11-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-07-26; future article versions excluded; article text as the API gives it"
 }
