@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040085,
+  "title": "Samenwerkingsakkoord van 2024-06-24 houdende uitvoering van het samenwerkingsakkoord van 30 januari 2019 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten, en tot vaststelling van de modaliteiten voor de samenwerkingsprocedure tussen het Belgisch biodiversiteitsplatform en het Nationaal Wettenschappelijk Secretariaat voor de invasieve uitheemse soorten bij de uitvoering van hun respectieve taken",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040085/VolledigDocument?datum=2024-07-26",
+  "source_sha256": "31a5c4f379ad4b640e446fcd4b260f54d24bab15cc5359dc18cfdd819f109dd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040085&param=informatie",
+  "as_of": "2024-07-26",
+  "made": "2024-06-24",
+  "gazette": "2024-07-26",
+  "numac": 2024006809,
+  "document_start": "2024-07-26",
+  "document_end": null,
+  "in_force": "2024-07-26",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2024-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
