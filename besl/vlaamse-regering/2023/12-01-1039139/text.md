@@ -24,6 +24,36 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Indiening van de kandidatenlijsten voor de gemeenteraadsverkiezingen
 
+### ART 1.
+
+§1. De voordrachtsakten van kandidaten voor de gewone gemeenteraadsverkiezingen en voor de buitengewone gemeenteraadsverkiezingen, vermeld in artikel 218, §1, 2°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, die plaatsvinden op 13 oktober 2024 worden door de lijsttrekker, zijnde de eerste kandidaat van de kandidatenlijst, digitaal ingediend. De voormelde digitale indiening is mogelijk vanaf woensdag 4 september 2024, om 9 uur ‘s morgens. Het Agentschap Binnenlands Bestuur stelt de elektronische procedure daarvoor ter beschikking en maakt die elektronische procedure bekend op zijn webtoepassing.<br>
+<br>
+De bijlagen, vermeld in artikel 68, §1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, worden op een van de volgende wijzen ingediend:<br>
+1° met de elektronische procedure, vermeld in het eerste lid, vanaf het tijdstip voor de digitale indiening van de voordrachtsakte, vermeld in het eerste lid;<br>
+2° op papier, op zaterdag 14 september 2024, tussen 9 en 12 uur en tussen 13 en 16 uur, op de zetel van het gemeentelijk hoofdbureau.<br>
+<br>
+Op zaterdag 14 september 2024, tussen 9 en 12 uur en tussen 13 en 16 uur, neemt de voorzitter van het gemeentelijk hoofdbureau kennis van de digitaal ingediende voordrachtsakten, en, in voorkomend geval, van de digitaal ingediende bijlagen. De voorzitter bezorgt een ontvangstmelding aan de indieners.<br>
+<br>
+In afwijking van het eerste lid worden de voordrachtsakten van kandidaten voor de gemeenteraadsverkiezingen op 13 oktober 2024 op papier ingediend bij de voorzitter van het gemeentelijk hoofdbureau, op de zetel van het gemeentelijk hoofdbureau, binnen de periode, vermeld in het tweede lid, 2°, als voldaan is aan de volgende twee voorwaarden:<br>
+1°&nbsp; de elektronische procedure, vermeld in het eerste lid, is tijdens de indieningsperiode, vermeld in het eerste lid, of tijdens een gedeelte van de voormelde periode, niet beschikbaar door een technische storing;<br>
+2°&nbsp; het Agentschap Binnenlands Bestuur heeft de technische storing, vermeld in punt 1°, vastgesteld en bekendgemaakt op zijn website.<br>
+<br>
+§2. De voordrachtsakten van kandidaten voor de rechtstreekse verkiezingen, vermeld in artikel 3, 5°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, worden conform artikel 2, §1, van het koninklijk besluit van 26 augustus 1988 tot vaststelling van de nadere regels voor de verkiezing van de raad voor maatschappelijk welzijn in de gemeenten bedoeld bij artikel 7 van de wetten op het gebruik der talen in bestuurszaken, gecoördineerd op 18 juli 1966, en in de gemeenten Komen-Waasten en Voeren op papier ingediend bij de voorzitter van het gemeentelijk hoofdbureau, op de zetel van het gemeentelijk hoofdbureau, op de tijdstippen, vermeld in paragraaf 1, tweede lid, 2°.<br>
+<br>
+In afwijking van paragraaf 1, eerste lid, kunnen de voordrachtsakten van kandidaten voor de gemeenteraadsverkiezingen op 13 oktober 2024 in de gemeenten, vermeld in artikel 7 van de wet van 18 juli 1966 op het gebruik van de talen in bestuurszaken, in de taalgrensgemeenten Mesen, Spiere-Helkijn, Bever, Ronse en Herstappe, en in de gemeente Voeren ook op papier ingediend worden bij de voorzitter van het gemeentelijk hoofdbureau, op de zetel van het gemeentelijk hoofdbureau, op de tijdstippen, vermeld in paragraaf 1, tweede lid, 2°.<br>
+<br>
+§3. Uiterlijk op 3 september 2024 maakt de voorzitter van het gemeentelijk hoofdbureau de bepalingen, vermeld in artikel 68, §1, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, en de bepalingen, vermeld in paragraaf 1, en, in voorkomend geval, paragraaf 2, van dit artikel bekend, met vermelding van de elektronische procedure, vermeld in paragraaf 1, eerste lid, en van de plaats waar het gemeentelijk hoofdbureau zetelt.<br>
+<br>
+De informatie, vermeld in het eerste lid, wordt via de webtoepassing van de gemeente en op een fysieke gegevensdrager bekendgemaakt.<br>
+<br>
+In afwijking van het tweede lid, wordt de informatie, vermeld in het eerste lid, voor de buitengewone verkiezing van de eerste gemeenteraad van een nieuwe gemeente als vermeld in artikel 218, §1, 2°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, bekendgemaakt via de webtoepassingen van de samengevoegde gemeenten en op een fysieke gegevensdrager.<br>
+<br>
+§4. De elektronische procedure, vermeld in paragraaf 1, eerste lid, wordt ontwikkeld en beheerd door het Agentschap Binnenlands Bestuur.&nbsp;<br>
+<br>
+Het Agentschap Binnenlands Bestuur wordt aangewezen als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens via de elektronische procedure, vermeld in paragraaf 1, eerste lid.<br>
+<br>
+Het Agentschap Binnenlands Bestuur voert een gegevensbeschermingseffectenbeoordeling uit voor de gegevensstromen die met de elektronische procedure, vermeld in paragraaf 1, eerste lid, worden verwerkt.
+
 ### ART 2.
 
 De lijsttrekker die moeilijkheden ondervindt met het gebruik van de elektronische procedure, vermeld in artikel 1, §1, eerste lid, kan bijstand vragen aan de diensten van de gemeente of aan het Agentschap Binnenlands Bestuur.<br>
