@@ -204,7 +204,7 @@ Het programma voor bilaterale onderzoekssamenwerking heeft tot doel bilaterale o
 
 Het FWO is belast met het operationeel en financieel beheer van het Odysseusprogramma, overeenkomstig artikel 18, § 1, 5°, van het decreet van 30 april 2009. Het Odysseusprogramma omvat twee types startfinanciering :<br>
 1° Odysseus Groep I - Internationaal toonaangevend onderzoek : voor onderzoekers die internationaal erkend worden als toonaangevend en die&nbsp;al een permanente academische aanstelling van minimaal 80% aan een buitenlandse&nbsp;onderzoeksinstelling hebben. Van die onderzoekers kan verwacht worden dat ze in de instelling waaraan ze verbonden zijn, een eigen onderzoeksgroep leiden die uit een vaste staf, meerdere postdocs en een aantal doctoraatsstudenten bestaat;<br>
-2° Odysseus Groep II - Onderzoekers met het potentieel om door te groeien tot internationaal toonaangevende status : voor onderzoekers die minimaal 3 jaar postdoctorale ervaring in het buitenland hebben en van wie het wetenschappelijk werk vooraanstaande vakgenoten ervan overtuigt dat ze het potentieel hebben om door te groeien tot een internationaal vooraanstaande positie. Van die onderzoekers kan verwacht worden dat ze binnen een onderzoeksgroep een klein team leiden, dat uit een of meer doctoraatsstudenten en eventueel een of enkele post-docs bestaat. Zij hebben enige ervaring met het verwerven van externe onderzoeksfinanciering. Binnen enkele jaren kunnen zij doorgroeien naar het niveau dat vereist is voor een aanstelling in het zelfstandig academisch personeel.<br>
+2° Odysseus Groep II - Onderzoekers met het potentieel om door te groeien tot internationaal toonaangevende status : voor onderzoekers die minimaal 3 jaar postdoctorale ervaring in het buitenland hebben&nbsp;en maximaal twaalf jaar postdoctorale ervaring hebben en van wie het wetenschappelijk werk vooraanstaande vakgenoten ervan overtuigt dat ze het potentieel hebben om door te groeien tot een internationaal vooraanstaande positie. Van die onderzoekers kan verwacht worden dat ze binnen een onderzoeksgroep een klein team leiden, dat uit een of meer doctoraatsstudenten en eventueel een of enkele post-docs bestaat. Zij hebben enige ervaring met het verwerven van externe onderzoeksfinanciering. Binnen enkele jaren kunnen zij doorgroeien naar het niveau dat vereist is voor een aanstelling in het zelfstandig academisch personeel.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Evaluatie- en selectieprocedure
@@ -252,6 +252,10 @@ Als een kandidaat het onderzoek in twee of meer universiteiten wil uitvoeren, wo
 § 5. Het panel kan aanpassingen voorstellen die richtinggevend zijn voor de omvang van de voorgestelde startfinanciering. De raad van bestuur beslist over de toekenning van de financiering.<br>
 &nbsp;
 
+### ART 21/1.
+
+De raad van bestuur van het FWO legt de verdere interne procedures vast voor de aanvraag, behandeling, evaluatie, selectie en toekenning binnen het Odysseusprogramma. Het FWO maakt de voormelde interne procedures openbaar. In de voormelde interne procedures worden geen bijkomende selectiecriteria of voorwaarden ingevoerd voor de subsidie, vermeld in artikel 24.
+
 ### ART. 22.
 
 De universiteit voert de intermediaire en ex-postevaluatie uit van de onderzoeker die de financiering ontvangt. De wetenschappelijke intermediaire en ex-post beoordeling van het Odysseusonderzoeksproject valt onder de verantwoordelijkheid van het FWO.
@@ -274,7 +278,7 @@ De universiteit voert de intermediaire en ex-postevaluatie uit van de onderzoeke
 § 1. De onderzoeker ontvangt gedurende vijf jaar financiering en zal in die periode progressief via projectfinanciering middelen verwerven.<br>
 <br>
 § 2. De omvang van het bedrag van de steun is afhankelijk van de discipline en variabel :<br>
-1° Voor Groep I geldt een bedrag van minimaal 400.000 euro en maximaal 1.000.000 euro per jaar, of tussen 2.000.000 en 5.000.000 euro voor de volledige vijf jaar;<br>
+1° Voor Groep I geldt een bedrag van minimaal 400.000 euro en maximaal 700.000 euro per jaar, of tussen 2.000.000 en 3.500.000 euro voor de volledige vijf jaar;<br>
 2° Voor Groep II geldt een bedrag van minimaal 100.000 euro en maximaal 200.000 euro per jaar, of tussen 500.000 en 1.000.000 euro voor de volledige vijf jaar.<br>
 <br>
 § 3. De onderzoeker kan de middelen besteden aan werking, personeel en uitrusting. Hij kan de middelen niet gebruiken voor de eigen salariskosten.<br>
