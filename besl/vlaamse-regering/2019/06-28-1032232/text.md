@@ -20,14 +20,12 @@ Besluit :
 
 ### ART 1.
 
-De netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen, zijn :<br>
-1° Newco 2, met zetel Rue Louvrex 95, 4000 Luik, ondernemingsnummer 0696.688.549, voor het verzorgingsgebied van de gemeente Voeren;<br>
-2° Telenet bvba, met zetel Liersesteenweg 4, 2800 Mechelen, ondernemingsnummer 0473.416.418, voor het verzorgingsgebied van de andere gemeenten van het Vlaamse Gewest.
+...
 
 ### ART 2.
 
-Het besluit van de Vlaamse Regering van 17 juni 2016 houdende vaststelling van de netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen wordt opgeheven.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
