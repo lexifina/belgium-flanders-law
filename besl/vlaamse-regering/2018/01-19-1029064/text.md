@@ -58,6 +58,10 @@ Aanvragen voor deelname aan en/of subsidiëring van internationale onderzoeksinf
 8° een Vlaams museum met een onderzoeksopdracht;<br>
 9° een samenwerkingsverband tussen de instanties, vermeld in punt 1° tot en met 8°, of een samenwerkingsverband tussen ten minste een van die instanties en een of meer derden.<br>
 <br>
+Specifiek voor de oproep die het FWO in 2024 organiseert, kan alleen een van de volgende aanvragen worden ingediend:<br>
+1°&nbsp;&nbsp; &nbsp;een aanvraag voor vervolgfinanciering voor een goedgekeurde aanvraag voor deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren uit de oproepen van 2018, 2020 of 2022;<br>
+2°&nbsp;&nbsp; &nbsp;een heraanvraag voor niet-geselecteerde projecten van deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren van de oproepen van 2018, 2020 of 2022.<br>
+<br>
 In het eerste lid wordt verstaan onder :<br>
 1° instelling voor postinitieel onderwijs : de instellingen, vermeld in artikel III.115 van de Codex Hoger Onderwijs van 11 oktober 2013, of een instelling als vermeld in artikel III.119 van de voormelde codex;<br>
 2° strategisch onderzoekscentrum : een instelling als vermeld in artikel 29 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, of een instelling die erkend is op basis van het voormelde artikel;<br>
