@@ -63,7 +63,7 @@ b) het agentschap Opgroeien;<br>
 c) het agentschap Opgroeien regie;<br>
 d) ...;<br>
 5° het beleidsdomein Cultuur, Jeugd, Sport en Media:<br>
-a) het Departement Cultuur, Jeugd, Sport en Media;<br>
+a) het Departement Cultuur, Jeugd en Media;<br>
 b) Sport Vlaanderen;<br>
 c) de VRT;<br>
 6° het beleidsdomein Werk en Sociale Economie:<br>
@@ -72,7 +72,7 @@ b) de VDAB;<br>
 7° het beleidsdomein Omgeving:<br>
 a) het agentschap Onroerend Erfgoed;<br>
 b) het Departement Omgeving;<br>
-c) Wonen-Vlaanderen;<br>
+c) Wonen in Vlaanderen;<br>
 d) de Vlaamse Maatschappij voor Sociaal Wonen;<br>
 8° het beleidsdomein Mobiliteit en Openbare Werken.
 
@@ -125,17 +125,11 @@ De Vlaamse Gemeenschapscommissie geeft in die jaarrekening aan welke activiteite
 
 <p>Aanpassingen aan het cliëntvolgsysteem die betrekking hebben op de sancties voor de inburgeraars, vermeld in hoofdstuk 4, afdeling 3, van dit besluit, worden doorgevoerd in overleg met de handhavingsambtenaren, vermeld in artikel 38 van dit besluit.</p>
 
-<p>§ 2. Het EVA maakt maandelijks een lijst op als vermeld in artikel 20, § 1, eerste lid, 3°, van het decreet van 7 juni 2013. De lijst van de gemeenten Antwerpen en Gent bezorgt het EVA via de Kruispuntbank Inburgering aan het stedelijk EVA.</p>
+<p>§ 2. Het EVA maakt maandelijks een lijst op als vermeld in artikel 46/7, §1, eerste lid, 6°, van het decreet van 7 juni 2013. De lijst van de gemeenten Antwerpen en Gent bezorgt het EVA via de Kruispuntbank Inburgering aan het stedelijk EVA.</p>
 
-<p>§ 3. Het EVA en het stedelijk EVA zijn verantwoordelijk voor de gegevens van personen die, conform artikel 20, § 1, eerste lid, 3° en 4°, van het decreet van 7 juni 2013, geregistreerd worden in de Kruispuntbank Inburgering.</p>
+<p>§ 3. ...</p>
 
-<p>Het EVA en het stedelijk EVA houden op eigen verantwoordelijkheid in het cliëntvolgsysteem een individueel dossier bij van elke inburgeraar, anderstalige, minderjarige nieuwkomer of anderstalige kleuter die zij bedienen ter uitvoering van het decreet van 7 juni 2013.</p>
-
-<p>Huis van het Nederlands Brussel vzw houdt op eigen verantwoordelijkheid in het cliëntvolgsysteem een individueel dossier bij van elke anderstalige die het bedient ter uitvoering van het decreet van 7 juni 2013.</p>
-
-<p>De handhavingsambtenaren, vermeld in artikel 38 van dit besluit, houden op eigen verantwoordelijkheid in het cliëntvolgsysteem een individueel dossier bij van elke inburgeraar die, met toepassing van artikel 39, § 1, derde lid, van het decreet van 7 juni 2013, gemeld wordt door het EVA of het stedelijk EVA.</p>
-
-<p>§ 4. Het agentschap beschikt over een rechtstreekse toegang tot anonieme gegevens van de Kruispuntbank Inburgering voor statistische doeleinden en voor de beleidsondersteuning, vermeld in artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur".</p>
+<p>§ 4. ...</p>
 
 ### ART. 8.
 
@@ -225,18 +219,16 @@ Behalve in het geval van het verkrijgen van een vrijstelling van de verplichting
 
 ### ART. 16.
 
-<p>§ 1. Het EVA of het stedelijk EVA informeert de verplichte inburgeraar, vermeld in artikel 27, § 1, 1° en 3°, § 5 en § 6, van het decreet van 7 juni 2013, binnen tien werkdagen nadat hij via de Kruispuntbank Inburgering als verplichte inburgeraar is gedetecteerd, met een aangetekende brief over het inburgeringsbeleid, en wijst hem op zijn inburgeringsplicht. Twee maanden nadat de brief verstuurd is, gaat het EVA of het stedelijk EVA na of de verplichte inburgeraar zich heeft aangemeld. Als dat niet het geval is, neemt het EVA of het stedelijk EVA contact op met de betrokkene om hem nogmaals te informeren over zijn inburgeringsplicht.</p>
+<p>§ 1. Het EVA of het stedelijk EVA informeert de verplichte inburgeraar, vermeld in artikel 27, § 1, § 5 en § 6, van het decreet van 7 juni 2013, binnen tien werkdagen nadat hij via de Kruispuntbank Inburgering als verplichte inburgeraar is gedetecteerd, met een aangetekende brief over het inburgeringsbeleid, en wijst hem op zijn inburgeringsplicht. Twee maanden nadat de brief verstuurd is, gaat het EVA of het stedelijk EVA na of de verplichte inburgeraar zich heeft aangemeld. Als dat niet het geval is, neemt het EVA of het stedelijk EVA contact op met de betrokkene om hem nogmaals te informeren over zijn inburgeringsplicht.</p>
 
-<p>Het EVA of het stedelijk EVA informeert de inburgeraar, vermeld in artikel 20, § 1, eerste lid, 3°, a), van het decreet van 7 juni 2013, als het geen verplichte inburgeraar is als vermeld in het eerste lid of in paragraaf 2, binnen tien werkdagen nadat hij via de Kruispuntbank Inburgering als inburgeraar is gedetecteerd, met een brief over het inburgeringsbeleid.</p>
+<p>Het EVA of het stedelijk EVA informeert de inburgeraar, vermeld in artikel&nbsp;46/7, §1, eerste lid, 6°, a), van het decreet van 7 juni 2013, als het geen verplichte inburgeraar is als vermeld in het eerste lid, binnen tien werkdagen nadat hij via de Kruispuntbank Inburgering als inburgeraar is gedetecteerd, met een brief over het inburgeringsbeleid.</p>
 
 <p>Het model van de brief, vermeld in het eerste en tweede lid, wordt opgemaakt door het EVA en ter beschikking gesteld via de Kruispuntbank Inburgering. De brief wordt ook opgesteld in een contacttaal of in de moedertaal van de betrokkene.</p>
 
-<p>§ 2. Het agentschap informeert de verplichte inburgeraar, vermeld in artikel 27, § 1, 2°, van het decreet van 7 juni 2013, met een aangetekende brief over het inburgeringsbeleid, wijst hem op zijn inburgeringsplicht en verwijst hem door naar het EVA of het stedelijk EVA. De brief wordt ook opgesteld in een contacttaal of in de moedertaal van de betrokkene. Het agentschap meldt de doorverwijzing via de Kruispuntbank Inburgering aan het EVA of het stedelijk EVA. Twee maanden nadat de brief verstuurd is, gaat het EVA of het stedelijk EVA na of de verplichte inburgeraar zich heeft aangemeld. Als dat niet het geval is, neemt het EVA of het stedelijk EVA contact op met de betrokkene om hem nogmaals te informeren over zijn inburgeringsplicht.</p>
-
-<p>Het EVA of het stedelijk EVA informeert het agentschap in de volgende gevallen over de verplichte inburgeraar, vermeld in het eerste lid :<br>
+<p>§ 2.&nbsp;Het EVA of het stedelijk EVA informeert het agentschap in de volgende gevallen over de verplichte inburgeraar, vermeld in artikel 27, §1, 2°, van het decreet van 7 juni 2013:<br>
 1° hij heeft het attest van inburgering behaald;<br>
 2° ..;<br>
-3° hij heeft een inbreuk gepleegd als vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°/1, van dit besluit.</p>
+3° hij heeft een inbreuk gepleegd als vermeld in artikel 33, § 1, eerste lid, van dit besluit.</p>
 
 ### ART. 17.
 
@@ -672,9 +664,9 @@ In afwijking van het eerste lid, 3°, wordt er geen inbreuk vastgesteld als het 
 <br>
 In afwijking van het eerste lid, 3°, wordt er geen inbreuk vastgesteld als het een verplichte inburgeraar betreft die een opleiding maatschappelijke oriëntatie volgt, en een attest van het EVA of het stedelijk EVA bezorgt waaruit blijkt dat het voor die inburgeraar door beperkte leercapaciteiten als vermeld in artikel 27/1 van dit besluit, onmogelijk is om de doelstellingen voor het vormingspakket maatschappelijke oriëntatie te behalen.</p>
 
-<p>§ 2. De verplichte inburgeraar, vermeld in artikel 27, § 1, 1° en 3°, van het decreet van 7 juni 2013, die een inbreuk als vermeld in paragraaf 1, eerste lid, 1° tot en met 6°, heeft gepleegd, wordt verplicht om zich binnen een termijn van maximaal dertig werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, vermeld in artikel 41 van dit besluit, aan te melden bij het EVA of het stedelijk EVA om zijn inburgeringsplicht alsnog na te komen.</p>
+<p>§ 2. De verplichte inburgeraar, vermeld in artikel 27, § 1, §5 en §6, van het decreet van 7 juni 2013, die een inbreuk als vermeld in paragraaf 1, eerste lid, 1° tot en met 6°, heeft gepleegd, wordt verplicht om zich binnen een termijn van maximaal dertig werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, vermeld in artikel 41 van dit besluit, aan te melden bij het EVA of het stedelijk EVA om zijn inburgeringsplicht alsnog na te komen.</p>
 
-<p>De verplichting, vermeld in het eerste lid, blijft behouden tot de verplichte inburgeraar ofwel het attest van inburgering heeft behaald ofwel tot zijn inburgeringsplicht is vervallen of tot hij de leeftijd van de 65 jaar heeft bereikt.<br>
+<p>De verplichting, vermeld in het eerste lid, blijft behouden tot de verplichte inburgeraar overeenkomstig de bepalingen van artikel 27, §2, van het decreet van 7 juni 2013, ofwel het attest van inburgering heeft behaald ofwel tot zijn inburgeringsplicht is vervallen of tot hij de leeftijd van de 65 jaar heeft bereikt.<br>
 <br>
 § 3. In afwijking van paragraaf 1, eerste lid, 3°, wordt geen inbreuk vastgesteld als een inburgeraar bij de eerste beoordeling de doelstellingen van een vormingspakket niet heeft behaald en niet regelmatig heeft deelgenomen aan dat vormingspakket.<br>
 <br>
@@ -748,13 +740,13 @@ De inbreuken worden op de volgende tijdstippen vastgesteld:<br>
 
 ### ART. 41.
 
-<p>&nbsp;§ 1. De handhavingsambtenaar beslist of aan de verplichte inburgeraar een administratieve geldboete wordt opgelegd. In voorkomend geval bepaalt de handhavingsambtenaar de hoogte van de administratieve geldboete binnen de bedragen, vermeld in artikel 45.</p>
+<p>§ 1. De handhavingsambtenaar beslist of aan de verplichte inburgeraar een administratieve geldboete wordt opgelegd. In voorkomend geval bepaalt de handhavingsambtenaar de hoogte van de administratieve geldboete binnen de bedragen, vermeld in artikel 45.</p>
 
 <p>De betrokkene wordt met een aangetekende brief op de hoogte gebracht van de beslissing, vermeld in het eerste lid. Als dat nodig is, wordt de brief ook opgesteld in de contacttaal of in de moedertaal van de inburgeraar, vermeld op het vaststellingsformulier. De brief wordt verzonden binnen de volgende termijnen :<br>
 1° binnen vijftien werkdagen na de hoorzitting, vermeld in artikel 40, als de betrokkene om een hoorzitting heeft verzocht;<br>
 2° binnen vijftien werkdagen na het verlopen van de termijn, vermeld in artikel 39, tweede lid, 3°, als de betrokkene niet om een hoorzitting heeft verzocht.</p>
 
-<p>§ 2. Als het een verplichte inburgeraar betreft als vermeld in artikel 27, § 1, 1° en 3°, van het decreet van 7 juni 2013, bevat de aangetekende brief, vermeld in paragraaf 1, tweede lid, ook de aanmaning om, binnen een termijn van maximaal dertig werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, zich aan te melden bij het EVA of het stedelijk EVA om zijn verplichtingen alsnog na te komen. De aanmaning bevat de bepalingen over de inburgeringsplicht die de verplichte inburgeraar nog moet nakomen.</p>
+<p>§ 2. De aangetekende brief, vermeld in paragraaf 1, tweede lid, bevat ook de aanmaning om zich, binnen een termijn van maximaal dertig werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, aan te melden bij het EVA of het stedelijk EVA om zijn verplichtingen alsnog na te komen. De aanmaning bevat de bepalingen over de inburgeringsplicht die de verplichte inburgeraar nog moet nakomen.</p>
 
 <p>In voorkomend geval wordt het EVA of het stedelijk EVA via de Kruispuntbank Inburgering geïnformeerd over de termijn waarin de verplichte inburgeraar zich moet aanmelden bij het EVA of het stedelijk EVA om zijn verplichtingen alsnog na te komen.</p>
 
