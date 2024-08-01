@@ -27,7 +27,7 @@ De minister keurt de volgende aantakkingstrajecten goed:<br>
 5° gemeente Gent:<br>
 &nbsp; a) complex U.Z. Gent (A14; 9) - Corneel Heymanslaan - Ottergemsesteenweg Zuid - Sluisweg tot nummer 10;<br>
 &nbsp; b) Sluisweg 10 - Ottergemsesteenweg Zuid - Corneel Heymanslaan - complex U.Z. Gent (A14; 9);&nbsp;<br>
-6° gemeente Hoeilaart:<br>
+6° gemeente Bierbeek:<br>
 &nbsp; a) complex Haasrode (A10; 23) - N25 - gewestgrens Naamsesteenweg;&nbsp;<br>
 &nbsp; b) gewestgrens Naamsesteenweg - N25 - complex Haasrode (A10; 23);<br>
 7° gemeente Ieper-Noord:<br>

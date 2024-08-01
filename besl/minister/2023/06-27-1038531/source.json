@@ -2,16 +2,16 @@
   "codex_id": 1038531,
   "title": "Ministerieel besluit van 2023-06-27 tot goedkeuring van aantakkingstrajecten als vermeld in artikel 7, vijfde lid, 2°, van het besluit van de Vlaamse Regering van 19 januari 2018 betreffende de bescherming van de verkeersinfrastructuur in geval van vervoer met langere en zwaardere slepen in het kader van een tweede proefproject",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038531/VolledigDocument?datum=2023-09-25",
-  "source_sha256": "6583a56c4790965bfa525096d2d7f74f3aa8fc6f710f1e233c54e755c8c210dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038531/VolledigDocument?datum=2024-08-01",
+  "source_sha256": "29f4c4b0e6220ecbaeda82f9eebe4715e9e5399ea2363032f32ecb6a7e71f01b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038531&param=informatie",
-  "as_of": "2023-09-25",
+  "as_of": "2024-08-01",
   "made": "2023-06-27",
   "gazette": "2023-09-15",
   "numac": 2023043356,
   "document_start": "2023-09-25",
   "document_end": null,
-  "in_force": "2023-09-25",
+  "in_force": "2024-08-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-01; future article versions excluded; article text as the API gives it"
 }
