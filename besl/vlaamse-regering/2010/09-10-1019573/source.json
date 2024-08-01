@@ -2,16 +2,16 @@
   "codex_id": 1019573,
   "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor het algemeen welzijnswerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019573/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "7696a8379d465d33d52a4155b1165f16846392668135721b78e395b619a2684d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019573/VolledigDocument?datum=2024-08-01",
+  "source_sha256": "9ee023f95f19165deea881c62b75bd2e39809cd44a1a9555f946da969d77b103",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019573&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-08-01",
   "made": "2010-09-10",
   "gazette": "2010-10-19",
   "numac": 2010205220,
   "document_start": "2010-10-29",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2024-08-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-01; future article versions excluded; article text as the API gives it"
 }
