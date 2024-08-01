@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039987,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-05 waarbij de stormwinden en rukwinden met een lokaal karakter die hebben plaatsgevonden op 3 januari 2024 als een ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039987/VolledigDocument?datum=2024-08-01",
+  "source_sha256": "ace962d47c57fc617708fd330bcf740606c9554389663ee543b278b4d8852b8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039987&param=informatie",
+  "as_of": "2024-08-01",
+  "made": "2024-07-05",
+  "gazette": "2024-07-22",
+  "numac": 2024007130,
+  "document_start": "2024-08-01",
+  "document_end": null,
+  "in_force": "2024-08-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
