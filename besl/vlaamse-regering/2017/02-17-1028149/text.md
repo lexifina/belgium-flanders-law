@@ -494,9 +494,10 @@ Opleidingsvertrekkers kunnen een voorstel van opleiding voordragen aan het depar
 § 2. Het opleidingsplan met bijbehorende opleiding, vermeld in paragraaf 1, is niet vereist voor de begeleider die aan een van de volgende voorwaarden voldoet:<br>
 1° de begeleider heeft al een opleiding als vermeld in paragraaf 1, derde lid, gevolgd;<br>
 2° de begeleider beschikt over minimaal twee jaar aantoonbare relevante beroepservaring;<br>
-3° de begeleider beschikt over een relevante titel van beroepsbekwaamheid als vermeld in artikel 4, § 1, van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid.<br>
+3° de begeleider beschikt over een relevante titel van beroepsbekwaamheid als vermeld in artikel 4, § 1, van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid;<br>
+4° de begeleider beschikt over een relevant bewijs van een beroepskwalificatie als vermeld in artikel 8 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
 <br>
-De minister stelt de in aanmerking komende ervaringsbewijzen vast na het advies van het departement.
+De minister stelt de in aanmerking komende ervaringsbewijzen&nbsp;en beroepskwalificaties vast na het advies van het departement.
 
 ### ART 46.
 
@@ -727,33 +728,27 @@ Het doorstroomtraject vangt aan binnen drie maanden nadat de kansen op doorstroo
 
 ### ART 68.
 
-§ 1. De gemandateerde dienstverlener staat in voor de doorstroombegeleiding van de doelgroepwerknemer, gedurende gemiddeld honderdveertig uur, verspreid over de volgende vier opeenvolgende fasen:<br>
-1° het voortraject, gedurende maximaal een maand, waarbij de begeleiding van de doelgroepwerknemer gericht is op:<br>
-a) sollicitatietraining geven; de doelgroepwerknemer voorbereiden op sollicitaties, waarbij minstens aandacht besteed wordt aan:<br>
-1) de opmaak van een curriculum vitae;<br>
-2) de opmaak van een sollicitatiebrief;<br>
-3) de kennismaking met sollicitatietechnieken;<br>
-4) de presentatie van de doelgroepwerknemer;<br>
-b) een passende job op maat van de interesses, competenties en mogelijkheden van de doelgroepwerknemer zoeken;<br>
-c) de doelgroepwerknemer ondersteunen bij het vervullen van de randvoorwaarden voor reguliere tewerkstelling;<br>
-2° de jobmatching, gedurende maximaal drie maanden, die bestaat uit het zoeken van een of meer stages in samenspraak met de doelgroepwerknemer op basis van een reëel jobaanbod bij een stageverlenende organisatie;<br>
-3° de stage, gedurende maximaal drie maanden, waarbij de dienstverlener de stageverlenende organisatie en de doelgroepwerknemer minstens ondersteuning biedt bij:<br>
-a) het onthaal van de doelgroepwerknemer;<br>
-b) de aanpassing van de doelgroepwerknemer aan de arbeidsomgeving;<br>
-c) de werkprocessen en de functie van de doelgroepwerknemer;<br>
-d) de communicatie met de doelgroepwerknemer;<br>
-e) de coaching van de doelgroepwerknemer en de stageverlenende organisatie;<br>
-f) specifieke vragen die inherent zijn aan de stageverlening aan de doelgroepwerknemer;<br>
-g) de actualisering van het persoonlijk ontwikkelingsplan van de doelgroepwerknemer, op basis van zijn doorstroomresultaten op het einde van de stage;<br>
-4° de nazorgbegeleiding, gedurende maximaal drie maanden, vanaf de indiensttreding bij de reguliere werkgever, omvat bijkomende raadgevingen aan de werkgever en de doelgroepwerknemer die gericht zijn op de duurzame tewerkstelling bij de reguliere werkgever.<br>
+§1. De gemandateerde dienstverlener staat voor een periode van maximaal negen maanden in voor de doorstroombegeleiding op maat van de doelgroepwerknemer en op basis van de volgende onderdelen:<br>
+1°&nbsp;&nbsp; &nbsp;het voortraject, waarbij de begeleiding van de doelgroepwerknemer gericht is op al de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;sollicitatietraining geven. In de voormelde training wordt de doelgroepwerknemer voorbereid op sollicitaties.&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een passende job op maat van de interesses, competenties en mogelijkheden van de doelgroepwerknemer zoeken;<br>
+c)&nbsp;&nbsp; &nbsp;de doelgroepwerknemer ondersteunen bij de vervulling van de randvoorwaarden voor reguliere tewerkstelling;<br>
+2°&nbsp;&nbsp; &nbsp;de jobmatching, die bestaat uit zoeken naar een of meer stages in samenspraak met de doelgroepwerknemer op basis van een reëel jobaanbod bij een stageverlenende organisatie;<br>
+3°&nbsp;&nbsp; &nbsp;de stage, waarbij de dienstverlener de stageverlenende organisatie en de doelgroepwerknemer minstens ondersteuning biedt bij al de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;het onthaal van de doelgroepwerknemer;<br>
+b)&nbsp;&nbsp; &nbsp;de aanpassing van de doelgroepwerknemer en de arbeidsomgeving;<br>
+c)&nbsp;&nbsp; &nbsp;de werkprocessen en de functie van de doelgroepwerknemer;<br>
+d)&nbsp;&nbsp; &nbsp;de communicatie met de doelgroepwerknemer;<br>
+e)&nbsp;&nbsp; &nbsp;de coaching van de doelgroepwerknemer en de stageverlenende organisatie;<br>
+f)&nbsp;&nbsp; &nbsp;specifieke vragen die inherent zijn aan de stageverlening aan de doelgroepwerknemer;<br>
+g)&nbsp;&nbsp; &nbsp;de actualisering van het persoonlijk ontwikkelingsplan van de doelgroepwerknemer op basis van zijn doorstroomresultaten op het einde van de stage;<br>
+4°&nbsp;&nbsp; &nbsp;de nazorgbegeleiding, vanaf de indiensttreding bij de reguliere werkgever, die bijkomende raadgevingen aan de werkgever en de doelgroepwerknemer omvat die gericht zijn op de duurzame tewerkstelling bij de reguliere werkgever.<br>
 <br>
-§ 2. Tijdens het doorstroomtraject, vermeld in paragraaf 1, stelt het maatwerkbedrijf of de maatwerkafdeling de doelgroepwerknemer vrij van arbeidsprestaties voor de uitvoering van het doorstroomtraject.<br>
+§2. Tijdens het doorstroomtraject, vermeld in paragraaf 1, stelt het maatwerkbedrijf de doelgroepwerknemer vrij van arbeidsprestaties voor de uitvoering van het doorstroomtraject.<br>
 <br>
 De stage, vermeld in paragraaf 1, 3°, wordt beëindigd met een evaluatiegesprek tussen de betrokken partijen. De gemandateerde dienstverlener brengt de VDAB op de hoogte van de stageresultaten.<br>
 <br>
-§ 3. Op verzoek van de doorstroombegeleider kan de VDAB na motivering een verlenging van de fases, vermeld in paragraaf 1, 1° tot en met 3°, toestaan, op voorwaarde dat de totale duur van die drie fases niet meer bedraagt dan zes maanden.<br>
-<br>
-§ 4. Met behoud van de toepassing van § 1, § 2, en § 3, kan de VDAB de duur van de doorstroomtrajecten tijdelijk opschorten in geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend.
+§3. Met behoud van de toepassing van paragraaf 1 en 2 kan de VDAB de duur van de doorstroomtrajecten tijdelijk opschorten in geval van een crisis met een ernstige sociale en economische impact die de minister als dusdanig erkent.
 
 ### ART 69.
 
@@ -865,14 +860,6 @@ De vergoeding voor de doorstroombegeleiding aan de gemandateerde dienstverlener 
 
 ### ART 78.
 
-&nbsp;De vergoeding van de doorstroombegeleiding bedraagt maximaal 4200 euro per individueel doorstroomtraject voor het doorlopen van de vier fasen, vermeld in artikel 68.<br>
-<br>
-De vergoeding van de doorstroombegeleiding wordt verrekend naar rato van de effectieve prestaties van de dienstverlener volgens de volgende verdeelsleutel:<br>
-1° 30% van de vergoeding voor de diensten in het kader van het voortraject;<br>
-2° 30% van de vergoeding voor de diensten in het kader van de jobmatching;<br>
-3° 30% van de vergoeding voor de stagediensten;<br>
-4° 10% van de vergoeding voor de diensten in het kader van de nazorg.<br>
-<br>
 De dienstverlener kan de vergoeding in het kader van de doorstroomtrajecten niet cumuleren met enige andere vorm van steun voor de begeleiding van dezelfde doelgroepwerknemer in het kader van zijn doorstroomtraject.
 
 ## [HOOFDSTUK 9/1. Beroep (ing. BVR 10 september 2021, art. 4, I: 17 oktober 2021)]
