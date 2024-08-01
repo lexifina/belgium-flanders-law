@@ -636,6 +636,12 @@ In artikel 5.1.4, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit v
 1° het woord “november” wordt telkens vervangen door het woord “september”;<br>
 2° de zinnen “Het zo verkregen getal wordt afgerond tot twee decimalen na de komma. Het derde decimaal uit de voormelde berekening wordt altijd naar boven afgerond.” worden vervangen door de zinnen “De derde decimaal van het getal dat wordt berekend met de voormelde bewerking, wordt altijd naar boven afgerond. Vervolgens wordt het getal afgerond op twee decimalen na de komma.”.&nbsp;
 
+### ART 10.
+
+In artikel 5.2.16.2, §1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 22 december 2023, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “conform artikel 4.3.2 en dat” wordt vervangen door de zinsnede “conform artikel 4.3.2, §1 en dat”;<br>
+2° de zinsnede “van artikel 4.3.2, achtste lid is voldaan” wordt vervangen door de zinsnede “van artikel 4.3.2, §5 is voldaan”.
+
 ### ART 11.
 
 In artikel 5.4.1, tweede lid, 9°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 juli 2021, wordt het woord “gedwongen” opgeheven.
@@ -671,6 +677,10 @@ In artikel 6.1.1.2, §2, van hetzelfde besluit, gewijzigd bij de besluiten van d
 3° in het tweede lid wordt punt 1° vervangen door wat volgt:<br>
 “1° twee unieke volgnummers: een eerste start met een drielettercode die het systeem identificeert waarmee het identificatieformulier is aangemaakt, het tweede heeft de vorm van een Universally Unique Identifier. Minstens een van de twee voormelde volgnummers wordt gevisualiseerd op het identificatieformulier;”;<br>
 4° in het tweede lid, 3°, worden tussen de woorden ”de afvalstoffen afvoert” en de zinsnede “, en het” de woorden “vanaf de eigen inrichting” ingevoegd.
+
+### ART 17.
+
+In artikel 6.1.1.4, punt 1°/1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 22 maart 2019, wordt de zinsnede “in artikel 4.3.2” telkens vervangen door de zinsnede “artikel 4.3.2, §1”.&nbsp;
 
 ### ART 18.
 
