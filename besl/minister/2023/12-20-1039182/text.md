@@ -213,7 +213,7 @@ Zodra een vissersvaartuig het maximum aantal toegelaten vaartdagen, vermeld in a
 
 §1. Het de-minimisquotum voor tong bedraagt maximaal 5% van het tongquotum in ICES-gebieden II, IV. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden II, IV, vastgelegd op maximaal 10% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit die ICES-gebieden.<br>
 &nbsp;&nbsp; &nbsp;<br>
-§2. Van 1 januari 2024 tot en met 31 oktober 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 18 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§2. Van 1 januari 2024 tot en met 31 oktober 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 28 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 &nbsp;&nbsp; &nbsp;<br>
 §3. Van 1 januari 2024 tot en met 30 juni 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
@@ -337,7 +337,7 @@ Indien een eigenaar van een vaartuig, aangeduid om wetenschappelijk tongquotum o
 <br>
 §2. Het de-minimisquotum voor tong in het ICES-gebied VIId bedraagt 3% van het tongquotum in ICES-gebied VIId. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
 &nbsp;&nbsp; &nbsp;<br>
-In het ICES-gebied VIId is het voor de periode van 1 januari 2024 tot 31 januari 2024 voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied. In de periode 1 februari 2024 tot 30 april 2024 bedraagt deze hoeveelheid 125 kg per vaartdag. Van 1 mei 2024 tot 30 juni 2024 bedraagt deze hoeveelheid 175 kg per vaartdag, rekening houdende met het toegewezen aandeel voor het KVS.<br>
+In het ICES-gebied VIId is het voor de periode van 1 januari 2024 tot 31 januari 2024 voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied. In de periode 1 februari 2024 tot 30 april 2024 bedraagt deze hoeveelheid 125 kg per vaartdag. Vanaf 1 mei 2024 bedraagt deze hoeveelheid 175 kg per vaartdag, rekening houdende met het toegewezen aandeel voor het KVS.<br>
 <br>
 In het ICES-gebied VIId wordt een aandeel van 32,2% van het tongquotum toegewezen aan het KVS. Dit cijfer is gebaseerd op de gemiddelde vangsten van het KVS in de jaren 2021, 2022 en 2023.<br>
 &nbsp;&nbsp; &nbsp;<br>
