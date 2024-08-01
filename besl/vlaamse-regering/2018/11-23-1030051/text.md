@@ -455,12 +455,7 @@ Voor de aankoop kan ten hoogste 60% van de som van de door de Vlaamse Belastingd
 
 ### ART 27.
 
-Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
-<br>
-In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
-1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
-2° de subsidies zijn uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
-3° de subsidies zijn volledig teruggestort of hoeven niet te worden teruggestort, als daarvoor vooraf uitdrukkelijk toestemming is verleend conform artikel 41, § 2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+...
 
 ### ART 28.
 
@@ -471,8 +466,6 @@ Het maximale bedrag van de investeringssubsidie voor de bijzondere uitrusting va
 Voor een revalidatiecentrum omvat de bijzondere uitrusting, vermeld in het eerste lid, testapparatuur en apparatuur voor revalidatietechnieken waarvan de eenheidsprijs, exclusief btw, hoger is dan drieduizend euro. Het basisbedrag van de investeringssubsidie voor die apparatuur bedraagt maximaal 11.900 euro per eenheid. De bijzondere uitrusting, vermeld in het eerste lid, die subsidiabel is in het kader van de wetgeving op de volksgezondheid en op de ziekenhuizen, of in het kader van de wetgeving inzake verplichte verzekering voor geneeskundige verzorging en uitkeringen, komt niet aanmerking voor een investeringssubsidie.<br>
 <br>
 De aankoop en installatie van een centrale server met aangepaste randapparatuur en software, waarop alle therapeutische werkstations zijn aangesloten, worden gerekend tot de apparatuur, vermeld in het derde lid. Elke subsidieaanvraag kan op zijn vroegst na vijf jaar opnieuw ingediend worden voor dezelfde uitrustingseenheid.<br>
-<br>
-Artikel 27 is niet van toepassing op de investeringssubsidie voor de bijzondere uitrusting van een revalidatiecentrum.<br>
 <br>
 De bouwtechnische en bouwfysische normen, vermeld in artikel 2 en 3, zijn niet van toepassing als de aanvraag van de subsidiebelofte voor een revalidatiecentrum zich beperkt tot de bijzondere uitrusting.
 
