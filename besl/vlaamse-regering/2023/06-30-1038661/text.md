@@ -55,12 +55,7 @@ In afwijking van het tweede lid is dit besluit niet van toepassing op:<br>
 
 ### ART 3.
 
-Tenzij het anders is bepaald, verleent het Fonds in de eerste twintig jaar na de ingebruikname geen subsidiebelofte aan projecten of delen van projecten die reeds gesubsidieerd werden door het Fonds of zijn rechtsvoorgangers, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
-<br>
-In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
-1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
-2° de subsidie is uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
-3° de subsidies zijn volledig teruggestort of hoeven niet te worden teruggestort, omdat daarvoor vooraf uitdrukkelijk toestemming is verleend conform artikel 41, §2, eerste lid, van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+...
 
 ## Hoofdstuk 2. Bouwtechnische en bouwfysische normen
 
