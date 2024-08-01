@@ -631,7 +631,7 @@ door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om n
 7° de werkgever, zijn lasthebbers of aangestelden die werknemers ontslaan met de uitsluitende bedoeling om hen te vervangen door een of meer werknemers met een arbeidsbeperking die recht geven op werkondersteunende maatregelen of voordeligere werkondersteunende maatregelen of om hen daarna opnieuw aan te werven met het oog op de toekenning van werkondersteunende maatregelen of voordeligere werkondersteunende maatregelen;<br>
 8° de externe dienstverlener die, al dan niet met medeweten van of op verzoek van de werkgever in kwestie, niet voorziet in begeleiding die volledig in overeenstemming is met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022, of die de begeleiding niet correct of onvolledig uitvoert.<br>
 <br>
-Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan:<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van&nbsp;150 euro tot 1500 euro aan:<br>
 1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
 2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
 3° personen die&nbsp; hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
@@ -792,6 +792,14 @@ Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuist
 ### ART 21/4.
 
 Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de jobbonus plus, vermeld in het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
+
+### ART 21/5.
+
+Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen een administratieve geldboete worden opgelegd van 10 tot 100 euro aan de erkende dienstenchequeonderneming, die:<br>
+1° geen schriftelijke overeenkomst heeft opgemaakt conform artikel 6, §2, van de voormelde wet;<br>
+2° niet voldaan heeft aan de verplichting, vermeld in artikel 2, §2, eerste lid, l, van de voormelde wet.<br>
+<br>
+De administratieve geldboete die wordt opgelegd met toepassing van het eerste lid, wordt vermenigvuldigd met het aantal gebruikers met wie geen schriftelijke overeenkomst als vermeld in het eerste lid, 1°, is opgemaakt en/of met het aantal gebruikers waarvoor niet voldaan is aan de verplichting, vermeld in het eerste lid, 2°. De vermenigvuldigde geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete bedragen.
 
 ### ART. 22.
 
