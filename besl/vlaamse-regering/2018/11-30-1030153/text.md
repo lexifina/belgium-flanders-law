@@ -284,15 +284,11 @@ De bevoegde personeelsleden van de Vlaamse administratie, bevoegd voor het belei
 
 ### ART 16.
 
-De aanvrager is ertoe gehouden om voor de gesubsidieerde onroerende en roerende goederen gedurende de concrete minimumperiode, vermeld in artikel 12 van het decreet van 23 februari 1994, elke vervreemding, elke bezwaring met een zakelijk recht of genotsrecht, of elke concrete bestemmingswijziging van het gesubsidieerde goed aan de uitdrukkelijke en voorafgaande toestemming te onderwerpen, ofwel van het Fonds als het gesubsidieerde goed een bestemming krijgt in het kader van de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, als die aangelegenheden vallen onder het beleidsdomein waartoe het Fonds behoort, ofwel van de minister in de andere gevallen. De minister kan alleen toestemming geven na gunstig advies van de Inspectie van Financiën.<br>
-<br>
-De gesubsidieerde onroerende en roerende goederen worden als een goed huisvader beheerd en onderhouden gedurende de concrete minimumperiode, vermeld in artikel 12 van het decreet van 23 februari 1994.
+...
 
 ### ART 17.
 
-Bij overtreding van de bepalingen van artikel 16, eerste lid, of als de aanvrager een onjuiste verklaring aflegt over de voorwaarden, vermeld in artikel 3, 2°, en artikel 4, zullen de verleende investeringssubsidies worden teruggevorderd overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
-<br>
-Bij overtreding van de bepalingen van artikel 16, tweede lid, zal het Fonds de aanvrager aanmanen zich te conformeren aan die bepaling binnen een termijn die het Fonds bepaalt. Als de aanvrager niet het nodige gevolg geeft aan die aanmaning, zullen de verleende investeringssubsidies worden teruggevorderd overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
+Als de aanvrager een onjuiste verklaring aflegt over de voorwaarden, vermeld in artikel 3, 2°, en artikel 4, zullen de verleende investeringssubsidies worden teruggevorderd overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
 
 ### ART 18.
 
