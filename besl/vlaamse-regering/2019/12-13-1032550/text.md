@@ -215,12 +215,7 @@ In het tweede lid, 1°, wordt verstaan onder de Vlaamse Belastingdienst: de Vlaa
 
 ### ART 14.
 
-Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.<br>
-<br>
-In afwijking van het eerste lid kan er binnen de periode van twintig jaar, vermeld in het eerste lid, wel een subsidiebelofte worden verkregen als aan een van de volgende voorwaarden is voldaan:<br>
-1° een verbouwing wordt noodzakelijk door gewijzigde regelgeving of gewijzigde veiligheidsvoorschriften;<br>
-2° de subsidies zijn uitsluitend verleend om brandveiligheidswerkzaamheden uit te voeren;<br>
-3° de subsidies zijn volledig teruggestort of hoeven niet te worden teruggestort, als daarvoor vooraf uitdrukkelijk toestemming is verleend conform artikel 41, § 2, eerste lid, van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+...
 
 ### ART 15.
 

@@ -2,16 +2,16 @@
   "codex_id": 1032550,
   "title": "Besluit van de Vlaamse Regering van 2019-12-13 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032550/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "e79bed24e99541866ef488e06aa2e299ca6fcc63dbd61b3a47ddd5d6f9796fb6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032550/VolledigDocument?datum=2024-08-01",
+  "source_sha256": "34f7e75ce5164c42ea6cc15fce7e8b7bfed0530d7fbb42c0f51a73ad787bc78d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032550&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2024-08-01",
   "made": "2019-12-13",
   "gazette": "2020-01-10",
   "numac": 2020010024,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2024-04-01",
+  "in_force": "2024-08-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-01; future article versions excluded; article text as the API gives it"
 }
