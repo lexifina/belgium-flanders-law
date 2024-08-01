@@ -2,16 +2,16 @@
   "codex_id": 1029796,
   "title": "Besluit van de Vlaamse Regering van 2018-06-22 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029796/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "9b42b2307f6c06559d94c2d931c69a3a4b17eaf949859e69d081950e916e9e8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029796/VolledigDocument?datum=2024-08-01",
+  "source_sha256": "73d023c40a05534344842a76921c9eb7a8ccc7d9755fad22be7567ef8073fbea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029796&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-08-01",
   "made": "2018-06-22",
   "gazette": "2018-10-09",
   "numac": 2018014017,
   "document_start": "2018-10-19",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2024-08-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-01; future article versions excluded; article text as the API gives it"
 }

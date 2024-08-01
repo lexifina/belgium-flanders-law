@@ -117,7 +117,7 @@ b) het voldoet aan de minimumeisen en de voorwaarden op het vlak van comfort en 
 a) de aanvrager is vroeger nooit de enige eigenaar geweest van het gebouw;<br>
 b) de aankoop van het gebouw omvat ook de aankoop van de grond waarop het gebouw is opgericht, tenzij de aanvrager al eigenaar was van de grond;<br>
 7° het Fonds heeft er een akkoord infrastructuurforfait aan verleend;<br>
-8° het is in de twintig jaar die voorafgaan aan het akkoord infrastructuurforfait niet geheel of gedeeltelijk in gebruik genomen na een investering die gesubsidieerd werd door het Fonds of door zijn rechtsvoorgangers, behalve als verbouwing noodzakelijk is geworden door gewijzigde regelgeving, of gewijzigde en opgelegde veiligheidsvoorschriften. Aan die voorwaarde is ook voldaan als die subsidies volledig werden teruggestort of als die subsidies uitsluitend werden verleend om brandveiligheidswerkzaamheden uit te voeren.
+8° het project voldoet aan de voorwaarden om in aanmerking te komen voor een recurrente subsidie, vermeld in het Bestemmingsbesluit van 31 mei 2024.
 
 ## Afdeling 2. Procedure
 
@@ -419,8 +419,6 @@ Het infrastructuurforfait wordt toegekend vanaf de datum van de opstartbeslissin
 
 ### ART 20.
 
-Elke wijziging in de identiteit van de aanvrager, van de eigenaar of van de houder van de zakelijke rechten op de grond waarop het project werd gerealiseerd, is onderworpen aan de uitdrukkelijke en voorafgaande toestemming van het Fonds.<br>
-<br>
 De aanvrager brengt het Fonds onmiddellijk op te hoogte als hij zijn activiteiten van niet-rechtstreeks toegankelijke zorg en ondersteuning stopzet.<br>
 &nbsp;
 
