@@ -123,7 +123,7 @@ Een aanvraag tot goedkeuring van een masterplan en van een akkoord strategisch f
 2° stukken waaruit blijkt dat het masterplan waarvoor goedkeuring wordt gevraagd en het project waarvoor een akkoord strategisch forfait wordt gevraagd, passen in de zorgstrategische planning, vermeld in artikel 5, § 1, van het besluit van 14 juli 2017, of beantwoorden aan de voorwaarden, vermeld in artikel 5, § 2, van het voormelde besluit;<br>
 3° het masterplan en een beschrijving van het betreffende project met inbegrip van de bouwtechnische en financiële aspecten ervan;<br>
 4° de gegevens waaruit blijkt dat de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project als het een project met volledige autofinanciering zonder voorafgaand akkoord strategisch forfait betreft;<br>
-5° een verklaring op erewoord over het project waarvoor een akkoord strategisch forfait wordt gevraagd, voor de toepassing van artikel 23 van dit besluit;<br>
+5° een verklaring op erewoord over het project waarvoor een akkoord strategisch forfait wordt gevraagd, voor de toepassing van de bepalingen over de recurrente subsidie, vermeld in het VIPA Bestemmingsbesluit van 31 mei 2024;<br>
 6° de vermelding van het ondernemingsnummer uit de Kruispuntbank van Ondernemingen of de nodige bescheiden, statuten of documenten, waaruit blijkt dat de aanvrager een van de volgende besturen, verenigingen of instellingen is:<br>
 a) een lokaal of provinciaal bestuur;<br>
 b) een vereniging zonder winstoogmerk of een stichting van openbaar nut als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, of een andere rechtspersoon die geen materiële winst nastreeft;<br>
@@ -389,7 +389,7 @@ De aanvrager kan een aanvraag tot opstartbeslissing van het strategisch forfait 
 
 ### ART 23.
 
-Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen akkoord strategisch forfait worden verkregen voor hetzelfde project of voor een deel van hetzelfde project. Alleen als een herconditionering noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een akkoord strategisch forfait voor een herconditionering worden verkregen.
+Alleen als een herconditionering noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, een akkoord strategisch forfait voor een herconditionering worden verkregen.
 
 ## Afdeling 7 Toezicht en sancties
 
@@ -403,11 +403,7 @@ De aanvrager is verplicht alle documenten die verband houden met de verwantschap
 
 ### ART 25.
 
-De aanvrager is ertoe gehouden voor de gesubsidieerde onroerende goederen gedurende de concrete minimumperiode, vermeld in artikel 3, eerste lid, van dit besluit, en voor de gesubsidieerde roerende goederen gedurende een periode van tien jaar elke vervreemding, elke bezwaring met een zakelijk recht of genotsrecht, of elke concrete bestemmingswijziging van het gesubsidieerde goed aan de uitdrukkelijke en voorafgaande toestemming te onderwerpen, ofwel van het Fonds als het gesubsidieerde goed een bestemming krijgt in het kader van de persoonsgebonden aangelegenheden, ofwel van de minister in de andere gevallen. De toestemming van de minister kan alleen maar gegeven worden na gunstig advies van de Inspectie van Financiën.<br>
-<br>
-Het gesubsidieerde goed moet als een goede huisvader beheerd en onderhouden worden gedurende de volgende perioden:<br>
-1° voor de gesubsidieerde onroerende goederen: gedurende de concrete minimumperiode, vermeld in artikel 3, eerste lid, van dit besluit;<br>
-2° voor de gesubsidieerde roerende goederen: gedurende een periode van tien jaar.
+...
 
 ### ART 26.
 
@@ -444,11 +440,9 @@ Met behoud van de toepassing van artikel 83 tot en met 85 van de gecoördineerde
 Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof zullen de investeringssubsidies worden teruggevorderd voor zover daartoe aanleiding bestaat na de afrekening, vermeld in artikel 29, tweede lid, van dit besluit, of na de controle, vermeld in artikel 30, eerste lid, van dit besluit.<br>
 <br>
 De strategische forfaits zullen worden teruggevorderd in elk van de volgende gevallen:<br>
-1° bij overtreding van de verplichtingen, vermeld in artikel 24 en 25, eerste lid, van dit besluit;<br>
+1° bij overtreding van de verplichtingen, vermeld in artikel 24 van dit besluit;<br>
 2° als de aanvrager een onjuiste verklaring aflegt over de voorwaarden, vermeld in artikel 3, eerste lid, en artikel 4 van dit besluit;<br>
-3° als de aanvrager het strategisch forfait heeft verkregen voor de uitvoering van zijn project en hij bij een bepaalde opdracht in het kader van dat project de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten niet heeft gerespecteerd.<br>
-<br>
-Bij overtreding van de verplichting, vermeld in artikel 25, tweede lid, van dit besluit, zal het Fonds de aanvrager aanmanen zich te conformeren aan die bepaling binnen een termijn die het Fonds bepaalt. Als de aanvrager niet het nodige gevolg geeft aan die aanmaning, zullen de strategische forfaits worden teruggevorderd.
+3° als de aanvrager het strategisch forfait heeft verkregen voor de uitvoering van zijn project en hij bij een bepaalde opdracht in het kader van dat project de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten niet heeft gerespecteerd.
 
 ### ART 32.
 
