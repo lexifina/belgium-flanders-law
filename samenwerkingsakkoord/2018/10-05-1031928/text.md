@@ -47,8 +47,8 @@ Dit akkoord treedt in werking de dag na zijn bekendmaking in het Belgisch Staats
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/19_2.pdf#page=69">Lijst strategische spoorwegprojecten</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=507">Gedetailleerde lijst van de strategische spoorwegprojecten gelet op de prioriteiten op het grondgebied van het Vlaamse Gewest</a>
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/19_2.pdf#page=71">Fiches met de bijkomende details (scope, planning, financieringsbronnen, risico's) per project</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=508">Projectfiches</a>
