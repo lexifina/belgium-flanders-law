@@ -2,16 +2,16 @@
   "codex_id": 1031885,
   "title": "Samenwerkingsakkoord van 2018-10-05 tussen de federale Staat en het Vlaamse Gewest betreffende de realisatie van prioritaire spoorwegprojecten die genieten van bijkomende financiering van het Vlaamse Gewest overeenkomstig artikel 92bis, § 4nonies van de Bijzondere wet van 8 augustus 1980 tot hervorming der instellingen",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031885/VolledigDocument?datum=2019-07-09",
-  "source_sha256": "43fca3bc2e03619f4b797d5895a1fd58407a70410a6be77c0f1a134ecc7dc71a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031885/VolledigDocument?datum=2024-08-02",
+  "source_sha256": "1cf173dd1f15de1779d332b6f47229b11431b6ed08d8c92193a8d0156e916082",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031885&param=informatie",
-  "as_of": "2019-07-09",
+  "as_of": "2024-08-02",
   "made": "2018-10-05",
   "gazette": "2019-07-08",
   "numac": 2019030568,
   "document_start": "2019-07-09",
   "document_end": null,
-  "in_force": "2019-07-09",
+  "in_force": "2024-08-02",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2019-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-02; future article versions excluded; article text as the API gives it"
 }

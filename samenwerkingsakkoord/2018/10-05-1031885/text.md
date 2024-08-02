@@ -150,11 +150,11 @@ Dit akkoord treedt in werking de dag na zijn bekendmaking in het Belgisch Staats
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/08_1.pdf#page=121">Bijlage 1: Tabel van de Vlaamse prioritaire spoorwegprojecten</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=325">Tabel van de Vlaamse prioritaire spoorwegprojecten</a>
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/08_1.pdf#page=123">Bijlage 2: Projectfiches</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=326">Projectfiches</a>
 
 ### BIJLAGE
 
@@ -168,7 +168,7 @@ Dit akkoord treedt in werking de dag na zijn bekendmaking in het Belgisch Staats
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/08_1.pdf#page=197">Bijlage 5: Rapportering en opvolging</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=421">Rapportering en opvolging</a>
 
 ### BIJLAGE
 
