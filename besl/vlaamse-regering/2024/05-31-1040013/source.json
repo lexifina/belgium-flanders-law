@@ -2,16 +2,16 @@
   "codex_id": 1040013,
   "title": "Besluit van de Vlaamse Regering van 2024-05-31 tot wijziging van artikel 34/1 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie van dit personeel en van de bestuursrechters van sommige Vlaamse bestuursrechtscolleges",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040013/VolledigDocument?datum=2023-11-06",
-  "source_sha256": "7fdf59ac8966513eee35720eefb0ec5b3c625b790b84b11aca74145b6aee7c7d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040013/VolledigDocument?datum=2024-08-02",
+  "source_sha256": "28c6c4ec274798a02d2c645414d7ebb3633e3b545de7503dd44da2e974786873",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040013&param=informatie",
-  "as_of": "2023-11-06",
+  "as_of": "2024-08-02",
   "made": "2024-05-31",
   "gazette": "2024-08-01",
   "numac": 2024007270,
   "document_start": "2024-08-02",
   "document_end": null,
-  "in_force": "2023-11-06",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-11-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-08-02; future article versions excluded; article text as the API gives it"
 }

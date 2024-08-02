@@ -30,3 +30,13 @@ In artikel 34/1 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende
 1° paragraaf 1 wordt vervangen door wat volgt:<br>
 “§1. De vergoeding voor de aanvullende bestuursrechter, vermeld in artikel 52, vierde lid, van het decreet, die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, bedraagt forfaitair 1000 euro (100%) per zitting.”;<br>
 2° in paragraaf 2 wordt de zinsnede “75 euro (100%) per beroep dat wordt behandeld tijdens die zitting” vervangen door de zinsnede “200 euro (100%) per zitting”.
+
+### ART 2.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+Artikel 1 heeft uitwerking met ingang van 6 november 2023.
+
+### ART 3.
+
+De Vlaamse minister, bevoegd voor justitie en handhaving, is belast met de uitvoering van dit besluit.&nbsp;
