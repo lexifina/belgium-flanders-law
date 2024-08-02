@@ -113,4 +113,16 @@ Dit akkoord treedt in werking de dag na zijn bekendmaking in het Belgisch Staats
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/03_1.pdf#page=45">Bijlagen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/03_1.pdf#page=45">Bijlagen</a><br>
+<br>
+Bij artikel 1 van het bijkomend uitvoerend samenwerkingsakkoord van 24 april 2024 wordt de bijlage 1 vervangen door:<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=142">GEN-fiche</a>&nbsp;<br>
+<br>
+Bij artikel 2 van hetzelfde uitvoerend samnwerkingsakkoord wordt het volgende toegevoegd aan bijlage 1:<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=157">Gedetailleerde fiches Waalse stations</a><br>
+<br>
+Bij artikel 3 van hetzelfde uitvoerend samnwerkingsakkoord wordt het volgende toegevoegd aan bijlage 1:<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=218">Globaal overzicht van de financiële tabellen</a><br>
+<br>
+Bij artikel 4 van hetzelfde uitvoerend samenwerkingsakkoord van 24 april 2024 wordt de bijlage 3 vervangen door:<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/01_1.pdf#page=219">Rapportering en opvolging</a>

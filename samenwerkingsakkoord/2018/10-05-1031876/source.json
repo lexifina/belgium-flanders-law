@@ -2,16 +2,16 @@
   "codex_id": 1031876,
   "title": "Samenwerkingsakkoord van 2018-10-05 tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de voltooiing van de GEN-werken",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031876/VolledigDocument?datum=2019-07-04",
-  "source_sha256": "caa2a955da21197edbf739c797b27a5c73c54e0afb8235dd386df95e689f6c98",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031876/VolledigDocument?datum=2024-08-02",
+  "source_sha256": "12a4a0b43b19100794ef728c0714d28de6438d948c72c108d1eb87835a6f7a72",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031876&param=informatie",
-  "as_of": "2019-07-04",
+  "as_of": "2024-08-02",
   "made": "2018-10-05",
   "gazette": "2019-07-03",
   "numac": 2019030256,
   "document_start": "2019-07-04",
   "document_end": null,
-  "in_force": "2019-07-04",
+  "in_force": "2024-08-02",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2019-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-02; future article versions excluded; article text as the API gives it"
 }
