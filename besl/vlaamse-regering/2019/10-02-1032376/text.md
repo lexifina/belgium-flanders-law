@@ -77,20 +77,31 @@ Zij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 
 ### ART 4.
 
-§1. Mevrouw Gwendolyn Rutten, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsveld Binnenlands Bestuur en Stedenbeleid, vermeld in artikel 3 van het organisatiebesluit;<br>
-2° het beleidsveld Gelijke Kansen en Integratie en Inburgering, vermeld in artikel 3 van het organisatiebesluit;<br>
-3° de HR en de audit van de Vlaamse overheid vermeld in artikel 3 van het organisatiebesluit.<br>
+§1. Mevrouw Lydia Peeters, viceminister-president van de Vlaamse Regering, is bevoegd voor:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+1° het beleidsdomein Mobiliteit en Openbare Werken, vermeld in artikel 12 van het organisatiebesluit;<br>
+2° het beleidsveld Binnenlands Bestuur en Stedenbeleid, vermeld in artikel 3 van het organisatiebesluit;<br>
+3° het beleidsveld Gelijke Kansen en Integratie en Inburgering, vermeld in artikel 3 van het organisatiebesluit;<br>
+4° de HR en de audit van de Vlaamse overheid, vermeld in artikel 3 van het organisatiebesluit.<br>
 <br>
-Zij draagt de titel "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen".<br>
+Zij draagt de titel "Vlaams minister van Mobiliteit, Openbare Werken, Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen".<br>
 <br>
-§2. Mevrouw Gwendolyn Rutten is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
-1° het agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd, Media en Armoedebestrijding;<br>
-2° Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap "Audit Vlaanderen" en tot wijziging van diverse besluiten;<br>
-3° Toegankelijk Vlaanderen;<br>
-4° het agentschap Integratie en Inburgering;<br>
-5° het agentschap Overheidspersoneel;<br>
-6° het Vlaams Pensioenfonds.
+§2. Mevrouw Lydia Peeters is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
+1° de Luchthavenontwikkelingsmaatschappij Vlaanderen;<br>
+2° de Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
+3° de Vlaamse Vervoermaatschappij De Lijn;<br>
+4° het Pendelfonds;<br>
+5° het Agentschap Wegen en Verkeer;<br>
+6° het Agentschap voor Maritieme Dienstverlening en Kust;<br>
+7° de Vlaamse Waterweg nv;<br>
+8° de Vlaamse Havens;<br>
+9° het Eigen Vermogen Flanders Hydraulics;<br>
+10° het Eigen Vermogen Xperta;<br>
+11° het agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd, Media en Armoedebestrijding;<br>
+12° Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap "Audit Vlaanderen" en tot wijziging van diverse besluiten;<br>
+13° Toegankelijk Vlaanderen;<br>
+14° het agentschap Integratie en Inburgering;<br>
+15° het agentschap Overheidspersoneel;<br>
+16° het Vlaams Pensioenfonds.
 
 ### ART 5.
 
@@ -163,22 +174,7 @@ Hij draagt de titel "Vlaams minister van Financiën en Begroting, Wonen en Onroe
 
 ### ART 9.
 
-§ 1. Mevrouw Lydia Peeters is bevoegd voor het beleidsdomein Mobiliteit en Openbare Werken, vermeld in artikel 12 van het organisatiebesluit.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Mobiliteit en Openbare Werken".<br>
-<br>
-§ 2. Mevrouw Lydia Peeters is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
-1° de Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
-2° de Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
-3° de Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
-4° de Vlaamse Vervoermaatschappij De Lijn;<br>
-5° het Pendelfonds;<br>
-6° het Agentschap Wegen en Verkeer;<br>
-7° het Agentschap voor Maritieme Dienstverlening en Kust;<br>
-8° de Vlaamse Waterweg nv;<br>
-9° de Vlaamse Havens;<br>
-10° het Eigen Vermogen Flanders Hydraulics;<br>
-11° het Eigen Vermogen Xperta.
+...
 
 ### ART 10.
 
