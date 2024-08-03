@@ -2,16 +2,16 @@
   "codex_id": 1033800,
   "title": "Besluit van de Vlaamse Regering van 2020-10-30 tot uitvoering van het decreet van 5 april 2019 houdende de tegemoetkoming in de schade die aangericht is door rampen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033800/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "cd4407b335fb3a7da2680a8389b9e73368da3a9a048fbba062ec74b6f73f0741",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033800/VolledigDocument?datum=2024-08-03",
+  "source_sha256": "48c1e2fb4ece9417e171eb96fd2ea7026cde1c6cd744bcd864be51316e8e4982",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033800&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2024-08-03",
   "made": "2020-10-30",
   "gazette": "2020-11-09",
   "numac": 2020043549,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2024-08-03",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-03; future article versions excluded; article text as the API gives it"
 }
