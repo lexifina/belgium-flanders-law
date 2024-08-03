@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040036,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-31 over de elektronische monitoring voor minderjarigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040036/VolledigDocument?datum=2024-08-03",
+  "source_sha256": "560295a4cb871d3f41de1db61b058d9521dd10b0d568fbb07a23d1a1a74f0adc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040036&param=informatie",
+  "as_of": "2024-08-03",
+  "made": "2024-05-31",
+  "gazette": "2024-07-24",
+  "numac": 2024007406,
+  "document_start": "2024-08-03",
+  "document_end": null,
+  "in_force": "2024-08-03",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
