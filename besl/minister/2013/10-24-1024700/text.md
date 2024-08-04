@@ -18,8 +18,8 @@
 
 ### ART. 1.
 
-In afwijking van artikel 6, 2° van het besluit van de Vlaamse Regering van   8 november 2002 houdende de voorwaarden tot toekenning van subsidies afkomstig   van de over de Vlaamse Gemeenschap verdeelde winst van de Nationale Loterij,   moet elke aanvraag wat betreft de project- of investeringssubsidies en de   subsidies voor prijzen en beurzen in de sector cultuur, worden ingediend   uiterlijk op 1 december van het dienstjaar.<BR>
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 april   2013.<BR>
+...
