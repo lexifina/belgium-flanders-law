@@ -20,7 +20,7 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
-## HOOFDSTUK 1. Definities
+## HOOFDSTUK 1. Algemene bepalingen
 
 ### ART 1.
 
@@ -45,6 +45,10 @@ De minister kan de definities, vermeld in het eerste lid, verduidelijken en aanv
 De minister kan de definitie van audiovisueel werk, vermeld in het eerste lid, 3°, uitbreiden met een fictie- of een documentaire reeks onder de door hem bepaalde voorwaarden.<br>
 <br>
 De minister kan de uitgavenperiode, vermeld in het eerste lid, 13°, verlengen en het Agentschap Innoveren en Ondernemen kan de uitgavenperiode op gemotiveerd verzoek van de steunaanvrager verlengen.
+
+### ART 1/1.
+
+Dit besluit wordt aangehaald als: het Besluit Screen Flanders van 8 december 2017.
 
 ## HOOFDSTUK 2. Algemene groepsvrijstellingsverordening
 
