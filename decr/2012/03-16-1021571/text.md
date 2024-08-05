@@ -28,10 +28,10 @@ c) geen kleine onderneming zijn;<br>
 4° grote ondernemingen : ondernemingen die niet ressorteren onder de categorie kleine of middelgrote onderneming;<br>
 5° steun : elke vorm van financiering, met inbegrip van staatssteun. Staatssteun is elke maatregel die voldoet aan alle criteria, vermeld in artikel 107 van het Verdrag betreffende de Werking van de Europese Unie.<br>
 6° steunintensiteit : het steunbedrag, uitgedrukt als een brutopercentage van de in aanmerking komende kosten of investeringen van het project, voor aftrek van de belastingen of andere heffingen;<br>
-7° regionale steunkaart: een kaart met gebieden die op sociaal-economisch gebied achtergebleven zijn en beantwoorden aan de voorwaarden, vermeld in de Europese richtsnoeren inzake regionale steunmaatregelen 2014 - 2020 (Publicatieblad van 23 juli 2013 C 209, blz. 1 - 45). Die gebieden zijn voor Vlaanderen vastgelegd in de regionale steunkaart van het Vlaamse Gewest, goedgekeurd door de Europese Commissie op 16 september 2014 en door de Vlaamse Regering op 21 november 2014 voor de periode van 1 juli 2014 tot en met 31 december 2020. Als de steunkaart wordt herzien door de Europese Commissie of de Vlaamse Regering, wordt de nieuwe steunkaart in aanmerking genomen;<br>
+7° regionale steunkaart: een kaart met gebieden die op sociaal-economisch gebied achtergebleven zijn en beantwoorden aan de voorwaarden, vermeld in de Europese richtsnoeren inzake regionale steunmaatregelen (Publicatieblad van 29 april 2021, C 153/1). Die gebieden zijn voor Vlaanderen vastgelegd in de regionale steunkaart van het Vlaamse Gewest, goedgekeurd door de Europese Commissie op 18 juli 2022 voor de periode van 1 januari 2022 tot en met 31 december 2027. Als de steunkaart wordt herzien door de Europese Commissie of de Vlaamse Regering, wordt de nieuwe steunkaart in aanmerking genomen;<br>
 8° algemene groepsvrijstellingsverordening: verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 - 78), en de latere wijzigingen ervan;<br>
-9° de-minimisverordening: verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352, blz. 1 - 8), en de latere wijzigingen ervan;<br>
-10° richtsnoeren inzake milieu: richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014-2020 (Publicatieblad van 28 juni 2014, C 200, blz. 1 - 55), en de latere wijzigingen ervan;<br>
+9° de-minimisverordening: verordening (EU) 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, en de latere wijzigingen ervan;<br>
+10° richtsnoeren inzake milieu: richtsnoeren staatssteun klimaat, milieubescherming en energie 2022, en de latere wijzigingen ervan;<br>
 11° richtsnoeren inzake reddings- en herstructureringssteun: richtsnoeren inzake reddings- en herstructureringssteun aan niet-financiële ondernemingen in moeilijkheden (Publicatieblad van 31 juli 2014, C 249, blz. 1 - 28), en de latere wijzigingen ervan;<br>
 12° Verdrag betreffende de Werking van de Europese Unie : het Verdrag tot oprichting van de Europese Economische Gemeenschap, ondertekend te Rome op 25 maart 1957, laatst gewijzigd bij het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, ondertekend te Lissabon, 13 december 2007 (Publicatieblad van 30 maart 2010, C83), en alle latere wijzigingen.
 
@@ -87,29 +87,43 @@ De steunintensiteit wordt berekend als een percentage van de in aanmerking komen
 
 De Vlaamse Regering kan binnen het volledige grondgebied van het Vlaamse   Gewest investeringssteun verlenen aan kleine en middelgrote ondernemingen. De   maximale steunintensiteit wordt bepaald in artikel 17, punt 6, van de Algemene   Groepsvrijstellingsverordening.<BR><BR>De Vlaamse Regering kan binnen de   gebieden die zijn opgenomen in de regionale steunkaart, regionale   investeringssteun verlenen aan ondernemingen, met inachtneming van de maximale   steunpercentages die door de Europese Commissie zijn vastgelegd bij de   aanvaarding van de regionale steunkaart, met behoud van de mogelijkheid om voor   kleine en middelgrote ondernemingen de hogere steunpercentages, vermeld in het   eerste lid, toe te passen.
 
-## HOOFDSTUK 3. Steun voor ecologie-investeringen
+## HOOFDSTUK 3. Steun voor ecologie-investeringen en milieustudies
 
 ## Afdeling 1. Definities
 
 ### ART. 13.
 
-De definities, vermeld in artikel 2, punt 101 tot en met 131, van de   Algemene Groepsvrijstellingsverordening, zijn van toepassing in dit   hoofdstuk.
+De definities, vermeld in artikel 2, punt 101 tot en met 131ter, van de Algemene Groepsvrijstellingsverordening, zijn van toepassing in dit hoofdstuk.
 
 ## Afdeling 2. Toepassingsgebied
 
 ### ART. 14.
 
-De Vlaamse Regering kan steun verlenen aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest onder de voorwaarden, vermeld in de Algemene Groepsvrijstellingsverordening, dit decreet en de uitvoeringsbesluiten.<br /><br />De Vlaamse Regering kan in afwijking van het eerste lid steun verlenen aan ondernemingen voor ecologie-investeringen onder de voorwaarden, vermeld in de richtsnoeren inzake milieu en de uitvoeringsbesluiten.
+De Vlaamse Regering kan steun verlenen aan ondernemingen voor ecologie-investeringen en milieustudies in het Vlaamse Gewest onder de voorwaarden, vermeld in de Algemene Groepsvrijstellingsverordening, dit decreet en de uitvoeringsbesluiten.<br>
+<br>
+De Vlaamse Regering kan in afwijking van het eerste lid steun verlenen aan ondernemingen voor ecologie-investeringen onder de voorwaarden, vermeld in de richtsnoeren inzake milieu en de uitvoeringsbesluiten.
 
 ## Afdeling 3. Steunintensiteit
 
 ### ART. 15.
 
-§ 1. De Vlaamse Regering kan investeringssteun verlenen die ondernemingen   in staat stelt verder te gaan dan communautaire normen inzake milieubescherming   of, bij ontstentenis van communautaire normen, het niveau van milieubescherming   te doen toenemen. De maximale steunintensiteit wordt bepaald in artikel 36, punt   6 tot en met 8, van de Algemene Groepsvrijstellingsverordening.<BR><BR>§ 2. De   Vlaamse Regering kan steun verlenen voor de aanschaf van nieuwe vervoersmiddelen   die verder gaan dan communautaire normen of die, bij ontstentenis van   communautaire normen, het niveau van milieubescherming doen toenemen. De   maximale steunintensiteit wordt bepaald in artikel 36, punt 6 tot en met 8, van   de Algemene Groepsvrijstellingsverordening.<BR><BR>Er kan steun worden verleend   voor de aanschaf van nieuwe vervoersmiddelen voor vervoer per spoor, over de   weg, over de binnenwateren en over zee die aan vastgestelde communautaire normen   voldoen, wanneer deze aanschaf geschiedt vóór de inwerkingtreding van de nieuwe   communautaire normen en wanneer deze nieuwe normen, zodra deze verplicht worden,   niet met terugwerkende kracht op reeds aangeschafte vervoersmiddelen van   toepassing zullen zijn.<BR><BR>Er kan steun worden verleend voor   vernieuwingsoperaties van bestaande voertuigen met het oog op milieubescherming,   als de bestaande vervoersmiddelen worden aangepast aan milieunormen die nog niet   van kracht waren op het tijdstip dat die bedrijfsmiddelen in bedrijf werden   genomen of als voor de vervoersmiddelen geen milieunormen van toepassing   zijn.<BR><BR>§ 3. De Vlaamse Regering kan steun verlenen aan kleine en   middelgrote ondernemingen ten behoeve van vroege aanpassing aan toekomstige   communautaire normen. De maximale steunintensiteit wordt bepaald in artikel 37,   punt 4 en 5, van de Algemene Groepsvrijstellingsverordening.<BR><BR>Er kan steun   worden verleend als de communautaire normen zijn goedgekeurd. De investering   moet ten minste één jaar voor de inwerkingtreding van de normen ten uitvoer zijn   gelegd en beëindigd zijn.<BR><BR>§ 4. De Vlaamse Regering kan steun verlenen   voor investeringen op energiegebied, zoals : <BR>1° investeringen ten behoeve   van energiebesparende maatregelen. De maximale steunintensiteit wordt bepaald in   artikel 38, punt 4 tot en met 6, van de Algemene   Groepsvrijstellingsverordening;<BR>2° investeringen ten behoeve van   hoogrenderende warmte-krachtkoppeling. De maximale steunintensiteit wordt   bepaald in artikel 40, punt 5 en 6, van de Algemene   Groepsvrijstellingsverordening;<BR>3° investeringen ten behoeve van energie uit   hernieuwbare energiebronnen. De maximale steunintensiteit wordt bepaald in   artikel 41, punt 7 tot en met 10, van de Algemene   Groepsvrijstellingsverordening.
+De Vlaamse Regering kan steun verlenen voor de doeleinden en binnen de grenzen, vermeld in hoofdstuk III, deel 7, van de Algemene Groepsvrijstellingsverordening.
 
 ### ART. 16.
 
-§ 1. De steunintensiteit wordt berekend als een percentage van de in aanmerking komende ecologie-investeringen.<br /><br />§ 2. De Vlaamse Regering kan de volgende materiële investeringen in aanmerking nemen : investeringen in gronden als deze absoluut noodzakelijk zijn om aan de milieudoelstellingen te voldoen, in gebouwen, installaties en uitrustingen, met als doel vervuiling en hinder te beperken of te beëindigen, en investeringen om de productiemethoden aan te passen met het oog op de bescherming van het milieu.<br /><br />De Vlaamse Regering kan de volgende immateriële investeringen in aanmerking nemen : activa die de technologieoverdracht inhouden door de verwerving van octrooirechten, licenties, knowhow of niet-geoctrooieerde technische kennis.<br /><br />§ 3. Alleen de extra investeringen die noodzakelijk zijn om een niveau van milieubescherming te bereiken dat de communautaire normen in kwestie overtreft, worden in aanmerking genomen.<br /><br />De Vlaamse Regering kan de exploitatiebaten en -kosten in aanmerking nemen voor de bepaling van de extra investeringen.
+§ 1. De steunintensiteit wordt berekend als een percentage van de in aanmerking komende ecologie-investeringen.<br>
+<br>
+§ 2. De Vlaamse Regering kan de volgende materiële investeringen in aanmerking nemen : investeringen in gronden als deze absoluut noodzakelijk zijn om aan de milieudoelstellingen te voldoen, in gebouwen, installaties en uitrustingen, met als doel vervuiling en hinder te beperken of te beëindigen, en investeringen om de productiemethoden aan te passen met het oog op de bescherming van het milieu.<br>
+<br>
+De Vlaamse Regering kan de volgende immateriële investeringen in aanmerking nemen : activa die de technologieoverdracht inhouden door de verwerving van octrooirechten, licenties, knowhow of niet-geoctrooieerde technische kennis.<br>
+<br>
+De Vlaamse Regering kan de kosten van een milieustudie of consultancydienst in aanmerking nemen als die verband houden met de ecologie-investeringen, vermeld in hoofdstuk III, deel 7, van de Algemene Groepsvrijstellingsverordening.<br>
+<br>
+§ 3. Alleen de extra investeringen die noodzakelijk zijn om een niveau van milieubescherming te bereiken dat de communautaire normen in kwestie overtreft, worden in aanmerking genomen.<br>
+<br>
+In de gevallen waarin dat is toegelaten conform de Algemene Groepsvrijstellingsverordening, kan de Vlaamse Regering, in afwijking van het eerste lid, beslissen om de totale investeringskosten in aanmerking te nemen.<br>
+<br>
+De Vlaamse Regering kan de exploitatiebaten en -kosten in aanmerking nemen voor de bepaling van de extra investeringen.
 
 ## HOOFDSTUK 4. Steun voor extern advies, studies en deelneming aan beurzen
 
