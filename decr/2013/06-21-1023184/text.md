@@ -145,6 +145,26 @@ In artikel 67 van hetzelfde decreet wordt het eerste lid vervangen door   wat vo
 
 ## HOOFDSTUK 5 [... (opgeh. decr. 5 april 2019, art. 54, I: 8 augustus 2024)]
 
+### ART. 21.
+
+...
+
+### ART. 22.
+
+...
+
+### ART. 23.
+
+...
+
+### ART. 24.
+
+...
+
+### ART. 25.
+
+...
+
 ## HOOFDSTUK 6 Vestiging van een recht van erfpacht voor de openbare psychiatrische zorgcentra
 
 ### ART. 26.
