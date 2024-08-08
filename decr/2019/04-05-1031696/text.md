@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ### ART 2.
 
 In dit decreet wordt verstaan onder:<br>
@@ -45,6 +49,45 @@ In dit decreet wordt verstaan onder:<br>
 37° zorgvoorziening: met uitzondering van ziekenhuizen, elke organisatie, erkend of vergund binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin van de Vlaamse Gemeenschap, die instaat voor de uitvoering van zorg.
 
 ## HOOFDSTUK 2. Doelstelling en werkingsprincipes
+
+### ART 3.
+
+Dit decreet heeft als doel, in samenwerking met de gebruiker, de context, de bevolking en de professional als gelijkwaardige partners, de geestelijke gezondheid te verbeteren op Vlaams bevolkingsniveau door:<br>
+1° de geestelijke gezondheid te waarderen, te beschermen en te versterken op individueel en maatschappelijk niveau;<br>
+2° een kwaliteitsvolle zorg voor geestelijke gezondheid te garanderen in alle sectoren van de samenleving, die:<br>
+a) tijdig toegankelijk en aanvaardbaar is voor iedereen;<br>
+b) geïntegreerd is in het hele gezondheids- en welzijnslandschap;<br>
+c) op een objectieve, transparante en consistente manier is onderbouwd met de meest recente wetenschappelijke inzichten, praktijkkennis en ervaringsdeskundigheid;<br>
+d) gericht is op herstel, levenskwaliteit en participatie van alle gebruikers in een samenleving die vrij is van stigma en discriminatie.
+
+### ART 4.
+
+De netwerkpartners nemen de volgende werkingsprincipes in acht:<br>
+1° het geestelijke gezondheidsaanbod zet in op de geestelijke gezondheidscompetenties van alle burgers, op destigmatisering en sociale inclusie van personen met psychische zorgnoden, en dat in de vorm van zowel populatiegerichte acties als individugerichte zorg;<br>
+2° de toegankelijkheid en aanvaardbaarheid van het geestelijke gezondheidsaanbod:<br>
+a) de toegankelijkheid en aanvaardbaarheid van het geestelijke gezondheidsaanbod voor de gebruiker en voor de persoon met geestelijke gezondheidsbehoeften waarborgen zonder discriminatie op grond van herkomst, ideologische, godsdienstige en filosofische overtuiging of lidmaatschap, seksuele oriëntatie en genderidentiteit, sociale of financiële situatie, fysieke of cognitieve mogelijkheden, of enig ander criterium op grond waarvan kan worden gediscrimineerd;<br>
+b) de gebruiker kiest in eigen regie zijn individugerichte zorg, die is gericht op zijn zorgvraag, en die van zijn context. Ook als de gebruiker geen zorgvraag heeft, wordt dat principe zo maximaal mogelijk nagestreefd;<br>
+3° principes die het geestelijke gezondheidsaanbod voor gebruikers en hun context en voor personen met geestelijke gezondheidsbehoeften vormgeven:<br>
+a) de persoonlijke levenssfeer van de gebruiker en zijn context wordt gerespecteerd;<br>
+b) het geestelijke gezondheidsaanbod is ontwikkelings-, herstel- en krachtgericht;<br>
+c) het gebruik van dwanginterventies wordt zo veel mogelijk voorkomen en vermeden en wordt alleen toegepast als beschermingsmaatregel als de gebruiker zijn gezondheid of zijn veiligheid ernstig in gevaar brengt, of als de gebruiker een ernstige bedreiging vormt voor andermans leven of integriteit;<br>
+d) de context van de gebruiker wordt betrokken en ondersteund. De individugerichte zorg vindt plaats binnen de driehoek gebruiker, context en professional als de gebruiker daarmee toestemt;<br>
+e) zorgvoorzieningen stemmen hun individugerichte zorg af op de zelfzorg van de gebruiker en de zorg of ondersteuning die door zijn context wordt aangeboden;<br>
+f) ervaringsdeskundigheid krijgt een plaats in het geestelijke gezondheidsaanbod, zowel bij de individugerichte zorg en als bij populatiegerichte acties, en in de geestelijke gezondheidsnetwerken;<br>
+4° de organisatie van het geestelijke gezondheidsaanbod:<br>
+a) het geestelijke gezondheidsaanbod is erop gericht de gebruiker en de persoon met geestelijke gezondheidsbehoeften te ondersteunen in de realisatie van zijn eigen potentieel en het participeren aan de gemeenschap waartoe hij behoort. Het geestelijke gezondheidsaanbod ondersteunt de gebruiker daarbij waar nodig met continue zorg die zo veel mogelijk verloopt in de natuurlijke omgeving van de gebruiker;<br>
+b) het geestelijke gezondheidsaanbod neemt subsidiariteit als uitgangspunt;<br>
+c) om de levenskwaliteit van de gebruiker te optimaliseren, wordt de individugerichte zorg georganiseerd op een geïntegreerde wijze die resulteert in een integrale zorg en ondersteuning van de gebruiker en zijn context;<br>
+5° het voeren van een geïntegreerd kwaliteitsbeleid met betrekking tot de toegankelijkheid, de aanvaardbaarheid, de geschiktheid, de effectiviteit, de veiligheid, de rechtvaardigheid en de efficiëntie van het geestelijke gezondheidsaanbod;<br>
+6° het waarborgen van financiële en bestuurlijke weerbaarheid en transparantie.<br>
+<br>
+In het eerste lid, 2°, b), wordt verstaan onder zorgvraag: de visie van de gebruiker op het doel van de individugerichte zorg waarnaar hij vraagt voor zijn psychische zorgnoden, alsook de voorkeur van de gebruiker met betrekking tot de strategie die wordt gevolgd om dat doel te bereiken.<br>
+<br>
+In het eerste lid, 3°, c), wordt verstaan onder dwanginterventie: een interventie die de persoonlijke vrijheid van een gebruiker beperkt of ontneemt zonder zijn toestemming.<br>
+<br>
+In het eerste lid, 4°, b), wordt verstaan onder subsidiariteit: de meest persoonsgerichte, effectieve, efficiënte, minst ingrijpende en meest kortdurende zorgvorm die mogelijk en nodig is, wordt aangeboden.<br>
+<br>
+In het eerste lid, 4°, c), wordt verstaan onder zorg georganiseerd op een geïntegreerde wijze: zorg en ondersteuning die bestaat uit het op operationeel en organisatorisch niveau samenwerken van alle betrokken zorgvoorzieningen, initiatieven van vrijwillige en informele zorg of ondersteuning, partners uit andere sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, en partners uit andere beleidsdomeinen die al dan niet als zodanig door de Vlaamse Gemeenschap worden erkend of gefinancierd over alle zorgniveaus heen.
 
 ## HOOFDSTUK 3. Specifieke bepalingen over de financiële en bestuurlijke weerbaarheid en transparantie
 
@@ -105,6 +148,34 @@ De Vlaamse Regering bepaalt welke netwerkpartners de zorg, vermeld in het eerste
 
 ## Afdeling 2. Organisatie, programmatie en erkenning van geestelijke gezondheidsnetwerken
 
+### ART 9.
+
+De Vlaamse Regering programmeert de geestelijke gezondheidsnetwerken. De programmatie bepaalt het maximale aantal geestelijke gezondheidsnetwerken per deelpopulatie zo veel mogelijk aan de hand van objectief meetbare criteria, met het oog op een evenredige spreiding afhankelijk van de psychische zorgnoden, de geestelijke gezondheidsbehoeften of de nood aan uitwisseling en het samen inzetten van expertise van netwerkpartners.
+
+### ART 10.
+
+De Vlaamse Regering erkent geestelijke gezondheidsnetwerken.<br>
+<br>
+De Vlaamse Regering bepaalt de erkenningsvoorwaarden, de duur van de erkenning en de regels voor de toekenning, weigering, eventuele verlenging, schorsing en intrekking van de erkenning, inclusief de mogelijkheid om een bezwaar in te dienen bij de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
+
+### ART 11.
+
+De Vlaamse Regering bepaalt de werkgebieden van de geestelijke gezondheidsnetwerken en de deelpopulaties of doelgroepen waar de geestelijke gezondheidsnetwerken zich binnen die werkgebieden op richten.
+
+### ART 12.
+
+§ 1. Van een geestelijk gezondheidsnetwerk kunnen de volgende organisaties deel uitmaken:<br>
+1° de zorgvoorzieningen die werkzaam zijn binnen het werkgebied van het geestelijke gezondheidsnetwerk;<br>
+2° de partners uit andere sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin van de Vlaamse Gemeenschap, die werkzaam zijn binnen het werkgebied van het geestelijke gezondheidsnetwerk;<br>
+3° de initiatieven van vrijwillige en informele zorg of ondersteuning die werkzaam zijn binnen het werkgebied van het geestelijke gezondheidsnetwerk;<br>
+4° de partners uit andere beleidsdomeinen dan het beleidsdomein Welzijn, Volksgezondheid en Gezin van de Vlaamse Gemeenschap, die al dan niet als zodanig door de Vlaamse Gemeenschap worden erkend of gefinancierd, die werkzaam zijn binnen het werkgebied van het geestelijke gezondheidsnetwerk, en van wie de bijdrage aan het geestelijk gezondheidsnetwerk de doelstelling, vermeld in artikel 3, mee vormgeeft.<br>
+<br>
+De netwerkpartners zijn niet-hiërarchisch ten opzichte van elkaar gepositioneerd.<br>
+<br>
+§ 2. Alle in paragraaf 1 vermelde organisaties die werkzaam zijn in het werkgebied van het geestelijke gezondheidsnetwerk, worden uitgenodigd om netwerkpartner te worden.<br>
+<br>
+§ 3. Ziekenhuizen kunnen participeren aan de netwerken zonder dat zij evenwel netwerkpartner worden en zonder de bijhorende verplichtingen gekoppeld aan netwerkpartners.
+
 ## Afdeling 3. De inhoudelijke opdeling van het geestelijke gezondheidsaanbod en de subsidiëring van geestelijke gezondheidsnetwerken
 
 ### ART 13.
@@ -151,11 +222,55 @@ Binnen het geestelijke gezondheidsnetwerk wordt functie C uitgevoerd door netwer
 <br>
 Binnen het geestelijke gezondheidsnetwerk worden functies D en E uitgevoerd door netwerkpartners die werkzaam zijn binnen zorgniveau 2a en 2b.
 
+### ART 18.
+
+De geestelijke gezondheidsnetwerken hebben de volgende opdrachten:<br>
+1° de toeleiding naar individugerichte zorg en populatiegerichte acties organiseren, maximaal rekening houdend met de eigen regie van de gebruiker, vermeld in artikel 4, 2°, b). Dat houdt in dat het geestelijke gezondheidsnetwerk een of meer aanspreekpunten aanwijst of organiseert waar de gebruiker en zijn context terechtkunnen voor objectieve en transparante informatie in verband met passende zorg en de toegang daarnaartoe, en waar personen met geestelijke gezondheidsbehoeften terechtkunnen voor objectieve en transparante informatie over populatiegerichte acties en de toegang daarnaartoe;<br>
+2° de functies en de programma's faciliteren en optimaliseren;<br>
+3° een zorgstrategisch plan opmaken. Het zorgstrategisch plan van een geestelijke gezondheidsnetwerk stemt het geestelijke gezondheidsaanbod, uitgevoerd door de netwerkpartners van het geestelijke gezondheidsnetwerk, af op de psychische en andere zorgnoden en de geestelijke gezondheidsbehoeften van de deelpopulatie waarop het geestelijke gezondheidsnetwerk zich richt. De individugerichte zorg wordt georganiseerd op de zorgniveaus, vermeld in artikel 9, en de populatiegerichte acties. Dat zorgstrategische plan is geïntegreerd in een breder geheel van planning, bepaald door de Vlaamse Regering;<br>
+4° de integrale en continue zorg en ondersteuning faciliteren en optimaliseren door:<br>
+a) transparante afspraken op te stellen over de verwijzing van de individuele gebruiker en zijn context op elk mogelijk moment van het zorgtraject van de gebruiker, maximaal rekening houdend met de eigen regie van de gebruiker, vermeld in artikel 4, 2°, b);<br>
+b) het inzetten van de zorgcoördinator en het gebruik van casemanagement op het niveau van de individuele gebruiker met ernstige en langdurige psychische zorgnoden en zijn context te stimuleren.<br>
+<br>
+In het eerste lid, 4°, b), wordt het volgende verstaan onder:<br>
+1° zorgcoördinator: het aanspreekpunt van een zorg- en ondersteuningsteam dat als lid van het zorg- en ondersteuningsteam de taak op zich neemt om het overzicht te behouden en ervoor te zorgen dat het geestelijke gezondheidsaanbod, vastgelegd op basis van de psychische zorgnoden van de gebruiker, afgestemd, opgevolgd en geëvalueerd wordt;<br>
+2° casemanagement: de grondige analyse en evaluatie van&nbsp;de zorg- en ondersteuningsnood of het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorg- en ondersteuningsteam, om tot een duidelijke probleemstelling te komen, en de oplossingsgerichte procesbegeleiding en zorgafstemming die daaraan verbonden worden.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, verder uitwerken en bijkomende opdrachten bepalen.<br>
+<br>
+De Vlaamse Regering kan, binnen de beschikbare begrotingskredieten, subsidies verlenen aan de overeenkomstig artikel 10 erkende geestelijke gezondheidsnetwerken voor de uitvoering van haar opdrachten. In voorkomend geval bepaalt ze de subsidievoorwaarden, het subsidiebedrag, de procedure voor de toekenning en de wijze waarop het gebruik van de subsidie moet worden verantwoord.
+
 ## HOOFDSTUK 5. Ervaringsdeskundigheid in het geestelijke gezondheidsaanbod
 
 ## HOOFDSTUK 6. Comité geestelijke gezondheidsnetwerken, partnerorganisaties en projecten
 
 ## Afdeling 1. Comité geestelijke gezondheidsnetwerken
+
+### ART 20.
+
+§ 1. Bij het departement wordt een comité geestelijke gezondheidsnetwerken opgericht. Dit comité is een overlegorgaan dat geestelijke gezondheidsnetwerken en, in voorkomend geval, partnerorganisaties structureel betrekt bij het Vlaamse beleid over het geestelijke gezondheidsaanbod, en dat minstens de volgende taken heeft:<br>
+1° afspraken maken over het kader, de instrumenten en de procedure die de geestelijke gezondheidsnetwerken moeten gebruiken voor de uitvoering van de opdrachten, vermeld in artikel 18;<br>
+2° de werking van de geestelijke gezondheidsnetwerken opvolgen en evalueren.<br>
+<br>
+De Vlaamse Regering kan het comité bijkomende taken toevertrouwen.<br>
+<br>
+Per deelpopulatie kunnen aparte comités worden opgericht.<br>
+<br>
+§ 2. Het comité bestaat minstens uit de volgende leden:<br>
+1° twee vertegenwoordigers van elk geestelijke gezondheidsnetwerk;<br>
+2° maximaal zes vertegenwoordigers van de partnerorganisaties, onder wie twee vertegenwoordigers van gebruikers en twee vertegenwoordigers van hun context;<br>
+3° twee vertegenwoordigers van het departement;<br>
+4° een vertegenwoordiger van de Vlaamse Minister van Volksgezondheid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere samenstelling van het comité.<br>
+<br>
+De federale minister van Volksgezondheid en de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu worden uitgenodigd voor de vergaderingen van het comité en kunnen elk de vergaderingen van het comité bijwonen via een vertegenwoordiger met raadgevende stem.<br>
+<br>
+Het comité kan ter ondersteuning van zijn werkzaamheden een beroep doen op externe deskundigen.<br>
+<br>
+§ 3. De Vlaams Regering bepaalt de organisatie en de werkingsregelen van het comité.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de vergoeding van de leden van het comité, de vergoeding van eventuele externe deskundigen, en legt de onverenigbaarheden vast.
 
 ## Afdeling 2. Partnerorganisaties en projecten
 
@@ -226,4 +341,119 @@ De Vlaamse Regering bepaalt de nadere regels voor het uitvoeren van de sanctie, 
 
 ## HOOFDSTUK 10. Wijzigingsbepalingen
 
+### ART 30.
+
+In het opschrift van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg wordt tussen het woord "de" en het woord "geestelijke" de woorden "centra voor" ingevoegd.
+
+### ART 32.
+
+In artikel 3 en 4, § 2, van hetzelfde decreet wordt het woord "patiënt" telkens vervangen door het woord "gebruiker".
+
+### ART 33.
+
+Artikel 5 en 6 van hetzelfde decreet worden opgeheven.
+
+### ART 34.
+
+In artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het woord "patiënten" telkens vervangen door het woord "gebruikers";<br>
+2° paragraaf 4 wordt opgeheven.
+
+### ART 35.
+
+In artikel 8 van hetzelfde decreet wordt het woord "patiënt" telkens vervangen door het woord "gebruiker".
+
+### ART 36.
+
+In artikel 9 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 2°, wordt het woord "patiënt" vervangen door het woord "gebruiker";<br>
+2° in paragraaf 1, 4°, wordt het woord "patiënten" vervangen door het woord "gebruikers";<br>
+3° in paragraaf 1, 5°, worden de woorden "psychiatrische netwerken" vervangen door de woorden "geestelijke gezondheidsnetwerken";<br>
+4° in paragraaf 1, 5°, wordt de zinsnede "waarin samenwerkingsafspraken en procedures zijn overeengekomen teneinde een voldoende, gedifferentieerd en doelgroepgericht geestelijk gezondheidszorgaanbod te realiseren, zodat patiënten er terecht kunnen voor passende zorg op maat" opgeheven;<br>
+5° in paragraaf 1, 8°, worden de woorden "en respecteren de medewerkers van het centrum voor geestelijke gezondheidszorg het beroepsgeheim" opgeheven;<br>
+6° in paragraaf 3 worden de woorden "aanpak van de drugproblematiek" vervangen door de zinsnede "de zorg, vermeld in artikel 4, § 1," en wordt de zinsnede "de Vereniging voor Alcohol- en andere Drugproblemen (VAD) of haar rechtsopvolger" vervangen door de woorden "partnerorganisaties als vermeld in artikel 2, 23°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, en partnerorganisaties als vermeld in artikel 2, 25°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod".
+
+### ART 37.
+
+In artikel 10, § 1, en artikel 11, § 1, van hetzelfde decreet wordt het woord "patiënt" vervangen door het woord "gebruiker".
+
+### ART 39.
+
+In artikel 13 van hetzelfde decreet wordt het woord "patiënt" vervangen door het woord "gebruiker".
+
+### ART 40.
+
+In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
+1° artikel 14, gewijzigd bij het decreet van 8 juni 2018;<br>
+2° artikel 15.
+
+### ART 41.
+
+In artikel 18 van hetzelfde decreet wordt het woord "patiënt" vervangen door het woord "gebruiker".
+
+### ART 42.
+
+In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt punt 4° vervangen door wat volgt:<br>
+"4° de controle door de inspectie, vermeld in artikel 34, mogelijk maken";<br>
+2° in paragraaf 1 wordt punt 9° opgeheven;<br>
+3° er wordt een paragraaf 1/1 ingevoegd, die luidt als volgt:<br>
+" § 1/1. De Vlaamse Regering kan aanvullende erkenningsnormen bepalen.".
+
+### ART 43.
+
+In artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt opgeheven;<br>
+2° in paragraaf 2 wordt de zinsnede "vanaf 1 januari 2001" opgeheven.
+
+### ART 45.
+
+In artikel 29, 2°, van hetzelfde decreet worden de woorden "en er binnen de werkgebieden van de psychiatrische netwerken geen bestaande geschikte gebouwen of voorzieningen beschikbaar zijn die geheel of gedeeltelijk door de Vlaamse Gemeenschap worden gesubsidieerd" opgeheven.
+
+### ART 46.
+
+In hetzelfde decreet worden hoofdstuk VI, dat bestaat uit artikel 30, en hoofdstuk VII, dat bestaat uit artikel 31, opgeheven.
+
+### ART 47.
+
+Artikel 33 van hetzelfde decreet wordt opgeheven.
+
+### ART 48.
+
+In het hetzelfde decreet wordt het opschrift van hoofdstuk IX vervangen door wat volgt:<br>
+"HOOFSTUK IX. - Toezicht en sancties".
+
+### ART 49.
+
+Artikel 34 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 34. Het toezicht op de naleving van de bepalingen van dit decreet en van de uitvoeringsbesluiten ervan wordt uitgeoefend overeenkomstig het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid en de uitvoeringsbesluiten ervan.".
+
+### ART 50.
+
+Artikel 35 van hetzelfde decreet wordt opgeheven.
+
+### ART 51.
+
+In artikel 35/1 van hetzelfde decreet worden de woorden "op dit decreet of haar uitvoeringsbesluiten" vervangen door de zinsnede "op dit decreet, haar uitvoeringsbesluiten of de overeenkomst, vermeld in artikel 24".
+
+### ART 52.
+
+In het opschrift van hoofdstuk X van hetzelfde decreet worden de woorden "opheffings- en overgangsbepalingen en" opgeheven.
+
+### ART 53.
+
+Artikel 36 en 37 van hetzelfde decreet worden opgeheven.
+
+### ART 54.
+
+In het decreet van 21 juni 2013 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt hoofdstuk 5, dat bestaat uit artikel 21 tot en met 25, opgeheven.
+
+### ART 55.
+
+Artikel 37 van het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt opgeheven.
+
 ## HOOFDSTUK 11. Slotbepalingen
+
+### ART 57.
+
+De Vlaamse Regering stelt voor iedere bepaling van dit decreet de datum van inwerkingtreding vast.
