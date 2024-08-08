@@ -203,6 +203,10 @@ Het koninklijk besluit van 21 april 1983 tot vaststelling van de nadere regelen 
 
 ## Afdeling 5. Overlegplatforms geestelijke gezondheidszorg
 
+### ART 37.
+
+...
+
 ## Afdeling 6. Ouderenzorg
 
 ## Onderafdeling 1. Prijsbeleid in de residentiële ouderenzorg
