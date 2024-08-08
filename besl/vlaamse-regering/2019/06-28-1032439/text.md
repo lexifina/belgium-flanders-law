@@ -5658,12 +5658,12 @@ Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In deze bijlage wordt verstaan onder:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;assistentiewoning: een individuele aangepaste woning of wooneenheid waarin de bewoner zelfstandig verblijft en een beroep kan doen op zorg;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;beheersinstantie: een of meer personen die een groep van assistentiewoningen vertegenwoordigen en juridisch kunnen verbinden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;bewoner: een gebruiker die in een assistentiewoning verblijft;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betalen en die minstens de kostprijselementen, vermeld in artikel 22, omvat;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;sociale assistentiewoning: een assistentiewoning die aan de bewoner wordt verhuurd op grond van een overeenkomst voor de verhuring van een sociale huurwoning met toepassing van titel VII van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;assistentiewoning: een individuele aangepaste woning of wooneenheid waarin de bewoner zelfstandig verblijft en een beroep kan doen op zorg;<br>
+2°&nbsp;beheersinstantie: een of meer personen die een groep van assistentiewoningen vertegenwoordigen en juridisch kunnen verbinden;<br>
+3°&nbsp;bewoner: een gebruiker die in een assistentiewoning verblijft;<br>
+4°&nbsp;dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betalen en die minstens de kostprijselementen, vermeld in artikel 22, omvat;<br>
+5°&nbsp;sociale assistentiewoning: een assistentiewoning die aan de bewoner wordt verhuurd op grond van een overeenkomst voor de verhuring van een sociale huurwoning met toepassing van boek 6 van de Vlaamse Codex Wonen van 2021.</p>
 
 ## Hoofdstuk 2. Programmatie
 
@@ -6075,13 +6075,13 @@ Het aangestelde personeel van de administratie is gemachtigd om kennis te nemen 
 
 ### ART 41.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. In afwijking van artikel 11, eerste lid, ondertekenen de initiatiefnemer en de bewoner van een sociale assistentiewoning een overeenkomst die uitsluitend betrekking heeft op de zorg en ondersteuning, vermeld in artikel 22. Die overeenkomst vermeldt minstens de elementen, vermeld in artikel 11, met uitzondering van het eerste lid, 2°, 3°, d), e), en f), en 7°. </span></span><br>
+<p>§1. In afwijking van artikel 11, eerste lid, ondertekenen de initiatiefnemer en de bewoner van een sociale assistentiewoning een overeenkomst die uitsluitend betrekking heeft op de zorg en ondersteuning, vermeld in artikel 22. Die overeenkomst vermeldt minstens de elementen, vermeld in artikel 11, met uitzondering van het eerste lid, 2°, 3°, d), e), en f), en 7°.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Die overeenkomst, vermeld in het eerste lid, wordt beëindigd als de overeenkomst, vermeld in het derde lid, wordt beëindigd. Als de sociale assistentiewoning door meer dan één persoon wordt bewoond, wordt de overeenkomst die uitsluitend betrekking heeft op de zorg en ondersteuning pas beëindigd als geen van die personen nog verbonden is door een overeenkomst als vermeld in het derde lid.</span></span><br>
+Die overeenkomst, vermeld in het eerste lid, wordt beëindigd als de overeenkomst, vermeld in het derde lid, wordt beëindigd. Als de sociale assistentiewoning door meer dan één persoon wordt bewoond, wordt de overeenkomst die uitsluitend betrekking heeft op de zorg en ondersteuning pas beëindigd als geen van die personen nog verbonden is door een overeenkomst als vermeld in het derde lid.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het genotsrecht van de sociale assistentiewoning wordt geregeld in een overeenkomst die wordt gesloten conform de bepalingen van titel VII van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. Artikel 18 van deze bijlage is op die overeenkomst niet van toepassing.</span></span><br>
+Het genotsrecht van de sociale assistentiewoning wordt geregeld in een overeenkomst die wordt gesloten conform de bepalingen van boek 6 van de Vlaamse Codex Wonen van 2021. Artikel 18 van deze bijlage is op die overeenkomst niet van toepassing.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De bepalingen van afdeling 1 tot en met 4, met uitzondering van artikel 4, artikel 11, eerste lid, 2°, 3°, d), e), en f), en 7°, artikel 14, 16 en 17, en 22, tweede lid, zijn van overeenkomstige toepassing op de sociale assistentiewoningen.</span></span></p>
+§2. De bepalingen van afdeling 1 tot en met 4, met uitzondering van artikel 4, artikel 11, eerste lid, 2°, 3°, d), e), en f), en 7°, artikel 14, 16 en 17, en 22, tweede lid, zijn van overeenkomstige toepassing op de sociale assistentiewoningen.</p>
 
 ## Hoofdstuk 4. Afwijkingen
 
