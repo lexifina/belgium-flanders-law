@@ -2,16 +2,16 @@
   "codex_id": 1040008,
   "title": "Besluit van de Vlaamse Regering van 2024-05-31 tot verlenging van de maatregel voor arbeidsovereenkomsten in de zorgsector voor de periode van 1 januari 2023 tot en met 31 maart 2023 ten gevolge van de uitbraak van het COVID-19-virus, wat betreft de toelagen in het kader van het gezinsbeleid en tot wijziging van diverse besluiten over pleegzorg en de toelagen in het kader van het gezinsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040008/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "6d8009c7ea377205736ec7ac4de38ab98119ceddfc616fa4acb21e4338125901",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040008/VolledigDocument?datum=2024-08-08",
+  "source_sha256": "e618bc781f50ab530c4e8d706d203cb15aad3ce080820d0a4288c38dde195b06",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040008&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2024-08-08",
   "made": "2024-05-31",
   "gazette": "2024-07-29",
   "numac": 2024007265,
   "document_start": "2024-08-08",
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-08-08; future article versions excluded; article text as the API gives it"
 }
