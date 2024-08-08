@@ -541,49 +541,57 @@ Conform artikel 15 van het decreet van 29 juni 2012 deelt de dienst voor   pleeg
 
 § 1. Per pleegkind of pleeggast voor wie met toepassing van artikel 55, § 3, eerste lid, of artikel 56, tweede lid, een attest is afgegeven, wordt binnen de beschikbare begrotingskredieten en per opvangdag een forfaitaire kostenvergoeding uitbetaald volgens de volgende tabel. Er wordt maar één dag aangerekend voor de dag van de opname en de dag van het ontslag. Die dag wordt bestempeld als dag van de opname. De minister kan bepaalde dagen afwezigheid gelijkstellen met werkelijke aanwezigheid, afhankelijk van de ingezette modules. De forfaitaire kostenvergoeding wordt uitbetaald aan het pleeggezin. Als het pleegkind of de pleeggast bij meerdere pleeggezinnen is ondergebracht, wordt de forfaitaire kostenvergoeding evenredig verdeeld.<br>
 &nbsp;
-<table border="1">
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>leeftijd</td>
-			<td>bedrag vergoeding</td>
+			<td style="width:321px">soort pleegzorg en/of leeftijd kind</td>
+			<td style="width:217px">bedrag vergoeding</td>
 		</tr>
 		<tr>
-			<td>0-6 jaar met gezinsbijslag</td>
-			<td>13,00</td>
+			<td style="width:321px">0-6 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind recht geeft op gezinsbijslag</td>
+			<td style="width:217px">13,00</td>
 		</tr>
 		<tr>
-			<td>6-12 jaar met gezinsbijslag</td>
-			<td>13,40</td>
+			<td style="width:321px">6-12 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind recht geeft op gezinsbijslag</td>
+			<td style="width:217px">13,40</td>
 		</tr>
 		<tr>
-			<td>12-15 jaar met gezinsbijslag</td>
-			<td>15,20</td>
+			<td style="width:321px">12-15 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind recht geeft op gezinsbijslag</td>
+			<td style="width:217px">15,20</td>
 		</tr>
 		<tr>
-			<td>15-18 jaar met gezinsbijslag</td>
-			<td>16,60</td>
+			<td style="width:321px">15-18 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind recht geeft op gezinsbijslag</td>
+			<td style="width:217px">16,60</td>
 		</tr>
 		<tr>
-			<td>+18 jaar met gezinsbijslag</td>
-			<td>18,00</td>
+			<td style="width:321px">+18 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind recht geeft op gezinsbijslag</td>
+			<td style="width:217px">18,00</td>
 		</tr>
 		<tr>
-			<td>0-12 zonder gezinsbijslag</td>
-			<td>19,40</td>
+			<td style="width:321px">0-12 jaar, ondersteunende pleegzorg</td>
+			<td style="width:217px">19,40</td>
 		</tr>
 		<tr>
-			<td>12-18 zonder gezinsbijslag</td>
-			<td>20,95</td>
+			<td style="width:321px">0-12 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind geen recht geeft op gezinsbijslag</td>
+			<td style="width:217px">19,40</td>
 		</tr>
 		<tr>
-			<td>+ 18 jaar met eigen inkomsten</td>
-			<td>7,00</td>
+			<td style="width:321px">12-18 jaar, ondersteunende pleegzorg</td>
+			<td style="width:217px">20,95</td>
+		</tr>
+		<tr>
+			<td style="width:321px">12-18 jaar, perspectiefzoekende en -biedende pleegzorg waarbij het kind geen recht geeft op gezinsbijslag</td>
+			<td style="width:217px">20,95</td>
+		</tr>
+		<tr>
+			<td style="width:321px">+ 18 jaar, met eigen inkomsten</td>
+			<td style="width:217px">7,00</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
-<p><br>
-Aan de vergunde diensten voor pleegzorg wordt een bijkomende forfaitaire subsidie van 0,7 euro per pleegkind of pleeggast als vermeld in het eerste lid, en per opvangdag toegekend. Met die extra middelen kan de dienst voor pleegzorg zelf een bedrag toekennen aan de pleegzorger voor een aantoonbare verhoogde zorgzwaartesituatie, af te bakenen in de tijd. Die middelen worden door de dienst voor pleegzorg beheerd en jaarlijks verantwoord. Ze kunnen niet als reserve worden aangelegd. Daarvoor worden afspraken gemaakt tussen de verschillende vergunde diensten, die door elke dienst voor overleg worden voorgelegd aan de participatieraad, vermeld in artikel 13.</p>
+<p>Aan de vergunde diensten voor pleegzorg wordt een bijkomende forfaitaire subsidie van 0,7 euro per pleegkind of pleeggast als vermeld in het eerste lid, en per opvangdag toegekend. Met die extra middelen kan de dienst voor pleegzorg zelf een bedrag toekennen aan de pleegzorger voor een aantoonbare verhoogde zorgzwaartesituatie, af te bakenen in de tijd. Die middelen worden door de dienst voor pleegzorg beheerd en jaarlijks verantwoord. Ze kunnen niet als reserve worden aangelegd. Daarvoor worden afspraken gemaakt tussen de verschillende vergunde diensten, die door elke dienst voor overleg worden voorgelegd aan de participatieraad, vermeld in artikel 13.</p>
 
 <p>Als een pleegzorger een pleeggast of een meerderjarig pleegkind opvangt die eigen inkomsten heeft, bedraagt de bijdrage van de pleeggast&nbsp;of een meerderjarig pleegkind in de kosten van de pleegzorg 513 euro per maand. Als echter de eigen inkomsten van de pleeggast of een meerderjarig pleegkind, na vrijstelling voor een bedrag van 344 euro, lager zijn dan 513 euro per maand, wordt het verschil bijkomend gesubsidieerd. De minister kan een lijst opstellen met de eigen inkomsten die mee in rekening genomen worden om de eigen inkomsten te berekenen.</p>
 
