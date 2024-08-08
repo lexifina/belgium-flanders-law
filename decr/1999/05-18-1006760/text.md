@@ -8,23 +8,35 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° centrum voor geestelijke gezondheidszorg: de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is;<br /><br />2° LOGO: samenwerkingsverband voor bovenlokaal gezondheidsoverleg en organisatie, zoals bedoeld in hoofdstuk IIbis van het besluit van de Vlaamse regering van 31 juli 1991 inzake gezondheidspromotie, ingevoegd bij besluit van de Vlaamse regering van 19 december 1997;<br /><br />3° patiënt: persoon met ernstige geestelijke gezondheidsproblemen of met geestelijke gezondheidsproblemen die een ernstig risico tot chroniciteit in zich dragen en die in aanmerking komen voor zorgverlening;<br /><br />4° psychiatrisch netwerk: het geheel van juridisch onafhankelijke voorzieningen, instellingen, diensten en initiatieven dat een functioneel samenwerkingsverband vormt teneinde voor doelgroepen zorgprogramma's aan te bieden die als een samenhangend geheel worden ervaren;<br /><br />5° regering: de Vlaamse regering;<br /><br />6° registratie: de geüniformiseerde verzameling van geanonimiseerde kwantitatieve en kwalitatieve gegevens van de kenmerken van de patiëntenpopulatie en van de geleverde verantwoorde zorg en dit met het oog op de zelfevaluatie van het centrum voor geestelijke gezondheidszorg en het leveren van relevante informatie aan de regering;<br /><br />7° subsidie-enveloppe: het budget dat het centrum voor geestelijke gezondheidszorg jaarlijks ontvangt, op basis van vooraf door de regering vastgestelde parameters, om de overeengekomen prestaties en resultaten te leveren op een kwaliteitsvolle wijze;<br /><br />8° verwijzers: de door de regering aangewezen instanties die onder meer op basis van hun adequaat inzicht in het hulpverleningsaanbod binnen de Vlaamse Gemeenschap patiënten verwijzen naar centra voor geestelijke gezondheidszorg.
+Voor de toepassing van dit decreet wordt verstaan onder:<br>
+1° centrum voor geestelijke gezondheidszorg: de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is;<br>
+1° /1 gebruiker: een gebruiker als vermeld in artikel 2, 11°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
+1° /2 geestelijke gezondheidsnetwerk: een geestelijke gezondheidsnetwerk als vermeld in artikel 2, 15°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
+2° LOGO: een door de Vlaamse Regering erkend samenwerkingsverband voor locoregionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+3°...;<br>
+4° ...;<br>
+5° regering: de Vlaamse regering;<br>
+6°registratie: de geüniformiseerde verzameling van geanonimiseerde kwantitatieve en kwalitatieve gegevens van de kenmerken van de patiëntenpopulatie en van de geleverde verantwoorde zorg en dit met het oog op de zelfevaluatie van het centrum voor geestelijke gezondheidszorg en het leveren van relevante informatie aan de regering;<br>
+7° subsidie-enveloppe: het budget dat het centrum voor geestelijke gezondheidszorg jaarlijks ontvangt, op basis van vooraf door de regering vastgestelde parameters, om de overeengekomen prestaties en resultaten te leveren op een kwaliteitsvolle wijze;<br>
+8° verwijzers: de door de regering aangewezen instanties die onder meer op basis van hun adequaat inzicht in het hulpverleningsaanbod binnen de Vlaamse Gemeenschap&nbsp;gebruikers verwijzen naar centra voor geestelijke gezondheidszorg.
 
 ### ART. 3.
 
-Een centrum voor geestelijke gezondheidszorg is overeenkomstig de opdrachtverklaring, verplicht aan iedere patiënt, zonder onderscheid van leeftijd of geslacht, van ideologische, filosofische of godsdienstige overtuiging en zonder onderscheid van de vermogenstoestand van de betrokkene, verantwoorde zorg zoals bedoeld in artikel 4 te verstrekken en hem op een respectvolle manier te behandelen.
+Een centrum voor geestelijke gezondheidszorg is overeenkomstig de opdrachtverklaring, verplicht aan iedere gebruiker, zonder onderscheid van leeftijd of geslacht, van ideologische, filosofische of godsdienstige overtuiging en zonder onderscheid van de vermogenstoestand van de betrokkene, verantwoorde zorg zoals bedoeld in artikel 4 te verstrekken en hem op een respectvolle manier te behandelen.
 
 ### ART. 4.
 
-§ 1. Een centrum voor geestelijke gezondheidszorg verstrekt verantwoorde zorg als deze zorg voldoet aan de vereisten van doelmatigheid, doeltreffendheid, continuïteit, veiligheid en maatschappelijke aanvaardbaarheid, en bestaat uit onder meer volgende elementen: intake, diagnose en indicatiestelling, sociaal-psychiatrische en psychotherapeutische behandeling en begeleiding, informatie en adviesverstrekking aan verwijzers met betrekking tot haar opdracht, werkingsbeginselen en doelgroepen.<br /><br />§ 2. Onverminderd de bepalingen van § 1 en na overleg met de patiënt, overlegt het centrum voor geestelijke gezondheidszorg met de verwijzer en in voorkomend geval met andere betrokken hulpverleners en/of personen uit de leefomgeving van de patiënt. Dit overleg leidt tot afspraken over de bijdrage tot de zorg van elk van deze samenwerkende betrokkenen.
+§ 1. Een centrum voor geestelijke gezondheidszorg verstrekt verantwoorde zorg als deze zorg voldoet aan de vereisten van doelmatigheid, doeltreffendheid, continuïteit, veiligheid en maatschappelijke aanvaardbaarheid, en bestaat uit onder meer volgende elementen: intake, diagnose en indicatiestelling, sociaal-psychiatrische en psychotherapeutische behandeling en begeleiding, informatie en adviesverstrekking aan verwijzers met betrekking tot haar opdracht, werkingsbeginselen en doelgroepen.<br>
+<br>
+§ 2. Onverminderd de bepalingen van § 1 en na overleg met de gebruiker, overlegt het centrum voor geestelijke gezondheidszorg met de verwijzer en in voorkomend geval met andere betrokken hulpverleners en/of personen uit de leefomgeving van de patiënt. Dit overleg leidt tot afspraken over de bijdrage tot de zorg van elk van deze samenwerkende betrokkenen.
 
 ### ART. 5.
 
-Het centrum voor geestelijke gezondheidszorg respecteert te allen tijde de rechten van het kind, zoals opgesomd in het Verdrag inzake de Rechten van het Kind, ondertekend te New York op 20 november 1989 en goedgekeurd bij de wet van 25 november 1991.
+...
 
 ### ART. 6.
 
-Het centrum voor geestelijke gezondheidszorg respecteert te allen tijde de rechten van de mens, zoals opgesomd in het Verdrag ter bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend te Rome op 4 november 1950 en in de aanvullende protocollen bij het Verdrag.
+...
 
 ## HOOFDSTUK II OPDRACHTVERKLARING EN WERKINGSBEGINSELEN
 
@@ -32,25 +44,52 @@ Het centrum voor geestelijke gezondheidszorg respecteert te allen tijde de recht
 
 ### ART. 7.
 
-§ 1. De geestelijke gezondheidszorg heeft als opdracht de verantwoorde zorg aan te bieden met het oog op het herstel van het psychisch evenwicht of het draaglijk maken van psychische stoornissen voor patiënten en hun leefomgeving, opdat aldus patiënten competenties verwerven of ontwikkelen die de basis vormen voor hun emancipatie en hun maatschappelijk geïntegreerd functioneren.<br /><br />§ 2. De centra voor geestelijke gezondheidszorg dragen bij tot de verwezenlijking van de opdracht zoals bepaald in § 1.<br /><br />§ 3. De regering kan overeenkomsten sluiten met de voorzieningen en diensten of initiatieven die op basis van hun specifieke deskundigheid en ervaring m.b.t. specifieke doelgroepen en/of problematieken, in Vlaanderen een bijdrage leveren tot verwezenlijking van de opdracht zoals bepaald in § 1.<br /><br />§ 4. De regering voorziet in kaderprotocollen tussen de gezondheids- en welzijnssectoren en de sector "centra voor geestelijke gezondheidszorg" teneinde de samenwerking zoals bedoeld in artikel 9, § 1, 7°, te optimaliseren.
+§ 1. De geestelijke gezondheidszorg heeft als opdracht de verantwoorde zorg aan te bieden met het oog op het herstel van het psychisch evenwicht of het draaglijk maken van psychische stoornissen voor gebruikers en hun leefomgeving, opdat aldus gebruikers competenties verwerven of ontwikkelen die de basis vormen voor hun emancipatie en hun maatschappelijk geïntegreerd functioneren.<br>
+<br>
+§ 2. De centra voor geestelijke gezondheidszorg dragen bij tot de verwezenlijking van de opdracht zoals bepaald in § 1.<br>
+<br>
+§ 3. De regering kan overeenkomsten sluiten met de voorzieningen en diensten of initiatieven die op basis van hun specifieke deskundigheid en ervaring m.b.t. specifieke doelgroepen en/of problematieken, in Vlaanderen een bijdrage leveren tot verwezenlijking van de opdracht zoals bepaald in § 1.<br>
+<br>
+§ 4. ....
 
 ## AFDELING 2 WERKINGSBEGINSELEN
 
 ### ART. 8.
 
-Onverminderd de bepalingen van het decreet van 25 februari 1997 betreffende de integrale kwaliteitszorg in de verzorgingsvoorzieningen is de aangeboden zorgverlening gebaseerd op respect voor de persoonlijke levenssfeer van de patiënt. Daarnaast zal zij maximaal een beroep doen op de medeverantwoordelijkheid en de zelfredzaamheid van de patiënt en zo gebruik maken van de minst ingrijpende behandeling om ten aanzien van de vastgestelde problematiek het gewenste effect zo maximaal mogelijk te bereiken.
+Onverminderd de bepalingen van het decreet van 5 mei 2023 over de kwaliteit van zorg in het beleidsdomein Welzijn, Volksgezondheid en Gezin is de aangeboden zorgverlening gebaseerd op respect voor de persoonlijke levenssfeer van de gebruiker. Daarnaast zal zij maximaal een beroep doen op de medeverantwoordelijkheid en de zelfredzaamheid van de gebruiker en zo gebruik maken van de minst ingrijpende behandeling om ten aanzien van de vastgestelde problematiek het gewenste effect zo maximaal mogelijk te bereiken.
 
 ### ART. 9.
 
-§ 1. Teneinde bij te dragen tot de vervulling van de opdracht zoals bepaald in artikel 7:<br /><br />1° profileert het centrum voor geestelijke gezondheidszorg zich als tweedelijnsgezondheidsvoorziening;<br /><br />2° stelt het centrum voor geestelijke gezondheidszorg het belang van de patiënt centraal;<br /><br />3° schenkt het centrum voor geestelijke gezondheidszorg uitdrukkelijk aandacht aan kinderen, ouderen en aan sociaal en financieel zwakkere personen;<br /><br />4° werkt het centrum voor geestelijke gezondheidszorg interdisciplinair en benadert de patiënten vanuit psychiatrische, psychologische, agogische en sociale disciplines. Het centrum voorziet daartoe in logistieke ondersteuning;<br /><br />5° functioneert het centrum voor geestelijke gezondheidszorg binnen één of meer psychiatrische netwerken waarin samenwerkingsafspraken en procedures zijn overeengekomen teneinde een voldoende, gedifferentieerd en doelgroepgericht geestelijk gezondheidszorgaanbod te realiseren, zodat patiënten er terecht kunnen voor passende zorg op maat;<br /><br />6° duidt het centrum voor geestelijke gezondheidszorg multidisciplinaire teams aan die aan kinderen en aan ouderen, bedoeld in 3°, geestelijke gezondheidszorg verlenen;<br /><br />7° maakt het centrum voor geestelijke gezondheidszorg afspraken met zijn verwijzers en werkt het centrum voor geestelijke gezondheidszorg samen met eerstelijnsgezondheids- en welzijnsvoorzieningen binnen zijn werkgebied;<br /><br />8° ontwikkelt het centrum voor geestelijke gezondheidszorg een deontologische code en respecteren de medewerkers van het centrum voor geestelijke gezondheidszorg het beroepsgeheim;<br /><br />9° verleent het centrum voor geestelijke gezondheidszorg zijn medewerking aan preventieve acties die kaderen in het verlengde van zijn opdracht en die gericht zijn op specifieke risicogroepen in de bevolking en sluit daartoe samenwerkingsakkoorden met de LOGO's die actief zijn binnen het werkgebied van het centrum voor geestelijke gezondheidszorg.<br /><br />§ 2. De regering kan bijkomende taken opdragen aan de centra voor geestelijke gezondheidszorg ten behoeve van specifieke doelgroepen, problematieken of regionale behoeften of in geval van acute crisissituaties.<br /><br />§ 3. Teneinde de effectiviteit, uniformiteit en professionaliteit van de aanpak van de drugproblematiek te vrijwaren, doen de centra voor geestelijke gezondheidszorg een beroep op de ondersteuning en begeleiding van de Vereniging voor Alcohol- en andere Drugproblemen (VAD) of haar rechtsopvolger.<br /><br />§ 4. Een centrum voor geestelijke gezondheidszorg kan tegen vergoeding taken aanvaarden van personen, diensten of voorzieningen, andere dan bedoeld in artikel 2, 8°. Deze aanvullende taken beperken zich tot die gebieden die in de opdrachtverklaring zijn omschreven. Zij mogen in geen geval leiden tot een verminderde verwezenlijking of het in gevaar brengen van de realisatie van deze opdracht. De centra voor geestelijke gezondheidszorg rapporteren jaarlijks over de aard en omvang van deze aanvullende taken aan de regering.
+§ 1. Teneinde bij te dragen tot de vervulling van de opdracht zoals bepaald in artikel 7:<br>
+1° profileert het centrum voor geestelijke gezondheidszorg zich als tweedelijnsgezondheidsvoorziening;<br>
+2° stelt het centrum voor geestelijke gezondheidszorg het belang van de gebruiker centraal;<br>
+3° schenkt het centrum voor geestelijke gezondheidszorg uitdrukkelijk aandacht aan kinderen, ouderen en aan sociaal en financieel zwakkere personen;<br>
+4° werkt het centrum voor geestelijke gezondheidszorg interdisciplinair en benadert de gebruikers vanuit psychiatrische, psychologische, agogische en sociale disciplines. Het centrum voorziet daartoe in logistieke ondersteuning;<br>
+5° functioneert het centrum voor geestelijke gezondheidszorg binnen één of meer geestelijke gezondheidsnetwerken;<br>
+6° duidt het centrum voor geestelijke gezondheidszorg multidisciplinaire teams aan die aan kinderen en aan ouderen, bedoeld in 3°, geestelijke gezondheidszorg verlenen;<br>
+7° maakt het centrum voor geestelijke gezondheidszorg afspraken met zijn verwijzers en werkt het centrum voor geestelijke gezondheidszorg samen met eerstelijnsgezondheids- en welzijnsvoorzieningen binnen zijn werkgebied;<br>
+8° ontwikkelt het centrum voor geestelijke gezondheidszorg een deontologische code;<br>
+9° verleent het centrum voor geestelijke gezondheidszorg zijn medewerking aan preventieve acties die kaderen in het verlengde van zijn opdracht en die gericht zijn op specifieke risicogroepen in de bevolking en sluit daartoe samenwerkingsakkoorden met de LOGO's die actief zijn binnen het werkgebied van het centrum voor geestelijke gezondheidszorg.<br>
+<br>
+§ 2. De regering kan bijkomende taken opdragen aan de centra voor geestelijke gezondheidszorg ten behoeve van specifieke doelgroepen, problematieken of regionale behoeften of in geval van acute crisissituaties.<br>
+<br>
+§ 3. Teneinde de effectiviteit, uniformiteit en professionaliteit van de aanpak van de drugproblematiek te vrijwaren, doen de centra voor geestelijke gezondheidszorg een beroep op de ondersteuning en begeleiding van de Vereniging voor Alcohol- en andere Drugproblemen (VAD) of haar rechtsopvolger.<br>
+<br>
+§ 4. Een centrum voor geestelijke gezondheidszorg kan tegen vergoeding taken aanvaarden van personen, diensten of voorzieningen, andere dan bedoeld in artikel 2, 8°. Deze aanvullende taken beperken zich tot die gebieden die in de opdrachtverklaring zijn omschreven. Zij mogen in geen geval leiden tot een verminderde verwezenlijking of het in gevaar brengen van de realisatie van deze opdracht. De centra voor geestelijke gezondheidszorg rapporteren jaarlijks over de aard en omvang van deze aanvullende taken aan de regering.
 
 ### ART. 10.
 
-§ 1. Ter uitvoering van de bepaling omschreven in artikel 4 stelt het centrum voor geestelijke gezondheidszorg een handelingsplan op voor elke patiënt.<br /><br />§ 2. De opstelling, de voortgangsbewaking en de eindevaluatie van elk handelingsplan gebeurt door een multidisciplinair team onder leiding van een psychiater.
+§ 1. Ter uitvoering van de bepaling omschreven in artikel 4 stelt het centrum voor geestelijke gezondheidszorg een handelingsplan op voor elke gebruiker.<br>
+<br>
+§ 2. De opstelling, de voortgangsbewaking en de eindevaluatie van elk handelingsplan gebeurt door een multidisciplinair team onder leiding van een psychiater.
 
 ### ART. 11.
 
-§ 1. Onverminderd de bepalingen van artikel 3 verstrekt het centrum voor geestelijke gezondheidszorg zorg aan elke patiënt die op hem een beroep doet na verwijzing door een verwijzer.<br /><br />§ 2. Het centrum voor geestelijke gezondheidszorg vat de eerste intake-gesprekken en daaropvolgend de eventuele zorgverlening aan binnen een redelijke termijn na de eerste aanmelding. Het beleidsplan zoals bepaald in artikel 25 bepaalt deze redelijke termijn.<br /><br />§ 3. De centra voor geestelijke gezondheidszorg en de verwijzers en de voorzieningen bedoeld in artikel 9, § 1, 7°, wisselen met elkaar hun ervaringen uit teneinde de doelmatigheid en de doeltreffendheid van de verwijzingen te evalueren en zonodig mechanismen uit te werken om de verwijzingen te optimaliseren.
+§ 1. Onverminderd de bepalingen van artikel 3 verstrekt het centrum voor geestelijke gezondheidszorg zorg aan elke gebruiker die op hem een beroep doet na verwijzing door een verwijzer.<br>
+<br>
+§ 2. Het centrum voor geestelijke gezondheidszorg vat de eerste intake-gesprekken en daaropvolgend de eventuele zorgverlening aan binnen een redelijke termijn na de eerste aanmelding. Het beleidsplan zoals bepaald in artikel 25 bepaalt deze redelijke termijn.<br>
+<br>
+§ 3. De centra voor geestelijke gezondheidszorg en de verwijzers en de voorzieningen bedoeld in artikel 9, § 1, 7°, wisselen met elkaar hun ervaringen uit teneinde de doelmatigheid en de doeltreffendheid van de verwijzingen te evalueren en zonodig mechanismen uit te werken om de verwijzingen te optimaliseren.
 
 ### ART. 12.
 
@@ -58,15 +97,15 @@ Alle partners binnen de psychiatrische netwerken voeren een registratie zoals be
 
 ### ART. 13.
 
-Het centrum voor geestelijke gezondheidszorg legt voor elke patiënt aan wie zorgverlening wordt verstrekt één multidisciplinair dossier aan.
+Het centrum voor geestelijke gezondheidszorg legt voor elke gebruiker aan wie zorgverlening wordt verstrekt één multidisciplinair dossier aan.
 
 ### ART. 14.
 
-De regering bepaalt de regels voor de samenstelling, het bijhouden, het vermenigvuldigen en de vernietiging van het patiëntendossier evenals de procedure voor de eventuele raadpleging en eventuele overdracht van het dossier. Ze houdt hierbij rekening met de geldende regels inzake het beroepsgeheim, de deontologie en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
+...
 
 ### ART. 15.
 
-Het centrum voor geestelijke gezondheidszorg signaleert driejaarlijks aan de regering de factoren die op systematische wijze de geestelijke gezondheid van de bevolking van hun werkgebied beïnvloeden door de interpretatie van de gegevens die worden verzameld in het kader van de registratie. Een eerste rapport terzake wordt door het centrum voor geestelijke gezondheidszorg opgemaakt binnen een termijn van zes maanden die volgt op het einde van de eerste overeenkomst zoals bedoeld in artikel 24.
+...
 
 ### ART. 16.
 
@@ -78,7 +117,7 @@ Het centrum voor geestelijke gezondheidszorg schept de voorwaarden zodat zijn pe
 
 ### ART. 18.
 
-De regering bepaalt na overleg met alle betrokken partijen de bestemming en de modaliteiten inzake de financiële bijdrage van de patiënt in functie van onder meer inkomen, gezinssituatie, intensiteit en chroniciteit van de zorgbehoefte.
+De regering bepaalt na overleg met alle betrokken partijen de bestemming en de modaliteiten inzake de financiële bijdrage van de gebruiker in functie van onder meer inkomen, gezinssituatie, intensiteit en chroniciteit van de zorgbehoefte.
 
 ## HOOFDSTUK III ERKENNING VAN CENTRA VOOR GEESTELIJKE GEZONDHEIDSZORG
 
@@ -92,12 +131,14 @@ Elk centrum voor geestelijke gezondheidszorg dient als zodanig erkend te zijn do
 1° opgericht zijn door een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, een provincie, een gemeente, een openbaar centrum voor maatschappelijk welzijn of universiteit, die krachtens de wet, het decreet of de statuten, naargelang het geval, daartoe bevoegd zijn;<br>
 2° gevestigd zijn in gebouwen en lokalen die aan de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid voldoen;<br>
 3° beschikken over een infrastructuur waardoor de opdrachten kwaliteitsvol uitgevoerd kunnen worden en de reglementering op de bescherming van de persoonlijke levenssfeer kan worden nageleefd;<br>
-4° de controle door de inspectie, zoals bepaald in artikel 34, mogelijk maken;<br>
+4° de controle door de inspectie, vermeld in artikel 34, mogelijk maken;<br>
 5° de taken uitvoeren en de werkingsbeginselen nakomen zoals bepaald in hoofdstuk II en voldoen aan de bepalingen van hoofdstuk VIII;<br>
 6° een kwaliteitsbeleid voeren overeenkomstig de bepalingen van het decreet van 25 februari 1997 betreffende de integrale kwaliteitszorg in de verzorgingsvoorzieningen;<br>
 7° passen in de programmatie zoals bedoeld in artikel 27;<br>
 8° een boekhouding voeren volgens het boekhoudplan van de Vlaamse Gemeenschap;<br>
-9° de vorm aannemen van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen of van een vereniging opgericht volgens artikelen 118 tot en met 135 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
+9° ....<br>
+<br>
+§ 1/1. De Vlaamse Regering kan aanvullende erkenningsnormen bepalen.<br>
 <br>
 § 2. De regering bepaalt de procedure voor de erkenningsaanvraag en de modaliteiten voor de erkenning.<br>
 <br>
@@ -109,7 +150,9 @@ Elk centrum voor geestelijke gezondheidszorg dient als zodanig erkend te zijn do
 
 ### ART. 22.
 
-§ 1. Onverminderd de toepassing van de artikelen 20 en 21 geldt voor een centrum voor geestelijke gezondheidszorg, dat wordt erkend met ingang van 1 januari 2000 en werd opgericht door een instantie zoals bedoeld in artikel 20, § 1, 1°, of de rechtsopvolger ervan, dat het was erkend op 1 januari 1999.<br /><br />§ 2. Indien in een werkgebied, zoals bepaald in artikel 27, § 1, minder dan twee centra voor geestelijke gezondheidszorg erkend zijn, kan de regering vanaf 1 januari 2001 een erkenning verlenen aan een instantie, zoals bepaald in artikel 20, § 1, 1°, en voorzover wordt voldaan aan de bepalingen van artikel 20 en artikel 27, § 1.
+§ 1. ....<br>
+<br>
+§ 2. Indien in een werkgebied, zoals bepaald in artikel 27, § 1, minder dan twee centra voor geestelijke gezondheidszorg erkend zijn, kan de regering&nbsp;een erkenning verlenen aan een instantie, zoals bepaald in artikel 20, § 1, 1°, en voorzover wordt voldaan aan de bepalingen van artikel 20 en artikel 27, § 1.
 
 ### ART. 23.
 
@@ -145,19 +188,22 @@ De regering bepaalt de parameters die zullen worden gehanteerd om de zorgbehoeft
 
 ### ART. 29.
 
-De centra voor geestelijke gezondheidszorg kunnen een beroep doen op de aan het VIPA binnen de beschikbare begrotingskredieten toegekende investeringsmiddelen voorzover:<br /><br />1° het centrum voor geestelijke gezondheidszorg voldoet aan de erkenningsvoorwaarden zoals bedoeld in artikel 20;<br /><br />2° de behoefte aan nieuwbouw, verbouwing of uitbreiding is aangetoond en er binnen de werkgebieden van de psychiatrische netwerken geen bestaande geschikte gebouwen of voorzieningen beschikbaar zijn die geheel of gedeeltelijk door de Vlaamse Gemeenschap worden gesubsidieerd;<br /><br />3° de werken beantwoorden aan de door de regering vastgelegde fysische en financiële normen.
+De centra voor geestelijke gezondheidszorg kunnen een beroep doen op de aan het VIPA binnen de beschikbare begrotingskredieten toegekende investeringsmiddelen voorzover:<br>
+1° het centrum voor geestelijke gezondheidszorg voldoet aan de erkenningsvoorwaarden zoals bedoeld in artikel 20;<br>
+2° de behoefte aan nieuwbouw, verbouwing of uitbreiding is aangetoond;<br>
+3° de werken beantwoorden aan de door de regering vastgelegde fysische en financiële normen.
 
 ## [HOOFDSTUK VI ... (opgeh. decr. 5 april 2019, art. 46, I: 8 augustus 2024)]
 
 ### ART. 30.
 
-<P>De Vlaamse Regering stelt jaarlijks een bedrag ter beschikking, binnen de   beschikbare begrotingskredieten, voor de projectmatige wetenschappelijke   ondersteuning van de geestelijke gezondheidszorg. De Vlaamse Regering bepaalt de   subsidiebedragen en de voorwaarden voor de vaststelling, de uitbetaling en de   terugvordering van de subsidies.</P>
+...
 
 ## [HOOFDSTUK VII ... (opgeh. decr. 5 april 2019, art. 46, I: 8 augustus 2024)]
 
 ### ART. 31.
 
-<P>De Vlaamse Regering kan jaarlijks een bedrag ter beschikking stellen voor   ondersteunende of dienstverlenende opdrachten aan de centra voor geestelijke   gezondheidszorg, door één of meerdere organisaties. De regering stelt deze   middelen via overeenkomsten ter beschikking.</P>
+...
 
 ## HOOFDSTUK VIII PERSONEEL EN LEIDING VAN HET CENTRUM VOOR GEESTELIJKE GEZONDHEIDSZORG
 
@@ -167,7 +213,7 @@ De centra voor geestelijke gezondheidszorg kunnen een beroep doen op de aan het 
 
 ### ART. 33.
 
-§ 1. Om specifieke deskundigheid maximaal aan te wenden kan maximum 10 procent van het personeel van een centrum voor geestelijke gezondheidszorg worden toegewezen aan een project waaraan andere centra voor geestelijke gezondheidszorg en/of één of meerdere partners van een psychiatrisch netwerk en/of de multidisciplinaire ondersteuning zoals bedoeld in artikel 30 en/of de dienstverlenende organisaties zoals bedoeld in artikel 31, participeren.<br /><br />§ 2. De personeelsleden bedoeld in § 1 blijven administratief verbonden aan hun centrum voor geestelijke gezondheidszorg van oorsprong. Dit laatste centrum voor geestelijke gezondheidszorg rapporteert aan de regering over deze medewerking aan projecten.<br /><br />§ 3. Elk centrum voor geestelijke gezondheidszorg kan een proportioneel gedeelte van zijn werkingsbudget overdragen aan de projecten zoals bedoeld in § 1.<br /><br />§ 4. De toepassing van § 1 en § 3 mag er niet toe leiden dat een centrum voor geestelijke gezondheidszorg zijn opdrachten zoals bepaald in artikel 7 niet vervult.
+...
 
 ## HOOFDSTUK VIII/1 UITVOERING VAN SOCIALE AKKOORDEN
 
@@ -194,25 +240,25 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure om de financiële wee
 
 ### ART. 34.
 
-De regering organiseert het toezicht op en de adviesverlening aan de centra voor geestelijke gezondheidszorg.
+Het toezicht op de naleving van de bepalingen van dit decreet en van de uitvoeringsbesluiten ervan wordt uitgeoefend overeenkomstig het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid en de uitvoeringsbesluiten ervan.
 
 ### ART. 35.
 
-Met het oog op de optimalisering van de zorgverlening en van het beheer van het centrum voor geestelijke gezondheidszorg, wordt elk centrum voor geestelijke gezondheidszorg minimaal zesjaarlijks doorgelicht door een visitatiecommissie. Deze visitatiecommissie is minstens samengesteld uit ambtenaren aangevuld met externe deskundigen. De regering bepaalt de opdrachten, de samenstelling en de werking van de visitatiecommissie.
+...
 
 ### ART. 35/1.
 
-Onverminderd artikel 13 van de wet van 16 mei 2003 tot vaststelling van de   algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies   en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de   organisatie van de controle door het Rekenhof en onverminderd artikel 21 van het   decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg kunnen, bij   een inbreuk op dit decreet of haar uitvoeringsbesluiten, de subsidies van het   volgende werkjaar proportioneel verminderd worden in verhouding tot de ernst van   de inbreuk en de grootte van de enveloppe.
+Onverminderd artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en onverminderd artikel 21 van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg kunnen, bij een inbreuk op dit decreet, haar uitvoeringsbesluiten of de overeenkomst, vermeld in artikel 24, de subsidies van het volgende werkjaar proportioneel verminderd worden in verhouding tot de ernst van de inbreuk en de grootte van de enveloppe.
 
 ## HOOFDSTUK X [... (verv. decr. 5 april 2019, art. 52, I: 8 augustus 2024)]
 
 ### ART. 36.
 
-(niet opgenomen)<br /><br />(Heft op:<br /><br />1° het besluit van de Vlaamse regering van 12 oktober 1988 inzake erkenning en betoelaging van de centra voor geestelijke gezondheidszorg in Vlaanderen;<br /><br />2° het besluit van de Vlaamse regering van 21 maart 1990 betreffende de diploma's en de specifieke bekwaamheidsvereisten nodig voor het uitoefenen van bepaalde functies in de centra voor geestelijke gezondheidszorg;<br /><br />3° het besluit van de Vlaamse regering van 21 maart 1990 betreffende de lokalen en de infrastructuur van de centra voor geestelijke gezondheidszorg;<br /><br />4° het ministerieel besluit van 21 maart 1990 betreffende de indiening en de samenstelling van het aanvraagdossier voor het principieel akkoord, het erkenningsdossier en het wedererkenningsdossier van de centra voor geestelijke gezondheidszorg)<br /><br />[De in het eerste lid genoemde besluiten blijven van toepassing op een centrum voor geestelijke gezondheidszorg of zijn rechtsopvolger tot op het ogenblik dat het erkend is overeenkomstig de bepalingen van artikel 20 en uiterlijk tot 30 september 2000.  <span class="reference">(ing. decr. 22 december 1999, art. 49, I: 1 januari 2000)</span> ]
+...
 
 ### ART. 37.
 
-[De centra voor geestelijke gezondheidszorg die overeenkomstig artikel 22 worden erkend vanaf 1 januari 2000 dienen hun beleidsplan, bedoeld in artikel 25, drie maanden na de betekening van hun erkenning in bij de administratie Gezondheidszorg.  <span class="reference">(verv. decr. 22 december 1999, art. 50, I: 1 januari 2000)</span> ]<br /><br />Met het oog op de continuïteit van de subsidiëring wordt aan deze centra, in afwachting van de ondertekening van de overeenkomsten, maandelijks een voorschot toegekend. Dit voorschot is gelijk aan 1/12 van de som van de in 1999 verleende subsidies aan de centra voor geestelijke gezondheidszorg waarvan de centra die vanaf 1 januari 2000 worden erkend, dezelfde rechtspersoon of de rechtsopvolger zijn, verhoogd met 5 percent werkingskosten en 1/12 van de kostprijs voor een leidinggevende functie.
+...
 
 ### ART. 38.
 
