@@ -144,7 +144,7 @@ De uitbetalingsactor kan afzien van de terugvordering van een onverschuldigd bet
 
 ### ART 15.
 
-De uitbetalingsactor verzaakt ambtshalve aan de terugvordering als het bedrag kleiner is dan 200 euro, wanneer de terugvordering overeenkomstig artikel 103, § 1, lid 2 dient te worden uitgevoerd.
+De uitbetalingsactor verzaakt ambtshalve aan de terugvordering als het bedrag kleiner is dan 200 euro, wanneer de terugvordering overeenkomstig artikel 103, §1, tweede lid, van het Groeipakketdecreet van 2018 dient te worden uitgevoerd.
 
 ### ART 16.
 

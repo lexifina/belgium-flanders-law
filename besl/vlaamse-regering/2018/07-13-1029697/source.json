@@ -2,16 +2,16 @@
   "codex_id": 1029697,
   "title": "Besluit van de Vlaamse Regering van 2018-07-13 tot vaststelling van de nadere regels over de rechten en plichten van begunstigden in hun contacten met uitbetalingsactoren en tot vaststelling van de regels voor de ambtshalve en gedwongen herziening van een beslissing tot toekenning van toelagen in het kader van het gezinsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029697/VolledigDocument?datum=2022-03-25",
-  "source_sha256": "2c6bcd9b009d1b55c5cf4667b39dbe9b3af7815770a065009cb368f4f3f35777",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029697/VolledigDocument?datum=2024-08-08",
+  "source_sha256": "983d3505c36a96b34fe375283d12d0563e7644f281b87d840469c7f8fcd6c5c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029697&param=informatie",
-  "as_of": "2022-03-25",
+  "as_of": "2024-08-08",
   "made": "2018-07-13",
   "gazette": "2018-09-07",
   "numac": 2018013430,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2022-03-25",
+  "in_force": "2024-08-08",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2022-03-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-08; future article versions excluded; article text as the API gives it"
 }
