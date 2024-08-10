@@ -143,6 +143,12 @@ Als uit de controles blijkt dat de voorwaarden waaronder de subsidie werd verlee
 
 Het door de bevoegde entiteit ter beschikking gestelde logo moet vermeld worden in alle communicatievormen over de activiteiten, vermeld in dit besluit. Uitzonderingen daarop zijn alleen toegelaten op voorwaarde dat daarvoor voorafgaandelijk schriftelijk of elektronisch een gemotiveerde aanvraag ingediend wordt en op voorwaarde dat de bevoegde entiteit die aanvraag schriftelijk of elektronisch goedgekeurd heeft.
 
+## HOOFDSTUK III/1. Openbaarmaking
+
+### ART 25/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFSTUK IV. Uitvoeringsbepalingen
 
 ### ART. 26.
