@@ -23,14 +23,15 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° landbouwer : de actieve landbouwer, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid van 4 oktober 2014;<br>
+1° landbouwer: een actieve landbouwer als vermeld in artikel 4, §2, van het besluit van 21 april 2023;<br>
 2° erkende brede weersverzekering : verzekering die de schade dekt veroorzaakt door ongunstige weersomstandigheden en die door de bevoegde entiteit als subsidiabel erkend wordt conform de voorwaarden van dit besluit;<br>
 3° ongunstige weersomstandigheden : vorst, stormen, hagel, ijs, hevige of aanhoudende regen of ernstige droogte, die met een natuurramp kunnen worden gelijkgesteld;<br>
 4° minister : de Vlaamse minister, bevoegd voor de landbouw;<br>
 5° bevoegde entiteit : het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 6° open teelt : alle niet permanent overkapte teelten van de gewasgroepen akkerbouw, grasland, fruitteelt, vollegrondsgroenten, sierteelt en boomkwekerij;<br>
-7° landbouwgrond : het landbouwareaal, vermeld in artikel 4, lid 1, (e), van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
-8° verzekeraar : een verzekeraar als vermeld in artikel 5, 1°, van de wet van 4 april 2014 betreffende de verzekeringen.
+7° landbouwgrond: het subsidiabele landbouwareaal, vermeld in artikel 1, 32°, van het besluit van 21 april 2023;<br>
+8° verzekeraar : een verzekeraar als vermeld in artikel 5, 1°, van de wet van 4 april 2014 betreffende de verzekeringen;<br>
+9° het besluit van 21 april 2023: het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid.
 
 ### ART 2.
 
@@ -100,7 +101,7 @@ Na de periode, vermeld in het eerste lid, bedraagt de subsidie 65% van de verzek
 
 ### ART 8.
 
-In dit artikel wordt verstaan onder verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 11 van gedelegeerde verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden.<br>
+In dit artikel wordt verstaan onder verzamelaanvraag: de verzamelaanvraag, vermeld in artikel 1, 54°, van het besluit van 21 april 2023.<br>
 <br>
 De landbouwer, vermeld in artikel 7, § 1, vraagt de subsidie, vermeld in artikel 2, aan via de verzamelaanvraag voor de uiterste indieningsdatum ervan.<br>
 <br>
@@ -110,19 +111,23 @@ De minister kan de aanvraagprocedure, vermeld in het tweede en derde lid, wijzig
 
 ### ART 9.
 
-De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden, vermeld in artikel 28 van Verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L 193 van 1 juli 2014.<br>
+De subsidie, vermeld in artikel 2 van dit besluit, wordt verleend onder de voorwaarden, vermeld in artikel 28 van verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L327 van 21 december 2022, blz. 1–81, met inbegrip van de latere wijzigingen.<br>
 <br>
-De steunmaatregel voldoet aan alle in hoofdstuk I en hoofdstuk II van de in het eerste lid vermelde verordening vastgestelde voorwaarden, inzonderheid aan volgende voorwaarden :<br>
+De steunmaatregel voldoet aan de volgende voorwaarden en aan alle andere voorwaarden, vermeld in hoofdstuk I en hoofdstuk II van de voormelde verordening :<br>
 1° overeenkomstig artikel 1, eerste lid, van de in het eerste lid vermelde verordening wordt de steun verstrekt aan kleine, middelgrote en micro-ondernemingen (kmo's) die actief zijn in de primaire landbouwsector;<br>
-2° overeenkomstig artikel 1, vijfde lid, van de in het eerste lid vermelde verordening komen bedrijven waartegen een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard, niet in aanmerking voor steun;<br>
-3° overeenkomstig artikel 1, zesde lid, van de in het eerste lid vermelde verordening komen bedrijven in moeilijkheden niet in aanmerking voor de steun;<br>
-4° de steun is transparant overeenkomstig artikel 5, tweede lid, a), van de in het eerste lid vermelde verordening en heeft een stimulerend effect overeenkomstig artikel 6 van de in het eerste lid vermelde verordening.
+2° overeenkomstig artikel 1, lid 4, van de voormelde verordening komen bedrijven waartegen een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard, niet in aanmerking voor steun;<br>
+3° overeenkomstig artikel 1, lid 5, h), van de voormelde verordening komen bedrijven in moeilijkheden niet in aanmerking voor de steun;<br>
+4° de steun is transparant overeenkomstig artikel 5, lid 3, a), van de voormelde verordening en heeft een stimulerend effect overeenkomstig artikel 6 van de in het eerste lid vermelde verordening.
 
 ### ART 10.
 
 De verzekeraar houdt gedetailleerde dossiers bij met de informatie en de bewijsstukken die nodig zijn om aan te tonen dat de voorwaarden, vermeld in artikel 3 van dit besluit, zijn nageleefd. Die dossiers worden bijgehouden gedurende tien jaar vanaf de datum waarop de erkenning, vermeld in artikel 5, is verleend.<br>
 <br>
 De verzekeraar verstrekt de bevoegde entiteit binnen twintig werkdagen of binnen de termijn die vermeld is in het verzoek, alle gegevens en bewijsstukken die de bevoegde dienst opvraagt om uitvoering te kunnen geven aan of toezicht te kunnen houden op de toepassing van dit besluit.
+
+### ART 10/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ### ART 11.
 

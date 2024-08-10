@@ -2,16 +2,16 @@
   "codex_id": 1031884,
   "title": "Besluit van de Vlaamse Regering van 2019-06-19 betreffende de premiesubsidie voor een brede weersverzekering in de landbouwsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031884/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "5463512de1c152f73fc9f43da9fe02b7195d495d1fc54dd07866bf912f174383",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031884/VolledigDocument?datum=2024-08-10",
+  "source_sha256": "c15c204db191531aff1ef9181ceb7e2ad57e1f01a88274490f05410acd9b0a6a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031884&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-08-10",
   "made": "2019-06-19",
   "gazette": "2019-07-08",
   "numac": 2019030606,
   "document_start": "2019-07-18",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-10",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
 }
