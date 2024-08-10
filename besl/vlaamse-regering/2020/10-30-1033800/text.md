@@ -28,7 +28,7 @@ DE VLAAMSE REGERING BESLUIT :
 
 § 1. In dit besluit wordt verstaan onder :<br>
 1° decreet van 5 april 2019 : het decreet van 5 april 2019 houdende de tegemoetkoming in de schade die aangericht is door rampen in het Vlaamse Gewest;<br>
-2° Departement Landbouw en Visserij : het departement, vermeld in artikel 26, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° Agentschap Landbouw en Zeevisserij: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° KMI : het Koninklijk Meteorologisch Instituut;<br>
 4° Vlaams Rampenfonds : de dienst binnen het Departement Kanselarij en Buitenlandse Zaken die belast is met de uitvoering van het decreet van 5 april 2019;<br>
 5° VMM : de Vlaamse Milieumaatschappij, opgericht bij artikel 10.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
@@ -198,7 +198,7 @@ Schadelijders of hun gemachtigden voegen de bewijzen van hun titel en alle infor
 <br>
 § 2. De aanvraag vermeldt de juiste ligging van het beschadigde goed.<br>
 <br>
-§ 3. Voor schade aan niet binnengehaalde oogsten, de bodem en de teelten vermelden de aanvragers het perceelnummer van de verzamelaanvraag die ze hebben ingediend bij het Departement Landbouw en Visserij, voor het jaar van de schade.<br>
+§ 3. Voor schade aan niet binnengehaalde oogsten, de bodem en de teelten vermelden de aanvragers het perceelnummer van de verzamelaanvraag die ze hebben ingediend bij het Agentschap Landbouw en Zeevisserij, voor het jaar van de schade.<br>
 <br>
 In het eerste lid wordt verstaan onder verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 11 van gedelegeerde verordening (EU) nr. 640/2014 van de Europese Commissie van 11 maart 2014 tot aanvulling van verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden.<br>
 <br>
