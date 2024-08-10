@@ -180,6 +180,7 @@ De steunaanvraag, vermeld in artikel 13, eerste lid, bevat al de volgende elemen
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
 &nbsp; c) de naam, de functie, het telefoonnummer en het e-mailadres van een contactpersoon;<br>
 &nbsp; d) de naam, het telefoonnummer en het e-mailadres van de budgettaire verantwoordelijke en van de verantwoordelijke voor de praktische uitvoering van het project;<br>
+&nbsp; e) het ondernemingsnummer;<br>
 3° de volgende gegevens van elke partner:<br>
 &nbsp; a) de naam en het adres;<br>
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
@@ -337,6 +338,12 @@ In geval van financiering uit het Europees Landbouwfonds voor plattelandsontwikk
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
 
+## Hoofdstuk 10/1. Openbaarmaking
+
+### ART 27/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## Hoofdstuk 11. Controles en sancties
 
 ### ART 28.
@@ -459,9 +466,13 @@ Kosten waarvoor met toepassing van andere regelingen van de Vlaamse overheid of 
 
 De subsidie, vermeld in artikel 3 van dit besluit, wordt verleend onder de voorwaarden die gelden voor steun voor samenwerking, vermeld in artikel 77 van verordening (EU) 2021/2115.<br>
 <br>
-Op projecten die niet of niet volledig onder artikel 145, lid 2, van verordening (EU) 2021/2115, vallen, zijn eveneens de voorwaarden, vermeld in artikel 19ter van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard, van toepassing.<br>
+Op projecten die niet of niet volledig onder artikel 145, lid 2, van verordening (EU) 2021/2115, vallen, zijn eveneens de voorwaarden van toepassing, vermeld in artikel 40 van verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L327 van 21 december 2022, blz. 1–81, met inbegrip van de latere wijzigingen.<br>
 <br>
-Voor de projecten, vermeld in het tweede lid, mag eventuele cumulatie van subsidies er niet toe leiden dat het drempelbedrag, vermeld in artikel 19ter, van de voormelde verordening (EU) nr. 651/2014, overschreden wordt.
+De steunmaatregel voldoet aan de volgende voorwaarden en aan alle andere voorwaarden, vermeld in hoofdstuk I en hoofdstuk II van de voormelde verordening (EU) nr. 2022/2472:<br>
+1°&nbsp;&nbsp; &nbsp;overeenkomstig artikel 1, lid 1, van de voormelde verordening (EU) 2022/2472 wordt de steun verstrekt aan kleine, middelgrote en micro-ondernemingen (kmo’s);<br>
+2°&nbsp;&nbsp; &nbsp;de steun is transparant overeenkomstig artikel 5, lid 3, a), van de voormelde verordening (EU) 2022/2472.<br>
+<br>
+Voor de projecten, vermeld in het tweede lid, mag eventuele cumulatie van subsidies er niet toe leiden dat het drempelbedrag, vermeld in artikel 40 van de voormelde verordening (EU) 2022/2472, overschreden wordt.
 
 ## Hoofdstuk 16. Uitwisseling van berichten
 
