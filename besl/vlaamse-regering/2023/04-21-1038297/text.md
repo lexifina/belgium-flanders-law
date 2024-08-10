@@ -66,14 +66,17 @@ De steun, vermeld in het eerste lid, wordt verleend in de vorm van:<br>
 ### ART 4.
 
 De volgende kandidaat-begunstigden komen in aanmerking voor de steun, vermeld in artikel 3:<br>
-1° actieve landbouwers met een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro. In geval van een rechtspersoon zijn alle bestuurders en zaakvoerders natuurlijke personen;<br>
+1° actieve landbouwers met een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro. In geval van een rechtspersoon is iedere bestuurder en zaakvoerder een natuurlijke persoon of een vennootschap met rechtspersoonlijkheid. Als de bestuurder of zaakvoerder van het landbouwbedrijf een vennootschap met rechtspersoonlijkheid is, voldoet die rechtspersoon aan al de volgende voorwaarden:<br>
+a) het bestuur bestaat uit maximaal één bestuurder;&nbsp;<br>
+b) de bestuurder, vermeld in punt a), is een natuurlijke persoon die méér dan 50% bezit van de aandelen van de rechtspersoon;<br>
+c) de bestuurder, vermeld in punt a), is de vaste en enige vertegenwoordiger van de rechtspersoon in het bestuur van het landbouwbedrijf;<br>
 2° samenwerkingsverbanden van landbouwers die aan al de volgende voorwaarden voldoen:<br>
-&nbsp; a) het samenwerkingsverband heeft rechtspersoonlijkheid;<br>
-&nbsp; b) alle leden en vennoten zijn actieve landbouwer;<br>
-&nbsp; c) minstens de helft van de leden en vennoten is actieve landbouwer en heeft een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro;<br>
-&nbsp; d) ten minste drie leden of vennoten zijn actieve landbouwer en hebben een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro.<br>
+a) het samenwerkingsverband heeft rechtspersoonlijkheid;<br>
+b) alle leden en vennoten zijn actieve landbouwer;<br>
+c) minstens de helft van de leden en vennoten is actieve landbouwer en heeft een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro;<br>
+d) ten minste drie leden of vennoten zijn actieve landbouwer en hebben een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro.<br>
 <br>
-De standaardverdiencapaciteit, vermeld in het eerste lid, kan rekening houden met de verwachte gevolgen van de aangevraagde investering of de verwachte bedrijfsontwikkeling na een recente start als jonge landbouwer, op voorwaarde dat dit aangetoond wordt door middel van een ondernemingsplan.
+De standaardverdiencapaciteit, vermeld in het eerste lid, kan rekening houden met de verwachte gevolgen van de aangevraagde investering of de verwachte bedrijfsontwikkeling na een recente start als landbouwer, op voorwaarde dat dit aangetoond wordt door middel van een ondernemingsplan.
 
 ## Afdeling 3. De investeringen
 
@@ -100,6 +103,8 @@ De bevoegde entiteit bepaalt voor elke categorie, vermeld in het eerste lid, wel
 1° de investeringen, vermeld in artikel 73, lid 3, van verordening (EU) 2021/2115;<br>
 2° de aankoop van grond;<br>
 3° de aankoop van tweedehands materiaal;<br>
+3/1° de aankoop van machines of materiaal via veiling;<br>
+3/2° de aankoop van machines of materiaal met een bouwjaar dat meer dan twee jaar ouder is dan het facturatiejaar van de eerste factuur voor die aankoop;<br>
 4° investeringen waarvoor een alternatief bestaat dat significant milieuvriendelijker is en niet significant duurder;<br>
 5° de aankoop van bedrijfsgebouwen;<br>
 6° investeringen in mestverwerking;<br>
@@ -216,14 +221,14 @@ De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:
 
 Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 3, als al de volgende voorwaarden zijn vervuld op het moment dat de betalingsaanvraag, vermeld in artikel 16, wordt ingediend:<br>
 1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning als de investering dat vereist;<br>
-2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest;<br>
+2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest en komen ten goede aan het samenwerkingsverband;<br>
 3° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, komt de realisatie van roerende investeringen ten goede aan het samenwerkingsverband;<br>
 4° de uitvoering van de investering is op zijn vroegst van start gegaan op de dag na de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend;<br>
 5° de investering is gerealiseerd conform de technische en bijkomende voorwaarden die zijn bepaald in de beschrijving in het e-loket op het moment van de steunaanvraag, vermeld in artikel 10;<br>
 6° de investering is operationeel en wordt gebruikt;<br>
 7° de begunstigde die de betalingsaanvraag, vermeld in artikel 16, indient, is een actieve landbouwer of een samenwerkingsverband van actieve landbouwers als vermeld in artikel 4;&nbsp;<br>
 8° als de aanvrager actieve landbouwer op het moment van de steunaanvraag, vermeld in artikel 10, geen standaardverdiencapaciteit heeft die overeenkomt met een minimaal factorinkomen van 20.000 euro, omwille van artikel 4, tweede lid, komt de standaardverdiencapaciteit van de aanvrager overeen met een factorinkomen van minstens 20.000 euro;<br>
-9° de jonge landbouwer, vermeld in artikel 13, eerste lid, 4°, en artikel 18, tweede lid, 1°, en vierde lid, is vakbekwaam.
+9° de jonge landbouwer, vermeld in artikel 13, eerste lid, 4°, en artikel 18, tweede lid, 1°, en vierde lid, is vakbekwaam en oefent een daadwerkelijk en langdurig zeggenschap uit, als vermeld in artikel 37 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid.
 
 ## Afdeling 7. Het steunbedrag
 
@@ -272,9 +277,14 @@ De steun, vermeld in het eerste lid, wordt verleend in de vorm van een forfaitai
 
 ### ART 22.
 
-Voor de steun, vermeld in artikel 21, komen alleen jonge landbouwers in aanmerking die zich voor het eerst als jonge landbouwer vestigen in de periode die start 24 maanden voor de laatste dag van de blokperiode waarin ze de steunaanvraag, vermeld in artikel 23, ingediend hebben en eindigt als ze de eerste betalingsaanvraag, vermeld in artikel 25, indienen.<br>
-<br>
-In het eerste lid wordt verstaan onder vestiging als landbouwer: de oprichting van een landbouwbedrijf of de overname van ten minste 20% van de aandelen of van de bedrijfsbekleding van een landbouwbedrijf. De bedrijfszetel en minstens één landbouwexploitatie moeten gelegen zijn in het Vlaams Gewest. De vestiging blijkt uit de registratie door de bevoegde entiteit van de begunstigde als lid, zaakvoerder, vennoot of bestuurder van een landbouwer.
+Enkel begunstigden die aan al de volgende voorwaarden voldoen komen in aanmerking voor de steun, vermeld in artikel 21:<br>
+1° de begunstigde is een jonge landbouwer, in afwijking van artikel 37, eerste lid, 2°, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid, is hij niet ouder dan veertig jaar in het kalenderjaar dat hij de steunaanvraag, vermeld in artikel 23, indient;<br>
+2° de begunstigde heeft zich voor het eerst als landbouwer gevestigd in de periode die start 24 maanden voor de laatste dag van de blokperiode waarin hij de steunaanvraag, vermeld in artikel 23, ingediend heeft en eindigt als hij de eerste betalingsaanvraag, vermeld in artikel 25, indient;<br>
+3° de begunstigde verwerft bij de oprichting of de overname van een landbouwbedrijf minstens 20% van de aandelen of de roerende bedrijfsbekleding;<br>
+4° in het geval van een overname blijkt de verwerving, vermeld in punt 3°, uit een geregistreerd overnamecontract of een notariële schenkingsakte;<br>
+5° de maatschappelijke zetel en minstens één landbouwexploitatie van het landbouwbedrijf, vermeld in punt 3°, liggen in het Vlaamse Gewest;<br>
+6° de begunstigde wordt geregistreerd als lid, zaakvoerder, vennoot of bestuurder van een landbouwer;<br>
+7° de verwerving, vermeld in punt 3° en de registratie, vermeld in punt 6°, vinden binnen een periode van dertig dagen plaats.
 
 ## Afdeling 3. Aanvraag en selectie
 
@@ -284,9 +294,10 @@ De kandidaat-begunstigde die de steun, vermeld in artikel 21, wil verkrijgen, di
 <br>
 De steunaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° een bedrijfsplan dat de volgende elementen bevat:<br>
-&nbsp; a) in geval van een overname, een beschrijving van de juridische structuur van het over te nemen bedrijf met het percentage overgenomen aandelen of bedrijfsbekleding op het moment van de tweede betalingsaanvraag, vermeld in artikel 26;<br>
-&nbsp; b) in geval van een oprichting, een beschrijving van de juridische structuur van het bedrijf na de oprichting;<br>
+&nbsp; a) in geval van een overname, een beschrijving van de juridische structuur van het over te nemen bedrijf met het percentage overgenomen aandelen of bedrijfsbekleding op het moment van de vestiging, vermeld in artikel 22;<br>
+&nbsp; b) in geval van een oprichting, een beschrijving van de juridische structuur van het bedrijf na de oprichting en het percentage aandelen of bedrijfsbekleding in het bedrijf op het moment van de vestiging, vermeld in artikel 22;<br>
 &nbsp; c) een beschrijving van de doelstellingen en de ontwikkeling van het bedrijf;<br>
+&nbsp; d) het percentage aandelen of roerende bedrijfsbekleding in het bedrijf op het moment van de tweede betalingsaanvraag, vermeld in artikel 26.<br>
 2° een omgevingsvergunning op naam van de onderneming waar de begunstigde zich gevestigd heeft, als op dezelfde exploitatie geen landbouwactiviteiten plaatsvonden minder dan 24 maanden voor de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in het eerste lid, is ingediend;<br>
 3° al de volgende gegevens:&nbsp;<br>
 &nbsp; a) de inschatting van de standaardverdiencapaciteit na de uitvoering van het bedrijfsplan op het moment van de tweede betalingsaanvraag, vermeld in artikel 26;<br>
@@ -321,7 +332,7 @@ De begunstigde dient via het e-loket een eerste betalingsaanvraag in binnen éé
 <br>
 De eerste betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° in geval van een overname, een geregistreerd overnamecontract;<br>
-2° in geval van oprichting, afdoende bewijs van uitvoering van de activiteiten die zijn beschreven in het bedrijfsplan, vermeld in artikel 23, tweede lid, 1°.
+2° in geval van oprichting, afdoende bewijs van uitvoering van de activiteiten die zijn beschreven in het bedrijfsplan, vermeld in artikel 23, tweede lid, 1°, of een notariële schenkingsakte.
 
 ### ART 26.
 
@@ -385,6 +396,12 @@ In geval van financiering uit het Europees Landbouwfonds voor plattelandsontwikk
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
 
+## Hoofdstuk 4/1. Openbaarmaking
+
+### ART 30/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## Hoofdstuk 5. Bijkomende voorwaarden
 
 ### ART 31.
@@ -396,7 +413,7 @@ Als stallen gesubsidieerd worden op voorwaarde dat dieren gehuisvest zijn volgen
 In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, voldoet de jonge landbouwer bedrijfsleider aan al de volgende voorwaarden:<br>
 1° de selectiedrempel, vermeld in artikel 24, behalen;<br>
 2° de minimumscore die hoort bij het selectieproces van de steunaanvraag, vermeld in artikel 24, behalen;<br>
-3° minstens 20% van de aandelen of bedrijfsbekleding behouden in geval van overname.<br>
+3° minstens 20% van de aandelen of bedrijfsbekleding behouden.<br>
 4° De combinatie van factorinkomen en aantal bedrijfsleiders moet de steun, vermeld in artikel 28, blijven verantwoorden<br>
 <br>
 In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, mag de jonge landbouwer zich in een van de volgende situaties bevinden:<br>
@@ -417,7 +434,7 @@ De bevoegde entiteit is verantwoordelijk voor de coördinatie en voor de uitvoer
 <br>
 De controles, vermeld in het eerste lid, bestaan uit:<br>
 1° de administratieve controles, met inbegrip van controles op het terrein in het kader van die administratieve controles die voor elk dossier kunnen plaatsvinden;<br>
-2° de controles ter plaatse die plaatsvinden op basis van een steekproef;<br>
+2° de controles ter plaatse, bij de begunstigde en relevante derden, die plaatsvinden op basis van een steekproef;<br>
 3° de controles achteraf op de naleving van de voorwaarden, vermeld in artikel 31, die plaatsvinden op basis van een steekproef.<br>
 <br>
 De bevoegde entiteit kan het voorwerp van de steun- en betaalaanvraag controleren en kan de nodige vaststellingen doen over de nakoming van de voorwaarden waaronder de steun werd verleend.<br>
