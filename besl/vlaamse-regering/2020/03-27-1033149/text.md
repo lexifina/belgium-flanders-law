@@ -112,97 +112,92 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 
 ### BIJLAGE
 
-<div>
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Bijlage. Indeling, als vermeld in artikel 9</span></span></p>
+<p>Bijlage. Indeling, als vermeld in artikel 9</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De departementen van de diensten van de Vlaamse overheid, worden voor het specifieke personeelsbeleid per Vlaamse minister op de volgende wijze ingedeeld:</span></span></p>
+<p>De departementen van de diensten van de Vlaamse overheid, worden voor het specifieke personeelsbeleid per Vlaamse minister op de volgende wijze ingedeeld:</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management is, bevoegd voor:</span></span></p>
+<p>1°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management is, bevoegd voor:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het </span></span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">, met uitzondering van:</span></span></span>
-
+<ol>
+	<li>de personeelsleden van het Departement Kanselarij en Buitenlandse Zaken, met uitzondering van:
 	<ol>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N- project Coördinatie Vlaams Handhavingsbeleid;</span></span></span></li>
+		<li>...;</li>
+		<li>...;</li>
+		<li>de projectleider van het N- project Coördinatie Vlaams Handhavingsbeleid;</li>
 	</ol>
 	</li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">...;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Cultuur, Jeugd en Media, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</span></span></span></li>
+	<li>...;</li>
+	<li>de personeelsleden van het Departement Cultuur, Jeugd en Media, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2°&nbsp;de Vlaamse minister van Economie, Innovatie, Werk, Sociale economie en Landbouw is, bevoegd voor:</span></span></p>
+<p>2°&nbsp;de Vlaamse minister van Economie, Innovatie, Werk, Sociale economie en Landbouw is, bevoegd voor:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Economie, Wetenschap en Innovatie;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het departement Werk en Sociale economie;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het departement Landbouw en Visserij;</span></span></span></li>
+<ol>
+	<li>de personeelsleden van het Departement Economie, Wetenschap en Innovatie;</li>
+	<li>de personeelsleden van het departement Werk en Sociale economie;</li>
+	<li>de personeelsleden van het Agentschap Landbouw en Zeevisserij;</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3° ...</span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">;</span></p>
+<p>3° ...;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand is, bevoegd voor:</span></span></p>
+<p>4°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand is, bevoegd voor:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Onderwijs en Vorming;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van het dierenwelzijn;</span></span></span></li>
+<ol>
+	<li>de personeelsleden van het Departement Onderwijs en Vorming;</li>
+	<li>de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van het dierenwelzijn;</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">5°&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme is, bevoegd voor:</span></span></p>
+<p>5°&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme is, bevoegd voor:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid</span></span></span><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">;</span></span></span></li>
-	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:</span></span></span>
+<ol>
+	<li>de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid;</li>
+	<li>de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:
 	<ol>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">het dierenwelzijn;</span></span></span></li>
-		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de handhaving met betrekking tot onroerend erfgoed;</span></span></span></li>
+		<li>het dierenwelzijn;</li>
+		<li>de handhaving met betrekking tot onroerend erfgoed;</li>
 	</ol>
 	</li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van&nbsp;</span></span></span><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</span></span></li>
+	<li>de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van&nbsp;de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</li>
 </ol>
-</div>
 &nbsp;
 
-<div>
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">6°&nbsp;de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding is, bevoegd voor:</span></span></p>
+<p>6°&nbsp;de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding is, bevoegd voor:</p>
 
-<p style="margin-left:40px; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">a. de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van</span></span></p>
+<p>a. de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van</p>
 
-<p style="margin-left:40px; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">b. hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</span></span></p>
+<p>b. hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">7°&nbsp;de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed is bevoegd voor:</span></span></p>
+<p>7°&nbsp;de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed is bevoegd voor:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Financiën en Begroting;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van de handhaving met betrekking tot het onroerend erfgoed;</span></span></span></li>
+<ol>
+	<li>de personeelsleden van het Departement Financiën en Begroting;</li>
+	<li>de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van de handhaving met betrekking tot het onroerend erfgoed;</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">8°&nbsp;de Vlaamse minister van Mobiliteit en Openbare Werken is bevoegd voor de personeelsleden van het Departement Mobiliteit en Openbare Werken;</span></span></p>
+<p>8°&nbsp;de Vlaamse minister van Mobiliteit en Openbare Werken is bevoegd voor de personeelsleden van het Departement Mobiliteit en Openbare Werken;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">9°&nbsp;de Vlaamse minister van Brussel, Jeugd en Media is bevoegd voor de personeelsleden van het departement Cultuur, Jeugd en Media, die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</span></span></p>
+<p>9°&nbsp;de Vlaamse minister van Brussel, Jeugd en Media is bevoegd voor de personeelsleden van het departement Cultuur, Jeugd en Media, die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">10°&nbsp;...;</span></span></p>
+<p>10°&nbsp;...;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">11°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme zijn bevoegd voor de secretaris- generaal van het </span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">;</span></span></p>
+<p>11°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme zijn bevoegd voor de secretaris- generaal van het Departement Kanselarij en Buitenlandse Zaken;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">12°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management, de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd en Media zijn, bevoegd voor de personeelsleden van de Raad voor Cultuur, Jeugd, Sport en Media;</span></span></p>
+<p>12°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management, de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd en Media zijn, bevoegd voor de personeelsleden van de Raad voor Cultuur, Jeugd, Sport en Media;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">13°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Brussel, Jeugd en Media zijn bevoegd voor de volgende personeelsleden van het Departement Cultuur, Jeugd en Media:</span></span></p>
+<p>13°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Brussel, Jeugd en Media zijn bevoegd voor de volgende personeelsleden van het Departement Cultuur, Jeugd en Media:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de secretaris-generaal;</span></span></span></li>
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de algemeen directeur;</span></span></span></li>
+<ol>
+	<li>de secretaris-generaal;</li>
+	<li>de algemeen directeur;</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">14°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand, de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed zijn bevoegd voor de secretaris-generaal van het Departement Omgeving;</span></span></p>
+<p>14°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand, de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed zijn bevoegd voor de secretaris-generaal van het Departement Omgeving;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">15°&nbsp;&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zijn bevoegd voor de secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin;</span></span></p>
-</div>
+<p>15°&nbsp;&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zijn bevoegd voor de secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin;</p>
 &nbsp;
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor de personeelsleden, vermeld in punt 1° tot en met 9°, voor wie niet uitgemaakt kan worden of ze alleen of hoofdzakelijk taken vervullen, die vallen onder de bevoegdheden van de Vlaamse minister, bij wie ze vermeld staan, kan worden afgeweken van de indeling met een protocol, dat tussen de betrokken Vlaamse ministers wordt gesloten.</span></span></p>
+<p>Voor de personeelsleden, vermeld in punt 1° tot en met 9°, voor wie niet uitgemaakt kan worden of ze alleen of hoofdzakelijk taken vervullen, die vallen onder de bevoegdheden van de Vlaamse minister, bij wie ze vermeld staan, kan worden afgeweken van de indeling met een protocol, dat tussen de betrokken Vlaamse ministers wordt gesloten.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
