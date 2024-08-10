@@ -1772,6 +1772,12 @@ De persoonsgegevens worden verwerkt op basis van de rechtvaardigingsgrond, verme
 <br>
 Het doel van de gegevensverwerking is het verlenen van subsidies.
 
+## Titel 8/1. Openbaarmaking
+
+### ART 122/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## Titel 9. Opheffings- en overgangsbepalingen
 
 ### ART 123.
