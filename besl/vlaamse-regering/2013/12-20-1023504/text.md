@@ -43,7 +43,7 @@ De minister, bevoegd voor de landbouw, kan een maximaal jaarlijks subsidiebedrag
 
 ### ART. 4.
 
-De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie (L 352) van 24 december 2013, en de latere wijzigingen ervan.
+De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden, vermeld in verordening (EU) 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun.
 
 ### ART. 5.
 
@@ -145,6 +145,12 @@ De Vlaamse minister, bevoegd voor de landbouw, bepaalt welke gegevens door de la
 <p>Een subsidie voor een zorgboerderijactiviteit wordt alleen uitbetaald als de subsidieaanvraag voor geregistreerde zorgboerderijactiviteiten door de land- of tuinbouwer is ingediend binnen een periode van één jaar na afloop van het kwartaal in kwestie en als de geregistreerde zorgboerderijactviviteiten bevestigd zijn door de voorziening.</p>
 
 <p>De Vlaamse minister, bevoegd voor de landbouw, kan nadere regels bepalen voor de te volgen procedure.</p>
+
+## HOOFDSTUK 7/1 Openbaarmaking
+
+### ART 18/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## HOOFDSTUK 8 Controle
 
