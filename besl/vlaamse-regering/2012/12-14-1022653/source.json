@@ -2,16 +2,16 @@
   "codex_id": 1022653,
   "title": "Besluit van de Vlaamse Regering van 2012-12-14 houdende de invoering van een puntensysteem voor ernstige inbreuken in de zeevisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022653/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "786f806fcbe868b5bc9d134b914e4630e19c0013a1d023bfa0f2ec4993acd7cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022653/VolledigDocument?datum=2024-08-10",
+  "source_sha256": "bf702b5c1ba59ef0c3c93bb86f582106a5ffdb766dfd3b7270ada7eafe1063fb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022653&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-08-10",
   "made": "2012-12-14",
   "gazette": "2013-01-23",
   "numac": 2013035017,
   "document_start": "2013-02-02",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2024-08-10",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
 }

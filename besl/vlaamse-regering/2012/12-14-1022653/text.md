@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder :<br>
 1° Verordening (EG) nr. 1005/2008 : Verordening (EG) nr. 1005/2008 van de Raad van 29 september 2008 houdende de totstandbrenging van een communautair systeem om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen, tot wijziging van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1936/2001 en (EG) nr. 601/2004 en tot intrekking van Verordeningen (EG) nr. 1093/94 en (EG) nr. 1447/1999;<br>
 2° : Verordening (EG) nr.1224/2009 : Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
 3° Verordening (EU) nr. 404/2011 : UitvoeringsVerordening (EU) nr. 404/2011 van de Commissie van 8 april 2011 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1224/2009 van de Raad tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen;<br>
-4° de minister : de Vlaamse minister bevoegd voor de zeevisserij.
+4° de bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 2.
 
@@ -41,7 +41,29 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 3.
 
-<P>§ 1. Met behoud van de toepassing van de geldende strafsancties en   administratieve sancties kent de minister, na de vaststelling van een ernstige   inbreuk als vermeld in artikel 2 die tot een strafrechtelijke of administratieve   sanctie aanleiding heeft gegeven, punten toe aan :<BR>1° de houder van de   visvergunning, volgens de bepalingen, vermeld in artikel 92 van Verordening (EG)   nr. 1224/2009;<BR>2° aan de kapitein van het vissersvaartuig onder de   verantwoordelijkheid van wie ernstige inbreuken als vermeld in artikel 2 van dit   besluit zijn gepleegd, overeenkomstig de bepalingen in : <BR>a) bijlage XXX van   Verordening (EU) nr. 404/2011;<BR>b) artikel 126, tweede tot en met vijfde   lid,van Verordening (EU) nr. 404/2011;<BR>c) artikel 133, eerste en tweede lid,   van Verordening (EU) nr. 404/2011;<BR></P>  <P>Als aan een kapitein op grond van de bepalingen vermeld in het eerste lid het   volgende aantal punten is toegewezen, is het hem gedurende de periode, vermeld   achter het aantal vermelde punten, verboden als kapitein op een vissersvaartuig   te varen :<BR>1° 18 punten : twee maanden;<BR>2° 36 punten : vier maanden;<BR>3°   54 punten : acht maanden;<BR>4° 72 punten : twaalf maanden;<BR>5° 90 punten :   drie jaar. <BR></P>  <P>Het is aan een houder van een visvergunning verboden een kapitein waarop het   verbod, vermeld in derde lid, betrekking heeft, op een vissersvaartuig waarvoor   de visvergunning geldt, als kapitein te laten varen gedurende de desbetreffende   periode.<BR></P>  <P>Indien de kapitein van een vissersvaartuig binnen drie jaar vanaf de datum   van de laatste ernstige inbreuk geen nieuwe ernstige inbreuk begaat, worden alle   punten geschrapt.<BR></P>  <P>§ 2. De minister is ook bevoegd voor :<BR>1° de overdracht van de punten van   een vissersvaartuig dat wordt verkocht of overgedragen of op een andere wijze   van eigenaar verandert, aan de volgende houder van de visvergunning voor dat   vissersvaartuig;<BR>2° de registratie van het aantal punten die voor elke   visvergunning aan de houder ervan zijn toegewezen.</P>
+<p>§ 1. Met behoud van de toepassing van de geldende strafsancties en administratieve sancties kent de bevoegde entiteit, na de vaststelling van een ernstige inbreuk als vermeld in artikel 2 die tot een strafrechtelijke of administratieve sanctie aanleiding heeft gegeven, punten toe aan :<br>
+1° de houder van de visvergunning, volgens de bepalingen, vermeld in artikel 92 van Verordening (EG) nr. 1224/2009;<br>
+2° aan de kapitein van het vissersvaartuig onder de verantwoordelijkheid van wie ernstige inbreuken als vermeld in artikel 2 van dit besluit zijn gepleegd, overeenkomstig de bepalingen in :<br>
+a) bijlage XXX van Verordening (EU) nr. 404/2011;<br>
+b) artikel 126, tweede tot en met vijfde lid,van Verordening (EU) nr. 404/2011;<br>
+c) artikel 133, eerste en tweede lid, van Verordening (EU) nr. 404/2011;</p>
+
+<p>Als aan een kapitein op grond van de bepalingen vermeld in het eerste lid het volgende aantal punten is toegewezen, is het hem gedurende de periode, vermeld achter het aantal vermelde punten, verboden als kapitein op een vissersvaartuig te varen :<br>
+1° 18 punten : twee maanden;<br>
+2° 36 punten : vier maanden;<br>
+3° 54 punten : acht maanden;<br>
+4° 72 punten : twaalf maanden;<br>
+5° 90 punten : drie jaar.</p>
+
+<p>Het is aan een houder van een visvergunning verboden een kapitein waarop het verbod, vermeld in derde lid, betrekking heeft, op een vissersvaartuig waarvoor de visvergunning geldt, als kapitein te laten varen gedurende de desbetreffende periode.</p>
+
+<p>Indien de kapitein van een vissersvaartuig binnen drie jaar vanaf de datum van de laatste ernstige inbreuk geen nieuwe ernstige inbreuk begaat, worden alle punten geschrapt.</p>
+
+<p>§ 2. De bevoegde entiteit is ook bevoegd voor :<br>
+1° de overdracht van de punten van een vissersvaartuig dat wordt verkocht of overgedragen of op een andere wijze van eigenaar verandert, aan de volgende houder van de visvergunning voor dat vissersvaartuig;<br>
+2° de registratie van het aantal punten die voor elke visvergunning aan de houder ervan zijn toegewezen.<br>
+<br>
+§3. De bevoegde entiteit brengt de personen vermeld in §1, eerste lid, 1° en 2°, op de hoogte van de toegekende punten en werkt hiervoor een procedure uit.</p>
 
 ### ART. 4.
 
