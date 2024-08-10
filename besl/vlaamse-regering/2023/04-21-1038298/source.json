@@ -2,16 +2,16 @@
   "codex_id": 1038298,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 over steun voor innovatieve investeringen in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038298/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "a59cd2da5b0c3222db0fb0b551492db098b67174d6f7559f6eae707e47163b10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038298/VolledigDocument?datum=2024-08-10",
+  "source_sha256": "a5abb50b2ac085009ad2c867ae971ec16d00aed80baa6c9a0325fd4a506baeba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038298&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-08-10",
   "made": "2023-04-21",
   "gazette": "2023-06-14",
   "numac": 2023042287,
   "document_start": "2023-04-21",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 42,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-10",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
 }

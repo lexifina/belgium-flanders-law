@@ -57,11 +57,14 @@ De steun, vermeld in het eerste lid, wordt verleend in de vorm van een investeri
 ### ART 4.
 
 De volgende kandidaat-begunstigden komen in aanmerking voor de steun, vermeld in artikel 3:<br>
-1° actieve landbouwers met een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro. In geval van een rechtspersoon zijn alle bestuurders en zaakvoerders natuurlijke personen;<br>
+1° actieve landbouwers met een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro. In geval van een rechtspersoon is iedere bestuurder en zaakvoerder een natuurlijke persoon of een vennootschap met rechtspersoonlijkheid. Als de bestuurder of zaakvoerder van de actieve landbouwer een vennootschap met rechtspersoonlijkheid is, voldoet die rechtspersoon aan al de volgende voorwaarden:<br>
+a) het bestuur bestaat uit maximaal één bestuurder;&nbsp;<br>
+b) de bestuurder, vermeld in punt a), is een natuurlijke persoon die méér dan 50% bezit van de aandelen van de rechtspersoon;<br>
+c) de bestuurder, vermeld in punt a), is de vaste en enige vertegenwoordiger van de rechtspersoon in het bestuur van de actieve landbouwer;<br>
 2° samenwerkingsverbanden van landbouwers die aan al de volgende voorwaarden voldoen:<br>
-&nbsp; a) het samenwerkingsverband heeft rechtspersoonlijkheid;<br>
-&nbsp; b) alle leden en vennoten zijn actieve landbouwer;<br>
-&nbsp; c) minstens de helft van de leden en vennoten heeft een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro.<br>
+a) het samenwerkingsverband heeft rechtspersoonlijkheid;<br>
+b) alle leden en vennoten zijn actieve landbouwer;<br>
+c) minstens de helft van de leden en vennoten heeft een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro.<br>
 <br>
 De standaardverdiencapaciteit, vermeld in het eerste lid, 1°, kan rekening houden met de verwachte gevolgen van de aangevraagde investering of de verwachte bedrijfsontwikkeling na een recente start, op voorwaarde dat dat aangetoond wordt met een ondernemingsplan.
 
@@ -288,6 +291,12 @@ In geval van financiering uit de uitgavenbegroting van de Vlaamse Gemeenschap ve
 In geval van financiering uit het Europees Landbouwfonds voor Plattelandsontwikkeling geven de begunstigden blijk van de ontvangen financiële steun door de verplichtingen na te leven, vermeld in artikel 123, lid 2, j), van verordening (EU) 2021/2115 en de uitvoeringsbepalingen ervan.<br>
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
+
+## Hoofdstuk 12/1. Openbaarmaking
+
+### ART 24/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## Hoofdstuk 13. Controle en sancties
 
