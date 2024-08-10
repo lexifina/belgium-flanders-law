@@ -511,7 +511,10 @@ De geslaagde deelnemers aan de voormelde basisopleidingen fytolicentie P2 die zi
 De aanvullende opleidingen over de fytolicentie, vermeld in artikel 35, 5°, van dit besluit, die aan al de volgende voorwaarden voldoen, komen in aanmerking voor de subsidiëring, vermeld in artikel 33 van dit besluit:&nbsp;<br>
 1° de vorming voldoet aan de voorwaarden, vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013;<br>
 2° minimaal twee uur van het dagdeel gaat over de onderwerpen, vermeld in bijlage 3 bij het koninklijk besluit van 19 maart 2013;<br>
-3° gedurende minimaal 45 minuten van de vorming wordt een toelichting gegeven door een lesgever die geen werknemer of zaakvoerder is van een onderneming die gewasbeschermingsmiddelen verkoopt.<br>
+3° gedurende minimaal 45 minuten van de vorming wordt een toelichting gegeven door een lesgever die geen werknemer of zaakvoerder is van een onderneming die gewasbeschermingsmiddelen verkoopt:<br>
+4° de vorming wordt gegeven door een lesgever die in het bezit is van een fytolicentie P3, of door een lesgever in een instelling voor basisonderwijs, secundair onderwijs, hoger onderwijs, volwassenenonderwijs of deeltijds kunstonderwijs die door de Vlaamse Gemeenschap is erkend, gefinancierd of gesubsidieerd, of in centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft.<br>
+<br>
+De bevoegde entiteit kan een afwijking toestaan van de voorwaarde, vermeld in het eerste lid, 4°, voor onderwerpen die niet gelinkt zijn aan de toepassing van gewasbeschermingsmiddelen. In het voormelde geval bezorgt het algemeen vormingscentrum een motivering aan de bevoegde entiteit en beslist de bevoegde entiteit over het toestaan van de afwijking. De voormelde onderwerpen kunnen gegeven worden door experten in het thema in kwestie.<br>
 <br>
 De minister kan de volgende elementen bepalen:<br>
 1° specifieke onderwerpen die opgenomen moeten worden in de opleiding;<br>
@@ -681,9 +684,9 @@ De subsidies voor vormingen via een vormingsprogramma worden per tijdseenheid vo
 Een dagdeel als vermeld in het eerste lid, bestaat uit minimaal twee en maximaal vier aaneensluitende lesuren. Een dagdeel als vermeld in het eerste lid, kan plaatsvinden binnen de volgende tijdsblokken:<br>
 1° in de voormiddag: tussen 8 en 13 uur;<br>
 2° in de namiddag: tussen 13 en 18 uur;<br>
-3° in de avond: tussen 18 en 22 uur.<br>
+3° in de avond: tussen 18 en 23 uur.<br>
 <br>
-Tussen twee dagdelen op dezelfde dag wordt er een pauze van minimaal één uur gehouden.<br>
+Tussen twee dagdelen op dezelfde dag wordt er een pauze van minimaal een half uur gehouden.<br>
 <br>
 De subsidies, vermeld in het eerste lid, bestaan uit een vergoeding aan de lesgever of lesgevers en een forfaitaire werkingssubsidie voor de algemene vormingscentra en de vormingscentra voor bijenteelt.
 
@@ -942,6 +945,8 @@ De gezamenlijke steunaanvraag, vermeld in artikel 80, eerste lid, bevat al de vo
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
 &nbsp; c) de naam, de functie, het telefoonnummer en het e-mailadres van een contactpersoon;<br>
 &nbsp; d) de naam, het telefoonnummer en het e-mailadres van de budgettair verantwoordelijke en van de verantwoordelijke voor de praktische uitvoering van het project;<br>
+&nbsp; e) het ondernemingsnummer;<br>
+&nbsp; f) het registratienummer bij de kmo-portefeuille;<br>
 2° de volgende gegevens van elke partner:<br>
 &nbsp; a) de naam en het adres;<br>
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
@@ -1071,7 +1076,7 @@ De subsidie, vermeld in artikel 75, wordt op de volgende wijze uitbetaald:<br>
 &nbsp; b) de functionele verantwoording, vermeld in artikel 89;<br>
 &nbsp; c) de financiële verantwoording, vermeld in artikel 90.<br>
 <br>
-De minister bepaalt bij de oproep, vermeld in artikel 79, het percentage van de schijven en het saldo, vermeld in het eerste lid.<br>
+De minister bepaalt bij de oproep, vermeld in artikel 79, het percentage van de schijven, vermeld in het eerste lid.<br>
 <br>
 De schuldvordering en de tussentijdse verantwoording, vermeld in het eerste lid, 1°, worden jaarlijks ingediend in de periode van de zevende tot en met de twaalfde maand, tenzij de minister in het toekenningsbesluit, vermeld in artikel 85, een andere termijn bepaalt.<br>
 <br>
@@ -1236,6 +1241,12 @@ In geval van financiering uit de uitgavenbegroting van de Vlaamse Gemeenschap ve
 In geval van financiering uit het Europees Landbouwfonds voor Plattelandsontwikkeling geven de algemene vormingscentra, de vormingscentra voor bijenteelt en de kennisinstelling voor waarnemings- en waarschuwingssystemen en hun partners blijk van de ontvangen financiële steun door de verplichtingen, vermeld in artikel 123, lid 2, j, van verordening (EU) 2021/2115, en de uitvoeringsbepalingen ervan, na te leven.<br>
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de communicatieverplichtingen, vermeld in het eerste en tweede lid.
+
+## Hoofdstuk 7/1. Openbaarmaking
+
+### ART 112/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en het tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## Hoofdstuk 8. Controles en sancties
 
