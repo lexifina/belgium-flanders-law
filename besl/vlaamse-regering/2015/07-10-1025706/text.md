@@ -60,6 +60,12 @@ De   minister beslist over de toekenning of de weigering van de steun, conform d
 
 <p>De steun is onverenigbaar met overheidssteun via een andere financieringsbron, die toegekend wordt voor de oprichting van de producentenorganisatie.</p>
 
+## HOOFDSTUK 5/1 Openbaarmaking
+
+### ART 10/1.
+
+Het Agentschap Landbouw en Zeevisserij regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK 6 Slotbepaling
 
 ### ART. 11.
