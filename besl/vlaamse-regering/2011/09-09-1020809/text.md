@@ -157,6 +157,12 @@ Voor de uitvoering van dit besluit kunnen de volgende categorieën van gegevens 
 2° gegevens inzake de controle van de landbouwer door een controleorgaan;<br>
 3° financiële gegevens.
 
+## HOOFDSTUK 4/2. Openbaarmaking
+
+### ART 22/2.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK 5. Wijzigingsbepaling
 
 ### ART. 23.
