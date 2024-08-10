@@ -39,7 +39,9 @@ De bevoegde entiteit wordt belast met de uitbouw en het beheer van een   databan
 
 ### ART. 3.
 
-De statutaire en de contractuele personeelsleden van de bevoegde entiteit   oefenen de toezichtsopdracht uit, vermeld in artikel 44 van het decreet van 28   juni 2013.<BR>
+De statutaire en de contractuele personeelsleden van de bevoegde entiteit oefenen de toezichtsopdracht uit, vermeld in artikel 44 van het decreet van 28 juni 2013.<br>
+<br>
+Bij de uitvoering van de toezichtsopdracht, vermeld in het eerste lid, kan de bevoegde entiteit de uiteindelijke begunstigden, vermeld in artikel 4, 27°, van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten, opsporen en controleren.
 
 ## Onderafdeling 2 Monsternemingen
 
