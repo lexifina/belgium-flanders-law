@@ -142,6 +142,7 @@ De steunaanvraag, vermeld in artikel 4, eerste lid, bevat al de volgende element
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
 &nbsp; c) de naam, de functie, het telefoonnummer en het e-mailadres van een contactpersoon;<br>
 &nbsp; d) de naam, het telefoonnummer en het e-mailadres van de budgettaire verantwoordelijke en van de verantwoordelijke voor de praktische uitvoering van het project;<br>
+&nbsp; e) het ondernemingsnummer;<br>
 3° de volgende gegevens van elke partner:<br>
 &nbsp; a) de naam en het adres;<br>
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
@@ -297,6 +298,12 @@ In geval van financiering uit de uitgavenbegroting van de Vlaamse Gemeenschap ve
 In geval van financiering uit het Europees Landbouwfonds voor plattelandsontwikkeling geven de begunstigden blijk van de ontvangen financiële steun door de verplichtingen na te leven, vermeld in artikel 123, lid 2, j), van verordening (EU) 2021/2115 en de uitvoeringsbepalingen ervan.<br>
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
+
+## Hoofdstuk 10/1. Openbaarmaking
+
+### ART 24/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## Hoofdstuk 11. Controles en sancties
 
