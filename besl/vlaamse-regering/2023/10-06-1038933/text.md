@@ -161,6 +161,12 @@ In geval van financiering uit het Europees Landbouwfonds voor Plattelandsontwikk
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
 
+## Hoofdstuk 9/1. Openbaarmaking
+
+### ART 14/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13° van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## Hoofdstuk 10. Controle en sancties
 
 ### ART 15.
