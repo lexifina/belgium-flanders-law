@@ -110,7 +110,7 @@ De bevoegde entiteit oefent de taken van beheerautoriteit, vermeld in artikel 71
 11° erkende brancheorganisaties in de visserij of in de aquacultuur als vermeld in artikel 5 en 6 van het besluit van 7 oktober 2022;&nbsp;<br>
 12° verenigingen of organisaties die actief zijn in de visserij- of aquacultuursector met inbegrip van de afzet van visserij en aquacultuurproductenproducten;<br>
 13° vissers, namelijk bemanningsleden van een vissersvaartuig;&nbsp;<br>
-14° rechtspersonen die een of meer visveilingen uitbaten en de operationele werking van die visveilingen effectief verzekeren;&nbsp;<br>
+14° rechtspersonen die een of meer visveilingen uitbaten en de operationele werking van die visveilingen effectief verzekeren en coöperatieve vennootschappen waarvan minstens 60% van de vennoten een of meer visveilingen uitbaten en de operationele werking van die visveilingen effectief verzekeren, waarvan minstens 30% van de vennoten een publieke entiteit is en die de exploitatie van visveilingen in hun statuten ingeschreven hebben;&nbsp;<br>
 15° visverwerkingsbedrijven;&nbsp;<br>
 16° regionale, lokale en andere overheden en hun verzelfstandigde agentschappen.&nbsp;<br>
 <br>
@@ -312,12 +312,12 @@ De concrete acties, vermeld in het eerste lid, hebben als doelstelling om de hoo
 
 ### ART 14.
 
-De aanvrager, vermeld in artikel 4, §1, eerste lid, 1°, 2°, 3° of 13°, van dit besluit, kan binnen de voorwaarden, vermeld in artikel 11, 12, 13, 14, lid 1, c), en artikel 21 van verordening (EU) 2021/1139, steun aanvragen voor de tijdelijke stopzetting van visserijactiviteiten in de gevallen, vermeld in artikel 21, lid 2, e), van de voormelde verordening.<br>
+De aanvrager, vermeld in artikel 4, §1, eerste lid, 1°, 2°, 3° of 13°, van dit besluit, kan binnen de voorwaarden, vermeld in artikel 11, 12, 13, 14, lid 1, c), en artikel 21 van verordening (EU) 2021/1139, steun aanvragen voor de tijdelijke stopzetting van visserijactiviteiten in de gevallen, vermeld in artikel 21, lid 2, van de voormelde verordening.<br>
 <br>
 De minister bepaalt voor de uitvoering van het eerste lid:<br>
 1° de periode waarin de tijdelijke stopzetting van de visserijactiviteiten plaatsvindt;<br>
 2° het bedrag van de stilligvergoeding per tijdsperiode van stillegging;<br>
-3° de modaliteiten waaronder de tijdelijke stopzetting van visserijactiviteiten plaatsvindt en de manier waarop die gecontroleerd worden;<br>
+3° de modaliteiten&nbsp;en voorwaarden waaronder de tijdelijke stopzetting van visserijactiviteiten plaatsvindt en de manier waarop die gecontroleerd worden;<br>
 4° de modaliteiten van de aanvraag tot steun en van de uitbetaling van de steun.<br>
 <br>
 De steunintensiteit voor een project als vermeld in het eerste lid, bedraagt maximaal 50% van de subsidiabele kosten vanuit FIVA en maximaal 50% van de subsidiabele kosten vanuit EFMZVA.<br>
@@ -384,7 +384,7 @@ Steun aan een project als vermeld in paragraaf 1, derde lid, 3°, wordt alleen t
 §1. De steun voor investeringen op een vissersvaartuig, vermeld in artikel 7, 8, 9 en 13, wordt alleen toegekend als het vissersvaartuig waarin geïnvesteerd wordt, aan al de volgende voorwaarden voldoet:&nbsp;<br>
 1° het vissersvaartuig heeft gedurende elk van de twee kalenderjaren vóór het jaar van de indiening van de steunaanvraag een visserijactiviteit uitgeoefend van ten minste zestig dagen op zee;&nbsp;<br>
 2° het vissersvaartuig, met uitzondering van vaartuigen die behoren tot het kustvisserssegment of vaartuigen waarvan op jaarbasis minstens 75% van de visserijactiviteiten in de Schelde of in het Schelde estuarium plaatsvinden, heeft gedurende twee kalenderjaren vóór het jaar van indiening van de steunaanvraag minstens 50% van de jaarlijkse aanlanding van zijn gesubsidieerde vissersvaartuig in een veiling in het Vlaamse Gewest aangeboden;<br>
-3° het vissersvaartuig is minimaal vijf jaar oud.<br>
+3° ....<br>
 <br>
 De voorwaarde, vermeld in het eerste lid, 2°, is niet van toepassing als de steun wordt toegekend in het kader van een collectief project waarvan een erkende producentenorganisatie promotor is.<br>
 <br>
@@ -696,7 +696,10 @@ De concrete acties, vermeld in het eerste lid, zijn gericht op het opzetten van 
 <br>
 §4. De minister kan bepalen dat bij het toekennen van de steun, vermeld in paragraaf 1, voorrang gegeven wordt aan concrete acties die een ruimer algemeen belang hebben en die passen in een productie- en afzetprogramma als vermeld in artikel 28 van verordening (EU) nr. 1379/2013.<br>
 <br>
-§5. De steunintensiteit voor een project als vermeld in paragraaf 1, wordt bepaald conform artikel 35, §3 en §4, 1°.&nbsp;<br>
+§5. De steunintensiteit voor een project als vermeld in paragraaf 1, wordt bepaald als volgt:&nbsp;<br>
+1° conform artikel 35, §2, indien de aanvrager een coöperatieve vennootschap is waarvan minstens 60% van de vennoten een of meer visveilingen uitbaten en de operationele werking van die visveilingen effectief verzekeren, waarvan minstens 30% van de vennoten een publieke entiteit is en waarbij de exploitatie van visveilingen in de statuten ingeschreven staat;<br>
+2° conform artikel 35, §3, indien de aanvrager een rechtspersoon is die een of meer visveilingen uitbaat en de operationele werking van die visveilingen effectief verzekert;<br>
+3° conform artikel 35, §4, 1°, voor een aanvrager vermeld in artikel 4, §1, eerste lid, 16°.<br>
 <br>
 §6. De minister kan het verkrijgen van de steun, vermeld in paragraaf 1, afhankelijk maken van het voorleggen van een bedrijfsplan, een haalbaarheidsstudie, een milieubeoordeling met in voorkomend geval een project-MER en een marktstudie.<br>
 <br>
@@ -760,7 +763,7 @@ De steun voor de acties, vermeld in paragraaf 1, 3°, bedraagt niet meer dan 25%
 
 §1. De steun, vermeld in artikel 7 tot en met 34, wordt verleend vanuit FIVA en EFMZVA.<br>
 <br>
-§2. Voor de steunmaatregelen, vermeld in artikel 7, 11, 21, 22, 23, 24, 27, 30 en 31, waarbij wordt verwezen naar deze paragraaf, bedraagt de financiële bijdrage vanuit FIVA en de financiële bijdrage vanuit EFMZVA elk maximaal 25% van de totale projectkosten.<br>
+§2. Voor de steunmaatregelen, vermeld in artikel 7, 11, 21, 22, 23, 24, 27, 30, 31 en 32, waarbij wordt verwezen naar deze paragraaf, bedraagt de financiële bijdrage vanuit FIVA en de financiële bijdrage vanuit EFMZVA elk maximaal 25% van de totale projectkosten.<br>
 <br>
 §3. Voor de steunmaatregelen, vermeld in artikel 7, 8, 9, 10, 12, 13, 20, 29 en 32, waarbij wordt verwezen naar deze paragraaf, bedraagt de financiële bijdrage vanuit FIVA en de financiële bijdrage vanuit EFMZVA elk maximaal 20% van de totale projectkosten als de begunstigde een micro- en kleine onderneming of een middelgrote onderneming is.<br>
 <br>
@@ -1035,6 +1038,12 @@ De minister kan modaliteiten vastleggen voor:<br>
 2° de administratieve sanctie die wordt toegepast als niet wordt voldaan aan de voorwaarde, vermeld in punt 1°.<br>
 <br>
 De beheerautoriteit kan materiaal ter beschikking stellen en praktische instructies geven over hoe de communicatieverplichtingen vermeld in lid 1 en 2 moeten uitgevoerd worden.
+
+## Titel 8/1. Openbaarmaking
+
+### ART 54/1.
+
+De beheerautoriteit bepaalt op welke wijze gevolg wordt gegeven aan de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13° en desgevallend ook in artikel 76/2, tweede lid, 2° van het decreet houdende de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## Titel 9. Controle en sancties
 
