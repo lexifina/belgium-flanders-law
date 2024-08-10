@@ -88,7 +88,12 @@ Een eigen economisch belang als vermeld in artikel 5, § 3, derde lid, van het d
 
 ### ART. 8.
 
-§ 1. De verplichte bijdrage aan het Fonds voor Landbouw en Visserij, als vermeld in artikel 7, § 1, tweede lid, van het decreet van 3 april 2009, wordt door de Vlaamse Regering per genetisch gemodificeerd gewas vastgelegd.<br /><br />De bijdrage moet op het rekeningnummer van het Fonds gestort worden.<br /><br />§ 2. Als een landbouwer na het betalen van de bijdrage toch beslist om geen genetisch gemodificeerd gewas te telen of om dat gewas op een kleinere oppervlakte dan gepland te telen, meldt hij die wijziging schriftelijk of via de internetsite aan de bevoegde instantie. De bevoegde instantie zal de al betaalde bijdrage pro rato terugstorten, verminderd met een forfait voor de gemaakte administratieve kosten. Dat forfait bedraagt twintig procent van het bedrag van de totale bijdrage voor het perceel of de percelen in kwestie, rekening houdend met de globale oppervlakte en met een maximum van twintig euro per aanvraag. De bevoegde instantie heeft vanaf de dag dat de melding van het afzien van de genetisch gemodificeerde teelt of van de wijziging van oppervlakte ervoor, schriftelijk wordt ingediend, dertig kalenderdagen om de correctheid van de wijziging te verifiëren en de bijdrage terug te storten op de rekening van de aanvragende landbouwer.<br /><br />
+§ 1. De verplichte bijdrage aan het Fonds toezicht en handhaving Landbouwdecreet, vermeld in artikel 7, § 1, tweede lid, van het decreet van 3 april 2009, wordt door de Vlaamse Regering per genetisch gemodificeerd gewas vastgelegd.<br>
+<br>
+De bijdrage moet op het rekeningnummer van het Fonds gestort worden.<br>
+<br>
+§ 2. Als een landbouwer na het betalen van de bijdrage toch beslist om geen genetisch gemodificeerd gewas te telen of om dat gewas op een kleinere oppervlakte dan gepland te telen, meldt hij die wijziging schriftelijk of via de internetsite aan de bevoegde instantie. De bevoegde instantie zal de al betaalde bijdrage pro rato terugstorten, verminderd met een forfait voor de gemaakte administratieve kosten. Dat forfait bedraagt twintig procent van het bedrag van de totale bijdrage voor het perceel of de percelen in kwestie, rekening houdend met de globale oppervlakte en met een maximum van twintig euro per aanvraag. De bevoegde instantie heeft vanaf de dag dat de melding van het afzien van de genetisch gemodificeerde teelt of van de wijziging van oppervlakte ervoor, schriftelijk wordt ingediend, dertig kalenderdagen om de correctheid van de wijziging te verifiëren en de bijdrage terug te storten op de rekening van de aanvragende landbouwer.<br>
+&nbsp;
 
 ## HOOFDSTUK III Schade en schadevergoeding
 
