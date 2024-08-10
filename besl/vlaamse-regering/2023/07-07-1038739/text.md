@@ -287,13 +287,19 @@ De zekerheid is een op eerste verzoek vorderbare zekerheid conform het model bep
 
 In geval van financiering uit de uitgavenbegroting van de Vlaamse Gemeenschap, vermelden de begunstigden het logo van de Vlaamse overheid in alle communicatievormen over de gesubsidieerde activiteiten.<br>
 <br>
-In geval van financiering uit het Europees Landbouwfonds voor plattelandsontwikkeling geven de begunstigden blijk van de ontvangen financiële steun door de verplichtingen na te leven, vermeld in artikel 123, lid 2, j), van verordening (EU) 2021/2115 en de uitvoeringsbepalingen ervan.<br>
+In geval van financiering uit het Europees Landbouwgarantiefonds geven de begunstigden blijk van de ontvangen financiële steun door de verplichtingen, vermeld in artikel 123, lid 2, j), van verordening (EU) 2021/2115 en de uitvoeringsbepalingen ervan, na te leven.<br>
 <br>
 De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven over de verplichtingen, vermeld in het eerste en tweede lid.
 
 ### ART 24.
 
 Elke imkervereniging verzamelt jaarlijks informatie bij haar leden over het aantal bijenvolken die klaar zijn om te overwinteren in de periode 1 september tot en met 31 december en communiceert de voormelde informatie aan de bevoegde entiteit voor 1 maart van het volgende kalenderjaar.
+
+## Hoofdstuk 8/1. Openbaarmaking
+
+### ART 24/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
 ## Hoofdstuk 9. Controle en sancties
 
