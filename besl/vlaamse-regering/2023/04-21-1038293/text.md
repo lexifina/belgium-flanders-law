@@ -1161,6 +1161,12 @@ De persoonsgegegevens, vermeld in het derde lid, worden verwerkt voor de volgend
 1° de uitvoering van het gemeenschappelijk landbouwbeleid;&nbsp;<br>
 2° het verlenen van rechtstreekse betalingen aan landbouwers.
 
+## Hoofdstuk 9/1. Openbaarmaking
+
+### ART 98/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## Hoofdstuk 10. Slotbepalingen
 
 ### ART 99.
