@@ -77,7 +77,7 @@ De minister bepaalt op welke wijze de erkende organisaties en de marktdeelnemers
 
 ### ART 7.
 
-Iedere erkende organisatie die erkend is voor een of meer van de volgende producten bezorgt elke week aan de bevoegde entiteit, uiterlijk op dinsdag om 24 uur, de verkoopprijs van de voorgaande week, uitgedrukt in euro per ton, van de volgende producten:<br>
+§1. Iedere erkende organisatie die erkend is voor een of meer van de volgende producten bezorgt elke week aan de bevoegde entiteit, uiterlijk op dinsdag om 24 uur, de verkoopprijs van de voorgaande week, uitgedrukt in euro per ton, van de volgende producten:<br>
 1° broodtarwe;<br>
 2° voedertarwe;<br>
 3° voedergerst;<br>
@@ -87,7 +87,28 @@ Iedere erkende organisatie die erkend is voor een of meer van de volgende produc
 <br>
 Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de graanhandelaars de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
 <br>
-In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verhandeld graan bepalen welke graanhandelaars de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die graanhandelaars samen minstens 40 % van de hoeveelheid verhandeld graan vertegenwoordigen.
+In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verhandeld graan bepalen welke graanhandelaars de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die graanhandelaars samen minstens 40 % van de hoeveelheid verhandeld graan vertegenwoordigen.<br>
+<br>
+§2. Iedere organisatie die erkend is voor een of meer van de producten, vermeld in paragraaf 1, eerste lid, bezorgt de volgende gegevens aan de bevoegde entiteit:<br>
+1° het areaal dat voor certificering aanvaard is, voor het areaal dat in dat jaar geoogst is. De gegevens worden uiterlijk op 15 november bezorgd;&nbsp;<br>
+2° de hoeveelheden zaad die voor certificering geoogst zijn, voor het voorgaande jaar. De gegevens worden uiterlijk op 15 januari bezorgd;&nbsp;<br>
+3° het niveau van de voorraden gecertificeerd zaad van de marktdeelnemers in kwestie. De gegevens worden uiterlijk op 28 februari voor de maand januari en uiterlijk op 31 juli voor de maand juni bezorgd.<br>
+<br>
+Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de marktdeelnemers de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de minister op basis van de gegevens die bezorgd moeten worden conform het eerste lid, bepalen welke marktdeelnemers de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat ze samen minstens 40% van de totale gegevens vertegenwoordigen van de producten, vermeld in paragraaf 1, eerste lid.
+
+### ART 7/1.
+
+Iedere erkende organisatie die erkend is voor een of meer van de volgende producten, bezorgt elke maand, uiterlijk op de 24ste van elke maand om 24 uur, de voorraden van de volgende producten van de voorgaande maand, uitgedrukt in ton, aan de bevoegde entiteit:<br>
+1° tarwe;<br>
+2° harde tarwe;<br>
+3° gerst;<br>
+4° maïs.<br>
+<br>
+Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de groothandelaren de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde autoriteit conform het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de minister op basis van de jaarlijkse voorraad van de producten, vermeld in het eerste lid, bepalen welke producenten, groothandelaren en marktdeelnemers de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat ze samen minstens 40 % van de totale voorraad vertegenwoordigen van de producten, vermeld in het eerste lid.
 
 ### ART 8.
 
@@ -96,6 +117,14 @@ Iedere erkende organisatie die erkend is voor tarwemeel, bezorgt elke maand, uit
 Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de maalderijen de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
 <br>
 In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verkocht tarwemeel bepalen welke maalderijen de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die maalderijen samen minstens 40 % van de hoeveelheid verkocht tarwemeel vertegenwoordigen.
+
+### ART 8/1.
+
+Iedere erkende organisatie die erkend is voor rijstmeel, bezorgt elke maand, uiterlijk op de 24ste van de maand om 24 uur, de verkoopprijs van rijstmeel van de voorgaande maand, uitgedrukt in euro per ton, aan de bevoegde entiteit.<br>
+<br>
+Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de maalderijen de gegevens, vermeld in het eerste lid, en de bijbehorende verkochte hoeveelheid rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verkochte rijstmeel bepalen welke maalderijen de gegevens, vermeld in het eerste lid, en de bijbehorende verkochte hoeveelheid conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die maalderijen samen minstens 40% van de hoeveelheid verkocht rijstmeel vertegenwoordigen.
 
 ### ART 9.
 
@@ -148,13 +177,39 @@ In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aant
 
 ### ART 14.
 
-Iedere erkende organisatie die erkend is voor een of meer van de volgende producten, bezorgt elke week aan de bevoegde entiteit, uiterlijk op dinsdag om 24 uur, de verkoopprijs voor de volgende producten van de voorgaande week, uitgedrukt in euro per ton:<br>
+§1. Iedere erkende organisatie die erkend is voor een of meer van de volgende producten, bezorgt elke week aan de bevoegde entiteit, uiterlijk op dinsdag om 24 uur, de verkoopprijs voor de volgende producten van de voorgaande week, uitgedrukt in euro per ton:<br>
 1° koolzaadmeel;<br>
 2° koolzaadolie.<br>
 <br>
 Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de producenten van oliehoudende zaden de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
 <br>
-In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verkochte koolzaadolie of koolzaadmeel bepalen welke producenten van oliehoudende zaden de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die producenten samen minstens 40 % van de hoeveelheid verkochte koolzaadolie of koolzaadmeel vertegenwoordigen.
+In afwijking van het tweede lid kan de minister op basis van het jaarlijkse aantal ton verkochte koolzaadolie of koolzaadmeel bepalen welke producenten van oliehoudende zaden de gegevens, vermeld in het eerste lid, en de daarbij horende verkochte hoeveelheid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die producenten samen minstens 40 % van de hoeveelheid verkochte koolzaadolie of koolzaadmeel vertegenwoordigen.<br>
+<br>
+§2. Iedere erkende organisatie die erkend is voor een of meer van de producten, vermeld in paragraaf 1, eerste lid, bezorgt de volgende gegevens ook aan de bevoegde entiteit:<br>
+1° het areaal dat voor certificering aanvaard is, voor het areaal dat in dat jaar geoogst is. De gegevens worden uiterlijk op 15 november bezorgd;&nbsp;<br>
+2° de hoeveelheden zaad die voor certificering geoogst zijn, voor het voorgaande jaar. De gegevens worden uiterlijk op 15 januari bezorgd;&nbsp;<br>
+3° het niveau van de voorraden gecertificeerd zaad van de marktdeelnemers in kwestie. De gegevens worden uiterlijk op 28 februari voor de maand januari en uiterlijk op 31 juli voor de maand juni bezorgd.<br>
+<br>
+Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de marktdeelnemers de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de minister op basis van de gegevens die bezorgd moeten worden conform het eerste lid, bepalen welke marktdeelnemers de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat ze samen minstens 40% van de totale gegevens vertegenwoordigen van de producten, vermeld in paragraaf 1, eerste lid.
+
+### ART 14/1.
+
+Iedere erkende organisatie die erkend is voor een of meer van de volgende producten, bezorgt elke maand, uiterlijk op de 24ste van elke maand om 24 uur, de voorraden van de volgende producten van de voorgaande maand, uitgedrukt in ton, aan de bevoegde entiteit:<br>
+1°&nbsp;&nbsp; &nbsp;koolzaad;<br>
+2°&nbsp;&nbsp; &nbsp;zonnebloempitten;<br>
+3°&nbsp;&nbsp; &nbsp;sojabonen;<br>
+4°&nbsp;&nbsp; &nbsp;koolzaadmeel;<br>
+5°&nbsp;&nbsp; &nbsp;zonnebloemzaadschroot;<br>
+6°&nbsp;&nbsp; &nbsp;sojaschroot;<br>
+7°&nbsp;&nbsp; &nbsp;ruwe koolzaadolie;<br>
+8°&nbsp;&nbsp; &nbsp;ruwe zonnebloemolie;<br>
+9°&nbsp;&nbsp; &nbsp;ruwe sojaolie.<br>
+<br>
+&nbsp;Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de marktdeelnemers de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde autoriteit conform het eerste lid.<br>
+<br>
+&nbsp;In afwijking van het tweede lid kan de minister op basis van het jaarlijkse voorraadniveau van oliehoudende zaden bepalen welke marktdeelnemers de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat ze samen minstens 40% van de totale voorraad vertegenwoordigen van de producten, vermeld in het eerste lid.
 
 ### ART 15.
 
@@ -332,9 +387,19 @@ Iedere erkende organisatie die erkend is voor eieren, bezorgt elke week aan de b
 <br>
 Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen de pakstations de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
 <br>
-In afwijking van het tweede lid kan de minister op basis van het jaarlijks aantal verhandelde eieren, uitgesplitst per houderijmethode of op basis van de sorteercapaciteit, bepalen welke pakstations de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die pakstations samen minstens 40 % van het aantal verhandelde eieren vertegenwoordigen.<br>
+In afwijking van het tweede lid kan de minister op basis van het jaarlijks aantal verhandelde eieren, uitgesplitst per houderijmethode of op basis van de sorteercapaciteit, bepalen welke pakstations de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die pakstations samen minstens 40 % van het aantal verhandelde eieren&nbsp;per houderijmethode vertegenwoordigen.<br>
 <br>
 In het tweede en het derde lid wordt verstaan onder pakstation: een pakstation als vermeld in bijlage I van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong, waaraan een vergunning is verleend en waar eieren naar kwaliteit en gewicht worden gesorteerd conform artikel 5, lid 2, van verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren.
+
+### ART 29/1.
+
+Iedere erkende organisatie die erkend is voor eieren, bezorgt elke maand, uiterlijk op de 20ste van de maand om 24 uur, aan de bevoegde entiteit de volgende gegevens:<br>
+1° de aantal geproduceerde eieren in de voorgaande maand, uitgesplitst naar houderijmethode;<br>
+2° het totale gewicht van de geproduceerde eieren in de voorgaande maand, uitgesplitst naar houderijmethode.<br>
+<br>
+Als er geen erkende organisatie is als vermeld in het eerste lid, bezorgen alle leghennenbedrijven die erkend zijn conform artikel 4 van het besluit van de Vlaamse Regering van 6 mei 2022 over de handelsnormen voor consumptie-eieren en tot invoering van een erkenningsplicht voor leghennenbedrijven en een registratieplicht voor pakstations, de gegevens, vermeld in het eerste lid, rechtstreeks aan de bevoegde entiteit conform het eerste lid.<br>
+<br>
+In afwijking van het tweede lid kan de minister op basis van de jaarlijkse hoeveelheid geproduceerde eieren per houderijmethode bepalen welke leghennenbedrijven de gegevens, vermeld in het eerste lid, conform het eerste lid rechtstreeks aan de bevoegde entiteit bezorgen, op voorwaarde dat die leghennenbedrijven samen minstens 40% van de jaarlijkse hoeveelheid geproduceerde eieren per houderijmethode vertegenwoordigen.
 
 ### ART 30.
 

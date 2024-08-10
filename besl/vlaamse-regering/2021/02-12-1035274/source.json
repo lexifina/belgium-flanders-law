@@ -2,16 +2,16 @@
   "codex_id": 1035274,
   "title": "Besluit van de Vlaamse Regering van 2021-02-12 tot bepaling van de gegevens die de sectoren moeten bezorgen met het oog op het verhogen van de markt- en prijstransparantie in de landbouw- en voedselmarkt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035274/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "eaed03c7bf56760d40f59fd6ba081659497f0660b0209f31651e99a8be9c2a7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035274/VolledigDocument?datum=2024-08-10",
+  "source_sha256": "da9921351525c930a245364b3b2576b76f2f5214dcff33457d5885f963d9b909",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035274&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-08-10",
   "made": "2021-02-12",
   "gazette": "2021-03-08",
   "numac": 2021020411,
   "document_start": "2021-03-18",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 40,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-10",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
 }
