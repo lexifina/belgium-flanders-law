@@ -189,6 +189,12 @@ Om de rente, vermeld in het derde lid, te berekenen, wordt de wettelijke rentevo
 
 De bevoegde entiteit kan, met behoud van de toepassing van artikel 12/1, administratieve sancties opleggen conform artikel 56 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, als ze vaststelt dat een of meer van de verplichtingen, vermeld in dit besluit, niet of niet volledig worden nageleefd.
 
+## HOOFDSTUK 4/2 Openbaarmaking
+
+### ART 12/3.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK 5 Slotbepalingen
 
 ### ART 13.
