@@ -45,6 +45,7 @@ a) er worden eieren volgens kwaliteits- en gewichtsklassen gesorteerd als vermel
 b) ze beschikt over een toelating van de daarvoor bevoegde overheid conform artikel 5, lid 2, van verordening (EG) nr. 589/2008;<br>
 6° verhandelen: het in voorraad hebben of het uitstallen voor de verkoop, het te koop aanbieden, de aflevering, of elke andere wijze van in de handel brengen;<br>
 7° verordening (EG) nr. 589/2008: verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren;<br>
+7°/1 verordening (EU) 2018/848: verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad.<br>
 8° verpakking: een onmiddellijke verpakking voor eieren van klasse A of B, met uitzondering van transportverpakkingen en houders voor industriële eieren;<br>
 9° voedingswijze: de voedingswijze, vermeld in artikel 15 en bijlage II bij de verordening (EG) nr. 589/2008.
 
@@ -65,11 +66,11 @@ Een leghennenbedrijf kan erkend worden als het voldoet aan al de volgende voorwa
 De erkenningsaanvraag wordt eenmalig in elektronische vorm ingediend bij de bevoegde entiteit en vermeldt al de volgende gegevens:<br>
 1° de naam, het ondernemingsnummer en het adres van de onderneming;<br>
 2° de naam, het vestigingseenheidsnummer en het adres van de vestiging;<br>
-3° het aantal stallen en de capaciteit per stal;<br>
+3° het aantal stallen, de beslagnummers van de stallen en de capaciteit per stal;<br>
 4° de toegepaste houderijmethode per stal;<br>
 5° de toegepaste voedingswijze per stal.<br>
 <br>
-Het leghennenbedrijf deelt elke wijziging van de gegevens, vermeld in het derde lid, onmiddellijk mee aan de bevoegde entiteit.<br>
+Het leghennenbedrijf deelt elke wijziging van de gegevens, vermeld in het derde lid,&nbsp;1°, 2°, 3° en 5°, onmiddellijk mee aan de bevoegde entiteit.<br>
 <br>
 De bevoegde entiteit beoordeelt de aanvraag en controleert of de aanvrager voldoet aan de voorwaarden voor de toepassing van de houderijmethode, vermeld in het tweede lid. De bevoegde entiteit beslist over de aanvraag en stuurt een beslissing naar de aanvrager met vermelding van de houderijmethode en de voedingswijze.<br>
 <br>
@@ -79,7 +80,8 @@ In al de volgende gevallen heft de bevoegde entiteit de erkenning op:<br>
 3° het leghennenbedrijf voldoet niet langer aan de voorwaarden voor de houderijmethode waarvoor ze de erkenning heeft gekregen;<br>
 4° het leghennenbedrijf verhandelt eieren met een foutieve vermelding van de houderijmethode in de producentencode die gestempeld wordt op de eieren;<br>
 5° eieren worden verhandeld met een foutieve vermelding van de houderijmethode in de producentencode of op de verpakking, waarbij de fout te wijten is aan het leghennenbedrijf.<br>
-6° het leghennenbedrijf verhandelt eieren waarvan de vermelde voedingswijze niet overeenkomt met de gebruikte voedingswijze of waarbij de voedingswijze niet voldoet aan de voorwaarden, vermeld in artikel 11.
+6° het leghennenbedrijf verhandelt eieren waarvan de vermelde voedingswijze niet overeenkomt met de gebruikte voedingswijze of waarbij de voedingswijze niet voldoet aan de voorwaarden, vermeld in artikel 11;<br>
+7° het leghennenbedrijf krijgt een erkenning voor een andere houderijmethode.
 
 ### ART 5.
 
@@ -87,12 +89,41 @@ In afwijking van artikel 4 dient een leghennenbedrijf dat op de datum van de inw
 <br>
 De bevoegde entiteit stuurt een bevestiging van de erkenning, vermeld in het eerste lid, met vermelding van de gegevens, vermeld in artikel 4, derde lid, naar het leghennenbedrijf.<br>
 <br>
-Het leghennenbedrijf dat vaststelt dat de gegevens die vermeld zijn op de bevestiging als vermeld in het tweede lid, foutief zijn, deelt dat onmiddellijk mee aan de bevoegde entiteit.
+Het leghennenbedrijf dat vaststelt dat de gegevens die vermeld zijn op de bevestiging als vermeld in het tweede lid, foutief zijn, deelt dat onmiddellijk mee aan de bevoegde entiteit.<br>
+<br>
+Artikel 4, vierde en zesde lid, zijn van toepassing op de erkenning, vermeld in het eerste lid.
+
+### ART 5/1.
+
+In afwijking van artikel 4 van dit besluit wordt een leghennenbedrijf dat onderworpen is aan het controlesysteem van de biologische productiemethode, vermeld in verordening (EU) 2018/848, geacht erkend te zijn bij de bevoegde entiteit als vermeld in artikel 4 van dit besluit.&nbsp;<br>
+<br>
+De bevoegde entiteit stuurt een bevestiging van de erkenning, vermeld in het eerste lid, met vermelding van de gegevens, vermeld in artikel 4, derde lid, naar het leghennenbedrijf.<br>
+<br>
+Het leghennenbedrijf dat vaststelt dat de gegevens die vermeld zijn op de bevestiging conform het tweede lid, foutief zijn, deelt dat onmiddellijk mee aan de bevoegde entiteit.<br>
+<br>
+Artikel 4, vierde en zesde lid, zijn van toepassing op de erkenning, vermeld in het eerste lid.
+
+### ART 5/2.
+
+In afwijking van artikel 4 van dit besluit kan een leghennenbedrijf dat onderworpen is aan het controlesysteem van de biologische productiemethode, vermeld in verordening (EU) 2018/848, tijdelijk en zonder dat het over de erkenning voor de houderijmethode vrije uitloop hoeft te beschikken, die houderijmethode vrije uitloop vermelden en laten vermelden in de producentencode en op de verpakking conform artikel 9 en artikel 12, lid 2, van verordening (EG) nr. 589/2008, in de wachttijd, vermeld in punt 1.5.2.5 van deel II van bijlage II bij verordening (EU) 2018/848, onder de volgende voorwaarden:<br>
+1° de verordening (EU) 2018/848 blijft van toepassing en wordt nageleefd;&nbsp;<br>
+2° het leghennenbedrijf meldt het gebruik van de voormelde houderijmethode voorafgaandelijk aan de bevoegde entiteit;&nbsp;<br>
+3° de bevoegde entiteit bevestigt voorafgaandelijk het gebruik van de voormelde houderijmethode.&nbsp;<br>
+<br>
+De melding, vermeld in het eerste lid, 2°, bevat al de volgende gegevens:<br>
+1° de naam en het ondernemingsnummer van de onderneming;<br>
+2° de naam en het vestigingseenheidsnummer van de vestiging;<br>
+3° de producentencode;<br>
+4° de begindatum van de wachttijd, vermeld in het eerste lid;<br>
+5° de einddatum van de wachttijd, vermeld in het eerste lid.<br>
+<br>
+De melding, vermeld in het eerste lid, 2°, wordt elektronisch gedaan uiterlijk zeven dagen voor de begindatum, vermeld in het tweede lid, 4°.<br>
+&nbsp;
 
 ### ART 6.
 
 Het leghennenbedrijf mag alleen eieren verhandelen die afkomstig zijn van een houderijmethode als vermeld in bijlage II bij verordening (EG) nr. 589/2008, die vermeld wordt in de producentencode en op de verpakking, conform artikel 9 en 10 van dit besluit, als voldaan is aan al de volgende voorwaarden:<br>
-1° het leghennenbedrijf beschikt over een erkenning voor die houderijmethode als vermeld in artikel 4 van dit besluit;<br>
+1° het leghennenbedrijf beschikt over een erkenning voor die houderijmethode als vermeld in artikel 4, 5 en 5/1 van dit besluit, of kan tijdelijk de houderijmethode vrije uitloop vermelden conform artikel 5/2 van dit besluit;<br>
 2° de eieren zijn daadwerkelijk geproduceerd volgens de houderijmethode, vermeld in punt 1°.
 
 ## HOOFDSTUK 3. Registratie van de pakstations
@@ -150,6 +181,15 @@ Als de bevoegde entiteit vaststelt dat een of meer van de verplichtingen, vermel
 <br>
 De bevoegde entiteit controleert conform artikel 25 van Verordening (EG) nr. 589/2008 of de verplichtingen, vermeld in het vijfde lid, voor de partij, vermeld in het vijfde lid, alsnog worden nageleefd en de partij in overeenstemming wordt gebracht.
 
+### ART 12/1.
+
+De bevoegde entiteit kan toestemming verlenen om een uitloop in de openlucht te gebruiken voor de installatie van zonnepanelen, op voorwaarde dat de installatie voldoet aan al de volgende voorwaarden:<br>
+1° ze is in overeenstemming met de normen voor dierenwelzijn, vermeld in richtlijn 1999/74/EG van de Raad van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen;<br>
+2° ze beperkt de bewegingsruimte van de hennen niet<br>
+3° de nodige vergunningen worden bekomen.<br>
+<br>
+Het leghennenbedrijf dient de aanvraag van een toestemming als vermeld in het eerste lid, schriftelijk in bij de bevoegde entiteit.
+
 ## HOOFDSTUK 5. Verwerking en bescherming van de gegevens
 
 ### ART 13.
@@ -161,6 +201,10 @@ De bevoegde entiteit kan voor de erkenning, vermeld in artikel 4, voor de regist
 De bevoegde entiteit treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking, vermeld in het eerste lid.<br>
 <br>
 De bevoegde entiteit zorgt voor de bescherming en de vertrouwelijkheid van de gegevens.
+
+### ART 13/1.
+
+De bevoegde entiteit kan de leghennenbedrijven en houderijmethodes die bij haar zijn erkend, bekendmaken.
 
 ## HOOFDSTUK 6. Slotbepaling
 

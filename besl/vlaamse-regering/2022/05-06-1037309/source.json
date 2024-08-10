@@ -2,16 +2,16 @@
   "codex_id": 1037309,
   "title": "Besluit van de Vlaamse Regering van 2022-05-06 over de handelsnormen voor consumptie-eieren en tot invoering van een erkenningsplicht voor leghennenbedrijven en een registratieplicht voor pakstations",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037309/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "5692133cd471e025639eb16b8ec56c3139427d10913a597323ce45ff685a9cf0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037309/VolledigDocument?datum=2024-08-10",
+  "source_sha256": "0b59715046611ee3c946e8364ced444b7a5a4a9587ba1cfd0f823d12b2a98912",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037309&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-08-10",
   "made": "2022-05-06",
   "gazette": "2022-08-02",
   "numac": 2022041595,
   "document_start": "2022-08-12",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-08-10",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
 }
