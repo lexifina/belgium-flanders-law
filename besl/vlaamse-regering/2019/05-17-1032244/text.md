@@ -706,6 +706,12 @@ b) de dieren die in de werkingsperiode voor het ras, de foklijn of de kruising i
 <br>
 De vereiste, vermeld in het eerste lid, 2°, geldt ook als een deel van de algemene werkingssubsidie aan een vereniging als vermeld in artikel 61, eerste lid, 4°, bestemd is voor een vereniging als vermeld in artikel 61, eerste lid, 1° of 2°.
 
+## HOOFDSTUK 11/1 Openbaarmaking
+
+### ART 63/1.
+
+De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK 12. Toezicht
 
 ### ART 64.
