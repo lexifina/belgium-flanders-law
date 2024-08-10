@@ -245,6 +245,12 @@ De praktijkcentra bereiden de overlegmomenten, vermeld in het eerste lid, voor e
 
 De personeelsleden van de bevoegde entiteit kunnen administratieve controles en controles ter plaatse uitoefenen op de aanwending van de subsidies, vermeld in artikel 2.
 
+## Afdeling 11. Openbaarmaking
+
+### ART 23/1.
+
+De bevoegde entiteit bepaalt op welke wijze gevolg wordt gegeven aan de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13° van het decreet houdende de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK 3. Coördinatiecomités
 
 ### ART 24.
