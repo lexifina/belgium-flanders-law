@@ -62,6 +62,12 @@ De minister organiseert de toekenning van de steun via een oproep.<br /><br />De
 
 De kandidaat-begunstigde die de steun wil ontvangen, dient een aanvraag in bij het Vlaams Landbouwinvesteringsfonds, sectie Omkadering. De minister bepaalt het model van aanvraagformulier.<br />
 
+## HOOFDSTUK IV/1. Openbaarmaking
+
+### ART 11/1.
+
+Het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
 ## HOOFDSTUK V. Slotbepalingen
 
 ### ART. 12.
