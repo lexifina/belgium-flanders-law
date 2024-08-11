@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040030,
+  "title": "Besluit van de Vlaamse Regering van 2024-04-26 tot wijziging van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, wat betreft raadplegingen en kennisgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040030/VolledigDocument?datum=2024-08-11",
+  "source_sha256": "def89f0b4ce412fb67d9d0e44de4b416bdef9118b963cbf6de572d8dae2fee24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040030&param=informatie",
+  "as_of": "2024-08-11",
+  "made": "2024-04-26",
+  "gazette": "2024-08-01",
+  "numac": 2024007369,
+  "document_start": "2024-08-11",
+  "document_end": null,
+  "in_force": "2024-08-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
