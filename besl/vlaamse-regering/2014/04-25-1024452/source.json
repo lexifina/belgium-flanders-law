@@ -2,16 +2,16 @@
   "codex_id": 1024452,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 betreffende de regionale televisieomroeporganisaties ter uitvoering van artikel 166/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024452/VolledigDocument?datum=2018-08-05",
-  "source_sha256": "420594c448bf17eb899283e0909ee210194d5f09672a42e1f6a69d5c4e5de4a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024452/VolledigDocument?datum=2024-08-11",
+  "source_sha256": "838e587c9bea2cd5ee5a7a3930cd1cb6d0d21f057a7c6dcc485c44cc20074a4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024452&param=informatie",
-  "as_of": "2018-08-05",
+  "as_of": "2024-08-11",
   "made": "2014-04-25",
   "gazette": "2014-08-21",
   "numac": 2014035660,
   "document_start": "2014-08-31",
   "document_end": null,
-  "in_force": "2018-08-05",
+  "in_force": "2024-08-11",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2018-08-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-11; future article versions excluded; article text as the API gives it"
 }

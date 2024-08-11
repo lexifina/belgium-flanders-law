@@ -22,7 +22,7 @@ De exploitatieovereenkomst bevat de volgende elementen:<BR>1° een bepaling   wa
 
 ### ART. 4.
 
-De exploitatieovereenkomsten worden gesloten voor een minimumduur van vijf   jaar en een maximumduur van 10 jaar.<BR>
+...
 
 ### ART. 5.
 
