@@ -144,29 +144,53 @@ d)&nbsp;&nbsp; &nbsp;organisaties en voorzieningen binnen sectoren die met kinde
 
 ### ART 16.
 
-Het vertrouwenscentrum kindermishandeling en de partnerorganisatie zijn opgericht als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie zijn opgericht als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen.
+
+### ART 16/1.
+
+De vertrouwenscentra kindermishandeling en de partnerorganisatie werken samen opdat ze dezelfde kwaliteitsvolle dienst- en hulpverlening bieden, met behoud van de toepassing van de opdracht van de partnerorganisatie, vermeld in artikel 15, 3°.&nbsp;<br>
+<br>
+De samenwerking, vermeld in het eerste lid, heeft minstens betrekking op de volgende thema’s:<br>
+1°&nbsp;&nbsp; &nbsp;een actueel gehouden visie en profilering van het vertrouwenscentra kindermishandeling en de partnerorganisatie;<br>
+2°&nbsp;&nbsp; &nbsp;een efficiënt en toekomstgericht bestuurs- en werkingsmodel, met een eenduidige beslissings- en valideringsbevoegdheid;<br>
+3°&nbsp;&nbsp; &nbsp;de procesvoering en het gebruik van instrumenten voor de uitvoering van de opdrachten van de vertrouwenscentra kindermishandeling, vermeld in artikel 7, §2, en voor de uitvoering van de opdrachten van de partnerorganisatie, vermeld in artikel 15;<br>
+4°&nbsp;&nbsp; &nbsp;het delen van goede praktijken;<br>
+5°&nbsp;&nbsp; &nbsp;de vorming, training, opleiding, supervisie en ondersteuning van medewerkers, vermeld in artikel 19, tweede lid;<br>
+6°&nbsp;&nbsp; &nbsp;het kwaliteitsbeleid, vermeld in artikel 26/1;<br>
+7°&nbsp;&nbsp; &nbsp;het klachtenbeleid, vermeld in artikel 20;<br>
+8°&nbsp;&nbsp; &nbsp;ondersteunende processen.
 
 ### ART 17.
 
-Het vertrouwenscentrum kindermishandeling en de partnerorganisatie hebben in hun werking aandacht voor goed bestuur. Zij waken over de diversiteit in samenstelling, de deskundigheid, de opdrachten en de verantwoordelijkheden van de bestuursorganen.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie hebben in hun werking aandacht voor goed bestuur. Zij waken over de diversiteit in samenstelling, de deskundigheid, de opdrachten en de verantwoordelijkheden van de bestuursorganen.
 
 ### ART 18.
 
-Het vertrouwenscentra kindermishandeling en de partnerorganisatie beschikken over toegankelijke en aangepaste infrastructuur om de opdrachten kwaliteitsvol uit te kunnen voeren.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie beschikken over toegankelijke en aangepaste infrastructuur om de opdrachten kwaliteitsvol uit te kunnen voeren.
 
 ### ART 19.
 
-Het vertrouwenscentrum kindermishandeling en de partnerorganisatie beschikken over voldoende en voldoende opgeleide medewerkers.<br>
+De vertrouwenscentra kindermishandeling en de partnerorganisatie beschikken over voldoende en voldoende opgeleide medewerkers.<br>
 <br>
-Het vertrouwenscentrum kindermishandeling en de partnerorganisatie voorzien in de nodige ondersteuning, vorming, training, opleiding en supervisie van de medewerkers.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie voorzien in de nodige ondersteuning, vorming, training, opleiding en supervisie van de medewerkers.
 
 ### ART 20.
 
-Het vertrouwenscentra kindermishandeling en de partnerorganisatie beschikken over een klachtenprocedure. Die procedure wordt aan de gebruiker bekendgemaakt en garandeert binnen een redelijke termijn een antwoord op een klacht.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie beschikken over een klachtenprocedure. Die procedure wordt aan de gebruiker bekendgemaakt en garandeert binnen een redelijke termijn een antwoord op een klacht.
 
 ### ART 21.
 
-Het vertrouwenscentrum kindermishandeling en de partnerorganisatie rapporteren jaarlijks over de werking en het kwaliteitsbeleid van de werking waarvoor ze erkend zijn. Het agentschap bepaalt de categorieën die gevraagd worden in de voormelde rapportage op basis van de in artikelen 7 tot en met 23 en artikelen 28 tot en met 30 bepaalde voorwaarden.
+De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 juni bij het agentschap een inhoudelijk en kwantitatief activiteitenverslag in over de werking in het voorgaande jaar. Het activiteitenverslag bevat een verslag over de genomen acties en de ontwikkelde instrumenten ter uitvoering van artikel 16/1.<br>
+<br>
+De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 december bij het agentschap een verslag in met een planning van de activiteiten voor het volgende jaar ter uitvoering van de thema’s, vermeld in artikel 16/1, tweede lid, en de verwachte realisaties ervan.<br>
+<br>
+De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 juni bij het agentschap een verslag in over het kwaliteitsbeleid van de werking waarvoor ze erkend zijn. Het verslag bevat de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de resultaten van de zelfevaluatie;<br>
+2°&nbsp;&nbsp; &nbsp;de geformuleerde verbeteracties;<br>
+3°&nbsp;&nbsp; &nbsp;de wijze waarop de verbeteracties zijn uitgevoerd;<br>
+4°&nbsp;&nbsp; &nbsp;de kwaliteitsplanning voor het lopende jaar.<br>
+<br>
+Het agentschap kan nadere voorwaarden bepalen voor de verslagen, vermeld in het eerste tot en met het derde lid.
 
 ### ART 22.
 
@@ -331,12 +355,12 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.982.566,47 euro (een miljoen negenhonderdtweeëntachtigduizend vijfhonderdzesenzestig euro zevenenveertig cent);<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 2.107.680,26 euro (twee miljoen honderdenzevenduizend zeshonderdtachtig euro zesentwintig cent);<br>
 2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 1.125.888,13 euro (een miljoen honderdvijfentwintigduizend achthonderdachtentachtig euro dertien cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 1.264.455,37 euro (een miljoen tweehonderdvierenzestigduizend vierhonderdvijfenvijftig euro zevenendertig cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.542.849,61 euro (een miljoen vijfhonderdtweeënveertigduizend achthonderdnegenenveertig euro eenenzestig cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.403.722,21 euro (een miljoen vierhonderdendrieduizend zevenhonderdtweeëntwintig euro eenentwintig cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.411.394,60 euro (een miljoen vierhonderdelfduizend driehonderdvierennegentig euro zestig cent).<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 1.377.279,66 euro (een miljoen driehonderdzevenenzeventigduizend tweehonderdnegenzeventig euro zesenzestig cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.663.047,60 euro (een miljoen zeshonderddrieënzestigduizend zevenenveertig euro zestig cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.516.546,51 euro (een miljoen vijfhonderdzestienduizend vijfhonderdzesenveertig euro eenenvijftig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.524.218,89 euro (een miljoen vijfhonderdvierentwintigduizend tweehonderdachttien euro negenentachtig cent).<br>
 <br>
 § 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 280.752,58 euro (tweehonderdtachtigduizend zevenhonderdtweeënvijftig euro achtenvijftig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
