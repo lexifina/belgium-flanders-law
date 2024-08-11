@@ -9,7 +9,8 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° adviescommissie: de commissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
+1° activiteitsnorm: een erkenningsnorm op grond van andere regelgeving waarbij er een bestaande behoefte of ervaring wordt aangetoond met een gekwantificeerde medische activiteit;<br>
+1/1° adviescommissie: de commissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
 2° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 3° ...;<br>
 4° beheersinstantie: een of meer personen die een voorziening vertegenwoordigen en die de voorziening juridisch kunnen binden;<br>
@@ -58,7 +59,8 @@ De betrokkenen moeten dat document ondertekenen;<br>
 4° een beschrijvende nota die vermeldt op welke wijze de normen voor de technische uitrusting worden nageleefd;<br>
 5° in voorkomend geval een afschrift van de overeenkomst tussen het ziekenhuis of het revalidatieziekenhuis waarvoor de erkenning van een dienst of van het geheel wordt gevraagd, en de voorzieningen waarmee een functionele binding tot stand moet worden gebracht krachtens de geldende erkenningsnormen;<br>
 6° een ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of het revalidatieziekenhuis of de ziekenhuisdienst ligt, waaruit blijkt dat is voldaan aan de brandveiligheidsnormen. Dat attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag heeft uitgebracht over de brandveiligheid van de voorziening. Het attest en het verslag mogen niet ouder zijn dan een jaar;<br>
-7° in de gevallen bepaald door de Vlaamse minister, bevoegd voor het gezondheidsbeleid : een beschrijvende nota die vermeldt op welke wijze de aanvraag past binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.</p>
+7° in de gevallen bepaald door de Vlaamse minister, bevoegd voor het gezondheidsbeleid : een beschrijvende nota die vermeldt op welke wijze de aanvraag past binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning;<br>
+8° in de gevallen, vermeld in artikel 12, §2, derde lid: het bewijs dat aan de activiteitsnorm is voldaan. De administratie kan daarvoor een model ter beschikking stellen op haar website. In dat geval wordt het bewijs geleverd op basis van het model en conform de inhoudelijke en structurele regels die in het model zijn opgenomen.</p>
 
 <p>Als het ingediende dossier onvolledig is, deelt de administratie dat, binnen de dertig dagen met vermelding van de reden, mee aan de aanvrager.</p>
 
@@ -118,8 +120,11 @@ De voorlopige erkenning geldt voor een termijn van zes maanden en kan op   gemot
 
 <p>De erkenning wordt verleend:<br>
 1° voor de algemene ziekenhuizen en voor de ziekenhuisdiensten van algemene ziekenhuizen: een termijn van onbepaalde duur;<br>
+1°/1 in afwijking van punt 1°, voor de ziekenhuisdiensten waarvoor een activiteitsnorm geldt: een termijn van maximaal zes jaar, die kan worden verlengd;<br>
 2° voor de psychiatrische ziekenhuizen en voor de ziekenhuisdiensten van psychiatrische ziekenhuizen: een termijn van maximaal zes jaar, die kan worden verlengd;<br>
-3° voor de revalidatieziekenhuizen en voor de ziekenhuisdiensten van revalidatieziekenhuizen: een termijn van onbepaalde duur.</p>
+3° voor de revalidatieziekenhuizen en voor de ziekenhuisdiensten van revalidatieziekenhuizen: een termijn van onbepaalde duur.<br>
+<br>
+De minister kan na mededeling aan de Vlaamse Regering de ziekenhuisdiensten aanwijzen waarvoor een activiteitsnorm geldt.</p>
 
 ## Afdeling 3 Erkenning van ziekenhuisonderdelen en samenwerkingsvormen
 
@@ -139,30 +144,36 @@ De voorlopige erkenning geldt voor een termijn van zes maanden en kan op   gemot
 
 <p>De erkenning wordt verleend:<br>
 1° voor ziekenhuisonderdelen van algemene ziekenhuizen en samenwerkingsvormen die exclusief betrekking hebben op algemene ziekenhuizen, of voor samenwerkingsvormen tussen algemene ziekenhuizen enerzijds en psychiatrische ziekenhuizen anderzijds: een termijn van onbepaalde duur;<br>
+1/1° in afwijking van punt 1°, voor de functies, zorgprogramma’s, medische diensten en medisch-technische diensten van algemene ziekenhuizen waarvoor een activiteitsnorm geldt: een termijn van maximaal zes jaar, die kan worden verlengd;<br>
 2° voor ziekenhuisonderdelen van psychiatrische ziekenhuizen en samenwerkingsvormen tussen psychiatrische ziekenhuizen: een termijn van maximaal zes jaar, die kan worden verlengd;<br>
-3° voor ziekenhuisonderdelen van revalidatieziekenhuizen en samenwerkingsvormen die exclusief betrekking hebben op revalidatieziekenhuizen, of voor samenwerkingsvormen tussen revalidatieziekenhuizen enerzijds en psychiatrische ziekenhuizen anderzijds: een termijn van onbepaalde duur.</p>
+3° voor ziekenhuisonderdelen van revalidatieziekenhuizen en samenwerkingsvormen die exclusief betrekking hebben op revalidatieziekenhuizen, of voor samenwerkingsvormen tussen revalidatieziekenhuizen enerzijds en psychiatrische ziekenhuizen anderzijds: een termijn van onbepaalde duur.<br>
+<br>
+De minister kan na mededeling aan de Vlaamse Regering functies, zorgprogramma’s, medische diensten en medisch-technische diensten aanwijzen waarvoor een activiteitsnorm geldt.</p>
 
 ## Afdeling 4 Verlenging van de erkenning
 
 ### ART. 14.
 
-&nbsp;Deze afdeling is alleen van toepassing op de verlenging van de   erkenning van psychiatrische ziekenhuizen, ziekenhuisdiensten van psychiatrische   ziekenhuizen, ziekenhuisonderdelen van psychiatrische ziekenhuizen en   samenwerkingsvormen tussen psychiatrische ziekenhuizen.<BR>
+&nbsp;Deze afdeling is alleen van toepassing op de verlenging van de erkenning van psychiatrische ziekenhuizen, ziekenhuisdiensten van psychiatrische ziekenhuizen, ziekenhuisonderdelen van psychiatrische ziekenhuizen en samenwerkingsvormen tussen psychiatrische ziekenhuizen en van de ziekenhuisdiensten, vermeld in artikel 12, §2, derde lid, en van de functies, zorgprogramma’s, medische en medisch-technische diensten van de algemene ziekenhuizen, vermeld in artikel 13, §6, derde lid.
 
 ### ART. 15.
 
-<p>§ 1. De beheersinstantie dient de aanvraag tot verlenging van de erkenning uiterlijk zes maanden voor het verstrijken van de lopende erkenning bij de administratie in.</p>
+<p>§1. De beheersinstantie dient de aanvraag tot verlenging van de erkenning uiterlijk zes maanden voor het verstrijken van de lopende erkenning bij de administratie in.</p>
 
-<p>§ 2. Bij de aanvraag moeten de volgende documenten gevoegd worden:<br>
+<p>§2. Bij de aanvraag moeten de volgende documenten gevoegd worden:<br>
 1° voor het ziekenhuis of het revalidatieziekenhuis of de ziekenhuisdienst:<br>
 a) de documenten, vermeld in artikel 4, tweede lid, als er veranderingen zijn opgetreden;<br>
-b) een ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of de ziekenhuisdienst ligt, waaruit blijkt dat is voldaan aan de brandveiligheidsnormen. Dat attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag over de brandveiligheid van de voorziening heeft uitgebracht. Het attest en het verslag mogen niet ouder zijn dan vijf jaar. Voor de gedeelten waarin sinds het vorige brandweerattest en -verslag architectonische veranderingen zijn aangebracht, moeten evenwel een nieuw attest en een nieuw verslag worden ingediend die niet ouder mogen zijn dan een jaar;<br>
-2° voor de ziekenhuisonderdelen en samenwerkingsvormen: alle documenten die aantonen dat aan de erkenningsnormen is voldaan.</p>
+b) een ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of de ziekenhuisdienst ligt, waaruit blijkt dat is voldaan aan de brandveiligheidsnormen. Dat attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag over de brandveiligheid van de voorziening heeft uitgebracht. Het attest en het verslag mogen niet ouder zijn dan zes jaar. Voor de gedeelten waarin sinds het vorige brandweerattest en -verslag architectonische veranderingen zijn aangebracht, moeten evenwel een nieuw attest en een nieuw verslag worden ingediend die niet ouder mogen zijn dan een jaar;<br>
+2° voor de ziekenhuisonderdelen en samenwerkingsvormen: alle documenten die aantonen dat aan de erkenningsnormen is voldaan;<br>
+3° voor de ziekenhuisdiensten, vermeld in artikel 12, §2, derde lid, en van de functies, zorgprogramma’s, medische en medisch-technische diensten van de algemene ziekenhuizen, vermeld in artikel 13, §6, derde lid: de gegevens waaruit blijkt dat aan de activiteitsnorm is voldaan. De administratie kan daarvoor een model ter beschikking stellen op haar website. In dat geval wordt het bewijs geleverd op basis van het model en conform de inhoudelijke en structurele regels die in het model zijn opgenomen.</p>
 
-<p>§ 3. Als aan de voorwaarden, vermeld in paragraaf 1 en 2, is voldaan, is de erkenning van rechtswege voorlopig verlengd tot een rechtsgeldige beslissing over de verlenging van de erkenning door de secretaris-generaal wordt genomen.</p>
+<p>§3. Als aan de voorwaarden, vermeld in paragraaf 1 en 2, is voldaan, is de erkenning van rechtswege voorlopig verlengd tot een rechtsgeldige beslissing over de verlenging van de erkenning door de secretaris-generaal wordt genomen.</p>
 
-<p>§ 4. ....</p>
+<p>§4. In afwijking van artikel 14 is deze paragraaf alleen van toepassing op de verlenging van de erkenning van de ziekenhuisdiensten, vermeld in artikel 12, §2, derde lid, en van de functies, zorgprogramma’s, medische en medisch-technische diensten van de algemene ziekenhuizen, vermeld in artikel 13, §6, derde lid.<br>
+<br>
+De bevindingen van het onderzoek door de administratie worden aan de beheersinstantie meegedeeld. Die beschikt over vijftien dagen vanaf de ontvangst van de bevindingen om haar schriftelijke opmerkingen mee te delen.</p>
 
-<p>§ 5. Voor het einde van de lopende erkenningstermijn wordt de beslissing van de secretaris-generaal tot verlenging van de erkenning aan de aanvrager bezorgd, of wordt zijn voornemen tot schorsing of weigering van de verlenging van die erkenning met een aangetekende zending aan de aanvrager betekend. In geval van een beslissing tot schorsing zijn artikel 16 tot en met 19 van toepassing.</p>
+<p>§5. Voor het einde van de lopende erkenningstermijn wordt de beslissing van de secretaris-generaal tot verlenging van de erkenning aan de aanvrager bezorgd, of wordt zijn voornemen tot schorsing of weigering van de verlenging van die erkenning met een aangetekende zending aan de aanvrager betekend. In geval van een beslissing tot schorsing zijn artikel 16 tot en met 19 van toepassing.</p>
 
 <p>Artikel 5, tweede lid, en artikel 6 tot en met 8 zijn van overeenkomstige toepassing op het voornemen.</p>
 
@@ -519,6 +530,10 @@ De procedures voor de erkenning die hangende zijn op de datum van de   inwerking
 <p>Die ziekenhuizen voegen bij hun aanvraag een ondertekend en gedateerd attest als vermeld in artikel 15, § 2, 1°, b).</p>
 
 <p>Twee maanden voor het verstrijken van de geldigheidsduur van het attest, vermeld in artikel 15, § 2, 1°, b), bezorgt de beheersinstantie van het ziekenhuis aan de administratie een nieuw ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of de ziekenhuisdienst ligt. Uit dat attest moet blijken dat er is voldaan aan de brandveiligheidsnormen. Het attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag heeft uitgebracht over de brandveiligheid van de voorziening.</p>
+
+### ART 55/1.
+
+De afgeleverde erkenning van onbepaalde duur voor de ziekenhuisdiensten, vermeld in artikel 12, §2, derde lid, en voor de functies, zorgprogramma’s, medische en medisch-technische diensten van de algemene ziekenhuizen, vermeld in artikel 13, §6, derde lid, die de minister aanwijst, wordt van rechtswege een erkenning van bepaalde duur met een termijn van één jaar.
 
 ### ART. 56.
 
