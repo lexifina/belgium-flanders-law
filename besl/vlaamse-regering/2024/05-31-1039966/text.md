@@ -22,7 +22,55 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp
 
+### ART 1.
+
+In artikel 65, §3, van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp wordt tussen de zinsnede “65 werkdagen” en de woorden “In spoedeisende” de zin “De gemandateerde voorziening kan die termijn van 65 werkdagen één keer verlengen met een periode van 65 werkdagen.” ingevoegd.&nbsp;
+
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie
+
+### ART 2.
+
+In artikel 16 en 17 van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie worden de woorden “Het vertrouwenscentrum” vervangen door de woorden “De vertrouwenscentra”.
+
+### ART 3.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2023, wordt een artikel 16/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 16/1. De vertrouwenscentra kindermishandeling en de partnerorganisatie werken samen opdat ze dezelfde kwaliteitsvolle dienst- en hulpverlening bieden, met behoud van de toepassing van de opdracht van de partnerorganisatie, vermeld in artikel 15, 3°.&nbsp;<br>
+<br>
+De samenwerking, vermeld in het eerste lid, heeft minstens betrekking op de volgende thema’s:<br>
+1° een actueel gehouden visie en profilering van het vertrouwenscentra kindermishandeling en de partnerorganisatie;<br>
+2° een efficiënt en toekomstgericht bestuurs- en werkingsmodel, met een eenduidige beslissings- en valideringsbevoegdheid;<br>
+3° de procesvoering en het gebruik van instrumenten voor de uitvoering van de opdrachten van de vertrouwenscentra kindermishandeling, vermeld in artikel 7, §2, en voor de uitvoering van de opdrachten van de partnerorganisatie, vermeld in artikel 15;<br>
+4° het delen van goede praktijken;<br>
+5° de vorming, training, opleiding, supervisie en ondersteuning van medewerkers, vermeld in artikel 19, tweede lid;<br>
+6° het kwaliteitsbeleid, vermeld in artikel 26/1;<br>
+7° het klachtenbeleid, vermeld in artikel 20;<br>
+8° ondersteunende processen.”.
+
+### ART 4.
+
+In artikel 18 en 20 van hetzelfde besluit worden de woorden “Het vertrouwenscentra” vervangen door de woorden “De vertrouwenscentra”.
+
+### ART 5.
+
+In artikel 19 van hetzelfde besluit worden de woorden “Het vertrouwenscentrum” telkens vervangen door de woorden “De vertrouwenscentra”.
+
+### ART 6.
+
+Artikel 21 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 21. De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 juni bij het agentschap een inhoudelijk en kwantitatief activiteitenverslag in over de werking in het voorgaande jaar. Het activiteitenverslag bevat een verslag over de genomen acties en de ontwikkelde instrumenten ter uitvoering van artikel 16/1.<br>
+<br>
+De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 december bij het agentschap een verslag in met een planning van de activiteiten voor het volgende jaar ter uitvoering van de thema’s, vermeld in artikel 16/1, tweede lid, en de verwachte realisaties ervan.<br>
+<br>
+De vertrouwenscentra kindermishandeling en de partnerorganisatie dienen jaarlijks vóór 1 juni bij het agentschap een verslag in over het kwaliteitsbeleid van de werking waarvoor ze erkend zijn. Het verslag bevat de volgende gegevens:<br>
+1° de resultaten van de zelfevaluatie;<br>
+2° de geformuleerde verbeteracties;<br>
+3° de wijze waarop de verbeteracties zijn uitgevoerd;<br>
+4° de kwaliteitsplanning voor het lopende jaar.<br>
+<br>
+Het agentschap kan nadere voorwaarden bepalen voor de verslagen, vermeld in het eerste tot en met het derde lid.”.
 
 ### ART 7.
 
@@ -102,4 +150,21 @@ Art. 26/4. De voorziening beschikt over een borgend kwaliteitshandboek, dat de v
 <br>
 Het kwaliteitshandboek, vermeld in het eerste lid, is gebruiksvriendelijk en toegankelijk en wordt door alle geledingen van de voorziening gedragen.”.
 
+### ART 8.
+
+In artikel 31, §2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de zinsnede “1.982.566,47 euro (een miljoen negenhonderdtweeëntachtigduizend vijfhonderdzesenzestig euro zevenenveertig cent)” vervangen door de zinsnede “2.107.680,26 euro (twee miljoen honderdenzevenduizend zeshonderdtachtig euro zesentwintig cent)”;<br>
+2° in punt 3° wordt de zinsnede “1.264.455,37 euro (een miljoen tweehonderdvierenzestigduizend vierhonderdvijfenvijftig euro zevenendertig cent)” vervangen door de zinsnede “1.377.279,66 euro (een miljoen driehonderdzevenenzeventigduizend tweehonderdnegenzeventig euro zesenzestig cent)”;<br>
+3° in punt 4° wordt de zinsnede “1.542.849,61 euro (een miljoen vijfhonderdtweeënveertigduizend achthonderdnegenenveertig euro eenenzestig cent)” vervangen door de zinsnede “1.663.047,60 euro (een miljoen zeshonderddrieënzestigduizend zevenenveertig euro zestig cent)”;<br>
+4° in punt 5° wordt de zinsnede “1.403.722,21 euro (een miljoen vierhonderdendrieduizend zevenhonderdtweeëntwintig euro eenentwintig cent)” vervangen door de zinsnede “1.516.546,51 euro (een miljoen vijfhonderdzestienduizend vijfhonderdzesenveertig euro eenenvijftig cent)”;<br>
+5° in punt 6° wordt de zinsnede “1.411.394,60 euro (een miljoen vierhonderdelfduizend driehonderdvierennegentig euro zestig cent)” vervangen door de zinsnede “1.524.218,89 euro (een miljoen vijfhonderdvierentwintigduizend tweehonderdachttien euro negenentachtig cent)”.
+
 ## Hoofdstuk 3. Slotbepalingen
+
+### ART 9.
+
+Artikel 7 heeft uitwerking met ingang van 1 januari 2024.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
