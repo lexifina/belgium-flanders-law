@@ -59,7 +59,7 @@ De scholen voor buitengewoon onderwijs opgenomen in bijlage 2 betrekken in de le
 
 ### ART 3.
 
-De subsidie, vermeld in artikel 1, heeft betrekking op de periode van 19 december 2022 tot en met 30 november 2024.
+De subsidie, vermeld in artikel 1, heeft betrekking op de periode van 19 december 2022 tot en met 31 augustus 2025.
 
 ### ART 4.
 
@@ -70,13 +70,13 @@ Door de realisatie van het project vermeld in artikel 2, wordt bijgedragen tot d
 ### ART 5.
 
 1° Een eerste schijf van 80 % wordt uitbetaald na de goedkeuring van dit besluit en de vastlegging van de middelen;<br>
-2° Het saldo van de subsidie kan pas betaald worden na de goedkeuring door de bevoegde afdeling van het eindverslag, zoals vermeld in artikel 6§1 en na de voorlegging van een financieel verslag waaruit blijkt dat de uitgaven zijn gedaan binnen de periode, vermeld in artikel 3. De begunstigde stelt deze stukken uiterlijk op 1 maart 2025 digitaal ter beschikking van de afdeling Horizontaal Beleid;<br>
+2° Het saldo van de subsidie kan pas betaald worden na de goedkeuring door de bevoegde afdeling van het eindverslag, zoals vermeld in artikel 6§1 en na de voorlegging van een financieel verslag waaruit blijkt dat de uitgaven zijn gedaan binnen de periode, vermeld in artikel 3. De begunstigde stelt deze stukken uiterlijk op 31 oktober 2025 digitaal ter beschikking van de afdeling Horizontaal Beleid;<br>
 3° De verantwoordingsstukken moeten worden ingediend conform de richtlijnen van het departement Onderwijs en Vorming;<br>
 4° De subsidie wordt overgeschreven op de rekeningnummers van de pedagogische begeleidingsdiensten en de onderwijsinstellingen waarvan de gegevens zijn opgenomen in bijlage 1 en 2 bij dit besluit.
 
 ### ART 6.
 
-§1. De begunstigden leveren uiterlijk op 1 maart 2025 een gezamenlijk eindverslag op van het project. Dit bevat een gedetailleerde omschrijving van de uitvoering van het project en een samenvatting van de belangrijkste bevindingen. De subsidieverstrekker kan vrij beschikken over het eindverslag en kan alle gegevens die in het kader van de opdracht zijn aangemaakt of verzameld, opvragen op een geïnformatiseerde/elektronische drager.&nbsp;<br>
+§1. De begunstigden leveren uiterlijk op 31 oktober 2025 een gezamenlijk eindverslag op van het project. Dit bevat een gedetailleerde omschrijving van de uitvoering van het project en een samenvatting van de belangrijkste bevindingen. De subsidieverstrekker kan vrij beschikken over het eindverslag en kan alle gegevens die in het kader van de opdracht zijn aangemaakt of verzameld, opvragen op een geïnformatiseerde/elektronische drager.&nbsp;<br>
 <br>
 §2. De begunstigden dienen uiterlijk op 30 september 2023 een tussentijds verslag in. Het tussentijds verslag bevat een omschrijving van de voortgang van het project, met aanduiding van successen en knelpunten met het oog op een verdere optimalisering van het project gedurende het tweede projectjaar. In het tussentijds verslag geven de begunstigden ook aan hoe ze hebben afgestemd met andere initiatieven in het kader van leersteun.&nbsp;<br>
 <br>

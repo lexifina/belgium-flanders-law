@@ -2,16 +2,16 @@
   "codex_id": 1037995,
   "title": "Besluit van de Vlaamse Regering van 2022-12-16 tot professionalisering van het buitengewoon onderwijs in het kader van leersteun",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037995/VolledigDocument?datum=2023-03-25",
-  "source_sha256": "d6ab5f4973ab8e7768a77c05d735d709c4323c75c53ed31c60060dce600ef37d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037995/VolledigDocument?datum=2024-08-11",
+  "source_sha256": "c136303dd4f251fdff7688f5197835a6414a4a6f1d727c22d07227bd12002ac8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037995&param=informatie",
-  "as_of": "2023-03-25",
+  "as_of": "2024-08-11",
   "made": "2022-12-16",
   "gazette": "2023-03-15",
   "numac": 2023010136,
   "document_start": "2023-03-25",
   "document_end": null,
-  "in_force": "2023-03-25",
+  "in_force": "2024-08-11",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2023-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-11; future article versions excluded; article text as the API gives it"
 }
