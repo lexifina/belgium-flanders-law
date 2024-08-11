@@ -92,15 +92,14 @@ Als de algemene kamer vaststelt dat niet conform de zendvergunning wordt uitgezo
 
 ### ART. 19.
 
-Aanvragen voor erkenningen of vergunningen en kennisgevingen worden in het Nederlands ingediend en worden ondertekend door de aanvrager. Als het gaat om een rechtspersoon, worden ze ondertekend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.<br /><br />
+Aanvragen voor vergunningen en kennisgevingen worden in het Nederlands ingediend en worden ondertekend door de aanvrager. Als het gaat om een rechtspersoon, worden ze ondertekend door een persoon die volgens de wet of de statuten bevoegd is om de rechtspersoon te vertegenwoordigen.<br>
+&nbsp;
 
 ### ART. 20.
 
 § 1. Aanvragen of kennisgevingen die niet voldoen aan de ontvankelijkheidvoorwaarden, worden door de algemene kamer binnen vijfenveertig dagen na ontvangst door de Regulator, niet ontvankelijk verklaard. Vanaf de kennisgeving van die beslissing beschikt de aanvrager of kennisgever over vijftien dagen om de aanvraag te vervolledigen.<br>
 <br>
 § 2. Als een aanvraag voldoet aan de ontvankelijkheidvoorwaarden, neemt de algemene kamer een beslissing binnen zestig dagen na de ontvangst van de aanvraag, behalve indien ze van oordeel is dat een voorafgaand onderzoek door een andere instantie noodzakelijk is. In dat laatste geval begint de termijn van zestig dagen te lopen vanaf de dag waarop het onderzoeksrapport van de andere instantie bij de Regulator is afgeleverd. De aanvrager wordt hiervan op de hoogte gebracht.<br>
-<br>
-Voor de erkenningprocedures waarvoor de aanvragen voor een bepaalde datum moeten worden ingediend, gaat, in afwijking van het eerste lid, de termijn van zestig dagen in op de dag dat de aanvraag uiterlijk moet zijn ingediend.<br>
 <br>
 De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. Indien de aanvrager hiertoe verzoekt, moet hij door de algemene kamer worden gehoord.<br>
 <br>
@@ -181,7 +180,7 @@ Vergoedingen die op de vastgestelde vervaldatum niet zijn betaald, geven van rec
 
 ### ART. 34.
 
-§ 1. Om ontvankelijk te zijn, omvat de aanvraag tot erkenning van een regionale televisieomroeporganisatie :<br />1° de statuten zoals ze verschenen zijn in het Belgisch Staatsblad en een afschrift van de akte van oprichting;<br />2° een afschrift van de in de bijlagen van het Belgisch Staatsblad gepubliceerde lijst van de bestuurders met de vermelding van hun functie in de vereniging;<br />3° een opgave van de plaats waar de maatschappelijke zetel en de exploitatiezetel gelegen zijn;<br />4° een nota waarin de aanvrager zijn doelstellingen en werking nader omschrijft;<br />5° een gedetailleerd uitzendschema en programma-aanbod;<br />6° een opgave van het grafische logo, van de herkenningsmelodie, van de oorspronkelijke herkenningsbeelden, evenals alle andere identificatiegegevens. De herkenningsmelodie en -beelden worden in twee exemplaren op een courant beschikbare audiovisuele drager bezorgd;<br />7° een door elke bestuurder persoonlijk ondertekende verklaring dat hij geen bestuurder is van een andere vereniging die een regionale omroeporganisatie in eigendom heeft of beheert;<br />8° een nota waarin beschreven wordt op welke manier wordt voldaan aan de bepalingen van artikel 172 van het Mediadecreet en een door elke bestuurder persoonlijk ondertekende verklaring houdende opgave van de geregistreerde woon- of verblijfplaats en de uitgeoefende politieke mandaten, leidinggevende functies en functies van bestuurder, als vermeld in artikel 172 van het Mediadecreet;<br />9° een opgave van de samenstelling van de algemene vergadering van de vereniging samen met een nota waarin beschreven wordt op welke manier artikel 171, eerste lid, van het Mediadecreet wordt toegepast;<br />10° ...<br />11° een verklaring dat de vereniging slechts één regionale omroeporganisatie exploiteert;<br />12° een verklaring dat de regionale omroeporganisatie onafhankelijk is van een politieke partij, een beroepsvereniging of een organisatie met een commercieel doel;<br />13° een nota waarin beschreven wordt op welke manier de vereniging de journaals zal verzorgen en zal voldoen aan artikel 169, 9°, van het Mediadecreet, met inbegrip van het redactiestatuut;<br />14° een nota waarin wordt beschreven op welke manier voldaan zal worden aan artikel 165 en 169, 7° en 8°, van het Mediadecreet;<br />15° als de regionale omroeporganisatie wil uitzenden in een andere taal dan het Nederlands, een nota waarin dat voornemen wordt toegelicht en waarin nauwkeurig het aantal uitzendingen en de duur van de uitzendingen in een vreemde taal worden aangegeven;<br />16° een opgave van het beoogde zendgebied weergegeven op kaart (minimale schaal 1/25 000) met aanduiding van de hoofdstations van de kabelnetwerken waarlangs de omroepprogramma's verdeeld zullen worden;<br />17° een beleidsnota van de vereniging betreffende het beheer, de financiering, inzonderheid de reclame- en sponsoringwerving, de exploitatie en eventueel de samenwerking met een landelijke omroeporganisatie;<br />18° een gedetailleerd financieringsplan.<br /><br />§ 2. De aanvragen tot erkenning kunnen enkel worden ingediend voor de vrijliggende zendgebieden en na een oproep in het Belgisch Staatsblad door de algemene kamer. Die oproep vermeldt de voorwaarden van de erkenningaanvragen.<br /><br />§ 3. Elke latere wijziging van deze informatie wordt zonder verwijl aan de Regulator meegedeeld.<br /><br />
+...
 
 ## Afdeling III [Procedure inzake zendvergunningen voor landelijke, [... (opgeh. BVR 2 juli 2021, art. 5, I: 1 januari 2023)] [netwerk- (ing. BVR 21 april 2017, art. 36, I: 9 mei 2017)] of lokale radio-omroeporganisaties (verv. BVR 29 januari 2010, art. 18)]
 
@@ -208,8 +207,7 @@ Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<
 
 ### ART. 38.
 
-In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verlenging van een bestaande erkenning van een&nbsp;regionale televisieomroeporganisatie van het werkings- en financieel verslag van het voorafgaande kalenderjaar gevoegd zijn, aangevuld met de stukken die een wijziging inhouden ten opzichte van die verslagen, en die nog niet aan de Regulator werden meegedeeld.<br>
-&nbsp;
+...
 
 ### ART. 39.
 
@@ -250,13 +248,49 @@ Om ontvankelijk te zijn, omvat de kennisgeving van de dienstenverdeler die in de
 
 ### ART. 42quinquies.
 
-Om ontvankelijk te zijn, omvat de kennisgeving van aanbieders van kabelomroepnetwerken de identificatie van de rechtspersoon.
+De kennisgeving van aanbieders van kabelomroepnetwerken is ontvankelijk als ze al de volgende gegevens bevat:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de identificatie van de rechtspersoon;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een contactpersoon en contactgegevens;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;een korte beschrijving van de aan te bieden kabelomroepnetwerken;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de datum waarop de activiteiten vermoedelijk van start gaan.
+
+### ART 42quinquies/1.
+
+De kennisgeving van aanbieders van videoplatformdiensten is ontvankelijk als ze al de volgende gegevens en documenten bevat:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een opgave van de plaats waar de maatschappelijke zetel, de exploitatiezetel en het hoofdkantoor liggen, en ook van de plaats waar het personeel werkt;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de statuten zoals ze in voorkomend geval zijn verschenen in het Belgisch Staatsblad, en een afschrift van de oprichtingsakte;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;een duidelijke omschrijving van de dienst die wordt geleverd;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;een duidelijke omschrijving van de genomen maatregelen, vermeld in artikel 176/4 tot en met 176/7 van het Mediadecreet.<br>
+<br>
+Indien nodig kan de Vlaamse Regulator voor de Media &nbsp;bijkomende informatie opvragen bij de aanbieders van videoplatformdiensten ten einde de bevoegdheid van de Vlaamse Gemeenschap na te gaan
 
 ## [HOOFDSTUK IIIbis Raadplegingen (ing. BVR 29 januari 2010, art. 22)]
 
 ### ART. 42sexies.
 
-De Regulator kondigt de organisatie van raadplegingen als vermeld in artikel 192, § 3, van het Mediadecreet aan door een bericht te publiceren op zijn website.<br /><br />Het bericht bevat het voorwerp van de raadpleging. Een kopie van dat bericht wordt gelijktijdig door de Regulator via e-mail meegedeeld aan de onderneming bedoeld in artikel 192, § 1, van het Mediadecreet, en de instanties vermeld in artikel 192, § 3, van dit decreet.<br /><br />De duur van de raadpleging bedraagt maximaal twee maanden.
+§1. De Regulator kondigt de organisatie van raadplegingen als vermeld in artikel 192/14 van het Mediadecreet, aan via een nieuwsbericht op zijn website. De datum van de start van de voormelde raadpleging en de einddatum van de raadpleging worden vermeld.&nbsp;<br>
+<br>
+De Regulator deelt gelijktijdig met de aankondiging vermeld in het eerste lid, een kopie van het nieuwsbericht, vermeld in het eerste lid, via e-mail mee aan de onderneming die door de ontwerpbeslissing wordt geviseerd.&nbsp;<br>
+<br>
+Overeenkomstig artikel 192/14, eerste lid, van het voormelde decreet duurt de voormelde raadpleging minstens dertig dagen, behalve in uitzonderlijke omstandigheden als vermeld in artikel 192/14, derde lid, van het voormelde decreet.<br>
+<br>
+Bij de start van de voormelde raadpleging wordt de ontwerpbeslissing van de Regulator bekendgemaakt via de website van de Regulator.&nbsp;<br>
+<br>
+§2. De input van belanghebbende partijen, in het kader van de raadpleging, vermeld in paragraaf 1, voldoet aan al de volgende voorwaarden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de input wordt uitsluitend via e-mail op het adres vrm@vlaanderen.be bezorgd;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;het onderwerpsveld van de e-mail, vermeld in punt 1°, bevat op welke ontwerpbeslissing de input betrekking heeft;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de e-mail, vermeld in punt 1°, bevat de naam, het adres, het telefoonnummer, het e-mailadres, de hoedanigheid en de eventuele naam van het bedrijf of de organisatie;<br>
+4°&nbsp;&nbsp; &nbsp;de input heeft betrekking op het voorwerp van de voormelde raadpleging, namelijk de ontwerpbeslissing in kwestie.&nbsp;<br>
+<br>
+Input die niet voldoet aan al de voorwaarden, vermeld in het eerste lid, wordt niet in aanmerking genomen voor verdere overweging in het kader van de betreffende ontwerpbeslissing.&nbsp;<br>
+<br>
+Bij de input wordt duidelijk aangegeven welke onderdelen vertrouwelijk zijn. Belanghebbenden bezorgen ook een openbare, niet-vertrouwelijke versie van de input aan de Regulator, met het oog op de bekendmaking door de Regulator in het rapport als vermeld in paragraaf 3, tweede lid, tweede zin.&nbsp;<br>
+<br>
+§3. De Regulator verwerkt de resultaten van de raadplegingsprocedure, vermeld in paragraaf 1 en 2, in een rapport. Het rapport bevat het voorwerp van de voormelde raadplegingsprocedure en het aantal belanghebbenden dat input conform paragraaf 2 heeft bezorgd. Het rapport is een samenvatting van de voormelde input en omvat niet alle individuele commentaren.&nbsp;<br>
+<br>
+De Regulator stelt het rapport, vermeld in het eerste lid, op binnen acht weken nadat de voormelde raadplegingsprocedure is afgesloten. Het rapport wordt bekendgemaakt via de website van de Regulator en wordt gelijktijdig door de Regulator via e-mail meegedeeld aan de onderneming die door de ontwerpbeslissing wordt geviseerd, met inachtneming van de regels over de vertrouwelijkheid van de bedrijfsgegevens en over de bescherming van persoonsgegevens.&nbsp;<br>
+<br>
+§4. De Regulator publiceert zijn ontwerpbeslissing, zoals eventueel gewijzigd na de openbare raadpleging, vermeld in paragraaf 1, 2 en 3, op zijn website.
 
 ### ART. 42septies.
 
