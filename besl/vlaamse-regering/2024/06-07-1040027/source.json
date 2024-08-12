@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040027,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-07 tot vaststelling van de inrichtingsnota ‘Instandhoudingsmaatregelen foerageergebied Bruine Kiekendief voor het Vogelrichtlijngebied ‘BE23013336 Schorren en Polders van de Beneden-Schelde’’",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040027/VolledigDocument?datum=2024-08-12",
+  "source_sha256": "b32e6cf2c2eca2584804304efc9639f5dd7a4a23dd8d1b2b1b03dd4e9eda03fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040027&param=informatie",
+  "as_of": "2024-08-12",
+  "made": "2024-06-07",
+  "gazette": "2024-08-02",
+  "numac": 2024007337,
+  "document_start": "2024-08-12",
+  "document_end": null,
+  "in_force": "2024-08-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
