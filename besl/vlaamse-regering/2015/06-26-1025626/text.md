@@ -70,18 +70,22 @@ Een   huisartsenkring is verplicht om elke huisarts, die wenst toe te treden tot
 5° stimuleert en optimaliseert een huisartsenkring gegevensuitwisseling die noodzakelijk is om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de huisartsen onderling en tussen de huisartsen en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod;<br>
 6° organiseert een huisartsenkring de huisartspraktijkpermanentie : de huisartsgeneeskunde is beschikbaar voor de patiënten van één of meer praktijken;<br>
 7° werkt een huisartsenkring mee aan de organisatie binnen de eerstelijnszones van de profylaxe tegen besmettelijke aandoeningen, zowel binnen de reguliere zorg als in het kader van een pandemie die afgekondigd is door de Wereldgezondheidsorganisatie;<br>
-8° rapporteert de huisartsenkring jaarlijks aan de administratie over het totale aantal actieve huisartsen en huisartsen in opleiding in zijn werkingsgebied, met het oog op het nemen van beleidsmaatregelen om de huisartsengeneeskunde en de eerstelijnszorg te versterken. In het kader van die opdracht worden de volgende gegevens bezorgd:<br>
-a)&nbsp;&nbsp; &nbsp;de voor- en achternaam van de huisarts;<br>
-b)&nbsp;&nbsp; &nbsp;het beroepsadres van de huisarts;<br>
-c)&nbsp;&nbsp; &nbsp;de samenstelling van de huisartsenpraktijk met een overzicht van het aantal disciplines en het tewerkstellingspercentage van de verschillende disciplines;<br>
-d)&nbsp;&nbsp; &nbsp;de volgende aanvullende gegevens van de praktijk als dat van toepassing is: de praktijknaam, de praktijkwebsite en het praktijkmailadres;<br>
-e)&nbsp;&nbsp; &nbsp;een overzicht van de huisartsenpraktijken met een patiëntenstop, met de vermelding van de aard en de duur van die patiëntenstop;<br>
-f)&nbsp;&nbsp; &nbsp;de demografische leeftijdsverdeling van de actieve huisartsen in het werkingsgebied.<br>
-de administratie is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens vermeld in punt a) tot en met f). De persoonsgegevens, vermeld in punt a) tot en met f), worden door de administratie bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.<br>
+8° rapporteert de huisartsenkring jaarlijks aan de administratie over het totale aantal actieve huisartsen en huisartsen in opleiding in zijn werkingsgebied. In het kader van die opdracht worden de volgende gegevens bezorgd:<br>
+a)&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens van de actieve huisarts of huisarts in opleiding en van de praktijk waarin die werkt:<br>
+1)&nbsp;&nbsp; &nbsp;het e-mailadres van de actieve huisarts of de huisarts in opleiding;<br>
+2)&nbsp;&nbsp; &nbsp;het adres van de praktijk;<br>
+3)&nbsp;&nbsp; &nbsp;het e-mailadres van de contactpersoon van de praktijk;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer van de actieve huisarts of huisarts in opleiding.<br>
 <br>
 In het eerste lid, 8°, wordt verstaan onder:<br>
 1°&nbsp;&nbsp; &nbsp;huisarts in opleiding: een arts die een theoretische en praktische opleiding tot de specialisatie huisarts volgt bij een stagemeester die daarvoor erkend is conform een goedgekeurd stageplan;<br>
-2°&nbsp;&nbsp; &nbsp;actieve huisarts: een erkende huisarts die effectief praktijk voert als huisarts in de huisartsenzone.
+2°&nbsp;&nbsp; &nbsp;actieve huisarts: een erkende huisarts die effectief praktijk voert als huisarts in de huisartsenzone.<br>
+<br>
+De gegevens, vermeld in het eerste lid, 8°, worden aan de administratie bezorgd voor de doeleinden, vermeld in artikel 23, §1, eerste lid, 2° en 3°, van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders. De huisartsenkring bewaart de persoonsgegevens voor het voormelde doeleinden tot maximaal drie maanden nadat de gegevens aan de administratie zijn bezorgd.<br>
+<br>
+De erkenningsvoorwaarde, vermeld in het eerste lid, 8°, is niet van toepassing op de huisartsenkring die het tweetalige gebied Brussel-Hoofdstad als werkgebied heeft.<br>
+&nbsp;
 
 ## Onderafdeling 2 Voorwaarden om erkend te blijven
 
