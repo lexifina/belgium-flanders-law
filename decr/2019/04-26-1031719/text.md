@@ -324,20 +324,67 @@ De Vlaamse Regering bepaalt in voorkomend geval de nadere regels voor de subsidi
 
 ### ART 23.
 
-In het zorg- en ondersteuningsplan, dat wordt opgesteld overeenkomstig artikel 6, § 1, worden volgende persoonsgegevens, inclusief gegevens over gezondheid, van de persoon met een zorg en ondersteuningsvraag verwerkt:<br>
-1° persoonsgegevens voor de identificatie van de persoon met een zorg- en ondersteuningsvraag;<br>
-2° de relevante gegevens over de gezondheid van de persoon met een zorg- en ondersteuningsvraag;<br>
-3° de gegevens over de te verlenen zorg en ondersteuning;<br>
-4° de persoonsgegevens voor de identificatie van de zorgaanbieders, die bij de zorg en ondersteuning rond de persoon met een zorg- en ondersteuningsvraag betrokken zijn;<br>
-5° de persoonsgegevens die verband houden met de sociale situatie of de welzijnscontext van de persoon met een zorg- en ondersteuningsvraag.<br>
+§1. De bevoegde dienst die de Vlaamse Regering aanwijst, verzamelt persoonsgegevens over de eerstelijnszorgaanbieders die in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad werken. De voormelde gegevens worden verzameld voor de volgende doeleinden:<br>
+1° de afhandeling en controle van de financiering om de eerstelijnszorgaanbieders en de interdisciplinaire samenwerking in de praktijkvoering te ondersteunen, vermeld in artikel 8;<br>
+2° het nemen van beleidsmaatregelen om de eerstelijnszorg te versterken;<br>
+3° het contacteren van de eerstelijnszorgaanbieders om hen een bevraging te laten invullen die het aanbod van de eerstelijnszorg in het Nederlandse taalgebied in kaart brengt;<br>
+4° als de eerstelijnszorgaanbieder daarmee instemt, het contacteren van de eerstelijnszorgaanbieder met het oog op crisiscommunicatie en informatiecampagnes van de Vlaamse overheid.<br>
 <br>
-De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, de lijst van persoonsgegevens, vermeld in het eerste lid, inclusief de gegevens over gezondheid, nader preciseren.<br>
+In het eerste lid wordt verstaan onder Vlaamse overheid: de Vlaamse Gemeenschap en het Vlaamse Gewest, inclusief de instellingen die daaronder vallen.<br>
+&nbsp;<br>
+§2. Voor het doeleinde, vermeld in paragraaf 1, 1°, verwerkt de bevoegde dienst die de Vlaamse Regering aanwijst, de volgende persoonsgegevens van de eerstelijnszorgaanbieders die actief zijn in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad en die een financiering als vermeld in artikel 8, aanvragen:<br>
+1° de identificatiegegevens van de aanvrager, met inbegrip van het RIZIV-nummer en het INSZ-nummer;<br>
+2° de contactgegevens van de aanvrager;<br>
+3° de volgende gegevens over de praktijk waarin de aanvrager werkt:<br>
+a) het adres;<br>
+b) het KBO-nummer;<br>
+c) het aanbod en de aanwezige disciplines;<br>
+d) het aantal tewerkgestelden en hun tewerkstellingsgraad;<br>
+e) het gehanteerde vergoedingssysteem;<br>
+4° het bankrekeningnummer van de aanvrager;<br>
+5° de erkenningsdatum als gezondheidszorgbeoefenaar van de aanvrager;<br>
+6° in voorkomend geval, de datum van terugkeer naar België als de aanvrager gedurende meer dan een jaar actief was in het buitenland;<br>
+7° de documenten en de gegevens die bewijzen dat de aanvrager voldoet aan de voorwaarden om een financiering te ontvangen;<br>
+8° als de financiering wordt verleend in de vorm van een lening: de burgerlijke staat van de aanvrager en, als de aanvrager getrouwd of wettelijk samenwonend is, de identificatiegegevens, met inbegrip van het INSZ-nummer, van de partner van de aanvrager;<br>
+9° de identificatiegegevens, met inbegrip van het INSZ-nummer, en de tewerkstellingsgegevens van de werknemer of werknemers die de aanvragers in hun praktijk tewerkstellen.<br>
 <br>
-De gegevens, vermeld in het eerste lid, worden verwerkt om over de nodige informatie te beschikken voor het aanbieden van de zorg en ondersteuning aan de persoon met een zorg- en ondersteuningsvraag, zodat de zorg en ondersteuning die verleend wordt door de verschillende zorgaanbieders van het zorgteam op elkaar kan worden afgestemd, rekening houdende met de evoluerende zorg- en ondersteuningsdoelen en zodat die zorg en ondersteuning kan worden opgevolgd en worden bijgestuurd waar nodig.<br>
+Voor het doeleinde, vermeld in paragraaf 1, 2°, verwerkt de bevoegde dienst die de Vlaamse Regering aanwijst, de volgende persoonsgegevens van de eerstelijnszorgaanbieders die actief zijn in het Nederlandse taalgebied:<br>
+1° de identificatiegegevens van de eerstelijnszorgaanbieder, met inbegrip van het RIZIV-nummer;<br>
+2° de volgende gegevens over de praktijk waarin de eerstelijnszorgaanbieder werkt:<br>
+a) het adres;<br>
+b) de praktijkvorm;<br>
+c) het gehanteerde vergoedingssysteem;<br>
+d) het aanbod, de aanwezige disciplines en de tewerkstellingsgraad van de verschillende disciplines;<br>
+e) de geografische afbakening;<br>
+f)&nbsp; de gegevens over de werklast binnen de praktijk;<br>
+g) de gegevens over het al dan niet invoeren van een beperking op de toegankelijkheid van de praktijk;<br>
+h) de gegevens over de continuïteit van de zorg in de praktijk;<br>
+i)&nbsp; de gegevens over een uitbreiding van de capaciteit van de praktijk;<br>
+3° het geboortejaar van de eerstelijnszorgaanbieder;<br>
+4° de gegevens over het beroep en het statuut van de eerstelijnszorgaanbieder;<br>
+5° de gegevens over de werklast van de eerstelijnszorgaanbieder, de ervaren werkdruk en het welzijn van de eerstelijnszorgaanbieder bij het uitoefenen van zijn werk.<br>
 <br>
-Iedere zorgaanbieder die deel uitmaakt van het zorgteam is verwerkingsverantwoordelijke voor de gegevens die hij in het zorg- en ondersteuningsplan opneemt. De zorgaanbieders van het zorgteam duiden onder elkaar een lid aan die ten aanzien van de persoon met een zorg- en ondersteuningsvraag optreedt als contactpersoon voor de uitoefening van zijn rechten, vermeld artikel 12 tot en met 23 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+Voor de doeleinden, vermeld in paragraaf 1, 3° en 4°, verwerkt de bevoegde dienst die de Vlaamse Regering aanwijst, de volgende persoonsgegevens van de eerstelijnszorgaanbieders die actief zijn in het Nederlandse taalgebied:<br>
+1° de voor- en achternaam van de eerstelijnszorgaanbieder;<br>
+2° de contactgegevens van de eerstelijnszorgaanbieder en van zijn praktijk.<br>
+&nbsp;<br>
+De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming, de persoonsgegevens, vermeld in het eerste tot en met derde lid, nader preciseren.<br>
 <br>
-Het zorg- en ondersteuningsplan wordt bewaard gedurende een termijn van dertig jaar vanaf de laatste aanpassing van het zorg- en ondersteuningsplan in kwestie.
+§3. De bevoegde dienst die de Vlaamse Regering aanwijst, bewaart de persoonsgegevens, vermeld in paragraaf 2, eerste lid, maximaal tien jaar na de datum van de toekenning van de financiering, vermeld in artikel 8, of, als het een lening betreft, na de datum waarop de laatste afbetaling heeft plaatsgevonden.<br>
+<br>
+De bevoegde dienst die de Vlaamse Regering aanwijst, bewaart de persoonsgegevens, vermeld in paragraaf 2, tweede lid, maximaal tien jaar na de datum waarop die gegevens zijn ontvangen.<br>
+<br>
+De bevoegde dienst die de Vlaamse Regering aanwijst, bewaart de persoonsgegevens, vermeld in paragraaf 2, derde lid, maximaal achttien maanden.<br>
+<br>
+§4. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens, vermeld in paragraaf 2.<br>
+<br>
+§5. De persoonsgegevens, vermeld in paragraaf 2, tweede lid, worden bezorgd aan de zorgraden, partnerorganisaties en organisaties met terreinwerking als die gegevens noodzakelijk zijn om hun taken te vervullen om initiatieven te nemen voor de versterking van de eerstelijnszorg.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, zijn, waar mogelijk, geanonimiseerd of gepseudonimiseerd. Als pseudonimisering of anonimisering van de persoonsgegevens onmogelijk is of niet geschikt is om de doeleinden, vermeld in het eerste lid, te bereiken, worden die gegevens altijd tot het noodzakelijke beperkt.<br>
+<br>
+§6. Voor de toepassing van dit artikel neemt het departement, vermeld in paragraaf 4, passende technische en organisatorische maatregelen conform artikel 32 van de algemene verordening gegevensbescherming om een beveiligingsniveau te waarborgen dat op het risico afgestemd is.<br>
+<br>
+In het kader van de toepassing van dit artikel voldoet het departement, vermeld in paragraaf 4, aan de principes van gegevensbescherming door ontwerp en door standaardinstellingen, vermeld in artikel 25 van de algemene verordening gegevensbescherming.
 
 ## HOOFDSTUK 11. Verantwoordingsplicht en toezicht
 
