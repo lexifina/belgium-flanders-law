@@ -2,16 +2,16 @@
   "codex_id": 1037471,
   "title": "Ministerieel besluit van 2022-10-06 tot bepaling van het reglement voor de toekenning van de Vlaamse Sportjuwelen door de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037471/VolledigDocument?datum=2022-10-05",
-  "source_sha256": "898568c68c7fc269e37e0c9908dd86dc4743194d61adeb0f4b432edc9d7c2ceb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037471/VolledigDocument?datum=2024-08-15",
+  "source_sha256": "ef9303e01ff9adafc05ff6ab943da80620a819c18589612f3be4a3c8a364c993",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037471&param=informatie",
-  "as_of": "2022-10-05",
+  "as_of": "2024-08-15",
   "made": "2022-10-06",
   "gazette": "2022-10-17",
   "numac": 2022033723,
   "document_start": "2022-10-05",
   "document_end": null,
-  "in_force": "2022-10-05",
+  "in_force": "2024-08-15",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-15; future article versions excluded; article text as the API gives it"
 }

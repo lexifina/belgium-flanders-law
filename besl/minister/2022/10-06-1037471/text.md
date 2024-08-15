@@ -65,18 +65,22 @@ Het Vlaams Sportjuweel voor de beste Topsportversterker wordt toegekend aan de k
 
 § 1. Het Vlaams Sportjuweel voor het Warmste Sportinitiatief wordt toegekend aan een non-profitorganisatie (vzw, lokaal bestuur,..), behorend tot de Vlaamse Gemeenschap, die met een sportinitiatief haar maatschappelijke rol benadrukt en daarbij vooral rekening houdt met de lokale context waarin ze actief is. Het Warmste Sportinitiatief is een initiatief waarbij sport of een sportorganisatie mensen op een originele manier samenbrengt, het sociale weefsel versterkt en de sociale mobiliteit bevordert.<br>
 <br>
-.Bij de beoordeling wordt rekening gehouden met de volgende criteria:<br>
+Bij de beoordeling wordt rekening gehouden met de volgende criteria:<br>
 1° het initiatief versterkt de lokale verankering;<br>
 2° het initiatief is duurzaam in de tijd doordat het verankerd is in de werking van de initiatiefnemer én in de lokale gemeenschap in kwestie;<br>
 3° het initiatief richt zich tot een ruimere doelgroep dan haar reguliere en vaste deelnemers, leden of werking;<br>
 4° het initiatief is duidelijke gekoppeld aan sportparticipatie in georganiseerd, anders georganiseerd of niet-georganiseerd verband;<br>
-5° het initiatief heeft oog voor de verschillende doelgroepen uit haar omgeving.<br>
+5° het initiatief heeft oog voor de verschillende doelgroepen uit haar omgeving;<br>
+<strong>6° </strong>het initiatief werkt inspirerend naar andere sportinitiatieven toe doordat het originele aspecten bevat die andere sportinitiatieven kunnen implementeren in de verdere uitbouw van hun werking.<br>
 <br>
-§ 2. Kandidaturen voor het Vlaams Sportjuweel voor het Warmste Sportinitiatief worden ingediend door de non-profitorganisaties via het participatieplatform van Sport Vlaanderen. Op basis van het hoogste aantal stemmen via het participatieplatform van Sport Vlaanderen zal een top tien worden beslist. Uit deze tien initiatieven selecteert een jury, zoals vermeld in artikel 7, § 2, op basis van de criteria, vermeld in paragraaf 1, tweede lid, drie initiatieven voor de volgende stemronde.<br>
+§2. Kandidaturen voor het Vlaams Sportjuweel voor het Warmste Sportinitiatief worden ingediend door de non-profitorganisaties via een website van Sport Vlaanderen. De initiatieven worden gerangschikt op basis van het hoogste aantal stemmen dat via die website van Sport Vlaanderen werd behaald.<br>
 <br>
-Via publieke stemming wordt deze top drie beoordeeld in de week voor de toekenning.<br>
+De selectie en beoordeling voor het Vlaams Sportjuweel voor het Warmste Sportinitiatief gebeurt op volgende wijze:<br>
+1° de vakjury, zoals vermeld in artikel 7, §2, selecteert op basis van de criteria, vermeld in paragraaf 1, tweede lid, drie genomineerden: de vakjury selecteert uit de tien best gerangschikte initiatieven, vermeld in het eerste lid, minstens twee initiatieven. De vakjury kan één initiatief selecteren uit de ingediende kandidaturen die niet behoren tot de tien best gerangschikte initiatieven op basis van het aantal stemmen, vermeld in het eerste lid. De vakjury motiveert haar selectie op basis van de criteria, vermeld in paragraaf 1, tweede lid;<br>
+2° de vakjury beoordeelt vervolgens de top drie, vermeld in punt 1°. Elk jurylid kent anoniem een score van 3, 2 of 1 punt(en) toe aan het initiatief dat het jurylid respectievelijk als eerste, tweede of derde rangschikt. Die scores worden samengeteld en bepalen de punten, toegekend door de vakjury. De punten, toegekend door de vakjury, gelden voor twee derde van de totaalscore;<br>
+3° via publieke stemming wordt de top drie, vermeld in punt 1°, beoordeeld in de week voor de toekenning van het Vlaams Sportjuweel voor het Warmste Sportinitiatief. De punten, toegekend door het publiek, gelden voor een derde van de totaalscore.<br>
 <br>
-Het Vlaams Sportjuweel voor het Warmste Sportinitiatief wordt toegekend aan het initiatief dat op basis van de publieke stemming de eerste plaats bekleedt. Het Vlaams Sportjuweel voor het Warmste Sportinitiatief wordt uitgereikt door de Vlaamse minister, bevoegd voor de sport.
+Het Vlaams Sportjuweel voor het Warmste Sportinitiatief wordt toegekend aan het initiatief dat op basis van de selectie en beoordeling, vermeld in het tweede lid, de eerste plaats bekleedt na de gecumuleerde score van vakjury en publieke stemming. Het Vlaams Sportjuweel voor het Warmste Sportinitiatief wordt uitgereikt door de Vlaamse minister, bevoegd voor de sport.
 
 ### ART 7.
 
@@ -115,7 +119,7 @@ Sport Vlaanderen zorgt voor de praktische organisatie van de uitreiking van de V
 
 ### ART 11.
 
-Het ministerieel besluit van 19 oktober 2022 tot bepaling van het reglement voor de toekenning van Vlaamse Sportprijzen van de Vlaamse Gemeenschap wordt opgeheven.
+Het ministerieel besluit van 19 oktober 2021 tot bepaling van het reglement voor de toekenning van Vlaamse Sportprijzen van de Vlaamse Gemeenschap wordt opgeheven.
 
 ### ART 12.
 
