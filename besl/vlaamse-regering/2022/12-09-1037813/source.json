@@ -2,16 +2,16 @@
   "codex_id": 1037813,
   "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot ondersteuning van de eerstelijnszorgaanbieders en de interdisciplinaire samenwerking in de praktijkvoering en tot uitbreiding van de opdrachten van de huisartsenkringen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037813/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "03903404d3e696ccf61e7cc137e138f5b06b8ac171902851299890d99e620d40",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037813/VolledigDocument?datum=2024-08-15",
+  "source_sha256": "c8d592cefe493901f44ffdb6ff80a1d48bcf747760f648ddefedac31ba3354a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037813&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-08-15",
   "made": "2022-12-09",
   "gazette": "2022-12-29",
   "numac": 2022043124,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2024-08-15",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-15; future article versions excluded; article text as the API gives it"
 }

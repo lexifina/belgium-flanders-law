@@ -81,10 +81,7 @@ b) de volgende tewerkstellingsgegevens van de werknemer of werknemers waarvoor d
 Het formulier, vermeld in het eerste lid, wordt ondertekend door de aanvrager.&nbsp;<br>
 <br>
 Als het een aanvraag betreft van een renteloze lening als vermeld in artikel 6, §1, eerste lid, of een bijkomende renteloze lening als vermeld in artikel 7, §1, eerste lid, en de aanvrager gehuwd is, wordt het formulier eveneens ondertekend door de partner van de aanvrager.<br>
-<br>
-De administratie&nbsp;is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens in het kader van de verwerking en de opvolging van de aanvragen van een tegemoetkoming als vermeld in artikel 10, of een renteloze lening als vermeld in artikel 6 of 7.<br>
-<br>
-De persoonsgegevens, vermeld in het tweede lid, worden bewaard gedurende een termijn van maximaal 10 jaar, na de ontvangst van de ontvankelijke aanvraag.
+&nbsp;
 
 ### ART 3.
 
@@ -130,17 +127,11 @@ De organisatie of organisaties die conform paragraaf 1 worden aangewezen, houden
 
 ### ART 4.
 
-§1. Elke huisarts die in het kader van dit besluit tegemoetkomingen ontvangt, is verplicht om jaarlijks, voor 31 mei, aan&nbsp;de administratie al de volgende gegevens te bezorgen:<br>
-1° het beroepsadres van de praktijk;<br>
-2° de samenstelling van de praktijk met een overzicht van alle aanwezige disciplines;<br>
-3° per aanwezige discipline de aanduiding van het tewerkstellingsstatuut;<br>
-4° het gehanteerde financieringssysteem.<br>
+Om recht te hebben op een tegemoetkoming als vermeld in artikel 10 van dit besluit, of een renteloze lening als vermeld in artikel 6 of 7 van dit besluit, bezorgt de huisarts jaarlijks aan de administratie de gegevens, vermeld in artikel 23, §2, tweede lid, 2°, a) tot en met d), van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders, voor het doeleinde, vermeld in artikel 23, §1, eerste lid, 2°, van het voormelde decreet.<br>
 <br>
-De persoonsgegevens, vermeld in het eerste lid, worden door&nbsp;de administratie bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.<br>
+Het eerste lid is niet van toepassing op de huisartsen die niet actief zijn in het Nederlandse taalgebied.<br>
 <br>
-§2. De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bepaalt de technische modaliteiten van de wijze waarop de gegevens, vermeld in paragraaf 1, in samenwerking met de huisartsenkringen, aan&nbsp;de administratie worden bezorgd.<br>
-<br>
-De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan gegevens toevoegen aan de lijst, vermeld in paragraaf 1.
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan de technische modaliteiten bepalen van de wijze waarop de gegevens, vermeld in het eerste lid, aan de administratie worden bezorgd.
 
 ### ART 5.
 
@@ -182,12 +173,12 @@ Als een huisarts in opleiding zich niet installeert in het Nederlandse taalgebie
 
 Bij de aanvraag van een renteloze lening als vermeld in artikel 6, §1, eerste lid, van dit besluit, en bij de aanvraag van een bijkomende renteloze lening als vermeld in artikel 7, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken gevoegd:<br>
 1° voor de renteloze lening, vermeld in artikel 6, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan&nbsp;de administratie bezorgd:<br>
-a) de gegevens van de huisartsenpraktijk, vermeld in artikel 4, §1, van dit besluit;<br>
+a) de gegevens van de huisartsenpraktijk, vermeld in artikel 4, eerste lid, van dit besluit;<br>
 b) een omschrijving van de kosten die verbonden zijn aan de installatie van de huisarts. Die omschrijving wordt gestaafd met bewijsstukken die de huisarts ter beschikking houdt en die kunnen worden opgevraagd door de administratie;<br>
 c) een bewijs van toetreding tot de huisartsenkring die de huisartsenzone waar de betrokken huisarts praktijk voert, als werkgebied heeft, inclusief een verklaring van de huisartsenkring dat de aanvragende arts effectief praktijk voert;<br>
 d) een bewijs van de deelname van de betrokken huisarts aan de medische permanentie, vermeld in artikel 21 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, waarop de startdatum van de deelname aan die medische permanentie vermeld wordt;<br>
 2° voor de bijkomende renteloze lening, vermeld in artikel 7, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan&nbsp;de administratie bezorgd:<br>
-a) de gegevens van de huisartsenpraktijk, vermeld in artikel 4, §1, van dit besluit;<br>
+a) de gegevens van de huisartsenpraktijk, vermeld inartikel 4, eerste lid, van dit besluit;<br>
 b) een bewijs van toetreding tot de huisartsenkring die de huisartsenzone waar de betrokken huisarts praktijk voert, als werkgebied heeft, inclusief een verklaring van de huisartsenkring dat de aanvragende arts effectief praktijk voert;<br>
 c) het arbeidscontract dat is gesloten tussen de betreffende praktijk en een praktijkondersteuner of een praktijkverpleegkundige;<br>
 d) een overzicht van de verdeling van de kosten voor de bijkomende ruimte of bijkomende infrastructuur voor een praktijkondersteuner of een praktijkverpleegkundige en, als er verschillende huisartsen in de praktijk aanwezig zijn, de verdeling van de kosten tussen de aanwezige huisartsen.
