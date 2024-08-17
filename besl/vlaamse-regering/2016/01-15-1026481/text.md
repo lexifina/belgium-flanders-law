@@ -29,15 +29,12 @@ In dit besluit wordt verstaan onder :<br>
 ### ART. 3.
 
 <p>§ 1. Elke erkenningscommissie is samengesteld uit :<br>
-1° ten minste drie en maximaal vier leden die ten minste vijf jaar een paramedisch beroep uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-2° ten minste drie en maximaal vier leden die worden voorgedragen door de Vlaamse Universiteiten en Hogescholen Raad en die aan al de volgende voorwaarden voldoen:<br>
-a)&nbsp;&nbsp; &nbsp;ze oefenen een paramedisch beroep uit;<br>
-b)&nbsp;&nbsp; &nbsp;ze kunnen ten minste vijf jaar onderwijservaring in een universitaire instelling of een hogeschool bewijzen;<br>
-c)&nbsp;&nbsp; &nbsp;ze worden gekozen wegens hun bevoegdheid op het gebied waarmee de erkenningscommissie is belast.</p>
+1° ten minste twee en maximaal vier leden die ten minste vijf jaar een paramedisch beroep uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+2° ten minste twee en maximaal vier leden die ten minste vijf jaar ervaring in het beleidsdomein Onderwijs kunnen bewijzen en die gekozen zijn wegens hun bekwaamheid op het gebied waarmee de erkenningscommissie is belast. Ze worden voorgedragen vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Universiteiten en Hogescholen Raad.</p>
 
 <p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
-<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of door de Vlaamse Universiteiten en Hogescholen Raad. De secretaris-generaal benoemt dat vervangend lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
+<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Universiteiten en Hogescholen Raad. De secretaris-generaal benoemt dat vervangend lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
 
 <p>§ 3. Elke erkenningscommissie kiest uit haar leden een voorzitter en een ondervoorzitter.</p>
 
@@ -73,7 +70,7 @@ c)&nbsp;&nbsp; &nbsp;ze worden gekozen wegens hun bevoegdheid op het gebied waar
 
 ### ART. 6.
 
-<p>Als de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van een nieuw op te richten erkenningscommissie over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen of door de Vlaamse Universiteiten en Hogescholen Raad, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning als beoefenaar van een paramedisch beroep, tijdelijk toegewezen aan de administratie.</p>
+<p>Als de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van een nieuw op te richten erkenningscommissie over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen of vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Universiteiten en Hogescholen Raad, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning als beoefenaar van een paramedisch beroep, tijdelijk toegewezen aan de administratie.</p>
 
 <p>De administratie kan voor de uitvoering van de adviserende bevoegdheid om het even welke ambtenaar, expert of organisatie raadplegen of belasten met een adviesopdracht. De uiteindelijke beslissing over het te verlenen advies behoort toe aan de administratie.</p>
 
