@@ -34,21 +34,25 @@ In dit besluit wordt verstaan onder:<br>
 2°&nbsp;&nbsp; &nbsp;vier leden die houder zijn van een van de bijzondere beroepstitels in kwestie of die gemachtigd zijn zich op een van de bijzondere beroepsbekwaamheden in kwestie te beroepen als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit voorkomt in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde. Voor elke specialiteit zetelen maximaal twee leden in de erkenningscommissie;<br>
 3°&nbsp;&nbsp; &nbsp;vier leden die gemachtigd zijn zich op een bijzondere beroepsbekwaamheid te beroepen. Voor elke bijzondere beroepsbekwaamheid zetelen maximaal twee leden in de erkenningscommissie.<br>
 <br>
-De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, is samengesteld uit zes leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, is samengesteld uit minimaal vier en maximaal zes leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45, 46/1 en 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.<br>
 <br>
 De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, is samengesteld uit:<br>
-1°&nbsp;&nbsp; &nbsp;drie leden die over een definitieve registratie als zorgkundige beschikken;<br>
-2°&nbsp;&nbsp; &nbsp;drie leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, hebben.<br>
+1°&nbsp;&nbsp; &nbsp;minimaal twee en maximaal drie leden die over een definitieve registratie als zorgkundige beschikken;<br>
+2°&nbsp;&nbsp; &nbsp;minimaal twee en maximaal drie leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, hebben.<br>
 <br>
 §1/1. De erkenningscommissies, vermeld in paragraaf 1, kunnen uitgebreid worden met extra leden als bijkomende expertise nodig is of als de lijst vermeld in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde, wordt uitgebreid.<br>
 <br>
-§1/2. De leden van de erkenningscommissies, vermeld in paragraaf 1, eerste en tweede lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen.<br>
+§1/2. De leden van de erkenningscommissies, vermeld in paragraaf 1, eerste en tweede lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen of vanuit het beleidsdomein Onderwijs.<br>
 <br>
-De leden van de erkenningscommissie, vermeld in paragraaf 1, derde lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen en de zorgkundigen.</p>
+Leden die voorgedragen worden vanuit het beleidsdomein Onderwijs, hoeven niet te beschikken over een van de diploma's, titels of brevetten, vermeld in artikel 45, 46/1 of 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, of over een erkenning in een bijzondere beroepstitel of bijzondere beroepsbekwaamheid, maar mogen hun bekwaamheid ook aantonen op basis van ervaring in het beleidsdomein Onderwijs.<br>
+<br>
+De leden van de erkenningscommissie, vermeld in paragraaf 1, derde lid, worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen en de zorgkundigen of vanuit het beleidsdomein Onderwijs.<br>
+<br>
+Leden die voorgedragen worden vanuit het beleidsdomein Onderwijs, hoeven niet te beschikken over een van de diploma's, titels of brevetten, vermeld in artikel 45, 46/1 of 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, of over een registratie als zorgkundige, maar mogen hun bekwaamheid ook aantonen op basis van ervaring in het beleidsdomein Onderwijs.</p>
 
 <p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
-<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door de beroepsverenigingen en -organisaties. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
+<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door de beroepsverenigingen of vanuit het beleidsdomein Onderwijs. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
 
 <p>§ 3. Een lid kan in verschillende erkenningscommissies tegelijk zitten.</p>
 
@@ -60,19 +64,7 @@ De leden van de erkenningscommissie, vermeld in paragraaf 1, derde lid, worden v
 
 ### ART. 4.
 
-<p>&nbsp;§ 1. Het geheel van de voorzitters van de erkenningscommissies vormt het voorzitterscollege. Het college kiest voor het voorzitterschap van zijn vergaderingen uit zijn leden een voorzitter en een ondervoorzitter.</p>
-
-<p>§ 2. Het voorzitterscollege stelt een huishoudelijk reglement voor de erkenningscommissies op.</p>
-
-<p>Het voorzitterscollege regelt de werkzaamheden van de erkenningscommissies.</p>
-
-<p>§ 3. Het voorzitterscollege heeft als opdracht de problemen te bestuderen die regelmatig worden vastgesteld bij de behandeling van de aanvragen tot erkenning door de verschillende erkenningscommissies.</p>
-
-<p>Het voorzitterscollege kan een nota tot de secretaris-generaal richten met een advies en opmerkingen over de erkenningsprocedure&nbsp;voor de beoefenaars van de verpleegkunde,&nbsp;voor bijzondere beroepstitels of bijzondere beroepsbekwaamheden of de registratieprocedure als zorgkundige, of over de werking van de erkenningscommissies.</p>
-
-<p>§ 4. De secretaris-generaal kan aan het voorzitterscollege advies vragen in het kader van de opdracht, vermeld in paragraaf 3.</p>
-
-<p>§ 5. De functie van secretaris van het voorzitterscollege wordt waargenomen door een personeelslid van de administratie.</p>
+<p>...</p>
 
 ### ART. 5.
 
