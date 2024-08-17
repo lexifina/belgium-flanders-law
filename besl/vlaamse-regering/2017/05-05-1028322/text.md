@@ -39,12 +39,12 @@ De erkenningscommissie kan de administratie machtigen om voor bepaalde categorie
 ### ART 3.
 
 § 1. De erkenningscommissies is samengesteld uit:<br>
-1° drie leden-vroedvrouwen die sedert ten minste zeven jaar het beroep van vroedvrouw uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-2° drie leden-vroedvrouwen die ten minste zeven jaar onderwijservaring in een universitaire instelling of een hogeschool kunnen bewijzen. Ze worden voorgedragen door de Vlaamse Universiteiten en Hogescholen Raad.<br>
+1° minimaal twee en maximaal drie leden-vroedvrouwen die sedert ten minste vijf jaar het beroep van vroedvrouw uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+2° minimaal twee en maximaal drie leden-vroedvrouwen die ten minste vijf jaar ervaring in het beleidsdomein Onderwijs kunnen bewijzen. Ze worden voorgedragen vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Universiteiten en Hogescholen Raad.<br>
 <br>
 § 2. De leden van de erkenningscommissie worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.<br>
 <br>
-In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of door de Vlaamse Universiteiten en Hogescholen Raad. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.<br>
+In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Universiteiten en Hogescholen Raad. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.<br>
 <br>
 § 3. De erkenningscommissie kiest uit haar leden een voorzitter en een ondervoorzitter. Bij afwezigheid van de voorzitter en van de ondervoorzitter wordt de erkenningscommissie voorgezeten door het oudste lid in leeftijd.<br>
 <br>
