@@ -47,7 +47,7 @@ Binnen het Departement Zorg wordt een Vlaamse commissie voor de planning van het
 ### ART 3.
 
 § 1. De Vlaamse Planningscommissie is een adviesorgaan dat als taak heeft de Vlaamse Regering te adviseren over de volgende materies:<br>
-1° het aantal kandidaten dat toegang mag krijgen of toegang zou moeten krijgen tot opleidingen die leiden tot bijzondere beroepstitels of groepen van bijzondere beroepstitels, op basis van de statistische gegevens, de methodologie en de adviezen van de Planningscommissie Medisch aanbod;<br>
+1° het aantal kandidaten dat toegang mag krijgen of toegang zou moeten krijgen tot opleidingen die leiden tot bijzondere beroepstitels of groepen van bijzondere beroepstitels, onder meer op basis van de statistische gegevens, de methodologie en de adviezen van de Planningscommissie Medisch aanbod;<br>
 2° de behoeften in de Vlaamse Gemeenschap over het aantal actieve artsen en tandartsen.<br>
 <br>
 Bij de uitvoering van de adviestaak werkt de Vlaamse Planningscommissie de volgende adviezen uit:<br>

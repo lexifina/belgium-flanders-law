@@ -2,16 +2,16 @@
   "codex_id": 1033930,
   "title": "Besluit van de Vlaamse Regering van 2020-10-30 over de planning van het medisch aanbod",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033930/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "76d1379256fef984c712077d743b92cc2f9d5a26b0c37ee4c3bdf5b83944ca7d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033930/VolledigDocument?datum=2024-08-17",
+  "source_sha256": "53883585901125886a4af2ad5b11af95a964dba67f77d02751d18e9a5cbbb01e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033930&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-08-17",
   "made": "2020-10-30",
   "gazette": "2020-12-11",
   "numac": 2020044003,
   "document_start": "2020-12-21",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2024-08-17",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-17; future article versions excluded; article text as the API gives it"
 }
