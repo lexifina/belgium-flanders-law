@@ -34,14 +34,14 @@ In dit besluit wordt verstaan onder:<br>
 ### ART. 3.
 
 <p>§ 1. De erkenningscommissie is samengesteld uit:<br>
-1° vier leden-kinesitherapeuten die sedert ten minste tien jaar de kinesitherapie uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-2° zes leden-kinesitherapeuten die houder zijn van een bijzondere beroepsbekwaamheid en die een minimale beroepservaring van tien jaar kunnen bewijzen, waarbij elke beroepsbekwaamheid één mandaat krijgt. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-3° vier leden-kinesitherapeuten die ten minste tien jaar onderwijservaring in een universitaire instelling kunnen bewijzen. Ze worden voorgedragen door de Vlaamse Interuniversitaire Raad;<br>
-4° zes leden-kinesitherapeuten die houder zijn van een bijzondere beroepsbekwaamheid en die ten minste tien jaar onderwijservaring in een universitaire instelling kunnen bewijzen, waarbij elke beroepsbekwaamheid één mandaat krijgt. Ze worden voorgedragen door de Vlaamse Interuniversitaire Raad.</p>
+1° vier leden-kinesitherapeuten die sedert ten minste vijf jaar de kinesitherapie uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+2° hetzelfde aantal leden-kinesitherapeuten als het aantal bijzondere beroepsbekwaamheden, vermeld in het koninklijk besluit van 25 april 2014 tot vaststelling van de lijst van bijzondere beroepsbekwaamheden voor kinesitherapeuten, die houder zijn van een bijzondere beroepsbekwaamheid en die een minimale beroepservaring van vijf jaar kunnen bewijzen, waarbij elke beroepsbekwaamheid één mandaat krijgt. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+3° vier leden-kinesitherapeuten die ten minste vijf jaar onderwijservaring in een universitaire instelling kunnen bewijzen. Ze worden voorgedragen vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Interuniversitaire Raad;<br>
+4° hetzelfde aantal leden-kinesitherapeuten als het aantal bijzondere beroepsbekwaamheden, vermeld in het koninklijk besluit van 25 april 2014 tot vaststelling van de lijst van bijzondere beroepsbekwaamheden voor kinesitherapeuten, die ten minste vijf jaar onderwijservaring in een universitaire instelling kunnen bewijzen, waarbij elke beroepsbekwaamheid één mandaat krijgt. Ze worden voorgedragen vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Interuniversitaire Raad.</p>
 
 <p>§ 2. De leden van de erkenningscommissie worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
-<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid, benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of door de Vlaamse Interuniversitaire Raad. De secretaris-generaal benoemt dat vervangend lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
+<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid, benoemt de secretaris-generaal een nieuw lid, voorgedragen door een beroepsvereniging of vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Interuniversitaire Raad. De secretaris-generaal benoemt dat vervangend lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
 
 <p>§ 3. De erkenningscommissie kiest uit haar leden een voorzitter en een ondervoorzitter. Bij afwezigheid van de voorzitter en van de ondervoorzitter wordt de erkenningscommissie voorgezeten door het oudste lid in leeftijd.</p>
 
@@ -77,7 +77,7 @@ De   voorzitter en de leden van de erkenningscommissie, en de eventuele externe 
 
 ### ART. 6.
 
-<p>Indien de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van de erkenningscommissie over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen of door de Vlaamse Interuniversitaire Raad, wordt de bevoegdheid om advies te verlenen over de aanvraag van de erkenning als kinesitherapeut en de erkenning van de bijzondere beroepsbekwaamheden, tijdelijk toegewezen aan de administratie.</p>
+<p>Indien de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van de erkenningscommissie over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen of vanuit het beleidsdomein Onderwijs waaronder de Vlaamse Interuniversitaire Raad, wordt de bevoegdheid om advies te verlenen over de aanvraag van de erkenning als kinesitherapeut en de erkenning van de bijzondere beroepsbekwaamheden, tijdelijk toegewezen aan de administratie.</p>
 
 <p>De administratie kan voor het uitvoeren van de adviserende bevoegdheid eender welke ambtenaar, expert of organisatie raadplegen of belasten met een adviesopdracht. De uiteindelijke beslissing over het te verlenen advies behoort toe aan de administratie.</p>
 
