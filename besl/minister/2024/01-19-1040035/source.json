@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040035,
+  "title": "Ministerieel besluit van 2024-01-19 houdende de vaststelling van een soortenbeschermingsprogramma voor de Europese bever (Castor fiber)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040035/VolledigDocument?datum=2024-08-17",
+  "source_sha256": "00e406ad944aa16b3ed036765eae253fab08e9d69d66ecf94bb0d779a7b46b0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040035&param=informatie",
+  "as_of": "2024-08-17",
+  "made": "2024-01-19",
+  "gazette": "2024-08-07",
+  "numac": 2024007404,
+  "document_start": "2024-08-17",
+  "document_end": "2029-08-07",
+  "in_force": "2024-08-17",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
