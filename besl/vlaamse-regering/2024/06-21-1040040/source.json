@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040040,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-21 tot subsidiëring van de erkende Nationale Park Vlaanderen Scheldevallei",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040040/VolledigDocument?datum=2024-08-18",
+  "source_sha256": "1e6c15b8b763fe52622ac591ad6703ddf4f7aa5bd081189b5f998c43daf89245",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040040&param=informatie",
+  "as_of": "2024-08-18",
+  "made": "2024-06-21",
+  "gazette": "2024-08-08",
+  "numac": 2024007422,
+  "document_start": "2024-08-18",
+  "document_end": null,
+  "in_force": "2024-08-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
