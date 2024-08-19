@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040043,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-21 tot subsidiëring van de erkende Nationale Park Vlaanderen Bosland",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040043/VolledigDocument?datum=2024-08-19",
+  "source_sha256": "97f98fea8d4df77721f8bc84e5b4755200029f2bb8e089c584ad2f39fe03b73d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040043&param=informatie",
+  "as_of": "2024-08-19",
+  "made": "2024-06-21",
+  "gazette": "2024-08-09",
+  "numac": 2024007425,
+  "document_start": "2024-08-19",
+  "document_end": null,
+  "in_force": "2024-08-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
