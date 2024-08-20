@@ -700,6 +700,8 @@ Op percelen met een zware bodemtextuur, namelijk met een klei- of leembodem, is 
 2°&nbsp;&nbsp; &nbsp;de stoppels en de opslag behouden;&nbsp;<br>
 3°&nbsp;&nbsp; &nbsp;de plantenresten aan de oppervlakte laten liggen om voor een bedekking van de bodem te zorgen.&nbsp;<br>
 <br>
+Percelen op kleibodems die in de landbouwstreek Polders en Duinen liggen, zoals vastgelegd in het Koninklijk besluit van 24 februari 1951 houdende grensbepaling van de landbouwstreken van het Rijk, zijn vrijgesteld van de verplichting, vermeld in het eerste lid.<br>
+<br>
 Op percelen met een hoge en zeer hoge erosiegevoeligheid gelden de volgende verplichtingen in het kader van het basispakket, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, in combinatie met de verplichtingen op basis van de norm voor minimale bodembedekking, vermeld in het eerste en tweede lid:&nbsp;<br>
 1°&nbsp;&nbsp; &nbsp;als de hoofdteelt vóór 15 oktober geoogst wordt, wordt er een groenbedekker of een nateelt ingezaaid vóór 1 december. Tot aan de start van de veldwerkzaamheden voor de inzaai van de groenbedekker of de nateelt worden de stoppels en de opslag behouden of blijven de plantenresten aan de oppervlakte liggen;&nbsp;<br>
 2°&nbsp;&nbsp; &nbsp;als de hoofdteelt na 15 oktober geoogst wordt, wordt minstens een van de volgende maatregelen toegepast:&nbsp;<br>
