@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040082,
+  "title": "Ministerieel besluit van 2024-07-09 tot verlening van afwijkingen als vermeld in artikel 36, 7°, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040082/VolledigDocument?datum=2024-08-23",
+  "source_sha256": "60e7fe58eab245195f767db08c49c9038022df21a030a313b6566f6c8069612d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040082&param=informatie",
+  "as_of": "2024-08-23",
+  "made": "2024-07-09",
+  "gazette": "2024-08-13",
+  "numac": 2024007648,
+  "document_start": "2024-08-23",
+  "document_end": null,
+  "in_force": "2024-08-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
