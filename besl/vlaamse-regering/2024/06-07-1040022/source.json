@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040022,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-07 tot wijziging van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040022/VolledigDocument?datum=2024-08-24",
+  "source_sha256": "2284eff5aa448c4f3a821688bafe3d316dc2078d7eb2b3dd1476b3be4c3638fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040022&param=informatie",
+  "as_of": "2024-08-24",
+  "made": "2024-06-07",
+  "gazette": "2024-08-14",
+  "numac": 2024007306,
+  "document_start": "2024-08-24",
+  "document_end": null,
+  "in_force": "2024-08-24",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2024-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
