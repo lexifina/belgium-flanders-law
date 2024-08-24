@@ -54,10 +54,11 @@ Voorbij de tiende meter van de vrije stroken langs autosnelwegen kan de wegbehee
 
 ### ART 5.
 
-In de eerste tien meter van de vrije stroken langs autosnelwegen kan de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer, afwijkingen van het verbod, vermeld in artikel 2, eerste lid, 1°, toestaan voor een van de volgende werkzaamheden als de gevraagde afwijkingen een doelstelling van algemeen belang dienen en het huidige beheer of de toekomstige ontwikkeling van de autosnelwegen niet belemmeren:<br>
-1° de aanleg van ondergrondse nutsleidingen als daarop geen aftakkingen gebeuren;<br>
+In de eerste tien meter van de vrije stroken langs autosnelwegen kan de Vlaamse minister, bevoegd voor de weggebonden mobiliteit en het transport, afwijkingen van het verbod, vermeld in artikel 2, eerste lid, 1°, toestaan voor een van de volgende werkzaamheden als de gevraagde afwijkingen een doelstelling van algemeen belang dienen en het huidige beheer of de toekomstige ontwikkeling van de autosnelwegen niet belemmeren:<br>
+1° de aanleg van ondergrondse nutsleidingen als daarop geen aftakkingen gebeuren, andere dan aftakkingen met het oog op de opwekking van hernieuwbare energie;<br>
 2° de aanleg van verkeers- en vervoersinfrastructuur en de aanhorigheden daarvan;<br>
-3° de plaatsing van gsm-pylonen of -antennes.
+3° de plaatsing van gsm-pylonen of -antennes;<br>
+4° de plaatsing van constructies met het oog op de opwekking van hernieuwbare energie.
 
 ### ART 6.
 
@@ -75,7 +76,7 @@ In afwijking van artikel 2 kunnen onwettige situaties, die bestaan op het ogenbl
 <br>
 De regularisatie kan worden toegestaan onder de voorwaarden, vermeld in artikel 4 en 5.<br>
 <br>
-Als de wegbeheerder een aanvraag tot regularisatie voor een onwettige situatie in de eerste tien meter van de vrije stroken ontvangt, bezorgt hij deze aanvraag aan de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer.
+Als de wegbeheerder een aanvraag tot regularisatie voor een onwettige situatie in de eerste tien meter van de vrije stroken ontvangt, bezorgt hij deze aanvraag aan de Vlaamse minister, bevoegd voor de weggebonden mobiliteit en het transport&nbsp;.
 
 ### ART 9.
 

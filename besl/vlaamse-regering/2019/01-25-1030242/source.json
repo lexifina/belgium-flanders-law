@@ -2,16 +2,16 @@
   "codex_id": 1030242,
   "title": "Besluit van de Vlaamse Regering van 2019-01-25 betreffende de vrije stroken langs autosnelwegen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030242/VolledigDocument?datum=2019-02-18",
-  "source_sha256": "0a4a9d1f7664ae097281978e144705843d63beadf1d92a788b5be8a67900a827",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030242/VolledigDocument?datum=2024-08-24",
+  "source_sha256": "e6e0c0ccfa51162c2a6292f78cdd791e525411b041a1f4548b628411b5bc4bba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030242&param=informatie",
-  "as_of": "2019-02-18",
+  "as_of": "2024-08-24",
   "made": "2019-01-25",
   "gazette": "2019-02-08",
   "numac": 2019010823,
   "document_start": "2019-02-18",
   "document_end": null,
-  "in_force": "2019-02-18",
+  "in_force": "2024-08-24",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2019-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-24; future article versions excluded; article text as the API gives it"
 }
