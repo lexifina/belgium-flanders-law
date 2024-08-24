@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040176,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-19 over de toewijzing van diercategorieën bij de vaststelling van de PAS-referentie 2030",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040176/VolledigDocument?datum=2024-08-24",
+  "source_sha256": "951887b0a21e13a8b704c3bd91213efe319873221c8d8d8dc14f180f75398e39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040176&param=informatie",
+  "as_of": "2024-08-24",
+  "made": "2024-07-19",
+  "gazette": "2024-08-23",
+  "numac": 2024008005,
+  "document_start": "2024-08-24",
+  "document_end": null,
+  "in_force": "2024-08-24",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
