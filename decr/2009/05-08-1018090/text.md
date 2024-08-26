@@ -37,7 +37,7 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 26° corrigerende maatregelen : maatregelen om significante onregelmatigheden te corrigeren of lekkages te dichten om het weglekken van koolstofdioxide uit het opslagcomplex te voorkomen of te doen ophouden;<br>
 27° afsluiting van een opslaglocatie : definitieve stopzetting van de injectie van koolstofdioxide in een opslaglocatie;<br>
 28° periode na afsluiting : periode na de afsluiting van een opslaglocatie, inclusief de periode na de overdracht van de verantwoordelijkheid aan het Vlaamse Gewest;<br>
-29° transportnetwerk : netwerk van pijpleidingen, met inbegrip van de daarvoor benodigde pompstations, om koolstofdioxide naar de opslaglocatie te transporteren;<br>
+29° ...;<br>
 30° minister : Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte, of de structuurvisie voor de diepe ondergrond&nbsp;betreft, dan wel de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
 31° rechthebbende : houder van een zakelijk recht of een ander genotsrecht;<br>
 32° aangewezen vennootschap : investeringsmaatschappij als vermeld in het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid;<br>
@@ -578,17 +578,35 @@ Als een opslaglocatie is afgesloten overeenkomstig artikel 52, § 1, 3°, wordt 
 
 ## Afdeling V Toegang van derden
 
-## Onderafdeling I Toegang tot transportnetwerken en opslaglocaties
+## Onderafdeling I Toegang tot opslaglocaties
 
 ### ART. 59.
 
-§ 1. Potentiële gebruikers krijgen onder de voorwaarden, vermeld in § 2 tot en met § 4, toegang tot de transportnetwerken en tot de opslaglocaties, met het oog op de geologische opslag van geproduceerd en afgevangen koolstofdioxide.<br /><br />§ 2. De Vlaamse Regering bepaalt de voorwaarden waaronder potentiële gebruikers op een transparante en niet-discriminerende manier toegang krijgen tot de transportnetwerken en opslaglocaties, en neemt daarbij de doelstellingen van eerlijke en open toegang in acht, rekening houdend met : <br />1° de opslagcapaciteit die beschikbaar is of redelijkerwijs beschikbaar kan worden gesteld binnen de gebieden die in aanmerking komen voor de geologische opslag van koolstofdioxide, alsmede de transportcapaciteit die beschikbaar is of redelijkerwijs beschikbaar kan worden gesteld;<br />2° het door het Vlaamse Gewest beoogde aandeel van de afvang en geologische opslag van koolstofdioxide in het geheel van de reductieverplichtingen voor koolstofdioxide wat betreft het Vlaamse Gewest;<br />3° de noodzaak om de toegang te weigeren als er sprake is van onverenigbaarheid van technische specificaties die redelijkerwijs niet kan worden overwonnen;<br />4° de noodzaak om de naar behoren gemotiveerde en redelijke behoeften van de eigenaar of exploitant van de opslaglocatie of het transportnetwerk, en de belangen van alle andere gebruikers van de opslaglocatie, het transportnetwerk of de relevante behandelingsfaciliteiten in acht te nemen. <br /><br />§ 3. Exploitanten van transportnetwerken en exploitanten van opslaglocaties kunnen de toegang weigeren op grond van een gebrek aan capaciteit. Dergelijke weigeringen worden altijd naar behoren gemotiveerd.<br /><br />Een exploitant die de toegang tot zijn transportnetwerk of opslaglocatie weigert op grond van een gebrek aan capaciteit of verbindingsmogelijkheden, voert de nodige capaciteitsverhogende werkzaamheden uit voor zover dat economisch verantwoord is of de potentiële gebruiker bereid is daarvoor te betalen, op voorwaarde dat het geen negatief effect heeft op de milieuveiligheid van het transport en van de geologische opslag van koolstofdioxide.<br /><br />§ 4. De Vlaamse Regering kan nadere regels bepalen voor de toegang tot transportnetwerken en opslaglocaties.<br /><br />
+§ 1. Potentiële gebruikers krijgen onder de voorwaarden, vermeld in § 2 tot en met § 4, toegang tot de opslaglocaties, met het oog op de geologische opslag van geproduceerd en afgevangen koolstofdioxide.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de voorwaarden waaronder potentiële gebruikers op een transparante en niet-discriminerende manier toegang krijgen tot opslaglocaties, en neemt daarbij de doelstellingen van eerlijke en open toegang in acht, rekening houdend met :<br>
+1° de opslagcapaciteit die beschikbaar is of redelijkerwijs beschikbaar kan worden gesteld binnen de gebieden die in aanmerking komen voor de geologische opslag van koolstofdioxide;<br>
+2° het door het Vlaamse Gewest beoogde aandeel van de afvang en geologische opslag van koolstofdioxide in het geheel van de reductieverplichtingen voor koolstofdioxide wat betreft het Vlaamse Gewest;<br>
+3° de noodzaak om de toegang te weigeren als er sprake is van onverenigbaarheid van technische specificaties die redelijkerwijs niet kan worden overwonnen;<br>
+4° de noodzaak om de naar behoren gemotiveerde en redelijke behoeften van de eigenaar of exploitant van de opslaglocatie en de belangen van alle andere gebruikers van de opslaglocatie of de relevante behandelingsfaciliteiten in acht te nemen.<br>
+<br>
+§ 3. Exploitanten van opslaglocaties kunnen de toegang weigeren op grond van een gebrek aan capaciteit. Dergelijke weigeringen worden altijd naar behoren gemotiveerd.<br>
+<br>
+Een exploitant die de toegang tot zijn opslaglocatie weigert op grond van een gebrek aan capaciteit of verbindingsmogelijkheden, voert de nodige capaciteitsverhogende werkzaamheden uit voor zover dat economisch verantwoord is of de potentiële gebruiker bereid is daarvoor te betalen, op voorwaarde dat het geen negatief effect heeft op de milieuveiligheid van de geologische opslag van koolstofdioxide.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels bepalen voor de toegang tot opslaglocaties.<br>
+&nbsp;
 
 ## Onderafdeling II Geschillenbeslechting
 
 ### ART. 60.
 
-§ 1. De Vlaamse Regering stelt een geschillenbeslechtingsprocedure vast, met inbegrip van een onafhankelijk van de partijen staande autoriteit die toegang heeft tot alle relevante informatie, om geschillen over de toegang tot transportnetwerken en opslaglocaties op een doeltreffende wijze te beslechten, rekening houdend met de criteria, vermeld in artikel 59, § 2, en het aantal partijen dat bij de onderhandelingen over dergelijke toegang betrokken is.<br /><br />§ 2. Bij een geschil dat de grenzen van het Vlaamse Gewest overschrijdt, wordt de door de Vlaamse Regering vastgestelde geschillenbeslechtingsprocedure toegepast als het transportnetwerk of de opslaglocatie waartoe de toegang is geweigerd, in het Vlaamse Gewest ligt. <br /><br />Als, bij grensoverschrijdende geschillen, de jurisdictie over het transportnetwerk of de opslaglocatie in kwestie niet uitsluitend bij het Vlaamse Gewest ligt, wordt overleg gepleegd om het geschil op een samenhangende wijze te beslechten.<br /><br />
+§ 1. De Vlaamse Regering stelt een geschillenbeslechtingsprocedure vast, met inbegrip van een onafhankelijk van de partijen staande autoriteit die toegang heeft tot alle relevante informatie, om geschillen over de toegang tot opslaglocaties op een doeltreffende wijze te beslechten, rekening houdend met de criteria, vermeld in artikel 59, § 2, en het aantal partijen dat bij de onderhandelingen over dergelijke toegang betrokken is.<br>
+<br>
+§ 2. Bij een geschil dat de grenzen van het Vlaamse Gewest overschrijdt, wordt de door de Vlaamse Regering vastgestelde geschillenbeslechtingsprocedure toegepast als de opslaglocatie waartoe de toegang is geweigerd, in het Vlaamse Gewest ligt.<br>
+<br>
+Als, bij grensoverschrijdende geschillen, de jurisdictie over de opslaglocatie in kwestie niet uitsluitend bij het Vlaamse Gewest ligt, wordt overleg gepleegd om het geschil op een samenhangende wijze te beslechten.<br>
+&nbsp;
 
 ## Afdeling VI Het bezetten van gronden door de vergunninghouder
 
