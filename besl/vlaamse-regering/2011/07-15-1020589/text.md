@@ -438,41 +438,41 @@ In de periode na de overdracht van de verantwoordelijkheid wordt het opslagcompl
 
 ### ART. 14/24.
 
-§ 1. Exploitanten van transportnetwerken en opslaglocaties maken, met het oog op de toepassing van en met inachtneming van de voorwaarden, vermeld in artikel 59 van het decreet van 8 mei 2009, ten minste om de twaalf maanden de commerciële voorwaarden en technische modaliteiten voor de toegang tot hun transportnetwerk of opslaglocatie bekend in het Belgisch Staatsblad.<br>
+§ 1. Exploitanten van opslaglocaties maken, met het oog op de toepassing van en met inachtneming van de voorwaarden, vermeld in artikel 59 van het decreet van 8 mei 2009, ten minste om de twaalf maanden de commerciële voorwaarden en technische modaliteiten voor de toegang tot hun opslaglocatie bekend in het Belgisch Staatsblad.<br>
 <br>
-Geïnteresseerde potentiële gebruikers dienen bij de exploitant met een beveiligde zending een verzoek in tot toegang tot het transportnetwerk of de opslaglocatie, met vermelding van alle relevante gegevens, in het bijzonder over het afgevangen koolstofdioxide.<br>
+Geïnteresseerde potentiële gebruikers dienen bij de exploitant met een beveiligde zending een verzoek in tot toegang tot de opslaglocatie, met vermelding van alle relevante gegevens, in het bijzonder over het afgevangen koolstofdioxide.<br>
 <br>
-§ 2. De toegang tot en het gebruik van het transportnetwerk of de opslaglocatie worden geregeld in een overeenkomst tussen de exploitant en de gebruiker of gebruikers.
+§ 2. De toegang tot en het gebruik van de opslaglocatie worden geregeld in een overeenkomst tussen de exploitant en de gebruiker of gebruikers.
 
 ## [Onderafdeling 2 Geschillenbeslechtingsprocedure (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
 ### ART. 14/25.
 
-§ 1. Als de partijen, vermeld in artikel 14/24, § 2, er binnen een termijn van zes maanden vanaf het verzoek van de potentiële gebruiker, vermeld in artikel 14/24, § 1, tweede lid, niet in slagen een overeenkomst te sluiten over de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie, kan de potentiële gebruiker met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
+§ 1. Als de partijen, vermeld in artikel 14/24, § 2, er binnen een termijn van zes maanden vanaf het verzoek van de potentiële gebruiker, vermeld in artikel 14/24, § 1, tweede lid, niet in slagen een overeenkomst te sluiten over de toegang tot en het gebruik van&nbsp; de opslaglocatie, kan de potentiële gebruiker met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
 <br>
 § 2. De minister kan bij de partijen alle informatie opvragen die relevant is voor een doeltreffende beslechting van het geschil.<br>
 <br>
 De minister hoort de partijen, zowel samen als afzonderlijk. Ook de minister, bevoegd voor de ruimtelijke ordening, wordt erbij betrokken.<br>
 <br>
-§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 2, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
+§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de toegang tot en het gebruik van de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 2, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
 <br>
-De Vlaamse Regering kan de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie door de potentiële gebruiker afwijzen, toekennen of toekennen onder voorwaarden.<br>
+De Vlaamse Regering kan de toegang tot en het gebruik van de opslaglocatie door de potentiële gebruiker afwijzen, toekennen of toekennen onder voorwaarden.<br>
 <br>
-Als de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie aan de potentiële gebruiker toegekend wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
+Als de toegang tot en het gebruik van de opslaglocatie aan de potentiële gebruiker toegekend wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
 
 ### ART. 14/26.
 
-§ 1. Bij geschillen over de verhoging van de capaciteit of verbindingsmogelijkheden van een transportnetwerk of een opslaglocatie met toepassing van artikel 59, § 3, van het decreet van 8 mei 2009, kan de potentiële gebruiker vanaf zes maanden na zijn verzoek aan de exploitant met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
+§ 1. Bij geschillen over de verhoging van de capaciteit of verbindingsmogelijkheden van een opslaglocatie met toepassing van artikel 59, § 3, van het decreet van 8 mei 2009, kan de potentiële gebruiker vanaf zes maanden na zijn verzoek aan de exploitant met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
 <br>
 § 2. De minister kan bij de partijen alle informatie opvragen die relevant is voor een doeltreffende beslechting van het geschil.<br>
 <br>
 De minister hoort de partijen, zowel samen als afzonderlijk. Ook de minister, bevoegd voor de ruimtelijke ordening, wordt erbij betrokken.<br>
 <br>
-§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 3, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
+§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de verhoging van de capaciteit of de verbindingsmogelijkheden van de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 3, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
 <br>
-De Vlaamse Regering kan de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie afwijzen, opleggen of opleggen onder voorwaarden.<br>
+De Vlaamse Regering kan de verhoging van de capaciteit of de verbindingsmogelijkheden van de opslaglocatie afwijzen, opleggen of opleggen onder voorwaarden.<br>
 <br>
-Als de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie opgelegd wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
+Als de verhoging van de capaciteit of de verbindingsmogelijkheden van de opslaglocatie opgelegd wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
 
 ### ART. 14/27.
 

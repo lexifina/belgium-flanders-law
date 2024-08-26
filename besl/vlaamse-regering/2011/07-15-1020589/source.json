@@ -2,16 +2,16 @@
   "codex_id": 1020589,
   "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot uitvoering van het decreet van 8 mei 2009 betreffende de diepe ondergrond en tot wijziging van diverse besluiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020589/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "7fc265ff7167da2ac613ef213c348848f9f58924855b0d1ef94cd9b654f654d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020589/VolledigDocument?datum=2024-08-26",
+  "source_sha256": "b9c888105052dcd5b7bd042c36f136f98c405a6b93d1d82f1d393ca7d06b6de0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020589&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-08-26",
   "made": "2011-07-15",
   "gazette": "2011-09-06",
   "numac": 2011035717,
   "document_start": "2011-09-06",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2024-08-26",
   "article_versions": 105,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-08-26; future article versions excluded; article text as the API gives it"
 }
