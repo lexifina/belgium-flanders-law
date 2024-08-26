@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040054,
+  "title": "Besluit van de Vlaamse Regering van 2024-06-07 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040054/VolledigDocument?datum=2024-08-26",
+  "source_sha256": "f05c4757256cbe7b1e2a9d1b66b8a4a20665e3564294f43a14748576346b0c7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040054&param=informatie",
+  "as_of": "2024-08-26",
+  "made": "2024-06-07",
+  "gazette": "2024-08-16",
+  "numac": 2024007517,
+  "document_start": "2024-08-26",
+  "document_end": null,
+  "in_force": "2024-08-26",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2024-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
