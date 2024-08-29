@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040100,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-05 over de vaststelling van retributies voor de taken die toevertrouwd zijn aan het Federaal Agentschap voor de Veiligheid van de Voedselketen door het Vlaamse Gewest voor de toepassing van beschermende maatregelen tegen plaagorganismen bij planten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040100/VolledigDocument?datum=2024-08-29",
+  "source_sha256": "1f6960ae8607d488f76d30d67e9efd6c2129bd4267b736e05cd56e2e287b79a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040100&param=informatie",
+  "as_of": "2024-08-29",
+  "made": "2024-07-05",
+  "gazette": "2024-08-19",
+  "numac": 2024007762,
+  "document_start": "2024-08-29",
+  "document_end": null,
+  "in_force": "2024-08-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2024-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
