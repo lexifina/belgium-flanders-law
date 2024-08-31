@@ -62,11 +62,71 @@ CURRICULUMDOSSIERS VOOR STRUCTUURONDERDELEN 1ste GRAAD → <a href="http://www.e
 ### BIJLAGE 2
 
 CURRICULUMDOSSIERS VOOR STRUCTUURONDERDELEN 2e GRAAD DOORSTROOMFINALITEIT, DOMEINOVERSCHRIJDEND → <a href="http://www.ejustice.just.fgov.be/mopdf/2023/10/02_2.pdf#page=23">link naar de bijlage</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 12 januari 2024 worden de curriculumdossiers van de volgende structuuronderdelen van de tweede graad van het secundair onderwijs op 31 augustus 2024 opgeheven:<br>
+1° Finaliteit doorstroom:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;Economische wetenschappen;<br>
+b)&nbsp;&nbsp; &nbsp;Grieks-Latijn;<br>
+c)&nbsp;&nbsp; &nbsp;Latijn;<br>
+d)&nbsp;&nbsp; &nbsp;Natuurwetenschappen;<br>
+e)&nbsp;&nbsp; &nbsp;Technologische wetenschappen.<br>
+<br>
+2° Arbeidsmarktfinaliteit:<br>
+a)&nbsp;&nbsp; &nbsp;Assistent dierlijke productie duaal;<br>
+b)&nbsp;&nbsp; &nbsp;Assistent plantaardige productie duaal;<br>
+c)&nbsp;&nbsp; &nbsp;Bandenmonteur duaal;<br>
+d)&nbsp;&nbsp; &nbsp;Cementgebonden voeger duaal;<br>
+e)&nbsp;&nbsp; &nbsp;Fietshersteller duaal;<br>
+f)&nbsp;&nbsp; &nbsp;Hoeknaadlasser duaal;<br>
+g)&nbsp;&nbsp; &nbsp;Hulpkelner duaal;<br>
+h)&nbsp;&nbsp; &nbsp;Industrieel verpakker duaal;<br>
+i)&nbsp;&nbsp; &nbsp;Installateur elektrotechnische basiscomponenten duaal;<br>
+j)&nbsp;&nbsp; &nbsp;Keukenmedewerker duaal;<br>
+k)&nbsp;&nbsp; &nbsp;Machinaal houtbewerker duaal;<br>
+l)&nbsp;&nbsp; &nbsp;Magazijnmedewerker duaal;<br>
+m)&nbsp;&nbsp; &nbsp;Medewerker fastfood duaal;<br>
+n)&nbsp;&nbsp; &nbsp;Medewerker florist duaal;<br>
+o)&nbsp;&nbsp; &nbsp;Medewerker groen- en tuinaanleg duaal;<br>
+p)&nbsp;&nbsp; &nbsp;Medewerker groen- en tuinbeheer duaal;<br>
+q)&nbsp;&nbsp; &nbsp;Medewerker hout duaal;<br>
+r)&nbsp;&nbsp; &nbsp;Medewerker kamerdienst duaal;<br>
+s)&nbsp;&nbsp; &nbsp;Medewerker productielijn kleding, confectie en meubelstoffering duaal;<br>
+t)&nbsp;&nbsp; &nbsp;Medewerker ruwbouw duaal;<br>
+u)&nbsp;&nbsp; &nbsp;Medewerker schilder- en behangwerken duaal;<br>
+v)&nbsp;&nbsp; &nbsp;Medewerker slagerij duaal;<br>
+w)&nbsp;&nbsp; &nbsp;Medewerker tegelzetwerken en dekvloeren duaal;<br>
+x)&nbsp;&nbsp; &nbsp;Medewerker textielverzorging duaal;<br>
+y)&nbsp;&nbsp; &nbsp;Monteur sanitaire en verwarmingsinstallaties duaal;<br>
+z)&nbsp;&nbsp; &nbsp;Operator strijkafdeling kleding- en confectieartikelen en textielverzorging duaal;<br>
+aa)&nbsp;&nbsp; &nbsp;Paletten- en krattenmaker duaal;<br>
+ab)&nbsp;&nbsp; &nbsp;Plaatser boven- en ondergrondse leidingen duaal;<br>
+ac)&nbsp;&nbsp; &nbsp;Polyvalent administratief ondersteuner duaal;<br>
+ad)&nbsp;&nbsp; &nbsp;Productiemedewerker drukafwerking in de printmedia duaal;<br>
+ae)&nbsp;&nbsp; &nbsp;Productiemedewerker drukken in de printmedia duaal;<br>
+af)&nbsp;&nbsp; &nbsp;Schoonmaker duaal;<br>
+ag)&nbsp;&nbsp; &nbsp;Uitbener-uitsnijder duaal;<br>
+ah)&nbsp;&nbsp; &nbsp;Verpakker duaal;<br>
+ai)&nbsp;&nbsp; &nbsp;Voorbewerker carrosserie duaal;<br>
+aj)&nbsp;&nbsp; &nbsp;Winkelmedewerker duaal.<br>
 &nbsp;
 
 ### BIJLAGE 3.
 
 CURRICULUMDOSSIERS VOOR STRUCTUURONDERDELEN 3e GRAAD DOORSTROOMFINALITEIT, DOMEINOVERSCHRIJDEND → <a href="http://www.ejustice.just.fgov.be/mopdf/2023/10/02_2.pdf#page=473">link naar de bijlage</a><br>
 <br>
+<br>
+*&nbsp;Bij besluit van de Vlaamse Regering van 12 januari 2024 worden de curriculumdossiers van de volgende structuuronderdelen van de derde graad van het secundair onderwijs op 31 augustus 2024 opgeheven:<br>
+<br>
+1° Dubbele finaliteit:<br>
+a)&nbsp;&nbsp; &nbsp;Architectuur en interieur;<br>
+b)&nbsp;&nbsp; &nbsp;Ballet;<br>
+c)&nbsp;&nbsp; &nbsp;Beeldende kunst;<br>
+d)&nbsp;&nbsp; &nbsp;Bouwtechnieken (duaal);<br>
+e)&nbsp;&nbsp; &nbsp;Commerciële organisatie (duaal);<br>
+f)&nbsp;&nbsp; &nbsp;Elektromechanische technieken (duaal);<br>
+g)&nbsp;&nbsp; &nbsp;Mechanische vormgevingstechnieken (duaal);<br>
+h)&nbsp;&nbsp; &nbsp;Natuur- en groentechnieken (duaal).<br>
+<br>
+2° Arbeidsmarktfinaliteit: Diamantbewerking (duaal).<br>
 <br>
 &nbsp;
