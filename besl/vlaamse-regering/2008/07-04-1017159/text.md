@@ -6,24 +6,36 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 betreffende 
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° ministerie : het Vlaams Ministerie van Onderwijs en Vorming;<br />2° busbegeleider : de persoon die door de school belast is met de begeleiding op de bus van leerlingen tijdens het leerlingenvervoer;<br />3° leerlingenvervoer : het collectief vervoer van leerlingen van thuis naar school en omgekeerd, met een voertuig van meer dan zeven zitplaatsen, de chauffeur inbegrepen;<br />4° school : gefinancierde of gesubsidieerde school voor basisonderwijs of secundair onderwijs;<br />5° schoolbestuur : het schoolbestuur of de inrichtende macht.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° ministerie : het Vlaams Ministerie van Onderwijs en Vorming;<br>
+2° busbegeleider : de persoon die door de school belast is met de begeleiding op de bus van leerlingen tijdens het leerlingenvervoer;<br>
+3° leerlingenvervoer : het collectief vervoer van leerlingen van thuis naar school en omgekeerd, met een voertuig van meer dan zeven zitplaatsen, de chauffeur inbegrepen;<br>
+3°/1 parkingwachters: de parkingwachter zorgt ervoor dat een bepaald aantal leerlingen veilig van de ene bus afstapt en op de juiste bus opstapt bij het wisselen van bus tijdens het woon-schoolvervoer. &nbsp;Daarnaast coördineert een parkingwachter het achtereenvolgens vertrekken van de verschillende bussen;<br>
+4° school : gefinancierde of gesubsidieerde school voor basisonderwijs of secundair onderwijs;<br>
+5° schoolbestuur : het schoolbestuur of de inrichtende macht.<br>
+&nbsp;
 
 ### ART. 2.
 
-Dit besluit is van toepassing op scholen die busbegeleiders tewerkstellen, en op deze busbegeleiders.<br /><br />
+Dit besluit is van toepassing op scholen die busbegeleiders en/of parkingwachters tewerkstellen, en op deze busbegeleiders en parkingwachters.
 
 ### ART. 3.
 
-Aan de busbegeleider die tijdens de maanden juli en augustus volledig uitkeringsgerechtigd werkloos is of tijdens die periode van werkloosheid een ziekte-uitkering ontvangt, wordt door de school een bestaanszekerheidsvergoeding toegekend van 10 euro voor elke dag waarvoor de betrokkene in de maanden juli en augustus recht heeft op een werkloosheidsvergoeding of op een ziekte-uitkering, op voorwaarde dat de betrokkene op 1 juni voorafgaand aan de periode waarvoor de bestaanszekerheidsvergoeding kan worden toegekend, tewerkgesteld is via een geschreven arbeidsovereenkomst als busbegeleider.&nbsp;<br>
+Aan de busbegeleider of parkingwachter die tijdens de maanden juli en augustus volledig uitkeringsgerechtigd werkloos is of tijdens die periode van werkloosheid een ziekte-uitkering ontvangt, wordt door de school een bestaanszekerheidsvergoeding toegekend van 10 euro voor elke dag waarvoor de betrokkene in de maanden juli en augustus recht heeft op een werkloosheidsvergoeding of op een ziekte-uitkering, op voorwaarde dat de betrokkene op 1 juni voorafgaand aan de periode waarvoor de bestaanszekerheidsvergoeding kan worden toegekend, tewerkgesteld is via een geschreven arbeidsovereenkomst als busbegeleider of parkingwachter.&nbsp;<br>
 &nbsp;
 
 ### ART. 4.
 
-Om deze bestaanszekerheidsvergoeding te verkrijgen, dient de busbegeleider een schriftelijke aanvraag in bij het schoolbestuur en verklaart op eer dat de vergoeding voor éénzelfde periode slechts één keer wordt aangevraagd.<br /><br />Het schoolbestuur onderzoekt of de busbegeleider aan de voorwaarden voldoet en berekent het bedrag van de bestaanszekerheidsvergoeding.<br /><br />Het schoolbestuur betaalt de bestaanszekerheidsvergoeding uit aan de busbegeleider vóór 31 december van het jaar waarop deze bestaanszekerheidsvergoeding betrekking heeft.<br /><br />
+Om deze bestaanszekerheidsvergoeding te verkrijgen, dient de busbegeleider of parkingwachter een schriftelijke aanvraag in bij het schoolbestuur en verklaart op eer dat de vergoeding voor éénzelfde periode slechts één keer wordt aangevraagd.<br>
+<br>
+Het schoolbestuur onderzoekt of de busbegeleider of parkingwachter aan de voorwaarden voldoet en berekent het bedrag van de bestaanszekerheidsvergoeding.<br>
+<br>
+Het schoolbestuur betaalt de bestaanszekerheidsvergoeding uit aan de busbegeleider of parkingwachter vóór 31 december van het jaar waarop deze bestaanszekerheidsvergoeding betrekking heeft.<br>
+&nbsp;
 
 ### ART. 5.
 
-§ 1. De scholen die met toepassing van de artikelen 3 en 4 een bestaanszekerheidsvergoeding betalen aan de door hun tewerkgestelde busbegeleiders, ontvangen hiervoor een toelage van de Vlaamse Gemeenschap, op voorwaarde dat :<br>
+§ 1. De scholen die met toepassing van de artikelen 3 en 4 een bestaanszekerheidsvergoeding betalen aan de door hun tewerkgestelde busbegeleiders en/of parkingwachters, ontvangen hiervoor een toelage van de Vlaamse Gemeenschap, op voorwaarde dat :<br>
 - voor het gesubsidieerd vrij onderwijs in de paritaire subscomités 152.01 en 225.01 hierover een akkoord werd bereikt;<br>
 - voor het gesubsidieerd officieel onderwijs hierover een akkoord werd bereikt dat voor het geheel van het gesubsidieerd officieel onderwijs dezelfde inhoud heeft;<br>
 - voor het gemeenschapsonderwijs hierover een akkoord werd bereikt dat voor alle scholengroepen dezelfde inhoud heeft.<br>
@@ -39,11 +51,20 @@ Deze toelage kan niet meer bedragen dan de bestaanszekerheidsvergoedingen die de
 
 ### ART. 6.
 
-Het schoolbestuur bewaart gedurende vijf jaar de volgende bewijsstukken :<br />1° geschreven arbeidsovereenkomst voor busbegeleider;<br />2° aanvraag tot betaling van de bestaanszekerheidsvergoeding voor busbegeleiders;<br />3° attest van de uitbetalingsinstelling waarbij het bewijs wordt geleverd van het aantal dagen dat het personeelslid volledig werkloos is geweest tijdens de betreffende maanden juli en augustus;<br />4° attest van de instelling die tijdens de werkloosheid in de maanden juli en augustus de ziekte-uitkeringen heeft uitbetaald;<br />5° verklaring op eer : de busbegeleider moet verklaren dat de vergoeding voor éénzelfde periode slechts één keer wordt aangevraagd. <br /><br />Het ministerie kan een verificateur belasten met de controle van deze bewijsstukken.<br /><br />
+Het schoolbestuur bewaart gedurende vijf jaar de volgende bewijsstukken:<br>
+1° geschreven arbeidsovereenkomst voor busbegeleider/parkingwachter;<br>
+2° aanvraag tot betaling van de bestaanszekerheidsvergoeding voor busbegeleiders/parkingwachters;<br>
+3° attest van de uitbetalingsinstelling waarbij het bewijs wordt geleverd van het aantal dagen dat het personeelslid volledig werkloos is geweest tijdens de betreffende maanden juli en augustus;<br>
+4° attest van de instelling die tijdens de werkloosheid in de maanden juli en augustus de ziekte-uitkeringen heeft betaald;<br>
+5° verklaring op eer: de busbegeleider/parkingwachter moet verklaren dat de vergoeding voor éénzelfde periode slechts één keer wordt aangevraagd.<br>
+<br>
+Het ministerie kan een verificateur belasten met de controle van deze bewijsstukken.<br>
+&nbsp;
 
 ### ART. 7.
 
-Als wordt vastgesteld dat een school of een busbegeleider valse verklaringen heeft afgelegd, worden de uitbetaalde bedragen teruggevorderd.<br /><br />
+Als wordt vastgesteld dat een school of een busbegeleider/parkingwachter valse verklaringen heeft afgelegd, worden de uitbetaalde bedragen teruggevorderd.<br>
+&nbsp;
 
 ### ART. 8.
 
