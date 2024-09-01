@@ -12,12 +12,12 @@ Besluit :
 
 ### ART 1.
 
-Performing Arts Research and Training Studios vzw (P.A.R.T.S.), gevestigd in Brussel, wordt geregistreerd als geregistreerde instelling voor hoger onderwijs.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking met ingang van het academiejaar 2019-2020.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+...
