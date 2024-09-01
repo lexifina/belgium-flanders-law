@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040011,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-31 tot invoeging van een artikel 3.13.2.0.5 in het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 ingevolge de aanpassing van de verkoopprocedure voor in beslag genomen voertuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040011/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "df16c62b655338044054db2fbaba9d079ab826d7bf87c3ffca0a039b6ff85ded",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040011&param=informatie",
+  "as_of": "2024-09-01",
+  "made": "2024-05-31",
+  "gazette": "2024-07-24",
+  "numac": 2024007268,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
