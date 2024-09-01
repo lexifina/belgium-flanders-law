@@ -47,8 +47,8 @@ Dit besluit regelt de financiering of subsidiëring van het geïntegreerde onder
 De volgende leerlingen komen in aanmerking voor de toepassing van dit besluit:<br>
 1° in het voltijds gewoon secundair onderwijs: alle regelmatige leerlingen;<br>
 2° in het buitengewoon secundair onderwijs: de regelmatige leerlingen type basisaanbod, waaronder ook type 1 wordt verstaan, en type 3, die niet aan een van de volgende voorwaarden voldoen:<br>
-a) ze maken binnen de niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 2, § 1, 4°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, gebruik van de module verblijf in een multifunctioneel centrum, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-b) ze zijn ingeschreven in een internaat buitengewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.
+a) ze maken binnen de niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 2, § 1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, gebruik van de module verblijf in een multifunctioneel centrum, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+b) ...
 
 ## Afdeling 2. Voltijds gewoon secundair onderwijs
 
