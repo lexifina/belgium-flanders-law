@@ -20,11 +20,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decr
 
 § 1. De klassenraad beslist op grond van alle beschikbare informatie over de toekenning van het getuigschrift van basisonderwijs. De toekenning van het getuigschrift impliceert ook het verlenen van het gunstig advies als bedoeld in artikel 14/1, § 1 van het decreet, voor het lopende schooljaar. De beraadslaging van de klassenraad wordt schriftelijk vastgelegd. Elk lid van de klassenraad is tot geheimhouding daarover verplicht.<br>
 <br>
+§1/1. Aan het getuigschrift basisonderwijs wordt bij leerlingen ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in artikel 52° bis/2 van het decreet, een studiebewijssupplement Vlaamse Gebarentaal en dovencultuur, toegevoegd.<br>
+<br>
 § 2. De notulen van de beraadslaging van de klassenraad worden opgenomen in een speciaal register dat gedurende ten minste vijftien jaar op school aanwezig moet zijn en door de onderwijsinspectie kan worden gecontroleerd.<br>
 <br>
 De notulen worden ondertekend door de voorzitter en door alle leden van de klassenraad.<br>
 <br>
-§ 3. In het register vermeld in § 2 wordt naast de naam, voornaam en geboortedatum van elke leerling vermeld of het getuigschrift basisonderwijs al dan niet werd uitgereikt.
+§ 3. In het register vermeld in § 2 wordt naast de naam, voornaam en geboortedatum van elke leerling vermeld of het getuigschrift basisonderwijs al dan niet werd uitgereikt en of het studiebewijssupplement Vlaamse Gebarentaal en dovencultuur aan het getuigschrift basisonderwijs werd toegevoegd.
 
 ### ART. 6.
 
@@ -58,7 +60,9 @@ De schoolbesturen ontvangen jaarlijks vanwege het Agentschap voor Hoger Onderwij
 
 ### ART. 13.
 
-Het getuigschrift van basisonderwijs wordt opgesteld overeenkomstig het model dat bij dit besluit is gevoegd.
+Het getuigschrift van basisonderwijs wordt opgesteld overeenkomstig het model dat bij dit besluit is gevoegd.<br>
+<br>
+Het studiebewijssupplement Vlaamse Gebarentaal en dovencultuur wordt opgesteld overeenkomstig het model dat bij dit besluit is gevoegd.
 
 ### ART. 14.
 
@@ -74,8 +78,59 @@ De Vlaamse minister bevoegd voor het onderwijs is belast met de uitvoering van d
 
 ### BIJLAGE 1
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=120">Model van het getuigschrift basisonderwijs</a></p>
+Bijlage. Model van het getuigschrift basisonderwijs<br>
+&nbsp;<br>
+&nbsp;<strong>VLAAMSE GEMEENSCHAP</strong><br>
+<strong>Getuigschrift basisonderwijs, onderwijskwalificatie niveau 1</strong><br>
+<strong>&nbsp;</strong><br>
+uitgereikt krachtens artikel 53, 54 en 56 van het decreet basisonderwijs van 25 februari 1997 en het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan.<br>
+&nbsp;<br>
+De afgevaardigde (<em>voor- en achternaam in drukletters</em>)<br>
+.................................................................................................................<br>
+van het schoolbestuur van de school<br>
+(<em>volledige naam en adres van de administratieve vestigingsplaats van de school</em>)<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+die erkend is door de Vlaamse Gemeenschap<br>
+&nbsp;<br>
+bevestigt hiermee dat (<em>voor- en achternaam van de leerling in drukletters</em>)<br>
+.................................................................................................................<br>
+geboren op (<em>geboortedatum, met de maand voluit geschreven</em>)<br>
+.................................................................................................................<br>
+het getuigschrift basisonderwijs behaald heeft:<span style="font-size:10.8333px">(<sup>1</sup>)</span><br>
+- via het gemeenschappelijk curriculum<br>
+- via een individueel aangepast curriculum of een individueel handelingsplan<br>
+- door te slagen voor de examencommissie voor het getuigschrift basisonderwijs.<br>
+.................................................................................................................<br>
+<br>
+Dit getuigschrift is uitgereikt in het schooljaar ............... - ............... (<em>twee opeenvolgende jaartallen van telkens vier cijfers</em>).<br>
+&nbsp;<br>
+Handtekening voor het schoolbestuur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handtekening van de leerling<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;(<sup>1</sup>) Een van de drie mogelijkheden opnemen op het getuigschrift.
 
 ### BIJLAGE 2
 
-<p>...</p>
+Bijlage. Model van het studiebewijssupplement Vlaamse Gebarentaal en dovencultuur<br>
+<br>
+<strong>VLAAMSE GEMEENSCHAP</strong><br>
+<strong>STUDIEBEWIJSSUPPLEMENT VLAAMSE GEBARENTAAL EN DOVENCULTUUR</strong><br>
+<br>
+toegevoegd aan het getuigschrift basisonderwijs<br>
+<br>
+In het basisonderwijs kunnen leerlingen les volgen en het getuigschrift basisonderwijs behalen in de taalafdeling Nederlands-Vlaamse Gebarentaal. In de taalafdeling Nederlands-Vlaamse Gebarentaal zijn er bijkomende leerplandoelen die de eindtermen beogen in Vlaamse Gebarentaal en dovencultuur. Met dit studiebewijssupplement Vlaamse Gebarentaal en Dovencultuur wordt het bereiken van de leerplandoelen die deze eindtermen beogen, erkend.<br>
+<br>
+<br>
+De afgevaardigde (<em>voor- en achternaam in drukletters</em>)<br>
+.................................................................................................................<br>
+van het schoolbestuur van de school<br>
+(<em>volledige naam en adres van de administratieve vestigingsplaats van de school</em>)<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+.................................................................................................................<br>
+<br>
+voegt hiermee het studiebewijssupplement toe aan het getuigschrift basisonderwijs van &nbsp;(<em>voor- en achternaam van de leerling in drukletters</em>)<br>
+.................................................................................................................<br>
+&nbsp;
