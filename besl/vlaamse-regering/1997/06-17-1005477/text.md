@@ -8,7 +8,15 @@ Dit besluit is van toepassing op het gewoon basisonderwijs gefinancierd of gesub
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° [...  <span class="reference">(opgeh. B.V.R. 5 december 2003, art. 1, I: 1 september 2003)</span> ]<br /><br />2° [...  <span class="reference">(opgeh. B.V.R. 5 december 2003, art. 1, I: 1 september 2003)</span> ]<br /><br />3° [...  <span class="reference">(opgeh. B.V.R. 5 december 2003, art. 1, I: 1 september 2003)</span> ]<br /><br />4° het decreet: het decreet basisonderwijs van 25 februari 1997;<br /><br />5° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br /><br />6° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br /><br />7° vrije keuzeschool: school opgericht op grond van artikel 25, § 1 van het decreet basisonderwijs.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ...;<br>
+2° ...;<br>
+3° ... ;<br>
+4° het decreet: het decreet basisonderwijs van 25 februari 1997;<br>
+5° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br>
+6° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br>
+6°bis taalafdeling Nederlands-Vlaamse Gebarentaal: de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in artikel 3, 52°bis/2, van het decreet;<br>
+7° vrije keuzeschool: school opgericht op grond van artikel 25, § 1 van het decreet basisonderwijs.
 
 ## HOOFDSTUK 2 PROGRAMMATIE
 
@@ -128,11 +136,17 @@ Met toepassing van artikel 102 van het decreet kan een school tijdens haar eerst
 
 <p>&nbsp;</p>
 
-## AFDELING 2 [...]
+## AFDELING 2 Oprichting van een taalafdeling Nederlands-Vlaamse gebarentaal
 
 ### ART. 4.
 
-...
+Conform artikel 112bis van het decreet kan een school die voldoet aan de normen, vermeld in artikel 3 of 6 van dit besluit, vanaf 1 september een taalafdeling Nederlands-Vlaamse Gebarentaal oprichten en worden gefinancierd of gesubsidieerd als ze op de eerste schooldag van oktober van het oprichtingsjaar de programmatienormen, vermeld in het derde en het vierde lid, bereikt.<br>
+<br>
+Voor een verdere financiering of subsidiëring moet de taalafdeling in het tweede en derde bestaansjaar telkens op de eerste schooldag van oktober van het lopende schooljaar de programmatienormen, vermeld in het derde of vierde lid, bereiken.<br>
+<br>
+Als er bij de oprichting, vermeld in het eerste lid, nog geen taalafdeling Nederlands-Vlaamse Gebarentaal in een school van die groep binnen de provincie bestaat, is de norm 6.<br>
+<br>
+Als er bij de oprichting, vermeld in het eerste lid, al een taalafdeling Nederlands-Vlaamse Gebarentaal in een school van die groep binnen de provincie bestaat, is de norm 18.
 
 ### ART. 5.
 
@@ -335,7 +349,11 @@ Met toepassing van artikel 102 van het decreet kan een school tijdens haar eerst
 
 ### ART. 7.
 
-[...  <span class="reference">(opgeh. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</span> ]
+Om met toepassing van artikel 112bis en 120 van het decreet, na het derde bestaansjaar van de taalafdeling Nederlands-Vlaamse Gebarentaal nog gefinancierd of gesubsidieerd te blijven, moet de taalafdeling Nederlands-Vlaamse Gebarentaal op de teldag, vermeld in artikel 114 van het decreet, de rationalisatienormen, vermeld in het tweede of derde lid, bereiken.<br>
+<br>
+Als er bij de oprichting, vermeld in artikel 4, nog geen taalafdeling Nederlands-Vlaamse Gebarentaal in een school van die groep binnen de provincie bestaat, is de norm 6.<br>
+<br>
+Als er bij de oprichting, vermeld in artikel 4, al een taalafdeling Nederlands-Vlaamse Gebarentaal in een school van die groep binnen de provincie bestaat, is de norm 12.
 
 ## HOOFDSTUK 4 SANCTIES
 
