@@ -15,7 +15,17 @@ De bepalingen van dit besluit zijn van toepassing op:<br>
 
 ### ART. 2.
 
-De ambten die de leden van het bestuurs- en onderwijzend personeel kunnen uitoefenen in het gewoon basisonderwijs, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) kleuteronderwijzer;<br /><br />b) onderwijzer;<br /><br />c) leermeester lichamelijke opvoeding;<br /><br />d) leermeester godsdienst;<br /><br />e) leermeester niet-confessionele zedenleer;<br /><br />2° selectieambten: nihil<br /><br />3 ° bevorderingsambt: directeur.
+De ambten die de leden van het bestuurs- en onderwijzend personeel kunnen uitoefenen in het gewoon basisonderwijs, worden als volgt vastgesteld en ingedeeld:<br>
+1° wervingsambten:<br>
+a) kleuteronderwijzer;<br>
+b) onderwijzer;<br>
+c) leermeester lichamelijke opvoeding;<br>
+d) leermeester godsdienst;<br>
+e) leermeester niet-confessionele zedenleer;<br>
+f) kleuteronderwijzer Vlaamse Gebarentaal;<br>
+g) onderwijzer Vlaamse Gebarentaal;<br>
+2° selectieambten: nihil<br>
+3 ° bevorderingsambt: directeur.
 
 ### ART. 3.
 
