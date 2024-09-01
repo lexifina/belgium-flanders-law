@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039908,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot uitvoering van het decreet van 22 maart 2024 over het Vlaamse beleid voor de preventie van gewelddadige radicalisering, extremisme, terrorisme en schadelijke polarisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039908/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "c56c102e1dd3eb63678b3f4a8221fe3ec500f958af300f68877edd04bffa784e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039908&param=informatie",
+  "as_of": "2024-09-01",
+  "made": "2024-05-03",
+  "gazette": "2024-07-31",
+  "numac": 2024006740,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-09-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
