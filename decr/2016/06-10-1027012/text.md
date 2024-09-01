@@ -61,7 +61,7 @@ Om als sportfederatie erkend te worden en te blijven, moet een sportfederatie aa
 5° volgens haar statuten de sport als doelstelling hebben;<br>
 6° een werking, statuten en intern reglement hebben die :<br>
 a) in overeenstemming zijn met het decreet van 24 juli 1996 tot vaststelling van het statuut van de niet-professionele sportbeoefenaar;<br>
-b) in overeenstemming zijn met het decreet van 20 december 2013 inzake gezond en ethisch sporten;<br>
+b) in overeenstemming zijn met het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat;<br>
 c) in overeenstemming zijn met het Antidopingdecreet van 25 mei 2012;<br>
 d) de sportparticipatie niet verhinderen;<br>
 e) de principes en de regels van de democratie aanvaarden, het Europees Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden en het Internationale Verdrag inzake de Rechten van het Kind onderschrijven;<br>
@@ -520,7 +520,9 @@ De Vlaamse Regering bepaalt de duur van een project professionalisering in sport
 
 Een multisportfederatie is een sportfederatie die een kwaliteitsvol en maatschappelijk toegankelijk aanbod heeft in ten minste vijf sporttakken die voorkomen op de sporttakkenlijst. Voor elk van die vijf sporttakken telt ze minstens duizend aangesloten leden. De multisportfederatie organiseert voor haar aangesloten leden recreatieve sportbeoefening of recreatieve competities.<br>
 <br>
-Met behoud van de toepassing van het eerste lid, kan een multisportfederatie ook sporten aanbieden die niet vermeld zijn op de sporttakkenlijst en kan daarvoor gesubsidieerd worden. Die sporten zijn medisch en ethisch verantwoord.
+Met behoud van de toepassing van het eerste lid, kan een multisportfederatie ook sporten aanbieden die niet vermeld zijn op de sporttakkenlijst en kan daarvoor gesubsidieerd worden. Die sporten zijn medisch en ethisch verantwoord.<br>
+<br>
+In afwijking van het tweede lid kan een multisportfederatie niet gesubsidieerd worden voor de sport fitness.
 
 ## Afdeling 2. Basisopdrachten van de gesubsidieerde multisportfederaties
 
@@ -655,7 +657,7 @@ Om als organisatie voor de sportieve vrijetijdsbesteding erkend te worden en te 
 3° een benaming hebben die representatief en overkoepelend is voor de betreffende vrijetijdscluster;<br>
 4° een werking, statuten en intern reglement hebben die :<br>
 a) in overeenstemming zijn met het decreet van 24 juli 1996 tot vaststelling van het statuut van de niet-professionele sportbeoefenaar;<br>
-b) in overeenstemming zijn met het decreet van 20 december 2013 inzake gezond en ethisch sporten;<br>
+b) in overeenstemming zijn met het het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat;<br>
 c) in overeenstemming zijn met het Antidopingdecreet van 25 mei 2012;<br>
 d) de sportparticipatie niet verhinderen;<br>
 e) de principes en de regels van de democratie aanvaarden, het Europees Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden en het Internationale Verdrag inzake de Rechten van het Kind onderschrijven;<br>
@@ -830,14 +832,14 @@ De erkende organisatie voor risicovechtsporten wordt gesubsidieerd volgens de su
 
 ### ART 61.
 
-§ 1. Om voor subsidiëring in aanmerking te komen, voert de erkende organisatie voor risicovechtsporten de volgende opdrachten uit met als doelstelling risicovechtsport op een kwaliteitsvolle manier te beoefenen, met specifieke aandacht voor gezond en ethisch sporten en voor het stimuleren van samenwerking in een transparant risicovechtsportlandschap :<br>
+§ 1. Om voor subsidiëring in aanmerking te komen, voert de erkende organisatie voor risicovechtsporten de volgende opdrachten uit met als doelstelling risicovechtsport op een kwaliteitsvolle manier te beoefenen, met specifieke aandacht voor het stimuleren van een veilig sportklimaat als vermeld in artikel 4 van het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat en voor het stimuleren van samenwerking in een transparant risicovechtsportlandschap :<br>
 1° het aanspreekpunt zijn voor alle risicovechtsportactoren, en alle betrokken vechtsportactoren;<br>
 2° een kenniscentrum zijn met betrekking tot de risicovechtsport in Vlaanderen;<br>
 3° instaan voor een correcte communicatie en netwerking over de specificiteit van risicovechtsporten, in het bijzonder in functie van sensibilisering en bewustwording;<br>
 4° een aangepast beleid voeren dat naast de gezondheidsgerichte aspecten zich ook richt op de begeleiding en ondersteuning van specifieke doelgroepen die zich willen integreren in de beoefening van risicovechtsporten;<br>
 5° fungeren als ondersteuningspunt voor iedereen die betrokken is bij risicovechtsport in Vlaanderen;<br>
 6° begeleiden en ondersteunen van een kwaliteitsvolle omkadering van de risicovechtsportbeoefening;<br>
-7° samenwerken met de erkende organisaties voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond of ethisch sporten, vermeld in artikel 14, § 1, van het decreet van 20 december 2013 inzake het gezond en ethisch sporten;<br>
+7° samenwerken met de erkende organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van veilig sporten, vermeld in artikel 9 van het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat;<br>
 8° de organisatie uitbouwen, structureren en beheren om de opdrachten, vermeld in punt 1° tot en met 7°, kwaliteitsvol uit te voeren.<br>
 <br>
 De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader specificeren.<br>
@@ -865,6 +867,76 @@ In de mate waarin de afspraken, opgenomen in de samenwerkingsovereenkomst, niet 
 Onder voorbehoud dat de ingediende subsidieaanvraag van de organisatie voor risicovechtsporten voor het lopende werkingsjaar is goedgekeurd door de Vlaamse Regering, wordt een voorschot van de subsidie, vermeld in artikel 62, uitbetaald.<br>
 <br>
 Het voorschot bedraagt 90 % van de subsidie waarop de organisatie voor risicovechtsporten aanspraak kan maken.<br>
+<br>
+Het saldo van de subsidie wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde werkingsjaar, nadat de Vlaamse Regering de definitieve subsidie voor het werkingsjaar heeft goedgekeurd.
+
+## DEEL 6/1. Fitness
+
+## Titel 1. Statuut van fitness in de georganiseerde sportsector
+
+## Titel 2. Erkenning en subsidiëring van een organisatie voor fitness
+
+## HOOFDSTUK 1. Erkenning van een organisatie voor fitness
+
+### ART 64/2.
+
+Om als organisatie voor fitness erkend te worden en te blijven, moet de organisatie aan de volgende voorwaarden voldoen:<br>
+1° een vereniging zonder winstoogmerk, een vennootschap met sociaal oogmerk of een stichting zijn, conform het Wetboek van vennootschappen en verenigingen;<br>
+2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+3° in haar statuten de structurele begeleiding en omkadering van de fitness- beoefening in het Nederlandse taalgebied en in het tweetalige gebied Brussel-Hoofdstad als hoofddoelstelling hebben, waarbij ze fungeert als een kenniscentrum voor de fitnessorganisaties en waarbij ze met deskundige krachten die fitnessbeoefening ondersteunt;<br>
+4° als organisatie of via de tewerkgestelde experten binnen de organisatie minimaal drie jaar ervaring hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad op het vlak van kennisverzameling en deling van, expertise in, communicatie over en de ondersteuning van fitnessbeoefening;<br>
+5° een breed draagvlak hebben binnen de fitnesssector en zich richten op zowel fitnessbeoefenaars in georganiseerd verband als op fitnessbeoefenaars in anders of niet georganiseerd verband en op alle mogelijke actoren binnen de fitnesssector;<br>
+6° voorzien in een duurzame betrokkenheid van minstens één arts of voorzien in een gelijkwaardige adviesverlening via de erkende organisatie voor beleidson- dersteuning en praktijkontwikkeling op het gebied van veilig sporten, vermeld in artikel 9 van het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat;<br>
+7° jaarlijks, van het voorbije werkingsjaar, het werkingsverslag, het financiële verslag inclusief de jaarrekening die de algemene vergadering heeft goedgekeurd en het verslag over die goedkeuring bij het agentschap Sport Vlaanderen indienen, en ervoor zorgen dat alle gegevens die verband houden met de erkenningsvoorwaarden, op de zetel of het secretariaat van de organisatie in het Nederlands voorhanden zijn, en die ter beschikking stellen voor onderzoek door het agentschap Sport Vlaanderen.<br>
+<br>
+De organisatie voor fitness wordt erkend volgens de procedure, vermeld in artikel 65 tot en met 68, en de erkenning wordt voor de duur van de olympiade toegekend door de Vlaamse Regering.
+
+## HOOFDSTUK 2. Subsidiëring van een organisatie voor fitness
+
+### ART 64/3.
+
+De erkende organisatie voor fitness wordt gesubsidieerd volgens de subsidiëringsprocedure, vermeld in artikel 69, 70, 71, 72, 73 en 74. De subsidies worden jaarlijks toegekend door de Vlaamse Regering.
+
+### ART 64/4.
+
+§1. Om voor subsidiëring in aanmerking te komen, voert de erkende organisatie voor fitness de volgende opdrachten uit met als doelstelling het kwaliteitsvol beoefenen van fitness, met specifieke aandacht voor veilig sporten, voor antidopingbeleid en voor het stimuleren van samenwerking, kennisdeling en transparantie tussen de fitnesssector en het Vlaamse sportbeleid:<br>
+1° het aanspreekpunt zijn voor alle fitnessactoren en fungeren als ondersteuningspunt voor iedereen die betrokken is bij fitness in Vlaanderen;<br>
+2° een kenniscentrum zijn met betrekking tot fitness in Vlaanderen;<br>
+3° instaan voor een correcte communicatie en netwerking over de specificiteit van fitness, in het bijzonder in functie van sensibilisering en bewustwording;<br>
+4° een aangepast beleid voeren dat zich naast de aspecten over veilig sporten ook richt op de begeleiding en ondersteuning van specifieke doelgroepen die zich willen integreren in de beoefening van fitness;<br>
+5° begeleiden en ondersteunen van een kwaliteitsvolle omkadering van de fitness- beoefening;<br>
+6° samenwerken met de erkende organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van veilig sporten, vermeld in artikel 9 van het decreet van 15 maart 2024 over het stimuleren van een veilig sportklimaat;<br>
+7° samenwerken met de nationale antidopingorganisatie, bevoegd voor de Vlaamse Gemeenschap, met het oog op een antidopingbeleid in de fitnesssector;<br>
+8° haar terreinkennis en specifieke expertise ter beschikking stellen aan de Vlaamse overheid met het oog op beleidsvoorbereiding, beleidsontwikkeling en beleidsevaluatie;<br>
+9° de organisatie uitbouwen, structureren en beheren om de opdrachten, vermeld in punt 1° tot en met 8°, kwaliteitsvol uit te voeren.<br>
+<br>
+Voor de opdracht, vermeld in het eerste lid, 1°, kan de organisatie voor fitness een ledenwerking uitbouwen, gericht op de fitnessactoren.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader specificeren.<br>
+<br>
+§2. Om in aanmerking te komen voor subsidiëring, legt de organisatie voor fitness een beleidsplan voor de volgende olympiade voor aan het agentschap Sport Vlaanderen waarin ze haar organisatorische en financiële planning uiteenzet en aangeeft op welke manier de opdrachten, vermeld in paragraaf 1, eerste lid, beleidsmatig ingevuld worden. Het beleidsplan wordt op basis van effectmeting minstens per olympiade geëvalueerd en zo nodig bijgestuurd.
+
+### ART 64/5.
+
+De jaarlijkse subsidies voor de organisatie voor fitness omvatten werkingssubsidies en personeelssubsidies. De subsidie wordt aangewend voor de uitvoering van de opdrachten, vermeld in artikel 64/4, §1, eerste lid. De Vlaamse Regering kan de verhouding tussen de personeels- en werkingssubsidies bepalen.
+
+### ART 64/6.
+
+De gesubsidieerde organisatie voor fitness maakt een jaarlijks verslag op, dat bestaat uit een werkingsverslag en een financieel verslag, over de uitvoering van het beleidsplan in het voorgaande werkingsjaar. Als uit het jaarlijkse verslag blijkt dat de organisatie voor fitness een of meer opdrachten niet uitvoert, komt ze niet in aanmerking voor subsidiëring op basis van dit decreet.
+
+### ART 64/7.
+
+Het agentschap Sport Vlaanderen kan met de organisatie voor fitness een samenwerkingsovereenkomst sluiten over de optimalisering van de praktische en concrete uitvoering van haar opdrachten, vermeld in artikel 64/4, §1, eerste lid. De samenwerkingsovereenkomst geldt voor de resterende duur van een olympiade. De samenwerkingsovereenkomst heeft tot doel om de organisatie voor fitness te coachen en te begeleiden om haar opdrachten, vermeld in artikel 64/4, §1, eerste lid, te optimaliseren. De uitvoering van de samenwerkingsovereenkomst wordt tussentijds opgevolgd en in overleg met de organisatie voor fitness bijgestuurd door het agentschap Sport Vlaanderen.<br>
+<br>
+De samenwerkingsovereenkomst, vermeld in het eerste lid, omvat minstens bepalingen over de te realiseren afspraken van de organisatie voor fitness en het agentschap Sport Vlaanderen, met inbegrip van de beoogde doelstellingen en de wijze waarop die gemeten of gewaardeerd worden op basis van kwantitatieve of kwalitatieve voortgangsindicatoren.<br>
+<br>
+In de mate waarin de afspraken, opgenomen in de samenwerkingsovereenkomst, niet worden gerealiseerd, kan dat leiden tot een proportionele correctie van de subsidie op de wijze, vermeld in artikel 72.
+
+### ART 64/8.
+
+Onder voorbehoud dat de ingediende subsidieaanvraag van de organisatie voor fitness voor het lopende werkingsjaar is goedgekeurd door de Vlaamse Regering, wordt een voorschot van de subsidie, vermeld in artikel 64/5, uitbetaald.<br>
+<br>
+Het voorschot bedraagt 90 procent van de subsidie waarop de organisatie voor fitness aanspraak kan maken.<br>
 <br>
 Het saldo van de subsidie wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde werkingsjaar, nadat de Vlaamse Regering de definitieve subsidie voor het werkingsjaar heeft goedgekeurd.
 
@@ -960,15 +1032,15 @@ De sportorganisatie krijgt de mogelijkheid om haar standpunt over die overtredin
 <br>
 De Vlaamse Regering beslist, na kennisname van het advies, vermeld in het tweede lid, en, in voorkomend geval, van het meegedeelde standpunt van de sportorganisatie, over het al dan niet geheel of gedeeltelijk intrekken en terugvorderen van de subsidiëring. De terugvordering van de subsidiëring gebeurt conform artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
 
-## HOOFDSTUK 4. Specifieke procedure voor de proportionele correctie van de basissubsidie van een [sportorganisatie (verv. decr. 20 mei 2022, art. 48, I: 1 december 2022)] in geval van niet-naleving van de samenwerkingsovereenkomst, vermeld in artikel 17 [, 35/1, 48/1 en 63/1 (ing. decr. 20 mei 2022, art. 48, I: 1 november 2022)]
+## HOOFDSTUK 4. Specifieke procedure voor de proportionele correctie van de basissubsidie van een sportorganisatie in geval van niet-naleving van de samenwerkingsovereenkomst, vermeld in artikel 17 , 35/1, 48/1, 63/1 en 64/7
 
 ### ART 72.
 
-Als het agentschap Sport Vlaanderen vaststelt dat een gesubsidieerde sportorganisatie de afspraken die opgenomen zijn in de samenwerkingsovereenkomst, vermeld in artikel 17, 35/1, 48/1 of 63/1, niet realiseert, brengt het agentschap Sport Vlaanderen de sportorganisatie op de hoogte van de vastgestelde overtredingen.<br>
+Als het agentschap Sport Vlaanderen vaststelt dat een gesubsidieerde sportorganisatie de afspraken die opgenomen zijn in de samenwerkingsovereenkomst, vermeld in artikel 17, 35/1, 48/1, 63/1 of 64/7, niet realiseert, brengt het agentschap Sport Vlaanderen de sportorganisatie op de hoogte van de vastgestelde overtredingen.<br>
 <br>
 De sportorganisatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
 <br>
-Onverminderd de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, beslist de Vlaamse Regering, na de kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de sportorganisatie over een proportionele correctie van de basissubsidie, vermeld in respectievelijk artikel 9, derde lid, 1°, a),&nbsp;artikel 33, 46 of 62, vanaf het volgende werkingsjaar en tot bij de jaarlijkse evaluatie wordt vastgesteld dat de overtredingen geremedieerd zijn.
+Onverminderd de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, beslist de Vlaamse Regering, na de kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de sportorganisatie over een proportionele correctie van de basissubsidie, vermeld in respectievelijk artikel 9, derde lid, 1°, a),&nbsp;artikel 33, 46, 62 of 64/5 , vanaf het volgende werkingsjaar en tot bij de jaarlijkse evaluatie wordt vastgesteld dat de overtredingen geremedieerd zijn.
 
 ## HOOFDSTUK 5. Verificatie en afrekening
 
@@ -986,7 +1058,7 @@ De inhoudelijke en financiële controles kunnen enerzijds tijdens het betreffend
 <br>
 In afwijking van het eerste lid rapporteert de multisportfederatie in het financiële verslag afzonderlijk over de basisopdracht, vermeld in artikel 27, § 1, eerste lid, 4°.<br>
 <br>
-In afwijking van het eerste lid, blijkt uit het financiële verslag van de koepelorganisatie, de organisaties voor de sportieve vrijetijdsbesteding en de organisatie voor risicovechtsporten duidelijk welke kosten zijn gemaakt voor elke opdracht.
+In afwijking van het eerste lid, blijkt uit het financiële verslag van de koepelorganisatie, de organisaties voor de sportieve vrijetijdsbesteding de organisatie voor de risicovechtsporten en de organisatie voor fitness duidelijk welke kosten zijn gemaakt voor elke opdracht.
 
 ## DEEL 8. [... (opgeh. decr. 20 mei 2022, art. 52, I: 1 november 2022)]
 
