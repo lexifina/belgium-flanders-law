@@ -40,6 +40,13 @@ Het secretariaat van de expertencommissie grensoverschrijdend gedrag opvolging a
 
 De heer Bart Meganck wordt aangewezen als voorzitter.
 
+### ART 3/1.
+
+De leden van de expertencommissie grensoverschrijdend gedrag opvolging aanbevelingen rapport OOG Gymfed, vermeld in artikel 2, eerste lid, hebben ten laste van het agentschap Sport Vlaanderen recht op:<br>
+1° per vergadering een presentiegeld dat voor de voorzitter 200 euro en voor de andere leden 130 euro bedraagt, met dien verstande dat jaarlijks aan de voorzitter niet meer dan 3000 euro en aan de andere leden niet meer dan 1950 euro uitgekeerd kan worden;<br>
+2° de terugbetaling van de reis- en verblijfkosten onder dezelfde voorwaarden als de voorwaarden die gelden voor de personeelsleden van het agentschap Sport Vlaanderen.<br>
+&nbsp;
+
 ### ART 4.
 
-Dit besluit treedt in werking op datum van ondertekening.
+Dit besluit treedt in werking op datum van ondertekening en treedt buiten werking op 20 mei 2025.
