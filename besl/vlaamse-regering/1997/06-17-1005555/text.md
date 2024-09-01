@@ -46,18 +46,16 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 
 ### ART. 5bis.
 
-<p>§ 1. Uit de basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het kleuteronderwijs, betrekkingen worden ingericht :<br>
+<p>§1. Uit de basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het kleuteronderwijs, betrekkingen worden ingericht :<br>
 1° in het ambt van kleuteronderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding.</p>
+2° in het ambt van leermeester lichamelijke opvoeding;<br>
+3° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van kleuteronderwijzer Vlaamse Gebarentaal.</p>
 
-<p>§ 2. De basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding :<br>
-1° van de basisomkadering van het kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval, de directeur of de adjunct-direteur presteren in het kleuteronderwijs, afgetrokken;<br>
-2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.</p>
-
-<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 met ingang van 1 januari 2021, 2021-2022, 2022-2023 en 2023-2024 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
-
-<p>&nbsp;</p>
-&nbsp;
+<p>§2. De basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer, &nbsp;leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal:<br>
+1° &nbsp;&nbsp; &nbsp;van de basisomkadering van het kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval, de directeur of de adjunct-directeur presteren in het kleuteronderwijs, afgetrokken;<br>
+2° &nbsp;&nbsp; &nbsp;de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 met ingang van 1 januari 2021, 2021-2022, 2022-2023 en 2023-2024 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
 
 <table border="1">
 	<tbody>
@@ -152,11 +150,12 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 § 4. Uit de basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het lager onderwijs, betrekkingen worden ingericht in de volgende ambten :<br>
 1° onderwijzer;<br>
 2° leermeester lichamelijke opvoeding;<br>
-3° leermeester godsdienst of niet-confessionele zedenleer.</p>
+3° leermeester godsdienst of niet-confessionele zedenleer;<br>
+4° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van onderwijzer Vlaamse Gebarentaal.</p>
 
-<p>§ 5. De basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsienst of niet-confessionele zedenleer :<br>
+<p>“§5. De basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal:<br>
 1° van de basisomkadering van het lager onderwijs worden, in voorkomend geval, de lestijden onderwijsopdracht afgetrokken die de directeur of de adjunct-directeur presteren in het lager onderwijs;<br>
-2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen.</p>
+2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen.</p>
 
 <p>§ 6. De onderwijsopdracht van de directeur of de adjunct-directeur van een basisschool kan geput worden uit de basisomkadering, toegekend volgens artikel 131 van het decreet.</p>
 
@@ -166,9 +165,9 @@ De lestijden bekomen door toepassing van het percentage 1,2 en de voorziene afro
 
 ### ART. 6.
 
-<p>§ 1. Met toepassing van artikel 133, § 2, van het decreet wordt het leerlingenkenmerk 2, vermeld in artikel 133, § 1, b), vastgesteld aan de hand van de gegevens over de selectieve participatietoeslag, van de bevoegde dienst van de Vlaamse overheid, als vermeld in artikel 28, § 2, en artikel 31, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid op basis van de beschikbare gegevens op 28 februari van het voorgaande schooljaar.<br>
+<p>§1. Met toepassing van artikel 133, § 2, van het decreet wordt het leerlingenkenmerk 2, vermeld in artikel 133, § 1, b), vastgesteld aan de hand van de gegevens over de selectieve participatietoeslag, van de bevoegde dienst van de Vlaamse overheid, als vermeld in artikel 28, § 2, en artikel 31, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid op basis van de beschikbare gegevens op 28 februari van het voorgaande schooljaar.<br>
 <br>
-§ 2. Met toepassing van artikel 133, § 2, van het decreet worden het leerlingenkenmerk 1, vermeld in artikel 133, § 1, a), van het decreet, en het leerlingenkenmerk 3, vermeld in artikel 133, § 1, c), van het decreet, vastgesteld op basis van de gegevens, verzameld via een verklaring op erewoord van de ouders of voogd van de leerling.<br>
+§2. Met toepassing van artikel 133, § 2, van het decreet worden het leerlingenkenmerk 1, vermeld in artikel 133, § 1, a), van het decreet, en het leerlingenkenmerk 3, vermeld in artikel 133, § 1, c), van het decreet, vastgesteld op basis van de gegevens, verzameld via een verklaring op erewoord van de ouders of voogd van de leerling.<br>
 <br>
 Bij de verzameling van de gegevens vie de verklaring op erewoord wordt gebruikgemaakt van de vragen, vermeld in bijlage 1 bij het besluit van de Vlaamse Regering van 6 februari 2009 houdende de werkingsbudgetten in het basisonderwijs en de werkingsbudgetten in het secundair onderwijs.<br>
 <br>
@@ -180,13 +179,13 @@ Wijzigingen in de gegevens van leerlingenkenmerk 1 en 3 kunnen uitsluitend worde
 <br>
 De verklaringen op erewoord die gebruikt worden om de gegevens voor leerlingenkenmerk 1 en 3 te verzamelen, worden ten minste vijftien jaar bewaard door de school.<br>
 <br>
-§ 3. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet is het verblijf op zich in een centrum voor kinderzorg en gezinsondersteuning een voldoende bewijs.<br>
+§3. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet is het verblijf op zich in een centrum voor kinderzorg en gezinsondersteuning een voldoende bewijs.<br>
 <br>
-§ 4. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet is het verblijf op zich in een tehuis voor kinderen van wie de ouders geen vaste verblijfplaats hebben, een voldoende bewijs.<br>
+§4. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet is het verblijf op zich in een tehuis voor kinderen van wie de ouders geen vaste verblijfplaats hebben, een voldoende bewijs.<br>
 <br>
-§ 5. ...<br>
+§5. Met toepassing van artikel 140, §1, 6°, van het decreet wordt de indicator leerlingen die gebruik maken van een jeugdhulpverleningsbeslissing als vermeld in artikel 140, §1, 6°, c), van het decreet, vastgesteld door AGODI, de verwerkingsverantwoordelijke, op basis van de data van het agentschap Opgroeien. Als er geen automatische data-uitwisseling met het agentschap Opgroeien plaatsvindt, wordt het voldoen aan de voormelde indicator vastgesteld op basis van een bewijs van het gebruik van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, §1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, voor verblijf op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank.<br>
 <br>
-§ 6. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet wordt de indicator « de ouders behoren tot de trekkende bevolking », vermeld in artikel 140, § 1, 6°, d), van het decreet, vastgesteld op basis van een van de volgende attesten :<br>
+§6. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet wordt de indicator « de ouders behoren tot de trekkende bevolking », vermeld in artikel 140, § 1, 6°, d), van het decreet, vastgesteld op basis van een van de volgende attesten :<br>
 1° ...;<br>
 2° een kopie van de aanvraag tot vermindering van het kostgeld voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
 3° een kopie uit het handelsregister, waaruit blijkt dat beide ouders kermis- of circusexploitant of -artiest zijn;<br>
@@ -200,7 +199,7 @@ De verklaringen op erewoord die gebruikt worden om de gegevens voor leerlingenke
 <br>
 De attesten die gebruikt worden om de gegevens te verzamelen, worden ten minste vijftien jaar bewaard door de school.<br>
 <br>
-§ 7. Met toepassing van artikel 140, §1, 6°, van het decreet wordt de indicator leerlingen die een zorgthuis hebben als vermeld in artikel 140, §1, 6°, e), van het decreet, vastgesteld door AGODI, de verwerkingsverantwoordelijke, op basis van de data van het agentschap Opgroeien, het Vlaams Agentschap voor Personen met een Handicap of Fedasil.<br>
+§7. Met toepassing van artikel 140, §1, 6°, van het decreet wordt de indicator leerlingen die een zorgthuis hebben als vermeld in artikel 140, §1, 6°, e), van het decreet, vastgesteld door AGODI, de verwerkingsverantwoordelijke, op basis van de data van het agentschap Opgroeien, het Vlaams Agentschap voor Personen met een Handicap of Fedasil.<br>
 <br>
 Als er geen automatische data-uitwisseling met het agentschap Opgroeien of het Vlaams Agentschap voor Personen met een Handicap plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben voor de leerlingen, vermeld in artikel 3, 28°/1, a), van het decreet, vastgesteld op basis van een bewijs van het gebruik van een jeugdhulpverleningsbeslissing, vermeld in artikel 3, 28°/1, a), van het decreet.<br>
 <br>
@@ -666,9 +665,10 @@ De minder gevolgde cursussen worden op dezelfde wijze georganiseerd als de meest
 
 § 1. Met toepassing van artikel 139septies decies, § 4, van het decreet kunnen uit de lestijden die conform artikel 139septies decies, § 2, van het decreet berekend worden, in het gewoon kleuteronderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van kleuteronderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding.<br>
+2° in het ambt van leermeester lichamelijke opvoeding;<br>
+3° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van kleuteronderwijzer Vlaamse Gebarentaal<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
 <br>
 § 2. Met toepassing van artikel 139septies decies, § 4, van het decreet, kunnen, uit de lestijden die conform artikel 139septies decies, § 2, van het decreet berekend worden, in het gewoon kleuteronderwijs betrekkingen worden ingericht in het ambt van kinderverzorger, na een omzetting conform de volgende tabel:
 <table border="1">
@@ -768,9 +768,10 @@ De omrekening van de uren naar gefinancierde of gesubsidieerde voltijdse of deel
 Met toepassing van artikel 139septies decies, § 4, van het decreet kunnen, uit de lestijden die conform artikel 139septies decies, § 2, van het decreet berekend worden, in het gewoon lager onderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van onderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer;<br>
+4° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van onderwijzer Vlaamse Gebarentaal.<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.
 
 ### ART 20quater.
 
@@ -895,16 +896,18 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 § 1. Met toepassing van artikel 139duodevicies, § 4, van het decreet kunnen, uit de lestijden die conform artikel 139duodevicies, § 2, van het decreet verkregen worden, in het gewoon kleuteronderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van kleuteronderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding.<br>
+2° in het ambt van leermeester lichamelijke opvoeding;<br>
+3° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet&nbsp;inrichten, ook in het ambt van kleuteronderwijzer Vlaamse Gebarentaal.<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
 <br>
 § 2. Met toepassing van 139duodevicies, § 4, van het decreet kunnen, uit de lestijden die conform artikel 139duodevicies, § 2, van het decreet verkregen worden, in het gewoon lager onderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van onderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer;<br>
+4° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van onderwijzer Vlaamse Gebarentaal.<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
 <br>
 § 3. Met toepassing van artikel 139duodevicies, § 4 en § 6, van het decreet kunnen de lestijden die conform artikel 139duodevicies, § 2 van het decreet berekend worden, in het gewoon basisonderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
 <table border="1">
@@ -1026,16 +1029,18 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 § 1. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen, uit de lestijden die conform artikel 139undevicies, § 2 of § 3, van het decreet verkregen worden, in het gewoon kleuteronderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van kleuteronderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding.<br>
+2° in het ambt van leermeester lichamelijke opvoeding;<br>
+3° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van kleuteronderwijzer Vlaamse Gebarentaal.<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer, leermeester lichamelijke opvoeding of, in voorkomend geval, kleuteronderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
 <br>
 § 2. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen, uit de lestijden die conform artikel 139undevicies, § 2 of § 3, van het decreet verkregen worden, in het gewoon lager onderwijs in de volgende ambten betrekkingen worden ingericht:<br>
 1° in het ambt van onderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer;<br>
+4° voor de scholen gewoon basisonderwijs die een taalafdeling Nederlands-Vlaamse Gebarentaal als vermeld in artikel 3, 52°bis/2, van het decreet inrichten, ook in het ambt van onderwijzer Vlaamse Gebarentaal.<br>
 <br>
-De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding, leermeester godsdienst of niet-confessionele zedenleer of, in voorkomend geval, onderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
 <br>
 § 3. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen, uit de lestijden die conform artikel 139undevicies, § 2 of § 3, van het decreet verkregen worden, in het gewoon kleuteronderwijs betrekkingen worden ingericht in het ambt van kinderverzorger, na de omzetting conform de volgende tabel:
 <table border="1">
@@ -1388,11 +1393,18 @@ De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden   uitsluitend a
 
 Met toepassing van artikel 142, § 2, van het decreet kan het aantal   aanvullende lestijden, vermeld in artikel 22 en 22bis, gedurende het volledige   schooljaar worden overgedragen.<BR><BR>Met toepassing van artikel 142, § 2, van   het decreet kunnen de lestijden, vermeld in artikel 131 van het decreet,   gedurende het volledige schooljaar overgedragen worden voor de organisatie van   een taalbad, als vermeld in artikel 11ter, § 2, van het decreet.
 
-## [ONDERAFDELING 3 AANVULLENDE LESTIJDEN VOOR LICHAMELIJKE OPVOEDING IN HET KLEUTERONDERWIJS (ing. BVR 5 december 2003, art. 2)]
+## ONDERAFDELING 3 Aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal
 
 ### ART. 23.
 
-<P>...</P>
+<p>§1. Met toepassing van artikel 139vicies, §5, van het decreet kunnen, uit de lestijden die conform artikel 139vicies, §2, van het decreet verkregen worden, in het gewoon kleuteronderwijs betrekkingen worden ingericht in het ambt van kleuteronderwijzer Vlaamse Gebarentaal.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§2. Met toepassing van artikel 139vicies, §5, van het decreet kunnen, uit de lestijden die conform artikel 139vicies, §3, van het decreet verkregen worden, in het gewoon lager onderwijs betrekkingen worden ingericht in het ambt van onderwijzer Vlaamse Gebarentaal.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer Vlaamse Gebarentaal: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer Vlaamse Gebarentaal. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+&nbsp;</p>
 
 ### ART. 23bis.
 
