@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040228,
+  "title": "Besluit van de Vlaamse Regering van 2024-09-06 tot wijziging van de regelgeving over het omstandigheidsverlof voor de personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040228/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "457e318b2540d565d8b42bba20040d638712a8ac2ce5b56e6e963560e1636cd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040228&param=informatie",
+  "as_of": "2024-09-01",
+  "made": "2024-09-06",
+  "gazette": "2024-09-27",
+  "numac": 2024008703,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
