@@ -302,14 +302,20 @@ De flexibele werkregeling, vermeld in artikel 17decies, kan vervroegd worden sto
 
 ### ART. 19.
 
-§ 1. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld, als hij op het ogenblik van de aanstelling niet voldoet aan de voorwaarden van artikel V.45, 1° en 2°, van de Codificatie sommige bepalingen voor het onderwijs, artikel 18, §1, 1° en 2°, van de Codex Secundair Onderwijs van 17 december 2010, artikel 73, §1, 1° en 2°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, artikel 35, §1, 1° en 2°, van het decreet van 16 juni 2023 over de onderwijsinternaten, artikel 66, 1°, 2° en 6°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, artikel 33, eerste lid, 1°, a) en b), van het decreet van 5 mei 2023 over leersteun, artikel 24 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding of van artikel 106, §1, 1°, a) en b), van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en daarenboven :<br>
+§1. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld, als hij op het ogenblik van de aanstelling niet voldoet aan de voorwaarden van artikel V.45, 1° en 2°, van de Codificatie sommige bepalingen voor het onderwijs, artikel 18, §1, 1° en 2°, van de Codex Secundair Onderwijs van 17 december 2010, artikel 73, §1, 1° en 2°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, artikel 35, §1, 1° en 2°, van het decreet van 16 juni 2023 over de onderwijsinternaten, artikel 66, 1°, 2° en 6°, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, artikel 33, eerste lid, 1°, a) en b), van het decreet van 5 mei 2023 over leersteun, artikel 24 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding of van artikel 106, §1, 1°, a) en b), van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en daarenboven :<br>
 1° houder is van een bekwaamheidsbewijs voor het ambt, zoals bedoeld in artikel 5, 8°;<br>
 2° voldoet aan de taalvereisten zoals bepaald in artikel 19bis tot en met 19quinquies;<br>
 3° van onberispelijk gedrag is, zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan een maand tevoren werd afgegeven.<br>
 <br>
-§ 2. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld in strijd met de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
+§2. Niemand kan door een inrichtende macht als tijdelijk personeelslid worden aangesteld in strijd met de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
 <br>
-§ 3. ...
+§3. In afwijking van paragraaf 1, 1°, kan een personeelslid ten voorlopigen titel tijdelijk aangesteld worden op basis van een geldig ingediende aanvraag tot gelijkwaardigheid van zijn diploma bij het National Academic Recognition Information Centre (NARIC).<br>
+<br>
+De voorlopige tijdelijke aanstelling, vermeld in het eerste lid, is niet mogelijk in een ambt dat of in een functie die ressorteert onder de bepalingen van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.<br>
+<br>
+De voorlopige tijdelijke aanstelling, vermeld in het eerste lid, eindigt van rechtswege en zonder vooropzeg conform artikel 21, §1, eerste lid, h), vanaf het ogenblik dat het personeelslid op basis van de beslissing van NARIC geen gelijkwaardigheid toegekend krijgt die voldoet als bekwaamheidsbewijs voor een aanstelling in dat ambt.<br>
+<br>
+Tijdens de voorlopige tijdelijke aanstelling, vermeld in het eerste lid, heeft het personeelslid recht op een salaris op basis van de laagste salarisschaal die van toepassing is voor het ambt in kwestie.
 
 ### ART. 19bis.
 
