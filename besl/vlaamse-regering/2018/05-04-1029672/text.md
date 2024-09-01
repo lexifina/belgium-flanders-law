@@ -1150,24 +1150,13 @@ In de optie domeinoverschrijdende initiatieopleiding wordt het vak domeinoversch
 
 ### ART 17.
 
-§ 1. Conform artikel 23 van het decreet van 9 maart 2018 stelt de academie voor elke opleiding die ze organiseert een lessenrooster samen dat bestaat uit de vakken die conform artikel 4, 6, 8 en 10 van dit besluit georganiseerd kunnen worden in de desbetreffende studierichting en graad of in de domeinoverschrijdende initiatieopleiding. De academie kiest de vakken in functie van de basiscompetenties, de specifieke eindtermen of de beroepskwalificatie die de leerlingen moeten bereiken.<br>
+§ 1. Conform artikel 23 van het decreet van 9 maart 2018 stelt de academie voor elke opleiding die ze organiseert een lessenrooster samen dat bestaat uit de vakken die conform artikel 4, 6, 8 en 10 van dit besluit georganiseerd kunnen worden in de desbetreffende studierichting en graad of in de domeinoverschrijdende initiatieopleiding. Voor de leerlingen van de eerste, tweede en derde graad kiest de academie de vakken in functie van de te bereiken basiscompetenties van de graad in kwestie.&nbsp;Voor de leerlingen van de vierde graad dans, woordkunst-drama of muziek of de derde graad audiovisuele en beeldende kunsten die willen doorstromen naar het hoger kunstonderwijs, kiest de academie de vakken in functie van de te bereiken specifieke eindtermen en op maat van de artistieke ambities van de leerlingen. Het bestuur garandeert bij die keuze de organiseerbaarheid en de invulling van de kwaliteitsverwachtingen van de academie. Door het toepassen van deze maatregel kan er geen nieuwe of bijkomende terbeschikkingstelling wegens ontstentenis van betrekking worden uitgesproken. De Vlaamse Regering organiseert in het schooljaar 2026-2027 een evaluatie van deze keuzemogelijkheid, met organiseerbaarheid en de invulling van de kwaliteitsverwachtingen van de academie als elementen van deze evaluatie. Voor de overige leerlingen van de vierde graad kiest de academie de vakken in functie van de te behalen beroepskwalificatie.<br>
 <br>
 De academie verdeelt de vakken en hun minimale studieomvang evenwichtig over de verschillende leerjaren naargelang de trajecten, vermeld in artikel 12 tot en met 20 van het decreet van 9 maart 2018, die ze aanbiedt.<br>
 <br>
 Met behoud van de toepassing van artikel 22 van het decreet van 9 maart 2018 kan een academie voor een vak leeractiviteiten van een halve lestijd organiseren. Met uitzondering van de derde graad dans waarborgt de academie daarbij dat de teller van de opdrachtbreuk waarin de leraar wordt aangesteld een geheel getal is.<br>
 <br>
 Een academie die een opleiding in verschillende trajecten aanbiedt, maakt voor elk traject een afzonderlijk lessenrooster.<br>
-<br>
-In afwijking van artikel 18, 19, 20 en 21 ontwikkelt de academie voor een leerling in de vierde graad die wil doorstromen naar het hoger kunstonderwijs, een specifiek lessenrooster op maat van de ambities van die leerling en de specifieke eindtermen.<br>
-<br>
-De academie besteedt ministens drie lestijden van dat specifieke lessenrooster aan een of meer van de volgende vakken:<br>
-1° de algemene vakken vermeld in artikel 4, tweede lid;<br>
-2° de algemene vakken vermeld in artikel 6, paragraaf 7;<br>
-3° de algemene vakken vermeld in artikel 8, paragraaf 8;<br>
-4° de algemene vakken vermeld in artikel 10, paragraaf 10;<br>
-5° muziekanalyse.<br>
-<br>
-De overige lestijden besteedt de academie aan een of meer vakken van de vierde graad, als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe dat vak behoort.<br>
 <br>
 § 2. Het lessenrooster geldt voor alle leerlingen die zich voor de optie hebben ingeschreven, tenzij de leerling vrijgesteld is van een vak, conform artikel 34.<br>
 <br>
@@ -1621,7 +1610,7 @@ Leerlingen zijn gewettigd afwezig als ze afwezig zijn om een van de volgende red
 4° als de vestigingsplaats van de academie onbereikbaar of ontoegankelijk is;<br>
 5° wegens een oproeping of dagvaarding voor een rechtbank;<br>
 6° wegens maatregelen van de bijzondere jeugdzorg en de jeugdbescherming;<br>
-7° om een familieraad bij te wonen;<br>
+7° ...;<br>
 8° om actief deel te nemen aan een sportmanifestatie, stage, toernooi of wedstrijd als topsportbelofte voor een individuele selectie of als topsporter met een A- of B-statuut;<br>
 9° om actief deel te nemen aan een culturele manifestatie als de leerling een topkunstenstatuut A of B heeft voor het betrokken schooljaar;<br>
 10° wegens deelname aan een examen voor de Examencommissie secundair onderwijs;<br>
@@ -1634,7 +1623,7 @@ Leerlingen zijn gewettigd afwezig als ze afwezig zijn om een van de volgende red
 <br>
 Het Agentschap voor Onderwijsdiensten bepaalt de documenten die voorgelegd moeten worden om de afwezigheid om een van de redenen, vermeld in het eerste lid, te staven.<br>
 <br>
-De directeur kan aan een leerling per schooljaar maximaal drie afwezigheden per vak toestaan wegens omstandigheden van persoonlijke aard. Die afwezigheden worden beschouwd als gewettigd.<br>
+De directeur kan aan een leerling afwezigheden toestaan wegens omstandigheden van persoonlijke aard. De voormelde afwezigheden worden beschouwd als gewettigd.<br>
 <br>
 Het schoolbestuur neemt de wijze waarop leerlingen een afwezigheid melden en de verantwoording die leerlingen aan de academie bezorgen, op in haar academiereglement.
 
@@ -1959,7 +1948,7 @@ Conform artikel 86/1 van het decreet van 9 maart 2018 kan de minister binnen de 
 <br>
 De minister bepaalt de indientermijn en de modaliteiten voor de aanvraag van de ondersteuning.<br>
 <br>
-De minister neemt een beslissing over de ingediende aanvragen op basis van het advies van het departement Onderwijs en Vorming en de onderwijsinspectie. In het advies wordt beoordeeld in welke mate de expertise-uitwisseling op een systematische manier gebeurt met het oog op het realiseren van de doelstellingen, vermeld in het eerste lid.
+De minister neemt een beslissing over de ingediende aanvragen op basis van het advies van het departement Onderwijs en Vorming. In het advies wordt beoordeeld in welke mate de expertise-uitwisseling op een systematische manier gebeurt met het oog op het realiseren van de doelstellingen, vermeld in het eerste lid.
 
 ## HOOFDSTUK 6. Inschrijvingsgeld
 
@@ -2114,7 +2103,7 @@ Als een academie onderwijsbevoegdheid heeft verworven voor een cluster waarvan d
 
 Een schoolbestuur kan onderwijsbevoegdheid aanvragen voor een optie die niet in artikel 3, 5, 7 of 9 voorkomt of een muziekinstrument dat niet in artikel 11 tot en met 14 voorkomt. Het schoolbestuur kan daarbij een voorstel tot een nieuw vak toevoegen.<br>
 <br>
-In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit de Onderwijsinspectie, het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de minister een beslissing voor 15 mei.<br>
+In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit de Onderwijsinspectie, het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de minister een beslissing voor 15 mei, over de optie of het muziekinstrument en, in voorkomend geval, de nieuwe vakken.<br>
 <br>
 Bij de beoordeling van de aanvragen houdt de adviescommissie, naast de criteria vermeld in artikel 56 § 1 derde lid, rekening met de volgende criteria:<br>
 1° de mate waarin de aangevraagde optie of het aangevraagde vak of muziekinstrument zich onderscheidt van het bestaande aanbod, vermeld in artikel 3 tot en met 15;<br>
