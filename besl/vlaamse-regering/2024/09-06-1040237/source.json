@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040237,
+  "title": "Besluit van de Vlaamse Regering van 2024-09-06 tot erkenning van de master-na-masteropleiding “Master in Business Analytics and Artificial Intelligence” als nieuwe opleiding van de Vlerick Business School",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040237/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "e34bbdd6681a0fdf9a7c43e071d2ec147da9e6bcf12e979bade131aa3cb543d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040237&param=informatie",
+  "as_of": "2024-09-01",
+  "made": "2024-09-06",
+  "gazette": "2024-09-26",
+  "numac": 2024008803,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
