@@ -228,10 +228,14 @@ De aanstelling, vermeld in het tweede lid, gebeurt ten minste voor het volume da
 
 ### ART 27.
 
-Een centrumbestuur kan een personeelslid tijdelijk aanstellen als het personeelslid voldoet aan de voorwaarden, vermeld in artikel 88, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, en daarenboven:<br>
+§1. Een centrumbestuur kan een personeelslid tijdelijk aanstellen als het personeelslid voldoet aan de voorwaarden, vermeld in artikel 88, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, en daarenboven:<br>
 1° van onberispelijk gedrag is, zoals blijkt uit een uittreksel van het strafregister dat niet langer dan één jaar tevoren is afgegeven;<br>
 2° ...<br>
-3° voldoet aan de taalvereisten, vermeld in artikel 28 tot en met 30 van dit decreet.
+3° voldoet aan de taalvereisten, vermeld in artikel 28 tot en met 30 van dit decreet.<br>
+<br>
+§2. In afwijking van artikel 88, §1, 1°, c), van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan een personeelslid ten voorlopigen titel tijdelijk aangesteld worden op basis van een geldig ingediende aanvraag tot gelijkwaardigheid van zijn diploma bij het National Academic Recognition Information Centre (NARIC).&nbsp;Tijdens de voorlopige tijdelijke aanstelling heeft het personeelslid recht op een salaris op basis van de laagste salarisschaal die van toepassing is voor het ambt in kwestie.<br>
+<br>
+De voorlopige tijdelijke aanstelling, vermeld in het eerste lid, eindigt van rechtswege en zonder vooropzeg conform artikel 32, 1°, vanaf het ogenblik dat het personeelslid op basis van de beslissing van NARIC geen gelijkwaardigheid toegekend krijgt die voldoet als bekwaamheidsbewijs voor een aanstelling in dat ambt.
 
 ### ART 28.
 
