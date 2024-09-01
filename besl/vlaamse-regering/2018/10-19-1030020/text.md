@@ -520,11 +520,11 @@ Met behoud van de toepassing van de bepalingen van hoofdstuk 3 en 4 kunnen er to
 2° voorafgaande vergunningen voor het verhogen van de capaciteit van een centrum voor kortverblijf of woonzorgcentrum dat erkend of voorafgaandelijk vergund is.<br>
 Aanvragen die in die periode worden ingediend, worden van rechtswege geacht niet ontvankelijk te zijn en worden niet onderzocht.
 
-## HOOFDSTUK 9. Bijkomende erkenning als oriënterend kortverblijf
+## HOOFDSTUK 9. ...
 
 ### ART 43.
 
-De Vlaamse Regering kan aan een erkend centrum voor kortverblijf een bijkomende erkenning als oriënterend kortverblijf verlenen. De erkenning en de programmatie van de bijkomende erkenning worden geregeld in bijlage 2, die bij dit besluit is gevoegd.
+...
 
 ## HOOFDSTUK 10. Wijzigingsbepalingen
 
@@ -557,34 +557,23 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/21_1.pdf#page=162">Werkingsgebieden als vermeld in artikel 1, 15°</a>
 
-## Bijlage 2. Centrum voor oriënterend kortverblijf als vermeld in artikel 43
+## Bijlage 2. ...
 
-## Hoofdstuk 1. Definities
+## Hoofdstuk 1. ...
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:12pt"><span style="font-size:10.0pt">In deze bijlage wordt verstaan onder:<br>
-1° centrum voor kortverblijf met een bijkomende erkenning: een centrum voor kortverblijf met een bijkomende erkenning als vermeld in artikel 3;<br>
-2° gebruiker: iedere natuurlijke persoon die vanuit een verminderd zelfzorgvermogen een beroep doet of kan doen op een verblijf in een centrum voor kortverblijf met een bijkomende erkenning, of zijn vertegenwoordiger;<br>
-3°&nbsp;integrale zorg en ondersteuning: de zorg en ondersteuning die een persoon met een zorg- en ondersteuningsvraag als geheel benadert, rekening houdend met aspecten van medische, psychosociale, levensbeschouwelijke en culturele aard en ook met factoren uit het dagelijkse leven;<br>
-4° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met verminderd zelfzorgvermogen, niet beroepshalve maar meer dan occasioneel, helpt en ondersteunt in het dagelijkse leven;<br>
-5° natuurlijk thuismilieu: de plaats waar de gebruiker effectief woont of inwoont, met uitsluiting van het woonzorgcentrum;<br>
-6° planningsvergunning: een beslissing waaruit blijkt dat de aangevraagde capaciteit past in de programmatie van centra voor kortverblijf met een bijkomende erkenning als centrum voor oriënterend kortverblijf;<br>
-7°&nbsp;respijtzorg: een tijdelijke overname van de zorg voor de gebruiker met als doel de mantelzorger te ontlasten;<br>
-8° zorg- en ondersteuningsplan: een werkinstrument waarin, na vraagverheldering of indicatiestelling, op aangeven van en in samenspraak met de persoon de zorg- en ondersteuningsdoelen en de afspraken over de geplande zorg en ondersteuning voor een persoon met een zorg- en ondersteuningsvraag zijn opgenomen, en dat toegankelijk is voor het zorgteam;<br>
-9° zorg- en ondersteuningsvraag: de behoefte aan zorg en ondersteuning die de gebruiker of zijn omgeving subjectief aanvoelt of die objectief wordt vastgesteld;<br>
-10° zorgaanbieder: een persoon, dienst of organisatie die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsvraag, inclusief de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod;<br>
-11° zorgteam: de persoon met een zorg en ondersteuningsvraag en de betrokken informele en professionele zorg- en welzijnsactoren die, in het kader van een zorg- en ondersteuningsplan, samenwerken rond de zorg van een persoon met een zorg- en ondersteuningsvraag.</span></span></p>
+<p>...</p>
 
-## Hoofdstuk 2. Programmatie
+## Hoofdstuk 2. ...
 
 ### ART 2.
 
 ...
 
-## Hoofdstuk 3. Erkenningsvoorwaarden
+## Hoofdstuk 3. ...
 
-## Afdeling 1. Algemene bepalingen
+## Afdeling 1. ...
 
 ### ART 3.
 
@@ -598,15 +587,15 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 <span style="font-size: 10pt;">.</span>..
 
-## Afdeling 2. Voorwaarden inzake hulp- en dienstverlening
+## Afdeling 2. ...
 
-## Onderafdeling 1. Rechten en plichten
+## Onderafdeling 1....
 
 ### ART 6.
 
 <span style="font-size: 10pt;">.</span>..
 
-## Onderafdeling 2. Zorg en kwaliteit van zorg
+## Onderafdeling 2. ...
 
 ### ART 7.
 
@@ -624,13 +613,13 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 <span style="font-size: 10pt;">.</span>..
 
-## Afdeling 3. Voorwaarden voor omkadering
+## Afdeling 3. ...
 
 ### ART 11.
 
 <span style="font-size: 10pt;">.</span>..
 
-## Hoofdstuk 4. Procedures voor de vergunning en erkenning van het centrum voor oriënterend kortverblijf
+## Hoofdstuk 4. ...
 
 ### ART 12.
 
@@ -642,50 +631,20 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 14.
 
-§ 1. De initiatiefnemer dient een aanvraag tot bijkomende erkenning als centrum voor oriënterend kortverblijf in met het formulier dat de administratie ter beschikking stelt en dat minstens de volgende inlichtingen en stukken bevat:<br>
-1° de identificatiegegevens van de initiatiefnemer en het centrum voor kortverblijf waarvoor de bijkomende erkenning wordt aangevraagd;<br>
-2° het aantal opnamemogelijkheden waarvoor de bijkomende erkenning wordt aangevraagd;<br>
-3°&nbsp;de voor- en achternaam en de kwalificatie van de directeur of de coördinator van de voorziening;<br>
-4° als de initiatiefnemer een rechtspersoon is, met uitzondering van openbare besturen: de statuten en eventuele wijzigingen ervan;<br>
-5° een kopie van de beslissing van het bevoegde orgaan om een bijkomende erkenning als centrum voor oriënterend kortverblijf of de wijziging van de capaciteit ervan aan te vragen;<br>
-6° een nominatieve lijst van alle medewerkers, met vermelding van hun wekelijkse arbeidsduur en kwalificatie, geordend per functie, en met aanduiding van de medewerkers die langdurig afwezig zijn;<br>
-7° een verbintenis om binnen een termijn van een jaar na de datum van de erkenningsbeslissing te voldoen aan de erkenningsvoorwaarden voor de bijkomende erkenning als centrum voor oriënterend kortverblijf.<br>
-<br>
-Een aanvraag van een centrum voor kortverblijf tot bijkomende erkenning als centrum voor oriënterend kortverblijf of tot wijziging van de capaciteit ervan is alleen ontvankelijk als ze wordt ingediend in het trimester, vermeld in de planningsvergunning.
+...
 
 ### ART 15.
 
-§1. De administratie onderzoekt de ontvankelijkheid van de aanvraag, vermeld in artikel 14.<br>
-<br>
-Als de aanvraag niet ontvankelijk is, brengt de administratie de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.<br>
-<br>
-§2. De administratie kan de initiatiefnemer om aanvullende inlichtingen verzoeken. Nadat de administratie die inlichtingen heeft ontvangen, begint er een nieuwe termijn als vermeld in paragraaf 1, te lopen.<br>
-<br>
-Als de administratie de informatie, vermeld in het eerste lid, niet ontvangt binnen een termijn van dertig dagen na de datum waarop het verzoek verzonden is, wordt de erkenningsaanvraag onontvankelijk verklaard. De administratie kan die termijn verlengen als de initiatiefnemer daarom in een gemotiveerde aanvraag heeft verzocht.
+...
 
 ### ART 16.
 
-§1. De secretaris-generaal beslist over de bijkomende erkenning als centrum voor oriënterend kortverblijf. Zijn beslissing wordt binnen een termijn van vier maanden nadat hij de ontvankelijke aanvraag heeft ontvangen, aan de initiatiefnemer bezorgd.<br>
-<br>
-De erkenningsbeslissing bevat minstens de volgende gegevens:<br>
-1° de voor- en achternaam en het adres van de initiatiefnemer;<br>
-2° de naam en het adres van de voorziening;<br>
-3° het erkenningsnummer;<br>
-4° de ingangsdatum van de erkenning;<br>
-5° de erkende capaciteit.<br>
-<br>
-Als de secretaris-generaal het voornemen heeft de erkenning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen met een aangetekende brief op de hoogte gebracht. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.
+...
 
 ### ART 17.
 
-Binnen dertig kalenderdagen nadat de initiatiefnemer het voornemen tot weigering van de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij de administratie. Hij dient het bezwaarschrift in met een aangetekende brief. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
-<br>
-Het bezwaarschrift wordt behandeld en over het bezwaarschrift wordt beslist conform de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
-<br>
-Als de initiatiefnemer geen bezwaar indient binnen de termijn, vermeld in het eerste lid, wordt het voornemen van de secretaris-generaal van rechtswege geacht een weigeringsbeslissing van de secretaris-generaal te zijn. de administratie brengt de initiatiefnemer binnen één maand nadat die termijn verstreken is, daarvan op de hoogte met een aangetekende brief.
+...
 
 ### ART 18.
 
-Als een centrum voor kortverblijf met een bijkomende erkenning niet langer voldoet aan de erkenningsvoorwaarden, kan de administratie de initiatiefnemer van de voorziening in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die de administratie bepaalt.<br>
-<br>
-Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan de administratie de bijkomende erkenning schorsen of intrekken, conform de regels, vermeld in hoofdstuk V en XI van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
+...
