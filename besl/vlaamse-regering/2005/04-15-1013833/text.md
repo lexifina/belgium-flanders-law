@@ -32,6 +32,15 @@ De niet-verworven salarisschaal 895 wordt toegekend aan de tijdelijke of vastben
 <br>
 De niet-verworven salarisschaal, vermeld in het eerste lid, wordt toegekend voor het volume van de opdracht en voor de periode waarvoor het personeelslid belast is met het mandaat van leraar-specialist, vermeld in het eerste lid.
 
+### ART 2quinquies
+
+De niet-verworven salarisschaal 020 wordt toegekend aan de tijdelijke of vastbenoemde personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in een van de volgende ambten, waarvoor de Vlaamse Gemeenschap hun salaris of salaristoelage uitbetaalt, en die in het bezit zijn van een bewijs VGT als vermeld in artikel 7, §1, 39°, van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het gewoon basisonderwijs:<br>
+1°&nbsp;&nbsp; &nbsp;de kleuteronderwijzer Vlaamse Gebarentaal;<br>
+2°&nbsp;&nbsp; &nbsp;de onderwijzer Vlaamse Gebarentaal;<br>
+3°&nbsp;&nbsp; &nbsp;de kleuteronderwijzer algemene en sociale vorming;<br>
+4°&nbsp;&nbsp; &nbsp;de onderwijzer algemene en sociale vorming.<br>
+&nbsp;
+
 ### ART. 3.
 
 § 1. De in artikel 1 en 2 genoemde personeelsleden die houder zijn van de hierna vermelde bijzondere diploma's of getuigschriften krijgen de volgende salarisschaal:<br>
