@@ -75,7 +75,23 @@ In artikel 6 van het besluit van de Vlaamse regering van 7 oktober 1997 betreffe
 
 ## Hoofdstuk 4. Wijziging van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool
 
+### ART 8.
+
+In artikel 8 van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool, vervangen bij het besluit van de Vlaamse Regering van 22 oktober 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan paragraaf 1 wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+“5° zwangerschapsverlies: alle vormen van zwangerschapsverlies zowel medisch als spontaan ingeleid, vanaf het ogenblik dat het verlies zich voordoet, vanaf het begin van de zwangerschap tot en met 180 kalenderdagen zwangerschap, zonder dat het personeelslid een attest hoeft voor te leggen.”;<br>
+2° aan paragraaf 2 wordt een punt 12° toegevoegd, dat luidt als volgt:<br>
+“12° zwangerschapsverlies van het personeelslid dat zwanger was en dit gemeld had aan de leidinggevende conform artikel X-5.2 van de codex over het welzijn op het werk: twee werkdagen.”.
+
 ## Hoofdstuk 5. Wijziging van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding
+
+### ART 9.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, vervangen bij het besluit van de Vlaamse Regering van 22 oktober 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan paragraaf 1 wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+“5° zwangerschapsverlies: alle vormen van zwangerschapsverlies zowel medisch als spontaan ingeleid, vanaf het ogenblik dat het verlies zich voordoet, vanaf het begin van de zwangerschap tot en met 180 kalenderdagen zwangerschap, zonder dat het personeelslid een attest hoeft voor te leggen.”;<br>
+2° aan paragraaf 2 wordt een punt 14° toegevoegd, dat luidt als volgt:<br>
+“14° zwangerschapsverlies van het personeelslid dat zwanger was en dit gemeld had aan de leidinggevende conform artikel X-5.2 van de codex over het welzijn op het werk: twee werkdagen.”.
 
 ## Hoofdstuk 6. Wijziging van het besluit van de Vlaamse Regering van 15 juni 2018 betreffende de vastlegging en indeling van de ambten, de prestatieregeling, de vaststelling van het recht op een salaris en de aanwending van de omkaderingsgewichten in een centrum voor leerlingenbegeleiding
 
@@ -155,6 +171,16 @@ In artikel 8 van het besluit van de Vlaamse Regering van 15 juni 2018 betreffend
 
 ## Hoofdstuk 7. Wijzigingen van het besluit van de Vlaamse Regering van 9 september 2022 over de lerarenbonus
 
+### ART 11.
+
+In het besluit van de Vlaamse Regering van 9 september 2022 over de lerarenbonus wordt een artikel 9/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 9/1. Een personeelslid dat een lerarenbonus als vermeld in artikel 2, kreeg vóór 1 september 2026, blijft na 31 augustus 2026 recht hebben op de lerarenbonus of kan na 31 augustus 2026 verder gebruik maken van de lerarenbonus gedurende drie kalenderjaren, te rekenen vanaf de eerste dag van de inschrijving aan een lerarenopleiding.”.
+
+### ART 12.
+
+In artikel 10 van hetzelfde besluit wordt de zinsnede “en treedt buiten werking op 1 september 2026” vervangen door de zin “Met uitzondering van artikel 9/1 treedt dit besluit buiten werking op 1 september 2026.”.
+
 ## Hoofdstuk 8. Wijziging van het besluit van de Vlaamse Regering van 14 juli 2023 over de onderwijsinternaten
 
 ### ART 13.
@@ -162,3 +188,15 @@ In artikel 8 van het besluit van de Vlaamse Regering van 15 juni 2018 betreffend
 In artikel 74 van het besluit van de Vlaamse Regering van 14 juli 2023 over de onderwijsinternaten wordt de zinsnede “krachtens artikel 1, 1° van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toekenning van een bepaalde niet-verworven salarisschaal aan sommige personeelsleden van het onderwijs” vervangen door de zinsnede “krachtens artikel 1, 2°, van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toekenning van een bepaalde niet-verworven salarisschaal aan sommige personeelsleden van het onderwijs”.
 
 ## Hoofdstuk 9. Slotbepalingen
+
+### ART 14.
+
+Dit besluit treedt in werking op 1 september 2024.<br>
+<br>
+Artikel 1 tot en met 4, artikel 6, artikel 7 en artikel 13 hebben uitwerking met ingang van 1 september 2023.<br>
+<br>
+Artikel 5 en 10 hebben uitwerking met ingang van 1 januari 2024.
+
+### ART 15.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.&nbsp;
