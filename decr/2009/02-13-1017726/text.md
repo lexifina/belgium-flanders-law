@@ -19,7 +19,7 @@ De organisatie van schoolsport omvat:<br>
 De Vlaamse Regering kan een vereniging zonder winstoogmerk of stichting voor de organisatie van schoolsport, opgericht conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, subsidiëren als aan al de volgende voorwaarden voldaan wordt:<br>
 1° uit de statuten blijkt dat in de algemene vergadering en/of de raad van bestuur van de vereniging alleszins vertegenwoordigers zijn opgenomen van:<br>
 a) het Gemeenschapsonderwijs en de representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs;<br>
-b) de Vlaamse Sportfederatie, de Bond voor Lichamelijke Opvoeding, het Vlaams Instituut voor Sportbeheer en Recreatiebeleid;<br>
+b) de Vlaamse Sportfederatie, de Bond voor Lichamelijke Opvoeding, het Netwerk Lokaal Sportbeleid;<br>
 c) vertegenwoordigers van de non-profitsector die affiniteit hebben met schoolsport;<br>
 2° er wordt een subsidieovereenkomst met de Vlaamse Regering afgesloten. In die overeenkomst worden ook de door de Vlaamse Regering aangewezen experten opgenomen die als waarnemer de algemene vergadering en/of de raad van bestuur van de vereniging bijwonen;<br>
 3° er wordt vierjaarlijks een werkingsverslag voorgelegd, waaruit blijkt dat de bepalingen uit de subsidieovereenkomst werden gerealiseerd;<br>
