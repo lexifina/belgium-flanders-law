@@ -21,7 +21,9 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 2° aanvullende uren: uren paramedische, medische, psychologische, sociale of orthopedagogische hulp toegekend voor specifieke behoeften;<br>
 3° administratieve vestigingsplaats: vestigingsplaats door het schoolbestuur gekozen als administratieve zetel van de school;<br>
 4° afstand: de kortst mogelijke afstand gemeten langs de rijbaan, zoals omschreven in artikel 2.1 van het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zonder rekening te houden met wegomleggingen, verkeersvrije straten, éénrichtingsverkeer en autosnelwegen;<br>
-4°bis Agion : Agentschap voor Infrastructuur in het Onderwijs;<br>
+4°bis afzondering: het verblijf van een persoon in een ruimte, die de persoon niet zelfstandig kan verlaten;<br>
+4°bis/1 afzonderingskamer: een specifieke, veilig ingerichte, hoog beveiligde ruimte, die de persoon niet zelfstandig kan verlaten;<br>
+4°bis/2 Agion : Agentschap voor Infrastructuur in het Onderwijs;<br>
 4°ter Agodi : Agentschap voor Onderwijsdiensten;<br>
 4° quater anderstalige nieuwkomer :<br>
 a) een leerling die uiterlijk op 31 december van het lopende schooljaar vijf jaar of ouder is en&nbsp;die op de dag van de voorziene instap in de school gelijktijdig aan de volgende voorwaarden voldoet :<br>
@@ -57,6 +59,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 14°bis extra-muros activiteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder;<br>
 14°ter extra-murosactiviteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder;<br>
 14°quater feedbackrapport: een rapport met de resultaten op de Vlaamse toetsen op het schoolniveau, het niveau van de leerlingengroep of het leerlingniveau;<br>
+14°quater/1: fixatie: elke handeling of elk gebruik van materiaal die de bewegingsvrijheid van een persoon beperkt, verhindert of belemmert, waarbij de persoon niet zelfstandig zijn bewegingsvrijheid kan herwinnen;<br>
 15° fusie van scholen: de samenvoeging tot één nieuwe school van twee of méér scholen die gelijktijdig worden afge-schaft of de samenvoeging tot één school van twee of méér scholen waarbij één van de betrokken scholen blijft bestaan en de andere(n) opslorpt;<br>
 15°/1 GC-verslag: een verslag gemeenschappelijk curriculum, een verslag dat toegang geeft tot leersteun bij een gemeenschappelijk curriculum als vermeld in artikel 16;<br>
 16° gefinancierd onderwijs: gemeenschapsonderwijs dat voldoet aan de voorwaarden zoals bepaald in artikel 68;<br>
@@ -70,7 +73,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 21° groep: indeling van de scholen en vestigingsplaatsen in het gewoon basisonderwijs en van de scholen in het buiten-gewoon basisonderwijs naargelang ze behoren tot het gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs, het gesubsidieerd vrij onderwijs naargelang van de onderscheidene godsdiensten, of tot het gesubsidieerd vrij niet-confessioneel onderwijs;<br>
 21° bis handelingsgericht advies: het CLB geeft advies aan de leerling, de ouders of het schoolteam over keuzemogelijkheden en gedragsalternatieven of eventueel bepaalde hulp;<br>
 22° herstructurering:<br>
-a) in het gewoon onderwijs: wijziging in de structuur van een school op het vlak van vestigingsplaatsen en/of onder-wijsniveaus en/of leerlingengroepen. Een wijziging op het vlak van leerlingengroepen is een herstructurering wanneer er leerlingengroepen afgesplitst worden naar één of meer nieuwe scholen. Een fusie wordt niet als een herstructurering beschouwd;<br>
+a) in het gewoon onderwijs: wijziging in de structuur van een school op het vlak van vestigingsplaatsen en/of onderwijsniveaus&nbsp;en/of een taalafdeling Nederlands-Vlaamse Gebarentaal en/of leerlingengroepen. Een wijziging op het vlak van leerlingengroepen is een herstructurering wanneer er leerlingengroepen afgesplitst worden naar één of meer nieuwe scholen. Een fusie wordt niet als een herstructurering beschouwd;<br>
 b) in het buitengewoon onderwijs: wijziging in de structuur van een school op het vlak van vestigingsplaatsen en/of onderwijsniveaus en/of types en/of leerlingengroepen. Een wijziging op het vlak van de leerlingengroepen is een herstructurering wanneer er leerlingengroepen afgesplitst worden naar één of meerdere scholen. Een fusie en veranderingen van bestaande types of niveaus binnen bestaande vestigingsplaatsen in de school zonder dat het bestaande aanbod in de totale school wijzigt, worden niet als een herstructurering beschouwd;<br>
 23° hoofdopdracht: lesopdracht voor het onderwijzend personeel, kindgebonden opdracht voor het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel. In de hoofdopdracht kunnen bijzondere pedagogische taken en/of lestijden beleidsondersteuning begrepen zijn;<br>
 24° huisonderwijs :<br>
@@ -120,14 +123,14 @@ b) in het buitengewoon basisonderwijs : het pakket lestijden dat bestaat uit de 
 41° ouders: de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige onder hun bewaring hebben;<br>
 42° OVSG: Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap;<br>
 42° bis pedagogisch project : het geheel van de fundamentele uitgangspunten voor een school en haar werking;<br>
-43° periode van normale aanwezigheid van de leerlingen: periode die loopt vanaf 15 minuten voor de eerste les 's mor-gens tot 15 minuten na de laatste les 's middags en vanaf 15 minuten voor de eerste les 's namiddags tot 15 minuten na de laatste les 's avonds;<br>
+43° periode van normale aanwezigheid van de leerlingen: periode die loopt vanaf 15 minuten voor de eerste les 's morgens tot 15 minuten na de laatste les 's middags en vanaf 15 minuten voor de eerste les 's namiddags tot 15 minuten na de laatste les 's avonds;<br>
 43°bis plage: lestijden of uren buiten het lestijden- en urenpakket die zich situeren boven het minimum maar binnen het maximum van de hoofdopdracht;<br>
 44° preventorium: medische instelling die onder meer in residentieel verband kuurmogelijkheden biedt aan kinderen en jongeren [van twee jaar en zes maanden tot achttien jaar en waar buitengewoon onderwijs van type 5 gegeven wordt;<br>
-45° programmatienorm: aantal regelmatige leerlingen dat op een welbepaalde teldag of tijdens een welbepaalde telperiode in een school of een type moet ingeschreven zijn om in de financierings- of subsidiëringsregeling te worden opgenomen;<br>
+45° programmatienorm: aantal regelmatige leerlingen dat op een welbepaalde teldag of tijdens een welbepaalde telperiode in een school, een taalafdeling Nederlands-Vlaamse Gebarentaal of een type moet ingeschreven zijn om in de financierings- of subsidiëringsregeling te worden opgenomen;<br>
 45°bis puntenenveloppe : het aantal punten waarover een school en/of scholengemeenschap op basis van het aantal regelmatige leerlingen op een welbepaalde teldag of op basis van het gemiddeld aantal leerlingen tijdens de telperiode beschikt en dat het aantal organiseerbare betrekkingen van beleids- en ondersteunend personeel en/of bestuurs- en onderwijzend personeel bepaalt;<br>
 45°ter randgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
 45°quater taalgrensgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs;<br>
-46° rationalisatienorm : het aantal regelmatige leerlingen dat op een welbepaalde teldag of tijdens een welbepaalde telperiode in een school, een vestigingsplaats, een onderwijsniveau of een type moet ingeschreven zijn om na de programmatieperiode nog gefinancierd of gesubsidieerd te blijven;<br>
+46° rationalisatienorm : het aantal regelmatige leerlingen dat op een welbepaalde teldag of tijdens een welbepaalde telperiode in een school, een vestigingsplaats, een onderwijsniveau, een taalafdeling Nederlands-Vlaamse Gebarentaal of een type moet ingeschreven zijn om na de programmatieperiode nog gefinancierd of gesubsidieerd te blijven;<br>
 47° regering: de Vlaamse regering;<br>
 47° bis remediërende maatregelen: maatregelen waarbij de school effectieve vormen van aangepaste leerhulp verstrekt binnen het gemeenschappelijk curriculum;<br>
 48° salaris: wedde, weddetoelage, bijwedde, toelagen en vergoedingen;<br>
@@ -140,7 +143,7 @@ b) in het buitengewoon basisonderwijs : het pakket lestijden dat bestaat uit de 
 52° bis/1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
 52° bis/1/1 SES-lestijden : lestijden, toegekend op basis van de socio-economische status van leerlingen in het gewoon basisonderwijs die gevat wordt door leerlingkenmerken;<br>
 52° bis/1/2 systematisch contact: een periodiek contact waarop de leerling en het centrum voor leerlingenbegeleiding in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
-52° bis/2 ...;<br>
+52°bis/2 taalafdeling Nederlands-Vlaamse Gebarentaal: een afdeling in een school voor het gewoon basisonderwijs waar leerlingen les krijgen in Vlaamse Gebarentaal en in het Nederlands;<br>
 52°ter trekkende bevolking: binnenschippers, kermis- en circusexploitanten en -artiesten en woonwagenbewoners, bedoeld in artikel 2, 3°, van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden;<br>
 53° type: indeling van het buitengewoon onderwijs op basis van de bijzondere opvoedings- en onderwijsbehoeften die een bepaalde groep leerlingen gemeenschappelijk heeft;<br>
 53° bis uitbreiding van zorg: fase in het zorgcontinuüm waarbij de school de maatregelen uit de fase van verhoogde zorg onverkort verderzet en het CLB een proces van handelingsgerichte diagnostiek opstart. Het CLB richt zich daarbij op een uitgebreide analyse van de onderwijs- en opvoedingsbehoeften van de leerling en op de ondersteuningsbehoeften van de leerkracht(en) en ouders met het oog op het formuleren van adviezen voor het optimaliseren van het proces van afstemming van het onderwijs- en opvoedingsaanbod op de zorgvraag van de leerling. Het CLB bepaalt in samenspraak met de school en de ouders welke bijkomende inzet van middelen, hulp of expertise, hetzij ten aanzien van de school of de leerling, al dan niet in zijn context, wenselijk is alsook de omvang en de duur daarvan;<br>
@@ -177,7 +180,21 @@ Er is gewoon en buitengewoon lager onderwijs.<br>
 
 ### ART. 7.
 
-§ 1. Elk schoolbestuur beslist of het alleen kleuteronderwijs, alleen   lager onderwijs of beide orga-niseert.<BR><BR>In nieuwe scholen voor gewoon   onderwijs, opgericht vanaf 1 september 2003, moet zowel kleuter- als lager   onderwijs worden georganiseerd. <BR><BR>§ 2. Het schoolbestuur bepaalt vrij de   organisatie van zijn kleuteronderwijs en lager onderwijs. Het legt die   organisatie vast in het schoolwerkplan.<BR><BR>§ 3. In scholen met lager   onderwijs moet het lager onderwijs steeds volledig georganiseerd worden. In   scholen met kleuteronderwijs moet het kleuteronderwijs steeds volledig   georganiseerd worden. Deze verplichting geldt, voor wat het gewoon   kleuteronderwijs betreft, vanaf het schooljaar 2016-2017.<BR><BR>In het gewoon   basisonderwijs moet het kleuteronderwijs volledig georganiseerd zijn vanaf het   derde bestaansjaar van dat onderwijsniveau in de school en het lager onderwijs   volledig georganiseerd zijn vanaf het zesde bestaansjaar van dat onderwijsniveau   in de school.<BR>
+§ 1. Elk schoolbestuur beslist of het alleen kleuteronderwijs, alleen lager onderwijs of beide orga-niseert.<br>
+<br>
+In nieuwe scholen voor gewoon onderwijs, opgericht vanaf 1 september 2003, moet zowel kleuter- als lager onderwijs worden georganiseerd.<br>
+<br>
+§ 2. Het schoolbestuur bepaalt vrij de organisatie van zijn kleuteronderwijs en lager onderwijs. Het legt die organisatie vast in het schoolwerkplan.<br>
+<br>
+§ 3. In scholen met lager onderwijs moet het lager onderwijs steeds volledig georganiseerd worden. In scholen met kleuteronderwijs moet het kleuteronderwijs steeds volledig georganiseerd worden. Deze verplichting geldt, voor wat het gewoon kleuteronderwijs betreft, vanaf het schooljaar 2016-2017.<br>
+<br>
+In het gewoon basisonderwijs moet het kleuteronderwijs volledig georganiseerd zijn vanaf het derde bestaansjaar van dat onderwijsniveau in de school en het lager onderwijs volledig georganiseerd zijn vanaf het zesde bestaansjaar van dat onderwijsniveau in de school.<br>
+<br>
+§4. Scholen die de taalafdeling Nederlands-Vlaamse Gebarentaal inrichten, richten die taalafdeling Nederlands-Vlaamse Gebarentaal in, in het kleuteronderwijs en in het lager onderwijs en organiseren die taalafdeling Nederlands-Vlaamse Gebarentaal volledig.<br>
+<br>
+In afwijking van het eerste lid kan een schoolbestuur ervoor kiezen om het lager onderwijs in de taalafdeling Nederlands-Vlaamse Gebarentaal pas in te richten nadat de taalafdeling Nederlands-Vlaamse Gebarentaal volledig is ingericht in het kleuteronderwijs.<br>
+<br>
+De taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in het eerste lid, wordt in het kleuteronderwijs volledig ingericht vanaf het derde bestaansjaar van de taalafdeling Nederlands-Vlaamse Gebarentaal in dat onderwijsniveau. De taalafdeling Nederlands-Vlaamse Gebarentaal wordt in het lager onderwijs volledig ingericht vanaf het zesde bestaansjaar van de taalafdeling Nederlands-Vlaamse Gebarentaal in dat onderwijsniveau.
 
 ## [AFDELING 2 GEWOON EN BUITENGEWOON BASISONDERWIJS (verv. decr. 6 juli 2018, art. 11, I: 1 september 2018)]
 
@@ -256,7 +273,9 @@ Het basisaanbod buitengewoon onderwijs wordt niet erkend, gefinancierd of gesubs
 
 ### ART. 11.
 
-...
+In het gewoon basisonderwijs kan een taalafdeling Nederlands-Vlaamse Gebarentaal worden ingericht. Binnen de voormelde taalafdeling wordt er lesgegeven in het Nederlands en in Vlaamse Gebarentaal.<br>
+<br>
+Met het oog op een mogelijke bijsturing wordt de taalafdeling Neder- lands-Vlaamse Gebarentaal in het schooljaar 2026-2027 geëvalueerd. Deze evaluatie bevat minstens een analyse en beoordeling van de haalbaarheid, de eindtermen, financiële impact van de omkadering en werkingsmiddelen. De regering kan de nadere modaliteiten van de voormelde evaluatie bepalen.
 
 ## [AFDELING 3 OVERLEG FUNDAMENTELE ONDERWIJSHERVORMINGEN (ing. decr. 8 mei 2009, art. II.2, I: 1 september 2009)]
 
@@ -277,6 +296,8 @@ De regering informeert de afgevaardigden van de inrichtende machten en de repres
 De regering bepaalt met welk instrument de screening bij het begin van de leerplicht gebeurt, alsook het moment en de manier van afname.<br>
 <br>
 § 2. In afwijking van paragraaf 1 is de screening niet verplicht voor anderstalige nieuwkomers zoals bepaald in artikel 3, 4° quater. Deze leerlingen krijgen vanaf het schooljaar 2021-2022 in elk geval een actief taalintegratietraject Nederlands, met in beginsel een taalbad zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt. Ook voor leerlingen die na de periode van afname van de taalscreening in het basisonderwijs instromen en onvoldoende het Nederlands beheersen om de lessen te kunnen volgen, kan de school beslissen dat zij een taalintegratietraject moeten volgen.<br>
+<br>
+§2/1. In afwijking van paragraaf 1 hoeft geen screening te worden uitgevoerd voor een leerling die doof of slechthorend is als vermeld in artikel 37/8, §5, of 37/45, §5, en die ingeschreven is in de taalafdeling Nederlands-Vlaamse Gebarentaal of voor een leerling die speciale onderwijsmiddelen in de vorm van tolken ter beschikking krijgt als vermeld in artikel 91, §1 en §2.<br>
 <br>
 § 3. Op basis van de resultaten van de taalscreening, moeten leerlingen die het Nederlands onvoldoende beheersen vanaf het schooljaar 2021-2022 een actief taalintegratietraject Nederlands volgen met in beginsel een taalbad, zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt.<br>
 <br>
@@ -357,6 +378,8 @@ De schriftelijke mededeling aan de ouders van een negatief advies of negatieve b
 <br>
 § 4. Met uitzondering van de eerste zin van paragraaf 2 is dit artikel niet van toepassing op leerlingen die worden ingeschreven in scholen voor Franstalig onderwijs in de randen taalgrensgemeenten die deel uitmaken van het Nederlandse taalgebied.<br>
 <br>
+§4/1. In afwijking van paragraaf 2 hoeft er bij de adviezen en beslissingen, vermeld in paragraaf 2, eerste lid, 1°, a) en b), 2°, a) en b), en 3°, voor een leerling die doof of slechthorend is als vermeld in artikel 37/8, §5, of 37/45, §5, en die ingeschreven is in de taalafdeling Nederlands-Vlaamse Gebarentaal of voor een leerling die speciale onderwijsmiddelen in de vorm van tolken ter beschikking krijgt als vermeld in artikel 91, §1 en §2, geen advies te worden gegeven over de beheersing van het Nederlands en is er geen verplichting voor de klassenraad om een taalintegratietraject op te leggen.<br>
+<br>
 § 5. Om toegelaten te worden tot het buitengewoon lager onderwijs vanaf het schooljaar 2021-2022 moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar.
 
 ### ART. 14.
@@ -366,7 +389,7 @@ De schriftelijke mededeling aan de ouders van een negatief advies of negatieve b
 ### ART 14/0
 
 In afwijking van artikel 13/1, § 2 tot en met § 5, kan een leerling die de leeftijd van 6 jaar voor 1 januari van het lopende schooljaar niet bereikt heeft, tot het lager onderwijs toegelaten worden onder de volgende voorwaarden:<br>
-1° in het gewoon onderwijs: op verzoek van de ouders of op initiatief van de school, na toelating conform artikel 13/1, § 2, eerste lid, 2°, en § 3, indien het een leerling betreft die het voorgaande schooljaar ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs, of conform artikel 13/1, § 2, eerste lid, 3°, en § 3, indien het een leerling betreft die het voorgaande schooljaar niet ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor&nbsp;Nederlandstalig kleuteronderwijs. Na kennisneming van en toelichting bij het advies van de klassenraad kleuteronderwijs of de beslissing van de klassenraad lager onderwijs nemen de ouders daaromtrent een beslissing;<br>
+1° in het gewoon onderwijs: op verzoek van de ouders of op initiatief van de school, na toelating conform artikel 13/1, §2, eerste lid, 2°, §3 en §4/1, indien het een leerling betreft die het voorgaande schooljaar ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs, of conform artikel 13/1, §2, eerste lid, 3°, §3 en §4/1, indien het een leerling betreft die het voorgaande schooljaar niet ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor&nbsp;Nederlandstalig kleuteronderwijs. Na kennisneming van en toelichting bij het advies van de klassenraad kleuteronderwijs of de beslissing van de klassenraad lager onderwijs nemen de ouders daaromtrent een beslissing;<br>
 2° in het buitengewoon basisonderwijs op verzoek van de ouders of op initiatief van de school:<br>
 a)&nbsp;&nbsp; &nbsp;voor leerlingen die in het voorafgaande schooljaar ingeschreven waren in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs:<br>
 1)&nbsp;&nbsp; &nbsp;een gunstig advies van de klassenraad van de school waar de leerling voorafgaand aan de instap in het buitengewoon lager onderwijs kleuteronderwijs gevolgd heeft;<br>
@@ -467,11 +490,13 @@ De Vlaamse Regering bepaalt de verdere inhoud en modaliteiten van het GC-verslag
 <br>
 § 5.&nbsp;Leerlingen die beschikken over een gemotiveerd verslag dat is opgemaakt voor 1 september 2023, worden beschouwd als leerlingen met een GC-verslag.</p>
 
-## [... (opgeh. decr. 17 juni 2016, art. II.12, I: 1 september 2016)]
+## ONDERAFDELING D/1. Bijzondere regeling over de taalafdeling Nederlands-Vlaamse Gebarentaal
 
 ### ART. 17.
 
-...
+Voor de leerlingen ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal die niet in afdoende mate de eindtermen voor de Vlaamse Gebarentaal en dovencultuur, vermeld in artikel 44, §8, eerste lid, kunnen bereiken, kan de klassenraad beslissen om de inschrijving in de taalafdeling om te zetten in een inschrijving buiten de taalafdeling Nederlands-Vlaamse Gebarentaal. De voormelde beslissing wordt genomen na instemming van de ouders.
+
+## [... (opgeh. decr. 17 juni 2016, art. II.12, I: 1 september 2016)]
 
 ### ART. 18.
 
@@ -726,11 +751,98 @@ Tegen deze beslissing is beroep mogelijk zoals voorzien in artikel 37/4.
 
 <P>Tijdelijke en definitieve uitsluitingen kunnen alleen uitgevoerd worden na   een procedure die de rechten van verdediging waarborgt en waarin de volgende   principes gerespecteerd worden:<BR>1° het voorafgaandelijke advies van de   klassenraad moet worden ingewonnen. In geval van een definitieve uitsluiting   moet de klassenraad uitgebreid worden met een vertegenwoordiger van het CLB die   een adviserende stem heeft;<BR>2° de intentie tot een tuchtmaatregel wordt aan   de ouders schriftelijk ter kennis gebracht;<BR>3° de ouders en de leerling   hebben inzage in het tuchtdossier van de leerling, met inbegrip van het advies   van de klassenraad, en worden gehoord, eventueel bijgestaan door een   vertrouwenspersoon;<BR>4° de tuchtstraf moet in overeenstemming zijn met de   ernst van de feiten;<BR>5° de genomen beslissing wordt schriftelijk gemotiveerd   en ter kennis gebracht aan de ouders van de betrokken leerling. De school   verwijst in de kennisgeving naar de mogelijkheid tot het instellen van het   beroep en neemt de bepalingen uit het schoolreglement die hier betrekking op   hebben, op in die kennisgeving.</P>
 
+## Onderafdeling B/1. Principieel verbod op afzondering en fixatie
+
+### ART 33/1.
+
+§1. Het gebruik van afzondering en fixatie door de school is verboden, behalve onder de in artikel 33/2 en 33/3 omschreven voorwaarden.<br>
+<br>
+Afzondering of fixatie als sanctie, straf of collectieve maatregel zijn te allen tijde verboden.<br>
+<br>
+§2. Als een school inschat dat er een reële kans bestaat dat een maatregel inzake afzondering of fixatie genomen moet worden of als de school reeds eerder een maatregel inzake afzondering of fixatie heeft moeten nemen, ontwikkelt de school binnen haar beleid op leerlingenbegeleiding een procedure ter bescherming van de betrokken leerling of de groep van de betrokken leerlingen. Daarbij ligt de focus op de preventie van afzondering en/of fixatie en voor de afbouw ervan. Deze procedure omvat minstens:<br>
+1°&nbsp;&nbsp; &nbsp;de preventieve interventies en alternatieven om afzondering en fixatie te vermijden;<br>
+2°&nbsp;&nbsp; &nbsp;de wijze waarop de ouders zullen worden gecontacteerd als een maatregel inzake afzondering of fixatie genomen wordt;<br>
+3°&nbsp;&nbsp; &nbsp;algemene afspraken met betrekking tot de nabespreking.<br>
+<br>
+De school betrekt de leerlingen, het personeel en hun ouders om het beleid, vermeld in het eerste lid, te ontwikkelen.<br>
+<br>
+§3. Binnen het beleid voor de preventie van afzondering en fixatie en voor de afbouw ervan wordt bepaald welke preventieve interventies en alternatieven kunnen worden ingezet om in de toekomst afzondering en fixatie te vermijden.
+
+### ART 33/2.
+
+§1. Afzondering of fixatie om de veiligheid te herstellen bij acuut en ernstig gevaar voor de leerling of anderen is enkel mogelijk onder de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de maatregel wordt ingezet als laatste redmiddel als preventieve interventies en alternatieven niet of niet langer volstaan;<br>
+2°&nbsp;&nbsp; &nbsp;de maatregel duurt zo kort mogelijk en stopt als het gevaar niet langer ernstig en acuut is;<br>
+3°&nbsp;&nbsp; &nbsp;de toepassing van afzondering of fixatie gebeurt enkel op maat van en zo veel mogelijk in afstemming met de leerling en de situatie;<br>
+4°&nbsp;&nbsp; &nbsp;tijdens het toepassen van de maatregel wordt blijvend gezocht naar minder ingrijpende alternatieven;<br>
+5°&nbsp;&nbsp; &nbsp;mechanische fixatie bij leerlingen, jonger dan 12 jaar, is verboden; 6°&nbsp;&nbsp; &nbsp;het gelijktijdig toepassen van afzondering en fixatie wordt vermeden;<br>
+7°&nbsp;&nbsp; &nbsp;het personeel van de school heeft tijdens de maatregel regelmatig contact met de leerling met de focus op het welbevinden van de leerling;<br>
+8°&nbsp;&nbsp; &nbsp;bij afzondering wordt gebruikgemaakt van een afzonderingskamer.<br>
+&nbsp;<br>
+In het eerste lid, 5°, wordt verstaan onder mechanische fixatie: fixatie door middel van het aanwenden van mechanische hulpmiddelen bevestigd aan of in de directe omgeving van de persoon. Die mechanische hulpmiddelen kunnen niet zelfstandig door de persoon verwijderd worden. Hulpmiddelen voor het ondersteunen of corrigeren van de fysieke houding van de persoon bevestigd aan of in de directe omgeving van de persoon, en die niet zelfstandig door de persoon kunnen verwijderd worden, worden niet beschouwd als mechanische fixatie tenzij deze hulpmiddelen buiten hun oorspronkelijke doelstelling gebruikt worden.<br>
+<br>
+§2. Ouders worden zo snel mogelijk op de hoogte gebracht van de afzondering of fixatie, vermeld in paragraaf 1. Na elke afzondering of fixatie als vermeld in paragraaf 1, volgt een nabespreking met de leerling en met de ouders. Tijdens de nabespreking worden minstens afspraken gemaakt over hoe een toekomstige vergelijkbare situatie wordt aangepakt. Ook de herroepbare instemming, zoals opgenomen in artikel 33/3, eerste lid, 1°, wordt besproken.
+
+### ART 33/3.
+
+Afzondering of fixatie om de veiligheid te behouden bij potentieel gevaar, ter preventie van acuut en ernstig gevaar voor de leerling of anderen of afzondering of fixatie ter bevordering van ontwikkelings- of ontplooiingskansen van de leerling is verboden tenzij onder de volgende voorwaarden:<br>
+1° de leerling en zijn ouders stemmen in, of als de leerling niet tot een redelijke beoordeling van zijn belangen in staat is, stemmen alleen de ouders in met deze vorm van afzondering of fixatie. De ouders of de leerling kunnen hierbij het CLB betrekken. Deze instemming gebeurt schriftelijk, in beginsel voorafgaandelijk en is te allen tijde herroepbaar;<br>
+2° &nbsp; afzondering of fixatie wordt toegepast op maat van de leerling;<br>
+3°&nbsp;&nbsp; &nbsp;de maatregel wordt ingezet als laatste redmiddel na uitputting van alle andere mogelijke opties;<br>
+4°&nbsp;&nbsp; &nbsp;tijdens het toepassen van de maatregel wordt blijvend gezocht naar minder ingrijpende alternatieven;<br>
+5°&nbsp;&nbsp; &nbsp;het personeel van de school heeft tijdens de maatregel regelmatig contact met de leerling met de focus op het welbevinden van de leerling;<br>
+6°&nbsp;&nbsp; &nbsp;bij afzondering wordt gebruikgemaakt van een afzonderingskamer.<br>
+<br>
+Ouders worden zo snel mogelijk op de hoogte gebracht van de afzondering en fixatie, vermeld in het eerste lid. Na elke afzondering of fixatie volgt een nabespreking met de leerling en met de ouders. Tijdens de nabespreking worden minstens afspraken gemaakt over hoe een toekomstige vergelijkbare situatie wordt aangepakt. Ook de herroepbare instemming, vermeld in het eerste lid, 1°, wordt besproken.
+
+### ART 33/4.
+
+De afzonderingskamer, vermeld in artikel 33/2 en 33/3, voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de afzonderingskamer biedt een veilige en rustgevende omgeving;<br>
+2°&nbsp;&nbsp; &nbsp;er is fysieke nabijheid op maat van de leerling mogelijk;<br>
+3°&nbsp;&nbsp; &nbsp;alleen bevoegd personeel kan de afzonderingskamer inkijken en betreden;<br>
+4°&nbsp;&nbsp; &nbsp;de afzonderingskamer bevat oriëntatiemogelijkheden, lichtinval en een tijdsindicatie die aangepast is aan de noden van de leerling;<br>
+5° de leerling kan rechtstreeks contact nemen met een personeelslid van de school, waarbij ook in de mogelijkheid wordt voorzien dat de leerling met het personeelslid kan communiceren.<br>
+<br>
+De school bepaalt, als onderdeel van haar beleid op afzondering en fixatie, vermeld in artikel 33/1, wie het bevoegde personeel, vermeld in het eerste lid, 3°, is.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden voor de afzonderingskamer, vermeld in het eerste lid, verder verfijnen.
+
+### ART 33/5.
+
+§1. Vanaf de eerste keer dat de school een maatregel inzake afzondering of fixatie als vermeld in artikel 33/2 of 33/3 heeft moeten nemen bij een leerling, registreert de school de volgende informatie over de bedoelde fixatie of afzondering:<br>
+a)&nbsp;&nbsp; &nbsp;het type maatregel;<br>
+b)&nbsp;&nbsp; &nbsp;de omstandigheden, de aanleiding of reden en uitgeprobeerde alternatieven;<br>
+c)&nbsp;&nbsp; &nbsp;het verloop van de maatregel;<br>
+d)&nbsp;&nbsp; &nbsp;het tijdstip van begin en einde;<br>
+e)&nbsp;&nbsp; &nbsp;de tijdstippen van en observaties tijdens het toezicht;<br>
+f)&nbsp;&nbsp; &nbsp;of er verwondingen bij de leerling of bij derden zijn;<br>
+g)&nbsp;&nbsp; &nbsp;de eventuele opmerkingen van de leerling en de ouders over het verloop van de maatregel;<br>
+h)&nbsp;&nbsp; &nbsp;de nabespreking.<br>
+<br>
+§2. De persoonsgegevens die zijn opgenomen in de registratie, vermeld in paragraaf 1, worden verwerkt omdat de verwerking noodzakelijk is om de vitale belangen van de leerling te beschermen en om een taak van algemeen belang te vervullen als vermeld in artikel 6, lid 1, d) en e), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het geheel van registraties, vermeld in paragraaf 1, wordt bijgehouden en bewaard met het oog op het bereiken van de volgende doelstellingen:<br>
+1° op leerlingenniveau: het vrijwaren van de rechten van de leerling;<br>
+2° op schoolniveau: als element van interne kwaliteitszorg, namelijk in functie van het beleid, vermeld in artikel 33/1, en om de kwaliteit van zorg voor de leerling te verhogen.<br>
+<br>
+§3. Het schoolbestuur is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens, vermeld in paragraaf 1.<br>
+<br>
+Het schoolbestuur bepaalt welke personeelsleden toegang kunnen hebben tot de persoonsgegevens, vermeld in paragraaf 1. Bij het bepalen welke personeelsleden toegang hebben tot de persoonsgegevens neemt het schoolbestuur steeds de doelstellingen, vermeld in paragraaf 2, in acht. Het schoolbestuur en alle personeelsleden die toegang hebben tot de voormelde persoonsgegevens zijn gehouden tot het bewaren van de vertrouwelijkheid van deze persoonsgegevens.<br>
+<br>
+§4. De geregistreerde gegevens, vermeld in paragraaf 1, worden tien schooljaren na het einde van het schooljaar waarop de leerling ingeschreven was, bewaard. Na afloop van deze bewaartermijn worden de voormelde gegevens vernietigd.<br>
+&nbsp;<br>
+§5. De scholen kunnen de gegevens, vermeld in paragraaf 1, enkel onderling uitwisselen in het kader van intervisie met als doelstelling het verminderen van het gebruik van afzondering of fixatie en de interne kwaliteitszorg. Bij elke uitwisseling wordt bekeken welke gegevens hiervoor nodig zijn in overeenstemming met artikel 5, lid 1, c), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
+
 ## ONDERAFDELING C ONDERWIJS AAN HUIS
 
 ### ART. 34.
 
 § 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school hebben recht op tijdelijk onderwijs aan huis. De regering kan bijkomend mogelijke redenen van de afwezigheid bepalen. Deze redenen dienen gerechtvaardigd en gegrond te zijn en worden gemotiveerd en geattesteerd door een bevoegde derde.<br>
+<br>
+Jongeren die verblijven in een voorziening veilig verblijf als vermeld in artikel 15 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp of in het Vlaams detentiecentrum, vermeld in artikel 41 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, hebben recht op tijdelijk onderwijs aan huis gedurende de volledige duur van hun verblijf in de voorziening veilig verblijf of het Vlaams detentiecentrum. In aanvulling op artikel 26 voldoet de jongere, die niet meer ingeschreven is in een school en die in een voorziening veilig verblijf of het Vlaams detentiecentrum verblijft, hiermee aan de leerplicht.<br>
+<br>
+Een jongere die in een voorziening veilig verblijf of het Vlaams detentiecentrum verblijft en geen inschrijving meer heeft in een school, kan met akkoord van de betrokken personen, door de school die het tijdelijk onderwijs aan huis aanbiedt of door een andere school tijdens de duur van de opname, beschouwd worden als regelmatige leerling, in afwijking van artikel 20, in functie van een mogelijke studiebekrachtiging. De jongere moet voldoen aan de toelatingsvoorwaarden voor het betreffende onderwijsniveau dat de betreffende school inricht.<br>
 <br>
 § 2. De regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis. De regering maakt hierbij een onderscheid tussen een veelvuldige afwezigheid&nbsp;en een langdurige afwezigheid.<br>
 <br>
@@ -809,13 +921,14 @@ Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van h
 9° de vermelding dat bij schoolverandering leerlingengegevens worden overgedragen naar de nieuwe school tenzij, en voor zover de regelgeving de overdracht niet verplicht stelt, de ouders er zich expliciet tegen verzetten na op hun verzoek deze gegevens te hebben ingezien;<br>
 10° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is de school waar nu wordt ingeschreven op de hoogte te brengen van het bestaan en de inhoud van een IAC-verslag of GC-verslag;<br>
 11° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school samenwerkt, en de concrete afspraken over de dienstverlening tussen de school en het centrum voor leerlingenbegeleiding;<br>
-12° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.<br>
+12° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.&nbsp;Als de school een beleid op afzondering en fixatie als vermeld in artikel 33/1 heeft, wordt dat beleid uitdrukkelijk opgenomen in de korte beschrijving van het beleid op leerlingenbegeleiding.<br>
 13° richtlijnen over aanwezigheden, in het bijzonder voor de leerplichtige kleuters, en te laat komen;<br>
 14° dat er leersteun kan worden geboden voor leerlingen met een GC-verslag of IAC-verslag en bij welk leersteuncentrum de school aangesloten is.<br>
 <br>
 § 3. Voor het lager onderwijs bevat het schoolreglement ten minste de volgende elementen:<br>
 1° het reglement inzake tucht en schending van de leefregels van de leerlingen met inbegrip van een preventieve schorsing, een tijdelijke uitsluiting of een definitieve uitsluiting en inzake de beroepsprocedure zoals vermeld in onderafdeling F van deze afdeling, inbegrepen het hanteren van redelijke en haalbare termijnen;<br>
 2° de procedure volgens dewelke het getuigschrift basisonderwijs wordt toegekend, met inbegrip van de beroepsprocedure vermeld in onderafdeling E van deze afdeling;<br>
+2°/1 voor scholen die de taalafdeling Nederlands-Vlaamse Gebarentaal inrichten, de mogelijkheid en de procedure, vermeld in artikel 17 van dit decreet, om de inschrijving in de taalafdeling Nederlands-Vlaamse Gebarentaal om te zetten in een inschrijving buiten de taalafdeling Nederlands-Vlaamse Gebarentaal;<br>
 3° de bepalingen in verband met onderwijs aan huis en synchroon internetonderwijs;<br>
 4° richtlijnen inzake afwezigheden en te laat komen;<br>
 5° afspraken in verband met huiswerk, agenda’s, rapporten en leerlingenevaluatie, met inbegrip van de wijze waarop bij de leerlingenevaluatie de klassen- raad al dan niet rekening houdt met de resultaten van de Vlaamse toetsen, onverminderd de bepalingen van artikel 44quater, §2, tweede lid, 4°;<br>
@@ -834,7 +947,7 @@ Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van h
 14° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is de school waar nu wordt ingeschreven op de hoogte te brengen van het bestaan en de inhoud van een IAC-verslag of GC-verslag;<br>
 15° eventuele beroepsprocedures buiten de verplichte beroepsprocedures zoals vermeld in punt 1° en punt 2°;<br>
 16° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school samenwerkt, en de concrete afspraken over de dienstverlening tussen de school en het centrum voor leerlingenbegeleiding;<br>
-17° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt;<br>
+17° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.&nbsp;Als de school een beleid op afzondering en fixatie als vermeld in artikel 33/1 heeft, wordt dit beleid uitdrukkelijk opgenomen in de korte beschrijving van het beleid op leerlingenbegeleiding;<br>
 18° dat er leersteun kan worden geboden voor leerlingen met een GC-verslag of IAC-verslag en bij welk leersteuncentrum de school aangesloten is.<br>
 <br>
 § 4. ...<br>
@@ -933,13 +1046,13 @@ Het behoud van inschrijving kan, als de vestigingsplaats, het niveau in de vesti
 
 ### ART 37/6/1.
 
-De bepalingen van hoofdstuk IV, afdeling 3 en 4, zijn van toepassing voor de inschrijvingen in het gewoon basisonderwijs voor het schooljaar 2022-2023. De bepalingen van hoofdstuk IV, afdeling 3 en 4, zijn van toepassing voor inschrijvingen in het buitengewoon basisonderwijs voor het schooljaar 2022-2023, 2023-2024 en 2024-2025.<br>
+De bepalingen van hoofdstuk IV, afdeling 3 en 4, zijn van toepassing voor de inschrijvingen in het gewoon basisonderwijs voor het schooljaar 2022-2023. De bepalingen van hoofdstuk IV, afdeling 3 en 4, zijn van toepassing voor inschrijvingen in het buitengewoon basisonderwijs voor het schooljaar 2022-2023, 2023-2024, 2024-2025, 2025-2026 en 2026-2027.<br>
 <br>
 Voor de toepassing van de termijnen, vermeld in hoofdstuk IV/1, hoofdstuk IV/2 en hoofdstuk IV/3, worden de vakantieperioden die de regering krachtens artikel 50 bepaalt, niet meegerekend, met uitzondering van de termijn, in artikel 37/30, 37/43/1 en 37/66.<br>
 <br>
 De bepalingen van hoofdstuk IV/1 en IV/3 zijn van toepassing voor de inschrijvingen in het gewoon basisonderwijs voor het schooljaar 2023-2024 en de daaropvolgende schooljaren.<br>
 <br>
-De bepalingen van hoofdstuk IV/2 zijn van toepassing voor de inschrijvingen in het buitengewoon basisonderwijs voor het schooljaar 2025-2026 en de daaropvolgende schooljaren.
+De bepalingen van hoofdstuk IV/2 zijn van toepassing voor de inschrijvingen in het buitengewoon basisonderwijs voor het schooljaar 2027-2028 en de daaropvolgende schooljaren.
 
 ## [Onderafdeling B. ... (opgeh. decr. 17 mei 2019, art. II.39, I: 1 september 2019)]
 
@@ -1350,6 +1463,8 @@ Aan de ouders wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerli
 
 § 1. Uiterlijk op 15 november van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijvingen gelden, legt een schoolbestuur, meerdere schoolbesturen samen of het LOP een voorstel van aanmeldingsprocedure voor aan de CLR.<br>
 <br>
+In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 januari 2025 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2025-2026 voorleggen aan de CLR.<br>
+<br>
 § 2. Het dossier daartoe bevat minstens de volgende onderdelen :<br>
 1° de start en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering ervan, overeenkomstig artikel 37undevicies;<br>
 2° het middel of de middelen tot aanmelden;<br>
@@ -1392,7 +1507,7 @@ c) de mededeling van de niet-gerealiseerde inschrijvingen.<br>
 1° een aangepast voorstel van aanmeldingsprocedure indienen bij de CLR. In dat geval toetst de CLR het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De CLR neemt over het aangepaste voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan;<br>
 2° het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De Vlaamse Regering neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan. De Vlaamse Regering bepaalt de nadere regelen inzake het verloop van de procedure.<br>
 <br>
-In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31 januari 2022 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
+In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op&nbsp;14 februari 2025 voor de aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2025-2026 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
 <br>
 § 2. Bij een negatief besluit, van de CLR over het, overeenkomstig paragraaf 1, 1°, voorgelegde aangepast voorstel van aanmeldingsprocedure, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk dertig kalenderdagen na ontvangst van het negatief besluit het aangepast voorstel van aanmeldingsprocedure of het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3.<br>
 <br>
@@ -1438,7 +1553,8 @@ Een wijziging van het pedagogisch project of schoolreglement kan ten vroegste ui
 <br>
 § 4. Een school registreert elke inschrijving binnen zeven kalenderdagen, en uiterlijk op de eerste dag van de effectieve lesbijwoning, in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaamse Ministerie van Onderwijs en Vorming, met vermelding van:<br>
 1° de datum en het tijdstip van de inschrijving;<br>
-2° de datum van de voorziene start van de lesbijwoning in het geval van schoolverandering in de loop van het schooljaar.<br>
+2° de datum van de voorziene start van de lesbijwoning in het geval van schoolverandering in de loop van het schooljaar;<br>
+3° of de leerling is ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal;<br>
 <br>
 Bij registratie van de inschrijving in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, registreert een school, om de leerlingen uniek te kunnen identificeren en als de volgende gegevens beschikbaar zijn, de volgende gegevens van de leerling:<br>
 1° de identificatiegegevens;<br>
@@ -1447,17 +1563,31 @@ Bij registratie van de inschrijving in de administratieve toepassingen voor het 
 <br>
 De registratie gebeurt conform artikel 21.<br>
 <br>
-De bevoegde diensten van de Vlaamse Gemeenschap zijn de verwerkingsverantwoordelijke voor de gegevens, vermeld in het tweede lid. De gegevens, vermeld in tweede lid, worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.
+De bevoegde diensten van de Vlaamse Gemeenschap zijn de verwerkingsverantwoordelijke voor de gegevens, vermeld in het tweede lid. De gegevens, vermeld in tweede lid, worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.<br>
+<br>
+§5. De school vraagt bij de inschrijving van elke leerling in de taalafdeling Nederlands-Vlaamse Gebarentaal of de leerling doof of slechthorend is.<br>
+<br>
+Het bewijs dat de leerling doof of slechthorend is als vermeld in het eerste lid wordt geleverd via een medisch attest. De regering kan bepalen dat het voormelde bewijs geleverd kan worden met andere documenten of op andere wijzen dan met het medisch attest.<br>
+<br>
+De school is verwerkingsverantwoordelijke en bewaart het medisch attest en de andere documenten, vermeld in het tweede lid, tot één schooljaar nadat de leerling voor het laatst ingeschreven was in de taalafdeling Nederlands-Vlaamse Gebarentaal. Het medisch attest en de andere documenten, vermeld in het tweede lid, kunnen ter verificatie worden voorgelegd aan de bevoegde diensten van de Vlaamse Gemeenschap.
 
 ### ART 37/9.
 
 § 1. Behoudens de bij decreet bepaalde gevallen van uitschrijving, zoals bepaald in artikel 32, § 3, artikel 37/8, § 2, derde lid, artikel 37/10 en artikel 37/11, § 3, geldt een inschrijving van een leerling in een school voor de duur van de hele schoolloopbaan in die school.<br>
 <br>
-Het behoud van de inschrijving geldt over de vestigingsplaatsen heen, tenzij de capaciteit van de vestigingsplaats is of wordt overschreden of de leerling er niet aan de toelatingsvoorwaarden voldoet. De voortgang van het leerproces, waarbij een verandering van vestigingsplaats noodzakelijk is, kan niet worden gestuit.<br>
+Het behoud van de inschrijving, vermeld in het eerste lid, geldt over de vestigingsplaatsen en over de taalafdeling Nederlands-Vlaamse Gebarentaal heen, tenzij de capaciteit van de vestigingsplaats is of wordt overschreden of de leerling niet aan de toelatingsvoorwaarden voldoet. De voortgang van het leerproces, waarbij een verandering van vestigingsplaats of een verandering van de taalafdeling Nederlands-Vlaamse Gebarentaal naar een inschrijving buiten de taalafdeling Nederlands-Vlaamse Gebarentaal noodzakelijk is, kan niet worden gestuit.<br>
 <br>
 Het behoud van inschrijving kan, als de vestigingsplaats of het niveau in de vestigingsplaats(en) van de leerling betrokken is bij een herstructurering en verdwijnt uit de school, ook gegarandeerd worden in een andere school betrokken bij de herstructurering of in een andere school van hetzelfde schoolbestuur, gelegen op een billijke afstand. Het behoud van inschrijving wordt, als de school van de leerling betrokken is bij een fusie, gegarandeerd in de fusieschool of in een andere school van hetzelfde schoolbestuur gelegen op een billijke afstand. In voorkomende situaties informeert het schoolbestuur de betrokken ouders.<br>
 <br>
 § 2. In afwijking van paragraaf 1 kunnen schoolbesturen van basisscholen waarvan de capaciteit van het kleuteronderwijs groter is dan die van het lager onderwijs, opteren voor een nieuwe inschrijving bij de overgang tussen beide onderwijsniveaus. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
+<br>
+§2/1. In aanvulling op paragraaf 1 kunnen de ouders van leerlingen die al schoollopen in een school waar een taalafdeling Nederlands-Vlaamse Gebarentaal wordt opgericht, beslissen dat de leerling zijn schoolloopbaan voortzet in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+De beslissing, vermeld in het eerste lid, kan alleen worden genomen in het schooljaar voorafgaand aan het schooljaar dat de leerling voor de eerste keer de keuze heeft om zijn schoolloopbaan verder te zetten in de taalafdeling Nederlands-Vlaamse Gebarentaal zonder dat zijn leerproces, als vermeld in artikel 8, eerste lid, onderbroken wordt. De voormelde beslissing wordt ten laatste genomen voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/20, §2, eerste lid, 1°, of voor de start van de aanmeldingsperiode, vermeld in artikel 37/20, §2, eerste lid, 2°, als er geen aparte aanmeldings- en inschrijvingsperiode voor de voorrangsgroepen, vermeld in artikel 37/20, §2, eerste lid, 1°, is.<br>
+<br>
+De school communiceert naar de ouders over de mogelijkheid van de leerling om zijn schoolloopbaan voort te zetten in de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in het eerste lid.<br>
+<br>
+Als de leerlingen die al schoollopen in die school kunnen instappen in het eerste schooljaar dat de taalafdeling Nederlands-Vlaamse Gebarentaal wordt opgericht in die school, dan meldt het schoolbestuur aan de ouders van die leerlingen dat het schoolbestuur een oprichtingsdossier als vermeld in artikel 112bis heeft ingediend. De ouders kunnen vanaf de voormelde melding tot aan de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/20, §2, eerste lid, 1°, of voor de start van de aanmeldingsperiode, vermeld in artikel 37/20, §2, eerste lid, 2°, als er geen aparte aanmeldings- of inschrijvingsperiode voor de voorrangsgroepen is, vermeld in artikel 37/20, §2, eerste lid, 1°, de beslissing, vermeld in het eerste lid, nemen. Als de regering beslist om het voormelde oprichtingsdossier niet goed te keuren, of als de school beslist om pas het volgend jaar voor het eerst de taalafdeling op te starten, dan is de voormelde beslissing van de ouders zonder gevolg en blijft de leerling ingeschreven in de school in het volgend schooljaar.<br>
 <br>
 § 3. Indien zijn betrokken scholen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan een schoolbestuur ervoor opteren om bij de overgang van een leerling van een autonome kleuterschool naar een lagere of basisschool de inschrijvingen van de ene naar de andere school te laten doorlopen. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
 <br>
@@ -1495,17 +1625,28 @@ In afwijking van het derde lid kan een school kiezen om te ontbinden op een van 
 
 ### ART 37/12.
 
-§ 1. Een schoolbestuur beslist jaarlijks, en uiterlijk op 15 november, voor elk van zijn scholen en vestigingsplaatsen, en eventueel per geboortejaar of leerjaar per school of per vestigingsplaats, of het voor het daaropvolgende schooljaar leerlingen wil kunnen weigeren omwille van bereikte capaciteit. Een schoolbestuur bepaalt eveneens, voor elk van deze scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, of het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22, § 2 en § 3, wil kunnen weigeren.<br>
+§1. Een schoolbestuur beslist jaarlijks uiterlijk op 15 november of het voor het daaropvolgende schooljaar leerlingen wil kunnen weigeren omwille van bereikte capaciteit op niveau van:<br>
+1°&nbsp;&nbsp; &nbsp;elk van zijn scholen;<br>
+2°&nbsp;&nbsp; &nbsp;elk van zijn vestigingsplaatsen;<br>
+3°&nbsp;&nbsp; &nbsp;de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
 <br>
-§ 2. Voor de scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, waarvoor het schoolbestuur beslist geen leerlingen te zullen weigeren omwille van capaciteit gelden de regels voor niet-aanmeldende scholen, vermeld in onderafdeling B, tenzij het schoolbestuur beslist aan te sluiten bij een aanmeldingsprocedure. In dat geval zijn de bepalingen uit onderafdeling C van toepassing.<br>
+Het schoolbestuur kan voor elk niveau, vermeld in het eerste lid, beslissen om te kunnen weigeren voor een van de volgende niveaus:<br>
+1°&nbsp;&nbsp; &nbsp;geboortejaar;<br>
+2°&nbsp;&nbsp; &nbsp;leerjaar.<br>
 <br>
-Voor de scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, waarvoor het schoolbestuur beslist te willen kunnen weigeren omwille van capaciteit, en de scholen, vermeld in § 3, tweede lid, die verplicht worden tot aanmelden worden de inschrijvingen georganiseerd via een aanmeldingsprocedure. Hiervoor gelden de regels voor aanmeldende scholen, vermeld in onderafdeling C.<br>
+Een schoolbestuur bepaalt voor elk niveau, vermeld in het eerste en het tweede lid, of het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22, §2 en §3, en in artikel 37/22/1, §2 tot en met §4, wil kunnen weigeren.<br>
 <br>
-Voor de onderdelen waarvoor het schoolbestuur besliste dat het ook leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22, § 2 en § 3, wil kunnen weigeren, gelden de regels, vermeld in artikel 37/22.<br>
+§ 2. Voor elk niveau, vermeld in paragraaf 1, eerste en tweede lid, waarvoor het schoolbestuur beslist geen leerlingen te zullen weigeren omwille van capaciteit gelden de regels voor niet-aanmeldende scholen, vermeld in onderafdeling B, tenzij het schoolbestuur beslist aan te sluiten bij een aanmeldingsprocedure. In dat geval zijn de bepalingen uit onderafdeling C van toepassing.<br>
+<br>
+Voor elk niveau, vermeld in paragraaf 1, eerste en tweede lid, waarvoor het schoolbestuur beslist te willen kunnen weigeren omwille van capaciteit, en de scholen, vermeld in § 3, tweede lid, die verplicht worden tot aanmelden worden de inschrijvingen georganiseerd via een aanmeldingsprocedure. Hiervoor gelden de regels voor aanmeldende scholen, vermeld in onderafdeling C.<br>
+<br>
+Voor de onderdelen waarvoor het schoolbestuur besliste dat het ook leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22, §2 en §3, en 37/22/1, §2 tot en met §4, wil kunnen weigeren, gelden de regels, vermeld in artikel 37/22 en 37/22/1.<br>
 <br>
 § 3. De Vlaamse Regering kan, in afwijking van paragraaf 1, en wanneer er een capaciteitsprobleem dreigt of heerst, waardoor het recht op inschrijving, vermeld in artikel 37/8, niet meer kan worden gegarandeerd, een schoolbestuur of meerdere schoolbesturen samen verplichten tot het organiseren van een gezamenlijke aanmeldingsprocedure voor hun scholen.<br>
 <br>
-De verplichting tot een gezamenlijke aanmeldingsprocedure geldt in ieder geval voor alle schoolbesturen die een school hebben binnen het werkingsgebied van het LOP Antwerpen of LOP Gent, voor hun scholen binnen dat respectievelijke werkingsgebied.
+De verplichting tot een gezamenlijke aanmeldingsprocedure geldt in ieder geval voor alle schoolbesturen die een school hebben binnen het werkingsgebied van het LOP Antwerpen of LOP Gent, voor hun scholen binnen dat respectievelijke werkingsgebied.<br>
+<br>
+In afwijking van het tweede lid is een school die de taalafdeling Nederlands- Vlaamse Gebarentaal inricht, en gelegen is in het werkingsgebied van het LOP Gent of het LOP Antwerpen niet verplicht om gezamenlijk aan te melden met de andere schoolbesturen voor de inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal.
 
 ## [Onderafdeling B Organisatie van de inschrijvingen in niet-aanmeldende scholen (ing. decr. 17 mei 2019, art. II.13, I: 1 september 2022)]
 
@@ -1527,7 +1668,7 @@ Schoolbesturen met scholen of vestigingsplaatsen gelegen in het werkingsgebied v
 
 ### ART 37/14.
 
-Een schoolbestuur dat omwille van uitzonderlijke omstandigheden in de onmogelijkheid verkeert om bijkomende inschrijvingen te realiseren in een of meerdere scholen, vestigingsplaatsen, schooljaren of geboortejaren, moet een aanvraag indienen bij de CLR om alsnog leerlingen te kunnen weigeren op basis van capaciteit, omwille van uitzonderlijke omstandigheden.<br>
+Een schoolbestuur dat omwille van uitzonderlijke omstandigheden in de onmogelijkheid verkeert om bijkomende inschrijvingen te realiseren in een of meerdere scholen, vestigingsplaatsen,&nbsp;een taalafdeling Nederlands-Vlaamse Gebarentaal, schooljaren of geboortejaren, moet een aanvraag indienen bij de CLR om alsnog leerlingen te kunnen weigeren op basis van capaciteit, omwille van uitzonderlijke omstandigheden.<br>
 <br>
 De CLR beslist, binnen een termijn van veertien kalenderdagen na het ontvangen van de aanvraag, vermeld in het eerste lid, of en onder welke voorwaarden weigeringen op basis van capaciteit, omwille van uitzonderlijke omstandigheden, toegestaan worden.<br>
 <br>
@@ -1539,15 +1680,15 @@ Als de CLR weigeringen op basis van capaciteit, omwille van uitzonderlijke omsta
 
 ### ART 37/15.
 
-Aanmelden is het digitaal kenbaar maken door ouders van een intentie tot inschrijven voor een bepaald schooljaar in één of meerdere scholen of vestigingsplaatsen voor de daartoe door het schoolbestuur beschikbaar gestelde plaatsen. Als de betrokken leerling voor meerdere scholen of vestigingsplaatsen wordt aangemeld, wordt een volgorde van keuze aangegeven.<br>
+Aanmelden is het digitaal kenbaar maken door ouders van een intentie tot inschrijven voor een bepaald schooljaar in één of meerdere scholen, vestigingsplaatsen of taalafdelingen Nederlands-Vlaamse Gebarentaal voor de daartoe door het schoolbestuur beschikbaar gestelde plaatsen. Als de betrokken leerling voor meerdere scholen, vestigingsplaatsen of taalafdelingen Nederlands-Vlaamse Gebarentaal&nbsp; wordt aangemeld, wordt een volgorde van keuze aangegeven.<br>
 <br>
-Nadat de aanmeldingsperiode is afgesloten, worden de aangemelde leerlingen geordend, conform artikel 37/23 en 37/25, en, in voorkomend geval, conform artikel 37/22 en 37/24. De leerlingen die gunstig geordend worden, zijnde binnen de door het schoolbestuur bepaalde capaciteit, verwerven een recht op inschrijving voor een beschikbaar gestelde plaats. Binnen gezamenlijke aanmeldingsprocedures wordt slechts één gunstige ordening weerhouden, zijnde de gunstige ordening in de school van hoogste keuze van de betreffende leerling. Leerlingen die niet gunstig geordend worden, worden in de volgorde zoals in het aanmeldingsregister, opgenomen als geweigerde leerlingen in het inschrijvingsregister.
+Nadat de aanmeldingsperiode is afgesloten, worden de aangemelde leerlingen geordend, conform artikel 37/23, 37/23/1 en 37/25, en, in voorkomend geval, conform artikel 37/22, 37/22/1 en 37/24. De leerlingen die gunstig geordend worden, zijnde binnen de door het schoolbestuur bepaalde capaciteit, verwerven een recht op inschrijving voor een beschikbaar gestelde plaats. Binnen gezamenlijke aanmeldingsprocedures wordt slechts één gunstige ordening weerhouden, zijnde de gunstige ordening in de school van hoogste keuze van de betreffende leerling. Leerlingen die niet gunstig geordend worden, worden in de volgorde zoals in het aanmeldingsregister, opgenomen als geweigerde leerlingen in het inschrijvingsregister.
 
 ### ART 37/16.
 
 § 1. Een schoolbestuur, alle deelnemende schoolbesturen samen of het LOP, meldt uiterlijk op 15 november van het voorafgaande schooljaar, via het daartoe ontwikkelde formulier, aan de bevoegde diensten van de Vlaamse Gemeenschap:<br>
-1° voor welke scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, het de inschrijvingen zal organiseren via een aanmeldingsprocedure;<br>
-2° voor welke scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22, wil kunnen weigeren;<br>
+1° voor welk niveau, vermeld in artikel 37/12, §1, eerste en tweede lid, het de inschrijvingen zal organiseren via een aanmeldingsprocedure;<br>
+2° voor welk niveau, vermeld in artikel 37/12, §1, eerste en tweede lid, het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/22 en 37/22/1, wil kunnen weigeren;<br>
 3° welk standaarddossier het zal hanteren bij de organisatie van de aanmeldingsprocedure, of van welk standaarddossier het schoolbestuur of het LOP wenst af te wijken, als vermeld in artikel 37/18. Een standaarddossier is een dossier waarin de verschillende stappen van een aanmeldingsprocedure concreet worden uitgewerkt.<br>
 <br>
 De Vlaamse Regering bepaalt het model van ieder standaarddossier en het formulier voor de meldingen, vermeld in het eerste lid.<br>
@@ -1582,13 +1723,17 @@ De behandeling van een klacht of vraag bij de ombudsdienst inschrijvingen schort
 <br>
 § 2. Voor scholen in gemeenten, gelegen buiten het werkingsgebied van een LOP, kan een schoolbestuur of kunnen meerdere schoolbesturen samen een aanmeldingsprocedure instellen na kennisgeving aan de schoolbesturen van de andere scholen in de gemeente, en op voorwaarde dat alle aanmeldende scholen in de betreffende gemeente deelnemen aan de aanmeldingsprocedure.<br>
 <br>
+§2/1. Scholen gelegen in een gemeente betrokken bij een fusie kunnen gedurende het schooljaar waarin de samenvoeging plaatsvindt, voor de organisatie van de aanmeldingsprocedure uitgaan van de situatie zoals deze van toepassing was voor de samenvoeging van de gemeenten.<br>
+<br>
 § 3. Schoolbesturen kunnen, over scholen, gemeenten en werkingsgebieden van een LOP heen, samen een aanmeldingsprocedure instellen, mits het respecteren van de voorwaarden, vermeld in de eerste en tweede paragraaf.<br>
 <br>
-In het geval van aansluiting bij de door het LOP goedgekeurde aanmeldingsprocedure van het tweetalige gebied Brussel-Hoofdstad, blijven de respectievelijke voorrangsgroepen en ordeningscriteria, vermeld in artikel 37/22 en 37/23, en, in voorkomend geval, artikel 37/24, onverminderd gelden.<br>
+In het geval van aansluiting bij de door het LOP goedgekeurde aanmeldingsprocedure van het tweetalige gebied Brussel-Hoofdstad, blijven de respectievelijke voorrangsgroepen en ordeningscriteria, vermeld in artikel 37/22, 37/22/1, 37/23 en 37/23/1, en, in voorkomend geval, artikel 37/24, onverminderd gelden.<br>
 <br>
 § 4. De Vlaamse Regering kan binnen de beschikbare begrotingskredieten middelen voorzien ter ondersteuning van het instellen van een aanmeldingsprocedure en bepaalt hiervoor de nadere modaliteiten.<br>
 <br>
-§&nbsp;5. In aanvulling op paragraaf 1 tot en met 4 kunnen de schoolbesturen werken met een afzonderlijke aanmeldingsprocedure per onderwijstaal.
+§&nbsp;5. In aanvulling op paragraaf 1 tot en met 4 kunnen de schoolbesturen werken met een afzonderlijke aanmeldingsprocedure per onderwijstaal.<br>
+<br>
+§6. In afwijking van paragraaf 1 tot en met 3 hoeven scholen niet deel te nemen aan de gezamenlijke aanmeldingsprocedure binnen het LOP of aan de aanmeldingsprocedure van de gemeente voor de aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal. Als de aanmeldingsprocedure apart wordt georganiseerd voor de aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal, is er geen goedkeuring vereist als vermeld in paragraaf 1.
 
 ### ART 37/18.
 
@@ -1621,12 +1766,12 @@ Bij een negatief besluit van de CLR beslissen het betrokken schoolbestuur, meerd
 
 ### ART 37/20.
 
-§ 1. Een schoolbestuur bepaalt uiterlijk op 15 februari van het voorafgaande schooljaar voor elke school en vestigingsplaats, en eventueel geboortejaar of leerjaar per school of per vestigingsplaats, waarvoor het de inschrijvingen organiseert via een aanmeldingsprocedure, een capaciteit. Dit is het totaal aantal leerlingen dat het schoolbestuur voor de betreffende scholen, vestigingsplaatsen, en eventueel geboortejaar of leerjaar per school of per vestigingsplaats, als het maximaal aantal leerlingen ziet.<br>
+§1. Een schoolbestuur bepaalt uiterlijk op 15 februari van het voorafgaande schooljaar een capaciteit voor elk niveau, vermeld in artikel 37/12, §1, eerste en tweede lid, waarvoor het de inschrijvingen organiseert via een aanmeldingsprocedure. De voormelde capaciteit is het totale aantal leerlingen dat het schoolbestuur voor het betreffende niveau, vermeld in artikel 37/12, §1, eerste en tweede lid, als het maximaal aantal leerlingen ziet.<br>
 <br>
 Bij het bepalen van zijn capaciteit kan een schoolbestuur ervoor kiezen om de capaciteit van kleuters die conform artikel 12/1 nog een schooljaar tot het kleuteronderwijs toegelaten worden, samen te voegen met de capaciteit van het laatste geboortejaar van het kleuteronderwijs waarvoor een kind kan toegelaten worden tot het kleuteronderwijs, zonder een beroep te doen op artikel 12/1.<br>
 <br>
 § 2. Daarnaast maakt het schoolbestuur de resterende vrije plaatsen, namelijk het aantal plaatsen waarin een inschrijving gerealiseerd kan worden, minstens bekend op de volgende momenten:<br>
-1° in voorkomend geval, voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/22, § 2 en § 3;<br>
+1° in voorkomend geval, voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/22, §2 en §3, en 37/22/1, §2 tot en met §4;<br>
 2° voor de start van de aanmeldingsperiode, vermeld in artikel 37/21;<br>
 3° voor de start van de vrije inschrijvingsperiode, vermeld in artikel 37/27.<br>
 <br>
@@ -1635,6 +1780,8 @@ Voor scholen gelegen in het werkingsgebied van een LOP communiceert het schoolbe
 § 3. Een schoolbestuur kan de capaciteit verhogen na de start van de inschrijvingen, mits toepassing van artikel 37/26.<br>
 <br>
 Voor scholen gelegen in het werkingsgebied van een LOP moet de capaciteitsverhoging door het LOP zijn goedgekeurd. Schoolbesturen van scholen, gelegen in gemeenten buiten het werkingsgebied van een LOP, delen de capaciteitsverhoging ter kennisgeving mee aan de schoolbesturen van de andere scholen, gelegen in die gemeente.<br>
+<br>
+In afwijking van het tweede lid hoeft de capaciteitsverhoging voor de taalafdeling Nederlands-Vlaamse Gebarentaal van scholen die in het LOP liggen, niet goedgekeurd te worden door het LOP. Het schoolbestuur deelt de capaciteitsverhoging mee aan het LOP.<br>
 <br>
 § 4. Een schoolbestuur weigert elke bijkomende inschrijving wanneer de capaciteit als vermeld in paragraaf 1 overschreden wordt en als een bijkomende inschrijving na de start van de inschrijvingen voor volgend schooljaar er toe zou leiden dat de capaciteit voor dat volgende schooljaar overschreden zou worden.<br>
 <br>
@@ -1656,7 +1803,7 @@ In afwijking van het eerste lid gelden de volgende periodes en data voor de insc
 3° de gunstig gerangschikte leerlingen kunnen zich inschrijven van 24 april 2023 tot en met 15 mei 2023;<br>
 4° de vrije inschrijvingsperiode voor de eventueel resterende vrije plaatsen start op 23 mei 2023.<br>
 <br>
-§ 2. Voorafgaand aan en tijdens de aanmeldingsperiode voor het volgende schooljaar kunnen geen inschrijvingen van leerlingen die niet behoren tot de voorrangsgroepen, vermeld in artikel 37/22, voor het volgende schooljaar gebeuren.<br>
+§ 2. Voorafgaand aan en tijdens de aanmeldingsperiode voor het volgende schooljaar kunnen geen inschrijvingen van leerlingen die niet behoren tot de voorrangsgroepen, vermeld in artikel 37/22 en 37/22/1, voor het volgende schooljaar gebeuren.<br>
 <br>
 Voorafgaand aan de aanmeldingsperiode kunnen er inschrijvingen gebeuren voor het huidige schooljaar. Tijdens de aanmeldingsperiode kan een inschrijving voor het huidige schooljaar gebeuren, op voorwaarde dat:<br>
 1° op het moment van de vraag tot inschrijving nog een vrije plaats is;<br>
@@ -1689,6 +1836,33 @@ Met personeelslid wordt bedoeld:<br>
 3° leerlingen die behoren tot de voorrangsgroep, vermeld in paragraaf 3.<br>
 <br>
 Indien de vooraf bepaalde capaciteit, vermeld in artikel 37/20, reeds bereikt wordt binnen de leerlingengroep, bedoeld in punt 1°, 2° of 3°, worden de leerlingen binnen die betreffende leerlingengroep, geordend volgens de volgorde van de voorrangsgroepen en het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in artikel 37/23 en vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/16.
+
+### ART 37/22/1.
+
+§1. In afwijking van artikel 37/22 gelden voor de inschrijving in de taalafdeling Nederlands-Vlaamse Gebarentaal de voorrangsregels, vermeld in dit artikel. Leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, krijgen voorrang bij inschrijvingen. Een schoolbestuur bepaalt en communiceert aan alle belanghebbenden de periode of desgewenst periodes waarbinnen en de wijze waarop de leerlingen, behorend tot deze voorrangsgroepen, hun vraag tot inschrijving dienen bekend te maken. Deze periode start ten vroegste vanaf de eerste schooldag van september van het voorafgaande schooljaar.<br>
+<br>
+Een schoolbestuur dat besliste geen leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te weigeren, schrijft de leerlingen uit de voorrangsgroepen in chronologische volgorde in en kan deze leerlingen tijdens de voorrangsperiode, vermeld in het eerste lid, niet weigeren op basis van bereikte capaciteit.<br>
+&nbsp;<br>
+Een schoolbestuur dat besliste leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te willen kunnen weigeren, respecteert bij de inschrijving van deze voorrangsgroepen volgende regels:<br>
+1° het ordent deze leerlingen, zoals bepaald in paragraaf 5;<br>
+2° het wijst de leerlingen die gunstig geordend zijn, zijnde binnen de door het schoolbestuur bepaalde capaciteit, toe, en noteert de niet-gunstig geordende leerlingen, in de volgorde zoals bepaald in paragraaf 5, op de weigeringslijst.<br>
+<br>
+§2. Elke leerling die tot dezelfde leefentiteit behoort als een reeds ingeschreven leerling, heeft bij voorrang op alle andere leerlingen, recht op inschrijving in de betrokken school of de betrokken scholen die de inschrijvingen van de ene naar de andere school laten doorlopen, op basis van artikel 37/9.<br>
+<br>
+§3. Na de leerlingen, vermeld in paragraaf 2, en gelijktijdig met de leerlingen, vermeld in paragraaf 4, geeft een schoolbestuur voor de taalafdeling Nederlands-Vlaamse Gebarentaal voorrang aan de leerlingen die doof of slechthorend zijn, vermeld in artikel 37/8, §5.<br>
+<br>
+§4. Na de leerlingen, vermeld in paragraaf 2, en gelijktijdig met de leerlingen, vermeld in paragraaf 3, geeft een schoolbestuur voor zijn scholen voorrang aan kinderen met een ouder die personeelslid is van de school of van de scholen die de inschrijvingen van de ene naar de andere school laten doorlopen op basis van artikel 37/9, op voorwaarde dat er op het ogenblik van de inschrijving sprake is van een lopende tewerkstelling voor meer dan 104 dagen.<br>
+<br>
+Met personeelslid wordt bedoeld:<br>
+1° een personeelslid als vermeld in artikel 2 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs en in artikel 4 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, voor zover ze geaffecteerd zijn aan of aangesteld zijn in de school;<br>
+2° een personeelslid dat via een arbeidsovereenkomst werd aangeworven door een schoolbestuur en tewerkgesteld wordt in de school.<br>
+<br>
+§5. Een schoolbestuur dat besliste leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te willen kunnen weigeren op basis van capaciteit, ordent de leerlingen uit de voorrangsgroepen in deze volgorde:<br>
+1° leerlingen die behoren tot de voorrangsgroep, vermeld in paragraaf 2, en die behoren tot een van de voorrangsgroepen, vermeld in paragraaf 3 of 4;<br>
+2° leerlingen die behoren tot de voorrangsgroep, vermeld in paragraaf 2;<br>
+3° leerlingen die behoren tot een van de voorrangsgroepen, vermeld in paragraaf 3 en 4.<br>
+<br>
+Indien de vooraf bepaalde capaciteit, vermeld in artikel 37/20, reeds bereikt wordt binnen de leerlingengroep, bedoeld in punt 1°, 2° of 3°, worden de leerlingen binnen die betreffende leerlingengroep, geordend volgens de volgorde van de voorrangsgroepen en het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in artikel 37/23/1, vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/16.
 
 ### ART 37/23.
 
@@ -1723,6 +1897,35 @@ Als de vooraf bepaalde capaciteit, vermeld in artikel 37/20, al bereikt wordt bi
 <br>
 De Vlaamse Regering bepaalt de gemeenten waar de operationalisering van het ordeningscriterium afstand, vermeld in het eerste lid, toegepast kan worden. Deze gemeenten grenzen aan een gewestgrens of aan een randgemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966. De operationalisering, vermeld in het eerste lid, kan enkel gebruikt worden in de gemeenten die zijn aangeduid door de Vlaamse Regering.
 
+### ART 37/23/1.
+
+§1. In afwijking van artikel 37/23 ordent het schoolbestuur of, na akkoord van de schoolbesturen in kwestie, het LOP voor de taalafdeling Nederlands-Vlaamse Gebarentaal op het einde van de aanmeldingsperiode die de Vlaamse Regering vastlegt, de overige kinderen, aan de hand van een van de volgende ordeningscriteria of een combinatie ervan:<br>
+1° de afstand van het domicilieadres van de leerling tot de school of vestigingsplaats;<br>
+2° de afstand van het werkadres van een van beide ouders tot de school of vestigingsplaats;<br>
+3° toeval. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt 1°, 2° of 4°;<br>
+4° de plaats van de taalafdeling Nederlands-Vlaamse Gebarentaal binnen de rangorde in de keuze die de ouders hebben gemaakt. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt 1°, 2° of 3°.<br>
+<br>
+Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen van de aangemelde leerlingen het ordeningscriterium of de combinatie van ordeningscriteria uit het standaarddossier dat ze onderschreven hebben, of de eventuele afwijkingen daarop, zoals de CLR ze heeft goedgekeurd.<br>
+<br>
+§2. Als het schoolbestuur beslist om de voorrang voor de voorrangsgroepen, vermeld in artikel 37/22/1, uitsluitend of na een voorafgaande voorrangsperiode, te organiseren via de aanmeldingsprocedure voor alle leerlingen, worden alle aangemelde leerlingen geordend op de volgende wijze:<br>
+1° eerst de leerlingen die behoren tot de voorrangsgroep, vermeld in artikel 37/22/1, §2, en die behoren tot een van de voorrangsgroepen, vermeld in artikel 37/22/1, §3 of §4;<br>
+2° dan de leerlingen die behoren tot dezelfde leefentiteit, vermeld in artikel 37/22/1, §2;<br>
+3° &nbsp; dan de leerlingen die doof of slechthorend zijn, vermeld in artikel 37/22/1,<br>
+§3, en de leerlingen met een ouder die personeelslid is, vermeld in artikel 37/22/1, §4;<br>
+4° tot slot de overige kinderen, aan de hand van een ordeningscriterium of een combinatie ervan die overblijven na de toepassing van de criteria, vermeld in punt 1° tot en met 3°:<br>
+a)&nbsp;&nbsp; &nbsp;de afstand van het domicilieadres van de leerling tot de school of vestigingsplaats;<br>
+b)&nbsp;&nbsp; &nbsp;de afstand van het werkadres van een van beide ouders tot de school of vestigingsplaats;<br>
+c)&nbsp;&nbsp; &nbsp;toeval. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt a), b) of d);<br>
+d)&nbsp;&nbsp; &nbsp;de plaats van de taalafdeling Nederlands-Vlaamse Gebarentaal binnen de rangorde in de keuze die de ouders hebben gemaakt. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt a), b) of c).<br>
+<br>
+Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen van de aangemelde leerlingen het ordeningscriterium of de combinatie van ordeningscriteria uit het standaarddossier die ze hebben onderschreven, of de eventuele afwijkingen daarop, zoals de CLR ze heeft goedgekeurd.<br>
+<br>
+Als de vooraf bepaalde capaciteit, vermeld in artikel 37/20, al bereikt wordt binnen de leerlingengroep, vermeld in het eerste lid, 1°, 2° of 3°, worden de leerlingen binnen die leerlingengroep in kwestie, geordend volgens de volgorde van de voorrangsgroepen en volgens het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in het eerste lid, 4°, en vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/16.<br>
+<br>
+§3. Het ordeningscriterium afstand van het domicilieadres van de leerling tot de school of vestigingsplaats, vermeld in paragraaf 2, eerste lid, 4°, a), kan geoperationaliseerd worden als “eerst de leerlingen gedomicilieerd in dezelfde gemeente als de school of de vestigingsplaats”. Desgevallend wordt de ordening van deze leerlingen vervolledigd met minstens een van de ordeningscriteria, vermeld in paragraaf 2, eerste lid, 4°. De ordening kan ook vervolledigd worden door nogmaals het ordeningscriterium afstand, vermeld in paragraaf 2, eerste lid, 4°, a), te operationaliseren op een andere wijze.<br>
+<br>
+De Vlaamse Regering bepaalt de gemeenten waar de operationalisering van het ordeningscriterium afstand, vermeld in het eerste lid, toegepast kan worden. Deze gemeenten grenzen aan een gewestgrens of aan een randgemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966. De operationalisering, vermeld in het eerste lid, kan enkel gebruikt worden in de gemeenten die zijn aangeduid door de Vlaamse Regering.
+
 ### ART 37/24.
 
 § 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit als vermeld in artikel 37/12, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, namelijk een of meer groepen van leerlingen die, op basis van een of meer objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie, waarbij in afwijking van dit principe leerlingen met een IAC-verslag in een school van het gewoon onderwijs altijd beschouwd mogen worden als een ondervertegenwoordigde groep, ongeacht de referentiepopulatie. De voorrang wordt toegepast tot maximaal 20% van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot één of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20% van de bepaalde capaciteit, vermeld in artikel 37/12.<br>
@@ -1743,7 +1946,9 @@ Als een gemeenteraad geen voorstel bekrachtigt, kunnen de schoolbesturen zelf be
 <br>
 § 2. Scholen die de voorrang, vermeld in paragraaf 1, toepassen, melden dat uiterlijk op 31 januari aan de bevoegde diensten van de Vlaamse Gemeenschap. Voor scholen die in het werkingsgebied van een LOP liggen, meldt het LOP de toepassing van die voorrang uiterlijk op 31 januari aan de bevoegde diensten van de Vlaamse Gemeenschap.<br>
 <br>
-Scholen en LOP kunnen hun voorstel van inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen ook voor advies voorleggen aan de CLR. Ze doen dat uiterlijk op 15 september voorafgaand aan de aanmeldingen. De inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen maken geen deel uit van het standaarddossier, vermeld in artikel 37/16, of afwijking op het standaarddossier, vermeld in artikel 37/18.
+Scholen en LOP kunnen hun voorstel van inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen ook voor advies voorleggen aan de CLR. Ze doen dat uiterlijk op 15 september voorafgaand aan de aanmeldingen. De inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen maken geen deel uit van het standaarddossier, vermeld in artikel 37/16, of afwijking op het standaarddossier, vermeld in artikel 37/18.<br>
+<br>
+§3. In afwijking van paragraaf 1 en 2 is het niet mogelijk om in een voorrangsgroep voor de ondervertegenwoordigde groep of groepen te voorzien voor aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal.
 
 ### ART 37/25.
 
@@ -1756,6 +1961,8 @@ Een schoolbestuur komt, per aanmeldingsregister, met toepassing van artikel 37/2
 Deze leerling wordt vervolgens verwijderd uit het aanmeldingsregister van de verschillende scholen en vestigingsplaatsen waarvoor de ouders een lagere keuze gemaakt hebben. De daardoor vrijgekomen plaatsen in de aanmeldingsregisters worden, voor zover mogelijk, ingenomen door de op basis van de volgorde van de voorrangsgroepen en dezelfde combinatie van ordeningscriteria als vermeld in artikel 37/22 tot en met 37/24, eerstvolgend gerangschikte leerling.<br>
 <br>
 Het innemen van vrijgekomen plaatsen in het aanmeldingsregister wordt herhaald totdat geen toewijzingen als vermeld in het eerste lid meer mogelijk zijn. Daarna worden de niet-toegewezen leerlingen geordend volgens de volgorde van de voorrangsgroepen en de ordeningscriteria, zoals opgenomen in het onderschreven standaarddossier, of in de door de CLR goedgekeurde afwijkingen daarop.<br>
+<br>
+Voor het ordenen, toewijzen en weigeren van aangemelde leerlingen is het schoolbestuur de verwerkingsverantwoordelijke. In geval van een verwerking door een LOP blijft het schoolbestuur of de gemandateerde de verwerkingsverantwoordelijke.<br>
 <br>
 § 3. De ouders krijgen uiterlijk op de door de Vlaamse Regering bepaalde datum schriftelijk of via elektronische drager melding over de school of vestigingsplaats waaraan de aangemelde leerling is toegewezen, met vermelding van de door de Vlaamse Regering bepaalde periode waarbinnen de ouders de aangemelde leerling kunnen inschrijven. Indien de ouders geen gebruikmaken van de mogelijkheid tot inschrijving binnen de daartoe door de Vlaamse Regering bepaalde periode, dan vervalt het recht op inschrijving dat ze via de aanmeldingsprocedure hebben verworven.<br>
 <br>
@@ -1779,7 +1986,7 @@ Aan de ouders wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerli
 <br>
 Overeenkomstig artikel 37/25 wordt de volgorde van de toegewezen leerlingen en de volgorde van de niet-toegewezen leerlingen overgenomen in het inschrijvingsregister.<br>
 <br>
-§ 2. Met uitzondering van leerlingen die zijn ingeschreven in overcapaciteit conform artikel 37/28, wordt bij het invullen van vrijgekomen plaatsen of bijkomende plaatsen door verhoogde capaciteit als vermeld in artikel 37/20, de volgorde van de weigeringen gerespecteerd, met inbegrip van de volgorde van de voorrangsgroepen, vermeld in artikel 37/22 en 37/24, en dat tot en met de vijfde schooldag van oktober van het schooljaar waarop de inschrijving betrekking had. En dit wat de leerlingen, vermeld in artikel 37/24 betreft, met het oog op het bereiken van het respectievelijke aandeel in artikel 37/24, § 1. Voor kleuters geboren in het meest recente kalenderjaar dat mogelijk is voor de inschrijvingen van het betrokken schooljaar, wordt deze volgorde gerespecteerd tot en met 30 juni van het schooljaar waarop de inschrijving betrekking had. Uiterlijk vanaf 1 juli geldt de volgorde van de weigeringen van kleuters van hetzelfde geboortejaar voor het volgende schooljaar.<br>
+§ 2. Met uitzondering van leerlingen die zijn ingeschreven in overcapaciteit conform artikel 37/28, wordt bij het invullen van vrijgekomen plaatsen of bijkomende plaatsen door verhoogde capaciteit als vermeld in artikel 37/20, de volgorde van de weigeringen gerespecteerd, met inbegrip van de volgorde van de voorrangsgroepen, vermeld in artikel 37/22, 37/22/1 en 37/24, en dat tot en met de vijfde schooldag van oktober van het schooljaar waarop de inschrijving betrekking had. En dit wat de leerlingen, vermeld in artikel 37/24 betreft, met het oog op het bereiken van het respectievelijke aandeel in artikel 37/24, § 1. Voor kleuters geboren in het meest recente kalenderjaar dat mogelijk is voor de inschrijvingen van het betrokken schooljaar, wordt deze volgorde gerespecteerd tot en met 30 juni van het schooljaar waarop de inschrijving betrekking had. Uiterlijk vanaf 1 juli geldt de volgorde van de weigeringen van kleuters van hetzelfde geboortejaar voor het volgende schooljaar.<br>
 <br>
 Ouders van leerlingen die alsnog een plaats wordt toegewezen krijgen daar binnen de zeven kalenderdagen schriftelijk of via elektronische drager melding van. Deze melding bevat informatie over de periode waarbinnen de ouders de betrokken leerling kunnen inschrijven. Die periode duurt minimaal zeven kalenderdagen.<br>
 <br>
@@ -1827,15 +2034,15 @@ Als de klassenraad lager onderwijs over de toelating tot het lager onderwijs van
 
 ### ART 37/30.
 
-§ 1. Een schoolbestuur, of het daartoe gemandateerde schoolbestuur of het LOP, dat een leerling weigert, deelt haar beslissing binnen een termijn van zeven kalenderdagen schriftelijk of digitaal mee aan de ouders van de leerling en aan de bevoegde diensten van de Vlaamse Gemeenschap via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. Die melding bevat het rijksregisternummer en de identificatiegegevens van de leerlingen en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels bepalen over de opslagperioden en de verwerkingsactiviteiten en de procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking. De weigeringsdocumenten worden ook, op vraag van de ouders, op papier ter beschikking gesteld.<br>
+§ 1. Als een schoolbestuur een leerling weigert, deelt dat schoolbestuur of het schoolbestuur dat daartoe gemandateerd is of het LOP, zijn beslissing binnen een termijn van zeven kalenderdagen schriftelijk of digitaal mee aan de ouders van de leerling en aan de bevoegde diensten van de Vlaamse Gemeenschap via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. Die melding bevat het rijksregisternummer en de identificatiegegevens van de leerlingen en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels bepalen over de opslagperioden en de verwerkingsactiviteiten en de procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking. De weigeringsdocumenten worden ook, op vraag van de ouders, op papier ter beschikking gesteld.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt het model van weigeringsdocument waarmee het schoolbestuur de weigering meedeelt aan de ouders en de bevoegde diensten van de Vlaamse Gemeenschap.<br>
 <br>
-Het model, vermeld in het eerste lid, bevat al de volgende elementen:<br>
+Het model, vermeld in het eerste lid, bevat, naast de elementen, vermeld in paragraaf 1, al de volgende elementen:<br>
 1° de feitelijke en de juridische grond van de beslissing tot weigering;<br>
 2° de informatie over de mogelijkheden voor bemiddeling, eerstelijnsklachten en de indiening van een klacht bij de CLR.<br>
 <br>
-Indien de weigering gebeurde op basis van bereikte capaciteit als vermeld in artikel 37/20 of op basis van capaciteit, omwille van uitzonderlijke omstandigheden als vermeld in artikel 37/14, deelt het schoolbestuur mee op welke plaats onder de geweigerde leerlingen de betrokken leerling staat in het inschrijvingsregister.<br>
+Indien de weigering gebeurde op basis van bereikte capaciteit als vermeld in artikel 37/20 of op basis van capaciteit, omwille van uitzonderlijke omstandigheden als vermeld in artikel 37/14, deelt het schoolbestuur, het schoolbestuur dat daarvoor is gemandateerd of het gemandateerde LOP mee op welke plaats onder de geweigerde leerlingen de betrokken leerling staat in het inschrijvingsregister.<br>
 <br>
 § 3. De ouders krijgen op hun verzoek toelichting bij de beslissing van het schoolbestuur.
 
@@ -2117,7 +2324,8 @@ Een wijziging van het pedagogisch project of schoolreglement kan ten vroegste ui
 <br>
 § 4. Een school registreert elke inschrijving binnen zeven kalenderdagen, en uiterlijk op de eerste dag van de effectieve lesbijwoning, in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaamse Ministerie van Onderwijs en Vorming, met vermelding van:<br>
 1° de datum en het tijdstip van de inschrijving;<br>
-2° de datum van de voorziene start van de lesbijwoning.<br>
+2° de datum van de voorziene start van de lesbijwoning;<br>
+3° of de leerling is ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
 <br>
 Bij registratie van de inschrijving in de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, registreert een school, om de leerlingen uniek te kunnen identificeren en als de volgende gegevens beschikbaar zijn, de volgende gegevens van de leerling:<br>
 1° de identificatiegegevens;<br>
@@ -2126,17 +2334,31 @@ Bij registratie van de inschrijving in de administratieve toepassingen voor het 
 <br>
 De registratie gebeurt conform artikel 21.<br>
 <br>
-De bevoegde diensten van de Vlaamse Gemeenschap zijn de verwerkingsverantwoordelijke voor de gegevens, vermeld in het tweede lid. De gegevens, vermeld in het tweede lid, worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.
+De bevoegde diensten van de Vlaamse Gemeenschap zijn de verwerkingsverantwoordelijke voor de gegevens, vermeld in het tweede lid. De gegevens, vermeld in het tweede lid, worden maximaal dertig jaar bewaard met het oog op het garanderen van een vlot schooltraject, zeker in geval van een verlengd verblijf van de leerling in het onderwijs.<br>
+<br>
+§5. De school vraagt bij de inschrijving van elke leerling in de taalafdeling Nederlands-Vlaamse Gebarentaal of de leerling doof of slechthorend is.<br>
+<br>
+Het bewijs dat de leerling doof of slechthorend is als vermeld in het eerste lid wordt geleverd via een medisch attest. De regering kan bepalen dat het voormelde bewijs ook geleverd kan worden met andere documenten of op andere wijzen dan met het medisch attest.<br>
+<br>
+De school is verwerkingsverantwoordelijke en bewaart het medisch attest en de andere documenten, vermeld in het tweede lid, tot één schooljaar nadat de leerling voor het laatst ingeschreven was in de taalafdeling Nederlands-Vlaamse Gebarentaal. Het medisch attest en de andere documenten, vermeld in het tweede lid, kunnen ter verificatie worden voorgelegd aan de bevoegde diensten van de Vlaamse Gemeenschap.
 
 ### ART 37/46.
 
 § 1. Behoudens de bij decreet bepaalde gevallen van uitschrijving, zoals bepaald in artikel 32, § 3, artikel 37/45, § 2, derde lid, artikel 37/47 en artikel 37/48, § 3, geldt een inschrijving van een leerling in een school voor de duur van de hele schoolloopbaan in die school.<br>
 <br>
-Het behoud van de inschrijving geldt over de vestigingsplaatsen heen, tenzij de capaciteit van de vestigingsplaats is of wordt overschreden of de leerling er niet aan de toelatingsvoorwaarden voldoet. De voortgang van het leerproces, waarbij een verandering van vestigingsplaats noodzakelijk is, kan niet worden gestuit.<br>
+Het behoud van de inschrijving, vermeld in het eerste lid, geldt over de vestigingsplaatsen en over de taalafdeling Nederlands-Vlaamse Gebarentaal heen, tenzij de capaciteit van de vestigingsplaats is of wordt overschreden of de leerling er niet aan de toelatingsvoorwaarden voldoet. De voortgang van het leerproces, waarbij een verandering van vestigingsplaats of verandering van de taalafdeling Nederlands-Vlaamse Gebarentaal naar een inschrijving buiten de taalafdeling Nederlands-Vlaamse Gebarentaal noodzakelijk is, kan niet &nbsp;worden gestuit..<br>
 <br>
 Het behoud van inschrijving kan, als de vestigingsplaats of het niveau in de vestigingsplaats(en) van de leerling betrokken is bij een herstructurering en verdwijnt uit de school, ook gegarandeerd worden in een andere school betrokken bij de herstructurering of in een andere school van hetzelfde schoolbestuur, gelegen op een billijke afstand. Het behoud van inschrijving wordt, als de school van de leerling betrokken is bij een fusie, gegarandeerd in de fusieschool of in een andere school van hetzelfde schoolbestuur gelegen op een billijke afstand. In voorkomende situaties informeert het schoolbestuur de betrokken ouders.<br>
 <br>
 § 2. In afwijking van paragraaf 1 kunnen schoolbesturen van basisscholen waarvan de capaciteit van het kleuteronderwijs groter is dan die van het lager onderwijs, opteren voor een nieuwe inschrijving bij de overgang tussen beide onderwijsniveaus. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
+<br>
+§2/1. In aanvulling op paragraaf 1 kunnen de ouders van leerlingen die al schoollopen in een school waar een taalafdeling Nederlands-Vlaamse Gebarentaal wordt opgericht, beslissen dat de leerling zijn schoolloopbaan voortzet in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+De beslissing, vermeld in het eerste lid, kan alleen worden genomen in het schooljaar voorafgaand aan het schooljaar dat de leerling voor de eerste keer de keuze heeft om zijn schoolloopbaan verder te zetten in de taalafdeling Nederlands-Vlaamse Gebarentaal zonder dat zijn leerproces als vermeld in artikel 8, eerste lid, onderbroken wordt. De voormelde beslissing wordt ten laatste genomen voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/55, §2, eerste lid, 1°, of voor de start van de aanmeldingsperiode, vermeld in artikel 37/55, §2, eerste lid, 2°, als er geen aparte aanmeldings- en inschrijvingsperiode voor de voorrangsgroepen, vermeld in artikel 37/55, §2, eerste lid, 1°, is.<br>
+<br>
+De school communiceert naar de ouders over de mogelijkheid van de leerling om zijn schoolloopbaan voort te zetten in de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in het eerste lid.<br>
+<br>
+Als de leerlingen die al schoollopen in die school kunnen instappen in het eerste schooljaar dat de taalafdeling Nederlands-Vlaamse Gebarentaal wordt opgericht in die school, dan meldt het schoolbestuur aan de ouders van die leerlingen dat het schoolbestuur een oprichtingsdossier als vermeld in artikel 112bis heeft ingediend. De ouders kunnen vanaf de voormelde melding tot aan de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/55, §2, eerste lid, 1°, of voor de start van de aanmeldingsperiode, vermeld in artikel 37/55, §2, eerste lid, 2°, als er geen aparte aanmeldings- of inschrijvingsperiode is vermeld in artikel 37/55, §2, eerste lid, 1°, de beslissing, vermeld in het eerste lid, nemen. Als de regering beslist om het voormelde oprichtingsdossier niet goed te keuren, of als de school beslist om pas het volgend jaar voor het eerst de taalafdeling op te starten, dan is de voormelde beslissing van de ouders zonder gevolg en blijft de leerling ingeschreven in de school in het volgend schooljaar.<br>
 <br>
 § 3. Indien zijn betrokken scholen gelegen zijn binnen eenzelfde of aaneensluitende kadastrale percelen, of gescheiden zijn door hetzij maximaal twee kadastrale percelen hetzij door een weg, kan een schoolbestuur ervoor opteren om bij de overgang van een leerling van een autonome kleuterschool naar een lagere of basisschool de inschrijvingen van de ene naar de andere school te laten doorlopen. Een schoolbestuur dat van deze mogelijkheid gebruikmaakt, neemt dit op in zijn schoolreglement.<br>
 <br>
@@ -2172,18 +2394,25 @@ In afwijking van het derde lid kan een school kiezen om te ontbinden op een van 
 
 ### ART 37/49.
 
-&nbsp;Alle schoolbesturen die een school of vestigingsplaats hebben binnen het werkingsgebied van het LOP Brussel-Hoofdstad, zijn voor hun scholen of vestigingsplaatsen voor gewoon onderwijs binnen dat respectievelijke werkingsgebied verplicht tot een gezamenlijke aanmeldingsprocedure.
+&nbsp;Alle schoolbesturen die een school of vestigingsplaats hebben binnen het werkingsgebied van het LOP Brussel-Hoofdstad, zijn voor hun scholen of vestigingsplaatsen voor gewoon onderwijs binnen dat respectievelijke werkingsgebied verplicht tot een gezamenlijke aanmeldingsprocedure.<br>
+<br>
+In afwijking van het eerste lid hoeven schoolbesturen geen gezamenlijke aanmeldingsprocedure voor aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal te organiseren. Een schoolbestuur kan ook beslissen om niet te weigeren op basis van capaciteit in de taalafdeling Nederlands-Vlaamse Gebarentaal. Een schoolbestuur beslist jaarlijks en uiterlijk op 15 november voor de taalafdeling Nederlands-Vlaamse Gebarentaal en eventueel per geboortejaar of leerjaar in de taalafdeling Nederlands-Vlaamse Gebarentaal of het wil kunnen wei- geren op basis van capaciteit in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+Als een schoolbestuur met een school of vestigingsplaats gelegen in het werkingsgebied van LOP-Brussel-Hoofdstad beslist om niet te weigeren op basis van capaciteit in de taalafdeling Nederlands-Vlaamse Gebarentaal, eventueel per geboortejaar of per leerjaar, dan zijn in afwijking van artikel 37/43/5, de bepalingen van hoofdstuk IV/1, afdeling 2, onderafdeling B, afdeling 3 en 4, van toepassing.<br>
+<br>
+Als een schoolbestuur met een school of vestigingsplaats gelegen in het werkingsgebied van LOP-Brussel-Hoofdstad in de taalafdeling Nederlands-Vlaamse Gebarentaal, en eventueel per geboortejaar of per leerjaar wil kunnen weigeren omwille van capaciteit, dan worden de inschrijvingen georganiseerd via een aanmeldingsprocedure. Hiervoor gelden de regels voor aanmeldende scholen, vermeld in deze afdeling.
 
 ### ART 37/50.
 
-Aanmelden is het digitaal kenbaar maken door ouders van een intentie tot inschrijven voor een bepaald schooljaar in één of meerdere scholen of vestigingsplaatsen voor de daartoe door het schoolbestuur beschikbaar gestelde plaatsen. Als de betrokken leerling voor meerdere scholen of vestigingsplaatsen wordt aangemeld, wordt een volgorde van keuze aangegeven.<br>
+Aanmelden is het digitaal kenbaar maken door ouders van een intentie tot inschrijven voor een bepaald schooljaar in één of meerdere scholen, vestigingsplaatsen of taalafdelingen Nederlands-Vlaamse Gebarentaal&nbsp; voor de daartoe door het schoolbestuur beschikbaar gestelde plaatsen. Als de betrokken leerling voor meerdere scholen, vestigingsplaatsen of taalafdelingen Nederlands-Vlaamse Gebarentaal wordt aangemeld, wordt een volgorde van keuze aangegeven.<br>
 <br>
-Nadat de aanmeldingsperiode is afgesloten, worden de aangemelde leerlingen geordend, conform artikel 37/58, 37/59 en 37/61, en in voorkomend geval conform artikel 37/57 en 37/60.&nbsp;De leerlingen die gunstig geordend worden, zijnde binnen de door het schoolbestuur bepaalde capaciteit, verwerven een recht op inschrijving voor een beschikbaar gestelde plaats. Binnen gezamenlijke aanmeldingsprocedures wordt slechts één gunstige ordening weerhouden, zijnde de gunstige ordening in de school van hoogste keuze van de betreffende leerling. Leerlingen die niet gunstig geordend worden, worden in de volgorde zoals in het aanmeldingsregister, opgenomen als geweigerde leerlingen in het inschrijvingsregister.
+Nadat de aanmeldingsperiode is afgesloten, worden de aangemelde leerlingen geordend, conform artikel 37/58, 37/59, 37/59/1 en 37/61, en in voorkomend geval conform artikel 37/57, 37/57/1 en 37/60.&nbsp;De leerlingen die gunstig geordend worden, zijnde binnen de door het schoolbestuur bepaalde capaciteit, verwerven een recht op inschrijving voor een beschikbaar gestelde plaats. Binnen gezamenlijke aanmeldingsprocedures wordt slechts één gunstige ordening weerhouden, zijnde de gunstige ordening in de school van hoogste keuze van de betreffende leerling. Leerlingen die niet gunstig geordend worden, worden in de volgorde zoals in het aanmeldingsregister, opgenomen als geweigerde leerlingen in het inschrijvingsregister.
 
 ### ART 37/51.
 
 § 1. Een schoolbestuur meldt uiterlijk op 15 november van het voorafgaande schooljaar, via het daartoe ontwikkelde formulier, aan de bevoegde diensten van de Vlaamse Gemeenschap:<br>
-1° voor welke scholen en vestigingsplaatsen, en eventueel geboortejaren of leerjaren per school of per vestigingsplaats, het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/57, wil kunnen weigeren;<br>
+1° of het voor de taalafdeling Nederlands-Vlaamse Gebarentaal en eventueel geboortejaren of leerjaren in de taalafdeling Nederlands-Vlaamse Gebarentaal, de inschrijvingen zal organiseren via een aanmeldingsprocedure;<br>
+1°/1 voor welke scholen vestigingsplaatsen en taalafdeling Nederlands- Vlaamse Gebarentaal, en eventueel geboortejaren of leerjaren per school, per vestigingsplaats of voor de taalafdeling Nederlands-Vlaamse Gebarentaal, het leerlingen uit de voorrangsgroepen, vermeld in artikel 37/57 en 37/57/1, wil kunnen weigeren;<br>
 2° welk standaarddossier het zal hanteren bij de organisatie van de aanmeldingsprocedure, of van welk standaarddossier het schoolbestuur of het LOP wil afwijken conform artikel 37/53. Een standaarddossier is een dossier waarin de verschillende stappen van een aanmeldingsprocedure concreet worden uitgewerkt.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt het model van ieder standaarddossier en het formulier voor de meldingen, vermeld in paragraaf 1.<br>
@@ -2216,7 +2445,9 @@ De behandeling van een klacht of vraag bij de ombudsdienst inschrijvingen schort
 
 § 1. Aanmeldende scholen die in het werkingsgebied van een LOP liggen, organiseren de aanmeldingsprocedure gezamenlijk. In gemeenten waar een LOP aanwezig is, wordt de aanmeldingsprocedure goedgekeurd door een meerderheid van de onderwijspartners van het LOP, vermeld in artikel VIII.4, § 1, eerste lid, 1° tot en met 3°, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.<br>
 <br>
-Voor scholen die, conform artikel 37/17, § 3, en na goedkeuring van het LOP Brussel-Hoofdstad, aansluiten bij de aanmeldingsprocedure van het LOP Brussel-Hoofdstad, blijven de respectievelijke ordeningscriteria en voorrangsgroepen, vermeld in artikel 37/22, artikel 37/23 en, in voorkomend geval, artikel 37/24, onverminderd gelden.<br>
+Voor scholen die, conform artikel 37/17, § 3, en na goedkeuring van het LOP Brussel-Hoofdstad, aansluiten bij de aanmeldingsprocedure van het LOP Brussel-Hoofdstad, blijven de respectievelijke ordeningscriteria en voorrangsgroepen, vermeld in artikel 37/22, 37/22/1, 37/23 en 37/23/1 en, in voorkomend geval, artikel 37/24, onverminderd gelden.<br>
+<br>
+In afwijking van het eerste lid hoeft een school geen gezamenlijke aanmeldingsprocedure voor aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal te organiseren. Als de aanmeldingsprocedure apart wordt georganiseerd voor de aanmeldingen en inschrijvingen in de taal- afdeling Nederlands-Vlaamse Gebarentaal, is er geen goedkeuring vereist als vermeld in het eerste lid.<br>
 <br>
 § 2. De Vlaamse Regering kan binnen de beschikbare begrotingskredieten middelen voorzien ter ondersteuning van het instellen van een aanmeldingsprocedure en bepaalt hiervoor de nadere modaliteiten.
 
@@ -2251,12 +2482,21 @@ Bij een negatief besluit van de CLR beslissen het betrokken schoolbestuur, meerd
 
 ### ART 37/55.
 
-§ 1. Een schoolbestuur bepaalt uiterlijk op 15 februari van het voorafgaande schooljaar voor elke school en vestigingsplaats, en eventueel geboortejaar of leerjaar per school of per vestigingsplaats, waarvoor het de inschrijvingen organiseert via een aanmeldingsprocedure, een capaciteit. Dit is het totaal aantal leerlingen dat het schoolbestuur voor de betreffende scholen, vestigingsplaatsen, en eventueel geboortejaar of leerjaar per school of per vestigingsplaats, als het maximaal aantal leerlingen ziet.<br>
+§1. Een schoolbestuur bepaalt uiterlijk op 15 februari van het voorafgaande schooljaar een capaciteit voor elk van de volgende niveaus waarvoor het de inschrijvingen organiseert via een aanmeldingsprocedure:<br>
+1°&nbsp;&nbsp; &nbsp;de school;<br>
+2°&nbsp;&nbsp; &nbsp;de vestigingsplaats;<br>
+3°&nbsp;&nbsp; &nbsp;de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+De capaciteit van elk niveau, vermeld in het eerste lid, kan eventueel voor een van de volgende niveaus worden bepaald:<br>
+1°&nbsp;&nbsp; &nbsp;geboortejaar;<br>
+2°&nbsp;&nbsp; &nbsp;leerjaar.<br>
+<br>
+De capaciteit is het totale aantal leerlingen dat het schoolbestuur voor de niveaus, vermeld in het eerste en het tweede lid, als het maximale aantal leerlingen ziet.<br>
 <br>
 Bij het bepalen van zijn capaciteit kan een schoolbestuur ervoor kiezen om de capaciteit van kleuters die conform artikel 12/1 nog een schooljaar tot het kleuteronderwijs toegelaten worden, samen te voegen met de capaciteit van het laatste geboortejaar van het kleuteronderwijs waarvoor een kind kan toegelaten worden tot het kleuteronderwijs, zonder een beroep te doen op artikel 12/1.<br>
 <br>
 § 2. Daarnaast maakt het schoolbestuur de resterende vrije plaatsen, zijnde het aantal plaatsen waarin een inschrijving gerealiseerd kan worden, minstens bekend op volgende momenten:<br>
-1° in voorkomend geval, voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/57, § 2 en § 3;<br>
+1° in voorkomend geval, voor de start van de inschrijvingen of de aanmeldingen van de voorrangsgroepen, vermeld in artikel 37/57, §2 en §3, en artikel 37/57/1, §2 tot en met §4;<br>
 2° voor de start van de aanmeldingsperiode, zoals bepaald in artikel 37/56;<br>
 3° voor de start van de vrije inschrijvingsperiode, vermeld in artikel 37/63.<br>
 <br>
@@ -2265,6 +2505,8 @@ Het schoolbestuur bepaalt en communiceert de resterende vrije plaatsen minstens 
 § 3. Een schoolbestuur kan de capaciteit verhogen na de start van de inschrijvingen.<br>
 <br>
 De capaciteitsverhoging moet door het LOP zijn goedgekeurd.<br>
+<br>
+In afwijking van het tweede lid hoeft de capaciteitsverhoging voor de taalafdeling Nederlands-Vlaamse Gebarentaal van scholen die in het LOP liggen, niet goedgekeurd te worden door het LOP. Het schoolbestuur deelt de capaciteitsverhoging mee aan het LOP.<br>
 <br>
 § 4. Een schoolbestuur weigert elke bijkomende inschrijving wanneer de capaciteit, vermeld in paragraaf 1, overschreden wordt en als een bijkomende inschrijving na de start van de inschrijvingen voor volgend schooljaar er toe zou leiden dat de capaciteit voor dat volgende schooljaar overschreden zou worden.<br>
 <br>
@@ -2321,6 +2563,33 @@ Met personeelslid wordt bedoeld:<br>
 <br>
 Als de vooraf bepaalde capaciteit, vermeld in artikel 37/55, al bereikt wordt binnen de leerlingengroep, vermeld in het eerste lid, 1°, 2° of 3°, worden de leerlingen binnen die leerlingengroep in kwestie geordend volgens de volgorde van de voorrangsgroepen en het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in artikel 37/59 en vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/53.
 
+### ART 37/57/1.
+
+§1. In afwijking van artikel 37/57 gelden voor de inschrijving in de taalafdeling Nederlands-Vlaamse Gebarentaal de voorrangsregels, vermeld in dit artikel. Leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, krijgen voorrang bij inschrijvingen. Een schoolbestuur bepaalt en communiceert aan alle belanghebbenden de periode of desgewenst periodes waarbinnen en de wijze waarop de leerlingen, behorend tot deze voorrangsgroepen, hun vraag tot inschrijving dienen bekend te maken. Deze periode start ten vroegste vanaf de eerste schooldag van september van het voorafgaande schooljaar.<br>
+<br>
+Een schoolbestuur dat besliste geen leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te weigeren, schrijft de leerlingen uit de voorrangsgroepen in chronologische volgorde in en kan deze leerlingen tijdens de voorrangsperiode, vermeld in het eerste lid, niet weigeren op basis van bereikte capaciteit.<br>
+<br>
+Een schoolbestuur dat besliste leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te willen kunnen weigeren, respecteert bij de inschrijving van deze voorrangsgroepen volgende regels:<br>
+1° het ordent deze leerlingen zoals bepaald in paragraaf 5;<br>
+2° het wijst de leerlingen die gunstig geordend zijn, zijnde binnen de door het schoolbestuur bepaalde capaciteit, toe, en noteert de niet-gunstig geordende leerlingen, in de volgorde zoals bepaald in paragraaf 5, op de weigeringslijst.<br>
+<br>
+§2. Elke leerling die tot dezelfde leefentiteit behoort als een reeds ingeschreven leerling, heeft bij voorrang op alle andere leerlingen, recht op inschrijving in de betrokken school of de betrokken scholen die de inschrijvingen van de ene naar de andere school laten doorlopen, op basis van artikel 37/46.<br>
+<br>
+§3. Na de leerlingen, vermeld in paragraaf 2, en gelijktijdig met de leerlingen, vermeld in paragraaf 4, geeft een schoolbestuur voor de taalafdeling Nederlands-Vlaamse Gebarentaal voorrang aan de leerlingen die doof of slechthorend zijn, vermeld in artikel 37/45, §5.<br>
+<br>
+§4. Na de leerlingen, vermeld in paragraaf 2, en gelijktijdig met de leerlingen, vermeld in paragraaf 3, geeft een schoolbestuur voor zijn scholen voorrang aan kinderen met een ouder die personeelslid is van de school of van de scholen die de inschrijvingen van de ene naar de andere school laten doorlopen op basis van artikel 37/46, op voorwaarde dat er op het ogenblik van de inschrijving sprake is van een lopende tewerkstelling voor meer dan 104 dagen.<br>
+<br>
+Met personeelslid wordt bedoeld:<br>
+1° een personeelslid als vermeld in artikel 2 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs en in artikel 4 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, voor zover ze geaffecteerd zijn aan of aangesteld zijn in de school;<br>
+2° een personeelslid dat via een arbeidsovereenkomst werd aangeworven door een schoolbestuur en tewerkgesteld wordt in de school.<br>
+&nbsp;<br>
+§5. Een schoolbestuur dat besliste leerlingen uit de voorrangsgroepen, vermeld in paragraaf 2 tot en met 4, te willen kunnen weigeren op basis van capaciteit, ordent de leerlingen uit de voorrangsgroepen in deze volgorde:<br>
+1° leerlingen die behoren tot de voorrangsgroep, vermeld in paragraaf 2, en die behoren tot een van de voorrangsgroepen, vermeld in paragraaf 3 of 4;<br>
+2° leerlingen die behoren tot de voorrangsgroep, vermeld in paragraaf 2;<br>
+3° leerlingen die behoren tot een van de voorrangsgroepen, vermeld in paragraaf 3 en 4.<br>
+<br>
+Indien de vooraf bepaalde capaciteit, vermeld in artikel 37/55, al bereikt wordt binnen de leerlingengroep, vermeld in punt 1°, 2° of 3°, worden de leerlingen binnen die betreffende leerlingengroep, geordend volgens de volgorde van de voorrangsgroepen en het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in artikel 37/59/1, vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/53.
+
 ### ART 37/58.
 
 § 1. Met behoud van de toepassing van artikel 37/59, geven schoolbesturen voor hun scholen gelegen in het tweetalige gebied Brussel-Hoofdstad, voorrang aan leerlingen met minstens één ouder als vermeld in artikel 3, 41°, die het Nederlands in voldoende mate machtig is.<br>
@@ -2344,7 +2613,9 @@ Het LOP maakt de bepaalde aantallen bekend aan alle belanghebbenden.<br>
 <br>
 Een reeds ingeschreven leerling of een leerling die tot dezelfde leefentiteit behoort als een reeds ingeschreven leerling die op basis van de op het moment van zijn inschrijving geldende regelgeving werd beschouwd als een leerling met de thuistaal Nederlands, mag beschouwd worden als een leerling met minstens één ouder die het Nederlands in voldoende mate machtig is als vermeld in paragraaf 1. Een reeds ingeschreven leerling of een leerling die tot dezelfde leefentiteit behoort als een reeds ingeschreven leerling die op basis van de op het moment van zijn inschrijving geldende regelgeving werd beschouwd als een leerling met minstens één ouder die het Nederlands in voldoende mate machtig is, wordt beschouwd als een leerling met minstens één ouder als vermeld in paragraaf 1.<br>
 <br>
-§ 4. ...
+§ 4. ...<br>
+<br>
+§5. In afwijking van paragraaf 1 tot en met 3 is het niet mogelijk om in een voorrangsgroep voor leerlingen met minstens één ouder die het Nederlands in voldoende mate machtig is, te voorzien voor aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal.
 
 ### ART 37/59.
 
@@ -2377,6 +2648,30 @@ Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen v
 <br>
 Als de vooraf bepaalde capaciteit, vermeld in artikel 37/55, al bereikt wordt binnen de leerlingengroep, vermeld in het eerste lid, 1°, 2°, 3°, 4° of 5°, worden de leerlingen binnen die leerlingengroep in kwestie, geordend volgens de volgorde van de voorrangsgroepen en volgens het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in het eerste lid, 6°, en vermeld in het door het schoolbestuur onderschreven standaarddossier dat door het schoolbestuur is onderschreven of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/53.
 
+### ART 37/59/1.
+
+§1. In afwijking van artikel 37/59 ordent het schoolbestuur of, na akkoord van de schoolbesturen in kwestie, het LOP voor de taalafdeling Nederlands-Vlaamse Gebarentaal op het einde van de aanmeldingsperiode die de Vlaamse Regering vastlegt, de overige kinderen, aan de hand van een van de volgende ordeningscriteria of een combinatie ervan:<br>
+1° de afstand van het domicilieadres van de leerling tot de school of vestigingsplaats;<br>
+2° de afstand van het werkadres van een van beide ouders tot de school of vestigingsplaats;<br>
+3° toeval. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt 1°, 2° of 4°;<br>
+4° de plaats van de taalafdeling Nederlands-Vlaamse Gebarentaal binnen de rangorde in de keuze die de ouders hebben gemaakt. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt 1°, 2° of 3°.<br>
+<br>
+Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen van de aangemelde leerlingen het ordeningscriterium of de combinatie van ordeningscriteria uit het standaarddossier dat ze onderschreven hebben, of de eventuele afwijkingen daarop, zoals de CLR ze heeft goedgekeurd.<br>
+<br>
+§2. Als het schoolbestuur beslist om de voorrang voor de voorrangsgroepen, vermeld in artikel 37/57/1, uitsluitend of na een voorafgaande voorrangsperiode, te organiseren via de aanmeldingsprocedure voor alle leerlingen, worden alle aangemelde leerlingen geordend op de volgende wijze:<br>
+1° eerst de leerlingen die behoren tot de voorrangsgroep, vermeld in artikel 37/57/1, §2, en die behoren tot een van de voorrangsgroepen, vermeld in artikel 37/57/1, §3 of §4;<br>
+2° dan de leerlingen die behoren tot dezelfde leefentiteit, vermeld in artikel 37/57/1, §2;&nbsp;<br>
+3° &nbsp; dan de leerlingen die doof of slechthorend zijn, vermeld in artikel 37/57/1, §3, en de leerlingen met een ouder die personeelslid is, vermeld in artikel 37/57/1, §4;<br>
+4° tot slot de overige kinderen, aan de hand van een ordeningscriterium of een combinatie ervan die overblijven na de toepassing van de criteria, vermeld in punt 1° tot en met 3°:<br>
+a)&nbsp;&nbsp; &nbsp;de afstand van het domicilieadres van de leerling tot de school of vestigingsplaats;<br>
+b)&nbsp;&nbsp; &nbsp;de afstand van het werkadres van een van beide ouders tot de school of vestigingsplaats;<br>
+c)&nbsp;&nbsp; &nbsp;toeval. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt a), b) of d);<br>
+d)&nbsp;&nbsp; &nbsp;de plaats van de taalafdeling Nederlands-Vlaamse Gebarentaal binnen de rangorde in de keuze die de ouders hebben gemaakt. Dit ordeningscriterium kan alleen gekozen worden in combinatie met minstens een van de ordeningscriteria, vermeld in punt a), b) of c).<br>
+<br>
+Het schoolbestuur, de schoolbesturen samen of het LOP hanteren bij het ordenen van de aangemelde leerlingen het ordeningscriterium of de combinatie van ordeningscriteria uit het standaarddossier die ze hebben onderschreven, of de eventuele afwijkingen daarop, zoals de CLR ze heeft goedgekeurd.<br>
+<br>
+Als de vooraf bepaalde capaciteit, vermeld in artikel 37/55, al bereikt wordt binnen de leerlingengroep, vermeld in het eerste lid, 1°, 2° of 3°, worden de leerlingen binnen die leerlingengroep in kwestie, geordend volgens de volgorde van de voorrangsgroepen en volgens het ordeningscriterium of de combinatie van ordeningscriteria, zoals de overige kinderen, vermeld in het eerste lid, 4°, en vermeld in het door het schoolbestuur onderschreven standaarddossier of de door de CLR goedgekeurde afwijkingen op het standaarddossier, vermeld in artikel 37/53.
+
 ### ART 37/60.
 
 § 1. Een schoolbestuur kan ervoor kiezen om voor een of meer van zijn scholen per bepaalde capaciteit, vermeld in artikel 37/55, voorrang te verlenen aan een of meer ondervertegenwoordigde groepen, namelijk een of meer groepen van leerlingen die, op basis van een of meer objectieve kenmerken, in de school relatief ondervertegenwoordigd zijn ten aanzien van een referentiepopulatie, waarbij in afwijking van dit principe leerlingen met een IAC-verslag in een school van het gewoon onderwijs altijd beschouwd mogen worden als een ondervertegenwoordigde groep, ongeacht de referentiepopulatie. De voorrang wordt toegepast tot maximaal 20 procent van de bepaalde capaciteit bezet wordt door de leerlingen behorende tot een of meerdere ondervertegenwoordigde groepen. Ook in geval van meerdere ondervertegenwoordigde groepen bedraagt de voorrang maximaal 20 procent van de bepaalde capaciteit, vermeld in artikel 37/55.<br>
@@ -2397,7 +2692,9 @@ Als de Raad van de Vlaamse Gemeenschapscommissie geen voorstel bekrachtigt, kunn
 <br>
 § 2. Het LOP meldt de toepassing van deze voorrang altijd, en uiterlijk op 31 januari, aan de bevoegde diensten van de Vlaamse Gemeenschap.<br>
 <br>
-Scholen en het LOP kunnen hun voorstel van inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen ook voor advies voorleggen aan de CLR. Ze doen dat uiterlijk op 15 september voorafgaand aan de aanmeldingen. De inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen maken geen deel uit van het standaarddossier, vermeld in artikel 37/51, of afwijking op het standaarddossier, vermeld in artikel 37/51.
+Scholen en het LOP kunnen hun voorstel van inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen ook voor advies voorleggen aan de CLR. Ze doen dat uiterlijk op 15 september voorafgaand aan de aanmeldingen. De inhoudelijke afbakening van de lokaal gekozen ondervertegenwoordigde groepen maken geen deel uit van het standaarddossier, vermeld in artikel 37/51, of afwijking op het standaarddossier, vermeld in artikel 37/51.<br>
+<br>
+§3. In afwijking van paragraaf 1 en 2 is het niet mogelijk om in een voorrangsgroep voor de ondervertegenwoordigde groep of groepen te voorzien voor aanmeldingen en inschrijvingen in de taalafdeling Nederlands-Vlaamse Gebarentaal.
 
 ### ART 37/61.
 
@@ -2410,6 +2707,8 @@ Een schoolbestuur komt, per aanmeldingsregister, met toepassing van artikel 37/5
 Deze leerling wordt vervolgens verwijderd uit het aanmeldingsregister van de verschillende scholen en vestigingsplaatsen waarvoor de ouders een lagere keuze gemaakt hebben. De daardoor vrijgekomen plaatsen in de aanmeldingsregisters worden, voor zover mogelijk, ingenomen door de op basis van de volgorde van de voorrangsgroepen en dezelfde combinatie van ordeningscriteria als vermeld in artikel 37/57 tot en met 37/60, eerstvolgend gerangschikte leerling.<br>
 <br>
 Het innemen van vrijgekomen plaatsen in het aanmeldingsregister wordt herhaald totdat geen toewijzingen als vermeld in het eerste lid meer mogelijk zijn. Daarna worden de niet-toegewezen leerlingen geordend volgens de volgorde van de voorrangsgroepen en de ordeningscriteria, zoals opgenomen in het onderschreven standaarddossier, of in de door de CLR goedgekeurde afwijkingen daarop.<br>
+<br>
+Voor het ordenen, toewijzen en weigeren van aangemelde leerlingen is het schoolbestuur de verwerkingsverantwoordelijke. In geval van een verwerking door een LOP blijft het schoolbestuur of de gemandateerde de verwerkingsverantwoordelijke.<br>
 <br>
 § 3. De ouders krijgen uiterlijk op de door de Vlaamse Regering bepaalde datum schriftelijk of via elektronische drager melding over de school of vestigingsplaats waaraan de aangemelde leerling is toegewezen, met vermelding van de door de Vlaamse Regering bepaalde periode waarbinnen de ouders de aangemelde leerling kunnen inschrijven. Indien de ouders geen gebruikmaken van de mogelijkheid tot inschrijving binnen de daartoe door de Vlaamse Regering bepaalde periode, dan vervalt het recht op inschrijving dat ze via de aanmeldingsprocedure hebben verworven.<br>
 <br>
@@ -2433,7 +2732,7 @@ Aan de ouders wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerli
 <br>
 Overeenkomstig artikel 37/61, §§ 4 en 5, wordt de volgorde van de toegewezen leerlingen en de volgorde van de niet-toegewezen leerlingen overgenomen in het inschrijvingsregister.<br>
 <br>
-§ 2. Met uitzondering van leerlingen die zijn ingeschreven in overcapaciteit conform artikel 37/64, wordt bij het invullen van vrijgekomen plaatsen of bijkomende plaatsen door een verhoogde capaciteit, vermeld in artikel 37/55, § 3, de volgorde van de weigeringen gerespecteerd met inbegrip van de volgorde van de voorrangsgroepen, vermeld in artikel 37/57, 37/58 en 37/60, en, wat de leerlingen, vermeld in artikel 37/58 en artikel 37/60, betreft, met het oog op het bereiken van hun respectievelijke aandeel, vermeld in artikel 37/58, § 3, en artikel 37/60, § 1, en dat tot en met de vijfde schooldag van oktober van het schooljaar waarop de inschrijving betrekking had.&nbsp;Voor kleuters geboren in het meest recente kalenderjaar dat mogelijk is voor de inschrijvingen van het betrokken schooljaar, wordt deze volgorde gerespecteerd tot en met 30 juni van het schooljaar waarop de inschrijving betrekking had. Uiterlijk vanaf 1 juli geldt de volgorde van de weigeringen van kleuters van hetzelfde geboortejaar voor het volgende schooljaar.<br>
+§ 2. Met uitzondering van leerlingen die zijn ingeschreven in overcapaciteit conform artikel 37/64, wordt bij het invullen van vrijgekomen plaatsen of bijkomende plaatsen door een verhoogde capaciteit, vermeld in artikel 37/55, § 3, de volgorde van de weigeringen gerespecteerd met inbegrip van de volgorde van de voorrangsgroepen, vermeld in artikel 37/57, 37/57/1, 37/58 en 37/60, en, wat de leerlingen, vermeld in artikel 37/58 en artikel 37/60, betreft, met het oog op het bereiken van hun respectievelijke aandeel, vermeld in artikel 37/58, § 3, en artikel 37/60, § 1, en dat tot en met de vijfde schooldag van oktober van het schooljaar waarop de inschrijving betrekking had.&nbsp;Voor kleuters geboren in het meest recente kalenderjaar dat mogelijk is voor de inschrijvingen van het betrokken schooljaar, wordt deze volgorde gerespecteerd tot en met 30 juni van het schooljaar waarop de inschrijving betrekking had. Uiterlijk vanaf 1 juli geldt de volgorde van de weigeringen van kleuters van hetzelfde geboortejaar voor het volgende schooljaar.<br>
 <br>
 Ouders van leerlingen die alsnog een plaats wordt toegewezen krijgen daar binnen de zeven kalenderdagen schriftelijk of via elektronische drager melding van. Deze melding bevat informatie over de periode waarbinnen de ouders de betrokken leerling kunnen inschrijven. Die periode duurt minimaal zeven kalenderdagen.<br>
 <br>
@@ -2481,15 +2780,15 @@ Als de klassenraad lager onderwijs over de toelating tot het lager onderwijs van
 
 ### ART 37/66.
 
-§ 1. Een schoolbestuur, of het daartoe gemandateerde schoolbestuur of het LOP, dat een leerling weigert, deelt haar beslissing binnen een termijn van zeven kalenderdagen schriftelijk of digitaal mee aan de ouders van de leerling en aan de bevoegde diensten van de Vlaamse Gemeenschap via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. Die melding bevat het rijksregisternummer en de identificatiegegevens van de leerlingen en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels bepalen over de opslagperioden en de verwerkingsactiviteiten en de procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking. De weigeringsdocumenten worden ook, op vraag van de ouders, op papier ter beschikking gesteld.<br>
+§ 1.Als een schoolbestuur een leerling weigert, deelt dat schoolbestuur of het schoolbestuur dat daarvoor is gemandateerd of het LOP, zijn beslissing binnen een termijn van zeven kalenderdagen schriftelijk of digitaal mee aan de ouders van de leerling en aan de bevoegde diensten van de Vlaamse Gemeenschap via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. Die melding bevat het rijksregisternummer en de identificatiegegevens van de leerlingen en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels bepalen over de opslagperioden en de verwerkingsactiviteiten en de procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking. De weigeringsdocumenten worden ook, op vraag van de ouders, op papier ter beschikking gesteld.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt het model van weigeringsdocument waarmee het schoolbestuur de weigering meedeelt aan de ouders en aan de bevoegde diensten van de Vlaamse Gemeenschap.<br>
 <br>
-Het model, vermeld in het eerste lid, bevat al de volgende elementen:<br>
+Het model, vermeld in het eerste lid, bevat, naast de elementen, vermeld in paragraaf 1, al de volgende elementen:<br>
 1° de feitelijke en de juridische grond van de beslissing tot weigering;<br>
 2° de informatie over de mogelijkheden voor bemiddeling, eerstelijnsklachten en de indiening van een klacht bij de CLR..<br>
 <br>
-Indien de weigering gebeurde op basis van bereikte capaciteit, vermeld in artikel 37/55, deelt het schoolbestuur mee op welke plaats onder de geweigerde leerlingen de betrokken leerling staat in het inschrijvingsregister.<br>
+Indien de weigering gebeurde op basis van bereikte capaciteit, vermeld in artikel 37/55, deelt het schoolbestuur, het schoolbestuur dat daarvoor gemandateerd is of het gemandateerde LOP mee op welke plaats onder de geweigerde leerlingen de betrokken leerling staat in het inschrijvingsregister.<br>
 <br>
 § 3. De ouders krijgen op hun verzoek toelichting bij de beslissing van het schoolbestuur.
 
@@ -2561,11 +2860,38 @@ Ieder schoolbestuur bepaalt de inhoud van het basisonderwijs in zijn scholen en 
 
 ### ART. 39.
 
-<P>Het onderwijsaanbod in het gewoon kleuteronderwijs omvat ten minste, en waar   mogelijk in sa-menhang, de volgende leergebieden:<BR>- lichamelijke   opvoeding;<BR>- muzische vorming;<BR>- Nederlands;<BR>- wetenschappen en   techniek;<BR>- mens en maatschappij;<BR>- wiskundige   initiatie.</P>
+<p>Het onderwijsaanbod in het gewoon kleuteronderwijs omvat ten minste, en waar mogelijk in sa-menhang, de volgende leergebieden:<br>
+- lichamelijke opvoeding;<br>
+- muzische vorming;<br>
+- Nederlands;<br>
+- wetenschappen en techniek;<br>
+- mens en maatschappij;<br>
+- wiskundige initiatie.<br>
+<br>
+Naast de leergebieden, vermeld in het eerste lid, bevat het onderwijsaanbod in de taalafdeling Nederlands-Vlaamse Gebarentaal ook de volgende leergebieden:<br>
+1°&nbsp;&nbsp; &nbsp;het leergebied Vlaamse Gebarentaal;<br>
+2°&nbsp;&nbsp; &nbsp;het leergebied dovencultuur.<br>
+&nbsp;</p>
 
 ### ART. 40.
 
-<P>Het onderwijsaanbod in het gewoon lager onderwijs omvat ten minste, en waar   mogelijk is samen-hang de volgende leergebieden:<BR>- lichamelijke   opvoeding;<BR>- muzische vorming;<BR>- Nederlands;<BR>- wiskunde;<BR>-   wetenschappen en techniek;<BR>- mens en maatschappij;<BR>- Frans<BR>en volgende   leergebiedoverschrijdende thema's:<BR>- leren leren;<BR>- sociale   vaardigheden.<BR>- informatie en communicatietechnologie.</P>
+<p>Het onderwijsaanbod in het gewoon lager onderwijs omvat ten minste, en waar mogelijk is samen-hang de volgende leergebieden:<br>
+- lichamelijke opvoeding;<br>
+- muzische vorming;<br>
+- Nederlands;<br>
+- wiskunde;<br>
+- wetenschappen en techniek;<br>
+- mens en maatschappij;<br>
+- Frans<br>
+en volgende leergebiedoverschrijdende thema's:<br>
+- leren leren;<br>
+- sociale vaardigheden.<br>
+- informatie en communicatietechnologie.<br>
+<br>
+Naast de leergebieden, vermeld in het eerste lid, bevat het onderwijsaanbod in de taalafdeling Nederlands-Vlaamse Gebarentaal ook de volgende leergebieden:<br>
+1°&nbsp;&nbsp; &nbsp;het leergebied Vlaamse Gebarentaal;<br>
+2°&nbsp;&nbsp; &nbsp;het leergebied dovencultuur.<br>
+&nbsp;</p>
 
 ### ART. 41.
 
@@ -2585,7 +2911,11 @@ In de vrije lagere scholen wordt hetzij onderwijs in één of meer erkende godsd
 <br>
 § 4. Het in paragraaf 2 en paragraaf 3 bedoelde aanbod wordt bepaald door het schoolbestuur met toepassing van de regelgeving inzake participatie.<br>
 <br>
-§ 5. De onderwijsinspectie waakt over een kwaliteitsvolle invulling van het taalaanbod, vermeld in dit artikel.
+§ 5. De onderwijsinspectie waakt over een kwaliteitsvolle invulling van het taalaanbod, vermeld in dit artikel.<br>
+<br>
+§6. In scholen waar ook de taalafdeling Nederlands-Vlaamse Gebarentaal wordt ingericht kan aan leerlingen die niet in de taalafdeling Nederlands-Vlaamse Gebarentaal zijn ingeschreven, al facultatief vanaf het kleuteronderwijs Vlaamse Gebarentaal worden aangeboden.<br>
+<br>
+In afwijking van het eerste lid kan Vlaamse Gebarentaal in het tweetalige gebied Brussel-Hoofdstad, de randgemeenten of de taalgrensgemeenten Vlaamse Gebarentaal, buiten de taalafdeling Vlaamse Gebarentaal, slechts worden aangeboden als het leergebied Frans al wordt aangeboden.
 
 ## AFDELING 2 EINDTERMEN EN ONTWIKKELINGSDOELEN
 
@@ -2647,7 +2977,28 @@ De ontwikkelingsdoelen en eindtermen worden periodiek gescreend op hun actualite
 <br>
 Bij de ontwikkeling en de implementatie van de ontwikkelingsdoelen en eindtermen wordt rekening gehouden met de coherentie en continuïteit over het kleuter- en lager onderwijs heen en de aansluiting op de eindtermen en ontwikkelingsdoelen van het secundair onderwijs, zonder de eigenheid van het basisonderwijs uit het oog te verliezen.<br>
 <br>
-§ 5. Het Vlaams Parlement keurt een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen goed waar kennis telkens geëxpliciteerd wordt en vaardigheden, inzichten en indien van toepassing attitudes aan bod komen.
+§ 5. Het Vlaams Parlement keurt een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen goed waar kennis telkens geëxpliciteerd wordt en vaardigheden, inzichten en indien van toepassing attitudes aan bod komen.<br>
+<br>
+§6. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel, kan een klassenraad, na overleg met de ouders, beslissen om de ontwikkelingsdoelen voor het gewoon kleuteronderwijs, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen in het gewoon basisonderwijs, bekrachtigd bij het decreet van 15 juli 1997 die opgenomen zijn in bijlage 5 bij dit decreet niet na te streven bij leerlingen die doof of slechthorend zijn als vermeld in artikel 37/8, §5, of 37/45, §5, en die ingeschreven zijn in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+De klassenraad neemt de voormelde ontwikkelingsdoelen die niet nagestreefd worden op in een afsprakenkader. Het afsprakenkader wordt tot één schooljaar nadat de leerling voor het laatst ingeschreven was in de taalafdeling Nederlands-Vlaamse Gebarentaal bewaard. Het voormelde afsprakenkader kan ter verificatie worden voorgelegd aan de bevoegde diensten van de Vlaamse Gemeenschap.<br>
+<br>
+§7. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel, kan er voor leerlingen die doof of slechthorend zijn als vermeld in artikel 37/8, §5, of 37/45, §5, en die ingeschreven zijn in het lager onderwijs in de taalafdeling Nederlands-Vlaamse Gebarentaal een afwijking voorzien worden op sommige van de bestaande eindtermen, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen in het gewoon basisonderwijs, bekrachtigd bij het decreet van 15 juli 1997. Er kan worden afgeweken van de eindtermen opgenomen in bijlage 5 bij dit decreet.<br>
+<br>
+Na instemming van de ouders bepaalt de klassenraad welke eindtermen, vermeld in het eerste lid, niet haalbaar zijn en waarvoor in een afwijking moet worden voorzien. De klassenraad neemt de voormelde afwijkingen van de eindtermen op in een afsprakenkader.<br>
+<br>
+Het afsprakenkader, vermeld in het tweede lid, wordt tot één schooljaar nadat de leerling voor het laatst ingeschreven was in de taalafdeling Nederlands-Vlaamse Gebarentaal bewaard. Het voormelde afsprakenkader kan ter verificatie worden voorgelegd aan de bevoegde diensten van de Vlaamse Gemeenschap.<br>
+<br>
+§8. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel, krijgen de ontwikkelingsdoelen voor het buitengewoon onderwijs type 7, vermeld in de bijlage van het besluit van de Vlaamse Regering van 31 januari 2003 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 7, bekrachtigd bij het decreet van 25 mei 2003 met betrekking tot Communicatie en taal: Vlaamse Gebarentaal, en met betrekking tot Wereldoriëntatie: dovencultuur het statuut van eindtermen in het lager onderwijs in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+<br>
+In afwijking van het eerste lid krijgen de volgende ontwikkelingsdoelen voor het buitengewoon onderwijs type 7 niet het statuut van eindtermen of ontwikkelingsdoelen:<br>
+1° &nbsp; met betrekking tot Communicatie en taal: Vlaamse Gebarentaal:<br>
+a)&nbsp;&nbsp; &nbsp;punt 1 Lezen;<br>
+b)&nbsp;&nbsp; &nbsp;punt 2.2 Schrijven in signwriting;<br>
+2° &nbsp; met betrekking tot Wereldoriëntatie: Dovencultuur:<br>
+a)&nbsp;&nbsp; &nbsp;punt 7;<br>
+b)&nbsp;&nbsp; &nbsp;punt 10.<br>
+&nbsp;
 
 ### ART. 44bis.
 
@@ -2721,7 +3072,7 @@ d)&nbsp;&nbsp; &nbsp;indicatoren van cultureel kapitaal: aantal boeken thuis;<br
 <br>
 De scholen ontvangen en verwerken die gegevens van de leerlingen die bij hen zijn ingeschreven. De bevoegde diensten van de Vlaamse overheid en het bevoegde steunpunt ontvangen en verwerken de gegevens van de leerlingen, ver- meld in het eerste lid.<br>
 <br>
-De gegevens worden gedurende maximaal tien jaar bewaard op het data- platform. De gegevens in de registratiemodule worden gedurende maximaal acht maanden bewaard. De gegevens in het toetsplatform worden gedurende maximaal zes maanden bewaard. De gegevens in de feedbackmodule worden gedurende maximaal twaalf maanden bewaard. Zolang doeleinden van wetenschappelijk onderzoek en statistiek daartoe nopen, worden de gegevens gepseudonimiseerd bewaard. De gepseudonimiseerde persoonsgegevens kunnen onder contractuele voorwaarden doorgegeven worden met het oog op wetenschappelijk onderzoek. Na afloop van de bewaartermijnen worden de persoonsgegevens vernietigd of geanonimiseerd.<br>
+De gegevens worden gedurende maximaal tien jaar bewaard op het data- platform.De gegevens in de registratiemodule worden gedurende maximaal negen maanden bewaard. De gegevens in het toetsplatform worden gedurende maximaal zeven maanden bewaard. De gegevens in de feedbackmodule worden gedurende maximaal twaalf maanden bewaard. Zolang doeleinden van wetenschappelijk onderzoek en statistiek daartoe nopen, worden de gegevens gepseudonimiseerd bewaard. De gepseudonimiseerde persoonsgegevens kunnen onder contractuele voorwaarden doorgegeven worden met het oog op wetenschappelijk onderzoek. Na afloop van de bewaartermijnen worden de persoonsgegevens vernietigd of geanonimiseerd.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor die verwerking en legt de leerlingenkenmerken die verwerkt worden vast.<br>
 &nbsp;<br>
@@ -2828,11 +3179,13 @@ Het begeleidingsdomein preventieve gezondheidszorg heeft tot doel de gezondheid,
 Voor het begeleidingsdomein preventieve gezondheidszorg omvat dat voor de school minimaal het actief meewerken aan:<br>
 1° de organisatie van de systematische contactmomenten door het centrum voor leerlingenbegeleiding. De regering bepaalt de frequentie en de inhoud van de systematische contacten;<br>
 2° de organisatie van de vaccinaties door het centrum voor leerlingenbegeleiding om het ontstaan en de verspreiding van sommige besmettelijke ziekten tegen te gaan. De regering legt het vaccinatieschema vast;<br>
-3° de uitvoering van de profylactische maatregelen die het centrum voor leerlingenbegeleiding neemt om de verspreiding van besmettelijke ziekten tegen te gaan. De regering bepaalt hiervoor de nadere regels.
+3° de uitvoering van de profylactische maatregelen die het centrum voor leerlingenbegeleiding neemt om de verspreiding van besmettelijke ziekten tegen te gaan. De regering bepaalt hiervoor de nadere regels.<br>
+<br>
+Als de school een beleid voor de preventie van afzondering en fixatie en voor de afbouw ervan als vermeld in artikel 33/1 ontwikkelt, neemt de school het voormelde beleid op in haar beleid op leerlingenbegeleiding.
 
 ### ART 47ter.
 
-De school ontwikkelt een beleid op leerlingenbegeleiding dat is afgestemd op het pedagogisch project, de noden van de leerlingenpopulatie en de context waarin de school zich bevindt. Het zorg- en gelijke onderwijskansenbeleid, zoals omschreven in het schoolwerkplan, wordt erin geïntegreerd. Het beleid op leerlingenbegeleiding omvat de begeleiding van de leerlingen, het ondersteunen van het handelen van het onderwijzend personeel en de coördinatie van alle leerlingbegeleidingsinitiatieven op niveau van de school. De school implementeert, evalueert en stuurt, zo nodig, dat beleid bij. Ter versterking van dat beleid voert de school een professionaliseringsbeleid.<br>
+De school ontwikkelt een beleid op leerlingenbegeleiding dat is afgestemd op het pedagogisch project, de noden van de leerlingenpopulatie en de context waarin de school zich bevindt. Het zorg- en gelijke onderwijskansenbeleid, zoals omschreven in het schoolwerkplan, en het beleid voor de preventie van afzondering en fixatie en voor de afbouw ervan, vermeld in artikel 33/1, als de school daar een beleid over ontwikkelt, worden erin geïntegreerd. Het beleid op leerlingenbegeleiding omvat de begeleiding van de leerlingen, het ondersteunen van het handelen van het onderwijzend personeel en de coördinatie van alle leerlingbegeleidingsinitiatieven op niveau van de school. De school implementeert, evalueert en stuurt, zo nodig, dat beleid bij. Ter versterking van dat beleid voert de school een professionaliseringsbeleid.<br>
 <br>
 Bij de opmaak en evaluatie van het beleid op leerlingenbegeleiding betrekt de school relevante partners. Voor bijkomende inhoudelijke expertise doet de school een beroep op het centrum voor leerlingenbegeleiding. Voor schoolondersteuning zoekt de school externe ondersteuning bij de pedagogische begeleidingsdienst, eventueel in samenwerking met een externe dienst. Voor expertise met betrekking tot het onderwijs aan leerlingen met specifieke onderwijsbehoeften betrekt de school het leersteuncentrum.<br>
 <br>
@@ -2841,7 +3194,7 @@ Een beleid op leerlingenbegeleiding beantwoordt aan volgende principes:<br>
 2° het komt participatief tot stand en is gedragen door het hele schoolteam;<br>
 3° het is doelgericht, systematisch, planmatig en transparant;<br>
 4° het wordt discreet uitgevoerd;<br>
-5° er wordt verduidelijkt wie welke taak opneemt in de leerlingenbegeleiding.
+5° er wordt verduidelijkt wie welke taak opneemt in de leerlingenbegeleiding met vermelding van het bevoegd personeel, vermeld in artikel 33/4, §1, eerste lid, 3°, als er een beleid voor de preventie van afzondering en fixatie en voor de afbouw ervan, vermeld in artikel 33/1, is.
 
 ### ART 47quater.
 
@@ -2916,7 +3269,7 @@ De klassenraad oordeelt hierbij autonoom of een leerling in voldoende mate de do
 
 ### ART. 54.
 
-Leerlingen die beschikken over een IAC-verslag komen niet in aanmerking voor het getuigschrift basisonderwijs, tenzij de klassenraad oordeelt dat voor de leerling voldaan is aan de voorwaarde, vermeld in artikel 53, tweede lid.<br>
+Leerlingen die beschikken over een IAC-verslag komen niet in aanmerking voor het getuigschrift basisonderwijs, tenzij de klassenraad oordeelt dat voor de regelmatige leerling voldaan is aan de voorwaarde, vermeld in artikel 53, tweede lid.<br>
 <br>
 In voorkomend geval moet de klassenraad uitgebreid worden met de betrokken leerondersteuner die een adviserende stem heeft.
 
@@ -2936,7 +3289,12 @@ In afwijking van het eerste lid moeten de ouders van kinderen die een beslissing
 
 ### ART. 56.
 
-Op advies van de inspectie duidt de regering per provincie ten minste één   officiële en ten minste één vrije school aan die dienen als examencommissies met   het oog op het bekomen van een getuigschrift basisonderwijs.<BR><BR>De   onderwijsinspectie is bevoegd om de organisatie en de werking van die   examencommissies na te gaan.
+Op advies van de inspectie duidt de regering per provincie ten minste één officiële en ten minste één vrije school aan die dienen als examencommissies met het oog op het bekomen van een getuigschrift basisonderwijs.<br>
+<br>
+In afwijking van het eerste lid treedt elke school die de taalafdeling Nederlands-Vlaamse Gebarentaal inricht op als examencommissie voor de leerlingen die doof of slechthorend zijn als vermeld in artikel 37/8, §5, of 37/45, §5, en die het getuigschrift basisonderwijs willen behalen. Voor de voormelde leerlingen kan de examencommissie een afwijking als vermeld in artikel 44, §7, voorzien op de bestaande eindtermen, vermeld in artikel 44, §4. Voor de voormelde leerlingen krijgen de ontwikkelingsdoelen, vermeld in artikel 44, §8, eerste lid, het statuut van eindterm, met uitzondering van de ontwikkelingsdoelen, vermeld in artikel 44,<br>
+§8, tweede lid, die niet het statuut van eindterm of ontwikkelingsdoel krijgen.<br>
+<br>
+De onderwijsinspectie is bevoegd om de organisatie en de werking van die examencommissies na te gaan.
 
 ### ART 56bis.
 
@@ -3082,7 +3440,7 @@ De Vlaamse Regering neemt een beslissing over de opname in de financierings- of 
 
 ### ART. 69.
 
-Een schoolbestuur verliest de financiering of subsidiëring van zijn scho(o)l(en) of vestigings-plaats(en) of types die niet meer voldoen aan de voorwaarden bepaalde in artikel 68, § 1, 2°.
+Een schoolbestuur verliest de financiering of subsidiëring van zijn scho(o)l(en) of vestigings-plaats(en) of types of taalafdeling Nederlands-Vlaamse Gebarentaal die niet meer voldoen aan de voorwaarden bepaalde in artikel 68, § 1, 2°.
 
 ### ART. 70.
 
@@ -3450,6 +3808,8 @@ Die teldag geldt in het buitengewoon basisonderwijs voor de hele school voor het
 <br>
 § 3. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen die betrokken zijn bij een herstructurering, de eerste schooldag van oktober van het lopende schooljaar.&nbsp;Deze afwijking geldt niet voor scholen van het gewoon basisonderwijs als het gaat over autonome kleuterscholen die een vestigingsplaats afschaffen.<br>
 <br>
+§3/1. In afwijking van paragraaf 1 is de teldag voor het bijkomend werkingsbudget, vermeld in artikel 87sexies, in de eerste drie bestaansjaren van de taalafdeling Nederlands-Vlaamse Gebarentaal, de eerste schooldag van oktober van het lopende schooljaar.<br>
+<br>
 § 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als « de maand september » en wordt het woord « teldag » telkens gelezen als « telperiode ».<br>
 <br>
 Voor type 5-scholen die betrokken zijn bij een herstructurering is de telperiode in het tweede jaar na die herstructurering de volledige maand september van het lopende schooljaar.<br>
@@ -3495,6 +3855,17 @@ Het extra werkingsbudget wordt aangewend om leerlingen met een te beperkte kenni
 Het extra werkingsbudget voor het betrokken schooljaar wordt aan de schoolbesturen in minstens twee schijven uitbetaald, waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50% van het extra werkingsbudget van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt.<br>
 <br>
 De regering kan binnen de beschikbare begrotingskredieten het extra werkingsbudget, vermeld in dit artikel, verhogen.
+
+## 8° BIJKOMEND WERKINGSBUDGET VOOR DE TAALAFDELING NEDERLANDS-VLAAMSE GEBARENTAAL
+
+### ART 87sexies.
+
+Er wordt elk schooljaar een bijkomend werkingsbudget toegekend aan de scholen van 316,15 euro per leerling die is ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
+&nbsp;<br>
+Het bedrag wordt jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule: A = (Cx-1/Cx-2), waarbij:<br>
+1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1; 2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+Het bijkomende werkingsbudget dat wordt ontvangen, wordt ingezet voor de organisatie van de taalafdeling Nederlands-Vlaamse Gebarentaal.
 
 ## ONDERAFDELING E DE INVESTERINGSMIDDELEN
 
@@ -3668,7 +4039,7 @@ Schoolbesturen kunnen hun scholen herstructureren vanaf het   tweede&nbsp;school
 
 Wegens uitzonderlijke redenen van tijdelijke aard kunnen leerlingen, conform artikel 63, § 2, tijdelijk buiten de bestaande vestigingsplaats ondergebracht worden. De programmatienormen en rationalisatienormen zijn hier niet van toepassing.
 
-## [AFDELING 2BIS. OPRICHTEN VAN VESTIGINGSPLAATSEN, NIVEAUS OF TYPES (ing. Decr. 22 juni 2007, art. II.13, I: 1 september 2008)]
+## AFDELING 2BIS. OPRICHTEN VAN VESTIGINGSPLAATSEN, NIVEAUS, TAALAFDELINGEN NEDERLANDS-VLAAMSE GEBARENTAAL OF TYPES
 
 ## [ONDERAFDELING A OPRICHTEN VAN VESTIGINGSPLAATSEN (ing. Decr. 22 juni 2007, art. II.13, I: 1 september 2008)]
 
@@ -3770,9 +4141,29 @@ De oprichting van type 9 in het schooljaar 2015-2016 wordt niet beschouwd als ee
 <br>
 § 7. De bepalingen van artikel 111, § 3 en § 4, zijn van toepassing als een type wordt opgericht door omvorming.
 
+## ONDERAFDELING E OPRICHTING VAN EEN TAALAFDELING NEDERLANDS-VLAAMSE GEBARENTAAL
+
 ### ART. 112bis.
 
-...
+§1. Een school voor gewoon onderwijs kan vanaf 1 september de taalafdeling Nederlands-Vlaamse Gebarentaal oprichten als ze op de eerste schooldag van oktober van het eerste schooljaar na de goedkeuring van de regering of, in geval van een uitstel als vermeld in het tweede lid op de eerste schooldag van oktober van het daaropvolgende schooljaar de programmatienormen bereikt die de regering voor een taalafdeling Nederlands-Vlaamse Gebarentaal vastlegt.<br>
+<br>
+Een schoolbestuur dat de goedkeuring van de regering, vermeld in paragraaf 3, heeft gekregen voor de oprichting van een taalafdeling Nederlands-Vlaamse Gebarentaal, kan ervoor kiezen om de oprichting ervan met een schooljaar uit te stellen.<br>
+<br>
+§2. In aanvulling op paragraaf 1 dient een schoolbestuur dat de taalafdeling Nederlands-Vlaamse Gebarentaal wil oprichten, een oprichtingsdossier in. Het voormelde oprichtingsdossier voldoet aan al de volgende kwaliteitsvoorwaarden:<br>
+1° het schoolbestuur is verantwoordelijk voor het indienen van het oprichtingsdossier na overleg binnen de schoolraad en na overleg of na onderhandeling in het lokaal comité;<br>
+2° het oprichtingsdossier bevat een omgevingsanalyse die de leefbaarheid van het programmatievoorstel motiveert. Bij de voormelde omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is, de link met eventuele aangepaste begeleidingsmogelijkheden, met inbegrip van schoolexterne begeleidingsmogelijkheden, expliciet behandeld;<br>
+3° de school beschikt over de vereiste infrastructurele en materiële voorzieningen op het gebied van toegankelijkheid en hulpmiddelen nodig voor de taalafdeling Nederlands-Vlaamse Gebarentaal;<br>
+4° de reeds bestaande expertise of de inspanningen rond professionalisering met betrekking tot de taalafdeling Nederlands-Vlaamse Gebarentaal worden in het dossier weergegeven.<br>
+<br>
+De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden beoordeeld.<br>
+&nbsp;<br>
+§3. De oprichting vanaf 1 september van de taalafdeling Nederlands-Vlaamse Gebarentaal kan pas na goedkeuring van de regering.<br>
+<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier, vermeld in paragraaf 2, naar de bevoegde diensten van de Vlaamse Gemeenschap, die de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad, de onderwijsinspectie en aan de adviescommissie Vlaamse Gebarentaal bezorgen.<br>
+<br>
+De regering neemt de beslissing, vermeld in het eerste lid, na advies van de Vlaamse Onderwijsraad en de adviescommissie Vlaamse Gebarentaal over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van de bevoegde diensten van de Vlaamse Gemeenschap en de onderwijsinspectie.<br>
+<br>
+§4. Een schoolbestuur kan zonder dat het een oprichtingsdossier hoeft in te dienen of de goedkeuring van de regering, vermeld in paragraaf 3, nodig heeft, de taalafdeling Nederlands-Vlaamse Gebarentaal opnieuw inrichten in een school die maxi- maal twee schooljaren geleden voor het laatst de taalafdeling Nederlands-Vlaamse Gebarentaal heeft ingericht, voor zover de taalafdeling Nederlands-Vlaamse Gebarentaal in het laatste jaar van inrichting financierbaar of subsidieerbaar was.
 
 ### ART. 113.
 
@@ -3794,13 +4185,13 @@ Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 word
 
 ### ART. 115.
 
-§ 1. Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, § 1, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen, blijven gesubsidieerd of gefinancierd als op de vorige, of de daaraanvoorafgaande, teldag de volgende voorwaarden vervuld waren :<br>
+§ 1. Scholen, vestigingsplaatsen, niveaus, taalafdelingen Nederlands-Vlaamse Gebarentaal of types die op de teldag, zoals bepaald in artikel 114, § 1, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen, blijven gesubsidieerd of gefinancierd als op de vorige, of de daaraanvoorafgaande, teldag de volgende voorwaarden vervuld waren :<br>
 1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br>
-2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.<br>
+2° elke vestigingsplaats, elk niveau,&nbsp;elke taalafdeling Nederlands-Vlaamse Gebarentaal, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.<br>
 <br>
-§ 2. Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, § 2, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de eerste schooldag van februari van het voorgaande schooljaar, of&nbsp;de daaraanvoorafgaande teldag, &nbsp;de volgende voorwaarden vervuld waren :<br>
+§ 2. Scholen, vestigingsplaatsen, niveaus, taalafdelingen Nederlands-Vlaamse Gebarentaal of types die op de teldag, zoals bepaald in artikel 114, § 2, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de eerste schooldag van februari van het voorgaande schooljaar, of&nbsp;de daaraanvoorafgaande teldag, &nbsp;de volgende voorwaarden vervuld waren :<br>
 1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br>
-2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen, die tijdens het lopende schooljaar nog deel uitmaken van de school, voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.
+2° elke vestigingsplaats, elk niveau,&nbsp;elke taalafdeling Nederlands-Vlaamse Gebarentaal, elk type van de school en elk type van de vestigingsplaatsen, die tijdens het lopende schooljaar nog deel uitmaken van de school, voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.
 
 ## ONDERAFDELING B BEHOUD IN HET BUITENGEWOON ONDERWIJS
 
@@ -3824,11 +4215,12 @@ Indien voor een bepaald type in een bepaalde provincie, per groep geen enkele sc
 
 ### ART. 120.
 
-§ 1. Voor het gewoon basisonderwijs legt de regering vier categorieën van rationalisatienormen vast:<br>
+§ 1. Voor het gewoon basisonderwijs legt de regering vijf categorieën van rationalisatienormen vast:<br>
 1° de rationalisatienormen voor scholen;<br>
 2° de rationalisatienormen voor vestigingsplaatsen;<br>
 3° de rationalisatienormen voor geïsoleerde scholen;<br>
-4° de rationalisatienormen voor geïsoleerde vestigingsplaatsen.<br>
+4° de rationalisatienormen voor geïsoleerde vestigingsplaatsen;<br>
+5° de rationalisatienormen voor taalafdelingen Nederlands-Vlaamse Gebarentaal.<br>
 <br>
 § 2. Een geïsoleerde school is een school voor gewoon kleuteronderwijs, lager onderwijs of basisonderwijs waarvan elke vestigingsplaats op een bepaald afstand gelegen is van elke andere school voor gewoon kleuteronderwijs, lager onderwijs of basisonderwijs of vestigingsplaats van een andere school voor gewoon kleuteronderwijs, lager onderwijs of basisonderwijs van dezelfde groep en van hetzelfde taalstelsel waar onderwijs van hetzelfde niveau gegeven wordt.<br>
 <br>
@@ -3914,7 +4306,8 @@ Scholengemeenschappen die op 31 augustus 2020 bestaan, kunnen op 1 september 202
 <br>
 Een school kan uit de scholengemeenschap stappen in een van de volgende gevallen:<br>
 1° de scholengemeenschap telt minder dan 900 gewogen regelmatige leerlingen als vermeld in artikel 125septies, op de eerste schooldag van februari van het voorgaande schooljaar;<br>
-2° een school wordt overgenomen door een schoolbestuur van een andere groep als vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap, ermee instemmen dat de school uit de scholengemeenschap stapt.<br>
+2° een school wordt overgenomen door een schoolbestuur van een andere groep als vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap, ermee instemmen dat de school uit de scholengemeenschap stapt;<br>
+3° een school wordt overgenomen door een schoolbestuur van dezelfde groep, vermeld in artikel 3, 21°, op voorwaarde dat alle schoolbesturen die behoren tot de scholengemeenschap ermee instemmen dat de school uit de scholengemeenschap stapt en op voorwaarde dat er een school deel uitmaakt van de scholengemeenschap wiens schoolbestuur betrokken is bij een fusie van gemeenten in het lopende schooljaar.<br>
 <br>
 Wijzigingen van een beslissing of overeenkomst treden in werking op 1 september na de datum waarop de wijziging tot stand is gekomen.<br>
 <br>
@@ -4060,11 +4453,21 @@ Wanneer er overeenkomstig artikel 125duodecies1, § 4, eerste lid, of artikel 15
 
 ### ART. 125terdecies.
 
-In afwijking van artikelen 142, 146ter en 153bis, kan er door de betrokken   school-besturen tussen scholen die behoren tot eenzelfde scholengemeenschap méér   dan 3 procent van het lestijdenpakket en/of urenpakket worden overgedragen,   mits:<BR>1° de overdracht in overeenstemming is met de afspraken die binnen de   scholengemeenschap zijn gemaakt;<BR>2° akkoord van het bevoegd lokaal   comité;<BR>3° de overdracht gebeurt vóór 15 oktober van het lopende   schooljaar;<BR>4° de overdracht niet voor gevolg heeft dat personeelsleden ter   beschikking gesteld worden wegens ontstentenis van betrekking.<BR><BR>De   niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling   wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de   overheid. De scholengemeenschap moet met het oog op de controle een verklaring   op eer bezorgen aan Agodi waarin ze verklaart deze bepaling in acht te nemen.
+In afwijking van artikelen 142, 146ter en 153bis, kan er door de betrokken school-besturen tussen scholen die behoren tot eenzelfde scholengemeenschap méér dan 3 procent van het lestijdenpakket en/of urenpakket worden overgedragen, mits:<br>
+1° de overdracht in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt;<br>
+2° akkoord van het bevoegd lokaal comité;<br>
+3° de overdracht gebeurt vóór 15 oktober van het lopende schooljaar;<br>
+4° de overdracht niet voor gevolg heeft dat personeelsleden ter beschikking gesteld worden wegens ontstentenis van betrekking.<br>
+<br>
+De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. De scholengemeenschap moet met het oog op de controle door Agodi een verklaring op erewoord afleggen en ter beschikking houden.
 
 ### ART. 125quaterdecies.
 
-Schoolbesturen kunnen, in overeenstemming met de afspraken die binnen de   scholengemeenschap gemaakt zijn, punten samenleggen op het niveau van de   scholengemeenschap mits:<BR>1° de samenlegging gebeurt vóór 15 oktober van het   lopende schooljaar;<BR>2° de samenlegging niet voor gevolg heeft dat   personeelsleden ter beschikking gesteld worden wegens ontstentenis van   betrekking.<BR><BR>De niet-naleving van deze bepaling heeft tot gevolg dat een   terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft   ten aanzien van de overheid. De scholengemeenschap moet met het oog op de   controle een verklaring op eer bezorgen aan Agodi waarin ze verklaart deze   bepaling in acht te nemen.
+Schoolbesturen kunnen, in overeenstemming met de afspraken die binnen de scholengemeenschap gemaakt zijn, punten samenleggen op het niveau van de scholengemeenschap mits:<br>
+1° de samenlegging gebeurt vóór 15 oktober van het lopende schooljaar;<br>
+2° de samenlegging niet voor gevolg heeft dat personeelsleden ter beschikking gesteld worden wegens ontstentenis van betrekking.<br>
+<br>
+De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. De scholengemeenschap moet met het oog op de controle door Agodi een verklaring op erewoord afleggen en ter beschikking houden waarin ze verklaart deze bepaling in acht te nemen.
 
 ## [AFDELING 6 INSPRAAK VAN HET PERSONEEL OP NIVEAU VAN DE SCHOLENGEMEENSCHAP]
 
@@ -4464,7 +4867,8 @@ De regering kan voor het buitengewoon basisonderwijs, om budgettaire redenen, aa
 7° lestijden in het buitengewoon basisonderwijs ter ondersteuning van de integratie van de anderstalige leerlingen voor de Nederlandstalige scholen in de rand- en taalgrensgemeenten, voor de scholen in de gemeenten die grenzen aan de randgemeenten en/of aan het Brusselse Hoofdstedelijke Gewest en voor de scholen in de gemeenten die bepaald worden door de Vlaamse Gemeenschap;<br>
 8° lestijden voor aanvangsbegeleiding;<br>
 9° lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel;<br>
-10° lestijden samen school maken.<br>
+10° lestijden samen school maken;<br>
+11° lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
 <br>
 De betrekkingen die worden ingericht op basis van de lestijden voor het permanent onderwijs aan huis in het buitengewoon onderwijs komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
 <br>
@@ -4717,6 +5121,36 @@ In afwijking van paragraaf 4 hebben scholen voor buitengewoon basisonderwijs die
 <br>
 Voor de aanwending van de lestijden samen school maken kunnen de scholen samenwerken. Voor die samenwerking kunnen de lestijden samen school maken, via een overdracht als vermeld in artikel 142, overgedragen worden.
 
+## SECTIE 7 AANVULLENDE LESTIJDEN VOOR DE INRICHTING VAN DE TAALAFDELING NEDERLANDS-VLAAMSE GEBARENTAAL
+
+### ART 139vicies.
+
+§1. De aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in artikel 138, §1, eerste lid, 11°, worden toegekend aan de scholen voor leerlingen die als regelmatige leerling ingeschreven zijn in de taalafdeling Nederlands-Vlaamse Gebarentaal in het kleuteronderwijs en in het lager onderwijs.<br>
+<br>
+§2. Het aantal aanvullende lestijden, vermeld in artikel 138, §1, eerste lid, 11°, waarop de school voor het kleuteronderwijs recht heeft, wordt als volgt berekend: 26 – (1,3 x L), waarbij L het aantal leerlingen is dat als regelmatige leerling ingeschreven is in de taalafdeling Nederlands-Vlaamse Gebarentaal in het kleuter- onderwijs van de school.<br>
+<br>
+Als de berekening, vermeld in het eerste lid, ertoe leidt dat er een negatief aantal aanvullende lestijden zou worden toegekend, worden er geen aanvullende lestijden toegekend, maar worden er ook geen lestijden afgetrokken.<br>
+<br>
+Als er geen enkele regelmatige leerling in het kleuteronderwijs in de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in het eerste lid, is ingeschreven, worden geen aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal in het kleuteronderwijs, vermeld in artikel 138, §1, eerste lid, 11°, toegekend.<br>
+<br>
+De lestijden, vermeld in het eerste lid, worden als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§3. Scholen delen de regelmatige leerlingen die ingeschreven zijn in de taalafdeling Nederlands-Vlaamse Gebarentaal in het lager onderwijs van de school, in maximaal drie leerlingengroepen in om de aanvullende lestijden, vermeld in para- graaf 1, te ontvangen.<br>
+<br>
+Het aantal aanvullende lestijden, vermeld in artikel 138, §1, eerste lid, 11°, waarop de school voor het lager onderwijs recht heeft, wordt per leerlingengroep, vermeld in het eerste lid, als volgt berekend: 26 – (1,3 x L), waarbij L het aantal leerlingen is dat ingedeeld is in de leerlingengroep in kwestie, vermeld in het eerste lid.<br>
+<br>
+Als de berekening per leerlingengroep, vermeld in het eerste lid, ertoe leidt dat er een negatief aantal aanvullende lestijden zou worden toegekend, worden er geen aanvullende lestijden toegekend, maar worden er ook geen lestijden afgetrokken.<br>
+<br>
+Als er geen enkele leerling in de leerlingengroep, vermeld in het eerste lid, is ingedeeld, worden er voor de inrichting van die leerlingengroep geen aanvullende lestijden als vermeld in artikel 138, §1, eerste lid, 11°, toegekend.<br>
+<br>
+De lestijden, vermeld in het tweede lid, worden binnen de leerlingengroep als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+&nbsp;<br>
+§4. Voor de berekening van de aanvullende lestijden, vermeld in paragraaf 1 tot en met 3, waarop de school recht heeft, is de teldag de eerste schooldag van februari van het voorgaande schooljaar behalve:<br>
+1° &nbsp;in de eerste drie bestaansjaren van de taalafdeling Nederlands-Vlaamse Gebarentaal, waar de teldag de eerste schooldag van oktober van het lopende schooljaar is;<br>
+2° voor de scholen die op basis van artikel 132 als teldag de eerste schooldag van oktober hebben.<br>
+<br>
+§5. De regering bepaalt de ambten waarin een school met de aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in paragraaf 1, betrekkingen kan inrichten en de wijze waarop de omrekening gebeurt van de aanvullende lestijden voor de inrichting van de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in paragraaf 1, naar die betrekkingen.
+
 ## ONDERAFDELING C TELLING
 
 ### ART. 140.
@@ -4729,7 +5163,7 @@ Voor de aanwending van de lestijden samen school maken kunnen de scholen samenwe
 5° elke leerling telt voor één teleenheid;<br>
 6° in afwijking van punt 5° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, en voor de berekening van de aanvullende lestijden voor elke erkende godsdienst en voor de niet-confessionele zedenleer of voor cultuurbeschouwing, zoals bepaald in artikel 138, § 1, 1°, de coëfficiënt 1,5 toegepast op de leerlingen :<br>
 a) die verblijven in een centrum voor kinderzorg en gezinsondersteuning;<br>
-b) die verblijven in tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
+b) van wie de ouders geen vaste verblijfplaats hebben en die overeenkomstig artikel 27 van het decreet van 16 juni 2023 over de onderwijsinternaten bijkomende verblijfsdagen invullen;<br>
 c) die effectief gebruikmaken van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, §1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp voor verblijf op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
 d) van wie de ouders tot de trekkende bevolking behoren;<br>
 e) die een zorgthuis hebben.<br>
@@ -4789,13 +5223,17 @@ De maatregelen, vermeld in deze paragraaf, worden geëvalueerd tijdens het schoo
 
 ### ART. 143.
 
-De in artikel 142 bedoelde herverdeling mag niet voor gevolg hebben dat   personeelsleden ter beschikking gesteld worden wegens ontstentenis van   betrekking tenzij de terbeschikkinggestelde personeelsleden voor de hele verdere   duur van het schooljaar in een school van hetzelfde schoolbestuur en/of van   dezelfde scholengemeenschap overeenkomstig de geldende reglementering kunnen   worden gereaffecteerd of wedertewerkgesteld.<BR><BR>De in artikel 142 bedoelde   overdracht mag niet voor gevolg hebben dat personeelsleden ter beschikking   gesteld worden wegens ontstentenis van betrekking. <BR><BR>De niet-naleving van   deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens   ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid.   Het schoolbestuur moet met het oog op de controle een verklaring op eer bezorgen   aan Agodi waarin het verklaart deze bepaling in acht te nemen.
+De in artikel 142 bedoelde herverdeling mag niet voor gevolg hebben dat personeelsleden ter beschikking gesteld worden wegens ontstentenis van betrekking tenzij de terbeschikkinggestelde personeelsleden voor de hele verdere duur van het schooljaar in een school van hetzelfde schoolbestuur en/of van dezelfde scholengemeenschap overeenkomstig de geldende reglementering kunnen worden gereaffecteerd of wedertewerkgesteld.<br>
+<br>
+De in artikel 142 bedoelde overdracht mag niet voor gevolg hebben dat personeelsleden ter beschikking gesteld worden wegens ontstentenis van betrekking.<br>
+<br>
+De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle door Agodi een verklaring op erewoord afleggen en ter beschikking houden waarin het verklaart deze bepaling in acht te nemen.
 
 ### ART. 144.
 
 De betrekkingen die worden ingericht op basis van overgedragen of herverdeelde lestijden komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
 <br>
-Het schoolbestuur moet met het oog op de controle een verklaring op eer bezorgen aan het Vlaams Ministerie van Onderwijs en Vorming waarin het verklaart deze bepaling in acht te nemen.<br>
+Het schoolbestuur moet met het oog op de controle door Agodi een verklaring op erewoord afleggen en ter beschikking houden waarin het verklaart deze bepaling in acht te nemen.<br>
 <br>
 Het niet naleven van deze bepaling heeft voor gevolg dat de vaste benoeming geen uitwerking heeft ten aanzien van het Vlaams Ministerie van Onderwijs en Vorming.
 
@@ -5279,6 +5717,16 @@ Conform artikel 125decies, § 1, 3°, van dit decreet kunnen scholengemeenschapp
 
 Een publiekrechtelijke rechtspersoon kan de onderwijsbevoegdheid van een gesubsidieerde officiële school slechts overdragen aan een schoolbestuur uit het vrij onderwijs, indien het in de nodige garanties voorziet opdat de keuze wordt aangeboden tussen onderricht in één der erkende godsdiensten en de niet-confessionele zedenleer.<br /><br />De regelen, bepaald in het eerste lid, betreffen de overdracht van onderwijsbevoegdheid die ingang vinden vanaf 1 september 2002.
 
+## HOOFDSTUK XIIBIS/1 BIJZONDERE BEPALINGEN OVER HET OFFICIEEL ONDERWIJS
+
+### ART 173bis/1.
+
+Een publiekrechtelijk rechtspersoon kan de onderwijsbevoegdheid van een officiële school alleen overdragen aan een vrij schoolbestuur, als in eerste instantie de overdracht naar een andere aanbieder van het officieel onderwijs wordt onderzocht.<br>
+<br>
+Het onderzoek, vermeld in het eerste lid, omvat minstens:<br>
+1° een verslag van gevoerde gesprekken met een andere aanbieder van het officieel onderwijs met het oog op de overdracht, of, in ondergeschikte orde en als er geen gesprekken met een dergelijke andere aanbieder gevoerd konden worden, een verslag van de pogingen om een dergelijke andere aanbieder te vinden;<br>
+2° de gemotiveerde conclusie over de mogelijkheid tot overdracht.
+
 ## [HOOFDSTUK XIITER DRINGENDE MAATREGELEN IN HET KADER VAN DE CAPACITEITSPROBLEMATIEK (ing. decr. 9 juli 2010, art. II.11)]
 
 ### ART. 173ter.
@@ -5348,7 +5796,23 @@ Elke school voor gewoon basisonderwijs wendt per niveau, voor lichamelijke opvoe
 
 ### ART. 177.
 
-§ 1. Onverminderd de toepassing van artikel 174 kunnen volgende overtredingen na aanmaning aanleiding geven tot sancties door de Vlaamse regering: <br />1° het niet naleven van de toelatingsvoorwaarden zoals bedoeld in de artikelen 12, 15 en 16;<br />2° ... <br />3° het niet naleven van de bepalingen inzake de keuze en de vrijstelling van keuze tussen godsdienst en niet-confessionele zedenleer zoals bedoeld in artikel 29;<br />4° het niet naleven van de procedure tot het schorsen en uitsluiten van leerlingen zoals bedoeld in artikel 32;<br />5° het miskennen van recht op het onderwijs aan huis zoals bedoeld in de artikelen 34 en 35;<br />6° het niet naleven van de bepalingen met betrekking tot de organisatie van de schooltijd zoals bedoeld in de artikelen 48, 49 en 50;<br />7° ... <br />8° het misbruiken van het werkingsbudget en investeringsmiddelen;<br />9° de misbruiken bij het tellen van de regelmatige leerlingen voor programmatie, rationalisatie, lestijdenpakket en uren-pakket;<br />10° de misbruiken bij het berekenen en aanwenden van lestijden, uren en punten.<br />11° ...<br /><br />§ 2. ... <br /><br />Overtredingen bedoeld in § 1, 6° worden vastgesteld door de onderwijsinspectie.
+§ 1. Onverminderd de toepassing van artikel 174 kunnen volgende overtredingen na aanmaning aanleiding geven tot sancties door de Vlaamse regering:<br>
+1° het niet naleven van de toelatingsvoorwaarden, vermeld in artikel 12, 12/1, 13/1, 14/0, 14/1, 15 en 16;<br>
+2° ...<br>
+3° het niet naleven van de bepalingen inzake de keuze en de vrijstelling van keuze tussen godsdienst en niet-confessionele zedenleer zoals bedoeld in artikel 29;<br>
+4° het niet naleven van de procedure tot het schorsen en uitsluiten van leerlingen zoals bedoeld in artikel 32;<br>
+5° het miskennen van recht op het onderwijs aan huis zoals bedoeld in de artikelen 34 en 35;<br>
+5°/1 het niet naleven van de bepalingen over afzondering en fixatie, vermeld in artikel 33/1 tot en met 33/5;<br>
+6° het niet naleven van de bepalingen met betrekking tot de organisatie van de schooltijd zoals bedoeld in de artikelen 48, 49 en 50;<br>
+7° ...<br>
+8° het misbruiken van het werkingsbudget en investeringsmiddelen;<br>
+9° de misbruiken bij het tellen van de regelmatige leerlingen voor programmatie, rationalisatie, lestijdenpakket en uren-pakket;<br>
+10° de misbruiken bij het berekenen en aanwenden van lestijden, uren en punten.<br>
+11° ...<br>
+<br>
+§ 2. ...<br>
+<br>
+Overtredingen als vermeld in paragraaf 1, 5°/1 en 6°,&nbsp; worden vastgesteld door de onderwijsinspectie.
 
 ### ART. 178.
 
@@ -5532,3 +5996,45 @@ Bijlage 3. - Formule voor de berekening van de afstand in meters tussen<br />twe
 ### BIJLAGE 4
 
 ...
+
+### BIJLAGE 5.
+
+Bijlage 5. Lijst met ontwikkelingsdoelen van het gewoon kleuteronderwijs en eindtermen van het gewoon lager onderwijs waarvan kan worden afweken worden voor dove en slechthorende kinderen binnen de taalafdeling Nederlands- Vlaamse Gebarentaal, als vermeld in artikel 44, §6 en §7, van het decreet basisonderwijs van 25 februari 1997<br>
+<br>
+Artikel 1. Van de volgende ontwikkelingsdoelen voor het gewoon kleuteronderwijs, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen in het gewoon basisonderwijs, bekrachtigd bij het decreet van 15 juli 1997 kan volgens de procedure en voor de leerlingen, vermeld in artikel 44, §6, beslist worden dat ze niet na te streven zijn:<br>
+1°&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen lichamelijke opvoeding bij motorische competenties alleen ontwikkelingsdoel 1.6, wat betreft het snel reageren op auditieve signalen;<br>
+2°&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen muzische vorming:<br>
+a)&nbsp;&nbsp; &nbsp;de ontwikkelingsdoelen van 2 Muziek;<br>
+b)&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen van 4 Beweging alleen de volgende ontwikkelingsdoelen:<br>
+1)&nbsp;&nbsp; &nbsp;ontwikkelingsdoel 4.1 spontaan meebewegen op muziek;<br>
+2)&nbsp;&nbsp; &nbsp;ontwikkelingsdoel 4.4 waargenomen klanken omzetten in beweging;<br>
+c)&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen media alleen het ontwikkelingsdoel 5.3 met betrekking tot het vaststellen, veranderen, schikken, herschikken van de volgorde van een reeks klanken en geluiden en er een nieuw verhaal rond vertellen;<br>
+3°&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen Nederlands:<br>
+a)&nbsp;&nbsp; &nbsp;de ontwikkelingsdoelen van 1 Luisteren;<br>
+b)&nbsp;&nbsp; &nbsp;de ontwikkelingsdoelen van 2 Spreken;<br>
+c)&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen van 5 Taalbeschouwing alleen ontwikkelingsdoel 5.5 wat betreft het discrimineren van klanken en woorden en de ritmische aspecten van taal en rijmen;<br>
+4°&nbsp;&nbsp; &nbsp;van de ontwikkelingsdoelen wetenschap en techniek alleen ontwikkelingsdoel 1.1 wat betreft het kunnen onderscheiden van verschillen in geluid.<br>
+&nbsp;<br>
+Art. 2. Van de volgende eindtermen, vermeld in de bijlage bij het besluit van de Vlaamse regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen in het gewoon basisonderwijs, bekrachtigd bij het decreet van 15 juli 1997 kan volgens de procedure en voor de leerlingen, vermeld in artikel 44,<br>
+§7, een afwijking voorzien worden:<br>
+1°&nbsp;&nbsp; &nbsp;van de eindtermen Nederlands:<br>
+a)&nbsp;&nbsp; &nbsp;alle eindtermen van 1 Luisteren;<br>
+b)&nbsp;&nbsp; &nbsp;alle eindtermen van 2 Spreken;<br>
+c)&nbsp;&nbsp; &nbsp;van de eindtermen 4 Schrijven, alleen de volgende eindtermen:<br>
+1)&nbsp;&nbsp; &nbsp;eindterm 4.7 wat betreft het toepassen van spellingafspraken en -regels over het schrijven van woorden met vast woordbeeld: klankzuivere woorden, hoogfrequente niet-klankzuivere woorden, klinker in open/gesloten lettergreep en niet-klankzuivere eindletter;<br>
+2)&nbsp;&nbsp; &nbsp;eindterm 4.8 in zoverre deze eindterm betrekking heeft op het ontwikkelen van attitudes voor luisteren en spreken;<br>
+d)&nbsp;&nbsp; &nbsp;van de eindtermen 5 Vaardigheden/strategieën in zoverre de vaardigheden of strategieën verband houden met luisteren en spreken;<br>
+2°&nbsp;&nbsp; &nbsp;van de eindtermen Frans:<br>
+a)&nbsp;&nbsp; &nbsp;de eindtermen van 1 Luisteren;<br>
+b)&nbsp;&nbsp; &nbsp;de eindtermen van 3 Spreken;<br>
+c)&nbsp;&nbsp; &nbsp;de eindtermen van 4 Mondelinge interactie;<br>
+d)&nbsp;&nbsp; &nbsp;de eindtermen van 5 Attitudes wat betreft de attitudes inzake luisteren, spreken en gesprekken voeren;<br>
+3°&nbsp;&nbsp; &nbsp;van de eindtermen Lichamelijke opvoeding alleen de eindterm 1.21 kunnen bewegingsvormen uitvoeren op een opgelegd ritme;<br>
+4°&nbsp;&nbsp; &nbsp;van de eindtermen Muzische vorming:<br>
+a)&nbsp;&nbsp; &nbsp;van de eindtermen 2 Muziek alleen de volgende eindtermen:<br>
+1)&nbsp;&nbsp; &nbsp;de eindterm 2.1: de leerlingen kunnen muziek beluisteren en ervaren, muzikale impressies opdoen uit de geluidsomgeving met aandacht voor enkele kenmerken van de muziek: klankeigenschap en functie/gebruikssituatie;<br>
+2)&nbsp;&nbsp; &nbsp;de eindterm 2.2: de leerlingen kunnen improviseren en experimenteren, klankbronnen en muziekinstrumenten uittesten op hun klankwaarde en in een muzikaal (samen)spel daarvan gebruikmaken;<br>
+b)&nbsp;&nbsp; &nbsp;van de eindtermen 3 Drama alleen de volgende eindtermen:<br>
+1)&nbsp;&nbsp; &nbsp;eindterm 3.3: geconcentreerd luisteren naar een gesproken tekst (verteld of voorgelezen) en die mondeling, schriftelijk, beeldend of dramatisch weergeven;<br>
+2)&nbsp;&nbsp; &nbsp;eindterm 3.6 een aan de speelsituatie aangepaste en aangename spreektechniek ontwikkelen (articulatie, adembeheersing, tempo, toonhoogte) en verschillende verbale en non-verbale spelvormen improviseren;<br>
+5°&nbsp;&nbsp; &nbsp;van de eindterm Wetenschap en techniek alleen de eindterm 1.1 wat betreft de waarnemingen die betrekking hebben op gehoor.
