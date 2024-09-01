@@ -35,6 +35,57 @@ In artikel 8 van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffe
 1° in punt 1° worden punt f) en punt h) opgeheven;<br>
 2° in punt 2° wordt punt b) opgeheven.&nbsp;
 
+### ART 25.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de subsidiëring van de zonale busbegeleiding worden de woorden “Die toelage worden berekend” vervangen door de zinsnede “De toelage, vermeld in artikel 3 en 3/1, wordt berekend”.
+
+### ART 26.
+
+In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, eerste lid, 4°, wordt de zinsnede “, verhoogd met de bijdrage voor de kinderbijslag” opgeheven;<br>
+2° in paragraaf 3, tweede lid, 2°, worden de woorden “door een busbegeleider” opgeheven;<br>
+3° in paragraaf 3, derde lid, worden de woorden “tweede lid lid” vervangen door de woorden “tweede lid”.
+
+### ART 27.
+
+In hetzelfde besluit worden een artikel 3/1 en een artikel 3/2 ingevoegd, die luiden als volgt:<br>
+<br>
+“Art. 3/1. De toelage voor busbegeleiders met een flexi-jobarbeidsovereenkomst op ritten die georganiseerd worden met ingang van de eerste schooldag van het schooljaar, wordt voor de scholen, ongeacht het net, berekend aan de hand van de volgende formule: BB x UD x BD x PL + (EJT + VAK) x PL, waarbij:<br>
+1° BB: het basis-bruto-uurloon in 2008, vermeld in artikel 2;<br>
+2° UD: het aantal uren dat een busbegeleider per schooldag overeenkomstig de flexi-jobarbeidsovereenkomst presteert;<br>
+3° BD: het aantal gesubsidieerde dagen, dat gelijk is aan 217 als de busbegeleider vijf schooldagen per week werkt. Als de busbegeleider minder dan vijf schooldagen per week werkt, is het aantal gesubsidieerde dagen gelijk aan het product van het aantal schooldagen dat de busbegeleider per week werkt, en 217, gedeeld door vijf;<br>
+4° PL: de verplichte werkgeversbijdragen die op flexi-jobwerknemers van toepassing zijn;<br>
+5° EJT: de eindejaarstoelage, zoals die berekend wordt voor het meesters-, vak- en dienstpersoneel van het gemeenschapsonderwijs;<br>
+6° VAK: het vakantiegeld dat gelijk is aan 7,67% van het product van de factoren, vermeld in punt 1°, 2° en 3°, vermenigvuldigd met 1,08.<br>
+<br>
+Als er pas na de eerste schooldag van het schooljaar extra ritten voor leerlingenvervoer worden georganiseerd, wordt er voor de organisatie van die ritten een aanvullende toelage toegekend aan de hand van de formules, vermeld in het eerste lid. In afwijking van het eerste lid wordt het aantal gesubsidieerde dagen, vermeld in het eerste lid, 3°, evenwel vermenigvuldigd met het aantal werkdagen dat ligt tussen de start van de organisatie van de extra ritten en 30 juni, en vervolgens gedeeld door 217.<br>
+<br>
+Art. 3/2. In dit artikel wordt verstaan onder:<br>
+1° prestatiedagen: werkdagen in de periode van september tot en met juni, met uitzondering van de werkdagen die tijdens de korte schoolvakanties en op wettelijke feestdagen vallen;<br>
+2° korte schoolvakanties:&nbsp;<br>
+&nbsp; a) de herfstvakantie, vermeld in artikel 7, 1°, van het besluit van de Vlaamse regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs;<br>
+&nbsp; b) de kerstvakantie, vermeld in artikel 7, 2°, van het voormelde besluit;<br>
+&nbsp; c) de krokusvakantie, vermeld in artikel 7, 3°, van het voormelde besluit;<br>
+&nbsp; d) de paasvakantie, vermeld in artikel 7, 4°, van het voormelde besluit;<br>
+&nbsp; e) de dag na Hemelvaartsdag.<br>
+<br>
+De toelage, vermeld in artikel 2, voor busbegeleiders met een PWA-arbeidsovereenkomst of wijk-werkovereenkomst op ritten die georganiseerd worden met ingang van de eerste schooldag van het schooljaar, wordt voor de scholen, ongeacht het net, berekend aan de hand van de volgende formule: BB x UD x BD, waarbij:<br>
+1° BB: de aanschafprijs van de PWA- of wijk-werkcheques die de school gebruikt om de busbegeleider te vergoeden;<br>
+2° UD: het aantal uren dat een busbegeleider per schooldag overeenkomstig het prestatieformulier presteert;<br>
+3° BD: het aantal gesubsidieerde dagen, dat gelijk is aan alle prestatiedagen van het lopende schooljaar als de busbegeleider vijf schooldagen per week werkt. Als de busbegeleider minder dan vijf schooldagen per week werkt, is het aantal gesubsidieerde dagen gelijk aan het product van het aantal schooldagen dat de busbegeleider per week werkt en alle prestatiedagen van het lopende schooljaar, gedeeld door vijf.<br>
+<br>
+Als er pas na de eerste schooldag van het schooljaar extra ritten voor leerlingenvervoer worden georganiseerd, wordt er voor de organisatie van die ritten een aanvullende toelage toegekend aan de hand van de formules, vermeld in het eerste lid. In afwijking van het eerste lid wordt het aantal gesubsidieerde dagen, vermeld in het tweede lid, 3°, evenwel vermenigvuldigd met het aantal prestatiedagen dat ligt tussen de start van de organisatie van de extra ritten en 30 juni, en vervolgens gedeeld door alle prestatiedagen van het lopende schooljaar.”.
+
+### ART 28.
+
+In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in de inleidende zin wordt tussen de zinsnede “toelage, vermeld in artikel 3,” en de woorden “wordt uitbetaald” de zinsnede “3/1 en 3/2,” ingevoegd;<br>
+2° in punt 3° wordt tussen de zinsnede “voor het volledige schooljaar overeenkomstig artikel 3” en de woorden “recht op heeft” de zinsnede “, 3/1 en 3/2,” ingevoegd.
+
+### ART 29.
+
+In artikel 6, derde en vierde lid, van hetzelfde besluit wordt de zin “De poststempel geldt als indiendatum.” opgeheven.
+
 ### ART 38.
 
 De volgende regelingen worden opgeheven:<br>
