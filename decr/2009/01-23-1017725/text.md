@@ -8,11 +8,21 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-De bepalingen van dit decreet zijn van toepassing op : <br />1° de door de Vlaamse Gemeenschap gesubsidieerde centra voor basiseducatie;<br />2° de personeelsleden die werken in de centra voor basiseducatie;<br />3° het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs;<br />4° de personeelsleden die werken in het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.
+De bepalingen van dit decreet zijn van toepassing op :<br>
+1° de door de Vlaamse Gemeenschap gesubsidieerde centra voor basiseducatie;<br>
+2° de personeelsleden die werken in de centra voor basiseducatie;<br>
+3° Vocvo vzw;<br>
+4° de personeelsleden die werken in voor Vocvo vzw.
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder : <br />1° VOC BE : Vlaams Onderhandelingscomité voor de Basiseducatie;<br />2° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen en die een werking ontplooit ten behoeve van de centra voor basiseducatie;<br />3° LOC : lokaal onderhandelingscomité;<br />4° centrum : een centrum voor basiseducatie of het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs (Vocvo);<br />5° centrumbestuur : de raad van bestuur van een centrum dat ten aanzien van het centrum de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet of de statuten toegewezen bevoegdheden;<br />6° vakbondsafgevaardigde : 'een personeelslid van een centrum dat namens een representatieve vakorganisatie een mandaat uitoefent in of buiten het centrum.
+In dit decreet wordt verstaan onder :<br>
+1° VOC BE : Vlaams Onderhandelingscomité voor de Basiseducatie;<br>
+2° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen en die een werking ontplooit ten behoeve van de centra voor basiseducatie;<br>
+3° LOC : lokaal onderhandelingscomité;<br>
+4° centrum : een centrum voor basiseducatie of Vocvo vzw;<br>
+5° centrumbestuur : de raad van bestuur van een centrum dat ten aanzien van het centrum de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet of de statuten toegewezen bevoegdheden;<br>
+6° vakbondsafgevaardigde : 'een personeelslid van een centrum dat namens een representatieve vakorganisatie een mandaat uitoefent in of buiten het centrum.
 
 ## HOOFDSTUK II. VOC BE
 
@@ -110,15 +120,39 @@ De LOC's hebben informatierecht, onderhandelingsbevoegdheid, adviesbevoegdheid, 
 
 ### ART. 24.
 
-De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met de werkgelegenheid. Die inlichtingen hebben minstens betrekking op : <br />1° inlichtingen over de evolutie van het aantal cursisten en het aantal gegenereerde lesurencursist en de weerslag ervan op de werkgelegenheid en de infrastructuur;<br />2° inlichtingen over de structuur van de centra inclusief over fusies, overnames, sluitingen, uitbreidingen, rationaliseringen of andere belangrijke structuurwijzigingen waarover het centrumbestuur onderhandelingen of besprekingen voert, en de weerslag daarvan op de evolutie van de werkgelegenheid;<br />3° inlichtingen over het personeelsverloop.<br /><br />De bepaling in 1° is niet van toepassing op het Vocvo.
+De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met de werkgelegenheid. Die inlichtingen hebben minstens betrekking op :<br>
+1° inlichtingen over de evolutie van het aantal cursisten en het aantal gegenereerde lesurencursist en de weerslag ervan op de werkgelegenheid en de infrastructuur;<br>
+2° inlichtingen over de structuur van de centra inclusief over fusies, overnames, sluitingen, uitbreidingen, rationaliseringen of andere belangrijke structuurwijzigingen waarover het centrumbestuur onderhandelingen of besprekingen voert, en de weerslag daarvan op de evolutie van de werkgelegenheid;<br>
+3° inlichtingen over het personeelsverloop.<br>
+<br>
+De bepaling in 1° is niet van toepassing op Vocvo vzw.
 
 ### ART. 25.
 
-De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met het centrumbestuur, de structuur van het centrum en de inbedding van het centrum in het consortium volwassenenonderwijs waartoe het behoort. Die inlichtingen betreffen : <br />1° basisinformatie over de juridische vorm van het statuut en de samenstelling van de bestuursorganen;<br />2° inlichtingen over de eventuele wijzigingen aan het statuut en de samenstelling van de bestuursorganen;<br />3° basisinformatie over de positie van de centra : <br />a) het organogram van de centra;<br />b) het beleid betreffende de werving van cursisten;<br />c) de aanbevelingen en conclusies uit het doorlichtingsverslag van de inspectie;<br />d) de conclusies uit het verificatieverslag van de verificatie;<br />4° de inlichtingen over de uitvoering van de decretale opdrachten van het consortium volwassenenonderwijs.<br /><br />De bepalingen in 3°, b), en 4°, zijn niet van toepassing op het Vocvo.
+De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met het centrumbestuur, de structuur van het centrum en de inbedding van het centrum in het consortium volwassenenonderwijs waartoe het behoort. Die inlichtingen betreffen :<br>
+1° basisinformatie over de juridische vorm van het statuut en de samenstelling van de bestuursorganen;<br>
+2° inlichtingen over de eventuele wijzigingen aan het statuut en de samenstelling van de bestuursorganen;<br>
+3° basisinformatie over de positie van de centra :<br>
+a) het organogram van de centra;<br>
+b) het beleid betreffende de werving van cursisten;<br>
+c) de aanbevelingen en conclusies uit het doorlichtingsverslag van de inspectie;<br>
+d) de conclusies uit het verificatieverslag van de verificatie;<br>
+4° de inlichtingen over de uitvoering van de decretale opdrachten van het consortium volwassenenonderwijs.<br>
+<br>
+De bepalingen in 3°, b), en 4°, zijn niet van toepassing op Vocvo vzw.
 
 ### ART. 26.
 
-De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met het financiële beleid van de centra. Die inlichtingen betreffen : <br />1° de ontvangen subsidies;<br />2° de inkomsten die voortvloeien uit initiatieven voor steun aan de centra;<br />3° de kosten voor het cursusmateriaal, aangerekend aan de cursist;<br />4° alle andere inkomsten;<br />5° de jaarrekeningen van het laatste kalenderjaar;<br />6° de overeenkomsten en akkoorden die fundamentele en duurzame gevolgen hebben voor de toestand van de centra;<br />7° de contracten afgesloten met derden met het oog op de organisatie van contractonderwijs.<br /><br />De bepalingen in 3° en 7° zijn niet van toepassing op het Vocvo.
+De LOC's hebben minstens jaarlijks recht op inlichtingen in verband met het financiële beleid van de centra. Die inlichtingen betreffen :<br>
+1° de ontvangen subsidies;<br>
+2° de inkomsten die voortvloeien uit initiatieven voor steun aan de centra;<br>
+3° de kosten voor het cursusmateriaal, aangerekend aan de cursist;<br>
+4° alle andere inkomsten;<br>
+5° de jaarrekeningen van het laatste kalenderjaar;<br>
+6° de overeenkomsten en akkoorden die fundamentele en duurzame gevolgen hebben voor de toestand van de centra;<br>
+7° de contracten afgesloten met derden met het oog op de organisatie van contractonderwijs.<br>
+<br>
+De bepalingen in 3° en 7° zijn niet van toepassing op Vocvo vzw.
 
 ### ART. 27.
 
@@ -132,7 +166,26 @@ Het centrumbestuur verstrekt aan de leden van de LOC's inlichtingen in verband m
 
 ### ART. 29.
 
-De LOC's zijn bevoegd om te onderhandelen over de aangelegenheden waarvoor de centra bevoegd zijn, voor zover die aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden en de arbeidsvoorwaarden van het personeel van de centra.<br /><br />Voor zover van toepassing onderhandelen ze minstens over de volgende punten : <br />1° de algemene principes van het personeelsbeleid; <br />2° de aard en de duur van het dienstverband;<br />3° de rechten en plichten, onverenigbaarheden en verbodsbepalingen en de regeling van cumulaties met andere ambten, functies, betrekkingen of bezigheden;<br />4° de aansprakelijkheidsreglementering;<br />5° de regeling betreffende de functiebeschrijvingen en de evaluatie van het personeel;<br />6° het algemeen beleid betreffende de verloven en deeltijdse arbeid;<br />7° het navormingsbeleid van personeelsleden; <br />8° de maatregelen van interne orde;<br />9° de richtlijnen en de regelen betreffende de prestatieregeling;<br />10° het vastleggen van een lijst van onderwijsopdrachten en van opdrachten die niet als onderwijsopdracht worden beschouwd, zoals bedoeld in artikel 92, § 2, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />11° de projecten en de maatregelen die de omstandigheden en voorwaarden wijzigen waarin het werk in het centrum wordt uitgevoerd;<br />12° het opstellen en het wijzigen van een arbeidsreglement;<br />13° de aanwending van het aantal voltijdse equivalenten en van de puntenenveloppe;<br />14° het aanvraagdossier om gecombineerd onderwijs te mogen organiseren, zoals bedoeld in artikel 28 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />15° het aanvraagdossier om niet-erkend gesubsidieerd onderwijs te mogen organiseren, zoals bedoeld in artikel 30 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />De bepalingen in 10°, 13°, 14° en 15°, zijn niet van toepassing op het Vocvo.
+De LOC's zijn bevoegd om te onderhandelen over de aangelegenheden waarvoor de centra bevoegd zijn, voor zover die aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden en de arbeidsvoorwaarden van het personeel van de centra.<br>
+<br>
+Voor zover van toepassing onderhandelen ze minstens over de volgende punten :<br>
+1° de algemene principes van het personeelsbeleid;<br>
+2° de aard en de duur van het dienstverband;<br>
+3° de rechten en plichten, onverenigbaarheden en verbodsbepalingen en de regeling van cumulaties met andere ambten, functies, betrekkingen of bezigheden;<br>
+4° de aansprakelijkheidsreglementering;<br>
+5° de regeling betreffende de functiebeschrijvingen en de evaluatie van het personeel;<br>
+6° het algemeen beleid betreffende de verloven en deeltijdse arbeid;<br>
+7° het navormingsbeleid van personeelsleden;<br>
+8° de maatregelen van interne orde;<br>
+9° de richtlijnen en de regelen betreffende de prestatieregeling;<br>
+10° het vastleggen van een lijst van onderwijsopdrachten en van opdrachten die niet als onderwijsopdracht worden beschouwd, zoals bedoeld in artikel 92, § 2, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+11° de projecten en de maatregelen die de omstandigheden en voorwaarden wijzigen waarin het werk in het centrum wordt uitgevoerd;<br>
+12° het opstellen en het wijzigen van een arbeidsreglement;<br>
+13° de aanwending van het aantal voltijdse equivalenten en van de puntenenveloppe;<br>
+14° het aanvraagdossier om gecombineerd onderwijs te mogen organiseren, zoals bedoeld in artikel 28 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+15° het aanvraagdossier om niet-erkend gesubsidieerd onderwijs te mogen organiseren, zoals bedoeld in artikel 30 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+<br>
+De bepalingen in 10°, 13°, 14° en 15°, zijn niet van toepassing op Vocvo vzw.
 
 ### ART. 30.
 

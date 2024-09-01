@@ -2,16 +2,16 @@
   "codex_id": 1017725,
   "title": "Decreet van 2009-01-23 houdende oprichting van onderhandelingscomités voor de basiseducatie en voor het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017725/VolledigDocument?datum=2017-09-01",
-  "source_sha256": "35141cdaac27a53f5176320a2834970a5848ef75315a62122d3da4c5c9763280",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017725/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "3b5349def491fcf5420a3246fa9d4aa46afb6812055b86eb88230360ed17978b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017725&param=informatie",
-  "as_of": "2017-09-01",
+  "as_of": "2024-09-01",
   "made": "2009-01-23",
   "gazette": "2009-03-26",
   "numac": 2009201243,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2017-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 60,
-  "record_form": "consolidated version as in force on 2017-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
