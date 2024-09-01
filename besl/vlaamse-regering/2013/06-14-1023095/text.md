@@ -50,7 +50,7 @@ De erkenningsautoriteit rapporteert jaarlijks over de beslissingen aan de   mini
 
 ### ART. 9.
 
-<p>§ 1. Iedere houder van een buitenlands studiebewijs heeft het recht op een niveaugelijkwaardigheid op voorwaarde dat de aanvrager :<br>
+<p>§ 1.Iedere houder van een buitenlands studiebewijs heeft het recht op een onderzoek naar een erkenning van de niveaugelijkwaardigheid van het buitenlands studiebewijs op voorwaarde dat de aanvrager:<br>
 1° hetzij zijn woonplaats heeft in het Vlaams Gewest of in het Brussels Hoofdstedelijk Gewest;<br>
 2° hetzij zijn woonplaats elders heeft, en kan aantonen dat de aanvraag gebeurt met het oog op tewerkstelling in het Vlaams Gewest of in het Brussels Hoofdstedelijk Gewest.</p>
 
@@ -74,7 +74,15 @@ De erkenningsautoriteit rapporteert jaarlijks over de   niveaugelijkwaardigheden
 
 ### ART. 11.
 
-<P>§ 1. De erkenningsautoriteit hanteert aanvraagformulieren die de in te dienen   documenten en informatie opsomt voor het onderzoek naar de erkenning van de   volledige gelijkwaardigheid van buitenlandse studiebewijzen en de   niveaugelijkwaardigheid. De erkenningsautoriteit bevestigt formeel de ontvangst   van de aanvraag. De bewijslast dat er in de aanvraag documenten en informatie   ontbreken, ligt bij de erkenningsautoriteit. De erkenningsautoriteit dient   specifiek de ontbrekende documenten op te vragen aan de aanvrager. <BR></P>  <P>§ 2. De erkenningsautoriteit kan extra documenten opvragen en ook een   individueel interview afnemen van de aanvrager, in het geval van een   authenticiteitscontrole van de vereiste ingediende documenten of in het geval de   vereiste ingediende documenten toch onvoldoende informatie bevatten om een   erkenningsonderzoek te voeren.<BR></P>  <P>§ 3. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af   indien uiterlijk 6 maanden na het indienen van de aanvraag, zoals vermeld in   artikel 2, niet alle opgevraagde documenten en informatie worden   ingediend.</P>
+<p>§1. De erkenningsautoriteit hanteert aanvraagformulieren die de in te dienen documenten en informatie opsomt voor het onderzoek naar de erkenning van de volledige gelijkwaardigheid van buitenlandse studiebewijzen en de niveaugelijkwaardigheid. De erkenningsautoriteit bevestigt formeel de ontvangst van de aanvraag. De bewijslast dat er in de aanvraag documenten en informatie ontbreken, ligt bij de erkenningsautoriteit. De erkenningsautoriteit dient specifiek de ontbrekende documenten op te vragen aan de aanvrager.</p>
+
+<p>§2. De erkenningsautoriteit kan extra documenten opvragen en ook een individueel interview afnemen van de aanvrager, in het geval van een authenticiteitscontrole van de vereiste ingediende documenten of in het geval de vereiste ingediende documenten toch onvoldoende informatie bevatten om een erkenningsonderzoek te voeren.</p>
+
+<p>§3. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af indien uiterlijk 6 maanden na het indienen van de aanvraag, zoals vermeld in artikel 2, niet alle opgevraagde documenten en informatie worden ingediend.<br>
+<br>
+§4. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af als ze vaststelt dat een of meer documenten in de aanvraag fraude impliceren of een onverklaarde onregelmatigheid aantonen. De erkenningsautoriteit brengt de aanvrager op de hoogte van voormelde stopzetting.<br>
+<br>
+De erkenningsautoriteit weigert een nieuwe aanvraag van dezelfde persoon in geval van fraude. De erkenningsautoriteit kan een nieuwe aanvraag van dezelfde persoon weigeren in geval van een onverklaarde onregelmatigheid.</p>
 
 ### ART. 12.
 
