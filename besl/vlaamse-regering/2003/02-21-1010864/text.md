@@ -22,205 +22,61 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ## Bijlage
 
-### Tekst
+### BIJLAGE
 
-<p>De hierna vermelde leerjaren van het Nederlands voortgezet onderwijs (kolom 1) worden gelijkwaardig verklaard met de overeenstemmende studie (kolom 2 = leerjaar en kolom 3 = bekrachtiging) in het Vlaams voltijds secundair onderwijs.<br>
-&nbsp;</p>
+<p>De hierna vermelde leerjaren van het Nederlands voortgezet onderwijs (kolom 1) worden gelijkwaardig verklaard met de overeenstemmende studie (kolom 2 = graad en kolom 3 = studiebekrachtiging) in het Vlaams voltijds secundair onderwijs.</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>1° leerjaar V.M.O.B. (leerwegondersteunend onderwijs) en 1st leerjaar I.V.B.O.<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">2<sup>de</sup> leerjaar vmbo</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">1<sup>ste</sup> graad B-stroom</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Getuigschrift 1<sup>ste</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Elk ander 1° leerjaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2<sup>de</sup> leerjaar mavo of havo of vwo</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1<sup>ste</sup> graad A-stroom</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 1<sup>ste</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>2° leerjaar V.M.B.O. (leerwegondersteunend onderwijs) en 2° leerjaar I.V.B.O.)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Beroepsvoorbereidend leerjaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 1° graad + oriënteringsattest B (clausulering voor 2° leerjaar van de 1° graad)</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar mavo</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2<sup>de</sup> graad aso</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 2<sup>de</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Elk ander 2° leerjaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 1° graad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 1° graad + oriënteringsattest A</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> of 5<sup>de</sup> leerjaar havo en 4<sup>de </sup>of 5<sup>de</sup> leerjaar vwo</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2<sup>de</sup> graad doorstroomfinaliteit</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 2<sup>de</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>3° leerjaar M.A.V.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest B (clausulering van T.S.O. en K.S.O.)</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar vmbo (basisberoepsgerichte leerweg)</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1<sup>ste</sup> graad B-stroom</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 1<sup>ste</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>3° leerjaar H.A.V.O. en 3° leerjaar V.W.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar vmbo (kaderberoepsgerichte leerweg en gemengde leerweg)</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2<sup>de</sup> graad arbeidsmarktfinaliteit</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 2<sup>de</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>3° leerjaar V.M.B.O. (leerwegondersteunend onderwijs), 3° leerjaar V.B.O. (A-programma) en 3° leerjaar L.B.O. (A-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest (clausulering voor A.S.O., T.S.O. en K.S.O.)</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar vmbo (theoretische leerweg)</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2<sup>de</sup> graad dubbele finaliteit</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 2<sup>de</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>3° leerjaar V.B.O. (minimum 3 vakken met B-programma) en 3° leerjaar L.B.O. (minimum 3 vakken met B-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest B (clausulering voor A.S.O.)</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar vbo of lbo (A-programma)</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">1<sup>ste</sup> graad B-stroom</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 1<sup>ste</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>3° leerjaar V.M.B.O. (voor zover geen leerwegondersteunend onderwijs), 3° leerjaar V.B.O. (minimum 3 vakken met C of D-programma) en 3° leerjaar L.B.O. (minimum 3 vakken met C- of D-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4<sup>de</sup> leerjaar vbo of lbo (B-, of C- of D-programma)</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">2<sup>de</sup> graad bso</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Getuigschrift 2<sup>de</sup> graad</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>4° leerjaar M.A.V.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>4° leerjaar H.A.V.O. en 4° leerjaar V.W.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 2° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 2° graad + oriënteringsattest A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>4° leerjaar V.M.B.O. (leerwegondersteunend onderwijs), 4° leerjaar I.V.B.O., 4° leerjaar V.B.O. (A-programma) en 4° leerjaar L.B.O. (A-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest B (clausulering voor A.S.O., T.S.O. en K.S.O)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>4° leerjaar V.B.O. (minimum 3 vakken met B-programma) en 4° leerjaar L.B.O. (minimum 3 vakken met B-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 2° graad + oriënteringsattest B (clausulering voor A.S.O., T.S.O. en K.S.O.)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>4° leerjaar V.M.B.O. (voor zover geen leerwegondersteunend onderwijs), 4° leerjaar V.B.O. (minimum 3 vakken met C of D-programma) en 4° leerjaar L.B.O. (minimum 3 vakken met C of D-programma)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 2° graad B.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 2° graad + oriënteringsattest A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>5° leerjaar H.A.V.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 2° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Getuigschrift 2° graad + oriënteringsattest A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>5° leerjaar V.W.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1° leerjaar van de 3° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Oriënteringsattest A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>6° leerjaar V.W.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2° leerjaar van de 3° graad A.S.O.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Diploma secundair onderwijs</p>
-			</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6<sup>de</sup> leerjaar vwo</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3<sup>de</sup> graad doorstroomfinaliteit</td>
+			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">Diploma secundair onderwijs, onderwijskwalificatie niveau 4</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Opmerking: de bekrachtiging opgenomen in kolom 3 wordt vervangen door een oriënteringsattest C indien de leerling in het betrokken leerjaar in Nederland niet onvoorwaardelijk mocht overgaan of het leerjaar niet heeft voltooid.</p>
