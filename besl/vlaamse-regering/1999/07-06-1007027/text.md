@@ -8,7 +8,13 @@ Voor de toepassing van dit besluit wordt onder het gemeenschapsonderwijs verstaa
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder:<br /><br />- de jaarrekening van het centrale niveau: de balans, de resultatenrekening en de toelichting enerzijds (opgesteld op basis van de bepalingen van hoofdstuk II van dit besluit) en de uitvoering van de begroting en de toelichting hierbij anderzijds (op basis van de bepalingen van hoofdstuk III van dit besluit). Deze documenten vormen een integraal geheel;<br /><br />- de jaarrekening van de scholengroep: de balans, de resultatenrekening en de toelichting, opgesteld op basis van de bepalingen van hoofdstuk II van dit besluit. Deze documenten vormen een integraal geheel;<br /><br />- de semestriële staat van het centrale niveau: de balans en resultatenrekening enerzijds (op basis van de be-drijfseconomische aanrekeningsregels en waarderingsprincipes van hoofdstuk II van dit besluit) en de uitvoering van de begroting anderzijds (volgens de bepalingen van hoofdstuk III van dit besluit), die beide de toestand weergeven op het einde van het eerste semester;<br /><br />- de semesterstaat van de scholengroep: de balans en resultatenrekening die de toestand weergeven op het einde van het eerste semester, opgesteld op basis van de economische waarderingsregels en aanrekeningsregels opgenomen in hoofdstuk II van dit besluit;<br /><br />- de budgettaire rapportering: de uitvoering van de begroting en de toelichting hierbij, overeenkomstig de bepalingen van hoofdstuk III van dit besluit;<br /><br />- de Vlaamse minister: de Vlaamse minister bevoegd voor onderwijs en ambtenarenzaken.
+In dit besluit wordt verstaan onder:<br>
+- de jaarrekening van het centrale niveau: de balans, de resultatenrekening en de toelichting enerzijds (opgesteld op basis van de bepalingen van hoofdstuk II van dit besluit) en de uitvoering van de begroting en de toelichting hierbij anderzijds (op basis van de bepalingen van hoofdstuk III van dit besluit). Deze documenten vormen een integraal geheel;<br>
+- de jaarrekening van de scholengroep: de balans, de resultatenrekening en de toelichting, opgesteld op basis van de bepalingen van hoofdstuk II van dit besluit. Deze documenten vormen een integraal geheel;<br>
+- de semestriële staat van het centrale niveau: de balans en resultatenrekening enerzijds (op basis van de bedrijfseconomische aanrekeningsregels en waarderingsprincipes van hoofdstuk II van dit besluit) en de uitvoering van de begroting anderzijds (volgens de bepalingen van hoofdstuk III van dit besluit), die beide de toestand weergeven op het einde van het eerste semester;<br>
+- de semesterstaat van de scholengroep: de balans en resultatenrekening die de toestand weergeven op het einde van het eerste semester, opgesteld op basis van de economische waarderingsregels en aanrekeningsregels opgenomen in hoofdstuk II van dit besluit;<br>
+- de budgettaire rapportering: de uitvoering van de begroting en de toelichting hierbij, overeenkomstig de bepalingen van hoofdstuk III van dit besluit;<br>
+- de Vlaamse minister: de Vlaamse minister, bevoegd voor onderwijs en vorming.
 
 ## HOOFDSTUK II BEDRIJFSECONOMISCH LUIK
 
@@ -28,7 +34,23 @@ Het boekjaar vangt aan op 1 januari en eindigt op 31 december.
 
 ### ART. 6.
 
-De kosten en opbrengsten van elke SGR en van het centrale niveau worden   geboekt enerzijds op grond van hun aard en anderzijds analytisch, op grond van   de kostenplaatsen waarop ze betrekking moeten hebben.<BR><BR>Dit analytisch   stelsel is aangepast aan de aard en omvang van de activiteiten van de   scholengroep en het centrale niveau.<BR><BR>De scholengroep volgt een minimaal   analytisch schema met volgende indeling:<BR>1° het niveau specifieke   leerlinggebonden elementen wordt toegerekend per entiteit. Onder het begrip   entiteit wordt begrepen: school voor gewoon basisonderwijs, school voor   buitengewoon onderwijs, school voor gewoon secundair onderwijs (inclusief al dan   niet autonome en meer samenhangende middenscholen), school voor buitengewoon   secundair onderwijs, internaat (inclusief internaat van het   Gemeenschapsonderwijs dat voorziet in verblijf en begeleiding tijdens   schoolvrije dagen), Brusselse kinderdagverblijven en centrum voor   leerlingenbegeleiding;<BR>2° het niveau domeinen waar alle elementen met   betrekking tot o.a. energie, onderhoud en herstellingen infrastructuur,   verzekeringen, hospiteren... worden toegerekend per domein;<BR>3° het niveau   personeel;<BR>4° het niveau voorzieningen voor maaltijden en cafetaria   toegerekend per domein;<BR>5° het niveau voorzieningen inzake vervoer. Binnen   dit niveau wordt er een onderscheid gemaakt tussen eigen vervoer per   nummerplaat, beroepsvervoerder en andere;<BR>6° het niveau algemeen inclusief de   administratiekosten;<BR>7° het niveau nascholing per school;<BR>8° diverse   projecten met afrekening naar derden (vb. Europese projecten).<BR><BR>Voor de   elementen die betrekking hebben op meer dan één van de voormelde kostenplaatsen,   kan een toerekening gebeuren aan de hand van verdeelsleutels.<BR><BR>Het   analytisch luik van de scholengroep moet minimaal toelaten om zowel de te   verantwoorden middelen vanuit het departement Onderwijs te staven, als de   specifiek toegekende en/of toegewezen middelen aan instellingen.
+De kosten en opbrengsten van elke SGR en van het centrale niveau worden geboekt enerzijds op grond van hun aard en anderzijds analytisch, op grond van de kostenplaatsen waarop ze betrekking moeten hebben.<br>
+<br>
+Dit analytisch stelsel is aangepast aan de aard en omvang van de activiteiten van de scholengroep en het centrale niveau.<br>
+<br>
+De scholengroep volgt een minimaal analytisch schema met volgende indeling:<br>
+1° het niveau specifieke leerlinggebonden elementen wordt toegerekend per entiteit. Onder het begrip entiteit wordt begrepen: school voor gewoon basisonderwijs, school voor buitengewoon onderwijs, school voor gewoon secundair onderwijs (inclusief al dan niet autonome en meer samenhangende middenscholen), school voor buitengewoon secundair onderwijs, onderwijsinternaat, leersteuncentrum, residentiële voorziening, vermeld in artikel 2, §1, 49° en 55°/1, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, of een multifunctioneel centrum als bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, Brusselse kinderdagverblijven en centrum voor leerlingenbegeleiding;<br>
+2° het niveau domeinen waar alle elementen met betrekking tot o.a. energie, onderhoud en herstellingen infrastructuur, verzekeringen, hospiteren... worden toegerekend per domein;<br>
+3° het niveau personeel;<br>
+4° het niveau voorzieningen voor maaltijden en cafetaria toegerekend per domein;<br>
+5° het niveau voorzieningen inzake vervoer. Binnen dit niveau wordt er een onderscheid gemaakt tussen eigen vervoer per nummerplaat, beroepsvervoerder en andere;<br>
+6° het niveau algemeen inclusief de administratiekosten;<br>
+7° het niveau nascholing per school;<br>
+8° diverse projecten met afrekening naar derden (vb. Europese projecten).<br>
+<br>
+Voor de elementen die betrekking hebben op meer dan één van de voormelde kostenplaatsen, kan een toerekening gebeuren aan de hand van verdeelsleutels.<br>
+<br>
+Het analytisch luik van de scholengroep moet minimaal toelaten om zowel de te verantwoorden middelen vanuit het beleidsdomein Onderwijs te staven, als de specifiek toegekende en/of toegewezen middelen aan instellingen.
 
 ### ART. 7.
 
@@ -331,7 +353,16 @@ Dit besluit treedt in werking op 1 januari 2000. Tegen 30 juni 2000 dient elke s
 
 ### ART. 59.
 
-§ 1. [Er wordt een begeleidingscommissie opgericht met volgende taken:<br /><br />1° het uitvaardigen van richtlijnen met het oog op het garanderen van de uniformiteit van de toepassing van de bedrijfseconomische boekhouding van de scholengroepen en het centrale niveau;<br /><br />2° het uitwerken van maatregelen van interne controle op de boekhoudkundige verrichtingen;<br /><br />3° het toezicht op de toepassing van de in 2° bedoelde maatregelen van interne controle.  <span class="reference">(verv. B.V.R. 8 november 2002, art. 1, I: 9 februari 2003)</span> ]<br /><br />§ 2. De begeleidingscommissie staat onder het voorzitterschap van de coördinator van het college van accountants en bestaat verder uit, 1 vertegenwoordiger van het departement Algemene Zaken en Financiën, 1 vertegenwoordiger aangeduid door het departement Onderwijs, 3 vertegenwoordigers van de scholengroepen en 2 vertegenwoordigers van het centrale niveau.<br /><br />§ 3. De vertegenwoordigers van de scholengroepen worden aangeduid door de vergadering van de algemene directeurs, de vertegenwoordigers van het centrale niveau worden aangeduid door de Raad.<br /><br />§ 4. Alle beslissingen met betrekking tot de richtlijnen bedoeld in § 1 worden genomen bij consensus. Bij het ontbreken van een consensus beslist de voorzitter van de begeleidingscommissie.
+§ 1. Er wordt een begeleidingscommissie opgericht met volgende taken:<br>
+1° het uitvaardigen van richtlijnen met het oog op het garanderen van de uniformiteit van de toepassing van de bedrijfseconomische boekhouding van de scholengroepen en het centrale niveau;<br>
+2° het uitwerken van maatregelen van interne controle op de boekhoudkundige verrichtingen;<br>
+3° het toezicht op de toepassing van de in 2° bedoelde maatregelen van interne controle.&nbsp;<br>
+<br>
+§ 2. De begeleidingscommissie staat onder het voorzitterschap van de coördinator van het college van accountants en bestaat verder uit, 1 vertegenwoordiger van het Departement Financiën en Begroting, 1 vertegenwoordiger die Agodi aanwijst, 3 vertegenwoordigers van de scholengroepen en 2 vertegenwoordigers van het centrale niveau.<br>
+<br>
+§ 3. De vertegenwoordigers van de scholengroepen worden aangeduid door de vergadering van de algemene directeurs, de vertegenwoordigers van het centrale niveau worden aangeduid door de Raad.<br>
+<br>
+§ 4. Alle beslissingen met betrekking tot de richtlijnen bedoeld in § 1 worden genomen bij consensus. Bij het ontbreken van een consensus beslist de voorzitter van de begeleidingscommissie.
 
 ### ART. 60.
 

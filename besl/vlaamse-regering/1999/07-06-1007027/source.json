@@ -2,16 +2,16 @@
   "codex_id": 1007027,
   "title": "Besluit van de Vlaamse Regering van 1999-07-06 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de scholengroepen en het centrale niveau van het gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007027/VolledigDocument?datum=2021-02-01",
-  "source_sha256": "6e2fef5ea1d9c456c5c2a74d6b5df5363e1eba7703e053a7137663b1c848f078",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007027/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "90a792a63a3be60cdfaa0972002da6f255c162ce4748ed5ddd475b8fd54f2576",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007027&param=informatie",
-  "as_of": "2021-02-01",
+  "as_of": "2024-09-01",
   "made": "1999-07-06",
   "gazette": "1999-10-20",
   "numac": 1999036293,
   "document_start": "2000-01-01",
   "document_end": null,
-  "in_force": "2021-02-01",
+  "in_force": "2024-09-01",
   "article_versions": 62,
-  "record_form": "consolidated version as in force on 2021-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
