@@ -2,16 +2,16 @@
   "codex_id": 1032439,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032439/VolledigDocument?datum=2024-08-08",
-  "source_sha256": "2ac68eb4cce873d338b0c17c649a1508c47683dedea6a60b3aff4a3e58e3f52b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032439/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "d9c5babd700e9cf0ecbe44934c179dc672c030fb441b0794d386c9ac1afed7ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032439&param=informatie",
-  "as_of": "2024-08-08",
+  "as_of": "2024-09-01",
   "made": "2019-06-28",
   "gazette": "2019-11-21",
   "numac": 2019042384,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2024-08-08",
+  "in_force": "2024-09-01",
   "article_versions": 800,
-  "record_form": "consolidated version as in force on 2024-08-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
