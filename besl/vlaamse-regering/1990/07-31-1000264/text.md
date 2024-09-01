@@ -229,6 +229,7 @@ e) het studiegetuigschrift van het derde leerjaar van de derde graad van het sec
 f) de bekwaamheidsbewijzen, vermeld onder HSBS met gehomologeerd getuigschrift HSO / gehomologeerd getuigschrift van HSO (BSO);<br>
 g) het brevet of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO3;<br>
 h) het diploma van secundair onderwijs, gerangschikt als BSO3;<br>
+i) het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, ingericht onder de vorm van een zevende leerjaar gericht op instroom arbeidsmarkt;<br>
 17° HSTO:<br>
 a) het diploma van een hogere secundaire technische school of leergang;<br>
 b) het gehomologeerde of door de examencommissie van de Staat uitgereikte getuigschrift van hoger secundair technisch onderwijs;<br>
@@ -239,6 +240,7 @@ f) het studiegetuigschrift van het derde leerjaar van de derde graad van het sec
 g) het diploma of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als TSO3;<br>
 h) het diploma van secundair onderwijs, gerangschikt als TSO3;<br>
 i) certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het technisch secundair onderwijs;<br>
+j) het certificaat van een zevende leerjaar tso;<br>
 18° HSKO:<br>
 a) het diploma of getuigschrift van het hoger secundair kunstonderwijs met volledig leerplan of met beperkt leerplan of het getuigschrift van secundair onderwijs, uitgereikt in de hogere graad van het DKO;<br>
 b) het diploma van graad van uitmuntendheid van het kunstonderwijs, georganiseerd in beperkt leerplan;<br>
@@ -248,6 +250,7 @@ e) het gehomologeerde of door de examencommissie van de Vlaamse Gemeenschap uitg
 f) het diploma van secundair onderwijs (kunstsecundair onderwijs);<br>
 g) het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar (kunstsecundair onderwijs);<br>
 h) certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het kunstsecundair onderwijs;<br>
+i) het certificaat van een zevende leerjaar kso;<br>
 19° tenminste HSO:<br>
 a) een van de basisdiploma's, vermeld onder de punten 1° tot en met 22°bis, van artikel 6 van dit besluit;<br>
 b) de studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br>
@@ -969,7 +972,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=269">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/09/04_1.pdf#page=365">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a>
 
 ### BIJLAGE II.
 
