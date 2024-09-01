@@ -2,16 +2,16 @@
   "codex_id": 1038118,
   "title": "Besluit van de Vlaamse Regering van 2023-02-10 tot vastlegging van de lijst van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in het academiejaar 2023-2024",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038118/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "bf1b629adf83c4048ba19a4f2bcb074c40cafc7fea7dd0dd8e79525aab865378",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038118/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "53d68eb06e8fea21a49bea7e1af5fa61888bfa577902efb97086553d2b84f3ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038118&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2024-09-01",
   "made": "2023-02-10",
   "gazette": "2023-05-16",
   "numac": 2023040937,
   "document_start": "2023-09-01",
   "document_end": "2024-08-31",
-  "in_force": "2023-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
