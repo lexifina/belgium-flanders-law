@@ -56,6 +56,18 @@ Een woonzorgcentrum dat met toepassing van artikel 53/1 van het Woonzorgdecreet 
 8° de beheersinstantie moet aantonen dat alle woongelegenheden van het woonzorgcentrum, ook de aangemelde woongelegenheden bovenop de erkende capaciteit, voldoen aan de bepalingen, vermeld in het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan ouderenvoorzieningen en centra voor herstelverblijf moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen.<br>
 &nbsp;
 
+### ART 4/1.
+
+Het woonzorgcentrum vraagt de toestemming om buiten de erkende capaciteit woongelegenheden aan te bieden aan mantelzorgers van wie het zelfzorgvermogen niet is aangetast als vermeld in artikel 47 van het Woonzorgdecreet van 15 februari 2019, met het formulier dat de administratie ter beschikking stelt en dat de volgende gegevens en stukken bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de identiteitsgegevens van de beheersinstantie en van de voorziening;<br>
+2°&nbsp;&nbsp; &nbsp;het aantal woongelegenheden;<br>
+3°&nbsp;&nbsp; &nbsp;een brandveiligheidsattest en brandpreventieverslag. De capaciteit die vermeld wordt op het attest van de burgemeester, omvat de erkende capaciteit van het woonzorgcentrum en de capaciteit van de woongelegenheden conform artikel 47 van het voormelde decreet;<br>
+4°&nbsp;&nbsp; &nbsp;een toelichting waarin de volgende elementen aan bod komen over de voormelde woongelegenheden:<br>
+a)&nbsp;&nbsp; &nbsp;het profiel van de voorziening;<br>
+b)&nbsp;&nbsp; &nbsp;een beschrijving van de infrastructuur die wordt aangewend, waarbij aangetoond wordt dat die infrastructuur voldoet aan de bepalingen, vermeld in artikel 2 en 4 van dit besluit;<br>
+c)&nbsp;&nbsp; &nbsp;een toelichting over de financiële afhandeling van het verblijf;<br>
+5°&nbsp;&nbsp; &nbsp;een ondertekende verbintenis om voor de voormelde woongelegenheden te voldoen aan de bepalingen, vermeld in artikel 47 van het voormelde decreet, en aan de normen, vermeld in dit besluit.
+
 ### ART 5.
 
 In het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juni 2016, wordt een artikel 37/1 ingevoegd, dat luidt als volgt:<br>
