@@ -98,6 +98,10 @@ In de bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 3° het woord “spuiter” wordt vervangen door de woorden “spuiter carrosserie”;<br>
 4° het woord “voorbewerker” wordt vervangen door de woorden “voorbewerker carrosserie”.
 
+### ART 13.
+
+De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 19 juli 2024, wordt vervangen door de bijlage die als bijlage 4 bij dit besluit is gevoegd.
+
 ### BIJLAGE 2
 
 Vervanging van bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie<br>
