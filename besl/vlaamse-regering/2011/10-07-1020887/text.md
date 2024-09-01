@@ -6,7 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en bijlage 3 tot en met 7, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 3 tot en met 8, die bij dit besluit zijn gevoegd.<br>
+<br>
+Ter uitvoering van artikel 24, §2, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden van de volgende opleidingen:<br>
+1° de opleiding Procesoperator Chemische en Farmaceutische Industrie kan voor snel lerende cursisten 600 lestijden omvatten, waarbij de module Werkplekleren voor de Procesoperator CFI 80 lestijden omvat;<br>
+2° de opleiding Procesoperator Chemische en Farmaceutische Industrie kan voor traag lerende cursisten 760 lestijden omvatten, waarbij de module Werkplekleren voor de Procesoperator CFI 240 lestijden omvat.
 
 ### ART. 2.
 
@@ -61,3 +65,7 @@ Beroepsopleiding<br>
 Studiegebied chemie • 01.02.2024<br>
 <br>
 <a href="https://www.ejustice.just.fgov.be/mopdf/2024/04/16_1.pdf#page=483">Labotechnisch Medewerker</a>
+
+### BIJLAGE
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/30_2.pdf#page=747">link naar de bijlage</a>
