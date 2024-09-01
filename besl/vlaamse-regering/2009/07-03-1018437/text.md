@@ -26,7 +26,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 1° langdurige pleegzorg: pleegzorg zoals omschreven in artikel 30sexies § 6 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en waarbij het kind als deel uitmakend van dat gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het gezin of de pleegouder zijn verblijfplaats heeft of de pleegouders hun verblijfplaats hebben, is ingeschreven;<br>
 2° kortdurende pleegzorg: alle vormen van pleegzorg die niet voldoen aan de voorwaarden van langdurige pleegzorg;<br>
 3° pleegkind: het kind waarvoor het personeelslid of zijn echtgenote of samenwonende partner in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming;<br>
-4° pleegvader en - moeder: de pleegouder die in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming.<br>
+4° pleegvader en - moeder: de pleegouder die in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming;<br>
+5° zwangerschapsverlies: alle vormen van zwangerschapsverlies zowel medisch als spontaan ingeleid, vanaf het ogenblik dat het verlies zich voordoet, vanaf het begin van de zwangerschap tot en met 180 kalenderdagen zwangerschap, zonder dat het personeelslid een attest hoeft voor te leggen.<br>
 <br>
 § 2. De personeelsleden, vermeld in artikel 1, krijgen omstandigheidsverlof naar aanleiding van de volgende gebeurtenissen:<br>
 1° huwelijk van het personeelslid en het afleggen van een verklaring van wettelijke samenwoning door het personeelslid: twee werkdagen;<br>
@@ -41,7 +42,9 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 10° bijwonen van een bijeenkomst van een familieraad, bijeengeroepen door de vrederechter: één werkdag;<br>
 11° oproeping als getuige voor een rechtscollege of persoonlijke verschijning op aanmaning van een rechtscollege: de nodige tijd;<br>
 12° de uitoefening van het ambt van voorzitter, van bijzitter of van secretaris van een stembureau of een stemopnemingsbureau: de nodige tijd;<br>
-13° om deel uit te maken van de jury van het hof van assisen: de duur van de zitting.<br>
+13° om deel uit te maken van de jury van het hof van assisen: de duur van de zitting;<br>
+14° zwangerschapsverlies van het personeelslid dat zwanger was: twee werkdagen, op voorwaarde dat het betrokken personeelslid een verklaring op erewoord aflegt;<br>
+15° zwangerschapsverlies van de echtgenote of samenwonende partner van het personeelslid: twee werkdagen, op voorwaarde dat het betrokken personeelslid een verklaring op erewoord aflegt.<br>
 <br>
 § 3. In afwijking van § 2, 1°, krijgen de leden van het administratief personeel, de administratief medewerker van het beleids- en ondersteunend personeel, de administratief medewerker van het ondersteunend personeel en de vastbenoemde leden van het meesters-, vak- en dienstpersoneel voor hun huwelijk of voor het afleggen van een verklaring van wettelijke samenwoning vier werkdagen.<br>
 <br>
