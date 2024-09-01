@@ -2,16 +2,16 @@
   "codex_id": 1031542,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 houdende de toekenning van een planningsvergunning en de erkenning van woongelegenheden met een bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie en tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers en het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031542/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "a572c756925f7c1835bb13c345eaaa8a47f56aebfa3620086dc68e165e45d3d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031542/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "a9004e6f3f12d7d8838dc41e1786d2570fdb58d063fe430d94fa1fc81c6028b4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031542&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-09-01",
   "made": "2019-03-15",
   "gazette": "2019-04-12",
   "numac": 2019040841,
   "document_start": "2019-04-13",
   "document_end": "2024-08-31",
-  "in_force": "2023-06-01",
+  "in_force": "2024-09-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
