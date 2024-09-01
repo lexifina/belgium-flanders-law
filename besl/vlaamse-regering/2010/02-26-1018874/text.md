@@ -46,7 +46,7 @@ c) 21 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende stu
 2) Toerisme;<br>
 d) 22 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
 1) Algemene personenzorg;<br>
-2) Assistentie vrije zorgberoepen, als het gaat om de opleiding Tandartsassistent;<br>
+2) Assistentie vrije zorgberoepen als het gaat om de opleidingen Dentaaltechnisch Helper, Dentaaltechnisch Medewerker, Dentaaltechnicus en Tandartsassistent;<br>
 3) ICT-technieken;<br>
 4) Lassen;<br>
 5) Mechanica-elektriciteit;<br>
