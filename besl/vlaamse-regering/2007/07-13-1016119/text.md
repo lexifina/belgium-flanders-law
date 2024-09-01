@@ -15,7 +15,17 @@ Dit besluit is van toepassing op :<br>
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° afstand : de kortst mogelijke afstand, gemeten langs de rijbaan, vermeld in het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zonder rekening te houden met wegomleggingen, verkeersvrije straten, eenrichtingsverkeer en autosnelwegen;<br />2° betrokken personen : de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerling onder hun bewaring hebben of de meerderjarige leerling zelf;<br />3° chronische ziekte : een ziekte waarvoor een continue of repetitieve behandeling van minstens zes maanden noodzakelijk is;<br />4° lestijden : lestijden in het gewoon en buitengewoon basisonderwijs, uren-leraar in het gewoon secundair onderwijs en lesuren in het buitengewoon secundair onderwijs;<br />5° schoolbestuur : het schoolbestuur van het basisonderwijs, vermeld in artikel 3, 50°, van het decreet Basisonderwijs van 25 februari 1997, en het schoolbestuur, zoals vermeld in artikel 3, 40°, van de codificatie betreffende het secundair onderwijs;<br />6° schooljaar : de periode van 1 september tot en met 31 augustus van het daaropvolgend kalenderjaar;<br />7° verblijfplaats : de eigen woonplaats, de woonplaats van een verwante of derde persoon, of een medische instelling waar de leerling tijdens zijn ziekte of na zijn ongeval effectief verblijft.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° afstand : de kortst mogelijke afstand, gemeten langs de rijbaan, vermeld in het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zonder rekening te houden met wegomleggingen, verkeersvrije straten, eenrichtingsverkeer en autosnelwegen;<br>
+2° betrokken personen : de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerling onder hun bewaring hebben of de meerderjarige leerling zelf;<br>
+3° chronische ziekte : een ziekte waarvoor een continue of repetitieve behandeling van minstens zes maanden noodzakelijk is;<br>
+4° lestijden : lestijden in het gewoon en buitengewoon basisonderwijs, uren-leraar in het gewoon secundair onderwijs en lesuren in het buitengewoon secundair onderwijs;<br>
+5° schoolbestuur : het schoolbestuur van het basisonderwijs, vermeld in artikel 3, 50°, van het decreet Basisonderwijs van 25 februari 1997, en het schoolbestuur, zoals vermeld in artikel 3, 40°, van de codificatie betreffende het secundair onderwijs;<br>
+6° schooljaar : de periode van 1 september tot en met 31 augustus van het daaropvolgend kalenderjaar;<br>
+7° verblijfplaats : de eigen woonplaats, de woonplaats van een verwante of derde persoon, of een medische instelling waar de leerling tijdens zijn ziekte of na zijn ongeval effectief verblijft;<br>
+8° Vlaams detentiecentrum: een Vlaams detentiecentrum als vermeld in artikel 41 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+9° voorziening veilig verblijf: een voorziening als vermeld in artikel 15 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp.<br>
+&nbsp;
 
 ## HOOFDSTUK II Tijdelijk onderwijs aan huis
 
@@ -64,6 +74,53 @@ Voor chronisch zieke leerlingen gelden die vier wekelijkse lestijden per schijf 
 <br>
 § 3. In het secundair onderwijs beslist de directeur of de klassenraad, naar keuze van het schoolbestuur, na overleg met de betrokken personen welke vakken aan huis worden onderwezen. Die vakken mogen tijdens de duurtijd van het onderwijs aan huis wisselen.<br>
 &nbsp;
+
+## HOOFDSTUK II/1 Tijdelijk onderwijs aan huis voor leerlingen die verblijven in een ziekenhuis waar geen onderwijsaanbod aanwezig is en voor leerlingen die opgenomen zijn in voorzieningen veilig verblijf en het Vlaams detentiecentrum
+
+### ART 7/1.
+
+Voor een leerling die verblijft in een ziekenhuis waar geen onderwijs van type 5 gefinancierd of gesubsidieerd wordt of dat geen dienst met onderwijsbehoeften is als vermeld in deel IV, hoofdstuk 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, geldt de voorwaarde van maximale afstand, vermeld in artikel 3, eerste lid, 2°, van dit besluit, niet. De school organiseert in de voormelde situaties altijd tijdelijk onderwijs aan huis. De voormelde verplichting blijft bestaan tijdens een verder herstel thuis en tot de leerling opnieuw naar school gaat.<br>
+<br>
+Het recht op tijdelijk onderwijs aan huis, vermeld in het eerste lid, kan overeenkomstig artikel 34, § 6 van het decreet basisonderwijs van 25 februari 1997 en artikel 117, § 6 van de Codex Secundair Onderwijs van 17 december 2010, gecombineerd worden met het recht op synchroon internetonderwijs, vermeld in artikel 36/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 117/1 van de Codex Secundair Onderwijs van 17 december 2010.
+
+### ART 7/2.
+
+In afwijking van artikel 3, 4, 5 en 7 hebben jongeren die verblijven in een voorziening veilig verblijf of in het Vlaams detentiecentrum, recht op tijdelijk onderwijs aan huis gedurende de volledige duur van hun verblijf in de voorziening veilig verblijf of het Vlaams detentiecentrum.&nbsp;<br>
+<br>
+Het recht op tijdelijk onderwijs aan huis, vermeld in het eerste lid, kan overeenkomstig artikel 34, § 6, van het decreet basisonderwijs van 25 februari 1997 en artikel 117, § 6, van de Codex Secundair Onderwijs van 17 december 2010, gecombineerd worden met het recht op synchroon internetonderwijs, vermeld in artikel 36/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 117/1 van de Codex Secundair Onderwijs van 17 december 2010.
+
+### ART 7/3.
+
+De voorziening veilig verblijf of het Vlaams detentiecentrum sluit een samenwerkingsovereenkomst met een gefinancierde of gesubsidieerde school voor gewoon of buitengewoon basisonderwijs of secundair onderwijs om het recht op tijdelijk onderwijs aan huis, vermeld in artikel 7/2 te realiseren.<br>
+&nbsp;<br>
+De samenwerkingsovereenkomst, vermeld in het eerste lid, heeft een duur van minimaal één schooljaar.
+
+### ART 7/4.
+
+Voor de voorzieningen veilig verblijf worden op schooljaarbasis met toepassing van artikel 15 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp vier lestijden tijdelijk onderwijs aan huis per erkende plaats veilig verblijf toegekend.<br>
+<br>
+Voor het Vlaams detentiecentrum worden op schooljaarbasis vier lestijden tijdelijk onderwijs aan huis toegekend per erkende plaats als vermeld in artikel 5 van het ministerieel besluit van 7 juni 2024 tot vaststelling van de capaciteit van de gemeenschapsinstellingen en het Vlaams detentiecentrum.<br>
+<br>
+Per erkende plaats in de voorzieningen veilig verblijf en het Vlaams detentiecentrum wordt 234 euro werkingsbudget voorzien.&nbsp;
+
+### ART 7/5.
+
+§1. De samenwerkingsovereenkomst, vermeld in artikel 7/3, legt vast welke school het pakket aan lestijden, lesuren of uren-leraar, vermeld in artikel 7/4, kan aanwenden om het tijdelijk onderwijs aan huis te organiseren in een voorziening veilig verblijf of in het Vlaams detentiecentrum.&nbsp;<br>
+<br>
+De school, vermeld in het eerste lid, bezorgt de volgende informatie aan het Agentschap voor Onderwijsdiensten:<br>
+1°&nbsp;&nbsp; &nbsp;de vermelding dat een onderwijsopdracht opgenomen wordt in het Vlaams detentiecentrum of een voorziening veilig verblijf;<br>
+2°&nbsp;&nbsp; &nbsp;de vermelding over welk volume het gaat;<br>
+3°&nbsp;&nbsp; &nbsp;welke personeelsleden het aanbod tijdelijk onderwijs aan huis zullen uitvoeren.<br>
+<br>
+§2. Als de jongere die verblijft in een voorziening veilig verblijf of in het Vlaams detentiecentrum, nog ingeschreven is in een andere school dan de school, vermeld in paragraaf 1, blijft de jongere in die school ingeschreven. Er is geen bijkomende inschrijving nodig in de school die het tijdelijk onderwijs aan huis organiseert.&nbsp;<br>
+<br>
+§3. De school, vermeld in paragraaf 1, werkt verder aan het curriculum dat de leerling volgde in de school waar de jongere ingeschreven is. De beide scholen maken daarover afspraken, die ze vastleggen in een individueel handelingsplan voor de jongere. In overleg met de jongere wordt bepaald welke vakken worden onderwezen. De voormelde vakken mogen tijdens de duurtijd van het tijdelijk onderwijs aan huis wisselen. De school waar de jongere ingeschreven is, staat in voor de studiebekrachtiging.&nbsp;<br>
+<br>
+Bij afwezigheid van een school van inschrijving wordt verder gewerkt aan het curriculum van de school waar de jongere het laatst ingeschreven was. De school, vermeld in paragraaf 1, bepaalt in overleg met de jongere en de voorziening veilig verblijf of het Vlaams detentiecentrum welke vakken worden onderwezen. De voormelde vakken mogen tijdens de duurtijd van het tijdelijk onderwijs aan huis wisselen. Het verder werken aan het curriculum wordt gespecificeerd in een individueel handelingsplan voor de jongere, zonder afspraken met die vroegere school waar de jongere het laatst ingeschreven was.&nbsp;<br>
+<br>
+De leerling wordt door de school, vermeld in paragraaf 1, toegeleid naar een studiebekrachtiging via de Examencommissie basisonderwijs of de Examencommissie secundair onderwijs of wordt toegeleid naar een studiebekrachtiging door de school zelf die het tijdelijk onderwijs aan huis aanbiedt of een andere school waarmee de school, vermeld in paragraaf 1, de voorziening veilig verblijf of het Vlaams detentiecentrum een samenwerking aangaan, met toepassing van artikel 34, §1, derde lid van het decreet basisonderwijs van 25 februari 1997 of artikel 117, §1, derde lid van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+§4. De samenwerkingsovereenkomst, vermeld in artikel 7/3, legt ook vast op welke wijze de voorziening veilig verblijf of het Vlaams detentiecentrum en de school die het tijdelijk onderwijs aan huis aanbiedt, toewerken naar een inschrijving in een nieuwe school als er geen school van inschrijving meer is als de jongere de voorziening veilig verblijf of het Vlaams detentiecentrum verlaat.
 
 ## HOOFDSTUK III Permanent onderwijs aan huis
 
