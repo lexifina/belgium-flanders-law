@@ -267,17 +267,17 @@ a) de eindtermen basiseducatie;<br>
 b) ...;<br>
 c) de eindtermen tweede graad arbeidsmarktfinaliteit en een of meer erkende beroepskwalificaties of deelkwalificaties;<br>
 3° de onderwijskwalificaties op niveau drie bestaan uit :<br>
-a) de eindtermen voor het tweede leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+a) ...<br>
 b) de eindtermen voor het tweede leerjaar derde graad arbeidsmarktfinaliteit en een of meer erkende beroepskwalificaties, al dan niet aangevuld met een of meer deelkwalificaties;<br>
 4° de onderwijskwalificaties op niveau vier bestaan uit :<br>
-a) de eindtermen derde graad aso, en de specifieke eindtermen voor de derde graad aso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
-b) de eindtermen derde graad tso, en de specifieke eindtermen voor de derde graad tso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
-c) de eindtermen derde graad kso, en de specifieke eindtermen voor de derde graad kso die verbonden zijn aan één of meer wetenschapsdomeinen;<br>
-d) de eindtermen derde graad tso of kso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+a) ...;<br>
+b) ...;<br>
+c) ...;<br>
+d) ...;<br>
 e) de eindtermen derde leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
 f) de eindtermen voor de aanvullende algemene vorming voor het volwassenenonderwijs en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
 g) ...;<br>
-h) de eindtermen en specifieke eindtermen zoals bepaald in&nbsp;b) of c) én één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties.<br>
+h) ...<br>
 i) de eindtermen derde graad doorstroomfinaliteit en specifieke eindtermen voor de domeinoverschrijdende (aso) en domeingebonden (tso/kso) doorstroomrichtingen van de derde graad doorstroomfinaliteit;<br>
 j) de eindtermen derde graad dubbele finaliteit en specifieke eindtermen voor de richtingen van de derde graad dubbele finaliteit (tso/kso) en een of meer erkende beroepskwalificaties, al dan niet aangevuld met een of meer deelkwalificaties;<br>
 k) de eindtermen van het structuuronderdeel se-n-se in het derde leerjaar derde graad dat volgt op structuuronderdelen van het eerste en tweede leerjaar derde graad arbeidsmarktfinaliteit en waarmee een diploma behaald kan worden dat toegang verleent tot een bacheloropleiding;<br>
