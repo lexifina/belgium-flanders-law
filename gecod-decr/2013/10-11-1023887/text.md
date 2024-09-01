@@ -14,47 +14,27 @@
 
 ### ART. I.2.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Deze codificatie is van toepassing op de universiteiten en hogescholen.</p>
+<p>§1. Deze codificatie is van toepassing op de universiteiten en hogescholen.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>§2. De artikelen I.3, 4°, 6°, 7°, 11°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 22°, 23°, 24°, 25°, 46°, 48°, 49°, 56°, 64°, 66°, 67°, 68°, 70°, 74°, 76° en 78°, II.1, II.57, II.58, II.64, II.65, II.66, II.67, II.68, II.69, II.70, II.75, II.76, II.77, II.105, II.106, II.107, II.108, II.109, II.110, II.111, II.114, II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.174, II.176, II.177, II.178, II.179, II.180, II.181, II.182, II.183, II.184, II.185, II.189, II.190, II.191, II.192, II.193, II.194, II.195, II.196, II.197, II.198, II.199, II.200, II.201, II.202, II.207, II.211, II.212, II.213, II.214, II.215, II.216, II.217, II.218, II.219, II.223, II.224, II.225, II.226, II.227, II.228, II.229, II.230, II.231, II.232, II.233, II.234, II.235, II.236, II.237, II.238, II.239, II.240, II.241, II.242, II.243, II.244, II.245, II.246, II.247, II.251, II.252, II.377, II.390, IV.84 en IV.92 zijn van toepassing op de andere ambtshalve geregistreerde instellingen voor hoger onderwijs. Deze bepalingen zijn van algemene toepassing of in zoverre het expliciet voorgeschreven is.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">§2. De artikelen I.3, 4°, 6°, 7°, 11°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 22°, 23°, 24°, 25°, 46°, 48°, 49°, 56°, 64°, 66°, 67°, 68°, 70°, 74°, 76° en 78°, II.1, II.57, II.58, II.64, II.65, II.66, II.67, II.68, II.69, II.70, II.75, II.76, II.77, II.105, II.106, II.107, II.108, II.109, II.110, II.111, II.114, II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.174, II.176, II.177, II.178, II.179, II.180, II.181, II.182, II.183, II.184, II.185, II.189, II.190, II.191, II.192, II.193, II.194, II.195, II.196, II.197, II.198, II.199, II.200, II.201, II.202, II.207, II.208, II.209, II.210, II.211, II.212, II.213, II.214, II.215, II.216, II.217, II.218, II.219, II.223, II.224, II.225, II.226, II.227, II.228, II.229, II.230, II.231, II.232, II.233, II.234, II.235, II.236, II.237, II.238, II.239, II.240, II.241, II.242, II.243, II.244, II.245, II.246, II.247, II.251, II.252, II.377, II.390, IV.84 en IV.92 zijn van toepassing op de andere ambtshalve geregistreerde instellingen voor hoger onderwijs. Deze bepalingen zijn van algemene toepassing of in zoverre het expliciet voorgeschreven is.</p>
+<p>De bepalingen van deel 2, titel 5, hoofdstuk 3 zijn van overeenkomstige toepassing op de Vlerick Business School, het Instituut voor Tropische Geneeskunde en de Antwerp Management School en Performing Arts Research and Training Studios (P.A.R.T.S.).</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>§ 3. De artikelen II.1, II.57, II.58, II.64, II.65, II.75, II.76, II.77, II.105, II.106, II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.247, II.251, II.252 en II.377 zijn van toepassing op de geregistreerde instellingen. Deze bepalingen zijn van algemene toepassing of in zoverre het expliciet voorgeschreven is.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">De bepalingen van deel 2, titel 5, hoofdstuk 3 zijn van overeenkomstige toepassing op de Vlerick Business School, het Instituut voor Tropische Geneeskunde en de Antwerp Management School.</p>
+<p>§4. De bepalingen van artikel I.3, 4°, 5°, 6°, 7°, 9°, 11°, 12°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 22°, 23°, 24°, 25°, 43°, 46°, 48°, 49°, 50°, 55°, 56°, 59°, 64°, 66°, 67°, 68°, 69° 70°, 74°, 75, 76° en 78°, deel 2, titel 3, hoofdstuk 3, van artikel II.174, van deel 2, titel 4, hoofdstuk 1, afdeling 2, van artikel II.189, II.190, II.191 en II.192, deel 2, titel 4, hoofdstuk 1, afdeling 4, deel 2, titel 4, hoofdstuk 2, afdeling 1, 2 en 4, deel 2, titel 4, hoofdstuk 4, deel 2, titel 5, hoofdstuk 4, met uitzondering van artikel II.335, deel 2, titel 5, hoofdstuk 5, 6 en 7 deel 2, titel 8, hoofdstuk 5, deel 3, titel 2, hoofdstuk 7, artikel IV.84 en IV.92 deel 5, titel 4, hoofdstuk 1 zijn van toepassing op de associaties.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>§5. De volgende artikelen en titels en/of hoofdstukken van deze codificatie zijn niet van toepassing op de publiekrechtelijke hogeschool “Hogere Zeevaartschool” : artikel I.3, 13°, 21°, 26°, 27°, 28°, 29°, 32°, 34°, 37°, 40°, 44°, 45°, 57°, 62°, 71° en 78°, artikel III.1, eerste lid en III.2, deel 3, titel 1, hoofdstuk 1, afdeling 2 en 3, artikel III.23, artikel III 24, § 1 tot en met 7, artikel III.25 tot en met III.31, artikel III.33 tot en met III.34, artikel III.35, artikel III.36,&nbsp;artikel III.39 tot en met III.43, deel 3, titel 1, hoofdstuk 2, afdeling 6, 8, 9 en 10, deel 3, titel 2, hoofdstuk 2 en 5, deel III, titel 3, hoofdstuk 3, deel 3, titel 4, artikel IV.81, IV.82, IV.83, IV.85 en IV.122. De volgende bepalingen zijn van toepassing op de Hogere Zeevaartschool: artikel III.37, artikel III.38, III.44 en III.45.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">§ 3. De artikelen II.1, II.57, II.58, II.64, II.65, II.75, II.76, II.77, II.105, II.106, II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.247, II.251, II.252 en II.377 zijn van toepassing op de geregistreerde instellingen. Deze bepalingen zijn van algemene toepassing of in zoverre het expliciet voorgeschreven is.</p>
+<p>De bepalingen van artikel I.3, 5°, 9°, 12°, 43°, 50°, 55°, 59°, 69° en 75°, deel 2, titel 5, hoofdstuk 1, 2, 3, 4, 6 en 7, deel 3, titel 2, hoofdstuk 7 en van deel 5, titel 4, hoofdstuk 1 zijn niet van toepassing op de transnationale Universiteit Limburg, met uitzondering van de bepalingen van deel 2, titel 5, hoofdstuk 3, afdeling 3, voor wat betreft studievoortgangsbeslissingen die betrekking hebben op de academische opleidingen bedoeld in artikel 3 van het Verdrag van 18 januari 2001 tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>§6. De bepalingen van deel II, titel 5, hoofdstuk 1, 2 en 3, met uitzondering van artikel II.273, II.280 en II.313, zijn mede van toepassing op de in artikel II.232 bedoelde validerende instanties.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">§4. De bepalingen van artikel I.3, 4°, 5°, 6°, 7°, 9°, 11°, 12°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 22°, 23°, 24°, 25°, 43°, 46°, 48°, 49°, 50°, 55°, 56°, 59°, 64°, 66°, 67°, 68°, 69° 70°, 74°, 75, 76° en 78°, deel 2, titel 3, hoofdstuk 3, van artikel II.174, van deel 2, titel 4, hoofdstuk 1, afdeling 2, van artikel II.189, II.190, II.191 en II.192, deel 2, titel 4, hoofdstuk 1, afdeling 4, deel 2, titel 4, hoofdstuk 2, afdeling 1, 2 en 4, deel 2, titel 4, hoofdstuk 4, deel 2, titel 5, hoofdstuk 4, met uitzondering van artikel II.335, deel 2, titel 5, hoofdstuk 5, 6 en 7 deel 2, titel 8, hoofdstuk 5, deel 3, titel 2, hoofdstuk 7, artikel IV.84 en IV.92 deel 5, titel 4, hoofdstuk 1 zijn van toepassing op de associaties.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">§5. De volgende artikelen en titels en/of hoofdstukken van deze codificatie zijn niet van toepassing op de publiekrechtelijke hogeschool “Hogere Zeevaartschool” : artikel I.3, 13°, 21°, 26°, 27°, 28°, 29°, 32°, 34°, 37°, 40°, 44°, 45°, 57°, 62°, 71° en 78°, artikel III.1, eerste lid en III.2, deel 3, titel 1, hoofdstuk 1, afdeling 2 en 3, artikel III.23, artikel III 24, § 1 tot en met 7, artikel III.25 tot en met III.31, artikel III.33 tot en met III.34, artikel III.35, artikel III.36,&nbsp;artikel III.39 tot en met III.43, deel 3, titel 1, hoofdstuk 2, afdeling 6, 8, 9 en 10, deel 3, titel 2, hoofdstuk 2 en 5, deel III, titel 3, hoofdstuk 3, deel 3, titel 4, artikel IV.81, IV.82, IV.83, IV.85 en IV.122. De volgende bepalingen zijn van toepassing op de Hogere Zeevaartschool: artikel III.37, artikel III.38, III.44 en III.45.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">De bepalingen van artikel I.3, 5°, 9°, 12°, 43°, 50°, 55°, 59°, 69° en 75°, deel 2, titel 5, hoofdstuk 1, 2, 3, 4, 6 en 7, deel 3, titel 2, hoofdstuk 7 en van deel 5, titel 4, hoofdstuk 1 zijn niet van toepassing op de transnationale Universiteit Limburg, met uitzondering van de bepalingen van deel 2, titel 5, hoofdstuk 3, afdeling 3, voor wat betreft studievoortgangsbeslissingen die betrekking hebben op de academische opleidingen bedoeld in artikel 3 van het Verdrag van 18 januari 2001 tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">§6. De bepalingen van deel II, titel 5, hoofdstuk 1, 2 en 3, met uitzondering van artikel II.273, II.280 en II.313, zijn mede van toepassing op de in artikel II.232 bedoelde validerende instanties.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">Voor de lezing van de in het eerste lid bedoelde bepalingen:</p>
-
-<p style="margin-left:18pt; margin-right:0cm">1°&nbsp;&nbsp; worden de personen die een bekwaamheidsonderzoek aanvragen als “studenten” beschouwd;</p>
-
-<p style="margin-left:18pt; margin-right:0cm">2°&nbsp;&nbsp; wordt het reglement van de validerende instantie als “onderwijs- en examenregeling” beschouwd;</p>
-
-<p style="margin-left:18pt; margin-right:0cm">3°&nbsp;&nbsp; worden de personen die op grond van EVK’s of van een bewijs van bekwaamheid een vrijstelling aanvragen als studenten beschouwd;</p>
-
-<p style="margin-left:18pt; margin-right:0cm">4°&nbsp;&nbsp; worden de personen die een aanvraag doen voor het volgen van een schakel- of voorbereidingsprogramma als studenten beschouwd.</p>
+<p>Voor de lezing van de in het eerste lid bedoelde bepalingen:<br>
+1°&nbsp;&nbsp; worden de personen die een bekwaamheidsonderzoek aanvragen als “studenten” beschouwd;<br>
+2°&nbsp;&nbsp; wordt het reglement van de validerende instantie als “onderwijs- en examenregeling” beschouwd;<br>
+3°&nbsp;&nbsp; worden de personen die op grond van EVK’s of van een bewijs van bekwaamheid een vrijstelling aanvragen als studenten beschouwd;<br>
+4°&nbsp;&nbsp; worden de personen die een aanvraag doen voor het volgen van een schakel- of voorbereidingsprogramma als studenten beschouwd.</p>
 
 ### ART. I.3.
 
@@ -67,6 +47,7 @@ a) opleidingsaccreditatie: de formele erkenning van een opleiding op grond van e
 b) instellingsreview: de periodieke beoordeling door een externe commissie van de wijze waarop een hogeronderwijsinstelling onderwijsbeleid voert en aantoont dat ze dit onderwijsbeleid op een kwaliteitsvolle manier uitvoert met inbegrip van de regie die de instelling opzet opdat de kwaliteit van haar opleidingen geborgd wordt. De commissie betrekt daarbij ook de beleidsprocessen die de instelling opzet om het onderwijs dat ze in haar opleidingen aanbiedt te ondersteunen vanuit haar opdrachten op het terrein van onderzoek en maatschappelijke en wetenschappelijke dienstverlening;<br>
 c) regie: het geheel van acties, processen, praktijken, procedures en instrumenten die de instelling in staat stelt de kwaliteit van de opleidingen te borgen;<br>
 d) toets nieuwe opleiding: een beoordeling door een externe commissie van de potentiële kwaliteit van een nieuwe opleiding als vermeld in artikel II.150 van deze codex;<br>
+<br>
 3° accreditatieorganisatie: de organisatie die bij internationaal verdrag aangewezen is om de accreditatie van opleidingen te verlenen, de toets nieuwe opleiding en de instellingsreview uit te voeren;</p>
 
 <p>4°&nbsp;&nbsp;...;</p>
@@ -184,7 +165,9 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>39°kwalificatie van een graad : toevoeging die verwijst naar de voltooide opleiding of voor wat de graad van 'doctor' betreft, naar een vakgebied;</p>
 
-<p>40°leerkrediet : het totale pakket van studiepunten dat een student gedurende zijn studieloopbaan kan inzetten voor een inschrijving onder diplomacontract in een initiële bachelor- of masteropleiding of een opleidingsonderdeel onder creditcontract en dat naargelang het aantal studiepunten waarvoor de student zich inschrijft en welke hij verwerft, kan evolueren;</p>
+<p>40°leerkrediet : het totale pakket van studiepunten dat een student gedurende zijn studieloopbaan kan inzetten voor een inschrijving onder diplomacontract in een initiële bachelor- of masteropleiding of een opleidingsonderdeel onder creditcontract en dat naargelang het aantal studiepunten waarvoor de student zich inschrijft en welke hij verwerft, kan evolueren;<br>
+<br>
+40°/1 masterpraktijkproef: een masterproef in het verkorte traject of consecutieve traject van een educatieve masteropleiding die een meerwaarde is voor de klas- en onderwijspraktijk;</p>
 
 <p>41°masterproef : werkstuk waarmee een masteropleiding wordt voltooid. Daardoor geeft een student blijk van een analytisch en synthetisch vermogen of van een zelfstandig probleemoplossend vermogen op academisch niveau of van het vermogen tot kunstzinnige schepping. Het werkstuk weerspiegelt de algemeen kritisch-reflecterende ingesteldheid of de onderzoeksingesteldheid van de student;</p>
 
@@ -326,7 +309,7 @@ k) een beslissing over substantiële verschillen in competenties als een creditb
 
 ### ART. II.1.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor de toepassing van deze   codificatie wordt verstaan onder ambtshalve geregistreerde instellingen de   hogescholen en de universiteiten, de instellingen van openbaar nut voor   postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke   dienstverlening, bedoeld in artikel II.19, II.20 en II.21 en de erkende   faculteiten der protestantse godgeleerdheid bedoeld in artikel 1, III, c), van   de wet van 11 september 1933 op de bescherming van de titels van hoger   onderwijs.</P>
+<p>Voor de toepassing van deze codificatie wordt verstaan onder ambtshalve geregistreerde instellingen de hogescholen en de universiteiten, de instellingen van openbaar nut voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening, bedoeld in artikel II.19, II.20 en II.21 en de erkende faculteiten der protestantse godgeleerdheid bedoeld in artikel 1, III, c), van de wet van 11 september 1933 op de bescherming van de titels van hoger onderwijs en Performing Arts Research and Training Studios (P.A.R.T.S.), vermeld in artikel III.119/1.</p>
 
 ### ART. II.2.
 
@@ -696,7 +679,7 @@ De accreditatieorganisatie kan het gedeelte van de toegekende financiële onders
 
 ### ART. II.31.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Deze onderafdeling is van toepassing op:<br>
+<p>Deze onderafdeling is van toepassing op:<br>
 1°&nbsp;&nbsp; de personeelsleden, die door een statuut of een arbeidsovereenkomst van onbepaalde duur verbonden zijn aan :<br>
 a)&nbsp;&nbsp;&nbsp; de diensten van het Vlaams Parlement;<br>
 b)&nbsp;&nbsp;&nbsp; de erkende politieke groepen, of de voorzitters van die groepen, van de wetgevende vergaderingen van de Staat en van de Gemeenschappen of de Gewesten;<br>
@@ -709,7 +692,7 @@ h)&nbsp;&nbsp; een hogeschool in de Vlaamse Gemeenschap;<br>
 i)&nbsp;&nbsp;&nbsp;&nbsp; de Vlerick Business School;<br>
 j)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het Instituut voor Tropische Geneeskunde;<br>
 k)&nbsp;&nbsp;&nbsp; de Antwerp Management School;<br>
-l)&nbsp;&nbsp;&nbsp;&nbsp; de Evangelische Theologische Faculteit in Heverlee;<br>
+l)&nbsp;&nbsp;&nbsp;&nbsp; de Evangelische Theologische Faculteit Leuven;<br>
 m) de Faculteit voor Protestantse Theologie en Religiestudies in Brussel;<br>
 n)&nbsp;&nbsp; de Vlaamse Universiteiten en Hogescholen Raad;<br>
 o) de diensten van de Vlaamse overheid.<br>
@@ -774,19 +757,23 @@ De leden van het verzelfstandigd orgaan, vermeld in het eerste lid, moeten exper
 
 ### ART. II.41.
 
-<P style="MARGIN: 0cm 0cm 0pt">De Vlaamse Interuniversitaire Raad bestaat uit de volgende leden die de   universiteiten vertegenwoordigen: <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; de Universiteit Gent, de   Katholieke Universiteit Leuven, de Vrije Universiteit Brussel, en de   Universiteit Antwerpen, worden ieder vertegenwoordigd door 2 leden : de rector   en een ander lid, dat door de raad van beheer of de Raad van de universiteit   wordt afgevaardigd; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; de Universiteit Hasselt wordt   vertegenwoordigd door 1 lid : de rector. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De leden niet-rectoren worden aangesteld voor een periode van 4 jaar.   Zij zijn herbenoembaar. Hun mandaat eindigt door de herroeping van hun   voordracht door de instelling die zij vertegenwoordigen. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
-
-### ART. II.42.
-
-<p>In de schoot van de Vlaamse Interuniversitaire Raad kiezen de leden, voor de duur van 2 jaar, 1 voorzitter, 3 ondervoorzitters en 1 secretaris. Zij zijn herkiesbaar. <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+<p>De Vlaamse Interuniversitaire Raad bestaat uit de volgende leden die de universiteiten vertegenwoordigen: <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+1°&nbsp;&nbsp; de Universiteit Gent, de Katholieke Universiteit Leuven, de Vrije Universiteit Brussel, en de Universiteit Antwerpen, worden ieder vertegenwoordigd door 2 stemgerechtigde leden : de rector en een ander lid, dat door de raad van beheer of de Raad van de universiteit wordt afgevaardigd;<br>
+2°&nbsp;&nbsp; de Universiteit Hasselt wordt vertegenwoordigd door 1 stemgerecht lid : de rector.<br>
+<br>
+De universiteiten kunnen beslissen om de Raad uit te breiden met niet-stemgerechtigde leden.<br>
+<br>
+Het mandaat van de stemgerechtigde en niet-stemgerechtigde leden eindigt door de herroeping van hun voordracht door de instelling die zij vertegenwoordigen.</p>
 
 <p>&nbsp;</p>
 
-<p>Vier van deze personen moeten respectievelijk de in artikel II.41, 1° genoemde instellingen vertegenwoordigen. De vijfde persoon vertegenwoordigt de in artikel II.41, 2°, genoemde instelling.</p>
+### ART. II.42.
+
+<p>In de schoot van de Vlaamse Interuniversitaire Raad kiezen de leden, voor de duur van 2 jaar, onder de leden-rectoren één voorzitter en één ondervoorzitter.</p>
 
 ### ART. II.43.
 
-<p>De Raad kan slechts beraadslagen, indien ten minste 5 van de 8 in artikel II.41 genoemde instellingen vertegenwoordigd en ten minste 6 leden van de Raad aanwezig zijn.<br>
+<p>De Raad kan slechts beraadslagen, indien ten minste 4 van de 5 in artikel II.41 genoemde instellingen vertegenwoordigd en ten minste 6 stemgerechtigde leden van de Raad aanwezig zijn.<br>
 <br>
 Beslissingen worden genomen met een meerderheid gevormd door twee derde van het aantal stemmen van de aanwezige leden.<br>
 <br>
@@ -798,11 +785,15 @@ Aan voorstellen of adviezen van de Raad kunnen minderheidsnota's worden toegevoe
 
 ### ART. II.45.
 
-<P style="MARGIN: 0cm 0cm 0pt">De Vlaamse Interuniversitaire Raad bepaalt zijn reglement van orde en   zijn vestigingsplaats. De Vlaamse Regering keurt ze goed.<?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>De Vlaamse Interuniversitaire Raad bepaalt zijn reglement van orde en zijn vestigingsplaats.&nbsp;<!--?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. II.46.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. De universiteiten, bedoeld in artikel II.2, sluiten een   overeenkomst, waarbij bepaald wordt dat de werking van de Vlaamse   Interuniversitaire Raad zal mogelijk gemaakt worden door jaarlijkse eigen   bedragen waarvan de bedragen proportioneel zullen zijn met de door de Staat   verleende werkingstoelagen. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De overeenkomst dient gesloten voor een periode van 9 jaar. Zij wordt na   deze periode telkens met 3 jaar verlengd. Ter gelegenheid van de verlenging is   zij voor wijzigingen vatbaar. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De overeenkomst, alsook alle wijzigingen ervan, worden goedgekeurd door   de Vlaamse minister, bevoegd voor het onderwijs en voor wetenschap en innovatie.   </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De werkingsmiddelen van de Vlaamse Interuniversitaire Raad kunnen   verhoogd worden door toelagen vanwege de overheid, door schenkingen en giften en   door welkdanige inkomsten voortkomend uit zijn werking of zijn   patrimonium.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
+<p>§1. De universiteiten, bedoeld in artikel II.2, sluiten een overeenkomst, waarbij bepaald wordt dat de werking van de Vlaamse Interuniversitaire Raad zal mogelijk gemaakt worden door jaarlijkse eigen bedragen waarvan de bedragen proportioneel zullen zijn met de door de Staat verleende werkingstoelagen.<br>
+<br>
+§2. De werkingsmiddelen van de Vlaamse Interuniversitaire Raad kunnen verhoogd worden door toelagen vanwege de overheid, door schenkingen en giften en door welkdanige inkomsten voortkomend uit zijn werking of zijn patrimonium.</p>
+
+<p>&nbsp;</p>
 
 ### ART. II.47.
 
@@ -1747,7 +1738,7 @@ Vanaf het academiejaar 2022-2023 kan het overeenstemmende diploma van bachelor n
 
 ### ART. II.105.
 
-<P style="MARGIN: 0cm 0cm 0pt">Als ambtshalve geregistreerde instelling voor hoger onderwijs kan de   Evangelische Theologische Faculteit te Heverlee in het studiegebied   godsdienstwetenschappen en godgeleerdheid de graden van bachelor, master en   doctor verlenen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>Als ambtshalve geregistreerde instelling voor hoger onderwijs kan de Evangelische Theologische Faculteit, Leuven in het studiegebied godsdienstwetenschappen en godgeleerdheid de graden van bachelor, master en doctor verlenen.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. II.106.
 
@@ -1797,18 +1788,18 @@ Met behoud van de toepassing van het eerste lid is een LIO-baan in het basisonde
 
 ### ART. II.109.
 
-Onverminderd het aanbieden van de lerarenopleidingen, vermeld in artikel II.111, hebben de hogescholen en universiteiten die lerarenopleidingen aanbieden, en de Evangelische Theologische Faculteit,&nbsp;de volgende opdrachten :<br>
+Onverminderd het aanbieden van de lerarenopleidingen, vermeld in artikel II.111, hebben de hogescholen en universiteiten die lerarenopleidingen aanbieden, en de Evangelische Theologische Faculteit, Leuven,&nbsp;de volgende opdrachten :<br>
 1° mee instaan voor de verdere ontwikkeling in het professionele continuüm en de ontwikkeling van het reflectieve vermogen bij aspirant-leraren;<br>
 2° een aanbod ontwikkelen voor professionalisering en permanente vorming, met een kwaliteitsvol en complementair team van lerarenopleiders, zeker ook op het vlak van het hebben van voldoende ervaring in het lesgeven zelf, en zo de brug slaan tussen de lerarenopleidingen, de pedagogische begeleidingsdiensten en de andere aanbieders van professionalisering voor leraren;<br>
 3° de aanvangsbegeleiding van beginnende leraren ondersteunen, onder verantwoordelijkheid van de school waar die leraren werken, en samen met de pedagogische begeleidingsdiensten.
 
 ### ART. II.110.
 
-§ 1. De hogescholen en/of universiteiten en/of de Evangelische Theologische Faculteit&nbsp;kunnen een overeenkomst sluiten over de organisatie van de lerarenopleidingen, namelijk over de onderwijs- en studieactiviteiten, de kwaliteitszorg en het gebruik van infrastructuur, zoals voorzien in artikel II.173.<br>
+§ 1. De hogescholen en/of universiteiten en/of de Evangelische Theologische Faculteit, Leuven kunnen een overeenkomst sluiten over de organisatie van de lerarenopleidingen, namelijk over de onderwijs- en studieactiviteiten, de kwaliteitszorg en het gebruik van infrastructuur, zoals voorzien in artikel II.173.<br>
 <br>
 § 2. De Vlaamse Regering kan middelen toekennen voor initiatieven die de kwaliteit van de lerarenopleidingen verbeteren en/of de samenwerking tussen lerarenopleidingen bevorderen. Hiertoe zal ze ten minste om de vijf jaar de beleidsprioriteiten vastleggen.<br>
 <br>
-Die initiatieven kunnen georganiseerd worden door hogescholen en/of universiteiten en/of de Evangelische Theologische Faculteit&nbsp;die een of meer lerarenopleidingen organiseren.<br>
+Die initiatieven kunnen georganiseerd worden door hogescholen en/of universiteiten en/of de Evangelische Theologische Faculteit, Leuven die een of meer lerarenopleidingen organiseren.<br>
 <br>
 De Vlaamse Regering stelt nadere inhoudelijke, organisatorische en procedurele regels vast voor de toekenning van de middelen.
 
@@ -1908,7 +1899,25 @@ Als toelatingsvoorwaarde voor een educatieve masteropleiding voor kunstvakken wa
 <br>
 § 6. In afwijking van paragraaf 4 kan een universiteit een educatieve masteropleiding organiseren in de vorm van een consecutief traject, als het gaat om een educatieve masteropleiding binnen het studiegebied Biomedische wetenschappen, Geneeskunde, of Sociale gezondheidswetenschappen, of als de educatieve masteropleiding volgt op een masteropleiding die een bacheloropleiding in het hoger professioneel onderwijs als algemene toelatingsvoorwaarde heeft, met toepassing van artikel II.182, § 2/1.<br>
 <br>
-&nbsp;§ 7. De Evangelische Theologische Faculteit in Heverlee kan een educatieve masteropleiding voor secundair onderwijs aanbieden overeenkomstig de bepalingen, vermeld in paragraaf 1 tot en met 4 van dit artikel.
+&nbsp;§ 7. De Evangelische Theologische Faculteit, Leuven kan een educatieve masteropleiding voor secundair onderwijs aanbieden overeenkomstig de bepalingen, vermeld in paragraaf 1 tot en met 4 van dit artikel.
+
+### ART II.114/1.
+
+Vanaf het academiejaar 2025-2026 kan een masteropleiding voor basisonderwijs aangeboden worden, die gericht is op het lesgeven in het basisonderwijs en op het uitbouwen van wetenschappelijke expertise die kan worden ingezet in het basisonderwijs ter versterking van de eigen klaspraktijk, het schoolbeleid en de schoolontwikkeling.<br>
+<br>
+In toepassing van artikel II.68 worden de domeinspecifieke leerresultaten van deze opleiding gezamenlijk opgesteld door de betrokken universiteiten en hogescholen en gevalideerd door de accreditatieorganisatie.<br>
+<br>
+In afwijking van artikel II.59 en II.71 wordt de masteropleiding voor basisonderwijs gezamenlijk aangeboden door een universiteit en een of meer hogescholen.<br>
+&nbsp;<br>
+De betrokken universiteit reikt het diploma en de graad van master uit in het studiegebied psychologie en pedagogische wetenschappen en in het studiegebied onderwijs. De betrokken hogeronderwijsinstellingen vragen hiervoor gezamenlijk een ‘toets nieuwe opleiding’ aan bij de accreditatieorganisatie volgens de procedure, vermeld in deel 2, titel 3, hoofdstuk 9, afdeling 3/1. De accreditatieorganisatie gaat na of er effectief sprake is van een structurele en duurzame samenwerking tussen de hogescholen en de universiteiten. De accreditatieorganisatie kan enkel een positief accreditatiebesluit verlenen als er effectief sprake is van een structurele en duurzame samenwerking. Een tweede voorwaarde is een ruime betrokkenheid van het afnemend veld bij de opmaak van het curriculum. De bepalingen in artikel II.153, §2 tot en met §6, zijn niet van toepassing op de masteropleiding voor basisonderwijs.<br>
+<br>
+De Vlaamse Regering kan maximaal vijf masteropleidingen voor basisonderwijs erkennen. Elke opleiding kan op slechts één vestiging worden aangeboden én in West-Vlaanderen voor de universiteiten die daar een vestigingsplaats hebben. Bovendien hebben de hogeronderwijsinstellingen de mogelijkheid om maximaal een derde van de studiepunten van de masteropleiding in co-creatie te organiseren op de vestigingsplaatsen van de hogescholen waarmee de universiteit de masteropleiding gezamenlijk aanbiedt.<br>
+<br>
+Deel 2, titel 3, hoofdstuk 5, is voor deze erkenning niet van toepassing.<br>
+<br>
+De Vlaamse Regering kan een masteropleiding voor basisonderwijs erkennen na ontvangst van een positief toetsingsbesluit van de accreditatieorganisatie, vermeld in deel 2, titel 3, hoofdstuk 9, afdeling 3/1, onderafdeling 4. De Vlaamse Regering neemt het besluit tot erkenning van de nieuwe opleiding binnen een ordetermijn van dertig dagen, die ingaat de dag na de dag van de ontvangst van het positief toetsingsbesluit en het onderliggende beoordelingsrapport van de accreditatieorganisatie. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling. De opleiding krijgt een erkenning als nieuwe opleiding tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang van de masteropleiding voor basisonderwijs voor de eerste keer geheel doorlopen werd.<br>
+<br>
+De hogescholen en de universiteiten die de gezamenlijk georganiseerde masteropleiding voor basisonderwijs aanbieden, sluiten een overeenkomst die afspraken bevat omtrent het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen. De financiering vanuit de werkingsenveloppe wordt als volgt verdeeld: de opgenomen studiepunten in een master basisonderwijs worden naar rato van de werklast verdeeld over de verschillende aanbieders, met minstens 30% voor de deelnemende hogescholen.
 
 ### ART. II.115.
 
@@ -2298,7 +2307,7 @@ Als een graduaatsopleiding gerangschikt is in meer dan één studiegebied en ze 
 
 ### ART. II.153.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Een in artikel II.152, eerste lid bedoeld besluit van de Vlaamse Regering komt tot stand overeenkomstig de procedure die in dit artikel chronologisch wordt omschreven.<br>
+<p>§1. Een in artikel II.152, eerste lid bedoeld besluit van de Vlaamse Regering komt tot stand overeenkomstig de procedure die in dit artikel chronologisch wordt omschreven.<br>
 <br>
 De regelen bepaald in&nbsp;paragraaf 2, 3, 3/1, 4, 5 en 6, eerste lid zijn niet van toepassing op de geregistreerde instellingen. Zij dienen onmiddellijk een dossier in bij de accreditatieorganisatie, rekening houdend met het bepaalde in paragraaf 6, derde lid. Dit geldt ook voor de ambtshalve geregistreerde instellingen die in overeenstemming met artikel II.103 een nieuwe opleiding buiten het Belgische grondgebied willen starten. Dat geldt ook voor de educatieve graduaatsopleidingen, vermeld in artikel II.112, en de educatieve masteropleidingen, vermeld in artikel II.114, die met ingang van het academiejaar 2019-2020 aangeboden worden door de hogescholen en universiteiten. De hogescholen en universiteiten dienen hun dossier bij de accreditatieorganisatie in uiterlijk vóór 15 oktober van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden. De Vlaamse Regering kan het gehanteerde toetsingskader, vermeld in paragraaf 7, voor deze opleidingen aanpassen. De regels, vermeld in paragraaf 2, paragraaf 3, 6°, en paragraaf 3/1, zijn niet van toepassing op de andere ambtshalve geregistreerde instellingen. De andere ambtshalve geregistreerde instellingen dienen onmiddellijk een dossier in bij de Commissie Hoger Onderwijs voor 1 maart van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden.<br>
 <br>
@@ -2364,6 +2373,8 @@ Een positief besluit over de aanvraag van een graduaatsopleiding van het hoger b
 De Vlaamse Regering kan op basis van een advies van de accreditatieorganisatie de geldigheidsduur van een positief besluit over de aanvraag van een opleiding verlengen ter vrijwaring van de gelijktijdige en geclusterde organisatie van externe beoordelingen. De totale duur van de erkenning als nieuwe opleiding kan nooit meer dan acht academiejaren zijn.<br>
 <br>
 In afwijking van het derde lid bedraagt de geldigheidsduur van de positieve besluiten over de aanvragen van de opleidingen van het hoger beroepsonderwijs die zijn verleend tijdens het academiejaar 2014-2015, zes jaar vanaf het academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
+<br>
+Een besluit van de Vlaamse Regering over de erkenning van een nieuwe bachelor of masteropleiding vervalt automatisch als het instellingsbestuur de opleiding niet start in het derde academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
 <br>
 § 9. Aanvragen voor nieuwe opleidingen ingediend voor 1 maart 2017 bij de Commissie Hoger Onderwijs worden erkend volgens de vereisten van artikels II.152 en II.153 zoals van toepassing voor 1 januari 2018.<br>
 <br>
@@ -2879,10 +2890,13 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 4° voor de opleidingen die een positief accreditatiebesluit met een beperkte geldigheidsduur hebben ontvangen als vermeld in artikel II.170/13, § 4, 2° ;<br>
 5° na een negatief besluit instellingsreview, voor de opleidingen waarvan de accreditatietermijn vervalt, vermeld in artikel II.170/8, § 1, 3° ;<br>
 6° voor de graduaatsopleidingen die zijn omgevormd en erkend als nieuwe opleiding conform de procedure, vermeld in artikel II.395.<br>
+7° voor de anderstalige initiële bachelor- of masteropleidingen die de toelating kregen om georganiseerd te worden conform artikel II.263, §3, vierde lid, 1°, als de aanvraag bij de Commissie Hoger Onderwijs gebeurde na 1 september 2024.<br>
 <br>
 De accreditatie van gezamenlijk georganiseerde opleidingen die voltooid worden met een gezamenlijk diploma als vermeld in artikel II.171, wordt verleend op gezamenlijke aanvraag van de betrokken Vlaamse instellingsbesturen.<br>
 <br>
 De accreditatieaanvraag wordt ingediend uiterlijk acht maanden voor de lopende accreditatie of de erkenning als nieuwe opleiding verstrijkt. De termijnen worden berekend van maand tot maand en van dag tot dag. In die termijnen is de dag waarop de termijn verstrijkt inbegrepen.<br>
+<br>
+In afwijking van het tweede lid dient er voor het gezamenlijk organiseren door meerdere hogeronderwijsinstellingen van een verkort traject van opleidingen die geaccrediteerd zijn bij elk van de betrokken instellingen geen accreditatieaanvraag te worden ingediend.<br>
 <br>
 § 2. Als een instelling een negatief besluit instellingsreview heeft, dan kan de accreditatieorganisatie, in overleg met de betrokken instelling, de accreditatietermijn van de opleidingen waarvan de accreditatietermijn vervalt in de geldigheidsduur van het negatief besluit, aanpassen. In dat geval wordt ervoor gezorgd dat alle opleidingen waarvan de accreditatietermijn vervalt in deze geldigheidsduur van het negatieve besluit een nieuwe accreditatie aanvragen binnen de geldigheidsduur van dit negatief besluit.<br>
 <br>
@@ -2952,7 +2966,7 @@ De beperkte geldigheidsduur wordt in geval van een nieuw positief accreditatiebe
 <br>
 De accreditatie van gezamenlijk georganiseerde opleidingen die voltooid worden met een gezamenlijk diploma wordt verleend op gezamenlijke aanvraag van de betrokken instellingsbesturen.<br>
 <br>
-De accreditatieaanvraag wordt ingediend uiterlijk vier maanden voor de geldigheid van de lopende accreditatie of de erkenning als nieuwe opleiding verstrijkt. De termijnen worden berekend van maand tot maand en van dag tot dag. In de termijnen is de dag waarop de termijn verstrijkt inbegrepen.<br>
+De accreditatieaanvraag wordt ingediend uiterlijk zes maanden voor de geldigheid van de lopende accreditatie of de erkenning als nieuwe opleiding verstrijkt. De termijnen worden berekend van maand tot maand en van dag tot dag. In de termijnen is de dag waarop de termijn verstrijkt inbegrepen.<br>
 <br>
 Het instellingsbestuur vraagt een accreditatie aan binnen twee maanden na de publicatie van de externe beoordeling, vermeld in artikel II.170/17, § 1.<br>
 <br>
@@ -3026,31 +3040,23 @@ De beperkte geldigheidsduur wordt in geval van een nieuw positief accreditatiebe
 
 ### ART. II.171.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Twee of meer universiteiten kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van bachelor, master of doctor verlenen aan de student die met succes een door de betrokken universiteiten gezamenlijk georganiseerde opleiding heeft voltooid of na de succesvolle openbare verdediging van een proefschrift voorbereid onder gezamenlijke supervisie.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. Twee of meer hogescholen kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van gegradueerde, bachelor of master verlenen aan de student die met succes een door de betrokken hogescholen gezamenlijk georganiseerde opleiding heeft voltooid.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§3. Twee of meer hogescholen of 2 of meer universiteiten kunnen een in paragraaf 1 en paragraaf 2 bedoelde gezamenlijke opleiding aanbieden die over 2 of meer studiegebieden heen gerangschikt wordt, als de betrokken instellingen in elk van de betreffende studiegebieden onderwijsbevoegdheid hebben.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Indien het gaat om een bacheloropleiding die volgt op een andere bacheloropleiding of om een masteropleiding die volgt op een andere masteropleiding dan volstaat het dat elk van de betrokken instellingen onderwijsbevoegdheid heeft in ten minste 1 van de betreffende studiegebieden waarin de gezamenlijke opleiding wordt gerangschikt.<br>
+<p>§1. Twee of meer universiteiten kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van bachelor, master of doctor verlenen aan de student die met succes een door de betrokken universiteiten gezamenlijk georganiseerde opleiding heeft voltooid of na de succesvolle openbare verdediging van een proefschrift voorbereid onder gezamenlijke supervisie.<br>
+<br>
+§2. Twee of meer hogescholen kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van gegradueerde, bachelor of master verlenen aan de student die met succes een door de betrokken hogescholen gezamenlijk georganiseerde opleiding heeft voltooid.<br>
+<br>
+§3. Twee of meer hogescholen of 2 of meer universiteiten kunnen een in paragraaf 1 en paragraaf 2 bedoelde gezamenlijke opleiding aanbieden die over 2 of meer studiegebieden heen gerangschikt wordt, als de betrokken instellingen in elk van de betreffende studiegebieden onderwijsbevoegdheid hebben.<br>
+<br>
+Indien het gaat om een bacheloropleiding die volgt op een andere bacheloropleiding of om een masteropleiding die volgt op een andere masteropleiding dan volstaat het dat elk van de betrokken instellingen onderwijsbevoegdheid heeft in ten minste 1 van de betreffende studiegebieden waarin de gezamenlijke opleiding wordt gerangschikt.<br>
 <br>
 § 3/1. De vereiste met betrekking tot de onderwijsbevoegdheid, vermeld in paragraaf 1 tot en met 3, is niet van toepassing als het gaat om een opleiding die door alle hogescholen respectievelijk alle universiteiten gezamenlijk wordt aangeboden als vermeld in die paragrafen.<br>
 <br>
-Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in het eerste lid, geen rechten met betrekking tot onderwijsbevoegdheid putten voor bestaande of nieuwe opleidingen die niet voldoen aan de voorwaarde dat zij door alle hogescholen respectievelijk alle universiteiten gezamenlijk worden aangeboden.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. De hogescholen of de universiteiten die een gezamenlijk georganiseerde opleiding zoals bedoeld in paragraaf 1 en paragraaf 2 aanbieden, sluiten een overeenkomst die afspraken bevat omtrent het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§5. Universiteiten of hogescholen kunnen voor de toepassing van dit artikel besluiten de uitreiking van gezamenlijke diploma’s te differentiëren per afstudeerrichting.</p>
+Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in het eerste lid, geen rechten met betrekking tot onderwijsbevoegdheid putten voor bestaande of nieuwe opleidingen die niet voldoen aan de voorwaarde dat zij door alle hogescholen respectievelijk alle universiteiten gezamenlijk worden aangeboden.&nbsp;<br>
+<br>
+§4. De hogescholen of de universiteiten die een gezamenlijk georganiseerde opleiding zoals bedoeld in paragraaf 1 en paragraaf 2 aanbieden, sluiten een overeenkomst die afspraken bevat omtrent het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen.<br>
+<br>
+§5. Universiteiten of hogescholen kunnen voor de toepassing van dit artikel besluiten de uitreiking van gezamenlijke diploma’s te differentiëren per afstudeerrichting.<br>
+<br>
+§6. Als de aanvangsdatum van de erkenningen als nieuwe opleiding of van de accreditatie van de opleidingen die als een gezamenlijk verkort traject worden georganiseerd als vermeld in artikel II.170/9, §1, vierde lid, verschillend is, dan geldt als aanvangsdatum van de erkenning als nieuwe opleiding of van de accreditatie van dit gezamenlijk georganiseerd verkort traject de vroegste aanvangsdatum van de apart georganiseerde opleidingen van de betrokken instellingen.</p>
 
 ### ART. II.172.
 
@@ -3513,7 +3519,9 @@ Deze verplichting geldt niet voor:<br>
 <br>
 Onverminderd de regels rond het leerkrediet heeft een student aan wie in het kader van een bepaalde opleiding geen bindende voorwaarde als vermeld in artikel II.246, §1, derde lid, §3, tweede lid, en §4, tweede en derde lid, wordt opgelegd en die in een vorig academiejaar niet voor alle opgenomen opleidingsonderdelen een creditbewijs of een deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, het recht om jaarlijks 72 studiepunten in die opleiding op te nemen, tenzij volgtijdelijkheid als vermeld in paragraaf 5, dat niet toelaat.<br>
 <br>
-§ 7. Een student die niet voor alle opgenomen opleidingsonderdelen een creditbewijs of deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, schrijft zich bij een volgende inschrijving in die opleiding ten minste opnieuw in voor alle opleidingsonderdelen waarvoor hij geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet. Als het gaat om een keuzeopleidingsonderdeel of om de opleidingsonderdelen van een bepaalde afstudeerrichting of van een onderwijsvak als vermeld in artikel II.113, kan de student opteren voor een vervangend keuzeopleidingsonderdeel of voor de opleidingsonderdelen van een andere afstudeerrichting of de opleidingsonderdelen van een ander onderwijsvak, binnen de geldende afspraken van de instelling in kwestie.</p>
+§ 7. Een student die niet voor alle opgenomen opleidingsonderdelen een creditbewijs of deliberatiecijfer heeft verworven of een tolerantie heeft ingezet, schrijft zich bij een volgende inschrijving in die opleiding ten minste opnieuw in voor alle opleidingsonderdelen waarvoor hij geen creditbewijs of deliberatiecijfer heeft verworven of geen tolerantie heeft ingezet. Als het gaat om een keuzeopleidingsonderdeel of om de opleidingsonderdelen van een bepaalde afstudeerrichting of van een onderwijsvak als vermeld in artikel II.113, kan de student opteren voor een vervangend keuzeopleidingsonderdeel of voor de opleidingsonderdelen van een andere afstudeerrichting of de opleidingsonderdelen van een ander onderwijsvak, binnen de geldende afspraken van de instelling in kwestie.<br>
+<br>
+Van de verplichting, vermeld in het eerste lid, kan worden afgeweken als de student kan aantonen dat er sprake is van overmacht of bijzondere individuele omstandigheden.</p>
 
 ### ART. II.201.
 
@@ -3715,7 +3723,7 @@ De referentiedatum voor de jaarlijkse aanpassing is 1 september 2003.</p>
 
 ### ART. II.221.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Het instellingsbestuur stelt een onderwijsreglement op. Dit omvat ten minste:<br>
+<p>§1. Het instellingsbestuur stelt een onderwijsreglement op. Dit omvat ten minste:<br>
 1°&nbsp;&nbsp; voor elke bachelor- en masteropleiding : de graad waartoe de opleiding leidt, de kwalificatie van de graad en desgevallend de specificatie van de graad;<br>
 2°&nbsp;&nbsp; voor elke opleiding van het hoger beroepsonderwijs :<br>
 a)&nbsp;&nbsp;&nbsp; het diploma waartoe de opleiding leidt;<br>
@@ -3772,7 +3780,7 @@ d)&nbsp;&nbsp;&nbsp; het opleggen van een in artikel II.246 bedoelde maatregel v
 19°de procedure die studenten met functiebeperkingen dienen te volgen om redelijke aanpassingen aan te vragen en de wijze waarop ze binnen de instelling beroep kunnen aantekenen tegen een weigering van aanpassingen;<br>
 20° in voorkomend geval: de bijkomende inschrijvingsvoorwaarde van het afleggen van een starttoets en de verplichte remediëring, vermeld in artikel II.188/1, die wordt opgelegd met verwijzing naar het geldende instellingsoverschrijdend reglement;<br>
 21° de maatregelen van studievoortgangsbewaking die kunnen worden opgelegd conform artikel II.246;<br>
-22° de wijze waarop omgegaan wordt met overmacht en bijzondere individuele omstandigheden in het kader van de maatregelen van studievoortgangsbewaking, vermeld in artikel II.246;<br>
+22° de wijze waarop omgegaan wordt met overmacht en bijzondere individuele omstandigheden in het kader van de maatregelen van studievoortgangsbewaking, vermeld in artikel II.246 en in artikel II.200, §7, tweede lid;<br>
 23° de grens vanaf wanneer een inschrijving kan geweigerd worden in eenzelfde initiële bacheloropleiding, vermeld in artikel II.246, § 3, vierde lid;<br>
 24° de grens vanaf wanneer een instelling studieadvies geeft, vermeld in artikel II.246, § 10;<br>
 25° de bijzondere statuten toegekend aan een groep van studenten en de voorwaarden en modaliteiten voor de toekenning hiervan<br>
@@ -4045,25 +4053,18 @@ De beslissing om een stage of praktisch opleidingsonderdeel vroegtijdig te beëi
 
 ### ART. II.256.
 
-<p style="margin-left:0cm; margin-right:0cm">De Vlaamse Regering bepaalt de voorwaarden en de procedure tot de erkenning van de volledige gelijkwaardigheid van studiebewijzen die niet in een besluit zoals bedoeld in artikel II.255 zijn opgenomen met de in dit decreet bepaalde graden.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">De Vlaamse Regering garandeert bij de uitvoering van de voorgaande bepalingen dat de bepalingen en de principes van het Verdrag van de Raad van Europa en de Unesco betreffende de erkenning van diploma’s hoger onderwijs in de Europese Regio, opgemaakt in Lissabon op 11 april 1997, goedgekeurd bij decreet van 15 december 2006 en geratificeerd op 22 juli 2009 worden toegepast voor zover het land van herkomst het verdrag ook heeft geratificeerd.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">Elke beslissing tot erkenning van de volledige gelijkwaardigheid genomen krachtens dit artikel hanteert de onderwijskwalificaties beschreven krachtens het decreet van 30 april 2009 betreffende de kwalificatiestructuur dan wel de gevalideerde domeinspecifieke leerresultaten bedoeld in de artikelen 16, 17 en 18 van hetzelfde decreet als referentiekader. Bij ontstentenis van de onderwijskwalificaties worden de opleidingsprofielen bepaald krachtens het decreet van 15 juni 2007 betreffende het volwassenenonderwijs als referentiekader gebruikt. Bij ontstentenis van de domeinspecifieke leerresultaten worden de referentiekaders van de visitatierapporten als bedoeld in artikel 51 van hetzelfde decreet als referentiekader gebruikt. In het geval van niveaugelijkwaardigheid worden de niveaudescriptoren als beschreven in artikel II.141 als referentiekader gebruikt.</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">De financiële bijdrage die de houder van een buitenlands studiebewijs moet betalen aan de erkenningsautoriteit voor een onderzoek met betrekking tot de erkenning van het buitenlands studiebewijs uitgereikt in het hoger onderwijs en het onderzoek met betrekking tot de niveaugelijkwaardigheid bedraagt :<br>
+<p>De Vlaamse Regering bepaalt de voorwaarden en de procedure tot de erkenning van de volledige gelijkwaardigheid van studiebewijzen die niet in een besluit zoals bedoeld in artikel II.255 zijn opgenomen met de in dit decreet bepaalde graden.<br>
+<br>
+De Vlaamse Regering garandeert bij de uitvoering van de voorgaande bepalingen dat de bepalingen en de principes van het Verdrag van de Raad van Europa en de Unesco betreffende de erkenning van diploma’s hoger onderwijs in de Europese Regio, opgemaakt in Lissabon op 11 april 1997, goedgekeurd bij decreet van 15 december 2006 en geratificeerd op 22 juli 2009 worden toegepast voor zover het land van herkomst het verdrag ook heeft geratificeerd.<br>
+<br>
+Elke beslissing tot erkenning van de volledige gelijkwaardigheid genomen krachtens dit artikel hanteert de onderwijskwalificaties beschreven krachtens het decreet van 30 april 2009 betreffende de kwalificatiestructuur dan wel de gevalideerde domeinspecifieke leerresultaten bedoeld in de artikelen 16, 17 en 18 van hetzelfde decreet als referentiekader. Bij ontstentenis van de onderwijskwalificaties worden de opleidingsprofielen bepaald krachtens het decreet van 15 juni 2007 betreffende het volwassenenonderwijs als referentiekader gebruikt. Bij ontstentenis van de domeinspecifieke leerresultaten worden de referentiekaders van de visitatierapporten als bedoeld in artikel 51 van hetzelfde decreet als referentiekader gebruikt. In het geval van niveaugelijkwaardigheid worden de niveaudescriptoren als beschreven in artikel II.141 als referentiekader gebruikt.<br>
+<br>
+De financiële bijdrage die de houder van een buitenlands studiebewijs moet betalen aan de erkenningsautoriteit voor een onderzoek met betrekking tot de erkenning van het buitenlands studiebewijs uitgereikt in het hoger onderwijs en het onderzoek met betrekking tot de niveaugelijkwaardigheid bedraagt :<br>
 1°&nbsp;&nbsp; 300 euro voor een onderzoek met betrekking tot de erkenning van de buitenlandse graad van doctor;<br>
 2°&nbsp;&nbsp; 180 euro voor een onderzoek met betrekking tot de erkenning van het buitenlands studiebewijs uitgereikt in het hoger onderwijs;<br>
-3°&nbsp;&nbsp; 90 euro voor een onderzoek met betrekking tot de niveaugelijkwaardigheid.</p>
-
-<p style="margin-left:18pt; margin-right:0cm">&nbsp;</p>
-De in het vierde lid vermelde bedragen worden aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de jaarlijkse aanpassing is 1 september 2013. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal. De Vlaamse Regering kan het bedrag verminderen voor specifieke doelgroepen. Voor asielzoekers, vluchtelingen, vreemdelingen die tijdelijke bescherming genieten op basis van de richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen en subsidiair beschermden is de behandeling van de erkenningsaanvraag gratis. De Vlaamse Regering kan de voorwaarden bepalen voor een versnelde procedure tot de erkenning van de individuele gelijkwaardigheid van buitenlandse studiebewijzen. De Vlaamse Regering kan het bedrag vermeerderen tot maximaal 500 euro, indien de houder van het buitenlands studiebewijs opteert voor deze versnelde procedure.
+3°&nbsp;&nbsp; 90 euro voor een onderzoek met betrekking tot de niveaugelijkwaardigheid.<br>
+<br>
+De in het vierde lid vermelde bedragen worden aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de jaarlijkse aanpassing is 1 september 2013. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal. De Vlaamse Regering kan het bedrag verminderen voor specifieke doelgroepen. Voor asielzoekers, vluchtelingen, vreemdelingen die tijdelijke bescherming genieten op basis van de richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen en subsidiair beschermden is&nbsp;de behandeling van de eerste erkenningsaanvraag voor een welbepaald buitenlands studiebewijs gratis. De Vlaamse Regering kan de voorwaarden bepalen voor een versnelde procedure tot de erkenning van de individuele gelijkwaardigheid van buitenlandse studiebewijzen. De Vlaamse Regering kan het bedrag vermeerderen tot maximaal 500 euro, indien de houder van het buitenlands studiebewijs opteert voor deze versnelde procedure.</p>
 
 ### ART. II.257.
 
@@ -4132,7 +4133,21 @@ Een anderstalige intiële masteropleiding is een initiële masteropleiding waarv
 
 ### ART. II.262.
 
-<P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>§1. Een instelling kan enkel een   anderstalige initiële bachelor- of masteropleiding aanbieden als het om   opleidingsprogramma's gaat die specifiek voor buitenlandse studenten zijn   ontworpen of als de meerwaarde voor de studenten en het afnemende veld en de   functionaliteit voor de opleiding op voldoende wijze aangetoond kunnen worden.   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>§2. De instelling kan een anderstalige   initiële bachelor- of masteropleiding aanbieden op voorwaarde dat er in de   Vlaamse Gemeenschap een equivalente initiële bachelor- of masteropleiding wordt   aangeboden waarbij de student een opleidingstraject volledig in het Nederlands   kan volgen. De opleidingsonderdelen, vermeld in artikel II.261, §2, 1° en 3°,   worden hierbij buiten beschouwing gelaten. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>Behoudens in de gevallen dat er een   vrijstelling van de equivalentievoorwaarde werd verleend, moeten de studenten op   elk moment de garantie hebben dat er binnen de Vlaamse Gemeenschap een   equivalente initiële bachelor-of masteropleiding wordt aangeboden.   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>De instellingen kunnen de equivalente   initiële bachelor-of masteropleiding aanbieden als een gezamenlijk   georganiseerde opleiding. Alle opleidingsonderdelen van deze gezamenlijk   georganiseerde equivalente bachelor- of masteropleiding worden door de studenten   op 1 vestiging gevolgd. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>De   voorwaarde vermeld in het derde lid is niet van toepassing op de volgende   opleidingen: </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>1°&nbsp;&nbsp; de   equivalente opleiding master in de ingenieurswetenschappen, fotonica,   gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universteit   Brussel; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>2°&nbsp;&nbsp; de   equivalente opleiding master in de geografie, gezamenlijk aangeboden door de   Katholieke Universiteit Leuven en de Vrije Universiteit Brussel;   </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>3°&nbsp;&nbsp; de   gezamenlijk georganiseerde equivalente opleidingen die van de Commissie Hoger   Onderwijs de toelating hebben gekregen om het volgen van de onderwijsactiviteiten te   spreiden over meer dan 1 vestiging. De aanvragen tot afwijking worden door de   Commissie Hoger Onderwijs behandeld overeenkomstig de procedure beschreven in   artikel II.263;</P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>4°&nbsp;&nbsp; de equivalente opleiding   master in de ingenieurswetenschappen : biomedische ingenieurstechnieken,   gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universiteit   Brussel. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>De instelling kan in het kader van de procedure, vermeld in artikel   II.264, een vrijstelling van de   equivalentievoorwaarde aanvragen.</P>
+<p>§1. Een instelling kan enkel een anderstalige initiële bachelor- of masteropleiding aanbieden als het om opleidingsprogramma's gaat die specifiek voor buitenlandse studenten zijn ontworpen of als de meerwaarde voor de studenten en het afnemende veld en de functionaliteit voor de opleiding op voldoende wijze aangetoond kunnen worden. <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<br>
+§2.&nbsp;De instelling kan een anderstalige initiële bachelor- of masteropleiding aanbieden op voorwaarde dat er in de Vlaamse Gemeenschap een equivalente initiële bachelor- of masteropleiding wordt aangeboden waarvan de percentages van de opleidingsonderdelen die worden aangeboden in een andere onderwijstaal dan het Nederlands, vermeld in artikel II.261, §3, niet worden overschreden. De opleidingsonderdelen, vermeld in artikel II.261, §2, 1° en 3°, worden niet meegeteld voor de berekening van deze grenzen.<br>
+<br>
+Behoudens in de gevallen dat er een vrijstelling van de equivalentievoorwaarde werd verleend, moeten de studenten op elk moment de garantie hebben dat er binnen de Vlaamse Gemeenschap een equivalente initiële bachelor-of masteropleiding wordt aangeboden.<br>
+<br>
+De instellingen kunnen de equivalente initiële bachelor-of masteropleiding aanbieden als een gezamenlijk georganiseerde opleiding. Alle opleidingsonderdelen van deze gezamenlijk georganiseerde equivalente bachelor- of masteropleiding worden door de studenten op 1 vestiging gevolgd.<br>
+<br>
+De voorwaarde vermeld in het derde lid is niet van toepassing op de volgende opleidingen:<br>
+1°&nbsp;&nbsp; de equivalente opleiding master in de ingenieurswetenschappen, fotonica, gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universteit Brussel;<br>
+2°&nbsp;&nbsp; de equivalente opleiding master in de geografie, gezamenlijk aangeboden door de Katholieke Universiteit Leuven en de Vrije Universiteit Brussel;<br>
+3°&nbsp;&nbsp; de gezamenlijk georganiseerde equivalente opleidingen die van de Commissie Hoger Onderwijs de toelating hebben gekregen om het volgen van de onderwijsactiviteiten te spreiden over meer dan 1 vestiging. De aanvragen tot afwijking worden door de Commissie Hoger Onderwijs behandeld overeenkomstig de procedure beschreven in artikel II.263;<br>
+4°&nbsp;&nbsp; de equivalente opleiding master in de ingenieurswetenschappen : biomedische ingenieurstechnieken, gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universiteit Brussel.<br>
+<br>
+De instelling kan in het kader van de procedure, vermeld in artikel II.264, een vrijstelling van de equivalentievoorwaarde aanvragen.</p>
 
 ### ART. II.263.
 
@@ -5100,7 +5115,13 @@ Binnen de door het hogeschoolbestuur of de hogeschoolbesturen goedgekeurde jaar-
 
 ### ART. II.380.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De volgende diploma's en graden   in het hoger onderwijs worden geacht rechtmatig te zijn uitgereikt door de   Evangelische Theologische Faculteit te Heverlee (voorheen het Bijbelinstituut)   of door de Universitaire Faculteit voor Protestantse Godgeleerdheid te   Brussel:</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; getuigschrift van studiën gedaan met het oog op   het godsdienstonderricht uitgereikt na 4 jaar studie;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; diploma voor het protestants godsdienstonderricht   in de lagere graad;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>3°&nbsp;&nbsp; gegradueerde in de godsdienstwetenschappen;</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 17.85pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>4°&nbsp;&nbsp; geaggregeerde voor het protestants   godsdienstonderricht in het lager secundair onderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Deze bepaling geldt tot het einde   van het academiejaar 2006-2007. Studenten die in het academiejaar 2006-2007 niet   slaagden voor de examens van het studiejaar leidend tot 1 van de in het eerste   lid bedoelde diploma's en graden, kunnen evenwel nog een rechtmatig afgeleverd   diploma, respectievelijk een rechtmatig afgeleverde graad behalen in het   academiejaar 2007-2008.</P>
+<p>De volgende diploma's en graden in het hoger onderwijs worden geacht rechtmatig te zijn uitgereikt door de Evangelische Theologische Faculteit, Leuven (voorheen het Bijbelinstituut) of door de Universitaire Faculteit voor Protestantse Godgeleerdheid te Brussel:<br>
+1°&nbsp;&nbsp; getuigschrift van studiën gedaan met het oog op het godsdienstonderricht uitgereikt na 4 jaar studie;<br>
+2°&nbsp;&nbsp; diploma voor het protestants godsdienstonderricht in de lagere graad;<br>
+3°&nbsp;&nbsp; gegradueerde in de godsdienstwetenschappen;<br>
+4°&nbsp;&nbsp; geaggregeerde voor het protestants godsdienstonderricht in het lager secundair onderwijs.<br>
+<br>
+Deze bepaling geldt tot het einde van het academiejaar 2006-2007. Studenten die in het academiejaar 2006-2007 niet slaagden voor de examens van het studiejaar leidend tot 1 van de in het eerste lid bedoelde diploma's en graden, kunnen evenwel nog een rechtmatig afgeleverd diploma, respectievelijk een rechtmatig afgeleverde graad behalen in het academiejaar 2007-2008.</p>
 
 ## Hoofdstuk 3 Overgangsregelingen met betrekking tot de accreditatie
 
@@ -5350,7 +5371,7 @@ De hogescholen bepalen de modaliteiten waaronder de studenten, vermeld in het tw
 <br>
 § 2. ...<br>
 <br>
-§ 3. Vanaf het academiejaar dat de Evangelische Theologische Faculteit in Heverlee een educatieve masteropleiding aanbiedt, bouwt deze instelling de specifieke lerarenopleiding die ze tot dan aangeboden heeft, af. Vanaf dat academiejaar kunnen er geen nieuwe studenten meer worden ingeschreven in de specifieke lerarenopleiding. Studenten die bij de aanvang van het academiejaar dat de Evangelische Theologische Faculteit een educatieve masteropleiding organiseert, reeds vijftien studiepunten in de specifieke lerarenopleiding verworven hebben, hebben het recht om hun opleiding af te werken tot en met het daaropvolgend academiejaar.
+§ 3. Vanaf het academiejaar dat de Evangelische Theologische Faculteit, Leuven een educatieve masteropleiding aanbiedt, bouwt deze instelling de specifieke lerarenopleiding die ze tot dan aangeboden heeft, af. Vanaf dat academiejaar kunnen er geen nieuwe studenten meer worden ingeschreven in de specifieke lerarenopleiding. Studenten die bij de aanvang van het academiejaar dat de Evangelische Theologische Faculteit, Leuven een educatieve masteropleiding organiseert, reeds vijftien studiepunten in de specifieke lerarenopleiding verworven hebben, hebben het recht om hun opleiding af te werken tot en met het daaropvolgend academiejaar.
 
 ### ART II.401.
 
@@ -10158,7 +10179,7 @@ De Vlaamse Regering kan complementaire regels over subsidiëring vastleggen.
 
 ### ART. III.114.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Aan de Evangelische Theologische Faculteit te Leuven en aan de Faculteit voor Protestantse Theologie en Religiestudies te Brussel, wordt jaarlijks een subsidie toegekend voor de organisatie van de graden die zij kunnen verlenen in overeenstemming met artikel II.105 en II.106. De subsidie is een bijdrage in de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de faculteit, met inbegrip van de roerende uitrustingen.<br>
+<p>§1. Aan de Evangelische Theologische Faculteit, Leuven en aan de Faculteit voor Protestantse Theologie en Religiestudies te Brussel, wordt jaarlijks een subsidie toegekend voor de organisatie van de graden die zij kunnen verlenen in overeenstemming met artikel II.105 en II.106. De subsidie is een bijdrage in de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de faculteit, met inbegrip van de roerende uitrustingen.<br>
 <br>
 Het totale bedrag van de subsidie voor de beide instellingen bedraagt 574.000 euro. Dit bedrag wordt verhoogd met:<br>
 1°&nbsp;&nbsp; 100.000 euro in het begrotingsjaar 2012;<br>
@@ -10166,21 +10187,21 @@ Het totale bedrag van de subsidie voor de beide instellingen bedraagt 574.000 eu
 3°&nbsp;&nbsp; 300.000 euro vanaf het begrotingsjaar 2014.<br>
 <br>
 §2. In het begrotingsjaar 2012 wordt het bedrag van 574.000 euro als volgt verdeeld:<br>
-1°&nbsp;&nbsp; de Evangelische Theologische Faculteit te Leuven ontvangt 446.000 euro;<br>
+1°&nbsp;&nbsp; de Evangelische Theologische Faculteit, Leuven ontvangt 446.000 euro;<br>
 2°&nbsp;&nbsp; de Faculteit voor Protestantse Godgeleerdheid te Brussel ontvangt 128.000 euro.<br>
 <br>
 Het bijkomend bedrag van 100.000 euro wordt verdeeld onder de beide instellingen naar rato van het aantal opgenomen studiepunten in het academiejaar 2010-2011. Het gaat om de studiepunten opgenomen in een bacheloropleiding, een initiële masteropleiding of een specifieke lerarenopleiding die de faculteit bij of krachtens een decreet mag aanbieden.<br>
 <br>
 §3. Vanaf het begrotingsjaar 2013 bestaan de totale bedragen, vermeld in paragraaf 1, uit een sokkel, een variabel onderwijsdeel en een variabel onderzoeksdeel.<br>
 <br>
-In de begrotingsjaren 2013 en 2014 bedraagt de sokkel 160.000 euro. Vanaf het begrotingsjaar 2015 bedraagt de sokkel 100.000 euro. Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel naar rato van 50%.<br>
+In de begrotingsjaren 2013 en 2014 bedraagt de sokkel 160.000 euro. Vanaf het begrotingsjaar 2015 bedraagt de sokkel 100.000 euro. Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel naar rato van 50%.<br>
 <br>
 Het variabel onderwijsdeel bedraagt:<br>
 1°&nbsp;&nbsp; 337.700 euro in het begrotingsjaar 2013;<br>
 2°&nbsp;&nbsp; 392.700 euro in het begrotingsjaar 2014;<br>
 3°&nbsp;&nbsp; 425.700 euro vanaf het begrotingsjaar 2015.<br>
 <br>
-Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel op basis van het aantal financieringspunten berekend in beide instellingen.<br>
+Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Godgeleerdheid te Brussel op basis van het aantal financieringspunten berekend in beide instellingen.<br>
 <br>
 Het aantal financieringspunten is gelijk aan de som van:<br>
 1°&nbsp;&nbsp; het gemiddeld aantal opgenomen studiepunten in de academiejaren t-7/t-6 tot en met t-3/t-2 voorafgaand aan het begrotingsjaar t in een initiële bacheloropleiding, een initiële masteropleiding en een specifieke lerarenopleiding die de desbetreffende instellingen bij of krachtens een decreet mogen aanbieden; en<br>
@@ -10191,7 +10212,7 @@ Het variabel onderzoeksdeel bedraagt:<br>
 2°&nbsp;&nbsp; 321.300 euro in het begrotingsjaar 2014;<br>
 3°&nbsp;&nbsp; 348.300 euro vanaf het begrotingsjaar 2015.<br>
 <br>
-Dit variabel onderzoeksdeel wordt toegekend op voorwaarde dat de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel een gezamenlijk onderzoeksplan hebben ingediend bij de Vlaamse minister, bevoegd voor het onderwijs.<br>
+Dit variabel onderzoeksdeel wordt toegekend op voorwaarde dat de Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Godgeleerdheid te Brussel een gezamenlijk onderzoeksplan hebben ingediend bij de Vlaamse minister, bevoegd voor het onderwijs.<br>
 <br>
 Het onderzoeksplan tekent het gezamenlijk onderzoeksbeleid uit betreffende het onderzoek in de protestantse godgeleerdheid en heeft een looptijd van 5 jaar. Het bevat ten minste de volgende elementen:<br>
 1°&nbsp;&nbsp; de strategische en operationele doelstellingen betreffende het onderzoeksbeleid voor de beschouwde periode;<br>
@@ -10207,11 +10228,11 @@ In het geval de instelling geen of een ondermaats verslag heeft bezorgd voor 31 
 <br>
 §4. De bedragen vermeld in paragraaf 3 worden vanaf het begrotingsjaar 2013 geïndexeerd overeenkomstig de bepalingen vermeld in artikel III.5, §9.<br>
 <br>
-§5. De Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel leggen jaarlijks een begroting, een jaarrekening en een jaarverslag voor aan de Vlaamse Regering. De Vlaamse Regering kan nadere voorschriften opleggen betreffende de inhoud en het opstellen van de begroting, de jaarrekening en het jaarverslag en kan ter plaatse de nodige verificaties laten uitvoeren.<br>
+§5. De Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel leggen jaarlijks een begroting, een jaarrekening en een jaarverslag voor aan de Vlaamse Regering. De Vlaamse Regering kan nadere voorschriften opleggen betreffende de inhoud en het opstellen van de begroting, de jaarrekening en het jaarverslag en kan ter plaatse de nodige verificaties laten uitvoeren.<br>
 <br>
 §6. ...<br>
 <br>
-§ 7. De bedragen voor de Evangelische Theologische Faculteit en de Faculteit voor Protestantse Theologie en Religiestudies, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.</p>
+§ 7. De bedragen voor de Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Theologie en Religiestudies, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.</p>
 
 ## Hoofdstuk 4 Stichtingen van openbaar nut voor postinitieel onderwijs
 
@@ -10290,9 +10311,7 @@ Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in deze paragraaf, ge�
 
 ### ART. III.119.
 
-<p>§ 1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de Hogere Instituten voor Schone Kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
-<br>
-De toelage aan P.A.R.T.S. (Performing Arts Research and Training Studios) wordt vanaf het begrotingsjaar 2022 vastgesteld op 1.309.000 euro.<br>
+<p>§ 1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de Hogere Instituten voor Schone Kunsten.<br>
 <br>
 De toelage aan het Orpheus Instituut wordt vanaf het begrotingsjaar 2022 vastgesteld op 757.000 euro.<br>
 <br>
@@ -10308,21 +10327,19 @@ Aan PoPoK wordt voor het begrotingsjaar 2023 een bijkomend transitiebudget van 6
 <br>
 §2. De in paragraaf 1 bedoelde hogere instituten voor schone kunsten worden opgericht met als doel posthogeschoolvormingen te organiseren inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien. Deze instituten worden beheerd door een vereniging zonder winstgevend doel die met betrekking tot de posthogeschoolvorming optreedt als overkoepelende instantie voor alle hogescholen die een opleiding in de betrokken sectoren organiseren.<br>
 <br>
-De in paragraaf 1 bedoelde andere instellingen zijn instellingen die excellente hogere kunstopleidingen organiseren, doch krachtens artikel II.3 niet als hogescholen kunnen beschouwd worden.<br>
-<br>
-§3. Om voor de in paragraaf 1 bedoelde subsidiëring in aanmerking te komen, sluiten de instituten en instellingen een beheersovereenkomst met een looptijd van vijf jaar met de Vlaamse Regering, waarin ten minste volgende zaken worden afgesproken:<br>
+§3. Om voor de in paragraaf 1 bedoelde subsidiëring in aanmerking te komen, sluiten de instituten een beheersovereenkomst met een looptijd van vijf jaar met de Vlaamse Regering, waarin ten minste volgende zaken worden afgesproken:<br>
 1°&nbsp;&nbsp; de onderdelen van het strategisch beleidsplan;<br>
-2°&nbsp;&nbsp; de organisatie van de interne en externe kwaliteitszorg, met inbegrip van de wijze waarop het instituut of de instelling omgaat met de uitkomsten van de externe kwaliteitszorg. Daartoe organiseert het instituut of de instelling ten minste om de 5 jaar een externe visitatie waaraan onder meer buitenlandse instellingen deelnemen;<br>
+2°&nbsp;&nbsp; de organisatie van de interne en externe kwaliteitszorg, met inbegrip van de wijze waarop het instituut omgaat met de uitkomsten van de externe kwaliteitszorg. Daartoe organiseert het instituut ten minste om de 5 jaar een externe visitatie waaraan onder meer buitenlandse instellingen deelnemen;<br>
 3°&nbsp;&nbsp; het instroomniveau, de wijze van selectie van de studenten en de inschrijvingsgelden;<br>
 4°&nbsp;&nbsp; de minimale kwalificaties van de ingezette personeelsleden en de arbeidsvoorwaarden;<br>
 5°&nbsp;&nbsp; het afsluiten van een samenwerkingsakkoord met andere Vlaamse hogescholen die het betrokken studiegebied aanbieden, en eventueel met Belgische en buitenlandse instellingen voor hoger onderwijs en derden. De samenwerkingsovereenkomst vermeldt ten minste de voorwaarden van samenwerking en de financiële vergoeding die in voorkomend geval voor de dienstverlening zal worden betaald;<br>
 6°&nbsp;&nbsp; ...<br>
 <br>
-De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van deze codificatie met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren.<br>
+De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van deze codificatie met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de instituten voor schone kunsten.<br>
 <br>
-§ 3/1. Het rapport van deze interne en externe kwaliteitszorg, vermeld in paragraaf 3, 2°, van hetzelfde artikel, is publiek en bevat een beoordeling van de onderwijskwaliteit van de door deze instituten of instellingen aangeboden opleidingen die leiden tot de titel van laureaat van een hoger instituut in de kunsten.<br>
+§ 3/1. Het rapport van deze interne en externe kwaliteitszorg, vermeld in paragraaf 3, 2°, van hetzelfde artikel, is publiek en bevat een beoordeling van de onderwijskwaliteit van de door deze instituten aangeboden opleidingen die leiden tot de titel van laureaat van een hoger instituut in de kunsten.<br>
 <br>
-§4. De Vlaamse Regering kan de subsidiëring van een instituut of instelling verminderen, doch slechts jaarlijks en naar evenredigheid van de vastgestelde tekortkomingen op de in de beheersovereenkomst bezegelde afspraken.<br>
+§4. De Vlaamse Regering kan de subsidiëring van een instituut verminderen, doch slechts jaarlijks en naar evenredigheid van de vastgestelde tekortkomingen op de in de beheersovereenkomst bezegelde afspraken.<br>
 <br>
 §5. In afwijking van het bepaalde in paragraaf 3 kunnen lopende beheersovereenkomsten maximaal 2 keer met ten hoogste 1 jaar verlengd worden, in geval de evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van 5 jaar af te sluiten. Indien na deze verlenging(en) naar het oordeel van de Vlaamse Regering de betrokken instelling een deugdelijk beleidsplan heeft voorgelegd, kan een nieuwe beheersovereenkomst met een looptijd van maximaal 4 jaar worden gesloten.<br>
 <br>
@@ -10333,6 +10350,31 @@ De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van d
 § 8. ....<br>
 <br>
 § 9. ....</p>
+
+### ART III.119/1.
+
+§1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van Performing Arts Research and Training Studios (P.A.R.T.S.).<br>
+<br>
+De toelage aan Performing Arts Research and Training Studios (P.A.R.T.S.) wordt vanaf het begrotingsjaar 2024 vastgesteld op 1.446.413 euro.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt binnen de perken van de begroting van de Vlaamse Gemeenschap geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, §9.<br>
+<br>
+§2. Performing Arts Research and Training Studios (P.A.R.T.S.) is een ambtshalve geregistreerde instelling en heeft als doel het verstrekken van onderwijs, het verrichten van wetenschappelijk onderzoek en het verstrekken van wetenschappelijke dienstverlening op het gebied van dans. Het onderwijs dat binnen Performing Arts Research and Training Studios (P.A.R.T.S.) wordt verstrekt, wordt door het betrokken bestuur bekrachtigd met een graad van bachelor of master na het succesvol voltooien van de desbetreffende opleiding.<br>
+&nbsp;<br>
+Performing Arts Research and Training Studios (P.A.R.T.S.) kan krachtens artikel II.3 niet als hogeschool worden beschouwd.<br>
+<br>
+§3. Om voor de subsidiëring, vermeld in paragraaf 1, in aanmerking te komen, sluit Performing Arts Research and Training Studios (P.A.R.T.S.) een beheersovereenkomst met een looptijd van vijf jaar met de Vlaamse Regering. In deze beheersovereenkomst worden doelstellingen opgenomen die betrekking hebben op de volgende domeinen:<br>
+1° onderwijs en studenten; 2° onderzoek;<br>
+3° dienstverlening;<br>
+4° samenwerkingsverbanden;<br>
+5° infrastructurele voorzieningen; 6° financiën en personeel;<br>
+7° organisatie.<br>
+<br>
+§4. De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van deze codificatie met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de Performing Arts Research and Training Studios (P.A.R.T.S.).<br>
+<br>
+§5. De Vlaamse Regering kan de subsidiëring van Performing Arts Research and Training Studios (P.A.R.T.S.) verminderen, doch slechts jaarlijks en naar evenredigheid van de vastgestelde tekortkomingen op de in de beheersovereenkomst bezegelde afspraken.<br>
+<br>
+§6. Lopende beheersovereenkomsten kunnen maximaal twee keer met ten hoogste een jaar verlengd worden, in geval de evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van vijf jaar af te sluiten. Na deze verlenging(en) kan een nieuwe beheersovereenkomst met een looptijd van maximaal vier jaar worden gesloten na goedkeuring door de Vlaamse Regering van een nieuw door Performing Arts Research and Training Studios (P.A.R.T.S.) opgesteld beleidsplan dat tegemoetkomt aan de vastgestelde tekortkomingen.
 
 ## TITEL 4 Evaluatie
 
@@ -11044,7 +11086,7 @@ De Vlaamse Regering kan, op voorstel van de commissaris, de opmaak van een finan
 
 ### ART. IV.101.
 
-De Vlaamse Regering benoemt een commissaris bij de Evangelische Theologische Faculteit te Leuven en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel.<br>
+De Vlaamse Regering benoemt een commissaris bij de Evangelische Theologische Faculteit, Leuven en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel.<br>
 <br>
 De commissaris oefent het toezicht uit overeenkomstig de bepalingen van hoofdstuk 1.
 
