@@ -2,16 +2,16 @@
   "codex_id": 1033718,
   "title": "Besluit van de Vlaamse Regering van 2020-09-04 tot vastlegging van de vakken in de instellingen voor secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033718/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "233739bd39c53ff56eae25ee72f2283f83b66eb47ffd9d2b18bb8e380ae2578c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033718/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "6f88db654d8661a6f9ebe68c8ff5dc2aac494f6eb61ee0838914c1fc325d63e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033718&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2024-09-01",
   "made": "2020-09-04",
   "gazette": "2020-10-13",
   "numac": 2020015717,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2023-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

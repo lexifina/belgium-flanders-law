@@ -30,7 +30,7 @@ DE VLAAMSE REGERING BESLUIT:
 In het tweede tot en met het zesde lid is de exhaustieve lijst opgenomen van de algemene, kunst-, technische en praktische vakken in:<br>
 1° het voltijds gewoon secundair onderwijs;<br>
 2° het buitengewoon secundair onderwijs, opleidingsvorm 4;<br>
-3° het hoger beroepsonderwijs, opleiding verpleegkunde;<br>
+3° het hoger beroepsonderwijs;<br>
 4° het deeltijds beroepssecundair onderwijs.<br>
 <br>
 De volgende vakken zijn algemene vakken:<br>
