@@ -77,9 +77,13 @@ De lerarenbonus mag gecombineerd worden met een andere dienstonderbreking, op vo
 
 De instelling waar het personeelslid de lerarenbonus, vermeld in artikel 2, opneemt, heeft recht op vervanging volgens de gebruikelijke vervangingsregeling.
 
+### ART 9/1.
+
+Een personeelslid dat een lerarenbonus als vermeld in artikel 2, kreeg vóór 1 september 2026, blijft na 31 augustus 2026 recht hebben op de lerarenbonus of kan na 31 augustus 2026 verder gebruik maken van de lerarenbonus gedurende drie kalenderjaren, te rekenen vanaf de eerste dag van de inschrijving aan een lerarenopleiding.
+
 ### ART 10.
 
-Dit besluit treedt in werking op 1 september 2022 en treedt buiten werking op 1 september 2026.
+Dit besluit treedt in werking op 1 september 2022. Met uitzondering van artikel 9/1 treedt dit besluit buiten werking op 1 september 2026.
 
 ### ART 11.
 
