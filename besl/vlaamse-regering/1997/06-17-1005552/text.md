@@ -20,8 +20,8 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 3° medisch personeel: arts;<br>
 4° ...<br>
 5° onderwijzend personeel:<br>
-a) onderwijzer, onderwijzer ASV, kleuteronderwijzer, kleuteronderwijzer ASV, leermeester lichamelijke opvoeding en leermeester compensatietechniek Braille in type 6;<br>
-b) leermeester godsdienst, leermeester niet-confessionele zedenleer;<br>
+a)&nbsp;&nbsp; &nbsp;onderwijzer, onderwijzer ASV, onderwijzer Vlaamse Gebarentaal, kleuteronderwijzer, kleuteronderwijzer ASV, kleuteronderwijzer Vlaamse Gebarentaal, leermeester lichamelijke opvoeding en leermeester compensatietechniek Braille in type 6;<br>
+b)&nbsp;&nbsp; &nbsp;leermeester godsdienst, leermeester niet-confessionele zedenleer;<br>
 6° onderwijzer: de onderwijzer belast met de functie van klastitularis, de onderwijzer belast met de functie van ambulante leerkracht, de onderwijzer belast met de functie van taakleraar, de onderwijzer belast met individueel onderwijs en de onderwijzer belast met opvoedende activiteiten, de leermeester bijzondere vakken andere dan lichamelijke opvoeding;<br>
 7° orthopedagogisch personeel: orthopedagoog;<br>
 8° paramedisch personeel:<br>
