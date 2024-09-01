@@ -48,7 +48,9 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 
 <p>§ 1. AgODi neemt voor de regelmatige leerlingen met specifieke onderwijsbehoeften in het gewoon gefinancierd of gesubsidieerd basis- en secundair onderwijs, hoger onderwijs en volwassenenonderwijs of basiseducatie, die tot de doelgroep, vermeld in artikel 4, behoren, de dienstverlening door een tolk&nbsp;Gebarentaal of een schrijftolk ten laste in de situaties die deel uitmaken van het normale onderwijsleerproces van de gebruiker.</p>
 
-<p>De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot het maximumaantal lesuren voor een gebruiker per lesniveau. Dat maximumaantal wordt per onderwijsniveau vastgelegd door de Vlaamse minister, bevoegd voor het onderwijs.</p>
+<p>De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot het maximumaantal lesuren voor een gebruiker per lesniveau. Dat maximumaantal wordt per onderwijsniveau vastgelegd door de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+In afwijking van het tweede lid wordt in de taalafdeling Nederlands-Vlaamse Gebarentaal, vermeld in artikel 3, 52°bis/2, van het decreet basisonderwijs van 25 februari 1997, de ten laste genomen dienstverlening, vermeld in het tweede lid, voor een gebruiker die is ingeschreven in de taalafdeling Nederlands-Vlaamse Gebarentaal, beperkt tot 20% van het maximumaantal lesuren dat aan een gebruiker kan worden toegekend, vermeld in het tweede lid.</p>
 
 <p>§ 2. Het VAPH neemt voor de personen die tot de doelgroep, vermeld in artikel 4, behoren en erkend zijn als persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, de dienstverlening door een tolk&nbsp;Gebarentaal of een schrijftolk ten laste in leefsituaties die tot het gebruikelijke maatschappelijke patroon behoren, en waarvoor, met het oog op noodzakelijke optimale communicatie, technische bijstand door een deskundig opgeleide tolk vereist is.</p>
 
