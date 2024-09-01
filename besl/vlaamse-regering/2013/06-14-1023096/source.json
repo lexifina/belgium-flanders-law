@@ -2,16 +2,16 @@
   "codex_id": 1023096,
   "title": "Besluit van de Vlaamse Regering van 2013-06-14 betreffende de voorwaarden en procedure tot de erkenning van de gelijkwaardigheid van buitenlandse studiebewijzen met Vlaamse studiebewijzen uitgereikt in het basisonderwijs en secundair onderwijs, en sommige Vlaamse studiebewijzen uitgereikt in het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023096/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "84783926e019fb3016ffb1f8c03a3c7823b63f39743c62713cbadb8af1ac71b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023096/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "94fc4d29a651265ff0dcb106e0c36caeb515034941c876e881ca3262814560d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023096&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2024-09-01",
   "made": "2013-06-14",
   "gazette": "2013-07-18",
   "numac": 2014204067,
   "document_start": "2013-09-01",
   "document_end": null,
-  "in_force": "2015-07-01",
+  "in_force": "2024-09-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

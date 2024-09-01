@@ -44,7 +44,15 @@ De individuele gelijkwaardigheid stelt de gelijkwaardigheid vast van een   buite
 
 ### ART. 7.
 
-<P>§ 1. De houder van het buitenlands studiebewijs dient te goeder trouw alle   adequate informatie over het buitenlands studiebewijs te verstrekken en het   beoogde doel van de erkenningsaanvraag te vermelden, zodat de   erkenningsautoriteit het erkenningsonderzoek van het buitenlands studiebewijs   kan voeren.<BR></P>  <P>§ 2. De erkenningsautoriteit kan extra documenten opvragen en ook een   individueel interview afnemen van de aanvrager, in het geval van een   authenticiteitscontrole van de ingediende documenten of in het geval de   ingediende documenten onvoldoende informatie bevatten om een erkenningsonderzoek   te voeren.<BR></P>  <P>§ 3. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af   indien uiterlijk zes maanden na het indienen van de aanvraag niet alle   opgevraagde documenten en informatie worden ingediend.</P>
+<p>§1. De houder van het buitenlands studiebewijs dient te goeder trouw alle adequate informatie over het buitenlands studiebewijs te verstrekken en het beoogde doel van de erkenningsaanvraag te vermelden, zodat de erkenningsautoriteit het erkenningsonderzoek van het buitenlands studiebewijs kan voeren.</p>
+
+<p>§2. De erkenningsautoriteit kan extra documenten opvragen en ook een individueel interview afnemen van de aanvrager, in het geval van een authenticiteitscontrole van de ingediende documenten of in het geval de ingediende documenten onvoldoende informatie bevatten om een erkenningsonderzoek te voeren.</p>
+
+<p>§3. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af indien uiterlijk zes maanden na het indienen van de aanvraag niet alle opgevraagde documenten en informatie worden ingediend.<br>
+<br>
+§4. De erkenningsautoriteit sluit het erkenningsonderzoek ambtshalve af als ze vaststelt dat een of meer documenten in de aanvraag fraude impliceren of een onverklaarde onregelmatigheid aantonen. De erkenningsautoriteit brengt de aanvrager op de hoogte van de voormelde stopzetting.<br>
+<br>
+De erkenningsautoriteit weigert een nieuwe aanvraag van dezelfde persoon in geval van fraude. De erkenningsautoriteit kan een nieuwe aanvraag van dezelfde persoon weigeren in geval van een onverklaarde onregelmatigheid.</p>
 
 ### ART. 8.
 
