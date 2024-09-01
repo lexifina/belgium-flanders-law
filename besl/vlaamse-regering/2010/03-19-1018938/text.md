@@ -393,3 +393,144 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+* Bij BVR van 19 juli 2024 wordt een punt 20° toegevoegd, dat luidt als volgt:<br>
+<br>
+Met ingang van 1 september 2024 kan:<br>
+<br>
+a) de module, vermeld in de linkerkolom individueel geconcordeerd worden naar de module, vermeld in de rechterkolom:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:1044px">
+	<tbody>
+		<tr>
+			<td colspan="2" style="height:19px; width:359px"><strong>module </strong></td>
+			<td colspan="2" style="height:19px; width:685px"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; module</strong></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:359px">&nbsp;</td>
+			<td colspan="2" style="height:19px; width:685px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Houtimitaties</td>
+			<td colspan="2" style="height:19px; width:685px">Veilig werken op hoogte</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Marmerimitaties</td>
+			<td colspan="2" style="height:19px; width:685px">Veilig werken op hoogte</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Basis schilderen</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Decoratieschilderen</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Decoratieschilderen - hout- en andere imitaties</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Decoratieschilderen - steenimitaties</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Decoratieschilderen gevorderd</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Manueel schilderen</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Veilig werken op hoogte</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Plaatsing ophangsystemen en raambekleding</td>
+			<td colspan="2" style="height:19px; width:685px">Voorbereidende werken - ondergrond</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:350px">Vergulden</td>
+			<td colspan="2" style="height:19px; width:685px">Veilig werken op hoogte</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:350px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:676px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:9px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+b) de opleiding, vermeld in de linkerkolom, individueel geconcordeerd worden naar de module, vermeld in de rechterkolom:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:964px">
+	<tbody>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px"><strong>opleiding</strong></td>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:378px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="height:19px; vertical-align:bottom; width:545px">&nbsp;</td>
+			<td colspan="2" style="height:19px; vertical-align:bottom">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Behanger</td>
+			<td style="height:19px; width:188px">Veilig werken op hoogte</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:188px">Veilig werken op hoogte</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:188px">Basis schilderen</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:188px">Decoratieschilderen</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:188px">Manueel schilderen</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:188px">Veilig werken op hoogte</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; vertical-align:bottom; width:357px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:188px">Voorbereidende werken - ondergrond</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; width:357px">Schilder</td>
+			<td style="height:19px; width:188px">Veilig werken op hoogte</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:19px; width:357px">Schilder-decorateur</td>
+			<td style="height:19px; width:188px">Veilig werken op hoogte</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:419px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
