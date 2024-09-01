@@ -2,16 +2,16 @@
   "codex_id": 1040208,
   "title": "Ministerieel besluit van 2023-12-12 tot vaststelling van de modellen van studiebewijzen uitgereikt in het secundair onderwijs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040208/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "0e8f74bd937590eebeed09c600519a87548bc5326b37540163cc6ced7f1092fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040208/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "46641e9532f6f892db23efefba9e5b067a77c629ac17f98919dcf0fb49e2f222",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040208&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-09-01",
   "made": "2023-12-12",
   "gazette": "2024-09-10",
   "numac": 2024008296,
   "document_start": "2024-01-01",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 46,
-  "record_form": "consolidated version as in force on 2024-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-09-01",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

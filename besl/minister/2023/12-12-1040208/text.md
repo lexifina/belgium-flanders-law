@@ -85,6 +85,14 @@ In uitvoering van artikel 77 en 78 van hetzelfde besluit, zijn de modellen van b
 <br>
 In de modellen in bijlagen 35 en 36 is een studiebewijssupplement geïntegreerd.&nbsp;
 
+### ART 7.
+
+In uitvoering van artikel 79 van hetzelfde besluit, zijn de modellen van getuigschriften in het buitengewoon secundair onderwijs, opleidingsvorm 3, en de regels om ze in te vullen opgenomen in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
+1° bijlage 37: het model van het getuigschrift opleidingsvorm 3 uitgereikt op het einde van de kwalificatiefase of integratiefase;&nbsp;<br>
+2° bijlage 38: het model van het getuigschrift, onderwijskwalificatie niveau 2 uitgereikt op het einde van de kwalificatiefase of integratiefase.<br>
+<br>
+In de modellen in bijlagen 37 en 38 is een studiebewijssupplement geïntegreerd.
+
 ### ART 8.
 
 In uitvoering van artikel 80 van hetzelfde besluit is het model van attest van lesbijwoning als regelmatige leerling van opleidingsvorm 3 van het buitengewoon secundair onderwijs, en de regels om het in te vullen opgenomen in de bijlage 39 die bij dit besluit is gevoegd.
@@ -880,6 +888,138 @@ Invulinstructies:<br>
 (3) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
 (4) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
 
+### BIJLAGE 24.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het diploma van secundair onderwijs, onderwijskwalificatie niveau 3</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+DIPLOMA VAN SECUNDAIR ONDERWIJS, ONDERWIJSKWALIFICATIE<br>
+NIVEAU 3<br>
+Benaming en adres van het schoolbestuur: (1) ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Derde graad van het secundair onderwijs<br>
+Finaliteit: arbeidsmarktfinaliteit<br>
+Onderwijsvorm: beroepssecundair onderwijs<br>
+Structuuronderdeel: ……………………………… (2), met inbegrip van (3):<br>
+• beroepskwalificatie(s) ……………………………… (4), niveau …………………….… (5) en/of;<br>
+• deelkwalificatie(s) ……………………………… (6).<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (7), geboren op ……………………………… (8),<br>
+1° als regelmatige leerling het tweede leerjaar van de derde graad van het secundair onderwijs heeft gevolgd;<br>
+2° het laatstgenoemde leerjaar met vrucht heeft beëindigd in bovengenoemde school of centrum, finaliteit, onderwijsvorm en structuuronderdeel.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (9).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+VERSO ZIJDE<br>
+<u>Studiebewijssupplement</u><br>
+Het onderwijs dat door de Vlaamse Gemeenschap wordt erkend, bestaat uit drie niveaus: basisonderwijs, secundair onderwijs en hoger onderwijs.<br>
+Het gewoon secundair onderwijs en buitengewoon secundair onderwijs, opleidingsvorm 4 omvatten drie graden. In de tweede en derde graad van het secundair onderwijs, uitgezonderd de 7de leerjaren, worden de structuuronderdelen ingedeeld in onderwijsvormen en finaliteiten. Elke onderwijsvorm bundelt een aantal structuuronderdelen, respectievelijk algemeen secundair onderwijs, technisch secundair onderwijs, kunstsecundair onderwijs en beroepssecundair onderwijs. De finaliteit van een structuuronderdeel geeft weer wat een leerling met die opleiding na het secundair onderwijs kan doen: verder studeren (doorstroomfinaliteit), de stap zetten naar de arbeidsmarkt (arbeidsmarktfinaliteit) of de dubbele finaliteit die zowel toelaat om verder te studeren, als de stap te zetten naar de arbeidsmarkt. Structuuronderdelen die leerlingen voorbereiden op de arbeidsmarkt zijn gebaseerd op beroepskwalificatie(s). De 7de leerjaren gericht op instroom arbeidsmarkt bereiden leerlingen eveneens voor op de arbeidsmarkt en zijn ook gebaseerd op beroepskwalificatie(s) waarvan sommige deelkwalificatie(s) omvatten.<br>
+In duaal leren worden een schoolcomponent en een werkplekcomponent met elkaar gecombineerd. Beide componenten zijn inhoudelijk op elkaar afgestemd.<br>
+Dit studiebewijs is uitgereikt in het structuuronderdeel……………………………… (2). Het studiebewijs heeft betrekking op de derde graad arbeidsmarktfinaliteit.<br>
+De inhoud van het structuuronderdeel……………………………… (2) omvat basisvorming, gebaseerd op eindtermen, en beroepsgerichte vorming, bestaande uit beroepskwalificatie(s) en/of deelkwalificatie(s). Voor meer informatie: https://www.opleidingsinhouden-app.onderwijs-apps.vlaanderen.be/.<br>
+Enkel in te vullen in het geval er verschillende contexten van toepassing zijn in het curriculumdossier: de leerling heeft het studiebewijs behaald in de volgende context(en):<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur of het centrumbestuur vermeld;<br>
+(2) “structuuronderdeel” = de officiële benaming van de studierichting zoals vastgelegd door de Vlaamse Regering;<br>
+(3) een structuuronderdeel is gebaseerd op één of meerdere beroepskwalificaties, één of meerdere deelkwalificaties of een combinatie van beiden. Vermeld het structuuronderdeel. Nummer (4), (5), (6) invullen naargelang van toepassing;<br>
+(4) een beroepskwalificatie is een afgerond en ingeschaald geheel van competenties waarmee een beroep kan worden uitgeoefend. Vermeld de beroepskwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(5) vermeld het niveau van de beroepskwalificatie, conform de Vlaamse kwalificatiestructuur en het Europees kwalificatiekader;<br>
+(6) een deelkwalificatie is een samenhangend geheel van competenties uit eenzelfde beroepskwalificatie die uitstroomkansen bieden in een smaller deel van de arbeidsmarkt dan de volledige beroepskwalificatie. Vermeld de deelkwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(7) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(8) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(9) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
+
+### BIJLAGE 25.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het diploma van secundair onderwijs, onderwijskwalificatie niveau 4 behaald in de dubbele finaliteit</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+DIPLOMA VAN SECUNDAIR ONDERWIJS, ONDERWIJSKWALIFICATIE<br>
+NIVEAU 4<br>
+Benaming en adres van het schoolbestuur: (1) ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Derde graad van het secundair onderwijs<br>
+Finaliteit: dubbele finaliteit<br>
+Onderwijsvorm: ……………………………………………………………………………………………………… (2)<br>
+Structuuronderdeel: ……………………………… (3), met inbegrip van (4):<br>
+• beroepskwalificatie(s) ……………………………… (5), niveau …………………….… (6)<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (7), geboren op ……………………………… (8),<br>
+1° als regelmatige leerling het tweede leerjaar van de derde graad van het secundair onderwijs heeft gevolgd;<br>
+2° het laatstgenoemde leerjaar met vrucht heeft beëindigd in bovengenoemde school of centrum, finaliteit, onderwijsvorm en structuuronderdeel.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (9).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+VERSO ZIJDE<br>
+<br>
+<u>Studiebewijssupplement</u><br>
+Het onderwijs dat door de Vlaamse Gemeenschap wordt erkend, bestaat uit drie niveaus: basisonderwijs, secundair onderwijs en hoger onderwijs.<br>
+Het gewoon secundair onderwijs en buitengewoon secundair onderwijs, opleidingsvorm 4 omvatten drie graden. In de tweede en derde graad van het secundair onderwijs, uitgezonderd de 7de leerjaren, worden de structuuronderdelen ingedeeld in onderwijsvormen en finaliteiten. Elke onderwijsvorm bundelt een aantal structuuronderdelen, respectievelijk algemeen secundair onderwijs, technisch secundair onderwijs, kunstsecundair onderwijs en beroepssecundair onderwijs. De finaliteit van een structuuronderdeel geeft weer wat een leerling met die opleiding na het secundair onderwijs kan doen: verder studeren (doorstroomfinaliteit), de stap zetten naar de arbeidsmarkt (arbeidsmarktfinaliteit) of de dubbele finaliteit die zowel toelaat om verder te studeren, als de stap te zetten naar de arbeidsmarkt. Structuuronderdelen die leerlingen voorbereiden op de arbeidsmarkt zijn gebaseerd op beroepskwalificatie(s). De 7de leerjaren gericht op instroom arbeidsmarkt bereiden leerlingen eveneens voor op de arbeidsmarkt en zijn ook gebaseerd op beroepskwalificatie(s) waarvan sommige deelkwalificatie(s) omvatten.<br>
+In duaal leren worden een schoolcomponent en een werkplekcomponent met elkaar gecombineerd. Beide componenten zijn inhoudelijk op elkaar afgestemd.<br>
+Dit studiebewijs is uitgereikt in het structuuronderdeel……………………………… (3). Het studiebewijs heeft betrekking op de derde graad dubbele finaliteit.<br>
+De inhoud van het structuuronderdeel……………………………… (3) omvat basisvorming, gebaseerd op eindtermen, en beroepsgerichte vorming, bestaande uit beroepskwalificatie(s) en/of deelkwalificatie(s). Voor meer informatie: https://www.opleidingsinhouden-app.onderwijs-apps.vlaanderen.be/.<br>
+Enkel in te vullen in het geval er verschillende contexten van toepassing zijn in het curriculumdossier: de leerling heeft het studiebewijs behaald in de volgende context(en):<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur of het centrumbestuur vermeld;<br>
+(2) "technisch secundair onderwijs" of "kunstsecundair onderwijs;<br>
+(3) “structuuronderdeel” = de officiële benaming van de studierichting zoals vastgelegd door de Vlaamse Regering;<br>
+(4) een structuuronderdeel is gebaseerd op één of meerdere beroepskwalificaties, één of meerdere deelkwalificaties of een combinatie van beiden. Vermeld het structuuronderdeel. Nummer (4), (5), (6) invullen naargelang van toepassing;<br>
+(5) een beroepskwalificatie is een afgerond en ingeschaald geheel van competenties waarmee een beroep kan worden uitgeoefend. Vermeld de beroepskwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(6) vermeld het niveau van de beroepskwalificatie, conform de Vlaamse kwalificatiestructuur en het Europees kwalificatiekader;<br>
+(7) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(8) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(9) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
+
+### BIJLAGE 26.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het diploma van secundair onderwijs, onderwijskwalificatie niveau 4 behaald in de doorstroomfinaliteit</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+DIPLOMA VAN SECUNDAIR ONDERWIJS, ONDERWIJSKWALIFICATIE<br>
+NIVEAU 4<br>
+Benaming en adres van het schoolbestuur: (1) ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Derde graad van het secundair onderwijs<br>
+Finaliteit: doorstroomfinaliteit<br>
+Onderwijsvorm: ……………………………………………………………………………………………………… (2)<br>
+Structuuronderdeel: …………………………………………………………….………………………………… (3)<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (4), geboren op ……………………………… (5),<br>
+1° als regelmatige leerling het tweede leerjaar van de derde graad heeft gevolgd;<br>
+2° het laatstgenoemde leerjaar met vrucht heeft beëindigd in bovengenoemde school of centrum en structuuronderdeel.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (6).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur of het centrumbestuur vermeld;<br>
+(2) "algemeen secundair onderwijs", "technisch secundair onderwijs", "kunstsecundair onderwijs";<br>
+(3) “structuuronderdeel” = de officiële benaming van de studierichting zoals vastgelegd door de Vlaamse Regering;<br>
+(4) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(5) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(6) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
+
 ### BIJLAGE 28.
 
 <strong>Model (formaat A4 = 210 x 297 mm) van bewijs van beroepskwalificatie in het voltijds gewoon secundair onderwijs en het buitengewoon secundair onderwijs, opleidingsvorm 4</strong><br>
@@ -1222,6 +1362,109 @@ Invulinstructies:<br>
 (6) vermeld het niveau van de beroepskwalificatie, conform de Vlaamse kwalificatiestructuur en het Europees kwalificatiekader;<br>
 (7) vermeld de eerste voornaam en de achternaam van de leerling, zoals die op de identiteitskaart of de geboorteakte staan;<br>
 (8) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) “1 januari” vermeld;
+
+### BIJLAGE 37.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het getuigschrift opleidingsvorm 3 uitgereikt op het einde van de kwalificatiefase of integratiefase</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP – KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+SECUNDAIR ONDERWIJS – GETUIGSCHRIFT OPLEIDINGSVORM 3<br>
+Benaming en adres van het schoolbestuur: (1)<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Finaliteit: arbeidsmarktfinaliteit<br>
+Buitengewoon secundair onderwijs, opleidingsvorm 3<br>
+Fase: ……………………………… (2)<br>
+Structuuronderdeel: ……………………………… (3), met inbegrip van (4):<br>
+• beroepskwalificatie(s) ……………………………… (5), niveau …………………….… (6) en/of;<br>
+• deelkwalificatie(s) ……………………………… (7).<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (8), geboren op ……………………………… (9),<br>
+1° in voldoende mate de beroepsgerichte competenties heeft behaald uit de beroepskwalificatie(s) of deelkwalificatie(s) van het structuuronderdeel;<br>
+2° in voldoende mate de ontwikkelingsdoelen heeft nagestreefd.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (10).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+VERSO ZIJDE<br>
+<br>
+<u>Studiebewijssupplement</u><br>
+Het onderwijs dat door de Vlaamse Gemeenschap wordt erkend, bestaat uit drie niveaus: basisonderwijs, secundair onderwijs en hoger onderwijs.<br>
+Structuuronderdelen in het buitengewoon secundair onderwijs, opleidingsvorm 3 behoren tot de arbeidsmarktfinaliteit. De finaliteit van een structuuronderdeel geeft weer wat een leerling met die opleiding na het secundair onderwijs kan doen: voor de arbeidsmarktfinaliteit is dit de stap zetten naar de arbeidsmarkt.<br>
+Het buitengewoon secundair onderwijs van opleidingsvorm 3 omvat drie fases (de observatiefase, de opleidingsfase en de kwalificatiefase) en 1 extra facultatieve integratiefase.<br>
+Dit studiebewijs is uitgereikt in het structuuronderdeel ……………………………… (3) van het buitengewoon secundair onderwijs, opleidingsvorm 3.<br>
+De inhoud van het structuuronderdeel……………………………… (3) omvat basisvorming, gebaseerd op ontwikkelingsdoelen, en beroepsgerichte vorming, bestaande uit beroepskwalificatie(s) en/of deelkwalificatie(s). Voor meer informatie: https://www.opleidingsinhouden-app.onderwijs-apps.vlaanderen.be/.<br>
+Enkel in te vullen in het geval er verschillende contexten van toepassing zijn in het opleidingsprofiel: de leerling heeft het studiebewijs behaald in de volgende context(en):<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur vermeld;<br>
+(2) vermeld of het studiebewijs werd behaald in de kwalificatiefase of in de integratiefase;<br>
+(3) “structuuronderdeel” = de officiële benaming van de studierichting zoals vastgelegd door de Vlaamse Regering;<br>
+(4) een structuuronderdeel is gebaseerd op één of meerdere beroepskwalificaties, één of meerdere deelkwalificaties of een combinatie van beiden. Vermeld het structuuronderdeel. Nummer (4), (5), (6) invullen naargelang van toepassing;<br>
+(5) een beroepskwalificatie is een afgerond en ingeschaald geheel van competenties waarmee een beroep kan worden uitgeoefend. Vermeld de beroepskwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(6) vermeld het niveau van de beroepskwalificatie, conform de Vlaamse kwalificatiestructuur en het Europees kwalificatiekader;<br>
+(7) een deelkwalificatie is een samenhangend geheel van competenties uit eenzelfde beroepskwalificatie die uitstroomkansen bieden in een smaller deel van de arbeidsmarkt dan de volledige beroepskwalificatie. Vermeld de deelkwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(8) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(9) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(10) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
+
+### BIJLAGE 38.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het getuigschrift, onderwijskwalificatie niveau 2 uitgereikt op het einde van de kwalificatiefase of integratiefase</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+GETUIGSCHRIFT, ONDERWIJSKWALIFICATIE NIVEAU 2<br>
+Benaming en adres van het schoolbestuur: (1) ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Finaliteit: arbeidsmarktfinaliteit<br>
+Buitengewoon secundair onderwijs, opleidingsvorm 3<br>
+Fase: ……………………………… (2)<br>
+Structuuronderdeel: ……………………………… (3), met inbegrip van (4):<br>
+• beroepskwalificatie(s) ……………………………… (5), niveau …………………….… (6) en/of;<br>
+• deelkwalificatie(s) ……………………………… (7).<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (8), geboren op ……………………………… (9),<br>
+1° in voldoende mate de beroepsgerichte competenties heeft behaald uit de beroepskwalificatie(s) of deelkwalificatie(s) van het structuuronderdeel;<br>
+2° in voldoende mate de ontwikkelingsdoelen heeft behaald, op voorwaarde dat de ontwikkelingsdoelen van de opleidingen overeenkomen met de eindtermen voor de tweede graad van de finaliteit arbeidsmarkt – bso.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (10).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+VERSO ZIJDE<br>
+<br>
+<u>Studiebewijssupplement</u><br>
+Het onderwijs dat door de Vlaamse Gemeenschap wordt erkend, bestaat uit drie niveaus: basisonderwijs, secundair onderwijs en hoger onderwijs.<br>
+Structuuronderdelen in het buitengewoon secundair onderwijs, opleidingsvorm 3 behoren tot de arbeidsmarktfinaliteit. De finaliteit van een structuuronderdeel geeft weer wat een leerling met die opleiding na het secundair onderwijs kan doen: voor de arbeidsmarktfinaliteit is dit de stap zetten naar de arbeidsmarkt.<br>
+Het buitengewoon secundair onderwijs van opleidingsvorm 3 omvat drie fases (de observatiefase, de opleidingsfase en de kwalificatiefase) en 1 extra facultatieve integratiefase.<br>
+In de kwalificatiefase en de facultatieve integratiefase van het buitengewoon secundair onderwijs, opleidingsvorm 3 kan een getuigschrift van de tweede graad, onderwijskwalificatie niveau 2 behaald worden, als de ontwikkelingsdoelen overeenkomen met de eindtermen voor de tweede graad van de finaliteit arbeidsmarkt – bso. Dit studiebewijs is uitgereikt in het structuuronderdeel ………………………… (3) van het buitengewoon secundair onderwijs, opleidingsvorm 3.<br>
+De inhoud van het structuuronderdeel ……………………………… (3) omvat basisvorming, gebaseerd op ontwikkelingsdoelen die overeenkomen met de eindtermen, en beroepsgerichte vorming, bestaande uit beroepskwalificatie(s) en/of deelkwalificatie(s). Voor meer informatie: https://www.opleidingsinhouden-app.onderwijs-apps.vlaanderen.be/.<br>
+Enkel in te vullen in het geval er verschillende contexten van toepassing zijn in het opleidingsprofiel: de leerling heeft het studiebewijs behaald in de volgende context(en):<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+…………………………………………………………………………………………………………………………………….<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur vermeld;<br>
+(2) vermeld of het studiebewijs werd behaald in de kwalificatiefase of in de integratiefase;<br>
+(3) “structuuronderdeel” = de officiële benaming van de studierichting zoals vastgelegd door de Vlaamse Regering;<br>
+(4) een structuuronderdeel is gebaseerd op één of meerdere beroepskwalificaties, één of meerdere deelkwalificaties of een combinatie van beiden. Vermeld het structuuronderdeel. Nummer (4), (5), (6) invullen naargelang van toepassing;<br>
+(5) een beroepskwalificatie is een afgerond en ingeschaald geheel van competenties waarmee een beroep kan worden uitgeoefend. Vermeld de beroepskwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(6) vermeld het niveau van de beroepskwalificatie, conform de Vlaamse kwalificatiestructuur en het Europees kwalificatiekader;<br>
+(7) een deelkwalificatie is een samenhangend geheel van competenties uit eenzelfde beroepskwalificatie die uitstroomkansen bieden in een smaller deel van de arbeidsmarkt dan de volledige beroepskwalificatie. Vermeld de deelkwalificatie waarop het structuuronderdeel is gebaseerd;<br>
+(8) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(9) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(10) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
 
 ### BIJLAGE 39.
 
