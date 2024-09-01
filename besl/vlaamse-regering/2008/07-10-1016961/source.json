@@ -2,16 +2,16 @@
   "codex_id": 1016961,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 [betreffende de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden algemene personenzorg, assistentie vrije zorgberoepen en specifieke personenzorg]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016961/VolledigDocument?datum=2024-02-01",
-  "source_sha256": "a389ba51eac8ff5655954357a4bb7b864c1430aa83547e5f3ddb498c5fa42f0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016961/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "2e0c9355312bc97e582902905d627ff88b4d932db6ab3f6c733eb6461aa4eb96",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016961&param=informatie",
-  "as_of": "2024-02-01",
+  "as_of": "2024-09-01",
   "made": "2008-07-10",
   "gazette": "2008-08-13",
   "numac": 2008202740,
   "document_start": "2008-02-01",
   "document_end": null,
-  "in_force": "2024-02-01",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2024-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-09-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
