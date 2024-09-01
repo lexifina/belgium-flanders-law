@@ -592,7 +592,7 @@ Het niet-naleven van de verplichtingen over het voeren van een boekhouding of ov
 
 §1. Een school die voor een leerling leersteun aanvraagt, stelt gegevens van die leerling ter beschikking aan het leersteuncentrum, onder de volgende voorwaarden:<br>
 1° de gegevens hebben alleen betrekking op de leerlingspecifieke gegevens die relevant zijn voor het bieden van leersteun. Dit zijn:<br>
-&nbsp; a) het GC-verslag, IAC-verslag of OV4-verslag, opgesteld conform de bepalingen van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs;<br>
+&nbsp; a) het GC-verslag, IAC-verslag of OV4-verslag, opgesteld conform de bepalingen van het&nbsp;besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het GC-verslag en van het attest bij het IAC-verslag of OV4-verslag.<br>
 &nbsp; b) gegevens over het onderwijstraject van de leerling;<br>
 &nbsp; c) gegevens over de ondersteuningsbehoeften van de leerling en de leersteun die aan deze leerling geboden wordt om aan de ondersteuningsbehoeften tegemoet te komen;<br>
 2° het ter beschikking stellen van gegevens gebeurt alleen in het belang van de leerling op wie de leersteun betrekking heeft;<br>
