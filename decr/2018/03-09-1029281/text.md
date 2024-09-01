@@ -143,7 +143,7 @@ Voor elke langlopende studierichting worden voor de eerste, tweede en derde graa
 <br>
 Voor de domeinoverschrijdende initiatieopleiding worden basiscompetenties vastgelegd.<br>
 <br>
-Voor leerlingen van de vierde graad die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen van de vierde graad die naar het hoger onderwijs willen doorstromen gelden de specifieke eindtermen van het wetenschapsdomein kunst en cultuur, vermeld in bijlage 7 van het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen.<br>
+Voor leerlingen&nbsp;van de derde en vierde graad van het domein beeldende en audiovisuele kunsten en de vierde graad van de domeinen dans, muziek en woordkunst-drama die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen&nbsp;van de derde en vierde graad van het domein beeldende en audiovisuele kunsten en de vierde graad van de domeinen dans, muziek en woordkunst-drama die naar het hoger onderwijs willen doorstromen gelden de specifieke eindtermen van de onderdelen artistieke expressie en kunstbe-schouwing van het wetenschapsdomein kunst en cultuur, vermeld in bijlage 3 bij het decreet van 14 juli 2023 over de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs.<br>
 <br>
 Voor elke kortlopende studierichting, met uitzondering van de kortlopende studierichting schrijver, selecteert het schoolbestuur een relevant en consistent geheel van specifieke eindtermen of basiscompetenties deeltijds kunstonderwijs die hoofdzakelijk uit het artistieke domein in kwestie worden geput.<br>
 <br>
@@ -247,7 +247,7 @@ De kortlopende studierichtingen bestaan uit twee of drie leerjaren. Zij worden n
 <br>
 De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
 <br>
-§ 2. De onderwijsdoelen van de eerste, tweede en derde graad zijn voor die studierichtingen gemeenschappelijk.<br>
+§ 2. De onderwijsdoelen van de eerste, tweede en derde graad zijn voor die studierichtingen gemeenschappelijk, met uitzondering van de derde graad voor de leerlingen die willen doorstromen naar het hoger onderwijs, waarvoor de specifieke eindtermen van het wetenschapsdomein kunst en cultuur gelden, conform artikel 5, derde lid.<br>
 <br>
 De onderwijsdoelen van de vierde graad zijn voor ieder van die studierichtingen verschillend.<br>
 <br>
@@ -603,8 +603,9 @@ Een schoolbestuur kan de inschrijving weigeren in een academie waar de betrokken
 
 ### ART 43.
 
-Een schoolbestuur kan de inschrijving van een niet-regelmatige leerling weigeren.<br>
-&nbsp;
+Een schoolbestuur kan de inschrijving van de volgende leerlingen weigeren:<br>
+1° een niet-regelmatige leerling;<br>
+2°&nbsp;&nbsp; &nbsp;een leerling die voor een opleiding in hetzelfde domein al is ingeschreven in een andere academie.
 
 ### ART 44.
 
@@ -764,6 +765,47 @@ Opleidings- en vormingsactiviteiten van andere private of publieke opleidingsver
 De academie informeert de leerlingen over de mogelijkheid om les te volgen in een alternatieve leercontext.<br>
 &nbsp;
 
+### ART 57/1.
+
+§1. De leeractiviteiten worden georganiseerd via contactonderwijs waarbij de leerling en de leerkracht zich in dezelfde fysieke leeromgeving bevinden.<br>
+<br>
+In afwijking van het eerste lid kan een academie voor een klasgroep van een vak van een opleiding in de tweede graad muziek voor volwassenen, de derde of vierde graad van een langlopende studierichting of een kortlopende studierichting een gedeelte van de leeractiviteiten via interactief afstandsonderwijs organiseren als aan de volgende voorwaarden is voldaan:<br>
+1° de academie maakt een analyse van de beginsituatie, met minstens aandacht voor de beschikbaarheid en kennis van de benodigde ICT-materialen en -competenties, voor de leerling en de leerkracht;<br>
+2° bij de inschrijving informeert de academie de leerling en de betrokken personen over het interactieve afstandsonderwijs;<br>
+3° de academie beschikt over een jaarplanning die blijk geeft van een pedagogisch onderbouwd evenwicht tussen leeractiviteiten via contactonder-wijs in de academie en interactief afstandsonderwijs. De jaarplanning wordt op de eerste lesdag van het schooljaar aan de leerlingen in kwestie bezorgd;<br>
+4° de participatiekansen van de leerlingen worden gewaarborgd. De leerling krijgt altijd de mogelijkheid om het interactieve afstandsonderwijs in een vestigings-plaats van de academie te volgen.<br>
+<br>
+Interactief afstandsonderwijs als vermeld in het tweede lid bestaat uit leerac-tiviteiten die via digitale media plaatsonafhankelijk worden georganiseerd waarbij er synchrone interactie is tussen de leerling en de leerkracht, tijdens de openingsuren van de academie en met behoud van de toepassing van artikel 64.<br>
+<br>
+De academie bepaalt op basis van haar artistiek-pedagogische visie de ver-houding tussen leeractiviteiten die via interactief afstandsonderwijs plaatsvinden en contactonderwijs dat fysiek in de academie plaatsvindt. De keuze om een vak volledig via interactief afstandsonderwijs te organiseren is daarbij uitgesloten.<br>
+<br>
+Een academie kan voor een individuele leerling die om een gewettigde reden afwezig was, een remediërende leeractiviteit organiseren via interactief afstandsonderwijs.<br>
+<br>
+§2. Als de academie interactief afstandsonderwijs als vermeld in §1, tweede lid, organiseert, worden enkel persoonsgegevens geregistreerd die noodzakelijk zijn voor het tot stand brengen van synchrone interactie tussen de leerkracht en leerlingen via digitale media met het oog op het verstrekken van onderwijs en zodoende een taak van algemeen belang te vervullen als vermeld in artikel 6, lid 1, e), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming). De persoonsgegevens betreffen de naam en voornaam van de betrokken leerkracht en leerlingen, het e-mailadres dat zij hebben doorgegeven om in een beveiligde online-omgeving een account te creëren en de communicatie tijdens de interactie.<br>
+<br>
+Het schoolbestuur is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens, vermeld in het eerste lid. Het schoolbestuur waakt erover dat de persoonsgegevens juist zijn en zo nodig worden geactualiseerd. Het schoolbestuur informeert de leerling of zijn ouders over de verwerking van hun persoonsgegevens, zodat het voor hen duidelijk is wat hun rechten zijn en tot wie zij zich moeten richten voor de uitoefening van hun rechten.<br>
+<br>
+Het schoolbestuur bepaalt welke personeelsleden toegang kunnen hebben tot de persoonsgegevens, vermeld in het eerste lid. Het schoolbestuur en alle personeelsleden die toegang hebben tot de voormelde persoonsgegevens zijn gehouden tot het bewaren van de vertrouwelijkheid van deze persoonsgegevens.<br>
+<br>
+Het schoolbestuur neemt gepaste technische en organisatorische maatregelen om de geregistreerde gegevens, vermeld in het eerste lid, te beveiligen. Via het academiereglement en het arbeidsreglement neemt het schoolbestuur maatrege-len om het opnemen en verspreiden van de leeractiviteiten die via interactief afstandsonderwijs op grond van dit decreet georganiseerd worden, aan banden te leggen.<br>
+<br>
+De geregistreerde gegevens, vermeld in het eerste lid, worden bewaard gedurende het schooljaar waarvoor de leerling ingeschreven is. Na afloop van deze bewaartermijn worden de voormelde gegevens vernietigd.
+
+### ART 57/2.
+
+Een academie die interactief afstandsonderwijs als vermeld in artikel 57/1, §1, tweede lid, organiseert, neemt de volgende elementen op in haar academieregle-ment, vermeld in artikel 58:<br>
+1° de vakken die in interactief afstandsonderwijs worden georganiseerd;<br>
+2° de vermelding of de leerstofonderdelen die via interactief afstandsonderwijs worden aangeboden, geëvalueerd worden;<br>
+3° de mogelijkheid om het interactieve afstandsonderwijs in een vestigingsplaats van de academie te volgen.
+
+### ART 57/3.
+
+Als een academie interactief afstandsonderwijs organiseert als vermeld in artikel 57/1, §1, tweede lid, wordt de wijze waarop personeelsleden worden ingezet, vastgelegd in het arbeidsreglement.
+
+### ART 57/4.
+
+Met het oog op een mogelijke bijsturing wordt het interactief afstandsonderwijs als vermeld in artikel 57/1, §1, tweede lid, in het deeltijds kunstonderwijs in het schooljaar 2027-2028 geëvalueerd.
+
 ### ART 58.
 
 Een schoolbestuur stelt voor elk van zijn academies een academiereglement op.&nbsp;Bij elke wijziging van het academiereglement informeert het schoolbestuur de leerlingen en de betrokken personen schriftelijk of via een elektronische drager over die wijziging. Het schoolbestuur geeft toelichting over de wijziging als de leerlingen en de betrokken personen dat willen. De leerlingen of betrokken personen verklaren zich daarna opnieuw digitaal of schriftelijk akkoord.<br>
@@ -815,8 +857,6 @@ De leerlingen zijn verplicht deel te nemen aan de evaluatieactiviteiten.<br>
 ### ART 61.
 
 De mate waarin de leerling de basiscompetenties, beroepskwalificaties of specifieke eindtermen bereikt, bepaalt of hij al dan niet geslaagd is voor een graad van een studierichting.<br>
-<br>
-De leerlingen die meer dan een derde van de lessen niet hebben bijgewoond zonder dat hun afwezigheid gewettigd was, zijn niet geslaagd.<br>
 &nbsp;
 
 ### ART 62.
@@ -894,7 +934,9 @@ De wegingen, vermeld in het vijfde en het zesde lid, zijn niet cumulatief. De we
 <br>
 De wegingen, vermeld in paragraaf 3, zesde lid, worden alleen toegepast op de omkaderingsberekening van de academie met een vestigingsplaats in een dunbevolkte gemeente voor zover de leerling alle vakken volgt in een vestigingsplaats gelegen in een dunbevolkte gemeente.<br>
 <br>
-Een leerling die meer opleidingen van hetzelfde domein in verschillende academies volgt, is maar in één academie financierbaar. Op basis van gegevens die het Agentschap voor Onderwijsdiensten aanreikt, beslissen de directeurs in onderling overleg in welke academie de leerling financierbaar is. Ze melden hun beslissing schriftelijk aan het Agentschap voor Onderwijsdiensten voor 1 februari. Als de directeurs niet tot een akkoord komen, is de leerling financierbaar voor het schooljaar 2019-2020 in die academie waar hij het eerst zijn inschrijvingsgeld betaald heeft voor dat schooljaar. Vanaf het schooljaar 2020-2021 is de leerling financierbaar in de academie waar zijn inschrijving voor dat schooljaar het eerst is geregistreerd in het elektronisch systeem voor de uitwisseling van leerlingengegevens van het Agentschap voor Onderwijsdiensten.
+Een leerling die meer opleidingen van hetzelfde domein in verschillende academies volgt, is maar in één academie financierbaar. Op basis van gegevens die het Agentschap voor Onderwijsdiensten aanreikt, beslissen de directeurs in onderling overleg in welke academie de leerling financierbaar is. Ze melden hun beslissing schriftelijk aan het Agentschap voor Onderwijsdiensten voor 1 februari. Als de directeurs niet tot een akkoord komen, is de leerling financierbaar voor het schooljaar 2019-2020 in die academie waar hij het eerst zijn inschrijvingsgeld betaald heeft voor dat schooljaar. Vanaf het schooljaar 2020-2021 is de leerling financierbaar in de academie waar zijn inschrijving voor dat schooljaar het eerst is geregistreerd in het elektronisch systeem voor de uitwisseling van leerlingengegevens van het Agentschap voor Onderwijsdiensten.<br>
+<br>
+§6. Een leerling kan in de loop van het schooljaar zijn opleiding voortzetten in een andere academie als de capaciteit van die academie toereikend is en de directeur toestemming geeft. De nieuwe academie meldt de inschrijving van de leerling aan de oorspronkelijke academie en het Agentschap voor Onderwijsdiensten. Met behoud van de toepassing van de voorwaarden, vermeld in paragraaf 1 tot en met 4, wordt de leerling geteld als financierbare leerling in de academie waar hij op 1 februari ingeschreven is.
 
 ## Afdeling 2 Omkadering onderwijzend personeel
 
@@ -1155,6 +1197,10 @@ Voor de toepassing van paragraaf 2 en 3 worden de lestijden voor het schooljaar 
 De Vlaamse Regering kan, met in achtname van de beschikbare begrotingskredieten, een aanwendingspercentage vastleggen dat voor een of meer schooljaren toegepast wordt op het geheel of een gedeelte van de omkaderingsberekening, vermeld in artikel 69 en 70. Dat aanwendingspercentage is een rekenfactor die een omkaderingscoëfficiënt procentueel verlaagt of verhoogt.<br>
 &nbsp;
 
+### ART 72/1.
+
+In afwijking van de bepalingen in artikel 69 tot en met 72 en artikel 79 kan de Vlaamse Regering wegens uitzonderlijke redenen van overmacht toestaan dat voor de structuuronderdelen die in de door de overmacht getroffen vestigingsplaatsen worden georganiseerd, eenmalig hetzelfde aantal lestijden en administratieve omkaderingseenheden wordt toegekend als die van het vorige schooljaar. Als de academie meer leerlingen inschrijft in de getroffen structuuronderdelen dan in het vorige schooljaar, geldt in dat geval de reguliere omkaderingsberekening.
+
 ## Onderafdeling 2 Aanwending van de omkadering onderwijzend personeel
 
 ### ART 73.
@@ -1308,16 +1354,16 @@ Y wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma 
 
 ### ART 76/1.
 
-§ 1. Een academie heeft recht op aanvullende lestijden voor aanvangsbegeleiding die berekend worden met de formule A*B, waarbij:<br>
-1° A: het totale aantal lestijden van de academie, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het voorgaande schooljaar;<br>
+§ 1.&nbsp;Een academie heeft recht op aanvullende lestijden voor aanvangsbegeleiding die berekend worden met de formule A*B, waarbij:<br>
+1° A: het totale aantal lestijden van de academie van het voorafgaande schooljaar, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het daaraan voorafgaande schooljaar;<br>
 2° B: X/Y, waarbij:<br>
-a) X: het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs;<br>
-b) Y: het totale aantal lestijden voor het deeltijds kunstonderwijs, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het voorgaande schooljaar.<br>
+a)&nbsp;&nbsp; &nbsp;X: het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs;<br>
+b)&nbsp;&nbsp; &nbsp;Y: het totale aantal lestijden voor het deeltijds kunstonderwijs van het vorige schooljaar, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het daaraan voorafgaande schooljaar.<br>
 <br>
 Voor het schooljaar 2021-2022 bedraagt het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs, vermeld in het eerste lid, 454 lestijden.<br>
 <br>
 Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het tweede lid, vermenigvuldigd met de aanpassingscoefficiënt A=X/Y, waarbij:<br>
-1° X: het totale aantal financierbare leerlingen in het deeltijds kunstonderwijs op 1 februari X;<br>
+1° X: het totale aantal financierbare leerlingen in het deeltijds kunstonderwijs op 1 februari X-1;<br>
 2° Y: het totale aantal financierbare leerlingen in het deeltijds kunstonderwijs op 1 februari 2021.<br>
 <br>
 Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar de lagere eenheid.<br>
@@ -1551,28 +1597,39 @@ Het bedrag wordt afgerond naar de hogere eenheid.<br>
 
 ### ART 92.
 
-§ 1. Om in aanmerking te komen voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°, moet de leerling op de dag van de inschrijving aan minstens een van de volgende voorwaarden voldoen :<br>
-1° uitkeringsgerechtigd verplicht ingeschreven zijn als werkzoekende op grond van de reglementering in verband met de arbeidsvoorziening en de werkloosheid, of daarmee gelijkgesteld zijn;<br>
+§1. Om in aanmerking te komen voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°, moet de leerling op de dag van de inschrijving aan minstens een van de volgende voorwaarden voldoen :<br>
+1° werkzoekend uitkeringsgerechtigd volledig werkloos zijn;<br>
 2° ...<br>
 3° een leefloon van het OCMW ontvangen of een uitkering die daarmee gelijkgesteld is;<br>
 4° een inkomensgarantie voor ouderen of een rentebijslag ontvangen;<br>
-5° erkend zijn als persoon met een handicap en een tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid ontvangen;<br>
+5° erkend zijn als persoon met een handicap en een tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid ontvangen of een zorgbudget voor ouderen met een zorgnood ontvangen als vermeld in artikel 4, eerste lid, 2°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of met eenzelfde tegemoetkoming bij de equivalente instanties van de andere gemeenschappen zoals bepaald in de bijzondere wet tot hervorming der instellingen, artikel 1 en 5, §1, II;<br>
 6° voor ten minste 66% arbeidsongeschikt zijn;<br>
-7° begunstigde zijn van een verhoogde kinderbijslag (erkend voor ten minste 66%);<br>
+7° jongere zijn met een specifieke ondersteuningsbehoefte als vermeld in artikel 6, §6, van het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag;<br>
 8° in een gezinsvervangend tehuis of in een medisch-pedagogische instelling of in een pleeggezin verblijven;<br>
 9° het statuut van erkend politiek vluchteling bezitten;<br>
-10° begunstigde zijn van de verhoogde verzekeringstegemoetkoming.<br>
+10° begunstigde zijn van de verhoogde verzekeringstegemoetkoming in de ziekteverzekering;<br>
 11° houder zijn van een European Disability Card conform het protocolakkoord van 10 oktober 2016 over het project European Disability Card tussen de Federale Regering, de Vlaamse Regering, de Waalse Regering, de Franse Gemeenschapscommissie en de Duitstalige Regering.<br>
 <br>
-§ 2. Een leerling die ten laste is van een persoon die aan minstens een van de voorwaarden voldoet, vermeld in paragraaf 1, komt eveneens in aanmerking voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°.<br>
+§2. Een&nbsp;jongere behorende tot de leefeenheid van een persoon die aan minstens een van de voorwaarden voldoet, vermeld in paragraaf 1, komt eveneens in aanmerking voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°.<br>
 <br>
-§ 3. Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie, betaalt het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 4° :<br>
+§2bis. Als voor de toepassing van paragraaf 1 gegevens op een elektronische wijze worden uitgewisseld met andere overheden, worden de volgende gegevens uitgewisseld:<br>
+1° voor de leerlingen die voldoen aan de voorwaarden 1°, 3°, 4°, 5°, 6°, 7° en 10°: het rijksregisternummer of het identificatienummer beschikbaar in de Kruispuntbank van de Sociale Zekerheid;<br>
+2° voor de leerlingen die voldoen aan de voorwaarde 8°: het identificatienummer beschikbaar in de databanken van het Agentschap Opgroeien;<br>
+3° voor de leerlingen die voldoen aan de voorwaarde 9°: het rijksregisternummer.<br>
+<br>
+De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de inning van het inschrijvingsgeld. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming). Het resultaat van de gegevensverwerking wordt gedeeld met de academies met het oog op het innen van het inschrijvingsgeld.<br>
+<br>
+De maximale bewaartermijnen voor deze gegevens, die worden bewaard conform artikel 5, eerste lid, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels als vermeld in artikel III.81,&nbsp;§2, van het Bestuursdecreet van 7 december 2018. Daarbij wordt rekening gehouden met de volgende criteria:<br>
+1° de termijn die nodig is voor de bevoegde dienst om op basis van de gegevens het inschrijvingsgeld van de onderwijsinstellingen te innen en te controleren;<br>
+2° de termijn die nodig is voor de onderwijsinstellingen om het ontvangen inschrijvingsgeld te verantwoorden.<br>
+<br>
+§3. Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie, betaalt het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 4° :<br>
 1° als op de dag van de inschrijving een ander lid van de leefeenheid waartoe hij behoort of een broer, zus of ouder met een andere hoofdverblijfplaats het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie;<br>
 2° voor iedere extra inschrijving in een ander domein aan dezelfde of een andere academie.<br>
 <br>
-§ 4. In afwijking van paragraaf 1 en 2 komt een leerling die op de dag van inschrijving niet aan minstens een van de voorwaarden, vermeld in paragraaf 1 en 2, voldoet, in aanmerking voor vermindering onder de voorwaarde dat de leerling in de maand september eraan voldoet.<br>
+§4. In afwijking van paragraaf 1 en 2 komt een leerling die op de dag van inschrijving niet aan minstens een van de voorwaarden, vermeld in paragraaf 1 en 2, voldoet, in aanmerking voor vermindering onder de voorwaarde dat de leerling in de maand september eraan voldoet.<br>
 <br>
-§ 5. De Vlaamse Regering bepaalt de wijze waarop het recht van een leerling aangetoond wordt.<br>
+§5. De Vlaamse Regering bepaalt de wijze waarop het recht van een leerling aangetoond wordt.<br>
 &nbsp;
 
 ### ART 93.
@@ -1749,7 +1806,7 @@ De teldag voor de rationalisatie is 1 februari van het voorgaande schooljaar.<br
 <br>
 De Vlaamse Regering neemt de beslissing over de opname in de financierings- of subsidiëringsregeling. De beslissing wordt schriftelijk of elektronisch meegedeeld aan het betrokken schoolbestuur en gaat in bij aanvang van het schooljaar dat volgt op de aanvraag tot financiering of subsidiëring.<br>
 <br>
-Als het schoolbestuur niet overgaat tot de oprichting van de academie of het onderdeel van een academie in het schooljaar dat volgt op de goedkeuring van de aanvraag tot financiering of subsidiëring, verliest het de goedkeuring. Het schoolbestuur kan een nieuwe aanvraag indienen conform het eerste lid.<br>
+Als het schoolbestuur niet overgaat tot de oprichting van de academie of het onderdeel van een academie in de drie schooljaren die volgen op de goedkeuring van de aanvraag tot financiering of subsidiëring, verliest het de goedkeuring. Het schoolbestuur kan een nieuwe aanvraag indienen conform het eerste lid.<br>
 <br>
 § 3. In een voorlopig erkende academie is affectatie, mutatie of vaste benoeming van personeelsleden niet mogelijk.<br>
 &nbsp;
@@ -1839,6 +1896,8 @@ Het quotiënt van de deling, vermeld in het eerste lid, 3°, wordt als volgt afg
 Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het structuuronderdeel in die vestigingsplaats vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
 <br>
 Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet gehaald wordt, wordt de oprichtingsperiode met maximaal een schooljaar verlengd, als het structuuronderdeel in die vestigingsplaats op de vorige teldag de programmatienorm gehaald heeft.<br>
+<br>
+De Vlaamse Regering kan wegens uitzonderlijke redenen van overmacht toelating geven om de academies, domeinen en structuuronderdelen die door de overmacht getroffen zijn vrij te stellen van het halen van de programmatienorm. De Vlaamse Regering bepaalt de duur van de vrijstelling.<br>
 <br>
 § 3.&nbsp;De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin in een vestigingsplaats minstens een traject van het nieuwe structuuronderdeel volledig is uitgebouwd en de programmatienorm, vermeld in artikel 121 of 122, in alle vestigingsplaatsen bereikt wordt.&nbsp;Een structuuronderdeel is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.<br>
 <br>
@@ -2256,6 +2315,8 @@ Academies, domeinen en structuuronderdelen in vestigingsplaatsen die op de telda
 Als een schoolbestuur overgaat tot de sluiting van een academie, een domein of een structuuronderdeel in een vestigingsplaats dat op een of twee opeenvolgende teldagen niet aan de rationalisatienorm voldoet, kunnen de leerlingen in het schooljaar van de teldag er les blijven volgen.<br>
 <br>
 De sluiting houdt in dat alle leerjaren van de academie, het domein in kwestie of het structuuronderdeel in de vestigingsplaats in kwestie gelijktijdig worden stopgezet. De sluiting heeft uitwerking op 1 september.<br>
+<br>
+De Vlaamse Regering kan wegens uitzonderlijke redenen van overmacht toelating geven om de academies, domeinen en structuuronderdelen die door de overmacht getroffen zijn vrij te stellen van het halen van de rationalisatienorm. De Vlaamse Regering bepaalt de duur van de vrijstelling.<br>
 &nbsp;
 
 ## Onderafdeling 5 Rationalisatienormen voor academies, domeinen en structuuronderdelen in vestigingsplaatsen
@@ -2625,6 +2686,10 @@ De Vlaamse Regering vraagt, voordat ze een beslissing als vermeld in het derde l
 <br>
 De overheveling vindt in een keer plaats en heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren uiterlijk 1 maart.<br>
 <br>
+In de overeenkomst van een overheveling van een structuuronderdeel die door beide schoolbesturen wordt ondertekend, wordt de overdracht van omkadering geregeld, die wordt berekend volgens de gegevens die het Agentschap voor Onderwijsdiensten aanreikt.<br>
+<br>
+Beide schoolbesturen kunnen tot één maand na de ontvangst van de geverifieerde omkaderingsgegevens van het Agentschap voor Onderwijsdiensten aanpassingen aan de regeling voor de overdracht van lestijden zoals gemeld voor 1 maart overeenkomen.<br>
+<br>
 § 2. Elke overheveling maakt het voorwerp uit van onderhandeling in het lokaal comité van zowel het overhevelende als het ontvangende schoolbestuur.<br>
 <br>
 § 3. Voor de subsidiëring of de financiering wordt de overheveling van het structuuronderdeel, vermeld in paragraaf 1, geacht al op de dag van 1 februari die aan de uitwerking van de overheveling voorafgaat, te hebben plaatsgevonden.<br>
@@ -2763,7 +2828,7 @@ De A­coëfficiënt, vermeld in het tweede lid, wordt voor 100% in rekening gebr
 
 ### ART 141.
 
-§ 1. Het puntenvolume per samenwerkingsinitiatief bedraagt 35 punten als er minstens 53 leerlingen gewoon basis- of secundair onderwijs of studenten hoger onderwijs aan deelnemen. Als er minder leerlingen deelnemen, wordt het puntenaantal pro rata verminderd.<br>
+§ 1. Het puntenvolume per samenwerkingsinitiatief bedraagt 35 punten als er minstens 53 leerlingen gewoon basis- of secundair onderwijs of studenten hoger onderwijs&nbsp;of zestien leerlingen buitengewoon basis- of secundair onderwijs aan deelnemen. Als er minder leerlingen deelnemen, wordt het puntenaantal pro rata verminderd.<br>
 <br>
 Het werkingsbudget per samenwerkingsinitiatief wordt bepaald door het aantal punten dat conform het eerste lid wordt toegekend, te vermenigvuldigen met de factor w, die jaarlijks berekend wordt door het totale volume van het werkingsbudget, dat wordt berekend conform artikel 140, §8, te delen door 9690<br>
 <br>
