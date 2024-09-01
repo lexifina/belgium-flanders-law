@@ -27,9 +27,21 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 2.
+
+Bijlage XVIII bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Grafische technieken wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.
+
 ### ART 3.
 
 Bijlage XXVII tot en met XXX bij het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied auto, toegevoegd bij het besluit van de Vlaamse Regering van 26 februari 2021, worden vervangen door bijlage 3 tot en met 6, die bij dit besluit zijn gevoegd.
+
+### ART 4.
+
+In het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de organisatie van het opleidingsaanbod in het volwassenenonderwijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, wordt hoofdstuk V, dat bestaat uit artikel 10 en 11, opgeheven.
+
+### ART 8.
+
+Bijlage XXXV en bijlage XXXIX bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden vervangen door bijlage 9 en 10, die bij dit besluit zijn gevoegd.&nbsp;
 
 ### ART 11.
 
@@ -50,6 +62,10 @@ In hetzelfde besluit worden de volgende bijlagen opgeheven:<br>
 2° bijlage 2;<br>
 3° bijlage 6, toegevoegd bij het besluit van de Vlaamse Regering van 1 maart 2013.
 
+### BIJLAGE 2
+
+Vervanging van bijlage XVIII bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Grafische technieken (→ <a href="https://www.ejustice.just.fgov.be/mopdf/2025/05/15_1.pdf#page=18">link naar de bijlage</a>)
+
 ### BIJLAGE 3
 
 Vervanging van bijlage XXVII bij het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied auto (→ <a href="https://www.ejustice.just.fgov.be/mopdf/2025/05/15_1.pdf#page=43">link naar de bijlage</a>)
@@ -65,3 +81,11 @@ Vervanging van bijlage XXIX bij het besluit van de Vlaamse Regering van 19 juli 
 ### BIJLAGE 6
 
 Vervanging van bijlage XXX bij het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied auto (→ <a href="https://www.ejustice.just.fgov.be/mopdf/2025/05/15_1.pdf#page=72">link naar de bijlage</a>)
+
+### BIJLAGE 9
+
+Vervanging van bijlage XXXV bij het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden afwerking bouw en ruwbouw (→ <a href="https://www.ejustice.just.fgov.be/mopdf/2025/05/15_1.pdf#page=92">link naar de bijlage</a>)
+
+### BIJLAGE 10
+
+Vervanging van bijlage XXXIX bij het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden afwerking bouw en ruwbouw (→ <a href="https://www.ejustice.just.fgov.be/mopdf/2025/05/15_1.pdf#page=121">link naar de bijlage</a>)
