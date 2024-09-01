@@ -119,7 +119,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 14
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2006/11/08_1_4.pdf#page=1">Bijlage 14</a>
+...
 
 ## Bijlage XV
 
