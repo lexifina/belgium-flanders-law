@@ -281,7 +281,7 @@ De prioriteitswetten van 3 augustus 1919 en 27 mei 1947 zijn niet van toepassing
 
 ### ART. 17.
 
-§ 1. Om als tijdelijk personeelslid te kunnen worden aangesteld moet het personeelslid op het ogenblik van de aanstelling voldoen aan volgende voorwaarden:<br>
+§1. Om als tijdelijk personeelslid te kunnen worden aangesteld moet het personeelslid op het ogenblik van de aanstelling voldoen aan volgende voorwaarden:<br>
 1° onderdaan van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie is, behoudens door de Vlaamse regering te verlenen vrijstelling;<br>
 2° de burgerlijke en politieke rechten geniet, behoudens een door de Vlaamse regering te verlenen vrijstelling die samengaat met de vrijstelling bedoeld in 1°;<br>
 3° houder zijn van een bekwaamheidsbewijs zoals bedoeld in artikel 3, 6°;<br>
@@ -290,15 +290,21 @@ De prioriteitswetten van 3 augustus 1919 en 27 mei 1947 zijn niet van toepassing
 6°...;<br>
 7° zich kandidaat hebben gesteld op een wijze bepaald door de het college van directeurs.<br>
 <br>
-§ 2. ...<br>
+§2. In afwijking van paragraaf 1, 3°, kan een personeelslid ten voorlopigen titel tijdelijk aangesteld worden op basis van een geldig ingediende aanvraag tot gelijkwaardigheid van zijn diploma bij het National Academic Recognition Information Centre (NARIC).<br>
 <br>
-§ 3. Niemand kan als tijdelijk personeelslid worden aangesteld in strijd met de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
+De voorlopige tijdelijke aanstelling, vermeld in het eerste lid, is niet mogelijk in een ambt dat of in een functie die ressorteert onder de bepalingen van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.<br>
 <br>
-§ 4. Bij gebrek aan kandidaten kan de directeur of raad van bestuur al naar gelang het geval afwijken van de in § 1, 7°, genoemde verplichting.<br>
+De voorlopige tijdelijke aanstelling, vermeld in het eerste lid, eindigt van rechtswege en zonder vooropzeg conform artikel 23, eerste lid, i), vanaf het ogenblik dat het personeelslid op basis van de beslissing van NARIC geen gelijkwaardigheid toegekend krijgt die voldoet als bekwaamheidsbewijs voor een aanstelling in dat ambt.<br>
 <br>
-§ 5. Onverminderd de bepalingen van dit decreet worden de leerkrachten levensbeschouwelijk onderricht door de directeur geworven, op voordracht van de bevoegde instantie van de betrokken godsdienst, respectievelijk de bevoegde instantie van de niet-confessionele zedenleer.<br>
+Tijdens de voorlopige tijdelijke aanstelling, vermeld in het eerste lid, heeft het personeelslid recht op een salaris op basis van de laagste salarisschaal die van toepassing is voor het ambt in kwestie.<br>
 <br>
-§ 6. Een tijdelijke aanstelling van een personeelslid dat houder is van een "ander bekwaamheidsbewijs" is in duur beperkt tot het lopende schooljaar.
+§3. Niemand kan als tijdelijk personeelslid worden aangesteld in strijd met de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
+<br>
+§4. Bij gebrek aan kandidaten kan de directeur of raad van bestuur al naar gelang het geval afwijken van de in § 1, 7°, genoemde verplichting.<br>
+<br>
+§5. Onverminderd de bepalingen van dit decreet worden de leerkrachten levensbeschouwelijk onderricht door de directeur geworven, op voordracht van de bevoegde instantie van de betrokken godsdienst, respectievelijk de bevoegde instantie van de niet-confessionele zedenleer.<br>
+<br>
+§6. Een tijdelijke aanstelling van een personeelslid dat houder is van een "ander bekwaamheidsbewijs" is in duur beperkt tot het lopende schooljaar.
 
 ### ART. 17bis.
 
