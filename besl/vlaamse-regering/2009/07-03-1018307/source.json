@@ -2,16 +2,16 @@
   "codex_id": 1018307,
   "title": "Besluit van de Vlaamse Regering van 2009-07-03 houdende de uitvoering van het decreet van 3 april 2009 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de studentensportvoorzieningen van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie (verv. BVR 6 juli 2018, art. 1, I: 1 september 2018)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018307/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "999a6f3b5f1c9bb1dd423881e503027826e4dceb23d5068240210751f78188c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018307/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "cb59b0a834c9e863dfdf655c121e1515267397f04f41496ebd2c88fd944b62ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018307&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2024-09-01",
   "made": "2009-07-03",
   "gazette": "2009-09-03",
   "numac": 2009035784,
   "document_start": "2009-09-03",
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

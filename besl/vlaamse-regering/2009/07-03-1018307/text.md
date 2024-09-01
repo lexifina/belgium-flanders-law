@@ -92,7 +92,7 @@ Het jaarlijkse verslag moet samen met het advies van de sportraad en, bij negati
 
 ### ART. 7.
 
-§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br>
+§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks uiterlijk op 30 april een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br>
 <br>
 Het voorschot bedraagt 80 % van het bedrag waarop de associatie recht heeft overeenkomstig artikel 3 van het decreet en artikel 1/1 van dit besluit.<br>
 <br>
