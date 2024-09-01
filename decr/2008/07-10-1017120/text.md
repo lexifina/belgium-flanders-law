@@ -269,15 +269,7 @@ Een centrum voor vorming van zelfstandigen en kleine en middelgrote onderneminge
 
 ### ART. 20.
 
-De Vlaamse Regering bepaalt welke opleidingen vanaf het schooljaar 2021-2022 vrij programmeerbaar, programmeerbaar mits goedkeuring door de Vlaamse Regering of niet programmeerbaar zijn. Een programmatie is noodzakelijk bij de oprichting van een opleiding die niet georganiseerd is op 1 oktober van de twee voorafgaande schooljaren, met de bedoeling om die opleiding in aanmerking te laten komen voor financiering of subsidiëring.<br>
-<br>
-Een vrij programmeerbare opleiding wordt door het centrumbestuur schriftelijk gemeld bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 1 april van het voorafgaande schooljaar. Een programmatie mits goedkeuring door de Vlaamse Regering wordt door het centrumbestuur schriftelijk aangevraagd bij de bevoegde diensten van de Vlaamse Gemeenschap uiterlijk op 30 november van het voorafgaande schooljaar. De motivering van de aanvraag houdt rekening met de criteria 1° tot en met 8°, vermeld in artikel 357/8 van de Codex Secundair Onderwijs. De onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap enerzijds en de Vlaamse Onderwijsraad anderzijds brengen een advies uit over de programmatie. De beslissing van de Vlaamse Regering, die ook rekening houdt met voormelde criteria, wordt genomen uiterlijk 31 maart van het voorafgaande schooljaar. De in dit lid voorziene termijnen zijn vervaltermijnen. Een programmatie die de uiterlijke datum voor melding of aanvraag overschrijdt, is onontvankelijk. Als de Vlaamse Regering niet op de uiterlijke datum heeft beslist, is de programmatie van rechtswege goedgekeurd.<br>
-<br>
-Uitsluitend wat het deeltijds beroepssecundair onderwijs betreft gaan bij de melding of aanvraag van een programmatie het protocol van de onderhandeling daarover in het bevoegde lokaal comité en, als het centrum tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
-<br>
-Uitsluitend wat de leertijd betreft komt de voorwaarde met betrekking tot programmatie, vermeld in het tweede lid, als subsidievoorwaarde bovenop de subsidievoorwaarden, bepaald in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".<br>
-<br>
-Als een programmatie van een opleiding een goedkeuring door de Vlaamse Regering vereist, kan het centrumbestuur dat de goedgekeurde programmatie voor een bepaalde opleiding het eerste schooljaar na de aanvraag niet organiseert, zonder bijkomende aanvraag of goedkeuring het bijkomende aanbod van die bepaalde opleiding pas organiseren vanaf 1 september van het daaropvolgende schooljaar.
+...
 
 ### ART. 21.
 
@@ -885,7 +877,11 @@ Voor de toepassing van deze bepaling worden de uren-leraar, aangewend voor gastl
 
 ### ART. 89.
 
-§ 1. Voor de categorie van het onderwijzend personeel wordt aan een   centrum voor deeltijds beroepssecundair onderwijs een pakket wekelijkse   uren-leraar toegekend, dat wordt vastgesteld naar rata van 3,66 uren-leraar per   jongere voor de schijf van 1 jongere tot en met 49 jongeren, en van 2,69   uren-leraar per jongere voor de schijf van 50 jongeren en meer. <BR><BR>Bovenop   het aldus berekende pakket uren-leraar wordt voor elke jongere die anderstalige   nieuwkomer is 1,20 uren-leraar toegekend. Deze verhoging kan enkel aangewend   worden om onthaalonderwijs te organiseren. De verhoging geldt uitsluitend voor   de periode van inschrijving van de betrokken jongere in het centrum tijdens het   eerste schooljaar waarin hij deeltijds beroepssecundair onderwijs volgt en wordt   tijdens dat schooljaar verstrekt.<BR><BR>§ 2. ...
+§ 1. Voor de categorie van het onderwijzend personeel wordt aan een centrum voor deeltijds beroepssecundair onderwijs een pakket wekelijkse uren-leraar toegekend, dat wordt vastgesteld naar rata van 3,66 uren-leraar per jongere voor de schijf van 1 jongere tot en met 49 jongeren, en van 2,69 uren-leraar per jongere voor de schijf van 50 jongeren en meer.<br>
+<br>
+Bovenop het aldus berekende pakket uren-leraar wordt voor elke jongere die anderstalige nieuwkomer is 1,20 uren-leraar toegekend. Deze verhoging kan enkel aangewend worden om onthaalonderwijs te organiseren. De verhoging geldt uitsluitend voor de periode van inschrijving van de betrokken jongere in het centrum tijdens het eerste schooljaar en wordt tijdens dat schooljaar verstrekt.<br>
+<br>
+§ 2. ...
 
 ### ART. 90.
 
