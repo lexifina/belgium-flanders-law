@@ -41,9 +41,9 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 3.
 
-§ 1. De Beiaardschool kan alleen een langlopende studierichting beiaardier en een kortlopende studierichting specialisatie: optie beiaardier organiseren.<br>
+§1. De Beiaardschool kan alleen een langlopende studierichting beiaardier en een kortlopende studierichting specialisatie: optie beiaardier organiseren.<br>
 <br>
-§ 2. Het aantal wekelijkse lestijden dat de Beiaardschool in de verschillende graden over heel de graad bekeken organiseert als ze de graad in kwestie organiseert, bedraagt:<br>
+§2. Het aantal wekelijkse lestijden dat de Beiaardschool in de verschillende graden over heel de graad bekeken organiseert als ze de graad in kwestie organiseert, bedraagt:<br>
 1° in de twee leerjaren van de eerste graad: 2 lestijden;<br>
 2° in de vier leerjaren van de tweede graad voor volwassenen: 14 lestijden;<br>
 3° in de drie of vier leerjaren van de derde graad: 12 lestijden;<br>
@@ -51,9 +51,9 @@ In dit besluit wordt verstaan onder:<br>
 <br>
 Als de Beiaardschool de kortlopende studierichting specialisatie: optie beiaardier organiseert, bedraagt de studieomvang vier wekelijkse lestijden over het geheel van de twee leerjaren bekeken.<br>
 <br>
-§ 3. In afwijking van § 2 kan de Beiaardschool de studierichtingen ook organiseren in intensievere lespakketten van minimaal tweehonderd jaarlijkse lestijden op een kortere termijn dan een leerjaar in het lineaire traject.<br>
+§3. In afwijking van paragraaf 2 kan de Beiaardschool de studierichtingen ook organiseren in intensievere lespakketten op een kortere termijn dan een leerjaar in het lineaire traject. In het voormelde geval is de totale studieomvang dezelfde als die van een leerjaar in het lineaire traject.<br>
 <br>
-§ 4. De volgende beroepskwalificatie geldt voor de vierde graad van de langlopende studierichting beiaardier, vermeld in artikel 18 § 1, 1° van het decreet van 9 maart 2018: beiaardier.
+§4. De volgende beroepskwalificatie geldt voor de vierde graad van de langlopende studierichting beiaardier, vermeld in artikel 18 § 1, 1° van het decreet van 9 maart 2018: beiaardier.
 
 ### ART 4.
 
