@@ -97,6 +97,21 @@ De eindejaarstoelage wordt uitbetaald tijdens de maand december van het lopende 
 <br>
 Wanneer de tewerkstelling eindigt, wordt de eindejaarstoelage, in afwijking van het vorige lid, berekend op het brutosalaris voor volledige prestaties van de laatste maand van tewerkstelling en de maand na het beëindigen van de tewerkstelling uitbetaald.
 
+### ART 6/1.
+
+In afwijking van artikel 6, tweede lid, kan het personeelslid er voor de aanvang van de referteperiode, vermeld in artikel 5, uitdrukkelijk voor kiezen om de eindejaarstoelage volledig of gedeeltelijk om te zetten in een theoretisch budget waarmee het personeelslid vervolgens kan kiezen voor voordelen in het kader van fietsleasing.&nbsp;<br>
+<br>
+In afwijking van het eerste lid kan het personeelslid tijdens de referteperiode, vermeld in artikel 5, er uitdrukkelijk voor kiezen om het gedeelte van de eindejaarstoelage waarop nog geen recht is ontstaan, volledig of gedeeltelijk om te zetten in een theoretisch budget waarbinnen het personeelslid vervolgens kan kiezen voor voordelen in het kader van fietsleasing.<br>
+<br>
+Een personeelslid kan alleen maar kiezen voor voordelen in het kader van fietsleasing als vermeld in het eerste en tweede lid, als al de hierna volgende voorwaarden zijn vervuld:<br>
+1°&nbsp;&nbsp; &nbsp;de universiteit beschikt over een regeling voor de leasing van bedrijfsfietsen, die is vastgelegd na onderhandelingen met de personeelsvertegenwoordigers;<br>
+2°&nbsp;&nbsp; &nbsp;het personeelslid valt onder het toepassingsgebied van de regeling voor de leasing van bedrijfsfietsen, vermeld in punt 1°;<br>
+3°&nbsp;&nbsp; &nbsp;het personeelslid ressorteert onder het wettelijke stelsel van de Belgische sociale zekerheid.<br>
+<br>
+Het personeelslid dat conform het eerste tot en met het derde lid, ervoor kiest om de eindejaarstoelage volledig of gedeeltelijk om te zetten in een theoretisch budget waarmee het personeelslid vervolgens kan kiezen voor voordelen in het kader van fietsleasing, doet voor de periode waarop de fietsleasing betrekking heeft definitief afstand van het recht op de volledige of gedeeltelijke eindejaarstoelage.<br>
+<br>
+In geval van een gedeeltelijke omzetting van de eindejaarstoelage met toepassing van het eerste lid of als de leaseprijs lager is dan de eindejaarstoelage die met toepassing van het eerste lid wordt ingeruild, wordt het saldo jaarlijks uitbetaald als toelage.
+
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 7.
