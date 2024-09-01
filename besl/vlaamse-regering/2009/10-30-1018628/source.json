@@ -2,16 +2,16 @@
   "codex_id": 1018628,
   "title": "Besluit van de Vlaamse Regering van 2009-10-30 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018628/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "b5fc878a3f16cf4b2ee015add904c83c7bf451734a50fa0c121ba26bb8a3e1c2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018628/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "20c7312c7a69bbbc2487807351c237d441cf9612e0fddd40c5b76fb9f74e5c60",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018628&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2024-09-01",
   "made": "2009-10-30",
   "gazette": "2009-12-28",
   "numac": 2009036148,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

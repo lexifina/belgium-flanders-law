@@ -15,19 +15,15 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs, gefinancierd o
 In dit besluit wordt verstaan onder :<br>
 1° aanvullende lestijden : de aanvullende lestijden vermeld in artikel 138, § 1, 6°, van het decreet Basisonderwijs.<br>
 2° ...;<br>
-3° concentratiegraad: de procentuele verhouding tussen :<br>
-a) het aantal regelmatige leerlingen in type basisaanbod en type 3 dat beantwoordt aan de in artikel 139undecies, § 1, 1° van het decreet bedoelde gelijkekansenindicator die niet :<br>
-- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, § 1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-- in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
-b) het totale aantal regelmatige leerlingen in type basisaanbod en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar, die niet :<br>
-- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, § 1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
-- in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+3° ...;<br>
 4° decreet : het decreet Basisonderwijs van 25 februari 1997;<br>
 5° ...;<br>
 6° gelijkekansenindicatoren : de gelijkekansenindicatoren bedoeld in artikel 139undecies, § 1, van het decreet;<br>
 7° ...<br>
 <br>
-Leerlingen type 1, die vallen onder de toepassing van artikel 15, § 5, van het decreet basisonderwijs van 25 februari 1997 en die voldoen aan de gelijkekansenindicator, vermeld in artikel 139undecies, § 1, 1°, van het voormelde decreet, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.<br>
+De leerlingen in het buitengewoon basisonderwijs die regelmatige leerlingen in het type basisaanbod of type 3 zijn en die binnen de niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 2, §1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, niet gebruik maken van de module verblijf in een multifunctioneel centrum als vermeld in artikel 10, §1, 1° en §2, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, vallen onder de toepassing van dit besluit.<br>
+<br>
+Leerlingen type 1 die vallen onder de toepassing van artikel 15, §5, van het decreet en die voldoen aan de gelijkekansenindicator, vermeld in artikel 139undecies, §1, 1°, van het decreet, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.<br>
 &nbsp;
 
 ## HOOFDSTUK II Gelijkekansenindicatoren
@@ -48,32 +44,15 @@ Elke leerling die beantwoordt aan één of meerdere gelijkekansenindicatoren kri
 
 ### ART. 6.
 
-§ 1. Het totaal aantal aanvullende lestijden wordt in toepassing van artikel 139terdecies, § 1, van het decreet als volgt berekend :<br>
-SigmaL = 0,233 x SigmaP<br>
-Waarbij,<br>
-SigmaL = totaal aantal aanvullende lestijden.<br>
-SigmaP= totaal aantal punten van de verschillende scholen met een concentratiegraad van ten minste 40 %.<br>
+Het totale aantal aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs waar de school recht op heeft, wordt met toepassing van artikel 139terdecies van het decreet op de volgende wijze berekend:<br>
+1° het aantal punten dat de school dat met toepassing van artikel 5 van dit besluit genereert op de eerste schooldag van februari van het voorgaande schooljaar, vermeld in artikel 139duodecies van het decreet, wordt vermenigvuldigd met 0,252220818 lestijden;<br>
+2° het aantal lestijden dat met toepassing van punt 1° wordt verkregen, wordt afgerond naar de hogere eenheid als het eerste cijfer na de komma groter dan vier is en naar de lagere eenheid als het eerste cijfer na de komma kleiner dan of gelijk aan vier is.<br>
 <br>
-§ 2. Het totaal aantal aanvullende lestijden per school wordt als volgt berekend :<br>
-a) [afgerond (0,233 x P)] = L, waarbij<br>
-P = aantal punten per school; dit is 0 als de concentratiegraad &lt; 40 % is.<br>
-L= Lestijden voor 1 school.<br>
-Scholen waarvoor [afgerond (0,233 x P)] &lt; 6, krijgen geen lestijden, de lestijden die hierdoor vrijkomen, worden bijkomend verdeeld over de scholen waarvoor<br>
-[afgerond (0,233 x P)] &gt;= 6.<br>
-b) Het definitief aantal lestijden per school wordt dan berekend als volgt :<br>
-Ldef = (SigmaL2/SigmaP2 + 0,233) x P2<br>
-Waarbij :<br>
-Ldef = definitief aantal lestijden voor een school<br>
-SigmaL2 = som van L voor scholen waar L &lt; 6 en de concentratiegraad &gt;= 40 % is.<br>
-SigmaP2 = totaal aantal punten van de scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 % is.<br>
-P2 = aantal punten per school voor scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 %.<br>
-<br>
-§ 3. ...<br>
-&nbsp;
+De lestijden, vermeld in het eerste lid, worden toegekend als de school beantwoordt aan de voorwaarden, vermeld in artikel 139duodecies van het decreet.
 
 ### ART. 7.
 
-Het aantal aanvullende lestijden dat een school door vermenigvuldiging van het aantal punten met het aantal aanvullende lestijden per punt verkrijgt, wordt afgerond :<br />1° naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier;<br />2° naar de lagere eenheid als het eerste cijfer na de komma gelijk is aan of kleiner is dan vier.<br /><br />
+...
 
 ### ART. 8.
 
