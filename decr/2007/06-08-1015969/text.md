@@ -78,6 +78,7 @@ f) een lerarenopleiding als vermeld in artikel II.111 van de Codex Hoger Onderwi
 38° studietoelage : financiële middelen, toegekend door de Vlaamse Gemeenschap, aan minvermogende studenten in het hoger onderwijs van de Vlaamse Gemeenschap;<br>
 39° toelage :&nbsp;een studietoelage;<br>
 40° uitschrijven : het vroegtijdig stopzetten van dat deel van de opleiding waarvoor de aanvrager,&nbsp;student&nbsp;zich voor het&nbsp;academiejaar in kwestie heeft ingeschreven, op verzoek van de aanvrager of zijn wettelijke vertegenwoordiger;<br>
+40°/1 vervangingsinkomsten: vergoedingen van alle aard die gedurende het uitoefenen van de beroepswerkzaamheid of na stopzetting daarvan zijn verkregen tot volledig of gedeeltelijk herstel van een tijdelijke derving van winsten, baten, bezoldigingen of beloningen uit verenigingsactiviteiten, vermeld in artikel 25, eerste lid, 6°, b), artikel 27, tweede lid, 4°, b), artikel 28, eerste lid, 3°, b), artikel 29, 31, tweede lid, 4°, artikel 32, tweede lid, 2°, artikel 33, derde lid, of artikel 90, eerste lid, 1°, van het Wetboek van de inkomstenbelastingen 1992;<br>
 41° verworven studiepunten : studiepunten waarvoor aan de student een creditbewijs werd verleend voor het met een diplomacontract volgen van een opleiding zoals bedoeld in artikel 20, § 1 en § 2, artikel 21, § 1, en artikel 30, § 1;<br>
 42° voltijds studietraject : een studietraject in het hoger onderwijs met een studieprogramma van zestig studiepunten;<br>
 43° voorbereidingsprogramma : begrip als vermeld in artikel I.3, 76°, van de Codex Hoger Onderwijs, dat niet gevolgd wordt in voorbereiding op een bachelor-na-bacheloropleiding of een master-na-masteropleiding;<br>
@@ -123,7 +124,7 @@ De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderh
 8° personen die op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in § 1 of § 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken academiejaar minstens twaalf maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen;<br>
 9° personen die genieten van tijdelijke bescherming op basis van de richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen of personen van wie de ouders genieten van deze bescherming en de student verblijft al van zijn minderjarigheid in België.<br>
 <br>
-§ 3. In afwijking van paragraaf 1 en 2 kan een toelage worden toegekend aan een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+§ 3. In afwijking van paragraaf 1 en 2 kan een toelage worden toegekend aan een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij een pleeggezin verblijft.<br>
 <br>
 &nbsp;
 
@@ -498,7 +499,9 @@ Voor de berekening van het bedrag van de toelage in het hoger onderwijs wordt er
 De volgende studenten worden beschouwd als kotstudenten :<br>
 1° de student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor respectievelijk een volledig academiejaar of een semester en die een huurovereenkomst heeft gesloten voor respectievelijk minstens acht of vier maanden met betrekking tot een woonst die zich op een ander adres dan zijn hoofdverblijfplaats bevindt;<br>
 2° de student die een opleiding volgt in het buitenland;<br>
-3° de gehuwde, zelfstandige of alleenstaande student.<br>
+3° de gehuwde student;<br>
+4° de alleenstaande student;<br>
+5°&nbsp;&nbsp; &nbsp;de zelfstandige student die zijn hoofdverblijfplaats niet bij een van de ouders heeft.<br>
 <br>
 De student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor een periode die korter is dan een semester, wordt beschouwd als niet-kotstudent.<br>
 &nbsp;
