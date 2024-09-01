@@ -31,6 +31,10 @@ a) met betrekking tot de ouderdom van het voertuig: het voertuig heeft een ouder
 b) met betrekking tot de kilometerstand van het voertuig: de kilometerstand van het voertuig heeft 100.000 kilometer niet overschreden;<br>
 1°bis &nbsp;met een periodiciteit van twee jaar, vanaf het ogenblik dat het voertuig vier jaar oud is geworden, wat betreft de koppelingsinrichting, vermeld in §1, 3°, b), zolang het voertuig dat ermee is uitgerust voldoet aan de voorwaarden, vermeld in punt 1°;”.
 
+### ART 2.
+
+Artikel 23ter, §2, 1° en 1°bis van het koninklijk besluit van 15 maart 1968, zoals opnieuw ingevoegd bij artikel 1, wordt opgeheven.
+
 ### ART 3.
 
 Artikel 1 heeft uitwerking met ingang van 1 juli 2024 en artikel 2 heeft uitwerking met ingang van 1 september 2024.<br>
