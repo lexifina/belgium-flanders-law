@@ -1412,6 +1412,10 @@ Zodra aan zijn aanwijzing een einde komt, bezorgt het bevoegde   personeelslid d
 
 Voor de toepassing van artikel 3.13.2.0.1, eerste lid, artikel 3.13.2.0.2 en artikel 3.13.2.0.4 van de Vlaamse Codex Fiscaliteit van 13 december 2013 dragen de bevoegde personeelsleden een uniform en verplaatsen ze zich in een dienstvoertuig. De leidend ambtenaar van de bevoegde entiteit van de Vlaamse administratie bepaalt het model van de voormelde uniformen en de uiterlijke kenmerken van de dienstvoertuigen.
 
+### ART 3.13.2.0.5.
+
+Het bericht van inbeslagneming, vermeld in artikel 3.13.2.0.4, §3, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, geeft aanleiding tot de opmaak en de verzending door de bevoegde entiteit van de Vlaamse administratie van een bericht van beslag als vermeld in artikel 1390 van het Gerechtelijk Wetboek.
+
 ## HOOFDSTUK 14. Verjaring
 
 ## Afdeling 1. Termijn
