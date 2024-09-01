@@ -20,7 +20,8 @@ In dit decreet wordt verstaan onder:<br>
 9° EVC-traject: een traject tot erkenning van verworven competenties;<br>
 10° onderwijsinspectie: de inspectie, vermeld in titel IV van deel II van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
 11° lerende: een individu ingeschreven in een beroepskwalificerend opleidingstraject of in een beroepskwalificerend EVC-traject;<br>
-12° normaal tijdsbestek: zonder onderbreking en zonder herhaling van een onderdeel.
+12° normaal tijdsbestek: zonder onderbreking en zonder herhaling van een onderdeel.<br>
+13° verwerkingsverantwoordelijke: de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ### ART 3.
 
@@ -101,3 +102,54 @@ Indien een beroepskwalificatie of deelkwalificatie werd geactualiseerd of geschr
 Bij de bepaling van de verdere modaliteiten van het kwaliteitstoezicht, vermeld in artikel 6, vierde lid, kan de Vlaamse Regering in voorkomend geval een procedure tot remediëring vastleggen.<br>
 <br>
 Vanaf de dag van de schrapping uit het register mogen er geen nieuwe lerenden starten in het traject. In afwijking van het eerste lid, moeten de lerenden die op het moment van de stopzetting van de erkenning ingeschreven zijn in dat beroepskwalificerend traject, het aangevatte traject volledig en binnen een normaal tijdsbestek kunnen beëindigen en een bewijs van beroepskwalificatie, deelkwalificatie en competenties kunnen behalen.
+
+## HOOFDSTUK 4. Bepalingen voor de beleidsvelden werkgelegenheid en professionele vorming
+
+### ART 10.
+
+Dit hoofdstuk is van toepassing op de beleidsvelden werkgelegenheid en professionele vorming.
+
+### ART 11.
+
+In het kader van monitoring van de doelmatigheid en het bereik van de maatregel beroepskwalificerende trajecten, bezorgt de organisatie voor het einde van de maand januari per erkend beroepskwalificerend traject de volgende<br>
+&nbsp;<br>
+gegevens die betrekking hebben op het voorgaande kalenderjaar aan het Departement Werk en Sociale Economie:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam en het rijksregisternummer van de lerende;<br>
+2°&nbsp;&nbsp; &nbsp;de begindatum van het beroepskwalificerend traject;<br>
+3° de beroepskwalificatie, deelkwalificatie of competenties die de lerende heeft behaald of de vermelding dat de lerende geen beroeps- of deelkwalificatie of competenties heeft behaald.<br>
+<br>
+In het kader van beleidsmatige evaluatie van beroepskwalificerende trajecten kan het Departement Werk en Sociale Economie bijkomende gegevens, die geen persoonsgegevens zijn, opvragen. De organisatie bezorgt de voormelde gegevens aan het Departement Werk en Sociale Economie binnen dertig dagen nadat ze de voormelde vraag heeft ontvangen.<br>
+<br>
+De organisatie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de overdracht van de gegevens, vermeld in het eerste lid.<br>
+<br>
+De organisatie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang als nodig voor de monitoring en met een maximumtermijn van tien jaar.<br>
+<br>
+Het Departement Werk en Sociale Economie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van de monitoring, vermeld in het eerste lid.<br>
+<br>
+Het Departement Werk en Sociale Economie bewaart de gegevens, vermeld in het eerste lid, slechts zo lang als nodig voor de monitoring en met een maximumtermijn van tien jaar.
+
+### ART 12.
+
+De bewijzen van beroepskwalificatie worden uiterlijk uitgereikt en geregistreerd in de databank, vermeld in artikel 13, twee maanden nadat het beroepskwalificerend traject beëindigd is.<br>
+<br>
+Een bewijs van deelkwalificatie en een bewijs van competenties kunnen tijdens een traject worden uitgereikt aan de lerende die ervoor in aanmerking komt, als de lerende erom vraagt.<br>
+<br>
+De organisatie registreert de volgende gegevens om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken aan de lerende:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam en het rijksregisternummer van de lerende; 2°&nbsp;&nbsp; &nbsp;de beroepskwalificatie die is beoordeeld;<br>
+3°&nbsp;&nbsp; &nbsp;het resultaat van de beoordeling;<br>
+4°&nbsp;&nbsp; &nbsp;een overzicht van de bewezen competenties;<br>
+5°&nbsp;&nbsp; &nbsp;de beslissing om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken;<br>
+6°&nbsp;&nbsp; &nbsp;de datum van de beoordeling.<br>
+<br>
+De organisatie is in het geval, vermeld in het eerste lid, de verwerkingsverantwoordelijke.<br>
+<br>
+De organisatie bewaart de gegevens, vermeld in het eerste lid, tot een jaar na de betekening van de beslissing om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken.
+
+### ART 13.
+
+In dit artikel wordt verstaan onder leer- en ervaringsbewijzendatabank: de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+<br>
+De organisatie registreert de volgende gegevens in de leer- en ervaringsbewijzendatabank:<br>
+1° het rijksregisternummer van de lerende die een bewijs van beroepskwalificatie, een bewijs van deelkwalificatie of een bewijs van competenties heeft verworven;<br>
+2° de naam van het bewijs van beroepskwalificatie, deelkwalificatie of competenties;<br>
+3° de datum waarop het bewijs is uitgereikt aan de lerende.
