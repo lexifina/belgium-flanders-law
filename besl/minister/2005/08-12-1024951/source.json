@@ -2,16 +2,16 @@
   "codex_id": 1024951,
   "title": "Ministerieel besluit van 2005-08-12 houdende bijzondere bepalingen inzake prijzen voor de sector van de instellingen voor bejaardenopvang",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024951/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "024a20f170086f637e860de951322a760c79833131ed5a96552a64d6b0ab85c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024951/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "737953174cb770925fd2deffb3e284b8e83019b91d08e07d6bd3f2282a9af78f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024951&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2024-09-01",
   "made": "2005-08-12",
   "gazette": "2005-08-31",
   "numac": 200511348,
   "document_start": "2005-09-01",
   "document_end": "2024-08-31",
-  "in_force": "2024-04-01",
+  "in_force": "2024-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }
