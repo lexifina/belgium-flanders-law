@@ -122,7 +122,7 @@ De oproep wordt bekendgemaakt via de kanalen van het beleidsdomein Onderwijs en 
 
 ### ART 7.
 
-Het voorstel voor een lokaal samenwerkingsinitiatief wordt uiterlijk ingediend op 15 februari van het schooljaar dat voorafgaat aan de opstart van het samenwerkingsinitiatief. Het volledig ingevulde online aanvraagformulier wordt ingediend op de website van de bevoegde dienst van het beleidsdomein Onderwijs en Vorming. Alleen voorstellen die op die wijze zijn ingediend, zijn ontvankelijk.<br>
+Het voorstel voor een lokaal samenwerkingsinitiatief wordt uiterlijk ingediend op 15 januari van het schooljaar dat voorafgaat aan de opstart van het samenwerkingsinitiatief. Het volledig ingevulde online aanvraagformulier wordt ingediend op de website van de bevoegde dienst van het beleidsdomein Onderwijs en Vorming. Alleen voorstellen die op die wijze zijn ingediend, zijn ontvankelijk.<br>
 <br>
 De academie die een voorstel indient, wijst een verantwoordelijke aan die optreedt als contactpersoon voor de bevoegde dienst van het beleidsdomein Onderwijs en Vorming.<br>
 <br>
@@ -155,12 +155,12 @@ De beoordelingscommissie bestaat uit ambtenaren van het beleidsdomein Onderwijs 
 <br>
 Onder externe experts, vermeld in het tweede lid, worden experts verstaan die niet behoren tot de Vlaamse Overheid of de Vlaamse Onderwijsraad.<br>
 <br>
-De beoordelingscommissie maakt voor 31 maart een gemotiveerde rangschikking van de voorstellen op basis van de criteria, vermeld in artikel 8 en legt die voor aan de minister. Het verslag bevat de afweging van de voorstellen ten opzichte van de criteria, vermeld in artikel 8.<br>
+De beoordelingscommissie maakt voor 3 maart een gemotiveerde rangschikking van de voorstellen op basis van de criteria, vermeld in artikel 8 en legt die voor aan de minister. Het verslag bevat de afweging van de voorstellen ten opzichte van de criteria, vermeld in artikel 8.<br>
 &nbsp;
 
 ### ART 10.
 
-De bevoegde dienst van het departement Onderwijs en Vorming deelt uiterlijk op 15 mei de beslissing van de minister, mee aan de academies, de scholen, de instellingen voor hoger onderwijs en de externe partners in kwestie.
+De bevoegde dienst van het departement Onderwijs en Vorming deelt uiterlijk op 15 april de beslissing van de minister, mee aan de academies, de scholen, de instellingen voor hoger onderwijs en de externe partners in kwestie.
 
 ## Hoofdstuk 3 Organisatie van een lokaal samenwerkingsinitiatief
 
