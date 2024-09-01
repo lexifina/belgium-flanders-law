@@ -264,6 +264,26 @@ DE VLAAMSE REGERING BESLUIT:
 Aan artikel 21, eerste lid, van het VLAREBO-besluit van 14 december 2007, vervangen bij het besluit van de Vlaamse Regering van 16 mei 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, wordt een punt 3° toegevoegd, dat luidt als volgt:&nbsp;<br>
 “3° de uitvoering van brandblusoefeningen waarbij PFAS-houdend blusschuim gebruikt wordt of werd.”.
 
+### ART 2.
+
+In artikel 158 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 21 september 2018, wordt punt 5° vervangen door wat volgt:<br>
+“5° kadastrale werkzone: een geheel van gronden, met soortgelijke kenmerken die een gelijkwaardig betekenisvol effect op het milieu hebben of een gelijkwaardig betekenisvol risico voor de volksgezondheid inhouden, dat afgebakend wordt met het oog op het gebruik van bodemmaterialen in het kader van de uitvoering van een project.&nbsp;<br>
+De soortgelijke kenmerken hebben betrekking op de bodem, de functies die de bodem vervult of zal vervullen en de activiteiten die op de bodem worden uitgeoefend, in het bijzonder:<br>
+a) het bestemmingstype, de voormalige en huidige functie van de gronden;&nbsp;<br>
+b) de toekomstige functie van de gronden;<br>
+c) de verontreinigingshypothese voor de bodem van de gronden;<br>
+d) de verontreinigingskarakteristieken van de bodem van de gronden:&nbsp;<br>
+&nbsp; 1) de verontreinigingstoestand;<br>
+&nbsp; 2) het verspreidingspatroon;<br>
+&nbsp; 3) de aard van de verontreiniging;<br>
+&nbsp; 4) de ernst van de verontreiniging;<br>
+e) de specifieke toepassing van bodemmaterialen die in het verleden aangevoerd zijn.<br>
+Het project kan bestaan uit de uitvoering van natuurinrichting, landinrichting of landschapsaanleg, of &nbsp;de ontwikkeling van een bouwwerk, infrastructuur of een civieltechnische toepassing, of meerdere van die elementen samen, waarbij de verwezenlijking van die elementen een geografisch of operationeel samenhangend geheel vormt dat gefaseerd kan worden uitgevoerd en voorwerp kan zijn van afzonderlijke vergunningen of machtigingen;”.
+
+### ART 3.
+
+In artikel 163 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 21 september 2018, wordt de zin “Een kadastrale werkzone wordt afgebakend conform een code van goede praktijk die wordt ingevuld op basis van kenmerken die een betekenisvol effect hebben op het milieu, of die een betekenisvol risico voor de volksgezondheid inhouden.” vervangen door de zin “Een kadastrale werkzone wordt afgebakend conform een code van goede praktijk die op voorstel van de OVAM wordt vastgesteld door de minister.”.
+
 ### ART 4.
 
 In artikel 217/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2013, wordt het percentage “32%” vervangen door het percentage “25%”.
