@@ -566,83 +566,83 @@ Artikel 46 en 47 hebben uitwerking met ingang van 1 september 2022 voor de insch
 
 De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
 
-### BIJLAGE
+### BIJLAGE 1
 
-Bijlage 1. Gemeenten en regio's als vermeld in artikel 36<br>
+Bijlage 1. Gemeenten en regio's als vermeld in artikel 36.<br>
 <br>
-I. Werkingsgebied van de lokale overlegplatformen voor het basisonderwijs:&nbsp;<br>
-1°&nbsp;&nbsp; &nbsp;Aalst;<br>
-2°&nbsp;&nbsp; &nbsp;Aarschot;<br>
-3°&nbsp;&nbsp; &nbsp;Antwerpen;<br>
-4°&nbsp;&nbsp; &nbsp;Beringen;<br>
-5°&nbsp;&nbsp; &nbsp;Bilzen;<br>
-6°&nbsp;&nbsp; &nbsp;Boom;<br>
-7°&nbsp;&nbsp; &nbsp;Brugge;<br>
-8°&nbsp;&nbsp; &nbsp;Brussel-Hoofdstad;<br>
-9°&nbsp;&nbsp; &nbsp;Dendermonde;<br>
-10°&nbsp;&nbsp; &nbsp;De Panne - Koksijde - Nieuwpoort;<br>
-11°&nbsp;&nbsp; &nbsp;Diest;<br>
-12°&nbsp;&nbsp; &nbsp;Dilsen-Stokkem;<br>
-13°&nbsp;&nbsp; &nbsp;Genk;<br>
-14°&nbsp;&nbsp; &nbsp;Gent;<br>
-15°&nbsp;&nbsp; &nbsp;Geraardsbergen;<br>
-16°&nbsp;&nbsp; &nbsp;Halle - Beersel - Sint-Pieters-Leeuw;<br>
-17°&nbsp;&nbsp; &nbsp;Hamme;<br>
-18°&nbsp;&nbsp; &nbsp;Hasselt;<br>
-19°&nbsp;&nbsp; &nbsp;Heusden-Zolder;<br>
-20°&nbsp;&nbsp; &nbsp;Houthalen-Helchteren;<br>
-21°&nbsp;&nbsp; &nbsp;Kortrijk;<br>
-22°&nbsp;&nbsp; &nbsp;Leopoldsburg;<br>
-23°&nbsp;&nbsp; &nbsp;Leuven;<br>
-24°&nbsp;&nbsp; &nbsp;Lier;<br>
-25°&nbsp;&nbsp; &nbsp;Lokeren;<br>
-26°&nbsp;&nbsp; &nbsp;Maasmechelen;<br>
-27°&nbsp;&nbsp; &nbsp;Mechelen - Bonheiden - Sint-Katelijne-Waver - Zemst;<br>
-28°&nbsp;&nbsp; &nbsp;Menen;<br>
-29°&nbsp;&nbsp; &nbsp;Oostende - Middelkerke;<br>
-30°&nbsp;&nbsp; &nbsp;Oudenaarde;<br>
-31°&nbsp;&nbsp; &nbsp;Roeselare;<br>
-32°&nbsp;&nbsp; &nbsp;Ronse;<br>
-33°&nbsp;&nbsp; &nbsp;Sint-Niklaas;<br>
-34°&nbsp;&nbsp; &nbsp;Sint-Truiden;<br>
-35°&nbsp;&nbsp; &nbsp;Temse;<br>
-36°&nbsp;&nbsp; &nbsp;Tienen;<br>
-37°&nbsp;&nbsp; &nbsp;Tongeren;<br>
-38°&nbsp;&nbsp; &nbsp;Turnhout;<br>
-39°&nbsp;&nbsp; &nbsp;Vilvoorde;<br>
-40°&nbsp;&nbsp; &nbsp;Willebroek;<br>
-41°&nbsp;&nbsp; &nbsp;Zele.<br>
+I. Werkingsgebied van de lokale overlegplatformen voor het basisonderwijs:<br>
+1° Aalst;<br>
+2° Aarschot;<br>
+3° Antwerpen;<br>
+4° Beringen;<br>
+5° Bilzen-Hoeselt;<br>
+6° Boom;<br>
+7° Brugge;<br>
+8° Brussel-Hoofdstad;<br>
+9° Dendermonde;<br>
+10° De Panne - Koksijde - Nieuwpoort;<br>
+11° Diest;<br>
+12° Dilsen-Stokkem;<br>
+13° Genk;<br>
+14° Gent;<br>
+15° Geraardsbergen;<br>
+16° Halle - Beersel - Sint-Pieters-Leeuw;<br>
+17° Hamme;<br>
+18° Hasselt;&nbsp;<br>
+19° Heusden-Zolder;<br>
+20° Houthalen-Helchteren;<br>
+21° Kortrijk;<br>
+22° Leopoldsburg;<br>
+23° Leuven;<br>
+24° Lier;<br>
+25° Lokeren;<br>
+26° Maasmechelen;<br>
+27° Mechelen - Bonheiden - Sint-Katelijne-Waver - Zemst;<br>
+28° Menen;<br>
+29° Oostende - Middelkerke;<br>
+30° Oudenaarde;<br>
+31° Roeselare;<br>
+32° Ronse;<br>
+33° Sint-Niklaas;<br>
+34° Sint-Truiden;<br>
+35° Temse;<br>
+36° Tienen;<br>
+37° Tongeren – Borgloon;&nbsp;<br>
+38° Turnhout;<br>
+39° Vilvoorde;<br>
+40° Willebroek;<br>
+41° Zele.<br>
 <br>
 II. Werkingsgebied van de lokale overlegplatformen voor het secundair onderwijs:<br>
-42°&nbsp;&nbsp; &nbsp;Aalst;<br>
-43°&nbsp;&nbsp; &nbsp;Antwerpen;<br>
-44°&nbsp;&nbsp; &nbsp;Beringen-Leopoldsburg;<br>
-45°&nbsp;&nbsp; &nbsp;Boom - Willebroek;<br>
-46°&nbsp;&nbsp; &nbsp;Brugge - Blankenberge;<br>
-47°&nbsp;&nbsp; &nbsp;Brussel-Hoofdstad;<br>
-48°&nbsp;&nbsp; &nbsp;Dendermonde;<br>
-49°&nbsp;&nbsp; &nbsp;Diest;<br>
-50°&nbsp;&nbsp; &nbsp;Genk;<br>
-51°&nbsp;&nbsp; &nbsp;Gent;<br>
-52°&nbsp;&nbsp; &nbsp;Geraardsbergen - Oudenaarde – Ronse;<br>
-53°&nbsp;&nbsp; &nbsp;Halle - Beersel - Sint-Pieters-Leeuw;<br>
-54°&nbsp;&nbsp; &nbsp;Hamme - Zele;<br>
-55°&nbsp;&nbsp; &nbsp;Hasselt;<br>
-56°&nbsp;&nbsp; &nbsp;Heusden-Zolder - Houthalen-Helchteren - Hechtel-Eksel;<br>
-57°&nbsp;&nbsp; &nbsp;Kortrijk - Menen;<br>
-58°&nbsp;&nbsp; &nbsp;Leuven;<br>
-59°&nbsp;&nbsp; &nbsp;Lier - Duffel;<br>
-60°&nbsp;&nbsp; &nbsp;Lokeren;<br>
-61°&nbsp;&nbsp; &nbsp;Maasmechelen - Dilsen-Stokkem;<br>
-62°&nbsp;&nbsp; &nbsp;Mechelen - Haacht - Sint-Katelijne-Waver - Keerbergen;<br>
-63°&nbsp;&nbsp; &nbsp;Oostende - Middelkerke;<br>
-64°&nbsp;&nbsp; &nbsp;Roeselare;<br>
-65°&nbsp;&nbsp; &nbsp;Sint-Niklaas - Temse;<br>
-66°&nbsp;&nbsp; &nbsp;Sint-Truiden;<br>
-67°&nbsp;&nbsp; &nbsp;Tienen;<br>
-68°&nbsp;&nbsp; &nbsp;Tongeren - Bilzen - Hoeselt;<br>
-69°&nbsp;&nbsp; &nbsp;Turnhout;<br>
-70°&nbsp; &nbsp; &nbsp;Vilvoorde - Grimbergen - Machelen.
+42° Aalst;<br>
+43° Antwerpen;<br>
+44° Beringen-Leopoldsburg;<br>
+45° Boom - Willebroek;<br>
+46° Brugge - Blankenberge;<br>
+47° Brussel-Hoofdstad;<br>
+48° Dendermonde;<br>
+49° Diest;<br>
+50° Genk;<br>
+51° Gent;<br>
+52° Geraardsbergen - Oudenaarde – Ronse;<br>
+53° Halle - Beersel - Sint-Pieters-Leeuw;<br>
+54° Hamme - Zele;<br>
+55° Hasselt;&nbsp;<br>
+56° Heusden-Zolder - Houthalen-Helchteren - Hechtel-Eksel;<br>
+57° Kortrijk - Menen;<br>
+58° Leuven;<br>
+59° Lier - Duffel;<br>
+60° Lokeren;&nbsp;<br>
+61° Maasmechelen - Dilsen-Stokkem;<br>
+62° Mechelen - Haacht - Sint-Katelijne-Waver - Keerbergen;<br>
+63° Oostende - Middelkerke;<br>
+64° Roeselare;<br>
+65° Sint-Niklaas - Temse;<br>
+66° Sint-Truiden;<br>
+67° Tienen;<br>
+68° Tongeren-Borgloon - Bilzen-Hoeselt;<br>
+69° Turnhout;<br>
+70° Vilvoorde - Grimbergen - Machelen.
 
 ### Bijlage 2
 
