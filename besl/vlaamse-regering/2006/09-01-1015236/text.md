@@ -577,6 +577,1253 @@ b) de in de linker kolom vermelde module ambtshalve geconcordeerd naar de in de 
 	</tbody>
 </table>
 <br>
+<br>
+*b) de in de linker kolom vermelde module ambtshalve geconcordeerd naar de in de rechterkolom vermelde module:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:652px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:321px"><strong>module </strong></td>
+			<td style="height:19px; width:331px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Activiteitenbegeleiding</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Actuele tendensen in het welzijnswerk</td>
+			<td style="height:19px; width:331px">Kennismaken met de beroepscontext</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Basis elektriciteit</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Cosmetologie FTA</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Cosmetologie en dermatologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Cosmetologie FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Deontologisch en ethisch handelen</td>
+			<td style="height:19px; width:331px">Deontologisch handelen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Emancipatorisch handelen</td>
+			<td style="height:19px; width:331px">Krachtgericht werken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische plantkunde en homeopathie</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische zorg</td>
+			<td style="height:19px; width:331px">Farmaceutisch handelen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische zorg</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Inleiding tot de farmacologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Inleiding tot farmaceutisch rekenen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Galenica 1</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Galenica 2</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 1</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 1</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 2</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 2</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 3</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 3</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 4</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 4</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 5</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 5</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 6</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 6</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">ICT</td>
+			<td style="height:19px; width:331px">Digitale communicatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Levenslooppsychologie</td>
+			<td style="height:19px; width:331px">De mens in ontwikkeling</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Medische zorgverlening</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Medische zorgverlening</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Wondzorg en medische materialen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodisch handelen in een organisatie</td>
+			<td style="height:19px; width:331px">Planmatig handelen en organiseren van eigen werk</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 1</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 1 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 2</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 2 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 3</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 3 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 4</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 4 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 5</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 5 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 6</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 6 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met diversiteit</td>
+			<td style="height:19px; width:331px">Diversiteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Omgaan met het cliëntsysteem</td>
+			<td style="height:19px; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Omgaan met het cliëntsysteem</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Professionaliteit en kwaliteitszorg</td>
+			<td style="height:19px; width:331px">Zelfzorg en reflectie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Samenwerkingsvaardigheden</td>
+			<td style="height:19px; width:331px">Samenwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Sociaal-emotioneel begeleiden</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Stage galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Werkplekleren magistrale bereidingen en logistieke taken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste analytische chemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste anatomie en fysiologie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste anatomie, fysiologie en pathologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste anatomie en fysiologie FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste biochemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste biologie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste biologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste fysica en chemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toxicologie, tarificatie en regelgeving FTA</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Tarificatie en regelgeving</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toxicologie, tarificatie en regelgeving FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Verzorgen, veiligheid en gezondheid</td>
+			<td style="height:19px; width:331px">EHBO</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Welzijn en gezondheidszorg</td>
+			<td style="height:19px; width:331px">Kennismaken met de beroepscontext</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Diversiteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Samenwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Woon- en leefklimaat</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten”;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+b) de in de linker kolom vermelde module ambtshalve geconcordeerd naar de in de rechterkolom vermelde module:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:652px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:321px"><strong>module </strong></td>
+			<td style="height:19px; width:331px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 1</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 2</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 3</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Aandrijftechnieken 4</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Activiteitenbegeleiding</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Actuele tendensen in het welzijnswerk</td>
+			<td style="height:19px; width:331px">Kennismaken met de beroepscontext</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Basis elektriciteit</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Basis elektriciteit automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatief gedrag</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Communicatieve vaardigheden</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Cosmetologie FTA</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Cosmetologie en dermatologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Cosmetologie FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Deontologisch en ethisch handelen</td>
+			<td style="height:19px; width:331px">Deontologisch handelen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 1</td>
+			<td style="height:19px; width:331px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Elektrische componenten automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Inleiding automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Elektrische opbouwinstallaties 2</td>
+			<td style="height:19px; width:331px">Sensoren, meet- en regeltechnieken automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Emancipatorisch handelen</td>
+			<td style="height:19px; width:331px">Krachtgericht werken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Expressieve vaardigheden</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische plantkunde en homeopathie</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische zorg</td>
+			<td style="height:19px; width:331px">Farmaceutisch handelen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmaceutische zorg</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Inleiding tot de farmacologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Inleiding tot farmaceutisch rekenen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Farmacologie</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Galenica 1</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Galenica 2</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 1</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 1</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 2</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 2</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 3</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 3</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 4</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 4</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 5</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 5</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Gesuperviseerde beroepspraktijk 6</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Stage Persoonsbegeleider 6</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">ICT</td>
+			<td style="height:19px; width:331px">Digitale communicatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Industriële installaties</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Levenslooppsychologie</td>
+			<td style="height:19px; width:331px">De mens in ontwikkeling</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Medische zorgverlening</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Medische zorgverlening</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Wondzorg en medische materialen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodisch handelen in een organisatie</td>
+			<td style="height:19px; width:331px">Planmatig handelen en organiseren van eigen werk</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 1</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 1 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 2</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 2 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 3</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 3 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 4</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 4 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 5</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 5 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Methodische werkbegeleiding en supervisie 6</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Begeleide intervisie 6 (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Communicatie (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Observeren en rapporteren</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met diversiteit</td>
+			<td style="height:19px; width:331px">Diversiteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Omgaan met het cliëntsysteem</td>
+			<td style="height:19px; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Omgaan met het cliëntsysteem</td>
+			<td style="height:19px; width:331px">Omgaan met informatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Omgaan met moeilijk gedrag</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthoagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Orthopedagogische vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 1</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 2</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering installaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Lijnautomatisering netwerken en HMI</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">PLC</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">PLC 3</td>
+			<td style="height:19px; width:331px">Project procesinstallaties automatisering</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Professionaliteit en kwaliteitszorg</td>
+			<td style="height:19px; width:331px">Zelfzorg en reflectie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen in de jeugdhulp</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een beperking</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Psychosociale vraagstellingen</td>
+			<td style="height:19px; width:331px">Doelgroep: personen met een psychische kwetsbaarheid</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Samenwerkingsvaardigheden</td>
+			<td style="height:19px; width:331px">Samenwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Sociaal-emotioneel begeleiden</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Stage galenica</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Werkplekleren magistrale bereidingen en logistieke taken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste analytische chemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste anatomie en fysiologie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste anatomie, fysiologie en pathologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste anatomie en fysiologie FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste biochemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste biologie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste biologie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toegepaste fysica en chemie FTA</td>
+			<td style="height:19px; width:331px">Toegepaste fysica en chemie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toxicologie, tarificatie en regelgeving FTA</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Tarificatie en regelgeving</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Toxicologie, tarificatie en regelgeving FTA</td>
+			<td style="height:19px; width:331px">Voedingsadvies</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Verzorgen, veiligheid en gezondheid</td>
+			<td style="height:19px; width:331px">EHBO</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Welzijn en gezondheidszorg</td>
+			<td style="height:19px; width:331px">Kennismaken met de beroepscontext</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Conflicthantering (PB)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Diversiteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:321px">Werken met groepen</td>
+			<td style="height:19px; width:331px">Samenwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:321px">Woon- en leefklimaat</td>
+			<td style="height:19px; vertical-align:bottom; width:331px">Dagelijkse activiteiten”;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+* Bij BVR van 19 juli 2024 wordt met ingang van 1 september 2024 een pint 27° toegevoegd, dat luidt als volgt:<br>
+<br>
+27° Met ingang van 1 september 2024 wordt:<br>
+&nbsp;
+<ol>
+	<li>de module, vermeld in de linkerkolom, ambtshalve geconcordeerd naar de module, vermeld in de rechterkolom:</li>
+</ol>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:779px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:340px"><strong>module </strong></td>
+			<td colspan="2" style="height:19px; width:439px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Appendages en algemene materiaalkennis voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Appendages en algemene materialenkennis &nbsp;voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Elektriciteit voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Elektriciteit voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Fysica voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Fysica voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Gesuperviseerde beroepspraktijk voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Practicum 1 – procestechnologie voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Gesuperviseerde beroepspraktijk voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Practicum 2 voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Gesuperviseerde beroepspraktijk voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Practicum 3 voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Gesuperviseerde beroepspraktijk voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Practicum 4 voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Gesuperviseerde beroepspraktijk voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Werkplekleren voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Houtimitaties</td>
+			<td style="height:19px; width:340px">Decoratieschilderen - hout- en andere imitaties</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Marmerimitaties</td>
+			<td style="height:19px; width:340px">Decoratieschilderen - steenimitaties</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Meet- en regeltechniek voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Meet- en regeltechnieken voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Scheidingtechnieken</td>
+			<td style="height:19px; width:340px">Scheidingtechnieken voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Scheikunde voor de procesoperator chemie</td>
+			<td style="height:19px; width:340px">Chemie voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Transport van stoffen</td>
+			<td style="height:19px; width:340px">Transport van stoffen voor de procesoperator CFI</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Veiligheid bij procesoperaties chemie</td>
+			<td style="height:19px; width:340px">Veiligheid voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Vergulden</td>
+			<td style="height:19px; width:340px">Decoratieschilderen gevorderd</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Warmtetransport</td>
+			<td style="height:19px; width:340px">Warmtetransport voor de procesoperator CFI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:98px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<ol>
+	<li>de opleiding, vermeld in de linkerkolom ambtshalve geconcordeerd naar de module, vermeld in de rechterkolom:</li>
+</ol>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:788px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:350px"><strong>opleiding </strong></td>
+			<td style="height:19px; width:439px"><strong>module</strong></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:18.0cm">
+	<tbody>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis behangwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Basis vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Behangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Decoratieschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Manueel schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Pistoolschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Raamdecoratie (schilder-behanger)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Behanger</td>
+			<td style="height:19px; width:340px">Voorbereidende werken - ondergrond</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis behangwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Basis vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Behangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Decoratieschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Manueel schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Pistoolschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Raamdecoratie (schilder-behanger)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Plaatser soepele vloerbekleding</td>
+			<td style="height:19px; width:340px">Voorbereidende werken - ondergrond</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:340px">Decoratieschilderen - hout- en andere imitaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:340px">Decoratieschilderen - steenimitaties</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:340px">Reclame- en decoratieschilder</td>
+			<td style="height:19px; width:340px">Decoratieschilderen gevorderd</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis behangwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Basis vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Behangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Decoratieschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Manueel schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Pistoolschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Raamdecoratie (schilder-behanger)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder</td>
+			<td style="height:19px; width:340px">Voorbereidende werken - ondergrond</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis behangwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Basis schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Basis vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Behangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Decoratieschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Manueel schilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Pistoolschilderen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; vertical-align:bottom; width:340px">Raamdecoratie (schilder-behanger)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Vloerbekleding</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:340px">Schilder-decorateur</td>
+			<td style="height:19px; width:340px">Voorbereidende werken – ondergrond</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
 &nbsp;
 
 ## BIJLAGE VI
