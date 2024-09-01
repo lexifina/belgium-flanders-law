@@ -53,11 +53,13 @@ De administratie gaat na of de aanvrager aan alle decretale voorwaarden voldoet 
 
 De jaarlijkse subsidie wordt uitbetaald in twee schijven:<br>
 1° 80 % na de goedkeuring van de planning van de werkzaamheden en de begroting voor het betreffende werkingsjaar;<br>
-2° 20 % na de goedkeuring van de rapportering van de werkzaamheden en het financieel verslag betreffende het werkingsjaar.
+2° 20 % na de goedkeuring van de rapportering van de werkzaamheden en het financieel verslag betreffende het werkingsjaar.<br>
+<br>
+De koepelvereniging kan sociaal passief opbouwen met de middelen van de subsidie die op het einde van het werkingsjaar niet werden aangewend. De koepelvereniging kan nooit meer sociaal passief aanleggen dan nodig is om de wettelijke verplichtingen na te komen. De berekening van het sociaal passief moet jaarlijks samen met het financieel verslag opnieuw ter goedkeuring worden voorgelegd aan de administratie.
 
 ### ART. 8.
 
-Vóór 31 december van elk werkjaar legt elke gesubsidiëerde koepelvereniging een jaarverslag voor aan de Minister waarin een overzicht wordt gegeven van alle werkzaamheden, acties en publicaties.
+De koepelvereniging rapporteert elk werkingsjaar aan de hand van een jaarverslag binnen een termijn van maximaal 6 maanden na de werkingsperiode waarop ze betrekking heeft.
 
 ### ART. 9.
 
