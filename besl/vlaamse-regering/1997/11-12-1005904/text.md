@@ -78,7 +78,7 @@ a) een medisch attest, uitgereikt door een arts, voor zover het om een van de vo
 3) ...<br>
 b) een verklaring van de ouders voor alle afwezigheden wegens ziekte waarvan de periode of duur niet valt onder punt a);<br>
 2° de afwezigheid om één van onderstaande redenen mits voorlegging van, naargelang het geval, een officieel document of een verklaring van de ouders, tot staving van de afwezigheid:<br>
-a) het bijwonen van een familieraad;<br>
+a) ...;<br>
 b) het bijwonen van een begrafenis- of huwelijksplechtigheid van een persoon die onder hetzelfde dak woont of van een bloed- of aanverwant;<br>
 c) de oproeping of dagvaarding voor een rechtbank;<br>
 d) het onderworpen worden aan maatregelen in het kader van de bijzondere jeugdzorg en de jeugdbescherming;<br>
