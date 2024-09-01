@@ -82,7 +82,8 @@ Het tijdelijke personeelslid ontvangt voor het geboorteverlof gedurende drie wer
 1° langdurige pleegzorg: pleegzorg zoals omschreven in artikel 30sexies § 6 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en waarbij het kind als deel uitmakend van dat gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het gezin of de pleegouder zijn verblijfplaats heeft of de pleegouders hun verblijfplaats hebben, is ingeschreven;<br>
 2° kortdurende pleegzorg: alle vormen van pleegzorg die niet voldoen aan de voorwaarden van langdurige pleegzorg;<br>
 3° pleegkind: het kind waarvoor het personeelslid of zijn echtgenote of samenwonende partner in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming;<br>
-4° pleegvader en - moeder: de pleegouder die in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming.<br>
+4° pleegvader en - moeder: de pleegouder die in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming;<br>
+5° zwangerschapsverlies: alle vormen van zwangerschapsverlies zowel medisch als spontaan ingeleid, vanaf het ogenblik dat het verlies zich voordoet, vanaf het begin van de zwangerschap tot en met 180 kalenderdagen zwangerschap, zonder dat het personeelslid een attest hoeft voor te leggen.<br>
 <br>
 § 2. De personeelsleden hebben naar aanleiding van de hierna opgesomde gebeurtenissen recht op omstandigheidsverlof voor een als volgt bepaalde duur :<br>
 1° huwelijk of afleggen van een verklaring van wettelijke samenwoning van het personeelslid: twee werkdagen;<br>
@@ -95,7 +96,9 @@ Het tijdelijke personeelslid ontvangt voor het geboorteverlof gedurende drie wer
 8° overlijden van een bloed- of aanverwant in de tweede graad van het personeelslid of van de echtgenoot of echtgenote of samenwonende partner, die niet onder hetzelfde dak woont als het personeelslid: één werkdag, door het personeelslid op te nemen op de dag van de begrafenis. Deze dag kan op een ander moment worden opgenomen op vraag van het personeelslid met akkoord van het hogeschoolbestuur;<br>
 9° overlijden van een pleegkind van het personeelslid of van zijn echtgenoot of echtgenote of samenwonende partner in het kader van kortdurende pleegzorg op het moment van het overlijden: één werkdag, door het personeelslid op te nemen op de dag van de begrafenis. Deze dag kan op een ander moment worden opgenomen op vraag van het personeelslid met akkoord van het hogeschoolbestuur;<br>
 10° deelneming aan een jury, oproeping als getuige of persoonlijke verschijning voor een rechtbank: de nodige tijd;<br>
-11° uitoefening van het ambt van voorzitter of bijzitter in een hoofdstembureau, enig stembureau of bureau voor stemopneming bij de parlements-, de provincieraads- en de gemeenteraadsverkiezingen, met inbegrip van het Europees Parlement: de nodige tijd.<br>
+11° uitoefening van het ambt van voorzitter of bijzitter in een hoofdstembureau, enig stembureau of bureau voor stemopneming bij de parlements-, de provincieraads- en de gemeenteraadsverkiezingen, met inbegrip van het Europees Parlement: de nodige tijd;<br>
+12° zwangerschapsverlies van het personeelslid dat zwanger was: twee werkdagen, op voorwaarde dat het betrokken personeelslid een verklaring op erewoord aflegt;<br>
+13° zwangerschapsverlies van de echtgenote of samenwonende partner van het personeelslid: twee werkdagen, op voorwaarde dat het betrokken personeelslid een verklaring op erewoord aflegt.<br>
 <br>
 § 3. Het omstandigheidsverlof wordt met dienstactiviteit gelijkgesteld. Het omstandigheidsverlof wordt bezoldigd.<br>
 <br>
