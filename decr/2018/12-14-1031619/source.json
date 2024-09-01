@@ -2,16 +2,16 @@
   "codex_id": 1031619,
   "title": "Decreet van 2018-12-14 betreffende de onderwijsdoelen voor de eerste graad van het secundair onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031619/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "cf7149ecf0c7ca09eba514ae51caa5c1f95d11121219373b6c4f6f4e937abeb5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031619/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "a2214027aad77f977a97d745c071f5a4cbeda4f6926f319811ef66a736d1df71",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031619&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2024-09-01",
   "made": "2018-12-14",
   "gazette": "2019-04-26",
   "numac": 2019040867,
   "document_start": "2019-05-06",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2024-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
 }

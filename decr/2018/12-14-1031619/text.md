@@ -40,7 +40,11 @@ In bijlage 2, die bij dit decreet is gevoegd, gaan de onderwijsdoelen voor het e
 
 De onderwijsdoelen treden in werking :<br>
 1° in het eerste leerjaar A en het eerste leerjaar B : op 1 september 2019;<br>
-2° in het tweede leerjaar A en het tweede leerjaar B : op 1 september 2020.
+2° in het tweede leerjaar A en het tweede leerjaar B : op 1 september 2020.<br>
+<br>
+De onderwijsdoelen houden op uitwerking te hebben:<br>
+1° in het eerste leerjaar A en het eerste leerjaar B: op 1 september 2024;<br>
+2° in het tweede leerjaar A en het tweede leerjaar B: op 1 september 2025.
 
 ### BIJLAGE 1.
 
