@@ -39,7 +39,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2023-2024 opgenomen in bijlage III, die bij dit besluit is gevoegd.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2024-2025 opgenomen in bijlage III, die bij dit besluit is gevoegd.
 
 ### ART 6/1.
 
@@ -59,12 +59,12 @@ De organisatie van de experimenteel modulaire opleiding Verzorgende/Zorgkundige 
 
 ### ART. 8.
 
-<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2023-2024 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
+<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2024-2025 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
 3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
 <br>
-In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2023-2024 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
+In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2024-2025 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.</p>
 
@@ -87,12 +87,7 @@ De organisatie van de opleiding Verzorgende/Zorgkundige is aan de volgende voorw
 
 ### ART 8quater.
 
-De opleidingen van het deeltijds beroepssecundair onderwijs en de leertijd worden wat de programmatie betreft in de volgende categorieën ingedeeld:<br>
-1° ...;<br>
-2° een opleiding uit een cluster als vermeld in bijlage XXI die bij dit besluit is gevoegd, is vrij programmeerbaar als het centrum uit diezelfde cluster al een of meer andere opleidingen organiseert;<br>
-3° een opleiding is programmeerbaar na goedkeuring door de Vlaamse Regering als:<br>
-a) het centrum uit een cluster als vermeld in bijlage XXI, die bij dit besluit is gevoegd, nog geen andere opleidingen organiseert;<br>
-b) de opleiding is opgenomen in de lijst, vermeld in punt 18 van bijlage XXI die bij dit besluit is gevoegd.
+...
 
 ## HOOFDSTUK VI. Toelating
 
@@ -906,15 +901,15 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-Bijlage III. Lijst van opleidingen voor wat betreft het schooljaar 2023-2024<br>
+Bijlage III. Lijst van opleidingen voor wat betreft het schooljaar 2024-2025<br>
 <br>
-1° Deeltijds beroepssecundair onderwijs:<br>
+1° <u>Deeltijds beroepssecundair onderwijs:</u><br>
 <br>
-Categorie 1: Opleidingen modulair georganiseerd op basis van een beroepskwalificatie<br>
+<u>Categorie 1: Opleidingen modulair georganiseerd op basis van een beroepskwalificatie</u><br>
 Kapper-salonverantwoordelijke<br>
 Tuinaanlegger/groenbeheerder<br>
 <br>
-Categorie 2: Opleidingen modulair georganiseerd na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap<br>
+<u>Categorie 2: Opleidingen modulair georganiseerd na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap</u><br>
 Administratief medewerker kmo<br>
 Basisoperator proceschemie<br>
 Bekister<br>
@@ -948,7 +943,6 @@ Natuursteenbewerker<br>
 Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
 Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
 Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
-Pc-technicus<br>
 Pijpfitter<br>
 Plaatser buitenschrijnwerk<br>
 Plaatser natuursteen<br>
@@ -968,40 +962,35 @@ Tertiair elektrotechnisch installateur<br>
 Torenkraanbestuurder<br>
 Verhuizer-drager<br>
 Verhuizer-inpakker<br>
-Voeger<br>
 Werkplaatsschrijnwerker aluminium<br>
 Werkplaatsschrijnwerker kunststoffen<br>
 <br>
-Categorie 3: alle opleidingen (niet-modulair georganiseerd) die niet onder categorie 1 en 2 vallen<br>
+<u>Categorie 3: alle opleidingen (niet-modulair georganiseerd) die niet onder categorie 1 en 2 vallen</u><br>
 <br>
-Rubriek KLEDING EN CONFECTIE<br>
+<u>Rubriek KLEDING EN CONFECTIE</u><br>
 Patronenmaker<br>
 <br>
-Rubriek LAND- EN TUINBOUW<br>
+<u>Rubriek LAND- EN TUINBOUW</u><br>
 Assistent-hoefsmid<br>
 Hoefsmid<br>
 <br>
-Rubriek PERSONENZORG<br>
+<u>Rubriek PERSONENZORG</u><br>
 Begeleider in de kinderopvang<br>
 Verzorgende<br>
 Verzorgende/zorgkundige<br>
 <br>
-Rubriek SPORT EN VRIJE TIJD<br>
+<u>Rubriek SPORT EN VRIJE TIJD</u><br>
 Animator in de evenementensector<br>
 Buurtsportwerker<br>
 Sportbegeleider<br>
 <br>
-Rubriek ZEEVISSERIJ<br>
-Motorist 221 kW<br>
-Schipper beperkt vaargebied<br>
+2° <u>Leertijd:</u><br>
 <br>
-2° Leertijd:<br>
-<br>
-Categorie 1: Opleidingen op basis van een beroepskwalificatie<br>
+<u>Categorie 1: Opleidingen op basis van een beroepskwalificatie</u><br>
 Kapper-salonverantwoordelijke<br>
 Tuinaanlegger/groenbeheerder<br>
 <br>
-Categorie 2: Opleidingen na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap<br>
+<u>Categorie 2: Opleidingen na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap</u><br>
 Administratief medewerker kmo<br>
 Basisoperator proceschemie<br>
 Bekister<br>
@@ -1035,7 +1024,6 @@ Natuursteenbewerker<br>
 Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
 Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
 Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
-Pc-technicus<br>
 Pijpfitter<br>
 Plaatser buitenschrijnwerk<br>
 Plaatser natuursteen<br>
@@ -1056,38 +1044,33 @@ Tertiair elektrotechnisch installateur<br>
 Torenkraanbestuurder<br>
 Verhuizer-drager<br>
 Verhuizer-inpakker<br>
-Voeger<br>
 Werkplaatsschrijnwerker aluminium<br>
 Werkplaatsschrijnwerker kunststoffen<br>
 <br>
-Categorie 3: alle opleidingen die niet onder categorie 1 en 2 vallen<br>
+<u>Categorie 3: alle opleidingen die niet onder categorie 1 en 2 vallen</u><br>
 <br>
-Rubriek GRAFISCHE NIJVERHEID<br>
-Fotograaf<br>
-<br>
-Rubriek KUNST EN AMBACHTEN<br>
+<u>Rubriek KUNST EN AMBACHTEN</u><br>
 Glazenier<br>
 <br>
-Rubriek LAND- EN TUINBOUW<br>
+<u>Rubriek LAND- EN TUINBOUW</u><br>
 Florist<br>
 Hoefsmid<br>
 Paardenhouder<br>
 <br>
-Rubriek PERSONENZORG<br>
+<u>Rubriek PERSONENZORG</u><br>
 Begeleider in de kinderopvang<br>
 Verzorgende<br>
 Verzorgende/zorgkundige<br>
 <br>
-Rubriek SCHOONHEIDSZORG<br>
+<u>Rubriek SCHOONHEIDSZORG</u><br>
 Orthopedie-schoentechnicus<br>
-Schoonheidsspecialiste<br>
 Tandprothesetechnicus<br>
 <br>
-Rubriek SPORT EN VRIJE TIJD<br>
+<u>Rubriek SPORT EN VRIJE TIJD</u><br>
 Animator in de evenementensector<br>
 Sportbegeleider<br>
 <br>
-<strong>Aandacht</strong>: leerlingen die in het schooljaar 2022-2023 een opleiding volgen die in bovenstaande lijst niet is opgenomen, kunnen deze opleiding binnen een normaal tijdsbestek en zonder onderbreking verder zetten.
+<strong>Aandacht:</strong> leerlingen die in het schooljaar 2023-2024 een opleiding volgen die in bovenstaande lijst niet is opgenomen, kunnen deze opleiding binnen een normaal tijdsbestek en zonder onderbreking verder zetten.
 
 ### BIJLAGE III/1
 
@@ -1952,7 +1935,7 @@ bij de administratie van de zorgvrager helpen<br>
 
 ### BIJLAGE V
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/11/23_2.pdf#page=60">Bijlage V. Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2023-2024 </a>
+Bijlage V. Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2024-2025 (<strong>→ link nog toevoegen</strong>)
 
 ### BIJLAGE V/1
 
@@ -1992,7 +1975,7 @@ bij de administratie van de zorgvrager helpen<br>
 
 ### BIJLAGE VI
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/11/23_2.pdf#page=467">Invulling van opleidingen leertijd voor wat betreft het schooljaar 2023-2024</a></p>
+Bijlage VI. Invulling van opleidingen leertijd voor wat betreft het schooljaar 2024-2025 (→ <strong>link nog toevoegen</strong>)
 
 ### BIJLAGE VI/1
 
@@ -2065,154 +2048,7 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XXI
 
-Bijlage XXI. Lijst van opleidingen deeltijds beroepssecundair onderwijs en leertijd, opgedeeld in clusters in het kader van programmatie<br>
-<br>
-1° Administratie;<br>
-&nbsp; a) Administratief medewerker; (schrapping per 1 september 23)<br>
-&nbsp; b) Administratief medewerker expeditie; (schrapping per 1 september 23)<br>
-&nbsp; c) Administratief medewerker kmo;<br>
-&nbsp; d) Callcentermedewerker;<br>
-<br>
-2° Auto;<br>
-&nbsp; a) Carrosseriehersteller;<br>
-&nbsp; b) Demonteur/monteur carrosserie; (schrapping per 1 september 23)<br>
-&nbsp; c) Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen;<br>
-&nbsp; d) Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen;<br>
-&nbsp; e) Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen; (schrapping per 1 september 23)<br>
-&nbsp; f) Onderhoudsmecanicien zware bedrijfsvoertuigen;<br>
-&nbsp; g) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen;<br>
-&nbsp; h) Polyvalent mecanicien zware bedrijfsvoertuigen;<br>
-&nbsp; i) Plaatwerker carrosserie; (schrapping per 1 september 23)<br>
-&nbsp; j) Spuiter carrosserie;<br>
-<br>
-3° Bakkerij;<br>
-&nbsp; a) Banketbakker; (schrapping per 1 september 23)<br>
-&nbsp; b) Brood- en banketbakker; (schrapping per 1 september 23)<br>
-&nbsp; c) Broodbakker; (schrapping per 1 september 23)<br>
-&nbsp; d) Chocoladebewerker;<br>
-&nbsp; e) IJsbereider;<br>
-<br>
-4° Dakwerken;<br>
-&nbsp; a) Dakafdichter;<br>
-&nbsp; b) Dakdekker;<br>
-&nbsp; c) Dakdekker leien en pannen;<br>
-<br>
-5° Elektriciteit;<br>
-&nbsp; a) Industrieel elektrotechnisch installateur;<br>
-&nbsp; b) Residentieel elektrotechnisch installateur; (schrapping per 1 september 23)<br>
-&nbsp; c) Technicus domotica;<br>
-&nbsp; d) Technicus immotica;<br>
-&nbsp; e) Tertiair elektrotechnisch installateur;<br>
-<br>
-6° Hoefsmederij;<br>
-&nbsp; a) Assistent-hoefsmid;<br>
-&nbsp; b) Hoefsmid;<br>
-<br>
-7° Horeca;<br>
-&nbsp; a) Grootkeukenhulpkok; (schrapping per 1 september 23)<br>
-&nbsp; b) Grootkeukenkok;<br>
-&nbsp; c) Hulpkok; (schrapping per 1 september 23)<br>
-&nbsp; d) Kelner; (schrapping per 1 september 23)<br>
-&nbsp; e) Kok;<br>
-<br>
-8° Kapper;<br>
-&nbsp; a) Kapper; (schrapping per 1 september 23)<br>
-&nbsp; b) Kapper-salonverantwoordelijke;<br>
-<br>
-9° Meubel, interieur en schrijnwerk;<br>
-&nbsp; a) Binnenschrijnwerker; (schrapping per 1 september 23)<br>
-&nbsp; b) Buitenschrijnwerker;<br>
-&nbsp; c) Daktimmerman;<br>
-&nbsp; d) Decor- &amp; standenbouwer;<br>
-&nbsp; e) Interieurbouwer;(schrapping per 1 september 23)<br>
-&nbsp; f) Meubelmaker;<br>
-&nbsp; g) Meubelstoffeerder;<br>
-&nbsp; h) Plaatser binnenschrijnwerk; (schrapping per 1 september 23)<br>
-&nbsp; i) Plaatser buitenschrijnwerk;<br>
-&nbsp; j) Plaatser interieurelementen; (schrapping per 1 september 23)<br>
-&nbsp; k) Plaatser parket;<br>
-&nbsp; l) Productiemedewerker interieurbouw; (schrapping per 1 september 23)<br>
-&nbsp; m) Restauratievakman meubelen;<br>
-&nbsp; n) Werkplaatsbinnenschrijnwerker hout; (schrapping per 1 september 23)<br>
-&nbsp; o) Werkplaatsbuitenschrijnwerker hout; (schrapping per 1 september 23)<br>
-<br>
-10° Podiumtechniek;<br>
-&nbsp; a) Assistent podiumtechnicus; (schrapping per 1 september 23)<br>
-&nbsp; b) Podiumtechnicus;<br>
-<br>
-11° Productie-industrie;<br>
-&nbsp; a) Assistent productieoperator hout; (schrapping per 1 september 23)<br>
-&nbsp; b) Assistent productieoperator metaal; (schrapping per 1 september 23)<br>
-&nbsp; c) Assistent productieoperator voeding; (schrapping per 1 september 23)<br>
-&nbsp; d) Basisoperator proceschemie;<br>
-&nbsp; e) Kunststofbewerker;<br>
-&nbsp; f) Machineregelaar extrusie;<br>
-&nbsp; g) Machineregelaar spuitgieten;<br>
-&nbsp; h) Machineregelaar thermisch vormen;<br>
-&nbsp; i) Productieoperator hout; (schrapping per 1 september 23)<br>
-&nbsp; j) Productieoperator metaal; (schrapping per 1 september 23)<br>
-&nbsp; k) Productieoperator voeding; (schrapping per 1 september 23)<br>
-<br>
-12° Ruwbouw;<br>
-&nbsp; a) Bekister;<br>
-&nbsp; b) IJzervlechter;<br>
-&nbsp; c) Metselaar; (schrapping per 1 september 23)<br>
-&nbsp; d) Voeger;<br>
-<br>
-13° Slagerij;<br>
-&nbsp; a) Slager; (schrapping per 1 september 23)<br>
-&nbsp; b) Slager/bereider verkoopklare gerechten;<br>
-&nbsp; c) Slager/spekslager;<br>
-<br>
-14° Verhuis;<br>
-&nbsp; a) Verhuizer-drager;<br>
-&nbsp; b) Verhuizer-inpakker;<br>
-<br>
-15° Zeevisserij;<br>
-&nbsp; a) Motorist 221 kW;<br>
-&nbsp; b) Roerganger; (schrapping per 1 september 23)<br>
-&nbsp; c) Schipper beperkt vaargebied;<br>
-<br>
-16° Zorg;<br>
-&nbsp; a) Begeleider in de kinderopvang;<br>
-&nbsp; b) Logistiek assistent in de ziekenhuizen; (schrapping per 1 september 23)<br>
-&nbsp; c) Logistiek helper in de zorginstellingen; (schrapping per 1 september 23)<br>
-&nbsp; d) Thuishelper; (schrapping per 1 september 23)<br>
-&nbsp; e) Verzorgende;<br>
-&nbsp; f) Verzorgende/zorgkundige;<br>
-<br>
-17° Zorg (experiment modulair) ;<br>
-&nbsp; a) Basismedewerker in organisaties; (schrapping per 1 september 23)<br>
-&nbsp; b) Begeleider in de kinderopvang;<br>
-&nbsp; c) Logistiek assistent in ziekenhuizen en zorginstellingen; (schrapping per 1 september 23)<br>
-&nbsp; d) Onderhoudswerker; (schrapping per 1 september 23)<br>
-&nbsp; e) Schoonmaakhulp in de thuiszorg;(schrapping per 1 september 23)<br>
-&nbsp; f) Schoonmaakhulp in instellingen en diensten; (schrapping per 1 september 23)<br>
-&nbsp; g) Thuis- en bejaardenzorg/zorgkundige;<br>
-&nbsp; h) Verzorgende;<br>
-<br>
-18° Andere (uitsluitend via programmatieaanvraag) ;<br>
-&nbsp; a) Animator in de evenementensector;<br>
-&nbsp; b) Bestuurder mobiele kraan;<br>
-&nbsp; c) Florist;<br>
-&nbsp; d) Glaswerker;<br>
-&nbsp; e) Glazenier;<br>
-&nbsp; f) Industrieel maaltijdbereider;<br>
-&nbsp; g) Industrieel vleesbewerker;<br>
-&nbsp; h) Industrieel vleesproductenbereider;<br>
-&nbsp; i) Installateur fotovoltaïsche systemen;<br>
-&nbsp; j) Natuursteenbewerker;<br>
-&nbsp; k) Paardenhouder;<br>
-&nbsp; l) Patronenmaker;<br>
-&nbsp; m) Pijpfitter;<br>
-&nbsp; n) Plaatser natuursteen;<br>
-&nbsp; o) Stellingbouwer;<br>
-&nbsp; p) Technicus elektrische zwembaduitrustingen;<br>
-&nbsp; q) Technicus inbraakbeveiligingssystemen;<br>
-&nbsp; r) Torenkraanbestuurder;<br>
-&nbsp; s) Tuinaanlegger/groenbeheerder;<br>
-&nbsp; t) Werkplaatsschrijnwerker aluminium;<br>
-&nbsp; u) Werkplaatsschrijnwerker kunststoffen.
+...
 
 ### BIJLAGE XXII
 
