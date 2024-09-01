@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040203,
+  "title": "Decreet van 2024-05-17 over de onderwijsdoelen voor de eerste graad van het secundair onderwijs en het zevende leerjaar gericht op het hoger onderwijs en diverse andere verwante maatregelen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040203/VolledigDocument?datum=2024-09-01",
+  "source_sha256": "1f91e0c5a117203390cf6f33b207cc76f9edb7a731097e32f417967f0c427ecd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040203&param=informatie",
+  "as_of": "2024-09-01",
+  "made": "2024-05-17",
+  "gazette": "2024-09-02",
+  "numac": 2024008251,
+  "document_start": "2024-09-01",
+  "document_end": null,
+  "in_force": "2024-09-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
