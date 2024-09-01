@@ -10,79 +10,144 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder :<br>
 1° agentschap Sport Vlaanderen : het agentschap dat opgericht is bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
-2° initiatief in de sportsector : een organisatie in de sportsector die vanaf 1 januari 2003 tot 1 oktober 2020 een loonsubsidie ontving voor een werknemer in een arbeidsplaats die aan de organisatie was toegekend in het kader van een project met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector;<br>
+2° ...;<br>
 3° minister : de Vlaamse minister, bevoegd voor de lichamelijke ontwikkeling, de sport en het openluchtleven;<br>
-4° sportbegeleider : de werknemer met een sportgerelateerde functie. Daaronder worden verstaan : de lesgevers en de begeleiders bij een sportactiviteit, de juryleden en de scheidsrechters;<br>
-5° sportondersteuner : de werknemer met een administratieve of logistieke functie in de sport;<br>
-6° werknemer in een gewezen DAC-statuut : de werknemer tewerkgesteld in een arbeidsplaats die aan een organisatie was toegekend in het kader van een project met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector en waarvoor een subsidie wordt ontvangen als initiatief in de sportsector;<br>
-7° werknemer met verworven rechten : de werknemer in een gewezen DAC-statuut, die al vóór 1 januari 2003 tewerkgesteld was in het kader van een project dat aan een organisatie werd toegekend met toepassing van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector.
+3°/1 olympiade: de periode van vier jaar die begint op 1 januari van het jaar na de oorspronkelijk geplande Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de oorspronkelijk geplan-de Olympische Zomerspelen;<br>
+4° sportbegeleider : de persoon die tewerkgesteld is en een sportgerelateerde uitvoerende functie heeft in de sport. Daaronder worden verstaan : de lesgevers en de begeleiders bij een sportactiviteit, de juryleden en de scheidsrechters;<br>
+5° sportondersteuner: de persoon die tewerkgesteld is en een sportgere-lateerde coördinerende functie of een sportgerelateerde administratieve functie heeft in de sport;<br>
+6° ...;<br>
+7° ...
 
 ### ART. 3.
 
-<P>Binnen de perken van de begroting en onder de voorwaarden, vermeld in dit   decreet, verleent de Vlaamse Regering subsidies voor de tewerkstelling in de   sportsector.<BR></P>  <P>Binnen de perken van de begroting worden alle subsidiebedragen, vermeld in   dit decreet, jaarlijks aangepast aan de evolutie van de gezondheidsindex. Onder   gezondheidsindex wordt verstaan : de prijsindex, vermeld in artikel 2, eerste   lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet   van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd   bij artikel 90 van de wet van 30 maart 1994 houdende sociale   bepalingen.<BR></P>
+<p>Binnen de perken van de begroting en onder de voorwaarden, vermeld in dit decreet, verleent de Vlaamse Regering subsidies voor de tewerkstelling in de sportsector.</p>
 
-## HOOFDSTUK 2 Erkenning en subsidiëring van een organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners
+<p>Binnen de perken van de begroting worden de subsidies die op basis van dit decreet worden toegekend, jaarlijks aangepast aan de evolutie van de gezondheidsindex. Onder gezondheidsindex wordt verstaan : de prijsindex, vermeld in artikel 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij artikel 90 van de wet van 30 maart 1994 houdende sociale bepalingen.</p>
 
-## Afdeling 1 Erkenning als organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners
+## HOOFDSTUK 2 Erkenning en subsidiëring van een organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners
+
+## Afdeling 1 Erkenning als organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners
 
 ## Onderafdeling 1 Erkenningsvoorwaarden
 
 ### ART. 4.
 
-Om als organisatie voor de coördinatie en de tewerkstelling van een pool   van sportbegeleiders en sportondersteuners erkend te worden en te blijven,   voldoet de organisatie aan de volgende voorwaarden : <BR>1° opgericht zijn   volgens de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk,   de internationale verenigingen zonder winstoogmerk en de stichtingen;<BR>2° haar   zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad;<BR>3° in haar statuten de tewerkstelling in de sportsector   als hoofddoelstelling hebben, waarbij ze de vraag naar tewerkstelling in de   sport coördineert en invult met geschoolde of deskundige krachten;<BR>4°   minimaal vijf jaar werkzaam zijn als organisatie die een pool van   sportbegeleiders en sportondersteuners beschikbaar stelt in alle Vlaamse   provincies.<BR>
+Om als organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners erkend te worden en te blijven, voldoet de organisatie aan de volgende voorwaarden :<br>
+1° een vereniging zonder winstoogmerk zijn, conform het Wetboek van vennootschappen en verenigingen van 23 maart 2019;<br>
+2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+3° in haar statuten de tewerkstelling in de sportsector als hoofddoelstelling hebben, waarbij ze de vraag naar tewerkstelling in de sport coördineert en invult met gekwalificeerde of deskundige krachten;<br>
+4° minimaal vijf jaar in alle Vlaamse provincies een kwalitatieve werking hebben als organisatie die de tewerkstelling van sportbegeleiders en sportondersteuners in de non-profitsportsector ondersteunt.
 
 ## Onderafdeling 2 Erkenningsprocedure
 
 ### ART. 5.
 
-<P>De aanvraag tot erkenning moet ingediend worden bij het agentschap Sport   Vlaanderen uiterlijk op 1 september. De aanvraag wordt ingediend met het   formulier dat agentschap Sport Vlaanderen ter beschikking stelt.<BR></P>  <P>Het agentschap Sport Vlaanderen brengt voor 15 september per aangetekende   brief de organisatie op de hoogte als haar erkenning onontvankelijk is. De reden   van de onontvankelijkheid wordt vermeld in de brief. Een aanvraag is   onontvankelijk als ze niet tijdig is ingediend of als blijkt dat de organisatie   niet kan voldoen aan de erkenningsvoorwaarden.<BR></P>  <P>Het agentschap Sport Vlaanderen onderzoekt de aanvraag tot erkenning en   brengt voor 1 oktober bij de minister advies uit over de erkenning.<BR></P>  <P>Voor 1 november deelt de minister per aangetekende brief aan de organisatie   zijn beslissing mee om ze te erkennen voor vijf jaar of zijn voornemen om ze   niet te erkennen.<BR></P>  <P>De erkenning loopt vanaf 1 januari volgend op de aanvraag tot   erkenning.<BR></P>  <P>De organisatie die het bericht krijgt van het voornemen van de minister om   haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd   bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht   aangetekend verstuurd moet worden naar het agentschap Sport Vlaanderen. Als de   organisatie daarom verzoekt, kan ze gehoord worden.<BR></P>  <P>Het agentschap Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van   het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk   dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te   erkennen.<BR></P>
+<p>De aanvraag tot erkenning moet ingediend worden bij het agentschap Sport Vlaanderen uiterlijk op 10 september van het kalenderjaar dat voorafgaat aan het begin van de olympiade.&nbsp;</p>
+
+<p>Het agentschap Sport Vlaanderen brengt voor 15 oktober de organisatie op de hoogte als haar aanvraag tot erkenning onontvankelijk is en vermeldt de reden van de onontvankelijkheid. Een aanvraag is onontvankelijk als ze niet tijdig is ingediend of als blijkt dat de organisatie niet kan voldoen aan de erkenningsvoorwaarden.</p>
+
+<p>Het agentschap Sport Vlaanderen onderzoekt de aanvraag tot erkenning en brengt voor 1 oktober bij de minister advies uit over de erkenning.</p>
+
+<p>Voor 1 november deelt de minister aan de organisatie zijn beslissing mee om ze te erkennen voor de duur van de olympiade of zijn voornemen om ze niet te erkennen.</p>
+
+<p>De erkenning loopt vanaf 1 januari volgend op de aanvraag tot erkenning en geldt voor de duur van de olympiade.</p>
+
+<p>De organisatie die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de melding van het bericht ingediend moet worden bij het agentschap Sport Vlaanderen. Als de organisatie daarom verzoekt, kan ze gehoord worden.</p>
+
+<p>Het agentschap Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te erkennen.</p>
 
 ### ART. 6.
 
-<P>§ 1. Als het agentschap Sport Vlaanderen vaststelt dat de organisatie niet   meer voldoet aan een of meer erkenningsvoorwaarden, brengt het agentschap Sport   Vlaanderen de organisatie op de hoogte van de vastgestelde   overtredingen.<BR></P>  <P>§ 2. De organisatie krijgt de mogelijkheid om haar standpunt over die   overtredingen schriftelijk mee te delen. Daarna stelt het agentschap Sport   Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<BR></P>  <P>§ 3. De minister beslist, na de kennisname van het advies, vermeld in   paragraaf 2, en, in voorkomend geval, van het meegedeelde standpunt van de   organisatie, om ofwel de erkenning te schorsen en de organisatie een termijn toe   te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de   erkenning in te trekken. De minister houdt daarbij rekening met de aard van de   vastgestelde overtreding en de mogelijkheid tot regularisatie.<BR></P>  <P>De beslissing wordt aan de organisatie meegedeeld per aangetekende   brief.<BR></P>  <P>§ 4. De erkenning van de organisatie wordt geschorst vanaf de datum waarop de   brief met de beslissing tot schorsing naar haar is verstuurd. In de brief wordt   ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet   regulariseren.<BR></P>  <P>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie, na afloop   van de in de brief gestelde termijn, niet opnieuw voldoet aan alle   erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot   intrekking van de erkenning.<BR></P>  <P>De beslissing tot intrekking van de erkenning heeft uitwerking met   terugwerkende kracht vanaf de datum waarop de erkenning van de organisatie is   geschorst.<BR></P>  <P>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie tijdig de   vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven.   De organisatie wordt op de hoogte gebracht van de beslissing van de minister   over de datum van de opheffing van de schorsing.<BR></P>  <P>§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning   onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is   van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt   verantwoord. In dergelijk geval wordt de organisatie per aangetekende brief op   de hoogte gebracht van de beslissing van de minister om haar erkenning   onmiddellijk in te trekken.<BR></P>  <P>De organisatie die het bericht krijgt van de beslissing van de minister om   haar erkenning onmiddellijk in te trekken, kan daartegen een gemotiveerd bezwaar   indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend   verstuurd moet worden naar het agentschap Sport Vlaanderen.<BR></P>  <P>Het agentschap Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van   het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk   dertig dagen na de ontvangst van dat advies om de intrekking van de organisatie   al dan niet te bevestigen.<BR></P>
+<p>§ 1. Als het agentschap Sport Vlaanderen vaststelt dat de organisatie niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt het agentschap Sport Vlaanderen de organisatie op de hoogte van de vastgestelde overtredingen.</p>
 
-## Afdeling 2 Subsidiëring van een organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners
+<p>§ 2. De organisatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.</p>
+
+<p>§ 3. De minister beslist, na de kennisname van het advies, vermeld in paragraaf 2, en, in voorkomend geval, van het meegedeelde standpunt van de organisatie, om ofwel de erkenning te schorsen en de organisatie een termijn toe te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie.</p>
+
+<p>§ 4. De erkenning van de organisatie wordt geschorst vanaf de datum vermeld in de beslissing. In de beslissing wordt ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet regulariseren.</p>
+
+<p>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie, na afloop van de in de beslissing gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.</p>
+
+<p>De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de organisatie is geschorst.</p>
+
+<p>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie tijdig de vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De organisatie wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.</p>
+
+<p>§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de organisatie op de hoogte gebracht van de beslissing van de minister om haar erkenning onmiddellijk in te trekken.</p>
+
+## Afdeling 2 Subsidiëring van een organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners
 
 ## Onderafdeling 1 Subsidiëringsvoorwaarden
 
 ### ART. 7.
 
-<P>§ 1. Er wordt één erkende organisatie voor de coördinatie en de   tewerkstelling van een pool van sportbegeleiders en sportondersteuners   gesubsidieerd per beleidsplanperiode.<BR></P>  <P>Om voor subsidiëring in aanmerking te komen voert een erkende organisatie   voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en   sportondersteuners de volgende opdrachten uit : <BR>1° een kenniscentrum zijn   met betrekking tot professionalisering en tewerkstelling in de sport;<BR>2° het   aanspreekpunt zijn voor de tewerkstelling van sportbegeleiders en   sportondersteuners;<BR>3° initiatieven nemen om de kwalitatieve tewerkstelling   in de sportsector te verhogen;<BR>4° een pool van sportbegeleiders en   sportondersteuners beschikbaar stellen in alle Vlaamse provincies en, vanaf   2016, in het tweetalige gebied Brussel-Hoofdstad. De organisatie richt zich   daarbij op de non-profïtsportsector;<BR>5° de kwaliteit van de pool van   sportbegeleiders en sportondersteuners verhogen door hen voortdurend bij te   scholen en te begeleiden bij de uitvoering van hun opdrachten.<BR>De organisatie   besteedt daarbij aandacht aan bijzondere doelgroepen en aan maatschappelijke   behoeften;<BR>6° initiatieven nemen in het kader van de Vlaamse   beleidsprioriteit, vermeld in artikel 5, 2°, en artikel 6, tweede lid, van het   decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal   sportbeleid en, vanaf 1 januari 2016, in het kader van de Vlaamse   beleidsprioriteit, vermeld in artikel 11, 2°, van voormeld decreet, om : <BR>a)   de kwaliteit van de jeugdsportbegeleiders binnen de sportverenigingen te   verhogen;<BR>b) de professionele omkadering via coördinerende functies in de   sportverenigingen te verhogen;<BR>7° de organisatie uitbouwen, structureren en   beheren om de opdrachten, vermeld in punt 1° tot en met 6°, kwaliteitsvol uit te   voeren.<BR></P>  <P>Voor de opdracht, vermeld in het eerste lid, 4°, bepaalt de Vlaamse Regering   de voorwaarden betreffende de minimale kwalificaties en competenties waaraan de   vaste en occasionele sportbegeleiders moeten voldoen.<BR></P>  <P>De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader   specificeren.<BR></P>  <P>§ 2. Om in aanmerking te komen voor subsidiëring maakt de erkende organisatie   voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en   sportondersteuners een beleidsplan op voor de volgende vijf jaar, alsook een   jaarlijks actieplan met vermelding van de acties, de timing, de indicatoren, de   wijze van monitoring en de daaraan gekoppelde begroting. De Vlaamse Regering   bepaalt de nadere voorwaarden waaraan dat beleidsplan en het jaarlijkse   actieplan moeten voldoen.<BR></P>
+<p>§1. Er wordt één erkende organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners gesubsidieerd per beleidsplanperiode.<br>
+<br>
+Om voor subsidiëring in aanmerking te komen voert een erkende organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners de volgende opdrachten uit:<br>
+1° een kenniscentrum zijn met betrekking tot de tewerkstelling van sportbegelei-ders en sportondersteuners;<br>
+2° het aanspreekpunt zijn voor de tewerkstelling van sportbegeleiders en sportondersteuners;<br>
+3° initiatieven nemen om de tewerkstelling van gekwalificeerde sportbegeleiders en sportondersteuners te verhogen, met een focus op de non-profitsportsector;<br>
+4° gekwalificeerde sportbegeleiders en sportondersteuners beschikbaar stellen in alle Vlaamse provincies en in het tweetalige gebied Brussel-Hoofdstad, met een focus op de non-profïtsportsector;<br>
+5° de organisatie uitbouwen, structureren en beheren om de opdrachten, vermeld in punt 1° tot en met 4°, kwaliteitsvol uit te voeren.<br>
+<br>
+Voor de opdracht, vermeld in het tweede lid, 1°, brengt de organisatie de behoeften en mogelijkheden van sportclubs op het vlak van de tewerkstelling van sportbegeleiders en sportondersteuners in kaart, en de ontwikkelingen van de tewerkstelling in de non-profitsportsector, met een focus op de sportclubs.<br>
+ <br>
+Voor de opdracht, vermeld in het tweede lid, 3°, neemt de organisatie min-stens initiatieven op het vlak van:<br>
+1° het stimuleren en ondersteunen van sportclubs, erkende sportfederaties en lokale overheden bij het aantrekken, behouden en legaal vergoeden van gediplomeerde sportbegeleiders en sportondersteuners voor hun prestaties. De organisatie kan een aangepast financieel ondersteuningsbeleid voeren voor de non-profitsportsector, met een focus op sportclubs. Dat beleid wordt geconcretiseerd in de samenwerkingsovereenkomst, vermeld in paragraaf 3;<br>
+2° het stimuleren en ondersteunen van sportclubs om hun beleid en beheer af te stemmen op het realiseren van de tewerkstelling van gekwalificeerde sport-begeleiders en sportondersteuners.<br>
+<br>
+Voor de opdracht, vermeld in het tweede lid, 4°, bepaalt de Vlaamse Regering de voorwaarden betreffende de minimale kwalificaties waaraan vaste en occasionele sportbegeleiders moeten voldoen.<br>
+<br>
+Als de organisatie sportbegeleiders of sportondersteuners tewerkstelt, neemt die organisatie initiatieven om de competenties van die sportbegeleiders en sportondersteuners te verhogen door hen bij te scholen en te begeleiden bij de uitvoering van hun opdrachten.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het tweede lid, nader specificeren.<br>
+<br>
+De organisatie focust bij de uitvoering van haar opdrachten, vermeld in het tweede lid, op de sportclubs. De Vlaamse Regering kan bepalen welk aandeel van de subsidie minimaal aangewend moet worden voor de voormelde doelgroep.<br>
+<br>
+De Vlaamse Regering kan bepalen welk aandeel van de subsidie maximaal mag of minimaal moet worden besteed aan welke opdracht, vermeld in het tweede lid.<br>
+<br>
+§2. Om in aanmerking te komen voor subsidiëring maakt de erkende organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners een beleidsplan op voor de volgende olympiade, alsook een jaarlijks actieplan. De Vlaamse Regering bepaalt de nadere voorwaarden waaraan dat beleidsplan en het jaarlijkse actieplan moeten voldoen.<br>
+<br>
+§3. Het agentschap Sport Vlaanderen kan met de organisatie voor het coördine-ren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners een samenwerkingsovereenkomst sluiten over de optimalise-ring van de praktische en concrete uitvoering van de opdrachten, vermeld in paragraaf 1, tweede lid. De samenwerkingsovereenkomst geldt voor de resterende duur van de olympiade. De samenwerkingsovereenkomst heeft tot doel om de organisatie te coachen en te begeleiden om haar opdrachten, vermeld in paragraaf 1, te optimaliseren. De uitvoering van de samenwerkingsovereen-komst wordt tussentijds opgevolgd en in overleg met de organisatie bijgestuurd door het agentschap Sport Vlaanderen.<br>
+<br>
+De samenwerkingsovereenkomst, vermeld in het eerste lid, omvat minstens bepalingen over de te realiseren afspraken van de organisatie en het agentschap Sport Vlaanderen, met inbegrip van de beoogde doelstellingen en de wijze waarop die gemeten of gewaardeerd worden op basis van kwantitatieve of kwalitatieve voortgangsindicatoren. In de mate waarin de afspraken, opgenomen in de samenwerkingsovereenkomst, niet worden gerealiseerd, kan dat leiden tot een proportionele correctie van de subsidie op de wijze, vermeld in artikel 18/1.</p>
 
 ### ART. 8.
 
-<p>De Vlaamse Regering voorziet in een subsidie van 950.000 euro per jaar voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners.</p>
-
-<p>Het subsidiebedrag wordt verhoogd :<br>
-1° in voorkomend geval, vanaf de subsidiëring van de organisatie, vermeld in artikel 7, § 1, met het budget dat werd toegekend aan die organisatie, als initiatief in de sportsector in het jaar dat aan de subsidiëring van de organisatie voorafgaat;<br>
-2° in 2014 en vanaf 2015 met de budgetten die respectievelijk vrijkomen in 2014 en vanaf 2015 door de stopzetting van de subsidiëring aan de initiatieven in de sportsector, andere dan de organisatie, vermeld in punt 1°, met toepassing van artikel 1 van het besluit van de Vlaamse Regering van 5 oktober 2012 houdende beëindiging van de subsidiëring van loonkosten aan bepaalde initiatieven in de sportsector, die werknemers tewerkstellen in een gewezen DAC- statuut;<br>
-3° vanaf de beëindiging van de subsidiëring van de loonkosten van een werknemer met verworven rechten bij zijn uitdiensttreding, pensionering of overlijden, uiterlijk op 31 mei 2020 met een bedrag per vte.</p>
-
-<p>Voor de toepassing van het eerste lid, 3°, bepaalt de Vlaamse Regering een minimaal bedrag per vte.</p>
-
-<p>De middelen die met toepassing van het eerste lid, 1°, 2° en 3°, worden toegekend, kunnen uitsluitend worden aangewend voor tewerkstelling.</p>
+<p>De Vlaamse Regering voorziet in een subsidie om de opdrachten, vermeld in artikel 7, §1, tweede lid, uit te voeren.</p>
 
 ### ART. 9.
 
-<P>Om in aanmerking te komen voor subsidiëring, bestaat de algemene vergadering   en de raad van bestuur van de gesubsidieerde organisatie voor de coördinatie en   de tewerkstelling van een pool van sportbegeleiders en sportondersteuners uit   vertegenwoordigers van de non-profitsportsector, aangevuld met experten zonder   stemrecht die zijn aangewezen door de Vlaamse Regering.<BR></P>  <P>De vertegenwoordigers van de non-profitsportsector bestaan uit een gelijk   aantal vertegenwoordigers van enerzijds de gemeenten, de provincies en de   Vlaamse Gemeenschapscommissie, en anderzijds de erkende Vlaamse sportfederaties   en bij die sportfederaties aangesloten sportclubs.<BR></P>
+<p>Om in aanmerking te komen voor subsidiëring, bestaat de algemene vergadering en het bestuursorgaan van de gesubsidieerde organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners minstens uit vertegenwoordigers van de non-profitsportsector.&nbsp;De algemene vergadering of het bestuursorgaan kan aangevuld worden met experten zonder stemrecht die de Vlaamse Regering aanwijst.</p>
+
+<p>De vertegenwoordigers van de non-profitsportsector zijn vertegenwoordigers van de gemeenten en de erkende Vlaamse sportfederaties, eventueel aange-vuld met een vertegenwoordiger van de Vlaamse Gemeenschapscommissie of met een of meer vertegenwoordigers van de sportclubs die bij de erkende Vlaamse sportfederaties zijn aangesloten.</p>
 
 ### ART. 10.
 
-<P>Om in aanmerking te komen voor subsidiëring, voert de gesubsidieerde   organisatie voor de coördinatie en de tewerkstelling van een pool van   sportbegeleiders en sportondersteuners een aangepast ondersteuningsbeleid voor   het ter beschikking stellen van de pool van sportbegeleiders en   sportondersteuners voor de begeleiding en ondersteuning van sportactiviteiten   voor specifieke doelgroepen. Dat beleid wordt geconcretiseerd in de   beheersovereenkomst met de organisatie.<BR></P>  <P>De Vlaamse Regering kan de specifieke doelgroepen, vermeld in het eerste lid,   nader bepalen.<BR></P>
+<p>...</p>
 
 ### ART. 11.
 
-&nbsp;De subsidies, vermeld in artikel 8, voor een organisatie voor de   coördinatie en de tewerkstelling van een pool van sportbegeleiders en   sportondersteuners worden jaarlijks toegekend en omvatten werkingssubsidies en   personeelssubsidies. De subsidie wordt aangewend voor de uitvoering van de   opdrachten, vermeld in artikel 7, § 1. De Vlaamse Regering kan de verhouding   tussen de werkingssubsidies en de personeelssubsidies bepalen.<BR>
+De subsidies, vermeld in artikel 8, voor een organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners worden jaarlijks toegekend en omvatten werkingssubsidies en personeelssubsidies. De subsidie wordt aangewend voor de uitvoering van de opdrachten, vermeld in artikel 7, § 1. De Vlaamse Regering kan de verhouding tussen de werkingssubsidies en de personeelssubsidies bepalen.
 
 ### ART. 12.
 
-<P>De organisatie voor de coördinatie en de tewerkstelling van een pool van   sportbegeleiders en sportondersteuners maakt een jaarlijks verslag op, dat   bestaat uit een werkingsverslag en een financieel verslag, over de uitvoering   van het beleidsplan in het voorgaande jaar.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere voorwaarden waaraan het werkingsverslag   en het financieel verslag moeten voldoen.<BR></P>
+<p>De organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegeleiders en sportondersteuners maakt een jaarlijks verslag op, dat bestaat uit een werkingsverslag en een financieel verslag, over de uitvoering van het beleidsplan in het voorgaande jaar.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere voorwaarden waaraan het werkingsverslag en het financieel verslag moeten voldoen.</p>
 
 ## Onderafdeling 2 Subsidiëringsprocedure
 
 ### ART. 13.
 
-<P>De organisatie stuurt uiterlijk op 15 november van het kalenderjaar dat   voorafgaat aan de beleidsplanperiode, het beleidsplan, vermeld in artikel 7, §   2, dat de algemene vergadering heeft goedgekeurd naar het agentschap Sport   Vlaanderen.<BR></P>  <P>Voor 15 januari brengt het agentschap Sport Vlaanderen bij de minister advies   uit over de subsidiëring van de organisatie.<BR></P>  <P>Voor 15 februari deelt de minister per aangetekende brief aan de organisatie   zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te   subsidiëren.<BR></P>  <P>De organisatie die het bericht krijgt van het voornemen van de minister om   haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat   binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd   moet worden naar het agentschap Sport Vlaanderen. Als de organisatie daarom   verzoekt, kan ze gehoord worden.<BR></P>  <P>Het agentschap Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van   het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk   dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te   subsidiëren.<BR></P>
+<p>De organisatie stuurt uiterlijk op 15 november van het kalenderjaar dat voorafgaat aan de beleidsplanperiode, het beleidsplan, vermeld in artikel 7, § 2, dat de algemene vergadering heeft goedgekeurd naar het agentschap Sport Vlaanderen.</p>
+
+<p>Voor 15 januari brengt het agentschap Sport Vlaanderen bij de minister advies uit over de subsidiëring van de organisatie.</p>
+
+<p>Voor 15 februari deelt de minister aan de organisatie zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te subsidiëren.</p>
+
+<p>De organisatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de melding ingediend moet worden bij het agentschap Sport Vlaanderen. Als de organisatie daarom verzoekt, kan ze gehoord worden.</p>
+
+<p>Het agentschap Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te subsidiëren.</p>
 
 ### ART. 14.
 
@@ -90,11 +155,21 @@ Om als organisatie voor de coördinatie en de tewerkstelling van een pool   van 
 
 ### ART. 15.
 
-<P>Het jaarlijkse verslag, vermeld in artikel 12, moet door de raad van bestuur   van de organisatie worden goedgekeurd.<BR></P>  <P>Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar dat volgt op   het jaar waarop het verslag betrekking heeft, aan het agentschap Sport   Vlaanderen worden bezorgd.<BR></P>  <P>Voor 1 juni van het jaar dat volgt op het jaar waarop het verslag betrekking   heeft, brengt agentschap Sport Vlaanderen bij de minister advies uit over het   jaarlijkse verslag.<BR></P>
+<p>Het jaarlijkse verslag, vermeld in artikel 12, moet door het bestuursorgaan van de organisatie worden goedgekeurd.</p>
+
+<p>Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, aan het agentschap Sport Vlaanderen worden bezorgd.</p>
+
+<p>Voor 1 juni van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, brengt agentschap Sport Vlaanderen bij de minister advies uit over het jaarlijkse verslag.</p>
 
 ### ART. 16.
 
-<P>§ 1. Als de minister het beleidsplan voor subsidiëring heeft aanvaard en als   voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste   trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de   beleidsplanperiode. Het voorschot bedraagt 80 % van de subsidie waarop de   organisatie recht zal hebben voor het jaar in kwestie.<BR></P>  <P>Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van   de subsidies uitbetaald voor 1 juli van het jaar na het betreffende   begrotingsjaar van de beleidsplanperiode.<BR></P>  <P>§ 2. De organisatie is gehouden tot de onmiddellijke terugbetaling van de   subsidie indien zij de subsidievoorwaarden niet naleeft, de subsidie niet   aanwendt voor de opdrachten waarvoor zij wordt gesubsidieerd of de controle door   het agentschap Sport Vlaanderen op de aanwending van de subsidies   verhindert.<BR></P>  <P>De uitkering van de subsidie kan worden opgeschort zolang de organisatie   verzuimt verantwoording te verstrekken over of controle door het agentschap   Sport Vlaanderen toe te staan op de aanwending van de   subsidies.<BR></P>
+<p>§ 1. Als de minister het beleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de beleidsplanperiode. Het voorschot bedraagt 90 % van de subsidie waarop de organisatie recht zal hebben voor het jaar in kwestie.</p>
+
+<p>Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 1 juli van het jaar na het betreffende begrotingsjaar van de beleidsplanperiode.</p>
+
+<p>§ 2. De organisatie is gehouden tot de onmiddellijke terugbetaling van de subsidie indien zij de subsidievoorwaarden niet naleeft, de subsidie niet aanwendt voor de opdrachten waarvoor zij wordt gesubsidieerd of de controle door het agentschap Sport Vlaanderen op de aanwending van de subsidies verhindert.</p>
+
+<p>De uitkering van de subsidie kan worden opgeschort zolang de organisatie verzuimt verantwoording te verstrekken over of controle door het agentschap Sport Vlaanderen toe te staan op de aanwending van de subsidies.</p>
 
 ### ART. 17.
 
@@ -102,35 +177,43 @@ Het agentschap Sport Vlaanderen kan op elk moment controle uitoefenen op   de ui
 
 ### ART. 18.
 
-<P>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie niet meer   voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de   intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap   verantwoorden, brengt het agentschap Sport Vlaanderen de organisatie op de   hoogte van de vastgestelde overtredingen.<BR></P>  <P>De organisatie krijgt de mogelijkheid om haar standpunt over die   overtredingen schriftelijk mee te delen. Daarna stelt het agentschap Sport   Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<BR></P>  <P>De minister beslist, na de kennisname van dat advies en, in voorkomend geval,   van het meegedeelde standpunt van de organisatie, om de subsidiëring geheel of   gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te   vorderen. De beslissing wordt aan de organisatie meegedeeld per aangetekende   brief.<BR></P>
+<p>Als het agentschap Sport Vlaanderen vaststelt dat de organisatie niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het agentschap Sport Vlaanderen de organisatie op de hoogte van de vastgestelde overtredingen.</p>
+
+<p>De organisatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.</p>
+
+<p>De minister beslist, na de kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de organisatie, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen.</p>
+
+## Onderafdeling 3. Specifieke procedure voor de proportionele correctie van de subsidie in geval van niet-naleving van de samenwerkingsovereenkomst, vermeld in artikel 7, §3
+
+### ART 18/1.
+
+Als het agentschap Sport Vlaanderen vaststelt dat de organisatie voor het coördineren, stimuleren en ondersteunen van de tewerkstelling van sportbegelei-ders en sportondersteuners de afspraken die opgenomen zijn in de samenwer-kingsovereenkomst, vermeld in artikel 7, §3, niet realiseert, brengt het agentschap Sport Vlaanderen de organisatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+De organisatie, vermeld in het eerste lid, krijgt de mogelijkheid om haar standpunt over de overtredingen, vermeld in het eerste lid, in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een advies op over de mogelijke sancties.<br>
+<br>
+Met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof beslist de minister, na de kennisname van het advies, vermeld in het tweede lid, en, in voorkomend geval, van het standpunt van de organisatie, vermeld in het tweede lid, over een proportionele correctie van de subsidie, vermeld in artikel 8, vanaf het volgende werkingsjaar en tot bij de jaarlijkse evaluatie wordt vastgesteld dat de overtredingen, vermeld in het eerste lid, geremedieerd zijn.
 
 ## [HOOFDSTUK 3 Uitdovingsregeling van de subsidiëring aan initiatieven in de sportsector (verv. decr. 26 juni 2020, art. 6, I: 27 juli 2020)]
 
 ### ART. 19.
 
-<p>De initiatieven in de sportsector ontvangen een subsidie voor de werknemer in een gewezen DAC-statuut tot uiterlijk het einde van de berekende fictieve opzegtermijn van de werknemer in kwestie. Het einde van de fictieve opzegtermijn wordt berekend alsof die werknemer in een gewezen DAC-statuut in opzeg zou worden geplaatst met ingang van 1 oktober 2020, en enkel verlengd met 20 vakantiedagen op jaarbasis.<br>
-<br>
-Het recht op subsidies, vermeld in het eerste lid, vervalt als de werknemer in een gewezen DAC-statuut uit dienst treedt. Het initiatief in de sportsector deelt binnen de maand na uitdiensttreding deze wijziging mee aan het agentschap Sport Vlaanderen.</p>
+<p>...</p>
 
 ### ART. 20.
 
-Bij een fusie of splitsing van een initiatief in de sportsector die een of   meer werknemers in een gewezen DAC-statuut in dienst heeft, gaat het recht op   subsidies als vermeld in artikel 19, over op de organisatie die de werknemer in   een gewezen DAC-statuut overneemt.<BR>
+...
 
 ### ART. 21.
 
-<p>Het subsidiebedrag, vermeld in artikel 19, wordt vastgesteld op basis van het barema en de anciënniteit van de werknemer in een gewezen DAC-statuut, rekening houdend met het gesubsidieerde arbeidsvolume van de werknemer in een gewezen DAC-statuut. Het barema is de weddeschaal van de werknemer op 31 december 2002, zoals die is vastgesteld in het besluit van de Vlaamse Regering van 20 juli 1994 tot vaststelling van de weddeschalen van de werknemers tewerkgesteld in het derde arbeidscircuit.<br>
-<br>
-Als de werknemer in een gewezen DAC-statuut in opzeg is geplaatst uiterlijk op 31 december 2020 en wettelijk recht heeft op outplacementbegeleiding, wordt het subsidiebedrag verhoogd. Het subsidiebedrag wordt verhoogd met een bedrag dat overeenkomt met het subsidiebedrag voor de maand december 2020.</p>
+<p>...</p>
 
 ### ART 21/1.
 
-Het agentschap Sport Vlaanderen kent per kwartaal voorschotten toe die telkens 20% van het subsidiebedrag bedragen.<br>
-<br>
-Na goedkeuring door de minister, wordt het verschil tussen de uitbetaalde voorschotten en het subsidiebedrag ofwel als saldo uitbetaald voor 1 augustus van het jaar dat volgt op het jaar waarvoor de subsidie is toegekend, ofwel teruggevorderd. Het saldo voor het werkingsjaar 2020 wordt verhoogd met het bedrag, vermeld in artikel 21, tweede lid.
+...
 
 ### ART 21/2.
 
-Het initiatief in de sportsector bezorgt voor het verstrijken van elk kwartaal het bewijs dat de werknemer in een gewezen DAC-statuut nog in dienst is via de loonfiches. Het voorschot voor het volgende kwartaal wordt uitbetaald nadat deze loonfiches zijn bezorgd.
+...
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
