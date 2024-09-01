@@ -329,6 +329,7 @@ f) het brevet, certificaat of getuigschrift van het volwassenenonderwijs gerangs
 - het brevet, getuigschrift of certificaat van het volwassenenonderwijs, gerangschikt als BSO3;<br>
 - het diploma van secundair onderwijs, gerangschikt als BSO3;<br>
 - de bekwaamheidsbewijzen, vermeld onder HSBS met gehomologeerd getuigschrift HSO/gehomologeerd getuigschrift HSO (BSO);<br>
+-het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, ingericht onder de vorm van een zevende leerjaar gericht op instroom arbeidsmarkt;<br>
 21° HSTO :<br>
 - het diploma van een hogere secundaire technische school of leergang;<br>
 - het gehomologeerd of een door de examencommissie van de Staat uitgereikt getuigschrift van hoger secundair technisch onderwijs;<br>
@@ -339,15 +340,17 @@ f) het brevet, certificaat of getuigschrift van het volwassenenonderwijs gerangs
 - het diploma, getuigschrift of certificaat van het volwassenenonderwijs gerangschikt als TSO3;<br>
 - het diploma van het secundair onderwijs, gerangschikt als TSO3;<br>
 - het certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het technisch secundair onderwijs;<br>
+- het certificaat van een zevende leerjaar tso;<br>
 22° HSKO :<br>
 - het diploma of getuigschrift van het hoger secundair kunstonderwijs met volledig leerplan of met beperkt leerplan;<br>
 - het gehomologeerd of een door de examencommissie van de Staat uitgereikt getuigschrift van hoger secundair kunstonderwijs;<br>
 - het studieattest of -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het kunstsecundair onderwijs;<br>
 - het gehomologeerd of een door de examencommissie van de Vlaamse Gemeenschap uitgereikt diploma van secundair onderwijs (kunstsecundair onderwijs);<br>
 - het diploma van secundair onderwijs (kunstsecundair onderwijs);<br>
-- het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar (kunstsecundair onderwijs).<br>
-Onder HSKO wordt niet verstaan het deeltijds kunstonderwijs, vermeld in artikel 3, 16° van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs;<br>
+- het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar (kunstsecundair onderwijs);<br>
 - het certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het kunstsecundair onderwijs;<br>
+- het certificaat van een zevende leerjaar kso.<br>
+Onder HSKO wordt niet verstaan het deeltijds kunstonderwijs, vermeld in artikel 3, 16° van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs.<br>
 23° tenminste HSO :<br>
 - een van de basisdiploma's vermeld in artikel 7, punt 1° tot en met 56°bis;<br>
 - de studiebewijzen, die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br>
@@ -800,6 +803,6 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 <a href="https://www.ejustice.just.fgov.be/mopdf/2023/08/31_1.pdf#page=232">Bijlage I Bekwaamheidsbewijzen en salarisschalen in het buitengewoon onderwijs vanaf 1 september 2023</a><br>
 <br>
-Bij besluit van de Vlaamse Regering van 15 september 2023, wordt met ingang van 1 september 2023 het deel&nbsp;“bekwaamheidsbewijzen buitengewoon basisonderwijs” vervangen door het volgen de deel:<br>
+Bij besluit van de Vlaamse Regering van 15 september 2023, wordt met ingang van 1 september 2023 het deel&nbsp;“bekwaamheidsbewijzen buitengewoon basisonderwijs” vervangen door het volgende deel:&nbsp;<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/01_1.pdf#page=317">Bekwaamheidsbewijzen buitengewoon basisonderwijs</a><br>
 <br>
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/01_1.pdf#page=317">Bekwaamheidsbewijzen buitengewoon basisonderwijs</a>
+Bij besluit van de Vlaamse Regering van&nbsp; 19 juli 2024, wordt met ingang van 1 september 2024 het deel&nbsp;“bekwaamheidsbewijzen buitengewoon secundair onderwijs” vervangen door het volgende deel: <a href="https://www.ejustice.just.fgov.be/mopdf/2024/09/04_1.pdf#page=129">Bekwaamheidsbewijzen voor BUSO</a>
