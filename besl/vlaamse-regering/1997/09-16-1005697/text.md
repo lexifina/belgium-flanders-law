@@ -95,7 +95,7 @@ De bepalingen van dit hoofdstuk hebben betrekking op de redenen van afwezigheid 
 Wettiging van rechtswege van afwezigheden, op basis van voorgelegde bewijsstukken, hetzij van rechtswege, hetzij na beslissing van de directie van de instelling:<br>
 1° de afwezigheid om een van onderstaande redenen wordt als gewettigd beschouwd, op voorwaarde van voorlegging van, naargelang van het geval, hetzij een verklaring van de ouders of de meerderjarige leerling, hetzij een document met officieel karakter tot staving van de afwezigheid:<br>
 a) het bijwonen van een begrafenis- of huwelijksplechtigheid van een bloed- of aanverwant of van een persoon die onder hetzelfde dak woont;<br>
-b) het bijwonen van een familieraad;<br>
+b) ...;<br>
 c) de oproeping of dagvaarding voor een rechtbank;<br>
 d) de onbereikbaarheid of ontoegankelijkheid van de instelling door overmacht;<br>
 e) het onderworpen zijn aan de naleving van bijzondere maatregelen, opgelegd in het kader van de jeugdbescherming of de bijzondere jeugdzorg;<br>
@@ -145,7 +145,7 @@ Wettiging van afwezigheden ingevolge laattijdige inschrijvingen:<br />1° de afw
 ### ART. 14septies.
 
 Afwezigheden die niet onder toepassing vallen van de artikelen 14ter en 14quinquies en voor zover niet bij decreet of uitvoeringsreglementering geregeld, kunnen worden gewettigd door de directeur van de instelling (of zijn afgevaardigde) of door de klassenraad, naargelang van het geval, die daartoe door de inrichtende macht bevoegd werd verklaard. Onder desbetreffende afwezigheden worden verstaan :<br>
-1° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet ingeschreven zijn in een instelling. In afwijking van deze bepaling zijn desbetreffende afwezigheden gedurende een bepaalde periode van het schooljaar evenwel van rechtswege gewettigd als ze er het rechtstreekse gevolg van zijn dat het door de leerling gekozen 7de leerjaar of hoger beroepsonderwijs, verpleegkunde niet over een volledig schooljaar is gespreid;<br>
+1° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet ingeschreven zijn in een instelling. In afwijking van deze bepaling zijn desbetreffende afwezigheden gedurende een bepaalde periode van het schooljaar evenwel van rechtswege gewettigd als ze er het rechtstreekse gevolg van zijn dat het door de leerling gekozen 7de leerjaar of hoger beroepsonderwijs niet over een volledig schooljaar is gespreid;<br>
 2° afwezigheden die verband houden met het gedurende een bepaalde periode van het schooljaar niet volgen van het lessenprogramma;<br>
 3° afwezigheden die verband houden met het niet volgen van bepaalde onderdelen van het lessenprogramma, op voorwaarde dat de betrokken leerling bedoelde onderdelen eerder heeft gevolgd én reeds houder is van een eindstudiebewijs van het secundair onderwijs;<br>
 4° afwezigheden in de opleidingsvorm 4 van het buitengewoon secundair onderwijs die verband houden met een spreiding van het lessenprogramma over twee schooljaren.<br>
