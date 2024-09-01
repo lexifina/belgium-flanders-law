@@ -75,7 +75,9 @@ a) de leerlingen van de eerste graad en de tweede graad van het voltijds gewoon 
 b) de leerlingen van de derde graad van het voltijds gewoon algemeen en kunstsecundair onderwijs en van het buitengewoon algemeen en kunstsecundair onderwijs, OV 4;<br>
 c) de leerlingen van het buitengewoon technisch en beroepssecundair onderwijs, OV 4, type 5;<br>
 d) de leerlingen van het buitengewoon secundair onderwijs, OV 3, observatiefase en opleidingsfase;<br>
-e) de leerlingen van het gemoderniseerde Se-n-Se als beroepsgerichte specialisatie in het derde leerjaar van de derde graad, domeinen Kunst en Creatie en Taal en Cultuur.<br>
+e) de leerlingen van het gemoderniseerde 7de leerjaar gericht op instroom arbeidsmarkt in het derde leerjaar van de derde graad, domeinen Kunst en Creatie en Taal en Cultuur;<br>
+f) de leerlingen van het buitengewoon secundair onderwijs, OV1 en OV2;<br>
+g)&nbsp;&nbsp; &nbsp;de leerlingen in het onthaalonderwijs voor anderstalige nieuwkomers.<br>
 <br>
 § 3. De toekenning van de werkingstoelagen per RTC gebeurt als volgt:<br>
 1° voor de periode van 1 september tot en met 31 december:<br>
