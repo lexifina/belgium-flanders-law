@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040183,
+  "title": "Ministerieel besluit van 2024-08-13 over het verbod van het gebruik van sommige lijstnamen voor de lokale en provinciale verkiezingen van 13 oktober 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040183/VolledigDocument?datum=2024-09-02",
+  "source_sha256": "8b337add96724ae79be9b1b5663cd8d66d8d2b9163efe72d48a27c026fecb9f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040183&param=informatie",
+  "as_of": "2024-09-02",
+  "made": "2024-08-13",
+  "gazette": "2024-09-02",
+  "numac": 2024008117,
+  "document_start": "2024-09-02",
+  "document_end": null,
+  "in_force": "2024-09-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2024-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
