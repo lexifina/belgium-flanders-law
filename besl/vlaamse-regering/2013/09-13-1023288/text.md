@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<BR>1° decreet van 6 februari   2004: het decreet van 6 februari 2004 betreffende een waarborgregeling voor   kleine, middelgrote en grote ondernemingen;<BR>2° waarborgaanvraag: de aanvraag   van een waarborg conform de bepalingen, vermeld in artikel 4, eerste lid;<BR>3°   waarborgnemer: het ondernemingsfonds, het infrastructuurfonds of de financiële   instelling die de waarborgaanvraag heeft ingediend.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 6 februari 2004: het decreet van 6 februari 2004 houdende ad-hocwaarborgen voor ondernemingen en waarborgen voor financieringsfondsen en kredietportefeuilles;<br>
+2° ...;<br>
+3° waarborgnemer: het ondernemingsfonds, het infrastructuurfonds of de financiële instelling die vraagt om een waarborgdossier op te stellen;<br>
+4° waarborgvennootschap: de Waarborgvennootschap, vermeld in artikel 2, 25°, van het decreet van 6 februari 2004.
 
 ### ART. 2.
 
@@ -18,27 +22,77 @@ Dit besluit is van toepassing op de waarborgen, vermeld in hoofdstuk III/2   van
 
 ### ART. 3.
 
-<P>De verbintenis van de waarborgvennootschap uit hoofde van een waarborg is in   ieder geval beperkt tot:<BR>1° het in de waarborgovereenkomst opgenomen   percentage van de hoofdsom en interesten van de gewaarborgde verbintenis. Dat   percentage kan in voorkomend geval verschillend zijn voor verschillende   gewaarborgde verbintenissen, maar kan nooit hoger zijn dan 100% voor een   waarborg als vermeld in artikel 22/6 of 22/7 van het decreet van 6 februari   2004, of dan 80% voor een waarborg als vermeld in artikel 22/8 van het voormelde   decreet; <BR>2° de in de waarborgovereenkomst bepaalde maximumduur. Die   maximumduur kan in voorkomend geval verschillend zijn voor verschillende   gewaarborgde verbintenissen, maar kan nooit langer zijn dan achttien jaar vanaf   de inwerkingtreding van de waarborgovereenkomst voor een waarborg als vermeld in   artikel 22/6 van het decreet van 6 februari 2004, of dan dertig jaar vanaf de   inwerkingtreding van de waarborgovereenkomst voor een waarborg als vermeld in   artikel 22/7 van het voormelde decreet.<BR></P>  <P>In het eerste lid wordt verstaan onder gewaarborgde verbintenis: een   schuldinstrument, kapitaalinstrument of schuld tot zekerheid waarvan de waarborg   wordt toegekend.<BR></P>
+<p>§1. De verbintenis van de waarborgvennootschap op grond van een waarborg als vermeld in artikel 22/6 of 22/7 van het decreet van 6 februari 2004, is in ieder geval beperkt tot de volgende elementen:<br>
+1° het percentage van de hoofdsom en de interesten van de gewaarborgde verbintenis die in de waarborgovereenkomst zijn opgenomen. Dat percentage kan in voorkomend geval verschillend zijn voor verschillende gewaarborgde verbintenissen, maar kan nooit hoger zijn dan 80%. Als de omvang van de financiering na verloop van tijd afneemt, neemt het gegarandeerde bedrag in evenredigheid af, zodat de waarborg op ieder tijdstip niet meer dan 80% van de uitstaande financiering dekt. De verliezen worden evenredig en op dezelfde wijze gedragen door de financieringsverstrekker en de waarborgvennootschap. De opbrengsten die afkomstig zijn van de uitwinning van de zekerheden die de onderneming heeft gesteld om de schulden te dekken, na aftrek van de uitwinningskosten die de financieringsverstrekker draagt, doen de door de financieringsverstrekker en de waarborgvennootschap gedragen verliezen evenredig dalen;<br>
+2° de maximumduur die in de waarborgovereenkomst is bepaald. Die maximumduur kan in voorkomend geval verschillend zijn voor verschillende gewaarborgde verbintenissen, maar kan nooit langer zijn dan een van de volgende termijnen:<br>
+a) achttien jaar vanaf de inwerkingtreding van de waarborgovereenkomst voor een waarborg als vermeld in artikel 22/6 van het voormelde decreet;<br>
+b) dertig jaar vanaf de inwerkingtreding van de waarborgovereenkomst voor een waarborg als vermeld in artikel 22/7 van het voormelde decreet;<br>
+3° het maximumbedrag van de gestelde waarborg die in de waarborgovereenkomst is bepaald.</p>
+
+<p>In het eerste lid wordt verstaan onder gewaarborgde verbintenis: een schuldinstrument, kapitaalinstrument of schuld tot zekerheid waarvan de waarborg wordt toegekend.<br>
+<br>
+§2. De verbintenis van de waarborgvennootschap op grond van een waarborg als vermeld in artikel 22/8 van het decreet van 6 februari 2004, is in ieder geval beperkt tot het waarborgpercentage dat in de waarborgovereenkomst is opgenomen. Het gegarandeerde bedrag neemt in evenredigheid af als de omvang van de kwalitatieve kredietportefeuille na verloop van tijd afneemt, zodat de waarborg op ieder tijdstip niet meer dan 80% van de kwalitatieve kredietportefeuille dekt.<br>
+<br>
+De verliezen worden evenredig en op dezelfde wijze gedragen door de financieringsverstrekker en de waarborgvennootschap. De opbrengsten die afkomstig zijn van de uitwinning van de zekerheden die de onderneming heeft gesteld om de schulden te dekken, na aftrek van de uitwinningskosten die de financieringsverstrekker draagt, doen de door de financieringsverstrekker en de waarborgvennootschap gedragen verliezen evenredig dalen.</p>
 
 ### ART. 4.
 
-<P>Bij de aanvragen van een waarborg als vermeld in artikel 22/6 of 22/7 van het   decreet van 6 februari 2004 moeten minstens de volgende gegevens aan de   waarborgvennootschap worden verstrekt:<BR>1° de identificatie van de   waarborgnemer en de initiatief-nemende instellingen;<BR>2° een beschrijving van   de structuur, het beheer en de werkingsregels van het ondernemingsfonds of het   infrastructuurfonds, met inbegrip van de criteria die door het ondernemingsfonds   of infrastructuurfonds zullen worden toegepast voor het verlenen van   financieringsovereenkomsten aan kredietnemers of voor de overname van   financieringsovereenkomsten;<BR>3° de samenstelling, opbouw en karakteristieken   van de eerste verliesbuffer;<BR>4° het businessplan, vermeld in artikel 22/6, §   3, 4°, of artikel 22/7, § 3, 4°, van het decreet van 6 februari 2004;<BR>5° de   geldigheidsduur en het dekkingspercentage van de gevraagde waarborg;<BR>6° als   de verbintenissen waarvoor de waarborg wordt gevraagd nog niet volledig zijn   geplaatst, het maximumbedrag van de te waarborgen verbintenissen.<BR></P>  <P>Bij de aanvraag van een waarborg als vermeld in artikel 22/8 van het decreet   van 6 februari 2004 moeten minstens de volgende gegevens aan de   waarborgvennootschap worden verstrekt:<BR>1° de identificatie van de   waarborgnemer;<BR>2° de risicospreidingscriteria die de waarborgnemer hanteert   bij de samenstelling en het beheer van de kwalitatieve   kredietportefeuille;<BR>3° de lijst met financieringsovereenkomsten, vermeld in   artikel 22/8, § 2, 2°, van het decreet van 6 februari 2004;<BR>4° de   voorgestelde methodes om de kredietbeoordelingen, vermeld in artikel 22/8, § 2,   2° en 5°, van het decreet van 6 februari 2004 te controleren;<BR>5° de   verbintenis, vermeld in artikel 22/8, § 2, 9°, van het decreet van 6 februari   2004;<BR>6° de voorgestelde methode om de verbintenis, vermeld in artikel 22/8,   § 2, 9°, van het decreet van 6 februari 2004 te controleren;<BR>7° de   geldigheidsduur en het dekkingspercentage van de gevraagde waarborg en het   maximum bedrag van de gevraagde waarborg.<BR></P>  <P>De waarborgnemer en, in voorkomend geval, de initiatief-nemende instellingen   worden geacht om zich ingevolge hun waarborgaanvraag volledig akkoord te hebben   verklaard met alle decretale en reglementaire voorwaarden van de waarborg. Als   de initiatief-nemende instelling niet mee de waarborgaanvraag indient, moet de   initiatief-nemende instelling zich bij de ondertekening van de   waarborgovereenkomst akkoord verklaren met alle decretale en reglementaire   voorwaarden van de waarborg. <BR></P>
+<p>Als een ondernemingsfonds of een infrastructuurfonds aan de waarborgvennootschap vraagt om een waarborgdossier op te stellen voor een waarborg als vermeld in artikel 22/6 of 22/7 van het decreet van 6 februari 2004, stelt de waarborgvennootschap een waarborgdossier samen, dat al de volgende gegevens bevat:<br>
+1° de identificatie van de waarborgnemer en de initiatief-nemende instellingen;<br>
+2° een beschrijving van de structuur, het beheer en de werkingsregels van het ondernemingsfonds of het infrastructuurfonds, met inbegrip van de criteria die door het ondernemingsfonds of infrastructuurfonds zullen worden toegepast voor het verlenen van financieringsovereenkomsten aan kredietnemers of voor de overname van financieringsovereenkomsten;<br>
+3° de samenstelling, opbouw en karakteristieken van de eerste verliesbuffer;<br>
+4° het businessplan, vermeld in artikel 22/6, § 3, 4°, of artikel 22/7, § 3, 4°, van het decreet van 6 februari 2004;<br>
+5° de geldigheidsduur en het dekkingspercentage van de gevraagde waarborg;<br>
+6° als de verbintenissen waarvoor de waarborg wordt gevraagd nog niet volledig zijn geplaatst, het maximumbedrag van de te waarborgen verbintenissen.</p>
+
+<p>Als een financiële instelling aan de waarborgvennootschap vraagt om een waarborgdossier op te stellen voor een waarborg als vermeld in artikel 22/8 van het decreet van 6 februari 2004, stelt de waarborgvennootschap een waarborgdossier samen, dat al de volgende gegevens bevat:<br>
+1° de identificatie van de waarborgnemer;<br>
+2° de risicospreidingscriteria die de waarborgnemer hanteert bij de samenstelling en het beheer van de kwalitatieve kredietportefeuille;<br>
+3° de lijst met financieringsovereenkomsten, vermeld in artikel 22/8, § 2, 2°, van het decreet van 6 februari 2004;<br>
+4° de voorgestelde methodes om de kredietbeoordelingen, vermeld in artikel 22/8, § 2, 2° en 5°, van het decreet van 6 februari 2004 te controleren;<br>
+5° de verbintenis, vermeld in artikel 22/8, § 2, 9°, van het decreet van 6 februari 2004;<br>
+6° de voorgestelde methode om de verbintenis, vermeld in artikel 22/8, § 2, 9°, van het decreet van 6 februari 2004 te controleren;<br>
+7° de geldigheidsduur en het dekkingspercentage van de gevraagde waarborg en het maximum bedrag van de gevraagde waarborg.</p>
 
 ### ART. 5.
 
-Voor waarborgaanvragen waarbij de waarborg hoger is dan 10.000.000 euro,   moet de waarborgvennootschap een voorafgaande goedkeuring van de Vlaamse   Regering krijgen voor ze de waarborg kan toekennen.<BR>
+Waarborgen die hoger zijn dan 10.000.000 euro of waarvan het waarborgpercentage hoger is dan 75%, zijn onderworpen aan de goedkeuring van de Vlaamse Regering.
 
 ### ART. 6.
 
-<P>De waarborg wordt toegekend en treedt pas in werking op de datum die bepaald   is in de waarborgovereenkomst, op zijn vroegst na de ondertekening door alle   partijen van de waarborgovereenkomst en na de datum van ontvangst door de   waarborgvennootschap van de betaling van de eerste waarborgpremie. <BR></P>  <P>In geval van een waarborg als vermeld in artikel 22/6 en 22/7 van het decreet   van 6 februari 2004 moet de waarborgovereenkomst minstens de volgende   aangelegenheden regelen:<BR>1° een omschrijving van de schuldinstrumenten, de   kapitaalinstrumenten of de schulden tot zekerheid waarvan de waarborg wordt   toegekend;<BR>2° het toepasselijke waarborgpercentage, de geldigheidsduur en de   overige beperkingen van de waarborg;<BR>3° de wijze van de berekening, de   betaling en de hoogte van de waarborgpremie;<BR>4° de modaliteiten voor de   afroep en de uitbetaling van de waarborg;<BR>5° dat de waarborg na de toekenning   ervan gedurende de looptijd van de waarborg niet beëindigd of gewijzigd kan   worden zonder het akkoord van de begunstigden;<BR>6° dat de waarborg vrij   overdraagbaar is, samen met het gewaarborgde schuld- of kapitaalinstrument of de   gewaarborgde schuld.<BR></P>  <P>In geval van een waarborg als vermeld in artikel 22/8 van het decreet van 6   februari 2004 moet de waarborgovereenkomst minstens de volgende aangelegenheden   regelen:<BR>1° een omschrijving van de criteria tot samenstelling van de   kwalitatieve kredietportefeuille tot zekerheid waarvan de waarborg wordt   toegekend, en de toegepaste criteria voor risicospreiding;<BR>2° het   waarborgpercentage, de geldigheidsduur en de overige beperkingen van de   waarborg;<BR>3° de wijze van de berekening, de betaling en de hoogte van de   waarborgpremie;<BR>4° de verplichtingen tot informatieverstrekking door de   waarborgnemer;<BR>5° de modaliteiten voor de afroep en de uitbetaling van de   waarborg;<BR>6° dat de waarborg na de toekenning ervan gedurende de looptijd van   de waarborg niet gewijzigd kan worden zonder het akkoord van de   begunstigden.<BR></P>  <P>In het tweede lid, 5°, en het derde lid, 6°, wordt verstaan onder   begunstigde: de natuurlijke persoon of rechtspersoon ten gunste van wie de   waarborg wordt toegekend, met inbegrip van zijn rechtsopvolger onder bijzondere   of algemene titel.<BR></P>
+<p>De waarborg wordt toegekend en treedt pas in werking op de datum die bepaald is in de waarborgovereenkomst, op zijn vroegst na de ondertekening door alle partijen van de waarborgovereenkomst en na de datum van ontvangst door de waarborgvennootschap van de betaling van de eerste waarborgpremie.&nbsp;De waarborgovereenkomst kan een strengere regeling bevatten op het vlak van de inwerkingtreding.</p>
+
+<p>In geval van een waarborg als vermeld in artikel 22/6 en 22/7 van het decreet van 6 februari 2004 moet de waarborgovereenkomst minstens de volgende aangelegenheden regelen:<br>
+1° een omschrijving van de schuldinstrumenten, de kapitaalinstrumenten of de schulden tot zekerheid waarvan de waarborg wordt toegekend;<br>
+2° het toepasselijke waarborgpercentage, de geldigheidsduur en de overige beperkingen van de waarborg;<br>
+3° de wijze van de berekening, de betaling en de hoogte van de waarborgpremie;<br>
+4° de modaliteiten voor de afroep en de uitbetaling van de waarborg;<br>
+5° dat de waarborg na de toekenning ervan gedurende de looptijd van de waarborg niet beëindigd of gewijzigd kan worden zonder het akkoord van de begunstigden;<br>
+6° dat de waarborg vrij overdraagbaar is, samen met het gewaarborgde schuld- of kapitaalinstrument of de gewaarborgde schuld.</p>
+
+<p>In geval van een waarborg als vermeld in artikel 22/8 van het decreet van 6 februari 2004 moet de waarborgovereenkomst minstens de volgende aangelegenheden regelen:<br>
+1° een omschrijving van de criteria tot samenstelling van de kwalitatieve kredietportefeuille tot zekerheid waarvan de waarborg wordt toegekend, en de toegepaste criteria voor risicospreiding;<br>
+2° het waarborgpercentage, de geldigheidsduur en de overige beperkingen van de waarborg;<br>
+3° de wijze van de berekening, de betaling en de hoogte van de waarborgpremie;<br>
+4° de verplichtingen tot informatieverstrekking door de waarborgnemer;<br>
+5° de modaliteiten voor de afroep en de uitbetaling van de waarborg;<br>
+6° dat de waarborg na de toekenning ervan gedurende de looptijd van de waarborg niet gewijzigd kan worden zonder het akkoord van de begunstigden.</p>
+
+<p>In het tweede lid, 5°, en het derde lid, 6°, wordt verstaan onder begunstigde: de natuurlijke persoon of rechtspersoon ten gunste van wie de waarborg wordt toegekend, met inbegrip van zijn rechtsopvolger onder bijzondere of algemene titel.</p>
 
 ## HOOFDSTUK 3 Waarborgpremie
 
 ### ART. 7.
 
+Opdat de waarborgpremie marktconform zou zijn, worden bij de berekening ervan onder andere de volgende kenmerken in aanmerking genomen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het bedrag en de looptijd van de gewaarborgde transactie;<br>
+2°&nbsp;&nbsp; &nbsp;de zekerheden die de kredietnemer heeft gesteld en andere ervaring van de kredietnemer die een impact heeft op de beoordeling van het terugvorderingspercentage;<br>
+3°&nbsp;&nbsp; &nbsp;de kans op wanbetaling door de kredietnemer als gevolg van zijn financiële positie;<br>
+4°&nbsp;&nbsp; &nbsp;de sector waarin de kredietnemer actief is en de vooruitzichten in die sector.<br>
+<br>
 De waarborgnemer bezorgt de waarborgvennootschap tijdig de nodige informatie om de waarborgpremie te berekenen.<br>
 <br>
-Als de waarborgpremie voor de waarborgen, vermeld in artikel 22/8 van het decreet van 6 februari 2004 niet betaald wordt door de waarborgnemer overeenkomstig de modaliteiten, bepaald in de waarborgovereenkomst, vervalt de waarborg van rechtswege, zonder aanmaning of kennisgeving.
+Als de waarborgpremie voor de waarborgen, vermeld in artikel 22/6, 22/7 en 22/8 van het decreet van 6 februari 2004, niet betaald wordt door de waarborgnemer overeenkomstig de modaliteiten, vermeld in de waarborgovereenkomst, vervalt de waarborg van rechtswege, zonder aanmaning of kennisgeving.
 
 ## HOOFDSTUK 4 Afroep van de waarborg
 

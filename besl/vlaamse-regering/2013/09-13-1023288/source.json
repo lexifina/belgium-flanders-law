@@ -2,16 +2,16 @@
   "codex_id": 1023288,
   "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot bepaling van de voorwaarden voor de drie financieringstypes uit het `bankenplan', vermeld in hoofdstuk III/2 van het decreet van 6 februari 2004 [houdende ad-hocwaarborgen voor ondernemingen en waarborgen voor financieringsfondsen en kredietportefeuilles]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023288/VolledigDocument?datum=2013-10-18",
-  "source_sha256": "f0845f375ff73a77c4453e704e72fc3c64c4cb8e95816c02d769cde6f54f3e8b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023288/VolledigDocument?datum=2024-09-07",
+  "source_sha256": "42f512b21e39aa681dd3818a33d8f483ea6e74b61f510b8e252d247e568ff759",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023288&param=informatie",
-  "as_of": "2013-10-18",
+  "as_of": "2024-09-07",
   "made": "2013-09-13",
   "gazette": "2013-10-08",
   "numac": 2013035863,
   "document_start": "2013-10-18",
   "document_end": null,
-  "in_force": "2013-10-18",
+  "in_force": "2024-09-07",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2013-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-07; future article versions excluded; article text as the API gives it"
 }
