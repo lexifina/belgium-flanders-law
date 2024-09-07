@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041791,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-30 tot wijziging van artikel 25 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041791/VolledigDocument?datum=2024-09-07",
+  "source_sha256": "3458be401ee176a3c9218b4d28467bd6c5bd52e0f7cfc03881a60be6faac5cb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041791&param=informatie",
+  "as_of": "2024-09-07",
+  "made": "2026-01-30",
+  "gazette": "2026-02-26",
+  "numac": 2026001383,
+  "document_start": "2026-03-08",
+  "document_end": null,
+  "in_force": "2024-09-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2024-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
