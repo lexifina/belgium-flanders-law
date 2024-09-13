@@ -454,27 +454,13 @@ Bij staking van stemmen heeft de jongste kandidaat de voorkeur.
 
 § 1. Een of meer gemeenteraadsleden die op dezelfde lijst verkozen zijn, vormen een fractie.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen twee fracties vormen, mits aan volgende voorwaarden is voldaan:<br>
-1° de naam van de lijst bestaat uit verschillende woorden of afkortingen die minstens de twee fractienamen omvatten;<br>
-2° de kandidaat-gemeenteraadsleden beslissen bij de indiening van de voordrachtsakte of verbeteringsakte dat de op de lijst verkozen gemeenteraadsleden twee fracties vormen of kunnen vormen. In dat laatste geval worden twee fracties gevormd als een meerderheid van de verkozen gemeenteraadsleden die potentieel een afzonderlijke fractie kunnen uitmaken daartoe op de installatievergadering van de gemeenteraad beslist;<br>
-3° de beslissing, vermeld in punt 2°, wordt genomen in een afzonderlijke akte inzake fractievorming, ondertekend door alle kandidaat-gemeenteraadsleden op de lijst;<br>
-4° de akte inzake fractievorming bevat alle kandidaat-gemeenteraadsleden van de lijst, in dezelfde volgorde als op de voordrachtsakte of de verbeteringsakte die bij de voorzitter van het gemeentelijk hoofdbureau wordt ingediend;<br>
-5° met behoud van de toepassing van het derde lid vermeldt de akte inzake fractievorming voor alle kandidaat-gemeenteraadsleden tot welke fractie ze zullen behoren in geval van verkiezing;<br>
-6° er worden op de akte inzake fractievorming maar twee verschillende fracties vermeld;<br>
-7° de akte inzake fractievorming is als bijlage gevoegd bij de voordrachtsakte of de verbeteringsakte die, overeenkomstig artikel 70 en 91 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, aan de voorzitter van het gemeentelijk hoofdbureau wordt bezorgd;<br>
-8° aan de algemeen directeur wordt tegen ontvangstbewijs een afschrift van de akte inzake fractievorming bezorgd uiterlijk de eerste werkdag nadat de voordrachtsakte of de verbeteringsakte bij de voorzitter van het gemeentelijk hoofdbureau is ingediend.<br>
+§ 2. In afwijking van paragraaf 1 kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen twee fracties vormen, mits aan de bepalingen van artikel 71, vijfde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is voldaan.<br>
 <br>
-De indiening van de akte inzake fractievorming en de door de kandidaat-gemeenteraadsleden gemaakte keuze is niet herroepbaar.<br>
+De vermelding inzake fractievorming op de voordrachtsakte, vermeld in artikel 71, vijfde lid, van het voormelde decreet, en de door de kandidaat- gemeenteraadsleden gemaakte keuze zijn niet herroepbaar.<br>
 <br>
-Als een kandidaat-gemeenteraadslid zich op de akte inzake fractievorming niet tot een fractie bekent, wordt het betrokken kandidaat-gemeenteraadslid geacht bij verkiezing te opteren voor de grootste fractie. Als beide fracties in de gemeenteraad even groot zijn, wordt hij geacht bij verkiezing te opteren voor de fractie waartoe de aanvoerder van de lijst behoort, behalve als de lijstaanvoerder op de akte van fractievorming zich niet tot een fractie heeft bekend. In dat laatste geval wordt het kandidaat-gemeenteraadslid geacht te opteren voor de fractie waartoe het kandidaat-gemeenteraadslid behoort dat de hoogste plaats op de lijst inneemt en dat zich tot een fractie heeft bekend.<br>
+§ 3. ...<br>
 <br>
-Als de regeling, vermeld in het eerste tot en met het derde lid, niet is toegepast, kunnen er geen aparte fracties worden gevormd. Als de kandidaat-gemeenteraadsleden die op dezelfde lijst verkozen zijn, beslissen om twee fracties te vormen overeenkomstig het eerste lid, spreekt de gemeenteraad zich op de installatievergadering bij besluit uit of aan de voorwaarden, vermeld in het eerste lid, is voldaan.<br>
-<br>
-De Vlaamse Regering stelt het model van akte inzake fractievorming vast.<br>
-<br>
-§ 3. Een of meer gemeenteraadsleden die verkozen zijn op lijsten die zich uiterlijk op de installatievergadering onderling hebben verenigd, vormen een fractie. Tot onderlinge vereniging van de lijsten kan alleen beslist worden als de meerderheid van de verkozenen op elk van die lijsten daarmee instemt.<br>
-<br>
-§ 4. De onderlinge vereniging tot een fractie of de vorming van twee fracties overeenkomstig paragraaf 2, geldt tot de eerstvolgende volledige vernieuwing van de gemeenteraad.<br>
+§ 4. ...<br>
 <br>
 § 5. Het huishoudelijk reglement legt de nadere regels vast voor de samenstelling en de werking van de fracties, alsook, binnen de grenzen die de Vlaamse Regering bepaalt, voor de financiering ervan.
 
@@ -3953,6 +3939,7 @@ Voor de organisatie van de buitengewone verkiezing van de eerste gemeenteraad va
 3° worden in artikel 58, eerste lid, van hetzelfde decreet de woorden "moet men kiezer zijn" gelezen als de woorden "moet men kiezer zijn in een van de samengevoegde gemeenten";<br>
 4° wordt in artikel 68, § 2, derde lid, van hetzelfde decreet de zinsnede "het gemeentehuis, in het gemeentelijke informatieblad of op de website van de gemeente" gelezen als de zinsnede "de gemeentehuizen, in de gemeentelijke informatiebladen of op de websites van de samengevoegde gemeenten.";<br>
 5° wordt in artikel 69 van hetzelfde decreet het eerste lid gelezen als volgt: "De voordrachtsakten van de kandidaten voor de verkiezing van de gemeenteraad van de nieuwe gemeente moeten ondertekend worden, hetzij door een aftredend gemeenteraadslid van een van de samengevoegde gemeenten, hetzij door ten minste 100 gemeenteraadskiezers van de samengevoegde gemeenten.";<br>
+5°/1 worden in artikel 92, zevende lid, van hetzelfde decreet de woorden “de algemeen directeur” gelezen als de woorden “de algemeen directeur van de gemeente waarvan de algemeen directeur aangewezen is als coördinator overeenkomstig artikel 346 van het decreet over het lokaal bestuur van 22 december 2017”;<br>
 6° worden in artikel 98 van hetzelfde decreet de woorden "het gemeentesecretariaat" gelezen als de woorden "de gemeentesecretariaten van de samengevoegde gemeenten";<br>
 7° worden in artikel 173, eerste lid, van hetzelfde decreet de woorden "De gemeentesecretaris legt" gelezen als de woorden "De algemeen directeurs van de samengevoegde gemeenten leggen";<br>
 8° worden in artikel 173, tweede lid, van hetzelfde decreet de woorden "Het gemeentebestuur bezorgt" gelezen als de woorden "De gemeentebesturen van de samengevoegde gemeenten bezorgen";<br>
