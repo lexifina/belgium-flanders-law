@@ -12,6 +12,10 @@ Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
 
 In artikel 16, eerste en tweede lid, en artikel 155, eerste en tweede lid, van het decreet van 22 december 2017 over het lokaal bestuur wordt het woord “beperking” telkens vervangen door het woord “handicap”.
 
+### ART 3.
+
+In artikel 36, §2, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt het woord “vierde” telkens vervangen door het woord “vijfde”.
+
 ### ART 4.
 
 In artikel 42, §3, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
