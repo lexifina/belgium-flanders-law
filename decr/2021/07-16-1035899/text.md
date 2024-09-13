@@ -30,6 +30,68 @@ In artikel 56, § 2, 7°, van hetzelfde decreet worden de volgende wijzigingen a
 1° de zinsnede ", of, ingeval de kiezer zich in de onmogelijkheid bevindt een dergelijk bewijsstuk voor te leggen, op grond van een verklaring op eer" wordt opgeheven;<br>
 2° de woorden "De Vlaamse Regering bepaalt het model van de verklaring op erewoord dat de kiezer moet indienen en" worden vervangen door de woorden "De Vlaamse Regering bepaalt".
 
+### ART 5.
+
+Aan artikel 71 van hetzelfde decreet wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"In voorkomend geval vermeldt de voordrachtsakte dat de kandidaten beslissen dat de op de lijst verkozen gemeenteraadsleden twee fracties vormen, conform artikel 36, § 2, van het decreet van 22 december 2017 over het lokaal bestuur. Met behoud van de bepalingen van artikel 60 tot en met 63, bestaat de naam van de lijst uit verschillende woorden of afkortingen die minstens de namen van de twee fracties bevatten. De voordrachtsakte vermeldt voor alle kandidaten tot welke fractie ze zullen behoren in geval van verkiezing.".
+
+### ART 6.
+
+Aan artikel 83, 4°, van hetzelfde decreet wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+"c) "gemeenteraadsleden" wordt gelezen als "stadsdistrictsraadsleden".".
+
+### ART 7.
+
+In artikel 84, 4°, van hetzelfde decreet wordt de zinsnede "artikel 71" vervangen door de zinsnede "artikel 71, eerste tot en met derde lid".
+
+### ART 8.
+
+In artikel 86, tweede lid, 1°, van hetzelfde decreet wordt de zinsnede "artikel 71, eerste lid" vervangen door de zinsnede "artikel 71".
+
+### ART 9.
+
+&nbsp;In artikel 91 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid, 1°, wordt de zinsnede "artikel 71, eerste lid" vervangen door de zinsnede "artikel 71";<br>
+2° aan het derde lid wordt een zin toegevoegd, die luidt als volgt:<br>
+"Een kandidaat op een lijst waarvan de kandidaten met toepassing van artikel 71, vierde lid, hebben vermeld dat de op de lijst verkozen gemeenteraadsleden twee fracties vormen, mag zijn keuze voor de fractie waartoe hij behoort, niet wijzigen.".
+
+### ART 10.
+
+In artikel 92 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° tussen het tweede lid en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Als de lijst waarvan de kandidaten met toepassing van artikel 71, vierde lid, hebben vermeld dat de op de lijst verkozen gemeenteraadsleden twee fracties vormen, niet voldoet aan de bepalingen, vermeld in artikel 71, vierde lid, wijst het gemeentelijk hoofdbureau de lijst in kwestie af.";<br>
+2° na het bestaande vijfde lid, dat het zesde lid wordt, wordt een zevende lid toegevoegd, dat luidt als volgt:<br>
+"Na de definitieve afsluiting bezorgt de voorzitter van het gemeentelijk hoofdbureau aan de algemeen directeur een exemplaar van de voordrachtsakte en, in voorkomend geval, een exemplaar van de verbeteringsakte, van de lijst waarvan de kandidaten met toepassing van artikel 71, vierde lid, hebben ver- meld dat de op de lijst verkozen gemeenteraadsleden twee fracties vormen.".
+
+### ART 11.
+
+In artikel 99 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° punt 7° wordt vervangen door wat volgt: "7° artikel 91, met dien verstande dat:<br>
+a) "gemeentelijk hoofdbureau" wordt gelezen als "stadsdistrictshoofdbureau";<br>
+b) "gemeenteraadsleden" wordt gelezen als "stadsdistrictsraadsleden";";<br>
+2° punt 8° wordt vervangen door wat volgt:<br>
+"8° artikel 92, met dien verstande dat:<br>
+a) "gemeentelijk hoofdbureau" wordt gelezen als "stadsdistrictshoofdbureau";<br>
+b) "gemeenteraadsleden" wordt gelezen als "stadsdistrictsraadsleden";<br>
+c) "de algemeen directeur" wordt gelezen als "de districtssecretaris";".
+
+### ART 12.
+
+In artikel 100 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt punt c) vervangen door wat volgt:<br>
+"c) in het tweede lid, 1°, wordt "artikel 71" gelezen als "artikel 71, eerste, tweede en derde lid";";<br>
+2° punt 7° wordt vervangen door wat volgt:<br>
+"7° artikel 91, met dien verstande dat:<br>
+a) "gemeentelijk hoofdbureau" wordt gelezen als "provinciedistrictshoofdbureau";<br>
+b) in het tweede lid, 1°, "artikel 71" wordt gelezen als "artikel 71, eerste, tweede en derde lid";<br>
+c) in het derde lid de laatste zin wordt geschrapt;";<br>
+3° punt 8° wordt vervangen door wat volgt:<br>
+"8° artikel 92, met dien verstande dat:<br>
+a) "gemeentelijk hoofdbureau" wordt gelezen als "provinciedistrictshoofdbureau";<br>
+b) het derde lid wordt geschrapt;<br>
+c) het zevende lid wordt gelezen als volgt:<br>
+"De voorzitter zendt onmiddellijk een exemplaar van alle voordrachtsakten van kandidaten aan de voorzitter van het provinciaal hoofdbureau.";".
+
 ### ART 13.
 
 In artikel 140, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -117,6 +179,15 @@ In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 ### ART 32.
 
 In artikel 25 van hetzelfde decreet wordt het woord "zaal" vervangen door het woord "vergadering".
+
+### ART 34.
+
+In artikel 36 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. In afwijking van paragraaf 1 kunnen de kandidaat-gemeenteraadsleden die op dezelfde lijst zijn verkozen twee fracties vormen, mits aan de bepalingen van artikel 71, vierde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is voldaan.<br>
+<br>
+De vermelding inzake fractievorming op de voordrachtsakte, vermeld in artikel 71, vierde lid, van het voormelde decreet, en de door de kandidaat- gemeenteraadsleden gemaakte keuze zijn niet herroepbaar.";<br>
+2° paragraaf 3 en 4 worden opgeheven.
 
 ### ART 35.
 
