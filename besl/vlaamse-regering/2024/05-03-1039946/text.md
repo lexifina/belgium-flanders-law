@@ -101,6 +101,40 @@ Aan artikel 5.255/2, §3, van hetzelfde besluit, ingevoegd bij het besluit van d
 <br>
 “Als de voorrang langdurige woonbinding, vermeld in artikel 5.255/3, §1, van toepassing is, rangschikt het agentschap de kandidaatstellingen, vermeld in artikel 5.255, §2, tweede lid, op de volgende wijze. Eerst wordt voorrang gegeven aan kandidaten die bevestigen dat ze behoren tot de bijzondere doelgroep als vermeld in het eerste lid en voor wie de voorrangsregel langdurige woonbinding van toepassing is. Vervolgens wordt voorrang gegeven aan kandidaten die bevestigen dat ze behoren tot de bijzondere doelgroep als vermeld in het eerste lid, maar voor wie niet de voorrangsregeling langdurige woonbinding van toepassing is. Tot slot wordt voorrang gegeven aan kandidaten die niet behoren tot de bijzondere doelgroep en voor wie de voorrangsregeling langdurige woonbinding van toepassing is.”.
 
+### ART 13.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 3 mei 2024, wordt een artikel 5.255/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 5.255/3. §1. In dit artikel wordt verstaan onder voorrang langdurige woonbinding: de voorrang die een kandidaat heeft als hij een binding heeft met een gemeente als hij in de periode van tien jaar voor de rangschikking minstens vijf jaar ononderbroken inwoner is of geweest is van de gemeente waar de toe te wijzen woning ligt.&nbsp;<br>
+<br>
+§2. Als een gemeente beslist om de voorrang langdurige woonbinding toe te passen, bezorgt ze die beslissing aan het agentschap. Het agentschap bezorgt de gemeente een ontvangstbevestiging. De voorrang langdurige woonbinding geldt voor de oproepen tot kandidaatstelling die opengesteld worden na het verstrijken van een termijn van veertien werkdagen volgend op de datum van de ontvangst van de beslissing van de gemeente.<br>
+<br>
+Als de voorrang langdurige woonbinding geldt voor de geconventioneerde huurwoningen, voegt het agentschap die informatie toe in de oproep tot kandidaatstelling. &nbsp;<br>
+<br>
+Het agentschap rangschikt de kandidaatstellingen, vermeld in artikel 5.255, §2, tweede lid, na toepassing van de voorrangsregel langdurige woonbinding als de gemeente heeft beslist om de voorrangsregel toe te passen.<br>
+<br>
+§3. Om na te gaan of de kandidaat in aanmerking komt voor de voorrang langdurige woonbinding, vraagt het agentschap persoonsgegevens op met toepassing van artikel 6/1 en 7/1 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br>
+<br>
+Het agentschap is de verwerkingsverantwoordelijke.<br>
+<br>
+Het agentschap gaat uitsluitend op basis van de gegevens van bewoning, vermeld in het Rijksregister, na of de kandidaat een voorrang langdurige woonbinding heeft met de gemeente waar de geconventioneerde huurwoning ligt.”.
+
+### ART 14.
+
+Aan boek 5, deel 10, titel 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt een artikel 5.259 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 5.259. Om na te gaan of de subsidie opgeschort moet worden conform artikel 5.47/1, §8, eerste lid, 4°, en artikel 5.47/6, eerste lid, 6°, vraagt het agentschap persoonsgegevens op met toepassing van artikel 6/1 en 7/1 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.&nbsp;<br>
+<br>
+Het agentschap is de verwerkingsverantwoordelijke.<br>
+<br>
+De gegevens, vermeld in het eerste lid, hebben betrekking op de huurder die conform artikel 5.257, vierde lid, de huurovereenkomst heeft ondertekend, en, als het voor de controle van de voorwaarde noodzakelijk is, de huurder zonder een geldig attest als vermeld in artikel 5.247, 2°, die de huurovereenkomst heeft gesloten, de huurder die conform artikel 51 van het Vlaams Woninghuurdecreet van 9 november 2018 van rechtswege huurder is geworden, en de andere persoon die conform artikel 52 van het Vlaams Woninghuurdecreet van 9 november 2018 huurder is geworden.<br>
+<br>
+Alleen persoonsgegevens die toereikend, ter zake dienend en noodzakelijk zijn voor het doeleinde, vermeld in het eerste lid, worden verwerkt. De verwerking van de persoonsgegevens voldoet aan de voorwaarde, vermeld in artikel 6, lid 1, c), van de algemene verordening gegevensbescherming. Van de personen, vermeld in het derde lid, worden alleen de volgende gegevens rechtstreeks in de authentieke bronnen opgevraagd en verwerkt op grond van artikel 6, lid 1, eerste alinea, van de algemene verordening gegevensbescherming:<br>
+1° de datum van overlijden;<br>
+2° het huidige adres en het referentieadres, vermeld in artikel 1, §2, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten;<br>
+3° het rijksregisternummer en het identificatienummer van de sociale zekerheid;<br>
+4° het addendum opgemaakt door de verhuurder en de huurder of huurders conform artikel 17/1 van de bijlage 30 of 32, die bij dit besluit is gevoegd.”.
+
 ### ART 15.
 
 In artikel 6.3/1, §2, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2022, wordt de zinsnede “III.68 van het Bestuursdecreet van 7 december 2018” vervangen door de zinsnede “6/1 en 7/1 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator”.
