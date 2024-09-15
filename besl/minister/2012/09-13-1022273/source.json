@@ -2,16 +2,16 @@
   "codex_id": 1022273,
   "title": "Ministerieel besluit van 2012-09-13 houdende de bepaling van de opslag, de organisatie en de vernietiging van de stukken bij de lokale en provinciale verkiezingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022273/VolledigDocument?datum=2018-08-20",
-  "source_sha256": "bf2eada614e32bb12b6084e4f4b99cff5cc5ab6015e40af21e1c1cbf9dc8b3db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022273/VolledigDocument?datum=2024-09-15",
+  "source_sha256": "309b97907462d9f0b6ce7263d646e8d16fa4f4c396b822d3208ec736964f1e9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022273&param=informatie",
-  "as_of": "2018-08-20",
+  "as_of": "2024-09-15",
   "made": "2012-09-13",
   "gazette": "2012-09-19",
   "numac": 2012205226,
   "document_start": "2012-09-29",
   "document_end": null,
-  "in_force": "2018-08-20",
+  "in_force": "2024-09-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-08-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-15; future article versions excluded; article text as the API gives it"
 }

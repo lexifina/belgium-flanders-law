@@ -16,4 +16,6 @@ De provinciegouverneur stelt de stukken, vermeld in artikel 1, ter beschikking v
 
 De provinciegouverneur bewaart de stukken, vermeld in artikel 1, tot&nbsp; zes maanden na de definitieve geldigverklaring van de verkiezingen. Na verloop van die termijn zorgt hij voor de vernietiging ervan.<br>
 <br>
+In afwijking van het eerste lid bewaart de provinciegouverneur de stembiljetten, vermeld in artikel 158, §2, 2° en 3°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, en de stembiljetten, vermeld in artikel 23, §1, eerste lid, van het Digitaal Kiesdecreet van 25 mei 2012, tot een jaar na de definitieve geldigverklaring van de verkiezingen.<br>
+<br>
 In afwijking van het eerste lid bewaart de provinciegouverneur de processen-verbaal van de gemeentelijke hoofdbureaus, van de stadsdistrictshoofdbureaus, van de provinciedistrictshoofdbureaus, van de provinciale hoofdbureaus en van de kantonhoofdbureaus tot zes jaar na de definitieve geldigverklaring van de verkiezingen.
