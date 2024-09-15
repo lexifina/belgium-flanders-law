@@ -139,7 +139,7 @@ De volgende werknemers geven geen recht op een tegemoetkoming voor vervangende t
 14° de personeelsleden die gefinancierd worden in het kader van het koninklijk besluit van 27 april 2007 houdende de algemene uitvoeringsbepalingen van de maatregelen ten gunste van de tewerkstelling van jongeren in socialprofitsector voortspruitend uit de wet van 23 december 2005 betreffende het generatiepact;<br>
 15° het animatiepersoneel dat gefinancierd wordt op basis van de bepalingen van boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, onderafdeling 1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 16° de referentiepersoon voor dementie die in deel E 3 wordt gefinancierd op basis van de bepalingen van boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, onderafdeling 11 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-17° het zorgpersoneel boven norm en het ondersteunend personeel die gefinancierd worden op basis van de beaplingen van artikel 663/1 tot en met artikel 663/11 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+17° het zorgpersoneel boven norm en het ondersteunend personeel die gefinancierd worden op basis van de bepalingen van artikel 663/1 tot en met artikel 663/11 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 18° de personeelsleden in de centra voor dagverzorging die gefinancierd worden op basis van de bepalingen van boek 3, deel 1, titel 1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 19° de personeelsleden die gefinancierd worden in het kader van artikel 60, § 7 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 20° de personeelsleden die werken onder het statuut van een leercontract of een overeenkomst inzake inschakeling in het maatschappelijk en beroepsleven, vermeld in het besluit van de Regering van de Franse Gemeenschap van 28 juli 1998 betreffende de overeenkomst inzake inschakeling in het maatschappelijk en beroepsleven van de centra voor alternerende opleiding en onderwijs;<br>
@@ -181,7 +181,7 @@ Op basis van het INSZ-nummer dat wordt meegedeeld conform het eerste lid, haalt 
 <br>
 §2. De voorziening bezorgt aan de administratie over ieder trimester een elektronisch ingevulde vragenlijst waarvan de administratie het model bepaalt.<br>
 <br>
-De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
+De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunnen worden.<br>
 <br>
 §3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
 <br>
@@ -675,9 +675,13 @@ In artikel 475, § 2, van het besluit van de Vlaamse Regering van 30 november 20
 
 ### ART 18.
 
-De bedragen vermeld in dit besluit, met uitzondering van de bedragen vermeld in artikel 14, derde lid en artikel 16/4, laatste lid, van dit besluit, en in de bijlage die bij dit besluit is gevoegd, worden geïndexeerd conform artikel 4 en artikel 6 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld, waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand die volgt op de maand waarvan het indexcijfer het cijfer bereikt dat een wijziging rechtvaardigt.<br>
+De bedragen vermeld in dit besluit, met uitzondering van de bedragen vermeld in artikel 13, eerste en tweede lid, artikel 14, derde lid, artikel 16/2, eerste lid, en artikel 16/3, eerste lid, van dit besluit, en in de bijlage die bij dit besluit is gevoegd, worden geïndexeerd conform artikel 4 en artikel 6 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld, waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand die volgt op de maand waarvan het indexcijfer het cijfer bereikt dat een wijziging rechtvaardigt.<br>
 <br>
-De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Voor de bedragen, vermeld in artikel 13, eerste en tweede lid, en artikel 16/2, eerste lid, van dit besluit, wordt de koppeling aan het indexcijfer berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen. Die koppeling gebeurt op 31 december van het jaar van de spilindexoverschrijding voorafgaand aan het jaar van de betaling.&nbsp;<br>
+&nbsp;<br>
+Voor de bedragen, vermeld in artikel 16/3, eerste lid, wordt de koppeling aan het indexcijfer berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen. Die koppeling gebeurt op 1 januari van het jaar dat op de spilindexoverschrijding volgt.<br>
 <br>
 De bedragen vermeld in dit besluit en in de bijlage die bij dit besluit is gevoegd zijn de bedragen die gelden op 1 juni 2017, tegen spilindexcijfer 103,04, waarbij basis 2013 = 100.
 
