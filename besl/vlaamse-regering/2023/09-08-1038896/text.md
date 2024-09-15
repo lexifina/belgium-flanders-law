@@ -1201,7 +1201,7 @@ Het agentschap kan bijkomende stukken opvragen ter verduidelijking van de afwijk
 
 ### ART 65.
 
-Voor de revalidatieverstrekkingen die worden verleend tijdens de periode van 1 oktober 2023 tot en met 31 december 2023, kunnen de revalidatievoorzieningen die beschikken over de goedkeuring, vermeld in artikel 63, de aanvragen, vermeld in artikel 534/111 van het besluit van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, in afwijking van artikel 534/108 van het voormelde besluit, zoals van kracht op 30 september 2023, versturen naar de zorgkas waarbij de gebruiker is aangesloten, nadat de revalidatieverstrekkingen zijn verleend.<br>
+Voor de revalidatieverstrekkingen die worden verleend tijdens de periode van 1 oktober 2023 tot en met 31 december 2023, kunnen de revalidatievoorzieningen die beschikken over de goedkeuring van een afwijking als vermeld in artikel 64 van dit besluit, de aanvragen, vermeld in artikel 534/111 van het besluit van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, in afwijking van artikel 534/108 van het voormelde besluit, zoals van kracht op 30 september 2023, versturen naar de zorgkas waarbij de gebruiker is aangesloten, nadat de revalidatieverstrekkingen zijn verleend.<br>
 <br>
 De revalidatievoorzieningen dienen alle aanvragen, vermeld in het eerste lid, chronologisch via de digitale applicatie in binnen dertig dagen nadat de digitale applicatie, vermeld in artikel 534/122 van het voormelde besluit, zoals van kracht op 30 september 2023, operationeel is.<br>
 <br>
@@ -1209,7 +1209,7 @@ De revalidatievoorzieningen factureren alle revalidatieverstrekkingen, vermeld i
 
 ### ART 66.
 
-In afwijking van artikel 534/120 en 534/121 van het besluit van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, zoals van kracht op 30 september 2023, ontvangen de revalidatievoorzieningen die beschikken over de goedkeuring, vermeld in artikel 63, van de zorgkas een maandelijks voorschot voor de maanden oktober, november en december 2023.&nbsp;<br>
+In afwijking van artikel 534/120 en 534/121 van het besluit van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, zoals van kracht op 30 september 2023, ontvangen de revalidatievoorzieningen die beschikken over de goedkeuring van een afwijking als vermeld in artikel 64 van dit besluit, van de zorgkas een maandelijks voorschot voor de maanden oktober, november en december 2023.&nbsp;<br>
 <br>
 Het agentschap bepaalt per revalidatievoorziening het voorschot voor elke maand, vermeld in het eerste lid, dat de revalidatievoorziening per zorgkas ontvangt met de volgende formule: 80% van het product van het aantal eenheidsverstrekkingen in de overeenstemmende maand van het jaar 2019 met de vigerende eenheidsprijs, vermeld in artikel 534/89/1, 1°, van het voormelde besluit, en rekening houdend met de jaarenveloppe van 2023, zoals bepaald conform artikel 534/90, §2, van het voormelde besluit, zoals van kracht op 30 september 2023.&nbsp;
 

@@ -2,16 +2,16 @@
   "codex_id": 1038896,
   "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van de regelgeving over de Vlaamse sociale bescherming en de overnamereglementering, wat betreft bepaalde revalidatievoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038896/VolledigDocument?datum=2023-10-01",
-  "source_sha256": "aab91e9f5bdaf88f6f533f4754de51565741d98a744b828346c4f0dcd01690ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038896/VolledigDocument?datum=2024-09-15",
+  "source_sha256": "70fdf5d975523bc850407aeaa87e27e2a832d4919ab9fb3dae9871dc9a9f909f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038896&param=informatie",
-  "as_of": "2023-10-01",
+  "as_of": "2024-09-15",
   "made": "2023-09-08",
   "gazette": "2023-10-31",
   "numac": 2023046368,
   "document_start": "2023-10-01",
   "document_end": null,
-  "in_force": "2023-10-01",
+  "in_force": "2024-09-15",
   "article_versions": 71,
-  "record_form": "consolidated version as in force on 2023-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-15; future article versions excluded; article text as the API gives it"
 }
