@@ -174,38 +174,13 @@ De psychiatrische verzorgingstehuizen en initiatieven van beschut wonen verwerke
 
 § 1. de administratie verwerkt de gepseudonimiseerde persoonsgegevens van de zorggebruikers en de naam van de coördinator vermeld in bijlage 1 en 2. Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
-de administratie verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g). Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
+De administratie verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g). Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
-De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 193, derde lid, worden door de administratie bewaard tot het ogenblik dat de tegemoetkoming voor revalidatieverstrekkingen wordt aangepast, conform artikel 193, hetzij tot één jaar na de beëindiging van de revalidatieovereenkomst.<br>
+§ 2....<br>
 <br>
-De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 322, § 2, worden door de administratie bewaard tot maximaal één jaar na de ontvangst van een geactualiseerd personeelskostendossier, hetzij tot één jaar na de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe.<br>
+§ 3.&nbsp;De zorgvoorzieningen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de gegevens van de zorggebruikers, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, alsook de volgende statistische gegevens van de personeelsleden: de leeftijd, de woon- en verblijfplaats.<br>
 <br>
-§ 2. Het in artikel 13, § 2 vermelde agentschap is de administratie voor Vlaamse Sociale Bescherming, dat voor de in artikel 13, § 2 vermelde opdrachten de volgende gegevens verwerkt:<br>
-1° de voor- en achternaam;<br>
-2° de leeftijd;<br>
-3° het geslacht;<br>
-4° het rijksregisternummer;<br>
-5° de woon- en verblijfplaats;<br>
-6° de verzekeringsstatus;<br>
-7° de gezondheidsgegevens.<br>
-<br>
-Deze gegevens zijn anoniem of, als dit niet mogelijk is voor het doel van de verwerking, gepseudonimiseerd. Enkel wanneer anonieme of gepseudonimiseerde persoonsgegevens onvoldoende zijn voor het doel van de verwerking, mogen niet-gepseudonimiseerde persoonsgegevens worden verwerkt.<br>
-<br>
-De persoonsgegevens, vermeld in artikel 13, § 2, tweede lid, van het decreet van 6 juli 2018, kunnen op elektronische wijze worden uitgewisseld.<br>
-<br>
-De persoonsgegevens die worden verwerkt door de Zorgkassencommissie, worden na het verlenen van het advies vernietigd. De persoonsgegevens die verwerkt worden door de Expertencommissie worden bewaard voor een termijn van 30 jaar na de verleende zorg.<br>
-<br>
-Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de Zorgkassencommissie aanstuurt is de administratie voor Vlaamse Sociale Bescherming. Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de werking van Expertencommissie aanstuurt is de administratie.<br>
-<br>
-§ 3. De verzekeringsinstellingen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de nationaliteit, de woon- en verblijfplaats, de gezinssamenstelling, het gezinsinkomen, de verzekeringsstatus, de loongegevens, het sociaal statuut en de gezondheidsgegevens.<br>
-<br>
-De zorgvoorzieningen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de gegevens van de zorggebruikers, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, alsook de volgende statistische gegevens van de personeelsleden: de leeftijd, de woon- en verblijfplaats.<br>
-<br>
-De Expertencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de volgende statistische gegevens van de zorggebruikers: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
-<br>
-De Zorgkassencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie voor Vlaamse Sociale Bescherming, de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
-<br>
-De statistische gegevens, vermeld in dit artikel, worden op vraag van de administratie voor Vlaamse Sociale Bescherming elektronisch bezorgd binnen drie maanden. de administratie voor Vlaamse Sociale Bescherming specifieert het doel van het onderzoek in de aanvraag.
+De statistische gegevens, vermeld in dit artikel, worden op vraag van de administratie&nbsp; elektronisch bezorgd binnen drie maanden. de administratie specifieert het doel van het onderzoek in de aanvraag.
 
 ## HOOFDSTUK 2. Bewijswaarde van elektronische documenten
 
@@ -746,7 +721,7 @@ In dit artikel wordt onder evaluatie onder andere, maar niet uitsluitend, versta
 
 ### ART 88.
 
-Het psychiatrisch verzorgingstehuis bezorgt de administratie jaarlijks de gegevens, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, voor de analyse van die gegevens, voor de evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
+Het psychiatrisch verzorgingstehuis bezorgt de administratie jaarlijks de gegevens, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, voor de analyse van die gegevens, voor de evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, §5, van het decreet van 6 juli 2018.<br>
 <br>
 In ieder psychiatrisch verzorgingstehuis wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan de administratie en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen. Deze gegevens bieden de mogelijkheid om tot beleidsmatige inzichten te komen en maatregelen te rechtvaardigen.<br>
 <br>
@@ -778,10 +753,10 @@ Elke verrichting die tot een kost of een opbrengst leidt, is het voorwerp van ee
 <br>
 §5. De volgende rekening van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen wordt aangepast voor de psychiatrische verzorgingstehuizen. Rekening 700 wordt onderverdeeld in:<br>
 1°&nbsp;&nbsp; &nbsp;7001: tegemoetkoming van de verzekeringsinstellingen en zorgkassen;<br>
-2°&nbsp;&nbsp; &nbsp;7002: tegemoetkoming van het agentschap;<br>
+2°&nbsp;&nbsp; &nbsp;7002: tegemoetkoming van de administratie of het Agentschap voor Vlaamse Sociale Bescherming;<br>
 3°&nbsp;&nbsp; &nbsp;7003: tegemoetkoming van de zorggebruikers.<br>
 <br>
-§6. De volgende inlichtingen worden meegedeeld aan het agentschap op zijn verzoek en op de wijze die het agentschap bepaalt:<br>
+§6. De volgende inlichtingen worden meegedeeld aan de administratie op zijn verzoek en op de wijze die de administratie bepaalt:<br>
 1°&nbsp;&nbsp; &nbsp;de eindbalans, de resultatenrekening voor het psychiatrisch verzorgingstehuis, de staten en de inlichtingen waarvan de modellen bij het koninklijk besluit van 19 juni 2007 betreffende de jaarrekeningen van de ziekenhuizen zijn vastgesteld;<br>
 2°&nbsp;&nbsp; &nbsp;het aantal dagen dat gerealiseerd is gedurende het beschouwde boekjaar, &nbsp;en de uitsplitsing van die dagen per maand, per betalingsinstelling en volgens een van de volgende categorieën:&nbsp;<br>
 a)&nbsp;&nbsp; &nbsp;zorggebruiker met een verstandelijke beperking;<br>
@@ -790,7 +765,7 @@ b)&nbsp;&nbsp; &nbsp;zorggebruiker zonder verstandelijke beperking;<br>
 
 ### ART 88/2.
 
-De beheerinstantie van het psychiatrisch verzorgingstehuis gaat binnen dertig dagen in op de vragen naar informatie van het agentschap en deelt aan het agentschap alle inlichtingen en documenten mee die het agentschap noodzakelijk acht om toezicht uit te oefenen op de uitvoering van dit besluit.
+De beheerinstantie van het psychiatrisch verzorgingstehuis gaat binnen dertig dagen in op de vragen naar informatie van de administratie en deelt aan de administratie alle inlichtingen en documenten mee die de administratie noodzakelijk acht om toezicht uit te oefenen op de uitvoering van dit besluit.
 
 ## HOOFDSTUK 5. Personeelsnormen
 
@@ -1293,7 +1268,7 @@ Het initiatief van beschut wonen richt voor zijn zorggebruikers een zorggebruike
 
 ### ART 143.
 
-Het initiatief van beschut wonen bezorgt de administratie jaarlijks de gegevens, die zijn opgenomen in bijlage 2 bij dit besluit, voor de analyse van die gegevens, voor evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
+Het initiatief van beschut wonen bezorgt de administratie jaarlijks de gegevens, die zijn opgenomen in bijlage 2 bij dit besluit, voor de analyse van die gegevens, voor evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, §5, van het decreet van 6 juli 2018.<br>
 <br>
 In ieder initiatief van beschut wonen wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan de administratie en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen.<br>
 <br>
@@ -1602,9 +1577,9 @@ De toelage, vermeld in artikel 72, § 1, eerste lid van het decreet van 6 juli 2
 
 ### ART 157.
 
-De revalidatieovereenkomsten worden gesloten of gewijzigd op verzoek van een zorgvoorziening die uitgebaat wordt door een rechtspersoon, die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, of op initiatief van de minister of de administratie.<br>
+De revalidatieovereenkomsten worden gesloten of gewijzigd op verzoek van een rechtspersoon of op initiatief van de minister of de administratie.<br>
 <br>
-Als eenzelfde revalidatieovereenkomst van toepassing is op verschillende zorgvoorzieningen als vermeld in het eerste lid, kan deze revalidatieovereenkomst enkel worden gesloten of gewijzigd op verzoek van alle zorgvoorzieningen samen of op initiatief van de minister of de administratie.
+Als eenzelfde revalidatieovereenkomst van toepassing is of zal zijn op verschillende rechtspersonen als vermeld in het eerste lid, kan deze revalidatieovereenkomst enkel worden gesloten of gewijzigd op verzoek van alle rechtspersonen samen of op initiatief van de minister of de administratie.
 
 ### ART 158.
 
@@ -1617,7 +1592,7 @@ De revalidatieovereenkomsten worden beëindigd op verzoek van de revalidatievoor
 Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen, wordt gericht aan de administratie. De aanvraag is ontvankelijk als ze de volgende gegevens bevat:<br>
 1° de gegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de doelgroep waarvoor het zorgaanbod wordt voorgesteld of gewijzigd;<br>
-3° het zorgaanbod dat de zorgvoorziening wil organiseren, leveren of wijzigen in relatie tot het andere zorgaanbod in het werkingsgebied van het geestelijke gezondheidsnetwerk, als vermeld in artikel 2, 15°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
+3° het zorgaanbod dat de rechtspersoon&nbsp;wil organiseren, leveren of wijzigen in relatie tot het andere zorgaanbod in het werkingsgebied van het geestelijke gezondheidsnetwerk, als vermeld in artikel 2, 15°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
 4° de wetenschappelijke onderbouwing van het aangeboden zorgaanbod;<br>
 5° de kostenraming.
 
@@ -1740,7 +1715,7 @@ De beslissing van de minister over de maatregelen voor de continuïteit van de z
 <br>
 Als er conform artikel 175, § 2, advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in het eerste lid, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
-## Afdeling 2. Beëindigen van een revalidatieovereenkomst op initiatief van de minister of het agentschap
+## Afdeling 2. Beëindigen van een revalidatieovereenkomst op initiatief van de minister of de administratie
 
 ### ART 182.
 
@@ -2268,7 +2243,7 @@ Een erkend palliatief samenwerkingsverband kan een aanvraag tot beëindiging van
 
 ### ART 278.
 
-Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen wordt aan het agentschap gericht.<br>
+Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen wordt aan de administratie&nbsp;gericht.<br>
 <br>
 De aanvragen bevatten minstens de volgende gegevens en documenten om ontvankelijk te zijn:<br>
 1° de identificatiegegevens van de rechtspersoon die de aanvraag indient;<br>
@@ -2284,7 +2259,7 @@ De aanvragen bevatten minstens de volgende gegevens en documenten om ontvankelij
 <br>
 De administratie stuurt&nbsp; een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van de ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§2. Het agentschap kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
+§2. De administratie kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
 
 ### ART 280.
 
@@ -2310,19 +2285,19 @@ Bij het opstellen van een advies kan de Expertencommissie of de sectorale advies
 
 ### ART 285.
 
-Als er geen advies als vermeld in artikel 280, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 280, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 286.
 
 De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister.<br>
+De administratie bezorgt zijn advies aan de minister.<br>
 <br>
-Bij het advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
+Bij het advies van de administratie wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 287.
 
-In het kader van de adviesopdracht, vermeld in artikel 286, kan het agentschap:<br>
+In het kader van de adviesopdracht, vermeld in artikel 286, kan de administratie:<br>
 1°&nbsp;&nbsp; &nbsp;aanvullende inlichtingen inwinnen bij de Expertencommissie of de sectorale adviescommissie in kwestie;<br>
 2°&nbsp;&nbsp; &nbsp;aanvullende inlichtingen inwinnen bij de aanvrager;<br>
 3°&nbsp;&nbsp; &nbsp;deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
@@ -2333,9 +2308,9 @@ In het kader van de adviesopdracht, vermeld in artikel 286, kan het agentschap:<
 
 ### ART 289.
 
-De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van het agentschap en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.&nbsp;<br>
+De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van de administratie en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.&nbsp;<br>
 <br>
-Het agentschap deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
+De administratie deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
 
 ### ART 290.
 
@@ -2353,7 +2328,7 @@ De overeenkomsten met een multidisciplinaire begeleidingsequipe worden gesloten 
 
 ### ART 292.
 
-Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 277, te beëindigen wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
+Een aanvraag om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 277, te beëindigen wordt gericht aan de administratie. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
 1° de identificatiegegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de redenen voor de beëindiging van de overeenkomst;<br>
 3° de maatregelen om de continuïteit van de dienstverlening te garanderen;<br>
@@ -2377,13 +2352,13 @@ Als de aanvraag niet is ingediend door het palliatieve samenwerkingsverband in n
 
 ### ART 295.
 
-Als er geen advies als vermeld in artikel 293, §2, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 293, §2, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 296.
 
 De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
+De administratie bezorgt zijn advies aan de minister. Bij elk advies van de administratie wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 297.
 
@@ -2401,7 +2376,7 @@ De beslissing van de minister met de maatregelen voor de continuïteit van de di
 <br>
 Als er conform artikel 293, §2, advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in het eerste lid, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
-## Afdeling 2. Beëindiging van een overeenkomst op initiatief van de minister of van het agentschap
+## Afdeling 2. Beëindiging van een overeenkomst op initiatief van de minister of van de administratie
 
 ### ART 300.
 
@@ -2411,27 +2386,27 @@ Als er conform artikel 293, §2, advies is gevraagd aan de Expertencommissie of 
 <br>
 In zijn reactie op het voornemen kan de multidisciplinaire begeleidingsequipe een voorstel uitwerken voor de continuïteit van de dienstverlening bij eventuele beëindiging van de overeenkomst.<br>
 <br>
-Als de minister of de administratie een voornemen tot beëindiging van de overeenkomst neemt omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 322, kan de multidisciplinaire begeleidingsequipe een voorstel tot remediëring uitwerken.
+Als de minister of de administratie een voornemen tot beëindiging van de overeenkomst neemt omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 321 van dit besluit, en artikel 534/198 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, kan de multidisciplinaire begeleidingsequipe een voorstel tot remediëring uitwerken.
 
 ### ART 301.
 
-Het agentschap kan advies vragen over het voornemen tot beëindiging van de overeenkomst met een multidisciplinaire begeleidingsequipe aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
+De administratie kan advies vragen over het voornemen tot beëindiging van de overeenkomst met een multidisciplinaire begeleidingsequipe aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
 <br>
 Bij de adviesvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en, in voorkomend geval, het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
 
 ### ART 302.
 
-De Expertencommissie of de sectorale adviescommissie in kwestie stelt een advies op over de adviesvragen, vermeld in artikel 301. De Expertencommissie of de sectorale adviescommissie bezorgt dat advies aan het agentschap.
+De Expertencommissie of de sectorale adviescommissie in kwestie stelt een advies op over de adviesvragen, vermeld in artikel 301. De Expertencommissie of de sectorale adviescommissie bezorgt dat advies aan de administratie.
 
 ### ART 303.
 
-Als er geen advies als vermeld in artikel 302, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 302, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 304.
 
 De administratie maakt een advies op over de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe en kan daarbij, in voorkomend geval, rekening houden met het advies, vermeld in artikel 302, en de reactie en&nbsp;, in voorkomend geval, het voorstel of de voorstellen vermeld in artikel 300, § 2.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel of de voorstellen, vermeld in artikel 300, §2, gevoegd.
+De administratie bezorgt zijn advies aan de minister. Bij elk advies van de administratie worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel of de voorstellen, vermeld in artikel 300, §2, gevoegd.
 
 ### ART 305.
 
@@ -2476,8 +2451,35 @@ Het werkgebied van de multidisciplinaire begeleidingsequipes valt samen met het 
 ### ART 311.
 
 Een multidisciplinaire begeleidingsequipe beschikt over de volgende personeelssamenstelling:<br>
-1° als de multidisciplinaire begeleidingsequipe, overeenkomstig artikel 330, § 2, zich ertoe verbonden heeft om 100 palliatieve personen per 200.000 inwoners in hun werkgebied te begeleiden, beschikt de multidisciplinaire begeleidingsequipe minimaal over 2,6 voltijds equivalenten per 200.000 inwoners in het werkgebied van de multidisciplinaire begeleidingsequipe;<br>
-2° als de multidisciplinaire begeleidingsequipe, overeenkomstig artikel 330, § 3, zich ertoe verbonden heeft om 150 palliatieve personen per 200.000 inwoners in hun werkgebied te begeleiden, beschikt de multidisciplinaire begeleidingsequipe minimaal over 2,85 voltijds equivalenten per 200.000 inwoners in het werkgebied van de multidisciplinaire begeleidingsequipe.
+1° als de multidisciplinaire begeleidingsequipe, overeenkomstig artikel 534/200, §2, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, zich ertoe verbonden heeft om 100 palliatieve personen per 200.000 inwoners in hun werkgebied te begeleiden, beschikt de multidisciplinaire begeleidingsequipe minimaal over 2,6 voltijds equivalenten per 200.000 inwoners in het werkgebied van de multidisciplinaire begeleidingsequipe;<br>
+2° als de multidisciplinaire begeleidingsequipe, overeenkomstig artikel 534/200, §3, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, zich ertoe verbonden heeft om 150 palliatieve personen per 200.000 inwoners in hun werkgebied te begeleiden, beschikt de multidisciplinaire begeleidingsequipe minimaal over 2,85 voltijds equivalenten per 200.000 inwoners in het werkgebied van de multidisciplinaire begeleidingsequipe.
+
+### ART 311/1.
+
+§1. De huisarts, vermeld in artikel 534/204, §2, eerste lid, 1°, §3, 1°, en §4, eerste lid, 1°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, heeft een specifieke theoretische opleiding van minimaal 80 uur over palliatieve verzorging gevolgd.&nbsp;<br>
+<br>
+In de opleiding, vermeld in het eerste lid, komen de volgende aspecten van de palliatieve verzorging aan bod:<br>
+1°&nbsp;&nbsp; &nbsp;overleg plegen met de betrokken zorgaanbieders en hun advies geven over alle aspecten van de palliatieve verzorging;<br>
+2°&nbsp;&nbsp; &nbsp;zorgen voor een goede organisatie en coördinatie van de palliatieve verzorging in het thuismilieu van de patiënt;<br>
+3°&nbsp;&nbsp; &nbsp;psychologische en morele ondersteuning verlenen aan de betrokken zorgaanbieders van de eerste lijn.<br>
+<br>
+De huisarts, vermeld in het eerste lid, heeft naast de opleiding, vermeld in het eerste lid, ook een stage doorlopen van minimaal 192 uur in een erkende palliatieve ziekenhuiseenheid of heeft effectief zo lang gewerkt in een multidisciplinaire begeleidingsequipe voor palliatieve verzorging die zich richt tot palliatieve verzorging in het thuismilieu van de patiënt.<br>
+<br>
+§2. De huisarts, vermeld in paragraaf 1, volgt ieder jaar twintig uur specifieke bijscholing, waarin bepaalde aspecten van de palliatieve verzorging worden uitgediept en waarin ingegaan wordt op nieuwe ontwikkelingen en technieken.
+
+### ART 311/2.
+
+§1. De verpleegkundigen, vermeld in artikel 534/204, §2, eerste lid, 2°, §3, 2°, en §4, eerste lid, 2°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, hebben een specifieke theoretische opleiding van minimaal 140 uur over palliatieve verzorging gevolgd.&nbsp;<br>
+<br>
+In de opleiding, vermeld in het eerste lid, komen de volgende aspecten van de palliatieve verzorging aan bod:<br>
+1°&nbsp;&nbsp; &nbsp;overleg plegen met de betrokken zorgaanbieders en hun advies geven over alle aspecten van de palliatieve verzorging;<br>
+2°&nbsp;&nbsp; &nbsp;zorgen voor een goede organisatie en coördinatie van de palliatieve verzorging in het thuismilieu van de patiënt;<br>
+3°&nbsp;&nbsp; &nbsp;psychologische en morele ondersteuning verlenen aan de betrokken zorgaanbieders van de eerste lijn.<br>
+<br>
+De verpleegkundigen, vermeld in het eerste lid, hebben naast de opleiding, vermeld in het eerste lid, ook een stage doorlopen van 456 uur in een erkende palliatieve ziekenhuiseenheid of hebben al één jaar voltijds gewerkt in een multidisciplinaire begeleidingsequipe die zich richt op de palliatieve verzorging in het thuismilieu van de patiënt.<br>
+<br>
+§2. De verpleegkundigen, vermeld in paragraaf 1, volgen ieder jaar minstens veertig uur specifieke bijscholing, waarin bepaalde aspecten van de palliatieve verzorging worden uitgediept en waarin ingegaan wordt op nieuwe ontwikkelingen en initiatieven.<br>
+&nbsp;
 
 ## HOOFDSTUK 2. Opdrachten van de multidisciplinaire begeleidingsequipe
 
@@ -2515,14 +2517,14 @@ Op verzoek van de betrokken zorgaanbieders van de eerste lijn kan de multidiscip
 
 ### ART 317.
 
-De tussenkomsten van een multidisciplinaire begeleidingsequipe mogen zich niet beperken tot de tussenkomsten, vermeld in artikel 337, § 2, eerste lid, 2°, of tot de palliatieve personen voor wie conform artikel 324 tot en met 327 een eenmalig forfaitair bedrag of een verminderd forfait mag worden aangerekend. De multidisciplinaire begeleidingsequipe voert haar doelstellingen en opdrachten maximaal uit, rekening houdend met de concrete situatie in het werkgebied en in overleg met de betrokken zorgaanbieders van de eerste lijn.
+De tussenkomsten van een multidisciplinaire begeleidingsequipe mogen zich niet beperken tot de tussenkomsten, vermeld in artikel 534/205, §2, eerste lid, 2°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of tot de palliatieve personen voor wie conform artikel 534/193 tot en met 534/196 van het voormelde besluit een eenmalig forfaitair bedrag of een verminderd forfait mag worden aangerekend. De multidisciplinaire begeleidingsequipe voert haar doelstellingen en opdrachten maximaal uit, rekening houdend met de concrete situatie in het werkgebied en in overleg met de betrokken zorgaanbieders van de eerste lijn.
 
 ### ART 318.
 
 § 1. Een multidisciplinaire begeleidingsequipe houdt van elke palliatieve persoon die de multidisciplinaire begeleidingsequipe rechtstreeks of onrechtstreeks volgt, een patiëntendossier bij, bij voorkeur op elektronische wijze. Dat dossier bevat de volgende gegevens:<br>
 1° de voor- en achternaam, de geboortedatum, het officiële adres en de feitelijke verblijfplaats van de palliatieve persoon;<br>
 2° de briefwisseling met de palliatieve persoon;<br>
-3° in voorkomend geval, het voorschrift van de huisarts van de palliatieve persoon, vermeld in artikel 337, § 1;<br>
+3° in voorkomend geval, het voorschrift van de huisarts van de palliatieve persoon, vermeld in artikel 534/205, §1, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 4° de gegevens over de woonsituatie van de palliatieve persoon;<br>
 5° de diagnostische gegevens over de ziekte waaraan de palliatieve persoon lijdt;<br>
 6° de gezinssituatie van de palliatieve persoon;<br>
@@ -2581,7 +2583,7 @@ Het activiteitenverslag, vermeld in het eerste lid, bevat de volgende gegevens o
 5° de woonsituatie van de palliatieve persoon;<br>
 6° de gezinssituatie van de palliatieve persoon;<br>
 7° het aantal huisartsen met wie is samengewerkt voor de opvolging van die palliatieve persoon;<br>
-8° het aantal tussenkomsten van ieder type als vermeld in artikel 337, § 2, 2° ;<br>
+8° het aantal tussenkomsten van ieder type als vermeld in artikel 534/205, §2, eerste lid, 2°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 9° het aantal en het type van de tussenkomsten tussen 22 uur en 7 uur;<br>
 10° het aantal en het type van de tussenkomsten op zaterdagen, zondagen en wettelijke feestdagen;<br>
 11° de duur van de tussenkomsten per type;<br>
@@ -2599,30 +2601,7 @@ De gegevens, vermeld in het tweede lid, zijn geanonimiseerd. Deze gegevens drage
 
 ### ART 322.
 
-§ 1. Een multidisciplinaire begeleidingsequipe maakt een personeelskostendossier op voor alle personeelsleden.<br>
-<br>
-§ 2. In het personeelskostendossier worden voor ieder personeelslid van wie de loonkosten in de berekening van het eenmalige forfaitaire bedrag kan worden opgenomen conform artikel 330, de volgende gegevens en documenten vermeld:<br>
-1° de voor- en achternaam van het personeelslid;<br>
-2° de functie binnen de multidisciplinaire begeleidingsequipe;<br>
-3° een kopie van het diploma;<br>
-4° het aantal uren tewerkstelling per week in het kader van de multidisciplinaire begeleidingsequipe;<br>
-5° de vooropgestelde datum van indiensttreding van een nieuw personeelslid;<br>
-6° de loonanciënniteit, uitgedrukt in jaren en maanden, en de bewijsstukken daarvan;<br>
-7° de vermelding of de betrokkene al dan niet recht heeft op een haard- of standplaatsvergoeding;<br>
-8° de afstand, in enkele richting, van de woonplaats tot de centrale zetel van de multidisciplinaire begeleidingsequipe.<br>
-<br>
-Voor de huisarts worden de gegevens, vermeld in het eerste lid, 6°, vervangen door het aantal dienstjaren in de multidisciplinaire begeleidingsequipe, samen met de vermelding van de datum van indiensttreding bij de multidisciplinaire begeleidingsequipe.<br>
-<br>
-§ 3. Het personeelskostendossier moet, naast de gegevens en de documenten, vermeld in paragraaf 2, voor de multidisciplinaire begeleidingsequipe de volgende kosten vermelden:<br>
-1° de kostprijs van de verplichte arbeidsongevallenverzekering voor het personeel;<br>
-2° de kostprijs van het sociaal secretariaat;<br>
-3° de kostprijs voor de dienst voor arbeidsgeneeskunde waarop de multidisciplinaire begeleidingsequipe in voorkomend geval een beroep doet.<br>
-<br>
-Het personeelskostendossier bevat de nodige bewijsstukken van de kosten, vermeld in het eerste lid.<br>
-<br>
-§ 4. Het personeelskostendossier bevat de gegevens, vermeld in paragraaf 2, eerste lid, 1° tot en met 8°, van de personeelsleden van de multidisciplinaire begeleidingsequipe van wie de loonkosten niet zijn opgenomen in de berekening van het eenmalige forfaitaire bedrag.<br>
-<br>
-De gegevens, vermeld in het eerste lid, worden duidelijk onderscheiden van de gegevens, vermeld in paragraaf 2.
+...
 
 ## Titel 4. Inhoud van de overeenkomst
 
@@ -2632,9 +2611,9 @@ In de overeenkomst met de multidisciplinaire begeleidingsequipe worden minstens 
 1° het werkgebied van de multidisciplinaire begeleidingsequipe;<br>
 2° de werkelijke personeelsomkadering van de multidisciplinaire begeleidingsequipe waarop het eenmalige forfaitaire bedrag berekend wordt met de bijbehorende loonkosten;<br>
 3° andere werkingskosten dan personeelskosten van de multidisciplinaire begeleidingsequipe;<br>
-4° het totale aantal palliatieve personen dat de multidisciplinaire begeleidingsequipe jaarlijks moet volgen conform artikel 326;<br>
-5° het aantal en het bedrag van het eenmalige forfaitaire bedrag, vermeld in artikel 324, dat de multidisciplinaire begeleidingsequipe kan aanrekenen;<br>
-6° het aantal en het bedrag van de verminderde forfaits, vermeld in artikel 327, die de multidisciplinaire begeleidingsequipe kan aanrekenen;<br>
+4° het totale aantal palliatieve personen dat de multidisciplinaire begeleidingsequipe jaarlijks moet volgen conform artikel 534/195 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+5° het aantal en het bedrag van het eenmalige forfaitaire bedrag, vermeld in artikel 534/193 van het voormelde besluit, dat de multidisciplinaire begeleidingsequipe kan aanrekenen;<br>
+6° het aantal en het bedrag van de verminderde forfaits, vermeld in artikel 534/196 van het voormelde besluit, die de multidisciplinaire begeleidingsequipe kan aanrekenen;<br>
 7° de wijze van toepassing van de aanpassing van de loonkosten aan de werkelijke loonkosten als de stijging van de anciënniteit of een verandering in samenstelling van de multidisciplinaire begeleidingsequipe de loonkosten met meer dan 2 % verhoogt.
 
 ## Titel 5. Financiering
@@ -2643,170 +2622,67 @@ In de overeenkomst met de multidisciplinaire begeleidingsequipe worden minstens 
 
 ### ART 324.
 
-Een multidisciplinaire begeleidingsequipe kan, voor iedere rechthebbende voor wie de multidisciplinaire begeleidingsequipe een belangrijke rechtstreekse of onrechtstreekse bijdrage heeft geleverd in de palliatieve verzorging in het thuismilieu of in het thuisvervangende milieu, een eenmalig forfaitair bedrag aanrekenen aan de verzekeringsinstelling van de rechthebbende, als voldaan is aan de voorwaarden, vermeld in artikel 334 tot en met 338.<br>
-<br>
-Dat eenmalige forfaitaire bedrag dekt alle rechtstreekse en onrechtstreekse tussenkomsten van de multidisciplinaire begeleidingsequipe voor die palliatieve persoon, alsook alle werkingskosten die daar rechtstreeks of onrechtstreeks mee samenhangen. Het dekt ook de algemene activiteiten van de multidisciplinaire begeleidingsequipe die niet rechtstreeks verband houden met de palliatieve verzorging van een bepaalde palliatieve persoon.
+...
 
 ### ART 325.
 
-Het eenmalige forfaitaire bedrag, vermeld in artikel 324, kan maar één keer per palliatieve persoon worden aangerekend. Als voor een bepaalde palliatieve persoon het eenmalige forfaitaire bedrag al is aangerekend, kan dat nooit opnieuw worden aangerekend.<br>
-<br>
-Als een palliatieve persoon voor wie het eenmalige forfaitaire bedrag, vermeld in artikel 324, al is aangerekend, opnieuw behoefte aan palliatieve verzorging heeft, zorgt de<br>
-multidisciplinaire begeleidingsequipe die het eenmalige forfaitaire bedrag heeft aangerekend ervoor dat de betrokken palliatieve persoon alsnog de noodzakelijke palliatieve verzorging krijgt. Ze kan zelf de palliatieve verzorging op zich nemen of afspraken daarover maken met een andere multidisciplinaire begeleidingsequipe. In dat laatste geval bezorgt de multidisciplinaire begeleidingsequipe minstens 75 % van het eenmalige forfaitaire bedrag, vermeld in artikel 324, aan de multidisciplinaire begeleidingsequipe die de palliatieve verzorging op zich heeft genomen.
+...
 
 ### ART 326.
 
-§ 1. Het maximale aantal rechthebbenden voor wie het eenmalige forfaitaire bedrag, vermeld in artikel 324, door de multidisciplinaire begeleidingsequipe kan worden aangerekend per kalenderjaar, is afhankelijk van het aantal palliatieve personen dat de multidisciplinaire begeleidingsequipe begeleidt.<br>
-<br>
-Als de multidisciplinaire begeleidingsequipe zich ertoe verbindt om per kalenderjaar 100 palliatieve personen per 200.000 inwoners in haar werkgebied te begeleiden, wordt het maximale aantal rechthebbenden voor wie het forfait kan worden aangerekend, verkregen door het quotiënt van de deling, waarbij het inwonersaantal van het werkgebied van de multidisciplinaire begeleidingsequipe op het moment van het sluiten van de overeenkomst het deeltal is en de deler 200.000, te vermenigvuldigen met 100. Het resultaat van die berekening wordt afgerond tot een natuurlijk getal.<br>
-<br>
-Als de multidisciplinaire begeleidingsequipe zich ertoe verbindt om per kalenderjaar 150 palliatieve personen per 200.000 inwoners in haar werkgebied te begeleiden, wordt het maximale aantal rechthebbenden voor wie het forfait kan worden aangerekend, verkregen door het quotiënt van de deling, waarbij het inwonersaantal van het werkgebied van de multidisciplinaire begeleidingsequipe op het moment van het sluiten van de overeenkomst het deeltal is en de deler 200.000, te vermenigvuldigen met 150. Het resultaat van die berekening wordt afgerond tot een natuurlijk getal.<br>
-<br>
-§ 2. Het cijfer van het aantal palliatieve personen voor wie het eenmalige forfaitaire bedrag kan worden aangerekend, dat berekend is conform paragraaf 1, wordt in de overeenkomst met de multidisciplinaire begeleidingsequipe vermeld.<br>
-<br>
-§ 3. Voor de toepassing van dit artikel wordt bij de berekening van het aantal eenmalige forfaitaire bedragen dat de multidisciplinaire begeleidingsequipe in het kalenderjaar in kwestie heeft aangerekend, rekening gehouden met de datum waarop de multidisciplinaire begeleidingsequipe het eenmalige forfaitaire bedrag aanrekent aan de verzekeringsinstellingen, en niet met de datums van de effectieve tussenkomsten van de multidisciplinaire begeleidingsequipe of de effectieve datum van uitbetaling van het eenmalige forfaitaire bedrag door de verzekeringsinstelling.<br>
-<br>
-§ 4. Als de overeenkomst met de multidisciplinaire begeleidingsequipe maar voor een gedeelte van een bepaald kalenderjaar van kracht is, wordt het vastgestelde aantal rechthebbenden voor wie het eenmalige forfaitaire bedrag kan worden aangerekend, evenredig verminderd, rekening houdend met de toepassingstermijn van die overeenkomst in het kalenderjaar in kwestie.
+...
 
 ### ART 327.
 
-Als de multidisciplinaire begeleidingsequipe in een bepaald jaar voor meer rechthebbenden een wezenlijke bijdrage heeft geleverd in het thuismilieu of in het thuisvervangende milieu dan het aantal rechthebbenden voor wie het eenmalige forfaitaire bedrag kan worden aangerekend conform artikel 326, kan de multidisciplinaire begeleidingsequipe, per rechthebbende, daarvoor een verminderd forfait aanrekenen aan de verzekeringsinstelling van de rechthebbende.<br>
-<br>
-Het verminderde forfait kan maar worden aangerekend voor maximaal de helft van het aantal rechthebbenden voor wie het eenmalige forfaitaire bedrag, conform artikel 326, kan worden aangerekend.<br>
-<br>
-Het verminderde forfait kan maar één keer per rechthebbende worden aangerekend en kan niet worden aangerekend voor een rechthebbende voor wie het eenmalige forfaitaire bedrag, vermeld in artikel 324, al is aangerekend.<br>
-<br>
-Het verminderde forfait dekt de bijkomende werkingskosten van de multidisciplinaire begeleidingsequipe voor iedere bijkomende palliatieve persoon aan wie een wezenlijke bijdrage in de palliatieve verzorging is verleend. Dat verminderde forfait mag worden aangewend om een financiële reserve op te bouwen waarmee onverwachte uitgaven en eventuele financiële verliezen kunnen worden gedekt.
+...
 
 ### ART 328.
 
-De multidisciplinaire begeleidingsequipe mag voor haar tussenkomsten in de palliatieve verzorging geen enkele vergoeding aan de palliatieve persoon, zijn omgeving of aan om het even wie aanrekenen, ongeacht of de palliatieve persoon rechthebbende is of niet. Ook mag de multidisciplinaire begeleidingsequipe geen vergoeding aanrekenen aan de zorgaanbieders en de mantelzorgers aan wie ze advies heeft gegeven.
+...
 
 ## HOOFDSTUK 2. Samenstelling en berekening van de vergoeding
 
 ### ART 329.
 
-Het eenmalige forfaitaire bedrag, vermeld in artikel 324, wordt verkregen door de som van de personeelskosten, berekend aan de hand van het personeelskostendossier, vermeld in artikel 322, en de werkingskosten te delen door het maximale aantal rechthebbenden voor wie de multidisciplinaire begeleidingsequipe het eenmalige forfaitaire bedrag kan aanrekenen conform artikel 326.<br>
-<br>
-Het bedrag van de personeelskosten en de werkingskosten wordt per multidisciplinaire begeleidingsequipe nader geconcretiseerd in de overeenkomst.
+...
 
 ### ART 330.
 
-§ 1. Het aantal voltijdsequivalenten van wie de multidisciplinaire begeleidingsequipe de kosten als personeel in rekening mag brengen voor de berekening van het eenmalige forfaitaire bedrag, is afhankelijk van de keuze die de multidisciplinaire begeleidingsequipe heeft gemaakt over het aantal palliatieve personen die ze behandelen conform artikel 326.<br>
-<br>
-§ 2. Als de multidisciplinaire begeleidingsequipe zich ertoe verbindt om elk kalenderjaar per 200.000 inwoners in haar werkgebied 100 palliatieve personen te begeleiden, kan ze 2,6 voltijdsequivalenten in rekening brengen per 200.000 inwoners in haar werkgebied.<br>
-<br>
-Als de berekening, vermeld in het eerste lid, tot minder dan 3,7 voltijds equivalenten leidt, kan de multidisciplinaire begeleidingsequipe, in afwijking van het eerste lid, toch 3,7 voltijdsequivalenten in rekening brengen.<br>
-<br>
-§ 3. Als de multidisciplinaire begeleidingsequipe zich ertoe verbindt om elk kalenderjaar per 200.000 inwoners in haar werkgebied minstens 150 palliatieve personen te begeleiden, kan ze 2,85 voltijdsequivalenten in rekening brengen per 200.000 inwoners in haar werkgebied.<br>
-<br>
-Als de berekening, vermeld in het eerste lid, tot minder dan 3,9 voltijds equivalenten leidt, kan de multidisciplinaire begeleidingsequipe, in afwijking van het eerste lid, toch 3,9 voltijdsequivalenten in rekening brengen.<br>
-<br>
-§ 4. De multidisciplinaire begeleidingsequipe is verplicht om het aantal voltijdsequivalenten voor wie ze de personeelskosten in rekening brengt, conform paragraaf 2 en 3, volledig te vervullen.
+...
 
 ### ART 331.
 
-§ 1. Het aandeel van de personeelskosten in het eenmalige forfaitaire bedrag, vermeld in artikel 324, wordt aan de realiteit aangepast als de werkelijke personeelsuitgaven door de evolutie van de anciënniteit van het personeel, vermeld in artikel 330, of door wijzigingen in de samenstelling van het personeel, vermeld in artikel 330, op jaarbasis 2 % hoger liggen dan de personeelskosten die als basis hebben gediend voor de berekening van het eenmalige forfaitaire bedrag.<br>
-<br>
-§ 2. Voor de aanpassing van het eenmalige forfaitaire bedrag, vermeld in paragraaf 1, bezorgt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van een multidisciplinaire begeleidingsequipe, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan de administratie. Dat personeelskostendossier beantwoordt aan de vereisten, vermeld in artikel 322 van dit besluit.<br>
-<br>
-Als een personeelskostendossier niet beantwoordt aan de de voorwaarden, vermeld in artikel 322, wordt het personeelskostendossier door de administratie als onontvankelijk beschouwd. Binnen dertig dagen na de dag van de ontvangst van het personeelskostendossier door de administratie, deelt de administratie de onontvankelijkheid mee aan de multidisciplinaire begeleidingsequipe of, in voorkomend geval, aan het palliatieve samenwerkingsverband.<br>
-<br>
-§ 3. De minister neemt een beslissing tot de vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld paragraaf 1. de administratie communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt en uiterlijk op de eerste dag van de vierde maand die volgt op de maand waarin een ontvankelijk personeelskostendossier als vermeld in de paragraaf 2, is ontvangen door de administratie.<br>
-<br>
-Als de administratie de termijn, vermeld in het eerste lid, niet naleeft, ontvangt de multidisciplinaire begeleidingsequipe een financiële vergoeding ter compensatie van de financiële schade die de multidisciplinaire begeleidingsequipe heeft geleden ingevolge de laattijdige toekenning.<br>
-<br>
-§ 4. Een aanpassing als vermeld in paragraaf 1, kan niet gevraagd worden gedurende het eerste loopjaar van de overeenkomst of binnen het jaar nadat een nieuw berekend forfaitair bedrag als vermeld in paragraaf 3 of artikel 332, derde lid, van toepassing is geworden.
+...
 
 ### ART 332.
 
-Als het aandeel van de personeelskosten in het eenmalige forfaitaire bedrag, vermeld in artikel 324, ten gevolge van een wijziging in de samenstelling van het personeel op jaarbasis 2 % lager ligt dan de personeelskosten die als basis hebben gediend voor de berekening van het eenmalige forfaitaire bedrag, wordt het eenmalige forfaitaire bedrag herberekend.<br>
-<br>
-De administratie brengt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van zijn multidisciplinaire begeleidingsequipe op de hoogte van de herberekening en vraagt de nodige gegevens op over het tewerkgestelde personeel om het eenmalige forfaitaire bedrag te kunnen herberekenen.<br>
-<br>
-De minister neemt een beslissing tot vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld in het eerste lid. De administratie communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht op de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt.
+...
 
 ### ART 333.
 
-Het verminderde forfait, vermeld in artikel 327, dat de multidisciplinaire begeleidingsequipe per rechthebbende kan aanrekenen, wordt berekend aan de hand van de bijkomende werkingskosten van de multidisciplinaire begeleidingsequipe, die worden geconcretiseerd in de overeenkomst.
+...
 
-## HOOFDSTUK 3. Voorwaarden voor de tegemoetkoming
+## HOOFDSTUK 3. ...
 
 ### ART 334.
 
-§ 1. De samenstelling van het aantal voltijdsequivalenten die de multidisciplinaire begeleidingsequipe conform artikel 330, in rekening kan brengen voor de berekening van het eenmalige forfaitaire bedrag voldoet minstens aan de voorwaarden, vermeld in paragraaf 2, 3 of 4.<br>
-<br>
-§ 2. Als de multidisciplinaire begeleidingsequipe zich ertoe verbindt om per kalenderjaar 100 palliatieve personen te begeleiden als vermeld in artikel 330, § 2, dan heeft ze de volgende samenstelling:<br>
-1° een huisarts, die minimaal 3 % en maximaal 6 % van de totale werkelijke samenstelling uitmaakt, met een minimum van vier uur per week;<br>
-2° verpleegkundigen, die minimaal twee derde van de totale werkelijke samenstelling uitmaken, met een minimum van drie voltijds equivalenten;<br>
-3° administratief personeel, dat minimaal 10 % en maximaal 20 % van de totale werkelijke samenstelling uitmaken, met een minimum van 0,5 voltijds equivalenten.<br>
-<br>
-In afwijking van het eerste lid, 2°, kan de samenstelling van het aantal voltijds equivalenten dat de multidisciplinaire begeleidingsequipe in rekening kan brengen voor de berekening van het eenmalig forfaitair bedrag minder dan drie voltijds equivalenten verpleegkundigen bedragen als dit minimum, rekening houdende met het aandeel niet-verpleegkundigen in de samenstelling op de datum van de inwerkingtreding van dit artikel, leidt tot een overschrijding van het maximum aantal voltijds equivalenten dat in rekening kan worden gebracht voor de berekening van het eenmalig forfaitair bedrag conform artikel 330, § 2.<br>
-<br>
-§ 3. In afwijking van paragraaf 2 volstaat voor een multidisciplinaire begeleidingsequipe waarvan het totale personeelsbestand uit minder dan 3,7 voltijdsequivalenten bestaat, de volgende samenstelling:<br>
-1° een huisarts is minstens vier uren per week voor de multidisciplinaire begeleidingsequipe werkzaam maar mag niet meer dan 6 % van de reële personeelsbezetting van de multidisciplinaire begeleidingsequipe uitmaken;<br>
-2° minimaal drie voltijds equivalenten die verpleegkundigen zijn;<br>
-3° minimaal 10 % en maximaal 20 % van het totale werkelijke personeelsbestand van de multidisciplinaire begeleidingsequipe bestaat uit administratief personeel.<br>
-<br>
-§ 4. Als de multidisciplinaire begeleidingsequipe ervoor kiest om per kalenderjaar 150 palliatieve personen te begeleiden als vermeld in artikel 330, § 3, dan heeft ze de volgende samenstelling:<br>
-1° een huisarts, die minimaal 3 % en maximaal 5 % van de totale werkelijke samenstelling uitmaakt, met een minimum van vier uur per week;<br>
-2° niet-medisch begeleidingspersoneel, dat minimaal 77 % van de totale werkelijke samenstelling uitmaakt. Het niet-medische begeleidingspersoneel bestaat uit verpleegkundigen en de beroepsbeoefenaars, vermeld in paragraaf 5, eerste lid. De verpleegkundigen maken minimaal 75 % van het niet-medische begeleidingspersoneel uit, met een minimum van 3,25 voltijdsequivalenten die verpleegkundigen zijn;<br>
-3° administratief personeel, dat minimaal 8 % en maximaal 18 % van de totale werkelijke samenstelling uitmaakt, met een minimum van 0,5 voltijds equivalenten.<br>
-<br>
-In afwijking van het eerste lid, 2°, kan het niet-medische begeleidingspersoneel zijn samengesteld uit minder dan 3,25 voltijdsequivalenten verpleegkundigen, als dit minimum, rekening houdende met het aandeel niet-verpleegkundigen in de samenstelling van het aantal voltijds equivalenten dat de multidisciplinaire begeleidingsequipe in rekening kan brengen voor de berekening van het eenmalig forfaitair bedrag op de datum van inwerkingtreding van dit artikel, leidt tot een overschrijding van het maximum aantal voltijds equivalenten dat de multidisciplinaire begeleidingsequipe in rekening kan brengen voor de berekening van het eenmalig forfaitair bedrag, overeenkomstig artikel 330, § 3.<br>
-<br>
-§ 5. Naast het personeel, vermeld in paragraaf 2, 3 en 4, kunnen ook psychologen, kinesitherapeuten, maatschappelijk assistenten en assistenten in de psychologie deel uitmaken van het maximale aantal voltijdsequivalenten dat de multidisciplinaire begeleidingsequipe in rekening kan brengen om het eenmalige forfaitaire bedrag te berekenen.<br>
-<br>
-Ook personeel met een andere hogeronderwijsopleiding kan daar eventueel deel van uitmaken, na de expliciete goedkeuring van de Expertencommissie.<br>
-<br>
-§ 6. De samenstelling van het personeelskader van de multidisciplinaire begeleidingsequipe, vermeld in paragraaf 2, 3 en 4, wordt opgenomen in de overeenkomst met de multidisciplinaire begeleidingsequipe.<br>
-<br>
-De multidisciplinaire begeleidingsequipe meldt aan de administratie iedere wijziging in de samenstelling van het personeelsbestand, vermeld in paragraaf 2, 3 en 4, binnen een maand nadat de wijziging is doorgevoerd.
+...
 
 ### ART 335.
 
-§ 1. De huisarts, vermeld in artikel 334, § 2, eerste lid, 1°, § 3, 1°, en § 4, eerste lid, 1°, heeft een specifieke theoretische opleiding van minimaal 80 uur over palliatieve verzorging gevolgd. In die opleiding komen de volgende aspecten van de palliatieve verzorging aan bod:<br>
-1° overleg plegen met de betrokken zorgaanbieders en hun advies geven over alle aspecten van de palliatieve verzorging;<br>
-2° zorgen voor een goede organisatie en coördinatie van de palliatieve verzorging in het thuismilieu van de patiënt;<br>
-3° psychologische en morele ondersteuning verlenen aan de betrokken zorgaanbieders van de eerste lijn.<br>
-<br>
-Die huisarts heeft ook een stage doorlopen van minimaal 192 uur in een erkende palliatieve ziekenhuiseenheid of hij heeft effectief zolang gewerkt in een multidisciplinaire begeleidingsequipe voor palliatieve verzorging die zich richt tot palliatieve verzorging in het thuismilieu van de patiënt.<br>
-<br>
-§ 2. De huisarts, vermeld in paragraaf 1, volgt ieder jaar twintig uur specifieke bijscholing, waarin bepaalde aspecten van de palliatieve verzorging worden uitgediept en waarin ingegaan wordt op nieuwe ontwikkelingen en technieken.
+...
 
 ### ART 336.
 
-§ 1. De verpleegkundigen, vermeld in artikel 334, § 2, eerste lid, 2°, § 3, 2°, en § 4, eerste lid, 2°, hebben een specifieke theoretische opleiding van minimaal 140 uur over palliatieve verzorging gevolgd. In die opleiding komen de volgende aspecten van de palliatieve verzorging aan bod:<br>
-1° overleg plegen met de betrokken zorgaanbieders en hun advies geven over alle aspecten van de palliatieve verzorging;<br>
-2° zorgen voor een goede organisatie en coördinatie van de palliatieve verzorging in het thuismilieu van de patiënt;<br>
-3° psychologische en morele ondersteuning verlenen aan de betrokken zorgaanbieders van de eerste lijn.<br>
-<br>
-Die verpleegkundigen hebben ook een stage doorlopen van 456 uur in een erkende palliatieve ziekenhuiseenheid of hebben al één jaar voltijds gewerkt in een multidisciplinaire begeleidingsequipe die zich richt op de palliatieve verzorging in het thuismilieu van de patiënt.<br>
-<br>
-§ 2. De verpleegkundigen, vermeld in paragraaf 1, volgen ieder jaar minstens veertig uur specifieke bijscholing, waarin bepaalde aspecten van de palliatieve verzorging worden uitgediept en waarin ingegaan wordt op nieuwe ontwikkelingen en initiatieven.
+...
 
 ### ART 337.
 
-§ 1. Het eenmalige forfaitaire bedrag, vermeld in artikel 324, en het verminderde forfait, vermeld in artikel 327, zijn alleen verschuldigd als de multidisciplinaire begeleidingsequipe een wezenlijke rechtstreekse of onrechtstreekse bijdrage in de palliatieve verzorging van de rechthebbende heeft geleverd.<br>
-<br>
-De indicatie of een multidisciplinaire begeleidingsequipe een wezenlijke bijdrage kan leveren in de palliatieve verzorging van de palliatieve persoon wordt in overleg met de huisarts van de palliatieve persoon vastgesteld. De huisarts van de palliatieve persoon stelt daarvoor een attest op. Dat attest bevat de volgende gegevens:<br>
-1° de voor- en achternaam en het RIZIV-nummer van de arts die het attest voorschrijft;<br>
-2° de voor- en achternaam, het domicilieadres, de geboortedatum en het rijksregisternummer van de palliatieve persoon;<br>
-3° de verklaring dat de palliatieve persoon verzorging nodig heeft waarin de multidisciplinaire begeleidingsequipe een wezenlijke bijdrage kan leveren;<br>
-4° de handtekening en de datum van ondertekening van de attesterende arts.<br>
-<br>
-§ 2. Om van een wezenlijke bijdrage in de palliatieve verzorging van een rechthebbende in zijn thuismilieu of in zijn thuisvervangende milieu te kunnen spreken, moeten bovendien de volgende voorwaarden vervuld zijn:<br>
-1° de multidisciplinaire begeleidingsequipe heeft de betrokken zorgaanbieders van de eerste lijn en de omgeving van de rechthebbende voldoende geïnformeerd over de telefonische permanentie, vermeld in artikel 312;<br>
-2° de effectieve tussenkomst van de multidisciplinaire begeleidingsequipe bij de palliatieve verzorging van de patiënt voldoet aan minstens één van de volgende voorwaarden:<br>
-a) een lid van de multidisciplinaire begeleidingsequipe heeft een bezoek gebracht aan de palliatieve persoon in zijn thuismilieu of in zijn thuisvervangende milieu dat minimaal twee uur heeft geduurd of heeft plaatsgevonden tussen 22 uur en 7 uur, op zaterdag, zondag of een wettelijke feestdag. Als niet aan die voorwaarde is voldaan, moeten verschillende bezoeken zijn gebracht, waarbij de totale duur van de bezoektijd minimaal vier uur bedraagt. De verplaatsingstijd mag niet worden meegerekend als bezoektijd;<br>
-b) een lid van de multidisciplinaire begeleidingsequipe heeft deelgenomen aan een vergadering die de verschillende personen die betrokken zijn bij de palliatieve zorgverlening, thuis of in het thuisvervangende milieu, van één patiënt samenbracht. De vergadering had tot doel de palliatieve verzorging van die palliatieve persoon in zijn thuismilieu of in het thuisvervangende milieu praktisch te organiseren of bepaalde problemen die zich voordoen bij de palliatieve verzorging van die persoon, uit te diepen en er een oplossing voor te zoeken. Minstens de huisarts van de palliatieve persoon en de thuisverpleegkundigen nemen deel aan de vergadering;<br>
-c) een lid van de multidisciplinaire begeleidingsequipe heeft minimaal vier telefonische of persoonlijke contacten gehad met de zorgaanbieders van de eerste lijn die bij de palliatieve verzorging in het thuismilieu of in het thuisvervangende milieu betrokken zijn, met inbegrip van de huisarts van de palliatieve persoon. Minimaal twee van die contacten zijn tot stand gekomen op initiatief van de betrokken zorgaanbieders van de eerste lijn. Van ieder contact met de paramedici geeft de multidisciplinaire begeleidingsequipe feedback aan de huisarts van de rechthebbende.<br>
-<br>
-Het aandeel van de tussenkomsten, vermeld in het eerste lid, 2°, c), in het totaal van de tussenkomsten die de multidisciplinaire begeleidingsequipe heeft aangerekend, mag nooit meer dan de helft bedragen.
+...
 
 ### ART 338.
 
-De multidisciplinaire begeleidingsequipe leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
+...
 
 ## Deel 7. Wijzigingsbepalingen
 
