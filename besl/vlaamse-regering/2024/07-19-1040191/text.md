@@ -27,6 +27,8 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
+
 ### ART 2.
 
 In artikel 429 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 juli 2021 en 6 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -55,6 +57,10 @@ b) IFIC code 6271: Begeleider beschut wonen;&nbsp;<br>
 c) IFIC code 6273: Opvoeder/begeleider in een psychiatrische eenheid/centrum;<br>
 d) &nbsp;een nieuwe IFIC-code in de functiewijzer onder de departementen ‘Paramedisch’ of ‘Psycho-Sociaal', vanaf het moment van validering van het onderhoud van de ontbrekende functie(s) in een sectorale collectieve arbeidsovereenkomst of protocol.&nbsp;<br>
 De tewerkstelling van bachelors als personeel voor reactivering wordt&nbsp;geëvalueerd door het agentschap tegen uiterlijk 1 januari 2027.”.
+
+### ART 4.
+
+In artikel 432, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 6 oktober 2023, worden de woorden “een een zorgkundige” vervangen door de woorden “een zorgkundige”;
 
 ### ART 6.
 
@@ -85,6 +91,10 @@ In artikel 434, §1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vl
 1° in het eerste lid wordt de zin “Er is geen compensatie mogelijk als het gaat om een tekort voor de norm van 0,35 kinesitherapeut of ergotherapeut of logopedist per vijftien personen die gebruik maken van het centrum voor dagverzorging en of voor de personeelsnorm van 0,5 klinisch psycholoog voor vijftien personen die gebruik maken van het centrum voor dagverzorging.” opgeheven;<br>
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 “Er is geen compensatie mogelijk als vermeld in het eerste lid, als het gaat om een tekort voor de norm van 0,5 klinisch psycholoog voor vijftien personen die gebruikmaken van het centrum voor dagverzorging voor personen met een ernstige ziekte, vermeld in artikel 433, §4.”.
+
+### ART 8.
+
+In artikel 452, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 14 oktober 2022, 6 oktober 2023 en 23 november 2023, wordt tussen het woord “agentschap” en de woorden “ieder trimester” het woord “over” ingevoegd.
 
 ### ART 9.
 
@@ -128,6 +138,21 @@ Het agentschap beoordeelt of voldaan is aan de voorwaarden, vermeld in het achts
 Het woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, waarvoor conform het achtste lid, uitzonderlijk en eenmalig de gegevens worden gewijzigd met het oog op een wijziging van de basistegemoetkoming voor zorg, ontvangt een uitzonderlijke eenmalige herberekening. Op het bedrag van de basistegemoetkoming voor zorg wordt een vermindering toegepast van 25% op het eerste trimester van het facturatiejaar, met uitzondering van die gevallen waar de basistegemoetkoming voor zorg met toepassing van het tweede lid al met 25% werd verminderd.&nbsp;<br>
 <br>
 Als een woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, de gegevens uitzonderlijk en eenmalig laat wijzigen conform het achtste lid, met het oog op een wijziging van de basistegemoetkoming voor zorg én een wijziging van de financiële tegemoetkoming voor de vergoeding van de maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan conform artikel 5/1, zevende lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wordt alleen een vermindering als vermeld in het tiende lid, toegepast op de basistegemoetkoming voor zorg. Het bedrag voor de financiële tegemoetkoming ter vergoeding van de maatregelen inzake vrijstelling van arbeidsprestaties wordt in dat geval niet verminderd.”.
+
+### ART 11.
+
+In artikel 456 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt tussen het woord “agentschap” en de woorden “ieder trimester” het woord “over” ingevoegd;<br>
+2° in paragraaf 1, vierde lid, worden de woorden “in twee en derde lid” vervangen door de zinsnede “, vermeld in het tweede en derde lid,”;<br>
+3° aan paragraaf 2 wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+“In afwijking van het eerste tot en met het derde lid zijn de volgende bepalingen van toepassing om de tegemoetkoming te berekenen voor zorg in een centrum voor dagverzorging voor de facturatieperiode 2025:<br>
+1° op 30 september 2024 gaat het agentschap na of voor alle trimesters de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, is ingediend. Uiterlijk op 7 oktober 2024 verstuurt het agentschap een laatste herinnering aan de centra voor dagverzorging die geen elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, voor een of meer trimesters hebben ingediend;<br>
+2° er wordt geen vermindering van 25% toegepast op het bedrag van de basistegemoetkoming voor zorg, voor de facturatieperiode 2025, als het centrum voor dagverzorging, de elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, niet uiterlijk op 15 oktober 2024 heeft ingediend. Voor trimesters waarvoor op 16 oktober 2024 geen elektronische vragenlijst, vermeld in paragraaf 1, eerste lid, is ingediend, dient het agentschap de elektronische vragenlijsten in;<br>
+3° vanaf 16 oktober 2024 bezorgt het agentschap het bedrag en de voorlopige berekening van de basistegemoetkoming voor zorg in een centrum voor dagverzorging aan de zorgvoorziening voor de facturatieperiode 2025;<br>
+4° de zorgvoorziening kan aansluitend de gegevens wijzigen tot en met dertig dagen na de dag waarop ze de voorlopige berekening, vermeld in punt 3°, heeft ontvangen van het agentschap;<br>
+5° de definitieve berekening wordt door het agentschap bezorgd vanaf de eenendertigste dag die volgt op de voorlopige berekening, vermeld in punt 3°;<br>
+6° een centrum voor dagverzorging kan tot en met twintig dagen na de dag waarop het de definitieve berekening, vermeld in punt 5°, heeft ontvangen van het agentschap, uitzonderlijk en eenmalig de gegevens laten wijzigen met het oog op een wijziging van de basistegemoetkoming voor zorg door het agentschap. Als de zorgvoorziening gebruikmaakt van die mogelijkheid, wordt er op het bedrag van de basistegemoetkoming voor zorg, na de uitzonderlijke en eenmalige herberekening, gedurende het eerste trimester van het facturatiejaar 2025 een bedrag in mindering gebracht. Dat in mindering te brengen bedrag is gelijk aan 25% van het verschil tussen het bedrag na de uitzonderlijke en eenmalige herberekening en het bedrag na de voorgaande definitieve berekening, vermeld in punt 5°. Als het verschil een negatief bedrag is, wordt het verschil herleid naar nul;&nbsp;<br>
+7° als een centrum voor dagverzorging de gegevens uitzonderlijk en eenmalig laat wijzigen conform punt 6°, met het oog op een wijziging van de basistegemoetkoming voor zorg én een wijziging van de financiële tegemoetkoming ter vergoeding van de maatregelen voor de vrijstelling van arbeidsprestaties en eindeloopbaan conform artikel 8, §3, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en &nbsp;diensten, wordt alleen het bedrag dat is bepaald conform punt 6°, in mindering gebracht van de basistegemoetkoming voor zorg. Het bedrag voor de financiële tegemoetkoming ter vergoeding van de maatregelen inzake vrijstelling van arbeidsprestaties wordt in dat geval niet verminderd.”.
 
 ### ART 12.
 
@@ -223,6 +248,18 @@ b) een bestaande werknemer vormt zich om tot logistiek medewerker in de zorg en 
 8° in de bestaande paragraaf 2, achtste lid, die paragraaf 2, tiende lid wordt, wordt het woord “zevende” vervangen door het woord “negende”;<br>
 9° in de bestaande paragraaf 2, tiende lid, die paragraaf 2, twaalfde lid wordt, worden de woorden “zevende en negende” vervangen door de woorden “negende en elfde”.
 
+### ART 17.
+
+In artikel 511, tweede lid, van hetzelfde besluit wordt tussen de zinsnede “artikel 2” en het woord “van” de zinsnede “, §2,” ingevoegd.
+
+### ART 18.
+
+In artikel 527, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2020, wordt het woord “bijzondere” telkens vervangen door het woord “bijkomende”.
+
+### ART 19.
+
+In artikel 534/3, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt tussen de zinsnede “artikel 2” en het woord “van” de zinsnede “, §2,” ingevoegd.
+
 ### ART 20.
 
 Aan artikel 534/7, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt de volgende zin toegevoegd:&nbsp;<br>
@@ -258,6 +295,8 @@ Aan artikel 663/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 <br>
 In afwijking van het eerste en tweede lid deelt een zorgvoorziening vanaf de aanvullende financiering voor zorgpersoneel boven norm en ondersteunend personeel voor het jaar 2025 de gegevens van de voorliggende referentieperiode mee via de elektronische vragenlijst, vermeld in artikel 452 en artikel 456, waarbij de termijnen, vermeld in artikel 454 en 456, van toepassing zijn. Een zorgvoorziening die de termijnen, vermeld in artikel 454 en 456, niet naleeft, verliest definitief het volledige recht op de aanvullende financiering voor zorgpersoneel boven norm, vermeld in artikel 663/1, en de aanvullende financiering voor ondersteunend personeel, vermeld in artikel 663/4, vanaf het jaar dat volgt op de referentieperiode waarin het feit zich heeft voorgedaan.”.
 
+## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten
+
 ### ART 25.
 
 Aan artikel 2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 mei 2023 en 20 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -270,6 +309,10 @@ Aan artikel 2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse R
 3° uit de overeenkomst met het personeelslid blijkt in welke voorzieningen, en voor welke gemiddelde arbeidsduur per week het personeelslid wordt ingeschakeld;<br>
 4° het werkgeversgezag is in het kader van het meervoudige werkgeverschap overgedragen aan de voorziening waar het personeelslid prestaties verricht;&nbsp;<br>
 5° de loon- en arbeidsvoorwaarden van toepassing in de woonzorgvoorzieningen, zoals vermeld in artikel 2, §1, 19° van het Woonzorgdecreet van 15 februari 2019, in uitvoering van de collectieve arbeidsovereenkomsten afgesloten in het paritair comité voor de gezondheidsinrichtingen en -diensten of in uitvoering van een protocolakkoord, zijn van toepassing op de werknemers tewerkgesteld in het kader van meervoudig werkgeverschap.”.
+
+### ART 26.
+
+In artikel 4, tweede lid, 17°, van hetzelfde besluit wordt het woord “beaplingen” vervangen door het woord “bepalingen”.
 
 ### ART 27.
 
@@ -328,3 +371,40 @@ In artikel 8, §3, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaa
 ### ART 30.
 
 In artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 mei 2023, 20 oktober 2023 en dit besluit, wordt paragraaf 3 opgeheven.&nbsp;
+
+### ART 31.
+
+In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “artikel 14, derde lid en artikel 16/4, laatste lid” vervangen door de zinsnede “artikel 13, eerste en tweede lid, artikel 14, derde lid, artikel 16/2, eerste lid, en artikel 16/3, eerste lid”;&nbsp;<br>
+2° in het tweede lid wordt tussen de zinsnede “artikel 2” en het woord “van” de zinsnede “, §2” ingevoegd;<br>
+3° tussen het tweede en het derde lid worden twee leden toegevoegd, die luiden als volgt:&nbsp;<br>
+&nbsp;“Voor de bedragen, vermeld in artikel 13, eerste en tweede lid, en artikel 16/2, eerste lid, van dit besluit, wordt de koppeling aan het indexcijfer berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen. Die koppeling gebeurt op 31 december van het jaar van de spilindexoverschrijding voorafgaand aan het jaar van de betaling.&nbsp;<br>
+&nbsp;Voor de bedragen, vermeld in artikel 16/3, eerste lid, wordt de koppeling aan het indexcijfer berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen. Die koppeling gebeurt op 1 januari van het jaar dat op de spilindexoverschrijding volgt.”.
+
+## Hoofdstuk 3. Slotbepalingen
+
+### ART 32.
+
+Artikel 20 heeft uitwerking met ingang van 1 januari 2022.<br>
+<br>
+Artikel 1, 2, 3°, artikel 5, 6, 9°, artikel 13, 24 en 25, 2° treden in werking op een datum die de minister bepaalt.<br>
+<br>
+Artikel &nbsp;2, 2° artikel 6, 8°, artikel 9 en artikel 11, 3° hebben uitwerking met ingang van 1 juli 2023, met het oog op de referentieperiode die start op 1 juli 2023 in het kader van de berekening van de basistegemoetkoming voor zorg 2025.<br>
+<br>
+Artikel 25, 1°, artikel 27, 1° en 3°, en artikel 29, 3° hebben uitwerking met ingang van 1 juli 2023, met het oog op de referentieperiode die start op 1 juli 2023 in het kader van de berekening van de eindeloopbaanfinanciering voor de periode van 1 juli 2023 tot en met 30 juni 2024.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Artikel 22 heeft uitwerking met ingang van 1 januari 2024.<br>
+<br>
+Artikel 16, 5°, heeft uitwerking met ingang van 1 juli 2024, met het oog op een aanpassing van de basistegemoetkoming voor zorg voor het facturatiejaar 2024 met ingang van 1 juli 2024.<br>
+<br>
+Artikel 14, 7°, artikel 21 en 23 hebben uitwerking met ingang van 1 juli 2024.<br>
+<br>
+Artikel 3, 2°, artikel 6, 1° en 2°, 4° tot en met 7°, artikel 7, 10 en 12 hebben uitwerking met ingang van 1 juli 2024, met het oog op de referentieperiode die start op 1 juli 2024 in het kader van de berekening van de basistegemoetkoming voor zorg 2026.<br>
+<br>
+Artikel 28 en 30 hebben uitwerking met ingang van 1 juli 2024, met het oog op de referentieperiode die start op 1 juli 2024 in het kader van de berekening van de eindeloopbaanfinanciering voor de periode van 1 juli 2024 tot en met 30 juni 2025.<br>
+<br>
+Artikel 14, 2°, 3°, 5° en 6°, artikel 15 en 16, 1°, 2°, 4°, 6° tot en met 9°, treden in werking op 1 januari 2025, met het oog op de berekening van de &nbsp;basistegemoetkoming voor zorg voor het facturatiejaar 2025.&nbsp;
+
+### ART 33.
+
+De Vlaamse minister, bevoegd voor sociale bescherming, is belast met de uitvoering van dit besluit.
