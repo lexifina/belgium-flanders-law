@@ -2,16 +2,16 @@
   "codex_id": 1040182,
   "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van diverse bepalingen in het kader van de Vlaamse sociale bescherming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040182/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "074b73a641a5dfefdd3905db03d24deda96391aad1f8dae6ec0cfb56c9f2d68e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040182/VolledigDocument?datum=2024-09-15",
+  "source_sha256": "fe479709c2723d8d30b7452a64feb1e44be2cc90364e5947f204b7e3db1f2b5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040182&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2024-09-15",
   "made": "2024-07-19",
   "gazette": "2024-09-05",
   "numac": 2024008116,
   "document_start": "2024-09-15",
   "document_end": null,
-  "in_force": "2024-04-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-09-15",
+  "article_versions": 78,
+  "record_form": "consolidated version as in force on 2024-09-15; future article versions excluded; article text as the API gives it"
 }
