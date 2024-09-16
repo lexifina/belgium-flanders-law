@@ -96,7 +96,8 @@ De   secretaris-generaal van het departement is gemachtigd om elke beslissing te
 67° de toekenning van speciale onderwijsleermiddelen voor leerlingen, cursisten of studenten met specifieke onderwijsbehoeften;<br>
 68° de toelating om uren-leraar om te zetten in uren-opsteller a rato van één uur-leraar per twee uren-opsteller in het deeltijds kunstonderwijs, studierichting "Beeldende kunst";<br>
 69° de vaststelling van de samenstelling van de scholengemeenschappen en samenwerkingsplatformen;<br>
-70° de vaststelling en de toekenning van de toelagen voor de busbegeleiders.</p>
+70° de vaststelling en de toekenning van de toelagen voor de busbegeleiders;<br>
+71° de vaststelling en toekenning voor de tenlasteneming van juridische kosten van school- en centrumbesturen.</p>
 
 <p>§ 2. De administrateur-generaal van het Agentschap voor Onderwijsdiensten is gemachtigd om elke beslissing te nemen inzake de rechtspositie van het onderwijspersoneel waarvoor het agentschap bevoegd is met betrekking tot:<br>
 1° de vrijstellingen van de voorwaarden inzake nationaliteit en het bezit van burgerlijke en politieke rechten om als tijdelijk personeelslid te kunnen worden aangesteld of gesubsidieerd of gefinancierd;<br>

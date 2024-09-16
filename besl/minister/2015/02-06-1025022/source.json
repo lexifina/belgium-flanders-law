@@ -2,16 +2,16 @@
   "codex_id": 1025022,
   "title": "Ministerieel besluit van 2015-02-06 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025022/VolledigDocument?datum=2017-03-01",
-  "source_sha256": "21c4b1eb1d3abed5b2416a5242ddc2f9ee9523f794616bf1d4c8e53ff12d57c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025022/VolledigDocument?datum=2024-09-16",
+  "source_sha256": "eba47f5fe1b46195368ae77fbb1a0c0f33f267cdc5f7c14064dbebe3fe6791ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025022&param=informatie",
-  "as_of": "2017-03-01",
+  "as_of": "2024-09-16",
   "made": "2015-02-06",
   "gazette": "2015-02-18",
   "numac": 2015200746,
   "document_start": "2014-07-25",
   "document_end": null,
-  "in_force": "2017-03-01",
+  "in_force": "2024-09-16",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2017-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-16; future article versions excluded; article text as the API gives it"
 }
