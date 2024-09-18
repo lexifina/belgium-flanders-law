@@ -3052,13 +3052,14 @@ Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 de
 ### ART. 5.2.1.
 
 § 1. De instrumenterende ambtenaar vermeldt in alle onderhandse en authentieke akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging van erfpacht of opstal en in elke andere akte van een eigendomsoverdracht ten bezwarende titel:<br>
-1° of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt;<br>
+1° of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt;<br>
 2° de meest recente stedenbouwkundige bestemming van dit onroerend goed met de benamingen gebruikt in het plannenregister;<br>
 3° of het onroerend goed het voorwerp uitmaakt van een maatregel als vermeld in titel VI, hoofdstuk III en IV, dan wel of een procedure voor het opleggen van een dergelijke maatregel hangende is;<br>
 4° of er op het onroerend goed een voorkooprecht rust, vermeld in artikel 2.4.1 of artikel 34 van het decreet van 25 april 2014 betreffende complexe projecten;<br>
-5° of er voor het onroerend goed een omgevingsvergunning voor het verkavelen van gronden&nbsp;van toepassing is;<br>
+5° of er voor het onroerend goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is;<br>
 6° ...;<br>
-7° of het onroerend goed het voorwerp uitmaakt van een voorkeursbesluit of een projectbesluit.<br>
+7° of het onroerend goed het voorwerp uitmaakt van een voorkeursbesluit of een projectbesluit;<br>
+8° of het onroerend goed het voorwerp uitmaakt van een aanduiding als watergevoelig openruimtegebied conform artikel 5.6.8, § 1.<br>
 <br>
 In de authentieke akte wordt de verklaring van de verkrijger opgenomen dat hij een stedenbouwkundig uittreksel heeft ontvangen, dat ten hoogste één jaar voor het verlijden van de authentieke akte werd verleend.<br>
 <br>
@@ -3114,7 +3115,7 @@ De Vlaamse Regering kan bepalen dat bij een overdracht onder levenden van een ei
 
 ### ART. 5.2.5.
 
-Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt&nbsp;en moet de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister overnemen. In voorkomend geval worden ook vermeld : de maatregelen, vermeld in titel VI, hoofdstuk III en IV, die werden opgelegd met betrekking tot het goed of de hangende procedures die strekken tot het opleggen van dergelijke maatregelen, de op het goed rustende voorkooprechten, vermeld in artikel 2.4.1, respectievelijk het feit dat op het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is.<br>
+Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt&nbsp; en moet de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister overnemen. In voorkomend geval worden ook vermeld : de maatregelen, vermeld in titel VI, hoofdstuk III en IV, die werden opgelegd met betrekking tot het goed of de hangende procedures die strekken tot het opleggen van dergelijke maatregelen, de op het goed rustende voorkooprechten, vermeld in artikel 2.4.1, respectievelijk het feit dat op het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is. In voorkomend geval wordt ook vermeld of het onroerend goed het voorwerp uitmaakt van een aanduiding als watergevoelig openruimtegebied conform artikel 5.6.8, § 1.<br>
 <br>
 De vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit dergelijke onderhandse akten opmaken, moeten een verwijzing naar artikel 4.2.1 van deze codex opnemen in de akte.<br>
 &nbsp;
@@ -3124,12 +3125,13 @@ De vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of 
 ### ART. 5.2.6.
 
 Iedereen die voor eigen rekening of als tussenpersoon een goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht overdraagt, of op andere wijze de eigendomsoverdacht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de hieraan verbonden publiciteit :<br>
-1° of er voor het goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt;<br>
+1° of er voor het goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt;<br>
 2° de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister;<br>
 3° of het onroerend goed het voorwerp uitmaakt van een maatregel als vermeld in titel VI, hoofdstuk III en IV, dan wel of een procedure voor het opleggen van een dergelijke maatregel hangende is;<br>
 4° of er op het goed een voorkooprecht rust, in de zin van artikel 2.4.1;<br>
 5° of voor het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is;<br>
-6° ...<br>
+6° ...;<br>
+7° of het onroerend goed het voorwerp uitmaakt van een aanduiding als watergevoelig openruimtegebied conform artikel 5.6.8, § 1.<br>
 <br>
 Indien voor deze informatie een stedenbouwkundig uittreksel, zoals bedoeld in artikel 5.2.7, moet worden opgevraagd, kan publiciteit gevoerd worden van zodra dit uittreksel is aangevraagd.<br>
 <br>
