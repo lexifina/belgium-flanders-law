@@ -46,7 +46,7 @@ Een ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk structuurpla
 
 ### ART. 10.
 
-Personen die overeenkomstig hoofdstuk IV van titel I van de Vlaamse Codex Ruimtelijke Ordening als ambtenaar van ruimtelijke ordening zijn aangesteld, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan, ruimtelijk beleidsplan&nbsp;of ruimtelijk uitvoeringsplan, tenzij dat plan geheel of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende provinciale of gemeentelijke administratie.
+Personen die overeenkomstig hoofdstuk IV van titel I van de Vlaamse Codex Ruimtelijke Ordening als ambtenaar van ruimtelijke ordening zijn aangesteld of personen die conform het decreet van 25 april 2014 betreffende de omgevingsvergunning als omgevingsambtenaar zijn aangewezen, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan, ruimtelijk beleidsplan&nbsp;of ruimtelijk uitvoeringsplan, tenzij dat plan geheel of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende provinciale of gemeentelijke administratie.
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
