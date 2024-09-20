@@ -2,16 +2,16 @@
   "codex_id": 1038751,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 houdende reglementering inzake de kwaliteit en de productie, de levering en het gebruik van teruggewonnen water",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038751/VolledigDocument?datum=2023-10-16",
-  "source_sha256": "de442aef2d8708b8eeb784ce02360689312459fcc3507f0ca7dc32c0003803d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038751/VolledigDocument?datum=2024-09-20",
+  "source_sha256": "1759910a49c614a32ebd925dd61508e198e0aaa6e448646d10c99aa72b4239cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038751&param=informatie",
-  "as_of": "2023-10-16",
+  "as_of": "2024-09-20",
   "made": "2023-07-14",
   "gazette": "2023-10-06",
   "numac": 2023044890,
   "document_start": "2023-10-16",
   "document_end": null,
-  "in_force": "2023-10-16",
+  "in_force": "2024-09-20",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2023-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-20; future article versions excluded; article text as the API gives it"
 }

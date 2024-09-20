@@ -145,7 +145,7 @@ De bevoegde autoriteit maakt de toelatingen voor de productie, de levering en he
 De bevoegde autoriteit vraagt advies aan de volgende entiteiten om de aanvraag te beoordelen en verwerkt de inhoud van de adviezen in haar beslissing vermeld in artikel 5, achtste lid:<br>
 1° het Agentschap voor Zorg en Gezondheid, voor aspecten met betrekking tot volksgezondheid;<br>
 2° de Openbare Vlaamse Afvalstoffenmaatschappij, voor aspecten met betrekking tot het milieucompartiment bodem;<br>
-3° het Departement Landbouw en Visserij, voor aspecten met betrekking tot impact op teeltefficiëntie en irrigatiebehoefte;<br>
+3° het Agentschap Landbouw en Zeevisserij, voor aspecten met betrekking tot impact op teeltefficiëntie en irrigatiebehoefte;<br>
 4° de Vlaamse Landmaatschappij, voor aspecten met betrekking tot nutriëntenbelasting;<br>
 5° het Agentschap voor Natuur en Bos, als het waterhergebruikssysteem actief zal zijn in een gebied waar bijzondere bescherming voor natuur geldt;<br>
 6° de exploitanten van een openbaar waterdistributienetwerk, als het waterhergebruikssysteem actief zal zijn in een gebied met bescherming voor de productie van water bestemd voor menselijke consumptie;<br>
