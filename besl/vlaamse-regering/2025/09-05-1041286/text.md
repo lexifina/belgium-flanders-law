@@ -75,3 +75,11 @@ In artikel 6 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt
 ### ART 23.
 
 In artikel 7 van hetzelfde besluit wordt het woord “busbegeleider” vervangen door de zinsnede ”busbegeleider/parkingwachter”.
+
+### ART 60.
+
+In artikel 7, 2°, van het besluit van de Vlaamse Regering van 20 september 2024 voor een financiële ondersteuning van maximaal 1.059.083,80 euro aan diverse begunstigden voor het project “Ondersteuningsbeleid voor cognitief sterk functionerende leerlingen” voor de periode van 1 september 2024 t.e.m. 31 augustus 2025 wordt de datum “20 november 2025” vervangen door de datum “20 december 2025”.
+
+### ART 61.
+
+In artikel 8, §1, eerste lid, van hetzelfde besluit wordt de datum “20 november 2025” vervangen door de datum “20 december 2025”.
