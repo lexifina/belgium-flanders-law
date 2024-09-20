@@ -24,11 +24,13 @@ Besluit :
 
 ### ART 1.
 
+In dit besluit wordt verstaan onder digitaal platform: het digitale platform, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende het geïntegreerde planningsproces voor ruimtelijke uitvoeringsplannen, planmilieueffectrapportage, ruimtelijke veiligheidsrapportage en andere effectbeoordelingen.
+
+### ART 1/1.
+
 De gemeente laadt de voorgenomen herziening of opheffing, vermeld in artikel 7.4.4/1, § 1 en 2, van de Vlaamse Codex Ruimtelijke Ordening, alsook het voorafgaand advies van de gemeentelijke stedenbouwkundige ambtenaar of de gemeentelijke omgevingsambtenaar en de documenten waaruit blijkt dat voldaan is aan de verplichtingen inzake milieueffectrapportage, op in het digitale platform uiterlijk op de dag van de eerste adviesvraag conform artikel 7.4.4/1, § 4, eerste lid, van voormelde codex.<br>
 <br>
-De gemeente laadt het besluit van de gemeenteraad tot herziening of opheffing, vermeld in artikel 7.4.4/1, § 10, van de Vlaamse Codex Ruimtelijke Ordening op in het digitale platform na de beslissing van de gemeenteraad en voor de herziening of opheffing van kracht wordt.<br>
-<br>
-In dit artikel wordt verstaan onder het digitale platform: het digitale platform vermeld in artikel 1, 3° van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende het geïntegreerde planningsproces voor ruimtelijke uitvoeringsplannen, planmilieueffectrapportage, ruimtelijke veiligheidsrapportage en andere effectbeoordelingen.
+De gemeente laadt het besluit van de gemeenteraad tot herziening of opheffing, vermeld in artikel 7.4.4/1, § 10, van de Vlaamse Codex Ruimtelijke Ordening op in het digitale platform na de beslissing van de gemeenteraad en voor de herziening of opheffing van kracht wordt.
 
 ### ART 2.
 
@@ -98,6 +100,14 @@ De aankondiging bevat een beknopte toelichting en vermeldt minstens:<br>
 3° hoe, waar en wanneer opmerkingen bezorgd kunnen worden.<br>
 <br>
 Tijdens het openbaar onderzoek ligt de voorgenomen herziening of opheffing ter inzage in het gemeentehuis en kan ze geraadpleegd worden op de website van de gemeente.
+
+### ART 3/1.
+
+De gemeente laadt het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften op in het digitale platform.<br>
+<br>
+Door het besluit, vermeld in het eerste lid, op te laden verstuurt het digitale platform automatisch een bericht aan het departement en naar de deputatie, overeenkomstig artikel 7.4.4/1, §7, en §10, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening. Dit bericht geldt als beveiligde zending als vermeld in artikel 7.4.4/1, §7, en §10, tweede lid, van de voormelde codex.<br>
+<br>
+De Vlaamse Regering en de deputatie laden het schorsings- of vernietigingsbesluit, vermeld in artikel 7.4.4/1, §8, van de voormelde codex op in het digitale platform. Door dit document op te laden verstuurt het digitale platform automatisch een bericht naar de bevoegde overheid. Dit bericht geldt als beveiligde zending als vermeld in artikel 7.4.4/1, §8, van de voormelde codex.
 
 ### ART 4.
 
