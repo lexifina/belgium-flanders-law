@@ -349,7 +349,7 @@ Voor 1 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop 
 
 § 1. Het Centraal Comité is samengesteld uit de volgende leden, die door de minister worden benoemd:<br>
 1° drie personeelsleden van het agentschap, waarvan een personeelslid fungeert als voorzitter;<br>
-2° een personeelslid van het Departement Landbouw en Visserij;<br>
+2° een personeelslid van het Agentschap Landbouw en Zeevisserij, opgericht bij het besluit van de Vlaamse Regering van 15 september 2023 tot oprichting van een intern verzelfstandigd agentschap “Landbouw en Zeevisserij”;<br>
 3° een personeelslid van het beleidsdomein Financiën en Begroting;<br>
 4° een personeelslid van het instituut;<br>
 5° vijf vertegenwoordigers van de jachtsector.<br>
