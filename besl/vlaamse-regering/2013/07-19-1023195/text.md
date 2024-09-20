@@ -95,39 +95,39 @@ Als er milieuschade is, neemt de exploitant, voor zover er eerst geen   inperkin
 
 ### ART. 8.
 
-§ 1. Als zich nog geen milieuschade heeft voorgedaan maar er een onmiddellijke dreiging bestaat dat een dergelijke schade zich zal voordoen, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.4, eerste lid, van het decreet van 5 april 1995:<br>
+§1. Als zich nog geen milieuschade heeft voorgedaan maar er een onmiddellijke dreiging bestaat dat een dergelijke schade zich zal voordoen, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.4, eerste lid, van het decreet van 5 april 1995:<br>
 1° de exploitant verplichten de nodige preventieve maatregelen te nemen;<br>
 2° de exploitant instructies geven die bij het nemen van de nodige preventieve maatregelen moeten worden opgevolgd;<br>
 3° zelf de nodige preventieve maatregelen nemen.<br>
 <br>
-§ 2. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de preventieve maatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
+§2. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de preventieve maatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
 1° een duidelijke omschrijving van de nodige preventieve maatregelen en/of de instructies die bij het nemen van de nodige preventieve maatregelen moeten worden nageleefd en de eventuele uitvoeringstermijn;<br>
 2° de precieze gronden waarop het besluit gebaseerd is;<br>
 3° de instantie waarbij beroep kan worden ingediend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.<br>
 <br>
-§ 3. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning of, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de preventieve maatregelen worden opgelegd of het besluit om ambtshalve preventieve maatregelen te nemen, overeenkomstig artikel 15.8.4, tweede lid, van het decreet van 5 april 1995, als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.
+§3. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de preventieve maatregelen worden opgelegd of het besluit om ambtshalve preventieve maatregelen te nemen, overeenkomstig artikel 15.8.4, tweede lid, van het decreet van 5 april 1995, als meldingsakte of omgevingsvergunning voor die handelingen, inrichtingen of activiteiten.
 
 ## Afdeling 2. Inperkingsmaatregelen
 
 ### ART. 9.
 
-§ 1. Als er milieuschade is, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.6, eerste lid, van het decreet van 5 april 1995:<br>
+§1. Als er milieuschade is, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.6, eerste lid, van het decreet van 5 april 1995:<br>
 1° de exploitant verplichten de nodige inperkingsmaatregelen te treffen;<br>
 2° de exploitant instructies geven die hij bij het nemen van de nodige inperkingsmaatregelen moet naleven;<br>
 3° zelf elke inperkingsmaatregel nemen.<br>
 <br>
-§ 2. Voor er inperkingsmaatregelen als vermeld in paragraaf 1 worden opgelegd of genomen, nodigt de bevoegde instantie of haar gedelegeerde de personen op wier terrein de maatregelen geheel of gedeeltelijk worden genomen en de betrokken exploitant uit om hun opmerkingen te maken.<br>
+§2. Voor er inperkingsmaatregelen als vermeld in paragraaf 1 worden opgelegd of genomen, nodigt de bevoegde instantie of haar gedelegeerde de personen op wier terrein de maatregelen geheel of gedeeltelijk worden genomen en de betrokken exploitant uit om hun opmerkingen te maken.<br>
 <br>
 De uitnodiging, vermeld in het eerste lid, wordt verstuurd met een beveiligde zending en bevat ten minste de volgende informatie:<br>
 1° de aard van de voorgenomen maatregel;<br>
 2° de termijn waarbinnen opmerkingen kunnen worden gegeven.<br>
 <br>
-§ 3. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de inperkingsmaatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
+§3. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de inperkingsmaatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
 1° een duidelijke omschrijving van de nodige inperkingsmaatregelen en/of de instructies die bij het nemen van de nodige inperkingsmaatregelen moeten worden nageleefd en de eventuele uitvoeringstermijn;<br>
 2° de precieze gronden waarop het besluit gebaseerd is;<br>
 3° de instantie waarbij beroep kan worden ingediend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.<br>
 <br>
-§ 4. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de inperkingsmaatregelen worden opgelegd of het besluit om ambtshalve inperkingsmaatregelen te nemen, overeenkomstig artikel 15.8.6, tweede lid, van het decreet van 5 april 1995, als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.
+§4. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de inperkingsmaatregelen worden opgelegd of het besluit om ambtshalve inperkingsmaatregelen te nemen, overeenkomstig artikel 15.8.6, tweede lid, van het decreet van 5 april 1995, als meldingsakte of omgevingsvergunning voor die handelingen, inrichtingen of activiteiten.
 
 ## Afdeling 3. Herstelmaatregelen
 
@@ -183,7 +183,7 @@ Als de bevoegde instantie van oordeel is dat het herstelplan conform is, bezorgt
 
 ### ART. 16.
 
-Als de herstelmaatregelen uit het herstelplan handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het conformiteitsattest als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.<br>
+Als de herstelmaatregelen uit het herstelplan handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening of artikel 5.2.1 van het decreet van 5 april 1995, geldt het conformiteitsattest als meldingsakte of omgevingsvergunning voor die handelingen, inrichtingen of activiteiten.<br>
 <br>
 De adviesverlenende instanties, vermeld in artikel 15.8.6, derde lid, van het decreet van 5 april 1995, zijn :<br>
 1° als de maatregelen activiteiten omvatten die vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning :<br>
@@ -222,7 +222,17 @@ Het verzoek om maatregelen, vermeld in artikel 15.6.1. van het decreet van   5 a
 
 ### ART. 20.
 
-Om ontvankelijk te zijn moet een verzoek om maatregelen : <BR>1° de naam,   de hoedanigheid en het adres van de verzoeker vermelden; <BR>2° de wijze   aangeven waarop de verzoeker milieuschade lijdt of dreigt te lijden, dan wel   aantonen dat de verzoeker belang heeft bij de besluitvorming over de schade of   dat hij een rechtspersoon is die op de datum waarop hij het verzoek indient,   voldoet aan de bepalingen van artikel 2 van de wet van 12 januari 1993   betreffende een vorderingsrecht inzake bescherming van het leefmilieu; <BR>3°   een omschrijving bevatten van de aard, de omvang, de locatie en de datum van   vaststelling van de milieuschade; <BR>4° vermelden dat het gaat om een verzoek   tot het opleggen van maatregelen als vermeld in titel XV, hoofdstuk VI, van het   decreet van 5 april 1995; <BR>5° ondertekend en gedagtekend zijn door de   verzoeker of zijn gemachtigde. <BR><BR>In de mate van het mogelijke bevat het   verzoek om maatregelen : <BR>1° een omschrijving van de vermoedelijke oorzaak   van de milieuschade; <BR>2° een aanwijzing van de exploitant die vermoedelijk de   milieuschade veroorzaakt; <BR>3° een inventaris van de bijgevoegde stukken.
+Om ontvankelijk te zijn moet een verzoek om maatregelen :<br>
+1° de naam, de hoedanigheid en het adres van de verzoeker vermelden;<br>
+2° de wijze aangeven waarop de verzoeker milieuschade lijdt of dreigt te lijden, of aantonen dat de verzoeker belang heeft bij de besluitvorming over de schade of dat inbreuk is gemaakt op een recht van de verzoeker, als het bestuursprocesrecht dat als voorwaarde stelt, of aantonen dat de verzoeker een rechtspersoon is die op de datum waarop hij het verzoek indient, voldoet aan de bepalingen van artikel 1 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu;<br>
+3° een omschrijving bevatten van de aard, de omvang, de locatie en de datum van vaststelling van de milieuschade;<br>
+4° vermelden dat het gaat om een verzoek tot het opleggen van maatregelen als vermeld in titel XV, hoofdstuk VI, van het decreet van 5 april 1995;<br>
+5° ondertekend en gedagtekend zijn door de verzoeker of zijn gemachtigde.<br>
+<br>
+In de mate van het mogelijke bevat het verzoek om maatregelen :<br>
+1° een omschrijving van de vermoedelijke oorzaak van de milieuschade;<br>
+2° een aanwijzing van de exploitant die vermoedelijk de milieuschade veroorzaakt;<br>
+3° een inventaris van de bijgevoegde stukken.
 
 ## Afdeling 2. Beoordeling en kennisgeving
 
@@ -296,7 +306,11 @@ De Milieuschadecommissie bezorgt het advies van de commissie, samen met   alle s
 
 ### ART. 33.
 
-Nadat de Milieuschadecommissie haar advies heeft uitgebracht, neemt de   minister een beslissing over het beroep binnen een termijn van negentig   kalenderdagen na de ontvankelijkheidsverklaring van het beroep. <BR><BR>Alle   personen die overeenkomstig artikel 30, vierde lid, op de hoogte werden gebracht   van het ontvankelijk beroep, worden binnen tien kalenderdagen na de beslissing   met een beveiligde zending van die beslissing op de hoogte gebracht. <BR><BR>Als   de uitspraak over het ingediende beroep niet wordt gedaan binnen een termijn van   negentig kalenderdagen, wordt het beroep geacht verworpen te zijn.
+Nadat de Milieuschadecommissie haar advies heeft uitgebracht, neemt de minister een beslissing over het beroep binnen een termijn van negentig kalenderdagen na de ontvankelijkheidsverklaring van het beroep.<br>
+<br>
+Alle personen die overeenkomstig artikel 30, derde lid, op de hoogte werden gebracht van het ontvankelijk beroep, worden binnen tien kalenderdagen na de beslissing met een beveiligde zending van die beslissing op de hoogte gebracht.<br>
+<br>
+Als de uitspraak over het ingediende beroep niet wordt gedaan binnen een termijn van negentig kalenderdagen, wordt het beroep geacht verworpen te zijn.
 
 ## HOOFDSTUK 7. Procedure van beroep tegen opgelegde maatregelen, preventieve acties en herstelacties
 
