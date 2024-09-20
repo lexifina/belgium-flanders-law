@@ -25,7 +25,7 @@ Een aanvraag van een planologisch attest bestaat uit :<br>
 2° documenten die aantonen dat het bedrijf aan een van de volgende voorwaarden beantwoordt :<br>
 a) het is onderworpen aan de vergunnings- of meldingsplicht voor de exploitatie van een ingedeelde inrichting of activiteit als vermeld in artikel 5.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 b) het is een volwaardig land- of tuinbouwbedrijf;<br>
-c) het bedrijf is een tuincentrum;<br>
+c) ...;<br>
 3° de volgende kadastergegevens, in een officiële versie die afkomstig is van de diensten van het kadaster en maximaal één jaar oud is :<br>
 a) een uittreksel uit het kadastraal plan waarop de percelen worden aangeduid waarop het bestaande bedrijf zich bevindt en de percelen waarop een eventuele gewenste uitbreiding plaatsvindt;<br>
 b) een lijst met de eigendomsgegevens van de onder a) genoemde percelen en van alle percelen die aan de onder a) genoemde percelen palen;<br>
@@ -38,7 +38,7 @@ a) een plan van de bestaande toestand van het bedrijf, van de gronden waarop een
 5) aanpalende wegen, met vermelding van de breedte, de uitrusting en de naam;<br>
 6) eventuele erfdienstbaarheden;<br>
 7) de opnamepunten van de foto's, bedoeld onder 6° ;<br>
-8) in geval van een tuincentrum: de serres of gronden die actief gebruikt worden voor het kweken of conditioneren van bloemen, planten of bomen en de serres of gronden die aansluiten bij de grond waarop het tuincentrum gevestigd is;<br>
+8) ...;<br>
 b) een overzichtsplan van de stedenbouwkundige vergunningstoestand van het bedrijf, met aanduiding van de constructies, de functies en het grondgebruik die vergund zijn of die geacht worden vergund te zijn, telkens met verwijzing naar de documenten of bewijsstukken bedoeld onder 7°, en met aanduiding van eventuele niet-vergunde elementen;<br>
 c) een plan van de gewenste toestand van het bedrijf, met een duidelijk onderscheid tussen ontwikkelingen op korte en op lange termijn, met aanduiding van :<br>
 1) alle gewenste wijzigingen ten opzichte van de bestaande toestand wat betreft constructies, functies en grondgebruik, met vermelding van de afmetingen van gebouwen en verhardingen;<br>
@@ -49,7 +49,7 @@ a) het bedrijf;<br>
 b) de gronden waarop een eventuele gewenste uitbreiding zich bevindt;<br>
 c) de onmiddellijke omgeving, in het bijzonder de bebouwing in de omgeving. Op de foto's van die onmiddellijke omgeving moet altijd minstens een deel van de huidige bedrijfssite zichtbaar zijn;<br>
 7° documenten die de stedenbouwkundige vergunningstoestand, aangegeven in het plan vermeld onder 4°, b, aantonen, zoals uittreksels uit het vergunningenregister, afschriften van stedenbouwkundige vergunningen of bewijsstukken voor een vermoeden van vergunning;<br>
-7° /1 in geval van een tuincentrum: de documenten die aantonen dat voldaan is aan de voorwaarden, vermeld in artikel 4.4.24, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+7° /1 ...;<br>
 8° een tekst met toelichting en motivering van de aanvraag, met volgende onderwerpen :<br>
 a) de historische achtergrond van het bedrijf;<br>
 b) de werking van het bedrijf, met duiding welke activiteiten waar plaatsvinden en duiding van de vergunningstoestand voor wat betreft de vergunnings- of meldingsplicht voor de exploitatie van een ingedeelde inrichting of activiteit als vermeld in artikel 5.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
@@ -73,20 +73,16 @@ De aanvraag van een planologisch attest wordt ingediend in twee analoge exemplar
 
 Een aanvraag van een planologisch attest is niet ontvankelijk in de volgende gevallen :<br>
 1° het bedrijf heeft op het ogenblik van de aanvraag geen bedrijfsactiviteiten op de site waarop de aanvraag betrekking heeft;<br>
-2° het bedrijf is niet hoofdzakelijk vergund, tenzij het bedrijf een tuincentrum is, waarvan de functie niet vergund of vergund geacht is;<br>
+2° het bedrijf is niet hoofdzakelijk vergund;<br>
 3° het bedrijf is verkrot;<br>
-4° het bedrijf is niet onderworpen aan de de vergunnings- of meldingsplicht voor de exploitatie van een ingedeelde inrichting of activiteit als vermeld in artikel 5.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en het is evenmin een volwaardig land- of tuinbouwbedrijf of een tuincentrum;<br>
+4° het bedrijf is niet onderworpen aan de de vergunnings- of meldingsplicht voor de exploitatie van een ingedeelde inrichting of activiteit als vermeld in artikel 5.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en het is evenmin een volwaardig land- of tuinbouwbedrijf;<br>
 5° noch het behoud van het bedrijf, noch de gewenste ontwikkelingen zoals beschreven in de aanvraag veronderstellen de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of plan van aanleg;<br>
 6° er is een lopend of recent afgerond planningsproces waarin een uitspraak wordt gedaan over het behoud en de ontwikkelingsmogelijkheden van het bedrijf :<br>
 a) de site waarop de aanvraag betrekking heeft ligt binnen het toepassingsgebied van een ruimtelijk uitvoeringsplan of een bijzonder plan van aanleg waarvoor minder dan één jaar voor de datum van de aanvraag nog een plenaire vergadering werd gehouden, een voorlopige of definitieve vaststelling is gedaan of, in voorkomend geval, een beslissing in het kader van het goedkeuringstoezicht is genomen; en<br>
 b) de stedenbouwkundige voorschriften van het in a) vermelde plan, in de versie die geagendeerd of voorgelegd werd voor de plenaire vergadering, de voorlopige of definitieve vaststelling of de goedkeuring, spreken zich uit over het behoud of de ontwikkelingsmogelijkheden van het bedrijf;<br>
 7° de aanvraag is niet mee ondertekend door een geregistreerd ruimtelijk planner;<br>
 8° de aanvraag is niet per beveiligde zending ingediend;<br>
-9° de aanvraag is onvolledig bevonden en de aanvrager heeft de nodige aanvullingen niet bezorgd binnen de daarvoor vastgestelde termijn.<br>
-<br>
-Met behoud van de toepassing van het eerste lid, geldt bijkomend dat een aanvraag van een planologisch attest voor een tuincentrum niet ontvankelijk is in de volgende gevallen:<br>
-1° het tuincentrum ligt niet in agrarisch gebied in de ruime zin;<br>
-2° de wijziging van de hoofdfunctie land- en tuinbouw in detailhandel heeft niet uiterlijk op 1 mei 2000 plaatsgevonden.
+9° de aanvraag is onvolledig bevonden en de aanvrager heeft de nodige aanvullingen niet bezorgd binnen de daarvoor vastgestelde termijn.
 
 ## HOOFDSTUK IV Bevoegdheid
 
@@ -129,7 +125,7 @@ Met behoud van de toepassing van het eerste lid, geldt bijkomend dat een aanvraa
 <br>
 § 4. Naargelang de bevoegde overheid, versturen het college van burgemeester en schepenen en de deputatie uiterlijk de laatste dag van het openbaar onderzoek hun advies naar de gemeentelijke of provinciale commissie voor ruimtelijke ordening, of naar de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
 <br>
-§&nbsp;5. Het departement verstuurt uiterlijk de laatste dag van het openbaar onderzoek een advies naar de bevoegde overheid.<br>
+§&nbsp;5. ....<br>
 <br>
 § 6. De gemeentelijke commissie voor ruimtelijke ordening, als de gemeenteraad de bevoegde overheid is, of de provinciale commissie voor ruimtelijke ordening, als de&nbsp;provincieraad de bevoegde overheid is, bezorgt haar advies binnen zestig dagen na het einde van het openbaar onderzoek aan die bevoegde overheid. Overeenkomstig artikel 4.4.25, § 4, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening bevat het advies het integrale advies van het departement. Op hetzelfde ogenblik bezorgt de bevoegde commissie voor ruimtelijke ordening de gebundelde adviezen, opmerkingen en bezwaren aan het bevoegde bestuursorgaan.<br>
 <br>
@@ -165,12 +161,12 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met   de ui
 
 ### BIJLAGE 1
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/07/02_1.pdf#page=36">Bijlage   1</A>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/09/10_2.pdf#page=15">Model I voor de aanvraag van een planologisch attest</a>
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/07/02_1.pdf#page=38">Bijlage   2</A>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/09/10_2.pdf#page=18">.Model II Model van een planologisch attest</a>
 
 ### BIJLAGE 3
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/07/02_1.pdf#page=41">Bijlage   3</A><BR><BR>* Met ingang van 8 januari 2016 worden in bijlage 3 de woorden   "aangetekend versturen naar of afgeven bij" vervangen door de woorden   "schriftelijk of digitaal bezorgen aan" (Zie MB 22 januari 2016, art. 1, I: 8   januari 2016).
+<a href="https://www.ejustice.just.fgov.be/mopdf/2024/09/10_2.pdf#page=22">Model III Model voor de bekendmaking van een aanvraag van een planologisch attest</a>
