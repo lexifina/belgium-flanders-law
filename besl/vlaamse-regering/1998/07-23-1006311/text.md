@@ -27,7 +27,8 @@ b) voor de toepassing van hoofdstuk V van dit besluit : de eigenaars, erfpachtho
 18° natuurinrichtingsmaatregelen andere dan kavelruil : de maatregelen bedoeld in artikel 47, § 2, 2°, 3°, 7°, 8°, en 11° van het decreet.<br>
 19° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
 20° ...<br>
-21° het agentschap, bevoegd voor het onroerend erfgoed : het agentschap van het beleidsdomein Omgeving dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed.
+21° het agentschap, bevoegd voor het onroerend erfgoed : het agentschap van het beleidsdomein Omgeving dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed;<br>
+22° Agentschap Landbouw en Zeevisserij: het Agentschap Landbouw en Zeevisserij, opgericht bij het besluit van de Vlaamse Regering van 15 september 2023 tot oprichting van een intern verzelfstandigd agentschap “Landbouw en Zeevisserij”.
 
 ## HOOFDSTUK II AFBAKENING VAN HET VEN EN HET IVON
 
@@ -53,7 +54,7 @@ b) ...<br>
 c) de Vlaamse Milieumaatschappij;<br>
 d) ...<br>
 e) het agentschap, bevoegd voor het onroerend erfgoed;<br>
-f) het departement Landbouw en Visserij;<br>
+f) het Agentschap Landbouw en Zeevisserij;<br>
 g) de watervoorzieningsmaatschappij waarvan:<br>
 - ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
 - ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
@@ -76,7 +77,7 @@ b) ...<br>
 c) de Vlaamse Milieumaatschappij;<br>
 d) ...<br>
 e) het agentschap, bevoegd voor het onroerend erfgoed;<br>
-f) het departement Landbouw en Visserij;<br>
+f) het Agentschap Landbouw en Zeevisserij;<br>
 g) de watervoorzieningsmaatschappij waarvan:<br>
 - ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
 - ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
@@ -100,7 +101,7 @@ De Vlaamse Grondenbank oefent binnen de haar daartoe toegekende budgettaire perk
 <br>
 Voor de uitoefening van het recht van voorkoop van de Vlaamse Grondenbank geeft de instrumenterende ambtenaar kennis zoals bedoeld in art. 37, § 2 en § 3 van het decreet bij ter post aangetekend schrijven of bij gerechtsdeurwaardersexploot aan de Vlaamse Grondenbank.<br>
 <br>
-De Vlaamse Grondenbank wint over elke kennisgeving van recht van voorkoop het advies in van het Agentschap alsook van het departement Landbouw en Visserij wanneer beroepslandbouw aanwezig is en dit op gronden die verpacht zijn en waarop de ontheffing conform het artikel 25, § 3, 2°, 1) of het artikel 26, § 3, 2°, 1) van het decreet van toepassing is en de het Agentschap voor Maritieme Dienstverlening en Kust van het beleidsdomein Mobiliteit en Openbare Werken voor zover het gronden betreft binnen de maritieme duinstreek.<br>
+De Vlaamse Grondenbank wint over elke kennisgeving van recht van voorkoop het advies in van het Agentschap alsook van het Agentschap Landbouw en Zeevisserij wanneer beroepslandbouw aanwezig is en dit op gronden die verpacht zijn en waarop de ontheffing conform het artikel 25, § 3, 2°, 1) of het artikel 26, § 3, 2°, 1) van het decreet van toepassing is en de het Agentschap voor Maritieme Dienstverlening en Kust van het beleidsdomein Mobiliteit en Openbare Werken voor zover het gronden betreft binnen de maritieme duinstreek.<br>
 <br>
 Het voormelde Agentschap verleent haar advies aan de Vlaamse Grondenbank binnen een termijn van 14 kalenderdagen; indien geen advies binnen deze termijn is uitgebracht, wordt het advies geacht gunstig te zijn.<br>
 <br>
@@ -428,7 +429,7 @@ Het projectcomité kan hiervoor een beroep doen op de VLM.<br>
 1° ...<br>
 2° het Departement Omgeving wat betreft de aspecten ruimtelijke ordening, omgevingsvergunningenbeleid&nbsp;en bodembescherming;<br>
 3° ...;<br>
-4° het Departement Landbouw en Visserij<br>
+4° het Agentschap Landbouw en Zeevisserij;<br>
 5° de afdeling Mestbank van de VLM;<br>
 6° de afdeling bodemsanering van de OVAM.
 
