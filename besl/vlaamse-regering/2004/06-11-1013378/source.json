@@ -2,16 +2,16 @@
   "codex_id": 1013378,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 houdende het toekennen van een gewestbijdrage aan grijswaterleveranciers voor de uitbouw van grijswatercircuits ter bescherming van kwetsbare watervoerende lagen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013378/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "74f9d001e698194957cddd18abaa4a1d0dcfc938834789dfe10741f06f6a4d87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013378/VolledigDocument?datum=2024-09-20",
+  "source_sha256": "0518ca3dd4d936d441ad70d7d5da2ad0e7b84915d0050f6a163d1e23465ae8f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013378&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2024-09-20",
   "made": "2004-06-11",
   "gazette": "2004-09-02",
   "numac": 2004036402,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-02-23",
+  "in_force": "2024-09-20",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-20; future article versions excluded; article text as the API gives it"
 }

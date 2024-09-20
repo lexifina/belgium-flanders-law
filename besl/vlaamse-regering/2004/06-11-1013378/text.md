@@ -4,7 +4,13 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° de bevoegde entiteiten : de   Vlaamse Milieumaatschappij, hierna de VMM te noemen, het Agentschap Innoveren en   Ondernemen en het Departement Landbouw en Visserij;<BR>2° ...<BR>3° grijswater:   onderdeel van het tweedecircuitwater, namelijk oppervlaktewater, hemelwater of   het effluent van rioolwaterzuiveringsinstallaties, al dan niet na extra   behandeling;<BR>4° grijswaterleverancier: exploitant van een openbaar   waterdistributienetwerk, zoals bedoeld in het decreet betreffende water bestemd   voor menselijke aanwending van 24 mei 2002, die grijswater aanlevert;<BR>5°   kwetsbare watervoerende lagen : alle grondwaterlichamen in een kwantitatieve   ontoereikende toestand; <BR>6° afnemer : de exploitant in het bezit van een af   te bouwen grondwatervergunning als   vermeld in rubriek 53 van de indelingslijst, als vermeld in artikel 5.2.1, § 1,   van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid, op de locatie waar grijswater wordt   geleverd.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° de bevoegde entiteiten : de Vlaamse Milieumaatschappij, hierna de VMM te noemen, het Agentschap Innoveren en Ondernemen en het Agentschap Landbouw en Zeevisserij;<br>
+2° ...<br>
+3° grijswater: onderdeel van het tweedecircuitwater, namelijk oppervlaktewater, hemelwater of het effluent van rioolwaterzuiveringsinstallaties, al dan niet na extra behandeling;<br>
+4° grijswaterleverancier: exploitant van een openbaar waterdistributienetwerk, zoals bedoeld in het decreet betreffende water bestemd voor menselijke aanwending van 24 mei 2002, die grijswater aanlevert;<br>
+5° kwetsbare watervoerende lagen : alle grondwaterlichamen in een kwantitatieve ontoereikende toestand;<br>
+6° afnemer : de exploitant in het bezit van een af te bouwen grondwatervergunning als vermeld in rubriek 53 van de indelingslijst, als vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, op de locatie waar grijswater wordt geleverd.
 
 ### ART. 2.
 
@@ -28,7 +34,33 @@ Enkel grijswaterleveranciers kunnen in aanmerking komen voor een gewestbijdrage 
 
 ### ART. 6.
 
-§ 1. De bevoegde entiteiten leggen uiterlijk op 1 september van het jaar dat voorafgaat aan het jaar waarop het investeringsprogramma betrekking heeft, een voorstel van investeringsprogramma ter goedkeuring voor aan de respectievelijke ministers.<br /><br />Alle dossiers die aan de vereisten van dit besluit voldoen, worden volgens prioriteit opgenomen in het programma.<br /><br />§ 2. Het voorstel van investeringsprogramma is gebaseerd op de adviezen van een ambtelijke<br />werkgroep die bestaat uit vertegenwoordigers van:<br />1° de bevoegde entiteiten<br />2° de Inspectie van Financiën.<br /><br />§ 3. De criteria voor de opmaak van het investeringsprogramma zijn in volgorde van afnemend belang:<br />1° de mate waarin het project bijdraagt tot de substantiële verbetering van de kwantitatieve toestand van de kwetsbare watervoerende lagen via een reductie van de vergunde grondwaterwinningen;<br />2° de geboden garanties door de afnemers voor de afname van het hen vergunde grondwaterdebiet uit een kwetsbare watervoerende laag, met minstens het equivalent van het geleverde grijswater; <br />3° de effectiviteit van de geplande investering;<br />4° de bedrijfseconomische impact van het project voor de afnemers en de geboden transparantie op middellange en lange termijn over de kostprijs van het grijswater dat geleverd wordt;<br />5° de bedrijfseconomische impact van het project voor de grijswaterleverancier.<br /><br />§ 4. De ministers keuren het investeringsprogramma goed.<br /><br />Het goedgekeurde investeringsprogramma vermeldt de rangschikking van de projecten naar prioriteit volgens de criteria, vermeld in paragraaf 3, en de raming van de gewestbijdrage met vermelding van het subsidiepercentage, berekend overeenkomstig artikel 4, en de verdeling van de gewestbijdrage per project over de bevoegde entiteiten in kwestie. Daarbij geldt dat de helft van de gewestbijdrage per project ten laste is van de leefmilieubegroting. De andere helft is ten laste van de begroting van het Agentschap Ondernemen en het Departement Landbouw en Visserij op basis van een correcte verdeling van de kosten, evenredig met de kosten die noodzakelijk zijn voor de levering van grijswater aan de industriële bedrijven enerzijds en aan de land- en tuinbouwbedrijven anderzijds.<br /><br />De VMM stelt de begunstigde initiatiefnemer hiervan in kennis vóór 1 november van het jaar dat voorafgaat aan het investeringsjaar.<br /><br />De opname in het investeringsprogramma impliceert geen verbintenis van het Vlaamse Gewest.<br /><br />§ 5. In afwijking van paragraaf 1 leggen de bevoegde entiteiten een voorstel van investeringsprogramma ter goedkeuring voor aan de ministers, uiterlijk op 1 juli 2010 voor het jaar 2010 en uiterlijk op 1 maart 2011 voor het jaar 2011. In afwijking van paragraaf 4 wordt de begunstigde initiatiefnemer op de hoogte gebracht van het goedgekeurde programma, uiterlijk op 15 juli 2010 voor het jaar 2010 en uiterlijk op 15 maart 2011 voor het jaar 2011.<br /><br />§ 6. De werken die aan de vereisten van dit besluit voldoen en waarvoor geen gewestbijdrage wordt verleend, worden door de bevoegde entiteiten bij de principeaanvragen voor het volgende investeringsprogramma gevoegd. Ze worden dan samen met de ingediende principeaanvragen gerangschikt naar prioriteit.
+§ 1. De bevoegde entiteiten leggen uiterlijk op 1 september van het jaar dat voorafgaat aan het jaar waarop het investeringsprogramma betrekking heeft, een voorstel van investeringsprogramma ter goedkeuring voor aan de respectievelijke ministers.<br>
+<br>
+Alle dossiers die aan de vereisten van dit besluit voldoen, worden volgens prioriteit opgenomen in het programma.<br>
+<br>
+§ 2. Het voorstel van investeringsprogramma is gebaseerd op de adviezen van een ambtelijke<br>
+werkgroep die bestaat uit vertegenwoordigers van:<br>
+1° de bevoegde entiteiten<br>
+2° de Inspectie van Financiën.<br>
+<br>
+§ 3. De criteria voor de opmaak van het investeringsprogramma zijn in volgorde van afnemend belang:<br>
+1° de mate waarin het project bijdraagt tot de substantiële verbetering van de kwantitatieve toestand van de kwetsbare watervoerende lagen via een reductie van de vergunde grondwaterwinningen;<br>
+2° de geboden garanties door de afnemers voor de afname van het hen vergunde grondwaterdebiet uit een kwetsbare watervoerende laag, met minstens het equivalent van het geleverde grijswater;<br>
+3° de effectiviteit van de geplande investering;<br>
+4° de bedrijfseconomische impact van het project voor de afnemers en de geboden transparantie op middellange en lange termijn over de kostprijs van het grijswater dat geleverd wordt;<br>
+5° de bedrijfseconomische impact van het project voor de grijswaterleverancier.<br>
+<br>
+§ 4. De ministers keuren het investeringsprogramma goed.<br>
+<br>
+Het goedgekeurde investeringsprogramma vermeldt de rangschikking van de projecten naar prioriteit volgens de criteria, vermeld in paragraaf 3, en de raming van de gewestbijdrage met vermelding van het subsidiepercentage, berekend overeenkomstig artikel 4, en de verdeling van de gewestbijdrage per project over de bevoegde entiteiten in kwestie. Daarbij geldt dat de helft van de gewestbijdrage per project ten laste is van de leefmilieubegroting. De andere helft is ten laste van de begroting van het Agentschap Ondernemen en het Agentschap Landbouw en Zeevisserij op basis van een correcte verdeling van de kosten, evenredig met de kosten die noodzakelijk zijn voor de levering van grijswater aan de industriële bedrijven enerzijds en aan de land- en tuinbouwbedrijven anderzijds.<br>
+<br>
+De VMM stelt de begunstigde initiatiefnemer hiervan in kennis vóór 1 november van het jaar dat voorafgaat aan het investeringsjaar.<br>
+<br>
+De opname in het investeringsprogramma impliceert geen verbintenis van het Vlaamse Gewest.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 leggen de bevoegde entiteiten een voorstel van investeringsprogramma ter goedkeuring voor aan de ministers, uiterlijk op 1 juli 2010 voor het jaar 2010 en uiterlijk op 1 maart 2011 voor het jaar 2011. In afwijking van paragraaf 4 wordt de begunstigde initiatiefnemer op de hoogte gebracht van het goedgekeurde programma, uiterlijk op 15 juli 2010 voor het jaar 2010 en uiterlijk op 15 maart 2011 voor het jaar 2011.<br>
+<br>
+§ 6. De werken die aan de vereisten van dit besluit voldoen en waarvoor geen gewestbijdrage wordt verleend, worden door de bevoegde entiteiten bij de principeaanvragen voor het volgende investeringsprogramma gevoegd. Ze worden dan samen met de ingediende principeaanvragen gerangschikt naar prioriteit.
 
 ### ART. 7.
 
@@ -63,7 +95,7 @@ Na 1 oktober kunnen de ministers het saldo van de begroting besteden aan de rese
 <br>
 Bij de goedkeuring van de gedetailleerde kostenraming van de werken wordt bepaald voor welke posten van het ontwerpdossier een gewestbijdrage wordt verleend.<br>
 <br>
-Daarbij geldt dat de helft van de gewestbijdrage per project ten laste is van de leefmilieubegroting. De andere helft is ten laste van de begroting van het Agentschap Ondernemen en het Departement Landbouw en Visserij op basis van een correcte verdeling van de kosten, evenredig met de kosten die noodzakelijk zijn voor de levering van grijswater aan de industriële bedrijven enerzijds en aan de land- en tuinbouwbedrijven anderzijds.<br>
+Daarbij geldt dat de helft van de gewestbijdrage per project ten laste is van de leefmilieubegroting. De andere helft is ten laste van de begroting van het Agentschap Ondernemen en het Agentschap Landbouw en Zeevisserij op basis van een correcte verdeling van de kosten, evenredig met de kosten die noodzakelijk zijn voor de levering van grijswater aan de industriële bedrijven enerzijds en aan de land- en tuinbouwbedrijven anderzijds.<br>
 <br>
 § 6. Als de gewestbijdrage niet meer dan 10 % hoger is dan het bedrag, opgenomen in het goedgekeurde investeringsprogramma, kan de gewestbijdrage worden verleend door de bevoegde entiteiten.<br>
 <br>
