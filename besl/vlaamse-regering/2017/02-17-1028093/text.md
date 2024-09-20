@@ -136,11 +136,19 @@ De instanties waaraan de bevoegde overheid conform artikel 2.2.7, § 2, eerste l
 <br>
 De bevoegde overheid kan naast de instanties, vermeld in het eerste lid, op elk moment andere instanties raadplegen waarvan ze het advies nuttig acht.<br>
 <br>
-Door de documenten, vermeld in artikel 4, § 1, eerste lid en § 4 van dit besluit, op te laden verstuurt het digitale platform automatisch een adviesvraag naar de instanties overeenkomstig artikel 2.2.7, § 2, artikel 2.2.12, § 2, artikel 2.2.18, § 2, artikel 2.2.9, eerste lid, artikel 2.2.14, eerste lid, en artikel 2.2.20, eerste lid van de Vlaamse Codex Ruimtelijke Ordening.<br>
+Door de documenten, vermeld in artikel 4, §1, eerste lid, §4 en §5, van dit besluit, op te laden en daarbij de instanties aan te wijzen die om advies worden gevraagd verstuurt het digitale platform automatisch een adviesvraag naar de instanties overeenkomstig artikel 2.2.7, § 2, artikel 2.2.12, § 2, artikel 2.2.18, § 2, artikel 2.2.9, eerste lid, artikel 2.2.14, eerste lid, artikel 2.2.20, eerste lid, artikel 2.2.10, §4, artikel 2.2.15, §4 en 2.2.21, §4 van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
 De bevraagde instanties laden hun advies op in het digitale platform.<br>
 <br>
 In afwijking van het derde en vierde lid, kan de communicatie tussen de bevoegde overheid en andere landen, andere gewesten of de federale overheid, gebeuren via het digitale platform, schriftelijk of digitaal.
+
+### ART 7/1.
+
+De bevoegde overheid laadt het provinciaal of gemeentelijk ruimtelijk uitvoeringsplan samen met het besluit van de provincieraad of gemeenteraad en het volledige advies van de bevoegde commissie voor ruimtelijke ordening, op in het digitale platform onmiddellijk na de definitieve vaststelling.<br>
+<br>
+Door de documenten, vermeld in het eerste lid, op te laden verstuurt het digitale platform automatisch een bericht naar het departement en, in voorkomend geval naar de deputatie conform artikel 2.2.16, §1 en §4, tweede lid, artikel 2.2.22 en 2.2.23, §3, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening. Dit bericht geldt als beveiligde zending als vermeld in artikel 2.2.16, §1 en §4, tweede lid, artikel 2.2.22 en 2.2.23, §3, tweede lid, van de voormelde codex.<br>
+<br>
+De Vlaamse Regering en de deputatie laden het schorsings- of vernietigingsbesluit, vermeld in artikel 2.2.16, §2, en artikel 2.2.23, §1, van de voormelde codex, op in het digitale platform. Door dit document op te laden verstuurt het digitale platform automatisch een bericht naar de bevoegde overheid. Dit bericht geldt als beveiligde zending als vermeld in artikel 2.2.16, §2, en artikel 2.2.23, §1, van de voormelde codex.
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
@@ -277,7 +285,7 @@ d) geheel of gedeeltelijk beschermd zijn als archeologische site;<br>
 e) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of gedeeltelijk bestemd zijn als woongebied met cultuurhistorische waarde of gemengd open ruimtegebied met cultuurhistorische waarde;<br>
 2° de gronden die binnen de begrenzing van het voorgenomen uitvoeringsplan liggen, een bestemming woongebied of gemengd open ruimtegebied met cultuurhistorische waarde krijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
 3° het voorgenomen uitvoeringsplan aanzienlijke effecten zou kunnen hebben op het landschap, de stoffelijke goederen of het cultureel erfgoed, met inbegrip van het architectonisch en archeologisch erfgoed;<br>
-1.4. het Departement Landbouw en Visserij als:<br>
+1.4. het Agentschap Landbouw en Zeevisserij als:<br>
 1° de gronden die binnen de begrenzing van het voorgenomen uitvoeringsplan liggen, volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of gedeeltelijk bestemd zijn als agrarisch gebied of als een daarmee vergelijkbaar gebied;<br>
 2° de gronden die binnen de begrenzing van het voorgenomen uitvoeringsplan liggen, de bestemming agrarisch gebied of een daarmee vergelijkbare bestemming verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
 3° het voorgenomen uitvoeringsplan aanzienlijke effecten zou kunnen hebben op landbouw of visserij;<br>
