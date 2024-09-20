@@ -3,7 +3,7 @@
 ### ART. 1.
 
 Over een ontwerp van provinciaal ruimtelijk structuurplan wordt bij de bevoegde adviescommissie advies uitgebracht door :<br>
-1° het Departement Landbouw en Visserij;<br>
+1° het Agentschap Landbouw en Zeevisserij;;<br>
 2° ...<br>
 3° het Departement Mobiliteit en Openbare Werken;<br>
 4° het Departement Omgeving;<br>
