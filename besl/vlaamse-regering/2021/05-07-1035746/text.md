@@ -845,17 +845,17 @@ d)&nbsp;&nbsp; &nbsp;in voorkomend geval de monitoringsmaatregelen in het kader 
 8°&nbsp;&nbsp; &nbsp;in voorkomend geval de kennisgeving van het voorgenomen plan-milieueffectrapport, vermeld in artikel 4.2.8, §1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 <br>
 §3. De waterbeheerder of de coördinerende waterbeheerder vraagt advies aan de volgende instanties over de oriëntatienota, vermeld in paragraaf 2:<br>
-1°&nbsp;&nbsp; &nbsp;het college van burgemeester en schepenen van de gemeenten waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft;<br>
-2°&nbsp;&nbsp; &nbsp;de overige waterbeheerders die waterlopen of publieke grachten beheren in het gebied in kwestie;<br>
-3°&nbsp;&nbsp; &nbsp;het Agentschap voor Natuur en Bos;<br>
-4°&nbsp;&nbsp; &nbsp;het Departement Landbouw en Visserij;<br>
-5°&nbsp;&nbsp; &nbsp;het Agentschap Onroerend Erfgoed als een cultuurhistorisch landschap als vermeld in artikel 2.1, 22°, van het Onroerenderfgoeddecreet van 12 juli 2013, deel uitmaakt van het gebied waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft, of daaraan paalt;<br>
-6°&nbsp;&nbsp; &nbsp;in voorkomend geval de afdeling, bevoegd voor milieueffectrapportage;<br>
-7°&nbsp;&nbsp; &nbsp;de deputatie van de provincie(s) waarin het grondgebied ligt waarop het peilbesluit betrekking heeft;<br>
-8°&nbsp;&nbsp; &nbsp;de Vlaamse Milieumaatschappij;<br>
-9°&nbsp;&nbsp; &nbsp;de exploitant van een openbaar waterdistributienetwerk als het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, van toepassing is op waterlopen die gebruikt worden voor de onttrekking van de productie van water, bestemd voor menselijke consumptie;<br>
-10°&nbsp;&nbsp; &nbsp;de CIW;<br>
-11°&nbsp;&nbsp; &nbsp;in voorkomend geval een ander gewest, een andere lidstaat van de Europese Unie of de federale overheid als uit de aanmelding, vermeld in paragraaf 2, 8°, blijkt dat het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken.<br>
+1° het college van burgemeester en schepenen van de gemeenten waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft;<br>
+2° de overige waterbeheerders die waterlopen of publieke grachten beheren in het gebied in kwestie;<br>
+3° het Agentschap voor Natuur en Bos;<br>
+4° het Agentschap Landbouw en Zeevisserij;<br>
+5° het Agentschap Onroerend Erfgoed als een cultuurhistorisch landschap als vermeld in artikel 2.1, 22°, van het Onroerenderfgoeddecreet van 12 juli 2013, deel uitmaakt van het gebied waarop het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, betrekking heeft, of daaraan paalt;<br>
+6° in voorkomend geval de afdeling, bevoegd voor milieueffectrapportage;<br>
+7° de deputatie van de provincie(s) waarin het grondgebied ligt waarop het peilbesluit betrekking heeft;<br>
+8° de Vlaamse Milieumaatschappij;<br>
+9° de exploitant van een openbaar waterdistributienetwerk als het peilbesluit, vermeld in artikel 26/2, §4, van dit besluit, van toepassing is op waterlopen die gebruikt worden voor de onttrekking van de productie van water, bestemd voor menselijke consumptie;<br>
+10° de CIW;<br>
+11° in voorkomend geval een ander gewest, een andere lidstaat van de Europese Unie of de federale overheid als uit de aanmelding, vermeld in paragraaf 2, 8°, blijkt dat het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken.<br>
 <br>
 De waterbeheerder of de coördinerende waterbeheerder, vermeld in artikel 26/2, §1 en §2, bezorgt de oriëntatienota, vermeld in , §2, aan de adviesinstanties, vermeld in het eerste lid. De adviesinstanties, vermeld in het eerste lid, met uitzondering van punt 6°, geven advies binnen zestig dagen nadat ze de adviesvraag, vermeld in het eerste lid, hebben ontvangen. Als er geen advies wordt verleend binnen de voormelde termijn, wordt het advies geacht gunstig te zijn.&nbsp;<br>
 <br>
