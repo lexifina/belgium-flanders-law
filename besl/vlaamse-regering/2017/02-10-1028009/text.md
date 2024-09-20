@@ -20,7 +20,7 @@ Besluit :
 
 ### ART 1.
 
-&nbsp;Het openbaar onderzoek over stedenbouwkundige verordeningen wordt, naast de wijze van bekendmaking, vermeld in artikel 2.3.1, zevende lid, en artikel 2.3.2, § 1, vijfde lid, en § 2, zevende lid, van de Vlaamse Codex Ruimtelijke Ordening, bekendgemaakt door:<br>
+&nbsp;Het openbaar onderzoek over stedenbouwkundige verordeningen wordt, naast de wijze van bekendmaking, vermeld in artikel 2.3.1, §2, derde lid, en artikel 2.3.2, §1, vijfde lid, en §2, zesde lid van de Vlaamse Codex Ruimtelijke Ordening, bekendgemaakt door:<br>
 1° als het een gewestelijke stedenbouwkundige verordening betreft:<br>
 a) een bericht op de website van het departement;<br>
 b) een bericht in twee dag- of weekbladen die minstens in het Vlaamse Gewest verschijnen;<br>
@@ -31,13 +31,13 @@ b) een bericht in een dag- of weekblad dat minstens in de betrokken provincie ve
 a) een bericht op de website van de gemeente;<br>
 b) een bericht in lokaal drukwerk dat minstens in alle brievenbussen van de gemeente wordt verspreid. Als het lokaal drukwerk als publiciteit wordt beschouwd, hoeft het niet te worden verspreid in de brievenbussen waarop een aanduiding is aangebracht dat de bewoners geen publiciteit wensen te ontvangen.<br>
 <br>
-Het bericht, vermeld in artikel 2.3.1, zevende lid, en artikel 2.3.2, § 1, vijfde lid, en § 2, zevende lid, van voormelde codex en in het eerste lid, vermeldt minstens:<br>
+Het bericht, vermeld in artikel 2.3.1, §2, derde lid, en artikel 2.3.2, §1, vijfde lid, en §2, zesde lid van voormelde codex en in het eerste lid, vermeldt minstens:<br>
 1° het onderwerp van het ontwerp van verordening;<br>
 2° de plaats waar het ontwerp van verordening ter inzage ligt;<br>
 3° de begin- en einddatum van het openbaar onderzoek;<br>
 4° het adres of de adressen waarnaar opmerkingen of bezwaren worden gestuurd of kunnen worden afgegeven.<br>
 <br>
-Het bericht, vermeld in artikel 2.3.1, zevende lid, en artikel 2.3.2, § 1, vijfde lid, en § 2, zevende lid, van voormelde codex en in het eerste lid, wordt uiterlijk de dag voor de start van het openbaar onderzoek bekend gemaakt.
+Het bericht, vermeld in artikel 2.3.1, §2, derde lid, en artikel 2.3.2, §1, vijfde lid, en §2, zesde lid van voormelde codex en in het eerste lid, wordt uiterlijk de dag voor de start van het openbaar onderzoek bekend gemaakt.
 
 ### ART 2.
 
