@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040207,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van diverse bepalingen inzake leefmilieu en ruimtelijke ordening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040207/VolledigDocument?datum=2024-09-20",
+  "source_sha256": "44e3bb584bb6dd8a269d1706a6601dcaaab8b4fec9abc86e1c13e11c6b40c4ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040207&param=informatie",
+  "as_of": "2024-09-20",
+  "made": "2024-07-19",
+  "gazette": "2024-09-10",
+  "numac": 2024008289,
+  "document_start": "2024-09-20",
+  "document_end": null,
+  "in_force": "2024-09-20",
+  "article_versions": 71,
+  "record_form": "consolidated version as in force on 2024-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
