@@ -176,7 +176,7 @@ De Vlaamse minister bevoegd voor het plattelandsbeleid kan de elementen, vermeld
 2° één vertegenwoordiger namens de Vlaamse minister-president en één vertegenwoordiger per Vlaamse viceminister-president;<br>
 3° één vertegenwoordiger per deputatie, die de deputaties voordragen.&nbsp;<br>
 <br>
-De Vlaamse minister bevoegd voor het plattelandsbeleid benoemt de stemgerechtigde leden op voordracht van de ministers en instellingen, vermeld in het eerste lid. Een vertegenwoordiger van het Departement Landbouw en Visserij, vermeld in artikel 26, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, neemt deel aan het VMC als raadgevend lid.&nbsp;<br>
+De Vlaamse minister bevoegd voor het plattelandsbeleid benoemt de stemgerechtigde leden op voordracht van de ministers en instellingen, vermeld in het eerste lid. Een vertegenwoordiger van het het Agentschap Landbouw en Zeevisserij, opgericht bij het besluit van de Vlaamse Regering van 15 september 2023 tot oprichting van een intern verzelfstandigd agentschap “Landbouw en Zeevisserij”, neemt deel aan het VMC als raadgevend lid.&nbsp;<br>
 <br>
 Voor elk voorgedragen stemgerechtigd lid wordt een plaatsvervanger voordragen, die als plaatsvervangend lid wordt benoemd. Een plaatsvervangend lid neemt bij afwezigheid van het lid deel aan de werkzaamheden van het comité en treedt in de rechten van dat lid.&nbsp;<br>
 <br>
