@@ -64,7 +64,7 @@ Ontwerp-plannen, plannen en verordeningen die worden opgeheven of op enige ander
 
 ### ART. 15.
 
-Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wil opmaken, actueel houden, uitwisselen of publiceren, moet ze rekening houden met de technische aanbeveling aangaande de uitwisseling van digitale geografische gegevens voor het plannenregister, die ter beschikking wordt gesteld door het Departement RWO, in samenspraak met het agentschap Digitaal Vlaanderen.
+Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wil opmaken, actueel houden, uitwisselen of publiceren, moet ze rekening houden met de technische richtlijnen voor uitwisseling van digitale stedenbouwkundige informatie, die de Vlaamse Overheid ter beschikking stelt.
 
 ### ART. 16.
 
