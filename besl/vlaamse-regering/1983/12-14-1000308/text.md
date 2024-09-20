@@ -95,24 +95,12 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 - de geschillenadviescommissie betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit.<br>
 <br>
 7. Ruimtelijke ordening en leefmilieu:<br>
-- Vlaamse Heraldische Raad;<br>
 - Commissie bedoeld in het koninklijk besluit van 4 april 1972 houdende vaststelling van de algemene eisen betreffende de brandveiligheid in de hoge gebouwen;<br>
 - Commissie van advies bij onteigeningsplannen voor het Vlaamse Gewest;<br>
 - Consultatieve Commissie-motorsport;<br>
-- Vlaamse Commissie Onroerend Erfgoed;<br>
-- Milieu- en Natuurraad van Vlaanderen;<br>
-- Vlaamse Hoge Raad voor Natuurbehoud;<br>
-- Vlaamse Hoge Bosraad;<br>
-- Vlaamse Hoge Jachtraad;<br>
-- Vlaamse Hoge Raad voor de Riviervisserij;<br>
 - Provinciale Visserijcommissie en het Centraal Comité van het Visserijfonds;<br>
-- de commissie bedoeld bij artikel 3 van het besluit van de Vlaamse regering van 13 juli 1994 tot invoering van een afschotplan voor reewild;<br>
-- Beheerscomité van het Vlaams Impulsprogramma Natuurontwikkeling;<br>
 - de adviescommissies bosreservaten genoemd in artikel 27 van het bosdecreet;<br>
 - erkenningscomité en comité van beroep van de erkenning van kopers en exploitanten van hout overeenkomstig artikel 79 van het Bosdecreet van 13 juni 1990;<br>
-- de kapitaalschadecommissies vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 juli 2009 tot oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie ter uitvoering van het decreet grond- en pandenbeleid;<br>
-- Vlaamse Commissie voor Varend Erfgoed;<br>
-- de deskundigen van de Gewestelijke Omgevingsvergunningscommissie.<br>
 - de adviesinstantie, vermeld in artikel 16decies, § 1 en § 2, en artikel 16undecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 <br>
 8. Betrekkingen:<br>
