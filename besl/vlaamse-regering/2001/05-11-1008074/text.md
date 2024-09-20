@@ -22,7 +22,7 @@ d) ...;<br>
 e) geheel of ten dele deel uitmaken van een in het voorontwerp afgebakend erfgoedlandschap, van een reeds eerder afgebakend erfgoedlandschap of geheel of ten dele opgenomen zijn in de vastgestelde landschapsatlas;<br>
 f) geheel of ten dele beschermd zijn als archeologische site;<br>
 3° ...<br>
-4° het departement Landbouw en Visserij, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
+4° het Agentschap Landbouw en Zeevisserij, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
 a) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele zijn bestemd als agrarisch gebied of als een ermee vergelijkbaar gebied;<br>
 b) deze bestemming verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
 5° het Agentschap voor Natuur en Bos, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
