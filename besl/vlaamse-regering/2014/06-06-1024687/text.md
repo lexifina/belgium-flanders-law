@@ -19,10 +19,11 @@ Op 23 april 2014 is de Raad van State, afdeling Wetgeving, door de Vlaamse   min
 ### ART. 1.1.1.1.
 
 In dit besluit wordt verstaan onder:<br>
+0° Agentschap Landbouw en Zeevisserij: &nbsp;het Agentschap Landbouw en Zeevisserij, opgericht bij het besluit van de Vlaamse Regering van 15 september 2023 tot oprichting van een intern verzelfstandigd agentschap “Landbouw en Zeevisserij”;<br>
 1° beveiligde zending: een aangetekende brief, een afgifte tegen ontvangstbewijs of elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 2° bruto saldo: de geldwaarde van de jaarlijkse bruto productie verminderd met de jaarlijkse bijhorende variabele kosten. De bruto productie is gelijk aan de som van de waarde van de geproduceerde hoofd- en bijproducten en andere opbrengsten. De variabele kosten zijn de kosten die toenemen of afnemen naargelang een toename of afname van de productie;<br>
 3° decreet van 28 maart 2014: het decreet van 28 maart 2014 betreffende de landinrichting;<br>
-4° departement: het departement Landbouw en Visserij;<br>
+4° ...;<br>
 5° ...;<br>
 6° gewestelijk vergelijkbaar inkomen: vertegenwoordigt het gemiddeld bruto salaris van alle loontrekkenden in Vlaanderen. Het wordt verkregen door de verhouding te nemen van de totale loonmassa die in Vlaanderen wordt betaald en het globale aantal loontrekkenden, omgerekend naar voltijdse arbeidskrachten;<br>
 7° landbouwer in hoofdberoep:<br>
@@ -78,7 +79,13 @@ Voor de taken, vermeld in artikel 1.2.1.1, die het agentschap uitoefent   ter vo
 
 ### ART. 2.1.1.2.
 
-<P>§ 1. De vestiging van de erfdienstbaarheden tot openbaar nut die gericht zijn   op de activiteiten, vermeld in artikel 2.1.3, derde lid van het decreet van 28   maart 2014, wordt bekendgemaakt in het Belgisch Staatsblad conform de bepalingen   van artikel 3.3.1.6, 4.2.1.6, § 2, artikel 4.2.2.6, § 2 of artikel 4.2.3.6, § 2   van dit besluit.<BR></P>  <P>§ 2. De erfdienstbaarheden tot openbaar nut, die gericht zijn op de   instandhouding van inrichtingswerken uit kracht van wet als vermeld in artikel   2.1.1, tweede lid, van het decreet van 28 maart 2014 worden gevestigd bij   besluit tot vestiging van de erfdienstbaarheden tot openbaar nut, na uitvoering   van de betrokken inrichtingswerken uit kracht van wet.<BR></P>  <P>Het besluit tot vestiging van de erfdienstbaarheden tot openbaar nut wordt   door het agentschap bekendgemaakt in het Belgisch Staatsblad. Het besluit tot   vestiging van de erfdienstbaarheden tot openbaar nut bevat overeenkomstig   artikel 2.1.3, tweede lid van het decreet van 28 maart 2014 ten minste de   volgende gegevens: de kadastrale gegevens van de percelen waarop   erfdienstbaarheden tot openbaar nut worden gevestigd, met de beschrijving van de   erfdienstbaarheid die wordt gevestigd.<BR></P>  <P>§ 3. De erfdienstbaarheden tot openbaar nut, gevestigd bij het besluit tot   vestiging van de erfdienstbaarheden tot openbaar nut, vermeld in paragraaf 2, en   de erfdienstbaarheden gevestigd bij het landinrichtingsplan of de   inrichtingsnota, vermeld in paragraaf 1, worden door de instrumenterende   ambtenaar opgenomen in een authentieke akte. De authentieke akte wordt, conform   artikel 1 van Boek III, titel XVIII van het Burgerlijk Wetboek, overgeschreven   op het kantoor voor bewaring van hypotheken. Na de hypothecaire overschrijving   bezorgt de instrumenterende ambtenaar een eensluidend verklaard uittreksel uit   de authentieke akte aan de betrokken eigenaars.<BR></P>
+<p>§ 1. De vestiging van de erfdienstbaarheden tot openbaar nut die gericht zijn op de activiteiten, vermeld in artikel 2.1.3, derde lid van het decreet van 28 maart 2014, wordt bekendgemaakt in het Belgisch Staatsblad conform de bepalingen van artikel 3.3.1.6, 4.2.1.6, § 2, artikel 4.2.2.6, § 2 of artikel 4.2.3.6, § 2 van dit besluit.</p>
+
+<p>§ 2. De erfdienstbaarheden tot openbaar nut, die gericht zijn op de instandhouding van inrichtingswerken uit kracht van wet als vermeld in artikel 2.1.1, tweede lid, van het decreet van 28 maart 2014 worden gevestigd bij besluit tot vestiging van de erfdienstbaarheden tot openbaar nut, na uitvoering van de betrokken inrichtingswerken uit kracht van wet.</p>
+
+<p>Het besluit tot vestiging van de erfdienstbaarheden tot openbaar nut wordt door het agentschap bekendgemaakt in het Belgisch Staatsblad. Het besluit tot vestiging van de erfdienstbaarheden tot openbaar nut bevat overeenkomstig artikel 2.1.3, tweede lid van het decreet van 28 maart 2014 ten minste de volgende gegevens: de kadastrale gegevens van de percelen waarop erfdienstbaarheden tot openbaar nut worden gevestigd, met de beschrijving van de erfdienstbaarheid die wordt gevestigd.</p>
+
+<p>§ 3. De erfdienstbaarheden tot openbaar nut, gevestigd bij het besluit tot vestiging van de erfdienstbaarheden tot openbaar nut, vermeld in paragraaf 2, en de erfdienstbaarheden gevestigd bij het landinrichtingsplan of de inrichtingsnota, vermeld in paragraaf 1, worden door de instrumenterende ambtenaar opgenomen in een authentieke akte. De authentieke akte wordt, conform artikel 3.30 van het Burgerlijk Wetboek, overgeschreven op het bevoegd kantoor van de Algemene Administratie van de patrimoniumdocumentatie. Na de hypothecaire overschrijving bezorgt de instrumenterende ambtenaar een eensluidend verklaard uittreksel uit de authentieke akte aan de betrokken eigenaars.</p>
 
 ## Afdeling 3 Vergoeding voor waardeverlies van gronden
 
@@ -328,7 +335,7 @@ De aanvrager kan binnen de termijn van 18 maanden na de eerste kennisgeving, ver
 
 <p>Als de aanvrager geen eigenaar is van de bedrijfsgebouwen en onroerende constructies die betrokken zijn bij de bedrijfsverplaatsing, bedraagt de niet-forfaitaire vergoeding voor hervestiging van de bedrijfsgebouwen en onroerende constructies die bij de uitrusting van het bedrijf horen maximaal 40 % van de totale kostprijs voor de heroprichting van bedrijfsgebouwen en onroerende constructies die bij de uitrusting van het bedrijf horen met dezelfde productiecapaciteit en actuele technieken, materialen, uitrusting en installaties.</p>
 
-<p>De landcommissie wint het advies in bij het departement over de totale kostprijs voor de heroprichting van bedrijfsgebouwen en onroerende constructies die bij de uitrusting van het bedrijf horen, met dezelfde productiecapaciteit en de actuele technieken, materialen, uitrusting en installaties.<br>
+<p>De landcommissie wint het advies in bij het Agentschap Landbouw en Zeevisserij over de totale kostprijs voor de heroprichting van bedrijfsgebouwen en onroerende constructies die bij de uitrusting van het bedrijf horen, met dezelfde productiecapaciteit en de actuele technieken, materialen, uitrusting en installaties.<br>
 <br>
 § 4. In afwijking van paragraaf 3 berekent de landcommissie de vergoeding voor de directe en de indirecte kosten en voor de investeringen die verbonden zijn aan de vrijwillige bedrijfsverplaatsing voor landbouwbedrijven die meer dan of gelijk aan 5% bijdragen aan de kritische depositiewaarde van een habitat dat zich binnen een Habitatrichtlijngebied bevindt op de volgende wijze:<br>
 <br>
@@ -356,7 +363,17 @@ Het percentage, vermeld in het derde lid, kan met 20% worden verhoogd voor jonge
 
 ### ART. 2.1.4.8.
 
-<P>§ 1. De landcommissie berekent de eventuele aankoopprijs van de onroerende   goederen die naar aanleiding van de vrijwillige bedrijfsstopzetting aangekocht   zullen worden. De aankoopprijs wordt berekend op basis van de vergoedingsregels   die gelden voor onteigening ten algemenen nutte, en de bepalingen van artikel   2.1.75, derde en vierde lid, van het decreet van 28 maart 2014.<BR></P>  <P>§ 2. De landcommissie berekent de vergoeding voor het verlies van het gebruik   van de onroerende goederen die al dan niet in eigendom zijn van de aanvrager,   waarvan het gebruik naar aanleiding van de vrijwillige bedrijfsstopzetting   stopgezet zal worden. De vergoeding voor het verlies van het gebruik wordt   berekend op basis van de vergoedingsregels die gelden voor onteigening ten   algemenen nutte.<BR></P>  <P>§ 3. De landcommissie berekent de vergoeding voor de directe en indirecte   kosten en voor het inkomensverlies die gepaard gaan met de vrijwillige   bedrijfsstopzetting.<BR></P>  <P>De vergoeding is gelijk aan het jaarlijkse bruto saldo van de teelten en   dieren die aanwezig zijn op het bedrijf, vermenigvuldigd met het verschil tussen   65 en de leeftijd van de aanvrager op het moment van de aanvraag.<BR></P>  <P>De landcommissie kan de vergoeding berekenen op basis van bedrijfseconomische   boekhoudgegevens voor zover de aanvrager een bedrijfseconomische of een   bewijskrachtige fiscale boekhouding kan voorleggen, vermeld in artikel 4 van het   besluit van de Vlaamse regering van 24 november 2000 betreffende steun aan de   investeringen en aan de installatie in de landbouw, en met een termijn van vier   jaar voorafgaandelijk aan de aanvraag.<BR></P>  <P>De landcommissie wint het advies in bij het departement over het jaarlijkse   bruto saldo, als gemiddeld bruto saldo van de laatste vier bekende jaarlijkse   bruto saldi van de teelten en dieren die aanwezig zijn op het bedrijf en over de   berekening van de vergoeding op basis van bedrijfseconomische   boekhoudgegevens.<BR></P>
+<p>§ 1. De landcommissie berekent de eventuele aankoopprijs van de onroerende goederen die naar aanleiding van de vrijwillige bedrijfsstopzetting aangekocht zullen worden. De aankoopprijs wordt berekend op basis van de vergoedingsregels die gelden voor onteigening ten algemenen nutte, en de bepalingen van artikel 2.1.75, derde en vierde lid, van het decreet van 28 maart 2014.</p>
+
+<p>§ 2. De landcommissie berekent de vergoeding voor het verlies van het gebruik van de onroerende goederen die al dan niet in eigendom zijn van de aanvrager, waarvan het gebruik naar aanleiding van de vrijwillige bedrijfsstopzetting stopgezet zal worden. De vergoeding voor het verlies van het gebruik wordt berekend op basis van de vergoedingsregels die gelden voor onteigening ten algemenen nutte.</p>
+
+<p>§ 3. De landcommissie berekent de vergoeding voor de directe en indirecte kosten en voor het inkomensverlies die gepaard gaan met de vrijwillige bedrijfsstopzetting.</p>
+
+<p>De vergoeding is gelijk aan het jaarlijkse bruto saldo van de teelten en dieren die aanwezig zijn op het bedrijf, vermenigvuldigd met het verschil tussen 65 en de leeftijd van de aanvrager op het moment van de aanvraag.</p>
+
+<p>De landcommissie kan de vergoeding berekenen op basis van bedrijfseconomische boekhoudgegevens voor zover de aanvrager een bedrijfseconomische of een bewijskrachtige fiscale boekhouding kan voorleggen, vermeld in artikel 4 van het besluit van de Vlaamse regering van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw, en met een termijn van vier jaar voorafgaandelijk aan de aanvraag.</p>
+
+<p>De landcommissie wint het advies in bij het Agentschap Landbouw en Zeevisserij over het jaarlijkse bruto saldo, als gemiddeld bruto saldo van de laatste vier bekende jaarlijkse bruto saldi van de teelten en dieren die aanwezig zijn op het bedrijf en over de berekening van de vergoeding op basis van bedrijfseconomische boekhoudgegevens.</p>
 
 ## Afdeling 4 Vrijwillige bedrijfsreconversie
 
@@ -541,8 +558,8 @@ c) één deskundig is op het gebied van natuurlijke rijkdommen;<br>
 5° ...<br>
 6° ...<br>
 7° een vertegenwoordiger van het Agentschap voor Natuur en Bos, voorgedragen door de leidend ambtenaar;<br>
-8° een vertegenwoordiger van het departement, bevoegd voor landbouw en visserij, voorgedragen door de leidend ambtenaar;<br>
-9° een vertegenwoordiger van het Agentschap Landbouw en Visserij, voorgedragen door de leidend ambtenaar;<br>
+8° twee vertegenwoordigers van het Agentschap Landbouw en Zeevisserij, die de leidend ambtenaar voordraagt;<br>
+9° ...;<br>
 10° een vertegenwoordiger van de Vlaamse Milieumaatschappij, voorgedragen door de leidend ambtenaar;<br>
 11° een vertegenwoordiger van het departement, bevoegd voor mobiliteit en openbare werken, voorgedragen door de leidend ambtenaar;<br>
 12° een vertegenwoordiger van het agentschap Toerisme Vlaanderen, voorgedragen door de leidend ambtenaar;<br>
@@ -1105,7 +1122,30 @@ In afwijking van artikel 4.2.3.1 tot en met 4.2.3.6 van dit besluit kan de inric
 
 ### ART. 4.2.4.2.
 
-<P>§ 1. Als het agentschap op basis van een screeningsanalyse van oordeel is dat   de effecten van het project, plan of programma op de landbouw significant kunnen   zijn en dat de opmaak van een landbouweffectenrapport relevante bijkomende   informatie kan opleveren voor de haalbaarheid van het project, plan of programma   of de in te zetten instrumenten, maakt de initiatiefnemer een   landbouweffectenrapport op.<BR></P>  <P>De effecten van landbouw worden daarbij significant geacht als uit een   screeninganalyse blijkt dat door de realisatie van het project, plan of   programma, in cumulatie met eventueel andere geplande en definitief besliste   projecten, de leefbaarheid van de bestaande bedrijfsvoering van een of meerdere   bedrijven ernstig in het gedrang kan komen, zoals bepaald in artikel 2.1.4.3., §   4, tweede lid.<BR></P>  <P>Het landbouweffectenrapport kan geïntegreerd worden in het   milieueffectrapport of de milieueffectbeoordeling die in het kader van het   project, plan of programma wordt opgemaakt en waarbij de impact op de landbouw   werd onderzocht.<BR></P>  <P>§ 2. Een landbouweffectenrapport bestaat minstens uit de volgende   elementen:<BR>1° een beschrijving van de juridisch-planologische context voor   landbouw;<BR>2° een beschrijving van fysisch-morfologische kenmerken voor   landbouw;<BR>3° een typologische beschrijving van de betrokken   landbouwbedrijven;<BR>4° een beschrijving van de te verwachten effecten op de   betrokken landbouwbedrijven;<BR>5° een onderzoek naar de noodzaak en   mogelijkheden voor het inzetten van flankerende maatregelen.<BR></P>  <P>Op verzoek van de initiatiefnemer kunnen het agentschap of derden het   landbouweffectenrapport opmaken.<BR></P>  <P>Het rapport wordt zo opgesteld zodat er geen vertrouwelijke informatie van de   betrokken landbouwbedrijven uit kan worden afgeleid.<BR></P>  <P>§ 3. Met het oog op de opmaak van een landbouweffectenrapport stelt de   initiatiefnemer een begeleidingsgroep samen met vertegenwoordigers van de   actoren en de verschillende belangengroepen in het gebied waarop het project,   plan of programma betrekking heeft. De begeleidingsgroep heeft als taak de   initiatiefnemer bij te staan bij de opmaak van het landbouweffectenrapport, de   kwaliteit ervan te bevorderen en de relatie met het project, plan of programma   te verzekeren.<BR></P>  <P>De initiatiefnemer organiseert het overleg met de begeleidingsgroep. Op een   startmoment met de begeleidingsgroep worden minimaal de resultaten van de   screeninganalyse en het plan van aanpak voor de opmaak van het   landbouweffectenrapport besproken.<BR></P>  <P>§ 4. De initiatiefnemer informeert het agentschap en de begeleidingsgroep op   geregelede tijdstippen over de voortgang van het   landbouweffectenrapport.<BR></P>  <P>Het definitieve landbouweffectenrapport wordt opgestuurd aan het agentschap   dat, na advies van het departement, binnen een termijn van dertig dagen na   ontvangst van het landbouweffectenrapport beslist over de goedkeuring ervan. Als   binnen de termijn geen goedkeuring is verleend, kan aan de goedkeuringsvereiste   worden voorbijgegaan.<BR></P>
+<p>§ 1. Als het agentschap op basis van een screeningsanalyse van oordeel is dat de effecten van het project, plan of programma op de landbouw significant kunnen zijn en dat de opmaak van een landbouweffectenrapport relevante bijkomende informatie kan opleveren voor de haalbaarheid van het project, plan of programma of de in te zetten instrumenten, maakt de initiatiefnemer een landbouweffectenrapport op.</p>
+
+<p>De effecten van landbouw worden daarbij significant geacht als uit een screeninganalyse blijkt dat door de realisatie van het project, plan of programma, in cumulatie met eventueel andere geplande en definitief besliste projecten, de leefbaarheid van de bestaande bedrijfsvoering van een of meerdere bedrijven ernstig in het gedrang kan komen, zoals bepaald in artikel 2.1.4.3., § 4, tweede lid.</p>
+
+<p>Het landbouweffectenrapport kan geïntegreerd worden in het milieueffectrapport of de milieueffectbeoordeling die in het kader van het project, plan of programma wordt opgemaakt en waarbij de impact op de landbouw werd onderzocht.</p>
+
+<p>§ 2. Een landbouweffectenrapport bestaat minstens uit de volgende elementen:<br>
+1° een beschrijving van de juridisch-planologische context voor landbouw;<br>
+2° een beschrijving van fysisch-morfologische kenmerken voor landbouw;<br>
+3° een typologische beschrijving van de betrokken landbouwbedrijven;<br>
+4° een beschrijving van de te verwachten effecten op de betrokken landbouwbedrijven;<br>
+5° een onderzoek naar de noodzaak en mogelijkheden voor het inzetten van flankerende maatregelen.</p>
+
+<p>Op verzoek van de initiatiefnemer kunnen het agentschap of derden het landbouweffectenrapport opmaken.</p>
+
+<p>Het rapport wordt zo opgesteld zodat er geen vertrouwelijke informatie van de betrokken landbouwbedrijven uit kan worden afgeleid.</p>
+
+<p>§ 3. Met het oog op de opmaak van een landbouweffectenrapport stelt de initiatiefnemer een begeleidingsgroep samen met vertegenwoordigers van de actoren en de verschillende belangengroepen in het gebied waarop het project, plan of programma betrekking heeft. De begeleidingsgroep heeft als taak de initiatiefnemer bij te staan bij de opmaak van het landbouweffectenrapport, de kwaliteit ervan te bevorderen en de relatie met het project, plan of programma te verzekeren.</p>
+
+<p>De initiatiefnemer organiseert het overleg met de begeleidingsgroep. Op een startmoment met de begeleidingsgroep worden minimaal de resultaten van de screeninganalyse en het plan van aanpak voor de opmaak van het landbouweffectenrapport besproken.</p>
+
+<p>§ 4. De initiatiefnemer informeert het agentschap en de begeleidingsgroep op geregelede tijdstippen over de voortgang van het landbouweffectenrapport.</p>
+
+<p>Het definitieve landbouweffectenrapport wordt opgestuurd aan het agentschap dat, na advies van het Agentschap Landbouw en Zeevisserij, binnen een termijn van dertig dagen na ontvangst van het landbouweffectenrapport beslist over de goedkeuring ervan. Als binnen de termijn geen goedkeuring is verleend, kan aan de goedkeuringsvereiste worden voorbijgegaan.</p>
 
 ## DEEL 5 DE TOEPASSING VAN DE INSTRUMENTEN BEHEEROVEREENKOMSTEN EN DIENSTENVERGOEDINGEN VIA EEN BEHEERVISIE
 
