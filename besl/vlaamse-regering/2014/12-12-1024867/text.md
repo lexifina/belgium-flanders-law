@@ -312,7 +312,7 @@ De   procesverantwoordelijke bezorgt de uitgebrachte adviezen aan de dienst, bev
 
 ### ART. 12.
 
-<p>De procesverantwoordelijke bezorgt de synthesenota, het ontwerp van MER en het voorontwerp van voorkeursbesluit aan de leidend ambtenaren, vermeld in artikel 9, § 1, en de instanties, vermeld in artikel 9, § 2 tot en met § 4, met het verzoek hun advies te verlenen over het voorontwerp van voorkeursbesluit en het ontwerp van MER.</p>
+<p>De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van voorkeursbesluit aan de leidend ambtenaren, vermeld in artikel 9, § 1, en de instanties, vermeld in artikel 9, § 2 tot en met § 4, met het verzoek hun advies te verlenen over het voorontwerp van voorkeursbesluit, de synthesenota en de effectenonderzoeksrapporten.</p>
 
 <p>Het advies wordt verleend uiterlijk op het moment van de adviesvergadering, vermeld in artikel 11, § 2, van het decreet van 25 april 2014.</p>
 
@@ -346,9 +346,9 @@ De   procesverantwoordelijke bezorgt de uitgebrachte adviezen aan de dienst, bev
 
 ### ART. 19.
 
-<p>De procesverantwoordelijke bezorgt de synthesenota, het ontwerp van MER en het voorontwerp van projectbesluit aan de leidend ambtenaren, vermeld in artikel 16, § 1, en de instanties, vermeld in artikel 16, § 2 tot en met § 4, met het verzoek hun advies te verlenen over het voorontwerp van projectbesluit en het ontwerp van MER.</p>
+<p>De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit aan de leidend ambtenaren, vermeld in artikel 16, § 1, en de instanties, vermeld in artikel 16, § 2 tot en met § 4, met het verzoek hun advies te verlenen over het voorontwerp van projectbesluit, de synthesenota en de effectenonderzoeksrapporten.</p>
 
-<p>De procesverantwoordelijke bezorgt de synthesenota, het ontwerp van MER en het voorontwerp van projectbesluit ook aan de bestuursorganen, entiteiten of ambtenaren die gemachtigd zijn om in voorkomend geval de beslissingen, vermeld in artikel 40 en 41 van het decreet van 25 april 2014, te nemen, met het verzoek advies te verlenen over het voorontwerp van projectbesluit en het ontwerp van MER.</p>
+<p>De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit ook aan de bestuursorganen, entiteiten of ambtenaren die gemachtigd zijn om in voorkomend geval de beslissingen, vermeld in artikel 40 en 41 van het decreet van 25 april 2014, te nemen, met het verzoek advies te verlenen over het voorontwerp van projectbesluit, de synthesenota en de effectenonderzoeksrapporten.</p>
 
 <p>Het advies wordt verleend uiterlijk op het moment van de adviesvergadering, vermeld in artikel 21, § 2, van het decreet van 25 april 2014.</p>
 
@@ -370,7 +370,7 @@ De   procesverantwoordelijke nodigt de leidend ambtenaren en de instanties, verm
 
 <p>Tijdens de periode van zestig dagen, vermeld in het eerste lid, worden de documenten, vermeld in artikel 15, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het decreet van 25 april 2014, analoog of digitaal ter inzage gelegd in het gemeentehuis van de betrokken gemeenten. De eerste dag waarop de vermelde documenten ter inzage worden gelegd, is de begindatum van het openbaar onderzoek.<br>
 <br>
-Het ontwerp van voorkeursbesluit of projectbesluit kan samen met het ontwerp van MER, met uitzondering van de door een architect opgemaakte auteursrechtelijk beschermde plannen en de documenten die aan de openbaarheid worden onttrokken, ook digitaal geraadpleegd worden op de website van de bevoegde overheid of, in voorkomend geval, op de website die specifiek voor het project in kwestie is ontwikkeld.&nbsp;<br>
+Het ontwerp van voorkeursbesluit of projectbesluit kan samen met de synthesenota en de effectenonderzoeksrapporten, met uitzondering van de door een architect opgemaakte auteursrechtelijk beschermde plannen en de documenten die aan de openbaarheid worden onttrokken, ook digitaal geraadpleegd worden op de website van de bevoegde overheid of, in voorkomend geval, op de website die specifiek voor het project in kwestie is ontwikkeld.&nbsp;<br>
 <br>
 § 2. Het publiek wordt geïnformeerd over het openbaar onderzoek over het ontwerp van voorkeursbesluit of projectbesluit op de volgende wijzen :<br>
 1° een publicatie op de volgende websites :<br>
@@ -386,7 +386,7 @@ a) op de aanplakplaatsen van de betrokken gemeenten conform artikel 26 en 27 van
 b) in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conform artikel 26 en 27 van dit besluit;<br>
 5° in voorkomend geval, de individuele kennisgeving conform artikel 28 en 29 van dit besluit;<br>
 6° in voorkomend geval, een bericht dat drie keer door de openbare radio wordt uitgezonden conform artikel 30 van dit besluit;<br>
-7° in voorkomend geval, een informatievergadering conform artikel 31 van dit besluit.</p>
+7° in voorkomend geval, een participatiemoment conform artikel 31 van dit besluit.</p>
 
 <p>De informatieverstrekking, vermeld in het eerste lid, vermeldt minstens de volgende gegevens :<br>
 1° het voorwerp van het ontwerp van voorkeursbesluit of van projectbesluit;<br>
@@ -396,10 +396,10 @@ b) in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conf
 5° de begin- en einddatum van het openbaar onderzoek;<br>
 6° de plaats waar de documenten, vermeld in artikel 15, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het decreet van 25 april 2014, ter inzage liggen;<br>
 7° de mogelijkheid om opmerkingen of bezwaren in te dienen tijdens het openbaar onderzoek over :<br>
-a) in geval van een openbaar onderzoek over een ontwerp van voorkeursbesluit : het ontwerp van voorkeursbesluit en het ontwerp van MER;&nbsp;<br>
-b) in geval van een openbaar onderzoek over een ontwerp van projectbesluit : het ontwerp van projectbesluit en het ontwerp van MER;<br>
+a) in geval van een openbaar onderzoek over een ontwerp van voorkeursbesluit : het ontwerp van voorkeursbesluit, de synthesenota en de effectenonderzoeksrapporten;&nbsp;<br>
+b) in geval van een openbaar onderzoek over een ontwerp van projectbesluit : het ontwerp van projectbesluit, de synthesenota en de effectenonderzoeksrapporten;<br>
 8° de wijze waarop de opmerkingen of bezwaren, vermeld in punt 7°, ingediend kunnen worden;<br>
-9° in voorkomend geval, de datum, het uur en de plaats van de informatievergadering.</p>
+9° in voorkomend geval, de datum, het uur en de plaats van het participatiemoment, vermeld in artikel 31.</p>
 
 <p>De informatieverstrekking, vermeld in het eerste lid, 1° tot en met 5°, wordt gedaan met het formulier dat de website complexe projecten ter beschikking stelt.</p>
 
@@ -450,7 +450,7 @@ De eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasing
 ### ART. 29.
 
 <p>§ 1. Als het ontwerp van projectbesluit betrekking heeft op de exploitatie van een ingedeelde inrichting of activiteit van de eerste klasse, bezorgt de procesverantwoordelijke het formulier, vermeld in artikel 22, § 2, derde lid, voor de aanvang van het openbaar onderzoek per beveiligde zending aan :<br>
-1° de gebruikers van de gebouwen en aan de eigenaars van de percelen die in een straal van 100 meter liggen rond :&nbsp;<br>
+1° de eigenaars van de percelen die in een straal van 100 meter liggen rond :&nbsp;<br>
 a) de perceelsgrenzen van de ingedeelde inrichting of activiteit als de inrichting of activiteit op een perceel met een kadastraal nummer ligt;<br>
 b) de uiterste grenzen van de ingedeelde inrichting of activiteit als de inrichting of activiteit op een perceel zonder kadastraal nummer ligt;<br>
 2° ...<br>
@@ -474,11 +474,15 @@ In het eerste lid wordt verstaan onder eigenaar : de eigenaar volgens de meest r
 
 <P>De   aankondiging van het openbaar onderzoek op de radio, vermeld in artikel 22, § 2,   eerste lid, 6°, gebeurt ten minste als het gebied dat door het ontwerp van   voorkeursbesluit respectievelijk projectbesluit geheel of ten dele wordt   bestreken, twee of meer provincies betreft.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aankondiging, vermeld in het eerste lid, gebeurt uiterlijk op de begindatum van   het openbaar onderzoek.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
 
-## Onderafdeling 7 Informatievergadering
+## Onderafdeling 7 Participatiemoment
 
 ### ART. 31.
 
-<P>Tijdens   de eerste twintig dagen van het openbaar onderzoek over een ontwerp van   projectbesluit wordt ten minste één informatievergadering over dit ontwerp van   projectbesluit georganiseerd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   informatievergadering, vermeld in het eerste lid, wordt georganiseerd in de   gemeente waarvan het gebied door het ontwerp van projectbesluit geheel of ten   dele wordt bestreken.&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   het ontwerp van projectbesluit in twee of meer gemeenten uitwerking vindt, kan   volstaan worden met de organisatie van een gemeenschappelijke   informatievergadering.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Tijdens de eerste twintig dagen van het openbaar onderzoek over een ontwerp van projectbesluit wordt ten minste één participatiemoment over dit ontwerp van projectbesluit georganiseerd.</p>
+
+<p>Het participatiemoment, vermeld in het eerste lid, wordt georganiseerd in de gemeente waarvan het gebied door het ontwerp van projectbesluit geheel of ten dele wordt bestreken.&nbsp;</p>
+
+<p>Als het ontwerp van projectbesluit in twee of meer gemeenten uitwerking vindt, kan volstaan worden met de organisatie van een gemeenschappelijk participatiemoment.</p>
 
 ## Onderafdeling 8 Het formuleren van opmerkingen en bezwaren
 
@@ -494,7 +498,21 @@ Als   het openbaar onderzoek betrekking heeft op het ontwerp van projectbesluit 
 
 ### ART. 34.
 
-<P>§   1. Als de bevoegde overheid vaststelt dat het ontwerp van voorkeursbesluit,   vermeld in artikel 14 van het decreet van 25 april 2014, of het ontwerp van   projectbesluit, vermeld in artikel 23 van het voormelde decreet, aanzienlijke   effecten kan hebben voor mens of milieu in een ander gewest, een andere   EU-lidstaat of een verdragspartij bij het Verdrag van Espoo, of als de bevoegde   autoriteit van dit ander gewest, EU-lidstaat of verdragspartij bij het Verdrag   van Espoo daarom verzoekt, bezorgt de procesverantwoordelijke een exemplaar van   de documenten, vermeld in artikel 15, § 1, tweede lid, respectievelijk 24, § 1,   tweede lid, van het voormelde decreet, en de bijbehorende bijlagen voor advies   aan de bevoegde autoriteit.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Daarbij   worden ook de gegevens, vermeld in artikel 22, § 2, tweede lid, meegedeeld.   Bijkomend wordt vermeld dat het ontwerp van voorkeursbesluit respectievelijk   projectbesluit onderworpen is aan een milieueffectrapportage of aan het   hieronder vermelde overleg tussen de gewesten, EU-lidstaten of andere   verdragspartijen in kwestie.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   documenten en gegevens, vermeld in het eerste en tweede lid, dienen als basis   voor het nodige overleg in het kader van de bilaterale betrekkingen tussen de   gewesten, EU-lidstaten of verdragspartijen bij het Verdrag van Espoo volgens het   beginsel van wederkerigheid en gelijke behandeling.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De procesverantwoordelijke bezorgt de documenten en gegevens, vermeld in   paragraaf 1, eerste en tweede lid, uiterlijk dertig dagen voor de aanvang van   het openbaar onderzoek, vermeld in deze afdeling, aan de bevoegde   autoriteit.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   belanghebbende inwoners van het betrokken gewest, de betrokken EU-lidstaat of de   betrokken verdragspartij bij het Verdrag van Espoo kunnen deelnemen aan   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het openbaar onderzoek, vermeld in deze afdeling;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het openbaar onderzoek dat de bevoegde autoriteit op basis van de ontvangen   documenten eventueel op haar eigen grondgebied organiseert.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bevoegde autoriteit bezorgt haar eventuele opmerkingen, samen met de resultaten   van het eventueel door haar georganiseerde openbaar onderzoek, tegelijkertijd en   per beveiligde zending aan de bevoegde overheid en de dienst, bevoegd voor   milieueffectrapportage, binnen een termijn van twee maanden na de datum van de   toezending, vermeld in het eerste lid.&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Overeenkomstig artikel 7, lid 4, van Richtlijn 2011/92/EU van het Europees   Parlement en de Raad van 13 december 2011 betreffende de milieueffectbeoordeling   van bepaalde openbare en particuliere projecten, wordt met het betrokken gewest   of de betrokken EU-lidstaat overleg gepleegd over onder andere de potentiële   grensoverschrijdende effecten van het ontwerp van voorkeursbesluit   respectievelijk projectbesluit en de maatregelen die worden overwogen om die   effecten te beperken of teniet te doen en wordt een redelijke termijn   overeengekomen waarbinnen het overleg moet plaatsvinden.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Als de bevoegde overheid vaststelt dat het ontwerp van voorkeursbesluit, vermeld in artikel 14 van het decreet van 25 april 2014, of het ontwerp van projectbesluit, vermeld in artikel 23 van het voormelde decreet, aanzienlijke effecten kan hebben voor mens of milieu in een ander gewest, een andere EU-lidstaat of een verdragspartij bij het Verdrag van Espoo, of als de bevoegde autoriteit van dit ander gewest, EU-lidstaat of verdragspartij bij het Verdrag van Espoo daarom verzoekt, bezorgt de procesverantwoordelijke een exemplaar van de documenten, vermeld in artikel 15, § 1, tweede lid, respectievelijk 24, § 1, tweede lid, van het voormelde decreet, en de bijbehorende bijlagen voor advies aan de bevoegde autoriteit.</p>
+
+<p>Daarbij worden ook de gegevens, vermeld in artikel 22, § 2, tweede lid, meegedeeld. Bijkomend wordt vermeld dat het ontwerp van voorkeursbesluit respectievelijk projectbesluit onderworpen is aan een milieueffectrapportage of aan het hieronder vermelde overleg tussen de gewesten, EU-lidstaten of andere verdragspartijen in kwestie.</p>
+
+<p>De documenten en gegevens, vermeld in het eerste en tweede lid, dienen als basis voor het nodige overleg in het kader van de bilaterale betrekkingen tussen de gewesten, EU-lidstaten of verdragspartijen bij het Verdrag van Espoo volgens het beginsel van wederkerigheid en gelijke behandeling.</p>
+
+<p>§ 2. De procesverantwoordelijke bezorgt de documenten en gegevens, vermeld in paragraaf 1, eerste en tweede lid, zo spoedig mogelijk en uiterlijk de dag voor de begindatum van het openbaar onderzoek, vermeld in deze afdeling, aan de bevoegde autoriteit.</p>
+
+<p>De belanghebbende inwoners van het betrokken gewest, de betrokken EU-lidstaat of de betrokken verdragspartij bij het Verdrag van Espoo kunnen deelnemen aan :<br>
+1° het openbaar onderzoek, vermeld in deze afdeling;<br>
+2° het openbaar onderzoek dat de bevoegde autoriteit op basis van de ontvangen documenten eventueel op haar eigen grondgebied organiseert.</p>
+
+<p>De bevoegde autoriteit bezorgt haar eventuele opmerkingen, samen met de resultaten van het eventueel door haar georganiseerde openbaar onderzoek, tegelijkertijd en per beveiligde zending aan de bevoegde overheid en de dienst, bevoegd voor milieueffectrapportage, binnen een termijn van twee maanden na de datum van de toezending, vermeld in het eerste lid.&nbsp;</p>
+
+<p>§ 3. Overeenkomstig artikel 7, lid 4, van Richtlijn 2011/92/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten, wordt met het betrokken gewest of de betrokken EU-lidstaat overleg gepleegd over onder andere de potentiële grensoverschrijdende effecten van het ontwerp van voorkeursbesluit respectievelijk projectbesluit en de maatregelen die worden overwogen om die effecten te beperken of teniet te doen en wordt een redelijke termijn overeengekomen waarbinnen het overleg moet plaatsvinden.</p>
 
 ## Afdeling 4 Milieueffectrapportage
 
@@ -619,7 +637,7 @@ b) in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conf
 
 ### ART. 42.
 
-Het formulier, vermeld in artikel 41, derde lid, wordt nadat het besluit in kwestie definitief is vastgesteld op de websites, vermeld in artikel 41, eerte lid, 1°, geplaatst en dit gedurende een periode van dertig dagen.
+Het formulier, vermeld in artikel 41, derde lid, wordt nadat het besluit in kwestie definitief is vastgesteld op de websites, vermeld in artikel 41, eerste lid, 1°, geplaatst en dit gedurende een periode van dertig dagen.
 
 ## Onderafdeling 3 Publicatie in dagbladen of informatiebladen en in het Belgisch Staatsblad
 
