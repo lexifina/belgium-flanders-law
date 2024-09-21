@@ -39,6 +39,12 @@ In dit besluit wordt verstaan onder:<br>
 3°/1 centrum voor herstelverblijf: een centrum als vermeld in artikel 28 van het Woonzorgdecreet van 15 februari 2019;<br>
 4° centrum voor kortverblijf type 2: een centrum als vermeld in artikel 26, § 1, tweede lid, 2°, van het Woonzorgdecreet van 15 februari 2019;<br>
 5° centrum voor kortverblijf type 3: een centrum als vermeld in artikel 26, § 1, tweede lid, 3°, van het Woonzorgdecreet van 15 februari 2019;<br>
+5°/1 erfgoedgebouw: een gebouw dat aan één van de volgende voorwaarden voldoet:&nbsp;<br>
+a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;&nbsp;<br>
+5°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 6° lokaal dienstencentrum: een centrum als vermeld in artikel 9 van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
 Dit besluit is van toepassing op de volgende woonzorgvoorzieningen:<br>
@@ -131,7 +137,7 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 5° voor een lokaal dienstencentrum: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening, met een maximum van 600 m<sup>2</sup> per dienstencentrum, verdeeld over maximum drie antennes met elk een minimumoppervlakte van 200 m<sup>2;</sup><br>
 6° voor een centrum voor herstelverblijf: 65 m² per verblijfseenheid.<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, als de erkennings- en exploitatievoorwaarden dat vereisen.
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan bij verbouwing of uitbreiding, als de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 4. Investeringssubsidie
 
@@ -193,12 +199,6 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bepaalt;<br>
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest conform het Brussels Wetboek van Ruimtelijke Ordening.<br>
-<br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m<sup>2</sup>. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is.<br>
 <br>
 De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.
@@ -211,7 +211,12 @@ Voor de aankoop kunnen de volgende elementen in aanmerking komen voor de investe
 1° ten hoogste 60 % van de som van de venale waarde van het gebouw zoals die door de Vlaamse Belastingdienst is geschat;<br>
 2° de bewezen notariskosten en registratierechten of btw die aan de aankoop verbonden zijn.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder de Vlaamse Belastingdienst: de Vlaamse Belastingdienst opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst.
+In het tweede lid, 1°, wordt verstaan onder de Vlaamse Belastingdienst: de Vlaamse Belastingdienst opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst.<br>
+<br>
+In afwijking van het eerste lid kan het basisbedrag van de totale investeringssubsidie voor aankoop met verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de voorziening in kwestie, vermeld in artikel 11, §1 en §3, als het gaat om een ingrijpende duurzame verbouwing, waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. De voormelde verbouwing voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermde volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij erfgoedgebouwen waar een dergelijke renovatie niet haalbaar blijkt;<br>
+2°&nbsp;&nbsp; &nbsp;het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de zorginfrastructuur, bepaalt;<br>
+3°&nbsp;&nbsp; &nbsp;het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.
 
 ### ART 14.
 
