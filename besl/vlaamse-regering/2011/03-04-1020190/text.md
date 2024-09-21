@@ -9,11 +9,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 februari 1994 inzake
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° ...;<br>
-2° centrum voor kinderzorg en gezinsondersteuning : een door de Vlaamse overheid erkend centrum voor kinderzorg en gezinsondersteuning als vermeld in het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
+1° erfgoedgebouw: een gebouw dat aan één van de volgende voorwaarden voldoet:<br>
+a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+d)een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+2° Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;;<br>
 3° kinderopvanglocatie: een kinderopvanglocatie als vermeld in artikel 2, eerste lid, 3°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
-4° vertrouwenscentrum kindermishandeling : een door de Vlaamse overheid erkend vertrouwenscentrum kindermishandeling als vermeld in het besluit van de Vlaamse Regering van 17 mei 2002 betreffende erkenning en subsidiëring van de vertrouwenscentra kindermishandeling;<br>
-5° sector van de voorzieningen voor gezinnen met kinderen: de centra voor kinderzorg en gezinsondersteuning, de kinderopvanglocaties en de vertrouwenscentra kindermishandeling.<br>
+4° ...;<br>
+5° sector van de kinderopvang: de kinderopvanglocaties.<br>
 <br>
 Voor de toepassing van dit besluit gelden bovendien de volgende vereisten voor een kinderopvanglocatie om in aanmerking te komen voor een investeringssubsidie:<br>
 1° de aanvrager komt voor de kinderopvanglocatie in kwestie in aanmerking voor een vergunning voor groepsopvang voor minimaal negentien tegelijk aanwezige kinderen, overeenkomstig de regels, vermeld in of ter uitvoering van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
@@ -30,7 +34,20 @@ De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtne
 
 ### ART. 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de voorzieningen voor gezinnen met kinderen moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn : <br />1° de regelgeving over de brandveiligheid;<br />2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br />3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br />4° het Algemeen Reglement inzake elektrische installaties;<br />5° de typebestekken, opgesteld door het Vlaams ministerie van Mobiliteit en Openbare Werken;<br />6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br />7° de regelgeving over de milieuvergunningen;<br />8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.<br /><br />De gebouwen waarover een voorziening in de sector van de voorzieningen voor gezinnen met kinderen beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.<br /><br />
+De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de kinderopvang moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
+1° de regelgeving over de brandveiligheid;<br>
+2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br>
+3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
+4° het Algemeen Reglement inzake elektrische installaties;<br>
+5° de typebestekken, opgesteld door het Vlaams ministerie van Mobiliteit en Openbare Werken;<br>
+6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
+7° de regelgeving over de milieuvergunningen;<br>
+8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren;<br>
+9° de regelgeving over de veiligheid van de voedselketen en de voorwaarden die gesteld zijn door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
+10° de bouwtechnische en bouwfysische minimumvoorschriften van de codex over het welzijn op het werk.<br>
+<br>
+De gebouwen waarover een voorziening in de sector van de kinderopvang beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -47,14 +64,16 @@ Voor de buitenspeelruimte, vermeld in het eerste lid, gelden de volgende normen:
 2° de buitenspeelruimte is voor de kinderen veilig en gemakkelijk bereikbaar en is overal omheind;<br>
 3° bij nieuwbouw is de beschikbare oppervlakte van de buitenspeelruimte minstens 3 m2 per kind.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan op gemotiveerde aanvraag, afwijken van de normen, vermeld in het tweede lid, met behoud van de toepassing van artikel 17 van het Vergunningsbesluit van 22 november 2013.<br>
+Het Fonds kan op gemotiveerde aanvraag, afwijken van de normen, vermeld in het tweede lid, met behoud van de toepassing van artikel 17 van het Vergunningsbesluit van 22 november 2013.<br>
+<br>
+De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan de voorwaarden bepalen waaronder de afwijkingen, vermeld in het derde lid, kunnen worden toegestaan.<br>
 <br>
 § 4. Voor de bouw en de inrichting gelden de volgende normen:<br>
 1° de infrastructuur en de technische installaties garanderen dat in de ruimtes die bestemd zijn voor de kinderen, de temperatuur in de leefruimte minimaal 22 ° C en in de rustruimte minimaal 18° C kan bedragen;<br>
 2° de technische installaties garanderen dat de temperatuur van het water dat bestemd is voor de kinderen, niet hoger is dan 38 ° C;<br>
-3° alle lokalen die bestemd zijn voor de kinderen, kunnen geventileerd worden op natuurlijke wijze of op mechanische wijze, waardoor de koolstofdioxideconcentratie in de lucht onder 1200 ppm blijft.<br>
+3° alle lokalen die bestemd zijn voor de kinderen, kunnen geventileerd worden op natuurlijke wijze of op mechanische wijze.<br>
 <br>
-&nbsp;§ 5. De gebouwdelen die bestemd zijn voor de kinderen, worden onderverdeeld in leefgroepunits. In één leefgroepunit wordt één leefgroep ondergebracht. De leefgroepunit is samengesteld uit één leefruimte, minstens één afsluitbare rustruimte en één verzorgingszone. Voor leefgroepunits met meer dan negen kinderen zijn er minstens twee afsluitbare rustruimtes beschikbaar. Binnen een leefgroepunit is visueel toezicht tussen de ruimtes onderling of tussen de ruimtes en de verzorgingszone mogelijk.<br>
+§ 5. De gebouwdelen die bestemd zijn voor de kinderen, worden onderverdeeld in leefgroepunits. In één leefgroepunit wordt één leefgroep ondergebracht. De leefgroepunit is samengesteld uit één leefruimte, minstens één afsluitbare rustruimte en één verzorgingszone. Voor leefgroepunits met meer dan negen kinderen zijn er minstens twee afsluitbare rustruimtes beschikbaar. Binnen een leefgroepunit is visueel toezicht tussen de ruimtes onderling of tussen de ruimtes en de verzorgingszone mogelijk.<br>
 <br>
 § 6. Voor de leefruimte gelden de volgende normen:<br>
 1° de nettovloeroppervlakte in de leefruimtes die gebruikt kan worden voor spel, bedraagt minstens 3 m2 per kinderopvangplaats;<br>
@@ -82,20 +101,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, kan op gemotiveerde 
 
 ### ART. 4.
 
-De infrastructuur van een vertrouwenscentrum kindermishandeling moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
-1° de lokalen voor de ontvangst zijn volledig gescheiden van de lokalen waar de hulp- en dienstverlening plaatsvindt;<br>
-2° de lokalen zijn aangepast aan de hulp- en dienstverleningsdoeleinden en de lokalen waar de ontvangst en de hulp- en dienstverlening plaatsvinden of waar de opvang gebeurt, zijn voldoende geïsoleerd tegen het geluid;<br>
-3° de basisinfrastructuur van een vertrouwenscentrum kindermishandeling bestaat ten minste uit de volgende lokalen, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
-a) voor de secretariaatsfunctie :<br>
-1) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
-2) een archief- en bergruimte van samen 10 m<sup><span style="font-size: small;">2</span></sup>;<br>
-b) voor de hulpverleningsfunctie :<br>
-1) twee gescheiden wachtruimtes van samen 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
-2) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
-3) een gespreksruimte van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
-4) een spelruimte voor jonge kinderen van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
-5) een consultatieruimte van 16 m<sup><span style="font-size: small;">2</span></sup>, met een vaste wastafel;<br>
-6) een sanitaire ruimte van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen en met een verluierruimte voor ouders met jonge kinderen, en met minstens één rolstoeltoegankelijk toilet.
+...
 
 ### ART. 5.
 
@@ -103,37 +109,17 @@ b) voor de hulpverleningsfunctie :<br>
 
 ### ART. 6.
 
-De infrastructuur van een centrum voor kinderzorg en gezinsondersteuning moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
-1° ...;<br>
-2° bij nieuwbouw is er in voldoende, passende en veilige buitenspeelruimte voorzien voor de residentieel of ambulant opgevangen kinderen. Deze bepaling geldt niet voor de infrastructuur waarin alleen ambulante trainingen worden georganiseerd waarbij de aanwezigheid van kinderen niet vereist is;<br>
-3° de basisinfrastructuur van een centrum voor kinderzorg en gezinsondersteuning bestaat ten minste uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
-a) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
-b) een sanitaire ruimte van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen, met een verluierruimte voor ouders met jonge kinderen, en met minstens één rolstoeltoegankelijk toilet;<br>
-c) voor de residentiële functie gelden bijkomend, naast de vereisten, vermeld in punt a) en b), de volgende vereisten :<br>
-1) voldoende ruime kamers naargelang van de leeftijd van de kinderen, met een nettovloeroppervlakte van ten minste 16 m<sup><span style="font-size: small;">2</span></sup>, met afwijkingsmogelijkheid van ten minste 12 m<sup><span style="font-size: small;">2</span></sup> voor minderjarigen;<br>
-2) voldoende rustruimtes voor baby's en peuters, met een nettovloeroppervlakte minstens 2 m<sup><span style="font-size: small;">2</span></sup> per bedplaats;<br>
-3) minimaal één toilet en badgelegenheid per vijf residentiële bewoners, met minstens één rolstoeltoegankelijk toilet met wastafel;<br>
-4) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
-5) een gespreksruimte van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
-d) voor de ambulante dagopvang en voor de ambulante trainingen gelden, naast de vereisten, vermeld in punt a) en b), de volgende vereisten :<br>
-1) een leef- en trainingsruimte;<br>
-2) voldoende rustruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
-3) voldoende gespreksruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
-4) voldoende bureauruimtes van 12 m<sup><span style="font-size: small;">2</span></sup>;<br>
-e) voor de mobiele dienstverlening gelden, naast de vereisten, vermeld in punt a) en b), de volgende vereisten, in overeenstemming met het aantal begeleidingen :<br>
-1) voldoende vergaderruimtes van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
-2) voldoende gespreksruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
-3) voldoende multifunctionele ruimtes van 25 m<sup><span style="font-size: small;">2</span></sup>, die opdeelbaar zijn in functie van de noden van de voorziening.
+...
 
 ### ART. 7.
 
-De bouwfysische normen, vermeld in artikelen 2 tot en met 6, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.<br /><br />
+...
 
 ## HOOFDSTUK 3 Uitrusting en meubilering
 
 ### ART. 8.
 
-Voor een vertrouwenscentrum kindermishandeling is een investeringssubsidie mogelijk voor video-opnameapparatuur, die wordt beschouwd als noodzakelijke uitrusting, die afzonderlijk en in het bijzonder moet worden aangeschaft.
+...
 
 ## HOOFDSTUK 4 Subsidiabele oppervlakte
 
@@ -142,24 +128,19 @@ Voor een vertrouwenscentrum kindermishandeling is een investeringssubsidie mogel
 In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
 <br>
 De subsidiabele oppervlakte bedraagt maximaal :<br>
-1° voor de aanvrager van een kinderopvanglocatie: 20 m2 per plaats, bekeken op het niveau van de subsidiegroep van de aanvrager, vermeld in artikel 1, 20°, van het Subsidiebesluit van 22 november 2013;<br>
-2° voor een vertrouwenscentrum kindermishandeling : 50 m2 per door de Vlaamse overheid gesubsidieerde voltijdse equivalent van de personeelsbezetting;<br>
+1° voor de aanvrager van een kinderopvanglocatie: 20 m2 per plaats;<br>
+2° ...;<br>
 3° ...;<br>
-4° voor een centrum voor kinderzorg en gezinsondersteuning:<br>
-a) 50 m² per residentiële opvangplaats waarvoor men subsidies ontvangt van het agentschap Opgroeien regie. Dat geldt voor de verschillende typemodules van residentiële opvang, vermeld in artikel 45, 49 en 53 van het ministerieel besluit van 21 december 2012 betreffende het aanbod, beschreven in typemodules, van de centra voor kinderzorg en gezinsondersteuning;<br>
-b) 30 m² per ambulante opvangplaats als vermeld in artikel 23 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van het agentschap Opgroeien regie;<br>
-c) 20 m² per voltijdsequivalent, ingezet voor de mobiele begeleiding, waarvoor men subsidies ontvangt van het agentschap Opgroeien regie. Dat geldt voor de verschillende typemodules van mobiele begeleiding, vermeld in artikel 8, 11, 14, 17 en 20 van het voormelde ministerieel besluit;<br>
-d) 30 m² per voltijdsequivalent, ingezet voor de typemodule ambulante pedagogische training in groepsverband, van ouders samen met kinderen, als vermeld in artikel 29 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van het agentschap Opgroeien regie;<br>
-e) 15 m² per voltijdsequivalent, ingezet voor andere typemodules van ambulante training in groepsverband als vermeld in artikel 35 en 38 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van het agentschap Opgroeien regie.<br>
+4° ....<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, als de erkennings-, vergunnings- of exploitatievoorwaarden dat vereisen.<br>
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan bij verbouwing of uitbreiding, als de erkennings-, vergunnings- of exploitatievoorwaarden dat vereisen.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Investeringssubsidie
 
 ### ART. 10.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen voor gezinnen met kinderen vastgesteld op 550 euro per m2.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de kinderopvang vastgesteld op 550 euro per m2.<br>
 <br>
 &nbsp;§ 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
@@ -171,7 +152,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 
 ### ART. 11.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen voor gezinnen met kinderen vastgesteld op 500 euro per m2.<br>
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de kinderopvang vastgesteld op 500 euro per m2.<br>
 <br>
 § 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen voor gezinnen met kinderen vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
@@ -201,12 +182,6 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
-a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
-<br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
 De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
@@ -217,6 +192,11 @@ De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
 Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 10. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 10.<br>
 <br>
 Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.<br>
+<br>
+In afwijking van het eerste lid kan het basisbedrag van de totale investeringssubsidie voor aankoop met verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 11, §1 en §3, als het gaat om een ingrijpende duurzame verbouwing, waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. De voormelde verbouwing voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2°&nbsp;&nbsp; &nbsp;het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de zorginfrastructuur, bepaalt;<br>
+3°&nbsp;&nbsp; &nbsp;het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
 &nbsp;
 
 ### ART. 14.
@@ -225,7 +205,7 @@ Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belasting
 
 ### ART. 15.
 
-Het basisbedrag van de investeringssubsidie voor de noodzakelijke meubilering en uitrusting, vermeld in artikel 8, die afzonderlijk en in het bijzonder moeten worden aangeschaft, bedraagt 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />
+...
 
 ### ART. 16.
 
