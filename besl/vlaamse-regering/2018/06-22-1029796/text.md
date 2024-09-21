@@ -24,7 +24,7 @@ In dit besluit wordt verstaan onder:<br>
 1° bestaand project met autofinanciering: een project met autofinanciering dat voor de datum van inwerkingtreding van dit besluit een gunstig advies heeft gekregen van de daarvoor bevoegde adviescommissie;<br>
 2° ...;<br>
 3° capaciteitseenheid: de plaats voor één gebruiker in de infrastructuur als vermeld in het akkoord infrastructuurforfait;<br>
-4° coördinatiecommissie: de coördinatiecommissie, vermeld in artikel 10, § 4;<br>
+4° ...;<br>
 5° dagondersteuning: de ondersteuning die gedurende de dag wordt geboden. De geleverde ondersteuning is moeilijk tot niet individueel planbaar of toewijsbaar. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie;<br>
 6° decreet van 23 februari 1994: het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 7° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
@@ -246,47 +246,37 @@ De aanvraag van een akkoord infrastructuurforfait, vermeld in het eerste lid, be
 
 ### ART 10.
 
-§ 1. Het Fonds onderzoekt of de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5, en maakt een raming van de financiële weerslag van het project op de opeenvolgende begrotingsjaren.<br>
+§1. Het Fonds onderzoekt of de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5, en maakt een raming van de financiële weerslag van het project op de opeenvolgende begrotingsjaren.<br>
 <br>
 Het Fonds stuurt binnen dertig kalenderdagen na de ontvangst van een vraag als vermeld in het eerste lid, een bewijs van ontvangst naar de aanvrager, met de vermelding dat de vraag ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat de vraag voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5. De datum van ontvankelijkheid is de datum van de ontvangst van de ontvankelijke vraag.<br>
 <br>
 Het Fonds stuurt binnen dertig dagen na de beslissing tot heropening of, als dat van toepassing is, de actualisering van het dossier, een bewijs van heropening naar de aanvrager, met de vermelding dat het dossier ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat het dossier voldoet aan de vereisten, vermeld in het eerste lid. De datum van ontvankelijkheid is de datum van de actualisering van het dossier.<br>
 <br>
-Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over de ontvankelijkheid van de aanvraag. De termijn, vermeld in het tweede lid, wordt geschorst tot de aanvrager de bijkomende vragen heeft beantwoord.<br>
+Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over de ontvankelijkheid van de aanvraag. De termijn, vermeld in het tweede lid, wordt geschorst tot de aanvrager de bijkomende vragen heeft beantwoord.&nbsp;Als de termijn waarin de voormelde bijkomende inlichtingen aan het Fonds worden bezorgd, langer is dan één jaar, wordt de aanvraag als onbestaande beschouwd en brengt het Fonds de aanvrager daarvan op de hoogte.<br>
 <br>
-§ 2. Het Fonds vraagt binnen tien kalenderdagen na de datum van ontvankelijkheid van de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, advies aan:<br>
+§2. Het Fonds vraagt binnen tien kalenderdagen na de datum van ontvankelijkheid van de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, advies aan:<br>
 1° de functioneel bevoegde administratie over het masterplan, de zelfevaluatie, vermeld in artikel 47 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, en de functionele en kwalitatieve normen;<br>
 2° een of meer ambtenaren die ter beschikking staan van het Fonds, over de financiële aspecten, over het beantwoorden aan de bouwtechnische en bouwfysische normen, over de technische aspecten en de kostprijsraming, en over de controle van de verwantschapsband, vermeld in artikel 3 en 4 van dit besluit.<br>
 <br>
-§ 3. De functioneel bevoegde administraties en de ambtenaren, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen honderdtwintig kalenderdagen na de ontvangst van de adviesvraag.<br>
+§3. De functioneel bevoegde administraties en de ambtenaren, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen honderdtwintig kalenderdagen na de ontvangst van de adviesvraag.<br>
 <br>
-§ 4. Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen.<br>
-<br>
-De coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds en van de functioneel bevoegde administraties bij wie het advies, vermeld in paragraaf 2, is aangevraagd.<br>
-<br>
-De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. In het bijzonder adviseert de Inspectie van Financiën over de coherentie van de akkoorden infrastructuurforfait binnen de meerjarenbegroting per sector van de Vlaamse Gemeenschap.<br>
-<br>
-De adviezen die zijn uitgebracht conform paragraaf 2 en 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
-<br>
-De coördinatiecommissie maakt in overleg een ontwerp van beslissing op en legt het voor aan de minister. Als er geen eensgezind standpunt wordt bereikt, deelt de coördinatiecommissie de verschillende standpunten mee in een advies aan de minister.<br>
-<br>
-De coördinatiecommissie kan het project ambtshalve splitsen in een project voor het aspect woonondersteuning en een project voor het aspect dagondersteuning.
+§4. Het Fonds maakt op basis van de verschillende adviezen, vermeld in §3, per project een advies en een ontwerp van beslissing op en legt die, samen met de voormelde adviezen, voor aan de Inspectie van Financiën, die in het bijzonder adviseert over de coherentie van de akkoorden infrastructuurforfait binnen de meerjarenbegroting per sector van de Vlaamse Gemeenschap. Op basis van het advies van Inspectie van Financiën legt het Fonds zijn advies en ontwerp van beslissing voor aan de minister.
 
 ### ART 11.
 
-§ 1. Als de coördinatiecommissie een gunstig advies verleent en als het project past binnen de beschikbare begrotingskredieten, legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van akkoord infrastructuurforfait of het voorlopig akkoord infrastructuurforfait ter ondertekening voor aan de minister waarbij het project van de aanvrager wordt aanvaard.<br>
+§ 1. Als dhet Fonds een gunstig advies verleent en als het project past binnen de beschikbare begrotingskredieten, legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van akkoord infrastructuurforfait of het voorlopig akkoord infrastructuurforfait ter ondertekening voor aan de minister waarbij het project van de aanvrager wordt aanvaard.<br>
 <br>
 Het akkoord infrastructuurforfait vermeldt onder meer het project waarop het akkoord infrastructuurforfait betrekking heeft, het aantal capaciteitseenheden, voor elke capaciteitseenheid de geschiktheid voor de zorggroepen, vermeld in bijlage 2, die bij dit besluit is gevoegd, voor elke capaciteitseenheid de mate waarin die in aanmerking komt voor de forfaits en de deelforfaits, vermeld in artikel 24, en de datum vanaf wanneer het akkoord infrastructuurforfait geldig is.<br>
 <br>
 Als het een project met autofinanciering betreft dat al voor het akkoord infrastructuurforfait in gebruik werd genomen, beslist de minister tegelijkertijd over de verlening van het akkoord infrastructuurforfait en over het al dan niet opstarten van de toekenning van een infrastructuurforfait.<br>
 <br>
-§ 2. Bij gunstig advies van de coördinatiecommissie, als het project niet past binnen de beschikbare begrotingskredieten en als de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project, stuurt het Fonds binnen vijftien kalenderdagen na het advies een bewijs naar de aanvrager waarin het project wordt erkend als project met autofinanciering.<br>
+§ 2. Bij gunstig advies van het Fonds, als het project niet past binnen de beschikbare begrotingskredieten en als de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project, stuurt het Fonds binnen vijftien kalenderdagen na het advies een bewijs naar de aanvrager waarin het project wordt erkend als project met autofinanciering.<br>
 <br>
 Het bewijs, vermeld in het eerste lid, vermeldt onder meer het project waarop het bewijs betrekking heeft, het aantal capaciteitseenheden en voor elke capaciteitseenheid de geschiktheid voor de zorggroepen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-§ 3. Bij een ongunstig advies van de coördinatiecommissie legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom geen akkoord infrastructuurforfait of voorlopig akkoord infrastructuurforfait gegeven kan worden.<br>
+§ 3. Bij een ongunstig advies van het Fonds legt het Fonds binnen vijftien kalenderdagen na het advies een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom geen akkoord infrastructuurforfait of voorlopig akkoord infrastructuurforfait gegeven kan worden.<br>
 <br>
-§ 4. Als de coördinatiecommissie geen eensgezind standpunt heeft ingenomen, wordt het advies, vermeld in artikel 10, § 4, vijfde lid, binnen vijftien kalenderdagen bezorgd aan de minister, die erover beslist.<br>
+§ 4. ....<br>
 <br>
 § 5. De aanvrager wordt op de hoogte gebracht hetzij van het akkoord infrastructuurforfait of het voorlopig akkoord infrastructuurforfait, hetzij van de gemotiveerde negatieve beslissing.<br>
 <br>
@@ -300,15 +290,15 @@ Een akkoord infrastructuurforfait houdt in dat het project van de aanvrager in p
 
 § 1. In dit artikel wordt verstaan onder investeerder: de natuurlijke persoon of rechtspersoon die het project voor eigen rekening uitvoert of laat uitvoeren.<br>
 <br>
-§ 2. De investeerder geeft voor het project het bevel tot aanvang van de werken of verlijdt de authentieke akte voor de aankoop binnen twee jaar na de datum van het akkoord infrastructuurforfait. Anders vervalt het akkoord infrastructuurforfait. De geldigheidstermijn van het akkoord infrastructuurforfait kan, op gemotiveerd verzoek van de aanvrager, door de minister worden verlengd in geval van overmacht.<br>
+§ 2. De investeerder geeft voor het project het bevel tot aanvang van de werken of verlijdt de authentieke akte voor de aankoop binnen twee jaar na de datum van het akkoord infrastructuurforfait. Anders vervalt het akkoord infrastructuurforfait. De geldigheidstermijn van het akkoord infrastructuurforfait kan, op gemotiveerd verzoek van de aanvrager, in geval van overmacht door het Fonds worden verlengd als die geldigheidstermijn met maximum twee jaar wordt verlengd en door de minister als die geldigheidstermijn met meer dan twee jaar wordt verlengd.<br>
 <br>
 Nadat de investeerder het bevel gegeven heeft tot aanvang van de werken of de authentieke akte voor de aankoop heeft verleden, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning&nbsp;of de omgevingsvergunning of de authentieke akte aan het Fonds en deelt hij aan het Fonds de geplande datum van de ingebruikname mee.<br>
 <br>
 § 3. Als de investeerder voor een bepaald project al werkzaamheden aangevat heeft of een authentieke akte voor de aankoop heeft verleden zonder te beschikken over een akkoord infrastructuurforfait voor het project, komt de aanvrager niet meer in aanmerking voor een infrastructuurforfait voor het project in kwestie.<br>
 <br>
-In afwijking van het eerste lid kan voor projecten met autofinanciering, het bevel tot aanvang van de werkzaamheden al worden gegeven, of de authentieke akte voor de aankoop al worden verleden nadat de daarvoor bevoegde adviescommissie aan het project een gunstig advies heeft verleend met het oog op het verkrijgen van het principieel akkoord of het akkoord infrastructuurforfait, met behoud van de toepassing van de beslissingsbevoegdheid van de minister.<br>
+In afwijking van het eerste lid kan voor projecten met autofinanciering, het bevel tot aanvang van de werkzaamheden al worden gegeven, of de authentieke akte voor de aankoop al worden verleden nadat het Fonds aan het project een gunstig advies heeft verleend met het oog op het verkrijgen van het principieel akkoord of het akkoord infrastructuurforfait, met behoud van de toepassing van de beslissingsbevoegdheid van de minister.&nbsp;De aanvrager wordt op de hoogte gebracht van het advies van het Fonds.<br>
 <br>
-In afwijking van het eerste lid kan voor projecten waarvoor de investeerder de werkzaamheden heeft aangevat na 11 januari 2016 en voor de inwerkingtreding van dit besluit de aanvrager toch in aanmerking komen voor een infrastructuurforfait voor het project in kwestie.<br>
+In afwijking van het eerste lid kan voor projecten waarvoor de investeerder de werkzaamheden heeft aangevat na 11 januari 2016 en vóór de inwerkingtreding van dit besluit en waarbij de aanvrager een ontvankelijke aanvraag heeft ingediend vóór 1 september 2024 in aanmerking blijven komen voor een infrastructuurforfait voor het project in kwestie.<br>
 <br>
 § 4. Uiterlijk negentig kalenderdagen voor het bevel tot aanvang van de werkzaamheden die betrekking hebben op het project, kan de aanvrager bij het Fonds een wijziging van het akkoord infrastructuurforfait aanvragen. Die vraag tot wijziging wordt omstandig gemotiveerd en bevat de stukken die gewijzigd zijn ten opzichte van de oorspronkelijke aanvraag van het akkoord infrastructuurforfait.<br>
 <br>
@@ -413,7 +403,7 @@ De aanvrager bezorgt de evaluatie aan het Fonds.
 
 ### ART 19.
 
-Het infrastructuurforfait wordt toegekend vanaf de datum van de ingebruikname van de infrastructuur. Nadat de aanvrager de exploitatie van de infrastructuur in kwestie heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds.<br>
+Het infrastructuurforfait wordt toegekend vanaf de datum van de ingebruikname van de infrastructuur, maar niet eerder dan de datum van de ontvankelijke aanvraag van de opstartbeslissing. Nadat de aanvrager de exploitatie van de infrastructuur in kwestie heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds.<br>
 <br>
 Het infrastructuurforfait wordt toegekend vanaf de datum van de opstartbeslissing als het een project met autofinanciering betreft dat al voor het akkoord infrastructuurforfait in gebruik werd genomen.
 
@@ -586,24 +576,14 @@ Art. 6. De uitrusting en inrichting van het gebouw voldoet aan al de volgende vo
 5° in de verblijfsruimten is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de gebruiker, altijd mogelijk.<br>
 <br>
 Art. 7. § 1. Het gebouw voldoet aan al de volgende voorwaarden voor het gebruikerscomfort:<br>
-1° aan de trappen zijn leuningen aangebracht;<br>
-2° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
-3° in alle verblijfsruimten met uitzondering van het sanitair zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
-4° in verblijfsruimten is de CO<sub>2</sub>-concentratie maximaal 1200 ppm;<br>
-5° ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten waar een raam moet worden voorzien, bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
-6° de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. 's Nachts zijn de kamers en gangen zodanig verlicht dat de gebruikers zich veilig kunnen verplaatsen. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
-7° in alle verblijfsruimten waar een raam moet worden voorzien, begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
-8° de inkijk van buitenaf kan worden beperkt als de gebruiker dat wenst;<br>
-9° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
-10° in alle verblijfsruimten kan de temperatuur overdag minstens 22 ° C bedragen;<br>
-11° alle nuttige maatregelen worden genomen om in alle verblijfsruimten en in normale meteorologische omstandigheden ervoor te zorgen dat de temperatuur nooit hoger is dan 27 ° C;<br>
-12° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
-13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
-14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
-15° de minimale verdiepingshoogte is 2,50 m (vloer tot afgewerkt plafond);<br>
-16° er is een aan de doelgroep aangepaste signalisatie.<br>
+1° de verlichting houdt rekening met de veiligheid en behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2° de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+3° in alle verblijfsruimtes bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+4° de inkijk van buitenaf kan worden beperkt;<br>
+5° de signalisatie is aangepast aan de doelgroep;<br>
+6° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem.<br>
 <br>
-Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de voorwaarden, vermeld in het eerste lid, 7° :<br>
+Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de voorwaarden, vermeld in het eerste lid, 3° :<br>
 1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
