@@ -43,7 +43,7 @@ De installatie van een apparaat als vermeld in artikel 2, 3 of 4, wordt bewezen 
 
 ### ART 6.
 
-Het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, betaalt de subsidie, vermeld in artikel 2, 3 of 4, uit aan het ziekenhuis dat de erkende dienst uitbaat waarbij de NMR, het bestralingsapparaat of de PET-scanner is geïnstalleerd.
+Het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, betaalt de subsidie, vermeld in artikel 2, 3 of 4, uiterlijk op 31 december uit aan het ziekenhuis dat de erkende dienst uitbaat waarbij de NMR, het bestralingsapparaat of de PET-scanner is geïnstalleerd.
 
 ### ART 7.
 
