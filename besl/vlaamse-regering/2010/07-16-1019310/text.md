@@ -8,7 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 februari 1994 inzake
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br />2° rust- en verzorgingstehuis : een rust- en verzorgingstehuis als vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br />3° ziekenhuis : een voorziening als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.
+In dit besluit wordt verstaan onder :<br>
+1° Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.<br>
+1°/1 psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
+2° rust- en verzorgingstehuis : een rust- en verzorgingstehuis als vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
+3° ziekenhuis : een voorziening als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.
 
 ### ART. 2.
 
@@ -75,7 +79,7 @@ De subsidiabele oppervlakte bedraagt maximaal :<br>
 15° voor elk bed of elke plaats in een rust- en verzorgingstehuis : 65 m2;<br>
 16° voor elk bed of elke plaats in een psychiatrisch verzorgingstehuis : 65 m2.<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in het tweede&nbsp;lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover als de erkennings- en exploitatievoorwaarden dat vereisen.
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede&nbsp;lid, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan bij verbouwing of uitbreiding, voor zover als de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 4 Investeringssubsidie
 
