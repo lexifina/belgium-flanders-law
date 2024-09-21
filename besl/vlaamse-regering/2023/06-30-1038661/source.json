@@ -2,16 +2,16 @@
   "codex_id": 1038661,
   "title": "Besluit van de Vlaamse Regering van 2023-06-30 over investeringssubsidies voor de revalidatieovereenkomsten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038661/VolledigDocument?datum=2024-08-01",
-  "source_sha256": "138d13048944d2f64e96353a514d179239cde07ebc5289ef52c71d3918aeed5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038661/VolledigDocument?datum=2024-09-21",
+  "source_sha256": "835643368eb921d6a51c21523e2806c1b5b583ead59ddc5bf8b470ac7c03ea8e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038661&param=informatie",
-  "as_of": "2024-08-01",
+  "as_of": "2024-09-21",
   "made": "2023-06-30",
   "gazette": "2023-10-03",
   "numac": 2023044179,
   "document_start": "2023-10-13",
   "document_end": null,
-  "in_force": "2024-08-01",
+  "in_force": "2024-09-21",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2024-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-09-21; future article versions excluded; article text as the API gives it"
 }

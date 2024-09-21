@@ -38,6 +38,7 @@ In dit besluit wordt verstaan onder:<br>
 &nbsp; b) het is een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 &nbsp; c) het maakt deel uit van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 &nbsp; d) het is opgenomen in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+1°/1 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 2° ROCE: de return on capital employed, zijnde de gewogen gemiddelde kapitaalkost = (aandeel financiële schulden in totale financiering) x intrestkost + (aandeel eigen vermogen in totale financiering) x kost eigen vermogen, waarbij totale financiering = financiële schulden + eigen vermogen;<br>
 3° Toegankelijk Vlaanderen: het agentschap, vermeld in het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting;<br>
 4° verblijfsruimte: de kamer van een zorggebruiker, een gemeenschappelijke zit- en eetruimte of een activiteiten- en therapieruimte;<br>
@@ -47,7 +48,7 @@ In dit besluit wordt verstaan onder:<br>
 
 In dit artikel wordt verstaan onder het decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging.<br>
 <br>
-Dit besluit is van toepassing op de revalidatievoorzieningen, vermeld in artikel 2, 16°, van het decreet van 6 juli 2018, waarvan het erkenningsnummer begint met het nummer 7.72, 7.73 of 7.74.0.<br>
+Dit besluit is van toepassing op de revalidatievoorzieningen, vermeld in artikel 2, 16°, van het decreet van 6 juli 2018, waarvan het erkenningsnummer begint met het nummer 7.72, 7.73, 7.74.0 of 7.76.5.<br>
 <br>
 In afwijking van het tweede lid is dit besluit niet van toepassing op:<br>
 1° de ziekenhuizen, vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
@@ -173,7 +174,9 @@ Als een revalidatievoorziening een deelwerking voor ambulante zorgverlening heef
 <br>
 Als een revalidatievoorziening een deelwerking voor ambulante zorgverlening heeft en een voor residentiële opvang, maar de revalidatieovereenkomst geen duidelijke opsplitsing van het aantal zorggebruikers of het aantal personeelsleden toelaat, wordt de maximale subsidiabele oppervlakte berekend op basis van de dominante deelwerking van de revalidatievoorziening die de functioneel bevoegde entiteit heeft aanvaard.<br>
 <br>
-In dit artikel wordt verstaan onder functioneel bevoegde entiteit: het departement of het agentschap binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin dat is aangewezen om het beleid over de actor in de zorg of de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, uit te voeren.
+In dit artikel wordt verstaan onder functioneel bevoegde entiteit: het departement of het agentschap binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin dat is aangewezen om het beleid over de actor in de zorg of de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, uit te voeren.<br>
+<br>
+Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, als de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## Hoofdstuk 4. Investeringssubsidie
 
