@@ -222,7 +222,9 @@ Het Fonds brengt de aanvrager op de hoogte van de beslissing.<br>
 <br>
 Nadat de aanvrager de beslissing tot toekenning van de investeringssubsidie heeft ontvangen, kan de aanvrager het bevel geven tot aanvang van de werkzaamheden of kan hij de bestelling plaatsen.<br>
 <br>
-De aanvrager voltooit het project binnen twee jaar nadat hij de beslissing tot toekenning van de investeringssubsidie heeft ontvangen of binnen het jaar na de ingebruikname van een VIPA-gesubsidieerd project. De aanvrager meldt de datum van voltooiing aan het Fonds. Als het project niet is voltooid binnen de voormelde termijn, vervalt de beslissing tot toekenning van de investeringssubsidie. De voormelde termijn kan, op gemotiveerd verzoek van de aanvrager, door het Fonds met maximaal twee jaar worden verlengd in geval van overmacht.&nbsp;Alleen de minister kan een verdere verlenging toestaan.
+De aanvrager voltooit het project binnen twee jaar nadat hij de beslissing tot toekenning van de investeringssubsidie heeft ontvangen of binnen het jaar na de ingebruikname van een VIPA-gesubsidieerd project. De aanvrager meldt de datum van voltooiing aan het Fonds. Als het project niet is voltooid binnen de voormelde termijn, vervalt de beslissing tot toekenning van de investeringssubsidie. In geval van overmacht, en op gemotiveerd verzoek van de aanvrager, kan de voormelde termijn in de volgende gevallen op de volgende wijze worden verlengd:<br>
+1° door het Fonds, als die termijn met maximum twee jaar wordt verlengd;&nbsp;<br>
+2° door de minister, als die termijn met meer dan twee jaar wordt verlengd.
 
 ### ART 11.
 
