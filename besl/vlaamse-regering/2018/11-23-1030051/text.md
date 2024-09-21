@@ -27,6 +27,12 @@ Besluit :
 § 1. In dit besluit wordt verstaan onder:<br>
 1° ...;<br>
 2° dienst voor zelfstandig wonen: een dienst voor personen met een fysieke handicap die nu vergund is conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap als vermeld in het besluit van de Vlaamse Regering van 31 juli 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor diensten voor zelfstandig wonen van gehandicapte personen zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten;<br>
+2°/1 erfgoedgebouw: een gebouw dat aan één van de volgende voorwaarden voldoet:&nbsp;<br>
+a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+2°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 3° gebruiker: de persoon met een handicap die gebruikmaakt van de ondersteuning door een voorziening voor personen met een handicap;<br>
 4° internaat voor minderjarigen: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, en die onder het internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar, vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semiresidentiële voorzieningen voor personen met een handicap;<br>
 5° multifunctioneel centrum: een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
@@ -44,12 +50,14 @@ Besluit :
 § 2. Dit besluit is van toepassing op de volgende voorzieningen voor personen met een handicap:<br>
 1° ...;<br>
 2° internaten voor minderjarigen;<br>
-3° ...;<br>
+3° internaten met permanente openstelling;;<br>
 4° revalidatiecentra;<br>
 5° semi-internaten;<br>
 6° tehuizen van kort verblijf;<br>
 7° units voor geïnterneerden;<br>
 8° units voor observatie, diagnose en behandeling.<br>
+<br>
+In het eerste lid, 3°, wordt verstaan onder internaat met permanente openstelling: het internaat dat erkend is als multifunctioneel centrum conform artikel 5, §1, van het besluit van de Vlaamse Regering van 31 augustus 2023 over de transitie van sommige instellingen van Onderwijs naar Welzijn.<br>
 <br>
 Dit besluit is niet van toepassing op voorzieningen die onder het toepassingsgebied vallen van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.<br>
 <br>
@@ -103,28 +111,14 @@ Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de norm, ve
 Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toestaan van de norm, vermeld in het eerste lid, 1°.<br>
 <br>
 § 5. Voor het gebruikerscomfort van de infrastructuur gelden de volgende normen:<br>
-1° aan de trappen zijn leuningen aangebracht;<br>
-2° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
-3° in alle verblijfsruimten, met uitzondering van het sanitair, zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
-4° in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
-5° ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten waar in een raam moet worden voorzien, bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
-6° de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
-7° in alle verblijfsruimten waar in een raam voorzien moet worden, begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
-8° de inkijk van buitenaf kan worden beperkt als de gebruiker dat wil;<br>
-9° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
-10° in alle verblijfsruimten kan de temperatuur overdag minstens 20 ° C bedragen;<br>
-11° alle nuttige maatregelen worden genomen om in alle verblijfsruimten en in normale meteorologische omstandigheden ervoor te zorgen dat de temperatuur nooit hoger dan 27 ° C is;<br>
-12° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
-13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
-14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
-15° de minimale verdiepingshoogte is 2,50 meter (vloer tot afgewerkt plafond);<br>
-16° de signalisatie is aangepast aan de doelgroep.<br>
+1° de verlichting houdt rekening met de veiligheid en behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2° de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+3° in alle verblijfsruimtes bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+4° de inkijk van buitenaf kan worden beperkt;<br>
+5° de signalisatie is aangepast aan de doelgroep;<br>
+6° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem.<br>
 <br>
-Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 7° :<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
+Voor een erfgoedgebouw kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 3°.
 
 ## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de internaten voor minderjarigen, [... (opgeh. BVR 20 maart 2020, art. 42, I: 1 januari 2020)] de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling
 
@@ -208,28 +202,14 @@ Voor de uitrusting en inrichting van de infrastructuur gelden al de volgende nor
 ### ART 10.
 
 Voor het gebruikerscomfort van de infrastructuur gelden al de volgende normen:<br>
-1° aan de trappen zijn leuningen aangebracht;<br>
-2° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
-3° in alle verblijfsruimten, met uitzondering van het sanitair, zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
-4° in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
-5° ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten waar een raam moet worden voorzien, bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
-6° de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. 's Nachts zijn de kamers en gangen zodanig verlicht dat de gebruikers zich veilig kunnen verplaatsen. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
-7° in alle verblijfsruimten waar in een raam moet worden voorzien, begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
-8° de inkijk van buitenaf kan worden beperkt als de gebruiker dat wil;<br>
-9° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
-10° in alle verblijfsruimten kan de temperatuur overdag minstens 22 ° C bedragen;<br>
-11° alle nuttige maatregelen worden genomen om in alle verblijfsruimten en in normale meteorologische omstandigheden ervoor te zorgen dat de temperatuur nooit hoger dan 27 ° C is;<br>
-12° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
-13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
-14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
-15° de minimale verdiepingshoogte is 2,50 m (vloer tot afgewerkt plafond);<br>
-16° de signalisatie is aangepast aan de doelgroep.<br>
+1° de verlichting houdt rekening met de veiligheid en behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2° de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+3° in alle verblijfsruimtes bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+4° de inkijk van buitenaf kan worden beperkt;<br>
+5° de signalisatie is aangepast aan de doelgroep;<br>
+6° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem.<br>
 <br>
-Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 7° :<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
+Voor een erfgoedgebouw kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 3°.
 
 ### ART 11.
 
@@ -375,7 +355,7 @@ De subsidiabele oppervlakte bedraagt maximaal:<br>
 7° voor een unit voor observatie, diagnose en behandeling: 65 m<sup>2</sup>&nbsp;per plaats;<br>
 8° ...<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan alleen op gemotiveerd verzoek afgeweken worden als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
+Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
 
 ## HOOFDSTUK 4. Investeringssubsidie
 
@@ -438,11 +418,6 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw;<br>
 4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.<br>
-<br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60% van de goedgekeurde raming, tot maximaal 50 euro per m<sup>2</sup>. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is.<br>
 <br>
 De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.
@@ -451,7 +426,12 @@ De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.
 
 Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75% van het basisbedrag van de investeringssubsidie, vermeld in artikel 23. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, maximaal 100% van het basisbedrag van de investeringssubsidie, vermeld in artikel 23.<br>
 <br>
-Voor de aankoop kan ten hoogste 60% van de som van de door de Vlaamse Belastingdienst, vermeld in het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratierechten of btw in aanmerking komen voor de investeringssubsidie.
+Voor de aankoop kan ten hoogste 60% van de som van de door de Vlaamse Belastingdienst, vermeld in het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratierechten of btw in aanmerking komen voor de investeringssubsidie.<br>
+<br>
+In afwijking van het eerste lid kan het basisbedrag van de totale investeringssubsidie voor aankoop met verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de betreffende voorziening, vermeld in artikel 24, §1 en §3, als het gaat om een ingrijpende duurzame verbouwing, waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. De voormelde verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermde volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij erfgoedgebouwen waar de voormelde renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de zorginfrastructuur, bepaalt;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.
 
 ### ART 27.
 
