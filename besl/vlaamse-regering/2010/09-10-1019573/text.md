@@ -8,7 +8,16 @@ De Vlaamse Regering,<br />Gelet op het decreet van 23 februari 1994 inzake de in
 
 ### ART. 1.
 
-Artikel 1. In dit besluit wordt verstaan onder : <br />1° centrum voor algemeen welzijnswerk : een door de Vlaamse Gemeenschap erkend centrum voor algemeen welzijnswerk als vermeld in het decreet betreffende het algemeen welzijnswerk;<br />2° centrum voor teleonthaal : een door de Vlaamse Gemeenschap erkend centrum voor teleonthaal als vermeld in het decreet betreffende het algemeen welzijnswerk;<br />3° sector van het algemeen welzijnswerk : de centra voor algemeen welzijnswerk en de centra voor teleonthaal.
+Artikel 1. In dit besluit wordt verstaan onder :<br>
+1° centrum voor algemeen welzijnswerk : een door de Vlaamse Gemeenschap erkend centrum voor algemeen welzijnswerk als vermeld in het decreet betreffende het algemeen welzijnswerk;<br>
+2° centrum voor teleonthaal : een door de Vlaamse Gemeenschap erkend centrum voor teleonthaal als vermeld in het decreet betreffende het algemeen welzijnswerk;<br>
+2°/1 erfgoedgebouw: een gebouw dat aan één van de volgende voorwaarden voldoet:&nbsp;<br>
+a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+d)een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+2°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
+3° sector van het algemeen welzijnswerk : de centra voor algemeen welzijnswerk en de centra voor teleonthaal.
 
 ## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
 
@@ -52,16 +61,27 @@ a) een verblijfsruimte. Die bevat de bewonerskamer, de sanitaire cel met minsten
 3) voor een gezinsstudio van minstens 3 personen per studio: de totale nettovloeroppervlakte van de tweepersoonsstudio, vermeerderd met 12 m2 per bijkomende persoon;<br>
 b) voldoende buitenruimte voor gebruikers, bezoekers en personeel;<br>
 c) 25% integraal toegankelijke studio's;<br>
-d) één gemeenschappelijke badkamer met een bad en een toilet met wastafel met warm en koud water;<br>
+d) één gemeenschappelijke badkamer met een bad en een toilet met wastafel met warm en koud water. Voor kleinschalige projecten studiowonen geldt deze voorwaarde niet;;<br>
 e) de ruimtes, vermeld in punt a) tot d), voldoen aan de toepasselijke normen inzake woonkwaliteit.<br>
 <br>
-De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 5°, a) 1), 2) en 3), en c) en d). Een afwijking kan alleen worden toegestaan als minimaal de volgende ruimten aanwezig zijn:<br>
+In het eerste lid, 6°, d), wordt verstaan onder kleinschalige projecten studiowonen: projecten studiowonen van maximum zeven studio’s.<br>
+<br>
+Het Fonds kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 5°, a) 1), 2) en 3), en c) en d). De voormelde afwijking kan alleen worden toegestaan als minimaal de volgende ruimten aanwezig zijn:<br>
 1° één integraal toegankelijke bewonerskamer;<br>
-2° één gemeenschappelijke badkamer die minstens beschikt over een bad en een toilet met wastafel met warm en koud water als er een integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is. Als er geen integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is, is er één integraal toegankelijke gemeenschappelijke badkamer, die minstens beschikt over een bad en een toilet met wastafel met warm en koud water.<br>
+2° één gemeenschappelijke badkamer, die minstens beschikt over een bad en een toilet met wastafel met warm en koud water als er een integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is. Als er geen integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is, is er één integraal toegankelijke gemeenschappelijke badkamer, die minstens beschikt over een bad en een toilet met wastafel met warm en koud water.<br>
 <br>
-De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 6°, a), 1), 2) en 3), en c). Een afwijking kan alleen worden toegestaan als er minimaal één integraal toegankelijke studio aanwezig is.<br>
+Het Fonds kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 6°, a), 1), 2) en 3), en c). De voormelde afwijking kan alleen worden toegestaan als er minimaal één integraal toegankelijke studio aanwezig is.<br>
 <br>
-De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan de voorwaarden bepalen waaronder de afwijkingen, vermeld in het derde en het vierde lid, kunnen worden toegestaan.
+De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan de voorwaarden bepalen waaronder de afwijkingen, vermeld in het derde en vierde lid, kunnen worden toegestaan.<br>
+<br>
+Voor het gebruikerscomfort van de infrastructuur gelden de volgende normen:<br>
+1° de verlichting houdt rekening met de veiligheid en behoeften van de gebruikers. In de verblijfsruimten is er een basisverlichting, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2° de minimale verdiepingshoogte is 2,50 meter, gemeten van de vloer tot aan het afgewerkte plafond;<br>
+3° in alle verblijfsruimtes bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
+4° de inkijk van buitenaf kan worden beperkt;<br>
+5° de signalisatie is aangepast aan de doelgroep;<br>
+6° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -95,7 +115,7 @@ b) als het centrum voorziet in residentiële opvang, wordt de subsidiabele opper
 3) 18 m2 bovenop de oppervlakte van een tweepersoonskamer of studio per extra gebruiker vanaf de derde persoon in een gezinskamer of -studio;<br>
 2° voor een centrum voor teleonthaal : 50 m2 per voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
 <br>
-Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 4. Investeringssubsidie
 
@@ -141,12 +161,6 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
-<br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
 <br>
 De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
@@ -155,7 +169,12 @@ De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
 
 Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 7. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop en de noodzakelijk bijbehorende verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 7.<br>
 <br>
-Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.
+Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.<br>
+<br>
+In afwijking van het eerste lid kan het basisbedrag van de totale investeringssubsidie voor aankoop met verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 8, §1 en §3, als het gaat om een ingrijpende duurzame verbouwing, waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. De voormelde verbouwing voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2°&nbsp;&nbsp; &nbsp;het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de zorginfrastructuur, bepaalt;<br>
+3°&nbsp;&nbsp; &nbsp;het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.
 
 ### ART. 11.
 
