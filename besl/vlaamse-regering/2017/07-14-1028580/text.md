@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder:<br>
 5° besluit van 14 juli 2017: het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen;<br>
 5°/1 departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 6° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
-7° coördinatiecommissie: de commissie, vermeld in artikel 12 van dit besluit;<br>
+7° ...;<br>
 8° eenheid: een operatiezaal met inbegrip van het lokaal voor sterilisatie en de ontwaakzaal, een bed voor intensieve verzorging binnen de functie intensieve zorgen, het verloskwartier, de functie van lokale neonatale zorg (N*-functie), een bed in een dienst voor intensieve neonatologie (NIC-dienst), een bunker in een dienst Radiotherapie of een post van een centrum voor de behandeling van chronische nierinsufficiëntie;<br>
 9° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 10° herconditionering: de werken om een gebouw volledig of gedeeltelijk te strippen, of een wijziging van diensten die gepaard gaat met een herallocatie van diensten of functies met een noodzakelijke grondige aanpassing van de infrastructuur;<br>
@@ -100,7 +100,7 @@ c) de meerderheid van de aandelen of lidmaatschapsrechten van respectievelijk de
 Om voor een strategisch forfait in aanmerking te komen, moet de investering plaatsvinden of plaatsgevonden hebben conform al de volgende normen:<br>
 1° de algemene bouwfysische, technische en kwalitatieve normen;<br>
 2° de specifieke bouwfysische, technische en kwalitatieve normen, vermeld in artikel 58, 66 en 67 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
-3° de narmen, vermeld in het ministerieel besluit van 18 december 2009 tot bepaling van de VIPA criteria duurzaamheid.
+3° de normen, vermeld in het ministerieel besluit van 18 december 2009 tot bepaling van de VIPA criteria duurzaamheid.
 
 ### ART 6.
 
@@ -186,7 +186,9 @@ De stukken en de gegevens, vermeld in het eerste lid, 4° tot en met 6°, vormen
 <br>
 De stukken en de gegevens, vermeld in het eerste lid, 7° tot en met 14°, vormen het projectplan.<br>
 <br>
-In het eerste lid, 1°, j), en 9°, wordt verstaan onder een programma van eisen: een basisdocument waarin de projectgebonden doelstellingen en prestatie-eisen op het vlak van comfort en gebruik van energie, water en materialen worden bepaald. Per type van lokaal worden de objectief evalueerbare comfortgrenswaarden en specifieke technische eisen vermeld. De minister bepaalt de minimumeisen en de voorwaarden op het vlak van comfort en gebruik van energie, water en materialen.
+In het eerste lid, 1°, j), en 9°, wordt verstaan onder een programma van eisen: een basisdocument waarin de projectgebonden doelstellingen en prestatie-eisen op het vlak van comfort en gebruik van energie, water en materialen worden bepaald. Per type van lokaal worden de objectief evalueerbare comfortgrenswaarden en specifieke technische eisen vermeld. De minister bepaalt de minimumeisen en de voorwaarden op het vlak van comfort en gebruik van energie, water en materialen.<br>
+<br>
+Als voorzieningen die een VIPA-aanvraag hebben ingediend die ontvankelijk verklaard is of die een formele goedkeuring voor een VIPA-betoelaging hebben gekregen, een actualisatie of wijziging van hun plan indienen, kan het Fonds bepalen dat deze moeten beantwoorden aan de bouwtechnische en bouwfysische normen of de criteria duurzaamheid zoals die van kracht zijn op het moment dat die wijzigingsaanvraag is ingediend.
 
 ### ART 10.
 
@@ -208,6 +210,8 @@ De aanvraag van een akkoord strategisch forfait, vermeld in het eerste lid, beva
 <br>
 Het Fonds stuurt binnen veertien dagen na de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag. Een aanvraag is ontvankelijk als ze voldoet aan de formele vereisten, vermeld in het eerste lid.<br>
 <br>
+Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over de ontvankelijkheid van de aanvraag. De termijn, vermeld in tweede lid, wordt geschorst tot de aanvrager de bijkomende vragen heeft beantwoord. Als de aanvrager geen bijkomende inlichtingen aan het Fonds bezorgt binnen een jaar, wordt de aanvraag, vermeld in het eerste lid, als onbestaande beschouwd. In het voormelde geval licht het Fonds de aanvrager daarover in.<br>
+<br>
 § 2. Het Fonds vraagt binnen veertien dagen na de datum van de ontvangst van de ontvankelijke aanvraag advies aan:<br>
 1° het departement over de inhoudelijke aspecten, onder meer over:<br>
 a) de erkenningsnormen;<br>
@@ -226,23 +230,19 @@ d) over het beantwoorden aan de voorwaarden, vermeld in artikel 5, § 2, van het
 
 ### ART 12.
 
-Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen. Die coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds en van het departement. De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. De adviezen die zijn uitgebracht conform artikel 11, § 2 en § 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
-<br>
-De coördinatiecommissie heeft tot taak in overleg een advies op te maken over de goedkeuring van het masterplan en over het verlenen van een akkoord strategisch forfait of een voorlopig akkoord strategisch forfait, en dat advies aan de minister te bezorgen.<br>
-<br>
-Bij gebrek aan een eensgezind standpunt wordt in het advies melding gemaakt van de verschillende standpunten.
+Het Fonds maakt op basis van de verschillende adviezen, vermeld in artikel 11, §3, per project een advies en een ontwerp van beslissing op en legt die, samen met de voormelde adviezen, voor aan de Inspectie van Financiën, die in het bijzonder adviseert over de coherentie van de akkoorden strategisch forfait binnen de meerjarenbegroting per sector van de Vlaamse Gemeenschap. Op basis van het advies van Inspectie van Financiën legt het Fonds zijn advies en ontwerp van beslissing voor aan de minister.
 
 ### ART 13.
 
-§ 1. Bij gunstig advies van de coördinatiecommissie legt het Fonds, binnen dertig dagen na het advies, een ontwerp van een brief ter ondertekening voor aan de minister, waarbij het masterplan wordt goedgekeurd en het akkoord strategisch forfait of het voorlopige akkoord strategisch forfait voor het project in kwestie wordt verleend.<br>
+§ 1. Bij gunstig advies legt het Fonds, binnen dertig dagen na het advies, een ontwerp van een brief ter ondertekening voor aan de minister, waarbij het masterplan wordt goedgekeurd en het akkoord strategisch forfait of het voorlopige akkoord strategisch forfait voor het project in kwestie wordt verleend.<br>
 <br>
 De minister beslist over de goedkeuring van het masterplan en over het verlenen van het akkoord strategisch forfait of het voorlopige akkoord strategisch forfait.<br>
 <br>
-§ 2. Bij ongunstig advies van de coördinatiecommissie legt het Fonds, binnen dertig dagen na het advies, een ontwerp van een brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan niet kan worden goedgekeurd of waarom geen akkoord strategisch forfait of geen voorlopig akkoord strategisch forfait voor het project in kwestie kan worden verleend.<br>
+§ 2. Bij ongunstig advies legt het Fonds, binnen dertig dagen na het advies, een ontwerp van een brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan niet kan worden goedgekeurd of waarom geen akkoord strategisch forfait of geen voorlopig akkoord strategisch forfait voor het project in kwestie kan worden verleend.<br>
 <br>
 De minister beslist over de goedkeuring van het masterplan en over het verlenen van het akkoord strategisch forfait of het voorlopige akkoord strategisch forfait.<br>
 <br>
-§ 3. Als de coördinatiecommissie geen eensgezind standpunt heeft ingenomen als vermeld in artikel 12, derde lid, wordt het advies binnen dertig dagen bezorgd aan de minister die beslist over de goedkeuring van het masterplan en over het verlenen van het akkoord strategisch forfait of het voorlopige akkoord strategisch forfait voor het project in kwestie.<br>
+§ 3. ....<br>
 <br>
 § 4. De aanvrager wordt op de hoogte gebracht van de beslissing van de minister.<br>
 <br>
@@ -256,7 +256,7 @@ Een akkoord strategisch forfait houdt in dat het project van de aanvrager in pri
 <br>
 § 7. Als de aanvrager voor een bepaald project of, als het project uit verschillende projectdelen bestaat, voor een bepaald projectdeel al werkzaamheden aangevat heeft of een bestelling geplaatst heeft zonder te beschikken over een akkoord strategisch forfait voor het project, komt hij niet meer in aanmerking voor een strategisch forfait voor het betreffende project of projectdeel.<br>
 <br>
-§ 8. De aanvrager geeft voor het project het bevel tot aanvang van de werken of plaatst de bestelling binnen twee jaar na de datum van het akkoord strategisch forfait. Zo niet vervalt het akkoord strategisch forfait. De geldigheidstermijn van het akkoord strategisch forfait kan, op gemotiveerd verzoek van de aanvrager, door de minister wel worden verlengd in geval van overmacht. Nadat de aanvrager het bevel gegeven heeft tot aanvang van de werken of de bestelling geplaatst heeft, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning&nbsp;of de omgevingsvergunning of van de bestelling aan het Fonds en deelt hij aan het Fonds de vermoedelijke datum van ingebruikname mee van de infrastructuur waarvoor de werken of de bestelling plaatsvinden. Het bevel tot aanvang van de werken wordt gegeven en de bestelling wordt geplaatst conform de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten.<br>
+§ 8. De aanvrager geeft voor het project het bevel tot aanvang van de werken of plaatst de bestelling binnen twee jaar na de datum van het akkoord strategisch forfait. Zo niet vervalt het akkoord strategisch forfait. De geldigheidstermijn van het akkoord strategisch forfait kan, op gemotiveerd verzoek van de aanvrager, in geval van overmacht door het Fonds worden verlengd als die geldigheidstermijn met maximum twee jaar wordt verlengd en door de minister als die geldigheidstermijn met meer dan twee jaar wordt verlengd. Nadat de aanvrager het bevel gegeven heeft tot aanvang van de werken of de bestelling geplaatst heeft, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning&nbsp;of de omgevingsvergunning of van de bestelling aan het Fonds en deelt hij aan het Fonds de vermoedelijke datum van ingebruikname mee van de infrastructuur waarvoor de werken of de bestelling plaatsvinden. Het bevel tot aanvang van de werken wordt gegeven en de bestelling wordt geplaatst conform de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten.<br>
 <br>
 § 9. Als het strategisch forfait betrekking heeft op een project dat bestaat uit verschillende projectdelen, kan de minister op voorhand en per projectdeel het overeenkomstige deel van het strategisch forfait bepalen dat per projectdeel wordt vrijgegeven.
 
@@ -266,17 +266,17 @@ Uiterlijk negentig dagen vóór de aanvang van de werkzaamheden die betrekking h
 <br>
 Het Fonds stuurt, binnen zeven dagen na de ontvangst van de aanvraag, een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is, en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag. Een aanvraag is ontvankelijk als ze voldoet aan de formele vereisten, vermeld in het eerste lid.<br>
 <br>
-Artikel 11, § 2 en § 3, artikel 12 en 13, § 1 tot en met § 3, zijn van overeenkomstige toepassing, met dien verstande dat:<br>
+Artikel 11, § 2 en § 3, artikel 12 en artikel 13, § 1 en &nbsp;§ 2, zijn van overeenkomstige toepassing, met dien verstande dat:<br>
 1° het Fonds de adviezen, vermeld in artikel 11, § 2, aanvraagt binnen zeven dagen na de datum van ontvangst van de ontvankelijke aanvraag;<br>
 2° de adviezen, vermeld in punt 1°, aan het Fonds worden bezorgd binnen vijftien dagen na de ontvangst van de adviesvraag;<br>
-3° de coördinatiecommissie haar advies aan het Fonds en aan de minister bezorgt binnen dertig dagen na de ontvangst van de adviesvraag;<br>
-4° na advies van de coördinatiecommissie de minister over de aanvraag tot wijziging van het akkoord strategisch forfait beslist binnen zestig dagen na de datum van ontvangst van de ontvankelijke aanvraag.<br>
+3° ...;<br>
+4° na advies van het Fonds de minister over de aanvraag tot wijziging van het akkoord strategisch forfait beslist binnen zestig dagen na de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
 De aanvrager wordt op de hoogte gebracht van het akkoord van de minister met de aanvraag, of van de negatieve beslissing van de minister.<br>
 <br>
 Als, in het kader van de procedure tot wijziging van het akkoord strategisch forfait, de aanvrager voor een bepaald projectdeel al werkzaamheden aangevat heeft of een bestelling geplaatst heeft zonder te beschikken over het akkoord van de minister met de aanvraag tot wijziging van het akkoord strategisch forfait voor het projectdeel, komt de aanvrager niet meer in aanmerking voor een strategisch forfait voor het betreffende projectdeel.<br>
 <br>
-Ook in geval van een gewijzigd akkoord strategisch forfait geeft de aanvrager het bevel tot aanvang van de werken of plaatst hij de bestelling voor het project binnen twee jaar na de datum van het oorspronkelijke definitieve akkoord strategisch forfait. Zo niet vervalt het gewijzigde akkoord strategisch forfait. De geldigheidstermijn van het akkoord strategisch forfait kan, op gemotiveerd verzoek van de aanvrager, door de minister wel worden verlengd in geval van overmacht. Nadat de aanvrager het bevel gegeven heeft tot aanvang van de werken of de bestelling geplaatst heeft, bezorgt de aanvrager onmiddellijk een kopie van het bevel of van de bestelling aan het Fonds. Het bevel tot aanvang van de werken wordt gegeven en de bestelling wordt geplaatst conform de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten.
+Ook in geval van een gewijzigd akkoord strategisch forfait geeft de aanvrager het bevel tot aanvang van de werken of plaatst hij de bestelling voor het project binnen twee jaar na de datum van het oorspronkelijke definitieve akkoord strategisch forfait. Zo niet vervalt het gewijzigde akkoord strategisch forfait. De geldigheidstermijn van het akkoord strategisch forfait kan, op gemotiveerd verzoek van de aanvrager, in geval van overmacht door het Fonds worden verlengd als die geldigheidstermijn met maximum twee jaar wordt verlengd en door de minister als die geldigheidstermijn met meer dan twee jaar wordt verlengd. Nadat de aanvrager het bevel gegeven heeft tot aanvang van de werken of de bestelling geplaatst heeft, bezorgt de aanvrager onmiddellijk een kopie van het bevel of van de bestelling aan het Fonds. Het bevel tot aanvang van de werken wordt gegeven en de bestelling wordt geplaatst conform de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten.
 
 ### ART 15.
 
@@ -369,7 +369,7 @@ Als de aanvrager geen bezwaar heeft ingediend conform het vierde lid, wordt hij 
 
 ### ART 20.
 
-...
+Het Fonds betaalt uiterlijk op 31 december jaarlijks het strategisch forfait uit.
 
 ### ART 21.
 
@@ -381,7 +381,7 @@ In het jaar dat volgt op het jaar van de ingebruikname van de infrastructuur maa
 
 Afdeling 3 en 4 zijn van toepassing op een project met volledige autofinanciering zonder voorafgaand akkoord strategisch forfait. De aanvrager moet beschikken over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project.<br>
 <br>
-In afwijking van artikel 13, § 7, kan het bevel tot aanvang van de werken al worden gegeven of kan de bestelling al worden geplaatst nadat de coördinatiecommissie een gunstig advies heeft verleend over een akkoord strategisch forfait, onder voorbehoud van de beslissingsbevoegdheid van de minister. In afwijking van artikel 12, tweede lid, wordt de aanvrager op de hoogte gebracht van het advies van de coördinatiecommissie.<br>
+In afwijking van artikel 13, § 7, kan het bevel tot aanvang van de werken al worden gegeven of kan de bestelling al worden geplaatst nadat het Fonds een gunstig advies heeft verleend over een akkoord strategisch forfait, onder voorbehoud van de beslissingsbevoegdheid van de minister. In afwijking van artikel 12 wordt de aanvrager op de hoogte gebracht van het advies van het Fonds.<br>
 <br>
 De aanvrager kan een aanvraag tot opstartbeslissing van het strategisch forfait op zijn vroegst indienen nadat hij het akkoord strategisch forfait heeft verkregen.
 
@@ -420,6 +420,10 @@ De aanvrager bezorgt de aanvraag, de informatie of de stukken, met inbegrip van 
 Het Fonds bezorgt de berekening van het jaarlijkse instandhoudingsforfait, vermeld in hoofdstuk 3 van het besluit van 14 juli 2017, aan de exploitant van het ziekenhuis. Als de exploitant niet akkoord gaat met die berekening, kan hij binnen dertig dagen na de ontvangst van die berekening op elektronische wijze bezwaar aantekenen bij het Fonds. De beslissing van de leidend ambtenaar van het Fonds over het bezwaar wordt binnen dertig dagen na de ontvangst van het bezwaar aan de exploitant meegedeeld.<br>
 <br>
 Als de exploitant geen bezwaar heeft ingediend conform het eerste lid, wordt hij van rechtswege vermoed akkoord te gaan met de berekening van het jaarlijkse instandhoudingsforfait, vermeld in hoofdstuk 3 van het besluit van 14 juli 2017.
+
+### ART 28/1.
+
+Het Fonds betaalt uiterlijk op 31 december jaarlijks het instandhoudingsforfait uit.
 
 ## HOOFDSTUK 4 Gemeenschappelijke bepalingen over het strategisch forfait en het instandhoudingsforfait
 
