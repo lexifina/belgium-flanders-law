@@ -16,6 +16,7 @@ In dit besluit wordt verstaan onder :<br>
 5° dagverzorgingscentrum : een voorziening als vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009;<br>
 6° decreet van 23 februari 1994 : het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 6°/1 Departement Zorg: het departement, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+6°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994;<br>
 7° functie dagopname binnen een ziekenhuis : een aanwijsbare entiteit binnen de vestigingsplaats van een ziekenhuis, met uitzondering van een psychiatrisch ziekenhuis, waarin verstrekkingen worden verricht als vermeld in de desbetreffende artikelen van de overeenkomst tussen de verplegingsinrichtingen en de verzekeringsinstellingen, zonder dat die verstrekkingen aanleiding geven tot een ziekenhuisverblijf met overnachting;<br>
 8° gebruikstoelage : een alternatieve vorm van investeringssubsidie als vermeld in artikel 7bis van het decreet van 23 februari 1994;<br>
 9° lokaal dienstencentrum : een voorziening als vermeld in artikel 16 van het Woonzorgdecreet van 13 maart 2009;<br>
@@ -280,17 +281,37 @@ c) over de controle van de verwantschapsband, vermeld in de artikelen 3 en 4.<br
 
 ### ART. 31.
 
-Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen. Die coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds, het intern verzelfstandigd agentschap en het Departement Zorg waaraan het advies, vermeld in artikel 30, § 2, is gevraagd. De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. De adviezen die zijn uitgebracht volgens de bepalingen van artikel 30, § 2 en § 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
-<br>
-De commissie heeft tot taak in overleg een advies op te maken over de goedkeuring van het masterplan en over het verlenen van een principieel akkoord, en dat advies aan de minister te bezorgen.<br>
-<br>
-Bij gebrek aan een eensgezind standpunt wordt in het advies melding gemaakt van de verschillende standpunten.
+Het Fonds maakt op basis van de verschillende adviezen, vermeld in artikel 30, per project een advies en een ontwerp van beslissing op en legt die, samen met de voormelde adviezen, voor aan de Inspectie van Financiën, die in het bijzonder adviseert over de coherentie van de principiële akkoorden binnen de meerjarenbegroting per sector van de Vlaamse Gemeenschap. Op basis van het advies van Inspectie van Financiën legt het Fonds zijn advies en ontwerp van beslissing voor aan de minister.
 
 ## Onderafdeling 5. Beslissing over het masterplan en over [het voorlopige principieel akkoord, het definitieve principieel akkoord of de wijziging van het definitieve principieel akkoord (verv. BVR 14 februari 2014, art. 57, I: 25 april 2014)]
 
 ### ART. 32.
 
-§ 1. Bij gunstig advies van de coördinatiecommissie, vermeld in artikel   31, legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van   brief ter ondertekening voor aan de minister, waarbij het masterplan wordt   goedgekeurd en het voorlopige, respectievelijk definitieve principieel   akkoord&nbsp;voor het project in kwestie wordt verleend.<BR><BR>De minister   beslist over de goedkeuring van het masterplan en over het verlenen van het   voorlopige, respectievelijk definitieve principieel akkoord.<BR><BR>§ 2. Bij   ongunstig advies van de coördinatiecommissie, vermeld in artikel 31, legt het   Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van brief voor aan   de minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan   niet kan worden goedgekeurd of waarom geen&nbsp;voorlopig, respectievelijk   definitief principieel akkoord voor het project in kwestie kan worden   gegeven.<BR><BR>De minister beslist over de goedkeuring van het masterplan en   over het verlenen van het voorlopige, respectievelijk definitieve principieel   akkoord.<BR><BR>§ 3. Als de coördinatiecommissie, vermeld in artikel 31, geen   eensgezind standpunt heeft ingenomen, wordt het advies, vermeld in artikel 31,   derde lid, binnen dertig kalenderdagen bezorgd aan de minister die beslist over   de goedkeuring van het masterplan en over het verlenen van het voorlopige,   respectievelijk definitieve principieel akkoord voor het project in   kwestie.<BR><BR>§ 4. De aanvrager wordt op de hoogte gebracht van de beslissing   van de minister.<BR><BR>§ 5. De goedkeuring van het masterplan is geen   verbintenis om een principieel akkoord te verlenen voor alle projecten die in   het masterplan zijn opgenomen.<BR><BR>§ 6. Een voorlopig principieel akkoord   houdt de goedkeuring in van het masterplan en van het betreffende   project.<BR><BR>Het definitieve principieel akkoord moet gevraagd worden   uiterlijk op 31 december van het tweede jaar dat volgt op het jaar waarin het   voorlopige principieel akkoord is verkregen. Zo niet vervalt het voorlopige   principieel akkoord.<BR><BR>Een definitief principieel akkoord houdt in dat het   project van de aanvrager in principe in aanmerking komt voor een   gebruikstoelage. Het vermeldt onder meer het masterplan en het project waarop   het betrekking heeft, de eventuele opmerkingen en de datum vanaf wanneer het   geldig is.<BR><BR>§ 7. Als de aanvrager voor een bepaald project al   werkzaamheden aangevat heeft, een bestelling geplaatst heeft of een aankoop   gedaan heeft zonder te beschikken over een definitief principieel akkoord over   het project, komt hij niet meer in aanmerking voor een gebruikstoelage voor het   betreffende project.<BR><BR>§ 8. De aanvrager moet met betrekking tot het   project het bevel geven tot aanvang van de werken, de bestelling plaatsen of de   authentieke akte verlijden ingeval van aankoop zonder verbouwing bij een lokaal   dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum   binnen twee jaar na de datum van het definitieve principieel akkoord, zoniet   vervalt het definitieve principieel akkoord. Nadat de aanvrager het bevel   gegeven heeft tot aanvang van de werken, de bestelling geplaatst heeft of de   voormelde authentieke akte verleden heeft, bezorgt de aanvrager onmiddellijk een   kopie van het bevel en van de stedenbouwkundige vergunning, van de bestelling of   van de authentieke akte aan het Fonds.<BR><BR>§ 9. Als de gebruikstoelage   betrekking heeft op verschillende projectonderdelen, kan de minister op voorhand   en per project het percentage van de gebruikstoelage bepalen dat per   projectonderdeel wordt vrijgegeven.
+§ 1. Bij gunstig advies legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van brief ter ondertekening voor aan de minister, waarbij het masterplan wordt goedgekeurd en het voorlopige, respectievelijk definitieve principieel akkoord&nbsp;voor het project in kwestie wordt verleend.<br>
+<br>
+De minister beslist over de goedkeuring van het masterplan en over het verlenen van het voorlopige, respectievelijk definitieve principieel akkoord.<br>
+<br>
+§ 2. Bij ongunstig advies legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan niet kan worden goedgekeurd of waarom geen&nbsp;voorlopig, respectievelijk definitief principieel akkoord voor het project in kwestie kan worden gegeven.<br>
+<br>
+De minister beslist over de goedkeuring van het masterplan en over het verlenen van het voorlopige, respectievelijk definitieve principieel akkoord.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De aanvrager wordt op de hoogte gebracht van de beslissing van de minister.<br>
+<br>
+§ 5. De goedkeuring van het masterplan is geen verbintenis om een principieel akkoord te verlenen voor alle projecten die in het masterplan zijn opgenomen.<br>
+<br>
+§ 6. Een voorlopig principieel akkoord houdt de goedkeuring in van het masterplan en van het betreffende project.<br>
+<br>
+Het definitieve principieel akkoord moet gevraagd worden uiterlijk op 31 december van het tweede jaar dat volgt op het jaar waarin het voorlopige principieel akkoord is verkregen. Zo niet vervalt het voorlopige principieel akkoord.<br>
+<br>
+Een definitief principieel akkoord houdt in dat het project van de aanvrager in principe in aanmerking komt voor een gebruikstoelage. Het vermeldt onder meer het masterplan en het project waarop het betrekking heeft, de eventuele opmerkingen en de datum vanaf wanneer het geldig is.<br>
+<br>
+§ 7. Als de aanvrager voor een bepaald project al werkzaamheden aangevat heeft, een bestelling geplaatst heeft of een aankoop gedaan heeft zonder te beschikken over een definitief principieel akkoord over het project, komt hij niet meer in aanmerking voor een gebruikstoelage voor het betreffende project.<br>
+<br>
+§ 8. De aanvrager moet met betrekking tot het project het bevel geven tot aanvang van de werken, de bestelling plaatsen of de authentieke akte verlijden ingeval van aankoop zonder verbouwing bij een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum binnen twee jaar na de datum van het definitieve principieel akkoord, zoniet vervalt het definitieve principieel akkoord. Nadat de aanvrager het bevel gegeven heeft tot aanvang van de werken, de bestelling geplaatst heeft of de voormelde authentieke akte verleden heeft, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning, van de bestelling of van de authentieke akte aan het Fonds.<br>
+<br>
+§ 9. Als de gebruikstoelage betrekking heeft op verschillende projectonderdelen, kan de minister op voorhand en per project het percentage van de gebruikstoelage bepalen dat per projectonderdeel wordt vrijgegeven.
 
 ### ART. 33.
 
@@ -303,7 +324,7 @@ Het Fonds vraagt advies aan :<br>
 2° voor de sector van de voorzieningen voor de sociale integratie van personen met een handicap : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 3° een of meer ambtenaren die ter beschikking staan van het Fonds.<br>
 <br>
-Na advies van de coördinatiecommissie, vermeld in artikel 31, beslist de minister over de aanvraag tot wijziging van het definitieve&nbsp;principieel akkoord binnen zestig kalenderdagen na de datum van ontvangst van de ontvankelijke aanvraag.<br>
+Na advies van het Fonds, beslist de minister over de aanvraag tot wijziging van het definitieve&nbsp;principieel akkoord binnen zestig kalenderdagen na de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
 De aanvrager wordt op de hoogte gebracht van het akkoord van de minister met de aanvraag, of van de negatieve beslissing.<br>
 <br>
@@ -337,7 +358,9 @@ Na de ontvangst van het definitieve principieel akkoord of, in voorkomend   geva
 
 ### ART. 38.
 
-De aanvrager wordt op de hoogte gebracht van de beslissing over de   toekenning van een gebruikstoelage.<BR><BR>Na de ondertekening van de beslissing   tot het verstrekken van een gebruikstoelage legt het Fonds, op naam van de   aanvrager, de gebruikstoelage vast en betaalt ze uit.
+De aanvrager wordt op de hoogte gebracht van de beslissing over de toekenning van een gebruikstoelage.<br>
+<br>
+Na de ondertekening van de beslissing tot het verstrekken van een gebruikstoelage legt het Fonds, op naam van de aanvrager, de gebruikstoelage vast en betaalt ze&nbsp;jaarlijks, uiterlijk op 31 december uit.
 
 ## HOOFDSTUK 6. De projecten waarvoor de gebruikstoelage dient als onrechtstreekse bijdrage in de kostprijs
 
@@ -611,17 +634,37 @@ d) over de naleving van de principes van de wetgeving betreffende de overheidsop
 
 ### ART. 61.
 
-Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen. Die coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds, het intern verzelfstandigd agentschap en het Departement Zorg waaraan het advies, vermeld in artikel 60, § 2, is gevraagd. De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. De adviezen, die zijn uitgebracht volgens de bepalingen van artikel 60, § 2 en § 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
-<br>
-De commissie heeft tot taak in overleg een advies op te maken over de goedkeuring van het masterplan en over het verlenen van een principieel akkoord, en dat advies aan de minister te bezorgen.<br>
-<br>
-Bij gebrek aan een eensgezind standpunt wordt in het advies melding gemaakt van de verschillende standpunten.
+...
 
 ## Onderafdeling 5. Beslissing over het masterplan en over het voorlopige en definitieve principieel akkoord
 
 ### ART. 62.
 
-§ 1. Bij gunstig advies van de coördinatiecommissie, vermeld in artikel   61, legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van   brief ter ondertekening voor aan de minister, waarbij het masterplan wordt   goedgekeurd en het voorlopige, respectievelijk definitieve principieel akkoord   voor het project in kwestie wordt verleend. <BR><BR>De minister beslist over de   goedkeuring van het masterplan en over het verlenen van het voorlopige,   respectievelijk definitieve principieel akkoord. <BR><BR>§ 2. Bij ongunstig   advies van de coördinatiecommissie, vermeld in artikel 61, legt het Fonds,   binnen dertig kalenderdagen na het advies, een ontwerp van brief voor aan de   minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan niet   kan worden goedgekeurd of waarom geen voorlopig, respectievelijk definitief   principieel akkoord voor het project in kwestie kan worden gegeven.<BR><BR>De   minister beslist over de goedkeuring van het masterplan en over het verlenen van   het voorlopige, respectievelijk definitieve principieel akkoord. <BR><BR>§ 3.   Als de coördinatiecommissie, vermeld in artikel 61, geen eensgezind standpunt   heeft ingenomen, wordt het advies, vermeld in artikel 61, derde lid, binnen   dertig kalenderdagen bezorgd aan de minister voor beslissing over de goedkeuring   van het masterplan en over het verlenen van het voorlopige, respectievelijk   definitieve principieel akkoord voor het project in kwestie.<BR><BR>§ 4. De   aanvrager wordt op de hoogte gebracht van de beslissing van de   minister.<BR><BR>§ 5. De goedkeuring van het masterplan is geen verbintenis om   een principieel akkoord te geven voor alle projecten die in het masterplan zijn   opgenomen. <BR><BR>§ 6. Een voorlopig principieel akkoord als vermeld in artikel   48, § 1, en artikel 54, § 1, houdt de goedkeuring in van het masterplan en van   het betreffende project. <BR><BR>§ 7. Een definitief principieel akkoord,   vermeld in artikel 48, § 2 en § 3, en artikel 54, § 2 en § 3, houdt in dat het   project van de aanvrager in principe in aanmerking komt voor een   gebruikstoelage. Het vermeldt onder meer het masterplan en het project waarop   het betrekking heeft, de eventuele opmerkingen en de datum vanaf wanneer het   geldig is. <BR><BR>§ 8. Als voor het project waarvoor de aanvraag wordt   ingediend, al werkzaamheden zijn aangevat, een bestelling is geplaatst of een   aankoop werd gedaan, zonder dat de aanvrager beschikt over een definitief   principieel akkoord voor het project, komt hij niet meer in aanmerking voor een   gebruikstoelage voor het betreffende project.<BR><BR>§ 9. Het definitieve   principieel akkoord moet gevraagd worden uiterlijk op 31 december van het tweede   jaar dat volgt op het jaar waarin het voorlopige principieel akkoord werd   verkregen, zo niet vervalt het voorlopige principieel akkoord.<BR><BR>§ 10. De   werken met betrekking tot het project moeten aangevangen zijn of de bestelling   moet geplaatst zijn binnen twee jaar na de datum van het definitieve principieel   akkoord, zoniet vervalt het definitieve principieel akkoord. <BR><BR>§ 11. Als   de gebruikstoelage betrekking heeft op verschillende projectonderdelen, kan de   minister op voorhand en per project het percentage van de gebruikstoelage   bepalen dat per projectonderdeel wordt vrijgegeven.
+§ 1. Bij gunstig advies legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van brief ter ondertekening voor aan de minister, waarbij het masterplan wordt goedgekeurd en het voorlopige, respectievelijk definitieve principieel akkoord voor het project in kwestie wordt verleend.<br>
+<br>
+De minister beslist over de goedkeuring van het masterplan en over het verlenen van het voorlopige, respectievelijk definitieve principieel akkoord.<br>
+<br>
+§ 2. Bij ongunstig advies legt het Fonds, binnen dertig kalenderdagen na het advies, een ontwerp van brief voor aan de minister, waarin omstandig de redenen zijn opgenomen waarom het masterplan niet kan worden goedgekeurd of waarom geen voorlopig, respectievelijk definitief principieel akkoord voor het project in kwestie kan worden gegeven.<br>
+<br>
+De minister beslist over de goedkeuring van het masterplan en over het verlenen van het voorlopige, respectievelijk definitieve principieel akkoord.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De aanvrager wordt op de hoogte gebracht van de beslissing van de minister.<br>
+<br>
+§ 5. De goedkeuring van het masterplan is geen verbintenis om een principieel akkoord te geven voor alle projecten die in het masterplan zijn opgenomen.<br>
+<br>
+§ 6. Een voorlopig principieel akkoord als vermeld in artikel 48, § 1, en artikel 54, § 1, houdt de goedkeuring in van het masterplan en van het betreffende project.<br>
+<br>
+§ 7. Een definitief principieel akkoord, vermeld in artikel 48, § 2 en § 3, en artikel 54, § 2 en § 3, houdt in dat het project van de aanvrager in principe in aanmerking komt voor een gebruikstoelage. Het vermeldt onder meer het masterplan en het project waarop het betrekking heeft, de eventuele opmerkingen en de datum vanaf wanneer het geldig is.<br>
+<br>
+§ 8. Als voor het project waarvoor de aanvraag wordt ingediend, al werkzaamheden zijn aangevat, een bestelling is geplaatst of een aankoop werd gedaan, zonder dat de aanvrager beschikt over een definitief principieel akkoord voor het project, komt hij niet meer in aanmerking voor een gebruikstoelage voor het betreffende project.<br>
+<br>
+§ 9. Het definitieve principieel akkoord moet gevraagd worden uiterlijk op 31 december van het tweede jaar dat volgt op het jaar waarin het voorlopige principieel akkoord werd verkregen, zo niet vervalt het voorlopige principieel akkoord.<br>
+<br>
+§ 10. De werken met betrekking tot het project moeten aangevangen zijn of de bestelling moet geplaatst zijn binnen twee jaar na de datum van het definitieve principieel akkoord, zoniet vervalt het definitieve principieel akkoord.<br>
+<br>
+§ 11. Als de gebruikstoelage betrekking heeft op verschillende projectonderdelen, kan de minister op voorhand en per project het percentage van de gebruikstoelage bepalen dat per projectonderdeel wordt vrijgegeven.
 
 ## Afdeling 4. Aanvraag van de gebruikstoelage, de beslissing en de betaling
 
@@ -649,7 +692,9 @@ Na de ontvangst van het definitieve principieel akkoord kan de aanvrager   een a
 
 ### ART. 67.
 
-De aanvrager wordt op de hoogte gebracht van de beslissing over het   verstrekken van een gebruikstoelage. <BR><BR>Na de ondertekening van de   beslissing tot het verstrekken van een gebruikstoelage legt het Fonds, op naam   van de aanvrager, de gebruikstoelage vast en betaalt ze uit.
+De aanvrager wordt op de hoogte gebracht van de beslissing over het verstrekken van een gebruikstoelage.<br>
+<br>
+Na de ondertekening van de beslissing tot het verstrekken van een gebruikstoelage legt het Fonds, op naam van de aanvrager, de gebruikstoelage vast en betaalt ze&nbsp;jaarlijks, uiterlijk op 31 december uit.
 
 ## HOOFDSTUK 7. Projecten met [financiering (verv. BVR 14 februari 2014, art. 86, I: 25 april 2014)] zonder voorafgaand principieel akkoord
 
@@ -663,7 +708,11 @@ Dit hoofdstuk is van toepassing op projecten met financiering zonder   voorafgaa
 
 ### ART. 69.
 
-§ 1. Een project met financiering zonder voorafgaand principieel akkoord   als vermeld in artikel 8 van het decreet van 23 februari 1994, dat tevens een   project uitmaakt waarvoor de gebruikstoelage, vermeld in artikel 1, 8°, dient   als rechtstreekse bijdrage in de kostprijs,&nbsp;waarbij de gebruikstoelagen   door de aanvrager worden aangewend om rechtstreeks bij te dragen in de kostprijs   van het project, vallen onder de toepassing van hoofdstuk 5.<BR><BR>In afwijking   van artikel 32, § 7, kan het bevel tot aanvang van de werken al worden gegeven,   kan de bestelling al geplaatst worden of kan de aankoop al worden gedaan nadat   de coördinatiecommissie, vermeld in artikel 31, een gunstig advies heeft   verleend met het oog op het verkrijgen van het definitieve principieel akkoord,   onverminderd de beslissingsbevoegdheid van de minister. <BR><BR>§ 2. In   afwijking van artikel 31 wordt de aanvrager op de hoogte gebracht van het advies   van de coördinatiecommissie.
+§ 1. Een project met financiering zonder voorafgaand principieel akkoord als vermeld in artikel 8 van het decreet van 23 februari 1994, dat tevens een project uitmaakt waarvoor de gebruikstoelage, vermeld in artikel 1, 8°, dient als rechtstreekse bijdrage in de kostprijs,&nbsp;waarbij de gebruikstoelagen door de aanvrager worden aangewend om rechtstreeks bij te dragen in de kostprijs van het project, vallen onder de toepassing van hoofdstuk 5.<br>
+<br>
+In afwijking van artikel 32, § 7, kan het bevel tot aanvang van de werken al worden gegeven, kan de bestelling al geplaatst worden of kan de aankoop al worden gedaan nadat het Fonds een gunstig advies heeft verleend met het oog op het verkrijgen van het definitieve principieel akkoord, onverminderd de beslissingsbevoegdheid van de minister.<br>
+<br>
+§ 2. In afwijking van artikel 31 wordt de aanvrager op de hoogte gebracht van het advies van het Fonds.
 
 ### ART. 70.
 
@@ -673,7 +722,11 @@ Dit hoofdstuk is van toepassing op projecten met financiering zonder   voorafgaa
 
 ### ART. 71.
 
-§ 1. Een project met financiering zonder voorafgaand principieel akkoord   als vermeld in artikel 8 van het decreet van 23 februari 1994, dat tevens een   project uitmaakt waarvoor de gebruikstoelage, vermeld in artikel 1, 8°, dient   als onrechtstreekse bijdrage in de kostprijs, waarbij de aanvrager niet optreedt   als bouwheer en waarbij de gebruikstoelagen door de aanvrager worden aangewend   als bijdrage in een beschikbaarheidsvergoeding als vermeld in artikel 1, 3°,   vallen onder de toepassing van hoofdstuk 6.<BR><BR>In afwijking van artikel 62,   § 8, kan het bevel tot aanvang van de werken al worden gegeven of kan de   bestelling al geplaatst worden nadat de coördinatiecommissie, vermeld in artikel   61, een gunstig advies heeft verleend met het oog op het verkrijgen van het   definitief principieel akkoord, onverminderd de beslissingsbevoegdheid van de   minister. <BR><BR>§ 2. In afwijking van artikel 61 wordt de aanvrager&nbsp;op de   hoogte gebracht van het advies van de coördinatiecommissie.<BR>
+§ 1. Een project met financiering zonder voorafgaand principieel akkoord als vermeld in artikel 8 van het decreet van 23 februari 1994, dat tevens een project uitmaakt waarvoor de gebruikstoelage, vermeld in artikel 1, 8°, dient als onrechtstreekse bijdrage in de kostprijs, waarbij de aanvrager niet optreedt als bouwheer en waarbij de gebruikstoelagen door de aanvrager worden aangewend als bijdrage in een beschikbaarheidsvergoeding als vermeld in artikel 1, 3°, vallen onder de toepassing van hoofdstuk 6.<br>
+<br>
+In afwijking van artikel 62, § 8, kan het bevel tot aanvang van de werken al worden gegeven of kan de bestelling al geplaatst worden nadat het Fonds een gunstig advies heeft verleend met het oog op het verkrijgen van het definitief principieel akkoord, onverminderd de beslissingsbevoegdheid van de minister.<br>
+<br>
+§ 2. De aanvrager wordt op de hoogte gebracht van het advies van het Fonds.
 
 ### ART. 72.
 
