@@ -8,7 +8,18 @@ De Vlaamse Regering,<br />Gelet op het decreet van 23 februari 1994 inzake de in
 
 ### ART. 1.
 
-Artikel 1. In dit besluit wordt verstaan onder : <br />1° aanloopadres inzake beschut wonen : een geheel van lokalen ten behoeve van een door de Vlaamse Gemeenschap erkend samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen waar minstens ruimte is voor vergaderingen, voor individuele gesprekken en groepsgesprekken, voor dagactiviteiten met het oog op ontspanning en vorming, en voor administratie;<br />2° centrum voor geestelijke gezondheidszorg : een door de Vlaamse Gemeenschap erkend centrum voor geestelijke gezondheidszorg als vermeld in het decreet betreffende de geestelijke gezondheidszorg;<br />3° consultatiebureau voor respiratoire aandoeningen : een voorziening die bestaat uit een geheel van lokalen voor preventieve gezondheidszorg waar de profylaxe en de preventie van besmettelijke respiratoire aandoeningen en rookstopbegeleiding georganiseerd wordt, al of niet met een mobiele eenheid voor de RX-screening;<br />4° sector van de preventieve en de ambulante gezondheidszorg : de aanloopadressen inzake beschut wonen, de centra voor geestelijke gezondheidszorg, de consultatiebureaus voor respiratoire aandoeningen en de wijkgezondheidscentra;<br />5° wijkgezondheidscentrum : een voorziening met een geheel van lokalen waar eerstelijnsgezondheidszorg en gezondheidspromotie worden georganiseerd die gericht zijn op de bevolking van een geografisch omschreven gebied, met lage drempel en voldoende bereikbaarheid en waar een georganiseerde samenwerking is tussen ten minste huisartsengeneeskunde, een paramedische discipline en een discipline van maatschappelijk werk.
+Artikel 1. In dit besluit wordt verstaan onder :<br>
+1° aanloopadres inzake beschut wonen : een geheel van lokalen ten behoeve van een door de Vlaamse Gemeenschap erkend samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen waar minstens ruimte is voor vergaderingen, voor individuele gesprekken en groepsgesprekken, voor dagactiviteiten met het oog op ontspanning en vorming, en voor administratie;<br>
+2° centrum voor geestelijke gezondheidszorg : een door de Vlaamse Gemeenschap erkend centrum voor geestelijke gezondheidszorg als vermeld in het decreet betreffende de geestelijke gezondheidszorg;<br>
+3° consultatiebureau voor respiratoire aandoeningen : een voorziening die bestaat uit een geheel van lokalen voor preventieve gezondheidszorg waar de profylaxe en de preventie van besmettelijke respiratoire aandoeningen en rookstopbegeleiding georganiseerd wordt, al of niet met een mobiele eenheid voor de RX-screening;<br>
+3°/1 erfgoedgebouw: een gebouw dat aan één van de volgende voorwaarden voldoet:&nbsp;<br>
+a) een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+b) een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+d)een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening;<br>
+3°/2 Fonds: het Fonds, vermeld in artikel 2, 4°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
+4° sector van de preventieve en de ambulante gezondheidszorg : de aanloopadressen inzake beschut wonen, de centra voor geestelijke gezondheidszorg, de consultatiebureaus voor respiratoire aandoeningen en de wijkgezondheidscentra;<br>
+5° wijkgezondheidscentrum : een voorziening met een geheel van lokalen waar eerstelijnsgezondheidszorg en gezondheidspromotie worden georganiseerd die gericht zijn op de bevolking van een geografisch omschreven gebied, met lage drempel en voldoende bereikbaarheid en waar een georganiseerde samenwerking is tussen ten minste huisartsengeneeskunde, een paramedische discipline en een discipline van maatschappelijk werk.
 
 ## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
 
@@ -114,7 +125,7 @@ Het aantal ingeschreven patiënten bij een wijkgezondheidscentrum, vermeld in he
 <br>
 § 3. ...<br>
 <br>
-§ 4. Van de maximale subsidiabele oppervlakte, vermeld in paragraaf 2, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
+§ 4. Van de maximale subsidiabele oppervlakte, vermeld in paragraaf 2, kan het Fonds alleen op gemotiveerd verzoek van de aanvrager een afwijking toestaan bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 5. Investeringssubsidie
 
@@ -160,12 +171,6 @@ In afwijking van het eerste lid mag het basisbedrag van de totale investeringssu
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
-1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
-<br>
 § 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening.<br>
 <br>
 De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
@@ -174,7 +179,12 @@ De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
 
 Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 11. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 11.<br>
 <br>
-Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.
+Voor de aankoop kan ten hoogste 60 % van de som van de door de Vlaamse Belastingdienst, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.<br>
+<br>
+In afwijking van het eerste lid kan het basisbedrag van de totale investeringssubsidie voor aankoop met verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 12, §1 en §3, als het gaat om een ingrijpende duurzame verbouwing, waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. De voormelde verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar die renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, die de Vlaamse minister, bevoegd voor de gezondheids-en woonzorg, bepaalt;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.
 
 ### ART. 15.
 
