@@ -46,14 +46,15 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
-## HOOFDSTUK 1. Multifunctionele infrastructuur
+## HOOFDSTUK 1. Multifunctionele of innoverende infrastructuur
 
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
 1° aanpasbaar : de infrastructuur van een voorziening kan achtereenvolgens gebruikt worden door een voorziening uit een andere sector;<br>
 2° combineerbaar : de infrastructuur van een voorziening wordt tegelijkertijd gebruikt door een of meer voorzieningen uit verschillende sectoren;<br>
-3° commissie multifunctionele infrastructuur : de commissie, vermeld in artikel 6;<br>
+3° commissie multifunctionele infrastructuur : de commissie, vermeld in artikel 6, die haar opdrachten vervult ten aanzien van multifunctionele of innoverende infrastructuur;<br>
+3°/1 innoverende zorginfrastructuur: een zorginfrastructuurproject dat vernieuwend is en past in het beleid van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 4° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
 5° multi-inzetbaar : de infrastructuur van een voorziening wordt buiten de uren waarin ze zich organiseert of de zorg uitvoert, gebruikt voor andere activiteiten dan de activiteiten van de voorziening;<br>
 6° multifunctionele infrastructuur : infrastructuur die aanpasbaar, multi-inzetbaar of combineerbaar is;<br>
@@ -63,7 +64,7 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART 2.
 
-Een voorziening kan alleen multifunctionele infrastructuur realiseren of er gebruik van maken als ze voldoet aan al de volgende voorwaarden :<br>
+Een voorziening kan alleen multifunctionele infrastructuur&nbsp;of innoverende zorginfrastructuur realiseren of er gebruik van maken als ze voldoet aan al de volgende voorwaarden :<br>
 1° de kwaliteitsvolle werking van de voorziening wordt niet in het gedrang gebracht;<br>
 2° de voorziening leeft de erkennings-, vergunnings-, of subsidiëringsvoorwaarden na, met behoud van de toepassing van artikel 5.
 
@@ -77,9 +78,11 @@ Voorzieningen die samen een multi-inzetbare of combineerbare infrastructuur gebr
 
 ### ART 5.
 
-De minister kan, op verzoek van een voorziening, een afwijking voor die voorziening toestaan op de naleving van een erkennings-, vergunnings-, of subsidiëringsvoorwaarde met betrekking tot de infrastructuur die voor die voorziening bepaald is in uitvoeringsbesluiten binnen het kader van de regelgeving met betrekking tot het beleidsdomein Welzijn, Volksgezondheid en Gezin, als die voorwaarde belet dat die voorziening een multifunctionele infrastructuur realiseert of gebruikt.<br>
+De minister kan, op verzoek van een voorziening, een afwijking voor die voorziening toestaan op de naleving van een erkennings-, vergunnings-, of subsidiëringsvoorwaarde met betrekking tot de infrastructuur die voor die voorziening bepaald is in uitvoeringsbesluiten binnen het kader van de regelgeving met betrekking tot het beleidsdomein Welzijn, Volksgezondheid en Gezin, als die voorwaarde belet dat die voorziening een multifunctionele infrastructuur&nbsp;of innoverende zorginfrastructuur realiseert of gebruikt.<br>
 <br>
-De minister kan de commissie, vermeld in artikel 6, vragen een advies te verlenen alvorens een beslissing tot afwijking als vermeld in het eerste lid, te nemen.
+In geval er verschillende procedures van toepassing zijn op de voorziening die multifunctionele of innoverende infrastructuur wil realiseren of gebruiken, kan de minister beslissen één van de geldende procedures toepasselijk te maken op de wijze van toekenning en vereffening van de infrastructuursubsidie.<br>
+<br>
+De minister kan de commissie, vermeld in artikel 6, vragen een advies te verlenen alvorens een beslissing tot afwijking als vermeld in het eerste en tweede lid, te nemen.
 
 ### ART 6.
 
@@ -88,8 +91,10 @@ Binnen het VIPA wordt een commissie voor multifunctionele infrastructuur opgeric
 ### ART 7.
 
 De commissie multifunctionele infrastructuur vervult de volgende opdrachten :<br>
-1° advies verlenen, op verzoek van de minister, over de vraag tot afwijking als vermeld in artikel 5, tweede lid;<br>
-2° aanbevelingen formuleren aan de minister over regelgeving die gewijzigd moet worden om multifunctionele infrastructuur te faciliteren.
+1° advies verlenen, op verzoek van de minister, over de vraag tot afwijking als vermeld in artikel 5, derde lid;<br>
+2° aanbevelingen formuleren aan de minister over regelgeving die gewijzigd moet worden om multifunctionele of innoverende infrastructuur te faciliteren;<br>
+3° informeren en begeleiden van projecten, waarbij de verschillende betrokken entiteiten van de commissie projecten samen bekijken om zo tot meer geïntegreerde of innoverende oplossingen te komen.”.<br>
+Hoofdstuk 15. Wijzigingen van het besluit van de Vlaamse Regering van 13 december 2019 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin.
 
 ### ART 8.
 
