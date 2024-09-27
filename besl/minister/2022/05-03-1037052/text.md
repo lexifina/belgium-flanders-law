@@ -31,35 +31,21 @@ Dit besluit is gebaseerd op de volgende motieven:<br>
 <br>
 DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BESLUIT:
 
-### ART Enig.
+### ART Enig artikel.
 
-In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 maart 2024 tot en met 31 augustus 2024 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid.<br>
+In uitvoering van artikel 3, vierde lid, 3° van het besluit Vlaamse Regering van 26 november 2021 tot vaststelling voor de subsidiëring van wolfwerende maatregelen wordt voor de periode 1 september 2024 tot en met 28 februari 2025 voor de gemeenten, vermeld in het tweede lid, een schutkring aangeduid.<br>
 <br>
 De schutkring wordt aangeduid voor de volgende gemeenten:<br>
-1° As;<br>
-2° Balen;<br>
-3° Beringen;<br>
-4° Bocholt;<br>
-5° Bree;<br>
-6° Dessel;<br>
-7° Dilsen-Stokkem;<br>
-8° Geel;<br>
-9° Genk;<br>
-10° Ham;<br>
-11° Hamont-Achel;<br>
-12° Hechtel-Eksel;<br>
-13° Heusden-Zolder;<br>
-14° Houthalen-Helchteren;<br>
-15° Kinrooi;<br>
-16° Lanaken;<br>
-17° Leopoldsburg;<br>
-18° Lommel;<br>
-19° Maaseik;<br>
-20° Maasmechelen;<br>
-21° Meerhout;<br>
-22° Mol;<br>
-23° Oudsbergen;<br>
-24° Peer;<br>
-25° Pelt;<br>
-26° Zonhoven;<br>
-27° Zutendaal.
+1° Essen;<br>
+2° Kalmthout;<br>
+3° Wuustwezel;<br>
+4° Hoogstraten;<br>
+5° Rijkevorsel;<br>
+6° Brecht;<br>
+7° Malle;<br>
+8° Schilde;<br>
+9° Schoten;<br>
+10° Brasschaat;<br>
+11° Kapellen;<br>
+12° Stabroek;<br>
+13° Antwerpen.
