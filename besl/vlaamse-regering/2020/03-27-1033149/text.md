@@ -112,92 +112,45 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 
 ### BIJLAGE
 
-<p>Bijlage. Indeling, als vermeld in artikel 9</p>
-
-<p>&nbsp;</p>
-
-<p>De departementen van de diensten van de Vlaamse overheid, worden voor het specifieke personeelsbeleid per Vlaamse minister op de volgende wijze ingedeeld:</p>
-
-<p>1°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management is, bevoegd voor:</p>
-
-<ol>
-	<li>de personeelsleden van het Departement Kanselarij en Buitenlandse Zaken, met uitzondering van:
-	<ol>
-		<li>...;</li>
-		<li>...;</li>
-		<li>de projectleider van het N- project Coördinatie Vlaams Handhavingsbeleid;</li>
-	</ol>
-	</li>
-	<li>...;</li>
-	<li>de personeelsleden van het Departement Cultuur, Jeugd en Media, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</li>
-</ol>
-
-<p>2°&nbsp;de Vlaamse minister van Economie, Innovatie, Werk, Sociale economie en Landbouw is, bevoegd voor:</p>
-
-<ol>
-	<li>de personeelsleden van het Departement Economie, Wetenschap en Innovatie;</li>
-	<li>de personeelsleden van het departement Werk en Sociale economie;</li>
-	<li>de personeelsleden van het Agentschap Landbouw en Zeevisserij;</li>
-</ol>
-
-<p>3° ...;</p>
-
-<p>4°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand is, bevoegd voor:</p>
-
-<ol>
-	<li>de personeelsleden van het Departement Onderwijs en Vorming;</li>
-	<li>de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van het dierenwelzijn;</li>
-</ol>
-
-<p>5°&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme is, bevoegd voor:</p>
-
-<ol>
-	<li>de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid;</li>
-	<li>de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:
-	<ol>
-		<li>het dierenwelzijn;</li>
-		<li>de handhaving met betrekking tot onroerend erfgoed;</li>
-	</ol>
-	</li>
-	<li>de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van&nbsp;de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</li>
-</ol>
-&nbsp;
-
-<p>6°&nbsp;de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding is, bevoegd voor:</p>
-
-<p>a. de personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van de justitiehuizen, het elektronisch toezicht en de juridische eerstelijnsbijstand, waaronder ook de coördinatie van</p>
-
-<p>b. hulp- en dienstverlening aan gedetineerden en geïnterneerden, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;</p>
-
-<p>7°&nbsp;de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed is bevoegd voor:</p>
-
-<ol>
-	<li>de personeelsleden van het Departement Financiën en Begroting;</li>
-	<li>de personeelsleden van het Departement Omgeving, die alleen of hoofdzakelijk taken vervullen in het kader van de handhaving met betrekking tot het onroerend erfgoed;</li>
-</ol>
-
-<p>8°&nbsp;de Vlaamse minister van Mobiliteit en Openbare Werken is bevoegd voor de personeelsleden van het Departement Mobiliteit en Openbare Werken;</p>
-
-<p>9°&nbsp;de Vlaamse minister van Brussel, Jeugd en Media is bevoegd voor de personeelsleden van het departement Cultuur, Jeugd en Media, die alleen of hoofdzakelijk taken vervullen in het kader van het jeugd- en mediabeleid;</p>
-
-<p>10°&nbsp;...;</p>
-
-<p>11°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme zijn bevoegd voor de secretaris- generaal van het Departement Kanselarij en Buitenlandse Zaken;</p>
-
-<p>12°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management, de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand en de Vlaamse minister van Brussel, Jeugd en Media zijn, bevoegd voor de personeelsleden van de Raad voor Cultuur, Jeugd, Sport en Media;</p>
-
-<p>13°&nbsp;de minister-president van de Vlaamse Regering, Vlaams minister van Buitenlandse Zaken, Cultuur, ICT en Facilitair Management en de Vlaamse minister van Brussel, Jeugd en Media zijn bevoegd voor de volgende personeelsleden van het Departement Cultuur, Jeugd en Media:</p>
-
-<ol>
-	<li>de secretaris-generaal;</li>
-	<li>de algemeen directeur;</li>
-</ol>
-
-<p>14°&nbsp;de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand, de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed zijn bevoegd voor de secretaris-generaal van het Departement Omgeving;</p>
-
-<p>15°&nbsp;&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme en de Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zijn bevoegd voor de secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin;</p>
-&nbsp;
-
-<p>Voor de personeelsleden, vermeld in punt 1° tot en met 9°, voor wie niet uitgemaakt kan worden of ze alleen of hoofdzakelijk taken vervullen, die vallen onder de bevoegdheden van de Vlaamse minister, bij wie ze vermeld staan, kan worden afgeweken van de indeling met een protocol, dat tussen de betrokken Vlaamse ministers wordt gesloten.</p>
+<p>Bepaling van de bevoegde leden van de Vlaamse Regering voor het specifieke personeelsbeleid van de departementen<br>
+<br>
+De departementen van de diensten van de Vlaamse overheid worden voor het specifieke personeelsbeleid per Vlaamse minister op de volgende wijze ingedeeld:<br>
+1° de minister-president van de Vlaamse Regering, Vlaams minister van Economie, Innovatie en Industrie, Buitenlandse Zaken, Digitalisering en Facilitair Management is bevoegd voor:<br>
+&nbsp;&nbsp;a) de personeelsleden van het Departement Kanselarij en Buitenlandse Zaken;<br>
+&nbsp;&nbsp;b) de personeelsleden van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1) de beleidsvelden werk en competenties;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2) het beleidsveld sociale economie;<br>
+2° de Vlaamse minister van Wonen, Energie en Klimaat, Toerisme en Jeugd is bevoegd voor:<br>
+&nbsp;&nbsp;a) de personeelsleden van het Departement Cultuur, Jeugd en Media die alleen of hoofdzakelijk taken vervullen in het kader van het beleidsveld jeugd;<br>
+&nbsp;&nbsp;b) de personeelsleden van het Departement Omgeving die alleen of hoofdzakelijk taken vervullen in het kader van:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1) het beleidsveld klimaat;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2) het beleidsveld energie;<br>
+3° de Vlaamse minister van Binnenland, Steden- en Plattelandsbeleid, Samenleven, Integratie en Inburgering, Bestuurszaken, Sociale Economie en Zeevisserij is bevoegd voor de personeelsleden van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie die alleen of hoofdzakelijk taken vervullen in het kader van het beleidsveld sociale economie;<br>
+4° de Vlaamse minister van Begroting en Financiën, Vlaamse Rand, Onroerend Erfgoed en Dierenwelzijn is bevoegd voor:<br>
+&nbsp;&nbsp;a) de personeelsleden van het Departement Financiën en Begroting;<br>
+&nbsp;&nbsp;b) de personeelsleden van het Departement Omgeving die alleen of hoofdzakelijk taken vervullen in het kader van:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1) het beleidsveld onroerend erfgoed;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2) het beleidsveld dierenwelzijn;<br>
+5° de Vlaamse minister van Onderwijs, Justitie en Werk is bevoegd voor:<br>
+&nbsp;&nbsp;a) de personeelsleden van het Departement Onderwijs en Vorming;<br>
+&nbsp;&nbsp;b) de personeelsleden van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie die alleen of hoofdzakelijk taken vervullen in het kader van de beleidsvelden werk en competenties;<br>
+6° de Vlaamse minister van Welzijn en Armoedebestrijding, Cultuur en Gelijke Kansen is bevoegd voor:<br>
+&nbsp;&nbsp;a) de personeelsleden van het Departement Cultuur, Jeugd en Media, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van de beleidsvelden jeugd en media;&nbsp;<br>
+&nbsp;&nbsp;b) de personeelsleden van het Departement Zorg;<br>
+7° de Vlaamse minister van Omgeving en Landbouw is bevoegd voor de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:<br>
+&nbsp;&nbsp;a) het beleidsveld onroerend erfgoed;<br>
+&nbsp;&nbsp;b) het beleidsveld dierenwelzijn;<br>
+&nbsp;&nbsp;c) het beleidsveld klimaat;<br>
+&nbsp;&nbsp;d) het beleidsveld energie;<br>
+8° de Vlaamse minister van Mobiliteit, Openbare Werken, Havens en Sport is bevoegd voor de personeelsleden van het Departement Mobiliteit en Openbare Werken;<br>
+9° de Vlaamse minister van Brussel en Media is bevoegd voor de personeelsleden van het Departement Cultuur, Jeugd en Media die alleen of hoofdzakelijk taken vervullen in het kader van het beleidsveld media;<br>
+10° de Vlaamse minister van Wonen, Energie en Klimaat, Toerisme en Jeugd, de Vlaamse minister van Welzijn en Armoedebestrijding, Cultuur en Gelijke Kansen, de Vlaamse minister van Mobiliteit, Openbare Werken, Havens en Sport en de Vlaamse minister van Brussel en Media zijn bevoegd voor de personeelsleden van de Raad voor Cultuur, Jeugd, Sport en Media;<br>
+11° de Vlaamse minister van Wonen, Energie en Klimaat, Toerisme en Jeugd, de Vlaamse minister van Welzijn en Armoedebestrijding, Cultuur en Gelijke Kansen en de Vlaamse minister van Brussel en Media zijn bevoegd voor de volgende personeelsleden van het Departement Cultuur, Jeugd en Media:<br>
+&nbsp;&nbsp;a) de secretaris-generaal;<br>
+&nbsp;&nbsp;b) de algemeen directeur;<br>
+12° de minister-president van de Vlaamse Regering, Vlaams minister van Economie, Innovatie en Industrie, Buitenlandse Zaken, Digitalisering en Facilitair Management, de Vlaamse minister van Binnenland, Steden- en Plattelandsbeleid, Samenleven, Integratie en Inburgering, Bestuurszaken, Sociale Economie en Zeevisserij en de Vlaamse minister van Onderwijs, Justitie en Werk zijn bevoegd voor de secretaris-generaal van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
+13° de Vlaamse minister van Wonen, Energie en Klimaat, Toerisme en Jeugd, de Vlaamse minister van Begroting en Financiën, Vlaamse Rand, Onroerend Erfgoed en Dierenwelzijn en de Vlaamse minister van Omgeving en Landbouw zijn bevoegd voor de secretaris-generaal van het Departement Omgeving.<br>
+<br>
+Voor de personeelsleden, vermeld in punt 1° tot en met 9°, voor wie niet uitgemaakt kan worden of ze alleen of hoofdzakelijk taken vervullen die vallen onder de bevoegdheden van de Vlaamse minister bij wie ze vermeld staan, kan worden afgeweken van de indeling met een protocol dat tussen de betrokken Vlaamse ministers wordt gesloten.</p>
 
 <p>&nbsp;</p>
