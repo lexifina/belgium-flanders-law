@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040283,
+  "title": "Besluit van de Vlaamse Regering van 2024-09-30 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040283/VolledigDocument?datum=2024-09-30",
+  "source_sha256": "45f7a8e690483a4aeb48cb3ec38bfd91f4de45adeb369c3fa31052472d3a7318",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040283&param=informatie",
+  "as_of": "2024-09-30",
+  "made": "2024-09-30",
+  "gazette": "2024-10-10",
+  "numac": 2024009326,
+  "document_start": "2024-09-30",
+  "document_end": null,
+  "in_force": "2024-09-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2024-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
