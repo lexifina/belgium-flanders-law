@@ -12,11 +12,15 @@ Dit   besluit is van toepassing op de departementen, de intern verzelfstandigde 
 
 ### ART. 2.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de minister: het lid van de Vlaamse Regering dat bevoegd is voor het   beleidsdomein waartoe het departement of het intern verzelfstandigd agentschap   behoort en onder het hiërarchisch gezag van wie het departement of intern   verzelfstandigd agentschap ressorteert;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het hoofd van het departement: het personeelslid dat belast is met de leiding   van het departement;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het hoofd van het agentschap: het personeelslid dat belast is met de algemene   leiding, de werking en de vertegenwoordiging van het intern verzelfstandigd   agentschap.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-<P>§   1. De bij dit besluit gedelegeerde beslissingsbevoegdheden worden uitgeoefend   binnen de perken en met inachtname van de voorwaarden en modaliteiten die zijn   vastgelegd in de bepalingen van relevante wetten, decreten, besluiten,   omzendbrieven, dienstorders en andere vormen van reglementeringen, richtlijnen   en beslissingen, alsook van het desbetreffende ondernemingsplan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De bij dit besluit aan het hoofd van een departement of intern   verzelfstandigd agentschap gedelegeerde beslissingsbevoegdheden, kunnen alleen   uitgeoefend worden voor de aangelegenheden die tot de taken van het departement   of agentschap in kwestie behoren.</P>
+<p>§ 1. De bij dit besluit gedelegeerde beslissingsbevoegdheden worden uitgeoefend binnen de perken en met inachtname van de voorwaarden en modaliteiten die zijn vastgelegd in de bepalingen van relevante wetten, decreten, besluiten, omzendbrieven, dienstorders en andere vormen van reglementeringen, richtlijnen en beslissingen, alsook van het desbetreffende ondernemingsplan.</p>
+
+<p>§ 2. De bij dit besluit aan het hoofd van een departement of intern verzelfstandigd agentschap gedelegeerde beslissingsbevoegdheden, kunnen alleen uitgeoefend worden voor de aangelegenheden die tot de taken van het departement of agentschap in kwestie behoren.<br>
+<br>
+De delegaties, vermeld in dit besluit, gelden ook voor beslissingen die betrekking hebben op aangelegenheden die tot de taak van verschillende departementen of agentschappen behoren, en dus samen moeten worden genomen.</p>
 
 ### ART. 4.
 
@@ -64,45 +68,54 @@ Voor   het facilitair management heeft het hoofd van het departement of agentsch
 
 ### ART. 13.
 
-Het hoofd van het departement of agentschap heeft delegatie om overheidsopdrachten, prijsvragen en raamovereenkomsten te plaatsen tot een bedrag dat de bedragen, vermeld in de volgende tabel, niet overschrijdt:
-<table border="1">
+Het hoofd van het departement of agentschap heeft delegatie om overheidsopdrachten, prijsvragen en raamovereenkomsten te plaatsen tot een bedrag dat niet hoger is dan de bedragen, vermeld in de volgende tabel:<br>
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:623px">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;Openbare of niet-openbare<br>
-			procedure</td>
-			<td>Mededingingsprocedure met onderhandeling, (vereenvoudigde) onderhandelings-<br>
-			procedure met voorafgaande oproep tot mededinging, vereenvoudigde onderhandelings-procedure met voorafgaande bekendmaking, concurrentiegerichte dialoog en innovatiepartnerschap</td>
-			<td>Onderhandelings- procedure zonder voorafgaande bekendmaking en onderhandelings- procedure zonder voorafgaande oproep tot mededinging</td>
+			<td style="width:75px">&nbsp;</td>
+			<td style="width:112px">openbare of niet-openbare<br>
+			procedure, dynamisch aankoopsysteem</td>
+			<td>mededingingsprocedure met onderhandeling, (vereenvoudigde) onderhandelings-<br>
+			procedure met voorafgaande oproep tot mededinging, vereenvoudigde onderhandelingsprocedure met voorafgaande bekendmaking, concurrentiegerichte dialoog en innovatiepartnerschap en procedure sui generis met voorafgaande bekendmaking</td>
+			<td style="width:231px">onderhandelingsprocedure zonder voorafgaande bekendmaking en onderhandelingsprocedure zonder voorafgaande oproep tot mededinging</td>
 		</tr>
 		<tr>
-			<td>werken</td>
-			<td>13.000.000</td>
-			<td>6.500.000</td>
-			<td>1.300.000</td>
+			<td style="width:75px">werken</td>
+			<td style="width:112px">13.000.000 euro</td>
+			<td>6.500.000 euro</td>
+			<td style="width:231px">1.300.000 euro</td>
 		</tr>
 		<tr>
-			<td>leveringen</td>
-			<td>8.000.000</td>
-			<td>4.000.000</td>
-			<td>800.000</td>
+			<td style="width:75px">leveringen</td>
+			<td style="width:112px">8.000.000 euro</td>
+			<td>4.000.000 euro</td>
+			<td style="width:231px">800.000 euro</td>
 		</tr>
 		<tr>
-			<td>diensten</td>
-			<td>2.400.000</td>
-			<td>1.200.000</td>
-			<td>240.000</td>
+			<td style="width:75px">diensten</td>
+			<td style="width:112px">2.400.000 euro</td>
+			<td>1.200.000 euro</td>
+			<td style="width:231px">240.000 euro</td>
 		</tr>
 	</tbody>
 </table>
 <br>
 Voor de toepassing van het eerste lid hebben de grensbedragen betrekking op:<br>
-1° de geraamde waarde van de opdracht voor:<br>
-a) alle voorbereidende beslissingen, waaronder minstens de principiële beslissing tot uitvoering van de opdracht, de keuze van de gunningsprocedure, de goedkeuring van de opdrachtdocumenten en de selectiebeslissing;<br>
-b) de beslissing tot niet-plaatsing;<br>
-2° het goed te keuren offertebedrag voor de gunningsbeslissing.<br>
+1°&nbsp;&nbsp; &nbsp;de geraamde waarde van de opdracht voor:<br>
+a)&nbsp;&nbsp; &nbsp;alle voorbereidende beslissingen, waaronder minstens:<br>
+1)&nbsp;&nbsp; &nbsp;de principiële beslissing tot plaatsing van de opdracht;<br>
+2)&nbsp;&nbsp; &nbsp;de keuze van de plaatsingsprocedure;&nbsp;<br>
+3)&nbsp;&nbsp; &nbsp;de goedkeuring van de opdrachtdocumenten;<br>
+b)&nbsp;&nbsp; &nbsp;de selectiebeslissing;<br>
+c)&nbsp;&nbsp; &nbsp;de beslissing tot niet-plaatsing;<br>
+2°&nbsp;&nbsp; &nbsp;het goed te keuren offertebedrag voor de gunningsbeslissing bij overheidsopdrachten;<br>
+3°&nbsp;&nbsp; &nbsp;het goed te keuren offertebedrag of het prijzengeld voor de gunningsbeslissing bij prijsvragen;<br>
+4°&nbsp;&nbsp; &nbsp;de maximale waarde bij raamovereenkomsten.<br>
 <br>
-Het hoofd van het departement of agentschap heeft naast de delegatie, vermeld in het eerste lid, delegatie om overheidsopdrachten van beperkte waarde die tot stand komen met aanvaarde factuur als vermeld in artikel 92 van de wet van 17 juni 2016 inzake overheidsopdrachten, te plaatsen.
+Het hoofd van het departement of agentschap heeft, ongeacht het bedrag, delegatie voor de sluiting van de opdracht.<br>
+<br>
+Het hoofd van het departement of agentschap heeft naast de delegatie, vermeld in het eerste lid, delegatie om overheidsopdrachten van beperkte waarde als vermeld in artikel 92 van de wet van 17 juni 2016 inzake overheidsopdrachten, te plaatsen.
 
 ### ART. 14.
 
@@ -112,7 +125,12 @@ Als het hoofd van het departement of agentschap voor een bepaalde overheidsopdra
 
 ### ART. 15.
 
-<P>Het   hoofd van het departement of agentschap heeft delegatie om opdrachten te   plaatsen in het kader van een raamovereenkomst, binnen het voorwerp en de   bepalingen ervan, tot een bedrag per opdracht van respectievelijk :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   6.500.000 euro voor werken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   4.000.000 euro voor leveringen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   1.200.000 euro voor diensten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de opdracht bestaat uit continue prestaties, zoals exploitatie en recurrent   onderhoud, geldt de delegatie zonder beperking van het bedrag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het hoofd van het departement of agentschap heeft delegatie om opdrachten te plaatsen op basis van een raamovereenkomst of van een dynamisch aankoopsysteem, binnen het voorwerp en de bepalingen ervan, tot een bedrag per opdracht van respectievelijk :<br>
+1° 6.500.000 euro voor werken;<br>
+2° 4.000.000 euro voor leveringen;<br>
+3° 1.200.000 euro voor diensten.</p>
+
+<p>Als de opdracht bestaat uit continue prestaties, zoals exploitatie en recurrent onderhoud, geldt de delegatie zonder beperking van het bedrag.</p>
 
 ### ART 15/1.
 
@@ -120,17 +138,27 @@ Het hoofd van het departement of agentschap heeft delegatie om alle beslissingen
 1° voor concessies voor werken: 13.000.000 euro;<br>
 2° voor concessies voor diensten: 2.400.000 euro.<br>
 <br>
+Voor de toepassing van het eerste lid, 1°, stemt de waarde overeen met de waarde van het bouwwerk dat het voorwerp uitmaakt van de concessie.<br>
+<br>
 Als het hoofd van het departement of agentschap voor een bepaalde concessie delegatie heeft om de gunningsbeslissing te nemen, heeft hij ook delegatie om de beslissingen te nemen over de uitvoering van die concessie, ongeacht de financiële weerslag ervan.<br>
 <br>
 Als het hoofd van het departement of agentschap voor een bepaalde concessie geen delegatie heeft om de gunningsbeslissing te nemen, heeft hij toch delegatie om de beslissingen te nemen over de uitvoering van de concessie binnen het wettelijke kader en tot een gezamenlijke maximale financiële weerslag van 15% van de waarde van de concessie.
 
 ### ART 15/2.
 
-Het hoofd van het departement of agentschap heeft delegatie om opdrachten voor diensten van onderzoek en ontwikkeling te plaatsen die niet onderworpen zijn aan de wet van 17 juni 2016 inzake overheidsopdrachten, tot en met een bedrag van 1.200.000 euro.<br>
+Het hoofd van het departement of agentschap heeft delegatie om opdrachten te plaatsen voor diensten van onderzoek en ontwikkeling die niet vallen onder de toepassing van de wet van 17 juni 2016 inzake overheidsopdrachten, als het bedrag niet hoger is dan 1.200.000 euro..<br>
 <br>
-Voor de toepassing van het eerste lid heeft het grensbedrag betrekking op het geraamde bedrag van het aandeel van de opdracht dat ten laste is van de aanbestedende overheid.<br>
+Voor de toepassing van het eerste lid heeft het grensbedrag betrekking op het geraamde bedrag van het aandeel van de opdracht dat ten laste is van het departement of agentschap.<br>
 <br>
 De delegatie, vermeld in het eerste lid, geldt voor alle beslissingen binnen het verloop van de opdracht, waaronder minstens de principiële beslissing om een dergelijke opdracht te plaatsen, de goedkeuring van de opdrachtdocumenten, de beslissingen tot aanwijzing van de deelnemers in de verschillende fasen en de beslissing tot stopzetting van het proces.
+
+### ART 15/3.
+
+Het hoofd van het departement of agentschap heeft delegatie om overheidsopdrachten te plaatsen die niet vallen onder de toepassing van de wet van 17 juni 2016 inzake overheidsopdrachten, als het bedrag niet hoger is dan 1.200.000 euro.
+
+### ART 15/4.
+
+Bij gezamenlijke overheidsopdrachten of gezamenlijke concessies gelden de delegaties, vermeld in dit hoofdstuk, voor het bedrag van het deel dat ten laste is van het departement of agentschap.
 
 ## HOOFDSTUK 5 Delegatie voor rechtsgedingen
 
@@ -160,13 +188,41 @@ c) 100.000 euro voor diensten;<br>
 
 ### ART. 17.
 
-<P>Het   hoofd van het departement of agentschap heeft delegatie om beslissingen te nemen   over:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de verwerving, de bouw, het beheer, de exploitatie, het onderhoud en de   vervreemding van onroerende goederen en infrastructuren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het verlenen van gereglementeerde subsidies en andere vormen van financiële   tegemoetkomingen met een gereglementeerd karakter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de invordering en inning van belastingen, heffingen, retributies en niet-fiscale   schuldvorderingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   het verlenen en intrekken van vergunningen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het verlenen en intrekken van erkenningen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   toezichts-, controle- en inspectietaken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   het verwerven, vervreemden en beheren van roerende domeingoederen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Wat   de onroerende goederen en infrastructuren betreft die behoren tot het domein van   de Vlaamse Gemeenschap of het Vlaamse Gewest, is de delegatie tot vervreemding,   vermeld in het eerste lid, 1°, beperkt tot de beslissing tot wijziging van de   bestemming, of tot het onttrekken van een onroerend goed aan zijn bestemming,   voor zover die beslissing onverwijld ter kennis wordt gebracht van de Vlaamse   minister, bevoegd voor het algemeen beleid inzake vastgoedbeheer.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het hoofd van het departement of agentschap heeft delegatie om beslissingen te nemen over:<br>
+1°&nbsp;&nbsp; &nbsp;de verwerving van zakelijke rechten op onroerende goederen;<br>
+2°&nbsp;&nbsp; &nbsp;het beheer van onroerende goederen, overeenkomstig de bestemming die aan die goederen is gegeven met toepassing van de regels die de Vlaamse Regering vaststelt. Die delegatie geldt ook voor:<br>
+a)&nbsp;&nbsp; &nbsp;het verlenen van vergunningen voor private ingebruikneming en van concessies op openbare domeingoederen en het vestigen van zakelijke gebruiksrechten op openbare domeingoederen;<br>
+b)&nbsp;&nbsp; &nbsp;de vestiging van zakelijke gebruiksrechten op private domeingoederen of de verhuring of verpachting ervan;<br>
+3°&nbsp;&nbsp; &nbsp;het beheren en vervreemden van zakelijke gebruiksrechten op onroerende goederen die niet tot het openbare of private domein van de Vlaamse Gemeenschap of het Vlaamse Gewest behoren of geen eigendom zijn van het intern verzelfstandigde agentschap met rechtspersoonlijkheid;<br>
+4°&nbsp;&nbsp; &nbsp;de verwerving, het beheer en de vervreemding van roerende domeingoederen;<br>
+5°&nbsp;&nbsp; &nbsp;de invordering en inning van belastingen, heffingen, retributies en niet-fiscale schuldvorderingen;<br>
+6°&nbsp;&nbsp; &nbsp;het verlenen van subsidies die conform artikel 71, §2 en §3, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019 bij ministerieel besluit kunnen verleend worden;&nbsp;<br>
+7°&nbsp;&nbsp; &nbsp;het toekennen van giften en prijzen als vermeld in artikel 77 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, als het bedrag ervan lager is dan 7000 euro;<br>
+8°&nbsp;&nbsp; &nbsp;het verlenen en intrekken van vergunningen;<br>
+9°&nbsp;&nbsp; &nbsp;het verlenen en intrekken van erkenningen;<br>
+10°&nbsp;&nbsp; &nbsp;toezichts-, controle- en inspectietaken.<br>
+<br>
+Het hoofd van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid heeft delegatie om beslissingen te nemen over de wijziging van de bestemming of over het onttrekken van een onroerend goed aan zijn bestemming als de Vlaamse minister, bevoegd voor het vastgoed, onmiddellijk op de hoogte wordt gebracht van die beslissing.<br>
+<br>
+Het hoofd van het intern verzelfstandigd agentschap met rechtspersoonlijkheid heeft delegatie om beslissingen te nemen over de vervreemding van onroerende goederen in eigendom van het agentschap als de budgettaire weerslag niet meer dan 1.250.000 euro bedraagt.<br>
+&nbsp;</p>
 
 ## HOOFDSTUK 7 Mogelijkheid tot het instellen van beperkingen op de algemene delegatie
 
 ### ART. 18.
 
-<P>Met   betrekking tot de aangelegenheden, vermeld in dit besluit, kan, bij wijze van   uitzondering, in beperkingen op de algemene delegatie aan het hoofd van het   departement of agentschap worden voorzien.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beperkingen op de algemene delegatie aan het hoofd van het departement of   agentschap kunnen alleen betrekking hebben op bepaalde beslissingen of   categorieën van beslissingen waarvoor het aangewezen is dat ze, gelet op de   omvang, draagwijdte en weerslag ervan, genomen worden door de minister, de   Vlaamse Regering of een ander orgaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   voorkomend geval worden de voormelde beperkingen, in functie van de betrokken   beleidsmaterie of de taakstelling van het betrokken intern verzelfstandigd   agentschap, gespecificeerd door middel van bepalingen die terzake worden   opgenomen in, naargelang het geval:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het besluit van de Vlaamse Regering over de betrokken beleidsmaterie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   voor een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid: het   besluit van de Vlaamse Regering tot oprichting van het agentschap;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   voor een intern verzelfstandigd agentschap met rechtspersoonlijkheid: het   besluit van de Vlaamse Regering over de werking van het agentschap, ter   uitvoering van het oprichtingsdecreet.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   de bepalingen, vermeld in het derde lid, wordt gespecificeerd welke beslissingen   of categorieën van beslissingen niet aan het hoofd van het departement of   agentschap zijn gedelegeerd, en wordt bepaald welke van de voormelde   beslissingen of categorieën van beslissingen worden genomen door de minister, de   Vlaamse Regering of een ander orgaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Met betrekking tot de aangelegenheden, vermeld in dit besluit, kan, bij wijze van uitzondering, in beperkingen op de algemene delegatie aan het hoofd van het departement of agentschap worden voorzien.</p>
+
+<p>De beperkingen op de algemene delegatie aan het hoofd van het departement of agentschap kunnen alleen betrekking hebben op bepaalde beslissingen of categorieën van beslissingen waarvoor het aangewezen is dat ze, gelet op de omvang, draagwijdte en weerslag ervan, genomen worden door de minister, de Vlaamse Regering of een ander orgaan.</p>
+
+<p>In voorkomend geval worden de voormelde beperkingen, in functie van de betrokken beleidsmaterie of de taakstelling van het betrokken intern verzelfstandigd agentschap, gespecificeerd door middel van bepalingen die terzake worden opgenomen in, naargelang het geval:<br>
+1° het besluit van de Vlaamse Regering over de betrokken beleidsmaterie;<br>
+2° voor een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid: het besluit van de Vlaamse Regering tot oprichting van het agentschap;<br>
+3° voor een intern verzelfstandigd agentschap met rechtspersoonlijkheid: het besluit van de Vlaamse Regering over de werking van het agentschap, ter uitvoering van het oprichtingsdecreet.</p>
+
+<p>In de bepalingen, vermeld in het derde lid, wordt gespecificeerd welke beslissingen of categorieën van beslissingen niet aan het hoofd van het departement of agentschap zijn gedelegeerd, en wordt bepaald welke van de voormelde beslissingen of categorieën van beslissingen worden genomen door de minister, de Vlaamse Regering of een ander orgaan.<br>
+<br>
+In afwijking van het derde en vierde lid kan een beperking van de delegatie om subsidies te verlenen, vermeld in artikel 17, eerste lid, 6°, ook opgenomen worden in een ministerieel besluit. Het ministerieel besluit wordt bekendgemaakt in het Belgisch Staatsblad.</p>
 
 ## HOOFDSTUK 8 Specifieke en aanvullende delegaties
 
