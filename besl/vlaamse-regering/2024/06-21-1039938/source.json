@@ -2,16 +2,16 @@
   "codex_id": 1039938,
   "title": "Besluit van de Vlaamse Regering van 2024-06-21 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering, wat betreft de actualisering van de inhoudelijke structuurelementen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039938/VolledigDocument?datum=2024-06-21",
-  "source_sha256": "d0a58ffbb8d8147aee59bb46fb71d8dc4c365cd394c4092bd1dc1635499711a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039938/VolledigDocument?datum=2024-09-30",
+  "source_sha256": "25f8c92c8dae7cff1c343ca385af99dfc514fb49b1614a679f29e0c6161cc6b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039938&param=informatie",
-  "as_of": "2024-06-21",
+  "as_of": "2024-09-30",
   "made": "2024-06-21",
   "gazette": "2024-07-11",
   "numac": 2024006900,
   "document_start": "2024-06-21",
   "document_end": null,
-  "in_force": "2024-06-21",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2024-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-09-30",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2024-09-30; future article versions excluded; article text as the API gives it"
 }
