@@ -1683,9 +1683,15 @@ Naast de vereiste op het vlak van ervaring met en kennis van het bestuur en de w
 <br>
 Naast de vereiste op het vlak van ervaring met en kennis van het bestuur en de werking van de Vlaamse overheid en van de beslissingsprocessen en -procedures, vermeld in het eerste lid, 2°, geldt voor de functie van commissaris die de Vlaamse minister, bevoegd voor de financiën en de begrotingen, vertegenwoordigt, ook de vereiste van inzicht in en kennis van financiële en budgettaire aangelegenheden.<br>
 <br>
-§ 2. Bij ontslag of overlijden van de regeringscommissaris of als hij een onverenigbaar ambt uitoefent, vervangt de Vlaamse Regering hem zo spoedig mogelijk conform de bepalingen, vermeld in paragraaf 1.<br>
+§1/1. De Vlaamse Regering stelt de regeringscommissaris aan, voor een hernieuwbare termijn die samenvalt met de termijn van het mandaat van de niet-onafhankelijke leden van de raad van bestuur van de overheidsinstantie in kwestie. &nbsp;<br>
 <br>
-De Vlaamse Regering kan een plaatsvervanger aanstellen voor het geval dat de regeringscommissaris verhinderd is.
+Bij ontslag of overlijden van de regeringscommissaris, of als hij een on-verenigbaar mandaat uitoefent, stelt de Vlaamse Regering een nieuwe rege-ringscommissaris aan die het mandaat overneemt voor de nog resterende looptijd ervan.<br>
+<br>
+In voorkomend geval wordt het mandaat van de zittende regeringscom-missarissen ambtshalve verlengd tot de Vlaamse Regering, bij het verstrijken van de termijn, vermeld in het eerste lid, de regeringscommissarissen heeft aangesteld. In de periode van ambtshalve verlenging blijft de zittende rege-ringscommissaris volwaardig in functie om de continuïteit te garanderen.<br>
+<br>
+§1/2. Het mandaat van regeringscommissaris vereist een vertrouwensrelatie met de Vlaamse Regering. Als die vertrouwensrelatie verbroken wordt, kan de Vlaamse Regering het mandaat op elk moment beëindigen.<br>
+<br>
+§ 2.&nbsp; De Vlaamse Regering kan een plaatsvervanger aanstellen voor het geval dat de regeringscommissaris verhinderd is.
 
 ### ART III.50.
 
@@ -1721,7 +1727,7 @@ De regeringscommissaris brengt over de toevertrouwde taken verslag uit bij de mi
 
 ### ART III.55.
 
-Het mandaat van regeringscommissaris vereist een vertrouwensrelatie met de Vlaamse Regering. Als die vertrouwensrelatie verbroken wordt, kan de Vlaamse Regering het mandaat op elk moment beëindigen.
+...
 
 ### ART III.56.
 
