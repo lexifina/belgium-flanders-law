@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039176,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-15 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039176/VolledigDocument?datum=2024-09-30",
+  "source_sha256": "c81cf9c1961a50b772b04ff385992ab453abef17a0f79aeafdb3bbe7a2e87908",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039176&param=informatie",
+  "as_of": "2024-09-30",
+  "made": "2023-12-15",
+  "gazette": "2024-01-05",
+  "numac": 2023048757,
+  "document_start": "2024-09-30",
+  "document_end": null,
+  "in_force": "2024-09-30",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
