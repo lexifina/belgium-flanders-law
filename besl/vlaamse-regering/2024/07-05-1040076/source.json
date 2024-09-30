@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040076,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-05 tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040076/VolledigDocument?datum=2024-09-30",
+  "source_sha256": "bfd55bcc29eb962df0e64d48daf0bbc92599facc6ef8134a77e956c6e1257218",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040076&param=informatie",
+  "as_of": "2024-09-30",
+  "made": "2024-07-05",
+  "gazette": "2024-08-07",
+  "numac": 2024007625,
+  "document_start": "2024-09-30",
+  "document_end": null,
+  "in_force": "2024-09-30",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2024-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
