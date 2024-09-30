@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040236,
+  "title": "Ministerieel besluit van 2024-09-10 tot goedkeuring van het beoordelingskader voor de erkenning en subsidiëring van omgevingsverenigingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040236/VolledigDocument?datum=2024-09-30",
+  "source_sha256": "523193d9c094b998f5a0a774665700eb6fd491211ee985429666cfbe1a8117e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040236&param=informatie",
+  "as_of": "2024-09-30",
+  "made": "2024-09-10",
+  "gazette": "2024-09-30",
+  "numac": 2024008796,
+  "document_start": "2024-09-30",
+  "document_end": null,
+  "in_force": "2024-09-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
