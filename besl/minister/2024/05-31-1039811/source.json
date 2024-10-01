@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039811,
+  "title": "Ministerieel besluit van 2024-05-31 houdende de vervanging van de refertelijst en de refertelijst bis betreffende individuele materiële bijstand en tot aanpassing van de hulpmiddelenfiches en de vervanging van de hulpmiddelenfiches voor huurpakketten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039811/VolledigDocument?datum=2024-10-01",
+  "source_sha256": "82abd234523c29c94c308af57ebb6e3baf0731e2474ad17cddb006ee7d85e2df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039811&param=informatie",
+  "as_of": "2024-10-01",
+  "made": "2024-05-31",
+  "gazette": "2024-06-20",
+  "numac": 2024005750,
+  "document_start": "2024-10-01",
+  "document_end": null,
+  "in_force": "2024-10-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2024-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
