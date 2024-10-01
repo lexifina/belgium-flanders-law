@@ -171,7 +171,7 @@ In voorkomend geval wordt aan de kandidaat-waarborghouders waaraan geen continge
 2° de te waarborgen financieringsovereenkomsten;<br>
 3° de gevraagde waarborg en het dekkingspercentage.<br>
 <br>
-§4. De som van de waarborgen van de begunstigde en zijn verbonden ondernemingen mag in hoofdsom niet meer bedragen dan 750.000 euro.<br>
+§4. De som van de waarborgen van de begunstigde en zijn verbonden ondernemingen mag in hoofdsom niet meer bedragen dan 1.125.000 euro.<br>
 <br>
 §5. De waarborgvennootschap bevestigt de registratie van de waarborg binnen tien werkdagen vanaf de dag van de aanmelding van de registratie.<br>
 <br>
@@ -179,7 +179,7 @@ In voorkomend geval wordt aan de kandidaat-waarborghouders waaraan geen continge
 <br>
 In voorkomend geval wordt de registratie geweigerd en wordt de reden daarvan meegedeeld aan de waarborghouder. De waarborghouder kan vervolgens een nieuwe aanmelding doen, op voorwaarde dat die voldoet aan de voorwaarden, vermeld in het decreet van 10 december 2021 en de uitvoeringsbesluiten ervan.<br>
 <br>
-§7. De minister kan waarborgen toestaan met als gevolg dat het maximumbedrag, vermeld in paragraaf 4, wordt overschreden. De som van de waarborgen van de begunstigde en zijn verbonden ondernemingen mag niet meer dan 1.500.000 euro bedragen.<br>
+§7. De minister kan waarborgen toestaan met als gevolg dat het maximumbedrag, vermeld in paragraaf 4, wordt overschreden. De som van de waarborgen van de begunstigde en zijn verbonden ondernemingen mag niet meer dan 2.250.000 euro bedragen.<br>
 <br>
 De waarborghouder richt het verzoek tot overschrijding van het maximumbedrag, vermeld in paragraaf 4, aan de waarborgvennootschap.&nbsp;<br>
 <br>
