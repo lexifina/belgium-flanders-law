@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039613,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-08 tot wijziging van het artikel 5, 11 en de bijlage bij het koninklijk besluit van 4 maart 2005 inzake het welzijn van loopvogels gehouden voor landbouwdoeleinden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039613/VolledigDocument?datum=2024-10-01",
+  "source_sha256": "150007c867a62dfe31cb8fc6850f9a6a199801da5b9850be59a08f44548d9663",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039613&param=informatie",
+  "as_of": "2024-10-01",
+  "made": "2024-03-08",
+  "gazette": "2024-04-17",
+  "numac": 2024003630,
+  "document_start": "2024-10-01",
+  "document_end": null,
+  "in_force": "2024-10-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
