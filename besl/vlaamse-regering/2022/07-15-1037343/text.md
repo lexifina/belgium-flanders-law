@@ -832,18 +832,35 @@ In het tweede lid, 3°, wordt verstaan onder competentieversterkend traject: het
 
 ### ART 82.
 
-§ 1. De lokale diensteneconomieonderneming die op de datum van de inwerkingtreding van dit besluit met toepassing van artikel 86 van het decreet van 14 januari 2022 haar inschakelingstrajecten, die uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit zijn ingevuld, wil verderzetten met de werkondersteunende maatregelen, vermeld in voormeld decreet, dient een verzoek in bij het departement dat daarvoor een aanvraagformulier ter beschikking stelt.<br>
+§1. De lokale diensteneconomieonderneming die op de datum van de inwerkingtreding van dit besluit met toepassing van artikel 86 van het decreet van 14 januari 2022 haar inschakelingstrajecten, die uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit zijn ingevuld, wil verderzetten met de werkondersteunende maatregelen, vermeld in voormeld decreet, dient een verzoek in bij het departement dat daarvoor een aanvraagformulier ter beschikking stelt.<br>
 <br>
-§ 2. De lokale diensteneconomieonderneming, vermeld in paragraaf 1, ontvangt een tijdelijke vergoedingsregeling per tewerkgestelde doelgroepwerknemer, vermeld in artikel 3, 1°, van het decreet van 22 november 2013, als aan al de volgende voorwaarden is voldaan:<br>
+§2. De lokale diensteneconomieonderneming, vermeld in paragraaf 1, ontvangt een tijdelijke vergoedingsregeling per tewerkgestelde doelgroepwerknemer, vermeld in artikel 3, 1°, van het decreet van 22 november 2013, als aan al de volgende voorwaarden is voldaan:<br>
 1° de doelgroepwerknemer is uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit tewerkgesteld met een arbeidsovereenkomst bij de lokale diensteneconomieonderneming;<br>
 2° de tijdelijke vergoeding wordt toegekend voor de resterende duurtijd van het inschakelingstraject van de doelgroepmedewerker op voorwaarde dat de doelgroepwerknemer niet werd geëvalueerd overeenkomstig artikel 33 van het decreet van 14 januari 2022;<br>
 3° de tijdelijke vergoeding is alleen opeisbaar als de doelgroepmedewerker ononderbroken tewerkgesteld blijft als doelgroepwerknemer als vermeld in artikel 3, 1°, van het decreet van 22 november 2013.<br>
 <br>
-De tijdelijke vergoeding wordt jaarlijks toegekend binnen de perken van het beschikbare begrotingskrediet en is afgestemd op de vergoeding van het inschakelingstraject, vermeld in hoofdstuk 7 van het decreet van 22 november 2013.<br>
+De tijdelijke vergoeding wordt toegekend binnen de perken van het jaarlijkse begrotingskrediet en bedraagt 15.666,51 euro.<br>
 <br>
 De minister bepaalt de procedure om de tijdelijke vergoedingsregeling uit te betalen en kan een uiterste indieningstermijn voor het verzoek tot omzetting, vermeld in paragraaf 1, bepalen.<br>
 <br>
-§ 3. De lokale diensteneconomieonderneming kan de tijdelijke vergoedingsregeling niet cumuleren met de werkondersteunende maatregelen, vermeld in het decreet van 14 januari 2022.
+§3. De lokale diensteneconomieonderneming kan de tijdelijke vergoedingsregeling niet cumuleren met de werkondersteunende maatregelen, vermeld in het decreet van 14 januari 2022.<br>
+<br>
+§4. De tijdelijke vergoeding, vermeld in paragraaf 2, evolueert binnen jaarlijkse begrotingskredieten, op dezelfde wijze en in dezelfde mate als de gezondheidsindex met als basismaand juni 2023. Het nieuwe bedrag heeft ingang na verloop van een wachtmaand.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. &nbsp;De tijdelijke vergoeding wordt toegekend met toepassing van besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.<br>
+<br>
+Het departement voert op regelmatige basis, uiterlijk om de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen van dit besluit, om de omvang van de vergoeding voor de inschakelingstrajecten te bepalen.<br>
+<br>
+De controles, vermeld in het tweede lid, zijn minimaal gericht op:<br>
+1° de loonkosten van de begeleider;<br>
+2° de loonkosten van de werknemer;<br>
+3° de uitvoering van een inschakelingstraject dat gericht is op een competentieversterkende tewerkstelling en een kwaliteitsvolle begeleiding en het bereiken van doorstroom.&nbsp;<br>
+<br>
+De controle, vermeld in het tweede lid, kan aanleiding geven tot de herziening van de vergoeding, vermeld in artikel 82,§2, tweede lid van dit besluit.<br>
+<br>
+Als de begunstigde van de tijdelijke vergoeding activiteiten verricht die zowel binnen als buiten het toepassingsgebied van deze dienst van algemeen economisch belang vallen, moet hij een gescheiden boekhouding voeren, waarin de kosten van en de inkomsten uit de dienst, en de kosten en inkomsten die met andere diensten verband houden, gescheiden worden aangegeven.<br>
+<br>
+De begunstigde van de tijdelijke vergoeding bewaart de informatiegegevens die betrekking hebben op de naleving van de voorwaarden van dit besluit gedurende minimaal tien jaar, na afloop van de periode van toewijzing.
 
 ### ART 83.
 
@@ -927,20 +944,29 @@ De maatwerkafdelingen, vermeld in artikel 3, 4°, van het decreet van 12 juli 20
 
 ### ART 93.
 
-§ 1. Maatwerkafdelingen die met toepassing van artikel 88 van het decreet van 14 januari 2022 de werkondersteunende maatregelen, vermeld in artikel 9 van het decreet van 12 juli 2013, die uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit zijn ingevuld willen verderzetten in werkondersteunende maatregelen als vermeld in het decreet van 14 januari 2022, dienen een verzoek in bij het departement, dat daarvoor een aanvraagformulier ter beschikking stelt.<br>
+§1. Maatwerkafdelingen die met toepassing van artikel 88 van het decreet van 14 januari 2022 de werkondersteunende maatregelen, vermeld in artikel 9 van het decreet van 12 juli 2013, die uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit zijn ingevuld willen verderzetten in werkondersteunende maatregelen als vermeld in het decreet van 14 januari 2022, dienen een verzoek in bij het departement, dat daarvoor een aanvraagformulier ter beschikking stelt.<br>
 <br>
-§ 2. De maatwerkafdeling, vermeld in § 1, ontvangt binnen de perken van de begrotingskredieten een tijdelijke vergoeding per tewerkgestelde doelgroepmedewerker als aan al de volgende voorwaarden is voldaan:<br>
+§2. De maatwerkafdeling, vermeld in § 1, ontvangt binnen de perken van de begrotingskredieten een tijdelijke vergoeding per tewerkgestelde doelgroepmedewerker als aan al de volgende voorwaarden is voldaan:<br>
 1° de doelgroepwerknemer, vermeld in artikel 3, 2°, van het decreet van 12 juli 2013, is uiterlijk op de dag voor de datum van de inwerkingtreding van dit besluit met een arbeidsovereenkomst bij de maatwerkafdeling tewerkgesteld;<br>
 2° de vergoeding wordt toegekend voor de resterende duurtijd van de vastgestelde behoefte, vermeld in artikel 14 van het besluit van 17 februari 2017, en is begrensd voor een periode van maximaal vijf jaar op voorwaarde dat de doelgroepwerknemer niet geëvalueerd werd overeenkomstig artikel 33 van het decreet van 14 januari 2022;<br>
 3° de vergoeding is alleen opeisbaar als de doelgroepmedewerker ononderbroken tewerkgesteld blijft.<br>
 <br>
-De tijdelijke vergoeding wordt jaarlijks toegekend binnen de perken van het beschikbare begrotingskrediet en is afgestemd op de vergoeding voor de werkondersteunende maatregel, vermeld in artikel 9 van het decreet van 12 juli 2013.<br>
-<br>
+De tijdelijke vergoeding wordt toegekend binnen de perken van het jaarlijkse begrotingskrediet en omvat per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer de volgende bestanddelen:<br>
+1°&nbsp; een loonpremie die is berekend op het referteloon, vermeld in artikel 35 van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende maatwerk bij collectieve inschakeling volgens het percentage zoals dit op de dag voor de datum van de inwerkingtreding van dit besluit is vastgesteld;<br>
+2° een vaste begeleidingspremie van maximaal 617,96 euro per kwartaal per persoon met loonkosten in het kwartaal;&nbsp;<br>
+3° een variabele begeleidingspremie per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer met loonkosten in het kwartaal in kwestie, die bestaat uit:&nbsp;<br>
+a) 1.349,69 euro per kwartaal voor een doelgroepwerknemer met een hoge intensiteit van begeleiding die op de dag voor de datum van de inwerkingtreding van dit besluit is vastgesteld;<br>
+b) 759,40 euro per kwartaal voor een doelgroepwerknemer met een gemiddelde intensiteit van begeleiding op de dag voor de datum van de inwerkingtreding van dit besluit.<br>
+.<br>
 De minister bepaalt de procedure voor uitbetaling van de tijdelijke vergoeding.<br>
 <br>
 De minister kan een uiterste indieningstermijn bepalen voor het verzoek tot omzetting, vermeld in paragraaf 1.<br>
 <br>
-§ 3. De maatwerkafdeling kan de tijdelijke vergoedingsregeling niet cumuleren met de werkondersteunende maatregen, vermeld in het decreet van 14 januari 2022.
+§3. De maatwerkafdeling kan de tijdelijke vergoedingsregeling niet cumuleren met de werkondersteunende maatregen, vermeld in het decreet van 14 januari 2022.<br>
+<br>
+§4. De vaste en de variabele begeleidingspremie van de tijdelijke vergoeding, vermeld in artikel 93, §2, tweede lid, 3°, a) en b), volgen de evolutie van de gezondheidsindex met als basismaand juni 2023 en worden uitbetaald met inachtname van een wachtmaand.&nbsp;<br>
+<br>
+§5. De tijdelijke vergoeding wordt toegekend met toepassing van de algemene groepsvrijstellingsverordening.
 
 ### ART 94.
 
