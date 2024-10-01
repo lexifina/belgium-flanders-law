@@ -2,16 +2,16 @@
   "codex_id": 1032836,
   "title": "Besluit van een ambtenaar van 2020-03-13 van het team Cultuurgoederen, de teamverantwoordelijke van het team Infrastructuur en instellingen en de teamverantwoordelijke van het team Personeel houdende subdelegatie van sommige beslissingsbevoegdheden aan bepaalde personeelsleden van de buitendiensten",
   "type": "Besluit van een ambtenaar",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032836/VolledigDocument?datum=2020-02-01",
-  "source_sha256": "aeec3cae64c03dc25786f8d093a578b68959d91570cc62b427846a604a9b4fee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032836/VolledigDocument?datum=2024-10-01",
+  "source_sha256": "1d5cbd7f488f0ecde6763ed99d55c956f8abf42c2595d06d0c0c5a9f7a400402",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032836&param=informatie",
-  "as_of": "2020-02-01",
+  "as_of": "2024-10-01",
   "made": "2020-03-13",
   "gazette": "2020-04-07",
   "numac": 2020030416,
   "document_start": "2020-02-01",
   "document_end": "2024-09-30",
-  "in_force": "2020-02-01",
+  "in_force": "2024-10-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2020-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-01; future article versions excluded; article text as the API gives it"
 }
