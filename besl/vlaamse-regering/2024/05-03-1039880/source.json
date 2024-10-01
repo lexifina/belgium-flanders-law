@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039880,
+  "title": "Besluit van de Vlaamse Regering van 2024-05-03 tot wijziging van artikel 8 van het besluit van de Vlaamse Regering van 21 oktober 2022 tot uitvoering van het decreet van 10 december 2021 houdende een generieke waarborgregeling voor ondernemingen en tot wijziging van het besluit van de Vlaamse Regering van 15 april 2009 tot uitvoering van Hoofdstuk III/1 van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039880/VolledigDocument?datum=2024-10-01",
+  "source_sha256": "3a1eacc1ac06e1baaee33ae6db933afc93ca620bbe584c8e6e403601574880cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039880&param=informatie",
+  "as_of": "2024-10-01",
+  "made": "2024-05-03",
+  "gazette": "2024-07-19",
+  "numac": 2024006539,
+  "document_start": "2024-10-01",
+  "document_end": null,
+  "in_force": "2024-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
