@@ -39,22 +39,23 @@ S: de normale gemiddelde wekelijkse arbeidsduur van de maatpersoon met inbegrip 
 
 Het departement hanteert voor de berekening van het referteloon, vermeld in artikel 21, §1, van het besluit van 15 juli 2022, de volgende methodiek en authentieke gegevensbronnen:<br>
 1° voor het loon of het flexiloon, dat wordt begrepen als de som van de bedragen opgenomen in de RSZ-aangifte voor elke tewerkstelling voor het betrokken kwartaal gelden de volgende bezoldigingscodes:&nbsp;<br>
-&nbsp; a) code 1: alle bedragen die steeds als loon worden beschouwd en rechtstreeks verband houden met de tijdens het kwartaal geleverde prestaties, met uitzondering van de vergoedingen die onder een andere code worden vermeld;<br>
-&nbsp; b) code 2: premies en gelijkaardige voordelen die worden toegekend onafhankelijk van het aantal effectief gewerkte dagen in het kwartaal;<br>
-&nbsp; c) code 5: premies die de werknemer ontvangt omdat hij, in het raam van maatregelen tot herverdeling van de arbeid, zijn arbeidsprestaties heeft beperkt;<br>
-&nbsp; d) code 6: vergoedingen voor uren die geen arbeidstijd zijn in de zin van de arbeidswet van 16 maart 1971 en die zijn toegekend ingevolge een CAO gesloten in de schoot van een paritair orgaan vóór 1 januari 1994 en algemeen verbindend verklaard bij koninklijk besluit;<br>
-&nbsp; e) code 7: enkelvoudig vertrekvakantiegeld dat is uitbetaald aan bedienden en onderhevig aan bijdragen;<br>
-&nbsp; f) code 22: het flexiloon, zijnde lonen betaald aan een flexijob-werknemer die rechtstreeks in verband staan met de tijdens het kwartaal geleverde prestaties;<br>
-&nbsp; g) code 23: de premies die zijn betaald aan een flexijob-werknemer;<br>
-&nbsp; h) code 61: alle bedragen die zijn betaald aan een statutair personeelslid en die steeds als loon worden beschouwd, met uitzondering van de vergoedingen die onder een andere code worden vermeld en die zijn vrijgesteld van overheidspensioenbijdrage;<br>
-&nbsp; i) code 62: de premies en gelijkaardige voordelen die zijn betaald aan een statutair personeelslid en die worden toegekend onafhankelijk van het aantal effectief gewerkte dagen in het kwartaal en die zijn vrijgesteld van overheidspensioenbijdrage;<br>
-&nbsp; j) code 65: de premies die een statutair personeelslid ontvangt omdat hij, in het raam van maatregelen tot herverdeling van de arbeid, zijn arbeidsprestaties heeft beperkt en die zijn vrijgesteld van overheidspensioenbijdrage.<br>
+a) code 1: alle bedragen die steeds als loon worden beschouwd en rechtstreeks verband houden met de tijdens het kwartaal geleverde prestaties, met uitzondering van de vergoedingen die onder een andere code worden vermeld;<br>
+b) code 2: premies en gelijkaardige voordelen die worden toegekend onafhankelijk van het aantal effectief gewerkte dagen in het kwartaal;<br>
+c) code 5: premies die de werknemer ontvangt omdat hij, in het raam van maatregelen tot herverdeling van de arbeid, zijn arbeidsprestaties heeft beperkt;<br>
+d) code 6: vergoedingen voor uren die geen arbeidstijd zijn in de zin van de arbeidswet van 16 maart 1971 en die zijn toegekend ingevolge een CAO gesloten in de schoot van een paritair orgaan vóór 1 januari 1994 en algemeen verbindend verklaard bij koninklijk besluit;<br>
+e) code 7: enkelvoudig vertrekvakantiegeld dat is uitbetaald aan bedienden en onderhevig aan bijdragen;<br>
+e’ ) Code 15: het gedeelte enkel vakantiegeld dat de werknemer ontvangt voor vakantiedagen die niet opgenomen kunnen worden, o.a. omwille van ziekte, en die de 24 maanden volgend op het vakantiejaar kunnen opgenomen worden;<br>
+f) code 22: het flexiloon, zijnde lonen betaald aan een flexijob-werknemer die rechtstreeks in verband staan met de tijdens het kwartaal geleverde prestaties;<br>
+g) code 23: de premies die zijn betaald aan een flexijob-werknemer;<br>
+h) code 61: alle bedragen die zijn betaald aan een statutair personeelslid en die steeds als loon worden beschouwd, met uitzondering van de vergoedingen die onder een andere code worden vermeld en die zijn vrijgesteld van overheidspensioenbijdrage;<br>
+i) code 62: de premies en gelijkaardige voordelen die zijn betaald aan een statutair personeelslid en die worden toegekend onafhankelijk van het aantal effectief gewerkte dagen in het kwartaal en die zijn vrijgesteld van overheidspensioenbijdrage;<br>
+j) code 65: de premies die een statutair personeelslid ontvangt omdat hij, in het raam van maatregelen tot herverdeling van de arbeid, zijn arbeidsprestaties heeft beperkt en die zijn vrijgesteld van overheidspensioenbijdrage.<br>
 2° voor de verplichte werkgeversbijdragen gelden de volgende bijdragen:&nbsp;<br>
-&nbsp; a) de basisbijdragevoeten die gebonden zijn aan een natuurlijk persoon, en die voor handarbeiders en gelijkgestelde werknemers die onder het privé-vakantiestelsel vallen, toegepast worden op het loon als berekend onder punt 1°, vermenigvuldigd met 1,08;<br>
-&nbsp; b) de bijdrage ‘debetbericht jaarlijkse vakantie’ voor handarbeiders en gelijkgestelde werknemers die onder het privé-vakantiestelsel vallen die per kwartaal berekend worden aan de hand van volgende formule: loon, als berekend onder 1°, vermenigvuldigd met 1,08 en vermenigvuldigd met 0,1027;&nbsp;<br>
-&nbsp; c) de bijzondere werkgeversbijdragen met codenummers 855 en 857;<br>
-&nbsp; d) alle loonmatigingsbijdragen;<br>
-&nbsp; e) de werkgeversbijdragen, aangegeven onder een werknemerskengetal 840 of 841.<br>
+a) de basisbijdragevoeten die gebonden zijn aan een natuurlijk persoon, en die voor handarbeiders en gelijkgestelde werknemers die onder het privé-vakantiestelsel vallen, toegepast worden op het loon als berekend onder punt 1°, vermenigvuldigd met 1,08;<br>
+b) de bijdrage ‘debetbericht jaarlijkse vakantie’ voor handarbeiders en gelijkgestelde werknemers die onder het privé-vakantiestelsel vallen die per kwartaal berekend worden aan de hand van volgende formule: loon, als berekend onder 1°, vermenigvuldigd met 1,08 en vermenigvuldigd met 0,1027;&nbsp;<br>
+c) de bijzondere werkgeversbijdragen met codenummers 855 en 857;<br>
+d) alle loonmatigingsbijdragen;<br>
+e) de werkgeversbijdragen, aangegeven onder een werknemerskengetal 840 of 841.<br>
 3° voor de verminderingen van de socialezekerheidsbijdragen ten voordele van de werkgever geldt de som van alle verminderingen van werkgeversbijdragen die zijn opgenomen in de RSZ-aangifte waarbij het totaal aan verminderingen van werkgeversbijdragen niet hoger kan zijn dan de totaliteit van de berekende werkgeversbijdragen, vermeld in punt 2°.
 
 ### ART 3.
