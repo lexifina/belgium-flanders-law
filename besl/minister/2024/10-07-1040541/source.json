@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040541,
+  "title": "Ministerieel besluit van 2024-10-07 houdende de identificatie en registratie van honden en katten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040541/VolledigDocument?datum=2024-10-07",
+  "source_sha256": "bbdae3137fd16c0000123146b231ce38b195786f5bb12d6bba12174d51b5ae61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040541&param=informatie",
+  "as_of": "2024-10-07",
+  "made": "2024-10-07",
+  "gazette": "2025-01-15",
+  "numac": 2025000251,
+  "document_start": "2024-10-07",
+  "document_end": null,
+  "in_force": "2024-10-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
