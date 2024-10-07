@@ -8,10 +8,7 @@ De Minister van Volksgezondheid,<BR><BR>Gelet op de wet van 14 augustus   1986 b
 
 ### ART. 1.
 
-Het bedrag van de forfaitaire bijdragen bedoeld in artikel 41 van het koninklijk besluit van 25 april 2014 betreffende de identificatie en registratie van honden, wordt vastgesteld op :<br>
-1° ...<br>
-2° voor identificatiecertificaten :&nbsp;10,46 euro, met inbegrip van de bijdrage voorzien in artikel 7 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
-3° voor fiches "Vervanging paspoort" : 0 euro.
+...
 
 ## HOOFDSTUK II. Het identificatiecertificaat
 
