@@ -18,10 +18,8 @@ Besluit :
 
 ### ART 1.
 
-De retributie, vermeld in artikel 25 van het besluit van de Vlaamse Regering van 5 februari 2016 betreffende de identificatie en registratie van katten, bedraagt 2,904 euro.
+...
 
 ### ART 2.
 
-De volgende regelgevende teksten treden in werking op 1 november 2017:<br>
-1° het besluit van de Vlaamse Regering van 5 februari 2016 betreffende de identificatie en registratie van katten;<br>
-2° dit ministerieel besluit.
+...
