@@ -702,7 +702,7 @@ Het geboorteverlof wordt in mindering gebracht van het recht op opvangverlof ver
 
 ### ART. 82.
 
-Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een ambtenaar van niveau A van de Vlaamse ministeries, van een agentschap met rechtspersoonlijkheid of Vlaamse openbare instelling, van een lokaal bestuur of van de federale overheid. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.<br>
+Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een personeelslid van niveau A van de Vlaamse ministeries, van een agentschap met rechtspersoonlijkheid of Vlaamse openbare instelling, van een lokaal bestuur of van de federale overheid. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.<br>
 <br>
 Het eerste lid is ook van toepassing in geval van waarneming van het vacante ambt van arrondissementscommissaris. In afwijking van het eerste lid beslist de Vlaamse Regering hiertoe.
 

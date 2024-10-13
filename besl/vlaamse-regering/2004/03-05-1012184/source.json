@@ -2,16 +2,16 @@
   "codex_id": 1012184,
   "title": "Besluit van de Vlaamse Regering van 2004-03-05 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012184/VolledigDocument?datum=2024-07-15",
-  "source_sha256": "4da8f0faf591a6e983cb0aa2ae869231e8eb97626e079c5eba085b1a86c6e502",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012184/VolledigDocument?datum=2024-10-13",
+  "source_sha256": "6aaec52b489a0287d10e87e9dbae14bf02c9ae9a6d2d0eb640b29938b975f917",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012184&param=informatie",
-  "as_of": "2024-07-15",
+  "as_of": "2024-10-13",
   "made": "2004-03-05",
   "gazette": "2004-03-26",
   "numac": 2004035465,
   "document_start": "2004-03-01",
   "document_end": null,
-  "in_force": "2024-07-15",
+  "in_force": "2024-10-13",
   "article_versions": 145,
-  "record_form": "consolidated version as in force on 2024-07-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-13; future article versions excluded; article text as the API gives it"
 }
