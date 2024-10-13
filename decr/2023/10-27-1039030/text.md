@@ -646,6 +646,286 @@ In artikel 26, §1, eerste lid, van hetzelfde decreet wordt punt 1° vervangen d
 
 ## Hoofdstuk 4. Wijzigingen van het decreet van 22 december 2017 over het lokaal bestuur
 
+### ART 89.
+
+Aan artikel 6, §3, van het decreet over het lokaal bestuur van 22 december 2017, gewijzigd bij het decreet van 17 februari 2023, wordt een lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Een raadslid dat zich in een situatie van verhindering bevindt als vermeld in artikel 12, 5°, kan worden verkozen als schepen of voorzitter van het bijzonder comité voor de sociale dienst of aangeduid worden als aangewezen-burgemeester. In voorkomend geval en in afwijking van artikel 12, 5°, kan dat raadslid vervolgens de eed afleggen van het betreffende mandaat.”.
+
+### ART 90.
+
+In artikel 7 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+“§1. Op de installatievergadering verkiest de gemeenteraad op basis van een akte van voordracht van kandidaat-voorzitter die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid, een voorzitter onder de gemeenteraadsleden van Belgische nationaliteit. De Vlaamse Regering stelt het model van de akte van voordracht van kandidaat-voorzitter vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van kandidaat-voorzitter wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke akte van voordracht van kandidaat-voorzitter voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+4° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-voorzitter voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+5° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-voorzitter vermelden. In dat geval kan op de akte van voordracht de naam vermeld worden van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de voorzitter bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is aangewezen als de opvolger van de voorzitter, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform paragraaf 5. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaande beschouwd.”;<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+“§2. Niemand kan meer dan één akte van voordracht, gedaan op het model, vermeld in paragraaf 1, tweede lid, 2°, ondertekenen.<br>
+Alle handtekeningen die in strijd met het verbod, vermeld in het eerste lid, zijn geplaatst, zijn ongeldig. Deze handtekeningen worden niet in aanmerking genomen om de vereisten, vermeld in paragraaf 1, tweede lid, 3° en 4°, te bereiken.<br>
+Een verkozene die het verbod, vermeld in het eerste lid, overtreedt, kan voor de duur van de zittingsperiode van de gemeenteraad niet worden benoemd of verkozen als burgemeester, schepen, voorzitter van de gemeenteraad, voorzitter van een gemeenteraadscommissie, voorzitter of lid van het bijzonder comité voor de sociale dienst, noch een dergelijk mandaat waarnemen. Een verkozene die het verbod, vermeld in het eerste lid, overtreedt, kan de gemeente ook niet vertegenwoordigen of kan namens de gemeente geen mandaat bekleden of waarnemen in gemeentelijke extern verzelfstandigde agentschappen of andere verenigingen, stichtingen of vennootschappen. Een verkozene die het verbod, vermeld in het eerste lid, overtreedt, kan evenmin het openbaar centrum voor maatschappelijk welzijn vertegenwoordigen of namens het openbaar centrum voor maatschappelijk welzijn een mandaat bekleden of waarnemen in een vereniging of vennootschap als vermeld in deel 3, titel 4, of in andere verenigingen, stichtingen of vennootschappen. Als de betrokkene al een dergelijk mandaat bekleedt of waarneemt, vervalt dat van rechtswege.”;<br>
+3° paragraaf 4 wordt vervangen door wat volgt:<br>
+“§4. Als er geen ontvankelijke akte van voordracht van kandidaat-voorzitter aan de voorzitter van de installatievergadering wordt bezorgd, verkiest de gemeenteraad binnen veertien dagen een voorzitter onder de gemeenteraadsleden van Belgische nationaliteit.<br>
+De gemeenteraadsleden kunnen voor de verkiezing van een voorzitter, vermeld in het eerste lid, een akte van voordracht die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het derde lid, bezorgen aan de algemeen directeur. De Vlaamse Regering stelt het model van de akte van voordracht van kandidaat-voorzitter vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van kandidaat-voorzitter wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke akte van voordracht van kandidaat-voorzitter voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het tweede lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-voorzitter voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+4° ze is uiterlijk drie dagen voor de eerstvolgende vergadering van de gemeenteraad na de installatievergadering aan de algemeen directeur bezorgd.<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-voorzitter vermelden. In dat geval kan op de akte van voordracht de naam vermeld worden van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de voorzitter bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld. Als het mandaat van de voorzitter eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is aangewezen als opvolger van de voorzitter, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen, of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform paragraaf 5. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+Niemand kan meer dan één akte van voordracht, gedaan op de modelakte, vermeld in het derde lid, 2°, ondertekenen.<br>
+Alle handtekeningen die in strijd met het verbod, vermeld in het vijfde lid, zijn geplaatst, zijn ongeldig. Deze handtekeningen worden niet in aanmerking genomen om de vereisten, vermeld in het derde lid, 3°, te bereiken. Overtredingen van het voormelde verbod worden bestraft conform paragraaf 2, derde lid.<br>
+De voorzitter van de vergadering gaat na of de akte van voordracht van kandidaat-voorzitter ontvankelijk is conform het derde tot en met het zesde lid.<br>
+De verkiezing, vermeld in het eerste lid, vindt plaats bij geheime stemming.<br>
+De kandidaat die de volstrekte meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter van de gemeenteraad. Als geen enkele kandidaat de volstrekte meerderheid van de stemmen heeft behaald en als verschillende kandidaten zijn voorgedragen voor het vacante mandaat, vindt een tweede stemronde plaats, waarin wordt gestemd op de twee kandidaten die in de eerste stemronde de meeste stemmen hebben behaald. Bij staking van stemmen in de eerste stemronde komt de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, in aanmerking voor de tweede stemronde. De kandidaat die in de tweede stemronde de meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter. Bij staking van stemmen in de tweede stemronde is de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, verkozen tot voorzitter. Als de naamstemmen bepalend zijn en de kandidaten een gelijk aantal naamstemmen hebben behaald, is de voorgedragen kandidaat verkozen van wie de lijst bij de gemeenteraadsverkiezingen de meeste stemmen heeft behaald.”;<br>
+4° in paragraaf 5, eerste lid, wordt tussen de zinsnede ““de installatievergadering van de gemeenteraad” wordt gelezen als “de eerstvolgende vergadering van de gemeenteraad, vermeld in paragraaf 5”,” en de zinsnede ““verkozenen op de lijsten die aan de verkiezingen deelnamen” wordt gelezen als “gemeenteraadsleden”” de zinsnede ““drie dagen”, vermeld in paragraaf 1, wordt gelezen als “acht dagen”,” ingevoegd.
+
+### ART 92.
+
+In artikel 43 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+“§1. Behalve de schepenen die benoemd zijn conform artikel 42, §1, derde lid, en §3, tweede en derde lid, verkiest de gemeenteraad de schepenen onder de gemeenteraadsleden op basis van een gezamenlijke akte van voordracht van de kandidaat-schepenen die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de gezamenlijke akte van voordracht van de kandidaat-schepenen vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de gezamenlijke akte van voordracht van de kandidaat-schepenen wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke gezamenlijke akte van voordracht van de kandidaatschepenen voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+2° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+3° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaten zijn verkozen. Als de lijst waarop de naam van de kandidaat-schepen voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+4° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+De gezamenlijke akte van voordracht kan ook de einddatum van het mandaat van een kandidaat-schepen vermelden. In dat geval kan op de gezamenlijke akte van voordracht de naam vermeld worden van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de schepen bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de gezamenlijke akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de gezamenlijke akte van voordracht, of als de persoon die in de gezamenlijke akte van voordracht is vermeld als de persoon die de schepen zou opvolgen, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 49. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaande beschouwd.<br>
+De gezamenlijke akte van voordracht van de kandidaat-schepenen wordt ondertekend met naleving van het initiatiefrecht, vermeld in artikel 5, §3. De overtreding van het voormelde gebod wordt bestraft conform artikel 7, §2.<br>
+Niemand kan meer dan één gezamenlijke akte van voordracht ondertekenen. De overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+De algemeen directeur bezorgt een afschrift van de gezamenlijke akte van voordracht aan de burgemeester.”;<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+“§3. Als er geen ontvankelijke gezamenlijke akte van voordracht van kandidaat-schepenen aan de voorzitter van de installatievergadering wordt bezorgd, beslist de gemeenteraad op de installatievergadering over het aantal te verkiezen schepenen en wordt binnen veertien dagen overgegaan tot afzonderlijke verkiezing van de schepenen onder de gemeenteraadsleden. De gemeenteraadsleden kunnen voor de voormelde verkiezing kandidaat-schepenen voordragen via een individuele akte van voordracht die voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de individuele akte van voordracht vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de individuele akte van voordracht wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke individuele akte van voordracht voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+2° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-schepen voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+3° ze is uiterlijk drie dagen voor de eerstvolgende vergadering van de gemeenteraad na de installatievergadering aan de algemeen directeur bezorgd.<br>
+De individuele akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-schepen vermelden. In dat geval kan op de individuele akte van voordracht de naam vermeld worden van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de schepen bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de individuele akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de individuele akte van voordracht, of als de persoon die in de individuele akte van voordracht is vermeld als de persoon die de schepen zou opvolgen, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 49. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+Met behoud van de toepassing van paragraaf 1 kan elk gemeenteraadslid maar één akte van voordracht ondertekenen per schepenmandaat. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2. Als de schriftelijk voorgedragen kandidaten niet volstaan om het college volledig samen te stellen, kunnen onder de gemeenteraadsleden kandidaten mondeling op de zitting worden voorgedragen. Voor een kandidaat die op de zitting wordt voorgedragen, blijkt tijdens de zitting en vóór de stemming dat een meerderheid van de gemeenteraadsleden die op dezelfde lijst zijn verkozen als de voorgedragen kandidaat, de voordracht van die kandidaat steunt. Als de voormelde steun niet wordt aangetoond, wordt de voordracht van deze kandidaat niet in aanmerking genomen.<br>
+De voorzitter van de vergadering gaat na of de individuele akte van voordracht of, in voorkomend geval, de kandidaat die met toepassing van het vierde lid mondeling wordt voorgedragen, aan de ontvankelijkheidsvoorwaarden voldoet.<br>
+De verkiezing vindt plaats bij geheime stemming door evenveel afzonderlijke stemmingen als er schepenen te kiezen zijn.<br>
+De kandidaat die de volstrekte meerderheid van de stemmen heeft behaald, is verkozen tot schepen. Als geen enkele kandidaat de volstrekte meerderheid van de stemmen heeft behaald en als verschillende kandidaten zijn voorgedragen voor het vacante schepenmandaat, vindt een tweede stemronde plaats. In de voormelde tweede stemronde wordt gestemd op de twee kandidaten die in de eerste stemronde de meeste stemmen hebben behaald. Bij staking van stemmen in de eerste stemronde komt de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, in aanmerking voor de tweede stemronde. De kandidaat die in de tweede stem- ronde de meerderheid van de stemmen heeft behaald, is verkozen tot schepen. Bij staking van stemmen in de tweede stemronde is de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, verkozen tot schepen.<br>
+Als de naamstemmen bepalend zijn en de kandidaten een gelijk aantal naamstemmen hebben behaald, is de voorgedragen kandidaat van de lijst die bij de gemeenteraadsverkiezingen de meeste stemmen heeft behaald, verkozen.”;<br>
+3° in paragraaf 4 wordt de zinsnede “paragraaf 1, tweede lid, paragraaf 3, tweede lid” vervangen door de zinsnede “paragraaf 1, derde lid, paragraaf 3, derde lid”.
+
+### ART 93.
+
+In artikel 45, eerste lid, van hetzelfde decreet wordt de zinsnede “artikel 43, §1, tweede lid, en §3, tweede lid,” vervangen door de zinsnede “artikel 43, §1, derde lid, en §3, derde lid,”.
+
+### ART 94.
+
+In artikel 49 van hetzelfde decreet, gewijzigd bij het decreet van 17 februari 2023, wordt paragraaf 1 vervangen door wat volgt:<br>
+<br>
+“§1. In al de volgende gevallen kan de gemeenteraad met behoud van de toepassing van artikel 42, §3, eerste lid, beslissen om een opengevallen schepenmandaat niet in te vullen:<br>
+1° een schepen aanvaardt zijn schepenmandaat niet;<br>
+2° een schepen wordt van zijn mandaat vervallen verklaard;<br>
+3° een schepen wordt als verhinderd beschouwd;<br>
+4° een schepen wordt afgezet of is geschorst;<br>
+5° een schepen heeft ontslag genomen of is overleden.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, bestaat niet als er in de akte van voordracht een opvolger is vermeld conform artikel 43 en de opvolger geïnstalleerd wordt.<br>
+<br>
+Als de gemeenteraad beslist om het mandaat niet in te vullen, kan het mandaat voor de rest van de zittingsperiode niet meer ingevuld worden. Als de gemeenteraad het mandaat wenst in te vullen, wordt tot een nieuwe verkiezing van een schepen overgegaan binnen twee maanden nadat het schepenmandaat is opengevallen. De schepen wordt verkozen op basis van een akte van voordracht van de kandidaat-schepen die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het vierde lid. De Vlaamse Regering stelt het model van de akte van voordracht van de kandidaat-schepen vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van de kandidaat-schepen wordt ingediend bij de algemeen directeur.<br>
+<br>
+Een ontvankelijke akte van voordracht van de kandidaat-schepen voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het derde lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+2° ze is ondertekend door meer dan de helft van de gemeenteraadsleden;<br>
+3° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-schepen voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+4° ze is uiterlijk acht dagen voor de vergadering van de gemeenteraad waarop de vervanging geagendeerd is, aan de algemeen directeur bezorgd.<br>
+<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-schepen vermelden. In dat geval kan op de akte van voordracht de naam van een of meer personen vermeld worden die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de schepen bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is vermeld als de persoon die de schepen zou opvolgen, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform dit artikel. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+&nbsp;<br>
+Met behoud van de toepassing van artikel 43 kan elk gemeenteraadslid maar één akte van voordracht ondertekenen per schepenmandaat. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+<br>
+De voorzitter van de gemeenteraad gaat op de vergadering van de gemeenteraad waarop de akte van voordracht van de kandidaat-schepen geagendeerd is, na of de akte van voordracht ontvankelijk is. In voorkomend geval wordt de voorgedragen kandidaat-schepen verkozen verklaard.<br>
+<br>
+Als binnen twee maanden na het openvallen van een schepenmandaat en voor de bezorging van de akte van voordracht, die is genomen met toepassing van het eerste tot en met het vierde lid, een bijkomend schepenmandaat openvalt, waarvan de gemeenteraad het mandaat ook wenst in te vullen, kan voor de vervanging van al die mandaten overgegaan worden tot een verkiezing conform artikel 43, §1 en §2, met dien verstande dat “drie dagen” wordt gelezen als “acht dagen”. De oorspronkelijke termijn van twee maanden voor het mandaat dat het eerst opengevallen is, blijft in dat geval van toepassing. Als evenwel toepassing wordt gemaakt van de mogelijkheid, vermeld in het eerste lid, blijft voor het tweede opengevallen mandaat de termijn, vermeld in het derde lid, van toepassing.<br>
+<br>
+In de gevallen, vermeld in het eerste en het achtste lid, kan in afwijking van artikel 43, §4, op de akte van voordracht van de kandidaat-schepen worden bepaald dat een of meer nieuw verkozen schepenen de rang innemen van degenen die ze vervangen.<br>
+<br>
+Als twee maanden na het openvallen van het schepenmandaat nog geen nieuwe schepen is benoemd conform het eerste en het achtste lid, kan de schepen op de eerstvolgende vergadering van de gemeenteraad verkozen worden conform artikel 43, §3.<br>
+<br>
+Tot aan de nieuwe verkiezing kan het mandaat worden waargenomen conform paragraaf 2.”.
+
+### ART 95.
+
+In artikel 58 van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021 en gewijzigd bij het decreet van 17 februari 2023, wordt paragraaf 3 vervangen door wat volgt:<br>
+<br>
+“§3. In afwijking van paragraaf 2 en artikel 59 kan de Vlaamse Regering een burgemeester benoemen voor minder dan zes jaar in geval van een ontvankelijke akte van opvolging die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de akte van opvolging vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van opvolging wordt ingediend bij de algemeen directeur.<br>
+<br>
+Een ontvankelijke akte van opvolging voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze vermeldt de einddatum van het mandaat van burgemeester. De opvolging kan op zijn vroegst in werking treden op 1 oktober van het vierde jaar van de bestuursperiode;<br>
+4° ze vermeldt de naam van de persoon die de burgemeester opvolgt. De voormelde persoon behoort tot dezelfde fractie als de burgemeester die wordt opgevolgd;<br>
+5° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+6° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+7° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+<br>
+Bij het bereiken van de einddatum van het mandaat van de burgemeester, vermeld in de akte van opvolging, is de burgemeester van rechtswege ontslagnemend.<br>
+<br>
+Als het mandaat van burgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode, wordt de akte van opvolging zonder voorwerp en wordt tot vervanging overgegaan conform paragraaf 2.<br>
+<br>
+Als het mandaat van burgemeester vervroegd eindigt op of na 1 oktober van het vierde jaar van de bestuursperiode, neemt het raadslid, vermeld in de opvolgakte, het mandaat vervroegd op.<br>
+<br>
+Als de persoon die in de akte van opvolging is vermeld, geen gemeenteraadslid meer is, wordt de akte van opvolging zonder voorwerp.<br>
+<br>
+Een nieuwe akte van opvolging kan alleen worden ingediend in de volgende gevallen:<br>
+1° de akte van opvolging is onontvankelijk;<br>
+2° het mandaat van de burgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode en er wordt tot vervanging overgegaan conform paragraaf 2;<br>
+3° voor de einddatum van het mandaat van de burgemeester is de persoon die in de akte van opvolging is vermeld, geen gemeenteraadslid meer.<br>
+<br>
+Het tweede lid, met uitzondering van punt 7°, is van toepassing op de nieuwe akte van opvolging, vermeld in het zevende lid. De voormelde nieuwe akte van opvolging wordt uiterlijk acht dagen voor de vergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+<br>
+Als bij het bereiken van de einddatum van het mandaat van burgemeester, vermeld in de akte van opvolging, de persoon die in de akte van opvolging is vermeld, het mandaat niet opneemt of als na de opvolging het mandaat van burgemeester vroegtijdig eindigt, wordt de burgemeester vervangen op basis van een akte van voordracht die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tiende lid. De Vlaamse Regering stelt het model van de voormelde akte van voordracht vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de voormelde akte van voordracht wordt ingediend bij de algemeen directeur.<br>
+<br>
+Een akte van voordracht als vermeld in het negende lid, is ontvankelijk als ze voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het negende lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze vermeldt de naam van de kandidaat-burgemeester. De kandidaat-burgemeester behoort tot dezelfde fractie als de burgemeester die wordt vervangen;<br>
+4° ze is ondertekend door meer dan de helft van de gemeenteraadsleden;<br>
+5° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+6° ze is uiterlijk acht dagen voor de vergadering van de gemeenteraad waarop de vervanging van de burgemeester is geagendeerd, aan de algemeen directeur bezorgd.<br>
+<br>
+Niemand kan meer dan één akte van opvolging of één akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+<br>
+De algemeen directeur bezorgt een afschrift van de akte van opvolging of de akte van voordracht aan de burgemeester.<br>
+<br>
+Nadat de gemeenteraadsleden de eed hebben afgelegd, bezorgt de algemeen directeur in voorkomend geval de akte van opvolging aan de voorzitter van de gemeenteraad. In voorkomend geval bezorgt de algemeen directeur de akte van voordracht, vermeld in het negende lid, aan de voorzitter van de gemeenteraad.<br>
+<br>
+De voorzitter van de gemeenteraad gaat na of de akte van opvolging of de akte van voordracht voldoet aan de ontvankelijkheidsvoorwaarden. Alleen de handtekeningen van de gemeenteraadsleden die de eed hebben afgelegd, worden daarvoor in aanmerking genomen, met inbegrip van de opvolgers die de akte van opvolging hebben ondertekend en die nadien als gemeenteraadslid de eed hebben afgelegd. Als de akte van opvolging of de akte van voordracht, vermeld in het eerste en het negende lid, ontvankelijk is, bezorgt de voorzitter de akte aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering beslist of de opvolger of kandidaat-burgemeester al dan niet benoemd wordt.”.
+
+### ART 96.
+
+In artikel 62 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord “benoemd” vervangen door het woord “aangeduid”;<br>
+2° in het eerste lid wordt de zinsnede “en 59, waarbij “de installatievergadering” wordt gelezen als “de eerstvolgende vergadering van de gemeenteraad, volgend op de benoeming van de nieuwe burgemeester”” opgeheven;<br>
+3° in het tweede lid worden de woorden “nieuwe benoeming” vervangen door de woorden “eedaflegging van de aangewezen-burgemeester tijdens de gemeenteraad”.
+
+### ART 97.
+
+In artikel 90 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+“§1. Op de vergadering van de raad voor maatschappelijk welzijn aansluitend op de installatievergadering van de gemeenteraad verkiest de raad voor maatschappelijk welzijn, hetzij onder de voorzitter of de leden van het vast bureau, hetzij onder de leden van de raad voor maatschappelijk welzijn, een voorzitter van het bijzonder comité voor de sociale dienst. De voorzitter van het bijzonder comité voor de sociale dienst wordt verkozen op basis van een akte van voordracht die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+2° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+3° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-voorzitter voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+4° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst vermelden. In dat geval kan op de akte van voordracht de naam van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat, vermeld worden. In voorkomend geval is de voorzitter van het bijzonder comité voor de sociale dienst bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is aangewezen als de persoon die de voorzitter zou opvolgen, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen, of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 106.”;<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+“§3. Als er geen ontvankelijke akte van voordracht van kandidaat-voorzitter van het bijzonder comité voor de sociale dienst aan de voorzitter van de installatievergadering wordt bezorgd, gaat de raad voor maatschappelijk welzijn binnen veertien dagen over tot de verkiezing van een voorzitter van het bijzonder comité voor de sociale dienst op basis van een akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de akte van voor- dracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke akte van voordracht van de kandidaat-voorzitter van het bijzonder comité voor de sociale dienst voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+2° ze is ondertekend door de meerderheid van de leden van de raad voor maatschappelijk welzijn die op dezelfde lijst als de voorgedragen kandidaat zijn verkozen. Als de lijst waarop de naam van de kandidaat-schepen voor- komt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+3° ze is uiterlijk drie dagen voor de eerstvolgende vergadering van de raad voor maatschappelijk welzijn na de installatievergadering aan de algemeen directeur bezorgd.<br>
+Met behoud van de toepassing van paragraaf 1 kan elk lid van de raad voor maatschappelijk welzijn maar één akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-voorzitter vermelden. In dat geval kan op de akte van voordracht de naam vermeld worden van een of meer personen die hem zullen opvolgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de voorzitter bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld.<br>
+Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is vermeld als de persoon die de voorzitter zou opvolgen, zijn mandaat niet opneemt, neemt de eerstvolgende opvolger vervroegd het mandaat op. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen, of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 106. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+De voorzitter van de vergadering gaat na of de akte van voordracht aan de ontvankelijkheidsvoorwaarden voldoet.<br>
+De verkiezing vindt plaats bij geheime stemming.<br>
+De kandidaat die de volstrekte meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter van het bijzonder comité voor de sociale dienst. Als geen enkele kandidaat de volstrekte meerderheid van de stemmen heeft behaald en als verschillende kandidaten zijn voorgedragen voor het vacante mandaat, vindt een tweede stemronde plaats, waarin wordt gestemd op de twee kandidaten die in de eerste stemronde de meeste stemmen hebben behaald. Bij staking van stemmen in de eerste stemronde komt de kandidaat die bij de verkiezingen de meeste naamstemmen heeft behaald, in aanmerking voor de tweede stemronde. De kandidaat die in de tweede stemronde de meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter. Bij staking van stemmen in de tweede stemronde is de kandidaat die bij de verkiezingen de meeste naamstemmen heeft behaald, verkozen tot voorzitter. Als de naamstemmen bepalend zijn en de kandidaten een gelijk aantal naamstemmen hebben behaald, is de voorgedragen kandidaat van wie de lijst bij de verkiezingen de meeste stemmen heeft behaald, verkozen.”.
+
+### ART 98.
+
+Artikel 92 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 92. De leden en kandidaat-opvolgers van het bijzonder comité voor de sociale dienst worden schriftelijk voorgedragen door de verkozenen voor de gemeenteraad op basis van akten van voordracht die voldoen aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de akte van voordracht van leden en kandidaat-opvolgers van het bijzonder comité voor de sociale dienst vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van leden en kandidaat-opvolgers van het bijzonder comité voor de sociale dienst wordt ingediend bij de algemeen directeur.<br>
+<br>
+Een ontvankelijke akte van voordracht van leden en kandidaat-opvolgers van het bijzonder comité voor de sociale dienst voldoet aan al de volgende voorwaarden:<br>
+1° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel<br>
+van die dag ter beschikking is gesteld;<br>
+2° ze vermeldt de voornaam of voornamen, de achternaam, de geboortedatum, het beroep, het rijksregisternummer en de hoofdverblijfplaats van de kandidaat-leden;<br>
+3° ze is ondertekend door de meerderheid van de verkozenen van dezelfde lijst of groep van lijsten die aan de lokale verkiezingen hebben deelgenomen, of, als de voorgedragen kandidaat deelgenomen heeft aan de lokale verkiezingen, door de meerderheid van de verkozenen van dezelfde lijst of groep van lijsten die aan de lokale verkiezingen hebben deelgenomen. Het aantal handtekeningen wordt berekend na de schrapping van de ongeldige handtekeningen, vermeld in het zevende lid. Als een lijst of groep van lijsten maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+4° ze vermeldt kandidaat-leden van verschillend geslacht, tenzij het gaat om een lijst of groep van lijsten waaraan maar één zetel in het bijzonder comité voor de sociale dienst is toegewezen;<br>
+5° ze vermeldt niet meer kandidaat-leden dan het aantal dat aan de lijst of groep van lijsten is toegewezen conform artikel 91, of dan het aantal vacante mandaten met toepassing van artikel 95;<br>
+6° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur bezorgd.<br>
+<br>
+Als een lijst of groep van lijsten die maar twee verkozenen telt, twee akten van voordracht indient terwijl er maar één kandidaat-lid aan de lijst of de groep van lijsten is toegewezen, zijn beide akten onontvankelijk.<br>
+<br>
+De akte van voordracht kan de voornaam of voornamen, de achternaam, de geboortedatum, het beroep, het rijksregisternummer en de hoofdverblijfplaats van een of meer opvolgers van een kandidaat-lid vermelden. Dezelfde persoon kan opvolger zijn van twee of meer kandidaat-leden die op dezelfde akte van voordracht zijn voorgedragen. Dezelfde persoon kan ook kandidaat-lid en kandidaat-opvolger zijn.<br>
+<br>
+De akte van voordracht vermeldt in voorkomend geval voor elk kandidaat-lid de kandidaat-opvolgers in de volgorde waarin die zijn voorbestemd om het lid te vervangen.<br>
+&nbsp;<br>
+De akte van voordracht kan ook de einddatum van het mandaat van een kandidaat-lid of van een kandidaat-opvolger vermelden. De opvolger voldoet ook aan de voorwaarden voor de ondertekening, vermeld in het tweede lid. In voorkomend geval is het lid van het bijzonder comité voor de sociale dienst bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend en wordt hij van rechtswege opgevolgd door de persoon die in de akte van voordracht als opvolger is vermeld. Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, neemt de opvolger vervroegd het mandaat op. Als de voordracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+<br>
+Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+<br>
+De algemeen directeur bezorgt een afschrift van de akten van voordracht aan de voorzitter van de raad voor maatschappelijk welzijn.<br>
+<br>
+De voorzitter van de raad voor maatschappelijk welzijn gaat na of de akten van voordracht voldoen aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.”.
+
+### ART 99.
+
+In artikel 95 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het woord “derde” vervangen door het woord “tweede”;<br>
+2° aan het tweede lid wordt de volgende zinsnede toegevoegd: “en “drie dagen voor de installatievergadering” wordt gelezen als “acht dagen voor de vergadering vermeld in artikel 95, derde lid””;<br>
+3° in het derde lid wordt het woord “drie” vervangen door het woord “acht” en wordt het woord “derde” vervangen door het woord “tweede”;<br>
+4° in het vijfde lid wordt het woord “derde” vervangen door het woord “tweede”;<br>
+5° in het vijfde lid wordt tussen de woorden “tot en met zevende lid” en de woorden “Bij staking van stemmen” de zinsnede “, met dien verstande dat “drie dagen voor de installatievergadering” wordt gelezen als “acht dagen voor de vergadering als vermeld in artikel 95, vijfde lid”” ingevoegd.
+
+### ART 100.
+
+In artikel 106, §1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 17 februari 2023, wordt tussen de zinsnede ““de vergadering van de raad voor maatschappelijk welzijn aansluitend op de installatievergadering van de gemeenteraad” wordt gelezen als “de eerstvolgende vergadering van de raad voor maatschappelijk welzijn”,” en de zinsnede ““verkozenen op de lijsten die aan de verkiezingen deelnamen” wordt gelezen als “raadsleden van de raad voor maatschappelijk welzijn”,” de zinsnede ““drie dagen” vermeld in paragraaf 1 wordt gelezen als “acht dagen”,” ingevoegd.
+
+### ART 105.
+
+In artikel 123 van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021 en gewijzigd bij het decreet van 17 februari 2023, wordt paragraaf 3 vervangen door wat volgt:<br>
+<br>
+“§3. In afwijking van paragraaf 2 kan een akte van opvolging van districtsburgemeester die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid, worden ingediend. De Vlaamse Regering stelt het model van de akte van opvolging van districtsburgemeester vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van opvolging van districtsburgemeester wordt ingediend bij de districtssecretaris.<br>
+<br>
+Een ontvankelijke akte van opvolging van districtsburgemeester voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een districtsraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze vermeldt de einddatum van het mandaat van districtsburgemeester. De opvolging kan op zijn vroegst in werking treden op 1 oktober van het vierde jaar van de bestuursperiode;<br>
+4° ze vermeldt de naam van de persoon die de districtsburgemeester opvolgt. De voormelde persoon behoort tot dezelfde fractie als de districtsburgemeester die wordt opgevolgd;<br>
+5° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+6° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+7° ze is uiterlijk drie dagen voor de installatievergadering van de districtsraad aan de districtssecretaris bezorgd.<br>
+<br>
+De akte van opvolging vermeldt de einddatum van het mandaat van de districtsburgemeester en de naam van de persoon die de districtsburgemeester opvolgt. Bij het bereiken van de voormelde einddatum is de districtsburgemeester van rechtswege ontslagnemend.<br>
+<br>
+Als het mandaat van districtsburgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode, is de akte van opvolging zonder voorwerp en wordt tot vervanging overgegaan conform paragraaf 2.<br>
+<br>
+Als het mandaat van districtsburgemeester vervroegd eindigt op of na 1 oktober van het vierde jaar van de bestuursperiode, neemt het raadslid, vermeld in de akte van opvolging, het mandaat vervroegd op.<br>
+<br>
+Als de persoon die in de akte van opvolging is vermeld geen districtsraadslid meer is, wordt de akte van opvolging zonder voorwerp.<br>
+&nbsp;<br>
+Een nieuwe akte van opvolging kan alleen ingediend worden in de volgende gevallen:<br>
+1° de akte van opvolging is onontvankelijk;<br>
+2° het mandaat van de districtsburgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode en er wordt tot vervanging overgegaan conform paragraaf 2;<br>
+3° voor de einddatum van het mandaat van de districtsburgemeester is de persoon die in de akte van opvolging is vermeld, geen districtsraadslid meer.<br>
+<br>
+Het tweede lid, met uitzondering van punt 7°, is van toepassing op de nieuwe akte van opvolging, vermeld in het zevende lid. De voormelde nieuwe akte van opvolging wordt uiterlijk acht dagen voor de vergadering van de districtsraad aan de districtssecretaris bezorgd.<br>
+<br>
+Als bij het bereiken van de einddatum van het mandaat van districtsburgemeester, vermeld in de akte van opvolging, de persoon die in de akte van opvolging is vermeld, het mandaat niet opneemt of als na de opvolging het mandaat van districtsburgemeester vroegtijdig eindigt, wordt de districtsburgemeester vervangen op basis van een akte van voordracht die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tiende lid. De Vlaamse Regering stelt het model van de akte van voordracht van kandidaat-districtsburgemeester vast en de wijze waarop die ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van kandidaat-districtsburgemeester wordt ingediend bij de districtssecretaris.<br>
+<br>
+Een ontvankelijke akte van voordracht van kandidaat-districtsburgemeester voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een districtsraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het negende lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze vermeldt de naam van de kandidaat-districtsburgemeester. De kandidaat-districtsburgemeester behoort tot dezelfde fractie als de districtsburgemeester die wordt vervangen;<br>
+4° ze is ondertekend door meer dan de helft van de districtsraadsleden;<br>
+5° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+6° ze is uiterlijk acht dagen voor de vergadering van de districtsraad waarop de vervanging van de burgemeester is geagendeerd, aan de districtssecretaris bezorgd.<br>
+<br>
+Niemand kan meer dan één akte van opvolging of een akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft overeenkomstig artikel 7, §2.<br>
+<br>
+De districtssecretaris bezorgt een afschrift van de akte van opvolging of de akte van voordracht aan de districtsburgemeester.<br>
+<br>
+Nadat de districtsraadsleden de eed hebben afgelegd, bezorgt de districtssecretaris in voorkomend geval de akte van opvolging aan de voorzitter van de districtsraad. In voorkomend geval bezorgt de districtssecretaris de akte van voordracht aan de voorzitter van de districtsraad.<br>
+&nbsp;<br>
+De voorzitter van de districtsraad gaat na of de akte van opvolging of de akte van voordracht voldoet aan de ontvankelijkheidsvoorwaarden. Alleen de handtekeningen van de districtsraadsleden die de eed hebben afgelegd, worden daarbij in aanmerking genomen, met inbegrip van de opvolgers die de akte van opvolging hebben ondertekend en die nadien als districtsraadslid de eed hebben afgelegd.<br>
+<br>
+In geval van de oprichting van een nieuw district, vermeld in artikel 115, wordt de akte van opvolging bezorgd aan de algemeen directeur van de gemeente. De algemeen directeur bezorgt een afschrift van de akte van opvolging aan de burgemeester. Nadat de districtsraadsleden de eed hebben afgelegd, bezorgt de algemeen directeur de akte van opvolging aan de voorzitter van de districtsraad.”.
+
 ### ART 107.
 
 In artikel 154, §1, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden in punt 5° de woorden “sociale huisvestingsmaatschappij” vervangen door het woord “woonmaatschappij”.
@@ -669,11 +949,60 @@ In artikel 352 van hetzelfde decreet, gewijzigd bij het decreet van 17 februari 
 
 In artikel 353 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, wordt paragraaf 5 opgeheven.
 
+### ART 111.
+
+In artikel 354/1 van hetzelfde decreet, ingevoegd bij het decreet van 16 juli 2021, wordt paragraaf 1 vervangen door wat volgt:<br>
+<br>
+“§1. In afwijking van artikel 58, §2 en §3, en artikel 59, eerste lid, kan de Vlaamse Regering in een nieuwe gemeente in de eerste bestuursperiode een burgemeester benoemen voor minder dan zes jaar in geval van een akte van opvolging van burgemeester die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid. De Vlaamse Regering stelt het model van de akte van opvolging van burgemeester vast en de wijze waarop die ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van opvolging van burgemeester wordt ingediend bij de algemeen directeur-coördinator.<br>
+<br>
+Een ontvankelijke akte van opvolging van burgemeester voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze vermeldt de einddatum van het mandaat van burgemeester;<br>
+4° ze vermeldt de voor- en achternaam van de persoon die de burgemeester opvolgt;<br>
+5° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+6° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+7° ze is uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur-coördinator bezorgd.<br>
+<br>
+De akte van opvolging kan ook de einddatum van het mandaat van de kandidaat-opvolger vermelden. In dat geval kan op de akte van opvolging de naam vermeld worden van een of meer personen die worden voorgedragen om hem op te volgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de burgemeester bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend.<br>
+&nbsp;<br>
+Als het mandaat eindigt voor de einddatum, vermeld in de akte van opvolging, of, als de persoon die in de akte van opvolging is vermeld als de persoon die de burgemeester zou opvolgen, zijn mandaat niet opneemt, wordt de voordracht van de eerstvolgende kandidaat-opvolger, vermeld in de akte van opvolging, vervroegd. Als de persoon die als laatste kandidaat-opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger van de kandidaat-opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 58, §1.<br>
+<br>
+Niemand kan meer dan één akte van opvolging ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+<br>
+De algemeen directeur-coördinator bezorgt een afschrift van de akte van opvolging aan de burgemeester van de gemeente waarvan hij algemeen directeur is.”.
+
 ### ART 112.
 
 In hetzelfde decreet wordt een artikel 384/2 ingevoegd, dat luidt als volgt:<br>
 <br>
 “Art. 384/2. In afwijking van artikel 122 en 149, vierde lid, 1°, worden aaneensluitende prestaties, geleverd van 1 januari tot en met 30 november in het laatste jaar van de eerste bestuursperiode van een district van een nieuwe gemeente, voor de berekening van de uittredingsvergoeding beschouwd als een gepresteerd jaar.”.
+
+### ART 113.
+
+Aan artikel 524, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021, wordt de zinsnede “, met dien verstande dat het woord “aangeduid” wordt gelezen als “benoemd”, de zinsnede “artikel 58” wordt gelezen als “artikel 524/1” en de woorden “eedaflegging van de aangewezen-burgemeester tijdens de gemeenteraad” worden gelezen als “nieuwe benoeming”” toegevoegd.
+
+### ART 114.
+
+In artikel 524/1, van hetzelfde decreet, ingevoegd bij het decreet van 16 juli 2021, worden volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+“§1. Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 13 van de Nieuwe Gemeentewet, wordt de burgemeester in de gemeenten, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, door de Vlaamse Regering benoemd uit de verkozenen voor de gemeenteraad. De voormelde verkozenen kunnen daarvoor kandidaten voordragen voor wie een gedagtekende akte van voordracht van burgemeester die voldoet aan al de ontvankelijkheidsvoorwaarden, vermeld in het tweede lid, wordt voorgelegd aan de provinciegouverneur. De Vlaamse Regering stelt het model van de akte van voordracht van burgemeester vast en de wijze waarop dat model ter beschikking wordt gesteld. De Vlaamse Regering kan de wijze bepalen waarop de akte van voordracht van burgemeester wordt ingediend bij de algemeen directeur.<br>
+Een ontvankelijke akte van voordracht van burgemeester voldoet aan al de volgende voorwaarden:<br>
+1° ze draagt een gemeenteraadslid voor dat de Belgische nationaliteit heeft;<br>
+2° ze is gedaan op de modelakte die de Vlaamse Regering krachtens het eerste lid vaststelt en die op de dag van de verkiezingen door een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid met de datumstempel van die dag ter beschikking is gesteld;<br>
+3° ze is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen deelnamen;<br>
+4° ze is ondertekend door de meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-burgemeester zijn verkozen. Als de lijst waarop de naam van de kandidaat-burgemeester voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen;<br>
+5° ze is bezorgd aan de provinciegouverneur.<br>
+Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van het voormelde verbod wordt bestraft conform artikel 7, §2.<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-burgemeester vermelden. In dat geval kan op de akte van voordracht de naam vermeld worden van een of meer personen die worden voorgedragen om hem op te volgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de burgemeester van rechtswege ontslagnemend als de einddatum van het mandaat is bereikt. Als het mandaat eindigt voor de einddatum, vermeld in de akte van voordracht, of als de persoon die in de akte van voordracht is vermeld als de persoon die de burgemeester opvolgt, zijn mandaat niet opneemt, wordt de voordracht van de eerstvolgende opvolger, vermeld in de akte van voordracht, vervroegd. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 62. Als de voor- dracht geen einddatum vermeldt, wordt, in voorkomend geval, de vermelding van een of meer opvolgers als onbestaand beschouwd.<br>
+De Vlaamse Regering gaat na of de akte van voordracht ontvankelijk is conform het tweede lid.<br>
+De Vlaamse Regering kan altijd om een nieuwe voordracht verzoeken.”;<br>
+2° in paragraaf 3, eerste lid, wordt tussen het woord “van” en de zinsnede “artikel 13” de zinsnede “de nationaliteitsvereiste, vermeld in” ingevoegd;<br>
+3° in paragraaf 3, eerste lid, wordt de zinsnede “, derde lid,” opgeheven.
+
+### ART 115.
+
+In artikel 524/2, eerste lid, van hetzelfde decreet, ingevoegd bij decreet van 16 juli 2021, wordt het woord “derde” vervangen door het woord “vierde”.
 
 ## Hoofdstuk 5. Inwerkingtreding
 
