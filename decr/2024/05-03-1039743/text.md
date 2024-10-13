@@ -22,6 +22,12 @@ In artikel 42, §3, van hetzelfde decreet worden de volgende wijzigingen aangebr
 1° in het tweede lid worden de woorden “na de verkiezing van de voorzitter van het bijzonder comité voor de sociale dienst” vervangen door de woorden “na de eedaflegging van de burgemeester”;<br>
 2° in het derde lid worden de woorden “na de verkiezing van de voorzitter van het bijzonder comité voor de sociale dienst” vervangen door de woorden “na de eedaflegging van de burgemeester”.
 
+### ART 5.
+
+In artikel 58, §1, van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021 en gewijzigd bij het decreet van 17 februari 2023, wordt het zesde lid vervangen door wat volgt:<br>
+<br>
+“Voor hij zijn mandaat aanvaardt, legt de benoemde burgemeester de volgende eed af in handen van de provinciegouverneur: “Ik zweer de verplichtingen van mijn mandaat trouw na te komen.” De benoemde burgemeester die de eed na twee oproepingen niet heeft afgelegd, wordt geacht het burgemeestersmandaat niet te aanvaarden. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen die daarover rijzen.”.
+
 ### ART 6.
 
 Aan artikel 118, tweede lid, van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
