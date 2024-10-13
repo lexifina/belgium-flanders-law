@@ -169,6 +169,48 @@ In artikel 25 van hetzelfde decreet wordt het woord "veertig" vervangen door het
 
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 22 december 2017 over het lokaal bestuur
 
+### ART 26.
+
+In artikel 4, § 2, van het decreet van 22 december 2017 over het lokaal bestuur wordt de zinsnede "artikel 58, § 3," opgeheven.
+
+### ART 27.
+
+Aan artikel 5 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. De verkozenen voor de gemeenteraad krijgen na de gemeenteraadsverkiezingen in afnemende volgorde van lijstgrootte het exclusieve initiatiefrecht om een meerderheidscoalitie te vormen. Het initiatiefrecht komt eerst toe aan de verkozene met de meeste naamstemmen van de grootste lijst en gaat vervolgens over naar de verkozenen met de meeste naamstemmen van de tweede grootste lijst en zo verder, in afnemende volgorde van lijstgrootte. Als een lijst in twee fracties is opgesplitst, komt het initiatiefrecht toe aan de verkozene voor de gemeenteraad die het hoogste aantal naamstemmen heeft en die tot de fractie met de meeste zetels in de gemeenteraad behoort. Als twee fracties even groot zijn en tot dezelfde lijst behoren, komt het initiatiefrecht toe aan de verkozene voor de gemeenteraad die het hoogste aantal naamstemmen behaald heeft. Het initiatiefrecht wordt telkens toegekend voor een periode van veertien dagen. De eerste periode van veertien dagen vangt aan de dag na de dagtekening van het proces-verbaal van de gemeenteraadsverkiezingen. De verkozene voor de gemeenteraad die het initiatiefrecht heeft, kan op elk moment daarvan afzien door een verklaring van afstand in te dienen bij de algemeen directeur.<br>
+<br>
+De procedure van het initiatiefrecht neemt definitief een einde op een van de volgende momenten:<br>
+1° als elke houder van het initiatiefrecht dit recht heeft uitgeput;<br>
+2° als een gezamenlijke akte van voordracht is ingediend door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft;<br>
+3° uiterlijk op de derde dag voor de installatievergadering van de gemeenteraad.<br>
+<br>
+Het initiatiefrecht gaat in de volgende gevallen over naar de verkozene voor de gemeenteraad met het hoogste aantal naamstemmen van de volgende lijst in afnemende volgorde van lijstgrootte:<br>
+1° als binnen de termijn, vermeld in het eerste lid, geen gezamenlijke akte van voordracht is ingediend door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft;<br>
+2° als een verklaring van afstand is ingediend.<br>
+<br>
+De algemeen directeur maakt de volgende elementen, nadat ze zich voordoen, onmiddellijk bekend op de webtoepassing van de gemeente waarna het initiatiefrecht eindigt of overgaat:<br>
+1° de indiening van een gezamenlijke akte van voordracht door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft;<br>
+2° het ontbreken van een gezamenlijke akte van voordracht op de derde dag voor de installatievergadering;<br>
+3° de uitputting van het initiatiefrecht door alle houders van het initiatiefrecht;<br>
+4° de indiening van een verklaring van afstand;<br>
+5° het ontbreken van een gezamenlijke akte van voordracht, ingediend door de verkozene voor de gemeenteraad die op dat moment het initiatiefrecht heeft, na de periode van veertien dagen.".
+
+### ART 28.
+
+In artikel 6 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord "veertien" vervangen door het woord "acht", worden de woorden "werkdagen van januari" vervangen door de woorden "werkdagen van december" en worden de woorden "eerste werkdag van januari" vervangen door de woorden "vijfde werkdag van december";<br>
+2° in paragraaf 1, eerste lid, worden de woorden "ten minste acht dagen voor de installatievergadering van de gemeenteraad" opgeheven;<br>
+3° in paragraaf 1 worden het derde lid en het vierde lid vervangen door wat volgt:<br>
+"Als er een bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, vindt de installatievergadering plaats binnen vijftien dagen na de dag waarop de uitslag van de verkiezing definitief is met toepassing van artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, maar op zijn vroegst op een van de eerste vijf werkdagen van december. De verkozen gemeenteraadsleden worden door de uittredende voorzitter van de gemeenteraad ten minste acht dagen voor de installatievergadering op de hoogte gebracht van de datum, het uur en de plaats van de vergadering.<br>
+<br>
+Als er een bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, vindt de installatievergadering plaats binnen vijftien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is met toepassing van artikel 203, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 of met toepassing van artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolle- ges. De verkozen gemeenteraadsleden worden door de uittredende voorzitter van de gemeenteraad ten minste acht dagen voor de installatievergadering op de hoogte gebracht van de datum, het uur en de plaats van de vergadering.".
+
+### ART 29.
+
+In artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt in het derde lid het woord "acht" vervangen door het woord "drie";<br>
+2° in paragraaf 5, eerste lid, 3°, wordt tussen de zinsnede "als verhinderd wordt beschouwd," en de woorden "ontslag genomen heeft" de zinsnede "als hij afgezet of geschorst is, of als hij" ingevoegd;<br>
+3° in paragraaf 5, vierde lid, wordt tussen de woorden "als verhinderd wordt beschouwd" en de woorden "of tijdelijk afwezig is" de zinsnede ", die geschorst is" ingevoegd, wordt tussen het woord "verhinderd" en de woorden "of tijdelijk afwezig is" de zinsnede ", geschorst" ingevoegd, wordt tussen de woorden "akte van de verhindering" en de zinsnede ", en van de beëindiging" de zinsnede "of schorsing," ingevoegd en worden tussen de woorden "beëindiging van de periode van verhindering" en de woorden "Als het" de woorden "of schorsing" ingevoegd.
+
 ### ART 31.
 
 In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -179,6 +221,11 @@ In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 ### ART 32.
 
 In artikel 25 van hetzelfde decreet wordt het woord "zaal" vervangen door het woord "vergadering".
+
+### ART 33.
+
+Artikel 30 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 30. De schepen die buiten de gemeenteraad is benoemd, is aanwezig op de vergaderingen van de gemeenteraad en beschikt in de gemeenteraad alleen over een raadgevende stem.".
 
 ### ART 34.
 
@@ -195,6 +242,13 @@ Aan artikel 38, eerste lid, van hetzelfde decreet worden een punt 11°, 12° en 
 "11° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
 12° de uitzonderlijke omstandigheden waaronder de gemeenteraad digitaal kan vergaderen, als het huishoudelijk reglement de mogelijkheid van digitaal vergaderen opneemt;<br>
 13° de uitzonderlijke omstandigheden waaronder de gemeenteraad hybride kan vergaderen, als het huishoudelijk reglement de mogelijkheid van hybride vergaderen opneemt.".
+
+### ART 36.
+
+In artikel 43 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt tussen het tweede lid en het derde lid een nieuw lid ingevoegd, dat luidt als volgt:<br>
+"De gezamenlijke akte van voordracht van de kandidaat-schepenen wordt ondertekend met naleving van het initiatiefrecht, vermeld in artikel 5, § 3. De overtreding van dat gebod wordt bestraft conform artikel 7, § 2.";<br>
+2° in de bestaande paragraaf 1, derde lid, die paragraaf 1, vierde lid, wordt, wordt het woord "acht" vervangen door het woord "drie".
 
 ### ART 37.
 
@@ -236,6 +290,64 @@ De Vlaamse Regering benoemt de burgemeester overeenkomstig de procedure, vermeld
 Aan artikel 54 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "Het huishoudelijk reglement regelt minstens of het college van burgemeester en schepenen digitaal of hybride kan vergaderen en de wijze waarop. De Vlaamse Regering kan de minimale voorwaarden voor digitale en hybride vergaderingen bepalen.".
 
+### ART 39.
+
+Artikel 58 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 58. § 1. Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 13 van de Nieuwe Gemeentewet, wordt de verkozene voor de gemeenteraad die het hoogste aantal naamstemmen heeft en die tot de coalitiefractie met de meeste zetels in de gemeenteraad behoort, door de Vlaamse Regering benoemd tot burgemeester. Als verschillende coalitiefracties het hoogste aantal zetels hebben, wordt de verkozene voor de gemeenteraad die het hoogste aantal naamstemmen heeft en die tot de coalitiefractie behoort waarvan de lijst het hoogste stemcijfer heeft behaald, door de Vlaamse Regering benoemd tot burgemeester. Als de verkozenen van de coalitiefracties met het hoogste aantal zetels verkozen zijn op dezelfde lijst conform artikel 36, § 2, van dit decreet, en als die lijst het hoogste stemcijfer heeft behaald, wordt de verkozene voor de gemeenteraad van die lijst met het hoogste aantal naamstemmen door de Vlaamse Regering benoemd tot burgemeester. Tot de eerstvolgende vernieuwing van de gemeenteraad wordt een fractie geacht hetzelfde aantal leden te behouden voor wat betreft het gewicht van de fracties en de daaruit volgende benoeming van de burgemeester.<br>
+<br>
+Vanaf de installatie van de schepenen is het raadslid waarvan sprake in het eerste lid, aangewezen-burgemeester, draagt het de titel van `aangewezen-burgemeester' en oefent het alle functies uit die aan de burgemeester worden toever- trouwd. De aangewezen-burgemeester wordt niet als schepen vervangen, indien hij als schepen werd verkozen.<br>
+<br>
+Voor hij zijn mandaat aanvaardt, legt de aangewezen-burgemeester de volgende eed af in handen van de voorzitter van de gemeenteraad: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.". Als de aangewezenburgemeester zelf de voorzitter van de gemeenteraad is, legt hij de eed af in handen van het oudste gemeenteraadslid. De aangewezen-burgemeester die de eed weigert of die, nadat hij daarvoor uitdrukkelijk is opgeroepen, zonder geldige reden afwezig is op de eerste daaropvolgende vergadering, wordt geacht zowel het ambt van aangewezen-burgemeester als het burgemeestersmandaat niet te aanvaarden. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen die daarover rijzen.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over de al dan niet benoeming tot burgemeester nadat de aangewezen-burgemeester de eed heeft afgelegd en zij daarvan in kennis is gesteld door de gemeenteraad. In geval van benoeming tot burgemeester, kan hij als schepen worden vervangen conform artikel 49, § 1.<br>
+<br>
+Voor hij zijn mandaat aanvaardt, legt de benoemde burgemeester de volgende eed af in handen van de voorzitter van de gemeenteraad: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.". Als de benoemde burgemeester zelf de voorzitter van de gemeenteraad is, legt hij de eed af in handen van het oudste gemeenteraadslid. De benoemde burgemeester die de eed weigert of die, nadat hij daarvoor uitdrukkelijk is opgeroepen, zonder geldige reden afwezig is op de eerste daaropvolgende vergadering, wordt geacht het burgemeestersmandaat niet te aanvaarden. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen die daarover rijzen.<br>
+<br>
+In geval van een algehele vernieuwing van de gemeenteraad vindt de eedaflegging plaats tijdens de installatievergadering van de gemeenteraad of tijdens een van de daaropvolgende vergaderingen van de gemeenteraad.<br>
+In geval van weigering van eedaflegging van de aangewezen-burgemeester of van de burgemeester of van weigering tot benoeming in afwijking van het eerste lid wordt de procedure, vermeld in het tweede tot en met het vierde lid, hernomen met toepassing van de regeling, vermeld in paragraaf 2.<br>
+<br>
+De beslissing van de Vlaamse Regering tot niet-benoeming van de burgemeester en de weigering tot eedaflegging als aangewezen-burgemeester of als burgemeester heeft tot gevolg dat betrokkene tijdens dezelfde bestuursperiode niet meer kan worden benoemd als burgemeester.<br>
+<br>
+§ 2. Als het raadslid, vermeld in paragraaf 1, eerste lid, het mandaat van aangewezen-burgemeester of het burgemeestersmandaat niet aanvaardt, als hij definitief ophoudt dat mandaat uit te oefenen, of in het geval dat de Vlaamse Regering beslist de benoeming tot burgemeester te weigeren, wordt het raadslid dat, na dat raadslid, binnen dezelfde fractie de meeste naamstemmen heeft behaald, aangewezen-burgemeester en door de Vlaamse Regering benoemd tot burgemeester. Als alle verkozenen van de grootste coalitiefractie ervan afzien het mandaat van aangewezen-burgemeester of het mandaat van burgemeester op te nemen, wordt de verkozene die behoort tot de op een na grootste coalitiefractie en die de meeste naamstemmen behaald heeft, aangewezen-burgemeester en door de Vlaamse Regering benoemd tot burgemeester.<br>
+<br>
+De regeling, vermeld in het eerste lid, wordt op een analoge manier toegepast op de verkozenen van de andere coalitiefracties in afnemende volgorde van grootte.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 en artikel 59 kan de Vlaamse Regering een burgemeester benoemen voor minder dan zes jaar in geval van een ontvankelijke akte van opvolging en voor zover de opvolging ten vroegste in werking treedt op 1 oktober van het vierde jaar van de bestuursperiode en de opvolger een gemeenteraadslid is dat behoort tot dezelfde fractie als de burgemeester die wordt opgevolgd.<br>
+<br>
+De akte van opvolging vermeldt de einddatum van het mandaat van de burgemeester en de naam van de persoon die de burgemeester opvolgt. Bij het bereiken van deze einddatum is de burgemeester van rechtswege ontslagnemend. Om ontvankelijk te zijn moet de akte van opvolging ondertekend zijn door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen, alsook door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt slechts twee verkozenen telt, volstaat de handtekening van een van hen. Niemand kan meer dan één akte van opvolging ondertekenen. Overtreding van dat verbod wordt bestraft overeenkomstig artikel 7, § 2.<br>
+<br>
+Als het mandaat van burgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode, wordt de akte van opvolging zonder voorwerp en wordt tot vervanging overgegaan overeenkomstig de regeling, vermeld in paragraaf 2.<br>
+<br>
+Als het mandaat van burgemeester vervroegd eindigt op of na 1 oktober van het vierde jaar van de bestuursperiode, neemt het raadslid, vermeld in de opvolgakte, het mandaat vervroegd op.<br>
+<br>
+Als de persoon die in de akte van opvolging is vermeld geen gemeenteraadslid meer is, wordt de akte van opvolging zonder voorwerp.<br>
+<br>
+Een nieuwe akte van opvolging kan enkel ingediend worden in de volgende gevallen:<br>
+1° de akte van opvolging is onontvankelijk;<br>
+2° het mandaat van de burgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode en er wordt tot vervanging overgegaan overeenkomstig de regeling, vermeld in paragraaf 2;<br>
+3° voor de einddatum van het mandaat van de burgemeester is de persoon die in de akte van opvolging is vermeld geen gemeenteraadslid meer.<br>
+<br>
+Als bij het bereiken van de einddatum van het mandaat van burgemeester, vermeld in de akte van opvolging, de persoon die in de akte van opvolging is vermeld, het mandaat niet opneemt of als na de opvolging het mandaat van burgemeester vroegtijdig eindigt, wordt de burgemeester vervangen op basis van een akte van voordracht. Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van dat verbod wordt bestraft overeenkomstig artikel 7, § 2. Om ontvankelijk te zijn voldoet de akte van voordracht aan de volgende voorwaarden:<br>
+1° de akte vermeldt de naam van de kandidaat-burgemeester;<br>
+2° de kandidaat-burgemeester is een gemeenteraadslid dat behoort tot dezelfde fractie als de burgemeester die wordt vervangen;<br>
+3° de akte is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen;<br>
+4° de akte is ondertekend door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-burgemeester zijn verkozen. Als de lijst waarop de naam van de kandidaat-burgemeester voorkomt slechts twee verkozenen telt, volstaat de handtekening van één van hen.<br>
+<br>
+De akte van opvolging of de akte van voordracht wordt uiterlijk drie dagen voor de vergadering van de gemeenteraad aan de algemeen directeur bezorgd. De algemeen directeur bezorgt een afschrift van de akte aan de burgemeester.<br>
+<br>
+Nadat de gemeenteraadsleden de eed hebben afgelegd, bezorgt de algemeen directeur de akte van opvolging of de akte van voordracht aan de voorzitter van de gemeenteraad.<br>
+<br>
+De voorzitter van de gemeenteraad gaat na of de akte van opvolging of de akte van voordracht voldoet aan de voorwaarden, vermeld in de voormelde leden. Alleen de handtekeningen van de gemeenteraadsleden die de eed hebben afgelegd, worden daarvoor in aanmerking genomen, met inbegrip van de opvolgers die de akte van opvolging hebben ondertekend en die nadien als gemeenteraadslid de eed hebben afgelegd. Als de akte van opvolging of de akte van voordracht ontvankelijk is, bezorgt de voorzitter de akte aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over de al dan niet benoeming van de opvolger of kandidaat-burgemeester.".
+
+### ART 40.
+
+In artikel 59 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "58, § 1, derde lid, artikel 61 en 62" vervangen door de zinsnede "58, § 3, artikel 61, 62 en 354/1";<br>
+2° het tweede lid wordt opgeheven.
+
 ### ART 41.
 
 In artikel 62 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -245,10 +357,64 @@ In artikel 62 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 3° het vierde lid wordt vervangen door wat volgt:<br>
 "De beslissing van de Vlaamse Regering tot niet-benoeming van de burgemeester heeft tot gevolg dat betrokkene tijdens dezelfde bestuursperiode het ambt van burgemeester niet kan waarnemen. Hij kan daartoe noch door de gemeenteraad, noch door de burgemeester worden aangewezen.".
 
+### ART 42.
+
+In artikel 68 van hetzelfde decreet wordt paragraaf 4 opgeheven.
+
 ### ART 43.
 
 Aan artikel 78, tweede lid, van hetzelfde decreet wordt een punt 18° toegevoegd, dat luidt als volgt:<br>
 "18° de bevoegdheid van de raad voor maatschappelijk welzijn, vermeld in artikel 104.".
+
+### ART 44.
+
+In artikel 79 van hetzelfde decreet wordt het vierde lid opgeheven.
+
+### ART 45.
+
+&nbsp;In artikel 80, eerste lid, van hetzelfde decreet wordt de zinsnede "Artikel 59, eerste en derde lid, en artikel 60" vervangen door de zinsnede "Artikel 59 en 60".
+
+### ART 46.
+
+In artikel 90, § 1, vijfde lid, van hetzelfde decreet wordt het woord "acht" vervangen door het woord "drie".
+
+### ART 47.
+
+In artikel 91 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zin "De verklaring van lijstenverbinding wordt aan de algemeen directeur overhandigd uiterlijk de zestigste dag na de dag van de gemeenteraadsverkiezingen." vervangen door de zin "De verklaring van lijstenverbinding wordt aan de algemeen directeur bezorgd binnen twee werkdagen voor de uiterste dag van het indienen van de akten van voordracht.";<br>
+2° in paragraaf 2, tweede lid, worden de woorden "decimalen van het" vervangen door de woorden "breuk als" en worden de woorden "Bij gelijkheid van decimalen" vervangen door de woorden "Bij gelijkheid van die breuk";<br>
+3° in paragraaf 2, derde lid, worden de woorden "de eenenzestigste dag na de gemeenteraadsverkiezingen" vervangen door de woorden "de dag na de uiterste datum om een verklaring van lijstenverbinding in te dienen".
+
+### ART 48.
+
+In artikel 92 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het woord "acht" vervangen door het woord "drie";<br>
+2° in het derde lid, 1°, wordt de zinsnede "de naam, de voornamen" vervangen door de woorden "de voornaam of voornamen en de achternaam";<br>
+3° in het derde lid worden punt 2° en 3° opgeheven;<br>
+4° aan het derde lid, 6°, wordt de zinsnede "of vacant zijn met toepassing van artikel 95" toegevoegd;<br>
+5° aan het derde lid wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° als een lijst of groep van lijsten die maar twee verkozenen telt, twee akten indient terwijl er maar één kandidaat-lid aan de lijst of de groep van lijsten is toegewezen, zijn beide akten onontvankelijk.";<br>
+6° in het vierde lid wordt de zinsnede "de naam, de voornamen" vervangen door de woorden "de voornaam of voornamen en de achternaam";<br>
+7° in het vierde lid wordt de zin "In voorkomend geval ondertekenen de kandidaat-opvolgers voor akkoord hun voordracht." opgeheven.
+
+### ART 49.
+
+In artikel 93 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het woord "derde" vervangen door de woorden "tweede tot en met zesde";<br>
+2° het vijfde lid wordt vervangen door wat volgt:<br>
+"Voor de mandaten die nog niet zijn vervuld, is de procedure, vermeld in artikel 95, vierde lid, in de volgende gevallen van toepassing:<br>
+1° een lijst of groep van lijsten heeft geen ontvankelijke voordrachtsakte ingediend voor de zetels die conform artikel 91 aan de lijst of groep van lijsten zijn toegewezen;<br>
+2° een lijst of groep van lijsten heeft een ontvankelijke akte ingediend waarop minder kandidaat-leden staan dan het aantal dat aan de lijst of groep van lijsten is toegewezen conform artikel 91;<br>
+3° het bijzonder comité voor de sociale dienst is binnen zestig dagen na de dag van de vergadering van de raad voor maatschappelijk welzijn, vermeld in het eerste lid, nog niet volledig samengesteld, behalve als artikel 95 van toepassing is.".
+
+### ART 50.
+
+In artikel 95 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid wordt het woord "acht" vervangen door het woord "drie";<br>
+2° tussen het derde en het vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Als een lijst of groep van lijsten geen ontvankelijke voordrachtsakte heeft ingediend voor de zetels die conform artikel 91 aan de lijst of groep van lijsten zijn toegewezen, kan die lijst een nieuwe akte van voordracht voor een kandidaat-lid of kandidaat-leden indienen, conform het eerste tot en met derde lid, voor de mandaten die nog niet zijn vervuld.";<br>
+3° het bestaande vierde lid, dat het vijfde lid wordt, wordt vervangen door wat volgt:<br>
+"Als de vervanging, vermeld in het eerste lid, niet kan doorgaan of niet plaatsvindt binnen zestig dagen, gebeurt, met behoud van de toepassing van artikel 94, eerste lid, de vervanging bij een geheime stemming in een stemronde waarbij elk lid van de raad voor maatschappelijk welzijn over een stem beschikt en waarbij de kandidaat die de meeste stemmen behaalt, als verkozen wordt verklaard. Elke lijst of groep van lijsten kan daarvoor een akte van voordracht indienen conform artikel 92, derde tot en met zevende lid. Bij staking van stemmen is de jongste kandidaat verkozen.".
 
 ### ART 52.
 
@@ -289,6 +455,61 @@ Aan artikel 111, eerste lid, van hetzelfde decreet worden een punt 6°, 7° en 8
 "6° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
 7° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst digitaal kan vergaderen, als het huishoudelijk reglement de mogelijkheid van digitaal vergaderen opneemt;<br>
 8° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst hybride kan vergaderen, als het huishoudelijk reglement de mogelijkheid van hybride vergaderen opneemt.".
+
+### ART 57.
+
+Artikel 123 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 123. § 1. Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 14 juncto artikel 332 van de Nieuwe Gemeentewet, wordt de verkozene voor de districtsraad die het hoogste aantal naamstemmen heeft en die tot de coalitiefractie met de meeste zetels in de districtsraad behoort, districtsburgemeester. Als verschillende coalitiefracties het hoogste aantal zetels hebben, wordt de verkozene voor de districtsraad die het hoogste aantal naamstemmen heeft en die tot de coalitiefractie behoort waarvan de lijst het hoogste stemcijfer heeft behaald, districtsburgemeester. Als de verkozenen van de coalitiefracties met het hoogste aantal zetels verkozen zijn op dezelfde lijst en als die lijst het hoogste stemcijfer heeft behaald, wordt de verkozene voor de districtsraad van die lijst met het hoogste aantal naamstemmen districtsburgemeester. Tot de eerstvolgende vernieuwing van de districtsraad wordt een fractie geacht hetzelfde aantal leden te behouden voor wat betreft het gewicht van de fracties en de daaruit volgende aanduiding van de districtsburgemeester.<br>
+<br>
+Vanaf de installatie van de districtsschepenen is het raadslid waarvan sprake in het eerste lid, districtsburgemeester.<br>
+<br>
+Voor hij zijn mandaat aanvaardt, legt de districtsburgemeester de volgende eed af in handen van de voorzitter van de districtsraad: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.". Als de districtsburgemeester zelf de voorzitter van de districtsraad is, legt hij de eed af in handen van het oudste districtsraadslid. De districtsburgemeester die de eed weigert of die, nadat hij daarvoor uitdrukkelijk is opgeroepen, zonder geldige reden afwezig is op de eerste daaropvolgende vergadering, wordt geacht het districtsburgemeestersmandaat niet te aanvaarden. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen die daarover rijzen.<br>
+<br>
+In geval van een algehele vernieuwing van de districtsraad vindt de eedaflegging plaats tijdens de installatievergadering van de districtsraad of tijdens een van de daaropvolgende vergaderingen van de districtsraad.<br>
+<br>
+§ 2. Als het raadslid, vermeld in paragraaf 1, eerste lid, het mandaat van districtsburgemeester niet aanvaardt of definitief ophoudt dat mandaat uit te oefenen, dan wordt, met herneming van de procedure in paragraaf 1, het raadslid dat, na dat raadslid, binnen dezelfde fractie de meeste naamstemmen heeft behaald, districtsburgemeester. Als alle verkozenen van de grootste coalitiefractie ervan afzien het mandaat van districtsburgemeester op te nemen, dan wordt de verkozene die behoort tot de op een na grootste coalitiefractie en die de meeste naamstemmen behaald heeft, districtsburgemeester.<br>
+<br>
+De regeling, vermeld in het eerste lid, wordt op een analoge manier toegepast op de verkozenen van de andere coalitiefracties in afnemende volgorde van grootte.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 kan een akte van opvolging van districtsburgemeester worden ingediend voor zover de opvolging ten vroegste in werking treedt op 1 oktober van het vierde jaar van de bestuursperiode en de opvolger een districtsraadslid is dat behoort tot dezelfde fractie als de districtsburgemeester die wordt opgevolgd.<br>
+<br>
+De akte van opvolging vermeldt de einddatum van het mandaat van de districtsburgemeester en de naam van de persoon die de districtsburgemeester opvolgt. Bij het bereiken van deze einddatum is de districtsburgemeester van rechtswege ontslagnemend. Om ontvankelijk te zijn moet de akte van opvolging ondertekend zijn door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen, alsook door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt slechts twee verkozenen telt, volstaat de handtekening van een van hen. Niemand kan meer dan één akte van opvolging ondertekenen. Overtreding van dat verbod wordt bestraft overeen- komstig artikel 7, § 2.<br>
+<br>
+Als het mandaat van districtsburgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode, is de akte van opvolging zonder voorwerp en wordt tot vervanging overgegaan overeenkomstig de regeling, vermeld in paragraaf 2.<br>
+<br>
+Als het mandaat van districtsburgemeester vervroegd eindigt op of na 1 oktober van het vierde jaar van de bestuursperiode, neemt het raadslid, vermeld in de akte van opvolging, het mandaat vervroegd op.<br>
+<br>
+Als de persoon die in de akte van opvolging is vermeld geen districtsraadslid meer is, wordt de akte van opvolging zonder voorwerp.<br>
+<br>
+Een nieuwe akte van opvolging kan enkel ingediend worden in de volgende gevallen:<br>
+1° de akte van opvolging is onontvankelijk;<br>
+2° het mandaat van de districtsburgemeester eindigt voor 1 oktober van het vierde jaar van de bestuursperiode en er wordt tot vervanging overgegaan overeenkomstig de regeling, vermeld in paragraaf 2;<br>
+3° voor de einddatum van het mandaat van de districtsburgemeester is de persoon die in de akte van opvolging is vermeld geen districtsraadslid meer.<br>
+<br>
+Als bij het bereiken van de einddatum van het mandaat van districtsburgemeester, vermeld in de akte van opvolging, de persoon die in de akte van opvolging is vermeld, het mandaat niet opneemt of als na de opvolging het mandaat van districtsburgemeester vroegtijdig eindigt, wordt de districtsburgemeester vervangen op basis van een akte van voordracht. Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van dat verbod wordt bestraft overeenkomstig artikel 7, § 2. Om ontvankelijk te zijn voldoet de akte van voordracht aan de volgende voorwaarden:<br>
+1° de akte vermeldt de naam van de kandidaat-districtsburgemeester;<br>
+2° de kandidaat-districtsburgemeester is een districtsraadslid dat behoort tot dezelfde fractie als de districtsburgemeester die wordt vervangen;<br>
+3° de akte is ondertekend door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen;<br>
+4° de akte is ondertekend door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-districtsburgemeester zijn verkozen. Als de lijst waarop de naam van de kandidaat-districtsburgemeester voorkomt slechts twee verkozenen telt, volstaat de handtekening van één van hen.<br>
+<br>
+De akte van opvolging of de akte van voordracht wordt uiterlijk drie dagen voor de vergadering van de districtsraad aan de districtssecretaris bezorgd. De districtssecretaris bezorgt een afschrift van de akte aan de districtsburgemeester.<br>
+<br>
+Nadat de districtsraadsleden de eed hebben afgelegd, bezorgt de districtssecretaris de akte van opvolging of de akte van voordracht aan de voorzitter van de districtsraad.<br>
+<br>
+De voorzitter van de districtsraad gaat na of de akte van opvolging of de akte van voordracht voldoet aan de voorwaarden, vermeld in de voormelde leden. Alleen de handtekeningen van de districtsraadsleden die de eed hebben afgelegd, worden daarbij in aanmerking genomen, met inbegrip van de opvolgers die de akte van opvolging hebben ondertekend en die nadien als districtsraadslid de eed hebben afgelegd.".
+
+### ART 58.
+
+Artikel 124 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 124. Als de districtsburgemeester het mandaat niet aanvaardt, als verhinderd wordt beschouwd, afgezet of geschorst wordt, overleden is of ontslag genomen heeft, wordt een nieuwe districtsburgemeester aangeduid overeenkomstig artikel 123, § 2.<br>
+<br>
+In de gevallen dat de districtsburgemeester van zijn mandaat vervallen wordt verklaard, als verhinderd wordt beschouwd, afgezet of geschorst wordt, ontslagen is als gevolg van een onverenigbaarheid of overleden is, wordt tot aan de eedaflegging van een nieuwe districtsburgemeester, het districtsburgemeesterschap waargenomen overeenkomstig het derde en vierde lid.<br>
+<br>
+Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 14 juncto artikel 332 van de Nieuwe Gemeentewet, wordt de districtsburgemeester, die om een andere reden dan de redenen in het eerste lid, tijdelijk afwezig is, vervangen door een districtsschepen in volgorde van hun rang, tenzij de districtsburgemeester zijn bevoegdheid aan een andere districtsschepen heeft opgedragen.<br>
+<br>
+De districtsburgemeester die als verhinderd wordt beschouwd, die geschorst is of tijdelijk afwezig is, wordt vervangen zolang hij verhinderd, geschorst of tijdelijk afwezig is. De districtsraad neemt akte van de verhindering of schorsing, en van de beëindiging van de periode van verhindering of schorsing.".
 
 ### ART 59.
 
@@ -456,6 +677,27 @@ In afwijking van artikel 91, § 2, derde lid, gaat de algemeen directeur- coörd
 10° paragraaf 4 wordt vervangen door wat volgt:<br>
 " § 4. Behalve als er tussen de samengevoegde gemeenten een andere afspraak is gemaakt, doet het gemeentehuis van de gemeente waarvan de algemeen directeur aangewezen is als coördinator conform artikel 346, dienst als gemeentehuis van de nieuwe gemeente zolang de gemeenteraad geen ander gebouw als gemeentehuis heeft gekozen.";<br>
 11° in paragraaf 5 wordt het woord "overhandigd" vervangen door het woord "bezorgd".
+
+### ART 76.
+
+In hetzelfde decreet, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt een artikel 354/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 354/1. § 1. In afwijking van artikel 58, § 2 en § 3, en artikel 59, eerste lid, kan de Vlaamse Regering in een nieuwe gemeente in de eerste bestuursperiode een burgemeester benoemen voor minder dan zes jaar in geval van een ontvankelijke akte van opvolging.<br>
+<br>
+De akte van opvolging vermeldt de einddatum van het mandaat van de burgemeester en de naam van de persoon die de burgemeester opvolgt. Bij het bereiken van deze einddatum is de burgemeester van rechtswege ontslagnemend. Om ontvankelijk te zijn moet de akte van opvolging ondertekend zijn door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen, alsook door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-opvolger zijn verkozen. Als de lijst waarop de naam van de kandidaat-opvolger voorkomt slechts twee verkozenen telt, volstaat de handtekening van één van hen. Niemand kan meer dan één akte van opvolging ondertekenen. Overtreding van dat verbod wordt bestraft overeenkomstig artikel 7, § 2.<br>
+<br>
+De akte van opvolging kan ook de einddatum van het mandaat van de kandidaat-opvolger vermelden. In dat geval kan op de akte van opvolging de naam vermeld worden van een of meer personen die worden voorgedragen om hem op te volgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de burgemeester bij het bereiken van de einddatum van het mandaat van rechtswege ontslagnemend.<br>
+<br>
+Als het mandaat eindigt voor de einddatum, vermeld in de akte van opvolging, of, als de persoon die in de akte van opvolging is vermeld als de persoon die de burgemeester zou opvolgen, zijn mandaat niet opneemt, wordt de voordracht van de eerstvolgende kandidaat-opvolger, vermeld in de akte, vervroegd. Als de persoon die als laatste kandidaat-opvolger is vermeld het mandaat niet kan opnemen of als er geen opvolger van de kandidaat-opvolger is vermeld, wordt tot vervanging overgegaan overeenkomstig de regeling, vermeld in artikel 58, § 1.<br>
+<br>
+De akte van opvolging wordt uiterlijk drie dagen voor de installatievergadering van de gemeenteraad aan de algemeen directeur-coördinator, vermeld in artikel 346, bezorgd. De algemeen directeur-coördinator bezorgt een afschrift van de akte aan de burgemeester.<br>
+<br>
+§ 2. Nadat de gemeenteraadsleden de eed hebben afgelegd, bezorgt de algemeen directeur-coördinator de akte van opvolging aan de voorzitter van de gemeenteraad.<br>
+<br>
+De voorzitter van de gemeenteraad gaat na of de akte van opvolging voldoet aan de voorwaarden, vermeld in de eerste paragraaf.<br>
+Alleen de handtekeningen van de gemeenteraadsleden die de eed hebben afgelegd, worden daarvoor in aanmerking genomen, met inbegrip van de opvolgers die de akte van opvolging hebben ondertekend en die nadien als gemeenteraadslid de eed hebben afgelegd. Als de akte van opvolging ontvankelijk is, bezorgt de voorzitter de akte van opvolging aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over de al dan niet benoeming van de opvolgers bij het bereiken van de einddatum van het mandaat van de titularis.".
 
 ### ART 77.
 
@@ -773,6 +1015,59 @@ In artikel 513 van hetzelfde decreet worden de volgende wijzigingen aangebracht:
 1° in het eerste lid wordt de zinsnede "een vereniging zonder winstoogmerk als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen" vervangen door de woorden "een vzw als vermeld in het Wetboek van vennootschappen en verenigingen";<br>
 2° het tweede lid wordt vervangen door wat volgt:<br>
 "Van een vzw zoals vermeld in het eerste lid, moeten minstens een of meer private rechtspersonen die zonder winstoogmerk een belangeloos doel nastreven of erkend zijn als een sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen, lid zijn. Van die vereniging kunnen daarnaast al dan niet een of meer andere openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen opgericht overeenkomstig deel 3, titel 4, hoofdstuk 2 of 3, of andere openbare besturen, lid zijn.".
+
+### ART 118.
+
+Artikel 524 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 524. Met behoud van de toepassing van artikel 14 van de Nieuwe Gemeentewet, zijn artikel 58, 59, 60, 61 en 62, eerste tot en met vijfde lid, met uitzondering van het eerste lid, 2°, e), van toepassing op de gemeente Voeren.<br>
+<br>
+Artikel 60, 61 en 62, eerste tot en met vijfde lid, met uitzondering van het eerste lid, 2°, e), zijn van toepassing op de gemeenten, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.".
+
+### ART 119.
+
+In hetzelfde decreet, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt een artikel 524/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 524/1. § 1. Met behoud van de toepassing van de nationaliteitsvereiste, vermeld in artikel 13 van de Nieuwe Gemeentewet, wordt de burgemeester in de gemeenten, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, door de Vlaamse Regering benoemd uit de verkozenen voor de gemeenteraad. Die verkozenen kunnen daarvoor kandidaten voordragen voor wie een gedagtekende akte van voordracht wordt voorgelegd aan de provinciegouverneur. De akte van voordracht is ontvankelijk als ze ondertekend is door meer dan de helft van de verkozenen op de lijsten die aan de verkiezingen hebben deelgenomen en ook door een meerderheid van de personen die op dezelfde lijst als de voorgedragen kandidaat-burgemeester zijn verkozen. Als de lijst waarop de naam van de kandidaat-burgemeester voorkomt maar twee verkozenen telt, volstaat de handtekening van een van hen. Een akte van voordracht die wordt voorgelegd na de installatievergadering van de gemeenteraad is alleen ontvankelijk als ze ondertekend is door meer dan de helft van de gemeenteraadsleden en ook door een meerderheid van de gemeenteraadsleden die op dezelfde lijst als de voorgedragen kandidaat-burgemeester verkozen zijn.<br>
+<br>
+Niemand kan meer dan één akte van voordracht ondertekenen. Overtreding van dat verbod wordt bestraft conform artikel 7, § 2.<br>
+<br>
+De akte van voordracht kan ook de einddatum van het mandaat van de kandidaat-burgemeester vermelden. In dat geval kan op de akte van voordracht de naam vermeld worden van een of meer personen die worden voorgedragen om hem op te volgen voor de resterende duurtijd van het mandaat. In voorkomend geval is de burgemeester van rechtswege ontslagnemend als de einddatum van het mandaat is bereikt. Als het mandaat eindigt voor de einddatum, vermeld in de akte, of als de persoon die in de akte van voordracht is vermeld als de persoon die de burgemeester opvolgt, zijn mandaat niet opneemt, wordt de voordracht van de eerstvolgende opvolger, vermeld in de akte, vervroegd. Als de persoon die als laatste opvolger is vermeld, het mandaat niet kan opnemen of als er geen opvolger is vermeld, wordt tot vervanging overgegaan conform artikel 62.<br>
+<br>
+De Vlaamse Regering gaat na of de akte van voordracht ontvankelijk is overeenkomstig de voorwaarden, vermeld in het eerste lid.<br>
+De Vlaamse Regering kan evenwel altijd om een nieuwe voordracht verzoeken.<br>
+<br>
+§ 2. Een voorgedragen kandidaat-burgemeester als vermeld in paragraaf 1, die niet is benoemd, kan tijdens dezelfde bestuursperiode niet meer opnieuw worden voorgedragen, tenzij op basis van nieuwe feiten of nieuwe gegevens.<br>
+<br>
+§ 3. Met behoud van de toepassing van artikel 13, derde lid, van de Nieuwe Gemeentewet, kan de burgemeester, vermeld in paragraaf 1, buiten de verkozenen voor de gemeenteraad worden benoemd uit de gemeenteraadskiezers die minstens vijfentwintig jaar oud zijn.<br>
+<br>
+De burgemeester die buiten de raad is benoemd, is in alle gevallen stemgerechtigd in het college van burgemeester en schepenen en beschikt over een raadgevende stem in de gemeenteraad.".
+
+### ART 120.
+
+In hetzelfde decreet, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt een artikel 524/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 524/2. De burgemeester in de gemeenten, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, wordt benoemd voor een periode van zes jaar, behalve in de gevallen, vermeld in artikel 61, 62 en 524/1, § 1, derde lid.<br>
+<br>
+Voor hij zijn mandaat aanvaardt, legt de burgemeester de volgende eed af in handen van de provinciegouverneur: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.". Behalve als de burgemeester wordt benoemd buiten de raad, geldt die eedaflegging ook als eedaflegging als gemeenteraadslid als vermeld in artikel 6. De burgemeester die de eed na twee oproepingen niet aflegt, wordt geacht het burgemeestersmandaat niet te aanvaarden. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen die daarover rijzen.<br>
+<br>
+Na de gemeenteraadsverkiezingen blijft de aftredende burgemeester in functie tot de nieuwe burgemeester is geïnstalleerd.".
+
+### ART 121.
+
+In artikel 525 van hetzelfde decreet wordt de zinsnede “Artikel 79, vierde lid, en artikel 62, zesde lid en zevende lid” vervangen door de zinsnede “Artikel 62, eerste lid, 2°, e), zesde lid en zevende lid”.
+
+### ART 122.
+
+In artikel 529 van hetzelfde decreet wordt de zinsnede "artikel 5" vervangen door de zinsnede "artikel 5, § 1 en § 2".
+
+### ART 123.
+
+In artikel 531 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord "veertien" vervangen door het woord "acht", worden de woorden "werkdagen van januari" vervangen door de woorden "werkdagen van december", worden de woorden "eerste werkdag van januari" vervangen door de woorden "vijfde werkdag van december" en worden de woorden "ten minste acht dagen voor de installatievergadering van de raad voor maatschappelijk welzijn" opgeheven;<br>
+2° in paragraaf 1 worden het derde en vierde lid vervangen door wat volgt:<br>
+"Als er een bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, vindt de installatievergadering plaats binnen vijftien dagen na de dag waarop de uitslag van de verkiezing definitief is met toepassing van artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, maar op zijn vroegst op een van de eerste vijf werkdagen van december. De verkozen raadsleden worden door de uittredende voorzitter van de raad voor maatschappelijk welzijn ten minste acht dagen voor de installatievergadering op de hoogte gebracht van de datum, het uur en de plaats van de vergadering.<br>
+<br>
+Als er een bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, vindt de installatievergadering plaats binnen vijftien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is met toepassing van artikel 203, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 of met toepassing van artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. De verkozen raadsleden worden door de uittredende voorzitter van de raad voor maatschappelijk welzijn ten minste acht dagen voor de installatievergadering op de hoogte gebracht van de datum, het uur en de plaats van de vergadering.".
 
 ## HOOFDSTUK 7. Wijzigingen van het programmadecreet van 20 december 2019 bij de begroting 2020
 
