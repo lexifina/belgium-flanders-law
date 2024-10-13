@@ -98,6 +98,14 @@ In artikel 49, §1, van hetzelfde decreet worden de volgende wijzigingen aangebr
 2° aan het eerste lid worden de volgende zinnen toegevoegd: “De voorzitter van de gemeenteraad gaat de ontvankelijkheid na van de akte van voordracht op de vergadering van de gemeenteraad waarop de akte geagendeerd is. In voorkomend geval wordt de voorgedragen kandidaat-schepen verkozen verklaard.”;<br>
 3° in het tweede lid worden de zinnen “De voorzitter van de gemeenteraad gaat na of de akte van voordracht ontvankelijk is. In voorkomend geval wordt de voorgedragen kandidaat-schepen verkozen verklaard op de eerstvolgende vergadering van de gemeenteraad.” opgeheven.
 
+### ART 16.
+
+In artikel 58, §1, van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen de zinsnede “benoemd tot burgemeester.” en de woorden “Tot de eerstvolgende vernieuwing” de zin “Als twee verkozenen van de grootste coalitiefractie een gelijk hoogste aantal naamstemmen hebben behaald, is de kandidaat die het hoogst gerangschikt stond op de lijst, de aangewezen burgemeester.” ingevoegd;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“In het geval van verkiezing zonder stemming, is de hoogst gerangschikte kandidaat op de lijst met het hoogste aantal zetels de aangewezen burgemeester.”;<br>
+3° in het bestaande zesde lid, dat het zevende lid wordt, wordt het woord “tweede” vervangen door het woord “derde” en wordt het woord “vierde” vervangen door het woord “vijfde”.
+
 ### ART 17.
 
 In artikel 62 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt het zesde lid vervangen door wat volgt:<br>
@@ -150,6 +158,10 @@ In artikel 106, §1, eerste lid, van hetzelfde decreet wordt tussen het woord �
 
 Aan artikel 110, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt een punt 9° toegevoegd, dat luidt als volgt:<br>
 “9° “acht dagen” als vermeld in artikel 32, tweede lid, als “drie dagen”.”.
+
+### ART 28.
+
+In artikel 123, §1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 16 juli 2021, wordt tussen de zinsnede “wordt de verkozene voor de districtsraad van die lijst met het hoogste aantal naamstemmen districtsburgemeester.” en de woorden “Tot de eerstvolgende vernieuwing” de zin “Als twee verkozenen van de grootste coalitiefractie een gelijk hoogste aantal naamstemmen hebben behaald, is de kandidaat die het hoogst gerangschikt stond op de lijst, de districtsburgemeester.” ingevoegd.
 
 ### ART 29.
 
@@ -651,11 +663,25 @@ In artikel 511, §1, van hetzelfde decreet, gewijzigd bij het decreet van 16 jul
 
 In artikel 514, §2, eerste lid, 1°, van hetzelfde decreet worden de woorden “noodzaak om een private partner aan te trekken wordt aangetoond” vervangen door de woorden “meerwaarde van het aantrekken van een private partner” en wordt het woord “wordt” vervangen door het woord “worden”.
 
+### ART 97.
+
+In artikel 516 van hetzelfde decreet wordt tussen de woorden “met uitzondering van” en de zinsnede “artikel 7, §6,” de zinsnede “artikel 5, §3,” ingevoegd.
+
+### ART 98.
+
+In artikel 517 van hetzelfde decreet wordt tussen de zinsnede “Artikel 18 tot en met 39 van dit decreet” en de woorden “zijn van toepassing” de zinsnede “, met uitzondering van artikel 30,” ingevoegd.
+
 ### ART 99.
 
 Aan artikel 519 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Als een schepen tijdelijk afwezig is, kan hij, met behoud van de toepassing van artikel 13bis, §1, van de Nieuwe Gemeentewet, worden vervangen door het raadslid aangewezen overeenkomstig artikel 15, §2, achtste lid, van de Nieuwe Gemeentewet.”.
+
+### ART 100.
+
+In artikel 531, §1, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1°in het derde lid wordt de zinsnede “artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges” vervangen door de zinsnede “artikel 18bis van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn,”;<br>
+2° in het vierde lid wordt de zinsnede “artikel 203, derde lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 of met toepassing van artikel 25 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges” vervangen door de zinsnede “artikel 18bis van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn”.
 
 ### ART 101.
 
