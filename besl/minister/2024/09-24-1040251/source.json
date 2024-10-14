@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040251,
+  "title": "Ministerieel besluit van 2024-09-24 tot wijziging van de bijlage bij het ministerieel besluit van 3 september 2021 over de opleidingsvereisten in het kader van de implementatie van BelRAI",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040251/VolledigDocument?datum=2024-10-14",
+  "source_sha256": "a39455788f3911127887444ecfcdd172ff4c0a4d8c5406c3920fb110b24ff0e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040251&param=informatie",
+  "as_of": "2024-10-14",
+  "made": "2024-09-24",
+  "gazette": "2024-10-04",
+  "numac": 2024009090,
+  "document_start": "2024-10-14",
+  "document_end": null,
+  "in_force": "2024-10-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
