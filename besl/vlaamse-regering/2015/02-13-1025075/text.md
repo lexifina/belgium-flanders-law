@@ -42,15 +42,16 @@ b) aanvragen die louter betrekking hebben op dienstenzones langs autosnelwegen;<
 2° aanvragen met betrekking tot de volgende spoorwegen, en bruggen over en tunnels onder die spoorwegen:<br>
 a) openbare spoorwegen voor het personen- en goederenvervoer met inbegrip van de perrons, de stelplaatsen en de stations;<br>
 b) tramlijnen, metrolijnen en andere geleide openbaarvervoerssystemen met inbegrip van de perrons, de stelplaatsen en de stations;<br>
+2°/1 aanvragen met betrekking tot busbanen die functioneren binnen een hoogwaardig bovenlokaal openbaar vervoersnet, voor zover ze niet gelegen zijn langs of in een bestaande weg;<br>
 3° aanvragen met betrekking tot luchthavens met een start- of landingsbaan van 800 meter of meer, ingediend door de luchthavenuitbater of door met de luchthavenuitbater verbonden vennootschappen in de zin van artikel 11 van het wetboek van vennootschappen, door luchthavenontwikkelingsmaatschappijen, door Belgocontrol of door het Directoraat-generaal Luchtvaart van de Federale Overheidsdienst Mobiliteit en Vervoer;<br>
 4° aanvragen met betrekking tot het beheer of de veiligheid van het luchtverkeer, zoals radar- en surveillanceinstallaties, controletorens, satelliet- en navigatieapparatuur en meteorologische installaties;<br>
 5° aanvragen met betrekking tot de natte en droge infrastructuur met openbaar karakter van:<br>
 a) waterwegen en onbevaarbare waterlopen van de eerste categorie en aanvragen met betrekking tot bruggen over en tunnels onder die waterwegen en waterlopen, met uitzondering van aanvragen die louter een lozing, overstort of watercaptatiepunt in die waterwegen en waterlopen voorzien;<br>
 b) overstromingsgebieden langs die waterwegen of waterlopen of aangelegd door de beheerders van die waterwegen of waterlopen;<br>
-6° aanvragen met betrekking tot de natte&nbsp;infrastructuur met openbaar karakter binnen de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan;<br>
-7° aanvragen die betrekking hebben op de maatregelen voor de versterking van de zeewering zoals opgenomen in het Masterplan Kustveiligheid;<br>
+6° aanvragen met betrekking tot de natte&nbsp;infrastructuur met openbaar karakter binnen de grenzen van de zeehavengebieden van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend door de Vlaamse Regering;<br>
+7° aanvragen die betrekking hebben op de maatregelen voor de versterking van de zeewering;<br>
 8° aanvragen die betrekking hebben op monostortplaatsen voor baggerspecie en/of ruimingsspecie met een minimale capaciteit van 100.000 m®;<br>
-9° aanvragen met betrekking tot kerncentrales en installaties voor de berging en verwerking van splijtstoffen;<br>
+9° aanvragen met betrekking tot kerncentrales en installaties voor de berging van verbruikte splijtstof of radioactief afval of verwerking van splijtstoffen;<br>
 10° aanvragen met betrekking tot de volgende installaties voor de productie van elektriciteit:<br>
 a) installaties met een vermogen van meer dan 1.000 MW, die aantakken op het openbare elektriciteitsnet;<br>
 b) installaties voor het opwekken van elektriciteit door windenergie met een elektrisch vermogen per windturbine van meer dan 1.500 kW;<br>
@@ -63,8 +64,8 @@ b) installaties voor het opwekken van elektriciteit door windenergie met een ele
 17° aanvragen met betrekking tot infrastructuur met openbaar karakter om vloeibare stoffen en gassen via een pijpleiding te vervoeren, met uitzondering van leidingen voor hemelwater, oppervlaktewater, afvalwater en water en met uitzondering van leidingen die tot het lokale openbare distributienet behoren;<br>
 18° aanvragen met betrekking tot afvalverbrandingsinstallaties met een capaciteit van minstens 50.000 ton/jaar;<br>
 19° aanvragen met betrekking tot gebouwen of gebouwencomplexen met een totale nuttige vloeroppervlakte, met uitsluiting van de nuttige vloeroppervlakte met de functies wonen, landbouw in de ruime zin en industrie en bedrijvigheid, van minstens 50.000 m², gelegen buiten gemeenten met meer dan 200.000 inwoners;<br>
-20° aanvragen met betrekking tot golfterreinen van 18 holes of meer;<br>
-21° aanvragen met betrekking tot infrastructuur met openbaar karakter voor al dan niet draadloze communicatienetwerken voor radiocommunicatie, telefoonverkeer, televisie, internet of andere, die als een bovenlokaal netwerk functioneren;<br>
+20° aanvragen met betrekking tot de aanleg of oppervlakte-uitbreiding van golfterreinen van achttien holes of meer, oefenholes niet inbegrepen;<br>
+21° ...<br>
 22° ...<br>
 23° aanvragen ingediend door de militaire overheid.</p>
 
@@ -78,15 +79,15 @@ In deze bijlage wordt verstaan onder aanvragen:<br>
 4° de aanvragen voor wijzigingen van de vegetatie, vermeld in artikel 9bis, § 7, en artikel 13, § 4 en § 5, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
 <br>
 De deputatie is bevoegd om in eerste administratieve aanleg een beslissing te nemen over aanvragen van projecten die minstens een van de volgende punten omvatten, voor zover het project noch een Vlaams project, noch een onderdeel van een Vlaams project is :<br>
-1° aanvragen met betrekking tot fietspaden die functioneren binnen een bovenlokaal fietsnetwerk, voor zover ze niet gelegen zijn langs een weg of waterweg;<br>
+1°...;<br>
 2° aanvragen met betrekking tot de natte en droge infrastructuur met openbaar karakter van:<br>
-a) onbevaarbare waterlopen van de tweede of de derde categorie en aanvragen met betrekking tot bruggen over en tunnels onder die waterlopen, met uitzondering van aanvragen die louter een lozing, overstort of watercaptatiepunt in die waterlopen voorzien;<br>
+a) onbevaarbare waterlopen van de tweede categorie en aanvragen met betrekking tot bruggen over en tunnels onder die waterlopen, met uitzondering van aanvragen die louter een lozing, overstort of watercaptatiepunt in die waterlopen voorzien;<br>
 b) overstromingsgebieden langs die waterlopen of aangelegd door de beheerders van die waterlopen;<br>
 3° aanvragen met betrekking tot:<br>
-a) recreatieve terreinen, beheerd door gewest of provincie;<br>
+a) de aanleg of oppervlakte-uitbreiding van recreatieve terreinen, beheerd door gewest of provincie;<br>
 b) permanente omlopen voor motorvoertuigen of motorvaartuigen;<br>
-c) golfterreinen met meer dan 8 holes en minder dan 18 holes;<br>
-4° aanvragen met betrekking tot ontginningsgebieden;<br>
+c) de aanleg of oppervlakte-uitbreiding van golfterreinen met meer dan acht holes en minder dan achttien holes, oefenholes uitgezonderd;<br>
+4° infrastructuur met openbaar karakter voor al dan niet draadloze communicatienetwerken voor radiocommunicatie, telefoonverkeer, televisie, internet of andere, die als een bovenlokaal netwerk functioneren;<br>
 5° aanvragen met betrekking tot kleinhandelsactiviteiten met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen buiten de gemeenten Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout;<br>
 6° ...;<br>
 7° ....
