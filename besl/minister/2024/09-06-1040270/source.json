@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040270,
+  "title": "Ministerieel besluit van 2024-09-06 tot aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren, gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van bosinventariseerders overeenkomstig het Bosdecreet van 13 juni 1990",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040270/VolledigDocument?datum=2024-10-14",
+  "source_sha256": "2b80b166310472f66d0d4b66a0087c3f2d5ece4b9d137ca4ace4fe6e24e9ae7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040270&param=informatie",
+  "as_of": "2024-10-14",
+  "made": "2024-09-06",
+  "gazette": "2024-10-04",
+  "numac": 2024009199,
+  "document_start": "2024-10-14",
+  "document_end": null,
+  "in_force": "2024-10-14",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
