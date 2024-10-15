@@ -322,7 +322,11 @@ Bovendien zullen de vissersvaartuigen die gesanctioneerd worden op basis van het
 §1. In de periode 1 januari 2024 tot 30 juni 2024 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 1 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. &nbsp;Bij deze hoeveelheid wordt het wetenschappelijk quotum niet meegerekend.<br>
 <br>
 In de periode 1 juli 2024 tot 31 oktober 2024 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden om op vaartuigniveau een totale tongvangst te realiseren die groter is dan 10.000 kg. Dit wordt vermeerderd met 4 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Bij deze hoeveelheid wordt het wetenschappelijk quotum niet meegerekend. Hierbij dient onverminderd rekening gehouden te worden met de bepalingen in artikel 19, §5.<br>
+<br>
+In de periode van 1 november 2024 tot en met 31 december 2024 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden om op vaartuigniveau een totale tongvangst te realiseren die groter is dan 8000 kg. Bij deze hoeveelheid wordt het wetenschappelijk quotum niet meegerekend.<br>
 &nbsp;&nbsp; &nbsp;<br>
+In afwijking van het derde lid, kunnen vaartuigen die de maximale tongvangst zoals vermeld in het tweede lid hebben opgevist in de daarin vermelde periode, al vanaf 15 oktober 2024 starten met het opvissen van het in het derde lid vastgestelde quotum.<br>
+&nbsp; &nbsp;&nbsp;<br>
 Bij gecombineerde zeereizen in de ICES-gebieden VIIa en VIIf, g, is het voor het vaartuig verboden een hoeveelheid tong te overschrijden van meer dan 25 kg per uur aanwezigheid in de voormelde ICES-gebieden.<br>
 &nbsp; &nbsp;&nbsp;<br>
 Er wordt een wetenschappelijk tongquotum in het ICES-gebied VIIa voorbehouden van twaalf ton, verdeeld over telkens een visreis per kwartaal van maximaal 3000 kg tong.<br>
@@ -509,9 +513,17 @@ Voor de vaartdagen waarop het vissersvaartuig actief is met vistuig van de inspa
 <br>
 De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
-§10. Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§10. In de periode van 1 januari 2024 tot en met 14 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In de periode van 1 januari 2024 tot en met 14 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 §11. Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 15 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
