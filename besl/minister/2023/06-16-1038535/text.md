@@ -34,11 +34,15 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-Het compendium voor de monsterneming, meting en analyse van water, afgekort WAC, en de bijhorende inhoudstafel, die opgenomen zijn in de bijlage die bij dit besluit is gevoegd, worden goedgekeurd.
+...
 
 ### ART 2.
 
 De verwerking van persoonsgegevens door het departement, de Vlaamse Milieumaatschappij en het referentielaboratorium van het Vlaamse Gewest in het kader van de toepassing van het compendium vermeld in artikel 1 is beperkt tot de naam van de monsternemer en de datum, het uur en de plaats van de monsternemingen. De locatiedata worden enkel gebruikt voor de wettelijk voorziene doeleinden.
+
+### ART 3.
+
+Artikel 1 van het ministerieel besluit&nbsp;van 23 januari 2023 houdende de goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC) en tot wijziging van bijlage 4.2.5.2 bij het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne wordt opgeheven.
 
 ### ART 4.
 
