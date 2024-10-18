@@ -3115,7 +3115,9 @@ W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 
 <p>W.7.8 gebromeerde brandvertragers</p>
 
-<p>W.7.9 organofluorverbindingen</p>
+<p>W.7.9 organofluorverbindingen:<br>
+W.7.9.1 standaardreeks per- en polyfluoralkylverbindingen (WAC/IV/A/025)<br>
+W.7.9.2 korte keten per- en polyfluoralkylverbindingen (WAC/IV/A/026)</p>
 
 <p>W. 7.10 organotinverbindingen</p>
 
