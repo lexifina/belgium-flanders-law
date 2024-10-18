@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040277,
+  "title": "Ministerieel besluit van 2024-05-07 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC) en tot wijziging van bijlage 4.2.5.2 bij het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu en het ministerieel besluit van 16 juni 2023 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC) en tot wijziging van bijlage 4.2.5.2 bij het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040277/VolledigDocument?datum=2024-10-18",
+  "source_sha256": "a99d2296352e7876b29678d296764196a52597445c2c0bd9e1d5e586e23a407f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040277&param=informatie",
+  "as_of": "2024-10-18",
+  "made": "2024-05-07",
+  "gazette": "2024-10-08",
+  "numac": 2024009269,
+  "document_start": "2024-10-18",
+  "document_end": null,
+  "in_force": "2024-10-18",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2024-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
