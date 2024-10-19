@@ -2,16 +2,16 @@
   "codex_id": 1013147,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 tot organisatie, inrichting en beheer van begraafplaatsen en crematoria",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013147/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "a1e6382b925eb613b19aa9cac04db999f53cdde43f21f95faeb0f42658853867",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013147/VolledigDocument?datum=2024-10-19",
+  "source_sha256": "ba47028203f048695ea8b14abf1690f9a2f5859db0936dd311f383c4dc0ba0d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013147&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2024-10-19",
   "made": "2004-05-14",
   "gazette": "2004-06-28",
   "numac": 2004036010,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2024-10-19",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-19; future article versions excluded; article text as the API gives it"
 }

@@ -40,7 +40,7 @@ Het verlenen van toestemming tot opgraving door de burgemeester kan enkel om ern
 
 ### ART. 9.
 
-De personen die belast zijn met de opgravingswerkzaamheden moeten voldoende opgeleid zijn en moeten beschermende kledij dragen.
+De personen die belast zijn met de opgravingswerkzaamheden moeten voldoende opgeleid zijn en moeten de gepaste persoonlijke beschermingsmiddelen dragen.
 
 ### ART. 10.
 
@@ -52,7 +52,7 @@ Tijdens het transport van onverteerde resten wordt gebruikgemaakt van een al dan
 
 ### ART. 12.
 
-Als de bestemming van het lijk buiten de begraafplaats van opgraving is gelegen, moet het lijk in afwachting van vervoer worden bewaard in een lucht- en lekdichte kist.
+Als de bestemming van het lijk buiten de begraafplaats van opgraving is gelegen, moet het lijk in afwachting van vervoer worden bewaard in een lucht- en lekdichte kist of lijkzak.
 
 ### ART. 13.
 
@@ -86,15 +86,26 @@ Enkel stoffelijke overschotten van mensen en levenloos geboren kinderen die de w
 
 ### ART. 20.
 
-Het crematorium wordt ingedeeld in een openbaar gedeelte, voorbehouden aan de ontvangst van de nabestaanden en kennissen, en een technisch gedeelte, voorbehouden aan de beroepsmensen.
+Een crematorium beschikt over ten minste de volgende technische ruimten:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een koelkamer;<br>
+2°&nbsp;&nbsp; &nbsp;een lokaal voor de plaatsing van de doodskist of lijkwade;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;een oven.&nbsp;<br>
+<br>
+De technische ruimten, vermeld in het eerste lid, zijn voorbehouden aan de beroepsmensen.
 
 ### ART. 21.
 
-Het openbare gedeelte van het crematorium bevat ten minste een ontvangst- en wachtlokaal voor de nabestaanden, een lokaal waar mogelijkheid is om het ritueel van de levensbeschouwing volgens dewelke de uitvaartplechtigheid moet plaats hebben te laten verlopen, en een lokaal voor de overhandiging van de as.
+Een crematorium kan naast de technische ruimten, vermeld in artikel 20, ook beschikken over één of meerdere openbare ruimten, zoals onder meer:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een ontvangst- en wachtlokaal voor de nabestaanden en kennissen;<br>
+2°&nbsp;&nbsp; &nbsp;een lokaal waar het ritueel van de levensbeschouwing volgens dewelke de uitvaartplechtigheid moet plaatshebben, kan verlopen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;een lokaal voor de overhandiging van de as.&nbsp;<br>
+<br>
+<br>
+De openbare ruimten, vermeld in het eerste lid, zijn bestemd voor de nabestaanden en kennissen.
 
 ### ART. 22.
 
-Het technische gedeelte van het crematorium bevat ten minste een koelkamer, een lokaal voor de plaatsing van de doodskist of lijkwade en een oven.
+...
 
 ### ART. 23.
 
@@ -112,7 +123,13 @@ Bij thanatopraxie moeten de gebruikte thanatochemische stoffen de skelettering v
 
 ### ART. 26.
 
-De balseming is enkel toegestaan voor universiteiten van aan de wetenschap geschonken lichamen in afwachting van het gebruik voor studiedoeleinden door universitaire laboratoria.<br /><br />Van het verbod in het voorgaande lid kan in uitzonderlijke gevallen, zoals bij rampsituaties, worden afgeweken op gemotiveerd advies van de gezondheidsinspecteur.<br /><br />De balsemvloeistof wordt dusdanig samengesteld dat ze slechts de minimale dosis aan toxische stoffen bevat die nodig zijn voor de bewaring.<br /><br />Met het oog op toekomstige ruiming wordt de plaats geregistreerd waar de gebalsemde lijken begraven zijn.
+De balseming is enkel toegestaan voor universiteiten van aan de wetenschap geschonken lichamen in afwachting van het gebruik voor studiedoeleinden door universitaire laboratoria.<br>
+<br>
+Van het verbod in het voorgaande lid kan in uitzonderlijke gevallen, zoals bij rampsituaties, worden afgeweken op gemotiveerd advies van de ambtenaar-arts, vermeld in artikel 44, § 3, 2°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid.<br>
+<br>
+De balsemvloeistof wordt dusdanig samengesteld dat ze slechts de minimale dosis aan toxische stoffen bevat die nodig zijn voor de bewaring.<br>
+<br>
+Met het oog op toekomstige ruiming wordt de plaats geregistreerd waar de gebalsemde lijken begraven zijn.
 
 ### ART. 27.
 
@@ -122,7 +139,7 @@ Als de voorschriften voor internationaal lijkenvervoer dat vereisen, is een cons
 
 ### ART. 28.
 
-Zo de overledene een implantaat draagt dat werkt op een batterij, moet deze batterij worden verwijderd voor de begraving of crematie.
+Als de overledene een implantaat draagt dat werkt op een batterij, wordt de batterij verwijderd voor de begraving of crematie, tenzij de batterij niet op eenvoudige wijze kan worden verwijderd uit het lichaam, en de fabrikant of een andere instantie heeft aangetoond dat de batterij geen gevaar oplevert bij de verbranding van het lichaam en onschadelijk is voor het milieu.
 
 ### ART. 29.
 
@@ -186,7 +203,7 @@ Als de as uitgestrooid moet worden, kan ze rechtstreeks in een strooiurne worden
 
 ### ART. 41.
 
-Met de schriftelijke wilsuiting van de overledene, in de zin van artikel 24, § 1, vierde lid, van het decreet, wordt bedoeld hetzij de kennisgeving van de laatste wilsbeschikking over de wijze van lijkbezorging, gericht aan de ambtenaar van de burgerlijke stand, hetzij een testament.
+Met de schriftelijke wilsuiting van de overledene, in de zin van artikel 24, §2 tot en met 4 van het decreet, wordt bedoeld hetzij de kennisgeving van de laatste wilsbeschikking over de wijze van lijkbezorging, gericht aan de ambtenaar van de burgerlijke stand, hetzij een testament.
 
 ### ART. 42.
 
@@ -194,11 +211,11 @@ Met het gezamenlijke schriftelijke verzoek van de betrokken nabestaanden als er 
 
 ### ART. 43.
 
-Als de as van de overledene een andere bestemming krijgt dan de bestemmingen die bepaald zijn in artikel 24, § 1, eerste en tweede lid, van het decreet, wordt er op de toestemming tot crematie de naam, voornamen en het adres van de nabestaande die de zorg voor de as heeft, alsook de exacte plaats waar de as van de overledene zal worden uitgestrooid, begraven of bewaard, aangebracht.
+Als de as van de overledene een andere bestemming krijgt dan de bestemmingen die bepaald zijn in artikel 24, §1, 1° tot en met 3°, van het decreet, wordt er op de toestemming tot crematie de naam, voornamen en het adres van de nabestaande die de zorg voor de as heeft, alsook de exacte plaats waar de as van de overledene zal worden uitgestrooid, begraven of bewaard, aangebracht.
 
 ### ART. 44.
 
-De voorafgaande schriftelijke toestemming van de eigenaar van het terrein, bedoeld in artikel 24, § 1, vierde lid, 1° en 2°, van het decreet, wordt in twee exemplaren opgemaakt. Eén exemplaar wordt bijgehouden door de eigenaar van het terrein, het andere door de nabestaande van de overledene die voor de uitstrooiing of de begraving zorgt.
+De voorafgaande schriftelijke toestemming van de eigenaar van het terrein, vermeld in artikel 24, §1, 4°, van het decreet, wordt in twee exemplaren opgemaakt. Eén exemplaar wordt bijgehouden door de eigenaar van het terrein, het andere door de nabestaande van de overledene die voor de uitstrooiing of de begraving zorgt.
 
 ### ART. 45.
 
