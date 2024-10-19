@@ -2,16 +2,16 @@
   "codex_id": 1014426,
   "title": "Besluit van de Vlaamse Regering van 2006-02-24 tot vaststelling van de wijzen van lijkbezorging, de asbestemming en de rituelen van de levensbeschouwing voor de uitvaartplechtigheid die kunnen opgenomen worden in de schriftelijke kennisgeving van de laatste wilsbeschikking die aan de ambtenaar van de burgerlijke stand kan overgemaakt worden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014426/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "59e03bcbdf5e7e6ec7bacf666b73cc2e1c4132c58030cfb6d3d527f7702b9609",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014426/VolledigDocument?datum=2024-10-19",
+  "source_sha256": "ddeceef7cc0e2658ae5434e5923ce2a4ec2f1b8c05943b552422f248adef54ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014426&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2024-10-19",
   "made": "2006-02-24",
   "gazette": "2006-04-18",
   "numac": 2006035548,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-10-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2024-10-19; future article versions excluded; article text as the API gives it"
 }
