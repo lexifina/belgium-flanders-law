@@ -2,16 +2,16 @@
   "codex_id": 1023645,
   "title": "Besluit van de Vlaamse Regering van 2013-12-20 betreffende de toekenning van subsidies voor gebouwen van de [eredienst en gebouwen] voor de openbare uitoefening van de niet-confessionele morele dienstverlening [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023645/VolledigDocument?datum=2023-04-28",
-  "source_sha256": "2dbb0559e5e582aacd929c36fceffc791a9e0bfc75934cacd0fda2372d8d520e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023645/VolledigDocument?datum=2024-10-19",
+  "source_sha256": "525e279f79ea027bc26264c2f26020828adbc75964f21b9a10def16fddd2ad05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023645&param=informatie",
-  "as_of": "2023-04-28",
+  "as_of": "2024-10-19",
   "made": "2013-12-20",
   "gazette": "2014-01-22",
   "numac": 2014035053,
   "document_start": "2014-02-01",
   "document_end": null,
-  "in_force": "2023-04-28",
+  "in_force": "2024-10-19",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2023-04-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-19; future article versions excluded; article text as the API gives it"
 }

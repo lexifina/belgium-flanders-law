@@ -8,7 +8,15 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° aanvraagdossier : het dossier   waarmee de initiatiefnemer de subsidie, vermeld in artikel 3 van het decreet van   12 juli 2013, aanvraagt;<BR>2° agentschap : het agentschap voor Binnenlands   Bestuur, opgericht bij besluit van de Vlaamse Regering van 28 oktober 2005 tot   oprichting van het intern verzelfstandigd agentschap "Agentschap voor   Binnenlands Bestuur";<BR>3° decreet van 12 juli 2013 : het decreet van 12 juli   2013 houdende toekenning van subsidies voor gebouwen van de eredienst, gebouwen   voor de openbare uitoefening van de niet-confessionele morele dienstverlening en   crematoria;<BR>4° gunningsdossier : het dossier op basis waarvan de   initiatiefnemer de studie of het werk zal gunnen;<BR>5° initiatiefnemer : de   publiekrechtelijk rechtspersoon die het initiatief neemt voor een studie of een   werk, als vermeld in artikel 5, 9 en 13 van het decreet van 12 juli 2013, en   daarvoor een subsidie aanvraagt;<BR>6° minister : de Vlaamse minister, bevoegd   voor de binnenlandse aangelegenheden;<BR>7° principiële belofte van subsidie :   de belofte van subsidie met een voorlopige berekening van het subsidiebedrag op   basis van de raming van de kostprijs van de studie of het werk;<BR>8° vaste   belofte van subsidie : de bevestiging van de principiële belofte van subsidie,   met een herberekening van het subsidiebedrag op basis van het gunningsbedrag van   de studie of het werk.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° aanvraagdossier : het dossier waarmee de initiatiefnemer de subsidie, vermeld in artikel 3 van het decreet van 12 juli 2013, aanvraagt;<br>
+2° agentschap : het agentschap voor Binnenlands Bestuur, opgericht bij besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap voor Binnenlands Bestuur";<br>
+3° decreet van 12 juli 2013 : het decreet van 12 juli 2013 houdende toekenning van subsidies voor gebouwen van de eredienst en gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening;<br>
+4° gunningsdossier : het dossier op basis waarvan de initiatiefnemer de studie of het werk zal gunnen;<br>
+5° initiatiefnemer : de publiekrechtelijk rechtspersoon die het initiatief neemt voor een studie of een werk, als vermeld in artikel 5, 9 en 13 van het decreet van 12 juli 2013, en daarvoor een subsidie aanvraagt;<br>
+6° minister : de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden;<br>
+7° principiële belofte van subsidie : de belofte van subsidie met een voorlopige berekening van het subsidiebedrag op basis van de raming van de kostprijs van de studie of het werk;<br>
+8° vaste belofte van subsidie : de bevestiging van de principiële belofte van subsidie, met een herberekening van het subsidiebedrag op basis van het gunningsbedrag van de studie of het werk.
 
 ## HOOFDSTUK 2 De procedure voor de toekenning van de subsidie
 
@@ -48,7 +56,7 @@ In dit besluit wordt verstaan onder :<BR>1° aanvraagdossier : het dossier   waa
 
 ### ART. 7.
 
-Bij de toekenning van een subsidie voor crematoria worden de aanvragen   behandeld in volgorde van ontvangst van de aanvraagdossiers.<BR>
+...
 
 ## HOOFDSTUK 4 De procedure voor de uitbetaling van de subsidie
 
