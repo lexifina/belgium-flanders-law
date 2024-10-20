@@ -1119,10 +1119,1718 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+## Hoofdstuk 1. Wijziging van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu
+
+### ART 1.
+
+In artikel 9 van het besluit van de Vlaamse Regering tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd bij de besluiten van de Vlaamse Regering van 6 juni 2014, 27 november 2015, 14 juli 2017 en 9 maart 2018, wordt punt 2° opnieuw opgenomen in de volgende lezing:&nbsp;<br>
+“2° hetzij worden uitgevoerd op basis van een omgevingsvergunning voor stedenbouwkundige handelingen die afgeleverd is met toepassing van de wetgeving op de ruimtelijke ordening na advies van het agentschap én op voorwaarde van afwijking overeenkomstig artikel 10 als dat van toepassing is;”.
+
+## Hoofdstuk 2. Wijziging van het besluit van de Vlaamse Regering van 11 oktober 2002 tot bepaling van de wapens die tot de reglementaire uitrusting behoren van sommige ambtenaren van het Agentschap voor Natuur en Bos en tot vaststelling van de bijzondere bepalingen betreffende het voorhanden hebben, het bewaren en het dragen van wapens
+
+### ART 3.
+
+In artikel 2, §1, tweede lid, van het besluit van de Vlaamse Regering van 11 oktober 2002 tot bepaling van de wapens die tot de reglementaire uitrusting behoren van sommige ambtenaren van het Agentschap voor Natuur en Bos en tot vaststelling van de bijzondere bepalingen betreffende het voorhanden hebben, het bewaren en het dragen van wapens wordt de zinsnede “een geweer met getrokken loop, met een kaliber van ten minste 5,6 mm, waarvan de normale trefenergie minstens 980 J op 100 meter afstand van de loopmond bedraagt” vervangen door de zinsnede “een geweer met getrokken loop met een nominaal kaliber van ten minste .22 Engelse duim en groter en bijpassende munitie, waarvan de normale trefenergie minstens 980 J op 100 meter afstand van de loopmond bedraagt, eventueel voorzien van een geluiddemper of van een vizier met beeldomzetter of een elektronische beeldversterker, kunstmatige lichtbronnen of voorzieningen om het dier te verlichten of elk ander instrument om ‘s nachts te schieten”.
+
+## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
+
+### ART 4.
+
+Bijlage XXII bij het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het besluit van de Vlaamse Regering van 19 november 2010 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018, wordt vervangen door bijlage 1, die bij dit besluit is gevoegd.
+
+### ART 5.
+
+Bijlage XXVIII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 april 2014 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018, wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.
+
+### ART 6.
+
+Bijlage XXXI bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 april 2014 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018, wordt vervangen door bijlage 3, die bij dit besluit is gevoegd.
+
+### ART 7.
+
+Bijlage XXXIV bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2018 en vervangen bij het besluit van de Vlaamse Regering van 3 mei 2019, wordt vervangen door bijlage 4, die bij dit besluit is gevoegd.
+
+## Hoofdstuk 4. Wijzigingen van het Soortenbesluit van 15 mei 2009
+
+### ART 8.
+
+Aan artikel 1 worden een punt 24° en 25° toegevoegd, die luiden als volgt:<br>
+“24° taxidienst : een taxidienst voor wilde dieren, met als hoofdactiviteiten het ophalen of wegvangen en vervolgens vervoeren van hulpbehoevende wilde dieren, alsook het vervoeren en terug vrijlaten van gerevalideerde wilde dieren;<br>
+25° hoofd dierenzorg : de persoon die binnen een opvangcentrum verantwoordelijk is voor de dierenzorg.”.
+
+### ART 9.
+
+In artikel 22, §1, laatst gewijzigd bij besluit van de Vlaamse Regering van 25 januari 2019, artikel 31/3, vierde lid, ingevoegd bij besluit van de Vlaamse Regering van 25 januari 2019, artikel 31/7, §1, eerste lid, ingevoegd bij besluit van de Vlaamse Regering van 25 januari 2019, en artikel 31/9, 2° en 5°, &nbsp;ingevoegd bij besluit van de Vlaamse Regering van 25 januari 2019, van het Soortenbesluit van 15 mei 2009 worden de woorden “de website van het agentschap” vervangen door de zinsnede “de website natuurenbos.vlaanderen.be van het agentschap”.
+
+### ART 10.
+
+In artikel 22, §1, laatst gewijzigd bij besluit van de Vlaamse Regering van 25 januari 2019, artikel 31/7, §1, eerste lid, ingevoegd bij besluit van de Vlaamse Regering van 25 januari 2019, bijlage 3, punt 3.5 en 3.7, vervangen bij besluit van de Vlaamse Regering van 25 januari 2019, en bijlage 3/1, punt 3/1.4, ingevoegd bij besluit van de Vlaamse Regering van 25 januari 2019, van hetzelfde besluit wordt de zinsnede “de website www.natuurenbos.be van het agentschap” vervangen door de zinsnede “de website natuurenbos.vlaanderen.be van het agentschap”.
+
+### ART 11.
+
+In artikel 23, tweede lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11 januari 2013, 27 november 2015 en 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in punt 1° worden de woorden “een natuurvergunning” vervangen door de woorden “een vergunning”;&nbsp;<br>
+2° punt 3° wordt vervangen door wat volgt:<br>
+“3° natuurbeheerplannen als vermeld in artikel 16ter van het decreet van 21 oktober 1997 en goedgekeurd overeenkomstig artikel 16octies, alsook de beheerplannen, vermeld in artikel 107, eerste lid, van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;”;<br>
+3° punt 6° en 7° worden opgeheven.
+
+### ART 13.
+
+In artikel 29 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan punt 4° wordt de volgende zinsnede toegevoegd: “, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn”;<br>
+2° er wordt een punt 4°/1 ingevoegd, dat luidt als volgt:<br>
+“4°/1 in voorkomend geval, de te verlenen afwijkingen van de beperkingen van bijlage 3/1, die met het oog op die maatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen van bijlage 3/1 bij dit besluit, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn;”.
+
+### ART 14.
+
+Aan artikel 31/5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+“§3. In afwijking van artikel 31/2, 1°, 3° en 5°, kan het agentschap toestemming tot afwijking verlenen aan erkende voorzieningen voor de opvang van dieren om specimens van invasieve uitheemse soorten die voor de Unie zorgwekkend zijn, te houden en onderling uit te wisselen. Er moet altijd aan al de volgende voorwaarden voldaan zijn:<br>
+1° de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, worden op elk moment gehouden en behandeld in een gesloten omgeving, en alle passende maatregelen worden genomen om voortplanting onmogelijk te maken;<br>
+2° de activiteit waarvoor een afwijking wordt gevraagd, wordt uitgevoerd door personeel met aantoonbare ervaring met de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, of met nauw verwante soorten;<br>
+3° het vervoer naar en van de gesloten omgeving vindt plaats onder omstandigheden die in de afwijking vastgelegd zijn en die de ontsnapping van de invasieve uitheemse diersoorten onmogelijk maken;<br>
+4° de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, worden gemarkeerd of, als dat nodig is, op een andere doeltreffende wijze geïdentificeerd, met behulp van methoden die geen vermijdbare pijn, spanning of lijden veroorzaken;<br>
+5° het risico op ontsnapping, verspreiding of verwijdering wordt op doeltreffende wijze beheerst, rekening houdend met de identiteit, de biologie en de verspreidingsvormen van de soort, de activiteit en de beoogde gesloten omgeving, de interactie met het milieu en andere relevante factoren;<br>
+6° de aanvrager van een afwijking stelt een continu surveillancesysteem en een noodplan, met inbegrip van een uitroeiingsplan, op voor het geval dat specimens ontsnappen of zich verspreiden. De aanvrager legt het noodplan ter goedkeuring voor aan het agentschap. Als er zich een ontsnapping of verspreiding voordoet, voert de aanvrager het noodplan onmiddellijk uit en brengt hij het agentschap daarvan meteen op de hoogte.<br>
+<br>
+Bij een afwijkingsaanvraag verstrekt de aanvrager alle noodzakelijke stukken om het agentschap in staat te stellen te beoordelen of aan de voorwaarden, vermeld in het eerste lid, is voldaan.<br>
+<br>
+De afwijking wordt beperkt tot het aantal invasieve specimens dat de capaciteit van de gesloten omgeving niet overschrijdt.<br>
+<br>
+De afwijking kan niet verleend worden voor specimens van invasieve uitheemse soorten die vallen onder artikel 16, 2.a en 2.b van verordening (EU) nr. 1143/2014.<br>
+<br>
+De afwijking kan wel verleend worden voor specimens van invasieve uitheemse soorten die vallen onder artikel 19 en 31, 4 van verordening (EU) nr. 1143/2014.”.
+
+### ART 15.
+
+Aan artikel 31/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+“Een beheerregeling kan aanvullende beperkingen opleggen op de in bijlage 3/1 bepaalde uitvoering van de bestrijding in de tijd, de middelen waarmee de bestrijding kan worden uitgevoerd, de personen die de bestrijding kunnen uitvoeren, en de verwerking van kadavers, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn.”.
+
+### ART 16.
+
+Aan artikel 31/11 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Een beheerregeling kan aanvullende beperkingen opleggen op de in bijlage 3/1 bepaalde uitvoering van de bestrijding in de tijd, de middelen waarmee de bestrijding kan worden uitgevoerd, de personen die de bestrijding kunnen uitvoeren, en de verwerking van kadavers, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn.”.
+
+### ART 17.
+
+Artikel 33 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Om erkend te worden als opvangcentrum moet het opvangcentrum aan de volgende voorwaarden voldoen :<br>
+1° het opvangcentrum is opgericht op particulier initiatief in de vorm van een vereniging zonder winstoogmerk;<br>
+2° de zetel van het opvangcentrum is gevestigd in het Vlaamse Gewest; In geval het een nieuw initiatief betreft, is het opvangcentrum gelegen in een regio die niet afgedekt wordt door een bestaand erkend opvangcentrum en waar aldus behoefte is aan een substantiële uitbreiding van de opvangcapaciteit voor wilde dieren. Het hoofd van het agentschap stelt ter uitvoering daarvan een kaart op met de regio’s waar er nood is aan bijkomende opvangcapaciteit. Deze kaart staat op de website natuurenbos.vlaanderen.be van het agentschap;<br>
+3° het opvangcentrum voldoet aan de werkingsvoorwaarden, opgenomen in bijlage 4;<br>
+4° het opvangcentrum voldoet aan de Belgische verenigings- en vennootschapswetgeving.<br>
+<br>
+Om een erkenning als opvangcentrum te verkrijgen, moet de aanvraag de volgende gegevens bevatten :<br>
+1° naam en adres van het opvangcentrum;<br>
+2° voor- en achternaam van de beheerder en van het hoofd dierenzorg;<br>
+3° de statuten van de vereniging, bedoeld in het eerste lid, 1°;<br>
+4° de beslissing van het bestuursorgaan of algemene vergadering van de vereniging bedoeld in het eerste lid, 1°, om een aanvraag tot erkenning in te dienen;<br>
+5° bij een eerste aanvraag : het aantonen van drie jaar werking op het vlak van opvang, verzorging en revalidatie van gekwetste en hulpbehoevende wilde dieren. Dat moet gestaafd worden met de nodige bewijsstukken, onder andere werkingsverslag over de voorbije drie jaar en een financieel verslag van de voorbije drie kalenderjaren;<br>
+6° de kwalificaties en ervaring van de beheerder en van het hoofd dierenzorg. Voor het hoofd dierenzorg wordt minstens het diploma van bachelor in de dierenzorg, of een gelijkgesteld opleidingsniveau, of gelijkgestelde ervaring verstaan. Bij een eerste aanvraag wordt dit verder aangevuld met een verslag van de doorlopen stage door het hoofd dierenzorg van minimaal vier maanden bij een erkend opvangcentrum;<br>
+7° een opsomming en een plan van de aanwezige accommodatie;<br>
+8° een schriftelijke overeenkomst met een dierenarts waarin die zich ertoe verbindt regelmatig toezicht te houden en alle nodige diergeneeskundige handelingen op zich te nemen.<br>
+<br>
+De erkenning kan verlengd worden. De aanvraag tot verlenging van de erkenning moet minstens drie maanden voor de lopende erkenning afloopt worden ingediend bij het agentschap.<br>
+<br>
+Bovengenoemde persoonsgegevens worden, conform artikel 5 van de Algemene Verordening Gegevensbescherming, slechts in identificeerbare vorm bewaard gedurende 10 jaar, zoals gestipuleerd in artikel 2262bis van het Burgerlijk Wetboek. Na afloop van deze bewaartermijn worden alle persoonsgegevens verwijderd en enkel niet-identificeerbare data bewaard voor statistische doeleinden.”.
+
+### ART 18.
+
+In artikel 34, tweede lid, punt 3° van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt de zinsnede ‘de beheerder van het erkende opvangcentrum’ vervangen door de zinsnede ‘de beheerder of het hoofd dierenzorg van het erkende opvangcentrum’.
+
+### ART 21.
+
+In artikel 40, paragraaf 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt punt 2° vervangen door wat volgt:<br>
+“2° een werkingsverslag over het voorbije jaar, waarin duidelijk gemaakt wordt dat het opvangcentrum blijvend voldoet aan de voorwaarden om in aanmerking te komen voor erkenning en subsidiëring. Dit verslag wordt opgesteld conform het sjabloon van het hoofd van het agentschap, dat op de website natuurenbos.vlaanderen.be van het agentschap staat;”.
+
+### ART 22.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een hoofdstuk 5/1, dat bestaat uit artikels 40/1 tot en met 40/9, ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Hoofdstuk 5/1 Werking van taxidiensten voor wilde dieren<br>
+<br>
+Afdeling 1 Erkenning van taxidiensten voor wilde dieren<br>
+<br>
+Art. 40/1<br>
+<br>
+Taxidiensten voor wilde dieren kunnen erkend worden door het agentschap, voor een periode van maximaal drie jaar.<br>
+<br>
+Art. 40/2<br>
+<br>
+Om erkend te worden als taxidienst voor wilde dieren moet de taxidienst aan de volgende voorwaarden voldoen:<br>
+1° de taxidienst is opgericht op particulier initiatief;<br>
+2° de zetel van de taxidienst is gevestigd in het Vlaamse Gewest;<br>
+3° de taxidienst heeft een samenwerkingsovereenkomst met één of meerdere erkende opvangcentra, waarin minstens volgende zaken vermeld worden:<br>
+&nbsp; a) de wijze waarop de taxidienst een interventie voorafgaand aan het opvangcentrum meldt;<br>
+&nbsp; b) de wijze waarop het opvangcentrum een efficiënte informatiedoorstroom inzake dierenwelzijn, wetgeving, epidemiologie, quarantainemaatregelen en bioveiligheid aan de taxidienst levert;<br>
+4° de taxidienst voldoet aan de werkingsvoorwaarden opgenomen in Bijlage 4, punten A, 10°, B en D, die eveneens gelden voor opvangcentra voor wilde dieren.<br>
+<br>
+Om een erkenning als taxidienst te verkrijgen, moet de aanvraag de volgende gegevens bevatten :<br>
+1° naam en adres van de taxidienst;<br>
+2° voor- en achternaam van de coördinator;<br>
+3° de statuten van de vereniging, bedoeld in het eerste lid, 1°;<br>
+4° de beslissing van het bestuursorgaan of algemene vergadering van de vereniging, bedoeld in het eerste lid, 1°, om een aanvraag tot erkenning in te dienen;<br>
+5° de kwalificaties en ervaring van de coördinator inzake het vangen, hanteren en vervoeren van wilde dieren;<br>
+6° een schriftelijke samenwerkingsovereenkomst met één of meerdere erkende opvangcentra.<br>
+<br>
+De erkenning kan verlengd worden. De aanvraag tot verlenging van de erkenning moet minstens drie maanden voor de lopende erkenning afloopt worden ingediend bij het agentschap.<br>
+<br>
+Art. 40/3<br>
+<br>
+De coördinator zorgt ervoor dat de activiteiten van de taxidienst verlopen in overeenstemming met alle wettelijke verplichtingen, inzonderheid de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij en het dierenwelzijn.<br>
+<br>
+De erkenning kan, nadat de beheerder voorafgaandelijk gehoord is, op elk ogenblik worden ingetrokken als blijkt dat:<br>
+1° de erkenning werd verkregen op grond van valse verklaringen of documenten;<br>
+2° de coördinator of de taxidienst de opgelegde voorwaarden niet naleeft of er niet langer aan voldoet;<br>
+3° de coördinator wordt veroordeeld wegens overtredingen van de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij of het dierenwelzijn.<br>
+<br>
+Art. 40/4<br>
+<br>
+§ 1. Erkende taxidiensten mogen voor het vangen, hanteren, vervoeren of vrijlaten van specimens van beschermde diersoorten afwijken van de volgende bepalingen, op voorwaarde dat het gekwetste of hulpbehoevende dieren betreft waarvoor er geen andere bevredigende oplossing bestaat :<br>
+1° artikel 10, 12, 16 en 17. De afwijkingsmogelijkheid van artikel 12 heeft betrekking op het verbod om specimens van beschermde soorten onder zich te hebben of te vervoeren;<br>
+2° artikel 19, 23, 26 en 29 van het Jachtdecreet.<br>
+<br>
+§ 2. De medewerkers moeten in het bezit zijn van een identificatiebewijs dat uitgereikt is door de taxidienst. Dat identificatiebewijs is persoonlijk en op naam.<br>
+<br>
+Art. 40/5<br>
+<br>
+§ 1. De dieren worden rechtstreeks van de vindplaats naar een erkend opvangcentrum overgebracht waarbij voorkeur wordt gegeven aan het opvangcentrum dat het snelst bereikt kan worden, ook al is dit niet het opvangcentrum waarmee de taxidienst een samenwerkingsovereenkomst heeft. Dit sluit niet uit dat sommige dieren naar een andere opvangcentrum kunnen worden vervoerd, bijvoorbeeld wanneer dit opvangcentrum een specifieke expertise of infrastructuur bezit die het herstel van het dier beter ten goede komt.<br>
+<br>
+§ 2. De taxidienst houdt een register bij waarin de volgende gegevens worden opgenomen :<br>
+a) de binnengebrachte dieren per opvangcentrum, met vermelding van de datum en plaats waarop ze zijn opgehaald;<br>
+b) de weer vrijgelaten dieren per opvangcentrum, met vermelding van de datum en de plaats van vrijlating.&nbsp;<br>
+<br>
+Onverminderd de reguliere rapportageverplichting moet het register te allen tijde door het agentschap raadpleegbaar zijn.<br>
+<br>
+§ 3. Dieren die tijdens het transport sterven, worden alsnog overgebracht naar het opvangcentrum.&nbsp;<br>
+<br>
+Art. 40/6<br>
+<br>
+Voor 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de aanvraag betrekking heeft, bezorgt de taxidienst de volgende documenten aan het agentschap :<br>
+1° een werkingsverslag over het voorbije jaar, waarin duidelijk gemaakt wordt dat de taxidienst blijvend voldoet aan de voorwaarden om in aanmerking te komen voor de erkenning. Dit verslag wordt opgesteld conform het sjabloon van het hoofd van het agentschap, dat op de website natuurenbos.vlaanderen.be van het agentschap staat;<br>
+2° een afschrift van het register van de wilde dieren die vervoerd werden tijdens het afgelopen kalenderjaar;<br>
+3° een afschrift van het register van uitgereikte identificatiebewijzen.<br>
+<br>
+Afdeling 2 Subsidiëring van taxidiensten voor wilde dieren<br>
+<br>
+Art. 40/7<br>
+<br>
+Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies verlenen aan de erkende taxidiensten.”.
+
+### ART 24.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een artikel 40/9 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 40/9<br>
+<br>
+§ 1. De taxidienst dient een aanvraag voor subsidiëring in bij het agentschap, voor 31 augustus van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft.<br>
+<br>
+§ 2. De aanvraag bevat :<br>
+1° het bewijs van erkenning;<br>
+2° een kaart die duidelijk het werkingsgebied van de taxidienst weergeeft;<br>
+3° een rekeningnummer van de taxidienst waarop de subsidie gestort mag worden.<br>
+<br>
+§ 3. Het agentschap brengt de taxidienst binnen negentig dagen op de hoogte van de beslissing van de minister over de toekenning van de subsidie en het bedrag van de toegekende subsidie.<br>
+<br>
+De subsidie wordt als volgt uitbetaald :<br>
+1° 90 % bij de ondertekening van de beslissing die de subsidie toekent;<br>
+2° 10 % na de voorlegging van de stukken, vermeld in Art. 40/6.”.
+
+### ART 25.
+
+In artikel 41 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt paragraaf 2 opgeheven.
+
+### ART 26.
+
+In artikel 42 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+“De gesloten pootring, vermeld in artikel 41, §1, 1°, moet voldoen aan de voorwaarden die de minister vastgesteld heeft en die gericht zijn op de kenmerken en de kwaliteit van de ring, om fraude te vermijden.”.&nbsp;
+
+### ART 27.
+
+In artikel 48, eerste lid, 2°, b), van hetzelfde besluit, worden de woorden “het provinciale hoofd van het agentschap voor Natuur en Bos” vervangen door de woorden “het agentschap”.
+
+### ART 28.
+
+In artikel 51, eerste lid, van hetzelfde besluit wordt de zinsnede “het provinciale hoofd van het agentschap van de provincie waar de zangwedstrijd, tentoonstelling of activiteit plaatsvindt” vervangen door de woorden “het agentschap”.
+
+### ART 29.
+
+In bijlage 1 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:<br>
+1° tussen de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Phoca vitulina</td>
+			<td style="height:15px; width:275px">gewone zeehond</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“en de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:141px">Plecotus austriacus</td>
+			<td style="height:15px; width:255px">grijze grootoorvleermuis</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+wordt de volgende rij ingevoegd:<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Canis aureus</td>
+			<td style="height:15px; width:275px">goudjakhals</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“;<br>
+2° tussen de rij &nbsp;<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:151px">Carduelis carduelis</td>
+			<td style="height:15px; width:246px">putter</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+en de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Ardeola ralloides</td>
+			<td style="height:15px; width:275px">ralreiger</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+wordt de volgende rij ingevoegd:<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Corvus corax</td>
+			<td style="height:15px; width:275px">raaf</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“;<br>
+3° tussen de rij&nbsp;<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:179px">Rhodeus sericeus amarus</td>
+			<td style="height:15px; width:217px">bittervoorn</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+en de rij<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Alosa fallax</td>
+			<td style="height:15px; width:275px">fint</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“<br>
+wordt de volgende rij ingevoegd:<br>
+“
+<table border="1" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="height:15px; width:121px">Anguilla anguilla</td>
+			<td style="height:15px; width:275px">Europese aal</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="height:15px; vertical-align:top; width:19px">X</td>
+			<td style="height:15px; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+“.
+
+### ART 30.
+
+In bijlage 2 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in punt A wordt punt 1° opgeheven;&nbsp;<br>
+2° in punt A, 13°, wordt tussen het woord “vallen” en de woorden “die qua werking en gebruik” de zinsnede “, vangkooien en veerklemmen,” ingevoegd;<br>
+3° in punt A wordt punt 15° vervangen door wat volgt:&nbsp;<br>
+“15° vergif en giftig of verdovend lokaas waarvan het bezit toegestaan is, dat op een niet-selectieve wijze wordt gebruikt;”;&nbsp;<br>
+4° in punt C wordt punt 1° vervangen door wat volgt:<br>
+“1° vogelvangstnetten of hun bijbehorende slagveerstokken: netten die in een bepaald kader opgespannen kunnen worden en een maaswijdte hebben tussen 11 en 29 mm, gemeten over het garen van knoop tot knoop, en die vervaardigd zijn uit synthetische, kunstmatige of natuurlijke vezels, waarvan het garen is samengesteld uit twee tot acht getorste of geweven draden;”;<br>
+5° aan punt C worden een punt 4° tot en met 6° toegevoegd, die luiden als volgt:<br>
+“4° strikken en stroppen: allerlei types van strikken of stroppen met de bedoeling om dieren te vangen, vast te houden of te doden;<br>
+5° veerklemmen: klemmen die werken met een veersysteem en die voorzien zijn van bewegende slagmechanismen, met uitzondering van:<br>
+a)&nbsp;de Conibear-, grond- en lokaasklemmen voor het bezit en gebruik door professionele muskusrattenbestrijders, volgens de voorwaarden die opgenomen zijn in een goedgekeurde beheerregeling;&nbsp;<br>
+b)&nbsp;de selectieve muizen- en rattenklemmen die voorzien zijn van één bewegend slagmechanisme, waarvan de grondvlakafmetingen maximaal 20 x 10 cm bedragen;<br>
+c)&nbsp;de selectieve mollenklemmen;<br>
+6° verboden gifstoffen en verboden giftig of verdovend lokaas: allerlei toxische stoffen of preparaten die daarmee vervaardigd zijn, waarvan de erkenning en het toegelaten bezit al verlopen zijn en waarvan het gebruik in aard en staat kan dienen om dieren te doden, alsook de gifstoffen en giftig of verdovend lokaas die niet opgeslagen zijn in de oorspronkelijke verpakking.”.&nbsp;
+
+### ART 31.
+
+In bijlage 3 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in punt 3.3 wordt het vijfde lid vervangen door wat volgt:<br>
+“Het gebruik van vuurwapens, vermeld in het eerste lid, 1°, is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving. Het is verboden vuurwapens als vermeld in het eerste lid, 1°, te dragen in elk van de volgende situaties:<br>
+1°&nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+2°&nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+3°&nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.”;<br>
+2° in punt 3.3, zesde lid, wordt de zinsnede “eerste lid, 2°, 3° en 4°,” vervangen door de zinsnede “eerste lid, 3° en 4°,”;<br>
+3° aan punt 3.3, zesde lid, 3°, worden de volgende zinnen toegevoegd:<br>
+“Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht uitgevoerd worden.”;<br>
+4° aan punt 3.3, zesde lid, 4°, wordt de volgende zin toegevoegd:<br>
+“Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.”;<br>
+5° aan punt 3.5, vierde lid, 5°, wordt de zinsnede “, en die bovendien op redelijke wijze toegankelijk zijn” toegevoegd.
+
+### ART 32.
+
+In bijlage 3/1 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan punt 3/1.2 wordt de volgende zin toegevoegd:&nbsp;<br>
+“Voor de bestrijding van uitheemse watervogels is in de periode van 15 augustus tot en met 30 september het gebruik van vuurwapens, luchtdrukwapens en gasdrukwapens alleen toegestaan tussen officiële zonsopgang en officiële zonsondergang.”;<br>
+2° in punt 3/1.3, 2°, wordt punt b) vervangen door wat volgt:<br>
+“b) de luchtdruk- en gasdrukwapens waarbij gebruikgemaakt wordt van munitie met een diameter van minimaal 4,5 millimeter, en waarbij een minimale trefenergie van 17 J op 35 meter van de loopmond wordt bereikt. Voor soorten waarbij het gemiddelde gewicht van een volwassen dier hoger dan twee kilogram is, wordt gebruikgemaakt van munitie met een diameter van minimaal 6,35 millimeter, waarbij een minimale trefenergie van 40 J op 35 meter van de loopmond wordt bereikt. De lijst van deze soorten wordt bekend gemaakt op de website natuurenbos.vlaanderen.be van het agentschap;”;<br>
+3° aan punt 3/1.3, 5°, a) wordt de volgende zin toegevoegd:<br>
+“Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht uitgevoerd worden.”;&nbsp;<br>
+4° aan punt 3/1.3, 5°, c), wordt de volgende zin toegevoegd:<br>
+“Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.”;&nbsp;<br>
+5° in punt 3/1.3, 6°, wordt de zinsnede “binnen 24 uur na het opstellen” vervangen door de zinsnede “binnen 24 uur na het vangen”;&nbsp;<br>
+6° aan punt 3/1.3 worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt:<br>
+“7° de bestrijding met vangtuigen vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd voor het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of een huiszoekingsbevel nodig is, en die bovendien op redelijke wijze toegankelijk zijn;<br>
+8° het gebruik van vuur-, luchtdruk- en gasdrukwapens is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving. Het gebruik van vuurwapens is alleen toegestaan voor de bestrijding van uitheemse zoogdieren, vogels, amfibieën en reptielen. Het is verboden vuur-, luchtdruk- en gasdrukwapens te dragen in elk van de volgende situaties:<br>
+a)&nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+b)&nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+c)&nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.”;&nbsp;<br>
+7° aan punt 3/1.6 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“Als de schriftelijke toestemming tot bestrijding van de eigenaar, de verhuurder, de exploitant of de grondgebruiker of grondgebruikers van het terrein waar de bestrijding plaatsvindt, wel het vangen, maar niet het doden van dieren omvat, kunnen de dieren worden gehouden in voorzieningen voor de opvang van dieren volgens de bepalingen van artikel 31/5, §3.”.
+
+### ART 33.
+
+In bijlage 4 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht: &nbsp;<br>
+1° aan punt A, 1°, wordt de zinssnede “, of gaat een samenwerking met een taxidienst voor wilde dieren aan” toegevoegd;<br>
+2° in punt A, 2°, wordt de zinssnede “telefoon en eventueel een antwoordapparaat of mobiele telefoon” vervangen door de zinssnede “telefoon met antwoordapparaat of mobiele telefoon met actieve voicemail”;&nbsp;<br>
+3° in punt A, 3°, wordt het woord “competente” opgeheven;<br>
+4° aan punt A worden een punt 9° en een punt 10° toegevoegd, die luiden als volgt:<br>
+“9° het opvangcentrum ondersteunt de overheid bij de staalname bij de opvang van hulpbehoevende wilde dieren in het kader van het wildedierenziektebeleid van het agentschap, en bij de te nemen preventieve maatregelen bij de opvang van hulpbehoevende wilde dieren in het kader van het wildedierenziektebeleid van het agentschap;<br>
+10° het opvangcentrum of in voorkomend geval de taxidienst voldoet aan de noodzakelijke kwaliteitsstandaarden die het hoofd van het agentschap beschreven heeft. De kwaliteitsstandaarden staan op de website natuurenbos.vlaanderen.be van het agentschap. Ingeval het hoofd van het agentschap noodzakelijke kwaliteitsstandaarden toevoegt of wijzigt, dient het opvangcentrum hieraan te voldoen binnen de termijn die door het hoofd van het agentschap wordt vastgelegd. Het voldoen aan de kwaliteitsstandaarden wordt gedocumenteerd in het werkingsverslag, zoals vermeld in artikel 40, §4, 2°.”;&nbsp;<br>
+5° in punt B wordt punt 3° vervangen door wat volgt:<br>
+“3° de dieren die worden gevangen, moeten worden vervoerd naar een geschikte plaats om hen vrij te laten of, als dat nodig is, naar een erkend opvangcentrum voor verdere verzorging. &nbsp;Er moet steeds een voorafgaande toestemming zijn van de eigenaar en, in voorkomend geval, de gebruiker, op wiens terrein de dieren worden vrijgelaten. Dieren die behoren tot een invasieve uitheemse soort, als vermeld in artikel 3, §1, eerste lid, 4°, moeten onverwijld worden vervoerd naar een voorziening met het oog op het euthanaseren ervan, tenzij aan het opvangcentrum een afwijking is verleend als vermeld in artikel 31/5, §3;”;<br>
+6° in punt D wordt punt 6° vervangen door wat volgt:<br>
+“6° dieren die behoren tot een uitheemse soort of tot een gedomesticeerde soort, of inheemse dieren die afkomstig zijn van een inbeslagname en die hun plaats in de natuur niet meer kunnen innemen, mogen niet in het wild worden vrijgelaten. Die dieren moeten worden geplaatst op een locatie die daarvoor geschikt is. Dieren die behoren tot een invasieve uitheemse soort, als vermeld in artikel 3, §1, eerste lid, 4°, moeten worden vervoerd naar een voorziening met het oog op het euthanaseren ervan, tenzij aan het opvangcentrum &nbsp;een afwijking is verleend als vermeld in artikel 31/5, §3;”.
+
+## Hoofdstuk 5. Wijzigingen van het Soortenschadebesluit van 3 juli 2009
+
+### ART 34.
+
+In artikel 1 van het Soortenschadebesluit van 3 juli 2009, gewijzigd bij het besluit van de Vlaamse Regering van 15 juni 2018, worden de punten 7° en 8° vervangen door wat volgt:&nbsp;<br>
+“7° Schadelijder : degene die, op het ogenblik van het ontstaan van de wildschade of de schade door een beschermde soort, op basis van een titel van eigendom, erfpacht, schriftelijke pacht- of gebruiksovereenkomst, uitbater of gebruiker is van het geteisterde goed. Voor zover het gaat over wildschade of schade door een beschermde soort aan gronden met landbouw- of tuinbouwbestemming, of aan de teelten of oogsten op deze gronden, moet de schadelijder kunnen aantonen voor de betrokken percelen geregistreerd te zijn op basis van het decreet van 22 december 2006 houdende een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid. Voor zover het gaat over wildschade of schade door een beschermde soort aan vee, moet de schadelijder kunnen aantonen voor de betrokken dieren geregistreerd te zijn op basis van het Koninklijk besluit van 20 mei 2022 betreffende de identificatie en de registratie van bepaalde hoefdieren, pluimvee, konijnen en bepaalde vogels;<br>
+8° vee: runderen, varkens, paardachtigen, schapen, moeflon, geiten, steenbok, alpaca, guanaco, lama, hertachtigen, pluimvee, loopvogels en konijnen, alsook honden die gehouden worden om vee te hoeden.”.
+
+### ART 35.
+
+In artikel 4, §2, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 april 2014, worden de woorden “de voor de landbouw nuttige dieren” vervangen door het woord “vee”.
+
+### ART 36.
+
+In artikel 12, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 april 2014, worden de woorden “voor landbouw nuttige dieren” vervangen door het woord “vee”.
+
+## Hoofdstuk 6. Wijzigingen van het besluit van de Vlaamse Regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij
+
+### ART 37.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° punt 4°, 5°, 8°, 9° en 10° worden opgeheven;<br>
+2° er wordt een punt 15° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“15° nachtvisserij: vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang.”.
+
+### ART 38.
+
+Artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 12. §1. Het vissen is onderworpen aan de volgende beperkingen:<br>
+1°&nbsp;het is verboden te vissen in de periode van 16 april tot en met 31 mei;<br>
+2°&nbsp;het is verboden te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang;<br>
+3°&nbsp;het is verboden te vissen op zalmachtigen van 1 oktober tot en met 28 februari. Elke zalmachtige die toevallig gevangen wordt, wordt onmiddellijk en voorzichtig in het water van herkomst vrijgelaten;&nbsp;<br>
+4°&nbsp;in de volgende wateren geldt het hele jaar door een verbod op het gebruik van aasvissen en wordt elke gevangen vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten:<br>
+&nbsp; a)&nbsp;de Zwalm en de zijwaterlopen die uitmonden in de Zwalm;<br>
+&nbsp; b)&nbsp;de IJse en de zijwaterlopen die uitmonden in de IJse, uitgezonderd de vijvers die in verbinding staan met de IJse en uitgezonderd de vijvers die in verbinding staan met de zijwaterlopen die uitmonden in de IJse.<br>
+<br>
+§2. In afwijking van paragraaf 1, 1°, is het toegestaan te vissen in de periode van 16 april tot en met 31 mei in de aangekruiste wateren van de kolom “vissen in paaitijd” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
+<br>
+§3. In afwijking van paragraaf 1, 1°, is het vliegvissen met kunstaas met een totale lengte van maximaal 2 centimeter in de periode van 16 april tot en met 31 mei toegestaan in alle wateren. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
+<br>
+In deze paragraaf wordt verstaan onder vliegvissen: de hengeltechniek waarbij gebruik gemaakt wordt van het gewicht van de lijn om het aas, de kunstvlieg, te werpen.<br>
+<br>
+§4. In afwijking van paragraaf 1, 2°, is het toegestaan te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang in de aangekruiste wateren van de kolom “nachtvisserij” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten. Daarbij mag een visser geen vis in het bezit hebben die buiten de periode van nachtvisserij is gevangen. Het gebruik van aasvissen en het gebruik van kunstaas met een totale lengte van meer dan 2 centimeter is verboden.&nbsp;<br>
+<br>
+§5. In afwijking van paragraaf 1, 1° en 2°, is het gedurende het hele jaar door in alle wateren toegestaan met één peur op paling te vissen. Tijdens het peuren mag geen andere hengel gebruikt worden. Het gebruik van een peurnet of peurbak is toegestaan om de paling op te vangen die met de peur gevangen is.”.
+
+### ART 39.
+
+In artikel 13 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt punt 4° vervangen door wat volgt:&nbsp;<br>
+“4° aasvissen gebruiken in de periode van 1 maart tot en met 31 mei;”.
+
+### ART 40.
+
+In artikel 15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 juli 2018, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan paragraaf 3, eerste lid, wordt een punt 3° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“3° zeevissoorten: voor zeevissoorten gelden als minimummaten de minimuminstandhoudingsreferentiegrootten, vermeld in deel A van bijlage V bij verordening (EU) 2019/1241 van het Europees Parlement en de Raad van 20 juni 2019 betreffende de instandhouding van visbestanden en de bescherming van mariene ecosystemen door middel van technische maatregelen, tot wijziging van de Verordeningen (EG) nr. 1967/2006 en (EG) nr. 1224/2009 van de Raad en de Verordeningen (EU) nr. 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 en (EU) 2019/1022 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EG) nr. 894/97, (EG) nr. 850/98, (EG) nr. 2549/2000, (EG) nr. 254/2002, (EG) nr. 812/2004 en (EG) nr. 2187/2005 van de Raad.”;&nbsp;<br>
+2° paragraaf 7 wordt vervangen door wat volgt:&nbsp;<br>
+“§7. In afwijking van paragraaf 1 en 5, in afwijking van artikel 12, §2 en §4, en met behoud van de toepassing van paragraaf 3, 3°, mag een visser het hele jaar door, zowel overdag als tijdens de nachtvisserij, een onbeperkt aantal dode zeevissoorten vervoeren en tijdens het hengelen in zijn bezit houden. Tijdens de nachtvisserij is het gebruik van zeevissoorten als aasvis verboden.<br>
+In het eerste lid wordt verstaan onder zeevissoorten: de vissoorten waarvan de voortplanting plaatsvindt op zee, met uitzondering van paling.”.
+
+### ART 41.
+
+In artikel 16 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 juli 2018, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in paragraaf 1 wordt punt 1° vervangen door wat volgt:&nbsp;<br>
+“1° minstens één maand vooraf wordt toelating gevraagd aan het agentschap. Die toelating wordt door de wedstrijdverantwoordelijke getoond op elk verzoek van de officieren van de gerechtelijke politie en van de toezichthouders die belast zijn met het toezicht op de naleving van de regelgeving over de riviervisserij;”;<br>
+2° in paragraaf 1 wordt een tweede lid toegevoegd dat luidt als volgt:<br>
+“Bij tijdige aanvraag wordt de toelating zoals bedoeld in het eerste lid, 1°, standaard door het agentschap verleend, behalve in de volgende gevallen:<br>
+1° de aanvrager is de voorwaarden van eerdere toelatingen met betrekking tot hengelvangstregistratie nog niet nagekomen;<br>
+2° er zijn meerdere aanvragen voor wedstrijden die op dezelfde locatie en tijdstip plaats vinden. In dat geval wordt een overleg georganiseerd tussen de betrokken aanvragers waarbij gezocht wordt naar een alternatieve locatie of tijdstip voor de wedstrijden. Het agentschap kan zich hierbij laten bijstaan door een hengelvereniging die een overkoepelende werking heeft op niveau van Vlaanderen. Indien bij dit overleg geen consensus wordt bereikt, wordt de toelating verleend op basis van volgende afnemende prioritering:<br>
+a) internationale wedstrijden met deelnemers uit meer dan één land;<br>
+b) nationale wedstrijden met deelnemers uit meer dan één provincie;<br>
+c) lokale wedstrijden met deelnemers uit dezelfde provincie;<br>
+d) de wedstrijd met de meeste deelnemers.”;<br>
+3° in paragraaf 2 wordt het eerste lid vervangen door wat volgt:<br>
+“In afwijking van artikel 12, §2, artikel 13, eerste lid, 8°, en artikel 15, §1 en §2, mogen vissen het hele jaar door zonder beperking in aantal bewaard worden in een leefnet tijdens een wedstrijd die voldoet aan de voorwaarden, vermeld in paragraaf 1.”;<br>
+4° er wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+“§3. Met behoud van de toepassing van artikel 9, 1°, zijn de deelnemers aan een wedstrijd vrijgesteld van het bezit van een groot visverlof. Ze moeten wel een gewoon visverlof bezitten tijdens de duur van de wedstrijd.”.&nbsp;
+
+### ART 42.
+
+In artikel 18 van hetzelfde besluit wordt het woord “visplassen” vervangen door het woord “wateren”.
+
+### ART 43.
+
+Bijlage 3 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt vervangen door bijlage 5, die bij dit besluit is gevoegd.
+
+## Hoofdstuk 7. Wijzigingen van het besluit van de Vlaamse Regering van 26 april 2019 houdende de preventie, surveillance en bestrijding van klassieke en Afrikaanse varkenspest bij wilde zwijnen ter uitvoering van het Wildedierenziektedecreet van 28 maart 2014
+
+### ART 44.
+
+In artikel 5, 6, 8, 12, 13, 14, 15 en 18 van het besluit van de Vlaamse Regering van 26 april 2019 houdende de preventie, surveillance en bestrijding van klassieke en Afrikaanse varkenspest bij wilde zwijnen ter uitvoering van het Wildedierenziektedecreet van 28 maart 2014 wordt de zinsnede “de website www.natuurenbos.be van het agentschap” vervangen door de zinsnede “de website natuurenbos.vlaanderen.be van het agentschap”.&nbsp;
+
+## Hoofdstuk 8. Wijzigingen van het Jachtadministratiebesluit van 25 april 2014
+
+### ART 45.
+
+In artikel 7, eerste lid, vervangen bij besluit van de Vlaamse Regering van 15 april 2016, artikel 12, eerste en tweede lid, vervangen bij besluit van de Vlaamse Regering van 15 april 2016, artikel 24, §1, tweede lid, artikel 28, tweede lid, artikel 37, tweede en derde lid, artikel 44, §2, eerste lid, artikel 47, §2, eerste lid, en artikel 50, §1, van het Jachtadministratiebesluit van 25 april 2014 wordt de zinsnede “de website www.natuurenbos.be van het agentschap” telkens vervangen door de zinsnede “de website natuurenbos.vlaanderen.be van het agentschap”.
+
+### ART 46.
+
+Aan artikel 3 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+“Voor de controle van de rechtmatigheid van jachtverloven en jachtvergunningen baseert de arrondissementscommissaris zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister, de gegevens uit het strafregister en de gegevens uit de databanken over wapens.”.&nbsp;
+
+### ART 47.
+
+Artikel 4 van hetzelfde besluit wordt opgeheven.
+
+### ART 48.
+
+In artikel 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 april 2016, worden in het derde lid de zinnen ”Dat geldt niet in de situatie, vermeld in artikel 9, wat betreft de documenten vermeld in het tweede lid, 3° en 4°. Personen die zich in die situatie bevinden, moeten de documenten in kwestie wel bij het aanvraagformulier voegen.” vervangen door de zinnen “Dat geldt niet in de situatie, vermeld in artikel 9, voor het document, vermeld in het tweede lid, 4°. Personen die zich in die situatie bevinden, moeten het document in kwestie wel bij het aanvraagformulier voegen.”.
+
+### ART 49.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 april 2016, wordt de zinsnede “De volgende personen zijn vrijgesteld van het voorleggen van het uittreksel, vermeld in artikel 7, tweede lid, 2°, en van het getuigschrift, vermeld in artikel 7, tweede lid, 4°” vervangen door de zinsnede “In afwijking van artikel 7, tweede lid voegen de volgende personen steeds een getuigschrift toe zoals bedoeld in artikel 7, tweede lid, 4° aan hun aanvraag om een jachtverlof te verkrijgen”.
+
+### ART 50.
+
+In artikel 9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 april 2016, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid, punt 4° wordt de zinsnede “, en voor 1 juli 2024, en voor zover de titularis beschikt over een geldig Vlaams jachtverlof voor het jachtseizoen dat voorafgaat aan het jachtseizoen waarvoor het jachtverlof wordt aangevraagd” toegevoegd;<br>
+2° er wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+“Als het Waalse Gewest of de landen, vermeld in het derde lid, andere bewijzen van het slagen voor het jachtexamen erkennen dan het geldig getuigschrift van het slagen voor het jachtexamen in het Vlaamse Gewest of een gelijkwaardig bewijs van het slagen voor het jachtexamen, vermeld in het eerste lid, geldt de &nbsp;gelijkwaardigheid, vermeld in het derde lid, alleen als het jachtverlof is afgeleverd op basis van een geldig getuigschrift van het slagen voor het jachtexamen in het Vlaamse Gewest of een gelijkwaardig bewijs van het slagen voor het jachtexamen als vermeld in het eerste lid, behoudens voor personen die vrijgesteld zijn van het voorleggen van een jachtexamengetuigschrift in het land of gewest waarin het jachtverlof is afgeleverd.”.
+
+### ART 51.
+
+Artikel 13 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 13. De arrondissementscommissaris weigert aan de volgende personen een jachtverlof of een jachtvergunning af te leveren:<br>
+1° de personen die geschorst zijn, ontzet zijn of vervallen verklaard zijn van het recht om wapens voorhanden te hebben of te dragen, voor de duur van deze maatregel;<br>
+2° de personen die minder dan 18 jaar oud zijn;<br>
+3° de personen die veroordeeld zijn wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 voor het uitzetten van wilde zwijnen. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+4° de personen die veroordeeld zijn wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan, anders dan deze benoemd onder punt 3. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+5° de personen die veroordeeld zijn wegens het moedwillig schieten of vangen van in het wild levende specimen van soorten, waarvan het afschot of de vangst niet is toegelaten volgens het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+6° de personen die veroordeeld zijn wegens een jachtmisdrijf, gepleegd met verboden wapens, in bende, bij nacht, met verboden tuigen of met motorvoertuigen. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+7° de personen die veroordeeld zijn wegens een jachtmisdrijf, anders dan deze benoemd onder punt 3, 4, 5 of 6. Het jachtverlof of de jachtvergunning worden geweigerd voor een termijn van twaalf maanden na de veroordeling;&nbsp;<br>
+8° de personen die zich niet hebben gehouden aan de strafrechtelijke verplichtingen die volgen uit een veroordeling wegens jachtmisdrijf. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+9° de personen die veroordeeld zijn wegens een schending van artikel 10, §1, artikel 16 of artikel 31/2, 7°, van het Soortenbesluit van 15 mei 2009. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+10° de personen die veroordeeld zijn wegens een misdrijf waarbij daden van geweld of weerspannigheid zijn gepleegd. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+11° de personen die geheel of ten dele vervallen verklaard zijn van de rechten, vermeld in artikel 123sexies van het Strafwetboek, voor de duur van deze maatregel;<br>
+12° de personen die als pleger worden geïdentificeerd in een proces verbaal, opgesteld door een verbalisant, voor vastgestelde feiten zoals bedoeld in de punten 3°, 4°, 5°, 6°, 7°, 9° en 10°. Deze bepaling geldt alleen in afwachting van de gerechtelijke uitspraak.<br>
+<br>
+De termijnen, benoemd in het eerste lid in de punten 3°, 4°, 5°, 6°, 7° 8°, 9° en 10° beginnen te lopen op het moment dat de veroordeling in kracht van gewijsde is gegaan.”.
+
+### ART 52.
+
+Artikel 14 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 14. De arrondissementscommissaris kan weigeren om een jachtverlof of een jachtvergunning af te leveren aan de volgende personen:<br>
+1° de personen die door een veroordeling ontzet zijn van een van de rechten, vermeld in artikel 31, 1° tot 5°, van het Strafwetboek;<br>
+2° de personen die veroordeeld zijn wegens diefstal, oplichting, valsheid in geschrifte of misbruik van vertrouwen. Het jachtverlof of de jachtvergunning kan definitief worden geweigerd;<br>
+3° de personen van wie slecht gedrag, geestestoestand of vorig gedrag laat veronderstellen dat ze een slecht gebruik van wapens kunnen maken;<br>
+4° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 voor het uitzetten van wilde zwijnen. Het jachtverlof of de jachtvergunning kan definitief worden geweigerd;<br>
+5° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991, anders dan deze benoemd onder punt 4. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+6° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens het moedwillig schieten of vangen van in het wild levende specimen van soorten waarvan het afschot of de vangst niet is toegelaten volgens het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+7° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een jachtmisdrijf, anders dan deze benoemd onder punt 4, 5 of 6. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na de bestuurlijke geldboete;<br>
+8° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 10, §1, artikel 16 of artikel 31/2, 7°, van het Soortenbesluit van 15 mei 2009. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+9° de personen die als pleger worden geïdentificeerd in een verslag van vaststelling of proces verbaal, opgesteld door een verbalisant, voor vastgestelde feiten zoals bedoeld in de punten 1°, 2°, 4°, 5°, 6°, 7° en 8°. Deze bepaling geldt alleen in afwachting van de bestuurlijke uitspraak.<br>
+<br>
+De termijnen, benoemd in het eerste lid in de punten 2°, 4°, 5°, 6°, 7° en 8°, beginnen te lopen op het moment dat de veroordeling in kracht van gewijsde is gegaan. De termijnen benoemd in het eerste lid in de punten 2°, 4°, 5°, 6°, 7° en 8° zijn maximale termijnen.”.
+
+### ART 53.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 april 2016, wordt in paragraaf 2 het tweede lid vervangen door wat volgt:&nbsp;<br>
+<br>
+“Een afschrift van de beslissing tot intrekking of weigering wordt door de arrondissementscommissaris bezorgd aan de gouverneur van de provincie in kwestie, aan de zonechef van de lokale politiezone en aan de gewestelijke entiteit die bevoegd is voor het toezicht op dit besluit.”.
+
+### ART 54.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het tweede lid wordt het woord “Milieuhandhavingscollege” telkens vervangen door het woord “Handhavingscollege”;<br>
+2° er worden een derde lid toegevoegd, dat luidt als volgt:<br>
+"Als de woonplaats van de persoon aan wie een bestuurlijke geldboete is opgelegd, zich niet in het Vlaamse Gewest bevindt, wordt de kopie, vermeld in het tweede lid, bezorgd aan de arrondissementscommissaris van de provincie Vlaams-Brabant.”.
+
+### ART 55.
+
+Aan artikel 22 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Voor de controle van de erkenning en subsidiering van de WBE baseert het agentschap zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister en de gegevens uit de Kruispuntbank van Ondernemingen.”.&nbsp;
+
+### ART 56.
+
+Artikel 33 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Art. 33. Het jachtplan is raadpleegbaar via een link op de website natuurenbos.vlaanderen.be van het agentschap en bij de arrondissementscommissaris.”.
+
+### ART 57.
+
+In artikel 50 van hetzelfde besluit wordt aan paragraaf 3 een tweede lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+“Voor de controle van de inschrijvingen van het jachtexamen baseert het agentschap zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister, de gegevens uit het strafregister en de gegevens uit de databanken over wapens.”.
+
+### ART 58.
+
+Artikel 51 van hetzelfde besluit wordt vervangen door wat volgt: “Uiterlijk vijf dagen voor de datum van het examen worden de geldig ingeschreven kandidaten opgeroepen met een persoonlijke communicatie waarin de datum, de plaats en het uur van het examen en desgevallend bijkomende instructies voor het examen worden vermeld.”.
+
+### ART 59.
+
+In artikel 59/1, 3°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt de zinsnede “voor 1 november” vervangen door de zinsnede “voor 15 oktober”.
+
+### ART 60.
+
+Artikel 59/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt vervangen door wat volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Art. 59/3. Voor 1 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, keurt de minister de begroting goed die het agentschap bezorgt, of stuurt de minister de begroting terug naar het agentschap met de vraag om die in overleg met het Centraal Comité bij te sturen. In dat laatste geval bezorgt het agentschap een aangepaste begroting voor 15 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, aan de minister, en keurt de minister de begroting goed voor 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft.”.
+
 ### ART 61.
 
 In artikel 59/4, §2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt de zinsnede “overeenkomstig de bepalingen in 62, eerste en tweede lid.” vervangen door de zinsnede “overeenkomstig het eerste en het tweede lid.”.
 
+### ART 63.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 15 april 2016 en 14 december 2018, wordt een nieuw artikel 61/1 ingevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+“Art. 61/1. In de gevallen waarin in dit besluit bepaald is dat de bevoegde overheid aan de burger communiceert met een aangetekende zending, kan de bevoegde overheid die correspondentie ook uitvoeren met een e-mail met ontvangstbevestiging, als ze over het e-mailadres van de correspondent beschikt en op voorwaarde dat het niet om de uitreiking van certificaten gaat. Als een ontvangstbevestiging van die e-mail uitblijft, wordt na één week een aangetekende zending verzonden en wordt de daaropvolgende responstijd met één week verminderd.”.
+
+## Hoofdstuk 9. Wijzigingen van het Jachtvoorwaardenbesluit van 25 april 2014
+
+### ART 64.
+
+In artikel 8, tweede lid, artikel 14, §3, derde lid, artikel 19, vijfde lid, artikel 29, eerste en tweede lid, vervangen bij besluit van de Vlaamse Regering van 27 mei 2016, artikel 34, vijfde lid, vervangen bij besluit van de Vlaamse Regering van 27 mei 2016, artikel 42, eerste lid, artikel 47, vijfde lid, artikel 57, vierde lid, en artikel 58, tweede lid, van het Jachtvoorwaardenbesluit van 25 april 2014 wordt de zinsnede “de website www.natuurenbos” telkens vervangen door de zinsnede “de website natuurenbos.vlaanderen.be van het agentschap”.
+
+### ART 65.
+
+In artikel 7 paragraaf 3 van hetzelfde besluit wordt de volgende zin ”Het hoofd van het agentschap neemt de beslissing tot opschorting van de jacht op advies van de betrokken provinciale directeur van het agentschap.” vervangen door de zin “Het hoofd van het agentschap neemt de beslissing tot opschorting van de jacht na advies van de wildbeheercommissie, dat via schriftelijke procedure en binnen een termijn van twee kalenderdagen wordt verleend. Indien de wildbeheercommissie niet binnen deze termijn advies verleent, kan het hoofd van het agentschap een autonome beslissing nemen.”.
+
+### ART 66.
+
+In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid, 2° en 3° worden de woorden “de provinciale dienst van” telkens opgeheven;<br>
+2° er wordt een nieuw derde lid toegevoegd dat luidt als volgt:<br>
+“Met het oog op de verenigbaarheid met activiteiten van andere gebruikers neemt de organisator van het wildbeheer of zijn aangestelde de volgende maatregel voor de jacht of de bestrijding met het vuurwapen in gebieden met een goedgekeurde toegankelijkheidsregeling conform het Besluit van de Vlaamse Regering betreffende de toegankelijkheid van de bossen en natuurreservaten van 5 december 2008, en in gebieden die volgens artikel 12octies, §1, tweede lid, 3° van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu onbeperkt toegankelijk zijn voor voetgangers:&nbsp;<br>
+er worden waarschuwingsborden voor de activiteit geplaatst aan de toegangen van het gebied waarin de actie plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag waarop de activiteit plaatsvindt, geplaatst en ze worden ten vroegste na het einde van de activiteit en uiterlijk op de dag die volgt op de dag waarop de activiteit plaatsvindt, verwijderd. Het model van het aankondigingsbord wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.”.
+
+### ART 67.
+
+In artikel 9 van hetzelfde besluit wordt het derde lid vervangen door wat volgt:<br>
+<br>
+"Het verbod vermeld in het tweede lid, 2° en 3°, is niet van toepassing voor het uitoefenen van bijzondere jacht en bestrijding van wilde zwijnen, op voorwaarde dat de instrumenten door de Wapenwet van 8 juni 2006 zijn toegelaten. De minister bepaalt nadere regels voor het bezit en gebruik van deze instrumenten.".
+
+### ART 68.
+
+In hetzelfde besluit wordt een artikel 10/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 10/1. Voor het uitoefenen van elke vorm van jacht of bestrijding is het verboden een wapen te dragen in elk van de volgende situaties:<br>
+1°&nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+2°&nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+3°&nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.”.&nbsp;
+
+### ART 69.
+
+In artikel 13 van hetzelfde besluit worden het derde en het vierde lid vervangen door wat volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+“De kastvallen of kooivallen worden dagelijks gecontroleerd. Alle gevangen dieren van de soorten waarvoor het gebruik van de vallen is toegelaten, worden zo spoedig mogelijk en minstens dagelijks verwijderd. Het doden van deze dieren mag zowel plaatsvinden tussen het officiële uur van zonsopgang en het officiële uur van zonsondergang als tussen het officiële uur van zonsondergang en het officiële uur van zonsopgang. Alle andere gevangen dieren dan de soorten waarvoor het gebruik van de vallen is toegelaten, worden dadelijk ter plekke in vrijheid gesteld. Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht verlopen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De kastvallen of kooivallen worden geïdentificeerd met een weerbestendig plaatje waarop het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.”.
+
+### ART 70.
+
+In artikel 19, eerste lid, van hetzelfde besluit wordt de zinsnede “een maand na het verstrijken van het kwartaal waarin het afschot werd vervuld,” vervangen door de zinsnede “zestig dagen na het afschot”.
+
+### ART 71.
+
+In artikel 34, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 mei 2016, wordt de zinsnede “een maand na het verstrijken van het kwartaal waarin het afschot is vervuld,” vervangen door de woorden “zestig dagen na het afschot”.
+
+### ART 72.
+
+In artikel 47, eerste lid, van hetzelfde besluit wordt de zinsnede “een maand na het verstrijken van het kwartaal waarin het afschot is vervuld,” vervangen door de woorden “zestig dagen na het afschot”.
+
+### ART 73.
+
+Artikel 54 en 55 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 juli 2017, worden vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 54. De minister stelt met het oog op overleg over de aanpak van wilde zwijnen en andere grofwildsoorten faunabeheerzones vast. De minister bepaalt voor welke andere grofwildsoorten dan wild zwijn overleg gevoerd moet worden en, in voorkomend geval, in welke faunabeheerzones en voor welke periode.<br>
+<br>
+Voor elke faunabeheerzone organiseert en coördineert het agentschap jaarlijks voor 1 mei een overleg tussen de vertegenwoordigers van de erkende WBE's die in de faunabeheerzone een werkingsgebied hebben, de vertegenwoordigers van de bijzondere veldwachters in de faunabeheerzone, de vertegenwoordigers van de private en publieke actoren die in de faunabeheerzone terreinen in eigendom hebben of beheren met een significante impact op het wildbeheer, de vertegenwoordigers van de landbouworganisaties die actief zijn in de faunabeheerzone en de vertegenwoordigers van de provincies waarin de faunabeheerzone ligt.<br>
+<br>
+De basis van het overleg wordt gevormd door gegevens die op jaarlijkse basis gemeten worden volgens de door de minister bepaalde indicatoren voor schade binnen de faunabeheerzone.<br>
+<br>
+Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de populatiedoelstelling voor wilde zwijnen en, in voorkomend geval, voor andere grofwildsoorten in de faunabeheerzone in kwestie en over de aanpak van wilde zwijnen en, in voorkomend geval, van andere grofwildsoorten om de populatiedoelstelling te bereiken. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten van het uitoefenen van de jacht en gezamenlijke beheeracties en op de logistieke ondersteuning van de aanpak.<br>
+<br>
+De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap en gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap. De consensus is gedurende het volgende jachtseizoen dwingend voor de faunabeheerzone.&nbsp;<br>
+<br>
+Art. 55. §1. Met het oog op een evenwichtige aanpak van wilde zwijnen en, in voorkomend geval, andere grofwildsoorten organiseren en coördineren de erkende WBE's jaarlijks voor 1 juli een overleg met de vertegenwoordigers van de private en publieke actoren die in hun WBE-werkingsgebied terreinen in eigendom hebben of beheren met een significante impact op het wildbeheer, met vertegenwoordigers van de bijzondere veldwachters van het WBE-werkingsgebied, met de vertegenwoordigers van de landbouworganisaties die actief zijn in hun WBE-werkingsgebied, en met de vertegenwoordigers van de gemeenten waarin hun WBE-werkingsgebied ligt.<br>
+<br>
+De basis van het overleg wordt gevormd door gegevens die op jaarlijkse basis gemeten zijn volgens de door de minister bepaalde indicatoren voor schade binnen het WBE-werkingsgebied.<br>
+<br>
+Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de aanpak van de wilde zwijnen en, in voorkomend geval, van andere grofwildsoorten in het WBE-werkingsgebied in kwestie. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten van het uitoefenen van de jacht en gezamenlijke beheeracties.<br>
+<br>
+De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap en gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap. De consensus is gedurende het betreffende jachtseizoen dwingend voor het WBE-werkingsgebied. De consensus is ondergeschikt aan en uitvoerend voor de consensus die wordt bereikt op het niveau van een faunabeheerzone als vermeld in artikel 54.<br>
+<br>
+§2. Als verschillende erkende WBE’s een gezamenlijk overleg willen houden, kan dat het overleg per WBE-werkingsgebied, vermeld in paragraaf 1, vervangen.&nbsp;<br>
+<br>
+Om het overleg te optimaliseren, kan het hoofd van het agentschap een andere geografische entiteit dan het WBE-werkingsgebied bepalen waarin het overleg, vermeld in paragraaf 1, plaatsvindt. Die andere geografische entiteit geldt voor één overlegcyclus en het bijhorende jachtseizoen wordt stilzwijgend verlengd en kan voorwaardelijk zijn. Het hoofd van het agentschap bepaalt dan ook wie de organisatie en de coördinatie voert.”.&nbsp;
+
+### ART 74.
+
+Aan artikel 56 van hetzelfde besluit wordt de volgende zin toegevoegd:&nbsp;<br>
+<br>
+“De analyses van deze metingen worden gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap.”.
+
+### ART 75.
+
+In artikel 62 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Het label wordt op zodanige wijze aangebracht dat het niet kan worden verwijderd zonder het te beschadigen en dat hergebruik niet mogelijk is. Beschadigde labels worden als ongeldig beschouwd.”.
+
+## Hoofdstuk 10. Wijzigingen van het Besluit van de Vlaamse Regering betreffende de natuurbeheerplannen en de erkenning van natuurreservaten van 14 juli 2017
+
+### ART 76.
+
+In artikel 6 van het Besluit van de Vlaamse Regering betreffende de natuurbeheerplannen en de erkenning van natuurreservaten van 14 juli 2017 worden volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt de volgende zin toegevoegd: “Deze consultatie is niet vereist wanneer het beheerplan uitsluitend gaat over niet-publiek toegankelijke militaire domeinen.”;<br>
+2° in paragraaf 2 wordt de zinssnede “De aankondiging wordt bekendgemaakt op één van de volgende wijzen:” vervangen door de zinsnede “De aankondiging wordt bekendgemaakt op elk van de volgende wijzen:”;<br>
+3° paragraaf 2, punt 2°, wordt vervangen door wat volgt: “Door het aanbieden bij de lokale overheid voor publicatie in de gemeentelijke informatiekanalen. De lokale overheid verzekert de publicatie van de aankondiging, minstens op haar website, binnen een termijn van één week;”.
+
+## Hoofdstuk 11. Slotbepalingen
+
 ### ART 77.
 
 Het ministerieel besluit van 31 oktober 2014 tot vaststelling van een model voor een digitale kaart wordt opgeheven.
+
+### ART 78.
+
+Het besluit van de Vlaamse Regering van 27 maart 1985 houdende reglementering van de handelingen die het grondwater kunnen verontreinigen, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 28 oktober 2016, wordt opgeheven.
+
+### ART 79.
+
+Artikel 2, artikel 12, artikel 19, artikel 20 en artikel 23, treden in werking op 1 januari 2025. &nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Artikel 61 en artikel 77 treden in werking op 1 juli 2024.<br>
+<br>
+De Vlaamse Regering bepaalt de datum van inwerkingtreding van artikel 62.
+
+### ART 80.
+
+De Vlaamse minister, bevoegd voor de omgeving en de natuur, is belast met de uitvoering van dit besluit.&nbsp;
+
+### BIJLAGE 1
+
+Vervanging van bijlage XXII bij het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het besluit van de Vlaamse Regering van 19 november 2010 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018<br>
+<br>
+Bijlage XXII. Lijst van de milieu-inbreuken, ter uitvoering van artikel 16.1.2, 1°, f), en 16.4.27, derde lid, van het decreet<br>
+<br>
+Enig artikel.&nbsp;Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, vermeld in het besluit van de Vlaamse Regering van 25 april 2014 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend, wordt beschouwd als een milieu-inbreuk:
+<table cellspacing="0" style="border-collapse:collapse; width:610px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:100px">Artikel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:510px">Wettelijke verplichting</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">5&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Het is verboden zich met een jachtwapen te bevinden op jachtkansels die op minder dan 150 meter liggen van een terrein waarvan het jachtrecht door een andere jachtrechthouder wordt uitgeoefend, tenzij na schriftelijk akkoord van de betrokken jachtrechthouder.<br>
+			In het eerste lid wordt verstaan onder jachtkansel: iedere constructie of iedere inrichting, met inbegrip van al dan niet ingerichte bomen, die het mogelijk maakt wild te schieten vanaf een punt dat ligt boven het normale niveau van de grond.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">8&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Een organisator van jacht of bestrijding besteedt bij het uitoefenen van de activiteit bijzondere aandacht aan de veiligheid van de activiteit en aan de verenigbaarheid ervan met activiteiten van andere gebruikers van het buitengebied.<br>
+			De organisator van een drukjacht of een drijfjacht op grof wild of zijn aangestelde neemt de volgende maatregelen:<br>
+			1° met het oog op de verenigbaarheid met andere activiteiten worden waarschuwingsborden voor de activiteit geplaatst aan de toegangen van het gebied waarin de actie plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag waarop de activiteit plaatsvindt, geplaatst en ze worden uiterlijk een uur na het einde van de activiteit verwijderd. Het model van het aankondigingsbord wordt opgesteld door het agentschap en ter beschikking gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap;<br>
+			2° met het oog op een betere gebiedsgerichte samenwerking om de efficiëntie van een drukjacht of drijfjacht op grof wild te verhogen, nodigt de organisator van de drukjacht of drijfjacht minstens vijf dagen voor de actie de jachtrechthouders of WBE’s die een jachtterrein hebben dat paalt aan het jachtterrein van de organisator, uit voor een overleg. De schriftelijke neerslag van dat&nbsp;overleg wordt gevoegd bij de melding van de actie aan het agentschap en aan de burgemeester van het grondgebied waarop de activiteit<br>
+			plaatsvindt;<br>
+			3° met het oog op de verenigbaarheid van drukjacht en drijfjacht op grof wild met andere activiteiten brengt de organisator minstens drie werkdagen voor de aanvang van de activiteit het agentschap en de burgemeester van het grondgebied waarop de activiteit plaatsvindt, op de hoogte van de activiteit.<br>
+			Met het oog op de verenigbaarheid met activiteiten van andere gebruikers neemt de organisator van het wildbeheer of zijn aangestelde de volgende maatregel voor de jacht of de bestrijding met het vuurwapen in gebieden met een goedgekeurde toegankelijkheidsregeling conform het Besluit van de Vlaamse Regering betreffende de toegankelijkheid van de bossen en natuurreservaten van 5 december 2008, en in gebieden die volgens artikel 12octies, §1, tweede lid, 3° van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu onbeperkt toegankelijk zijn voor voetgangers:<br>
+			er worden waarschuwingsborden voor de activiteit geplaatst aan de toegangen van het gebied waarin de actie plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag waarop de activiteit plaatsvindt, geplaatst en ze worden ten vroegste na het einde van de activiteit en uiterlijk op de dag die volgt op de dag waarop de activiteit plaatsvindt, verwijderd. Het model van het aankondigingsbord wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">10, derde lid, 5°, 6°&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Met behoud van de toepassing van het eerste en het tweede lid is het voor het uitoefenen van elke vorm van jacht of van bestrijding verboden om de volgende soorten munitie te gebruiken:<br>
+			5° loodhagel;<br>
+			6° zinkhagel.&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">10/1</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor het uitoefenen van elke vorm van jacht of bestrijding is het verboden een wapen te dragen in elk van volgende situaties:<br>
+			1° wanneer de ademanalyse een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht meet;<br>
+			2° wanneer de bloedanalyse een alcoholconcentratie van ten minste 0,5 gram per liter bloed aangeeft;<br>
+			3° wanneer men in staat van dronkenschap verkeert of in een soortgelijke staat met name ten gevolge van het gebruik van drugs of van geneesmiddelen.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">13, vierde lid&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De kastvallen of kooivallen worden geïdentificeerd met een weersbestendig plaatje waarop het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">19&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE binnen dertig dagen na het afschot, een ingevuld papieren of elektronisch meldingsformulier aan het agentschap.<br>
+			Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.<br>
+			Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE;<br>
+			Wie het elektronische formulier invult en opstuurt, krijgt automatisch een ontvangstmelding.<br>
+			Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website<br>
+			natuurenbos.vlaanderen.be&nbsp;van het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">20&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor de controle van en het onderzoek naar het afschot wordt van elk specimen de linker onderkaak bewaard en ter beschikking gesteld van het agentschap of het instituut tot twee maanden na het verstrijken van het<br>
+			kwartaal waarin het afschot werd vervuld. De onderkaak wordt daarbij onmiddellijk na het afschot gemerkt met&nbsp;het daarvoor bestemde label dat het agentschap heeft uitgereikt.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">25, § 1, eerste lid, 5°, eerste zin</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§ 1. De gewone jacht op overig wild mag alleen worden uitgeoefend met de volgende middelen:<br>
+			5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">25, § 1, eerste lid, 6°, eerste zin&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§ 1. De gewone jacht op overig wild mag alleen worden uitgeoefend met de volgende middelen:<br>
+			6° kooivallen, waarvan de bovenkant bestaat uit ondoorzichtig materiaal.&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">29&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Bijzondere jacht wordt door een jachtrechthouder bij het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.<br>
+			Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° via elektronische indiening via het e-loket op de<br>
+			website van het agentschap.<br>
+			De melding bevat de volgende informatie:<br>
+			1° informatie over de locatie waarvoor bijzondere jacht wordt gemeld;<br>
+			2° een motivering van het type en de vermoedelijke omvang van de schade die de jachtrechthouder wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
+			3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">30&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De bijzondere jacht mag op zijn vroegst een aanvang nemen 24 uur na de melding. Het agentschap is gemachtigd toezicht uit te oefenen op de aangemelde bijzondere jacht.<br>
+			Het agentschap kan met een gemotiveerde beslissing de aangemelde bijzondere jacht op elk moment beperken of<br>
+			verbieden.<br>
+			Als bijzondere jacht beoogd wordt voor soorten die zijn opgenomen in een<br>
+			soortenbeschermingsprogramma ter uitvoering van artikel 26 van het Soortenbesluit van 15 mei 2009 of in een beheerregeling ter uitvoering van artikel 28 van het Soortenbesluit van 15 mei 2009, blijkt uit de melding dat er rekening is gehouden met dat soortenbeschermingsprogramma of die beheerregeling.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">34&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE meldt binnen dertig dagen na het afschot, elk geschoten dier aan het agentschap met een papieren formulier of elektronisch.<br>
+			Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.<br>
+			Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE.<br>
+			Wie het formulier elektronisch invult en verzendt, krijgt automatisch een ontvangstmelding.<br>
+			Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">35</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor de controle van en het onderzoek naar het afschot wordt van elk specimen de linkeronderkaak bewaard en ter beschikking gesteld van het agentschap of het instituut tot twee maanden na het verstrijken van het kwartaal waarin het afschot is vervuld. De onderkaak wordt daarbij onmiddellijk na het afschot gemerkt met het daarvoor bestemde label dat het agentschap heeft uitgereikt.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">39, §1, 5°, 6°</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§1. De bijzondere jacht op overig wild mag worden uitgeoefend met de volgende middelen:<br>
+			5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal;<br>
+			6° kooivallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">42&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Bestrijding wordt door een eigenaar of grondgebruiker aan het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.<br>
+			Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° per e-mail;<br>
+			3 via elektronische indiening.<br>
+			De melding bevat de volgende informatie:<br>
+			1° informatie over de locatie waarvoor bestrijding wordt gemeld;<br>
+			2° een motivering van het type en de omvang van de&nbsp;schade die de eigenaar of de grondgebruiker heeft geleden;<br>
+			3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn. De melding kan betrekking hebben op afzonderlijke activiteiten of op een activiteitenkalender.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">43&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De bestrijding mag op zijn vroegst een aanvang nemen op een van volgende tijdstippen:<br>
+			1° 24 uur na het verrichten van de melding. In de 24 uur tussen melding en aanvang van de bestrijding zit een halve werkdag vervat.<br>
+			2° zodra het agentschap een ontvangstbevestiging bezorgt waarbij wordt meegedeeld dat de bestrijding wordt toegestaan.<br>
+			Het agentschap is gemachtigd toezicht uit te oefenen op de aangemelde bestrijding. Het agentschap kan met een gemotiveerde beslissing te allen tijde de bestrijding beperken of verbieden.<br>
+			Ingeval de bestrijding van grof wild door het agentschap niet verboden wordt, voorziet het agentschap voor elk specimen een uniek label.<br>
+			Als bestrijding beoogd wordt van soorten die zijn opgenomen in een soortenbeschermingsprogramma ter uitvoering van artikel 26 van het Soortenbesluit van 15 mei 2009 of in een beheerregeling ter uitvoering van artikel 28 van het Soortenbesluit van 15 mei 2009, blijkt uit de melding dat er rekening is gehouden met dat soortenbeschermingsprogramma of die beheerregeling.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">47&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE binnen dertig dagen na het afschot, een ingevuld papieren of elektronisch meldingsformulier aan het agentschap.<br>
+			Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.<br>
+			Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE.<br>
+			Wie het elektronische formulier invult en opstuurt, krijgt automatisch een ontvangstmelding.<br>
+			Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">48</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Voor de controle van en het onderzoek naar het afschot wordt van elk specimen de linker onderkaak bewaard en ter beschikking gesteld van het agentschap of het instituut tot twee maanden na het verstrijken van het kwartaal waarin het afschot werd vervuld. De onderkaak wordt daarbij onmiddellijk na het afschot gemerkt met&nbsp;het daarvoor bestemde label dat het agentschap heeft uitgereikt.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">51, 5°, 6°</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De bestrijding van overig wild mag worden beoefend met de volgende middelen:<br>
+			5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal;<br>
+			6° kooivallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">57&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">De jachtrechthouders of medejachtrechthouders, de grondeigenaars, de grondgebruikers en de door de jachtrechthouders aangestelde bijzondere veldwachters mogen, voor het natuurbeheer en na melding aan het agentschap, eieren van Canadese ganzen en de grauwe ganzen schudden, rapen of vernielen.<br>
+			De personen, vermeld in het eerste lid, mogen, na melding aan het agentschap, de grauwe gans en de Canadese gans voor het natuurbeheer doden of laten doden:<br>
+			1° met vuurwapens;<br>
+			2° door afvangen met behulp van netten tijdens de periode van 1 juni tot en met 14 juli.<br>
+			In het geval, vermeld in het tweede lid, 1°, zijn de personen, vermeld in het eerste lid, met uitzondering van de door de jachtrechthouder aangestelde bijzondere veldwachters, in het bezit van een geldig jachtverlof.<br>
+			De acties, vermeld in het eerste en tweede lid, worden gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.<br>
+			Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° per e-mail;<br>
+			3° via elektronische indiening.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">58</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Uiterlijk op 1 april van elk jaar wordt aan het agentschap gerapporteerd over de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van dit hoofdstuk werden gedood. Die rapportage heeft betrekking op de aantallen van de dieren die gedood werden, alsook op het tijdstip en de locatie ervan.<br>
+			De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website&nbsp;natuurenbos.vlaanderen.be&nbsp;van het agentschap.<br>
+			Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° per e-mail;<br>
+			3° via elektronische indiening.</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 2
+
+Vervanging van bijlage XXVIII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 april 2014 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018<br>
+<br>
+Bijlage XXVIII. Lijst van de milieu-inbreuken, ter uitvoering van artikel 16.1.2, 1°, f), en 16.4.27, derde lid, van het decreet<br>
+<br>
+Enig artikel.&nbsp;Het niet voldoen aan de onderstaande wettelijke verplichtingen, vermeld in het Besluit van de Vlaamse Regering van 25 april 2014 houdende de administratieve organisatie van de jacht in het Vlaamse Gewest, wordt beschouwd als een milieu-inbreuk:&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black">Artikel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black">Wettelijke verplichting</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">30, eerste en tweede lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">Om de jacht te mogen uitoefenen, moet de jachtrechthouder beschikken over een goedgekeurd jachtplan voor zijn jachtterrein. Een jachtplan wordt opgemaakt of gewijzigd door de jachtrechthouder. Voor jachtrechthouders die lid zijn van een erkende WBE, kan het jachtplan opgemaakt of gewijzigd worden door de WBE na uitdrukkelijke toestemming van de jachtrechthouder.<br>
+			Een jachtplan voldoet aan de volgende kenmerken:<br>
+			1° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een jachtplan is een digitaal document waarin op basis van geografische vectorbestanden jachtterreinen aangeduid worden;<br>
+			2° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; elk jachtterrein en elk WBE-werkingsgebied hebben een uniek nummer, waarvan de systematiek bepaald wordt door het agentschap. De unieke nummering duidt aan of een jachtterrein tot een erkende WBE behoort;<br>
+			3° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de buitengrens van een jachtterrein wordt aangeduid met een doorlopende lijn die een gesloten figuur vormt. De grens van een jachtterrein mag de grens van een ander jachtterrein en van het gewest niet overschrijden;<br>
+			4° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de gronden binnen een jachtterrein waarop de indiener van het plan het jachtrecht heeft, rekening houdend met de principes van aaneensluitendheid, vermeld in artikel 8, §1, tweede lid, van het Jachtdecreet van 24 juli 1991, hebben dezelfde kleur. De gronden binnen een jachtterrein waarop de indiener van het plan geen jachtrecht heeft, worden niet gekleurd;<br>
+			5°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; op het jachtplan van een erkende WBE wordt de buitengrens van elk van de afzonderlijke jachtterreinen die tot de WBE behoren, aangeduid met een doorlopende lijn die een gesloten figuur vormt. De grens van een jachtterrein mag de grens van een ander jachtterrein niet overschrijden;<br>
+			6° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; op het jachtplan van een erkende WBE wordt het WBE-werkingsgebied aangeduid met een doorlopende lijn die een gesloten figuur vormt. De grens van een WBE-werkingsgebied mag de grens van een ander WBE-werkingsgebied en van het gewest niet overschrijden.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">31</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§1. Dit artikel is van toepassing op nieuwe jachtplannen. De jachtrechthouder dient een voorstel van een nieuw jachtplan in bij de arrondissementscommissaris van de provincie waarin het jachtterrein of het grootste gedeelte ervan ligt, met een formulier, waarvan het agentschap het model opstelt. Het agentschap stelt dat model ter beschikking op zijn website natuurenbos.vlaanderen.be.<br>
+			Voor elk perceel in het voorstel van jachtplan wordt een schriftelijk bewijs van jachtrecht voorgelegd. Als voor een van de percelen in het voorstel van jachtplan een dergelijk schriftelijk bewijs van jachtrecht niet kan worden voorgelegd, wordt het voorstel door de arrondissementscommissaris onontvankelijk verklaard.<br>
+			Het tweede lid is niet van toepassing als een voorstel van jachtplan bij de arrondissementscommissaris wordt ingediend dat ontstaat door het samengaan van de jachtterreinen van verschillende jachtrechthouders, of dat ontstaat door het verenigen van meerdere jachtterreinen in een nieuwe WBE, op voorwaarde dat de betrokken jachtterreinen elk beschikken over een goedgekeurd jachtplan en het voorgestelde nieuwe jachtplan geen wijzigingen van de jachtterreinen bevat ten opzichte van de goedgekeurde jachtplannen in kwestie.<br>
+			Als een voorstel van jachtplan wordt ingediend door een erkende WBE, wordt een gemeenschappelijke verklaring toegevoegd van alle leden-jachtrechthouders waarin ze ermee akkoord gaan dat hun jachtterrein wordt opgenomen in het jachtplan. De verklaring wordt opgemaakt met een formulier, waarvan het agentschap het model opstelt. Het agentschap stelt dat model ter beschikking op zijn website natuurenbos.vlaanderen.be.<br>
+			Als er voor hetzelfde jachtterrein verschillende jachtrechthouders zijn, zonder dat die jachtrechthouders zich hebben verenigd in een WBE, wordt maar één voorstel van jachtplan ingediend door een van de betrokken jachtrechthouders. De overige jachtrechthouders voegen daarbij een formulier waarin ze verklaren dat ze ook jachtrechthouder zijn van het jachtterrein. De verklaring wordt opgemaakt met een formulier, waarvan het agentschap het model opstelt. Het agentschap stelt dat model ter beschikking op zijn website natuurenbos.vlaanderen.be.<br>
+			De formulieren, vermeld in deze paragraaf, worden naar de arrondissementscommissaris gestuurd op een van de volgende wijzen:<br>
+			1° een papieren formulier wordt aangetekend verstuurd;<br>
+			2° een elektronisch formulier wordt ingediend via het e-loket op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+			§2. De arrondissementscommissaris controleert of percelen uit een voorstel van jachtplan voorkomen in een jachtplan dat al is goedgekeurd.<br>
+			Als een perceel niet voorkomt in een goedgekeurd jachtplan, kan het perceel worden toegevoegd aan het jachtplan van de indiener van een voorstel van jachtplan. De arrondissementscommissaris keurt dat jachtplan goed met toevoeging van het perceel in kwestie.<br>
+			Als een perceel wel voorkomt in een goedgekeurd jachtplan, nodigt de arrondissementscommissaris de houder van dat goedgekeurde jachtplan met een aangetekende zending uit om binnen een termijn van vier weken een schriftelijk bewijs van jachtrecht voor te leggen voor het perceel waarop het voorstel van jachtplan betrekking heeft.<br>
+			Als de houder van het goedgekeurde jachtplan binnen de termijn, vermeld in het vierde lid, geen schriftelijk bewijs van jachtrecht voorlegt of als het voorgelegde document niet voldoet aan de minimale voorwaarden die de minister daarvoor heeft bepaald, kan het perceel geen onderdeel meer uitmaken van het jachtplan waarin het oorspronkelijk was opgenomen, en kan het perceel toegevoegd worden aan het jachtplan van de indiener van een voorstel van jachtplan. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, opnieuw goed zonder het perceel in kwestie en keurt het jachtplan van de indiener van een voorstel van jachtplan goed met toevoeging van het perceel in kwestie.<br>
+			Als de houder van het goedgekeurde jachtplan binnen de termijn, vermeld in het vierde lid, een schriftelijk bewijs van jachtrecht voorlegt, beoordeelt de arrondissementscommissaris beide schriftelijke bewijzen van jachtrecht. De volgende gevallen kunnen zich voordoen:<br>
+			1° het perceel wordt niet opgenomen in het jachtplan van de indiener van het voorstel van jachtplan en het goedgekeurde jachtplan blijft ongewijzigd als het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel het schriftelijke bewijs van jachtrecht is van de houder van het goedgekeurde jachtplan waarin het perceel voorkomt;<br>
+			2° het perceel kan geen onderdeel meer uitmaken van het jachtplan waarin het oorspronkelijk was opgenomen en het perceel kan toegevoegd worden aan het jachtplan van de indiener van het voorstel van jachtplan als het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel het schriftelijke bewijs van jachtrecht is van de indiener van het voorstel van jachtplan. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, dan opnieuw goed zonder het perceel in kwestie en keurt het jachtplan van de indiener van het voorstel van jachtplan goed met toevoeging van het perceel in kwestie;<br>
+			3° de arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, opnieuw goed zonder het perceel in kwestie en het perceel wordt niet opgenomen in het jachtplan van de indiener van het voorstel van jachtplan in de volgende gevallen:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) er is sprake van twee even oude geldende schriftelijke bewijzen van jachtrecht;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) er is sprake van twee schriftelijke bewijzen van jachtrecht zonder datering;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) er bestaat om een andere reden geen duidelijkheid over wie het jachtrecht op het perceel in kwestie heeft.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Om te bepalen welke het oudst geldende schriftelijke bewijs van jachtrecht is, wordt in de eerste plaats gekeken naar de datering van het schriftelijke bewijs van jachtrecht. Een schriftelijk bewijs van jachtrecht met datering wordt automatisch als ouder beschouwd dan een schriftelijk bewijs van jachtrecht zonder datering.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">31/1</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§1. Een goedgekeurd jachtplan kan altijd worden aangepast. De jachtrechthouder dient een verzoek tot aanpassing van het goedgekeurde jachtplan in bij de bevoegde arrondissementscommissaris met een formulier waarvan het agentschap het model opstelt. Het agentschap stelt dat model ter beschikking op zijn website natuurenbos.vlaanderen.be.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			Het formulier, vermeld in het eerste lid, wordt naar de arrondissementscommissaris gestuurd op een van de volgende wijzen:<br>
+			1° het papieren formulier wordt aangetekend verstuurd;<br>
+			2° het elektronische formulier wordt ingediend via het e-loket op de website natuurenbos.vlaanderen.be van het agentschap.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			§2. Als het verzoek tot aanpassing van het jachtplan betrekking heeft op de verwijdering van een perceel uit een goedgekeurd jachtplan, voegt de verzoeker bij dat verzoek een schriftelijk bewijs van jachtrecht voor het perceel in kwestie. Als voor het perceel in kwestie een dergelijk schriftelijk bewijs van jachtrecht niet wordt voorgelegd, wordt het verzoek door de arrondissementscommissaris onontvankelijk verklaard. Als wel een schriftelijk bewijs van jachtrecht wordt voorgelegd, nodigt de arrondissementscommissaris de houder van het goedgekeurde jachtplan vervolgens met een aangetekende zending uit om binnen een termijn van vier weken een schriftelijk bewijs van jachtrecht voor te leggen voor het perceel waarop het verzoek betrekking heeft.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als de houder van het goedgekeurde jachtplan binnen de termijn, vermeld in het eerste lid, geen schriftelijk bewijs van jachtrecht voorlegt, kan het perceel geen onderdeel meer uitmaken van het jachtplan waarin het oorspronkelijk was opgenomen. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, dan opnieuw goed zonder het perceel in kwestie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als de houder van het goedgekeurde jachtplan binnen de termijn, vermeld in het eerste lid, een schriftelijk bewijs van jachtrecht voorlegt, beoordeelt de arrondissementscommissaris beide schriftelijke bewijzen van jachtrecht. De volgende gevallen kunnen zich voordoen:<br>
+			1° &nbsp; het goedgekeurde jachtplan blijft ongewijzigd als het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel het schriftelijke bewijs van jachtrecht is van de houder van het goedgekeurde jachtplan waarin het perceel voorkomt;<br>
+			2° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het perceel kan geen onderdeel meer uitmaken van het jachtplan waarin het oorspronkelijk was opgenomen en de arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, opnieuw goed zonder het perceel in kwestie in de volgende gevallen:<br>
+			a) het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel is het schriftelijke bewijs van jachtrecht van de indiener van het verzoek tot wijziging van het jachtplan;<br>
+			b) er is sprake van twee even oude geldende schriftelijke bewijzen van jachtrecht;<br>
+			c) er is sprake van twee schriftelijke bewijzen van jachtrecht zonder datering;<br>
+			d) er bestaat om een andere reden geen duidelijkheid over wie het jachtrecht op het perceel in kwestie heeft.&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Om te bepalen welke het oudst geldende schriftelijke bewijs van jachtrecht is, wordt in de eerste plaats gekeken naar de datering van het schriftelijke bewijs van jachtrecht. Een schriftelijk bewijs van jachtrecht met datering wordt automatisch als ouder beschouwd dan een schriftelijk bewijs van jachtrecht zonder datering. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; De voorgaande leden zijn niet van toepassing als het verzoek tot aanpassing van het jachtplan betrekking heeft op de verwijdering van een perceel uit een goedgekeurd jachtplan door de houder van het jachtplan. In dat geval voegt de houder van dat jachtplan bij zijn verzoek een gedateerd en ondertekend akkoord van de eigenaar om het perceel uit het jachtterrein te verwijderen. Het akkoord vermeldt het kadastrale perceelnummer van het perceel in kwestie of ten minste een onbetwistbaar plaatsaanduiding van het perceel in kwestie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			§3. Als het verzoek tot aanpassing van het jachtplan betrekking heeft op de toevoeging van een perceel aan een goedgekeurd jachtplan, voegt de verzoeker bij dat verzoek een schriftelijk bewijs van jachtrecht voor het perceel in kwestie. Als voor het perceel in kwestie een dergelijk schriftelijk bewijs van jachtrecht niet wordt voorgelegd, wordt het verzoek door de arrondissementscommissaris onontvankelijk verklaard. Als wel een schriftelijk bewijs wordt voorgelegd, controleert de arrondissementscommissaris of het perceel al voorkomt in een goedgekeurd jachtplan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als het perceel niet voorkomt in een goedgekeurd jachtplan, kan het perceel toegevoegd worden aan het jachtplan van de verzoeker. De arrondissementscommissaris keurt dat jachtplan opnieuw goed met toevoeging van het perceel in kwestie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp; Als het perceel wel voorkomt in een goedgekeurd jachtplan, nodigt de arrondissementscommissaris de houder van het goedgekeurde jachtplan waarin het perceel voorkomt, met een aangetekende zending uit om binnen een termijn van vier weken een schriftelijk bewijs van jachtrecht voor te leggen voor het perceel waarop het verzoek betrekking heeft.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als de houder van het goedgekeurde jachtplan waarin het perceel voorkomt, binnen de termijn, vermeld in derde lid, geen schriftelijk bewijs van jachtrecht voorlegt, kan het perceel geen onderdeel meer uitmaken van het jachtplan waarin het perceel oorspronkelijk was opgenomen, en kan het perceel toegevoegd worden aan het jachtplan van de verzoeker. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, dan opnieuw goed zonder het perceel in kwestie en keurt het jachtplan van de verzoeker opnieuw goed met toevoeging van het perceel in kwestie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als de houder van het goedgekeurde jachtplan waarin het perceel voorkomt, binnen de termijn, vermeld in het derde lid, een schriftelijk bewijs van jachtrecht voorlegt, beoordeelt de arrondissementscommissaris beide schriftelijke bewijzen van jachtrecht. De volgende gevallen kunnen zich voordoen:<br>
+			1° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; geen van de jachtplannen wordt gewijzigd als het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel het schriftelijke bewijs van jachtrecht is van de houder van het goedgekeurde jachtplan waarin het perceel voorkomt;<br>
+			2° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het perceel kan geen onderdeel meer uitmaken van het jachtplan waarin het perceel oorspronkelijk was opgenomen, en het perceel kan toegevoegd worden aan het jachtplan van de verzoeker als het oudst geldende schriftelijke bewijs van jachtrecht voor het perceel het schriftelijke bewijs van jachtrecht van de verzoeker is. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, dan opnieuw goed zonder het perceel in kwestie en keurt het jachtplan van de verzoeker opnieuw goed met toevoeging van het perceel in kwestie;<br>
+			3° de arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen, opnieuw goed zonder het perceel in kwestie en het jachtplan van de verzoeker blijft ongewijzigd in de volgende gevallen:<br>
+			a) er is sprake van twee even oude geldende schriftelijke bewijzen van jachtrecht;<br>
+			b) er is sprake is van twee schriftelijke bewijzen van jachtrecht zonder datering;<br>
+			c) er bestaat om een andere reden geen duidelijkheid over wie het jachtrecht op het perceel in kwestie heeft.&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Om te bepalen welke het oudst geldende schriftelijk bewijs van jachtrecht is, wordt in de eerste plaats gekeken naar de datering van het schriftelijke bewijs van jachtrecht. Een schriftelijk bewijs van jachtrecht met datering wordt automatisch als ouder beschouwd dan een schriftelijk bewijs van jachtrecht zonder datering.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			§4. Als het verzoek tot aanpassing van het jachtplan betrekking heeft op de overdracht met wederzijdse toestemming van een perceel van het ene goedgekeurde jachtplan aan een ander goedgekeurd jachtplan, voegen de verschillende partijen een gedateerd en ondertekend akkoord bij hun verzoek. Het akkoord vermeldt het kadastrale perceelnummer van het perceel in kwestie of ten minste een onmiskenbare plaatsaanduiding van het perceel in kwestie. De arrondissementscommissaris keurt het jachtplan waarin het perceel oorspronkelijk was opgenomen dan opnieuw goed zonder het perceel in kwestie en keurt het jachtplan van de verzoeker opnieuw goed met toevoeging van het perceel in kwestie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			§5. Als het verzoek tot aanpassing van het jachtplan betrekking heeft op een wijziging van titularis van het jachtterrein, wordt op één van volgende wijzen gehandeld:<br>
+			1° Als voor een jachtterrein slechts één persoon als titularis is aangeduid en die persoon wenst zijn jachtterrein over te dragen, voegen de oorspronkelijke titularis en de toekomstige titularis of titularissen een gedateerd en ondertekend akkoord bij hun verzoek. Het akkoord vermeldt een onmiskenbare identificatie van het jachtterrein in kwestie. De arrondissementscommissaris keurt het jachtplan dan opnieuw goed voor de nieuwe titularis of titularissen.<br>
+			2° Als de titularis of titularissen van een jachtterrein hun jachtterrein wensen te delen met bijkomende titularissen, voegen de oorspronkelijke titularis of titularissen en de toekomstige titularis of titularissen een gedateerd en ondertekend akkoord bij hun verzoek. Het akkoord vermeldt een onmiskenbare identificatie van het jachtterrein in kwestie. De arrondissementscommissaris keurt het jachtplan dan opnieuw goed voor alle titularissen.<br>
+			3° Als één van de titularissen van een jachtterrein niet langer titularis wenst te zijn van het jachtterrein, doet die titularis een gedateerd en ondertekend verzoek tot verwijdering als titularis. Het verzoek vermeldt een onmiskenbare identificatie van het jachtterrein in kwestie. De arrondissementscommissaris keurt het jachtplan dan opnieuw goed zonder die titularis.<br>
+			4° Als één van de titularissen van het oorspronkelijke jachtterrein overlijdt, voegen de andere titularis of titularissen een overlijdensbericht bij hun verzoek tot verwijdering van de titularis. Het verzoek vermeldt een onmiskenbare identificatie van het jachtterrein in kwestie. De arrondissementscommissaris keurt het jachtplan dan opnieuw goed zonder die titularis.<br>
+			5° Als de meerderheid van de titularissen van het oorspronkelijke jachtterrein wenst dat een titularis niet langer titularis is van het jachtterrein, voegt die meerderheid van titularissen een gedateerd en door hen ondertekend akkoord bij zijn verzoek tot verwijdering van de titularis. Het akkoord vermeldt een onmiskenbare identificatie van het jachtterrein in kwestie. De arrondissementscommissaris keurt het jachtplan dan opnieuw goed zonder die titularis.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">31/2</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§1. Als een WBE niet langer erkend is, richt het agentschap een verzoek tot aanpassing van het jachtplan aan de bevoegde arrondissementscommissaris. Het WBE-werkingsgebied wordt verwijderd en de jachtrechthouders in kwestie vallen terug op de afzonderlijke jachtterreinen die conform artikel 30, tweede lid, 4°, in het jachtplan van de WBE zijn aangeduid. Die aanduidingen als afzonderlijke jachtterreinen worden dan als afzonderlijke goedgekeurde jachtplannen beschouwd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; §2. Als een jachtterrein niet meer behoort tot een WBE omdat de jachtrechthouder geen deel meer uitmaakt van de WBE na een beslissing van de algemene vergadering, richt de WBE het verzoek tot aanpassing van het jachtplan aan de bevoegde arrondissementscommissaris. De WBE voegt daarbij een kopie van de beslissing van de algemene vergadering. De jachtrechthouder in kwestie valt terug op het afzonderlijke jachtterrein dat conform artikel 30, tweede lid, 4°, in het jachtplan van de WBE is aangeduid. Die aanduiding als afzonderlijk jachtterrein wordt dan als afzonderlijk goedgekeurd jachtplan beschouwd. De arrondissementscommissaris keurt het jachtplan van de WBE waarin het jachtterrein oorspronkelijk was opgenomen, dan opnieuw goed met aanpassing van het WBE-werkingsgebied volgens de regels die de minister daarvoor heeft bepaald.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Als een jachtterrein niet langer deel uitmaakt van een WBE omdat de jachtrechthouder uit de WBE treedt, richt de jachtrechthouder in kwestie het verzoek tot aanpassing van het jachtplan aan de bevoegde arrondissementscommissaris. De voormelde jachtrechthouder voegt daarbij een kopie van zijn melding tot uittreding uit de WBE. De jachtrechthouder in kwestie valt terug op het afzonderlijke jachtterrein dat conform artikel 30, tweede lid, 4°, in het jachtplan van de WBE is aangeduid. Die aanduiding als afzonderlijk jachtterrein wordt dan als afzonderlijk goedgekeurd jachtplan beschouwd. De arrondissementscommissaris keurt het jachtplan van de WBE waarin het jachtterrein oorspronkelijk was opgenomen, dan opnieuw goed met aanpassing van het WBE-werkingsgebied volgens de regels die de minister daarvoor heeft bepaald.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+			§3. Als een jachtterrein deel gaat uitmaken van een WBE, richt de WBE het verzoek tot aanpassing van het jachtplan aan de bevoegde arrondissementscommissaris. De WBE voegt daarbij de beslissing van de algemene vergadering die dat vaststelt. Het afzonderlijk goedgekeurde jachtterrein wordt opgenomen in het jachtplan van de WBE. De arrondissementscommissaris keurt het jachtplan van de WBE waarin het jachtterrein zal worden opgenomen, goed met aanpassing van het WBE-werkingsgebied volgens de regels die de minister daarvoor heeft bepaald, zodat het jachtterrein in kwestie binnen het WBE-werkingsgebied ligt. Als het nieuw toegevoegde jachtterrein voordien deel uitmaakte van een andere WBE, keurt de arrondissementscommissaris het jachtplan en het werkingsgebied van die WBE opnieuw goed, waarbij het jachtterrein in kwestie niet meer behoort tot het werkingsgebied van die andere WBE.&nbsp;&nbsp;<br>
+			§4. Als de grens van een WBE-werkingsgebied samenvalt met de grens van een jachtterrein dat tot die WBE behoort, wordt bij wijziging van de grens van het jachtterrein de grens van het WBE-werkingsgebied ook aangepast. De arrondissementscommissaris keurt het jachtplan van de WBE waartoe het jachtterrein behoort, goed met aanpassing van het WBE-werkingsgebied volgens de regels die de minister daarvoor heeft bepaald, zodat het jachtterrein in kwestie binnen het WBE-werkingsgebied ligt. Als door wijziging van die grens van het jachtterrein de oorspronkelijke grens van het WBE-werkingsgebied van een aanpalende WBE wordt overschreden, keurt de arrondissementscommissaris het jachtplan van die aanpalende WBE goed met aanpassing van het WBE-werkingsgebied volgens de regels die de minister daarvoor heeft bepaald, zodat het jachtterrein in kwestie buiten het WBE-werkingsgebied ligt.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">44, §1, eerste lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Een onafhankelijk jachtrechthouder beschikt over een goedgekeurd faunabeheerplan om de jacht te kunnen uitoefenen.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">47</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none">§1. Een wildrapport bevat voor bepaalde soorten die het agentschap heeft aangewezen, de geschatte&nbsp;voorjaarsstand en het gerealiseerde afschot of de gerealiseerde vangst binnen het jachtterrein in het voorgaande kalenderjaar.<br>
+			Een wildrapport wordt opgemaakt door elke onafhankelijke jachtrechthouder en door elke erkende WBE.<br>
+			Een wildrapport wordt jaarlijks vóór 1 april ingediend. Als het wildrapport niet tijdig wordt ingediend, kan tijdens het daaropvolgende jachtseizoen niet vroeger worden gejaagd dan vanaf drie maanden na de datum waarop het wildrapport alsnog werd ingediend.<br>
+			De minister kan voor bepaalde soorten bepalen dat de onafhankelijke jachtrechthouder of de erkende WBE die die respectieve soorten wil bejagen, gestandaardiseerde telprotocollen moet volgen. De telprotocollen die moeten gevolgd worden, worden door het agentschap en het instituut opgemaakt, door de minister bekrachtigd en weergegeven op de website natuurenbos.vlaanderen.be van het agentschap.&nbsp;<br>
+			§2. Een wildrapport wordt aangetekend opgestuurd met een papieren formulier naar het daarvoor aangewezen personeelslid van het agentschap of wordt bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+			Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 3
+
+Vervanging van bijlage XXXI bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 25 april 2014 en vervangen bij het besluit van de Vlaamse Regering van 7 september 2018<br>
+<br>
+Bijlage XXXI. Lijst van de milieu-inbreuken, ter uitvoering van artikel 16.1.2, 1°, f), en 16.4.27, derde lid, van het decreet<br>
+<br>
+Enig artikel.&nbsp;Het niet-voldoen aan de onderstaande wettelijke verplichtingen, vermeld in het besluit van de Vlaamse Regering van 15 mei 2009 met betrekking tot soortenbescherming en soortenbeheer, wordt beschouwd als een milieu-inbreuk:&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:610px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:100px">artikel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:510px">wettelijke verplichting</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">47</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Ten aanzien van erkende vogelhoudersverenigingen gelden de volgende administratieve verplichtingen :<br>
+			1° ze houden een gegevensbestand bij van de door hen verstrekte gesloten pootringen, vermeld in artikel 43, eerste lid. Daarin is ten minste de volgende informatie opgenomen : het aantal afgeleverde ringen per verschillend ringtype, de datum van afgifte, de namen en adressen van de personen aan wie de ringen zijn afgeleverd;<br>
+			2° ze sturen elk jaar, uiterlijk op 30 april, per provincie, de volgende gegevens naar de provinciale hoofden van het agentschap :<br>
+			a) een lijst met vermelding van het aantal verstrekte gesloten pootringen, evenals de namen en adressen van de vogelhouders die bij de vereniging gesloten pootringen hebben besteld. Die lijst heeft betrekking op de periode van 1 januari tot en met 31 december van het voorafgaande kalenderjaar;<br>
+			b) een overzicht met vermelding van naam, adres en lidnummer van hun leden die specimens onder zich hebben van vogelsoorten die voorkomen op een daartoe door de minister bepaalde lijst, als vermeld in artikel 46, § 1.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">48</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Ten aanzien van individuele vogelhouders en vogelhandelaars die specimens onder zich hebben van vogelsoorten die voorkomen op een door de minister bepaalde lijst, als vermeld in artikel 46, §1, gelden de volgende administratieve verplichtingen:<br>
+			1° ze houden een overzichtslijst bij voor elk kalenderjaar waarin ze specimens van die soorten onder zich hebben, met de volgende gegevens:<br>
+			a) een overzicht van de specimens van die soorten die ze onder zich hebben;<br>
+			b) als specimens werden aangekocht of op een andere wijze werden verworven: de datum van verwerving en bij wie die specimens werden verworven;<br>
+			c) als specimens werden verkocht of op een andere wijze werden afgestaan: de datum van afstand en aan wie die specimens zijn afgestaan;<br>
+			2° ze sluiten die overzichtslijst jaarlijks af op 31 december van het kalenderjaar waarop de lijst betrekking heeft, en vervolgens delen ze mee dat ze voor dat jaar een dergelijke lijst afgesloten hebben aan:<br>
+			a) de erkende vogelhoudersvereniging waarvan ze lid zijn, uiterlijk op 28 februari.<br>
+			b) het agentschap, uiterlijk op 30 april, als ze geen lid zijn van een erkende vogelhoudersvereniging.<br>
+			3° ze houden die overzichtslijsten tot vijf jaar na het afsluiten ervan in hun bezit, met het oog op controle door de personen die belast zijn met het toezicht op dit besluit.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">51, eerste lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Zangwedstrijden, tentoonstellingen of andere openbare activiteiten met specimens van soorten, als vermeld in artikel 41 of 49, moeten minstens één week op voorhand worden gemeld aan het agentschap.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3, 3.3, zesde<br>
+			lid, 4°</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Voor de in het eerste lid, 3° en 4°, vermelde vallen en kooien gelden de volgend gebruiksvoorwaarden:<br>
+			4° de vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Daarnaast wordt ook de volgende tekst op het plaatje vermeld: "Deze val is geplaatst conform<br>
+			de uitvoeringsmodaliteiten van het Soortenbesluit van<br>
+			15 mei 2009, bijlage 3". Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3, 3.4, tweede<br>
+			lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">De bestrijding mag tevens worden uitgevoerd door een derde op voorwaarde van een schriftelijke toestemming van de eigenaar, de verhuurder of de exploitant of grondgebruiker of grondgebruikers.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3, 3.5</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">De bestrijding wordt bij het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+			Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° met een e-mail;<br>
+			3° via elektronische indiening.<br>
+			Het agentschap gaat na of de voorwaarden vervuld zijn om tot bestrijding over te gaan.<br>
+			De melding moet voldoen aan de volgende voorwaarden:<br>
+			1° uit de melding blijkt duidelijk dat is voldaan aan de voorwaarden van deze bijlage, vooral wat betreft het zonder bevredigend resultaat toegepast hebben van andere mogelijke oplossingen en wat betreft de<br>
+			voorgenomen bestrijdingsmiddelen en -wijzen;<br>
+			2° als de melder niet de eigenaar of de grondgebruiker of één van de grondgebruikers is van het terrein waar hij wil bestrijden, bevestigt de melder dat hij in het bezit is van een schriftelijke toestemming van de<br>
+			eigenaar;<br>
+			3° de bestrijding neemt op zijn vroegst een aanvang 24 uur na de melding;<br>
+			4° de duur van de gemelde bestrijding loopt maximaal tot het einde van het kalenderjaar waarop de melding betrekking heeft;<br>
+			5° bij de melding is een kaart gevoegd waarop de locatie waar de bestrijding zal plaatsvinden, precies wordt weergegeven. De kaart heeft een schaal van 1:10.000 of 1:25.000. Een kaart dient niet toegevoegd te worden wanneer de bestrijding plaatsvindt op een jachtterrein zoals gedefinieerd in artikel 1 van het Jachtadministratiebesluit van 25 april 2014. In dat geval worden in de melding de nummers van de betrokken jachtterreinen uit het goedgekeurde jachtplan opgenomen en in voorkomend geval, het aantal gebruikte vallen of kooien. De bestrijding vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd met het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of huiszoekingsbevel nodig is en die bovendien op redelijke wijze toegankelijk zijn;<br>
+			6° de melding bevat een omschrijving van het type schade als vermeld in onderdeel 3.1, alsook de vermoedelijke omvang van de schade die de melder wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
+			7° de melding bevat desgevallend het aantal trechtervallen of Larsen-kooien dat men voor de bestrijding zal inzetten.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3, 3.7</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Uiterlijk voor 1 april van elk jaar wordt aan het agentschap gerapporteerd over de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van deze bijlage zijn gedood. Die rapportage heeft betrekking op de aantallen van de dieren die gedood zijn.<br>
+			De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+			Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+			1° met een aangetekende brief;<br>
+			2° met een e-mail;<br>
+			3° via elektronische indiening.<br>
+			Voor onafhankelijke jachtrechthouders en erkende wildbeheereenheden kan gerapporteerd worden via het wildrapport.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3/1.3, punt 5°,<br>
+			c</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Ten aanzien van de middelen waarmee bestrijdingsactiviteiten ten aanzien van in het wild voorkomende uitheemse soorten uitgevoerd worden, gelden de volgende beperkingen:<br>
+			5° het gebruik van netten, levende-vangkooien of vallen is alleen toegestaan onder de volgende voorwaarden:<br>
+			c) De netten, vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">Bijlage 3/1.5, tweede<br>
+			lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">De bestrijding mag tevens worden uitgevoerd door een derde op voorwaarde van een schriftelijke toestemming van de eigenaar, de verhuurder of de exploitant of grondgebruiker of grondgebruikers.</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 4
+
+Vervanging van bijlage XXXIV bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2018 en vervangen bij het besluit van de Vlaamse Regering van 3 mei 2019, wordt vervangen door bijlage 4, die bij dit besluit is gevoegd.<br>
+<br>
+Bijlage XXXIV. Lijst van de milieu-inbreuken, ter uitvoering van artikel 16.1.2, 1°, f), en 16.4.27, derde lid, van het decreet<br>
+<br>
+Enig artikel.&nbsp;Het niet voldoen aan de onderstaande wettelijke verplichtingen, vermeld in het besluit van de Vlaamse Regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij, wordt beschouwd als een milieu-inbreuk:
+<table cellspacing="0" style="border-collapse:collapse; width:610px">
+	<tbody>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:100px">artikel</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:510px">wettelijke verplichting</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">8</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Het agentschap bepaalt de vorm van het visverlof.<br>
+			Een visverlof kan worden verkregen op een van de volgende wijzen :<br>
+			1° op het postkantoor;<br>
+			2° door middel van een internetapplicatie die wordt beheerd door of in opdracht van het agentschap.<br>
+			Een visverlof is persoonlijk en geldt alleen voor het jaar waarin het is afgegeven.<br>
+			Het vissen met een visverlof dat niet is afgegeven met toepassing van het eerste en het tweede lid, wordt gelijkgesteld met het vissen zonder visverlof.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">11</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Het is verboden te vissen op de volgende plaatsen :<br>
+			1° in sluizen;<br>
+			2° van boven op de bruggen van de waterwegen;<br>
+			3° in vispassages;<br>
+			4° in gedeelten van de waterlopen als het peil abnormaal laag is of als zich uitzonderlijk hoge visconcentraties voordoen;<br>
+			5° op alle plaatsen, zowel vanaf de oever als op het water, waar het agentschap ter plaatse door middel van de signalisatie, opgenomen in bijlage 2, die bij dit besluit is gevoegd, een tijdelijk of permanent visverbod heeft aangeduid.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">12</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">§1. Het vissen is onderworpen aan de volgende beperkingen:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het is verboden te vissen in de periode van 16 april tot en met 31 mei;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het is verboden te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het is verboden te vissen op zalmachtigen van 1 oktober tot en met 28 februari. Elke zalmachtige die toevallig gevangen wordt, wordt onmiddellijk en voorzichtig in het water van herkomst vrijgelaten;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in de volgende wateren geldt het hele jaar door een verbod op het gebruik van aasvissen en wordt elke gevangen vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de Zwalm en de zijwaterlopen die uitmonden in de Zwalm;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de IJse en de zijwaterlopen die uitmonden in de IJse, uitgezonderd de vijvers die in verbinding staan met de IJse en uitgezonderd de vijvers die in verbinding staan met de zijwaterlopen die uitmonden in de IJse.<br>
+			§2. In afwijking van paragraaf 1, 1°, is het toegestaan te vissen in de periode van 16 april tot en met 31 mei in de aangekruiste wateren van de kolom “vissen in paaitijd” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
+			§3. In afwijking van paragraaf 1, 1°, is het vliegvissen met kunstaas met een totale lengte van maximaal 2 centimeter in de periode van 16 april tot en met 31 mei toegestaan in alle wateren. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
+			In deze paragraaf wordt verstaan onder vliegvissen: de hengeltechniek waarbij gebruikgemaakt wordt van het gewicht van de lijn om het aas, de kunstvlieg, te werpen.<br>
+			§4. In afwijking van paragraaf 1, 2°, is het toegestaan te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang in de aangekruiste wateren van de kolom “nachtvisserij” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten. Daarbij mag een visser geen vis in het bezit hebben die buiten de periode van nachtvisserij is gevangen. Het gebruik van aasvissen en het gebruik van kunstaas met een totale lengte van meer dan 2 centimeter is verboden.<br>
+			§5. In afwijking van paragraaf 1, 1° en 2°, is het gedurende het hele jaar door in alle wateren toegestaan met één peur op paling te vissen. Tijdens het peuren mag geen andere hengel gebruikt worden. Het gebruik van een peurnet of peurbak is toegestaan om de paling op te vangen die met de peur gevangen is.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">13, eerste lid, 1°, 2°, 4° t/m 8° en tweede lid</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">De volgende vistuigen en wijzen van vissen zijn verboden :<br>
+			1° onder het ijs vissen;<br>
+			2° gekleurde maden gebruiken;<br>
+			4° aasvissen gebruiken in de periode van 1 maart tot en met 31 mei;<br>
+			5° eenzelfde hengel van meer dan drie enkelvoudige of veelvoudige haken voorzien;<br>
+			6° met meer dan twee hengels tegelijk vissen;<br>
+			7° in de periode van 1 december tot en met 28 februari en van 16 april tot en met 31 mei wadend vissen;<br>
+			8° een leefnet gebruiken.<br>
+			In het eerste lid, 7°, wordt verstaan onder wadend vissen : de wijze van vissen waarbij de visser zich tijdens het vissen door het water verplaatst over de bedding van de rivier.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">14</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Het gebruik van de hengel is alleen geoorloofd voor zover de visser zich in de mogelijkheid bevindt de hengel voortdurend te bewaken.<br>
+			Het schepnet mag alleen worden gebruikt om de met de hengel gevangen vis weg te nemen.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">15, §1, §2, §3, §4, §5</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">§ 1. Een visser mag:<br>
+			1° maximaal twintig vissen kleiner dan of gelijk aan 15 cm, waarvan maximaal vijf levende, vervoeren en tijdens het hengelen in zijn bezit houden;<br>
+			2° maximaal vijf dode vissen groter dan 15 cm vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+			De vissen, vermeld in het eerste lid, mogen uitsluitend behoren tot de volgende soorten: baars, beekforel, blankvoorn, brasem, (kol)blei, paling, rietvoorn, riviergrondel, snoekbaars en winde. Alle andere vissoorten worden na de vangst onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+			§ 2. Levende vissen mogen uitsluitend in een visemmer bewaard en vervoerd worden.<br>
+			In het eerste lid wordt verstaan onder visemmer: een emmer of recipiënt die gevuld is met water waarin vissen levend in bezit gehouden en vervoerd kunnen worden.<br>
+			§ 3. Voor de volgende vissoorten gelden beperkingen voor de maten bij het in bezit houden overeenkomstig paragraaf 1:<br>
+			1° beekforel, paling: minimummaat 30 cm;<br>
+			2° snoekbaars: minimummaat 45 cm en maximummaat 70 cm.<br>
+			3° zeevissoorten: voor zeevissoorten gelden als minimummaten de minimuminstandhoudingsreferentiegrootten, vermeld in deel A van bijlage V bij verordening (EU) 2019/1241 van het Europees Parlement en de Raad van 20 juni 2019 betreffende de instandhouding van visbestanden en de bescherming van mariene ecosystemen door middel van technische maatregelen, tot wijziging van de Verordeningen (EG) nr. 1967/2006 en (EG) nr. 1224/2009 van de Raad en de Verordeningen (EU) nr. 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 en (EU) 2019/1022 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EG) nr. 894/97, (EG) nr. 850/98, (EG) nr. 2549/2000, (EG) nr. 254/2002, (EG) nr. 812/2004 en (EG) nr. 2187/2005 van de Raad.<br>
+			Vissen kleiner dan de minimummaten of groter dan de maximummaat, vermeld in het eerste lid, worden na de vangst onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+			§ 4. Met behoud van de toepassing van paragraaf 1, 2 en 3 gelden voor de volgende vissoorten beperkingen voor het bezit of vervoer ervan:<br>
+			1° snoekbaars: een visser mag maximaal drie stuks vervoeren en tijdens het hengelen in zijn bezit houden;<br>
+			2° paling: een visser mag maximaal drie stuks vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+			§ 5. De lengte van de vis wordt gemeten in rechte lijn van de punt van de bek tot het uiteinde van de staartvin. Gevangen vissen mogen ter plaatse niet ontdaan worden van kop of staart en mogen niet ter plaatse geconsumeerd worden.</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top">16</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">§ 1. Wedstrijden moeten voldoen aan de volgende voorwaarden:<br>
+			1° minstens één maand vooraf wordt toelating aangevraagd aan het agentschap. Deze toelating wordt door de wedstrijdverantwoordelijke getoond op elk verzoek van de officieren van de gerechtelijke politie en van de toezichthouders die belast zijn met het toezicht op de naleving van de regelgeving over de riviervisserij;<br>
+			2° het voederen wordt beperkt tot maximaal 10 liter klaargemaakt voer per deelnemer per wedstrijd;<br>
+			3° de hengelvangstgegevens van elke wedstrijd worden geregistreerd en jaarlijks aan het agentschap bezorgd.<br>
+			<br>
+			<br>
+			Bij tijdige aanvraag wordt de toelating zoals bedoeld in het eerste lid, 1°, standaard door het agentschap verleend, behalve in de volgende gevallen:<br>
+			1° de aanvrager is de voorwaarden van eerdere toelatingen met betrekking tot hengelvangstregistratie nog niet nagekomen;<br>
+			2° er zijn meerdere aanvragen voor wedstrijden die op dezelfde locatie en tijdstip plaats vinden. In dat geval wordt een overleg georganiseerd tussen de betrokken aanvragers waarbij gezocht wordt naar een alternatieve locatie of tijdstip voor de wedstrijden. Het agentschap kan zich hierbij laten bijstaan door een hengelvereniging die een overkoepelende werking heeft op niveau van Vlaanderen. Indien bij dit overleg geen consensus wordt bereikt, wordt de toelating verleend op basis van volgende afnemende prioritering:
+			<ol>
+				<li>internationale wedstrijden met deelnemers uit meer dan één land;</li>
+				<li>nationale wedstrijden met deelnemers uit meer dan één provincie;</li>
+				<li>lokale wedstrijden met deelnemers uit dezelfde provincie;</li>
+				<li>de wedstrijd met de meeste deelnemers.</li>
+			</ol>
+			<br>
+			§ 2. In afwijking van artikel 12, §2, artikel 13, eerste lid, 8°, en artikel 15, §§1-2, mogen vissen het hele jaar door zonder beperking in aantal bewaard worden in een leefnet tijdens een wedstrijd die voldoet aan de voorwaarden, vermeld in paragraaf 1.<br>
+			<br>
+			Alle gevangen vissen worden in voldoende grote leefnetten bewaard tot na de weging of meting. Snoek, snoekbaars en de soorten, opgenomen in bijlage 1, die bij dit besluit is gevoegd, mogen niet in een leefnet bewaard worden.<br>
+			<br>
+			Na weging, meting of telling wordt elke vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+			§3. Met behoud van de toepassing van artikel 9, 1°, zijn de deelnemers aan een wedstrijd vrijgesteld van het bezit van een groot visverlof, maar moeten ze wel een gewoon visverlof bezitten tijdens de duur van de wedstrijd.</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 5
+
+Vervanging van bijlage 3&nbsp;van het besluit van de Vlaamse Regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018&nbsp;<br>
+<br>
+BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.
+<table cellspacing="0" style="border-collapse:collapse; width:605px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:38px; width:447px">Water</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:38px; width:76px">Vissen in paaitijd</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:38px; width:83px">Nachtvisserij</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Zeebrugge en Boudewijnkanaal (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Plassendale-Nieuwpoort</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Nieuwpoort-Duinkerke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Bergenvaart (of kanaal van Veurne naar Sint-Winoxbergen)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Lovaart (of Lokanaal)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">IJzer inbegrepen het Spaarbekken in Nieuwpoort</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Ieper-IJzer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Kanaal Brugge-Sluis (Damse Vaart): vanaf het Kanaal Gent-Oostende in Brugge tot aan de brug van de N49 in Hoeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Roeselare-Leie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Spierekanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Bossuit-Kortrijk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Toeristische Leie (vanaf Deinze tot aan de Ringvaart om Gent)<br>
+			Niet inbegrepen: de oude Leiearmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:173px; width:447px">Leie (vanaf de grens met Frankrijk tot aan de splitsing met de Toeristische Leie en met het Afleidingskanaal van de Leie in Deinze)<br>
+			Inbegrepen: de vertakking 'De Balokken' in Wervik, de vertakking aan de Leiekaai in Wervik, de vertakking in Busbeke (Bousbecque), de vertakking in Menen ten zuiden van de oude sluizen aan de Sluizenkaai, de beide takken van de Leie van de doortocht in Kortrijk en de Vertakking van Zulte rond het sluizencomplex van Sint-Baafs-Vijve.<br>
+			Inbegrepen: de Oude Leiearm Sisput in Sint-Eloois-Vijve en de Oude Leiearm in Machelen. Niet inbegrepen: de overige Oude Leiearmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:173px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:173px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Afleidingskanaal van de Leie (of Schipdonkkanaal)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal van Eeklo (of Vaart van Eeklo)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Leopoldkanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Oostende (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:187px; width:447px">Kanaal Gent-Oostende: vanaf de samenvloeiing met de Ringvaart om Gent en met de Brugse Vaart aan de Westbekesluis tot aan het Sas Slijkens in Oostende.<br>
+			Inbegrepen: Ringvaart om Brugge (Kanaal Gent-Oostende), de buitenvestingsgrachten van de stad Brugge en het afleidingskanaal van deze vestingsgrachten.<br>
+			Niet inbegrepen: de wateren binnen de binnenvest van Brugge: binnenarmen, Brugse reien en Coupure in Brugge.<br>
+			Niet inbegrepen: de Miseriebocht in Sint-Joris en de Gevaertsarm in Beernem.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:187px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:187px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Kanaal Gent-Terneuzen en Gentse Zeehaven (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Zeeschelde (vanaf de Gentbruggesluis aan de Bassijnstraat, voorbij de samenvloeiing in Melle met de Ringvaart om Gent en verder tot aan de grens met Nederland)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:340px; width:447px"><u>Rivieren en kanalen in Gent (in de zone omsloten door de R4 en de R40):</u><br>
+			Inbegrepen:<br>
+			1° Brugse Vaart (vanaf de samenvloeiing met de Ringvaart om Gent en met het Kanaal Gent-Oostende aan de Westbekesluis tot aan de Coupure aan de Nieuwevaartbrug op de R40)<br>
+			2° Coupure (vanaf de Brugse Vaart aan de Nieuwevaartbrug op de R40 tot aan de samenvloeiing met de Leie aan de Sint-Agnetebrug)<br>
+			3° Leie (vanaf de samenvloeiing met de Ringvaart om Gent aan de Snepdijk tot aan de Slachthuisbrug aan Portus Ganda)<br>
+			4° Schelde (vanaf de Gentbruggesluis aan de Bassijnstraat tot aan de samenvloeiing met de Ringvaart om Gent en met de Boven-Schelde), inbegrepen de Oude Scheldearm Franse Vaart en de Oude Scheldearm aan het Keizerpark<br>
+			5° Verbindingskanaal (vanaf de Nieuwevaartbrug op de R40 tot aan de samenvloeiing met het Tolhuisdok aan de Tolhuissluis)<br>
+			6° Visserijvaart (beide armen van de Visserijvaart vanaf de Slachthuisbrug aan Portus Ganda tot aan de samenvloeiing met de Schelde aan de R40)<br>
+			7° Lieve (vanaf de oorsprong aan de N430 tot aan de samenvloeiing met de Leie aan de Grasbrug)<br>
+			8° Ketelvaart (vanaf de samenvloeiing met de Leie aan de Ketelbrug tot aan de samenvloeiing met de Reep en de Muinkschelde aan de Brabantdam)<br>
+			9° De Reep of Nederschelde (vanaf de Nieuwbrugkaai aan Portus Ganda tot aan de samenvloeiing met de Ketelvaart en de Muinkschelde aan de Brabantdam)<br>
+			10° Muinkschelde (vanaf de samenvloeiing met de Ketelvaart en de Reep aan de Brabantdam tot aan de samenvloeiing met de Schelde aan de Stropkaai)<br>
+			11° Leiearm (vanaf de samenvloeiing met de Coupure aan de Leiekaai tot aan de Watersportbaan)<br>
+			12° Leiearm of Belvédère langs de Vissersdijk (vanaf de Watersportbaan aan de Zuiderlaan tot aan de samenvloeiing met de Leie)<br>
+			13° Watersportbaan<br>
+			14° Kanaal tussen Portus Ganda en de Dampoort of de Napoleon De Pauwvertakking, inbegrepen de zwaaikom aan de Dampoort<br>
+			15° Achterdok, Handelsdok, Houtdok, Tolhuissdok en Voorhaven (ten zuiden van de Meulestedebrug)<br>
+			Niet inbegrepen: Oude Leiearm (vanaf de Bourgoyen tot aan de samenvloeiing met de Leie aan de Griendijk)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:340px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:340px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Tijarm (vanaf de samenvloeiing met de Boven-Schelde in Zwijnaarde tot aan de samenvloeiing met de Ringvaart om Gent aan de sluis in Merelbeke)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Boven-Schelde (vanaf de grens met Wallonië tot aan de samenvloeiing met de Ringvaart om Gent aan de R4)<br>
+			Niet inbegrepen: alle Oude Schelde-armen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Moervaart (vanaf de samenvloeiing met Zuidlede in Daknam tot aan de samenvloeiing met het Kanaal Gent-Terneuzen)<br>
+			Inbegrepen: Oude Moervaart in Mendonk.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Moervaart-Durme in Lokeren (vanaf het pompstation aan de Oeverstraat in Lokeren tot aan de samenvloeiing met de Zuidlede in Daknam)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Getijden Durme (vanaf het pompstation aan de Oeverstraat in Lokeren tot aan de monding in de Zeeschelde)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:77px; width:447px">Dender<br>
+			Inbegrepen: de vertakkingen rond de sluizen van Geraardsbergen, Idegem, Denderleeuw en de Oude Dender of Traverse in Dendermonde.<br>
+			Niet inbegrepen: de overige Oude Denderarmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:77px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:77px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Zeekanaal Brussel-Schelde<br>
+			Inbegrepen: Darse of Dok van Vilvoorde aan de Verbrande brug tot aan de Zenne.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Brussel-Charleroi</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Rupel (vanaf de samenvloeiing met de Dijle en de Beneden-Nete tot aan de samenvloeiing met de Zeeschelde)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Beneden-Nete (vanaf de samenvloeiing met het Netekanaal tot aan de samenvloeiing met de Rupel en de Dijle)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Dijle (vanaf de samenvloeiing met de Demer in Werchter tot aan de samenvloeiing met de Rupel en de Beneden-Nete)<br>
+			Inbegrepen: de doortocht in Mechelen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Leuven-Dijle&nbsp; of Leuvense Vaart</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:115px; width:447px">Albertkanaal<br>
+			Inbegrepen: Kanaalkom in Hasselt, Insteekdok in Tessenderlo en Dokken van Merksem.<br>
+			Niet inbegrepen: Kolenhaven in Genk, Kolenhaven in Beringen in de buurt van de Havenstraat en Kolenhaven Beringen in de buurt van de Kolenhavenlaan.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Antwerpen (enkel de dokken van de Rechteroever en de Stadshaven; in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Schelde-Rijnverbinding (vanaf de samenvloeiing met Kanaaldok B3 tot aan de grens met Nederland)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Netekanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Dessel-Turnhout-Schoten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Bocholt-Herentals</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Dessel-Kwaadmechelen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal naar Beverlo</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:134px; width:447px">Zuid-Willemsvaart<br>
+			Inbegrepen: Oud Kanaal Neeroeteren ten noorden en ten zuiden van de Breeërweg-N721 in Maaseik, vertakking aan de Komweg in Maaseik.<br>
+			Niet inbegrepen: Oud Kanaal Bocholt aan de Elzenstraat in Bocholt, Oud Kanaal Bree-Beek ten westen en oosten van de Abroxweg in Bree, Oud Kanaal Dilsen ten noorden van de Boslaan-N75 in Dilsen-Stokkem, Oud Kanaal Lanklaar ten zuiden van de Boslaan-N75 in Dilsen-Stokkem.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:134px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:134px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Briegden-Neerharen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grensmaas (niet-inbegrepen: de grindplassen)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grindplassen Spaanjerd (Maasplassen Kinrooi)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grindplassen: Mynekomplas en Heerenlaak in Aldeneik</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Breeven in Bornem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Galgenweel in Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Burchtse Weel&nbsp; in Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Hazewinkel in Heindonk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Bocht in Heindonk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kleine vijver Muisbroek in Ekeren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Fort van Walem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Schranshoeve in Vorselaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Rivierenhof in Deurne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Spildoornvijver in Walem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Domein Walenhoek in Niel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Den Aerd in Minderhout</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Gemeentevijver Zandhoven (Put van Viersel)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Oude Maas in Dilsen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Geraardsbergen: Poelaertplas</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Geraardsbergen: kleine visvijver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Boerekreek in Sint-Laureins</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Bazelse Kreek en Rupelmondse Kreek in Kruibeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">E3-zandwinningsput aan de Drieselstraat in Oostakker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Groot Molsbroek (Hamputten)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Kreken in Sint-Laureins: Roeselarekreek, Nieuwe Roesalearekreek, Put Roste Muis, De Val, Molenkreek, Oostpolderkreek, Mesurekreek, Bentillekreek</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Rode Sluis in Moerbeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Pilleput aan de Rijksweg-N41 in Grembergen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Extensieve vijver Kortbroek in Kruibeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grote Kil en Grote Geul in Assenede</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Visvijver van Weerde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Zuidelijke vijver Groene Beemd in Sint-Pieters-Leeuw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Krommevijver (westelijke vijver) in Kasteelpark Gaasbeek</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kleine vijver in Domein Ter Rijst in Pepingen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaalvijver in Domein Coloma in Sint-Pieters-Leeuw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Harelbeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Waggelwater in Brugge</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Grote Keignaert en Kleine Keignaert in Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+	</tbody>
+</table>
