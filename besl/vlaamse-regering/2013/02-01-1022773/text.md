@@ -20,17 +20,18 @@ In dit besluit wordt verstaan onder :<br>
 1° agentschap : het Agentschap voor Natuur en Bos;<br>
 2° ...;<br>
 3° hengel : elk snoer dat van een roede voorzien is, ongeacht het gebruikte aas, alsook de peur;<br>
-4° onbevaarbare waterloop : een rivier of beek die de Vlaamse Regering niet bij de bevaarbare waterlopen gerangschikt heeft, stroomafwaarts van het punt waarop haar waterbekken ten minste 100 hectare bedraagt;<br>
-5° visplas : een oppervlaktewater, ander dan een waterloop, en waarop de wet van 1 juli 1954 van toepassing is;<br>
+4° ...;<br>
+5° ...;<br>
 6° ...;<br>
 7° ...;<br>
-8° wateren : alle waterlopen en visplassen;<br>
-9° waterloop : een onbevaarbare waterloop en een waterweg;<br>
-10° waterweg : een als bevaarbaar aangeduide waterloop of kanaal met een verbindingsfunctie via het water, alsook de havens en dokken;<br>
+8° ...;<br>
+9° ...;<br>
+10° ...;<br>
 11° wedstrijd: een hengelgebeuren waarbij vijf of meer vissers op hetzelfde tijdstip starten en stoppen met hengelen, en waarbij daarna een gestandaardiseerde weging, meting of telling van de inhoud van het leefnet plaatsvindt;<br>
 12° wet van 1 juli 1954 : de wet van 1 juli 1954 op de riviervisserij;<br>
 13° aasvis: elke vis die of elk deel van een vis dat gebruikt wordt als aas om andere vissen te vangen;<br>
-14° leefnet: net waarin men vissen die met de hengel zijn gevangen levend in bezit kan houden.
+14° leefnet: net waarin men vissen die met de hengel zijn gevangen levend in bezit kan houden;<br>
+15° nachtvisserij: vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang.
 
 ### ART. 2.
 
@@ -88,29 +89,23 @@ Het is verboden te vissen op de volgende plaatsen :<BR>1° in   sluizen;<BR>2° 
 
 ### ART. 12.
 
-<p>§ 1. In dit artikel wordt verstaan onder nachtvisserij : vissen tussen twee uur na het officiële uur van zonsondergang en twee uur voor het officiële uur van zonsopgang, op voorwaarde dat de visser in het bezit is van een geschikt visverlof.</p>
-
-<p>§ 2. Het vissen is onderworpen aan de volgende beperkingen :<br>
-1° in alle wateren is het verboden te vissen op zalmachtigen in de periode van 1 oktober tot en met 28 februari;<br>
-2° in alle onbevaarbare waterlopen, in de waterwegen of delen daarvan, opgesomd in bijlage 3, die bij dit besluit is gevoegd, en in de visplassen, opgesomd in bijlage 3, is het verboden :<br>
-a) te vissen op snoek en snoekbaars in de periode van 1 maart tot en met 31 mei;<br>
-b) te vissen op alle andere vissoorten in de periode van 16 april tot en met 31 mei;<br>
-c) nachtvisserij uit te oefenen.</p>
-
-<p>§ 3. Alle vissen die toevallig gevangen worden in de tijd waarin dat volgens paragraaf 2 verboden is, moeten onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.</p>
-
-<p>In alle wateren moet elke gevangen vis onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten tijdens het vissen in de periode van 16 april tot en met 31 mei of tijdens de nachtvisserij. Tijdens de nachtvisserij mag een visser evenmin vis in het bezit hebben die buiten de periode van nachtvisserij is gevangen.<br>
+<p>§1. Het vissen is onderworpen aan de volgende beperkingen:<br>
+1° het is verboden te vissen in de periode van 16 april tot en met 31 mei;<br>
+2° het is verboden te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang;<br>
+3° het is verboden te vissen op zalmachtigen van 1 oktober tot en met 28 februari. Elke zalmachtige die toevallig gevangen wordt, wordt onmiddellijk en voorzichtig in het water van herkomst vrijgelaten;&nbsp;<br>
+4° in de volgende wateren geldt het hele jaar door een verbod op het gebruik van aasvissen en wordt elke gevangen vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten:<br>
+a) de Zwalm en de zijwaterlopen die uitmonden in de Zwalm;<br>
+b) de IJse en de zijwaterlopen die uitmonden in de IJse, uitgezonderd de vijvers die in verbinding staan met de IJse en uitgezonderd de vijvers die in verbinding staan met de zijwaterlopen die uitmonden in de IJse.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. In afwijking van paragraaf 1, 1°, is het toegestaan te vissen in de periode van 16 april tot en met 31 mei in de aangekruiste wateren van de kolom “vissen in paaitijd” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
 <br>
-In alle wateren is het gebruik van aasvissen verboden in de periode van 16 april tot en met 31 mei.</p>
-
-<p>§ 4. Nachtvisserij is toegestaan in de waterwegen of delen daarvan die niet in bijlage 3 zijn opgesomd en in de visplassen die niet in bijlage 3 zijn opgesomd. Daarbij is echter het gebruik van aasvissen en het gebruik van kunstaas met een totale lengte van meer dan 2 cm verboden.</p>
-
-<p>§ 5. De volgende afwijkingen zijn van toepassing :<br>
-1° in afwijking van paragraaf 2, 2°, b), is het vliegvissen&nbsp;toegestaan in de periode van 16 april tot en met 31 mei;<br>
-2° in afwijking van paragraaf 2, 2°, b) en c), is het altijd en in alle wateren toegestaan met de peur op paling te vissen;<br>
-3° in afwijking van paragraaf 3, tweede lid, mogen vissers tijdens het vissen in de periode van 16 april tot en met 31 mei of tijdens de nachtvisserij alleen paling in het bezit hebben of meenemen op voorwaarde dat ze gebruik maken van één peur en geen andere hengel gebruiken.</p>
-
-<p>In het eerste lid, 1°, wordt verstaan onder vliegvissen : de hengeltechniek waarbij gebruikgemaakt wordt van het gewicht van de lijn om het aas, de kunstvlieg te werpen.</p>
+§3. In afwijking van paragraaf 1, 1°, is het vliegvissen met kunstaas met een totale lengte van maximaal 2 centimeter in de periode van 16 april tot en met 31 mei toegestaan in alle wateren. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br>
+<br>
+In deze paragraaf wordt verstaan onder vliegvissen: de hengeltechniek waarbij gebruik gemaakt wordt van het gewicht van de lijn om het aas, de kunstvlieg, te werpen.<br>
+<br>
+§4. In afwijking van paragraaf 1, 2°, is het toegestaan te vissen van twee uur na het officiële uur van zonsondergang tot twee uur voor het officiële uur van zonsopgang in de aangekruiste wateren van de kolom “nachtvisserij” van bijlage 3 bij dit besluit. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten. Daarbij mag een visser geen vis in het bezit hebben die buiten de periode van nachtvisserij is gevangen. Het gebruik van aasvissen en het gebruik van kunstaas met een totale lengte van meer dan 2 centimeter is verboden.&nbsp;<br>
+<br>
+§5. In afwijking van paragraaf 1, 1° en 2°, is het gedurende het hele jaar door in alle wateren toegestaan met één peur op paling te vissen. Tijdens het peuren mag geen andere hengel gebruikt worden. Het gebruik van een peurnet of peurbak is toegestaan om de paling op te vangen die met de peur gevangen is.</p>
 
 ### ART. 13.
 
@@ -118,7 +113,7 @@ In alle wateren is het gebruik van aasvissen verboden in de periode van 16 april
 1° onder het ijs vissen;<br>
 2° gekleurde maden gebruiken;<br>
 3° andere vistuigen dan een hengel, peur of schepnet gebruiken;<br>
-4° in de periode van 1 maart tot en met 31 mei in alle onbevaarbare waterlopen, in de waterwegen of delen daarvan, opgesomd in bijlage 3, en de visplassen, opgesomd in bijlage 3,&nbsp;aasvissen gebruiken en kunstaas met een totale lengte van meer dan 2 cm gebruiken;<br>
+4° aasvissen gebruiken in de periode van 1 maart tot en met 31 mei;;<br>
 5° eenzelfde hengel van meer dan drie enkelvoudige of veelvoudige haken voorzien;<br>
 6° met meer dan twee hengels tegelijk vissen;<br>
 7° in de periode van 1 december tot en met 28 februari en van 16 april tot en met 31 mei wadend vissen;<br>
@@ -144,7 +139,8 @@ In het eerste lid wordt verstaan onder visemmer: een emmer of recipiënt die gev
 <br>
 § 3. Voor de volgende vissoorten gelden beperkingen voor de maten bij het in bezit houden overeenkomstig paragraaf 1:<br>
 1° beekforel, paling: minimummaat 30 cm;<br>
-2° snoekbaars: minimummaat 45 cm en maximummaat 70 cm.<br>
+2° snoekbaars: minimummaat 45 cm en maximummaat 70 cm;<br>
+3° zeevissoorten: voor zeevissoorten gelden als minimummaten de minimuminstandhoudingsreferentiegrootten, vermeld in deel A van bijlage V bij verordening (EU) 2019/1241 van het Europees Parlement en de Raad van 20 juni 2019 betreffende de instandhouding van visbestanden en de bescherming van mariene ecosystemen door middel van technische maatregelen, tot wijziging van de Verordeningen (EG) nr. 1967/2006 en (EG) nr. 1224/2009 van de Raad en de Verordeningen (EU) nr. 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 en (EU) 2019/1022 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EG) nr. 894/97, (EG) nr. 850/98, (EG) nr. 2549/2000, (EG) nr. 254/2002, (EG) nr. 812/2004 en (EG) nr. 2187/2005 van de Raad.<br>
 <br>
 Vissen kleiner dan de minimummaten of groter dan de maximummaat, vermeld in het eerste lid, worden na de vangst onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
 <br>
@@ -156,22 +152,32 @@ Vissen kleiner dan de minimummaten of groter dan de maximummaat, vermeld in het 
 <br>
 § 6. In afwijking van paragraaf 1, 2°, en met behoud van de toepassing van paragraaf 2, 3, 4 en 5 mag een visser levende paling vervoeren en tijdens het hengelen in zijn bezit houden.<br>
 <br>
-§ 7. In afwijking van paragraaf 1 en 5, en artikel 12, § 3, mag een visser het hele jaar door, zowel overdag als tijdens de nachtvisserij, een onbeperkt aantal dode zeevissoorten vervoeren en tijdens het hengelen in zijn bezit houden.<br>
-<br>
+§7. In afwijking van paragraaf 1 en 5, in afwijking van artikel 12, §2 en §4, en met behoud van de toepassing van paragraaf 3, 3°, mag een visser het hele jaar door, zowel overdag als tijdens de nachtvisserij, een onbeperkt aantal dode zeevissoorten vervoeren en tijdens het hengelen in zijn bezit houden. Tijdens de nachtvisserij is het gebruik van zeevissoorten als aasvis verboden.<br>
+&nbsp;&nbsp; &nbsp;<br>
 In het eerste lid wordt verstaan onder zeevissoorten: de vissoorten waarvan de voortplanting plaatsvindt op zee, met uitzondering van paling.
 
 ### ART. 16.
 
-§ 1. Wedstrijden moeten voldoen aan de volgende voorwaarden:<br>
-1° minstens één maand vooraf wordt meldingsbewijs gedaan aan het agentschap. Dit meldingsbewijs wordt door de wedstrijdverantwoordelijke getoond op elk verzoek van de officieren van de gerechtelijke politie en van de toezichthouders die belast zijn met het toezicht op de naleving van de regelgeving over de riviervisserij;<br>
+§1. Wedstrijden moeten voldoen aan de volgende voorwaarden:<br>
+1° minstens één maand vooraf wordt toelating gevraagd aan het agentschap. Die toelating wordt door de wedstrijdverantwoordelijke getoond op elk verzoek van de officieren van de gerechtelijke politie en van de toezichthouders die belast zijn met het toezicht op de naleving van de regelgeving over de riviervisserij;<br>
 2° het voederen wordt beperkt tot maximaal 10 liter klaargemaakt voer per deelnemer per wedstrijd;<br>
 3° de hengelvangstgegevens van elke wedstrijd worden geregistreerd en jaarlijks aan het agentschap bezorgd.<br>
 <br>
-§ 2. In afwijking van artikel 12, § 3, artikel 13, eerste lid, 8°, en artikel 15, §§ 1 tot 4, mogen vissen het hele jaar door zonder beperking in aantal bewaard worden in een leefnet tijdens een wedstrijd die voldoet aan de voorwaarden, vermeld in paragraaf 1.<br>
+Bij tijdige aanvraag wordt de toelating zoals bedoeld in het eerste lid, 1°, standaard door het agentschap verleend, behalve in de volgende gevallen:<br>
+1° de aanvrager is de voorwaarden van eerdere toelatingen met betrekking tot hengelvangstregistratie nog niet nagekomen;<br>
+2° er zijn meerdere aanvragen voor wedstrijden die op dezelfde locatie en tijdstip plaats vinden. In dat geval wordt een overleg georganiseerd tussen de betrokken aanvragers waarbij gezocht wordt naar een alternatieve locatie of tijdstip voor de wedstrijden. Het agentschap kan zich hierbij laten bijstaan door een hengelvereniging die een overkoepelende werking heeft op niveau van Vlaanderen. Indien bij dit overleg geen consensus wordt bereikt, wordt de toelating verleend op basis van volgende afnemende prioritering:<br>
+a)&nbsp;&nbsp; &nbsp;internationale wedstrijden met deelnemers uit meer dan één land;<br>
+b)&nbsp;&nbsp; &nbsp;nationale wedstrijden met deelnemers uit meer dan één provincie;<br>
+c)&nbsp;&nbsp; &nbsp;lokale wedstrijden met deelnemers uit dezelfde provincie;<br>
+d)&nbsp;&nbsp; &nbsp;de wedstrijd met de meeste deelnemers.<br>
+<br>
+§2. In afwijking van artikel 12, §2, artikel 13, eerste lid, 8°, en artikel 15, §1 en §2, mogen vissen het hele jaar door zonder beperking in aantal bewaard worden in een leefnet tijdens een wedstrijd die voldoet aan de voorwaarden, vermeld in paragraaf 1..<br>
 <br>
 Alle gevangen vissen worden in voldoende grote leefnetten bewaard tot na de weging of meting. Snoek, snoekbaars en de soorten, opgenomen in bijlage 1, die bij dit besluit is gevoegd, mogen niet in een leefnet bewaard worden.<br>
 <br>
-Na weging, meting of telling wordt elke vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.
+Na weging, meting of telling wordt elke vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+<br>
+§3. Met behoud van de toepassing van artikel 9, 1°, zijn de deelnemers aan een wedstrijd vrijgesteld van het bezit van een groot visverlof. Ze moeten wel een gewoon visverlof bezitten tijdens de duur van de wedstrijd.
 
 ### ART. 17.
 
@@ -181,7 +187,7 @@ Na weging, meting of telling wordt elke vis onmiddellijk en voorzichtig in het w
 
 ### ART. 18.
 
-De bepalingen van dit besluit doen geen afbreuk aan geldende regelingen   over de toegankelijkheid van visplassen waarop de riviervisserijwetgeving van   toepassing is.<BR>
+De bepalingen van dit besluit doen geen afbreuk aan geldende regelingen over de toegankelijkheid van wateren waarop de riviervisserijwetgeving van toepassing is.
 
 ### ART. 19.
 
@@ -205,110 +211,445 @@ Lijst van de vissoorten en kreeften die volledige bescherming   genieten<BR>1° 
 
 ### BIJLAGE 3
 
-Lijst van de waterwegen en delen daarvan en de visplassen als vermeld in artikel 12, § 2, en artikel 13<br>
-1° waterwegen of delen van waterwegen :<br>
-a) Leiemeanders :<br>
-1) Oude Leie Bourgoyen;<br>
-2) Oude Leie Astene;<br>
-3) Oude Leie Grammene;<br>
-4) ...;<br>
-5) Oude Leie Gottem;<br>
-6) Oude Leie Oeselgem;<br>
-7) Oude Leie Sint-Baafs-Vijve;<br>
-8) Oude Leie Schoendalebocht;<br>
-9) Oude Leie Ooigem;<br>
-10) Oude Leie Bavikhove;<br>
-11) Oude Leie Wevelgem (Groot Volander en Leiebos);<br>
-12) Oude Leie Menen;<br>
-b) Scheldemeanders :<br>
-1) Oude Schelde Zonneput;<br>
-2) Oude Schelde Doornhammeke;<br>
-3) Oude Schelde Teirlinckput;<br>
-4) Oude Schelde Kriephoek;<br>
-5) Oude Schelde Meilegem;<br>
-6) Oude Schelde Mesureput;<br>
-7) Oude Schelde Blarewater;<br>
-8) Oude Schelde Spettekraai;<br>
-9) Oude Schelde Heurne-Heuvel;<br>
-10) Oude Schelde De Sterre;<br>
-11) Oude Schelde Nederename;<br>
-12) Oude Schelde Melden het Veer;<br>
-13) Oude Schelde het Anker;<br>
-14) Oude Schelde Elsegem;<br>
-15) Oude Schelde Berchem Meerse;<br>
-16) Oude Schelde Scheiteput;<br>
-17) Oude Schelde Kerkhove;<br>
-18) ...;<br>
-19) Oude Schelde Coupure Outrijve;<br>
-c) Schelde-estuarium : het betreft de volgende wateren of delen van wateren die als bevaarbaar gerangschikt zijn :<br>
-1) Oude Durme Hamme;<br>
-2) Zenne en Zenne-afleiding in Eppegem;<br>
-3) Nete stroomopwaarts de samenvloeiing met het Netekanaal in Duffel;<br>
-4) Kleine Nete;<br>
-5) Grote Nete;<br>
-6) Demer;<br>
-d) Overige (delen van) waterwegen :<br>
-1)Kanaal Ieper-Komen;<br>
-2) Zuidervaartje;<br>
-3) Antitankgracht;<br>
-4) Kanaal Brugge naar Sluis (Damse Vaart) : vanaf de brug Hoeke tot aan de grens met Nederland (Sluis);<br>
-5) Binnenvest Brugge : Brugse Reien;<br>
-6) Binnenvest Brugge : Brugse Coupure;<br>
-7) Gevaertsarm (oude arm Kanaal Gent-Oostende);<br>
-8) Miseriebocht (Oude arm Kanaal Gent-Oostende);<br>
-2° Visplassen :<br>
-a) provincie Antwerpen :<br>
-1) De Melle in Turnhout;<br>
-2) Domein Volharding in Rijkevorsel;<br>
-3) Domein Walenhoek in Niel;<br>
-4) Het Broek in Blaasveld;<br>
-5) Balderij in Tielen;<br>
-6) Fort van Oelegem;<br>
-b) provincie Limburg :<br>
-1) De Broek Elen;<br>
-2) Dijkbeemdvijver in Zonhoven;<br>
-3) Oud Kanaal Bocholt;<br>
-4) Oud Kanaal Bree-Beek;<br>
-5) Oud Kanaal Dilsen (noordelijk deel van zijarm van Zuid-Willemsvaart; ten noorden van de Boslaan-N75);<br>
-6) Oud Kanaal Lanklaar (zuidelijk deel van zijarm van Zuid-Willemsvaart; ten zuiden van de Boslaan-N75);<br>
-7) Schulensmeer;<br>
-8) Oude Maas Stokkem;<br>
-9) Grindplas Koole Greent;<br>
-10) Grindplas Bichterweert;<br>
-11) Grindplas Kerkeweerd;<br>
-12) Grindplas Negenoord Oost;<br>
-13) Grindplas Negenoord West;<br>
-14) Grindplas Maasbeempder Greend;<br>
-15) Grindplas Hochter Bampd;<br>
-c) provincie Oost-Vlaanderen :<br>
-1) ...;<br>
-2) ...;<br>
-3) ...;<br>
-4) ...;<br>
-5) ...;<br>
-6) ...;<br>
-7) ...;<br>
-8) Berlarebroek;<br>
-9) ...;<br>
-10) Bosdamvijver Wachtebeke;<br>
-11) Het Leen in Eeklo;<br>
-12) ...;<br>
-13) geul Zalegemdijk in Meerdonk;<br>
-d) provincie Vlaams-Brabant :<br>
-1) Groot Wachtbekken Zuunbeek;<br>
-2) Lindevijver in Groenendaal;<br>
-3) Putselvijver in Groenendaal;<br>
-4) Klein Wachtbekken Zuunbeek;<br>
-5) Meer van Rotselaar;<br>
-6) Webbekoms Broek;<br>
-7) Vossemvijver;<br>
-8) Kleine vijver van Horst;<br>
-9) Demermeander Schoonhoven;<br>
-10) grote vijver van Zevenbronnen;<br>
-e) provincie West-Vlaanderen :<br>
-1) Hoge Dijken in Oudenburg;<br>
-2) 't Veld-Zeetje in Ardooie;<br>
-3) Grote Bassin in Roeselare;<br>
-4) Bergelen Put;<br>
-5) Kasteelvijver Beernem;<br>
-6) Koolhofput in Nieuwpoort.
+BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:605px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:38px; width:447px">Water</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:38px; width:76px">Vissen in paaitijd</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:38px; width:83px">Nachtvisserij</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Zeebrugge en Boudewijnkanaal (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Plassendale-Nieuwpoort</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Nieuwpoort-Duinkerke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Bergenvaart (of kanaal van Veurne naar Sint-Winoxbergen)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Lovaart (of Lokanaal)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">IJzer inbegrepen het Spaarbekken in Nieuwpoort</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Ieper-IJzer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Kanaal Brugge-Sluis (Damse Vaart): vanaf het Kanaal Gent-Oostende in Brugge tot aan de brug van de N49 in Hoeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Roeselare-Leie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Spierekanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Bossuit-Kortrijk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Toeristische Leie (vanaf Deinze tot aan de Ringvaart om Gent)<br>
+			Niet inbegrepen: de oude Leiearmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:173px; width:447px">Leie (vanaf de grens met Frankrijk tot aan de splitsing met de Toeristische Leie en met het Afleidingskanaal van de Leie in Deinze)<br>
+			Inbegrepen: de vertakking 'De Balokken' in Wervik, de vertakking aan de Leiekaai in Wervik, de vertakking in Busbeke (Bousbecque), de vertakking in Menen ten zuiden van de oude sluizen aan de Sluizenkaai, de beide takken van de Leie van de doortocht in Kortrijk en de Vertakking van Zulte rond het sluizencomplex van Sint-Baafs-Vijve.<br>
+			Inbegrepen: de Oude Leiearm Sisput in Sint-Eloois-Vijve en de Oude Leiearm in Machelen. Niet inbegrepen: de overige Oude Leiearmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:173px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:173px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Afleidingskanaal van de Leie (of Schipdonkkanaal)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal van Eeklo (of Vaart van Eeklo)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Leopoldkanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Oostende (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:187px; width:447px">Kanaal Gent-Oostende: vanaf de samenvloeiing met de Ringvaart om Gent en met de Brugse Vaart aan de Westbekesluis tot aan het Sas Slijkens in Oostende.<br>
+			Inbegrepen: Ringvaart om Brugge (Kanaal Gent-Oostende), de buitenvestingsgrachten van de stad Brugge en het afleidingskanaal van deze vestingsgrachten.<br>
+			Niet inbegrepen: de wateren binnen de binnenvest van Brugge: binnenarmen, Brugse reien en Coupure in Brugge.<br>
+			Niet inbegrepen: de Miseriebocht in Sint-Joris en de Gevaertsarm in Beernem.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:187px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:187px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Kanaal Gent-Terneuzen en Gentse Zeehaven (in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Zeeschelde (vanaf de Gentbruggesluis aan de Bassijnstraat, voorbij de samenvloeiing in Melle met de Ringvaart om Gent en verder tot aan de grens met Nederland)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:340px; width:447px"><u>Rivieren en kanalen in Gent (in de zone omsloten door de R4 en de R40):</u><br>
+			Inbegrepen:<br>
+			1° Brugse Vaart (vanaf de samenvloeiing met de Ringvaart om Gent en met het Kanaal Gent-Oostende aan de Westbekesluis tot aan de Coupure aan de Nieuwevaartbrug op de R40)<br>
+			2° Coupure (vanaf de Brugse Vaart aan de Nieuwevaartbrug op de R40 tot aan de samenvloeiing met de Leie aan de Sint-Agnetebrug)<br>
+			3° Leie (vanaf de samenvloeiing met de Ringvaart om Gent aan de Snepdijk tot aan de Slachthuisbrug aan Portus Ganda)<br>
+			4° Schelde (vanaf de Gentbruggesluis aan de Bassijnstraat tot aan de samenvloeiing met de Ringvaart om Gent en met de Boven-Schelde), inbegrepen de Oude Scheldearm Franse Vaart en de Oude Scheldearm aan het Keizerpark<br>
+			5° Verbindingskanaal (vanaf de Nieuwevaartbrug op de R40 tot aan de samenvloeiing met het Tolhuisdok aan de Tolhuissluis)<br>
+			6° Visserijvaart (beide armen van de Visserijvaart vanaf de Slachthuisbrug aan Portus Ganda tot aan de samenvloeiing met de Schelde aan de R40)<br>
+			7° Lieve (vanaf de oorsprong aan de N430 tot aan de samenvloeiing met de Leie aan de Grasbrug)<br>
+			8° Ketelvaart (vanaf de samenvloeiing met de Leie aan de Ketelbrug tot aan de samenvloeiing met de Reep en de Muinkschelde aan de Brabantdam)<br>
+			9° De Reep of Nederschelde (vanaf de Nieuwbrugkaai aan Portus Ganda tot aan de samenvloeiing met de Ketelvaart en de Muinkschelde aan de Brabantdam)<br>
+			10° Muinkschelde (vanaf de samenvloeiing met de Ketelvaart en de Reep aan de Brabantdam tot aan de samenvloeiing met de Schelde aan de Stropkaai)<br>
+			11° Leiearm (vanaf de samenvloeiing met de Coupure aan de Leiekaai tot aan de Watersportbaan)<br>
+			12° Leiearm of Belvédère langs de Vissersdijk (vanaf de Watersportbaan aan de Zuiderlaan tot aan de samenvloeiing met de Leie)<br>
+			13° Watersportbaan<br>
+			14° Kanaal tussen Portus Ganda en de Dampoort of de Napoleon De Pauwvertakking, inbegrepen de zwaaikom aan de Dampoort<br>
+			15° Achterdok, Handelsdok, Houtdok, Tolhuissdok en Voorhaven (ten zuiden van de Meulestedebrug)<br>
+			Niet inbegrepen: Oude Leiearm (vanaf de Bourgoyen tot aan de samenvloeiing met de Leie aan de Griendijk)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:340px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:340px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Tijarm (vanaf de samenvloeiing met de Boven-Schelde in Zwijnaarde tot aan de samenvloeiing met de Ringvaart om Gent aan de sluis in Merelbeke)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Boven-Schelde (vanaf de grens met Wallonië tot aan de samenvloeiing met de Ringvaart om Gent aan de R4)<br>
+			Niet inbegrepen: alle Oude Schelde-armen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Moervaart (vanaf de samenvloeiing met Zuidlede in Daknam tot aan de samenvloeiing met het Kanaal Gent-Terneuzen)<br>
+			Inbegrepen: Oude Moervaart in Mendonk.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Moervaart-Durme in Lokeren (vanaf het pompstation aan de Oeverstraat in Lokeren tot aan de samenvloeiing met de Zuidlede in Daknam)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Getijden Durme (vanaf het pompstation aan de Oeverstraat in Lokeren tot aan de monding in de Zeeschelde)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:77px; width:447px">Dender<br>
+			Inbegrepen: de vertakkingen rond de sluizen van Geraardsbergen, Idegem, Denderleeuw en de Oude Dender of Traverse in Dendermonde.<br>
+			Niet inbegrepen: de overige Oude Denderarmen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:77px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:77px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Zeekanaal Brussel-Schelde<br>
+			Inbegrepen: Darse of Dok van Vilvoorde aan de Verbrande brug tot aan de Zenne.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Brussel-Charleroi</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Rupel (vanaf de samenvloeiing met de Dijle en de Beneden-Nete tot aan de samenvloeiing met de Zeeschelde)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Beneden-Nete (vanaf de samenvloeiing met het Netekanaal tot aan de samenvloeiing met de Rupel en de Dijle)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Dijle (vanaf de samenvloeiing met de Demer in Werchter tot aan de samenvloeiing met de Rupel en de Beneden-Nete)<br>
+			Inbegrepen: de doortocht in Mechelen.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Leuven-Dijle&nbsp; of Leuvense Vaart</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:115px; width:447px">Albertkanaal<br>
+			Inbegrepen: Kanaalkom in Hasselt, Insteekdok in Tessenderlo en Dokken van Merksem.<br>
+			Niet inbegrepen: Kolenhaven in Genk, Kolenhaven in Beringen in de buurt van de Havenstraat en Kolenhaven Beringen in de buurt van de Kolenhavenlaan.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Haven van Antwerpen (enkel de dokken van de Rechteroever en de Stadshaven; in de door het havenbestuur aangewezen hengelzones)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; width:447px">Schelde-Rijnverbinding (vanaf de samenvloeiing met Kanaaldok B3 tot aan de grens met Nederland)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Netekanaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Dessel-Turnhout-Schoten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Bocholt-Herentals</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Dessel-Kwaadmechelen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal naar Beverlo</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:134px; width:447px">Zuid-Willemsvaart<br>
+			Inbegrepen: Oud Kanaal Neeroeteren ten noorden en ten zuiden van de Breeërweg-N721 in Maaseik, vertakking aan de Komweg in Maaseik.<br>
+			Niet inbegrepen: Oud Kanaal Bocholt aan de Elzenstraat in Bocholt, Oud Kanaal Bree-Beek ten westen en oosten van de Abroxweg in Bree, Oud Kanaal Dilsen ten noorden van de Boslaan-N75 in Dilsen-Stokkem, Oud Kanaal Lanklaar ten zuiden van de Boslaan-N75 in Dilsen-Stokkem.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:134px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:134px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaal Briegden-Neerharen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grensmaas (niet-inbegrepen: de grindplassen)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grindplassen Spaanjerd (Maasplassen Kinrooi)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grindplassen: Mynekomplas en Heerenlaak in Aldeneik</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Breeven in Bornem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Galgenweel in Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Burchtse Weel&nbsp; in Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Hazewinkel in Heindonk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Bocht in Heindonk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kleine vijver Muisbroek in Ekeren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Fort van Walem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Schranshoeve in Vorselaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Rivierenhof in Deurne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Spildoornvijver in Walem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Domein Walenhoek in Niel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Den Aerd in Minderhout</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Gemeentevijver Zandhoven (Put van Viersel)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Oude Maas in Dilsen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Geraardsbergen: Poelaertplas</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Geraardsbergen: kleine visvijver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Boerekreek in Sint-Laureins</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Bazelse Kreek en Rupelmondse Kreek in Kruibeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">E3-zandwinningsput aan de Drieselstraat in Oostakker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Groot Molsbroek (Hamputten)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Kreken in Sint-Laureins: Roeselarekreek, Nieuwe Roesalearekreek, Put Roste Muis, De Val, Molenkreek, Oostpolderkreek, Mesurekreek, Bentillekreek</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Rode Sluis in Moerbeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Pilleput aan de Rijksweg-N41 in Grembergen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Extensieve vijver Kortbroek in Kruibeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grote Kil en Grote Geul in Assenede</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Visvijver van Weerde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Zuidelijke vijver Groene Beemd in Sint-Pieters-Leeuw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Krommevijver (westelijke vijver) in Kasteelpark Gaasbeek</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kleine vijver in Domein Ter Rijst in Pepingen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kanaalvijver in Domein Coloma in Sint-Pieters-Leeuw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Harelbeke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Waggelwater in Brugge</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Grote Keignaert en Kleine Keignaert in Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+&nbsp;
