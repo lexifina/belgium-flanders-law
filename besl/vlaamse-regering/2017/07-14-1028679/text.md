@@ -116,11 +116,11 @@ Een elektronisch dossier, vermeld in het eerste en het tweede lid, voldoet aan d
 
 ### ART 6.
 
-§ 1. Na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 5, § 3, wordt het ontwerp van natuurbeheerplan voor een terrein van type twee, type drie of type vier voor consultatie ter inzage gelegd bij het agentschap, bij de indiener, of op een door de indiener en het agentschap gezamenlijk te bepalen plaats in de omgeving van het terrein waarvoor het natuurbeheerplan wordt opgesteld.<br>
+§ 1. Na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 5, § 3, wordt het ontwerp van natuurbeheerplan voor een terrein van type twee, type drie of type vier voor consultatie ter inzage gelegd bij het agentschap, bij de indiener, of op een door de indiener en het agentschap gezamenlijk te bepalen plaats in de omgeving van het terrein waarvoor het natuurbeheerplan wordt opgesteld.&nbsp;Deze consultatie is niet vereist wanneer het beheerplan uitsluitend gaat over niet-publiek toegankelijke militaire domeinen.<br>
 <br>
-§ 2. De indiener zorgt voor de aankondiging van de consultatie over het ontwerp van natuurbeheerplan binnen dertig kalenderdagen na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 5, § 3. De aankondiging wordt bekendgemaakt op één van de volgende wijzen:<br>
+§ 2. De indiener zorgt voor de aankondiging van de consultatie over het ontwerp van natuurbeheerplan binnen dertig kalenderdagen na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 5, § 3. De aankondiging wordt bekendgemaakt op elk van de volgende wijzen:<br>
 1° in minstens één regionale krant;<br>
-2° via de gemeentelijke informatiekanalen;<br>
+2° door het aanbieden bij de lokale overheid voor publicatie in de gemeentelijke informatiekanalen. De lokale overheid verzekert de publicatie van de aankondiging, minstens op haar website, binnen een termijn van één week;<br>
 3° door middel van aanplakking op een duidelijk zichtbare wijze langs de toegangsweg of -wegen van het terrein in kwestie.<br>
 <br>
 De wijze van bekendmaking als vermeld in het eerste lid wordt nader bepaald in deel 1 van het natuurbeheerplan, vermeld in artikel 3, eerste lid, 1°, van dit besluit.<br>
