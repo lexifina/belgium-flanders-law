@@ -34,11 +34,19 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-<P>Het jachtverlof en de jachtvergunning worden afgegeven door een   arrondissementscommissaris. <BR></P>  <P>De volgende arrondissementscommissarissen zijn bevoegd: <BR>1° als de   woonplaats van de aanvrager zich in het Vlaamse Gewest bevindt: de   arrondissementscommissaris van de provincie waarin de woonplaats van de   aanvrager ligt;<BR>2° als de woonplaats van de aanvrager zich niet in het   Vlaamse Gewest bevindt: de arrondissementscommissaris van een Vlaamse provincie   naar keuze;<BR>3° als het gaat om de leden van de koninklijke familie: de   arrondissementscommissaris van de provincie Vlaams-Brabant;<BR>4° als het gaat   om diplomatieke en consulaire ambtenaren van buitenlandse nationaliteit die   erkend zijn door het lid van de Federale Regering van wie de buitenlandse   betrekkingen tot zijn bevoegdheden behoren: de arrondissementscommissaris van de   provincie Vlaams-Brabant.</P>
+<p>Het jachtverlof en de jachtvergunning worden afgegeven door een arrondissementscommissaris.</p>
+
+<p>De volgende arrondissementscommissarissen zijn bevoegd:<br>
+1° als de woonplaats van de aanvrager zich in het Vlaamse Gewest bevindt: de arrondissementscommissaris van de provincie waarin de woonplaats van de aanvrager ligt;<br>
+2° als de woonplaats van de aanvrager zich niet in het Vlaamse Gewest bevindt: de arrondissementscommissaris van een Vlaamse provincie naar keuze;<br>
+3° als het gaat om de leden van de koninklijke familie: de arrondissementscommissaris van de provincie Vlaams-Brabant;<br>
+4° als het gaat om diplomatieke en consulaire ambtenaren van buitenlandse nationaliteit die erkend zijn door het lid van de Federale Regering van wie de buitenlandse betrekkingen tot zijn bevoegdheden behoren: de arrondissementscommissaris van de provincie Vlaams-Brabant.<br>
+<br>
+Voor de controle van de rechtmatigheid van jachtverloven en jachtvergunningen baseert de arrondissementscommissaris zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister, de gegevens uit het strafregister en de gegevens uit de databanken over wapens.</p>
 
 ### ART. 4.
 
-Elk jaar, uiterlijk op 1 augustus, bezorgt elke betrokken   arrondissementscommissaris aan het agentschap de volgende gegevens:<BR>1° een   overzicht van het aantal afgeleverde jachtverloven voor het voorbije   jachtseizoen, voor elk van de twee types, vermeld in artikel 16 van het   Jachtdecreet van 24 juli 1991. De arrondissementscommissarissen geven daarbij   het afzonderlijke aantal weer voor elk van de vier types begunstigden, vermeld   in artikel 3, tweede lid van dit besluit;<BR>2° een overzicht van het aantal   afgeleverde jachtvergunningen voor het voorbije jachtseizoen.
+...
 
 ### ART. 5.
 
@@ -52,15 +60,42 @@ Elk jaar, uiterlijk op 1 augustus, bezorgt elke betrokken   arrondissementscommi
 
 ### ART. 7.
 
-<P>Een aanvraag van een jachtverlof wordt bij de arrondissementscommissaris   ingediend met een elektronisch formulier of wordt aangetekend opgestuurd naar de   arrondissementscommissaris met een papieren formulier. Het model van beide   formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de   website www.natuurenbos.be van het agentschap.<BR><BR>Om een jachtverlof te   verkrijgen, worden de volgende documenten bij het aanvraagformulier   gevoegd:<BR>1° een recente foto van de aanvrager van het jachtverlof. De foto   heeft minstens de volgende afmetingen: 4 cm hoog bij 3,5 cm breed. Het hoofd op   de foto moet 1,5 tot 2 cm hoog zijn;<BR>2° een uittreksel uit het strafregister,   afgeleverd conform artikel 596, eerste lid, van het Wetboek van Strafvordering,   of, voor wie niet in België gedomicilieerd is, een gelijkwaardig document,   uitgereikt door een gerechtelijke of een overheidsinstantie van het land waar   men gedomicilieerd is. Wie sinds minder dan een jaar in België gedomicilieerd   is, bezorgt naast het uittreksel tevens een gelijkwaardig document van het land   waar men voor de domiciliëring in België gedomicilieerd was. Het uittreksel of   het daaraan gelijkwaardige document mag op het moment van de aanvraag niet ouder   zijn dan drie maanden;<BR>3° in voorkomend geval het jachtverlof dat aan de   aanvrager is afgeleverd voor het jachtseizoen dat voorafgaat aan het   jachtseizoen waarvoor een nieuw jachtverlof wordt aangevraagd;<BR>4° in een   ander geval dan het geval, vermeld in punt 3°, een geldig getuigschrift,   uitgereikt in het Vlaamse Gewest, waaruit blijkt dat de aanvrager geslaagd is   voor het praktische gedeelte van het jachtexamen.<BR><BR>Als de aanvrager een   Belgisch rijksregisternummer heeft, kan de arrondissementscommissaris de   documenten, vermeld in het tweede lid, 1°, 3° en 4°, in de authentieke bron   raadplegen en hoeven ze niet meer bij het aanvraagformulier gevoegd te worden.   Dat geldt niet in de situatie, vermeld in artikel 9, wat betreft de documenten   vermeld in het tweede lid, 3° en 4°. Personen die zich in die situatie bevinden,   moeten de documenten in kwestie wel bij het aanvraagformulier voegen.<BR><BR>In   het geval dat de documenten bij het aanvraagformulier moeten worden gevoegd   volstaat het om kopieën of afschriften van de originele documenten bij het   aanvraagformulier te voegen. De aanvrager houdt de originele documenten ter   beschikking voor controle.</P>
+<p>Een aanvraag van een jachtverlof wordt bij de arrondissementscommissaris ingediend met een elektronisch formulier of wordt aangetekend opgestuurd naar de arrondissementscommissaris met een papieren formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+<br>
+Om een jachtverlof te verkrijgen, worden de volgende documenten bij het aanvraagformulier gevoegd:<br>
+1° een recente foto van de aanvrager van het jachtverlof. De foto heeft minstens de volgende afmetingen: 4 cm hoog bij 3,5 cm breed. Het hoofd op de foto moet 1,5 tot 2 cm hoog zijn;<br>
+2° een uittreksel uit het strafregister, afgeleverd conform artikel 596, eerste lid, van het Wetboek van Strafvordering, of, voor wie niet in België gedomicilieerd is, een gelijkwaardig document, uitgereikt door een gerechtelijke of een overheidsinstantie van het land waar men gedomicilieerd is. Wie sinds minder dan een jaar in België gedomicilieerd is, bezorgt naast het uittreksel tevens een gelijkwaardig document van het land waar men voor de domiciliëring in België gedomicilieerd was. Het uittreksel of het daaraan gelijkwaardige document mag op het moment van de aanvraag niet ouder zijn dan drie maanden;<br>
+3° in voorkomend geval het jachtverlof dat aan de aanvrager is afgeleverd voor het jachtseizoen dat voorafgaat aan het jachtseizoen waarvoor een nieuw jachtverlof wordt aangevraagd;<br>
+4° in een ander geval dan het geval, vermeld in punt 3°, een geldig getuigschrift, uitgereikt in het Vlaamse Gewest, waaruit blijkt dat de aanvrager geslaagd is voor het praktische gedeelte van het jachtexamen.<br>
+<br>
+Als de aanvrager een Belgisch rijksregisternummer heeft, kan de arrondissementscommissaris de documenten, vermeld in het tweede lid, 1°, 3° en 4°, in de authentieke bron raadplegen en hoeven ze niet meer bij het aanvraagformulier gevoegd te worden. Dat geldt niet in de situatie, vermeld in artikel 9, voor het document, vermeld in het tweede lid, 4°. Personen die zich in die situatie bevinden, moeten het document in kwestie wel bij het aanvraagformulier voegen.<br>
+<br>
+In het geval dat de documenten bij het aanvraagformulier moeten worden gevoegd volstaat het om kopieën of afschriften van de originele documenten bij het aanvraagformulier te voegen. De aanvrager houdt de originele documenten ter beschikking voor controle.</p>
 
 ### ART. 8.
 
-De volgende personen zijn vrijgesteld van het voorleggen van het   uittreksel, vermeld in artikel 7,&nbsp;tweede lid, 2°, en van het getuigschrift,   vermeld in artikel 7,&nbsp;tweede lid, 4° :<BR>1° de leden van de koninklijke   familie;<BR>2° de diplomatieke en consulaire ambtenaren van buitenlandse   nationaliteit die erkend zijn door het lid van de Federale Regering van wie de   buitenlandse betrekkingen tot zijn bevoegdheid behoren.
+In afwijking van artikel 7, tweede lid voegen de volgende personen steeds een getuigschrift toe zoals bedoeld in artikel 7, tweede lid, 4° aan hun aanvraag om een jachtverlof te verkrijgen:<br>
+1° de leden van de koninklijke familie;<br>
+2° de diplomatieke en consulaire ambtenaren van buitenlandse nationaliteit die erkend zijn door het lid van de Federale Regering van wie de buitenlandse betrekkingen tot zijn bevoegdheid behoren.
 
 ### ART. 9.
 
-<P>Een bewijs van slagen voor het jachtexamen in de volgende landen of gewesten   is gelijkwaardig aan het geldig getuigschrift, vermeld in artikel 7,&nbsp;tweede   lid, 4° :<BR>1° het Waalse Gewest, op voorwaarde dat het bewijs van slagen is   uitgereikt vanaf 1 januari 1998;<BR>2° Nederland;<BR>3° het Groothertogdom   Luxemburg; <BR>4° Frankrijk, op voorwaarde dat het bewijs van slagen is   uitgereikt vanaf 1 januari 2003;<BR>5° Duitsland;<BR>6° Oostenrijk.<BR></P>  <P>De minister kan een bewijs van slagen voor het jachtexamen uitgereikt in   andere Europese lidstaten gelijkstellen aan het geldig getuigschrift, vermeld in   artikel 7,&nbsp;tweede lid, 4°, na het aantonen door de andere lidstaten van de   gelijkwaardigheid voor hun concrete situatie.<BR></P>  <P>Een geldig jachtverlof dat is afgeleverd in de volgende landen of gewesten,   en dat geldig is voor het jachtseizoen waarvoor het jachtverlof wordt   aangevraagd, is gelijkwaardig aan het uittreksel, vermeld in artikel   7,&nbsp;tweede lid, 2°, en aan het getuigschrift, vermeld in artikel   7,&nbsp;tweede lid, 4° :<BR>1° het Waalse Gewest;<BR>2° Nederland;<BR>3° het   Groothertogdom Luxemburg.</P>
+<p>Een bewijs van slagen voor het jachtexamen in de volgende landen of gewesten is gelijkwaardig aan het geldig getuigschrift, vermeld in artikel 7,&nbsp;tweede lid, 4° :<br>
+1° het Waalse Gewest, op voorwaarde dat het bewijs van slagen is uitgereikt vanaf 1 januari 1998;<br>
+2° Nederland;<br>
+3° het Groothertogdom Luxemburg;<br>
+4° Frankrijk, op voorwaarde dat het bewijs van slagen is uitgereikt vanaf 1 januari 2003, en voor 1 juli 2024, en voor zover de titularis beschikt over een geldig Vlaams jachtverlof voor het jachtseizoen dat voorafgaat aan het jachtseizoen waarvoor het jachtverlof wordt aangevraagd;<br>
+5° Duitsland;<br>
+6° Oostenrijk.</p>
+
+<p>De minister kan een bewijs van slagen voor het jachtexamen uitgereikt in andere Europese lidstaten gelijkstellen aan het geldig getuigschrift, vermeld in artikel 7,&nbsp;tweede lid, 4°, na het aantonen door de andere lidstaten van de gelijkwaardigheid voor hun concrete situatie.</p>
+
+<p>Een geldig jachtverlof dat is afgeleverd in de volgende landen of gewesten, en dat geldig is voor het jachtseizoen waarvoor het jachtverlof wordt aangevraagd, is gelijkwaardig aan het uittreksel, vermeld in artikel 7,&nbsp;tweede lid, 2°, en aan het getuigschrift, vermeld in artikel 7,&nbsp;tweede lid, 4° :<br>
+1° het Waalse Gewest;<br>
+2° Nederland;<br>
+3° het Groothertogdom Luxemburg.<br>
+<br>
+Als het Waalse Gewest of de landen, vermeld in het derde lid, andere bewijzen van het slagen voor het jachtexamen erkennen dan het geldig getuigschrift van het slagen voor het jachtexamen in het Vlaamse Gewest of een gelijkwaardig bewijs van het slagen voor het jachtexamen, vermeld in het eerste lid, geldt de &nbsp;gelijkwaardigheid, vermeld in het derde lid, alleen als het jachtverlof is afgeleverd op basis van een geldig getuigschrift van het slagen voor het jachtexamen in het Vlaamse Gewest of een gelijkwaardig bewijs van het slagen voor het jachtexamen als vermeld in het eerste lid, behoudens voor personen die vrijgesteld zijn van het voorleggen van een jachtexamengetuigschrift in het land of gewest waarin het jachtverlof is afgeleverd.</p>
 
 ## Afdeling 3. De jachtvergunning
 
@@ -74,21 +109,63 @@ De houder van een geldig jachtverlof, afgeleverd in het Vlaamse Gewest,   kan aa
 
 ### ART. 12.
 
-<P>Een aanvraag van een jachtvergunning wordt bij de arrondissementscommissaris   ingediend met een elektronisch formulier of wordt aangetekend opgestuurd naar de   arrondissementscommissaris met een papieren formulier. Het model van beide   formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de   website www.natuurenbos.be van het agentschap.<BR><BR>Om een jachtvergunning te   verkrijgen, worden de volgende documenten bij het aanvraagformulier   gevoegd:<BR>1° een recente foto van de genodigde. De foto heeft minstens de   volgende afmetingen: 4 cm hoog bij 3,5 cm breed. Het hoofd op de foto moet 1,5   tot 2 cm hoog zijn;<BR>2° een jachtverlof van de genodigde dat is afgeleverd in   het land van oorsprong of in het land van woonplaats van de genodigde en dat   geldig is voor het jachtseizoen waarvoor de vergunning wordt aangevraagd;<BR>3°   een schriftelijke verklaring van de aanvrager waaruit blijkt dat de aanvrager   garandeert dat de genodigde zich niet in een toestand bevindt waarvoor een   arrondissementscommissaris een jachtvergunning moet of kan weigeren als vermeld   artikel 13 en 14. Het model van de verklaring wordt opgesteld door het   agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het   agentschap.<BR><BR>Als de genodigde een Belgisch rijksregisternummer heeft, kan   de arrondissementscommissaris het document, vermeld in het tweede lid, 1°, in de   authentieke bron raadplegen en hoeft het niet meer bij het aanvraagformulier   gevoegd te worden.<BR><BR>In het geval dat de documenten bij het   aanvraagformulier moeten worden gevoegd volstaat het om kopieën of afschriften   van de originele documenten bij het aanvraagformulier te voegen. De genodigde   houdt de originele documenten ter beschikking voor controle.</P>
+<p>Een aanvraag van een jachtvergunning wordt bij de arrondissementscommissaris ingediend met een elektronisch formulier of wordt aangetekend opgestuurd naar de arrondissementscommissaris met een papieren formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+<br>
+Om een jachtvergunning te verkrijgen, worden de volgende documenten bij het aanvraagformulier gevoegd:<br>
+1° een recente foto van de genodigde. De foto heeft minstens de volgende afmetingen: 4 cm hoog bij 3,5 cm breed. Het hoofd op de foto moet 1,5 tot 2 cm hoog zijn;<br>
+2° een jachtverlof van de genodigde dat is afgeleverd in het land van oorsprong of in het land van woonplaats van de genodigde en dat geldig is voor het jachtseizoen waarvoor de vergunning wordt aangevraagd;<br>
+3° een schriftelijke verklaring van de aanvrager waaruit blijkt dat de aanvrager garandeert dat de genodigde zich niet in een toestand bevindt waarvoor een arrondissementscommissaris een jachtvergunning moet of kan weigeren als vermeld artikel 13 en 14. Het model van de verklaring wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+<br>
+Als de genodigde een Belgisch rijksregisternummer heeft, kan de arrondissementscommissaris het document, vermeld in het tweede lid, 1°, in de authentieke bron raadplegen en hoeft het niet meer bij het aanvraagformulier gevoegd te worden.<br>
+<br>
+In het geval dat de documenten bij het aanvraagformulier moeten worden gevoegd volstaat het om kopieën of afschriften van de originele documenten bij het aanvraagformulier te voegen. De genodigde houdt de originele documenten ter beschikking voor controle.</p>
 
 ## Afdeling 4. Weigering en intrekking van jachtverlof en jachtvergunning
 
 ### ART. 13.
 
-De arrondissementscommissaris weigert aan de volgende personen een   jachtverlof of een jachtvergunning af te leveren:<BR>1° de personen die   geschorst zijn, ontzet zijn of vervallen verklaard zijn van het recht om wapens   voorhanden te hebben of te dragen;<BR>2° de personen die minder dan 18 jaar oud   zijn;<BR>3° de personen die veroordeeld zijn wegens een jachtmisdrijf. Deze   bepaling geldt alleen voor misdrijven die aan de arrondissementscommissaris   sinds minder dan twaalf maanden voor de aanvraag bekend zijn, tenzij in het   geval van veroordeling wegens een jachtmisdrijf, gepleegd met verboden wapens,   in bende, bij nacht, met verboden tuigen of met motorvoertuigen;<BR>4° de   personen die zich niet hebben gehouden aan de strafrechtelijke verplichtingen   die volgen uit een veroordeling wegens jachtmisdrijf;<BR>5° de personen die   veroordeeld zijn wegens een misdrijf waarbij daden van geweld of weerspannigheid   zijn gepleegd;<BR>6° de personen die geheel of ten dele vervallen verklaard zijn   van de rechten, vermeld in artikel 123sexies van het Strafwetboek.
+De arrondissementscommissaris weigert aan de volgende personen een jachtverlof of een jachtvergunning af te leveren:<br>
+1° de personen die geschorst zijn, ontzet zijn of vervallen verklaard zijn van het recht om wapens voorhanden te hebben of te dragen, voor de duur van deze maatregel;<br>
+2° de personen die minder dan 18 jaar oud zijn;<br>
+3° de personen die veroordeeld zijn wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 voor het uitzetten van wilde zwijnen. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+4° de personen die veroordeeld zijn wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan, anders dan deze benoemd onder punt 3. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+5° de personen die veroordeeld zijn wegens het moedwillig schieten of vangen van in het wild levende specimen van soorten, waarvan het afschot of de vangst niet is toegelaten volgens het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+6° de personen die veroordeeld zijn wegens een jachtmisdrijf, gepleegd met verboden wapens, in bende, bij nacht, met verboden tuigen of met motorvoertuigen. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+7° de personen die veroordeeld zijn wegens een jachtmisdrijf, anders dan deze benoemd onder punt 3, 4, 5 of 6. Het jachtverlof of de jachtvergunning worden geweigerd voor een termijn van twaalf maanden na de veroordeling;&nbsp;<br>
+8° de personen die zich niet hebben gehouden aan de strafrechtelijke verplichtingen die volgen uit een veroordeling wegens jachtmisdrijf. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+9° de personen die veroordeeld zijn wegens een schending van artikel 10, §1, artikel 16 of artikel 31/2, 7°, van het Soortenbesluit van 15 mei 2009. Het jachtverlof of de jachtvergunning wordt geweigerd voor een termijn van twaalf maanden na een eerste veroordeling, voor een termijn van vijf jaar na een tweede veroordeling, en definitief na een derde veroordeling;<br>
+10° de personen die veroordeeld zijn wegens een misdrijf waarbij daden van geweld of weerspannigheid zijn gepleegd. Het jachtverlof of de jachtvergunning wordt definitief geweigerd;<br>
+11° de personen die geheel of ten dele vervallen verklaard zijn van de rechten, vermeld in artikel 123sexies van het Strafwetboek, voor de duur van deze maatregel;<br>
+12° de personen die als pleger worden geïdentificeerd in een proces verbaal, opgesteld door een verbalisant, voor vastgestelde feiten zoals bedoeld in de punten 3°, 4°, 5°, 6°, 7°, 9° en 10°. Deze bepaling geldt alleen in afwachting van de gerechtelijke uitspraak.”<br>
+&nbsp;&nbsp; &nbsp;<br>
+De termijnen, benoemd in het eerste lid in de punten 3°, 4°, 5°, 6°, 7° 8°, 9° en 10° beginnen te lopen op het moment dat de veroordeling in kracht van gewijsde is gegaan.
 
 ### ART. 14.
 
-De arrondissementscommissaris kan weigeren om een jachtverlof of een   jachtvergunning af te leveren aan de volgende personen:<BR>1° de personen die   door een veroordeling ontzet zijn van een van de rechten, vermeld in artikel 31,   1° tot 5°, van het Strafwetboek;<BR>2° de personen die veroordeeld zijn wegens   diefstal, oplichting, valsheid in geschrifte of misbruik van vertrouwen;<BR>3°   de personen van wie slecht gedrag, geestestoestand of vorig gedrag laat   veronderstellen dat ze een slecht gebruik van wapens kunnen maken;<BR>4° de   personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten   ervan, een bestuurlijke geldboete is opgelegd wegens schending van de   jachtregelgeving.
+De arrondissementscommissaris kan weigeren om een jachtverlof of een jachtvergunning af te leveren aan de volgende personen:<br>
+1° de personen die door een veroordeling ontzet zijn van een van de rechten, vermeld in artikel 31, 1° tot 5°, van het Strafwetboek;<br>
+2° de personen die veroordeeld zijn wegens diefstal, oplichting, valsheid in geschrifte of misbruik van vertrouwen. Het jachtverlof of de jachtvergunning kan definitief worden geweigerd;<br>
+3° de personen van wie slecht gedrag, geestestoestand of vorig gedrag laat veronderstellen dat ze een slecht gebruik van wapens kunnen maken;<br>
+4° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991 voor het uitzetten van wilde zwijnen. Het jachtverlof of de jachtvergunning kan definitief worden geweigerd;<br>
+5° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 29 van het jachtdecreet van 24 juli 1991, anders dan deze benoemd onder punt 4. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+6° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens het moedwillig schieten of vangen van in het wild levende specimen van soorten waarvan het afschot of de vangst niet is toegelaten volgens het jachtdecreet van 24 juli 1991 en de uitvoeringsbesluiten ervan. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+7° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een jachtmisdrijf, anders dan deze benoemd onder punt 4, 5 of 6. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na de bestuurlijke geldboete;<br>
+8° de personen aan wie, met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de uitvoeringsbesluiten ervan, een bestuurlijke geldboete is opgelegd wegens een schending van artikel 10, §1, artikel 16 of artikel 31/2, 7°, van het Soortenbesluit van 15 mei 2009. Het jachtverlof of de jachtvergunning kan geweigerd worden voor een termijn van twaalf maanden na een eerste bestuurlijke geldboete, voor een termijn van vijf jaar na een tweede bestuurlijke geldboete, en definitief na een derde bestuurlijke geldboete;<br>
+9° de personen die als pleger worden geïdentificeerd in een verslag van vaststelling of proces verbaal, opgesteld door een verbalisant, voor vastgestelde feiten zoals bedoeld in de punten 1°, 2°, 4°, 5°, 6°, 7° en 8°. Deze bepaling geldt alleen in afwachting van de bestuurlijke uitspraak.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De termijnen, benoemd in het eerste lid in de punten 2°, 4°, 5°, 6°, 7° en 8°, beginnen te lopen op het moment dat de veroordeling in kracht van gewijsde is gegaan. De termijnen benoemd in het eerste lid in de punten 2°, 4°, 5°, 6°, 7° en 8° zijn maximale termijnen.
 
 ### ART. 15.
 
-<P>§ 1. Een arrondissementscommissaris kan een afgeleverd jachtverlof of een   afgeleverde jachtvergunning bij een met redenen omklede beslissing intrekken in   de volgende gevallen:<BR>1° als een jachtverlof werd afgeleverd op grond van   bedrieglijke handelingen;<BR>2° als de titularis van het jachtverlof of de   jachtvergunning zich na het afleveren ervan bevindt in een toestand waarvoor de   arrondissementscommissaris een jachtverlof of een jachtvergunning kan weigeren   als vermeld in artikel 14.<BR><BR>Een arrondissementscommissaris moet een   afgeleverd jachtverlof of een afgeleverde jachtvergunning intrekken als de   titularis van het jachtverlof of de jachtvergunning zich na het afleveren ervan   in een toestand bevindt waarvoor de arrondissementscommissaris een jachtverlof   of een jachtvergunning moet weigeren als vermeld in artikel 13.<BR></P>  <P>§ 2. Een beslissing waarbij een jachtverlof of een jachtvergunning wordt   ingetrokken, wordt door de arrondissementscommissaris met een aangetekende brief   aan de betrokken titularis meegedeeld. Het jachtverlof of de jachtvergunning   wordt binnen achtenveertig uur na de kennisgeving aangetekend teruggestuurd aan   de arrondissementscommissaris. De arrondissementscommissaris levert daarvan een   ontvangstmelding af aan de aanvrager.<BR></P>  <P>Een afschrift van de beslissing tot intrekking wordt door de   arrondissementscommissaris bezorgd aan de gouverneur van de provincie in kwestie   en aan de zonechef van de lokale politiezone.</P>
+<p>§ 1. Een arrondissementscommissaris kan een afgeleverd jachtverlof of een afgeleverde jachtvergunning bij een met redenen omklede beslissing intrekken in de volgende gevallen:<br>
+1° als een jachtverlof werd afgeleverd op grond van bedrieglijke handelingen;<br>
+2° als de titularis van het jachtverlof of de jachtvergunning zich na het afleveren ervan bevindt in een toestand waarvoor de arrondissementscommissaris een jachtverlof of een jachtvergunning kan weigeren als vermeld in artikel 14.<br>
+<br>
+Een arrondissementscommissaris moet een afgeleverd jachtverlof of een afgeleverde jachtvergunning intrekken als de titularis van het jachtverlof of de jachtvergunning zich na het afleveren ervan in een toestand bevindt waarvoor de arrondissementscommissaris een jachtverlof of een jachtvergunning moet weigeren als vermeld in artikel 13.</p>
+
+<p>§ 2. Een beslissing waarbij een jachtverlof of een jachtvergunning wordt ingetrokken, wordt door de arrondissementscommissaris met een aangetekende brief aan de betrokken titularis meegedeeld. Het jachtverlof of de jachtvergunning wordt binnen achtenveertig uur na de kennisgeving aangetekend teruggestuurd aan de arrondissementscommissaris. De arrondissementscommissaris levert daarvan een ontvangstmelding af aan de aanvrager.</p>
+
+<p>Een afschrift van de beslissing tot intrekking of weigering wordt door de arrondissementscommissaris bezorgd aan de gouverneur van de provincie in kwestie, aan de zonechef van de lokale politiezone en aan de gewestelijke entiteit die bevoegd is voor het toezicht op dit besluit.</p>
 
 ### ART. 16.
 
@@ -96,7 +173,13 @@ De arrondissementscommissaris kan weigeren om een jachtverlof of een   jachtverg
 
 ### ART. 17.
 
-<P>De hoofden van de parketten geven maandelijks aan de   arrondissementscommissarissen de nodige informatie over de veroordelingen wegens   jachtmisdrijf en wegens een misdrijf waarbij daden van geweld of weerspannigheid   zijn gepleegd en die uitgesproken zijn ten laste van personen die in hun   provincie wonen.<BR></P>  <P>De gewestelijke entiteit, vermeld in artikel 16.1.2, 4°, van het decreet van   5 april 1995 houdende algemene bepalingen inzake milieubeleid, bezorgt in de   volgende gevallen een kopie van de beslissing tot oplegging van een bestuurlijke   geldboete aan de bevoegde arrondissementscommissaris van de provincie waarin de   woonplaats ligt van de persoon aan wie een bestuurlijke boete is opgelegd:<BR>1°   als er geen beroep werd ingediend bij het Milieuhandhavingscollege, vermeld in   artikel 16.4.19 van het voormelde decreet: binnen dertig dagen na het   verstrijken van de termijn waarbinnen een beroep tegen de beslissing van de   gewestelijke entiteit kan worden ingediend;<BR>2° als er een beroep werd   ingediend bij het Milieuhandhavingscollege, vermeld in artikel 16.4.19 van het   voormelde decreet: binnen dertig dagen nadat de gewestelijke entiteit de   beslissing van het Milieuhandhavingscollege heeft ontvangen.</P>
+<p>De hoofden van de parketten geven maandelijks aan de arrondissementscommissarissen de nodige informatie over de veroordelingen wegens jachtmisdrijf en wegens een misdrijf waarbij daden van geweld of weerspannigheid zijn gepleegd en die uitgesproken zijn ten laste van personen die in hun provincie wonen.</p>
+
+<p>De gewestelijke entiteit, vermeld in artikel 16.1.2, 4°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bezorgt in de volgende gevallen een kopie van de beslissing tot oplegging van een bestuurlijke geldboete aan de bevoegde arrondissementscommissaris van de provincie waarin de woonplaats ligt van de persoon aan wie een bestuurlijke boete is opgelegd:<br>
+1° als er geen beroep werd ingediend bij het Handhavingscollege, vermeld in artikel 16.4.19 van het voormelde decreet: binnen dertig dagen na het verstrijken van de termijn waarbinnen een beroep tegen de beslissing van de gewestelijke entiteit kan worden ingediend;<br>
+2° als er een beroep werd ingediend bij het Handhavingscollege, vermeld in artikel 16.4.19 van het voormelde decreet: binnen dertig dagen nadat de gewestelijke entiteit de beslissing van het Handhavingscollege heeft ontvangen.<br>
+<br>
+Als de woonplaats van de persoon aan wie een bestuurlijke geldboete is opgelegd, zich niet in het Vlaamse Gewest bevindt, wordt de kopie, vermeld in het tweede lid, bezorgd aan de arrondissementscommissaris van de provincie Vlaams-Brabant.</p>
 
 ## Afdeling 5. De verzekering voor burgerlijke aansprakelijkheid
 
@@ -122,7 +205,11 @@ De verzekeraar, zijn gevolmachtigde of zijn correspondent in België reikt   aan
 
 ### ART. 22.
 
-<P>Een WBE wordt opgericht met het oog op een duurzaam wildbeheer in het   WBE-werkingsgebied. <BR></P>  <P>Het hoofd van het agentschap kan WBE's erkennen.</P>
+<p>Een WBE wordt opgericht met het oog op een duurzaam wildbeheer in het WBE-werkingsgebied.</p>
+
+<p>Het hoofd van het agentschap kan WBE's erkennen.<br>
+<br>
+Voor de controle van de erkenning en subsidiering van de WBE baseert het agentschap zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister en de gegevens uit de Kruispuntbank van Ondernemingen.</p>
 
 ### ART. 23.
 
@@ -130,7 +217,22 @@ Een WBE moet aan de volgende voorwaarden voldoen om erkend te worden en te   bli
 
 ### ART. 24.
 
-<P>§ 1. Een erkenning geldt voor een periode van zes jaar. Een erkenning kan   verlengd worden. <BR></P>  <P>Een aanvraag tot erkenning of tot verlenging van een erkenning van een WBE   wordt aangetekend opgestuurd naar het daarvoor aangewezen personeelslid van het   agentschap met een papieren formulier of wordt bij het daarvoor aangewezen   personeelslid van het agentschap ingediend met een elektronisch formulier. Het   model van beide formulieren wordt opgesteld door het agentschap en ter   beschikking gesteld op de website www.natuurenbos.be van het agentschap.   <BR></P>  <P>§ 2. Een erkenningsaanvraag bevat de volgende gegevens:<BR>1° een afschrift   van de statuten en hun eventuele wijzigingen, eensluidend verklaard door de in   de statuten aangewezen personen die de vereniging kunnen binden;<BR>2° een   verklaring van de voorzitter van de WBE waaruit blijkt dat de WBE voldoet aan de   fiscale en sociale verplichtingen;<BR>3° een lijst met de namen, de adressen en   de handtekeningen van de leden-jachtrechthouders en het nummer van hun   jachtplan;<BR>4° een overzicht van de oppervlakte van de afzonderlijke   jachtterreinen die tot de WBE behoren en de totale oppervlakte van alle   jachtterreinen die tot de WBE behoren;<BR>5° een afschrift van een goedgekeurd   faunabeheerplan als vermeld in artikel 43.<BR></P>  <P>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag:<BR>1° als de   aanvraag ontvankelijk wordt verklaard, wordt binnen een maand een   ontvankelijkheidsverklaring aan de aanvrager bezorgd;<BR>2° als een van de   gegevens, vermeld in het eerste lid, ontbreekt, onvolledig of incorrect is,   stuurt het agentschap binnen een maand het dossier terug naar de aanvrager, met   opgave van de redenen van onontvankelijkheid.<BR></P>  <P>Een erkenning van een WBE of een verlenging van de erkenning van een WBE kan   ten vroegste ingaan een maand nadat het erkenningsdossier ontvankelijk is   verklaard.</P>
+<p>§ 1. Een erkenning geldt voor een periode van zes jaar. Een erkenning kan verlengd worden.</p>
+
+<p>Een aanvraag tot erkenning of tot verlenging van een erkenning van een WBE wordt aangetekend opgestuurd naar het daarvoor aangewezen personeelslid van het agentschap met een papieren formulier of wordt bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>§ 2. Een erkenningsaanvraag bevat de volgende gegevens:<br>
+1° een afschrift van de statuten en hun eventuele wijzigingen, eensluidend verklaard door de in de statuten aangewezen personen die de vereniging kunnen binden;<br>
+2° een verklaring van de voorzitter van de WBE waaruit blijkt dat de WBE voldoet aan de fiscale en sociale verplichtingen;<br>
+3° een lijst met de namen, de adressen en de handtekeningen van de leden-jachtrechthouders en het nummer van hun jachtplan;<br>
+4° een overzicht van de oppervlakte van de afzonderlijke jachtterreinen die tot de WBE behoren en de totale oppervlakte van alle jachtterreinen die tot de WBE behoren;<br>
+5° een afschrift van een goedgekeurd faunabeheerplan als vermeld in artikel 43.</p>
+
+<p>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag:<br>
+1° als de aanvraag ontvankelijk wordt verklaard, wordt binnen een maand een ontvankelijkheidsverklaring aan de aanvrager bezorgd;<br>
+2° als een van de gegevens, vermeld in het eerste lid, ontbreekt, onvolledig of incorrect is, stuurt het agentschap binnen een maand het dossier terug naar de aanvrager, met opgave van de redenen van onontvankelijkheid.</p>
+
+<p>Een erkenning van een WBE of een verlenging van de erkenning van een WBE kan ten vroegste ingaan een maand nadat het erkenningsdossier ontvankelijk is verklaard.</p>
 
 ### ART. 25.
 
@@ -152,7 +254,9 @@ Een erkende WBE moet voldoen aan de volgende administratieve   verplichtingen: <
 
 ### ART. 28.
 
-<P>Een WBE dient een subsidieaanvraag in bij het agentschap voor 1 april van het   kalenderjaar waarop de subsidie betrekking heeft. Bij die aanvraag voegt de WBE   een gedetailleerd financieel verslag van het voorbije kalenderjaar, met een   balans waaruit blijkt dat de uitgaven en de inkomsten in evenwicht zijn.   <BR></P>  <P>Een subsidieaanvraag wordt aangetekend opgestuurd met een papieren formulier   naar het daarvoor aangewezen personeelslid van het agentschap of wordt bij het   daarvoor aangewezen personeelslid van het agentschap ingediend met een   elektronisch formulier. Het model van beide formulieren wordt opgesteld door het   agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het   agentschap.</P>
+<p>Een WBE dient een subsidieaanvraag in bij het agentschap voor 1 april van het kalenderjaar waarop de subsidie betrekking heeft. Bij die aanvraag voegt de WBE een gedetailleerd financieel verslag van het voorbije kalenderjaar, met een balans waaruit blijkt dat de uitgaven en de inkomsten in evenwicht zijn.</p>
+
+<p>Een subsidieaanvraag wordt aangetekend opgestuurd met een papieren formulier naar het daarvoor aangewezen personeelslid van het agentschap of wordt bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ## Onderafdeling 2. De projectsubsidie
 
@@ -178,7 +282,7 @@ Een erkende WBE moet voldoen aan de volgende administratieve   verplichtingen: <
 
 ### ART. 33.
 
-Het jachtplan kan worden geraadpleegd bij de arrondissementscommissaris.
+Het jachtplan is raadpleegbaar via een link op de website natuurenbos.vlaanderen.be van het agentschap en bij de arrondissementscommissaris.
 
 ## Afdeling 2. Het afschotplan
 
@@ -200,7 +304,11 @@ Voor elk specimen dat in een afschotplan wordt toegewezen, wordt in een   uniek 
 
 ### ART. 37.
 
-<P>Voor een erkende WBE wordt een afschotplan automatisch aangevraagd zodra de   WBE voor de soorten in kwestie, doelstellingen voor bejaging heeft opgenomen in   het faunabeheerplan. <BR></P>  <P>Voor een onafhankelijke jachtrechthouder of een erkende WBE die voor de   soorten in kwestie geen doelstellingen voor bejaging heeft opgenomen in het   faunabeheerplan, wordt de aanvraag aangetekend opgestuurd met een papieren   formulier naar het daarvoor aangewezen personeelslid van het agentschap of wordt   ze bij het daarvoor aangewezen personeelslid van het agentschap ingediend met   een elektronisch formulier. Het model van beide formulieren wordt opgesteld door   het agentschap en ter beschikking gesteld op de website www.natuurenbos.be van   het agentschap. <BR></P>  <P>Ingeval er voor hetzelfde jachtterrein meerdere jachtrechthouders zijn, wordt   een gezamenlijk afschotplan aangevraagd door een van die jachtrechthouders. De   overige jachtrechthouders voegen daarbij een formulier waarin ze verklaren dat   ze akkoord gaan met de aanvraag van het afschotplan. De verklaring wordt   opgemaakt met een papieren of elektronisch formulier, waarvan het model wordt   opgesteld door het agentschap en ter beschikking wordt gesteld op de website   www.natuurenbos.be van het agentschap.</P>
+<p>Voor een erkende WBE wordt een afschotplan automatisch aangevraagd zodra de WBE voor de soorten in kwestie, doelstellingen voor bejaging heeft opgenomen in het faunabeheerplan.</p>
+
+<p>Voor een onafhankelijke jachtrechthouder of een erkende WBE die voor de soorten in kwestie geen doelstellingen voor bejaging heeft opgenomen in het faunabeheerplan, wordt de aanvraag aangetekend opgestuurd met een papieren formulier naar het daarvoor aangewezen personeelslid van het agentschap of wordt ze bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Ingeval er voor hetzelfde jachtterrein meerdere jachtrechthouders zijn, wordt een gezamenlijk afschotplan aangevraagd door een van die jachtrechthouders. De overige jachtrechthouders voegen daarbij een formulier waarin ze verklaren dat ze akkoord gaan met de aanvraag van het afschotplan. De verklaring wordt opgemaakt met een papieren of elektronisch formulier, waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ### ART. 38.
 
@@ -232,7 +340,24 @@ Het faunabeheerplan bevat ten minste de volgende onderdelen:<BR>1° met   betrek
 
 ### ART. 44.
 
-<P>§ 1. Een onafhankelijk jachtrechthouder beschikt over een goedgekeurd   faunabeheerplan om de jacht te kunnen uitoefenen. <BR></P>  <P>Bij een WBE maakt het goedgekeurd faunabeheerplan een onderdeel uit van de   erkenningsaanvraag, vermeld in hoofdstuk 3, afdeling 1. <BR></P>  <P>§ 2. Een ontwerp van een faunabeheerplan wordt aangetekend opgestuurd naar   het daarvoor aangewezen personeelslid van het agentschap met een papieren   formulier of wordt bij het daarvoor aangewezen personeelslid van het agentschap   ingediend met een elektronisch formulier. Het model van beide formulieren wordt   opgesteld door het agentschap en ter beschikking gesteld op de website   www.natuurenbos.be van het agentschap. <BR></P>  <P>Een ontwerp van een faunabeheerplan van een WBE moet door de algemene   vergadering van de WBE in kwestie met een tweederdemeerderheid van de   stemgerechtigde leden worden goedgekeurd.<BR></P>  <P>§ 3. Het daarvoor aangewezen personeelslid van het agentschap beoordeelt het   ontwerp van het faunabeheerplan en vraagt indien nodig advies aan het instituut.   <BR></P>  <P>Bij de beoordeling wordt rekening gehouden met de verenigbaarheid van het   faunabeheerplan met de bepalingen van het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu en de uitvoeringsbesluiten   ervan.<BR></P>  <P>Het daarvoor aangewezen personeelslid van het agentschap vraagt in voorkomend   geval binnen een maand na de indiening:<BR>1° de indiening van de ontbrekende   stukken;<BR>2° aanvullende informatie;<BR>3° de bijsturing van het ontwerp.   <BR></P>  <P>Als het ontwerp van het faunabeheerplan door het agentschap wordt   goedgekeurd, ontvangt de betrokken WBE of de onafhankelijke jachtrechthouder   daarvan een melding binnen de termijn van een maand.</P>
+<p>§ 1. Een onafhankelijk jachtrechthouder beschikt over een goedgekeurd faunabeheerplan om de jacht te kunnen uitoefenen.</p>
+
+<p>Bij een WBE maakt het goedgekeurd faunabeheerplan een onderdeel uit van de erkenningsaanvraag, vermeld in hoofdstuk 3, afdeling 1.</p>
+
+<p>§ 2. Een ontwerp van een faunabeheerplan wordt aangetekend opgestuurd naar het daarvoor aangewezen personeelslid van het agentschap met een papieren formulier of wordt bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Een ontwerp van een faunabeheerplan van een WBE moet door de algemene vergadering van de WBE in kwestie met een tweederdemeerderheid van de stemgerechtigde leden worden goedgekeurd.</p>
+
+<p>§ 3. Het daarvoor aangewezen personeelslid van het agentschap beoordeelt het ontwerp van het faunabeheerplan en vraagt indien nodig advies aan het instituut.</p>
+
+<p>Bij de beoordeling wordt rekening gehouden met de verenigbaarheid van het faunabeheerplan met de bepalingen van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en de uitvoeringsbesluiten ervan.</p>
+
+<p>Het daarvoor aangewezen personeelslid van het agentschap vraagt in voorkomend geval binnen een maand na de indiening:<br>
+1° de indiening van de ontbrekende stukken;<br>
+2° aanvullende informatie;<br>
+3° de bijsturing van het ontwerp.</p>
+
+<p>Als het ontwerp van het faunabeheerplan door het agentschap wordt goedgekeurd, ontvangt de betrokken WBE of de onafhankelijke jachtrechthouder daarvan een melding binnen de termijn van een maand.</p>
 
 ### ART. 45.
 
@@ -246,7 +371,15 @@ Het faunabeheerplan van een erkende WBE of een onafhankelijke   jachtrechthouder
 
 ### ART. 47.
 
-<P>§ 1. Een wildrapport bevat voor bepaalde soorten die het agentschap heeft   aangewezen, de geschatte voorjaarsstand en het gerealiseerde afschot of de   gerealiseerde vangst binnen het jachtterrein in het voorgaande   kalenderjaar.<BR></P>  <P>Een wildrapport wordt opgemaakt door elke onafhankelijke jachtrechthouder en   door elke erkende WBE.<BR></P>  <P>Een wildrapport wordt jaarlijks&nbsp;vóór 1 april ingediend. Als het   wildrapport niet tijdig wordt ingediend, kan tijdens het daaropvolgende   jachtseizoen niet vroeger worden gejaagd dan vanaf drie maanden na de datum   waarop het wildrapport alsnog werd ingediend.<BR></P>  <P>§ 2. Een wildrapport wordt aangetekend opgestuurd met een papieren formulier   naar het daarvoor aangewezen personeelslid van het agentschap of wordt bij het   daarvoor aangewezen personeelslid van het agentschap ingediend met een   elektronisch formulier. Het model van beide formulieren wordt opgesteld door het   agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het   agentschap. <BR></P>  <P>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor   verwerking en rapportering.</P>
+<p>§ 1. Een wildrapport bevat voor bepaalde soorten die het agentschap heeft aangewezen, de geschatte voorjaarsstand en het gerealiseerde afschot of de gerealiseerde vangst binnen het jachtterrein in het voorgaande kalenderjaar.</p>
+
+<p>Een wildrapport wordt opgemaakt door elke onafhankelijke jachtrechthouder en door elke erkende WBE.</p>
+
+<p>Een wildrapport wordt jaarlijks&nbsp;vóór 1 april ingediend. Als het wildrapport niet tijdig wordt ingediend, kan tijdens het daaropvolgende jachtseizoen niet vroeger worden gejaagd dan vanaf drie maanden na de datum waarop het wildrapport alsnog werd ingediend.</p>
+
+<p>§ 2. Een wildrapport wordt aangetekend opgestuurd met een papieren formulier naar het daarvoor aangewezen personeelslid van het agentschap of wordt bij het daarvoor aangewezen personeelslid van het agentschap ingediend met een elektronisch formulier. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.</p>
 
 ## HOOFDSTUK 5. Het jachtexamen
 
@@ -264,11 +397,33 @@ Het faunabeheerplan van een erkende WBE of een onafhankelijke   jachtrechthouder
 
 ### ART. 50.
 
-<P>§ 1. Om zich op geldige wijze in te schrijven voor het jachtexamen moet een   kandidaat voldoen aan de volgende voorwaarden:<BR>1° zowel voor deelname aan het   theoretische gedeelte als voor deelname aan het praktische gedeelte van het   jachtexamen wordt een papieren formulier aangetekend opgestuurd naar het   agentschap of wordt een elektronisch formulier ingediend bij het agentschap. Het   model van beide formulieren wordt opgesteld door het agentschap en ter   beschikking gesteld op de website www.natuurenbos.be van het agentschap. De   volledig ingevulde en ondertekende formulieren worden uiterlijk ingediend op de   inschrijvingsdatum die vastgesteld is in het bericht, vermeld in artikel   49;<BR>2° zowel voor deelname aan het theoretische gedeelte als voor deelname   aan het praktische gedeelte van het jachtexamen wordt inschrijvingsgeld betaald.   Het inschrijvingsgeld wordt uiterlijk betaald op de datum die vastgesteld is in   het bericht, vermeld in artikel 49;<BR>3° voor deelname aan het praktische   gedeelte van het jachtexamen wordt bij het formulier, vermeld in punt 1°, een   uittreksel uit het strafregister dat is afgeleverd conform artikel 596, eerste   lid, van het Wetboek van Strafvordering gevoegd. Dat uittreksel wordt afgegeven   door het gemeentebestuur van de woonplaats van de kandidaat, binnen twee maanden   voor de inschrijving.<BR></P>  <P>§ 2. Het bedrag van het inschrijvingsgeld, vermeld in paragraaf 1, 2°,   bedraagt:<BR>1° 70 euro voor een kandidaat die zich inschrijft voor het   theoretische gedeelte;<BR>2° 180 euro voor een kandidaat die zich inschrijft   voor het praktische gedeelte;<BR>3° 100 euro voor een kandidaat die conform   artikel 59, § 1, derde lid, vrijgesteld is voor het onderdeel "veilige omgang   met vuurwapens en munitie" van het praktische gedeelte;<BR>4° 40 euro voor een   kandidaat die conform artikel 59, § 1, derde lid, vrijgesteld is voor de   onderdelen "veilige omgang met vuurwapens en munitie" en   "schietvaardigheidsproef met het hagelgeweer" van het praktische gedeelte;<BR>5°   40 euro voor een kandidaat die conform artikel 59, § 1, derde lid, vrijgesteld   is voor de onderdelen "veilige omgang met vuurwapens en munitie" en   "schietvaardigheidsproef met het kogelgeweer" van het praktische   gedeelte.<BR></P>  <P>Het agentschap bepaalt de nadere regels voor de betaling van het   inschrijvingsgeld. <BR></P>  <P>Het door een kandidaat betaalde inschrijvingsgeld wordt niet terugbetaald,   ook niet als de betrokken kandidaat, om welke reden ook, niet aan het examen kan   deelnemen.<BR></P>  <P>§ 3. Een inschrijving is niet geldig als uit het uittreksel, vermeld in   paragraaf 1, 3°, blijkt dat een kandidaat zich in een van de volgende gevallen   bevindt:<BR>1° het gaat om een persoon die ontzet of vervallen verklaard is van   het recht om wapens te dragen;<BR>2° het gaat om een persoon die veroordeeld is   wegens een jachtmisdrijf. Deze bepaling geldt alleen voor veroordelingen die   dateren van minder dan twaalf maanden voor de datum waarop het uittreksel wordt   afgegeven, tenzij in geval van een veroordeling wegens een jachtmisdrijf dat   gepleegd is met verboden wapens, in bende, bij nacht, met verboden tuigen of met   motorvoertuigen;<BR>3° het gaat om een persoon die zich niet heeft gehouden aan   de strafrechtelijke verplichtingen die volgen uit een veroordeling wegens   jachtmisdrijf;<BR>4° het gaat om een persoon die veroordeeld is wegens een   misdrijf waarbij daden van geweld of weerspannigheid zijn   gepleegd.</P>
+<p>§ 1. Om zich op geldige wijze in te schrijven voor het jachtexamen moet een kandidaat voldoen aan de volgende voorwaarden:<br>
+1° zowel voor deelname aan het theoretische gedeelte als voor deelname aan het praktische gedeelte van het jachtexamen wordt een papieren formulier aangetekend opgestuurd naar het agentschap of wordt een elektronisch formulier ingediend bij het agentschap. Het model van beide formulieren wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap. De volledig ingevulde en ondertekende formulieren worden uiterlijk ingediend op de inschrijvingsdatum die vastgesteld is in het bericht, vermeld in artikel 49;<br>
+2° zowel voor deelname aan het theoretische gedeelte als voor deelname aan het praktische gedeelte van het jachtexamen wordt inschrijvingsgeld betaald. Het inschrijvingsgeld wordt uiterlijk betaald op de datum die vastgesteld is in het bericht, vermeld in artikel 49;<br>
+3° voor deelname aan het praktische gedeelte van het jachtexamen wordt bij het formulier, vermeld in punt 1°, een uittreksel uit het strafregister dat is afgeleverd conform artikel 596, eerste lid, van het Wetboek van Strafvordering gevoegd. Dat uittreksel wordt afgegeven door het gemeentebestuur van de woonplaats van de kandidaat, binnen twee maanden voor de inschrijving.</p>
+
+<p>§ 2. Het bedrag van het inschrijvingsgeld, vermeld in paragraaf 1, 2°, bedraagt:<br>
+1° 70 euro voor een kandidaat die zich inschrijft voor het theoretische gedeelte;<br>
+2° 180 euro voor een kandidaat die zich inschrijft voor het praktische gedeelte;<br>
+3° 100 euro voor een kandidaat die conform artikel 59, § 1, derde lid, vrijgesteld is voor het onderdeel "veilige omgang met vuurwapens en munitie" van het praktische gedeelte;<br>
+4° 40 euro voor een kandidaat die conform artikel 59, § 1, derde lid, vrijgesteld is voor de onderdelen "veilige omgang met vuurwapens en munitie" en "schietvaardigheidsproef met het hagelgeweer" van het praktische gedeelte;<br>
+5° 40 euro voor een kandidaat die conform artikel 59, § 1, derde lid, vrijgesteld is voor de onderdelen "veilige omgang met vuurwapens en munitie" en "schietvaardigheidsproef met het kogelgeweer" van het praktische gedeelte.</p>
+
+<p>Het agentschap bepaalt de nadere regels voor de betaling van het inschrijvingsgeld.</p>
+
+<p>Het door een kandidaat betaalde inschrijvingsgeld wordt niet terugbetaald, ook niet als de betrokken kandidaat, om welke reden ook, niet aan het examen kan deelnemen.</p>
+
+<p>§ 3. Een inschrijving is niet geldig als uit het uittreksel, vermeld in paragraaf 1, 3°, blijkt dat een kandidaat zich in een van de volgende gevallen bevindt:<br>
+1° het gaat om een persoon die ontzet of vervallen verklaard is van het recht om wapens te dragen;<br>
+2° het gaat om een persoon die veroordeeld is wegens een jachtmisdrijf. Deze bepaling geldt alleen voor veroordelingen die dateren van minder dan twaalf maanden voor de datum waarop het uittreksel wordt afgegeven, tenzij in geval van een veroordeling wegens een jachtmisdrijf dat gepleegd is met verboden wapens, in bende, bij nacht, met verboden tuigen of met motorvoertuigen;<br>
+3° het gaat om een persoon die zich niet heeft gehouden aan de strafrechtelijke verplichtingen die volgen uit een veroordeling wegens jachtmisdrijf;<br>
+4° het gaat om een persoon die veroordeeld is wegens een misdrijf waarbij daden van geweld of weerspannigheid zijn gepleegd.<br>
+<br>
+Voor de controle van de inschrijvingen van het jachtexamen baseert het agentschap zich op de aangeleverde gegevens uit de aanvraag, de gegevens in het digitale platform van de Vlaamse overheid, de gegevens uit het rijksregister, de gegevens uit het strafregister en de gegevens uit de databanken over wapens.</p>
 
 ### ART. 51.
 
-Uiterlijk twintig dagen voor de datum van het examen worden de geldig   ingeschreven kandidaten opgeroepen met een brief waarin de datum, de plaats en   het uur van het examen worden vermeld.
+Uiterlijk vijf dagen voor de datum van het examen worden de geldig ingeschreven kandidaten opgeroepen met een persoonlijke communicatie waarin de datum, de plaats en het uur van het examen en desgevallend bijkomende instructies voor het examen worden vermeld.
 
 ## Afdeling 3. Deelname aan het jachtexamen
 
@@ -315,7 +470,7 @@ Eventuele geschillen over het verloop van het jachtexamen worden met een   aange
 Het agentschap staat in voor het beheer van het Jachtfonds. Het agentschap voert daarbij de volgende taken uit:<br>
 1° het organiseert de vergaderingen van het Centraal Comité;<br>
 2° het raamt de jaarlijkse totale inkomsten en uitgaven van het Jachtfonds, voor 1 mei van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de inkomsten en uitgaven betrekking hebben;<br>
-3° het maakt de begroting van het Jachtfonds op in overleg met het Centraal Comité, voor 1 november van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, en bezorgt de begroting aan de minister. De begroting omvat een beschrijving van alle uitgaven van het Jachtfonds voor het volgende kalenderjaar, verdeeld over de doelstellingen, vermeld in artikel 32/1 van het Jachtdecreet van 24 juli 1991;<br>
+3° het maakt de begroting van het Jachtfonds op in overleg met het Centraal Comité, voor 15 oktober van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, en bezorgt de begroting aan de minister. De begroting omvat een beschrijving van alle uitgaven van het Jachtfonds voor het volgende kalenderjaar, verdeeld over de doelstellingen, vermeld in artikel 32/1 van het Jachtdecreet van 24 juli 1991;<br>
 4° het maakt de jaarrekening van het Jachtfonds op, voor 1 mei van het kalenderjaar dat volgt op het kalenderjaar waarop de jaarrekening betrekking heeft, en bezorgt de jaarrekening aan het Centraal Comité. De jaarrekening omvat een beschrijving van alle uitgaven van het Jachtfonds in het voorbije kalenderjaar, verdeeld over de doelstellingen, vermeld in artikel 32/1 van het voormelde decreet;<br>
 5° het voert de boekhouding van het Jachtfonds. Daartoe behoort de inboeking van de inkomsten en het verrichten van de vastleggingen en de uitgaven.
 
@@ -343,7 +498,7 @@ De minister neemt binnen dertig dagen na de ontvangst van het advies van het age
 
 ### ART 59/3.
 
-Voor 1 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, keurt de minister de begroting goed die het agentschap bezorgt.
+Voor 1 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, keurt de minister de begroting goed die het agentschap bezorgt, of stuurt de minister de begroting terug naar het agentschap met de vraag om die in overleg met het Centraal Comité bij te sturen. In dat laatste geval bezorgt het agentschap een aangepaste begroting voor 15 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, aan de minister, en keurt de minister de begroting goed voor 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft.
 
 ### ART 59/4.
 
@@ -381,6 +536,10 @@ Het agentschap kan ter uitvoering van artikel 33 van het Jachtdecreet van   24 j
 ### ART. 61.
 
 De ambtenaar, vermeld in artikel 24, derde lid, van het Jachtdecreet van   24 juli 1991, wordt aangewezen door het agentschap.
+
+### ART 61/1.
+
+In de gevallen waarin in dit besluit bepaald is dat de bevoegde overheid aan de burger communiceert met een aangetekende zending, kan de bevoegde overheid die correspondentie ook uitvoeren met een e-mail met ontvangstbevestiging, als ze over het e-mailadres van de correspondent beschikt en op voorwaarde dat het niet om de uitreiking van certificaten gaat. Als een ontvangstbevestiging van die e-mail uitblijft, wordt na één week een aangetekende zending verzonden en wordt de daaropvolgende responstijd met één week verminderd.
 
 ## HOOFDSTUK 7. Overgangsbepalingen
 

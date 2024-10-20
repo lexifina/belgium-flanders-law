@@ -2,16 +2,16 @@
   "codex_id": 1024155,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 houdende de administratieve organisatie van de jacht in het Vlaamse Gewest [citeeropschrift: \"het Jachtadministratiebesluit\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024155/VolledigDocument?datum=2024-09-20",
-  "source_sha256": "bf32b8b15e615e228e2125decf3fc415c92ee5d9c627ad24d823f8e3784779a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024155/VolledigDocument?datum=2024-10-20",
+  "source_sha256": "e5033131ee43be650cc6eb7b12e3aaf966d607bc3c74fc82602e385383a9dd90",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024155&param=informatie",
-  "as_of": "2024-09-20",
+  "as_of": "2024-10-20",
   "made": "2014-04-25",
   "gazette": "2014-06-12",
   "numac": 2014035571,
   "document_start": "2014-07-01",
   "document_end": null,
-  "in_force": "2024-09-20",
-  "article_versions": 74,
-  "record_form": "consolidated version as in force on 2024-09-20; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-10-20",
+  "article_versions": 75,
+  "record_form": "consolidated version as in force on 2024-10-20; future article versions excluded; article text as the API gives it"
 }
