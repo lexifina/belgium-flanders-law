@@ -52,11 +52,29 @@ Het eerste lid is niet van toepassing op de bijzondere jacht op de grauwe gans e
 
 ### ART. 7.
 
-<P>§ 1. Als het sneeuwt op de locatie waar wordt gejaagd en de sneeuwlaag een   dikte van vijf centimeter bereikt, wordt de jacht opgeschort. De opschorting   duurt tot 24 uur na het vallen van de laatste sneeuw.<BR></P>  <P>De opschorting, vermeld in het eerste lid, geldt niet in de volgende   gevallen:<BR>1° voor de jacht in de bossen en op het wild dat uit die bossen   wordt opgestoten en gestrekt in het open veld, binnen de 50 meter van de   voormelde bossen;<BR>2° voor de jacht op de houtduif, de Canadese gans en het   konijn;<BR>3° voor de jacht op waterwild op of onmiddellijk langsheen moerassen,   waterplassen en waterlopen met inachtneming van paragraaf 2 van dit   artikel;<BR>4° voor de jacht op grof wild.<BR></P>  <P>§ 2. De jacht op waterwild is verboden op een afstand van 150 meter of minder   langs moerassen, waterplassen en waterlopen waarvan de oppervlakte en de   bijbehorende rietkragen langs de oevers voor meer dan de helft met ijs zijn   bedekt.<BR></P>  <P>§ 3. In het geval van zeer harde en langdurige vorst kan de jacht tijdelijk   worden opgeschort door het hoofd van het agentschap. De opschorting van de jacht   kan per provincie en per categorie van wild worden ingesteld. Het hoofd van het   agentschap neemt de beslissing tot opschorting van de jacht op advies van de   betrokken provinciale directeur van het agentschap.</P>
+<p>§ 1. Als het sneeuwt op de locatie waar wordt gejaagd en de sneeuwlaag een dikte van vijf centimeter bereikt, wordt de jacht opgeschort. De opschorting duurt tot 24 uur na het vallen van de laatste sneeuw.</p>
+
+<p>De opschorting, vermeld in het eerste lid, geldt niet in de volgende gevallen:<br>
+1° voor de jacht in de bossen en op het wild dat uit die bossen wordt opgestoten en gestrekt in het open veld, binnen de 50 meter van de voormelde bossen;<br>
+2° voor de jacht op de houtduif, de Canadese gans en het konijn;<br>
+3° voor de jacht op waterwild op of onmiddellijk langsheen moerassen, waterplassen en waterlopen met inachtneming van paragraaf 2 van dit artikel;<br>
+4° voor de jacht op grof wild.</p>
+
+<p>§ 2. De jacht op waterwild is verboden op een afstand van 150 meter of minder langs moerassen, waterplassen en waterlopen waarvan de oppervlakte en de bijbehorende rietkragen langs de oevers voor meer dan de helft met ijs zijn bedekt.</p>
+
+<p>§ 3. In het geval van zeer harde en langdurige vorst kan de jacht tijdelijk worden opgeschort door het hoofd van het agentschap. De opschorting van de jacht kan per provincie en per categorie van wild worden ingesteld. Het hoofd van het agentschap neemt de beslissing tot opschorting van de jacht na advies van de wildbeheercommissie, dat via schriftelijke procedure en binnen een termijn van twee kalenderdagen wordt verleend. Indien de wildbeheercommissie niet binnen deze termijn advies verleent, kan het hoofd van het agentschap een autonome beslissing nemen.</p>
 
 ### ART. 8.
 
-<P>Een organisator van jacht of bestrijding besteedt bij het uitoefenen van de   activiteit bijzondere aandacht aan de veiligheid van de activiteit en aan de   verenigbaarheid ervan met activiteiten van andere gebruikers van het   buitengebied.<BR></P>  <P>De organisator van een drukjacht of een drijfjacht op grof wild of zijn   aangestelde neemt de volgende maatregelen:<BR>1° met het oog op de   verenigbaarheid met andere activiteiten worden waarschuwingsborden voor de   activiteit geplaatst aan de toegangen van het gebied waarin de actie   plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag   waarop de activiteit plaatsvindt, geplaatst en ze worden uiterlijk een uur na   het einde van de activiteit verwijderd. Het model van het aankondigingsbord   wordt opgesteld door het agentschap en ter beschikking gesteld op de website   www.natuurenbos.be van het agentschap;<BR>2° met het oog op een betere   gebiedsgerichte samenwerking om de efficiëntie van een drukjacht of drijfjacht   op grof wild te verhogen, nodigt de organisator van de drukjacht of drijfjacht   minstens vijf dagen voor de actie de jachtrechthouders of WBE's die een   jachtterrein hebben dat paalt aan het jachtterrein van de organisator, uit voor   een overleg. De schriftelijke neerslag van dat overleg wordt gevoegd bij de   melding van de actie aan de provinciale dienst van het agentschap en aan de   burgemeester van het grondgebied waarop de activiteit plaatsvindt;<BR>3° met het   oog op de verenigbaarheid van drukjacht en drijfjacht op grof wild met andere   activiteiten brengt de organisator minstens drie werkdagen voor de aanvang van   de activiteit de provinciale dienst van het agentschap en de burgemeester van   het grondgebied waarop de activiteit plaatsvindt, op de hoogte van de   activiteit.</P>
+<p>Een organisator van jacht of bestrijding besteedt bij het uitoefenen van de activiteit bijzondere aandacht aan de veiligheid van de activiteit en aan de verenigbaarheid ervan met activiteiten van andere gebruikers van het buitengebied.</p>
+
+<p>De organisator van een drukjacht of een drijfjacht op grof wild of zijn aangestelde neemt de volgende maatregelen:<br>
+1° met het oog op de verenigbaarheid met andere activiteiten worden waarschuwingsborden voor de activiteit geplaatst aan de toegangen van het gebied waarin de actie plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag waarop de activiteit plaatsvindt, geplaatst en ze worden uiterlijk een uur na het einde van de activiteit verwijderd. Het model van het aankondigingsbord wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap van het agentschap;<br>
+2° met het oog op een betere gebiedsgerichte samenwerking om de efficiëntie van een drukjacht of drijfjacht op grof wild te verhogen, nodigt de organisator van de drukjacht of drijfjacht minstens vijf dagen voor de actie de jachtrechthouders of WBE's die een jachtterrein hebben dat paalt aan het jachtterrein van de organisator, uit voor een overleg. De schriftelijke neerslag van dat overleg wordt gevoegd bij de melding van de actie aan het agentschap en aan de burgemeester van het grondgebied waarop de activiteit plaatsvindt;<br>
+3° met het oog op de verenigbaarheid van drukjacht en drijfjacht op grof wild met andere activiteiten brengt de organisator minstens drie werkdagen voor de aanvang van de activiteit het agentschap en de burgemeester van het grondgebied waarop de activiteit plaatsvindt, op de hoogte van de activiteit.<br>
+<br>
+Met het oog op de verenigbaarheid met activiteiten van andere gebruikers neemt de organisator van het wildbeheer of zijn aangestelde de volgende maatregel voor de jacht of de bestrijding met het vuurwapen in gebieden met een goedgekeurde toegankelijkheidsregeling conform het Besluit van de Vlaamse Regering betreffende de toegankelijkheid van de bossen en natuurreservaten van 5 december 2008, en in gebieden die volgens artikel 12octies, §1, tweede lid, 3° van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu onbeperkt toegankelijk zijn voor voetgangers:&nbsp;<br>
+er worden waarschuwingsborden voor de activiteit geplaatst aan de toegangen van het gebied waarin de actie plaatsvindt. De borden worden uiterlijk op de dag die voorafgaat aan de dag waarop de activiteit plaatsvindt, geplaatst en ze worden ten vroegste na het einde van de activiteit en uiterlijk op de dag die volgt op de dag waarop de activiteit plaatsvindt, verwijderd. Het model van het aankondigingsbord wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ## Afdeling 2. Algemene voorwaarden voor het gebruik van vuurwapens en munitie
 
@@ -74,7 +92,7 @@ Het eerste lid is niet van toepassing op de bijzondere jacht op de grauwe gans e
 4° pistolen, automatische pistolen, machinepistolen en revolvers;<br>
 5° machinegeweren.</p>
 
-<p>In afwijking van het tweede lid, 2°, is het voor het uitoefenen van bijzondere jacht en bestrijding van wilde zwijnen toegelaten gebruik te maken van geweren die voorzien zijn van kunstmatige lichtbronnen of voorzieningen om het dier te verlichten.</p>
+<p>Het verbod vermeld in het tweede lid, 2° en 3°, is niet van toepassing voor het uitoefenen van bijzondere jacht en bestrijding van wilde zwijnen, op voorwaarde dat de instrumenten door de Wapenwet van 8 juni 2006 zijn toegelaten. De minister bepaalt nadere regels voor het bezit en gebruik van deze instrumenten.</p>
 
 ### ART. 10.
 
@@ -97,6 +115,13 @@ b) kogelpatronen voor gladde loop van het kaliber 20,16 en 12;<br>
 5° loodhagel;<br>
 6° zinkhagel.</p>
 
+### ART 10/1.
+
+Voor het uitoefenen van elke vorm van jacht of bestrijding is het verboden een wapen te dragen in elk van de volgende situaties:<br>
+1° &nbsp;&nbsp; &nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+3° &nbsp;&nbsp; &nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.
+
 ## Afdeling 3. Algemene voorwaarden voor het gebruik van overige middelen en methoden
 
 ### ART. 11.
@@ -109,7 +134,13 @@ Met behoud van de toepassing van artikel 11, eerste lid, 1°, 2° en 3°,   moge
 
 ### ART. 13.
 
-<P>Voor het uitoefenen van jacht of bestrijding met kastvallen of met kooivallen   mag plantaardig en niet-levend dierlijk lokaas gebruikt worden als   lokmiddel.<BR></P>  <P>Kastvallen of kooivallen hebben, in gesloten toestand, in de zijwand ter   hoogte van het maaiveld minstens één vrije opening waarbinnen een cirkel met een   diameter van ten minste 6,5 cm kan worden beschreven.<BR></P>  <P>De kastvallen of kooivallen worden dagelijks gecontroleerd en alle andere   gevangen dieren dan de soorten waarvoor het gebruik van de vallen is toegelaten,   worden dadelijk ter plekke in vrijheid gesteld.<BR></P>  <P>De kastvallen of kooivallen worden geïdentificeerd met een weersbestendig   plaatje waarop het jachtverlofnummer van de plaatser van de val en het   telefoonnummer van de provinciale dienst van het agentschap leesbaar vermeld   staan.</P>
+<p>Voor het uitoefenen van jacht of bestrijding met kastvallen of met kooivallen mag plantaardig en niet-levend dierlijk lokaas gebruikt worden als lokmiddel.</p>
+
+<p>Kastvallen of kooivallen hebben, in gesloten toestand, in de zijwand ter hoogte van het maaiveld minstens één vrije opening waarbinnen een cirkel met een diameter van ten minste 6,5 cm kan worden beschreven.</p>
+
+<p>De kastvallen of kooivallen worden dagelijks gecontroleerd. Alle gevangen dieren van de soorten waarvoor het gebruik van de vallen is toegelaten, worden zo spoedig mogelijk en minstens dagelijks verwijderd. Het doden van deze dieren mag zowel plaatsvinden tussen het officiële uur van zonsopgang en het officiële uur van zonsondergang als tussen het officiële uur van zonsondergang en het officiële uur van zonsopgang. Alle andere gevangen dieren dan de soorten waarvoor het gebruik van de vallen is toegelaten, worden dadelijk ter plekke in vrijheid gesteld. Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht verlopen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De kastvallen of kooivallen worden geïdentificeerd met een weerbestendig plaatje waarop het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ## HOOFDSTUK 3. Jacht in vogelrijke gebieden
 
@@ -130,7 +161,7 @@ Met behoud van de toepassing van artikel 11, eerste lid, 1°, 2° en 3°,   moge
 3° als op basis van het overleg tot een consensus wordt gekomen, wordt een document met een voorstel dat door alle betrokken partijen ondertekend is, ingediend bij het agentschap. Het agentschap bezorgt dat document aan de minister. De minister beslist binnen een termijn van een maand na de indiening van het dossier;<br>
 4° als op basis van het overleg niet tot een consensus wordt gekomen, wordt een document met de standpunten van alle betrokken partijen ingediend bij het agentschap. Het agentschap bezorgt dat document voor advies aan de Minaraad. De Minaraad bezorgt zijn advies met voorstel van beslissing binnen twee maanden aan de minister. De minister beslist binnen een termijn van een maand na het advies van de Minaraad.</p>
 
-<p>Voor de documenten, vermeld in het tweede lid, 3° en 4°, wordt een model opgesteld door het agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.</p>
+<p>Voor de documenten, vermeld in het tweede lid, 3° en 4°, wordt een model opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap van het agentschap.</p>
 
 <p>§ 4. Als een vogelrijk gebied overlapt met een speciale beschermingszone die is aangewezen met toepassing van het artikel 36bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en natuurlijk milieu, waarvoor door de Vlaamse Regering instandhoudingsdoelstellingen zijn vastgesteld, stemmen de rust- en foerageerzones en de eventuele andere maatregelen overeen met de instandhoudingsdoelstellingen.</p>
 
@@ -158,7 +189,15 @@ De gewone jacht op ree mag alleen worden beoefend in een van de volgende   geval
 
 ### ART. 19.
 
-<P>Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor   aangestelde verantwoordelijke van de WBE binnen een maand na het verstrijken van   het kwartaal waarin het afschot werd vervuld, een ingevuld papieren of   elektronisch meldingsformulier aan het agentschap.<BR></P>  <P>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor   verwerking en rapportering.<BR></P>  <P>Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste   exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in   het bezit van de jachtrechthouder of van de daarvoor aangestelde   verantwoordelijke van de WBE.<BR></P>  <P>Wie het elektronische formulier invult en opstuurt, krijgt automatisch een   ontvangstmelding.<BR></P>  <P>Het model van het papieren en het elektronische meldingsformulier wordt   opgesteld door het agentschap en ter beschikking gesteld op de website   www.natuurenbos.be van het agentschap.</P>
+<p>Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE binnen zestig dagen na het afschot een ingevuld papieren of elektronisch meldingsformulier aan het agentschap.</p>
+
+<p>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.</p>
+
+<p>Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE.</p>
+
+<p>Wie het elektronische formulier invult en opstuurt, krijgt automatisch een ontvangstmelding.</p>
+
+<p>Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ### ART. 20.
 
@@ -235,7 +274,7 @@ Bijzondere jacht kan maximaal worden toegestaan voor een aaneengesloten periode 
 
 ### ART. 29.
 
-<p>Bijzondere jacht wordt door een jachtrechthouder bij het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<p>Bijzondere jacht wordt door een jachtrechthouder bij het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen :<br>
 1° met een aangetekende brief;<br>
@@ -244,8 +283,7 @@ Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende 
 De melding bevat de volgende informatie :<br>
 1° informatie over de locatie waarvoor bijzondere jacht wordt gemeld;<br>
 2° een motivering van het type en de vermoedelijke omvang van de schade die de jachtrechthouder wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
-3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn.<br>
-&nbsp;</p>
+3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn.</p>
 
 ### ART. 30.
 
@@ -290,7 +328,7 @@ Buiten de periode tussen de officiële zonsopgang en de officiële zonsondergang
 
 ### ART. 34.
 
-<p>De jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE meldt binnen een maand na het verstrijken van het kwartaal waarin het afschot is vervuld, elk geschoten dier aan het agentschap met een papieren formulier of elektronisch.<br>
+<p>De jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE meldt binnen zestig dagen na het afschot elk geschoten dier aan het agentschap met een papieren formulier of elektronisch.<br>
 <br>
 Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.<br>
 <br>
@@ -298,7 +336,7 @@ Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar 
 <br>
 Wie het formulier elektronisch invult en verzendt, krijgt automatisch een ontvangstmelding.<br>
 <br>
-Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.</p>
+Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ### ART. 35.
 
@@ -368,7 +406,19 @@ De bijzondere jacht op vossen mag niet worden uitgeoefend binnen een straal van 
 
 ### ART. 42.
 
-<P>Bestrijding wordt door een eigenaar of grondgebruiker aan het agentschap   gemeld met een papieren of elektronisch meldingsformulier waarvan het model   wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de   website www.natuurenbos.be van het agentschap.<BR></P>  <P>Het meldingsformulier wordt naar het agentschap gestuurd op een van de   volgende wijzen:<BR>1° met een aangetekende brief;<BR>2° per e-mail;<BR>3 via   elektronische indiening.<BR></P>  <P>De melding bevat de volgende informatie:<BR>1° informatie over de locatie   waarvoor bestrijding wordt gemeld;<BR>2° een motivering van het type en de   omvang van de schade die de eigenaar of de grondgebruiker heeft geleden;<BR>3°   informatie over de preventieve of schadebeperkende maatregelen die voor de   melding genomen zijn.<BR></P>  <P>De melding kan betrekking hebben op afzonderlijke activiteiten of op een   activiteitenkalender.</P>
+<p>Bestrijding wordt door een eigenaar of grondgebruiker aan het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+1° met een aangetekende brief;<br>
+2° per e-mail;<br>
+3 via elektronische indiening.</p>
+
+<p>De melding bevat de volgende informatie:<br>
+1° informatie over de locatie waarvoor bestrijding wordt gemeld;<br>
+2° een motivering van het type en de omvang van de schade die de eigenaar of de grondgebruiker heeft geleden;<br>
+3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn.</p>
+
+<p>De melding kan betrekking hebben op afzonderlijke activiteiten of op een activiteitenkalender.</p>
 
 ### ART. 43.
 
@@ -390,7 +440,15 @@ De bestrijding van wilde zwijnen, houtduiven, konijnen en vossen mag het   hele 
 
 ### ART. 47.
 
-<P>Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor   aangestelde verantwoordelijke van de WBE binnen een maand na het verstrijken van   het kwartaal waarin het afschot werd vervuld, een ingevuld papieren of   elektronisch meldingsformulier aan het agentschap.<BR></P>  <P>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor   verwerking en rapportering.<BR></P>  <P>Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste   exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in   het bezit van de jachtrechthouder of van de daarvoor aangestelde   verantwoordelijke van de WBE.<BR></P>  <P>Wie het elektronische formulier invult en opstuurt, krijgt automatisch een   ontvangstmelding.<BR></P>  <P>Het model van het papieren en het elektronische meldingsformulier wordt   opgesteld door het agentschap en ter beschikking gesteld op de website   www.natuurenbos.be van het agentschap.</P>
+<p>Voor elk geschoten dier bezorgt de jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE binnen zestig dagen na het afschot een ingevuld papieren of elektronisch meldingsformulier aan het agentschap.</p>
+
+<p>Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.</p>
+
+<p>Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE.</p>
+
+<p>Wie het elektronische formulier invult en opstuurt, krijgt automatisch een ontvangstmelding.</p>
+
+<p>Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
 
 ### ART. 48.
 
@@ -426,39 +484,63 @@ De bestrijding van vossen mag niet worden uitgeoefend binnen een straal   van vi
 
 ### ART. 54.
 
-<p>De minister stelt met het oog op overleg over de aanpak van wilde zwijnen faunabeheerzones vast.</p>
-
-<p>Voor elke faunabeheerzone organiseert en coördineert het agentschap jaarlijks voor 1 mei een overleg tussen de vertegenwoordigers van de erkende WBE's in de faunabeheerzone, vertegenwoordigers van de bijzondere veldwachters in de faunabeheerzone,&nbsp;de beheerders van erkende reservaten in de faunabeheerzone, de landbouworganisaties die actief zijn in de faunabeheerzone en de provincies waarin de faunabeheerzone ligt.</p>
-
-<p>De basis van het overleg wordt gevormd door op jaarlijkse basis gemeten gegevens volgens de door de minister bepaalde indicatoren voor schade binnen de faunabeheerzone.</p>
-
-<p>Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de populatiedoelstelling voor wilde zwijnen in de faunabeheerzone in kwestie en over de aanpak van wilde zwijnen om de populatiedoelstelling te bereiken. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten inzake het uitoefenen van de jacht en gezamenlijke beheeracties en op de logistieke ondersteuning van de aanpak.</p>
-
-<p>De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap, ondertekend door alle betrokken partijen. De consensus is gedurende het volgende jachtseizoen dwingend voor de faunabeheerzone.</p>
+<p>De minister stelt met het oog op overleg over de aanpak van wilde zwijnen en andere grofwildsoorten faunabeheerzones vast. De minister bepaalt voor welke andere grofwildsoorten dan wild zwijn overleg gevoerd moet worden en, in voorkomend geval, in welke faunabeheerzones en voor welke periode.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Voor elke faunabeheerzone organiseert en coördineert het agentschap jaarlijks voor 1 mei een overleg tussen de vertegenwoordigers van de erkende WBE's die in de faunabeheerzone een werkingsgebied hebben, de vertegenwoordigers van de bijzondere veldwachters in de faunabeheerzone, de vertegenwoordigers van de private en publieke actoren die in de faunabeheerzone terreinen in eigendom hebben of beheren met een significante impact op het wildbeheer, de vertegenwoordigers van de landbouworganisaties die actief zijn in de faunabeheerzone en de vertegenwoordigers van de provincies waarin de faunabeheerzone ligt.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De basis van het overleg wordt gevormd door gegevens die op jaarlijkse basis gemeten worden volgens de door de minister bepaalde indicatoren voor schade binnen de faunabeheerzone.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de populatiedoelstelling voor wilde zwijnen en, in voorkomend geval, voor andere grofwildsoorten in de faunabeheerzone in kwestie en over de aanpak van wilde zwijnen en, in voorkomend geval, van andere grofwildsoorten om de populatiedoelstelling te bereiken. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten van het uitoefenen van de jacht en gezamenlijke beheeracties en op de logistieke ondersteuning van de aanpak.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap en gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap. De consensus is gedurende het volgende jachtseizoen dwingend voor de faunabeheerzone.&nbsp;</p>
 
 ### ART. 55.
 
-<p>Met het oog op een evenwichtige aanpak van wilde zwijnen organiseren en coördineren de erkende WBE's jaarlijks voor 1 juli een overleg met de beheerders van erkende reservaten in hun WBE-werkingsgebied, met vertegenwoordigers van de bijzondere veldwachters van het WBE-werkingsgebied, met de overheden die in hun WBE-werkingsgebied bossen of andere domeinen beheren, met private bos- en domeineigenaars in hun WBE-werkingsgebied, met de landbouworganisaties die actief zijn in hun WBE-werkingsgebied, en met de gemeenten waarin hun WBE-werkingsgebied ligt.</p>
-
-<p>De basis van het overleg wordt gevormd door op jaarlijkse basis gemeten gegevens volgens de door de minister bepaalde indicatoren voor schade binnen het WBE-werkingsgebied.</p>
-
-<p>Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de aanpak van de wilde zwijnen in het WBE-werkingsgebied in kwestie. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten inzake het uitoefenen van de jacht en gezamenlijke beheeracties.</p>
-
-<p>De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap, ondertekend door alle betrokken partijen. De consensus is gedurende het betreffende jachtseizoen dwingend voor het WBE-werkingsgebied. De consensus is ondergeschikt aan de consensus die wordt bereikt op het niveau van een faunabeheerzone, als vermeld in artikel 54.</p>
+<p>§1. Met het oog op een evenwichtige aanpak van wilde zwijnen en, in voorkomend geval, andere grofwildsoorten organiseren en coördineren de erkende WBE's jaarlijks voor 1 juli een overleg met de vertegenwoordigers van de private en publieke actoren die in hun WBE-werkingsgebied terreinen in eigendom hebben of beheren met een significante impact op het wildbeheer, met vertegenwoordigers van de bijzondere veldwachters van het WBE-werkingsgebied, met de vertegenwoordigers van de landbouworganisaties die actief zijn in hun WBE-werkingsgebied, en met de vertegenwoordigers van de gemeenten waarin hun WBE-werkingsgebied ligt.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De basis van het overleg wordt gevormd door gegevens die op jaarlijkse basis gemeten zijn volgens de door de minister bepaalde indicatoren voor schade binnen het WBE-werkingsgebied.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het overleg wordt gevoerd met het oog op het bereiken van een consensus over de aanpak van de wilde zwijnen en, in voorkomend geval, van andere grofwildsoorten in het WBE-werkingsgebied in kwestie. Het overleg heeft minimaal betrekking op het nemen van preventieve maatregelen, op de ruimtelijke en tijdsgebonden aspecten van het uitoefenen van de jacht en gezamenlijke beheeracties.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De consensus die wordt verkregen op basis van het overleg, wordt ingediend bij het agentschap en gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap. De consensus is gedurende het betreffende jachtseizoen dwingend voor het WBE-werkingsgebied. De consensus is ondergeschikt aan en uitvoerend voor de consensus die wordt bereikt op het niveau van een faunabeheerzone als vermeld in artikel 54.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. Als verschillende erkende WBE’s een gezamenlijk overleg willen houden, kan dat het overleg per WBE-werkingsgebied, vermeld in paragraaf 1, vervangen.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om het overleg te optimaliseren, kan het hoofd van het agentschap een andere geografische entiteit dan het WBE-werkingsgebied bepalen waarin het overleg, vermeld in paragraaf 1, plaatsvindt. Die andere geografische entiteit geldt voor één overlegcyclus en het bijhorende jachtseizoen wordt stilzwijgend verlengd en kan voorwaardelijk zijn. Het hoofd van het agentschap bepaalt dan ook wie de organisatie en de coördinatie voert.</p>
 
 ### ART. 56.
 
-Met het oog op de optimalisatie van de regelgeving in functie van het   maatschappelijk draagvlak voor de aanwezigheid van de wilde zwijnen en voor de   aanpak van problemen, meet het instituut jaarlijks een aantal indicatoren die   toelaten het maatschappelijk draagvlak te beoordelen.
+Met het oog op de optimalisatie van de regelgeving in functie van het maatschappelijk draagvlak voor de aanwezigheid van de wilde zwijnen en voor de aanpak van problemen, meet het instituut jaarlijks een aantal indicatoren die toelaten het maatschappelijk draagvlak te beoordelen.&nbsp;De analyses van deze metingen worden gepubliceerd via de website natuurenbos.vlaanderen.be van het agentschap.
 
 ## HOOFDSTUK 8. Specifieke afwijkingen in het kader van artikel 33 van het Jachtdecreet van 24 juli 1991
 
 ### ART. 57.
 
-<P>De jachtrechthouders of medejachtrechthouders, de grondeigenaars, de   grondgebruikers en de door de jachtrechthouders aangestelde bijzondere   veldwachters mogen, voor het natuurbeheer en na melding aan het agentschap,   eieren van Canadese ganzen en de grauwe ganzen schudden, rapen of   vernielen.<BR></P>  <P>De personen, vermeld in het eerste lid, mogen, na melding aan het agentschap,   de grauwe gans en de Canadese gans voor het natuurbeheer doden of laten   doden:<BR>1° met vuurwapens;<BR>2° door afvangen met behulp van netten tijdens   de periode van 1 juni tot en met 14 juli.<BR></P>  <P>In het geval, vermeld in het tweede lid, 1°, zijn de personen, vermeld in het   eerste lid, met uitzondering van de door de jachtrechthouder aangestelde   bijzondere veldwachters, in het bezit van een geldig jachtverlof.<BR></P>  <P>De acties, vermeld in het eerste en tweede lid, worden gemeld met een   papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld   door het agentschap en ter beschikking wordt gesteld op de website   www.natuurenbos.be van het agentschap.<BR></P>  <P>Het meldingsformulier wordt naar het agentschap gestuurd op een van de   volgende wijzen:<BR>1° met een aangetekende brief;<BR>2° per e-mail;<BR>3° via   elektronische indiening.</P>
+<p>De jachtrechthouders of medejachtrechthouders, de grondeigenaars, de grondgebruikers en de door de jachtrechthouders aangestelde bijzondere veldwachters mogen, voor het natuurbeheer en na melding aan het agentschap, eieren van Canadese ganzen en de grauwe ganzen schudden, rapen of vernielen.</p>
+
+<p>De personen, vermeld in het eerste lid, mogen, na melding aan het agentschap, de grauwe gans en de Canadese gans voor het natuurbeheer doden of laten doden:<br>
+1° met vuurwapens;<br>
+2° door afvangen met behulp van netten tijdens de periode van 1 juni tot en met 14 juli.</p>
+
+<p>In het geval, vermeld in het tweede lid, 1°, zijn de personen, vermeld in het eerste lid, met uitzondering van de door de jachtrechthouder aangestelde bijzondere veldwachters, in het bezit van een geldig jachtverlof.</p>
+
+<p>De acties, vermeld in het eerste en tweede lid, worden gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+1° met een aangetekende brief;<br>
+2° per e-mail;<br>
+3° via elektronische indiening.</p>
 
 ### ART. 58.
 
-<P>Uiterlijk op 1 april van elk jaar wordt aan het agentschap gerapporteerd over   de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van dit   hoofdstuk werden gedood. Die rapportage heeft betrekking op de aantallen van de   dieren die gedood werden, alsook op het tijdstip en de locatie ervan.<BR></P>  <P>De rapportering wordt gedaan met een papieren of elektronisch   rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en   ter beschikking wordt gesteld op de website www.natuurenbos.be van het   agentschap.<BR></P>  <P>Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de   volgende wijzen:<BR>1° met een aangetekende brief;<BR>2° per e-mail;<BR>3° via   elektronische indiening.</P>
+<p>Uiterlijk op 1 april van elk jaar wordt aan het agentschap gerapporteerd over de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van dit hoofdstuk werden gedood. Die rapportage heeft betrekking op de aantallen van de dieren die gedood werden, alsook op het tijdstip en de locatie ervan.</p>
+
+<p>De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.</p>
+
+<p>Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+1° met een aangetekende brief;<br>
+2° per e-mail;<br>
+3° via elektronische indiening.</p>
 
 ### ART. 59.
 
@@ -476,7 +558,11 @@ Met toepassing van artikel 36 van het Jachtdecreet van 24 juli 1991 zijn   de vo
 
 ### ART. 62.
 
-<P>Elk geschoten specimen grof wild wordt onmiddellijk gemerkt met het daarvoor   bestemde label dat het agentschap heeft uitgereikt. Dat label wordt bevestigd   boven het hielgewricht van de achterpoot van het specimen in kwestie.<BR></P>  <P>Het label wordt op zodanige wijze aangebracht dat het niet kan worden   verwijderd zonder het te beschadigen.<BR></P>  <P>Het label mag niet worden verwijderd zolang het dier zich niet bij de   eindverbruiker of in een erkende wildbewerkingsinrichting   bevindt.</P>
+<p>Elk geschoten specimen grof wild wordt onmiddellijk gemerkt met het daarvoor bestemde label dat het agentschap heeft uitgereikt. Dat label wordt bevestigd boven het hielgewricht van de achterpoot van het specimen in kwestie.</p>
+
+<p>Het label wordt op zodanige wijze aangebracht dat het niet kan worden verwijderd zonder het te beschadigen en dat hergebruik niet mogelijk is. Beschadigde labels worden als ongeldig beschouwd.</p>
+
+<p>Het label mag niet worden verwijderd zolang het dier zich niet bij de eindverbruiker of in een erkende wildbewerkingsinrichting bevindt.</p>
 
 ### ART. 63.
 
