@@ -2,16 +2,16 @@
   "codex_id": 1032103,
   "title": "Besluit van de Vlaamse Regering van 2019-04-26 houdende de preventie, surveillance en bestrijding van klassieke en Afrikaanse varkenspest bij wilde zwijnen ter uitvoering van het Wildedierenziektedecreet van 28 maart 2014",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032103/VolledigDocument?datum=2019-08-30",
-  "source_sha256": "4efda39a2cb29d98168e2700ab39c09bf797f8aaa3e61241d1ac760919c47ca6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032103/VolledigDocument?datum=2024-10-20",
+  "source_sha256": "2febf6bfb98e9c10f803f5c20fd37ff7ec4256f07acb164f756afdddac79052e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032103&param=informatie",
-  "as_of": "2019-08-30",
+  "as_of": "2024-10-20",
   "made": "2019-04-26",
   "gazette": "2019-08-20",
   "numac": 2019013867,
   "document_start": "2019-08-30",
   "document_end": null,
-  "in_force": "2019-08-30",
+  "in_force": "2024-10-20",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2019-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-20; future article versions excluded; article text as the API gives it"
 }

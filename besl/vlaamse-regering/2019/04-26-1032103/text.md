@@ -51,7 +51,7 @@ De artikelen 10 tot en met 19 bepalen maatregelen die bij uitbraak van toepassin
 
 ### ART 5.
 
-Iedereen, opgenomen in artikel 6 van het Wildedierenziektedecreet van 28 maart 2014, die een kennelijk ziek of dood wild zwijn vindt, waarvan redelijkerwijs kan worden vermoed dat het niet geschoten is tijdens een jachtactiviteit, meldt dat via een meldpunt dat bij het agentschap daarvoor wordt ingesteld. Dat meldpunt wordt bekendgemaakt op de website www.natuurenbos.be van het agentschap.
+Iedereen, opgenomen in artikel 6 van het Wildedierenziektedecreet van 28 maart 2014, die een kennelijk ziek of dood wild zwijn vindt, waarvan redelijkerwijs kan worden vermoed dat het niet geschoten is tijdens een jachtactiviteit, meldt dat via een meldpunt dat bij het agentschap daarvoor wordt ingesteld. Dat meldpunt wordt bekendgemaakt op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ### ART 6.
 
@@ -59,7 +59,7 @@ Voor specimen van kadavers van wilde zwijnen gelden de volgende verplichtingen:<
 1° specimen die niet voor consumptie of eigen gebruik geschikt zijn, worden verwerkt door een destructiebedrijf dat door de overheid is erkend;<br>
 2° tijdens de manipulatie en het vervoer van de specimen worden specifieke bioveiligheidsmaatregelen in acht genomen.<br>
 <br>
-Het hoofd van het agentschap stelt in uitvoering van het eerste lid, 2°, een lijst van verplichte bioveiligheidsmaatregelen op en geeft die weer op de website www.natuurenbos.be van het agentschap.
+Het hoofd van het agentschap stelt in uitvoering van het eerste lid, 2°, een lijst van verplichte bioveiligheidsmaatregelen op en geeft die weer op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ### ART 7.
 
@@ -71,7 +71,7 @@ In het eerste lid wordt verstaan onder:<br>
 
 ### ART 8.
 
-Wilde zwijnen die door een erkend opvangcentrum voor wilde dieren worden opgevangen en verzorgd, mogen niet opnieuw worden vrijgelaten in de natuur. Het hoofd van het agentschap stelt de bioveiligheidsmaatregelen op die gelden bij de opvang, de verzorging en het transport van wilde zwijnen door een erkend opvangcentrum voor wilde dieren en geeft die weer op de website www.natuurenbos.be van het agentschap.
+Wilde zwijnen die door een erkend opvangcentrum voor wilde dieren worden opgevangen en verzorgd, mogen niet opnieuw worden vrijgelaten in de natuur. Het hoofd van het agentschap stelt de bioveiligheidsmaatregelen op die gelden bij de opvang, de verzorging en het transport van wilde zwijnen door een erkend opvangcentrum voor wilde dieren en geeft die weer op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ## HOOFDSTUK 3. Algemene maatregelen die bij uitbraak van toepassing zijn in besmet gebied
 
@@ -101,7 +101,7 @@ Voor het opsporen en ruimen van kadavers van wilde zwijnen wordt op alle terrein
 <br>
 In het eerste lid wordt verstaan onder woning: zoals begrepen in artikel 8 van het Europees Verdrag voor de rechten van de mens, ondertekend te Rome op 4 november 1950.<br>
 <br>
-Als kadavers van wilde zwijnen worden gevonden, worden ze onmiddellijk en volgens de modaliteiten die het hoofd van het agentschap bepaalt, overgedragen aan het agentschap voor analyse en destructie. Daarna wordt de vindplaats ontsmet volgens de modaliteiten die het hoofd van het agentschap bepaalt. Het hoofd van het agentschap stelt de modaliteiten op voor elk van de deelgebieden die conform artikel 9 zijn bepaald en geeft die weer op de website www.natuurenbos.be van het agentschap.
+Als kadavers van wilde zwijnen worden gevonden, worden ze onmiddellijk en volgens de modaliteiten die het hoofd van het agentschap bepaalt, overgedragen aan het agentschap voor analyse en destructie. Daarna wordt de vindplaats ontsmet volgens de modaliteiten die het hoofd van het agentschap bepaalt. Het hoofd van het agentschap stelt de modaliteiten op voor elk van de deelgebieden die conform artikel 9 zijn bepaald en geeft die weer op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ## HOOFDSTUK 4. Maatregelen voor jacht en bestrijding die bij uitbraak van toepassing zijn in besmet gebied
 
@@ -112,17 +112,17 @@ Het hoofd van het agentschap kan, in overleg met het instituut, in elk van de de
 2° bepalen dat er alleen gejaagd of bestreden kan worden onder coördinatie van het agentschap;<br>
 3° bepalen dat er alleen gejaagd of bestreden kan worden onder de voorwaarden die het agentschap samen met het instituut bepaalt. Daarbij kan, op terreinen zonder goedgekeurd jachtplan als vermeld in de artikelen 30 tot 33 van het Jachtadministratiebesluit van 25 april 2014, en op terreinen waarvan de oppervlakte minder dan 40 hectare bedraagt, het hoofd van het agentschap de toestemming verlenen om zonder jachtplan op wilde zwijnen te jagen. Voor zover gekend wordt de jachtrechthouder voorafgaandelijk geïnformeerd.&nbsp; Het hoofd van het agentschap kan daarbij eveneens de toestemming verlenen om op wilde zwijnen te jagen zonder een goedgekeurd faunabeheerplan als vermeld in de artikelen 43 tot 46 van het Jachtadministratiebesluit van 25 april 2014.<br>
 <br>
-Deze maatregelen worden weergegeven op de website www.natuurenbos.be van het agentschap.
+Deze maatregelen worden weergegeven op dde website natuurenbos.vlaanderen.be van het agentschap.
 
 ### ART 14.
 
-Als wilde zwijnen worden geschoten, worden de kadavers onmiddellijk en volgens de modaliteiten die het hoofd van het agentschap bepaalt, overgedragen aan het agentschap voor analyse en destructie. Het hoofd van het agentschap stelt de modaliteiten op voor elk van de deelgebieden die bepaald zijn conform artikel 9, en geeft die weer op de website www.natuurenbos.be van het agentschap.
+Als wilde zwijnen worden geschoten, worden de kadavers onmiddellijk en volgens de modaliteiten die het hoofd van het agentschap bepaalt, overgedragen aan het agentschap voor analyse en destructie. Het hoofd van het agentschap stelt de modaliteiten op voor elk van de deelgebieden die bepaald zijn conform artikel 9, en geeft die weer op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ### ART 15.
 
 Als jacht op wild zwijn wordt toegelaten, en onder voorbehoud van de voorwaarden conform artikel 13, 3°, kan daarbij gebruik gemaakt worden van alle middelen, jachtwijzen, jachtmethoden, jachtperiodes en jachttijdstippen die toegelaten zijn bij gewone jacht en bijzondere jacht.<br>
 <br>
-Het hoofd van het agentschap kan, in overleg met het instituut, in elk voor de deelgebieden die conform artikel 9 zijn bepaald, nadere regels opleggen over het gebruik van jachthonden. Deze maatregel wordt weergegeven op de website www.natuurenbos.be van het agentschap.<br>
+Het hoofd van het agentschap kan, in overleg met het instituut, in elk voor de deelgebieden die conform artikel 9 zijn bepaald, nadere regels opleggen over het gebruik van jachthonden. Deze maatregel wordt weergegeven op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het hoofd van het agentschap kan drijfjacht op wild zwijn toelaten op een terrein dat daarvoor wordt aangeduid, en de modaliteiten daarvoor bepalen.
 
@@ -144,7 +144,7 @@ Het hoofd van het agentschap kan, in overleg met het instituut, in elk van de de
 3° extra aankorrelplaatsen voor wilde zwijnen opleggen;<br>
 4° de inzet van mechanische aankorreling voor wilde zwijnen mogelijk maken.<br>
 <br>
-Deze maatregelen wordt weergegeven op de website www.natuurenbos.be van het agentschap.
+Deze maatregelen wordt weergegeven op de website natuurenbos.vlaanderen.be van het agentschap.
 
 ### ART 19.
 
