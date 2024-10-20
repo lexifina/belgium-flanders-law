@@ -142,7 +142,7 @@ Onverminderd het bepaalde in artikel 9 van het decreet, is het wijzigen   van de
 
 Indien er, wanneer van toepassing, uitdrukkelijk voldaan is aan de bepalingen van artikel 14 van het decreet, inzake de zorgplicht, artikel 16 van het decreet, inzake het vermijden van vermijdbare natuurschade of 36ter van het decreet, inzake de bescherming van speciale beschermingszones, gelden de in dit hoofdstuk opgenomen verbodsbepalingen en vergunningsplichten niet wanneer ze activiteiten betreffend die :<br>
 1° hetzij worden uitgevoerd op huiskavels van een vergunde woning en/of bedrijfsgebouw en gelegen binnen een straal van maximum 100 meters rondom de vergunde woning en/of bedrijfsgebouw voor zover ze respectievelijk bewoond of in gebruik zijn. Deze straal wordt beperkt tot 50 meter als groengebied, parkgebied, buffergebied of bosgebied bestreken wordt. Voor zover gelegen binnen groengebieden, parkgebieden, buffergebieden en bosgebieden wordt dit beperkt tot het kadastraal perceel van de vergunde woning en/of bedrijfsgebouw met een maximale straal van 50 meter rondom de vergunde woning en/of bedrijfsgebouw.<br>
-2° ...<br>
+2° hetzij worden uitgevoerd op basis van een omgevingsvergunning voor stedenbouwkundige handelingen die afgeleverd is met toepassing van de wetgeving op de ruimtelijke ordening na advies van het agentschap én op voorwaarde van afwijking overeenkomstig artikel 10 als dat van toepassing is;<br>
 3° hetzij worden uitgevoerd op basis van een regelmatige machtiging of vergunning, afgeleverd op basis van het Bosdecreet van 13 juni 1990;<br>
 4° hetzij expliciet zijn opgenomen in :<br>
 a) een beheerplan vastgesteld op grond van het decreet of van het Bosdecreet van 13 juni 1990;<br>
