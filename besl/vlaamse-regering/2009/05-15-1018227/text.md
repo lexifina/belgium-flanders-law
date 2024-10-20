@@ -1463,7 +1463,33 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° soort : een verzameling organismen die in alle belangrijk geachte kenmerken met elkaar en hun nakomelingen overeenkomen, daarbij inbegrepen alle ondersoorten, rassen en variëteiten;<br />2° inheemse soort : een soort die van nature in het wild voorkomt of is voorgekomen in het Vlaamse Gewest, of er reeds lang is ingeburgerd;<br />3° uitheemse soort : een soort die niet van nature in het wild voorkomt in het Vlaamse Gewest;<br />4° invasieve soort : een uitheemse soort die zich massaal verbreidt of kan verbreiden in zijn nieuwe omgeving en zodoende een bedreiging kan vormen, hetzij voor het vermogen van het natuurlijk milieu om in menselijke behoeften te voorzien, hetzij voor de inheemse biodiversiteit;<br />5° specimen : elk dier of elke plant, levend of dood, elk deel van een dier of een plant of elk daaruit verkregen product, alsmede alle andere goederen, indien uit een begeleidend document de verpakking, een merk of een etiket, of uit andere omstandigheden blijkt dat het gaat om delen van dieren en planten of daaruit verkregen producten;<br />6° eieren : zowel volledige als uitgeblazen eieren en eierschalen van de soorten die onder de bepalingen van dit besluit vallen;<br />7° rustplaats : een plaats die essentieel is voor het behoud van een dier of een groep van dieren als ze niet actief zijn, ook al wordt die plaats niet permanent gebruikt;<br />8° voortplantingsplaats : een plaats die door een dier wordt gebruikt om te paren en zich voort te planten, alsook de onmiddellijke omgeving van die plaats, als die nodig is voor de eerste levensfasen van de jongen van dat dier;<br />9° beheerregeling : een geheel van maatregelen van soortenbeheer, gericht op het voorkomen of herstellen van hinder, risico of schade, veroorzaakt door bepaalde soorten dieren of planten;<br />10° rode lijst : een lijst van inheemse soorten, waarbij deze op basis van objectieve criteria worden ingedeeld in klassen, naargelang hun graad van bedreiging;<br />11° soortenbeschermingsprogramma : een programma van soortenbehoudsmaatregelen dat met name gericht is op het verkrijgen van de gunstige staat van instandhouding van een inheemse soort of een groep van soorten in het gebied waarop het programma van toepassing is;<br />12° introduceren in het wild : het vrijlaten van dieren of het aanplanten of uitzaaien van planten op alle terreinen en plaatsen, ongeacht de aard of de bedekking van die plaatsen, en als die niet zijn afgesloten door een doorlopende constructie die de verspreiding van de dieren of planten naar omliggende terreinen en plaatsen onmogelijk maakt;<br />13° opvangcentrum : een opvangcentrum voor wilde dieren, met als hoofdactiviteit de verzorging en revalidatie van uit het wild afkomstige, hulpbehoevende dieren;<br />14° beheerder : de persoon die belast is met het dagelijkse beheer van een opvangcentrum voor wilde dieren;<br />15° Vogelrichtlijn : richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand;<br />16° Habitatrichtlijn : richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde fauna en flora;<br />17° verdrag van Bern : verdrag van Bern van 19 september 1979 inzake het behoud van wilde dieren en planten in hun natuurlijke leefomgeving in Europa;<br />18° decreet van 21 oktober 1997 : het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />19° Bosdecreet : het Bosdecreet van 13 juni 1990;<br />20° Jachtdecreet : het Jachtdecreet van 24 juli 1991;<br />21° agentschap : het Agentschap voor Natuur en Bos van de Vlaamse overheid;<br />22° instituut : het Instituut voor Natuur- en Bosonderzoek;<br />23° minister : de Vlaamse minister, bevoegd voor het natuurbehoud.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° soort : een verzameling organismen die in alle belangrijk geachte kenmerken met elkaar en hun nakomelingen overeenkomen, daarbij inbegrepen alle ondersoorten, rassen en variëteiten;<br>
+2° inheemse soort : een soort die van nature in het wild voorkomt of is voorgekomen in het Vlaamse Gewest, of er reeds lang is ingeburgerd;<br>
+3° uitheemse soort : een soort die niet van nature in het wild voorkomt in het Vlaamse Gewest;<br>
+4° invasieve soort : een uitheemse soort die zich massaal verbreidt of kan verbreiden in zijn nieuwe omgeving en zodoende een bedreiging kan vormen, hetzij voor het vermogen van het natuurlijk milieu om in menselijke behoeften te voorzien, hetzij voor de inheemse biodiversiteit;<br>
+5° specimen : elk dier of elke plant, levend of dood, elk deel van een dier of een plant of elk daaruit verkregen product, alsmede alle andere goederen, indien uit een begeleidend document de verpakking, een merk of een etiket, of uit andere omstandigheden blijkt dat het gaat om delen van dieren en planten of daaruit verkregen producten;<br>
+6° eieren : zowel volledige als uitgeblazen eieren en eierschalen van de soorten die onder de bepalingen van dit besluit vallen;<br>
+7° rustplaats : een plaats die essentieel is voor het behoud van een dier of een groep van dieren als ze niet actief zijn, ook al wordt die plaats niet permanent gebruikt;<br>
+8° voortplantingsplaats : een plaats die door een dier wordt gebruikt om te paren en zich voort te planten, alsook de onmiddellijke omgeving van die plaats, als die nodig is voor de eerste levensfasen van de jongen van dat dier;<br>
+9° beheerregeling : een geheel van maatregelen van soortenbeheer, gericht op het voorkomen of herstellen van hinder, risico of schade, veroorzaakt door bepaalde soorten dieren of planten;<br>
+10° rode lijst : een lijst van inheemse soorten, waarbij deze op basis van objectieve criteria worden ingedeeld in klassen, naargelang hun graad van bedreiging;<br>
+11° soortenbeschermingsprogramma : een programma van soortenbehoudsmaatregelen dat met name gericht is op het verkrijgen van de gunstige staat van instandhouding van een inheemse soort of een groep van soorten in het gebied waarop het programma van toepassing is;<br>
+12° introduceren in het wild : het vrijlaten van dieren of het aanplanten of uitzaaien van planten op alle terreinen en plaatsen, ongeacht de aard of de bedekking van die plaatsen, en als die niet zijn afgesloten door een doorlopende constructie die de verspreiding van de dieren of planten naar omliggende terreinen en plaatsen onmogelijk maakt;<br>
+13° opvangcentrum : een opvangcentrum voor wilde dieren, met als hoofdactiviteit de verzorging en revalidatie van uit het wild afkomstige, hulpbehoevende dieren;<br>
+14° beheerder : de persoon die belast is met het dagelijkse beheer van een opvangcentrum voor wilde dieren;<br>
+15° Vogelrichtlijn : richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand;<br>
+16° Habitatrichtlijn : richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde fauna en flora;<br>
+17° verdrag van Bern : verdrag van Bern van 19 september 1979 inzake het behoud van wilde dieren en planten in hun natuurlijke leefomgeving in Europa;<br>
+18° decreet van 21 oktober 1997 : het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+19° Bosdecreet : het Bosdecreet van 13 juni 1990;<br>
+20° Jachtdecreet : het Jachtdecreet van 24 juli 1991;<br>
+21° agentschap : het Agentschap voor Natuur en Bos van de Vlaamse overheid;<br>
+22° instituut : het Instituut voor Natuur- en Bosonderzoek;<br>
+23° minister : de Vlaamse minister, bevoegd voor het natuurbehoud;<br>
+24° taxidienst : een taxidienst voor wilde dieren, met als hoofdactiviteiten het ophalen of wegvangen en vervolgens vervoeren van hulpbehoevende wilde dieren, alsook het vervoeren en terug vrijlaten van gerevalideerde wilde dieren;<br>
+25° hoofd dierenzorg : de persoon die binnen een opvangcentrum verantwoordelijk is voor de dierenzorg.<br>
+&nbsp;
 
 ## Afdeling 2 Toepassingsgebied
 
@@ -1645,7 +1671,7 @@ Tijdens het onderzoek, vermeld in het eerste lid, vinden het overleg en de infor
 
 ### ART. 22.
 
-§ 1. De aanvragen voor de specifieke afwijkingen, vermeld in artikel 20 en 21, worden naar het agentschap gestuurd met een elektronisch formulier via het e-loket op de website van het agentschap of met een papieren formulier, dat aangetekend wordt verstuurd. Het model van beide formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+§ 1. De aanvragen voor de specifieke afwijkingen, vermeld in artikel 20 en 21, worden naar het agentschap gestuurd met een elektronisch formulier via het e-loket op de website natuurenbos.vlaanderen.be van het agentschap of met een papieren formulier, dat aangetekend wordt verstuurd. Het model van beide formulieren wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 § 2. Het agentschap moet een gemotiveerde beslissing nemen over aanvragen tot afwijking binnen de volgende termijn, te rekenen vanaf de ontvangstdatum van de aangetekende brief :<br>
 1° binnen een termijn van vijf werkdagen voor aanvragen tot afwijking als vermeld in artikel 20, § 1, 1°, 3° of 4°, op voorwaarde dat er sprake is van gemotiveerde hoogdringendheid. Deze termijn kan bij gemotiveerde beslissing eenmaal met vijf werkdagen worden verlengd;<br>
@@ -1673,13 +1699,13 @@ Bepaalde vergunningen, ontheffingen of plannen kunnen eveneens specifieke afwijk
 3° op voorwaarde dat het advies van het agentschap wordt ingewonnen en met zijn advies wordt rekening gehouden.<br>
 <br>
 Onder vergunningen, ontheffingen en plannen wordt verstaan :<br>
-1° een natuurvergunning, verleend op grond van artikel 13, § 3, van het decreet van 21 oktober 1997, voor een handeling, werk of gebruikswijziging, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking;<br>
+1° een vergunning, verleend op grond van artikel 13, § 3, van het decreet van 21 oktober 1997, voor een handeling, werk of gebruikswijziging, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking;<br>
 2° een ontheffing, verleend op grond van artikel 25, § 3 van het decreet van 21 oktober 1997, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in in de individuele ontheffing;<br>
-3° een beheerplan van een erkend of een Vlaams natuurreservaat, vastgesteld op grond van in artikel 34 van het decreet van 21 oktober 1997, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
+3° natuurbeheerplannen als vermeld in artikel 16ter van het decreet van 21 oktober 1997 en goedgekeurd overeenkomstig artikel 16octies, alsook de beheerplannen, vermeld in artikel 107, eerste lid, van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 4° een projectuitvoeringsplan van een natuurinrichtingsproject, vastgesteld op grond van artikel 47 van het decreet van 21 oktober 1997, voor de in dat plan opgenomen acties en maatregelen waarvoor er tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en de lasten, vermeld in het plan;<br>
 5° ...;<br>
-6° een beheerplan van een erkend bosreservaat, vastgesteld op grond van in artikel 25 van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
-7° een bosbeheerplan, vastgesteld op grond van artikel 43, § 1 tot en met § 3, van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
+6° ...;<br>
+7° ...;<br>
 8° een omgevingsvergunning, verleend met toepassing van artikel 6, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, voor een project of voor een verandering van een project waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking.<br>
 9° ...<br>
 10° een faunabeheerplan, verleend conform artikel 44 van het Jachtadministratiebesluit van 25 april 2014;<br>
@@ -1756,7 +1782,8 @@ Een beheerregeling bevat altijd de volgende onderdelen :<br>
 1° de soorten waarop de beheerregeling van toepassing zal zijn;<br>
 2° de personen of de categorieën van personen die de maatregelen zullen uitoefenen;<br>
 3° de maatregelen die zullen mogen of moeten worden uitgevoerd, en de middelen of methoden die daarbij zullen mogen of moeten worden gebruikt;<br>
-4° in voorkomend geval de te verlenen afwijkingen van de beschermingsbepalingen van hoofdstuk 3, afdeling 2, die met het oog op die maatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen aan bijlage 3 van het besluit;<br>
+4° in voorkomend geval de te verlenen afwijkingen van de beschermingsbepalingen van hoofdstuk 3, afdeling 2, die met het oog op die maatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen aan bijlage 3 van het besluit, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn;<br>
+4°/1 in voorkomend geval, de te verlenen afwijkingen van de beperkingen van bijlage 3/1, die met het oog op die maatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen van bijlage 3/1 bij dit besluit, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn;<br>
 5° de omstandigheden van tijd en plaats waaronder de maatregelen zullen mogen worden uitgevoerd;<br>
 6° in voorkomend geval, de voorwaarden en lasten waaronder de maatregelen zullen mogen worden uitgevoerd;<br>
 7° de controles die zullen worden uitgevoerd;<br>
@@ -1827,7 +1854,7 @@ Bij een afwijkingsaanvraag verstrekt de aanvrager alle noodzakelijke stukken om 
 <br>
 De afwijking wordt beperkt tot het aantal invasieve specimens dat de capaciteit van de gesloten omgeving niet overschrijdt.<br>
 <br>
-De verleende afwijkingen worden publiekelijk bekend gemaakt op de website van het agentschap waarbij minstens de volgende aspecten worden vermeld:<br>
+De verleende afwijkingen worden publiekelijk bekend gemaakt op de website natuurenbos.vlaanderen.be van het agentschap waarbij minstens de volgende aspecten worden vermeld:<br>
 1° de wetenschappelijke en gebruikelijke naam van de soort waarvoor de afwijking werd verleend;<br>
 2° het aantal of volume van het specimen waarvoor de afwijking is verleend;<br>
 3° het doel waarvoor de afwijking is verleend;<br>
@@ -1849,13 +1876,29 @@ Een afwijkingsaanvraag als vermeld in het eerste lid bevat de volgende elementen
 
 ### ART 31/5.
 
-§ 1. In afwijking van artikel 31/2, 4°, kan het agentschap door middel van een afwijking het commerciële gebruik van reeds gevestigde invasieve uitheemse soorten, als dat strikt gemotiveerd wordt, tijdelijk toestaan als onderdeel van de beheermaatregelen die zijn gericht op de uitroeiing, populatiebeheersing of indamming ervan, op voorwaarde dat alle passende controles aanwezig zijn om verdere verspreiding te vermijden.<br>
+§1. In afwijking van artikel 31/2, 4°, kan het agentschap door middel van een afwijking het commerciële gebruik van reeds gevestigde invasieve uitheemse soorten, als dat strikt gemotiveerd wordt, tijdelijk toestaan als onderdeel van de beheermaatregelen die zijn gericht op de uitroeiing, populatiebeheersing of indamming ervan, op voorwaarde dat alle passende controles aanwezig zijn om verdere verspreiding te vermijden.<br>
 <br>
-§ 2. In afwijking van artikel 31/2, 1° en 3°, kan het agentschap afwijking verlenen aan eigenaren van gezelschapsdieren die niet worden gehouden voor commerciële doeleinden en die behoren tot de voor de Unie zorgwekkende invasieve uitheemse soorten, om die dieren te houden tot de natuurlijke dood ervan, op voorwaarde dat ontegensprekelijk kan worden aangetoond dat voldaan is aan de volgende voorwaarden:<br>
+§2. In afwijking van artikel 31/2, 1° en 3°, kan het agentschap afwijking verlenen aan eigenaren van gezelschapsdieren die niet worden gehouden voor commerciële doeleinden en die behoren tot de voor de Unie zorgwekkende invasieve uitheemse soorten, om die dieren te houden tot de natuurlijke dood ervan, op voorwaarde dat ontegensprekelijk kan worden aangetoond dat voldaan is aan de volgende voorwaarden:<br>
 1° de dieren werden al gehouden voor ze werden opgenomen in de Unielijst;<br>
 2° de dieren worden in een gesloten omgeving gehouden en de eigenaar neemt alle passende maatregelen om voortplanting of ontsnapping onmogelijk te maken.<br>
 <br>
-De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden aangetoond dat er voldaan is aan de voorwaarden vermeld in het eerste lid. Nadat die regels zijn vastgesteld worden ze meegedeeld aan de Vlaamse Regering.
+De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden aangetoond dat er voldaan is aan de voorwaarden vermeld in het eerste lid. Nadat die regels zijn vastgesteld worden ze meegedeeld aan de Vlaamse Regering.<br>
+<br>
+§3. &nbsp;In afwijking van artikel 31/2, 1°, 3° en 5°, kan het agentschap toestemming tot afwijking verlenen aan erkende voorzieningen voor de opvang van dieren om specimens van invasieve uitheemse soorten die voor de Unie zorgwekkend zijn, te houden en onderling uit te wisselen. Er moet altijd aan al de volgende voorwaarden voldaan zijn:<br>
+1° &nbsp;&nbsp; &nbsp;de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, worden op elk moment gehouden en behandeld in een gesloten omgeving, en alle passende maatregelen worden genomen om voortplanting onmogelijk te maken;<br>
+2° &nbsp;&nbsp; &nbsp;de activiteit waarvoor een afwijking wordt gevraagd, wordt uitgevoerd door personeel met aantoonbare ervaring met de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, of met nauw verwante soorten;<br>
+3° &nbsp;&nbsp; &nbsp;het vervoer naar en van de gesloten omgeving vindt plaats onder omstandigheden die in de afwijking vastgelegd zijn en die de ontsnapping van de invasieve uitheemse diersoorten onmogelijk maken;<br>
+4° &nbsp;&nbsp; &nbsp;de invasieve uitheemse diersoorten die voor de Unie zorgwekkend zijn, worden gemarkeerd of, als dat nodig is, op een andere doeltreffende wijze geïdentificeerd, met behulp van methoden die geen vermijdbare pijn, spanning of lijden veroorzaken;<br>
+5° &nbsp;&nbsp; &nbsp;het risico op ontsnapping, verspreiding of verwijdering wordt op doeltreffende wijze beheerst, rekening houdend met de identiteit, de biologie en de verspreidingsvormen van de soort, de activiteit en de beoogde gesloten omgeving, de interactie met het milieu en andere relevante factoren;<br>
+6° &nbsp;&nbsp; &nbsp;de aanvrager van een afwijking stelt een continu surveillancesysteem en een noodplan, met inbegrip van een uitroeiingsplan, op voor het geval dat specimens ontsnappen of zich verspreiden. De aanvrager legt het noodplan ter goedkeuring voor aan het agentschap. Als er zich een ontsnapping of verspreiding voordoet, voert de aanvrager het noodplan onmiddellijk uit en brengt hij het agentschap daarvan meteen op de hoogte.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bij een afwijkingsaanvraag verstrekt de aanvrager alle noodzakelijke stukken om het agentschap in staat te stellen te beoordelen of aan de voorwaarden, vermeld in het eerste lid, is voldaan.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De afwijking wordt beperkt tot het aantal invasieve specimens dat de capaciteit van de gesloten omgeving niet overschrijdt.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De afwijking kan niet verleend worden voor specimens van invasieve uitheemse soorten die vallen onder artikel 16, 2.a en 2.b van verordening (EU) nr. 1143/2014.<br>
+<br>
+De afwijking kan wel verleend worden voor specimens van invasieve uitheemse soorten die vallen onder artikel 19 en 31, 4 van verordening (EU) nr. 1143/2014.
 
 ### ART 31/6.
 
@@ -1865,7 +1908,7 @@ De houders, vermeld in het eerste lid, mogen hun voorraad levende specimens verk
 
 ### ART 31/7.
 
-§ 1. De aanvragen van de afwijkingen vermeld in deze afdeling worden naar het agentschap gestuurd met een papieren formulier, dat aangetekend wordt verstuurd of met een elektronisch formulier via het e-loket op de website van het agentschap. Het model van de formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+§ 1. De aanvragen van de afwijkingen vermeld in deze afdeling worden naar het agentschap gestuurd met een papieren formulier, dat aangetekend wordt verstuurd of met een elektronisch formulier via het e-loket op de website natuurenbos.vlaanderen.be van het agentschap. Het model van de formulieren wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het agentschap neemt een gemotiveerde beslissing over de aanvragen binnen een termijn van drie maanden. Die termijn kan bij gemotiveerde beslissing eenmaal verlengd worden voor ten hoogste drie maanden.<br>
 <br>
@@ -1887,16 +1930,18 @@ Een beslissing die een afwijking toestaat bevat de volgende onderdelen:<br>
 
 &nbsp;Met behoud van artikel 31/2 tot en met 31/7, kunnen in het wild voorkomende voor de Unie zorgwekkende invasieve uitheemse soorten op de volgende wijzen worden aangepakt:<br>
 1° door de opmaak van een beheerregeling conform de bepalingen van hoofdstuk 4;<br>
-2° door bestrijding conform bijlage 3/1.
+2° door bestrijding conform bijlage 3/1.<br>
+<br>
+Een beheerregeling kan aanvullende beperkingen opleggen op de in bijlage 3/1 bepaalde uitvoering van de bestrijding in de tijd, de middelen waarmee de bestrijding kan worden uitgevoerd, de personen die de bestrijding kunnen uitvoeren, en de verwerking van kadavers, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn.
 
 ### ART 31/9.
 
 Voor de aanpak van prioritaire introductieroutes, vermeld in artikel 13 van de verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten, wordt een beheerregeling opgemaakt. Daarvoor wordt voorzien in publieke inspraak op de volgende wijze:<br>
 1° het agentschap stelt een ontwerp van beheerregeling op, wijzigt of herziet een bestaande beheerregeling en betrekt bij de opmaak van dat ontwerp de meest belanghebbende overheidsorganen, instellingen, privaatrechtelijke organisaties en sociale en maatschappelijke groeperingen;<br>
-2° een ontwerp van beheerregeling of een ontwerp van wijziging of herziening van een beheerregeling wordt, na goedkeuring door de minister, door het agentschap, bij uittreksel bekendgemaakt in het Belgisch Staatsblad, met daarbij de bekendmaking gevoegd van de wijze waarop het ontwerp onderworpen zal worden aan de actieve consultatie van het publiek. Het agentschap zorgt ook voor de bekendmaking van de wijze waarop de actieve consultatie van het publiek zal plaatsvinden via de voor het agentschap gebruikelijke kanalen, zoals elektronische middelen en media, waaronder de publicatie in twee dagbladen, en via de website van het agentschap. Bij de bekendmaking wordt er gewezen op het recht op inspraak van het publiek in de besluitvorming over de beheerregelingen op het vlak van introductieroutes, en wordt er vermeld dat vragen en opmerkingen als vermeld in dit artikel gericht moeten worden aan het agentschap. Gedurende een termijn van zestig dagen, die ingaat op de dag na de bekendmaking in het Belgisch Staatsblad, kan het publiek bezwaren of opmerkingen schriftelijk indienen bij het agentschap volgens de modaliteiten, vermeld bij de bekendmaking;<br>
+2° een ontwerp van beheerregeling of een ontwerp van wijziging of herziening van een beheerregeling wordt, na goedkeuring door de minister, door het agentschap, bij uittreksel bekendgemaakt in het Belgisch Staatsblad, met daarbij de bekendmaking gevoegd van de wijze waarop het ontwerp onderworpen zal worden aan de actieve consultatie van het publiek. Het agentschap zorgt ook voor de bekendmaking van de wijze waarop de actieve consultatie van het publiek zal plaatsvinden via de voor het agentschap gebruikelijke kanalen, zoals elektronische middelen en media, waaronder de publicatie in twee dagbladen, en via de website natuurenbos.vlaanderen.be van het agentschap. Bij de bekendmaking wordt er gewezen op het recht op inspraak van het publiek in de besluitvorming over de beheerregelingen op het vlak van introductieroutes, en wordt er vermeld dat vragen en opmerkingen als vermeld in dit artikel gericht moeten worden aan het agentschap. Gedurende een termijn van zestig dagen, die ingaat op de dag na de bekendmaking in het Belgisch Staatsblad, kan het publiek bezwaren of opmerkingen schriftelijk indienen bij het agentschap volgens de modaliteiten, vermeld bij de bekendmaking;<br>
 3° tegelijkertijd met de bekendmaking wordt een ontwerp bezorgd aan de Strategische Adviesraad Minaraad, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van een maand nadat hij het ontwerp heeft ontvangen. Het advies is niet bindend;<br>
 4° de beheerregeling of de wijziging of herziening ervan wordt vastgesteld door de minister, rekening houdend met de gegeven adviezen en met de ingediende bezwaren of opmerkingen. Als de minister een door een adviesorgaan uitgebracht advies of de door het publiek ingediende bezwaren en opmerkingen geheel of gedeeltelijk niet volgt wordt dat verantwoord in een verslag dat gevoegd wordt bij de bekendmaking vermeld in punt 5° ;<br>
-5° een conform punt 4° door de minister vastgestelde beheerregeling of een wijziging of herziening ervan wordt, samen met het verslag, vermeld in punt 4°, bij uittreksel bekendgemaakt in het Belgisch Staatsblad. De bekendmaking bij uittreksel gebeurt ook via de publicatie in twee dagbladen en via de website van het agentschap.
+5° een conform punt 4° door de minister vastgestelde beheerregeling of een wijziging of herziening ervan wordt, samen met het verslag, vermeld in punt 4°, bij uittreksel bekendgemaakt in het Belgisch Staatsblad. De bekendmaking bij uittreksel gebeurt ook via de publicatie in twee dagbladen en via de website natuurenbos.vlaanderen.be van het agentschap.
 
 ## [Afdeling 2 Aanpak van voor het Vlaamse Gewest zorgwekkende invasieve uitheemse soorten conform verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (ing. BVR 25 januari 2019, art. 17, I: 25 januari 2019)]
 
@@ -1912,7 +1957,9 @@ Het van toepassing verklaren van de bepalingen van afdeling 1 van dit hoofdstuk 
 
 In het wild voorkomende uitheemse soorten die niet vallen onder afdeling 1 en 2, van dit hoofdstuk, kunnen aangepakt worden op een van de volgende wijzen:<br>
 1° door de opmaak van een beheerregeling conform de bepalingen van hoofdstuk 4;<br>
-2° door bestrijding conform bijlage 3/1.
+2° door bestrijding conform bijlage 3/1.<br>
+<br>
+Een beheerregeling kan aanvullende beperkingen opleggen op de in bijlage 3/1 bepaalde uitvoering van de bestrijding in de tijd, de middelen waarmee de bestrijding kan worden uitgevoerd, de personen die de bestrijding kunnen uitvoeren, en de verwerking van kadavers, specifiek voor de soorten waarop de beheerregeling van toepassing zal zijn.
 
 ## HOOFDSTUK 5 Werking van opvangcentra voor wilde dieren
 
@@ -1924,11 +1971,35 @@ Opvangcentra kunnen erkend worden door het agentschap, voor een periode van maxi
 
 ### ART. 33.
 
-Om erkend te worden als opvangcentrum moet het opvangcentrum aan de volgende voorwaarden voldoen :<br />1° het opvangcentrum is opgericht op particulier initiatief in de vorm van een vereniging zonder winstoogmerk;<br />2° de zetel van het opvangcentrum is gevestigd in het Vlaamse Gewest;<br />3° het opvangcentrum voldoet aan de werkingsvoorwaarden, opgenomen in bijlage 4.<br />Om een erkenning als opvangcentrum te verkrijgen, moet de aanvraag de volgende gegevens bevatten :<br />1° naam en adres van het opvangcentrum;<br />2° voor- en achternaam en adres van de beheerder;<br />3° de statuten van de vereniging, bedoeld in het eerste lid, 1°;<br />4° de beslissing van de raad van bestuur of algemene vergadering van de vereniging bedoeld in het eerste lid, 1°, om een aanvraag tot erkenning in te dienen;<br />5° bij een eerste aanvraag : het aantonen van drie jaar werking op het vlak van opvang, verzorging en revalidatie van gekwetste en hulpbehoevende wilde dieren. Dat moet gestaafd worden met de nodige bewijsstukken, onder andere werkingsverslag over de voorbije drie jaar en een financieel verslag van de voorbije drie kalenderjaren;<br />6° de kwalificaties en ervaring van de beheerder;<br />7° een opsomming en een plan van de aanwezige accommodatie;<br />8° een schriftelijke overeenkomst met een dierenarts waarin die zich ertoe verbindt regelmatig toezicht te houden en alle nodige diergeneeskundige handelingen op zich te nemen.<br /><br />De erkenning kan verlengd worden. De aanvraag tot verlenging van de erkenning moet minstens drie maanden voor de lopende erkenning afloopt worden ingediend bij het agentschap.<br /><br />
+Om erkend te worden als opvangcentrum moet het opvangcentrum aan de volgende voorwaarden voldoen :<br>
+1° het opvangcentrum is opgericht op particulier initiatief in de vorm van een vereniging zonder winstoogmerk;<br>
+2° de zetel van het opvangcentrum is gevestigd in het Vlaamse Gewest; In geval het een nieuw initiatief betreft, is het opvangcentrum gelegen in een regio die niet afgedekt wordt door een bestaand erkend opvangcentrum en waar aldus behoefte is aan een substantiële uitbreiding van de opvangcapaciteit voor wilde dieren. Het hoofd van het agentschap stelt ter uitvoering daarvan een kaart op met de regio’s waar er nood is aan bijkomende opvangcapaciteit. Deze kaart staat op de website natuurenbos.vlaanderen.be van het agentschap;<br>
+3° het opvangcentrum voldoet aan de werkingsvoorwaarden, opgenomen in bijlage 4;<br>
+4° het opvangcentrum voldoet aan de Belgische verenigings- en vennootschapswetgeving.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om een erkenning als opvangcentrum te verkrijgen, moet de aanvraag de volgende gegevens bevatten :<br>
+1° naam en adres van het opvangcentrum;<br>
+2° voor- en achternaam van de beheerder en van het hoofd dierenzorg;<br>
+3° de statuten van de vereniging, bedoeld in het eerste lid, 1°;<br>
+4° de beslissing van het bestuursorgaan of algemene vergadering van de vereniging bedoeld in het eerste lid, 1°, om een aanvraag tot erkenning in te dienen;<br>
+5° bij een eerste aanvraag : het aantonen van drie jaar werking op het vlak van opvang, verzorging en revalidatie van gekwetste en hulpbehoevende wilde dieren. Dat moet gestaafd worden met de nodige bewijsstukken, onder andere werkingsverslag over de voorbije drie jaar en een financieel verslag van de voorbije drie kalenderjaren;<br>
+6° de kwalificaties en ervaring van de beheerder en van het hoofd dierenzorg. Voor het hoofd dierenzorg wordt minstens het diploma van bachelor in de dierenzorg, of een gelijkgesteld opleidingsniveau, of gelijkgestelde ervaring verstaan. Bij een eerste aanvraag wordt dit verder aangevuld met een verslag van de doorlopen stage door het hoofd dierenzorg van minimaal vier maanden bij een erkend opvangcentrum;<br>
+7° een opsomming en een plan van de aanwezige accommodatie;<br>
+8° een schriftelijke overeenkomst met een dierenarts waarin die zich ertoe verbindt regelmatig toezicht te houden en alle nodige diergeneeskundige handelingen op zich te nemen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De erkenning kan verlengd worden. De aanvraag tot verlenging van de erkenning moet minstens drie maanden voor de lopende erkenning afloopt worden ingediend bij het agentschap.<br>
+<br>
+Bovengenoemde persoonsgegevens worden, conform artikel 5 van de Algemene Verordening Gegevensbescherming, slechts in identificeerbare vorm bewaard gedurende 10 jaar, zoals gestipuleerd in artikel 2262bis van het Burgerlijk Wetboek. Na afloop van deze bewaartermijn worden alle persoonsgegevens verwijderd en enkel niet-identificeerbare data bewaard voor statistische doeleinden.
 
 ### ART. 34.
 
-De beheerder zorgt ervoor dat de werkzaamheden in het centrum verlopen in overeenstemming met alle wettelijke verplichtingen, inzonderheid de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij en het dierenwelzijn.<br /><br />De erkenning kan, nadat de beheerder voorafgaandelijk gehoord is, op elk ogenblik worden ingetrokken als blijkt dat :<br />1° de erkenning werd verkregen op grond van valse verklaringen of documenten;<br />2° de beheerder of het erkende opvangcentrum de opgelegde voorwaarden niet naleeft of er niet langer aan voldoet;<br />3° de beheerder van het erkende opvangcentrum wordt veroordeeld wegens overtredingen van de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij of het dierenwelzijn.<br /><br />
+De beheerder zorgt ervoor dat de werkzaamheden in het centrum verlopen in overeenstemming met alle wettelijke verplichtingen, inzonderheid de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij en het dierenwelzijn.<br>
+<br>
+De erkenning kan, nadat de beheerder voorafgaandelijk gehoord is, op elk ogenblik worden ingetrokken als blijkt dat :<br>
+1° de erkenning werd verkregen op grond van valse verklaringen of documenten;<br>
+2° de beheerder of het erkende opvangcentrum de opgelegde voorwaarden niet naleeft of er niet langer aan voldoet;<br>
+3° de beheerder of het hoofd dierenzorg van het erkende opvangcentrum wordt veroordeeld wegens overtredingen van de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij of het dierenwelzijn.<br>
+&nbsp;
 
 ### ART. 35.
 
@@ -2013,8 +2084,94 @@ De subsidie wordt als volgt uitbetaald :<br>
 <br>
 § 4. Voor 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de aanvraag betrekking heeft, bezorgt het opvangcentrum de volgende documenten aan het agentschap :<br>
 1° een gedetailleerd financieel verslag van het voorbije kalenderjaar. De uitgavenbewijsstukken moeten bij het opvangcentrum bewaard blijven gedurende twee jaar na de subsidieaanvraag voor eventuele controle ter plaatse door de bevoegde ambtenaren;<br>
-2° een werkingsverslag over het voorbije jaar, waarin duidelijk gemaakt wordt dat het opvangcentrum blijvend voldoet aan de voorwaarden om in aanmerking te komen voor de subsidies;<br>
+2° een werkingsverslag over het voorbije jaar, waarin duidelijk gemaakt wordt dat het opvangcentrum blijvend voldoet aan de voorwaarden om in aanmerking te komen voor erkenning en subsidiëring. Dit verslag wordt opgesteld conform het sjabloon van het hoofd van het agentschap, dat op de website natuurenbos.vlaanderen.be van het agentschap staat;<br>
 3° een jaarbalans voor de opname van wilde dieren tijdens het voorbije werkjaar.<br>
+&nbsp;
+
+## HOOFDSTUK 5/1 Werking van taxidiensten voor wilde dieren
+
+## Afdeling 1 Erkenning van taxidiensten voor wilde dieren
+
+### ART 40/1.
+
+&nbsp;&nbsp; &nbsp;Taxidiensten voor wilde dieren kunnen erkend worden door het agentschap, voor een periode van maximaal drie jaar.
+
+### ART 40/2.
+
+&nbsp;&nbsp; &nbsp;Om erkend te worden als taxidienst voor wilde dieren moet de taxidienst aan de volgende voorwaarden voldoen:<br>
+&nbsp;&nbsp; &nbsp;1° de taxidienst is opgericht op particulier initiatief;<br>
+&nbsp;&nbsp; &nbsp;2° de zetel van de taxidienst is gevestigd in het Vlaamse Gewest;<br>
+&nbsp;&nbsp; &nbsp;3° de taxidienst heeft een samenwerkingsovereenkomst met één of meerdere erkende opvangcentra, waarin minstens volgende zaken vermeld worden:<br>
+&nbsp;&nbsp; &nbsp;a) de wijze waarop de taxidienst een interventie voorafgaand aan het opvangcentrum meldt;<br>
+&nbsp;&nbsp; &nbsp;b) de wijze waarop het opvangcentrum een efficiënte informatiedoorstroom inzake dierenwelzijn, wetgeving, epidemiologie, quarantainemaatregelen en bioveiligheid aan de taxidienst levert;<br>
+&nbsp;&nbsp; &nbsp;4° de taxidienst voldoet aan de werkingsvoorwaarden opgenomen in Bijlage 4, punten A, 10°, B en D, die eveneens gelden voor opvangcentra voor wilde dieren.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;&nbsp; &nbsp;Om een erkenning als taxidienst te verkrijgen, moet de aanvraag de volgende gegevens bevatten :<br>
+&nbsp;&nbsp; &nbsp;1° naam en adres van de taxidienst;<br>
+&nbsp;&nbsp; &nbsp;2° voor- en achternaam van de coördinator;<br>
+&nbsp;&nbsp; &nbsp;3° de statuten van de vereniging, bedoeld in het eerste lid, 1°;<br>
+&nbsp;&nbsp; &nbsp;4° de beslissing van het bestuursorgaan of algemene vergadering van de vereniging, bedoeld in het eerste lid, 1°, om een aanvraag tot erkenning in te dienen;<br>
+&nbsp;&nbsp; &nbsp;5° de kwalificaties en ervaring van de coördinator inzake het vangen, hanteren en vervoeren van wilde dieren;<br>
+&nbsp;&nbsp; &nbsp;6° een schriftelijke samenwerkingsovereenkomst met één of meerdere erkende opvangcentra.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;&nbsp; &nbsp;De erkenning kan verlengd worden. De aanvraag tot verlenging van de erkenning moet minstens drie maanden voor de lopende erkenning afloopt worden ingediend bij het agentschap.
+
+### ART 40/3.
+
+De coördinator zorgt ervoor dat de activiteiten van de taxidienst verlopen in overeenstemming met alle wettelijke verplichtingen, inzonderheid de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij en het dierenwelzijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De erkenning kan, nadat de beheerder voorafgaandelijk gehoord is, op elk ogenblik worden ingetrokken als blijkt dat:<br>
+1° de erkenning werd verkregen op grond van valse verklaringen of documenten;<br>
+2° de coördinator of de taxidienst de opgelegde voorwaarden niet naleeft of er niet langer aan voldoet;<br>
+3° de coördinator wordt veroordeeld wegens overtredingen van de regelgevingen inzake het natuurbehoud, de jacht, de riviervisserij of het dierenwelzijn.
+
+### ART 40/4.
+
+§ 1. Erkende taxidiensten mogen voor het vangen, hanteren, vervoeren of vrijlaten van specimens van beschermde diersoorten afwijken van de volgende bepalingen, op voorwaarde dat het gekwetste of hulpbehoevende dieren betreft waarvoor er geen andere bevredigende oplossing bestaat :<br>
+1° artikel 10, 12, 16 en 17. De afwijkingsmogelijkheid van artikel 12 heeft betrekking op het verbod om specimens van beschermde soorten onder zich te hebben of te vervoeren;<br>
+2° artikel 19, 23, 26 en 29 van het Jachtdecreet.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 2. De medewerkers moeten in het bezit zijn van een identificatiebewijs dat uitgereikt is door de taxidienst. Dat identificatiebewijs is persoonlijk en op naam.
+
+### ART 40/5.
+
+§ 1. De dieren worden rechtstreeks van de vindplaats naar een erkend opvangcentrum overgebracht waarbij voorkeur wordt gegeven aan het opvangcentrum dat het snelst bereikt kan worden, ook al is dit niet het opvangcentrum waarmee de taxidienst een samenwerkingsovereenkomst heeft. Dit sluit niet uit dat sommige dieren naar een andere opvangcentrum kunnen worden vervoerd, bijvoorbeeld wanneer dit opvangcentrum een specifieke expertise of infrastructuur bezit die het herstel van het dier beter ten goede komt.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 2. De taxidienst houdt een register bij waarin de volgende gegevens worden opgenomen :<br>
+a) de binnengebrachte dieren per opvangcentrum, met vermelding van de datum en plaats waarop ze zijn opgehaald;<br>
+b) de weer vrijgelaten dieren per opvangcentrum, met vermelding van de datum en de plaats van vrijlating.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Onverminderd de reguliere rapportageverplichting moet het register te allen tijde door het agentschap raadpleegbaar zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 3. Dieren die tijdens het transport sterven, worden alsnog overgebracht naar het opvangcentrum.&nbsp;
+
+### ART 40/6.
+
+Voor 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de aanvraag betrekking heeft, bezorgt de taxidienst de volgende documenten aan het agentschap :<br>
+1° een werkingsverslag over het voorbije jaar, waarin duidelijk gemaakt wordt dat de taxidienst blijvend voldoet aan de voorwaarden om in aanmerking te komen voor de erkenning. Dit verslag wordt opgesteld conform het sjabloon van het hoofd van het agentschap, dat op de website natuurenbos.vlaanderen.be van het agentschap staat;<br>
+2° een afschrift van het register van de wilde dieren die vervoerd werden tijdens het afgelopen kalenderjaar;<br>
+3° een afschrift van het register van uitgereikte identificatiebewijzen.
+
+## Afdeling 2 Subsidiëring van taxidiensten voor wilde dieren
+
+### ART 40/7.
+
+Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies verlenen aan de erkende taxidiensten.
+
+### ART 40/9.
+
+§ 1. De taxidienst dient een aanvraag voor subsidiëring in bij het agentschap, voor 31 augustus van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 2. De aanvraag bevat :<br>
+1° het bewijs van erkenning;<br>
+2° een kaart die duidelijk het werkingsgebied van de taxidienst weergeeft;<br>
+3° een rekeningnummer van de taxidienst waarop de subsidie gestort mag worden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 3. Het agentschap brengt de taxidienst binnen negentig dagen op de hoogte van de beslissing van de minister over de toekenning van de subsidie en het bedrag van de toegekende subsidie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De subsidie wordt als volgt uitbetaald :<br>
+1° 90 % bij de ondertekening van de beslissing die de subsidie toekent;<br>
+2° 10 % na de voorlegging van de stukken, vermeld in Art. 40/6.<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Het houden van beschermde soorten in gevangenschap
@@ -2034,12 +2191,19 @@ De minister kan nadere regels vaststellen voor de wijze waarop kan worden aanget
 <br>
 Die vrijstelling, als vermeld in het eerste lid, geldt niet voor het verbod inzake het vervoer of de verhandeling van de eieren van die vogelsoorten.<br>
 <br>
-§ 2. Met behoud van de afwijkingsregeling, vermeld in § 1, kunnen houders van specimens van de vink, Fringilla coelebs, voor die specimens die geringd zijn met een open pootring die werd aangebracht conform de geldende regelgeving op het moment van het aanbrengen, tot en met 31 december 2015 de verboden handelingen stellen, vermeld in artikel 12.<br>
+§ 2. ....<br>
 &nbsp;
 
 ### ART. 42.
 
-De gesloten pootring vermeld in artikel 41, § 1, 1° moet voldoen aan de volgende voorwaarden : <br />1° de ring moet niet-vervormbaar en slijtvast zijn; <br />2° de ring moet naadloos zijn, dat wil zeggen een ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid; <br />3° de ring moet voorzien zijn van een uniek merkteken; <br />4° het formaat van de ring moet zodanig zijn dat hij, nadat hij in de eerste levensdagen van de vogel is aangebracht, niet meer kan worden verwijderd van de poot zonder beschadiging of verandering wanneer de poot van de vogel zijn definitieve omvang heeft bereikt. Bij het bevestigen van de ring mag de poot niet worden verwond.<br /><br />Zowel de gesloten pootring, vermeld in artikel 41, § 1, 1°, als de open pootring, vermeld in artikel 41, § 2, moet voldoen aan door de minister vastgestelde voorwaarden, gericht op de kenmerken en kwaliteit van de ring, om fraude te vermijden.<br /><br />
+De gesloten pootring vermeld in artikel 41, § 1, 1° moet voldoen aan de volgende voorwaarden :<br>
+1° de ring moet niet-vervormbaar en slijtvast zijn;<br>
+2° de ring moet naadloos zijn, dat wil zeggen een ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid;<br>
+3° de ring moet voorzien zijn van een uniek merkteken;<br>
+4° het formaat van de ring moet zodanig zijn dat hij, nadat hij in de eerste levensdagen van de vogel is aangebracht, niet meer kan worden verwijderd van de poot zonder beschadiging of verandering wanneer de poot van de vogel zijn definitieve omvang heeft bereikt. Bij het bevestigen van de ring mag de poot niet worden verwond.<br>
+<br>
+De gesloten pootring, vermeld in artikel 41, §1, 1°, moet voldoen aan de voorwaarden die de minister vastgesteld heeft en die gericht zijn op de kenmerken en de kwaliteit van de ring, om fraude te vermijden.<br>
+&nbsp;
 
 ### ART. 43.
 
@@ -2083,7 +2247,7 @@ b) als specimens werden aangekocht of op een andere wijze werden verworven : de 
 c) als specimens werden verkocht of op een andere wijze werden afgestaan : de datum van afstand en aan wie die specimens zijn afgestaan;<br>
 2° ze sluiten die overzichtslijst jaarlijks af op 31 december van het kalenderjaar waarop de lijst betrekking heeft, en vervolgens delen ze mee dat ze voor dat jaar een dergelijke lijst afgesloten hebben aan :<br>
 a) de erkende vogelhoudersvereniging waarvan ze lid zijn, uiterlijk op 28 februari.<br>
-b) het provinciale hoofd van het agentschap voor Natuur en Bos, uiterlijk op 30 april, als ze geen lid zijn van een erkende vogelhoudersvereniging.<br>
+b) het agentschap, uiterlijk op 30 april, als ze geen lid zijn van een erkende vogelhoudersvereniging.<br>
 3° ze houden die overzichtslijsten tot vijf jaar na het afsluiten ervan in hun bezit, met het oog op controle door de personen die belast zijn met het toezicht op dit besluit.<br>
 <br>
 De minister stelt een model vast van de overzichtslijst vermeld in het eerste lid.
@@ -2112,7 +2276,10 @@ De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden
 
 ### ART. 51.
 
-Zangwedstrijden, tentoonstellingen of andere openbare activiteiten met specimens van soorten, als vermeld in artikel 41 of 49, moeten minstens één week op voorhand worden gemeld aan het provinciale hoofd van het agentschap van de provincie waar de zangwedstrijd, tentoonstelling of activiteit plaatsvindt. <br /><br />De organisatoren van die evenementen zijn verplicht de controle te aanvaarden van de personen die belast zijn met het toezicht op dit besluit en zijn verplicht alle maatregelen te nemen om het toezicht te vergemakkelijken. Het toezicht gebeurt op een wijze die het evenement zo min mogelijk verstoort.<br /><br />
+Zangwedstrijden, tentoonstellingen of andere openbare activiteiten met specimens van soorten, als vermeld in artikel 41 of 49, moeten minstens één week op voorhand worden gemeld aan het agentschap.<br>
+<br>
+De organisatoren van die evenementen zijn verplicht de controle te aanvaarden van de personen die belast zijn met het toezicht op dit besluit en zijn verplicht alle maatregelen te nemen om het toezicht te vergemakkelijken. Het toezicht gebeurt op een wijze die het evenement zo min mogelijk verstoort.<br>
+&nbsp;
 
 ## HOOFDSTUK 8 Wijzigingsbepalingen
 
@@ -2365,6 +2532,15 @@ Categorie 5: soorten die in aanmerking komen voor vervoer als vermeld in artikel
 			<td>&nbsp;X</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Canis aureus</td>
+			<td>goudjakhals</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>X</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -4528,6 +4704,15 @@ Categorie 5: soorten die in aanmerking komen voor vervoer als vermeld in artikel
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>Corvus corax</td>
+			<td>raaf</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>Ardeola ralloides</td>
 			<td>ralreiger</td>
 			<td>&nbsp;</td>
@@ -5785,6 +5970,15 @@ Categorie 5: soorten die in aanmerking komen voor vervoer als vermeld in artikel
 			<td>&nbsp;X</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anguilla anguilla</td>
+			<td>Europese aal</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>X</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -7109,7 +7303,7 @@ Categorie 5: soorten die in aanmerking komen voor vervoer als vermeld in artikel
 ### BIJLAGE 2
 
 A. Middelen, installaties en methoden waarvan het gebruik verboden is conform artikel 16, § 1, met uitzondering van de middelen die toegestaan zijn conform bijlage 3 en bijlage 3/1:<br>
-1° strikken en stroppen;<br>
+1° ...;<br>
 2° lijm;<br>
 3° haken;<br>
 4° levende dieren die als lokdier worden gebruikt. Een lokdier is een specimen van een dier dat kan dienen als een middel om te lokken, hetzij van dezelfde soort als het specimen, hetzij van een andere soort;<br>
@@ -7121,9 +7315,9 @@ A. Middelen, installaties en methoden waarvan het gebruik verboden is conform ar
 10° zoekers met een elektronische beeldversterker en beeldomkeerder om te schieten in het donker;<br>
 11° explosieven;<br>
 12° netten die qua werking of gebruik niet voldoende selectief zijn;<br>
-13° vallen die qua werking of gebruik niet voldoende selectief zijn;<br>
+13° vallen, vangkooien en veerklemmen, die qua werking of gebruik niet voldoende selectief zijn;<br>
 14° kruisbogen en katapulten;<br>
-15° vergif en giftig of verdovend lokaas;<br>
+15° vergif en giftig of verdovend lokaas waarvan het bezit toegestaan is, dat op een niet-selectieve wijze wordt gebruikt;;<br>
 16° uitgassen, uitroken of onder water zetten;<br>
 17° andere vuurwapens en munitie dan de vuurwapens en munitie, vermeld in artikel 9 en 10 van het besluit van het Jachtvoorwaardenbesluit.<br>
 <br>
@@ -7133,9 +7327,16 @@ B. Vervoermiddelen waarvan het gebruik verboden is conform artikel 16, § 2 :<br
 3° vaartuigen die met een snelheid van meer dan vijf kilometer per uur worden aangedreven.<br>
 <br>
 C. Middelen waarvan het onder zich hebben verboden is conform artikel 16, § 3 :<br>
-1° vogelvangstnetten : netten die opgespannen een oppervlakte hebben van meer dan 1 m2, een maaswijdte hebben tussen 11 en 29 mm, gemeten over het garen van knoop tot knoop, vervaardigd zijn uit synthetische, kunstmatige of natuurlijke vezels en waarvan het garen is samengesteld uit 2 tot 8 getorste of geweven draden;<br>
+1° vogelvangstnetten of hun bijbehorende slagveerstokken: netten die in een bepaald kader opgespannen kunnen worden en een maaswijdte hebben tussen 11 en 29 mm, gemeten over het garen van knoop tot knoop, en die vervaardigd zijn uit synthetische, kunstmatige of natuurlijke vezels, waarvan het garen is samengesteld uit twee tot acht getorste of geweven draden;<br>
 2° mistnetten : netten in banen, aan het stuk of in bepaalde vorm vervaardigd, van garens in synthetische of van kunstmatige vezels met een totale dikte van minder dan 150 deniers (16,2 mg per meter) en waarvan de maaswijdte gemeten over het garen, van knoop tot knoop, kleiner is dan 35 mm;<br>
-3° vogelvangkooien en -klemmen : allerlei types van kooien, klemmen en vallen, van welk formaat ook, die geschikt zijn voor de vangst van vogels, met uitzondering van de vallen die worden toegelaten conform bijlage 3&nbsp;en bijlage 3/1.<br>
+3° vogelvangkooien en -klemmen : allerlei types van kooien, klemmen en vallen, van welk formaat ook, die geschikt zijn voor de vangst van vogels, met uitzondering van de vallen die worden toegelaten conform bijlage 3&nbsp;en bijlage 3/1;<br>
+4° strikken en stroppen: allerlei types van strikken of stroppen met de bedoeling om dieren te vangen, vast te houden of te doden;<br>
+5° veerklemmen: klemmen die werken met een veersysteem en die voorzien zijn van bewegende slagmechanismen, met uitzondering van:<br>
+a) &nbsp;&nbsp; &nbsp;de Conibear-, grond- en lokaasklemmen voor het bezit en gebruik door professionele muskusrattenbestrijders, volgens de voorwaarden die opgenomen zijn in een goedgekeurde beheerregeling;&nbsp;<br>
+b) &nbsp;&nbsp; &nbsp;de selectieve muizen- en rattenklemmen die voorzien zijn van één bewegend slagmechanisme, waarvan de grondvlakafmetingen maximaal 20 x 10 cm bedragen;<br>
+c) &nbsp;&nbsp; &nbsp;de selectieve mollenklemmen;<br>
+6° verboden gifstoffen en verboden giftig of verdovend lokaas: allerlei toxische stoffen of preparaten die daarmee vervaardigd zijn, waarvan de erkenning en het toegelaten bezit al verlopen zijn en waarvan het gebruik in aard en staat kan dienen om dieren te doden, alsook de gifstoffen en giftig of verdovend lokaas die niet opgeslagen zijn in de oorspronkelijke verpakking.<br>
+<br>
 &nbsp;
 
 ## Bijlage 3 [Afwijkingen van de verbodsbepalingen vermeld in artikel 10, 12 of 16 (verv. BVR 25 januari 2019, art. 31, I: 25 januari 2019)]
@@ -7181,13 +7382,16 @@ Voor de bestrijding van spreeuw is alleen het gebruik van de middelen, vermeld i
 <br>
 Voor de bestrijding van brandgans is alleen het gebruik van het middel, vermeld in het eerste lid, 5°, toegestaan.<br>
 <br>
-Het gebruik van vuurwapens, vermeld in het eerste lid, 1°, is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving.<br>
+Het gebruik van vuurwapens, vermeld in het eerste lid, 1°, is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving. Het is verboden vuurwapens als vermeld in het eerste lid, 1°, te dragen in elk van de volgende situaties:<br>
+1° &nbsp;&nbsp; &nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+3° &nbsp;&nbsp; &nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.<br>
 <br>
-Voor de in het eerste lid, 2°, 3° en 4°, vermelde vallen en kooien gelden de volgend gebruiksvoorwaarden:<br>
+Voor de in het eerste lid, 3° en 4°, vermelde vallen en kooien gelden de volgend gebruiksvoorwaarden:<br>
 1° de vallen of kooien bevatten geen vlees of slachtafval als lokaas;<br>
 2° voor elke trechterval en elke Larsen-kooi die toegelaten wordt conform de procedure in deel 3.5, mag de aanvrager maximaal twee levende lokdieren in zijn bezit hebben, gebruiken en vervoeren van de soort die hij volgens de aanvraag beoogt te bestrijden. De levende lokdieren hoeven niet te voldoen aan de bepalingen van artikel 41, § 1, van dit besluit. De lokdieren moeten voedsel, water en beschutting ter beschikking hebben;<br>
-3° de vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld;<br>
-4° de vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Daarnaast wordt ook de volgende tekst op het plaatje vermeld: "Deze val is geplaatst conform de uitvoeringsmodaliteiten van het Soortenbesluit van 15 mei 2009, bijlage 3";<br>
+3° de vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld. Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht uitgevoerd worden;<br>
+4° de vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Daarnaast wordt ook de volgende tekst op het plaatje vermeld: "Deze val is geplaatst conform de uitvoeringsmodaliteiten van het Soortenbesluit van 15 mei 2009, bijlage 3". Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap;<br>
 <br>
 3.4 Personen die de bestrijding kunnen uitvoeren<br>
 <br>
@@ -7199,7 +7403,7 @@ Een organisator of uitvoerder van bestrijding besteedt bij de uitoefening van de
 <br>
 3.5 Aanvraagprocedure<br>
 <br>
-De bestrijding wordt aan het agentschap bezorgd met een papieren of elektronisch aanvraagformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+De bestrijding wordt aan het agentschap bezorgd met een papieren of elektronisch aanvraagformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het aanvraagformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
 1° met een aangetekende brief;<br>
@@ -7213,7 +7417,7 @@ De aanvraag moet voldoen aan de volgende voorwaarden:<br>
 2° als de aanvrager niet de eigenaar of de grondgebruiker of één van de grondgebruikers is van het terrein waar hij wil bestrijden, bevestigt de aanvrager dat hij in het bezit is van een schriftelijke toestemming van de eigenaar;<br>
 3° de bestrijding neemt pas een aanvang na ontvangst van de gemotiveerde gunstige beslissing van het agentschap;<br>
 4° de duur van de aangevraagde bestrijding loopt maximaal tot het einde van het kalenderjaar waarop de aanvraag betrekking heeft;<br>
-5° bij de aanvraag is een kaart gevoegd waarop de locatie waar de bestrijding zal plaatsvinden, precies wordt weergegeven. De kaart heeft een schaal van 1:10.000 of 1:25.000. Een kaart dient niet toegevoegd te worden wanneer de bestrijding plaatsvindt op een jachtterrein zoals gedefinieerd in artikel 1 van het Jachtadministratiebesluit van 25 april 2014. In dat geval worden in de aanvraag de nummers van de betrokken jachtterreinen uit het goedgekeurde jachtplan opgenomen en in voorkomend geval, het aantal gebruikte vallen of kooien. De bestrijding vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd met het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of huiszoekingsbevel nodig is;<br>
+5° bij de aanvraag is een kaart gevoegd waarop de locatie waar de bestrijding zal plaatsvinden, precies wordt weergegeven. De kaart heeft een schaal van 1:10.000 of 1:25.000. Een kaart dient niet toegevoegd te worden wanneer de bestrijding plaatsvindt op een jachtterrein zoals gedefinieerd in artikel 1 van het Jachtadministratiebesluit van 25 april 2014. In dat geval worden in de aanvraag de nummers van de betrokken jachtterreinen uit het goedgekeurde jachtplan opgenomen en in voorkomend geval, het aantal gebruikte vallen of kooien. De bestrijding vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd met het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of huiszoekingsbevel nodig is, en die bovendien op redelijke wijze toegankelijk zijn;<br>
 6° de aanvraag bevat een omschrijving van het type schade als vermeld in onderdeel 3.1, alsook de vermoedelijke omvang van de schade die de aanvrager wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
 7° de aanvraag bevat desgevallend het aantal trechtervallen, Larsen-kooien of inloopkooien dat men voor de bestrijding zal inzetten;<br>
 8° voor onafhankelijke jachtrechthouders en erkende wildbeheereenheden kan de aanvraag gedaan worden via het faunabeheerplan.<br>
@@ -7226,7 +7430,7 @@ Het agentschap is gemachtigd toezicht uit te oefenen op de aangevraagde bestrijd
 <br>
 Uiterlijk voor 1 april van elk jaar wordt aan het agentschap gerapporteerd over de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van deze bijlage zijn gedood. Die rapportage heeft betrekking op de aantallen van de dieren die gedood zijn.<br>
 <br>
-De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
 1° met een aangetekende brief;<br>
@@ -7259,7 +7463,7 @@ Als specimens van in het wild voorkomende uitheemse soorten worden gedood of gev
 <br>
 3/1.2 De uitvoering van de bestrijding in de tijd<br>
 <br>
-De bestrijdingsactiviteiten die op grond van deze bijlage uitgevoerd worden zijn gedurende het hele jaar toegestaan, zowel overdag als `s nachts, rekening houdend met een minimale verstoring van inheemse flora en fauna. Het gebruik van vuurwapens, luchtdrukwapens en gasdrukwapens is enkel toegestaan tussen één uur voor de officiële zonsopgang en één uur na de officiële zonsondergang.<br>
+De bestrijdingsactiviteiten die op grond van deze bijlage uitgevoerd worden zijn gedurende het hele jaar toegestaan, zowel overdag als `s nachts, rekening houdend met een minimale verstoring van inheemse flora en fauna. Het gebruik van vuurwapens, luchtdrukwapens en gasdrukwapens is enkel toegestaan tussen één uur voor de officiële zonsopgang en één uur na de officiële zonsondergang.&nbsp;Voor de bestrijding van uitheemse watervogels is in de periode van 15 augustus tot en met 30 september het gebruik van vuurwapens, luchtdrukwapens en gasdrukwapens alleen toegestaan tussen officiële zonsopgang en officiële zonsondergang.<br>
 <br>
 3/1.3 Beperkingen ten aanzien van de middelen waarmee de bestrijding kan worden uitgevoerd<br>
 <br>
@@ -7271,21 +7475,25 @@ c) apparaten om vangstplaatsen te verlichten;<br>
 d) kunstmatige lichtbronnen.<br>
 2° op het vlak van het gebruik van wapens en munitie zijn toegelaten:<br>
 a) de vuurwapens en de munitie vermeld in artikel 9 en 10 van het Jachtvoorwaardenbesluit van 25 april 2014;<br>
-b) de luchtdruk- en gasdrukwapens waarbij gebruik gemaakt wordt van kogelpatronen voor getrokken loop met een diameter van minimaal 4,5 mm en een minimale trefenergie van 17 J op 35 m van de loopmond.<br>
-Het gebruik van vuur-, luchtdruk- en gaswapens is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof. Het gebruik van vuurwapens is alleen toegestaan voor de bestrijding van uitheemse zoogdieren, vogels, amfibieën en reptielen;<br>
+b) de luchtdruk- en gasdrukwapens waarbij gebruikgemaakt wordt van munitie met een diameter van minimaal 4,5 millimeter, en waarbij een minimale trefenergie van 17 J op 35 meter van de loopmond wordt bereikt. Voor soorten waarbij het gemiddelde gewicht van een volwassen dier hoger dan twee kilogram is, wordt gebruikgemaakt van munitie met een diameter van minimaal 6,35 millimeter, waarbij een minimale trefenergie van 40 J op 35 meter van de loopmond wordt bereikt. De lijst van deze soorten wordt bekend gemaakt op de website natuurenbos.vlaanderen.be van het agentschap;<br>
 3° akoestische lokmiddelen zijn alleen toegestaan indien ze gericht zijn op de uitheemse soort die wordt bestreden;<br>
 4° alleen roofvogels die in bezit worden gehouden conform de bepalingen van het besluit zijn toegestaan;<br>
 5° het gebruik van netten, levende-vangkooien of vallen is alleen toegestaan onder de volgende voorwaarden:<br>
-a) de netten, vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld;<br>
+a) de netten, vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld. Als de kooi vangklaar opgesteld staat, wordt die dagelijkse controle uiterlijk een uur na officiële zonsondergang uitgevoerd. Die dagelijkse controle kan ook via elektronisch toezicht uitgevoerd worden;<br>
 b) de gevangen specimens van uitheemse soorten worden onmiddellijk gedood of afgevoerd;<br>
-c) de netten, vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan;<br>
-6° het gebruik van vangmiddelen die binnen 24 uur na het opstellen tot de dood van het gevangen specimen leiden, is alleen toegestaan indien ze qua werking of gebruik voldoende selectief zijn.<br>
+c) de netten, vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Het te vermelden telefoonnummer wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap;<br>
+6° het gebruik van vangmiddelen die binnen 24 uur na het vangen tot de dood van het gevangen specimen leiden, is alleen toegestaan indien ze qua werking of gebruik voldoende selectief zijn;<br>
+7° de bestrijding met vangtuigen vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd voor het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of een huiszoekingsbevel nodig is, en die bovendien op redelijke wijze toegankelijk zijn;<br>
+8° het gebruik van vuur-, luchtdruk- en gasdrukwapens is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving. Het gebruik van vuurwapens is alleen toegestaan voor de bestrijding van uitheemse zoogdieren, vogels, amfibieën en reptielen. Het is verboden vuur-, luchtdruk- en gasdrukwapens te dragen in elk van de volgende situaties:<br>
+a) &nbsp;&nbsp; &nbsp;de ademanalyse meet een alcoholconcentratie van ten minste 0,22 milligram per liter uitgeademde alveolaire lucht;&nbsp;<br>
+b) &nbsp;&nbsp; &nbsp;de bloedanalyse geeft een alcoholconcentratie van ten minste 0,5 gram per liter bloed aan;<br>
+c) &nbsp;&nbsp; &nbsp;de persoon is in staat van dronkenschap of in een soortgelijke staat, met name ten gevolge van het gebruik van drugs of van geneesmiddelen.<br>
 <br>
 3/1.4 Afwijkingen<br>
 <br>
 Specifieke afwijkingen van de tijdsbeperking, vermeld in 3/1.2, en de beperkingen ten aanzien van de middelen, vermeld in 3/1.3, kunnen worden toegestaan als geen andere bevredigende oplossing bestaat.<br>
 <br>
-De aanvragen van de specifieke afwijkingen worden naar het agentschap gestuurd met een aangetekend papieren formulier of met een elektronisch formulier. Het model van de formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+De aanvragen van de specifieke afwijkingen worden naar het agentschap gestuurd met een aangetekend papieren formulier of met een elektronisch formulier. Het model van de formulieren wordt ter beschikking gesteld op de website natuurenbos.vlaanderen.be van het agentschap.<br>
 <br>
 Het agentschap moet een gemotiveerde beslissing nemen over aanvragen van afwijking binnen de volgende termijn vanaf de ontvangstdatum van het aangetekend papieren formulier of het elektronische formulier:<br>
 1° binnen een termijn van vijf werkdagen, op voorwaarde dat er sprake is van gemotiveerde hoogdringendheid. Deze termijn kan bij gemotiveerde beslissing eenmaal met vijf werkdagen worden verlengd;<br>
@@ -7315,6 +7523,8 @@ Een organisator of uitvoerder van bestrijding besteedt bij de uitvoering van de 
 <br>
 De dieren die het voorwerp zijn van bestrijding, worden op een diervriendelijke manier gedood. Gedode specimens die niet voor consumptie worden genuttigd, dienen op een milieuhygiënisch verantwoorde manier te worden verwerkt.<br>
 <br>
+Als de schriftelijke toestemming tot bestrijding van de eigenaar, de verhuurder, de exploitant of de grondgebruiker of grondgebruikers van het terrein waar de bestrijding plaatsvindt, wel het vangen, maar niet het doden van dieren omvat, kunnen de dieren worden gehouden in voorzieningen voor de opvang van dieren volgens de bepalingen van artikel 31/5, §3.<br>
+<br>
 3/1.7 Verzekering voor burgerlijke aansprakelijkheid<br>
 <br>
 De personen die in het kader van deze bijlage overgaan tot bestrijding met vuurwapens, luchtdrukwapens of gasdrukwapens moeten een verzekering voor burgerlijke aansprakelijkheid hebben afgesloten. De waarborg van die verzekering moet ten minste de bedragen dekken die vermeld zijn in artikel 19 van het Jachtadministratiebesluit van 25 april 2014.
@@ -7325,20 +7535,22 @@ De personen die in het kader van deze bijlage overgaan tot bestrijding met vuurw
 
 De werkingsvoorwaarden, vermeld in artikel 33 en 35, waaraan een erkend opvangcentrum voor vogels en wilde dieren moet voldoen, zijn :<br>
 A. Voorwaarden voor de dagelijkse functionering van het opvangcentrum :<br>
-1° het opvangcentrum bouwt een netwerk uit van betrouwbare medewerkers dat fungeert als ophaaldienst van hulpbehoevende dieren;<br>
-2° het opvangcentrum beschikt over een telefoon en eventueel een antwoordapparaat of mobiele telefoon waarnaar de oproepen kunnen worden doorgeschakeld om een continue permanentie te garanderen;<br>
-3° het opvangcentrum laat zich op aantoonbare wijze bijstaan door minstens één competente dierenarts;<br>
+1° het opvangcentrum bouwt een netwerk uit van betrouwbare medewerkers dat fungeert als ophaaldienst van hulpbehoevende dieren, of gaat een samenwerking met een taxidienst voor wilde dieren aan;<br>
+2° het opvangcentrum beschikt over een telefoon met antwoordapparaat of mobiele telefoon met actieve voicemail waarnaar de oproepen kunnen worden doorgeschakeld om een continue permanentie te garanderen;<br>
+3° het opvangcentrum laat zich op aantoonbare wijze bijstaan door minstens één dierenarts;<br>
 4° het opvangcentrum laat geen publiek toe in de verzorgings- en revalidatieruimten, behalve als de accommodatie geschikt is om publiek toe te laten zonder dat de revaliderende dieren worden gestoord en als het bezoek plaatsvindt onder deskundige begeleiding;<br>
 5° het opvangcentrum zorgt voor een goede, hygiënische huisvesting, voldoende ruimte en bewegingsvrijheid voor de te revalideren dieren, in overeenstemming met hun fysiologische en ethologische behoeften;<br>
 6° het opvangcentrum streeft ernaar bekendheid te verwerven bij de lokale overheden, de plaatselijke ambtenaren van het agentschap, de politie, de natuur- en dierenbeschermingsorganisaties, dierenartsen, pers en publiek;<br>
 7° het opvangcentrum onderhoudt omwille van zijn educatieve en sensibiliserende taak, contacten met de personen die een hulpbehoevend dier melden of zelf binnenbrengen. Er moet naar worden gestreefd dat die personen een bedankje ontvangen en op de hoogte gebracht worden van het resultaat na de behandeling van het binnengebrachte dier. Voor bijzondere soorten kan het opvangcentrum ernaar streven die personen uit te nodigen als het dier wordt vrijgelaten;<br>
-8° het opvangcentrum ondersteunt de overheid, inzonderheid bij de opvang van hulpbehoevende wilde dieren in het kader van de uitvoering en de handhaving van het besluit.<br>
+8° het opvangcentrum ondersteunt de overheid, inzonderheid bij de opvang van hulpbehoevende wilde dieren in het kader van de uitvoering en de handhaving van het besluit;<br>
+9° het opvangcentrum ondersteunt de overheid bij de staalname bij de opvang van hulpbehoevende wilde dieren in het kader van het wildedierenziektebeleid van het agentschap, en bij de te nemen preventieve maatregelen bij de opvang van hulpbehoevende wilde dieren in het kader van het wildedierenziektebeleid van het agentschap;<br>
+10° het opvangcentrum of in voorkomend geval de taxidienst voldoet aan de noodzakelijke kwaliteitsstandaarden die het hoofd van het agentschap beschreven heeft. De kwaliteitsstandaarden staan op de website natuurenbos.vlaanderen.be van het agentschap. Ingeval het hoofd van het agentschap noodzakelijke kwaliteitsstandaarden toevoegt of wijzigt, dient het opvangcentrum hieraan te voldoen binnen de termijn die door het hoofd van het agentschap wordt vastgelegd. Het voldoen aan de kwaliteitsstandaarden wordt gedocumenteerd in het werkingsverslag, zoals vermeld in artikel 40, §4, 2°.<br>
 B. Voorwaarden in verband met het vangen van dieren zoals bedoeld in artikel 35 van het besluit :<br>
 1° het vangen kan alleen plaatsvinden :<br>
 a) om gekwetste of hulpbehoevende wilde dieren te helpen;<br>
 b) om in gevangenschap gehouden dieren te kunnen controleren en identificeren, ter ondersteuning en op verzoek van personen die belast zijn met het toezicht op dit besluit;<br>
 2° de dieren mogen alleen gevangen worden met behulp van netten of vangkooien. Indien de situatie het vereist mogen er verdovingswapens worden gebruikt, met inachtneming van daarvoor geldende regelgeving;<br>
-3° de dieren die worden gevangen, dienen te worden vervoerd naar een geschikte plaats om hen vrij te laten, of, indien nodig, naar een erkend opvangcentrum voor verdere verzorging of, als het invasieve uitheemse soorten, vermeld in artikel 3, § 1, eerste lid, 4°, betreft, naar een voorziening met het oog op het euthanaseren ervan.<br>
+3° de dieren die worden gevangen, moeten worden vervoerd naar een geschikte plaats om hen vrij te laten of, als dat nodig is, naar een erkend opvangcentrum voor verdere verzorging. &nbsp;Er moet steeds een voorafgaande toestemming zijn van de eigenaar en, in voorkomend geval, de gebruiker, op wiens terrein de dieren worden vrijgelaten. Dieren die behoren tot een invasieve uitheemse soort, als vermeld in artikel 3, §1, eerste lid, 4°, moeten onverwijld worden vervoerd naar een voorziening met het oog op het euthanaseren ervan, tenzij aan het opvangcentrum een afwijking is verleend als vermeld in artikel 31/5, §3.<br>
 C. Voorwaarden voor het omgaan met wilde dieren die voor verzorging in het opvangcentrum terechtkomen :<br>
 1° het opvangcentrum is verplicht alle hulpbehoevende dieren te aanvaarden die behoren tot soorten die van nature in het wild voorkomen op het Europese grondgebied van de lidstaten van de Europese Unie.<br>
 2° de opgevangen dieren mogen niet worden verhandeld. Ze mogen alleen aan het publiek worden getoond in het kader van de informatieve en educatieve werking van het opvangcentrum, als hun toestand dat toelaat;<br>
@@ -7357,7 +7569,7 @@ D. Voorwaarden voor het terug vrijlaten of het plaatsen van dieren die voor verz
 3° er moet steeds een voorafgaande toestemming zijn van de eigenaar en, in voorkomend geval, de gebruiker, op wiens terrein de dieren worden vrijgelaten;<br>
 4° dieren moeten in beginsel worden vrijgelaten in rustige omstandigheden, zonder publiek. In afwijking hiervan mogen, in het kader van openbare activiteiten georganiseerd door of in samenwerking met het opvangcentrum, en die gericht zijn op educatieve doeleinden, maximaal 20 dieren per activiteit worden vrijgelaten;<br>
 5° vogels die weer worden vrijgelaten, worden op het moment van de vrijlating geringd door een erkende wetenschappelijke ringer die verbonden is aan het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Belgisch Ringwerk, Vautierstraat 29, 1000 Brussel. Andere dieren dan vogels worden eventueel, in voorkomend geval, gemerkt. Wat betreft het merken van zoogdieren die behoren tot het jachtwild zoals bedoeld in artikel 3, § 2, 3° van het besluit wordt contact opgenomen met het instituut;<br>
-6° dieren die behoren tot een uitheemse soort of tot een gedomesticeerde soort, of inheemse dieren afkomstig van een inbeslagname die hun plaats in de natuur niet meer kunnen innemen, mogen niet in het wild worden vrijgelaten. Deze dieren moeten worden geplaatst op een daartoe geschikte locatie; Dieren die behoren tot een invasieve uitheemse soort als vermeld in artikel 3, § 1, eerste lid, 4°, moeten worden overgebracht naar een voorziening met het oog op het euthanaseren ervan;<br>
+6° dieren die behoren tot een uitheemse soort of tot een gedomesticeerde soort, of inheemse dieren die afkomstig zijn van een inbeslagname en die hun plaats in de natuur niet meer kunnen innemen, mogen niet in het wild worden vrijgelaten. Die dieren moeten worden geplaatst op een locatie die daarvoor geschikt is. Dieren die behoren tot een invasieve uitheemse soort, als vermeld in artikel 3, §1, eerste lid, 4°, moeten worden vervoerd naar een voorziening met het oog op het euthanaseren ervan, tenzij aan het opvangcentrum &nbsp;een afwijking is verleend als vermeld in artikel 31/5, §3;<br>
 7° Uit gevangenschap ontsnapte specimens, die in overeenstemming met de bepalingen van dit besluit onder zich gehouden werden, en die als zodanig te identificeren zijn, moeten, wanneer ze in een opvangcentrum worden binnengebracht, zo snel mogelijk aan de eigenaar worden terugbezorgd.<br>
 &nbsp;
 
