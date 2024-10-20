@@ -6,7 +6,15 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° Agentschap : h
 
 ### ART. 2.
 
-§ 1. De reglementaire uitrusting van de aangestelde kan, afhankelijk van de bevoegdheden, vermeld in artikel 1, 2°, bestaan uit de volgende individuele wapens :<br />1° een halfautomatisch pistool, kaliber 9 mm Parabellum (9 mm Luger, 9 X 19 mm);<br />2° een geweer met gladde lopen, van ten minste het kaliber 20 en ten hoogste het kaliber 12;<br />3° een spuitbus met antiagressiegas;<br />4° een telescopische wapenstok.<br /><br />De reglementaire uitrusting bedoeld in het eerste lid, kan, naargelang van de behoeften van de dienst, worden uitgebreid met de volgende collectieve bewapening: een geweer met getrokken loop, met een kaliber van ten minste 5,6 mm, waarvan de normale trefenergie minstens 980 J op 100 meter afstand van de loopmond bedraagt.<br /><br />§ 2. De gemachtigde ambtenaren staan, elk in hun ambtsgebied, in voor de bestelling en distributie van de voorgeschreven munitie.
+§ 1. De reglementaire uitrusting van de aangestelde kan, afhankelijk van de bevoegdheden, vermeld in artikel 1, 2°, bestaan uit de volgende individuele wapens :<br>
+1° een halfautomatisch pistool, kaliber 9 mm Parabellum (9 mm Luger, 9 X 19 mm);<br>
+2° een geweer met gladde lopen, van ten minste het kaliber 20 en ten hoogste het kaliber 12;<br>
+3° een spuitbus met antiagressiegas;<br>
+4° een telescopische wapenstok.<br>
+<br>
+De reglementaire uitrusting bedoeld in het eerste lid, kan, naargelang van de behoeften van de dienst, worden uitgebreid met de volgende collectieve bewapening: een geweer met getrokken loop met een nominaal kaliber van ten minste .22 Engelse duim en groter en bijpassende munitie, waarvan de normale trefenergie minstens 980 J op 100 meter afstand van de loopmond bedraagt, eventueel voorzien van een geluiddemper of van een vizier met beeldomzetter of een elektronische beeldversterker, kunstmatige lichtbronnen of voorzieningen om het dier te verlichten of elk ander instrument om ‘s nachts te schieten.<br>
+<br>
+§ 2. De gemachtigde ambtenaren staan, elk in hun ambtsgebied, in voor de bestelling en distributie van de voorgeschreven munitie.
 
 ### ART. 3.
 
