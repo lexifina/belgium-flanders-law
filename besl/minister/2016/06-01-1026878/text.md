@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder:<BR>1° besluit van 5 februari 2016:   het b
 <br>
 De typeabonnees, vermeld in het eerste lid, 4°, worden in overleg met de sector door de WaterRegulator vastgelegd.<br>
 <br>
-De exploitant houdt de rapporteringssjabloon tijdens de consulatie ter inzage van zijn abonnees en bezorgt de sjabloon op eenvoudig schriftelijk verzoek aan de abonnee. De sjabloon wordt ter beschikking gesteld onder de vorm van elektronische rekenbladen. De exploitant motiveert bij de sjabloon welke informatie niet publiek wordt gemaakt.<br>
+De exploitant houdt de rapporteringssjabloon tijdens de consulatie ter inzage van zijn abonnees en bezorgt de sjabloon op eenvoudig schriftelijk verzoek aan de abonnee. De sjabloon wordt ter beschikking gesteld in de vorm van elektronische rekenbladen met een omschrijving van de inhoud. De exploitant motiveert bij de sjabloon welke informatie conform titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 niet publiek wordt gemaakt en op welke wijze de abonnee daartegen beroep kan aantekenen.<br>
 <br>
 § 3. Het consultatiedocument wordt gepubliceerd op de website van de exploitant, met minstens een melding van de consultatie en een koppeling naar het consultatiedocument op de homepagina. De consultatie wordt daarnaast duidelijk aangekondigd via een of meer papieren dragers die alle abonnees van de exploitant kunnen bereiken. De exploitant kan de consultatie of het consultatiedocument in het bijzonder specifiek onder de aandacht brengen van zijn abonnees, via post, e-mail, informatiemomenten of andere kanalen.<br>
 <br>
@@ -44,13 +44,62 @@ De exploitant publiceert het consultatieverslag, vermeld in het eerste lid, op z
 
 ### ART. 3.
 
-§ 1. Voor de verantwoording van T, voor de uittekening van het tariefpad, voor de bepaling van Td en voor de omzetting naar de maximumtarieven wordt gebruik gemaakt van de rapporteringssjabloon, opgenomen in de bijlage 1 die bij dit besluit is gevoegd. De rapporteringssjabloon kan alleen gewijzigd worden na overleg met de exploitanten.<br>
+§1. De rapporteringssjabloon wordt gebruikt om T te verantwoorden, om het tariefpad uit te tekenen, om Td te bepalen en voor de omzetting naar de maximumtarieven. De WaterRegulator neemt de inhoud en de vorm van de rapporteringssjabloon op in het protocol, vermeld in artikel 2.5.2.3.3, §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
-§ 2. Het consultatieverslag, vermeld in artikel 2, § 5, geldt als resultaat van de consultatie over het tariefplan bij de abonnees, vermeld in artikel 4, § 1, tweede lid, 5°, van het besluit van 5 februari 2016.<br>
+De rapporteringssjabloon bevat de gegevens die noodzakelijk zijn om het tariefpad en de tarieven te berekenen.<br>
 <br>
-§ 3. Bij de rapporteringssjabloon voegt de exploitant een verslag van een bedrijfsrevisor die erkend is door het Instituut van de Bedrijfsrevisoren, over de rapporteringssjabloon die de exploitant ingevuld heeft voor de reeds afgesloten boekjaren. In dat verslag attesteert de bedrijfsrevisor voor de nog niet geattesteerde financiële gegevens van de boekjaren die al afgesloten zijn, het getrouwe beeld van de rapporteringstabellen in de rapporteringssjabloon. Bij het verslag voegt de bedrijfsrevisor een afschrift van de geattesteerde gegevens. Het verslag geldt als het conformiteitsattest van een revisor, vermeld in artikel 4, § 1, tweede lid, 7°, van het besluit van 5 februari 2016.<br>
+Het tariefpad wordt berekend op basis van al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de totale kosten van de drinkwateractiviteit;<br>
+2°&nbsp;&nbsp; &nbsp;de totale opbrengsten van de drinkwateractiviteit, zonder de omzet uit de drinkwatercomponent;<br>
+3°&nbsp;&nbsp; &nbsp;het geleverd opbrengend drinkwater aan abonnees.<br>
 <br>
-§ 4. De stukken, vermeld in paragraaf 1 tot en met 3, maken integraal deel uit van het tariefplan dat de exploitanten moeten indienen.
+Het tariefpad is een trend van T. T wordt berekend met de volgende formule: T = (de totale kosten van de drinkwateractiviteit - de totale opbrengsten van de drinkwateractiviteit, zonder de omzet uit de drinkwatercomponent) / het geleverde opbrengende drinkwater aan abonnees.<br>
+<br>
+De variabele drinkwatertarieven worden berekend op basis van al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de Td van het tariefpad;<br>
+2°&nbsp;&nbsp; &nbsp;het geleverde opbrengende drinkwater aan abonnees;<br>
+3°&nbsp;&nbsp; &nbsp;de omzet uit de verkoop aan huishoudelijke abonnees;<br>
+4°&nbsp;&nbsp; &nbsp;de omzet uit verbruiks- en afrekeningsfacturen aan abonnees;<br>
+5°&nbsp;&nbsp; &nbsp;de omzet die afkomstig is van de capaciteitsvergoeding voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+6°&nbsp;&nbsp; &nbsp;het aantal aangesloten wooneenheden zonder gedomicilieerden voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+7°&nbsp;&nbsp; &nbsp;het aantal aangesloten wooneenheden na overleg met gedomicilieerden zonder sociaal tarief voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+8°&nbsp;&nbsp; &nbsp;het aantal aangesloten gedomicilieerden in het distributiegebied waarvoor korting op vastrecht toegekend wordt zonder sociaal tarief voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+9°&nbsp;&nbsp; &nbsp;het aantal aangesloten wooneenheden met gedomicilieerden met sociaal tarief voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+10°&nbsp;&nbsp; &nbsp;het aantal aangesloten gedomicilieerden in het distributiegebied waarvoor korting op vastrecht toegekend wordt met sociaal tarief voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+11°&nbsp;&nbsp; &nbsp;het aantal watermeters waarop vastrecht wordt aangerekend voor respectievelijk huishoudelijke en niet-huishoudelijke abonnees;<br>
+12°&nbsp;&nbsp; &nbsp;de opbrengsten uit basisverbruik tegen afwijkend tarief voor huishoudelijke abonnees;<br>
+13°&nbsp;&nbsp; &nbsp;de opbrengsten uit comfortverbruik tegen afwijkend tarief voor huishoudelijke abonnees;<br>
+14°&nbsp;&nbsp; &nbsp;het basisverbruik zonder sociaal tarief voor huishoudelijke abonnees;<br>
+15°&nbsp;&nbsp; &nbsp;het basisverbruik met sociaal tarief voor huishoudelijke abonnees;<br>
+16°&nbsp;&nbsp; &nbsp;het comfortverbruik voor huishoudelijke abonnees zonder sociaal tarief;<br>
+17°&nbsp;&nbsp; &nbsp;het comfortverbruik voor huishoudelijke abonnees met sociaal tarief;<br>
+18°&nbsp;&nbsp; &nbsp;de omzet die afkomstig is van het afwijkende tarief voor niet-huishoudelijke abonnees;<br>
+19°&nbsp;&nbsp; &nbsp;het verbruik tegen vlak tarief voor niet-huishoudelijke abonnees zonder sociaal tarief;&nbsp;<br>
+20°&nbsp;&nbsp; &nbsp;het verbruik tegen vlak tarief voor niet-huishoudelijke abonnees met sociaal tarief.<br>
+<br>
+De tarieven worden berekend met de volgende formules:<br>
+1°&nbsp;&nbsp; &nbsp;basistarief = opbrengsten uit variabele prijs / (het basisverbruik zonder sociaal tarief voor huishoudelijke abonnees + (het basisverbruik met sociaal tarief voor huishoudelijke abonnees / 5) + (2 x het comfortverbruik voor huishoudelijke abonnees zonder sociaal tarief) + ( 2 / 5 x het comfortverbruik voor huishoudelijke abonnees met sociaal tarief));<br>
+2°&nbsp;&nbsp; &nbsp;vlak tarief = opbrengsten uit (standaard) variabele prijs / (het verbruik tegen vlak tarief voor niet-huishoudelijke abonnees zonder sociaal tarief + (het verbruik tegen vlak tarief voor niet-huishoudelijke abonnees met sociaal tarief / 5)).<br>
+<br>
+§2. Het consultatieverslag, vermeld in artikel 2, § 5, geldt als resultaat van de consultatie over het tariefplan bij de abonnees, vermeld in artikel 4, § 1, tweede lid, 5°, van het besluit van 5 februari 2016.<br>
+<br>
+§3. Bij de rapporteringssjabloon voegt de exploitant een verslag van een bedrijfsrevisor die erkend is door het Instituut van de Bedrijfsrevisoren, over de rapporteringssjabloon die de exploitant ingevuld heeft voor de boekjaren die al zijn afgesloten. Het verslag van de bedrijfsrevisor wordt opgemaakt volgens de ISRS 4400-standaard. In het voormelde verslag rapporteert de bedrijfsrevisor de feitelijke bevindingen over overeengekomen specifieke werkzaamheden van de nieuwe of gewijzigde gegevens in de rapporteringssjabloon die nog geen onderwerp hebben uitgemaakt van een eerder verslag.<br>
+<br>
+De volgende elementen maken deel uit van het verslag van de bedrijfsrevisor, vermeld in het eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatie van de informatie waarop de overeengekomen specifieke werkzaamheden toegepast zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de overeengekomen gegevens uit de rapporteringssjabloon, die als bijlage opgenomen worden;<br>
+3°&nbsp;&nbsp; &nbsp;de proef- en saldibalans;<br>
+4°&nbsp;&nbsp; &nbsp;de goedgekeurde statutaire jaarrekening;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;de interne analytische rapportering voor de drinkwateractiviteit;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;de gehanteerde grondslagen voor de financiële verslaggeving, waarvan de waarderingsregels als bijlage opgenomen worden;&nbsp;<br>
+7°&nbsp;&nbsp; &nbsp;de gehanteerde grondslagen voor de analytische verslaggeving, waarvan de verdeelsleutels als bijlage opgenomen worden;<br>
+8°&nbsp;&nbsp; &nbsp;de beschrijving van het doel waarvoor de overeengekomen specifieke werkzaamheden zijn uitgevoerd;<br>
+9°&nbsp;&nbsp; &nbsp;de beschrijving van de uitgevoerde specifieke werkzaamheden op basis van de bepalingen in het protocol, vermeld in artikel 2.5.2.3.3, §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+10°&nbsp;&nbsp; &nbsp;de feitelijke bevindingen van de auditor, met inbegrip van een voldoende gedetailleerde beschrijving van de gevonden fouten en uitzonderingen.<br>
+<br>
+Het verslag van de bedrijfsrevisor, vermeld in het eerste lid, geldt als het verslag van een revisor, vermeld in artikel 4, §1, tweede lid, 7°, van het besluit van 5 februari 2016.<br>
+<br>
+§4. De stukken, vermeld in paragraaf 1 tot en met 3, maken integraal deel uit van het tariefplan dat de exploitanten moeten indienen.
 
 ### ART. 4.
 
@@ -60,18 +109,36 @@ De WaterRegulator legt de nadere indieningsmodaliteiten voor de indiening van he
 
 ### ART 5.
 
-§ 1. De jaarlijkse opvolgingsrapportering bestaat uit:<br>
-1° een geactualiseerde versie van de relevante delen van de rapporteringssjabloon en de rollende forecast;<br>
-2° de materialiteitstoets;<br>
-3° de beschrijving van de uitvoering van kostenbesparingen en productiviteitsverhogingen die bewezen worden met de gegevens, vermeld in punt 1°.<br>
+§1. De opvolgingsrapportering, vermeld in artikel 10 van het besluit van 5 februari 2016, bestaat uit al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;jaarlijks een geactualiseerde versie van de relevante delen van de rapporteringssjabloon en de rollende forecast;<br>
+2°&nbsp;&nbsp; &nbsp;jaarlijks de materialiteitstoets;<br>
+3°&nbsp;&nbsp; &nbsp;in het derde en het zesde jaar van de tarifaire periode, naast voorgaande elementen 1° en 2°, de realisatie en eventueel een bijgestelde prognose, zonder rollende forecast, van:<br>
+a)&nbsp;&nbsp; &nbsp;de voorgenomen doelstellingen en de daaraan gekoppelde KPI’s;<br>
+b)&nbsp;&nbsp; &nbsp;de investeringsprogramma’s of -projecten ter uitvoering van de doelstellingen en de daaraan gekoppelde KPI’s en uitgaven.<br>
 <br>
-§ 2. Voor de jaarlijkse rapportering van de geactualiseerde versie van de relevante delen van de rapporteringssjabloon, de rollende forecast en de materialiteitstoets wordt de opvolgingssjabloon gebruikt, opgenomen in bijlage 2, die bij dit besluit is gevoegd. De opvolgingssjabloon kan alleen gewijzigd worden na overleg met de exploitanten.<br>
+In het eerste lid, 3°, wordt verstaan onder KPI: kritieke prestatie-indicator. Dat is een variabele waarmee de prestaties van het bedrijf ten aanzien van de gekoppelde doelstelling gemeten kunnen worden.<br>
 <br>
-De materialiteitstoets bestaat uit de verhouding tussen de effectief gerealiseerde T<sub><span style="font-size: small;">ko</span></sub> van een jaar en de T<sub><span style="font-size: small;">ko</span></sub> die opgenomen is in het definitieve tariefpad voor datzelfde jaar voor elk van de afgesloten boekjaren van de tarifaire periode waarop het definitieve tariefpad betrekking heeft.<br>
+§2. Voor de jaarlijkse rapportering van de geactualiseerde versie van de relevante delen van de rapporteringssjabloon, de rollende forecast en de materialiteitstoets wordt de opvolgingssjabloon, vermeld in artikel 10 van het besluit van 5 februari 2016, gebruikt. De WaterRegulator neemt de inhoud en de vorm van de voormelde opvolgingssjabloon op in het protocol, vermeld in artikel 2.5.2.3.3, §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
-Bij de opvolgingssjabloon voegt de exploitant een verslag van een bedrijfsrevisor die erkend is door het Instituut van de Bedrijfsrevisoren, over de opvolgingssjabloon die de exploitant ingevuld heeft voor de boekjaren die al afgesloten zijn. In dat verslag attesteert de bedrijfsrevisor voor de nog niet geattesteerde financiële gegevens van de boekjaren die al afgesloten zijn, het getrouwe beeld van de rapporteringstabellen in de opvolgingssjabloon. Bij het verslag voegt de bedrijfsrevisor een afschrift van de geattesteerde gegevens.<br>
+De materialiteitstoets, vermeld in artikel 10, tweede lid, van het besluit van 5 februari 2016, bestaat uit de verhouding tussen de effectief gerealiseerde Tko van een jaar en de Tko die opgenomen is in het definitieve tariefpad voor datzelfde jaar voor elk van de afgesloten boekjaren van de tarifaire periode waarop het definitieve tariefpad betrekking heeft.<br>
 <br>
-§ 3. De WaterRegulator legt de nadere indieningsmodaliteiten voor de indiening van de opvolgingsrapportering voor de exploitanten vast in een handleiding.
+Een bijstelling van de doelstellingen of de investeringen uit het tariefplan wordt door de exploitant verantwoord met een afschrift van de gemotiveerde beslissing van het bestuursorgaan van de exploitant dat daarvoor bevoegd is.<br>
+<br>
+Bij de opvolgingssjabloon, vermeld in artikel 10 van het besluit van 5 februari 2016, voegt de exploitant een verslag van een bedrijfsrevisor die erkend is door het Instituut van de Bedrijfsrevisoren, over de opvolgingssjabloon die de exploitant ingevuld heeft voor de boekjaren die al zijn afgesloten. Het verslag wordt opgemaakt volgens de ISRS 4400-standaard. In het voormelde verslag rapporteert de bedrijfsrevisor de feitelijke bevindingen over overeengekomen specifieke werkzaamheden van de nieuwe of gewijzigde gegevens in de voormelde opvolgingssjabloon die nog geen onderwerp hebben uitgemaakt van een eerder verslag.<br>
+<br>
+De volgende elementen maken deel uit van het verslag van de bedrijfsrevisor, vermeld in het vierde lid:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatie van de informatie waarop de overeengekomen specifieke werkzaamheden toegepast zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de overeengekomen gegevens uit de opvolgingssjabloon, die als bijlage opgenomen wordt;<br>
+3°&nbsp;&nbsp; &nbsp;de proef- en saldibalans;<br>
+4°&nbsp;&nbsp; &nbsp;de goedgekeurde statutaire jaarrekening;<br>
+5°&nbsp;&nbsp; &nbsp;de interne analytische rapportering voor de drinkwateractiviteit;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;de gehanteerde grondslagen voor de financiële verslaggeving, waarvan de waarderingsregels als bijlage opgenomen worden;&nbsp;<br>
+7°&nbsp;&nbsp; &nbsp;de gehanteerde grondslagen voor de analytische verslaggeving, waarvan de verdeelsleutels als bijlage opgenomen worden;&nbsp;<br>
+8°&nbsp;&nbsp; &nbsp;de beschrijving van het doel waarvoor de overeengekomen specifieke werkzaamheden zijn uitgevoerd;&nbsp;<br>
+9°&nbsp;&nbsp; &nbsp;de beschrijving van de uitgevoerde specifieke werkzaamheden op basis van de bepalingen in het protocol, vermeld in artikel 2.5.2.3.3, §2, van het Waterwetboek;&nbsp;<br>
+10°&nbsp;&nbsp; &nbsp;de feitelijke bevindingen van de auditor, met inbegrip van een voldoende gedetailleerde beschrijving van de gevonden fouten en uitzonderingen.<br>
+<br>
+§3. De WaterRegulator legt de nadere indieningsmodaliteiten voor de indiening van de opvolgingsrapportering voor de exploitanten vast in een handleiding.
 
 ### BIJLAGE
 

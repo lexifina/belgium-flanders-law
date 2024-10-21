@@ -2,16 +2,16 @@
   "codex_id": 1026878,
   "title": "Ministerieel besluit van 2016-06-01 houdende bepalingen in het kader van de tariefregulering van de integrale drinkwaterfactuur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026878/VolledigDocument?datum=2019-02-23",
-  "source_sha256": "c4498b910b1683b0b554b15541ed94604bcdd36550656bc13b47b908cece42be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026878/VolledigDocument?datum=2024-10-21",
+  "source_sha256": "c695c0ed395d967db95346f6cb164686386fe00a9756072f396f4acc681f28fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026878&param=informatie",
-  "as_of": "2019-02-23",
+  "as_of": "2024-10-21",
   "made": "2016-06-01",
   "gazette": "2016-06-10",
   "numac": 2016035917,
   "document_start": "2016-06-20",
   "document_end": null,
-  "in_force": "2019-02-23",
+  "in_force": "2024-10-21",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2019-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-10-21; future article versions excluded; article text as the API gives it"
 }
