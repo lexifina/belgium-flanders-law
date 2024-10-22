@@ -227,9 +227,9 @@ Naast de gegevens, vermeld in artikel 15, eerste lid, van het decreet van 23 jun
 1° de WIES-woningen en WIES-gronden met een verwijzing naar de omgevingsvergunning op basis waarvan een grond of woning de kwalificatie van WIES-grond of WIES-woning krijgt;<br>
 2° de meldingen, vermeld in artikel 5.&nbsp;<br>
 <br>
-De instrumenterende ambtenaar die belast is met de overgang van een woning of grond, kan het WIES-register raadplegen.<br>
+De instrumenterende ambtenaar die belast is met de overgang van een woning of grond, kan het WIES-register raadplegen via het VIP, vermeld in artikel 2, 20°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform.<br>
 <br>
-De personen, vermeld in art. 5.2.6, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 1999, kunnen de gegevens, vermeld in het eerste lid, 1°, raadplegen.
+De personen, vermeld in art. 5.2.6, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 1999, kunnen de gegevens, vermeld in het eerste lid, 1°, raadplegen via het VIP, vermeld in artikel 2, 20°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform.
 
 ## Hoofdstuk 8. Verwerking van persoonsgegevens
 
