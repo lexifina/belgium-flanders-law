@@ -35,6 +35,19 @@ Voor de personeelsleden die vanaf 1 januari 2022 voor het eerst in dienst treden
 
 Aan elke graad worden één of meer salarisschalen verbonden. Het hogeschoolbestuur bepaalt welke salarisschaal wordt verleend, rekening houdend met de bepalingen van artikel 3 van dit besluit.<br /><br />Het hogeschoolbestuur legt in een intern reglement de criteria vast volgens welke een hogere salarisschaal binnen eenzelfde graad kan worden toegekend. Het intern reglement dient minstens te bepalen aan welke voorwaarden hiervoor dient te worden voldaan.
 
+### ART 6/1.
+
+Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het minimumsalaris van de laagste nog geldende salarisschaal in niveau D, vermeld in de bijlage. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1°&nbsp;&nbsp; &nbsp;de koopkracht van de personeelsleden die de minimumsalarissen van de laagste nog geldende salarisschaal in niveau D, vermeld in de bijlage, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2°&nbsp;&nbsp; &nbsp;het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3°&nbsp;&nbsp; &nbsp;het groeipercentage van de wedden en lonen;<br>
+4°&nbsp;&nbsp; &nbsp;nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5°&nbsp;&nbsp; &nbsp;de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.
+
 ### ART. 7.
 
 Elke salarisschaal behoort tot één van de vier niveaus, aangeduid met de letters A, B, C en D. De salarisschaal wordt verder aangeduid met cijfers. Het eerste cijfer duidt de graad aan, het tweede cijfer geeft de plaats aan van de salarisschaal met betrekking tot de andere salarisschalen die binnen dezelfde graad bestaan.
