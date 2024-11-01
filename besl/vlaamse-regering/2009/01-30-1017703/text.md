@@ -58,7 +58,7 @@ Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn :<br>
 <br>
 § 2. Als de aanvraag onontvankelijk is, wordt dat door de administratie aan de aanvrager gemeld binnen een termijn van dertig dagen na de ontvangst van de aanvraag tot erkenning.<br>
 <br>
-§ 3. De administratie vervolledigt het erkenningsdossier eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
+§ 3. De administratie vervolledigt het erkenningsdossier eventueel met een inspectieverslag als vermeld in artikel 35, 4°.&nbsp;De administratie beoordeelt de gemotiveerde verzoeken, vermeld in artikel 4, derde lid, 1°.<br>
 <br>
 § 4. De beslissing van de secretaris-generaal waarbij de erkenning wordt verleend, wordt bezorgd aan de aanvrager.<br>
 <br>

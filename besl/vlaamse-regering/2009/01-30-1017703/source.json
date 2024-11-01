@@ -2,16 +2,16 @@
   "codex_id": 1017703,
   "title": "Besluit van de Vlaamse Regering van 2009-01-30 betreffende de Logo's",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017703/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "3641e4bad311fe6cfc870e725cd4c7bc869bc336e8fa43a637e3716b79900369",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017703/VolledigDocument?datum=2024-11-01",
+  "source_sha256": "4e473976f72f460ae4b0bd1f7d9966048e4781860c4d91f61b97f3cf73fe1a95",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017703&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2024-11-01",
   "made": "2009-01-30",
   "gazette": "2009-03-19",
   "numac": 2009201140,
   "document_start": "2009-03-01",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2024-11-01",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-11-01; future article versions excluded; article text as the API gives it"
 }
