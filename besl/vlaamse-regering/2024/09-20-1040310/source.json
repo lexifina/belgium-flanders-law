@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040310,
+  "title": "Besluit van de Vlaamse Regering van 2024-09-20 over het flankerend beleid ter uitvoering van de programmatische aanpak stikstof",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040310/VolledigDocument?datum=2024-11-01",
+  "source_sha256": "873fa746d324e3d9087695c625b0ea8fb6919a293fce53ba8c109dc6c3e818ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040310&param=informatie",
+  "as_of": "2024-11-01",
+  "made": "2024-09-20",
+  "gazette": "2024-10-25",
+  "numac": 2024009737,
+  "document_start": "2024-11-01",
+  "document_end": null,
+  "in_force": "2024-11-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
