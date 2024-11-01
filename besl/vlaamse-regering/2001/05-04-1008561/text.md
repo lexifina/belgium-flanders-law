@@ -103,6 +103,20 @@ vanaf 1 oktober 1999 :</p>
 
 De in artikel 1 vermelde jaarsalarissen zijn bedragen aan 100 % ten opzichte van het indexcijfer 138,01.
 
+### ART 2/1.
+
+Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het aanvangssalaris van assistent, vermeld in artikel 1, §2. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1°&nbsp;&nbsp; &nbsp;de koopkracht van de personeelsleden die het aanvangssalaris, vermeld in artikel 1, §2, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2°&nbsp;&nbsp; &nbsp;het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3°&nbsp;&nbsp; &nbsp;het groeipercentage van de wedden en lonen;<br>
+4°&nbsp;&nbsp; &nbsp;nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5°&nbsp;&nbsp; &nbsp;de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.<br>
+&nbsp;
+
 ### ART. 3.
 
 (niet opgenomen)<br /><br />(Wijzigt artikel 3 van het besluit van de Vlaamse regering van 27 februari 1992 houdende vaststelling van de bezoldigingsregeling van het assisterend academisch personeel)
